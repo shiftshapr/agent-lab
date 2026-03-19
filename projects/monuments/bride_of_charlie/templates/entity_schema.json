@@ -1,0 +1,176 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://brc222.org/schemas/episode-entities/v1",
+  "title": "Episode Entity Extraction (JSON-LD / BRC222)",
+  "description": "JSON-LD compliant structured output for two-phase generation. Aligned with BRC222.org for Bitcoin ordinals content bridging. Use placeholder refs (ART_n, CLAIM_n, NODE_n). IDs assigned in Phase 2.",
+  "type": "object",
+  "definitions": {
+    "confidenceLevel": {
+      "type": "string",
+      "enum": ["high", "medium", "low"],
+      "description": "Extractor confidence in attribution or reading"
+    },
+    "uncertaintyNote": {
+      "type": "string",
+      "description": "Brief note on ambiguity, overlap, or limits of evidence"
+    }
+  },
+  "required": ["meta", "executive_summary", "artifacts", "nodes", "claims"],
+  "properties": {
+    "@context": {
+      "oneOf": [
+        { "type": "string", "const": "https://brc222.org/context/v1" },
+        {
+          "type": "object",
+          "description": "Inline or extended JSON-LD context"
+        }
+      ]
+    },
+    "@type": { "const": "EpisodeAnalysis" },
+    "@id": { "type": "string", "description": "Optional canonical URI for this analysis" },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "episode": { "type": "integer" },
+        "source": { "type": "string" },
+        "video_timestamp_range": { "type": "string" },
+        "extraction_timestamp": {
+          "type": "string",
+          "description": "UTC ISO 8601 when Phase 1 extraction was written (set by pipeline)"
+        },
+        "model_version": {
+          "type": "string",
+          "description": "LLM model identifier used for extraction (set by pipeline)"
+        },
+        "transcript_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$",
+          "description": "SHA-256 hex of raw transcript bytes used for extraction (UTF-8)"
+        }
+      }
+    },
+    "executive_summary": { "type": "string" },
+    "artifacts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["family_ref", "bundle_name", "sub_items"],
+        "properties": {
+          "@type": { "const": "ArtifactFamily" },
+          "@id": { "type": "string", "pattern": "^ART_\\d+$" },
+          "family_ref": { "type": "string", "pattern": "^ART_\\d+$" },
+          "bundle_name": { "type": "string" },
+          "sub_items": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["ref", "description"],
+              "properties": {
+                "@type": { "const": "Artifact" },
+                "@id": { "type": "string", "pattern": "^ART_\\d+\\.\\d+$" },
+                "ref": { "type": "string", "pattern": "^ART_\\d+\\.\\d+$" },
+                "description": { "type": "string" },
+                "event_timestamp": { "type": "string" },
+                "source_timestamp": { "type": "string" },
+                "video_timestamp": { "type": "string" },
+                "discovery_timestamp": { "type": "string" },
+                "related_claims": { "type": "array", "items": { "type": "string" } },
+                "related_nodes": { "type": "array", "items": { "type": "string" } },
+                "tags": { "type": "array", "items": { "type": "string" }, "description": "e.g. court_filing, social_media, interview, public_record, screenshot, verbal_only" },
+                "transcript_snippet": { "type": "string", "description": "Exact words from transcript where this artifact was referenced (for verification)" },
+                "same_as_artifact_refs": {
+                  "type": "array",
+                  "items": { "type": "string", "pattern": "^ART_\\d+\\.\\d+$" },
+                  "description": "Other artifact sub_item refs that are the same underlying document or duplicate display"
+                },
+                "confidence": { "$ref": "#/definitions/confidenceLevel" },
+                "uncertainty_note": { "$ref": "#/definitions/uncertaintyNote" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "nodes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["ref", "name", "type", "description"],
+        "properties": {
+          "@type": { "enum": ["Person", "InvestigationTarget"] },
+          "@id": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
+          "ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
+          "name": { "type": "string" },
+          "type": { "enum": ["person", "investigation_target"] },
+          "description": { "type": "string" },
+          "related_artifacts": { "type": "array", "items": { "type": "string" } },
+          "related_claims": { "type": "array", "items": { "type": "string" } },
+          "tags": { "type": "array", "items": { "type": "string" }, "description": "e.g. key_figure, witness, institution, discrepancy_target, host, quoted" },
+          "confidence": { "$ref": "#/definitions/confidenceLevel" },
+          "uncertainty_note": { "$ref": "#/definitions/uncertaintyNote" }
+        }
+      }
+    },
+    "memes": {
+      "type": "array",
+      "description": "Meme/euphemism/code analysis — reference M-N from canonical dictionary. Each occurrence records when, where, who said it.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "ref": { "type": "string", "pattern": "^M-\\d+$" },
+          "canonical_term": { "type": "string" },
+          "type": { "enum": ["meme", "euphemism", "code"] },
+          "occurrences": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "episode": { "type": "integer", "description": "Episode number" },
+                "video_timestamp": { "type": "string", "description": "When in video (HH:MM:SS)" },
+                "quote": { "type": "string", "description": "Exact transcript snippet where meme appears (verbatim when possible, for verification)" },
+                "speaker_node_ref": { "type": "string", "pattern": "^NODE_\\d+$", "description": "Who said it (NODE_1, NODE_2, etc.)" },
+                "context": { "type": "string", "description": "Surrounding context or how it's used" },
+                "tags": { "type": "array", "items": { "type": "string" }, "description": "e.g. coded_language, euphemism, derogatory, insider, political, religious, historical, ironic" },
+                "confidence": { "$ref": "#/definitions/confidenceLevel" },
+                "uncertainty_note": { "$ref": "#/definitions/uncertaintyNote" }
+              }
+            }
+          },
+          "context": { "type": "string", "description": "Overall context for this meme in the episode (legacy/summary)" }
+        }
+      }
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["ref", "label", "claim", "anchored_artifacts", "related_nodes"],
+        "properties": {
+          "@type": { "const": "Claim" },
+          "@id": { "type": "string", "pattern": "^CLAIM_\\d+$" },
+          "ref": { "type": "string", "pattern": "^CLAIM_\\d+$" },
+          "label": { "type": "string" },
+          "claim_timestamp": { "type": "string" },
+          "claim": { "type": "string" },
+          "anchored_artifacts": { "type": "array", "items": { "type": "string" } },
+          "related_nodes": { "type": "array", "items": { "type": "string" } },
+          "investigative_direction": { "type": "string" },
+          "tags": { "type": "array", "items": { "type": "string" }, "description": "e.g. falsifiable, contradiction, timeline, identity, financial, framing_premise" },
+          "transcript_snippet": { "type": "string", "description": "Exact words from transcript that support this claim (for verification)" },
+          "contradicts_claim_refs": {
+            "type": "array",
+            "items": { "type": "string", "pattern": "^CLAIM_\\d+$" },
+            "description": "Other claims in this episode this claim contradicts"
+          },
+          "supports_claim_refs": {
+            "type": "array",
+            "items": { "type": "string", "pattern": "^CLAIM_\\d+$" },
+            "description": "Other claims in this episode this claim supports or reinforces"
+          },
+          "confidence": { "$ref": "#/definitions/confidenceLevel" },
+          "uncertainty_note": { "$ref": "#/definitions/uncertaintyNote" }
+        }
+      }
+    }
+  }
+}

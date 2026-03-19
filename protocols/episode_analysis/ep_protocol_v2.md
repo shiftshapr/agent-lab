@@ -2,7 +2,7 @@
 
 This protocol tells an analysis agent how to process a single episode in the Bride of Charlie investigation and produce an inscription-ready record.
 
-The agent's job is to preserve investigative structure, not to preserve rhetoric.
+The agent’s job is to preserve investigative structure, not to preserve rhetoric.
 
 ---
 
@@ -507,7 +507,7 @@ Confidence Level: High
 ## Node Register
 **N-2** Erica Kirk
 
-Primary biographical subject of the episode's evidentiary claims.
+Primary biographical subject of the episode’s evidentiary claims.
 
 Evidence Count: 2
 Claim Count: 2
@@ -532,7 +532,7 @@ Investigative Pressure: Medium
 
 Claim Timestamp: 00:42:18
 
-Claim: The episode presents that Erica's DOB appears as November 22, 1988 across multiple filings.
+Claim: The episode presents that Erica’s DOB appears as November 22, 1988 across multiple filings.
 
 Anchored Artifacts: A-1004.1, A-1004.2
 
@@ -547,3 +547,4 @@ Investigative Direction: Obtain certified copies of the filings and compare them
 When uncertain, preserve less and preserve more carefully.
 
 The goal is structural integrity, not maximum volume.
+

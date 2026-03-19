@@ -2,98 +2,443 @@
 
 ## 1. Meta-Data
 
-- **Episode**: 1 (Bride of Charlie)
-- **Source**: Video/YouTube (Candace Owens show)
-- **Video Timestamp Range**: 00:01 – 01:03:59
-- **Extraction Timestamp**: [Current Analysis]
+- **Episode**: Bride of Charlie - Episode 1
+- **Source**: Candace Owens YouTube channel (video transcript)
+- **Video Timestamp Range**: 00:01:00 – 01:03:57
+- **Extraction Timestamp**: 2026-03-11
 - **Episode Ledger Summary**:
-  - Starting Artifact: A-1000
-  - Ending Artifact: A-1000.9
-  - Starting Claim: C-1000
-  - Ending Claim: C-1015
-  - New Nodes Introduced: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens), N-4 (Elizabeth Lane), N-5 (Lori France/Kent France - parents), N-6 (Carl/Elaine Fron - paternal grandparents), N-7 (Jack Solomon - connected figure), N-8 (Nicole Rothstein - roommate), N-1000 (Paternity Questions), N-1001 (Date of Birth Discrepancy), N-1002 (Single Mother Claim), N-1003 (Educational History), N-1004 (Turning Point USA Leadership)
+  - Artifact Families Introduced: A-1000, A-1001, A-1002, A-1003, A-1004
+  - Claim Range: C-1000–C-1008
+  - New Nodes Introduced: N-1, N-2, N-3, N-4, N-5, N-6, N-7, N-1000, N-1001, N-1002, N-1003
+  - Existing Nodes Reused: None (first episode)
 
 ---
 
 ## 2. Executive Summary
 
-This episode introduces an investigation into Erica Kirk, who assumed leadership of Turning Point USA—a charity that received over $250 million—following the death of her husband Charlie Kirk. Host Candace Owens presents claims about inconsistencies in Erica Kirk's biographical statements, including disputed date of birth, questions about her upbringing (claimed single mother vs. present father), and possible misidentification of paternal lineage. The episode anchors claims to divorce filings, birth announcements, yearbook records, and public social media posts. Multiple investigation targets are identified for future episodes.
+This inaugural episode of "Bride of Charlie" introduces a comprehensive investigation into Erica Kirk, the widow of Charlie Kirk who was fatally shot in 2024. The episode presents documentary evidence—including birth announcements, divorce filings, and social media posts—suggesting inconsistencies between Erica's public narrative and verifiable facts. Primary claims focus on her childhood family structure (contradicting the "single mother" narrative), date of birth discrepancies, possible paternity questions, and her attendance at an elite Tesaract school in Arizona. The host frames this as an investigation into whether Erica is "simply a grieving widow" or something else entirely.
 
 ---
 
 ## 3. Artifact Register
 
-| ID | Description | Related | Timestamps |
-|----|-------------|---------|------------|
-| A-1000 | Newspaper birth announcement for Erica France (November 20, 1988, Good Samaritan Hospital, Cincinnati, Ohio) | C-1000, C-1001, N-2 | Event: Nov 20 1988; Source: Dec 6 1988 newspaper |
-| A-1000.1 | Divorce filing by Lori France (July 20, 1998) - lists Erica's DOB as November 22, 1988 | C-1000, C-1001, N-2, N-5 | Event: July 20 1998 |
-| A-1000.2 | Divorce decree (November 10, 1998) - contains handwritten date alteration of marriage date | C-1002, N-5 | Event: Nov 10 1998 |
-| A-1000.3 | Separation agreement (undated, unnotarized) - shows marriage date as November 7, 1982 | C-1002, N-5 | Source: 1998 court records |
-| A-1000.4 | Yearbook photos from Tesark school (1995-1998) showing Erica's attendance | C-1008, N-2, N-1003 | Source: Paradise Valley Tesark |
-| A-1000.5 | Daycare registration (1992, Walnut Corner Children's Center, Cincinnati) | C-1008, N-2 | Event: 1992 |
-| A-1000.6 | Social media posts by Erica referencing grandfather as "morfar" (mother's father in Swedish) | C-1005, C-1006, N-6 | Source: Various dates 2016-2019 |
-| A-1000.7 | Article regarding Loretta Abbis (great-grandmother) arrested for running illegal lottery/slot machines (1941, 1944) | C-1007, N-5 | Event: 1941, 1944 |
-| A-1000.8 | Newspaper article (1974) showing Carl Kenneth Fron working at American Bank Note Company printing Illinois lottery tickets | C-1007, N-6 | Event: 1974 |
-| A-1000.9 | Email from Sweden fans explaining Swedish terminology distinction between "morfar" (mother's father) and "farfar" (father's father) | C-1005, N-6 | Source: Email correspondence |
+**A-1000** Birth Announcement Bundle
+
+**A-1000.1** Newspaper Birth Announcement
+
+Event Timestamp: December 6, 1988 (newspaper date)
+Source Timestamp: November 20, 1988 (birth date claimed)
+Video Timestamp: 22:04–22:17
+Discovery Timestamp: 2026-03-11
+Confidence Level: High
+
+*Related: C-1000, N-2, N-1000*
+
+---
+
+**A-1001** Divorce Filing Bundle (1998)
+
+**A-1001.1** Ohio Divorce Filing - Initial Complaint
+
+Event Timestamp: July 20, 1998 (filing date)
+Source Timestamp: 1998
+Video Timestamp: 23:06–23:20
+Discovery Timestamp: 2026-03-11
+Confidence Level: High
+
+*Related: C-1001, N-2, N-3, N-4, N-1000, N-1002*
+
+**A-1001.2** Separation Agreement (unnotarized, undated)
+
+Event Timestamp: Unknown (circa 1998)
+Source Timestamp: 1998
+Video Timestamp: 23:56–24:15
+Discovery Timestamp: 2026-03-11
+Confidence Level: Medium
+
+*Related: C-1001, C-1002, N-2, N-1002*
+
+**A-1001.3** Divorce Decree
+
+Event Timestamp: November 10, 1998
+Source Timestamp: 1998
+Video Timestamp: 25:08–25:30
+Discovery Timestamp: 2026-03-11
+Confidence Level: High
+
+*Related: C-1002, N-2, N-1002*
+
+---
+
+**A-1002** Ancestry/Historical Records Bundle
+
+**A-1002.1** Loretta Abbis Court Records (1941-1944)
+
+Event Timestamp: 1941–1944
+Source Timestamp: Historical newspaper records
+Video Timestamp: 32:56–33:38
+Discovery Timestamp: 2026-03-11
+Confidence Level: High
+
+*Related: C-1003, N-3*
+
+**A-1002.2** Mason Abbis Arrest Record (1935)
+
+Event Timestamp: 1935
+Source Timestamp: Historical newspaper
+Video Timestamp: 33:52–34:34
+Discovery Timestamp: 2026-03-11
+Confidence Level: High
+
+*Related: C-1003, N-3*
+
+**A-1002.3** Carl Kenneth Fron Employment Record (1974)
+
+Event Timestamp: 1974
+Source Timestamp: Newspaper article
+Video Timestamp: 35:17–35:34
+Discovery Timestamp: 2026-03-11
+Confidence Level: High
+
+*Related: C-1004, N-6*
+
+---
+
+**A-1003** Social Media Posts Bundle
+
+**A-1003.1** Swedish Citizenship Post (2019)
+
+Event Timestamp: 2019
+Source Timestamp: Social media (Instagram/X)
+Video Timestamp: 36:30–36:40
+Discovery Timestamp: 2026-03-11
+Confidence Level: High
+
+*Related: C-1005, N-2*
+
+**A-1003.2** "Morfar" Grandfather Posts
+
+Event Timestamp: Various (pre-2016 to 2016)
+Source Timestamp: Social media
+Video Timestamp: 36:54–37:38
+Discovery Timestamp: 2026-03-11
+Confidence Level: High
+
+*Related: C-1006, N-2, N-1001*
+
+**A-1003.3** Zion's Gate Post (March 21, 2019)
+
+Event Timestamp: March 21, 2019
+Source Timestamp: Social media
+Video Timestamp: 39:55–40:29
+Discovery Timestamp: 2026-03-11
+Confidence Level: High
+
+*Related: C-1007, N-2, N-7*
+
+---
+
+**A-1004** Educational Records Bundle
+
+**A-1004.1** Walnut Corner Children's Center Attendance (1992)
+
+Event Timestamp: 1992
+Source Timestamp: Daycare records
+Video Timestamp: 50:36–50:58
+Discovery Timestamp: 2026-03-11
+Confidence Level: High
+
+*Related: C-1008, N-2*
+
+**A-1004.2** Tesaract School Yearbooks (1995-1998)
+
+Event Timestamp: 1995–1998
+Source Timestamp: School records
+Video Timestamp: 53:41–54:06
+Discovery Timestamp: 2026-03-11
+Confidence Level: High
+
+*Related: C-1008, N-2, N-1003*
 
 ---
 
 ## 4. Node Register
 
-| ID | Entity / Target | Evidence Count | Claim Count |
-|----|------------------|----------------|-------------|
-| N-1 | Charlie Kirk | 1 | 0 |
-| N-2 | Erica Kirk | 9 | 10 |
-| N-3 | Candace Owens | 1 | 0 |
-| N-4 | Elizabeth Lane | 1 | 1 |
-| N-5 | Lori France / Kent France (Erica's parents) | 4 | 4 |
-| N-6 | Carl & Elaine Fron (paternal grandparents) | 3 | 3 |
-| N-7 | Jack Solomon | 2 | 0 |
-| N-8 | Nicole Rothstein | 1 | 0 |
-| N-1000 | Paternity Questions | 3 | 3 |
-| N-1001 | Date of Birth Discrepancy | 3 | 2 |
-| N-1002 | Single Mother Claim | 2 | 2 |
-| N-1003 | Educational Timeline | 2 | 2 |
-| N-1004 | Turning Point USA Leadership | 1 | 1 |
+**N-1** Charlie Kirk
+
+Founder of Turning Point USA, killed in 2024. The investigation centers on his widow Erica Kirk assuming leadership of the organization.
+
+Evidence Count: 0
+Claim Count: 0
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: N-2*
+
+---
+
+**N-2** Erica Kirk
+
+Primary subject of investigation. Wife of Charlie Kirk who assumed leadership of Turning Point USA after his death. Public narrative claims she was raised by a single mother; evidence presented contradicts this.
+
+Evidence Count: 8
+Claim Count: 8
+Episode Count: 1
+Investigative Pressure: High
+
+*Related: A-1000.1, A-1001.1, A-1001.2, A-1001.3, A-1003.1, A-1003.2, A-1003.3, A-1004.1, A-1004.2, N-1, N-3, N-4, N-5, N-6, N-7, N-1000, N-1001, N-1002, N-1003*
+
+---
+
+**N-3** Lorie France (née Abbis)
+
+Erica's mother. Publicly presented as a single mother who raised Erica; evidence suggests otherwise.
+
+Evidence Count: 3
+Claim Count: 2
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-1001.1, A-1002.1, A-1002.2, N-2, N-4*
+
+---
+
+**N-4** Kent France
+
+Erica's father. Presented as absent in Erica's narrative; evidence suggests he was a stay-at-home dad during her childhood.
+
+Evidence Count: 2
+Claim Count: 2
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-1001.1, A-1001.2, A-1001.3, N-2, N-3*
+
+---
+
+**N-5** Larry Ginta
+
+Erica's stepfather. Present in her life during childhood; not mentioned in her public narrative.
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: N-2*
+
+---
+
+**N-6** Carl and Elaine Fron (paternal grandparents)
+
+Erica's Swedish grandparents. Evidence suggests she identifies strongly with Swedish heritage despite her narrative about being raised by a single mother.
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: A-1002.3, N-2*
+
+---
+
+**N-7** Jack Solomon / Rothstein Family
+
+Connected to Erica through claims about Zion's Gate dedication. The family financed the restoration of Zion's Gate in Jerusalem.
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: A-1003.3, N-2*
+
+---
+
+**N-1000** Date of Birth Discrepancy
+
+Erica publicly claims November 20, 1988; divorce filing lists November 22, 1988.
+
+Evidence Count: 2
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-1000.1, A-1001.1, C-1000, N-2*
+
+---
+
+**N-1001** Paternity Question
+
+Erica calls her paternal grandfather "morfar" (mother's father in Swedish) instead of "farfar" (father's father), suggesting possible paternity discrepancy.
+
+Evidence Count: 2
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: High
+
+*Related: A-1003.2, C-1006, N-2, N-6*
+
+---
+
+**N-1002** Marriage Date Discrepancy
+
+Four different marriage dates for Kent and Lorie France appear across divorce documents: November 20, 1995; November 7, 1982; November 20, 1985; with manual edits appearing on the decree.
+
+Evidence Count: 3
+Claim Count: 2
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-1001.1, A-1001.2, A-1001.3, C-1001, C-1002, N-3, N-4*
+
+---
+
+**N-1003** Tesaract School Investigation
+
+Erica attended Tesaract School in Paradise Valley, Arizona (1995-1998), an elite institution connected to the Bush and Walton families, with alleged connections to Project Looking Glass theming.
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-1004.2, C-1008, N-2*
 
 ---
 
 ## 5. Claim Register
 
-| ID | Claim | Anchored Artifacts | Related Nodes |
-|----|-------|-------------------|---------------|
-| C-1000 | Erica Kirk's official stated birthday is November 20, 1988 | A-1000 | N-2, N-1001 |
-| C-1001 | Her parents' divorce filing lists her birthdate as November 22, 1988 (two days later) | A-1000.1 | N-2, N-5, N-1001 |
-| C-1002 | Divorce documents contain multiple conflicting marriage dates: November 20, 1995 (filing), November 7, 1982 (separation agreement), and 1985 (handwritten edit on decree) | A-1000.1, A-1000.2, A-1000.3 | N-5 |
-| C-1003 | Erica claims she was raised by a single mother but her father Kent was present throughout her childhood, including periods as a stay-at-home dad | A-1000.4, A-1000.5 | N-2, N-5, N-1002 |
-| C-1004 | Erica also had a stepfather Larry Ginta present during her childhood | Transcript reference | N-2, N-5, N-1002 |
-| C-1005 | Erica incorrectly refers to her paternal grandfather Carl Fron as "morfar" (Swedish for mother's father) when he would be her "farfar" (father's father) | A-1000.6, A-1000.9 | N-2, N-6, N-1000 |
-| C-1006 | This misidentification potentially indicates different biological parentage than claimed | A-1000.6, A-1000.9 | N-2, N-6, N-1000 |
-| C-1007 | Erica's family history includes relatives involved in gambling/lottery businesses on both maternal (Abbis) and paternal (Fron) sides | A-1000.7, A-1000.8 | N-5, N-6 |
-| C-1008 | Erica attended Tesark school in Paradise Valley, Arizona from 1995-1998 (grades 1-3), not moving to Arizona only after 1998 divorce | A-1000.4, A-1000.5 | N-2, N-1003 |
-| C-1009 | Tesark school was associated with John T. Goalie, the Walton family, Jeb Bush, and was located in a building called "Gan Yaladim's Looking Glass School" | Transcript reference | N-1003 |
-| C-1010 | Erica pursued Swedish dual citizenship in 2019 despite claiming to be raised by a single Lebanese/Syrian mother | Transcript reference | N-2, N-1002 |
-| C-1011 | Erica describes Zion's Gate in Jerusalem as her "family's dedication" though it actually belongs to the Rothstein/Solomon family | Transcript reference | N-2, N-7, N-8 |
-| C-1012 | Erica called Alan Rothstein "uncle" though there is no blood relation | Transcript reference | N-2, N-7, N-8 |
-| C-1013 | Elizabeth Lane's viral post characterizes Erica Kirk as exhibiting behaviors consistent with psychopathy based on observable patterns | A-1000.9 (referenced in transcript) | N-2, N-4 |
-| C-1014 | Turning Point USA is a charity that received over $250 million last year and Erica Kirk was installed as leader despite having zero professional qualifications | Transcript reference | N-2, N-1004 |
-| C-1015 | Four questions were submitted to Erica Kirk regarding inconsistencies but no response received before air date | Transcript reference | N-2 |
+**C-1000** Birth Date Discrepancy Between Public Claims and Legal Documents
+
+Claim Timestamp: 22:55–23:02
+
+Claim: Erica publicly claims birth date of November 20, 1988, but her parents' divorce filing lists her birth date as November 22, 1988.
+
+Anchored Artifacts: A-1000.1, A-1001.1
+
+Related Nodes: N-2, N-1000
+
+Investigative Direction: Obtain certified copies of the birth certificate and compare with divorce filing records to determine which date is accurate.
+
+---
+
+**C-1001** Multiple Marriage Dates in Divorce Documents
+
+Claim Timestamp: 23:35–24:30
+
+Claim: The divorce filings between Kent and Lorie France contain four different marriage dates across two documents, ranging from 1982 to 1995.
+
+Anchored Artifacts: A-1001.1, A-1001.2
+
+Related Nodes: N-2, N-3, N-4, N-1002
+
+Investigative Direction: Request certified court records from Ohio to verify the authentic marriage date and determine why discrepancies exist.
+
+---
+
+**C-1002** Manual Date Alteration on Divorce Decree
+
+Claim Timestamp: 25:36–25:56
+
+Claim: The final divorce decree shows a handwritten alteration of the marriage date, which is not a legally valid method for document modification.
+
+Anchored Artifacts: A-1001.3
+
+Related Nodes: N-2, N-3, N-4, N-1002
+
+Investigative Direction: Examine the original physical document to determine authenticity of the alteration and who may have made the change.
+
+---
+
+**C-1003** Ancestral History of Illegal Gambling
+
+Claim Timestamp: 32:51–34:34
+
+Claim: Erica's maternal ancestors—Loretta Abbis and Mason Abbis—were repeatedly arrested for running illegal lottery and slot machine operations in Pennsylvania during the 1930s-1940s.
+
+Anchored Artifacts: A-1002.1, A-1002.2
+
+Related Nodes: N-2, N-3
+
+Investigative Direction: Verify historical court records and newspaper archives confirm the arrests and convictions.
+
+---
+
+**C-1004** Paternal Grandfather's Connection to Lottery Ticket Printing
+
+Claim Timestamp: 35:17–35:34
+
+Claim: Erica's paternal grandfather Carl Kenneth Fron was an executive at American Bank Note Company, which printed Illinois state lottery tickets in 1974.
+
+Anchored Artifacts: A-1002.3
+
+Related Nodes: N-2, N-6
+
+Investigative Direction: Obtain employment records and company documents confirming his position and responsibilities.
+
+---
+
+**C-1005** Swedish Dual Citizenship Pursuit
+
+Claim Timestamp: 36:30–36:40
+
+Claim: In 2019, Erica publicly announced she was pursuing dual Swedish citizenship despite publicly claiming she was raised by a single Lebanese/Syrian mother.
+
+Anchored Artifacts: A-1003.1
+
+Related Nodes: N-2, N-3, N-6
+
+Investigative Direction: Obtain citizenship application records to confirm her claimed heritage and motivations.
+
+---
+
+**C-1006** Incorrect Swedish Term for Grandfather
+
+Claim Timestamp: 36:54–39:55
+
+Claim: Erica refers to her paternal grandfather as "morfar" (Swedish for mother's father) when he should be "farfar" (father's father), suggesting possible misattribution of paternity.
+
+Anchored Artifacts: A-1003.2
+
+Related Nodes: N-2, N-6, N-1001
+
+Investigative Direction: Interview Swedish language experts and family members to confirm whether this is a mistake or intentional.
+
+---
+
+**C-1007** Incorrect Attribution of Zion's Gate Dedication
+
+Claim Timestamp: 40:00–40:49
+
+Claim: Erica claimed the Zion's Gate restoration in Jerusalem was her family's dedication, but it was actually dedicated by the Rothstein family, with whom she claims distant familial relation.
+
+Anchored Artifacts: A-1003.3
+
+Related Nodes: N-2, N-7
+
+Investigative Direction: Obtain documentation of the Zion's Gate dedication and verify the Rothstein family's involvement.
+
+---
+
+**C-1008** Tesaract School Attendance
+
+Claim Timestamp: 50:36–54:06
+
+Claim: Erica attended Tesaract School in Paradise Valley, Arizona from 1995-1998, an elite institution founded with involvement from the Bush family, Walton family, and linked to John T. Goalie (Monsanto connection).
+
+Anchored Artifacts: A-1004.1, A-1004.2
+
+Related Nodes: N-2, N-1003
+
+Investigative Direction: Obtain school enrollment records and verify the institutional connections mentioned.
 
 ---
 
 ## 6. Optional Flags
 
-- **Uncertainty Flags**: 
-  - C-1005 and C-1006 involve interpretation of Swedish terminology and possible paternity implications; the claim that this "indicates different biological parentage" is inferential rather than direct evidence
-  - C-1009 regarding Tesark school connections to "Project Looking Glass" and the "Looking Glass School" name appears to be coincidental wordplay rather than substantive evidence
-  - The paternity questions (N-1000) remain speculative without DNA evidence
-
-- **Contradictions**:
-  - Date of Birth: November 20, 1988 (birth announcement) vs. November 22, 1998 (divorce filing) - both artifact-anchored
-  - Single Mother Claim: Erica claims raised by single mother vs. evidence of father present and stepfather in home - artifact-anchored
-  - Grandparent Terminology: "morfar" (mother's father) vs. "farfar" (father's father) - both artifact-anchored
-
-- **Methodological Notes**:
-  - The episode presents claims about the divorce documents having been altered (handwritten changes, unnotarized documents) but does not provide forensic analysis of these documents
-  - Swedish fans provided interpretation of terminology but no Swedish language expert is directly quoted
-  - Yearbook evidence establishes school attendance but the connection to "fraud" is not yet demonstrated with artifacts
+- **Name Uncertainty**: "Lori" / "Lorie" / "Loretta" - the mother's name appears with multiple spellings throughout (Lori France, Lorie France, Loretta Abbis). Verified as Loretta Abbis at birth.
+- **Artifact Not Shown**: The daycare photo showing "Freemason hand signs" is mentioned but not displayed in the transcript portion analyzed.
+- **Transcript Ambiguity**: The "Swedish fans" email is paraphrased rather than quoted directly.
+- **Speculation Flag**: The paternity hypothesis (C-1006) regarding "morfar" vs "farfar" is presented as potential evidence of different paternity, though this could also be a simple language error.
+- **Requires Human Verification**: Multiple claims rely on document descriptions rather than displayed artifacts—certified copies of all court documents should be obtained for verification.

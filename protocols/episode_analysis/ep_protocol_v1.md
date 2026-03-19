@@ -98,17 +98,15 @@ interview clips
 
 Artifacts use the A‑series numbering.
 
-Bundles begin at **A‑1000**.
+Each artifact **bundle** has a number (1000, 1001, 1002, …). Each bundle contains **sub‑artifacts** with decimal numbering (.01, .02, .03, …).
 
-Sub‑artifacts use decimal numbering.
+An episode may have **multiple bundles**. Example: Episode 1 with three artifact sets uses bundles 1000, 1001, 1002.
 
-Example:
+- Bundle 1000: A‑1000.01, A‑1000.02, A‑1000.03, …
+- Bundle 1001: A‑1001.01, A‑1001.02, …
+- Bundle 1002: A‑1002.01, …
 
-A‑1000 Court Filings
-
-A‑1000.1 Separation Agreement (1995)
-
-A‑1000.2 Separation Agreement (1996)
+Bundles are numbered sequentially across the entire investigation. Sub‑items use **two decimal places** (.01, .02, .03, …) — never .1, .2.
 
 Artifacts must include a Related reference line linking claims and nodes.
 
@@ -250,9 +248,9 @@ Highest Node ID
 
 The next episode must begin numbering from the next available value.
 
-Example after Episode 1:
+Example after Episode 1 (which had 3 bundles: 1000, 1001, 1002):
 
-Artifacts: A-1000.1 → A-1000.21
+Artifacts: A-1000.01–1000.05, A-1001.01–1001.08, A-1002.01–1002.03
 
 Claims: C-1000 → C-1008
 
@@ -260,11 +258,11 @@ Nodes: N-1 → N-7
 
 Episode 2 must therefore begin at:
 
-Artifacts: A-1000.22
+Artifacts: next available bundle 1003 (use 1003, 1004, … as many as needed)
 
 Claims: C-1009
 
-Nodes: N-8 (only if a new node is required)
+Nodes: N-8 (only if new; reuse N-1, N-2, etc. for same entities)
 
 Existing nodes must **never be renumbered**.
 
@@ -279,13 +277,13 @@ Example:
 
 Episode 2 Ledger Summary
 
-Starting Artifact: A-1000.22
-Ending Artifact: A-1000.32
+Starting Artifact: A-1002.01
+Ending Artifact: A-1002.12
 
 Starting Claim: C-1009
 Ending Claim: C-1013
 
-New Nodes Introduced: N-8, N-9
+New Nodes Introduced: N-8, N-9 (or "None" if only reusing existing nodes)
 
 This ensures the investigative ledger remains auditable and continuous across episodes.
 
@@ -300,8 +298,8 @@ Example:
 
 Correction Note
 
-A-1000.37 was referenced incorrectly in Episode 3.
-Correct reference: A-1000.36.
+A-1003.07 was referenced incorrectly in Episode 3.
+Correct reference: A-1003.06.
 
 The historical record must remain immutable.
 

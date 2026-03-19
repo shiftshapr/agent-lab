@@ -26,7 +26,23 @@ Agent performs the Episode Analysis Protocol on each episode in sequence.
 
 ---
 
-### 3. Review episode inscriptions
+### 3. Verify drafts (numbering + names)
+
+Run verification before cross-episode analysis:
+- **Numbering audit**: Checks for ID collisions across episodes (artifacts, claims, nodes)
+- **Name verification**: Web search to flag possible spelling errors (e.g. Tyler Boyer → Tyler Bowyer)
+
+**Output:** Console report. Fix any collisions or name issues before proceeding.
+
+```bash
+uv run --project framework/deer-flow/backend python projects/monuments/bride_of_charlie/scripts/run_workflow.py verify
+# Or without web search (numbering only):
+uv run ... run_workflow.py verify --skip-search
+```
+
+---
+
+### 4. Review episode inscriptions
 
 Human reviews drafts. Agent notes any changes and reasons, updates protocol.
 
@@ -34,7 +50,7 @@ Human reviews drafts. Agent notes any changes and reasons, updates protocol.
 
 ---
 
-### 4. Cross-episode analysis
+### 5. Cross-episode analysis
 
 Agent performs cross-episode analysis across all processed episodes.
 
@@ -42,7 +58,7 @@ Agent performs cross-episode analysis across all processed episodes.
 
 ---
 
-### 5. Review cross-episode results
+### 6. Review cross-episode results
 
 Human reviews. Agent notes any changes and reasons, updates protocol.
 
@@ -50,7 +66,7 @@ Human reviews. Agent notes any changes and reasons, updates protocol.
 
 ---
 
-### 6. Standby for future episodes
+### 7. Standby for future episodes
 
 Workflow pauses. Ready for new episodes when available.
 
@@ -71,6 +87,7 @@ bride_of_charlie/
 ├── scripts/
 │   ├── fetch_transcripts.py
 │   ├── run_workflow.py
+│   ├── verify_drafts.py
 │   └── cross_episode_analysis.py
 └── logs/
 ```
@@ -99,7 +116,10 @@ uv run --project framework/deer-flow/backend python projects/monuments/bride_of_
 # Re-run episodes when drafts are wrong or incomplete (e.g. from placeholder transcripts):
 uv run --project framework/deer-flow/backend python projects/monuments/bride_of_charlie/scripts/run_workflow.py episodes --force
 
-# Step 3: Cross-episode analysis -> drafts/
+# Step 3: Verify drafts (numbering + name spelling)
+uv run --project framework/deer-flow/backend python projects/monuments/bride_of_charlie/scripts/run_workflow.py verify
+
+# Step 4: Cross-episode analysis -> drafts/
 uv run --project framework/deer-flow/backend python projects/monuments/bride_of_charlie/scripts/run_workflow.py cross
 ```
 

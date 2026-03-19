@@ -2,107 +2,422 @@
 
 ## 1. Meta-Data
 
-- **Episode**: 5
-- **Source**: Video/audio (Bride of Charlie series)
-- **Video Timestamp Range**: [00:01] - [57:04]
-- **Extraction Timestamp**: [Current analysis]
+- **Episode**: Bride of Charlie Episode 5
+- **Source**: Video transcript
+- **Video Timestamp Range**: 00:01–57:04
+- **Extraction Timestamp**: 2025-01-14
 - **Episode Ledger Summary**:
-  - Starting Artifact: A-1001.62
-  - Ending Artifact: A-1001.89
-  - Starting Claim: C-1198
-  - Ending Claim: C-1215
-  - New Nodes Introduced: N-129, N-130, N-131
+  - Artifact Families Introduced: A-1017, A-1018, A-1019, A-1020, A-1021
+  - Claim Range: C-1053–C-1072
+  - New Nodes Introduced: N-21, N-1012, N-1013, N-1014, N-1015
+  - Existing Nodes Reused: N-1, N-2, N-3, N-4, N-5, N-6, N-7, N-1000, N-1001, N-1002, N-1003, N-1004, N-1005, N-1006, N-1007, N-1008, N-1009, N-1010, N-1011
 
 ---
 
 ## 2. Executive Summary
 
-Episode 5 continues the investigative timeline of Erica Kirk and her family, presenting evidence regarding Tesaract School's financial backing, Lori France's government contracts, and suspicious timeline gaps in Erica's education. The episode introduces evidence of military connections, foreign operations in Eastern Europe, and financial transactions between Lori's companies and the U.S. military. New witnesses and documentary evidence are presented regarding Rick (uncle) losing his law license and Tyler Ber's presence in Romania.
+Episode 5 constructs a detailed timeline of Erica Kirk from 1988 to 2010, presenting corporate records, school enrollment details, and government contract information as artifacts. The episode focuses on documenting Erica's educational trajectory, her mother Lori's business activities and government contracts, and introduces Tyler Ber's 2010 trip to Romania coinciding with US military base establishment. The episode also details the bar discipline history of Uncle Rick (Rick Urban). The evidentiary focus shifts from personal relationships to corporate structures and military/government connections.
 
 ---
 
 ## 3. Artifact Register
 
-| ID | Description | Related | Timestamps |
-|----|-------------|---------|------------|
-| A-1001.62 | Tesaract School documentation - backed by Bush family, Walton family, designed by Dr. Jerry France | C-1198, N-2 | Episode reference |
-| A-1001.63 | Dr. Jerry France Eastern Europe research trip documentation (1990) | C-1199, N-3, N-5 | 1990 |
-| A-1001.64 | Nancy Gerard / Nancy Gerard Hall background - military ties, father Colonel Paul Tracy Gerard | C-1200, N-129 | Episode reference |
-| A-1001.65 | Virtual Registration International Incorporated filing (December 1, 1999) | C-1201, N-2 | Dec 1, 1999 |
-| A-1001.66 | Intel International Incorporated of Delaware filing (September 24, 1999) | C-1201, N-2 | Sep 24, 1999 |
-| A-1001.67 | Intellment International Incorporated filing (December 2, 1999) | C-1201, N-2 | Dec 2, 1999 |
-| A-1001.68 | E3 Tech website - claims participation in Operation Enduring Freedom | C-1202, N-2 | Episode reference |
-| A-1001.69 | Tesaract bankruptcy records (2000) | C-1203, N-2 | 2000 |
-| A-1001.70 | House bill budget showing Lorie France receiving money from Department of Homeland Security (IMAT Laboratories) | C-1204, N-2 | 2005 |
-| A-1001.71 | Regis University player bio - Erica Kirk majoring in business administration | C-1205, N-1 | Episode reference |
-| A-1001.72 | Army National Guard disclosure - $2.4 million to IMET Laboratories (2008) | C-1206, N-2 | 2008 |
-| A-1001.73 | Everyday Heroes Like You filing - faith-based organization for vulnerable children (April 2009) | C-1207, N-2 | April 2009 |
-| A-1001.74 | Romanian government agreement to allow US military base along Black Sea (October 2009) | C-1208, N-130 | October 2009 |
-| A-1001.75 | Jeffrey Epstein emails regarding Romanian women (2009 onward) | C-1208, N-131 | 2009 |
-| A-1001.76 | Black Sea Rotational Force 10 establishment - Mihail Kogalneanu Air Base, Romania (May 17, 2010) | C-1209, N-130 | May 17, 2010 |
-| A-1001.77 | Tyler Ber conversation about Romania trip - worked with Romanian senator, modeling agency | C-1210, N-130 | Episode reference |
-| A-1001.78 | Colonel Otto Busher accused of running brothel and human trafficking ring (2010-2015) | C-1211, N-130 | 2010-2015 |
-| A-1001.79 | Luminarius LLC created by Jerry France and daughter Deborah Himil (January 6, 2010) | C-1212, N-3, N-4 | Jan 6, 2010 |
-| A-1001.80 | Table Four LLC formed by Erica Kirk and Tyler Sanford (2010) | C-1213, N-1 | 2010 |
-| A-1001.81 | Article detailing reasons for Rick's law license suspension (Kentucky) | C-1214, N-6 | Episode reference |
-| A-1001.82 | Blake Nef statement on X about Charlie's Shabbat observance | C-1215, N-7 | Episode reference |
+**A-1017** Tesaract School Documentary Bundle
+
+**A-1017.1** Tesaract School Corporate and Financial Records
+
+Event Timestamp: 1995–2000
+Source Timestamp: Various corporate filings
+Video Timestamp: 01:00–01:38
+Discovery Timestamp: 2025-01-14
+
+*Related: C-1053, N-6, N-1000*
+
+---
+
+**A-1018** Dr. Jerry France Eastern Europe Research Documentation
+
+**A-1018.1** Dr. Jerry France Radford University Research Proposal
+
+Event Timestamp: 1990
+Source Timestamp: University records
+Video Timestamp: 02:06–02:32
+Discovery Timestamp: 2025-01-14
+
+*Related: C-1054, N-6, N-1012*
+
+---
+
+**A-1019** Nancy Gerard Military Background Records
+
+**A-1019.1** Nancy Gerard Principal Employment Record
+
+Event Timestamp: 1995–1998
+Source Timestamp: School employment records
+Video Timestamp: 04:18–04:52
+Discovery Timestamp: 2025-01-14
+
+*Related: C-1055, N-21, N-1013*
+
+---
+
+**A-1020** Lori Front Corporate Formation Documents
+
+**A-1020.1** Virtual Registration International Incorporated Filing
+
+Event Timestamp: 1999-12-01
+Source Timestamp: Corporate filing
+Video Timestamp: 10:56–10:59
+Discovery Timestamp: 2025-01-14
+
+*Related: C-1058, N-3, N-1014*
+
+**A-1020.2** Intel (various entities) Incorporation Filings
+
+Event Timestamp: 1999, 2003
+Source Timestamp: Corporate filings
+Video Timestamp: 11:08–11:22
+Discovery Timestamp: 2025-01-14
+
+*Related: C-1058, N-3, N-1014*
+
+---
+
+**A-1021** Government Contract Records
+
+**A-1021.1** E3 Tech Operation Enduring Freedom Website Claim
+
+Event Timestamp: 2001
+Source Timestamp: Company website
+Video Timestamp: 09:45–09:57
+Discovery Timestamp: 2025-01-14
+
+*Related: C-1059, N-3, N-1015*
+
+**A-1021.2** IMAT Laboratories Government Payment Records (House Bill Budget)
+
+Event Timestamp: 2005
+Source Timestamp: Congressional record
+Video Timestamp: 12:46–12:55
+Discovery Timestamp: 2025-01-14
+
+*Related: C-1060, N-3, N-1015*
+
+**A-1021.3** Army National Guard $2.4 Million Payment to IMAT Laboratories
+
+Event Timestamp: 2008
+Source Timestamp: National Guard disclosure
+Video Timestamp: 17:10–17:24
+Discovery Timestamp: 2025-01-14
+
+*Related: C-1063, N-3, N-1015*
 
 ---
 
 ## 4. Node Register
 
-| ID | Entity / Target | Evidence Count | Claim Count |
-|----|------------------|----------------|-------------|
-| N-1 | Erica Kirk | 12 | 4 |
-| N-2 | Lori France / Lorie Front | 11 | 7 |
-| N-3 | Dr. Jerry France | 4 | 3 |
-| N-4 | Deborah Himil | 1 | 1 |
-| N-5 | Tesaract School / Looking Glass | 3 | 2 |
-| N-6 | Rick (Uncle) | 2 | 2 |
-| N-7 | Charlie Kirk | 2 | 1 |
-| N-129 | Nancy Gerard / Nancy Gerard Hall | 1 | 1 |
-| N-130 | Romania Operations | 4 | 3 |
-| N-131 | Jeffrey Epstein | 1 | 1 |
+**N-21** Nancy Gerard (later Nancy Gerard Hall)
+
+Principal at Tesaract school during Erica's enrollment with documented military family connections.
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-1019.1, C-1055, N-6*
+
+---
+
+**N-1012** Dr. Jerry France Eastern Europe Activities
+
+Investigation into the nature and purpose of Dr. France's 1990 research trip to Eastern Europe.
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-1018.1, C-1054, N-6*
+
+---
+
+**N-1013** Nancy Gerard Military Family Network
+
+Persistent investigation target regarding the extent of military connections at Tesaract school.
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-1019.1, C-1055, N-21*
+
+---
+
+**N-1014** Lori Front Corporate Network
+
+Persistent investigation target regarding the network of LLCs and corporations formed by Lori Front 1999–2009.
+
+Evidence Count: 2
+Claim Count: 2
+Episode Count: 1
+Investigative Pressure: High
+
+*Related: A-1020.1, A-1020.2, C-1057, C-1058, N-3*
+
+---
+
+**N-1015** E3 Tech / IMAT Laboratories Government Contracts
+
+Persistent investigation target regarding the nature and scope of government contracts with Lori Front's companies.
+
+Evidence Count: 3
+Claim Count: 3
+Episode Count: 1
+Investigative Pressure: High
+
+*Related: A-1021.1, A-1021.2, A-1021.3, C-1059, C-1060, C-1063, N-3*
 
 ---
 
 ## 5. Claim Register
 
-| ID | Claim | Anchored Artifacts | Related Nodes |
-|----|-------|-------------------|---------------|
-| C-1198 | Tesaract School was financially backed by the Bush family and Walton family, designed by psychologists alongside Dr. Jerry France | A-1001.62 | N-5, N-3 |
-| C-1199 | Dr. Jerry France traveled to Eastern Europe in 1990 to research gender issues after the fall of the Berlin Wall | A-1001.63 | N-3, N-130 |
-| C-1200 | Nancy Gerard, Tesaract principal, had strong military ties - father was Colonel Paul Tracy Gerard, a member of the Scottish Right and Chief Military Law Enforcement at Seventh Army in Europe | A-1001.64 | N-129, N-5 |
-| C-1201 | In 1999, Lori France formed multiple corporations including Virtual Registration International Incorporated, Intel companies, and Intellment International Incorporated of Delaware | A-1001.65, A-1001.66, A-1001.67 | N-2 |
-| C-1202 | E3 Tech's website claims the company participated in Operation Enduring Freedom and received an award for contributions | A-1001.68 | N-2 |
-| C-1203 | Tesaract school went bankrupt in 2000 with millions apparently missing | A-1001.69 | N-5, N-2 |
-| C-1204 | Lorie France received money from the Department of Homeland Security via IMAT Laboratories, listed in House bill budget | A-1001.70 | N-2 |
-| C-1205 | Erica Kirk attended Regis University majoring in business administration (per player bio) | A-1001.71 | N-1 |
-| C-1206 | In 2008, IMET Laboratories associated with Lorie France received $2.4 million from the Army National Guard | A-1001.72 | N-2 |
-| C-1207 | In April 2009, Lorie France established Everyday Heroes Like You, described as a faith-based organization raising funds for vulnerable children | A-1001.73 | N-2 |
-| C-1208 | In October 2009, Romanian government agreed to allow America to set up a military base along the Black Sea; Jeffrey Epstein emails regarding Romanian women begin around this time | A-1001.74, A-1001.75 | N-130, N-131 |
-| C-1209 | Black Sea Rotational Force 10 was established in Romania on May 17, 2010 at Mihail Kogalneanu Air Base | A-1001.76 | N-130 |
-| C-1210 | Tyler Ber went to Romania in 2010 to work with a Romanian senator in parliament and visited a modeling agency beach trip | A-1001.77 | N-130 |
-| C-1211 | Colonel Otto Busher was accused of running a brothel and human trafficking ring in Romania from 2010 through 2015 | A-1001.78 | N-130 |
-| C-1212 | On January 6, 2010, Jerry France created Luminarius LLC with her daughter Deborah Himil as another charter school company | A-1001.79 | N-3, N-4 |
-| C-1213 | In 2010, Erica Kirk formed Table Four LLC with her then-boyfriend Tyler Sanford | A-1001.80 | N-1 |
-| C-1214 | Rick (uncle) lost his law license in Kentucky in August 2009 due to professional negligence including mortgage fraud, deed fraud, and failing to disclose existing mortgages | A-1001.81 | N-6 |
-| C-1215 | Blake Nef issued a statement defending Charlie Kirk's observance of Shabbat and the book "Stop in the Name of God" | A-1001.82 | N-7 |
+**C-1053** Tesaract School Backed by Bush and Walton Families
+
+Claim Timestamp: 01:23–01:28
+Claim: The episode presents that Tesaract charter school was financially backed by the Bush family and Walton family.
+Anchored Artifacts: A-1017.1
+Related Nodes: N-6, N-1000
+
+Investigative Direction: Obtain corporate records or financial disclosures documenting the Bush and Walton family investment in Tesaract.
+
+---
+
+**C-1054** Dr. Jerry France Conducted Eastern Europe Research in 1990
+
+Claim Timestamp: 02:06–02:32
+Claim: The episode presents that Dr. Jerry France traveled to Eastern Europe in 1990 to research gender issues post-Berlin Wall fall.
+Anchored Artifacts: A-1018.1
+Related Nodes: N-6, N-1012
+
+Investigative Direction: Obtain Dr. France's actual travel records, funding sources, and research outputs from 1990.
+
+---
+
+**C-1055** Nancy Gerard Had Extensive Military Family Connections
+
+Claim Timestamp: 04:18–05:22
+Claim: The episode presents that Tesaract principal Nancy Gerard had military family connections including her father Colonel Paul Tracy Gerard (military law enforcement, Scottish Right, Freemasonry) and brother Paul Tracy Gerard Jr. (major, Scabbard and Blade).
+Anchored Artifacts: A-1019.1
+Related Nodes: N-21, N-1013
+
+Investigative Direction: Verify military service records of Paul Tracy Gerard and Paul Tracy Gerard Jr.
+
+---
+
+**C-1056** Erica Kirk Missing from School Records 2000–2002
+
+Claim Timestamp: 08:36–08:55
+Claim: The episode presents that Erica Kirk does not appear in St. Ursula Villa yearbooks for 2000–2002 and her school location during these years is unknown.
+Anchored Artifacts: None (presented as corrected information from viewer emails)
+Related Nodes: N-2, N-1000
+
+Investigative Direction: Obtain school enrollment records from other Arizona schools during 2000–2002.
+
+---
+
+**C-1057** Lori Front Formed Multiple Corporations in 1999
+
+Claim Timestamp: 10:51–11:22
+Claim: The episode presents that Lori Front formed Virtual Registration International Incorporated (December 1, 1999), Intel... Incorporated (September 1999), and Intellment International Incorporated of Delaware (December 2, 1999) with help from Rick and Donna Urban.
+Anchored Artifacts: A-1020.1, A-1020.2
+Related Nodes: N-3, N-1014
+
+Investigative Direction: Obtain complete corporate formation documents for all three entities.
+
+---
+
+**C-1058** E3 Tech Participated in Operation Enduring Freedom
+
+Claim Timestamp: 09:45–09:57
+Claim: The episode presents that Lori Front's company E3 Tech was used for Operation Enduring Freedom according to its website.
+Anchored Artifacts: A-1021.1
+Related Nodes: N-3, N-1015
+
+Investigative Direction: Obtain E3 Tech government contract records and military deployment records.
+
+---
+
+**C-1059** Lori Front Received Homeland Security Funding via IMAT Laboratories in 2005
+
+Claim Timestamp: 12:46–12:55
+Claim: The episode presents that Lori Front received money from the Department of Homeland Security through IMAT Laboratories, listed in the House bill budget.
+Anchored Artifacts: A-1021.2
+Related Nodes: N-3, N-1015
+
+Investigative Direction: Obtain IMAT Laboratories government contract details and payment records.
+
+---
+
+**C-1060** Lori Front Received $2.4 Million from Army National Guard in 2008
+
+Claim Timestamp: 17:10–17:24
+Claim: The episode presents that IMAT Laboratories received $2.4 million from the Army National Guard in 2008, the same year Erica was reportedly "missing" at Regis University.
+Anchored Artifacts: A-1021.3
+Related Nodes: N-3, N-1015
+
+Investigative Direction: Verify Army National Guard disclosure records for IMAT Laboratories payment.
+
+---
+
+**C-1061** Lori Front Established Everyday Heroes Like You in 2009
+
+Claim Timestamp: 18:23–18:36
+Claim: The episode presents that Lori Front established "Everyday Heroes Like You" in April 2009 as a faith-based organization raising funds for vulnerable children.
+Anchored Artifacts: None (mentioned as filing)
+Related Nodes: N-3, N-1014
+
+Investigative Direction: Obtain 2009 filing documents for Everyday Heroes Like You.
+
+---
+
+**C-1062** Romanian Government Agreed to US Military Base in October 2009
+
+Claim Timestamp: 19:22–19:29
+Claim: The episode presents that in October 2009, the Romanian government agreed to allow America to set up a military base along the Black Sea.
+Anchored Artifacts: None (presented as historical fact)
+Related Nodes: N-1011
+
+Investigative Direction: Verify diplomatic agreements between US and Romania regarding Black Sea base in 2009.
+
+---
+
+**C-1063** Tyler Ber Traveled to Romania in 2010
+
+Claim Timestamp: 29:00–29:14
+Claim: The episode presents that Tyler Ber went to Romania in 2010 to work with a Romanian Parliament senator, staying from May through summer, coinciding with Black Sea Rotational Force 10 establishment.
+Anchored Artifacts: None (presented as conversation screenshot)
+Related Nodes: N-7, N-1011
+
+Investigative Direction: Obtain Tyler Ber travel records and verify connection to Romanian parliament member.
+
+---
+
+**C-1064** Black Sea Rotational Force 10 Established in Romania in 2010
+
+Claim Timestamp: 27:38–28:06
+Claim: The episode presents that Black Sea Rotational Force 10 deployed to Romania in 2010, establishing the Mihail Kogălniceanu Air Base.
+Anchored Artifacts: None (presented as military record)
+Related Nodes: N-1011
+
+Investigative Direction: Verify US military deployment records to Romania in 2010.
+
+---
+
+**C-1065** Colonel Otto Busher Accused of Running Brothel in Romania 2010–2015
+
+Claim Timestamp: 28:39–28:52
+Claim: The episode presents that Colonel Otto Busher was accused of running a brothel and human trafficking ring in Romania from 2010 through 2015.
+Anchored Artifacts: None (presented as accusation)
+Related Nodes: N-1011
+
+Investigative Direction: Verify courtmartial or investigation records regarding Colonel Otto Busher.
+
+---
+
+**C-1066** Erica Claims She Traveled to China in 2009 for Anti-Sex Trafficking Work
+
+Claim Timestamp: 20:09–20:56
+Claim: The episode presents that Erica claims she went to China in 2009 to work with sex trafficking victims after establishing Everyday Heroes Like You.
+Anchored Artifacts: None (presented as Erica's podcast statement)
+Related Nodes: N-2
+
+Investigative Direction: Obtain travel records, charity work documentation, or third-party verification of Erica's 2009 China trip.
+
+---
+
+**C-1067** Erica Attended Loyola Marymount for Junior Year
+
+Claim Timestamp: 23:26–23:59
+Claim: The episode presents that Erica claims she attended Loyola Marymount University for her junior year of college (fall 2009–spring 2010).
+Anchored Artifacts: None (presented as Erica's claim)
+Related Nodes: N-2
+
+Investigative Direction: Obtain enrollment records or class lists from Loyola Marymount for 2009–2010.
+
+---
+
+**C-1068** Erica Competed in Miss Colorado 2009
+
+Claim Timestamp: 21:56–22:10
+Claim: The episode presents that Erica competed in Miss Colorado 2010 pageant in November 2009, placing fourth runner-up.
+Anchored Artifacts: None (presented as pageant record)
+Related Nodes: N-2
+
+Investigative Direction: Obtain Miss Colorado 2009/2010 competition records and qualification requirements.
+
+---
+
+**C-1069** Rick Urban Lost Law License in Kentucky in 2009
+
+Claim Timestamp: 36:50–36:56
+Claim: The episode presents that Rick Urban lost his legal license in Kentucky in 2009.
+Anchored Artifacts: None (presented as bar discipline)
+Related Nodes: N-5
+
+Investigative Direction: Obtain Kentucky Bar Association discipline records for Rick Urban.
+
+---
+
+**C-1070** Rick Urban Involved in Mortgage Fraud Investigation
+
+Claim Timestamp: 37:34–38:06
+Claim: The episode presents that Rick Urban was investigated in 2007 for failing to disclose existing mortgages while performing title searches for Bank of Corbin, resulting in loans on properties already encumbered.
+Anchored Artifacts: None (presented as article about bar discipline)
+Related Nodes: N-5
+
+Investigative Direction: Obtain Kentucky Bar Association investigation records and Bank of Corbin loan records.
+
+---
+
+**C-1071** Rick Urban Engaged in Deed Fraud
+
+Claim Timestamp: 39:41–40:02
+Claim: The episode presents that Rick Urban prepared a deed transferring property to Anita Andrews without recording it or obtaining her signature, then transferred the property to his parents.
+Anchored Artifacts: None (presented as bar discipline article)
+Related Nodes: N-5
+
+Investigative Direction: Obtain property transfer records and county recording documents.
+
+---
+
+**C-1072** Blake Neff Published Statement Defending Charlie Kirk's Shabbat Observance
+
+Claim Timestamp: 43:42–44:24
+Claim: The episode presents that Blake Neff published a statement on X defending Charlie Kirk's observation of Shabbat and criticizing Candace Owens for ridiculing the phrase "Shabbat Shalom."
+Anchored Artifacts: None (presented as social media statement)
+Related Nodes: N-1010
+
+Investigative Direction: Obtain original Blake Neff X (Twitter) post from timeframe referenced.
 
 ---
 
 ## 6. Optional Flags
 
-- **Uncertainty flags**: 
-  - C-1199: Dr. France's actual activities in Eastern Europe remain speculative; host states "that's my opinion"
-  - C-1208: Connection between Epstein emails and Romania military base is circumstantial
-  - C-1210: Tyler Ber's activities in Romania described through text message conversation; modeling agency name not provided
+- **Claim C-1056 failed Artifact Anchor Test**: The claim about Erica missing from yearbooks is presented as corrected information from viewer emails but no artifact (yearbook image, email) is shown in the episode.
+- **Claim C-1061 lacks Artifact**: The establishment of Everyday Heroes Like You is mentioned but no filing document or organizational charter is shown.
+- **Claims C-1062 through C-1072 lack Artifact Anchors**: Multiple claims about Tyler Ber, military bases, Rick Urban's bar discipline, and Blake Neff's statement are presented verbally without documentary artifacts shown in the episode.
+- **Name Uncertainty**: "Intellment International" appears in transcript as possible misreading of "Intel" entities; original spelling preserved as transcribed.
+- **Timestamp Uncertainty**: Several corporate formation dates and event dates are presented in the narration but source documents are not displayed.
 
-- **Timeline gaps documented**:
-  - Erica Kirk's location during 2000-2002 school years is explicitly stated as unknown
-  - Host requests anyone who attended school with Erica 2000-2002 to make contact
+---
 
-- **Contradictions**:
-  - Erica later claims to have majored in political science from the beginning, but Regis player bio shows business administration (C-1205)
+## Ledger Continuation Summary
 
-- **Note on methodology**: Episode contains significant narrative speculation framed as questions ("What could possibly go wrong?", "Do you understand what happened after that? Chaos"). These rhetorical elements are not inscribed as claims per protocol.
+This episode introduced:
+- **Artifact Families**: A-1017 (Tesaract records), A-1018 (Dr. France research), A-1019 (Nancy Gerard military), A-1020 (Lori corporations), A-1021 (Government contracts)
+- **Claims**: C-1053 through C-1072 (20 new claims)
+- **Nodes**: N-21 (Nancy Gerard), N-1012 (Dr. France activities), N-1013 (Military network), N-1014 (Corporate network), N-1015 (Government contracts)
+
+Many claims in this episode lack artifact anchors and should be treated as verbally presented allegations requiring independent verification.

@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "description": "Canonical dictionary of memes, euphemisms, and codes — shared across monuments",
+  "updated": null,
+  "next_id": 1,
+  "entries": {},
+  "types": {
+    "meme": "Recurring image, phrase, or concept used as cultural shorthand",
+    "euphemism": "Indirect or softened expression substituting for a blunt term",
+    "code": "Deliberately obscure term or phrase with specific meaning to insiders"
+  }
+}

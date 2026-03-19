@@ -2,125 +2,354 @@
 
 ## 1. Meta-Data
 
-- **Episode**: 3
-- **Source**: Video/Audio (Candace Owens show)
-- **Video Timestamp Range**: 00:01 – 01:07:50
-- **Extraction Timestamp**: [Current Timestamp]
+- **Episode**: Bride of Charlie 3
+- **Source**: Video transcript (Candace Owens show)
+- **Video Timestamp Range**: 00:01–01:07:50
+- **Extraction Timestamp**: 2025-01-17
 - **Episode Ledger Summary**:
-  - Starting Artifact: A-1001.16
-  - Ending Artifact: A-1001.45
-  - Starting Claim: C-1143
-  - Ending Claim: C-1178
-  - New Nodes Introduced: N-10 (Lori France/Lori Abbis), N-11 (Richard Urbanbeck), N-12 (Urban Beck family), N-13 (Tyler Ber), N-14 (Pastor Terry Chris), N-15 (Pastor Judith Chris), N-1002 (Urban Beck Fraud Scandal), N-1003 (Erica's Missing Period 2008), N-1004 (Erica's Dating History Claim)
+  - Artifact Families Introduced: A-1008, A-1009, A-1010, A-1011
+  - Claim Range: C-1026–C-1038
+  - New Nodes Introduced: N-13, N-14, N-15, N-16, N-1008, N-1009, N-1010
+  - Existing Nodes Reused: N-2 (Erica Kirk), N-3 (Lori France)
 
 ---
 
 ## 2. Executive Summary
 
-This episode expands the investigation into Lori France (later Abbis), revealing extensive connections to the Urban Beck family—a family involved in a massive $34 million home-building fraud scandal in Ohio/Kentucky around 2002. Richard Urbanbeck, who appears as a witness on Lori's divorce documents, is identified as part of this family and has served as notary/incorporator for numerous LLCs registered to Lori. The episode also documents Erica's timeline through 2008, including a claimed 8-month "hermit" period and questions about her dating history before meeting Charlie Kirk.
+Episode 3 focuses on Lori France (Erica's mother) and her connections to the Urban Beck family, a Ohio/Kentucky family involved in a massive $34 million homebuilding fraud case in the early 2000s. The episode presents Rick Urban Beck as a witness to Lori and Kent's divorce documents, establishing business relationships between Lori and the Urban Beck family across multiple LLCs spanning decades. The episode also traces Erica's timeline through pageants (2005-2012), her claimed eight-month "hermit" period in 2008, and challenges her assertion that she was single for five years before meeting Charlie Kirk, citing evidence of boyfriends during that period. The episode introduces the City of Grace church in Scottsdale and Pastor Terry Chris as figures in Erica's life.
 
 ---
 
 ## 3. Artifact Register
 
-| ID | Description | Related | Timestamps |
-|----|-------------|---------|------------|
-| A-1001.16 | Divorce documents with Richard Urbanbeck as witness | C-1144, N-10, N-11 | [Timestamp in video 04:07] |
-| A-1001.17 | Lori's LLC filings (Euroch, Techmetrics International, Virtual Registration, E3 Tech) | C-1145, N-10 | [Timestamp 05:45-07:11] |
-| A-1001.18 | News clip about Urban Beck fraud ($34 million, 21-year sentence) | C-1147, N-12 | [Timestamp 09:35-09:41] |
-| A-1001.19 | Articles recapping Urban Beck case (forged documents, shady subcontractors) | C-1147, N-12 | [Timestamp 10:26-10:28] |
-| A-1001.20 | Article about Lori Urban (Lori's maiden name) wearing wire for FBI | C-1148, N-12 | [Timestamp 10:32-10:36] |
-| A-1001.21 | Article about Tony Urban hiring hitman to kill judge/FBI children | C-1147, N-12 | [Timestamp 11:30-11:35] |
-| A-1001.22 | Notary testimony about Bill Urban Beck notarizing documents without persons present | C-1149, N-12 | [Timestamp 13:00-13:14] |
-| A-1001.23 | Deed documents showing Lori and Kent as couple from North Kingstown, Rhode Island | C-1150, N-10 | [Timestamp 28:00-28:12] |
-| A-1001.24 | IMAT Laboratories in DHS House bill budget | C-1151, N-10 | [Timestamp 35:00-35:06] |
-| A-1001.25 | Newspaper entries of Erica scoring at Regis University (Nov 24, Dec 1) | C-1152, N-2 | [Timestamp 38:49-38:57] |
-| A-1001.26 | 2020 interview (removed) where Erica confirms 8-month hermit period | C-1153, N-2 | [Timestamp 40:45-41:25] |
-| A-1001.27 | Tweets from Erica's locked account about Pastor Terry and Judith Chris | C-1154, N-14, N-15 | [Timestamp 43:35-43:59] |
-| A-1001.28 | Regis University basketball stat page showing only 2007-2008 season | C-1152, N-2 | [Timestamp 39:26-39:32] |
-| A-1001.29 | Pageant records 2005-2012 (National America Miss, Miss USA Colorado 2009) | C-1155, N-2 | [Timestamp 33:42-34:00] |
-| A-1001.30 | Super Feed Technologies board membership (Lori and Tyler Ber) | C-1143, N-10, N-13 | [Timestamp 00:34-00:42] |
-| A-1001.31 | News about Kari Lake bribery scandal involving Super Feed Technologies | C-1156, N-13 | [Timestamp 21:15-21:27] |
-| A-1001.32 | Tesseract School financial scandal/closure | C-1157, N-2 | [Timestamp 19:52-19:57] |
-| A-1001.33 | Notre Dame Prep formerly Tesseract School | C-1158, N-2 | [Timestamp 31:31-31:36] |
-| A-1001.34 | Interview clip where Erica claims she didn't date for 5 years before Charlie | C-1159, N-2 | [Timestamp 54:59-55:02] |
-| A-1001.35 | Evidence of Erica having boyfriends 2013-2018 (ringing in new year with boyfriend 2018) | C-1160, N-2, N-1004 | [Timestamp 58:41-58:47] |
+**A-1008** Urban Beck Fraud Case News Coverage Bundle
+
+**A-1008.1** News Clip: Urban Beck Sentencing Coverage
+
+Event Timestamp: 2003-04 (approximate)
+Source Timestamp: 2003
+Video Timestamp: 09:37–09:41
+
+*Related: C-1027, N-14, N-15*
+
+**A-1008.2** News Article Snippets: Urban Beck Case Details
+
+Event Timestamp: ~2002–2004
+Source Timestamp: Various news articles from early 2000s
+Video Timestamp: 10:26–10:35
+
+*Related: C-1027, C-1028, N-14, N-15*
+
+**A-1008.3** News Coverage: Tony Urban Murder/Kidnap Plot
+
+Event Timestamp: ~2003
+Source Timestamp: 2003
+Video Timestamp: 11:32–11:40
+
+*Related: C-1028, N-15*
+
+---
+
+**A-1009** Divorce Documents Bundle (Lori and Kent France)
+
+**A-1009.1** Divorce Document Featuring Rick Urban Beck as Witness
+
+Event Timestamp: ~1990s (divorce period)
+Source Timestamp: Filing date unknown
+Video Timestamp: 04:07–04:10
+
+*Related: C-1026, N-13, N-14*
+
+---
+
+**A-1010** Business LLC Filings Bundle (Lori France)
+
+**A-1010.1** Euroch Filing (1993)
+
+Event Timestamp: 1993-06
+Source Timestamp: 1993
+Video Timestamp: 06:05
+
+*Related: C-1029, N-13*
+
+**A-1010.2** Techmetrics International Filing (1993)
+
+Event Timestamp: 1993
+Source Timestamp: 1993
+Video Timestamp: 06:17–06:20
+
+*Related: C-1029, N-13*
+
+**A-1010.3** Virtual Registration International Filing (1999)
+
+Event Timestamp: 1999-12
+Source Timestamp: 1999
+Video Timestamp: 06:38–06:41
+
+*Related: C-1029, N-13*
+
+**A-1010.4** E3 Tech Filing (Arizona, 1997; renamed 2017)
+
+Event Timestamp: 1997-08, renamed 2017
+Source Timestamp: 1997
+Video Timestamp: 06:57–07:01
+
+*Related: C-1029, N-13*
+
+---
+
+**A-1011** Property Deeds Bundle (Lori and Kent France - Marblehead, MA)
+
+**A-1011.1** Deed Document: Lori and Kent Listed as Couple from Rhode Island
+
+Event Timestamp: Unknown (property purchase date)
+Source Timestamp: Unknown
+Video Timestamp: 28:00–28:18
+
+*Related: C-1030, N-13*
 
 ---
 
 ## 4. Node Register
 
-| ID | Entity / Target | Evidence Count | Claim Count |
-|----|------------------|----------------|-------------|
-| N-1 | Charlie Kirk | Existing | Existing |
-| N-2 | Erica Kirk/France | Existing | Existing |
-| N-10 | Lori France/Lori Abbis | 13 | 9 |
-| N-11 | Richard Urbanbeck | 3 | 3 |
-| N-12 | Urban Beck family | 6 | 5 |
-| N-13 | Tyler Ber | 3 | 3 |
-| N-14 | Pastor Terry Chris | 2 | 1 |
-| N-15 | Pastor Judith Chris | 2 | 1 |
-| N-1002 | Urban Beck Fraud Scandal (2002-2003) | 6 | 5 |
-| N-1003 | Erica's Missing Period (2008) | 3 | 2 |
-| N-1004 | Erica's Dating History Claim | 2 | 2 |
+**N-2** Erica Kirk
+
+Primary biographical subject of investigation. Evidence expanded with school, pageant, and dating timeline claims.
+
+Evidence Count: 4
+Claim Count: 4
+Episode Count: 3
+Investigative Pressure: High
+
+*Related: A-1009.1, C-1031, C-1032, C-1033, C-1038, N-3*
+
+**N-3** Lori France (also referenced as Lorie France, Lori Anne Urban, Lorraine Abbis)
+
+Erica's mother. Central figure in this episode regarding business relationships and family background.
+
+Evidence Count: 5
+Claim Count: 5
+Episode Count: 3
+Investigative Pressure: High
+
+*Related: A-1008.1, A-1009.1, A-1010.1, C-1026, C-1027, C-1028, C-1029, C-1030*
+
+**N-13** Rick Urban Beck
+
+Witness to Lori and Kent's divorce documents; longtime business associate of Lori France; member of Urban Beck family involved in fraud case.
+
+Evidence Count: 2
+Claim Count: 2
+Episode Count: 1
+Investigative Pressure: High
+
+*Related: A-1008.1, A-1009.1, C-1026, C-1027, N-3, N-14*
+
+**N-14** Urban Beck Family (Ohio/Kentucky Homebuilding Fraud)
+
+Extended family network involved in $34 million mortgage fraud case; includes Tony Urban (father), Bill Urban Beck (brother), Gary Urban Beck, Jeff Urban Beck, Donna Urban Beck.
+
+Evidence Count: 3
+Claim Count: 3
+Episode Count: 1
+Investigative Pressure: High
+
+*Related: A-1008.1, A-1008.2, A-1009.1, C-1027, C-1028, N-13, N-15*
+
+**N-15** Tony Urban
+
+Father of Rick Urban Beck and Lori (Urban) France; convicted of bank fraud; later convicted for hiring hitman to kill judge, US attorney, and FBI agent's children.
+
+Evidence Count: 2
+Claim Count: 2
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: A-1008.2, A-1008.3, C-1028, N-14*
+
+**N-16** Pastor Terry Chris / Judith Chris
+
+Pastor and wife at City of Grace, Scottsdale; connected to Brian Houston/Hillsong controversy; referenced as Erica's spiritual influences.
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: C-1035, C-1036*
+
+**N-1008** Date of Birth Discrepancy (Previously established)
+
+Persistent inconsistency between documented DOB and publicly used DOB.
+
+Evidence Count: 4
+Claim Count: 2
+Episode Count: 3
+Investigative Pressure: Medium
+
+*Related: C-1026, N-2, N-3*
+
+**N-1009** Wedding Date Discrepancy (Lori and Kent)
+
+Multiple inconsistent wedding dates across divorce documents.
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: C-1026, N-3*
+
+**N-1010** Erica's Dating History Claim
+
+Investigation into Erica's claim of being single for 5 years before Charlie Kirk versus evidence of boyfriends during that period.
+
+Evidence Count: 1
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Medium
+
+*Related: C-1038, N-2*
 
 ---
 
 ## 5. Claim Register
 
-| ID | Claim | Anchored Artifacts | Related Nodes |
-|----|-------|-------------------|---------------|
-| C-1143 | Lori France is on the board of Super Feed Technologies alongside Tyler Ber | A-1001.30 | N-10, N-13 |
-| C-1144 | Richard Urbanbeck is listed as witness on Lori and Kent's divorce documents | A-1001.16 | N-10, N-11 |
-| C-1145 | Lori has numerous LLCs (Euroch, Techmetrics International, Virtual Registration, E3 Tech) with Richard/Donna Urbanbeck as secretary/incorporator/notary | A-1001.17 | N-10, N-11 |
-| C-1146 | Urban Beck family was involved in massive home-building fraud around 2002 (Ohio/Kentucky) | A-1001.18 | N-12, N-1002 |
-| C-1147 | Bill Urban Beck served 21 years after pleading guilty to defrauding banks of $34 million; Tony Urban tried to hire hitman to kill judge and FBI agent's children | A-1001.18, A-1001.21 | N-12, N-1002 |
-| C-1148 | Lori Urban (Lori's maiden name) wore a wire for FBI against her family | A-1001.20 | N-10, N-12 |
-| C-1149 | Bill Urban Beck sometimes asked notary to notarize documents when the person involved was not present | A-1001.22 | N-12 |
-| C-1150 | Lori and Kent are listed on deed documents as a couple from North Kingstown, Rhode Island | A-1001.23 | N-10 |
-| C-1151 | Lori has a business called IMAT Laboratories listed in DHS House bill budget | A-1001.24 | N-10 |
-| C-1152 | Erica attended Regis University on basketball scholarship but only has record of playing 2007-2008 season | A-1001.25, A-1001.28 | N-2 |
-| C-1153 | Erica confirms in 2020 interview that she went missing for 8 months after passing her crown, seeing only her pastor's wife | A-1001.26 | N-2, N-1003 |
-| C-1154 | Erica was close with Pastor Terry Chris and his wife Judith Chris at City of Grace in Scottsdale | A-1001.27 | N-14, N-15 |
-| C-1155 | Erica competed in beauty pageants every year from 2005 through 2012 (7 years) | A-1001.29 | N-2 |
-| C-1156 | Super Feed Technologies had business revoked by Arizona state; involved in Kari Lake bribery scandal | A-1001.31 | N-13 |
-| C-1157 | Tesseract School (Erica's school in Arizona) faced financial crisis and had to shutter doors | A-1001.32 | N-2 |
-| C-1158 | Notre Dame Prep was formerly the Tesseract School in North Scottsdale | A-1001.33 | N-2 |
-| C-1159 | Erica claims she did not date anyone for 5 years before meeting Charlie Kirk | A-1001.34 | N-2, N-1004 |
-| C-1160 | Evidence shows Erica had multiple boyfriends from 2013-2018, including ringing in 2018 with a boyfriend | A-1001.35 | N-2, N-1004 |
-| C-1161 | The witness Richard Urbanbeck is from the family that committed fraud | [Implicit from A-1001.16, A-1001.18] | N-11, N-12, N-1002 |
-| C-1162 | Lori worked with Rick Urbanbeck despite knowing about the fraud scandal involving his family | [Implicit from context] | N-10, N-11, N-12 |
-| C-1163 | Pastor Terry Chris is close friends with Brian Houston (Hillsong founder who covered up father's pedophilia) | [From video 44:10-44:30] | N-14 |
-| C-1164 | Erica's claim of being a "grieving widow" is being used to discourage investigation | [From video 00:46-01:00] | N-2 |
-| C-1165 | Tyler Ber required a federal pardon from the President for fraud, accused of nine felonies related to election subversion | [From video 22:01-22:14] | N-13 |
-| C-1166 | Lori filed for multiple businesses with Rick/Donna Urbanbeck across 25-year period | A-1001.17 | N-10, N-11 |
-| C-1167 | The Urban Beck family case included coordinated murder and kidnapping plots against children | A-1001.21 | N-12, N-1002 |
-| C-1168 | Erica was involved in pageants while claiming she was in "hermit" period | [Contradiction between A-1001.26 and A-1001.29] | N-2, N-1003 |
-| C-1169 | Kent France is listed as risk assessment contractor seeking DHS funding in 2006 | A-1001.24 | N-10 |
-| C-1170 | St. Ursula Villa evidence suggests Erica may have been in Ohio 2000-2002 | [From video 30:12-30:17] | N-2 |
-| C-1171 | Erica won first runner up in National America Miss Arizona 2005 | A-1001.29 | N-2 |
-| C-1172 | Erica won National American Miss Teen Pageant in 2006, traveled to DC to meet Representative JD Hayworth and Senator John Kyl | A-1001.29 | N-2 |
-| C-1173 | Erica was named finalist for Arizona Interscolastic Association's Everyday Heroes Award in 2007 | [From video 37:22-37:31] | N-2 |
-| C-1174 | "Everyday Heroes" is what Erica later named her charity in 2009 | [From video 37:31-37:33] | N-2 |
-| C-1175 | Lori married Larry Ginta after Joe Abbis died (first time seen) | [From video 38:20-38:25] | N-10 |
-| C-1176 | Erica placed third runner up in Miss USA Colorado 2009 | A-1001.29 | N-2 |
-| C-1177 | The pastor's wife identity was the only person Erica saw during 8-month period | A-1001.26 | N-2, N-14, N-15 |
-| C-1178 | Lori sends Erica to Tesseract in Arizona and school later closes due to financial scandal | A-1001.32 | N-2 |
+**C-1026** Rick Urban Beck Witnessed Divorce Documents
+
+Claim Timestamp: 04:07–04:10
+Claim: The episode presents that Rick Urban Beck is listed as a witness on Lori and Kent France's divorce documents.
+Anchored Artifacts: A-1009.1
+Related Nodes: N-13, N-3, N-1008, N-1009
+Investigative Direction: Obtain certified copies of the divorce filings to verify witness signature and address information.
+
+---
+
+**C-1027** Urban Beck Family $34 Million Fraud
+
+Claim Timestamp: 09:37–09:41
+Claim: The Urban Beck family operated a home building company that defrauded banks of $34 million, leaving hundreds of homeowners with unpaid mortgages.
+Anchored Artifacts: A-1008.1, A-1008.2
+Related Nodes: N-14, N-13, N-15, N-3
+Investigative Direction: Obtain court records from the Ohio/Kentucky federal case to verify the full scope of the fraud and sentencing details.
+
+---
+
+**C-1028** Tony Urban Hitman Plot
+
+Claim Timestamp: 11:32–11:40
+Claim: Tony Urban, after being convicted, attempted to hire a hitman to kill a federal judge, a retired US attorney, and an FBI agent's children, offering $1 million in payment.
+Anchored Artifacts: A-1008.2, A-1008.3
+Related Nodes: N-15, N-14
+Investigative Direction: Obtain FBI court documents and trial transcripts confirming the murder-for-hire plot details.
+
+---
+
+**C-1029** Lori's LLCs with Urban Beck Involvement
+
+Claim Timestamp: 05:45–06:00
+Claim: Lori filed multiple LLCs (Euroch, Techmetrics International, Virtual Registration, E3 Tech) over a 25-year period, with Richard or Donna Urban Beck serving as secretary, incorporator, or notary.
+Anchored Artifacts: A-1010.1, A-1010.2, A-1010.3, A-1010.4
+Related Nodes: N-3, N-13
+Investigative Direction: Obtain actual LLC formation documents to verify the roles of Urban Beck family members in each entity.
+
+---
+
+**C-1030** Rhode Island Address on Massachusetts Property Deed
+
+Claim Timestamp: 28:00–28:18
+Claim: Property deeds for Lori and Kent's Marblehead, Massachusetts home listed them as a couple from North Kingstown, Rhode Island, which the host notes is not an accurate location name.
+Anchored Artifacts: A-1011.1
+Related Nodes: N-3
+Investigative Direction: Obtain the actual deed documents to verify the address listing and search for property records in Rhode Island.
+
+---
+
+**C-1031** Erica Attended St. Ursula Villa 2000–2002
+
+Claim Timestamp: 30:12–30:17
+Claim: Evidence suggests Erica returned to Ohio from 2000 to 2002 and attended St. Ursula Villa school.
+Anchored Artifacts: None (host states "there is evidence" but doesn't present it)
+Related Nodes: N-2
+Investigative Direction: Obtain yearbooks or school records from St. Ursula Villa for 2000–2003 to verify attendance.
+
+---
+
+**C-1032** Erica's Pageant Involvement 2005–2012
+
+Claim Timestamp: 33:42–33:53
+Claim: Erica was involved in beauty pageants every year from 2005 through 2012, a seven-year period.
+Anchored Artifacts: None explicitly shown (host references timeline)
+Related Nodes: N-2
+Investigative Direction: Obtain pageant competition records and titles to verify consecutive yearly participation.
+
+---
+
+**C-1033** Erica's Eight-Month "Hermit" Period 2008
+
+Claim Timestamp: 40:43–41:25
+Claim: Erica states she locked herself in her room for eight months in 2008 after handing over her crown, seeing only her pastor's wife and family.
+Anchored Artifacts: None (Erica's interview clip played but transcript note states interview was "removed")
+Related Nodes: N-2, N-16
+Investigative Direction: Verify whether a college student could plausibly disappear for eight months; obtain records from Regis University for 2008.
+
+---
+
+**C-1034** City of Grace Church Connection
+
+Claim Timestamp: 44:03–44:46
+Claim: Erica was connected to City of Grace in Scottsdale, with Pastor Terry Chris and his wife Judith Chris, from 2011 to approximately 2016.
+Anchored Artifacts: None (host references tweets)
+Related Nodes: N-2, N-16
+Investigative Direction: Obtain social media records or church membership documents to confirm timeline of Erica's involvement.
+
+---
+
+**C-1035** Pastor Terry Chris Connection to Brian Houston
+
+Claim Timestamp: 44:10–44:17
+Claim: Pastor Terry Chris is close friends with Brian Houston, founder of Hillsong Church, who attempted to cover up his father's pedophilia.
+Anchored Artifacts: None (host references news reports about Brian Houston)
+Related Nodes: N-16
+Investigative Direction: Verify the nature and duration of the Terry Chris/Brian Houston friendship through public records or statements.
+
+---
+
+**C-1036** Claims About Hillsong Controversy
+
+Claim Timestamp: 44:58–45:10
+Claim: Brian Houston's father was a "serial pedophile" according to Brian's own statement, and Terry Chris's church had allegations about congregants throwing up to expel "bad spirits."
+Anchored Artifacts: None (host references allegations and news coverage)
+Related Nodes: N-16
+Investigative Direction: Verify the source and accuracy of these allegations through court records and news documentation.
+
+---
+
+**C-1037** Erica's Claim of Not Dating for Five Years Before Charlie
+
+Claim Timestamp: 54:58–55:02
+Claim: Erica claims she didn't date anyone in New York City for five years before meeting Charlie Kirk.
+Anchored Artifacts: None (interview clip played)
+Related Nodes: N-2, N-1010
+Investigative Direction: Review the full interview context and verify whether Erica made this specific claim about the five-year period.
+
+---
+
+**C-1038** Evidence of Boyfriends During Claimed Single Period
+
+Claim Timestamp: 58:34–58:46
+Claim: Evidence exists that Erica had multiple boyfriends during 2013–2018, the five years preceding her relationship with Charlie, including ringing in the new year with a boyfriend in 2018.
+Anchored Artifacts: None explicitly shown (host states evidence exists)
+Related Nodes: N-2, N-1010
+Investigative Direction: Obtain social media records, public check-ins, or witness statements confirming Erica's relationships during 2013–2018.
 
 ---
 
 ## 6. Optional Flags
 
-- **Uncertainty flags**: 
-  - C-1150: "North Kingstown, Rhode Island" may be clerical error; the host notes there's Kingston, RI (URI campus) but not North Kingstown
-  - C-1168: Potential contradiction between claimed 8-month hermit period (2008) and competing in pageants during that time period
-  - C-1160 vs C-1159: Direct contradiction on Erica's dating history (claims no dating for 5 years vs. evidence of multiple boyfriends)
-
-- **Contradictions (both sides artifact-anchored)**:
-  - **Erica's dating claim**: C-1159 (claims no dating for 5 years) vs. C-1160 (evidence of boyfriends 2013-2018) - both artifact-anchored
-  - **Erica's 2008 period**: C-1153 (8-month hermit period) vs. C-1176 (competed in Miss USA Colorado 2009) - timeline questions
-
-- **Notes**:
-  - The episode reveals the Urban Beck family scandal as context for understanding Lori's business associates
-  - Multiple references to "clerical errors" in documents are questioned by the host
-  - The episode ends with ongoing investigation into Erica's timeline and claims
+- **Artifact Verbally Referenced Not Shown**: The episode references remaining divorce documents (beyond the two presented in previous episodes) showing November 22 birthday, but these documents are not displayed.
+- **Transcript Ambiguity**: Multiple spellings of Lori's name appear (Lori, Lorie, Lorraine, Lorianne) - preserved as stated.
+- **Interview Removed**: The 2020 interview clip referenced at 40:09-40:25 was "removed" according to the host, but she claims to have saved it; this is referenced but not presented as playable artifact.
+- **Timestamp Uncertainty**: Several events (property deed dates, specific court document dates) are referenced with approximate timeframes rather than exact dates.
+- **Requires Human Verification**: Claims about pageant participation timeline, school attendance records, and boyfriend evidence would benefit from independent document verification.
+- **Contradiction Noted**: C-1037 (Erica's claim of not dating) and C-1038 (evidence of boyfriends) present directly contradictory claims - both sides would require artifact verification.

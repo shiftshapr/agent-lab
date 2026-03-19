@@ -1,6 +1,8 @@
 # Episode Analysis Output Template
 
-Use this structure for each analyzed episode. Follow the protocol rules in `ep_protocol_v1.md`.
+Use this structure for each analyzed episode. Follow the protocol rules in `ep_protocol_v2.md`.
+
+**CRITICAL: ID numbering is GLOBAL across episodes. NEVER reuse artifact (A-) or claim (C-) IDs from previous episodes. The ledger context tells you the next available IDs — use ONLY those.**
 
 ---
 
@@ -11,11 +13,10 @@ Use this structure for each analyzed episode. Follow the protocol rules in `ep_p
 - **Video Timestamp Range**: [start–end if applicable]
 - **Extraction Timestamp**: [when analyzed]
 - **Episode Ledger Summary**:
-  - Starting Artifact: A-XXXX
-  - Ending Artifact: A-XXXX
-  - Starting Claim: C-XXXX
-  - Ending Claim: C-XXXX
+  - Artifact Families Introduced: A-XXXX, A-XXXX, ...
+  - Claim Range: C-XXXX–C-XXXX
   - New Nodes Introduced: N-X, N-Y (if any)
+  - Existing Nodes Reused: N-1, N-2, ... (if any)
 
 ---
 
@@ -27,29 +28,60 @@ Use this structure for each analyzed episode. Follow the protocol rules in `ep_p
 
 ## 3. Artifact Register
 
-| ID | Description | Related | Timestamps |
-|----|-------------|---------|------------|
-| A-XXXX | [description] | C-XXXX, N-X | [as applicable] |
-| ... | | | |
+**A-XXXX** [Bundle Name – one evidentiary family per top-level ID]
+
+**A-XXXX.1** [Individual artifact description]
+
+Event Timestamp: [date]
+Source Timestamp: [date]
+Video Timestamp: [HH:MM:SS]
+Discovery Timestamp: [date]
+
+*Related: C-XXXX, N-X, N-1000*
+
+(Repeat for each artifact family. Create new family when evidentiary source changes.)
 
 ---
 
 ## 4. Node Register
 
-| ID | Entity / Target | Evidence Count | Claim Count |
-|----|------------------|----------------|-------------|
-| N-X | [name] | [count] | [count] |
-| N-1000 | [investigation target] | [count] | [count] |
-| ... | | | |
+**N-X** [Person Name]
+
+[Short descriptive line explaining why this node matters.]
+
+Evidence Count: [count]
+Claim Count: [count]
+Episode Count: [count]
+Investigative Pressure: [Low/Medium/High]
+
+*Related: A-XXXX.1, C-XXXX, C-YYYY*
+
+---
+
+**N-1000** [Investigation Target Name]
+
+[Short descriptive line explaining the discrepancy or verification question.]
+
+Evidence Count: [count]
+Claim Count: [count]
+Episode Count: [count]
+Investigative Pressure: [Low/Medium/High]
+
+*Related: A-XXXX.2, C-ZZZZ, N-X*
+
+(Repeat for each node. People use N-1 through N-999. Investigation targets use N-1000+.)
 
 ---
 
 ## 5. Claim Register
 
-| ID | Claim | Anchored Artifacts | Related Nodes |
-|----|-------|-------------------|---------------|
-| C-XXXX | [falsifiable statement] | A-XXXX | N-X, N-1000 |
-| ... | | | |
+**C-XXXX** [Short claim label]
+
+Claim Timestamp: HH:MM:SS
+Claim: [One-sentence neutral description.]
+Anchored Artifacts: A-XXXX.1, A-XXXX.2
+Related Nodes: N-X, N-1000
+Investigative Direction: [What could verify or falsify the claim.]
 
 ---
 
