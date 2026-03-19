@@ -15,5 +15,7 @@
 set -e
 # cd to agent-lab (4 levels up from scripts/)
 cd "$(dirname "$0")/../../../.."
+# Line-buffered output when logging to a file (tail -f works)
+export PYTHONUNBUFFERED=1
 exec uv run --project framework/deer-flow/backend python \
-  projects/monuments/bride_of_charlie/scripts/run_full_workflow.py "$@"
+  -u projects/monuments/bride_of_charlie/scripts/run_full_workflow.py "$@"

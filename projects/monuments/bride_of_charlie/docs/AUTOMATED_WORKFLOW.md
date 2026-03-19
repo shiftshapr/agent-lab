@@ -2,6 +2,8 @@
 
 End-to-end path from transcripts to graph, with iteration until stable.
 
+**Launch & comms (internal):** rollout order (inscribe → gov hub → Substack → video) and a **conversation → build log** live in [`LAUNCH_AND_COMMS_STRATEGY.md`](./LAUNCH_AND_COMMS_STRATEGY.md).
+
 ## Prerequisites
 
 - `~/workspace/agent-lab` with env in `.env` (not committed): `OPENAI_*`, `NEO4J_*`, etc.
