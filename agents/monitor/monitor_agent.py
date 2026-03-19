@@ -15,6 +15,9 @@ from pathlib import Path
 LOGS_DIR = Path(__file__).parent.parent.parent / "logs"
 
 SOURCES = [
+    "Email (Zoho View MCP)",
+    "Calendar (Zoho View MCP)",
+    "Slack",
     "X (Twitter)",
     "LinkedIn",
     "Reddit",

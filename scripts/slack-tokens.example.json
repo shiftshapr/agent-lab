@@ -1,0 +1,14 @@
+{
+  "workspaces": [
+    {
+      "name": "Metagov",
+      "refresh_token": "xoxe-1-...",
+      "team_id": "TMQ3PKXT9"
+    },
+    {
+      "name": "AI alignment",
+      "refresh_token": "xoxe-1-...",
+      "team_id": "T01641E1H6C"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# Project tags for email opportunity classification
+# Used by email-opportunity protocol to categorize findings
+
+projects:
+  - name: grants
+    keywords: [grant, fellowship, funding, RFP, proposal, application]
+  - name: partnerships
+    keywords: [partnership, collaborate, integrate, pilot, partnership]
+  - name: product
+    keywords: [feedback, feature, bug, support, request]
+  - name: community
+    keywords: [speaking, panel, webinar, conference, invite]

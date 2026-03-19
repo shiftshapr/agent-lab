@@ -533,7 +533,17 @@ def _render_two_phase_markdown(data: dict, ref_to_id: dict[str, str]) -> str:
                 lines.append(f"Video Timestamp: {sub['video_timestamp']}")
             rel_c = [ref_to_id.get(r, r) for r in sub.get("related_claims", [])]
             rel_n = [ref_to_id.get(r, r) for r in sub.get("related_nodes", [])]
-            lines.append(f"*Related: {', '.join(rel_c + rel_n)}*")
+            same_as = [ref_to_id.get(r, r) for r in sub.get("same_as_artifact_refs", [])]
+            rel_bits = rel_c + rel_n
+            if same_as:
+                rel_bits.append(f"same_as: {', '.join(same_as)}")
+            lines.append(f"*Related: {', '.join(rel_bits)}*")
+            if sub.get("transcript_snippet"):
+                lines.append(f"Transcript Snippet: {sub['transcript_snippet']}")
+            if sub.get("confidence"):
+                lines.append(f"Confidence: {sub['confidence']}")
+            if sub.get("uncertainty_note"):
+                lines.append(f"Uncertainty: {sub['uncertainty_note']}")
             lines.append("")
         lines.append("---\n")
     lines.append("## 4. Node Register\n")
@@ -544,6 +554,10 @@ def _render_two_phase_markdown(data: dict, ref_to_id: dict[str, str]) -> str:
         rel_a = [ref_to_id.get(r, r) for r in node.get("related_artifacts", [])]
         rel_c = [ref_to_id.get(r, r) for r in node.get("related_claims", [])]
         lines.append(f"\n*Related: {', '.join(rel_a + rel_c)}*")
+        if node.get("confidence"):
+            lines.append(f"\nConfidence: {node['confidence']}")
+        if node.get("uncertainty_note"):
+            lines.append(f"Uncertainty: {node['uncertainty_note']}")
         lines.append("\n---\n")
     lines.append("## 5. Claim Register\n")
     for claim in data.get("claims", []):
@@ -551,10 +565,22 @@ def _render_two_phase_markdown(data: dict, ref_to_id: dict[str, str]) -> str:
         lines.append(f"**{cid}** {claim.get('label', '')}\n")
         lines.append(f"Claim Timestamp: {claim.get('claim_timestamp', '')}")
         lines.append(f"Claim: {claim.get('claim', '')}")
+        if claim.get("transcript_snippet"):
+            lines.append(f"Transcript Snippet: {claim['transcript_snippet']}")
         arts = [ref_to_id.get(r, r) for r in claim.get("anchored_artifacts", [])]
         nodes = [ref_to_id.get(r, r) for r in claim.get("related_nodes", [])]
         lines.append(f"Anchored Artifacts: {', '.join(arts)}")
         lines.append(f"Related Nodes: {', '.join(nodes)}")
+        if claim.get("contradicts_claim_refs"):
+            cc = [ref_to_id.get(r, r) for r in claim["contradicts_claim_refs"]]
+            lines.append(f"Contradicts: {', '.join(cc)}")
+        if claim.get("supports_claim_refs"):
+            sc = [ref_to_id.get(r, r) for r in claim["supports_claim_refs"]]
+            lines.append(f"Supports: {', '.join(sc)}")
+        if claim.get("confidence"):
+            lines.append(f"Confidence: {claim['confidence']}")
+        if claim.get("uncertainty_note"):
+            lines.append(f"Uncertainty: {claim['uncertainty_note']}")
         lines.append(f"Investigative Direction: {claim.get('investigative_direction', '')}")
         lines.append("\n---\n")
     return "\n".join(lines)

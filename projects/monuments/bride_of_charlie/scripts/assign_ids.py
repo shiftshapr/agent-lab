@@ -220,6 +220,8 @@ def render_markdown(data: dict, ref_to_id: dict[str, str]) -> str:
             if same_as:
                 rel_bits.append(f"same_as: {', '.join(same_as)}")
             lines.append(f"*Related: {', '.join(rel_bits)}*")
+            if sub.get("transcript_snippet"):
+                lines.append(f"Transcript Snippet: {sub['transcript_snippet']}")
             if sub.get("confidence"):
                 lines.append(f"Confidence: {sub['confidence']}")
             if sub.get("uncertainty_note"):
@@ -247,6 +249,8 @@ def render_markdown(data: dict, ref_to_id: dict[str, str]) -> str:
         lines.append(f"**{cid}** {claim.get('label', '')}\n")
         lines.append(f"Claim Timestamp: {claim.get('claim_timestamp', '')}")
         lines.append(f"Claim: {claim.get('claim', '')}")
+        if claim.get("transcript_snippet"):
+            lines.append(f"Transcript Snippet: {claim['transcript_snippet']}")
         arts = [ref_to_id.get(r, r) for r in claim.get("anchored_artifacts", [])]
         nodes = [ref_to_id.get(r, r) for r in claim.get("related_nodes", [])]
         lines.append(f"Anchored Artifacts: {', '.join(arts)}")

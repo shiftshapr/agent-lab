@@ -56,7 +56,14 @@ TIMESTAMP_PATTERNS = {
     "claim": re.compile(r"Claim Timestamp:\s*(.+)$", re.MULTILINE | re.IGNORECASE),
 }
 
-CONFIDENCE_PATTERN = re.compile(r"Confidence Level:\s*(High|Medium|Low)", re.IGNORECASE)
+CONFIDENCE_PATTERN = re.compile(
+    r"(?:Confidence Level:|Confidence:)\s*(high|medium|low)\b",
+    re.IGNORECASE,
+)
+UNCERTAINTY_PATTERN = re.compile(r"^Uncertainty:\s*(.+)$", re.MULTILINE)
+TRANSCRIPT_SNIPPET_PATTERN = re.compile(r"^Transcript Snippet:\s*(.+)$", re.MULTILINE)
+CONTRADICTS_PATTERN = re.compile(r"^Contradicts:\s*(.+)$", re.MULTILINE)
+SUPPORTS_PATTERN = re.compile(r"^Supports:\s*(.+)$", re.MULTILINE)
 CLAIM_TEXT_PATTERN = re.compile(r"^Claim:\s*(.+)$", re.MULTILINE)
 ANCHORED_ARTIFACTS_PATTERN = re.compile(r"Anchored Artifacts:\s*(.+)$", re.MULTILINE)
 RELATED_NODES_PATTERN = re.compile(r"Related Nodes:\s*(.+)$", re.MULTILINE)
@@ -77,9 +84,19 @@ def extract_episode_num(text: str, filename: str) -> int:
     return 0
 
 
+_ID_TOKEN = re.compile(r"^(A-\d+(?:\.\d+)?|C-\d+|N-\d+)$")
+
+
 def parse_id_list(text: str) -> list[str]:
-    """Parse comma-separated ID list like 'A-1000.1, C-1009, N-2'."""
-    return [id.strip() for id in re.split(r"[,\s]+", text) if id.strip() and re.match(r"[ACN]-\d+", id.strip())]
+    """Parse comma-separated IDs: A-1000.1, C-1009, N-2 (handles dotted artifact refs)."""
+    out: list[str] = []
+    for part in re.split(r",", text):
+        id = part.strip()
+        if id.lower().startswith("same_as:"):
+            id = id.split(":", 1)[1].strip()
+        if id and _ID_TOKEN.match(id):
+            out.append(id)
+    return out
 
 
 def extract_artifact_families(text: str, episode_num: int) -> list[dict[str, Any]]:
@@ -120,11 +137,21 @@ def extract_artifacts(text: str, episode_num: int) -> list[dict[str, Any]]:
             if ts_match:
                 timestamps[f"{key}_ts"] = ts_match.group(1).strip()
         
-        # Extract confidence
+        # Extract confidence (high|medium|low)
         confidence = None
         conf_match = CONFIDENCE_PATTERN.search(section)
         if conf_match:
-            confidence = conf_match.group(1).capitalize()
+            confidence = conf_match.group(1).lower()
+
+        uncertainty_note = None
+        um = UNCERTAINTY_PATTERN.search(section)
+        if um:
+            uncertainty_note = um.group(1).strip()
+
+        transcript_snippet = None
+        ts = TRANSCRIPT_SNIPPET_PATTERN.search(section)
+        if ts:
+            transcript_snippet = ts.group(1).strip()
         
         # Extract related IDs
         related_ids = []
@@ -138,6 +165,8 @@ def extract_artifacts(text: str, episode_num: int) -> list[dict[str, Any]]:
             "description": description,
             "episode_num": episode_num,
             "confidence": confidence,
+            "uncertainty_note": uncertainty_note,
+            "transcript_snippet": transcript_snippet,
             "related_ids": related_ids,
             **timestamps,
         })
@@ -193,6 +222,31 @@ def extract_claims(text: str, episode_num: int) -> list[dict[str, Any]]:
         inv_match = INVESTIGATIVE_DIRECTION_PATTERN.search(section)
         if inv_match:
             investigative_direction = inv_match.group(1).strip()
+
+        contradicts_claims: list[str] = []
+        cm = CONTRADICTS_PATTERN.search(section)
+        if cm:
+            contradicts_claims = [x for x in parse_id_list(cm.group(1)) if x.startswith("C-")]
+
+        supports_claims: list[str] = []
+        sm = SUPPORTS_PATTERN.search(section)
+        if sm:
+            supports_claims = [x for x in parse_id_list(sm.group(1)) if x.startswith("C-")]
+
+        confidence = None
+        cf = CONFIDENCE_PATTERN.search(section)
+        if cf:
+            confidence = cf.group(1).lower()
+
+        uncertainty_note = None
+        um = UNCERTAINTY_PATTERN.search(section)
+        if um:
+            uncertainty_note = um.group(1).strip()
+
+        transcript_snippet = None
+        tsp = TRANSCRIPT_SNIPPET_PATTERN.search(section)
+        if tsp:
+            transcript_snippet = tsp.group(1).strip()
         
         claims.append({
             "id": claim_id,
@@ -203,6 +257,11 @@ def extract_claims(text: str, episode_num: int) -> list[dict[str, Any]]:
             "anchored_artifacts": anchored_artifacts,
             "related_nodes": related_nodes,
             "investigative_direction": investigative_direction,
+            "contradicts_claims": contradicts_claims,
+            "supports_claims": supports_claims,
+            "confidence": confidence,
+            "uncertainty_note": uncertainty_note,
+            "transcript_snippet": transcript_snippet,
         })
     
     return claims
@@ -245,6 +304,16 @@ def extract_nodes(text: str, episode_num: int) -> list[dict[str, Any]]:
         rel_match = RELATED_PATTERN.search(section)
         if rel_match:
             related_ids = parse_id_list(rel_match.group(1))
+
+        confidence = None
+        cf = CONFIDENCE_PATTERN.search(section)
+        if cf:
+            confidence = cf.group(1).lower()
+
+        uncertainty_note = None
+        um = UNCERTAINTY_PATTERN.search(section)
+        if um:
+            uncertainty_note = um.group(1).strip()
         
         nodes.append({
             "id": node_id,
@@ -253,6 +322,8 @@ def extract_nodes(text: str, episode_num: int) -> list[dict[str, Any]]:
             "description": description,
             "episode_num": episode_num,
             "related_ids": related_ids,
+            "confidence": confidence,
+            "uncertainty_note": uncertainty_note,
         })
     
     return nodes
@@ -401,8 +472,12 @@ def ingest_episode(driver, episode_data: dict[str, Any], force: bool = False, fu
             related_ids = artifact.get("related_ids", [])
             family_id = artifact["family_id"]
             
-            # Create a copy without related_ids and family_id for props
-            props = {k: v for k, v in artifact.items() if k not in ("related_ids", "family_id")}
+            # Props for Neo4j (no nulls; omit structural keys)
+            props = {
+                k: v
+                for k, v in artifact.items()
+                if k not in ("related_ids", "family_id") and v is not None
+            }
             
             session.run(
                 "MERGE (a:Artifact {id: $id}) "
@@ -456,7 +531,11 @@ def ingest_episode(driver, episode_data: dict[str, Any], force: bool = False, fu
                     continue
             
             # No similar node found - create new with canonical_name and empty aliases
-            props = {k: v for k, v in node.items() if k not in ("related_ids", "node_type", "episode_num")}
+            props = {
+                k: v
+                for k, v in node.items()
+                if k not in ("related_ids", "node_type", "episode_num") and v is not None
+            }
             props["canonical_name"] = node_name
             props["aliases"] = []
             
@@ -475,9 +554,22 @@ def ingest_episode(driver, episode_data: dict[str, Any], force: bool = False, fu
         for claim in episode_data["claims"]:
             anchored_artifacts = claim.get("anchored_artifacts", [])
             related_nodes = claim.get("related_nodes", [])
+            contradicts = claim.get("contradicts_claims") or []
+            supports = claim.get("supports_claims") or []
             
-            # Create a copy without anchored_artifacts and related_nodes for props
-            props = {k: v for k, v in claim.items() if k not in ("anchored_artifacts", "related_nodes")}
+            # Strip relationship keys and list fields not stored as Neo4j props
+            props = {
+                k: v
+                for k, v in claim.items()
+                if k
+                not in (
+                    "anchored_artifacts",
+                    "related_nodes",
+                    "contradicts_claims",
+                    "supports_claims",
+                )
+                and v is not None
+            }
             
             session.run(
                 "MERGE (c:Claim {id: $id}) "
@@ -508,6 +600,21 @@ def ingest_episode(driver, episode_data: dict[str, Any], force: bool = False, fu
                     "MERGE (c)-[:INVOLVES]->(n)",
                     claim_id=claim["id"],
                     node_id=node_id,
+                )
+
+            for other_id in contradicts:
+                session.run(
+                    "MATCH (c1:Claim {id: $from_id}), (c2:Claim {id: $to_id}) "
+                    "MERGE (c1)-[:CONTRADICTS]->(c2)",
+                    from_id=claim["id"],
+                    to_id=other_id,
+                )
+            for other_id in supports:
+                session.run(
+                    "MATCH (c1:Claim {id: $from_id}), (c2:Claim {id: $to_id}) "
+                    "MERGE (c1)-[:SUPPORTS]->(c2)",
+                    from_id=claim["id"],
+                    to_id=other_id,
                 )
         
         # Create INVOLVES relationships from artifacts to nodes (from related_ids)
@@ -563,9 +670,13 @@ def main():
         sys.exit(1)
     
     if args.force:
-        print("[neo4j-ingest] FORCE mode: clearing existing graph...")
+        print("[neo4j-ingest] FORCE mode: clearing graph (preserving NameCorrection nodes)...")
         with driver.session() as session:
-            session.run("MATCH (n) DETACH DELETE n")
+            session.run("""
+                MATCH (n)
+                WHERE NOT n:NameCorrection
+                DETACH DELETE n
+            """)
     
     if fuzzy_match:
         print(f"[neo4j-ingest] Fuzzy name matching: ENABLED (use --no-fuzzy-match to disable)")

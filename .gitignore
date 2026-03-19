@@ -2,6 +2,7 @@
 .env
 .env.local
 .env.*.local
+scripts/slack-tokens.json
 
 # Python
 __pycache__/
