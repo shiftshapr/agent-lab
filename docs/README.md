@@ -3,6 +3,7 @@
 | Doc | Purpose |
 |-----|---------|
 | [**AGENT_AND_MONUMENT_DECISIONS.md**](./AGENT_AND_MONUMENT_DECISIONS.md) | Repo-wide log: conversations → agent/monument tooling decisions |
+| [**IDEAS_BACKLOG.md**](./IDEAS_BACKLOG.md) | Ideas parking lot (use **capture-idea** Cursor skill) |
 | [SCAFFOLDING.md](./SCAFFOLDING.md) | Repo / environment scaffolding |
 | [DAILY_PREP_AND_MESSAGING_PLAN.md](./DAILY_PREP_AND_MESSAGING_PLAN.md) | Daily prep workflow |
 | [EMAIL_OPPORTUNITY_SEARCH_WORKFLOW.md](./EMAIL_OPPORTUNITY_SEARCH_WORKFLOW.md) | Email opportunity search |

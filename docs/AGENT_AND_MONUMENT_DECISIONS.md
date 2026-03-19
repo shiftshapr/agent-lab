@@ -19,6 +19,11 @@ Use **this file** for anything that applies to **agent-lab as a whole** or **mul
 
 ---
 
+## Cursor skills (draft from chat)
+
+- **draft-decision-log** — `.cursor/skills/draft-decision-log/`: ask the agent to *draft a decision log entry for what we discussed*.
+- **capture-idea** — `.cursor/skills/capture-idea/`: ask to *capture this idea* → [`IDEAS_BACKLOG.md`](./IDEAS_BACKLOG.md).
+
 ## Conversation → build log (append newest at top)
 
 <!--
