@@ -74,13 +74,13 @@ python projects/monuments/bride_of_charlie/scripts/neo4j_ingest.py    # Load epi
 python projects/monuments/bride_of_charlie/scripts/neo4j_validate.py  # Validate
 ```
 
-Open [http://localhost:7474](http://localhost:7474) (login: `neo4j` / `openclaw`)
+Open [http://localhost:17474](http://localhost:17474) (login: `neo4j` / `openclaw`). Agent-lab `docker-compose.yml` maps **17474→7474** and **17687→7687** so Bolt does not clash with another local runtime (e.g. OrbStack) on the default ports.
 
 **Configuration:**
 
 Add to `.env`:
 ```bash
-NEO4J_URI=bolt://localhost:7687
+NEO4J_URI=bolt://127.0.0.1:17687
 NEO4J_USER=neo4j
 NEO4J_PASSWORD=openclaw
 NEO4J_AUTO_INGEST=true

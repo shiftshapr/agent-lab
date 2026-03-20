@@ -12,7 +12,7 @@ End-to-end path from transcripts to graph, with iteration until stable.
   git submodule update --init --recursive
   ```
   This populates `framework/deer-flow` (used by `uv run --project framework/deer-flow/backend`).
-- Neo4j running (e.g. `docker compose up -d` if you use the repo compose file).
+- Neo4j running (e.g. `docker compose up -d` from agent-lab root). The compose file publishes **Bolt on host `17687`** and **Browser on `17474`** (not 7687/7474) to avoid port clashes with tools like OrbStack — set `NEO4J_URI=bolt://127.0.0.1:17687` in `.env`.
 
 ## One-command flow
 
