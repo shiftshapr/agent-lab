@@ -29,6 +29,22 @@ AGENT_LAB = PROJECT_DIR.parent.parent.parent
 UV_CMD = ["uv", "run", "--project", str(AGENT_LAB / "framework" / "deer-flow" / "backend")]
 
 
+def _bootstrap_agent_lab_env() -> None:
+    """Load .env and fix legacy local Bolt :7687 (OrbStack hijack) -> compose port :17687."""
+    try:
+        from dotenv import load_dotenv
+
+        load_dotenv(AGENT_LAB / ".env", override=False)
+    except ImportError:
+        pass
+    uri = os.environ.get("NEO4J_URI", "").strip()
+    if re.fullmatch(r"bolt://(localhost|127\.0\.0\.1):7687/?", uri, re.IGNORECASE):
+        os.environ["NEO4J_URI"] = "bolt://127.0.0.1:17687"
+
+
+_bootstrap_agent_lab_env()
+
+
 def run(cmd: list[str], cwd: Path | None = None) -> int:
     """Run command, return exit code."""
     return subprocess.run(cmd, cwd=cwd or AGENT_LAB).returncode

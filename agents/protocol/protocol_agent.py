@@ -12,11 +12,28 @@ from __future__ import annotations
 import argparse
 import importlib.util
 import os
+import re
 import sys
 from pathlib import Path
 
-PROTOCOLS_DIR = Path(__file__).parent.parent.parent / "protocols"
-AGENTS_DIR    = Path(__file__).parent
+AGENT_LAB = Path(__file__).resolve().parent.parent.parent
+PROTOCOLS_DIR = AGENT_LAB / "protocols"
+AGENTS_DIR = Path(__file__).parent
+
+
+def _bootstrap_agent_lab_env() -> None:
+    try:
+        from dotenv import load_dotenv
+
+        load_dotenv(AGENT_LAB / ".env", override=False)
+    except ImportError:
+        pass
+    uri = os.environ.get("NEO4J_URI", "").strip()
+    if re.fullmatch(r"bolt://(localhost|127\.0\.0\.1):7687/?", uri, re.IGNORECASE):
+        os.environ["NEO4J_URI"] = "bolt://127.0.0.1:17687"
+
+
+_bootstrap_agent_lab_env()
 
 
 def run_protocol(name: str, project: str | None = None) -> None:
