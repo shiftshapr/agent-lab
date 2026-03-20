@@ -70,7 +70,7 @@ def run_task(prompt: str, thread_id: str | None = None) -> str:
 
 _TASK_SCRIPT = """
 import os
-from src.client import DeerFlowClient
+from deerflow.client import DeerFlowClient
 prompt = os.environ["DEERFLOW_TASK_PROMPT"]
 thread_id = os.environ["DEERFLOW_TASK_THREAD"]
 client = DeerFlowClient()
