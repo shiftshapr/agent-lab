@@ -15,6 +15,13 @@
 set -e
 # cd to agent-lab (4 levels up from scripts/)
 cd "$(dirname "$0")/../../../.."
+# Neo4j ingest / validate need NEO4J_*; API keys live here too
+if [[ -f .env ]]; then
+  set -a
+  # shellcheck disable=SC1091
+  source .env
+  set +a
+fi
 # Line-buffered output when logging to a file (tail -f works)
 export PYTHONUNBUFFERED=1
 exec uv run --project framework/deer-flow/backend python \
