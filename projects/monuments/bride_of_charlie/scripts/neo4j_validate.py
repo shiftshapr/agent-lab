@@ -6,7 +6,7 @@ Usage:
     python scripts/neo4j_validate.py
 
 Environment:
-    NEO4J_URI (default: bolt://localhost:7687)
+    NEO4J_URI (default: bolt://127.0.0.1:17687)
     NEO4J_USER (default: neo4j)
     NEO4J_PASSWORD (default: openclaw)
 """
@@ -27,7 +27,7 @@ except ImportError:
 # Config
 # ---------------------------------------------------------------------------
 
-NEO4J_URI = os.getenv("NEO4J_URI", "bolt://localhost:7687")
+NEO4J_URI = os.getenv("NEO4J_URI", "bolt://127.0.0.1:17687")
 NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "openclaw")
 

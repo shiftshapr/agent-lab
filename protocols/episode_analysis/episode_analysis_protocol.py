@@ -600,12 +600,13 @@ def ingest_episode_to_neo4j(episode_file: Path) -> bool:
         if not ingest_script.exists():
             return False
         
-        # Run ingest script for just this episode
+        # Same interpreter + env as parent (uv venv, NEO4J_URI from .env / shell)
         result = subprocess.run(
-            ["python", str(ingest_script), "--drafts-dir", str(episode_file.parent)],
+            [sys.executable, str(ingest_script), "--drafts-dir", str(episode_file.parent)],
             capture_output=True,
             text=True,
-            timeout=30,
+            timeout=180,
+            env=os.environ.copy(),
         )
         
         if result.returncode == 0:
