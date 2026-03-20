@@ -30,7 +30,7 @@ except ImportError:
     print("ERROR: neo4j driver not installed. Run: uv add neo4j")
     sys.exit(1)
 
-NEO4J_URI = os.getenv("NEO4J_URI", "bolt://localhost:7687")
+NEO4J_URI = os.getenv("NEO4J_URI", "bolt://127.0.0.1:17687")
 NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "openclaw")
 
@@ -76,7 +76,11 @@ class CorrectionManager:
             query = "MATCH (nc:NameCorrection) "
             if confidence_filter:
                 query += f"WHERE nc.confidence = '{confidence_filter}' "
-            query += "RETURN nc.incorrect, nc.correct, nc.confidence, nc.source, nc.added_date ORDER BY nc.added_date DESC"
+            query += (
+                "RETURN nc.incorrect AS incorrect, nc.correct AS correct, "
+                "nc.confidence AS confidence, nc.source AS source, nc.added_date AS added_date "
+                "ORDER BY added_date DESC"
+            )
             
             result = session.run(query)
             return [dict(record) for record in result]
@@ -105,8 +109,8 @@ class CorrectionManager:
                     WHEN 'low' THEN 1
                     ELSE 0
                 END >= $threshold
-                RETURN nc.incorrect, nc.correct, nc.confidence
-                ORDER BY length(nc.incorrect) DESC
+                RETURN nc.incorrect AS incorrect, nc.correct AS correct, nc.confidence AS confidence
+                ORDER BY size(nc.incorrect) DESC
             """, threshold=threshold)
             
             for record in result:
@@ -175,12 +179,14 @@ class CorrectionManager:
                 )
                 count += 1
             
-            # Also import from aliases
+            # Also import from aliases (WITH required between UNWIND and filtering WHERE)
             result = session.run("""
                 MATCH (p:Person)
-                WHERE size(p.aliases) > 0
+                WHERE p.aliases IS NOT NULL AND size(p.aliases) > 0
                 UNWIND p.aliases AS alias
-                WHERE alias <> p.canonical_name
+                WITH p, alias
+                WHERE alias IS NOT NULL AND trim(toString(alias)) <> ''
+                  AND alias <> p.canonical_name
                 RETURN alias AS incorrect,
                        p.canonical_name AS correct,
                        'alias_merge' AS source,
@@ -260,8 +266,8 @@ def main():
             else:
                 print(f"Name Corrections ({len(corrections)}):\n")
                 for c in corrections:
-                    print(f"  '{c['nc.incorrect']}' → '{c['nc.correct']}'")
-                    print(f"    Confidence: {c['nc.confidence']}, Source: {c['nc.source']}")
+                    print(f"  '{c['incorrect']}' → '{c['correct']}'")
+                    print(f"    Confidence: {c['confidence']}, Source: {c['source']}")
                     print()
         
         elif args.command == "apply":
