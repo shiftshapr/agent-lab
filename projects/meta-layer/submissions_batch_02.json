@@ -1,0 +1,186 @@
+{
+    "p": "brc333",
+    "op": "activate",
+    "project": "Desirable Properties of a Meta-Layer",
+    "articles": [
+        {
+            "id": "9af29abff41e4fe8e48c2f99a99e021a6da15f4b07f56656f3cbdd2d0cdf02d7i0",
+            "title": "Walking the Narrow Path: Reinforcing AI Governance, Containment, and Trust in the Meta-layer",
+            "author": "Tristan Harris",
+            "email": "daveed@bridgit.io",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Security",
+                "Governance",
+                "Community",
+                "Protocol",
+                "Infrastructure"
+            ],
+            "timestamp": 1752519684
+        },
+        {
+            "id": "8c8f7d781178df6343eb226a1f79671d88b6118626dd3c61eb7573f6ad3124c8i0",
+            "title": "Save As to Web3: A UX Gateway to Decentralized Storage",
+            "author": "Stephanie Hervey",
+            "email": "webbie@theartisanhub.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "Decentralization",
+                "Privacy",
+                "Security",
+                "Community",
+                "Interoperability",
+                "Protocol",
+                "Infrastructure"
+            ],
+            "timestamp": 1752606084
+        },
+        {
+            "id": "3763b59cd41a2ea8241f68b89b49e6feb85f8951581a602ad9476dc041939ecai0",
+            "title": "Security Protocols and Ethical Safeguards in the Lyra System",
+            "author": "Alex Nassarius",
+            "email": "alex.nassarius@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Privacy",
+                "Security",
+                "Governance",
+                "Community",
+                "Protocol"
+            ],
+            "timestamp": 1752692484
+        },
+        {
+            "id": "ef828f4857ce8ef71a2c78a459ea8ed9748bdc00c0b6185f7757ab0257a372c7i0",
+            "title": "A Trusted Annotation Layer for Shakespeare's Plays",
+            "author": "Michael Witmore",
+            "email": "michaelwitmore@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Education",
+                "Community",
+                "Protocol",
+                "Transparency",
+                "Trust"
+            ],
+            "timestamp": 1752778884
+        },
+        {
+            "id": "a7f7e658d9fa6deeac2aca2649cd28d8ea8b21a3d7399d347dd6aa55a7c409bfi0",
+            "title": "Ethical Products for the Global South",
+            "author": "Scott Frankum",
+            "email": "scottfrankum@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Blockchain",
+                "Decentralization",
+                "Privacy",
+                "Interoperability",
+                "Protocol",
+                "Transparency"
+            ],
+            "timestamp": 1752865284
+        },
+        {
+            "id": "726ef67de1239a5b073cc764be1349065996c6855dffd8f32b8579ce3a7a9540i0",
+            "title": "Enhancing Whistleblower Protection within the Meta-Layer",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Blockchain",
+                "Decentralization",
+                "Privacy",
+                "Security",
+                "Interoperability",
+                "Protocol"
+            ],
+            "timestamp": 1752951684
+        },
+        {
+            "id": "c2c0a71679e7416a73f39a9e59b5dac81af06ca1643b84f2f4adb9b5ee2cc038i0",
+            "title": "Can Directories Rise Again?",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Privacy",
+                "Community",
+                "Interoperability",
+                "Protocol",
+                "Transparency"
+            ],
+            "timestamp": 1753038084
+        },
+        {
+            "id": "ee17f4b69a4ae0e3347432424213ae9728eed677b254c8772ecf4c3a5c69df92i0",
+            "title": "DiCAMS: Dynamic Intelligent Context-Aware Memory System",
+            "author": "Patrick Hoagland",
+            "email": "sfghoagland@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Security",
+                "Interoperability",
+                "Protocol",
+                "Infrastructure",
+                "Reputation"
+            ],
+            "timestamp": 1753124484
+        },
+        {
+            "id": "3429e08f48bcdded2a8d9bba3daddcd4ead5a27370620b7cfd5538c87a06c877i0",
+            "title": "Forensic Transparency and 'The Creed': A Dual Framework for Ethical Digital Presence",
+            "author": "Aa Ho",
+            "email": "Taiconan@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Protocol",
+                "Transparency",
+                "Trust",
+                "Authentication",
+                "User Interface"
+            ],
+            "timestamp": 1753210884
+        },
+        {
+            "id": "6f7d508ef2efe6c073cda053b59f20f87f4f87e6ec88ad66208b78c3ed097196i0",
+            "title": "Sixteen Axioms for Cognitive Infrastructure",
+            "author": "Aa Ho",
+            "email": "Taiconan@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Governance",
+                "Education",
+                "Interoperability",
+                "Protocol",
+                "Infrastructure",
+                "Transparency"
+            ],
+            "timestamp": 1753297284
+        }
+    ]
+}

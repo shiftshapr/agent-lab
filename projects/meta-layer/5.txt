@@ -1,0 +1,66 @@
+# Secure, Organic Community Formation on the Meta-layer
+
+## Submitter
+
+**Liz Sweigart**
+lizsweig@gmail.com
+
+## Overview
+
+This submission proposes pathways for vulnerable and like-minded communities to discover one another, coordinate securely, and exchange value peer-to-peer without relying on centralized platforms. It includes recommendations for enhancing Desirable Properties to better protect these communities from deplatforming, surveillance, and identity compromise. This submission was generated with protocol META-DP-EVAL-v1.3.
+
+## Directly Addressed DPs
+
+### DP1 - Federated Authentication & Accountability
+
+Support for private, decentralized member discovery without central profiling.
+
+### DP4 - Data Sovereignty and Privacy
+
+Covers encrypted group communication and sovereign community data hosting.
+
+### DP5 - Decentralized Namespace
+
+Protects community identifiers from seizure or censorship.
+
+### DP6 - Commerce
+
+Enables mutual aid and private transactions for underserved groups.
+
+### DP15 - Security and Provenance
+
+Safeguards against platform coercion and state-level adversaries.
+
+## Clarifications and Extensions
+
+### DP1 – Federated Authentication & Accountability — Extension
+
+**Decentralized Discovery with Privacy Guarantees**
+
+Federation protocols should include user-controlled discovery mechanisms that do not rely on public directories or metadata exposure.
+
+*Why it matters:* Communities under threat need safe ways to find each other without exposing themselves to indexing or surveillance.
+
+### DP4 – Data Sovereignty and Privacy — Extension
+
+**Encrypted Group Communication and Community Data Hosting**
+
+Support infrastructure that allows communities to host data and coordinate securely without dependence on third-party platforms.
+
+*Why it matters:* This ensures operational sovereignty and continuity even under pressure from governments or private intermediaries.
+
+### DP6 – Commerce — Extension
+
+**Mutual Aid and Anonymous Transactions**
+
+Commerce protocols should enable reciprocal economic support while minimizing surveillance or exclusion from legacy finance.
+
+*Why it matters:* Excluded communities often rely on mutual aid, which must remain viable in adversarial or informal environments.
+
+### DP15 – Security and Provenance — Clarification
+
+**Threat-Resilient Infrastructure Design**
+
+Security protocols should account for coercion, targeting, and compromise by centralized authorities or surveillance networks.
+
+*Why it matters:* Vulnerable groups require infrastructure that is resilient against hostile, well-resourced adversaries.

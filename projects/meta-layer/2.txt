@@ -1,0 +1,75 @@
+# Shared Tray Protocol for Coordinated Overlay Interfaces
+
+## Submitter
+
+**Daveed Benjamin**
+daveed@bridgit.io
+
+## Overview
+
+I propose the development of a browser-level interface protocol that allows multiple overlays (e.g. assistants, wallets, chat tools) to register themselves into a shared, user-configurable tray, typically anchored in the lower-right corner of the screen. This would support coexistence of decentralized tools, prevent UX collisions, and empower users to customize their digital environment without friction.
+
+Overlays would be able to:
+- Register a “startup icon” and metadata (name, role, permissions)
+- Indicate availability or priority
+- Respect a shared system for tray placement and visibility
+- Defer to user preferences in display and ordering
+
+Users could:
+- Configure which overlays are pinned or expanded
+- Access others on demand via an expandable tray
+- Rely on consistent placement and behavior across sites and browsers
+
+Next Steps: I suggest forming a W3C Community Group to define an open standard for overlay registration and tray coordination. This standard could help browsers and web apps harmonize decentralized UI layers, supporting both open innovation and excellent UX.
+
+## Directly Addressed DPs
+
+### DP2 - Participant Agency and Empowerment
+
+Enhances control over the interface layer.
+
+### DP7 - Simplicity and Interoperability
+
+Establishes a common UX protocol for overlays.
+
+### DP8 - Collaborative Environment and Meta-Communities
+
+Enables coexistence of decentralized overlay tools.
+
+### DP14 - Trust and Transparency
+
+Provides a transparent view into which overlays are active.
+
+### DP16 - Roadmap and Milestones
+
+Suggests a clear pathway toward W3C standardization.
+
+### DP19 - Amplifying Presence and Community Engagement
+
+Surfaces community overlays without clutter.
+
+## Clarifications and Extensions
+
+### DP2 - Participant Agency and Empowerment — Clarification
+
+**Overlay Autonomy via Interface Preferences**
+
+User interface autonomy is extended to the tray layer, giving users the ability to manage and curate their engagement with decentralized tools.
+
+*Why it matters:* Agency at the interface level increases usability and inclusivity, especially when decentralized tools proliferate.
+
+### DP7 - Simplicity and Interoperability — Extension
+
+**System-wide Protocol for Tray Coordination**
+
+Establishing a UX-wide protocol harmonizes tool coexistence while reducing cognitive load and visual clutter.
+
+*Why it matters:* Interoperability across diverse overlays improves accessibility and promotes ecosystem cohesion.
+
+### DP16 - Roadmap and Milestones — Extension
+
+**W3C Community Group Formation**
+
+Proposal includes a concrete first step: establish an open standard via a recognized governance body.
+
+*Why it matters:* Incorporating a standards track legitimizes the work and supports long-term adoption across browsers.

@@ -1,0 +1,828 @@
+{
+    "p": "brc333",
+    "op": "activate",
+    "project": "Desirable Properties of a Meta-Layer",
+    "articles": [
+        {
+            "id": "20bb2455ff4279e33c915327e29e98a0355bed28c134cd3e67acdbd20e756fe2i0",
+            "title": "Gamified 4D Interaction Layer for Digital-Physical Quests",
+            "author": "Javier",
+            "email": "Jamagax@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Blockchain",
+                "Security",
+                "Governance",
+                "Education",
+                "Community",
+                "Interoperability"
+            ],
+            "timestamp": 1750889399
+        },
+        {
+            "id": "c5415a3dd8ab87f6c70c35da9bb0fd58aede574af8ed3b4d8d24ed2df2fa0294i0",
+            "title": "Shared Tray Protocol for Coordinated Overlay Interfaces",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Governance",
+                "Community",
+                "Interoperability",
+                "Protocol",
+                "Transparency"
+            ],
+            "timestamp": 1750975799
+        },
+        {
+            "id": "dd7240cbdbe470384cd2c9996f2288994e683a5320605e9d4580c6aa7d7328b9i0",
+            "title": "UMi's Contribution to the Meta-Layer Initiative: Sector-Specific Integration of DP4",
+            "author": "Phahsa Ras",
+            "email": "Phahsa@protonmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Privacy",
+                "Security",
+                "Governance",
+                "Education",
+                "Community"
+            ],
+            "timestamp": 1751062199
+        },
+        {
+            "id": "990367e5512ea19a9f3423152d1737e36e51441406a668803e6f3982b0918fdei0",
+            "title": "Vicariance as a Desirable Meta-Layer Property",
+            "author": "Chris Santos-Lang",
+            "email": "langchri@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Governance",
+                "Community",
+                "Protocol"
+            ],
+            "timestamp": 1751148599
+        },
+        {
+            "id": "1c0ff67f1e0aa933b5e9a45f524f991f3c2e78d6cde889ea35d9b688660695c1i0",
+            "title": "Secure, Organic Community Formation on the Meta-layer",
+            "author": "Liz Sweigart",
+            "email": "lizsweig@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Privacy",
+                "Security",
+                "Community",
+                "Protocol",
+                "Infrastructure"
+            ],
+            "timestamp": 1751234999
+        },
+        {
+            "id": "6d9ce1945a9b30071802f64a6564003025f5c3edd0c5dad1fcdcaf61af81ca1ei0",
+            "title": "Bridges, Synaptic Web, and Universal Maps: Toward a Cognitive Meta-layer",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Security",
+                "Education",
+                "Community",
+                "Interoperability",
+                "Protocol",
+                "Infrastructure"
+            ],
+            "timestamp": 1751321399
+        },
+        {
+            "id": "262815776a08856557cc3b3a588533cce738ff22a20947673130ccf8a38c9ba6i0",
+            "title": "Algorithmic Kabbalah: A Mystical Framework for Ethical AGI",
+            "author": "Paul Carpenter",
+            "email": "mentallyhyp2012@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Governance",
+                "Community",
+                "Protocol",
+                "User Interface"
+            ],
+            "timestamp": 1751407799
+        },
+        {
+            "id": "b49edb213a5d34f010bd44c2badf32c95f68e9a4e4d340f8e3468da4103b60b9i0",
+            "title": "Cultivating Trust in AI-Assisted Online Conversations",
+            "author": "Christopher C Santos-Lang",
+            "email": "langchri@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Governance",
+                "Community",
+                "Protocol",
+                "Transparency",
+                "Trust",
+                "Reputation"
+            ],
+            "timestamp": 1751494199
+        },
+        {
+            "id": "c7a08bb03a2d57b0eb2c91a772f2bb0b53f191b5f2c830f4a1cbcb0b1f5b7a9fi0",
+            "title": "Navigator User Interfaces (NUI) as a Coordination Layer for a Post-Search, Post-Feed Web",
+            "author": "Chris Santos-Lang",
+            "email": "langchri@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Privacy",
+                "Governance",
+                "Education",
+                "Community",
+                "Interoperability"
+            ],
+            "timestamp": 1751580599
+        },
+        {
+            "id": "d7397e49b9e36123fa1eb46168e34032b10e6104dd2c7edb53a32a11e921f436i0",
+            "title": "Minimum Protocol for Responsible Interaction Between Autonomous Agents",
+            "author": "Ruben Diaz",
+            "email": "rubenraul75@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Privacy",
+                "Community",
+                "Interoperability",
+                "Protocol",
+                "Authentication"
+            ],
+            "timestamp": 1751666999
+        },
+        {
+            "id": "9af29abff41e4fe8e48c2f99a99e021a6da15f4b07f56656f3cbdd2d0cdf02d7i0",
+            "title": "Walking the Narrow Path: Reinforcing AI Governance, Containment, and Trust in the Meta-layer",
+            "author": "Tristan Harris",
+            "email": "daveed@bridgit.io",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Security",
+                "Governance",
+                "Community",
+                "Protocol",
+                "Infrastructure"
+            ],
+            "timestamp": 1752519684
+        },
+        {
+            "id": "8c8f7d781178df6343eb226a1f79671d88b6118626dd3c61eb7573f6ad3124c8i0",
+            "title": "Save As to Web3: A UX Gateway to Decentralized Storage",
+            "author": "Stephanie Hervey",
+            "email": "webbie@theartisanhub.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "Decentralization",
+                "Privacy",
+                "Security",
+                "Community",
+                "Interoperability",
+                "Protocol",
+                "Infrastructure"
+            ],
+            "timestamp": 1752606084
+        },
+        {
+            "id": "3763b59cd41a2ea8241f68b89b49e6feb85f8951581a602ad9476dc041939ecai0",
+            "title": "Security Protocols and Ethical Safeguards in the Lyra System",
+            "author": "Alex Nassarius",
+            "email": "alex.nassarius@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Privacy",
+                "Security",
+                "Governance",
+                "Community",
+                "Protocol"
+            ],
+            "timestamp": 1752692484
+        },
+        {
+            "id": "ef828f4857ce8ef71a2c78a459ea8ed9748bdc00c0b6185f7757ab0257a372c7i0",
+            "title": "A Trusted Annotation Layer for Shakespeare's Plays",
+            "author": "Michael Witmore",
+            "email": "michaelwitmore@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Education",
+                "Community",
+                "Protocol",
+                "Transparency",
+                "Trust"
+            ],
+            "timestamp": 1752778884
+        },
+        {
+            "id": "a7f7e658d9fa6deeac2aca2649cd28d8ea8b21a3d7399d347dd6aa55a7c409bfi0",
+            "title": "Ethical Products for the Global South",
+            "author": "Scott Frankum",
+            "email": "scottfrankum@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Blockchain",
+                "Decentralization",
+                "Privacy",
+                "Interoperability",
+                "Protocol",
+                "Transparency"
+            ],
+            "timestamp": 1752865284
+        },
+        {
+            "id": "726ef67de1239a5b073cc764be1349065996c6855dffd8f32b8579ce3a7a9540i0",
+            "title": "Enhancing Whistleblower Protection within the Meta-Layer",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Blockchain",
+                "Decentralization",
+                "Privacy",
+                "Security",
+                "Interoperability",
+                "Protocol"
+            ],
+            "timestamp": 1752951684
+        },
+        {
+            "id": "c2c0a71679e7416a73f39a9e59b5dac81af06ca1643b84f2f4adb9b5ee2cc038i0",
+            "title": "Can Directories Rise Again?",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Privacy",
+                "Community",
+                "Interoperability",
+                "Protocol",
+                "Transparency"
+            ],
+            "timestamp": 1753038084
+        },
+        {
+            "id": "ee17f4b69a4ae0e3347432424213ae9728eed677b254c8772ecf4c3a5c69df92i0",
+            "title": "DiCAMS: Dynamic Intelligent Context-Aware Memory System",
+            "author": "Patrick Hoagland",
+            "email": "sfghoagland@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Security",
+                "Interoperability",
+                "Protocol",
+                "Infrastructure",
+                "Reputation"
+            ],
+            "timestamp": 1753124484
+        },
+        {
+            "id": "3429e08f48bcdded2a8d9bba3daddcd4ead5a27370620b7cfd5538c87a06c877i0",
+            "title": "Forensic Transparency and 'The Creed': A Dual Framework for Ethical Digital Presence",
+            "author": "Aa Ho",
+            "email": "Taiconan@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Protocol",
+                "Transparency",
+                "Trust",
+                "Authentication",
+                "User Interface"
+            ],
+            "timestamp": 1753210884
+        },
+        {
+            "id": "6f7d508ef2efe6c073cda053b59f20f87f4f87e6ec88ad66208b78c3ed097196i0",
+            "title": "Sixteen Axioms for Cognitive Infrastructure",
+            "author": "Aa Ho",
+            "email": "Taiconan@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Governance",
+                "Education",
+                "Interoperability",
+                "Protocol",
+                "Infrastructure",
+                "Transparency"
+            ],
+            "timestamp": 1753297284
+        },
+        {
+            "id": "9b48b7a33978e5e9c67736a24c2c4c253a3623f1b2eb2e6f2ace04707922818ci0",
+            "title": "Name Chain\u2013Anchored Digital Artifacts with Interoperable Authentication Marks",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Security",
+                "Protocol",
+                "Trust",
+                "Authentication",
+                "Provenance"
+            ],
+            "timestamp": 1753299010
+        },
+        {
+            "id": "79ae477f9dd6faccaa08ab374df2b250420eddba0b772e146f36bd2196db24d5i0",
+            "title": "Towards Decentralized Applications: Rethinking Control Power and Data Exchange in Named-Data Networking",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Privacy",
+                "Security",
+                "Community",
+                "Interoperability",
+                "Protocol"
+            ],
+            "timestamp": 1753385410
+        },
+        {
+            "id": "c4c81c95062769d891271cc43e9bb581e9bb7832586be07ea530ed4c72409bf3i0",
+            "title": "The Engineer's Ledger and the People-Centered Paraidox",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Governance",
+                "Education",
+                "Community",
+                "Interoperability",
+                "Protocol"
+            ],
+            "timestamp": 1753471810
+        },
+        {
+            "id": "63575713cdb8d741797b6a4f808f69380babd3de9c46fd6ed916928e38720ecdi0",
+            "title": "Governance for Advanced Non-Human Agents and AI Systems",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Privacy",
+                "Security",
+                "Governance",
+                "Community",
+                "Interoperability"
+            ],
+            "timestamp": 1753558210
+        },
+        {
+            "id": "9a756d95c1d09810602a1891b8304e89ad208d69b29695cfd0c8ee0c70e6a86fi0",
+            "title": "Integrating Multi-Modal Systems into the Meta-Layer Framework",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Security",
+                "Governance",
+                "Community",
+                "Interoperability",
+                "Protocol",
+                "Infrastructure"
+            ],
+            "timestamp": 1753644610
+        },
+        {
+            "id": "6e77a5eff107ed9794c18aaea9be8810dd06865d1383b006790d3b4b9962f5d0i0",
+            "title": "Mandatory Metadata for AI-Generated Artifacts",
+            "author": "Ruben Diaz",
+            "email": "rubenraul75@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Security",
+                "Protocol",
+                "Transparency",
+                "Trust",
+                "Provenance",
+                "User Interface"
+            ],
+            "timestamp": 1753731010
+        },
+        {
+            "id": "e5f531e6e04ef5e39b46712e95fcd0ad8667e4a51f158f537db708f7957dd6f6i0",
+            "title": "AI-Augmented Data Visibility for Safer Web Experiences",
+            "author": "Wojak K",
+            "email": "wojakk3336@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Security",
+                "Education",
+                "Protocol",
+                "Transparency",
+                "Trust"
+            ],
+            "timestamp": 1753817410
+        },
+        {
+            "id": "f54488bd4602982a8e43e1c065bf6f426e1ac475da6241116672559f35995498i0",
+            "title": "Layered Transparency and Co-Presence for Metaweb Navigation",
+            "author": "Wojak K",
+            "email": "wojakk3336@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Education",
+                "Interoperability",
+                "Protocol",
+                "Infrastructure",
+                "Transparency"
+            ],
+            "timestamp": 1753903810
+        },
+        {
+            "id": "802c4a9d287ef08bbf1ca6112783ae8bc37144dac2db4305f8c7459e48825afai0",
+            "title": "IETF-Inspired Governance Framework for the Meta-Layer Initiative",
+            "author": "Brad deGraf",
+            "email": "bdegraf@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Governance",
+                "Community",
+                "Protocol",
+                "Infrastructure",
+                "Transparency",
+                "Trust"
+            ],
+            "timestamp": 1753990210
+        },
+        {
+            "id": "998635f98f7eb6cecceaec234c81803addc38626944e02af14961ded0b690d9di0",
+            "title": "The Engineer's Ledger and the People-Centered Paraidox",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Governance",
+                "Education",
+                "Community",
+                "Interoperability",
+                "Protocol"
+            ],
+            "timestamp": 1754076610
+        },
+        {
+            "id": "947bb918ead8c25815feb7f12833aba401bb7a1f0f405064e6782145397d950ai0",
+            "title": "Global Recognition of Prior Learning via Meta-Layer Credentials",
+            "author": "Sandeep Chakravartty",
+            "email": "sandeepchakravartty@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Education",
+                "Protocol",
+                "Transparency",
+                "Trust",
+                "Reputation"
+            ],
+            "timestamp": 1745358625
+        },
+        {
+            "id": "fa9a0ad7e6906063c4498bb32c7591c063d3e4e592d46260e5413e15ccb62d7di0",
+            "title": "Levelling the Digital Playing Field: A Meta-Layer for a Post-Capitalist Web",
+            "author": "Lindsay Jane",
+            "email": "lindsayjanecontent@proton.me",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Community",
+                "Protocol",
+                "Transparency",
+                "Trust",
+                "User Interface",
+                "Government"
+            ],
+            "timestamp": 1743910410
+        },
+        {
+            "id": "e9f87c6fbea86fdf85f251ad045e9ae9e25da26d83c3cfcf2a9e9558a8671376i0",
+            "title": "Chromium Reputation Provider Framework: A Decentralized Reputation Layer for the Web",
+            "author": "Rick Byers",
+            "email": "daveed@bridgit.io",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Privacy",
+                "Security",
+                "Governance",
+                "Community",
+                "Interoperability"
+            ],
+            "timestamp": 1748105026
+        },
+        {
+            "id": "3e18f0c4023c0ece354fb2162aa1b4956ee7afb64ef791d22fca69b8e5108e8ci0",
+            "title": "Rebranding the Metaweb to Overweb",
+            "author": "Eric Schneider",
+            "email": "eric@jpberlin.de",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "Community",
+                "Protocol",
+                "Infrastructure",
+                "User Interface",
+                "Overweb"
+            ],
+            "timestamp": 1747599403
+        },
+        {
+            "id": "a4a9c56780235c930d70176aa76cf2086ac7d6163f17bf8b7b0c5419cb4bbb5ai0",
+            "title": "Seeding Generational Familiarity with the Meta-Layer Through Purpose-Driven Educational Use",
+            "author": "Eric Schneider",
+            "email": "eric@jpberlin.de",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Education",
+                "Community",
+                "Interoperability",
+                "Protocol",
+                "Transparency"
+            ],
+            "timestamp": 1747235654
+        },
+        {
+            "id": "4e94619465fd52290b38c441576b29bd09bf8eaf36f27937ded9ffa7f034f2bfi0",
+            "title": "Seeding Generational Familiarity with the Meta-Layer Through Purpose-Driven Educational Use and Scandinavian Journalism Partnerships",
+            "author": "Eric Schneider",
+            "email": "eric@jpberlin.de",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Education",
+                "Community",
+                "Interoperability",
+                "Protocol",
+                "Transparency"
+            ],
+            "timestamp": 1745831857
+        },
+        {
+            "id": "6afd00d1d8e01c0e89e581e5609278519b90b893d82c160d3b98f913f5b197b4i0",
+            "title": "Family-Centered Introduction of the Meta-Layer for Safer, Co-Creative Internet Engagement",
+            "author": "Eric Schneider",
+            "email": "eric@jpberlin.de",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Education",
+                "Community",
+                "Interoperability",
+                "Protocol",
+                "Trust"
+            ],
+            "timestamp": 1745210383
+        },
+        {
+            "id": "0c991ffd62ab129891b371c697d45862a4a085a6429cd428969103f2a5afad79i0",
+            "title": "Platform Harms to LGBTQ+ Communities and the Need for Inclusive Meta-Layer Design",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Governance",
+                "Community",
+                "Interoperability",
+                "Protocol",
+                "Transparency"
+            ],
+            "timestamp": 1752640532
+        },
+        {
+            "id": "5b24eb7e80c0a1b21fc01d45b4c32f7c626dabc5621597cdf71150d9b8256c92i0",
+            "title": "Meta-Layer as Municipal Infrastructure: European Cities as Pioneering Use Case",
+            "author": "Eric Schneider",
+            "email": "eric@jpberlin.de",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Governance",
+                "Education",
+                "Community",
+                "Protocol",
+                "Infrastructure"
+            ],
+            "timestamp": 1744949391
+        },
+        {
+            "id": "2b770ad9112caee24c975705edd66349223d7df10e142d832e0be5452bbc4fd9i0",
+            "title": "Enabling Machine-Readable Meaning through the Semantic Web",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Privacy",
+                "Security",
+                "Governance",
+                "Community",
+                "Interoperability"
+            ],
+            "timestamp": 1753397620
+        },
+        {
+            "id": "a8555c16cf1d3721ddd1d5cc08a57620022ae8308113a3566f483097539d3767i0",
+            "title": "Humane Design Patterns for Ethical Tech Platforms",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Education",
+                "Interoperability",
+                "Protocol",
+                "Transparency",
+                "Trust"
+            ],
+            "timestamp": 1750569473
+        },
+        {
+            "id": "6b41208614d72e943ca2caf872cf00048dd77398240b6ecba5dc8b87dfeac333i0",
+            "title": "AI as the Ultimate Safety Layer",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Security",
+                "Protocol",
+                "Transparency",
+                "Trust",
+                "Reputation"
+            ],
+            "timestamp": 1744024024
+        },
+        {
+            "id": "c111ddae9c50c324d2e2b682f7b85acd759e51e1bfe04c2134d3556d359db043i0",
+            "title": "The Algorithmic Collapse: Reclaiming Humanity in the Age of AI Slop",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Privacy",
+                "Security",
+                "Education",
+                "Community",
+                "Interoperability",
+                "Protocol"
+            ],
+            "timestamp": 1743990714
+        },
+        {
+            "id": "e60860ff921387614fb6c7427d4319dedeadbf270919639a8864beaa8efe45e6i0",
+            "title": "MetaBridge: An AI Powered, Privacy Respecting Bridge Between Platforms for Civic Collaboration",
+            "author": "Michelle Thuo",
+            "email": "thuomichelle2020@gmail.com",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Privacy",
+                "Security",
+                "Community",
+                "Interoperability",
+                "Protocol"
+            ],
+            "timestamp": 1745062745
+        },
+        {
+            "id": "95b38324e63ada9df6e6bb0056ed51316123a998e55bc90e9263367af83e9551i0",
+            "title": "Default Decentralized Privacy VPN for the Meta-Layer",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Decentralization",
+                "Privacy",
+                "Security",
+                "Interoperability",
+                "Protocol",
+                "Infrastructure"
+            ],
+            "timestamp": 1747158936
+        },
+        {
+            "id": "e21e29ff48a9806f769ddda9742908fd635da48abdc98631103699a2f9742e91i0",
+            "title": "Substrate-Level A/B Testing Framework for Meta-Layer and Ecosystem Modules",
+            "author": "Anon",
+            "email": "noreply@themetalayer.org",
+            "medium": "email",
+            "tags": [
+                "Meta-Layer",
+                "AI",
+                "Governance",
+                "Community",
+                "Protocol",
+                "Transparency",
+                "Trust",
+                "Reputation"
+            ],
+            "timestamp": 1747394202
+        }
+    ]
+}

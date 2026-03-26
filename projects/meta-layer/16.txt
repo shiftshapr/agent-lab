@@ -1,0 +1,74 @@
+# Enhancing Whistleblower Protection within the Meta-Layer
+
+## Submitter
+
+**Daveed Benjamin**
+daveed@bridgit.io
+
+## Overview
+
+This submission draws upon established frameworks from WPAC (2015) and Security.org to propose enhancements to whistleblower systems in alignment with the Meta-Layer's Desirable Properties. It emphasizes secure, anonymized federated authentication, user-controlled data sovereignty, interoperable and simplified reporting interfaces, and system-wide transparency and security protocols. These systems are essential to protect whistleblowers from retaliation and to ensure credibility, participation, and systemic accountability. This submission was generated with protocol META-DP-EVAL-v1.3.
+
+## Directly Addressed DPs
+
+### DP1 - Federated Authentication & Accountability
+
+Supports secure, anonymous access through decentralized ID while maintaining accountability.
+
+### DP4 - Data Sovereignty and Privacy
+
+Proposes whistleblower-controlled data and encrypted, decentralized storage.
+
+### DP7 - Simplicity and Interoperability
+
+Recommends standardized open protocols for reporting and data handling.
+
+### DP14 - Trust and Transparency
+
+Calls for transparent case updates and anonymized reporting to build trust.
+
+### DP15 - Security and Provenance
+
+Proposes blockchain-based timestamping and digital signatures to secure reports.
+
+## Clarifications and Extensions
+
+### DP1 - Federated Authentication & Accountability — Clarification
+
+**Enhancing Whistleblower Protections**
+
+Implementing federated authentication can authenticate users without revealing identities using decentralized identity solutions.
+
+*Why it matters:* Balancing accountability with anonymity encourages whistleblowing while deterring fraud.
+
+### DP4 - Data Sovereignty and Privacy — Extension
+
+**Empowering Whistleblowers through Data Control**
+
+Platforms should allow whistleblowers to manage, delete, or anonymize data, with end-to-end encryption and decentralized storage.
+
+*Why it matters:* Data sovereignty increases trust and compliance, encouraging more disclosures.
+
+### DP7 - Simplicity and Interoperability — Clarification
+
+**Streamlining Reporting Mechanisms**
+
+Standardized interfaces simplify whistleblower submissions across systems.
+
+*Why it matters:* Ease of use reduces barriers to participation and improves processing efficiency.
+
+### DP14 - Trust and Transparency — Extension
+
+**Building Confidence in Whistleblower Systems**
+
+Provide submission updates and publish anonymized outcome data to show system effectiveness.
+
+*Why it matters:* Visible accountability reassures users that reports lead to meaningful action.
+
+### DP15 - Security and Provenance — Clarification
+
+**Ensuring Integrity of Whistleblower Reports**
+
+Use digital signatures and blockchain-based timestamping to verify authenticity.
+
+*Why it matters:* Securing report integrity is essential for legal and investigative follow-up.

@@ -1,0 +1,242 @@
+﻿{   
+    "p": "brc333",
+    "op": "activate",
+    "project": "Desirable Properties of a Meta-Layer",
+    "articles": [
+        {
+            "id": "41b5ea02ed344cacfe828595491ca224f2e487052447b7d004c62ab323a1b6c4i0",
+            "title": "Help Shape the Future of the Web",
+            "author": "Bridgit",
+            "tags": [ "Meta-Layer", "Digital Transformation", "Overweb", "Smart Tags", "Overlay Applications", "Data Sovereignty", "Collaboration"],
+            "replaceThis": "Learn how at <i>https://bridgit.io/meta-layer/contribute.</i>",
+            "replaceWith": "Learn <i><a href=\"/content/INSCRIPTIONID\">how to contribute</a></i>.",
+            "timestamp": 1731128220
+        },
+        {
+            "id": "4778e24738b24435d18a59ef7e372d727268a666bbdf3edb2001316aa738b2f5i0",
+            "title": "Introduction to the Metaweb book",
+            "author": "Bridgit",
+            "source": "The Metaweb: The Next Level the Internet",
+            "tags": ["Metaweb", "Overlay Applications", "Smart Tags", "Data Sovereignty", "AI Safety", "Privacy", "Vint Cerf"]
+        },
+        {
+            "id": "506480ff2a0ea8fb537d3e8a4bb298892c5e79ff3a1dedb49aa85d260151d52ai0",
+            "subject": "Meta-Layer Initiative Meeting on Sept 16 with special guest Vint Cerf",
+            "title": "Meta-Layer Initiative Meeting with Vint Cerf",
+            "author": "Daveed Benjamin",
+            "medium": "email",
+            "source": "PCI-Community-Calls (PCI-C)",
+            "tags": ["Meta-Layer", "Overlay Applications", "Smart Tags", "Data Sovereignty", "AI Safety", "Privacy", "Vint Cerf"],
+            "timestamp": 1725922580
+        },
+        {
+            "id": "40ed20f0f7fb29118db4573c859a034dac5262eed595a91d0fbb2eb97a61e31ei0",
+            "subject": "Re: [i4j Forum] Re: [PCI-C] natural monopolies and internet Google.",
+            "title": "Anticipating PCEs and Meta-Layer Alignment",
+            "reply-to": "",
+            "author": "Cindy Mason",
+            "medium": "email",
+            "source": "PCI-Community-Calls (PCI-C)",
+            "tags": [ "", "", ""],
+            "timestamp": 1725926865
+        },
+        {
+            "id": "977928768d12b50b7499b18cf4b8f62be21dccea47df1c6b6e74a357bde6ec46i0",
+            "subject": "Re: [i4j Forum] Re: [PCI-C] natural monopolies and internet Google.",
+            "reply": "40ed20f0f7fb29118db4573c859a034dac5262eed595a91d0fbb2eb97a61e31ei0",
+            "title": "Meta-Layer Initiative for Decentralized and Transparent Web",
+            "author": "Daveed Benjamin",
+            "timestamp": 1726100630
+        },
+        {
+            "id": "6b4dd9afb7932c40c894094542050066e77e1ee4140a740608d4c92922493bc6i0",
+            "subject": "Re: [i4j Forum] Re: [PCI-C] natural monopolies and internet Google.",
+            "title": "Metalevel Initiative: Challenges and Opportunities",
+            "author": "Paul Werbos",
+            "timestamp": 1726101306
+        },
+        {
+            "id": "29f4bf588375190ac861a1845c545dd7cf835b823d809a494dec90c404457954i0",
+            "subject": "Re: [i4j Forum] Re: [PCI-C] natural monopolies and internet Google.",
+            "title": "AI-Enhanced Collective Intelligence for Global Challenges",
+            "author": "David Bray, PhD",
+            "timestamp": 1726140281
+        },
+        {
+            "id": "7db0083a405c8de4f577d1812715d8c1000fd3300af778483e43ba03a90ca6b6i0",
+            "subject": "Re: [i4j Forum] Re: [PCI-C] natural monopolies and internet Google.",
+            "reply": "6b4dd9afb7932c40c894094542050066e77e1ee4140a740608d4c92922493bc6i0",
+            "title": "The Overweb: Building a Decentralized Meta-Layer",
+            "author": "Daveed Benjamin",
+            "timestamp": 1726169025
+        },
+        {
+            "id": "958a79d80874a73c67b19782e31570f95b4be63a0287778ad38dd77a1a337df2i0",
+            "subject": "Re: [i4j Forum] Re: [PCI-C] natural monopolies and internet Google.",
+            "reply": "29f4bf588375190ac861a1845c545dd7cf835b823d809a494dec90c404457954i0",
+            "title": "Augmented Conversations and AI-Assisted Collaboration in the Overweb",
+            "author": "Daveed Benjamin",
+            "timestamp": 1726173591
+        },
+        {
+            "id": "d55f9a5c0d1a319840b27a4bbfa791638a9ac1456c359f0a0a55bfcf211de90ei0",
+            "subject": "Re: [i4j Forum] Re: [PCI-C] natural monopolies and internet Google.",
+            "reply": "7db0083a405c8de4f577d1812715d8c1000fd3300af778483e43ba03a90ca6b6i0",
+            "title": "Defining Goals for Effective Collective Intelligence",
+            "author": "David Bray, PhD",
+            "timestamp": 1726175043
+        },
+        {
+            "id": "94f1f8721c3ba0433d906b27b93769d7e35de01b1befef126552aec7434e942bi0",
+            "subject": "Re: [i4j Forum] Re: [PCI-C] natural monopolies and internet Google.",
+            "reply": "d55f9a5c0d1a319840b27a4bbfa791638a9ac1456c359f0a0a55bfcf211de90ei0",
+            "title": "Innovation Studios: Designing for Collective Intelligence in the Overweb",
+            "author": "Daveed Benjamin",
+            "timestamp": 1726183092
+        },
+        {
+            "id": "205989194f8adac5f123ab97668ae9a43a4805e8df7d38ae6936f57efa11d43ci0",
+            "subject": "Re: [i4j Forum] Re: [PCI-C] natural monopolies and internet Google.",
+            "reply": "94f1f8721c3ba0433d906b27b93769d7e35de01b1befef126552aec7434e942bi0",
+            "title": "Future of Interaction: Moving Beyond Webpages",
+            "author": "David Bray, PhD",
+            "timestamp": 1726183985
+        },
+        {
+            "id": "01edf3bd00e45332d94cdb0c525b977b803028609d9bcb95b7064ee79f308b74i0",
+            "subject": "Re: [i4j Forum] Re: [PCI-C] natural monopolies and internet Google.",
+            "reply": "94f1f8721c3ba0433d906b27b93769d7e35de01b1befef126552aec7434e942bi0",
+            "title": "Acknowledging Contributions in Collaborative Spaces",
+            "author": "Cindy Mason",
+            "timestamp": 1726187204
+        },
+        {
+            "id": "9157f643d37d1e9763159212f83b1680760e61d5a9a9efcf579381e4d08d5d90i0",
+            "subject": "Re: [i4j Forum] Re: [PCI-C] natural monopolies and internet Google.",
+            "reply": "94f1f8721c3ba0433d906b27b93769d7e35de01b1befef126552aec7434e942bi0",
+            "title": "Collective Intelligence and Brain Synchronization",
+            "author": "Paul Werbos",
+            "timestamp": 1726192112
+        },
+        {
+            "id": "3d7bc5d5e4c9dedc8e27d5bde7792266af194eeb99013edeec1ef0be0f0ec879i0",
+            "subject": "Re: [i4j Forum] Re: [PCI-C] natural monopolies and internet Google.",
+            "title": "Cross-Cultural and Multilingual AI Tools",
+            "author": "David Michaelis",
+            "timestamp": 1726194738
+        },
+        {
+            "id": "d2436db6144b1fa5974285f1972fd196d27954b07033743f95db9c08a8ea0e77i0",
+            "subject": "Re: [i4j Forum] Re: [PCI-C] natural monopolies and internet Google.",
+            "title": "Digital Cognitive Pathways and Metaweb Evolution",
+            "author": "Daveed Benjamin",
+            "timestamp": 1726240989
+        },
+        {
+            "id": "b36e9ebc12029aae158c9ada879003ded7f455d62fe33887082aad8d97427198i0",
+            "subject": "Re: [i4j Forum] Re: [PCI-C] natural monopolies and internet Google.",
+            "reply": "01edf3bd00e45332d94cdb0c525b977b803028609d9bcb95b7064ee79f308b74i0",
+            "title": "Recognizing and Rewarding Contributions in the Metaweb",
+            "author": "Daveed Benjamin",
+            "timestamp": 1726241993
+        },
+        {
+            "id": "5a01482ab569384d0cd136b07918a959f302e344ce73e42c85d79dbe48e5b13ai0",
+            "title": "The Desirable Properties of a Meta-Layer",
+            "author": "Bridgit",
+            "timestamp": 
+        },
+        {
+            "id": "9182f057a1b48857989ccb7eb4997bdf4c63af44c2ffdfc6b3421726bf58d6a8i0",
+            "title": "The Primary Use Cases of a Meta-Layer",
+            "author": "Bridgit",
+            "timestamp": 
+        },
+        {
+            "id": "bd1b3b51d59b293cb9812f8774fd6eaf982d0612005b3cad5f6866f21cad4fa9i0",
+            "reply": "",
+            "title": "Call for Ideas: Help Shape the Future of the Web",
+            "tags": [ "Meta-Layer", "Decentralization", "Satplications", "Digital Transformation", "Ordinals", "Web3" ],
+            "author": "Daveed Benjamin",
+            "timestamp": 1728089410
+        },
+        {
+            "id": "0d1c4cde15bb242f7a40aa35d70c22ecc3674b0292c9ca383c0810a9c5c251b9i0",
+            "title": "AI and Humanity's Deepest Problems: Love and Compassion",
+            "author": "Cindy Mason",
+            "timestamp": 1728833222
+        },
+        {
+            "id": "6f6cdef64abafe3189619dd70d375415cea89d401c6b794aed2ca31fbf1413dbi0",
+            "title": "Navigating Existential Threats with AGI and Meta-Frameworks",
+            "author": "Paul Werbos",
+            "timestamp": 1729261598
+        },
+        {
+            "id": "0bbbc6353606a289626a63622bed44a7e0db5c03ac74e8a2517d07ff03741053i0",
+            "title": "Human-Centered AI: A Critical Perspective",
+            "author": "Cindy Mason",
+            "timestamp": 1729847316
+        },
+        {
+            "id": "97f70fcc11adaef1d6ebeb4b68d7724f4bfaf64141083d2b896fdc7d9934dfe8i0",
+            "title": "Legal Liabilities in the Meta-Layer",
+            "author": "Brian Donohue",
+            "timestamp": 1730120695
+        },
+        {
+            "id": "51dc7f7968e2990ee787d45a9dbf8e214b5aeb45953b3a84da3ef4d349f9f30ei0",
+            "title": "Ensuring Balance and Preventing Weaponization of Principles",
+            "author": "David Bray",
+            "timestamp": 1730160333
+        },
+        {
+            "id": "b21a18d510d75a38f9229732f58cc0a15baa9e9046d4fd47b71282365d450c9ai0",   
+            "title": "Preserving Real History and Strengthening Cybersecurity",
+            "author": "Paul Werbos",
+            "timestamp": 1730224865
+        },
+        {
+            "id": "69051ea36631092d6e726fa9dcb41acf84e9deb557960a010bbe628f37ffd35di0",
+            "title": "Critique of Decentralization and Bitcoin in Meta-Layer Principles",
+            "author": "Dave Troy",
+            "timestamp": 1730236681
+        },
+        {
+            "id": "a145b6c41574bdbedccce2c740a25e09656445bfd6a9924e1b8d55980271caebi0",
+            "title": "Incorporating Security and Privacy in the Meta-Layer",
+            "author": "Vandana Upadhyay",
+            "timestamp": 1730247514
+        },
+        {
+            "id": "eefa98bf93d8d4313f83ff3e22cbf61989229caf6915c4e3d4ac4afecad94b28i0",
+            "title": "Customizable Software Agents for Security and Privacy",
+            "author": "Cindy Mason",
+            "timestamp": 1730253117
+        },
+        {
+            "id": "71561a0deaa717e581f063bebc6fefb35773bfeca26a6dadb900ee87ee63bfeai0",
+            "title": "Preserving Open Letters with Bitcoin Ordinals",
+            "author": "Daveed Benjamin",
+            "timestamp": 1730257741        
+        },
+        {
+            "id": "2642be9222683a9c6457fb85a0a24a951449332f982e5057a6062554a24e9928i0",
+            "title": "Visualizing Customizable Software Agents as Guardrails",
+            "author": "Cindy Mason",
+            "timestamp": 1730263243
+        },
+        {
+            "id": "6bf626d256cf3917841e4ee6bc50e870c8143786bbbcbd85a204161228ef6bdci0",
+            "title": "Security and Privacy as Pillars of the Meta-Layer",
+            "author": "Daveed Benjamin",
+            "timestamp": 1730307962
+        },
+        {
+            "id": "da222e60b194f116ee33241791da522971764e7e0f4f993887ff1b44a93a814di0",
+            "title": "Juxtaposing Perspectives: A Shadow Document Approach",
+            "author": "Quincey El (Presbyter)",
+            "timestamp": 1730767202
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+# Minimum Protocol for Responsible Interaction Between Autonomous Agents
+
+## Submitter
+
+**Ruben Diaz**
+rubenraul75@gmail.com
+
+## Overview
+
+With the rapid expansion of autonomous agents—both personal and corporate—there is an urgent need for a minimal protocol that enables these agents to interact visibly, responsibly, and semantically coherently with websites, interfaces, and each other. This submission proposes structural Meta-layer support for these interactions via observable traces, standard formats, and distributed authentication mechanisms. This submission was generated with protocol META-DP-EVAL-v1.3.
+
+## Directly Addressed DPs
+
+### DP1 - Federated Authentication & Accountability
+
+Proposes differentiating human vs. autonomous agents with traceability while preserving privacy.
+
+### DP2 - Participant Agency and Empowerment
+
+Proposes delegated agency controls, allowing users to oversee their representative agents.
+
+### DP7 - Simplicity and Interoperability
+
+Proposes minimum specifications for interoperable interfaces across sites and agents.
+
+### DP11 - Safe and Ethical AI
+
+Suggests enabling communities to define ethical and contextual rules for agent behavior.
+
+### DP13 - AI Containment
+
+Proposes local limits on agent activity in web/community spaces without disconnecting them globally.
+
+## Clarifications and Extensions
+
+### DP1 - Federated Authentication & Accountability — Extension
+
+**Identity Differentiation for Autonomous Agents**
+
+Include mechanisms to distinguish between human users and autonomous agents while maintaining traceability and privacy.
+
+*Why it matters:* Supports responsible interaction by clarifying agent identity without exposing private user data.
+
+### DP2 - Participant Agency and Empowerment — Extension
+
+**Delegated Agency with User Controls**
+
+The Meta-layer should enable users to delegate authority to autonomous agents, with explicit control over their actions.
+
+*Why it matters:* Allows meaningful automation while preserving user intent and oversight.
+
+### DP7 - Simplicity and Interoperability — Extension
+
+**Minimum Interoperability Specifications**
+
+Develop a basic specification set so any site or agent can implement a standard interaction layer over the Meta-layer.
+
+*Why it matters:* Enables decentralized ecosystems without fragmentation, encouraging adoption and modularity.
+
+### DP11 - Safe and Ethical AI — Clarification
+
+**Community-Defined Ethical Boundaries**
+
+Allow communities to define local ethical constraints or contextual rules that agents must follow.
+
+*Why it matters:* Ensures agent behavior aligns with community-specific values and boundaries.
+
+### DP13 - AI Containment — Extension
+
+**Local Containment Without Global Disconnection**
+
+Let websites and communities impose local limits on agent behavior without severing their global network access.
+
+*Why it matters:* Supports autonomy and interoperability while preserving community safety and boundaries.

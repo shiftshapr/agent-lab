@@ -1,0 +1,46 @@
+# A Trusted Annotation Layer for Shakespeare's Plays
+
+## Submitter
+
+**Michael Witmore**
+michaelwitmore@gmail.com
+
+## Overview
+
+This submission proposes a web-based annotation layer focused initially on the works of William Shakespeare. For centuries, scholars and readers have annotated Shakespeare’s plays with footnotes and glosses. Yet, most online editions—including high-traffic projects like Open Source Shakespeare—lack accessible footnotes. This effort would establish a collaborative, trusted, and extensible annotation system allowing footnotes and glosses to be layered directly onto public web texts. With a focus on educational value, transparency, and collaborative authorship, this system would begin with Shakespeare but extend to other canonical and public domain texts. This submission was generated with protocol META-DP-EVAL-v1.3.
+
+## Directly Addressed DPs
+
+### DP8 - Collaborative Environment and Meta-Communities
+
+Enables distributed annotation and scholarly collaboration through a structured, community-based interface.
+
+### DP10 - Education
+
+Creates an open educational resource that enhances learning, literacy, and contextual understanding of classical texts.
+
+### DP14 - Trust and Transparency
+
+Implements clearly sourced, peer-reviewed annotations and visible version history to ensure reliability.
+
+### DP19 - Amplifying Presence and Community Engagement
+
+Invites wide participation from educators, students, and literature enthusiasts, fostering cultural engagement and co-creation.
+
+## Clarifications and Extensions
+
+### DP14 - Trust and Transparency — Clarification
+
+**Peer Review and Version Tracking in Annotation Layers**
+
+The annotation system includes mechanisms for peer review and visible version histories, ensuring transparency in scholarly collaboration.
+
+*Why it matters:* Scholarly annotations must be both credible and open to scrutiny; version tracking fosters trust in collaborative contributions.
+
+### DP8 - Collaborative Environment and Meta-Communities — Clarification
+
+**Structured Collaboration Across Domains**
+
+The platform allows contributors to collaboratively annotate texts in a modular, structured format that supports future extension to other texts and contexts.
+
+*Why it matters:* This structured collaborative interface lowers barriers to entry and encourages sustained contribution from diverse communities.

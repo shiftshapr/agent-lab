@@ -1,0 +1,74 @@
+# Save As to Web3: A UX Gateway to Decentralized Storage
+
+## Submitter
+
+**Stephanie Hervey**
+webbie@theartisanhub.org
+
+## Overview
+
+This proposal upgrades the familiar 'save as...' functionality into a Web3-native interaction—allowing users to save files directly to decentralized cloud storage such as IPFS. By embedding decentralized storage options into user interfaces, this approach enables user agency and sovereignty without requiring technical knowledge. This submission was generated with protocol META-DP-EVAL-v1.3.
+
+## Directly Addressed DPs
+
+### DP2 - Participant Agency and Empowerment
+
+Empowers users to choose decentralized storage locations like IPFS as a form of digital self-determination.
+
+### DP4 - Data Sovereignty and Privacy
+
+Promotes sovereign, user-controlled data storage through integration with decentralized protocols.
+
+### DP7 - Simplicity and Interoperability
+
+Proposes a standard UI layer for decentralized storage, simplifying access and broadening usability.
+
+### DP8 - Collaborative Environment and Meta-Communities
+
+Suggests that shared decentralized storage could serve as infrastructure for collaborative meta-community workspaces.
+
+### DP15 - Security and Provenance
+
+Emphasizes the value of content-addressable storage (e.g., IPFS) in ensuring provenance and verifiability.
+
+## Clarifications and Extensions
+
+### DP2 - Participant Agency and Empowerment — Extension
+
+**User-Directed Decentralized Storage**
+
+Explicitly support user-directed storage destinations (e.g., IPFS) within the Meta-layer stack.
+
+*Why it matters:* Empowers individuals with tangible choices over data control and fosters engagement with decentralized tools.
+
+### DP4 - Data Sovereignty and Privacy — Extension
+
+**Default to Sovereign Storage**
+
+Recommend decentralized storage as the default for any personally generated data.
+
+*Why it matters:* Minimizes exposure to centralized data mining and enforces sovereignty by default.
+
+### DP7 - Simplicity and Interoperability — Extension
+
+**UI Standards for Save-to-Decentralized-Storage**
+
+Create a common UX pattern, such as a browser-native 'Save to IPFS' option.
+
+*Why it matters:* Familiar interactions help users adopt advanced infrastructure with minimal friction.
+
+### DP8 - Collaborative Environment and Meta-Communities — Extension
+
+**Shared Decentralized Storage for Meta-Communities**
+
+Enable shared use of decentralized storage for collaborative editing and distributed knowledge bases.
+
+*Why it matters:* Supports cross-group cooperation while preserving data control and modularity.
+
+### DP15 - Security and Provenance — Extension
+
+**Content-Addressable Provenance**
+
+Emphasize IPFS and similar protocols for their built-in tamper resistance and data verification.
+
+*Why it matters:* Guarantees the authenticity and traceability of shared content across platforms.

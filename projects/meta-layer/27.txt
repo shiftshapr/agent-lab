@@ -1,0 +1,46 @@
+# AI-Augmented Data Visibility for Safer Web Experiences
+
+## Submitter
+
+**Wojak K**
+wojakk3336@gmail.com
+
+## Overview
+
+This submission proposes an AI-augmented tool (e.g., a browser extension or embedded prototype) that transparently reveals what data is being collected and tracked during web interactions. It aims to equip users with actionable insight into data flows and help mitigate exploitative ad-based surveillance. This submission was generated with protocol META-DP-EVAL-v1.3.
+
+## Directly Addressed DPs
+
+### DP2 - Participant Agency and Empowerment
+
+Empowers users to understand and control how their data is collected and shared.
+
+### DP4 - Data Sovereignty and Privacy
+
+Enables visibility into third-party trackers and data collectors, promoting stronger user data control.
+
+### DP14 - Trust and Transparency
+
+Introduces transparent, real-time visualizations of data tracking behavior to rebuild trust in web interactions.
+
+### DP15 - Security and Provenance
+
+Supports efforts to prevent data misuse by surfacing insecure or opaque data flows.
+
+## Clarifications and Extensions
+
+### DP4 – Data Sovereignty and Privacy — Clarification
+
+**Visual Data Awareness Tools**
+
+This submission suggests that tools helping users visualize which data is being harvested—especially through ads or embedded trackers—should be considered a core part of data sovereignty.
+
+*Why it matters:* When users are unaware of ongoing surveillance, sovereignty is functionally absent. Making data tracking legible is a first step toward reclaiming control.
+
+### DP14 – Trust and Transparency — Extension
+
+**Real-Time Adversarial Tracking Indicators**
+
+Integrating AI-driven detection of manipulative or excessive tracking behavior with real-time alerts and summaries can extend the Meta-layer's trust framework.
+
+*Why it matters:* This creates a responsive and educational layer that cultivates informed digital behavior while countering abusive practices.

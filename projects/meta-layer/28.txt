@@ -1,0 +1,62 @@
+# Layered Transparency and Co-Presence for Metaweb Navigation
+
+## Submitter
+
+**Wojak K**
+wojakk3336@gmail.com
+
+## Overview
+
+This submission addresses five major problems on the web—false information, cognitive isolation, data exploitation, siloed knowledge, and value signal absence—by proposing overlay-based tools to augment transparency, collaboration, and data agency. These include 'fact-tag' systems, presence-aware overlays, data tracking awareness extensions, public notebooks, and trust-score visualizations. This submission was generated with protocol META-DP-EVAL-v1.3.
+
+## Directly Addressed DPs
+
+### DP4 - Data Sovereignty and Privacy
+
+Supports opt-in, user-controlled data sharing models to counter data exploitation by ad networks.
+
+### DP7 - Simplicity and Interoperability
+
+Proposes overlays and extensions that function across existing web infrastructure without requiring major adoption shifts.
+
+### DP8 - Collaborative Environment and Meta-Communities
+
+Encourages presence-aware interactions and co-curation within shared web experiences.
+
+### DP10 - Education
+
+Enables contextual annotation and fact-tagging, allowing peer-to-peer learning and source critique.
+
+### DP14 - Trust and Transparency
+
+Visualizes value signals like endorsements and trust scores, improving discernment and trustworthiness in content.
+
+### DP18 - Feedback Loops and Reputation
+
+Proposes tools that allow user participation in tagging and voting, generating live reputational feedback on content.
+
+## Clarifications and Extensions
+
+### DP4 - Data Sovereignty and Privacy — Clarification
+
+**Interactive Data Awareness Overlays**
+
+Proposes a tool that identifies what data is being extracted from a page, and empowers users to selectively share their data in return for transparent benefits.
+
+*Why it matters:* This enhances data agency and transparency by making personal data flows legible and consensual.
+
+### DP8 - Collaborative Environment and Meta-Communities — Clarification
+
+**Presence-Aware Layered Collaboration**
+
+Envisions live overlays that show who is co-reading or co-curating content, with space for annotation, conversation, and perspective mapping.
+
+*Why it matters:* Fosters emergent communities through ambient presence and co-exploration, which are core to the Meta-layer's collaborative ethos.
+
+### DP14 - Trust and Transparency — Clarification
+
+**Alignment Visualizations and Trust Indicators**
+
+Introduces 'alignment meters' and source linkage overlays to show content credibility, social endorsement, and debate contexts.
+
+*Why it matters:* Builds a more trustable web environment by visually surfacing the epistemic and social position of digital artifacts.

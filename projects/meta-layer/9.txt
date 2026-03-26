@@ -1,0 +1,132 @@
+# Navigator User Interfaces (NUI) as a Coordination Layer for a Post-Search, Post-Feed Web
+
+## Submitter
+
+**Chris Santos-Lang**
+langchri@gmail.com
+
+## Overview
+
+This submission introduces Navigator User Interfaces (NUIs) as a new standard for customizable, shareable navigation tools across web-based tasks, educational flows, and collaborative work. NUIs propose a federated ecosystem of navigation frameworks allowing pluralistic learning, interaction, and AI-guided exploration, grounded in a shared regular panel. This enables remixable workflows while supporting agency, privacy, transparency, and ethical alignment. This submission was generated with protocol META-DP-EVAL-v1.3.
+
+## Directly Addressed DPs
+
+### DP1 - Federated Authentication & Accountability
+
+Standard hooks for federated trust, attribution, and user-linked navigation components.
+
+### DP2 - Participant Agency and Empowerment
+
+User-created paths and tools empower navigational authorship and customization.
+
+### DP4 - Data Sovereignty and Privacy
+
+Privacy protections and user-controlled sharing in collaborative navigation flows.
+
+### DP5 - Decentralized Namespace
+
+Decentralized IDs and tags for posts, paths, and navigation objects.
+
+### DP7 - Simplicity and Interoperability
+
+Cross-platform plug-in model for browser or overlay-based NUI modules.
+
+### DP8 - Collaborative Environment and Meta-Communities
+
+Remixable meta-environment for shared pedagogy, research, and workflow design.
+
+### DP10 - Education
+
+Structured learning flows, feedback loops, and teaching tools embedded in NUI design.
+
+### DP11 - Safe and Ethical AI
+
+AI agents within NUI paths are visible, reviewable, and governed through feedback.
+
+### DP12 - Community-based AI Governance
+
+Formalized participatory control over AI agent behavior in shared workflows.
+
+### DP14 - Trust and Transparency
+
+Versioning, edit history, and transparent navigator behaviors build trust.
+
+### DP18 - Feedback Loops and Reputation
+
+Path usage and adoption informs reputation of components and contributors.
+
+### DP20 - Community Ownership
+
+NUIs act as community-authored infrastructure supporting participatory design.
+
+## Clarifications and Extensions
+
+### DP1 – Federated Authentication & Accountability — Change
+
+**Navigator Preference and Trust Hook Integration**
+
+*Why it matters:* Enables personalized yet portable experiences across community tools and teams.
+
+### DP2 – Participant Agency and Empowerment — Extension
+
+**Path Authorship and Remixing as User Empowerment**
+
+Users should be able to author and fork navigational flows with fine-grained control.
+
+*Why it matters:* Gives agency over how tools are used, shared, and adapted.
+
+### DP4 – Data Sovereignty and Privacy — Clarification
+
+**Private and Granular Visibility of Navigational Artifacts**
+
+Clarify mechanisms for selectively sharing, subscribing, or encrypting shared paths and posts.
+
+*Why it matters:* Protects user context while enabling collaborative utility.
+
+### DP5 – Decentralized Namespace — Extension
+
+**Interoperable Navigation Identifiers**
+
+Define a decentralized naming system for posts, paths, and navigator components.
+
+*Why it matters:* Enables search, recomposition, and reuse without central indexing.
+
+### DP7 – Simplicity and Interoperability — Extension
+
+**Pluggable Navigator Layers**
+
+Support light-touch modular implementation that overlays on existing apps.
+
+*Why it matters:* Avoids heavy platform coupling, encourages adoption.
+
+### DP10 – Education — Extension
+
+**Live Learning Flows and Adaptive Guidance**
+
+Support NUI-based pedagogy through real-time feedback, question paths, and comprehension scaffolds.
+
+*Why it matters:* Supports asynchronous and distributed learning communities.
+
+### DP14 – Trust and Transparency — Extension
+
+**Versioning and Edit Trails in Navigational Layers**
+
+Track and display modifications to shared paths and flows.
+
+*Why it matters:* Supports epistemic integrity and collaborative governance.
+
+### DP18 – Feedback Loops and Reputation — Extension
+
+**Usage-informed Curation Metrics**
+
+Log and surface usage metrics for navigators to inform remix and signal trust.
+
+*Why it matters:* Allows bottom-up reputation and preference emergence.
+
+### DP20 – Community Ownership — Extension
+
+**Community-maintained Navigational Infrastructure**
+
+Design NUIs as co-owned scaffolding tools that grow with community needs.
+
+*Why it matters:* Shifts UI control from platforms to people.
