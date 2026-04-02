@@ -4,14 +4,15 @@ Diagnose MCP connectivity — test each configured server individually.
 
 Usage:
   cd /path/to/agent-lab
-  source .env  # or use run-deerflow-with-env
   python scripts/diagnose-mcp.py
+
+Runs via uv from DeerFlow backend (same as run-deerflow-task).
 """
 
 from __future__ import annotations
 
-import asyncio
 import os
+import subprocess
 import sys
 from pathlib import Path
 
@@ -34,57 +35,82 @@ def load_env() -> None:
         print(f"[diagnose] No .env at {env_path}")
 
 
-async def main() -> None:
+def check_zoho_urls() -> None:
+    """Quick reachability check for Zoho MCP URLs."""
+    for key in ("ZOHO_VIEW_MCP_URL", "ZOHO_PUBLISH_MCP_URL"):
+        url = os.environ.get(key, "")
+        if not url or not url.startswith("http"):
+            print(f"[diagnose] {key}: not set or invalid")
+            continue
+        try:
+            import urllib.request
+            req = urllib.request.Request(url, method="POST")
+            req.add_header("Content-Type", "application/json")
+            with urllib.request.urlopen(req, data=b"{}", timeout=10) as r:
+                print(f"[diagnose] {key}: reachable ({r.status})")
+        except Exception as e:
+            print(f"[diagnose] {key}: NOT reachable — {e}")
+    print()
+
+
+def main() -> None:
     load_env()
-    # Must run from backend with uv for deerflow package
-    os.chdir(BACKEND_DIR)
-    if str(BACKEND_DIR) not in sys.path:
-        sys.path.insert(0, str(BACKEND_DIR))
-    os.environ.setdefault("DEER_FLOW_CONFIG_PATH", str(DEER_FLOW_DIR / "config.yaml"))
-    os.environ.setdefault("DEER_FLOW_EXTENSIONS_CONFIG_PATH", str(DEER_FLOW_DIR / "extensions_config.json"))
+    print("[diagnose] Checking Zoho URL reachability...")
+    check_zoho_urls()
+    env = {**os.environ}
+    env.setdefault("DEER_FLOW_CONFIG_PATH", str(DEER_FLOW_DIR / "config.yaml"))
+    env.setdefault("DEER_FLOW_EXTENSIONS_CONFIG_PATH", str(DEER_FLOW_DIR / "extensions_config.json"))
 
-    from deerflow.config.extensions_config import ExtensionsConfig
-    from deerflow.mcp.client import build_servers_config
+    script = """
+import asyncio
+import os
+from deerflow.config.extensions_config import ExtensionsConfig
+from deerflow.mcp.client import build_servers_config
 
+async def run():
     config = ExtensionsConfig.from_file()
     servers = build_servers_config(config)
     if not servers:
         print("No enabled MCP servers configured.")
         return
-
-    print(f"\nTesting {len(servers)} MCP server(s)...\n")
-
+    print(f"\\nTesting {len(servers)} MCP server(s)...\\n")
     try:
         from langchain_mcp_adapters.client import MultiServerMCPClient
     except ImportError:
         print("langchain-mcp-adapters not installed")
         return
-
     for name, params in servers.items():
         transport = params.get("transport", "?")
         url = params.get("url", "")
         has_url = bool(url and url.strip())
         env = params.get("env") or {}
-
-        # Pre-check
         if transport in ("http", "sse", "streamable_http") and not has_url:
             print(f"  {name}: SKIP (no URL — env var unresolved?)")
             continue
-        if "slack" in name.lower():
-            token = env.get("SLACK_BOT_TOKEN", "")
-            if not token:
-                print(f"  {name}: SKIP (SLACK_BOT_TOKEN empty)")
-                continue
-
+        if "slack" in name.lower() and not env.get("SLACK_BOT_TOKEN"):
+            print(f"  {name}: SKIP (SLACK_BOT_TOKEN empty)")
+            continue
         try:
             client = MultiServerMCPClient({name: params}, tool_name_prefix=True)
             tools = await client.get_tools()
             print(f"  {name}: OK — {len(tools)} tool(s)")
         except Exception as e:
+            cause = getattr(e, "__cause__", None) or e
             print(f"  {name}: FAIL — {e}")
-
+            if cause != e:
+                print(f"    cause: {cause}")
     print()
+
+asyncio.run(run())
+"""
+    result = subprocess.run(
+        ["uv", "run", "python", "-c", script],
+        cwd=str(BACKEND_DIR),
+        env=env,
+        timeout=60,
+    )
+    sys.exit(result.returncode)
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()

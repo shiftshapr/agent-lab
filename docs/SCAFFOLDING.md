@@ -82,11 +82,34 @@ crontab -e
 - **DeerFlow config**: `framework/deer-flow/config.yaml` and `extensions_config.json` must exist.
 - **MCP connectivity**: Zoho and Slack MCP servers must be reachable. If MCP fails to load, the task runner may exit with an error.
 
-## Next Steps (not yet implemented)
+### DeerFlow Skills (chat-triggered)
 
-1. **Hermes integration**: Wire Hermes to call daily-prep protocol or DeerFlowClient for unified brief.
-2. **Proposed responses**: Approve/edit/deny flow for agent-drafted replies.
-3. **Publish Agent**: Wire to Zoho Publish MCP; user-initiated execution only.
-4. **Risk Reviewer**: LLM-based review before publish.
-5. **Delivery**: Telegram/Slack DM delivery of briefs (Hermes gateway).
-6. **Discord**: Add Discord monitoring if MCP available.
+| Skill | Trigger | Purpose |
+|-------|---------|---------|
+| `daily-prep` | "What's on my calendar?", "Morning brief" | Calendar + email brief via Zoho View |
+| `email-opportunity` | "Search emails for opportunities" | Find grants, partnerships, items needing response |
+| `slack-digest` | "Slack digest", "Unread Slack" | Summarize Slack across workspaces |
+
+Skills live in `framework/deer-flow/skills/public/`. The agent loads them when you ask in chat.
+
+---
+
+## Delivery
+
+See `docs/DELIVERY_SETUP.md`. Add TELEGRAM_* or SLACK_DELIVERY_* to .env, set SEND_BRIEF=1, and cron-daily-prep will send the brief after generating.
+
+## Hermes
+
+`agents/hermes/hermes.py` runs daily-prep protocol and merges with task queue. Run: `python3 agents/hermes/hermes.py`
+
+## Monitor Agent
+
+`agents/monitor/monitor_agent.py` runs daily-prep, email-opportunity, slack-digest. Run: `python3 agents/monitor/monitor_agent.py --mode daily`
+
+## Risk Reviewer
+
+`agents/risk-reviewer/risk_reviewer.py` — LLM-based review. Pipe content: `echo "content" | python3 agents/risk-reviewer/risk_reviewer.py`
+
+## Discord
+
+Discord MCP added to extensions_config (disabled by default). Set DISCORD_BOT_TOKEN, set `"enabled": true` for discord server.

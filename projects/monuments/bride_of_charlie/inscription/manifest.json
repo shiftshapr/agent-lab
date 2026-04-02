@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "episodes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "files": [
+    "episode_001.json",
+    "episode_001_transcript.txt",
+    "episode_001_transcript_verbatim.txt",
+    "episode_002.json",
+    "episode_002_transcript.txt",
+    "episode_002_transcript_verbatim.txt",
+    "episode_003.json",
+    "episode_003_transcript.txt",
+    "episode_003_transcript_verbatim.txt",
+    "episode_004.json",
+    "episode_004_transcript.txt",
+    "episode_004_transcript_verbatim.txt",
+    "episode_005.json",
+    "episode_005_transcript.txt",
+    "episode_005_transcript_verbatim.txt",
+    "episode_006.json",
+    "episode_006_transcript.txt",
+    "episode_006_transcript_verbatim.txt",
+    "episode_007.json",
+    "episode_007_transcript.txt",
+    "episode_007_transcript_verbatim.txt"
+  ],
+  "transcript_roles": {
+    "display": "episode_NNN_transcript.txt (bytes hashed in meta.transcript_sha256)",
+    "verbatim": "episode_NNN_transcript_verbatim.txt (optional; not hashed)"
+  }
+}

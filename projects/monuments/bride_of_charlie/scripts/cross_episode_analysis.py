@@ -60,7 +60,9 @@ def main() -> None:
     source_dir = DRAFTS_DIR if DRAFTS_DIR.exists() else OUTPUT_DIR
     source_dir.mkdir(parents=True, exist_ok=True)
 
-    episodes = sorted(source_dir.glob("episode_*.md"))
+    episodes = sorted(
+        p for p in source_dir.glob("episode_*.md") if "readme" not in p.name.lower()
+    )
     if not episodes:
         print(f"[cross-episode] No episode inscriptions in {source_dir}")
         print("  Run episode analysis first.")

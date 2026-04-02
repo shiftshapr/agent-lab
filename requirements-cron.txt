@@ -1,0 +1,4 @@
+# Used by cron scripts (send-brief.py, meeting-reminder.py) with system python3.
+# Install: python3 -m pip install -r requirements-cron.txt
+beautifulsoup4>=4.12
+markdown>=3.7

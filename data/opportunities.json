@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-03-31T14:04:29.255851Z",
+  "opportunities": [
+    {
+      "id": "grant_20260319230719",
+      "name": "Test Grant",
+      "type": "grant",
+      "deadline": "2025-04-15",
+      "source": "manual",
+      "status": "open",
+      "notes": "",
+      "added_at": "2026-03-20T06:07:19.140515Z"
+    },
+    {
+      "id": "graph_1_767",
+      "name": "Letter to Norwegian authorities",
+      "type": "collaboration",
+      "deadline": "TBD",
+      "source": "graph_enrich",
+      "status": "open",
+      "notes": "From graph. Type: collaboration. Source: /Users/shiftshapr/workspace/agent-lab/knowledge/urls/forbrukerradet_no__breakingfree.md",
+      "added_at": "2026-03-20T18:57:55.951022Z"
+    },
+    {
+      "id": "graph_2_767",
+      "name": "Letter to European institutions",
+      "type": "collaboration",
+      "deadline": "TBD",
+      "source": "graph_enrich",
+      "status": "open",
+      "notes": "From graph. Type: collaboration. Source: /Users/shiftshapr/workspace/agent-lab/knowledge/urls/forbrukerradet_no__breakingfree.md",
+      "added_at": "2026-03-20T18:57:55.951069Z"
+    },
+    {
+      "id": "graph_3_74",
+      "name": "Letter to Norwegian authorities",
+      "type": "collaboration",
+      "deadline": "TBD",
+      "source": "graph_enrich",
+      "status": "open",
+      "notes": "From graph. Type: collaboration. Source: /Users/shiftshapr/workspace/agent-lab/knowledge/urls/forbrukerradet_no__breakingfree.md",
+      "added_at": "2026-03-20T18:58:32.990777+00:00"
+    },
+    {
+      "id": "graph_4_74",
+      "name": "Letter to European institutions",
+      "type": "collaboration",
+      "deadline": "TBD",
+      "source": "graph_enrich",
+      "status": "open",
+      "notes": "From graph. Type: collaboration. Source: /Users/shiftshapr/workspace/agent-lab/knowledge/urls/forbrukerradet_no__breakingfree.md",
+      "added_at": "2026-03-20T18:58:32.990810+00:00"
+    },
+    {
+      "id": "grant_20260330070211",
+      "name": "n",
+      "type": "grant",
+      "deadline": "",
+      "source": "email",
+      "status": "open",
+      "notes": "n",
+      "added_at": "2026-03-30T14:02:11.298762Z"
+    },
+    {
+      "id": "partnership_20260330070211",
+      "name": "t",
+      "type": "partnership",
+      "deadline": "",
+      "source": "email",
+      "status": "open",
+      "notes": "t",
+      "added_at": "2026-03-30T14:02:11.299075Z"
+    },
+    {
+      "id": "other_20260330070211",
+      "name": "e",
+      "type": "other",
+      "deadline": "",
+      "source": "email",
+      "status": "open",
+      "notes": "e",
+      "added_at": "2026-03-30T14:02:11.299087Z"
+    },
+    {
+      "id": "other_20260330070211",
+      "name": "*",
+      "type": "other",
+      "deadline": "",
+      "source": "email",
+      "status": "open",
+      "notes": "*",
+      "added_at": "2026-03-30T14:02:11.299095Z"
+    },
+    {
+      "id": "other_20260330070211",
+      "name": "Extend",
+      "type": "other",
+      "deadline": "",
+      "source": "email",
+      "status": "open",
+      "notes": "Extend",
+      "added_at": "2026-03-30T14:02:11.299104Z"
+    },
+    {
+      "id": "other_20260330070211",
+      "name": "-",
+      "type": "other",
+      "deadline": "",
+      "source": "email",
+      "status": "open",
+      "notes": "-",
+      "added_at": "2026-03-30T14:02:11.299112Z"
+    },
+    {
+      "id": "other_20260330070211",
+      "name": ")",
+      "type": "other",
+      "deadline": "",
+      "source": "email",
+      "status": "open",
+      "notes": ")",
+      "added_at": "2026-03-30T14:02:11.299119Z"
+    },
+    {
+      "id": "other_20260330070211",
+      "name": "d",
+      "type": "other",
+      "deadline": "",
+      "source": "email",
+      "status": "open",
+      "notes": "d",
+      "added_at": "2026-03-30T14:02:11.299126Z"
+    },
+    {
+      "id": "grant_20260331070429",
+      "name": "m",
+      "type": "grant",
+      "deadline": "",
+      "source": "email",
+      "status": "open",
+      "notes": "m",
+      "added_at": "2026-03-31T14:04:29.255442Z"
+    },
+    {
+      "id": "grant_20260331070429",
+      "name": "g",
+      "type": "grant",
+      "deadline": "",
+      "source": "email",
+      "status": "open",
+      "notes": "g",
+      "added_at": "2026-03-31T14:04:29.255789Z"
+    },
+    {
+      "id": "other_20260331070429",
+      "name": "v",
+      "type": "other",
+      "deadline": "",
+      "source": "email",
+      "status": "open",
+      "notes": "v",
+      "added_at": "2026-03-31T14:04:29.255800Z"
+    },
+    {
+      "id": "other_20260331070429",
+      "name": "\"",
+      "type": "other",
+      "deadline": "",
+      "source": "email",
+      "status": "open",
+      "notes": "\"",
+      "added_at": "2026-03-31T14:04:29.255810Z"
+    },
+    {
+      "id": "other_20260331070429",
+      "name": "s",
+      "type": "other",
+      "deadline": "",
+      "source": "email",
+      "status": "open",
+      "notes": "s",
+      "added_at": "2026-03-31T14:04:29.255820Z"
+    },
+    {
+      "id": "other_20260331070429",
+      "name": "x",
+      "type": "other",
+      "deadline": "",
+      "source": "email",
+      "status": "open",
+      "notes": "x",
+      "added_at": "2026-03-31T14:04:29.255828Z"
+    }
+  ]
+}

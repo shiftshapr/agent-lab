@@ -3,6 +3,15 @@
 .env.local
 .env.*.local
 scripts/slack-tokens.json
+data/linkedin_state.json
+data/outputs/
+data/draft_store/
+.draft-editor-cache/
+data/substack_links.json
+
+# Draft Editor Tailwind build deps (committed: static/tailwind.css)
+apps/draft_editor/node_modules/
+scripts/playwright-mcp-browsers/node_modules/
 
 # Python
 __pycache__/
@@ -23,8 +32,12 @@ venv/
 .DS_Store
 Thumbs.db
 
+# Local git worktrees (see docs/GIT_WORKTREES_PARALLEL_AGENTS.md)
+.git-worktrees/
+
 # Logs and temp
 *.log
+.cloudflared-logs/
 logs/
 tmp/
 temp/

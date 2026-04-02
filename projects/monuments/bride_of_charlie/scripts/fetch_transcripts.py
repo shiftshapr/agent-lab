@@ -101,6 +101,38 @@ def fetch_transcript(url: str, video_id: str) -> str:
     return fetch_via_youtube_api(video_id)
 
 
+def fetch_and_write_episode(
+    episode: int,
+    url: str,
+    *,
+    project_dir: Path | None = None,
+    transcripts_dir: Path | None = None,
+) -> dict[str, str | bool]:
+    """
+    Fetch a single episode transcript into transcripts/episode_{n:03d}_{video_id}.txt.
+
+    Used by Draft Editor hub activate job. Returns paths/status keys; raises on hard failures.
+    """
+    project_dir = project_dir or PROJECT_DIR
+    tdir = transcripts_dir or (project_dir / "transcripts")
+    tdir.mkdir(parents=True, exist_ok=True)
+    video_id = extract_video_id(url) or ""
+    if not video_id:
+        raise ValueError("Could not parse YouTube video id from URL")
+    norm_url = url.strip()
+    if "watch?v=" not in norm_url and "youtu.be/" not in norm_url:
+        norm_url = f"https://www.youtube.com/watch?v={video_id}"
+    transcript = fetch_transcript(norm_url, video_id)
+    out_path = tdir / f"episode_{int(episode):03d}_{video_id}.txt"
+    out_path.write_text(transcript, encoding="utf-8")
+    return {
+        "episode": str(int(episode)),
+        "video_id": video_id,
+        "path": str(out_path.relative_to(project_dir)),
+        "ok": True,
+    }
+
+
 def main() -> None:
     TRANSCRIPTS_DIR.mkdir(parents=True, exist_ok=True)
 

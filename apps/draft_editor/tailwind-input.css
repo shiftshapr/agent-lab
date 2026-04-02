@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Scan Draft Editor static HTML for utility classes (no CDN). */
+@source "./static/index.html";
+@source "./static/calendar-embed.html";
+@source "../draft-editor/static/index.html";

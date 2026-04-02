@@ -12,7 +12,9 @@
 | **Bride of Charlie — public rollout order** (inscribe → gov hub → Substack → video) | [`projects/monuments/bride_of_charlie/docs/LAUNCH_AND_COMMS_STRATEGY.md`](../projects/monuments/bride_of_charlie/docs/LAUNCH_AND_COMMS_STRATEGY.md) |
 | **Episode analysis pipeline** | [`protocols/episode_analysis/`](../protocols/episode_analysis/) — `episode_analysis_protocol.py`, `phase1_validation.py` |
 | **Bride automation** | [`projects/monuments/bride_of_charlie/docs/AUTOMATED_WORKFLOW.md`](../projects/monuments/bride_of_charlie/docs/AUTOMATED_WORKFLOW.md) |
+| **DIA — data sat, off-chain index, resolver (Ordinals)** | [`MONUMENT_DATA_SAT_AND_RESOLVER_SPEC.md`](./MONUMENT_DATA_SAT_AND_RESOLVER_SPEC.md); JSON Schemas: [`docs/schemas/dia/`](./schemas/dia/) |
 | **Deer-flow fork** | Submodule `framework/deer-flow` → [shiftshapr/deer-flow](https://github.com/shiftshapr/deer-flow); upstream [bytedance/deer-flow](https://github.com/bytedance/deer-flow) |
+| **Cognitive modes & parallel git work** | Root [`AGENTS.md`](../AGENTS.md), `.cursor/rules/cognitive-modes.mdc`, [`GIT_WORKTREES_PARALLEL_AGENTS.md`](./GIT_WORKTREES_PARALLEL_AGENTS.md), [`BORIS_CHERNY_WORKFLOW_CURSOR_MAP.md`](./BORIS_CHERNY_WORKFLOW_CURSOR_MAP.md) |
 
 Log **monument-specific launch/comms** details in `LAUNCH_AND_COMMS_STRATEGY.md`.  
 Use **this file** for anything that applies to **agent-lab as a whole** or **multiple monuments**.

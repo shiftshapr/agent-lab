@@ -1,0 +1,590 @@
+# PARTIAL RECOVERY — pasted from Cursor terminal buffer (terminals/5.txt).
+# Full API run reported 1815 lines; terminal scroll kept ~580 body lines.
+# Very start is corrupted (first line is "rlay" only — missing earlier captions).
+# For the complete transcript, re-run (saves automatically):
+#   cd agent-lab && node scripts/fetch-transcriptapi-transcript.mjs --quiet "https://youtu.be/uu-cT3_aoko"
+#
+rlay
+[01:08:50] that indicates that a particular person
+[01:08:53] is an AI agent. So this is an overlay on
+[01:08:56] top of this. It may not be on the web
+[01:08:58] page, but the idea is that the overlay
+[01:09:01] can surface information. And the same
+[01:09:04] thing here like provenance, source
+[01:09:06] history of the information on the page.
+[01:09:10] All this is those types of things aren't
+[01:09:13] traditionally
+[01:09:14] um covered or addressed in today's web.
+[01:09:19] And rather than throwing out today's
+[01:09:22] web, we can layer these things on top.
+[01:09:24] So smart tags are essentially the
+[01:09:27] ability to attach a piece of code to a
+[01:09:32] piece of content. So attach you could be
+[01:09:35] attaching a note, a conversation, a
+[01:09:38] poll, whatever someone wants to build as
+[01:09:40] a smart tag. Shared context means that
+[01:09:42] we can all see the same same things. We
+[01:09:46] can see a web of knowledge, this new
+[01:09:48] knowledge that we're building together
+[01:09:49] that D was talking about that we can see
+[01:09:52] a shared view of it as opposed to us all
+[01:09:55] having our own individual view. Then
+[01:09:57] this idea of a portable trust. So a
+[01:10:01] community being able to move with you
+[01:10:03] and being able to maintain trust
+[01:10:06] relationships and also trust in data. So
+[01:10:09] provenence data being available, source
+[01:10:11] history uh information being available,
+[01:10:14] understanding whether someone is an
+[01:10:17] agent or a person. These are all trust
+[01:10:19] issues. And then presence layers. When
+[01:10:21] we say that, we mean um people and
+[01:10:26] agents being able to have a presence
+[01:10:30] above web pages and you being able to
+[01:10:34] see them if they decide to be visible.
+[01:10:37] If you decide to be visible and they
+[01:10:39] decide to be visible, you'll see these
+[01:10:41] people. We're not.
+[01:10:44] >> Yeah. I wanted to ask um are we going to
+[01:10:47] use this in the middle layer?
+[01:10:50] We're going to we're going to definitely
+[01:10:54] uh over the next year or so, we're going
+[01:10:57] to be looking at how we can use
+[01:11:01] metallayer primitives such as these to
+[01:11:05] make AI uh uh human AI coexistence safe
+[01:11:11] and um enjoyable.
+[01:11:14] Okay,
+[01:11:16] >> the um the last one that I was going to
+[01:11:18] mention is trusted execution
+[01:11:20] environment. So that's basically saying
+[01:11:22] that we can have processes like agents
+[01:11:27] running within a execution environment
+[01:11:30] that is not only private but it can
+[01:11:33] enforce rules. So it the types of things
+[01:11:36] that are possible with that are for a
+[01:11:40] community to say that for example we
+[01:11:44] don't want uh agents to make the first
+[01:11:48] communication to anyone in our community
+[01:11:50] and if it's done within a exe a trusted
+[01:11:54] execution environment then that is
+[01:11:56] enforced and there's no way that the
+[01:11:59] agent can actually call the specific um
+[01:12:04] code to to reach out uh make the first
+[01:12:09] move on a person.
+[01:12:11] Anyone have any questions about the
+[01:12:13] metal layer primitives that we're
+[01:12:15] wanting to work with?
+[01:12:18] Davidid does the governness for the
+[01:12:21] layers you know are they can we provide
+[01:12:25] the you know whether it's for personal
+[01:12:28] productivity if it's for the community
+[01:12:31] you know or public civic use for work is
+[01:12:35] that because the governance would be
+[01:12:37] dependent um upon that environment right
+[01:12:42] >> yeah I mean I think you've touched upon
+[01:12:44] it there's going to be individual
+[01:12:47] governance like how do I personally want
+[01:12:49] to to deal with
+[01:12:51] >> AI or even other people and then there's
+[01:12:54] going to be the community based
+[01:12:56] governance and then there's going to be
+[01:12:57] the overall
+[01:12:59] layer like the the the the overweb or
+[01:13:03] the meta layer might will have its own
+[01:13:05] top level governance as well. So you
+[01:13:08] have multiple governance layers that can
+[01:13:10] be applicable.
+[01:13:12] >> Okay, cool.
+[01:13:13] >> I have a question. Uh, can you tie the
+[01:13:17] primitives of metal layer into knowledge
+[01:13:20] gardens?
+[01:13:22] >> Oh, that's a good idea. Yeah,
+[01:13:24] >> I think it's
+[01:13:26] very very much aligned. Um, Jack, would
+[01:13:30] you like to take that on?
+[01:13:32] >> Well, the original knowledge garden
+[01:13:35] concept was based on topic mapping,
+[01:13:38] which is a meta layer above. It's a map
+[01:13:43] of a whole territory which is the web.
+[01:13:47] And you specifically create
+[01:13:52] different topic map applications
+[01:13:57] for such things as people, places, and
+[01:14:00] things or physics, chemistry, and and
+[01:14:04] biology, etc., etc. because they have
+[01:14:08] slightly different vocabularies except
+[01:14:12] what you do is you make it so that they
+[01:14:15] can interact with each other. And that's
+[01:14:18] knowledge gardening is tending tending
+[01:14:21] that kind of a garden. And so in in in
+[01:14:25] essence the the the metal layer
+[01:14:28] activities that you're talking about is
+[01:14:30] knowledge gardening.
+[01:14:34] >> Yes. Absolutely. Um but if we look at
+[01:14:38] the primitives alone um
+[01:14:42] well if left untended
+[01:14:44] um we may not reach the the trust the
+[01:14:49] validation
+[01:14:50] the shared sharing of perspectives the
+[01:14:54] building of shared consciousness that we
+[01:14:56] are after. Um I I think it's not
+[01:15:00] necessarily going to happen
+[01:15:01] spontaneously if we if we only stay at
+[01:15:06] the level of the primitives as such.
+[01:15:11] So so
+[01:15:15] that's a really really good point. Um,
+[01:15:19] and if you think of those primitives as
+[01:15:21] like um tires and shock absorbers and
+[01:15:28] springs and seats in your car,
+[01:15:32] they don't make the car until they're
+[01:15:34] all assembled.
+[01:15:36] And and so
+[01:15:39] it's the execution that the trusted
+[01:15:42] execution environment that brings them
+[01:15:44] all together.
+[01:15:46] And and that's, you know, that's you you
+[01:15:50] make soup out of chopping vegetables and
+[01:15:53] some of this and some of that and a lot
+[01:15:55] of herbs and spices and whatever, but
+[01:15:58] those things alone sitting on the table
+[01:16:00] don't mean anything.
+[01:16:02] They're just there and if you don't do
+[01:16:04] anything, they rot. So you have to put
+[01:16:07] them in into some some water and you
+[01:16:10] have to stir them and heat them and and
+[01:16:12] and cook them to the right to the right
+[01:16:15] degree and then they all magically
+[01:16:20] turn into this very flavorable whatever
+[01:16:22] it is you're making. And and so
+[01:16:27] the the the meadow layer
+[01:16:30] isn't just an idea. It it's an execution
+[01:16:34] of a bunch of very important ideas
+[01:16:37] together.
+[01:16:41] >> Yeah. And I just I want to emphasize
+[01:16:43] that this is just a beginning list of of
+[01:16:46] primitives and there may be many many
+[01:16:49] more and if we came up with new ones
+[01:16:52] that that's great and I I kind of see
+[01:16:54] the so the topic garden application is a
+[01:16:59] form of overlay. Um, and I think there
+[01:17:02] may be some is there maybe something
+[01:17:04] like a a smart tag? Um,
+[01:17:07] >> yeah. Yeah. And it a smart tag that
+[01:17:10] would enable the user, you know, as a
+[01:17:14] personal agent to call out the rules,
+[01:17:17] their preferences,
+[01:17:19] uh, which which are their trusted agents
+[01:17:22] are, you know, have the user build in
+[01:17:28] rules, right? build in to the platform
+[01:17:32] what they want for privacy, for what
+[01:17:37] they want for protection. Um, just to
+[01:17:40] have that interface as as you're going
+[01:17:43] is, you know, the the personal rules,
+[01:17:46] right? They're very different than
+[01:17:48] corporate roles. You might not be in a
+[01:17:51] corporate setting. You might want to
+[01:17:53] make sure that you're an environment
+[01:17:55] that is trusted.
+[01:17:57] I think that is wonderful,
+[01:18:00] wonderful um in terms of the flow of
+[01:18:04] information from the user into the
+[01:18:07] system that we stop being so invaded,
+[01:18:11] intruded and exploited um uh like Nada
+[01:18:15] and Salva were saying and um uh that
+[01:18:18] everyone can modulate their privacy and
+[01:18:22] protection in terms of what comes to us
+[01:18:26] Can we trust what we see? Um what's
+[01:18:31] shown here? Well, it says this this is
+[01:18:33] not a person. It's an AI agent, etc. Um
+[01:18:37] so you could think of the metal layer as
+[01:18:40] collective hunt for um for sources of
+[01:18:44] misinformation which could turn into an
+[01:18:46] exponential whack-a-ole given that
+[01:18:48] machines have a um a much bigger
+[01:18:51] capacity than than we do. Um but um the
+[01:18:56] the basis of trust of what comes to us
+[01:19:00] uh what we are able to find on the page
+[01:19:03] and above the page would be um based on
+[01:19:08] some more profound ways to validate it
+[01:19:11] that
+[01:19:12] >> exactly exact. You're so right. I'm
+[01:19:14] going to capture this thought right now
+[01:19:15] because what you just said is brilliant.
+[01:19:17] Right. If I would offer up my visual in
+[01:19:22] real time with a timestamp with, you
+[01:19:25] know, GPS location tag, if especially if
+[01:19:29] I was working on a work project or even
+[01:19:32] the personal call turned into a
+[01:19:33] professional call, if you needed to tag
+[01:19:35] me to make sure that I'm not being
+[01:19:37] simulated, which occurs today, right,
+[01:19:41] you're spoofed and and
+[01:19:45] it's so dangerous. But if if there were
+[01:19:47] ways um you know at different levels to
+[01:19:50] check that you know I'd be willing right
+[01:19:54] to do a selfie or a online you know real
+[01:19:57] time video or you know like holding up a
+[01:20:01] newspaper if you're kidnapped but um
+[01:20:04] like that I'm just in real time there
+[01:20:07] are times when we're going to need to
+[01:20:08] capture more data and I think that the
+[01:20:10] user I know personally the user would go
+[01:20:14] yeah yeah identify by me is really who I
+[01:20:17] am.
+[01:20:19] >> Yes. Uh and in terms of trusting what we
+[01:20:21] see, I think the the deeper thing would
+[01:20:24] be a way to validate the concepts. So so
+[01:20:28] not just identity of contributors but
+[01:20:31] the way the concepts and the facts are
+[01:20:33] shared uh need to be validated. Uh and
+[01:20:36] Maxim has his head hand up.
+[01:20:39] >> Go ahead.
+[01:20:42] >> Yeah. I wanted to share for last year
+[01:20:45] and a half I spent working and doing
+[01:20:47] research around alignment, trust and
+[01:20:50] safety of AI and I have a system that
+[01:20:53] basically jails agents able to measure
+[01:20:55] alignment a able to measure behavior and
+[01:20:59] that was interesting realization like
+[01:21:01] two months ago um and I couldn't figure
+[01:21:05] out what's happening because when I talk
+[01:21:07] to general audience people want this
+[01:21:09] when I go and I start chasing
+[01:21:11] partnership in corporate world people
+[01:21:13] really they see what I'm building but
+[01:21:16] there is no partnerships that happening
+[01:21:18] people kind of check out and at first I
+[01:21:22] thought that I'm too early but um down
+[01:21:25] the line I realized that trust and trust
+[01:21:29] and safety systems give measurable
+[01:21:32] accountability
+[01:21:34] and that's what people in corporate
+[01:21:36] world don't really want
+[01:21:38] >> because all of a sudden
+[01:21:40] >> there's consequences to my actions that
+[01:21:43] are visible and transparent and people
+[01:21:46] hide behind the narrative will it slow
+[01:21:48] down the progress but reality is now
+[01:21:50] there's a measurable impact that I'm
+[01:21:52] having on people and I don't want that
+[01:21:56] >> because as somebody and I spent long
+[01:21:59] time working in corporate innovation
+[01:22:01] when I'm in that environment
+[01:22:04] the game becomes we need to innovate but
+[01:22:06] at the same time we need to protect
+[01:22:07] ourselves because sentiment is Not if
+[01:22:12] we're going to get sued. Question is
+[01:22:14] when we're going to get sued.
+[01:22:16] >> And it's kind of innovation in corporate
+[01:22:18] world is really about trying to be
+[01:22:22] couple of days ahead of firing squad
+[01:22:25] >> for them because they know what's
+[01:22:27] happening. They know they see the impact
+[01:22:29] but they have no idea what to do with
+[01:22:31] that.
+[01:22:32] And um it's a very I love this
+[01:22:35] conversation because
+[01:22:38] just for last year and a half I felt
+[01:22:39] like am I losing my mind? What am I not
+[01:22:41] getting
+[01:22:43] >> around AI safety?
+[01:22:46] >> My years in corporates completely
+[01:22:49] wholeheartedly support your conclusion
+[01:22:52] is that they don't want visible
+[01:22:54] transparent consequences to their
+[01:22:55] actions and by they I mean anyone with
+[01:22:57] some kind of agency.
+[01:23:00] Uh so yeah there's so many taboos and we
+[01:23:04] we uh explicit blocks when people try to
+[01:23:08] connect actions and consequences and
+[01:23:11] actually measure whether what we are
+[01:23:13] saying we want to achieve is happening.
+[01:23:15] Uh what's the gap between expectation
+[01:23:17] and actuality so much wishful thinking
+[01:23:20] when setting up innovation budgets uh
+[01:23:23] instead of actual uh logic. So so that's
+[01:23:27] that's incredible. So I I think that
+[01:23:31] goes to what my hope is if we think
+[01:23:34] about knowledge gardens from what Jack
+[01:23:36] put in the signal
+[01:23:38] which is if you have a really rich uh
+[01:23:43] functionality
+[01:23:45] to be able to create these causal links
+[01:23:49] and concept uh translations and uh be
+[01:23:53] able to validate what uh what you're
+[01:23:57] encountering
+[01:23:58] uh in any kind of content uh over over
+[01:24:02] the page or on the page. Um I wonder how
+[01:24:05] we could incorporate that into meta
+[01:24:08] layer as a as a path to truth or a sum
+[01:24:13] of different perspectives and beliefs
+[01:24:16] um uh that that has some kind of
+[01:24:19] validation mechanism in it. Otherwise,
+[01:24:22] it's just a a huge untrimable
+[01:24:26] sea.
+[01:24:28] of unreconciled
+[01:24:30] un ungrounded things if that makes
+[01:24:34] sense. Oh sorry Jack also has his hand.
+[01:24:39] Well,
+[01:24:40] first of all, to to to build on two
+[01:24:46] things that were just said, we have to
+[01:24:48] be reminded of what happened when
+[01:24:52] um Anthropic
+[01:24:55] said told the US government, you cannot
+[01:24:58] use our our our platform for killing
+[01:25:04] people with with with humans not in in
+[01:25:07] in attendance. In other words,
+[01:25:09] self-mated.
+[01:25:10] Um, and so the government said, "Well,
+[01:25:13] screw you." And and they blackalled them
+[01:25:16] and blah blah blah. And the next day,
+[01:25:19] Open AI come and said, "Oh, yeah, we can
+[01:25:21] use you can use Open AI, no problem."
+[01:25:24] What happened was
+[01:25:27] Claude started getting thousands of new
+[01:25:31] users and Open AI you lost thousands of
+[01:25:35] users.
+[01:25:36] >> Yeah.
+[01:25:37] I know. And and they they doubled the
+[01:25:40] time amount. Did you see that? You know,
+[01:25:42] where they they which is clever, right?
+[01:25:45] You know, there was like what is it was
+[01:25:48] times? Yeah. 50% more usage
+[01:25:52] and it's it just caused a huge huge sign
+[01:25:55] on
+[01:25:59] >> Jack. And then and then what Mild was
+[01:26:02] saying is you need a community memory
+[01:26:06] that is trustworthy.
+[01:26:08] Doesn't have to be true.
+[01:26:12] It just has to be trustworthy. And by
+[01:26:15] which I mean
+[01:26:17] it isn't affected by advertisers swaying
+[01:26:21] the way the scale reads. And it isn't
+[01:26:25] affected by by um AI blathering on when
+[01:26:32] it doesn't know what it's talking about.
+[01:26:35] It's it's the best that humans could
+[01:26:38] assemble and justify.
+[01:26:41] And then that becomes
+[01:26:44] the anchors
+[01:26:46] for conversations
+[01:26:49] around points of dispute.
+[01:26:53] You want the contests out there and you
+[01:26:56] want them legitimately out there and you
+[01:26:59] want civil conversations, structured
+[01:27:02] ones around those contested issues
+[01:27:07] to surface more information by humans.
+[01:27:12] They can have an AI assist, but they it
+[01:27:15] has to be human. It has to be
+[01:27:17] trustworthy.
+[01:27:19] So you're building a community memory
+[01:27:22] and that's truly one of the primitives
+[01:27:25] of the meta layer. It's it's why I
+[01:27:28] started with topic maps
+[01:27:31] as the meta layer. If you take a look at
+[01:27:34] hypothesis
+[01:27:37] hypothesis is a kind of human memory but
+[01:27:41] without the topic map.
+[01:27:44] What it is is you can go out on the web
+[01:27:47] and you can annotate a page and you can
+[01:27:49] put tags on it and other people will
+[01:27:52] notice that tag and use it elsewhere.
+[01:27:54] And those tags create a graph, but the
+[01:27:59] hypothesis didn't go the full distance
+[01:28:01] and give you that graph of how the
+[01:28:03] things wire up.
+[01:28:06] But it's still a community memory
+[01:28:08] because people will come in, read your
+[01:28:11] annotations and say, "Hey, I want to
+[01:28:13] challenge that." And now you have a
+[01:28:15] conversation in right in that metal
+[01:28:19] layer.
+[01:28:22] That's a great point by the way. So do
+[01:28:23] you shared context in in my mind is you
+[01:28:27] know community memory but I I think it's
+[01:28:30] totally fine if we want to start
+[01:28:33] referring to it as community memory as
+[01:28:35] opposed to shared contest or maybe we
+[01:28:37] use both both um phrases. Let's see.
+[01:28:42] Well,
+[01:28:43] >> so I think I like community memory
+[01:28:47] because
+[01:28:49] community memory has a history
+[01:28:53] in in the study of of uh
+[01:28:58] of u
+[01:29:00] basically evolutionary epistemology. The
+[01:29:03] way communities learn,
+[01:29:06] they learn by by by
+[01:29:12] sharing their ideas and then recording
+[01:29:14] them. And some of that recording ends up
+[01:29:17] in the library. Some of it ends up on
+[01:29:19] the chalkboard at school. Some of it
+[01:29:22] ends up very it's various places and
+[01:29:24] it's dispersed.
+[01:29:26] But we now have the opportunity with the
+[01:29:28] web to make it permanent
+[01:29:32] and immutable. You can't
+[01:29:35] >> change it.
+[01:29:36] >> You really want you really you you want
+[01:29:39] to say, "Okay, we finally disagreed with
+[01:29:41] that point." That's fine. We've
+[01:29:43] disagreed, but here's the history of how
+[01:29:45] we got there. So that people can come
+[01:29:48] and learn from the history.
+[01:29:52] >> Yeah. Just imagine if we had that from a
+[01:29:56] thousand years ago. Our understanding of
+[01:29:58] history would be completely different. I
+[01:30:01] mean, not completely, but it would be it
+[01:30:03] would be somewhat different. And and
+[01:30:05] history would probably be different,
+[01:30:06] right? If the if this was available for
+[01:30:09] there to be a community memory from a
+[01:30:11] thousand years ago and we had anybody
+[01:30:13] who wanted to provide their perspective
+[01:30:15] was able to to do it and put it in the
+[01:30:17] right place and everyone could find it
+[01:30:19] and comment on it, history would be
+[01:30:21] different. Um D
+[01:30:23] >> it when Jack was talking it just
+[01:30:26] triggered another u experience I have
+[01:30:30] when I go on my phone I have um a
+[01:30:35] warning that it thwarted you know 90
+[01:30:39] different threats
+[01:30:41] when I start engaging with my phone
+[01:30:44] using my device and I see this meta
+[01:30:48] layer also being able to let me know uh
+[01:30:53] what's happening outside of my community
+[01:30:55] with the topic that I'm interested in
+[01:30:59] that maybe it's being um misused or
+[01:31:06] there's some distortion in its
+[01:31:09] understanding
+[01:31:10] so that I'm aware that the topic is
+[01:31:14] alive and that it's being used in a
+[01:31:17] context other than what my community is
+[01:31:20] interested in preserving and
+[01:31:22] contributing to. So
+[01:31:26] this could be maybe a little bit more
+[01:31:29] advanced looking outside of the
+[01:31:31] community for thing for the chatter.
+[01:31:35] Chatter that may matter. Okay.
+[01:31:37] >> Chatter that may matter. I like that.
+[01:31:41] >> Awesome. But I I love and and I know
+[01:31:43] Millia sent me some things about uh the
+[01:31:47] Jack's um you know the the knowledge
+[01:31:51] garden and how it's weaving. It's it's
+[01:31:54] so beautiful how all of these concepts
+[01:31:56] are kind of coming together and um we we
+[01:32:00] really do need to
+[01:32:02] uh write this so that it's um it it gets
+[01:32:10] synthesized into something that that we
+[01:32:13] could uh further represent and get other
+[01:32:16] people to to immediately
+[01:32:19] uh jump on because we're carrying over
+[01:32:21] lots of concepts and and I while I love
+[01:32:24] it, I think people that aren't in the
+[01:32:28] know uh need to have our level of
+[01:32:30] understanding because it's coming
+[01:32:32] together so nicely.
+[01:32:34] >> I first used the term knowledge garden
+[01:32:38] in Soul, South Korea in 2007.
+[01:32:44] uh I was invited to give a talk and my
+[01:32:47] talk was ostensibly about just in time
+[01:32:50] learning and the reason for that talk
+[01:32:53] was that
+[01:32:56] Koreans had become very wealthy and
+[01:32:59] their kids didn't want to work and they
+[01:33:02] needed workers. So where were they going
+[01:33:04] to get them? They're going to have to
+[01:33:06] train them on the job just in time.
+[01:33:10] But they told me that's the title of
+[01:33:12] your talk. However, you can say anything
+[01:33:14] you want.
+[01:33:16] And so I decided to in introduce the
+[01:33:19] idea of lifelong learning which is
+[01:33:22] stimulated by something I called
+[01:33:24] knowledge gardening
+[01:33:26] >> where you a aggregated all of your ideas
+[01:33:30] and learnings in this community memory
+[01:33:35] and and u the the term stuck there. They
+[01:33:39] really liked it. Um
+[01:33:42] uh
+[01:33:45] the you can still you can come back you
+[01:33:49] can come back to Google and you can look
+[01:33:51] up knowledge garden and you'll find all
+[01:33:53] kinds of children's playgrounds called
+[01:33:55] knowledge gardens and that's that's to
+[01:33:57] be expected
+[01:33:59] but um the term knowledge gardening
+[01:34:03] today
+[01:34:05] has been superseded by a new term called
+[01:34:08] knowing gardening.
+[01:34:12] Because knowledge gardening is not an
+[01:34:14] active term but knowing is an active
+[01:34:18] term.
+[01:34:20] So we talk now about knowing gardens
+[01:34:25] and and our epistemic communities to do
+[01:34:28] this are called knowing hubs.
+[01:34:33] >> Awesome. and and and and and so and and
+[01:34:36] and they can use the meta web to tie
+[01:34:39] them all together in a federation.
+[01:34:42] That's the whole point of the community
+[01:34:44] memory is to tie all of these disparit
+[01:34:48] conversations all over the planet
+[01:34:50] together so everybody can learn from
+[01:34:53] everybody else.
+[01:34:57] Excellent. Wow, this has been such a
+[01:35:00] rich conversation and
+[01:35:02] uh there are at least three different
+[01:35:06] ideas around the metal layer and
+[01:35:08] probably more. Renard has one that she
+[01:35:10] sent me and and we we can talk about
+[01:35:13] that next week. Then there's the I think
+[01:35:16] the knowledge garden we should we should
+[01:35:20] think about how it could be implemented
+[01:35:23] within this framework and and start
+[01:35:26] start doing that. I mean, it's it's a
+[01:35:28] great idea. And then there was one other
+[01:35:30] one. What was the Oh, Millia was talking
+[01:35:33] about how we can use it to unear truth
+[01:35:37] and and just help us better understand
+[01:35:41] what's true and what we can trust. So, I
+[01:35:44] I think maybe next week we can um we can
+[01:35:49] talk about it. Just quite frankly, no
+[01:35:51] one else showed up for any of the other
+[01:35:54] sessions except for Renad and my friend
+[01:35:56] Nile. So, we had I had four more
+[01:35:58] sessions planned and I I did do a little
+[01:36:00] bit of outreach. I didn't do as much as
+[01:36:02] I could because I was working on other
+[01:36:04] things. So, I think that I'm going to
+[01:36:07] cancel those other sessions and I would
+[01:36:10] suggest that next week that we we pick
+[01:36:13] up here and if people are open to it, we
+[01:36:16] could explore those three ideas um and
+[01:36:20] just go in depth. And Maxim, I want to
+[01:36:22] say I'm really interested in learning
+[01:36:24] more about your work. if you want to put
+[01:36:27] your your links in there, I'd love to
+[01:36:30] connect with you and and I'm sure other
+[01:36:32] people would
+[01:36:33] >> as well. And um then the other thing I
+[01:36:36] wanted to say was I think there's an
+[01:36:38] article in there that really needs to be
+[01:36:40] in the AI AI safety corpus about your
+[01:36:43] experience. So um you know, we would be
+[01:36:48] happy to host the article if that was
+[01:36:50] something of interest to you and um
+[01:36:52] yeah, it's great to see you. in
+[01:36:55] particular
+[01:36:56] >> and
+[01:36:57] >> yeah I put my contacts please reach out.
+[01:37:00] >> Awesome. Awesome. And everybody thank
+[01:37:04] you so much. Wow we had just so much
+[01:37:07] insight in this call coming from all
+[01:37:09] across the world. I really appreciate
+[01:37:11] you all and um if you want to open up
+[01:37:13] your mic and say goodbye, you can.
+[01:37:17] >> Bye.
+[01:37:18] >> Thank you David. Thank you very much.
+[01:37:20] >> Thank you.
+[01:37:21] >> Thanks all of you. This was outstanding
+[01:37:23] David. Thank you so much.
+[01:37:25] >> All right, go medals.

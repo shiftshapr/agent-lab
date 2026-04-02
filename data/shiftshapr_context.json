@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-03-20",
+  "voice_profile": "meta_layer",
+  "linkedin_mentions": [],
+  "knowledge_sources": ["metaweb_book.md", "substack_highlights.md", "canvas_insights.md"],
+  "preferences": [
+    "2026-03-20: Don't list meetings I have declined in calendar briefs",
+    "2026-03-20: Apply meta-layer lens to emails \u2014 filter noise (newsletters, promotions, irrelevant gov bulletins, subscription confirmations for inactive services)",
+    "2026-03-20: Prefer brief responses without headers - use concise, conversational tone instead of structured sections"
+  ],
+  "priorities": [],
+  "key_projects": [],
+  "communication_style": "Concise, actionable. Prefer bullet points for lists. Flag deadlines clearly.",
+  "meta_layer_lens": "Apply judgment about what actually matters. Unread \u2260 important. Filter: newsletters, marketing, promotions, government bulletins unrelated to my work (e.g. TPS for Burma), subscription confirmations for services I'm not actively using (e.g. VEED), social notifications. Focus on: direct messages, action-required items, opportunities aligned with my projects, deadlines.",
+  "notes": "Add items via /remember or by telling Shiftshapr (e.g. 'remember: X', 'from now on: X').",
+  "substack_publications": [
+    { "id": "gometa", "name": "On the Edge of Reality", "domain": "gometa.substack.com" },
+    { "id": "metaweb", "name": "Probably Nothing to See Here", "domain": "metaweb.substack.com" },
+    { "id": "canopi", "name": "Layers", "domain": "bridgit.substack.com" },
+    { "id": "pacha", "name": "Pacha", "domain": "pacha.substack.com" },
+    { "id": "livethestory", "name": "Live the Story", "domain": "livethestory.substack.com" }
+  ],
+  "publish_profiles": [
+    { "platform": "substack", "destination": "Substack · metaweb", "id": "substack_metaweb", "url": "https://metaweb.substack.com", "draft_location": "external", "draft_url": "https://metaweb.substack.com/publish/posts/drafts" },
+    { "platform": "linkedin", "destination": "LinkedIn · Meta-Layer Initiative", "id": "linkedin_meta_layer", "url": "https://www.linkedin.com/company/the-meta-layer" },
+    { "platform": "linkedin", "destination": "LinkedIn · Daveed Benjamin (personal)", "id": "linkedin_personal", "url": "https://www.linkedin.com/in/shiftshapr/" },
+    { "platform": "x", "destination": "X · @shiftshapr", "id": "x_shiftshapr", "url": "https://x.com/shiftshapr" },
+    { "platform": "x", "destination": "X · @themetalayer (quote)", "id": "x_metalayer", "url": "https://x.com/themetalayer" }
+  ],
+  "ctas": [
+    { "id": "post-ai-doc", "name": "Post-AI DOC Zoom conversation", "url": "https://lu.ma/ai-doc", "slug": "lu.ma/ai-doc", "when": "governance, AI, trust, film discussion" },
+    { "id": "canopi-waitlist", "name": "Canopi waiting list", "url": null, "slug": "join Canopi waitlist", "when": "collaboration, coordination, meta-layer tools" },
+    { "id": "civic-mason", "name": "Civic Mason badge", "url": null, "slug": "earn a Civic Mason badge", "when": "civic contribution, governance, building in public" }
+  ],
+  "drafts_ready": [
+    {
+      "name": "Post-AI DOC event promo",
+      "aliases": ["AI Doc", "Post-AI DOC", "ai-doc", "Post AI Doc"],
+      "linkedin_meta_layer_post": "After the film, the real conversation begins.\n\n**The AI Doc** asks the questions many of us are asking: What happens when the infrastructure of trust—what we see, what we believe—gets rebuilt by systems we don't yet know how to govern?\n\nWe're hosting small-group Zoom conversations to reflect on the film and explore what might come next. We'll touch on interface-level governance, synthetic content, and how coordination could work in AI-shaped spaces. Having seen the movie is not required.\n\nMultiple sessions — pick one that fits. Scan the image or visit lu.ma/ai-doc to register.\n\n#TheAIDoc #PostAIDoc #Apocaloptimist #AI",
+      "linkedin_personal_quote": "Quote/repost the Meta-Layer Initiative post from personal LinkedIn after posting it there first.",
+      "image": "drafts/After_the_Film.png",
+      "file": "drafts/post-ai-doc-event-promo.md"
+    }
+  ]
+}

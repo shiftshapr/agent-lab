@@ -1,0 +1,1015 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 7,
+    "source": "Candace Owens YouTube",
+    "video_timestamp_range": "00:01–01:09:59",
+    "extraction_timestamp": "2026-03-20T21:52:23Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "82f9748f7aed0824d245d0618ce980908bec3018b69307d05b445fed2c8a7d43"
+  },
+  "executive_summary": "Episode 7 focuses on Erika Kirk's trending status on X and backlash over her explanation for running Turning Point USA while being a mother. The host presents evidence contradicting Erika's claim that she had a self-sustaining business before meeting Charlie Kirk in 2021, showing the Proclaim clothing company domain was registered in October 2018, filed as LLC in January 2019, and only had items for sale in January 2021. The episode also covers financial details including Charlie's $10 million life insurance policy and $5.4 million raised by Tucker Carlson. Additional timelines address Erika's relationships in 2013-2014, her China claims, and connections between Tyler Bowyer, Jeffrey Epstein, and Arizona State University.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_1",
+      "family_ref": "ART_1",
+      "bundle_name": "Erika Business Timeline Evidence",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_1.1",
+          "ref": "ART_1.1",
+          "description": "Proclaim domain registration record",
+          "event_timestamp": "October 26, 2018",
+          "source_timestamp": "October 2018",
+          "video_timestamp": "05:21–05:28",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_1",
+            "CLAIM_2"
+          ],
+          "related_nodes": [
+            "NODE_2",
+            "NODE_1000"
+          ],
+          "tags": [
+            "business_record",
+            "domain"
+          ],
+          "transcript_snippet": "She picks up this domain name, Proclaim Street, on October 26th, 2018.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_1.2",
+          "ref": "ART_1.2",
+          "description": "Proclaim LLC filing documentation",
+          "event_timestamp": "January 2019",
+          "source_timestamp": "January 2019",
+          "video_timestamp": "06:46–06:55",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_1",
+            "CLAIM_2"
+          ],
+          "related_nodes": [
+            "NODE_2",
+            "NODE_1000"
+          ],
+          "tags": [
+            "business_record",
+            "legal_filing"
+          ],
+          "transcript_snippet": "Proclaim did not actually file to become a business until January of 2019 after she began dating Charlie.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_1.3",
+          "ref": "ART_1.3",
+          "description": "Wayback Machine screenshot of Proclaim website",
+          "event_timestamp": "January 16, 2021",
+          "source_timestamp": "January 2021",
+          "video_timestamp": "07:48–07:56",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_1",
+            "CLAIM_2"
+          ],
+          "related_nodes": [
+            "NODE_2",
+            "NODE_1000"
+          ],
+          "tags": [
+            "web_archive",
+            "evidence"
+          ],
+          "transcript_snippet": "It wasn't until January 16th, 2021... that clothing items were actually available for sale on the website.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_1.4",
+          "ref": "ART_1.4",
+          "description": "Real estate license record",
+          "event_timestamp": "October 2018",
+          "source_timestamp": "October 2018",
+          "video_timestamp": "05:40–05:46",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_2"
+          ],
+          "related_nodes": [
+            "NODE_2",
+            "NODE_1000"
+          ],
+          "tags": [
+            "professional_license"
+          ],
+          "transcript_snippet": "She received her real estate license in New York... just two days after she received her real estate license.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_2",
+      "family_ref": "ART_2",
+      "bundle_name": "Turning Point Corporate Call Audio",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_2.1",
+          "ref": "ART_2.1",
+          "description": "Tyler Bowyer Las Vegas office announcement",
+          "event_timestamp": "February 11, 2025",
+          "source_timestamp": "February 11, 2025",
+          "video_timestamp": "16:52–17:31",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_5"
+          ],
+          "related_nodes": [
+            "NODE_4",
+            "NODE_5"
+          ],
+          "tags": [
+            "corporate_audio",
+            "audio"
+          ],
+          "transcript_snippet": "At Turning Point Action, we have a ton of jobs posting in Arizona, Nevada, and New Hampshire... Got the keys to a new building that we have in Las Vegas.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_2.2",
+          "ref": "ART_2.2",
+          "description": "Erika Kirk corporate call speech",
+          "event_timestamp": "February 11, 2025",
+          "source_timestamp": "February 11, 2025",
+          "video_timestamp": "17:36–19:20",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_5",
+            "CLAIM_6"
+          ],
+          "related_nodes": [
+            "NODE_2",
+            "NODE_4",
+            "NODE_5"
+          ],
+          "tags": [
+            "corporate_audio",
+            "audio"
+          ],
+          "transcript_snippet": "I bring my babies to the office nine times out of 10 and a lot of you have interacted with them... my kids are my world.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_3",
+      "family_ref": "ART_3",
+      "bundle_name": "Financial Evidence Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_3.1",
+          "ref": "ART_3.1",
+          "description": "Turning Point life insurance policy record",
+          "event_timestamp": "Unknown",
+          "source_timestamp": "Unknown",
+          "video_timestamp": "11:27–11:49",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_4"
+          ],
+          "related_nodes": [
+            "NODE_1",
+            "NODE_2",
+            "NODE_1002"
+          ],
+          "tags": [
+            "financial_record",
+            "insurance"
+          ],
+          "transcript_snippet": "the life insurance policy that Turning Point had for Charlie... Erika was set to receive $10 million from his work policy.",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_3.2",
+          "ref": "ART_3.2",
+          "description": "Tucker Carlson GoFundMe campaign records",
+          "event_timestamp": "2024",
+          "source_timestamp": "2024",
+          "video_timestamp": "13:29–13:59",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_4"
+          ],
+          "related_nodes": [
+            "NODE_2",
+            "NODE_1002"
+          ],
+          "tags": [
+            "donation_record",
+            "public_record"
+          ],
+          "transcript_snippet": "Tucker Carlson... raised $5.4 million for her... to help provide for Kirk family's future.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_4",
+      "family_ref": "ART_4",
+      "bundle_name": "Arizona State University Epstein Connection",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_4.1",
+          "ref": "ART_4.1",
+          "description": "Jeffrey Epstein donation records to ASU",
+          "event_timestamp": "December 2010",
+          "source_timestamp": "December 2010",
+          "video_timestamp": "30:19–30:43",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_9",
+            "CLAIM_10"
+          ],
+          "related_nodes": [
+            "NODE_8",
+            "NODE_9",
+            "NODE_1003"
+          ],
+          "tags": [
+            "financial_record",
+            "public_record"
+          ],
+          "transcript_snippet": "Jeffrey Epstein began giving to Arizona State University in December of 2010... $250,000 of his own money, plus over $2 million through various associates.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_4.2",
+          "ref": "ART_4.2",
+          "description": "Tyler Bowyer board appointment documentation",
+          "event_timestamp": "2010",
+          "source_timestamp": "2010",
+          "video_timestamp": "26:43–27:05",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_9",
+            "CLAIM_10"
+          ],
+          "related_nodes": [
+            "NODE_6",
+            "NODE_9",
+            "NODE_1003"
+          ],
+          "tags": [
+            "appointment_record",
+            "public_record"
+          ],
+          "transcript_snippet": "Governor Jan Brewer abnormally just picked Tyler into the position... Governor appoints the new student regent.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_4.3",
+          "ref": "ART_4.3",
+          "description": "Epstein emails mention frequency data",
+          "event_timestamp": "Unknown",
+          "source_timestamp": "Unknown",
+          "video_timestamp": "29:58–30:14",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_10"
+          ],
+          "related_nodes": [
+            "NODE_8",
+            "NODE_1003"
+          ],
+          "tags": [
+            "email_data",
+            "public_record"
+          ],
+          "transcript_snippet": "Arizona State University was the number one university mentioned in Jeffrey Epstein's emails about 3,500 times.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_5",
+      "family_ref": "ART_5",
+      "bundle_name": "Erika Relationship Timeline Evidence",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_5.1",
+          "ref": "ART_5.1",
+          "description": "Josh Harelson basketball records",
+          "event_timestamp": "2012-2013",
+          "source_timestamp": "2012-2013",
+          "video_timestamp": "36:25–37:13",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_7"
+          ],
+          "related_nodes": [
+            "NODE_7",
+            "NODE_2"
+          ],
+          "tags": [
+            "sports_record",
+            "timeline"
+          ],
+          "transcript_snippet": "Erika begins dating Josh Harelson... he joins the Chongqing Flying Dragons... she was there from June all the way through until at least August.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_5.2",
+          "ref": "ART_5.2",
+          "description": "Erika Amazing Race audition tape",
+          "event_timestamp": "2014",
+          "source_timestamp": "2014",
+          "video_timestamp": "45:19–46:57",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_8"
+          ],
+          "related_nodes": [
+            "NODE_2",
+            "NODE_10"
+          ],
+          "tags": [
+            "media",
+            "audition_tape"
+          ],
+          "transcript_snippet": "Hi, I'm Erika Frantzve. I'm 25 years old from Scottsdale, Arizona... I've lived in China. I've lived in Chongqing.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_5.3",
+          "ref": "ART_5.3",
+          "description": "Erika House of DVF audition tape",
+          "event_timestamp": "2014",
+          "source_timestamp": "2014",
+          "video_timestamp": "49:01–50:34",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_8"
+          ],
+          "related_nodes": [
+            "NODE_2"
+          ],
+          "tags": [
+            "media",
+            "audition_tape"
+          ],
+          "transcript_snippet": "I graduated with political science and international relations... I come from a bloodline of entrepreneurs and I learned from my mom.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_6",
+      "family_ref": "ART_6",
+      "bundle_name": "Education Claims Evidence",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_6.1",
+          "ref": "ART_6.1",
+          "description": "Arizona State University catalog records",
+          "event_timestamp": "2012",
+          "source_timestamp": "2012",
+          "video_timestamp": "28:05–28:55",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_11"
+          ],
+          "related_nodes": [
+            "NODE_2",
+            "NODE_1004"
+          ],
+          "tags": [
+            "academic_record",
+            "catalog"
+          ],
+          "transcript_snippet": "Bachelor of Science in International Relations was not yet available in 2012 at Arizona State University... It is today.",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "NODE_1",
+      "ref": "NODE_1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Founder of Turning Point USA, deceased. Subject of investigation.",
+      "related_artifacts": [
+        "ART_3.1",
+        "ART_3.2"
+      ],
+      "related_claims": [
+        "CLAIM_3",
+        "CLAIM_4"
+      ],
+      "tags": [
+        "key_figure",
+        "deceased"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_2",
+      "ref": "NODE_2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Former Erika Frantzve, now married to Charlie Kirk. Primary subject of investigation. Running Turning Point USA.",
+      "related_artifacts": [
+        "ART_1.1",
+        "ART_1.2",
+        "ART_1.3",
+        "ART_1.4",
+        "ART_2.1",
+        "ART_2.2",
+        "ART_3.1",
+        "ART_3.2",
+        "ART_5.1",
+        "ART_5.2",
+        "ART_5.3",
+        "ART_6.1"
+      ],
+      "related_claims": [
+        "CLAIM_1",
+        "CLAIM_2",
+        "CLAIM_3",
+        "CLAIM_4",
+        "CLAIM_5",
+        "CLAIM_6",
+        "CLAIM_7",
+        "CLAIM_8",
+        "CLAIM_11"
+      ],
+      "tags": [
+        "key_figure",
+        "subject"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_3",
+      "ref": "NODE_3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of Bride of Charlie series.",
+      "related_artifacts": [
+        "ART_1.1",
+        "ART_1.2",
+        "ART_1.3",
+        "ART_2.1",
+        "ART_2.2",
+        "ART_3.1",
+        "ART_3.2",
+        "ART_4.1",
+        "ART_4.2",
+        "ART_4.3",
+        "ART_5.1",
+        "ART_5.2",
+        "ART_5.3",
+        "ART_6.1"
+      ],
+      "related_claims": [
+        "CLAIM_1",
+        "CLAIM_2",
+        "CLAIM_3",
+        "CLAIM_4",
+        "CLAIM_5",
+        "CLAIM_6",
+        "CLAIM_7",
+        "CLAIM_8",
+        "CLAIM_9",
+        "CLAIM_10",
+        "CLAIM_11"
+      ],
+      "tags": [
+        "host"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_4",
+      "ref": "NODE_4",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "Turning Point USA executive. Former Maricopa County Republican Committee chairman. Connected to Charlie Kirk and investigated for connections to Romania and Epstein.",
+      "related_artifacts": [
+        "ART_2.1",
+        "ART_4.2"
+      ],
+      "related_claims": [
+        "CLAIM_9",
+        "CLAIM_10"
+      ],
+      "tags": [
+        "key_figure",
+        "executive"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_5",
+      "ref": "NODE_5",
+      "name": "Jonah",
+      "type": "person",
+      "description": "Turning Point USA employee who got keys to Las Vegas office.",
+      "related_artifacts": [
+        "ART_2.1"
+      ],
+      "related_claims": [
+        "CLAIM_5"
+      ],
+      "tags": [
+        "secondary"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_6",
+      "ref": "NODE_6",
+      "name": "Jan Brewer",
+      "type": "person",
+      "description": "Governor of Arizona who appointed Tyler Bowyer to Arizona Board of Regents.",
+      "related_artifacts": [
+        "ART_4.2"
+      ],
+      "related_claims": [
+        "CLAIM_9"
+      ],
+      "tags": [
+        "political_figure"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_7",
+      "ref": "NODE_7",
+      "name": "Josh Harelson",
+      "type": "person",
+      "description": "Professional basketball player who dated Erika in 2013. Played for Miami Heat, then overseas teams in Puerto Rico and China.",
+      "related_artifacts": [
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_7"
+      ],
+      "tags": [
+        "relationship",
+        "sports"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_8",
+      "ref": "NODE_8",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Financier with documented connections to Arizona State University. Donated to ASU in December 2010.",
+      "related_artifacts": [
+        "ART_4.1",
+        "ART_4.3"
+      ],
+      "related_claims": [
+        "CLAIM_9",
+        "CLAIM_10"
+      ],
+      "tags": [
+        "notorious_figure",
+        "investigation_target"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_9",
+      "ref": "NODE_9",
+      "name": "Arizona State University",
+      "type": "institution",
+      "description": "University with documented Epstein donations. Tyler Bowyer appointed to board. Erika Kirk claims to have graduated from here.",
+      "related_artifacts": [
+        "ART_4.1",
+        "ART_4.2",
+        "ART_4.3",
+        "ART_6.1"
+      ],
+      "related_claims": [
+        "CLAIM_9",
+        "CLAIM_10",
+        "CLAIM_11"
+      ],
+      "tags": [
+        "institution",
+        "evidence_location"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_10",
+      "ref": "NODE_10",
+      "name": "JT Massie",
+      "type": "person",
+      "description": "Minor league baseball player with Colorado Rockies who dated Erika and auditioned with her for Amazing Race in 2014.",
+      "related_artifacts": [
+        "ART_5.2"
+      ],
+      "related_claims": [
+        "CLAIM_8"
+      ],
+      "tags": [
+        "relationship",
+        "sports"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "NODE_1000",
+      "ref": "NODE_1000",
+      "name": "Pre-Marriage Business Claims",
+      "type": "investigation_target",
+      "description": "Erika claims she ran a self-sustaining business before meeting Charlie in 2021. Evidence shows domain registered October 2018, LLC filed January 2019, website active January 2021.",
+      "related_artifacts": [
+        "ART_1.1",
+        "ART_1.2",
+        "ART_1.3",
+        "ART_1.4"
+      ],
+      "related_claims": [
+        "CLAIM_1",
+        "CLAIM_2"
+      ],
+      "tags": [
+        "discrepancy_target",
+        "business_claims"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "NODE_1001",
+      "ref": "NODE_1001",
+      "name": "Sole Provider Narrative",
+      "type": "investigation_target",
+      "description": "Erika claims to be sole provider for children, discounting Charlie's financial planning and public donations.",
+      "related_artifacts": [
+        "ART_3.1",
+        "ART_3.2"
+      ],
+      "related_claims": [
+        "CLAIM_4"
+      ],
+      "tags": [
+        "discrepancy_target",
+        "financial_claims"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "NODE_1002",
+      "ref": "NODE_1002",
+      "name": "Life Insurance and Fundraising",
+      "type": "investigation_target",
+      "description": "$10 million Turning Point life insurance policy and $5.4 million raised by Tucker Carlson.",
+      "related_artifacts": [
+        "ART_3.1",
+        "ART_3.2"
+      ],
+      "related_claims": [
+        "CLAIM_4"
+      ],
+      "tags": [
+        "financial_investigation"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "NODE_1003",
+      "ref": "NODE_1003",
+      "name": "Epstein-ASU-Bowyer Connection",
+      "type": "investigation_target",
+      "description": "Jeffrey Epstein donated to ASU months before Tyler Bowyer was appointed to board. ASU mentioned 3500 times in Epstein emails.",
+      "related_artifacts": [
+        "ART_4.1",
+        "ART_4.2",
+        "ART_4.3"
+      ],
+      "related_claims": [
+        "CLAIM_9",
+        "CLAIM_10"
+      ],
+      "tags": [
+        "network_investigation",
+        "connections"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "NODE_1004",
+      "ref": "NODE_1004",
+      "name": "Education Credentials",
+      "type": "investigation_target",
+      "description": "Erika claims double major in political science and international relations from ASU. International Relations may not have been available as major in 2012.",
+      "related_artifacts": [
+        "ART_6.1"
+      ],
+      "related_claims": [
+        "CLAIM_11"
+      ],
+      "tags": [
+        "credential_investigation",
+        "academic_claims"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_1",
+      "ref": "CLAIM_1",
+      "label": "Erika business domain registered October 2018",
+      "claim_timestamp": "05:21",
+      "claim": "Erika registered the domain for her claimed business Proclaim Street on October 26, 2018, weeks after meeting Charlie.",
+      "anchored_artifacts": [
+        "ART_1.1"
+      ],
+      "related_nodes": [
+        "NODE_2",
+        "NODE_1000"
+      ],
+      "investigative_direction": "Verify domain registration records and compare with claimed business timeline.",
+      "tags": [
+        "falsifiable",
+        "business_timeline"
+      ],
+      "transcript_snippet": "She picks up this domain name, Proclaim Street, on October 26th, 2018.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_2",
+      "ref": "CLAIM_2",
+      "label": "Proclaim LLC filed after dating began",
+      "claim_timestamp": "06:46",
+      "claim": "The official LLC paperwork for Proclaim was not filed until January 2019, after Erika began dating Charlie.",
+      "anchored_artifacts": [
+        "ART_1.2",
+        "ART_1.4"
+      ],
+      "related_nodes": [
+        "NODE_2",
+        "NODE_1000"
+      ],
+      "investigative_direction": "Obtain certified LLC filing records and compare with Erika's claims.",
+      "tags": [
+        "falsifiable",
+        "business_timeline"
+      ],
+      "transcript_snippet": "Proclaim did not actually file to become a business until January of 2019 after she began dating Charlie.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_3",
+      "ref": "CLAIM_3",
+      "label": "Business not operational until 2021",
+      "claim_timestamp": "07:48",
+      "claim": "The Proclaim website did not have clothing items available for sale until January 16, 2021, five months before she married Charlie in May 2021.",
+      "anchored_artifacts": [
+        "ART_1.3"
+      ],
+      "related_nodes": [
+        "NODE_2",
+        "NODE_1000"
+      ],
+      "investigative_direction": "Verify Wayback Machine records and website launch timeline.",
+      "tags": [
+        "falsifiable",
+        "business_timeline"
+      ],
+      "transcript_snippet": "It wasn't until January 16th, 2021... that clothing items were actually available for sale on the website.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_4",
+      "ref": "CLAIM_4",
+      "label": "Charlie had life insurance and donations",
+      "claim_timestamp": "11:27",
+      "claim": "Charlie Kirk had a $10 million life insurance policy through Turning Point, and Tucker Carlson raised $5.4 million for Erika and the children.",
+      "anchored_artifacts": [
+        "ART_3.1",
+        "ART_3.2"
+      ],
+      "related_nodes": [
+        "NODE_1",
+        "NODE_2",
+        "NODE_1001",
+        "NODE_1002"
+      ],
+      "investigative_direction": "Obtain life insurance policy documents and fundraising records.",
+      "tags": [
+        "falsifiable",
+        "financial"
+      ],
+      "transcript_snippet": "Erika was set to receive $10 million from his work policy... Tucker Carlson raised $5.4 million for her.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_5",
+      "ref": "CLAIM_5",
+      "label": "Turning Point opened Las Vegas office",
+      "claim_timestamp": "16:52",
+      "claim": "Turning Point USA announced opening a new office in Las Vegas on a February 2025 corporate call.",
+      "anchored_artifacts": [
+        "ART_2.1"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_5"
+      ],
+      "investigative_direction": "Verify corporate announcements and Las Vegas business registration.",
+      "tags": [
+        "falsifiable",
+        "corporate_expansion"
+      ],
+      "transcript_snippet": "Got the keys to a new building that we have in Las Vegas.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_6",
+      "ref": "CLAIM_6",
+      "label": "Erika brings children to office",
+      "claim_timestamp": "17:50",
+      "claim": "Erika stated on corporate call that she brings her children to the office nine times out of ten.",
+      "anchored_artifacts": [
+        "ART_2.2"
+      ],
+      "related_nodes": [
+        "NODE_2"
+      ],
+      "investigative_direction": "Verify through additional sources or employee testimony.",
+      "tags": [
+        "falsifiable",
+        "behavior_claim"
+      ],
+      "transcript_snippet": "I bring my babies to the office nine times out of 10.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_7",
+      "ref": "CLAIM_7",
+      "label": "Erika dated Josh Harelson in 2013",
+      "claim_timestamp": "36:25",
+      "claim": "Erika dated basketball player Josh Harelson in 2013 and lived with him in China (Chongqing) during his overseas basketball season.",
+      "anchored_artifacts": [
+        "ART_5.1"
+      ],
+      "related_nodes": [
+        "NODE_2",
+        "NODE_7"
+      ],
+      "investigative_direction": "Verify through social media records, travel records, or testimony.",
+      "tags": [
+        "falsifiable",
+        "relationship_timeline"
+      ],
+      "transcript_snippet": "Erika begins dating Josh Harelson... she was there from June all the way through until at least August.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_8",
+      "ref": "CLAIM_8",
+      "label": "Erika auditioned for reality shows in 2014",
+      "claim_timestamp": "45:19",
+      "claim": "Erika auditioned for The Amazing Race and House of DVF in 2014, seeking fame before meeting Charlie.",
+      "anchored_artifacts": [
+        "ART_5.2",
+        "ART_5.3"
+      ],
+      "related_nodes": [
+        "NODE_2",
+        "NODE_10"
+      ],
+      "investigative_direction": "Obtain audition tapes and verify production records.",
+      "tags": [
+        "falsifiable",
+        "media_claims"
+      ],
+      "transcript_snippet": "I've lived in China. I've lived in Chongqing... I graduated with political science and international relations.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_9",
+      "ref": "CLAIM_9",
+      "label": "Tyler Bowyer appointed by Governor Jan Brewer",
+      "claim_timestamp": "26:43",
+      "claim": "Tyler Bowyer was appointed to the Arizona Board of Regents by Governor Jan Brewer in 2010, bypassing normal selection process.",
+      "anchored_artifacts": [
+        "ART_4.2"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_6",
+        "NODE_9"
+      ],
+      "investigative_direction": "Verify appointment records and compare to standard selection process.",
+      "tags": [
+        "falsifiable",
+        "political_appointment"
+      ],
+      "transcript_snippet": "Governor Jan Brewer abnormally just picked Tyler into the position.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_10",
+      "ref": "CLAIM_10",
+      "label": "Epstein donations to ASU before Bowyer appointment",
+      "claim_timestamp": "30:19",
+      "claim": "Jeffrey Epstein began donating to Arizona State University in December 2010, months before Tyler Bowyer was appointed to the Board of Regents.",
+      "anchored_artifacts": [
+        "ART_4.1",
+        "ART_4.2",
+        "ART_4.3"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_8",
+        "NODE_9",
+        "NODE_1003"
+      ],
+      "investigative_direction": "Obtain detailed Epstein donation records and compare timelines.",
+      "tags": [
+        "falsifiable",
+        "network_connection"
+      ],
+      "transcript_snippet": "Jeffrey Epstein began giving to Arizona State University in December of 2010... just a couple of months before Tyler gets elected to the board of regents.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_11",
+      "ref": "CLAIM_11",
+      "label": "International Relations major not available 2012",
+      "claim_timestamp": "28:05",
+      "claim": "Erika claims a Bachelor of Science in International Relations from ASU, but this major was not available at ASU in 2012 when she graduated.",
+      "anchored_artifacts": [
+        "ART_6.1"
+      ],
+      "related_nodes": [
+        "NODE_2",
+        "NODE_9",
+        "NODE_1004"
+      ],
+      "investigative_direction": "Obtain official ASU academic catalogs from 2012 and verify degree availability.",
+      "tags": [
+        "falsifiable",
+        "credential_claim"
+      ],
+      "transcript_snippet": "Bachelor of Science of International Relations was not yet available in 2012 at Arizona State University.",
+      "confidence": "high"
+    }
+  ]
+}

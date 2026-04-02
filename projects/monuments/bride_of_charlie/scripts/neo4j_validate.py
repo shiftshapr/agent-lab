@@ -78,36 +78,8 @@ VALIDATION_QUERIES = {
         """,
         "severity": "CRITICAL",
     },
-    "broken_artifact_references": {
-        "description": "Claims referencing non-existent artifacts",
-        "query": """
-            MATCH (c:Claim)
-            WHERE c.anchored_artifacts IS NOT NULL
-            UNWIND split(c.anchored_artifacts, ',') AS artifact_ref
-            WITH c, trim(artifact_ref) AS artifact_id
-            WHERE artifact_id <> '' AND NOT EXISTS {
-                MATCH (a:Artifact {id: artifact_id})
-            }
-            RETURN c.id AS claim_id, artifact_id AS missing_artifact, c.episode_num AS episode
-            ORDER BY c.id
-        """,
-        "severity": "CRITICAL",
-    },
-    "broken_node_references": {
-        "description": "Claims or artifacts referencing non-existent nodes",
-        "query": """
-            MATCH (c:Claim)
-            WHERE c.related_nodes IS NOT NULL
-            UNWIND split(c.related_nodes, ',') AS node_ref
-            WITH c, trim(node_ref) AS node_id
-            WHERE node_id <> '' AND NOT EXISTS {
-                MATCH (n) WHERE n.id = node_id AND (n:Person OR n:InvestigationTarget)
-            }
-            RETURN c.id AS claim_id, node_id AS missing_node, c.episode_num AS episode
-            ORDER BY c.id
-        """,
-        "severity": "CRITICAL",
-    },
+    # Note: ingest stores anchors/nodes as relationships only (no Claim string props).
+    # Broken ID references are prevented at ingest time; structural checks above cover orphans.
 }
 
 # ---------------------------------------------------------------------------
@@ -141,8 +113,8 @@ ID_RANGE_QUERIES = {
 # ---------------------------------------------------------------------------
 
 def run_validation(driver) -> bool:
-    """Run all validation queries and return True if all pass."""
-    all_passed = True
+    """Run all validation queries. Return True if no CRITICAL issues (WARNINGs are reported only)."""
+    critical_failed = False
     
     print("\n" + "=" * 80)
     print("OPENCLAW PROTOCOL INTEGRITY VALIDATION")
@@ -181,8 +153,10 @@ def run_validation(driver) -> bool:
             records = list(results)
         
         if records:
-            all_passed = False
-            print(f"  [{severity}] {description}")
+            tag = "CRITICAL" if severity == "CRITICAL" else "WARNING"
+            if severity == "CRITICAL":
+                critical_failed = True
+            print(f"  [{tag}] {description}")
             print(f"           Found {len(records)} issue(s):")
             for record in records[:10]:  # Limit to first 10
                 print(f"           - {dict(record)}")
@@ -193,13 +167,13 @@ def run_validation(driver) -> bool:
             print(f"  [PASS] {description}")
     
     print("\n" + "=" * 80)
-    if all_passed:
-        print("RESULT: ALL CHECKS PASSED ✓")
+    if not critical_failed:
+        print("RESULT: NO CRITICAL ISSUES ✓ (review WARNINGs above if any)")
     else:
-        print("RESULT: INTEGRITY ISSUES FOUND ✗")
+        print("RESULT: CRITICAL INTEGRITY ISSUES FOUND ✗")
     print("=" * 80 + "\n")
     
-    return all_passed
+    return not critical_failed
 
 
 def compute_investigative_pressure(driver):

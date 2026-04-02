@@ -1,0 +1,13 @@
+{
+  "name": "draft-editor-static-assets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:css": "tailwindcss -i ./tailwind-input.css -o ./static/tailwind.css --minify",
+    "build:css:all": "npm run build:css && node -e \"require('fs').copyFileSync('static/tailwind.css','../draft-editor/static/tailwind.css')\""
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "tailwindcss": "^4.1.18"
+  }
+}

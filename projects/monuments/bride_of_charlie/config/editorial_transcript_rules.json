@@ -1,0 +1,105 @@
+{
+  "description": "Ordered regex replacements for scholarly editorial pass. First match wins per rule pass; put specific phrases before generic \\bKent wasn\\b. Use flags: IGNORECASE, MULTILINE, DOTALL.",
+  "rules": [
+    {
+      "pattern": "\\bTesaract\\b",
+      "repl": "Tesseract",
+      "comment": "School / brand canonical spelling (house style); matches transcript STT 'Tesaract' and mixed 'Tesseract' lines"
+    },
+    {
+      "pattern": "referring to them as far and\\r?\\n\\[00:10\\] morear\\.",
+      "repl": "referring to them as farmor and\n[00:10] morfar.",
+      "comment": "Ep2 cold open: STT split farfar/morfar across captions"
+    },
+    {
+      "pattern": "Kent wasn Feay",
+      "repl": "Kent Frantzve",
+      "comment": "STT Frantzve → wasn Feay"
+    },
+    {
+      "pattern": "Kent wasn Fay",
+      "repl": "Kent Frantzve",
+      "comment": "STT Frantzve → wasn Fay"
+    },
+    {
+      "pattern": "Kent Bronzeface's",
+      "repl": "Kent Frantzve's",
+      "comment": "Ep2 if STT includes Kent"
+    },
+    {
+      "pattern": "\\bBronzeface's\\b",
+      "repl": "Frantzve's",
+      "comment": "Ep2 caption line: Bronzeface's first wife"
+    },
+    {
+      "pattern": "Kent wasn of the American Bank Note",
+      "repl": "Kent Frantzve of the American Bank Note",
+      "comment": "Ep1 lottery photo caption"
+    },
+    {
+      "pattern": "Kenton Lorie France",
+      "repl": "Kent and Lori Frantzve",
+      "comment": "STT: Kenton Lorie France → Kent and Lori Frantzve (before Lorie France sweep)"
+    },
+    {
+      "pattern": "\\bLorie France\\b",
+      "repl": "Lori Frantzve",
+      "comment": "Canonical: Lori Frantzve (not country France; Lorie is STT for Lori)"
+    },
+    {
+      "pattern": "\\bFrance Baststein\\b",
+      "repl": "Frantzvestein",
+      "comment": "Ep5 ~01:31: Candace pun (Frantzve + Frankenstein); STT wrote France Baststein—do NOT replace with a real psychologist name"
+    },
+    {
+      "pattern": "France, Gwinta\\. She's even divorced",
+      "repl": "Frantzve, Guinta. She's even divorced",
+      "comment": "Ep4 ~11:43: Lori married-name chain; 'France' is STT for Frantzve, not the country"
+    },
+    {
+      "pattern": "\\bGwinta\\b",
+      "repl": "Guinta",
+      "comment": "Ep4+: host-preferred spelling for Larry's surname (after France,Gwinta fix)"
+    },
+    {
+      "pattern": "wrote, \"Thanks alumni Erika France for\\r?\\n\\[01:51\\] sharing the importance of being an\\r?\\n\\[01:53\\] everyday hero\\. AOPA pride\\.\"",
+      "repl": "wrote, \"Thanks alumni @ErikaFrantzve for\n[01:51] sharing the everyday hero.\n[01:53] #CocopahPRIDE.\"",
+      "flags": ["MULTILINE"],
+      "comment": "Ep6 ~01:49: screenshot tweet uses @ErikaFrantzve + #CocopahPRIDE (STT: France/AOPA wrong)"
+    },
+    {
+      "pattern": "wrote, \"Thanks alumni Erica France for\\r?\\n\\[01:51\\] sharing the importance of being an\\r?\\n\\[01:53\\] everyday hero\\. AOPA pride\\.\"",
+      "repl": "wrote, \"Thanks alumni @ErikaFrantzve for\n[01:51] sharing the everyday hero.\n[01:53] #CocopahPRIDE.\"",
+      "flags": ["MULTILINE"],
+      "comment": "Ep6: raw STT spelling Erica + France; same Cocopah tweet correction"
+    },
+    {
+      "pattern": "separation agreement Kent wasn\\b",
+      "repl": "separation agreement Kent Frantzve",
+      "comment": "Ep1 legal docs"
+    },
+    {
+      "pattern": "her father, Kent wasn, is",
+      "repl": "her father, Kent Frantzve, is",
+      "comment": "Ep3 bio / listing"
+    },
+    {
+      "pattern": "\\bKent wasn\\b",
+      "repl": "Kent Frantzve",
+      "comment": "Catch-all: STT 'wasn't' / Frantzve → wasn"
+    },
+    {
+      "pattern": "people naming their schools looking\\? I'm",
+      "repl": "people naming their schools looking...? I'm",
+      "comment": "Ep1 ~58:19 readability"
+    },
+    { "pattern": "\\bErica\\b", "repl": "Erika", "comment": "House style" },
+    { "pattern": "\\bCandice\\b", "repl": "Candace", "comment": "Host" },
+    { "pattern": "\\bLor's\\b", "repl": "Lori's", "comment": "Lori Frantzve (also fixes Lor's lawyer, etc.)" },
+    { "pattern": "\\bfarf far\\b", "repl": "farfar", "comment": "Swedish" },
+    { "pattern": "\\bmore far far far\\b", "repl": "morfar–farfar", "comment": "Scandal phrase" },
+    { "pattern": "\\bThe more far far scandal\\b", "repl": "The morfar–farfar scandal", "comment": "Callback" },
+    { "pattern": "\\bfarars and more farARs\\b", "repl": "farfars and morfars", "comment": "Ep2 if phrase still appears" },
+    { "pattern": "\\bmore far or far\\b", "repl": "morfar or farfar", "comment": "Ep2+" }
+  ]
+}

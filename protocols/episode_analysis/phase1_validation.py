@@ -7,8 +7,11 @@ Used after LLM extraction (before persisting Phase 1) and optionally before Phas
 from __future__ import annotations
 
 import re
+import sys
 from pathlib import Path
 from typing import Any
+
+_warned_missing_jsonschema = False
 
 _ART_FAMILY = re.compile(r"^ART_\d+$")
 _ART_SUB = re.compile(r"^ART_\d+\.\d+$")
@@ -117,10 +120,19 @@ def check_reference_integrity(data: dict[str, Any], label: str = "") -> list[str
 
 def validate_json_schema(data: dict[str, Any], schema_path: Path) -> list[str]:
     """Validate data against JSON Schema; return error lines."""
+    global _warned_missing_jsonschema
     try:
         import jsonschema
     except ImportError:
-        return ["jsonschema not installed; pip/uv add jsonschema"]
+        if not _warned_missing_jsonschema:
+            print(
+                "[phase1_validation] jsonschema not installed — skipping JSON Schema check "
+                "(reference integrity still runs). Fix: from agent-lab root run `uv sync`, "
+                "or `pip install jsonschema`, or use `uv run python ...`.",
+                file=sys.stderr,
+            )
+            _warned_missing_jsonschema = True
+        return []
 
     try:
         import json

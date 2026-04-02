@@ -1,0 +1,28 @@
+---
+description: Use git worktrees for parallel agent sessions and large refactors so trees do not stomp each other
+alwaysApply: true
+---
+
+# Git worktrees and parallel work
+
+For **multiple Cursor/agent sessions**, **large migrations**, or **several experimental branches at once**, prefer **one git worktree per parallel line of work** instead of many agents editing the same checkout.
+
+## When to use worktrees
+
+- Parallel refactors (e.g. deer-flow backend vs. monument scripts).
+- Long-running experiments while `main` stays clean for small fixes.
+- Multiple agents or terminals that would otherwise conflict on the same working tree.
+
+## Where to read the full playbook
+
+Commands, naming, cleanup, and agent-lab-oriented examples: **`docs/GIT_WORKTREES_PARALLEL_AGENTS.md`**.
+
+## Quick pattern
+
+```bash
+# From agent-lab repo root (example)
+git fetch origin
+git worktree add ../agent-lab-wt-deerflow -b experiment/deerflow-async origin/main
+```
+
+Worktrees can also live under a ignored path such as `.git-worktrees/<name>/` if you prefer them inside the tree; see the doc for tradeoffs.

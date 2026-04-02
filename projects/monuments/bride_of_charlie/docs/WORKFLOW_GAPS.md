@@ -9,9 +9,9 @@ Things that were **not persisted** or **not completed** in previous runs — and
 **Previously:** `verify_drafts` found name corrections but they were never imported or applied to transcripts.
 
 **Fix applied:**
-- Stage 1.3: Apply corrections to transcripts **before** clearing Neo4j
+- Stage 1.3: Build `transcripts_corrected/` from raw `transcripts/` **before** clearing Neo4j (raw never overwritten)
 - Stage 1.4: Clear graph but **preserve** `NameCorrection` nodes
-- Stage 4.2b: After verify, run `import-from-verify` and `apply-dir` so new findings are saved to transcripts for the next run
+- Stage 4.2b: After verify, run `import-from-verify` and `apply-dir` → refresh `transcripts_corrected/` for the next pass
 
 ---
 

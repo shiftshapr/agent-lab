@@ -85,6 +85,27 @@ Every change we make is logged:
 
 ---
 
+## Phase 2 batch: regenerate drafts + stable `N-*` across episodes
+
+`scripts/assign_ids.py` can rebuild `drafts/` and `inscription/` from `phase1_output/` in **episode order** with:
+
+- **`--fresh-ledger`** — do not scan existing drafts/Neo4j for max IDs; start artifacts at **A-1000**, claims at **C-1000**, people at **N-1**, investigation-style nodes at **N-1000**.
+- **Cross-episode node dedupe (batch default)** — same **normalized** `name` + same bucket (**person** vs **investigation**) reuses the existing **`N-*`** within the run. Use **`--no-dedupe-nodes`** for the old “every `NODE_*` gets a new number” behavior.
+- **`--canonical-nodes FILE`** — optional seed: preload aliases and IDs from `canonical/nodes.json` before processing (defaults to project `canonical/nodes.json` if that file exists).
+- **`--episode-output-names`** — write `drafts/episode_NNN.md` and `inscription/episode_NNN.json` instead of long phase-1 stems.
+
+Example (full series regenerate):
+
+```bash
+cd projects/monuments/bride_of_charlie
+python3 scripts/assign_ids.py --batch phase1_output/ --drafts drafts/ \
+  --fresh-ledger --episode-output-names
+```
+
+Back up `drafts/` and `inscription/` first if you need the previous files.
+
+---
+
 ## Canonical Nodes Schema
 
 ```json

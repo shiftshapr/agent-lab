@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "description": "Fed into transcript_sense_scan LLM system prompt. Edit to match your ledger / house style.",
+  "series": "Bride of Charlie (investigative podcast, YouTube captions)",
+  "host": {
+    "canonical": "Candace",
+    "stt_often": ["Candice"]
+  },
+  "family_core": [
+    {
+      "canonical": "Erika Frantzve",
+      "notes": "Maiden / bio surname; on camera often Erika Kirk after marriage.",
+      "stt_often": ["Erika France", "Erica", "Erika Fron"]
+    },
+    {
+      "canonical": "Lori Frantzve",
+      "stt_often": ["Lorie France", "Lorie Fron", "Lorie Abbis"]
+    },
+    {
+      "canonical": "Kent Frantzve",
+      "stt_often": ["Kent wasn", "Kent Bronzeface", "Bronzeface", "Kenneth Fron"]
+    },
+    {
+      "canonical": "Kent and Lori Frantzve",
+      "stt_often": ["Kenton Lorie France"]
+    },
+    {
+      "canonical": "Dr. Jerry Frantzve",
+      "notes": "Stepmother line; also Jerry Frantzve.",
+      "stt_often": ["Dr. Jerry France", "Jerry France", "Jerry Fron", "Dr. Jerry Fron", "Jerry Fronbay"]
+    }
+  ],
+  "institutions_and_programs": [
+    {
+      "canonical": "Tesseract School",
+      "notes": "Paradise Valley area school; STT varies. Project house spelling: Tesseract. Investigation node name should use this canonical form.",
+      "stt_often": ["Tesaract", "Tesseract", "Tesaract School", "Tesseract School"]
+    },
+    {
+      "canonical": "MK Ultra",
+      "notes": "Historical CIA program; always emit an InvestigationTarget node when substantively discussed.",
+      "stt_often": ["MKUltra", "MK ultra", "Mk Ultra"]
+    },
+    {
+      "canonical": "CIA Project Looking Glass",
+      "notes": "When the episode refers to the CIA program by this name, use a dedicated InvestigationTarget; do not subsume under a school node.",
+      "stt_often": ["Project Looking Glass", "Looking Glass"]
+    }
+  ],
+  "surname_stt": [
+    {
+      "canonical": "Frantzve",
+      "stt_often": ["France (when clearly a person name, not the country)", "Fron", "Franz", "Frantzv"]
+    },
+    {
+      "canonical": "Frantzvestein",
+      "notes": "Intentional Candace pun ep5 (~1:31); not a real psychologist.",
+      "stt_often": ["France Baststein"]
+    },
+    {
+      "canonical": "Guinta",
+      "stt_often": ["Gwinta", "Ginta"]
+    }
+  ],
+  "swedish_kinship": [
+    "farfar",
+    "mormor",
+    "farmor",
+    "morfar"
+  ],
+  "instructions_for_model": [
+    "Flag 'Tesaract' when it refers to the school and suggested_fix should use 'Tesseract' per institutions_and_programs.",
+    "If the transcript uses an stt_often form in a name context, flag it (usually high severity) and suggested_fix should use the canonical spelling.",
+    "Do NOT flag correct canonical spellings as errors.",
+    "Country 'France' in geopolitical context is fine; 'France' as a stand-in for Frantzve in a name list is an error.",
+    "Rhetoric and opinions are not errors."
+  ]
+}

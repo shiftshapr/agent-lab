@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.agentlab.shiftshapr</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>AGENT_LAB_ROOT/.venv/bin/python</string>
+    <string>AGENT_LAB_ROOT/agents/shiftshapr/shiftshapr.py</string>
+    <string>--port</string>
+    <string>8080</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>AGENT_LAB_ROOT</string>
+  <key>RunAtLoad</key>
+  <true/>
+  <key>KeepAlive</key>
+  <true/>
+  <key>StandardOutPath</key>
+  <string>AGENT_LAB_ROOT/logs/shiftshapr.log</string>
+  <key>StandardErrorPath</key>
+  <string>AGENT_LAB_ROOT/logs/shiftshapr.err</string>
+</dict>
+</plist>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Calendar (embed)</title>
+  <link rel="stylesheet" href="tailwind.css">
+</head>
+<body class="bg-slate-950 text-slate-200 min-h-screen p-4">
+  <div class="max-w-lg mx-auto">
+    <h1 class="text-lg font-semibold text-white mb-1">Upcoming</h1>
+    <p class="text-slate-500 text-sm mb-4">Read-only view. Token required in URL: <code class="text-amber-400/90">?token=…</code></p>
+    <div id="status" class="text-amber-400 text-sm mb-4"></div>
+    <ul id="list" class="space-y-2 text-sm"></ul>
+    <p class="text-slate-600 text-xs mt-6">Powered by agent-lab master calendar</p>
+  </div>
+  <script>
+    const params = new URLSearchParams(location.search);
+    const token = params.get('token') || '';
+    const tag = params.get('tag') || '';
+    const list = document.getElementById('list');
+    const status = document.getElementById('status');
+    if (!token) {
+      status.textContent = 'Missing token. Open this page with ?token=YOUR_CALENDAR_EMBED_TOKEN';
+    } else {
+      status.textContent = 'Loading…';
+      let url = '/api/calendar/public?token=' + encodeURIComponent(token);
+      if (tag) url += '&tag=' + encodeURIComponent(tag);
+      fetch(url)
+        .then(r => r.json().then(j => ({ ok: r.ok, j })))
+        .then(({ ok, j }) => {
+          status.textContent = '';
+          if (!ok) {
+            status.textContent = j.error || 'Failed to load';
+            return;
+          }
+          const evs = j.events || [];
+          if (!evs.length) {
+            list.innerHTML = '<li class="text-slate-500">No events in range.</li>';
+            return;
+          }
+          list.innerHTML = evs.map(ev => {
+            const when = ev.starts_at ? new Date(ev.starts_at).toLocaleString() : '';
+            const tags = (ev.tags || []).map(t => '<span class="text-xs bg-slate-800 px-1 rounded mr-1">' + escapeHtml(t) + '</span>').join('');
+            return '<li class="border border-slate-800 rounded-lg p-3 bg-slate-900/80">' +
+              '<div class="text-amber-400/90 text-xs">' + escapeHtml(when) + '</div>' +
+              '<div class="font-medium text-white mt-1">' + escapeHtml(ev.title || '') + '</div>' +
+              (tags ? '<div class="mt-2">' + tags + '</div>' : '') +
+              '</li>';
+          }).join('');
+        })
+        .catch(e => { status.textContent = String(e.message || e); });
+    }
+    function escapeHtml(s) {
+      if (!s) return '';
+      return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+  </script>
+</body>
+</html>

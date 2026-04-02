@@ -1,0 +1,1922 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Draft Editor</title>
+  <link href="https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/quill.snow.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/quill.min.js"></script>
+  <link rel="stylesheet" href="tailwind.css">
+  <style>
+    .ql-toolbar.ql-snow { background: #334155; border-color: #475569; }
+    .ql-toolbar .ql-stroke { stroke: #94a3b8; }
+    .ql-toolbar .ql-fill { fill: #94a3b8; }
+    .ql-toolbar .ql-picker { color: #94a3b8; }
+    .ql-toolbar .ql-picker-options { background: #334155; }
+    .ql-container.ql-snow { border-color: #475569; background: #1e293b; }
+    .ql-editor { color: #e2e8f0; }
+    .ql-editor.ql-blank::before { color: #64748b; }
+    @media (max-width: 640px) { .ql-toolbar.ql-snow .ql-formats { margin-right: 4px; } }
+  </style>
+</head>
+<body class="bg-slate-900 min-h-screen text-slate-200 overflow-x-hidden">
+  <div class="max-w-6xl mx-auto p-3 sm:p-4 w-full">
+    <header class="flex flex-wrap gap-3 justify-between items-center mb-4 sm:mb-6">
+      <h1 class="text-lg sm:text-xl font-semibold text-slate-100">Draft Editor</h1>
+      <div class="flex flex-wrap gap-2 items-center">
+        <div class="flex flex-wrap gap-1 text-sm">
+          <button id="view-promos" type="button" class="px-2.5 sm:px-3 py-2 rounded bg-slate-600 touch-manipulation">Promos</button>
+          <button id="view-desirable" type="button" class="px-2.5 sm:px-3 py-2 rounded hover:bg-slate-600 touch-manipulation" title="Drafts tagged desirable_property (DP work)">Desirable properties</button>
+          <button id="view-substack" type="button" class="px-2.5 sm:px-3 py-2 rounded hover:bg-slate-600 touch-manipulation">Substack</button>
+          <button id="view-replies" type="button" class="px-2.5 sm:px-3 py-2 rounded hover:bg-slate-600 touch-manipulation">Replies</button>
+          <button id="view-calendar" type="button" class="px-2.5 sm:px-3 py-2 rounded hover:bg-slate-600 touch-manipulation" title="Master calendar + work log">Calendar</button>
+          <button id="view-transcripts" type="button" class="px-2.5 sm:px-3 py-2 rounded hover:bg-slate-600 touch-manipulation" title="Bride: proposed transcript fixes (STT overrides)">Transcripts</button>
+        </div>
+        <div id="promos-header" class="relative">
+          <button id="new-draft-btn" class="px-2.5 sm:px-3 py-2 bg-slate-600 text-white rounded text-sm hover:bg-slate-500 touch-manipulation">New Promo ▼</button>
+          <div id="new-draft-menu" class="hidden absolute right-0 mt-1 py-1 bg-slate-800 border border-slate-600 rounded shadow-lg z-10 min-w-[200px] max-w-[min(220px,90vw)]"></div>
+        </div>
+      </div>
+    </header>
+
+    <div id="promos-view" class="grid grid-cols-1 lg:grid-cols-3 gap-3 sm:gap-4">
+      <aside class="lg:col-span-1 order-2 lg:order-1">
+        <div class="bg-slate-800 rounded-lg shadow-lg p-3 sm:p-4 border border-slate-700">
+          <h2 id="promos-aside-title" class="font-medium text-slate-200 mb-3">Promos</h2>
+          <div id="draft-list" class="space-y-2 max-h-[40vh] sm:max-h-[50vh] lg:max-h-[60vh] overflow-y-auto -mx-1 px-1"></div>
+        </div>
+      </aside>
+
+      <main class="lg:col-span-2 space-y-3 sm:space-y-4 order-1 lg:order-2 min-w-0">
+        <div id="empty-state" class="bg-slate-800 rounded-lg shadow-lg p-6 sm:p-8 text-center text-slate-400 border border-slate-700">
+          Select a draft or create a new one
+        </div>
+        <div id="editor-panel" class="hidden">
+          <div class="bg-slate-800 rounded-lg shadow-lg p-3 sm:p-4 border border-slate-700 overflow-hidden">
+            <div class="flex flex-col gap-3 mb-3">
+              <div class="flex flex-col gap-1.5 min-w-0">
+                <label class="text-sm text-slate-400" for="destination-select">Publishing to:</label>
+                <select id="destination-select" class="bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm w-full min-w-0 max-w-full">
+                  <option value="">— Select profile —</option>
+                </select>
+              </div>
+              <div class="flex flex-col-reverse sm:flex-row sm:flex-wrap sm:items-center sm:justify-between gap-2 min-w-0">
+                <span id="draft-meta-extra" class="text-xs text-slate-400 order-2 sm:order-1 min-w-0 break-words"></span>
+                <div class="flex flex-wrap gap-2 order-1 sm:order-2 sm:justify-end">
+                <button id="save-btn" class="px-3 py-2 bg-slate-600 text-slate-200 rounded text-sm hover:bg-slate-500 touch-manipulation">Save</button>
+                <div id="improve-container" class="relative">
+                  <button id="improve-btn" class="px-3 py-2 bg-amber-600 text-slate-900 rounded text-sm hover:bg-amber-500 font-medium touch-manipulation">Improve ▼</button>
+                  <div id="improve-menu" class="hidden absolute left-0 sm:left-auto sm:right-0 mt-1 py-1 bg-slate-800 border border-slate-600 rounded shadow-lg z-20 min-w-[180px] max-w-[min(220px,90vw)]">
+                    <button class="improve-option block w-full text-left px-3 py-2 text-sm text-slate-200 hover:bg-slate-700" data-aspect="opening">Opening</button>
+                    <button class="improve-option block w-full text-left px-3 py-2 text-sm text-slate-200 hover:bg-slate-700" data-aspect="problem">Problem</button>
+                    <button class="improve-option block w-full text-left px-3 py-2 text-sm text-slate-200 hover:bg-slate-700" data-aspect="solution">Solution</button>
+                    <button class="improve-option block w-full text-left px-3 py-2 text-sm text-slate-200 hover:bg-slate-700" data-aspect="meta_layer">Meta-layer section</button>
+                    <button class="improve-option block w-full text-left px-3 py-2 text-sm text-slate-200 hover:bg-slate-700" data-aspect="cta">CTA</button>
+                    <button id="improve-custom-btn" class="block w-full text-left px-3 py-2 text-sm text-slate-200 hover:bg-slate-700 border-t border-slate-600">Custom...</button>
+                  </div>
+                </div>
+                <button id="publish-btn" class="px-3 py-2 bg-emerald-600 text-white rounded text-sm hover:bg-emerald-500 touch-manipulation">Publish</button>
+                </div>
+              </div>
+            </div>
+            <div class="flex flex-wrap items-end gap-2 mb-3 pb-3 border-b border-slate-600">
+              <div class="min-w-0 flex-1 sm:flex-initial">
+                <label class="text-xs text-slate-400 block mb-1">Schedule publish</label>
+                <input type="datetime-local" id="draft-schedule-at" class="bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm w-full max-w-[220px]" />
+              </div>
+              <button type="button" id="draft-sync-calendar-btn" class="px-3 py-2 bg-sky-600 text-white rounded text-sm hover:bg-sky-500 touch-manipulation">Sync to calendar</button>
+              <span class="text-xs text-slate-500 max-w-xs">Saves time on the draft + adds a master calendar entry for agents &amp; alerts.</span>
+            </div>
+            <div id="editor" class="min-h-[180px] sm:min-h-[200px] min-w-0"></div>
+
+            <div id="whatsapp-inline-panel" class="hidden mt-4 pt-4 border-t border-slate-600 space-y-3">
+              <h3 class="font-medium text-green-400/95 text-sm flex items-center gap-2">WhatsApp <span class="text-slate-500 font-normal">(hybrid — paste by hand)</span></h3>
+              <p class="text-slate-400 text-xs leading-relaxed">
+                API blasts to large groups are billed per member. Copy the plain text below, open WhatsApp, pick your chat or group, paste, and send.
+                <span class="text-slate-500"> Use <strong class="text-slate-400">Publish</strong> to mark intent or scroll here after publish.</span>
+              </p>
+              <div class="flex flex-wrap gap-2">
+                <button type="button" id="whatsapp-refresh-btn" class="px-3 py-2 bg-slate-600 text-slate-200 rounded text-sm hover:bg-slate-500 touch-manipulation">Sync from editor</button>
+                <button type="button" id="whatsapp-copy-btn" class="px-3 py-2 bg-emerald-600 text-white rounded text-sm hover:bg-emerald-500 touch-manipulation">Copy message</button>
+                <button type="button" id="whatsapp-open-btn" class="px-3 py-2 bg-green-700 text-white rounded text-sm hover:bg-green-600 touch-manipulation" title="Prefills short messages; long ones open web WhatsApp">Open WhatsApp</button>
+                <button type="button" id="whatsapp-copy-open-btn" class="px-3 py-2 bg-teal-700 text-white rounded text-sm hover:bg-teal-600 touch-manipulation">Copy &amp; open</button>
+              </div>
+              <p id="whatsapp-copy-feedback" class="text-emerald-400/95 text-xs min-h-[1rem]" aria-live="polite"></p>
+              <label class="block text-xs text-slate-500 mb-1" for="whatsapp-proposed-text">Plain text for WhatsApp (editable)</label>
+              <textarea id="whatsapp-proposed-text" rows="10" class="w-full bg-slate-900 text-slate-200 border border-slate-600 rounded px-3 py-2 text-sm font-mono min-h-[8rem]" placeholder="Choose &ldquo;WhatsApp · hybrid&rdquo; above, then Sync from editor."></textarea>
+              <p id="whatsapp-char-hint" class="text-xs text-slate-500"></p>
+            </div>
+          </div>
+          <div class="bg-slate-800 rounded-lg shadow-lg p-3 sm:p-4 border border-slate-700">
+            <h3 class="font-medium text-slate-200 mb-2">History</h3>
+            <div id="history-list" class="text-sm text-slate-400 space-y-1 max-h-32 overflow-y-auto"></div>
+          </div>
+        </div>
+      </main>
+    </div>
+
+    <div id="replies-view" class="hidden">
+      <div class="bg-slate-800 rounded-lg shadow-lg p-4 sm:p-6 border border-slate-700">
+        <div class="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-3 mb-4">
+          <h2 class="font-medium text-slate-200">Replies</h2>
+          <div class="flex flex-wrap gap-2">
+            <select id="replies-publication-select" class="bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm flex-1 sm:flex-initial min-w-0"></select>
+            <button id="replies-fetch-btn" class="px-4 py-2 bg-amber-600 hover:bg-amber-500 text-white rounded font-medium text-sm touch-manipulation whitespace-nowrap">Fetch comments</button>
+          </div>
+        </div>
+        <p class="text-slate-400 text-sm mb-4">Unreplied Substack comments. Draft responses to the editor.</p>
+        <div id="replies-loading" class="hidden text-amber-400 text-sm mb-4">Fetching comments…</div>
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-6">
+          <div class="min-w-0">
+            <h3 class="font-medium text-slate-300 mb-2">Unreplied comments</h3>
+            <div id="replies-unreplied-list" class="space-y-3 max-h-[45vh] sm:max-h-[50vh] overflow-y-auto"></div>
+          </div>
+          <div class="min-w-0">
+            <h3 class="font-medium text-slate-300 mb-2">Reply drafts</h3>
+            <div id="replies-drafts-list" class="space-y-2 max-h-[45vh] sm:max-h-[50vh] overflow-y-auto"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="calendar-view" class="hidden">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-6">
+        <div class="bg-slate-800 rounded-lg shadow-lg p-4 sm:p-6 border border-slate-700">
+          <h2 class="font-medium text-slate-200 mb-2">Master calendar</h2>
+          <p class="text-slate-400 text-sm mb-4">Internal source of truth for agents + you. Optional: <code class="text-amber-400/90">CALENDAR_EMBED_TOKEN</code> → public JSON + <code class="text-amber-400/90">/api/calendar/feed.ics</code> for phone/watch. Embed: <a class="text-sky-400 hover:underline" href="/calendar-embed.html" target="_blank" rel="noopener">calendar-embed.html?token=…</a></p>
+          <div class="flex flex-wrap gap-2 items-center mb-4">
+            <button type="button" id="calendar-refresh-btn" class="px-3 py-2 bg-slate-600 text-slate-200 rounded text-sm hover:bg-slate-500">Refresh</button>
+            <label class="text-sm text-slate-400 flex items-center gap-2">
+              Filter
+              <select id="cal-tag-filter" class="bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm">
+                <option value="">All projects</option>
+                <option value="meta-layer">meta-layer</option>
+                <option value="canopi">canopi</option>
+                <option value="general">general</option>
+              </select>
+            </label>
+          </div>
+          <h3 class="text-sm font-medium text-slate-300 mb-2">Upcoming</h3>
+          <div id="calendar-events-list" class="space-y-2 max-h-[50vh] overflow-y-auto text-sm"></div>
+          <h3 class="text-sm font-medium text-slate-300 mt-6 mb-2">Add event</h3>
+          <div class="space-y-2">
+            <input type="text" id="cal-new-title" placeholder="Title" class="w-full bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm" />
+            <select id="cal-new-kind" class="w-full bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm">
+              <option value="alert">Alert</option>
+              <option value="post_schedule">Post / publish</option>
+              <option value="reminder">Reminder</option>
+              <option value="block">Focus block</option>
+              <option value="other">Other</option>
+            </select>
+            <input type="datetime-local" id="cal-new-starts" class="w-full bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm" />
+            <textarea id="cal-new-notes" rows="2" placeholder="Notes (optional)" class="w-full bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm"></textarea>
+            <div class="text-xs text-slate-500">Project tags</div>
+            <div class="flex flex-wrap gap-3 text-sm text-slate-300">
+              <label class="flex items-center gap-1.5 cursor-pointer"><input type="checkbox" class="cal-new-tag rounded border-slate-500" value="meta-layer" /> meta-layer</label>
+              <label class="flex items-center gap-1.5 cursor-pointer"><input type="checkbox" class="cal-new-tag rounded border-slate-500" value="canopi" /> canopi</label>
+              <label class="flex items-center gap-1.5 cursor-pointer"><input type="checkbox" class="cal-new-tag rounded border-slate-500" value="general" /> general</label>
+            </div>
+            <label class="block text-sm text-slate-400">Reminder (minutes before, optional)
+              <input type="number" id="cal-new-alert" min="0" max="10080" placeholder="e.g. 15" class="mt-1 w-full bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm" />
+            </label>
+            <button type="button" id="cal-new-submit" class="px-4 py-2 bg-emerald-600 text-white rounded text-sm hover:bg-emerald-500">Add to calendar</button>
+          </div>
+        </div>
+        <div class="bg-slate-800 rounded-lg shadow-lg p-4 sm:p-6 border border-slate-700">
+          <h2 class="font-medium text-slate-200 mb-2">Work log</h2>
+          <p class="text-slate-400 text-sm mb-4">What you&rsquo;re starting, finishing, or noting — plus links or file paths to ingest later.</p>
+          <div class="space-y-2 mb-4">
+            <select id="wl-status" class="w-full bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm">
+              <option value="started">Starting</option>
+              <option value="finished">Finished</option>
+              <option value="note" selected>Note</option>
+            </select>
+            <textarea id="wl-text" rows="4" placeholder="Say what you&rsquo;re working on or wrapped up…" class="w-full bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm"></textarea>
+            <textarea id="wl-links" rows="3" placeholder="URLs or paths (one per line) for ingestion" class="w-full bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm font-mono text-xs"></textarea>
+            <input type="text" id="wl-tags" placeholder="Tags (comma-separated: meta-layer, canopi)" class="w-full bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm" />
+            <label class="flex items-center gap-2 text-sm text-slate-300 cursor-pointer">
+              <input type="checkbox" id="wl-ingest" checked class="rounded border-slate-500" />
+              Mark for ingestion (agents can pick up from work log)
+            </label>
+            <button type="button" id="wl-submit" class="px-4 py-2 bg-amber-600 text-slate-900 rounded text-sm hover:bg-amber-500 font-medium">Save entry</button>
+          </div>
+          <h3 class="text-sm font-medium text-slate-300 mb-2">Recent</h3>
+          <div id="work-log-list" class="space-y-3 max-h-[45vh] overflow-y-auto text-sm"></div>
+        </div>
+      </div>
+    </div>
+
+    <div id="substack-view" class="hidden">
+      <div class="bg-slate-800 rounded-lg shadow-lg p-4 sm:p-6 border border-slate-700">
+        <div class="flex flex-col sm:flex-row sm:flex-wrap sm:justify-between sm:items-center gap-3 mb-4">
+          <div class="flex flex-wrap gap-2 sm:gap-3 items-center">
+            <h2 id="substack-title" class="font-medium text-slate-200">Substack</h2>
+            <select id="substack-publication-select" class="bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm min-w-[120px] sm:min-w-[140px]"></select>
+          </div>
+          <button id="substack-refresh-btn" class="px-4 py-2 bg-amber-600 hover:bg-amber-500 text-white rounded font-medium text-sm touch-manipulation self-start sm:self-auto">Refresh</button>
+        </div>
+        <p class="text-slate-400 text-sm mb-4">Cached links. Display loads instantly; Refresh merges new items in the background.</p>
+        <div id="substack-refreshing" class="hidden text-amber-400 text-sm mb-4">Refreshing in background…</div>
+        <div id="substack-error" class="hidden text-amber-500 text-sm mb-4"></div>
+        <div class="flex flex-wrap gap-2 mb-4">
+          <a id="substack-scheduled-link" href="#" target="_blank" class="inline-block px-4 py-2 bg-amber-600 hover:bg-amber-500 text-white rounded font-medium text-sm touch-manipulation">Open scheduled →</a>
+          <a id="substack-drafts-link" href="#" target="_blank" class="inline-block px-4 py-2 bg-slate-600 hover:bg-slate-500 text-white rounded font-medium text-sm touch-manipulation">Open drafts →</a>
+          <a id="substack-published-link" href="#" target="_blank" class="inline-block px-4 py-2 bg-slate-600 hover:bg-slate-500 text-white rounded font-medium text-sm touch-manipulation">Open published →</a>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 sm:gap-6">
+          <div class="min-w-0">
+            <h3 class="font-medium text-amber-300 mb-2">Scheduled</h3>
+            <div id="substack-scheduled-list" class="space-y-2"></div>
+          </div>
+          <div class="min-w-0">
+            <h3 class="font-medium text-slate-300 mb-2">Drafts</h3>
+            <div id="substack-drafts-list" class="space-y-2"></div>
+          </div>
+          <div class="min-w-0">
+            <h3 class="font-medium text-slate-300 mb-2">Published</h3>
+            <div id="substack-published-list" class="space-y-2"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="transcripts-view" class="hidden">
+      <div class="bg-slate-800 rounded-lg shadow-lg p-4 sm:p-6 border border-slate-700">
+        <div class="flex flex-col sm:flex-row sm:flex-wrap sm:justify-between sm:items-start gap-3 mb-4">
+          <div>
+            <h2 class="font-medium text-slate-200">Transcript overrides</h2>
+            <p class="text-slate-400 text-sm mt-1 max-w-2xl">Human-curated fixes after STT + Neo4j name pass + editorial regex. <strong class="text-amber-400/90">Scan</strong> (heuristic / LLM) → <strong class="text-amber-400/90">Queue</strong> proposals → edit or <strong class="text-rose-400/90">reject</strong> → <strong class="text-emerald-400/90">Accept &amp; apply</strong> writes files + syncs hashes. Pipeline: <code class="text-xs bg-slate-900 px-1 rounded">apply-dir → editorial → overrides → sync</code>. JSON: <code id="to-store-path" class="text-xs text-sky-400/90 break-all"></code></p>
+          </div>
+          <div class="flex flex-wrap gap-2">
+            <select id="to-filter" class="bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm">
+              <option value="all">All</option>
+              <option value="proposed" selected>Proposed</option>
+              <option value="accepted">Accepted</option>
+              <option value="rejected">Rejected</option>
+            </select>
+            <button type="button" id="to-refresh-btn" class="px-3 py-2 bg-slate-600 text-slate-200 rounded text-sm hover:bg-slate-500">Refresh</button>
+            <button type="button" id="to-apply-all-btn" class="px-3 py-2 bg-emerald-600 text-white rounded text-sm hover:bg-emerald-500">Apply all accepted</button>
+          </div>
+        </div>
+        <div id="to-error" class="hidden text-red-400 text-sm mb-4"></div>
+        <div id="to-global-log" class="hidden text-xs font-mono text-slate-400 whitespace-pre-wrap break-words max-h-36 overflow-y-auto border border-slate-700 rounded p-2 mb-4"></div>
+        <div class="mb-6 pb-4 border-b border-slate-700">
+          <h3 class="text-sm font-medium text-slate-300 mb-2">Scan episode (heuristics + YouTube)</h3>
+          <p class="text-slate-500 text-xs mb-2">Flags likely STT issues from <code class="text-sky-400/80">config/transcript_suspicious_patterns.json</code>. Use <strong>Queue</strong> to add a hit as a <strong>proposed</strong> override (then review in the queue). <strong>Edit in form</strong> opens the composer if you need to fix the text first.</p>
+          <div class="flex flex-wrap gap-2 items-center">
+            <select id="to-scan-ep" class="bg-slate-700 text-slate-200 border border-slate-600 rounded px-2 py-2 text-sm"></select>
+            <button type="button" id="to-scan-btn" class="px-3 py-2 bg-violet-600 text-white rounded text-sm hover:bg-violet-500">Scan inscription transcript</button>
+            <button type="button" id="to-scan-queue-all-btn" class="hidden px-3 py-2 bg-amber-700/90 text-white rounded text-sm hover:bg-amber-600">Queue all (with suggestion)</button>
+          </div>
+          <div id="to-scan-summary" class="text-xs text-slate-500 mt-2"></div>
+          <div id="to-scan-list" class="mt-3 space-y-2 max-h-[38vh] overflow-y-auto text-sm"></div>
+          <h3 class="text-sm font-medium text-slate-300 mt-5 mb-2">LLM sense check <span class="text-fuchsia-400/90">(uses API credits)</span></h3>
+          <p class="text-slate-500 text-xs mb-2">Model reads <strong>all caption batches</strong> by default and flags garbled STT / nonsense <em>and</em> known name corruptions using <code class="text-sky-400/80">config/transcript_canonical_glossary.json</code>. Use <strong>Queue</strong> / <strong>Queue all LLM fixes</strong> to add <code class="text-sky-400/80">excerpt → suggested_fix</code> as <strong>proposed</strong> overrides (review before Accept). Optional <strong>Apply safe fixes</strong> still writes the file directly when the excerpt is unique. Uses <code class="text-sky-400/80">MINIMAX_API_KEY</code> or <code class="text-sky-400/80">OPENAI_*</code> from agent-lab <code class="text-sky-400/80">.env</code>. Env <code class="text-sky-400/80">TRANSCRIPT_SENSE_MAX_BATCHES</code> default <strong>0</strong> = full episode.</p>
+          <div class="flex flex-wrap gap-2 items-center">
+            <label class="text-xs text-slate-400 flex items-center gap-1">Max batches <input type="number" id="to-sense-max-batches" min="1" max="999" placeholder="all" title="Leave blank for full episode (all batches). Set a number to cap API calls." class="w-16 bg-slate-700 border border-slate-600 rounded px-1 py-1 text-slate-200 placeholder:text-slate-500" /></label>
+            <label class="text-xs text-slate-400 flex items-center gap-2 cursor-pointer" title="Writes inscription transcript when excerpt matches exactly once; then syncs transcript_sha256">
+              <input type="checkbox" id="to-sense-apply" class="rounded border-slate-500" />
+              Apply safe fixes
+            </label>
+            <button type="button" id="to-sense-btn" class="px-3 py-2 bg-fuchsia-700 text-white rounded text-sm hover:bg-fuchsia-600">Run LLM sense scan</button>
+            <button type="button" id="to-sense-queue-all-btn" class="hidden px-3 py-2 bg-amber-700/90 text-white rounded text-sm hover:bg-amber-600">Queue all LLM fixes</button>
+          </div>
+          <div id="to-sense-summary" class="text-xs text-slate-500 mt-2"></div>
+          <div id="to-sense-list" class="mt-3 space-y-2 max-h-[38vh] overflow-y-auto text-sm"></div>
+        </div>
+        <div class="grid grid-cols-1 xl:grid-cols-2 gap-4 sm:gap-6">
+          <div class="space-y-3 min-w-0">
+            <h3 class="text-sm font-medium text-slate-300">Queue</h3>
+            <div id="to-list" class="space-y-2 max-h-[52vh] overflow-y-auto text-sm"></div>
+            <h3 class="text-sm font-medium text-slate-300 pt-2">New proposed change</h3>
+            <div class="space-y-2 bg-slate-900/50 rounded p-3 border border-slate-600/80">
+              <label class="block text-xs text-slate-400">Episode # <input type="number" id="to-new-ep" min="1" max="999" value="1" class="ml-1 w-16 bg-slate-700 border border-slate-600 rounded px-2 py-1 text-slate-200" /></label>
+              <label class="block text-xs text-slate-400">Match <select id="to-new-mode" class="bg-slate-700 border border-slate-600 rounded px-2 py-1 text-slate-200"><option value="literal">Literal text</option><option value="regex">Regex</option></select></label>
+              <label class="block text-xs text-slate-400">Find <textarea id="to-new-find" rows="2" class="w-full mt-1 font-mono text-xs bg-slate-700 border border-slate-600 rounded px-2 py-1 text-slate-200" placeholder="Exact STT garbage or regex pattern"></textarea></label>
+              <label class="block text-xs text-slate-400">Replace with <textarea id="to-new-repl" rows="2" class="w-full mt-1 font-mono text-xs bg-slate-700 border border-slate-600 rounded px-2 py-1 text-slate-200" placeholder="Canonical wording"></textarea></label>
+              <label class="block text-xs text-slate-400">Note <input type="text" id="to-new-note" class="w-full mt-1 bg-slate-700 border border-slate-600 rounded px-2 py-1 text-slate-200" placeholder="Why (e.g. pun at 1:31)" /></label>
+              <label class="block text-xs text-slate-400">Max replacements (blank = all) <input type="number" id="to-new-max" min="1" class="w-20 ml-1 bg-slate-700 border border-slate-600 rounded px-2 py-1 text-slate-200" /></label>
+              <div class="text-xs text-slate-500">Tiers</div>
+              <div class="flex flex-wrap gap-3 text-xs text-slate-300">
+                <label class="flex items-center gap-1"><input type="checkbox" class="to-tier rounded border-slate-500" value="inscription" checked /> inscription</label>
+                <label class="flex items-center gap-1"><input type="checkbox" class="to-tier rounded border-slate-500" value="transcripts_corrected" checked /> corrected</label>
+                <label class="flex items-center gap-1"><input type="checkbox" class="to-tier rounded border-slate-500" value="transcripts" checked /> raw</label>
+              </div>
+              <button type="button" id="to-new-submit" class="px-3 py-2 bg-amber-600 text-slate-900 rounded text-sm font-medium hover:bg-amber-500">Add as proposed</button>
+            </div>
+          </div>
+          <div class="space-y-3 min-w-0">
+            <h3 class="text-sm font-medium text-slate-300">Selected item</h3>
+            <div id="to-detail-empty" class="text-slate-500 text-sm">Select an item or create one.</div>
+            <div id="to-detail" class="hidden space-y-2">
+              <div class="text-xs text-slate-500">ID <span id="to-d-id" class="font-mono text-slate-300"></span> · ep <span id="to-d-ep"></span> · <span id="to-d-status" class="text-amber-400/90"></span></div>
+              <label class="block text-xs text-slate-400">Find <textarea id="to-d-find" rows="3" class="w-full font-mono text-xs bg-slate-700 border border-slate-600 rounded px-2 py-1 text-slate-200"></textarea></label>
+              <label class="block text-xs text-slate-400">Replace <textarea id="to-d-repl" rows="3" class="w-full font-mono text-xs bg-slate-700 border border-slate-600 rounded px-2 py-1 text-slate-200"></textarea></label>
+              <label class="block text-xs text-slate-400">Note <input type="text" id="to-d-note" class="w-full bg-slate-700 border border-slate-600 rounded px-2 py-1 text-slate-200" /></label>
+              <label class="block text-xs text-slate-400">Mode <select id="to-d-mode" class="bg-slate-700 border border-slate-600 rounded px-2 py-1 text-slate-200"><option value="literal">literal</option><option value="regex">regex</option></select></label>
+              <label class="block text-xs text-slate-400">Priority <input type="number" id="to-d-prio" class="w-20 bg-slate-700 border border-slate-600 rounded px-2 py-1 text-slate-200" /></label>
+              <div class="flex flex-wrap gap-2 pt-2">
+                <button type="button" id="to-save-btn" class="px-3 py-2 bg-slate-600 text-slate-200 rounded text-sm hover:bg-slate-500">Save edits</button>
+                <button type="button" id="to-preview-btn" class="px-3 py-2 bg-sky-600 text-white rounded text-sm hover:bg-sky-500">Preview</button>
+                <button type="button" id="to-accept-btn" class="px-3 py-2 bg-emerald-600 text-white rounded text-sm hover:bg-emerald-500">Accept &amp; apply</button>
+                <button type="button" id="to-reject-btn" class="px-3 py-2 bg-slate-700 text-slate-300 rounded text-sm hover:bg-slate-600">Mark rejected</button>
+                <button type="button" id="to-delete-btn" class="px-3 py-2 bg-red-900/60 text-red-200 rounded text-sm hover:bg-red-900">Delete</button>
+              </div>
+              <div id="to-preview-box" class="hidden mt-3 space-y-2">
+                <div class="text-xs text-slate-400">Preview <span id="to-preview-file" class="text-sky-400/90"></span> · replacements: <span id="to-preview-n"></span></div>
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                  <div>
+                    <div class="text-[10px] uppercase text-slate-500 mb-1">Before</div>
+                    <pre id="to-preview-before" class="text-xs font-mono whitespace-pre-wrap break-words bg-slate-900/80 border border-slate-600 rounded p-2 max-h-40 overflow-y-auto text-slate-300"></pre>
+                  </div>
+                  <div>
+                    <div class="text-[10px] uppercase text-slate-500 mb-1">After</div>
+                    <pre id="to-preview-after" class="text-xs font-mono whitespace-pre-wrap break-words bg-slate-900/80 border border-slate-600 rounded p-2 max-h-40 overflow-y-auto text-emerald-200/90"></pre>
+                  </div>
+                </div>
+                <div id="to-media-row" class="hidden flex flex-wrap gap-2 items-center pt-3 border-t border-slate-600/80">
+                  <span class="text-[10px] uppercase text-slate-500">Hear &amp; see</span>
+                  <span id="to-caption-label" class="text-xs text-amber-400/95 font-mono"></span>
+                  <button type="button" id="to-open-youtube" class="px-2 py-1.5 bg-red-700/90 hover:bg-red-600 text-white rounded text-xs">Open YouTube</button>
+                  <button type="button" id="to-play-embed" class="px-2 py-1.5 bg-sky-600 hover:bg-sky-500 text-white rounded text-xs">Show &amp; play here</button>
+                  <button type="button" id="to-stop-embed" class="px-2 py-1.5 bg-slate-600 hover:bg-slate-500 text-slate-200 rounded text-xs">Stop</button>
+                </div>
+                <div id="to-embed-wrap" class="hidden mt-2 w-full max-w-xl">
+                  <iframe id="to-embed-frame" class="w-full aspect-video rounded border border-slate-600 bg-black" title="Episode clip" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
+                </div>
+                <div id="to-suggest-box" class="hidden mt-3 space-y-2 text-xs border border-amber-900/40 bg-amber-950/20 rounded p-2">
+                  <div class="text-[10px] uppercase text-amber-500/90 font-medium">Heuristic flags in this excerpt</div>
+                  <div id="to-suggest-list" class="space-y-1 text-slate-300"></div>
+                </div>
+              </div>
+              <div id="to-log" class="hidden text-xs font-mono text-slate-500 whitespace-pre-wrap break-words max-h-32 overflow-y-auto border border-slate-700 rounded p-2"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const API = '';
+    let quill;
+    let currentId = null;
+    let saveTimeout = null;
+    let profiles = [];
+    let currentView = 'promos';
+    let transcriptOverrides = [];
+    let transcriptProjectDir = '';
+    let selectedOverrideId = null;
+    let lastYoutubeWatch = '';
+    let lastYoutubeEmbed = '';
+    let lastHeuristicScan = { ep: null, rows: [] };
+    let lastSenseScan = { ep: null, rows: [] };
+    /** When GET /api/bride/hub/episodes fails, Transcripts UI uses this list. Hub index remains authoritative when reachable. */
+    const BRIDE_OF_CHARLIE_EPISODE_FALLBACK = [1, 2, 3, 4, 5, 6, 7];
+    let _transcriptEpisodesFallbackNoted = false;
+
+    function transcriptToast(msg) {
+      const log = document.getElementById('to-global-log');
+      if (log) {
+        log.classList.remove('hidden');
+        log.textContent = msg;
+      }
+    }
+
+    function prefillNewProposedOverride(ep, find, replace, note) {
+      const nep = document.getElementById('to-new-ep');
+      const nf = document.getElementById('to-new-find');
+      const nr = document.getElementById('to-new-repl');
+      const nn = document.getElementById('to-new-note');
+      if (nep) nep.value = String(ep != null ? ep : 1);
+      if (nf) nf.value = find != null ? find : '';
+      if (nr) nr.value = replace != null ? replace : '';
+      if (nn) nn.value = note != null ? note : '';
+      if (nf) {
+        nf.focus();
+        nf.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+    }
+
+    async function queueTranscriptProposal(ep, find, replace, note) {
+      const f = (find || '').trim();
+      if (!f) {
+        alert('Find text is empty — use Edit in form or fix the proposal.');
+        return false;
+      }
+      const body = {
+        episode: ep,
+        status: 'proposed',
+        match_mode: 'literal',
+        find: f,
+        replace: (replace != null ? String(replace) : '').trim(),
+        note: (note || '').slice(0, 900),
+        priority: 0,
+        tiers: ['inscription', 'transcripts_corrected', 'transcripts'],
+      };
+      const res = await api('/api/bride/transcript-overrides', { method: 'POST', body: JSON.stringify(body) });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok) throw new Error(data.error || res.statusText);
+      await loadTranscriptsPage();
+      transcriptToast('Queued proposed override — review in the queue, then Accept or Reject.');
+      return true;
+    }
+
+    async function bulkQueueScanProposals(ep, source, items) {
+      if (!items || !items.length) return { created_count: 0 };
+      const res = await api('/api/bride/transcript-overrides/propose-from-scan', {
+        method: 'POST',
+        body: JSON.stringify({ episode: ep, source: source, items: items, dedupe: true }),
+      });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok) throw new Error(data.error || res.statusText);
+      await loadTranscriptsPage();
+      transcriptToast('Bulk queue: created ' + (data.created_count || 0) + ', skipped ' + (data.skipped_count || 0) + ' (duplicates/invalid).');
+      return data;
+    }
+
+    async function ensureScanEpisodeSelect() {
+      const sel = document.getElementById('to-scan-ep');
+      if (!sel) return;
+      let nums = [];
+      try {
+        const res = await api('/api/bride/hub/episodes');
+        if (res.ok) {
+          const data = await res.json();
+          nums = Array.isArray(data.episodes) ? data.episodes : [];
+        }
+      } catch (e) {}
+      if (!nums.length) {
+        nums = BRIDE_OF_CHARLIE_EPISODE_FALLBACK.slice();
+        if (!_transcriptEpisodesFallbackNoted) {
+          _transcriptEpisodesFallbackNoted = true;
+          transcriptToast(
+            'Could not load episodes from hub — using Bride of Charlie 1–7. Fix /api/bride/hub/episodes (deploy monument path) for the live list.'
+          );
+        }
+      }
+      const prev = sel.value;
+      sel.innerHTML = '';
+      for (const n of nums) {
+        const o = document.createElement('option');
+        o.value = String(n);
+        o.textContent = 'Episode ' + n;
+        sel.appendChild(o);
+      }
+      if (prev && nums.indexOf(parseInt(prev, 10)) >= 0) sel.value = prev;
+      else sel.value = String(nums[0] || 1);
+    }
+
+    function clearTranscriptEmbed() {
+      const f = document.getElementById('to-embed-frame');
+      const wrap = document.getElementById('to-embed-wrap');
+      if (f) f.src = 'about:blank';
+      if (wrap) wrap.classList.add('hidden');
+    }
+
+    function applyPreviewMediaUi(p) {
+      const media = p.media || {};
+      const yt = media.youtube;
+      const cap = media.caption;
+      const row = document.getElementById('to-media-row');
+      if (!row) return;
+      if (!yt || !yt.watch) {
+        row.classList.add('hidden');
+        lastYoutubeWatch = '';
+        lastYoutubeEmbed = '';
+        clearTranscriptEmbed();
+        const sbox = document.getElementById('to-suggest-box');
+        const slist = document.getElementById('to-suggest-list');
+        if (sbox) sbox.classList.add('hidden');
+        if (slist) slist.innerHTML = '';
+        return;
+      } else {
+        lastYoutubeWatch = yt.watch;
+        lastYoutubeEmbed = yt.embed || '';
+        row.classList.remove('hidden');
+        const cl = document.getElementById('to-caption-label');
+        if (cl) {
+          cl.textContent = cap && cap.label
+            ? (cap.label + ' (~' + cap.seconds + 's)')
+            : 'No caption stamp before match — video opens at start';
+        }
+      }
+      const sug = p.suspicious_in_excerpt || [];
+      const sbox = document.getElementById('to-suggest-box');
+      const slist = document.getElementById('to-suggest-list');
+      if (sbox && slist) {
+        if (sug.length) {
+          sbox.classList.remove('hidden');
+          slist.innerHTML = sug.map(s =>
+            '<div class="border-b border-slate-700/50 pb-1 mb-1">' +
+            '<span class="text-amber-400/90 font-mono">' + escapeHtml(s.id || '') + '</span> · <span class="text-slate-200">' + escapeHtml(s.match || '') + '</span>' +
+            '<div class="text-slate-400 mt-0.5">' + escapeHtml(s.hint || '') + '</div>' +
+            '<div class="text-emerald-400/80">→ ' + escapeHtml(s.suggestion || '') + '</div></div>'
+          ).join('');
+        } else {
+          sbox.classList.add('hidden');
+          slist.innerHTML = '';
+        }
+      }
+      clearTranscriptEmbed();
+    }
+
+    async function runTranscriptScan() {
+      ensureScanEpisodeSelect();
+      const sel = document.getElementById('to-scan-ep');
+      const ep = parseInt(sel && sel.value, 10) || 1;
+      const sum = document.getElementById('to-scan-summary');
+      const list = document.getElementById('to-scan-list');
+      if (sum) sum.textContent = 'Scanning…';
+      if (list) list.innerHTML = '';
+      try {
+        const res = await api('/api/bride/transcript-scan?episode=' + encodeURIComponent(ep));
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok) throw new Error(data.error || res.statusText);
+        lastHeuristicScan = { ep: ep, rows: data.findings || [] };
+        const rows = lastHeuristicScan.rows;
+        const qAll = document.getElementById('to-scan-queue-all-btn');
+        if (qAll) {
+          const bulkN = rows.filter(f => f.match && String(f.suggestion || '').trim()).length;
+          if (bulkN > 0) {
+            qAll.classList.remove('hidden');
+            qAll.textContent = 'Queue all (' + bulkN + ' with suggestion)';
+            qAll.onclick = async () => {
+              try {
+                const items = rows.filter(f => f.match && String(f.suggestion || '').trim()).map(f => ({
+                  find: f.match,
+                  replace: String(f.suggestion || '').trim(),
+                  note: ((f.id || '') + (f.hint ? ' — ' + f.hint : '')).trim(),
+                }));
+                await bulkQueueScanProposals(ep, 'heuristic', items);
+              } catch (err) {
+                transcriptToast('Error: ' + (err.message || err));
+              }
+            };
+          } else {
+            qAll.classList.add('hidden');
+            qAll.onclick = null;
+          }
+        }
+        if (sum) {
+          sum.textContent = 'Episode ' + data.episode + ' · ' + (data.count || 0) + ' heuristic hit(s) · YouTube id ' + (data.video_id || '—') + ' · ' + (data.file || '');
+        }
+        if (list) {
+          list.innerHTML = rows.length ? rows.map((f, i) => {
+            const watch = f.youtube && f.youtube.watch ? f.youtube.watch : '';
+            const emb = f.youtube && f.youtube.embed ? f.youtube.embed : '';
+            return '<div class="p-2 rounded bg-slate-900/60 border border-slate-600/80">' +
+              '<div class="text-xs text-amber-400/90 font-mono">' + escapeHtml(f.caption_label || '—') + ' · ' + escapeHtml(f.id || '') + '</div>' +
+              '<div class="text-slate-200 mt-1 font-mono break-all">' + escapeHtml(f.match || '') + '</div>' +
+              '<div class="text-slate-500 text-[11px] mt-1">' + escapeHtml(f.hint || '') + '</div>' +
+              '<div class="text-emerald-400/85 text-[11px]">→ ' + escapeHtml(f.suggestion || '') + '</div>' +
+              '<div class="flex flex-wrap gap-2 mt-2">' +
+              '<button type="button" class="to-h-queue px-2 py-1 bg-amber-700/90 hover:bg-amber-600 text-white rounded text-[11px]" data-hidx="' + i + '">Queue</button>' +
+              '<button type="button" class="to-h-edit px-2 py-1 bg-slate-600 hover:bg-slate-500 text-slate-100 rounded text-[11px]" data-hidx="' + i + '">Edit in form</button>' +
+              (watch ? '<button type="button" class="to-scan-watch px-2 py-1 bg-red-800/80 hover:bg-red-700 text-white rounded text-[11px]" data-u="' + encodeURIComponent(watch) + '">YouTube</button>' : '') +
+              (emb ? '<button type="button" class="to-scan-play px-2 py-1 bg-sky-700 hover:bg-sky-600 text-white rounded text-[11px]" data-u="' + encodeURIComponent(emb) + '">Play here</button>' : '') +
+              '</div></div>';
+          }).join('') : '<p class="text-slate-500 text-sm">No heuristic hits. Patterns live in <code class="text-sky-400/80">transcript_suspicious_patterns.json</code>.</p>';
+          list.querySelectorAll('.to-h-queue').forEach(b => {
+            b.onclick = async () => {
+              const i = parseInt(b.dataset.hidx, 10);
+              const f = lastHeuristicScan.rows[i];
+              if (!f) return;
+              const note = ((f.id || '') + (f.hint ? ' — ' + f.hint : '')).trim();
+              try {
+                await queueTranscriptProposal(lastHeuristicScan.ep, f.match, f.suggestion || '', '[heuristic] ' + note);
+              } catch (err) {
+                transcriptToast('Error: ' + (err.message || err));
+              }
+            };
+          });
+          list.querySelectorAll('.to-h-edit').forEach(b => {
+            b.onclick = () => {
+              const i = parseInt(b.dataset.hidx, 10);
+              const f = lastHeuristicScan.rows[i];
+              if (!f) return;
+              const note = '[heuristic] ' + ((f.id || '') + (f.hint ? ' — ' + f.hint : '')).trim();
+              prefillNewProposedOverride(lastHeuristicScan.ep, f.match, f.suggestion || '', note);
+            };
+          });
+          list.querySelectorAll('.to-scan-watch').forEach(b => {
+            b.onclick = () => window.open(decodeURIComponent(b.dataset.u), '_blank', 'noopener,noreferrer');
+          });
+          list.querySelectorAll('.to-scan-play').forEach(b => {
+            b.onclick = () => {
+              const wrap = document.getElementById('to-embed-wrap');
+              const fr = document.getElementById('to-embed-frame');
+              if (!wrap || !fr) return;
+              wrap.classList.remove('hidden');
+              fr.src = buildYouTubeEmbedSrc(decodeURIComponent(b.dataset.u));
+              fr.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            };
+          });
+        }
+      } catch (e) {
+        const qAll = document.getElementById('to-scan-queue-all-btn');
+        if (qAll) {
+          qAll.classList.add('hidden');
+          qAll.onclick = null;
+        }
+        lastHeuristicScan = { ep: null, rows: [] };
+        if (sum) sum.textContent = 'Error: ' + (e.message || e);
+      }
+    }
+
+    async function runTranscriptSenseScan() {
+      await ensureScanEpisodeSelect();
+      const sel = document.getElementById('to-scan-ep');
+      const ep = parseInt(sel && sel.value, 10) || 1;
+      const maxEl = document.getElementById('to-sense-max-batches');
+      const maxRaw = maxEl && String(maxEl.value || '').trim() !== '' ? parseInt(maxEl.value, 10) : NaN;
+      const sum = document.getElementById('to-sense-summary');
+      const list = document.getElementById('to-sense-list');
+      if (sum) sum.textContent = 'Calling LLM (may take a minute)…';
+      if (list) list.innerHTML = '';
+      const applyEl = document.getElementById('to-sense-apply');
+      const doApply = applyEl && applyEl.checked;
+      const capMsg = Number.isFinite(maxRaw) && maxRaw > 0 ? (' (max ' + maxRaw + ' batches)') : ' (full episode — all batches)';
+      const applyMsg = doApply ? ' APPLY will edit inscription transcript (unique excerpt matches only).' : '';
+      if (!confirm('Run LLM sense scan? This uses your MiniMax/OpenAI API quota.' + capMsg + applyMsg)) {
+        if (sum) sum.textContent = 'Cancelled.';
+        return;
+      }
+      try {
+        const body = { episode: ep, apply: doApply };
+        if (Number.isFinite(maxRaw) && maxRaw > 0) body.max_batches = maxRaw;
+        const res = await api('/api/bride/transcript-sense-scan', {
+          method: 'POST',
+          body: JSON.stringify(body),
+        });
+        let data;
+        if (res.status === 202) {
+          const j = await res.json().catch(() => ({}));
+          const jid = j.job_id;
+          if (!jid) throw new Error('Server returned 202 but no job_id (restart Draft Editor after deploy).');
+          const deadline = Date.now() + 50 * 60 * 1000;
+          let gatewayFlakes = 0;
+          const maxGatewayFlakes = 120;
+          while (Date.now() < deadline) {
+            await new Promise(r => setTimeout(r, 2000));
+            let pr;
+            try {
+              pr = await api('/api/bride/transcript-sense-scan/job/' + encodeURIComponent(jid));
+            } catch (e) {
+              gatewayFlakes++;
+              if (gatewayFlakes > maxGatewayFlakes) {
+                throw new Error('Network failed too often while polling job — check tunnel / Draft Editor is running.');
+              }
+              if (sum) sum.textContent = 'LLM scan job ' + jid + ' — network error, retrying…';
+              await new Promise(r => setTimeout(r, 2500));
+              continue;
+            }
+            const flaky = pr.status === 502 || pr.status === 503 || pr.status === 504 || pr.status === 524;
+            if (flaky) {
+              gatewayFlakes++;
+              if (gatewayFlakes > maxGatewayFlakes) {
+                throw new Error(
+                  'Cloudflare/tunnel returned ' + pr.status + ' too many times while polling. ' +
+                  'The scan may still be running on the server — refresh Transcripts and try again, or run from http://127.0.0.1:8081 with a stable connection. See docs/CLOUDFLARED_DRAFT_EDITOR.md.'
+                );
+              }
+              if (sum) {
+                sum.textContent =
+                  'LLM scan job ' + jid + ' — gateway ' + pr.status + ' (tunnel blip), retrying… job may still run';
+              }
+              await new Promise(r => setTimeout(r, 3500));
+              continue;
+            }
+            gatewayFlakes = 0;
+            const sj = await pr.json().catch(() => ({}));
+            if (!pr.ok) throw new Error(sj.error || pr.statusText);
+            const st = sj.status;
+            if (sum) {
+              sum.textContent = 'LLM scan job ' + jid + (st === 'running' ? ' — running…' : st === 'queued' ? ' — queued…' : ' — …');
+            }
+            if (st === 'done') {
+              data = sj.result;
+              break;
+            }
+            if (st === 'error') {
+              throw new Error(sj.error || 'LLM scan job failed');
+            }
+          }
+          if (data == null) {
+            throw new Error('LLM scan timed out while polling (50 min). Try a lower max batch count, or run on LAN with POST ?sync=1.');
+          }
+        } else {
+          data = await res.json().catch(() => ({}));
+          if (!res.ok) throw new Error(data.error || res.statusText);
+        }
+        if (data.error === 'missing_transcript') {
+          if (sum) sum.textContent = 'Missing inscription transcript: ' + (data.path || '');
+          return;
+        }
+        if (sum) {
+          let applyBit = '';
+          if (data.apply) {
+            const a = data.apply;
+            if (a.error) applyBit = ' · APPLY error: ' + escapeHtml(a.error);
+            else applyBit = ' · applied ' + (a.applied_count || 0) + (a.written ? ' (file saved)' : '') +
+              (a.dry_run ? ' dry-run' : '');
+          }
+          sum.textContent = 'Model ' + escapeHtml(data.model || '—') + ' · batches ' + (data.batches_scanned || 0) + '/' + (data.batches_total || 0) +
+            ' · ' + (data.count || 0) + ' issue row(s)' + (data.glossary_loaded ? ' · glossary' : '') + applyBit +
+            ' · ' + (data.file || '');
+        }
+        const rows = (data.findings || []).filter(f => !f.raw_tail && !f.error);
+        const errRows = (data.findings || []).filter(f => f.error || f.raw_tail);
+        lastSenseScan = { ep: ep, rows: rows };
+        const sqAll = document.getElementById('to-sense-queue-all-btn');
+        if (sqAll) {
+          const bulkL = rows.filter(f => (f.excerpt || '').trim() && (f.suggested_fix || '').trim()).length;
+          if (bulkL > 0) {
+            sqAll.classList.remove('hidden');
+            sqAll.textContent = 'Queue all LLM fixes (' + bulkL + ')';
+            sqAll.onclick = async () => {
+              try {
+                const items = rows.filter(f => (f.excerpt || '').trim() && (f.suggested_fix || '').trim()).map(f => ({
+                  find: String(f.excerpt || '').trim(),
+                  replace: String(f.suggested_fix || '').trim(),
+                  note: String(f.reason || '').slice(0, 500),
+                }));
+                await bulkQueueScanProposals(ep, 'llm', items);
+              } catch (err) {
+                transcriptToast('Error: ' + (err.message || err));
+              }
+            };
+          } else {
+            sqAll.classList.add('hidden');
+            sqAll.onclick = null;
+          }
+        }
+        if (list) {
+          let html = '';
+          if (rows.length) {
+            html += rows.map((f, i) => {
+              const watch = f.youtube && f.youtube.watch ? f.youtube.watch : '';
+              const emb = f.youtube && f.youtube.embed ? f.youtube.embed : '';
+              const sev = escapeHtml(f.severity || '');
+              return '<div class="p-2 rounded bg-slate-900/60 border border-fuchsia-900/40">' +
+                '<div class="text-xs text-fuchsia-300/90 font-mono">' + escapeHtml(f.caption_label || '—') + ' · batch ' + escapeHtml(String(f.batch != null ? f.batch : '')) + ' · <span class="text-amber-400">' + sev + '</span></div>' +
+                '<div class="text-slate-200 mt-1 text-[13px]">' + escapeHtml(f.reason || '') + '</div>' +
+                (f.excerpt ? '<div class="text-slate-400 mt-1 font-mono text-[11px] break-all">' + escapeHtml(f.excerpt) + '</div>' : '') +
+                (f.suggested_fix ? '<div class="text-emerald-400/85 text-[11px] mt-1">→ ' + escapeHtml(f.suggested_fix) + '</div>' : '') +
+                '<div class="flex flex-wrap gap-2 mt-2">' +
+                '<button type="button" class="to-s-queue px-2 py-1 bg-amber-700/90 hover:bg-amber-600 text-white rounded text-[11px]" data-sidx="' + i + '">Queue</button>' +
+                '<button type="button" class="to-s-edit px-2 py-1 bg-slate-600 hover:bg-slate-500 text-slate-100 rounded text-[11px]" data-sidx="' + i + '">Edit in form</button>' +
+                (watch ? '<button type="button" class="to-sense-watch px-2 py-1 bg-red-800/80 hover:bg-red-700 text-white rounded text-[11px]" data-u="' + encodeURIComponent(watch) + '">YouTube</button>' : '') +
+                (emb ? '<button type="button" class="to-sense-play px-2 py-1 bg-sky-700 hover:bg-sky-600 text-white rounded text-[11px]" data-u="' + encodeURIComponent(emb) + '">Play here</button>' : '') +
+                '</div></div>';
+            }).join('');
+          } else {
+            html += '<p class="text-slate-500 text-sm">No coherence issues reported for scanned batches (or model returned empty).</p>';
+          }
+          if (errRows.length) {
+            html += '<p class="text-amber-600/90 text-xs mt-2">' + errRows.length + ' batch note(s) (parse/LLM) — expand patterns or retry.</p>';
+          }
+          list.innerHTML = html;
+          list.querySelectorAll('.to-s-queue').forEach(b => {
+            b.onclick = async () => {
+              const i = parseInt(b.dataset.sidx, 10);
+              const f = lastSenseScan.rows[i];
+              if (!f) return;
+              const ex = (f.excerpt || '').trim();
+              if (!ex) {
+                alert('No excerpt — use Edit in form.');
+                return;
+              }
+              try {
+                await queueTranscriptProposal(lastSenseScan.ep, ex, f.suggested_fix || '', '[llm] ' + String(f.reason || '').slice(0, 500));
+              } catch (err) {
+                transcriptToast('Error: ' + (err.message || err));
+              }
+            };
+          });
+          list.querySelectorAll('.to-s-edit').forEach(b => {
+            b.onclick = () => {
+              const i = parseInt(b.dataset.sidx, 10);
+              const f = lastSenseScan.rows[i];
+              if (!f) return;
+              prefillNewProposedOverride(lastSenseScan.ep, f.excerpt || '', f.suggested_fix || '', '[llm] ' + String(f.reason || '').slice(0, 500));
+            };
+          });
+          list.querySelectorAll('.to-sense-watch').forEach(b => {
+            b.onclick = () => window.open(decodeURIComponent(b.dataset.u), '_blank', 'noopener,noreferrer');
+          });
+          list.querySelectorAll('.to-sense-play').forEach(b => {
+            b.onclick = () => {
+              const wrap = document.getElementById('to-embed-wrap');
+              const fr = document.getElementById('to-embed-frame');
+              if (!wrap || !fr) return;
+              wrap.classList.remove('hidden');
+              fr.src = buildYouTubeEmbedSrc(decodeURIComponent(b.dataset.u));
+              fr.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            };
+          });
+        }
+      } catch (e) {
+        const sqAll = document.getElementById('to-sense-queue-all-btn');
+        if (sqAll) {
+          sqAll.classList.add('hidden');
+          sqAll.onclick = null;
+        }
+        lastSenseScan = { ep: null, rows: [] };
+        if (sum) sum.textContent = 'Error: ' + (e.message || e);
+      }
+    }
+    /** 'all' = every non-Substack promo draft; 'desirable' = metadata.draft_type === desirable_property or dp_number set */
+    let promoFilter = 'all';
+    const DRAFT_EDITOR_VIEW_STORAGE_KEY = 'draft_editor_active_view';
+    const DRAFT_EDITOR_PROMO_FILTER_STORAGE_KEY = 'draft_editor_promo_filter';
+    const DRAFT_EDITOR_VALID_VIEWS = ['promos', 'substack', 'replies', 'calendar', 'transcripts'];
+
+    function persistDraftEditorNav() {
+      try {
+        if (DRAFT_EDITOR_VALID_VIEWS.includes(currentView)) {
+          localStorage.setItem(DRAFT_EDITOR_VIEW_STORAGE_KEY, currentView);
+        }
+        if (promoFilter === 'all' || promoFilter === 'desirable') {
+          localStorage.setItem(DRAFT_EDITOR_PROMO_FILTER_STORAGE_KEY, promoFilter);
+        }
+      } catch (e) { /* private / quota */ }
+    }
+
+    function restoreDraftEditorView() {
+      let v = 'promos';
+      let pf = 'all';
+      try {
+        const sv = localStorage.getItem(DRAFT_EDITOR_VIEW_STORAGE_KEY);
+        const spf = localStorage.getItem(DRAFT_EDITOR_PROMO_FILTER_STORAGE_KEY);
+        if (spf === 'desirable' || spf === 'all') pf = spf;
+        if (DRAFT_EDITOR_VALID_VIEWS.includes(sv)) v = sv;
+      } catch (e) {}
+      promoFilter = pf;
+      switchView(v);
+    }
+
+    let substackPublications = [];
+    let selectedSubstackId = 'gometa';
+
+    function stripHtml(html) {
+      const div = document.createElement('div');
+      div.innerHTML = html || '';
+      return (div.textContent || '').trim();
+    }
+
+    /** Plain text for WhatsApp from Quill HTML (preserve line breaks). */
+    function htmlToPlainForWhatsApp(html) {
+      const div = document.createElement('div');
+      div.innerHTML = html || '';
+      const t = (div.innerText || div.textContent || '').replace(/\n{3,}/g, '\n\n').trim();
+      return t;
+    }
+
+    const WHATSAPP_URL_TEXT_MAX_ENCODED = 2000;
+
+    function refreshWhatsappPanel() {
+      const ta = document.getElementById('whatsapp-proposed-text');
+      if (!ta || !quill || !currentId) return;
+      ta.value = htmlToPlainForWhatsApp(quill.root.innerHTML);
+      updateWhatsappCharHint();
+    }
+
+    function updatePublishButtonLabel() {
+      const sel = document.getElementById('destination-select');
+      const btn = document.getElementById('publish-btn');
+      if (!sel || !btn) return;
+      const opt = sel.options[sel.selectedIndex];
+      const wa = opt && String(opt.dataset.platform || '').toLowerCase() === 'whatsapp';
+      btn.textContent = wa ? 'Paste helper' : 'Publish';
+      btn.title = wa ? 'Does not post to WhatsApp — scrolls to copy/paste area' : '';
+    }
+
+    function updateWhatsappPanelVisibility(draft) {
+      const panel = document.getElementById('whatsapp-inline-panel');
+      if (!panel) return;
+      const sel = document.getElementById('destination-select');
+      const opt = sel && sel.options[sel.selectedIndex];
+      const fromSelect = opt && String(opt.dataset.platform || '').toLowerCase() === 'whatsapp';
+      const fromDraft = draft && String(draft.platform || '').toLowerCase() === 'whatsapp';
+      const show = Boolean(fromSelect || fromDraft);
+      panel.classList.toggle('hidden', !show);
+      updatePublishButtonLabel();
+      if (show) refreshWhatsappPanel();
+    }
+
+    function formatDraftMetaTime(iso) {
+      if (!iso) return '';
+      const d = new Date(iso);
+      if (isNaN(d.getTime())) return String(iso);
+      return d.toLocaleString(undefined, { dateStyle: 'medium', timeStyle: 'short' });
+    }
+
+    function draftNeedsManualWhatsApp(d) {
+      if (String(d.platform || '').toLowerCase() !== 'whatsapp') return false;
+      const st = String(d.status || '').toLowerCase();
+      return st !== 'published';
+    }
+
+    function updateWhatsappCharHint() {
+      const ta = document.getElementById('whatsapp-proposed-text');
+      const hint = document.getElementById('whatsapp-char-hint');
+      if (!ta || !hint) return;
+      const n = ta.value.length;
+      const encLen = encodeURIComponent(ta.value).length;
+      let line = n + ' characters';
+      if (encLen > WHATSAPP_URL_TEXT_MAX_ENCODED) {
+        line += ' — long for prefilled links: prefer Copy, then paste in WhatsApp.';
+      }
+      hint.textContent = line;
+    }
+
+    function flashWhatsappCopyFeedback(msg) {
+      const el = document.getElementById('whatsapp-copy-feedback');
+      if (!el) return;
+      el.textContent = msg;
+      setTimeout(() => {
+        if (el.textContent === msg) el.textContent = '';
+      }, 2800);
+    }
+
+    async function copyWhatsappProposed() {
+      const ta = document.getElementById('whatsapp-proposed-text');
+      if (!ta) return;
+      const text = ta.value;
+      try {
+        await navigator.clipboard.writeText(text);
+        flashWhatsappCopyFeedback('Copied to clipboard.');
+      } catch (e) {
+        ta.focus();
+        ta.select();
+        try {
+          document.execCommand('copy');
+          flashWhatsappCopyFeedback('Copied (fallback).');
+        } catch (e2) {
+          flashWhatsappCopyFeedback('Select the text and copy manually (⌘C / Ctrl+C).');
+        }
+      }
+    }
+
+    function openWhatsAppForPaste() {
+      const ta = document.getElementById('whatsapp-proposed-text');
+      if (!ta) return;
+      const text = ta.value;
+      if (!text.trim()) {
+        alert('Nothing to send. Reload from your draft or type a message.');
+        return;
+      }
+      const enc = encodeURIComponent(text);
+      if (enc.length <= WHATSAPP_URL_TEXT_MAX_ENCODED) {
+        window.open('https://wa.me/?text=' + enc, '_blank', 'noopener,noreferrer');
+      } else {
+        window.open('https://web.whatsapp.com/', '_blank', 'noopener,noreferrer');
+        flashWhatsappCopyFeedback('Opened web WhatsApp — paste from clipboard (Copy first if needed).');
+      }
+    }
+
+    async function copyAndOpenWhatsApp() {
+      await copyWhatsappProposed();
+      openWhatsAppForPaste();
+    }
+    function escapeHtml(s) {
+      if (!s) return '';
+      return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    /** YouTube iframe: set origin + playsinline so Safari / cross-site embed can play after a click. */
+    function buildYouTubeEmbedSrc(embedUrlString) {
+      if (!embedUrlString) return '';
+      try {
+        const u = new URL(embedUrlString, window.location.origin);
+        u.searchParams.set('autoplay', '1');
+        u.searchParams.set('playsinline', '1');
+        u.searchParams.set('rel', '0');
+        u.searchParams.set('mute', '0');
+        u.searchParams.set('origin', window.location.origin);
+        return u.toString();
+      } catch (e) {
+        const sep = embedUrlString.indexOf('?') >= 0 ? '&' : '?';
+        return embedUrlString + sep + 'autoplay=1&playsinline=1&mute=0&rel=0&origin=' + encodeURIComponent(window.location.origin);
+      }
+    }
+
+    function getAuthHeader() {
+      const cred = sessionStorage.getItem('draft_creds');
+      return cred ? { 'Authorization': 'Basic ' + cred } : {};
+    }
+
+    async function api(path, opts = {}) {
+      const headers = { 'Content-Type': 'application/json', ...getAuthHeader(), ...(opts.headers || {}) };
+      const res = await fetch(API + path, { ...opts, headers, credentials: 'include' });
+      if (res.status === 401) {
+        const user = prompt('Username:', 'draft');
+        const pass = prompt('Password:');
+        if (user && pass) {
+          sessionStorage.setItem('draft_creds', btoa(user + ':' + pass));
+          return api(path, opts);
+        }
+        throw new Error('Auth required');
+      }
+      return res;
+    }
+
+    async function loadProfiles() {
+      const res = await api('/api/profiles');
+      const data = await res.json();
+      profiles = (data.profiles || []).filter(p => p.platform !== 'substack');
+      if (!profiles.some(p => String(p.platform || '').toLowerCase() === 'whatsapp')) {
+        profiles.push({
+          platform: 'whatsapp',
+          destination: 'WhatsApp · hybrid (copy/paste)',
+          id: 'whatsapp_hybrid',
+        });
+      }
+      return profiles;
+    }
+
+    function isDesirablePropertyDraft(d) {
+      const m = d.metadata || {};
+      if (m.draft_type === 'desirable_property') return true;
+      if (m.dp_number != null && m.dp_number !== '') return true;
+      return false;
+    }
+
+    async function loadDrafts() {
+      const res = await api('/api/drafts');
+      let drafts = (await res.json()).filter(d => d.platform !== 'substack');
+      if (promoFilter === 'desirable') {
+        drafts = drafts.filter(isDesirablePropertyDraft);
+      }
+      const asideTitle = document.getElementById('promos-aside-title');
+      if (asideTitle) asideTitle.textContent = promoFilter === 'desirable' ? 'Desirable properties' : 'Promos';
+
+      if (currentId && !drafts.some(d => d.id === currentId)) {
+        currentId = null;
+        document.getElementById('empty-state').classList.remove('hidden');
+        document.getElementById('editor-panel').classList.add('hidden');
+      }
+
+      const el = document.getElementById('draft-list');
+      el.innerHTML = drafts.map(d => {
+        const preview = stripHtml(d.content || '').slice(0, 50) || '(empty)';
+        const dest = (d.metadata && d.metadata.destination) || `${d.platform} (unspecified)`;
+        const m = d.metadata || {};
+        const isDp = isDesirablePropertyDraft(d);
+        const manualWa = draftNeedsManualWhatsApp(d);
+        const dpLine = isDp
+          ? `<div class="text-xs text-amber-400/95 font-medium mb-0.5">${escapeHtml(m.title || ('DP' + (m.dp_number != null && m.dp_number !== '' ? m.dp_number : '?') + (m.variant ? ' · ' + m.variant : '')))}</div>`
+          : '';
+        const waLine = manualWa
+          ? '<div class="text-[10px] uppercase tracking-wide text-amber-400 font-semibold mb-0.5">Needs paste · WhatsApp</div>'
+          : '';
+        const cardRing = manualWa ? 'ring-1 ring-amber-500/45 bg-amber-950/20' : '';
+        const destClass = manualWa ? 'text-amber-200 font-semibold' : 'text-slate-400';
+        return `<button class="draft-item w-full text-left px-3 py-2.5 rounded hover:bg-slate-700 touch-manipulation ${d.id === currentId ? 'bg-slate-600' : ''} ${cardRing}" data-id="${d.id}">
+          ${waLine}
+          ${dpLine}
+          <div class="font-medium truncate text-slate-200">${escapeHtml(preview)}${preview.length >= 50 ? '...' : ''}</div>
+          <div class="text-xs mt-0.5 ${destClass}">${escapeHtml(dest)}</div>
+          <div class="text-xs text-slate-500">${d.status} · ${formatDraftMetaTime(d.updated_at)}</div>
+        </button>`;
+      }).join('') || '<p class="text-slate-400 text-sm">No drafts' + (promoFilter === 'desirable' ? ' — save drafts with metadata draft_type=desirable_property (see dp-meta-layer-draft skill)' : '') + '</p>';
+      el.querySelectorAll('.draft-item').forEach(btn => btn.onclick = () => selectDraft(btn.dataset.id));
+    }
+
+    function updateViewTabStyles() {
+      document.getElementById('view-promos').classList.toggle('bg-slate-600', currentView === 'promos' && promoFilter === 'all');
+      document.getElementById('view-desirable').classList.toggle('bg-slate-600', currentView === 'promos' && promoFilter === 'desirable');
+      document.getElementById('view-substack').classList.toggle('bg-slate-600', currentView === 'substack');
+      document.getElementById('view-replies').classList.toggle('bg-slate-600', currentView === 'replies');
+      document.getElementById('view-calendar').classList.toggle('bg-slate-600', currentView === 'calendar');
+      document.getElementById('view-transcripts').classList.toggle('bg-slate-600', currentView === 'transcripts');
+    }
+
+    function selectDraft(id) {
+      if (currentId && quill) saveCurrent();
+      currentId = id;
+      loadDraft(id);
+      loadDrafts();
+    }
+
+    function populateDestinationSelect(draft) {
+      const sel = document.getElementById('destination-select');
+      const currentDest = (draft && draft.metadata && draft.metadata.destination) || '';
+      sel.innerHTML = '<option value="">— Select profile —</option>' +
+        profiles.map(p => `<option value="${escapeHtml(p.destination)}" data-platform="${escapeHtml(p.platform)}" ${p.destination === currentDest ? 'selected' : ''}>${escapeHtml(p.destination)}</option>`).join('');
+    }
+
+    function isoToDatetimeLocal(iso) {
+      if (!iso) return '';
+      const d = new Date(iso);
+      if (isNaN(d.getTime())) return '';
+      const pad = n => String(n).padStart(2, '0');
+      return d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate()) + 'T' + pad(d.getHours()) + ':' + pad(d.getMinutes());
+    }
+
+    let scheduleSaveTimer = null;
+    async function loadDraft(id) {
+      const res = await api(`/api/drafts/${id}`);
+      const draft = await res.json();
+      document.getElementById('empty-state').classList.add('hidden');
+      document.getElementById('editor-panel').classList.remove('hidden');
+      populateDestinationSelect(draft);
+      document.getElementById('draft-meta-extra').textContent =
+        `${draft.status} · updated ${formatDraftMetaTime(draft.updated_at)}`;
+      const sched = document.getElementById('draft-schedule-at');
+      if (sched) {
+        const sf = (draft.metadata && draft.metadata.scheduled_for) || '';
+        sched.value = isoToDatetimeLocal(sf);
+      }
+      if (quill) quill.root.innerHTML = draft.content || '';
+      const hist = document.getElementById('history-list');
+      hist.innerHTML = (draft.history || []).map(h =>
+        `<div><span class="text-slate-500">${formatDraftMetaTime(h.timestamp)}</span> <span class="text-slate-400">${escapeHtml(h.author || '')}</span> ${h.milestone ? '· ' + escapeHtml(h.milestone) : ''}</div>`
+      ).reverse().join('') || '<p class="text-slate-500">No history</p>';
+      updateWhatsappPanelVisibility(draft);
+    }
+
+    function saveCurrent() {
+      if (!currentId || !quill) return;
+      const content = quill.root.innerHTML;
+      api(`/api/drafts/${currentId}`, { method: 'PUT', body: JSON.stringify({ content }) }).then(() => loadDrafts()).catch(console.error);
+    }
+
+    async function createDraft(profile) {
+      const res = await api('/api/drafts', {
+        method: 'POST',
+        body: JSON.stringify({
+          content: '<p>New draft</p>',
+          platform: profile.platform,
+          destination: profile.destination,
+          author: 'user',
+          metadata: { destination: profile.destination },
+        }),
+      });
+      const draft = await res.json();
+      await loadDrafts();
+      selectDraft(draft.id);
+      document.getElementById('new-draft-menu').classList.add('hidden');
+    }
+
+    function setupNewDraftMenu() {
+      const btn = document.getElementById('new-draft-btn');
+      const menu = document.getElementById('new-draft-menu');
+      btn.onclick = () => menu.classList.toggle('hidden');
+      menu.innerHTML = profiles.map(p =>
+        `<button class="block w-full text-left px-3 py-2 text-sm text-slate-200 hover:bg-slate-700" data-profile='${escapeHtml(JSON.stringify(p))}'>${escapeHtml(p.destination)}</button>`
+      ).join('') || '<p class="px-3 py-2 text-slate-500 text-sm">No profiles</p>';
+      menu.querySelectorAll('button[data-profile]').forEach(b => b.onclick = () => createDraft(JSON.parse(b.dataset.profile)));
+    }
+
+    async function publishDraft() {
+      if (!currentId) return;
+      const sel = document.getElementById('destination-select');
+      const opt = sel && sel.options[sel.selectedIndex];
+      const isWa = opt && String(opt.dataset.platform || '').toLowerCase() === 'whatsapp';
+      const confirmMsg = isWa
+        ? 'Open the WhatsApp paste helper? Nothing is sent automatically — you still copy and paste in WhatsApp.'
+        : 'Publish this draft? The publish agent will post it.';
+      if (!confirm(confirmMsg)) return;
+      const res = await api(`/api/drafts/${currentId}/publish`, { method: 'POST' });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok) {
+        alert('Publish failed: ' + (data.error || data.detail || res.statusText));
+        return;
+      }
+      if (data.status === 'whatsapp_hybrid') {
+        alert(data.message || 'Copy the plain text below and paste into WhatsApp.');
+        const panel = document.getElementById('whatsapp-inline-panel');
+        if (panel) {
+          panel.classList.remove('hidden');
+          refreshWhatsappPanel();
+          panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }
+        return;
+      }
+      if (data.status === 'open_external' && data.url) {
+        window.open(data.url, '_blank', 'noopener,noreferrer');
+        alert(data.message || 'Opened external editor.');
+        await loadDraft(currentId);
+        loadDrafts();
+        return;
+      }
+      loadDraft(currentId);
+      loadDrafts();
+      alert('Published!');
+    }
+
+    async function improveDraft(aspect, customInstruction) {
+      if (!currentId) return;
+      document.getElementById('improve-menu').classList.add('hidden');
+      const btn = document.getElementById('improve-btn');
+      const origText = btn.textContent;
+      btn.textContent = 'Improving…';
+      btn.disabled = true;
+      try {
+        const body = { aspect };
+        if (customInstruction) body.custom_instruction = customInstruction;
+        const res = await api(`/api/drafts/${currentId}/improve`, { method: 'POST', body: JSON.stringify(body) });
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok) {
+          alert('Improve failed: ' + (data.error || data.detail || res.statusText));
+          return;
+        }
+        loadDraft(currentId);
+        loadDrafts();
+        alert('Draft updated. Review the changes.');
+      } catch (e) {
+        alert('Improve failed: ' + (e.message || 'Unknown error'));
+      } finally {
+        btn.textContent = origText;
+        btn.disabled = false;
+      }
+    }
+
+    function setupImproveMenu() {
+      const btn = document.getElementById('improve-btn');
+      const menu = document.getElementById('improve-menu');
+      btn.onclick = (e) => { e.stopPropagation(); menu.classList.toggle('hidden'); };
+      menu.querySelectorAll('.improve-option').forEach(opt => {
+        opt.onclick = (e) => { e.stopPropagation(); improveDraft(opt.dataset.aspect); };
+      });
+      document.getElementById('improve-custom-btn').onclick = (e) => {
+        e.stopPropagation();
+        const instr = prompt('What should the agent improve? (e.g. "Make the tone more conversational")');
+        if (instr != null && instr.trim()) improveDraft('custom', instr.trim());
+        else menu.classList.add('hidden');
+      };
+    }
+
+    function switchView(view) {
+      currentView = view;
+      document.getElementById('promos-view').classList.toggle('hidden', view !== 'promos');
+      document.getElementById('substack-view').classList.toggle('hidden', view !== 'substack');
+      document.getElementById('replies-view').classList.toggle('hidden', view !== 'replies');
+      document.getElementById('calendar-view').classList.toggle('hidden', view !== 'calendar');
+      document.getElementById('transcripts-view').classList.toggle('hidden', view !== 'transcripts');
+      document.getElementById('promos-header').classList.toggle('hidden', view !== 'promos');
+      updateViewTabStyles();
+      if (view === 'promos') loadDrafts();
+      if (view === 'substack') initSubstackView();
+      if (view === 'replies') initRepliesView();
+      if (view === 'calendar') loadCalendarPage();
+      if (view === 'transcripts') loadTranscriptsPage();
+      persistDraftEditorNav();
+    }
+
+    let substackPollTimer = null;
+
+    const DEFAULT_SUBSTACK_PUBS = [
+      { id: 'gometa', name: 'GoMeta', domain: 'gometa.substack.com' },
+      { id: 'metaweb', name: 'Metaweb', domain: 'metaweb.substack.com' },
+      { id: 'canopi', name: 'Canopi', domain: 'canopi.substack.com' },
+      { id: 'pacha', name: 'Pacha', domain: 'pacha.substack.com' },
+      { id: 'livethestory', name: 'Live the Story', domain: 'livethestory.substack.com' }
+    ];
+
+    async function initSubstackView() {
+      try {
+        const pubsRes = await api('/api/substack-publications');
+        if (pubsRes.ok) {
+          const pubsData = await pubsRes.json();
+          substackPublications = pubsData.publications || DEFAULT_SUBSTACK_PUBS;
+        } else {
+          substackPublications = DEFAULT_SUBSTACK_PUBS;
+        }
+      } catch (e) {
+        substackPublications = DEFAULT_SUBSTACK_PUBS;
+      }
+      const sel = document.getElementById('substack-publication-select');
+      sel.innerHTML = substackPublications.map(p =>
+        '<option value="' + escapeHtml(p.id) + '">' + escapeHtml(p.name) + '</option>'
+      ).join('');
+      const existing = substackPublications.find(p => p.id === selectedSubstackId);
+      selectedSubstackId = existing ? existing.id : (substackPublications[0]?.id || 'gometa');
+      sel.value = selectedSubstackId;
+      updateSubstackLinks();
+      document.getElementById('substack-title').textContent = 'Substack · ' + (substackPublications.find(p => p.id === selectedSubstackId)?.name || selectedSubstackId);
+      loadSubstackFetch(false);
+    }
+
+    function updateSubstackLinks() {
+      const pub = substackPublications.find(p => p.id === selectedSubstackId);
+      if (pub) {
+        document.getElementById('substack-scheduled-link').href = 'https://' + pub.domain + '/publish/posts/scheduled';
+        document.getElementById('substack-drafts-link').href = 'https://' + pub.domain + '/publish/posts/drafts';
+        document.getElementById('substack-published-link').href = 'https://' + pub.domain + '/publish/posts';
+      }
+    }
+
+    function formatDate(s) {
+      if (!s) return '';
+      if (s.length < 20 && /^[A-Za-z]{3} \d{1,2}, \d{4}$/.test(s.trim())) return s.trim();
+      try {
+        const d = new Date(s);
+        return isNaN(d.getTime()) ? '' : d.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
+      } catch (e) { return ''; }
+    }
+
+    function renderSubstackLists(data) {
+      const scheduled = data.scheduled || [];
+      const drafts = data.drafts || [];
+      const published = data.published || [];
+      function renderScheduled(items, elId) {
+        const el = document.getElementById(elId);
+        el.innerHTML = items.length ? items.map(i => {
+          const dateStr = formatDate(i.date);
+          const label = dateStr ? dateStr + ' · ' + (i.title || i.url) : (i.title || i.url);
+          return '<div class="flex items-center py-2 px-2 rounded hover:bg-slate-700/50">' +
+            '<a href="' + escapeHtml(i.url) + '" target="_blank" class="text-amber-400 hover:underline truncate flex-1">' + escapeHtml(label) + '</a>' +
+            '</div>';
+        }).join('') : '<p class="text-slate-500 text-sm py-2">None</p>';
+      }
+      function renderDrafts(items, elId) {
+        const el = document.getElementById(elId);
+        el.innerHTML = items.length ? items.map(i =>
+          '<div class="flex items-center py-2 px-2 rounded hover:bg-slate-700/50">' +
+          '<a href="' + escapeHtml(i.url) + '" target="_blank" class="text-amber-400 hover:underline truncate flex-1">' + escapeHtml(i.title || i.url) + '</a>' +
+          '</div>'
+        ).join('') : '<p class="text-slate-500 text-sm py-2">None</p>';
+      }
+      function renderPublished(items, elId) {
+        const el = document.getElementById(elId);
+        el.innerHTML = items.length ? items.map(i => {
+          const dateStr = formatDate(i.date);
+          const label = dateStr ? dateStr + ' · ' + (i.title || i.url) : (i.title || i.url);
+          return '<div class="flex items-center py-2 px-2 rounded hover:bg-slate-700/50">' +
+            '<a href="' + escapeHtml(i.url) + '" target="_blank" class="text-amber-400 hover:underline truncate flex-1">' + escapeHtml(label) + '</a>' +
+            '</div>';
+        }).join('') : '<p class="text-slate-500 text-sm py-2">None</p>';
+      }
+      renderScheduled(scheduled, 'substack-scheduled-list');
+      renderDrafts(drafts, 'substack-drafts-list');
+      renderPublished(published, 'substack-published-list');
+    }
+
+    let repliesPublicationId = 'metaweb';
+
+    async function initRepliesView() {
+      try {
+        const pubsRes = await api('/api/substack-publications');
+        if (pubsRes.ok) {
+          const pubsData = await pubsRes.json();
+          const pubs = pubsData.publications || DEFAULT_SUBSTACK_PUBS;
+          const sel = document.getElementById('replies-publication-select');
+          sel.innerHTML = pubs.map(p => '<option value="' + escapeHtml(p.id) + '">' + escapeHtml(p.name) + '</option>').join('');
+          sel.value = repliesPublicationId;
+          sel.onchange = () => { repliesPublicationId = sel.value; loadReplies(); };
+        }
+      } catch (e) {}
+      loadReplies();
+    }
+
+    async function loadReplies() {
+      const loadingEl = document.getElementById('replies-loading');
+      loadingEl.classList.add('hidden');
+      try {
+        const res = await api('/api/replies?publication=' + encodeURIComponent(repliesPublicationId));
+        const data = await res.json();
+        const unreplied = data.unreplied || [];
+        const drafts = data.reply_drafts || [];
+        const unrepliedEl = document.getElementById('replies-unreplied-list');
+        unrepliedEl.innerHTML = unreplied.length ? unreplied.map(c =>
+          '<div class="bg-slate-700/50 rounded p-3 border border-slate-600">' +
+          '<div class="text-xs text-slate-500 mb-1">' + escapeHtml(c.post_title || '') + ' · ' + escapeHtml(c.author) + '</div>' +
+          '<div class="text-slate-300 text-sm mb-2">' + escapeHtml((c.text || '').slice(0, 200)) + (c.text && c.text.length > 200 ? '…' : '') + '</div>' +
+          '<div class="flex gap-2">' +
+          '<a href="' + escapeHtml(c.post_url) + '" target="_blank" class="text-xs text-amber-400 hover:underline">View post</a>' +
+          '<button class="reply-draft-btn text-xs px-2 py-1 bg-amber-600 hover:bg-amber-500 rounded" data-comment=\'' + escapeHtml(JSON.stringify(c)) + '\'>Draft reply</button>' +
+          '</div></div>'
+        ).join('') : '<p class="text-slate-500 text-sm py-2">None. Click Fetch comments.</p>';
+        unrepliedEl.querySelectorAll('.reply-draft-btn').forEach(btn => {
+          btn.onclick = () => createReplyDraft(JSON.parse(btn.dataset.comment));
+        });
+        const draftsEl = document.getElementById('replies-drafts-list');
+        draftsEl.innerHTML = drafts.length ? drafts.map(d => {
+          const meta = d.metadata || {};
+          const dest = (meta.parent_post_title || meta.parent_post_url || '').slice(0, 40);
+          return '<div class="flex items-center justify-between py-2 px-2 rounded hover:bg-slate-700/50">' +
+            '<button class="reply-draft-item text-left flex-1 truncate text-amber-400 hover:underline" data-id="' + escapeHtml(d.id) + '">' + escapeHtml(dest) + ' — ' + (meta.comment_author || '') + '</button>' +
+            '</div>';
+        }).join('') : '<p class="text-slate-500 text-sm py-2">No reply drafts yet</p>';
+        draftsEl.querySelectorAll('.reply-draft-item').forEach(btn => {
+          btn.onclick = () => { promoFilter = 'all'; switchView('promos'); selectDraft(btn.dataset.id); };
+        });
+      } catch (e) {
+        console.error(e);
+      }
+    }
+
+    async function createReplyDraft(comment) {
+      try {
+        const res = await api('/api/replies/draft', {
+          method: 'POST',
+          body: JSON.stringify({
+            comment_id: comment.id,
+            post_url: comment.post_url,
+            post_title: comment.post_title,
+            author: comment.author,
+            text: comment.text,
+          }),
+        });
+        const draft = await res.json();
+        loadReplies();
+        loadDrafts();
+        switchView('promos');
+        selectDraft(draft.id);
+      } catch (e) {
+        alert('Failed: ' + (e.message || 'Unknown error'));
+      }
+    }
+
+    async function loadSubstackFetch(triggerRefresh) {
+      const refreshingEl = document.getElementById('substack-refreshing');
+      const errorEl = document.getElementById('substack-error');
+      errorEl.classList.add('hidden');
+      errorEl.textContent = '';
+      const pub = selectedSubstackId;
+      const qs = '?publication=' + encodeURIComponent(pub) + (triggerRefresh ? '&refresh=1' : '');
+      try {
+        const res = await api('/api/substack-fetch' + qs);
+        const data = await res.json();
+        renderSubstackLists(data);
+        if (data.publication) {
+          document.getElementById('substack-title').textContent = 'Substack · ' + data.publication.name;
+        }
+        if (data.refreshing) {
+          refreshingEl.classList.remove('hidden');
+          clearInterval(substackPollTimer);
+          substackPollTimer = setInterval(function poll() {
+            api('/api/substack-fetch?publication=' + encodeURIComponent(pub)).then(r => r.json()).then(function(d) {
+              renderSubstackLists(d);
+              if (!d.refreshing) {
+                refreshingEl.classList.add('hidden');
+                clearInterval(substackPollTimer);
+                substackPollTimer = null;
+              }
+            }).catch(function() { clearInterval(substackPollTimer); });
+          }, 2000);
+        } else {
+          refreshingEl.classList.add('hidden');
+        }
+      } catch (e) {
+        errorEl.textContent = e.message || 'Fetch failed';
+        errorEl.classList.remove('hidden');
+        refreshingEl.classList.add('hidden');
+        if (substackPollTimer) clearInterval(substackPollTimer);
+      }
+    }
+
+    async function renderCalendarEvents() {
+      const el = document.getElementById('calendar-events-list');
+      if (!el) return;
+      try {
+        const tagSel = document.getElementById('cal-tag-filter');
+        const tag = tagSel && tagSel.value ? ('?tag=' + encodeURIComponent(tagSel.value)) : '';
+        const res = await api('/api/calendar' + tag);
+        const data = await res.json();
+        const evs = data.events || [];
+        el.innerHTML = evs.length ? evs.map(ev => {
+          const when = ev.starts_at ? new Date(ev.starts_at).toLocaleString() : '';
+          const dk = escapeHtml(ev.kind || '');
+          const tl = escapeHtml(ev.title || '');
+          const did = ev.draft_id ? ' · draft ' + escapeHtml(ev.draft_id) : '';
+          const tags = (ev.tags || []).map(t => '<span class="text-[10px] uppercase tracking-wide bg-slate-900 text-amber-400/90 px-1.5 py-0.5 rounded">' + escapeHtml(t) + '</span>').join(' ');
+          const alarm = (ev.alert_minutes_before != null) ? '<span class="text-slate-500 text-xs"> · ' + escapeHtml(String(ev.alert_minutes_before)) + 'm alert</span>' : '';
+          return '<div class="p-2 rounded bg-slate-700/80 border border-slate-600 flex gap-2 items-start">' +
+            '<div class="flex-1 min-w-0"><div class="text-amber-400/90 text-xs">' + escapeHtml(when) + ' · ' + dk + alarm + '</div>' +
+            '<div class="text-slate-200">' + tl + did + '</div>' +
+            (tags ? '<div class="flex flex-wrap gap-1 mt-1">' + tags + '</div>' : '') + '</div>' +
+            '<button type="button" class="cal-del-btn shrink-0 text-xs text-red-400 hover:text-red-300 px-2 py-1" data-eid="' + escapeHtml(ev.id || '') + '">Delete</button></div>';
+        }).join('') : '<p class="text-slate-500">No events in this window / filter.</p>';
+        el.querySelectorAll('.cal-del-btn').forEach(btn => {
+          btn.onclick = async () => {
+            if (!confirm('Remove this event?')) return;
+            try {
+              const r = await api('/api/calendar/events/' + btn.dataset.eid, { method: 'DELETE' });
+              if (!r.ok) throw new Error('Delete failed');
+              renderCalendarEvents();
+            } catch (err) {
+              alert(String(err.message || err));
+            }
+          };
+        });
+      } catch (e) {
+        el.innerHTML = '<p class="text-red-400 text-sm">' + escapeHtml(e.message) + '</p>';
+      }
+    }
+
+    async function renderWorkLog() {
+      const el = document.getElementById('work-log-list');
+      if (!el) return;
+      try {
+        const res = await api('/api/work-log?limit=50');
+        const data = await res.json();
+        const rows = data.entries || [];
+        el.innerHTML = rows.length ? rows.map(w => {
+          const t = escapeHtml((w.text || '').slice(0, 800));
+          const st = escapeHtml(w.status || '');
+          const dt = w.logged_at ? new Date(w.logged_at).toLocaleString() : '';
+          const wtags = (w.tags || []).length
+            ? '<div class="flex flex-wrap gap-1 mt-1">' + w.tags.map(x => '<span class="text-[10px] bg-slate-900 text-sky-400/90 px-1.5 rounded">' + escapeHtml(x) + '</span>').join('') + '</div>'
+            : '';
+          const att = (w.attachments || []).length
+            ? '<div class="text-xs text-slate-500 mt-1 font-mono break-all">' + w.attachments.map(a => escapeHtml(a.value || '')).join('<br/>') + '</div>'
+            : '';
+          const ing = w.ingest === false ? '<span class="text-xs text-slate-500"> (no ingest)</span>' : '';
+          return '<div class="p-2 rounded bg-slate-700/50 border border-slate-600/80"><div class="text-xs text-slate-500">' + escapeHtml(dt) + ' · ' + st + ing + '</div>' + wtags + '<div class="text-slate-200 mt-1 whitespace-pre-wrap">' + t + '</div>' + att + '</div>';
+        }).join('') : '<p class="text-slate-500">No entries yet.</p>';
+      } catch (e) {
+        el.innerHTML = '<p class="text-red-400 text-sm">' + escapeHtml(e.message) + '</p>';
+      }
+    }
+
+    async function loadCalendarPage() {
+      await renderCalendarEvents();
+      await renderWorkLog();
+    }
+
+    function onDraftScheduleChange() {
+      if (!currentId) return;
+      const el = document.getElementById('draft-schedule-at');
+      if (!el || !el.value) return;
+      clearTimeout(scheduleSaveTimer);
+      scheduleSaveTimer = setTimeout(() => {
+        const iso = new Date(el.value).toISOString();
+        api('/api/drafts/' + currentId, { method: 'PUT', body: JSON.stringify({ metadata: { scheduled_for: iso } }) }).then(() => loadDrafts()).catch(console.error);
+      }, 600);
+    }
+
+    async function loadTranscriptsPage() {
+      const errEl = document.getElementById('to-error');
+      errEl.classList.add('hidden');
+      errEl.textContent = '';
+      try {
+        const res = await api('/api/bride/transcript-overrides');
+        if (!res.ok) {
+          const j = await res.json().catch(() => ({}));
+          throw new Error(j.error || res.statusText);
+        }
+        const data = await res.json();
+        transcriptOverrides = data.items || [];
+        transcriptProjectDir = data.project_dir || '';
+        const sp = document.getElementById('to-store-path');
+        if (sp) sp.textContent = data.store_path || '';
+        await ensureScanEpisodeSelect();
+        renderTranscriptOverrideList();
+        if (selectedOverrideId && transcriptOverrides.some(x => x.id === selectedOverrideId)) {
+          selectTranscriptOverride(selectedOverrideId);
+        } else {
+          selectTranscriptOverride(null);
+        }
+      } catch (e) {
+        errEl.textContent = e.message || String(e);
+        errEl.classList.remove('hidden');
+      }
+    }
+
+    function filteredTranscriptOverrides() {
+      const f = (document.getElementById('to-filter') && document.getElementById('to-filter').value) || 'all';
+      if (f === 'all') return transcriptOverrides;
+      return transcriptOverrides.filter(x => (x.status || '') === f);
+    }
+
+    function renderTranscriptOverrideList() {
+      const el = document.getElementById('to-list');
+      if (!el) return;
+      const rows = filteredTranscriptOverrides();
+      el.innerHTML = rows.length ? rows.map(it => {
+        const st = escapeHtml(it.status || '');
+        const ep = escapeHtml(String(it.episode != null ? it.episode : ''));
+        const note = escapeHtml((it.note || '').slice(0, 80));
+        const find = escapeHtml((it.find || '').slice(0, 60));
+        const sel = it.id === selectedOverrideId ? 'bg-slate-600 border-amber-500/50' : 'bg-slate-700/50 border-slate-600';
+        return '<button type="button" class="to-item w-full text-left px-3 py-2 rounded border ' + sel + ' hover:bg-slate-600/80" data-id="' + escapeHtml(it.id) + '">' +
+          '<div class="text-xs text-slate-500">ep ' + ep + ' · <span class="text-amber-400/90">' + st + '</span></div>' +
+          '<div class="font-mono text-xs text-slate-200 truncate">' + find + (it.find && it.find.length > 60 ? '…' : '') + '</div>' +
+          (note ? '<div class="text-xs text-slate-400 mt-0.5">' + note + '</div>' : '') +
+          '</button>';
+      }).join('') : '<p class="text-slate-500 text-sm">No items for this filter.</p>';
+      el.querySelectorAll('.to-item').forEach(btn => {
+        btn.onclick = () => selectTranscriptOverride(btn.dataset.id);
+      });
+    }
+
+    function selectTranscriptOverride(id) {
+      selectedOverrideId = id || null;
+      const it = id ? transcriptOverrides.find(x => x.id === id) : null;
+      const empty = document.getElementById('to-detail-empty');
+      const det = document.getElementById('to-detail');
+      const prevBox = document.getElementById('to-preview-box');
+      const logEl = document.getElementById('to-log');
+      if (prevBox) prevBox.classList.add('hidden');
+      if (logEl) { logEl.classList.add('hidden'); logEl.textContent = ''; }
+      applyPreviewMediaUi({});
+      if (!it) {
+        if (empty) empty.classList.remove('hidden');
+        if (det) det.classList.add('hidden');
+        renderTranscriptOverrideList();
+        return;
+      }
+      if (empty) empty.classList.add('hidden');
+      if (det) det.classList.remove('hidden');
+      document.getElementById('to-d-id').textContent = it.id;
+      document.getElementById('to-d-ep').textContent = String(it.episode);
+      document.getElementById('to-d-status').textContent = it.status || '';
+      document.getElementById('to-d-find').value = it.find || '';
+      document.getElementById('to-d-repl').value = it.replace != null ? it.replace : '';
+      document.getElementById('to-d-note').value = it.note || '';
+      document.getElementById('to-d-mode').value = it.match_mode === 'regex' ? 'regex' : 'literal';
+      document.getElementById('to-d-prio').value = it.priority != null ? it.priority : 0;
+      renderTranscriptOverrideList();
+    }
+
+    function collectTiersFromForm(className) {
+      const boxes = document.querySelectorAll(className + ':checked');
+      return Array.from(boxes).map(cb => cb.value);
+    }
+
+    document.getElementById('save-btn').onclick = () => saveCurrent();
+    document.getElementById('publish-btn').onclick = publishDraft;
+    document.getElementById('view-promos').onclick = () => { promoFilter = 'all'; switchView('promos'); };
+    document.getElementById('view-desirable').onclick = () => { promoFilter = 'desirable'; switchView('promos'); };
+    document.getElementById('view-substack').onclick = () => switchView('substack');
+    document.getElementById('view-replies').onclick = () => switchView('replies');
+    document.getElementById('view-calendar').onclick = () => switchView('calendar');
+    document.getElementById('view-transcripts').onclick = () => switchView('transcripts');
+    const toFilter = document.getElementById('to-filter');
+    if (toFilter) toFilter.onchange = () => { renderTranscriptOverrideList(); };
+    document.getElementById('to-refresh-btn').onclick = () => loadTranscriptsPage();
+    document.getElementById('to-new-submit').onclick = async () => {
+      const ep = parseInt(document.getElementById('to-new-ep').value, 10);
+      const tiers = collectTiersFromForm('.to-tier');
+      if (!tiers.length) { alert('Select at least one tier'); return; }
+      const body = {
+        episode: ep,
+        find: document.getElementById('to-new-find').value,
+        replace: document.getElementById('to-new-repl').value,
+        match_mode: document.getElementById('to-new-mode').value,
+        note: document.getElementById('to-new-note').value,
+        status: 'proposed',
+        tiers,
+      };
+      const mx = document.getElementById('to-new-max').value.trim();
+      if (mx) body.max_replacements = parseInt(mx, 10);
+      try {
+        const res = await api('/api/bride/transcript-overrides', { method: 'POST', body: JSON.stringify(body) });
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok) throw new Error(data.error || res.statusText);
+        transcriptOverrides = data.items || [];
+        selectedOverrideId = data.item && data.item.id;
+        renderTranscriptOverrideList();
+        selectTranscriptOverride(selectedOverrideId);
+        document.getElementById('to-new-find').value = '';
+        document.getElementById('to-new-repl').value = '';
+        document.getElementById('to-new-note').value = '';
+      } catch (e) {
+        alert('Failed: ' + (e.message || e));
+      }
+    };
+    document.getElementById('to-save-btn').onclick = async () => {
+      if (!selectedOverrideId) return;
+      const cur = transcriptOverrides.find(x => x.id === selectedOverrideId);
+      const tiers = (cur && cur.tiers && cur.tiers.length) ? cur.tiers : ['inscription', 'transcripts_corrected', 'transcripts'];
+      const body = {
+        find: document.getElementById('to-d-find').value,
+        replace: document.getElementById('to-d-repl').value,
+        note: document.getElementById('to-d-note').value,
+        match_mode: document.getElementById('to-d-mode').value,
+        priority: parseInt(document.getElementById('to-d-prio').value, 10) || 0,
+        episode: parseInt(document.getElementById('to-d-ep').textContent, 10),
+        tiers,
+        flags: (cur && cur.flags) ? cur.flags : [],
+      };
+      try {
+        const res = await api('/api/bride/transcript-overrides/' + encodeURIComponent(selectedOverrideId), { method: 'PUT', body: JSON.stringify(body) });
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok) throw new Error(data.error || res.statusText);
+        transcriptOverrides = data.items || [];
+        selectTranscriptOverride(selectedOverrideId);
+      } catch (e) {
+        alert('Save failed: ' + (e.message || e));
+      }
+    };
+    document.getElementById('to-preview-btn').onclick = async () => {
+      if (!selectedOverrideId) return;
+      try {
+        const res = await api('/api/bride/transcript-overrides/' + encodeURIComponent(selectedOverrideId) + '/preview');
+        const data = await res.json().catch(() => ({}));
+        const p = data.preview || {};
+        document.getElementById('to-preview-box').classList.remove('hidden');
+        document.getElementById('to-preview-file').textContent = p.file || '(no match)';
+        document.getElementById('to-preview-n').textContent = String(p.replacements != null ? p.replacements : '');
+        document.getElementById('to-preview-before').textContent = p.before_excerpt || '';
+        document.getElementById('to-preview-after').textContent = p.after_excerpt || '';
+        applyPreviewMediaUi(p);
+      } catch (e) {
+        alert('Preview failed: ' + (e.message || e));
+      }
+    };
+    document.getElementById('to-open-youtube').onclick = () => {
+      if (lastYoutubeWatch) window.open(lastYoutubeWatch, '_blank', 'noopener,noreferrer');
+    };
+    document.getElementById('to-play-embed').onclick = () => {
+      if (!lastYoutubeEmbed) return;
+      const wrap = document.getElementById('to-embed-wrap');
+      const fr = document.getElementById('to-embed-frame');
+      wrap.classList.remove('hidden');
+      fr.src = buildYouTubeEmbedSrc(lastYoutubeEmbed);
+      fr.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    };
+    document.getElementById('to-stop-embed').onclick = () => clearTranscriptEmbed();
+    document.getElementById('to-scan-btn').onclick = () => runTranscriptScan();
+    const toSenseBtn = document.getElementById('to-sense-btn');
+    if (toSenseBtn) toSenseBtn.onclick = () => runTranscriptSenseScan();
+    document.getElementById('to-accept-btn').onclick = async () => {
+      if (!selectedOverrideId) return;
+      if (!confirm('Accept this override and write transcript files + sync hashes?')) return;
+      try {
+        const res = await api('/api/bride/transcript-overrides/' + encodeURIComponent(selectedOverrideId) + '/accept', { method: 'POST', body: JSON.stringify({}) });
+        const data = await res.json().catch(() => ({}));
+        const logEl = document.getElementById('to-log');
+        logEl.classList.remove('hidden');
+        logEl.textContent = (data.apply_stdout || '') + (data.apply_stderr || '') + (data.sync_tail || '') || JSON.stringify(data, null, 2);
+        if (!data.ok) alert('Apply returned error — see log below');
+        await loadTranscriptsPage();
+        selectTranscriptOverride(selectedOverrideId);
+      } catch (e) {
+        alert('Accept failed: ' + (e.message || e));
+      }
+    };
+    document.getElementById('to-reject-btn').onclick = async () => {
+      if (!selectedOverrideId) return;
+      try {
+        const res = await api('/api/bride/transcript-overrides/' + encodeURIComponent(selectedOverrideId), { method: 'PUT', body: JSON.stringify({ status: 'rejected' }) });
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok) throw new Error(data.error || res.statusText);
+        transcriptOverrides = data.items || [];
+        selectTranscriptOverride(selectedOverrideId);
+      } catch (e) {
+        alert('Update failed: ' + (e.message || e));
+      }
+    };
+    document.getElementById('to-delete-btn').onclick = async () => {
+      if (!selectedOverrideId) return;
+      if (!confirm('Delete this override from the queue?')) return;
+      try {
+        const res = await api('/api/bride/transcript-overrides/' + encodeURIComponent(selectedOverrideId), { method: 'DELETE' });
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok) throw new Error(data.error || res.statusText);
+        transcriptOverrides = data.items || [];
+        selectedOverrideId = null;
+        selectTranscriptOverride(null);
+        renderTranscriptOverrideList();
+      } catch (e) {
+        alert('Delete failed: ' + (e.message || e));
+      }
+    };
+    document.getElementById('to-apply-all-btn').onclick = async () => {
+      if (!confirm('Run apply for all accepted overrides (all episodes)?')) return;
+      try {
+        const res = await api('/api/bride/transcript-overrides/apply-all', { method: 'POST', body: JSON.stringify({}) });
+        const data = await res.json().catch(() => ({}));
+        const logEl = document.getElementById('to-global-log');
+        logEl.classList.remove('hidden');
+        logEl.textContent = (data.stdout || '') + (data.stderr || '') + (data.sync_tail || '');
+        if (!data.ok) alert('apply-all had errors — see log above');
+        await loadTranscriptsPage();
+      } catch (e) {
+        alert('apply-all failed: ' + (e.message || e));
+      }
+    };
+    document.getElementById('replies-fetch-btn').onclick = async () => {
+      document.getElementById('replies-loading').classList.remove('hidden');
+      await api('/api/replies/fetch', { method: 'POST', body: JSON.stringify({ publication: repliesPublicationId }) });
+      document.getElementById('replies-loading').textContent = 'Fetching… Refresh in ~30s or click tab again.';
+      const stop = Date.now() + 45000;
+      const poll = () => { loadReplies(); if (Date.now() < stop) setTimeout(poll, 5000); else document.getElementById('replies-loading').classList.add('hidden'); };
+      setTimeout(poll, 5000);
+    };
+    document.getElementById('substack-refresh-btn').onclick = () => loadSubstackFetch(true);
+    const waTa = document.getElementById('whatsapp-proposed-text');
+    if (waTa) waTa.addEventListener('input', updateWhatsappCharHint);
+    document.getElementById('whatsapp-refresh-btn').onclick = () => refreshWhatsappPanel();
+    document.getElementById('whatsapp-copy-btn').onclick = () => copyWhatsappProposed();
+    document.getElementById('whatsapp-open-btn').onclick = () => openWhatsAppForPaste();
+    document.getElementById('whatsapp-copy-open-btn').onclick = () => copyAndOpenWhatsApp();
+    document.getElementById('substack-publication-select').onchange = function() {
+      selectedSubstackId = this.value;
+      updateSubstackLinks();
+      document.getElementById('substack-title').textContent = 'Substack · ' + (substackPublications.find(p => p.id === selectedSubstackId)?.name || selectedSubstackId);
+      loadSubstackFetch(false);
+    };
+
+    document.getElementById('destination-select').onchange = function() {
+      if (!currentId) return;
+      const sel = document.getElementById('destination-select');
+      const opt = sel.options[sel.selectedIndex];
+      const dest = opt ? opt.value : '';
+      const platform = opt ? opt.dataset.platform : '';
+      updateWhatsappPanelVisibility({ platform: platform || '', metadata: { destination: dest } });
+      if (dest) {
+        api('/api/drafts/' + currentId, { method: 'PUT', body: JSON.stringify({ destination: dest, platform: platform }) })
+          .then(function() { loadDraft(currentId); loadDrafts(); })
+          .catch(console.error);
+      }
+    };
+
+    const draftSched = document.getElementById('draft-schedule-at');
+    if (draftSched) draftSched.addEventListener('change', onDraftScheduleChange);
+    document.getElementById('draft-sync-calendar-btn').onclick = async () => {
+      if (!currentId) { alert('Select a draft first'); return; }
+      const el = document.getElementById('draft-schedule-at');
+      if (!el || !el.value) { alert('Pick a date and time'); return; }
+      const iso = new Date(el.value).toISOString();
+      try {
+        const res = await api('/api/calendar/sync-draft', { method: 'POST', body: JSON.stringify({ draft_id: currentId, starts_at: iso }) });
+        if (!res.ok) {
+          const err = await res.json().catch(() => ({}));
+          throw new Error(err.error || res.statusText);
+        }
+        alert('Draft linked to master calendar.');
+        await loadDraft(currentId);
+        loadDrafts();
+      } catch (e) {
+        alert('Sync failed: ' + (e.message || 'Unknown'));
+      }
+    };
+    document.getElementById('calendar-refresh-btn').onclick = () => loadCalendarPage();
+    const calTagFilter = document.getElementById('cal-tag-filter');
+    if (calTagFilter) calTagFilter.onchange = () => renderCalendarEvents();
+    document.getElementById('cal-new-submit').onclick = async () => {
+      const title = document.getElementById('cal-new-title').value.trim();
+      const starts = document.getElementById('cal-new-starts').value;
+      if (!title || !starts) { alert('Title and start time required'); return; }
+      const iso = new Date(starts).toISOString();
+      try {
+        const tagEls = document.querySelectorAll('.cal-new-tag:checked');
+        const tags = Array.from(tagEls).map(cb => cb.value);
+        const alertEl = document.getElementById('cal-new-alert');
+        const alertMin = alertEl && alertEl.value !== '' ? parseInt(alertEl.value, 10) : null;
+        const payload = {
+          title,
+          kind: document.getElementById('cal-new-kind').value,
+          starts_at: iso,
+          notes: document.getElementById('cal-new-notes').value.trim(),
+          tags,
+        };
+        if (alertMin != null && !isNaN(alertMin) && alertMin >= 0) payload.alert_minutes_before = alertMin;
+        await api('/api/calendar/events', { method: 'POST', body: JSON.stringify(payload) });
+        document.getElementById('cal-new-title').value = '';
+        document.getElementById('cal-new-notes').value = '';
+        document.querySelectorAll('.cal-new-tag').forEach(cb => { cb.checked = false; });
+        if (alertEl) alertEl.value = '';
+        renderCalendarEvents();
+      } catch (e) {
+        alert('Failed: ' + (e.message || 'Unknown'));
+      }
+    };
+    document.getElementById('wl-submit').onclick = async () => {
+      const text = document.getElementById('wl-text').value.trim();
+      if (!text) { alert('Enter a note'); return; }
+      const linksRaw = document.getElementById('wl-links').value.trim();
+      const body = {
+        text,
+        status: document.getElementById('wl-status').value,
+        ingest: document.getElementById('wl-ingest').checked,
+      };
+      if (linksRaw) body.links_or_paths = linksRaw;
+      const wlTags = (document.getElementById('wl-tags') && document.getElementById('wl-tags').value || '').split(',').map(s => s.trim()).filter(Boolean);
+      if (wlTags.length) body.tags = wlTags;
+      try {
+        await api('/api/work-log', { method: 'POST', body: JSON.stringify(body) });
+        document.getElementById('wl-text').value = '';
+        document.getElementById('wl-links').value = '';
+        const wlt = document.getElementById('wl-tags');
+        if (wlt) wlt.value = '';
+        renderWorkLog();
+      } catch (e) {
+        alert('Failed: ' + (e.message || 'Unknown'));
+      }
+    };
+
+    quill = new Quill('#editor', { theme: 'snow', placeholder: 'Write your draft...' });
+    quill.on('text-change', () => {
+      clearTimeout(saveTimeout);
+      saveTimeout = setTimeout(saveCurrent, 2000);
+    });
+
+    loadProfiles().then(() => {
+      setupNewDraftMenu();
+      setupImproveMenu();
+      restoreDraftEditorView();
+    });
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('#promos-header')) document.getElementById('new-draft-menu').classList.add('hidden');
+      if (!e.target.closest('#improve-container')) document.getElementById('improve-menu').classList.add('hidden');
+    });
+  </script>
+</body>
+</html>

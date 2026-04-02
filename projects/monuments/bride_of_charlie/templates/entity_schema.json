@@ -11,8 +11,8 @@
       "description": "Extractor confidence in attribution or reading"
     },
     "uncertaintyNote": {
-      "type": "string",
-      "description": "Brief note on ambiguity, overlap, or limits of evidence"
+      "type": ["string", "null"],
+      "description": "Brief note on ambiguity, overlap, or limits of evidence (null if none)"
     }
   },
   "required": ["meta", "executive_summary", "artifacts", "nodes", "claims"],
@@ -101,8 +101,16 @@
           "@id": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
           "ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
           "name": { "type": "string" },
-          "type": { "enum": ["person", "investigation_target"] },
+          "type": {
+            "enum": ["person", "investigation_target", "institution"],
+            "description": "institution = org/company/government body; maps to InvestigationTarget in Phase 2 / Neo4j"
+          },
           "description": { "type": "string" },
+          "also_known_as": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Other names for the same entity as `ref` (e.g. Erika Frantzve vs Erika Kirk — maiden/birth vs married; caption spellings). Not a second node."
+          },
           "related_artifacts": { "type": "array", "items": { "type": "string" } },
           "related_claims": { "type": "array", "items": { "type": "string" } },
           "tags": { "type": "array", "items": { "type": "string" }, "description": "e.g. key_figure, witness, institution, discrepancy_target, host, quoted" },

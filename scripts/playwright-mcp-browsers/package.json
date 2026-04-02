@@ -1,0 +1,11 @@
+{
+  "name": "playwright-mcp-browsers",
+  "private": true,
+  "description": "Pins Playwright to the version @playwright/mcp uses; ensure-playwright-mcp-browsers.sh syncs this and runs playwright install chromium.",
+  "dependencies": {
+    "playwright": "1.60.0-alpha-1774999321000"
+  },
+  "scripts": {
+    "install-browsers": "playwright install chromium"
+  }
+}

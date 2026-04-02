@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Draft Editor</title>
+  <link href="https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/quill.snow.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/quill.min.js"></script>
+  <link rel="stylesheet" href="tailwind.css">
+</head>
+<body class="bg-slate-100 min-h-screen">
+  <div class="max-w-6xl mx-auto p-4">
+    <header class="flex justify-between items-center mb-6">
+      <h1 class="text-xl font-semibold text-slate-800">Draft Editor</h1>
+      <div class="flex gap-2">
+        <button id="new-draft" class="px-3 py-1.5 bg-slate-700 text-white rounded text-sm hover:bg-slate-600">New Draft</button>
+      </div>
+    </header>
+
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-4">
+      <!-- Draft list -->
+      <aside class="lg:col-span-1">
+        <div class="bg-white rounded-lg shadow p-4">
+          <h2 class="font-medium text-slate-700 mb-3">Drafts</h2>
+          <div id="draft-list" class="space-y-2 max-h-[60vh] overflow-y-auto"></div>
+        </div>
+      </aside>
+
+      <!-- Editor -->
+      <main class="lg:col-span-2 space-y-4">
+        <div id="empty-state" class="bg-white rounded-lg shadow p-8 text-center text-slate-500">
+          Select a draft or create a new one
+        </div>
+        <div id="editor-panel" class="hidden">
+          <div class="bg-white rounded-lg shadow p-4">
+            <div class="flex justify-between items-center mb-3">
+              <span id="draft-meta" class="text-sm text-slate-500"></span>
+              <div class="flex gap-2">
+                <button id="save-btn" class="px-3 py-1.5 bg-slate-200 text-slate-700 rounded text-sm hover:bg-slate-300">Save</button>
+                <button id="publish-btn" class="px-3 py-1.5 bg-emerald-600 text-white rounded text-sm hover:bg-emerald-500">Publish</button>
+              </div>
+            </div>
+            <div id="editor" class="min-h-[200px] bg-white"></div>
+          </div>
+          <div class="bg-white rounded-lg shadow p-4">
+            <h3 class="font-medium text-slate-700 mb-2">History</h3>
+            <div id="history-list" class="text-sm text-slate-600 space-y-1 max-h-32 overflow-y-auto"></div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script>
+    const API = '';
+    let quill;
+    let currentId = null;
+    let saveTimeout = null;
+
+    function getAuthHeader() {
+      const cred = sessionStorage.getItem('draft_creds');
+      return cred ? { 'Authorization': 'Basic ' + cred } : {};
+    }
+
+    async function api(path, opts = {}) {
+      const headers = { 'Content-Type': 'application/json', ...getAuthHeader(), ...(opts.headers || {}) };
+      const res = await fetch(API + path, { ...opts, headers, credentials: 'include' });
+      if (res.status === 401) {
+        const user = prompt('Username:', 'draft');
+        const pass = prompt('Password:');
+        if (user && pass) {
+          sessionStorage.setItem('draft_creds', btoa(user + ':' + pass));
+          return api(path, opts);
+        }
+        throw new Error('Auth required');
+      }
+      return res;
+    }
+
+    async function loadDrafts() {
+      const res = await api('/api/drafts');
+      const drafts = await res.json();
+      const el = document.getElementById('draft-list');
+      el.innerHTML = drafts.map(d => `
+        <button class="draft-item w-full text-left px-3 py-2 rounded hover:bg-slate-100 ${d.id === currentId ? 'bg-slate-200' : ''}" data-id="${d.id}">
+          <div class="font-medium truncate">${(d.content || '').slice(0, 40)}...</div>
+          <div class="text-xs text-slate-500">${d.platform} · ${d.status} · ${new Date(d.updated_at).toLocaleDateString()}</div>
+        </button>
+      `).join('') || '<p class="text-slate-500 text-sm">No drafts</p>';
+      el.querySelectorAll('.draft-item').forEach(btn => {
+        btn.onclick = () => selectDraft(btn.dataset.id);
+      });
+    }
+
+    function selectDraft(id) {
+      if (currentId && quill) {
+        saveCurrent();
+      }
+      currentId = id;
+      loadDraft(id);
+      loadDrafts();
+    }
+
+    async function loadDraft(id) {
+      const res = await api(`/api/drafts/${id}`);
+      const draft = await res.json();
+      document.getElementById('empty-state').classList.add('hidden');
+      document.getElementById('editor-panel').classList.remove('hidden');
+      document.getElementById('draft-meta').textContent = `${draft.platform} · ${draft.status} · ${draft.updated_at}`;
+      if (quill) quill.root.innerHTML = draft.content || '';
+      const hist = document.getElementById('history-list');
+      hist.innerHTML = (draft.history || []).map(h => `
+        <div><span class="text-slate-400">${new Date(h.timestamp).toLocaleString()}</span> ${h.author} ${h.milestone ? '· ' + h.milestone : ''}</div>
+      `).reverse().join('') || '<p class="text-slate-500">No history</p>';
+    }
+
+    function saveCurrent() {
+      if (!currentId || !quill) return;
+      const content = quill.root.innerHTML;
+      api(`/api/drafts/${currentId}`, {
+        method: 'PUT',
+        body: JSON.stringify({ content }),
+      }).then(() => loadDrafts()).catch(console.error);
+    }
+
+    async function createDraft() {
+      const res = await api('/api/drafts', {
+        method: 'POST',
+        body: JSON.stringify({ content: '<p>New draft</p>', platform: 'linkedin', author: 'user' }),
+      });
+      const draft = await res.json();
+      await loadDrafts();
+      selectDraft(draft.id);
+    }
+
+    async function publishDraft() {
+      if (!currentId) return;
+      if (!confirm('Publish this draft? The publish agent will post it.')) return;
+      const res = await api(`/api/drafts/${currentId}/publish`, { method: 'POST' });
+      if (!res.ok) {
+        const err = await res.json();
+        alert('Publish failed: ' + (err.error || err.detail || res.statusText));
+        return;
+      }
+      loadDraft(currentId);
+      loadDrafts();
+      alert('Published!');
+    }
+
+    document.getElementById('new-draft').onclick = createDraft;
+    document.getElementById('save-btn').onclick = () => { saveCurrent(); };
+    document.getElementById('publish-btn').onclick = publishDraft;
+
+    quill = new Quill('#editor', {
+      theme: 'snow',
+      placeholder: 'Write your draft...',
+    });
+    quill.on('text-change', () => {
+      clearTimeout(saveTimeout);
+      saveTimeout = setTimeout(saveCurrent, 2000);
+    });
+
+    loadDrafts();
+  </script>
+</body>
+</html>

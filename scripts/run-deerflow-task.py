@@ -43,38 +43,81 @@ def load_env() -> None:
         print(f"[run-deerflow-task] Warning: No .env at {env_path}", file=sys.stderr)
 
 
-def run_task(prompt: str, thread_id: str | None = None) -> str:
+def run_task(prompt: str, thread_id: str | None = None, timeout: int = 300) -> str:
     """Invoke DeerFlow agent and return response text."""
     # Set config paths before subprocess
     env = {**os.environ}
     env.setdefault("DEER_FLOW_CONFIG_PATH", str(DEER_FLOW_DIR / "config.yaml"))
     env.setdefault("DEER_FLOW_EXTENSIONS_CONFIG_PATH", str(DEER_FLOW_DIR / "extensions_config.json"))
+    env["AGENT_LAB_ROOT"] = str(AGENT_LAB_ROOT)  # For shiftshapr_remember tool
     env["DEERFLOW_TASK_PROMPT"] = prompt
     env["DEERFLOW_TASK_THREAD"] = thread_id or f"task-{datetime.now().strftime('%Y%m%d-%H%M%S')}"
 
     # Run via uv run (backend deps) from backend dir
     import subprocess
     cmd = ["uv", "run", "python", "-c", _TASK_SCRIPT]
-    result = subprocess.run(
-        cmd,
-        cwd=str(BACKEND_DIR),
-        env=env,
-        capture_output=True,
-        text=True,
-    )
+    try:
+        result = subprocess.run(
+            cmd,
+            cwd=str(BACKEND_DIR),
+            env=env,
+            capture_output=True,
+            text=True,
+            timeout=timeout,
+        )
+    except subprocess.TimeoutExpired:
+        print(f"[run-deerflow-task] Timed out after {timeout}s", file=sys.stderr)
+        raise RuntimeError(f"DeerFlow task timed out after {timeout}s")
     if result.returncode != 0:
-        print(result.stderr, file=sys.stderr)
-        raise RuntimeError(f"DeerFlow task failed: {result.returncode}")
+        err = (result.stderr or "").strip()
+        out = (result.stdout or "").strip()
+        print(f"[run-deerflow-task] exit={result.returncode}", file=sys.stderr)
+        if err:
+            print(err, file=sys.stderr)
+        if out:
+            print(f"[run-deerflow-task] stdout:\n{out}", file=sys.stderr)
+        # One-line hint for Telegram / callers (avoid useless "failed: 1")
+        detail = _summarize_subprocess_failure(err, out)
+        raise RuntimeError(f"DeerFlow task failed ({result.returncode}): {detail}")
     return result.stdout.strip()
+
+
+def _summarize_subprocess_failure(stderr: str, stdout: str) -> str:
+    """Pick a short human-readable reason from uv/python stderr."""
+    text = (stderr or "") + "\n" + (stdout or "")
+    lines = [ln.strip() for ln in text.splitlines() if ln.strip()]
+    # Prefer common root causes
+    for ln in lines:
+        low = ln.lower()
+        if "modulenotfounderror" in low or "importerror" in low:
+            return ln[:300]
+        if "connection refused" in low:
+            return "Connection refused — is LangGraph (2024) / Gateway (8001) running? Try: framework/deer-flow/scripts/restart-deerflow.sh"
+        if "api key" in low or "authentication" in low or "401" in ln or "403" in ln:
+            return ln[:300]
+    # Last error-ish line before a traceback noise
+    for ln in reversed(lines):
+        if ln.startswith("Error") or ln.startswith("Exception") or "Error:" in ln:
+            return ln[:300]
+    if lines:
+        return lines[-1][:300]
+    return "no stderr — run from agent-lab root: uv sync in framework/deer-flow/backend; check LangGraph is up"
 
 
 _TASK_SCRIPT = """
 import os
+import sys
 from deerflow.client import DeerFlowClient
+from langgraph.checkpoint.memory import InMemorySaver
 prompt = os.environ["DEERFLOW_TASK_PROMPT"]
 thread_id = os.environ["DEERFLOW_TASK_THREAD"]
-client = DeerFlowClient()
-print(client.chat(prompt, thread_id=thread_id))
+recursion_limit = int(os.environ.get("DEERFLOW_TASK_RECURSION_LIMIT", "100"))
+# InMemorySaver supports async (astream) — required for MCP tools (Zoho, etc.)
+client = DeerFlowClient(checkpointer=InMemorySaver())
+out = client.chat(prompt, thread_id=thread_id, recursion_limit=recursion_limit)
+if not (out or "").strip():
+    print("[run-deerflow-task] WARNING: empty assistant text (raise DEERFLOW_TASK_RECURSION_LIMIT if graph hit step cap)", file=sys.stderr)
+print(out)
 """
 
 
@@ -83,13 +126,19 @@ def main() -> None:
     parser.add_argument("prompt", help="Task prompt for the agent")
     parser.add_argument("--output", "-o", type=Path, help="Write response to file")
     parser.add_argument("--thread-id", help="Thread ID for conversation context")
+    parser.add_argument("--timeout", "-t", type=int, default=300, help="Timeout in seconds (default: 300)")
     args = parser.parse_args()
 
     load_env()
     LOGS_DIR.mkdir(parents=True, exist_ok=True)
 
-    print(f"[run-deerflow-task] Running: {args.prompt[:80]}...", file=sys.stderr)
-    response = run_task(args.prompt, thread_id=args.thread_id)
+    print(f"[run-deerflow-task] Running: {args.prompt[:80]}... (timeout: {args.timeout}s)", file=sys.stderr)
+    try:
+        response = run_task(args.prompt, thread_id=args.thread_id, timeout=args.timeout)
+    except RuntimeError as e:
+        # Clean exit so subprocess callers get one stderr line, not a duplicate traceback
+        print(str(e), file=sys.stderr)
+        sys.exit(1)
 
     if args.output:
         args.output.parent.mkdir(parents=True, exist_ok=True)

@@ -22,10 +22,10 @@ Transcripts → Episode Analysis → Drafts → Verify → Neo4j → Cross-Episo
 | 1.2 | Create fresh drafts | `mkdir drafts` |
 | 1.3 | Start Neo4j | `docker compose up -d` |
 | 1.4 | Clear Neo4j graph | `python scripts/neo4j_ingest.py --force` |
-| 1.5 | Apply name corrections | `python scripts/neo4j_corrections.py apply-dir transcripts/` |
-| 1.6 | Verify transcripts exist | `ls transcripts/*.txt` (expect 7 files) |
+| 1.5 | Build corrected transcripts | `python scripts/neo4j_corrections.py apply-dir transcripts/ --output-dir transcripts_corrected/` |
+| 1.6 | Verify raw + corrected exist | `ls transcripts/*.txt` and `ls transcripts_corrected/*.txt` (expect 7 each) |
 
-**Output:** Clean drafts dir, empty Neo4j, corrected transcripts.
+**Output:** Clean drafts dir, empty Neo4j, `transcripts_corrected/` populated from raw `transcripts/`.
 
 ---
 
@@ -52,7 +52,7 @@ Transcripts → Episode Analysis → Drafts → Verify → Neo4j → Cross-Episo
 | 3.1 | Run episode analysis | `python scripts/run_workflow.py episodes --force` |
 
 **What happens:**
-- Reads from `transcripts/`
+- Reads from `transcripts_corrected/` (raw stays in `transcripts/`)
 - Writes to `drafts/`
 - Uses Neo4j for ledger state (when NEO4J_URI set)
 - Injects cross-episode context (recurring nodes)
@@ -208,7 +208,8 @@ bride_of_charlie/
 │   └── quality_report.md
 ├── inscription/                # Inscription-ready: episode_NNN.json + episode_NNN_transcript.txt
 ├── output/                     # Approved (after human review)
-├── transcripts/                # Source transcripts (corrected)
+├── transcripts/                # Raw source transcripts (never modified by corrections)
+├── transcripts_corrected/    # Generated: raw + NameCorrection replacements
 ├── canonical/                  # nodes.json, memes.json (shared across monuments)
 ├── logs/                       # Run logs
 └── reports/                    # Exported dossiers (optional)

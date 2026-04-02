@@ -156,6 +156,23 @@ Output valid JSON-LD only. No markdown, no commentary.
 }
 ```
 
+---
+
+## Nodes: people, investigations, institutions, and programs
+
+- **People** (`type`: `person`): `NODE_1` … `NODE_999` (placeholders before Phase 2).
+- **Investigation targets** (`type`: `investigation_target`): `NODE_1000`, `NODE_1001`, … — discrepancies, verification goals, **named schools under investigation**, etc.
+- **Institutions / government programs** (same bucket as investigation targets when not a natural person): Create a **`InvestigationTarget`** (or `institution` when using that type) **whenever** the episode **substantively names** e.g.:
+  - a **government or military program** (e.g. **MK Ultra**, a named **CIA** program such as **Project Looking Glass**),
+  - a **regulatory or legislative program** referred to as a proper name,
+  - a **school or company** as an investigable entity.
+  **Do not** require the topic to recur in other episodes. **One mention is enough** if it is developed beyond a passing word.
+- **Memes** (`memes`): Use for **rhetorical pattern / euphemism / code** analysis. **Do not** put a named real-world program or institution **only** under `memes` — it must also have a **node** if it is an investigable entity. Memes may **complement** nodes (e.g. linking two proper names rhetorically).
+
+**Canonical naming:** Use correct **proper-name spellings** in `name` when established (e.g. **Tesseract School** for the school). Put caption/STT variants (**Tesaract**, **Tesseract**) in **`also_known_as`** on the same node so one node covers all spellings.
+
+---
+
 Rules:
 - Root: include "@context": "https://brc222.org/context/v1" and "@type": "EpisodeAnalysis".
 - Each entity: include @type (ArtifactFamily, Artifact, Claim, Person, InvestigationTarget) and @id (same as ref).

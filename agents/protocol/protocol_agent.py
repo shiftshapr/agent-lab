@@ -91,10 +91,18 @@ def main() -> None:
         action="store_true",
         help="Re-run episode analysis even if drafts exist (EPISODE_ANALYSIS_FORCE=1)",
     )
+    parser.add_argument(
+        "--only",
+        default=None,
+        metavar="N",
+        help="Process only episode index N (1=first transcript file, …); comma-separated for several. Sets EPISODE_ANALYSIS_ONLY. Use with --force to replace that episode's phase1/draft only.",
+    )
     args = parser.parse_args()
 
     if args.force:
         os.environ["EPISODE_ANALYSIS_FORCE"] = "1"
+    if args.only:
+        os.environ["EPISODE_ANALYSIS_ONLY"] = args.only.strip()
 
     if args.list:
         protocols = list_protocols()

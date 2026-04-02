@@ -22,6 +22,15 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+# Prefer agent-lab .venv when jsonschema is only installed there (bare ``python3`` over SSH).
+_boot = Path(__file__).resolve().parent / "repo_venv_bootstrap.py"
+if _boot.is_file():
+    _spec = importlib.util.spec_from_file_location("_agent_lab_venv_boot", _boot)
+    if _spec and _spec.loader:
+        _boot_mod = importlib.util.module_from_spec(_spec)
+        _spec.loader.exec_module(_boot_mod)
+        _boot_mod.maybe_reexec_with_venv_if_jsonschema_missing()
+
 try:
     from dotenv import load_dotenv
     load_dotenv(Path(__file__).parent.parent.parent / ".env")
@@ -36,6 +45,15 @@ try:
     from protocols.episode_analysis.phase1_validation import validate_phase1
 except ImportError:
     validate_phase1 = None  # type: ignore[misc, assignment]
+
+try:
+    from protocols.episode_analysis.node_claim_sync import (
+        sanitize_node_claim_graph_phase1,
+        sync_placeholder_refs_from_jsonld,
+    )
+except ImportError:
+    sanitize_node_claim_graph_phase1 = None  # type: ignore[misc, assignment]
+    sync_placeholder_refs_from_jsonld = None  # type: ignore[misc, assignment]
 
 try:
     from protocols.episode_analysis.neo4j_context import get_episode_context
@@ -209,22 +227,42 @@ def format_ledger_context(highest: dict[str, float]) -> str:
 # LLM
 # ---------------------------------------------------------------------------
 
+def _completion_max_tokens() -> int:
+    """
+    Max *completion* (output) tokens — separate from context window.
+    Phase 1 JSON often needs 12k–16k+; raise via env if you see 'Unterminated string' parse errors.
+    """
+    for key in ("EPISODE_ANALYSIS_MAX_OUTPUT_TOKENS", "LLM_MAX_TOKENS"):
+        raw = os.getenv(key, "").strip()
+        if raw.isdigit():
+            return max(512, min(int(raw), 100_000))
+    return 8192
+
+
 def get_llm() -> ChatOpenAI:
-    """Use MiniMax if MINIMAX_API_KEY is set (faster); otherwise Ollama."""
+    """
+    Two supported setups:
+
+    1) MiniMax native env: set MINIMAX_API_KEY (optional MINIMAX_MODEL, default MiniMax-M2.5).
+    2) OpenAI-compatible: set OPENAI_BASE_URL + OPENAI_API_KEY + MODEL_NAME — this includes
+       pointing OPENAI_BASE_URL at MiniMax's OpenAI-compatible base (e.g. https://api.minimax.io/v1)
+       with your MiniMax key and model id. No MINIMAX_API_KEY required for that path.
+    """
+    mt = _completion_max_tokens()
     if os.getenv("MINIMAX_API_KEY"):
         return ChatOpenAI(
             model=os.getenv("MINIMAX_MODEL", "MiniMax-M2.5"),
             base_url="https://api.minimax.io/v1",
             api_key=os.getenv("MINIMAX_API_KEY"),
             temperature=0.2,
-            max_tokens=8192,
+            max_tokens=mt,
         )
     return ChatOpenAI(
         model=os.getenv("MODEL_NAME", "qwen2.5:7b"),
         base_url=os.getenv("OPENAI_BASE_URL", "http://localhost:11434/v1"),
         api_key=os.getenv("OPENAI_API_KEY", "fake"),
         temperature=0.2,
-        max_tokens=8192,
+        max_tokens=mt,
     )
 
 
@@ -259,6 +297,38 @@ def build_system_prompt(protocol_md: str, template_md: str, ledger_context: str,
     return prompt
 
 
+def _llm_response_text(response) -> str:
+    """Normalize LangChain AIMessage.content (str or multimodal blocks) to plain text."""
+    c = getattr(response, "content", None)
+    if c is None:
+        return ""
+    if isinstance(c, str):
+        return c.strip()
+    if isinstance(c, list):
+        parts: list[str] = []
+        for block in c:
+            if isinstance(block, dict):
+                if block.get("type") == "text" and block.get("text") is not None:
+                    parts.append(str(block["text"]))
+                elif isinstance(block.get("text"), str):
+                    parts.append(block["text"])
+            elif isinstance(block, str):
+                parts.append(block)
+        return "\n".join(parts).strip()
+    return str(c).strip()
+
+
+def _strip_think_tags(text: str) -> str:
+    """Strip model reasoning tags before JSON/markdown if present."""
+    open_t = '<think>'
+    close_t = '</think>'
+    if open_t in text and close_t in text:
+        idx = text.rfind(close_t)
+        if idx >= 0:
+            text = text[idx + len(close_t) :].strip()
+    return text
+
+
 def process_episode(
     transcript: str,
     episode_num: int,
@@ -274,13 +344,8 @@ def process_episode(
         HumanMessage(content=user_msg),
     ]
     response = llm.invoke(messages)
-    text = response.content.strip()
-    # Strip <think>...</think>
-    if "<think>" in text and "</think>" in text:
-        end_tag = "</think>"
-        idx = text.find(end_tag)
-        if idx >= 0:
-            text = text[idx + len(end_tag) :].strip()
+    text = _llm_response_text(response)
+    text = _strip_think_tags(text)
     return text
 
 
@@ -326,6 +391,17 @@ def build_phase1_prompt(protocol_md: str, extraction_tmpl: str, episode_context:
         "OUTPUT: Valid JSON-LD only (BRC222.org compliant). No markdown, no commentary.\n---\n"
         f"{extraction_tmpl}\n---"
     )
+    # Shorter JSON helps when completion (output) token cap is tight — does not require a larger *context* window.
+    if os.getenv("EPISODE_ANALYSIS_PHASE1_COMPACT", "1").lower() in ("1", "true", "yes"):
+        prompt += (
+            "\nOUTPUT SIZE — MUST COMPLETE VALID JSON:\n"
+            "- transcript_snippet: <= 160 characters each (truncate with … if needed).\n"
+            "- Per-entity description / bundle_name: <= 280 characters.\n"
+            "- executive_summary: <= 500 characters.\n"
+            "- Omit empty arrays; skip non-essential optional fields if needed.\n"
+            "- Prefer fewer, higher-signal artifacts and claims over exhaustive coverage.\n"
+            "- No extra whitespace; compact JSON is OK.\n"
+        )
     return prompt
 
 
@@ -418,19 +494,22 @@ def run_phase1_extraction(
         SystemMessage(content=prompt),
         HumanMessage(content=user_msg),
     ])
-    text = response.content.strip()
-    if "<think>" in text and "</think>" in text:
-        idx = text.find("</think>")
-        if idx >= 0:
-            text = text[idx + 7 :].strip()
+    text = _llm_response_text(response)
+    text = _strip_think_tags(text)
     if "```" in text:
         start = text.find("```json") + 7 if "```json" in text else text.find("```") + 3
         end = text.find("```", start)
         text = text[start:end] if end > 0 else text[start:]
+    text = text.strip()
+    if not text:
+        print("       [two-phase] Empty model response (check API key, model, quota, logs).")
+        return None
     try:
         data = json.loads(text)
     except json.JSONDecodeError as e:
+        preview = text[:400].replace("\n", " ")
         print(f"       [two-phase] JSON parse error: {e}")
+        print(f"       [two-phase] Response preview: {preview!r}...")
         return None
     data.setdefault("meta", {})["episode"] = episode_num
     return _ensure_jsonld(data)
@@ -444,14 +523,29 @@ def _ensure_jsonld(data: dict) -> dict:
         data["@type"] = "EpisodeAnalysis"
     for art in data.get("artifacts", []):
         art.setdefault("@type", "ArtifactFamily")
+        # Schema + assign_ids need family_ref / ref; models often emit only @id
+        if not art.get("family_ref") and art.get("@id"):
+            art["family_ref"] = art["@id"]
         art.setdefault("@id", art.get("family_ref", ""))
         for sub in art.get("sub_items", []):
             sub.setdefault("@type", "Artifact")
+            if not sub.get("ref") and sub.get("@id"):
+                sub["ref"] = sub["@id"]
             sub.setdefault("@id", sub.get("ref", ""))
     for node in data.get("nodes", []):
+        if not node.get("ref") and node.get("@id"):
+            node["ref"] = node["@id"]
         node.setdefault("@type", "InvestigationTarget" if "1000" in str(node.get("ref", "")) else "Person")
         node.setdefault("@id", node.get("ref", ""))
     for claim in data.get("claims", []):
+        if not claim.get("ref") and claim.get("@id"):
+            claim["ref"] = claim["@id"]
+        if not claim.get("label"):
+            if claim.get("title"):
+                claim["label"] = str(claim["title"])
+            elif claim.get("claim"):
+                c = str(claim["claim"])
+                claim["label"] = c if len(c) <= 240 else c[:237] + "…"
         claim.setdefault("@type", "Claim")
         claim.setdefault("@id", claim.get("ref", ""))
     return data
@@ -473,7 +567,8 @@ def _assign_ids_inline(data: dict, ledger: dict) -> tuple[dict[str, str], dict]:
         next_art += 1
     for node in data.get("nodes", []):
         ref = node.get("ref", "")
-        if "1000" in ref or str(node.get("type", "")).lower() == "investigation_target":
+        ntl = str(node.get("type", "")).lower()
+        if "1000" in ref or "investigation" in ntl or "institution" in ntl:
             ref_to_id[ref] = f"N-{next_node_inv}"
             next_node_inv += 1
         else:
@@ -583,6 +678,46 @@ def _render_two_phase_markdown(data: dict, ref_to_id: dict[str, str]) -> str:
             lines.append(f"Uncertainty: {claim['uncertainty_note']}")
         lines.append(f"Investigative Direction: {claim.get('investigative_direction', '')}")
         lines.append("\n---\n")
+    memes = [m for m in data.get("memes", []) if isinstance(m, dict)]
+    if memes:
+        lines.append("## 6. Meme Register\n")
+        for m in memes:
+            mid = (
+                ref_to_id.get(m.get("ref", ""), m.get("ref", ""))
+                or str(m.get("@id") or "").strip()
+                or "?"
+            )
+            mtype = str(m.get("type") or "meme")
+            term = str(m.get("canonical_term") or "")
+            lines.append(f"**{mid}** ({mtype}) {term}\n")
+            for i, occ in enumerate(m.get("occurrences") or [], 1):
+                if not isinstance(occ, dict):
+                    continue
+                lines.append(f"### Occurrence {i}\n")
+                if occ.get("video_timestamp"):
+                    lines.append(f"Video Timestamp: {occ['video_timestamp']}")
+                sp = occ.get("speaker_node_ref")
+                if sp:
+                    lines.append(
+                        f"Speaker: {ref_to_id.get(str(sp).strip(), str(sp).strip())}"
+                    )
+                if occ.get("quote"):
+                    lines.append(f"Quote: {occ['quote']}")
+                if occ.get("context"):
+                    lines.append(f"Context: {occ['context']}")
+                tags = occ.get("tags")
+                if tags:
+                    lines.append(f"Tags: {', '.join(str(t) for t in tags)}")
+                if occ.get("confidence"):
+                    lines.append(f"Confidence: {occ['confidence']}")
+                if occ.get("uncertainty_note"):
+                    lines.append(f"Uncertainty: {occ['uncertainty_note']}")
+                lines.append("")
+            if m.get("context") and not any(
+                isinstance(o, dict) and o.get("context") for o in (m.get("occurrences") or [])
+            ):
+                lines.append(f"Summary: {m['context']}\n")
+            lines.append("---\n")
     return "\n".join(lines)
 
 
@@ -659,10 +794,11 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
     highest = scan_output_for_ids(output_dir)
     ledger_context = format_ledger_context(highest)
 
-    transcripts = sorted(input_dir.glob("*.txt")) + sorted(input_dir.glob("*.md"))
+    # Only episode_*.txt / episode_*.md — ignore README.md and other loose files in transcripts_corrected/
+    transcripts = sorted(input_dir.glob("episode_*.txt")) + sorted(input_dir.glob("episode_*.md"))
     if not transcripts:
-        print(f"[episode-analysis] No transcripts in {input_dir}")
-        print("  Place .txt or .md files there and re-run.")
+        print(f"[episode-analysis] No episode_*.txt (or episode_*.md) in {input_dir}")
+        print("  Expected names like episode_001_*.txt — not bare README or other *.txt.")
         return
 
     llm = get_llm()
@@ -670,23 +806,54 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
     log_path = log_dir / f"run_{timestamp}.log"
     log_lines = []
 
+    only_raw = os.getenv("EPISODE_ANALYSIS_ONLY", "").strip()
+    only_indices: set[int] | None = None
+    if only_raw:
+        only_indices = {int(p.strip()) for p in only_raw.split(",") if p.strip().isdigit()}
+        if not only_indices:
+            only_indices = None
+        else:
+            print(
+                f"[episode-analysis] ONLY mode: episode index(es) {sorted(only_indices)} "
+                f"(sorted list: 1=first file, 2=second, … matching episode_001_*, episode_002_*, …)"
+            )
+
+    n_to_process = len(transcripts) if only_indices is None else len(only_indices)
     print(f"[episode-analysis] Project: {project}")
     print(f"[episode-analysis] Ledger: family A-{highest['artifact_bundle']}+, C-{highest['claim']}, N-{highest['node']}, N-{highest['node_investigation']}+")
-    print(f"[episode-analysis] Processing {len(transcripts)} episode(s)...")
+    print(f"[episode-analysis] Processing {n_to_process} episode(s)...")
 
     force = os.getenv("EPISODE_ANALYSIS_FORCE", "").lower() in ("1", "true", "yes")
     if force:
-        print("[episode-analysis] FORCE mode: re-running all episodes")
-        for old in output_dir.glob("episode_*.md"):
-            old.unlink()
-            print(f"  Removed {old.name} (clean slate for correct ledger)")
-        if two_phase:
-            for old in phase1_dir.glob("episode_*.json"):
+        if only_indices:
+            print("[episode-analysis] FORCE + ONLY: removing drafts/phase1 for selected episode(s) only")
+            for i, path in enumerate(transcripts, 1):
+                if i not in only_indices:
+                    continue
+                out_name = f"episode_{i:03d}_{path.stem}.md"
+                out_p = output_dir / out_name
+                if out_p.exists():
+                    out_p.unlink()
+                    print(f"  Removed {out_p.name}")
+                if two_phase:
+                    p1 = phase1_dir / f"episode_{i:03d}_{path.stem}.json"
+                    if p1.exists():
+                        p1.unlink()
+                        print(f"  Removed {p1.name}")
+            highest = scan_output_for_ids(output_dir)
+            ledger_context = format_ledger_context(highest)
+        else:
+            print("[episode-analysis] FORCE mode: re-running all episodes")
+            for old in output_dir.glob("episode_*.md"):
                 old.unlink()
-                print(f"  Removed {old.name}")
-        highest = {"artifact_bundle": 999, "claim": 1000, "node": 0, "node_investigation": 1000}
-        ledger_context = format_ledger_context(highest)
-        system_prompt = build_system_prompt(protocol_md, template_md, ledger_context)
+                print(f"  Removed {old.name} (clean slate for correct ledger)")
+            if two_phase:
+                for old in phase1_dir.glob("episode_*.json"):
+                    old.unlink()
+                    print(f"  Removed {old.name}")
+            highest = {"artifact_bundle": 999, "claim": 1000, "node": 0, "node_investigation": 1000}
+            ledger_context = format_ledger_context(highest)
+            system_prompt = build_system_prompt(protocol_md, template_md, ledger_context)
 
     neo4j_auto_ingest = os.getenv("NEO4J_AUTO_INGEST", "").lower() in ("1", "true", "yes")
 
@@ -694,6 +861,8 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
     # Phase 1 (two-phase) or single-pass
     # -----------------------------------------------------------------------
     for i, path in enumerate(transcripts, 1):
+        if only_indices is not None and i not in only_indices:
+            continue
         episode_num = i
         out_name = f"episode_{episode_num:03d}_{path.stem}.md"
         out_path = output_dir / out_name
@@ -772,7 +941,11 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
     # Phase 2 batch (two-phase only): assign IDs from central ledger
     # -----------------------------------------------------------------------
     if two_phase:
-        phase1_jsons = sorted(phase1_dir.glob("episode_*.json"), key=lambda p: int(re.search(r"episode_(\d+)", p.name, re.I).group(1)) if re.search(r"episode_(\d+)", p.name, re.I) else 0)
+        _phase1_key = lambda p: int(re.search(r"episode_(\d+)", p.name, re.I).group(1)) if re.search(r"episode_(\d+)", p.name, re.I) else 0
+        phase1_jsons = sorted(
+            (x for x in phase1_dir.glob("episode_*.json") if "readme" not in x.name.lower()),
+            key=_phase1_key,
+        )
         if phase1_jsons:
             print(f"\n[episode-analysis] Phase 2: Assigning IDs from central ledger for {len(phase1_jsons)} episode(s)...")
             try:
@@ -784,7 +957,7 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
                         cwd=AGENT_LAB_ROOT,
                         capture_output=True,
                         text=True,
-                        timeout=120,
+                        timeout=900,
                     )
                     if result.returncode == 0:
                         print(f"       Phase 2 complete: {len(phase1_jsons)} draft(s) written")
@@ -792,13 +965,24 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
                             if line.strip():
                                 print(f"       {line}")
                     else:
-                        print(f"       Phase 2 failed: {result.stderr}")
-                        log_lines.append(f"ERR Phase 2: {result.stderr}")
+                        err_parts = [result.stderr or "", result.stdout or ""]
+                        detail = "\n".join(p.strip() for p in err_parts if p and p.strip())
+                        print(f"       Phase 2 failed (exit {result.returncode}):\n{detail}")
+                        log_lines.append(f"ERR Phase 2 (exit {result.returncode}): {detail[:2000]}")
                 else:
                     # Inline batch assign (assign_ids.py not found)
                     ledger = {"next_artifact": 1000, "next_claim": 1000, "next_node": 1, "next_node_inv": 1000}
                     for jpath in phase1_jsons:
                         data = json.loads(jpath.read_text(encoding="utf-8"))
+                        if sync_placeholder_refs_from_jsonld:
+                            sync_placeholder_refs_from_jsonld(data)
+                        if sanitize_node_claim_graph_phase1:
+                            nlog = sanitize_node_claim_graph_phase1(data)
+                            if nlog:
+                                print(
+                                    f"       [phase2 inline] node↔claim sync {jpath.name}: "
+                                    f"{len(nlog)} change(s)"
+                                )
                         ref_to_id, ledger = _assign_ids_inline(data, ledger)
                         md = _render_two_phase_markdown(data, ref_to_id)
                         out_path = output_dir / f"{jpath.stem}.md"

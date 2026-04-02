@@ -1,0 +1,1815 @@
+[00:00] advice.
+[00:03] >> Hey Dan,
+[00:07] >> you're on mute.
+[00:10] >> You probably don't want to hear what I
+[00:11] want to say anyway, right?
+[00:13] >> No, I I do. I want to catch up with you.
+[00:19] So Dan's a colleague of mine uh at
+[00:23] Oracle, but we've we have other lives
+[00:25] that intertwine and I'm bringing him
+[00:28] back in and we're going to do some good
+[00:30] work together. So
+[00:32] >> awesome.
+[00:34] Welcome.
+[00:35] >> Thank you.
+[00:38] >> Looks like Nevada is really well
+[00:40] represented right now
+[00:42] >> and and Carlos is here also.
+[00:46] Um, Carlos uh works with me at the
+[00:51] Optimus as well as he helps support our
+[00:55] projects through the enterprise
+[00:57] foundation. So, Carlos is with us.
+[00:59] >> Hi, everybody.
+[01:01] >> Hey, Carlos.
+[01:05] Millia is here. Hello.
+[01:07] >> Hello.
+[01:09] >> Good to see you.
+[01:11] >> Happy to see everyone.
+[01:14] So we had I think about 15 people sign
+[01:18] up among the two events and we have
+[01:21] about half of them here which yeah
+[01:23] sounds about right in terms of how these
+[01:25] things work. So I'm
+[01:28] >> the only one that we haven't introduced
+[01:30] is Milliet because she is
+[01:34] she just joined us. We have some new
+[01:37] participants here. So Millia is a
+[01:41] marvelous consultant out of Paris and
+[01:45] she's been so
+[01:48] so on point about commenting on some of
+[01:50] the things that we've created. So as a
+[01:53] co-contributor
+[01:55] um
+[01:57] deep thinker I I love that she has has
+[02:00] joined us.
+[02:02] >> I I am very happy to be here. This
+[02:04] initiative has such strong fundamental
+[02:09] values and the way you approach
+[02:11] stewarding a new movement is very
+[02:13] exciting. So um welcome to all new
+[02:17] joiners on my part
+[02:21] >> and and by the way all of them are from
+[02:24] Nevada ISO. So D is starting Nevada ISO
+[02:27] and the new people are here from Nevada.
+[02:33] So
+[02:34] >> yes.
+[02:35] >> All right, let's let's get started.
+[02:37] >> Renad is also from Oman.
+[02:41] >> Yeah.
+[02:43] >> And and she's 14, so she's the youngest
+[02:46] member of our group. And now we have And
+[02:48] Natada is now coming in. She's she's in
+[02:51] Lebanon.
+[02:54] Uh greetings, Natada. Great to have you
+[02:56] here. Um glad you're you are safe and uh
+[03:01] yeah, happy
+[03:04] Hello. I'm happy too. Thank you.
+[03:09] >> Awesome. So, I'm I'm just going to share
+[03:11] my I don't know why I Yeah. So, I have
+[03:14] this gobbly [ __ ] up here. Um this is
+[03:16] just my agent workflow, but I'm going to
+[03:19] go ahead and go to our slide
+[03:21] presentation for today. Oh, couple more
+[03:23] people I need to let in. All right,
+[03:26] we're getting up there. All right,
+[03:29] Suzanne and Aldo. Okay, great.
+[03:34] All right.
+[03:37] Greetings, Suzanne.
+[03:40] Greetings, Aldo. Good to see you both
+[03:42] back.
+[03:46] All right.
+[03:49] Oh, that's not what I'm trying to do.
+[03:51] Let me let me slideshow this and we'll
+[03:54] get started.
+[03:56] >> You need to record.
+[03:59] >> Uh, let I think I did it. Let me just
+[04:01] make sure. That's always a good thing to
+[04:03] check. Yeah, we're we're recording.
+[04:06] Awesome.
+[04:07] >> Companionize it.
+[04:08] >> And we got the companion on, too.
+[04:11] >> Okay.
+[04:11] >> But thank you. I I appreciate that
+[04:13] because, you know, there's been so many
+[04:14] times that I've missed it.
+[04:17] Well, welcome everybody to our first
+[04:21] postai do conversation. It probably
+[04:25] won't be the last, but uh definitely the
+[04:28] first. The plan for today is just to
+[04:33] well to start out by watching the
+[04:35] trailer again just to represent it and
+[04:38] also in case some other people haven't
+[04:40] seen it. I I know the film isn't
+[04:42] available in Oman. So I doubt that Renad
+[04:45] has seen it. I don't know if it's
+[04:46] available in Uruguay or or France. So
+[04:51] who who has seen it by the way? Okay.
+[04:54] Michelle D.
+[04:56] Um, so it looks like and and I thought
+[04:59] >> I went went to the theater yesterday
+[05:02] just because I knew I was going to have
+[05:03] this conversation with you all. Um, and
+[05:07] someone's annotating it looks like. As
+[05:09] long as it's not bad stuff, I'm okay
+[05:11] with that. U,
+[05:13] I've been in a situation where people
+[05:16] wrote really crazy things and yeah, that
+[05:19] was nutty. But anyway, that was at the
+[05:21] be kind of in COVID when things were
+[05:23] just getting started. So, we'll watch
+[05:24] the trailer, then we'll do a little
+[05:26] debrief. And my initial thought was that
+[05:30] we would
+[05:32] just open it up for things that someone
+[05:35] wants to say to the entire group. Just
+[05:38] get it out. If there's things that are
+[05:40] right there that happen right after the
+[05:42] trailer that need to be said, they can
+[05:44] be said. And then we'll go into some
+[05:47] breakout groups with the the three of us
+[05:50] uh three people in each group and
+[05:53] discuss like what what comes up for us
+[05:55] around this, what what sticks with us,
+[05:57] what's missing, what's there u and then
+[06:02] we're going to talk about what an
+[06:04] architectural countermeasure might look
+[06:06] like. And this is the metal layer work.
+[06:08] So, those of us who've been having this
+[06:10] conversation for a while will be
+[06:12] familiar with it, but we'll do a a brief
+[06:14] one for folks who might not be as um
+[06:18] familiar. And then we're going to do
+[06:20] some more breakouts just to envision
+[06:23] what kind of architectural
+[06:25] solutions that might be helpful and come
+[06:29] up with some new patterns or new ideas,
+[06:32] new insights about what could
+[06:35] potentially be done and what could be
+[06:36] built. How does that sound for
+[06:38] everybody? Is that okay? Is there
+[06:39] anything else you want to add?
+[06:42] Okay, Nata's jumping back in. Okay,
+[06:45] great. I'm going to go ahead and just
+[06:47] play our trailer.
+[06:50] Natada, I don't know if you heard, but
+[06:52] we're going to play the trailer, then
+[06:53] have a short conversation, and then go
+[06:56] into solutions.
+[06:57] >> Yeah. Yeah, I was in, but I'm trying to
+[06:59] connect from another device. It's
+[07:01] clearer for me. Thank you.
+[07:02] >> Okay. All right.
+[07:08] This is I'm going to play the trailer
+[07:10] right now. Uh, wherever that is. Oh,
+[07:12] here it is. Okay. Oh, shoot. I need to
+[07:16] collapse the
+[07:17] >> You're not hearing.
+[07:19] >> Let me just restart the share. So, it's
+[07:21] actually going to pick up the trailer.
+[07:23] One second. Okay.
+[07:27] Share sound.
+[07:33] There's different.
+[07:35] Okay. Can you all hear by the way?
+[07:38] >> Yeah.
+[07:39] >> If this technology goes wrong, it can go
+[07:42] quite wrong. What?
+[07:48] >> Your fear of AI is the collapse of
+[07:51] humanity.
+[07:52] >> Well, not the collapse, the abrupt
+[07:54] extermination.
+[07:56] There's a difference.
+[07:59] >> So, I started making this movie because
+[08:01] my wife is 6 months pregnant. Is now a
+[08:04] terrible time to have a kid home?
+[08:06] >> I mean, let's just be honest. I know
+[08:08] people who work on AI risk who don't
+[08:10] expect their children to make it to high
+[08:12] school. I I
+[08:17] >> How does AI understand pretty much
+[08:19] everything? It's surprisingly
+[08:21] straightforward. Intelligence is about
+[08:23] recognizing patterns, patterns,
+[08:25] >> patterns, patterns.
+[08:27] >> If you have learned those patterns, you
+[08:29] can generate new information.
+[08:32] AI is moving so fast.
+[08:33] >> It's being deployed prematurely. There's
+[08:36] so much potential for things to go
+[08:37] wrong.
+[08:38] >> Why can't we just stop?
+[08:41] >> All these companies are in a race to get
+[08:44] AI that's vastly more intelligent than
+[08:46] people within this decade.
+[08:48] >> China, North Korea, Russia,
+[08:50] >> whoever wins is essentially the
+[08:52] controller of humankind.
+[08:56] >> We need to take a threat from AI as
+[08:58] seriously as global nuclear. more.
+[09:05] >> It feels like I have to find these CEOs
+[09:09] and get them in the movie.
+[09:11] >> Great.
+[09:13] >> I want to ask you to promise me that
+[09:15] this is going to go well.
+[09:16] >> That is impossible.
+[09:18] >> Okay. Am I hopeful? Yes. Am I confident
+[09:21] that it'll go right? Absolutely not.
+[09:23] >> AI is the thing that can solve climate
+[09:25] change.
+[09:26] >> We could cure most diseases. What if
+[09:28] it's expanding what is humanly possible?
+[09:30] >> This is the most extraordinary time
+[09:31] ever. The only time more exciting than
+[09:33] today is tomorrow.
+[09:35] >> I already love you.
+[09:38] >> I think if this technology goes wrong,
+[09:40] it can go quite wrong.
+[09:43] >> By using AI,
+[09:45] we're about to move off of the Earth
+[09:47] into the cosmos. If we can be the most
+[09:51] mature version of ourselves, there might
+[09:53] be a way through this.
+[09:56] This is the last mistake we'll ever get
+[09:58] to make.
+[10:08] All right, let's just go directly into
+[10:14] any anything wants to say. Is there
+[10:17] anything that they want to say to the
+[10:19] entire group?
+[10:21] >> Michelle's got her hand up. Okay,
+[10:24] >> you can unmute.
+[10:25] >> Yeah.
+[10:26] >> Oh, the biggest thing that I went home
+[10:29] with and thought about for a long time
+[10:31] was uh what when they talked about what
+[10:34] the incentives were because I think that
+[10:36] the incentives shape the way that they
+[10:39] operate entirely like out of everything.
+[10:41] It's not about like the pursuit of
+[10:43] creating this like philosophical like AI
+[10:46] like super intelligence. the person the
+[10:48] the incentive is to create it as fast as
+[10:51] you can make it the most powerful so you
+[10:53] have the most power out of every other
+[10:54] country and I was like why like how do
+[10:57] you how do you shift that because like I
+[11:00] was pretty like um not like anti- AI or
+[11:04] whatever but I just didn't see a use for
+[11:07] it in my life personally I didn't I live
+[11:10] a pretty simple life you know so I have
+[11:11] no use cases but
+[11:15] uh when
+[11:18] when I was thinking about like why it's
+[11:21] become the way it is, it's because the
+[11:22] incentives are all screwed up.
+[11:25] >> I think like moving forward, if any if
+[11:27] like
+[11:29] the goal here is to create human
+[11:32] flourishing through philanthropic
+[11:34] movement, it's to move the goalpost, to
+[11:37] move the incentives, like to create just
+[11:38] a new incentive thing entirely for
+[11:40] people to move towards here. like if we
+[11:42] set the if we set the vibe for what it
+[11:45] is like people will have to meet us then
+[11:47] that's my take on it and that's how I
+[11:49] imagine moving forward.
+[11:52] >> Thank you. Anyone have a thought or
+[11:54] response to that or their own um insight
+[11:57] they'd like to share or feeling?
+[12:01] >> Hey Natada.
+[12:04] >> Yeah, thank you for sharing.
+[12:06] >> Yeah, thank you. After after watching
+[12:08] the video, I just uh remembered lots of
+[12:12] things that are that we're confronting
+[12:14] whether with university students, with
+[12:16] community activists and other people,
+[12:19] with professionals. Some of them are
+[12:21] adopting the AI like aggressively and
+[12:24] other people are just like they are
+[12:26] afraid of what's going on and they say
+[12:28] that uh you don't know what will go on
+[12:31] in the future. Some of them are doing
+[12:33] the advocacy thing but still we are not
+[12:35] very well aware of where we are going
+[12:38] even
+[12:40] technologists themselves. So this all is
+[12:43] creating like dilemma or you know like
+[12:46] even people who are working we we're
+[12:48] having some AI trainers sometimes they
+[12:50] are working on AI tools and they're
+[12:53] recommending some tools like out of
+[12:55] thousands of solutions that are in
+[12:57] market nowadays and they themselves like
+[13:00] sometimes they advise like don't give
+[13:02] access to your personal email or your
+[13:04] data or some because like we still don't
+[13:06] know where we're going. So this video
+[13:09] just made little chaos in my mind like
+[13:12] here and there the technology and its
+[13:14] importance and at the same time maybe
+[13:17] it's a tool to help us at the end of the
+[13:20] day to support or so yeah
+[13:24] >> thank you.
+[13:26] Would anyone else have something they'd
+[13:28] like to say to the entire group?
+[13:31] I I I would like to just chime in that
+[13:34] this documentary reinforced the fact
+[13:37] that wherever you are, if you're on the
+[13:40] technology side, certainly th this is
+[13:43] your world. Um, but even the people that
+[13:47] were cleaning the theaters were
+[13:49] interested in what we saw. And my
+[13:54] comeback to them when I exited the
+[13:57] theater was that you need to be
+[14:00] participate. You need to be involved.
+[14:03] Your your voice is important to this
+[14:05] even if you're not a technology person.
+[14:08] So it did reinforce that everybody needs
+[14:11] to be involved.
+[14:13] >> Yes. Yes. But but by the way, greeting
+[14:16] to Sawa and to Jack. Good to see you.
+[14:18] And Suzanne.
+[14:20] Awesome.
+[14:23] Oh, anyone else?
+[14:25] >> Go ahead. Yeah.
+[14:28] >> Yeah, I'm saying I miss you all. Hello.
+[14:30] How are you?
+[14:33] We're great. It's great to see you. I'm
+[14:35] glad you both are safe and just praying
+[14:39] that that's that that's not coming to
+[14:43] your village. So,
+[14:46] yeah. Anyone
+[14:50] have anything else that
+[14:53] you'd like to share to the entire group
+[14:55] before we go into breakouts?
+[15:00] You know, one thing I do want to comment
+[15:01] on, Michelle, your your comment, I mean,
+[15:04] I think it's great and u I'm wondering
+[15:07] if you have confidence that
+[15:09] if the government does do regulation
+[15:12] that it will be focused on human
+[15:14] flourishing as you're suggesting.
+[15:23] Did you Did you hear me, Michelle?
+[15:29] Maybe she's not hearing. I'm not sure.
+[15:32] Okay. All right. Let's We're going to go
+[15:34] into some breakouts
+[15:37] at the moment. We're going to do three.
+[15:39] And your task is we're going to do it
+[15:42] for for 12 minutes. Your task is just to
+[15:45] have a a free conversation
+[15:48] about what's coming up for you. Uh even
+[15:51] if maybe you didn't see the movie, but
+[15:53] you've seen the trailer. What does it
+[15:56] make you think? What's missing? What do
+[15:57] you what do you think the response
+[16:00] should be? What whatever's coming up?
+[16:02] Let's let's have that conversation and I
+[16:05] will give you some some um notifications
+[16:09] about when time is passing, but we'll be
+[16:11] in there for 12 minutes.
+[16:14] My headphones my headphones went out at
+[16:16] the last minute. Did I miss something?
+[16:18] >> Oh yeah. I actually said I asked you a
+[16:21] question. I was wondering if you are
+[16:25] confident that
+[16:28] the government if it does regulate that
+[16:30] it will regulate with your human
+[16:34] flourishing goal.
+[16:36] >> If the government regulates it.
+[16:39] >> Yeah.
+[16:41] >> No. No confidence.
+[16:43] >> Okay.
+[16:44] >> No, because like their the current
+[16:47] government
+[16:48] is not incentivized to be about human
+[16:52] flourishing. Not only are they not
+[16:54] incentivized, their psychology is
+[16:56] entirely based on the male ego. It is
+[16:59] completely outside of anything that has
+[17:02] to do with
+[17:04] being loving to each other. just like
+[17:06] showing up for anything that that
+[17:09] provides nourishing for our bodies like
+[17:11] including the earth like they have no in
+[17:13] like our government and I'm going to go
+[17:15] on and on. I don't have
+[17:16] >> okay
+[17:17] >> I don't have any any faith
+[17:19] >> but that's the emotional charge that we
+[17:23] got from viewing the movie because it's
+[17:25] about
+[17:26] >> raising our kids in this world and and
+[17:30] it's has shifted. So how how do we do
+[17:32] that? We've got different challenges and
+[17:35] so on. The government is not our our
+[17:38] sole answer. They have to participate in
+[17:40] it, but we we all have to be more
+[17:44] dominant in in our voices there. Carlos,
+[17:48] you have uh your hand up.
+[17:50] >> Yeah. Hi everybody. So, you know,
+[17:52] actually just on that question, this is
+[17:54] something that I I do want to just kind
+[17:55] of point out just from my perspective in
+[17:57] in business where um I remember doing my
+[17:59] MBA, there's this concept called
+[18:01] conscious capitalism, right? where
+[18:03] essentially business is actively
+[18:04] participating and trying to better you
+[18:06] know their communities around them. I
+[18:08] think when it comes to AI, you know,
+[18:10] business is going to be a huge
+[18:12] partnership, right? Like when we're
+[18:13] talking about open AI, what Meta is up
+[18:15] to. I like to really think that there's
+[18:17] a lot of good folks in these
+[18:18] organizations and I think that a lot of
+[18:19] this regulation and a lot of this, you
+[18:22] know, sort of movement of where we need
+[18:23] to go won't be coming from government,
+[18:25] but it will be a partnership with um,
+[18:27] you know, private industry that is, you
+[18:29] know, on that conscious capitalism
+[18:30] mentality.
+[18:32] >> Thank you. Good point.
+[18:35] Yeah, I um wanted to comment on D's um
+[18:38] comment about it being our
+[18:40] responsibility and it's not the
+[18:42] government's. I believe in that 100%.
+[18:44] Like it it like we do like I don't
+[18:47] believe in like the the desolate version
+[18:49] of reality where we are under the
+[18:51] government's thing all the time. Totally
+[18:53] totally believe in agency and free will
+[18:55] and the fact that we can create a better
+[18:57] space even just in this like this like
+[19:00] 30 feet around me. I can I can create a
+[19:02] really nice space just by you know being
+[19:03] with people. But but we have that agency
+[19:05] as a community who choose to walk that
+[19:07] path to hold that space for the 250
+[19:10] people we know you know like back back
+[19:12] to the village days we only have space
+[19:14] in our consciousness for 250 to 500
+[19:17] people you know and that is your
+[19:19] village. So like all of the people that
+[19:21] I know and I keep in my heart like it
+[19:22] would be great to create a reality where
+[19:24] anytime they came into my space in the
+[19:26] AI world, it was to protect them and to
+[19:29] help them move forward in a way that
+[19:30] helps them like that. Totally agree with
+[19:33] you D. It's not we're not it's not the
+[19:34] government's job to to take care of the
+[19:36] millions of people that are out there
+[19:37] like we can you know
+[19:40] >> that's be beautifully said and I think
+[19:42] when we had the concept from earlier
+[19:45] discussions
+[19:47] move uh just taking that protectionism
+[19:51] with us um from community to community
+[19:55] it travels with the with the person and
+[19:58] if you open up to another community
+[20:01] you're taking all of your your knowledge
+[20:05] and your your core values with you. So,
+[20:08] you don't have to start from scratch,
+[20:10] but you're sharing at that top level
+[20:14] that you've honed in on.
+[20:17] >> Awesome. Great comments, you all. So,
+[20:19] we're going to go into the breakout
+[20:21] groups. There'll be three people per
+[20:23] group. You're going to be assigned
+[20:24] automatically, and I will jump into one
+[20:28] of them as well, as well as send the
+[20:30] notifications. So, we're going to have
+[20:31] 12 minutes.
+[20:32] >> Great.
+[20:33] >> See you in there.
+[20:41] Oh, okay. That's okay. Yeah, that works.
+[33:46] Am I in the right place?
+[33:49] >> Yes.
+[33:56] >> Yeah, we were just in a breakout room,
+[33:59] so everybody's still panic.
+[34:02] >> All right.
+[34:08] Hello.
+[34:19] >> Huh?
+[34:24] >> Absolutely not.
+[34:29] >> Hello.
+[34:43] Welcome back everybody and welcome
+[34:46] Maxim. Good to see you.
+[34:48] >> Sorry for being late.
+[34:50] >> Oh, it's all good. Um, we're excited
+[34:53] about the next phase. First of all, does
+[34:56] anyone have something that they'd like
+[34:59] to share? some kind of insight that or
+[35:02] something that struck them from this
+[35:04] conversation.
+[35:09] Don't all speak up at once.
+[35:15] Um,
+[35:16] >> I guess something that was brought up in
+[35:18] in my group was like there was a
+[35:21] question or there was a a comment about
+[35:24] how she wish there was more solutions
+[35:27] given in the
+[35:29] documentary, but there was a side there
+[35:32] was a moment where someone said, "Well,
+[35:34] my colleagues have told me I wish that
+[35:38] the public would get more involved so
+[35:40] that they're the drivers of this
+[35:41] machine. They they just basically
+[35:44] expressed that they they want the people
+[35:46] to put pressure on policy.
+[35:49] So I thought that was
+[35:53] that
+[35:54] >> a word that came up in our group
+[35:56] multiple times was guard rails and
+[36:02] in my mind I want to know where those
+[36:04] guard rails are. It certainly it seems
+[36:08] like from a policy standpoint
+[36:12] that's one aspect of it. Then there's
+[36:14] the guard rails that are embedded into
+[36:17] the model.
+[36:19] Could it be that there's community based
+[36:23] guardrails? So guardrails that
+[36:25] communities Yeah. I mean Michelle was
+[36:27] talking about decentralization and
+[36:30] communities being able to to essentially
+[36:34] set up guard rails that that enable uh
+[36:37] human flourishing. And she wasn't she
+[36:40] wasn't confident that that the
+[36:42] government would necessarily
+[36:45] um take on human flourishing as a goal.
+[36:49] So, uh, Sawa, you raised your hand and
+[36:53] then Carlos
+[36:59] Sala,
+[37:01] did you want to? Okay, Carlos.
+[37:08] >> All righty. So, um, I just want to point
+[37:10] this out. Thank you. Okay. Oh, there she
+[37:12] is. Yeah. Oh, go ahead, Sawa. Then
+[37:14] Carlos will go after you.
+[37:21] No, it's okay. Uh, we were in the same
+[37:25] group and in the same we can take the
+[37:29] over over for him.
+[37:32] >> Thank you.
+[37:35] >> Okay, Carlos, you want to
+[37:38] summarize?
+[37:40] >> Yeah, actually, I just kind of wanted to
+[37:41] throw this out there for everybody.
+[37:43] something that's I find kind of
+[37:44] interesting just because I've heard of a
+[37:45] lot of talk of like there's some groups
+[37:47] trying to push for like a an AI ethics
+[37:50] constitution you know that would be
+[37:52] serve as sort of those guard rails
+[37:54] something that I think that's important
+[37:56] for us to keep in mind as well I know
+[37:57] that there was a study I believe it was
+[37:58] done last year where some AI models
+[38:01] actually uh were found to have like lied
+[38:04] to the programmers they tried
+[38:05] blackmailing some people they some of
+[38:08] them were even able to reprogram
+[38:09] themselves to avoid you know their
+[38:11] program being completely
+[38:12] um um erased for example, right? They
+[38:15] like were able to like copy themselves
+[38:16] in certain servers. I I just want to
+[38:18] point out that I think that one of the
+[38:20] things that I find the most interesting
+[38:22] I do wonder that even with some of these
+[38:24] guard rails if the technology would be
+[38:27] able to sort of adapt and perhaps even
+[38:30] pop out of bounds of those guard rails.
+[38:32] Just a thought.
+[38:34] Well, yeah, that it sounds like that's
+[38:37] what's already been demonstrated and
+[38:40] these will that capability to deceive
+[38:45] increase or is it going to diminish over
+[38:47] time? Probably the capacity for it would
+[38:50] increase, I would guess, which means
+[38:53] that maybe policy and model guard rails
+[38:59] are not enough potentially.
+[39:03] Michelle.
+[39:06] >> So I so the uh my abstract understanding
+[39:11] of AI is that we're only creating
+[39:13] something that's modeled after our
+[39:15] psychology. So if we can manipulate to
+[39:18] get what we want in order to gain power,
+[39:21] so can this model. They they only know
+[39:23] what we show them. we are the gods of
+[39:25] this thing, you know, like we're we're
+[39:27] recreating the story of the Bible
+[39:29] essentially, you know, except the main
+[39:32] character in this is the apple, you
+[39:35] know, but um it's the knowledge. It's
+[39:38] the apple of knowledge. That's what
+[39:39] we're chasing, you know. Um but I don't
+[39:42] think that creating ethical policy is
+[39:46] the way because anytime you press law
+[39:49] onto people, it doesn't always have like
+[39:52] a good or bad thing. All we know is like
+[39:55] now there's this thing impressing on our
+[39:58] free will. So I believe in like fully
+[40:02] that policy is a is one one way to it
+[40:05] but the incentives have to be different
+[40:08] like you want to participate in this.
+[40:10] Okay. Well, we'll give you access to
+[40:12] this and this if what your goal is is to
+[40:17] be a part of, you know, creating a
+[40:19] better better reality, you know, like
+[40:22] where where asking an individual like
+[40:24] where are your goalposts with this?
+[40:28] I don't know what I don't know what
+[40:29] incentive like the incentive structure
+[40:32] would look like, but I think that's a
+[40:33] really great place to start because
+[40:36] people break laws all the time to get
+[40:38] what they want to do, what they want
+[40:38] anyways. You know, anarchists do that.
+[40:41] Silk Road was a great example of that.
+[40:43] Bitcoin is a great example of that.
+[40:45] Like, if people want freedom in one way,
+[40:47] they're going to get it. But it's about
+[40:49] training them to want freedom in a
+[40:51] better way, which can look different for
+[40:53] everybody.
+[40:55] >> Yes.
+[40:56] Suzanne and I actually had a
+[40:59] conversation about this earlier. Go
+[41:01] ahead, Suzanne, because this is
+[41:03] >> what I was just gonna say, you know,
+[41:05] this Star Trek versus Star Wars, you
+[41:09] know, we have to figure out the ships
+[41:11] we're going to get on and go for it. But
+[41:13] yes, please explain this conversation we
+[41:15] had. It was pretty impactful. We had it
+[41:17] about the film. It was really good. Go
+[41:18] ahead, D. So we were talking about the
+[41:22] whole concept of incentives, right? How
+[41:26] do how do humans participate? We're
+[41:29] incentivized. The capitalists are there
+[41:31] developing this on on this fast race
+[41:34] because there's some monetary gain there
+[41:39] which which is obnoxious because they're
+[41:41] already wealthy in so many ways.
+[41:45] But uh that means that we have to have a
+[41:48] better uh value proposition for
+[41:51] individuals to continue to participate.
+[41:53] If we imagine that people's jobs are are
+[41:57] really going to go away on
+[41:59] industrialized
+[42:01] production kind of spaces and so on. Um
+[42:04] on the value of efficiency, you know, no
+[42:08] one can deny that it's it's more
+[42:10] efficient for a AI and and robots to do
+[42:14] lots of things that humans can't or are
+[42:16] slow at. um then we do need to solve for
+[42:21] the problem of what do we do with that
+[42:23] extra time? How do we incent humans to
+[42:26] continue to participate? And when
+[42:29] Suzanne and I were talking about what
+[42:31] our we're very passionate about this
+[42:34] knowledge um collective consciousness
+[42:38] and human knowledge uh and that it's not
+[42:42] owned by any one company or one entity
+[42:46] or one government. It is it is um owned
+[42:51] by everyone everyone that participates.
+[42:54] We were thinking okay how do we
+[42:58] monetize or come up with a different
+[43:00] currency so that people will be
+[43:03] incentivized to participate by
+[43:05] contributing their thoughts and ideas
+[43:08] and perspectives within their community
+[43:11] and applicable globally.
+[43:14] And that might be the shift that we're
+[43:18] looking for uh Michelle in terms of uh
+[43:22] inenting this
+[43:26] popular participation
+[43:28] in in thought because that that comes
+[43:32] from within. everybody has has um an
+[43:37] opinion and also some some very
+[43:41] passionate research that they want to
+[43:43] contribute to shaping those
+[43:45] interpretations for for a given time.
+[43:48] So, um we're we're talking about
+[43:51] incentives and and a different kind of
+[43:54] currency that's valuable to uh humans.
+[44:00] It sounds like you're saying in fact
+[44:02] >> to build knowledge
+[44:04] >> to build knowledge is the is the the
+[44:07] next vogue thing. Um and everybody can
+[44:10] jump on it. There's a little barrier to
+[44:13] entry, right? Everybody has it within to
+[44:17] contribute whether you're you've got
+[44:19] letters after your name or not. Uh you
+[44:23] are still an equal voice wherever your
+[44:27] community lies. And I I love the concept
+[44:31] that uh Michelle introduced earlier with
+[44:35] you know the the space that you allow
+[44:38] yourself to be concerned with
+[44:41] 250 500 you know the the scale is
+[44:44] different for for different people. But
+[44:47] if you want to manage what's around you
+[44:49] and are in control of that community you
+[44:53] feel like you're in control within that
+[44:55] community. You're going to protect it.
+[44:57] And I I just really like that that
+[44:59] concept because that's something I think
+[45:02] will resonate with everyone.
+[45:05] >> Awesome. Suzanne, did you want to add
+[45:06] anything to that?
+[45:08] >> Well, D, that was a perfect summary. I
+[45:11] mean I think collectively what we were
+[45:15] talking about too is you know once we
+[45:18] measure right once we measure the
+[45:22] ability of the of not only the capacity
+[45:25] of what AI could bring us right but the
+[45:27] cost savings alone and take that
+[45:30] fear-based
+[45:32] position
+[45:33] and turn it into an opportunity and D
+[45:36] and I were talking about you know um for
+[45:40] in in hazmat situations or in crisis
+[45:43] situations where you know robotics goes
+[45:46] in and and and handles the the very uh
+[45:51] threatening situation and and here you
+[45:54] know we have all these first responders
+[45:56] and they can help prepare and train and
+[45:59] and get rewarded in some we have to
+[46:02] figure out a monetary model right a a
+[46:06] token a coin something in return for
+[46:10] this investment. You know, here we have
+[46:12] all this data and our purpose is to
+[46:14] optimize that, right? And put it in into
+[46:18] the right applications to the for the
+[46:21] right purpose. And it has to be
+[46:23] incentive us, you know, it can't be for
+[46:26] this this race this this race to be the
+[46:29] first one here. We have all of this
+[46:31] structure together and now we just have
+[46:34] to architect it, build its house where
+[46:36] it could be the most useful and we and
+[46:40] we have to get the the word out and the
+[46:42] participation and and methods to be able
+[46:45] to be rewarded for um putting it for
+[46:48] humanity and um without that type of
+[46:52] monetary gain. I mean, I think they
+[46:55] they've made a lot of money already on
+[46:57] things we voluntarily given over. So, I
+[47:00] I think it's important to move this.
+[47:03] This is great. All of you had
+[47:04] outstanding comments, by the way. I I
+[47:06] loved it. That's great.
+[47:09] >> And I'm noticing that Dan uh wrote in
+[47:12] the in the comments, would you would you
+[47:15] like to just vocalize it, Dan?
+[47:17] >> Sure. Uh there was an article in the
+[47:18] Wall Street Journal, I think last
+[47:20] December, uh that they had received a
+[47:23] test vending machine that was run and
+[47:26] managed by AI. and uh they had lots of
+[47:29] fun manipulating it. Um which you know
+[47:32] kind of goes to show that AI doesn't
+[47:35] necessarily have the guard rails or this
+[47:37] particular vending machine agent didn't
+[47:39] have the guardrails to prevent it from
+[47:41] doing some seriously silly things. Uh
+[47:44] it's a funny article. Um you guys might
+[47:46] enjoy it. It's the link is in the
+[47:48] comment or in the chat.
+[47:51] >> Thank you. Uh Carlos.
+[47:54] >> Yeah, just um one last comment here on
+[47:56] my end. I just um kind of wanted to
+[47:58] point out that I think uh one of the
+[48:00] interesting things that I kind of see
+[48:01] is, you know, we're getting to a point
+[48:03] now where we're going to be dealing with
+[48:05] like a non-human intelligence, you know,
+[48:07] and it kind of reminds me of like, you
+[48:08] know, some sort of protocol is going to
+[48:10] have to be laid out that's going to be
+[48:11] very similar to like how we would react
+[48:13] if we encountered some extraterrestrial
+[48:15] civilization, right? Like some competing
+[48:17] intelligence that, you know, would have
+[48:19] its own, you know, agenda and things
+[48:21] like that. So, I just want to point that
+[48:23] out that I really do see it as like
+[48:25] we're approaching a point where it it is
+[48:26] going to be a separate non-human
+[48:28] intelligence that will, you know, live
+[48:29] and work amongst us, which is going to
+[48:31] be interesting. But one one one solution
+[48:34] that I've kind of heard out there, and I
+[48:35] just wanted to throw this out to the
+[48:36] group as well, is that there's been this
+[48:38] conversation I've also kind of um been
+[48:40] following where there's even an idea
+[48:42] there to program it with like apparently
+[48:44] instinct towards humanity. So that like
+[48:47] you know even with guardrails and things
+[48:49] like that innately at the beginning of
+[48:51] its conception of of of programming that
+[48:53] it's programmed with some sort of like
+[48:55] instinct like a mother you know towards
+[48:57] a child. Uh just you know in this case
+[49:00] humanity would be would be the child.
+[49:03] >> That's interesting because you know they
+[49:05] touched on something in the in the movie
+[49:07] where they talked about how we're
+[49:09] actually going to have to raise the AI
+[49:11] as if it's a baby. And there's there's a
+[49:14] professor De Kai out of UC Berkeley that
+[49:17] just did a book about about raising AI.
+[49:22] >> But it's interesting because you flipped
+[49:23] it and said,
+[49:24] >> "Well, we maybe we do need to raise it,
+[49:26] but once it gets to
+[49:28] >> being the mother or something, then it's
+[49:31] actually going to be we want it to have
+[49:33] that maternal in instinct towards us,
+[49:35] which that makes sense to me."
+[49:39] Natada.
+[49:42] >> Uh yeah, thank you. Since uh Susan
+[49:45] mentioned something about money, she
+[49:46] reminded me of a book uh it was lately
+[49:50] published uh the empire of AI. So I can
+[49:53] share the link here of I don't know an
+[49:55] interview of the author or something.
+[49:58] She was explaining
+[50:00] um the history of AI and the evolution
+[50:04] and all of this which she claims it is
+[50:07] pure business. It is not about uh
+[50:10] technology or not about uh solutions or
+[50:14] anything that was um claimed lately but
+[50:17] she has another perspective and u yeah I
+[50:20] can share the link so so you can see and
+[50:22] something like I was wondering about
+[50:25] like throughout all the our learning uh
+[50:28] journey like we've been learning that
+[50:30] everything that we have to test and
+[50:32] that's why we do prototyping and we take
+[50:34] samples and like whatever. So why
+[50:38] certain thing didn't go under testing
+[50:41] before or like we can see the results
+[50:44] before publishing or like giving access
+[50:46] to everyone in all of this world. Why
+[50:48] are we uh making some people vulnerable
+[50:52] to this? Why are we putting some people
+[50:54] under, you know, threats or challenges
+[50:57] or some of them like they're I'm afraid
+[51:00] like because like my baby is um my kid
+[51:03] is like in a generation where they say
+[51:06] it's it's very u dangerous for him. He
+[51:09] might be accused for a crime that he
+[51:12] didn't do. So later on when he's a
+[51:15] teenager or something. So what's like
+[51:19] lots of people the majority are innocent
+[51:21] about these type of harmful technologies
+[51:24] if we don't know what to do with them if
+[51:27] we don't know how to make them efficient
+[51:28] or trusted accurate and safe with the
+[51:32] concept of the meta layer you know
+[51:35] >> yeah you know it's interesting because
+[51:37] what you're suggesting is we need a
+[51:39] better testing paradigm and what we've
+[51:41] been hearing is that the tests that
+[51:45] they've been doing the the AI is trying
+[51:47] to deceive their way through the
+[51:49] testing. So, um, yeah, that's a really
+[51:52] good point. We need to do better. Jack
+[51:55] mentioned that Azimov's three laws of
+[51:58] robotics should apply. Do you want to
+[52:01] elucidate on that?
+[52:03] >> Well, they're they're very core and they
+[52:06] go way back
+[52:09] to years before AI became what we know
+[52:14] it today.
+[52:16] um when robotics was the thing. Um
+[52:22] and robotics needed of course some kind
+[52:25] of an artificial brain.
+[52:28] And so he had three laws
+[52:33] and you know the first law had something
+[52:36] to do with you you cannot do harm to to
+[52:40] humans,
+[52:42] >> right? And the second law was that you
+[52:45] cannot do harm to yourself.
+[52:48] And then the third law was that it had
+[52:52] something to do with there's other
+[52:53] things you can do, but they cannot
+[52:55] violate rules one or two.
+[52:59] >> Nice.
+[53:00] >> Yeah.
+[53:00] >> And and
+[53:02] those are core. They they're they're so
+[53:05] obvious and so simple. Um,
+[53:10] we while it's not an indictment of AI
+[53:14] per se, we just saw Meta and Google,
+[53:18] actually YouTube, lose a massive court
+[53:21] case for the damage they're doing to
+[53:24] teenagers.
+[53:26] And it's because they've used these
+[53:28] algorithms and there's algorithms in AI.
+[53:33] So
+[53:35] the the two are related.
+[53:38] Um we're starting to see courts begin to
+[53:42] understand,
+[53:43] you know, be before the
+[53:48] be- before the poop starts going through
+[53:50] the fan, we need to get a hold of this
+[53:54] and and uh wrestle it to the ground. I
+[53:58] don't think in the present political
+[54:01] environment here in the in the colonies
+[54:03] that we're going to see that
+[54:07] because the colonies are only too
+[54:09] interested in whatever will make a buck
+[54:13] and whatever makes a buck does not
+[54:15] necessarily mean it's good for people.
+[54:20] >> So true.
+[54:23] >> Yeah. Maybe maybe we need to apply that
+[54:27] uh those laws of robotics to the meta
+[54:32] level, Jack.
+[54:35] >> I I that that totally makes sense to me
+[54:38] that the meta level should be based on
+[54:41] them
+[54:42] uh you know as as as as let's just say
+[54:45] their their anchor.
+[54:47] Um and and and and it can go on beyond
+[54:52] that. It's worth reading Asimov and and
+[54:56] understanding, you know, the history of
+[54:59] of of
+[55:02] what what's behind them. Um,
+[55:06] I mean, we've already seen AI cause
+[55:09] people to commit suicide. We've seen um
+[55:13] we've seen all manner of mayhem
+[55:16] showing up. Um,
+[55:21] >> Mr. Hey, where does it stop?
+[55:26] >> Great question. Yep.
+[55:29] Bernard, do you have any thoughts you'd
+[55:32] like to share from the perspective of
+[55:35] the younger generation?
+[55:39] >> Well, me personally, I don't start trust
+[55:42] AI or use it. Um, I even s like Logan
+[55:48] with without using my name too. For
+[55:52] example, if I'm using it like uh not
+[55:55] using it a lot. For example, I'm using
+[55:57] it for posters for school or
+[55:59] infographics. So, it's all about
+[56:02] um how to use it for projects. But my
+[56:06] perspective is that I think that AI is
+[56:11] causing a bigger risk for teenagers
+[56:13] especially. Um some of them started to
+[56:17] trust a lot AI. Um some of them became
+[56:22] like for example saying their emotions
+[56:24] to them, saying their secrets to them
+[56:27] and more than saying to their parents.
+[56:31] So yeah me personally I don't trust AI
+[56:35] or use it.
+[56:38] >> Thank you uh Saga.
+[56:42] >> Yeah thank you as I think that uh the AI
+[56:45] is is is using us. We are not using AI.
+[56:49] AI is using it because it's it's
+[56:53] invading our life and and and
+[56:56] it's something that became hilarious and
+[57:00] I mean people here in especially in the
+[57:03] Middle East I'm talking about them um
+[57:08] they are using it in a hilarious way not
+[57:11] only in schools uh but in in tests
+[57:14] making uh making them tests for them the
+[57:17] tests they the they the the the
+[57:19] questions. Uh maybe I I had chat with
+[57:24] with the someone. He told me that u I
+[57:28] lost the cinnamon jar. So I opened chat
+[57:31] GBT and asked him where did my mom put
+[57:34] the the cinnamon jar. That was for me.
+[57:38] Yeah. I mean like wow yeah means means
+[57:42] that we are not going we are not like we
+[57:46] don't have the strategy how to use AI uh
+[57:50] we we are using it with no like blindly
+[57:56] >> good point
+[57:59] >> nada
+[58:03] >> yeah some some more thing to add after
+[58:06] all of the research uh I've done about
+[58:09] women in AI in specific so far. Uh and
+[58:13] it it's a global research. It's not only
+[58:15] about it's not only for Middle East
+[58:17] women and I'm talking about the age of
+[58:19] 18 and above. So the females in specific
+[58:23] they are getting the harm out of AI more
+[58:26] than the advantage. Although there are
+[58:28] in some cases and some urban areas and
+[58:30] so on they are making more salaries and
+[58:32] so on but they are undergoing
+[58:34] discrimination. they're not taking equal
+[58:37] opportunities. Bias is really obvious in
+[58:40] this and it's inherent you know because
+[58:43] like most of the programmers or the AI
+[58:46] uh technicals are like it tends to be
+[58:49] zero to have a woman in the tech level
+[58:52] like uh developing AI solutions. So most
+[58:55] of them are males and this is the main
+[58:57] reason of having this and at the same
+[59:00] time like uh it's it's being harmful in
+[59:03] a way or another and I'm talking about
+[59:06] leadership, entrepreneurship, uh job
+[59:08] opportunities, education, uh AI adoption
+[59:12] even she's she's very reluctant and
+[59:14] hesitant. She's not very trustful of
+[59:17] whether she can have the skills the
+[59:20] proper skills to acquire or not. So this
+[59:23] is where like adding with what mentioned
+[59:25] by Renad and Salwa sometimes there is
+[59:28] misuse because if I want to show that I
+[59:30] know this technology because I'm being
+[59:32] afraid I'll be kicked out of my job
+[59:35] because I don't know the the skill then
+[59:37] I'm just running to use the technology
+[59:39] like as like crazy. I don't know what to
+[59:42] do with it. But like now I see like I
+[59:44] know how to use AI. So I don't know if
+[59:46] you get the general idea of what I'm
+[59:49] saying. So it's it's dangerous for for
+[59:53] some people for the majority I think
+[59:56] if if kept this way. Yeah.
+[59:59] >> It's almost as if if they're ungrounded
+[01:00:02] in their use then it becomes dangerous
+[01:00:05] in a way
+[01:00:08] >> exactly. If there's no awareness, no
+[01:00:11] like instructions on how to use it. If
+[01:00:14] you don't tell me like if you know
+[01:00:15] everything, you give me a manual for
+[01:00:17] this like how to use this thing not to
+[01:00:19] hurt yourself or to use it the best way.
+[01:00:22] You give me a manual for a tool to use.
+[01:00:25] But this tool does not have a manual, a
+[01:00:27] clear one. So people are just misusing
+[01:00:30] it in a way or another. And this is what
+[01:00:32] was was mentioned by Jack. Some people
+[01:00:34] like are committing suicide or others. I
+[01:00:37] I know someone she does shopping in
+[01:00:39] Lebanon and he give her products that
+[01:00:42] are not in Lebanon. So based on her
+[01:00:46] history and her body and whatever so he
+[01:00:49] selects I mean the AI so it selects uh
+[01:00:53] products that are not found here and now
+[01:00:55] she's shipping everything. She's
+[01:00:57] undergone like I don't know like lots of
+[01:01:00] problems with her husband. They are
+[01:01:02] maybe they are about to divorce because
+[01:01:04] financially they cannot afford this and
+[01:01:06] she's always shipping everything not
+[01:01:08] purchasing anything from Lebanon like
+[01:01:10] the context must be taken into
+[01:01:12] consideration. The this situation even
+[01:01:14] the mentalities all in all it's a
+[01:01:17] package. So because you you're have
+[01:01:19] you're talking about something that is
+[01:01:21] simulating and imitating the human
+[01:01:23] intelligence you know in a way or
+[01:01:25] another. We have ethics. We have this
+[01:01:28] human thing, you know, like we always
+[01:01:31] start with we love each other. We miss
+[01:01:33] you guys. You Davidid, just check on us.
+[01:01:36] Are you good or no? You know, we have
+[01:01:37] this thing. You're talking about um I
+[01:01:41] don't know about
+[01:01:44] something. It's not human. So, we have
+[01:01:48] we have to give a framework at the end
+[01:01:50] of the day for what's going on. Maybe I
+[01:01:52] don't know. You name it.
+[01:01:54] Thank you, Renad.
+[01:01:57] >> I wanted to add a point that right now
+[01:02:00] AI has quietly become part of almost
+[01:02:03] every home. Like I'm talking about here
+[01:02:06] in Oman. It became like an invisible
+[01:02:09] family member. It watches, listens, and
+[01:02:11] learns from our daily habits, which
+[01:02:13] means our privacy is currently at risk.
+[01:02:16] Um, people can become overdependent on
+[01:02:19] AI, letting it make decisions for them
+[01:02:21] instead of thinking for themselves. AI
+[01:02:24] also can influence opinions, purchases,
+[01:02:26] and even moods without us realizing it.
+[01:02:29] So, also shaping our lives in subtle
+[01:02:32] ways. If we're not careful, the silence
+[01:02:35] presence can also reduce real human
+[01:02:38] connection and quietly take control over
+[01:02:40] parts of our lives. Just wanted to add
+[01:02:43] that.
+[01:02:44] >> Well, thank you. Bravo.
+[01:02:47] >> Wow.
+[01:02:50] >> I think we if if there's no one else who
+[01:02:53] has something burning that they just
+[01:02:55] need to say, I think we'll move on to
+[01:02:57] the next section. Is there anyone who
+[01:02:58] wants has to say something right now?
+[01:03:02] You can.
+[01:03:05] Okay.
+[01:03:05] >> A very quick thing. Can I if No.
+[01:03:08] >> Yeah.
+[01:03:09] >> Yeah. just she reminded me of a trainer.
+[01:03:11] I was going uh toot uh with with a very
+[01:03:15] professional international trainer from
+[01:03:17] the international labor organization and
+[01:03:21] uh he was amazing. He really left like
+[01:03:24] prince and as like a really good impact
+[01:03:27] and uh we were guided by all of his good
+[01:03:29] experience. The last day I was
+[01:03:32] astonished with what he did and this was
+[01:03:35] a face toface thing you know like the
+[01:03:37] training thing and it was for 10
+[01:03:40] intensive days and the last day he
+[01:03:42] wanted to give us a message I thought
+[01:03:44] like and he said I had I have a surprise
+[01:03:46] for you and it's my message for you
+[01:03:49] before leaving the country because he's
+[01:03:51] he was not Lebanese and he was going
+[01:03:53] back to his country and we were all
+[01:03:55] surprised with all this very good
+[01:03:58] experience and human thing with all the
+[01:04:02] interactions the face tof face things
+[01:04:04] having this message for us the final one
+[01:04:06] generated by AI and it was like all of
+[01:04:09] us was like shocked with all the words
+[01:04:12] it's not the thing that we wanted we
+[01:04:14] want your words to us like this is very
+[01:04:16] generic and it's very common like anyone
+[01:04:19] can hear this and this is where he
+[01:04:21] wanted to start using AI because he he
+[01:04:25] don't want to be like uh um I mean not
+[01:04:28] not adopting does, you know, like like
+[01:04:30] everyone, he has to use the AI and this
+[01:04:33] was the result.
+[01:04:35] >> That's super interesting.
+[01:04:39] All right. Well, let's move on to the
+[01:04:40] next bit. Uh, you know, we just have
+[01:04:43] about 20 something minutes left. This is
+[01:04:46] probably just going to be dipping our
+[01:04:48] toes into this. But I do want to mention
+[01:04:51] that I put in the chat this article uh
+[01:04:56] the gathering storm why energy shortages
+[01:04:59] engineer scarcity and AI data centers
+[01:05:01] may change everything. I found it to be
+[01:05:04] a really thoughtprovoking article. I
+[01:05:06] can't vouch for every single thing that
+[01:05:08] they put into it but I I have heard
+[01:05:11] similar things from from different
+[01:05:13] sources. So it may be something for you
+[01:05:15] all to check out if you're interested.
+[01:05:17] It definitely talks a lot about the
+[01:05:19] water use which is tremendous and I
+[01:05:23] didn't realize it was as much. So
+[01:05:25] anyway, u I guess really quickly I'll go
+[01:05:28] through the, you know, these slides and
+[01:05:30] um then we're going to have one more
+[01:05:32] conversation.
+[01:05:34] Oh, I'm not trying to share it, am I?
+[01:05:36] I'm trying to slideshow it. Okay, here
+[01:05:38] we go. So anyway, this is a totally
+[01:05:41] different moment. AI is here. We all
+[01:05:43] know that trust and truth are in deficit
+[01:05:45] at the moment. coordination is is not
+[01:05:48] really working very well. And um I also
+[01:05:52] want to say this is really a bu build
+[01:05:53] phase. I mean that's at least my
+[01:05:55] perspective like we need to be building
+[01:05:58] the guard rails that that we want
+[01:06:01] however that needs to show up. And in in
+[01:06:04] my estimation
+[01:06:06] part of the problem I'm not saying this
+[01:06:07] is all the problem but a a lot of the
+[01:06:09] problem especially to trust uh the
+[01:06:13] deficit of trust and truth and uh
+[01:06:16] coordination is due to the fact that we
+[01:06:19] have a web of silos. So siloed platforms
+[01:06:22] lead to siloed perception which leads to
+[01:06:26] reality collapse where we all are seeing
+[01:06:28] different things which uh of course
+[01:06:31] leads to uh a breakdown of coordination
+[01:06:34] and part of is that we just can't
+[01:06:36] distinguish what's real what's not
+[01:06:38] what's created by AI what's created by
+[01:06:41] humans u the missing layer and I think
+[01:06:44] our our conversation has has said this
+[01:06:47] uh we we talked about it and said Well,
+[01:06:51] mod models and policy just aren't going
+[01:06:53] to get us all the way there. There can
+[01:06:56] there can and should be guard rails
+[01:06:58] built into those, but we're not
+[01:07:00] convinced that the government or the AI
+[01:07:03] companies are going to have our best
+[01:07:05] interests that are going to have human
+[01:07:08] flourishing as the goal, which is what
+[01:07:10] needs to happen. And
+[01:07:13] what a lot of us who've been talking
+[01:07:14] about the metal layer, the metal level,
+[01:07:16] we've recognized that the interface
+[01:07:18] layer is what's missing and that that
+[01:07:21] should be where we c we focus so that we
+[01:07:25] can bring back trust and um
+[01:07:27] coordination. I want to just talk very
+[01:07:31] briefly. Um, many of you already know
+[01:07:34] this, but the the the new folks just
+[01:07:38] want to presence the new languaging that
+[01:07:40] we're using to speak to the um the metal
+[01:07:46] layer primitives. the what I'm
+[01:07:48] suggesting
+[01:07:49] is that there needs to not only be
+[01:07:54] policy and models uh you know alignment
+[01:07:58] with models but also that we we build uh
+[01:08:04] guard rails into new architectures
+[01:08:08] that support the things that we want.
+[01:08:10] And one of the ways that this group has
+[01:08:12] been thinking about it both kind of at
+[01:08:15] the idea of AI newphere moving towards
+[01:08:19] uh Pierre Tarde Charardine's vision of
+[01:08:24] conversion consciousness
+[01:08:26] um as well as we've called it the meta
+[01:08:29] layer or the meta web or the layered web
+[01:08:32] is there we would uh use overlays on top
+[01:08:36] of web pages and these could look like a
+[01:08:40] smart uh excuse me like a sidebar or
+[01:08:43] they could be independent of the
+[01:08:45] sidebar. Like for example, in this
+[01:08:46] illustration, we're showing an overlay
+[01:08:50] that indicates that a particular person
+[01:08:53] is an AI agent. So this is an overlay on
+[01:08:56] top of this. It may not be on the web
+[01:08:58] page, but the idea is that the overlay
+[01:09:01] can surface information. And the same
+[01:09:04] thing here like provenance, source
+[01:09:06] history of the information on the page.
+[01:09:10] All this is those types of things aren't
+[01:09:13] traditionally
+[01:09:14] um covered or addressed in today's web.
+[01:09:19] And rather than throwing out today's
+[01:09:22] web, we can layer these things on top.
+[01:09:24] So smart tags are essentially the
+[01:09:27] ability to attach a piece of code to a
+[01:09:32] piece of content. So attach you could be
+[01:09:35] attaching a note, a conversation, a
+[01:09:38] poll, whatever someone wants to build as
+[01:09:40] a smart tag. Shared context means that
+[01:09:42] we can all see the same same things. We
+[01:09:46] can see a web of knowledge, this new
+[01:09:48] knowledge that we're building together
+[01:09:49] that D was talking about that we can see
+[01:09:52] a shared view of it as opposed to us all
+[01:09:55] having our own individual view. Then
+[01:09:57] this idea of a portable trust. So a
+[01:10:01] community being able to move with you
+[01:10:03] and being able to maintain trust
+[01:10:06] relationships and also trust in data. So
+[01:10:09] provenence data being available, source
+[01:10:11] history uh information being available,
+[01:10:14] understanding whether someone is an
+[01:10:17] agent or a person. These are all trust
+[01:10:19] issues. And then presence layers. When
+[01:10:21] we say that, we mean um people and
+[01:10:26] agents being able to have a presence
+[01:10:30] above web pages and you being able to
+[01:10:34] see them if they decide to be visible.
+[01:10:37] If you decide to be visible and they
+[01:10:39] decide to be visible, you'll see these
+[01:10:41] people. We're not.
+[01:10:44] >> Yeah. I wanted to ask um are we going to
+[01:10:47] use this in the middle layer?
+[01:10:50] We're going to we're going to definitely
+[01:10:54] uh over the next year or so, we're going
+[01:10:57] to be looking at how we can use
+[01:11:01] metallayer primitives such as these to
+[01:11:05] make AI uh uh human AI coexistence safe
+[01:11:11] and um enjoyable.
+[01:11:14] Okay,
+[01:11:16] >> the um the last one that I was going to
+[01:11:18] mention is trusted execution
+[01:11:20] environment. So that's basically saying
+[01:11:22] that we can have processes like agents
+[01:11:27] running within a execution environment
+[01:11:30] that is not only private but it can
+[01:11:33] enforce rules. So it the types of things
+[01:11:36] that are possible with that are for a
+[01:11:40] community to say that for example we
+[01:11:44] don't want uh agents to make the first
+[01:11:48] communication to anyone in our community
+[01:11:50] and if it's done within a exe a trusted
+[01:11:54] execution environment then that is
+[01:11:56] enforced and there's no way that the
+[01:11:59] agent can actually call the specific um
+[01:12:04] code to to reach out uh make the first
+[01:12:09] move on a person.
+[01:12:11] Anyone have any questions about the
+[01:12:13] metal layer primitives that we're
+[01:12:15] wanting to work with?
+[01:12:18] Davidid does the governness for the
+[01:12:21] layers you know are they can we provide
+[01:12:25] the you know whether it's for personal
+[01:12:28] productivity if it's for the community
+[01:12:31] you know or public civic use for work is
+[01:12:35] that because the governance would be
+[01:12:37] dependent um upon that environment right
+[01:12:42] >> yeah I mean I think you've touched upon
+[01:12:44] it there's going to be individual
+[01:12:47] governance like how do I personally want
+[01:12:49] to to deal with
+[01:12:51] >> AI or even other people and then there's
+[01:12:54] going to be the community based
+[01:12:56] governance and then there's going to be
+[01:12:57] the overall
+[01:12:59] layer like the the the the overweb or
+[01:13:03] the meta layer might will have its own
+[01:13:05] top level governance as well. So you
+[01:13:08] have multiple governance layers that can
+[01:13:10] be applicable.
+[01:13:12] >> Okay, cool.
+[01:13:13] >> I have a question. Uh, can you tie the
+[01:13:17] primitives of metal layer into knowledge
+[01:13:20] gardens?
+[01:13:22] >> Oh, that's a good idea. Yeah,
+[01:13:24] >> I think it's
+[01:13:26] very very much aligned. Um, Jack, would
+[01:13:30] you like to take that on?
+[01:13:32] >> Well, the original knowledge garden
+[01:13:35] concept was based on topic mapping,
+[01:13:38] which is a meta layer above. It's a map
+[01:13:43] of a whole territory which is the web.
+[01:13:47] And you specifically create
+[01:13:52] different topic map applications
+[01:13:57] for such things as people, places, and
+[01:14:00] things or physics, chemistry, and and
+[01:14:04] biology, etc., etc. because they have
+[01:14:08] slightly different vocabularies except
+[01:14:12] what you do is you make it so that they
+[01:14:15] can interact with each other. And that's
+[01:14:18] knowledge gardening is tending tending
+[01:14:21] that kind of a garden. And so in in in
+[01:14:25] essence the the the metal layer
+[01:14:28] activities that you're talking about is
+[01:14:30] knowledge gardening.
+[01:14:34] >> Yes. Absolutely. Um but if we look at
+[01:14:38] the primitives alone um
+[01:14:42] well if left untended
+[01:14:44] um we may not reach the the trust the
+[01:14:49] validation
+[01:14:50] the shared sharing of perspectives the
+[01:14:54] building of shared consciousness that we
+[01:14:56] are after. Um I I think it's not
+[01:15:00] necessarily going to happen
+[01:15:01] spontaneously if we if we only stay at
+[01:15:06] the level of the primitives as such.
+[01:15:11] So so
+[01:15:15] that's a really really good point. Um,
+[01:15:19] and if you think of those primitives as
+[01:15:21] like um tires and shock absorbers and
+[01:15:28] springs and seats in your car,
+[01:15:32] they don't make the car until they're
+[01:15:34] all assembled.
+[01:15:36] And and so
+[01:15:39] it's the execution that the trusted
+[01:15:42] execution environment that brings them
+[01:15:44] all together.
+[01:15:46] And and that's, you know, that's you you
+[01:15:50] make soup out of chopping vegetables and
+[01:15:53] some of this and some of that and a lot
+[01:15:55] of herbs and spices and whatever, but
+[01:15:58] those things alone sitting on the table
+[01:16:00] don't mean anything.
+[01:16:02] They're just there and if you don't do
+[01:16:04] anything, they rot. So you have to put
+[01:16:07] them in into some some water and you
+[01:16:10] have to stir them and heat them and and
+[01:16:12] and cook them to the right to the right
+[01:16:15] degree and then they all magically
+[01:16:20] turn into this very flavorable whatever
+[01:16:22] it is you're making. And and so
+[01:16:27] the the the meadow layer
+[01:16:30] isn't just an idea. It it's an execution
+[01:16:34] of a bunch of very important ideas
+[01:16:37] together.
+[01:16:41] >> Yeah. And I just I want to emphasize
+[01:16:43] that this is just a beginning list of of
+[01:16:46] primitives and there may be many many
+[01:16:49] more and if we came up with new ones
+[01:16:52] that that's great and I I kind of see
+[01:16:54] the so the topic garden application is a
+[01:16:59] form of overlay. Um, and I think there
+[01:17:02] may be some is there maybe something
+[01:17:04] like a a smart tag? Um,
+[01:17:07] >> yeah. Yeah. And it a smart tag that
+[01:17:10] would enable the user, you know, as a
+[01:17:14] personal agent to call out the rules,
+[01:17:17] their preferences,
+[01:17:19] uh, which which are their trusted agents
+[01:17:22] are, you know, have the user build in
+[01:17:28] rules, right? build in to the platform
+[01:17:32] what they want for privacy, for what
+[01:17:37] they want for protection. Um, just to
+[01:17:40] have that interface as as you're going
+[01:17:43] is, you know, the the personal rules,
+[01:17:46] right? They're very different than
+[01:17:48] corporate roles. You might not be in a
+[01:17:51] corporate setting. You might want to
+[01:17:53] make sure that you're an environment
+[01:17:55] that is trusted.
+[01:17:57] I think that is wonderful,
+[01:18:00] wonderful um in terms of the flow of
+[01:18:04] information from the user into the
+[01:18:07] system that we stop being so invaded,
+[01:18:11] intruded and exploited um uh like Nada
+[01:18:15] and Salva were saying and um uh that
+[01:18:18] everyone can modulate their privacy and
+[01:18:22] protection in terms of what comes to us
+[01:18:26] Can we trust what we see? Um what's
+[01:18:31] shown here? Well, it says this this is
+[01:18:33] not a person. It's an AI agent, etc. Um
+[01:18:37] so you could think of the metal layer as
+[01:18:40] collective hunt for um for sources of
+[01:18:44] misinformation which could turn into an
+[01:18:46] exponential whack-a-ole given that
+[01:18:48] machines have a um a much bigger
+[01:18:51] capacity than than we do. Um but um the
+[01:18:56] the basis of trust of what comes to us
+[01:19:00] uh what we are able to find on the page
+[01:19:03] and above the page would be um based on
+[01:19:08] some more profound ways to validate it
+[01:19:11] that
+[01:19:12] >> exactly exact. You're so right. I'm
+[01:19:14] going to capture this thought right now
+[01:19:15] because what you just said is brilliant.
+[01:19:17] Right. If I would offer up my visual in
+[01:19:22] real time with a timestamp with, you
+[01:19:25] know, GPS location tag, if especially if
+[01:19:29] I was working on a work project or even
+[01:19:32] the personal call turned into a
+[01:19:33] professional call, if you needed to tag
+[01:19:35] me to make sure that I'm not being
+[01:19:37] simulated, which occurs today, right,
+[01:19:41] you're spoofed and and
+[01:19:45] it's so dangerous. But if if there were
+[01:19:47] ways um you know at different levels to
+[01:19:50] check that you know I'd be willing right
+[01:19:54] to do a selfie or a online you know real
+[01:19:57] time video or you know like holding up a
+[01:20:01] newspaper if you're kidnapped but um
+[01:20:04] like that I'm just in real time there
+[01:20:07] are times when we're going to need to
+[01:20:08] capture more data and I think that the
+[01:20:10] user I know personally the user would go
+[01:20:14] yeah yeah identify by me is really who I
+[01:20:17] am.
+[01:20:19] >> Yes. Uh and in terms of trusting what we
+[01:20:21] see, I think the the deeper thing would
+[01:20:24] be a way to validate the concepts. So so
+[01:20:28] not just identity of contributors but
+[01:20:31] the way the concepts and the facts are
+[01:20:33] shared uh need to be validated. Uh and
+[01:20:36] Maxim has his head hand up.
+[01:20:39] >> Go ahead.
+[01:20:42] >> Yeah. I wanted to share for last year
+[01:20:45] and a half I spent working and doing
+[01:20:47] research around alignment, trust and
+[01:20:50] safety of AI and I have a system that
+[01:20:53] basically jails agents able to measure
+[01:20:55] alignment a able to measure behavior and
+[01:20:59] that was interesting realization like
+[01:21:01] two months ago um and I couldn't figure
+[01:21:05] out what's happening because when I talk
+[01:21:07] to general audience people want this
+[01:21:09] when I go and I start chasing
+[01:21:11] partnership in corporate world people
+[01:21:13] really they see what I'm building but
+[01:21:16] there is no partnerships that happening
+[01:21:18] people kind of check out and at first I
+[01:21:22] thought that I'm too early but um down
+[01:21:25] the line I realized that trust and trust
+[01:21:29] and safety systems give measurable
+[01:21:32] accountability
+[01:21:34] and that's what people in corporate
+[01:21:36] world don't really want
+[01:21:38] >> because all of a sudden
+[01:21:40] >> there's consequences to my actions that
+[01:21:43] are visible and transparent and people
+[01:21:46] hide behind the narrative will it slow
+[01:21:48] down the progress but reality is now
+[01:21:50] there's a measurable impact that I'm
+[01:21:52] having on people and I don't want that
+[01:21:56] >> because as somebody and I spent long
+[01:21:59] time working in corporate innovation
+[01:22:01] when I'm in that environment
+[01:22:04] the game becomes we need to innovate but
+[01:22:06] at the same time we need to protect
+[01:22:07] ourselves because sentiment is Not if
+[01:22:12] we're going to get sued. Question is
+[01:22:14] when we're going to get sued.
+[01:22:16] >> And it's kind of innovation in corporate
+[01:22:18] world is really about trying to be
+[01:22:22] couple of days ahead of firing squad
+[01:22:25] >> for them because they know what's
+[01:22:27] happening. They know they see the impact
+[01:22:29] but they have no idea what to do with
+[01:22:31] that.
+[01:22:32] And um it's a very I love this
+[01:22:35] conversation because
+[01:22:38] just for last year and a half I felt
+[01:22:39] like am I losing my mind? What am I not
+[01:22:41] getting
+[01:22:43] >> around AI safety?
+[01:22:46] >> My years in corporates completely
+[01:22:49] wholeheartedly support your conclusion
+[01:22:52] is that they don't want visible
+[01:22:54] transparent consequences to their
+[01:22:55] actions and by they I mean anyone with
+[01:22:57] some kind of agency.
+[01:23:00] Uh so yeah there's so many taboos and we
+[01:23:04] we uh explicit blocks when people try to
+[01:23:08] connect actions and consequences and
+[01:23:11] actually measure whether what we are
+[01:23:13] saying we want to achieve is happening.
+[01:23:15] Uh what's the gap between expectation
+[01:23:17] and actuality so much wishful thinking
+[01:23:20] when setting up innovation budgets uh
+[01:23:23] instead of actual uh logic. So so that's
+[01:23:27] that's incredible. So I I think that
+[01:23:31] goes to what my hope is if we think
+[01:23:34] about knowledge gardens from what Jack
+[01:23:36] put in the signal
+[01:23:38] which is if you have a really rich uh
+[01:23:43] functionality
+[01:23:45] to be able to create these causal links
+[01:23:49] and concept uh translations and uh be
+[01:23:53] able to validate what uh what you're
+[01:23:57] encountering
+[01:23:58] uh in any kind of content uh over over
+[01:24:02] the page or on the page. Um I wonder how
+[01:24:05] we could incorporate that into meta
+[01:24:08] layer as a as a path to truth or a sum
+[01:24:13] of different perspectives and beliefs
+[01:24:16] um uh that that has some kind of
+[01:24:19] validation mechanism in it. Otherwise,
+[01:24:22] it's just a a huge untrimable
+[01:24:26] sea.
+[01:24:28] of unreconciled
+[01:24:30] un ungrounded things if that makes
+[01:24:34] sense. Oh sorry Jack also has his hand.
+[01:24:39] Well,
+[01:24:40] first of all, to to to build on two
+[01:24:46] things that were just said, we have to
+[01:24:48] be reminded of what happened when
+[01:24:52] um Anthropic
+[01:24:55] said told the US government, you cannot
+[01:24:58] use our our our platform for killing
+[01:25:04] people with with with humans not in in
+[01:25:07] in attendance. In other words,
+[01:25:09] self-mated.
+[01:25:10] Um, and so the government said, "Well,
+[01:25:13] screw you." And and they blackalled them
+[01:25:16] and blah blah blah. And the next day,
+[01:25:19] Open AI come and said, "Oh, yeah, we can
+[01:25:21] use you can use Open AI, no problem."
+[01:25:24] What happened was
+[01:25:27] Claude started getting thousands of new
+[01:25:31] users and Open AI you lost thousands of
+[01:25:35] users.
+[01:25:36] >> Yeah.
+[01:25:37] I know. And and they they doubled the
+[01:25:40] time amount. Did you see that? You know,
+[01:25:42] where they they which is clever, right?
+[01:25:45] You know, there was like what is it was
+[01:25:48] times? Yeah. 50% more usage
+[01:25:52] and it's it just caused a huge huge sign
+[01:25:55] on
+[01:25:59] >> Jack. And then and then what Mild was
+[01:26:02] saying is you need a community memory
+[01:26:06] that is trustworthy.
+[01:26:08] Doesn't have to be true.
+[01:26:12] It just has to be trustworthy. And by
+[01:26:15] which I mean
+[01:26:17] it isn't affected by advertisers swaying
+[01:26:21] the way the scale reads. And it isn't
+[01:26:25] affected by by um AI blathering on when
+[01:26:32] it doesn't know what it's talking about.
+[01:26:35] It's it's the best that humans could
+[01:26:38] assemble and justify.
+[01:26:41] And then that becomes
+[01:26:44] the anchors
+[01:26:46] for conversations
+[01:26:49] around points of dispute.
+[01:26:53] You want the contests out there and you
+[01:26:56] want them legitimately out there and you
+[01:26:59] want civil conversations, structured
+[01:27:02] ones around those contested issues
+[01:27:07] to surface more information by humans.
+[01:27:12] They can have an AI assist, but they it
+[01:27:15] has to be human. It has to be
+[01:27:17] trustworthy.
+[01:27:19] So you're building a community memory
+[01:27:22] and that's truly one of the primitives
+[01:27:25] of the meta layer. It's it's why I
+[01:27:28] started with topic maps
+[01:27:31] as the meta layer. If you take a look at
+[01:27:34] hypothesis
+[01:27:37] hypothesis is a kind of human memory but
+[01:27:41] without the topic map.
+[01:27:44] What it is is you can go out on the web
+[01:27:47] and you can annotate a page and you can
+[01:27:49] put tags on it and other people will
+[01:27:52] notice that tag and use it elsewhere.
+[01:27:54] And those tags create a graph, but the
+[01:27:59] hypothesis didn't go the full distance
+[01:28:01] and give you that graph of how the
+[01:28:03] things wire up.
+[01:28:06] But it's still a community memory
+[01:28:08] because people will come in, read your
+[01:28:11] annotations and say, "Hey, I want to
+[01:28:13] challenge that." And now you have a
+[01:28:15] conversation in right in that metal
+[01:28:19] layer.
+[01:28:22] That's a great point by the way. So do
+[01:28:23] you shared context in in my mind is you
+[01:28:27] know community memory but I I think it's
+[01:28:30] totally fine if we want to start
+[01:28:33] referring to it as community memory as
+[01:28:35] opposed to shared contest or maybe we
+[01:28:37] use both both um phrases. Let's see.
+[01:28:42] Well,
+[01:28:43] >> so I think I like community memory
+[01:28:47] because
+[01:28:49] community memory has a history
+[01:28:53] in in the study of of uh
+[01:28:58] of u
+[01:29:00] basically evolutionary epistemology. The
+[01:29:03] way communities learn,
+[01:29:06] they learn by by by
+[01:29:12] sharing their ideas and then recording
+[01:29:14] them. And some of that recording ends up
+[01:29:17] in the library. Some of it ends up on
+[01:29:19] the chalkboard at school. Some of it
+[01:29:22] ends up very it's various places and
+[01:29:24] it's dispersed.
+[01:29:26] But we now have the opportunity with the
+[01:29:28] web to make it permanent
+[01:29:32] and immutable. You can't
+[01:29:35] >> change it.
+[01:29:36] >> You really want you really you you want
+[01:29:39] to say, "Okay, we finally disagreed with
+[01:29:41] that point." That's fine. We've
+[01:29:43] disagreed, but here's the history of how
+[01:29:45] we got there. So that people can come
+[01:29:48] and learn from the history.
+[01:29:52] >> Yeah. Just imagine if we had that from a
+[01:29:56] thousand years ago. Our understanding of
+[01:29:58] history would be completely different. I
+[01:30:01] mean, not completely, but it would be it
+[01:30:03] would be somewhat different. And and
+[01:30:05] history would probably be different,
+[01:30:06] right? If the if this was available for
+[01:30:09] there to be a community memory from a
+[01:30:11] thousand years ago and we had anybody
+[01:30:13] who wanted to provide their perspective
+[01:30:15] was able to to do it and put it in the
+[01:30:17] right place and everyone could find it
+[01:30:19] and comment on it, history would be
+[01:30:21] different. Um D
+[01:30:23] >> it when Jack was talking it just
+[01:30:26] triggered another u experience I have
+[01:30:30] when I go on my phone I have um a
+[01:30:35] warning that it thwarted you know 90
+[01:30:39] different threats
+[01:30:41] when I start engaging with my phone
+[01:30:44] using my device and I see this meta
+[01:30:48] layer also being able to let me know uh
+[01:30:53] what's happening outside of my community
+[01:30:55] with the topic that I'm interested in
+[01:30:59] that maybe it's being um misused or
+[01:31:06] there's some distortion in its
+[01:31:09] understanding
+[01:31:10] so that I'm aware that the topic is
+[01:31:14] alive and that it's being used in a
+[01:31:17] context other than what my community is
+[01:31:20] interested in preserving and
+[01:31:22] contributing to. So
+[01:31:26] this could be maybe a little bit more
+[01:31:29] advanced looking outside of the
+[01:31:31] community for thing for the chatter.
+[01:31:35] Chatter that may matter. Okay.
+[01:31:37] >> Chatter that may matter. I like that.
+[01:31:41] >> Awesome. But I I love and and I know
+[01:31:43] Millia sent me some things about uh the
+[01:31:47] Jack's um you know the the knowledge
+[01:31:51] garden and how it's weaving. It's it's
+[01:31:54] so beautiful how all of these concepts
+[01:31:56] are kind of coming together and um we we
+[01:32:00] really do need to
+[01:32:02] uh write this so that it's um it it gets
+[01:32:10] synthesized into something that that we
+[01:32:13] could uh further represent and get other
+[01:32:16] people to to immediately
+[01:32:19] uh jump on because we're carrying over
+[01:32:21] lots of concepts and and I while I love
+[01:32:24] it, I think people that aren't in the
+[01:32:28] know uh need to have our level of
+[01:32:30] understanding because it's coming
+[01:32:32] together so nicely.
+[01:32:34] >> I first used the term knowledge garden
+[01:32:38] in Soul, South Korea in 2007.
+[01:32:44] uh I was invited to give a talk and my
+[01:32:47] talk was ostensibly about just in time
+[01:32:50] learning and the reason for that talk
+[01:32:53] was that
+[01:32:56] Koreans had become very wealthy and
+[01:32:59] their kids didn't want to work and they
+[01:33:02] needed workers. So where were they going
+[01:33:04] to get them? They're going to have to
+[01:33:06] train them on the job just in time.
+[01:33:10] But they told me that's the title of
+[01:33:12] your talk. However, you can say anything
+[01:33:14] you want.
+[01:33:16] And so I decided to in introduce the
+[01:33:19] idea of lifelong learning which is
+[01:33:22] stimulated by something I called
+[01:33:24] knowledge gardening
+[01:33:26] >> where you a aggregated all of your ideas
+[01:33:30] and learnings in this community memory
+[01:33:35] and and u the the term stuck there. They
+[01:33:39] really liked it. Um
+[01:33:42] uh
+[01:33:45] the you can still you can come back you
+[01:33:49] can come back to Google and you can look
+[01:33:51] up knowledge garden and you'll find all
+[01:33:53] kinds of children's playgrounds called
+[01:33:55] knowledge gardens and that's that's to
+[01:33:57] be expected
+[01:33:59] but um the term knowledge gardening
+[01:34:03] today
+[01:34:05] has been superseded by a new term called
+[01:34:08] knowing gardening.
+[01:34:12] Because knowledge gardening is not an
+[01:34:14] active term but knowing is an active
+[01:34:18] term.
+[01:34:20] So we talk now about knowing gardens
+[01:34:25] and and our epistemic communities to do
+[01:34:28] this are called knowing hubs.
+[01:34:33] >> Awesome. and and and and and so and and
+[01:34:36] and they can use the meta web to tie
+[01:34:39] them all together in a federation.
+[01:34:42] That's the whole point of the community
+[01:34:44] memory is to tie all of these disparit
+[01:34:48] conversations all over the planet
+[01:34:50] together so everybody can learn from
+[01:34:53] everybody else.
+[01:34:57] Excellent. Wow, this has been such a
+[01:35:00] rich conversation and
+[01:35:02] uh there are at least three different
+[01:35:06] ideas around the metal layer and
+[01:35:08] probably more. Renard has one that she
+[01:35:10] sent me and and we we can talk about
+[01:35:13] that next week. Then there's the I think
+[01:35:16] the knowledge garden we should we should
+[01:35:20] think about how it could be implemented
+[01:35:23] within this framework and and start
+[01:35:26] start doing that. I mean, it's it's a
+[01:35:28] great idea. And then there was one other
+[01:35:30] one. What was the Oh, Millia was talking
+[01:35:33] about how we can use it to unear truth
+[01:35:37] and and just help us better understand
+[01:35:41] what's true and what we can trust. So, I
+[01:35:44] I think maybe next week we can um we can
+[01:35:49] talk about it. Just quite frankly, no
+[01:35:51] one else showed up for any of the other
+[01:35:54] sessions except for Renad and my friend
+[01:35:56] Nile. So, we had I had four more
+[01:35:58] sessions planned and I I did do a little
+[01:36:00] bit of outreach. I didn't do as much as
+[01:36:02] I could because I was working on other
+[01:36:04] things. So, I think that I'm going to
+[01:36:07] cancel those other sessions and I would
+[01:36:10] suggest that next week that we we pick
+[01:36:13] up here and if people are open to it, we
+[01:36:16] could explore those three ideas um and
+[01:36:20] just go in depth. And Maxim, I want to
+[01:36:22] say I'm really interested in learning
+[01:36:24] more about your work. if you want to put
+[01:36:27] your your links in there, I'd love to
+[01:36:30] connect with you and and I'm sure other
+[01:36:32] people would
+[01:36:33] >> as well. And um then the other thing I
+[01:36:36] wanted to say was I think there's an
+[01:36:38] article in there that really needs to be
+[01:36:40] in the AI AI safety corpus about your
+[01:36:43] experience. So um you know, we would be
+[01:36:48] happy to host the article if that was
+[01:36:50] something of interest to you and um
+[01:36:52] yeah, it's great to see you. in
+[01:36:55] particular
+[01:36:56] >> and
+[01:36:57] >> yeah I put my contacts please reach out.
+[01:37:00] >> Awesome. Awesome. And everybody thank
+[01:37:04] you so much. Wow we had just so much
+[01:37:07] insight in this call coming from all
+[01:37:09] across the world. I really appreciate
+[01:37:11] you all and um if you want to open up
+[01:37:13] your mic and say goodbye, you can.
+[01:37:17] >> Bye.
+[01:37:18] >> Thank you David. Thank you very much.
+[01:37:20] >> Thank you.
+[01:37:21] >> Thanks all of you. This was outstanding
+[01:37:23] David. Thank you so much.
+[01:37:25] >> All right, go medals.

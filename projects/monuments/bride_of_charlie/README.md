@@ -7,7 +7,8 @@ First monument project. Uses the Episode Analysis Protocol for structured invest
 - **brief/** — Project briefing (protocol rules)
 - **templates/** — Output format for episode analyses
 - **input/** — YouTube links (`youtube_links.txt`) or raw transcripts
-- **transcripts/** — Fetched YouTube transcripts (with timestamps)
+- **transcripts/** — Raw fetched YouTube transcripts (with timestamps); not modified by name corrections
+- **transcripts_corrected/** — Generated copy with `NameCorrection` replacements (input to episode analysis)
 - **drafts/** — Episode inscriptions + cross-episode analysis (for review)
 - **output/** — Approved inscriptions (after review)
 - **protocol_updates/** — Change log with reasons

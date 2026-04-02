@@ -1,0 +1,18 @@
+[project]
+name = "agent-lab"
+version = "0.1.0"
+description = "Personal agent infrastructure — Shiftshapr, protocols, knowledge"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.12.0",
+    "python-dotenv>=1.0.0",
+    "flask>=3.0.0",
+    "flask-httpauth>=4.8.0",
+    "langchain-core>=0.3.0",
+    "langchain-openai>=0.2.0",
+    "jsonschema>=4.0.0",
+    "neo4j>=6.1.0",
+    "playwright>=1.40.0",
+    "pypdf>=5.0.0",
+]
+

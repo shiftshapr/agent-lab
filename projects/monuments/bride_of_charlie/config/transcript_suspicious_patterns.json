@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "description": "Heuristics for Draft Editor transcript review (not CI). Expand as needed.",
+  "patterns": [
+    {
+      "id": "lorie_france",
+      "regex": "\\bLorie France\\b",
+      "flags": ["IGNORECASE"],
+      "hint": "STT often means Lori Frantzve",
+      "suggestion": "Lori Frantzve"
+    },
+    {
+      "id": "kenton_lorie",
+      "regex": "Kenton Lorie",
+      "flags": ["IGNORECASE"],
+      "hint": "STT for Kent and Lori Frantzve",
+      "suggestion": "Kent and Lori Frantzve"
+    },
+    {
+      "id": "kent_wasnt",
+      "regex": "\\bKent wasn\\b",
+      "flags": ["IGNORECASE"],
+      "hint": "STT mangled Frantzve",
+      "suggestion": "Kent Frantzve"
+    },
+    {
+      "id": "france_gwinta",
+      "regex": "France,\\s*Gwinta",
+      "flags": ["IGNORECASE"],
+      "hint": "Name chain: Frantzve + Guinta",
+      "suggestion": "Frantzve, Guinta"
+    },
+    {
+      "id": "gwinta",
+      "regex": "\\bGwinta\\b",
+      "flags": ["IGNORECASE"],
+      "hint": "Prefer Guinta for Larry’s surname spelling",
+      "suggestion": "Guinta"
+    },
+    {
+      "id": "france_baststein",
+      "regex": "\\bFrance Baststein\\b",
+      "flags": ["IGNORECASE"],
+      "hint": "If it’s the ep5 joke, use Frantzvestein; else verify audio",
+      "suggestion": "Frantzvestein"
+    },
+    {
+      "id": "erika_france",
+      "regex": "\\bErika France\\b",
+      "flags": ["IGNORECASE"],
+      "hint": "Narration often should be Frantzve (not quoted tweet text)",
+      "suggestion": "Erika Frantzve"
+    },
+    {
+      "id": "jerry_france",
+      "regex": "\\bDr\\.?\\s*Jerry France\\b|\\bJerry France\\b",
+      "flags": ["IGNORECASE"],
+      "hint": "House style: Frantzve for stepmother line",
+      "suggestion": "Dr. Jerry Frantzve / Jerry Frantzve"
+    },
+    {
+      "id": "bronze_face",
+      "regex": "Bronzeface",
+      "flags": ["IGNORECASE"],
+      "hint": "STT for Frantzve",
+      "suggestion": "Frantzve"
+    },
+    {
+      "id": "erica_not_erika",
+      "regex": "\\bErica\\b",
+      "flags": [],
+      "hint": "House style is Erika",
+      "suggestion": "Erika"
+    },
+    {
+      "id": "candice",
+      "regex": "\\bCandice\\b",
+      "flags": [],
+      "hint": "Host spelling is Candace",
+      "suggestion": "Candace"
+    },
+    {
+      "id": "cocopah_stt",
+      "regex": "Thanks alumni Erika France for|Thanks alumni Erica France for|AOPA pride",
+      "flags": ["IGNORECASE"],
+      "hint": "Tweet uses @ErikaFrantzve and #CocopahPRIDE",
+      "suggestion": "@ErikaFrantzve … #CocopahPRIDE"
+    }
+  ]
+}

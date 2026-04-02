@@ -9,8 +9,11 @@
 # Options: pass through to run_full_workflow.py
 #   --no-backup
 #   --skip-search
-#   --skip-fetch
+#   --skip-fetch   (never fetch, even if episode transcripts missing)
 #   --stop-after N
+# Env: BRIDE_STOP_AFTER_GREEN_VALIDATE=1
+#      BRIDE_EXPECTED_EPISODES — optional; if unset, expected count = non-comment lines in
+#      input/youtube_links.txt (add a URL there → next run fetches missing transcripts)
 
 set -e
 # cd to agent-lab (4 levels up from scripts/)

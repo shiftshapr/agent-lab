@@ -9,6 +9,7 @@ Environment:
     NEO4J_URI (default: bolt://127.0.0.1:17687 — agent-lab docker-compose host port)
     NEO4J_USER (default: neo4j)
     NEO4J_PASSWORD (default: openclaw)
+    NEO4J_INGEST_STRICT_CLAIMS (default: 1) — skip placeholder / unanchored / nodeless claims
 """
 
 from __future__ import annotations
@@ -69,9 +70,30 @@ ANCHORED_ARTIFACTS_PATTERN = re.compile(r"Anchored Artifacts:\s*(.+)$", re.MULTI
 RELATED_NODES_PATTERN = re.compile(r"Related Nodes:\s*(.+)$", re.MULTILINE)
 INVESTIGATIVE_DIRECTION_PATTERN = re.compile(r"Investigative Direction:\s*(.+)$", re.MULTILINE)
 
+# Same Person node, other names (maiden/married/caption). Italic line after **N-* ** title.
+ALSO_KNOWN_AS_PATTERN = re.compile(
+    r"^\*Also known as:\s*(.+?)\*\s*$",
+    re.MULTILINE | re.IGNORECASE,
+)
+
 # ---------------------------------------------------------------------------
 # Parser
 # ---------------------------------------------------------------------------
+
+
+def parse_declared_aliases(section: str) -> list[str]:
+    """Split *Also known as: …* into trimmed name strings (semicolon-separated)."""
+    m = ALSO_KNOWN_AS_PATTERN.search(section)
+    if not m:
+        return []
+    raw = m.group(1).strip()
+    parts = [p.strip() for p in raw.split(";")]
+    return [p for p in parts if p]
+
+
+def is_also_known_as_line(line: str) -> bool:
+    s = line.strip()
+    return bool(ALSO_KNOWN_AS_PATTERN.match(s))
 
 def extract_episode_num(text: str, filename: str) -> int:
     """Extract episode number from filename or content."""
@@ -85,6 +107,22 @@ def extract_episode_num(text: str, filename: str) -> int:
 
 
 _ID_TOKEN = re.compile(r"^(A-\d+(?:\.\d+)?|C-\d+|N-\d+)$")
+
+# Skip LLM placeholder / slot claims (never ingest as real Claim nodes)
+PLACEHOLDER_LABEL_PATTERNS = (
+    re.compile(r"\[reserved", re.I),
+    re.compile(r"\[not used", re.I),
+    re.compile(r"\bfuture claims\b", re.I),
+    re.compile(r"^\s*tbd\b", re.I),
+    re.compile(r"\bplaceholder\b", re.I),
+)
+
+
+def is_placeholder_claim_label(label: str | None) -> bool:
+    if not label or not str(label).strip():
+        return True
+    s = str(label).strip()
+    return any(p.search(s) for p in PLACEHOLDER_LABEL_PATTERNS)
 
 
 def parse_id_list(text: str) -> list[str]:
@@ -289,16 +327,21 @@ def extract_nodes(text: str, episode_num: int) -> list[dict[str, Any]]:
                 end_pos = m.start()
         
         section = text[start_pos:end_pos]
-        
+
+        declared_aliases = parse_declared_aliases(section)
+
         # Extract description (first non-empty line after node header)
         lines = section.split("\n")
         description = None
         for line in lines:
             line = line.strip()
-            if line and not line.startswith("Evidence Count:") and not line.startswith("*Related:"):
-                description = line
-                break
-        
+            if not line or line.startswith("Evidence Count:") or line.startswith("*Related:"):
+                continue
+            if is_also_known_as_line(line):
+                continue
+            description = line
+            break
+
         # Extract related IDs
         related_ids = []
         rel_match = RELATED_PATTERN.search(section)
@@ -324,6 +367,7 @@ def extract_nodes(text: str, episode_num: int) -> list[dict[str, Any]]:
             "related_ids": related_ids,
             "confidence": confidence,
             "uncertainty_note": uncertainty_note,
+            "declared_aliases": declared_aliases,
         })
     
     return nodes
@@ -518,7 +562,11 @@ def ingest_episode(driver, episode_data: dict[str, Any], force: bool = False, fu
                     # Add original name as alias if different
                     if normalize_name(node_name) != normalize_name(similar["canonical_name"]):
                         add_alias_to_node(session, actual_node_id, node_type, node_name)
-                    
+                    for alias in node.get("declared_aliases") or []:
+                        a = (alias or "").strip()
+                        if a and normalize_name(a) != normalize_name(similar["canonical_name"]):
+                            add_alias_to_node(session, actual_node_id, node_type, a)
+
                     # Don't create new node - use existing
                     # Still create APPEARS_IN relationship
                     session.run(
@@ -530,14 +578,27 @@ def ingest_episode(driver, episode_data: dict[str, Any], force: bool = False, fu
                     )
                     continue
             
-            # No similar node found - create new with canonical_name and empty aliases
+            # No similar node found - create new with canonical_name and declared aliases
             props = {
                 k: v
                 for k, v in node.items()
-                if k not in ("related_ids", "node_type", "episode_num") and v is not None
+                if k
+                not in (
+                    "related_ids",
+                    "node_type",
+                    "episode_num",
+                    "declared_aliases",
+                    "name",
+                )
+                and v is not None
             }
             props["canonical_name"] = node_name
-            props["aliases"] = []
+            props["aliases"] = [
+                a.strip()
+                for a in (node.get("declared_aliases") or [])
+                if (a or "").strip()
+                and normalize_name(a.strip()) != normalize_name(node_name)
+            ]
             
             session.run(
                 f"MERGE (n:{node_type} {{id: $id}}) "
@@ -550,13 +611,54 @@ def ingest_episode(driver, episode_data: dict[str, Any], force: bool = False, fu
                 episode_num=episode_num_node,
             )
         
+        strict_claims = os.getenv("NEO4J_INGEST_STRICT_CLAIMS", "1").lower() in (
+            "1",
+            "true",
+            "yes",
+        )
+        artifact_id_set = {
+            r["id"] for r in session.run("MATCH (a:Artifact) RETURN a.id AS id")
+        }
+        person_node_id_set = {
+            r["id"]
+            for r in session.run(
+                "MATCH (n) WHERE n:Person OR n:InvestigationTarget RETURN n.id AS id"
+            )
+        }
+
         # Ingest claims
         for claim in episode_data["claims"]:
-            anchored_artifacts = claim.get("anchored_artifacts", [])
-            related_nodes = claim.get("related_nodes", [])
+            label = claim.get("label")
+            anchored_raw = list(claim.get("anchored_artifacts") or [])
+            related_raw = list(claim.get("related_nodes") or [])
+            resolved_artifacts = [a for a in anchored_raw if a in artifact_id_set]
+            resolved_nodes = [n for n in related_raw if n in person_node_id_set]
+
+            if strict_claims:
+                if is_placeholder_claim_label(label):
+                    merge_log.append(
+                        f"  SKIP placeholder claim {claim['id']}: {(label or '')[:70]!r}"
+                    )
+                    continue
+                if not resolved_artifacts:
+                    merge_log.append(
+                        f"  SKIP unanchored claim {claim['id']} (no Artifact in DB for {anchored_raw!r})"
+                    )
+                    continue
+                if not resolved_nodes:
+                    merge_log.append(
+                        f"  SKIP claim {claim['id']} (no Person/InvestigationTarget in DB for {related_raw!r})"
+                    )
+                    continue
+                use_artifacts = resolved_artifacts
+                use_nodes = resolved_nodes
+            else:
+                use_artifacts = anchored_raw
+                use_nodes = related_raw
+
             contradicts = claim.get("contradicts_claims") or []
             supports = claim.get("supports_claims") or []
-            
+
             # Strip relationship keys and list fields not stored as Neo4j props
             props = {
                 k: v
@@ -570,7 +672,9 @@ def ingest_episode(driver, episode_data: dict[str, Any], force: bool = False, fu
                 )
                 and v is not None
             }
-            
+            props["anchored_artifact_ids"] = ",".join(resolved_artifacts)
+            props["related_node_ids"] = ",".join(resolved_nodes)
+
             session.run(
                 "MERGE (c:Claim {id: $id}) "
                 "SET c += $props "
@@ -581,9 +685,9 @@ def ingest_episode(driver, episode_data: dict[str, Any], force: bool = False, fu
                 props=props,
                 episode_num=claim["episode_num"],
             )
-            
+
             # Create ANCHORS relationships
-            for artifact_id in anchored_artifacts:
+            for artifact_id in use_artifacts:
                 session.run(
                     "MATCH (a:Artifact {id: $artifact_id}) "
                     "MATCH (c:Claim {id: $claim_id}) "
@@ -591,9 +695,9 @@ def ingest_episode(driver, episode_data: dict[str, Any], force: bool = False, fu
                     artifact_id=artifact_id,
                     claim_id=claim["id"],
                 )
-            
+
             # Create INVOLVES relationships from claims to nodes
-            for node_id in related_nodes:
+            for node_id in use_nodes:
                 session.run(
                     "MATCH (c:Claim {id: $claim_id}) "
                     "MATCH (n) WHERE n.id = $node_id AND (n:Person OR n:InvestigationTarget) "

@@ -14,8 +14,8 @@ A claim may be inscribed only if the episode presents at least one artifact supp
 ### No Rhetorical Drift
 Do not inscribe scene-setting rhetoric, political venting, insults, worldview statements, or speculative expansion as claims.
 
-### Preserve Exact Names
-Do not normalize spelling unless certain. If uncertain, preserve the name exactly as it appears and flag uncertainty.
+### Preserve Exact Names (transcripts vs node names)
+In **transcript snippets** and **quotes**, preserve wording as spoken/captioned unless an **editorial pass** applies. For **node `name` fields** and **investigative labels**, use the project’s **canonical spelling** for known proper names (schools, programs, agencies) and record STT variants in **`also_known_as`** or notes. If uncertain, preserve the transcript form and flag uncertainty.
 
 ### Preserve Chronology
 Capture timestamps when available.
@@ -154,11 +154,11 @@ A-1000.1 Separation Agreement (1995)
 A-1000.2 Separation Agreement (1996)
 
 A-1001 Instagram Story Bundle
-A-1001.1 Erica at Universal Studios
+A-1001.1 Erika at Universal Studios
 A-1001.2 Uncle Rick appears
 
 A-1002 Obituary Bundle
-A-1002.1 Obituary: Angelina Lombardo Abbis (1970)
+A-1002.1 Obituary: Angelina Lombardo-Abbis (1970)
 
 ## Single-artifact rule
 If an artifact stands alone, it still gets its own top-level family with one sub-item.
@@ -211,7 +211,7 @@ People start at N-1 and are numbered in order of appearance in the series ledger
 
 Example:
 - N-1 Charlie Kirk
-- N-2 Erica Kirk
+- N-2 Erika Kirk
 - N-3 Candace Owens
 
 ### Investigation targets
@@ -221,6 +221,8 @@ Examples:
 - N-1000 Date of Birth Discrepancy
 - N-1001 Educational Timeline Gap
 - N-1002 Lombardi Genealogical Verification Question
+- N-10xx **MK Ultra** (historical program — when discussed as a target of investigation)
+- N-10xx **CIA Project Looking Glass** (when discussed as a distinct program — separate from a school that shares wording in the transcript)
 
 ## What should become a node
 Create a node when the thing is:
@@ -230,6 +232,11 @@ Create a node when the thing is:
 - a relationship requiring verification
 - an institution or entity repeatedly involved
 - a persistent unresolved target
+- **a named government program, agency initiative, or institutional program** (e.g. **MK Ultra**, a **CIA** program such as **Project Looking Glass**, a legislative or military program) when the episode discusses it **substantively** — **even a single mention in the series**. Recurrence across episodes is **not** required. Use **`InvestigationTarget`** (or **`institution`** when the schema calls for it) with a clear **`name`** and link claims/artifacts to that node.
+
+## Programs vs memes
+- **Nodes** hold **named, investigable entities** (people, institutions, **programs**, discrepancies).
+- **Memes** (M-*) capture **cross-cutting rhetorical / euphemism / code patterns** (how language is used). **Do not** use a meme row as a substitute for a **program or institution node** when the episode names a real program or body. You may have **both**: e.g. a node for **CIA Project Looking Glass** and a meme analyzing how the host links “Looking Glass School” to that name.
 
 ## What should not become a node
 Do not create nodes for:
@@ -242,7 +249,7 @@ Do not create nodes for:
 ## Node format
 Use this exact structure:
 
-**N-2** Erica Kirk
+**N-2** Erika Kirk
 
 Short descriptive line explaining why this node matters.
 
@@ -254,13 +261,15 @@ Investigative Pressure: Low / Medium / High (optional during single-episode anal
 *Related: A-1000.1, A-1004.2, C-1000, C-1003*
 
 ## Node naming rule
-Node names must be stable and investigable.
+Node names must be stable and investigable. Use **canonical English spellings** for established proper names (schools, programs, places) when known — e.g. **Tesseract** for the school brand if that is the project’s house spelling — and use **`also_known_as`** in structured extraction for transcript variants (**Tesaract**, caption misspellings).
 
 Good:
 - Lombardi Genealogical Verification Question
+- Tesseract School Investigation (with also_known_as: Tesaract, etc., if STT varies)
 
 Bad:
 - Lombardi Lie
+- **Tesaract School Investigation** as the **sole** display name when the canonical institution name is **Tesseract** (fix the `name`; keep STT forms as aliases)
 
 ---
 
@@ -505,7 +514,7 @@ Confidence Level: High
 *Related: C-1009, N-2, N-1000*
 
 ## Node Register
-**N-2** Erica Kirk
+**N-2** Erika Kirk
 
 Primary biographical subject of the episode's evidentiary claims.
 
@@ -532,7 +541,7 @@ Investigative Pressure: Medium
 
 Claim Timestamp: 00:42:18
 
-Claim: The episode presents that Erica's DOB appears as November 22, 1988 across multiple filings.
+Claim: The episode presents that Erika's DOB appears as November 22, 1988 across multiple filings.
 
 Anchored Artifacts: A-1004.1, A-1004.2
 

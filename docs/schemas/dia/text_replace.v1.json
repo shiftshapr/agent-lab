@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "dia.text_replace.v1.json",
+  "title": "DIA data-sat text replacement directive",
+  "description": "Text-only edit against the revealed body of a target inscription. Not for structural JSON changes; use reinscription on the entry sat instead.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema",
+    "monument_id",
+    "inscription_id",
+    "target",
+    "replacement",
+    "occurrence_index"
+  ],
+  "properties": {
+    "schema": {
+      "type": "string",
+      "const": "dia.text_replace.v1"
+    },
+    "monument_id": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 128,
+      "pattern": "^[a-z0-9][a-z0-9_-]*$",
+      "description": "Monument scope for routing and audit (must match resolver policy)."
+    },
+    "inscription_id": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 128,
+      "description": "Ordinal inscription id of the target inscription whose content is patched."
+    },
+    "target": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 65536,
+      "description": "Substring to find in the target inscription body (UTF-8)."
+    },
+    "replacement": {
+      "type": "string",
+      "maxLength": 65536,
+      "description": "Replacement string (UTF-8); may be empty to delete occurrences."
+    },
+    "occurrence_index": {
+      "type": "integer",
+      "description": "0-based occurrence index, or -1 for all non-overlapping left-to-right matches.",
+      "minimum": -1
+    }
+  }
+}

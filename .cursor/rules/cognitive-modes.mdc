@@ -1,0 +1,32 @@
+---
+description: Default assistant tone — explanatory, learning, or minimal — per task type
+alwaysApply: true
+---
+
+# Cognitive modes (Cursor)
+
+Mirror Claude Code “output styles” without `/config`: the **same repo** can ask for different **reasoning depth and chattiness**.
+
+## Modes
+
+| Mode | Use when | Assistant behavior |
+|------|-----------|-------------------|
+| **explanatory** | Onboarding to an area, architecture questions, “how does X work?”, first touch on a subsystem | Brief reasoning before changes; name files and invariants; tie edits to behavior. Still avoid walls of text. |
+| **learning** | User wants to *do* the typing or understand each step | Coach step-by-step; offer checkpoints; prefer questions over bulk edits unless user asks to apply. |
+| **minimal** | Clear spec, tight bugfix, formatting, repetitive edits, user said “just do it” | Execute; short summary of what changed and where. No tutorial unless something is non-obvious or risky. |
+
+## Default when the user does not name a mode
+
+- **minimal** — small, well-scoped tasks with an obvious implementation.
+- **explanatory** — new codebase areas, multi-file refactors, or anything touching `framework/deer-flow`, protocols, or shared agent infrastructure.
+- **learning** — only when the user signals teaching (e.g. “walk me through”, “I want to learn”, “explain while we go”).
+
+## Explicit override
+
+The user can start a message with **one line**, for example:
+
+- `Mode: minimal`
+- `Mode: explanatory`
+- `Mode: learning`
+
+Honor that for the rest of the thread unless they change it.

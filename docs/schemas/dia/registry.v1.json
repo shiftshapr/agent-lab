@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "dia.registry.v1.json",
+  "title": "DIA data-sat registry inscription",
+  "description": "Maps monument_id to current entry sat. Inscribe on the keeper's data sat; newer confirmed inscription supersedes prior registry for pointers.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema", "monuments"],
+  "properties": {
+    "schema": {
+      "type": "string",
+      "const": "dia.registry.v1"
+    },
+    "monuments": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/monumentPointer" }
+    },
+    "updated_at": {
+      "type": "string",
+      "maxLength": 256,
+      "description": "Optional opaque tag: ISO-8601, block height, txid, or human note."
+    }
+  },
+  "$defs": {
+    "monumentPointer": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["monument_id", "current_sat"],
+      "properties": {
+        "monument_id": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 128,
+          "pattern": "^[a-z0-9][a-z0-9_-]*$",
+          "description": "Stable slug (lowercase), e.g. bride_of_charlie."
+        },
+        "current_sat": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 128,
+          "description": "Current entry sat in the keeper's canonical encoding (e.g. decimal sat number; must match indexer and resolver)."
+        }
+      }
+    }
+  }
+}

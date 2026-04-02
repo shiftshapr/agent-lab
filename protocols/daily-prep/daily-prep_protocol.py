@@ -8,6 +8,7 @@ Output: logs/daily_prep_YYYYMMDD.md
 
 from __future__ import annotations
 
+import os
 import subprocess
 import sys
 from datetime import datetime
@@ -25,17 +26,33 @@ def run_daily_prep_protocol() -> None:
 
     prompt = f"""Prepare my daily brief for {date_str}.
 
-1. **Calendar**: List today's meetings and events. For each meeting, provide a 1–2 sentence briefing.
-2. **Emails**: Summarize unread or important emails that need my attention today. Flag any that need a response.
+**IMPORTANT**: You have Zoho View MCP tools (zoho-view_*) for calendar and email. Call these tools first to fetch real data. Do not say you lack access until you have attempted to use them.
+
+1. **Calendar**: Use Zoho View MCP to list today's meetings and events. For each meeting, provide a 1–2 sentence briefing.
+2. **Emails**: Use Zoho View MCP to search unread/important emails. Summarize what needs my attention today. Flag any that need a response.
 3. **To-dos**: If you have access to a task queue, list priority items.
 
-Be concise. Output in markdown."""
+Be concise. Output in markdown. Only if the Zoho tools fail or return errors, say so and offer to format manually provided details."""
 
-    result = subprocess.run(
-        [sys.executable, str(SCRIPTS_DIR / "run-deerflow-task.py"), prompt, "--output", str(output_path)],
-        cwd=str(AGENT_LAB_ROOT),
-        capture_output=False,
-    )
+    timeout = int(os.environ.get("DAILY_PREP_TIMEOUT", "420"))  # 7 min for cold start + MCP
+    try:
+        result = subprocess.run(
+            [
+                sys.executable,
+                str(SCRIPTS_DIR / "run-deerflow-task.py"),
+                prompt,
+                "--output",
+                str(output_path),
+                "--timeout",
+                str(timeout),
+            ],
+            cwd=str(AGENT_LAB_ROOT),
+            capture_output=False,
+            timeout=timeout + 30,
+        )
+    except subprocess.TimeoutExpired:
+        print(f"[daily-prep] Timed out after {timeout}s", file=sys.stderr)
+        sys.exit(1)
     if result.returncode != 0:
         sys.exit(result.returncode)
     print(f"[daily-prep] Brief saved to {output_path}")
