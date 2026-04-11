@@ -1,0 +1,666 @@
+{
+  "episodes": {
+    "1": {
+      "status": "promoted",
+      "approved_at": "2026-04-05T01:07:00Z",
+      "reviewed_by": "human",
+      "items": {},
+      "summary": {
+        "artifacts_reviewed": 16,
+        "artifacts_approved": 16,
+        "artifacts_rejected": 0,
+        "claims_reviewed": 17,
+        "claims_approved": 17,
+        "claims_rejected": 0,
+        "flags": 0
+      },
+      "promoted_at": "2026-04-05T01:14:06.878508Z"
+    },
+    "2": {
+      "status": "promoted",
+      "approved_at": "2026-04-05T01:39:01.145618Z",
+      "reviewed_by": "human",
+      "items": {
+        "A-1007.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.145752Z"
+        },
+        "A-1008.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.145756Z"
+        },
+        "A-1008.2": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.145758Z"
+        },
+        "A-1008.3": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.145760Z"
+        },
+        "A-1009.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.145761Z"
+        },
+        "A-1010.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.145763Z"
+        },
+        "C-1017": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.145765Z"
+        },
+        "C-1018": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.145766Z"
+        },
+        "C-1019": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.145767Z"
+        },
+        "C-1020": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.145769Z"
+        },
+        "C-1021": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.145770Z"
+        },
+        "C-1022": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.145771Z"
+        },
+        "C-1023": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.145772Z"
+        }
+      },
+      "summary": {
+        "artifacts_reviewed": 6,
+        "artifacts_approved": 0,
+        "artifacts_rejected": 0,
+        "claims_reviewed": 7,
+        "claims_approved": 0,
+        "claims_rejected": 0,
+        "flags": 0
+      },
+      "promoted_at": "2026-04-05T01:39:27.681422Z"
+    },
+    "3": {
+      "status": "promoted",
+      "approved_at": "2026-04-05T01:39:01.179651Z",
+      "reviewed_by": "human",
+      "items": {
+        "A-1011.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179754Z"
+        },
+        "A-1011.2": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179757Z"
+        },
+        "A-1012.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179758Z"
+        },
+        "A-1013.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179759Z"
+        },
+        "A-1013.2": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179760Z"
+        },
+        "A-1013.3": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179761Z"
+        },
+        "C-1024": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179762Z"
+        },
+        "C-1025": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179763Z"
+        },
+        "C-1026": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179764Z"
+        },
+        "C-1027": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179765Z"
+        },
+        "C-1028": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179766Z"
+        },
+        "C-1029": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179767Z"
+        },
+        "C-1030": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179767Z"
+        },
+        "C-1031": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179768Z"
+        },
+        "C-1032": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179769Z"
+        },
+        "C-1033": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.179770Z"
+        }
+      },
+      "summary": {
+        "artifacts_reviewed": 6,
+        "artifacts_approved": 0,
+        "artifacts_rejected": 0,
+        "claims_reviewed": 10,
+        "claims_approved": 0,
+        "claims_rejected": 0,
+        "flags": 0
+      },
+      "promoted_at": "2026-04-05T01:39:27.714079Z"
+    },
+    "4": {
+      "status": "promoted",
+      "approved_at": "2026-04-05T01:39:01.208099Z",
+      "reviewed_by": "human",
+      "items": {
+        "A-1014.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208204Z"
+        },
+        "A-1014.2": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208206Z"
+        },
+        "A-1014.3": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208208Z"
+        },
+        "A-1014.4": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208209Z"
+        },
+        "A-1014.5": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208210Z"
+        },
+        "A-1014.6": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208210Z"
+        },
+        "A-1015.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208212Z"
+        },
+        "A-1016.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208212Z"
+        },
+        "A-1017.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208213Z"
+        },
+        "A-1018.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208214Z"
+        },
+        "A-1019.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208215Z"
+        },
+        "A-1019.2": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208216Z"
+        },
+        "C-1034": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208217Z"
+        },
+        "C-1035": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208218Z"
+        },
+        "C-1036": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208219Z"
+        },
+        "C-1037": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208219Z"
+        },
+        "C-1038": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.208220Z"
+        }
+      },
+      "summary": {
+        "artifacts_reviewed": 12,
+        "artifacts_approved": 0,
+        "artifacts_rejected": 0,
+        "claims_reviewed": 5,
+        "claims_approved": 0,
+        "claims_rejected": 0,
+        "flags": 0
+      },
+      "promoted_at": "2026-04-05T01:39:27.742562Z"
+    },
+    "5": {
+      "status": "promoted",
+      "approved_at": "2026-04-05T01:39:01.236718Z",
+      "reviewed_by": "human",
+      "items": {
+        "A-1020.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236819Z"
+        },
+        "A-1020.2": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236821Z"
+        },
+        "A-1021.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236823Z"
+        },
+        "A-1022.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236824Z"
+        },
+        "A-1022.2": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236825Z"
+        },
+        "A-1023.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236826Z"
+        },
+        "A-1024.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236827Z"
+        },
+        "A-1024.2": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236828Z"
+        },
+        "A-1025.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236829Z"
+        },
+        "A-1026.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236832Z"
+        },
+        "A-1027.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236833Z"
+        },
+        "A-1028.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236834Z"
+        },
+        "A-1028.2": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236834Z"
+        },
+        "C-1039": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236836Z"
+        },
+        "C-1040": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236837Z"
+        },
+        "C-1041": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236837Z"
+        },
+        "C-1042": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236838Z"
+        },
+        "C-1043": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236839Z"
+        },
+        "C-1044": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236840Z"
+        },
+        "C-1045": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236841Z"
+        },
+        "C-1046": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236841Z"
+        },
+        "C-1047": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236842Z"
+        },
+        "C-1048": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236843Z"
+        },
+        "C-1049": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236844Z"
+        },
+        "C-1050": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236845Z"
+        },
+        "C-1051": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236845Z"
+        },
+        "C-1052": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236846Z"
+        },
+        "C-1053": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236847Z"
+        },
+        "C-1054": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236848Z"
+        },
+        "C-1055": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236848Z"
+        },
+        "C-1056": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236849Z"
+        },
+        "C-1057": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236850Z"
+        },
+        "C-1058": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236851Z"
+        },
+        "C-1059": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.236851Z"
+        }
+      },
+      "summary": {
+        "artifacts_reviewed": 13,
+        "artifacts_approved": 0,
+        "artifacts_rejected": 0,
+        "claims_reviewed": 21,
+        "claims_approved": 0,
+        "claims_rejected": 0,
+        "flags": 0
+      },
+      "promoted_at": "2026-04-05T01:39:27.771455Z"
+    },
+    "6": {
+      "status": "promoted",
+      "approved_at": "2026-04-05T01:39:01.266009Z",
+      "reviewed_by": "human",
+      "items": {
+        "A-1029.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266110Z"
+        },
+        "A-1030.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266113Z"
+        },
+        "A-1031.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266115Z"
+        },
+        "A-1032.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266116Z"
+        },
+        "A-1033.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266117Z"
+        },
+        "A-1034.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266118Z"
+        },
+        "A-1035.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266119Z"
+        },
+        "A-1036.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266119Z"
+        },
+        "A-1037.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266120Z"
+        },
+        "A-1038.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266121Z"
+        },
+        "A-1039.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266122Z"
+        },
+        "A-1040.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266123Z"
+        },
+        "C-1060": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266124Z"
+        },
+        "C-1061": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266125Z"
+        },
+        "C-1062": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266126Z"
+        },
+        "C-1063": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266126Z"
+        },
+        "C-1064": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266127Z"
+        },
+        "C-1065": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266128Z"
+        },
+        "C-1066": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266129Z"
+        },
+        "C-1067": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266129Z"
+        },
+        "C-1068": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266130Z"
+        },
+        "C-1069": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266131Z"
+        },
+        "C-1070": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266132Z"
+        },
+        "C-1071": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266133Z"
+        },
+        "C-1072": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266133Z"
+        },
+        "C-1073": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266134Z"
+        },
+        "C-1074": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266135Z"
+        },
+        "C-1075": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266136Z"
+        },
+        "C-1076": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266137Z"
+        },
+        "C-1077": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.266137Z"
+        }
+      },
+      "summary": {
+        "artifacts_reviewed": 12,
+        "artifacts_approved": 0,
+        "artifacts_rejected": 0,
+        "claims_reviewed": 18,
+        "claims_approved": 0,
+        "claims_rejected": 0,
+        "flags": 0
+      },
+      "promoted_at": "2026-04-05T01:39:27.800530Z"
+    },
+    "7": {
+      "status": "promoted",
+      "approved_at": "2026-04-05T01:39:01.295440Z",
+      "reviewed_by": "human",
+      "items": {
+        "A-1041.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295546Z"
+        },
+        "A-1041.2": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295549Z"
+        },
+        "A-1041.3": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295550Z"
+        },
+        "A-1041.4": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295551Z"
+        },
+        "A-1042.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295552Z"
+        },
+        "A-1042.2": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295553Z"
+        },
+        "A-1043.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295554Z"
+        },
+        "A-1043.2": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295555Z"
+        },
+        "A-1044.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295556Z"
+        },
+        "A-1044.2": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295557Z"
+        },
+        "A-1044.3": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295558Z"
+        },
+        "A-1045.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295559Z"
+        },
+        "A-1045.2": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295560Z"
+        },
+        "A-1045.3": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295560Z"
+        },
+        "A-1046.1": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295561Z"
+        },
+        "C-1078": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295562Z"
+        },
+        "C-1079": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295563Z"
+        },
+        "C-1080": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295564Z"
+        },
+        "C-1081": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295565Z"
+        },
+        "C-1082": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295566Z"
+        },
+        "C-1083": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295566Z"
+        },
+        "C-1084": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295567Z"
+        },
+        "C-1085": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295568Z"
+        },
+        "C-1086": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295569Z"
+        },
+        "C-1087": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295570Z"
+        },
+        "C-1088": {
+          "status": "approved",
+          "reviewed_at": "2026-04-05T01:39:01.295570Z"
+        }
+      },
+      "summary": {
+        "artifacts_reviewed": 15,
+        "artifacts_approved": 0,
+        "artifacts_rejected": 0,
+        "claims_reviewed": 11,
+        "claims_approved": 0,
+        "claims_rejected": 0,
+        "flags": 0
+      },
+      "promoted_at": "2026-04-05T01:39:27.828935Z"
+    }
+  }
+}

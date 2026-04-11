@@ -1,0 +1,318 @@
+{
+  "version": 1,
+  "updated": "2026-04-09T04:31:52.870478+00:00",
+  "next_person_id": 33,
+  "next_investigation_id": 1030,
+  "nodes": {
+    "N-1": {
+      "canonical_name": "Charlie Kirk",
+      "type": "person",
+      "aliases": []
+    },
+    "N-2": {
+      "canonical_name": "Erika Kirk",
+      "type": "person",
+      "aliases": []
+    },
+    "N-3": {
+      "canonical_name": "Lori Frantzve",
+      "type": "person",
+      "aliases": []
+    },
+    "N-4": {
+      "canonical_name": "Kent Frantzve",
+      "type": "person",
+      "aliases": []
+    },
+    "N-5": {
+      "canonical_name": "Loretta Lynn Abbis",
+      "type": "person",
+      "aliases": []
+    },
+    "N-6": {
+      "canonical_name": "Mason Abbis",
+      "type": "person",
+      "aliases": []
+    },
+    "N-7": {
+      "canonical_name": "Carl Kenneth Frantzve",
+      "type": "person",
+      "aliases": []
+    },
+    "N-8": {
+      "canonical_name": "Jack Solomon",
+      "type": "person",
+      "aliases": []
+    },
+    "N-9": {
+      "canonical_name": "Elizabeth Lane",
+      "type": "person",
+      "aliases": []
+    },
+    "N-10": {
+      "canonical_name": "Larry Ginta",
+      "type": "person",
+      "aliases": []
+    },
+    "N-11": {
+      "canonical_name": "Candace Owens",
+      "type": "person",
+      "aliases": []
+    },
+    "N-12": {
+      "canonical_name": "Dr. Jerry Frantzve",
+      "type": "person",
+      "aliases": []
+    },
+    "N-13": {
+      "canonical_name": "Tyler Bowyer",
+      "type": "person",
+      "aliases": []
+    },
+    "N-14": {
+      "canonical_name": "Phil Bliss",
+      "type": "person",
+      "aliases": []
+    },
+    "N-15": {
+      "canonical_name": "Dr. John Money",
+      "type": "person",
+      "aliases": []
+    },
+    "N-16": {
+      "canonical_name": "Richard Erpenbeck",
+      "type": "person",
+      "aliases": []
+    },
+    "N-17": {
+      "canonical_name": "Lori Abbis Stanley",
+      "type": "person",
+      "aliases": []
+    },
+    "N-18": {
+      "canonical_name": "Angelina Lombardo-Abbis",
+      "type": "person",
+      "aliases": []
+    },
+    "N-19": {
+      "canonical_name": "Vince Lombardi",
+      "type": "person",
+      "aliases": []
+    },
+    "N-20": {
+      "canonical_name": "Nancy Gerard Hall",
+      "type": "person",
+      "aliases": []
+    },
+    "N-21": {
+      "canonical_name": "Jeffrey Epstein",
+      "type": "person",
+      "aliases": []
+    },
+    "N-22": {
+      "canonical_name": "Colonel Otto Busher",
+      "type": "person",
+      "aliases": []
+    },
+    "N-23": {
+      "canonical_name": "Dennis Frantzve",
+      "type": "person",
+      "aliases": []
+    },
+    "N-24": {
+      "canonical_name": "Curtis Kolvet",
+      "type": "person",
+      "aliases": []
+    },
+    "N-25": {
+      "canonical_name": "Robert Kolvet",
+      "type": "person",
+      "aliases": []
+    },
+    "N-26": {
+      "canonical_name": "Andrew Kolvet",
+      "type": "person",
+      "aliases": []
+    },
+    "N-27": {
+      "canonical_name": "Justin Strife",
+      "type": "person",
+      "aliases": []
+    },
+    "N-28": {
+      "canonical_name": "Jonah",
+      "type": "person",
+      "aliases": []
+    },
+    "N-29": {
+      "canonical_name": "Jan Brewer",
+      "type": "person",
+      "aliases": []
+    },
+    "N-30": {
+      "canonical_name": "Josh Harelson",
+      "type": "person",
+      "aliases": []
+    },
+    "N-31": {
+      "canonical_name": "Arizona State University",
+      "type": "person",
+      "aliases": []
+    },
+    "N-32": {
+      "canonical_name": "JT Massie",
+      "type": "person",
+      "aliases": []
+    },
+    "N-1000": {
+      "canonical_name": "Date of Birth Discrepancy",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1001": {
+      "canonical_name": "Marriage Date Inconsistencies",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1002": {
+      "canonical_name": "Early Childhood Location Timeline",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1003": {
+      "canonical_name": "Family Gambling/Casino History",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1004": {
+      "canonical_name": "Swedish Citizenship Pursuit",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1005": {
+      "canonical_name": "Morfar vs Farfar Language Error",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1006": {
+      "canonical_name": "Zion's Gate Family Dedication Claim",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1007": {
+      "canonical_name": "Jerry Frantzve Background Verification",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1008": {
+      "canonical_name": "Missing Money from Turning Point USA",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1009": {
+      "canonical_name": "Tesaract School Investigation",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1010": {
+      "canonical_name": "Radford University Report Credibility",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1011": {
+      "canonical_name": "Erika Pageant Narrative",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1012": {
+      "canonical_name": "Erpenbeck fraud pattern — Lori LLCs & notaries",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1013": {
+      "canonical_name": "Erika Timeline Discrepancies",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1014": {
+      "canonical_name": "Lombardi Lineage Claim",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1015": {
+      "canonical_name": "Missing Years Timeline",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1016": {
+      "canonical_name": "Erpenbeck criminal connections — Erika & uncle Rick",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1017": {
+      "canonical_name": "Erika Kirk Missing Years 2000-2002",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1018": {
+      "canonical_name": "E3 Tech Military Contracts",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1019": {
+      "canonical_name": "Romanian Base Trafficking Connection",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1020": {
+      "canonical_name": "Romania Connection Pattern",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1021": {
+      "canonical_name": "Reno Nevada Military Connection",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1022": {
+      "canonical_name": "How Erika Met Tyler Bowyer",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1023": {
+      "canonical_name": "E3 Tech Purpose",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1024": {
+      "canonical_name": "Turning Point Shooting Adjacencies",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1025": {
+      "canonical_name": "Pre-Marriage Business Claims",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1026": {
+      "canonical_name": "Sole Provider Narrative",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1027": {
+      "canonical_name": "Life Insurance and Fundraising",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1028": {
+      "canonical_name": "Epstein-ASU-Bowyer Connection",
+      "type": "investigation_target",
+      "aliases": []
+    },
+    "N-1029": {
+      "canonical_name": "Education Credentials",
+      "type": "investigation_target",
+      "aliases": []
+    }
+  }
+}

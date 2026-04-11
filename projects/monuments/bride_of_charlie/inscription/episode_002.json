@@ -7,7 +7,7 @@
     "video_timestamp_range": "00:01:00–01:03:57",
     "extraction_timestamp": "2026-03-20T21:41:43Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "f593e1533086f02196b809ff5f2d58628413b1ba532ae2b8dc6d222fc387358b"
+    "transcript_sha256": "e785f7513f89b05a04bec14e1ca269bacb03a248a6f42e5da4837ae2ecfd9c7e"
   },
   "executive_summary": "Episode 2 provides background on Dr. Jerry Frantzve (Erika Kirk's stepmother/father's first wife), connecting her to MK Ultra, DuPont, and the Tesaract school where Erika attended. The episode claims missing money from Turning Point USA and introduces Tyler Bowyer as significant. Artifacts include historical documents, a 1981 article about Jerry Frantzve, and a clip of Erika lying about pageant involvement.",
   "artifacts": [
@@ -524,7 +524,7 @@
         "employment",
         "falsifiable"
       ],
-      "transcript_snippet": "She starts working for the DuPont family, becoming the director of employee relations for DuPant.",
+      "transcript_snippet": "She starts working for the DuPont family, becoming the director of employee relations for DuPont.",
       "confidence": "high"
     },
     {

@@ -1,0 +1,398 @@
+{
+  "source": "transcript_raw_vs_corrected_review",
+  "itemCount": 39,
+  "checkedCount": 1,
+  "editedButUncheckedCount": 38,
+  "items": [
+    {
+      "episode": "episode_001_ZAsV0fHGBiM",
+      "hunkKey": "episode_001_ZAsV0fHGBiM__r133-133__c133-133__replace__0bb617b8b35f",
+      "tier": "low",
+      "implement": true,
+      "editedFromReportOriginal": true,
+      "implementText": "[05:16] Erika Lane... Elizabeth Lane wrote, \"I'm",
+      "youtubeId": "ZAsV0fHGBiM",
+      "startSeconds": 316
+    },
+    {
+      "episode": "episode_001_ZAsV0fHGBiM",
+      "hunkKey": "episode_001_ZAsV0fHGBiM__r812-812__c812-812__delete__52bb8add7cfc",
+      "tier": "low",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "(empty)",
+      "youtubeId": "ZAsV0fHGBiM",
+      "startSeconds": 1832
+    },
+    {
+      "episode": "episode_001_ZAsV0fHGBiM",
+      "hunkKey": "episode_001_ZAsV0fHGBiM__r454-454__c454-454__replace__4d7b17b42975",
+      "tier": "medium",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[17:07] mother, Lori Frantzve.\" After",
+      "youtubeId": "ZAsV0fHGBiM",
+      "startSeconds": 1027
+    },
+    {
+      "episode": "episode_001_ZAsV0fHGBiM",
+      "hunkKey": "episode_001_ZAsV0fHGBiM__r707-707__c707-707__replace__9342c2ae4423",
+      "tier": "medium",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[27:04] separation agreement Kent Frantzve",
+      "youtubeId": "ZAsV0fHGBiM",
+      "startSeconds": 1624
+    },
+    {
+      "episode": "episode_001_ZAsV0fHGBiM",
+      "hunkKey": "episode_001_ZAsV0fHGBiM__r813-813__c812-812__replace__41efafcde356",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[30:35] Must sign up via get kickoff.com/candace",
+      "youtubeId": "ZAsV0fHGBiM",
+      "startSeconds": 1835
+    },
+    {
+      "episode": "episode_001_ZAsV0fHGBiM",
+      "hunkKey": "episode_001_ZAsV0fHGBiM__r1559-1559__c1558-1558__replace__03964f74cf30",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[58:19] people naming their schools looking glass? I'm",
+      "youtubeId": "ZAsV0fHGBiM",
+      "startSeconds": 3499
+    },
+    {
+      "episode": "episode_002_1IY2oD-_xVA",
+      "hunkKey": "episode_002_1IY2oD-_xVA__r1476-1476__c1476-1476__replace__ddd99530ad09",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[55:02] Bowyer is the guy. He's the guy that",
+      "youtubeId": "1IY2oD-_xVA",
+      "startSeconds": 3302
+    },
+    {
+      "episode": "episode_002_1IY2oD-_xVA",
+      "hunkKey": "episode_002_1IY2oD-_xVA__r942-942__c942-942__replace__b55dea254dd8",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[36:21] Jerry Frantzve opens the gender clinic",
+      "youtubeId": "1IY2oD-_xVA",
+      "startSeconds": 2181
+    },
+    {
+      "episode": "episode_002_1IY2oD-_xVA",
+      "hunkKey": "episode_002_1IY2oD-_xVA__r463-463__c463-463__replace__47ab319e665f",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[18:11] on for? Did Jerry Frantzve herself play a",
+      "youtubeId": "1IY2oD-_xVA",
+      "startSeconds": 1091
+    },
+    {
+      "episode": "episode_002_1IY2oD-_xVA",
+      "hunkKey": "episode_002_1IY2oD-_xVA__r593-593__c593-593__replace__f15163f071cc",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[23:26] University that Jerry Frantzve produces",
+      "youtubeId": "1IY2oD-_xVA",
+      "startSeconds": 1406
+    },
+    {
+      "episode": "episode_002_1IY2oD-_xVA",
+      "hunkKey": "episode_002_1IY2oD-_xVA__r635-635__c635-635__replace__705ada46c829",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[25:02] background of Jerry Frantzve is because",
+      "youtubeId": "1IY2oD-_xVA",
+      "startSeconds": 1502
+    },
+    {
+      "episode": "episode_002_1IY2oD-_xVA",
+      "hunkKey": "episode_002_1IY2oD-_xVA__r825-825__c825-825__replace__5d46464875dd",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[31:34] Jerry Frantzve is problematic.",
+      "youtubeId": "1IY2oD-_xVA",
+      "startSeconds": 1894
+    },
+    {
+      "episode": "episode_002_1IY2oD-_xVA",
+      "hunkKey": "episode_002_1IY2oD-_xVA__r320-320__c320-320__replace__e0bc55abeb2d",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[12:25] Look at Dr. Jerry Frantzve. I'm going to",
+      "youtubeId": "1IY2oD-_xVA",
+      "startSeconds": 745
+    },
+    {
+      "episode": "episode_002_1IY2oD-_xVA",
+      "hunkKey": "episode_002_1IY2oD-_xVA__r321-321__c321-321__replace__4dda52c38eb5",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[12:26] tell you about Dr. Jerry Frantzve. She",
+      "youtubeId": "1IY2oD-_xVA",
+      "startSeconds": 746
+    },
+    {
+      "episode": "episode_002_1IY2oD-_xVA",
+      "hunkKey": "episode_002_1IY2oD-_xVA__r804-804__c804-804__replace__2b0666c7172e",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[30:43] Dr. Jerry Frantzve, who conveniently is",
+      "youtubeId": "1IY2oD-_xVA",
+      "startSeconds": 1843
+    },
+    {
+      "episode": "episode_003_cZxHqYsWRYg",
+      "hunkKey": "episode_003_cZxHqYsWRYg__r316-316__c316-316__replace__ac5a2fb550a1",
+      "tier": "medium",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[13:10] She she said Bill Erpenbeck sometimes",
+      "youtubeId": "cZxHqYsWRYg",
+      "startSeconds": 790
+    },
+    {
+      "episode": "episode_003_cZxHqYsWRYg",
+      "hunkKey": "episode_003_cZxHqYsWRYg__r420-420__c420-420__replace__67be184e906c",
+      "tier": "medium",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[17:13] goes in 2024, Bill Erpenbeck does get",
+      "youtubeId": "cZxHqYsWRYg",
+      "startSeconds": 1033
+    },
+    {
+      "episode": "episode_003_cZxHqYsWRYg",
+      "hunkKey": "episode_003_cZxHqYsWRYg__r302-302__c302-302__replace__468ae175c779",
+      "tier": "medium",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[12:36] the green. Bill Erpenbeck lost",
+      "youtubeId": "cZxHqYsWRYg",
+      "startSeconds": 756
+    },
+    {
+      "episode": "episode_003_cZxHqYsWRYg",
+      "hunkKey": "episode_003_cZxHqYsWRYg__r30-30__c30-30__replace__36384e4bdae5",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[01:10] that Tyler Bowyer is, among other things,",
+      "youtubeId": "cZxHqYsWRYg",
+      "startSeconds": 70
+    },
+    {
+      "episode": "episode_003_cZxHqYsWRYg",
+      "hunkKey": "episode_003_cZxHqYsWRYg__r534-534__c534-534__replace__91654c768edd",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[21:56] And Tyler Bowyer probably the same. I know",
+      "youtubeId": "cZxHqYsWRYg",
+      "startSeconds": 1316
+    },
+    {
+      "episode": "episode_003_cZxHqYsWRYg",
+      "hunkKey": "episode_003_cZxHqYsWRYg__r18-18__c18-18__replace__fcc78c24d4af",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[00:42] Tyler Bowyer. Shady dude. They're",
+      "youtubeId": "cZxHqYsWRYg",
+      "startSeconds": 42
+    },
+    {
+      "episode": "episode_003_cZxHqYsWRYg",
+      "hunkKey": "episode_003_cZxHqYsWRYg__r903-903__c903-903__replace__9de4a732b23d",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[35:32] and Senator Jon Kyl. Erika becomes",
+      "youtubeId": "cZxHqYsWRYg",
+      "startSeconds": 2132
+    },
+    {
+      "episode": "episode_004_jTj9Ip46r4w",
+      "hunkKey": "episode_004_jTj9Ip46r4w__r1030-1030__c1030-1030__replace__fcb293925e23",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[39:25] mean, of Lori's mom and dad. I wanted",
+      "youtubeId": "jTj9Ip46r4w",
+      "startSeconds": 2365
+    },
+    {
+      "episode": "episode_004_jTj9Ip46r4w",
+      "hunkKey": "episode_004_jTj9Ip46r4w__r294-294__c294-294__replace__ed95830a5d9f",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[11:43] Frantzve Guinta. She's even divorced from",
+      "youtubeId": "jTj9Ip46r4w",
+      "startSeconds": 703
+    },
+    {
+      "episode": "episode_005_2tFYJf1klgY",
+      "hunkKey": "episode_005_2tFYJf1klgY__r1424-1424__c1424-1424__replace__8ea2961c94ad",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[55:12] Bowyer, he's an important guy. Important",
+      "youtubeId": "2tFYJf1klgY",
+      "startSeconds": 3312
+    },
+    {
+      "episode": "episode_005_2tFYJf1klgY",
+      "hunkKey": "episode_005_2tFYJf1klgY__r1458-1458__c1458-1458__replace__23892072562a",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[56:26] Bowyer. And that is the first thing that",
+      "youtubeId": "2tFYJf1klgY",
+      "startSeconds": 3386
+    },
+    {
+      "episode": "episode_005_2tFYJf1klgY",
+      "hunkKey": "episode_005_2tFYJf1klgY__r13-13__c13-13__replace__2e11f337f23a",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[00:28] Also, we've got Tyler Bowyer out in Romania",
+      "youtubeId": "2tFYJf1klgY",
+      "startSeconds": 28
+    },
+    {
+      "episode": "episode_005_2tFYJf1klgY",
+      "hunkKey": "episode_005_2tFYJf1klgY__r320-320__c320-320__replace__58ea9fbe7719",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[13:29] meet Senator Jon Kyl. Uh she also is",
+      "youtubeId": "2tFYJf1klgY",
+      "startSeconds": 809
+    },
+    {
+      "episode": "episode_005_2tFYJf1klgY",
+      "hunkKey": "episode_005_2tFYJf1klgY__r49-49__c49-49__replace__7aa6127032e9",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[01:58] Jerry Frantzve travels. She travels abroad",
+      "youtubeId": "2tFYJf1klgY",
+      "startSeconds": 118
+    },
+    {
+      "episode": "episode_005_2tFYJf1klgY",
+      "hunkKey": "episode_005_2tFYJf1klgY__r157-157__c157-157__replace__2966a95c9ad8",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[06:24] Jerry Frantzve and Kent. So, I'm just",
+      "youtubeId": "2tFYJf1klgY",
+      "startSeconds": 384
+    },
+    {
+      "episode": "episode_005_2tFYJf1klgY",
+      "hunkKey": "episode_005_2tFYJf1klgY__r571-571__c571-571__replace__92cbee391e64",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[24:02] this year, Jerry Frantzve creates an",
+      "youtubeId": "2tFYJf1klgY",
+      "startSeconds": 1442
+    },
+    {
+      "episode": "episode_006_y8lak3CRwDw",
+      "hunkKey": "episode_006_y8lak3CRwDw__r51-51__c51-51__replace__81c325445f0b",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[02:10] exactly is Tyler Bowyer working with in",
+      "youtubeId": "y8lak3CRwDw",
+      "startSeconds": 130
+    },
+    {
+      "episode": "episode_006_y8lak3CRwDw",
+      "hunkKey": "episode_006_y8lak3CRwDw__r240-240__c240-240__replace__b4226b6a577d",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[09:49] force arrives and so does Tyler Bowyer.",
+      "youtubeId": "y8lak3CRwDw",
+      "startSeconds": 589
+    },
+    {
+      "episode": "episode_006_y8lak3CRwDw",
+      "hunkKey": "episode_006_y8lak3CRwDw__r840-840__c840-840__replace__3459ec20e7c1",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[34:00] ties. Who knows what Tyler Bowyer's ties",
+      "youtubeId": "y8lak3CRwDw",
+      "startSeconds": 2040
+    },
+    {
+      "episode": "episode_006_y8lak3CRwDw",
+      "hunkKey": "episode_006_y8lak3CRwDw__r369-369__c369-369__replace__464ce21deed2",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[15:02] Tyler - Tyler Bowyer is's back. He's fresh",
+      "youtubeId": "y8lak3CRwDw",
+      "startSeconds": 902
+    },
+    {
+      "episode": "episode_006_y8lak3CRwDw",
+      "hunkKey": "episode_006_y8lak3CRwDw__r374-374__c374-374__replace__e2b5ffe39ac5",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[15:12] State University. And Tyler Bowyer then",
+      "youtubeId": "y8lak3CRwDw",
+      "startSeconds": 912
+    },
+    {
+      "episode": "episode_007_DdPjoy5W-wY",
+      "hunkKey": "episode_007_DdPjoy5W-wY__r424-424__c424-424__replace__d414c1f0fd07",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[16:26] Bowyer and I've got rid of everything",
+      "youtubeId": "DdPjoy5W-wY",
+      "startSeconds": 986
+    },
+    {
+      "episode": "episode_007_DdPjoy5W-wY",
+      "hunkKey": "episode_007_DdPjoy5W-wY__r1151-1151__c1151-1151__replace__bedfe8cdbd23",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[43:38] crucially is that Tyler Bowyer is going to",
+      "youtubeId": "DdPjoy5W-wY",
+      "startSeconds": 2618
+    },
+    {
+      "episode": "episode_007_DdPjoy5W-wY",
+      "hunkKey": "episode_007_DdPjoy5W-wY__r1148-1148__c1148-1148__replace__c106a9af3269",
+      "tier": "high",
+      "implement": false,
+      "editedFromReportOriginal": true,
+      "implementText": "[43:33] Farnsworth, the Frantzves, the Kolvets,",
+      "youtubeId": "DdPjoy5W-wY",
+      "startSeconds": 2613
+    }
+  ]
+}

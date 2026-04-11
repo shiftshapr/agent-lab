@@ -11,6 +11,10 @@ Regenerate from scratch (series order, people start at N-1, reuse IDs for same n
   assign_ids.py --batch phase1_output/ --drafts drafts/ --fresh-ledger \\
     --dedupe-nodes --episode-output-names
 
+Without --fresh-ledger, the ledger is taken from scanning --ledger / drafts (max existing
+A-/C-/N- numbers). If drafts already contain high N-* ids, episode 001 can get N-32+ for the
+first on-screen person even when phase1 lists them as NODE_1. Use --fresh-ledger to reset.
+
 Single-file mode:
   assign_ids.py phase1_output.json --drafts drafts/
 
@@ -116,19 +120,78 @@ def _normalize_node_name(name: str) -> str:
     return s
 
 
+def _neo4j_label_and_kinds(node: dict, ref: str = "") -> tuple[str, dict[str, str]]:
+    """
+    Map Phase 1 node to Neo4j label and optional kind fields for markdown / graph filters.
+    Legacy InvestigationTarget + institution → Organization; other legacy themes → Topic.
+    """
+    at = str(node.get("@type") or "").strip()
+    ntype = str(node.get("type") or "").lower()
+    tags = {str(t).lower() for t in (node.get("tags") or [])}
+    high_ref = bool(ref and re.match(r"NODE_1\d{3}", ref))
+
+    if at == "Person" or (ntype == "person" and not high_ref):
+        return "Person", {}
+
+    if at == "Organization" or ntype == "organization":
+        k = (node.get("organization_kind") or "").strip()
+        return "Organization", {"organization_kind": k or "other"}
+    if at == "Place" or ntype == "place":
+        k = (node.get("place_kind") or "").strip()
+        return "Place", {"place_kind": k or "other"}
+    if at == "Topic" or ntype == "topic":
+        k = (node.get("topic_kind") or "").strip()
+        return "Topic", {"topic_kind": k or "other"}
+
+    if ntype == "institution" or (at == "InvestigationTarget" and "institution" in tags):
+        k = (node.get("organization_kind") or "").strip()
+        return "Organization", {"organization_kind": k or "other"}
+
+    if at == "InvestigationTarget" or ntype == "investigation_target" or high_ref:
+        k = (node.get("topic_kind") or "").strip()
+        return "Topic", {"topic_kind": k or "legacy_theme"}
+
+    return "Person", {}
+
+
 def _node_is_investigation(node: dict, ref: str) -> bool:
-    ntype = str(node.get("type", "person")).lower()
-    return bool(
-        "investigation" in ntype
-        or "institution" in ntype
-        or (ref and re.match(r"NODE_1\d{3}", ref))
-    )
+    """True when this node uses the N-1000+ id ledger (non-person)."""
+    return _neo4j_label_and_kinds(node, ref)[0] != "Person"
+
+
+def _node_dedupe_bucket(node: dict, ref: str) -> str:
+    """Separate canonical name dedupe pools: person vs topic vs organization vs place."""
+    label, _ = _neo4j_label_and_kinds(node, ref)
+    if label == "Person":
+        return "person"
+    if label == "Organization":
+        return "organization"
+    if label == "Place":
+        return "place"
+    return "topic"
+
+
+def _canonical_registry_bucket(n: dict, nid: str) -> str:
+    t = str(n.get("type", "")).lower()
+    if t == "person":
+        return "person"
+    if t in ("organization", "institution"):
+        return "organization"
+    if t == "place":
+        return "place"
+    if t in ("topic", "investigation_target"):
+        return "topic"
+    try:
+        num = int(str(nid).split("-", 1)[-1])
+    except ValueError:
+        num = 0
+    return "topic" if num >= 1000 else "person"
 
 
 def load_node_registry_from_canonical(path: Path) -> dict[tuple[str, str], str]:
     """
     Build (bucket, normalized_name) -> N-* from canonical/nodes.json.
-    bucket is 'person' or 'investigation' (from node type or N-* number).
+    bucket is person | topic | organization | place (keeps Topic vs org vs place dedupe separate).
     """
     reg: dict[tuple[str, str], str] = {}
     if not path.is_file():
@@ -140,11 +203,7 @@ def load_node_registry_from_canonical(path: Path) -> dict[tuple[str, str], str]:
     for nid, n in (doc.get("nodes") or {}).items():
         if not isinstance(n, dict):
             continue
-        try:
-            num = int(str(nid).split("-", 1)[-1])
-        except ValueError:
-            num = 0
-        bucket = "investigation" if num >= 1000 or "investigation" in str(n.get("type", "")).lower() else "person"
+        bucket = _canonical_registry_bucket(n, str(nid))
         cname = _normalize_node_name(str(n.get("canonical_name") or ""))
         if cname:
             reg[(bucket, cname)] = str(nid)
@@ -153,6 +212,36 @@ def load_node_registry_from_canonical(path: Path) -> dict[tuple[str, str], str]:
             if an:
                 reg[(bucket, an)] = str(nid)
     return reg
+
+
+def _bump_ledger_next_nodes_from_registry(
+    ledger: dict, reg: dict[tuple[str, str], str]
+) -> None:
+    """
+    Canonical nodes.json can pin specific N-* for names. New people still consume
+    next_node sequentially; without bumping, the counter can reuse an id already
+    reserved in the registry (e.g. seed N-1 for Charlie but next unseeded person
+    also gets N-1). Advance past the max numeric suffix seen among registry values.
+    """
+    max_person = 0
+    max_inv = 999
+    seen: set[str] = set()
+    for nid in reg.values():
+        if not isinstance(nid, str) or not nid.startswith("N-") or nid in seen:
+            continue
+        seen.add(nid)
+        try:
+            n = int(nid.split("-", 1)[1])
+        except ValueError:
+            continue
+        if n >= 1000:
+            max_inv = max(max_inv, n)
+        elif n >= 1:
+            max_person = max(max_person, n)
+    if max_person > 0:
+        ledger["next_node"] = max(int(ledger["next_node"]), max_person + 1)
+    if max_inv >= 1000:
+        ledger["next_node_inv"] = max(int(ledger["next_node_inv"]), max_inv + 1)
 
 
 def _phase1_validation_errors(data: dict) -> list[str]:
@@ -185,12 +274,19 @@ def get_ledger_state(output_dir: Path) -> dict:
     if scan_output_for_ids and output_dir.exists():
         highest = scan_output_for_ids(output_dir)
     else:
-        highest = {"artifact_bundle": 999, "claim": 1000, "node": 0, "node_investigation": 1000}
+        highest = {
+            "artifact_bundle": 999,
+            "claim": 1000,
+            "node": 0,
+            "node_investigation": 1000,
+            "legal_matter": 999,
+        }
     return {
         "next_artifact": int(highest["artifact_bundle"]) + 1,
         "next_claim": int(highest["claim"]) + 1,
         "next_node": int(highest["node"]) + 1,
         "next_node_inv": int(highest["node_investigation"]) + 1,
+        "next_legal_matter": int(highest.get("legal_matter", 999)) + 1,
     }
 
 
@@ -204,7 +300,7 @@ def assign_ids_to_entities(
     """
     Build ref -> real ID mappings.
     If dedupe_nodes and node_name_registry is provided, reuse N-* when the same
-    normalized name appears again (person vs investigation buckets separate).
+    normalized name appears again (person vs topic vs organization vs place buckets).
     Registry is updated in place for new allocations.
     Returns (ref_to_id, updated_ledger).
     """
@@ -213,6 +309,7 @@ def assign_ids_to_entities(
     next_claim = ledger["next_claim"]
     next_node = ledger["next_node"]
     next_node_inv = ledger["next_node_inv"]
+    next_lm = int(ledger.get("next_legal_matter", 1000))
     reg = node_name_registry if dedupe_nodes and node_name_registry is not None else None
 
     # Artifacts: ART_1 -> A-1005, ART_1.1 -> A-1005.1
@@ -228,7 +325,7 @@ def assign_ids_to_entities(
     for node in data.get("nodes", []):
         ref = node.get("ref", "")
         inv = _node_is_investigation(node, ref)
-        bucket = "investigation" if inv else "person"
+        bucket = _node_dedupe_bucket(node, ref) if inv else "person"
         name_key = _normalize_node_name(str(node.get("name") or ""))
 
         if reg is not None and name_key:
@@ -247,6 +344,14 @@ def assign_ids_to_entities(
         if reg is not None and name_key:
             reg[(bucket, name_key)] = new_id
 
+    # Legal matters: CASE_1 -> LM-1000 (global series IDs)
+    for i, lm in enumerate(data.get("legal_matters") or [], 1):
+        if not isinstance(lm, dict):
+            continue
+        ref = lm.get("ref") or f"CASE_{i}"
+        ref_to_id[ref] = f"LM-{next_lm}"
+        next_lm += 1
+
     # Claims: CLAIM_1 -> C-1009
     for i, claim in enumerate(data.get("claims", []), 1):
         ref = claim.get("ref") or f"CLAIM_{i}"
@@ -258,6 +363,7 @@ def assign_ids_to_entities(
         "next_claim": next_claim,
         "next_node": next_node,
         "next_node_inv": next_node_inv,
+        "next_legal_matter": next_lm,
     }
     return ref_to_id, updated_ledger
 
@@ -310,6 +416,69 @@ def apply_ids_to_json(data: dict, ref_to_id: dict[str, str]) -> dict:
             claim["supports_claim_refs"] = [
                 ref_to_id.get(r, r) for r in claim.get("supports_claim_refs", [])
             ]
+        if claim.get("qualifies_claim_refs"):
+            claim["qualifies_claim_refs"] = [
+                ref_to_id.get(r, r) for r in claim.get("qualifies_claim_refs", [])
+            ]
+    for lm in out.get("legal_matters") or []:
+        if not isinstance(lm, dict):
+            continue
+        if lm.get("ref"):
+            lid = ref_to_id.get(lm["ref"], lm["ref"])
+            lm["ref"] = lid
+            lm["@id"] = lid
+        lm["artifact_refs"] = [ref_to_id.get(r, r) for r in lm.get("artifact_refs") or []]
+        lm["party_node_refs"] = [ref_to_id.get(r, r) for r in lm.get("party_node_refs") or []]
+        lm["place_node_refs"] = [ref_to_id.get(r, r) for r in lm.get("place_node_refs") or []]
+    for row in out.get("organization_relationships") or []:
+        if isinstance(row, dict):
+            if row.get("from_org_ref"):
+                row["from_org_ref"] = ref_to_id.get(row["from_org_ref"], row["from_org_ref"])
+            if row.get("to_org_ref"):
+                row["to_org_ref"] = ref_to_id.get(row["to_org_ref"], row["to_org_ref"])
+            row["source_artifact_refs"] = [
+                ref_to_id.get(r, r) for r in row.get("source_artifact_refs") or []
+            ]
+    for row in out.get("role_assertions") or []:
+        if isinstance(row, dict):
+            if row.get("person_node_ref"):
+                row["person_node_ref"] = ref_to_id.get(
+                    row["person_node_ref"], row["person_node_ref"]
+                )
+            if row.get("org_node_ref"):
+                row["org_node_ref"] = ref_to_id.get(row["org_node_ref"], row["org_node_ref"])
+    for row in out.get("node_equivalences") or []:
+        if isinstance(row, dict):
+            if row.get("node_ref_a"):
+                row["node_ref_a"] = ref_to_id.get(row["node_ref_a"], row["node_ref_a"])
+            if row.get("node_ref_b"):
+                row["node_ref_b"] = ref_to_id.get(row["node_ref_b"], row["node_ref_b"])
+    for row in out.get("provenance_links") or []:
+        if isinstance(row, dict):
+            if row.get("from_ref"):
+                row["from_ref"] = ref_to_id.get(row["from_ref"], row["from_ref"])
+            if row.get("to_ref"):
+                row["to_ref"] = ref_to_id.get(row["to_ref"], row["to_ref"])
+    for row in out.get("topic_mentions") or []:
+        if isinstance(row, dict):
+            if row.get("claim_ref"):
+                row["claim_ref"] = ref_to_id.get(row["claim_ref"], row["claim_ref"])
+            if row.get("topic_node_ref"):
+                row["topic_node_ref"] = ref_to_id.get(
+                    row["topic_node_ref"], row["topic_node_ref"]
+                )
+    for row in out.get("meme_links") or []:
+        if isinstance(row, dict):
+            if row.get("claim_ref"):
+                row["claim_ref"] = ref_to_id.get(row["claim_ref"], row["claim_ref"])
+            if row.get("speaker_node_ref"):
+                row["speaker_node_ref"] = ref_to_id.get(
+                    row["speaker_node_ref"], row["speaker_node_ref"]
+                )
+            if row.get("target_node_ref"):
+                row["target_node_ref"] = ref_to_id.get(
+                    row["target_node_ref"], row["target_node_ref"]
+                )
     for meme_block in out.get("memes", []):
         for occ in meme_block.get("occurrences", []):
             ref = occ.get("speaker_node_ref")
@@ -386,7 +555,22 @@ def render_markdown(data: dict, ref_to_id: dict[str, str]) -> str:
     lines.append("## 4. Node Register\n")
     for node in data.get("nodes", []):
         nid = ref_to_id.get(node.get("ref", ""), node.get("ref", ""))
+        ref = str(node.get("ref") or "")
         lines.append(f"**{nid}** {node.get('name', '')}\n")
+        label, kinds = _neo4j_label_and_kinds(node, ref)
+        lines.append(f"Node Type: {label}")
+        if label == "Topic":
+            tk = (kinds.get("topic_kind") or "").strip()
+            if tk:
+                lines.append(f"Topic Kind: {tk}")
+        elif label == "Organization":
+            ok = (kinds.get("organization_kind") or "").strip()
+            if ok:
+                lines.append(f"Organization Kind: {ok}")
+        elif label == "Place":
+            pk = (kinds.get("place_kind") or "").strip()
+            if pk:
+                lines.append(f"Place Kind: {pk}")
         lines.append(node.get("description", ""))
         rel_a = [ref_to_id.get(r, r) for r in node.get("related_artifacts", [])]
         rel_c = [ref_to_id.get(r, r) for r in node.get("related_claims", [])]
@@ -415,6 +599,12 @@ def render_markdown(data: dict, ref_to_id: dict[str, str]) -> str:
         if claim.get("supports_claim_refs"):
             sc = [ref_to_id.get(r, r) for r in claim["supports_claim_refs"]]
             lines.append(f"Supports: {', '.join(sc)}")
+        if claim.get("qualifies_claim_refs"):
+            qq = [ref_to_id.get(r, r) for r in claim["qualifies_claim_refs"]]
+            lines.append(f"Qualifies: {', '.join(qq)}")
+        stags = claim.get("sensitive_topic_tags") or []
+        if stags:
+            lines.append(f"Sensitive Tags: {', '.join(str(t) for t in stags)}")
         if claim.get("confidence"):
             lines.append(f"Confidence: {claim['confidence']}")
         if claim.get("uncertainty_note"):
@@ -462,6 +652,96 @@ def render_markdown(data: dict, ref_to_id: dict[str, str]) -> str:
             ):
                 lines.append(f"Summary: {m['context']}\n")
             lines.append("---\n")
+
+    legal = [x for x in (data.get("legal_matters") or []) if isinstance(x, dict)]
+    if legal:
+        lines.append("## 7. Legal Matter Register\n")
+        for lm in legal:
+            lid = ref_to_id.get(lm.get("ref", ""), lm.get("ref", ""))
+            lines.append(f"**{lid}** {lm.get('name', '')}\n")
+            pn = [ref_to_id.get(r, r) for r in lm.get("party_node_refs") or []]
+            pl = [ref_to_id.get(r, r) for r in lm.get("place_node_refs") or []]
+            ar = [ref_to_id.get(r, r) for r in lm.get("artifact_refs") or []]
+            if pn:
+                lines.append(f"Party Nodes: {', '.join(pn)}")
+            if pl:
+                lines.append(f"Place Nodes: {', '.join(pl)}")
+            if ar:
+                lines.append(f"Artifact Anchors: {', '.join(ar)}")
+            if lm.get("description"):
+                lines.append(f"Description: {lm['description']}")
+            if lm.get("confidence"):
+                lines.append(f"Confidence: {lm['confidence']}")
+            if lm.get("uncertainty_note"):
+                lines.append(f"Uncertainty: {lm['uncertainty_note']}")
+            lines.append("---\n")
+
+    org_rels = [x for x in (data.get("organization_relationships") or []) if isinstance(x, dict)]
+    if org_rels:
+        lines.append("## 8. Organization Network\n")
+        for row in org_rels:
+            a = ref_to_id.get(row.get("from_org_ref", ""), row.get("from_org_ref", ""))
+            b = ref_to_id.get(row.get("to_org_ref", ""), row.get("to_org_ref", ""))
+            rel = row.get("relation", "")
+            lines.append(f"OrgLink: {a} {rel} {b}")
+        lines.append("")
+
+    roles = [x for x in (data.get("role_assertions") or []) if isinstance(x, dict)]
+    if roles:
+        lines.append("## 9. Role Assertions\n")
+        for row in roles:
+            p = ref_to_id.get(row.get("person_node_ref", ""), row.get("person_node_ref", ""))
+            o = ref_to_id.get(row.get("org_node_ref", ""), row.get("org_node_ref", ""))
+            edge = row.get("role_edge", "")
+            title = (row.get("role_title") or "").strip()
+            tail = f" title:{title}" if title else ""
+            lines.append(f"RoleLink: {p} {edge} {o}{tail}")
+        lines.append("")
+
+    equiv = [x for x in (data.get("node_equivalences") or []) if isinstance(x, dict)]
+    if equiv:
+        lines.append("## 10. Node Equivalence (SAME_AS)\n")
+        for row in equiv:
+            a = ref_to_id.get(row.get("node_ref_a", ""), row.get("node_ref_a", ""))
+            b = ref_to_id.get(row.get("node_ref_b", ""), row.get("node_ref_b", ""))
+            lines.append(f"SameAs: {a} {b}")
+        lines.append("")
+
+    prov = [x for x in (data.get("provenance_links") or []) if isinstance(x, dict)]
+    if prov:
+        lines.append("## 11. Provenance Links\n")
+        for row in prov:
+            fr = ref_to_id.get(row.get("from_ref", ""), row.get("from_ref", ""))
+            to = ref_to_id.get(row.get("to_ref", ""), row.get("to_ref", ""))
+            rel = row.get("relation", "")
+            lines.append(f"Prov: {fr} {rel} {to}")
+        lines.append("")
+
+    tmen = [x for x in (data.get("topic_mentions") or []) if isinstance(x, dict)]
+    if tmen:
+        lines.append("## 12. Topic Threading\n")
+        for row in tmen:
+            c = ref_to_id.get(row.get("claim_ref", ""), row.get("claim_ref", ""))
+            t = ref_to_id.get(row.get("topic_node_ref", ""), row.get("topic_node_ref", ""))
+            lines.append(f"TopicMention: {c} {t}")
+        lines.append("")
+
+    mlinks = [x for x in (data.get("meme_links") or []) if isinstance(x, dict)]
+    if mlinks:
+        lines.append("## 13. Meme Graph Links\n")
+        for row in mlinks:
+            mid = str(row.get("meme_ref") or "").strip()
+            lt = row.get("link_type", "")
+            if lt == "invoked_by_claim":
+                cr = ref_to_id.get(row.get("claim_ref", ""), row.get("claim_ref", ""))
+                lines.append(f"MemeLink: {mid} invoked_by_claim {cr}")
+            elif lt == "invoked_by_speaker":
+                sp = ref_to_id.get(row.get("speaker_node_ref", ""), row.get("speaker_node_ref", ""))
+                lines.append(f"MemeLink: {mid} invoked_by_speaker {sp}")
+            elif lt == "targets_node":
+                tg = ref_to_id.get(row.get("target_node_ref", ""), row.get("target_node_ref", ""))
+                lines.append(f"MemeLink: {mid} targets_node {tg}")
+        lines.append("")
 
     return "\n".join(lines)
 
@@ -522,6 +802,7 @@ def run_batch(
             "next_claim": 1000,
             "next_node": 1,
             "next_node_inv": 1000,
+            "next_legal_matter": 1000,
         }
     elif ledger_dir and ledger_dir.exists() and scan_output_for_ids:
         highest = scan_output_for_ids(ledger_dir)
@@ -530,6 +811,7 @@ def run_batch(
             "next_claim": int(highest["claim"]) + 1,
             "next_node": int(highest["node"]) + 1,
             "next_node_inv": int(highest["node_investigation"]) + 1,
+            "next_legal_matter": int(highest.get("legal_matter", 999)) + 1,
         }
     else:
         ledger = {
@@ -537,6 +819,7 @@ def run_batch(
             "next_claim": 1000,
             "next_node": 1,
             "next_node_inv": 1000,
+            "next_legal_matter": 1000,
         }
 
     canon_path = canonical_nodes if canonical_nodes is not None else CANONICAL_NODES_DEFAULT
@@ -545,6 +828,7 @@ def run_batch(
         node_name_registry = load_node_registry_from_canonical(canon_path)
         if node_name_registry:
             print(f"[assign_ids] Seeded {len(node_name_registry)} name key(s) from {canon_path}")
+            _bump_ledger_next_nodes_from_registry(ledger, node_name_registry)
 
     drafts_dir.mkdir(parents=True, exist_ok=True)
     # Always default inscription to project dir (not drafts_dir.parent) so --drafts /tmp/... still writes to project.
@@ -693,6 +977,7 @@ def main() -> int:
             "next_claim": 1000,
             "next_node": 1,
             "next_node_inv": 1000,
+            "next_legal_matter": 1000,
         }
     else:
         ledger_dir = args.ledger or args.drafts
@@ -707,6 +992,7 @@ def main() -> int:
         reg = load_node_registry_from_canonical(canon_path)
         if reg:
             print(f"[assign_ids] Dedupe: seeded {len(reg)} name key(s) from {canon_path}")
+            _bump_ledger_next_nodes_from_registry(ledger, reg)
 
     ref_to_id, _ = assign_ids_to_entities(
         data,

@@ -7,7 +7,7 @@
 - **Video Timestamp Range**: 00:01:00–01:00:57
 - **Extraction Timestamp (UTC)**: 2026-03-20T21:49:47Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: ddc5096d9540dedce1bd46da336740b4b0f4ce880fa064e1a2f55bf1c3574a09
+- **Transcript SHA-256**: 53c68d500652b02b105ed970cbfc1e10e45d9165b07d28bbe00a43ac8030f807
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1029, A-1030, A-1031, A-1032, A-1033, A-1034, A-1035, A-1036, A-1037, A-1038, A-1039, A-1040
@@ -156,6 +156,7 @@ Confidence: high
 
 **N-11** Candace Owens
 
+Node Type: Person
 Host of Bride of Charlie investigation series
 
 *Related: A-1029.1, A-1030.1, A-1031.1, A-1032.1, A-1033.1, A-1034.1, A-1035.1, A-1036.1, A-1037.1, A-1038.1, A-1039.1, A-1040.1*
@@ -164,6 +165,7 @@ Host of Bride of Charlie investigation series
 
 **N-2** Erika Kirk
 
+Node Type: Person
 Primary subject of investigation, widow of Charlie Kirk, former Miss Arizona
 
 *Related: A-1029.1, A-1030.1, A-1034.1, A-1035.1, A-1037.1, A-1038.1, A-1039.1, C-1060, C-1061, C-1065, C-1066, C-1068, C-1069, C-1070, C-1073, C-1074*
@@ -172,6 +174,7 @@ Primary subject of investigation, widow of Charlie Kirk, former Miss Arizona
 
 **N-1** Charlie Kirk
 
+Node Type: Person
 Assassinated founder of Turning Point USA
 
 *Related: C-1075*
@@ -180,6 +183,7 @@ Assassinated founder of Turning Point USA
 
 **N-13** Tyler Bowyer
 
+Node Type: Person
 ASU student elected to Arizona Board of Regents, connected to Romania
 
 *Related: A-1032.1, A-1033.1, A-1036.1, A-1037.1, C-1063, C-1064, C-1067, C-1068, C-1073, C-1076*
@@ -188,6 +192,7 @@ ASU student elected to Arizona Board of Regents, connected to Romania
 
 **N-23** Dennis Frantzve
 
+Node Type: Person
 Erika's cousin, retired Marine lieutenant colonel, served in Romania
 
 *Related: A-1034.1, A-1035.1, C-1066*
@@ -196,6 +201,7 @@ Erika's cousin, retired Marine lieutenant colonel, served in Romania
 
 **N-22** Colonel Otto Busher
 
+Node Type: Person
 Marine Colonel in Romania, accused of running brothel and trafficking children
 
 *Related: C-1072*
@@ -204,6 +210,7 @@ Marine Colonel in Romania, accused of running brothel and trafficking children
 
 **N-24** Curtis Kolvet
 
+Node Type: Person
 Captain, commander of 593rd Nevada National Guard Transportation Company in Afghanistan, brother of Andrew Kolvet
 
 *Related: *
@@ -212,6 +219,7 @@ Captain, commander of 593rd Nevada National Guard Transportation Company in Afgh
 
 **N-25** Robert Kolvet
 
+Node Type: Person
 Commander of 485th Military Police Company, cousin of Curtis Kolvet
 
 *Related: *
@@ -220,6 +228,7 @@ Commander of 485th Military Police Company, cousin of Curtis Kolvet
 
 **N-26** Andrew Kolvet
 
+Node Type: Person
 Brother of Curtis Kolvet
 
 *Related: *
@@ -228,6 +237,7 @@ Brother of Curtis Kolvet
 
 **N-27** Justin Strife
 
+Node Type: Person
 COO of Turning Point USA, became COO 7 days before Charlie was assassinated
 
 *Related: A-1040.1, C-1071, C-1075*
@@ -236,6 +246,7 @@ COO of Turning Point USA, became COO 7 days before Charlie was assassinated
 
 **N-3** Lori Frantzve
 
+Node Type: Person
 Erika's mother, runs E3 Tech/Tech International
 
 *Related: C-1077*
@@ -244,6 +255,8 @@ Erika's mother, runs E3 Tech/Tech International
 
 **N-1020** Romania Connection Pattern
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Persistent pattern of multiple figures in story tied to Romania
 
 *Related: A-1031.1, A-1032.1, A-1033.1, A-1034.1, A-1035.1, C-1062, C-1063, C-1064, C-1065, C-1066, C-1060, C-1072, C-1076*
@@ -252,6 +265,8 @@ Persistent pattern of multiple figures in story tied to Romania
 
 **N-1021** Reno Nevada Military Connection
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Pattern of Black Sea rotational force and students coming from Reno, Nevada
 
 *Related: A-1032.1, A-1033.1, C-1063, C-1064*
@@ -260,6 +275,8 @@ Pattern of Black Sea rotational force and students coming from Reno, Nevada
 
 **N-1022** How Erika Met Tyler Bowyer
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Erika claims memory lapse about meeting Tyler Bowyer
 
 *Related: C-1073, C-1068*
@@ -268,6 +285,8 @@ Erika claims memory lapse about meeting Tyler Bowyer
 
 **N-1023** E3 Tech Purpose
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Unclear what Tech International/E3 Tech actually does
 
 *Related: C-1077*
@@ -276,6 +295,8 @@ Unclear what Tech International/E3 Tech actually does
 
 **N-1024** Turning Point Shooting Adjacencies
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Multiple Turning Point staff have proximity to mass shootings
 
 *Related: A-1040.1, C-1071, C-1075, C-1074*

@@ -1,0 +1,137 @@
+{
+  "episodes": [
+    {
+      "episode": 1,
+      "n_claims": 17,
+      "n_artifacts": 16,
+      "n_nodes": 17,
+      "artifact_coverage": 1.0,
+      "claim_grounding": 0.647,
+      "cross_ref_density": 0.824,
+      "timestamp_completeness": 1.0,
+      "node_connectivity": 0.897,
+      "overall_score": 86.1,
+      "grades": {
+        "artifact_coverage": "A",
+        "claim_grounding": "C",
+        "cross_ref_density": "B",
+        "timestamp_completeness": "A",
+        "node_connectivity": "B"
+      }
+    },
+    {
+      "episode": 2,
+      "n_claims": 7,
+      "n_artifacts": 6,
+      "n_nodes": 16,
+      "artifact_coverage": 0.571,
+      "claim_grounding": 0.429,
+      "cross_ref_density": 1.0,
+      "timestamp_completeness": 1.0,
+      "node_connectivity": 0.391,
+      "overall_score": 65.9,
+      "grades": {
+        "artifact_coverage": "D",
+        "claim_grounding": "D",
+        "cross_ref_density": "A",
+        "timestamp_completeness": "A",
+        "node_connectivity": "F"
+      }
+    },
+    {
+      "episode": 3,
+      "n_claims": 10,
+      "n_artifacts": 6,
+      "n_nodes": 7,
+      "artifact_coverage": 1.0,
+      "claim_grounding": 0.5,
+      "cross_ref_density": 0.8,
+      "timestamp_completeness": 1.0,
+      "node_connectivity": 0.857,
+      "overall_score": 81.4,
+      "grades": {
+        "artifact_coverage": "A",
+        "claim_grounding": "D",
+        "cross_ref_density": "C",
+        "timestamp_completeness": "A",
+        "node_connectivity": "B"
+      }
+    },
+    {
+      "episode": 4,
+      "n_claims": 5,
+      "n_artifacts": 12,
+      "n_nodes": 13,
+      "artifact_coverage": 1.0,
+      "claim_grounding": 1.0,
+      "cross_ref_density": 1.0,
+      "timestamp_completeness": 1.0,
+      "node_connectivity": 0.288,
+      "overall_score": 89.3,
+      "grades": {
+        "artifact_coverage": "A",
+        "claim_grounding": "A",
+        "cross_ref_density": "A",
+        "timestamp_completeness": "A",
+        "node_connectivity": "F"
+      }
+    },
+    {
+      "episode": 5,
+      "n_claims": 21,
+      "n_artifacts": 13,
+      "n_nodes": 12,
+      "artifact_coverage": 1.0,
+      "claim_grounding": 0.524,
+      "cross_ref_density": 0.476,
+      "timestamp_completeness": 1.0,
+      "node_connectivity": 0.625,
+      "overall_score": 72.0,
+      "grades": {
+        "artifact_coverage": "A",
+        "claim_grounding": "D",
+        "cross_ref_density": "D",
+        "timestamp_completeness": "A",
+        "node_connectivity": "C"
+      }
+    },
+    {
+      "episode": 6,
+      "n_claims": 18,
+      "n_artifacts": 12,
+      "n_nodes": 16,
+      "artifact_coverage": 0.667,
+      "claim_grounding": 0.333,
+      "cross_ref_density": 0.685,
+      "timestamp_completeness": 1.0,
+      "node_connectivity": 0.578,
+      "overall_score": 62.4,
+      "grades": {
+        "artifact_coverage": "C",
+        "claim_grounding": "F",
+        "cross_ref_density": "C",
+        "timestamp_completeness": "A",
+        "node_connectivity": "D"
+      }
+    },
+    {
+      "episode": 7,
+      "n_claims": 11,
+      "n_artifacts": 15,
+      "n_nodes": 15,
+      "artifact_coverage": 1.0,
+      "claim_grounding": 0.727,
+      "cross_ref_density": 0.818,
+      "timestamp_completeness": 1.0,
+      "node_connectivity": 0.45,
+      "overall_score": 81.3,
+      "grades": {
+        "artifact_coverage": "A",
+        "claim_grounding": "C",
+        "cross_ref_density": "B",
+        "timestamp_completeness": "A",
+        "node_connectivity": "D"
+      }
+    }
+  ]
+}

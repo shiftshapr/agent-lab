@@ -7,7 +7,7 @@
 - **Video Timestamp Range**: 00:01:00–01:03:57
 - **Extraction Timestamp (UTC)**: 2026-03-20T21:41:43Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: b157e001280be3b7f79d4da92e3abfee2da0f881e231faaaff1413a2e5ed006f
+- **Transcript SHA-256**: 9fe6440bef717f33db55458c099520fcd7cbdfbd6f04837970978e172ae04223
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1007, A-1008, A-1009, A-1010
@@ -82,6 +82,7 @@ Confidence: high
 
 **N-1** Charlie Kirk
 
+Node Type: Person
 Primary subject of investigation - deceased founder of Turning Point USA
 
 *Related: C-1021, C-1023*
@@ -90,6 +91,7 @@ Primary subject of investigation - deceased founder of Turning Point USA
 
 **N-11** Candace Owens
 
+Node Type: Person
 Host of Bride of Charlie series
 
 *Related: A-1007.1, A-1008.1, A-1010.1*
@@ -98,6 +100,7 @@ Host of Bride of Charlie series
 
 **N-2** Erika Kirk
 
+Node Type: Person
 Primary subject - Charlie Kirk's widow
 
 *Related: A-1008.1, A-1008.2, A-1008.3, A-1010.1, C-1017, C-1020, C-1021, C-1022, C-1023*
@@ -106,6 +109,7 @@ Primary subject - Charlie Kirk's widow
 
 **N-12** Dr. Jerry Frantzve
 
+Node Type: Person
 Kent's first wife - connected to DuPont, MK Ultra, Tesaract school development
 
 *Related: A-1007.1, A-1009.1, C-1018, C-1019, C-1020*
@@ -114,6 +118,7 @@ Kent's first wife - connected to DuPont, MK Ultra, Tesaract school development
 
 **N-4** Kent Frantzve
 
+Node Type: Person
 Erika's father - Army Corps of Engineers, married to Lori and then Jerry
 
 *Related: C-1018*
@@ -122,6 +127,7 @@ Erika's father - Army Corps of Engineers, married to Lori and then Jerry
 
 **N-3** Lori Frantzve
 
+Node Type: Person
 Erika's mother
 
 *Related: C-1021, C-1022*
@@ -130,6 +136,7 @@ Erika's mother
 
 **N-13** Tyler Bowyer
 
+Node Type: Person
 Turning Point USA operative who introduced Charlie to Erika
 
 *Related: C-1021, C-1023*
@@ -138,6 +145,7 @@ Turning Point USA operative who introduced Charlie to Erika
 
 **N-9** Elizabeth Lane
 
+Node Type: Person
 Mentioned as source who discussed Erika's exes and desire for fame
 
 *Related: A-1010.1, C-1022*
@@ -146,6 +154,7 @@ Mentioned as source who discussed Erika's exes and desire for fame
 
 **N-14** Phil Bliss
 
+Node Type: Person
 Tesaract board member with MK Ultra connections
 
 *Related: C-1020*
@@ -154,6 +163,7 @@ Tesaract board member with MK Ultra connections
 
 **N-15** Dr. John Money
 
+Node Type: Person
 Notorious psychologist - colleague of Jerry Frantzve, father of gender ideology
 
 *Related: C-1019*
@@ -162,6 +172,8 @@ Notorious psychologist - colleague of Jerry Frantzve, father of gender ideology
 
 **N-1000** Date of Birth Discrepancy
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Erika's birth date inconsistency between 20th or 22nd November 1988
 
 *Related: C-1017*
@@ -170,6 +182,8 @@ Erika's birth date inconsistency between 20th or 22nd November 1988
 
 **N-1007** Jerry Frantzve Background Verification
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Verification of Jerry Frantzve's claimed history - MK Ultra, military connections, DuPont employment
 
 *Related: A-1007.1, C-1018, C-1019*
@@ -178,6 +192,8 @@ Verification of Jerry Frantzve's claimed history - MK Ultra, military connection
 
 **N-1008** Missing Money from Turning Point USA
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Alleged missing millions from Turning Point USA and Turning Point Action
 
 *Related: C-1021*
@@ -186,6 +202,8 @@ Alleged missing millions from Turning Point USA and Turning Point Action
 
 **N-1009** Tesaract School Investigation
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Whether Tesaract school was psychological experiment on children
 
 *Related: A-1008.1, A-1008.2, A-1008.3, C-1020*
@@ -194,6 +212,8 @@ Whether Tesaract school was psychological experiment on children
 
 **N-1010** Radford University Report Credibility
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Investigation into whether Radford report was legitimate or family fraud
 
 *Related: A-1009.1, C-1019*
@@ -202,6 +222,8 @@ Investigation into whether Radford report was legitimate or family fraud
 
 **N-1011** Erika Pageant Narrative
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Whether Erika was groomed for pageants vs claims she wasn't
 
 *Related: A-1010.1, C-1022*
@@ -238,7 +260,7 @@ Investigative Direction: Verify marriage records and Carl Pangirl's later positi
 
 Claim Timestamp: 20:00
 Claim: Jerry Frantzve worked for DuPont family as director of employee relations and later headed gender clinic at Radford University.
-Transcript Snippet: She starts working for the DuPont family, becoming the director of employee relations for DuPant.
+Transcript Snippet: She starts working for the DuPont family, becoming the director of employee relations for DuPont.
 Anchored Artifacts: A-1009.1
 Related Nodes: N-12, N-15, N-1007, N-1010
 Confidence: high

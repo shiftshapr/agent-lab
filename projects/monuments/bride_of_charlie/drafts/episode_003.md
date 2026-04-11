@@ -7,7 +7,7 @@
 - **Video Timestamp Range**: 00:01–01:07:50
 - **Extraction Timestamp (UTC)**: 2026-03-20T21:42:49Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 4c8212d9b2bd8c156a6622ce8cd24b742217879ff26e82275a5b3bb93032c07a
+- **Transcript SHA-256**: 6a981dd4ca8ea9cb09c53982b232505c08a145d433ae451f6082f20b26812fd4
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1011, A-1012, A-1013
@@ -70,6 +70,7 @@ Confidence: medium
 
 **N-11** Candace Owens
 
+Node Type: Person
 Host of the Bride of Charlie investigation series
 
 *Related: A-1011.1, A-1011.2, A-1012.1, A-1013.1, A-1013.2, A-1013.3*
@@ -78,6 +79,7 @@ Host of the Bride of Charlie investigation series
 
 **N-2** Erika Kirk
 
+Node Type: Person
 Primary subject of investigation, daughter of Lori Frantzve
 
 *Related: A-1013.1, A-1013.2, A-1013.3, C-1029, C-1030, C-1031, C-1032, C-1033*
@@ -86,6 +88,7 @@ Primary subject of investigation, daughter of Lori Frantzve
 
 **N-3** Lori Frantzve
 
+Node Type: Person
 Erika's mother, involved in multiple businesses and the Erpenbeck family scandal
 
 *Related: A-1011.1, A-1012.1, A-1013.1, C-1024, C-1025, C-1027, C-1028, C-1029*
@@ -94,6 +97,7 @@ Erika's mother, involved in multiple businesses and the Erpenbeck family scandal
 
 **N-16** Richard Erpenbeck
 
+Node Type: Person
 Witness to Lori's divorce documents, member of Erpenbeck family involved in fraud case
 
 *Related: A-1011.1, A-1011.2, A-1012.1, C-1024, C-1025, C-1026, C-1027*
@@ -102,6 +106,7 @@ Witness to Lori's divorce documents, member of Erpenbeck family involved in frau
 
 **N-13** Tyler Bowyer
 
+Node Type: Person
 COO of Turning Point Action, business partner with Lori at Super Feed Technologies
 
 *Related: C-1028*
@@ -110,6 +115,8 @@ COO of Turning Point Action, business partner with Lori at Super Feed Technologi
 
 **N-1012** Erpenbeck fraud pattern — Lori LLCs & notaries
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Erpenbeck family thread: fraud pattern around Lori’s LLCs and notary/incorporator ties to the same family. Notary testimony names Bill Erpenbeck (Rick Erpenbeck’s brother) re absent signers. Legal/document spelling: Erpenbeck. Video captions/STT often garbled Erpenbeck; treat as caption drift. Richard Erpenbeck appears as witness on related docs.
 
 *Related: A-1011.1, A-1011.2, A-1012.1, C-1026, C-1027, C-1024, C-1025, C-1028*
@@ -120,6 +127,8 @@ Confidence: high
 
 **N-1013** Erika Timeline Discrepancies
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Inconsistencies between Erika's claimed narrative and documented records
 
 *Related: A-1013.2, A-1013.3, C-1030, C-1031, C-1032, C-1033*

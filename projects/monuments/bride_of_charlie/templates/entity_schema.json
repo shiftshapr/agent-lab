@@ -97,13 +97,41 @@
         "type": "object",
         "required": ["ref", "name", "type", "description"],
         "properties": {
-          "@type": { "enum": ["Person", "InvestigationTarget"] },
+          "@type": {
+            "enum": [
+              "Person",
+              "Topic",
+              "Organization",
+              "Place",
+              "InvestigationTarget"
+            ],
+            "description": "Prefer Topic / Organization / Place. InvestigationTarget is legacy (themes → Topic; institutions → Organization)."
+          },
           "@id": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
           "ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
           "name": { "type": "string" },
           "type": {
-            "enum": ["person", "investigation_target", "institution"],
-            "description": "institution = org/company/government body; maps to InvestigationTarget in Phase 2 / Neo4j"
+            "enum": [
+              "person",
+              "topic",
+              "organization",
+              "place",
+              "investigation_target",
+              "institution"
+            ],
+            "description": "Parallel to @type: institution / organization → Organization in Neo4j; investigation_target / thematic rows → Topic; named locations → Place."
+          },
+          "topic_kind": {
+            "type": "string",
+            "description": "When @type is Topic (or legacy theme): e.g. discrepancy, verification_thread, narrative_pattern, program_reference, other"
+          },
+          "organization_kind": {
+            "type": "string",
+            "description": "When @type is Organization: e.g. educational_institution, nonprofit, business, government_agency, political_group, media, program_or_initiative, other"
+          },
+          "place_kind": {
+            "type": "string",
+            "description": "When @type is Place: e.g. city, region, country, venue, address, other"
           },
           "description": { "type": "string" },
           "also_known_as": {
@@ -175,8 +203,129 @@
             "items": { "type": "string", "pattern": "^CLAIM_\\d+$" },
             "description": "Other claims in this episode this claim supports or reinforces"
           },
+          "qualifies_claim_refs": {
+            "type": "array",
+            "items": { "type": "string", "pattern": "^CLAIM_\\d+$" },
+            "description": "Claims this one narrows, limits, or conditions (Neo4j QUALIFIES)"
+          },
+          "sensitive_topic_tags": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Heavy topics (fraud, trafficking, etc.): must remain anchored to artifacts — at least one anchored_artifact required when non-empty"
+          },
           "confidence": { "$ref": "#/definitions/confidenceLevel" },
           "uncertainty_note": { "$ref": "#/definitions/uncertaintyNote" }
+        }
+      }
+    },
+    "legal_matters": {
+      "type": "array",
+      "description": "First-class legal / case clusters linking filings and parties",
+      "items": {
+        "type": "object",
+        "required": ["ref", "name"],
+        "properties": {
+          "ref": { "type": "string", "pattern": "^CASE_\\d+$" },
+          "name": { "type": "string" },
+          "description": { "type": "string" },
+          "artifact_refs": { "type": "array", "items": { "type": "string" } },
+          "party_node_refs": { "type": "array", "items": { "type": "string" } },
+          "place_node_refs": { "type": "array", "items": { "type": "string" } },
+          "confidence": { "$ref": "#/definitions/confidenceLevel" },
+          "uncertainty_note": { "$ref": "#/definitions/uncertaintyNote" }
+        }
+      }
+    },
+    "organization_relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["from_org_ref", "to_org_ref", "relation"],
+        "properties": {
+          "from_org_ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
+          "to_org_ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
+          "relation": {
+            "enum": [
+              "subsidiary_of",
+              "affiliated_with",
+              "contractor_for",
+              "funded_by",
+              "donated_to",
+              "parent_of",
+              "same_enterprise_as"
+            ]
+          },
+          "source_artifact_refs": { "type": "array", "items": { "type": "string" } },
+          "confidence": { "$ref": "#/definitions/confidenceLevel" },
+          "uncertainty_note": { "$ref": "#/definitions/uncertaintyNote" }
+        }
+      }
+    },
+    "role_assertions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["person_node_ref", "org_node_ref", "role_edge"],
+        "properties": {
+          "person_node_ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
+          "org_node_ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
+          "role_edge": { "enum": ["holds_role", "member_of", "chair_of"] },
+          "role_title": { "type": "string" },
+          "confidence": { "$ref": "#/definitions/confidenceLevel" },
+          "uncertainty_note": { "$ref": "#/definitions/uncertaintyNote" }
+        }
+      }
+    },
+    "node_equivalences": {
+      "type": "array",
+      "description": "Same real-world org or place across different node rows (merge hints)",
+      "items": {
+        "type": "object",
+        "required": ["node_ref_a", "node_ref_b"],
+        "properties": {
+          "node_ref_a": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
+          "node_ref_b": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "provenance_links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["from_ref", "to_ref", "relation"],
+        "properties": {
+          "from_ref": { "type": "string" },
+          "to_ref": { "type": "string", "pattern": "^ART_\\d+\\.\\d+$" },
+          "relation": { "enum": ["cites_source", "derived_from", "recording_of"] },
+          "confidence": { "$ref": "#/definitions/confidenceLevel" }
+        }
+      }
+    },
+    "topic_mentions": {
+      "type": "array",
+      "description": "Claims that invoke a Topic / thematic thread node",
+      "items": {
+        "type": "object",
+        "required": ["claim_ref", "topic_node_ref"],
+        "properties": {
+          "claim_ref": { "type": "string", "pattern": "^CLAIM_\\d+$" },
+          "topic_node_ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" }
+        }
+      }
+    },
+    "meme_links": {
+      "type": "array",
+      "description": "Graph edges from claims/speakers to memes and memes to targets",
+      "items": {
+        "type": "object",
+        "required": ["meme_ref", "link_type"],
+        "properties": {
+          "meme_ref": { "type": "string", "pattern": "^M-\\d+$" },
+          "link_type": { "enum": ["invoked_by_claim", "invoked_by_speaker", "targets_node"] },
+          "claim_ref": { "type": "string", "pattern": "^CLAIM_\\d+$" },
+          "speaker_node_ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" },
+          "target_node_ref": { "type": "string", "pattern": "^NODE_(\\d+|1\\d{3})$" }
         }
       }
     }

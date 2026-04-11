@@ -6,7 +6,8 @@ Supports global ledger continuation across episodes.
 Projects: projects/monuments/{project_name}/
   - brief/       Project briefing (protocol context)
   - templates/   Output format template
-  - input/       Raw episode transcripts
+  - transcripts_corrected/  Canonical episode text (preferred whenever present)
+  - input/       Legacy fallback only if transcripts_corrected/ has no episode_*.txt
   - output/      Structured episode analyses
   - logs/        Run logs
 """
@@ -85,6 +86,7 @@ ID_PATTERNS = {
     "artifact": re.compile(r"A-(\d+(?:\.\d+)?)"),
     "claim":    re.compile(r"C-(\d+)"),
     "node":     re.compile(r"N-(\d+)"),
+    "legal_matter": re.compile(r"LM-(\d+)"),
 }
 
 
@@ -105,8 +107,14 @@ def scan_output_for_ids_neo4j() -> dict[str, float] | None:
         driver = GraphDatabase.driver(neo4j_uri, auth=(neo4j_user, neo4j_password))
         driver.verify_connectivity()
         
-        highest = {"artifact_bundle": 999, "claim": 1000, "node": 0, "node_investigation": 1000}
-        
+        highest = {
+            "artifact_bundle": 999,
+            "claim": 1000,
+            "node": 0,
+            "node_investigation": 1000,
+            "legal_matter": 999,
+        }
+
         with driver.session() as session:
             # Get max artifact family ID
             result = session.run(
@@ -137,17 +145,26 @@ def scan_output_for_ids_neo4j() -> dict[str, float] | None:
             if record and record["max_id"] is not None:
                 highest["node"] = record["max_id"]
             
-            # Get max investigation target node ID (N-1000+)
+            # Get max non-person graph node ID (N-1000+): Topic, Organization, Place, InvestigationTarget
             result = session.run(
-                "MATCH (it:InvestigationTarget) "
-                "WITH toInteger(substring(it.id, 2)) AS node_num "
+                "MATCH (n) "
+                "WHERE n:InvestigationTarget OR n:Topic OR n:Organization OR n:Place "
+                "WITH toInteger(substring(n.id, 2)) AS node_num "
                 "WHERE node_num >= 1000 "
                 "RETURN max(node_num) AS max_id"
             )
             record = result.single()
             if record and record["max_id"] is not None:
                 highest["node_investigation"] = record["max_id"]
-        
+
+            result = session.run(
+                "MATCH (lm:LegalMatter) "
+                "RETURN max(toInteger(substring(lm.id, 3))) AS max_id"
+            )
+            record = result.single()
+            if record and record["max_id"] is not None:
+                highest["legal_matter"] = record["max_id"]
+
         driver.close()
         return highest
     
@@ -158,7 +175,13 @@ def scan_output_for_ids_neo4j() -> dict[str, float] | None:
 
 def scan_output_for_ids_regex(output_dir: Path) -> dict[str, float]:
     """Scan episode output files for highest A-, C-, N- IDs. Excludes cross_episode_*.md."""
-    highest = {"artifact_bundle": 999, "claim": 1000, "node": 0, "node_investigation": 1000}
+    highest = {
+        "artifact_bundle": 999,
+        "claim": 1000,
+        "node": 0,
+        "node_investigation": 1000,
+        "legal_matter": 999,
+    }
 
     for path in output_dir.glob("episode_*.md"):
         text = path.read_text(encoding="utf-8")
@@ -207,6 +230,7 @@ def format_ledger_context(highest: dict[str, float]) -> str:
     next_claim = int(highest["claim"]) + 1
     next_node = int(highest["node"]) + 1
     next_node_inv = int(highest["node_investigation"]) + 1
+    next_lm = int(highest.get("legal_matter", 999)) + 1
     forbidden = f" Do NOT use A-1000 through A-{next_family - 1} — those IDs exist in previous episodes." if next_family > 1000 else ""
     return (
         "=== CRITICAL: NEVER REUSE IDs FROM PREVIOUS EPISODES ===\n"
@@ -219,6 +243,7 @@ def format_ledger_context(highest: dict[str, float]) -> str:
         f"- Next Claim ID: C-{next_claim}. NEVER reuse claim IDs from previous episodes. Start at C-{next_claim} and increment sequentially.\n"
         f"- Next Node ID (people): N-{next_node} — REUSE when same entity. New IDs only for new entities.\n"
         f"- Next Node ID (investigation targets): N-{next_node_inv} — REUSE when same target.\n"
+        f"- Legal / case clusters: use placeholder refs CASE_1, CASE_2, … in Phase 1 JSON under legal_matters[]. Phase 2 assigns global LM-* (next: LM-{next_lm}).\n"
         f"- Nodes: reuse if same entity; otherwise unique sequential. Never renumber.\n"
     )
 
@@ -558,6 +583,7 @@ def _assign_ids_inline(data: dict, ledger: dict) -> tuple[dict[str, str], dict]:
     next_claim = ledger["next_claim"]
     next_node = ledger["next_node"]
     next_node_inv = ledger["next_node_inv"]
+    next_lm = int(ledger.get("next_legal_matter", 1000))
     for i, art in enumerate(data.get("artifacts", []), 1):
         fam_ref = art.get("family_ref") or f"ART_{i}"
         ref_to_id[fam_ref] = f"A-{next_art}"
@@ -574,6 +600,12 @@ def _assign_ids_inline(data: dict, ledger: dict) -> tuple[dict[str, str], dict]:
         else:
             ref_to_id[ref] = f"N-{next_node}"
             next_node += 1
+    for i, lm in enumerate(data.get("legal_matters") or [], 1):
+        if not isinstance(lm, dict):
+            continue
+        ref = lm.get("ref") or f"CASE_{i}"
+        ref_to_id[ref] = f"LM-{next_lm}"
+        next_lm += 1
     for i, c in enumerate(data.get("claims", []), 1):
         ref_to_id[c.get("ref") or f"CLAIM_{i}"] = f"C-{next_claim}"
         next_claim += 1
@@ -582,6 +614,7 @@ def _assign_ids_inline(data: dict, ledger: dict) -> tuple[dict[str, str], dict]:
         "next_claim": next_claim,
         "next_node": next_node,
         "next_node_inv": next_node_inv,
+        "next_legal_matter": next_lm,
     }
 
 
@@ -755,12 +788,97 @@ def ingest_episode_to_neo4j(episode_file: Path) -> bool:
         return False
 
 
+def _load_bride_notify_module(proj_path: Path):
+    import importlib.util
+
+    script = proj_path / "scripts" / "notify_completion.py"
+    if not script.is_file():
+        return None
+    spec = importlib.util.spec_from_file_location("boc_notify_completion", script)
+    if spec is None or spec.loader is None:
+        return None
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+def _filter_phase1_for_notify(
+    phase1_jsons: list[Path], only_episodes: set[int] | None
+) -> list[Path]:
+    if not only_episodes:
+        return list(phase1_jsons)
+    out: list[Path] = []
+    for p in phase1_jsons:
+        m = re.search(r"episode_(\d+)", p.name, re.I)
+        if m and int(m.group(1)) in only_episodes:
+            out.append(p)
+    return out
+
+
+def _maybe_notify_bride_phase2_complete(
+    project: str,
+    proj_path: Path,
+    phase1_jsons: list[Path],
+    *,
+    only_notify_episodes: set[int] | None = None,
+) -> None:
+    """After two-phase Phase 2, optional Telegram per episode (``scripts/notify_completion.py``)."""
+    if project != "bride_of_charlie" or not phase1_jsons:
+        return
+    try:
+        mod = _load_bride_notify_module(proj_path)
+        if mod is None:
+            return
+        fn = getattr(mod, "notify_after_phase2_batch", None)
+        if not callable(fn):
+            return
+        filtered = _filter_phase1_for_notify(phase1_jsons, only_notify_episodes)
+        if only_notify_episodes and not filtered:
+            print("[episode-analysis] notify_completion: ONLY mode — no phase1 files matched filter; skip Telegram")
+            return
+        fn(filtered)
+    except Exception as e:
+        print(f"[episode-analysis] notify_completion: {e}")
+
+
+def _maybe_notify_bride_single_pass(project: str, proj_path: Path, episode_num: int) -> None:
+    """Single-phase markdown draft written; short Telegram (no JSON counts)."""
+    if project != "bride_of_charlie":
+        return
+    try:
+        mod = _load_bride_notify_module(proj_path)
+        if mod is None:
+            return
+        fn = getattr(mod, "notify_single_pass_draft_complete", None)
+        if callable(fn) and fn(int(episode_num)):
+            print(f"[episode-analysis] Telegram sent (single-phase) for episode {episode_num}")
+    except Exception as e:
+        print(f"[episode-analysis] notify_completion (single-phase): {e}")
+
+
+def _episode_transcript_input_dir(proj_path: Path) -> Path:
+    """Use transcripts_corrected/ whenever it holds episode files; ignore EPISODE_ANALYSIS_INPUT then."""
+    corr = proj_path / "transcripts_corrected"
+    has_episodes = bool(
+        list(corr.glob("episode_*.txt")) or list(corr.glob("episode_*.md"))
+    )
+    if corr.is_dir() and has_episodes:
+        forced = os.getenv("EPISODE_ANALYSIS_INPUT", "").strip()
+        if forced and forced != "transcripts_corrected":
+            print(
+                "[episode-analysis] Using transcripts_corrected/ as canonical episode text "
+                f"(ignoring EPISODE_ANALYSIS_INPUT={forced!r})."
+            )
+        return corr
+    sub = os.getenv("EPISODE_ANALYSIS_INPUT", "input").strip() or "input"
+    return proj_path / sub
+
+
 def run_episode_analysis_protocol(project: str | None = None) -> None:
     project = project or os.getenv("EPISODE_ANALYSIS_PROJECT", "bride_of_charlie")
     proj_path = get_project_path(project)
-    input_subdir  = os.getenv("EPISODE_ANALYSIS_INPUT", "input")
     output_subdir  = os.getenv("EPISODE_ANALYSIS_OUTPUT", "output")
-    input_dir  = proj_path / input_subdir
+    input_dir = _episode_transcript_input_dir(proj_path)
     output_dir = proj_path / output_subdir
     log_dir    = proj_path / "logs"
     brief_dir  = proj_path / "brief"
@@ -820,6 +938,7 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
 
     n_to_process = len(transcripts) if only_indices is None else len(only_indices)
     print(f"[episode-analysis] Project: {project}")
+    print(f"[episode-analysis] Transcript source: {input_dir}")
     print(f"[episode-analysis] Ledger: family A-{highest['artifact_bundle']}+, C-{highest['claim']}, N-{highest['node']}, N-{highest['node_investigation']}+")
     print(f"[episode-analysis] Processing {n_to_process} episode(s)...")
 
@@ -926,6 +1045,7 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
                 out_path.write_text(markdown, encoding="utf-8")
                 log_lines.append(f"OK  {path.name} -> {out_name}")
                 print(f"       -> {out_name}")
+                _maybe_notify_bride_single_pass(project, proj_path, episode_num)
 
                 if neo4j_auto_ingest:
                     if ingest_episode_to_neo4j(out_path):
@@ -964,6 +1084,12 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
                         for line in result.stdout.strip().split("\n"):
                             if line.strip():
                                 print(f"       {line}")
+                        _maybe_notify_bride_phase2_complete(
+                            project,
+                            proj_path,
+                            list(phase1_jsons),
+                            only_notify_episodes=only_indices,
+                        )
                     else:
                         err_parts = [result.stderr or "", result.stdout or ""]
                         detail = "\n".join(p.strip() for p in err_parts if p and p.strip())
@@ -971,7 +1097,13 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
                         log_lines.append(f"ERR Phase 2 (exit {result.returncode}): {detail[:2000]}")
                 else:
                     # Inline batch assign (assign_ids.py not found)
-                    ledger = {"next_artifact": 1000, "next_claim": 1000, "next_node": 1, "next_node_inv": 1000}
+                    ledger = {
+                        "next_artifact": 1000,
+                        "next_claim": 1000,
+                        "next_node": 1,
+                        "next_node_inv": 1000,
+                        "next_legal_matter": 1000,
+                    }
                     for jpath in phase1_jsons:
                         data = json.loads(jpath.read_text(encoding="utf-8"))
                         if sync_placeholder_refs_from_jsonld:
@@ -988,6 +1120,12 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
                         out_path = output_dir / f"{jpath.stem}.md"
                         out_path.write_text(md, encoding="utf-8")
                     print(f"       Phase 2 complete (inline): {len(phase1_jsons)} draft(s)")
+                    _maybe_notify_bride_phase2_complete(
+                        project,
+                        proj_path,
+                        list(phase1_jsons),
+                        only_notify_episodes=only_indices,
+                    )
             except Exception as e:
                 print(f"       Phase 2 error: {e}")
                 log_lines.append(f"ERR Phase 2: {e}")

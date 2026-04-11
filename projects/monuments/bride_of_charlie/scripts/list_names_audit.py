@@ -41,22 +41,22 @@ def section_graph() -> str:
     try:
         from neo4j import GraphDatabase
     except ImportError:
-        return "## 1. Neo4j graph (Person / InvestigationTarget)\n\n*(neo4j driver not installed)*\n\n"
+        return "## 1. Neo4j graph (Person / Topic / Organization / Place)\n\n*(neo4j driver not installed)*\n\n"
 
-    lines = ["## 1. Neo4j graph (Person / InvestigationTarget)\n"]
+    lines = ["## 1. Neo4j graph (Person / Topic / Organization / Place)\n"]
     try:
         driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
         driver.verify_connectivity()
     except Exception as e:
         return (
-            "## 1. Neo4j graph (Person / InvestigationTarget)\n\n"
+            "## 1. Neo4j graph (Person / Topic / Organization / Place)\n\n"
             f"*(could not connect: {e})*\n\n"
         )
 
     with driver.session() as session:
         q = """
         MATCH (n)
-        WHERE n:Person OR n:InvestigationTarget
+        WHERE n:Person OR n:Topic OR n:Organization OR n:Place OR n:InvestigationTarget
         RETURN labels(n) AS labels, n.id AS id, n.canonical_name AS canonical_name,
                n.name AS name, n.aliases AS aliases
         ORDER BY n.id
@@ -65,7 +65,7 @@ def section_graph() -> str:
     driver.close()
 
     if not rows:
-        lines.append("*(no Person / InvestigationTarget nodes)*\n\n")
+        lines.append("*(no Person / Topic / Organization / Place nodes)*\n\n")
         return "".join(lines)
 
     lines.append("| id | labels | canonical_name | name | aliases |\n")

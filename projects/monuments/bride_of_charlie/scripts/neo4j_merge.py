@@ -248,7 +248,12 @@ def main():
     parser.add_argument("--auto", action="store_true", help="Auto-merge without prompts (keep lower ID)")
     parser.add_argument("--threshold", type=int, default=3, help="Levenshtein distance threshold (default: 3)")
     parser.add_argument("--dry-run", action="store_true", help="Show what would be merged without making changes")
-    parser.add_argument("--node-type", choices=["Person", "InvestigationTarget", "all"], default="all", help="Node type to check")
+    parser.add_argument(
+        "--node-type",
+        choices=["Person", "Topic", "Organization", "Place", "InvestigationTarget", "all"],
+        default="all",
+        help="Node type to check",
+    )
     args = parser.parse_args()
     
     print(f"[neo4j-merge] Connecting to {NEO4J_URI}...")
@@ -260,7 +265,11 @@ def main():
         print("Make sure Neo4j is running: docker compose up -d")
         sys.exit(1)
     
-    node_types = ["Person", "InvestigationTarget"] if args.node_type == "all" else [args.node_type]
+    node_types = (
+        ["Person", "Topic", "Organization", "Place", "InvestigationTarget"]
+        if args.node_type == "all"
+        else [args.node_type]
+    )
     
     all_duplicates = []
     

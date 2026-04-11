@@ -1,0 +1,70 @@
+{
+  "source": "transcript_corrected_quality_review",
+  "itemCount": 16,
+  "items": [
+    {
+      "findingId": "ep001-closing-financing",
+      "implementText": ""
+    },
+    {
+      "findingId": "ep001-sear-typo",
+      "implementFile": "reports/qf/ep001_sear.txt"
+    },
+    {
+      "findingId": "ep002-nimi-sponsor",
+      "implementFile": "reports/qf/ep002_nimi.txt"
+    },
+    {
+      "findingId": "ep002-policy-frantzve",
+      "implementText": "[12:25] Look at Dr. Jerry Frantzve. I'm going to\n[12:26] tell you about Dr. Jerry Frantzve. She\n[12:28] keeps her name, she also dies in\n[12:30] Arizona there. Everybody's in Arizona.\n[12:32] You would have no idea that these people"
+    },
+    {
+      "findingId": "ep003-open-loretta",
+      "implementFile": "reports/qf/ep003_open.txt"
+    },
+    {
+      "findingId": "ep003-preborn-mid",
+      "implementFile": "reports/qf/ep003_preborn.txt"
+    },
+    {
+      "findingId": "ep004-khazarian-long",
+      "implementText": ""
+    },
+    {
+      "findingId": "ep004-preborn-snippet",
+      "implementText": "[27:25] A little bit of history."
+    },
+    {
+      "findingId": "ep004-butterbee",
+      "implementFile": "reports/qf/ep004_butterbee.txt"
+    },
+    {
+      "findingId": "ep005-nimi-thrive-purge",
+      "implementText": ""
+    },
+    {
+      "findingId": "ep006-supercalifrag",
+      "implementFile": "reports/qf/ep006_super.txt"
+    },
+    {
+      "findingId": "ep006-preborn-financing",
+      "implementFile": "reports/qf/ep006_preborn.txt"
+    },
+    {
+      "findingId": "ep007-nimi-dose",
+      "implementText": ""
+    },
+    {
+      "findingId": "ep007-sex-cells",
+      "implementFile": "reports/qf/ep007_sex.txt"
+    },
+    {
+      "findingId": "ep007-gika-popa",
+      "implementFile": "reports/qf/ep007_gika.txt"
+    },
+    {
+      "findingId": "ep007-forward-ellipsis",
+      "implementFile": "reports/qf/ep007_fwd.txt"
+    }
+  ]
+}

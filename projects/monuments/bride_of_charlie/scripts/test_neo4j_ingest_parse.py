@@ -4,10 +4,25 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from neo4j_ingest import parse_id_list, extract_claims, extract_artifacts
+from neo4j_ingest import (
+    parse_id_list,
+    extract_claims,
+    extract_artifacts,
+    extract_org_relationship_lines,
+    extract_topic_mention_lines,
+    resolve_draft_graph_node_id,
+    resolve_related_graph_node_ids,
+)
 
 
 def main():
+    m = {"N-33": "N-2"}
+    assert resolve_draft_graph_node_id("N-33", m) == "N-2"
+    assert resolve_draft_graph_node_id("N-99", m) == "N-99"
+    assert resolve_draft_graph_node_id("A-1", m) == "A-1"
+    gset = {"N-2"}
+    assert resolve_related_graph_node_ids(["N-33", "N-2"], m, gset) == ["N-2"]
+
     assert parse_id_list("A-1001.2, C-1003, N-5") == ["A-1001.2", "C-1003", "N-5"]
     assert parse_id_list("C-1, same_as: A-2.1") == ["C-1", "A-2.1"]
 
@@ -21,6 +36,8 @@ Anchored Artifacts: A-100.1
 Related Nodes: N-1
 Contradicts: C-101
 Supports: C-99
+Qualifies: C-102
+Sensitive Tags: fraud, trafficking
 Confidence: low
 Uncertainty: Might be wrong.
 Investigative Direction: Check sources.
@@ -32,6 +49,8 @@ Investigative Direction: Check sources.
     assert c["transcript_snippet"] == "Exact words from video."
     assert c["contradicts_claims"] == ["C-101"]
     assert c["supports_claims"] == ["C-99"]
+    assert c["qualifies_claims"] == ["C-102"]
+    assert c["sensitive_topic_tags"] == ["fraud", "trafficking"]
     assert c["confidence"] == "low"
     assert "wrong" in (c.get("uncertainty_note") or "")
 
@@ -49,6 +68,17 @@ Uncertainty: blurry.
     assert a["id"] == "A-10.1"
     assert a["transcript_snippet"] == "shown on screen."
     assert a["confidence"] == "medium"
+
+    ext = """
+## 8. Organization Network
+OrgLink: N-101 subsidiary_of N-102
+## 12. Topic Threading
+TopicMention: C-100 N-1000
+""".strip()
+    orgs = extract_org_relationship_lines(ext)
+    assert len(orgs) == 1 and orgs[0]["relation"] == "subsidiary_of"
+    tm = extract_topic_mention_lines(ext)
+    assert tm == [{"claim_id": "C-100", "topic_id": "N-1000"}]
 
     print("OK  neo4j_ingest parse tests passed.")
 

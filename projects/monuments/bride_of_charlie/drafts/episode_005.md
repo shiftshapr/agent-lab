@@ -7,7 +7,7 @@
 - **Video Timestamp Range**: 00:01–01:03:57
 - **Extraction Timestamp (UTC)**: 2026-03-20T22:19:01Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: ca47752de17e24675b4202bdf5fb5f5474862bf791adf79843bf9ce04fdceae4
+- **Transcript SHA-256**: dee38f7aba45deebc027bdf4cdc9e5e1daf95871669c68845ae2f59ad25a07c8
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1020, A-1021, A-1022, A-1023, A-1024, A-1025, A-1026, A-1027, A-1028
@@ -151,6 +151,7 @@ Confidence: medium
 
 **N-1** Charlie Kirk
 
+Node Type: Person
 Primary investigation subject - founder of Turning Point USA, deceased
 
 *Related: A-1025.1, A-1026.1, C-1058, C-1059*
@@ -159,6 +160,7 @@ Primary investigation subject - founder of Turning Point USA, deceased
 
 **N-2** Erika Kirk
 
+Node Type: Person
 Primary subject - Charlie Kirk's widow, subject of birth records and timeline investigation
 
 *Related: A-1020.1, A-1021.1, A-1022.1, A-1022.2, A-1023.1, A-1024.2, A-1026.1, A-1028.2, C-1039, C-1056, C-1059*
@@ -167,6 +169,7 @@ Primary subject - Charlie Kirk's widow, subject of birth records and timeline in
 
 **N-3** Lori Frantzve
 
+Node Type: Person
 Erika's mother - runs E3 Tech, multiple LLCs, connected to military contracts
 
 *Related: A-1021.1, A-1022.1, A-1022.2, A-1023.1, A-1028.1, A-1028.2, C-1042, C-1043, C-1044, C-1045, C-1046*
@@ -175,6 +178,7 @@ Erika's mother - runs E3 Tech, multiple LLCs, connected to military contracts
 
 **N-12** Dr. Jerry Frantzve
 
+Node Type: Person
 Tesaract school founder/psychologist, conducted Eastern Europe research in 1990
 
 *Related: A-1020.1, A-1020.2, C-1040, C-1041, C-1056*
@@ -183,6 +187,7 @@ Tesaract school founder/psychologist, conducted Eastern Europe research in 1990
 
 **N-20** Nancy Gerard Hall
 
+Node Type: Person
 Tesaract principal with strong military ties - father was Colonel Paul Tracy Gerard
 
 *Related: A-1020.2, C-1041*
@@ -191,6 +196,7 @@ Tesaract principal with strong military ties - father was Colonel Paul Tracy Ger
 
 **N-13** Tyler Bowyer
 
+Node Type: Person
 Erika's eventual husband, was in Romania 2010 working with Romanian Parliament
 
 *Related: A-1024.2, A-1026.1, C-1051, C-1052, C-1057*
@@ -199,6 +205,7 @@ Erika's eventual husband, was in Romania 2010 working with Romanian Parliament
 
 **N-16** Richard Erpenbeck
 
+Node Type: Person
 Uncle Rick - lost law license in 2009 for professional negligence involving mortgage fraud
 
 *Related: A-1027.1, C-1053, C-1054, C-1055*
@@ -207,6 +214,7 @@ Uncle Rick - lost law license in 2009 for professional negligence involving mort
 
 **N-21** Jeffrey Epstein
 
+Node Type: Person
 Deceased sex offender with documented Romanian connections in 2009 emails
 
 *Related: A-1025.1, C-1050, C-1048*
@@ -215,6 +223,7 @@ Deceased sex offender with documented Romanian connections in 2009 emails
 
 **N-22** Colonel Otto Busher
 
+Node Type: Person
 Accused of running brothel and human trafficking ring from Romanian base 2010-2015
 
 *Related: A-1024.2, C-1049*
@@ -223,6 +232,8 @@ Accused of running brothel and human trafficking ring from Romanian base 2010-20
 
 **N-1017** Erika Kirk Missing Years 2000-2002
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Gap in documented school attendance - no records of where Erika was during these years
 
 *Related: A-1020.1, C-1039*
@@ -231,6 +242,8 @@ Gap in documented school attendance - no records of where Erika was during these
 
 **N-1018** E3 Tech Military Contracts
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Lori Frantzve's company used for Operation Enduring Freedom, received DHS funding
 
 *Related: A-1021.1, A-1022.1, A-1022.2, C-1043, C-1044, C-1045*
@@ -239,6 +252,8 @@ Lori Frantzve's company used for Operation Enduring Freedom, received DHS fundin
 
 **N-1019** Romanian Base Trafficking Connection
 
+Node Type: Topic
+Topic Kind: legacy_theme
 US base establishment in Romania 2010 coincides with Epstein interest and trafficking allegations
 
 *Related: A-1024.1, A-1024.2, A-1025.1, C-1048, C-1049, C-1047*

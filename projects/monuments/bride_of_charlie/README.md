@@ -14,8 +14,11 @@ First monument project. Uses the Episode Analysis Protocol for structured invest
 - **protocol_updates/** — Change log with reasons
 - **scripts/** — Workflow scripts (fetch, ingest, validate)
 - **logs/** — Run logs
+- **docs/COMMUNICATIONS_AND_DIA.md** — Public messaging, DIA framing, YouTube copy variants, OpenClaw promotion playbook (also linked from OpenClaw `workspace/docs/`)
+- **docs/PRISTINE_EP1_7_RUNBOOK.md** — Checklist: transcripts → inscription JSON → Neo4j for a clean ep 1–7 milestone
+- **docs/ORG_PLACE_RELATIONSHIPS_EP1_7_SCAN.md** — Org subtypes, places, relationship patterns (ep 1–7 inscription scan); `scripts/scan_episode_relationship_patterns.py` to re-run heuristics
 
-See **WORKFLOW.md** for the full process.
+See **WORKFLOW.md** for the full process. For an end-to-end checklist with **plain-text (ASCII) diagrams** of the scripted workflow and the **Neo4j** shape, see **IDEAL_WORKFLOW.md**.
 
 ## Usage
 

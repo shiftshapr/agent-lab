@@ -19,6 +19,11 @@ Steps: fetch | corrected | episodes | verify | cross | validate | inscription-va
   --force        Re-run episode analysis even if drafts exist (use when drafts are wrong/incomplete)
   --skip-search  Skip name spelling verification via DuckDuckGo
   --validate     Run Neo4j integrity validation after workflow completes
+
+Telegram (optional): set TELEGRAM_* in agent-lab ``.env`` or ``~/.openclaw/.env`` (merged).
+After two-phase Phase 2, ``notify_completion`` sends one message per episode (or only
+indices in ``EPISODE_ANALYSIS_ONLY`` when set). Single-phase runs send a short “draft written”
+ping. Set BRIDE_NOTIFY_TELEGRAM=0 to disable. Smoke: ``python3 scripts/notify_completion.py --smoke``.
 """
 
 from __future__ import annotations

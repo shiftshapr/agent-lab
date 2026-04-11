@@ -37,10 +37,23 @@ NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "openclaw")
 
 VALIDATION_QUERIES = {
     "claims_without_artifact_anchor": {
-        "description": "Claims with no artifact anchor (violates Artifact Anchor Test)",
+        "description": "Substantiated claims with no artifact anchor (expected anchored)",
         "query": """
             MATCH (c:Claim)
-            WHERE NOT (:Artifact)-[:ANCHORS]->(c)
+            WHERE coalesce(c.substantiated, true) = true
+            AND NOT (:Artifact)-[:ANCHORS]->(c)
+            RETURN c.id AS claim_id, c.label AS claim_label, c.episode_num AS episode
+            ORDER BY c.id
+        """,
+        "severity": "CRITICAL",
+    },
+    "unsubstantiated_claims_without_entity_link": {
+        "description": "Unsubstantiated claims with neither INVOLVES nor MENTIONS_TOPIC",
+        "query": """
+            MATCH (c:Claim)
+            WHERE c.substantiated = false
+            AND NOT (c)-[:INVOLVES]->()
+            AND NOT (c)-[:MENTIONS_TOPIC]->()
             RETURN c.id AS claim_id, c.label AS claim_label, c.episode_num AS episode
             ORDER BY c.id
         """,
@@ -60,26 +73,30 @@ VALIDATION_QUERIES = {
         "description": "Nodes with zero evidence (no artifacts or claims reference them)",
         "query": """
             MATCH (n)
-            WHERE (n:Person OR n:InvestigationTarget)
+            WHERE (n:Person OR n:Topic OR n:Organization OR n:Place OR n:InvestigationTarget)
             AND NOT ()-[:INVOLVES]->(n)
             AND NOT ()-[:ANCHORS]->(n)
-            RETURN n.id AS node_id, n.name AS name, labels(n)[0] AS node_type
+            AND NOT ()-[:MENTIONS_TOPIC]->(n)
+            RETURN n.id AS node_id,
+                   coalesce(n.canonical_name, n.name) AS name,
+                   labels(n)[0] AS node_type
             ORDER BY n.id
         """,
         "severity": "WARNING",
     },
     "claims_without_nodes": {
-        "description": "Claims with no related nodes (violates protocol requirement)",
+        "description": "Claims with no INVOLVES and no MENTIONS_TOPIC (no entity link)",
         "query": """
             MATCH (c:Claim)
             WHERE NOT (c)-[:INVOLVES]->()
+            AND NOT (c)-[:MENTIONS_TOPIC]->()
             RETURN c.id AS claim_id, c.label AS claim_label, c.episode_num AS episode
             ORDER BY c.id
         """,
         "severity": "CRITICAL",
     },
-    # Note: ingest stores anchors/nodes as relationships only (no Claim string props).
-    # Broken ID references are prevented at ingest time; structural checks above cover orphans.
+    # Claim.substantiated: true = artifact-anchored ingest; false = verbal (INVOLVES and/or TopicMention).
+    # Omitted on legacy nodes is treated as true (coalesce above).
 }
 
 # ---------------------------------------------------------------------------
@@ -93,6 +110,9 @@ STATS_QUERIES = {
     "total_claims": "MATCH (c:Claim) RETURN count(c) AS count",
     "total_people": "MATCH (p:Person) RETURN count(p) AS count",
     "total_investigation_targets": "MATCH (it:InvestigationTarget) RETURN count(it) AS count",
+    "total_topics": "MATCH (t:Topic) RETURN count(t) AS count",
+    "total_organizations": "MATCH (o:Organization) RETURN count(o) AS count",
+    "total_places": "MATCH (p:Place) RETURN count(p) AS count",
     "total_anchors_relationships": "MATCH ()-[r:ANCHORS]->() RETURN count(r) AS count",
     "total_involves_relationships": "MATCH ()-[r:INVOLVES]->() RETURN count(r) AS count",
 }
@@ -106,6 +126,9 @@ ID_RANGE_QUERIES = {
     "claims": "MATCH (c:Claim) RETURN c.id AS id ORDER BY c.id",
     "people": "MATCH (p:Person) RETURN p.id AS id ORDER BY p.id",
     "investigation_targets": "MATCH (it:InvestigationTarget) RETURN it.id AS id ORDER BY it.id",
+    "topics": "MATCH (t:Topic) RETURN t.id AS id ORDER BY t.id",
+    "organizations": "MATCH (o:Organization) RETURN o.id AS id ORDER BY o.id",
+    "places": "MATCH (p:Place) RETURN p.id AS id ORDER BY p.id",
 }
 
 # ---------------------------------------------------------------------------
@@ -182,7 +205,7 @@ def compute_investigative_pressure(driver):
     
     query = """
         MATCH (n)
-        WHERE n:Person OR n:InvestigationTarget
+        WHERE n:Person OR n:Topic OR n:Organization OR n:Place OR n:InvestigationTarget
         OPTIONAL MATCH (a:Artifact)-[:INVOLVES]->(n)
         OPTIONAL MATCH (c:Claim)-[:INVOLVES]->(n)
         OPTIONAL MATCH (n)-[:APPEARS_IN]->(e:Episode)

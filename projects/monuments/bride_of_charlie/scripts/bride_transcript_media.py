@@ -14,6 +14,18 @@ from typing import Any
 
 PROJECT_DIR = Path(__file__).resolve().parent.parent
 
+
+def primary_episode_transcript_path(project: Path, episode: int) -> Path | None:
+    """transcripts_corrected/ when present, else inscription transcript."""
+    corr = sorted((project / "transcripts_corrected").glob(f"episode_{int(episode):03d}_*.txt"))
+    if corr:
+        return corr[0]
+    ins = project / "inscription" / f"episode_{int(episode):03d}_transcript.txt"
+    if ins.is_file():
+        return ins
+    return None
+
+
 _CAPTION = re.compile(r"\[(\d{1,2}):(\d{2})(?::(\d{2}))?\]")
 
 _FLAG = {
@@ -48,6 +60,28 @@ def video_id_for_episode(episode: int, project: Path | None = None) -> str | Non
     return None
 
 
+def find_episode_audio_file(episode: int, project: Path | None = None) -> Path | None:
+    """
+    Optional per-episode audio files next to the project.
+
+    Populate from the same URLs as ``input/youtube_links.txt`` using
+    ``scripts/fetch_episode_audio_from_youtube.py`` (see docs/EPISODE_AUDIO_FROM_VIDEO.md).
+
+    Convention: ``input/audio/episode_NNN.<ext>`` (``.m4a``, ``.mp3``, …).
+    Served by Draft Editor at ``GET /api/bride/episode/<n>/audio`` when present.
+    """
+    project = project or PROJECT_DIR
+    adir = project / "input" / "audio"
+    if not adir.is_dir():
+        return None
+    stem = f"episode_{int(episode):03d}"
+    for ext in (".m4a", ".mp3", ".opus", ".webm", ".ogg", ".wav", ".aac"):
+        p = adir / (stem + ext)
+        if p.is_file():
+            return p
+    return None
+
+
 def last_caption_before(text: str, pos: int) -> tuple[int | None, str | None]:
     """Return (seconds_since_start, bracket_label) for last [M:SS] or [H:M:SS] before pos."""
     best: tuple[int, int, str] | None = None  # start, seconds, label
@@ -70,7 +104,9 @@ def youtube_urls(video_id: str, start_seconds: int | None) -> dict[str, str]:
     watch = f"https://www.youtube.com/watch?v={video_id}"
     if t > 0:
         watch += f"&t={t}s"
-    embed = f"https://www.youtube-nocookie.com/embed/{video_id}"
+    # youtube.com embed tends to behave better than nocookie in Safari / strict ITP
+    # (nocookie still triggers blocked analytics XHR in the console; harmless noise).
+    embed = f"https://www.youtube.com/embed/{video_id}"
     if t > 0:
         embed += f"?start={t}&autoplay=0"
     else:
@@ -147,18 +183,42 @@ def media_bundle_for_position(
     match_offset: int | None,
     project: Path | None = None,
 ) -> dict[str, Any]:
-    vid = video_id_for_episode(episode, project)
+    proj = project or PROJECT_DIR
+    audio_path = find_episode_audio_file(episode, proj)
+    vid = video_id_for_episode(episode, proj)
+
+    def _audio_meta(start_sec: int | None) -> dict[str, Any] | None:
+        if not audio_path:
+            return None
+        t = max(0, int(start_sec)) if start_sec is not None else 0
+        return {
+            "filename": audio_path.name,
+            "url": f"/api/bride/episode/{int(episode)}/audio",
+            "start_seconds": t,
+        }
+
     if not vid:
-        return {"video_id": None, "youtube": None, "caption": None}
+        return {"video_id": None, "youtube": None, "caption": None, "audio": _audio_meta(0)}
     if match_offset is None or match_offset < 0:
-        return {"video_id": vid, "youtube": youtube_urls(vid, 0), "caption": None}
+        return {
+            "video_id": vid,
+            "youtube": youtube_urls(vid, 0),
+            "caption": None,
+            "audio": _audio_meta(0),
+        }
     sec, cap = last_caption_before(text, match_offset)
     if sec is None:
-        return {"video_id": vid, "youtube": youtube_urls(vid, 0), "caption": None}
+        return {
+            "video_id": vid,
+            "youtube": youtube_urls(vid, 0),
+            "caption": None,
+            "audio": _audio_meta(0),
+        }
     return {
         "video_id": vid,
         "youtube": youtube_urls(vid, sec),
         "caption": {"label": cap, "seconds": sec},
+        "audio": _audio_meta(sec),
     }
 
 
@@ -188,9 +248,10 @@ def enrich_preview(
 
 def scan_episode_inscription(episode: int, project: Path | None = None) -> dict[str, Any]:
     project = project or PROJECT_DIR
-    path = project / "inscription" / f"episode_{int(episode):03d}_transcript.txt"
-    if not path.is_file():
-        return {"error": "missing_inscription_transcript", "path": str(path), "findings": []}
+    path = primary_episode_transcript_path(project, int(episode))
+    if path is None or not path.is_file():
+        fb = project / "inscription" / f"episode_{int(episode):03d}_transcript.txt"
+        return {"error": "missing_episode_transcript", "path": str(path or fb), "findings": []}
     text = path.read_text(encoding="utf-8")
     vid = video_id_for_episode(int(episode), project)
     findings = scan_text(text, max_findings=200)

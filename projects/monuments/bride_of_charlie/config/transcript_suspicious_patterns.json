@@ -52,6 +52,20 @@
       "suggestion": "Erika Frantzve"
     },
     {
+      "id": "france_divorced_erika",
+      "regex": "\\bFrance divorced Erika",
+      "flags": ["IGNORECASE"],
+      "hint": "Surname STT after Lori Frantzve context — not the country",
+      "suggestion": "Frantzve divorced Erika"
+    },
+    {
+      "id": "emmanuel_mcronone",
+      "regex": "\\bEmanuel\\s+Mcronone\\b",
+      "flags": ["IGNORECASE"],
+      "hint": "STT for Emmanuel Macron",
+      "suggestion": "Emmanuel Macron"
+    },
+    {
       "id": "jerry_france",
       "regex": "\\bDr\\.?\\s*Jerry France\\b|\\bJerry France\\b",
       "flags": ["IGNORECASE"],

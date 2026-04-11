@@ -1,0 +1,517 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 3,
+    "source": "Candace Owens YouTube",
+    "video_timestamp_range": "00:01–01:07:50",
+    "extraction_timestamp": "2026-03-20T21:42:49Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "6a981dd4ca8ea9cb09c53982b232505c08a145d433ae451f6082f20b26812fd4"
+  },
+  "executive_summary": "Episode 3 focuses on Lori Frantzve (Erika Kirk's mother) and her connections to the Erpenbeck family, who were involved in a massive Ohio/Kentucky fraud scandal in the early 2000s. The episode presents evidence that Richard Erpenbeck was a witness to Lori and Kent's divorce documents, and that Lori has used multiple LLCs with Erpenbeck family members as notaries/incorporators. The episode also traces Erika's timeline through pageants and education, with claims about discrepancies in her narrative.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1011",
+      "family_ref": "A-1011",
+      "bundle_name": "Erpenbeck Court Documents",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1011.1",
+          "ref": "A-1011.1",
+          "description": "Divorce documents for Lori and Kent with Richard Erpenbeck as witness",
+          "video_timestamp": "04:07–04:10",
+          "related_claims": [
+            "C-1024",
+            "C-1025"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-16"
+          ],
+          "tags": [
+            "court_filing"
+          ],
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1011.2",
+          "ref": "A-1011.2",
+          "description": "News clips about Erpenbeck family fraud case",
+          "video_timestamp": "09:35–09:41",
+          "related_claims": [
+            "C-1026"
+          ],
+          "related_nodes": [
+            "N-16",
+            "N-13"
+          ],
+          "tags": [
+            "news_clip"
+          ],
+          "confidence": "high",
+          "transcript_snippet": "Erpenbeck served 21 years after pleading guilty to defrauding banks of $34 million."
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1012",
+      "family_ref": "A-1012",
+      "bundle_name": "Lori Frantzve Business Filings",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1012.1",
+          "ref": "A-1012.1",
+          "description": "LLC filings showing Richard/Donna Erpenbeck as notary/incorporator across multiple businesses",
+          "video_timestamp": "05:45–06:47",
+          "related_claims": [
+            "C-1027"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-16"
+          ],
+          "tags": [
+            "business_records"
+          ],
+          "confidence": "medium",
+          "transcript_snippet": "This is Lori, which feature Richard or Donna Erpenbeck as the secretary, the incorporator, the notary across a 25 year period."
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1013",
+      "family_ref": "A-1013",
+      "bundle_name": "Erika Timeline Documents",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1013.1",
+          "ref": "A-1013.1",
+          "description": "Deed documents from Marblehead, Massachusetts showing Lori and Kent",
+          "video_timestamp": "27:59–28:24",
+          "related_claims": [
+            "C-1029"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-3"
+          ],
+          "tags": [
+            "property_record"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1013.2",
+          "ref": "A-1013.2",
+          "description": "Regis University basketball records showing Erika played only 2007-2008",
+          "video_timestamp": "39:26–39:32",
+          "related_claims": [
+            "C-1030"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [
+            "academic_record"
+          ],
+          "confidence": "high",
+          "transcript_snippet": "Regis University still has her basketball stat page up and they're on my side. They say they only have a record of her playing for from 2007 to 2008."
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1013.3",
+          "ref": "A-1013.3",
+          "description": "Erika's 2020 interview where she admits to 8-month hiatus",
+          "video_timestamp": "40:45–41:29",
+          "related_claims": [
+            "C-1031"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [
+            "interview"
+          ],
+          "confidence": "medium",
+          "transcript_snippet": "I locked myself in my room basically turned into a hermit for about a good eight months."
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-11",
+      "ref": "N-11",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the Bride of Charlie investigation series",
+      "related_artifacts": [
+        "A-1011.1",
+        "A-1011.2",
+        "A-1012.1",
+        "A-1013.1",
+        "A-1013.2",
+        "A-1013.3"
+      ],
+      "related_claims": [],
+      "tags": [
+        "host",
+        "key_figure"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Primary subject of investigation, daughter of Lori Frantzve",
+      "related_artifacts": [
+        "A-1013.1",
+        "A-1013.2",
+        "A-1013.3"
+      ],
+      "related_claims": [
+        "C-1029",
+        "C-1030",
+        "C-1031",
+        "C-1032",
+        "C-1033"
+      ],
+      "tags": [
+        "primary_subject"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Lori Frantzve",
+      "type": "person",
+      "description": "Erika's mother, involved in multiple businesses and the Erpenbeck family scandal",
+      "related_artifacts": [
+        "A-1011.1",
+        "A-1012.1",
+        "A-1013.1"
+      ],
+      "related_claims": [
+        "C-1024",
+        "C-1025",
+        "C-1027",
+        "C-1028",
+        "C-1029"
+      ],
+      "tags": [
+        "key_figure"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Richard Erpenbeck",
+      "type": "person",
+      "description": "Witness to Lori's divorce documents, member of Erpenbeck family involved in fraud case",
+      "related_artifacts": [
+        "A-1011.1",
+        "A-1011.2",
+        "A-1012.1"
+      ],
+      "related_claims": [
+        "C-1024",
+        "C-1025",
+        "C-1026",
+        "C-1027"
+      ],
+      "tags": [
+        "witness"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-13",
+      "ref": "N-13",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "COO of Turning Point Action, business partner with Lori at Super Feed Technologies",
+      "related_claims": [
+        "C-1028"
+      ],
+      "tags": [
+        "key_figure"
+      ],
+      "related_artifacts": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1012",
+      "ref": "N-1012",
+      "name": "Erpenbeck fraud pattern — Lori LLCs & notaries",
+      "type": "investigation_target",
+      "description": "Erpenbeck family thread: fraud pattern around Lori’s LLCs and notary/incorporator ties to the same family. Notary testimony names Bill Erpenbeck (Rick Erpenbeck’s brother) re absent signers. Legal/document spelling: Erpenbeck. Video captions/STT often garbled Erpenbeck; treat as caption drift. Richard Erpenbeck appears as witness on related docs.",
+      "related_artifacts": [
+        "A-1011.1",
+        "A-1011.2",
+        "A-1012.1"
+      ],
+      "related_claims": [
+        "C-1026",
+        "C-1027",
+        "C-1024",
+        "C-1025",
+        "C-1028"
+      ],
+      "tags": [
+        "fraud_target"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1013",
+      "ref": "N-1013",
+      "name": "Erika Timeline Discrepancies",
+      "type": "investigation_target",
+      "description": "Inconsistencies between Erika's claimed narrative and documented records",
+      "related_artifacts": [
+        "A-1013.2",
+        "A-1013.3"
+      ],
+      "related_claims": [
+        "C-1030",
+        "C-1031",
+        "C-1032",
+        "C-1033"
+      ],
+      "tags": [
+        "discrepancy_target"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1024",
+      "ref": "C-1024",
+      "label": "Richard Erpenbeck Witnessed Divorce Docs",
+      "claim_timestamp": "04:07",
+      "claim": "Richard Erpenbeck was listed as the witness on Lori and Kent's divorce documents.",
+      "anchored_artifacts": [
+        "A-1011.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-16",
+        "N-1012"
+      ],
+      "investigative_direction": "Verify if Richard Erpenbeck was properly notarized as witness.",
+      "tags": [
+        "falsifiable"
+      ],
+      "confidence": "high",
+      "transcript_snippet": "That witness, his name is Richard Erpenbeck."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1025",
+      "ref": "C-1025",
+      "label": "Unauthorized Notarization Pattern",
+      "claim_timestamp": "13:21",
+      "claim": "The divorce documents contained unauthorized notarization where signers were not present (notary: Bill Erpenbeck sometimes asked for notarizations when signers were absent, per ep3 transcript ~12:55–13:16).",
+      "anchored_artifacts": [
+        "A-1011.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-16",
+        "N-1012"
+      ],
+      "investigative_direction": "Compare notarization dates with physical presence requirements.",
+      "tags": [
+        "falsifiable"
+      ],
+      "confidence": "medium",
+      "transcript_snippet": "She said Bill Erpenbeck sometimes asked her to notoriize documents from the people who supposedly had signed them were not in her presence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1026",
+      "ref": "C-1026",
+      "label": "Erpenbeck Family Fraud Convictions",
+      "claim_timestamp": "09:35",
+      "claim": "The Erpenbeck family was involved in a massive fraud scheme defrauding banks of $34 million.",
+      "anchored_artifacts": [
+        "A-1011.2"
+      ],
+      "related_nodes": [
+        "N-16",
+        "N-1012"
+      ],
+      "investigative_direction": "Review court records for conviction details.",
+      "tags": [
+        "falsifiable"
+      ],
+      "confidence": "high",
+      "transcript_snippet": "Erpenbeck served 21 years after pleading guilty to defrauding banks of $34 million."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1027",
+      "ref": "C-1027",
+      "label": "Lori LLC Network with Erpenbeck family",
+      "claim_timestamp": "05:45",
+      "claim": "Lori filed multiple LLCs using Richard and Donna Erpenbeck as notary and incorporator over 25 years.",
+      "anchored_artifacts": [
+        "A-1012.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-16",
+        "N-1012"
+      ],
+      "investigative_direction": "Review Secretary of State records for all LLC filings.",
+      "tags": [
+        "falsifiable"
+      ],
+      "confidence": "high",
+      "transcript_snippet": "This is Lori, which feature Richard or Donna Erpenbeck as the secretary, the incorporator, the notary across a 25 year period."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1028",
+      "ref": "C-1028",
+      "label": "Lori and Tyler Bowyer Business Partnership",
+      "claim_timestamp": "00:34",
+      "claim": "Lori Frantzve was put on the board of Super Feed Technologies alongside Tyler Bowyer, Turning Point Actions COO.",
+      "anchored_artifacts": [
+        "A-1012.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-13",
+        "N-1012"
+      ],
+      "investigative_direction": "Verify Super Feed Technologies board composition.",
+      "tags": [
+        "falsifiable"
+      ],
+      "confidence": "medium",
+      "transcript_snippet": "Lori Frantzve, despite being ill, has recently been put on the board of Super Feed Technologies alongside Turning Point Actions COO Tyler Bowyer."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1029",
+      "ref": "C-1029",
+      "label": "Lori and Kent Listed as Rhode Island Couple",
+      "claim_timestamp": "28:11",
+      "claim": "Property deeds show Lori and Kent listing themselves as from North Kingstown, Rhode Island.",
+      "anchored_artifacts": [
+        "A-1013.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-3"
+      ],
+      "investigative_direction": "Verify if Lori and Kent ever actually lived in Rhode Island.",
+      "tags": [
+        "falsifiable"
+      ],
+      "confidence": "medium",
+      "transcript_snippet": "Lori and Kent are listing as having been a couple from Rhode Island."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1030",
+      "ref": "C-1030",
+      "label": "Erika Basketball at Regis Only One Season",
+      "claim_timestamp": "39:26",
+      "claim": "Regis University records show Erika played basketball only for the 2007-2008 season, contradicting her claim of two years.",
+      "anchored_artifacts": [
+        "A-1013.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1013"
+      ],
+      "investigative_direction": "Obtain official athletic department records from Regis University.",
+      "tags": [
+        "falsifiable"
+      ],
+      "confidence": "high",
+      "transcript_snippet": "Regis University still has her basketball stat page up and they're on my side. They say they only have a record of her playing for from 2007 to 2008."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1031",
+      "ref": "C-1031",
+      "label": "Erika 8-Month Hiatus Claim",
+      "claim_timestamp": "40:45",
+      "claim": "Erika claims she isolated herself for 8 months after giving up her crown, seeing only her pastor's wife.",
+      "anchored_artifacts": [
+        "A-1013.3"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1013"
+      ],
+      "investigative_direction": "Verify if college student could realistically have such isolation.",
+      "tags": [
+        "falsifiable"
+      ],
+      "confidence": "medium",
+      "transcript_snippet": "I locked myself in my room basically turned into a hermit for about a good eight months. The only person I would see outside of my family was my pastor's wife."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1032",
+      "ref": "C-1032",
+      "label": "Erika Dating History Contradiction",
+      "claim_timestamp": "54:41",
+      "claim": "Erika claims she didn't date anyone in NYC for 5 years before meeting Charlie, but evidence shows she had boyfriends during that period.",
+      "anchored_artifacts": [
+        "A-1013.3"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1013"
+      ],
+      "investigative_direction": "Obtain social media records and witness testimony for Erika's dating history 2013-2018.",
+      "tags": [
+        "falsifiable"
+      ],
+      "confidence": "medium",
+      "transcript_snippet": "I was here for 5 years. I never dated here."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1033",
+      "ref": "C-1033",
+      "label": "Erika Pageant Timeline",
+      "claim_timestamp": "33:42",
+      "claim": "Erika competed in beauty pageants from 2005 through 2012, totaling seven years of pageantry.",
+      "anchored_artifacts": [
+        "A-1013.3"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1013"
+      ],
+      "investigative_direction": "Review pageant competition records from 2005-2012.",
+      "tags": [
+        "falsifiable"
+      ],
+      "confidence": "high",
+      "transcript_snippet": "The reality is that every single year from 2005 through to 2012, Erika was involved in beauty pageants."
+    }
+  ]
+}

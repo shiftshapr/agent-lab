@@ -232,7 +232,7 @@ Create a node when the thing is:
 - a relationship requiring verification
 - an institution or entity repeatedly involved
 - a persistent unresolved target
-- **a named government program, agency initiative, or institutional program** (e.g. **MK Ultra**, a **CIA** program such as **Project Looking Glass**, a legislative or military program) when the episode discusses it **substantively** — **even a single mention in the series**. Recurrence across episodes is **not** required. Use **`InvestigationTarget`** (or **`institution`** when the schema calls for it) with a clear **`name`** and link claims/artifacts to that node.
+- **a named government program, agency initiative, or institutional program** (e.g. **MK Ultra**, a **CIA** program such as **Project Looking Glass**, a legislative or military program) when the episode discusses it **substantively** — **even a single mention in the series**. Recurrence across episodes is **not** required. In Phase 1 JSON use **`Organization`** + **`organization`** (or legacy **`institution`**) for bodies/programs/schools-as-entities; use **`Topic`** + **`topic`** for pure discrepancy or verification threads; use **`Place`** + **`place`** for locations that are first-class entities. Legacy **`InvestigationTarget`** is still accepted and maps in the pipeline.
 
 ## Programs vs memes
 - **Nodes** hold **named, investigable entities** (people, institutions, **programs**, discrepancies).

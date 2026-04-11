@@ -425,18 +425,52 @@ def ingest_phase1_dir(phase1_dir: Path) -> int:
                     edge_count += 1
                     continue  # Don't add until human resolves
 
-            # New node
-            if "investigation" in str(ntype).lower() or (ref and re.match(r"NODE_1\d{3}", ref)):
+            # New node — N-1000+ ledger for any non-person graph entity
+            atype = str(node.get("@type") or "")
+            ntype_s = str(ntype).lower()
+            is_high = (
+                ntype_s
+                in (
+                    "investigation_target",
+                    "institution",
+                    "topic",
+                    "organization",
+                    "place",
+                )
+                or atype
+                in ("Topic", "Organization", "Place", "InvestigationTarget")
+                or (ref and re.match(r"NODE_1\d{3}", ref))
+            )
+            if is_high:
                 nid = f"N-{next_inv}"
                 next_inv += 1
             else:
                 nid = f"N-{next_person}"
                 next_person += 1
 
+            if ntype_s == "organization" or atype == "Organization":
+                stored_type = "organization"
+            elif ntype_s == "place" or atype == "Place":
+                stored_type = "place"
+            elif ntype_s == "topic" or atype == "Topic":
+                stored_type = "topic"
+            elif ntype_s == "institution" or (
+                atype == "InvestigationTarget" and ntype_s == "institution"
+            ):
+                stored_type = "organization"
+            elif (
+                ntype_s == "investigation_target"
+                or atype == "InvestigationTarget"
+                or (ref and re.match(r"NODE_1\d{3}", ref))
+            ):
+                stored_type = "investigation_target"
+            else:
+                stored_type = "person"
+
             conf = "low" if _is_low_confidence(name, ep, nodes) else "medium"
             nodes[nid] = {
                 "canonical_name": name,
-                "type": "person" if "investigation" not in str(ntype).lower() else "investigation_target",
+                "type": stored_type,
                 "aliases": [],
                 "confidence": conf,
                 "first_seen_episode": ep,

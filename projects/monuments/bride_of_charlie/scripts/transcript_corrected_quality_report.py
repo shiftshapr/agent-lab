@@ -1,0 +1,809 @@
+#!/usr/bin/env python3
+"""
+Build an interactive HTML review for transcripts_corrected/ (same UX as the
+raw-vs-corrected compare page): per-item YouTube clip, editable recommendation,
+Implement checkbox, localStorage + Copy/Download JSON.
+
+Run after transcript edits:
+  python3 scripts/transcript_corrected_quality_report.py
+
+Output default: reports/transcript_corrected_quality_review.html
+Served by Draft Editor at /corrected-quality
+"""
+
+from __future__ import annotations
+
+import argparse
+import base64
+import hashlib
+import html
+import re
+from pathlib import Path
+
+PROJECT = Path(__file__).resolve().parent.parent
+CORR_DIR = PROJECT / "transcripts_corrected"
+OUT_DEFAULT = PROJECT / "reports" / "transcript_corrected_quality_review.html"
+
+_YT_FROM_LABEL = re.compile(r"^episode_\d+_([a-zA-Z0-9_-]{11})$")
+_TS_IN_LINE = re.compile(r"\[(\d{1,2}):(\d{2})(?::(\d{2}))?\]")
+
+
+def _youtube_id_from_label(label: str) -> str | None:
+    m = _YT_FROM_LABEL.match(label.strip())
+    return m.group(1) if m else None
+
+
+def _first_ts_seconds_in_lines(chunk: list[str]) -> int | None:
+    for line in chunk:
+        m = _TS_IN_LINE.search(line)
+        if not m:
+            continue
+        g1, g2, g3 = m.group(1), m.group(2), m.group(3)
+        if g3 is not None:
+            return int(g1) * 3600 + int(g2) * 60 + int(g3)
+        return int(g1) * 60 + int(g2)
+    return None
+
+
+def _format_ts_human(seconds: int | None) -> str:
+    if seconds is None:
+        return "—"
+    h, rem = divmod(seconds, 3600)
+    m, s = divmod(rem, 60)
+    if h:
+        return f"{h}:{m:02d}:{s:02d}"
+    return f"{m}:{s:02d}"
+
+
+def _safe_dom_id(s: str) -> str:
+    return "q-" + re.sub(r"[^A-Za-z0-9_-]", "-", s)[:120]
+
+
+def _resolve_slice(
+    lines: list[str], anchors: list[str], before: int, after: int
+) -> tuple[int, int, list[str]] | None:
+    for anchor in anchors:
+        for i, line in enumerate(lines):
+            if anchor in line:
+                lo = max(0, i - before)
+                hi = min(len(lines), i + after + 1)
+                return lo + 1, hi, lines[lo:hi]
+    return None
+
+
+# tier: low = review first (red), medium, high — matches compare report semantics
+#
+# SYNC: Cards are NOT auto-derived from transcripts. Each item is manual. When you fix something
+# in transcripts_corrected/, remove or rewrite its dict here (or anchors go stale / nag you for
+# work already done). Applying apply_quality_export_to_corrected.py does not edit this list.
+# Regenerate: python3 scripts/transcript_corrected_quality_report.py
+FINDINGS: list[dict] = []
+
+
+QUALITY_PAGE_SCRIPT = """
+<script>
+(function () {
+  'use strict';
+  var LS = 'bride-transcript-quality-v1';
+  var saveTimer = null;
+  var persistClearTimer = null;
+
+  function b64ToUtf8(b64) {
+    var binary = atob(b64);
+    var bytes = new Uint8Array(binary.length);
+    for (var i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
+    return new TextDecoder('utf-8').decode(bytes);
+  }
+
+  function saveState() {
+    if (saveTimer) clearTimeout(saveTimer);
+    saveTimer = setTimeout(function () {
+      saveTimer = null;
+      flushSave(true);
+    }, 80);
+  }
+
+  function persistHint(msg) {
+    var el = document.getElementById('persist-status');
+    if (!el) return;
+    if (persistClearTimer) clearTimeout(persistClearTimer);
+    el.textContent = msg;
+    persistClearTimer = setTimeout(function () {
+      el.textContent = '';
+    }, 2500);
+  }
+
+  function restoreState() {
+    var raw = null;
+    try { raw = localStorage.getItem(LS); } catch (e) {}
+    if (!raw) return;
+    var state = {};
+    try { state = JSON.parse(raw); } catch (e) { return; }
+    document.querySelectorAll('article.hunk').forEach(function (art) {
+      var key = art.getAttribute('data-hunk-key');
+      if (!key || !state[key]) return;
+      var cb = art.querySelector('.impl-chk');
+      var ta = art.querySelector('textarea.impl-text');
+      if (cb) cb.checked = !!state[key].c;
+      if (ta && typeof state[key].t === 'string') ta.value = state[key].t;
+    });
+  }
+
+  function ensureIframe(details) {
+    if (details.dataset.loaded === '1') return;
+    var vid = details.dataset.videoId;
+    var start = details.dataset.start || '0';
+    var mount = details.querySelector('.iframe-mount');
+    if (!mount || !vid) return;
+    var iframe = document.createElement('iframe');
+    iframe.width = '560';
+    iframe.height = '315';
+    iframe.title = 'YouTube video';
+    iframe.loading = 'lazy';
+    iframe.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
+    iframe.setAttribute('allowfullscreen', '');
+    iframe.setAttribute(
+      'allow',
+      'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
+    );
+    iframe.tabIndex = 0;
+    iframe.src =
+      'https://www.youtube-nocookie.com/embed/' +
+      encodeURIComponent(vid) +
+      '?start=' +
+      encodeURIComponent(start) +
+      '&rel=0';
+    mount.appendChild(iframe);
+    iframe.addEventListener('load', function once() {
+      iframe.removeEventListener('load', once);
+      try {
+        iframe.focus({ preventScroll: false });
+      } catch (e) {}
+    });
+    details.dataset.loaded = '1';
+  }
+
+  function originalFromTextarea(ta) {
+    if (!ta) return null;
+    var b64 = ta.getAttribute('data-orig-b64');
+    if (!b64) return null;
+    try {
+      return b64ToUtf8(b64);
+    } catch (e) {
+      try {
+        return atob(b64);
+      } catch (e2) {
+        return null;
+      }
+    }
+  }
+
+  function textareaIsEdited(ta) {
+    if (!ta) return false;
+    var cur = ta.value;
+    var orig = originalFromTextarea(ta);
+    if (orig === null) return cur.length > 0;
+    return cur !== orig;
+  }
+
+  function exportPayload() {
+    var items = [];
+    var nChecked = 0;
+    var nEditedOnly = 0;
+    document.querySelectorAll('article.hunk').forEach(function (art) {
+      var cb = art.querySelector('.impl-chk');
+      var ta = art.querySelector('textarea.impl-text');
+      var checked = !!(cb && cb.checked);
+      var edited = textareaIsEdited(ta);
+      if (!checked && !edited) return;
+      if (checked) nChecked++;
+      if (edited && !checked) nEditedOnly++;
+      var key = art.getAttribute('data-hunk-key');
+      var ep = art.getAttribute('data-episode');
+      var tier = art.getAttribute('data-tier');
+      var cat = art.getAttribute('data-category') || '';
+      var fid = art.getAttribute('data-finding-id') || '';
+      var det = art.querySelector('details.hunk-video');
+      var youtubeId =
+        (det && det.dataset.videoId) || art.dataset.youtubeId || null;
+      var startSeconds = null;
+      if (det && det.dataset.start != null && det.dataset.start !== '') {
+        startSeconds = parseInt(det.dataset.start, 10);
+      } else if (
+        art.dataset.blockStart != null &&
+        art.dataset.blockStart !== ''
+      ) {
+        startSeconds = parseInt(art.dataset.blockStart, 10);
+      }
+      var lo = art.getAttribute('data-line-lo');
+      var hi = art.getAttribute('data-line-hi');
+      items.push({
+        episode: ep,
+        findingId: fid,
+        category: cat,
+        hunkKey: key,
+        tier: tier,
+        implement: checked,
+        editedFromReportOriginal: edited,
+        implementText: ta ? ta.value : '',
+        youtubeId: youtubeId,
+        startSeconds: startSeconds,
+        correctedLineLo: lo ? parseInt(lo, 10) : null,
+        correctedLineHi: hi ? parseInt(hi, 10) : null
+      });
+    });
+    return {
+      source: 'transcript_corrected_quality_review',
+      itemCount: items.length,
+      checkedCount: nChecked,
+      editedButUncheckedCount: nEditedOnly,
+      items: items
+    };
+  }
+
+  function flushSave(silent) {
+    if (saveTimer) {
+      clearTimeout(saveTimer);
+      saveTimer = null;
+    }
+    var state = {};
+    document.querySelectorAll('article.hunk').forEach(function (art) {
+      var key = art.getAttribute('data-hunk-key');
+      if (!key) return;
+      var cb = art.querySelector('.impl-chk');
+      var ta = art.querySelector('textarea.impl-text');
+      state[key] = { c: !!(cb && cb.checked), t: ta ? ta.value : '' };
+    });
+    try {
+      localStorage.setItem(LS, JSON.stringify(state));
+      if (!silent) persistHint('Saved to this browser — safe to refresh.');
+    } catch (e) {
+      if (!silent)
+        persistHint('Could not save (storage full or blocked). Use Download JSON.');
+    }
+  }
+
+  document.querySelectorAll('details.hunk-video').forEach(function (d) {
+    d.addEventListener('toggle', function () {
+      if (d.open) ensureIframe(d);
+    });
+  });
+
+  document.body.addEventListener('click', function (ev) {
+    var t = ev.target;
+    if (!t || !t.closest) return;
+    if (t.classList && t.classList.contains('reset-impl')) {
+      var art = t.closest('article.hunk');
+      var ta = art && art.querySelector('textarea.impl-text');
+      var b64 = ta && ta.getAttribute('data-orig-b64');
+      if (ta && b64) {
+        try {
+          ta.value = b64ToUtf8(b64);
+        } catch (e) {
+          ta.value = atob(b64);
+        }
+        flushSave(false);
+      }
+      return;
+    }
+    if (t.classList && t.classList.contains('focus-yt')) {
+      var det = t.closest('details.hunk-video');
+      if (!det) return;
+      if (!det.open) det.open = true;
+      ensureIframe(det);
+      var iframe = det.querySelector('.iframe-mount iframe');
+      if (iframe) {
+        setTimeout(function () {
+          try {
+            iframe.focus();
+          } catch (e) {}
+        }, 400);
+      }
+    }
+  });
+
+  document.addEventListener('change', function (e) {
+    if (e.target && e.target.classList && e.target.classList.contains('impl-chk')) saveState();
+  });
+  document.addEventListener('input', function (e) {
+    if (e.target && e.target.classList && e.target.classList.contains('impl-text')) saveState();
+  });
+  document.addEventListener(
+    'focusout',
+    function (e) {
+      if (
+        e.target &&
+        e.target.classList &&
+        e.target.classList.contains('impl-text')
+      )
+        flushSave(false);
+    },
+    true
+  );
+  window.addEventListener('beforeunload', function () {
+    flushSave(true);
+  });
+  window.addEventListener('pagehide', function () {
+    flushSave(true);
+  });
+  document.addEventListener('visibilitychange', function () {
+    if (document.visibilityState === 'hidden') flushSave(true);
+  });
+
+  var btnAll = document.getElementById('btn-sel-all');
+  var btnNone = document.getElementById('btn-sel-none');
+  var btnLow = document.getElementById('btn-sel-low');
+  var btnCopy = document.getElementById('btn-copy-json');
+  var fb = document.getElementById('copy-feedback');
+
+  if (btnAll) {
+    btnAll.addEventListener('click', function () {
+      document.querySelectorAll('article.hunk .impl-chk').forEach(function (c) {
+        c.checked = true;
+      });
+      flushSave(true);
+    });
+  }
+  if (btnNone) {
+    btnNone.addEventListener('click', function () {
+      document.querySelectorAll('article.hunk .impl-chk').forEach(function (c) {
+        c.checked = false;
+      });
+      flushSave(true);
+    });
+  }
+  if (btnLow) {
+    btnLow.addEventListener('click', function () {
+      document.querySelectorAll('article.hunk').forEach(function (art) {
+        var cb = art.querySelector('.impl-chk');
+        if (!cb) return;
+        cb.checked = art.getAttribute('data-tier') === 'low';
+      });
+      flushSave(true);
+    });
+  }
+  if (btnCopy) {
+    btnCopy.addEventListener('click', function () {
+      flushSave(true);
+      var payload = exportPayload();
+      var text = JSON.stringify(payload, null, 2);
+      var msg = 'Copied ' + payload.itemCount + ' item(s).';
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () {
+            if (fb) fb.textContent = msg;
+          },
+          function () {
+            if (fb) fb.textContent = 'Clipboard blocked — see console.';
+            try {
+              console.log(text);
+            } catch (e) {}
+          }
+        );
+      } else if (fb) {
+        fb.textContent = 'Clipboard API unavailable.';
+      }
+    });
+  }
+
+  var btnDl = document.getElementById('btn-dl-json');
+  if (btnDl) {
+    btnDl.addEventListener('click', function () {
+      flushSave(true);
+      var payload = exportPayload();
+      var text = JSON.stringify(payload, null, 2);
+      var blob = new Blob([text], { type: 'application/json;charset=utf-8' });
+      var url = URL.createObjectURL(blob);
+      var a = document.createElement('a');
+      a.href = url;
+      a.download = 'transcript-quality-export.json';
+      a.rel = 'noopener';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+      if (fb)
+        fb.textContent =
+          'Downloaded ' + payload.itemCount + ' item(s) as JSON file.';
+    });
+  }
+
+  restoreState();
+})();
+</script>
+"""
+
+
+def _build_html(findings: list[dict]) -> tuple[str, int, int]:
+    by_ep: dict[str, list[dict]] = {}
+    missing = 0
+    for f in findings:
+        by_ep.setdefault(f["episode"], []).append(f)
+
+    episodes_html: list[str] = []
+    total = 0
+    by_tier = {"high": 0, "medium": 0, "low": 0}
+
+    for episode in sorted(by_ep.keys()):
+        path = CORR_DIR / f"{episode}.txt"
+        if not path.is_file():
+            episodes_html.append(
+                f'<section class="episode"><h2>{html.escape(episode)}</h2>'
+                f"<p class='none'>Missing file {html.escape(str(path))}</p></section>"
+            )
+            continue
+        lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
+        yt_id = _youtube_id_from_label(episode)
+        blocks: list[str] = []
+
+        for fi, f in enumerate(by_ep[episode]):
+            total += 1
+            tier = f.get("tier", "medium")
+            by_tier[tier] = by_tier.get(tier, 0) + 1
+            badge_class = {"high": "tier-high", "medium": "tier-medium", "low": "tier-low"}[tier]
+
+            resolved = _resolve_slice(
+                lines, f["anchors"], int(f.get("before", 1)), int(f.get("after", 2))
+            )
+            if resolved is None:
+                missing += 1
+                ctx_txt = f"(Anchor not found in current transcript: {f['anchors']!r})"
+                lo, hi = 0, 0
+                ctx_lines: list[str] = []
+                miss_class = " hunk-anchor-miss"
+                miss_banner = (
+                    '<p class="anchor-miss-banner"><strong>Anchor miss.</strong> '
+                    "This finding’s search string is not in the file — the text moved after edits. "
+                    "Update <code>FINDINGS</code> in <code>scripts/transcript_corrected_quality_report.py</code> "
+                    "or remove this card.</p>"
+                )
+            else:
+                lo, hi, ctx_lines = resolved
+                ctx_txt = "\n".join(ctx_lines)
+                miss_class = ""
+                miss_banner = ""
+
+            suggested = f.get("suggested", "")
+            orig_b64 = base64.b64encode(suggested.encode("utf-8")).decode("ascii")
+            sig = f"{episode}|{f['id']}|{ctx_txt[:4000]}"
+            hid = hashlib.sha1(sig.encode("utf-8")).hexdigest()[:12]
+            hunk_key = f"{episode}__quality__{f['id']}__{hid}"
+            el_id = _safe_dom_id(f"{episode}__{f['id']}__{fi}")
+
+            start_sec = _first_ts_seconds_in_lines(ctx_lines)
+            ts_hint = _format_ts_human(start_sec)
+            start_val = 0 if start_sec is None else start_sec
+            data_yt_attr = f' data-youtube-id="{html.escape(yt_id, quote=True)}"' if yt_id else ""
+            data_start_attr = (
+                f' data-block-start="{start_val}"' if start_sec is not None else ""
+            )
+
+            if yt_id and start_sec is not None:
+                video_block = f"""
+                  <details class="hunk-video" data-video-id="{html.escape(yt_id, quote=True)}" data-start="{start_val}">
+                    <summary class="hunk-video-sum">Video at ~{html.escape(ts_hint)} — load player</summary>
+                    <div class="hunk-video-inner">
+                      <div class="iframe-mount" aria-live="polite"></div>
+                      <p class="hunk-video-hint">Open the player, then scrub or use YouTube controls. <strong>Focus video</strong> if keyboard does not reach the iframe.</p>
+                      <button type="button" class="focus-yt">Focus video for keyboard</button>
+                    </div>
+                  </details>"""
+            elif yt_id:
+                video_block = f"""
+                  <div class="hunk-video-na">No timestamp in excerpt — <a href="https://www.youtube.com/watch?v={html.escape(yt_id, quote=True)}" target="_blank" rel="noopener">open episode</a>.</div>"""
+            else:
+                video_block = """<div class="hunk-video-na">No YouTube id in episode filename.</div>"""
+
+            ctx_pre = html.escape(ctx_txt or "(empty)")
+            sugg_esc = html.escape(suggested)
+            rows = max(4, min(20, suggested.count("\n") + suggested.count("\\n") + 6))
+            cat_esc = html.escape(f.get("category", ""))
+            fid_esc = html.escape(f["id"])
+
+            blocks.append(
+                f"""
+                <article class="hunk {badge_class}{miss_class}" id="{html.escape(el_id, quote=True)}"
+                  data-tier="{tier}"
+                  data-hunk-key="{html.escape(hunk_key, quote=True)}"
+                  data-episode="{html.escape(episode, quote=True)}"
+                  data-category="{cat_esc}"
+                  data-finding-id="{fid_esc}"
+                  data-line-lo="{lo}"
+                  data-line-hi="{hi}"
+                  {data_yt_attr}{data_start_attr}>
+                  <header>
+                    <label class="impl-pick"><input type="checkbox" class="impl-chk" autocomplete="off"/> Implement</label>
+                    <span class="badge {badge_class}">{tier.upper()}</span>
+                    <span class="meta">{html.escape(f.get("category", ""))} · corrected lines {lo}–{hi} · id <code>{fid_esc}</code></span>
+                  </header>
+                  {miss_banner}
+                  <h3 class="finding-title">{html.escape(f.get("title", f["id"]))}</h3>
+                  <p class="why">{html.escape(f.get("why", ""))}</p>
+                  <div class="grid">
+                    <div class="col">
+                      <h4>Current transcript (excerpt)</h4>
+                      <pre>{ctx_pre}</pre>
+                    </div>
+                    <div class="col impl-col">
+                      <h4>Recommended fix (editable)</h4>
+                      <textarea class="impl-text" rows="{rows}" wrap="off" spellcheck="true" data-orig-b64="{orig_b64}">{sugg_esc}</textarea>
+                      <button type="button" class="reset-impl" title="Restore default recommendation text">Restore default</button>
+                    </div>
+                  </div>
+                  {video_block}
+                </article>
+                """
+            )
+
+        rel = path.relative_to(PROJECT)
+        episodes_html.append(
+            f"""
+            <section class="episode" id="{html.escape(episode, quote=True)}">
+              <h2>{html.escape(episode)}</h2>
+              <p class="filepair"><code>{html.escape(str(rel))}</code></p>
+              <p class="stats">{len(by_ep[episode])} finding(s)</p>
+              <div class="hunks">{"".join(blocks)}</div>
+            </section>
+            """
+        )
+
+    toc = "".join(
+        f'<li><a href="#{html.escape(ep, quote=True)}">{html.escape(ep)}</a></li>'
+        for ep in sorted(by_ep.keys())
+    )
+
+    page = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Corrected transcript quality — interactive review</title>
+  <style>
+    :root {{
+      --bg: #0f1419;
+      --text: #e7e9ea;
+      --muted: #8b98a5;
+      --border: #38444d;
+      --high: #00ba7c;
+      --medium: #f5a623;
+      --low: #f4212e;
+      --pre: #15202b;
+    }}
+    * {{ box-sizing: border-box; }}
+    body {{
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      margin: 0;
+      padding: 1.5rem clamp(1rem, 4vw, 3rem) 3rem;
+      max-width: 1100px;
+      margin-inline: auto;
+    }}
+    h1 {{ font-size: 1.5rem; margin-top: 0; }}
+    h2 {{ font-size: 1.15rem; margin-top: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.35rem; }}
+    h3.finding-title {{ font-size: 1rem; margin: 0.35rem 0 0.25rem; font-weight: 600; }}
+    h4 {{ margin: 0 0 0.35rem; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }}
+    .lead {{ color: var(--muted); font-size: 0.95rem; }}
+    .summary {{
+      background: var(--pre);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+      margin: 1rem 0 2rem;
+    }}
+    nav ul {{ list-style: none; padding: 0; margin: 0.5rem 0 0; display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; }}
+    nav a {{ color: #1d9bf0; }}
+    .filepair code {{ font-size: 0.8rem; }}
+    .stats {{ color: var(--muted); font-size: 0.85rem; margin: 0.25rem 0 1rem; }}
+    .hunk {{
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      background: rgba(21, 32, 43, 0.6);
+    }}
+    .hunk header {{ display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 1rem; margin-bottom: 0.5rem; }}
+    .badge {{
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      letter-spacing: 0.04em;
+    }}
+    .tier-high .badge.tier-high {{ background: rgba(0, 186, 124, 0.2); color: var(--high); }}
+    .tier-medium .badge.tier-medium {{ background: rgba(245, 166, 35, 0.15); color: var(--medium); }}
+    .tier-low .badge.tier-low {{ background: rgba(244, 33, 46, 0.15); color: var(--low); }}
+    .meta {{ font-size: 0.75rem; color: var(--muted); }}
+    .why {{ font-size: 0.85rem; color: #c4cdd6; margin: 0.25rem 0 0.75rem; }}
+    .hunk-anchor-miss {{ border-color: #a371f7; box-shadow: 0 0 0 1px rgba(163, 113, 247, 0.35); }}
+    .anchor-miss-banner {{
+      font-size: 0.88rem;
+      color: #e6edf3;
+      background: rgba(163, 113, 247, 0.12);
+      border: 1px solid rgba(163, 113, 247, 0.45);
+      border-radius: 6px;
+      padding: 0.5rem 0.75rem;
+      margin: 0 0 0.5rem 0;
+    }}
+    .anchor-miss-banner code {{ font-size: 0.82rem; }}
+    .grid {{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+    }}
+    @media (max-width: 800px) {{ .grid {{ grid-template-columns: 1fr; }} }}
+    pre {{
+      margin: 0;
+      padding: 0.75rem;
+      background: var(--pre);
+      border-radius: 6px;
+      font-size: 0.78rem;
+      white-space: pre-wrap;
+      word-break: break-word;
+      border: 1px solid var(--border);
+    }}
+    .none {{ color: var(--muted); font-style: italic; }}
+    .impl-toolbar {{
+      background: var(--pre);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+      margin: 1rem 0 1.5rem;
+    }}
+    .impl-toolbar-title {{ margin: 0 0 0.5rem; font-size: 1rem; }}
+    .impl-toolbar-row {{ display: flex; flex-wrap: wrap; gap: 0.5rem 0.75rem; align-items: center; margin-bottom: 0.5rem; }}
+    .impl-toolbar-row button {{
+      font: inherit;
+      padding: 0.35rem 0.75rem;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      background: #1c2732;
+      color: var(--text);
+      cursor: pointer;
+    }}
+    .impl-toolbar-row button:hover {{ background: #253341; }}
+    #copy-feedback {{ font-size: 0.85rem; color: var(--muted); min-height: 1.2em; }}
+    #persist-status {{ font-size: 0.85rem; color: var(--high); min-height: 1.2em; flex: 1 1 12rem; }}
+    .impl-toolbar-hint {{ margin: 0; font-size: 0.85rem; color: var(--muted); }}
+    .impl-pick {{ display: inline-flex; align-items: center; gap: 0.35rem; font-size: 0.85rem; cursor: pointer; user-select: none; }}
+    .impl-pick input {{ width: 1rem; height: 1rem; }}
+    .impl-col textarea.impl-text {{
+      width: 100%;
+      margin: 0;
+      padding: 0.75rem;
+      background: #0d1117;
+      color: var(--text);
+      border-radius: 6px;
+      font-size: 0.78rem;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      line-height: 1.45;
+      border: 1px solid var(--border);
+      resize: vertical;
+      min-height: 5rem;
+    }}
+    .reset-impl {{
+      margin-top: 0.35rem;
+      font: inherit;
+      font-size: 0.75rem;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      border: none;
+      background: transparent;
+      color: #1d9bf0;
+      cursor: pointer;
+      text-decoration: underline;
+    }}
+    .reset-impl:hover {{ color: #4cc3ff; }}
+    .hunk-video {{
+      margin-top: 1rem;
+      border-top: 1px solid var(--border);
+      padding-top: 0.75rem;
+    }}
+    .hunk-video-sum {{
+      cursor: pointer;
+      font-size: 0.9rem;
+      color: #1d9bf0;
+      list-style: none;
+    }}
+    .hunk-video-sum::-webkit-details-marker {{ display: none; }}
+    .hunk-video-inner {{ margin-top: 0.75rem; }}
+    .iframe-mount iframe {{
+      width: 100%;
+      max-width: 560px;
+      aspect-ratio: 16 / 9;
+      height: auto;
+      min-height: 200px;
+      border: 0;
+      border-radius: 8px;
+      background: #000;
+    }}
+    .hunk-video-hint {{ font-size: 0.8rem; color: var(--muted); margin: 0.5rem 0; }}
+    .focus-yt {{
+      font: inherit;
+      font-size: 0.85rem;
+      padding: 0.35rem 0.75rem;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      background: #1c2732;
+      color: var(--text);
+      cursor: pointer;
+    }}
+    .focus-yt:hover {{ background: #253341; }}
+    .hunk-video-na {{ font-size: 0.85rem; color: var(--muted); margin-top: 0.75rem; }}
+    .hunk-video-na a {{ color: #1d9bf0; }}
+    footer {{ margin-top: 3rem; font-size: 0.8rem; color: var(--muted); }}
+  </style>
+</head>
+<body>
+  <h1>Corrected transcripts — interactive quality review</h1>
+  <p class="lead" style="background:#1a2332;border:1px solid #38444d;border-radius:8px;padding:1rem 1.15rem;">
+    <strong>How this stays in sync with your work</strong><br/>
+    Cards come from the <code>FINDINGS</code> list inside <code>scripts/transcript_corrected_quality_report.py</code>.
+    They are <strong>not</strong> auto-generated from git diff or from “Implement” JSON you already applied.
+    When you fix something in <code>transcripts_corrected/*.txt</code> (or via <code>apply_quality_export_to_corrected.py</code>),
+    <strong>delete or update that finding</strong> in the script, then regenerate — otherwise the page will keep showing it.
+  </p>
+  <p class="lead">
+    <strong>What this is:</strong> each card pulls a live excerpt from <code>transcripts_corrected/</code> (matched by anchor substring), with an editable note on the right.
+    Open <strong>Video</strong> to hear that moment. Tick <strong>Implement</strong> (or edit text) and use <strong>Copy JSON</strong> / <strong>Download JSON</strong> for a machine-readable queue.
+  </p>
+  <p class="lead">
+    <strong>Tiers:</strong> <strong style="color:#f4212e;">Low</strong> = review first (integrity / serious issues).
+    <strong style="color:#f5a623;">Medium</strong> = ads and long segments to trim.
+    <strong style="color:#00ba7c;">High</strong> = small typos or optional polish.
+    Cards with a <strong>purple</strong> border = anchor text not found (transcript changed) — edit <code>FINDINGS</code> in <code>transcript_corrected_quality_report.py</code> and regenerate.
+  </p>
+  <p class="lead">
+    Regenerate: <code>python3 scripts/transcript_corrected_quality_report.py</code> · Hosted: <code>/corrected-quality</code> · localStorage <code>bride-transcript-quality-v1</code> (separate from raw/corrected compare).
+  </p>
+  <div class="summary">
+    <strong>Overview</strong><br/>
+    Findings rendered: {total} · Anchors not found: {missing}
+    · Tier low: {by_tier["low"]} · medium: {by_tier["medium"]} · high: {by_tier["high"]}
+  </div>
+  <nav aria-label="Episodes"><ul>{toc}</ul></nav>
+  <div class="impl-toolbar" role="region" aria-label="Implementation queue">
+    <p class="impl-toolbar-title">Implementation</p>
+    <div class="impl-toolbar-row">
+      <button type="button" id="btn-sel-all">Select all</button>
+      <button type="button" id="btn-sel-none">Clear all</button>
+      <button type="button" id="btn-sel-low">Select low tier only</button>
+      <button type="button" id="btn-copy-json">Copy JSON</button>
+      <button type="button" id="btn-dl-json">Download JSON</button>
+      <span id="copy-feedback"></span>
+      <span id="persist-status" class="persist-status" aria-live="polite"></span>
+    </div>
+    <p class="impl-toolbar-hint">
+      <strong>Copy JSON</strong> / <strong>Download JSON</strong> export every row where you checked <strong>Implement</strong> or edited the recommendation text.
+      Re-generate this page after running <code>python3 scripts/transcript_corrected_quality_report.py</code> (anchors re-resolve from disk).
+    </p>
+  </div>
+  {"".join(episodes_html)}
+  {QUALITY_PAGE_SCRIPT}
+  <footer>
+    Generated by <code>scripts/transcript_corrected_quality_report.py</code>.
+  </footer>
+</body>
+</html>
+"""
+    return page, total, missing
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument(
+        "--out",
+        type=Path,
+        default=OUT_DEFAULT,
+        help=f"Output HTML (default: {OUT_DEFAULT})",
+    )
+    args = ap.parse_args()
+    args.out.parent.mkdir(parents=True, exist_ok=True)
+    html_out, total, missing = _build_html(FINDINGS)
+    args.out.write_text(html_out, encoding="utf-8")
+    print(f"Wrote {args.out} ({total} findings, {missing} anchor miss(es))")
+
+
+if __name__ == "__main__":
+    main()

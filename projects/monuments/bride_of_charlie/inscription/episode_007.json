@@ -7,7 +7,7 @@
     "video_timestamp_range": "00:01–01:09:59",
     "extraction_timestamp": "2026-03-20T21:52:23Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "82f9748f7aed0824d245d0618ce980908bec3018b69307d05b445fed2c8a7d43"
+    "transcript_sha256": "0e0d6809bd468f40c5ce5e150ed34240130f28ddcfff69936079c829eb461239"
   },
   "executive_summary": "Episode 7 focuses on Erika Kirk's trending status on X and backlash over her explanation for running Turning Point USA while being a mother. The host presents evidence contradicting Erika's claim that she had a self-sustaining business before meeting Charlie Kirk in 2021, showing the Proclaim clothing company domain was registered in October 2018, filed as LLC in January 2019, and only had items for sale in January 2021. The episode also covers financial details including Charlie's $10 million life insurance policy and $5.4 million raised by Tucker Carlson. Additional timelines address Erika's relationships in 2013-2014, her China claims, and connections between Tyler Bowyer, Jeffrey Epstein, and Arizona State University.",
   "artifacts": [
@@ -32,7 +32,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1026"
+            "N-1025"
           ],
           "tags": [
             "business_record",
@@ -56,7 +56,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1026"
+            "N-1025"
           ],
           "tags": [
             "business_record",
@@ -80,7 +80,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1026"
+            "N-1025"
           ],
           "tags": [
             "web_archive",
@@ -103,7 +103,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1026"
+            "N-1025"
           ],
           "tags": [
             "professional_license"
@@ -190,7 +190,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-1028"
+            "N-1027"
           ],
           "tags": [
             "financial_record",
@@ -213,7 +213,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1028"
+            "N-1027"
           ],
           "tags": [
             "donation_record",
@@ -245,8 +245,8 @@
           ],
           "related_nodes": [
             "N-21",
-            "N-1025",
-            "N-1029"
+            "N-31",
+            "N-1028"
           ],
           "tags": [
             "financial_record",
@@ -270,8 +270,8 @@
           ],
           "related_nodes": [
             "N-29",
-            "N-1025",
-            "N-1029"
+            "N-31",
+            "N-1028"
           ],
           "tags": [
             "appointment_record",
@@ -294,7 +294,7 @@
           ],
           "related_nodes": [
             "N-21",
-            "N-1029"
+            "N-1028"
           ],
           "tags": [
             "email_data",
@@ -348,7 +348,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-31"
+            "N-32"
           ],
           "tags": [
             "media",
@@ -401,7 +401,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1030"
+            "N-1029"
           ],
           "tags": [
             "academic_record",
@@ -599,8 +599,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-1025",
-      "ref": "N-1025",
+      "@id": "N-31",
+      "ref": "N-31",
       "name": "Arizona State University",
       "type": "institution",
       "description": "University with documented Epstein donations. Tyler Bowyer appointed to board. Erika Kirk claims to have graduated from here.",
@@ -623,8 +623,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-31",
-      "ref": "N-31",
+      "@id": "N-32",
+      "ref": "N-32",
       "name": "JT Massie",
       "type": "person",
       "description": "Minor league baseball player with Colorado Rockies who dated Erika and auditioned with her for Amazing Race in 2014.",
@@ -642,8 +642,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1026",
-      "ref": "N-1026",
+      "@id": "N-1025",
+      "ref": "N-1025",
       "name": "Pre-Marriage Business Claims",
       "type": "investigation_target",
       "description": "Erika claims she ran a self-sustaining business before meeting Charlie in 2021. Evidence shows domain registered October 2018, LLC filed January 2019, website active January 2021.",
@@ -666,8 +666,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1027",
-      "ref": "N-1027",
+      "@id": "N-1026",
+      "ref": "N-1026",
       "name": "Sole Provider Narrative",
       "type": "investigation_target",
       "description": "Erika claims to be sole provider for children, discounting Charlie's financial planning and public donations.",
@@ -686,8 +686,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1028",
-      "ref": "N-1028",
+      "@id": "N-1027",
+      "ref": "N-1027",
       "name": "Life Insurance and Fundraising",
       "type": "investigation_target",
       "description": "$10 million Turning Point life insurance policy and $5.4 million raised by Tucker Carlson.",
@@ -705,8 +705,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1029",
-      "ref": "N-1029",
+      "@id": "N-1028",
+      "ref": "N-1028",
       "name": "Epstein-ASU-Bowyer Connection",
       "type": "investigation_target",
       "description": "Jeffrey Epstein donated to ASU months before Tyler Bowyer was appointed to board. ASU mentioned 3500 times in Epstein emails.",
@@ -726,8 +726,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-1030",
-      "ref": "N-1030",
+      "@id": "N-1029",
+      "ref": "N-1029",
       "name": "Education Credentials",
       "type": "investigation_target",
       "description": "Erika claims double major in political science and international relations from ASU. International Relations may not have been available as major in 2012.",
@@ -757,7 +757,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1026"
+        "N-1025"
       ],
       "investigative_direction": "Verify domain registration records and compare with claimed business timeline.",
       "tags": [
@@ -780,7 +780,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1026"
+        "N-1025"
       ],
       "investigative_direction": "Obtain certified LLC filing records and compare with Erika's claims.",
       "tags": [
@@ -802,7 +802,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1026"
+        "N-1025"
       ],
       "investigative_direction": "Verify Wayback Machine records and website launch timeline.",
       "tags": [
@@ -826,8 +826,8 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-1027",
-        "N-1028"
+        "N-1026",
+        "N-1027"
       ],
       "investigative_direction": "Obtain life insurance policy documents and fundraising records.",
       "tags": [
@@ -915,7 +915,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-31"
+        "N-32"
       ],
       "investigative_direction": "Obtain audition tapes and verify production records.",
       "tags": [
@@ -938,7 +938,7 @@
       "related_nodes": [
         "N-13",
         "N-29",
-        "N-1025"
+        "N-31"
       ],
       "investigative_direction": "Verify appointment records and compare to standard selection process.",
       "tags": [
@@ -963,8 +963,8 @@
       "related_nodes": [
         "N-13",
         "N-21",
-        "N-1025",
-        "N-1029"
+        "N-31",
+        "N-1028"
       ],
       "investigative_direction": "Obtain detailed Epstein donation records and compare timelines.",
       "tags": [
@@ -986,8 +986,8 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1025",
-        "N-1030"
+        "N-31",
+        "N-1029"
       ],
       "investigative_direction": "Obtain official ASU academic catalogs from 2012 and verify degree availability.",
       "tags": [

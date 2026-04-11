@@ -51,7 +51,8 @@ class NumberingManager:
                 OPTIONAL MATCH (p:Person)
                 WITH max_artifact, max_claim, 
                      max(toInteger(substring(p.id, 2))) AS max_person
-                OPTIONAL MATCH (it:InvestigationTarget)
+                OPTIONAL MATCH (it)
+                WHERE it:InvestigationTarget OR it:Topic OR it:Organization OR it:Place
                 WITH max_artifact, max_claim, max_person,
                      max(toInteger(substring(it.id, 2))) AS max_target
                 RETURN coalesce(max_artifact, 999) + 1 AS artifact_family,
@@ -102,7 +103,7 @@ class NumberingManager:
                   AND node_id STARTS WITH 'N-'
                   AND NOT EXISTS {
                     MATCH (n) WHERE n.id = node_id 
-                      AND (n:Person OR n:InvestigationTarget)
+                      AND (n:Person OR n:Topic OR n:Organization OR n:Place OR n:InvestigationTarget)
                 }
                 RETURN DISTINCT node_id
             """, episode_num=episode_num)
@@ -135,7 +136,7 @@ class NumberingManager:
         with self.driver.session() as session:
             result = session.run("""
                 MATCH (n)-[:APPEARS_IN]->(e:Episode)
-                WHERE n:Person OR n:InvestigationTarget
+                WHERE n:Person OR n:Topic OR n:Organization OR n:Place OR n:InvestigationTarget
                 WITH n, collect(DISTINCT e.episode_num) AS episodes
                 RETURN n.id AS id,
                        n.canonical_name AS name,
@@ -158,7 +159,7 @@ class NumberingManager:
                 OPTIONAL MATCH (e)-[:CONTAINS_FAMILY]->(af:ArtifactFamily)
                 OPTIONAL MATCH (c:Claim)-[:FROM_EPISODE]->(e)
                 OPTIONAL MATCH (n)-[:APPEARS_IN]->(e)
-                WHERE n:Person OR n:InvestigationTarget
+                WHERE n:Person OR n:Topic OR n:Organization OR n:Place OR n:InvestigationTarget
                 WITH e,
                      collect(DISTINCT af.id) AS artifacts,
                      collect(DISTINCT c.id) AS claims,
@@ -197,9 +198,9 @@ class NumberingManager:
             result = session.run("""
                 MATCH (e:Episode {episode_num: $episode_num})
                 MATCH (new_node)-[:APPEARS_IN]->(e)
-                WHERE new_node:Person OR new_node:InvestigationTarget
+                WHERE new_node:Person OR new_node:Topic OR new_node:Organization OR new_node:Place OR new_node:InvestigationTarget
                 MATCH (existing)
-                WHERE (existing:Person OR existing:InvestigationTarget)
+                WHERE (existing:Person OR existing:Topic OR existing:Organization OR existing:Place OR existing:InvestigationTarget)
                   AND existing.id <> new_node.id
                   AND NOT (existing)-[:APPEARS_IN]->(e)
                 WITH new_node, existing,

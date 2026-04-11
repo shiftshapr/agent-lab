@@ -10,7 +10,7 @@
     "transcript_completeness": "Full",
     "extraction_timestamp": "2026-03-20T21:40:01Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "980c6b5bd05be37725dd09165901d1c6a219654f31ce7bb0c3cb81669c2442df"
+    "transcript_sha256": "b010b4a7dfa8e7593c494fd9881087aee75744cb2a9cba41b0649ab1c89d75c8"
   },
   "executive_summary": "Episode 1 introduces the investigation into Erika Kirk, widow of assassinated Turning Point USA founder Charlie Kirk. Candace Owens presents preliminary evidence questioning Erika's biographical claims, including birth date discrepancies between newspaper announcement (Nov 20, 1988) and divorce filings (Nov 22, 1988), assertion that Erika was not raised by a single mother as claimed, and inconsistencies in family marriage dates across legal documents. The episode also explores Erika's family background, connecting paternal grandfather Carl Kenneth Frantzve's work in lottery ticket printing and maternal family's gambling history.",
   "artifacts": [
@@ -428,7 +428,7 @@
             "social_media",
             "opinion"
           ],
-          "transcript_snippet": "Erika Lane points out that Putin is one of the best politicians in the world wrote, I'm going to be blunt. I have reached the point where I find Erika Kirk to be deeply disturbing.",
+          "transcript_snippet": "Elizabeth Lane wrote, I'm going to be blunt. I have reached the point where I find Erika Kirk to be deeply disturbing.",
           "confidence": "medium",
           "uncertainty_note": "This is an opinion piece, not factual claim"
         }

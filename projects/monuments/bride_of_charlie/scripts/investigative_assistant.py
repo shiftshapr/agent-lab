@@ -129,7 +129,7 @@ class InvestigativeAssistant:
                 WHERE c.label CONTAINS $keyword
                    OR c.claim_text CONTAINS $keyword
                 OPTIONAL MATCH (c)-[:INVOLVES]->(n)
-                WHERE n:Person OR n:InvestigationTarget
+                WHERE n:Person OR n:Topic OR n:Organization OR n:Place OR n:InvestigationTarget
                 WITH c, collect(DISTINCT n.canonical_name) AS entities
                 RETURN c.id AS claim_id,
                        c.label AS label,
@@ -205,10 +205,11 @@ class InvestigativeAssistant:
             return [dict(record) for record in result]
     
     def get_investigation_targets(self) -> list[dict]:
-        """Get all investigation targets with pressure scores."""
+        """Get Topic, Organization, Place, and legacy InvestigationTarget nodes with pressure scores."""
         with self.driver.session() as session:
             result = session.run("""
-                MATCH (it:InvestigationTarget)
+                MATCH (it)
+                WHERE it:InvestigationTarget OR it:Topic OR it:Organization OR it:Place
                 OPTIONAL MATCH (a:Artifact)-[:INVOLVES]->(it)
                 OPTIONAL MATCH (c:Claim)-[:INVOLVES]->(it)
                 OPTIONAL MATCH (it)-[:APPEARS_IN]->(e:Episode)
@@ -219,6 +220,7 @@ class InvestigativeAssistant:
                 RETURN it.id AS id,
                        it.canonical_name AS name,
                        it.description AS description,
+                       labels(it)[0] AS primary_label,
                        artifacts,
                        claims,
                        episodes,

@@ -1,5 +1,7 @@
 # Bride of Charlie Workflow
 
+Diagrams of the scripted runner, optional fetch path, and the Neo4j ingestion model live in **IDEAL_WORKFLOW.md** (Overview: ASCII workflow + graph sections).
+
 ## Inputs
 
 - **7 YouTube links** (episode URLs)

@@ -7,7 +7,7 @@
 - **Video Timestamp Range**: 00:01–59:14
 - **Extraction Timestamp (UTC)**: 2026-03-20T21:44:24Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 470f447d4def4688d83fd545fa5f9b04da6aa821827dba444f80b02a4061d13c
+- **Transcript SHA-256**: 184e60655939c68628c27f459d4a2923e1341d14c5f500dd56f23a08bc2e71d4
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1014, A-1015, A-1016, A-1017, A-1018, A-1019
@@ -132,6 +132,7 @@ Confidence: high
 
 **N-1** Charlie Kirk
 
+Node Type: Person
 Host of Turning Point USA, husband of Erika Kirk, deceased.
 
 *Related: A-1015.1, C-1035*
@@ -140,6 +141,7 @@ Host of Turning Point USA, husband of Erika Kirk, deceased.
 
 **N-2** Erika Kirk
 
+Node Type: Person
 Primary subject of investigation, widow of Charlie Kirk.
 
 *Related: A-1014.1, A-1014.2, A-1014.3, A-1014.4, A-1014.5, A-1014.6, A-1015.1, A-1017.1, A-1018.1, A-1019.1, A-1019.2, C-1034, C-1035, C-1036, C-1037, C-1038*
@@ -148,6 +150,7 @@ Primary subject of investigation, widow of Charlie Kirk.
 
 **N-17** Lori Abbis Stanley
 
+Node Type: Person
 Erika's mother, also known as Lori Waldd, Lori Frantzve, Lori Ginta.
 
 *Related: A-1015.1, A-1016.1, C-1035*
@@ -156,6 +159,7 @@ Erika's mother, also known as Lori Waldd, Lori Frantzve, Lori Ginta.
 
 **N-12** Dr. Jerry Frantzve
 
+Node Type: Person
 First wife of Erika's father Kent Frantzve, described as former psychologist who worked with DuPont and Bush family.
 
 *Related: *
@@ -164,6 +168,7 @@ First wife of Erika's father Kent Frantzve, described as former psychologist who
 
 **N-4** Kent Frantzve
 
+Node Type: Person
 Erika's father, married to Dr. Jerry Frantzve.
 
 *Related: *
@@ -172,6 +177,7 @@ Erika's father, married to Dr. Jerry Frantzve.
 
 **N-18** Angelina Lombardo-Abbis
 
+Node Type: Person
 Erika's maternal grandmother listed in 1970 obituary.
 
 *Related: A-1016.1, C-1035*
@@ -180,6 +186,7 @@ Erika's maternal grandmother listed in 1970 obituary.
 
 **N-19** Vince Lombardi
 
+Node Type: Person
 Famous Green Bay Packers coach, Super Bowl trophy named after him.
 
 *Related: A-1015.1, C-1035*
@@ -188,6 +195,7 @@ Famous Green Bay Packers coach, Super Bowl trophy named after him.
 
 **N-8** Jack Solomon
 
+Node Type: Person
 Also referred to as Uncle Jack Solomon. Connected to Rothstein family; financed Zion's Gate restoration; former slot machine manufacturer. Married to Erika's aunt Carla Solomon; founder of Bali Technologies; professor at BYU.
 
 *Related: *
@@ -196,6 +204,7 @@ Also referred to as Uncle Jack Solomon. Connected to Rothstein family; financed 
 
 **N-16** Richard Erpenbeck
 
+Node Type: Person
 Person Erika considers her uncle, works at Universal Studios, brother Bill served 20+ years for financial fraud.
 
 *Related: A-1018.1, C-1037*
@@ -204,6 +213,8 @@ Person Erika considers her uncle, works at Universal Studios, brother Bill serve
 
 **N-1000** Date of Birth Discrepancy
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Erika's birthday listed as November 22, 1988 in multiple legal documents vs claimed November 20, 1988.
 
 *Related: A-1014.1, A-1014.2, A-1014.3, A-1014.4, A-1014.5, A-1014.6, C-1034*
@@ -214,6 +225,8 @@ Confidence: high
 
 **N-1014** Lombardi Lineage Claim
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Whether Erika is truly a direct descendant of Vince Lombardi as Charlie claimed.
 
 *Related: A-1015.1, A-1016.1, C-1035*
@@ -224,6 +237,8 @@ Confidence: medium
 
 **N-1015** Missing Years Timeline
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Erika's unaccounted time 2000-2002 and claim about Bible study vs actual timeline.
 
 *Related: A-1019.1, A-1019.2, C-1038, C-1036*
@@ -234,6 +249,8 @@ Confidence: high
 
 **N-1016** Erpenbeck criminal connections — Erika & uncle Rick
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Erpenbeck family thread: Richard Erpenbeck (‘uncle Rick’). Legal/document spelling: Erpenbeck; captions often garbled the surname Erpenbeck. Fraud ties and Erika / Miss Arizona pathway. (Ep3 notary: Bill Erpenbeck re absent signers.)
 
 *Related: A-1018.1, C-1037*

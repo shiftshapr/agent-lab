@@ -54,14 +54,16 @@ class QualityMetrics:
                 OPTIONAL MATCH (c:Claim)-[:FROM_EPISODE]->(e)
                 WITH e, count(c) AS total_claims
                 
-                // Count claims without artifact anchor
+                // Count substantiated claims without artifact anchor
                 OPTIONAL MATCH (c2:Claim)-[:FROM_EPISODE]->(e)
-                WHERE NOT (:Artifact)-[:ANCHORS]->(c2)
+                WHERE coalesce(c2.substantiated, true) = true
+                AND NOT (:Artifact)-[:ANCHORS]->(c2)
                 WITH e, total_claims, count(c2) AS claims_without_anchors
                 
-                // Count claims without nodes
+                // Count claims without INVOLVES or MENTIONS_TOPIC
                 OPTIONAL MATCH (c3:Claim)-[:FROM_EPISODE]->(e)
                 WHERE NOT (c3)-[:INVOLVES]->()
+                AND NOT (c3)-[:MENTIONS_TOPIC]->()
                 WITH e, total_claims, claims_without_anchors, count(c3) AS claims_without_nodes
                 
                 // Count artifacts without relationships
@@ -115,7 +117,7 @@ class QualityMetrics:
             result = session.run("""
                 MATCH (e:Episode)
                 OPTIONAL MATCH (n)-[:APPEARS_IN]->(e)
-                WHERE n:Person OR n:InvestigationTarget
+                WHERE n:Person OR n:Topic OR n:Organization OR n:Place OR n:InvestigationTarget
                 WITH e, collect(DISTINCT n) AS nodes_in_episode
                 
                 UNWIND nodes_in_episode AS node
@@ -158,7 +160,8 @@ class QualityMetrics:
                 MATCH (p:Person)
                 WITH episodes, families, artifacts, claims, count(p) AS people
                 
-                MATCH (it:InvestigationTarget)
+                MATCH (it)
+                WHERE it:InvestigationTarget OR it:Topic OR it:Organization OR it:Place
                 WITH episodes, families, artifacts, claims, people, count(it) AS targets
                 
                 OPTIONAL MATCH ()-[r:ANCHORS]->()

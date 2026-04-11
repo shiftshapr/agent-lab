@@ -7,7 +7,7 @@
 - **Video Timestamp Range**: Unknown
 - **Extraction Timestamp (UTC)**: 2026-03-20T21:40:01Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 0a654c1d75d7f42803c98271ac67362766bdde13995e71ae5ecfac6d69c28bbd
+- **Transcript SHA-256**: 9d728e95a1ce22ac920d9d348988ba4a94d709e414527efa276d3917a11fef1c
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1000, A-1001, A-1002, A-1003, A-1004, A-1005, A-1006
@@ -155,7 +155,7 @@ Confidence: high
 Event Timestamp: Unknown (viral during episode preparation)
 Video Timestamp: 05:16–06:00
 *Related: C-1014, N-2, N-9*
-Transcript Snippet: Erika Lane points out that Putin is one of the best politicians in the world wrote, I'm going to be blunt. I have reached the point where I find Erika Kirk to be deeply disturbing.
+Transcript Snippet: Elizabeth Lane wrote, I'm going to be blunt. I have reached the point where I find Erika Kirk to be deeply disturbing.
 Confidence: medium
 Uncertainty: This is an opinion piece, not factual claim
 
@@ -165,6 +165,7 @@ Uncertainty: This is an opinion piece, not factual claim
 
 **N-1** Charlie Kirk
 
+Node Type: Person
 Founder of Turning Point USA, assassinated. Husband of Erika Kirk.
 
 *Related: *
@@ -173,6 +174,7 @@ Founder of Turning Point USA, assassinated. Husband of Erika Kirk.
 
 **N-2** Erika Kirk
 
+Node Type: Person
 Primary subject of investigation. Widow of Charlie Kirk, now CEO of Turning Point USA.
 
 *Related: A-1000.1, A-1000.2, A-1001.1, A-1001.2, A-1001.3, A-1002.1, A-1002.2, A-1004.1, A-1004.2, A-1004.3, A-1005.1, A-1006.1, C-1000, C-1001, C-1005, C-1006, C-1007, C-1010, C-1011, C-1012, C-1013, C-1014, C-1002, C-1016*
@@ -181,6 +183,7 @@ Primary subject of investigation. Widow of Charlie Kirk, now CEO of Turning Poin
 
 **N-3** Lori Frantzve
 
+Node Type: Person
 Erika Kirk's mother. Claims to be single mother who raised Erika alone.
 
 *Related: A-1001.1, A-1001.2, A-1001.3, A-1003.1, A-1003.2, C-1001, C-1002, C-1003, C-1004, C-1016*
@@ -189,6 +192,7 @@ Erika Kirk's mother. Claims to be single mother who raised Erika alone.
 
 **N-4** Kent Frantzve
 
+Node Type: Person
 Erika Kirk's father. Claimed absent but was stay-at-home dad.
 
 *Related: A-1001.1, A-1001.2, A-1001.3, A-1005.1, C-1002, C-1003, C-1004, C-1013*
@@ -197,6 +201,7 @@ Erika Kirk's father. Claimed absent but was stay-at-home dad.
 
 **N-5** Loretta Lynn Abbis
 
+Node Type: Person
 Erika's great-grandmother. Arrested for running illegal slot machines.
 
 *Related: A-1003.1, A-1003.2, C-1008*
@@ -205,6 +210,7 @@ Erika's great-grandmother. Arrested for running illegal slot machines.
 
 **N-6** Mason Abbis
 
+Node Type: Person
 Erika's great-grandfather. Arrested for lottery-related activities.
 
 *Related: A-1003.3, C-1008*
@@ -213,6 +219,7 @@ Erika's great-grandfather. Arrested for lottery-related activities.
 
 **N-7** Carl Kenneth Frantzve
 
+Node Type: Person
 Erika's paternal grandfather (Kent Frantzve's father). Executive at American Bank Note Company.
 
 *Related: A-1003.4, A-1004.2, C-1009, C-1011*
@@ -221,6 +228,7 @@ Erika's paternal grandfather (Kent Frantzve's father). Executive at American Ban
 
 **N-8** Jack Solomon
 
+Node Type: Person
 Also referred to as Uncle Jack Solomon. Connected to Rothstein family. Financed Zion's Gate restoration. Former slot machine manufacturer. Married to Erika's aunt Carla Solomon; founder of Bali Technologies; professor at BYU.
 
 *Related: A-1004.3, C-1012, C-1015*
@@ -229,6 +237,7 @@ Also referred to as Uncle Jack Solomon. Connected to Rothstein family. Financed 
 
 **N-9** Elizabeth Lane
 
+Node Type: Person
 Investigative journalist who wrote viral post about Erika Kirk.
 
 *Related: A-1006.1, C-1014*
@@ -237,6 +246,7 @@ Investigative journalist who wrote viral post about Erika Kirk.
 
 **N-10** Larry Ginta
 
+Node Type: Person
 Erika's stepfather, included in yearbook photos.
 
 *Related: A-1002.2, C-1016*
@@ -245,6 +255,8 @@ Erika's stepfather, included in yearbook photos.
 
 **N-1000** Date of Birth Discrepancy
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Conflicting birth dates: newspaper announcement shows Nov 20, 1988; divorce filing lists Nov 22, 1988.
 
 *Related: A-1000.1, A-1000.2, A-1001.1, C-1000, C-1001*
@@ -253,6 +265,8 @@ Conflicting birth dates: newspaper announcement shows Nov 20, 1988; divorce fili
 
 **N-1001** Marriage Date Inconsistencies
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Four different marriage dates across divorce documents: Nov 20, 1995; Nov 7, 1982; 1985; unknown edits.
 
 *Related: A-1001.1, A-1001.2, A-1001.3, C-1003, C-1004*
@@ -261,6 +275,8 @@ Four different marriage dates across divorce documents: Nov 20, 1995; Nov 7, 198
 
 **N-1002** Early Childhood Location Timeline
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Confusion over when Erika moved from Cincinnati to Arizona - before or after 1998 divorce.
 
 *Related: A-1002.1, A-1002.2, C-1005, C-1006, C-1007*
@@ -269,6 +285,8 @@ Confusion over when Erika moved from Cincinnati to Arizona - before or after 199
 
 **N-1003** Family Gambling/Casino History
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Pattern of family involvement in gambling operations across multiple generations.
 
 *Related: A-1003.1, A-1003.2, A-1003.3, A-1003.4, A-1005.1, C-1008, C-1009, C-1015*
@@ -277,6 +295,8 @@ Pattern of family involvement in gambling operations across multiple generations
 
 **N-1004** Swedish Citizenship Pursuit
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Erika pursued dual Swedish citizenship in 2019 despite claiming to be raised by single Lebanese mother.
 
 *Related: A-1004.1, C-1010*
@@ -285,6 +305,8 @@ Erika pursued dual Swedish citizenship in 2019 despite claiming to be raised by 
 
 **N-1005** Morfar vs Farfar Language Error
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Erika calls paternal grandfather 'morfar' (mother's father) instead of 'farfar' (father's father).
 
 *Related: A-1004.2, C-1011*
@@ -293,6 +315,8 @@ Erika calls paternal grandfather 'morfar' (mother's father) instead of 'farfar' 
 
 **N-1006** Zion's Gate Family Dedication Claim
 
+Node Type: Topic
+Topic Kind: legacy_theme
 Erika claimed Zion's Gate was her family's dedication, but appears to belong to Rothstein family.
 
 *Related: A-1004.3, C-1012*
@@ -550,5 +574,19 @@ Context: Erika attended Tesaract school named after 'A Wrinkle in Time', housed 
 Tags: coincidence, investigation
 Confidence: medium
 Uncertainty: Noted as coincidental - no direct evidence Erika connected to CIA programs
+
+---
+
+**M-4** (meme) Trust the science / vaccine again
+
+### Occurrence 1
+
+Video Timestamp: 01:40
+Speaker: N-2
+Quote: Roll up your sleeves and get the vaccine again, dopes
+Context: Bundled with “this year's trust the science” as repeat manipulative media framing (parallel to “grieving widow” in M-1).
+Tags: framing, political, covid_rhetoric
+Confidence: high
+Uncertainty: Rhetorical comparison by host, not a factual claim to verify
 
 ---

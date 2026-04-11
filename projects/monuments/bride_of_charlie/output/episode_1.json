@@ -1,0 +1,1366 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 1,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Video + Transcript",
+    "analysis_date": "2026-03-18",
+    "transcript_completeness": "Full",
+    "extraction_timestamp": "2026-03-20T21:40:01Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "2981cd166a5b227b268773714a1adfb70af9ddce9abebb7bed94b28781abd6a1"
+  },
+  "executive_summary": "Episode 1 introduces the investigation into Erika Kirk, widow of assassinated Turning Point USA founder Charlie Kirk. Candace Owens presents preliminary evidence questioning Erika's biographical claims, including birth date discrepancies between newspaper announcement (Nov 20, 1988) and divorce filings (Nov 22, 1988), assertion that Erika was not raised by a single mother as claimed, and inconsistencies in family marriage dates across legal documents. The episode also explores Erika's family background, connecting paternal grandfather Carl Kenneth Frantzve's work in lottery ticket printing and maternal family's gambling history.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1000",
+      "family_ref": "A-1000",
+      "bundle_name": "Birth Announcement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1000.1",
+          "ref": "A-1000.1",
+          "description": "Newspaper birth announcement for Erika Frantzve",
+          "event_timestamp": "December 6, 1988",
+          "source_timestamp": "December 6, 1988",
+          "video_timestamp": "22:04–22:17",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1000"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1000"
+          ],
+          "tags": [
+            "public_record"
+          ],
+          "transcript_snippet": "There's a newspaper relic announcing her birth two weeks later on December 6th.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1000.2",
+          "ref": "A-1000.2",
+          "description": "Good Samaritan Hospital birthplace record",
+          "event_timestamp": "November 20, 1988",
+          "source_timestamp": "1988",
+          "video_timestamp": "22:15",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1000"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [
+            "public_record"
+          ],
+          "transcript_snippet": "She was born at Good Samaritan Hospital.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1001",
+      "family_ref": "A-1001",
+      "bundle_name": "Divorce Filing Bundle (1998)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1001.1",
+          "ref": "A-1001.1",
+          "description": "Divorce initial filing by Lori Frantzve",
+          "event_timestamp": "July 20, 1998",
+          "source_timestamp": "July 20, 1998",
+          "video_timestamp": "23:00–23:20",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1001",
+            "C-1002",
+            "C-1003"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-4",
+            "N-1001"
+          ],
+          "tags": [
+            "court_record"
+          ],
+          "transcript_snippet": "On that divorce initial filing, Lori, who filed, lists Erika as having been born on November 22nd, multiple times.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1001.2",
+          "ref": "A-1001.2",
+          "description": "Separation agreement (unnotarized)",
+          "event_timestamp": "1998",
+          "source_timestamp": "1998",
+          "video_timestamp": "23:56–24:15",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1003"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-4",
+            "N-1001"
+          ],
+          "tags": [
+            "court_record"
+          ],
+          "transcript_snippet": "It's a separation agreement which is not notarized. It's not dated.",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1001.3",
+          "ref": "A-1001.3",
+          "description": "Divorce decree with handwritten edits",
+          "event_timestamp": "November 10, 1998",
+          "source_timestamp": "November 10, 1998",
+          "video_timestamp": "25:00–25:35",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1003",
+            "C-1004"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-4",
+            "N-1001"
+          ],
+          "tags": [
+            "court_record"
+          ],
+          "transcript_snippet": "Somebody just went in and tried to edit that date by hand afterward.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1002",
+      "family_ref": "A-1002",
+      "bundle_name": "Yearbook Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1002.1",
+          "ref": "A-1002.1",
+          "description": "Erika at Walnut Corner Children's Center daycare",
+          "event_timestamp": "1992",
+          "source_timestamp": "1992",
+          "video_timestamp": "50:37–50:58",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1005"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1002"
+          ],
+          "tags": [
+            "photograph"
+          ],
+          "transcript_snippet": "Erika was in Cincinnati, Ohio for daycare in 1992. She attended a place called Walnut Corner Children's Center.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1002.2",
+          "ref": "A-1002.2",
+          "description": "Tesaract School yearbooks 1995-1998",
+          "event_timestamp": "1995–1998",
+          "source_timestamp": "1995–1998",
+          "video_timestamp": "53:36–54:00",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1006",
+            "C-1007"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1002"
+          ],
+          "tags": [
+            "photograph",
+            "school_record"
+          ],
+          "transcript_snippet": "I got some years. 1995 to 1996 in first grade, 1996 to 1997 in second grade, and 1997 to 1998, which is her in third grade.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1003",
+      "family_ref": "A-1003",
+      "bundle_name": "Historical Family Articles",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1003.1",
+          "ref": "A-1003.1",
+          "description": "1941 newspaper testimony of Loretta Lynn Abbis",
+          "event_timestamp": "1941",
+          "source_timestamp": "1941",
+          "video_timestamp": "32:56–33:15",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1008"
+          ],
+          "related_nodes": [
+            "N-5",
+            "N-1003"
+          ],
+          "tags": [
+            "historical_record"
+          ],
+          "transcript_snippet": "Check out this article from 1941 where she testifies that she ran numbers.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1003.2",
+          "ref": "A-1003.2",
+          "description": "1944 article plea guilty to lottery charge",
+          "event_timestamp": "1944",
+          "source_timestamp": "1944",
+          "video_timestamp": "33:19–33:34",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1008"
+          ],
+          "related_nodes": [
+            "N-5",
+            "N-1003"
+          ],
+          "tags": [
+            "historical_record"
+          ],
+          "transcript_snippet": "Here's another article from 1944 where she pleads guilty to a lottery charge.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1003.3",
+          "ref": "A-1003.3",
+          "description": "1935 article about Mason Abbis lottery chase",
+          "event_timestamp": "1935",
+          "source_timestamp": "1935",
+          "video_timestamp": "33:51–34:20",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1008"
+          ],
+          "related_nodes": [
+            "N-6",
+            "N-1003"
+          ],
+          "tags": [
+            "historical_record"
+          ],
+          "transcript_snippet": "Check out this article from 1935. And it tells us that he was overtaken in his automobile after a chase of several miles.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1003.4",
+          "ref": "A-1003.4",
+          "description": "1974 newspaper - American Bank Note Company lottery",
+          "event_timestamp": "1974",
+          "source_timestamp": "1974",
+          "video_timestamp": "35:00–35:32",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1009"
+          ],
+          "related_nodes": [
+            "N-7",
+            "N-1003"
+          ],
+          "tags": [
+            "historical_record"
+          ],
+          "transcript_snippet": "Printing began this week on the first Illinois state lottery tickets up to 10,000 agents.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1004",
+      "family_ref": "A-1004",
+      "bundle_name": "Social Media Posts Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1004.1",
+          "ref": "A-1004.1",
+          "description": "Erika's post about dual citizenship commencement",
+          "event_timestamp": "2019",
+          "source_timestamp": "2019",
+          "video_timestamp": "36:30–36:38",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1010"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1004"
+          ],
+          "tags": [
+            "social_media"
+          ],
+          "transcript_snippet": "She posted this herself where she is. Dual citizenship commenced.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1004.2",
+          "ref": "A-1004.2",
+          "description": "Erika's posts about grandfather 'morfar'",
+          "event_timestamp": "2016-2019",
+          "source_timestamp": "2016-2019",
+          "video_timestamp": "36:55–37:10",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1011"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-7",
+            "N-1005"
+          ],
+          "tags": [
+            "social_media"
+          ],
+          "transcript_snippet": "She posts about him many, many times over the years, referring to him affectionately as her morfar.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1004.3",
+          "ref": "A-1004.3",
+          "description": "Erika's Jerusalem/Zion's Gate post",
+          "event_timestamp": "March 21, 2019",
+          "source_timestamp": "March 21, 2019",
+          "video_timestamp": "39:55–40:17",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1012"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-8",
+            "N-1006"
+          ],
+          "tags": [
+            "social_media"
+          ],
+          "transcript_snippet": "Meet Darla, a Romanian Jew that now calls Israel home. She was sitting by my family's dedication sign for restoring the Zion gate in Jerusalem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1005",
+      "family_ref": "A-1005",
+      "bundle_name": "Interview Clips",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1005.1",
+          "ref": "A-1005.1",
+          "description": "Erika interview clip about stay-at-home dad",
+          "event_timestamp": "Unknown",
+          "source_timestamp": "Unknown",
+          "video_timestamp": "18:27–18:40",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1013"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-4"
+          ],
+          "tags": [
+            "video",
+            "interview"
+          ],
+          "transcript_snippet": "My dad was a stay-at-home dad for a few years, and I got to say, it was really sweet and really special. I was four.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1006",
+      "family_ref": "A-1006",
+      "bundle_name": "Elizabeth Lane X Post",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1006.1",
+          "ref": "A-1006.1",
+          "description": "Elizabeth Lane viral X post about Erika",
+          "event_timestamp": "Unknown (viral during episode preparation)",
+          "source_timestamp": "Unknown",
+          "video_timestamp": "05:16–06:00",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "C-1014"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-9"
+          ],
+          "tags": [
+            "social_media",
+            "opinion"
+          ],
+          "transcript_snippet": "Elizabeth Lane wrote, I'm going to be blunt. I have reached the point where I find Erika Kirk to be deeply disturbing.",
+          "confidence": "medium",
+          "uncertainty_note": "This is an opinion piece, not factual claim"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Founder of Turning Point USA, assassinated. Husband of Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "key_figure",
+        "deceased"
+      ],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Primary subject of investigation. Widow of Charlie Kirk, now CEO of Turning Point USA.",
+      "related_artifacts": [
+        "A-1000.1",
+        "A-1000.2",
+        "A-1001.1",
+        "A-1001.2",
+        "A-1001.3",
+        "A-1002.1",
+        "A-1002.2",
+        "A-1004.1",
+        "A-1004.2",
+        "A-1004.3",
+        "A-1005.1",
+        "A-1006.1"
+      ],
+      "related_claims": [
+        "C-1000",
+        "C-1001",
+        "C-1005",
+        "C-1006",
+        "C-1007",
+        "C-1010",
+        "C-1011",
+        "C-1012",
+        "C-1013",
+        "C-1014",
+        "C-1002",
+        "C-1016"
+      ],
+      "tags": [
+        "primary_subject"
+      ],
+      "evidence_count": 13,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Lori Frantzve",
+      "type": "person",
+      "description": "Erika Kirk's mother. Claims to be single mother who raised Erika alone.",
+      "related_artifacts": [
+        "A-1001.1",
+        "A-1001.2",
+        "A-1001.3",
+        "A-1003.1",
+        "A-1003.2"
+      ],
+      "related_claims": [
+        "C-1001",
+        "C-1002",
+        "C-1003",
+        "C-1004",
+        "C-1016"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-4",
+        "N-5",
+        "N-1001"
+      ],
+      "tags": [
+        "family"
+      ],
+      "evidence_count": 5,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "Kent Frantzve",
+      "type": "person",
+      "description": "Erika Kirk's father. Claimed absent but was stay-at-home dad.",
+      "related_artifacts": [
+        "A-1001.1",
+        "A-1001.2",
+        "A-1001.3",
+        "A-1005.1"
+      ],
+      "related_claims": [
+        "C-1002",
+        "C-1003",
+        "C-1004",
+        "C-1013"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-3",
+        "N-1001"
+      ],
+      "tags": [
+        "family"
+      ],
+      "evidence_count": 4,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Loretta Lynn Abbis",
+      "type": "person",
+      "description": "Erika's great-grandmother. Arrested for running illegal slot machines.",
+      "related_artifacts": [
+        "A-1003.1",
+        "A-1003.2"
+      ],
+      "related_claims": [
+        "C-1008"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-1003"
+      ],
+      "tags": [
+        "ancestor",
+        "historical"
+      ],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-6",
+      "ref": "N-6",
+      "name": "Mason Abbis",
+      "type": "person",
+      "description": "Erika's great-grandfather. Arrested for lottery-related activities.",
+      "related_artifacts": [
+        "A-1003.3"
+      ],
+      "related_claims": [
+        "C-1008"
+      ],
+      "related_nodes": [
+        "N-1003"
+      ],
+      "tags": [
+        "ancestor",
+        "historical"
+      ],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Carl Kenneth Frantzve",
+      "type": "person",
+      "description": "Erika's paternal grandfather (Kent Frantzve's father). Executive at American Bank Note Company.",
+      "related_artifacts": [
+        "A-1003.4",
+        "A-1004.2"
+      ],
+      "related_claims": [
+        "C-1009",
+        "C-1011"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1003",
+        "N-1005"
+      ],
+      "tags": [
+        "ancestor",
+        "family"
+      ],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-8",
+      "ref": "N-8",
+      "name": "Jack Solomon",
+      "type": "person",
+      "description": "Also referred to as Uncle Jack Solomon. Connected to Rothstein family. Financed Zion's Gate restoration. Former slot machine manufacturer. Married to Erika's aunt Carla Solomon; founder of Bali Technologies; professor at BYU.",
+      "related_artifacts": [
+        "A-1004.3"
+      ],
+      "related_claims": [
+        "C-1012",
+        "C-1015"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1003",
+        "N-1006"
+      ],
+      "tags": [
+        "associate",
+        "business"
+      ],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Elizabeth Lane",
+      "type": "person",
+      "description": "Investigative journalist who wrote viral post about Erika Kirk.",
+      "related_artifacts": [
+        "A-1006.1"
+      ],
+      "related_claims": [
+        "C-1014"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [
+        "journalist",
+        "witness"
+      ],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-10",
+      "ref": "N-10",
+      "name": "Larry Ginta",
+      "type": "person",
+      "description": "Erika's stepfather, included in yearbook photos.",
+      "related_artifacts": [
+        "A-1002.2"
+      ],
+      "related_claims": [
+        "C-1016"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-3"
+      ],
+      "tags": [
+        "family",
+        "stepparent"
+      ],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1000",
+      "ref": "N-1000",
+      "name": "Date of Birth Discrepancy",
+      "type": "investigation_target",
+      "description": "Conflicting birth dates: newspaper announcement shows Nov 20, 1988; divorce filing lists Nov 22, 1988.",
+      "related_artifacts": [
+        "A-1000.1",
+        "A-1000.2",
+        "A-1001.1"
+      ],
+      "related_claims": [
+        "C-1000",
+        "C-1001"
+      ],
+      "tags": [
+        "discrepancy",
+        "timeline"
+      ],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1001",
+      "ref": "N-1001",
+      "name": "Marriage Date Inconsistencies",
+      "type": "investigation_target",
+      "description": "Four different marriage dates across divorce documents: Nov 20, 1995; Nov 7, 1982; 1985; unknown edits.",
+      "related_artifacts": [
+        "A-1001.1",
+        "A-1001.2",
+        "A-1001.3"
+      ],
+      "related_claims": [
+        "C-1003",
+        "C-1004"
+      ],
+      "tags": [
+        "discrepancy",
+        "document_anomaly"
+      ],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1002",
+      "ref": "N-1002",
+      "name": "Early Childhood Location Timeline",
+      "type": "investigation_target",
+      "description": "Confusion over when Erika moved from Cincinnati to Arizona - before or after 1998 divorce.",
+      "related_artifacts": [
+        "A-1002.1",
+        "A-1002.2"
+      ],
+      "related_claims": [
+        "C-1005",
+        "C-1006",
+        "C-1007"
+      ],
+      "tags": [
+        "discrepancy",
+        "timeline"
+      ],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1003",
+      "ref": "N-1003",
+      "name": "Family Gambling/Casino History",
+      "type": "investigation_target",
+      "description": "Pattern of family involvement in gambling operations across multiple generations.",
+      "related_artifacts": [
+        "A-1003.1",
+        "A-1003.2",
+        "A-1003.3",
+        "A-1003.4",
+        "A-1005.1"
+      ],
+      "related_claims": [
+        "C-1008",
+        "C-1009",
+        "C-1015"
+      ],
+      "tags": [
+        "family_history",
+        "pattern"
+      ],
+      "evidence_count": 5,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1004",
+      "ref": "N-1004",
+      "name": "Swedish Citizenship Pursuit",
+      "type": "investigation_target",
+      "description": "Erika pursued dual Swedish citizenship in 2019 despite claiming to be raised by single Lebanese mother.",
+      "related_artifacts": [
+        "A-1004.1"
+      ],
+      "related_claims": [
+        "C-1010"
+      ],
+      "tags": [
+        "identity",
+        "contradiction"
+      ],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1005",
+      "ref": "N-1005",
+      "name": "Morfar vs Farfar Language Error",
+      "type": "investigation_target",
+      "description": "Erika calls paternal grandfather 'morfar' (mother's father) instead of 'farfar' (father's father).",
+      "related_artifacts": [
+        "A-1004.2"
+      ],
+      "related_claims": [
+        "C-1011"
+      ],
+      "tags": [
+        "language_error",
+        "paternity_question"
+      ],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1006",
+      "ref": "N-1006",
+      "name": "Zion's Gate Family Dedication Claim",
+      "type": "investigation_target",
+      "description": "Erika claimed Zion's Gate was her family's dedication, but appears to belong to Rothstein family.",
+      "related_artifacts": [
+        "A-1004.3"
+      ],
+      "related_claims": [
+        "C-1012"
+      ],
+      "tags": [
+        "false_claim",
+        "relationship"
+      ],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1000",
+      "ref": "C-1000",
+      "label": "Birth Date Listed as November 20, 1988 in Newspaper",
+      "claim_timestamp": "22:04",
+      "claim": "The newspaper birth announcement and hospital records show Erika was born on November 20, 1988.",
+      "anchored_artifacts": [
+        "A-1000.1",
+        "A-1000.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1000"
+      ],
+      "investigative_direction": "Obtain certified hospital birth records to verify exact birth date.",
+      "tags": [
+        "falsifiable",
+        "birth_record"
+      ],
+      "transcript_snippet": "Erika Frantzve Feay, we are told, was born on November 20th, 1988 in Cincinnati, Ohio.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1001",
+      "ref": "C-1001",
+      "label": "Divorce Filing Lists Erika's DOB as November 22, 1988",
+      "claim_timestamp": "23:15",
+      "claim": "Lori Frantzve's divorce filing lists Erika's birth date as November 22, 1988, conflicting with the newspaper announcement.",
+      "anchored_artifacts": [
+        "A-1001.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-3",
+        "N-1000"
+      ],
+      "investigative_direction": "Compare certified copies of both documents to determine which is accurate.",
+      "tags": [
+        "falsifiable",
+        "discrepancy"
+      ],
+      "transcript_snippet": "On that divorce initial filing, Lori, who filed, lists Erika as having been born on November 22nd, multiple times.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1002",
+      "ref": "C-1002",
+      "label": "Erika Was NOT Raised by Single Mother",
+      "claim_timestamp": "17:40",
+      "claim": "Erika was not raised by a single mother; her father Kent was a stay-at-home dad and remained involved throughout her childhood.",
+      "anchored_artifacts": [
+        "A-1005.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-3",
+        "N-4"
+      ],
+      "investigative_direction": "Obtain school records and witness statements to verify father's presence.",
+      "tags": [
+        "falsifiable",
+        "contradiction"
+      ],
+      "transcript_snippet": "Erika was not raised by a single mother like at all. Erika's father, Kent Frantzve... was always in her life.",
+      "confidence": "high",
+      "contradicts_claim_refs": [],
+      "supports_claim_refs": []
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1003",
+      "ref": "C-1003",
+      "label": "Marriage Date Discrepancies in Legal Documents",
+      "claim_timestamp": "24:30",
+      "claim": "Divorce documents show four different marriage dates for Kent and Lorie: November 20, 1995; November 7, 1982; 1985; and handwritten edits.",
+      "anchored_artifacts": [
+        "A-1001.1",
+        "A-1001.2",
+        "A-1001.3"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-4",
+        "N-1001"
+      ],
+      "investigative_direction": "Obtain original marriage certificate from Marblehead, Massachusetts records.",
+      "tags": [
+        "falsifiable",
+        "document_anomaly"
+      ],
+      "transcript_snippet": "We are at four different plausible marriage dates between Kent and Lori Frantzve across two documents.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1004",
+      "ref": "C-1004",
+      "label": "Divorce Decree Contains Handwritten Date Edits",
+      "claim_timestamp": "25:44",
+      "claim": "The divorce decree shows handwritten modifications to the marriage date, which is abnormal for legal documents.",
+      "anchored_artifacts": [
+        "A-1001.3"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-4",
+        "N-1001"
+      ],
+      "investigative_direction": "Verify document authenticity through county clerk records.",
+      "tags": [
+        "falsifiable",
+        "document_anomaly"
+      ],
+      "transcript_snippet": "Somebody just went in and tried to edit that date by hand afterward, adjusting the wedding date down this time to 1985.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1005",
+      "ref": "C-1005",
+      "label": "Erika Attended Daycare in Cincinnati in 1992",
+      "claim_timestamp": "50:37",
+      "claim": "Erika was enrolled in Walnut Corner Children's Center in Cincinnati, Ohio in 1992.",
+      "anchored_artifacts": [
+        "A-1002.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1002"
+      ],
+      "investigative_direction": "Obtain enrollment records from Walnut Corner Children's Center.",
+      "tags": [
+        "falsifiable",
+        "timeline"
+      ],
+      "transcript_snippet": "Erika was in Cincinnati, Ohio for daycare in 1992. She attended a place called Walnut Corner Children's Center.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1006",
+      "ref": "C-1006",
+      "label": "Erika Attended Tesaract School in Arizona",
+      "claim_timestamp": "53:45",
+      "claim": "Erika attended Tesaract School in Paradise Valley, Arizona during 1995-1998.",
+      "anchored_artifacts": [
+        "A-1002.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1002"
+      ],
+      "investigative_direction": "Obtain enrollment records and yearbooks from Tesaract School.",
+      "tags": [
+        "falsifiable",
+        "school_record"
+      ],
+      "transcript_snippet": "1995 to 1996 in first grade, 1996 to 1997 in second grade, and 1997 to 1998, which is her in third grade.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1007",
+      "ref": "C-1007",
+      "label": "Tesaract School Linked to Bush/Walton/Monsanto",
+      "claim_timestamp": "51:45",
+      "claim": "Tesaract School was founded by John T. Goalie with connections to the Bush family, Walton family, and Monsanto.",
+      "anchored_artifacts": [
+        "A-1002.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1002"
+      ],
+      "investigative_direction": "Research founding documents and organizational ties of Tesaract Schools.",
+      "tags": [
+        "contextual",
+        "affiliation"
+      ],
+      "transcript_snippet": "He teamed up with the Walton family, the Bush family. Yeah. All everybody involved in this school that Erika's gonna attend.",
+      "confidence": "medium",
+      "uncertainty_note": "Claim about school connections, not directly about Erika's actions"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1008",
+      "ref": "C-1008",
+      "label": "Maternal Family History of Illegal Gambling",
+      "claim_timestamp": "32:40",
+      "claim": "Loretta Lynn Abbis (great-grandmother) and Mason Abbis (great-grandfather) were repeatedly arrested for illegal lottery and gambling operations.",
+      "anchored_artifacts": [
+        "A-1003.1",
+        "A-1003.2",
+        "A-1003.3"
+      ],
+      "related_nodes": [
+        "N-5",
+        "N-6",
+        "N-1003"
+      ],
+      "investigative_direction": "Obtain court records from Pennsylvania archives for Loretta Lynn Abbis and Mason Abbis.",
+      "tags": [
+        "falsifiable",
+        "family_history"
+      ],
+      "transcript_snippet": "Loretta Lynn is one of those rarities. She was just constantly being arrested for running illegal slot machines.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1009",
+      "ref": "C-1009",
+      "label": "Paternal Grandfather Worked at Lottery Ticket Company",
+      "claim_timestamp": "35:05",
+      "claim": "Carl Kenneth Frantzve (Erika's paternal grandfather, Kent Frantzve's father) was an executive at American Bank Note Company, which printed Illinois state lottery tickets.",
+      "anchored_artifacts": [
+        "A-1003.4"
+      ],
+      "related_nodes": [
+        "N-7",
+        "N-1003"
+      ],
+      "investigative_direction": "Verify employment records at American Bank Note Company.",
+      "tags": [
+        "falsifiable",
+        "family_history",
+        "employment"
+      ],
+      "transcript_snippet": "He was an executive at the American Bank Note Company in Illinois. This is the company that was responsible for printing lottery tickets.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1010",
+      "ref": "C-1010",
+      "label": "Erika Pursued Swedish Dual Citizenship in 2019",
+      "claim_timestamp": "36:30",
+      "claim": "Erika began the process of obtaining Swedish dual citizenship in 2019.",
+      "anchored_artifacts": [
+        "A-1004.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1004"
+      ],
+      "investigative_direction": "Obtain citizenship application records from Swedish authorities.",
+      "tags": [
+        "falsifiable",
+        "identity"
+      ],
+      "transcript_snippet": "In 2019, she moved to begin the process of obtaining her dual citizenship.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1011",
+      "ref": "C-1011",
+      "label": "Erika Incorrectly Used 'Morfar' for Grandfather",
+      "claim_timestamp": "37:50",
+      "claim": "Erika referred to her paternal grandfather as 'morfar' (mother's father in Swedish) instead of 'farfar' (father's father). Swedish kinship terms also distinguish 'farmor' (father's mother) and 'mormor' (mother's mother). The mismatch suggests a possible paternity discrepancy.",
+      "anchored_artifacts": [
+        "A-1004.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-7",
+        "N-1005"
+      ],
+      "investigative_direction": "Investigate actual biological relationships in paternal lineage.",
+      "tags": [
+        "falsifiable",
+        "paternity",
+        "language_error"
+      ],
+      "transcript_snippet": "She's calling him her morfar. That is Erika's farfar. If Kent is her father, her father's father is her farfar. She said woman emailed this. No Swedish grandfather would ever allow you to refer to him as morfar if he was not actually your morfar. You would never call your father's mother morfar—she is farmor. Morfar quite literally translates into mother's father. Farfar quite literally translates into father's father.",
+      "confidence": "medium",
+      "uncertainty_note": "Language error may indicate genuine mistake vs intentional deception - requires further investigation"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1012",
+      "ref": "C-1012",
+      "label": "Erika Claimed Zion's Gate as Her Family's Dedication",
+      "claim_timestamp": "40:00",
+      "claim": "Erika posted that Zion's Gate restoration was her family's dedication, but the Rothstein family actually funded it.",
+      "anchored_artifacts": [
+        "A-1004.3"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-8",
+        "N-1006"
+      ],
+      "investigative_direction": "Verify actual funder of Zion's Gate restoration through Jerusalem municipal records.",
+      "tags": [
+        "falsifiable",
+        "false_claim"
+      ],
+      "transcript_snippet": "She was sitting by my family's dedication sign for restoring the Zion gate in Jerusalem.",
+      "confidence": "high",
+      "contradicts_claim_refs": [],
+      "supports_claim_refs": []
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1013",
+      "ref": "C-1013",
+      "label": "Erika Confirming Father Was Stay-at-Home Dad",
+      "claim_timestamp": "18:30",
+      "claim": "Erika herself stated in an interview that her father was a stay-at-home dad for a few years starting when she was four.",
+      "anchored_artifacts": [
+        "A-1005.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-4"
+      ],
+      "investigative_direction": "Review full interview context and any contradicting statements.",
+      "tags": [
+        "falsifiable",
+        "testimony"
+      ],
+      "transcript_snippet": "My dad was a stay-at-home dad for a few years, and I got to say, it was really sweet and really special. I was four.",
+      "confidence": "high",
+      "supports_claim_refs": [
+        "C-1002"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1014",
+      "ref": "C-1014",
+      "label": "Elizabeth Lane Called Erika 'Deeply Disturbing' and Possibly Psychopath",
+      "claim_timestamp": "05:30",
+      "claim": "Elizabeth Lane authored a viral post describing Erika as deeply disturbing with patterns consistent with psychopathy.",
+      "anchored_artifacts": [
+        "A-1006.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-9"
+      ],
+      "investigative_direction": "This is opinion/judgment, not factual claim requiring verification.",
+      "tags": [
+        "opinion",
+        "psychology"
+      ],
+      "transcript_snippet": "I believe she may be a psychopath. What stands out immediately is the reaction that she provokes in other people.",
+      "confidence": "low",
+      "uncertainty_note": "This is opinion, not fact - marked as claim per protocol because it is presented as evidence in episode but is not independently verifiable"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1015",
+      "ref": "C-1015",
+      "label": "Jack Solomon Was Slot Machine Manufacturer",
+      "claim_timestamp": "46:00",
+      "claim": "Jack Solomon co-founded Advanced Patent Technology which manufactured slot machines and purchased United Coin.",
+      "anchored_artifacts": [
+        "A-1004.3"
+      ],
+      "related_nodes": [
+        "N-8",
+        "N-1003"
+      ],
+      "investigative_direction": "Verify corporate records for Advanced Patent Technology and United Coin.",
+      "tags": [
+        "falsifiable",
+        "business_history"
+      ],
+      "transcript_snippet": "Jack and his business partner... began a company called Advanced Patent Technology. That company would go on to manufacture slot machines.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1016",
+      "ref": "C-1016",
+      "label": "Larry Ginta Was Stepfather Present in Childhood",
+      "claim_timestamp": "19:35",
+      "claim": "Erika's stepfather Larry Ginta was present in her life, included in yearbook collages, since before her parents' divorce.",
+      "anchored_artifacts": [
+        "A-1002.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-3",
+        "N-10"
+      ],
+      "investigative_direction": "Obtain yearbook photos showing Larry Ginta presence.",
+      "tags": [
+        "falsifiable",
+        "family"
+      ],
+      "transcript_snippet": "Erika was raised with her stepfather in her home, a man named Larry Ginta. in her high school yearbook.",
+      "confidence": "high"
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 1,
+          "video_timestamp": "01:36",
+          "quote": "She's a grieving widow.",
+          "speaker_node_ref": "N-2",
+          "context": "Candace compares this phrase to 'trust the science' as manipulative framing",
+          "tags": [
+            "framing",
+            "political"
+          ],
+          "confidence": "high",
+          "uncertainty_note": "Used as example of media manipulation, not a claim to be verified"
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-2",
+      "ref": "M-2",
+      "canonical_term": "Morfar/Farfargate",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 1,
+          "video_timestamp": "37:50",
+          "quote": "morfar",
+          "speaker_node_ref": "N-2",
+          "context": "Swedish term for grandfather - Erika used wrong term suggesting paternity question",
+          "tags": [
+            "language",
+            "paternity"
+          ],
+          "confidence": "high",
+          "uncertainty_note": "Central to paternity investigation"
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-3",
+      "ref": "M-3",
+      "canonical_term": "Tesaract/Project Looking Glass",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 1,
+          "video_timestamp": "52:30",
+          "quote": "Looking Glass School",
+          "speaker_node_ref": "N-2",
+          "context": "Erika attended Tesaract school named after 'A Wrinkle in Time', housed in 'Looking Glass School' - noted as coinciding with CIA Project Looking Glass Candace had previously investigated",
+          "tags": [
+            "coincidence",
+            "investigation"
+          ],
+          "confidence": "medium",
+          "uncertainty_note": "Noted as coincidental - no direct evidence Erika connected to CIA programs"
+        }
+      ]
+    }
+  ]
+}

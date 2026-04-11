@@ -23,7 +23,7 @@
     {
       "id": "2d638c08-40f",
       "episode": 1,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Erika France",
       "replace": "Erika Frantzve",
@@ -36,7 +36,7 @@
       ],
       "flags": [],
       "created_at": "2026-03-30T06:07:56Z",
-      "updated_at": "2026-03-30T06:07:56Z"
+      "updated_at": "2026-04-02T06:29:58Z"
     },
     {
       "id": "91d0cbb8-251",
@@ -59,7 +59,7 @@
     {
       "id": "0c0dad80-6c2",
       "episode": 3,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Erika France",
       "replace": "Erika Frantzve",
@@ -72,7 +72,7 @@
       ],
       "flags": [],
       "created_at": "2026-04-01T22:04:50Z",
-      "updated_at": "2026-04-01T22:04:50Z"
+      "updated_at": "2026-04-02T06:30:06Z"
     },
     {
       "id": "44f5aecf-efb",
@@ -91,6 +91,3012 @@
       "flags": [],
       "created_at": "2026-04-01T22:05:04Z",
       "updated_at": "2026-04-01T22:54:04Z"
+    },
+    {
+      "id": "5e13f88f-09d",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Jerry France",
+      "replace": "Dr. Jerry Frantzve / Jerry Frantzve",
+      "note": "[heuristic] jerry_france — House style: Frantzve for stepmother line",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T05:45:26Z",
+      "updated_at": "2026-04-02T06:25:24Z"
+    },
+    {
+      "id": "d56fae2e-0a0",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Alistister Crowley",
+      "replace": "Aleister Crowley",
+      "note": "[llm] obvious name mishearing",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T05:54:34Z",
+      "updated_at": "2026-04-02T06:30:11Z"
+    },
+    {
+      "id": "11959456-8dc",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Alistister Crowley",
+      "replace": "Aleister Crowley",
+      "note": "[llm] obvious name mishearing",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T05:54:53Z",
+      "updated_at": "2026-04-02T06:25:34Z"
+    },
+    {
+      "id": "43f417ea-d25",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Alistister Crowley",
+      "replace": "Aleister Crowley",
+      "note": "[llm] obvious name mishearing",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T05:54:57Z",
+      "updated_at": "2026-04-02T06:30:15Z"
+    },
+    {
+      "id": "1f2cae22-7d3",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Alistister Crowley",
+      "replace": "Aleister Crowley",
+      "note": "[llm] obvious name mishearing",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T05:55:05Z",
+      "updated_at": "2026-04-02T06:25:38Z"
+    },
+    {
+      "id": "ae3efff5-94e",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Alistister Crowley",
+      "replace": "Aleister Crowley",
+      "note": "[llm] obvious name mishearing",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T05:55:27Z",
+      "updated_at": "2026-04-02T06:30:20Z"
+    },
+    {
+      "id": "63925182-631",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Alistister Crowley",
+      "replace": "Aleister Crowley",
+      "note": "[llm] obvious name mishearing",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T05:55:32Z",
+      "updated_at": "2026-04-02T06:25:42Z"
+    },
+    {
+      "id": "daef98bb-45e",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Alistister Crowley",
+      "replace": "Aleister Crowley",
+      "note": "[llm] obvious name mishearing",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T05:55:41Z",
+      "updated_at": "2026-04-02T06:26:54Z"
+    },
+    {
+      "id": "2a5dc0af-86e",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Pangirl",
+      "replace": "Pangerl",
+      "note": "[llm] STT corruption of name - likely 'Pangirl' per glossary; change glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T05:58:01Z",
+      "updated_at": "2026-04-02T22:20:12Z",
+      "apply_all_episodes": false
+    },
+    {
+      "id": "77f7bd66-138",
+      "episode": 3,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Pangirl",
+      "replace": "Pangerl",
+      "note": "[llm] STT corruption of name - likely 'Pangirl' per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T05:59:31Z",
+      "updated_at": "2026-04-02T06:26:00Z"
+    },
+    {
+      "id": "bd5b9884-18b",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Pangirl",
+      "replace": "Pangerl",
+      "note": "[llm] STT corruption of name - likely 'Pangirl' per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:00:42Z",
+      "updated_at": "2026-04-02T06:26:05Z"
+    },
+    {
+      "id": "5426859d-497",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Her her second husband and we're not",
+      "replace": "Her second husband and we're not",
+      "note": "[llm] duplicate words / transcription artifact",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:00:55Z",
+      "updated_at": "2026-04-02T06:27:08Z"
+    },
+    {
+      "id": "5af003a7-392",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Her her second husband and we're not",
+      "replace": "Her second husband and we're not",
+      "note": "[llm] duplicate words / transcription artifact",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:00:58Z",
+      "updated_at": "2026-04-02T06:26:10Z"
+    },
+    {
+      "id": "672719b6-91a",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Her her second husband and we're not",
+      "replace": "Her second husband and we're not",
+      "note": "[llm] duplicate words / transcription artifact",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:00:59Z",
+      "updated_at": "2026-04-02T06:26:35Z"
+    },
+    {
+      "id": "218fac6a-3c1",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Her her second husband and we're not",
+      "replace": "Her second husband and we're not",
+      "note": "[llm] duplicate words / transcription artifact",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:01:09Z",
+      "updated_at": "2026-04-02T06:26:16Z"
+    },
+    {
+      "id": "34b9b48b-0ab",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "just going to give the",
+      "replace": "just going to give you the",
+      "note": "[llm] duplicate words / transcription artifact",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:03:22Z",
+      "updated_at": "2026-04-02T06:26:24Z"
+    },
+    {
+      "id": "b76ef770-7d7",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Kenneth Himsil",
+      "replace": "Kenneth Himsel",
+      "note": "New person - should be a new node",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:04:32Z",
+      "updated_at": "2026-04-02T06:26:30Z"
+    },
+    {
+      "id": "3388e59f-3f2",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Kico Oil",
+      "replace": "Conoco Oil",
+      "note": "[llm] STT error - company name misheard",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:05:03Z",
+      "updated_at": "2026-04-02T06:26:49Z"
+    },
+    {
+      "id": "1c069d83-f66",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Jerry Frantzve / Jerry Frantzve Feay",
+      "replace": "Jerry Frantzve",
+      "note": "[llm] likely STT mishearing of Frantzve",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:05:23Z",
+      "updated_at": "2026-04-02T06:29:45Z"
+    },
+    {
+      "id": "70fb562c-4d5",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "ething like",
+      "replace": "something like",
+      "note": "[llm] Probable fragment with dropped initial word - likely 'something' or 'Yeah'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:06:14Z",
+      "updated_at": "2026-04-10T17:40:04Z",
+      "match_start_offset": 28345,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false
+    },
+    {
+      "id": "1b60d9db-818",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Jerry France",
+      "replace": "Dr. Jerry Frantzve / Jerry Frantzve",
+      "note": "[heuristic] jerry_france — House style: Frantzve for stepmother line",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:06:23Z",
+      "updated_at": "2026-04-02T06:27:34Z"
+    },
+    {
+      "id": "a37cff16-9ef",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Jerry France",
+      "replace": "Dr. Jerry Frantzve / Jerry Frantzve",
+      "note": "[heuristic] jerry_france — House style: Frantzve for stepmother line",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:06:24Z",
+      "updated_at": "2026-04-02T06:30:24Z"
+    },
+    {
+      "id": "e382cac3-fc7",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Jerry France",
+      "replace": "Dr. Jerry Frantzve / Jerry Frantzve",
+      "note": "[heuristic] jerry_france — House style: Frantzve for stepmother line",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:06:29Z",
+      "updated_at": "2026-04-02T06:30:28Z"
+    },
+    {
+      "id": "b9769a70-6eb",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Jerry Frantzve / Jerry Frantzve Feay",
+      "replace": "Jerry Frantzve",
+      "note": "[llm] likely STT mishearing of Frantzve",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:06:35Z",
+      "updated_at": "2026-04-02T06:37:26Z"
+    },
+    {
+      "id": "39f70134-a62",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "ething like",
+      "replace": "something like",
+      "note": "[llm] Probable fragment with dropped initial word - likely 'something' or 'Yeah'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:06:39Z",
+      "updated_at": "2026-04-10T17:39:21Z",
+      "apply_all_episodes": false,
+      "match_start_offset": 28345,
+      "literal_require_ws_or_punct_after": false
+    },
+    {
+      "id": "0fde1654-3a0",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": ", we'll dig into that.",
+      "replace": "we'll dig into that.",
+      "note": "[llm] Fragment at caption boundary - likely missing 'Yeah' at start",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:07:47Z",
+      "updated_at": "2026-04-02T22:19:56Z",
+      "apply_all_episodes": false
+    },
+    {
+      "id": "91295dcd-21c",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tesarak school",
+      "replace": "Tesseract school",
+      "note": "[llm] STT corruption of canonical institution name",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:08:05Z",
+      "updated_at": "2026-04-02T06:31:04Z"
+    },
+    {
+      "id": "be51f8f5-a6a",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "the tesaract way",
+      "replace": "the Tesseract way",
+      "note": "[llm] STT variant of school name",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:08:12Z",
+      "updated_at": "2026-04-02T06:30:55Z"
+    },
+    {
+      "id": "cb9393e3-cad",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Jerry Bronze Bay",
+      "replace": "Jerry Frantzve",
+      "note": "[llm] STT variant of proper name",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:08:16Z",
+      "updated_at": "2026-04-02T06:31:00Z"
+    },
+    {
+      "id": "1f73cd20-84c",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "I'm I'm not positive about",
+      "replace": "I'm not positive about",
+      "note": "[llm] Minor stutter repetition",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:12:45Z",
+      "updated_at": "2026-04-02T06:31:09Z"
+    },
+    {
+      "id": "0c61effa-121",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "that would that would",
+      "replace": "that would",
+      "note": "[llm] Minor stutter repetition",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:12:53Z",
+      "updated_at": "2026-04-02T06:31:13Z"
+    },
+    {
+      "id": "95726ef9-aa9",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "ipal of that school",
+      "replace": "principal of that school",
+      "note": "[llm] STT corruption of 'principal'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:13:00Z",
+      "updated_at": "2026-04-09T02:32:42Z",
+      "apply_all_episodes": false,
+      "match_start_offset": 38977,
+      "literal_require_ws_or_punct_after": false
+    },
+    {
+      "id": "62345c8a-0cd",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "tesaract",
+      "replace": "Tesseract",
+      "note": "[llm] STT variant - should be 'Tesseract' per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:13:03Z",
+      "updated_at": "2026-04-02T06:31:22Z"
+    },
+    {
+      "id": "39bb3cb9-b78",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Jerry Fron",
+      "replace": "Jerry Frantzve",
+      "note": "[llm] STT corruption of 'Frantzve' per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:13:05Z",
+      "updated_at": "2026-04-02T06:35:33Z"
+    },
+    {
+      "id": "659e6d6d-4ac",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Jerry Frans",
+      "replace": "Jerry Frantzve",
+      "note": "[llm] STT corruption of 'Frantzve' per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:13:09Z",
+      "updated_at": "2026-04-02T06:31:33Z"
+    },
+    {
+      "id": "5d56dd4d-8b3",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Dr. Jerry Fron",
+      "replace": "Dr. Jerry Frantzve",
+      "note": "[llm] STT error - name misheard per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:13:10Z",
+      "updated_at": "2026-04-02T06:31:48Z"
+    },
+    {
+      "id": "408dcd15-59d",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Jerry Frans opens",
+      "replace": "Jerry Frantzve opens",
+      "note": "[llm] STT error - name misheard per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:13:15Z",
+      "updated_at": "2026-04-02T06:31:54Z"
+    },
+    {
+      "id": "51c03f99-fab",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "fatty5.com/candis",
+      "replace": "fatty15.com/candace",
+      "note": "[llm] URL misheard as garbled text",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:15:34Z",
+      "updated_at": "2026-04-02T06:31:59Z"
+    },
+    {
+      "id": "43a4bec8-946",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Boyer",
+      "replace": "Tyler Bowyer",
+      "note": "[llm] STT mishearing of canonical name",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:15:45Z",
+      "updated_at": "2026-04-02T06:32:03Z"
+    },
+    {
+      "id": "05ddd072-f01",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Justin Shrife",
+      "replace": "Justin Strife",
+      "note": "[llm] STT mishearing of canonical name",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:15:48Z",
+      "updated_at": "2026-04-02T06:32:09Z"
+    },
+    {
+      "id": "7fe61597-7d4",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "hundth year",
+      "replace": "hundredth year",
+      "note": "[llm] misheard word",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:16:01Z",
+      "updated_at": "2026-04-02T06:32:13Z"
+    },
+    {
+      "id": "103356ea-030",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "americanfancing.net",
+      "replace": "americanfinancing.net",
+      "note": "[llm] STT error: company name corrupted in URL",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:16:06Z",
+      "updated_at": "2026-04-02T06:32:20Z"
+    },
+    {
+      "id": "f0788834-341",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Jerry Bronface",
+      "replace": "Jerry Frantzve",
+      "note": "[llm] STT mishearing of surname",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:16:39Z",
+      "updated_at": "2026-04-02T06:32:25Z"
+    },
+    {
+      "id": "0afebf35-656",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Masterpiece.alth",
+      "replace": "masterpiece.health",
+      "note": "[llm] STT artifact: URL incorrectly transcribed",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:17:09Z",
+      "updated_at": "2026-04-02T06:32:29Z"
+    },
+    {
+      "id": "fe24c5e7-b19",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Marjorie Finen",
+      "replace": "Marjorie Ferrin",
+      "note": "[llm] STT mishearing of surname",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:17:44Z",
+      "updated_at": "2026-04-02T06:32:34Z"
+    },
+    {
+      "id": "0994edc3-459",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Jerry Bronface",
+      "replace": "Jerry Frantzve",
+      "note": "[llm] STT corruption of name (glossary pattern for Frantzve)",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:17:50Z",
+      "updated_at": "2026-04-02T06:32:38Z"
+    },
+    {
+      "id": "55753d7d-3ca",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Ferrin",
+      "replace": "Frantzve",
+      "note": "[llm] STT corruption of surname (Frantzve -> Faren/Farn)",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:18:32Z",
+      "updated_at": "2026-04-02T06:32:43Z"
+    },
+    {
+      "id": "3b07cf35-4d2",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Farn Farnsworth",
+      "replace": "Farnsworth",
+      "note": "[llm] STT corruption of surname (Frantzve -> Farn)",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:19:08Z",
+      "updated_at": "2026-04-02T06:32:50Z"
+    },
+    {
+      "id": "bc8f75fe-e70",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "We're We're",
+      "replace": "We're",
+      "note": "[llm] STT duplication artifact",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:19:16Z",
+      "updated_at": "2026-04-02T06:32:54Z"
+    },
+    {
+      "id": "2ea54db8-1ee",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "We're not We're not doing this",
+      "replace": "We're not doing this",
+      "note": "[llm] STT duplication artifact",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:19:25Z",
+      "updated_at": "2026-04-02T06:32:58Z"
+    },
+    {
+      "id": "dfa37999-bd3",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tp USA is running",
+      "replace": "TPUSA is running",
+      "note": "[llm] STT error - 'TP' as in TPUSA or Turning Point USA",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:20:18Z",
+      "updated_at": "2026-04-02T06:33:06Z"
+    },
+    {
+      "id": "1a14ce24-2b1",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Vod Balkam is a prominent",
+      "replace": "Voddie Baucham is a prominent",
+      "note": "[llm] Likely STT mishearing of name - not in glossary; person that should be node",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:22:57Z",
+      "updated_at": "2026-04-02T06:25:15Z"
+    },
+    {
+      "id": "8cce3099-bfe",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Dr. France Fay",
+      "replace": "Dr. Jerry Frantzve",
+      "note": "[llm] glossary STT mishearing - name",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "created_at": "2026-04-02T06:23:15Z",
+      "updated_at": "2026-04-02T06:33:02Z"
+    },
+    {
+      "id": "cef05ca3-0f9",
+      "episode": 5,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Erika France",
+      "replace": "Erika Frantzve",
+      "note": "[heuristic] erika_france — Narration often should be Frantzve (not quoted tweet text)",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": true,
+      "created_at": "2026-04-02T21:34:09Z",
+      "updated_at": "2026-04-02T21:34:35Z"
+    },
+    {
+      "id": "839a1d56-010",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Erikica Kirk",
+      "replace": "Erika Kirk",
+      "note": "[llm] STT mishearing of canonical name 'Erika Kirk'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:30:49Z",
+      "updated_at": "2026-04-02T22:33:32Z"
+    },
+    {
+      "id": "f9ddc31c-293",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Breijit",
+      "replace": "Brigitte",
+      "note": "[llm] garbled word - STT error",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:31:24Z",
+      "updated_at": "2026-04-02T22:33:43Z"
+    },
+    {
+      "id": "8b71238b-8ad",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Erikica Kirk",
+      "replace": "Erika Kirk",
+      "note": "[llm] STT mishearing of canonical name 'Erika Kirk'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:31:51Z",
+      "updated_at": "2026-04-02T22:34:04Z"
+    },
+    {
+      "id": "a89bd922-02c",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Erikica Kirk",
+      "replace": "Erika Kirk",
+      "note": "[llm] STT mishearing of canonical name 'Erika Kirk'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:32:03Z",
+      "updated_at": "2026-04-02T22:32:03Z"
+    },
+    {
+      "id": "dbb29fe6-396",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Sigman Freud",
+      "replace": "Sigmund Freud",
+      "note": "[llm] Name mishearing - proper noun",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:32:18Z",
+      "updated_at": "2026-04-02T22:34:17Z"
+    },
+    {
+      "id": "38bead2f-d1d",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Adapting adapting her personality",
+      "replace": "Adapting her personality",
+      "note": "[llm] Stutter duplication artifact",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:32:41Z",
+      "updated_at": "2026-04-02T22:32:41Z"
+    },
+    {
+      "id": "75008acc-db4",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "militaryra program",
+      "replace": "military program",
+      "note": "[llm] Apparent merged word",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:32:55Z",
+      "updated_at": "2026-04-02T22:32:55Z"
+    },
+    {
+      "id": "afcb497a-184",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Lorie Franfveet",
+      "replace": "Lorie Frantzve",
+      "note": "[llm] STT error for Frantzve name",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "d616f35e-114",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Larry Ginta",
+      "replace": "Larry Guinta",
+      "note": "[llm] glossary name STT error",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "191e8fb0-a0e",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Larry and Lorie were",
+      "replace": "Larry and Lori were",
+      "note": "[llm] glossary name STT error",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "1c9d1b6d-68c",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Breijit",
+      "replace": "Breitbart",
+      "note": "[llm] garbled word - STT error",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "a36ad5a2-f94",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "er seventh",
+      "replace": "her seventh",
+      "note": "[llm] STT fragment at chunk start",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-09T02:33:50Z",
+      "match_start_offset": 28379,
+      "literal_require_ws_or_punct_after": false
+    },
+    {
+      "id": "f48d30e3-552",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Marblehood",
+      "replace": "Marblehead",
+      "note": "[llm] Misspelled location name (STT error)",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "37b3b289-27d",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "separ separation agreement",
+      "replace": "separation agreement",
+      "note": "[llm] Stutter duplication/word repetition",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "46191ec6-c81",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "general sus suspicion",
+      "replace": "general suspicion",
+      "note": "[llm] Stutter duplication in speech",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "acaab3c8-77f",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Marblehood, Massachusetts",
+      "replace": "Marblehead, Massachusetts",
+      "note": "[llm] STT misheard town name - Marblehead is the actual town in Massachusetts and birthplace of Marine Corps",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "ab5d274d-65d",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "France",
+      "replace": "Frantzve",
+      "note": "[llm] STT mishearing of surname per glossary (name list context)",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-09T02:30:04Z",
+      "match_start_offset": 38865,
+      "literal_require_ws_or_punct_after": false
+    },
+    {
+      "id": "b607f355-e0a",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Lorie",
+      "replace": "Lori",
+      "note": "[llm] STT mishearing of name per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:38:19Z"
+    },
+    {
+      "id": "8855cf96-558",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Loretta Lynn is one of those rarities.",
+      "replace": "Remove duplicate - single instance",
+      "note": "[llm] Duplicate phrase appears twice - likely caption artifact or stutter",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-09T01:58:17Z",
+      "literal_require_ws_or_punct_after": false
+    },
+    {
+      "id": "8e84d491-32e",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "gambling cas",
+      "replace": "gambling casino",
+      "note": "[llm] Incomplete word likely due to caption boundary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-09T02:34:26Z",
+      "match_start_offset": 39657,
+      "literal_require_ws_or_punct_after": false
+    },
+    {
+      "id": "4fb238df-67f",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "pdsd.com/candis",
+      "replace": "pdsdebt.com/candis",
+      "note": "[llm] Missing letters in web address - appears to have dropped 'ebt'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "f10cdda3-098",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "is steeped in is is steep in",
+      "replace": "is steeped in",
+      "note": "[llm] stutter/duplication artifact",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "219bf3b6-30c",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "great-g grandandmother",
+      "replace": "great-grandmother",
+      "note": "[llm] typo in kinship term",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "039c70e4-8f2",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Lorie's",
+      "replace": "Lori's",
+      "note": "[llm] name variant - likely STT for Lori",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "ceea0f60-b75",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "said woman emailed this.",
+      "replace": "She said a woman emailed this.",
+      "note": "[llm] dropped article/word creating broken grammar",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "db2cde92-e56",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "She said woman emailed this.",
+      "replace": "She said a woman emailed this.",
+      "note": "[llm] missing article creating ungrammatical phrase",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "2bcfa98e-f5b",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "If Erika sung the truth",
+      "replace": "If Erika sang the truth",
+      "note": "[llm] verb tense error",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "8402da1d-339",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Everybody's It's just amazing.",
+      "replace": "Everybody. It's just amazing.",
+      "note": "[llm] merged words creating ungrammatical phrase",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "29f63866-595",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "John T. Goalie",
+      "replace": "John T. Tigoli",
+      "note": "[llm] Name mishearing - STT error for 'Tigoli'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "fb518046-033",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Tesaract schools",
+      "replace": "Tesseract schools",
+      "note": "[llm] STT variant of institution name per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "135d5bfa-f7f",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tesar school",
+      "replace": "Tesseract school",
+      "note": "[llm] STT variant of institution name per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:39:06Z"
+    },
+    {
+      "id": "a76b84f9-ab2",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tesaract",
+      "replace": "Tesseract",
+      "note": "[llm] STT variant of school name per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:39:17Z"
+    },
+    {
+      "id": "eec25045-968",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "So, Tesaract",
+      "replace": "Tesseract",
+      "note": "[llm] STT mishearing of school name per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "37e1ccd5-353",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Tesaraks",
+      "replace": "Tesseracts",
+      "note": "[llm] STT mishearing of school name per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "6fa49c55-a79",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "americanfancing.net/owens",
+      "replace": "americanfinancing.net/owens",
+      "note": "[llm] Clear URL STT error - 'fancing' is a mishearing of 'financing'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-02T22:33:07Z"
+    },
+    {
+      "id": "85b6eb72-3ae",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "tnusa.com/candis",
+      "replace": "tnusa.com/candice",
+      "note": "[llm] Likely STT error - dropped 'e' from Candice (the host name)",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:33:07Z",
+      "updated_at": "2026-04-09T01:56:20Z",
+      "literal_require_ws_or_punct_after": false
+    },
+    {
+      "id": "501fdb74-f05",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "great-g grandandmother",
+      "replace": "great-grandmother",
+      "note": "[llm] typo in kinship term",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:40:05Z",
+      "updated_at": "2026-04-02T22:40:05Z"
+    },
+    {
+      "id": "26b7dc53-e28",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "So, Tesaract",
+      "replace": "Tesseract",
+      "note": "[llm] STT mishearing of school name per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:40:44Z",
+      "updated_at": "2026-04-02T22:40:44Z"
+    },
+    {
+      "id": "e6f50504-58c",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "I just reflected at how happy I am",
+      "replace": "I just reflected on how happy I am to",
+      "note": "[llm] Grammar error - 'reflected at' should be 'reflected on'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:42:55Z",
+      "updated_at": "2026-04-02T22:43:10Z"
+    },
+    {
+      "id": "20336e45-9af",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "extreme effective mimicry",
+      "replace": "extreme affective mimicry",
+      "note": "[llm] Likely STT error: 'extreme effective mimicry' should be 'extreme affective mimicry' or 'emotional mimicry'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:45:13Z",
+      "updated_at": "2026-04-02T22:46:09Z"
+    },
+    {
+      "id": "0e29ec0d-924",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "extreme effective mimicry",
+      "replace": "affective mimicry",
+      "note": "[llm] Likely STT error: 'extreme effective mimicry' should be 'extreme affective mimicry' or 'emotional mimicry'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:45:22Z",
+      "updated_at": "2026-04-02T22:46:38Z"
+    },
+    {
+      "id": "7c46a2a1-b85",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "the Camala Chronicles",
+      "replace": "the Kamala Chronicles",
+      "note": "[llm] STT mishearing of show/person name",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:45:51Z",
+      "updated_at": "2026-04-02T22:46:19Z"
+    },
+    {
+      "id": "e94f6d14-8dc",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "I just reflected at how happy I am",
+      "replace": "I just reflected on how happy I am to",
+      "note": "[llm] Grammar error - 'reflected at' should be 'reflected on'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:47:29Z",
+      "updated_at": "2026-04-02T22:59:05Z"
+    },
+    {
+      "id": "ea6f4a0d-f89",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Loretta Lynn is one of those rarities. She was",
+      "replace": "said was born as Loretta Abbis. She was",
+      "note": "[llm] Totally wrong",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:56:18Z",
+      "updated_at": "2026-04-02T22:56:27Z"
+    },
+    {
+      "id": "ac2095ba-bd2",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Loretta Abbis. I want to sear into your",
+      "replace": "",
+      "note": "[llm] Repeated phrase (stutter-duplication artifact)",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:57:18Z",
+      "updated_at": "2026-04-02T22:57:18Z"
+    },
+    {
+      "id": "85664807-e27",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "pretty curious cap caption",
+      "replace": "pretty curious caption",
+      "note": "[llm] Possible STT error or word duplication",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:57:58Z",
+      "updated_at": "2026-04-02T22:58:43Z"
+    },
+    {
+      "id": "2a52691b-222",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "I I should probably",
+      "replace": "I should probably",
+      "note": "[llm] Duplicate word (STT artifact)",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-02T22:59:16Z",
+      "updated_at": "2026-04-07T18:59:40Z"
+    },
+    {
+      "id": "5f85bdc9-fcc",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Nicole Rothst",
+      "replace": "Nicole Rothstein",
+      "literal_require_ws_or_punct_after": true,
+      "note": "Truncation → full name. Flag: match only when followed by whitespace, punctuation, or EOF (see docs).",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": true,
+      "created_at": "2026-04-07T20:04:36Z",
+      "updated_at": "2026-04-08T06:00:00Z"
+    },
+    {
+      "id": "2100ad71-f2d",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Nicole Rothst",
+      "replace": "Nicole Rothstein",
+      "note": "verify occ #1 · ep1 · @byte 48762 · Truncation → full name. Flag: match only when followed by whitespace, punctuation, or EOF (see docs).",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 48762,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": true,
+      "created_at": "2026-04-09T01:52:53Z",
+      "updated_at": "2026-04-09T02:35:18Z"
+    },
+    {
+      "id": "b8da7895-390",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "tnusa.com/candis",
+      "replace": "tnusa.com/candice",
+      "note": "verify occ #1 · ep1 · @byte 69503 · [llm] Likely STT error - dropped 'e' from Candice (the host name)",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 69503,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-09T01:55:34Z",
+      "updated_at": "2026-04-09T01:55:34Z"
+    },
+    {
+      "id": "3618365d-069",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Loretta Lynn is one of those rarities.",
+      "replace": "Remove duplicate - single instance",
+      "note": "verify occ #1 · ep1 · @byte 39351 · [llm] Duplicate phrase appears twice - likely caption artifact or stutter",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 39351,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-09T01:57:48Z",
+      "updated_at": "2026-04-09T01:57:48Z"
+    },
+    {
+      "id": "92ff0d6e-525",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "France",
+      "replace": "Frantzve",
+      "note": "verify occ #3 · ep1 · @byte 19709 · [llm] STT mishearing of surname per glossary (name list context)",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 26174,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-09T01:59:04Z",
+      "updated_at": "2026-04-09T02:29:42Z"
+    },
+    {
+      "id": "0b1fa59f-b3b",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tim Dylan",
+      "replace": "Tim Dillion",
+      "note": "",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": true,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-09T02:23:01Z",
+      "updated_at": "2026-04-09T02:23:51Z"
+    },
+    {
+      "id": "484129d5-513",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Tim Dylan",
+      "replace": "Tim Dillion",
+      "note": "verify occ #1 · ep1 · @byte 18075",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 18075,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-09T02:23:35Z",
+      "updated_at": "2026-04-09T02:23:35Z"
+    },
+    {
+      "id": "c8f2e901-rst",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Nicole Rothststein",
+      "replace": "Nicole Rothstein",
+      "note": "STT artifact: double suffix after Rothst truncation; not matched by Nicole Rothst→Rothstein row",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": true,
+      "created_at": "2026-04-09T12:00:00Z",
+      "updated_at": "2026-04-09T12:00:00Z"
+    },
+    {
+      "id": "d4e5f607-raw",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Nicole Rothsteineineineineineineineineineineinein",
+      "replace": "Nicole Rothstein",
+      "note": "Raw STT only: repeated “eine” suffix corruption on roommate line; corrected/inscription tiers already clean",
+      "priority": 0,
+      "tiers": [
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-04-09T12:15:00Z",
+      "updated_at": "2026-04-09T12:15:00Z"
+    },
+    {
+      "id": "1aa26db6-989",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Nicole Rothst",
+      "replace": "Nicole Rothstein",
+      "note": "verify occ #1 · ep1 · @byte 49040 · verify occ #1 · ep1 · @byte 48762 · Truncation → full name. Flag: match only when followed by whitespace, punctuation, or EOF (see docs).",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 49040,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": true,
+      "created_at": "2026-04-09T02:34:43Z",
+      "updated_at": "2026-04-09T02:34:43Z"
+    },
+    {
+      "id": "ca13d4b7-ae5",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "billiondoll empire",
+      "replace": "billion-dollar empire",
+      "note": "[llm] STT concatenation error: 'billion' and 'dollar' merged into one word",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:52:04Z",
+      "updated_at": "2026-04-10T16:54:09Z"
+    },
+    {
+      "id": "d21cdd63-6c9",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "billiondoll empire",
+      "replace": "billion-dollar empire",
+      "note": "[llm] STT concatenation error: 'billion' and 'dollar' merged into one word",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "31ba9035-a81",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "streetear company",
+      "replace": "streetwear",
+      "note": "[llm] STT error - 'streetear' is garbled speech for 'streetwear'. The word appears twice this way and contradicts the correct 'street wear' used later in the same transcript.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T17:17:21Z"
+    },
+    {
+      "id": "e582923c-d37",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Proclaim Street",
+      "replace": "Proclaim",
+      "note": "[llm] Unintelligible STT artifact - 'Proclaim Street' makes no sense as a domain name when the sentence already identifies it as 'proclaim.com'. Likely dropped word or syllable.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T17:17:52Z"
+    },
+    {
+      "id": "1628a95f-215",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "eal estate for the Corkran",
+      "replace": "Real estate for the Corkran",
+      "note": "[llm] Truncated caption - missing initial 'R' from what appears to be 'Real estate'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T17:38:31Z"
+    },
+    {
+      "id": "601adbd7-5b5",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "The classic tea",
+      "replace": "The classic tee",
+      "note": "[llm] Likely STT error - 'tea' should be 'tee' (t-shirt) given the clothing product context listing fleece joggers and sweatshirts",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "d75bf896-1c0",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "in a onepar home",
+      "replace": "in a one parent home",
+      "note": "[llm] Obvious dropped space / STT error - 'onepar' should be 'one parent'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "a9c99c82-cb6",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "I I want",
+      "replace": "I want",
+      "note": "[llm] Stutter-duplication artifact: repeated 'I'. STT captured both instances instead of collapsing the repetition.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T17:31:48Z",
+      "match_start_offset": 60191
+    },
+    {
+      "id": "b8aab8a6-0f2",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "if you're wa if they're",
+      "replace": "if you're watching if they're",
+      "note": "[llm] Stutter-duplication artifact: repeated 'If'. STT captured both instances instead of collapsing the repetition.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T17:30:04Z"
+    },
+    {
+      "id": "032847e6-fc3",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "wa if they're",
+      "replace": "watching if they're",
+      "note": "[llm] Garbled/truncated word 'wa' appears between 'you're' and 'if'; likely STT dropout for 'watching' or 'was'. The phrase is incoherent as written.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "380dbea4-50e",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "she has to she she's",
+      "replace": "she has to she's",
+      "note": "[llm] Stutter-duplication artifact: repeated 'she'. STT captured both instances.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "6c0aaed6-298",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "regions are typically selected",
+      "replace": "regents are typically selected",
+      "note": "[llm] 'Regions' is a mishearing of 'regents' - referring to board regents, not geographic areas. This changes meaning substantially.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "8cfbc357-9f0",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Jeffrey Epste",
+      "replace": "Jeffrey Epstein",
+      "note": "[llm] Truncated word: 'Epste' appears twice as cut-off form of 'Epstein' - likely caption artifact but breaks fluency",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T17:33:19Z",
+      "match_start_offset": 38208
+    },
+    {
+      "id": "601ca617-283",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Larry Ginta recommend",
+      "replace": "Larry Guinta recommend",
+      "note": "[llm] STT error: 'Ginta' is a known STT corruption of 'Guinta' per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "52b6f712-b55",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Lorie",
+      "replace": "Lori",
+      "note": "[llm] STT consistently mishears Lori Frantzve's name as 'Lorie'. Flag all instances per glossary pattern for Lorie France/Fron/Abbis.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "ec39440f-1b4",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "robbing taxpayer payers",
+      "replace": "robbing taxpayers",
+      "note": "[llm] Obvious STT word duplication artifact: 'robbing taxpayer payers'. Broken even reading across sentences.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "a63035b2-96e",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Loriy's always lurking in the corner.",
+      "replace": "Lori's always lurking in the corner.",
+      "note": "[llm] STT garbled rendering of a name 'Lori' (or 'Lorie') — the next sentence shows the host correcting to 'Lory's', indicating this was not intentional wordplay or nickname but STT noise capturing the -y ending.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "fa55e75d-195",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "they were they were even engaged",
+      "replace": "they were even engaged",
+      "note": "[llm] Stutter-duplication artifact: 'they were' repeated.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "fed96fec-77b",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "and and po",
+      "replace": "and",
+      "note": "[llm] Repetition artifact from speech/hesitation - duplicate 'and and' with garbled fragment 'po' inserted",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "542bb8ef-fd8",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "to to post",
+      "replace": "to post",
+      "note": "[llm] Repetition artifact 'to to' from speech/hesitation",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "c16114f7-051",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "pray dea",
+      "replace": "pray [incomplete]",
+      "note": "[llm] Incomplete word - transcript cuts off mid-sentence with 'dea' which appears to be the beginning of 'death' or another word",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "8de2584d-2a7",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "proddding",
+      "replace": "prodding",
+      "note": "[llm] Misspelled word; STT likely captured 'prodding' incorrectly.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "edae0240-778",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "balance letter",
+      "replace": "Valentine letter",
+      "note": "[llm] STT misheard 'Valentine letter' as 'balance letter'. Context shows this is clearly referring to the Valentine letter mentioned in the preceding question about Charlie's handwriting.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "cd2c2cdf-7e7",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Nicholas Hager",
+      "replace": "Nicholas Hagger",
+      "note": "[llm] Host says 'Nicholas Hagger' correctly first, then later says 'Hager' - likely a brief slip. Minor but worth noting as inconsistency.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "ca212d71-f7e",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "David Ike",
+      "replace": "David Icke",
+      "note": "[llm] Clear STT mishearing of conspiracy theorist David Icke",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T17:03:22Z"
+    },
+    {
+      "id": "3eb3b62a-416",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "I'm I'm ready",
+      "replace": "I'm ready",
+      "note": "[llm] Stutter-duplication artifact — repeated word from speech-to-text error.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T17:03:46Z"
+    },
+    {
+      "id": "122e0f61-40c",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "It's Lionyl Media",
+      "replace": "It's Lionel Media",
+      "note": "[llm] STT likely dropped the 'e' from 'Lionel'. Contextually the host refers to 'Lionel's channel' and 'Lionel Nation' twice in the same paragraph, making 'Lionyl' an outlier transcription error for the same name.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T17:04:03Z"
+    },
+    {
+      "id": "09d94b78-798",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "threehour",
+      "replace": "three hour",
+      "note": "[llm] STT word merge - 'threehour' is a dropped space/hyphen error where 'three' and 'hour' merged into a nonsense compound word.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:54:29Z",
+      "updated_at": "2026-04-10T16:54:29Z"
+    },
+    {
+      "id": "a2467c52-2cf",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "streetear company",
+      "replace": "streetwear",
+      "note": "verify occ #2 · ep7 · @byte 6315 · [llm] STT error - 'streetear' is garbled speech for 'streetwear'. The word appears twice this way and contradicts the correct 'street wear' used later in the same transcript.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 6315,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T16:56:52Z",
+      "updated_at": "2026-04-10T16:56:52Z"
+    },
+    {
+      "id": "cfb3c708-7d9",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "and and po",
+      "replace": "and",
+      "note": "verify occ #1 · ep7 · @byte 66855 · [llm] Repetition artifact from speech/hesitation - duplicate 'and and' with garbled fragment 'po' inserted",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 66855,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:19:01Z",
+      "updated_at": "2026-04-10T17:20:18Z"
+    },
+    {
+      "id": "b90c3410-4f3",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "they were they were even engaged",
+      "replace": "they were even engaged",
+      "note": "verify occ #1 · ep7 · @byte 57243 · [llm] Stutter-duplication artifact: 'they were' repeated.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 57243,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:21:07Z",
+      "updated_at": "2026-04-10T17:21:22Z"
+    },
+    {
+      "id": "3f2746ad-00a",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "balance letter",
+      "replace": "Valentine letter",
+      "note": "verify occ #1 · ep7 · @byte 78011 · [llm] STT misheard 'Valentine letter' as 'balance letter'. Context shows this is clearly referring to the Valentine letter mentioned in the preceding question about Charlie's handwriting.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 78011,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:22:05Z",
+      "updated_at": "2026-04-10T17:22:18Z"
+    },
+    {
+      "id": "98ba86cc-4c6",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "robbing taxpayer payers",
+      "replace": "robbing taxpayers",
+      "note": "verify occ #1 · ep7 · @byte 53289 · [llm] Obvious STT word duplication artifact: 'robbing taxpayer payers'. Broken even reading across sentences.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 53289,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:22:35Z",
+      "updated_at": "2026-04-10T17:22:48Z"
+    },
+    {
+      "id": "02767092-252",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "in a onepar home",
+      "replace": "in a one parent home",
+      "note": "verify occ #1 · ep7 · @byte 17557 · [llm] Obvious dropped space / STT error - 'onepar' should be 'one parent'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 17557,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:23:10Z",
+      "updated_at": "2026-04-10T17:23:33Z"
+    },
+    {
+      "id": "cd7c030d-012",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Nicholas Hager",
+      "replace": "Nicholas Hagger",
+      "note": "verify occ #1 · ep7 · @byte 76075 · [llm] Host says 'Nicholas Hagger' correctly first, then later says 'Hager' - likely a brief slip. Minor but worth noting as inconsistency.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 76075,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:25:17Z",
+      "updated_at": "2026-04-10T17:25:26Z"
+    },
+    {
+      "id": "8b5d1a5b-66b",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "if you're wa if they're",
+      "replace": "if you're watching if they're",
+      "note": "verify occ #1 · ep7 · @byte 22881 · [llm] Stutter-duplication artifact: repeated 'If'. STT captured both instances instead of collapsing the repetition.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 22881,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:27:34Z",
+      "updated_at": "2026-04-10T17:27:34Z"
+    },
+    {
+      "id": "50cd6a03-470",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Loriy's always lurking in the corner.",
+      "replace": "Lori's always lurking in the corner.",
+      "note": "verify occ #1 · ep7 · @byte 56125 · [llm] STT garbled rendering of a name 'Lori' (or 'Lorie') — the next sentence shows the host correcting to 'Lory's', indicating this was not intentional wordplay or nickname but STT noise capturing the -y ending.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 56125,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:31:59Z",
+      "updated_at": "2026-04-10T17:32:08Z"
+    },
+    {
+      "id": "b91abcbc-9c5",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "proddding",
+      "replace": "prodding",
+      "note": "verify occ #1 · ep7 · @byte 72555 · [llm] Misspelled word; STT likely captured 'prodding' incorrectly.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 72555,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:32:22Z",
+      "updated_at": "2026-04-10T17:32:30Z"
+    },
+    {
+      "id": "37e6d571-124",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Larry Ginta recommend",
+      "replace": "Larry Guinta recommend",
+      "note": "verify occ #1 · ep7 · @byte 49232 · [llm] STT error: 'Ginta' is a known STT corruption of 'Guinta' per glossary",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 49232,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:34:43Z",
+      "updated_at": "2026-04-10T17:34:57Z"
+    },
+    {
+      "id": "a924937b-e46",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "The classic tea",
+      "replace": "The classic tee",
+      "note": "verify occ #1 · ep7 · @byte 10073 · [llm] Likely STT error - 'tea' should be 'tee' (t-shirt) given the clothing product context listing fleece joggers and sweatshirts",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 10073,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:35:19Z",
+      "updated_at": "2026-04-10T17:35:28Z"
+    },
+    {
+      "id": "b6abc383-ad1",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "to to post",
+      "replace": "to post",
+      "note": "verify occ #1 · ep7 · @byte 66868 · [llm] Repetition artifact 'to to' from speech/hesitation",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 66868,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:35:39Z",
+      "updated_at": "2026-04-10T17:35:47Z"
+    },
+    {
+      "id": "f476fd0f-ab6",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Lorie",
+      "replace": "Lori",
+      "note": "verify occ #1 · ep7 · @byte 4449 · [llm] STT consistently mishears Lori Frantzve's name as 'Lorie'. Flag all instances per glossary pattern for Lorie France/Fron/Abbis.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": null,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:36:00Z",
+      "updated_at": "2026-04-10T17:37:03Z"
+    },
+    {
+      "id": "fee64cd6-c8a",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "she has to she she's",
+      "replace": "she has to she's",
+      "note": "verify occ #1 · ep7 · @byte 23563 · [llm] Stutter-duplication artifact: repeated 'she'. STT captured both instances.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 23563,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:37:41Z",
+      "updated_at": "2026-04-10T17:37:57Z"
+    },
+    {
+      "id": "06b69ba5-307",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "eal estate for the Corkran",
+      "replace": "Real estate for the Corkran",
+      "note": "verify occ #1 · ep7 · @byte 7060 · [llm] Truncated caption - missing initial 'R' from what appears to be 'Real estate'",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 7060,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:38:08Z",
+      "updated_at": "2026-04-10T17:38:08Z"
+    },
+    {
+      "id": "26f5fb89-da9",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "threehour",
+      "replace": "three hour",
+      "note": "verify occ #1 · ep7 · @byte 85864 · [llm] STT word merge - 'threehour' is a dropped space/hyphen error where 'three' and 'hour' merged into a nonsense compound word.",
+      "priority": 0,
+      "tiers": [
+        "inscription",
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "match_start_offset": 85864,
+      "apply_all_episodes": false,
+      "literal_require_ws_or_punct_after": false,
+      "created_at": "2026-04-10T17:38:50Z",
+      "updated_at": "2026-04-10T17:39:06Z"
     }
   ]
 }

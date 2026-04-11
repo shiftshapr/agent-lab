@@ -2,9 +2,9 @@
 """
 Recompute meta.transcript_sha256 from on-disk transcript text (UTF-8) and update JSON.
 
-Resolution order per episode N:
-  1) inscription/episode_NNN_transcript.txt
-  2) first transcripts_corrected/episode_NNN*.txt
+Resolution order per episode N (canonical text = corrected when present):
+  1) first transcripts_corrected/episode_NNN*.txt
+  2) inscription/episode_NNN_transcript.txt
   3) first transcripts/episode_NNN*.txt
 
 Updates:
@@ -34,12 +34,12 @@ def sha256_utf8(content: bytes) -> str:
 
 
 def resolve_transcript(ep: int) -> Path | None:
-    ins = PROJECT_DIR / "inscription" / f"episode_{ep:03d}_transcript.txt"
-    if ins.is_file():
-        return ins
     corr = sorted((PROJECT_DIR / "transcripts_corrected").glob(f"episode_{ep:03d}_*.txt"))
     if corr:
         return corr[0]
+    ins = PROJECT_DIR / "inscription" / f"episode_{ep:03d}_transcript.txt"
+    if ins.is_file():
+        return ins
     raw = sorted((PROJECT_DIR / "transcripts").glob(f"episode_{ep:03d}_*.txt"))
     if raw:
         return raw[0]

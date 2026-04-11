@@ -45,6 +45,11 @@
       "canonical": "CIA Project Looking Glass",
       "notes": "When the episode refers to the CIA program by this name, use a dedicated InvestigationTarget; do not subsume under a school node.",
       "stt_often": ["Project Looking Glass", "Looking Glass"]
+    },
+    {
+      "canonical": "Emmanuel Macron",
+      "notes": "President of France; STT often mangles both names into one blob.",
+      "stt_often": ["Emanuel Mcronone", "Emanuel Mcron", "Emmanuel Mcronone", "Mcronone"]
     }
   ],
   "surname_stt": [
@@ -73,6 +78,7 @@
     "If the transcript uses an stt_often form in a name context, flag it (usually high severity) and suggested_fix should use the canonical spelling.",
     "Do NOT flag correct canonical spellings as errors.",
     "Country 'France' in geopolitical context is fine; 'France' as a stand-in for Frantzve in a name list is an error.",
-    "Rhetoric and opinions are not errors."
+    "Rhetoric and opinions are not errors.",
+    "When the transcript mentions the president of France, suing, or Tim Dillon in the same breath as a mangled name, treat obvious STT blobs (e.g. Mcronone) as errors and map to Emmanuel Macron per glossary."
   ]
 }

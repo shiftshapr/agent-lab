@@ -10,6 +10,168 @@ The complete end-to-end flow from raw transcripts to final investigative conclus
 Transcripts → Episode Analysis → Drafts → Verify → Neo4j → Cross-Episode → Reports → Review → Output
 ```
 
+### Workflow diagram (`run_workflow.py` and surrounding steps)
+
+Rough ASCII only (no Mermaid): safe to paste into slides, email, or any markdown viewer.
+
+The scripted **`all`** step does **not** re-fetch YouTube transcripts (avoids Transcript API spend); run `fetch` when you need new captions. During episode analysis, if **`NEO4J_URI`** is set, the protocol can read **max ledger IDs** from Neo4j instead of scanning markdown. **`NEO4J_AUTO_INGEST=true`** pushes each new draft into the graph as episodes complete; otherwise run **`neo4j_ingest.py`** after drafts settle (Stage 4).
+
+```text
+  OPTIONAL                         ALREADY HAVE FILES
+  ---------                        --------------------
+  [ YouTube / input ]              [ transcripts/ on disk ]
+         |                                    |
+         v                                    |
+  [ run_workflow.py fetch ] ------------------+
+         |
+         v
+  +----------------------+
+  |    transcripts/      |  (raw; never edited by name pass)
+  +----------+-----------+
+             |
+             v
+  +------------------------------+
+  | neo4j_corrections.py apply-dir
+  +----------+-------------------+
+             |
+             v
+  +------------------------------+
+  |  transcripts_corrected/    |  (input to episode protocol)
+  +----------+-------------------+
+             |
+             v
+  +------------------------------+
+  | Episode Analysis Protocol    |
+  | (protocol_agent.py)          |
+  +----------+-------------------+
+             |
+             v
+  +------------------------------+
+  |  drafts/  (episode *.md)     |
+  +----------+-------------------+
+             |
+      NEO4J_AUTO_INGEST?
+        /            \
+      yes             no
+      |               |
+      v               |
+  [ neo4j_ingest ]    |
+  (incremental)       |
+      \               /
+       \             /
+        v           v
+  +------------------------------+
+  |      verify_drafts.py        |
+  +----------+-------------------+
+             |
+             v
+  +------------------------------+
+  |  cross_episode_analysis.py   |
+  +----------+-------------------+
+             |
+     --validate + NEO4J_URI ?
+        /            \
+      yes             no
+      |               |
+      v               v
+  +--------------+   +---------------------------+
+  | neo4j_       |   | Review drafts/, log in     |
+  | validate.py  |   | protocol_updates/          |
+  +------+-------+   +---------------------------+
+         |
+         v
+   (same review / handoff as "no" branch)
+```
+
+After you edit drafts or need a full reload, Stage 4’s sequence still applies: **`neo4j_ingest.py --force`**, **`verify_drafts.py`**, **`neo4j_merge.py --auto`**, **`neo4j_validate.py`**, then optional **`neo4j_patterns.py`** / **`neo4j_quality.py`**.
+
+### Neo4j graph structure (ingestion model)
+
+Node labels and relationship types match `scripts/neo4j_ingest.py`. **`InvestigationTarget`** is a legacy label for older drafts or high-numbered nodes without an explicit `Node Type:` line. **`NameCorrection`** nodes are created by `neo4j_corrections.py` (transcript dictionary), not episode markdown; `neo4j_ingest.py --force` clears the graph but **preserves** `NameCorrection`.
+
+Rough ASCII only (no Mermaid).
+
+**A. Episode and evidence spine**
+
+```text
+                         CONTAINS_FAMILY
+  [ Episode ] ------------------------------------> [ ArtifactFamily ]
+       ^                                                     |
+       | APPEARS_IN (many things tie back here)             | HAS_ARTIFACT
+       |                                                     v
+       |                                            [ Artifact ]
+       |                                                     |
+       +------------------------ APPEARS_IN -----------------+
+       |                         (LegalMatter, Meme,       |
+       |                          Person, Topic, ...)       |
+       |                                                     |
+       |              IN_LEGAL_MATTER                        |
+       +----------- [ LegalMatter ] <------------------------+
+       |
+       |   Artifact --DERIVED_FROM / RECORDING_OF--> other Artifact
+```
+
+**B. Register entities (ledger “people / places / orgs / threads”)**
+
+```text
+  Labels (examples):
+    (Person)  (Topic)  (Organization)  (Place)  (InvestigationTarget*)
+
+  * legacy / fallback typing from markdown
+
+  Episode --APPEARS_IN--> each entity above (and LegalMatter, Meme)
+```
+
+**C. Claims hub (how evidence and entities meet)**
+
+```text
+  [ Artifact ] --ANCHORS------------> [ Claim ] <----FROM_EPISODE---- [ Episode ]
+
+  [ Artifact ] --INVOLVES---------> (Person | Topic | Org | Place | Inv.Target*)
+  [ Claim ]    --INVOLVES---------> (same set)
+
+  [ Claim ] --CONTRADICTS / SUPPORTS / QUALIFIES--> [ other Claim ]
+
+  [ Claim ] --CITES_SOURCE--------> [ Artifact ]
+  [ Claim ] --SUPPORTED_BY--------> [ Artifact ]   (when sensitive_topic_tags)
+
+  [ Claim ] --MENTIONS_TOPIC------> (Topic | InvestigationTarget*)
+```
+
+**D. Organizations, roles, identity, memes**
+
+```text
+  (Organization) --OrgLink types--> (Organization)   [also Inv.Target* endpoints]
+
+  OrgLink types (whitelist):
+    SUBSIDIARY_OF, AFFILIATED_WITH, CONTRACTOR_FOR, FUNDED_BY,
+    DONATED_TO, PARENT_OF, SAME_ENTERPRISE_AS
+
+  (Person) --HOLDS_ROLE / MEMBER_OF / CHAIR_OF--> (Organization | Inv.Target*)
+
+  (Entity) --SAME_AS-- (Entity)   [Person|Topic|Org|Place|Inv.Target pairs]
+
+  [ Meme ] --APPEARS_IN--> [ Episode ]
+  [ Claim ] --INVOKES_MEME--> [ Meme ]
+  (Person) --INVOKES_MEME--> [ Meme ]
+  [ Meme ] --TARGETS_NODE--> (Person | Topic | Org | Place | Inv.Target*)
+
+  [ NameCorrection ]     <-- NOT wired by episode ingest; lives in graph for
+                           transcript dictionary; survives neo4j_ingest --force
+```
+
+**E. Legal matter (parties and locus)**
+
+```text
+  (Person|Topic|Org|Place|Inv.Target) --PARTY_IN_MATTER--> [ LegalMatter ]
+
+  [ LegalMatter ] --LOCUS_AT--> (Place | Topic | Org | Inv.Target*)
+```
+
+**Organization ↔ organization** edges use the types from markdown `OrgLink:` lines: `SUBSIDIARY_OF`, `AFFILIATED_WITH`, `CONTRACTOR_FOR`, `FUNDED_BY`, `DONATED_TO`, `PARENT_OF`, `SAME_ENTERPRISE_AS` (endpoints may be `Organization` or legacy `InvestigationTarget` where the parser allows).
+
+**SAME_AS** links two distinct register nodes (Person, Topic, Organization, Place, or InvestigationTarget) declared equivalent in drafts. **TARGETS_NODE** on `Meme` can point to any of those register labels, not only Person.
+
 ---
 
 ## Stage 1: Prepare

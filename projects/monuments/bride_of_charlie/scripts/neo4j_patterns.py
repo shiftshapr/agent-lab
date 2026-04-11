@@ -70,7 +70,8 @@ class PatternDetector:
         """Group claims by investigation target."""
         with self.driver.session() as session:
             result = session.run("""
-                MATCH (c:Claim)-[:INVOLVES]->(it:InvestigationTarget)
+                MATCH (c:Claim)-[:INVOLVES]->(it)
+                WHERE it:InvestigationTarget OR it:Topic OR it:Organization OR it:Place
                 WITH it, collect(c) AS claims
                 WHERE size(claims) >= 2
                 RETURN it.id AS target_id,
@@ -153,7 +154,7 @@ class PatternDetector:
             # Simple degree centrality (count of relationships)
             result = session.run("""
                 MATCH (n)
-                WHERE n:Person OR n:InvestigationTarget
+                WHERE n:Person OR n:Topic OR n:Organization OR n:Place OR n:InvestigationTarget
                 OPTIONAL MATCH (n)-[r]-()
                 WITH n, count(DISTINCT r) AS degree
                 RETURN n.id AS id,
@@ -174,7 +175,7 @@ class PatternDetector:
                 OPTIONAL MATCH (e)-[:CONTAINS_FAMILY]->(af:ArtifactFamily)
                 OPTIONAL MATCH (c:Claim)-[:FROM_EPISODE]->(e)
                 OPTIONAL MATCH (n)-[:APPEARS_IN]->(e)
-                WHERE n:Person OR n:InvestigationTarget
+                WHERE n:Person OR n:Topic OR n:Organization OR n:Place OR n:InvestigationTarget
                 WITH e,
                      count(DISTINCT af) AS families,
                      count(DISTINCT c) AS claims,

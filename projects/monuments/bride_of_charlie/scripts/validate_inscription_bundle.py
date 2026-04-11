@@ -8,10 +8,12 @@ Validate inscription JSON + transcript pairing.
 Usage:
   cd projects/monuments/bride_of_charlie
   python3 scripts/validate_inscription_bundle.py
+  python3 scripts/validate_inscription_bundle.py --episodes 1-7
 """
 
 from __future__ import annotations
 
+import argparse
 import hashlib
 import json
 import re
@@ -75,15 +77,57 @@ def _scan_text_for_forbidden(label: str, text: str, errors: list[str]) -> None:
             errors.append(f"{label}: forbidden pattern ({hint})")
 
 
+def parse_episodes_arg(spec: str | None) -> set[int] | None:
+    """``1,3,5`` or ``1-7`` or ``1-3,5,7`` → set of episode numbers. Empty / invalid → None (all)."""
+    if not spec or not str(spec).strip():
+        return None
+    out: set[int] = set()
+    for chunk in str(spec).split(","):
+        chunk = chunk.strip()
+        if not chunk:
+            continue
+        if "-" in chunk:
+            parts = chunk.split("-", 1)
+            if len(parts) == 2 and parts[0].strip().isdigit() and parts[1].strip().isdigit():
+                lo, hi = int(parts[0].strip()), int(parts[1].strip())
+                a, b = min(lo, hi), max(lo, hi)
+                out.update(range(a, b + 1))
+                continue
+        if chunk.isdigit():
+            out.add(int(chunk))
+    return out if out else None
+
+
+def _transcript_episode_num(name: str) -> int | None:
+    m = re.match(r"episode_(\d{3})_transcript\.txt$", name, re.I)
+    return int(m.group(1)) if m else None
+
+
 def main() -> int:
+    ap = argparse.ArgumentParser(description="Validate inscription JSON + transcript bundle")
+    ap.add_argument(
+        "--episodes",
+        type=str,
+        default=None,
+        metavar="SPEC",
+        help="Limit checks to episode numbers: e.g. 1-7 or 1,2,3 (default: all inscription files)",
+    )
+    args = ap.parse_args()
+    ep_filter = parse_episodes_arg(args.episodes)
+
     errors: list[str] = []
     for tpath in sorted((PROJECT_DIR / "inscription").glob("episode_*_transcript.txt")):
+        tep = _transcript_episode_num(tpath.name)
+        if ep_filter is not None and tep is not None and tep not in ep_filter:
+            continue
         _scan_text_for_forbidden(tpath.name, tpath.read_text(encoding="utf-8"), errors)
 
     for jpath in sorted((PROJECT_DIR / "inscription").glob("episode_*.json")):
         if not re.match(r"episode_\d{3}\.json$", jpath.name):
             continue
         ep = int(jpath.name[8:11])
+        if ep_filter is not None and ep not in ep_filter:
+            continue
         data = json.loads(jpath.read_text(encoding="utf-8"))
         meta = data.get("meta") or {}
         want = meta.get("transcript_sha256")
@@ -107,7 +151,8 @@ def main() -> int:
         for e in errors:
             print(f"  {e}", file=sys.stderr)
         return 1
-    print("[validate] OK: hashes, no forbidden name STT, no ART_/CLAIM_/NODE_ placeholders.")
+    scope = f" (episodes {sorted(ep_filter)})" if ep_filter else ""
+    print(f"[validate] OK{scope}: hashes, no forbidden name STT, no ART_/CLAIM_/NODE_ placeholders.")
     return 0
 
 
