@@ -1211,22 +1211,20 @@
     },
     {
       "id": "afcb497a-184",
-      "episode": 1,
-      "status": "proposed",
+      "episode": 8,
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Lorie Franfveet",
-      "replace": "Lorie Frantzve",
-      "note": "[llm] STT error for Frantzve name",
+      "replace": "Lori Frantzve",
+      "note": "transcriber-007 STT error for Frantzve name",
       "priority": 0,
       "tiers": [
-        "inscription",
-        "transcripts_corrected",
-        "transcripts"
+        "transcripts_corrected"
       ],
       "flags": [],
-      "apply_all_episodes": false,
+      "apply_all_episodes": true,
       "created_at": "2026-04-02T22:33:07Z",
-      "updated_at": "2026-04-02T22:33:07Z"
+      "updated_at": "2026-08-22T05:30:00Z"
     },
     {
       "id": "d616f35e-114",
@@ -3097,6 +3095,194 @@
       "literal_require_ws_or_punct_after": false,
       "created_at": "2026-04-10T17:38:50Z",
       "updated_at": "2026-04-10T17:39:06Z"
+    },
+    {
+      "id": "transcriber-001",
+      "episode": 8,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Buer",
+      "replace": "Tyler Bowyer",
+      "note": "STT mishearing of Tyler Bowyer (ep8)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": true,
+      "created_at": "2026-08-22T05:30:00Z",
+      "updated_at": "2026-08-22T05:30:00Z"
+    },
+    {
+      "id": "transcriber-002",
+      "episode": 8,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Ber",
+      "replace": "Tyler Bowyer",
+      "note": "STT mishearing of Tyler Bowyer (ep8)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": true,
+      "literal_require_ws_or_punct_after": true,
+      "created_at": "2026-08-22T05:30:00Z",
+      "updated_at": "2026-08-22T05:30:00Z"
+    },
+    {
+      "id": "transcriber-003",
+      "episode": 8,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Otter Busher",
+      "replace": "Otto Buscher",
+      "note": "STT mishearing of Otto Buscher",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": true,
+      "created_at": "2026-08-22T05:30:00Z",
+      "updated_at": "2026-08-22T05:30:00Z"
+    },
+    {
+      "id": "transcriber-004",
+      "episode": 8,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Colonel Auto Bucher",
+      "replace": "Colonel Otto Buscher",
+      "note": "STT mishearing of Colonel Otto Buscher",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": true,
+      "created_at": "2026-08-22T05:30:00Z",
+      "updated_at": "2026-08-22T05:30:00Z"
+    },
+    {
+      "id": "transcriber-005",
+      "episode": 8,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Auto Bucher",
+      "replace": "Otto Buscher",
+      "note": "STT mishearing of Otto Buscher",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": true,
+      "created_at": "2026-08-22T05:30:00Z",
+      "updated_at": "2026-08-22T05:30:00Z"
+    },
+    {
+      "id": "transcriber-006",
+      "episode": 8,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Otto Bucher",
+      "replace": "Otto Buscher",
+      "note": "STT mishearing of Otto Buscher",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": true,
+      "created_at": "2026-08-22T05:30:00Z",
+      "updated_at": "2026-08-22T05:30:00Z"
+    },
+    {
+      "id": "transcriber-008",
+      "episode": 8,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Franfveet",
+      "replace": "Frantzve",
+      "note": "STT surname blob for Frantzve",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": true,
+      "created_at": "2026-08-22T05:30:00Z",
+      "updated_at": "2026-08-22T05:30:00Z"
+    },
+    {
+      "id": "transcriber-009",
+      "episode": 8,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Fronbay",
+      "replace": "Frantzve",
+      "note": "STT surname blob for Frantzve",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": true,
+      "created_at": "2026-08-22T05:30:00Z",
+      "updated_at": "2026-08-22T05:30:00Z"
+    },
+    {
+      "id": "transcriber-010",
+      "episode": 8,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Mihail Kogol Nichono",
+      "replace": "Mihail Kogălniceanu",
+      "note": "STT mishearing of Mihail Kogălniceanu",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": true,
+      "created_at": "2026-08-22T05:30:00Z",
+      "updated_at": "2026-08-22T05:30:00Z"
+    },
+    {
+      "id": "transcriber-011",
+      "episode": 8,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Kogalniceanu",
+      "replace": "Kogălniceanu",
+      "note": "STT mishearing of Mihail Kogălniceanu",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": true,
+      "created_at": "2026-08-22T05:30:00Z",
+      "updated_at": "2026-08-22T05:30:00Z"
+    },
+    {
+      "id": "transcriber-012",
+      "episode": 8,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Erica Kirk",
+      "replace": "Erika Kirk",
+      "note": "STT Erica→Erika in Kirk context (ep8 only)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-08-22T05:30:00Z",
+      "updated_at": "2026-08-22T05:30:00Z"
     }
   ]
 }
