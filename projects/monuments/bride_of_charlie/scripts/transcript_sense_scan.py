@@ -521,6 +521,15 @@ def _load_glossary_block(project: Path) -> str:
         oft = ", ".join(p.get("stt_often") or [])
         note = p.get("notes") or ""
         lines.append(f"- {c}" + (f" — often misheard as: {oft}" if oft else "") + (f" — {note}" if note else ""))
+    for p in doc.get("people") or []:
+        if not isinstance(p, dict):
+            continue
+        c = p.get("canonical", "")
+        if not c:
+            continue
+        oft = ", ".join(p.get("stt_often") or [])
+        note = p.get("notes") or ""
+        lines.append(f"- {c}" + (f" — often misheard as: {oft}" if oft else "") + (f" — {note}" if note else ""))
     inst = doc.get("institutions_and_programs") or []
     if inst:
         lines.append("Institutions / programs (canonical spellings; flag STT variants):")

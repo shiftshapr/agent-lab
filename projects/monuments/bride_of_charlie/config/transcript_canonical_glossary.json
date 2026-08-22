@@ -14,7 +14,7 @@
     },
     {
       "canonical": "Lori Frantzve",
-      "stt_often": ["Lorie France", "Lorie Fron", "Lorie Abbis"]
+      "stt_often": ["Lorie France", "Lorie Fron", "Lorie Abbis", "Lorie Franfveet", "Franfveet"]
     },
     {
       "canonical": "Kent Frantzve",
@@ -26,8 +26,36 @@
     },
     {
       "canonical": "Dr. Jerry Frantzve",
-      "notes": "Stepmother line; also Jerry Frantzve.",
+      "notes": "Stepmother line; also Jerry Frantzve. Ledger canonical stays Jerry; YouTube title may say Jerri.",
       "stt_often": ["Dr. Jerry France", "Jerry France", "Jerry Fron", "Dr. Jerry Fron", "Jerry Fronbay"]
+    },
+    {
+      "canonical": "Dr. Jerri Frantzve",
+      "notes": "Same person as Dr. Jerry Frantzve; YouTube title spelling. Ledger canonical stays Jerry.",
+      "stt_often": ["Dr. Jerri France", "Jerri France", "Jerri Fron"]
+    }
+  ],
+  "people": [
+    {
+      "canonical": "Tyler Bowyer",
+      "notes": "TPUSA COO spelling.",
+      "stt_often": ["Tyler Boyer", "Tyler Ber", "Tyler Buer", "Tyler Bowyerer"]
+    },
+    {
+      "canonical": "Rick Erpenbeck",
+      "stt_often": ["Urpenbeck", "Urbanbeck", "Urban Beck", "Urbanback", "Urban Max"]
+    },
+    {
+      "canonical": "Colonel Otto Buscher",
+      "stt_often": ["Otto Bucher", "Auto Bucher", "Otter Busher", "Colonel Auto Bucher"]
+    },
+    {
+      "canonical": "Blake Neff",
+      "stt_often": ["Blake Neph"]
+    },
+    {
+      "canonical": "Andrew Kolvet",
+      "stt_often": ["Andrew Colvett", "Andrew Colbath", "Andrew Cole", "Andrew Kolb"]
     }
   ],
   "institutions_and_programs": [
@@ -50,12 +78,44 @@
       "canonical": "Emmanuel Macron",
       "notes": "President of France; STT often mangles both names into one blob.",
       "stt_often": ["Emanuel Mcronone", "Emanuel Mcron", "Emmanuel Mcronone", "Mcronone"]
+    },
+    {
+      "canonical": "Turning Point USA",
+      "stt_often": ["TurningPoint USA", "Turning Point", "TPUSA"]
+    },
+    {
+      "canonical": "Superfeed Technologies",
+      "stt_often": ["Superfeed Tech", "Super Feed Technologies"]
+    },
+    {
+      "canonical": "Everyday Heroes Like You",
+      "stt_often": ["Everyday Heroes", "Every Day Heroes Like You"]
+    },
+    {
+      "canonical": "Romanian Angels Project",
+      "stt_often": ["Romanian Angel Project", "Romania Angels Project"]
+    },
+    {
+      "canonical": "Black Sea Rotational Force",
+      "stt_often": ["Black Sea Rotation Force", "BSRF"]
+    },
+    {
+      "canonical": "Mihail Kogălniceanu",
+      "stt_often": ["Mihail Kogol Nichono", "Kogalniceanu", "Kogălniceanu Air Base"]
     }
   ],
   "surname_stt": [
     {
       "canonical": "Frantzve",
-      "stt_often": ["France (when clearly a person name, not the country)", "Fron", "Franz", "Frantzv"]
+      "stt_often": ["France (when clearly a person name, not the country)", "Fron", "Franz", "Frantzv", "Franfveet", "Fronbay", "Franchetti", "Frandsen"]
+    },
+    {
+      "canonical": "Bowyer",
+      "stt_often": ["Boyer", "Ber", "Buer", "Bowyerer"]
+    },
+    {
+      "canonical": "Erpenbeck",
+      "stt_often": ["Urpenbeck", "Urbanbeck", "Urban Beck", "Urbanback", "Urban Max"]
     },
     {
       "canonical": "Frantzvestein",
@@ -79,6 +139,9 @@
     "Do NOT flag correct canonical spellings as errors.",
     "Country 'France' in geopolitical context is fine; 'France' as a stand-in for Frantzve in a name list is an error.",
     "Rhetoric and opinions are not errors.",
-    "When the transcript mentions the president of France, suing, or Tim Dillon in the same breath as a mangled name, treat obvious STT blobs (e.g. Mcronone) as errors and map to Emmanuel Macron per glossary."
+    "When the transcript mentions the president of France, suing, or Tim Dillon in the same breath as a mangled name, treat obvious STT blobs (e.g. Mcronone) as errors and map to Emmanuel Macron per glossary.",
+    "Kyle Rittenhouse and Tyler James Robinson are different people; never map one to the other.",
+    "Erika Kirk is not Erikica.",
+    "Tyler Bowyer is the COO spelling."
   ]
 }
