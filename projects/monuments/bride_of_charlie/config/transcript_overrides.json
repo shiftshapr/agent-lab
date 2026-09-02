@@ -3283,6 +3283,23 @@
       "apply_all_episodes": false,
       "created_at": "2026-08-22T05:30:00Z",
       "updated_at": "2026-08-22T05:30:00Z"
+    },
+    {
+      "id": "transcriber-013",
+      "episode": 8,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Boyer",
+      "replace": "Tyler Bowyer",
+      "note": "STT Boyer→Bowyer (ep8 only; ep2 row is episode-scoped)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-02T23:30:00Z",
+      "updated_at": "2026-09-02T23:30:00Z"
     }
   ]
 }
