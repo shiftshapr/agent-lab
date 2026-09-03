@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "description": "Leftover ASR / caption forms that must be absent from transcripts_corrected before episode_analysis. Aligns with config/transcript_canonical_glossary.json and docs/NAME_FIX_LIST.md.",
+  "patterns": [
+    {
+      "id": "tyler_boyer_variants",
+      "regex": "\\bTyler\\s+(?:Boyer|Buer|Ber)\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Tyler Bowyer (COO spelling)"
+    },
+    {
+      "id": "tyler_storm_buer",
+      "regex": "\\bTyler\\s+Storm\\s+Buer\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Tyler Storm Bowyer"
+    },
+    {
+      "id": "erikica",
+      "regex": "\\bErikica\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Erika"
+    },
+    {
+      "id": "erica_kirk",
+      "regex": "\\bErica\\s+Kirk\\b",
+      "flags": [],
+      "note": "House style: Erika Kirk"
+    },
+    {
+      "id": "erika_france",
+      "regex": "\\bErika\\s+France\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Erika Frantzve in narration"
+    },
+    {
+      "id": "erica_france",
+      "regex": "\\bErica\\s+France\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Erika Frantzve"
+    },
+    {
+      "id": "lorie_france",
+      "regex": "\\bLorie\\s+France\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Lori Frantzve"
+    },
+    {
+      "id": "lori_france",
+      "regex": "\\bLori\\s+France\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Lori Frantzve"
+    },
+    {
+      "id": "kent_france",
+      "regex": "\\bKent\\s+France\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Kent Frantzve"
+    },
+    {
+      "id": "jerry_france",
+      "regex": "\\b(?:Dr\\.\\s*)?Jerry\\s+France\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Jerry Frantzve"
+    },
+    {
+      "id": "franfveet",
+      "regex": "\\bFranfveet\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Frantzve"
+    },
+    {
+      "id": "fronbay",
+      "regex": "\\bFronbay\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Frantzve"
+    },
+    {
+      "id": "fronfay",
+      "regex": "\\bFronfay\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Frantzve"
+    },
+    {
+      "id": "bronze_face",
+      "regex": "\\bBronzeface\\b",
+      "flags": ["IGNORECASE"],
+      "note": "STT for Frantzve"
+    },
+    {
+      "id": "kent_wasnt",
+      "regex": "\\bKent\\s+wasn\\b",
+      "flags": ["IGNORECASE"],
+      "note": "STT mangled Kent Frantzve"
+    },
+    {
+      "id": "otter_busher",
+      "regex": "\\bOtter\\s+Busher\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Colonel Otto Buscher"
+    },
+    {
+      "id": "auto_bucher",
+      "regex": "\\bAuto\\s+Bucher\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Otto Buscher"
+    },
+    {
+      "id": "colonel_auto_bucher",
+      "regex": "\\bColonel\\s+Auto\\s+Bucher\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Colonel Otto Buscher"
+    },
+    {
+      "id": "otto_bucher",
+      "regex": "\\bOtto\\s+Bucher\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Otto Buscher"
+    },
+    {
+      "id": "otto_busher",
+      "regex": "\\bOtto\\s+Busher\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Otto Buscher"
+    },
+    {
+      "id": "colonel_otto_busher",
+      "regex": "\\bColonel\\s+Otto\\s+Busher\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Colonel Otto Buscher"
+    },
+    {
+      "id": "candice_host",
+      "regex": "\\bCandice\\b",
+      "flags": [],
+      "note": "Host spelling: Candace"
+    },
+    {
+      "id": "blake_neph",
+      "regex": "\\bBlake\\s+Neph\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Blake Neff"
+    },
+    {
+      "id": "kenton_lorie",
+      "regex": "\\bKenton\\s+Lorie\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Kent and Lori Frantzve"
+    },
+    {
+      "id": "emmanuel_mcronone",
+      "regex": "\\bEmanuel\\s+Mcronone\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Emmanuel Macron"
+    },
+    {
+      "id": "gwinta",
+      "regex": "\\bGwinta\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Use Guinta"
+    },
+    {
+      "id": "france_baststein",
+      "regex": "\\bFrance\\s+Baststein\\b",
+      "flags": ["IGNORECASE"],
+      "note": "Ep5 pun: Frantzvestein"
+    }
+  ]
+}

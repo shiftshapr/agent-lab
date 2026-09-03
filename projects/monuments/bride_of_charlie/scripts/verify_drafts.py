@@ -1,23 +1,21 @@
 """
-Verify Drafts: Numbering Audit + Name Verification
+Verify Drafts: Numbering Audit + Name Verification + pipeline grounding hard-fail
 
 Runs after episode analysis to ensure:
   1. Numbering is correct across episodes (no collisions, proper continuation)
-  2. Person names are verified via web search (spelling check)
-  3. Verification results cached in Neo4j (if available)
+  2. Draft transcript SHA matches transcripts_corrected (no drift)
+  3. Claims/artifacts grounded: anchored artifacts, non-empty snippets, stamp in transcript
+  4. Person names on claims appear in grounded transcript window
+  5. Person names are verified via web search (spelling check)
 
 Usage:
   cd ~/workspace/agent-lab
   uv run --project framework/deer-flow/backend python projects/monuments/bride_of_charlie/scripts/verify_drafts.py
 
-  --skip-search   Skip web search (numbering audit only)
+  --skip-search   Skip web search (numbering + grounding audit only)
+  --skip-grounding  Skip grounding hard-fail (numbering + names only)
   --drafts DIR    Drafts directory (default: project drafts/)
   --no-cache      Don't use Neo4j cache (always search)
-
-Environment:
-  NEO4J_URI       Neo4j connection URI (enables caching)
-  NEO4J_USER      Neo4j username (default: neo4j)
-  NEO4J_PASSWORD  Neo4j password (default: openclaw)
 """
 
 from __future__ import annotations
@@ -33,6 +31,14 @@ from pathlib import Path
 # Script is at projects/monuments/bride_of_charlie/scripts/
 PROJECT_DIR = Path(__file__).resolve().parent.parent
 DRAFTS_DIR = PROJECT_DIR / "drafts"
+SCRIPTS_DIR = Path(__file__).resolve().parent
+
+# Pipeline gates (grounding + SHA freshness)
+sys.path.insert(0, str(SCRIPTS_DIR))
+try:
+    import pipeline_gates as _pipeline_gates
+except ImportError:
+    _pipeline_gates = None  # type: ignore[assignment]
 
 NEO4J_URI = os.getenv("NEO4J_URI")
 NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
@@ -340,7 +346,12 @@ def verify_names_with_search(names: set[str], use_cache: bool = True) -> list[di
 
 def main() -> int:
     ap = argparse.ArgumentParser(description="Verify drafts: numbering + name spelling")
-    ap.add_argument("--skip-search", action="store_true", help="Skip web search (numbering only)")
+    ap.add_argument("--skip-search", action="store_true", help="Skip web search (numbering + grounding only)")
+    ap.add_argument(
+        "--skip-grounding",
+        action="store_true",
+        help="Skip grounding hard-fail (anchored artifacts, snippets, stamps, SHA)",
+    )
     ap.add_argument("--drafts", type=Path, default=DRAFTS_DIR, help="Drafts directory")
     ap.add_argument("--no-cache", action="store_true", help="Don't use Neo4j cache (always search)")
     args = ap.parse_args()
@@ -391,6 +402,25 @@ def main() -> int:
 
     print()
 
+    # --- Grounding + SHA freshness (hard-fail) ---
+    grounding_ok = True
+    if not args.skip_grounding and _pipeline_gates is not None:
+        print("--- Grounding Audit (hard-fail) ---")
+        grounding_errs = _pipeline_gates.audit_all_drafts(PROJECT_DIR, drafts_dir)
+        if grounding_errs:
+            grounding_ok = False
+            for ge in grounding_errs[:40]:
+                print(f"  FAIL: {ge}")
+            if len(grounding_errs) > 40:
+                print(f"  … and {len(grounding_errs) - 40} more")
+        else:
+            print("  Grounding: PASS (anchors, snippets, stamps, SHA)")
+        print()
+    elif not args.skip_grounding:
+        print("--- Grounding Audit ---")
+        print("  (pipeline_gates module unavailable — skipped)")
+        print()
+
     # --- Name verification ---
     print("--- Name Verification ---")
     names = extract_person_names(drafts)
@@ -417,10 +447,20 @@ def main() -> int:
                 print(f"  OK: {r['name']}{cached_marker}")
 
     print()
-    if numbering_ok:
-        print("[verify] Numbering audit: PASS")
-    else:
+    failed = False
+    if not numbering_ok:
         print("[verify] Numbering audit: FAIL (fix collisions above)")
+        failed = True
+    else:
+        print("[verify] Numbering audit: PASS")
+
+    if not args.skip_grounding and not grounding_ok:
+        print("[verify] Grounding audit: FAIL (fix anchors/snippets/stamps or re-extract with --force)")
+        failed = True
+    elif not args.skip_grounding:
+        print("[verify] Grounding audit: PASS")
+
+    if failed:
         return 1
 
     print("[verify] Done. Review any name suggestions and correct drafts if needed.")

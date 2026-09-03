@@ -462,6 +462,29 @@ def _load_project_canonical_nodes(proj_path: Path) -> object | None:
     return mod
 
 
+_CACHE_PIPELINE_GATES: dict[str, object | None] = {}
+
+
+def _load_pipeline_gates(proj_path: Path) -> object | None:
+    """Load {project}/scripts/pipeline_gates.py if present."""
+    key = str(proj_path.resolve())
+    if key in _CACHE_PIPELINE_GATES:
+        return _CACHE_PIPELINE_GATES[key]
+    script = proj_path / "scripts" / "pipeline_gates.py"
+    if not script.is_file():
+        _CACHE_PIPELINE_GATES[key] = None
+        return None
+    mod_name = "pipeline_gates_hook_" + str(abs(hash(key)) % 1_000_000_000)
+    spec = importlib.util.spec_from_file_location(mod_name, script)
+    if spec is None or spec.loader is None:
+        _CACHE_PIPELINE_GATES[key] = None
+        return None
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    _CACHE_PIPELINE_GATES[key] = mod
+    return mod
+
+
 def _queue_phase1_validation_review(proj_path: Path, episode_num: int, stem: str, errors: list[str]) -> None:
     mod = _load_project_canonical_nodes(proj_path)
     if not mod or not errors:
@@ -975,6 +998,16 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
             system_prompt = build_system_prompt(protocol_md, template_md, ledger_context)
 
     neo4j_auto_ingest = os.getenv("NEO4J_AUTO_INGEST", "").lower() in ("1", "true", "yes")
+    pipeline_gates = _load_pipeline_gates(proj_path) if project == "bride_of_charlie" else None
+    gate_failed = False
+
+    if pipeline_gates and only_indices is None:
+        inv = getattr(pipeline_gates, "invalidate_stale_drafts", None)
+        if callable(inv):
+            actions = inv(proj_path, None, remove_files=True)
+            for a in actions:
+                if "removed stale" in a or "SHA" in a:
+                    print(f"[episode-analysis] stale draft: {a}")
 
     # -----------------------------------------------------------------------
     # Phase 1 (two-phase) or single-pass
@@ -988,15 +1021,47 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
         phase1_path = phase1_dir / f"episode_{episode_num:03d}_{path.stem}.json" if two_phase else None
 
         if two_phase:
-            if phase1_path and phase1_path.exists() and not force:
+            stale_block = False
+            if pipeline_gates and phase1_path and phase1_path.exists() and not force:
+                chk = getattr(pipeline_gates, "check_draft_freshness", None)
+                if callable(chk):
+                    fresh, stale_err = chk(proj_path, episode_num, phase1_path=phase1_path)
+                    if not fresh and stale_err:
+                        print(f"       REFUSED: {stale_err}")
+                        log_lines.append(f"ERR {path.name}: {stale_err}")
+                        gate_failed = True
+                        stale_block = True
+            if phase1_path and phase1_path.exists() and not force and not stale_block:
                 print(f"  [{i}/{len(transcripts)}] {path.name} — SKIP Phase 1 (exists)")
                 log_lines.append(f"SKIP Phase 1 {path.name}")
                 continue
         else:
-            if out_path.exists() and not force:
+            stale_block = False
+            if pipeline_gates and out_path.exists() and not force:
+                chk = getattr(pipeline_gates, "check_draft_freshness", None)
+                if callable(chk):
+                    fresh, stale_err = chk(proj_path, episode_num, draft_path=out_path)
+                    if not fresh and stale_err:
+                        print(f"       REFUSED: {stale_err}")
+                        log_lines.append(f"ERR {path.name}: {stale_err}")
+                        gate_failed = True
+                        stale_block = True
+            if out_path.exists() and not force and not stale_block:
                 print(f"  [{i}/{len(transcripts)}] {path.name} — SKIP (already done)")
                 log_lines.append(f"SKIP {path.name} (exists)")
                 continue
+
+        if pipeline_gates:
+            nf = getattr(pipeline_gates, "assert_name_freeze_for_transcript", None)
+            if callable(nf):
+                freeze_errs = nf(path)
+                if freeze_errs:
+                    print(f"       NAME-FREEZE REFUSED extract for {path.name}:")
+                    for fe in freeze_errs:
+                        print(f"         {fe}")
+                    log_lines.append(f"ERR {path.name}: name-freeze ({len(freeze_errs)} hit(s))")
+                    gate_failed = True
+                    continue
 
         print(f"  [{i}/{len(transcripts)}] {path.name}")
         try:
@@ -1013,6 +1078,14 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
                     log_lines.append(f"ERR {path.name}: Phase 1 JSON parse failed")
                     continue
                 inject_extraction_meta(data, raw, _llm_model_label(llm))
+                if pipeline_gates:
+                    stamp = getattr(pipeline_gates, "write_transcript_sha_stamp", None)
+                    sha_fn = getattr(pipeline_gates, "sha256_text", None)
+                    clear = getattr(pipeline_gates, "clear_stale_marker", None)
+                    if callable(stamp) and callable(sha_fn):
+                        stamp(episode_num, sha_fn(raw))
+                    if callable(clear):
+                        clear(episode_num)
                 schema_path = proj_path / "templates" / "entity_schema.json"
                 verrs: list[str] = []
                 if validate_phase1:
@@ -1134,6 +1207,9 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
 
     log_path.write_text("\n".join(log_lines), encoding="utf-8")
     print(f"\n[episode-analysis] Done. Log: {log_path}")
+    if gate_failed:
+        print("[episode-analysis] Pipeline gates failed (name-freeze or stale SHA). Exit 1.", file=sys.stderr)
+        sys.exit(1)
 
 
 if __name__ == "__main__":
