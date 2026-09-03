@@ -19,6 +19,18 @@ from pipeline_gates import (  # noqa: E402
 )
 
 
+def test_tyler_storm_buer_standalone():
+    text = "confirmed ASU undergraduate Storm Buer as the new student regent"
+    hits = scan_text_for_leftovers(text)
+    assert any(h.pattern_id == "storm_buer" for h in hits)
+
+
+def test_sergeant_ber_variants():
+    for phrase in ("Sergeant Ber spoke", "Sgt. Ber arrived", "sgt ber said"):
+        hits = scan_text_for_leftovers(phrase)
+        assert any(h.pattern_id == "sergeant_ber" for h in hits), phrase
+
+
 def test_december_not_flagged_for_ber():
     text = "We met in December and talked about the budget."
     hits = scan_text_for_leftovers(text)
@@ -91,6 +103,8 @@ Transcript Snippet:
 
 
 def main() -> None:
+    test_tyler_storm_buer_standalone()
+    test_sergeant_ber_variants()
     test_december_not_flagged_for_ber()
     test_tyler_buer_flagged()
     test_tyler_boyer_pattern()
