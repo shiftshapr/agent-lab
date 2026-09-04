@@ -3137,8 +3137,8 @@
       "status": "accepted",
       "match_mode": "literal",
       "find": "Otter Busher",
-      "replace": "Otto Buscher",
-      "note": "STT mishearing of Otto Buscher",
+      "replace": "Otto Busher",
+      "note": "STT mishearing of Otto Buscher [REVERTED: replace→Busher]",
       "priority": 0,
       "tiers": [
         "transcripts_corrected"
@@ -3146,7 +3146,7 @@
       "flags": [],
       "apply_all_episodes": false,
       "created_at": "2026-08-22T05:30:00Z",
-      "updated_at": "2026-08-22T05:30:00Z"
+      "updated_at": "2026-09-04T15:00:00Z"
     },
     {
       "id": "transcriber-004",
@@ -3154,8 +3154,8 @@
       "status": "accepted",
       "match_mode": "literal",
       "find": "Colonel Auto Bucher",
-      "replace": "Colonel Otto Buscher",
-      "note": "STT mishearing of Colonel Otto Buscher",
+      "replace": "Colonel Otto Busher",
+      "note": "STT mishearing of Colonel Otto Buscher [REVERTED: replace→Busher]",
       "priority": 0,
       "tiers": [
         "transcripts_corrected"
@@ -3163,7 +3163,7 @@
       "flags": [],
       "apply_all_episodes": false,
       "created_at": "2026-08-22T05:30:00Z",
-      "updated_at": "2026-08-22T05:30:00Z"
+      "updated_at": "2026-09-04T15:00:00Z"
     },
     {
       "id": "transcriber-005",
@@ -3171,8 +3171,8 @@
       "status": "accepted",
       "match_mode": "literal",
       "find": "Auto Bucher",
-      "replace": "Otto Buscher",
-      "note": "STT mishearing of Otto Buscher",
+      "replace": "Otto Busher",
+      "note": "STT mishearing of Otto Buscher [REVERTED: replace→Busher]",
       "priority": 0,
       "tiers": [
         "transcripts_corrected"
@@ -3180,7 +3180,7 @@
       "flags": [],
       "apply_all_episodes": false,
       "created_at": "2026-08-22T05:30:00Z",
-      "updated_at": "2026-08-22T05:30:00Z"
+      "updated_at": "2026-09-04T15:00:00Z"
     },
     {
       "id": "transcriber-006",
@@ -3188,8 +3188,8 @@
       "status": "accepted",
       "match_mode": "literal",
       "find": "Otto Bucher",
-      "replace": "Otto Buscher",
-      "note": "STT mishearing of Otto Buscher",
+      "replace": "Otto Busher",
+      "note": "STT mishearing of Otto Buscher [REVERTED: replace→Busher]",
       "priority": 0,
       "tiers": [
         "transcripts_corrected"
@@ -3197,7 +3197,7 @@
       "flags": [],
       "apply_all_episodes": false,
       "created_at": "2026-08-22T05:30:00Z",
-      "updated_at": "2026-08-22T05:30:00Z"
+      "updated_at": "2026-09-04T15:00:00Z"
     },
     {
       "id": "transcriber-008",
@@ -3392,8 +3392,8 @@
       "status": "accepted",
       "match_mode": "literal",
       "find": "Otter Busher",
-      "replace": "Otto Buscher",
-      "note": "GREENLIGHT B ep5: Otter Busher → Otto Buscher",
+      "replace": "Otto Busher",
+      "note": "GREENLIGHT B ep5: Otter Busher → Otto Buscher [REVERTED: replace→Busher]",
       "priority": 0,
       "tiers": [
         "transcripts_corrected"
@@ -3401,7 +3401,7 @@
       "flags": [],
       "apply_all_episodes": false,
       "created_at": "2026-09-04T05:50:00Z",
-      "updated_at": "2026-09-04T05:50:00Z"
+      "updated_at": "2026-09-04T15:00:00Z"
     },
     {
       "id": "transcriber-020",
@@ -3409,8 +3409,8 @@
       "status": "accepted",
       "match_mode": "literal",
       "find": "Colonel Otto Busher",
-      "replace": "Colonel Otto Buscher",
-      "note": "GREENLIGHT B ep5: Colonel Otto Busher → Colonel Otto Buscher",
+      "replace": "Colonel Otto Busher",
+      "note": "GREENLIGHT B ep5: Colonel Otto Busher → Colonel Otto Buscher [REVERTED: replace→Busher]",
       "priority": 0,
       "tiers": [
         "transcripts_corrected"
@@ -3418,7 +3418,7 @@
       "flags": [],
       "apply_all_episodes": false,
       "created_at": "2026-09-04T05:50:00Z",
-      "updated_at": "2026-09-04T05:50:00Z"
+      "updated_at": "2026-09-04T15:00:00Z"
     },
     {
       "id": "transcriber-021",
@@ -3528,8 +3528,8 @@
       "status": "accepted",
       "match_mode": "literal",
       "find": "Colonel Otto Busher",
-      "replace": "Colonel Otto Buscher",
-      "note": "GREENLIGHT B ep6: Colonel Otto Busher → Colonel Otto Buscher",
+      "replace": "Colonel Otto Busher",
+      "note": "GREENLIGHT B ep6: Colonel Otto Busher → Colonel Otto Buscher [REVERTED: replace→Busher]",
       "priority": 0,
       "tiers": [
         "transcripts_corrected"
@@ -3537,16 +3537,16 @@
       "flags": [],
       "apply_all_episodes": false,
       "created_at": "2026-09-04T05:50:00Z",
-      "updated_at": "2026-09-04T05:50:00Z"
+      "updated_at": "2026-09-04T15:00:00Z"
     },
     {
       "id": "transcriber-028",
       "episode": 6,
       "status": "accepted",
       "match_mode": "literal",
-      "find": "Busher who will be accused",
-      "replace": "Buscher who will be accused",
-      "note": "GREENLIGHT B ep6: caption-split Otto Busher continuation (line after Colonel Otto)",
+      "find": "Buscher who will be accused",
+      "replace": "Busher who will be accused",
+      "note": "REVERT ep6: Buscher→Busher caption-split continuation (was inverted transcriber-028)",
       "priority": 0,
       "tiers": [
         "transcripts_corrected"
@@ -3554,7 +3554,7 @@
       "flags": [],
       "apply_all_episodes": false,
       "created_at": "2026-09-04T05:50:00Z",
-      "updated_at": "2026-09-04T05:50:00Z"
+      "updated_at": "2026-09-04T15:00:00Z"
     },
     {
       "id": "transcriber-029",
@@ -3562,8 +3562,8 @@
       "status": "accepted",
       "match_mode": "literal",
       "find": "Colonel Otto Busher",
-      "replace": "Colonel Otto Buscher",
-      "note": "GREENLIGHT B ep7: Colonel Otto Busher → Colonel Otto Buscher",
+      "replace": "Colonel Otto Busher",
+      "note": "GREENLIGHT B ep7: Colonel Otto Busher → Colonel Otto Buscher [REVERTED: replace→Busher]",
       "priority": 0,
       "tiers": [
         "transcripts_corrected"
@@ -3571,7 +3571,7 @@
       "flags": [],
       "apply_all_episodes": false,
       "created_at": "2026-09-04T05:50:00Z",
-      "updated_at": "2026-09-04T05:50:00Z"
+      "updated_at": "2026-09-04T15:00:00Z"
     },
     {
       "id": "transcriber-030",
@@ -3623,6 +3623,1088 @@
       "apply_all_episodes": false,
       "created_at": "2026-09-04T14:35:00Z",
       "updated_at": "2026-09-04T14:35:00Z"
+    },
+    {
+      "id": "transcriber-033",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Kent Tells Tucker",
+      "replace": "Kent tells Tucker",
+      "note": "Transit text-batch ep1: Kent Tells→Kent tells",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-034",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Larry Ginta",
+      "replace": "Larry Guinta",
+      "note": "Transit proven ep1: Larry Ginta→Guinta",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-035",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Marblehood",
+      "replace": "Marblehead",
+      "note": "Transit proven ep1: Marblehood→Marblehead",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-036",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Lorie",
+      "replace": "Lori",
+      "note": "Transit text-batch ep2: bare Lorie→Lori",
+      "priority": 1,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z",
+      "literal_require_ws_or_punct_after": true
+    },
+    {
+      "id": "transcriber-037",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is, I'm",
+      "replace": "Tyler Bowyer, I'm",
+      "note": "Transit text-batch ep2: strip junk copula Tyler Bowyer is,",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-038",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is? She",
+      "replace": "Tyler Bowyer? She",
+      "note": "Transit text-batch ep2: strip junk copula before ?",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-039",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is. And",
+      "replace": "Tyler Bowyer. And",
+      "note": "Transit text-batch ep2: strip junk copula before And",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-040",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "because Tyler Bowyer is\n[46:10] has a relationship",
+      "replace": "because Tyler Bowyer has a relationship",
+      "note": "Transit text-batch ep2: caption-split Tyler Bowyer is/has",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-041",
+      "episode": 2,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is and the",
+      "replace": "Tyler Bowyer and the",
+      "note": "Transit text-batch ep2: strip junk copula before and",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-042",
+      "episode": 3,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Lorie",
+      "replace": "Lori",
+      "note": "Transit text-batch ep3: bare Lorie→Lori",
+      "priority": 1,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z",
+      "literal_require_ws_or_punct_after": true
+    },
+    {
+      "id": "transcriber-043",
+      "episode": 3,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Loriy",
+      "replace": "Lori",
+      "note": "Transit text-batch ep3: Loriy→Lori",
+      "priority": 1,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z",
+      "literal_require_ws_or_punct_after": true
+    },
+    {
+      "id": "transcriber-044",
+      "episode": 3,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is, among",
+      "replace": "Tyler Bowyer, among",
+      "note": "Transit text-batch ep3: strip junk copula",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-045",
+      "episode": 3,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is, this very",
+      "replace": "Tyler Bowyer, this very",
+      "note": "Transit text-batch ep3: strip junk copula",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-046",
+      "episode": 3,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is is",
+      "replace": "Tyler Bowyer is",
+      "note": "Transit text-batch ep3: double copula",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-047",
+      "episode": 3,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Larry Ginta",
+      "replace": "Larry Guinta",
+      "note": "Transit proven ep3: Larry Ginta→Guinta",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-048",
+      "episode": 4,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Lorie",
+      "replace": "Lori",
+      "note": "Transit text-batch ep4: bare Lorie→Lori",
+      "priority": 1,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z",
+      "literal_require_ws_or_punct_after": true
+    },
+    {
+      "id": "transcriber-049",
+      "episode": 4,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Loriy",
+      "replace": "Lori",
+      "note": "Transit text-batch ep4: Loriy→Lori",
+      "priority": 1,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z",
+      "literal_require_ws_or_punct_after": true
+    },
+    {
+      "id": "transcriber-050",
+      "episode": 4,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Lory",
+      "replace": "Lori",
+      "note": "Transit text-batch ep4: Lory→Lori",
+      "priority": 1,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z",
+      "literal_require_ws_or_punct_after": true
+    },
+    {
+      "id": "transcriber-051",
+      "episode": 4,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "tesaract",
+      "replace": "Tesseract",
+      "note": "Transit text-batch ep4: tesaract→Tesseract",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-052",
+      "episode": 4,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Larry Ginta",
+      "replace": "Larry Guinta",
+      "note": "Transit proven ep4: Larry Ginta→Guinta",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-053",
+      "episode": 4,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Kovette, the PR guy",
+      "replace": "Kolvet, the PR guy",
+      "note": "Transit proven ep4: Kovette→Kolvet",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-054",
+      "episode": 4,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Andrew Kovette.",
+      "replace": "Andrew Kolvet.",
+      "note": "Transit proven ep4: Andrew Kovette→Kolvet",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-055",
+      "episode": 4,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Blake Nef",
+      "replace": "Blake Neff",
+      "note": "Transit proven ep4: Blake Nef→Neff",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-056",
+      "episode": 5,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Lorie",
+      "replace": "Lori",
+      "note": "Transit text-batch ep5: bare Lorie→Lori",
+      "priority": 1,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z",
+      "literal_require_ws_or_punct_after": true
+    },
+    {
+      "id": "transcriber-057",
+      "episode": 5,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Loriy",
+      "replace": "Lori",
+      "note": "Transit text-batch ep5: Loriy→Lori",
+      "priority": 1,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z",
+      "literal_require_ws_or_punct_after": true
+    },
+    {
+      "id": "transcriber-058",
+      "episode": 5,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Lory",
+      "replace": "Lori",
+      "note": "Transit text-batch ep5: Lory→Lori",
+      "priority": 1,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z",
+      "literal_require_ws_or_punct_after": true
+    },
+    {
+      "id": "transcriber-059",
+      "episode": 5,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Lorie Fron forms",
+      "replace": "Lori Frantzve forms",
+      "note": "Transit text-batch ep5: Lorie Fron→Lori Frantzve",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-060",
+      "episode": 5,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Colonel Otto Buscher is",
+      "replace": "Colonel Otto Busher is",
+      "note": "Transit proven ep5: REVERT Buscher→Busher",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-061",
+      "episode": 5,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Otto Buscher.",
+      "replace": "Otto Busher.",
+      "note": "Transit proven ep5: REVERT Otto Buscher→Busher",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-062",
+      "episode": 5,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Constant, just so you know",
+      "replace": "Constanta, just so you know",
+      "note": "Transit proven ep5: Constant→Constanta",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-063",
+      "episode": 5,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is. It's",
+      "replace": "Tyler Bowyer. It's",
+      "note": "Transit text-batch ep5: strip junk copula",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-064",
+      "episode": 5,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Blake Nef is",
+      "replace": "Blake Neff is",
+      "note": "Transit proven ep5: Blake Nef→Neff",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-065",
+      "episode": 5,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Nef could not bear",
+      "replace": "Neff could not bear",
+      "note": "Transit proven ep5: bare Nef→Neff (Blake Neff context)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-066",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Blake Nef",
+      "replace": "Blake Neff",
+      "note": "Transit proven ep6: Blake Nef→Neff",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-067",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "their thing in Constant.",
+      "replace": "their thing in Constanta.",
+      "note": "Transit proven ep6: Constant→Constanta",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-068",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "go to Constant and",
+      "replace": "go to Constanta and",
+      "note": "Transit proven ep6: Constant→Constanta",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-069",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "team in Constant,",
+      "replace": "team in Constanta,",
+      "note": "Transit proven ep6: Constant→Constanta",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-070",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Andrew Kovett's",
+      "replace": "Andrew Kolvet's",
+      "note": "Transit proven ep6: Kovett→Kolvet",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-071",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Curtis Kulovit was",
+      "replace": "Curtis Kolvet was",
+      "note": "Transit proven ep6: Kulovit→Kolvet",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-072",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "wasn't the only Kovette",
+      "replace": "wasn't the only Kolvet",
+      "note": "Transit proven ep6: Kovette→Kolvet",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-073",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Robert Kulvette.",
+      "replace": "Robert Kolvet.",
+      "note": "Transit proven ep6: Kulvette→Kolvet",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-074",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Robert Kovette was",
+      "replace": "Robert Kolvet was",
+      "note": "Transit proven ep6: Kovette→Kolvet",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-075",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Curtis Kovvet who",
+      "replace": "Curtis Kolvet who",
+      "note": "Transit proven ep6: Kovvet→Kolvet",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-076",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Curtis Kovvet, Andrew's",
+      "replace": "Curtis Kolvet, Andrew's",
+      "note": "Transit proven ep6: Kovvet→Kolvet",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-077",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Captain Curtis Kovvet is",
+      "replace": "Captain Curtis Kolvet is",
+      "note": "Transit proven ep6: Captain Curtis Kovvet→Kolvet",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-078",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Andrew Kulvette",
+      "replace": "Andrew Kolvet",
+      "note": "Transit proven ep6: Kulvette→Kolvet",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-079",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Colonel Otto Buscher.",
+      "replace": "Colonel Otto Busher.",
+      "note": "Transit proven ep6: REVERT Buscher→Busher",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-080",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is. Feel",
+      "replace": "Tyler Bowyer. Feel",
+      "note": "Transit text-batch ep6: strip junk copula",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-081",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is makes",
+      "replace": "Tyler Bowyer makes",
+      "note": "Transit text-batch ep6: strip junk copula before makes",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-082",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Tyler Bowyer is's back",
+      "replace": "Tyler Bowyer's back",
+      "note": "Transit text-batch ep6: Tyler Tyler Bowyer is's→Bowyer's",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-083",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is then",
+      "replace": "Tyler Bowyer then",
+      "note": "Transit text-batch ep6: strip junk copula",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-084",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is crossed paths",
+      "replace": "Tyler Bowyer crossed paths",
+      "note": "Transit text-batch ep6: strip junk copula",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-085",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is undergrad in",
+      "replace": "Tyler Bowyer undergrad in",
+      "note": "Transit text-batch ep6: strip junk copula",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-086",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is and both",
+      "replace": "Tyler Bowyer and both",
+      "note": "Transit text-batch ep6: strip junk copula",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-087",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Canace",
+      "replace": "Candace",
+      "note": "Transit text-batch ep7: Canace→Candace",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-088",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Colonel Otto Buscher in",
+      "replace": "Colonel Otto Busher in",
+      "note": "Transit proven ep7: REVERT Buscher→Busher",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-089",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Bernett",
+      "replace": "Burnett",
+      "note": "Transit proven ep7: Bernett→Burnett",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-090",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Andrew Kovette",
+      "replace": "Andrew Kolvet",
+      "note": "Transit proven ep7: Kovette→Kolvet",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-091",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Larry Ginta recommend",
+      "replace": "Larry Guinta recommend",
+      "note": "Transit proven ep7: Larry Ginta→Guinta",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-092",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Loriy",
+      "replace": "Lori",
+      "note": "Transit text-batch ep7: Loriy→Lori",
+      "priority": 1,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z",
+      "literal_require_ws_or_punct_after": true
+    },
+    {
+      "id": "transcriber-093",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Lory",
+      "replace": "Lori",
+      "note": "Transit text-batch ep7: Lory→Lori",
+      "priority": 1,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z",
+      "literal_require_ws_or_punct_after": true
+    },
+    {
+      "id": "transcriber-094",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is's",
+      "replace": "Tyler Bowyer's",
+      "note": "Transit text-batch ep7: Tyler Bowyer is's→Bowyer's",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-095",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Bowyer is.",
+      "replace": "Tyler Bowyer.",
+      "note": "Transit text-batch ep7: strip junk copula (grew up with Tyler Bowyer is.)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T15:00:00Z",
+      "updated_at": "2026-09-04T15:00:00Z"
     }
   ]
 }
