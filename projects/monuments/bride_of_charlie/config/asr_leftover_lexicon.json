@@ -15,18 +15,6 @@
       "note": "Use Tyler Storm Bowyer"
     },
     {
-      "id": "storm_buer",
-      "regex": "\\bStorm\\s+Buer\\b",
-      "flags": ["IGNORECASE"],
-      "note": "Use Storm Bowyer (Tyler Bowyer; ASR drops given name)"
-    },
-    {
-      "id": "sergeant_ber",
-      "regex": "\\b(?:Sergeant|Sgt\\.?)\\s+Ber\\b",
-      "flags": ["IGNORECASE"],
-      "note": "Use Sgt. Bowyer / Tyler Bowyer (Ber is ASR for Bowyer rank line)"
-    },
-    {
       "id": "erikica",
       "regex": "\\bErikica\\b",
       "flags": ["IGNORECASE"],
