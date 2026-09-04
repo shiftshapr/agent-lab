@@ -19,11 +19,16 @@ python3 scripts/apply_transcript_overrides.py --prune-status proposed --confirm-
 
 Usage:
   cd projects/monuments/bride_of_charlie
-  python3 scripts/apply_transcript_overrides.py --dry-run
+  python3 scripts/apply_transcript_overrides.py --dry-run --episode 8
   python3 scripts/apply_transcript_overrides.py --apply --episode 6
   python3 scripts/apply_transcript_overrides.py --apply --id <override_id>
   python3 scripts/apply_transcript_overrides.py --verify-inscription
   python3 scripts/apply_transcript_overrides.py --verify-inscription --episode 1
+
+Episode scope guard: ``--apply`` and ``--dry-run`` require ``--episode N`` or ``--id``.
+Bare ``--apply`` (or ``--dry-run`` with no episode scope) is refused — it can rewrite
+multiple episodes; overrides default to episode-scoped unless ``apply_all_episodes`` is
+explicitly opt-in on a row.
 
 This module is importable (preview_item, run_apply, load_store, save_store) for apps/draft_editor.
 """
