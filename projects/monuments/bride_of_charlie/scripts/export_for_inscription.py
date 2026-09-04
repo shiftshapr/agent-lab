@@ -264,6 +264,28 @@ def main() -> int:
     )
     args = ap.parse_args()
 
+    scripts_dir = Path(__file__).resolve().parent
+    if str(scripts_dir) not in sys.path:
+        sys.path.insert(0, str(scripts_dir))
+    try:
+        import pipeline_gates as pg
+    except ImportError:
+        pg = None  # type: ignore[assignment]
+    if pg is not None:
+        stale_errs: list[str] = []
+        episode_nums = _collect_episode_nums_with_json(args.inscription, args.drafts)
+        for ep in episode_nums:
+            fresh, err = pg.check_draft_freshness(PROJECT_DIR, ep)
+            if not fresh and err:
+                stale_errs.append(err)
+            if pg.is_marked_stale(ep):
+                stale_errs.append(f"episode {ep}: marked stale")
+        if stale_errs:
+            print("[export] REFUSED — draft/transcript SHA drift (re-extract with --force):", file=sys.stderr)
+            for se in stale_errs:
+                print(f"  {se}", file=sys.stderr)
+            return 1
+
     print(f"[export] Exporting to {args.inscription}")
     if args.display_clean and not args.dual_transcripts:
         print("[export] --display-clean requires --dual-transcripts; enabling dual output.")

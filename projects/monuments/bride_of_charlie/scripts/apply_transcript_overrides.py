@@ -20,8 +20,8 @@ python3 scripts/apply_transcript_overrides.py --prune-status proposed --confirm-
 Usage:
   cd projects/monuments/bride_of_charlie
   python3 scripts/apply_transcript_overrides.py --dry-run
-  python3 scripts/apply_transcript_overrides.py --apply
   python3 scripts/apply_transcript_overrides.py --apply --episode 6
+  python3 scripts/apply_transcript_overrides.py --apply --id <override_id>
   python3 scripts/apply_transcript_overrides.py --verify-inscription
   python3 scripts/apply_transcript_overrides.py --verify-inscription --episode 1
 
@@ -1108,6 +1108,16 @@ def filter_scan_findings_against_queue_and_file(
     return kept, stats
 
 
+def _require_episode_or_id_scope(episode: int | None, item_id: str | None) -> str | None:
+    """Return an error message when apply/dry-run would touch all episodes without scope."""
+    if episode is not None or item_id is not None:
+        return None
+    return (
+        "Refusing unscoped apply/dry-run: pass --episode N (or --id) so multiple episodes "
+        "are not rewritten. Overrides default to episode-scoped; apply_all_episodes is opt-in."
+    )
+
+
 def prune_items_by_status(
     status: str,
     *,
@@ -1200,6 +1210,11 @@ def main() -> int:
             prev = (r.get("find_preview") or "").replace("\n", " ")[:72]
             print(f"  {tag:5} ep{r.get('episode')} {r.get('status', ''):8} {r.get('id', '')}  {prev!r}")
         return 0
+
+    scope_err = _require_episode_or_id_scope(args.episode, args.item_id)
+    if scope_err:
+        print(f"[transcript_overrides] error: {scope_err}", file=sys.stderr)
+        return 2
 
     dry = args.dry_run or not args.apply
     rep = run_apply(

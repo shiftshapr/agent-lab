@@ -104,6 +104,24 @@ def main() -> None:
     if args.only:
         os.environ["EPISODE_ANALYSIS_ONLY"] = args.only.strip()
 
+    project = args.project or os.getenv("EPISODE_ANALYSIS_PROJECT", "")
+    if args.protocol == "episode_analysis" and project == "bride_of_charlie":
+        gates = AGENT_LAB / "projects" / "monuments" / "bride_of_charlie" / "scripts" / "pipeline_gates.py"
+        if gates.is_file():
+            import subprocess
+
+            only_ep = args.only.strip() if args.only else os.getenv("EPISODE_ANALYSIS_ONLY", "").strip()
+            cmd = [sys.executable, str(gates), "name-freeze"]
+            if only_ep:
+                cmd.extend(["--episode", only_ep.split(",")[0].strip()])
+            nf = subprocess.run(cmd, cwd=str(AGENT_LAB))
+            if nf.returncode != 0:
+                sys.exit(nf.returncode)
+            inv = [sys.executable, str(gates), "invalidate-stale"]
+            if only_ep:
+                inv.extend(["--episode", only_ep.split(",")[0].strip()])
+            subprocess.run(inv, cwd=str(AGENT_LAB))
+
     if args.list:
         protocols = list_protocols()
         if protocols:

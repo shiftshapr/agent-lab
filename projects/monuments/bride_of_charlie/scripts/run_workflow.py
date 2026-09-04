@@ -80,6 +80,19 @@ def step_build_corrected_transcripts() -> int:
 
 def step_episodes(force: bool = False) -> int:
     print("\n--- Step 2: Run protocol on episodes -> drafts ---")
+    gates = PROJECT_DIR / "scripts" / "pipeline_gates.py"
+    if gates.exists():
+        only_raw = os.getenv("EPISODE_ANALYSIS_ONLY", "").strip()
+        gate_cmd = UV_CMD + ["python", str(gates), "name-freeze"]
+        if only_raw:
+            gate_cmd.extend(["--episode", only_raw.split(",")[0].strip()])
+        code = run(gate_cmd, cwd=AGENT_LAB)
+        if code != 0:
+            return code
+        inv_cmd = UV_CMD + ["python", str(gates), "invalidate-stale"]
+        if only_raw:
+            inv_cmd.extend(["--episode", only_raw.split(",")[0].strip()])
+        run(inv_cmd, cwd=AGENT_LAB)
     if os.getenv("EPISODE_ANALYSIS_TWO_PHASE", "").strip() == "":
         os.environ["EPISODE_ANALYSIS_TWO_PHASE"] = "1"
     os.environ["EPISODE_ANALYSIS_PROJECT"] = "bride_of_charlie"
