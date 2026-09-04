@@ -3317,6 +3317,295 @@
       "apply_all_episodes": false,
       "created_at": "2026-09-03T15:30:00Z",
       "updated_at": "2026-09-03T15:30:00Z"
+    },
+    {
+      "id": "transcriber-015",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Lorie Franfveet",
+      "replace": "Lori Frantzve",
+      "note": "GREENLIGHT B ep1: Lorie Franfveet → Lori Frantzve (transcripts_corrected only)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-016",
+      "episode": 3,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Lorie Fronbay",
+      "replace": "Lori Frantzve",
+      "note": "GREENLIGHT B ep3: Lorie Fronbay → Lori Frantzve",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-017",
+      "episode": 5,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Boyer",
+      "replace": "Tyler Bowyer",
+      "note": "GREENLIGHT B ep5: Tyler Boyer → Tyler Bowyer",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-018",
+      "episode": 5,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Dr. Jerry Fronbay",
+      "replace": "Dr. Jerry Frantzve",
+      "note": "GREENLIGHT B ep5: Dr. Jerry Fronbay → Dr. Jerry Frantzve",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-019",
+      "episode": 5,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Otter Busher",
+      "replace": "Otto Buscher",
+      "note": "GREENLIGHT B ep5: Otter Busher → Otto Buscher",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-020",
+      "episode": 5,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Colonel Otto Busher",
+      "replace": "Colonel Otto Buscher",
+      "note": "GREENLIGHT B ep5: Colonel Otto Busher → Colonel Otto Buscher",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-021",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Boyer",
+      "replace": "Tyler Bowyer",
+      "note": "GREENLIGHT B ep6: Tyler Boyer → Tyler Bowyer",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-022",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Tyler Buer",
+      "replace": "Tyler Bowyer",
+      "note": "GREENLIGHT B ep6: Tyler Buer → Tyler Bowyer",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-023",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Storm Buer",
+      "replace": "Storm Bowyer",
+      "note": "GREENLIGHT B ep6: Storm Buer → Storm Bowyer (caption split from Tyler on prior line)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-024",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "regex",
+      "find": "\\bErikica\\b",
+      "replace": "Erika",
+      "note": "GREENLIGHT B ep6: Erikica → Erika (word-boundary, case-sensitive; like transcriber-014)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-025",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Dr. Jerry Fronbay",
+      "replace": "Dr. Jerry Frantzve",
+      "note": "GREENLIGHT B ep6: Dr. Jerry Fronbay → Dr. Jerry Frantzve",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-026",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Dennis Fronbay",
+      "replace": "Dennis Frantzve",
+      "note": "GREENLIGHT B ep6: Dennis Fronbay → Dennis Frantzve",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-027",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Colonel Otto Busher",
+      "replace": "Colonel Otto Buscher",
+      "note": "GREENLIGHT B ep6: Colonel Otto Busher → Colonel Otto Buscher",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-028",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Busher who will be accused",
+      "replace": "Buscher who will be accused",
+      "note": "GREENLIGHT B ep6: caption-split Otto Busher continuation (line after Colonel Otto)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-029",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Colonel Otto Busher",
+      "replace": "Colonel Otto Buscher",
+      "note": "GREENLIGHT B ep7: Colonel Otto Busher → Colonel Otto Buscher",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-030",
+      "episode": 7,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "committee at the university, Ber applied",
+      "replace": "committee at the university, Bowyer applied",
+      "note": "GREENLIGHT B ep7: student-regent context only — Ber applied → Bowyer applied (not global Ber→Bowyer)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:50:00Z",
+      "updated_at": "2026-09-04T05:50:00Z"
+    },
+    {
+      "id": "transcriber-031",
+      "episode": 1,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Lori Franfveet",
+      "replace": "Lori Frantzve",
+      "note": "GREENLIGHT B ep1: Lori Franfveet → Lori Frantzve (after Lorie→Lori pass left Franfveet suffix)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T05:55:00Z",
+      "updated_at": "2026-09-04T05:55:00Z"
     }
   ]
 }
