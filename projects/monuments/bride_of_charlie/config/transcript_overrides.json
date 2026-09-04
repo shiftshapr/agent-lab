@@ -1616,11 +1616,11 @@
     {
       "id": "29f63866-595",
       "episode": 1,
-      "status": "proposed",
+      "status": "rejected",
       "match_mode": "literal",
       "find": "John T. Goalie",
       "replace": "John T. Tigoli",
-      "note": "[llm] Name mishearing - STT error for 'Tigoli'",
+      "note": "SUPERSEDED: wrong target (Tigoli); use vq-locks-001/002/003 Goalie/Tigoli→John T. Golle",
       "priority": 0,
       "tiers": [
         "inscription",
@@ -1630,7 +1630,7 @@
       "flags": [],
       "apply_all_episodes": false,
       "created_at": "2026-04-02T22:33:07Z",
-      "updated_at": "2026-04-02T22:33:07Z"
+      "updated_at": "2026-09-04T16:32:00Z"
     },
     {
       "id": "fb518046-033",
@@ -4705,6 +4705,326 @@
       "apply_all_episodes": false,
       "created_at": "2026-09-04T15:00:00Z",
       "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "vq-locks-001",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "John T. Goalie",
+      "replace": "John T. Golle",
+      "note": "[video-queue] LOCK ep1 · public John T. Golle; supersedes Goalie→Tigoli",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-002",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Goalie was",
+      "replace": "Golle was",
+      "note": "[video-queue] LOCK ep1 · same person Golle",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-003",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "John Tigoli",
+      "replace": "John T. Golle",
+      "note": "[video-queue] LOCK ep1 · Tigoli ASR of Golle",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-004",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Frantzve Feay",
+      "replace": "Frantzve",
+      "note": "[video-queue] LOCK ep1 [21:57] on-screen birth notice",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-005",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Kenneth Fron",
+      "replace": "Kenneth Frantzve",
+      "note": "[video-queue] LOCK ep1 [17:50] ASR trunc",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-006",
+      "episode": 2,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Fron said",
+      "replace": "Frantzve said",
+      "note": "[video-queue] LOCK ep2 [13:46] on-screen article",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-007",
+      "episode": 2,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Dr. Frantzve Fay",
+      "replace": "Dr. Frantzve",
+      "note": "[video-queue] LOCK ep2 drop Fay",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-008",
+      "episode": 2,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Fay maybe",
+      "replace": "maybe",
+      "note": "[video-queue] LOCK ep2 [22:44] Fay split",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-009",
+      "episode": 5,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Lori Front",
+      "replace": "Lori Frantzve",
+      "note": "[video-queue] LOCK ep5 [11:12] filings",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-010",
+      "episode": 6,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Cakopa",
+      "replace": "Cocopah",
+      "note": "[video-queue] LOCK ep6 on-screen; keep #CocopahPRIDE",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-011",
+      "episode": 6,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Kovets",
+      "replace": "Kolvets",
+      "note": "[video-queue] LOCK ep6 [22:49] residual plural",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-012",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Erika Fron",
+      "replace": "Erika Frantzve",
+      "note": "[video-queue] LOCK ep7 [46:17] ASR",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-013",
+      "episode": 8,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Erika Frandsen",
+      "replace": "Erika Frantzve",
+      "note": "[video-queue] LOCK ep8 [29:48] ASR not prior legal",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-014",
+      "episode": 4,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "grandmother is Angelina",
+      "replace": "grandmother is Angeline",
+      "note": "[video-queue] LOCK ep4 Angeline Abbas",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-015",
+      "episode": 4,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Lombardo Abbis",
+      "replace": "Abbas",
+      "note": "[video-queue] LOCK ep4 drop Lombardo-married mash",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-016",
+      "episode": 4,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Angelene, wife of Joseph Abbis",
+      "replace": "Angeline, wife of Joseph Abbas",
+      "note": "[video-queue] LOCK ep4 Joseph Abbas",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-017",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Abbis",
+      "replace": "Abbas",
+      "priority": 1,
+      "note": "[video-queue] LOCK public Abbas ep1",
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-018",
+      "episode": 3,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Abbis",
+      "replace": "Abbas",
+      "note": "[video-queue] LOCK public Abbas ep3",
+      "priority": 1,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-019",
+      "episode": 4,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Abbis",
+      "replace": "Abbas",
+      "note": "[video-queue] LOCK public Abbas ep4 after specials",
+      "priority": 1,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-020",
+      "episode": 2,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Pittz",
+      "replace": "Pitz",
+      "note": "[video-queue] LOCK ep2 [12:40] Daveed: birth surname Pitz; alternate Pitts in glossary addendum; Pittz is scrub-only find string",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
     }
   ]
 }
