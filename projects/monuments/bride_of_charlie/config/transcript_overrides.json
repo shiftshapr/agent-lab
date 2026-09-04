@@ -4709,7 +4709,7 @@
     {
       "id": "vq-locks-001",
       "episode": 1,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "John T. Goalie",
       "replace": "John T. Golle",
@@ -4720,12 +4720,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-002",
       "episode": 1,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Goalie was",
       "replace": "Golle was",
@@ -4736,12 +4737,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-003",
       "episode": 1,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "John Tigoli",
       "replace": "John T. Golle",
@@ -4752,12 +4754,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-004",
       "episode": 1,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Frantzve Feay",
       "replace": "Frantzve",
@@ -4768,12 +4771,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-005",
       "episode": 1,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Kenneth Fron",
       "replace": "Kenneth Frantzve",
@@ -4784,12 +4788,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-006",
       "episode": 2,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Fron said",
       "replace": "Frantzve said",
@@ -4800,12 +4805,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-007",
       "episode": 2,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Dr. Frantzve Fay",
       "replace": "Dr. Frantzve",
@@ -4816,12 +4822,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-008",
       "episode": 2,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Fay maybe",
       "replace": "maybe",
@@ -4832,12 +4839,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-009",
       "episode": 5,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Lori Front",
       "replace": "Lori Frantzve",
@@ -4848,12 +4856,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-010",
       "episode": 6,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Cakopa",
       "replace": "Cocopah",
@@ -4864,12 +4873,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-011",
       "episode": 6,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Kovets",
       "replace": "Kolvets",
@@ -4880,12 +4890,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-012",
       "episode": 7,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Erika Fron",
       "replace": "Erika Frantzve",
@@ -4896,12 +4907,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-013",
       "episode": 8,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Erika Frandsen",
       "replace": "Erika Frantzve",
@@ -4912,12 +4924,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-014",
       "episode": 4,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "grandmother is Angelina",
       "replace": "grandmother is Angeline",
@@ -4928,12 +4941,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-015",
       "episode": 4,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Lombardo Abbis",
       "replace": "Abbas",
@@ -4944,12 +4958,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-016",
       "episode": 4,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Angelene, wife of Joseph Abbis",
       "replace": "Angeline, wife of Joseph Abbas",
@@ -4960,12 +4975,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-017",
       "episode": 1,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Abbis",
       "replace": "Abbas",
@@ -4976,12 +4992,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-018",
       "episode": 3,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Abbis",
       "replace": "Abbas",
@@ -4992,12 +5009,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-019",
       "episode": 4,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Abbis",
       "replace": "Abbas",
@@ -5008,12 +5026,13 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     },
     {
       "id": "vq-locks-020",
       "episode": 2,
-      "status": "proposed",
+      "status": "accepted",
       "match_mode": "literal",
       "find": "Pittz",
       "replace": "Pitz",
@@ -5024,7 +5043,8 @@
         "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false
+      "apply_all_episodes": false,
+      "updated_at": "2026-09-04T19:56:32Z"
     }
   ]
 }
