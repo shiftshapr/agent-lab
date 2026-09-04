@@ -1616,11 +1616,11 @@
     {
       "id": "29f63866-595",
       "episode": 1,
-      "status": "proposed",
+      "status": "rejected",
       "match_mode": "literal",
       "find": "John T. Goalie",
       "replace": "John T. Tigoli",
-      "note": "[llm] Name mishearing - STT error for 'Tigoli'",
+      "note": "SUPERSEDED: wrong target (Tigoli); use transcriber-096→098 Goalie/Tigoli→John T. Golle (EAI)",
       "priority": 0,
       "tiers": [
         "inscription",
@@ -1630,7 +1630,7 @@
       "flags": [],
       "apply_all_episodes": false,
       "created_at": "2026-04-02T22:33:07Z",
-      "updated_at": "2026-04-02T22:33:07Z"
+      "updated_at": "2026-09-04T16:32:00Z"
     },
     {
       "id": "fb518046-033",
@@ -4705,6 +4705,329 @@
       "apply_all_episodes": false,
       "created_at": "2026-09-04T15:00:00Z",
       "updated_at": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "transcriber-096",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "John T. Goalie",
+      "replace": "John T. Golle",
+      "note": "video-queue ep1: public John T. Golle (EAI)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-097",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Goalie was",
+      "replace": "Golle was",
+      "note": "video-queue ep1: public John T. Golle (EAI)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-098",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "John Tigoli",
+      "replace": "John T. Golle",
+      "note": "video-queue ep1: public John T. Golle (EAI)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-099",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Frantzve Feay",
+      "replace": "Frantzve",
+      "note": "video-queue ep1: birth notice Frantzve",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-100",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Kenneth Fron",
+      "replace": "Kenneth Frantzve",
+      "note": "video-queue ep1: birth notice Frantzve",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-101",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Abbis",
+      "replace": "Abbas",
+      "note": "video-queue ep1: Abbas Cincinnati (all ep1 Abbis hits)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-102",
+      "episode": 2,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Fron said",
+      "replace": "Frantzve said",
+      "note": "video-queue ep2: Frantzve said article",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-103",
+      "episode": 2,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Dr. Frantzve Fay",
+      "replace": "Dr. Frantzve",
+      "note": "video-queue ep2: birth notice Frantzve",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-104",
+      "episode": 2,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Fay maybe",
+      "replace": "maybe",
+      "note": "video-queue ep2: birth notice Frantzve",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-105",
+      "episode": 3,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Abbis",
+      "replace": "Abbas",
+      "note": "video-queue ep3: Abbas Cincinnati",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-106",
+      "episode": 4,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Abbis",
+      "replace": "Abbas",
+      "note": "video-queue ep4: Abbas Cincinnati",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-107",
+      "episode": 4,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "grandmother is Angelina",
+      "replace": "grandmother is Angeline",
+      "note": "video-queue ep4: Abbas Cincinnati (Angeline Abbas)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-108",
+      "episode": 4,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Lombardo Abbis",
+      "replace": "Abbas",
+      "note": "video-queue ep4: Lombardo Abbis→Abbas only; do not merge Anna Lombardo Carrescia",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-109",
+      "episode": 4,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Angelene, wife of Joseph Abbis",
+      "replace": "Angeline, wife of Joseph Abbas",
+      "note": "video-queue ep4: Abbas Cincinnati",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-110",
+      "episode": 5,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Lori Front",
+      "replace": "Lori Frantzve",
+      "note": "video-queue ep5: Lori Frantzve filings",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-111",
+      "episode": 6,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Cakopa",
+      "replace": "Cocopah",
+      "note": "video-queue ep6: on-screen Cocopah tweet (#CocopahPRIDE unchanged)",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-112",
+      "episode": 6,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Kovets",
+      "replace": "Kolvets",
+      "note": "video-queue ep6: Kolvets family spelling",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-113",
+      "episode": 7,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Erika Fron",
+      "replace": "Erika Frantzve",
+      "note": "video-queue ep7: birth notice Frantzve",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
+    },
+    {
+      "id": "transcriber-114",
+      "episode": 8,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Erika Frandsen",
+      "replace": "Erika Frantzve",
+      "note": "video-queue ep8: Frandsen=ASR",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T16:32:00Z",
+      "updated_at": "2026-09-04T16:32:00Z"
     }
   ]
 }
