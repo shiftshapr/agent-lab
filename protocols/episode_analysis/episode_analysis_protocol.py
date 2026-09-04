@@ -557,10 +557,15 @@ def run_phase1_extraction(
     try:
         data = json.loads(text)
     except json.JSONDecodeError as e:
-        preview = text[:400].replace("\n", " ")
-        print(f"       [two-phase] JSON parse error: {e}")
-        print(f"       [two-phase] Response preview: {preview!r}...")
-        return None
+        # Model sometimes appends trailing text after valid JSON ("Extra data").
+        try:
+            data, _end = json.JSONDecoder().raw_decode(text)
+        except json.JSONDecodeError:
+            preview = text[:400].replace("\n", " ")
+            print(f"       [two-phase] JSON parse error: {e}")
+            print(f"       [two-phase] Response preview: {preview!r}...")
+            return None
+        print(f"       [two-phase] Recovered JSON via raw_decode ({e})")
     data.setdefault("meta", {})["episode"] = episode_num
     return _ensure_jsonld(data)
 
@@ -974,11 +979,19 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
             for i, path in enumerate(transcripts, 1):
                 if i not in only_indices:
                     continue
+                short_p = output_dir / f"episode_{i:03d}.md"
+                if short_p.exists():
+                    short_p.unlink()
+                    print(f"  Removed {short_p.name}")
                 out_name = f"episode_{i:03d}_{path.stem}.md"
                 out_p = output_dir / out_name
                 if out_p.exists():
                     out_p.unlink()
                     print(f"  Removed {out_p.name}")
+                for legacy in output_dir.glob(f"episode_{i:03d}_*.md"):
+                    if legacy != out_p and legacy.is_file():
+                        legacy.unlink()
+                        print(f"  Removed {legacy.name}")
                 if two_phase:
                     p1 = phase1_dir / f"episode_{i:03d}_{path.stem}.json"
                     if p1.exists():
@@ -1147,8 +1160,21 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
                 scripts_dir = proj_path / "scripts"
                 assign_script = scripts_dir / "assign_ids.py"
                 if assign_script.exists():
+                    assign_cmd = [
+                        sys.executable,
+                        str(assign_script),
+                        "--batch",
+                        str(phase1_dir),
+                        "--drafts",
+                        str(output_dir),
+                        "--episode-output-names",
+                        "--fresh-ledger",
+                    ]
+                    inscr = os.getenv("EPISODE_ANALYSIS_INSCRIPTION_DIR", "").strip()
+                    if inscr:
+                        assign_cmd.extend(["--inscription", inscr])
                     result = subprocess.run(  # noqa: S603
-                        [sys.executable, str(assign_script), "--batch", str(phase1_dir), "--drafts", str(output_dir)],
+                        assign_cmd,
                         cwd=AGENT_LAB_ROOT,
                         capture_output=True,
                         text=True,

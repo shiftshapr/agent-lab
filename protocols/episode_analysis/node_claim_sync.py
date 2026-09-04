@@ -17,7 +17,89 @@ Operates on **phase-1** JSON (NODE_*, CLAIM_* refs) before ``assign_ids_to_entit
 
 from __future__ import annotations
 
+import ast
+import re
 from typing import Any
+
+# MiniMax / some models emit markdown-style Title Case keys; schema expects snake_case.
+_PHASE1_KEY_ALIASES: dict[str, str] = {
+    "Claim": "claim",
+    "Claim Timestamp": "claim_timestamp",
+    "Anchored Artifacts": "anchored_artifacts",
+    "Related Nodes": "related_nodes",
+    "Investigative Direction": "investigative_direction",
+    "Transcript Snippet": "transcript_snippet",
+    "Bundle Name": "bundle_name",
+    "Video Timestamp": "video_timestamp",
+    "Discovery Timestamp": "discovery_timestamp",
+    "Related Claims": "related_claims",
+    "Same As Artifact Refs": "same_as_artifact_refs",
+    "Contradicts Claim Refs": "contradicts_claim_refs",
+    "Supports Claim Refs": "supports_claim_refs",
+    "Qualifies Claim Refs": "qualifies_claim_refs",
+    "Node Type": "node_type",
+    "Org Link": "org_link",
+    "Topic Kind": "topic_kind",
+    "Organization Kind": "organization_kind",
+    "Place Kind": "place_kind",
+}
+
+
+def _coerce_id_list(val: Any) -> list[str]:
+    if val is None:
+        return []
+    if isinstance(val, list):
+        return [str(x).strip() for x in val if x is not None and str(x).strip()]
+    if isinstance(val, str):
+        s = val.strip()
+        if not s:
+            return []
+        if s.startswith("[") and s.endswith("]"):
+            try:
+                parsed = ast.literal_eval(s)
+                if isinstance(parsed, list):
+                    return [str(x).strip() for x in parsed if str(x).strip()]
+            except (SyntaxError, ValueError):
+                pass
+        if "," in s:
+            return [p.strip() for p in re.split(r"[,;]", s) if p.strip()]
+        return [s]
+    return [str(val).strip()] if str(val).strip() else []
+
+
+def normalize_phase1_field_names(data: dict[str, Any]) -> None:
+    """Map Title Case / stringified-list phase-1 fields to schema snake_case (in-place)."""
+    list_fields = {
+        "anchored_artifacts",
+        "related_nodes",
+        "related_claims",
+        "tags",
+        "contradicts_claim_refs",
+        "supports_claim_refs",
+        "qualifies_claim_refs",
+        "same_as_artifact_refs",
+    }
+
+    def _norm_obj(obj: dict[str, Any]) -> None:
+        for old, new in _PHASE1_KEY_ALIASES.items():
+            if old in obj and new not in obj:
+                obj[new] = obj.pop(old)
+        for key in list_fields:
+            if key in obj:
+                obj[key] = _coerce_id_list(obj[key])
+
+    for art in data.get("artifacts") or []:
+        if isinstance(art, dict):
+            _norm_obj(art)
+            for sub in art.get("sub_items") or []:
+                if isinstance(sub, dict):
+                    _norm_obj(sub)
+    for node in data.get("nodes") or []:
+        if isinstance(node, dict):
+            _norm_obj(node)
+    for claim in data.get("claims") or []:
+        if isinstance(claim, dict):
+            _norm_obj(claim)
 
 
 def sync_placeholder_refs_from_jsonld(data: dict[str, Any]) -> None:

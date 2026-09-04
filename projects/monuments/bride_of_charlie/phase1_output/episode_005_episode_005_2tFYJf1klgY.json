@@ -4,233 +4,391 @@
   "meta": {
     "episode": 5,
     "source": "Candace Owens YouTube",
-    "video_timestamp_range": "00:01–01:03:57",
-    "extraction_timestamp": "2026-03-20T22:19:01Z",
+    "video_timestamp_range": "00:01\u201357:04",
+    "extraction_timestamp": "2026-09-04T23:08:01Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "d377664363ee0006850b3974eedb36d5c4b8e6e439155dd1a5ea9186e30fbfea"
+    "transcript_sha256": "06a3b756f6db827356196cd9d57188ec9abe43dac136eec26a5dc72b54b3b927"
   },
-  "executive_summary": "Episode 5 focuses on Erika Kirk's missing years (2000-2002), her mother Lori Frantzve's military contracts via E3 Tech and IMAT Laboratories receiving $2.4M from Army National Guard, and the establishment of US military presence in Romania in 2010 coinciding with Tyler Bowyer's visit. The episode presents evidence of Jeffrey Epstein's Romanian email connections, Dr. Jerry Frantzve's 1990 Eastern Europe research trips, and Uncle Rick's (Richard Erpenbeck) 2009 legal license suspension for professional negligence involving mortgage fraud. Key artifacts include corporate filings, government disbursement records, and communication records.",
+  "executive_summary": "Episode 5 presents a detailed timeline of Erika Kirk from 1988-2010, focusing on her educational institutions (Tesseract, St. Ursula Villa, Walnut Corner daycare), her mother Lori Frantzve's business entities (E3 Tech, Virtual Registration International, Intellment International, Intel of Arizona LLC), and military/government connections. Key artifacts include the Tesseract charter school documents, corporate filings, and references to Operation Enduring Freedom. The episode introduces multiple investigation targets including the missing years 1999-2002, Lori's government contracts, and Tyler Bowyer's 2010 Romania trip.",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
       "@id": "ART_1",
-      "bundle_name": "Tesaract School Documentation",
+      "family_ref": "ART_1",
+      "bundle_name": "Erika Kirk Timeline Documents",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "ART_1.1",
-          "description": "Dr. Jerry Frantzve research proposal for Eastern Europe trip",
-          "event_timestamp": "1990",
-          "video_timestamp": "02:10–02:29",
+          "ref": "ART_1.1",
+          "description": "Walnut Corner Daycare photo - Halloween 1991",
+          "event_timestamp": "1991",
+          "source_timestamp": "1991",
+          "video_timestamp": "06:53",
+          "discovery_timestamp": "2025-01-15",
           "related_claims": [
             "CLAIM_1"
           ],
-          "confidence": "medium",
-          "transcript_snippet": "final big project of the semester...taking a group of students to Eastern Europe..."
-        },
-        {
-          "@type": "Artifact",
-          "@id": "ART_1.2",
-          "description": "Nancy Gerard Hall military background records",
-          "event_timestamp": "1950s-1977",
-          "video_timestamp": "04:20–05:22",
-          "related_claims": [
-            "CLAIM_3"
+          "related_nodes": [
+            "NODE_2",
+            "NODE_1001"
           ],
-          "confidence": "medium",
-          "transcript_snippet": "Colonel Paul Tracy Gerard...chief military law enforcement officer at the Seventh Army in Europe"
+          "tags": [
+            "photograph",
+            "education"
+          ],
+          "transcript_snippet": "We have that photo for you, which was taken Halloween 1991.",
+          "confidence": "high"
         }
       ]
     },
     {
       "@type": "ArtifactFamily",
       "@id": "ART_2",
-      "bundle_name": "E3 Tech Corporate Records",
+      "family_ref": "ART_2",
+      "bundle_name": "Tesseract School Documents",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "ART_2.1",
-          "description": "E3 Tech website claiming participation in Operation Enduring Freedom",
-          "event_timestamp": "2001",
-          "video_timestamp": "09:41–09:57",
+          "ref": "ART_2.1",
+          "description": "Tesseract school enrollment records 1995-1998",
+          "event_timestamp": "1995-1998",
+          "source_timestamp": "1995-1998",
+          "video_timestamp": "07:05\u201307:45",
+          "discovery_timestamp": "2025-01-15",
           "related_claims": [
-            "CLAIM_5"
+            "CLAIM_2",
+            "CLAIM_3"
           ],
-          "confidence": "medium",
-          "transcript_snippet": "E3 Tech...on its website it tells us that they participate in operation enduring freedom"
+          "related_nodes": [
+            "NODE_2",
+            "NODE_1001"
+          ],
+          "tags": [
+            "education_record"
+          ],
+          "confidence": "high"
         }
       ]
     },
     {
       "@type": "ArtifactFamily",
       "@id": "ART_3",
-      "bundle_name": "Government Funding Records",
+      "family_ref": "ART_3",
+      "bundle_name": "Corporate Filing Records",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "ART_3.1",
-          "description": "House bill budget showing IMAT Laboratories receiving Department of Homeland Security funding",
-          "event_timestamp": "2005",
-          "video_timestamp": "12:47–12:59",
+          "ref": "ART_3.1",
+          "description": "Virtual Registration International Incorporated filing",
+          "event_timestamp": "1999-12-01",
+          "source_timestamp": "1999-12-01",
+          "video_timestamp": "10:56",
+          "discovery_timestamp": "2025-01-15",
           "related_claims": [
-            "CLAIM_6"
+            "CLAIM_4"
           ],
-          "confidence": "medium",
-          "transcript_snippet": "she received money from the government...IMAT Laboratories...Department of Homeland Securities"
+          "related_nodes": [
+            "NODE_4",
+            "NODE_1002"
+          ],
+          "tags": [
+            "corporate_filing"
+          ],
+          "confidence": "high"
         },
         {
           "@type": "Artifact",
           "@id": "ART_3.2",
-          "description": "Army National Guard disclosure of $2.4M to IMET Laboratories",
-          "event_timestamp": "2008",
-          "video_timestamp": "17:10–17:24",
+          "ref": "ART_3.2",
+          "description": "Intellment International Incorporated of Delaware filing",
+          "event_timestamp": "1999-12-02",
+          "source_timestamp": "1999-12-02",
+          "video_timestamp": "11:22",
+          "discovery_timestamp": "2025-01-15",
           "related_claims": [
-            "CLAIM_7"
+            "CLAIM_4"
           ],
-          "confidence": "high",
-          "transcript_snippet": "they gave $2.4 million to IMET laboratories...J3, J6, cyber operations"
+          "related_nodes": [
+            "NODE_4",
+            "NODE_1002"
+          ],
+          "tags": [
+            "corporate_filing"
+          ],
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_3.3",
+          "ref": "ART_3.3",
+          "description": "Intel of Arizona LLC filing",
+          "event_timestamp": "2003-01-09",
+          "source_timestamp": "2003-01-09",
+          "video_timestamp": "12:07",
+          "discovery_timestamp": "2025-01-15",
+          "related_claims": [
+            "CLAIM_4"
+          ],
+          "related_nodes": [
+            "NODE_4",
+            "NODE_1002"
+          ],
+          "tags": [
+            "corporate_filing"
+          ],
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_3.4",
+          "ref": "ART_3.4",
+          "description": "Luminarius LLC filing with Deborah Himil",
+          "event_timestamp": "2010-01-06",
+          "source_timestamp": "2010-01-06",
+          "video_timestamp": "24:02",
+          "discovery_timestamp": "2025-01-15",
+          "related_claims": [
+            "CLAIM_5"
+          ],
+          "related_nodes": [
+            "NODE_4",
+            "NODE_7"
+          ],
+          "tags": [
+            "corporate_filing"
+          ],
+          "confidence": "high"
         }
       ]
     },
     {
       "@type": "ArtifactFamily",
       "@id": "ART_4",
-      "bundle_name": "Everyday Heroes Like You Filing",
+      "family_ref": "ART_4",
+      "bundle_name": "E3 Tech Government Contract Records",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "ART_4.1",
-          "description": "Faith-based organization filing for vulnerable children",
-          "event_timestamp": "April 2009",
-          "video_timestamp": "18:23–18:36",
+          "ref": "ART_4.1",
+          "description": "E3 Tech website claiming participation in Operation Enduring Freedom",
+          "event_timestamp": "2001",
+          "source_timestamp": "2001",
+          "video_timestamp": "09:45",
+          "discovery_timestamp": "2025-01-15",
           "related_claims": [
-            "CLAIM_8"
+            "CLAIM_6",
+            "CLAIM_7"
           ],
-          "confidence": "medium",
-          "transcript_snippet": "she will establish Everyday Heroes Like You in April...faithbased organization...vulnerable children"
+          "related_nodes": [
+            "NODE_4",
+            "NODE_1003"
+          ],
+          "tags": [
+            "government_contract",
+            "website"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_4.2",
+          "ref": "ART_4.2",
+          "description": "IMAT Laboratories receiving $2.4M from Army National Guard - House bill budget",
+          "event_timestamp": "2008",
+          "source_timestamp": "2008",
+          "video_timestamp": "17:10\u201317:24",
+          "discovery_timestamp": "2025-01-15",
+          "related_claims": [
+            "CLAIM_8",
+            "CLAIM_9"
+          ],
+          "related_nodes": [
+            "NODE_4",
+            "NODE_1003"
+          ],
+          "tags": [
+            "government_funding",
+            "budget_document"
+          ],
+          "confidence": "high"
         }
       ]
     },
     {
       "@type": "ArtifactFamily",
       "@id": "ART_5",
-      "bundle_name": "Romanian Military Base Documents",
+      "family_ref": "ART_5",
+      "bundle_name": "Everyday Heroes Like You Charity Records",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "ART_5.1",
-          "description": "Romanian government agreement for US military base along Black Sea",
-          "event_timestamp": "October 2009",
-          "video_timestamp": "19:24–19:29",
+          "ref": "ART_5.1",
+          "description": "Everyday Heroes Like You filing - faith-based organization for vulnerable children",
+          "event_timestamp": "2009-04",
+          "source_timestamp": "2009-07-02",
+          "video_timestamp": "18:24",
+          "discovery_timestamp": "2025-01-15",
           "related_claims": [
-            "CLAIM_9",
             "CLAIM_10"
           ],
-          "confidence": "medium",
-          "transcript_snippet": "Romanian government has agreed to allow America to set up a military base along the Black Sea"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "ART_5.2",
-          "description": "Black Sea Rotational Force 2010 establishment at Mihail Kogalniceanu Air Base",
-          "event_timestamp": "May 17, 2010",
-          "video_timestamp": "27:50–28:06",
-          "related_claims": [
-            "CLAIM_11"
+          "related_nodes": [
+            "NODE_4",
+            "NODE_1004"
           ],
-          "confidence": "high",
-          "transcript_snippet": "Marines, sailors...Black Sea Rotational Force 2010...Mihail Kogalniceanu airfield on May 17th"
+          "tags": [
+            "charity_filing",
+            "nonprofit"
+          ],
+          "confidence": "high"
         }
       ]
     },
     {
       "@type": "ArtifactFamily",
       "@id": "ART_6",
-      "bundle_name": "Jeffrey Epstein Romanian Records",
+      "family_ref": "ART_6",
+      "bundle_name": "Military Base Agreements",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "ART_6.1",
-          "description": "Epstein emails showing Romanian model procurement from 2009",
-          "event_timestamp": "2009",
-          "video_timestamp": "22:23–22:38",
+          "ref": "ART_6.1",
+          "description": "Romanian government agreement to allow US military base along Black Sea",
+          "event_timestamp": "2009-10",
+          "source_timestamp": "2009-10",
+          "video_timestamp": "19:23",
+          "discovery_timestamp": "2025-01-15",
           "related_claims": [
+            "CLAIM_11",
             "CLAIM_12"
           ],
-          "confidence": "medium",
-          "transcript_snippet": "Jeffrey Epstein...emails going back to 2009...interested in procuring models from Romania"
+          "related_nodes": [
+            "NODE_1005",
+            "NODE_6"
+          ],
+          "tags": [
+            "military",
+            "international_agreement"
+          ],
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_6.2",
+          "ref": "ART_6.2",
+          "description": "Black Sea Rotational Force 10 establishing Mihail Kogalniceanu Air Base",
+          "event_timestamp": "2010-05-17",
+          "source_timestamp": "2010-05-17",
+          "video_timestamp": "27:42",
+          "discovery_timestamp": "2025-01-15",
+          "related_claims": [
+            "CLAIM_13"
+          ],
+          "related_nodes": [
+            "NODE_1005",
+            "NODE_6"
+          ],
+          "tags": [
+            "military",
+            "base"
+          ],
+          "confidence": "high"
         }
       ]
     },
     {
       "@type": "ArtifactFamily",
       "@id": "ART_7",
-      "bundle_name": "Tyler Bowyer Romania Communication",
+      "family_ref": "ART_7",
+      "bundle_name": "Jeffrey Epstein Email Records",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "ART_7.1",
-          "description": "Message conversation about Tyler Bowyer's Romania trip",
-          "event_timestamp": "2010",
-          "video_timestamp": "29:35–30:12",
+          "ref": "ART_7.1",
+          "description": "Epstein emails showing interest in Romanian women starting 2009",
+          "event_timestamp": "2009",
+          "source_timestamp": "2009",
+          "video_timestamp": "22:25",
+          "discovery_timestamp": "2025-01-15",
           "related_claims": [
-            "CLAIM_13",
             "CLAIM_14"
           ],
-          "confidence": "medium",
-          "transcript_snippet": "Tyler writes, I went to Romania to do some work with a senator in the parliament there"
+          "related_nodes": [
+            "NODE_8",
+            "NODE_1005"
+          ],
+          "tags": [
+            "email",
+            "trafficking"
+          ],
+          "confidence": "medium"
         }
       ]
     },
     {
       "@type": "ArtifactFamily",
       "@id": "ART_8",
-      "bundle_name": "Richard Erpenbeck Legal Records",
+      "family_ref": "ART_8",
+      "bundle_name": "Tyler Bowyer Romania Records",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "ART_8.1",
-          "description": "Kentucky Bar Association article on license suspension",
-          "event_timestamp": "2009",
-          "video_timestamp": "36:50–37:06",
+          "ref": "ART_8.1",
+          "description": "Message conversation about Tyler Bowyer's Romania trip",
+          "event_timestamp": "2010",
+          "source_timestamp": "2010",
+          "video_timestamp": "29:38\u201330:12",
+          "discovery_timestamp": "2025-01-15",
           "related_claims": [
             "CLAIM_15",
-            "CLAIM_16",
-            "CLAIM_17"
+            "CLAIM_16"
           ],
-          "confidence": "high",
-          "transcript_snippet": "There actually was a very detailed article about how he lost his license"
+          "related_nodes": [
+            "NODE_6",
+            "NODE_1005"
+          ],
+          "tags": [
+            "communication_record"
+          ],
+          "confidence": "medium"
         }
       ]
     },
     {
       "@type": "ArtifactFamily",
       "@id": "ART_9",
-      "bundle_name": "Corporate Formation Documents",
+      "family_ref": "ART_9",
+      "bundle_name": "Rick Erpenbeck License Revocation Article",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "ART_9.1",
-          "description": "Virtual Registration International Incorporated formation",
-          "event_timestamp": "December 1, 1999",
-          "video_timestamp": "10:56–10:58",
+          "ref": "ART_9.1",
+          "description": "Article detailing reasons for Rick Erpenbeck's license revocation",
+          "event_timestamp": "2009",
+          "source_timestamp": "2009",
+          "video_timestamp": "37:05",
+          "discovery_timestamp": "2025-01-15",
           "related_claims": [
-            "CLAIM_4"
-          ],
-          "confidence": "medium",
-          "transcript_snippet": "she forms Virtual Registration International Incorporated...with the help of Rick and Donna Erpenbeck"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "ART_9.2",
-          "description": "Luminarius LLC formation with daughter",
-          "event_timestamp": "January 6, 2010",
-          "video_timestamp": "24:02–24:14",
-          "related_claims": [
+            "CLAIM_17",
             "CLAIM_18"
           ],
-          "confidence": "medium",
-          "transcript_snippet": "Jerry Frantzve Fay creates an LLC called Luminarius with her daughter...another charter school company"
+          "related_nodes": [
+            "NODE_9",
+            "NODE_1006"
+          ],
+          "tags": [
+            "legal_document",
+            "news_article"
+          ],
+          "confidence": "high"
         }
       ]
     }
@@ -239,16 +397,13 @@
     {
       "@type": "Person",
       "@id": "NODE_1",
+      "ref": "NODE_1",
       "name": "Charlie Kirk",
       "type": "person",
-      "description": "Primary investigation subject - founder of Turning Point USA, deceased",
-      "related_artifacts": [
-        "ART_6.1",
-        "ART_7.1"
-      ],
+      "description": "Primary investigation subject - deceased conservative activist",
+      "related_artifacts": [],
       "related_claims": [
-        "CLAIM_20",
-        "CLAIM_21"
+        "CLAIM_19"
       ],
       "tags": [
         "key_figure",
@@ -258,30 +413,19 @@
     {
       "@type": "Person",
       "@id": "NODE_2",
+      "ref": "NODE_2",
       "name": "Erika Kirk",
       "type": "person",
-      "description": "Primary subject - Charlie Kirk's widow, subject of birth records and timeline investigation",
+      "description": "Primary subject - Charlie Kirk's widow",
       "related_artifacts": [
         "ART_1.1",
-        "ART_2.1",
-        "ART_3.1",
-        "ART_3.2",
-        "ART_4.1",
-        "ART_5.2",
-        "ART_7.1",
-        "ART_9.2"
+        "ART_2.1"
       ],
       "related_claims": [
         "CLAIM_1",
-        "CLAIM_4",
-        "CLAIM_5",
-        "CLAIM_6",
-        "CLAIM_7",
-        "CLAIM_8",
-        "CLAIM_11",
-        "CLAIM_13",
-        "CLAIM_14",
-        "CLAIM_18"
+        "CLAIM_2",
+        "CLAIM_3",
+        "CLAIM_20"
       ],
       "tags": [
         "key_figure"
@@ -289,17 +433,19 @@
     },
     {
       "@type": "Person",
-      "@id": "NODE_3",
+      "@id": "NODE_4",
+      "ref": "NODE_4",
       "name": "Lori Frantzve",
       "type": "person",
-      "description": "Erika's mother - runs E3 Tech, multiple LLCs, connected to military contracts",
+      "description": "Erika's mother - runs multiple tech companies with government contracts",
       "related_artifacts": [
-        "ART_2.1",
         "ART_3.1",
         "ART_3.2",
+        "ART_3.3",
+        "ART_3.4",
         "ART_4.1",
-        "ART_9.1",
-        "ART_9.2"
+        "ART_4.2",
+        "ART_5.1"
       ],
       "related_claims": [
         "CLAIM_4",
@@ -307,585 +453,893 @@
         "CLAIM_6",
         "CLAIM_7",
         "CLAIM_8",
-        "CLAIM_18"
+        "CLAIM_9",
+        "CLAIM_10"
       ],
       "tags": [
         "key_figure",
-        "adult_figure"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "NODE_4",
-      "name": "Dr. Jerry Frantzve",
-      "type": "person",
-      "description": "Tesaract school founder/psychologist, conducted Eastern Europe research in 1990",
-      "related_artifacts": [
-        "ART_1.1",
-        "ART_1.2"
-      ],
-      "related_claims": [
-        "CLAIM_1",
-        "CLAIM_2",
-        "CLAIM_3"
-      ],
-      "tags": [
-        "education",
-        "researcher"
+        "family"
       ]
     },
     {
       "@type": "Person",
       "@id": "NODE_5",
-      "name": "Nancy Gerard Hall",
+      "ref": "NODE_5",
+      "name": "Kent Frantzve",
       "type": "person",
-      "description": "Tesaract principal with strong military ties - father was Colonel Paul Tracy Gerard",
+      "description": "Erika's father - allegedly married Lori in 1995",
       "related_artifacts": [
-        "ART_1.2"
+        "ART_2.1"
       ],
       "related_claims": [
-        "CLAIM_3"
+        "CLAIM_21"
       ],
       "tags": [
-        "education",
-        "military_family"
+        "family"
       ]
     },
     {
       "@type": "Person",
       "@id": "NODE_6",
+      "ref": "NODE_6",
       "name": "Tyler Bowyer",
       "type": "person",
-      "description": "Erika's eventual husband, was in Romania 2010 working with Romanian Parliament",
-      "related_artifacts": [
-        "ART_5.2",
-        "ART_7.1"
-      ],
-      "related_claims": [
-        "CLAIM_11",
-        "CLAIM_13",
-        "CLAIM_14",
-        "CLAIM_19"
-      ],
-      "tags": [
-        "romantic_partner",
-        "subject"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "NODE_7",
-      "name": "Richard Erpenbeck",
-      "type": "person",
-      "description": "Uncle Rick - lost law license in 2009 for professional negligence involving mortgage fraud",
+      "description": "Charlie Kirk's business partner - was in Romania 2010",
       "related_artifacts": [
         "ART_8.1"
       ],
       "related_claims": [
         "CLAIM_15",
         "CLAIM_16",
-        "CLAIM_17"
+        "CLAIM_22"
       ],
       "tags": [
-        "family_member",
-        "legal_issue"
+        "key_figure",
+        "business_partner"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_7",
+      "ref": "NODE_7",
+      "name": "Deborah Himil",
+      "type": "person",
+      "description": "Lori Frantzve's daughter from teenage pregnancy - co-founder of Luminarius LLC",
+      "related_artifacts": [
+        "ART_3.4"
+      ],
+      "related_claims": [
+        "CLAIM_5"
+      ],
+      "tags": [
+        "family"
       ]
     },
     {
       "@type": "Person",
       "@id": "NODE_8",
+      "ref": "NODE_8",
       "name": "Jeffrey Epstein",
       "type": "person",
-      "description": "Deceased sex offender with documented Romanian connections in 2009 emails",
+      "description": "Sex offender with documented Romania connections starting 2009",
       "related_artifacts": [
-        "ART_6.1"
+        "ART_7.1"
       ],
       "related_claims": [
-        "CLAIM_12"
+        "CLAIM_14"
       ],
       "tags": [
-        "sex_offender",
-        "criminal"
+        "key_figure",
+        "trafficking"
       ]
     },
     {
       "@type": "Person",
       "@id": "NODE_9",
-      "name": "Colonel Otto Busher",
+      "ref": "NODE_9",
+      "name": "Rick Erpenbeck",
       "type": "person",
-      "description": "Accused of running brothel and human trafficking ring from Romanian base 2010-2015",
+      "description": "Uncle Rick - attorney who lost license in 2009",
       "related_artifacts": [
-        "ART_5.2"
+        "ART_9.1"
       ],
       "related_claims": [
-        "CLAIM_11"
+        "CLAIM_17",
+        "CLAIM_18"
       ],
       "tags": [
-        "military",
-        "accused_trafficker"
+        "family",
+        "fraud"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "NODE_1000",
-      "name": "Erika Kirk Missing Years 2000-2002",
-      "type": "investigation_target",
-      "description": "Gap in documented school attendance - no records of where Erika was during these years",
-      "related_artifacts": [
-        "ART_1.1"
-      ],
+      "@type": "Person",
+      "@id": "NODE_10",
+      "ref": "NODE_10",
+      "name": "Dr. Jerry Frantzve",
+      "type": "person",
+      "description": "Lori's mother - researcher who traveled to Eastern Europe in 1990",
+      "related_artifacts": [],
       "related_claims": [
-        "CLAIM_1"
+        "CLAIM_23"
       ],
       "tags": [
-        "timeline_gap"
+        "family",
+        "researcher"
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Person",
+      "@id": "NODE_11",
+      "ref": "NODE_11",
+      "name": "Nancy Gerard",
+      "type": "person",
+      "description": "Tesseract principal with strong military ties",
+      "related_artifacts": [],
+      "related_claims": [
+        "CLAIM_24"
+      ],
+      "tags": [
+        "education",
+        "military"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_12",
+      "ref": "NODE_12",
+      "name": "Tyler Sanford",
+      "type": "person",
+      "description": "Erika's then-boyfriend in 2010 - later actor in her music video",
+      "related_artifacts": [],
+      "related_claims": [
+        "CLAIM_25"
+      ],
+      "tags": [
+        "relationship"
+      ]
+    },
+    {
+      "@type": "Organization",
       "@id": "NODE_1001",
-      "name": "E3 Tech Military Contracts",
-      "type": "investigation_target",
-      "description": "Lori Frantzve's company used for Operation Enduring Freedom, received DHS funding",
+      "ref": "NODE_1001",
+      "name": "Tesseract School",
+      "type": "organization",
+      "organization_kind": "educational_institution",
+      "description": "Charter school formerly Looking Glass School - backed by Bush and Walton families",
       "related_artifacts": [
-        "ART_2.1",
-        "ART_3.1",
-        "ART_3.2"
+        "ART_2.1"
       ],
       "related_claims": [
-        "CLAIM_5",
+        "CLAIM_2",
+        "CLAIM_3",
+        "CLAIM_24"
+      ],
+      "tags": [
+        "charter_school",
+        "education"
+      ],
+      "also_known_as": [
+        "Looking Glass School"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1002",
+      "ref": "NODE_1002",
+      "name": "Lori Frantzve Business Entities",
+      "type": "organization",
+      "organization_kind": "company",
+      "description": "Collection of LLCs including Virtual Registration International, Intellment International, Intel of Arizona",
+      "related_artifacts": [
+        "ART_3.1",
+        "ART_3.2",
+        "ART_3.3"
+      ],
+      "related_claims": [
+        "CLAIM_4"
+      ],
+      "tags": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1003",
+      "ref": "NODE_1003",
+      "name": "E3 Tech Government Contracts",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Lori's company E3 Tech involved with Operation Enduring Freedom and DHS contracts",
+      "related_artifacts": [
+        "ART_4.1",
+        "ART_4.2"
+      ],
+      "related_claims": [
+        "CLAIM_6",
+        "CLAIM_7",
+        "CLAIM_8",
+        "CLAIM_9"
+      ],
+      "tags": [
+        "government_contract",
+        "investigation_target"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1004",
+      "ref": "NODE_1004",
+      "name": "Everyday Heroes Like You Charity",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Charity founded by Lori in 2009 claiming to help vulnerable children",
+      "related_artifacts": [
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_10"
+      ],
+      "tags": [
+        "charity",
+        "investigation_target"
+      ]
+    },
+    {
+      "@type": "Place",
+      "@id": "NODE_1005",
+      "ref": "NODE_1005",
+      "name": "Romania",
+      "type": "place",
+      "place_kind": "country",
+      "description": "Country where US established military base in 2009-2010; Jeffrey Epstein and Tyler Bowyer both visited",
+      "related_artifacts": [
+        "ART_6.1",
+        "ART_6.2",
+        "ART_7.1",
+        "ART_8.1"
+      ],
+      "related_claims": [
+        "CLAIM_11",
+        "CLAIM_12",
+        "CLAIM_13",
+        "CLAIM_14",
+        "CLAIM_15",
+        "CLAIM_16"
+      ],
+      "tags": [
+        "location",
+        "military_base"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1006",
+      "ref": "NODE_1006",
+      "name": "Rick Erpenbeck License Revocation",
+      "type": "topic",
+      "topic_kind": "discrepancy",
+      "description": "Investigation into why attorney Rick Erpenbeck lost his license in 2009",
+      "related_artifacts": [
+        "ART_9.1"
+      ],
+      "related_claims": [
+        "CLAIM_17",
+        "CLAIM_18"
+      ],
+      "tags": [
+        "legal",
+        "fraud_investigation"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1007",
+      "ref": "NODE_1007",
+      "name": "Erika Kirk Missing Years 1999-2002",
+      "type": "topic",
+      "topic_kind": "discrepancy",
+      "description": "Period where Erika's schooling cannot be verified - gap in timeline",
+      "related_artifacts": [],
+      "related_claims": [
+        "CLAIM_26"
+      ],
+      "tags": [
+        "missing_records",
+        "investigation_target"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1008",
+      "ref": "NODE_1008",
+      "name": "Operation Enduring Freedom",
+      "type": "organization",
+      "organization_kind": "military_operation",
+      "description": "US military operation in Afghanistan starting October 2001",
+      "related_artifacts": [
+        "ART_4.1"
+      ],
+      "related_claims": [
         "CLAIM_6",
         "CLAIM_7"
       ],
       "tags": [
-        "military_contract"
+        "military",
+        "war"
+      ],
+      "also_known_as": [
+        "OEF"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "NODE_1002",
-      "name": "Romanian Base Trafficking Connection",
-      "type": "investigation_target",
-      "description": "US base establishment in Romania 2010 coincides with Epstein interest and trafficking allegations",
+      "@type": "Organization",
+      "@id": "NODE_1009",
+      "ref": "NODE_1009",
+      "name": "IMAT Laboratories",
+      "type": "organization",
+      "organization_kind": "company",
+      "description": "Company associated with Lori Frantzve receiving $2.4M from Army National Guard",
       "related_artifacts": [
-        "ART_5.1",
-        "ART_5.2",
-        "ART_6.1"
+        "ART_4.2"
       ],
       "related_claims": [
-        "CLAIM_10",
-        "CLAIM_11",
-        "CLAIM_12"
+        "CLAIM_8",
+        "CLAIM_9"
       ],
       "tags": [
-        "trafficking",
-        "military"
+        "government_contractor"
       ]
     }
   ],
-  "memes": [
-    {
-      "@type": "MemeAnalysis",
-      "@id": "M-1",
-      "canonical_term": "Shabbat Shalom",
-      "type": "meme",
-      "occurrences": [
-        {
-          "episode": 5,
-          "video_timestamp": "43:22–43:25",
-          "quote": "Shabbat shalom. Daddy's home.",
-          "speaker_node_ref": "NODE_1",
-          "context": "Blake Nef issued statement about Charlie observing evangelical Christian version of Shabbat",
-          "tags": [
-            "religious",
-            "dispute"
-          ],
-          "confidence": "high"
-        }
-      ],
-      "context": "Refers to Charlie Kirk's observed Sabbath; disputed by Turning Point USA representative Blake Nef as fabricated by Candace"
-    }
-  ],
+  "memes": [],
   "claims": [
     {
       "@type": "Claim",
       "@id": "CLAIM_1",
-      "label": "Erika missing from school records 2000-2002",
-      "claim_timestamp": "08:34",
-      "claim": "Erika Kirk has no documented school attendance between 2000-2002 despite claims of attending St. Ursula Villa",
+      "ref": "CLAIM_1",
+      "label": "Erika attended Walnut Corner Daycare in 1991",
+      "claim_timestamp": "06:53",
+      "claim": "Erika Kirk attended Walnut Corner Daycare in Cincinnati, Ohio in 1991, photo shows her near third birthday.",
       "anchored_artifacts": [
         "ART_1.1"
       ],
       "related_nodes": [
         "NODE_2",
-        "NODE_1000"
+        "NODE_1001"
       ],
-      "investigative_direction": "Find any school records, yearbooks, or witnesses from 2000-2002",
+      "investigative_direction": "Verify daycare enrollment records and Child Care Visions corporate ownership.",
       "tags": [
-        "timeline_gap"
-      ]
+        "education"
+      ],
+      "transcript_snippet": "Erika will attend a private daycare that's at the Walnut Corner in Cincinnati, Ohio.",
+      "confidence": "high"
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_2",
-      "label": "Dr. Jerry Frantzve conducted Eastern Europe research 1990",
-      "claim_timestamp": "02:10",
-      "claim": "Dr. Jerry Frantzve took students to Eastern Europe in 1990 to research gender issues post-Berlin Wall fall",
-      "anchored_artifacts": [
-        "ART_1.1"
-      ],
-      "related_nodes": [
-        "NODE_4"
-      ],
-      "investigative_direction": "Obtain research records and student roster from Radford University",
-      "tags": [
-        "research",
-        "eastern_europe"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "CLAIM_3",
-      "label": "Nancy Gerard Hall military connections",
-      "claim_timestamp": "04:20",
-      "claim": "Tesaract principal Nancy Gerard Hall had father Colonel Paul Tracy Gerard in military intelligence and brother in Scabbard and Blade",
-      "anchored_artifacts": [
-        "ART_1.2"
-      ],
-      "related_nodes": [
-        "NODE_5",
-        "NODE_4"
-      ],
-      "investigative_direction": "Verify military service records and connection to Erika's education",
-      "tags": [
-        "military_family"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "CLAIM_4",
-      "label": "Lori forms multiple companies 1999-2000",
-      "claim_timestamp": "10:56",
-      "claim": "Lori Frantzve formed Virtual Registration International (Dec 1999), Intel of Arizona LLC (Jan 2003) indicating overseas work",
-      "anchored_artifacts": [
-        "ART_9.1"
-      ],
-      "related_nodes": [
-        "NODE_3"
-      ],
-      "investigative_direction": "Obtain corporate filing details and business purpose",
-      "tags": [
-        "corporate"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "CLAIM_5",
-      "label": "E3 Tech participated in Operation Enduring Freedom",
-      "claim_timestamp": "09:41",
-      "claim": "E3 Tech company's own website states they participated in Operation Enduring Freedom in Afghanistan",
+      "ref": "CLAIM_2",
+      "label": "Erika attended Tesseract School 1995-1998",
+      "claim_timestamp": "07:05",
+      "claim": "Erika Kirk attended Tesseract School in Paradise Valley from 1995 to 1998.",
       "anchored_artifacts": [
         "ART_2.1"
       ],
       "related_nodes": [
-        "NODE_3",
+        "NODE_2",
         "NODE_1001"
       ],
-      "investigative_direction": "Verify E3 Tech contract details with Department of Defense",
+      "investigative_direction": "Obtain enrollment records from Tesseract for 1995-1998 school years.",
       "tags": [
-        "military_contract",
-        "afghanistan"
-      ]
+        "education"
+      ],
+      "transcript_snippet": "1995, Erika is attending the Tesseract school down in Paradise Valley.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_3",
+      "ref": "CLAIM_3",
+      "label": "Kent and Lori filed for divorce in 1998",
+      "claim_timestamp": "07:51",
+      "claim": "Kent and Lori Frantzve filed for divorce in Cincinnati in 1998 while Erika was in third grade at Tesseract.",
+      "anchored_artifacts": [
+        "ART_2.1"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_5",
+        "NODE_2"
+      ],
+      "investigative_direction": "Obtain divorce filing documents from Hamilton County, Ohio courts.",
+      "tags": [
+        "legal"
+      ],
+      "transcript_snippet": "And this is when Lori and Kent will file for a divorce in Cincinnati.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_4",
+      "ref": "CLAIM_4",
+      "label": "Lori formed multiple corporations 1999-2003",
+      "claim_timestamp": "10:56",
+      "claim": "Lori Frantzve formed Virtual Registration International (Dec 1999), Intellment International (Dec 1999), and Intel of Arizona LLC (Jan 2003).",
+      "anchored_artifacts": [
+        "ART_3.1",
+        "ART_3.2",
+        "ART_3.3"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_1002"
+      ],
+      "investigative_direction": "Verify corporate filings through Arizona and Delaware state records.",
+      "tags": [
+        "business"
+      ],
+      "transcript_snippet": "December 1st, 1999, she forms Virtual Registration International Incorporated.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_5",
+      "ref": "CLAIM_5",
+      "label": "Lori formed Luminarius LLC with Deborah Himil in 2010",
+      "claim_timestamp": "24:02",
+      "claim": "Jerry Frantzve created Luminarius LLC with her daughter Deborah Himil in January 2010.",
+      "anchored_artifacts": [
+        "ART_3.4"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_7"
+      ],
+      "investigative_direction": "Obtain Luminarius LLC filing documents from Arizona corporation commission.",
+      "tags": [
+        "business"
+      ],
+      "transcript_snippet": "Jerry Frantzve creates an LLC called Luminarius with her daughter, the one that she had when she was 14, Deborah Himil.",
+      "confidence": "high"
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_6",
-      "label": "IMAT Laboratories received DHS funding 2005",
-      "claim_timestamp": "12:47",
-      "claim": "Lori Frantzve received money from IMAT Laboratories listed in House bill budget from Department of Homeland Security",
-      "anchored_artifacts": [
-        "ART_3.1"
-      ],
-      "related_nodes": [
-        "NODE_3",
-        "NODE_1001"
-      ],
-      "investigative_direction": "Obtain actual House bill documents showing funding allocation",
-      "tags": [
-        "government_funding"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "CLAIM_7",
-      "label": "IMET Laboratories received $2.4M from Army National Guard 2008",
-      "claim_timestamp": "17:10",
-      "claim": "IMET Laboratories associated with Lori Frantzve received $2.4 million from Army National Guard for cyber operations (J3, J6)",
-      "anchored_artifacts": [
-        "ART_3.2"
-      ],
-      "related_nodes": [
-        "NODE_3",
-        "NODE_1001"
-      ],
-      "investigative_direction": "Obtain Army National Guard disbursement records",
-      "tags": [
-        "government_funding",
-        "military"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "CLAIM_8",
-      "label": "Everyday Heroes Like You established 2009",
-      "claim_timestamp": "18:23",
-      "claim": "Lori Frantzve established Everyday Heroes Like You in April 2009 as faith-based organization for vulnerable children",
+      "ref": "CLAIM_6",
+      "label": "E3 Tech participated in Operation Enduring Freedom",
+      "claim_timestamp": "09:45",
+      "claim": "E3 Tech, Lori's company, participated in Operation Enduring Freedom according to its website.",
       "anchored_artifacts": [
         "ART_4.1"
       ],
       "related_nodes": [
-        "NODE_3"
+        "NODE_4",
+        "NODE_1003",
+        "NODE_1008"
       ],
-      "investigative_direction": "Verify charity registration and activities",
+      "investigative_direction": "Verify E3 Tech website claims and government contract records.",
       "tags": [
-        "charity"
-      ]
+        "government"
+      ],
+      "transcript_snippet": "E3 Tech has a website and on its website it tells us that they participate in operation enduring freedom.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_7",
+      "ref": "CLAIM_7",
+      "label": "Lori received award for Operation Enduring Freedom contributions",
+      "claim_timestamp": "10:18",
+      "claim": "Lori Frantzve received an award for her contributions to Operation Enduring Freedom.",
+      "anchored_artifacts": [
+        "ART_4.1"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_1003",
+        "NODE_1008"
+      ],
+      "investigative_direction": "Find award documentation and verify recipient.",
+      "tags": [
+        "government"
+      ],
+      "transcript_snippet": "She is even going to eventually win an award for her contributions to Operation Enduring Freedom.",
+      "confidence": "low"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_8",
+      "ref": "CLAIM_8",
+      "label": "IMAT Laboratories received $2.4M from Army National Guard in 2008",
+      "claim_timestamp": "17:10",
+      "claim": "IMAT Laboratories associated with Lori Frantzve received $2.4 million from the Army National Guard in 2008.",
+      "anchored_artifacts": [
+        "ART_4.2"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_1003",
+        "NODE_1009"
+      ],
+      "investigative_direction": "Obtain Army National Guard budget disclosure documents for 2008.",
+      "tags": [
+        "government_funding"
+      ],
+      "transcript_snippet": "Lori is going to receive a lot of money from the Army National Guard. IMAT Laboratories... is going to have to disclose that they gave $2.4 million to IMAT laboratories.",
+      "confidence": "high"
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_9",
-      "label": "Romania agreed to US military base October 2009",
-      "claim_timestamp": "19:24",
-      "claim": "Romanian government agreed to allow America to set up military base along Black Sea in October 2009",
+      "ref": "CLAIM_9",
+      "label": "Lori receiving money while Erika was missing in 2008",
+      "claim_timestamp": "17:50",
+      "claim": "During the year 2008 when Erika was reportedly 'missing' and isolated, her mother Lori received $2.4 million from the Army National Guard.",
       "anchored_artifacts": [
-        "ART_5.1"
+        "ART_4.2"
       ],
       "related_nodes": [
-        "NODE_1002"
+        "NODE_2",
+        "NODE_4",
+        "NODE_1003",
+        "NODE_1009"
       ],
-      "investigative_direction": "Verify diplomatic agreement documents",
+      "investigative_direction": "Cross-reference Erika's whereabouts in 2008 with Lori's financial records.",
       "tags": [
-        "military",
-        "romania"
-      ]
+        "timeline",
+        "funding"
+      ],
+      "transcript_snippet": "this crucial year where Erika is missing, her mother is going to wind up having received $2.4 million.",
+      "confidence": "high"
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_10",
-      "label": "Romania base establishment coincides with Epstein interest",
-      "claim_timestamp": "22:23",
-      "claim": "Same year 2009 Romania agreed to US base, Jeffrey Epstein began procuring women from Romania per emails",
+      "ref": "CLAIM_10",
+      "label": "Lori founded Everyday Heroes Like You charity in 2009",
+      "claim_timestamp": "18:24",
+      "claim": "Lori Frantzve established Everyday Heroes Like You in April 2009, claiming it was a faith-based organization raising funds for vulnerable children.",
       "anchored_artifacts": [
-        "ART_5.1",
-        "ART_6.1"
+        "ART_5.1"
       ],
       "related_nodes": [
-        "NODE_8",
-        "NODE_1002"
+        "NODE_4",
+        "NODE_1004"
       ],
-      "investigative_direction": "Cross-reference Epstein emails with base timeline",
+      "investigative_direction": "Verify charity registration and financial disclosures.",
       "tags": [
-        "trafficking",
-        "timeline"
-      ]
+        "charity"
+      ],
+      "transcript_snippet": "Lori Frantzve is going to establish Everyday Heroes Like You in April. In her filing, she will claim that it is a faithbased organization that is raising funds and developing programs for vulnerable children.",
+      "confidence": "high"
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_11",
-      "label": "Black Sea Rotational Force 2010 and Colonel Busher trafficking",
-      "claim_timestamp": "27:50",
-      "claim": "Black Sea Rotational Force 2010 established at Mihail Kogalniceanu air base; Colonel Otto Busher accused of brothel/trafficking 2010-2015",
+      "ref": "CLAIM_11",
+      "label": "Romania agreed to US military base in October 2009",
+      "claim_timestamp": "19:23",
+      "claim": "In October 2009, the Romanian government agreed to allow America to set up a military base along the Black Sea.",
       "anchored_artifacts": [
-        "ART_5.2"
+        "ART_6.1"
       ],
       "related_nodes": [
-        "NODE_9",
-        "NODE_1002"
+        "NODE_1005"
       ],
-      "investigative_direction": "Obtain Colonel Busher court-martial or investigation records",
+      "investigative_direction": "Verify Romanian government agreement documents from October 2009.",
       "tags": [
-        "military",
-        "trafficking"
-      ]
+        "military"
+      ],
+      "transcript_snippet": "the same year, right after she establishes this, it is announced that the Romanian government has agreed to allow America to set up a military base along the Black Sea.",
+      "confidence": "high"
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_12",
-      "label": "Jeffrey Epstein emails show Romanian model interest 2009",
-      "claim_timestamp": "22:28",
-      "claim": "Epstein emails from 2009 show interest in procuring models from Romania, offering $10,000 for Romanian women",
+      "ref": "CLAIM_12",
+      "label": "Romanian base agreement coincided with Jeffrey Epstein interest",
+      "claim_timestamp": "22:20",
+      "claim": "The Romanian government agreed to US base in 2009, the same year Jeffrey Epstein began procuring women from Romania per his emails.",
       "anchored_artifacts": [
-        "ART_6.1"
+        "ART_6.1",
+        "ART_7.1"
       ],
       "related_nodes": [
+        "NODE_1005",
         "NODE_8"
       ],
-      "investigative_direction": "Obtain full Epstein email records from court files",
+      "investigative_direction": "Cross-reference Epstein email dates with base agreement timeline.",
       "tags": [
-        "sex_trafficking"
-      ]
+        "trafficking",
+        "timeline"
+      ],
+      "transcript_snippet": "Jeffrey Epstein beginning to procure women from Romania per his emails that are now available.",
+      "confidence": "medium"
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_13",
-      "label": "Tyler Bowyer in Romania 2010 with Parliament member",
-      "claim_timestamp": "29:35",
-      "claim": "Tyler Bowyer went to Romania May-August 2010 to work with a senator in Romanian Parliament, stayed with modeling agency contact",
+      "ref": "CLAIM_13",
+      "label": "Black Sea Rotational Force 10 established base in May 2010",
+      "claim_timestamp": "27:42",
+      "claim": "Black Sea Rotational Force 10 officially established the Mihail Kogalniceanu Air Base in Romania on May 17, 2010.",
       "anchored_artifacts": [
-        "ART_7.1"
+        "ART_6.2"
       ],
       "related_nodes": [
-        "NODE_6"
+        "NODE_1005"
       ],
-      "investigative_direction": "Verify with Romanian Parliament records and Tyler Bowyer directly",
+      "investigative_direction": "Verify military deployment records for Black Sea Rotational Force 2010.",
       "tags": [
-        "romania",
-        "parliament"
-      ]
+        "military"
+      ],
+      "transcript_snippet": "Black Sea Rotational Force 10... establishing the Mihail Kogalniceanu Air Base in Romania on May 17th.",
+      "confidence": "high"
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_14",
-      "label": "Tyler Bowyer drinking with Romanian models in 2010",
-      "claim_timestamp": "30:05",
-      "claim": "Tyler Bowyer reported getting 'completely Romanian sloshed' with girls from modeling agency in Romania 2010",
+      "ref": "CLAIM_14",
+      "label": "Epstein emails show Romania interest starting 2009",
+      "claim_timestamp": "22:28",
+      "claim": "Jeffrey Epstein emails show he was interested in procuring models from Romania starting in 2009.",
       "anchored_artifacts": [
         "ART_7.1"
       ],
       "related_nodes": [
-        "NODE_6"
+        "NODE_8",
+        "NODE_1005"
       ],
-      "investigative_direction": "Confirm details and obtain modeling agency name",
+      "investigative_direction": "Obtain and verify Epstein email production from 2009.",
       "tags": [
-        "models",
-        "social"
-      ]
+        "trafficking"
+      ],
+      "transcript_snippet": "Jeffrey Epstein... beginning to procure women from Romania per his emails that are now available.",
+      "confidence": "medium"
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_15",
-      "title": "Richard Erpenbeck license suspended 2009",
-      "claim_timestamp": "36:50",
-      "claim": "Richard Erpenbeck lost law license in Kentucky in August 2009 for professional negligence",
+      "ref": "CLAIM_15",
+      "label": "Tyler Bowyer was in Romania in 2010",
+      "claim_timestamp": "29:38",
+      "claim": "Tyler Bowyer was in Romania from May through summer 2010 working with a Romanian senator.",
       "anchored_artifacts": [
         "ART_8.1"
       ],
       "related_nodes": [
-        "NODE_7"
+        "NODE_6",
+        "NODE_1005"
       ],
-      "investigative_direction": "Obtain Kentucky Bar Association disciplinary records",
+      "investigative_direction": "Verify Tyler Bowyer's travel records and activities in Romania 2010.",
       "tags": [
-        "legal",
-        "suspension"
-      ]
+        "travel"
+      ],
+      "transcript_snippet": "Tyler writes, I went to Romania to do some work with a senator in the parliament there.",
+      "confidence": "medium"
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_16",
-      "label": "Richard Erpenbeck mortgage fraud at Bank of Corbin",
-      "claim_timestamp": "37:34",
-      "claim": "Richard Erpenbeck failed to disclose existing mortgages while performing title searches, enabling Bank of Corbin to issue fraudulent loans",
+      "ref": "CLAIM_16",
+      "label": "Tyler Bowyer met modeling agency owner in Romania",
+      "claim_timestamp": "29:47",
+      "claim": "Tyler Bowyer met a Romanian senator's friend who owned a modeling agency and took him to the beach in Constanta for 4 days.",
       "anchored_artifacts": [
         "ART_8.1"
       ],
       "related_nodes": [
-        "NODE_7"
+        "NODE_6",
+        "NODE_1005"
       ],
-      "investigative_direction": "Obtain Bank of Corbin loan records and investigation findings",
+      "investigative_direction": "Identify modeling agency owner and verify trip details.",
       "tags": [
-        "fraud",
-        "banking"
-      ]
+        "trafficking"
+      ],
+      "transcript_snippet": "the senator in Romania was friends with this guy that owned a modeling agency and took me to the beach that's going to be in Constanta.",
+      "confidence": "medium"
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_17",
-      "label": "Richard Erpenbeck deed fraud with Anita Andrews",
-      "claim_timestamp": "39:41",
-      "claim": "Richard Erpenbeck prepared fraudulent deed transferring property to Anita Andrews without her signature, then transferred to his parents",
+      "ref": "CLAIM_17",
+      "label": "Rick Erpenbeck lost law license in 2009",
+      "claim_timestamp": "36:50",
+      "claim": "Rick Erpenbeck lost his law license in 2009 according to Kentucky bar.",
       "anchored_artifacts": [
-        "ART_8.1"
+        "ART_9.1"
       ],
       "related_nodes": [
-        "NODE_7"
+        "NODE_9",
+        "NODE_1006"
       ],
-      "investigative_direction": "Obtain property records and county filing documents",
+      "investigative_direction": "Obtain Kentucky bar disciplinary records for 2009.",
       "tags": [
-        "fraud",
-        "property"
-      ]
+        "legal"
+      ],
+      "transcript_snippet": "Remember I told you he lost his legal license in uh 2009.",
+      "confidence": "high"
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_18",
-      "label": "Luminarius LLC charter school company 2010",
-      "claim_timestamp": "24:02",
-      "claim": "Jerry Frantzve created Luminarius LLC with daughter Deborah Himil in January 2010 - another charter school company",
+      "ref": "CLAIM_18",
+      "label": "Rick engaged in mortgage fraud and stock transfer scheme",
+      "claim_timestamp": "37:34",
+      "claim": "Rick Erpenbeck was investigated for failing to disclose existing mortgages when performing title searches, and for managing an LLC used to transfer stock without consideration.",
       "anchored_artifacts": [
-        "ART_9.2"
+        "ART_9.1"
       ],
       "related_nodes": [
-        "NODE_4",
-        "NODE_2"
+        "NODE_9",
+        "NODE_1006"
       ],
-      "investigative_direction": "Obtain LLC formation documents and charter school approvals",
+      "investigative_direction": "Obtain Kentucky bar investigation documents and court records.",
       "tags": [
-        "charter_schools"
-      ]
+        "fraud"
+      ],
+      "transcript_snippet": "Reason number one is because while employed by the Bank of Corbin to perform title searches on certain properties, Rick didn't inform the bank that other mortgages already existed on those properties.",
+      "confidence": "high"
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_19",
-      "label": "Tyler Bowyer married 2010 and LDS",
-      "claim_timestamp": "30:16",
-      "claim": "Tyler Bowyer was married in 2010 and is LDS (Mormon) which prohibits alcohol consumption",
-      "anchored_artifacts": [
-        "ART_7.1"
-      ],
-      "related_nodes": [
-        "NODE_6"
-      ],
-      "investigative_direction": "Verify marriage records and religious affiliation",
-      "tags": [
-        "marriage",
-        "religion"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "CLAIM_20",
-      "label": "Charlie observed evangelical Christian Shabbat",
-      "claim_timestamp": "44:22",
-      "claim": "Charlie Kirk observed an evangelical Christian version of Shabbat, turning phone off on Saturdays",
-      "anchored_artifacts": [
-        "ART_6.1"
-      ],
-      "related_nodes": [
-        "NODE_1"
-      ],
-      "investigative_direction": "Obtain corroborating testimony from other staff members",
-      "tags": [
-        "religious_practice"
-      ]
-    },
-    {
-      "@type": "Claim",
-      "@id": "CLAIM_21",
-      "label": "Candace present with Charlie at Israel airport",
-      "claim_timestamp": "36:17",
-      "claim": "Candace Owens was with Charlie Kirk at airport in Israel when Erika was introduced to him",
-      "anchored_artifacts": [
-        "ART_7.1"
-      ],
+      "ref": "CLAIM_19",
+      "label": "Charlie met Erika at Israel airport",
+      "claim_timestamp": "36:08",
+      "claim": "Charlie Kirk met Erika at an airport in Israel; her mother Lori told her to go up to him.",
+      "anchored_artifacts": [],
       "related_nodes": [
         "NODE_1",
         "NODE_2"
       ],
-      "investigative_direction": "Obtain travel records and witnesses from Israel trip",
+      "investigative_direction": "Verify travel records and witnesses to this meeting.",
       "tags": [
-        "meeting",
-        "israel"
-      ]
+        "relationship"
+      ],
+      "transcript_snippet": "Charlie was at the airport in Israel. You saw him. Your mom said go up to him. She's a pusher, right?",
+      "confidence": "medium",
+      "uncertainty_note": "Claim based on Erika's account; no independent verification presented"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_20",
+      "ref": "CLAIM_20",
+      "label": "Erika cannot explain how she met Tyler Bowyer",
+      "claim_timestamp": "31:28",
+      "claim": "Erika Kirk cannot remember how she met Tyler Bowyer and suggested it may have been through a senator.",
+      "anchored_artifacts": [
+        "ART_8.1"
+      ],
+      "related_nodes": [
+        "NODE_2",
+        "NODE_6"
+      ],
+      "investigative_direction": "Obtain Erika's records of how she met Tyler Bowyer.",
+      "tags": [
+        "memory_gap"
+      ],
+      "transcript_snippet": "She can't remember how she knows him. She can't remember how she met him. It must have been through a senator.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_21",
+      "ref": "CLAIM_21",
+      "label": "Kent and Lori allegedly married in 1995 Marblehead MA",
+      "claim_timestamp": "07:20",
+      "claim": "Kent and Lori Frantzve allegedly got married in Marblehead, Massachusetts in 1995, but investigators found no documentation.",
+      "anchored_artifacts": [
+        "ART_2.1"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_5"
+      ],
+      "investigative_direction": "Search Massachusetts marriage records for 1995.",
+      "tags": [
+        "marriage"
+      ],
+      "transcript_snippet": "her parents, Kent and Lori, allegedly get married that year in Marblehead, Massachusetts. Although we cannot find a single shred of documentation.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_22",
+      "ref": "CLAIM_22",
+      "label": "Tyler Bowyer connected to Farnsworth family",
+      "claim_timestamp": "55:27",
+      "claim": "Tyler Bowyer is connected to the Farnsworth family who were in office; question raised about who set up his Romania trip.",
+      "anchored_artifacts": [
+        "ART_8.1"
+      ],
+      "related_nodes": [
+        "NODE_6"
+      ],
+      "investigative_direction": "Investigate Farnsworth family connections to Tyler Bowyer and Romania.",
+      "tags": [
+        "politics"
+      ],
+      "transcript_snippet": "Could it have been a Farnsworth? Very close with that family, aren't you?",
+      "confidence": "low"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_23",
+      "ref": "CLAIM_23",
+      "label": "Dr. Jerry Frantzve conducted research in Eastern Europe 1990",
+      "claim_timestamp": "02:05",
+      "claim": "Dr. Jerry Frantzve conducted research on gender issues in Eastern Europe in 1990 with a group of students from Radford.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "NODE_10",
+        "NODE_1005"
+      ],
+      "investigative_direction": "Obtain Radford University records of Frantzve's research trips.",
+      "tags": [
+        "research"
+      ],
+      "transcript_snippet": "She travels to Eastern Europe. She did this with a team to research gender issues in 1990.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_24",
+      "ref": "CLAIM_24",
+      "label": "Nancy Gerard Tesseract principal had military ties",
+      "claim_timestamp": "04:26",
+      "claim": "Nancy Gerard was principal at Tesseract during Erika's enrollment and had strong military connections through her father Colonel Paul Tracy Gerard.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "NODE_11",
+        "NODE_1001"
+      ],
+      "investigative_direction": "Verify Nancy Gerard's employment at Tesseract and military background.",
+      "tags": [
+        "education",
+        "military"
+      ],
+      "transcript_snippet": "Tesseract had a principal... who had very strong military ties. A woman named Nancy Gerard.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_25",
+      "ref": "CLAIM_25",
+      "label": "Erika formed Table Four LLC with Tyler Sanford in 2010",
+      "claim_timestamp": "26:35",
+      "claim": "Erika Kirk formed Table Four LLC with her then-boyfriend Tyler Sanford in 2010.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "NODE_2",
+        "NODE_12"
+      ],
+      "investigative_direction": "Obtain Table Four LLC filing documents from Arizona.",
+      "tags": [
+        "business"
+      ],
+      "transcript_snippet": "in 2010, Erika forms an LLC with her then boyfriend Tyler Sanford. It's called Table Four LLC.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_26",
+      "ref": "CLAIM_26",
+      "label": "Erika's whereabouts unknown 2000-2002",
+      "claim_timestamp": "08:36",
+      "claim": "Erika Kirk's whereabouts and school enrollment cannot be verified for the years 2000 through 2002.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "NODE_2",
+        "NODE_1007"
+      ],
+      "investigative_direction": "Search school records in Arizona and Ohio for 2000-2002 enrollment.",
+      "tags": [
+        "missing_records"
+      ],
+      "transcript_snippet": "We don't have Erika from 2000 until 2002. Now, it's possible that she went to a different nearby school in Scottsdale.",
+      "confidence": "high"
     }
   ]
 }

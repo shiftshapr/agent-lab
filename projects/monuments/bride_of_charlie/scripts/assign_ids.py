@@ -255,10 +255,22 @@ def _phase1_validation_errors(data: dict) -> list[str]:
 
 def _prepare_phase1_graph(data: dict) -> None:
     """Normalize refs and enforce node↔claim edge consistency before validation / ID assignment."""
+    try:
+        from protocols.episode_analysis.node_claim_sync import normalize_phase1_field_names
+    except ImportError:
+        normalize_phase1_field_names = None  # type: ignore[assignment,misc]
+    if normalize_phase1_field_names:
+        normalize_phase1_field_names(data)
     if sync_placeholder_refs_from_jsonld:
         sync_placeholder_refs_from_jsonld(data)
     else:
         _fallback_sync_placeholder_refs_from_jsonld(data)
+    for claim in data.get("claims", []):
+        cref = claim.get("ref") or claim.get("@id")
+        for key in ("contradicts_claim_refs", "supports_claim_refs", "qualifies_claim_refs"):
+            refs = claim.get(key)
+            if cref and isinstance(refs, list):
+                claim[key] = [r for r in refs if r != cref]
     if sanitize_node_claim_graph_phase1:
         nlog = sanitize_node_claim_graph_phase1(data)
         if nlog:

@@ -4,150 +4,132 @@
   "meta": {
     "episode": 4,
     "source": "Candace Owens YouTube",
-    "video_timestamp_range": "00:01–59:14",
-    "extraction_timestamp": "2026-03-20T21:44:24Z",
+    "video_timestamp_range": "00:01:00\u201359:14:00",
+    "extraction_timestamp": "2026-09-04T23:07:02Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "6ef3cd64aa3618b572df19d4cf9cf4dffaa68a2364cbbd02f89afdc14d2d9ba0"
+    "transcript_sha256": "bfcaea6fefa00bb02c67d685084169d2d92c07af8e335b005631eeef1a0fdd51"
   },
-  "executive_summary": "Episode 4 presents multiple legal documents showing Erika Kirk's birthday consistently listed as November 22, 1988 across divorce filings from 1995-2007. The episode introduces Dr. Jerry Frantzve (Erika's stepmother), Uncle Jack Solomon, and expands on Lori Abbis Stanley's background. A Charlie Kirk podcast clip confirms Erika's claimed descent from Vince Lombardi. The episode also challenges Erika's claimed timeline of Bible study in 2008 versus her 2016 statement that she first read the Bible that year.",
+  "executive_summary": "Episode 4 advances the investigation into Erika Kirk's background, presenting divorce filings showing her birthday as November 22, 1988 across multiple documents from 1995-2007. The episode introduces new claims about Erika's family connections, including her mother's alleged direct descent from Vince Lombardi and ties to the Erpenbeck family with documented criminal histories. Audio clips of Charlie Kirk discussing Erika's family lineage and Erika's conflicting statements about Bible study timelines are presented as artifacts.",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
       "@id": "ART_1",
       "family_ref": "ART_1",
-      "bundle_name": "Legal Documents Bundle",
+      "bundle_name": "Divorce Filing Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "ART_1.1",
           "ref": "ART_1.1",
-          "description": "Joint Shared Parenting Plan showing Erika's birthday as November 22, 1988",
+          "description": "Joint Shared Parenting Plan",
           "event_timestamp": "January 8, 1998",
-          "source_timestamp": "1998",
-          "video_timestamp": "17:56–18:20",
+          "video_timestamp": "17:56\u201318:17",
           "discovery_timestamp": "2026-03-18",
+          "confidence": "high",
           "related_claims": [
             "CLAIM_1"
           ],
           "related_nodes": [
             "NODE_2",
+            "NODE_3",
             "NODE_1000"
           ],
-          "tags": [
-            "court_filing"
-          ],
-          "transcript_snippet": "Erika's birthday is again listed as November 22nd, 1988.",
-          "confidence": "high"
+          "transcript_snippet": "I'm going to show you this joint shared parenting plan which is you can see filled in by hand on January 8th."
         },
         {
           "@type": "Artifact",
           "@id": "ART_1.2",
           "ref": "ART_1.2",
-          "description": "Amendment to child support plan dated September 10, 1998",
+          "description": "Child Support Amendment",
           "event_timestamp": "September 10, 1998",
-          "source_timestamp": "1998",
-          "video_timestamp": "18:25–18:55",
+          "video_timestamp": "18:26\u201318:50",
           "discovery_timestamp": "2026-03-18",
+          "confidence": "high",
           "related_claims": [
             "CLAIM_1"
           ],
           "related_nodes": [
             "NODE_2",
+            "NODE_3",
             "NODE_1000"
           ],
-          "tags": [
-            "court_filing"
-          ],
-          "transcript_snippet": "This is... the most egregious of all the filings.",
-          "confidence": "high"
+          "transcript_snippet": "Then came an amendment to the child support plan which was drafted on September 10th of 1998."
         },
         {
           "@type": "Artifact",
           "@id": "ART_1.3",
           "ref": "ART_1.3",
-          "description": "Final Decree dated November 10, 1998",
+          "description": "Final Decree",
           "event_timestamp": "November 10, 1998",
-          "source_timestamp": "1998",
-          "video_timestamp": "19:05–19:20",
+          "video_timestamp": "19:06\u201319:20",
           "discovery_timestamp": "2026-03-18",
+          "confidence": "high",
           "related_claims": [
             "CLAIM_1"
           ],
           "related_nodes": [
             "NODE_2",
+            "NODE_3",
             "NODE_1000"
           ],
-          "tags": [
-            "court_filing"
-          ],
-          "transcript_snippet": "Her birthday is listed as November 22nd, 1988.",
-          "confidence": "high"
+          "transcript_snippet": "I'm going to show you this November 10th, 1998 final decree."
         },
         {
           "@type": "Artifact",
           "@id": "ART_1.4",
           "ref": "ART_1.4",
-          "description": "Medical child support document entered January 1999",
+          "description": "Medical Child Support Document",
           "event_timestamp": "January 1999",
-          "source_timestamp": "1999",
-          "video_timestamp": "19:20–19:50",
+          "video_timestamp": "19:21\u201319:49",
           "discovery_timestamp": "2026-03-18",
+          "confidence": "high",
           "related_claims": [
             "CLAIM_1"
           ],
           "related_nodes": [
             "NODE_2",
+            "NODE_3",
             "NODE_1000"
           ],
-          "tags": [
-            "court_filing"
-          ],
-          "transcript_snippet": "What is entered in as her birthday is November 22nd, 1988.",
-          "confidence": "high"
+          "transcript_snippet": "Let's move on to the medical child support document which was entered in the following year, January of 1999."
         },
         {
           "@type": "Artifact",
           "@id": "ART_1.5",
           "ref": "ART_1.5",
-          "description": "Child support enforcement record from July 2004",
+          "description": "Child Support Enforcement Record",
           "event_timestamp": "July 2004",
-          "source_timestamp": "2004",
-          "video_timestamp": "20:20–20:40",
+          "video_timestamp": "20:04\u201320:36",
           "discovery_timestamp": "2026-03-18",
+          "confidence": "high",
           "related_claims": [
             "CLAIM_1"
           ],
           "related_nodes": [
             "NODE_2",
+            "NODE_3",
             "NODE_1000"
           ],
-          "tags": [
-            "court_filing"
-          ],
-          "transcript_snippet": "Erika's birthday. And as you can see, once again, we have it listed here as November 22nd, 1988.",
-          "confidence": "high"
+          "transcript_snippet": "Well, in July of 2004, Kent defaulted on his child support payments and the enforcement agency uh recorded the default uh plus Erika's birthday."
         },
         {
           "@type": "Artifact",
           "@id": "ART_1.6",
           "ref": "ART_1.6",
-          "description": "Child support emancipation filing from 2007",
+          "description": "Child Support Emancipation Filing",
           "event_timestamp": "2007",
-          "source_timestamp": "2007",
-          "video_timestamp": "21:05–21:25",
+          "video_timestamp": "20:52\u201321:20",
           "discovery_timestamp": "2026-03-18",
+          "confidence": "high",
           "related_claims": [
             "CLAIM_1"
           ],
           "related_nodes": [
             "NODE_2",
+            "NODE_3",
             "NODE_1000"
           ],
-          "tags": [
-            "court_filing"
-          ],
-          "transcript_snippet": "Once again, her birthday is listed as November 22nd, 1988.",
-          "confidence": "high"
+          "transcript_snippet": "Now she's 18. You don't got to pay child support anymore. You got to go back and file things. And once again, her birthday is listed as November 22nd, 1988."
         }
       ]
     },
@@ -155,30 +137,26 @@
       "@type": "ArtifactFamily",
       "@id": "ART_2",
       "family_ref": "ART_2",
-      "bundle_name": "Charlie Kirk Podcast Clip Bundle",
+      "bundle_name": "Instagram Story Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "ART_2.1",
           "ref": "ART_2.1",
-          "description": "Charlie Kirk podcast clip stating Erika is from Lombardi family",
-          "event_timestamp": "Unknown",
-          "source_timestamp": "Unknown",
-          "video_timestamp": "36:45–37:10",
+          "description": "Erika at Universal Studios with Uncle Rick",
+          "event_timestamp": "December 1, 2018",
+          "video_timestamp": "14:46\u201315:04",
           "discovery_timestamp": "2026-03-18",
+          "confidence": "high",
           "related_claims": [
             "CLAIM_2"
           ],
           "related_nodes": [
-            "NODE_1",
             "NODE_2",
-            "NODE_3"
+            "NODE_9",
+            "NODE_10"
           ],
-          "tags": [
-            "audio_clip"
-          ],
-          "transcript_snippet": "My wife Erika is from the Lombardi family. Literally, isn't that insane? Like direct bloodline?",
-          "confidence": "high"
+          "transcript_snippet": "Because on December 1st, 2018, she went down to Universal Studios. You should know that that's where Rick works. And Erika documented that trip."
         }
       ]
     },
@@ -192,23 +170,20 @@
           "@type": "Artifact",
           "@id": "ART_3.1",
           "ref": "ART_3.1",
-          "description": "Obituary for Angelina Lombardo-Abbis from 1970",
+          "description": "Obituary for Angeline Abbas",
           "event_timestamp": "1970",
-          "source_timestamp": "1970",
-          "video_timestamp": "38:57–39:05",
+          "video_timestamp": "38:57\u201339:07",
           "discovery_timestamp": "2026-03-18",
+          "confidence": "high",
           "related_claims": [
-            "CLAIM_2"
+            "CLAIM_3"
           ],
           "related_nodes": [
-            "NODE_3",
-            "NODE_6"
+            "NODE_4",
+            "NODE_14",
+            "NODE_1001"
           ],
-          "tags": [
-            "public_record"
-          ],
-          "transcript_snippet": "Angelene, wife of Joseph Abbis of Cincinnati, Ohio.",
-          "confidence": "high"
+          "transcript_snippet": "You can see that here in this obituary from 1970. The bottom there it says that Angeline, wife of Joseph Abbas of Cincinnati, Ohio."
         }
       ]
     },
@@ -216,28 +191,60 @@
       "@type": "ArtifactFamily",
       "@id": "ART_4",
       "family_ref": "ART_4",
-      "bundle_name": "Yearbook Photo Bundle",
+      "bundle_name": "Photo Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "ART_4.1",
           "ref": "ART_4.1",
-          "description": "St. Ursula Villa kindergarten photo 1994-1995",
-          "event_timestamp": "1994-1995",
-          "source_timestamp": "1994-1995",
-          "video_timestamp": "41:40–41:55",
+          "description": "James Melvin Stanley Photo",
+          "video_timestamp": "12:10\u201312:20",
           "discovery_timestamp": "2026-03-18",
+          "confidence": "medium",
           "related_claims": [
-            "CLAIM_3"
+            "CLAIM_4"
           ],
           "related_nodes": [
-            "NODE_2"
+            "NODE_4",
+            "NODE_12"
           ],
-          "tags": [
-            "yearbook"
+          "transcript_snippet": "Here's a photo of him. I am struck by how much he looks like Breijit."
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_4.2",
+          "ref": "ART_4.2",
+          "description": "St. Ursula Villa Kindergarten Photo",
+          "event_timestamp": "1994-1995",
+          "video_timestamp": "41:38\u201341:55",
+          "discovery_timestamp": "2026-03-18",
+          "confidence": "high",
+          "related_claims": [
+            "CLAIM_5"
           ],
-          "transcript_snippet": "Her name is spelled differently. It's with a C. Clerical.",
-          "confidence": "medium"
+          "related_nodes": [
+            "NODE_2",
+            "NODE_15"
+          ],
+          "transcript_snippet": "We have that photo for you guys here. This would be from 1994 to 1995."
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_4.3",
+          "ref": "ART_4.3",
+          "description": "Erika with Regis University Team Members",
+          "event_timestamp": "December 2007",
+          "video_timestamp": "42:33\u201342:51",
+          "discovery_timestamp": "2026-03-18",
+          "confidence": "high",
+          "related_claims": [
+            "CLAIM_6"
+          ],
+          "related_nodes": [
+            "NODE_2",
+            "NODE_16"
+          ],
+          "transcript_snippet": "I can show you this photo that we also gathered of Erika with her Regis University team members. This is taken in December of 2007."
         }
       ]
     },
@@ -245,79 +252,57 @@
       "@type": "ArtifactFamily",
       "@id": "ART_5",
       "family_ref": "ART_5",
-      "bundle_name": "Instagram Story Bundle",
+      "bundle_name": "Audio Clip Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "ART_5.1",
           "ref": "ART_5.1",
-          "description": "Instagram story showing Uncle Rick at Universal Studios December 1, 2018",
-          "event_timestamp": "December 1, 2018",
-          "source_timestamp": "December 1, 2018",
-          "video_timestamp": "15:00–15:30",
+          "description": "Charlie Kirk Podcast - Lombardi Family Claim",
+          "video_timestamp": "36:45\u201337:05",
           "discovery_timestamp": "2026-03-18",
+          "confidence": "high",
           "related_claims": [
-            "CLAIM_4"
+            "CLAIM_3"
           ],
           "related_nodes": [
-            "NODE_2",
-            "NODE_9"
+            "NODE_1",
+            "NODE_4",
+            "NODE_14"
           ],
-          "tags": [
-            "social_media"
-          ],
-          "transcript_snippet": "She documented that trip. She was with her mom. She's always with Lori.",
-          "confidence": "high"
-        }
-      ]
-    },
-    {
-      "@type": "ArtifactFamily",
-      "@id": "ART_6",
-      "family_ref": "ART_6",
-      "bundle_name": "Podcast Interview Bundle",
-      "sub_items": [
-        {
-          "@type": "Artifact",
-          "@id": "ART_6.1",
-          "ref": "ART_6.1",
-          "description": "Don't Ignore the Nudge podcast clip about Bible reading",
-          "event_timestamp": "Unknown",
-          "source_timestamp": "Unknown",
-          "video_timestamp": "43:50–44:10",
-          "discovery_timestamp": "2026-03-18",
-          "related_claims": [
-            "CLAIM_5"
-          ],
-          "related_nodes": [
-            "NODE_2"
-          ],
-          "tags": [
-            "audio_clip"
-          ],
-          "transcript_snippet": "I literally had locked myself in my room and read my Bible.",
-          "confidence": "high"
+          "transcript_snippet": "The Packers won the first Super Bowl. You know, my my wife Erika is from the Lombardi family."
         },
         {
           "@type": "Artifact",
-          "@id": "ART_6.2",
-          "ref": "ART_6.2",
-          "description": "Sage Steel podcast clip stating first Bible read in 2016",
-          "event_timestamp": "2016",
-          "source_timestamp": "Unknown",
-          "video_timestamp": "45:36–46:10",
+          "@id": "ART_5.2",
+          "ref": "ART_5.2",
+          "description": "Erika on Don't Ignore the Nudge Podcast",
+          "video_timestamp": "43:59\u201344:50",
           "discovery_timestamp": "2026-03-18",
+          "confidence": "high",
           "related_claims": [
-            "CLAIM_5"
+            "CLAIM_7"
           ],
           "related_nodes": [
             "NODE_2"
           ],
-          "tags": [
-            "audio_clip"
+          "transcript_snippet": "Like with Miss Arizona, I was so done with that world. It was very toxic. I loved my director. I loved the experience I had, but afterwards it was one of those things where I was so sold out and focused on Christ."
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_5.3",
+          "ref": "ART_5.3",
+          "description": "Erika on Podcast with Sage Steel",
+          "video_timestamp": "45:39\u201346:21",
+          "discovery_timestamp": "2026-03-18",
+          "confidence": "high",
+          "related_claims": [
+            "CLAIM_7"
           ],
-          "transcript_snippet": "The first time I ever read the Bible cover to cover was 2016, and it changed my life.",
-          "confidence": "high"
+          "related_nodes": [
+            "NODE_2"
+          ],
+          "transcript_snippet": "The first time I ever read the Bible cover to cover was 2016, and it changed my life."
         }
       ]
     }
@@ -329,13 +314,12 @@
       "ref": "NODE_1",
       "name": "Charlie Kirk",
       "type": "person",
-      "description": "Host of Turning Point USA, husband of Erika Kirk, deceased.",
+      "description": "Primary subject of investigation, founder of Turning Point USA",
       "related_artifacts": [
-        "ART_2.1"
+        "ART_5.1"
       ],
       "related_claims": [
-        "CLAIM_2",
-        "CLAIM_5"
+        "CLAIM_3"
       ],
       "tags": [
         "key_figure",
@@ -348,7 +332,7 @@
       "ref": "NODE_2",
       "name": "Erika Kirk",
       "type": "person",
-      "description": "Primary subject of investigation, widow of Charlie Kirk.",
+      "description": "Primary subject, widow of Charlie Kirk, subject of extensive biographical investigation",
       "related_artifacts": [
         "ART_1.1",
         "ART_1.2",
@@ -357,17 +341,18 @@
         "ART_1.5",
         "ART_1.6",
         "ART_2.1",
-        "ART_4.1",
-        "ART_5.1",
-        "ART_6.1",
-        "ART_6.2"
+        "ART_4.2",
+        "ART_4.3",
+        "ART_5.2",
+        "ART_5.3"
       ],
       "related_claims": [
         "CLAIM_1",
         "CLAIM_2",
         "CLAIM_3",
-        "CLAIM_4",
-        "CLAIM_5"
+        "CLAIM_5",
+        "CLAIM_6",
+        "CLAIM_7"
       ],
       "tags": [
         "key_figure",
@@ -378,119 +363,9 @@
       "@type": "Person",
       "@id": "NODE_3",
       "ref": "NODE_3",
-      "name": "Lori Abbis Stanley",
-      "type": "person",
-      "description": "Erika's mother, also known as Lori Waldd, Lori Frantzve, Lori Ginta.",
-      "related_artifacts": [
-        "ART_2.1",
-        "ART_3.1"
-      ],
-      "related_claims": [
-        "CLAIM_2"
-      ],
-      "tags": [
-        "family_member"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "NODE_4",
-      "ref": "NODE_4",
-      "name": "Dr. Jerry Frantzve",
-      "type": "person",
-      "description": "First wife of Erika's father Kent Frantzve, described as former psychologist who worked with DuPont and Bush family.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [
-        "character_introduced"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "NODE_5",
-      "ref": "NODE_5",
       "name": "Kent Frantzve",
       "type": "person",
-      "description": "Erika's father, married to Dr. Jerry Frantzve.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [
-        "family_member"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "NODE_6",
-      "ref": "NODE_6",
-      "name": "Angelina Lombardo-Abbis",
-      "type": "person",
-      "description": "Erika's maternal grandmother listed in 1970 obituary.",
-      "related_artifacts": [
-        "ART_3.1"
-      ],
-      "related_claims": [
-        "CLAIM_2"
-      ],
-      "tags": [
-        "family_member",
-        "deceased"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "NODE_7",
-      "ref": "NODE_7",
-      "name": "Vince Lombardi",
-      "type": "person",
-      "description": "Famous Green Bay Packers coach, Super Bowl trophy named after him.",
-      "related_artifacts": [
-        "ART_2.1"
-      ],
-      "related_claims": [
-        "CLAIM_2"
-      ],
-      "tags": [
-        "sports_figure"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "NODE_8",
-      "ref": "NODE_8",
-      "name": "Jack Solomon",
-      "type": "person",
-      "description": "Also referred to as Uncle Jack Solomon. Connected to Rothstein family; financed Zion's Gate restoration; former slot machine manufacturer. Married to Erika's aunt Carla Solomon; founder of Bali Technologies; professor at BYU.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [
-        "character_introduced"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "NODE_9",
-      "ref": "NODE_9",
-      "name": "Richard Erpenbeck",
-      "type": "person",
-      "description": "Person Erika considers her uncle, works at Universal Studios, brother Bill served 20+ years for financial fraud.",
-      "related_artifacts": [
-        "ART_5.1"
-      ],
-      "related_claims": [
-        "CLAIM_4"
-      ],
-      "tags": [
-        "family_member",
-        "criminal_association"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "NODE_1000",
-      "ref": "NODE_1000",
-      "name": "Date of Birth Discrepancy",
-      "type": "investigation_target",
-      "description": "Erika's birthday listed as November 22, 1988 in multiple legal documents vs claimed November 20, 1988.",
+      "description": "Erika's father",
       "related_artifacts": [
         "ART_1.1",
         "ART_1.2",
@@ -503,65 +378,348 @@
         "CLAIM_1"
       ],
       "tags": [
-        "discrepancy_target"
-      ],
-      "confidence": "high"
+        "family"
+      ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "NODE_1001",
-      "ref": "NODE_1001",
-      "name": "Lombardi Lineage Claim",
-      "type": "investigation_target",
-      "description": "Whether Erika is truly a direct descendant of Vince Lombardi as Charlie claimed.",
+      "@type": "Person",
+      "@id": "NODE_4",
+      "ref": "NODE_4",
+      "name": "Lori Abbas Stanley",
+      "type": "person",
+      "description": "Erika's mother, multiple name variations and marriages",
       "related_artifacts": [
-        "ART_2.1",
-        "ART_3.1"
+        "ART_3.1",
+        "ART_4.1",
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_3",
+        "CLAIM_4"
+      ],
+      "tags": [
+        "family",
+        "subject"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_5",
+      "ref": "NODE_5",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of Bride of Charlie series",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "host"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_6",
+      "ref": "NODE_6",
+      "name": "Dr. Jerry Frantzve",
+      "type": "person",
+      "description": "First wife of Kent Frantzve, created Tesseract model",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_7",
+      "ref": "NODE_7",
+      "name": "Rick Erpenbeck",
+      "type": "person",
+      "description": "Alleged uncle of Erika, works at Universal Studios",
+      "related_artifacts": [
+        "ART_2.1"
       ],
       "related_claims": [
         "CLAIM_2"
       ],
       "tags": [
-        "genealogy_target"
-      ],
-      "confidence": "medium"
+        "family",
+        "person_of_interest"
+      ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "NODE_1002",
-      "ref": "NODE_1002",
-      "name": "Missing Years Timeline",
-      "type": "investigation_target",
-      "description": "Erika's unaccounted time 2000-2002 and claim about Bible study vs actual timeline.",
-      "related_artifacts": [
-        "ART_6.1",
-        "ART_6.2"
-      ],
+      "@type": "Person",
+      "@id": "NODE_8",
+      "ref": "NODE_8",
+      "name": "Bill Erpenbeck",
+      "type": "person",
+      "description": "Rick Erpenbeck's brother, served 20+ years for financial fraud",
+      "related_artifacts": [],
       "related_claims": [
-        "CLAIM_5"
+        "CLAIM_2"
       ],
       "tags": [
-        "timeline_gap"
-      ],
-      "confidence": "high"
+        "person_of_interest",
+        "criminal"
+      ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "NODE_1003",
-      "ref": "NODE_1003",
-      "name": "Erpenbeck criminal connections — Erika & uncle Rick",
-      "type": "investigation_target",
-      "description": "Erpenbeck family thread: Richard Erpenbeck (‘uncle Rick’). Legal/document spelling: Erpenbeck; captions often garbled the surname Erpenbeck. Fraud ties and Erika / Miss Arizona pathway. (Ep3 notary: Bill Erpenbeck re absent signers.)",
+      "@type": "Person",
+      "@id": "NODE_9",
+      "ref": "NODE_9",
+      "name": "Jack Solomon",
+      "type": "person",
+      "description": "Erika's uncle through marriage, professor at BYU, founder of Bali Technologies",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_10",
+      "ref": "NODE_10",
+      "name": "Carla Solomon",
+      "type": "person",
+      "description": "Married to Jack Solomon, related to Erika",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_11",
+      "ref": "NODE_11",
+      "name": "James Melvin Stanley",
+      "type": "person",
+      "description": "First husband of Lori, passed away",
       "related_artifacts": [
-        "ART_5.1"
+        "ART_4.1"
       ],
       "related_claims": [
         "CLAIM_4"
       ],
       "tags": [
-        "criminal_association"
+        "family"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_12",
+      "ref": "NODE_12",
+      "name": "John Robert Walstad",
+      "type": "person",
+      "description": "Second husband of Lori",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_13",
+      "ref": "NODE_13",
+      "name": "Vince Lombardi",
+      "type": "person",
+      "description": "Famous NFL coach, Super Bowl trophy named after him",
+      "related_artifacts": [
+        "ART_5.1"
       ],
-      "confidence": "medium"
+      "related_claims": [
+        "CLAIM_3"
+      ],
+      "tags": [
+        "sports_figure",
+        "family_claim"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_14",
+      "ref": "NODE_14",
+      "name": "Angela Lombardo",
+      "type": "person",
+      "description": "Listed as Lori's mother, maiden name",
+      "related_artifacts": [
+        "ART_3.1"
+      ],
+      "related_claims": [
+        "CLAIM_3"
+      ],
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_15",
+      "ref": "NODE_15",
+      "name": "St. Ursula Villa",
+      "type": "place",
+      "description": "School in Cincinnati where Erika attended kindergarten",
+      "related_artifacts": [
+        "ART_4.2"
+      ],
+      "related_claims": [
+        "CLAIM_5"
+      ],
+      "tags": [
+        "educational_institution"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_16",
+      "ref": "NODE_16",
+      "name": "Regis University",
+      "type": "place",
+      "description": "University in Denver where Erika claims to have played basketball",
+      "related_artifacts": [
+        "ART_4.3"
+      ],
+      "related_claims": [
+        "CLAIM_6"
+      ],
+      "tags": [
+        "educational_institution"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_17",
+      "ref": "NODE_17",
+      "name": "Turning Point USA",
+      "type": "organization",
+      "description": "Political organization founded by Charlie Kirk",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "organization",
+        "political"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_18",
+      "ref": "NODE_18",
+      "name": "Universal Studios",
+      "type": "organization",
+      "description": "Entertainment company where Rick Erpenbeck works",
+      "related_artifacts": [
+        "ART_2.1"
+      ],
+      "related_claims": [
+        "CLAIM_2"
+      ],
+      "tags": [
+        "organization",
+        "entertainment"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1000",
+      "ref": "NODE_1000",
+      "name": "Date of Birth Discrepancy",
+      "type": "topic",
+      "topic_kind": "discrepancy",
+      "description": "Multiple court documents list Erika's birthday as November 22, 1988 instead of claimed November 20, 1988",
+      "related_artifacts": [
+        "ART_1.1",
+        "ART_1.2",
+        "ART_1.3",
+        "ART_1.4",
+        "ART_1.5",
+        "ART_1.6"
+      ],
+      "related_claims": [
+        "CLAIM_1"
+      ],
+      "tags": [
+        "discrepancy_target",
+        "evidence"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1001",
+      "ref": "NODE_1001",
+      "name": "Lombardi Lineage Claim",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Charlie claims Erika is directly descended from Vince Lombardi",
+      "related_artifacts": [
+        "ART_3.1",
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_3"
+      ],
+      "tags": [
+        "verification_thread",
+        "family_claim"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1002",
+      "ref": "NODE_1002",
+      "name": "Bible Study Timeline Inconsistency",
+      "type": "topic",
+      "topic_kind": "discrepancy",
+      "description": "Erika gives conflicting accounts of when she read the Bible cover to cover",
+      "related_artifacts": [
+        "ART_5.2",
+        "ART_5.3"
+      ],
+      "related_claims": [
+        "CLAIM_7"
+      ],
+      "tags": [
+        "discrepancy_target",
+        "evidence"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1003",
+      "ref": "NODE_1003",
+      "name": "Missing Years 2000-2002",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "No yearbook confirmation for Erika at St. Ursula Villa for these years",
+      "related_artifacts": [
+        "ART_4.2"
+      ],
+      "related_claims": [
+        "CLAIM_5"
+      ],
+      "tags": [
+        "verification_thread",
+        "timeline_gap"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1004",
+      "ref": "NODE_1004",
+      "name": "Regis University Basketball Claim",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Erika claims to have played basketball at Regis but team members confirm she did not",
+      "related_artifacts": [
+        "ART_4.3"
+      ],
+      "related_claims": [
+        "CLAIM_6"
+      ],
+      "tags": [
+        "verification_thread",
+        "discrepancy_target"
+      ]
     }
   ],
   "claims": [
@@ -569,9 +727,9 @@
       "@type": "Claim",
       "@id": "CLAIM_1",
       "ref": "CLAIM_1",
-      "label": "Erika's Birthday Listed as November 22 1988 in Legal Documents",
-      "claim_timestamp": "17:56",
-      "claim": "Multiple legal documents from 1998-2007 consistently list Erika's birthday as November 22, 1988.",
+      "label": "DOB Listed as November 22, 1988 in Multiple Court Filings",
+      "claim_timestamp": "18:17",
+      "claim": "Court documents from 1998, 1999, 2004, and 2007 consistently list Erika's birthday as November 22, 1988 rather than November 20.",
       "anchored_artifacts": [
         "ART_1.1",
         "ART_1.2",
@@ -582,107 +740,128 @@
       ],
       "related_nodes": [
         "NODE_2",
+        "NODE_3",
         "NODE_1000"
       ],
-      "investigative_direction": "Compare certified copies of these documents to official birth records.",
-      "tags": [
-        "falsifiable"
-      ],
-      "transcript_snippet": "Erika's birthday is again listed as November 22nd, 1988.",
-      "confidence": "high"
+      "investigative_direction": "Obtain certified copies of filings to verify authenticity and compare with official birth records.",
+      "confidence": "high",
+      "transcript_snippet": "The point I'm making here is everything about this marriage, everything about this divorce, everything about Erika's early years is shady."
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_2",
       "ref": "CLAIM_2",
-      "label": "Charlie Stated Erika is Direct Lombardi Descendant",
-      "claim_timestamp": "36:45",
-      "claim": "Charlie Kirk stated on his podcast that Erika is a direct descendant of Vince Lombardi.",
+      "label": "Erika Close to Rick Erpenbeck with Criminal Family Ties",
+      "claim_timestamp": "14:46",
+      "claim": "Erika has a documented close relationship with Rick Erpenbeck, whose brother Bill served 20+ years for financial fraud and whose father was involved in kidnapping plot.",
       "anchored_artifacts": [
-        "ART_2.1",
-        "ART_3.1"
+        "ART_2.1"
       ],
       "related_nodes": [
-        "NODE_1",
         "NODE_2",
-        "NODE_3",
-        "NODE_6",
         "NODE_7",
-        "NODE_1001"
+        "NODE_8",
+        "NODE_10"
       ],
-      "investigative_direction": "Verify genealogy records and obtain birth certificates of Lori's parents.",
-      "tags": [
-        "falsifiable"
-      ],
-      "transcript_snippet": "My wife Erika is from the Lombardi family. Like direct bloodline?",
-      "confidence": "high"
+      "investigative_direction": "Verify nature of relationship and whether Erika was aware of criminal histories.",
+      "confidence": "high",
+      "transcript_snippet": "We can now confirm that it's not just Lori who was close to Rick, but Erika is close to Rick as well."
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_3",
       "ref": "CLAIM_3",
-      "label": "Erika Attended St Ursula Villa Kindergarten",
-      "claim_timestamp": "41:40",
-      "claim": "Erika attended St. Ursula Villa in Cincinnati for kindergarten in 1994-1995.",
+      "label": "Charlie Kirk States Erika is Direct Descendant of Vince Lombardi",
+      "claim_timestamp": "36:48",
+      "claim": "Charlie Kirk explicitly states on his podcast that Erika's mother is a direct descendant of Vince Lombardi.",
       "anchored_artifacts": [
-        "ART_4.1"
+        "ART_5.1",
+        "ART_3.1"
       ],
       "related_nodes": [
-        "NODE_2",
-        "NODE_1002"
+        "NODE_1",
+        "NODE_4",
+        "NODE_14",
+        "NODE_1001"
       ],
-      "investigative_direction": "Obtain yearbook records to verify attendance and names.",
-      "tags": [
-        "falsifiable"
-      ],
-      "transcript_snippet": "She attended what we can document for kid kindergarten.",
-      "confidence": "medium"
+      "investigative_direction": "Verify genealogical records to confirm or refute Lombardi lineage claim.",
+      "confidence": "high",
+      "transcript_snippet": "My wife Erika is from the Lombardi family. Literally, isn't that insane? Like, how like is she like direct bloodline?"
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_4",
       "ref": "CLAIM_4",
-      "label": "Erika Visited Uncle Rick at Universal Studios",
-      "claim_timestamp": "15:00",
-      "claim": "Erika visited Richard Erpenbeck, who she calls uncle, at Universal Studios on December 1, 2018.",
+      "label": "James Melvin Stanley Was Lori's First Husband",
+      "claim_timestamp": "12:10",
+      "claim": "Lori's first husband was James Melvin Stanley, who passed away.",
       "anchored_artifacts": [
-        "ART_5.1"
+        "ART_4.1"
       ],
       "related_nodes": [
-        "NODE_2",
-        "NODE_9",
-        "NODE_1003"
+        "NODE_4",
+        "NODE_11"
       ],
-      "investigative_direction": "Verify Richard Erpenbeck's employment and family connections.",
-      "tags": [
-        "falsifiable"
-      ],
-      "transcript_snippet": "She was with her mom. She's always with Lori.",
-      "confidence": "high"
+      "investigative_direction": "Obtain marriage records to verify.",
+      "confidence": "high",
+      "transcript_snippet": "Her first marriage, by the way, cuz some people messaged and asked, was to a man that sort of disappeared into the military."
     },
     {
       "@type": "Claim",
       "@id": "CLAIM_5",
       "ref": "CLAIM_5",
-      "label": "Bible Study Timeline Contradiction",
-      "claim_timestamp": "43:50",
-      "claim": "Erika claimed to have studied Bible for 8 months in 2008, but later stated she first read the Bible cover to cover in 2016.",
+      "label": "Erika Attended St. Ursula Villa Kindergarten 1994-1995",
+      "claim_timestamp": "41:38",
+      "claim": "Documented evidence shows Erika attended St. Ursula Villa for kindergarten in 1994-1995, but no yearbook confirmation exists for 2000-2002.",
       "anchored_artifacts": [
-        "ART_6.1",
-        "ART_6.2"
+        "ART_4.2"
+      ],
+      "related_nodes": [
+        "NODE_2",
+        "NODE_15",
+        "NODE_1003"
+      ],
+      "investigative_direction": "Obtain yearbooks and school records to verify attendance.",
+      "confidence": "high",
+      "transcript_snippet": "We can confirm now that Erika did attend St. Ursula Villa up in Cincinnati, Ohio, but she attended what we can document for kid kindergarten."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_6",
+      "ref": "CLAIM_6",
+      "label": "Erika Did Not Play Basketball at Regis University",
+      "claim_timestamp": "42:33",
+      "claim": "Despite Erika's claims of playing basketball at Regis University for two years, team members confirm she did not play in the 2008 season.",
+      "anchored_artifacts": [
+        "ART_4.3"
+      ],
+      "related_nodes": [
+        "NODE_2",
+        "NODE_16",
+        "NODE_1004"
+      ],
+      "investigative_direction": "Obtain official university athletic records to verify team roster.",
+      "confidence": "high",
+      "transcript_snippet": "She did not play. Regis University, like I said, her stats are still up. We could not find her in a newspaper, and now we have team members that are confirming that she did not play for the 2008 season."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_7",
+      "ref": "CLAIM_7",
+      "label": "Erika Gives Conflicting Bible Study Timeline",
+      "claim_timestamp": "44:50",
+      "claim": "Erika claims she studied Bible for 6-8 months in 2008 after Miss Arizona, but later states she first read the Bible cover to cover in 2016.",
+      "anchored_artifacts": [
+        "ART_5.2",
+        "ART_5.3"
       ],
       "related_nodes": [
         "NODE_2",
         "NODE_1002"
       ],
-      "investigative_direction": "Obtain records verifying Erika's activities during 2008 and 2016.",
-      "tags": [
-        "contradiction",
-        "falsifiable"
-      ],
-      "transcript_snippet": "I literally had locked myself in my room and read my Bible... The first time I ever read the Bible cover to cover was 2016.",
+      "investigative_direction": "Verify timeline through independent sources and podcast recordings.",
       "confidence": "high",
-      "uncertainty_note": "Timeline inconsistency between two separate podcast appearances."
+      "transcript_snippet": "The first time I ever read the Bible cover to cover was 2016, and it changed my life."
     }
   ]
 }
