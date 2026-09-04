@@ -3606,6 +3606,23 @@
       "apply_all_episodes": false,
       "created_at": "2026-09-04T05:55:00Z",
       "updated_at": "2026-09-04T05:55:00Z"
+    },
+    {
+      "id": "transcriber-032",
+      "episode": 6,
+      "status": "accepted",
+      "match_mode": "literal",
+      "find": "Sergeant Ber",
+      "replace": "Sergeant Boyer",
+      "note": "Ep6 [17:28] deceased Sgt with Dennis Frantzve (Frantsve FB Apr 4 2009: Sgt Jacobs and Sgt Boyer); NOT Tyler Bowyer",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected"
+      ],
+      "flags": [],
+      "apply_all_episodes": false,
+      "created_at": "2026-09-04T14:35:00Z",
+      "updated_at": "2026-09-04T14:35:00Z"
     }
   ]
 }
