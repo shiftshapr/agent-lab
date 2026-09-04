@@ -1620,7 +1620,7 @@
       "match_mode": "literal",
       "find": "John T. Goalie",
       "replace": "John T. Tigoli",
-      "note": "SUPERSEDED: wrong target (Tigoli); use transcriber-096→098 Goalie/Tigoli→John T. Golle (EAI)",
+      "note": "SUPERSEDED: wrong target (Tigoli); use vq-locks-001/002/003 Goalie/Tigoli→John T. Golle",
       "priority": 0,
       "tiers": [
         "inscription",
@@ -4707,327 +4707,308 @@
       "updated_at": "2026-09-04T15:00:00Z"
     },
     {
-      "id": "transcriber-096",
+      "id": "vq-locks-001",
       "episode": 1,
       "status": "proposed",
       "match_mode": "literal",
       "find": "John T. Goalie",
       "replace": "John T. Golle",
-      "note": "video-queue ep1: public John T. Golle (EAI)",
+      "note": "[video-queue] LOCK ep1 · public John T. Golle; supersedes Goalie→Tigoli",
       "priority": 0,
       "tiers": [
-        "transcripts_corrected"
+        "transcripts_corrected",
+        "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
+      "apply_all_episodes": false
     },
     {
-      "id": "transcriber-097",
+      "id": "vq-locks-002",
       "episode": 1,
       "status": "proposed",
       "match_mode": "literal",
       "find": "Goalie was",
       "replace": "Golle was",
-      "note": "video-queue ep1: public John T. Golle (EAI)",
+      "note": "[video-queue] LOCK ep1 · same person Golle",
       "priority": 0,
       "tiers": [
-        "transcripts_corrected"
+        "transcripts_corrected",
+        "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
+      "apply_all_episodes": false
     },
     {
-      "id": "transcriber-098",
+      "id": "vq-locks-003",
       "episode": 1,
       "status": "proposed",
       "match_mode": "literal",
       "find": "John Tigoli",
       "replace": "John T. Golle",
-      "note": "video-queue ep1: public John T. Golle (EAI)",
+      "note": "[video-queue] LOCK ep1 · Tigoli ASR of Golle",
       "priority": 0,
       "tiers": [
-        "transcripts_corrected"
+        "transcripts_corrected",
+        "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
+      "apply_all_episodes": false
     },
     {
-      "id": "transcriber-099",
+      "id": "vq-locks-004",
       "episode": 1,
       "status": "proposed",
       "match_mode": "literal",
       "find": "Frantzve Feay",
       "replace": "Frantzve",
-      "note": "video-queue ep1: birth notice Frantzve",
+      "note": "[video-queue] LOCK ep1 [21:57] on-screen birth notice",
       "priority": 0,
       "tiers": [
-        "transcripts_corrected"
+        "transcripts_corrected",
+        "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
+      "apply_all_episodes": false
     },
     {
-      "id": "transcriber-100",
+      "id": "vq-locks-005",
       "episode": 1,
       "status": "proposed",
       "match_mode": "literal",
       "find": "Kenneth Fron",
       "replace": "Kenneth Frantzve",
-      "note": "video-queue ep1: birth notice Frantzve",
+      "note": "[video-queue] LOCK ep1 [17:50] ASR trunc",
       "priority": 0,
       "tiers": [
-        "transcripts_corrected"
+        "transcripts_corrected",
+        "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
+      "apply_all_episodes": false
     },
     {
-      "id": "transcriber-101",
-      "episode": 1,
-      "status": "proposed",
-      "match_mode": "literal",
-      "find": "Abbis",
-      "replace": "Abbas",
-      "note": "video-queue ep1: Abbas Cincinnati (all ep1 Abbis hits)",
-      "priority": 0,
-      "tiers": [
-        "transcripts_corrected"
-      ],
-      "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
-    },
-    {
-      "id": "transcriber-102",
+      "id": "vq-locks-006",
       "episode": 2,
       "status": "proposed",
       "match_mode": "literal",
       "find": "Fron said",
       "replace": "Frantzve said",
-      "note": "video-queue ep2: Frantzve said article",
+      "note": "[video-queue] LOCK ep2 [13:46] on-screen article",
       "priority": 0,
       "tiers": [
-        "transcripts_corrected"
+        "transcripts_corrected",
+        "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
+      "apply_all_episodes": false
     },
     {
-      "id": "transcriber-103",
+      "id": "vq-locks-007",
       "episode": 2,
       "status": "proposed",
       "match_mode": "literal",
       "find": "Dr. Frantzve Fay",
       "replace": "Dr. Frantzve",
-      "note": "video-queue ep2: birth notice Frantzve",
+      "note": "[video-queue] LOCK ep2 drop Fay",
       "priority": 0,
       "tiers": [
-        "transcripts_corrected"
+        "transcripts_corrected",
+        "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
+      "apply_all_episodes": false
     },
     {
-      "id": "transcriber-104",
+      "id": "vq-locks-008",
       "episode": 2,
       "status": "proposed",
       "match_mode": "literal",
       "find": "Fay maybe",
       "replace": "maybe",
-      "note": "video-queue ep2: birth notice Frantzve",
+      "note": "[video-queue] LOCK ep2 [22:44] Fay split",
       "priority": 0,
       "tiers": [
-        "transcripts_corrected"
+        "transcripts_corrected",
+        "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
+      "apply_all_episodes": false
     },
     {
-      "id": "transcriber-105",
-      "episode": 3,
-      "status": "proposed",
-      "match_mode": "literal",
-      "find": "Abbis",
-      "replace": "Abbas",
-      "note": "video-queue ep3: Abbas Cincinnati",
-      "priority": 0,
-      "tiers": [
-        "transcripts_corrected"
-      ],
-      "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
-    },
-    {
-      "id": "transcriber-106",
-      "episode": 4,
-      "status": "proposed",
-      "match_mode": "literal",
-      "find": "Abbis",
-      "replace": "Abbas",
-      "note": "video-queue ep4: Abbas Cincinnati",
-      "priority": 0,
-      "tiers": [
-        "transcripts_corrected"
-      ],
-      "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
-    },
-    {
-      "id": "transcriber-107",
-      "episode": 4,
-      "status": "proposed",
-      "match_mode": "literal",
-      "find": "grandmother is Angelina",
-      "replace": "grandmother is Angeline",
-      "note": "video-queue ep4: Abbas Cincinnati (Angeline Abbas)",
-      "priority": 0,
-      "tiers": [
-        "transcripts_corrected"
-      ],
-      "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
-    },
-    {
-      "id": "transcriber-108",
-      "episode": 4,
-      "status": "proposed",
-      "match_mode": "literal",
-      "find": "Lombardo Abbis",
-      "replace": "Abbas",
-      "note": "video-queue ep4: Lombardo Abbis→Abbas only; do not merge Anna Lombardo Carrescia",
-      "priority": 0,
-      "tiers": [
-        "transcripts_corrected"
-      ],
-      "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
-    },
-    {
-      "id": "transcriber-109",
-      "episode": 4,
-      "status": "proposed",
-      "match_mode": "literal",
-      "find": "Angelene, wife of Joseph Abbis",
-      "replace": "Angeline, wife of Joseph Abbas",
-      "note": "video-queue ep4: Abbas Cincinnati",
-      "priority": 0,
-      "tiers": [
-        "transcripts_corrected"
-      ],
-      "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
-    },
-    {
-      "id": "transcriber-110",
+      "id": "vq-locks-009",
       "episode": 5,
       "status": "proposed",
       "match_mode": "literal",
       "find": "Lori Front",
       "replace": "Lori Frantzve",
-      "note": "video-queue ep5: Lori Frantzve filings",
+      "note": "[video-queue] LOCK ep5 [11:12] filings",
       "priority": 0,
       "tiers": [
-        "transcripts_corrected"
+        "transcripts_corrected",
+        "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
+      "apply_all_episodes": false
     },
     {
-      "id": "transcriber-111",
+      "id": "vq-locks-010",
       "episode": 6,
       "status": "proposed",
       "match_mode": "literal",
       "find": "Cakopa",
       "replace": "Cocopah",
-      "note": "video-queue ep6: on-screen Cocopah tweet (#CocopahPRIDE unchanged)",
+      "note": "[video-queue] LOCK ep6 on-screen; keep #CocopahPRIDE",
       "priority": 0,
       "tiers": [
-        "transcripts_corrected"
+        "transcripts_corrected",
+        "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
+      "apply_all_episodes": false
     },
     {
-      "id": "transcriber-112",
+      "id": "vq-locks-011",
       "episode": 6,
       "status": "proposed",
       "match_mode": "literal",
       "find": "Kovets",
       "replace": "Kolvets",
-      "note": "video-queue ep6: Kolvets family spelling",
+      "note": "[video-queue] LOCK ep6 [22:49] residual plural",
       "priority": 0,
       "tiers": [
-        "transcripts_corrected"
+        "transcripts_corrected",
+        "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
+      "apply_all_episodes": false
     },
     {
-      "id": "transcriber-113",
+      "id": "vq-locks-012",
       "episode": 7,
       "status": "proposed",
       "match_mode": "literal",
       "find": "Erika Fron",
       "replace": "Erika Frantzve",
-      "note": "video-queue ep7: birth notice Frantzve",
+      "note": "[video-queue] LOCK ep7 [46:17] ASR",
       "priority": 0,
       "tiers": [
-        "transcripts_corrected"
+        "transcripts_corrected",
+        "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
+      "apply_all_episodes": false
     },
     {
-      "id": "transcriber-114",
+      "id": "vq-locks-013",
       "episode": 8,
       "status": "proposed",
       "match_mode": "literal",
       "find": "Erika Frandsen",
       "replace": "Erika Frantzve",
-      "note": "video-queue ep8: Frandsen=ASR",
+      "note": "[video-queue] LOCK ep8 [29:48] ASR not prior legal",
       "priority": 0,
       "tiers": [
-        "transcripts_corrected"
+        "transcripts_corrected",
+        "transcripts"
       ],
       "flags": [],
-      "apply_all_episodes": false,
-      "created_at": "2026-09-04T16:32:00Z",
-      "updated_at": "2026-09-04T16:32:00Z"
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-014",
+      "episode": 4,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "grandmother is Angelina",
+      "replace": "grandmother is Angeline",
+      "note": "[video-queue] LOCK ep4 Angeline Abbas",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-015",
+      "episode": 4,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Lombardo Abbis",
+      "replace": "Abbas",
+      "note": "[video-queue] LOCK ep4 drop Lombardo-married mash",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-016",
+      "episode": 4,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Angelene, wife of Joseph Abbis",
+      "replace": "Angeline, wife of Joseph Abbas",
+      "note": "[video-queue] LOCK ep4 Joseph Abbas",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-017",
+      "episode": 1,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Abbis",
+      "replace": "Abbas",
+      "priority": 1,
+      "note": "[video-queue] LOCK public Abbas ep1",
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-018",
+      "episode": 3,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Abbis",
+      "replace": "Abbas",
+      "note": "[video-queue] LOCK public Abbas ep3",
+      "priority": 1,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-019",
+      "episode": 4,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Abbis",
+      "replace": "Abbas",
+      "note": "[video-queue] LOCK public Abbas ep4 after specials",
+      "priority": 1,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
     }
   ]
 }
