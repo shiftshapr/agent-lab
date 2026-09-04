@@ -7,7 +7,7 @@
 - **Video Timestamp Range**: 00:01–59:14
 - **Extraction Timestamp (UTC)**: 2026-03-20T21:44:24Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 184e60655939c68628c27f459d4a2923e1341d14c5f500dd56f23a08bc2e71d4
+- **Transcript SHA-256**: bfcaea6fefa00bb02c67d685084169d2d92c07af8e335b005631eeef1a0fdd51
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1014, A-1015, A-1016, A-1017, A-1018, A-1019
@@ -16,7 +16,7 @@
 
 ## 2. Executive Summary
 
-Episode 4 presents multiple legal documents showing Erika Kirk's birthday consistently listed as November 22, 1988 across divorce filings from 1995-2007. The episode introduces Dr. Jerry Frantzve (Erika's stepmother), Uncle Jack Solomon, and expands on Lori Abbis Stanley's background. A Charlie Kirk podcast clip confirms Erika's claimed descent from Vince Lombardi. The episode also challenges Erika's claimed timeline of Bible study in 2008 versus her 2016 statement that she first read the Bible that year.
+Episode 4 presents multiple legal documents showing Erika Kirk's birthday consistently listed as November 22, 1988 across divorce filings from 1995-2007. The episode introduces Dr. Jerry Frantzve (Erika's stepmother), Uncle Jack Solomon, and expands on Lori Abbas Stanley's background. A Charlie Kirk podcast clip confirms Erika's claimed descent from Vince Lombardi. The episode also challenges Erika's claimed timeline of Bible study in 2008 versus her 2016 statement that she first read the Bible that year.
 
 ## 3. Artifact Register
 
@@ -79,11 +79,11 @@ Confidence: high
 
 **A-1016** Obituary Bundle
 
-**A-1016.1** Obituary for Angelina Lombardo-Abbis from 1970
+**A-1016.1** Obituary for Angelina Lombardo-Abbas from 1970
 Event Timestamp: 1970
 Video Timestamp: 38:57–39:05
 *Related: C-1035, N-17, N-18*
-Transcript Snippet: Angelene, wife of Joseph Abbis of Cincinnati, Ohio.
+Transcript Snippet: Angeline, wife of Joseph Abbas of Cincinnati, Ohio.
 Confidence: high
 
 ---
@@ -148,7 +148,7 @@ Primary subject of investigation, widow of Charlie Kirk.
 
 ---
 
-**N-17** Lori Abbis Stanley
+**N-17** Lori Abbas Stanley
 
 Node Type: Person
 Erika's mother, also known as Lori Waldd, Lori Frantzve, Lori Ginta.
@@ -175,7 +175,7 @@ Erika's father, married to Dr. Jerry Frantzve.
 
 ---
 
-**N-18** Angelina Lombardo-Abbis
+**N-18** Angelina Lombardo-Abbas
 
 Node Type: Person
 Erika's maternal grandmother listed in 1970 obituary.

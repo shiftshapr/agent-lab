@@ -7,7 +7,7 @@
 - **Video Timestamp Range**: 00:01–01:03:57
 - **Extraction Timestamp (UTC)**: 2026-03-20T22:19:01Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: dee38f7aba45deebc027bdf4cdc9e5e1daf95871669c68845ae2f59ad25a07c8
+- **Transcript SHA-256**: 06a3b756f6db827356196cd9d57188ec9abe43dac136eec26a5dc72b54b3b927
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1020, A-1021, A-1022, A-1023, A-1024, A-1025, A-1026, A-1027, A-1028
@@ -221,7 +221,7 @@ Deceased sex offender with documented Romanian connections in 2009 emails
 
 ---
 
-**N-22** Colonel Otto Busher
+**N-22** Colonel Otto Buscher
 
 Node Type: Person
 Accused of running brothel and human trafficking ring from Romanian base 2010-2015
@@ -362,13 +362,13 @@ Investigative Direction: Cross-reference Epstein emails with base timeline
 
 ---
 
-**C-1049** Black Sea Rotational Force 2010 and Colonel Busher trafficking
+**C-1049** Black Sea Rotational Force 2010 and Colonel Buscher trafficking
 
 Claim Timestamp: 27:50
-Claim: Black Sea Rotational Force 2010 established at Mihail Kogalniceanu air base; Colonel Otto Busher accused of brothel/trafficking 2010-2015
+Claim: Black Sea Rotational Force 2010 established at Mihail Kogalniceanu air base; Colonel Otto Buscher accused of brothel/trafficking 2010-2015
 Anchored Artifacts: A-1024.2
 Related Nodes: N-22, N-1019
-Investigative Direction: Obtain Colonel Busher court-martial or investigation records
+Investigative Direction: Obtain Colonel Buscher court-martial or investigation records
 
 ---
 

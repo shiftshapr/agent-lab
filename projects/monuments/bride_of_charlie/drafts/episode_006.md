@@ -7,7 +7,7 @@
 - **Video Timestamp Range**: 00:01:00–01:00:57
 - **Extraction Timestamp (UTC)**: 2026-03-20T21:49:47Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 53c68d500652b02b105ed970cbfc1e10e45d9165b07d28bbe00a43ac8030f807
+- **Transcript SHA-256**: 34f5d4923dae1e5b528c3e2f10f557745da8bf3cf07902005e54e8f624c99d6a
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1029, A-1030, A-1031, A-1032, A-1033, A-1034, A-1035, A-1036, A-1037, A-1038, A-1039, A-1040
@@ -16,7 +16,7 @@
 
 ## 2. Executive Summary
 
-Episode 6 focuses on Romania connections, investigating why multiple figures in the story are tied to Romania. The episode presents email evidence showing Erika refused to answer questions about Romania visits, middle school confirmation from Cakopa, and historical Romanian context. Key artifacts include the 2011 timeline showing Tyler Bowyer's election to Arizona Board of Regents coinciding with Erika's ASU enrollment, Nevada-Rome links, and military connections. The episode also explores multiple Turning Point staff proximity to mass shootings.
+Episode 6 focuses on Romania connections, investigating why multiple figures in the story are tied to Romania. The episode presents email evidence showing Erika refused to answer questions about Romania visits, middle school confirmation from Cocopah, and historical Romanian context. Key artifacts include the 2011 timeline showing Tyler Bowyer's election to Arizona Board of Regents coinciding with Erika's ASU enrollment, Nevada-Rome links, and military connections. The episode also explores multiple Turning Point staff proximity to mass shootings.
 
 ## 3. Artifact Register
 
@@ -33,7 +33,7 @@ Confidence: high
 
 **A-1030** Middle School Verification Bundle
 
-**A-1030.1** Tweet from Cakopa Middle School referring to Erika Frantzve as alumni
+**A-1030.1** Tweet from Cocopah Middle School referring to Erika Frantzve as alumni
 Event Timestamp: 2000-2003
 Video Timestamp: 01:44–01:51
 *Related: C-1061, N-2*
@@ -199,7 +199,7 @@ Erika's cousin, retired Marine lieutenant colonel, served in Romania
 
 ---
 
-**N-22** Colonel Otto Busher
+**N-22** Colonel Otto Buscher
 
 Node Type: Person
 Marine Colonel in Romania, accused of running brothel and trafficking children
@@ -317,11 +317,11 @@ Investigative Direction: Verify if Erika ever responded about her Romania visits
 
 ---
 
-**C-1061** Erika Attended Cakopa Middle School
+**C-1061** Erika Attended Cocopah Middle School
 
 Claim Timestamp: 01:19
-Claim: Erika attended Cakopa Middle School in Scottsdale from 2000-2003, confirmed by school tweet
-Transcript Snippet: it's called Cakopa Middle School... they once tweeted this referring to her as alumni
+Claim: Erika attended Cocopah Middle School in Scottsdale from 2000-2003, confirmed by school tweet
+Transcript Snippet: it's called Cocopah Middle School... they once tweeted this referring to her as alumni
 Anchored Artifacts: A-1030.1
 Related Nodes: N-2
 Confidence: high
@@ -450,11 +450,11 @@ Investigative Direction: Verify his location at time of shooting
 
 ---
 
-**C-1072** Colonel Otto Busher Accusation
+**C-1072** Colonel Otto Buscher Accusation
 
 Claim Timestamp: 30:52
-Claim: Colonel Otto Busher, who Erika thanked on her website, was accused of running a brothel trafficking children in Romania
-Transcript Snippet: This is the Colonel Otto Busher who will be accused um of running a brothel of trafficking children
+Claim: Colonel Otto Buscher, who Erika thanked on her website, was accused of running a brothel trafficking children in Romania
+Transcript Snippet: This is the Colonel Otto Buscher who will be accused um of running a brothel of trafficking children
 Anchored Artifacts: 
 Related Nodes: N-22, N-1020
 Confidence: medium

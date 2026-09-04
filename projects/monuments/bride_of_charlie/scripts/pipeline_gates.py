@@ -169,6 +169,16 @@ def resolve_corrected_transcript(project_dir: Path, episode_num: int) -> Path | 
     return None
 
 
+def resolve_draft_markdown(project_dir: Path, episode_num: int) -> Path | None:
+    """episode_NNN.md (current) or legacy episode_NNN_*.md."""
+    drafts_dir = project_dir / "drafts"
+    short = drafts_dir / f"episode_{episode_num:03d}.md"
+    if short.is_file():
+        return short
+    cands = sorted(drafts_dir.glob(f"episode_{episode_num:03d}_*.md"))
+    return cands[0] if cands else None
+
+
 def assert_name_freeze_for_transcript(path: Path, lexicon: list[dict[str, Any]] | None = None) -> list[str]:
     """Return error strings; empty list means pass."""
     if not path.is_file():
@@ -279,8 +289,7 @@ def check_draft_freshness(
     current = sha256_file(tpath)
     drafts_dir = project_dir / "drafts"
     if draft_path is None:
-        cands = sorted(drafts_dir.glob(f"episode_{episode_num:03d}_*.md"))
-        draft_path = cands[0] if cands else None
+        draft_path = resolve_draft_markdown(project_dir, episode_num)
     phase1_dir = project_dir / "phase1_output"
     if phase1_path is None and phase1_dir.is_dir():
         p1c = sorted(phase1_dir.glob(f"episode_{episode_num:03d}_*.json"))

@@ -457,6 +457,7 @@ def _load_project_canonical_nodes(proj_path: Path) -> object | None:
         _CACHE_CANONICAL_MOD[key] = None
         return None
     mod = importlib.util.module_from_spec(spec)
+    sys.modules[mod_name] = mod
     spec.loader.exec_module(mod)
     _CACHE_CANONICAL_MOD[key] = mod
     return mod
@@ -480,6 +481,7 @@ def _load_pipeline_gates(proj_path: Path) -> object | None:
         _CACHE_PIPELINE_GATES[key] = None
         return None
     mod = importlib.util.module_from_spec(spec)
+    sys.modules[mod_name] = mod
     spec.loader.exec_module(mod)
     _CACHE_PIPELINE_GATES[key] = mod
     return mod

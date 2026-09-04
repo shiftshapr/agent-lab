@@ -7,7 +7,7 @@
 - **Video Timestamp Range**: Unknown
 - **Extraction Timestamp (UTC)**: 2026-03-20T21:40:01Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 9d728e95a1ce22ac920d9d348988ba4a94d709e414527efa276d3917a11fef1c
+- **Transcript SHA-256**: bb3ec385a31a9ea27f29a181c88f1c534aa6eacd6969321bfbd2d2a33ebb5618
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1000, A-1001, A-1002, A-1003, A-1004, A-1005, A-1006
@@ -83,7 +83,7 @@ Confidence: high
 
 **A-1003** Historical Family Articles
 
-**A-1003.1** 1941 newspaper testimony of Loretta Lynn Abbis
+**A-1003.1** 1941 newspaper testimony of Loretta Lynn Abbas
 Event Timestamp: 1941
 Video Timestamp: 32:56–33:15
 *Related: C-1008, N-5, N-1003*
@@ -97,7 +97,7 @@ Video Timestamp: 33:19–33:34
 Transcript Snippet: Here's another article from 1944 where she pleads guilty to a lottery charge.
 Confidence: high
 
-**A-1003.3** 1935 article about Mason Abbis lottery chase
+**A-1003.3** 1935 article about Mason Abbas lottery chase
 Event Timestamp: 1935
 Video Timestamp: 33:51–34:20
 *Related: C-1008, N-6, N-1003*
@@ -199,7 +199,7 @@ Erika Kirk's father. Claimed absent but was stay-at-home dad.
 
 ---
 
-**N-5** Loretta Lynn Abbis
+**N-5** Loretta Lynn Abbas
 
 Node Type: Person
 Erika's great-grandmother. Arrested for running illegal slot machines.
@@ -208,7 +208,7 @@ Erika's great-grandmother. Arrested for running illegal slot machines.
 
 ---
 
-**N-6** Mason Abbis
+**N-6** Mason Abbas
 
 Node Type: Person
 Erika's great-grandfather. Arrested for lottery-related activities.
@@ -329,7 +329,7 @@ Erika claimed Zion's Gate was her family's dedication, but appears to belong to 
 
 Claim Timestamp: 22:04
 Claim: The newspaper birth announcement and hospital records show Erika was born on November 20, 1988.
-Transcript Snippet: Erika Frantzve Feay, we are told, was born on November 20th, 1988 in Cincinnati, Ohio.
+Transcript Snippet: Erika Frantzve, we are told, was born on November 20th, 1988 in Cincinnati, Ohio.
 Anchored Artifacts: A-1000.1, A-1000.2
 Related Nodes: N-2, N-1000
 Confidence: high
@@ -412,7 +412,7 @@ Investigative Direction: Obtain enrollment records and yearbooks from Tesaract S
 **C-1007** Tesaract School Linked to Bush/Walton/Monsanto
 
 Claim Timestamp: 51:45
-Claim: Tesaract School was founded by John T. Goalie with connections to the Bush family, Walton family, and Monsanto.
+Claim: Tesaract School was founded by John T. Golle with connections to the Bush family, Walton family, and Monsanto.
 Transcript Snippet: He teamed up with the Walton family, the Bush family. Yeah. All everybody involved in this school that Erika's gonna attend.
 Anchored Artifacts: A-1002.2
 Related Nodes: N-2, N-1002
@@ -425,12 +425,12 @@ Investigative Direction: Research founding documents and organizational ties of 
 **C-1008** Maternal Family History of Illegal Gambling
 
 Claim Timestamp: 32:40
-Claim: Loretta Lynn Abbis (great-grandmother) and Mason Abbis (great-grandfather) were repeatedly arrested for illegal lottery and gambling operations.
+Claim: Loretta Lynn Abbas (great-grandmother) and Mason Abbas (great-grandfather) were repeatedly arrested for illegal lottery and gambling operations.
 Transcript Snippet: Loretta Lynn is one of those rarities. She was just constantly being arrested for running illegal slot machines.
 Anchored Artifacts: A-1003.1, A-1003.2, A-1003.3
 Related Nodes: N-5, N-6, N-1003
 Confidence: high
-Investigative Direction: Obtain court records from Pennsylvania archives for Loretta Lynn Abbis and Mason Abbis.
+Investigative Direction: Obtain court records from Pennsylvania archives for Loretta Lynn Abbas and Mason Abbas.
 
 ---
 

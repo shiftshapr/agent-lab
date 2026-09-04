@@ -71,7 +71,7 @@ def find_episode_num(name: str) -> int:
 # Numbering audit
 # ---------------------------------------------------------------------------
 
-ARTIFACT_FAMILY_RE = re.compile(r"A-(\d+)(?:\.\d+)?")
+ARTIFACT_FAMILY_RE = re.compile(r"(?<![A-Za-z])A-(\d+)(?:\.\d+)?")
 CLAIM_RE = re.compile(r"C-(\d+)")
 NODE_RE = re.compile(r"N-(\d+)")
 
