@@ -5009,6 +5009,22 @@
       ],
       "flags": [],
       "apply_all_episodes": false
+    },
+    {
+      "id": "vq-locks-020",
+      "episode": 2,
+      "status": "proposed",
+      "match_mode": "literal",
+      "find": "Pittz",
+      "replace": "Pitz",
+      "note": "[video-queue] LOCK ep2 [12:40] Daveed: birth surname Pitz; alternate Pitts in glossary addendum; Pittz is scrub-only find string",
+      "priority": 0,
+      "tiers": [
+        "transcripts_corrected",
+        "transcripts"
+      ],
+      "flags": [],
+      "apply_all_episodes": false
     }
   ]
 }
