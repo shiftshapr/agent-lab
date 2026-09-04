@@ -12,7 +12,7 @@
       "id": "tyler_storm_buer",
       "regex": "\\bTyler\\s+Storm\\s+Buer\\b",
       "flags": ["IGNORECASE"],
-      "note": "Use Tyler Storm Bowyer"
+      "note": "Use Tyler Storm Bowyer (ASR leftover detector — not a real surname; Buer is caption noise)"
     },
     {
       "id": "erikica",
