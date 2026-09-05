@@ -140,6 +140,8 @@ Mother of Erika Kirk, involved in multiple businesses, board member at Super Fee
 
 **N-16** Richard Erpenbeck
 
+*Also known as: Rick Erpenbeck; Rick.*
+
 Node Type: Person
 Witness on Lori's divorce documents, longtime business associate of Lori, youngest Erpenbeck brother
 

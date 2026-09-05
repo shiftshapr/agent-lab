@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1019, A-1020, A-1021, A-1022, A-1023
   - Claim Range: C-1027-C-1033
-  - New Nodes Introduced: N-1, N-2, N-4, N-8, N-11, N-12, N-19, N-42, N-48, N-49, N-50, N-51, N-52, N-53, N-54, N-55, N-1000, N-1014, N-1030, N-1053, N-1054, N-1055, N-1056
+  - New Nodes Introduced: N-1, N-2, N-3, N-4, N-8, N-11, N-12, N-16, N-19, N-42, N-50, N-51, N-52, N-53, N-54, N-1000, N-1014, N-1030, N-1048, N-1053, N-1054, N-1055, N-1056
 
 ## 2. Executive Summary
 
@@ -82,7 +82,7 @@ Confidence: high
 **A-1021.1** Obituary for Angeline Abbas
 Event Timestamp: 1970
 Video Timestamp: 38:57–39:07
-*Related: C-1029, N-48, N-53, N-1014*
+*Related: C-1029, N-3, N-53, N-1014*
 Transcript Snippet: You can see that here in this obituary...from 1970. The bottom there it says that...Angeline, wife of Joseph Abbas of...Cincinnati, Ohio. Okay. So, what's going...on here? Because that that still...wouldn't make her a direct unless...people have multiple identifications....I I I can't get there. But I know that
 Confidence: high
 
@@ -92,7 +92,7 @@ Confidence: high
 
 **A-1022.1** James Melvin Stanley Photo
 Video Timestamp: 12:10–12:20
-*Related: C-1030, N-48, N-52*
+*Related: C-1030, N-3, N-52*
 Transcript Snippet: Melvin Stanley. Here's a photo of him. I...am struck by how much he looks like...Breijit. I just want to say this is the...only photo I could found that I could...find of James Melvin Stanley, her first...husband. She got married to him, I...believe, when she was 19 years old. But...I looked at this and I went mad. This
 Confidence: medium
 
@@ -106,7 +106,7 @@ Confidence: high
 **A-1022.3** Erika with Regis University Team Members
 Event Timestamp: December 2007
 Video Timestamp: 42:33–42:51
-*Related: C-1032, N-2, N-55*
+*Related: C-1032, N-2, N-1048*
 Transcript Snippet: gathered of Erika with her Regis...University team members. This is taken...in December of 2007,...but she did not play. Regis University,...like I said, her stats are still up. We...could not find her in a newspaper, and...now we have uh team members that are...confirming that she did not play for the
 Confidence: high
 
@@ -116,7 +116,7 @@ Confidence: high
 
 **A-1023.1** Charlie Kirk Podcast - Lombardi Family Claim
 Video Timestamp: 36:45–37:05
-*Related: C-1029, N-1, N-48, N-53*
+*Related: C-1029, N-1, N-3, N-53*
 Transcript Snippet: >> The Packers won the first Super Bowl....You know, my my wife Erika is from the...Lombardi family....>> Really? Is that right?...>> Seriously?...>> Yeah....>> That's Royal Her mom's a Lombardi....Literally, isn't that insane?
 Confidence: high
 
@@ -163,7 +163,9 @@ Erika's father
 
 ---
 
-**N-48** Lori Abbas Stanley
+**N-3** Lori Frantzve
+
+*Also known as: Lori Abbas Stanley; Lori Abbis Stanley; Abbas Stanley; Abbis Stanley; Walstad; Guinta.*
 
 Node Type: Person
 Erika's mother, multiple name variations and marriages
@@ -190,7 +192,9 @@ First wife of Kent Frantzve, created Tesseract model
 
 ---
 
-**N-49** Rick Erpenbeck
+**N-16** Richard Erpenbeck
+
+*Also known as: Rick Erpenbeck; Rick.*
 
 Node Type: Person
 Alleged uncle of Erika, works at Universal Studios
@@ -271,9 +275,10 @@ School in Cincinnati where Erika attended kindergarten
 
 ---
 
-**N-55** Regis University
+**N-1048** Regis University
 
-Node Type: Person
+Node Type: Organization
+Organization Kind: educational_institution
 University in Denver where Erika claims to have played basketball
 
 *Related: A-1022.3, C-1032*
@@ -370,7 +375,7 @@ Claim Timestamp: 14:46
 Claim: Erika has a documented close relationship with Rick Erpenbeck, whose brother Bill served 20+ years for financial fraud and whose father was involved in kidnapping plot.
 Transcript Snippet: they've been around you your whole life,...that's my uncle Rick. But that's the...reality. If her Instagram is too...believed, uh if her Instagram account is...to be believed, then you should know...that she's very close to this person...because on December 1st, 2018, she went...down to Universal Studios. You should
 Anchored Artifacts: A-1020.1
-Related Nodes: N-2, N-49, N-42, N-50
+Related Nodes: N-2, N-16, N-42, N-50
 Confidence: high
 Investigative Direction: Verify nature of relationship and whether Erika was aware of criminal histories.
 
@@ -382,7 +387,7 @@ Claim Timestamp: 36:48
 Claim: Charlie Kirk explicitly states on his podcast that Erika's mother is a direct descendant of Vince Lombardi.
 Transcript Snippet: No, I'd have to hear Charlie say that...myself. That can't be right. Well, sure...enough, we went to investigate and...Charlie did communicate that very fact....Take a listen....>> The Packers won the first Super Bowl....You know, my my wife Erika is from the...Lombardi family.
 Anchored Artifacts: A-1023.1, A-1021.1
-Related Nodes: N-1, N-48, N-53, N-1014
+Related Nodes: N-1, N-3, N-53, N-1014
 Confidence: high
 Investigative Direction: Verify genealogical records to confirm or refute Lombardi lineage claim.
 
@@ -394,7 +399,7 @@ Claim Timestamp: 12:10
 Claim: Lori's first husband was James Melvin Stanley, who passed away.
 Transcript Snippet: they are never filing on time. They've...got to be shuttered. Her first marriage,...by the way, cuz some people messaged and...asked, was to a man that sort of...disappeared into the military. His name...uh is was he actually passed away, James...Melvin Stanley. Here's a photo of him. I...am struck by how much he looks like
 Anchored Artifacts: A-1022.1
-Related Nodes: N-48, N-51
+Related Nodes: N-3, N-51
 Confidence: high
 Investigative Direction: Obtain marriage records to verify.
 
@@ -418,7 +423,7 @@ Claim Timestamp: 42:33
 Claim: Despite Erika's claims of playing basketball at Regis University for two years, team members confirm she did not play in the 2008 season.
 Transcript Snippet: basketball players at St. Regis that we...were correct. She did not play in the...2008 2009 season despite in the future...she's going to claim multiple times that...she played at Regis for two years. She...played basketball for two years. Well, I...can show you this photo that we also...gathered of Erika with her Regis
 Anchored Artifacts: A-1022.3
-Related Nodes: N-2, N-55, N-1056
+Related Nodes: N-2, N-1048, N-1056
 Confidence: high
 Investigative Direction: Obtain official university athletic records to verify team roster.
 

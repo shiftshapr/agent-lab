@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1043, A-1044, A-1045, A-1046, A-1047, A-1048, A-1049, A-1050, A-1051
   - Claim Range: C-1075-C-1085
-  - New Nodes Introduced: N-1, N-2, N-3, N-11, N-13, N-30, N-32, N-62, N-63, N-1000, N-1030, N-1072, N-1074, N-1075, N-1076
+  - New Nodes Introduced: N-1, N-2, N-3, N-11, N-13, N-21, N-30, N-32, N-62, N-1000, N-1030, N-1072, N-1075, N-1076
 
 ## 2. Executive Summary
 
@@ -122,7 +122,7 @@ Confidence: high
 **A-1048.1** Epstein donations to Arizona State University
 Event Timestamp: December 2010
 Video Timestamp: 29:20–29:42
-*Related: C-1082, N-1074, N-1072*
+*Related: C-1082, N-21, N-1072*
 Transcript Snippet: be a reason for it. There could have...been some strange carve out just for...Erika. I'm sure there was. Uh but I find...all of this happening at the same time...to be very strange. Now, we are...obviously discussing the relationship...between Erika and Tyler. Both of them...being at the Arizona State University.
 Confidence: medium
 
@@ -133,14 +133,14 @@ Confidence: medium
 **A-1049.1** Audio: Erika claims living in China for sex trafficking work
 Event Timestamp: Pre-2018
 Video Timestamp: 32:41–33:30
-*Related: C-1083, N-2, N-63*
+*Related: C-1083, N-2, N-27*
 Transcript Snippet: Take a listen. I decided to create...something called Everyday Heroes Like...You, where we're able to originally it...was focused on bringing funds and...awareness to various grassroots...organizations that were in specific...communities uh that would be able to...have volunteers that are transparent
 Confidence: high
 
 **A-1049.2** Email from Justin Stripe: Erika did not live in China
 Event Timestamp: January 12, 2025
 Video Timestamp: 37:43–38:09
-*Related: C-1083, N-2, N-63*
+*Related: C-1083, N-2, N-27*
 Transcript Snippet: and he said, and I want to be clear, I...don't think Justin Stripe was lying....Didn't strike me as someone who would be...dumb enough to lie. Uh forget whether or...not he's moral. Is he dumb? And my...answer is no. know Justin Stripe is not...an idiot. So this is what her new story...is is that she did not live in China and
 Confidence: high
 
@@ -163,7 +163,7 @@ Confidence: high
 Event Timestamp: Unknown
 Video Timestamp: 01:00:39–01:00:56
 *Related: C-1085, N-3, N-1000*
-Transcript Snippet: the deep state and that is very clear to
+Transcript Snippet: Lori can do anything but write down...Erika's correct date of birth....She's the most high tech person in the...entire world, but man, those divorce...docs had her tripped up. She was like,... "Oh, 22 or 20." Um, actually, actually,...she was very clear. She wrote it and she...said it was 22. Um, yeah, apparently...we're supposed to just believe it was...just one very long multi-year mistake.
 Confidence: medium
 
 ---
@@ -226,6 +226,8 @@ Basketball player, Erika's boyfriend in 2013
 
 **N-32** JT Massie
 
+*Also known as: J.T. Massey; Massey.*
+
 Node Type: Person
 Minor league baseball player, Erika's boyfriend in 2014
 
@@ -252,17 +254,18 @@ University where Erika claims to have earned degrees
 
 ---
 
-**N-1074** Jeffrey Epstein
+**N-21** Jeffrey Epstein
 
-Node Type: Organization
-Organization Kind: individual
-Individual - convicted sex offender who donated to ASU
+Node Type: Person
+Convicted sex offender who donated to ASU
 
 *Related: A-1048.1, C-1082*
 
 ---
 
-**N-63** Justin Stripe
+**N-27** Justin Strife
+
+*Also known as: Justin Stripe; Stripe.*
 
 Node Type: Person
 Associate who provided information about Erika's China claims
@@ -405,7 +408,7 @@ Claim Timestamp: 29:20
 Claim: Jeffrey Epstein donated $250,000 personally and over $2M through associates to ASU starting December 2010.
 Transcript Snippet: am listening to uh over these past few...months, we've all heard her more uh than...we've ever heard from her before, is...just objectively not a genius. So, I'm...not sure what that's about. There could...be a reason for it. There could have...been some strange carve out just for...Erika. I'm sure there was. Uh but I find
 Anchored Artifacts: A-1048.1
-Related Nodes: N-1074, N-1072
+Related Nodes: N-21, N-1072
 Confidence: medium
 Investigative Direction: Verify donation records and timing relative to other events.
 
@@ -417,7 +420,7 @@ Claim Timestamp: 32:41
 Claim: Erika claims she lived in China working with sex trafficking victims, but actually was following her boyfriend Josh Harelson who was playing basketball there.
 Transcript Snippet: lies all the time. So, ahead of us...jumping back into the timeline, I would...like to remind you of the story she...tells regarding why she was traveling...inter internationally, specifically to...China. Why don't you listen to what she...says about why she traveled to China?...Take a listen. I decided to create
 Anchored Artifacts: A-1049.1, A-1049.2
-Related Nodes: N-2, N-30, N-63
+Related Nodes: N-2, N-30, N-27
 Confidence: high
 Investigative Direction: Verify actual duration and purpose of China visit.
 
@@ -439,7 +442,7 @@ Anchored Artifacts: A-1051.1
 
 Claim Timestamp: 01:00:39
 Claim: Erika's date of birth has been documented inconsistently across divorce documents and other records.
-Transcript Snippet: Charlie....We have nothing to hide....Okay. So, in a sentence, I would say...Erika is trending for being Erika. Just...for being chronically Erika. People are...upset because at a recent Turning Point...USA Club America appearance, she offered...this sort of explanation as to why she
+Transcript Snippet: Lori can do anything but write down...Erika's correct date of birth.
 Anchored Artifacts: A-1051.1
 Related Nodes: N-2, N-3, N-1000
 Confidence: medium

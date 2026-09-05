@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1024, A-1025, A-1026, A-1027, A-1028, A-1029, A-1030, A-1031, A-1032
   - Claim Range: C-1034-C-1059
-  - New Nodes Introduced: N-1, N-2, N-3, N-4, N-12, N-13, N-21, N-49, N-56, N-57, N-58, N-1031, N-1057, N-1058, N-1059, N-1060, N-1061, N-1062, N-1063, N-1064
+  - New Nodes Introduced: N-1, N-2, N-3, N-4, N-12, N-13, N-16, N-21, N-56, N-57, N-58, N-1031, N-1057, N-1058, N-1059, N-1060, N-1061, N-1062, N-1063, N-1064
 
 ## 2. Executive Summary
 
@@ -149,7 +149,7 @@ Confidence: medium
 Event Timestamp: 2009
 Video Timestamp: 37:05
 Transcript Snippet: his license and I'd like to share that...information with you. We learned the...reason. Rick is the movement that is...mentioned throughout this article. I'm...just going to clear this up for you. The...first reason um that his legal license...was removed is because he didn't pay his...dues. Um okay, my best guess is the
-*Related: C-1050, C-1051, N-49, N-1061*
+*Related: C-1050, C-1051, N-16, N-1061*
 Confidence: high
 
 ---
@@ -219,7 +219,9 @@ Sex offender with documented Romania connections starting 2009
 
 ---
 
-**N-49** Rick Erpenbeck
+**N-16** Richard Erpenbeck
+
+*Also known as: Rick Erpenbeck; Rick.*
 
 Node Type: Person
 Uncle Rick - attorney who lost license in 2009
@@ -545,7 +547,7 @@ Claim Timestamp: 36:50
 Claim: Rick Erpenbeck lost his law license in 2009 according to Kentucky bar.
 Transcript Snippet: I would argue that he's a fraud....or actually I wouldn't argue it. It's...not my opinion. That was the bar's...opinion. Remember I told you he lost his...legal license in uh 2009....And I wasn't sure what or why or how. I...did know that his father Tony had...bestowed upon him some of that money. Uh
 Anchored Artifacts: A-1032.1
-Related Nodes: N-49, N-1061
+Related Nodes: N-16, N-1061
 Confidence: high
 Investigative Direction: Obtain Kentucky bar disciplinary records for 2009.
 
@@ -557,7 +559,7 @@ Claim Timestamp: 37:34
 Claim: Rick Erpenbeck was investigated for failing to disclose existing mortgages when performing title searches, and for managing an LLC used to transfer stock without consideration.
 Transcript Snippet: dues. Um okay, my best guess is the...reason he stopped paying his dues in...Kentucky was that he was hoping that...they would stop their investigation into...him, but they didn't. We learned that in...2007 they then opened an investigation...into him for the following reasons....Reason number one is because while
 Anchored Artifacts: A-1032.1
-Related Nodes: N-49, N-1061
+Related Nodes: N-16, N-1061
 Confidence: high
 Investigative Direction: Obtain Kentucky bar investigation documents and court records.
 
