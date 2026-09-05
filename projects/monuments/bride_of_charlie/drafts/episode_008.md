@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1052, A-1053, A-1054, A-1055, A-1056, A-1057, A-1058
   - Claim Range: C-1086-C-1098
-  - New Nodes Introduced: N-1, N-2, N-3, N-11, N-13, N-26, N-36, N-64, N-65, N-66, N-67, N-68, N-69, N-70, N-71, N-72, N-1030, N-1077, N-1078, N-1079, N-1080, N-1081, N-1082, N-1083, N-1084, N-1085
+  - New Nodes Introduced: N-1, N-2, N-3, N-11, N-13, N-26, N-36, N-64, N-66, N-67, N-68, N-69, N-70, N-71, N-72, N-1030, N-1077, N-1078, N-1079, N-1080, N-1081, N-1082, N-1083, N-1084, N-1085
 
 ## 2. Executive Summary
 
@@ -204,7 +204,9 @@ Erika's boyfriend in 2017-2018
 
 ---
 
-**N-65** J.T. Massey
+**N-32** JT Massie
+
+*Also known as: J.T. Massey; Massey.*
 
 Node Type: Person
 Erika's ex-boyfriend from 2015
@@ -429,7 +431,7 @@ Claim Timestamp: 07:19-07:38
 Claim: Between 2015-2018, Erika was 27-30 years old with no clear employment, yet lived in NYC and traveled internationally.
 Transcript Snippet: land upon these things uh, nonstop....Now, we're going to jump right back into...our Erika timeline cuz woo,...boy, do I have something to share with...you regarding 2018. Let's jump in where...we left off. So, in 2015, Erika is 27...years old, okay? It is entirely unclear...what she is doing for work. And it's
 Anchored Artifacts: A-1058.1
-Related Nodes: N-2, N-36, N-64, N-65, N-1081
+Related Nodes: N-2, N-36, N-64, N-32, N-1081
 Confidence: high
 Investigative Direction: Obtain employment records and financial documents to verify income sources.
 

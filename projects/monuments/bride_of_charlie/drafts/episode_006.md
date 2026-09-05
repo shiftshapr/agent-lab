@@ -224,6 +224,8 @@ Brother of Curtis Kolvet, mentioned in context of the investigation
 
 **N-27** Justin Strife
 
+*Also known as: Justin Stripe; Stripe.*
+
 Node Type: Person
 COO of Turning Point USA - appears in Kirkwood shooting news clip
 

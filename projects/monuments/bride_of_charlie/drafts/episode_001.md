@@ -181,6 +181,8 @@ Erika Kirk's father. Present during her childhood despite claims of single-mothe
 
 **N-3** Lori Frantzve
 
+*Also known as: Lori Abbas Stanley; Lori Abbis Stanley; Abbas Stanley; Abbis Stanley; Walstad; Guinta.*
+
 Node Type: Person
 Erika Kirk's mother. Filed for divorce in 1998.
 

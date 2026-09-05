@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1007, A-1008, A-1009, A-1010, A-1011
   - Claim Range: C-1008-C-1015
-  - New Nodes Introduced: N-1, N-2, N-3, N-4, N-12, N-13, N-14, N-38, N-39, N-40, N-1033, N-1040, N-1041, N-1042, N-1043, N-1044, N-1045, N-1046
+  - New Nodes Introduced: N-1, N-2, N-3, N-4, N-12, N-13, N-14, N-39, N-40, N-1033, N-1040, N-1041, N-1042, N-1043, N-1044, N-1045, N-1046
 
 ## 2. Executive Summary
 
@@ -44,7 +44,7 @@ Confidence: high
 Event Timestamp: 1983
 Video Timestamp: 23:33–23:55
 Transcript Snippet: the cover of this report really quickly....So it says that who's putting...together this report, the Center for...Gender Studies, and it lists five...names. Marjorie Weiland, George...Bourne, Richard Castor, Susan...Freedman, Jerry Frantzve. Well, not...what she doesn't communicate in this
-*Related: C-1010, C-1011, N-12, N-38, N-1042*
+*Related: C-1010, C-1011, N-12, N-1031, N-1042*
 Confidence: high
 
 ---
@@ -55,7 +55,7 @@ Confidence: high
 Event Timestamp: 1993-1999
 Video Timestamp: 29:15–29:54
 Transcript Snippet: Erika will be there from 1993...to 1999. We showed you this photo of her...in the first grade. Um, we also then...showed you this photo of Erika in the...second grade. Erika, by the way, I...should note uh because we got some...comments about this. She has spoken...about how her mother chopped her hair
-*Related: C-1012, N-14, N-38*
+*Related: C-1012, N-14, N-1031*
 Confidence: high
 
 ---
@@ -120,9 +120,10 @@ Erika Kirk's father
 
 ---
 
-**N-38** Tesseract School
+**N-1031** Tesseract School
 
-Node Type: Person
+Node Type: Organization
+Organization Kind: educational_institution
 Private school in Paradise Valley attended by Erika Kirk 1993-1999
 
 *Related: A-1009.1, A-1008.1, C-1010, C-1011, C-1012*
@@ -286,7 +287,7 @@ Claim Timestamp: 19:59
 Claim: Jerry Frantzve became director of employee relations for DuPont family after working for Quaker Oats
 Transcript Snippet: mean not even just one of the most...powerful families in the world, but it...also happens to be a French family. Ah,...France. I could I could never do a...series where you're not there. France,...the DuPonts....I kid you not. She starts working for...the DuPont family, becoming the director
 Anchored Artifacts: A-1008.1
-Related Nodes: N-12, N-38, N-1044
+Related Nodes: N-12, N-1031, N-1044
 Confidence: medium
 Investigative Direction: Verify employment records at DuPont
 
@@ -298,7 +299,7 @@ Claim Timestamp: 32:04
 Claim: Tesseract board member Phil Bliss was MK Ultra-connected drug counselor; Jerry Frantzve worked with Dr. John Money
 Transcript Snippet: Jerry's with DuPont, that's a natural...alliance, poisoning the population and...getting away with it. But there's some...other key players here....Really want you to know about this guy...named Phil Bliss who joins the board of...Tesseract....Okay, Phil Bliss here over there in the
 Anchored Artifacts: A-1008.1
-Related Nodes: N-38, N-14, N-40, N-1033, N-1042
+Related Nodes: N-1031, N-14, N-40, N-1033, N-1042
 Confidence: medium
 Investigative Direction: Verify personnel records and connections between individuals
 
@@ -310,7 +311,7 @@ Claim Timestamp: 29:15
 Claim: Erika Kirk attended Tesseract School from first grade through third grade (1993-1999)
 Transcript Snippet: people that are involved very much um...you can view it as almost a a child...psychological experiment. I'm going to...introduce those individuals to you....Let's just recap. Tesseract school in...general. We've already informed you...Erika will be there from 1993...to 1999. We showed you this photo of her
 Anchored Artifacts: A-1009.1
-Related Nodes: N-2, N-38, N-1046
+Related Nodes: N-2, N-1031, N-1046
 Confidence: high
 Investigative Direction: Obtain enrollment records from Tesseract
 
