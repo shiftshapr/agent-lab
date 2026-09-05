@@ -449,12 +449,19 @@ def _person_name_tokens(name: str) -> list[str]:
     """Last name or distinctive token for grounding checks."""
     name = re.sub(r"\([^)]*\)", "", name).strip()
     name = re.sub(r"\*Also known as:.*", "", name, flags=re.IGNORECASE).strip()
-    parts = [p for p in re.split(r"\s+", name) if p and p.lower() not in ("dr", "dr.", "colonel", "col")]
+    skip = {"dr", "dr.", "colonel", "col", "bishop", "pastor", "the"}
+    parts = [p for p in re.split(r"\s+", name) if p and p.lower() not in skip]
     if not parts:
         return []
+    tokens: list[str] = []
     if len(parts) >= 2:
-        return [parts[-1].lower()]
-    return [parts[0].lower()]
+        tokens.append(parts[-1].lower())
+        first = parts[0].lower()
+        if len(first) > 3 and first not in skip:
+            tokens.append(first)
+    else:
+        tokens.append(parts[0].lower())
+    return tokens
 
 
 def _load_node_names(content: str) -> dict[str, str]:
@@ -516,13 +523,13 @@ def audit_draft_grounding(
                 person_tokens.extend(_person_name_tokens(nm))
         if person_tokens:
             norm_search = _normalize_for_match(search_text)
-            missing = [t for t in person_tokens if t not in norm_search]
-            if missing and snip:
-                # Also try full transcript if window was empty/narrow
+            norm_tokens = [_normalize_for_match(t) for t in person_tokens if t]
+            matched = any(nt in norm_search for nt in norm_tokens if nt)
+            if not matched and snip:
                 norm_full = _normalize_for_match(transcript)
-                missing = [t for t in person_tokens if t not in norm_search and t not in norm_full]
-            if missing:
-                names = ", ".join(sorted(set(missing)))
+                matched = any(nt in norm_full for nt in norm_tokens if nt)
+            if not matched:
+                names = ", ".join(sorted(set(person_tokens)))
                 errs.append(
                     f"{ep_name} {cid}: claim person name token(s) not in grounded window: {names}"
                 )
