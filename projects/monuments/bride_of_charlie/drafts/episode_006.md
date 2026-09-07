@@ -489,7 +489,7 @@ Investigative Direction: Verify travel records and base access.
 
 Claim Timestamp: 24:37
 Claim: Erika won the Miss Arizona competition in November 2011, holding the title for 2012.
-Transcript Snippet: University for her final year of school....Nobody knows how uh but she's able to...then graduate cumloud. She has the same...thing her mother had. slips and falls,...becomes a genius, um, and is and is able...to manage this double major. In...November, this is her comeup. Erika wins...the Miss Arizona competition in
+Transcript Snippet: University for her final year of school....Nobody knows how uh but she's able to...then graduate cumloud. She has the same...thing her mother had. slips and falls,...becomes a genius, um, and is and is able...to manage this double major. In...November, this is her comeup. Erika wins...the Miss Arizona competition in...November. Okay, that makes her Miss...Arizona for the next calendar year.
 Anchored Artifacts: A-1041.1
 Related Nodes: N-2
 Confidence: high
