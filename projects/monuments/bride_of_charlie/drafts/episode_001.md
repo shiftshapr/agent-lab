@@ -445,9 +445,9 @@ Investigative Direction: Obtain enrollment records and yearbooks confirming atte
 Anchored Artifacts: A-1005.2
 **C-1007** Erika Incorrectly Claims Connection to Rothstein Family Zion's Gate
 
-Claim Timestamp: 40:00
+Claim Timestamp: 39:50
 Claim: Erika describes Zion's Gate as her family's dedication, but this actually belongs to the Rothstein family. Her connection to them appears distant (no blood relation if her claimed paternity is true).
-Transcript Snippet: the truth?...Let's take a look at some other...interesting tidbits....On March 21st of 2019, Erika visits with...Charlie. She's in Jerusalem with...Charlie, what is known as Zion's Gate in...Jerusalem. She posts a picture uh with a...pretty curious cap uh caption. It reads
+Transcript Snippet: On March 21st of 2019, Erika visits with...Charlie. She's in Jerusalem with...Charlie, what is known as Zion's Gate in...Jerusalem. She posts a picture uh with a...pretty curious cap uh caption. It reads...in part uh meet Darla, a Romanian Jew...that now calls Israel home. She was...sitting by my family's dedication sign...for restoring the Zion gate in...Jerusalem....Oh,...what? Why is Erika describing...the Zion's Gate as her family's...dedication?
 Anchored Artifacts: A-1005.2
 Related Nodes: N-2, N-36, N-37
 Confidence: medium
