@@ -15,14 +15,21 @@ Outputs:
 
 Usage:
     python3 scripts/quality_score.py
+    python3 scripts/quality_score.py --from-drafts   # score episode_*.md only (no inscription/Neo4j)
 """
 
 from __future__ import annotations
 
+import argparse
 import json
-import math
+import re
+import sys
 from pathlib import Path
 from typing import Any
+
+SCRIPTS_DIR = Path(__file__).resolve().parent
+if str(SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPTS_DIR))
 
 
 PROJECT_DIR = Path(__file__).resolve().parent.parent
@@ -37,6 +44,53 @@ def load_inscription(ep: int) -> dict | None:
         return None
     with open(fp) as f:
         return json.load(f)
+
+
+def load_draft(ep: int) -> dict | None:
+    fp = DRAFTS_DIR / f"episode_{ep:03d}.md"
+    if not fp.exists():
+        return None
+    from neo4j_ingest import is_placeholder_claim_label, parse_episode_file
+
+    parsed = parse_episode_file(fp)
+    return draft_parse_to_score_data(parsed, is_placeholder_claim_label)
+
+
+def draft_parse_to_score_data(
+    parsed: dict[str, Any],
+    is_placeholder,
+) -> dict[str, Any]:
+    """Normalize draft markdown parse output to inscription-like score shape."""
+    claims = []
+    for c in parsed.get("claims", []):
+        if is_placeholder(c.get("label")):
+            continue
+        claims.append(
+            {
+                "anchored_artifacts": c.get("anchored_artifacts") or [],
+                "related_nodes": c.get("related_nodes") or [],
+                "claim_timestamp": c.get("claim_ts"),
+                "transcript_snippet": c.get("transcript_snippet"),
+            }
+        )
+
+    families: dict[str, dict[str, Any]] = {}
+    for a in parsed.get("artifacts", []):
+        fam = a.get("family_id") or a["id"].rsplit(".", 1)[0]
+        families.setdefault(fam, {"sub_items": []})
+        families[fam]["sub_items"].append({"video_timestamp": a.get("video_ts")})
+
+    nodes = []
+    for n in parsed.get("nodes", []):
+        related_ids = n.get("related_ids") or []
+        nodes.append(
+            {
+                "related_nodes": [x for x in related_ids if x.startswith("N-")],
+                "related_claims": [x for x in related_ids if x.startswith("C-")],
+            }
+        )
+
+    return {"claims": claims, "artifacts": list(families.values()), "nodes": nodes}
 
 
 def score_artifact_coverage(data: dict) -> float:
@@ -117,9 +171,9 @@ def score_node_connectivity(data: dict) -> float:
     return min(avg / 4.0, 1.0)
 
 
-def score_episode(ep: int) -> dict[str, Any]:
+def score_episode(ep: int, *, from_drafts: bool = False) -> dict[str, Any]:
     """Compute all five scores for a single episode."""
-    data = load_inscription(ep)
+    data = load_draft(ep) if from_drafts else load_inscription(ep)
     if data is None:
         return {"episode": ep, "error": "not_found"}
 
@@ -169,11 +223,14 @@ def _letter(score: float) -> str:
         return "F"
 
 
-def find_episodes() -> list[int]:
-    """Discover all episode numbers in inscription/.py"""
+def find_episodes(from_drafts: bool = False) -> list[int]:
+    """Discover episode numbers from inscription/ or drafts/."""
+    root = DRAFTS_DIR if from_drafts else INSCRIPTION_DIR
+    suffix = ".md" if from_drafts else ".json"
     episodes = []
-    for fp in sorted(INSCRIPTION_DIR.glob("episode_*.json")):
-        import re
+    for fp in sorted(root.glob(f"episode_*{suffix}")):
+        if "cross_episode" in fp.name:
+            continue
         m = re.search(r"episode_(\d+)", fp.stem)
         if m:
             episodes.append(int(m.group(1)))
@@ -181,21 +238,36 @@ def find_episodes() -> list[int]:
 
 
 def main() -> None:
-    episodes = find_episodes()
+    ap = argparse.ArgumentParser(description="Score Bride of Charlie episodes")
+    ap.add_argument(
+        "--from-drafts",
+        action="store_true",
+        help="Score drafts/episode_*.md (no inscription or Neo4j)",
+    )
+    args = ap.parse_args()
+
+    episodes = find_episodes(from_drafts=args.from_drafts)
     if not episodes:
-        print("[quality_score] No inscription JSONs found.")
+        src = "drafts" if args.from_drafts else "inscription"
+        print(f"[quality_score] No episode files found in {src}/.")
         return
+
+    source = "drafts" if args.from_drafts else "inscription"
+    print(f"[quality_score] Scoring {len(episodes)} episode(s) from {source}/")
 
     results = []
     for ep in episodes:
-        results.append(score_episode(ep))
+        results.append(score_episode(ep, from_drafts=args.from_drafts))
 
     results.sort(key=lambda x: x["episode"])
 
     # Write JSON
     json_path = DRAFTS_DIR / "quality_scores.json"
+    payload: dict[str, Any] = {"episodes": results}
+    if args.from_drafts:
+        payload["source"] = "drafts"
     with open(json_path, "w") as f:
-        json.dump({"episodes": results}, f, indent=2)
+        json.dump(payload, f, indent=2)
     print(f"[quality_score] Wrote {json_path}")
 
     # Print summary table
