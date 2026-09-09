@@ -12,7 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1007, A-1008, A-1009, A-1010, A-1011
   - Claim Range: C-1008-C-1015
-  - New Nodes Introduced: N-1, N-2, N-3, N-4, N-12, N-13, N-14, N-39, N-40, N-1033, N-1040, N-1041, N-1042, N-1043, N-1044, N-1045, N-1046
+  - New Nodes Introduced: N-12, N-13, N-14, N-39, N-40, N-1040, N-1041, N-1042, N-1043, N-1044, N-1045, N-1046
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-1033
 
 ## 2. Executive Summary
 
