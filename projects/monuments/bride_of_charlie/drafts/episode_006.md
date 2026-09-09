@@ -12,7 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1033, A-1034, A-1035, A-1036, A-1037, A-1038, A-1039, A-1040, A-1041, A-1042
   - Claim Range: C-1060-C-1074
-  - New Nodes Introduced: N-1, N-2, N-3, N-11, N-13, N-23, N-24, N-25, N-26, N-27, N-59, N-60, N-61, N-1022, N-1065, N-1066, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073
+  - New Nodes Introduced: N-23, N-24, N-25, N-26, N-27, N-59, N-60, N-61, N-1022, N-1065, N-1066, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-11, N-13
 
 ## 2. Executive Summary
 
@@ -188,7 +189,7 @@ Deceased founder of Turning Point USA
 
 **N-59** Arizona Board of Regents
 
-Node Type: Person
+Node Type: Organization
 Governing body of Arizona's public university system
 
 *Related: A-1038.1, C-1065*

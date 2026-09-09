@@ -12,7 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1019, A-1020, A-1021, A-1022, A-1023
   - Claim Range: C-1027-C-1033
-  - New Nodes Introduced: N-1, N-2, N-3, N-4, N-8, N-11, N-12, N-16, N-19, N-42, N-50, N-51, N-52, N-53, N-54, N-1000, N-1014, N-1030, N-1048, N-1053, N-1054, N-1055, N-1056
+  - New Nodes Introduced: N-8, N-19, N-50, N-51, N-52, N-53, N-54, N-1014, N-1053, N-1054, N-1055, N-1056
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-11, N-12, N-16, N-42, N-1000, N-1030, N-1048
 
 ## 2. Executive Summary
 
@@ -268,7 +269,7 @@ Listed as Lori's mother, maiden name
 
 **N-54** St. Ursula Villa
 
-Node Type: Person
+Node Type: Organization
 School in Cincinnati where Erika attended kindergarten
 
 *Related: A-1022.2, C-1031*

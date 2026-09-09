@@ -12,7 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1052, A-1053, A-1054, A-1055, A-1056, A-1057, A-1058
   - Claim Range: C-1086-C-1098
-  - New Nodes Introduced: N-1, N-2, N-3, N-11, N-13, N-26, N-36, N-64, N-66, N-67, N-68, N-69, N-70, N-71, N-72, N-1030, N-1077, N-1078, N-1079, N-1080, N-1081, N-1082, N-1083, N-1084, N-1085
+  - New Nodes Introduced: N-64, N-66, N-67, N-68, N-69, N-70, N-71, N-72, N-1077, N-1078, N-1079, N-1080, N-1081, N-1082, N-1083, N-1084, N-1085
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-11, N-13, N-26, N-36, N-1030
 
 ## 2. Executive Summary
 

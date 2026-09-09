@@ -17,7 +17,9 @@
     "N-3": {
       "canonical_name": "Lori Frantzve",
       "type": "person",
-      "aliases": []
+      "aliases": [
+        "Lori Abbis Stanley"
+      ]
     },
     "N-4": {
       "canonical_name": "Kent Frantzve",
@@ -87,7 +89,11 @@
     "N-17": {
       "canonical_name": "Lori Abbis Stanley",
       "type": "person",
-      "aliases": []
+      "aliases": [],
+      "ingest_gate": {
+        "action": "merge_into",
+        "target": "N-3"
+      }
     },
     "N-18": {
       "canonical_name": "Angelina Lombardo-Abbis",
@@ -157,7 +163,12 @@
     "N-31": {
       "canonical_name": "Arizona State University",
       "type": "person",
-      "aliases": []
+      "aliases": [],
+      "ingest_gate": {
+        "action": "skip",
+        "superseded_by": "N-1072",
+        "reason": "Drafts use N-1072 Organization; do not ingest N-31 Person as the ASU entity."
+      }
     },
     "N-32": {
       "canonical_name": "JT Massie",
