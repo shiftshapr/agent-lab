@@ -356,9 +356,11 @@ Multiple family members involved in gambling industry - lottery tickets, slot ma
 
 ## 5. Claim Register
 
+
+
 **C-1000** Erika Kirk Leads Major Charity
 
-Claim Timestamp: 00:13
+Claim Timestamp: 22:04
 Claim: A young woman with no professional qualifications has been inserted as CEO/chairman of Turning Point USA, a charity that pulled in over $250 million.
 Transcript Snippet: Okay, you guys, there is a very strange...thing happening right now where a young...woman with absolutely zero professional...qualifications has been inserted at the...top of a charity organization that...pulled in over a quarter billion dollars...last year and the media is telling you...that you have no right to know or to ask
 Anchored Artifacts: A-1000.1, A-1001.1, A-1001.2, A-1001.3, A-1002.1, A-1005.1, A-1005.2, A-1006.1
@@ -367,8 +369,7 @@ Uncertainty: Framing premise - not yet verified through artifact
 Investigative Direction: Verify Erika's professional qualifications and her appointment process at Turning Point USA.
 
 ---
-Anchored Artifacts: A-1000.1, A-1001.1
-Anchored Artifacts: A-1000.1, A-1001.1
+
 **C-1001** Birth Date Discrepancy Exists
 
 Claim Timestamp: 22:04
@@ -380,7 +381,7 @@ Confidence: high
 Investigative Direction: Obtain certified copies of birth records and compare with divorce filing documents.
 
 ---
-Anchored Artifacts: A-1001.1, A-1001.2, A-1001.3
+
 **C-1002** Multiple Marriage Date Discrepancies in Divorce Documents
 
 Claim Timestamp: 24:00
@@ -392,20 +393,7 @@ Confidence: high
 Investigative Direction: Obtain certified marriage certificate and compare with all divorce filing variants.
 
 ---
-Anchored Artifacts: A-1005.1, A-1005.2
-**C-1003** Father Present During Childhood Contrary to Single Mother Claim
 
-Claim Timestamp: 17:40
-Claim: Erika publicly claims she was raised by a single mother, but her father Kent was present throughout her childhood, and she also had a stepfather Larry Guinta present.
-Transcript Snippet: multiple companies in the network...security industry, according to her...LinkedIn....So, you can see they're seating the...public with the idea that you can raise...kids and uh be a single mom and also be...a CEO and boss baby it. Okay. The only...problem is that it's just it's just not
-Anchored Artifacts: A-1005.1
-Related Nodes: N-2, N-4, N-33, N-1037, N-1038
-Confidence: high
-Uncertainty: Also involves morfar/farfar terminology issue suggesting possible paternity question
-Investigative Direction: Obtain school records, yearbooks, and witness statements confirming father's presence.
-
----
-Anchored Artifacts: A-1003.1, A-1003.2, A-1003.3
 **C-1004** Abbas Family Gambling History
 
 Claim Timestamp: 32:50
@@ -417,7 +405,7 @@ Confidence: high
 Investigative Direction: Obtain court records and newspaper archives confirming arrests and convictions.
 
 ---
-Anchored Artifacts: A-1004.1
+
 **C-1005** Paternal Grandfather Worked at Lottery Ticket Company
 
 Claim Timestamp: 35:15
@@ -429,20 +417,20 @@ Confidence: high
 Investigative Direction: Confirm employment records and company role.
 
 ---
-Anchored Artifacts: A-1002.1, A-1006.1
-**C-1006** Erika Attended Tesseract/Looking Glass School
 
-Claim Timestamp: 53:40
-Claim: Erika attended the Tesseract charter school in Paradise Valley, Arizona from 1995-1998, which rented space from Looking Glass School.
-Transcript Snippet: school itself is exceedingly Jewish in...terms of the administration. It was run...by Jewish executive directors. The...teachers are all Jewish. I got...obviously, you know me, I'm nosy. I...track down the yearbooks. I mean, I was...I was working really hard while I was...off. Um, and I can show you that Erika
-Anchored Artifacts: A-1002.1, A-1006.1
-Related Nodes: N-2, N-1031, N-1032, N-1035
+**C-1003** Father Present During Childhood Contrary to Single Mother Claim
+
+Claim Timestamp: 37:00
+Claim: Erika publicly claims she was raised by a single mother, but her father Kent was present throughout her childhood, and she also had a stepfather Larry Guinta present.
+Transcript Snippet: multiple companies in the network...security industry, according to her...LinkedIn....So, you can see they're seating the...public with the idea that you can raise...kids and uh be a single mom and also be...a CEO and boss baby it. Okay. The only...problem is that it's just it's just not
+Anchored Artifacts: A-1005.1
+Related Nodes: N-2, N-4, N-33, N-1037, N-1038
 Confidence: high
-Uncertainty: Tesseract named after Wrinkle in Time - related to Project Looking Glass discussion
-Investigative Direction: Obtain enrollment records and yearbooks confirming attendance at Tesseract.
+Uncertainty: Also involves morfar/farfar terminology issue suggesting possible paternity question
+Investigative Direction: Obtain school records, yearbooks, and witness statements confirming father's presence.
 
 ---
-Anchored Artifacts: A-1005.2
+
 **C-1007** Erika Incorrectly Claims Connection to Rothstein Family Zion's Gate
 
 Claim Timestamp: 39:50
@@ -455,6 +443,17 @@ Uncertainty: Host speculates about paternity based on terminology issue
 Investigative Direction: Verify ownership of Zion's Gate dedication and actual family relationship.
 
 ---
+
+**C-1006** Erika Attended Tesseract/Looking Glass School
+
+Claim Timestamp: 53:40
+Claim: Erika attended the Tesseract charter school in Paradise Valley, Arizona from 1995-1998, which rented space from Looking Glass School.
+Transcript Snippet: school itself is exceedingly Jewish in...terms of the administration. It was run...by Jewish executive directors. The...teachers are all Jewish. I got...obviously, you know me, I'm nosy. I...track down the yearbooks. I mean, I was...I was working really hard while I was...off. Um, and I can show you that Erika
+Anchored Artifacts: A-1002.1, A-1006.1
+Related Nodes: N-2, N-1031, N-1032, N-1035
+Confidence: high
+Uncertainty: Tesseract named after Wrinkle in Time - related to Project Looking Glass discussion
+Investigative Direction: Obtain enrollment records and yearbooks confirming attendance at Tesseract.
 
 ## 6. Meme Register
 

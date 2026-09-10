@@ -4,7 +4,7 @@
 
 - **Episode**: 7
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:01–01:10:01
+- **Video Timestamp Range**: 00:01:00–01:10:01
 - **Extraction Timestamp (UTC)**: 2026-09-04T23:09:44Z
 - **Model Version**: MiniMax-M2.5
 - **Transcript SHA-256**: bfa1f3a7bb2f1e22931c24751ff9502786764ec4e25102cbc81af72d7edc2f0e
@@ -25,6 +25,7 @@ Episode 7 examines Erika Kirk's trending X controversy where she explained her r
 
 **A-1043.1** Audio clip: Erika explaining pre-Charlie business
 Event Timestamp: Undated in episode source
+Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 02:09–03:48
 *Related: C-1075, N-2, N-3*
 Transcript Snippet: >> You know, I get this question, too, of...well, you know, you were a stay-at-home...mom and all this stuff, like that's what...you should go back to doing or something...like that. A lot of people don't realize...that before I met Charlie, I had my own...company, and I still do. And it was one...of those things where
@@ -162,7 +163,8 @@ Confidence: high
 
 **A-1051.1** Comment: Lori cannot write correct date of birth
 Event Timestamp: Undated in episode source
-Video Timestamp: 01:00:39–01:00:56
+Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
+Video Timestamp: 60:39–60:56
 *Related: C-1085, N-3, N-1000*
 Transcript Snippet: Lori can do anything but write down...Erika's correct date of birth....She's the most high tech person in the...entire world, but man, those divorce...docs had her tripped up. She was like,... "Oh, 22 or 20." Um, actually, actually,...she was very clear. She wrote it and she...said it was 22. Um, yeah, apparently...we're supposed to just believe it was...just one very long multi-year mistake.
 Confidence: medium
@@ -317,6 +319,8 @@ Erika's clothing company
 
 ## 5. Claim Register
 
+
+
 **C-1075** Erika claims she had self-sustaining business before meeting Charlie
 
 Claim Timestamp: 02:09
@@ -328,7 +332,19 @@ Confidence: high
 Investigative Direction: Verify business timeline, LLC formation date, and operational status before 2021.
 
 ---
-Anchored Artifacts: A-1043.2, A-1043.3, A-1043.4, A-1043.5
+
+**C-1077** Erika portrays herself as sole provider
+
+Claim Timestamp: 02:09
+Claim: Erika describes herself as the sole provider for her children, implying financial hardship despite resources.
+Transcript Snippet: only have one parent by dividing her...time to be a CEO and a chairman. It's...not what she wanted. It's the hand that...she was dealt. That's very relatable,...right? She's now, as she says, and this...is what really frustrates me. She calls...herself the sole provider....Okay? It frustrates me because it what
+Anchored Artifacts: A-1043.1
+Related Nodes: N-1, N-2
+Confidence: high
+Investigative Direction: Examine financial resources available to Erika including life insurance and fundraiser proceeds.
+
+---
+
 **C-1076** Business timeline contradicts Erika's narrative
 
 Claim Timestamp: 05:21
@@ -341,19 +357,7 @@ Confidence: high
 Investigative Direction: Compare domain registration, LLC filing, and website launch dates against claim of pre-existing sustainable business.
 
 ---
-Anchored Artifacts: A-1043.1, A-1043.2, A-1043.3, A-1043.4, A-1043.5, A-1044.1, A-1044.2, A-1045.1, A-1045.2, A-1047.1, A-1049.1, A-1049.2, A-1050.1, A-1051.1
-**C-1077** Erika portrays herself as sole provider
 
-Claim Timestamp: 10:58
-Claim: Erika describes herself as the sole provider for her children, implying financial hardship despite resources.
-Transcript Snippet: only have one parent by dividing her...time to be a CEO and a chairman. It's...not what she wanted. It's the hand that...she was dealt. That's very relatable,...right? She's now, as she says, and this...is what really frustrates me. She calls...herself the sole provider....Okay? It frustrates me because it what
-Anchored Artifacts: A-1043.1
-Related Nodes: N-1, N-2
-Confidence: high
-Investigative Direction: Examine financial resources available to Erika including life insurance and fundraiser proceeds.
-
----
-Anchored Artifacts: A-1044.1, A-1044.2
 **C-1078** Erika had significant financial resources
 
 Claim Timestamp: 11:27
@@ -366,7 +370,7 @@ Confidence: high
 Investigative Direction: Verify life insurance policy details and fundraiser totals.
 
 ---
-Anchored Artifacts: A-1045.1, A-1045.2
+
 **C-1079** Turning Point opened Las Vegas office
 
 Claim Timestamp: 16:52
@@ -378,7 +382,7 @@ Confidence: high
 Investigative Direction: Verify corporate expansion and office opening.
 
 ---
-Anchored Artifacts: A-1047.1
+
 **C-1080** Tyler Bowyer atypically appointed to Board of Regents
 
 Claim Timestamp: 26:44
@@ -390,7 +394,7 @@ Confidence: high
 Investigative Direction: Verify appointment process and timeline relative to Romania trip.
 
 ---
-Anchored Artifacts: A-1048.1
+
 **C-1081** International Relations degree not available at ASU in 2012
 
 Claim Timestamp: 27:33
@@ -402,7 +406,7 @@ Confidence: high
 Investigative Direction: Obtain official ASU catalog from 2012 to verify degree availability.
 
 ---
-Anchored Artifacts: A-1049.1, A-1049.2
+
 **C-1082** Jeffrey Epstein donated to Arizona State University
 
 Claim Timestamp: 29:20
@@ -414,7 +418,7 @@ Confidence: medium
 Investigative Direction: Verify donation records and timing relative to other events.
 
 ---
-Anchored Artifacts: A-1050.1
+
 **C-1083** Erika did not live in China for anti-trafficking work
 
 Claim Timestamp: 32:41
@@ -426,7 +430,7 @@ Confidence: high
 Investigative Direction: Verify actual duration and purpose of China visit.
 
 ---
-Anchored Artifacts: A-1050.1
+
 **C-1084** Erika auditioned for Amazing Race in 2014
 
 Claim Timestamp: 45:19
@@ -438,15 +442,13 @@ Confidence: high
 Investigative Direction: Verify audition tape and timeline.
 
 ---
-Anchored Artifacts: A-1051.1
+
 **C-1085** Erika's date of birth documentation inconsistent
 
-Claim Timestamp: 01:00:39
+Claim Timestamp: 60:39
 Claim: Erika's date of birth has been documented inconsistently across divorce documents and other records.
 Transcript Snippet: Lori can do anything but write down...Erika's correct date of birth.
 Anchored Artifacts: A-1051.1
 Related Nodes: N-2, N-3, N-1000
 Confidence: medium
 Investigative Direction: Obtain certified copies of all documents containing DOB.
-
----

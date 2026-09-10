@@ -390,6 +390,8 @@ Where Erika lived in 2016-2018 while working at Next Model Management
 
 ## 5. Claim Register
 
+
+
 **C-1086** Erika attended Notre Dame Prep for high school
 
 Claim Timestamp: 03:30-03:36
@@ -401,7 +403,7 @@ Confidence: high
 Investigative Direction: Obtain school enrollment records to verify Erika's attendance at Notre Dame Prep.
 
 ---
-Anchored Artifacts: A-1053.1
+
 **C-1087** Bishop O'Brien charged with felony hit-and-run
 
 Claim Timestamp: 04:21-04:28
@@ -426,18 +428,6 @@ Investigative Direction: Obtain grand jury investigation records from Maricopa C
 
 ---
 
-**C-1089** Erika's financial situation unclear 2015-2018
-
-Claim Timestamp: 07:19-07:38
-Claim: Between 2015-2018, Erika was 27-30 years old with no clear employment, yet lived in NYC and traveled internationally.
-Transcript Snippet: land upon these things uh, nonstop....Now, we're going to jump right back into...our Erika timeline cuz woo,...boy, do I have something to share with...you regarding 2018. Let's jump in where...we left off. So, in 2015, Erika is 27...years old, okay? It is entirely unclear...what she is doing for work. And it's
-Anchored Artifacts: A-1058.1
-Related Nodes: N-2, N-36, N-64, N-32, N-1081
-Confidence: high
-Investigative Direction: Obtain employment records and financial documents to verify income sources.
-
----
-Anchored Artifacts: A-1054.1, A-1054.3
 **C-1090** Lori Frantzve runs multiple LLCs with government connections
 
 Claim Timestamp: 08:41-13:04
@@ -449,19 +439,18 @@ Confidence: high
 Investigative Direction: Obtain corporate filings and contract records for G-Tech Industries and Saxon Capital Group.
 
 ---
-Anchored Artifacts: A-1055.1
-**C-1091** Erika appeared in EMP documentary with CIA Director
 
-Claim Timestamp: 14:00-14:59
-Claim: Erika appeared in the documentary Black Starts by Patricia Patrick alongside CIA Director James Woolsey, which promoted EMP attack concerns connected to her mother's business.
-Transcript Snippet: you know, please let me know. Maybe...you've worked with the Elm Group. I'm...going to go with Erika's kind of doing...what her mom does and just creating a...lot of LLCs. There's no description that...is offered on those documents. On...February 1st, as you guys may have seen,...she then appears in this documentary
-Anchored Artifacts: A-1055.1
-Related Nodes: N-2, N-3, N-68, N-69
+**C-1098** Andrew Kolvet claimed Erika never sought spotlight
+
+Claim Timestamp: 08:41
+Claim: Andrew Kolvet stated on the Dave Rubin show that Erika never sought the limelight and was always supportive of Charlie.
+Transcript Snippet: All right, you guys, happy Wednesday to...everyone except Andrew Kolvet. Yeah,...because yesterday he went on to Dave...Rubin show...and he said that Erika was not seeking...the spotlight. Take a listen to this....Erika has always been tremendous and she...never sought the limelight. She was
+Anchored Artifacts: A-1054.1, A-1054.2, A-1055.1, A-1057.1, A-1058.1
 Confidence: high
-Investigative Direction: Obtain a copy of the documentary and verify Erika's role and connections.
+Investigative Direction: Obtain the full Dave Rubin interview with Andrew Kolvet.
 
 ---
-Anchored Artifacts: A-1054.1
+
 **C-1092** Erika claimed to launch Bible in 365 in 2016
 
 Claim Timestamp: 10:54-11:12
@@ -473,7 +462,31 @@ Uncertainty: No corporate filing artifact shown in episode
 Investigative Direction: Obtain corporate filings for Bible in 365 to verify founding date.
 
 ---
+
+**C-1091** Erika appeared in EMP documentary with CIA Director
+
+Claim Timestamp: 14:00-14:59
+Claim: Erika appeared in the documentary Black Starts by Patricia Patrick alongside CIA Director James Woolsey, which promoted EMP attack concerns connected to her mother's business.
+Transcript Snippet: you know, please let me know. Maybe...you've worked with the Elm Group. I'm...going to go with Erika's kind of doing...what her mom does and just creating a...lot of LLCs. There's no description that...is offered on those documents. On...February 1st, as you guys may have seen,...she then appears in this documentary
+Anchored Artifacts: A-1055.1
+Related Nodes: N-2, N-3, N-68, N-69
+Confidence: high
+Investigative Direction: Obtain a copy of the documentary and verify Erika's role and connections.
+
+---
+
+**C-1089** Erika's financial situation unclear 2015-2018
+
+Claim Timestamp: 23:01
+Claim: Between 2015-2018, Erika was 27-30 years old with no clear employment, yet lived in NYC and traveled internationally.
+Transcript Snippet: land upon these things uh, nonstop....Now, we're going to jump right back into...our Erika timeline cuz woo,...boy, do I have something to share with...you regarding 2018. Let's jump in where...we left off. So, in 2015, Erika is 27...years old, okay? It is entirely unclear...what she is doing for work. And it's
 Anchored Artifacts: A-1058.1
+Related Nodes: N-2, N-36, N-64, N-32, N-1081
+Confidence: high
+Investigative Direction: Obtain employment records and financial documents to verify income sources.
+
+---
+
 **C-1093** Erika got real estate license October 2018
 
 Claim Timestamp: 23:01-23:29
@@ -485,7 +498,7 @@ Confidence: medium
 Investigative Direction: Obtain real estate licensing records from New York State.
 
 ---
-Anchored Artifacts: A-1057.1
+
 **C-1094** Erika had undisclosed connections to Kanye's circle
 
 Claim Timestamp: 25:06-27:02
@@ -498,7 +511,7 @@ Uncertainty: Based on witness testimony, not documentary evidence shown
 Investigative Direction: Obtain evidence from the New York woman who provided proof of Erika's claims about knowing Kanye's circle.
 
 ---
-Anchored Artifacts: A-1054.2
+
 **C-1095** Feed Me Incorporated formed as Erika started dating Charlie
 
 Claim Timestamp: 28:35-29:06
@@ -510,7 +523,7 @@ Confidence: high
 Investigative Direction: Obtain corporate records for Feed Me Incorporated and Superfeed Technologies to verify board membership and timing.
 
 ---
-Anchored Artifacts: A-1056.1, A-1056.2, A-1056.3
+
 **C-1096** Matt Walsh hypocritically defended Erika then condemned Kouri Richins
 
 Claim Timestamp: 32:21-41:11
@@ -522,11 +535,10 @@ Confidence: high
 Investigative Direction: Compare Matt Walsh's public statements on both cases.
 
 ---
-Anchored Artifacts: A-1056.1
-Anchored Artifacts: A-1056.1
+
 **C-1097** Kouri Richins case used as parallel to Erika situation
 
-Claim Timestamp: 41:11-41:37
+Claim Timestamp: 33:14
 Claim: The host argues that grief behavior, financial motives, and circumstantial evidence in the Kouri Richins case parallel concerns about Erika's situation after Charlie's death.
 Transcript Snippet: believe should be hanged for poisoning...her husband on the basis of...circumstantial evidence, would probably...today be considered a brave single...mother trying to clean up the mess left...behind by her husband's untimely death....And so what I would say is here is what...I know. Grieving widows do not lie about
 Anchored Artifacts: A-1056.1
@@ -534,19 +546,6 @@ Related Nodes: N-71, N-2
 Confidence: medium
 Uncertainty: Analogical argument, not direct claim about Erika
 Investigative Direction: Analyze similarities and differences between the two cases.
-
----
-Anchored Artifacts: A-1056.1, A-1056.2, A-1056.3, A-1054.1, A-1054.2, A-1055.1, A-1057.1, A-1058.1
-**C-1098** Andrew Kolvet claimed Erika never sought spotlight
-
-Claim Timestamp: 00:03-00:16
-Claim: Andrew Kolvet stated on the Dave Rubin show that Erika never sought the limelight and was always supportive of Charlie.
-Transcript Snippet: All right, you guys, happy Wednesday to...everyone except Andrew Kolvet. Yeah,...because yesterday he went on to Dave...Rubin show...and he said that Erika was not seeking...the spotlight. Take a listen to this....Erika has always been tremendous and she...never sought the limelight. She was
-Anchored Artifacts: A-1054.1, A-1054.2, A-1055.1, A-1057.1, A-1058.1
-Confidence: high
-Investigative Direction: Obtain the full Dave Rubin interview with Andrew Kolvet.
-
----
 
 ## 6. Meme Register
 

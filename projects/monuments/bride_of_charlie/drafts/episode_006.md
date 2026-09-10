@@ -4,7 +4,7 @@
 
 - **Episode**: 6
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:01–01:00:20
+- **Video Timestamp Range**: 00:01:00–01:00:20
 - **Extraction Timestamp (UTC)**: 2026-09-04T23:08:57Z
 - **Model Version**: MiniMax-M2.5
 - **Transcript SHA-256**: 34f5d4923dae1e5b528c3e2f10f557745da8bf3cf07902005e54e8f624c99d6a
@@ -354,6 +354,8 @@ Erika's humanitarian organization
 
 ## 5. Claim Register
 
+
+
 **C-1060** Erika Attended Cocopah Middle School
 
 Claim Timestamp: 01:14
@@ -426,6 +428,17 @@ Investigative Direction: Verify Arizona Senate records.
 
 ---
 
+**C-1074** Erika Cannot Remember Meeting Tyler
+
+Claim Timestamp: 15:15
+Claim: Erika claims she cannot remember how she met Tyler Bowyer, while Tyler has given conflicting accounts.
+Transcript Snippet: I think this is how the world works. I...would I would like to say that. I find...all of this to be remarkably suspicious....The most suspicious element for me is...Erika pretending she does not remember...how she met Tyler Bowyer and both of them...changing their stories. Tyler Bowyer...responded to somebody on X and said he
+Anchored Artifacts: A-1038.1
+Confidence: medium
+Investigative Direction: Obtain direct testimony from both parties.
+
+---
+
 **C-1066** Erika Enrolls at ASU After Tyler Elected
 
 Claim Timestamp: 15:54
@@ -437,7 +450,7 @@ Confidence: medium
 Investigative Direction: Obtain enrollment records and compare timelines.
 
 ---
-Anchored Artifacts: A-1039.1
+
 **C-1067** Curtis Kolvet Afghanistan Command
 
 Claim Timestamp: 18:49
@@ -512,26 +525,13 @@ Investigative Direction: Verify news footage and Strife's location at that time.
 
 **C-1073** Turning Point Proximity to Shootings
 
-Claim Timestamp: 39:48
+Claim Timestamp: 42:56
 Claim: Multiple Turning Point affiliates have personal connections to various mass shootings including Aurora, Thousand Oaks, and Vegas.
 Transcript Snippet: you on the topic of Erika and that...shooting out in Aurora that in...particular, um, she wasn't the only one....A lot of people who were surrounding...Charlie had some proximity, some...personal story that they could share...relating to a shooting of the past....Okay, so we already showed you Erika,
 Anchored Artifacts: A-1042.1
 Related Nodes: N-61, N-1
 Confidence: medium
 Investigative Direction: Verify specific connections and timelines.
-
----
-
-**C-1074** Erika Cannot Remember Meeting Tyler
-
-Claim Timestamp: 33:00
-Claim: Erika claims she cannot remember how she met Tyler Bowyer, while Tyler has given conflicting accounts.
-Transcript Snippet: I think this is how the world works. I...would I would like to say that. I find...all of this to be remarkably suspicious....The most suspicious element for me is...Erika pretending she does not remember...how she met Tyler Bowyer and both of them...changing their stories. Tyler Bowyer...responded to somebody on X and said he
-Anchored Artifacts: A-1038.1
-Confidence: medium
-Investigative Direction: Obtain direct testimony from both parties.
-
----
 
 ## 6. Meme Register
 

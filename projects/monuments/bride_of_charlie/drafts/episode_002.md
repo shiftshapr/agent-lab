@@ -4,7 +4,7 @@
 
 - **Episode**: 2
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:01–01:02:58
+- **Video Timestamp Range**: 00:01:00–01:02:58
 - **Extraction Timestamp (UTC)**: 2026-09-04T23:05:38Z
 - **Model Version**: MiniMax-M2.5
 - **Transcript SHA-256**: b9c0ae4e686d01c942c29d239e1a6f01afb2ac57ff2591c3f5b66d81ab14e769
@@ -32,6 +32,7 @@ Confidence: high
 
 **A-1007.2** Quaker Oats radioactive experiments article
 Event Timestamp: Undated in episode source
+Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 17:40–17:58
 Transcript Snippet: except for that one time when Quaker...Oats was actually going into mental...institutions and force-feeding a bunch...of radioactive oats to little boys....Look at this article. This is our This...is our government. A spoonful of sugar...helps the radioactive oatmeal go down....Yes, Quaker Oats was conducting
 *Related: C-1009, N-12, N-1041*
@@ -258,6 +259,20 @@ Location of Tesseract School and where Jerry/Kent lived
 
 ## 5. Claim Register
 
+
+
+**C-1014** Crowley-Bush Connection
+
+Claim Timestamp: 04:55
+Claim: Pauline Robinson spent time with Aleister Crowley and gave birth to Barbara Bush 8.5 months later
+Transcript Snippet: to the things that are happening today....Okay. Uh what ended up happening was...Mussolini, the evil fascist, k k k k k k...k k k k k k k k k k k k k kicked him out...of the country for being a Satanist....Fortunately for Aleister Crowley, this...didn't actually matter because he was...friends with the elites all over the
+Anchored Artifacts: A-1011.1
+Related Nodes: N-39
+Confidence: low
+Investigative Direction: Verify birth records and historical timelines
+
+---
+
 **C-1008** Jerry Frantzve Married at 14
 
 Claim Timestamp: 13:31
@@ -284,7 +299,7 @@ Investigative Direction: Obtain primary source documents on Quaker Oats experime
 
 **C-1010** Jerry Frantzve Worked for DuPont
 
-Claim Timestamp: 19:59
+Claim Timestamp: 23:33
 Claim: Jerry Frantzve became director of employee relations for DuPont family after working for Quaker Oats
 Transcript Snippet: mean not even just one of the most...powerful families in the world, but it...also happens to be a French family. Ah,...France. I could I could never do a...series where you're not there. France,...the DuPonts....I kid you not. She starts working for...the DuPont family, becoming the director
 Anchored Artifacts: A-1008.1
@@ -296,7 +311,7 @@ Investigative Direction: Verify employment records at DuPont
 
 **C-1011** Tesseract Connected to MK Ultra Personnel
 
-Claim Timestamp: 32:04
+Claim Timestamp: 23:33
 Claim: Tesseract board member Phil Bliss was MK Ultra-connected drug counselor; Jerry Frantzve worked with Dr. John Money
 Transcript Snippet: Jerry's with DuPont, that's a natural...alliance, poisoning the population and...getting away with it. But there's some...other key players here....Really want you to know about this guy...named Phil Bliss who joins the board of...Tesseract....Okay, Phil Bliss here over there in the
 Anchored Artifacts: A-1008.1
@@ -330,25 +345,11 @@ Investigative Direction: Compare testimony from pageant contacts and family
 
 ---
 
-**C-1014** Crowley-Bush Connection
-
-Claim Timestamp: 04:55
-Claim: Pauline Robinson spent time with Aleister Crowley and gave birth to Barbara Bush 8.5 months later
-Transcript Snippet: to the things that are happening today....Okay. Uh what ended up happening was...Mussolini, the evil fascist, k k k k k k...k k k k k k k k k k k k k kicked him out...of the country for being a Satanist....Fortunately for Aleister Crowley, this...didn't actually matter because he was...friends with the elites all over the
-Anchored Artifacts: A-1011.1
-Related Nodes: N-39
-Confidence: low
-Investigative Direction: Verify birth records and historical timelines
-
----
-
 **C-1015** Tyler Bowyer Introduced Charlie and Erika
 
-Claim Timestamp: 44:25
+Claim Timestamp: 48:01
 Claim: Tyler Bowyer introduced Charlie Kirk to Erika Kirk; Turning Point Action had missing millions
 Transcript Snippet: You know, easily the most important...relationship, and again, I don't want to...get ahead of myself, so we're going to...get into this tomorrow, but the most...important relationship that Erika had at...Turning Point USA is Tyler Bowyer. You will...recall that when I sat down with her,...and I want to let you know that ahead of
 Anchored Artifacts: A-1010.1
 Confidence: medium
 Investigative Direction: Obtain financial records from Turning Point Action
-
----
