@@ -4,7 +4,7 @@
 
 - **Episode**: 4
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:01:00–59:14:00
+- **Video Timestamp Range**: 00:01:00–00:59:14
 - **Extraction Timestamp (UTC)**: 2026-09-04T23:07:02Z
 - **Model Version**: MiniMax-M2.5
 - **Transcript SHA-256**: bfcaea6fefa00bb02c67d685084169d2d92c07af8e335b005631eeef1a0fdd51
