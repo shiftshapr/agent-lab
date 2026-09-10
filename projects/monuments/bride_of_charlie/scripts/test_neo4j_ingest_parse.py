@@ -12,6 +12,8 @@ from neo4j_ingest import (
     extract_topic_mention_lines,
     resolve_draft_graph_node_id,
     resolve_related_graph_node_ids,
+    fuzzy_names_match,
+    fuzzy_name_distance,
 )
 
 
@@ -79,6 +81,20 @@ TopicMention: C-100 N-1000
     assert len(orgs) == 1 and orgs[0]["relation"] == "subsidiary_of"
     tm = extract_topic_mention_lines(ext)
     assert tm == [{"claim_id": "C-100", "topic_id": "N-1000"}]
+
+    # Erpenbeck same-surname / different-first-name guard (distance<=3 must not merge)
+    assert fuzzy_name_distance("Tony Erpenbeck", "Gary Erpenbeck") == 3
+    assert fuzzy_name_distance("Tony Erpenbeck", "Donna Erpenbeck") == 3
+    assert not fuzzy_names_match("Tony Erpenbeck", "Gary Erpenbeck")
+    assert not fuzzy_names_match("Gary Erpenbeck", "Donna Erpenbeck")
+    assert not fuzzy_names_match("Tony Erpenbeck", "Donna Erpenbeck")
+    assert not fuzzy_names_match("Bill Erpenbeck", "Jeff Erpenbeck")
+    assert not fuzzy_names_match("Bill Erpenbeck", "Gary Erpenbeck")
+
+    # True typo merges with matching first token still allowed
+    assert fuzzy_names_match("Tyler Bowyer", "Tyler Boyer")
+    assert fuzzy_names_match("Erika Kirk", "Erika Kirke")
+    assert fuzzy_names_match("Justin Strife", "Justin Stripe")
 
     print("OK  neo4j_ingest parse tests passed.")
 

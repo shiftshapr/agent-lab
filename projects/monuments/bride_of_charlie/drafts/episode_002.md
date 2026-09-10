@@ -351,5 +351,6 @@ Claim Timestamp: 48:01
 Claim: Tyler Bowyer introduced Charlie Kirk to Erika Kirk; Turning Point Action had missing millions
 Transcript Snippet: You know, easily the most important...relationship, and again, I don't want to...get ahead of myself, so we're going to...get into this tomorrow, but the most...important relationship that Erika had at...Turning Point USA is Tyler Bowyer. You will...recall that when I sat down with her,...and I want to let you know that ahead of
 Anchored Artifacts: A-1010.1
+Related Nodes: N-1, N-2, N-13, N-1043
 Confidence: medium
 Investigative Direction: Obtain financial records from Turning Point Action

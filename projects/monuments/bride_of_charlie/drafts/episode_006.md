@@ -434,6 +434,7 @@ Claim Timestamp: 15:15
 Claim: Erika claims she cannot remember how she met Tyler Bowyer, while Tyler has given conflicting accounts.
 Transcript Snippet: I think this is how the world works. I...would I would like to say that. I find...all of this to be remarkably suspicious....The most suspicious element for me is...Erika pretending she does not remember...how she met Tyler Bowyer and both of them...changing their stories. Tyler Bowyer...responded to somebody on X and said he
 Anchored Artifacts: A-1038.1
+Related Nodes: N-2, N-13, N-1022
 Confidence: medium
 Investigative Direction: Obtain direct testimony from both parties.
 
