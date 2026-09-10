@@ -3,8 +3,8 @@
 ## 1. Meta-Data
 
 - **Episode**: 6
-- **Source**: Unknown
-- **Video Timestamp Range**: Unknown
+- **Source**: Candace Owens YouTube
+- **Video Timestamp Range**: 00:01–01:00:20
 - **Extraction Timestamp (UTC)**: 2026-09-04T23:08:57Z
 - **Model Version**: MiniMax-M2.5
 - **Transcript SHA-256**: 34f5d4923dae1e5b528c3e2f10f557745da8bf3cf07902005e54e8f624c99d6a
