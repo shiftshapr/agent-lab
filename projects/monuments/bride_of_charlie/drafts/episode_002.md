@@ -259,6 +259,8 @@ Location of Tesseract School and where Jerry/Kent lived
 
 ## 5. Claim Register
 
+
+
 **C-1014** Crowley-Bush Connection
 
 Claim Timestamp: 04:55
@@ -297,13 +299,25 @@ Investigative Direction: Obtain primary source documents on Quaker Oats experime
 
 **C-1010** Jerry Frantzve Worked for DuPont
 
-Claim Timestamp: 19:59
+Claim Timestamp: 23:33
 Claim: Jerry Frantzve became director of employee relations for DuPont family after working for Quaker Oats
 Transcript Snippet: mean not even just one of the most...powerful families in the world, but it...also happens to be a French family. Ah,...France. I could I could never do a...series where you're not there. France,...the DuPonts....I kid you not. She starts working for...the DuPont family, becoming the director
 Anchored Artifacts: A-1008.1
 Related Nodes: N-12, N-1031, N-1044
 Confidence: medium
 Investigative Direction: Verify employment records at DuPont
+
+---
+
+**C-1011** Tesseract Connected to MK Ultra Personnel
+
+Claim Timestamp: 23:33
+Claim: Tesseract board member Phil Bliss was MK Ultra-connected drug counselor; Jerry Frantzve worked with Dr. John Money
+Transcript Snippet: Jerry's with DuPont, that's a natural...alliance, poisoning the population and...getting away with it. But there's some...other key players here....Really want you to know about this guy...named Phil Bliss who joins the board of...Tesseract....Okay, Phil Bliss here over there in the
+Anchored Artifacts: A-1008.1
+Related Nodes: N-1031, N-14, N-40, N-1033, N-1042
+Confidence: medium
+Investigative Direction: Verify personnel records and connections between individuals
 
 ---
 
@@ -319,29 +333,6 @@ Investigative Direction: Obtain enrollment records from Tesseract
 
 ---
 
-**C-1011** Tesseract Connected to MK Ultra Personnel
-
-Claim Timestamp: 32:04
-Claim: Tesseract board member Phil Bliss was MK Ultra-connected drug counselor; Jerry Frantzve worked with Dr. John Money
-Transcript Snippet: Jerry's with DuPont, that's a natural...alliance, poisoning the population and...getting away with it. But there's some...other key players here....Really want you to know about this guy...named Phil Bliss who joins the board of...Tesseract....Okay, Phil Bliss here over there in the
-Anchored Artifacts: A-1008.1
-Related Nodes: N-1031, N-14, N-40, N-1033, N-1042
-Confidence: medium
-Investigative Direction: Verify personnel records and connections between individuals
-
----
-
-**C-1015** Tyler Bowyer Introduced Charlie and Erika
-
-Claim Timestamp: 44:25
-Claim: Tyler Bowyer introduced Charlie Kirk to Erika Kirk; Turning Point Action had missing millions
-Transcript Snippet: You know, easily the most important...relationship, and again, I don't want to...get ahead of myself, so we're going to...get into this tomorrow, but the most...important relationship that Erika had at...Turning Point USA is Tyler Bowyer. You will...recall that when I sat down with her,...and I want to let you know that ahead of
-Anchored Artifacts: A-1010.1
-Confidence: medium
-Investigative Direction: Obtain financial records from Turning Point Action
-
----
-
 **C-1013** Erika Denies Mother Pushed Pageants
 
 Claim Timestamp: 48:01
@@ -351,3 +342,14 @@ Anchored Artifacts: A-1010.1
 Related Nodes: N-2, N-3
 Confidence: high
 Investigative Direction: Compare testimony from pageant contacts and family
+
+---
+
+**C-1015** Tyler Bowyer Introduced Charlie and Erika
+
+Claim Timestamp: 48:01
+Claim: Tyler Bowyer introduced Charlie Kirk to Erika Kirk; Turning Point Action had missing millions
+Transcript Snippet: You know, easily the most important...relationship, and again, I don't want to...get ahead of myself, so we're going to...get into this tomorrow, but the most...important relationship that Erika had at...Turning Point USA is Tyler Bowyer. You will...recall that when I sat down with her,...and I want to let you know that ahead of
+Anchored Artifacts: A-1010.1
+Confidence: medium
+Investigative Direction: Obtain financial records from Turning Point Action

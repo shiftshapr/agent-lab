@@ -350,16 +350,6 @@ Company associated with Lori Frantzve receiving $2.4M from Army National Guard
 
 ## 5. Claim Register
 
-**C-1057** Nancy Gerard Tesseract principal had military ties
-
-Claim Timestamp: 04:26
-Claim: Nancy Gerard was principal at Tesseract during Erika's enrollment and had strong military connections through her father Colonel Paul Tracy Gerard.
-Transcript Snippet: But that's my opinion and I'm sticking...to it. Now, I should also mention that...Tesseract had a principal. She would...actually climb a ladder at Tesseract...while Erika was a student who had very...strong military ties. A woman named...Nancy Gerard, Nancy Gerard Hall, she...will become. Nancy was a military brat.
-Anchored Artifacts: A-1025.1
-Confidence: medium
-Investigative Direction: Verify Nancy Gerard's employment at Tesseract and military background.
-
----
 
 **C-1034** Erika attended Walnut Corner Daycare in 1991
 
@@ -382,6 +372,18 @@ Anchored Artifacts: A-1025.1
 Related Nodes: N-2, N-1031
 Confidence: high
 Investigative Direction: Obtain enrollment records from Tesseract for 1995-1998 school years.
+
+---
+
+
+**C-1057** Nancy Gerard Tesseract principal had military ties
+
+Claim Timestamp: 07:05
+Claim: Nancy Gerard was principal at Tesseract during Erika's enrollment and had strong military connections through her father Colonel Paul Tracy Gerard.
+Transcript Snippet: But that's my opinion and I'm sticking...to it. Now, I should also mention that...Tesseract had a principal. She would...actually climb a ladder at Tesseract...while Erika was a student who had very...strong military ties. A woman named...Nancy Gerard, Nancy Gerard Hall, she...will become. Nancy was a military brat.
+Anchored Artifacts: A-1025.1
+Confidence: medium
+Investigative Direction: Verify Nancy Gerard's employment at Tesseract and military background.
 
 ---
 
@@ -586,6 +588,18 @@ Investigative Direction: Verify Tyler Bowyer's travel records and activities in 
 
 ---
 
+**C-1052** Charlie met Erika at Israel airport
+
+Claim Timestamp: 29:38
+Claim: Charlie Kirk met Erika at an airport in Israel; her mother Lori told her to go up to him.
+Transcript Snippet: in the same stuff, charter schools, and...then you and Tyler are going to graduate...in the same year. It's all so crazy. I...need to know. Tell me what happens. What...happened with Turning Point USA? You...just knew, got lucky. We're on a...pilgrimage, I guess, and there Charlie...was at the airport in Israel. You saw
+Anchored Artifacts: A-1031.1
+Confidence: medium
+Uncertainty: Claim based on Erika's account; no independent verification presented
+Investigative Direction: Verify travel records and witnesses to this meeting.
+
+---
+
 **C-1055** Tyler Bowyer connected to Farnsworth family
 
 Claim Timestamp: 29:38
@@ -619,18 +633,6 @@ Anchored Artifacts: A-1031.1
 Related Nodes: N-2, N-13
 Confidence: medium
 Investigative Direction: Obtain Erika's records of how she met Tyler Bowyer.
-
----
-
-**C-1052** Charlie met Erika at Israel airport
-
-Claim Timestamp: 36:08
-Claim: Charlie Kirk met Erika at an airport in Israel; her mother Lori told her to go up to him.
-Transcript Snippet: in the same stuff, charter schools, and...then you and Tyler are going to graduate...in the same year. It's all so crazy. I...need to know. Tell me what happens. What...happened with Turning Point USA? You...just knew, got lucky. We're on a...pilgrimage, I guess, and there Charlie...was at the airport in Israel. You saw
-Anchored Artifacts: A-1031.1
-Confidence: medium
-Uncertainty: Claim based on Erika's account; no independent verification presented
-Investigative Direction: Verify travel records and witnesses to this meeting.
 
 ---
 

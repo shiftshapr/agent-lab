@@ -356,9 +356,11 @@ Multiple family members involved in gambling industry - lottery tickets, slot ma
 
 ## 5. Claim Register
 
+
+
 **C-1000** Erika Kirk Leads Major Charity
 
-Claim Timestamp: 00:13
+Claim Timestamp: 22:04
 Claim: A young woman with no professional qualifications has been inserted as CEO/chairman of Turning Point USA, a charity that pulled in over $250 million.
 Transcript Snippet: Okay, you guys, there is a very strange...thing happening right now where a young...woman with absolutely zero professional...qualifications has been inserted at the...top of a charity organization that...pulled in over a quarter billion dollars...last year and the media is telling you...that you have no right to know or to ask
 Anchored Artifacts: A-1000.1, A-1001.1, A-1001.2, A-1001.3, A-1002.1, A-1005.1, A-1005.2, A-1006.1

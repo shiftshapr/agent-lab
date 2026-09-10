@@ -390,6 +390,8 @@ Where Erika lived in 2016-2018 while working at Next Model Management
 
 ## 5. Claim Register
 
+
+
 **C-1086** Erika attended Notre Dame Prep for high school
 
 Claim Timestamp: 03:30-03:36
@@ -423,18 +425,6 @@ Anchored Artifacts: A-1053.2
 Related Nodes: N-66, N-1078, N-1084
 Confidence: high
 Investigative Direction: Obtain grand jury investigation records from Maricopa County.
-
----
-
-**C-1089** Erika's financial situation unclear 2015-2018
-
-Claim Timestamp: 07:19-07:38
-Claim: Between 2015-2018, Erika was 27-30 years old with no clear employment, yet lived in NYC and traveled internationally.
-Transcript Snippet: land upon these things uh, nonstop....Now, we're going to jump right back into...our Erika timeline cuz woo,...boy, do I have something to share with...you regarding 2018. Let's jump in where...we left off. So, in 2015, Erika is 27...years old, okay? It is entirely unclear...what she is doing for work. And it's
-Anchored Artifacts: A-1058.1
-Related Nodes: N-2, N-36, N-64, N-32, N-1081
-Confidence: high
-Investigative Direction: Obtain employment records and financial documents to verify income sources.
 
 ---
 
@@ -482,6 +472,18 @@ Anchored Artifacts: A-1055.1
 Related Nodes: N-2, N-3, N-68, N-69
 Confidence: high
 Investigative Direction: Obtain a copy of the documentary and verify Erika's role and connections.
+
+---
+
+**C-1089** Erika's financial situation unclear 2015-2018
+
+Claim Timestamp: 23:01
+Claim: Between 2015-2018, Erika was 27-30 years old with no clear employment, yet lived in NYC and traveled internationally.
+Transcript Snippet: land upon these things uh, nonstop....Now, we're going to jump right back into...our Erika timeline cuz woo,...boy, do I have something to share with...you regarding 2018. Let's jump in where...we left off. So, in 2015, Erika is 27...years old, okay? It is entirely unclear...what she is doing for work. And it's
+Anchored Artifacts: A-1058.1
+Related Nodes: N-2, N-36, N-64, N-32, N-1081
+Confidence: high
+Investigative Direction: Obtain employment records and financial documents to verify income sources.
 
 ---
 

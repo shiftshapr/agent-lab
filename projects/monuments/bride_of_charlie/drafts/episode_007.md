@@ -319,6 +319,8 @@ Erika's clothing company
 
 ## 5. Claim Register
 
+
+
 **C-1075** Erika claims she had self-sustaining business before meeting Charlie
 
 Claim Timestamp: 02:09
@@ -328,6 +330,18 @@ Anchored Artifacts: A-1043.1
 Related Nodes: N-2, N-3
 Confidence: high
 Investigative Direction: Verify business timeline, LLC formation date, and operational status before 2021.
+
+---
+
+**C-1077** Erika portrays herself as sole provider
+
+Claim Timestamp: 02:09
+Claim: Erika describes herself as the sole provider for her children, implying financial hardship despite resources.
+Transcript Snippet: only have one parent by dividing her...time to be a CEO and a chairman. It's...not what she wanted. It's the hand that...she was dealt. That's very relatable,...right? She's now, as she says, and this...is what really frustrates me. She calls...herself the sole provider....Okay? It frustrates me because it what
+Anchored Artifacts: A-1043.1
+Related Nodes: N-1, N-2
+Confidence: high
+Investigative Direction: Examine financial resources available to Erika including life insurance and fundraiser proceeds.
 
 ---
 
@@ -341,18 +355,6 @@ Related Nodes: N-2, N-3, N-1076
 Contradicts: C-1075
 Confidence: high
 Investigative Direction: Compare domain registration, LLC filing, and website launch dates against claim of pre-existing sustainable business.
-
----
-
-**C-1077** Erika portrays herself as sole provider
-
-Claim Timestamp: 10:58
-Claim: Erika describes herself as the sole provider for her children, implying financial hardship despite resources.
-Transcript Snippet: only have one parent by dividing her...time to be a CEO and a chairman. It's...not what she wanted. It's the hand that...she was dealt. That's very relatable,...right? She's now, as she says, and this...is what really frustrates me. She calls...herself the sole provider....Okay? It frustrates me because it what
-Anchored Artifacts: A-1043.1
-Related Nodes: N-1, N-2
-Confidence: high
-Investigative Direction: Examine financial resources available to Erika including life insurance and fundraiser proceeds.
 
 ---
 
