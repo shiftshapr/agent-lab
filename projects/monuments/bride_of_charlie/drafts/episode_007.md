@@ -24,7 +24,7 @@ Episode 7 examines Erika Kirk's trending X controversy where she explained her r
 **A-1043** Erika Business Claims Bundle
 
 **A-1043.1** Audio clip: Erika explaining pre-Charlie business
-Event Timestamp: Unknown
+Event Timestamp: Undated in episode source
 Video Timestamp: 02:09–03:48
 *Related: C-1075, N-2, N-3*
 Transcript Snippet: >> You know, I get this question, too, of...well, you know, you were a stay-at-home...mom and all this stuff, like that's what...you should go back to doing or something...like that. A lot of people don't realize...that before I met Charlie, I had my own...company, and I still do. And it was one...of those things where
@@ -161,7 +161,7 @@ Confidence: high
 **A-1051** DOB Documentation Bundle
 
 **A-1051.1** Comment: Lori cannot write correct date of birth
-Event Timestamp: Unknown
+Event Timestamp: Undated in episode source
 Video Timestamp: 01:00:39–01:00:56
 *Related: C-1085, N-3, N-1000*
 Transcript Snippet: Lori can do anything but write down...Erika's correct date of birth....She's the most high tech person in the...entire world, but man, those divorce...docs had her tripped up. She was like,... "Oh, 22 or 20." Um, actually, actually,...she was very clear. She wrote it and she...said it was 22. Um, yeah, apparently...we're supposed to just believe it was...just one very long multi-year mistake.

@@ -128,6 +128,7 @@ Transcript Snippet: >> Like with Miss Arizona, I was so done...with that world. 
 Confidence: high
 
 **A-1023.3** Erika on Podcast with Sage Steel
+Event Timestamp: 2016
 Video Timestamp: 45:39–46:21
 *Related: C-1033, N-2*
 Transcript Snippet: >> The first time I ever read the Bible...cover to cover was 2016, and it changed...my life. It absolutely changed my life....And that's when I started. So, it was me...and another friend and I put together...the Bible reading program and I sent it...to my friend. I said, "Do it with me." I...was like, "Cuz I don't know what I'm
