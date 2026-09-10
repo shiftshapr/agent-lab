@@ -24,7 +24,7 @@ Episode 3 focuses on Lori Frantzve's background and her connection to the Erpenb
 **A-1012** Lori and Kent Divorce Documents
 
 **A-1012.1** Divorce documents with Richard Erpenbeck listed as witness
-Event Timestamp: Unknown
+Event Timestamp: Undated in episode source
 Video Timestamp: 04:07–04:26
 *Related: C-1016, C-1018, N-3, N-16, N-1051*
 Transcript Snippet: is Richard Erpenbeck. I'll show you that...here. Now, what I am blurring out on...this document is it had his address,...which allowed me to definitively confirm...which Rick Erpenbeck we were speaking...about, who is the one that actually was...the witness. Erpenbeck, by the way,...anybody that's gone through following
@@ -89,7 +89,7 @@ Transcript Snippet: I prayed for God to just strip my ego...from all of that stu
 Confidence: high
 
 **A-1016.2** Erika claims about not dating in NYC
-Event Timestamp: Unknown
+Event Timestamp: Undated in episode source
 Video Timestamp: 54:25–56:02
 *Related: C-1024, C-1025, N-2, N-1*
 Transcript Snippet: a 26-year-old Christian woman living in...New York City. I would like to stay here...long term, but I wonder whether it's...sustainable. Do you believe there's a...place for women like myself in modern...cities who care about having a career,...but also marrying a like-minded...Christian conservative man?
@@ -111,7 +111,7 @@ Confidence: high
 **A-1018** Super Feed Technologies Records
 
 **A-1018.1** Lori board membership and Tyler Bowyer association
-Event Timestamp: Recent
+Event Timestamp: Undated in episode source
 Video Timestamp: 00:30–01:05
 *Related: C-1016, N-3, N-1047, N-13*
 Transcript Snippet: Not important for today. Lori Frantzve,...despite being ill, has recently been put...on the board of Super Feed Technologies...alongside Turning Point Actions COO...Tyler Bowyer. Shady dude. They're...effectively then business partners. They...have been for a while. Actually, Lori...was at first a director over at

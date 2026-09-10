@@ -4,7 +4,7 @@
 
 - **Episode**: 2
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:01–01:03:57
+- **Video Timestamp Range**: 00:01–01:02:58
 - **Extraction Timestamp (UTC)**: 2026-09-04T23:05:38Z
 - **Model Version**: MiniMax-M2.5
 - **Transcript SHA-256**: b9c0ae4e686d01c942c29d239e1a6f01afb2ac57ff2591c3f5b66d81ab14e769
@@ -31,7 +31,7 @@ Transcript Snippet: read a bit of this article from 1981...where she recounts he
 Confidence: high
 
 **A-1007.2** Quaker Oats radioactive experiments article
-Event Timestamp: Unknown
+Event Timestamp: Undated in episode source
 Video Timestamp: 17:40–17:58
 Transcript Snippet: except for that one time when Quaker...Oats was actually going into mental...institutions and force-feeding a bunch...of radioactive oats to little boys....Look at this article. This is our This...is our government. A spoonful of sugar...helps the radioactive oatmeal go down....Yes, Quaker Oats was conducting
 *Related: C-1009, N-12, N-1041*
