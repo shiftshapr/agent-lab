@@ -667,6 +667,48 @@ def normalize_name(name: str) -> str:
     return " ".join(name.lower().split())
 
 
+def _name_tokens(name: str) -> list[str]:
+    return normalize_name(name).split()
+
+
+def _has_given_and_family_name(name: str) -> bool:
+    """True when the normalized name has at least given + family tokens."""
+    return len(_name_tokens(name)) >= 2
+
+
+def _first_tokens_fuzzy_compatible(
+    name_a: str,
+    name_b: str,
+    max_distance: int = 1,
+) -> bool:
+    """
+    Block fuzzy merges when both sides look like multi-word person/org names
+    but the first tokens differ beyond typo tolerance (e.g. Tony vs Gary Erpenbeck).
+    Single-token names skip this guard so short labels still fuzzy-match.
+    """
+    tokens_a = _name_tokens(name_a)
+    tokens_b = _name_tokens(name_b)
+    if len(tokens_a) < 2 or len(tokens_b) < 2:
+        return True
+    return levenshtein_distance(tokens_a[0], tokens_b[0]) <= max_distance
+
+
+def fuzzy_name_distance(name_a: str, name_b: str) -> int:
+    return levenshtein_distance(normalize_name(name_a), normalize_name(name_b))
+
+
+def fuzzy_names_match(
+    name_a: str,
+    name_b: str,
+    threshold: int = 3,
+    first_token_threshold: int = 1,
+) -> bool:
+    """True when names are within Levenshtein threshold and first-token guard passes."""
+    if not _first_tokens_fuzzy_compatible(name_a, name_b, first_token_threshold):
+        return False
+    return fuzzy_name_distance(name_a, name_b) <= threshold
+
+
 def find_similar_node(session, name: str, node_type: str, threshold: int = 3) -> dict | None:
     """
     Find existing node with similar name using fuzzy matching.
@@ -692,9 +734,9 @@ def find_similar_node(session, name: str, node_type: str, threshold: int = 3) ->
             if normalize_name(alias) == normalized_search:
                 return {"id": record["id"], "canonical_name": canonical, "match_type": "alias"}
         
-        # Check fuzzy match on canonical name
-        distance = levenshtein_distance(normalize_name(canonical), normalized_search)
-        if distance <= threshold:
+        # Check fuzzy match on canonical name (first-token guard blocks same-surname merges)
+        distance = fuzzy_name_distance(canonical, name)
+        if fuzzy_names_match(name, canonical, threshold=threshold):
             return {"id": record["id"], "canonical_name": canonical, "match_type": "fuzzy", "distance": distance}
     
     return None

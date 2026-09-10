@@ -446,6 +446,7 @@ Claim Timestamp: 08:41
 Claim: Andrew Kolvet stated on the Dave Rubin show that Erika never sought the limelight and was always supportive of Charlie.
 Transcript Snippet: All right, you guys, happy Wednesday to...everyone except Andrew Kolvet. Yeah,...because yesterday he went on to Dave...Rubin show...and he said that Erika was not seeking...the spotlight. Take a listen to this....Erika has always been tremendous and she...never sought the limelight. She was
 Anchored Artifacts: A-1054.1, A-1054.2, A-1055.1, A-1057.1, A-1058.1
+Related Nodes: N-2, N-26, N-1
 Confidence: high
 Investigative Direction: Obtain the full Dave Rubin interview with Andrew Kolvet.
 
@@ -457,6 +458,7 @@ Claim Timestamp: 10:54-11:12
 Claim: Erika claims she started Bible in 365 in 2016 in her NYC apartment, but corporate filings do not support this.
 Transcript Snippet: You know, in the past she's made...statements that she was a a casting...director. Casting directors are not the...same as...location scouts. So, this is kind of the...Jane of all trades thing that she is...consistently selling. Later on in the...future, she's going to claim that this
 Anchored Artifacts: A-1054.1
+Related Nodes: N-2, N-1083, N-1085
 Confidence: medium
 Uncertainty: No corporate filing artifact shown in episode
 Investigative Direction: Obtain corporate filings for Bible in 365 to verify founding date.

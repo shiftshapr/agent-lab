@@ -364,6 +364,7 @@ Claim Timestamp: 22:04
 Claim: A young woman with no professional qualifications has been inserted as CEO/chairman of Turning Point USA, a charity that pulled in over $250 million.
 Transcript Snippet: Okay, you guys, there is a very strange...thing happening right now where a young...woman with absolutely zero professional...qualifications has been inserted at the...top of a charity organization that...pulled in over a quarter billion dollars...last year and the media is telling you...that you have no right to know or to ask
 Anchored Artifacts: A-1000.1, A-1001.1, A-1001.2, A-1001.3, A-1002.1, A-1005.1, A-1005.2, A-1006.1
+Related Nodes: N-2, N-1030, N-1
 Confidence: high
 Uncertainty: Framing premise - not yet verified through artifact
 Investigative Direction: Verify Erika's professional qualifications and her appointment process at Turning Point USA.

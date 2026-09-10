@@ -382,6 +382,7 @@ Claim Timestamp: 07:05
 Claim: Nancy Gerard was principal at Tesseract during Erika's enrollment and had strong military connections through her father Colonel Paul Tracy Gerard.
 Transcript Snippet: But that's my opinion and I'm sticking...to it. Now, I should also mention that...Tesseract had a principal. She would...actually climb a ladder at Tesseract...while Erika was a student who had very...strong military ties. A woman named...Nancy Gerard, Nancy Gerard Hall, she...will become. Nancy was a military brat.
 Anchored Artifacts: A-1025.1
+Related Nodes: N-57, N-1031, N-2
 Confidence: medium
 Investigative Direction: Verify Nancy Gerard's employment at Tesseract and military background.
 
@@ -417,6 +418,7 @@ Claim Timestamp: 08:36
 Claim: Erika Kirk's whereabouts and school enrollment cannot be verified for the years 2000 through 2002.
 Transcript Snippet: 1999 2002. But we stand corrected on...that. That's not accurate. People who...attended during those years up in Ohio...at St. Ursilla, they emailed us. They...went through their yearbooks and they...said that she is not featured in those...yearbooks. So, we don't have Erika from...2000 until 2002. Now, it's possible that
 Anchored Artifacts: A-1025.1
+Related Nodes: N-2, N-1062
 Confidence: high
 Investigative Direction: Search school records in Arizona and Ohio for 2000-2002 enrollment.
 
@@ -464,6 +466,7 @@ Claim Timestamp: 12:07
 Claim: Erika Kirk formed Table Four LLC with her then-boyfriend Tyler Sanford in 2010.
 Transcript Snippet: and you're creating tech for the DHS,...you're not just doing this from like...your basement. Is that a fair...assumption?...I don't know....We um also know that in 2010, Erika...forms an LLC with her then boyfriend...Tyler Sanford. It's called Table Four
 Anchored Artifacts: A-1026.3
+Related Nodes: N-2, N-58
 Confidence: high
 Investigative Direction: Obtain Table Four LLC filing documents from Arizona.
 
@@ -523,6 +526,7 @@ Claim Timestamp: 19:23
 Claim: Dr. Jerry Frantzve conducted research on gender issues in Eastern Europe in 1990 with a group of students from Radford.
 Transcript Snippet: center for the beehive. By the way,...under the guise of exploring issues...related to feminism and gender studies,...Jerry Frantzve travels. She travels abroad...a lot. In particularly, in particular,...pardon, she travels to Eastern Europe....She did this with a team to research...gender issues in 1990. Take a look at
 Anchored Artifacts: A-1029.1, A-1029.2
+Related Nodes: N-12, N-1060
 Confidence: medium
 Investigative Direction: Obtain Radford University records of Frantzve's research trips.
 
@@ -594,6 +598,7 @@ Claim Timestamp: 29:38
 Claim: Charlie Kirk met Erika at an airport in Israel; her mother Lori told her to go up to him.
 Transcript Snippet: in the same stuff, charter schools, and...then you and Tyler are going to graduate...in the same year. It's all so crazy. I...need to know. Tell me what happens. What...happened with Turning Point USA? You...just knew, got lucky. We're on a...pilgrimage, I guess, and there Charlie...was at the airport in Israel. You saw
 Anchored Artifacts: A-1031.1
+Related Nodes: N-1, N-2, N-3
 Confidence: medium
 Uncertainty: Claim based on Erika's account; no independent verification presented
 Investigative Direction: Verify travel records and witnesses to this meeting.
