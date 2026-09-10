@@ -359,18 +359,18 @@ Erika claims to have played basketball at Regis but team members confirm she did
 
 ## 5. Claim Register
 
-**C-1027** DOB Listed as November 22, 1988 in Multiple Court Filings
+**C-1030** James Melvin Stanley Was Lori's First Husband
 
-Claim Timestamp: 18:17
-Claim: Court documents from 1998, 1999, 2004, and 2007 consistently list Erika's birthday as November 22, 1988 rather than November 20.
-Transcript Snippet: January 8th. I'm going to go with 1998....That was my best guess. It's hard to...tell since someone tried to edit it by...hand. Again, this is real life, so you...just do what you want there. But the...point is that Erika's birthday is again...listed as November 22nd, 1988....Okay. Then came an amendment to the
-Anchored Artifacts: A-1019.1, A-1019.2, A-1019.3, A-1019.4, A-1019.5, A-1019.6
-Related Nodes: N-2, N-4, N-1000
+Claim Timestamp: 12:10
+Claim: Lori's first husband was James Melvin Stanley, who passed away.
+Transcript Snippet: they are never filing on time. They've...got to be shuttered. Her first marriage,...by the way, cuz some people messaged and...asked, was to a man that sort of...disappeared into the military. His name...uh is was he actually passed away, James...Melvin Stanley. Here's a photo of him. I...am struck by how much he looks like
+Anchored Artifacts: A-1022.1
+Related Nodes: N-3, N-51
 Confidence: high
-Investigative Direction: Obtain certified copies of filings to verify authenticity and compare with official birth records.
+Investigative Direction: Obtain marriage records to verify.
 
 ---
-Anchored Artifacts: A-1020.1
+
 **C-1028** Erika Close to Rick Erpenbeck with Criminal Family Ties
 
 Claim Timestamp: 14:46
@@ -382,7 +382,19 @@ Confidence: high
 Investigative Direction: Verify nature of relationship and whether Erika was aware of criminal histories.
 
 ---
-Anchored Artifacts: A-1021.1, A-1023.1
+
+**C-1027** DOB Listed as November 22, 1988 in Multiple Court Filings
+
+Claim Timestamp: 18:17
+Claim: Court documents from 1998, 1999, 2004, and 2007 consistently list Erika's birthday as November 22, 1988 rather than November 20.
+Transcript Snippet: January 8th. I'm going to go with 1998....That was my best guess. It's hard to...tell since someone tried to edit it by...hand. Again, this is real life, so you...just do what you want there. But the...point is that Erika's birthday is again...listed as November 22nd, 1988....Okay. Then came an amendment to the
+Anchored Artifacts: A-1019.1, A-1019.2, A-1019.3, A-1019.4, A-1019.5, A-1019.6
+Related Nodes: N-2, N-4, N-1000
+Confidence: high
+Investigative Direction: Obtain certified copies of filings to verify authenticity and compare with official birth records.
+
+---
+
 **C-1029** Charlie Kirk States Erika is Direct Descendant of Vince Lombardi
 
 Claim Timestamp: 36:48
@@ -392,18 +404,6 @@ Anchored Artifacts: A-1023.1, A-1021.1
 Related Nodes: N-1, N-3, N-53, N-1014
 Confidence: high
 Investigative Direction: Verify genealogical records to confirm or refute Lombardi lineage claim.
-
----
-Anchored Artifacts: A-1022.1
-**C-1030** James Melvin Stanley Was Lori's First Husband
-
-Claim Timestamp: 12:10
-Claim: Lori's first husband was James Melvin Stanley, who passed away.
-Transcript Snippet: they are never filing on time. They've...got to be shuttered. Her first marriage,...by the way, cuz some people messaged and...asked, was to a man that sort of...disappeared into the military. His name...uh is was he actually passed away, James...Melvin Stanley. Here's a photo of him. I...am struck by how much he looks like
-Anchored Artifacts: A-1022.1
-Related Nodes: N-3, N-51
-Confidence: high
-Investigative Direction: Obtain marriage records to verify.
 
 ---
 
@@ -418,7 +418,7 @@ Confidence: high
 Investigative Direction: Obtain yearbooks and school records to verify attendance.
 
 ---
-Anchored Artifacts: A-1022.3
+
 **C-1032** Erika Did Not Play Basketball at Regis University
 
 Claim Timestamp: 42:33
@@ -430,7 +430,7 @@ Confidence: high
 Investigative Direction: Obtain official university athletic records to verify team roster.
 
 ---
-Anchored Artifacts: A-1023.2, A-1023.3
+
 **C-1033** Erika Gives Conflicting Bible Study Timeline
 
 Claim Timestamp: 44:50
@@ -440,5 +440,3 @@ Anchored Artifacts: A-1023.2, A-1023.3
 Related Nodes: N-2, N-1054
 Confidence: high
 Investigative Direction: Verify timeline through independent sources and podcast recordings.
-
----

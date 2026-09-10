@@ -350,6 +350,17 @@ Company associated with Lori Frantzve receiving $2.4M from Army National Guard
 
 ## 5. Claim Register
 
+**C-1057** Nancy Gerard Tesseract principal had military ties
+
+Claim Timestamp: 04:26
+Claim: Nancy Gerard was principal at Tesseract during Erika's enrollment and had strong military connections through her father Colonel Paul Tracy Gerard.
+Transcript Snippet: But that's my opinion and I'm sticking...to it. Now, I should also mention that...Tesseract had a principal. She would...actually climb a ladder at Tesseract...while Erika was a student who had very...strong military ties. A woman named...Nancy Gerard, Nancy Gerard Hall, she...will become. Nancy was a military brat.
+Anchored Artifacts: A-1025.1
+Confidence: medium
+Investigative Direction: Verify Nancy Gerard's employment at Tesseract and military background.
+
+---
+
 **C-1034** Erika attended Walnut Corner Daycare in 1991
 
 Claim Timestamp: 06:53
@@ -374,6 +385,18 @@ Investigative Direction: Obtain enrollment records from Tesseract for 1995-1998 
 
 ---
 
+**C-1054** Kent and Lori allegedly married in 1995 Marblehead MA
+
+Claim Timestamp: 07:20
+Claim: Kent and Lori Frantzve allegedly got married in Marblehead, Massachusetts in 1995, but investigators found no documentation.
+Transcript Snippet: 1995, Erika is uh attending the Tesseract...school down in Paradise Valley. That's...going to be from her 1995 to 1996 school...year. And her parents, Kent and Lori,...allegedly get married that year in...Marblehead, Massachusetts. Although we...cannot find a single shred of...documentation um that verifies that
+Anchored Artifacts: A-1025.1
+Related Nodes: N-3, N-4
+Confidence: medium
+Investigative Direction: Search Massachusetts marriage records for 1995.
+
+---
+
 **C-1036** Kent and Lori filed for divorce in 1998
 
 Claim Timestamp: 07:51
@@ -386,27 +409,14 @@ Investigative Direction: Obtain divorce filing documents from Hamilton County, O
 
 ---
 
-**C-1037** Lori formed multiple corporations 1999-2003
+**C-1059** Erika's whereabouts unknown 2000-2002
 
-Claim Timestamp: 10:56
-Claim: Lori Frantzve formed Virtual Registration International (Dec 1999), Intellment International (Dec 1999), and Intel of Arizona LLC (Jan 2003).
-Transcript Snippet: 1999. Again, we don't know where Erika...is for that school year, but...uh that's going to be the year that Lori...files a lot uh of different companies,...corporations. December 1st, 1999,...with the help of Rick and Donna Erpenbeck,...she forms Virtual Registration...International Incorporated. Again,
-Anchored Artifacts: A-1026.1, A-1026.2, A-1026.3
-Related Nodes: N-3, N-1057
+Claim Timestamp: 08:36
+Claim: Erika Kirk's whereabouts and school enrollment cannot be verified for the years 2000 through 2002.
+Transcript Snippet: 1999 2002. But we stand corrected on...that. That's not accurate. People who...attended during those years up in Ohio...at St. Ursilla, they emailed us. They...went through their yearbooks and they...said that she is not featured in those...yearbooks. So, we don't have Erika from...2000 until 2002. Now, it's possible that
+Anchored Artifacts: A-1025.1
 Confidence: high
-Investigative Direction: Verify corporate filings through Arizona and Delaware state records.
-
----
-
-**C-1038** Lori formed Luminarius LLC with Deborah Himil in 2010
-
-Claim Timestamp: 24:02
-Claim: Jerry Frantzve created Luminarius LLC with her daughter Deborah Himil in January 2010.
-Transcript Snippet: it it I would assume given the amount of...travel that she keeps indicating that...she probably did take a lot of classes...online. So just wanted to show you that...this is when she is supposed to be at...Loyola Marramount. Um, on January 6th of...this year, Jerry Frantzve creates an...LLC called Luminarius with her daughter,
-Anchored Artifacts: A-1026.4
-Related Nodes: N-3, N-56
-Confidence: high
-Investigative Direction: Obtain Luminarius LLC filing documents from Arizona corporation commission.
+Investigative Direction: Search school records in Arizona and Ohio for 2000-2002 enrollment.
 
 ---
 
@@ -434,6 +444,29 @@ Investigative Direction: Find award documentation and verify recipient.
 
 ---
 
+**C-1037** Lori formed multiple corporations 1999-2003
+
+Claim Timestamp: 10:56
+Claim: Lori Frantzve formed Virtual Registration International (Dec 1999), Intellment International (Dec 1999), and Intel of Arizona LLC (Jan 2003).
+Transcript Snippet: 1999. Again, we don't know where Erika...is for that school year, but...uh that's going to be the year that Lori...files a lot uh of different companies,...corporations. December 1st, 1999,...with the help of Rick and Donna Erpenbeck,...she forms Virtual Registration...International Incorporated. Again,
+Anchored Artifacts: A-1026.1, A-1026.2, A-1026.3
+Related Nodes: N-3, N-1057
+Confidence: high
+Investigative Direction: Verify corporate filings through Arizona and Delaware state records.
+
+---
+
+**C-1058** Erika formed Table Four LLC with Tyler Sanford in 2010
+
+Claim Timestamp: 12:07
+Claim: Erika Kirk formed Table Four LLC with her then-boyfriend Tyler Sanford in 2010.
+Transcript Snippet: and you're creating tech for the DHS,...you're not just doing this from like...your basement. Is that a fair...assumption?...I don't know....We um also know that in 2010, Erika...forms an LLC with her then boyfriend...Tyler Sanford. It's called Table Four
+Anchored Artifacts: A-1026.3
+Confidence: high
+Investigative Direction: Obtain Table Four LLC filing documents from Arizona.
+
+---
+
 **C-1041** IMAT Laboratories received $2.4M from Army National Guard in 2008
 
 Claim Timestamp: 17:10
@@ -445,7 +478,7 @@ Confidence: high
 Investigative Direction: Obtain Army National Guard budget disclosure documents for 2008.
 
 ---
-Anchored Artifacts: A-1027.2
+
 **C-1042** Lori receiving money while Erika was missing in 2008
 
 Claim Timestamp: 17:50
@@ -457,7 +490,7 @@ Confidence: high
 Investigative Direction: Cross-reference Erika's whereabouts in 2008 with Lori's financial records.
 
 ---
-Anchored Artifacts: A-1028.1
+
 **C-1043** Lori founded Everyday Heroes Like You charity in 2009
 
 Claim Timestamp: 18:24
@@ -469,7 +502,7 @@ Confidence: high
 Investigative Direction: Verify charity registration and financial disclosures.
 
 ---
-Anchored Artifacts: A-1029.1
+
 **C-1044** Romania agreed to US military base in October 2009
 
 Claim Timestamp: 19:23
@@ -481,7 +514,18 @@ Confidence: high
 Investigative Direction: Verify Romanian government agreement documents from October 2009.
 
 ---
-Anchored Artifacts: A-1029.1
+
+**C-1056** Dr. Jerry Frantzve conducted research in Eastern Europe 1990
+
+Claim Timestamp: 19:23
+Claim: Dr. Jerry Frantzve conducted research on gender issues in Eastern Europe in 1990 with a group of students from Radford.
+Transcript Snippet: center for the beehive. By the way,...under the guise of exploring issues...related to feminism and gender studies,...Jerry Frantzve travels. She travels abroad...a lot. In particularly, in particular,...pardon, she travels to Eastern Europe....She did this with a team to research...gender issues in 1990. Take a look at
+Anchored Artifacts: A-1029.1, A-1029.2
+Confidence: medium
+Investigative Direction: Obtain Radford University records of Frantzve's research trips.
+
+---
+
 **C-1045** Romanian base agreement coincided with Jeffrey Epstein interest
 
 Claim Timestamp: 22:20
@@ -493,19 +537,7 @@ Confidence: medium
 Investigative Direction: Cross-reference Epstein email dates with base agreement timeline.
 
 ---
-Anchored Artifacts: A-1029.2
-**C-1046** Black Sea Rotational Force 10 established base in May 2010
 
-Claim Timestamp: 27:42
-Claim: Black Sea Rotational Force 10 officially established the Mihail Kogalniceanu Air Base in Romania on May 17, 2010.
-Transcript Snippet: their tax returns, but then Lori moves...to reinstate that in 2010....AZ Tech International, it's back on the...table....Well, for the first time that year, the...Black Sea Rotational Force 10 goes out...to Romania and they establish the Mi...Kogal Nish Cho Chono, I hope I'm saying
-Anchored Artifacts: A-1029.2
-Related Nodes: N-1060
-Confidence: high
-Investigative Direction: Verify military deployment records for Black Sea Rotational Force 2010.
-
----
-Anchored Artifacts: A-1030.1
 **C-1047** Epstein emails show Romania interest starting 2009
 
 Claim Timestamp: 22:28
@@ -517,7 +549,31 @@ Confidence: medium
 Investigative Direction: Obtain and verify Epstein email production from 2009.
 
 ---
-Anchored Artifacts: A-1031.1
+
+**C-1038** Lori formed Luminarius LLC with Deborah Himil in 2010
+
+Claim Timestamp: 24:02
+Claim: Jerry Frantzve created Luminarius LLC with her daughter Deborah Himil in January 2010.
+Transcript Snippet: it it I would assume given the amount of...travel that she keeps indicating that...she probably did take a lot of classes...online. So just wanted to show you that...this is when she is supposed to be at...Loyola Marramount. Um, on January 6th of...this year, Jerry Frantzve creates an...LLC called Luminarius with her daughter,
+Anchored Artifacts: A-1026.4
+Related Nodes: N-3, N-56
+Confidence: high
+Investigative Direction: Obtain Luminarius LLC filing documents from Arizona corporation commission.
+
+---
+
+**C-1046** Black Sea Rotational Force 10 established base in May 2010
+
+Claim Timestamp: 27:42
+Claim: Black Sea Rotational Force 10 officially established the Mihail Kogalniceanu Air Base in Romania on May 17, 2010.
+Transcript Snippet: their tax returns, but then Lori moves...to reinstate that in 2010....AZ Tech International, it's back on the...table....Well, for the first time that year, the...Black Sea Rotational Force 10 goes out...to Romania and they establish the Mi...Kogal Nish Cho Chono, I hope I'm saying
+Anchored Artifacts: A-1029.2
+Related Nodes: N-1060
+Confidence: high
+Investigative Direction: Verify military deployment records for Black Sea Rotational Force 2010.
+
+---
+
 **C-1048** Tyler Bowyer was in Romania in 2010
 
 Claim Timestamp: 29:38
@@ -529,7 +585,19 @@ Confidence: medium
 Investigative Direction: Verify Tyler Bowyer's travel records and activities in Romania 2010.
 
 ---
+
+**C-1055** Tyler Bowyer connected to Farnsworth family
+
+Claim Timestamp: 29:38
+Claim: Tyler Bowyer is connected to the Farnsworth family who were in office; question raised about who set up his Romania trip.
+Transcript Snippet: Bowyer, he's an important guy. Important...guy. Tyler Bowyer is drinking in Romania,...enjoying the models, the ladies. Who was...the person in Romanian parliament that...he went out to see? How does that...happen? Tyler was in college. Who set...that up? Could it have been a...Farnsworth? Very close with that family,
 Anchored Artifacts: A-1031.1
+Related Nodes: N-13
+Confidence: low
+Investigative Direction: Investigate Farnsworth family connections to Tyler Bowyer and Romania.
+
+---
+
 **C-1049** Tyler Bowyer met modeling agency owner in Romania
 
 Claim Timestamp: 29:47
@@ -539,6 +607,30 @@ Anchored Artifacts: A-1031.1
 Related Nodes: N-13, N-1060
 Confidence: medium
 Investigative Direction: Identify modeling agency owner and verify trip details.
+
+---
+
+**C-1053** Erika cannot explain how she met Tyler Bowyer
+
+Claim Timestamp: 31:28
+Claim: Erika Kirk cannot remember how she met Tyler Bowyer and suggested it may have been through a senator.
+Transcript Snippet: Who was the person in Romanian...Parliament that he was there to see? And...what was the name of the modeling...agency? I am dying to know...because it's gonna get real interesting...now, right? Erika just can't remember....She can't remember how she knows him....She can't remember how she met him. It
+Anchored Artifacts: A-1031.1
+Related Nodes: N-2, N-13
+Confidence: medium
+Investigative Direction: Obtain Erika's records of how she met Tyler Bowyer.
+
+---
+
+**C-1052** Charlie met Erika at Israel airport
+
+Claim Timestamp: 36:08
+Claim: Charlie Kirk met Erika at an airport in Israel; her mother Lori told her to go up to him.
+Transcript Snippet: in the same stuff, charter schools, and...then you and Tyler are going to graduate...in the same year. It's all so crazy. I...need to know. Tell me what happens. What...happened with Turning Point USA? You...just knew, got lucky. We're on a...pilgrimage, I guess, and there Charlie...was at the airport in Israel. You saw
+Anchored Artifacts: A-1031.1
+Confidence: medium
+Uncertainty: Claim based on Erika's account; no independent verification presented
+Investigative Direction: Verify travel records and witnesses to this meeting.
 
 ---
 
@@ -563,97 +655,3 @@ Anchored Artifacts: A-1032.1
 Related Nodes: N-16, N-1061
 Confidence: high
 Investigative Direction: Obtain Kentucky bar investigation documents and court records.
-
----
-Anchored Artifacts: A-1031.1
-**C-1052** Charlie met Erika at Israel airport
-
-Claim Timestamp: 36:08
-Claim: Charlie Kirk met Erika at an airport in Israel; her mother Lori told her to go up to him.
-Transcript Snippet: in the same stuff, charter schools, and...then you and Tyler are going to graduate...in the same year. It's all so crazy. I...need to know. Tell me what happens. What...happened with Turning Point USA? You...just knew, got lucky. We're on a...pilgrimage, I guess, and there Charlie...was at the airport in Israel. You saw
-Anchored Artifacts: A-1031.1
-Confidence: medium
-Uncertainty: Claim based on Erika's account; no independent verification presented
-Investigative Direction: Verify travel records and witnesses to this meeting.
-
----
-Anchored Artifacts: A-1024.1, A-1025.1
-**C-1053** Erika cannot explain how she met Tyler Bowyer
-
-Claim Timestamp: 31:28
-Claim: Erika Kirk cannot remember how she met Tyler Bowyer and suggested it may have been through a senator.
-Transcript Snippet: Who was the person in Romanian...Parliament that he was there to see? And...what was the name of the modeling...agency? I am dying to know...because it's gonna get real interesting...now, right? Erika just can't remember....She can't remember how she knows him....She can't remember how she met him. It
-Anchored Artifacts: A-1031.1
-Related Nodes: N-2, N-13
-Confidence: medium
-Investigative Direction: Obtain Erika's records of how she met Tyler Bowyer.
-
----
-Anchored Artifacts: A-1024.1, A-1025.1, A-1031.1
-**C-1054** Kent and Lori allegedly married in 1995 Marblehead MA
-
-Claim Timestamp: 07:20
-Claim: Kent and Lori Frantzve allegedly got married in Marblehead, Massachusetts in 1995, but investigators found no documentation.
-Transcript Snippet: 1995, Erika is uh attending the Tesseract...school down in Paradise Valley. That's...going to be from her 1995 to 1996 school...year. And her parents, Kent and Lori,...allegedly get married that year in...Marblehead, Massachusetts. Although we...cannot find a single shred of...documentation um that verifies that
-Anchored Artifacts: A-1025.1
-Related Nodes: N-3, N-4
-Confidence: medium
-Investigative Direction: Search Massachusetts marriage records for 1995.
-
----
-
-**C-1055** Tyler Bowyer connected to Farnsworth family
-
-Claim Timestamp: 55:27
-Claim: Tyler Bowyer is connected to the Farnsworth family who were in office; question raised about who set up his Romania trip.
-Transcript Snippet: Bowyer, he's an important guy. Important...guy. Tyler Bowyer is drinking in Romania,...enjoying the models, the ladies. Who was...the person in Romanian parliament that...he went out to see? How does that...happen? Tyler was in college. Who set...that up? Could it have been a...Farnsworth? Very close with that family,
-Anchored Artifacts: A-1031.1
-Related Nodes: N-13
-Confidence: low
-Investigative Direction: Investigate Farnsworth family connections to Tyler Bowyer and Romania.
-
----
-Anchored Artifacts: A-1029.1, A-1029.2
-**C-1056** Dr. Jerry Frantzve conducted research in Eastern Europe 1990
-
-Claim Timestamp: 02:05
-Claim: Dr. Jerry Frantzve conducted research on gender issues in Eastern Europe in 1990 with a group of students from Radford.
-Transcript Snippet: center for the beehive. By the way,...under the guise of exploring issues...related to feminism and gender studies,...Jerry Frantzve travels. She travels abroad...a lot. In particularly, in particular,...pardon, she travels to Eastern Europe....She did this with a team to research...gender issues in 1990. Take a look at
-Anchored Artifacts: A-1029.1, A-1029.2
-Confidence: medium
-Investigative Direction: Obtain Radford University records of Frantzve's research trips.
-
----
-
-**C-1057** Nancy Gerard Tesseract principal had military ties
-
-Claim Timestamp: 04:26
-Claim: Nancy Gerard was principal at Tesseract during Erika's enrollment and had strong military connections through her father Colonel Paul Tracy Gerard.
-Transcript Snippet: But that's my opinion and I'm sticking...to it. Now, I should also mention that...Tesseract had a principal. She would...actually climb a ladder at Tesseract...while Erika was a student who had very...strong military ties. A woman named...Nancy Gerard, Nancy Gerard Hall, she...will become. Nancy was a military brat.
-Anchored Artifacts: A-1025.1
-Confidence: medium
-Investigative Direction: Verify Nancy Gerard's employment at Tesseract and military background.
-
----
-
-**C-1058** Erika formed Table Four LLC with Tyler Sanford in 2010
-
-Claim Timestamp: 26:35
-Claim: Erika Kirk formed Table Four LLC with her then-boyfriend Tyler Sanford in 2010.
-Transcript Snippet: and you're creating tech for the DHS,...you're not just doing this from like...your basement. Is that a fair...assumption?...I don't know....We um also know that in 2010, Erika...forms an LLC with her then boyfriend...Tyler Sanford. It's called Table Four
-Anchored Artifacts: A-1026.3
-Confidence: high
-Investigative Direction: Obtain Table Four LLC filing documents from Arizona.
-
----
-
-**C-1059** Erika's whereabouts unknown 2000-2002
-
-Claim Timestamp: 08:36
-Claim: Erika Kirk's whereabouts and school enrollment cannot be verified for the years 2000 through 2002.
-Transcript Snippet: 1999 2002. But we stand corrected on...that. That's not accurate. People who...attended during those years up in Ohio...at St. Ursilla, they emailed us. They...went through their yearbooks and they...said that she is not featured in those...yearbooks. So, we don't have Erika from...2000 until 2002. Now, it's possible that
-Anchored Artifacts: A-1025.1
-Confidence: high
-Investigative Direction: Search school records in Arizona and Ohio for 2000-2002 enrollment.
-
----

@@ -4,7 +4,7 @@
 
 - **Episode**: 3
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:01–01:07:50
+- **Video Timestamp Range**: 00:01:00–01:07:48
 - **Extraction Timestamp (UTC)**: 2026-09-04T23:06:23Z
 - **Model Version**: MiniMax-M2.5
 - **Transcript SHA-256**: a51d7f3b0a26229eb6dcfde13c7312e1983c9595356a6e43c2dfb5b752648d16
@@ -25,6 +25,7 @@ Episode 3 focuses on Lori Frantzve's background and her connection to the Erpenb
 
 **A-1012.1** Divorce documents with Richard Erpenbeck listed as witness
 Event Timestamp: Undated in episode source
+Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 04:07–04:26
 *Related: C-1016, C-1018, N-3, N-16, N-1051*
 Transcript Snippet: is Richard Erpenbeck. I'll show you that...here. Now, what I am blurring out on...this document is it had his address,...which allowed me to definitively confirm...which Rick Erpenbeck we were speaking...about, who is the one that actually was...the witness. Erpenbeck, by the way,...anybody that's gone through following
@@ -90,6 +91,7 @@ Confidence: high
 
 **A-1016.2** Erika claims about not dating in NYC
 Event Timestamp: Undated in episode source
+Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 54:25–56:02
 *Related: C-1024, C-1025, N-2, N-1*
 Transcript Snippet: a 26-year-old Christian woman living in...New York City. I would like to stay here...long term, but I wonder whether it's...sustainable. Do you believe there's a...place for women like myself in modern...cities who care about having a career,...but also marrying a like-minded...Christian conservative man?
@@ -112,6 +114,7 @@ Confidence: high
 
 **A-1018.1** Lori board membership and Tyler Bowyer association
 Event Timestamp: Undated in episode source
+Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 00:30–01:05
 *Related: C-1016, N-3, N-1047, N-13*
 Transcript Snippet: Not important for today. Lori Frantzve,...despite being ill, has recently been put...on the board of Super Feed Technologies...alongside Turning Point Actions COO...Tyler Bowyer. Shady dude. They're...effectively then business partners. They...have been for a while. Actually, Lori...was at first a director over at
@@ -323,19 +326,19 @@ Confidence: high
 Investigative Direction: Verify corporate filings and board meeting minutes.
 
 ---
-Anchored Artifacts: A-1014.1
-**C-1017** Richard Erpenbeck Business Association
 
-Claim Timestamp: 04:26
-Claim: Richard Erpenbeck has been a longtime business associate of Lori, appearing as secretary, incorporator, and notary across her multiple LLCs over 25 years.
-Transcript Snippet: this document is it had his address,...which allowed me to definitively confirm...which Rick Erpenbeck we were speaking...about, who is the one that actually was...the witness. Erpenbeck, by the way,...anybody that's gone through following...any of the um people on X that have been...deep diving alongside me, you will know
-Anchored Artifacts: A-1012.1, A-1014.1
-Related Nodes: N-3, N-16, N-1051
+**C-1021** Erika Birthday November 22
+
+Claim Timestamp: 03:16
+Claim: Erika's birthday is listed as November 22 across multiple documents reviewed in this episode.
+Transcript Snippet: something wasn't right. four different...dates uh to the alleged wedding between...Lori and Kent. Uh an unnottorized child...care agreement, plus a different date...for Erika's birthday than the one...initially listed in the Cincinnati News....November 22nd across four sets of...documents, but we caution people at home
+Anchored Artifacts: A-1012.1
+Related Nodes: N-2
 Confidence: high
-Investigative Direction: Obtain business filings to verify Erpenbeck's roles in Lori's companies.
+Investigative Direction: Compare birth records from multiple sources.
 
 ---
-Anchored Artifacts: A-1012.1
+
 **C-1018** Richard Erpenbeck Witness on Divorce
 
 Claim Timestamp: 04:07
@@ -348,18 +351,18 @@ Investigative Direction: Obtain certified copies of divorce documents.
 
 ---
 
-**C-1019** Erpenbeck Family Fraud Case
+**C-1017** Richard Erpenbeck Business Association
 
-Claim Timestamp: 09:35
-Claim: The Erpenbeck family operated a massive home-building fraud scheme in Ohio/Kentucky around 2002-2003, defrauding banks of $34 million and leaving hundreds of homeowners with unpaid mortgages.
-Transcript Snippet: home ownership. You know, pay us...directly, we'll handle the rest, kind of...a deal. Young people buying homes for...the first time, but the homes, it turns...out, were not being built, and their...mortgages, it turned out, uh were not...being paid either. Take a listen to this...news clip. Erpenbeck served 21 years after
-Anchored Artifacts: A-1013.1, A-1013.2
-Related Nodes: N-41, N-42, N-43, N-44, N-45, N-1051
+Claim Timestamp: 04:26
+Claim: Richard Erpenbeck has been a longtime business associate of Lori, appearing as secretary, incorporator, and notary across her multiple LLCs over 25 years.
+Transcript Snippet: this document is it had his address,...which allowed me to definitively confirm...which Rick Erpenbeck we were speaking...about, who is the one that actually was...the witness. Erpenbeck, by the way,...anybody that's gone through following...any of the um people on X that have been...deep diving alongside me, you will know
+Anchored Artifacts: A-1012.1, A-1014.1
+Related Nodes: N-3, N-16, N-1051
 Confidence: high
-Investigative Direction: Review court records from the Eastern District of Kentucky and Southern District of Ohio.
+Investigative Direction: Obtain business filings to verify Erpenbeck's roles in Lori's companies.
 
 ---
-Anchored Artifacts: A-1014.1
+
 **C-1020** Lori's LLC Network with Erpenbecks
 
 Claim Timestamp: 05:43
@@ -372,15 +375,15 @@ Investigative Direction: Obtain complete LLC filing history from state records.
 
 ---
 
-**C-1021** Erika Birthday November 22
+**C-1019** Erpenbeck Family Fraud Case
 
-Claim Timestamp: 03:16
-Claim: Erika's birthday is listed as November 22 across multiple documents reviewed in this episode.
-Transcript Snippet: something wasn't right. four different...dates uh to the alleged wedding between...Lori and Kent. Uh an unnottorized child...care agreement, plus a different date...for Erika's birthday than the one...initially listed in the Cincinnati News....November 22nd across four sets of...documents, but we caution people at home
-Anchored Artifacts: A-1012.1
-Related Nodes: N-2
+Claim Timestamp: 09:35
+Claim: The Erpenbeck family operated a massive home-building fraud scheme in Ohio/Kentucky around 2002-2003, defrauding banks of $34 million and leaving hundreds of homeowners with unpaid mortgages.
+Transcript Snippet: home ownership. You know, pay us...directly, we'll handle the rest, kind of...a deal. Young people buying homes for...the first time, but the homes, it turns...out, were not being built, and their...mortgages, it turned out, uh were not...being paid either. Take a listen to this...news clip. Erpenbeck served 21 years after
+Anchored Artifacts: A-1013.1, A-1013.2
+Related Nodes: N-41, N-42, N-43, N-44, N-45, N-1051
 Confidence: high
-Investigative Direction: Compare birth records from multiple sources.
+Investigative Direction: Review court records from the Eastern District of Kentucky and Southern District of Ohio.
 
 ---
 
@@ -407,7 +410,7 @@ Confidence: high
 Investigative Direction: Request transcript records and enrollment verification from Regis University.
 
 ---
-Anchored Artifacts: A-1016.2
+
 **C-1024** Erika Claimed No Dating in NYC
 
 Claim Timestamp: 54:59
@@ -431,10 +434,10 @@ Confidence: high
 Investigative Direction: Compile social media evidence and witness accounts of relationships.
 
 ---
-Anchored Artifacts: A-1015.1, A-1015.2, A-1016.1, A-1016.2, A-1017.1
+
 **C-1026** Pastor Terry Crist Connection to Hillsong
 
-Claim Timestamp: 44:03
+Claim Timestamp: 58:39
 Claim: Pastor Terry Crist of City of Grace Scottsdale is close friends with Brian Houston, founder of Hillsong Church who covered up his father's pedophilia.
 Transcript Snippet: didn't date anybody before. Charlie, oh...no, you guys are messing up. My heart is...overwhelmed with incredible amounts of...joy. Congratulations, Terry Chris....Judith Crisp....The vibes are vibing....Now, coincidentally, and I'm going to...bring Ashley uh on in a second to
 Anchored Artifacts: A-1017.1
@@ -442,5 +445,3 @@ Related Nodes: N-46, N-47
 Confidence: medium
 Uncertainty: No artifact shown; based on host's narration of research
 Investigative Direction: Verify friendship through church records and public statements.
-
----
