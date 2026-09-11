@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "updated": "2026-09-11T16:45:00Z",
+  "description": "Tombstone ledger for per-episode local M-* slots after global intro-order renumber (M-1..M-9 dense).",
+  "retired": {
+    "ep6-M-1": {
+      "survives_as": "M-4",
+      "canonical_term": "synergy",
+      "reason": "Ep6 local M-1; global intro-order slot M-4 (after ep1 M-1..M-3)."
+    },
+    "ep6-M-2": {
+      "survives_as": "M-5",
+      "canonical_term": "happy coincidence",
+      "reason": "Ep6 local M-2; global intro-order slot M-5."
+    },
+    "ep6-M-3": {
+      "survives_as": "M-6",
+      "canonical_term": "conspiracy theorist",
+      "reason": "Ep6 local M-3; global intro-order slot M-6."
+    },
+    "ep8-M-1": {
+      "survives_as": "M-7",
+      "canonical_term": "Catholic/Evangelical/Jewish identity flip",
+      "reason": "Ep8 local M-1; global intro-order slot M-7."
+    },
+    "ep8-M-2": {
+      "survives_as": "M-8",
+      "canonical_term": "Catch all the religious scandals",
+      "reason": "Ep8 local M-2; global intro-order slot M-8."
+    },
+    "ep8-M-3": {
+      "survives_as": "M-9",
+      "canonical_term": "Maricopa County corruption",
+      "reason": "Ep8 local M-3; global intro-order slot M-9."
+    }
+  }
+}

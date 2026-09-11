@@ -39,9 +39,15 @@ Found 1 deflection-pattern occurrences across all episodes.
 
 | Meme | Type | Episodes | Occurrences |
 |------|------|----------|-------------|
-| **Grieving Widow** (M-1) | meme | 3 | 3 |
-| **Morfar/Farfargate** (M-2) | meme | 2 | 2 |
-| **Tesaract/Project Looking Glass** (M-3) | meme | 2 | 2 |
+| **Grieving Widow** (M-1) | meme | 1 | 1 |
+| **Sheer Evil** (M-2) | meme | 1 | 1 |
+| **Trust the Science** (M-3) | meme | 1 | 1 |
+| **synergy** (M-4) | meme | 1 | 2 |
+| **happy coincidence** (M-5) | meme | 1 | 2 |
+| **conspiracy theorist** (M-6) | meme | 1 | 2 |
+| **Catholic/Evangelical/Jewish identity flip** (M-7) | meme | 1 | 1 |
+| **Catch all the religious scandals** (M-8) | meme | 1 | 1 |
+| **Maricopa County corruption** (M-9) | meme | 1 | 1 |
 
 ## 4. Investigation Pressure Map
 

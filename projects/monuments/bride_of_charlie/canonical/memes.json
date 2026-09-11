@@ -1,9 +1,82 @@
 {
   "version": 1,
   "description": "Canonical dictionary of memes, euphemisms, and codes — shared across monuments",
-  "updated": null,
-  "next_id": 1,
-  "entries": {},
+  "updated": "2026-09-11T16:45:00Z",
+  "next_id": 10,
+  "entries": {
+    "M-1": {
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Media framing that questioning Erika Kirk makes one a monster",
+      "context": "bride_of_charlie",
+      "first_episode": 1
+    },
+    "M-2": {
+      "canonical_term": "Sheer Evil",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Critics' rhetoric equating investigation with moral evil",
+      "context": "bride_of_charlie",
+      "first_episode": 1
+    },
+    "M-3": {
+      "canonical_term": "Trust the Science",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host comparison of 'grieving widow' framing to pandemic messaging",
+      "context": "bride_of_charlie",
+      "first_episode": 1
+    },
+    "M-4": {
+      "canonical_term": "synergy",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Sarcastic host refrain noting apparent coincidences in timelines",
+      "context": "bride_of_charlie",
+      "first_episode": 6
+    },
+    "M-5": {
+      "canonical_term": "happy coincidence",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Sarcastic dismissal of claimed coincidences",
+      "context": "bride_of_charlie",
+      "first_episode": 6
+    },
+    "M-6": {
+      "canonical_term": "conspiracy theorist",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host self-identifies as conspiracy theorist while presenting patterns",
+      "context": "bride_of_charlie",
+      "first_episode": 6
+    },
+    "M-7": {
+      "canonical_term": "Catholic/Evangelical/Jewish identity flip",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Erika's religious affiliations shift by audience",
+      "context": "bride_of_charlie",
+      "first_episode": 8
+    },
+    "M-8": {
+      "canonical_term": "Catch all the religious scandals",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Pokémon 'catch them all' joke about accumulating religious scandal subjects",
+      "context": "bride_of_charlie",
+      "first_episode": 8
+    },
+    "M-9": {
+      "canonical_term": "Maricopa County corruption",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Recurring commentary on Maricopa County as corrupt political colony",
+      "context": "bride_of_charlie",
+      "first_episode": 8
+    }
+  },
   "types": {
     "meme": "Recurring image, phrase, or concept used as cultural shorthand",
     "euphemism": "Indirect or softened expression substituting for a blunt term",

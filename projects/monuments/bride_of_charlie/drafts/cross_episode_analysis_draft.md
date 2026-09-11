@@ -103,9 +103,9 @@ A documented through-line of military and intelligence connections:
 
 ### Pattern J — Host Rhetorical Memes
 Recurring sarcastic memes appear across episodes:
-- "Happy coincidence" (Ep. 6, M-2) — used twice in same episode
-- "Synergy" (Ep. 6, M-1) — used twice
-- "Conspiracy theorist" (Ep. 6, M-3) — self-identifying while presenting theory
+- "Happy coincidence" (Ep. 6, M-5) — used twice in same episode
+- "Synergy" (Ep. 6, M-4) — used twice
+- "Conspiracy theorist" (Ep. 6, M-6) — self-identifying while presenting theory
 - "Grieving widow" / "sheer evil" (Ep. 1, M-1, M-2) — framing critique
 
 These mark recurring rhetorical pivots where the host signals awareness that the presented pattern is interpretation rather than direct evidence.
@@ -243,7 +243,7 @@ The following contradictions are surfaced across episodes where BOTH sides are a
 | **Nodes (Persons)** | 53 distinct people (N-1 through N-53 dense; investigation targets N-1000+) |
 | **Nodes (Organizations)** | ~20 |
 | **Nodes (Topics)** | ~25 |
-| **Memes** | 7 distinct (M-1, M-2, M-3 across episodes) |
+| **Memes** | 9 distinct (M-1 through M-9 global intro-order) |
 
 ### Episode-Level Contribution
 

@@ -10,7 +10,7 @@
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "34f5d4923dae1e5b528c3e2f10f557745da8bf3cf07902005e54e8f624c99d6a"
   },
-  "executive_summary": "Episode 6 focuses on the timeline of 2010-2012, connecting Tyler Bowyer's deployment to Romania with the Black Sea Rotational Force, Erika Kirk's enrollment at Arizona State University, and various family connections. The episode presents historical context about Romania's 1989 revolution and the Ceau\u0219escu execution, while exploring connections between military personnel, Nevada-based operations, and Erika's humanitarian projects in Romania. Multiple artifacts are referenced including the Everyday Heroes bio, news articles about military deployments, and podcast interviews.",
+  "executive_summary": "Episode 6 focuses on the timeline of 2010-2012, connecting Tyler Bowyer's deployment to Romania with the Black Sea Rotational Force, Erika Kirk's enrollment at Arizona State University, and various family connections. The episode presents historical context about Romania's 1989 revolution and the Ceaușescu execution, while exploring connections between military personnel, Nevada-based operations, and Erika's humanitarian projects in Romania. Multiple artifacts are referenced including the Everyday Heroes bio, news articles about military deployments, and podcast interviews.",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -52,7 +52,7 @@
           "@type": "Artifact",
           "@id": "ART_2.1",
           "ref": "ART_2.1",
-          "description": "Historical footage of Ceau\u0219escu trial and execution",
+          "description": "Historical footage of Ceaușescu trial and execution",
           "event_timestamp": "December 25, 1989",
           "video_timestamp": "03:44-05:59",
           "discovery_timestamp": "2026-03-18",
@@ -623,7 +623,7 @@
       "name": "Romanian Revolution 1989",
       "type": "topic",
       "topic_kind": "historical_event",
-      "description": "Historical context of Ceau\u0219escu execution on Christmas Day 1989",
+      "description": "Historical context of Ceaușescu execution on Christmas Day 1989",
       "related_artifacts": [
         "ART_2.1"
       ],
@@ -830,7 +830,7 @@
       "ref": "CLAIM_2",
       "label": "Romanian Revolution Context Provided",
       "claim_timestamp": "03:30",
-      "claim": "The episode presents historical context about the 1989 Romanian revolution and Ceau\u0219escu execution.",
+      "claim": "The episode presents historical context about the 1989 Romanian revolution and Ceaușescu execution.",
       "anchored_artifacts": [
         "ART_2.1"
       ],
@@ -1129,8 +1129,8 @@
   "memes": [
     {
       "@type": "MemeAnalysis",
-      "@id": "M-1",
-      "ref": "M-1",
+      "@id": "M-4",
+      "ref": "M-4",
       "canonical_term": "synergy",
       "type": "meme",
       "occurrences": [
@@ -1163,8 +1163,8 @@
     },
     {
       "@type": "MemeAnalysis",
-      "@id": "M-2",
-      "ref": "M-2",
+      "@id": "M-5",
+      "ref": "M-5",
       "canonical_term": "happy coincidence",
       "type": "meme",
       "occurrences": [
@@ -1197,8 +1197,8 @@
     },
     {
       "@type": "MemeAnalysis",
-      "@id": "M-3",
-      "ref": "M-3",
+      "@id": "M-6",
+      "ref": "M-6",
       "canonical_term": "conspiracy theorist",
       "type": "meme",
       "occurrences": [

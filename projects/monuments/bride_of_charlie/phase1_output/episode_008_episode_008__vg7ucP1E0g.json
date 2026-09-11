@@ -4,7 +4,7 @@
   "meta": {
     "episode": 8,
     "source": "Candace Owens YouTube",
-    "video_timestamp_range": "00:01\u201349:58",
+    "video_timestamp_range": "00:01–49:58",
     "transcript_sha256": "9651d49153330729c4619107b09ab183520b1dc47ffd64de491b0defd0858ffb",
     "extraction_timestamp": "2026-09-04T23:10:41Z",
     "model_version": "MiniMax-M2.5"
@@ -1156,8 +1156,8 @@
   "memes": [
     {
       "@type": "MemeAnalysis",
-      "@id": "M-1",
-      "ref": "M-1",
+      "@id": "M-7",
+      "ref": "M-7",
       "canonical_term": "Catholic/Evangelical/Jewish identity flip",
       "type": "meme",
       "occurrences": [
@@ -1178,15 +1178,15 @@
     },
     {
       "@type": "MemeAnalysis",
-      "@id": "M-2",
-      "ref": "M-2",
+      "@id": "M-8",
+      "ref": "M-8",
       "canonical_term": "Catch all the religious scandals",
       "type": "meme",
       "occurrences": [
         {
           "episode": 8,
           "video_timestamp": "01:30-01:46",
-          "quote": "We've got filthy evangelical pastors. We've got shady Mormons. We've got terrible Jews. This is like a game of Pok\u00e9mon at this point. We have to catch them all.",
+          "quote": "We've got filthy evangelical pastors. We've got shady Mormons. We've got terrible Jews. This is like a game of Pokémon at this point. We have to catch them all.",
           "speaker_node_ref": "NODE_1",
           "context": "Host jokes about accumulating religious scandal subjects",
           "tags": [
@@ -1201,8 +1201,8 @@
     },
     {
       "@type": "MemeAnalysis",
-      "@id": "M-3",
-      "ref": "M-3",
+      "@id": "M-9",
+      "ref": "M-9",
       "canonical_term": "Maricopa County corruption",
       "type": "meme",
       "occurrences": [

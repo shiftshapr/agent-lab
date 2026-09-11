@@ -574,7 +574,7 @@ Investigative Direction: Verify specific connections and timelines.
 
 ## 6. Meme Register
 
-**M-1** (meme) synergy
+**M-4** (meme) synergy
 
 ### Occurrence 1
 
@@ -596,7 +596,7 @@ Confidence: high
 
 ---
 
-**M-2** (meme) happy coincidence
+**M-5** (meme) happy coincidence
 
 ### Occurrence 1
 
@@ -618,7 +618,7 @@ Confidence: high
 
 ---
 
-**M-3** (meme) conspiracy theorist
+**M-6** (meme) conspiracy theorist
 
 ### Occurrence 1
 
