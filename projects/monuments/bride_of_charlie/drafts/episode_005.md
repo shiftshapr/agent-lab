@@ -12,8 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1024, A-1025, A-1026, A-1027, A-1028, A-1029, A-1030, A-1031, A-1032
   - Claim Range: C-1034-C-1059
-  - New Nodes Introduced: N-21, N-56, N-57, N-58, N-1057, N-1058, N-1059, N-1060, N-1061, N-1062, N-1063, N-1064
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-12, N-13, N-16, N-1031
+  - New Nodes Introduced: N-32, N-33, N-34, N-35, N-1057, N-1058, N-1059, N-1060, N-1061, N-1062, N-1063, N-1064
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-13, N-14, N-18, N-1031
 
 ## 2. Executive Summary
 
@@ -70,7 +70,7 @@ Confidence: high
 Event Timestamp: 2010-01-06
 Video Timestamp: 24:02
 Transcript Snippet: this year, Jerry Frantzve creates an...LLC called Luminarius with her daughter,...the one that she had when she was 14,...Deborah Himil, she's going to follow...mommy's footsteps from the very...beginning getting into psychology. It's...another charter school company. Okay....Now, in my mind, when I think about
-*Related: C-1038, N-3, N-56*
+*Related: C-1038, N-3, N-33*
 Confidence: high
 
 ---
@@ -110,14 +110,14 @@ Confidence: high
 Event Timestamp: 2009-10
 Video Timestamp: 19:23
 Transcript Snippet: after she establishes this, it is...announced that the Romanian government...has agreed to allow America to set up a...military base along the Black Sea. Now,...uh, that's that's the first time things...are are crazy. Uh, Erika is going to...make the claim, by the way, on a future...podcast entitled Freethinkers Only, that
-*Related: C-1044, C-1045, N-1060, N-13*
+*Related: C-1044, C-1045, N-1060, N-14*
 Confidence: high
 
 **A-1029.2** Black Sea Rotational Force 10 establishing Mihail Kogalniceanu Air Base
 Event Timestamp: 2010-05-17
 Video Timestamp: 27:42
 Transcript Snippet: to Romania and they establish the Mi...Kogal Nish Cho Chono, I hope I'm saying...that right, Kogal Nichono, probably not....Air Base in Romania. You can see that...here. Marines, sailors, and sailors of...the Black Sea Rotational Force 2010...officially kicked off their three-month...engagement in the Black Sea region in a
-*Related: C-1046, N-1060, N-13*
+*Related: C-1046, N-1060, N-14*
 Confidence: high
 
 ---
@@ -128,7 +128,7 @@ Confidence: high
 Event Timestamp: 2009
 Video Timestamp: 22:25
 Transcript Snippet: see Jeffrey Epstein...uh beginning to pro procure...women from Romania per his emails that...are now available. He's going to...instantly get his hands over into...Romania. Look, he's offering here is...information for the girl from Romania...who will receive $10,000. There have
-*Related: C-1047, N-21, N-1060*
+*Related: C-1047, N-32, N-1060*
 Confidence: medium
 
 ---
@@ -139,7 +139,7 @@ Confidence: medium
 Event Timestamp: 2010
 Video Timestamp: 29:38–30:12
 Transcript Snippet: some work with a senator in the...parliament there." And then he says,..."And he was friends, meaning the senator...in Romania was friends with this guy...that owned a modeling agency and took me...to the beach that's going to be in...Constanta, just so you know. for 4 days...and legit slept collectively like 10
-*Related: C-1048, C-1049, N-13, N-1060*
+*Related: C-1048, C-1049, N-14, N-1060*
 Confidence: medium
 
 ---
@@ -150,7 +150,7 @@ Confidence: medium
 Event Timestamp: 2009
 Video Timestamp: 37:05
 Transcript Snippet: his license and I'd like to share that...information with you. We learned the...reason. Rick is the movement that is...mentioned throughout this article. I'm...just going to clear this up for you. The...first reason um that his legal license...was removed is because he didn't pay his...dues. Um okay, my best guess is the
-*Related: C-1050, C-1051, N-16, N-1061*
+*Related: C-1050, C-1051, N-18, N-1061*
 Confidence: high
 
 ---
@@ -158,7 +158,7 @@ Confidence: high
 **A-1029.3** Radford Eastern Europe gender-research document (1990)
 Event Timestamp: 1990
 Video Timestamp: 02:10–02:39
-*Related: C-1056, N-12, N-1060*
+*Related: C-1056, N-13, N-1060*
 Transcript Snippet: gender issues in 1990. Take a look at...this. Wow. According to Frantzve, the...final big project of the semester, this...is at Radford, will be taking a group of...students to Eastern Europe. We will...research the expectations of men and...women as work life and day-to-day life...change after the wall came down. Really,
 Confidence: medium
 
@@ -167,7 +167,7 @@ Confidence: medium
 **A-1026.5** Table Four LLC filing (Erika and Tyler Sanford, 2010)
 Event Timestamp: 2010
 Video Timestamp: 26:38–26:55
-*Related: C-1058, N-2, N-58*
+*Related: C-1058, N-2, N-35*
 Transcript Snippet: Tyler Sanford. It's called Table Four...LLC. Tyler Sanford will be featured down...the line as the actor in her My Kind of...Crazy music video that she's going to...film in 2013. I should also mention that...he is a catcher uh for the Los Angeles...Los Angeles Angels. Like like I've said...too many times, Erika is always dating
 Confidence: high
 
@@ -186,7 +186,7 @@ Confidence: medium
 **A-1031.3** Tyler Bowyer Romania / Farnsworth connection (narration)
 Event Timestamp: 2010
 Video Timestamp: 55:14–55:32
-*Related: C-1055, N-13, N-1060*
+*Related: C-1055, N-14, N-1060*
 Transcript Snippet: guy. Tyler Bowyer is drinking in Romania,...enjoying the models, the ladies. Who was...the person in Romanian parliament that...he went out to see? How does that...happen? Tyler was in college. Who set...that up? Could it have been a...Farnsworth? Very close with that family,...aren't you? They were in office. H I'll
 Confidence: low
 
@@ -229,7 +229,7 @@ Erika's father - allegedly married Lori in 1995
 
 ---
 
-**N-13** Tyler Bowyer
+**N-14** Tyler Bowyer
 
 Node Type: Person
 Charlie Kirk's business partner - was in Romania 2010
@@ -238,7 +238,7 @@ Charlie Kirk's business partner - was in Romania 2010
 
 ---
 
-**N-56** Deborah Himil
+**N-33** Deborah Himil
 
 Node Type: Person
 Lori Frantzve's daughter from teenage pregnancy - co-founder of Luminarius LLC
@@ -247,7 +247,7 @@ Lori Frantzve's daughter from teenage pregnancy - co-founder of Luminarius LLC
 
 ---
 
-**N-21** Jeffrey Epstein
+**N-32** Jeffrey Epstein
 
 Node Type: Person
 Sex offender with documented Romania connections starting 2009
@@ -256,7 +256,7 @@ Sex offender with documented Romania connections starting 2009
 
 ---
 
-**N-16** Richard Erpenbeck
+**N-18** Richard Erpenbeck
 
 *Also known as: Rick Erpenbeck; Rick.*
 
@@ -267,7 +267,7 @@ Uncle Rick - attorney who lost license in 2009
 
 ---
 
-**N-12** Dr. Jerry Frantzve
+**N-13** Dr. Jerry Frantzve
 
 Node Type: Person
 Lori's mother - researcher who traveled to Eastern Europe in 1990
@@ -276,7 +276,7 @@ Lori's mother - researcher who traveled to Eastern Europe in 1990
 
 ---
 
-**N-57** Nancy Gerard
+**N-34** Nancy Gerard
 
 Node Type: Person
 Tesseract principal with strong military ties
@@ -285,7 +285,7 @@ Tesseract principal with strong military ties
 
 ---
 
-**N-58** Tyler Sanford
+**N-35** Tyler Sanford
 
 Node Type: Person
 Erika's then-boyfriend in 2010 - later actor in her music video
@@ -395,7 +395,7 @@ Claim Timestamp: 02:10
 Claim: Dr. Jerry Frantzve conducted research on gender issues in Eastern Europe in 1990 with a group of students from Radford.
 Transcript Snippet: gender issues in 1990. Take a look at...this. Wow. According to Frantzve, the...final big project of the semester, this...is at Radford, will be taking a group of...students to Eastern Europe. We will...research the expectations of men and...women as work life and day-to-day life...change after the wall came down. Really,
 Anchored Artifacts: A-1029.3
-Related Nodes: N-12, N-1060
+Related Nodes: N-13, N-1060
 Confidence: medium
 Investigative Direction: Obtain Radford University records of Frantzve's research trips.
 
@@ -443,7 +443,7 @@ Claim Timestamp: 07:05
 Claim: Nancy Gerard was principal at Tesseract during Erika's enrollment and had strong military connections through her father Colonel Paul Tracy Gerard.
 Transcript Snippet: But that's my opinion and I'm sticking...to it. Now, I should also mention that...Tesseract had a principal. She would...actually climb a ladder at Tesseract...while Erika was a student who had very...strong military ties. A woman named...Nancy Gerard, Nancy Gerard Hall, she...will become. Nancy was a military brat.
 Anchored Artifacts: A-1025.1
-Related Nodes: N-57, N-1031, N-2
+Related Nodes: N-34, N-1031, N-2
 Confidence: medium
 Investigative Direction: Verify Nancy Gerard's employment at Tesseract and military background.
 
@@ -615,7 +615,7 @@ Claim Timestamp: 22:20
 Claim: The Romanian government agreed to US base in 2009, the same year Jeffrey Epstein began procuring women from Romania per his emails.
 Transcript Snippet: So, she competes in 2009 for Miss...Colorado and she places fourth runner...up. How did she qualify to compete is...one of my questions....Now, I'll have you guys know, you'll see...I added a note here that 2009...um got the Romanian government agreeing...to allow America America to stop
 Anchored Artifacts: A-1029.1, A-1030.1
-Related Nodes: N-1060, N-21
+Related Nodes: N-1060, N-32
 Confidence: medium
 Investigative Direction: Cross-reference Epstein email dates with base agreement timeline.
 
@@ -631,7 +631,7 @@ Claim Timestamp: 22:28
 Claim: Jeffrey Epstein emails show he was interested in procuring models from Romania starting in 2009.
 Transcript Snippet: one of my questions....Now, I'll have you guys know, you'll see...I added a note here that 2009...um got the Romanian government agreeing...to allow America America to stop...military base. That's when you start to...see Jeffrey Epstein...uh beginning to pro procure
 Anchored Artifacts: A-1030.1
-Related Nodes: N-21, N-1060
+Related Nodes: N-32, N-1060
 Confidence: medium
 Investigative Direction: Obtain and verify Epstein email production from 2009.
 
@@ -647,7 +647,7 @@ Claim Timestamp: 24:02
 Claim: Jerry Frantzve created Luminarius LLC with her daughter Deborah Himil in January 2010.
 Transcript Snippet: it it I would assume given the amount of...travel that she keeps indicating that...she probably did take a lot of classes...online. So just wanted to show you that...this is when she is supposed to be at...Loyola Marramount. Um, on January 6th of...this year, Jerry Frantzve creates an...LLC called Luminarius with her daughter,
 Anchored Artifacts: A-1026.4
-Related Nodes: N-3, N-56
+Related Nodes: N-3, N-33
 Confidence: high
 Investigative Direction: Obtain Luminarius LLC filing documents from Arizona corporation commission.
 
@@ -663,7 +663,7 @@ Claim Timestamp: 26:38
 Claim: Erika Kirk formed Table Four LLC with her then-boyfriend Tyler Sanford in 2010.
 Transcript Snippet: Tyler Sanford. It's called Table Four...LLC. Tyler Sanford will be featured down...the line as the actor in her My Kind of...Crazy music video that she's going to...film in 2013. I should also mention that...he is a catcher uh for the Los Angeles...Los Angeles Angels. Like like I've said...too many times, Erika is always dating
 Anchored Artifacts: A-1026.5
-Related Nodes: N-2, N-58
+Related Nodes: N-2, N-35
 Confidence: high
 Investigative Direction: Obtain Table Four LLC filing documents from Arizona.
 
@@ -695,7 +695,7 @@ Claim Timestamp: 29:38
 Claim: Tyler Bowyer was in Romania from May through summer 2010 working with a Romanian senator.
 Transcript Snippet: the bottom of my inbox and I was saying,..."I know that he went to Romania and was...trying to figure out what he was doing."...And they were like, "Oh, I actually...talked to him about that." They were...super friendly about it. I talked to him...about that. And here's the conversation....Tyler writes, "I went to Romania to do...some work with a senator in the...parliament there." And then he says,..."And he was friends, meaning the senator...in Romania was friends with this guy
 Anchored Artifacts: A-1031.1
-Related Nodes: N-13, N-1060
+Related Nodes: N-14, N-1060
 Confidence: medium
 Investigative Direction: Verify Tyler Bowyer's travel records and activities in Romania 2010.
 
@@ -707,7 +707,7 @@ Claim Timestamp: 29:47
 Claim: Tyler Bowyer met a Romanian senator's friend who owned a modeling agency and took him to the beach in Constanta for 4 days.
 Transcript Snippet: about that. And here's the conversation....Tyler writes, "I went to Romania to do...some work with a senator in the...parliament there." And then he says,..."And he was friends, meaning the senator...in Romania was friends with this guy...that owned a modeling agency and took me...to the beach that's going to be in
 Anchored Artifacts: A-1031.1
-Related Nodes: N-13, N-1060
+Related Nodes: N-14, N-1060
 Confidence: medium
 Investigative Direction: Identify modeling agency owner and verify trip details.
 
@@ -723,7 +723,7 @@ Claim Timestamp: 31:28
 Claim: Erika Kirk cannot remember how she met Tyler Bowyer and suggested it may have been through a senator.
 Transcript Snippet: Who was the person in Romanian...Parliament that he was there to see? And...what was the name of the modeling...agency? I am dying to know...because it's gonna get real interesting...now, right? Erika just can't remember....She can't remember how she knows him....She can't remember how she met him. It
 Anchored Artifacts: A-1031.1
-Related Nodes: N-2, N-13
+Related Nodes: N-2, N-14
 Confidence: medium
 Investigative Direction: Obtain Erika's records of how she met Tyler Bowyer.
 
@@ -756,7 +756,7 @@ Claim Timestamp: 36:50
 Claim: Rick Erpenbeck lost his law license in 2009 according to Kentucky bar.
 Transcript Snippet: I would argue that he's a fraud....or actually I wouldn't argue it. It's...not my opinion. That was the bar's...opinion. Remember I told you he lost his...legal license in uh 2009....And I wasn't sure what or why or how. I...did know that his father Tony had...bestowed upon him some of that money. Uh
 Anchored Artifacts: A-1032.1
-Related Nodes: N-16, N-1061
+Related Nodes: N-18, N-1061
 Confidence: high
 Investigative Direction: Obtain Kentucky bar disciplinary records for 2009.
 
@@ -772,7 +772,7 @@ Claim Timestamp: 37:34
 Claim: Rick Erpenbeck was investigated for failing to disclose existing mortgages when performing title searches, and for managing an LLC used to transfer stock without consideration.
 Transcript Snippet: dues. Um okay, my best guess is the...reason he stopped paying his dues in...Kentucky was that he was hoping that...they would stop their investigation into...him, but they didn't. We learned that in...2007 they then opened an investigation...into him for the following reasons....Reason number one is because while
 Anchored Artifacts: A-1032.1
-Related Nodes: N-16, N-1061
+Related Nodes: N-18, N-1061
 Confidence: high
 Investigative Direction: Obtain Kentucky bar investigation documents and court records.
 
@@ -784,7 +784,7 @@ Claim Timestamp: 55:14
 Claim: Tyler Bowyer is connected to the Farnsworth family who were in office; question raised about who set up his Romania trip.
 Transcript Snippet: guy. Tyler Bowyer is drinking in Romania,...enjoying the models, the ladies. Who was...the person in Romanian parliament that...he went out to see? How does that...happen? Tyler was in college. Who set...that up? Could it have been a...Farnsworth? Very close with that family,...aren't you? They were in office. H I'll
 Anchored Artifacts: A-1031.3
-Related Nodes: N-13
+Related Nodes: N-14
 Confidence: low
 Investigative Direction: Investigate Farnsworth family connections to Tyler Bowyer and Romania.
 

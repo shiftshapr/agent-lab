@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-04-09T04:31:52.870478+00:00",
-  "next_person_id": 33,
+  "updated": "2026-09-11T16:17:16.315278+00:00",
+  "next_person_id": 54,
   "next_investigation_id": 1030,
   "nodes": {
     "N-1": {
@@ -27,151 +27,247 @@
       "aliases": []
     },
     "N-5": {
-      "canonical_name": "Loretta Lynn Abbis",
-      "type": "person",
-      "aliases": []
-    },
-    "N-6": {
-      "canonical_name": "Mason Abbis",
-      "type": "person",
-      "aliases": []
-    },
-    "N-7": {
       "canonical_name": "Carl Kenneth Frantzve",
       "type": "person",
       "aliases": []
     },
-    "N-8": {
-      "canonical_name": "Jack Solomon",
-      "type": "person",
-      "aliases": []
-    },
-    "N-9": {
+    "N-6": {
       "canonical_name": "Elizabeth Lane",
       "type": "person",
       "aliases": []
     },
-    "N-10": {
-      "canonical_name": "Larry Ginta",
-      "type": "person",
-      "aliases": []
-    },
-    "N-11": {
+    "N-7": {
       "canonical_name": "Candace Owens",
       "type": "person",
       "aliases": []
     },
+    "N-8": {
+      "canonical_name": "Larry Guinta",
+      "type": "person",
+      "aliases": []
+    },
+    "N-9": {
+      "canonical_name": "Mason Abbas",
+      "type": "person",
+      "aliases": []
+    },
+    "N-10": {
+      "canonical_name": "Loretta Abbas",
+      "type": "person",
+      "aliases": []
+    },
+    "N-11": {
+      "canonical_name": "Nicole Rothstein",
+      "type": "person",
+      "aliases": []
+    },
     "N-12": {
-      "canonical_name": "Dr. Jerry Frantzve",
+      "canonical_name": "Alan Rothstein",
       "type": "person",
       "aliases": []
     },
     "N-13": {
-      "canonical_name": "Tyler Bowyer",
+      "canonical_name": "Dr. Jerry Frantzve",
       "type": "person",
       "aliases": []
     },
     "N-14": {
-      "canonical_name": "Phil Bliss",
+      "canonical_name": "Tyler Bowyer",
       "type": "person",
       "aliases": []
     },
     "N-15": {
-      "canonical_name": "Dr. John Money",
+      "canonical_name": "Phil Bliss",
       "type": "person",
       "aliases": []
     },
     "N-16": {
-      "canonical_name": "Richard Erpenbeck",
+      "canonical_name": "Aleister Crowley",
       "type": "person",
       "aliases": []
     },
     "N-17": {
-      "canonical_name": "Lori Abbis Stanley",
+      "canonical_name": "John Money",
       "type": "person",
-      "aliases": [],
-      "ingest_gate": {
-        "action": "merge_into",
-        "target": "N-3"
-      }
+      "aliases": []
     },
     "N-18": {
-      "canonical_name": "Angelina Lombardo-Abbis",
+      "canonical_name": "Richard Erpenbeck",
       "type": "person",
       "aliases": []
     },
     "N-19": {
-      "canonical_name": "Vince Lombardi",
+      "canonical_name": "Tony Erpenbeck",
       "type": "person",
       "aliases": []
     },
     "N-20": {
-      "canonical_name": "Nancy Gerard Hall",
+      "canonical_name": "Bill Erpenbeck",
       "type": "person",
       "aliases": []
     },
     "N-21": {
-      "canonical_name": "Jeffrey Epstein",
+      "canonical_name": "Gary Erpenbeck",
       "type": "person",
       "aliases": []
     },
     "N-22": {
-      "canonical_name": "Colonel Otto Busher",
+      "canonical_name": "Jeff Erpenbeck",
       "type": "person",
       "aliases": []
     },
     "N-23": {
-      "canonical_name": "Dennis Frantzve",
+      "canonical_name": "Donna Erpenbeck",
       "type": "person",
       "aliases": []
     },
     "N-24": {
-      "canonical_name": "Curtis Kolvet",
+      "canonical_name": "Pastor Terry Crist",
       "type": "person",
       "aliases": []
     },
     "N-25": {
-      "canonical_name": "Robert Kolvet",
+      "canonical_name": "Brian Houston",
       "type": "person",
       "aliases": []
     },
     "N-26": {
-      "canonical_name": "Andrew Kolvet",
+      "canonical_name": "Jack Solomon",
       "type": "person",
       "aliases": []
     },
     "N-27": {
-      "canonical_name": "Justin Strife",
+      "canonical_name": "Vince Lombardi",
       "type": "person",
       "aliases": []
     },
     "N-28": {
-      "canonical_name": "Jonah",
+      "canonical_name": "Carla Solomon",
       "type": "person",
       "aliases": []
     },
     "N-29": {
-      "canonical_name": "Jan Brewer",
+      "canonical_name": "James Melvin Stanley",
       "type": "person",
       "aliases": []
     },
     "N-30": {
-      "canonical_name": "Josh Harelson",
+      "canonical_name": "John Robert Walstad",
       "type": "person",
       "aliases": []
     },
     "N-31": {
-      "canonical_name": "Arizona State University",
+      "canonical_name": "Angela Lombardo",
       "type": "person",
-      "aliases": [],
-      "ingest_gate": {
-        "action": "skip",
-        "superseded_by": "N-1072",
-        "reason": "Drafts use N-1072 Organization; do not ingest N-31 Person as the ASU entity."
-      }
+      "aliases": []
     },
     "N-32": {
+      "canonical_name": "Jeffrey Epstein",
+      "type": "person",
+      "aliases": []
+    },
+    "N-33": {
+      "canonical_name": "Deborah Himil",
+      "type": "person",
+      "aliases": []
+    },
+    "N-34": {
+      "canonical_name": "Nancy Gerard",
+      "type": "person",
+      "aliases": []
+    },
+    "N-35": {
+      "canonical_name": "Tyler Sanford",
+      "type": "person",
+      "aliases": []
+    },
+    "N-36": {
+      "canonical_name": "Dennis Frantzve",
+      "type": "person",
+      "aliases": []
+    },
+    "N-37": {
+      "canonical_name": "Curtis Kolvet",
+      "type": "person",
+      "aliases": []
+    },
+    "N-38": {
+      "canonical_name": "Robert Kolvet",
+      "type": "person",
+      "aliases": []
+    },
+    "N-39": {
+      "canonical_name": "Andrew Kolvet",
+      "type": "person",
+      "aliases": []
+    },
+    "N-40": {
+      "canonical_name": "Justin Strife",
+      "type": "person",
+      "aliases": []
+    },
+    "N-41": {
+      "canonical_name": "Charles Cookie Thornton",
+      "type": "person",
+      "aliases": []
+    },
+    "N-42": {
+      "canonical_name": "Rob McCoy",
+      "type": "person",
+      "aliases": []
+    },
+    "N-43": {
+      "canonical_name": "Josh Harelson",
+      "type": "person",
+      "aliases": []
+    },
+    "N-44": {
       "canonical_name": "JT Massie",
+      "type": "person",
+      "aliases": []
+    },
+    "N-45": {
+      "canonical_name": "Tucker Carlson",
+      "type": "person",
+      "aliases": []
+    },
+    "N-46": {
+      "canonical_name": "Cabot Phillips",
+      "type": "person",
+      "aliases": []
+    },
+    "N-47": {
+      "canonical_name": "Bishop Thomas J. O'Brien",
+      "type": "person",
+      "aliases": []
+    },
+    "N-48": {
+      "canonical_name": "Jim Lee Reed",
+      "type": "person",
+      "aliases": []
+    },
+    "N-49": {
+      "canonical_name": "Patricia Patrick",
+      "type": "person",
+      "aliases": []
+    },
+    "N-50": {
+      "canonical_name": "James Woolsey",
+      "type": "person",
+      "aliases": []
+    },
+    "N-51": {
+      "canonical_name": "Kanye West",
+      "type": "person",
+      "aliases": []
+    },
+    "N-52": {
+      "canonical_name": "Kouri Richins",
+      "type": "person",
+      "aliases": []
+    },
+    "N-53": {
+      "canonical_name": "Matt Walsh",
       "type": "person",
       "aliases": []
     },
@@ -236,7 +332,7 @@
       "aliases": []
     },
     "N-1012": {
-      "canonical_name": "Erpenbeck fraud pattern — Lori LLCs & notaries",
+      "canonical_name": "Erpenbeck fraud pattern \u2014 Lori LLCs & notaries",
       "type": "investigation_target",
       "aliases": []
     },
@@ -256,7 +352,7 @@
       "aliases": []
     },
     "N-1016": {
-      "canonical_name": "Erpenbeck criminal connections — Erika & uncle Rick",
+      "canonical_name": "Erpenbeck criminal connections \u2014 Erika & uncle Rick",
       "type": "investigation_target",
       "aliases": []
     },

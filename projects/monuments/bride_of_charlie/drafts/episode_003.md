@@ -12,8 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1012, A-1013, A-1014, A-1015, A-1016, A-1017, A-1018
   - Claim Range: C-1016-C-1026
-  - New Nodes Introduced: N-16, N-41, N-42, N-43, N-44, N-45, N-46, N-47, N-1047, N-1048, N-1049, N-1050, N-1051, N-1052
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-13, N-1031
+  - New Nodes Introduced: N-18, N-19, N-20, N-21, N-22, N-23, N-24, N-25, N-1047, N-1048, N-1049, N-1050, N-1051, N-1052
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-14, N-1031
 
 ## 2. Executive Summary
 
@@ -27,7 +27,7 @@ Episode 3 focuses on Lori Frantzve's background and her connection to the Erpenb
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 04:07–04:26
-*Related: C-1016, C-1018, N-3, N-16, N-1051*
+*Related: C-1016, C-1018, N-3, N-18, N-1051*
 Transcript Snippet: is Richard Erpenbeck. I'll show you that...here. Now, what I am blurring out on...this document is it had his address,...which allowed me to definitively confirm...which Rick Erpenbeck we were speaking...about, who is the one that actually was...the witness. Erpenbeck, by the way,...anybody that's gone through following
 Confidence: high
 
@@ -38,14 +38,14 @@ Confidence: high
 **A-1013.1** News clip about Erpenbeck fraud case
 Event Timestamp: 2003
 Video Timestamp: 09:35–09:56
-*Related: C-1019, N-41, N-42, N-43, N-44, N-45*
+*Related: C-1019, N-19, N-20, N-21, N-22, N-23*
 Transcript Snippet: news clip. Erpenbeck served 21 years after...pleading guilty to defrauding banks of...$34 million. That was back in April of...2003. So he was a home builder who...funneled the proceeds from home closings...back to his company and himself. So his...crimes left hundreds of home buyers on...the hook for millions of dollars in
 Confidence: high
 
 **A-1013.2** Article snippets about Erpenbeck scandal
 Event Timestamp: 2002-2009
 Video Timestamp: 10:26–13:20
-*Related: C-1019, N-41, N-42, N-43, N-44, N-45*
+*Related: C-1019, N-19, N-20, N-21, N-22, N-23*
 Transcript Snippet: Uh, check out just some snippets from...articles recapping this case. I'm going...to get to this part. Lori Anne Erpenbeck...was a standout character. Tells us...that by 2004, Lori Erpenbeck seemingly had...enough of her family. She already knew...that her brother Bill had thought about...killing her. So when dad Tony offered to
 Confidence: high
 
@@ -56,7 +56,7 @@ Confidence: high
 **A-1014.1** LLC filings showing Erpenbeck involvement
 Event Timestamp: 1993-1999
 Video Timestamp: 05:43–07:13
-*Related: C-1017, C-1020, N-3, N-16, N-41*
+*Related: C-1017, C-1020, N-3, N-18, N-19*
 Transcript Snippet: me take you through the litany of LLC's...that she has filed. This is Lori, which...feature Richard or Donna Erpenbeck as...either the secretary, the incorporator,...the notary across a 25y year period....Okay. Now, Lori filed for Euroch in June...of 1993. What does it do? Nobody knows....But Rick was featured. Lori and Rick
 Confidence: high
 
@@ -116,7 +116,7 @@ Confidence: high
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 00:30–01:05
-*Related: C-1016, N-3, N-1047, N-13*
+*Related: C-1016, N-3, N-1047, N-14*
 Transcript Snippet: Not important for today. Lori Frantzve,...despite being ill, has recently been put...on the board of Super Feed Technologies...alongside Turning Point Actions COO...Tyler Bowyer. Shady dude. They're...effectively then business partners. They...have been for a while. Actually, Lori...was at first a director over at
 Confidence: high
 
@@ -125,7 +125,7 @@ Confidence: high
 **A-1017.2** Erika social posts — Terry Crist / Hillsong connection
 Event Timestamp: 2011–2016
 Video Timestamp: 43:56–45:16
-*Related: C-1026, N-2, N-46, N-47*
+*Related: C-1026, N-2, N-24, N-25*
 Transcript Snippet: joy. Congratulations, Terry Chris....Judith Crisp....The vibes are vibing....Now, coincidentally, and I'm going to...bring Ashley uh on in a second to...explain a little more, but I'll tell you...that Pastor Terry is very close with...Brian Houston, the Hillsong Church
 Confidence: medium
 
@@ -150,7 +150,7 @@ Mother of Erika Kirk, involved in multiple businesses, board member at Super Fee
 
 ---
 
-**N-16** Richard Erpenbeck
+**N-18** Richard Erpenbeck
 
 *Also known as: Rick Erpenbeck; Rick.*
 
@@ -161,7 +161,7 @@ Witness on Lori's divorce documents, longtime business associate of Lori, younge
 
 ---
 
-**N-41** Tony Erpenbeck
+**N-19** Tony Erpenbeck
 
 Node Type: Person
 Father of Erpenbeck siblings, sentenced for bank fraud, plotted murder/kidnapping
@@ -170,7 +170,7 @@ Father of Erpenbeck siblings, sentenced for bank fraud, plotted murder/kidnappin
 
 ---
 
-**N-42** Bill Erpenbeck
+**N-20** Bill Erpenbeck
 
 Node Type: Person
 Erpenbeck brother, led fraud scheme, served 21 years
@@ -179,7 +179,7 @@ Erpenbeck brother, led fraud scheme, served 21 years
 
 ---
 
-**N-43** Gary Erpenbeck
+**N-21** Gary Erpenbeck
 
 Node Type: Person
 Erpenbeck brother, involved in family business
@@ -188,7 +188,7 @@ Erpenbeck brother, involved in family business
 
 ---
 
-**N-44** Jeff Erpenbeck
+**N-22** Jeff Erpenbeck
 
 Node Type: Person
 Erpenbeck brother
@@ -197,7 +197,7 @@ Erpenbeck brother
 
 ---
 
-**N-45** Donna Erpenbeck
+**N-23** Donna Erpenbeck
 
 Node Type: Person
 Wife of Gary Erpenbeck, notary on Lori's documents
@@ -235,7 +235,7 @@ University in Denver where Erika had basketball scholarship
 
 ---
 
-**N-13** Tyler Bowyer
+**N-14** Tyler Bowyer
 
 Node Type: Person
 COO of Turning Point Action, business partner with Lori
@@ -263,7 +263,7 @@ Political action arm of Turning Point USA
 
 ---
 
-**N-46** Pastor Terry Crist
+**N-24** Pastor Terry Crist
 
 Node Type: Person
 Pastor at City of Grace in Scottsdale, friend of Brian Houston
@@ -272,7 +272,7 @@ Pastor at City of Grace in Scottsdale, friend of Brian Houston
 
 ---
 
-**N-47** Brian Houston
+**N-25** Brian Houston
 
 Node Type: Person
 Founder of Hillsong Church, covered up father's pedophilia
@@ -332,7 +332,7 @@ Claim Timestamp: 00:30
 Claim: Lori Frantzve was recently put on the board of Super Feed Technologies alongside Turning Point Action COO Tyler Bowyer.
 Transcript Snippet: Now, as a part of the public...psychological campaign, Erika has been...curating videos to remind us that her...mother is very ill. I don't dispute...that. I do dispute that Erika was with...her on September 10th receiving a...treatment, but we'll get to that later....Not important for today. Lori Frantzve,
 Anchored Artifacts: A-1018.1
-Related Nodes: N-3, N-1047, N-13
+Related Nodes: N-3, N-1047, N-14
 Confidence: high
 Investigative Direction: Verify corporate filings and board meeting minutes.
 
@@ -360,7 +360,7 @@ Claim Timestamp: 04:07
 Claim: Richard Erpenbeck was listed as the witness on Lori and Kent's divorce documents.
 Transcript Snippet: documents. There was another person...mentioned uh someone who is listed as...the witness to these shenanigans. That's...that's how I am going to hitherto refer...to the divorce documents, the...shenanigans. And that witness, his name...is Richard Erpenbeck. I'll show you that...here. Now, what I am blurring out on
 Anchored Artifacts: A-1012.1
-Related Nodes: N-3, N-16, N-4, N-1051
+Related Nodes: N-3, N-18, N-4, N-1051
 Confidence: high
 Investigative Direction: Obtain certified copies of divorce documents.
 
@@ -374,7 +374,7 @@ Claim Timestamp: 04:26
 Claim: Richard Erpenbeck has been a longtime business associate of Lori, appearing as secretary, incorporator, and notary across her multiple LLCs over 25 years.
 Transcript Snippet: this document is it had his address,...which allowed me to definitively confirm...which Rick Erpenbeck we were speaking...about, who is the one that actually was...the witness. Erpenbeck, by the way,...anybody that's gone through following...any of the um people on X that have been...deep diving alongside me, you will know
 Anchored Artifacts: A-1012.1, A-1014.1
-Related Nodes: N-3, N-16, N-1051
+Related Nodes: N-3, N-18, N-1051
 Confidence: high
 Investigative Direction: Obtain business filings to verify Erpenbeck's roles in Lori's companies.
 
@@ -388,7 +388,7 @@ Claim Timestamp: 05:43
 Claim: Lori has filed multiple LLCs (Euroch, Euroch International UK, Techmetrics International, Virtual Registration) featuring Richard or Donna Erpenbeck as secretary, incorporator, or notary over 25 years.
 Transcript Snippet: putting together tech companies as many...people do. I am waiting for that late...stage technological brilliance to fall...upon me cuz I can barely uh sort through...my apps. I don't even know how to get to...the app store in a fast enough time. Let...me take you through the litany of LLC's...that she has filed. This is Lori, which
 Anchored Artifacts: A-1014.1
-Related Nodes: N-3, N-16, N-45, N-1051
+Related Nodes: N-3, N-18, N-23, N-1051
 Confidence: high
 Investigative Direction: Obtain complete LLC filing history from state records.
 
@@ -402,7 +402,7 @@ Claim Timestamp: 09:35
 Claim: The Erpenbeck family operated a massive home-building fraud scheme in Ohio/Kentucky around 2002-2003, defrauding banks of $34 million and leaving hundreds of homeowners with unpaid mortgages.
 Transcript Snippet: home ownership. You know, pay us...directly, we'll handle the rest, kind of...a deal. Young people buying homes for...the first time, but the homes, it turns...out, were not being built, and their...mortgages, it turned out, uh were not...being paid either. Take a listen to this...news clip. Erpenbeck served 21 years after
 Anchored Artifacts: A-1013.1, A-1013.2
-Related Nodes: N-41, N-42, N-43, N-44, N-45, N-1051
+Related Nodes: N-19, N-20, N-21, N-22, N-23, N-1051
 Confidence: high
 Investigative Direction: Review court records from the Eastern District of Kentucky and Southern District of Ohio.
 
@@ -444,7 +444,7 @@ Claim Timestamp: 44:10
 Claim: Pastor Terry Crist of City of Grace Scottsdale is close friends with Brian Houston, founder of Hillsong Church who covered up his father's pedophilia.
 Transcript Snippet: joy. Congratulations, Terry Chris....Judith Crisp....The vibes are vibing....Now, coincidentally, and I'm going to...bring Ashley uh on in a second to...explain a little more, but I'll tell you...that Pastor Terry is very close with...Brian Houston, the Hillsong Church
 Anchored Artifacts: A-1017.2
-Related Nodes: N-46, N-47
+Related Nodes: N-24, N-25
 Confidence: medium
 Uncertainty: No artifact shown; based on host's narration of research
 Investigative Direction: Verify friendship through church records and public statements.

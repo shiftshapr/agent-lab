@@ -12,8 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1019, A-1020, A-1021, A-1022, A-1023
   - Claim Range: C-1027-C-1033
-  - New Nodes Introduced: N-8, N-19, N-50, N-51, N-52, N-53, N-54, N-1014, N-1053, N-1054, N-1055, N-1056
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-11, N-12, N-16, N-42, N-1000, N-1030, N-1048
+  - New Nodes Introduced: N-26, N-27, N-28, N-29, N-30, N-31, N-54, N-1014, N-1053, N-1054, N-1055, N-1056
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-13, N-18, N-20, N-1000, N-1030, N-1048
 
 ## 2. Executive Summary
 
@@ -72,7 +72,7 @@ Confidence: high
 **A-1020.1** Erika at Universal Studios with Uncle Rick
 Event Timestamp: December 1, 2018
 Video Timestamp: 14:46–15:04
-*Related: C-1028, N-2, N-8, N-50*
+*Related: C-1028, N-2, N-26, N-28*
 Transcript Snippet: down to Universal Studios. You should...know that that's where Rick works. And...Erika documented that trip. She was with...her mom. She's always with Lori. Lori's...always in the background. And here is...it's going to be very quick here because...it's Instagram stories that she has...saved, but you're going to see Uncle
 Confidence: high
 
@@ -83,7 +83,7 @@ Confidence: high
 **A-1021.1** Obituary for Angeline Abbas
 Event Timestamp: 1970
 Video Timestamp: 38:57–39:07
-*Related: C-1029, N-3, N-53, N-1014*
+*Related: C-1029, N-3, N-31, N-1014*
 Transcript Snippet: You can see that here in this obituary...from 1970. The bottom there it says that...Angeline, wife of Joseph Abbas of...Cincinnati, Ohio. Okay. So, what's going...on here? Because that that still...wouldn't make her a direct unless...people have multiple identifications....I I I can't get there. But I know that
 Confidence: high
 
@@ -93,7 +93,7 @@ Confidence: high
 
 **A-1022.1** James Melvin Stanley Photo
 Video Timestamp: 12:10–12:20
-*Related: C-1030, N-3, N-52*
+*Related: C-1030, N-3, N-30*
 Transcript Snippet: Melvin Stanley. Here's a photo of him. I...am struck by how much he looks like...Breijit. I just want to say this is the...only photo I could found that I could...find of James Melvin Stanley, her first...husband. She got married to him, I...believe, when she was 19 years old. But...I looked at this and I went mad. This
 Confidence: medium
 
@@ -117,7 +117,7 @@ Confidence: high
 
 **A-1023.1** Charlie Kirk Podcast - Lombardi Family Claim
 Video Timestamp: 36:45–37:05
-*Related: C-1029, N-1, N-3, N-53*
+*Related: C-1029, N-1, N-3, N-31*
 Transcript Snippet: >> The Packers won the first Super Bowl....You know, my my wife Erika is from the...Lombardi family....>> Really? Is that right?...>> Seriously?...>> Yeah....>> That's Royal Her mom's a Lombardi....Literally, isn't that insane?
 Confidence: high
 
@@ -176,7 +176,7 @@ Erika's mother, multiple name variations and marriages
 
 ---
 
-**N-11** Candace Owens
+**N-7** Candace Owens
 
 Node Type: Person
 Host of Bride of Charlie series
@@ -185,7 +185,7 @@ Host of Bride of Charlie series
 
 ---
 
-**N-12** Dr. Jerry Frantzve
+**N-13** Dr. Jerry Frantzve
 
 Node Type: Person
 First wife of Kent Frantzve, created Tesseract model
@@ -194,7 +194,7 @@ First wife of Kent Frantzve, created Tesseract model
 
 ---
 
-**N-16** Richard Erpenbeck
+**N-18** Richard Erpenbeck
 
 *Also known as: Rick Erpenbeck; Rick.*
 
@@ -205,7 +205,7 @@ Alleged uncle of Erika, works at Universal Studios
 
 ---
 
-**N-42** Bill Erpenbeck
+**N-20** Bill Erpenbeck
 
 Node Type: Person
 Rick Erpenbeck's brother, served 20+ years for financial fraud
@@ -214,7 +214,7 @@ Rick Erpenbeck's brother, served 20+ years for financial fraud
 
 ---
 
-**N-8** Jack Solomon
+**N-26** Jack Solomon
 
 Node Type: Person
 Erika's uncle through marriage, professor at BYU, founder of Bali Technologies
@@ -223,7 +223,7 @@ Erika's uncle through marriage, professor at BYU, founder of Bali Technologies
 
 ---
 
-**N-50** Carla Solomon
+**N-28** Carla Solomon
 
 Node Type: Person
 Married to Jack Solomon, related to Erika
@@ -232,7 +232,7 @@ Married to Jack Solomon, related to Erika
 
 ---
 
-**N-51** James Melvin Stanley
+**N-29** James Melvin Stanley
 
 Node Type: Person
 First husband of Lori, passed away
@@ -241,7 +241,7 @@ First husband of Lori, passed away
 
 ---
 
-**N-52** John Robert Walstad
+**N-30** John Robert Walstad
 
 Node Type: Person
 Second husband of Lori
@@ -250,7 +250,7 @@ Second husband of Lori
 
 ---
 
-**N-19** Vince Lombardi
+**N-27** Vince Lombardi
 
 Node Type: Person
 Famous NFL coach, Super Bowl trophy named after him
@@ -259,7 +259,7 @@ Famous NFL coach, Super Bowl trophy named after him
 
 ---
 
-**N-53** Angela Lombardo
+**N-31** Angela Lombardo
 
 Node Type: Person
 Listed as Lori's mother, maiden name
@@ -368,7 +368,7 @@ Claim Timestamp: 12:10
 Claim: Lori's first husband was James Melvin Stanley, who passed away.
 Transcript Snippet: they are never filing on time. They've...got to be shuttered. Her first marriage,...by the way, cuz some people messaged and...asked, was to a man that sort of...disappeared into the military. His name...uh is was he actually passed away, James...Melvin Stanley. Here's a photo of him. I...am struck by how much he looks like
 Anchored Artifacts: A-1022.1
-Related Nodes: N-3, N-51
+Related Nodes: N-3, N-29
 Confidence: high
 Investigative Direction: Obtain marriage records to verify.
 
@@ -382,7 +382,7 @@ Claim Timestamp: 14:46
 Claim: Erika has a documented close relationship with Rick Erpenbeck, whose brother Bill served 20+ years for financial fraud and whose father was involved in kidnapping plot.
 Transcript Snippet: they've been around you your whole life,...that's my uncle Rick. But that's the...reality. If her Instagram is too...believed, uh if her Instagram account is...to be believed, then you should know...that she's very close to this person...because on December 1st, 2018, she went...down to Universal Studios. You should
 Anchored Artifacts: A-1020.1
-Related Nodes: N-2, N-16, N-42, N-50
+Related Nodes: N-2, N-18, N-20, N-28
 Confidence: high
 Investigative Direction: Verify nature of relationship and whether Erika was aware of criminal histories.
 
@@ -410,7 +410,7 @@ Claim Timestamp: 36:48
 Claim: Charlie Kirk explicitly states on his podcast that Erika's mother is a direct descendant of Vince Lombardi.
 Transcript Snippet: No, I'd have to hear Charlie say that...myself. That can't be right. Well, sure...enough, we went to investigate and...Charlie did communicate that very fact....Take a listen....>> The Packers won the first Super Bowl....You know, my my wife Erika is from the...Lombardi family.
 Anchored Artifacts: A-1023.1, A-1021.1
-Related Nodes: N-1, N-3, N-53, N-1014
+Related Nodes: N-1, N-3, N-31, N-1014
 Confidence: high
 Investigative Direction: Verify genealogical records to confirm or refute Lombardi lineage claim.
 

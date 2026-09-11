@@ -12,8 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1043, A-1044, A-1045, A-1046, A-1047, A-1048, A-1049, A-1050, A-1051
   - Claim Range: C-1075-C-1085
-  - New Nodes Introduced: N-30, N-32, N-62, N-1075, N-1076
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-11, N-13, N-21, N-27, N-1000, N-1030, N-1072
+  - New Nodes Introduced: N-43, N-44, N-45, N-1075, N-1076
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14, N-32, N-40, N-1000, N-1030, N-1072
 
 ## 2. Executive Summary
 
@@ -73,7 +73,7 @@ Confidence: high
 **A-1044.2** Tucker Carlson fundraiser totals
 Event Timestamp: 2024
 Video Timestamp: 13:29–13:48
-*Related: C-1078, N-2, N-62*
+*Related: C-1078, N-2, N-45*
 Transcript Snippet: like Tucker Carlson. Do you guys...remember that? He alone, his ALP...company, raised $5.4...million for her. Okay, this is still up....He set out to raise six. They raised 5.4...million. I actually think it was less....Then he just kept it was he kept blowing...through it. So they kept raising it and
 Confidence: high
 
@@ -84,7 +84,7 @@ Confidence: high
 **A-1045.1** Audio: Tyler Bowyer announcing Las Vegas office
 Event Timestamp: February 11, 2025
 Video Timestamp: 16:52–17:43
-*Related: C-1079, N-13, N-2*
+*Related: C-1079, N-14, N-2*
 Transcript Snippet: >> Last thing I'll say is this. At Turning...Point Action, we have a ton of jobs...posting in Arizona, Nevada, and New...Hampshire. Those three states are so...critical for our success. Uh we actually...just uh locked down. Jonah just got back...from there. Got the keys to a new...building that we have in Las Vegas. Uh
 Confidence: high
 
@@ -102,7 +102,7 @@ Confidence: high
 **A-1046.1** Article: Governor Jan Brewer appoints Tyler Bowyer to Board of Regents
 Event Timestamp: 2010
 Video Timestamp: 26:44–27:30
-*Related: C-1080, N-13, N-1072*
+*Related: C-1080, N-14, N-1072*
 Transcript Snippet: Brewer abnormally just picked Tyler into...the position. It's not it's not the...normal process. Um usually there are...votes but they just went okay you and...here's an article a relic which shows us...that that is true. It says, "Governor...appoints um the new student regent." And...within the article, it tells us that
 Confidence: high
 
@@ -124,7 +124,7 @@ Confidence: high
 **A-1048.1** Epstein donations to Arizona State University
 Event Timestamp: December 2010
 Video Timestamp: 29:20–29:42
-*Related: C-1082, N-21, N-1072*
+*Related: C-1082, N-32, N-1072*
 Transcript Snippet: be a reason for it. There could have...been some strange carve out just for...Erika. I'm sure there was. Uh but I find...all of this happening at the same time...to be very strange. Now, we are...obviously discussing the relationship...between Erika and Tyler. Both of them...being at the Arizona State University.
 Confidence: medium
 
@@ -135,14 +135,14 @@ Confidence: medium
 **A-1049.1** Audio: Erika claims living in China for sex trafficking work
 Event Timestamp: Pre-2018
 Video Timestamp: 32:41–33:30
-*Related: C-1083, N-2, N-27*
+*Related: C-1083, N-2, N-40*
 Transcript Snippet: Take a listen. I decided to create...something called Everyday Heroes Like...You, where we're able to originally it...was focused on bringing funds and...awareness to various grassroots...organizations that were in specific...communities uh that would be able to...have volunteers that are transparent
 Confidence: high
 
 **A-1049.2** Email from Justin Stripe: Erika did not live in China
 Event Timestamp: January 12, 2025
 Video Timestamp: 37:43–38:09
-*Related: C-1083, N-2, N-27*
+*Related: C-1083, N-2, N-40*
 Transcript Snippet: and he said, and I want to be clear, I...don't think Justin Stripe was lying....Didn't strike me as someone who would be...dumb enough to lie. Uh forget whether or...not he's moral. Is he dumb? And my...answer is no. know Justin Stripe is not...an idiot. So this is what her new story...is is that she did not live in China and
 Confidence: high
 
@@ -200,7 +200,7 @@ Erika's mother
 
 ---
 
-**N-11** Candace Owens
+**N-7** Candace Owens
 
 Node Type: Person
 Host of Bride of Charlie
@@ -209,7 +209,7 @@ Host of Bride of Charlie
 
 ---
 
-**N-13** Tyler Bowyer
+**N-14** Tyler Bowyer
 
 Node Type: Person
 Turning Point USA executive, former Arizona Board of Regents member
@@ -218,7 +218,7 @@ Turning Point USA executive, former Arizona Board of Regents member
 
 ---
 
-**N-30** Josh Harelson
+**N-43** Josh Harelson
 
 Node Type: Person
 Basketball player, Erika's boyfriend in 2013
@@ -227,7 +227,7 @@ Basketball player, Erika's boyfriend in 2013
 
 ---
 
-**N-32** JT Massie
+**N-44** JT Massie
 
 *Also known as: J.T. Massey; Massey.*
 
@@ -238,7 +238,7 @@ Minor league baseball player, Erika's boyfriend in 2014
 
 ---
 
-**N-62** Tucker Carlson
+**N-45** Tucker Carlson
 
 Node Type: Person
 Fox News host who organized fundraiser for Erika
@@ -257,7 +257,7 @@ University where Erika claims to have earned degrees
 
 ---
 
-**N-21** Jeffrey Epstein
+**N-32** Jeffrey Epstein
 
 Node Type: Person
 Convicted sex offender who donated to ASU
@@ -266,7 +266,7 @@ Convicted sex offender who donated to ASU
 
 ---
 
-**N-27** Justin Strife
+**N-40** Justin Strife
 
 *Also known as: Justin Stripe; Stripe.*
 
@@ -371,7 +371,7 @@ Claim Timestamp: 11:27
 Claim: Charlie had a $10M life insurance policy and Tucker Carlson raised $5.4M for Erika and the children.
 Transcript Snippet: how financially savvy he was. Like she's...trying to relate like she's just like a...single mom and and trying and working a...9 to5 uh working at a restaurant trying...to make ends meet for her children and...the father's gone. No, she's not...implying in any way here or being clear...here that Charlie had a life insurance
 Anchored Artifacts: A-1044.1, A-1044.2
-Related Nodes: N-1, N-2, N-62
+Related Nodes: N-1, N-2, N-45
 Contradicts: C-1077
 Confidence: high
 Investigative Direction: Verify life insurance policy details and fundraiser totals.
@@ -386,7 +386,7 @@ Claim Timestamp: 16:52
 Claim: Tyler Bowyer announces new Las Vegas office opening for Turning Point Action.
 Transcript Snippet: they're opening a new office, of course,...in Las Vegas before he hands over the...call to Erika, who is then going to edit...herself to really make it about the...children. Take a listen....>> Last thing I'll say is this. At Turning...Point Action, we have a ton of jobs...posting in Arizona, Nevada, and New
 Anchored Artifacts: A-1045.1, A-1045.2
-Related Nodes: N-2, N-13, N-1030
+Related Nodes: N-2, N-14, N-1030
 Confidence: high
 Investigative Direction: Verify corporate expansion and office opening.
 
@@ -400,7 +400,7 @@ Claim Timestamp: 26:44
 Claim: Tyler Bowyer was appointed to Arizona Board of Regents by Governor Jan Brewer outside normal process, weeks after returning from Romania.
 Transcript Snippet: regents um as their student...representative at Arizona State...University. And then right after Erika...enrolls into the university and actually...it's even more bizarre how he came about...that position somebody emailed us and...said no um he didn't go the usual route....The governor of Arizona at the time Jan
 Anchored Artifacts: A-1046.1
-Related Nodes: N-13, N-1072
+Related Nodes: N-14, N-1072
 Confidence: high
 Investigative Direction: Verify appointment process and timeline relative to Romania trip.
 
@@ -428,7 +428,7 @@ Claim Timestamp: 29:20
 Claim: Jeffrey Epstein donated $250,000 personally and over $2M through associates to ASU starting December 2010.
 Transcript Snippet: am listening to uh over these past few...months, we've all heard her more uh than...we've ever heard from her before, is...just objectively not a genius. So, I'm...not sure what that's about. There could...be a reason for it. There could have...been some strange carve out just for...Erika. I'm sure there was. Uh but I find
 Anchored Artifacts: A-1048.1
-Related Nodes: N-21, N-1072
+Related Nodes: N-32, N-1072
 Confidence: medium
 Investigative Direction: Verify donation records and timing relative to other events.
 
@@ -442,7 +442,7 @@ Claim Timestamp: 32:41
 Claim: Erika claims she lived in China working with sex trafficking victims, but actually was following her boyfriend Josh Harelson who was playing basketball there.
 Transcript Snippet: lies all the time. So, ahead of us...jumping back into the timeline, I would...like to remind you of the story she...tells regarding why she was traveling...inter internationally, specifically to...China. Why don't you listen to what she...says about why she traveled to China?...Take a listen. I decided to create
 Anchored Artifacts: A-1049.1, A-1049.2
-Related Nodes: N-2, N-30, N-27
+Related Nodes: N-2, N-43, N-40
 Confidence: high
 Investigative Direction: Verify actual duration and purpose of China visit.
 
@@ -456,7 +456,7 @@ Claim Timestamp: 45:19
 Claim: Erika auditioned for Amazing Race with boyfriend JT Massie in 2014 while living in Venice, California.
 Transcript Snippet: try out for the Amazing Race and I am...going to let you listen to that. Erika...is living and working in California. Um,...and he is living in Tulsa, Oklahoma. And...here is a little bit of their tape....>> Hi....>> Hi....>> Good morning, America.
 Anchored Artifacts: A-1050.1
-Related Nodes: N-2, N-32, N-1075
+Related Nodes: N-2, N-44, N-1075
 Confidence: high
 Investigative Direction: Verify audition tape and timeline.
 
