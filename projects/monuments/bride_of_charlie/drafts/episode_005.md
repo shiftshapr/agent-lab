@@ -10,10 +10,10 @@
 - **Transcript SHA-256**: 06a3b756f6db827356196cd9d57188ec9abe43dac136eec26a5dc72b54b3b927
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1024, A-1025, A-1026, A-1027, A-1028, A-1029, A-1030, A-1031, A-1032
-  - Claim Range: C-1034-C-1059
+  - Artifact Families Introduced: A-1024, A-1025, A-1026, A-1027, A-1028, A-1029, A-1030, A-1031, A-1032, A-1067, A-1068
+  - Claim Range: C-1034-C-1059, C-1103-C-1104
   - New Nodes Introduced: N-32, N-33, N-34, N-35, N-1030, N-1031, N-1032, N-1033, N-1034, N-1035, N-1036, N-1037
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-13, N-14, N-18, N-1002
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-13, N-14, N-18, N-1002
 
 ## 2. Executive Summary
 
@@ -191,6 +191,30 @@ Transcript Snippet: guy. Tyler Bowyer is drinking in Romania,...enjoying the mod
 Confidence: low
 
 ---
+
+**A-1067** Winslow Hospital Charity Article Bundle
+
+**A-1067.1** Winslow / Andrea's Closet hospital charity article shown and read
+Event Timestamp: Undated in episode source
+Event Timestamp Note: article period referenced via Erika pageant timeline; exact publication date not attested in transcript.
+Video Timestamp: 13:44–15:10
+*Related: C-1103, N-2, N-3*
+Transcript Snippet: Winslow. We showed you this article....This truly is the best version we could...find. I know it's very smudged, but I...wanted to point out to you that somebody...emailed me about this article. Erika...sort of uh uh tells this story. We...received an interesting email because we...showed you this article and in this...article I can I'm going to read for you...what it actually states. This is again
+Confidence: high
+
+---
+
+**A-1068** Blake Neff Shabbat Shalom X Post Bundle
+
+**A-1068.1** Blake Neff X Shabbat Shalom / Sabbath book post (read by host)
+Event Timestamp: Undated in episode source
+Event Timestamp Note: X post read aloud; original post date not attested in transcript.
+Video Timestamp: 43:32–45:59
+*Related: C-1104, N-7, N-1, N-2*
+Transcript Snippet: Blake actually authored. This is not a...joke. Okay. He could not bear me...ridiculing Erika over Shabbat Shalom....Here's this is what he wrote on on X. I...have avoided commenting on most of what...Kenneth Owen's claims are the past few...months. However, her last episode...contains such a blatant untruth about...Charlie's daily life that I feel...compelled to correct it. In this
+Confidence: high
+
+---
 ## 4. Node Register
 
 **N-1** Charlie Kirk
@@ -198,7 +222,7 @@ Confidence: low
 Node Type: Person
 Primary investigation subject - deceased conservative activist
 
-*Related: C-1052*
+*Related: A-1068.1, C-1052, C-1104*
 
 ---
 
@@ -207,7 +231,7 @@ Primary investigation subject - deceased conservative activist
 Node Type: Person
 Primary subject - Charlie Kirk's widow
 
-*Related: A-1024.1, A-1025.1, C-1034, C-1035, C-1036, C-1053, C-1042, C-1052, C-1058, C-1059*
+*Related: A-1024.1, A-1025.1, A-1067.1, A-1068.1, C-1034, C-1035, C-1036, C-1053, C-1042, C-1052, C-1058, C-1059, C-1103, C-1104*
 
 ---
 
@@ -216,7 +240,7 @@ Primary subject - Charlie Kirk's widow
 Node Type: Person
 Erika's mother - runs multiple tech companies with government contracts
 
-*Related: A-1026.1, A-1026.2, A-1026.3, A-1026.4, A-1027.1, A-1027.2, A-1028.1, C-1037, C-1038, C-1039, C-1040, C-1041, C-1042, C-1043, C-1036, C-1054*
+*Related: A-1026.1, A-1026.2, A-1026.3, A-1026.4, A-1027.1, A-1027.2, A-1028.1, A-1067.1, C-1037, C-1038, C-1039, C-1040, C-1041, C-1042, C-1043, C-1036, C-1054, C-1103*
 
 ---
 
@@ -789,6 +813,29 @@ Confidence: low
 Investigative Direction: Investigate Farnsworth family connections to Tyler Bowyer and Romania.
 
 ---
+
+**C-1103** Winslow Hospital Charity Article Contradicts Erika Travel Claims
+
+Claim Timestamp: 13:44
+Claim: A hospital charity article about Andrea's Closet and Winslow is shown and read; a credible tipster tells the host Erika's stated family travel through Winslow for basketball is implausible given Arizona geography.
+Transcript Snippet: that she plays in. The email we received...came from a very credible person. I will...leave it at that. I'm going to protect...this person's identity. They said that...is BS. That is BS. They explained to me...something I didn't know. Maybe you did,...but in the state of Arizona, 80% of the...population lives in Maricopa County. And
+Anchored Artifacts: A-1067.1
+Related Nodes: N-2, N-3
+Confidence: medium
+Uncertainty: Tipster identity protected; article smudged on-screen
+Investigative Direction: Obtain original Andrea's Closet / Winslow hospital article and verify Erika's stated travel frequency.
+
+---
+
+**C-1104** Blake Neff Defends Erika on Shabbat Shalom; Host Reads and Rejects Post
+
+Claim Timestamp: 43:32
+Claim: Blake Neff authored an X post defending Erika Kirk's use of Shabbat Shalom and Charlie Kirk's Sabbath book; Candace Owens reads the post aloud and rejects its framing.
+Transcript Snippet: Blake actually authored. This is not a...joke. Okay. He could not bear me...ridiculing Erika over Shabbat Shalom....Here's this is what he wrote on on X. I...have avoided commenting on most of what...Kenneth Owen's claims are the past few...months. However, her last episode...contains such a blatant untruth about...Charlie's daily life that I feel...compelled to correct it. In this
+Anchored Artifacts: A-1068.1
+Related Nodes: N-7, N-1, N-2
+Confidence: high
+Investigative Direction: Preserve original Blake Neff X post URL and timestamp; distinguish post text from host commentary.
 
 ---
 

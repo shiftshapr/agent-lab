@@ -10,8 +10,8 @@
 - **Transcript SHA-256**: bfcaea6fefa00bb02c67d685084169d2d92c07af8e335b005631eeef1a0fdd51
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1019, A-1020, A-1021, A-1022, A-1023
-  - Claim Range: C-1027-C-1033
+  - Artifact Families Introduced: A-1019, A-1020, A-1021, A-1022, A-1023, A-1065, A-1066
+  - Claim Range: C-1027-C-1033, C-1101-C-1102
   - New Nodes Introduced: N-26, N-27, N-28, N-29, N-30, N-31, N-1024, N-1025, N-1026, N-1027, N-1028, N-1029
   - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-13, N-18, N-20, N-1000, N-1001, N-1019
 
@@ -136,6 +136,30 @@ Confidence: high
 
 ---
 
+**A-1065** Lori Sick/Vulnerable IG Reel Bundle
+
+**A-1065.1** Lori sick/vulnerable Instagram reel (~2–3 days before Charlie assassination)
+Event Timestamp: Undated in episode source
+Event Timestamp Note: host frames timing as two to three days before assassination; exact post date not attested in transcript.
+Video Timestamp: 22:42–23:38
+*Related: C-1101, N-2, N-3*
+Transcript Snippet: Because no matter what anyone is trying...to tell you, Erika is not posting her...mother in the way that she is without...intent right now. Okay? She didn't post...her mother for years and then she...suddenly moves to post her mother in a...vulnerable sick position a mere days...before Charlie's assassinated. Two two...to three days before he's assassinated....That registers to me as emotionally
+Confidence: high
+
+---
+
+**A-1066** McCoy Blake Neff Studio Clip Bundle
+
+**A-1066.1** McCoy and Blake Neff Iran/trust-Trump studio clip
+Event Timestamp: Undated in episode source
+Event Timestamp Note: clip shown during Iran regime-change discussion; calendar date not attested in transcript.
+Video Timestamp: 06:16–07:43
+*Related: C-1102, N-7, N-1*
+Transcript Snippet: this. Take a listen....>> He also always did have trust with the...president and he would look for the...bright side of things. and he was an...American patriot. So he would pray for...our success once that began. And I just...want to say that to offer perspective on...how...>> I think he would have felt about this.
+Confidence: high
+
+---
+
 ## 4. Node Register
 
 **N-1** Charlie Kirk
@@ -143,7 +167,7 @@ Confidence: high
 Node Type: Person
 Primary subject of investigation, founder of Turning Point USA
 
-*Related: A-1023.1, C-1029*
+*Related: A-1023.1, A-1066.1, C-1029, C-1102*
 
 ---
 
@@ -152,7 +176,7 @@ Primary subject of investigation, founder of Turning Point USA
 Node Type: Person
 Primary subject, widow of Charlie Kirk, subject of extensive biographical investigation
 
-*Related: A-1019.1, A-1019.2, A-1019.3, A-1019.4, A-1019.5, A-1019.6, A-1020.1, A-1022.2, A-1022.3, A-1023.2, A-1023.3, C-1027, C-1028, C-1031, C-1032, C-1033*
+*Related: A-1019.1, A-1019.2, A-1019.3, A-1019.4, A-1019.5, A-1019.6, A-1020.1, A-1022.2, A-1022.3, A-1023.2, A-1023.3, A-1065.1, C-1027, C-1028, C-1031, C-1032, C-1033, C-1101*
 
 ---
 
@@ -172,7 +196,7 @@ Erika's father
 Node Type: Person
 Erika's mother, multiple name variations and marriages
 
-*Related: A-1021.1, A-1022.1, A-1023.1, C-1029, C-1030*
+*Related: A-1021.1, A-1022.1, A-1023.1, A-1065.1, C-1029, C-1030, C-1101*
 
 ---
 
@@ -181,7 +205,7 @@ Erika's mother, multiple name variations and marriages
 Node Type: Person
 Host of Bride of Charlie series
 
-*Related: *
+*Related: A-1066.1, C-1102*
 
 ---
 
@@ -455,4 +479,31 @@ Anchored Artifacts: A-1023.2, A-1023.3
 Related Nodes: N-2, N-1027
 Confidence: high
 Investigative Direction: Verify timeline through independent sources and podcast recordings.
+
+---
+
+**C-1101** Erika Posted Lori in Vulnerable Sick Position Days Before Charlie Assassination
+
+Claim Timestamp: 22:42
+Claim: Erika began posting her mother Lori in a vulnerable sick condition on Instagram approximately two to three days before Charlie Kirk was assassinated; host frames this as emotionally manipulative curation.
+Transcript Snippet: Because no matter what anyone is trying...to tell you, Erika is not posting her...mother in the way that she is without...intent right now. Okay? She didn't post...her mother for years and then she...suddenly moves to post her mother in a...vulnerable sick position a mere days...before Charlie's assassinated. Two two...to three days before he's assassinated....That registers to me as emotionally
+Anchored Artifacts: A-1065.1
+Related Nodes: N-2, N-3
+Confidence: medium
+Uncertainty: Host interpretive framing; exact IG post dates not attested in transcript
+Investigative Direction: Preserve original Instagram reel timestamps and metadata if available.
+
+---
+
+**C-1102** McCoy and Blake Neff Frame Charlie as Trusting Trump on Iran; Host Disagrees
+
+Claim Timestamp: 06:16
+Claim: In a studio clip, McCoy and Blake Neff characterize Charlie Kirk as trusting the president and praying for success on Iran; Candace Owens rejects use of old Charlie clips to justify the situation.
+Transcript Snippet: this. Take a listen....>> He also always did have trust with the...president and he would look for the...bright side of things. and he was an...American patriot. So he would pray for...our success once that began. And I just...want to say that to offer perspective on...how...>> I think he would have felt about this.
+Anchored Artifacts: A-1066.1
+Related Nodes: N-7, N-1
+Confidence: high
+Investigative Direction: Identify full studio clip source and publication date; distinguish guest framing from host rebuttal in later narration.
+
+---
 

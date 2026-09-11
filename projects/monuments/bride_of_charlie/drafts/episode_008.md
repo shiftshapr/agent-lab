@@ -10,8 +10,8 @@
 - **Transcript SHA-256**: 50556b0953c4ed070732b46a7bc4466451e58920c429bce53867c2d317c65194
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1052, A-1053, A-1054, A-1055, A-1056, A-1057, A-1058, A-1059
-  - Claim Range: C-1086-C-1098
+  - Artifact Families Introduced: A-1052, A-1053, A-1054, A-1055, A-1056, A-1057, A-1058, A-1059, A-1070
+  - Claim Range: C-1086-C-1098, C-1105
   - New Nodes Introduced: N-46, N-47, N-48, N-49, N-50, N-51, N-52, N-53, N-1051, N-1052, N-1053, N-1054, N-1055, N-1056, N-1057, N-1058, N-1059
   - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14, N-39, N-44, N-11, N-1001
 
@@ -160,6 +160,17 @@ Transcript Snippet: everyone except Andrew Kolvet. Yeah,...because yesterday he 
 Confidence: high
 
 ---
+
+**A-1070** Charlie Kirk Private Messages Bundle
+
+**A-1070.1** Charlie Kirk April 7 2018 private messages predicting death / TPUSA wipe-out
+Event Timestamp: 2018-04-07
+Video Timestamp: 19:18–20:13
+*Related: C-1105, N-1, N-7*
+Transcript Snippet: timeline that it's on April 7th that...Charlie predicts his own death and says...that he knows that it is going to be...associated with Turning Point USA. I...just find that point to be very...interesting. And...he says I I if I tell you the true...prophecy I know in my gut it's really...sad. I I hope it's wrong. He goes on to...say, I'm not sure I am going I will live
+Confidence: high
+
+---
 ## 4. Node Register
 
 **N-7** Candace Owens
@@ -167,7 +178,7 @@ Confidence: high
 Node Type: Person
 Host of Bride of Charlie investigation series
 
-*Related: A-1057.1, A-1056.1, C-1094*
+*Related: A-1057.1, A-1056.1, A-1070.1, C-1094, C-1105*
 
 ---
 
@@ -176,7 +187,7 @@ Host of Bride of Charlie investigation series
 Node Type: Person
 Deceased founder of Turning Point USA, subject of investigation
 
-*Related: A-1057.1, A-1058.1, C-1094, C-1095*
+*Related: A-1057.1, A-1058.1, A-1070.1, C-1094, C-1095, C-1105*
 
 ---
 
@@ -593,6 +604,18 @@ Related Nodes: N-52, N-2
 Confidence: medium
 Uncertainty: Analogical argument, not direct claim about Erika
 Investigative Direction: Analyze similarities and differences between the two cases.
+
+---
+
+**C-1105** Charlie Kirk April 7 2018 Messages Predict Death Associated With TPUSA
+
+Claim Timestamp: 19:18
+Claim: On April 7, 2018 Charlie Kirk sent private messages predicting he might not survive and associating any wipe-out with Turning Point USA.
+Transcript Snippet: timeline that it's on April 7th that...Charlie predicts his own death and says...that he knows that it is going to be...associated with Turning Point USA. I...just find that point to be very...interesting. And...he says I I if I tell you the true...prophecy I know in my gut it's really...sad. I I hope it's wrong. He goes on to...say, I'm not sure I am going I will live
+Anchored Artifacts: A-1070.1
+Related Nodes: N-1, N-7
+Confidence: high
+Investigative Direction: Preserve full message thread screenshots and metadata for April 7, 2018.
 
 ## 6. Meme Register
 
