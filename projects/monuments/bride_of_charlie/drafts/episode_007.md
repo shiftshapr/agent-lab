@@ -321,6 +321,7 @@ Erika's clothing company
 
 
 
+
 **C-1075** Erika claims she had self-sustaining business before meeting Charlie
 
 Claim Timestamp: 02:09
@@ -333,15 +334,19 @@ Investigative Direction: Verify business timeline, LLC formation date, and opera
 
 ---
 
+---
+
 **C-1077** Erika portrays herself as sole provider
 
 Claim Timestamp: 02:09
 Claim: Erika describes herself as the sole provider for her children, implying financial hardship despite resources.
-Transcript Snippet: only have one parent by dividing her...time to be a CEO and a chairman. It's...not what she wanted. It's the hand that...she was dealt. That's very relatable,...right? She's now, as she says, and this...is what really frustrates me. She calls...herself the sole provider....Okay? It frustrates me because it what
+Transcript Snippet: >> You know, I get this question, too, of...well, you know, you were a stay-at-home...mom and all this stuff, like that's what...you should go back to doing or something...like that. A lot of people don't realize...that before I met Charlie, I had my own...company, and I still do. And it was one...of those things where
 Anchored Artifacts: A-1043.1
 Related Nodes: N-1, N-2
 Confidence: high
 Investigative Direction: Examine financial resources available to Erika including life insurance and fundraiser proceeds.
+
+---
 
 ---
 
@@ -358,6 +363,8 @@ Investigative Direction: Compare domain registration, LLC filing, and website la
 
 ---
 
+---
+
 **C-1078** Erika had significant financial resources
 
 Claim Timestamp: 11:27
@@ -368,6 +375,8 @@ Related Nodes: N-1, N-2, N-62
 Contradicts: C-1077
 Confidence: high
 Investigative Direction: Verify life insurance policy details and fundraiser totals.
+
+---
 
 ---
 
@@ -383,6 +392,8 @@ Investigative Direction: Verify corporate expansion and office opening.
 
 ---
 
+---
+
 **C-1080** Tyler Bowyer atypically appointed to Board of Regents
 
 Claim Timestamp: 26:44
@@ -392,6 +403,8 @@ Anchored Artifacts: A-1046.1
 Related Nodes: N-13, N-1072
 Confidence: high
 Investigative Direction: Verify appointment process and timeline relative to Romania trip.
+
+---
 
 ---
 
@@ -407,6 +420,8 @@ Investigative Direction: Obtain official ASU catalog from 2012 to verify degree 
 
 ---
 
+---
+
 **C-1082** Jeffrey Epstein donated to Arizona State University
 
 Claim Timestamp: 29:20
@@ -416,6 +431,8 @@ Anchored Artifacts: A-1048.1
 Related Nodes: N-21, N-1072
 Confidence: medium
 Investigative Direction: Verify donation records and timing relative to other events.
+
+---
 
 ---
 
@@ -431,6 +448,8 @@ Investigative Direction: Verify actual duration and purpose of China visit.
 
 ---
 
+---
+
 **C-1084** Erika auditioned for Amazing Race in 2014
 
 Claim Timestamp: 45:19
@@ -443,6 +462,8 @@ Investigative Direction: Verify audition tape and timeline.
 
 ---
 
+---
+
 **C-1085** Erika's date of birth documentation inconsistent
 
 Claim Timestamp: 60:39
@@ -452,3 +473,4 @@ Anchored Artifacts: A-1051.1
 Related Nodes: N-2, N-3, N-1000
 Confidence: medium
 Investigative Direction: Obtain certified copies of all documents containing DOB.
+

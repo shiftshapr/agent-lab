@@ -131,6 +131,15 @@ Confidence: high
 
 ---
 
+**A-1041.2** Erika cannot remember meeting Tyler Bowyer (narration)
+Event Timestamp: Undated in episode source
+Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
+Video Timestamp: 32:59–33:36
+*Related: C-1074, N-2, N-13, N-1022*
+Transcript Snippet: Erika pretending she does not remember...how she met Tyler Bowyer and both of them...changing their stories. Tyler Bowyer...responded to somebody on X and said he...met her. He met Erika um at the Trump...rally, but he maybe forgot. Maybe he had...another long night in Romania, but he...maybe forgot. But he had already given a
+Confidence: medium
+
+---
 ## 4. Node Register
 
 **N-11** Candace Owens
@@ -356,6 +365,7 @@ Erika's humanitarian organization
 
 
 
+
 **C-1060** Erika Attended Cocopah Middle School
 
 Claim Timestamp: 01:14
@@ -365,6 +375,8 @@ Anchored Artifacts: A-1033.1
 Related Nodes: N-2, N-1065
 Confidence: high
 Investigative Direction: Obtain yearbook records to confirm school years.
+
+---
 
 ---
 
@@ -380,6 +392,8 @@ Investigative Direction: Historical facts are presented for context; verificatio
 
 ---
 
+---
+
 **C-1062** Tech International Bio Description
 
 Claim Timestamp: 10:31
@@ -389,6 +403,8 @@ Anchored Artifacts: A-1035.1
 Related Nodes: N-3, N-1067
 Confidence: high
 Investigative Direction: Verify corporate records and defense contracts.
+
+---
 
 ---
 
@@ -404,6 +420,8 @@ Investigative Direction: Verify military deployment records.
 
 ---
 
+---
+
 **C-1064** Nevada Students in Romania 2011
 
 Claim Timestamp: 13:45
@@ -413,6 +431,8 @@ Anchored Artifacts: A-1037.1
 Related Nodes: N-1069, N-1070
 Confidence: high
 Investigative Direction: Verify student exchange records.
+
+---
 
 ---
 
@@ -428,16 +448,6 @@ Investigative Direction: Verify Arizona Senate records.
 
 ---
 
-**C-1074** Erika Cannot Remember Meeting Tyler
-
-Claim Timestamp: 15:15
-Claim: Erika claims she cannot remember how she met Tyler Bowyer, while Tyler has given conflicting accounts.
-Transcript Snippet: I think this is how the world works. I...would I would like to say that. I find...all of this to be remarkably suspicious....The most suspicious element for me is...Erika pretending she does not remember...how she met Tyler Bowyer and both of them...changing their stories. Tyler Bowyer...responded to somebody on X and said he
-Anchored Artifacts: A-1038.1
-Related Nodes: N-2, N-13, N-1022
-Confidence: medium
-Investigative Direction: Obtain direct testimony from both parties.
-
 ---
 
 **C-1066** Erika Enrolls at ASU After Tyler Elected
@@ -449,6 +459,8 @@ Anchored Artifacts: A-1038.1
 Related Nodes: N-2, N-13, N-1, N-1072
 Confidence: medium
 Investigative Direction: Obtain enrollment records and compare timelines.
+
+---
 
 ---
 
@@ -464,6 +476,8 @@ Investigative Direction: Verify military service records.
 
 ---
 
+---
+
 **C-1068** Robert Kolvet Afghanistan Service
 
 Claim Timestamp: 19:49
@@ -473,6 +487,8 @@ Anchored Artifacts: A-1039.1
 Related Nodes: N-25, N-26, N-1069
 Confidence: high
 Investigative Direction: Verify military service records.
+
+---
 
 ---
 
@@ -488,6 +504,8 @@ Investigative Direction: Verify podcast content and military logistics records.
 
 ---
 
+---
+
 **C-1070** Dennis Frantzve Showed Erika Romania Base
 
 Claim Timestamp: 21:50
@@ -497,6 +515,8 @@ Anchored Artifacts: A-1040.1
 Related Nodes: N-2, N-23
 Confidence: high
 Investigative Direction: Verify travel records and base access.
+
+---
 
 ---
 
@@ -512,6 +532,22 @@ Investigative Direction: Verify pageant competition records.
 
 ---
 
+---
+
+**C-1074** Erika Cannot Remember Meeting Tyler
+
+Claim Timestamp: 32:59
+Claim: Erika claims she cannot remember how she met Tyler Bowyer, while Tyler has given conflicting accounts.
+Transcript Snippet: Erika pretending she does not remember...how she met Tyler Bowyer and both of them...changing their stories. Tyler Bowyer...responded to somebody on X and said he...met her. He met Erika um at the Trump...rally, but he maybe forgot. Maybe he had...another long night in Romania, but he...maybe forgot. But he had already given a
+Anchored Artifacts: A-1041.2
+Related Nodes: N-2, N-13, N-1022
+Confidence: medium
+Investigative Direction: Obtain direct testimony from both parties.
+
+---
+
+---
+
 **C-1072** Justin Strife at Kirkwood Shooting
 
 Claim Timestamp: 42:56
@@ -524,11 +560,13 @@ Investigative Direction: Verify news footage and Strife's location at that time.
 
 ---
 
+---
+
 **C-1073** Turning Point Proximity to Shootings
 
 Claim Timestamp: 42:56
 Claim: Multiple Turning Point affiliates have personal connections to various mass shootings including Aurora, Thousand Oaks, and Vegas.
-Transcript Snippet: you on the topic of Erika and that...shooting out in Aurora that in...particular, um, she wasn't the only one....A lot of people who were surrounding...Charlie had some proximity, some...personal story that they could share...relating to a shooting of the past....Okay, so we already showed you Erika,
+Transcript Snippet: listen....>> Sirens whale outside Kirkwood City Hall...in Missouri, the building that usually...houses mundane civic meetings became the...scene of a rampage Thursday night after...a gunman stormed the building and opened...fire. Two police officers and three city...officials were killed. The mayor was
 Anchored Artifacts: A-1042.1
 Related Nodes: N-61, N-1
 Confidence: medium

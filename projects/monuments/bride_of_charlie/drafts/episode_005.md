@@ -155,6 +155,42 @@ Confidence: high
 
 ---
 
+**A-1029.3** Radford Eastern Europe gender-research document (1990)
+Event Timestamp: 1990
+Video Timestamp: 02:10–02:39
+*Related: C-1056, N-12, N-1060*
+Transcript Snippet: gender issues in 1990. Take a look at...this. Wow. According to Frantzve, the...final big project of the semester, this...is at Radford, will be taking a group of...students to Eastern Europe. We will...research the expectations of men and...women as work life and day-to-day life...change after the wall came down. Really,
+Confidence: medium
+
+---
+
+**A-1026.5** Table Four LLC filing (Erika and Tyler Sanford, 2010)
+Event Timestamp: 2010
+Video Timestamp: 26:38–26:55
+*Related: C-1058, N-2, N-58*
+Transcript Snippet: Tyler Sanford. It's called Table Four...LLC. Tyler Sanford will be featured down...the line as the actor in her My Kind of...Crazy music video that she's going to...film in 2013. I should also mention that...he is a catcher uh for the Los Angeles...Los Angeles Angels. Like like I've said...too many times, Erika is always dating
+Confidence: high
+
+---
+
+**A-1031.2** Erika account — Charlie Kirk Israel airport meeting
+Event Timestamp: Undated in episode source
+Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
+Video Timestamp: 36:06–36:28
+*Related: C-1052, N-1, N-2, N-3*
+Transcript Snippet: pilgrimage, I guess, and there Charlie...was at the airport in Israel. You saw...him. Your mom said go up to him. She's a...pusher, right? Lori's a pusher. I always...thought it was so strange how you never...mentioned that I was at the airport with...Charlie. Just thought that was so weird....You never said that. I saw Charlie with
+Confidence: medium
+
+---
+
+**A-1031.3** Tyler Bowyer Romania / Farnsworth connection (narration)
+Event Timestamp: 2010
+Video Timestamp: 55:14–55:32
+*Related: C-1055, N-13, N-1060*
+Transcript Snippet: guy. Tyler Bowyer is drinking in Romania,...enjoying the models, the ladies. Who was...the person in Romanian parliament that...he went out to see? How does that...happen? Tyler was in college. Who set...that up? Could it have been a...Farnsworth? Very close with that family,...aren't you? They were in office. H I'll
+Confidence: low
+
+---
 ## 4. Node Register
 
 **N-1** Charlie Kirk
@@ -351,6 +387,24 @@ Company associated with Lori Frantzve receiving $2.4M from Army National Guard
 ## 5. Claim Register
 
 
+
+
+**C-1056** Dr. Jerry Frantzve conducted research in Eastern Europe 1990
+
+Claim Timestamp: 02:10
+Claim: Dr. Jerry Frantzve conducted research on gender issues in Eastern Europe in 1990 with a group of students from Radford.
+Transcript Snippet: gender issues in 1990. Take a look at...this. Wow. According to Frantzve, the...final big project of the semester, this...is at Radford, will be taking a group of...students to Eastern Europe. We will...research the expectations of men and...women as work life and day-to-day life...change after the wall came down. Really,
+Anchored Artifacts: A-1029.3
+Related Nodes: N-12, N-1060
+Confidence: medium
+Investigative Direction: Obtain Radford University records of Frantzve's research trips.
+
+---
+
+---
+
+---
+
 **C-1034** Erika attended Walnut Corner Daycare in 1991
 
 Claim Timestamp: 06:53
@@ -360,6 +414,10 @@ Anchored Artifacts: A-1024.1
 Related Nodes: N-2, N-1031
 Confidence: high
 Investigative Direction: Verify daycare enrollment records and Child Care Visions corporate ownership.
+
+---
+
+---
 
 ---
 
@@ -375,6 +433,9 @@ Investigative Direction: Obtain enrollment records from Tesseract for 1995-1998 
 
 ---
 
+---
+
+---
 
 **C-1057** Nancy Gerard Tesseract principal had military ties
 
@@ -385,6 +446,10 @@ Anchored Artifacts: A-1025.1
 Related Nodes: N-57, N-1031, N-2
 Confidence: medium
 Investigative Direction: Verify Nancy Gerard's employment at Tesseract and military background.
+
+---
+
+---
 
 ---
 
@@ -400,6 +465,10 @@ Investigative Direction: Search Massachusetts marriage records for 1995.
 
 ---
 
+---
+
+---
+
 **C-1036** Kent and Lori filed for divorce in 1998
 
 Claim Timestamp: 07:51
@@ -409,6 +478,10 @@ Anchored Artifacts: A-1025.1
 Related Nodes: N-3, N-4, N-2
 Confidence: high
 Investigative Direction: Obtain divorce filing documents from Hamilton County, Ohio courts.
+
+---
+
+---
 
 ---
 
@@ -424,6 +497,10 @@ Investigative Direction: Search school records in Arizona and Ohio for 2000-2002
 
 ---
 
+---
+
+---
+
 **C-1039** E3 Tech participated in Operation Enduring Freedom
 
 Claim Timestamp: 09:45
@@ -433,6 +510,10 @@ Anchored Artifacts: A-1027.1
 Related Nodes: N-3, N-1058, N-1063
 Confidence: medium
 Investigative Direction: Verify E3 Tech website claims and government contract records.
+
+---
+
+---
 
 ---
 
@@ -448,6 +529,10 @@ Investigative Direction: Find award documentation and verify recipient.
 
 ---
 
+---
+
+---
+
 **C-1037** Lori formed multiple corporations 1999-2003
 
 Claim Timestamp: 10:56
@@ -460,15 +545,7 @@ Investigative Direction: Verify corporate filings through Arizona and Delaware s
 
 ---
 
-**C-1058** Erika formed Table Four LLC with Tyler Sanford in 2010
-
-Claim Timestamp: 12:07
-Claim: Erika Kirk formed Table Four LLC with her then-boyfriend Tyler Sanford in 2010.
-Transcript Snippet: and you're creating tech for the DHS,...you're not just doing this from like...your basement. Is that a fair...assumption?...I don't know....We um also know that in 2010, Erika...forms an LLC with her then boyfriend...Tyler Sanford. It's called Table Four
-Anchored Artifacts: A-1026.3
-Related Nodes: N-2, N-58
-Confidence: high
-Investigative Direction: Obtain Table Four LLC filing documents from Arizona.
+---
 
 ---
 
@@ -484,6 +561,10 @@ Investigative Direction: Obtain Army National Guard budget disclosure documents 
 
 ---
 
+---
+
+---
+
 **C-1042** Lori receiving money while Erika was missing in 2008
 
 Claim Timestamp: 17:50
@@ -493,6 +574,10 @@ Anchored Artifacts: A-1027.2
 Related Nodes: N-2, N-3, N-1058, N-1064
 Confidence: high
 Investigative Direction: Cross-reference Erika's whereabouts in 2008 with Lori's financial records.
+
+---
+
+---
 
 ---
 
@@ -508,6 +593,10 @@ Investigative Direction: Verify charity registration and financial disclosures.
 
 ---
 
+---
+
+---
+
 **C-1044** Romania agreed to US military base in October 2009
 
 Claim Timestamp: 19:23
@@ -517,18 +606,6 @@ Anchored Artifacts: A-1029.1
 Related Nodes: N-1060
 Confidence: high
 Investigative Direction: Verify Romanian government agreement documents from October 2009.
-
----
-
-**C-1056** Dr. Jerry Frantzve conducted research in Eastern Europe 1990
-
-Claim Timestamp: 19:23
-Claim: Dr. Jerry Frantzve conducted research on gender issues in Eastern Europe in 1990 with a group of students from Radford.
-Transcript Snippet: center for the beehive. By the way,...under the guise of exploring issues...related to feminism and gender studies,...Jerry Frantzve travels. She travels abroad...a lot. In particularly, in particular,...pardon, she travels to Eastern Europe....She did this with a team to research...gender issues in 1990. Take a look at
-Anchored Artifacts: A-1029.1, A-1029.2
-Related Nodes: N-12, N-1060
-Confidence: medium
-Investigative Direction: Obtain Radford University records of Frantzve's research trips.
 
 ---
 
@@ -544,6 +621,10 @@ Investigative Direction: Cross-reference Epstein email dates with base agreement
 
 ---
 
+---
+
+---
+
 **C-1047** Epstein emails show Romania interest starting 2009
 
 Claim Timestamp: 22:28
@@ -553,6 +634,10 @@ Anchored Artifacts: A-1030.1
 Related Nodes: N-21, N-1060
 Confidence: medium
 Investigative Direction: Obtain and verify Epstein email production from 2009.
+
+---
+
+---
 
 ---
 
@@ -568,6 +653,26 @@ Investigative Direction: Obtain Luminarius LLC filing documents from Arizona cor
 
 ---
 
+---
+
+---
+
+**C-1058** Erika formed Table Four LLC with Tyler Sanford in 2010
+
+Claim Timestamp: 26:38
+Claim: Erika Kirk formed Table Four LLC with her then-boyfriend Tyler Sanford in 2010.
+Transcript Snippet: Tyler Sanford. It's called Table Four...LLC. Tyler Sanford will be featured down...the line as the actor in her My Kind of...Crazy music video that she's going to...film in 2013. I should also mention that...he is a catcher uh for the Los Angeles...Los Angeles Angels. Like like I've said...too many times, Erika is always dating
+Anchored Artifacts: A-1026.5
+Related Nodes: N-2, N-58
+Confidence: high
+Investigative Direction: Obtain Table Four LLC filing documents from Arizona.
+
+---
+
+---
+
+---
+
 **C-1046** Black Sea Rotational Force 10 established base in May 2010
 
 Claim Timestamp: 27:42
@@ -580,40 +685,19 @@ Investigative Direction: Verify military deployment records for Black Sea Rotati
 
 ---
 
+---
+
+---
+
 **C-1048** Tyler Bowyer was in Romania in 2010
 
 Claim Timestamp: 29:38
 Claim: Tyler Bowyer was in Romania from May through summer 2010 working with a Romanian senator.
-Transcript Snippet: the bottom of my inbox and I was saying,..."I know that he went to Romania and was...trying to figure out what he was doing."...And they were like, "Oh, I actually...talked to him about that." They were...super friendly about it. I talked to him...about that. And here's the conversation....Tyler writes, "I went to Romania to do
+Transcript Snippet: the bottom of my inbox and I was saying,..."I know that he went to Romania and was...trying to figure out what he was doing."...And they were like, "Oh, I actually...talked to him about that." They were...super friendly about it. I talked to him...about that. And here's the conversation....Tyler writes, "I went to Romania to do...some work with a senator in the...parliament there." And then he says,..."And he was friends, meaning the senator...in Romania was friends with this guy
 Anchored Artifacts: A-1031.1
 Related Nodes: N-13, N-1060
 Confidence: medium
 Investigative Direction: Verify Tyler Bowyer's travel records and activities in Romania 2010.
-
----
-
-**C-1052** Charlie met Erika at Israel airport
-
-Claim Timestamp: 29:38
-Claim: Charlie Kirk met Erika at an airport in Israel; her mother Lori told her to go up to him.
-Transcript Snippet: in the same stuff, charter schools, and...then you and Tyler are going to graduate...in the same year. It's all so crazy. I...need to know. Tell me what happens. What...happened with Turning Point USA? You...just knew, got lucky. We're on a...pilgrimage, I guess, and there Charlie...was at the airport in Israel. You saw
-Anchored Artifacts: A-1031.1
-Related Nodes: N-1, N-2, N-3
-Confidence: medium
-Uncertainty: Claim based on Erika's account; no independent verification presented
-Investigative Direction: Verify travel records and witnesses to this meeting.
-
----
-
-**C-1055** Tyler Bowyer connected to Farnsworth family
-
-Claim Timestamp: 29:38
-Claim: Tyler Bowyer is connected to the Farnsworth family who were in office; question raised about who set up his Romania trip.
-Transcript Snippet: Bowyer, he's an important guy. Important...guy. Tyler Bowyer is drinking in Romania,...enjoying the models, the ladies. Who was...the person in Romanian parliament that...he went out to see? How does that...happen? Tyler was in college. Who set...that up? Could it have been a...Farnsworth? Very close with that family,
-Anchored Artifacts: A-1031.1
-Related Nodes: N-13
-Confidence: low
-Investigative Direction: Investigate Farnsworth family connections to Tyler Bowyer and Romania.
 
 ---
 
@@ -629,6 +713,10 @@ Investigative Direction: Identify modeling agency owner and verify trip details.
 
 ---
 
+---
+
+---
+
 **C-1053** Erika cannot explain how she met Tyler Bowyer
 
 Claim Timestamp: 31:28
@@ -638,6 +726,27 @@ Anchored Artifacts: A-1031.1
 Related Nodes: N-2, N-13
 Confidence: medium
 Investigative Direction: Obtain Erika's records of how she met Tyler Bowyer.
+
+---
+
+---
+
+---
+
+**C-1052** Charlie met Erika at Israel airport
+
+Claim Timestamp: 36:06
+Claim: Charlie Kirk met Erika at an airport in Israel; her mother Lori told her to go up to him.
+Transcript Snippet: pilgrimage, I guess, and there Charlie...was at the airport in Israel. You saw...him. Your mom said go up to him. She's a...pusher, right? Lori's a pusher. I always...thought it was so strange how you never...mentioned that I was at the airport with...Charlie. Just thought that was so weird....You never said that. I saw Charlie with
+Anchored Artifacts: A-1031.2
+Related Nodes: N-1, N-2, N-3
+Confidence: medium
+Uncertainty: Claim based on Erika's account; no independent verification presented
+Investigative Direction: Verify travel records and witnesses to this meeting.
+
+---
+
+---
 
 ---
 
@@ -653,6 +762,10 @@ Investigative Direction: Obtain Kentucky bar disciplinary records for 2009.
 
 ---
 
+---
+
+---
+
 **C-1051** Rick engaged in mortgage fraud and stock transfer scheme
 
 Claim Timestamp: 37:34
@@ -662,3 +775,20 @@ Anchored Artifacts: A-1032.1
 Related Nodes: N-16, N-1061
 Confidence: high
 Investigative Direction: Obtain Kentucky bar investigation documents and court records.
+
+---
+
+**C-1055** Tyler Bowyer connected to Farnsworth family
+
+Claim Timestamp: 55:14
+Claim: Tyler Bowyer is connected to the Farnsworth family who were in office; question raised about who set up his Romania trip.
+Transcript Snippet: guy. Tyler Bowyer is drinking in Romania,...enjoying the models, the ladies. Who was...the person in Romanian parliament that...he went out to see? How does that...happen? Tyler was in college. Who set...that up? Could it have been a...Farnsworth? Very close with that family,...aren't you? They were in office. H I'll
+Anchored Artifacts: A-1031.3
+Related Nodes: N-13
+Confidence: low
+Investigative Direction: Investigate Farnsworth family connections to Tyler Bowyer and Romania.
+
+---
+
+---
+

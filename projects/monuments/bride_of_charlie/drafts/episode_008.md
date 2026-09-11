@@ -10,7 +10,7 @@
 - **Transcript SHA-256**: 9651d49153330729c4619107b09ab183520b1dc47ffd64de491b0defd0858ffb
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1052, A-1053, A-1054, A-1055, A-1056, A-1057, A-1058
+  - Artifact Families Introduced: A-1052, A-1053, A-1054, A-1055, A-1056, A-1057, A-1058, A-1059
   - Claim Range: C-1086-C-1098
   - New Nodes Introduced: N-64, N-66, N-67, N-68, N-69, N-70, N-71, N-72, N-1077, N-1078, N-1079, N-1080, N-1081, N-1082, N-1083, N-1084, N-1085
   - Reused Nodes Appearing: N-1, N-2, N-3, N-11, N-13, N-26, N-36, N-1030
@@ -63,7 +63,7 @@ Confidence: high
 Event Timestamp: 2015-11
 Video Timestamp: 08:41-08:59
 Transcript Snippet: establishes G-Tech Industries LLC. I...know you're going to say, "What is What...does it do?"...Um, you know, it's Lori, so it's like...this she's doing this whole EMP thing...and she's getting money and she's saying...this is the threat and she's working...with people that she knows and she's
-*Related: C-1090, N-3, N-1079*
+*Related: C-1090, C-1092, N-3, N-1079*
 Confidence: high
 
 **A-1054.2** Feed Me Incorporated formation (December 31, 2018)
@@ -140,6 +140,26 @@ Confidence: medium
 
 ---
 
+**A-1054.4** Erika Bible in 365 founding claim (social media)
+Event Timestamp: 2016
+Video Timestamp: 10:54–11:12
+*Related: C-1092, N-2, N-1083*
+Transcript Snippet: future, she's going to claim that this...is the year that she launched Bible in...365....On a future post she says in 2016, I...started Bible in 365 in my New York City...apartment. That is objectively untrue...according to corporate filings, okay?...That just did not happen, but she
+Confidence: medium
+
+---
+
+**A-1059** Andrew Kolvet Interview Clip
+
+**A-1059.1** Andrew Kolvet on Dave Rubin show — Erika spotlight claim
+Event Timestamp: Undated in episode source
+Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
+Video Timestamp: 00:03–00:28
+*Related: C-1098, N-2, N-26, N-1*
+Transcript Snippet: everyone except Andrew Kolvet. Yeah,...because yesterday he went on to Dave...Rubin show...and he said that Erika was not seeking...the spotlight. Take a listen to this....Erika has always been tremendous and she...never sought the limelight. She was...always very happy to sort of be doing
+Confidence: high
+
+---
 ## 4. Node Register
 
 **N-11** Candace Owens
@@ -165,7 +185,7 @@ Deceased founder of Turning Point USA, subject of investigation
 Node Type: Person
 Primary subject - Charlie Kirk's widow, claims to have met Charlie in 2018
 
-*Related: A-1054.1, A-1054.2, A-1055.1, A-1057.1, A-1058.1, C-1089, C-1091, C-1092, C-1093, C-1094, C-1095, C-1086, C-1097, C-1098*
+*Related: A-1054.2, A-1054.4, A-1055.1, A-1057.1, A-1058.1, A-1059.1, C-1086, C-1089, C-1091, C-1092, C-1093, C-1094, C-1095, C-1097, C-1098*
 
 ---
 
@@ -221,7 +241,7 @@ Erika's ex-boyfriend from 2015
 Node Type: Person
 Guest on Dave Rubin show who claimed Erika never sought spotlight
 
-*Related: C-1098*
+*Related: A-1059.1, C-1098*
 
 ---
 
@@ -392,6 +412,21 @@ Where Erika lived in 2016-2018 while working at Next Model Management
 
 
 
+
+**C-1098** Andrew Kolvet claimed Erika never sought spotlight
+
+Claim Timestamp: 00:03
+Claim: Andrew Kolvet stated on the Dave Rubin show that Erika never sought the limelight and was always supportive of Charlie.
+Transcript Snippet: everyone except Andrew Kolvet. Yeah,...because yesterday he went on to Dave...Rubin show...and he said that Erika was not seeking...the spotlight. Take a listen to this....Erika has always been tremendous and she...never sought the limelight. She was...always very happy to sort of be doing
+Anchored Artifacts: A-1059.1
+Related Nodes: N-2, N-26, N-1
+Confidence: high
+Investigative Direction: Obtain the full Dave Rubin interview with Andrew Kolvet.
+
+---
+
+---
+
 **C-1086** Erika attended Notre Dame Prep for high school
 
 Claim Timestamp: 03:30-03:36
@@ -401,6 +436,8 @@ Anchored Artifacts: A-1052.1, A-1052.2
 Related Nodes: N-2, N-66, N-1077, N-1078
 Confidence: high
 Investigative Direction: Obtain school enrollment records to verify Erika's attendance at Notre Dame Prep.
+
+---
 
 ---
 
@@ -416,6 +453,8 @@ Investigative Direction: Obtain court records from the 2003 hit-and-run case to 
 
 ---
 
+---
+
 **C-1088** Bishop O'Brien investigated for covering up priest abuse
 
 Claim Timestamp: 05:29-06:07
@@ -425,6 +464,8 @@ Anchored Artifacts: A-1053.2
 Related Nodes: N-66, N-1078, N-1084
 Confidence: high
 Investigative Direction: Obtain grand jury investigation records from Maricopa County.
+
+---
 
 ---
 
@@ -440,28 +481,20 @@ Investigative Direction: Obtain corporate filings and contract records for G-Tec
 
 ---
 
-**C-1098** Andrew Kolvet claimed Erika never sought spotlight
-
-Claim Timestamp: 08:41
-Claim: Andrew Kolvet stated on the Dave Rubin show that Erika never sought the limelight and was always supportive of Charlie.
-Transcript Snippet: All right, you guys, happy Wednesday to...everyone except Andrew Kolvet. Yeah,...because yesterday he went on to Dave...Rubin show...and he said that Erika was not seeking...the spotlight. Take a listen to this....Erika has always been tremendous and she...never sought the limelight. She was
-Anchored Artifacts: A-1054.1, A-1054.2, A-1055.1, A-1057.1, A-1058.1
-Related Nodes: N-2, N-26, N-1
-Confidence: high
-Investigative Direction: Obtain the full Dave Rubin interview with Andrew Kolvet.
-
 ---
 
 **C-1092** Erika claimed to launch Bible in 365 in 2016
 
 Claim Timestamp: 10:54-11:12
 Claim: Erika claims she started Bible in 365 in 2016 in her NYC apartment, but corporate filings do not support this.
-Transcript Snippet: You know, in the past she's made...statements that she was a a casting...director. Casting directors are not the...same as...location scouts. So, this is kind of the...Jane of all trades thing that she is...consistently selling. Later on in the...future, she's going to claim that this
-Anchored Artifacts: A-1054.1
+Transcript Snippet: future, she's going to claim that this...is the year that she launched Bible in...365....On a future post she says in 2016, I...started Bible in 365 in my New York City...apartment. That is objectively untrue...according to corporate filings, okay?...That just did not happen, but she
+Anchored Artifacts: A-1054.4
 Related Nodes: N-2, N-1083, N-1085
 Confidence: medium
 Uncertainty: No corporate filing artifact shown in episode
 Investigative Direction: Obtain corporate filings for Bible in 365 to verify founding date.
+
+---
 
 ---
 
@@ -477,15 +510,19 @@ Investigative Direction: Obtain a copy of the documentary and verify Erika's rol
 
 ---
 
+---
+
 **C-1089** Erika's financial situation unclear 2015-2018
 
 Claim Timestamp: 23:01
 Claim: Between 2015-2018, Erika was 27-30 years old with no clear employment, yet lived in NYC and traveled internationally.
-Transcript Snippet: land upon these things uh, nonstop....Now, we're going to jump right back into...our Erika timeline cuz woo,...boy, do I have something to share with...you regarding 2018. Let's jump in where...we left off. So, in 2015, Erika is 27...years old, okay? It is entirely unclear...what she is doing for work. And it's
+Transcript Snippet: somehow becomes a licensed real estate...agent in New York and is immediately...employed by Corcoran Real Estate Group....And we went back and people have reached...out to us. Erika, it looks like did a...total...of...three possible rentals under somebody
 Anchored Artifacts: A-1058.1
 Related Nodes: N-2, N-36, N-64, N-32, N-1081
 Confidence: high
 Investigative Direction: Obtain employment records and financial documents to verify income sources.
+
+---
 
 ---
 
@@ -498,6 +535,8 @@ Anchored Artifacts: A-1058.1
 Related Nodes: N-2, N-13, N-1030, N-1085
 Confidence: medium
 Investigative Direction: Obtain real estate licensing records from New York State.
+
+---
 
 ---
 
@@ -514,6 +553,8 @@ Investigative Direction: Obtain evidence from the New York woman who provided pr
 
 ---
 
+---
+
 **C-1095** Feed Me Incorporated formed as Erika started dating Charlie
 
 Claim Timestamp: 28:35-29:06
@@ -523,6 +564,8 @@ Anchored Artifacts: A-1054.2
 Related Nodes: N-1, N-2, N-3, N-13, N-1080, N-1030
 Confidence: high
 Investigative Direction: Obtain corporate records for Feed Me Incorporated and Superfeed Technologies to verify board membership and timing.
+
+---
 
 ---
 
@@ -538,11 +581,13 @@ Investigative Direction: Compare Matt Walsh's public statements on both cases.
 
 ---
 
+---
+
 **C-1097** Kouri Richins case used as parallel to Erika situation
 
 Claim Timestamp: 33:14
 Claim: The host argues that grief behavior, financial motives, and circumstantial evidence in the Kouri Richins case parallel concerns about Erika's situation after Charlie's death.
-Transcript Snippet: believe should be hanged for poisoning...her husband on the basis of...circumstantial evidence, would probably...today be considered a brave single...mother trying to clean up the mess left...behind by her husband's untimely death....And so what I would say is here is what...I know. Grieving widows do not lie about
+Transcript Snippet: regarding Kouri Richins,...a New York Post article that said,..."Grief author Kouri Richins found guilty...of fatally poisoning her husband for his...$4 million estate." And Matt Walsh...comments and writes, "There's no good...moral reason why she should not simply...be taken outside the morning after her
 Anchored Artifacts: A-1056.1
 Related Nodes: N-71, N-2
 Confidence: medium
@@ -591,3 +636,4 @@ Confidence: medium
 Uncertainty: Opinion presented as fact, not evidence-backed claim
 
 ---
+Claim Timestamp: 33:14
