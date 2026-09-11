@@ -48,7 +48,7 @@ Confidence: high
 **A-1035.1** Lori Frantzve bio from Everyday Heroes website
 Event Timestamp: circa 2010
 Video Timestamp: 10:31-11:59
-*Related: C-1062, N-3, N-1042*
+*Related: C-1062, N-3, N-1042, N-1048*
 Transcript Snippet: read that second paragraph. It says that...Lori for the past 12 years of her career...has been focused in the pioneering...research and development on disruptive...cyber technologies for applications...in relationship to the way humans think...and the importance of assessing what...happens if type technologies truly
 Confidence: high
 
@@ -357,7 +357,7 @@ Node Type: Organization
 Organization Kind: nonprofit
 Erika's humanitarian organization
 
-*Related: A-1035.1*
+*Related: A-1035.1, C-1062*
 
 ---
 
@@ -400,7 +400,7 @@ Claim Timestamp: 10:31
 Claim: Lori Frantzve's company Tech International works on cyber technologies for defense and infrastructure.
 Transcript Snippet: Lori. It's up. It was up on the Everyday...Heroes website. She had a bio that has...since been pulled down, but they go into...detail regarding what Aztec does. And I...want you to follow along with me. We'll...read this together. Okay. I'm going to...read that second paragraph. It says that...Lori for the past 12 years of her career
 Anchored Artifacts: A-1035.1
-Related Nodes: N-3, N-1042
+Related Nodes: N-3, N-1042, N-1048
 Confidence: high
 Investigative Direction: Verify corporate records and defense contracts.
 

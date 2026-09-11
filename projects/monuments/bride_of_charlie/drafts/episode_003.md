@@ -116,7 +116,7 @@ Confidence: high
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 00:30–01:05
-*Related: C-1016, N-3, N-1018, N-14*
+*Related: C-1016, N-3, N-1018, N-14, N-1020*
 Transcript Snippet: Not important for today. Lori Frantzve,...despite being ill, has recently been put...on the board of Super Feed Technologies...alongside Turning Point Actions COO...Tyler Bowyer. Shady dude. They're...effectively then business partners. They...have been for a while. Actually, Lori...was at first a director over at
 Confidence: high
 
@@ -332,7 +332,7 @@ Claim Timestamp: 00:30
 Claim: Lori Frantzve was recently put on the board of Super Feed Technologies alongside Turning Point Action COO Tyler Bowyer.
 Transcript Snippet: Now, as a part of the public...psychological campaign, Erika has been...curating videos to remind us that her...mother is very ill. I don't dispute...that. I do dispute that Erika was with...her on September 10th receiving a...treatment, but we'll get to that later....Not important for today. Lori Frantzve,
 Anchored Artifacts: A-1018.1
-Related Nodes: N-3, N-1018, N-14
+Related Nodes: N-3, N-1018, N-14, N-1020
 Confidence: high
 Investigative Direction: Verify corporate filings and board meeting minutes.
 

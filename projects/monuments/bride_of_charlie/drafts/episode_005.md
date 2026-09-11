@@ -99,7 +99,7 @@ Confidence: high
 Event Timestamp: 2009-04
 Video Timestamp: 18:24
 Transcript Snippet: establish Everyday Heroes Like You in...April. In her filing, she will claim...that it is a faithbased organization...that is raising funds and developing...programs for vulnerable children. Okay,...they publish this on initially on July...2nd of 2009. Okay, Lori seems a bit...busy. She's already working with the
-*Related: C-1043, N-3, N-1032*
+*Related: C-1043, N-3, N-1032, N-1048*
 Confidence: high
 
 ---
@@ -158,7 +158,7 @@ Confidence: high
 **A-1029.3** Radford Eastern Europe gender-research document (1990)
 Event Timestamp: 1990
 Video Timestamp: 02:10–02:39
-*Related: C-1056, N-13, N-1033*
+*Related: C-1056, N-13, N-1016, N-1033*
 Transcript Snippet: gender issues in 1990. Take a look at...this. Wow. According to Frantzve, the...final big project of the semester, this...is at Radford, will be taking a group of...students to Eastern Europe. We will...research the expectations of men and...women as work life and day-to-day life...change after the wall came down. Really,
 Confidence: medium
 
@@ -395,7 +395,7 @@ Claim Timestamp: 02:10
 Claim: Dr. Jerry Frantzve conducted research on gender issues in Eastern Europe in 1990 with a group of students from Radford.
 Transcript Snippet: gender issues in 1990. Take a look at...this. Wow. According to Frantzve, the...final big project of the semester, this...is at Radford, will be taking a group of...students to Eastern Europe. We will...research the expectations of men and...women as work life and day-to-day life...change after the wall came down. Really,
 Anchored Artifacts: A-1029.3
-Related Nodes: N-13, N-1033
+Related Nodes: N-13, N-1016, N-1033
 Confidence: medium
 Investigative Direction: Obtain Radford University records of Frantzve's research trips.
 
@@ -587,7 +587,7 @@ Claim Timestamp: 18:24
 Claim: Lori Frantzve established Everyday Heroes Like You in April 2009, claiming it was a faith-based organization raising funds for vulnerable children.
 Transcript Snippet: crucial year. Things are going to start...to get spicy. Okay, so remember going...into this, Lori's already working with...the United States military. She's...receiving millions. Do not forget that...in 2009, Lori Frantzve is going to...establish Everyday Heroes Like You in...April. In her filing, she will claim
 Anchored Artifacts: A-1028.1
-Related Nodes: N-3, N-1032
+Related Nodes: N-3, N-1032, N-1048
 Confidence: high
 Investigative Direction: Verify charity registration and financial disclosures.
 

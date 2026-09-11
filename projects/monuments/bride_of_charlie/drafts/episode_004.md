@@ -72,7 +72,7 @@ Confidence: high
 **A-1020.1** Erika at Universal Studios with Uncle Rick
 Event Timestamp: December 1, 2018
 Video Timestamp: 14:46–15:04
-*Related: C-1028, N-2, N-26, N-28*
+*Related: C-1028, N-2, N-26, N-28, N-1026*
 Transcript Snippet: down to Universal Studios. You should...know that that's where Rick works. And...Erika documented that trip. She was with...her mom. She's always with Lori. Lori's...always in the background. And here is...it's going to be very quick here because...it's Instagram stories that she has...saved, but you're going to see Uncle
 Confidence: high
 
@@ -117,7 +117,7 @@ Confidence: high
 
 **A-1023.1** Charlie Kirk Podcast - Lombardi Family Claim
 Video Timestamp: 36:45–37:05
-*Related: C-1029, N-1, N-3, N-31*
+*Related: C-1029, N-1, N-3, N-27, N-31*
 Transcript Snippet: >> The Packers won the first Super Bowl....You know, my my wife Erika is from the...Lombardi family....>> Really? Is that right?...>> Seriously?...>> Yeah....>> That's Royal Her mom's a Lombardi....Literally, isn't that insane?
 Confidence: high
 
@@ -382,7 +382,7 @@ Claim Timestamp: 14:46
 Claim: Erika has a documented close relationship with Rick Erpenbeck, whose brother Bill served 20+ years for financial fraud and whose father was involved in kidnapping plot.
 Transcript Snippet: they've been around you your whole life,...that's my uncle Rick. But that's the...reality. If her Instagram is too...believed, uh if her Instagram account is...to be believed, then you should know...that she's very close to this person...because on December 1st, 2018, she went...down to Universal Studios. You should
 Anchored Artifacts: A-1020.1
-Related Nodes: N-2, N-18, N-20, N-28
+Related Nodes: N-2, N-18, N-20, N-28, N-1026
 Confidence: high
 Investigative Direction: Verify nature of relationship and whether Erika was aware of criminal histories.
 
@@ -410,7 +410,7 @@ Claim Timestamp: 36:48
 Claim: Charlie Kirk explicitly states on his podcast that Erika's mother is a direct descendant of Vince Lombardi.
 Transcript Snippet: No, I'd have to hear Charlie say that...myself. That can't be right. Well, sure...enough, we went to investigate and...Charlie did communicate that very fact....Take a listen....>> The Packers won the first Super Bowl....You know, my my wife Erika is from the...Lombardi family.
 Anchored Artifacts: A-1023.1, A-1021.1
-Related Nodes: N-1, N-3, N-31, N-1025
+Related Nodes: N-1, N-3, N-27, N-31, N-1025
 Confidence: high
 Investigative Direction: Verify genealogical records to confirm or refute Lombardi lineage claim.
 
