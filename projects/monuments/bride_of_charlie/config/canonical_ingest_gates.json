@@ -3,23 +3,23 @@
   "description": "Pre-ingest alias/merge and skip rules for canonical nodes.json entries. No Neo4j writes; consumed by assign_ids and neo4j_ingest.",
   "alias_merge": [
     {
-      "source_node_id": "N-17",
+      "source_node_id": "legacy-N-17",
       "source_name": "Lori Abbis Stanley",
       "target_node_id": "N-3",
       "target_name": "Lori Frantzve",
       "action": "merge_into",
       "add_alias_on_target": "Lori Abbis Stanley",
-      "note": "Do not mint a separate Person for Lori Abbis Stanley; alias of N-3."
+      "note": "Do not mint a separate Person for Lori Abbis Stanley; alias of N-3 (retired pre-renumber slot N-17)."
     }
   ],
   "skip_ingest": [
     {
-      "node_id": "N-31",
+      "node_id": "legacy-N-31",
       "canonical_name": "Arizona State University",
       "stale_type": "person",
-      "superseded_by": "N-1072",
+      "superseded_by": "N-1047",
       "superseded_type": "organization",
-      "note": "Stale canonical N-31 Person; drafts use N-1072 Organization for ASU."
+      "note": "Retired stale Person slot (pre-renumber N-31); drafts use N-1047 Organization for ASU. Active N-31 is Angela Lombardo."
     }
   ]
 }

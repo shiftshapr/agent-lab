@@ -1,52 +1,67 @@
 {
-  "version": 1,
-  "updated": "2026-09-11T00:00:00Z",
-  "description": "Tombstone ledger for intentional N-ID gaps after Layer B node collapses. Do not renumber surviving nodes.",
+  "version": 2,
+  "updated": "2026-09-11T16:19:22Z",
+  "description": "Tombstone ledger for collapsed / legacy Person N-IDs after intro-order renumber (N-1..N-53 dense).",
   "retired": {
-    "N-10": {
-      "survives_as": "N-33",
+    "legacy-N-10": {
+      "survives_as": "N-8",
       "canonical_name": "Larry Guinta",
-      "reason": "Stepfather re-keyed in ep1 draft rebuild; canonical nodes.json still lists N-10 as Larry Ginta alias row."
+      "reason": "Ep1 stepfather; was N-33, formerly canonical N-10 Larry Ginta."
     },
-    "N-15": {
-      "survives_as": "N-40",
-      "canonical_name": "Dr. John Money",
-      "reason": "Ep2 draft uses N-40 for John Money; N-15 gap is intentional skip."
+    "legacy-N-15": {
+      "survives_as": "N-17",
+      "canonical_name": "John Money",
+      "reason": "Ep2; was N-40, formerly canonical N-15 Dr. John Money."
     },
-    "N-20": {
-      "survives_as": "N-57",
-      "canonical_name": "Nancy Gerard Hall",
-      "reason": "Tesseract principal re-keyed as N-57 Nancy Gerard in ep5 drafts."
+    "legacy-N-20": {
+      "survives_as": "N-34",
+      "canonical_name": "Nancy Gerard",
+      "reason": "Ep5 Tesseract; was N-57, formerly canonical N-20 Nancy Gerard Hall."
     },
-    "N-22": {
-      "survives_as": null,
-      "canonical_name": "Colonel Otto Busher",
-      "reason": "Person named in cross_episode_analysis_v2 only; never instantiated in current ep1–8 Node Register. Intentional skip — do not invent."
-    },
-    "N-31": {
-      "survives_as": "N-1072",
+    "legacy-N-31": {
+      "survives_as": "N-1047",
       "canonical_name": "Arizona State University",
-      "reason": "Org retype; canonical nodes.json ingest_gate skip Person N-31 → Organization N-1072."
+      "reason": "Org retype; canonical N-31 Person skipped \u2192 N-1047 Organization."
     },
-    "N-38": {
+    "legacy-N-38": {
       "survives_as": "N-3",
       "canonical_name": "Lori Frantzve",
-      "reason": "Lori Abbis Stanley duplicate collapsed into N-3 Also known as labels (Layer B)."
+      "reason": "Lori Abbis Stanley duplicate collapsed into N-3."
     },
-    "N-55": {
+    "legacy-N-55": {
       "survives_as": "N-2",
       "canonical_name": "Erika Kirk",
       "reason": "Duplicate Erika node from ep6 transit rebuild collapsed to N-2."
     },
-    "N-63": {
-      "survives_as": "N-27",
+    "legacy-N-63": {
+      "survives_as": "N-40",
       "canonical_name": "Justin Strife",
-      "reason": "Duplicate Justin Strife node from ep6 transit rebuild collapsed to N-27."
+      "reason": "Duplicate Justin Strife node from ep6 transit rebuild collapsed to N-40."
     },
-    "N-65": {
+    "legacy-N-65": {
       "survives_as": "N-1",
       "canonical_name": "Charlie Kirk",
       "reason": "Duplicate Charlie node from ep7 transit rebuild collapsed to N-1."
+    },
+    "legacy-N-22": {
+      "survives_as": null,
+      "canonical_name": "Colonel Otto Busher",
+      "reason": "Named in cross_episode_analysis_v2 only; never in ep1\u20138 Node Register."
+    },
+    "legacy-N-5": {
+      "survives_as": "N-10",
+      "canonical_name": "Loretta Abbas",
+      "reason": "Former canonical Loretta Lynn Abbis N-5; active register N-35\u2192N-10."
+    },
+    "legacy-N-6": {
+      "survives_as": "N-9",
+      "canonical_name": "Mason Abbas",
+      "reason": "Former canonical Mason Abbis N-6; active register N-34\u2192N-9."
+    },
+    "legacy-N-17": {
+      "survives_as": "N-3",
+      "canonical_name": "Lori Frantzve",
+      "reason": "Lori Abbis Stanley merge_into N-3."
     }
   }
 }

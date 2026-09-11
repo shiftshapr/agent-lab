@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1000, A-1001, A-1002, A-1003, A-1004, A-1005, A-1006
   - Claim Range: C-1000-C-1007
-  - New Nodes Introduced: N-1, N-2, N-3, N-4, N-7, N-9, N-11, N-33, N-34, N-35, N-36, N-37, N-1000, N-1030, N-1031, N-1032, N-1033, N-1034, N-1035, N-1036, N-1037, N-1038, N-1039
+  - New Nodes Introduced: N-1, N-2, N-3, N-4, N-5, N-6, N-7, N-8, N-9, N-10, N-11, N-12, N-1000, N-1001, N-1002, N-1003, N-1004, N-1005, N-1006, N-1007, N-1008, N-1009, N-1010
 
 ## 2. Executive Summary
 
@@ -43,14 +43,14 @@ Confidence: high
 **A-1001.2** Separation Agreement with altered marriage date
 Event Timestamp: 1998
 Video Timestamp: 24:00–24:35
-*Related: C-1002, N-4, N-3, N-1036*
+*Related: C-1002, N-4, N-3, N-1007*
 Transcript Snippet: was scanned in with an intention to...further confuse people. It's a...separation agreement which is not...notorized. It's not dated, so it's...almost not relevant. And it completely...edits the date of the marriage between...Kent and Lori from November 20th, 1995...down to November 7th, 1982. A casual 13
 Confidence: medium
 
 **A-1001.3** Divorce Decree with manually altered marriage date
 Event Timestamp: November 10, 1998
 Video Timestamp: 25:20–25:55
-*Related: C-1002, N-4, N-3, N-1036*
+*Related: C-1002, N-4, N-3, N-1007*
 Transcript Snippet: that this was the fastest divorce in the...history of divorce because she filed on...July 20th, 1998. And then we have a...decree on November 10th of the same...year. So this is like 3 months later....Once again, the marriage date is listed....the initial marriage date between Kent...and Lori as November 20th, 1995 in
 Confidence: medium
 
@@ -61,7 +61,7 @@ Confidence: medium
 **A-1002.1** Tesseract School yearbook photos 1995-1998
 Event Timestamp: 1995–1998
 Video Timestamp: 53:40–54:00
-*Related: C-1006, N-2, N-1031, N-1032*
+*Related: C-1006, N-2, N-1002, N-1003*
 Transcript Snippet: was at school. I don't have every year...yet, but I do have some years. 1995 to...1996 in first grade, 1996 to 1997 in...second grade, and 1997...to 1998, which is her in third grade. I...got to tell you, I am so glad that I...found this Tesseract. I didn't get to...time travel with it. I don't think I
 Confidence: high
 
@@ -72,21 +72,21 @@ Confidence: high
 **A-1003.1** 1941 article - Loretta Abbas testifies in numbers business case
 Event Timestamp: 1941
 Video Timestamp: 32:55–33:15
-*Related: C-1004, N-34, N-1039*
+*Related: C-1004, N-9, N-1010*
 Transcript Snippet: Pennsylvania. You check out this article...from 1941 where she testifies that she...ran numbers. It says Loretta Abbas of...Washington, Thomas Roberts, whatever,...whatever, testified that they engaged in...the numbers business and had been...arrested on numerous occasions. They...explained their role in the numbers
 Confidence: high
 
 **A-1003.2** 1944 article - Loretta Abbas pleads guilty to lottery charge
 Event Timestamp: 1944
 Video Timestamp: 33:18–33:35
-*Related: C-1004, N-34, N-1039*
+*Related: C-1004, N-9, N-1010*
 Transcript Snippet: here's another one. We could keep going,...but here's another article from 1944...where she pleads guilty to a lottery...charge. Was before the court. She wasn't...lying. She's always arrested on a...lottery charge. The state police had a...search warrant and when they entered her...house, they found a quantity of number
 Confidence: high
 
 **A-1003.3** 1935 article - Mason Abbas lottery arrest
 Event Timestamp: 1935
 Video Timestamp: 33:50–34:20
-*Related: C-1004, N-34, N-1039*
+*Related: C-1004, N-9, N-1010*
 Transcript Snippet: And it tells us that he was overtaken in...his automobile after a chase of several...miles after he had failed to obey the...officer's order to stop. Yes. Mason...Abbas was arrested yesterday by County...Detective Frank Kreps. Before an...alderman, he was held for court in...default of a $1,000 bond on a charge of
 Confidence: high
 
@@ -97,7 +97,7 @@ Confidence: high
 **A-1004.1** 1974 newspaper - Carl Kenneth Frantzve at American Bank Note Company
 Event Timestamp: 1974
 Video Timestamp: 35:15–35:35
-*Related: C-1005, N-7, N-1039*
+*Related: C-1005, N-5, N-1010*
 Transcript Snippet: 1974 doing just that. It reads,..."Printing began this week on the first...Illinois state lottery tickets up to...10,000 agents." It tells us at the...bottom there that Kent Frantzve of the...American Bank Note Company, the printer,...examines the first tickets of the...initial press run.
 Confidence: high
 
@@ -108,14 +108,14 @@ Confidence: high
 **A-1005.1** Erika's morfar/mormor Instagram posts
 Event Timestamp: 2016–2019
 Video Timestamp: 37:00–37:40
-*Related: C-1003, N-2, N-7*
+*Related: C-1003, N-2, N-5*
 Transcript Snippet: over the years, referring to him...affectionately as her morfar. Saw this...over and over again. And you just see...posts of him and how much she loves him....She even mentions her her grandmother...there. That's his wife Elaine and she...says she is my angel in heaven but I...usually call her mormor. So that's
 Confidence: high
 
 **A-1005.2** Zion's Gate photo with caption
 Event Timestamp: March 21, 2019
 Video Timestamp: 39:50–40:10
-*Related: C-1003, C-1007, N-2, N-36, N-37*
+*Related: C-1003, C-1007, N-2, N-11, N-12*
 Transcript Snippet: On March 21st of 2019, Erika visits with...Charlie. She's in Jerusalem with...Charlie, what is known as Zion's Gate in...Jerusalem. She posts a picture uh with a...pretty curious cap uh caption. It reads...in part uh meet Darla, a Romanian Jew...that now calls Israel home. She was...sitting by my family's dedication sign
 Confidence: high
 
@@ -126,7 +126,7 @@ Confidence: high
 **A-1006.1** Walnut Corner Children's Center attendance record
 Event Timestamp: 1992
 Video Timestamp: 50:34–50:55
-*Related: C-1006, N-2, N-1031*
+*Related: C-1006, N-2, N-1002*
 Transcript Snippet: was in Cincinnati, Ohio for daycare in...1992. She attended a place called Walnut...Corner Children's Center in Cincinnati,...Ohio, located inside of a massive...corporate building. Oddly, the filing...for uh that daycare doesn't have a floor...number, but I can show you this photo of...her um at daycare, lol, by the way, to
 Confidence: medium
 
@@ -136,7 +136,7 @@ Confidence: medium
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 00:01–00:33
-*Related: C-1000, N-2, N-1030*
+*Related: C-1000, N-2, N-1001*
 Transcript Snippet: Okay, you guys, there is a very strange...thing happening right now where a young...woman with absolutely zero professional...qualifications has been inserted at the...top of a charity organization that...pulled in over a quarter billion dollars...last year and the media is telling you...that you have no right to know or to ask
 Confidence: high
 
@@ -161,7 +161,7 @@ Main subject of investigation. Widow of Charlie Kirk, now CEO/chairman of Turnin
 
 ---
 
-**N-11** Candace Owens
+**N-7** Candace Owens
 
 Node Type: Person
 Host of Bride of Charlie investigative series.
@@ -170,7 +170,7 @@ Host of Bride of Charlie investigative series.
 
 ---
 
-**N-9** Elizabeth Lane
+**N-6** Elizabeth Lane
 
 Node Type: Person
 Investigative journalist who wrote viral post analyzing Erika Kirk's behavior patterns.
@@ -199,7 +199,7 @@ Erika Kirk's mother. Filed for divorce in 1998.
 
 ---
 
-**N-33** Larry Guinta
+**N-8** Larry Guinta
 
 Node Type: Person
 Erika Kirk's stepfather, present in her life since elementary school.
@@ -208,7 +208,7 @@ Erika Kirk's stepfather, present in her life since elementary school.
 
 ---
 
-**N-7** Carl Kenneth Frantzve
+**N-5** Carl Kenneth Frantzve
 
 Node Type: Person
 Erika Kirk's paternal grandfather. Executive at American Bank Note Company that printed lottery tickets.
@@ -217,7 +217,7 @@ Erika Kirk's paternal grandfather. Executive at American Bank Note Company that 
 
 ---
 
-**N-34** Mason Abbas
+**N-9** Mason Abbas
 
 Node Type: Person
 Erika Kirk's great-grandfather. Arrested for lottery/gambling charges.
@@ -226,7 +226,7 @@ Erika Kirk's great-grandfather. Arrested for lottery/gambling charges.
 
 ---
 
-**N-35** Loretta Abbas
+**N-10** Loretta Abbas
 
 Node Type: Person
 Erika Kirk's great-grandmother. Arrested for running illegal slot machines and numbers business.
@@ -235,7 +235,7 @@ Erika Kirk's great-grandmother. Arrested for running illegal slot machines and n
 
 ---
 
-**N-36** Nicole Rothstein
+**N-11** Nicole Rothstein
 
 Node Type: Person
 Erika's alleged roommate who made claims about Erika's family being half Jewish.
@@ -244,7 +244,7 @@ Erika's alleged roommate who made claims about Erika's family being half Jewish.
 
 ---
 
-**N-37** Alan Rothstein
+**N-12** Alan Rothstein
 
 Node Type: Person
 Nicole Rothstein's father. Erika referred to him as uncle.
@@ -253,7 +253,7 @@ Nicole Rothstein's father. Erika referred to him as uncle.
 
 ---
 
-**N-1030** Turning Point USA
+**N-1001** Turning Point USA
 
 Node Type: Organization
 Organization Kind: charity
@@ -263,7 +263,7 @@ Political charity organization that pulled in over $250 million. Erika Kirk now 
 
 ---
 
-**N-1031** Tesseract School
+**N-1002** Tesseract School
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -273,7 +273,7 @@ Charter school attended by Erika Kirk in Arizona. Connected to John T. Golle, Wa
 
 ---
 
-**N-1032** Looking Glass School
+**N-1003** Looking Glass School
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -283,7 +283,7 @@ Jewish school in Arizona whose building was rented by Tesseract School.
 
 ---
 
-**N-1033** MK Ultra
+**N-1004** MK Ultra
 
 Node Type: Organization
 Organization Kind: program_or_initiative
@@ -293,7 +293,7 @@ CIA mind control program discussed in context of psychological manipulation.
 
 ---
 
-**N-1034** Operation Paperclip
+**N-1005** Operation Paperclip
 
 Node Type: Organization
 Organization Kind: program_or_initiative
@@ -303,7 +303,7 @@ US program that brought German scientists to America.
 
 ---
 
-**N-1035** Project Looking Glass
+**N-1006** Project Looking Glass
 
 Node Type: Organization
 Organization Kind: program_or_initiative
@@ -323,7 +323,7 @@ Inconsistency between Erika's claimed DOB (Nov 20, 1988) and divorce filing DOB 
 
 ---
 
-**N-1036** Marriage Date Discrepancy
+**N-1007** Marriage Date Discrepancy
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -333,7 +333,7 @@ Multiple conflicting marriage dates for Kent and Lori Frantzve across divorce do
 
 ---
 
-**N-1037** Single Mother Narrative Question
+**N-1008** Single Mother Narrative Question
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -343,7 +343,7 @@ Erika claims raised by single mother but father and stepfather were present thro
 
 ---
 
-**N-1038** Morfar-Farfar Terminology Issue
+**N-1009** Morfar-Farfar Terminology Issue
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -353,7 +353,7 @@ Erika calls paternal grandfather morfar (mother's father) instead of farfar (fat
 
 ---
 
-**N-1039** Family Gambling History
+**N-1010** Family Gambling History
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -374,7 +374,7 @@ Claim Timestamp: 00:01
 Claim: A young woman with no professional qualifications has been inserted as CEO/chairman of Turning Point USA, a charity that pulled in over $250 million.
 Transcript Snippet: Okay, you guys, there is a very strange...thing happening right now where a young...woman with absolutely zero professional...qualifications has been inserted at the...top of a charity organization that...pulled in over a quarter billion dollars...last year and the media is telling you...that you have no right to know or to ask
 Anchored Artifacts: A-1000.2
-Related Nodes: N-2, N-1030, N-1
+Related Nodes: N-2, N-1001, N-1
 Confidence: high
 Uncertainty: Framing premise - not yet verified through artifact
 Investigative Direction: Verify Erika's professional qualifications and her appointment process at Turning Point USA.
@@ -403,7 +403,7 @@ Claim Timestamp: 24:00
 Claim: Divorce documents show four different marriage dates for Kent and Lori Frantzve: November 20, 1995; November 7, 1982; and two manually edited dates (1985 and another).
 Transcript Snippet: Okay, that's strange. I mean, at least...the birthday she says she has, but this...document is saying no, she's born 2 days...later, so I guess it wasn't her seventh...birthday. Attached to this document uh...which was filed on July 20th, 1998 is...another document that I can only assume...was scanned in with an intention to
 Anchored Artifacts: A-1001.1, A-1001.2, A-1001.3
-Related Nodes: N-4, N-3, N-1036
+Related Nodes: N-4, N-3, N-1007
 Confidence: high
 Investigative Direction: Obtain certified marriage certificate and compare with all divorce filing variants.
 
@@ -417,7 +417,7 @@ Claim Timestamp: 32:50
 Claim: Erika's great-grandparents Mason and Loretta Abbas were repeatedly arrested for illegal gambling operations including running numbers lotteries and illegal slot machines.
 Transcript Snippet: in this series, the history and the...present of gambling casinos is going to...become increasingly relevant. So, let's...bring in the OG Loretta Abbas, Erika's...great grandmother who died in 1990,...who was just constantly being arrested...for running illegal slot machines. Okay,...she came over from Syria and she got to
 Anchored Artifacts: A-1003.1, A-1003.2, A-1003.3
-Related Nodes: N-34, N-35, N-1039
+Related Nodes: N-9, N-10, N-1010
 Confidence: high
 Investigative Direction: Obtain court records and newspaper archives confirming arrests and convictions.
 
@@ -431,7 +431,7 @@ Claim Timestamp: 35:15
 Claim: Erika's paternal grandfather Carl Kenneth Frantzve was an executive at American Bank Note Company, which printed Illinois state lottery tickets.
 Transcript Snippet: participated extensively in horse...racing. More crucially though, he was an...executive at the American Bank Note...Company in Illinois. This is the company...that was responsible for printing...lottery tickets. It's a big contract, a...big deal. Here he is in a newspaper in...1974 doing just that. It reads,
 Anchored Artifacts: A-1004.1
-Related Nodes: N-7, N-1039
+Related Nodes: N-5, N-1010
 Confidence: high
 Investigative Direction: Confirm employment records and company role.
 
@@ -445,7 +445,7 @@ Claim Timestamp: 37:00
 Claim: Erika publicly claims she was raised by a single mother, but her father Kent was present throughout her childhood, and she also had a stepfather Larry Guinta present.
 Transcript Snippet: over the years, referring to him...affectionately as her morfar. Saw this...over and over again. And you just see...posts of him and how much she loves him....She even mentions her her grandmother...there. That's his wife Elaine and she...says she is my angel in heaven but I...usually call her mormor. So that's
 Anchored Artifacts: A-1005.1
-Related Nodes: N-2, N-4, N-33, N-1037, N-1038
+Related Nodes: N-2, N-4, N-8, N-1008, N-1009
 Confidence: high
 Uncertainty: Also involves morfar/farfar terminology issue suggesting possible paternity question
 Investigative Direction: Obtain school records, yearbooks, and witness statements confirming father's presence.
@@ -460,7 +460,7 @@ Claim Timestamp: 39:50
 Claim: Erika describes Zion's Gate as her family's dedication, but this actually belongs to the Rothstein family. Her connection to them appears distant (no blood relation if her claimed paternity is true).
 Transcript Snippet: On March 21st of 2019, Erika visits with...Charlie. She's in Jerusalem with...Charlie, what is known as Zion's Gate in...Jerusalem. She posts a picture uh with a...pretty curious cap uh caption. It reads...in part uh meet Darla, a Romanian Jew...that now calls Israel home. She was...sitting by my family's dedication sign...for restoring the Zion gate in...Jerusalem....Oh,...what? Why is Erika describing...the Zion's Gate as her family's...dedication?
 Anchored Artifacts: A-1005.2
-Related Nodes: N-2, N-36, N-37
+Related Nodes: N-2, N-11, N-12
 Confidence: medium
 Uncertainty: Host speculates about paternity based on terminology issue
 Investigative Direction: Verify ownership of Zion's Gate dedication and actual family relationship.
@@ -475,7 +475,7 @@ Claim Timestamp: 53:40
 Claim: Erika attended the Tesseract charter school in Paradise Valley, Arizona from 1995-1998, which rented space from Looking Glass School.
 Transcript Snippet: school itself is exceedingly Jewish in...terms of the administration. It was run...by Jewish executive directors. The...teachers are all Jewish. I got...obviously, you know me, I'm nosy. I...track down the yearbooks. I mean, I was...I was working really hard while I was...off. Um, and I can show you that Erika
 Anchored Artifacts: A-1002.1, A-1006.1
-Related Nodes: N-2, N-1031, N-1032, N-1035
+Related Nodes: N-2, N-1002, N-1003, N-1006
 Confidence: high
 Uncertainty: Tesseract named after Wrinkle in Time - related to Project Looking Glass discussion
 Investigative Direction: Obtain enrollment records and yearbooks confirming attendance at Tesseract.
@@ -487,7 +487,7 @@ Investigative Direction: Obtain enrollment records and yearbooks confirming atte
 ### Occurrence 1
 
 Video Timestamp: 01:36–01:42
-Speaker: N-11
+Speaker: N-7
 Quote: She's a grieving widow. She's a grieving widow.
 Context: Host mocks media framing that any questioning of Erika makes you a monster
 Tags: framing, emotional_manipulation
@@ -501,7 +501,7 @@ Uncertainty: Direct quote from host's commentary
 ### Occurrence 1
 
 Video Timestamp: 04:30–04:37
-Speaker: N-11
+Speaker: N-7
 Quote: Sheer evil. No, not mass murdering children. Sheer evil. Investigating someone at the helm of a billion dollar company.
 Context: Host mocks critics who called investigation 'sheer evil'
 Tags: rhetoric, criticism_response
@@ -515,7 +515,7 @@ Uncertainty: Direct quote
 ### Occurrence 1
 
 Video Timestamp: 01:38–01:42
-Speaker: N-11
+Speaker: N-7
 Quote: That sentence, in my opinion, is this year's trust the science.
 Context: Host compares 'grieving widow' framing to 'trust the science' pandemic messaging
 Tags: framing, comparison

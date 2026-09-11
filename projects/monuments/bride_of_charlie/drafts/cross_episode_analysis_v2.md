@@ -11,22 +11,21 @@ Nodes ranked by `claim_count × episode_count` — higher = more cross-episode i
 | 2 | **Lori Frantzve** (N-3) | person | {1, 2, 3, 5, 6} | 5 | 5 | medium |
 | 3 | **Kent Frantzve** (N-4) | person | {1, 2, 4} | 5 | 4 | medium |
 | 4 | **Charlie Kirk** (N-1) | person | {1, 2, 4, 5, 6, 7} | 1 | 0 | low |
-| 5 | **Jack Solomon** (N-8) | person | {1, 4} | 2 | 1 | medium |
+| 5 | **Jack Solomon** (N-26) | person | {1, 4} | 2 | 1 | medium |
 | 6 | **Date of Birth Discrepancy** (N-1000) | investigation_target | {1, 2, 4} | 1 | 3 | high |
-| 7 | **Elizabeth Lane** (N-9) | person | {1, 2} | 1 | 1 | low |
-| 8 | **Candace Owens** (N-11) | person | {2, 3, 6, 7} | 0 | 0 | low |
-| 9 | **Dr. Jerry Frantzve** (N-12) | person | {2, 4, 5} | 0 | 0 | low |
-| 10 | **Tyler Bowyer** (N-13) | person | {2, 3, 5, 6, 7} | 0 | 0 | low |
-| 11 | **Richard Erpenbeck** (N-16) | person | {3, 4, 5} | 0 | 0 | low |
-| 12 | **Jeffrey Epstein** (N-21) | person | {5, 7} | 0 | 0 | low |
-| 13 | **Colonel Otto Busher** (N-22) | person | {5, 6} | 0 | 0 | low |
+| 7 | **Elizabeth Lane** (N-6) | person | {1, 2} | 1 | 1 | low |
+| 8 | **Candace Owens** (N-7) | person | {2, 3, 6, 7} | 0 | 0 | low |
+| 9 | **Dr. Jerry Frantzve** (N-13) | person | {2, 4, 5} | 0 | 0 | low |
+| 10 | **Tyler Bowyer** (N-14) | person | {2, 3, 5, 6, 7} | 0 | 0 | low |
+| 11 | **Richard Erpenbeck** (N-18) | person | {3, 4, 5} | 0 | 0 | low |
+| 12 | **Jeffrey Epstein** (N-32) | person | {5, 7} | 0 | 0 | low |
 
 *Only nodes appearing in 2+ episodes shown. Nodes appearing in 1 episode are omitted.*
 
 ### High-Pressure Single-Episode Nodes
 
-- **Marriage Date Inconsistencies** (N-1001) — 3 claims, pressure: high
-- **Morfar vs Farfar Language Error** (N-1005) — 1 claims, pressure: high
+- **Marriage Date Discrepancy** (N-1007) — 3 claims, pressure: high
+- **Morfar-Farfar Terminology Issue** (N-1009) — 1 claims, pressure: high
 
 ## 2. Rhetorical Fingerprints
 
@@ -52,19 +51,18 @@ Cross-episode pressure for nodes with multi-episode presence or high pressure.
 |------|------|--------------|----------------------|
 | **Date of Birth Discrepancy** (N-1000) | investigation_target | HIGH | Ep1=H, Ep2=L, Ep4=L |
 | **Erika Kirk** (N-2) | person | HIGH | Ep1=H, Ep2=L, Ep3=L, Ep4=L, Ep5=L, Ep6=L, Ep7=L |
-| **Marriage Date Inconsistencies** (N-1001) | investigation_target | HIGH | Ep1=H |
-| **Morfar vs Farfar Language Error** (N-1005) | investigation_target | HIGH | Ep1=H |
-| **Jack Solomon** (N-8) | person | MEDIUM | Ep1=M, Ep4=L |
+| **Marriage Date Discrepancy** (N-1007) | investigation_target | HIGH | Ep1=H |
+| **Morfar-Farfar Terminology Issue** (N-1009) | investigation_target | HIGH | Ep1=H |
+| **Jack Solomon** (N-26) | person | MEDIUM | Ep1=M, Ep4=L |
 | **Kent Frantzve** (N-4) | person | MEDIUM | Ep1=M, Ep2=L, Ep4=L |
 | **Lori Frantzve** (N-3) | person | MEDIUM | Ep1=M, Ep2=L, Ep3=L, Ep5=L, Ep6=L |
-| **Candace Owens** (N-11) | person | LOW | Ep2=L, Ep3=L, Ep6=L, Ep7=L |
+| **Candace Owens** (N-7) | person | LOW | Ep2=L, Ep3=L, Ep6=L, Ep7=L |
 | **Charlie Kirk** (N-1) | person | LOW | Ep1=L, Ep2=L, Ep4=L, Ep5=L, Ep6=L, Ep7=L |
-| **Colonel Otto Busher** (N-22) | person | LOW | Ep5=L, Ep6=L |
-| **Dr. Jerry Frantzve** (N-12) | person | LOW | Ep2=L, Ep4=L, Ep5=L |
-| **Elizabeth Lane** (N-9) | person | LOW | Ep1=L, Ep2=L |
-| **Jeffrey Epstein** (N-21) | person | LOW | Ep5=L, Ep7=L |
-| **Richard Erpenbeck** (N-16) | person | LOW | Ep3=L, Ep4=L, Ep5=L |
-| **Tyler Bowyer** (N-13) | person | LOW | Ep2=L, Ep3=L, Ep5=L, Ep6=L, Ep7=L |
+| **Dr. Jerry Frantzve** (N-13) | person | LOW | Ep2=L, Ep4=L, Ep5=L |
+| **Elizabeth Lane** (N-6) | person | LOW | Ep1=L, Ep2=L |
+| **Jeffrey Epstein** (N-32) | person | LOW | Ep5=L, Ep7=L |
+| **Richard Erpenbeck** (N-18) | person | LOW | Ep3=L, Ep4=L, Ep5=L |
+| **Tyler Bowyer** (N-14) | person | LOW | Ep2=L, Ep3=L, Ep5=L, Ep6=L, Ep7=L |
 
 ## 5. Per-Episode Summary
 

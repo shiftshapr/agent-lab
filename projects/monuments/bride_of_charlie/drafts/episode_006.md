@@ -12,8 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1033, A-1034, A-1035, A-1036, A-1037, A-1038, A-1039, A-1040, A-1041, A-1042
   - Claim Range: C-1060-C-1074
-  - New Nodes Introduced: N-23, N-24, N-25, N-26, N-27, N-59, N-60, N-61, N-1022, N-1065, N-1066, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-11, N-13
+  - New Nodes Introduced: N-36, N-37, N-38, N-39, N-40, N-1038, N-41, N-42, N-1039, N-1040, N-1041, N-1042, N-1043, N-1044, N-1045, N-1046, N-1047, N-1048
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14
 
 ## 2. Executive Summary
 
@@ -26,7 +26,7 @@ Episode 6 focuses on the timeline of 2010-2012, connecting Tyler Bowyer's deploy
 **A-1033.1** Cocopah Middle School email confirmation and tweet
 Event Timestamp: 2000-2003
 Video Timestamp: 01:14-01:51
-*Related: C-1060, N-2, N-1065*
+*Related: C-1060, N-2, N-1040*
 Transcript Snippet: First and foremost, a quick update for...you guys. Right at the top, we were able...to determine which middle school Erika...went to. Uh, it's called Cocopah Middle...School. I think that's how you say it....We did receive an email tip from someone...who informed us that Erika attended...Cocopah Middle School. Uh, we have not
 Confidence: high
 
@@ -37,7 +37,7 @@ Confidence: high
 **A-1034.1** Historical footage of Ceaușescu trial and execution
 Event Timestamp: December 25, 1989
 Video Timestamp: 03:44-05:59
-*Related: C-1061, N-1066*
+*Related: C-1061, N-1041*
 Transcript Snippet: >> The trial is brief and largely for show....It lasts about 2 hours and takes place...without any real possibility for defense...or appeal. Chiaoescu himself refuses to...recognize the court and calls it...illegal....But it doesn't matter. The tribunal...finds both him and Elena guilty.
 Confidence: high
 
@@ -48,7 +48,7 @@ Confidence: high
 **A-1035.1** Lori Frantzve bio from Everyday Heroes website
 Event Timestamp: circa 2010
 Video Timestamp: 10:31-11:59
-*Related: C-1062, N-3, N-1067*
+*Related: C-1062, N-3, N-1042*
 Transcript Snippet: read that second paragraph. It says that...Lori for the past 12 years of her career...has been focused in the pioneering...research and development on disruptive...cyber technologies for applications...in relationship to the way humans think...and the importance of assessing what...happens if type technologies truly
 Confidence: high
 
@@ -59,7 +59,7 @@ Confidence: high
 **A-1036.1** Article about Black Sea Rotational Force training in Eastern Europe
 Event Timestamp: 2011
 Video Timestamp: 12:45-13:28
-*Related: C-1063, C-1064, N-13, N-1068*
+*Related: C-1063, C-1064, N-14, N-1043*
 Transcript Snippet: their thing in Constanta. And I just want...to stress how interesting it is to me...that the majority of the men are coming...from Reno, Nevada, the capital of casino...and gambling. Laws are loosening up in...Romania or actually rather monopolizing...I should say in Romania. And here is an...article which mentions that the chosen
 Confidence: high
 
@@ -70,7 +70,7 @@ Confidence: high
 **A-1037.1** Article about Nevada students teaching in Romania
 Event Timestamp: May 4, 2011
 Video Timestamp: 13:45-14:28
-*Related: C-1064, N-1068, N-1069*
+*Related: C-1064, N-1043, N-1044*
 Transcript Snippet: arrive and they're also from Reno,...Nevada. Check out this article. I can't...even make this up. It says this year, it...says Romania students will give lessons...at schools and help teachers. You can...note that date in the corner, May 4th,...2011. And this year's cohort of students...includes two Nevada graduates, um, Alex
 Confidence: high
 
@@ -81,7 +81,7 @@ Confidence: high
 **A-1038.1** Article about Tyler Bowyer elected to Arizona Board of Regents
 Event Timestamp: April 2011
 Video Timestamp: 15:15-15:51
-*Related: C-1065, C-1066, N-13, N-1, N-59*
+*Related: C-1065, C-1066, N-14, N-1, N-1038*
 Transcript Snippet: April of 2011, at the end of his spring...semester, he is elected by the Arizona...Senate to serve as a student...representative to the Arizona Board of...Regents. It says that the state senate...has confirmed ASU undergraduate Tyler...Storm Bowyer as the new student regent for...the Arizona Board of Regents. It begins
 Confidence: high
 
@@ -92,7 +92,7 @@ Confidence: high
 **A-1039.1** Article about Curtis Kolvet commanding Nevada National Guard in Afghanistan
 Event Timestamp: circa 2010-2011
 Video Timestamp: 18:49-19:46
-*Related: C-1067, C-1068, N-24, N-25, N-26*
+*Related: C-1067, C-1068, N-37, N-38, N-39*
 Transcript Snippet: do know, however, is that it was Captain...Curtis Kolvet who was stationed in...Afghanistan....And yeah, that's Andrew Kolvet's...brother. Yeah, they sent the military...police from Nevada to head up the...transportation company from Afghanistan....And and Curtis Kolvet was the commander
 Confidence: high
 
@@ -103,7 +103,7 @@ Confidence: high
 **A-1040.1** Podcast interview with Erika about her time in Romania
 Event Timestamp: 2020
 Video Timestamp: 20:32-21:35
-*Related: C-1069, C-1070, N-2, N-23*
+*Related: C-1069, C-1070, N-2, N-36*
 Transcript Snippet: podcast in 2020 and she was reflecting...on her time in Romania in 2012 or 2013....And in this podcast, in this podcast,...she's speaking with someone who was...stationed uh in Romania and she's asking...him if the setup is the same from when...she was out there. Take a listen to...Erika.
 Confidence: high
 
@@ -125,7 +125,7 @@ Confidence: high
 **A-1042.1** News clip of Kirkwood city council shooting with Justin Strife appearance
 Event Timestamp: February 7, 2008
 Video Timestamp: 42:56-45:08
-*Related: C-1072, C-1073, N-60, N-61*
+*Related: C-1072, C-1073, N-41, N-42*
 Transcript Snippet: listen....>> Sirens whale outside Kirkwood City Hall...in Missouri, the building that usually...houses mundane civic meetings became the...scene of a rampage Thursday night after...a gunman stormed the building and opened...fire. Two police officers and three city...officials were killed. The mayor was
 Confidence: high
 
@@ -135,14 +135,14 @@ Confidence: high
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 32:59–33:36
-*Related: C-1074, N-2, N-13, N-1022*
+*Related: C-1074, N-2, N-14, N-1039*
 Transcript Snippet: Erika pretending she does not remember...how she met Tyler Bowyer and both of them...changing their stories. Tyler Bowyer...responded to somebody on X and said he...met her. He met Erika um at the Trump...rally, but he maybe forgot. Maybe he had...another long night in Romania, but he...maybe forgot. But he had already given a
 Confidence: medium
 
 ---
 ## 4. Node Register
 
-**N-11** Candace Owens
+**N-7** Candace Owens
 
 Node Type: Person
 Host of the Bride of Charlie investigation series
@@ -169,7 +169,7 @@ Erika's mother - runs Tech International/E3 Tech
 
 ---
 
-**N-13** Tyler Bowyer
+**N-14** Tyler Bowyer
 
 Node Type: Person
 Student at Arizona State University, deployed to Romania with Black Sea Rotational Force
@@ -178,7 +178,7 @@ Student at Arizona State University, deployed to Romania with Black Sea Rotation
 
 ---
 
-**N-23** Dennis Frantzve
+**N-36** Dennis Frantzve
 
 Node Type: Person
 Erika's cousin - retired Marine lieutenant colonel who served in Romania
@@ -196,7 +196,7 @@ Deceased founder of Turning Point USA
 
 ---
 
-**N-59** Arizona Board of Regents
+**N-1038** Arizona Board of Regents
 
 Node Type: Organization
 Governing body of Arizona's public university system
@@ -205,7 +205,7 @@ Governing body of Arizona's public university system
 
 ---
 
-**N-24** Curtis Kolvet
+**N-37** Curtis Kolvet
 
 Node Type: Person
 Commander of 593rd Nevada National Guard Transportation Company in Afghanistan
@@ -214,7 +214,7 @@ Commander of 593rd Nevada National Guard Transportation Company in Afghanistan
 
 ---
 
-**N-25** Robert Kolvet
+**N-38** Robert Kolvet
 
 Node Type: Person
 Cousin of Curtis Kolvet, commander of 485th Military Police Company in Afghanistan
@@ -223,7 +223,7 @@ Cousin of Curtis Kolvet, commander of 485th Military Police Company in Afghanist
 
 ---
 
-**N-26** Andrew Kolvet
+**N-39** Andrew Kolvet
 
 Node Type: Person
 Brother of Curtis Kolvet, mentioned in context of the investigation
@@ -232,7 +232,7 @@ Brother of Curtis Kolvet, mentioned in context of the investigation
 
 ---
 
-**N-27** Justin Strife
+**N-40** Justin Strife
 
 *Also known as: Justin Stripe; Stripe.*
 
@@ -243,7 +243,7 @@ COO of Turning Point USA - appears in Kirkwood shooting news clip
 
 ---
 
-**N-60** Charles Cookie Thornton
+**N-41** Charles Cookie Thornton
 
 Node Type: Person
 Gunman in Kirkwood city council shooting
@@ -252,7 +252,7 @@ Gunman in Kirkwood city council shooting
 
 ---
 
-**N-61** Rob McCoy
+**N-42** Rob McCoy
 
 Node Type: Person
 Turning Point affiliate with proximity to multiple shootings
@@ -261,7 +261,7 @@ Turning Point affiliate with proximity to multiple shootings
 
 ---
 
-**N-1065** Cocopah Middle School
+**N-1040** Cocopah Middle School
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -271,7 +271,7 @@ Middle school in Scottsdale that Erika attended 2000-2003
 
 ---
 
-**N-1066** Romanian Revolution 1989
+**N-1041** Romanian Revolution 1989
 
 Node Type: Organization
 Organization Kind: other
@@ -281,7 +281,7 @@ Historical context of Ceaușescu execution on Christmas Day 1989
 
 ---
 
-**N-1067** Tech International
+**N-1042** Tech International
 
 Node Type: Organization
 Organization Kind: company
@@ -291,7 +291,7 @@ Company run by Lori Frantzve with defense contracts
 
 ---
 
-**N-1068** Black Sea Rotational Force
+**N-1043** Black Sea Rotational Force
 
 Node Type: Organization
 Organization Kind: military_unit
@@ -301,7 +301,7 @@ Marine unit deployed to Eastern Europe, majority from Reno Nevada
 
 ---
 
-**N-1069** Nevada-Romania Connection
+**N-1044** Nevada-Romania Connection
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -311,7 +311,7 @@ Pattern of Nevada-based individuals appearing in Romania timeline
 
 ---
 
-**N-1070** Reno Nevada
+**N-1045** Reno Nevada
 
 Node Type: Place
 Place Kind: city
@@ -321,7 +321,7 @@ City in Nevada - source of many military personnel and students in timeline
 
 ---
 
-**N-1071** Constanta Romania
+**N-1046** Constanta Romania
 
 Node Type: Place
 Place Kind: city
@@ -331,7 +331,7 @@ City in Romania where Black Sea Rotational Force was stationed
 
 ---
 
-**N-1072** Arizona State University
+**N-1047** Arizona State University
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -341,7 +341,7 @@ University where Tyler Bowyer and Erika Kirk attended
 
 ---
 
-**N-1022** How Erika Met Tyler Bowyer
+**N-1039** How Erika Met Tyler Bowyer
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -351,7 +351,7 @@ Investigation into how Erika and Tyler actually met - conflicting stories
 
 ---
 
-**N-1073** Everyday Heroes Like You
+**N-1048** Everyday Heroes Like You
 
 Node Type: Organization
 Organization Kind: nonprofit
@@ -372,7 +372,7 @@ Claim Timestamp: 01:14
 Claim: Erika attended Cocopah Middle School in Scottsdale from 2000 to 2003.
 Transcript Snippet: Charlie....We have nothing to hide....First and foremost, a quick update for...you guys. Right at the top, we were able...to determine which middle school Erika...went to. Uh, it's called Cocopah Middle...School. I think that's how you say it....We did receive an email tip from someone
 Anchored Artifacts: A-1033.1
-Related Nodes: N-2, N-1065
+Related Nodes: N-2, N-1040
 Confidence: high
 Investigative Direction: Obtain yearbook records to confirm school years.
 
@@ -386,7 +386,7 @@ Claim Timestamp: 03:30
 Claim: The episode presents historical context about the 1989 Romanian revolution and Ceaușescu execution.
 Transcript Snippet: like, you're already guilty. We're just...going to shoot you and kill you. So,...this was supposed to be the end of...communism. So, commun the communist...leaders had to go as well. And Nikolai...and Elena were quite literally lined up...and shot. And it was all filmed. And I'm...not going to show you that shooting
 Anchored Artifacts: A-1034.1
-Related Nodes: N-1066
+Related Nodes: N-1041
 Confidence: high
 Investigative Direction: Historical facts are presented for context; verification not required.
 
@@ -400,7 +400,7 @@ Claim Timestamp: 10:31
 Claim: Lori Frantzve's company Tech International works on cyber technologies for defense and infrastructure.
 Transcript Snippet: Lori. It's up. It was up on the Everyday...Heroes website. She had a bio that has...since been pulled down, but they go into...detail regarding what Aztec does. And I...want you to follow along with me. We'll...read this together. Okay. I'm going to...read that second paragraph. It says that...Lori for the past 12 years of her career
 Anchored Artifacts: A-1035.1
-Related Nodes: N-3, N-1067
+Related Nodes: N-3, N-1042
 Confidence: high
 Investigative Direction: Verify corporate records and defense contracts.
 
@@ -414,7 +414,7 @@ Claim Timestamp: 12:45
 Claim: The Black Sea Rotational Force 11 trained military forces in Romania with majority of Marines from Reno, Nevada.
 Transcript Snippet: to interview her or Erika to deeply...understand it. I just want to get real...cerebral with them, you know, explain it...to me like I'm two....Let's now pick up in 2011. Okay, so the...Black Sea rotation of force is doing...their thing in Constanta. And I just want...to stress how interesting it is to me
 Anchored Artifacts: A-1036.1
-Related Nodes: N-13, N-1068, N-1070, N-1071
+Related Nodes: N-14, N-1043, N-1045, N-1046
 Confidence: high
 Investigative Direction: Verify military deployment records.
 
@@ -428,7 +428,7 @@ Claim Timestamp: 13:45
 Claim: In May 2011, Nevada students including Alex Redai and Julie Chris traveled to Romania to teach at schools.
 Transcript Snippet: counterinsurgency techniques. We get it....We're just missing one piece of the...puzzle. What about the researchers? What...about the Dr. Frantzve type students?...Well, there always has to be a group of...student researchers at the same time....And you won't believe it, but some...arrive and they're also from Reno,
 Anchored Artifacts: A-1037.1
-Related Nodes: N-1069, N-1070
+Related Nodes: N-1044, N-1045
 Confidence: high
 Investigative Direction: Verify student exchange records.
 
@@ -442,7 +442,7 @@ Claim Timestamp: 15:15
 Claim: Tyler Bowyer was elected by the Arizona Senate to serve as student representative to the Arizona Board of Regents in April 2011.
 Transcript Snippet: Tyler Bowyer's back. He's fresh...back from his trip to Romania. The...models, the girls, the bottles, he's...popping them. And uh he is still a...student, I should mention, at Arizona...State University. And Tyler Bowyer then...immediately falls into some luck. In...April of 2011, at the end of his spring
 Anchored Artifacts: A-1038.1
-Related Nodes: N-13, N-59, N-1072
+Related Nodes: N-14, N-1038, N-1047
 Confidence: high
 Investigative Direction: Verify Arizona Senate records.
 
@@ -456,7 +456,7 @@ Claim Timestamp: 15:54
 Claim: Erika Kirk enrolled at Arizona State University for her final year shortly after Tyler Bowyer was elected to the Board of Regents.
 Transcript Snippet: that's interesting. Now, in case you're...wondering what what they do, what that...the border regions does, it's the...governing body of Arizona's public...university system. They're in charge of...policies....Okay....Lo and behold, after he's put into place
 Anchored Artifacts: A-1038.1
-Related Nodes: N-2, N-13, N-1, N-1072
+Related Nodes: N-2, N-14, N-1, N-1047
 Confidence: medium
 Investigative Direction: Obtain enrollment records and compare timelines.
 
@@ -470,7 +470,7 @@ Claim Timestamp: 18:49
 Claim: Curtis Kolvet commanded the 593rd Nevada National Guard Transportation Company in Afghanistan, overseeing Bulgarian soldiers.
 Transcript Snippet: how exactly they were able to get enough...of those poppy seeds to cause an entire...opioid crisis. How did they do it,...right? Like, who was in control of...transporting all of those flowers during...a time of war? We'll never know. What we...do know, however, is that it was Captain...Curtis Kolvet who was stationed in
 Anchored Artifacts: A-1039.1
-Related Nodes: N-24, N-26, N-1069
+Related Nodes: N-37, N-39, N-1044
 Confidence: high
 Investigative Direction: Verify military service records.
 
@@ -484,7 +484,7 @@ Claim Timestamp: 19:49
 Claim: Robert Kolvet, cousin of Curtis Kolvet, simultaneously commanded the 485th Military Police Company in Afghanistan.
 Transcript Snippet: transporting personnel and supplies...through the highra dangerous environment...of Kabell. He was the regional command...captain. Wow, it's amazing....And uh just like the Facebook caption is...going to say, he wasn't the only Kolvet...that was there. He was also serving with...his first cousin, Robert Kolvet.
 Anchored Artifacts: A-1039.1
-Related Nodes: N-25, N-26, N-1069
+Related Nodes: N-38, N-39, N-1044
 Confidence: high
 Investigative Direction: Verify military service records.
 
@@ -498,7 +498,7 @@ Claim Timestamp: 20:32
 Claim: In a 2020 podcast, Erika confirmed Romania was used as a halfway drop-off point for troops from Afghanistan.
 Transcript Snippet: they were commanding Bulgarians,...Romanians, well, because everything from...Afghanistan was running through Romania...and Bulgaria, emphasis on Romania. I...know this because Erika actually did a...podcast in 2020 and she was reflecting...on her time in Romania in 2012 or 2013....And in this podcast, in this podcast,
 Anchored Artifacts: A-1040.1
-Related Nodes: N-2, N-1071
+Related Nodes: N-2, N-1046
 Confidence: high
 Investigative Direction: Verify podcast content and military logistics records.
 
@@ -512,7 +512,7 @@ Claim Timestamp: 21:50
 Claim: Erika describes her cousin Dennis Frantzve showing her around the base in Romania in 2013.
 Transcript Snippet: from Afghanistan. Interesting. Elsewhere...in that same interview, Erika reflects...upon her distant cousin. She means...Dennis Frantzve who shows her around the...base in Romania when she gets there....Take a listen to Erika in her own words....The reason why I even went over there is...that one of my um on my dad's side, his
 Anchored Artifacts: A-1040.1
-Related Nodes: N-2, N-23
+Related Nodes: N-2, N-36
 Confidence: high
 Investigative Direction: Verify travel records and base access.
 
@@ -540,7 +540,7 @@ Claim Timestamp: 32:59
 Claim: Erika claims she cannot remember how she met Tyler Bowyer, while Tyler has given conflicting accounts.
 Transcript Snippet: Erika pretending she does not remember...how she met Tyler Bowyer and both of them...changing their stories. Tyler Bowyer...responded to somebody on X and said he...met her. He met Erika um at the Trump...rally, but he maybe forgot. Maybe he had...another long night in Romania, but he...maybe forgot. But he had already given a
 Anchored Artifacts: A-1041.2
-Related Nodes: N-2, N-13, N-1022
+Related Nodes: N-2, N-14, N-1039
 Confidence: medium
 Investigative Direction: Obtain direct testimony from both parties.
 
@@ -554,7 +554,7 @@ Claim Timestamp: 42:56
 Claim: Justin Strife, future COO of Turning Point USA, appears in news footage discussing the Kirkwood city council shooting in 2008.
 Transcript Snippet: regarding that shooting in Missouri in...2008, he appears in news clip uh and he...speaks about Cookie. I don't know if he...was working at the city council hall. He...definitely sounds familiar with what's...going on. I'm just going to let you...listen to him in his own words. Take a...listen.
 Anchored Artifacts: A-1042.1
-Related Nodes: N-27, N-60
+Related Nodes: N-40, N-41
 Confidence: medium
 Investigative Direction: Verify news footage and Strife's location at that time.
 
@@ -568,7 +568,7 @@ Claim Timestamp: 42:56
 Claim: Multiple Turning Point affiliates have personal connections to various mass shootings including Aurora, Thousand Oaks, and Vegas.
 Transcript Snippet: listen....>> Sirens whale outside Kirkwood City Hall...in Missouri, the building that usually...houses mundane civic meetings became the...scene of a rampage Thursday night after...a gunman stormed the building and opened...fire. Two police officers and three city...officials were killed. The mayor was
 Anchored Artifacts: A-1042.1
-Related Nodes: N-61, N-1
+Related Nodes: N-42, N-1
 Confidence: medium
 Investigative Direction: Verify specific connections and timelines.
 
@@ -579,7 +579,7 @@ Investigative Direction: Verify specific connections and timelines.
 ### Occurrence 1
 
 Video Timestamp: 16:10
-Speaker: N-11
+Speaker: N-7
 Quote: There's just so much synergy here.
 Context: Host sarcastically noting pattern of coincidences between Tyler Bowyer's military and academic timeline and Erika's enrollment
 Tags: sarcasm, pattern_observation
@@ -588,7 +588,7 @@ Confidence: high
 ### Occurrence 2
 
 Video Timestamp: 22:44
-Speaker: N-11
+Speaker: N-7
 Quote: Yeah. Erika, you know, there is just so much synergy building, right?
 Context: Host again noting apparent coincidences between Kolvets, Frantzves, and Bowyers in Romania
 Tags: sarcasm, pattern_observation
@@ -601,7 +601,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 14:34
-Speaker: N-11
+Speaker: N-7
 Quote: Now, this all could just be a happy coincidence.
 Context: Host introducing the pattern of Nevada-Romania connections
 Tags: sarcasm, pattern_observation
@@ -610,7 +610,7 @@ Confidence: high
 ### Occurrence 2
 
 Video Timestamp: 23:07
-Speaker: N-11
+Speaker: N-7
 Quote: It's much more likely that Erika just happened to enroll in Arizona State University... I'm sure this is all happy coincidence
 Context: Host sarcastically dismissing claimed coincidences
 Tags: sarcasm, disbelief
@@ -623,7 +623,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 14:36
-Speaker: N-11
+Speaker: N-7
 Quote: Unless you're a conspiracy theorist like me
 Context: Host self-identifying as conspiracy theorist while investigating patterns
 Tags: self_identification, investigation
@@ -632,7 +632,7 @@ Confidence: high
 ### Occurrence 2
 
 Video Timestamp: 14:53
-Speaker: N-11
+Speaker: N-7
 Quote: Like I said, you shouldn't be like me. Don't be a conspiracy theorist.
 Context: Host telling viewers not to be conspiracy theorists while presenting theory
 Tags: irony, admonition

@@ -12,10 +12,10 @@
 ### Pattern A — The "Single Mother" / Family-Presence Inversion
 The single most durable cross-episode tension is between Erika Kirk's stated "single mother" upbringing and the documented presence of multiple father figures, business partners, and a multi-generational network around her.
 
-- **Ep. 1 (C-1003):** Erika claims single-mother upbringing, but Kent Frantzve, stepfather Larry Guinta (N-33), and morfar Carl Kenneth Frantzve (N-7) appear in artifacts.
-- **Ep. 4 (A-1020.1):** Erika publicly displays close relationship with "Uncle Rick" Erpenbeck (N-16) at Universal Studios.
+- **Ep. 1 (C-1003):** Erika claims single-mother upbringing, but Kent Frantzve, stepfather Larry Guinta (N-8), and morfar Carl Kenneth Frantzve (N-5) appear in artifacts.
+- **Ep. 4 (A-1020.1):** Erika publicly displays close relationship with "Uncle Rick" Erpenbeck (N-18) at Universal Studios.
 - **Ep. 5 (C-1054, C-1057):** Nancy Gerard (Tesseract principal) and Dennis Frantzve (cousin, Marine Lt. Col.) appear as father figures/mentors — yet Erika was apparently "missing" 2000–2002 (C-1059) during the same period Lori was receiving military contracts.
-- **Ep. 8 (C-1086):** Erika enrolled at Notre Dame Prep under Bishop Thomas J. O'Brien (N-66) — yet another institutional father figure.
+- **Ep. 8 (C-1086):** Erika enrolled at Notre Dame Prep under Bishop Thomas J. O'Brien (N-47) — yet another institutional father figure.
 
 The pattern: A declared "single mother" narrative is surrounded by a dense web of fathers, uncles, cousins, mentors, and clergy figures across 25+ years.
 
@@ -36,18 +36,18 @@ This is **the strongest cross-episode investigative pressure** in the series —
 ### Pattern C — Lori Frantzve as Central Hub
 Lori Frantzve (N-3) is referenced as a node in **every single episode**, anchored to over 15 distinct artifacts. Her connections form a hub-and-spoke pattern:
 
-- **Family spokes:** Kent (ex-husband), James Melvin Stanley (first husband, N-51), John Robert Walstad (second husband, N-52), Larry Guinta (third), Larry Stanley (fourth)
-- **Business spokes:** Erpenbecks (N-16, N-41–45), Tyler Bowyer (N-13), Super Feed Technologies (N-1047), Feed Me Inc (N-1080), G-Tech Industries (N-1079), Saxon Capital Group (A-1054.3), IMAT Labs (N-1064), E3 Tech (N-1058)
-- **Government/military spokes:** Operation Enduring Freedom (N-1063), Army National Guard ($2.4M), DHS contracts, Romania bases
-- **Charity spokes:** Everyday Heroes Like You (N-1059/N-1073), Bible in 365
+- **Family spokes:** Kent (ex-husband), James Melvin Stanley (first husband, N-29), John Robert Walstad (second husband, N-30), Larry Guinta (third), Larry Stanley (fourth)
+- **Business spokes:** Erpenbecks (N-18–N-23), Tyler Bowyer (N-14), Super Feed Technologies (N-1018), Feed Me Inc (N-1054), G-Tech Industries (N-1053), Saxon Capital Group (A-1054.3), IMAT Labs (N-1037), E3 Tech (N-1031)
+- **Government/military spokes:** Operation Enduring Freedom (N-1036), Army National Guard ($2.4M), DHS contracts, Romania bases
+- **Charity spokes:** Everyday Heroes Like You (N-1032/N-1048), Bible in 365
 
 The convergence across episodes 3, 5, 6, 7, 8 — all with artifact-anchored corporate filings — establishes Lori as the structural center of the alleged network, not Erika.
 
 ### Pattern D — The Erpenbeck Convergence
 The Erpenbeck family appears across three episodes with escalating depth:
 
-- **Ep. 3:** Rick Erpenbeck (N-16) as divorce witness; entire Erpenbeck family fraud case ($34M bank fraud, 2003); 25-year business relationship through LLC filings (A-1012, A-1013, A-1014)
-- **Ep. 4:** Erika displays close public relationship with Rick at Universal Studios; family criminal history (Bill Erpenbeck, N-42, served 20+ years)
+- **Ep. 3:** Rick Erpenbeck (N-18) as divorce witness; entire Erpenbeck family fraud case ($34M bank fraud, 2003); 25-year business relationship through LLC filings (A-1012, A-1013, A-1014)
+- **Ep. 4:** Erika displays close public relationship with Rick at Universal Studios; family criminal history (Bill Erpenbeck, N-20, served 20+ years)
 - **Ep. 5:** Rick Erpenbeck lost law license in 2009 (C-1050, C-1051) for failing to disclose existing mortgages during title searches and stock transfer scheme via LLC
 
 This is the only fully-documented criminal network in the series with direct documented ties to Erika's immediate family circle.
@@ -72,7 +72,7 @@ Each major religious institution Erika is connected to surfaces a documented sca
 - **Notre Dame Prep (Ep. 8):** Bishop Thomas J. O'Brien — first American Catholic bishop charged with felony (hit-and-run killing Jim Lee Reed, 2003) AND subject of grand jury investigation for covering up priest sexual abuse
 - **Hillsong connection (Ep. 3, C-1026):** Brian Houston covered up father's pedophilia; Pastor Terry Crist connection
 - **Mormon upbringing (Ep. 2):** Jerry Frantzve ran away from "strict Mormon upbringing"
-- **Project Looking Glass (Ep. 1, N-1035):** Tesseract named after "Wrinkle in Time" reference; Looking Glass School connection
+- **Project Looking Glass (Ep. 1, N-1006):** Tesseract named after "Wrinkle in Time" reference; Looking Glass School connection
 
 The pattern: religious/educational institutions associated with Erika have documented histories of abuse cover-ups, financial scandals, or intelligence-program ties.
 
@@ -89,7 +89,7 @@ Across episodes 3, 4, 7, and 8, Erika's public post-2024 narrative is contradict
 This is the second-strongest investigative pressure after Pattern B.
 
 ### Pattern H — Tyler Bowyer Network Convergence
-Tyler Bowyer (N-13) connects to Lori's business empire (Super Feed Technologies/Feed Me Inc), Charlie's introduction to Erika, the Romania trip, the Arizona Board of Regents appointment (atypical, by Governor Jan Brewer), and Las Vegas office expansion. He appears as a node in 6 of 8 episodes.
+Tyler Bowyer (N-14) connects to Lori's business empire (Super Feed Technologies/Feed Me Inc), Charlie's introduction to Erika, the Romania trip, the Arizona Board of Regents appointment (atypical, by Governor Jan Brewer), and Las Vegas office expansion. He appears as a node in 6 of 8 episodes.
 
 ### Pattern I — Military/Intelligence Pattern
 A documented through-line of military and intelligence connections:
@@ -126,13 +126,13 @@ These mark recurring rhetorical pivots where the host signals awareness that the
 - Anchored by A-1000.1, A-1001.1, A-1012.1, A-1019.1-6, A-1051.1
 - Single most cross-validated discrepancy in series
 
-**N-13 Tyler Bowyer:** Appears in Episodes 2, 3, 5, 6, 7, 8
+**N-14 Tyler Bowyer:** Appears in Episodes 2, 3, 5, 6, 7, 8
 - Anchored by A-1018.1, A-1031.1, A-1038.1, A-1045.1, A-1046.1, A-1054.2
 
 ### Tier 2 — High Pressure
 
-**N-1031 Tesseract School:** Episodes 1, 2, 5, 6, 8
-**N-16 Rick Erpenbeck:** Episodes 3, 4, 5
+**N-1002 Tesseract School:** Episodes 1, 2, 5, 6, 8
+**N-18 Rick Erpenbeck:** Episodes 3, 4, 5
 **N-4 Kent Frantzve:** Episodes 1, 3, 4, 5 (divorce/marriage documents)
 
 ### Tier 3 — Documented Networks with Criminal/Scandal Histories
@@ -190,7 +190,7 @@ The following contradictions are surfaced across episodes where BOTH sides are a
 ### Contradiction 5 — Dating History in NYC
 - **Claim:** Did not date for 5 years in NYC before Charlie (C-1024, A-1016.2)
 - **Counter-claim:** Multiple boyfriends 2013-2018 (A-1017.1 tweets); rang in 2018 with boyfriend
-- **Episodes:** 3, 8 (additional boyfriends: Josh Harelson Ep. 7 N-30, JT Massie Ep. 7 N-32, Cabot Phillips Ep. 8 N-64)
+- **Episodes:** 3, 8 (additional boyfriends: Josh Harelson Ep. 7 N-43, JT Massie Ep. 7 N-44, Cabot Phillips Ep. 8 N-46)
 - **Status:** Strongly artifact-anchored on counter-claim side.
 
 ### Contradiction 6 — Pageant Grooming
@@ -240,7 +240,7 @@ The following contradictions are surfaced across episodes where BOTH sides are a
 | **Artifact Families** | 59 (A-1000 through A-1058) |
 | **Individual Artifacts** | ~95 distinct items |
 | **Claim Range** | C-1000 through C-1098 (99 claims) |
-| **Nodes (Persons)** | 72 distinct people (N-1 through N-72, plus N-1000, N-1014, etc.) |
+| **Nodes (Persons)** | 53 distinct people (N-1 through N-53 dense; investigation targets N-1000+) |
 | **Nodes (Organizations)** | ~20 |
 | **Nodes (Topics)** | ~25 |
 | **Memes** | 7 distinct (M-1, M-2, M-3 across episodes) |
@@ -273,9 +273,9 @@ The following contradictions are surfaced across episodes where BOTH sides are a
 
 2. **The "missing year" 2008 (Ep. 3, C-1023):** Erika vanishes from records while Lori receives $2.4M from Army National Guard and IMAT Labs. Connection between these events not established.
 
-3. **Dennis L. Frantzve (cousin) Marine role in Romania (Ep. 6, N-23, C-1070):** Erika's "distant cousin" showed her around the Romania base. Direct relationship not verified.
+3. **Dennis L. Frantzve (cousin) Marine role in Romania (Ep. 6, N-36, C-1070):** Erika's "distant cousin" showed her around the Romania base. Direct relationship not verified.
 
-4. **The Lombardi lineage claim (Ep. 4, C-1029, N-1014):** Charlie Kirk stated Erika's mom is a direct Lombardi descendant; Angeline Abbas obituary doesn't confirm lineage.
+4. **The Lombardi lineage claim (Ep. 4, C-1029, N-1025):** Charlie Kirk stated Erika's mom is a direct Lombardi descendant; Angeline Abbas obituary doesn't confirm lineage.
 
 5. **Tyler Bowyer's Romania senator (Ep. 5, C-1048, C-1049):** Identity never established. Farnsworth family connection speculated (C-1055).
 
@@ -285,7 +285,7 @@ The following contradictions are surfaced across episodes where BOTH sides are a
 
 9. **The "Kanye connection" (Ep. 8, C-1094):** Alleged witness testimony that Erika knew people in Kanye's circle and influenced Blexit tweets. Source witness referenced but testimony not formally captured.
 
-10. **Bible in 365 launch date (Ep. 7, C-1083, N-1083):** Erika claims 2016 launch; corporate filings referenced but not produced.
+10. **Bible in 365 launch date (Ep. 7, C-1083, N-1057):** Erika claims 2016 launch; corporate filings referenced but not produced.
 
 11. **The "Aunt Pat" / Egypt/Australia claims (referenced in Ep. 4 audio but not fully explored):** Erika claimed to have lived in multiple countries (China, Romania, Croatia, Puerto Rico) — most tracked to boyfriend movements.
 
@@ -297,11 +297,11 @@ The following contradictions are surfaced across episodes where BOTH sides are a
 
 15. **The Erpenbeck-Tier Tyler Bowyer-Lori chain (Ep. 3, 5, 8):** Rick Erpenbeck → Lori → Tyler Bowyer → Charlie Kirk → Erika Kirk. Personal relationships vs. business relationships not fully distinguished.
 
-16. **Erika's 2015-2018 financial situation (Ep. 8, N-1081, C-1089):** No documented employment; living in NYC; international travel; Corcoran real estate (only 3 deals). Source of funds not established.
+16. **Erika's 2015-2018 financial situation (Ep. 8, N-1055, C-1089):** No documented employment; living in NYC; international travel; Corcoran real estate (only 3 deals). Source of funds not established.
 
 17. **The "Proclaim" website claim of pre-existing business (Ep. 7, C-1075):** Wayback Machine shows earliest items Jan 2021 — but Erika's narrative describes an established business in operation before Charlie.
 
-18. **Morfar/Farfar terminology (Ep. 1, N-1038):** Erika's use of "morfar" (mother's father) for paternal grandfather Carl Frantzve was flagged as an unexplained discrepancy never fully resolved.
+18. **Morfar/Farfar terminology (Ep. 1, N-1009):** Erika's use of "morfar" (mother's father) for paternal grandfather Carl Frantzve was flagged as an unexplained discrepancy never fully resolved.
 
 19. **The "Walnut Corner Children's Center" corporate building (Ep. 1, A-1006.1; Ep. 5, A-1024.1):** Daycare inside a corporate building owned by Child Care Visions — unusual structure; no further exploration.
 
@@ -325,7 +325,7 @@ The following contradictions are surfaced across episodes where BOTH sides are a
 
 2. **Witness testimony weight:** Several counter-claims rely on witness testimony (Justin Strife email, Kolvet brothers, Regis team members). These are weaker than document-anchored claims.
 
-3. **Speculative/interpretive leaps (host-marked):** Crowley-Bush connection (C-1014), MK Ultra direct involvement at Tesseract (C-1011), Charlie Kirk "assassination" framing (N-1 context), paternity implications from morfar terminology (N-1038) — these are interpretive, not artifact-anchored.
+3. **Speculative/interpretive leaps (host-marked):** Crowley-Bush connection (C-1014), MK Ultra direct involvement at Tesseract (C-1011), Charlie Kirk "assassination" framing (N-1 context), paternity implications from morfar terminology (N-1009) — these are interpretive, not artifact-anchored.
 
 4. **Geographic pattern weight:** The convergence of small geographic locations (Reno, Constanta, Maricopa County, Paradise Valley, Walnut Corner, Walnut Hills) into the same network exceeds coincidence thresholds without yet establishing causation.
 
