@@ -10,8 +10,8 @@
 - **Transcript SHA-256**: bb3ec385a31a9ea27f29a181c88f1c534aa6eacd6969321bfbd2d2a33ebb5618
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1000, A-1001, A-1002, A-1003, A-1004, A-1005, A-1006
-  - Claim Range: C-1000-C-1007
+  - Artifact Families Introduced: A-1000, A-1001, A-1002, A-1003, A-1004, A-1005, A-1006, A-1060
+  - Claim Range: C-1000-C-1007, C-1099-C-1100
   - New Nodes Introduced: N-1, N-2, N-3, N-4, N-5, N-6, N-7, N-8, N-9, N-10, N-11, N-12, N-1000, N-1001, N-1002, N-1003, N-1004, N-1005, N-1006, N-1007, N-1008, N-1009, N-1010
 
 ## 2. Executive Summary
@@ -141,6 +141,18 @@ Transcript Snippet: Okay, you guys, there is a very strange...thing happening ri
 Confidence: high
 
 ---
+
+**A-1060** Elizabeth Lane X Post Bundle
+
+**A-1060.1** Elizabeth Lane viral X post on Erika Kirk (read in full by Candace Owens)
+Event Timestamp: Undated (viral on X during episode preparation; no calendar date attested in transcript)
+Event Timestamp Note: original post date not stated in episode; left undated deliberately.
+Video Timestamp: 04:55–11:29
+*Related: C-1099, C-1100, N-6, N-2, N-7*
+Transcript Snippet: Elizabeth Lane wrote, "I'm...going to be blunt. I have reached the...point where I find Erika Kirk to be...deeply disturbing, not because of rumors...or gossip, but because of consistent...observable patterns of behavior....I believe she may be a psychopath....Again, this is just my opinion.
+Confidence: high
+
+---
 ## 4. Node Register
 
 **N-1** Charlie Kirk
@@ -157,7 +169,7 @@ Founder of Turning Point USA, allegedly assassinated. Husband of Erika Kirk.
 Node Type: Person
 Main subject of investigation. Widow of Charlie Kirk, now CEO/chairman of Turning Point USA. Born Erika Frantzve.
 
-*Related: A-1000.1, A-1001.1, A-1001.2, A-1001.3, A-1002.1, A-1005.1, A-1005.2, A-1006.1, C-1000, C-1001, C-1003, C-1006, C-1007*
+*Related: A-1000.1, A-1001.1, A-1001.2, A-1001.3, A-1002.1, A-1005.1, A-1005.2, A-1006.1, A-1060.1, C-1000, C-1001, C-1003, C-1006, C-1007, C-1099, C-1100*
 
 ---
 
@@ -166,7 +178,7 @@ Main subject of investigation. Widow of Charlie Kirk, now CEO/chairman of Turnin
 Node Type: Person
 Host of Bride of Charlie investigative series.
 
-*Related: *
+*Related: A-1060.1, C-1100*
 
 ---
 
@@ -175,7 +187,7 @@ Host of Bride of Charlie investigative series.
 Node Type: Person
 Investigative journalist who wrote viral post analyzing Erika Kirk's behavior patterns.
 
-*Related: *
+*Related: A-1060.1, C-1099*
 
 ---
 
@@ -479,6 +491,32 @@ Related Nodes: N-2, N-1002, N-1003, N-1006
 Confidence: high
 Uncertainty: Tesseract named after Wrinkle in Time - related to Project Looking Glass discussion
 Investigative Direction: Obtain enrollment records and yearbooks confirming attendance at Tesseract.
+
+---
+
+**C-1099** Elizabeth Lane Psychopath Opinion About Erika Kirk
+
+Claim Timestamp: 05:55
+Claim: Investigative journalist Elizabeth Lane authored a viral X post stating that Erika Kirk exhibits consistent observable patterns of behavior and that Lane believes Erika may be a psychopath; Lane explicitly frames the assessment as her opinion, not a clinical diagnosis.
+Transcript Snippet: I believe she may be a psychopath....What stands out immediately is the...reaction that she provokes in other...people, which is very common with...psychopaths across the board, including...people who support her publicly....Again, this is just my opinion.
+Anchored Artifacts: A-1060.1
+Related Nodes: N-6, N-2, N-7
+Confidence: high
+Uncertainty: Third-party opinion read aloud by host; not a clinical assessment or verified fact claim
+Investigative Direction: Preserve original X post URL and posting date if available; distinguish opinion framing from evidentiary claims elsewhere in the series.
+
+---
+
+**C-1100** Candace Owens Concurs With Lane Psychopath Assessment
+
+Claim Timestamp: 11:55
+Claim: After reading Elizabeth Lane's viral X post in full, Candace Owens states that she concurs with Lane's assessment that there is something deeply unsettling about Erika Kirk's presentation.
+Transcript Snippet: And also, in a word, yes, I concur. Uh,...there is something about her. I don't...know any single personality in the media...or politics that has had the same effect...that Erika has had on people worldwide.
+Anchored Artifacts: A-1060.1
+Related Nodes: N-7, N-2, N-6
+Confidence: high
+Uncertainty: Host opinion/concurrence with Lane's framing, not an independent clinical or documentary claim
+Investigative Direction: Track whether later episodes substantiate or revisit elements Lane raised (personality adaptation, performative grief, post-death CEO transition).
 
 ## 6. Meme Register
 
