@@ -139,7 +139,7 @@ Confidence: medium
 Event Timestamp: 2010
 Video Timestamp: 29:38–30:12
 Transcript Snippet: some work with a senator in the...parliament there." And then he says,..."And he was friends, meaning the senator...in Romania was friends with this guy...that owned a modeling agency and took me...to the beach that's going to be in...Constanta, just so you know. for 4 days...and legit slept collectively like 10
-*Related: C-1048, C-1049, C-1052, C-1055, N-13, N-1060*
+*Related: C-1048, C-1049, N-13, N-1060*
 Confidence: medium
 
 ---
@@ -608,13 +608,6 @@ Confidence: high
 Investigative Direction: Verify Romanian government agreement documents from October 2009.
 
 ---
-Claim Timestamp: 02:10
-Anchored Artifacts: A-1029.3
-Transcript Snippet: gender issues in 1990. Take a look at...this. Wow. According to Frantzve, the...final big project of the semester, this...is at Radford, will be taking a group of...students to Eastern Europe. We will...research the expectations of men and...women as work life and day-to-day life...change after the wall came down. Really,
-
----
-
----
 
 **C-1045** Romanian base agreement coincided with Jeffrey Epstein interest
 
@@ -700,20 +693,11 @@ Investigative Direction: Verify military deployment records for Black Sea Rotati
 
 Claim Timestamp: 29:38
 Claim: Tyler Bowyer was in Romania from May through summer 2010 working with a Romanian senator.
-Transcript Snippet: the bottom of my inbox and I was saying,..."I know that he went to Romania and was...trying to figure out what he was doing."...And they were like, "Oh, I actually...talked to him about that." They were...super friendly about it. I talked to him...about that. And here's the conversation....Tyler writes, "I went to Romania to do
-Anchored Artifacts: A-1031.2
+Transcript Snippet: the bottom of my inbox and I was saying,..."I know that he went to Romania and was...trying to figure out what he was doing."...And they were like, "Oh, I actually...talked to him about that." They were...super friendly about it. I talked to him...about that. And here's the conversation....Tyler writes, "I went to Romania to do...some work with a senator in the...parliament there." And then he says,..."And he was friends, meaning the senator...in Romania was friends with this guy
+Anchored Artifacts: A-1031.1
 Related Nodes: N-13, N-1060
 Confidence: medium
 Investigative Direction: Verify Tyler Bowyer's travel records and activities in Romania 2010.
-
----
-Claim Timestamp: 36:06
-Transcript Snippet: pilgrimage, I guess, and there Charlie...was at the airport in Israel. You saw...him. Your mom said go up to him. She's a...pusher, right? Lori's a pusher. I always...thought it was so strange how you never...mentioned that I was at the airport with...Charlie. Just thought that was so weird....You never said that. I saw Charlie with
-Claim Timestamp: 55:14
-Anchored Artifacts: A-1031.3
-Transcript Snippet: guy. Tyler Bowyer is drinking in Romania,...enjoying the models, the ladies. Who was...the person in Romanian parliament that...he went out to see? How does that...happen? Tyler was in college. Who set...that up? Could it have been a...Farnsworth? Very close with that family,...aren't you? They were in office. H I'll
-
----
 
 ---
 

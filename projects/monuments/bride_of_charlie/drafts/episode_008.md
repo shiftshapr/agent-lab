@@ -185,7 +185,7 @@ Deceased founder of Turning Point USA, subject of investigation
 Node Type: Person
 Primary subject - Charlie Kirk's widow, claims to have met Charlie in 2018
 
-*Related: A-1054.2, A-1054.4, A-1055.1, A-1057.1, A-1058.1, A-1059.1, C-1089, C-1091, C-1092, C-1098, C-1093, C-1094, C-1095, C-1086, C-1097, C-1098*
+*Related: A-1054.2, A-1054.4, A-1055.1, A-1057.1, A-1058.1, A-1059.1, C-1086, C-1089, C-1091, C-1092, C-1093, C-1094, C-1095, C-1097, C-1098*
 
 ---
 
