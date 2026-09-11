@@ -10,7 +10,7 @@
 - **Transcript SHA-256**: b9c0ae4e686d01c942c29d239e1a6f01afb2ac57ff2591c3f5b66d81ab14e769
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1007, A-1008, A-1009, A-1010, A-1011
+  - Artifact Families Introduced: A-1007, A-1008, A-1009, A-1010, A-1011, A-1063
   - Claim Range: C-1008-C-1015
   - New Nodes Introduced: N-13, N-14, N-15, N-16, N-17, N-1011, N-1012, N-1013, N-1014, N-1015, N-1016, N-1017
   - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-1002, N-1004
@@ -111,6 +111,18 @@ Transcript Snippet: Turning Point USA is Tyler Bowyer. You will...recall that wh
 Confidence: medium
 
 ---
+
+**A-1063** John Money Explainer Clip Bundle
+
+**A-1063.1** John Money explainer clip (gender ideology / twin experiment)
+Event Timestamp: Undated in episode source
+Event Timestamp Note: historical subject; clip shown for context without calendar date in episode.
+Video Timestamp: 36:33–37:33
+*Related: C-1011, N-17, N-13*
+Transcript Snippet: Take a listen....John Money. He's one of the greatest...villains in history. And he is the...father of gender ideology. And he became...that by abusing two twin boys, one of...whom had his genitalia basically...destroyed in a botched circumcision....Money believed that sexuality was fluid.
+Confidence: high
+
+---
 ## 4. Node Register
 
 **N-1** Charlie Kirk
@@ -136,7 +148,7 @@ Widow of Charlie Kirk, subject of investigation
 Node Type: Person
 Kent Frantzve's first wife, psychologist with DuPont and Tesseract connections
 
-*Related: A-1007.1, A-1008.1, C-1008, C-1009, C-1010*
+*Related: A-1007.1, A-1008.1, A-1063.1, C-1008, C-1009, C-1010, C-1011*
 
 ---
 
@@ -200,7 +212,7 @@ Turning Point USA staffer who introduced Charlie and Erika
 Node Type: Person
 Psychologist, colleague of Jerry Frantzve, pioneer of gender ideology
 
-*Related: C-1011*
+*Related: A-1063.1, C-1011*
 
 ---
 
@@ -364,7 +376,7 @@ Investigative Direction: Obtain enrollment records from Tesseract
 Claim Timestamp: 32:05
 Claim: Tesseract board member Phil Bliss was MK Ultra-connected drug counselor; Jerry Frantzve worked with Dr. John Money
 Transcript Snippet: named Phil Bliss who joins the board of...Tesseract....Okay, Phil Bliss here over there in the...corner. Phil Bliss, the board member,...was involved with Stanford University in...the 70s. I'm not going to Yes, I am. MK...Ultra, MK Ultra. Okay. He was known...widely during that time as a drug
-Anchored Artifacts: A-1009.2
+Anchored Artifacts: A-1009.2, A-1063.1
 Related Nodes: N-1002, N-15, N-17, N-1004, N-1005, N-1013
 Confidence: medium
 Investigative Direction: Verify personnel records and connections between individuals

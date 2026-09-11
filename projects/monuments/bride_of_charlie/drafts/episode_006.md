@@ -10,9 +10,9 @@
 - **Transcript SHA-256**: 34f5d4923dae1e5b528c3e2f10f557745da8bf3cf07902005e54e8f624c99d6a
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1033, A-1034, A-1035, A-1036, A-1037, A-1038, A-1039, A-1040, A-1041, A-1042
+  - Artifact Families Introduced: A-1033, A-1034, A-1035, A-1036, A-1037, A-1038, A-1039, A-1040, A-1041, A-1042, A-1064, A-1069
   - Claim Range: C-1060-C-1074
-  - New Nodes Introduced: N-36, N-37, N-38, N-39, N-40, N-1038, N-41, N-42, N-1039, N-1040, N-1041, N-1042, N-1043, N-1044, N-1045, N-1046, N-1047, N-1048
+  - New Nodes Introduced: N-36, N-37, N-38, N-39, N-40, N-1038, N-41, N-42, N-1039, N-1040, N-1041, N-1042, N-1043, N-1044, N-1045, N-1046, N-1047, N-1048, N-1060
   - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14
 
 ## 2. Executive Summary
@@ -125,7 +125,7 @@ Confidence: high
 **A-1042.1** News clip of Kirkwood city council shooting with Justin Strife appearance
 Event Timestamp: February 7, 2008
 Video Timestamp: 42:56-45:08
-*Related: C-1072, C-1073, N-41, N-42*
+*Related: C-1072, C-1073, A-1064.1, N-41, N-42*
 Transcript Snippet: listen....>> Sirens whale outside Kirkwood City Hall...in Missouri, the building that usually...houses mundane civic meetings became the...scene of a rampage Thursday night after...a gunman stormed the building and opened...fire. Two police officers and three city...officials were killed. The mayor was
 Confidence: high
 
@@ -138,6 +138,29 @@ Video Timestamp: 32:59–33:36
 *Related: C-1074, N-2, N-14, N-1039*
 Transcript Snippet: Erika pretending she does not remember...how she met Tyler Bowyer and both of them...changing their stories. Tyler Bowyer...responded to somebody on X and said he...met her. He met Erika um at the Trump...rally, but he maybe forgot. Maybe he had...another long night in Romania, but he...maybe forgot. But he had already given a
 Confidence: medium
+
+---
+
+**A-1064** Sierra Santos Tweet Bundle
+
+**A-1064.1** Sierra Santos / Miss Arizona Aurora tweet
+Event Timestamp: Undated in episode source
+Event Timestamp Note: tweet shown on-screen; calendar date not attested in transcript.
+Video Timestamp: 29:17–30:00
+*Related: C-1073, N-2*
+Transcript Snippet: that later, but this is the tweet. Um,...you're noticing it says Sierra Santos....It is just to remind you the handle is...real Miss Arizona USA and who that is...changes every year. It's like the pus...handle on X. So Joe Biden might be...tweeting um or Trump might be tweeting...depending on who is actually the pus....Same way in pageant world. So this is...actually Erika tweeting back at someone
+Confidence: high
+
+---
+
+**A-1069** Hugo Salazar Exhibit Bundle
+
+**A-1069.1** Maj. Gen. Hugo E. Salazar 1994 JTF narcotics exhibit on-screen
+Event Timestamp: 1994
+Video Timestamp: 31:23–31:32
+*Related: N-1048, N-1060*
+Transcript Snippet: worked in narcotics. Look at this. This...is in 1994 by the way. He's working...here. Um joint task force narcotics....It's giving Mitch Snow telling us about...Fort Wuka and how generals were working...with the cartels in 1990 got busted.
+Confidence: high
 
 ---
 ## 4. Node Register
@@ -156,7 +179,7 @@ Host of the Bride of Charlie investigation series
 Node Type: Person
 Primary subject of investigation - widow of Charlie Kirk
 
-*Related: A-1033.1, A-1040.1, A-1041.1, C-1060, C-1066, C-1069, C-1070, C-1071, C-1074*
+*Related: A-1033.1, A-1040.1, A-1041.1, A-1064.1, C-1060, C-1066, C-1069, C-1070, C-1071, C-1074, C-1073*
 
 ---
 
@@ -357,7 +380,16 @@ Node Type: Organization
 Organization Kind: nonprofit
 Erika's humanitarian organization
 
-*Related: A-1035.1, C-1062*
+*Related: A-1035.1, A-1069.1, C-1062*
+
+---
+
+**N-1060** Hugo E. Salazar
+
+Node Type: Person
+Major General thanked in Everyday Heroes context; 1994 joint task force narcotics exhibit shown on-screen
+
+*Related: A-1069.1, N-1048*
 
 ---
 
@@ -567,8 +599,8 @@ Investigative Direction: Verify news footage and Strife's location at that time.
 Claim Timestamp: 42:56
 Claim: Multiple Turning Point affiliates have personal connections to various mass shootings including Aurora, Thousand Oaks, and Vegas.
 Transcript Snippet: listen....>> Sirens whale outside Kirkwood City Hall...in Missouri, the building that usually...houses mundane civic meetings became the...scene of a rampage Thursday night after...a gunman stormed the building and opened...fire. Two police officers and three city...officials were killed. The mayor was
-Anchored Artifacts: A-1042.1
-Related Nodes: N-42, N-1
+Anchored Artifacts: A-1042.1, A-1064.1
+Related Nodes: N-42, N-1, N-2
 Confidence: medium
 Investigative Direction: Verify specific connections and timelines.
 

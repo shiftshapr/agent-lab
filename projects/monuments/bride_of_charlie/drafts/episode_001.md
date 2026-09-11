@@ -10,7 +10,7 @@
 - **Transcript SHA-256**: bb3ec385a31a9ea27f29a181c88f1c534aa6eacd6969321bfbd2d2a33ebb5618
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1000, A-1001, A-1002, A-1003, A-1004, A-1005, A-1006, A-1060
+  - Artifact Families Introduced: A-1000, A-1001, A-1002, A-1003, A-1004, A-1005, A-1006, A-1060, A-1061, A-1062
   - Claim Range: C-1000-C-1007, C-1099-C-1100
   - New Nodes Introduced: N-1, N-2, N-3, N-4, N-5, N-6, N-7, N-8, N-9, N-10, N-11, N-12, N-1000, N-1001, N-1002, N-1003, N-1004, N-1005, N-1006, N-1007, N-1008, N-1009, N-1010
 
@@ -149,6 +149,30 @@ Confidence: high
 
 ---
 
+**A-1061** Press Coverage Bundle
+
+**A-1061.1** NYT interview and People magazine single-mother/CEO-mom framing
+Event Timestamp: Undated in episode source
+Event Timestamp Note: post-assassination interview timing referenced in transcript; exact calendar dates not attested.
+Video Timestamp: 16:36–17:29
+*Related: C-1003, N-2, N-3, N-1008*
+Transcript Snippet: recall that Erika sat down for an...in-person interview with the New York...Times days after Charlie was publicly...assassinated, and she confirmed to them...that the least traumatizing part about...Charlie's assassination was the prospect...of her now having to raise her children...alone. She wasn't traumatized by that...idea because she had seen the example...set for her by her mother growing up. As...People magazine later echoed, quote,..."Erika Kirk has learned a lot from her
+Confidence: high
+
+---
+
+**A-1062** Erika Audio Clip Bundle
+
+**A-1062.1** Erika audio: dad was stay-at-home dad
+Event Timestamp: Undated in episode source
+Event Timestamp Note: childhood period referenced in clip; no calendar date attested in transcript.
+Video Timestamp: 18:08–18:53
+*Related: C-1003, N-2, N-4*
+Transcript Snippet: Erika's. Take a listen. Hold on. I do...not want to knock the stay-at-home dads....I do not. There are some who had to who...temporarily have to switch that role....That happened to my parents a long time...ago. Granted, again, they got a divorce,...so that probably falls into your bucket....But...>> I am an anthropologist,...>> but my dad was a stay-at-home dad for a...few years, and I got to say, it was...really sweet and really special. I was
+Confidence: high
+
+---
+
 **A-1060** Elizabeth Lane X Post Bundle
 
 **A-1060.1** Elizabeth Lane viral X post on Erika Kirk (read in full by Candace Owens)
@@ -176,7 +200,7 @@ Founder of Turning Point USA, allegedly assassinated. Husband of Erika Kirk.
 Node Type: Person
 Main subject of investigation. Widow of Charlie Kirk, now CEO/chairman of Turning Point USA. Born Erika Frantzve.
 
-*Related: A-1000.1, A-1001.1, A-1001.2, A-1001.3, A-1002.1, A-1005.1, A-1005.2, A-1005.3, A-1006.1, A-1060.1, C-1000, C-1001, C-1003, C-1006, C-1007, C-1099, C-1100*
+*Related: A-1000.1, A-1001.1, A-1001.2, A-1001.3, A-1002.1, A-1005.1, A-1005.2, A-1005.3, A-1006.1, A-1060.1, A-1061.1, A-1062.1, C-1000, C-1001, C-1003, C-1006, C-1007, C-1099, C-1100*
 
 ---
 
@@ -203,7 +227,7 @@ Investigative journalist who wrote viral post analyzing Erika Kirk's behavior pa
 Node Type: Person
 Erika Kirk's father. Present during her childhood despite claims of single-mother upbringing.
 
-*Related: A-1001.1, A-1001.2, A-1001.3, C-1001, C-1002, C-1003*
+*Related: A-1001.1, A-1001.2, A-1001.3, A-1062.1, C-1001, C-1002, C-1003*
 
 ---
 
@@ -214,7 +238,7 @@ Erika Kirk's father. Present during her childhood despite claims of single-mothe
 Node Type: Person
 Erika Kirk's mother. Filed for divorce in 1998.
 
-*Related: A-1001.1, A-1001.2, A-1001.3, C-1001, C-1002*
+*Related: A-1001.1, A-1001.2, A-1001.3, A-1061.1, C-1001, C-1002, C-1003*
 
 ---
 
@@ -358,7 +382,7 @@ Node Type: Topic
 Topic Kind: discrepancy
 Erika claims raised by single mother but father and stepfather were present throughout childhood
 
-*Related: A-1005.3, C-1003*
+*Related: A-1005.3, A-1061.1, C-1003*
 
 ---
 
@@ -463,7 +487,7 @@ Investigative Direction: Confirm employment records and company role.
 Claim Timestamp: 37:00
 Claim: Erika publicly claims she was raised by a single mother, but her father Kent was present throughout her childhood, and she also had a stepfather Larry Guinta present.
 Transcript Snippet: over the years, referring to him...affectionately as her morfar. Saw this...over and over again. And you just see...posts of him and how much she loves him....She even mentions her her grandmother...there. That's his wife Elaine and she...says she is my angel in heaven but I...usually call her mormor. So that's
-Anchored Artifacts: A-1005.1, A-1005.3
+Anchored Artifacts: A-1005.1, A-1005.3, A-1061.1, A-1062.1
 Related Nodes: N-2, N-4, N-5, N-8, N-1008, N-1009
 Confidence: high
 Uncertainty: Also involves morfar/farfar terminology issue suggesting possible paternity question

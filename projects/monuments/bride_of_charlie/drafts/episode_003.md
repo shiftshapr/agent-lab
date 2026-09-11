@@ -49,6 +49,13 @@ Video Timestamp: 10:26–13:20
 Transcript Snippet: Uh, check out just some snippets from...articles recapping this case. I'm going...to get to this part. Lori Anne Erpenbeck...was a standout character. Tells us...that by 2004, Lori Erpenbeck seemingly had...enough of her family. She already knew...that her brother Bill had thought about...killing her. So when dad Tony offered to
 Confidence: high
 
+**A-1013.3** FBI cooler-cash news clip (Erpenbeck 2009)
+Event Timestamp: 2009
+Video Timestamp: 17:23–17:48
+*Related: C-1019, N-19, N-20*
+Transcript Snippet: scandal. Take a listen. The Erpenbeck...name was back in the news in 2009 when...FBI agents dug up a cooler full of cash...from Summit Hills Country Club in...Crestview Hills. A friend had buried...money that he received from Erpenbeck...on the course next to Erpenbeck's...former home. Erpenbeck had hoped to use
+Confidence: high
+
 ---
 
 **A-1014** Lori Business Filings
@@ -120,6 +127,14 @@ Video Timestamp: 00:30–01:05
 Transcript Snippet: Not important for today. Lori Frantzve,...despite being ill, has recently been put...on the board of Super Feed Technologies...alongside Turning Point Actions COO...Tyler Bowyer. Shady dude. They're...effectively then business partners. They...have been for a while. Actually, Lori...was at first a director over at
 Confidence: high
 
+**A-1018.2** Yahoo News Kari Lake / Super Feed bribery headline
+Event Timestamp: Undated in episode source
+Event Timestamp Note: headline shown on-screen; filing month referenced in transcript without full calendar date.
+Video Timestamp: 21:15–21:42
+*Related: C-1016, N-3, N-14, N-1020*
+Transcript Snippet: Claims of bribery. I think I had it the...headline in Yahoo News. Kari Lakes...bribery scandal involves a shady GOP...tech firm. Yeah, they're referring to...Super Feed Technologies had its business...revoked by the state of Arizona while it...employed Jeff Dwit, its former COO, and...Lake, who had received more than
+Confidence: high
+
 ---
 
 **A-1017.2** Erika social posts — Terry Crist / Hillsong connection
@@ -146,7 +161,7 @@ Founder of Turning Point USA, deceased husband of Erika Kirk
 Node Type: Person
 Mother of Erika Kirk, involved in multiple businesses, board member at Super Feed Technologies
 
-*Related: A-1012.1, A-1014.1, A-1016.1, A-1018.1, C-1016, C-1017, C-1018, C-1020*
+*Related: A-1012.1, A-1014.1, A-1016.1, A-1018.1, A-1018.2, C-1016, C-1017, C-1018, C-1020*
 
 ---
 
@@ -166,7 +181,7 @@ Witness on Lori's divorce documents, longtime business associate of Lori, younge
 Node Type: Person
 Father of Erpenbeck siblings, sentenced for bank fraud, plotted murder/kidnapping
 
-*Related: A-1013.1, A-1013.2, C-1019*
+*Related: A-1013.1, A-1013.2, A-1013.3, C-1019*
 
 ---
 
@@ -175,7 +190,7 @@ Father of Erpenbeck siblings, sentenced for bank fraud, plotted murder/kidnappin
 Node Type: Person
 Erpenbeck brother, led fraud scheme, served 21 years
 
-*Related: A-1013.1, A-1013.2, C-1019*
+*Related: A-1013.1, A-1013.2, A-1013.3, C-1019*
 
 ---
 
@@ -221,7 +236,7 @@ Node Type: Organization
 Organization Kind: company
 Tech company with Lori on board, associated with Turning Point Action scandal
 
-*Related: A-1018.1, C-1016*
+*Related: A-1018.1, A-1018.2, C-1016*
 
 ---
 
@@ -240,7 +255,7 @@ University in Denver where Erika had basketball scholarship
 Node Type: Person
 COO of Turning Point Action, business partner with Lori
 
-*Related: A-1018.1, C-1016*
+*Related: A-1018.1, A-1018.2, C-1016*
 
 ---
 
@@ -331,7 +346,7 @@ Inconsistency between Erika's claims about dating history and evidence of multip
 Claim Timestamp: 00:30
 Claim: Lori Frantzve was recently put on the board of Super Feed Technologies alongside Turning Point Action COO Tyler Bowyer.
 Transcript Snippet: Now, as a part of the public...psychological campaign, Erika has been...curating videos to remind us that her...mother is very ill. I don't dispute...that. I do dispute that Erika was with...her on September 10th receiving a...treatment, but we'll get to that later....Not important for today. Lori Frantzve,
-Anchored Artifacts: A-1018.1
+Anchored Artifacts: A-1018.1, A-1018.2
 Related Nodes: N-3, N-1018, N-14, N-1020
 Confidence: high
 Investigative Direction: Verify corporate filings and board meeting minutes.
@@ -401,7 +416,7 @@ Investigative Direction: Obtain complete LLC filing history from state records.
 Claim Timestamp: 09:35
 Claim: The Erpenbeck family operated a massive home-building fraud scheme in Ohio/Kentucky around 2002-2003, defrauding banks of $34 million and leaving hundreds of homeowners with unpaid mortgages.
 Transcript Snippet: home ownership. You know, pay us...directly, we'll handle the rest, kind of...a deal. Young people buying homes for...the first time, but the homes, it turns...out, were not being built, and their...mortgages, it turned out, uh were not...being paid either. Take a listen to this...news clip. Erpenbeck served 21 years after
-Anchored Artifacts: A-1013.1, A-1013.2
+Anchored Artifacts: A-1013.1, A-1013.2, A-1013.3
 Related Nodes: N-19, N-20, N-21, N-22, N-23, N-1022
 Confidence: high
 Investigative Direction: Review court records from the Eastern District of Kentucky and Southern District of Ohio.
