@@ -46,7 +46,7 @@ Confidence: high
 Event Timestamp: 1983
 Video Timestamp: 23:33–23:55
 Transcript Snippet: the cover of this report really quickly....So it says that who's putting...together this report, the Center for...Gender Studies, and it lists five...names. Marjorie Weiland, George...Bourne, Richard Castor, Susan...Freedman, Jerry Frantzve. Well, not...what she doesn't communicate in this
-*Related: C-1011, N-13, N-1002, N-1013*
+*Related: C-1011, N-13, N-1002, N-1013, N-1016*
 Confidence: high
 
 ---
@@ -96,7 +96,7 @@ Confidence: medium
 **A-1009.2** Phil Bliss Tesseract board / MK Ultra connection (narration)
 Event Timestamp: 1990s
 Video Timestamp: 32:05–33:00
-*Related: C-1011, N-15, N-1002, N-1004*
+*Related: C-1011, N-15, N-1002, N-1004, N-1005*
 Transcript Snippet: named Phil Bliss who joins the board of...Tesseract....Okay, Phil Bliss here over there in the...corner. Phil Bliss, the board member,...was involved with Stanford University in...the 70s. I'm not going to Yes, I am. MK...Ultra, MK Ultra. Okay. He was known...widely during that time as a drug
 Confidence: medium
 
@@ -365,7 +365,7 @@ Claim Timestamp: 32:05
 Claim: Tesseract board member Phil Bliss was MK Ultra-connected drug counselor; Jerry Frantzve worked with Dr. John Money
 Transcript Snippet: named Phil Bliss who joins the board of...Tesseract....Okay, Phil Bliss here over there in the...corner. Phil Bliss, the board member,...was involved with Stanford University in...the 70s. I'm not going to Yes, I am. MK...Ultra, MK Ultra. Okay. He was known...widely during that time as a drug
 Anchored Artifacts: A-1009.2
-Related Nodes: N-1002, N-15, N-17, N-1004, N-1013
+Related Nodes: N-1002, N-15, N-17, N-1004, N-1005, N-1013
 Confidence: medium
 Investigative Direction: Verify personnel records and connections between individuals
 
@@ -379,7 +379,7 @@ Claim Timestamp: 44:25
 Claim: Tyler Bowyer introduced Charlie Kirk to Erika Kirk; Turning Point Action had missing millions
 Transcript Snippet: important relationship that Erika had at...Turning Point USA is Tyler Bowyer. You will...recall that when I sat down with her,...and I want to let you know that ahead of...today's episode and yesterday, one of...the questions that we keep asking that...we can't get an answer is, how does...Erika Kirk know Tyler Bowyer? She...couldn't recall that in person. We can't
 Anchored Artifacts: A-1010.2
-Related Nodes: N-1, N-2, N-14, N-1014
+Related Nodes: N-1, N-2, N-14, N-1014, N-1020
 Confidence: medium
 Investigative Direction: Obtain financial records from Turning Point Action
 

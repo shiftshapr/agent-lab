@@ -119,6 +119,13 @@ Video Timestamp: 39:50–40:10
 Transcript Snippet: On March 21st of 2019, Erika visits with...Charlie. She's in Jerusalem with...Charlie, what is known as Zion's Gate in...Jerusalem. She posts a picture uh with a...pretty curious cap uh caption. It reads...in part uh meet Darla, a Romanian Jew...that now calls Israel home. She was...sitting by my family's dedication sign
 Confidence: high
 
+**A-1005.3** Dual-citizenship social post ("Dual citizenship commenced")
+Event Timestamp: 2019
+Video Timestamp: 36:26–36:41
+*Related: C-1003, N-2, N-5, N-1008*
+Transcript Snippet: to her Scandinavian roots that in 2019,...she moved to begin the process of...obtaining her dual citizenship. She...posted this herself where she is. Dual...citizenship commenced.
+Confidence: high
+
 ---
 
 **A-1006** Daycare Records Bundle
@@ -169,7 +176,7 @@ Founder of Turning Point USA, allegedly assassinated. Husband of Erika Kirk.
 Node Type: Person
 Main subject of investigation. Widow of Charlie Kirk, now CEO/chairman of Turning Point USA. Born Erika Frantzve.
 
-*Related: A-1000.1, A-1001.1, A-1001.2, A-1001.3, A-1002.1, A-1005.1, A-1005.2, A-1006.1, A-1060.1, C-1000, C-1001, C-1003, C-1006, C-1007, C-1099, C-1100*
+*Related: A-1000.1, A-1001.1, A-1001.2, A-1001.3, A-1002.1, A-1005.1, A-1005.2, A-1005.3, A-1006.1, A-1060.1, C-1000, C-1001, C-1003, C-1006, C-1007, C-1099, C-1100*
 
 ---
 
@@ -225,7 +232,7 @@ Erika Kirk's stepfather, present in her life since elementary school.
 Node Type: Person
 Erika Kirk's paternal grandfather. Executive at American Bank Note Company that printed lottery tickets.
 
-*Related: A-1004.1, A-1005.1, C-1005*
+*Related: A-1004.1, A-1005.1, A-1005.3, C-1005*
 
 ---
 
@@ -351,7 +358,7 @@ Node Type: Topic
 Topic Kind: discrepancy
 Erika claims raised by single mother but father and stepfather were present throughout childhood
 
-*Related: C-1003*
+*Related: A-1005.3, C-1003*
 
 ---
 
@@ -456,8 +463,8 @@ Investigative Direction: Confirm employment records and company role.
 Claim Timestamp: 37:00
 Claim: Erika publicly claims she was raised by a single mother, but her father Kent was present throughout her childhood, and she also had a stepfather Larry Guinta present.
 Transcript Snippet: over the years, referring to him...affectionately as her morfar. Saw this...over and over again. And you just see...posts of him and how much she loves him....She even mentions her her grandmother...there. That's his wife Elaine and she...says she is my angel in heaven but I...usually call her mormor. So that's
-Anchored Artifacts: A-1005.1
-Related Nodes: N-2, N-4, N-8, N-1008, N-1009
+Anchored Artifacts: A-1005.1, A-1005.3
+Related Nodes: N-2, N-4, N-5, N-8, N-1008, N-1009
 Confidence: high
 Uncertainty: Also involves morfar/farfar terminology issue suggesting possible paternity question
 Investigative Direction: Obtain school records, yearbooks, and witness statements confirming father's presence.

@@ -135,7 +135,7 @@ Confidence: medium
 **A-1049.1** Audio: Erika claims living in China for sex trafficking work
 Event Timestamp: Pre-2018
 Video Timestamp: 32:41–33:30
-*Related: C-1083, N-2, N-40*
+*Related: C-1083, N-2, N-40, N-1048*
 Transcript Snippet: Take a listen. I decided to create...something called Everyday Heroes Like...You, where we're able to originally it...was focused on bringing funds and...awareness to various grassroots...organizations that were in specific...communities uh that would be able to...have volunteers that are transparent
 Confidence: high
 
@@ -144,6 +144,13 @@ Event Timestamp: January 12, 2025
 Video Timestamp: 37:43–38:09
 *Related: C-1083, N-2, N-40*
 Transcript Snippet: and he said, and I want to be clear, I...don't think Justin Stripe was lying....Didn't strike me as someone who would be...dumb enough to lie. Uh forget whether or...not he's moral. Is he dumb? And my...answer is no. know Justin Stripe is not...an idiot. So this is what her new story...is is that she did not live in China and
+Confidence: high
+
+**A-1049.3** Harelson save-tweets / Big George 55 on-screen
+Event Timestamp: 2012–2013
+Video Timestamp: 36:26–37:20
+*Related: C-1083, N-2, N-43*
+Transcript Snippet: Erika begins dating Josh Harelson....You can That is very much evidenced by...her save tweets. Uh it's all over. That...is who Big George 55 was or is. You can...see the dates here. She started dating...him actually in 2012. So during her...actual crown year
 Confidence: high
 
 ---
@@ -187,7 +194,7 @@ Founder of Turning Point USA, deceased
 Node Type: Person
 Widow of Charlie Kirk, now running Turning Point USA
 
-*Related: A-1043.1, A-1043.2, A-1043.3, A-1043.4, A-1043.5, A-1044.1, A-1044.2, A-1045.1, A-1045.2, A-1047.1, A-1049.1, A-1049.2, A-1050.1, A-1051.1, C-1075, C-1076, C-1077, C-1078, C-1079, C-1081, C-1083, C-1084, C-1085*
+*Related: A-1043.1, A-1043.2, A-1043.3, A-1043.4, A-1043.5, A-1044.1, A-1044.2, A-1045.1, A-1045.2, A-1047.1, A-1049.1, A-1049.2, A-1049.3, A-1050.1, A-1051.1, C-1075, C-1076, C-1077, C-1078, C-1079, C-1081, C-1083, C-1084, C-1085*
 
 ---
 
@@ -223,7 +230,7 @@ Turning Point USA executive, former Arizona Board of Regents member
 Node Type: Person
 Basketball player, Erika's boyfriend in 2013
 
-*Related: A-1049.1, A-1049.2, C-1083*
+*Related: A-1049.1, A-1049.2, A-1049.3, C-1083*
 
 ---
 
@@ -386,7 +393,7 @@ Claim Timestamp: 16:52
 Claim: Tyler Bowyer announces new Las Vegas office opening for Turning Point Action.
 Transcript Snippet: they're opening a new office, of course,...in Las Vegas before he hands over the...call to Erika, who is then going to edit...herself to really make it about the...children. Take a listen....>> Last thing I'll say is this. At Turning...Point Action, we have a ton of jobs...posting in Arizona, Nevada, and New
 Anchored Artifacts: A-1045.1, A-1045.2
-Related Nodes: N-2, N-14, N-1001
+Related Nodes: N-2, N-14, N-1001, N-1020
 Confidence: high
 Investigative Direction: Verify corporate expansion and office opening.
 
@@ -441,7 +448,7 @@ Investigative Direction: Verify donation records and timing relative to other ev
 Claim Timestamp: 32:41
 Claim: Erika claims she lived in China working with sex trafficking victims, but actually was following her boyfriend Josh Harelson who was playing basketball there.
 Transcript Snippet: lies all the time. So, ahead of us...jumping back into the timeline, I would...like to remind you of the story she...tells regarding why she was traveling...inter internationally, specifically to...China. Why don't you listen to what she...says about why she traveled to China?...Take a listen. I decided to create
-Anchored Artifacts: A-1049.1, A-1049.2
+Anchored Artifacts: A-1049.1, A-1049.2, A-1049.3
 Related Nodes: N-2, N-43, N-40
 Confidence: high
 Investigative Direction: Verify actual duration and purpose of China visit.
