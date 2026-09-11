@@ -83,7 +83,7 @@
           "related_claims": [
             "C-1001",
             "C-1002",
-            "C-1003"
+            "C-1005"
           ],
           "related_nodes": [
             "N-3",
@@ -106,7 +106,7 @@
           "video_timestamp": "23:56–24:15",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1003"
+            "C-1005"
           ],
           "related_nodes": [
             "N-3",
@@ -129,8 +129,8 @@
           "video_timestamp": "25:00–25:35",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1003",
-            "C-1004"
+            "C-1005",
+            "C-1003"
           ],
           "related_nodes": [
             "N-3",
@@ -161,7 +161,7 @@
           "video_timestamp": "50:37–50:58",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1005"
+            "C-1004"
           ],
           "related_nodes": [
             "N-2",
@@ -183,8 +183,8 @@
           "video_timestamp": "53:36–54:00",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1006",
-            "C-1007"
+            "C-1007",
+            "C-1006"
           ],
           "related_nodes": [
             "N-2",
@@ -215,7 +215,7 @@
           "video_timestamp": "32:56–33:15",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1008"
+            "C-1011"
           ],
           "related_nodes": [
             "N-5",
@@ -237,7 +237,7 @@
           "video_timestamp": "33:19–33:34",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1008"
+            "C-1011"
           ],
           "related_nodes": [
             "N-5",
@@ -259,7 +259,7 @@
           "video_timestamp": "33:51–34:20",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1008"
+            "C-1011"
           ],
           "related_nodes": [
             "N-6",
@@ -281,7 +281,7 @@
           "video_timestamp": "35:00–35:32",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1009"
+            "C-1012"
           ],
           "related_nodes": [
             "N-7",
@@ -311,7 +311,7 @@
           "video_timestamp": "36:30–36:38",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1010"
+            "C-1013"
           ],
           "related_nodes": [
             "N-2",
@@ -333,7 +333,7 @@
           "video_timestamp": "36:55–37:10",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1011"
+            "C-1015"
           ],
           "related_nodes": [
             "N-2",
@@ -356,7 +356,7 @@
           "video_timestamp": "39:55–40:17",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1012"
+            "C-1014"
           ],
           "related_nodes": [
             "N-2",
@@ -387,7 +387,7 @@
           "video_timestamp": "18:27–18:40",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1013"
+            "C-1017"
           ],
           "related_nodes": [
             "N-2",
@@ -418,7 +418,7 @@
           "video_timestamp": "05:16–06:00",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1014"
+            "C-1010"
           ],
           "related_nodes": [
             "N-2",
@@ -478,16 +478,16 @@
       "related_claims": [
         "C-1000",
         "C-1001",
-        "C-1005",
-        "C-1006",
+        "C-1004",
         "C-1007",
-        "C-1010",
-        "C-1011",
-        "C-1012",
+        "C-1006",
         "C-1013",
+        "C-1015",
         "C-1014",
+        "C-1017",
+        "C-1010",
         "C-1002",
-        "C-1016"
+        "C-1018"
       ],
       "tags": [
         "primary_subject"
@@ -514,9 +514,9 @@
       "related_claims": [
         "C-1001",
         "C-1002",
+        "C-1005",
         "C-1003",
-        "C-1004",
-        "C-1016"
+        "C-1018"
       ],
       "related_nodes": [
         "N-2",
@@ -547,9 +547,9 @@
       ],
       "related_claims": [
         "C-1002",
+        "C-1005",
         "C-1003",
-        "C-1004",
-        "C-1013"
+        "C-1017"
       ],
       "related_nodes": [
         "N-2",
@@ -576,7 +576,7 @@
         "A-1003.2"
       ],
       "related_claims": [
-        "C-1008"
+        "C-1011"
       ],
       "related_nodes": [
         "N-3",
@@ -602,7 +602,7 @@
         "A-1003.3"
       ],
       "related_claims": [
-        "C-1008"
+        "C-1011"
       ],
       "related_nodes": [
         "N-1003"
@@ -628,8 +628,8 @@
         "A-1004.2"
       ],
       "related_claims": [
-        "C-1009",
-        "C-1011"
+        "C-1012",
+        "C-1015"
       ],
       "related_nodes": [
         "N-2",
@@ -656,8 +656,8 @@
         "A-1004.3"
       ],
       "related_claims": [
-        "C-1012",
-        "C-1015"
+        "C-1014",
+        "C-1016"
       ],
       "related_nodes": [
         "N-2",
@@ -684,7 +684,7 @@
         "A-1006.1"
       ],
       "related_claims": [
-        "C-1014"
+        "C-1010"
       ],
       "related_nodes": [
         "N-2"
@@ -709,7 +709,7 @@
         "A-1002.2"
       ],
       "related_claims": [
-        "C-1016"
+        "C-1018"
       ],
       "related_nodes": [
         "N-2",
@@ -762,8 +762,8 @@
         "A-1001.3"
       ],
       "related_claims": [
-        "C-1003",
-        "C-1004"
+        "C-1005",
+        "C-1003"
       ],
       "tags": [
         "discrepancy",
@@ -786,9 +786,9 @@
         "A-1002.2"
       ],
       "related_claims": [
-        "C-1005",
-        "C-1006",
-        "C-1007"
+        "C-1004",
+        "C-1007",
+        "C-1006"
       ],
       "tags": [
         "discrepancy",
@@ -814,9 +814,9 @@
         "A-1005.1"
       ],
       "related_claims": [
-        "C-1008",
-        "C-1009",
-        "C-1015"
+        "C-1011",
+        "C-1012",
+        "C-1016"
       ],
       "tags": [
         "family_history",
@@ -838,7 +838,7 @@
         "A-1004.1"
       ],
       "related_claims": [
-        "C-1010"
+        "C-1013"
       ],
       "tags": [
         "identity",
@@ -860,7 +860,7 @@
         "A-1004.2"
       ],
       "related_claims": [
-        "C-1011"
+        "C-1015"
       ],
       "tags": [
         "language_error",
@@ -882,7 +882,7 @@
         "A-1004.3"
       ],
       "related_claims": [
-        "C-1012"
+        "C-1014"
       ],
       "tags": [
         "false_claim",
@@ -968,8 +968,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1003",
-      "ref": "C-1003",
+      "@id": "C-1005",
+      "ref": "C-1005",
       "label": "Marriage Date Discrepancies in Legal Documents",
       "claim_timestamp": "24:30",
       "claim": "Divorce documents show four different marriage dates for Kent and Lorie: November 20, 1995; November 7, 1982; 1985; and handwritten edits.",
@@ -993,8 +993,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1004",
-      "ref": "C-1004",
+      "@id": "C-1003",
+      "ref": "C-1003",
       "label": "Divorce Decree Contains Handwritten Date Edits",
       "claim_timestamp": "25:44",
       "claim": "The divorce decree shows handwritten modifications to the marriage date, which is abnormal for legal documents.",
@@ -1016,8 +1016,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1005",
-      "ref": "C-1005",
+      "@id": "C-1004",
+      "ref": "C-1004",
       "label": "Erika Attended Daycare in Cincinnati in 1992",
       "claim_timestamp": "50:37",
       "claim": "Erika was enrolled in Walnut Corner Children's Center in Cincinnati, Ohio in 1992.",
@@ -1038,8 +1038,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1006",
-      "ref": "C-1006",
+      "@id": "C-1007",
+      "ref": "C-1007",
       "label": "Erika Attended Tesaract School in Arizona",
       "claim_timestamp": "53:45",
       "claim": "Erika attended Tesaract School in Paradise Valley, Arizona during 1995-1998.",
@@ -1060,8 +1060,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1007",
-      "ref": "C-1007",
+      "@id": "C-1006",
+      "ref": "C-1006",
       "label": "Tesaract School Linked to Bush/Walton/Monsanto",
       "claim_timestamp": "51:45",
       "claim": "Tesaract School was founded by John T. Goalie with connections to the Bush family, Walton family, and Monsanto.",
@@ -1083,8 +1083,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1008",
-      "ref": "C-1008",
+      "@id": "C-1011",
+      "ref": "C-1011",
       "label": "Maternal Family History of Illegal Gambling",
       "claim_timestamp": "32:40",
       "claim": "Loretta Lynn Abbis (great-grandmother) and Mason Abbis (great-grandfather) were repeatedly arrested for illegal lottery and gambling operations.",
@@ -1108,8 +1108,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1009",
-      "ref": "C-1009",
+      "@id": "C-1012",
+      "ref": "C-1012",
       "label": "Paternal Grandfather Worked at Lottery Ticket Company",
       "claim_timestamp": "35:05",
       "claim": "Carl Kenneth Frantzve (Erika's paternal grandfather, Kent Frantzve's father) was an executive at American Bank Note Company, which printed Illinois state lottery tickets.",
@@ -1131,8 +1131,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1010",
-      "ref": "C-1010",
+      "@id": "C-1013",
+      "ref": "C-1013",
       "label": "Erika Pursued Swedish Dual Citizenship in 2019",
       "claim_timestamp": "36:30",
       "claim": "Erika began the process of obtaining Swedish dual citizenship in 2019.",
@@ -1153,8 +1153,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1011",
-      "ref": "C-1011",
+      "@id": "C-1015",
+      "ref": "C-1015",
       "label": "Erika Incorrectly Used 'Morfar' for Grandfather",
       "claim_timestamp": "37:50",
       "claim": "Erika referred to her paternal grandfather as 'morfar' (mother's father in Swedish) instead of 'farfar' (father's father). Swedish kinship terms also distinguish 'farmor' (father's mother) and 'mormor' (mother's mother). The mismatch suggests a possible paternity discrepancy.",
@@ -1178,8 +1178,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1012",
-      "ref": "C-1012",
+      "@id": "C-1014",
+      "ref": "C-1014",
       "label": "Erika Claimed Zion's Gate as Her Family's Dedication",
       "claim_timestamp": "40:00",
       "claim": "Erika posted that Zion's Gate restoration was her family's dedication, but the Rothstein family actually funded it.",
@@ -1203,8 +1203,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1013",
-      "ref": "C-1013",
+      "@id": "C-1017",
+      "ref": "C-1017",
       "label": "Erika Confirming Father Was Stay-at-Home Dad",
       "claim_timestamp": "18:30",
       "claim": "Erika herself stated in an interview that her father was a stay-at-home dad for a few years starting when she was four.",
@@ -1228,8 +1228,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1014",
-      "ref": "C-1014",
+      "@id": "C-1010",
+      "ref": "C-1010",
       "label": "Elizabeth Lane Called Erika 'Deeply Disturbing' and Possibly Psychopath",
       "claim_timestamp": "05:30",
       "claim": "Elizabeth Lane authored a viral post describing Erika as deeply disturbing with patterns consistent with psychopathy.",
@@ -1251,8 +1251,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1015",
-      "ref": "C-1015",
+      "@id": "C-1016",
+      "ref": "C-1016",
       "label": "Jack Solomon Was Slot Machine Manufacturer",
       "claim_timestamp": "46:00",
       "claim": "Jack Solomon co-founded Advanced Patent Technology which manufactured slot machines and purchased United Coin.",
@@ -1273,8 +1273,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1016",
-      "ref": "C-1016",
+      "@id": "C-1018",
+      "ref": "C-1018",
       "label": "Larry Ginta Was Stepfather Present in Childhood",
       "claim_timestamp": "19:35",
       "claim": "Erika's stepfather Larry Ginta was present in her life, included in yearbook collages, since before her parents' divorce.",

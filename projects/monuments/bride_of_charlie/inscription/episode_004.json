@@ -13,21 +13,21 @@
   "artifacts": [
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1014",
-      "family_ref": "A-1014",
+      "@id": "A-1018",
+      "family_ref": "A-1018",
       "bundle_name": "Legal Documents Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1014.1",
-          "ref": "A-1014.1",
+          "@id": "A-1018.1",
+          "ref": "A-1018.1",
           "description": "Joint Shared Parenting Plan showing Erika's birthday as November 22, 1988",
           "event_timestamp": "January 8, 1998",
           "source_timestamp": "1998",
           "video_timestamp": "17:56–18:20",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1034"
+            "C-1039"
           ],
           "related_nodes": [
             "N-2",
@@ -41,15 +41,15 @@
         },
         {
           "@type": "Artifact",
-          "@id": "A-1014.2",
-          "ref": "A-1014.2",
+          "@id": "A-1018.2",
+          "ref": "A-1018.2",
           "description": "Amendment to child support plan dated September 10, 1998",
           "event_timestamp": "September 10, 1998",
           "source_timestamp": "1998",
           "video_timestamp": "18:25–18:55",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1034"
+            "C-1039"
           ],
           "related_nodes": [
             "N-2",
@@ -63,15 +63,15 @@
         },
         {
           "@type": "Artifact",
-          "@id": "A-1014.3",
-          "ref": "A-1014.3",
+          "@id": "A-1018.3",
+          "ref": "A-1018.3",
           "description": "Final Decree dated November 10, 1998",
           "event_timestamp": "November 10, 1998",
           "source_timestamp": "1998",
           "video_timestamp": "19:05–19:20",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1034"
+            "C-1039"
           ],
           "related_nodes": [
             "N-2",
@@ -85,15 +85,15 @@
         },
         {
           "@type": "Artifact",
-          "@id": "A-1014.4",
-          "ref": "A-1014.4",
+          "@id": "A-1018.4",
+          "ref": "A-1018.4",
           "description": "Medical child support document entered January 1999",
           "event_timestamp": "January 1999",
           "source_timestamp": "1999",
           "video_timestamp": "19:20–19:50",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1034"
+            "C-1039"
           ],
           "related_nodes": [
             "N-2",
@@ -107,15 +107,15 @@
         },
         {
           "@type": "Artifact",
-          "@id": "A-1014.5",
-          "ref": "A-1014.5",
+          "@id": "A-1018.5",
+          "ref": "A-1018.5",
           "description": "Child support enforcement record from July 2004",
           "event_timestamp": "July 2004",
           "source_timestamp": "2004",
           "video_timestamp": "20:20–20:40",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1034"
+            "C-1039"
           ],
           "related_nodes": [
             "N-2",
@@ -129,15 +129,15 @@
         },
         {
           "@type": "Artifact",
-          "@id": "A-1014.6",
-          "ref": "A-1014.6",
+          "@id": "A-1018.6",
+          "ref": "A-1018.6",
           "description": "Child support emancipation filing from 2007",
           "event_timestamp": "2007",
           "source_timestamp": "2007",
           "video_timestamp": "21:05–21:25",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1034"
+            "C-1039"
           ],
           "related_nodes": [
             "N-2",
@@ -153,21 +153,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1015",
-      "family_ref": "A-1015",
+      "@id": "A-1019",
+      "family_ref": "A-1019",
       "bundle_name": "Charlie Kirk Podcast Clip Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1015.1",
-          "ref": "A-1015.1",
+          "@id": "A-1019.1",
+          "ref": "A-1019.1",
           "description": "Charlie Kirk podcast clip stating Erika is from Lombardi family",
           "event_timestamp": "Unknown",
           "source_timestamp": "Unknown",
           "video_timestamp": "36:45–37:10",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1035"
+            "C-1040"
           ],
           "related_nodes": [
             "N-1",
@@ -184,21 +184,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1016",
-      "family_ref": "A-1016",
+      "@id": "A-1020",
+      "family_ref": "A-1020",
       "bundle_name": "Obituary Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1016.1",
-          "ref": "A-1016.1",
+          "@id": "A-1020.1",
+          "ref": "A-1020.1",
           "description": "Obituary for Angelina Lombardo-Abbis from 1970",
           "event_timestamp": "1970",
           "source_timestamp": "1970",
           "video_timestamp": "38:57–39:05",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1035"
+            "C-1040"
           ],
           "related_nodes": [
             "N-17",
@@ -214,21 +214,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1017",
-      "family_ref": "A-1017",
+      "@id": "A-1021",
+      "family_ref": "A-1021",
       "bundle_name": "Yearbook Photo Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1017.1",
-          "ref": "A-1017.1",
+          "@id": "A-1021.1",
+          "ref": "A-1021.1",
           "description": "St. Ursula Villa kindergarten photo 1994-1995",
           "event_timestamp": "1994-1995",
           "source_timestamp": "1994-1995",
           "video_timestamp": "41:40–41:55",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1036"
+            "C-1043"
           ],
           "related_nodes": [
             "N-2"
@@ -243,21 +243,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1018",
-      "family_ref": "A-1018",
+      "@id": "A-1022",
+      "family_ref": "A-1022",
       "bundle_name": "Instagram Story Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1018.1",
-          "ref": "A-1018.1",
+          "@id": "A-1022.1",
+          "ref": "A-1022.1",
           "description": "Instagram story showing Uncle Rick at Universal Studios December 1, 2018",
           "event_timestamp": "December 1, 2018",
           "source_timestamp": "December 1, 2018",
           "video_timestamp": "15:00–15:30",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1037"
+            "C-1047"
           ],
           "related_nodes": [
             "N-2",
@@ -273,21 +273,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1019",
-      "family_ref": "A-1019",
+      "@id": "A-1023",
+      "family_ref": "A-1023",
       "bundle_name": "Podcast Interview Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1019.1",
-          "ref": "A-1019.1",
+          "@id": "A-1023.1",
+          "ref": "A-1023.1",
           "description": "Don't Ignore the Nudge podcast clip about Bible reading",
           "event_timestamp": "Unknown",
           "source_timestamp": "Unknown",
           "video_timestamp": "43:50–44:10",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1038"
+            "C-1054"
           ],
           "related_nodes": [
             "N-2"
@@ -300,15 +300,15 @@
         },
         {
           "@type": "Artifact",
-          "@id": "A-1019.2",
-          "ref": "A-1019.2",
+          "@id": "A-1023.2",
+          "ref": "A-1023.2",
           "description": "Sage Steel podcast clip stating first Bible read in 2016",
           "event_timestamp": "2016",
           "source_timestamp": "Unknown",
           "video_timestamp": "45:36–46:10",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1038"
+            "C-1054"
           ],
           "related_nodes": [
             "N-2"
@@ -331,10 +331,10 @@
       "type": "person",
       "description": "Host of Turning Point USA, husband of Erika Kirk, deceased.",
       "related_artifacts": [
-        "A-1015.1"
+        "A-1019.1"
       ],
       "related_claims": [
-        "C-1035"
+        "C-1040"
       ],
       "tags": [
         "key_figure",
@@ -349,24 +349,24 @@
       "type": "person",
       "description": "Primary subject of investigation, widow of Charlie Kirk.",
       "related_artifacts": [
-        "A-1014.1",
-        "A-1014.2",
-        "A-1014.3",
-        "A-1014.4",
-        "A-1014.5",
-        "A-1014.6",
-        "A-1015.1",
-        "A-1017.1",
         "A-1018.1",
+        "A-1018.2",
+        "A-1018.3",
+        "A-1018.4",
+        "A-1018.5",
+        "A-1018.6",
         "A-1019.1",
-        "A-1019.2"
+        "A-1021.1",
+        "A-1022.1",
+        "A-1023.1",
+        "A-1023.2"
       ],
       "related_claims": [
-        "C-1034",
-        "C-1035",
-        "C-1036",
-        "C-1037",
-        "C-1038"
+        "C-1039",
+        "C-1040",
+        "C-1043",
+        "C-1047",
+        "C-1054"
       ],
       "tags": [
         "key_figure",
@@ -381,11 +381,11 @@
       "type": "person",
       "description": "Erika's mother, also known as Lori Waldd, Lori Frantzve, Lori Ginta.",
       "related_artifacts": [
-        "A-1015.1",
-        "A-1016.1"
+        "A-1019.1",
+        "A-1020.1"
       ],
       "related_claims": [
-        "C-1035"
+        "C-1040"
       ],
       "tags": [
         "family_member"
@@ -425,10 +425,10 @@
       "type": "person",
       "description": "Erika's maternal grandmother listed in 1970 obituary.",
       "related_artifacts": [
-        "A-1016.1"
+        "A-1020.1"
       ],
       "related_claims": [
-        "C-1035"
+        "C-1040"
       ],
       "tags": [
         "family_member",
@@ -443,10 +443,10 @@
       "type": "person",
       "description": "Famous Green Bay Packers coach, Super Bowl trophy named after him.",
       "related_artifacts": [
-        "A-1015.1"
+        "A-1019.1"
       ],
       "related_claims": [
-        "C-1035"
+        "C-1040"
       ],
       "tags": [
         "sports_figure"
@@ -473,10 +473,10 @@
       "type": "person",
       "description": "Person Erika considers her uncle, works at Universal Studios, brother Bill served 20+ years for financial fraud.",
       "related_artifacts": [
-        "A-1018.1"
+        "A-1022.1"
       ],
       "related_claims": [
-        "C-1037"
+        "C-1047"
       ],
       "tags": [
         "family_member",
@@ -491,15 +491,15 @@
       "type": "investigation_target",
       "description": "Erika's birthday listed as November 22, 1988 in multiple legal documents vs claimed November 20, 1988.",
       "related_artifacts": [
-        "A-1014.1",
-        "A-1014.2",
-        "A-1014.3",
-        "A-1014.4",
-        "A-1014.5",
-        "A-1014.6"
+        "A-1018.1",
+        "A-1018.2",
+        "A-1018.3",
+        "A-1018.4",
+        "A-1018.5",
+        "A-1018.6"
       ],
       "related_claims": [
-        "C-1034"
+        "C-1039"
       ],
       "tags": [
         "discrepancy_target"
@@ -514,11 +514,11 @@
       "type": "investigation_target",
       "description": "Whether Erika is truly a direct descendant of Vince Lombardi as Charlie claimed.",
       "related_artifacts": [
-        "A-1015.1",
-        "A-1016.1"
+        "A-1019.1",
+        "A-1020.1"
       ],
       "related_claims": [
-        "C-1035"
+        "C-1040"
       ],
       "tags": [
         "genealogy_target"
@@ -533,12 +533,12 @@
       "type": "investigation_target",
       "description": "Erika's unaccounted time 2000-2002 and claim about Bible study vs actual timeline.",
       "related_artifacts": [
-        "A-1019.1",
-        "A-1019.2"
+        "A-1023.1",
+        "A-1023.2"
       ],
       "related_claims": [
-        "C-1038",
-        "C-1036"
+        "C-1054",
+        "C-1043"
       ],
       "tags": [
         "timeline_gap"
@@ -553,10 +553,10 @@
       "type": "investigation_target",
       "description": "Erpenbeck family thread: Richard Erpenbeck (‘uncle Rick’). Legal/document spelling: Erpenbeck; captions often garbled the surname Erpenbeck. Fraud ties and Erika / Miss Arizona pathway. (Ep3 notary: Bill Erpenbeck re absent signers.)",
       "related_artifacts": [
-        "A-1018.1"
+        "A-1022.1"
       ],
       "related_claims": [
-        "C-1037"
+        "C-1047"
       ],
       "tags": [
         "criminal_association"
@@ -567,18 +567,18 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1034",
-      "ref": "C-1034",
+      "@id": "C-1039",
+      "ref": "C-1039",
       "label": "Erika's Birthday Listed as November 22 1988 in Legal Documents",
       "claim_timestamp": "17:56",
       "claim": "Multiple legal documents from 1998-2007 consistently list Erika's birthday as November 22, 1988.",
       "anchored_artifacts": [
-        "A-1014.1",
-        "A-1014.2",
-        "A-1014.3",
-        "A-1014.4",
-        "A-1014.5",
-        "A-1014.6"
+        "A-1018.1",
+        "A-1018.2",
+        "A-1018.3",
+        "A-1018.4",
+        "A-1018.5",
+        "A-1018.6"
       ],
       "related_nodes": [
         "N-2",
@@ -593,14 +593,14 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1035",
-      "ref": "C-1035",
+      "@id": "C-1040",
+      "ref": "C-1040",
       "label": "Charlie Stated Erika is Direct Lombardi Descendant",
       "claim_timestamp": "36:45",
       "claim": "Charlie Kirk stated on his podcast that Erika is a direct descendant of Vince Lombardi.",
       "anchored_artifacts": [
-        "A-1015.1",
-        "A-1016.1"
+        "A-1019.1",
+        "A-1020.1"
       ],
       "related_nodes": [
         "N-1",
@@ -619,13 +619,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1036",
-      "ref": "C-1036",
+      "@id": "C-1043",
+      "ref": "C-1043",
       "label": "Erika Attended St Ursula Villa Kindergarten",
       "claim_timestamp": "41:40",
       "claim": "Erika attended St. Ursula Villa in Cincinnati for kindergarten in 1994-1995.",
       "anchored_artifacts": [
-        "A-1017.1"
+        "A-1021.1"
       ],
       "related_nodes": [
         "N-2",
@@ -640,13 +640,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1037",
-      "ref": "C-1037",
+      "@id": "C-1047",
+      "ref": "C-1047",
       "label": "Erika Visited Uncle Rick at Universal Studios",
       "claim_timestamp": "15:00",
       "claim": "Erika visited Richard Erpenbeck, who she calls uncle, at Universal Studios on December 1, 2018.",
       "anchored_artifacts": [
-        "A-1018.1"
+        "A-1022.1"
       ],
       "related_nodes": [
         "N-2",
@@ -662,14 +662,14 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1038",
-      "ref": "C-1038",
+      "@id": "C-1054",
+      "ref": "C-1054",
       "label": "Bible Study Timeline Contradiction",
       "claim_timestamp": "43:50",
       "claim": "Erika claimed to have studied Bible for 8 months in 2008, but later stated she first read the Bible cover to cover in 2016.",
       "anchored_artifacts": [
-        "A-1019.1",
-        "A-1019.2"
+        "A-1023.1",
+        "A-1023.2"
       ],
       "related_nodes": [
         "N-2",

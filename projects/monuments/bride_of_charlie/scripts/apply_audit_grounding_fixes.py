@@ -23,84 +23,84 @@ CLAIM_FIXES: dict[str, dict] = {
         "anchored_artifacts": "A-1000.2",
         "snippet_hint": (1, 0, 45),
     },
-    "C-1003": {
+    "C-1005": {
         "claim_timestamp": "37:00",
         "anchored_artifacts": "A-1005.1",
         "snippet_hint": (1, 37 * 60, 37 * 60 + 40),
     },
-    "C-1010": {
+    "C-1013": {
         "claim_timestamp": "20:03",
-        "anchored_artifacts": "A-1007.3",
+        "anchored_artifacts": "A-1010.3",
         "snippet_hint": (2, 20 * 60 + 3, 21 * 60 + 6),
     },
-    "C-1011": {
+    "C-1015": {
         "claim_timestamp": "32:05",
-        "anchored_artifacts": "A-1009.2",
+        "anchored_artifacts": "A-1012.2",
         "snippet_hint": (2, 32 * 60 + 5, 33 * 60 + 0),
     },
-    "C-1015": {
+    "C-1016": {
         "claim_timestamp": "44:25",
-        "anchored_artifacts": "A-1010.2",
+        "anchored_artifacts": "A-1013.2",
         "snippet_hint": (2, 44 * 60 + 25, 46 * 60 + 4),
     },
     "C-1026": {
         "claim_timestamp": "44:10",
-        "anchored_artifacts": "A-1017.2",
+        "anchored_artifacts": "A-1021.2",
         "snippet_hint": (3, 43 * 60 + 56, 45 * 60 + 16),
     },
-    "C-1052": {
+    "C-1060": {
         "claim_timestamp": "36:06",
-        "anchored_artifacts": "A-1031.2",
+        "anchored_artifacts": "A-1037.2",
         "snippet_hint": (5, 36 * 60 + 6, 36 * 60 + 28),
     },
-    "C-1055": {
+    "C-1063": {
         "claim_timestamp": "55:14",
-        "anchored_artifacts": "A-1031.3",
+        "anchored_artifacts": "A-1037.3",
         "snippet_hint": (5, 55 * 60 + 14, 55 * 60 + 32),
     },
-    "C-1056": {
+    "C-1038": {
         "claim_timestamp": "02:10",
-        "anchored_artifacts": "A-1029.3",
+        "anchored_artifacts": "A-1035.3",
         "snippet_hint": (5, 2 * 60 + 10, 2 * 60 + 39),
     },
-    "C-1058": {
+    "C-1055": {
         "claim_timestamp": "26:38",
-        "anchored_artifacts": "A-1026.5",
+        "anchored_artifacts": "A-1032.5",
         "snippet_hint": (5, 26 * 60 + 38, 26 * 60 + 55),
     },
-    "C-1073": {
+    "C-1080": {
         "claim_timestamp": "42:56",
-        "anchored_artifacts": "A-1042.1",
+        "anchored_artifacts": "A-1050.1",
         "snippet_hint": (6, 42 * 60 + 56, 43 * 60 + 30),
     },
-    "C-1074": {
+    "C-1078": {
         "claim_timestamp": "32:59",
-        "anchored_artifacts": "A-1041.2",
+        "anchored_artifacts": "A-1049.2",
         "snippet_hint": (6, 32 * 60 + 59, 33 * 60 + 36),
     },
-    "C-1077": {
+    "C-1082": {
         "claim_timestamp": "02:09",
-        "anchored_artifacts": "A-1043.1",
+        "anchored_artifacts": "A-1053.1",
         "snippet_hint": (7, 2 * 60 + 9, 3 * 60 + 48),
     },
-    "C-1089": {
+    "C-1099": {
         "claim_timestamp": "23:01",
-        "anchored_artifacts": "A-1058.1",
+        "anchored_artifacts": "A-1068.1",
         "snippet_hint": (8, 23 * 60 + 1, 23 * 60 + 24),
     },
-    "C-1092": {
+    "C-1097": {
         "claim_timestamp": "10:54-11:12",
-        "anchored_artifacts": "A-1054.4",
+        "anchored_artifacts": "A-1064.4",
         "snippet_hint": (8, 10 * 60 + 54, 11 * 60 + 12),
     },
-    "C-1097": {
+    "C-1104": {
         "claim_timestamp": "33:14",
-        "anchored_artifacts": "A-1056.1",
+        "anchored_artifacts": "A-1066.1",
         "snippet_hint": (8, 33 * 60 + 14, 33 * 60 + 28),
     },
-    "C-1098": {
+    "C-1092": {
         "claim_timestamp": "00:03",
-        "anchored_artifacts": "A-1059.1",
+        "anchored_artifacts": "A-1069.1",
         "snippet_hint": (8, 3, 28),
     },
 }
@@ -119,34 +119,34 @@ Confidence: high
     ],
     2: [
         """
-**A-1007.3** Jerry Frantzve DuPont employment (narration)
+**A-1010.3** Jerry Frantzve DuPont employment (narration)
 Event Timestamp: 1983
 Video Timestamp: 20:03–21:06
-*Related: C-1010, N-12, N-1044*
+*Related: C-1013, N-12, N-1044*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
         """
-**A-1009.2** Phil Bliss Tesseract board / MK Ultra connection (narration)
+**A-1012.2** Phil Bliss Tesseract board / MK Ultra connection (narration)
 Event Timestamp: 1990s
 Video Timestamp: 32:05–33:00
-*Related: C-1011, N-14, N-1031, N-1033*
+*Related: C-1015, N-14, N-1031, N-1033*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
         """
-**A-1010.2** Tyler Bowyer introduced Erika to Charlie (narration)
+**A-1013.2** Tyler Bowyer introduced Erika to Charlie (narration)
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 44:25–46:04
-*Related: C-1015, N-1, N-2, N-13, N-1043*
+*Related: C-1016, N-1, N-2, N-13, N-1043*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
     ],
     3: [
         """
-**A-1017.2** Erika social posts — Terry Crist / Hillsong connection
+**A-1021.2** Erika social posts — Terry Crist / Hillsong connection
 Event Timestamp: 2011–2016
 Video Timestamp: 43:56–45:16
 *Related: C-1026, N-2, N-46, N-47*
@@ -156,67 +156,67 @@ Confidence: medium
     ],
     5: [
         """
-**A-1029.3** Radford Eastern Europe gender-research document (1990)
+**A-1035.3** Radford Eastern Europe gender-research document (1990)
 Event Timestamp: 1990
 Video Timestamp: 02:10–02:39
-*Related: C-1056, N-12, N-1060*
+*Related: C-1038, N-12, N-1060*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
         """
-**A-1026.5** Table Four LLC filing (Erika and Tyler Sanford, 2010)
+**A-1032.5** Table Four LLC filing (Erika and Tyler Sanford, 2010)
 Event Timestamp: 2010
 Video Timestamp: 26:38–26:55
-*Related: C-1058, N-2, N-58*
+*Related: C-1055, N-2, N-58*
 Transcript Snippet: PLACEHOLDER
 Confidence: high
 """,
         """
-**A-1031.2** Erika account — Charlie Kirk Israel airport meeting
+**A-1037.2** Erika account — Charlie Kirk Israel airport meeting
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 36:06–36:28
-*Related: C-1052, N-1, N-2, N-3*
+*Related: C-1060, N-1, N-2, N-3*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
         """
-**A-1031.3** Tyler Bowyer Romania / Farnsworth connection (narration)
+**A-1037.3** Tyler Bowyer Romania / Farnsworth connection (narration)
 Event Timestamp: 2010
 Video Timestamp: 55:14–55:32
-*Related: C-1055, N-13, N-1060*
+*Related: C-1063, N-13, N-1060*
 Transcript Snippet: PLACEHOLDER
 Confidence: low
 """,
     ],
     6: [
         """
-**A-1041.2** Erika cannot remember meeting Tyler Bowyer (narration)
+**A-1049.2** Erika cannot remember meeting Tyler Bowyer (narration)
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 32:59–33:36
-*Related: C-1074, N-2, N-13, N-1022*
+*Related: C-1078, N-2, N-13, N-1022*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
     ],
     8: [
         """
-**A-1054.4** Erika Bible in 365 founding claim (social media)
+**A-1064.4** Erika Bible in 365 founding claim (social media)
 Event Timestamp: 2016
 Video Timestamp: 10:54–11:12
-*Related: C-1092, N-2, N-1083*
+*Related: C-1097, N-2, N-1083*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
         """
-**A-1059** Andrew Kolvet Interview Clip
+**A-1069** Andrew Kolvet Interview Clip
 
-**A-1059.1** Andrew Kolvet on Dave Rubin show — Erika spotlight claim
+**A-1069.1** Andrew Kolvet on Dave Rubin show — Erika spotlight claim
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 00:03–00:28
-*Related: C-1098, N-2, N-26, N-1*
+*Related: C-1092, N-2, N-26, N-1*
 Transcript Snippet: PLACEHOLDER
 Confidence: high
 
@@ -227,12 +227,12 @@ Confidence: high
 
 RELATED_PATCHES: list[tuple[str, str, str]] = [
     # (file suffix ep, old related line fragment, new)
-    ("episode_002.md", "*Related: C-1010, C-1011, N-12, N-1031, N-1042*", "*Related: C-1011, N-12, N-1031, N-1042*"),
-    ("episode_002.md", "*Related: C-1013, N-2, N-3*", "*Related: C-1013, C-1015, N-2, N-3*"),
-    ("episode_003.md", "*Related: C-1025, N-2, N-1*", "*Related: C-1025, C-1026, N-2, N-1*"),
-    ("episode_005.md", "*Related: C-1048, C-1049, N-13, N-1060*", "*Related: C-1048, C-1049, C-1052, C-1055, N-13, N-1060*"),
-    ("episode_008.md", "*Related: C-1090, N-3, N-1079*", "*Related: C-1090, C-1092, N-3, N-1079*"),
-    ("episode_008.md", "*Related: A-1054.1, A-1054.2, A-1055.1, A-1057.1, A-1058.1, C-1089, C-1091, C-1092", "*Related: A-1054.2, A-1054.4, A-1055.1, A-1057.1, A-1058.1, A-1059.1, C-1089, C-1091, C-1092, C-1098"),
+    ("episode_002.md", "*Related: C-1013, C-1015, N-12, N-1031, N-1042*", "*Related: C-1015, N-12, N-1031, N-1042*"),
+    ("episode_002.md", "*Related: C-1017, N-2, N-3*", "*Related: C-1017, C-1016, N-2, N-3*"),
+    ("episode_003.md", "*Related: C-1028, N-2, N-1*", "*Related: C-1028, C-1026, N-2, N-1*"),
+    ("episode_005.md", "*Related: C-1057, C-1058, N-13, N-1060*", "*Related: C-1057, C-1058, C-1060, C-1063, N-13, N-1060*"),
+    ("episode_008.md", "*Related: C-1096, N-3, N-1079*", "*Related: C-1096, C-1097, N-3, N-1079*"),
+    ("episode_008.md", "*Related: A-1064.1, A-1064.2, A-1065.1, A-1067.1, A-1068.1, C-1099, C-1098, C-1097", "*Related: A-1064.2, A-1064.4, A-1065.1, A-1067.1, A-1068.1, A-1069.1, C-1099, C-1098, C-1097, C-1092"),
 ]
 
 
@@ -363,13 +363,13 @@ def main() -> int:
             path.write_text(text.replace(old, new, 1), encoding="utf-8")
             print(f"[fix] related patch {fname}")
 
-    # ep8 ledger: new artifact family A-1059
+    # ep8 ledger: new artifact family A-1069
     ep8 = DRAFTS / "episode_008.md"
     t = ep8.read_text(encoding="utf-8")
-    if "A-1059" not in t.split("Artifact Families")[1].split("Claim Range")[0]:
+    if "A-1069" not in t.split("Artifact Families")[1].split("Claim Range")[0]:
         t = t.replace(
-            "Artifact Families Introduced: A-1052, A-1053, A-1054, A-1055, A-1056, A-1057, A-1058",
-            "Artifact Families Introduced: A-1052, A-1053, A-1054, A-1055, A-1056, A-1057, A-1058, A-1059",
+            "Artifact Families Introduced: A-1062, A-1063, A-1064, A-1065, A-1066, A-1067, A-1068",
+            "Artifact Families Introduced: A-1062, A-1063, A-1064, A-1065, A-1066, A-1067, A-1068, A-1069",
         )
         t = t.replace(
             "New Nodes Introduced: N-64, N-66",
@@ -377,15 +377,15 @@ def main() -> int:
         )
         ep8.write_text(t, encoding="utf-8")
 
-    # Update N-2 related in ep8 for C-1098 anchor cleanup
+    # Update N-2 related in ep8 for C-1092 anchor cleanup
     t = ep8.read_text(encoding="utf-8")
     t = t.replace(
-        "*Related: A-1054.1, A-1054.2, A-1055.1, A-1057.1, A-1058.1, C-1089, C-1091, C-1092, C-1093, C-1094, C-1095, C-1086, C-1097, C-1098*",
-        "*Related: A-1054.2, A-1054.4, A-1055.1, A-1057.1, A-1058.1, A-1059.1, C-1089, C-1091, C-1092, C-1093, C-1094, C-1095, C-1086, C-1097, C-1098*",
+        "*Related: A-1064.1, A-1064.2, A-1065.1, A-1067.1, A-1068.1, C-1099, C-1098, C-1097, C-1100, C-1101, C-1102, C-1093, C-1104, C-1092*",
+        "*Related: A-1064.2, A-1064.4, A-1065.1, A-1067.1, A-1068.1, A-1069.1, C-1099, C-1098, C-1097, C-1100, C-1101, C-1102, C-1093, C-1104, C-1092*",
     )
     t = t.replace(
-        "*Related: C-1098*",
-        "*Related: A-1059.1, C-1098*",
+        "*Related: C-1092*",
+        "*Related: A-1069.1, C-1092*",
     )
     ep8.write_text(t, encoding="utf-8")
 
