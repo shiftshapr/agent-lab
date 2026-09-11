@@ -311,27 +311,13 @@ Generated: 2026-09-11T21:36:14Z
 
 - `config/retired_artifact_ids.json`
 - `config/retired_claim_ids.json`
+- `docs/boc-PR25-claim-artifact-nid-maps.md`
 - `drafts/cross_episode_analysis_draft.md`
-- `drafts/episode_001.md`
-- `drafts/episode_002.md`
-- `drafts/episode_003.md`
-- `drafts/episode_004.md`
-- `drafts/episode_005.md`
-- `drafts/episode_006.md`
-- `drafts/episode_007.md`
-- `drafts/episode_008.md`
+- `drafts/episode_001.md` … `drafts/episode_008.md`
 - `drafts/patterns_report.md`
-- `inscription/episode_001.json`
-- `inscription/episode_002.json`
-- `inscription/episode_003.json`
-- `inscription/episode_004.json`
-- `inscription/episode_005.json`
-- `inscription/episode_006.json`
-- `inscription/episode_007.json`
-- `output/episode_1.json`
-- `output/episode_2.json`
-- `output/episode_3.json`
-- `output/episode_4.json`
-- `output/episode_5.json`
-- `output/episode_6.json`
-- `output/episode_7.json`
+- `inscription/.review_state.json`
+- `inscription/episode_001.json` … `inscription/episode_007.json`
+- `output/episode_1.json` … `output/episode_7.json`
+- `scripts/apply_audit_grounding_fixes.py`
+- `scripts/repair_grounding_snippets.py`
+- `scripts/renumber_claims_artifacts.py`
