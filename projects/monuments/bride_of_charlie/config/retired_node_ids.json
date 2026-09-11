@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "updated": "2026-09-11T00:00:00Z",
+  "description": "Tombstone ledger for intentional N-ID gaps after Layer B node collapses. Do not renumber surviving nodes.",
+  "retired": {
+    "N-10": {
+      "survives_as": "N-33",
+      "canonical_name": "Larry Guinta",
+      "reason": "Stepfather re-keyed in ep1 draft rebuild; canonical nodes.json still lists N-10 as Larry Ginta alias row."
+    },
+    "N-15": {
+      "survives_as": "N-40",
+      "canonical_name": "Dr. John Money",
+      "reason": "Ep2 draft uses N-40 for John Money; N-15 gap is intentional skip."
+    },
+    "N-20": {
+      "survives_as": "N-57",
+      "canonical_name": "Nancy Gerard Hall",
+      "reason": "Tesseract principal re-keyed as N-57 Nancy Gerard in ep5 drafts."
+    },
+    "N-22": {
+      "survives_as": null,
+      "canonical_name": "Colonel Otto Busher",
+      "reason": "Person named in cross_episode_analysis_v2 only; never instantiated in current ep1–8 Node Register. Intentional skip — do not invent."
+    },
+    "N-31": {
+      "survives_as": "N-1072",
+      "canonical_name": "Arizona State University",
+      "reason": "Org retype; canonical nodes.json ingest_gate skip Person N-31 → Organization N-1072."
+    },
+    "N-38": {
+      "survives_as": "N-3",
+      "canonical_name": "Lori Frantzve",
+      "reason": "Lori Abbis Stanley duplicate collapsed into N-3 Also known as labels (Layer B)."
+    },
+    "N-55": {
+      "survives_as": "N-2",
+      "canonical_name": "Erika Kirk",
+      "reason": "Duplicate Erika node from ep6 transit rebuild collapsed to N-2."
+    },
+    "N-63": {
+      "survives_as": "N-27",
+      "canonical_name": "Justin Strife",
+      "reason": "Duplicate Justin Strife node from ep6 transit rebuild collapsed to N-27."
+    },
+    "N-65": {
+      "survives_as": "N-1",
+      "canonical_name": "Charlie Kirk",
+      "reason": "Duplicate Charlie node from ep7 transit rebuild collapsed to N-1."
+    }
+  }
+}

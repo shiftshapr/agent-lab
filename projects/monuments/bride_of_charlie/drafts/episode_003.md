@@ -104,7 +104,7 @@ Confidence: high
 **A-1017.1** Tweets showing Erika's relationship history
 Event Timestamp: 2013-2018
 Video Timestamp: 58:39–59:15
-*Related: C-1025, N-2, N-1*
+*Related: C-1025, C-1026, N-2, N-1*
 Transcript Snippet: Charlie, Erika had multiple boyfriends....She rang in the new year with a...boyfriend. Okay. In 2018. So, yeah. No....Uh, the correct sentence should be, I...did not have a boyfriend in uh New New...York. I didn't go out to meet a...boyfriend cuz I already had one and...maybe he was living in DC or something.
 Confidence: high
 
@@ -122,6 +122,14 @@ Confidence: high
 
 ---
 
+**A-1017.2** Erika social posts — Terry Crist / Hillsong connection
+Event Timestamp: 2011–2016
+Video Timestamp: 43:56–45:16
+*Related: C-1026, N-2, N-46, N-47*
+Transcript Snippet: joy. Congratulations, Terry Chris....Judith Crisp....The vibes are vibing....Now, coincidentally, and I'm going to...bring Ashley uh on in a second to...explain a little more, but I'll tell you...that Pastor Terry is very close with...Brian Houston, the Hillsong Church
+Confidence: medium
+
+---
 ## 4. Node Register
 
 **N-1** Charlie Kirk
@@ -317,6 +325,7 @@ Inconsistency between Erika's claims about dating history and evidence of multip
 
 
 
+
 **C-1016** Lori on Super Feed Board with Tyler Bowyer
 
 Claim Timestamp: 00:30
@@ -326,6 +335,8 @@ Anchored Artifacts: A-1018.1
 Related Nodes: N-3, N-1047, N-13
 Confidence: high
 Investigative Direction: Verify corporate filings and board meeting minutes.
+
+---
 
 ---
 
@@ -341,6 +352,8 @@ Investigative Direction: Compare birth records from multiple sources.
 
 ---
 
+---
+
 **C-1018** Richard Erpenbeck Witness on Divorce
 
 Claim Timestamp: 04:07
@@ -350,6 +363,8 @@ Anchored Artifacts: A-1012.1
 Related Nodes: N-3, N-16, N-4, N-1051
 Confidence: high
 Investigative Direction: Obtain certified copies of divorce documents.
+
+---
 
 ---
 
@@ -365,6 +380,8 @@ Investigative Direction: Obtain business filings to verify Erpenbeck's roles in 
 
 ---
 
+---
+
 **C-1020** Lori's LLC Network with Erpenbecks
 
 Claim Timestamp: 05:43
@@ -374,6 +391,8 @@ Anchored Artifacts: A-1014.1
 Related Nodes: N-3, N-16, N-45, N-1051
 Confidence: high
 Investigative Direction: Obtain complete LLC filing history from state records.
+
+---
 
 ---
 
@@ -389,6 +408,8 @@ Investigative Direction: Review court records from the Eastern District of Kentu
 
 ---
 
+---
+
 **C-1022** Erika Pageant Timeline 2005-2012
 
 Claim Timestamp: 33:43
@@ -398,6 +419,8 @@ Anchored Artifacts: A-1015.1
 Related Nodes: N-2, N-1050
 Confidence: high
 Investigative Direction: Obtain pageant competition records from state and national organizations.
+
+---
 
 ---
 
@@ -413,6 +436,21 @@ Investigative Direction: Request transcript records and enrollment verification 
 
 ---
 
+---
+
+**C-1026** Pastor Terry Crist Connection to Hillsong
+
+Claim Timestamp: 44:10
+Claim: Pastor Terry Crist of City of Grace Scottsdale is close friends with Brian Houston, founder of Hillsong Church who covered up his father's pedophilia.
+Transcript Snippet: joy. Congratulations, Terry Chris....Judith Crisp....The vibes are vibing....Now, coincidentally, and I'm going to...bring Ashley uh on in a second to...explain a little more, but I'll tell you...that Pastor Terry is very close with...Brian Houston, the Hillsong Church
+Anchored Artifacts: A-1017.2
+Related Nodes: N-46, N-47
+Confidence: medium
+Uncertainty: No artifact shown; based on host's narration of research
+Investigative Direction: Verify friendship through church records and public statements.
+
+---
+
 **C-1024** Erika Claimed No Dating in NYC
 
 Claim Timestamp: 54:59
@@ -422,6 +460,8 @@ Anchored Artifacts: A-1016.2
 Related Nodes: N-2, N-1
 Confidence: high
 Investigative Direction: Obtain social media records and witness testimony from NYC period.
+
+---
 
 ---
 
@@ -437,13 +477,3 @@ Investigative Direction: Compile social media evidence and witness accounts of r
 
 ---
 
-**C-1026** Pastor Terry Crist Connection to Hillsong
-
-Claim Timestamp: 58:39
-Claim: Pastor Terry Crist of City of Grace Scottsdale is close friends with Brian Houston, founder of Hillsong Church who covered up his father's pedophilia.
-Transcript Snippet: didn't date anybody before. Charlie, oh...no, you guys are messing up. My heart is...overwhelmed with incredible amounts of...joy. Congratulations, Terry Chris....Judith Crisp....The vibes are vibing....Now, coincidentally, and I'm going to...bring Ashley uh on in a second to
-Anchored Artifacts: A-1017.1
-Related Nodes: N-46, N-47
-Confidence: medium
-Uncertainty: No artifact shown; based on host's narration of research
-Investigative Direction: Verify friendship through church records and public statements.

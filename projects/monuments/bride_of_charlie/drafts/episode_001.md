@@ -132,6 +132,15 @@ Confidence: medium
 
 ---
 
+**A-1000.2** TPUSA CEO insertion framing (episode opening narration)
+Event Timestamp: Undated in episode source
+Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
+Video Timestamp: 00:01–00:33
+*Related: C-1000, N-2, N-1030*
+Transcript Snippet: Okay, you guys, there is a very strange...thing happening right now where a young...woman with absolutely zero professional...qualifications has been inserted at the...top of a charity organization that...pulled in over a quarter billion dollars...last year and the media is telling you...that you have no right to know or to ask
+Confidence: high
+
+---
 ## 4. Node Register
 
 **N-1** Charlie Kirk
@@ -358,16 +367,19 @@ Multiple family members involved in gambling industry - lottery tickets, slot ma
 
 
 
+
 **C-1000** Erika Kirk Leads Major Charity
 
-Claim Timestamp: 22:04
+Claim Timestamp: 00:01
 Claim: A young woman with no professional qualifications has been inserted as CEO/chairman of Turning Point USA, a charity that pulled in over $250 million.
 Transcript Snippet: Okay, you guys, there is a very strange...thing happening right now where a young...woman with absolutely zero professional...qualifications has been inserted at the...top of a charity organization that...pulled in over a quarter billion dollars...last year and the media is telling you...that you have no right to know or to ask
-Anchored Artifacts: A-1000.1, A-1001.1, A-1001.2, A-1001.3, A-1002.1, A-1005.1, A-1005.2, A-1006.1
+Anchored Artifacts: A-1000.2
 Related Nodes: N-2, N-1030, N-1
 Confidence: high
 Uncertainty: Framing premise - not yet verified through artifact
 Investigative Direction: Verify Erika's professional qualifications and her appointment process at Turning Point USA.
+
+---
 
 ---
 
@@ -383,6 +395,8 @@ Investigative Direction: Obtain certified copies of birth records and compare wi
 
 ---
 
+---
+
 **C-1002** Multiple Marriage Date Discrepancies in Divorce Documents
 
 Claim Timestamp: 24:00
@@ -392,6 +406,8 @@ Anchored Artifacts: A-1001.1, A-1001.2, A-1001.3
 Related Nodes: N-4, N-3, N-1036
 Confidence: high
 Investigative Direction: Obtain certified marriage certificate and compare with all divorce filing variants.
+
+---
 
 ---
 
@@ -407,6 +423,8 @@ Investigative Direction: Obtain court records and newspaper archives confirming 
 
 ---
 
+---
+
 **C-1005** Paternal Grandfather Worked at Lottery Ticket Company
 
 Claim Timestamp: 35:15
@@ -419,16 +437,20 @@ Investigative Direction: Confirm employment records and company role.
 
 ---
 
+---
+
 **C-1003** Father Present During Childhood Contrary to Single Mother Claim
 
 Claim Timestamp: 37:00
 Claim: Erika publicly claims she was raised by a single mother, but her father Kent was present throughout her childhood, and she also had a stepfather Larry Guinta present.
-Transcript Snippet: multiple companies in the network...security industry, according to her...LinkedIn....So, you can see they're seating the...public with the idea that you can raise...kids and uh be a single mom and also be...a CEO and boss baby it. Okay. The only...problem is that it's just it's just not
+Transcript Snippet: over the years, referring to him...affectionately as her morfar. Saw this...over and over again. And you just see...posts of him and how much she loves him....She even mentions her her grandmother...there. That's his wife Elaine and she...says she is my angel in heaven but I...usually call her mormor. So that's
 Anchored Artifacts: A-1005.1
 Related Nodes: N-2, N-4, N-33, N-1037, N-1038
 Confidence: high
 Uncertainty: Also involves morfar/farfar terminology issue suggesting possible paternity question
 Investigative Direction: Obtain school records, yearbooks, and witness statements confirming father's presence.
+
+---
 
 ---
 
@@ -442,6 +464,8 @@ Related Nodes: N-2, N-36, N-37
 Confidence: medium
 Uncertainty: Host speculates about paternity based on terminology issue
 Investigative Direction: Verify ownership of Zion's Gate dedication and actual family relationship.
+
+---
 
 ---
 

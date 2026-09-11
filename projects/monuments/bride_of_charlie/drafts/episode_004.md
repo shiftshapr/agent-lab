@@ -361,6 +361,7 @@ Erika claims to have played basketball at Regis but team members confirm she did
 
 
 
+
 **C-1030** James Melvin Stanley Was Lori's First Husband
 
 Claim Timestamp: 12:10
@@ -370,6 +371,8 @@ Anchored Artifacts: A-1022.1
 Related Nodes: N-3, N-51
 Confidence: high
 Investigative Direction: Obtain marriage records to verify.
+
+---
 
 ---
 
@@ -385,6 +388,8 @@ Investigative Direction: Verify nature of relationship and whether Erika was awa
 
 ---
 
+---
+
 **C-1027** DOB Listed as November 22, 1988 in Multiple Court Filings
 
 Claim Timestamp: 18:17
@@ -394,6 +399,8 @@ Anchored Artifacts: A-1019.1, A-1019.2, A-1019.3, A-1019.4, A-1019.5, A-1019.6
 Related Nodes: N-2, N-4, N-1000
 Confidence: high
 Investigative Direction: Obtain certified copies of filings to verify authenticity and compare with official birth records.
+
+---
 
 ---
 
@@ -409,6 +416,8 @@ Investigative Direction: Verify genealogical records to confirm or refute Lombar
 
 ---
 
+---
+
 **C-1031** Erika Attended St. Ursula Villa Kindergarten 1994-1995
 
 Claim Timestamp: 41:38
@@ -418,6 +427,8 @@ Anchored Artifacts: A-1022.2
 Related Nodes: N-2, N-54, N-1055
 Confidence: high
 Investigative Direction: Obtain yearbooks and school records to verify attendance.
+
+---
 
 ---
 
@@ -433,6 +444,8 @@ Investigative Direction: Obtain official university athletic records to verify t
 
 ---
 
+---
+
 **C-1033** Erika Gives Conflicting Bible Study Timeline
 
 Claim Timestamp: 44:50
@@ -442,3 +455,4 @@ Anchored Artifacts: A-1023.2, A-1023.3
 Related Nodes: N-2, N-1054
 Confidence: high
 Investigative Direction: Verify timeline through independent sources and podcast recordings.
+
