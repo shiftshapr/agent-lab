@@ -103,11 +103,23 @@ Examples:
 - testimonial confirmation explicitly claimed in the episode
 
 ## What does not count as an artifact
-- host opinion
+- host opinion **unless** it is agreement/disagreement with a read/displayed source (then capture both artifact and claim)
 - inference
 - emotional framing
 - unsupported allegation
 - broad theory
+
+## Read/display rule (critical)
+
+If the host **reads aloud** or **displays** a source — tweet/X post, article, news clip, IG reel, email, Substack excerpt, fan comment — treat it as an **artifact**, not rhetoric-only.
+
+- Anchor claims about that source's content to the artifact.
+- When the host **concurs with** or **rejects** the source's thesis, that host stance is a **claim** linked to the same artifact.
+- **Related Nodes** must include the named author, poster, or account when identifiable.
+
+**Anti-pattern:** Skipping read-aloud/displayed material because it sounds like host commentary.
+
+**Cautionary example (Lane-class miss):** Elizabeth Lane's viral X post in Episode 1 — read in full on air — requires artifact `A-1009.1`, claims for Lane's assessment and host concurrence (`C-1008`, `C-1009`), and Person node **N-6 Elizabeth Lane**. Do not collapse this into optional rhetoric.
 
 ## Artifact numbering model
 Artifacts are numbered by **family**, not by episode.

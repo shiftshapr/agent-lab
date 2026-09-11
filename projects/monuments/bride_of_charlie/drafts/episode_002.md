@@ -11,8 +11,8 @@
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1010-A-1015
-  - Claim Range: C-1010-C-1017
-  - New Nodes Introduced: N-13, N-14, N-15, N-16, N-17, N-1011, N-1012, N-1013, N-1014, N-1015, N-1016, N-1017
+  - Claim Range: C-1010-C-1017, C-1108, C-1109
+  - New Nodes Introduced: N-13, N-14, N-15, N-16, N-17, N-1011, N-1012, N-1013, N-1014, N-1015, N-1016, N-1017, N-1064, N-1065, N-1066
   - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-1002, N-1004
 
 ## 2. Executive Summary
@@ -98,6 +98,13 @@ Event Timestamp: 1990s
 Video Timestamp: 32:05–33:00
 *Related: C-1015, N-15, N-1002, N-1004, N-1005*
 Transcript Snippet: named Phil Bliss who joins the board of...Tesseract....Okay, Phil Bliss here over there in the...corner. Phil Bliss, the board member,...was involved with Stanford University in...the 70s. I'm not going to Yes, I am. MK...Ultra, MK Ultra. Okay. He was known...widely during that time as a drug
+Confidence: medium
+
+**A-1012.3** Tesseract staff and board narration (Kesler, Silverstein, Walton)
+Event Timestamp: 1990s–2000
+Video Timestamp: 33:30–34:42
+*Related: C-1108, C-1109, N-1064, N-1065, N-1066, N-1002*
+Transcript Snippet: executive director is a woman named Jill...Kesler. uh she's the executive director...above her is Susan B. Silverstein, who...is the vice president of development....John Walton, obviously, the...son of Walmart founder Sam Walton, is a...major investor and he also sits on the...board.
 Confidence: medium
 
 ---
@@ -296,6 +303,33 @@ Location of Tesseract School and where Jerry/Kent lived
 
 ---
 
+**N-1064** Jill Kesler
+
+Node Type: Person
+Executive director of Tesseract School named during episode narration
+
+*Related: C-1108, N-1002*
+
+---
+
+**N-1065** Susan B. Silverstein
+
+Node Type: Person
+Vice president of development at Tesseract; host withholds further identification pending certainty
+
+*Related: N-1002*
+
+---
+
+**N-1066** John Walton
+
+Node Type: Person
+Son of Walmart founder Sam Walton; described as major Tesseract investor and board member
+
+*Related: C-1109, N-1002*
+
+---
+
 ## 5. Claim Register
 
 
@@ -406,6 +440,36 @@ Anchored Artifacts: A-1013.1
 Related Nodes: N-2, N-3
 Confidence: high
 Investigative Direction: Compare testimony from pageant contacts and family
+
+---
+
+**C-1108** Jill Kesler Was Tesseract Executive Director
+
+Claim Timestamp: 33:34
+Claim: The episode presents that Jill Kesler was executive director of Tesseract School during the period discussed.
+Transcript Snippet: The person who...is going to be running the school as the...executive director is a woman named Jill...Kesler. uh she's the executive director...and um she says that she moved to...Arizona for her husband's job
+Anchored Artifacts: A-1012.3
+Related Nodes: N-1064, N-1002
+Confidence: medium
+Investigative Direction: Verify Kesler's employment records at Tesseract School.
+
+---
+
+**C-1109** John Walton Was Tesseract Board Investor
+
+Claim Timestamp: 34:34
+Claim: The episode presents that John Walton, son of Walmart founder Sam Walton, was a major investor and sat on the Tesseract board.
+Transcript Snippet: I told you...already that John Walton, obviously, the...son of Walmart founder Sam Walton, is a...major investor and he also sits on the...board.
+Anchored Artifacts: A-1012.3
+Related Nodes: N-1066, N-1002
+Confidence: medium
+Investigative Direction: Verify Walton family investment and board records for Tesseract.
+
+---
+
+## 6. Optional Flags
+
+- **Lane thesis cross-ref (skipped new extraction):** Elizabeth Lane psychopath framing already extracted in Episode 1 (N-6, A-1009.1, C-1008, C-1009). No duplicate Lane nodes or claims in this episode.
 
 ---
 

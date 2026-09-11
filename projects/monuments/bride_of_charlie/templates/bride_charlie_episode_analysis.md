@@ -90,3 +90,15 @@ Investigative Direction: [What could verify or falsify the claim.]
 - [Uncertainty flags]
 - [Correction notes if applicable]
 - [Contradictions (both sides artifact-anchored)]
+
+---
+
+## Extract guidance (read/display sources)
+
+Apply these rules during extraction and Phase 2 drafting:
+
+1. **Read or displayed = Artifact.** Any source the host **reads aloud** or **displays on-screen** — tweet/X post, article, news clip, IG reel, email, Substack excerpt, fan comment — is an **Artifact** (with `transcript_snippet` grounded to `transcripts_corrected`).
+2. **Host agreement/disagreement = Claim.** When the host **concurs with**, **rejects**, or **qualifies** a thesis presented in that read/displayed source, capture that as a **Claim** anchored to the artifact — not as rhetoric-only.
+3. **Related Nodes include author.** When a read/displayed source has a named author, poster, or account, include that **Person** (or account-as-node when appropriate) in the artifact's and claim's **Related Nodes**.
+4. **Anti-pattern:** Do **not** treat read-aloud/displayed third-party text as host rhetoric only. If it appears in the transcript as quoted or shown material, it needs artifact (and usually claim) rows.
+5. **Cautionary example — Lane-class miss:** Episode 1 **Elizabeth Lane** viral X post (`A-1009.1`) was initially under-extracted when treated as framing-only. Correct pattern: artifact for the post read in full + claim for Lane's thesis + separate claim for host concurrence (`C-1008`, `C-1009`), with **N-6 Elizabeth Lane** in Related Nodes.

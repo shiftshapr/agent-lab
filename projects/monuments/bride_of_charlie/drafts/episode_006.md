@@ -10,9 +10,9 @@
 - **Transcript SHA-256**: 34f5d4923dae1e5b528c3e2f10f557745da8bf3cf07902005e54e8f624c99d6a
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1041-A-1052
-  - Claim Range: C-1066-C-1080
-  - New Nodes Introduced: N-36, N-37, N-38, N-39, N-40, N-1038, N-41, N-42, N-1039, N-1040, N-1041, N-1042, N-1043, N-1044, N-1045, N-1046, N-1047, N-1048, N-1060
+  - Artifact Families Introduced: A-1041-A-1052, A-1071, A-1072
+  - Claim Range: C-1066-C-1080, C-1106, C-1111, C-1112
+  - New Nodes Introduced: N-36, N-37, N-38, N-39, N-40, N-1038, N-41, N-42, N-1039, N-1040, N-1041, N-1042, N-1043, N-1044, N-1045, N-1046, N-1047, N-1048, N-1060, N-1068, N-1069, N-1070
   - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14
 
 ## 2. Executive Summary
@@ -158,9 +158,31 @@ Confidence: high
 **A-1052.1** Maj. Gen. Hugo E. Salazar 1994 JTF narcotics exhibit on-screen
 Event Timestamp: 1994
 Video Timestamp: 31:23–31:32
-*Related: N-1048, N-1060*
+*Related: C-1106, N-1048, N-1060*
 Transcript Snippet: worked in narcotics. Look at this. This...is in 1994 by the way. He's working...here. Um joint task force narcotics....It's giving Mitch Snow telling us about...Fort Wuka and how generals were working...with the cartels in 1990 got busted.
 Confidence: high
+
+---
+
+**A-1071** Tracy Martin Handbag Partnership Bundle
+
+**A-1071.1** June 2012 Tracy Martin handbag partnership with Everyday Heroes (narration)
+Event Timestamp: June 7, 2012
+Video Timestamp: 28:03–28:30
+*Related: C-1111, N-2, N-1048, N-1068*
+Transcript Snippet: June 7th of...2012, Erika is going to team up with...that Tracy Martin. Tracy says they met...backstage and they just decided to go...into uh do some good together. There uh...Tracy's making handbags. She's what we...refer to as a serial entrepreneur, life...coach, does a little bit of everything....Every bag you buy, Everyday Heroes and...the kids are going to get $25.
+Confidence: medium
+
+---
+
+**A-1072** Emerson Drive Music Video Bundle
+
+**A-1072.1** She's My Kind of Crazy music video featuring Erika (July 2012)
+Event Timestamp: July 2012
+Video Timestamp: 28:34–28:43
+*Related: C-1112, N-2*
+Transcript Snippet: July, we find Erika featured in a music...video uh for Emerson Drive that went...pretty viral. That's She's My Kind of...Crazy. We had mentioned to you yesterday...that her boyfriend Tyler Sanford is...alongside with her. Um he's also cast in...that music video.
+Confidence: medium
 
 ---
 ## 4. Node Register
@@ -389,7 +411,36 @@ Erika's humanitarian organization
 Node Type: Person
 Major General thanked in Everyday Heroes context; 1994 joint task force narcotics exhibit shown on-screen
 
-*Related: A-1052.1, N-1048*
+*Related: A-1052.1, C-1106, N-1048*
+
+---
+
+**N-1068** Tracy Martin
+
+Node Type: Person
+Serial entrepreneur and life coach; 2012 handbag partnership with Everyday Heroes Like You
+
+*Related: A-1071.1, C-1111, N-1048*
+
+---
+
+**N-1069** Emerson Drive
+
+Node Type: Organization
+Organization Kind: other
+Country music band; Erika featured in July 2012 She's My Kind of Crazy music video
+
+*Related: A-1072.1, C-1112*
+
+---
+
+**N-1070** Iranian War Community Notes Aside
+
+Node Type: Topic
+Topic Kind: other
+Host notes Turning Point figures community-noted on X for attributing views on the Iranian war contrary to Charlie Kirk's stated positions
+
+*Related: *
 
 ---
 
@@ -603,6 +654,42 @@ Anchored Artifacts: A-1050.1, A-1051.1
 Related Nodes: N-42, N-1, N-2
 Confidence: medium
 Investigative Direction: Verify specific connections and timelines.
+
+---
+
+**C-1106** Major General Salazar Formerly Worked Joint Task Force Narcotics
+
+Claim Timestamp: 31:23
+Claim: The episode presents that Major General Hugo E. Salazar, thanked on Erika's Everyday Heroes website, formerly worked in Arizona narcotics enforcement with a joint task force in 1994 as shown on-screen.
+Transcript Snippet: E. Salazar. Uh he was formerly...worked in narcotics. Look at this. This...is in 1994 by the way. He's working...here. Um joint task force narcotics.
+Anchored Artifacts: A-1052.1
+Related Nodes: N-1060, N-1048, N-2
+Confidence: high
+Investigative Direction: Obtain military service records to verify Salazar's 1994 narcotics assignment.
+
+---
+
+**C-1111** Erika Partnered With Tracy Martin Handbag Fundraiser June 2012
+
+Claim Timestamp: 28:03
+Claim: The episode presents that on June 7, 2012 Erika teamed with Tracy Martin on a handbag partnership donating $25 per bag to Everyday Heroes Like You.
+Transcript Snippet: June 7th of...2012, Erika is going to team up with...that Tracy Martin. Tracy says they met...backstage and they just decided to go...into uh do some good together....Every bag you buy, Everyday Heroes and...the kids are going to get $25.
+Anchored Artifacts: A-1071.1
+Related Nodes: N-2, N-1068, N-1048
+Confidence: medium
+Investigative Direction: Verify handbag partnership announcements and Everyday Heroes fundraising records for June 2012.
+
+---
+
+**C-1112** Erika Featured in Emerson Drive Music Video July 2012
+
+Claim Timestamp: 28:34
+Claim: The episode presents that in July 2012 Erika was featured in Emerson Drive's She's My Kind of Crazy music video alongside boyfriend Tyler Sanford.
+Transcript Snippet: July, we find Erika featured in a music...video uh for Emerson Drive that went...pretty viral. That's She's My Kind of...Crazy....her boyfriend Tyler Sanford is...alongside with her. Um he's also cast in...that music video.
+Anchored Artifacts: A-1072.1
+Related Nodes: N-2, N-1069
+Confidence: medium
+Investigative Direction: Obtain the music video and credits to confirm Erika's appearance and date.
 
 ## 6. Meme Register
 

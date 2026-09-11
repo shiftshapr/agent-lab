@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1023-A-1029
   - Claim Range: C-1029-C-1037
-  - New Nodes Introduced: N-26, N-27, N-28, N-29, N-30, N-31, N-1024, N-1025, N-1026, N-1027, N-1028, N-1029
+  - New Nodes Introduced: N-26, N-27, N-28, N-29, N-30, N-31, N-1024, N-1025, N-1026, N-1027, N-1028, N-1029, N-1067
   - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-13, N-18, N-20, N-1000, N-1001, N-1019
 
 ## 2. Executive Summary
@@ -378,6 +378,16 @@ Topic Kind: verification_thread
 Erika claims to have played basketball at Regis but team members confirm she did not
 
 *Related: A-1026.3, C-1034*
+
+---
+
+**N-1067** Khazar Pollock History Aside
+
+Node Type: Topic
+Topic Kind: other
+Host narration on Khazarian empire history and Abraham Pollock book example (commentary segment; no discrete on-screen document shown)
+
+*Related: *
 
 ---
 

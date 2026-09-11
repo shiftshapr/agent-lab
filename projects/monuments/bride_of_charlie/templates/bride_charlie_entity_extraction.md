@@ -189,6 +189,14 @@ Use these when the episode supports them; all cross-refs must point at `nodes` /
 
 ---
 
+## Read/display sources (Phase 1)
+
+- Any source the host **reads aloud** or **shows on-screen** (tweet/X, article, news clip, IG reel, email, Substack, fan comment) → extract as an **Artifact** sub-item with `transcript_snippet` / `quote` from the transcript.
+- Host **agreement or disagreement** with that source's thesis → extract as a **Claim** with `anchored_artifacts` pointing at the read/display artifact.
+- **Related nodes** on those artifacts/claims must include the **author/poster/account** when named (Person node placeholder).
+- **Anti-pattern:** Do not bucket read-aloud/displayed material as host rhetoric only.
+- **Lane-class caution:** Elizabeth Lane's viral X post (Episode 1) is the reference miss — third-party post read in full requires artifact + claim(s) + author Person, not a rhetorical skip.
+
 Rules:
 - Root: include "@context": "https://brc222.org/context/v1" and "@type": "EpisodeAnalysis".
 - Each entity: include @type (ArtifactFamily, Artifact, Claim, Person, Topic, Organization, Place; legacy InvestigationTarget still accepted) and @id (same as ref).

@@ -10,9 +10,9 @@
 - **Transcript SHA-256**: bfa1f3a7bb2f1e22931c24751ff9502786764ec4e25102cbc81af72d7edc2f0e
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1053-A-1061
-  - Claim Range: C-1081-C-1091
-  - New Nodes Introduced: N-43, N-44, N-45, N-1049, N-1050
+  - Artifact Families Introduced: A-1053-A-1061, A-1073, A-1074, A-1076
+  - Claim Range: C-1081-C-1091, C-1113, C-1114
+  - New Nodes Introduced: N-43, N-44, N-45, N-1049, N-1050, N-1071
   - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14, N-32, N-40, N-1000, N-1001, N-1047
 
 ## 2. Executive Summary
@@ -178,6 +178,40 @@ Confidence: medium
 
 ---
 
+**A-1073** Erika 2014 X Travel Look-Ahead Bundle
+
+**A-1073.1** Erika 2014 look-ahead X post listing travel destinations
+Event Timestamp: 2014
+Video Timestamp: 51:12–51:33
+*Related: C-1114, N-2*
+Transcript Snippet: in a look ahead post um for...2014, she mentions on X that she is...going to be again in Romania, in Laos,...in Kazakhstan, in the Philippines, in...Sweden. She says, "Okay, 2014, I see...you."
+Confidence: medium
+
+---
+
+**A-1074** Romanian Viewer Comment Bundle
+
+**A-1074.1** Romanian viewer comment read aloud about 1989 revolution
+Event Timestamp: Undated in episode source
+Event Timestamp Note: comment from prior episode discussion; read aloud in this episode without shown screenshot.
+Video Timestamp: 56:08–58:51
+*Related: N-1041*
+Transcript Snippet: Candace, I'm from...Romania, and this episode was extremely...important to me because you talked about...my country. I'm a living witness of the...so-called 1989 revolution. I witnessed...the horrid so-called trial of the Choses...couple, and I remember vividly how...shocked we were when they executed them...right on Christmas Day.
+Confidence: high
+
+---
+
+**A-1076** 2014 Hollywood Network Narration Bundle
+
+**A-1076.1** Mark Burnett / Johnny Moore / Cyros company narration (2014 context)
+Event Timestamp: 2014
+Video Timestamp: 39:56–40:48
+*Related: C-1113, N-1071, N-2*
+Transcript Snippet: Mark...Burnett being the person who created...Survivor, the person who's going to...create the reality show that Erika is...on....Johnny Moore is going to leave Liberty...University and start the Cyros company...with Andrew. Johnny Moore is working for...Mark Burnett. There is a chance that in...2014 again Erika and Andrew Kolvet...would have crossed paths.
+Confidence: medium
+
+---
+
 ## 4. Node Register
 
 **N-1** Charlie Kirk
@@ -321,6 +355,16 @@ Organization Kind: business
 Erika's clothing company
 
 *Related: A-1053.2, A-1053.4, A-1053.5, C-1083*
+
+---
+
+**N-1071** Hollywood 2014 Network Speculation
+
+Node Type: Topic
+Topic Kind: verification_thread
+Host speculation about Mark Burnett, Johnny Moore, Cyros company, and possible 2014 path crossings (explicit uncertainty in narration)
+
+*Related: C-1113*
 
 ---
 
@@ -480,4 +524,29 @@ Anchored Artifacts: A-1061.1
 Related Nodes: N-2, N-3, N-1000
 Confidence: medium
 Investigative Direction: Obtain certified copies of all documents containing DOB.
+
+---
+
+**C-1113** Host Speculates 2014 Erika Paths Crossed Burnett Moore Circle
+
+Claim Timestamp: 40:32
+Claim: The host speculates that in 2014 Erika and Andrew Kolvet may have crossed paths through Mark Burnett and Johnny Moore's Cyros company network, framing it as a possibility rather than a documented fact.
+Transcript Snippet: Johnny Moore is going to leave Liberty...University and start the Cyros company...with Andrew. Johnny Moore is working for...Mark Burnett. There is a chance that in...2014 again Erika and Andrew Kolvet...would have crossed paths.
+Anchored Artifacts: A-1076.1
+Related Nodes: N-1071, N-2
+Confidence: low
+Uncertainty: Host speculation only; no documentary link shown between Erika and Burnett/Moore in 2014
+Investigative Direction: Trace documented professional contacts between Erika, Kolvet, Moore, and Burnett in 2014 if records exist.
+
+---
+
+**C-1114** Erika 2014 X Post Listed Multiple Travel Destinations
+
+Claim Timestamp: 51:12
+Claim: The episode presents that Erika posted on X a 2014 look-ahead listing travel to Romania, Laos, Kazakhstan, the Philippines, and Sweden.
+Transcript Snippet: in a look ahead post um for...2014, she mentions on X that she is...going to be again in Romania, in Laos,...in Kazakhstan, in the Philippines, in...Sweden. She says, "Okay, 2014, I see...you."
+Anchored Artifacts: A-1073.1
+Related Nodes: N-2, N-1049
+Confidence: medium
+Investigative Direction: Preserve the original X post URL and verify which destinations were actually visited.
 

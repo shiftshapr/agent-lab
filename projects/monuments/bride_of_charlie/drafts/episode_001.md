@@ -11,8 +11,8 @@
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1000-A-1009
-  - Claim Range: C-1000-C-1009
-  - New Nodes Introduced: N-1, N-2, N-3, N-4, N-5, N-6, N-7, N-8, N-9, N-10, N-11, N-12, N-1000, N-1001, N-1002, N-1003, N-1004, N-1005, N-1006, N-1007, N-1008, N-1009, N-1010
+  - Claim Range: C-1000-C-1009, C-1107
+  - New Nodes Introduced: N-1, N-2, N-3, N-4, N-5, N-6, N-7, N-8, N-9, N-10, N-11, N-12, N-1000, N-1001, N-1002, N-1003, N-1004, N-1005, N-1006, N-1007, N-1008, N-1009, N-1010, N-1061, N-1062, N-1063
 
 ## 2. Executive Summary
 
@@ -125,6 +125,14 @@ Video Timestamp: 36:26–36:41
 *Related: C-1005, N-2, N-5, N-1008*
 Transcript Snippet: to her Scandinavian roots that in 2019,...she moved to begin the process of...obtaining her dual citizenship. She...posted this herself where she is. Dual...citizenship commenced.
 Confidence: high
+
+**A-1005.4** Erika online tribute to Alan Rothstein (narration)
+Event Timestamp: Undated in episode source
+Event Timestamp Note: post date not attested in transcript; host describes tribute content.
+Video Timestamp: 41:43–41:48
+*Related: C-1107, N-2, N-11, N-12, C-1006*
+Transcript Snippet: Erika also posted a...lovely tribute to Alan Rothstein Will Not Like This Column,...Nicole's father online. She calls him...uncle. Uncle?
+Confidence: medium
 
 ---
 
@@ -292,7 +300,7 @@ Erika's alleged roommate who made claims about Erika's family being half Jewish.
 Node Type: Person
 Nicole Rothstein's father. Erika referred to him as uncle.
 
-*Related: A-1005.2, C-1006*
+*Related: A-1005.2, A-1005.4, C-1006, C-1107*
 
 ---
 
@@ -332,7 +340,7 @@ Node Type: Organization
 Organization Kind: program_or_initiative
 CIA mind control program discussed in context of psychological manipulation.
 
-*Related: *
+*Related: N-1005, N-1006, N-1061*
 
 ---
 
@@ -342,7 +350,7 @@ Node Type: Organization
 Organization Kind: program_or_initiative
 US program that brought German scientists to America.
 
-*Related: *
+*Related: N-1004, N-1006, N-1061*
 
 ---
 
@@ -352,7 +360,37 @@ Node Type: Organization
 Organization Kind: program_or_initiative
 CIA project involving time travel technology mentioned in episode.
 
-*Related: C-1007*
+*Related: C-1007, N-1003, N-1061, N-1063*
+
+---
+
+**N-1061** Paperclip-Monarch-MK Ultra Chain Context
+
+Node Type: Topic
+Topic Kind: program_reference
+Host narration linking Operation Paperclip, Project Monarch, and MK Ultra as historical context (no discrete on-screen source in episode)
+
+*Related: N-1004, N-1005, N-1006*
+
+---
+
+**N-1062** Macron MK Ultra Lawsuit Aside
+
+Node Type: Topic
+Topic Kind: other
+Host aside referencing Emmanuel Macron suing over MK Ultra mention on Tim Dillon show (narration only)
+
+*Related: N-1004*
+
+---
+
+**N-1063** Looking Glass Jewish Naming Aside
+
+Node Type: Topic
+Topic Kind: other
+Host aside questioning why Jewish schools use Looking Glass naming (commentary; not a documentary claim)
+
+*Related: N-1003, N-1006*
 
 ---
 
@@ -548,6 +586,19 @@ Related Nodes: N-7, N-2, N-6
 Confidence: high
 Uncertainty: Host opinion/concurrence with Lane's framing, not an independent clinical or documentary claim
 Investigative Direction: Track whether later episodes substantiate or revisit elements Lane raised (personality adaptation, performative grief, post-death CEO transition).
+
+---
+
+**C-1107** Erika Posted Tribute Calling Alan Rothstein Uncle
+
+Claim Timestamp: 41:43
+Claim: The episode presents that Erika posted an online tribute to Alan Rothstein, Nicole Rothstein's father, calling him uncle despite no blood relation per the host's family chart.
+Transcript Snippet: Erika also posted a...lovely tribute to Alan Rothstein Will Not Like This Column,...Nicole's father online. She calls him...uncle. Uncle?
+Anchored Artifacts: A-1005.4
+Related Nodes: N-2, N-11, N-12, N-1009
+Confidence: medium
+Uncertainty: Host describes post content; original post URL/date not shown on-screen
+Investigative Direction: Obtain the original social post and verify caption and posting date.
 
 ## 6. Meme Register
 
