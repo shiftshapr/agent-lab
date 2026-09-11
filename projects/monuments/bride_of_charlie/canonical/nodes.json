@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updated": "2026-09-11T16:17:16.315278+00:00",
+  "updated": "2026-09-11T16:19:22.526412+00:00",
   "next_person_id": 54,
-  "next_investigation_id": 1030,
+  "next_investigation_id": 1060,
   "nodes": {
     "N-1": {
       "canonical_name": "Charlie Kirk",
@@ -273,152 +273,302 @@
     },
     "N-1000": {
       "canonical_name": "Date of Birth Discrepancy",
-      "type": "investigation_target",
+      "type": "topic",
       "aliases": []
     },
     "N-1001": {
-      "canonical_name": "Marriage Date Inconsistencies",
-      "type": "investigation_target",
+      "canonical_name": "Turning Point USA",
+      "type": "organization",
       "aliases": []
     },
     "N-1002": {
-      "canonical_name": "Early Childhood Location Timeline",
-      "type": "investigation_target",
+      "canonical_name": "Tesseract School",
+      "type": "organization",
       "aliases": []
     },
     "N-1003": {
-      "canonical_name": "Family Gambling/Casino History",
-      "type": "investigation_target",
+      "canonical_name": "Looking Glass School",
+      "type": "organization",
       "aliases": []
     },
     "N-1004": {
-      "canonical_name": "Swedish Citizenship Pursuit",
-      "type": "investigation_target",
+      "canonical_name": "MK Ultra",
+      "type": "organization",
       "aliases": []
     },
     "N-1005": {
-      "canonical_name": "Morfar vs Farfar Language Error",
-      "type": "investigation_target",
+      "canonical_name": "Operation Paperclip",
+      "type": "organization",
       "aliases": []
     },
     "N-1006": {
-      "canonical_name": "Zion's Gate Family Dedication Claim",
-      "type": "investigation_target",
+      "canonical_name": "Project Looking Glass",
+      "type": "organization",
       "aliases": []
     },
     "N-1007": {
-      "canonical_name": "Jerry Frantzve Background Verification",
-      "type": "investigation_target",
+      "canonical_name": "Marriage Date Discrepancy",
+      "type": "topic",
       "aliases": []
     },
     "N-1008": {
-      "canonical_name": "Missing Money from Turning Point USA",
-      "type": "investigation_target",
+      "canonical_name": "Single Mother Narrative Question",
+      "type": "topic",
       "aliases": []
     },
     "N-1009": {
-      "canonical_name": "Tesaract School Investigation",
-      "type": "investigation_target",
+      "canonical_name": "Morfar-Farfar Terminology Issue",
+      "type": "topic",
       "aliases": []
     },
     "N-1010": {
-      "canonical_name": "Radford University Report Credibility",
-      "type": "investigation_target",
+      "canonical_name": "Family Gambling History",
+      "type": "topic",
       "aliases": []
     },
     "N-1011": {
-      "canonical_name": "Erika Pageant Narrative",
-      "type": "investigation_target",
+      "canonical_name": "Jerry Frantzve Childhood Marriage",
+      "type": "topic",
       "aliases": []
     },
     "N-1012": {
-      "canonical_name": "Erpenbeck fraud pattern \u2014 Lori LLCs & notaries",
-      "type": "investigation_target",
+      "canonical_name": "Quaker Oats Human Experiments",
+      "type": "topic",
       "aliases": []
     },
     "N-1013": {
-      "canonical_name": "Erika Timeline Discrepancies",
-      "type": "investigation_target",
+      "canonical_name": "Tesseract Research Fraud",
+      "type": "topic",
       "aliases": []
     },
     "N-1014": {
-      "canonical_name": "Lombardi Lineage Claim",
-      "type": "investigation_target",
+      "canonical_name": "Turning Point USA Missing Money",
+      "type": "topic",
       "aliases": []
     },
     "N-1015": {
-      "canonical_name": "Missing Years Timeline",
-      "type": "investigation_target",
+      "canonical_name": "DuPont Family",
+      "type": "organization",
       "aliases": []
     },
     "N-1016": {
-      "canonical_name": "Erpenbeck criminal connections \u2014 Erika & uncle Rick",
-      "type": "investigation_target",
+      "canonical_name": "Radford University",
+      "type": "organization",
       "aliases": []
     },
     "N-1017": {
-      "canonical_name": "Erika Kirk Missing Years 2000-2002",
-      "type": "investigation_target",
+      "canonical_name": "Paradise Valley, Arizona",
+      "type": "place",
       "aliases": []
     },
     "N-1018": {
-      "canonical_name": "E3 Tech Military Contracts",
-      "type": "investigation_target",
+      "canonical_name": "Super Feed Technologies",
+      "type": "organization",
       "aliases": []
     },
     "N-1019": {
-      "canonical_name": "Romanian Base Trafficking Connection",
-      "type": "investigation_target",
+      "canonical_name": "Regis University",
+      "type": "organization",
       "aliases": []
     },
     "N-1020": {
-      "canonical_name": "Romania Connection Pattern",
-      "type": "investigation_target",
+      "canonical_name": "Turning Point Action",
+      "type": "organization",
       "aliases": []
     },
     "N-1021": {
-      "canonical_name": "Reno Nevada Military Connection",
-      "type": "investigation_target",
+      "canonical_name": "Notre Dame Prep",
+      "type": "organization",
       "aliases": []
     },
     "N-1022": {
-      "canonical_name": "How Erika Met Tyler Bowyer",
-      "type": "investigation_target",
+      "canonical_name": "Erpenbeck Family Connection",
+      "type": "topic",
       "aliases": []
     },
     "N-1023": {
-      "canonical_name": "E3 Tech Purpose",
-      "type": "investigation_target",
+      "canonical_name": "Erika Dating History Discrepancy",
+      "type": "topic",
       "aliases": []
     },
     "N-1024": {
-      "canonical_name": "Turning Point Shooting Adjacencies",
-      "type": "investigation_target",
+      "canonical_name": "St. Ursula Villa",
+      "type": "organization",
       "aliases": []
     },
     "N-1025": {
-      "canonical_name": "Pre-Marriage Business Claims",
-      "type": "investigation_target",
+      "canonical_name": "Lombardi Lineage Claim",
+      "type": "topic",
       "aliases": []
     },
     "N-1026": {
-      "canonical_name": "Sole Provider Narrative",
-      "type": "investigation_target",
+      "canonical_name": "Universal Studios",
+      "type": "organization",
       "aliases": []
     },
     "N-1027": {
-      "canonical_name": "Life Insurance and Fundraising",
-      "type": "investigation_target",
+      "canonical_name": "Bible Study Timeline Inconsistency",
+      "type": "topic",
       "aliases": []
     },
     "N-1028": {
-      "canonical_name": "Epstein-ASU-Bowyer Connection",
-      "type": "investigation_target",
+      "canonical_name": "Missing Years 2000-2002",
+      "type": "topic",
       "aliases": []
     },
     "N-1029": {
-      "canonical_name": "Education Credentials",
-      "type": "investigation_target",
+      "canonical_name": "Regis University Basketball Claim",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1030": {
+      "canonical_name": "Lori Frantzve Business Entities",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1031": {
+      "canonical_name": "E3 Tech Government Contracts",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1032": {
+      "canonical_name": "Everyday Heroes Like You Charity",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1033": {
+      "canonical_name": "Romania",
+      "type": "place",
+      "aliases": []
+    },
+    "N-1034": {
+      "canonical_name": "Rick Erpenbeck License Revocation",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1035": {
+      "canonical_name": "Erika Kirk Missing Years 1999-2002",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1036": {
+      "canonical_name": "Operation Enduring Freedom",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1037": {
+      "canonical_name": "IMAT Laboratories",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1038": {
+      "canonical_name": "Arizona Board of Regents",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1039": {
+      "canonical_name": "How Erika Met Tyler Bowyer",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1040": {
+      "canonical_name": "Cocopah Middle School",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1041": {
+      "canonical_name": "Romanian Revolution 1989",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1042": {
+      "canonical_name": "Tech International",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1043": {
+      "canonical_name": "Black Sea Rotational Force",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1044": {
+      "canonical_name": "Nevada-Romania Connection",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1045": {
+      "canonical_name": "Reno Nevada",
+      "type": "place",
+      "aliases": []
+    },
+    "N-1046": {
+      "canonical_name": "Constanta Romania",
+      "type": "place",
+      "aliases": []
+    },
+    "N-1047": {
+      "canonical_name": "Arizona State University",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1048": {
+      "canonical_name": "Everyday Heroes Like You",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1049": {
+      "canonical_name": "Venice, California",
+      "type": "place",
+      "aliases": []
+    },
+    "N-1050": {
+      "canonical_name": "Proclaim",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1051": {
+      "canonical_name": "Tesseract School / Notre Dame Prep",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1052": {
+      "canonical_name": "Diocese of Phoenix",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1053": {
+      "canonical_name": "G-Tech Industries LLC",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1054": {
+      "canonical_name": "Feed Me Incorporated / Superfeed Technologies",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1055": {
+      "canonical_name": "Erika's Financial Situation 2015-2018",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1056": {
+      "canonical_name": "Erika's Kanye Connection",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1057": {
+      "canonical_name": "Bible in 365 Claim",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1058": {
+      "canonical_name": "Maricopa County",
+      "type": "place",
+      "aliases": []
+    },
+    "N-1059": {
+      "canonical_name": "New York City",
+      "type": "place",
       "aliases": []
     }
   }

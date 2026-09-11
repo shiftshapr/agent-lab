@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-09-11T16:17:16Z",
+  "updated": "2026-09-11T16:19:22Z",
   "description": "Tombstone ledger for collapsed / legacy Person N-IDs after intro-order renumber (N-1..N-53 dense).",
   "retired": {
     "legacy-N-10": {
@@ -19,9 +19,9 @@
       "reason": "Ep5 Tesseract; was N-57, formerly canonical N-20 Nancy Gerard Hall."
     },
     "legacy-N-31": {
-      "survives_as": "N-1072",
+      "survives_as": "N-1047",
       "canonical_name": "Arizona State University",
-      "reason": "Org retype; canonical N-31 Person skipped \u2192 N-1072 Organization."
+      "reason": "Org retype; canonical N-31 Person skipped \u2192 N-1047 Organization."
     },
     "legacy-N-38": {
       "survives_as": "N-3",

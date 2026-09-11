@@ -12,8 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1019, A-1020, A-1021, A-1022, A-1023
   - Claim Range: C-1027-C-1033
-  - New Nodes Introduced: N-26, N-27, N-28, N-29, N-30, N-31, N-54, N-1014, N-1053, N-1054, N-1055, N-1056
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-13, N-18, N-20, N-1000, N-1030, N-1048
+  - New Nodes Introduced: N-26, N-27, N-28, N-29, N-30, N-31, N-1024, N-1025, N-1026, N-1027, N-1028, N-1029
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-13, N-18, N-20, N-1000, N-1001, N-1019
 
 ## 2. Executive Summary
 
@@ -83,7 +83,7 @@ Confidence: high
 **A-1021.1** Obituary for Angeline Abbas
 Event Timestamp: 1970
 Video Timestamp: 38:57–39:07
-*Related: C-1029, N-3, N-31, N-1014*
+*Related: C-1029, N-3, N-31, N-1025*
 Transcript Snippet: You can see that here in this obituary...from 1970. The bottom there it says that...Angeline, wife of Joseph Abbas of...Cincinnati, Ohio. Okay. So, what's going...on here? Because that that still...wouldn't make her a direct unless...people have multiple identifications....I I I can't get there. But I know that
 Confidence: high
 
@@ -100,14 +100,14 @@ Confidence: medium
 **A-1022.2** St. Ursula Villa Kindergarten Photo
 Event Timestamp: 1994-1995
 Video Timestamp: 41:38–41:55
-*Related: C-1031, N-2, N-54*
+*Related: C-1031, N-2, N-1024*
 Transcript Snippet: before she went down to Arizona. We have...that photo for you guys here. This would...be from 19 uh 94...to 1995....And you can see just for funsies, her...name is spelled differently. It's with a...C....Clerical. It's clerical error. Another
 Confidence: high
 
 **A-1022.3** Erika with Regis University Team Members
 Event Timestamp: December 2007
 Video Timestamp: 42:33–42:51
-*Related: C-1032, N-2, N-1048*
+*Related: C-1032, N-2, N-1019*
 Transcript Snippet: gathered of Erika with her Regis...University team members. This is taken...in December of 2007,...but she did not play. Regis University,...like I said, her stats are still up. We...could not find her in a newspaper, and...now we have uh team members that are...confirming that she did not play for the
 Confidence: high
 
@@ -268,7 +268,7 @@ Listed as Lori's mother, maiden name
 
 ---
 
-**N-54** St. Ursula Villa
+**N-1024** St. Ursula Villa
 
 Node Type: Organization
 School in Cincinnati where Erika attended kindergarten
@@ -277,7 +277,7 @@ School in Cincinnati where Erika attended kindergarten
 
 ---
 
-**N-1048** Regis University
+**N-1019** Regis University
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -287,7 +287,7 @@ University in Denver where Erika claims to have played basketball
 
 ---
 
-**N-1030** Turning Point USA
+**N-1001** Turning Point USA
 
 Node Type: Organization
 Organization Kind: other
@@ -297,7 +297,7 @@ Political organization founded by Charlie Kirk
 
 ---
 
-**N-1053** Universal Studios
+**N-1026** Universal Studios
 
 Node Type: Organization
 Organization Kind: other
@@ -317,7 +317,7 @@ Multiple court documents list Erika's birthday as November 22, 1988 instead of c
 
 ---
 
-**N-1014** Lombardi Lineage Claim
+**N-1025** Lombardi Lineage Claim
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -327,7 +327,7 @@ Charlie claims Erika is directly descended from Vince Lombardi
 
 ---
 
-**N-1054** Bible Study Timeline Inconsistency
+**N-1027** Bible Study Timeline Inconsistency
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -337,7 +337,7 @@ Erika gives conflicting accounts of when she read the Bible cover to cover
 
 ---
 
-**N-1055** Missing Years 2000-2002
+**N-1028** Missing Years 2000-2002
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -347,7 +347,7 @@ No yearbook confirmation for Erika at St. Ursula Villa for these years
 
 ---
 
-**N-1056** Regis University Basketball Claim
+**N-1029** Regis University Basketball Claim
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -410,7 +410,7 @@ Claim Timestamp: 36:48
 Claim: Charlie Kirk explicitly states on his podcast that Erika's mother is a direct descendant of Vince Lombardi.
 Transcript Snippet: No, I'd have to hear Charlie say that...myself. That can't be right. Well, sure...enough, we went to investigate and...Charlie did communicate that very fact....Take a listen....>> The Packers won the first Super Bowl....You know, my my wife Erika is from the...Lombardi family.
 Anchored Artifacts: A-1023.1, A-1021.1
-Related Nodes: N-1, N-3, N-31, N-1014
+Related Nodes: N-1, N-3, N-31, N-1025
 Confidence: high
 Investigative Direction: Verify genealogical records to confirm or refute Lombardi lineage claim.
 
@@ -424,7 +424,7 @@ Claim Timestamp: 41:38
 Claim: Documented evidence shows Erika attended St. Ursula Villa for kindergarten in 1994-1995, but no yearbook confirmation exists for 2000-2002.
 Transcript Snippet: and...uh, before we get there, I can tell you,...we can confirm now that Erika did attend...St. Ursula Villa up in Cincinnati, Ohio,...but she attended what we can document...for kid kindergarten. So, that was...before she went down to Arizona. We have...that photo for you guys here. This would
 Anchored Artifacts: A-1022.2
-Related Nodes: N-2, N-54, N-1055
+Related Nodes: N-2, N-1024, N-1028
 Confidence: high
 Investigative Direction: Obtain yearbooks and school records to verify attendance.
 
@@ -438,7 +438,7 @@ Claim Timestamp: 42:33
 Claim: Despite Erika's claims of playing basketball at Regis University for two years, team members confirm she did not play in the 2008 season.
 Transcript Snippet: basketball players at St. Regis that we...were correct. She did not play in the...2008 2009 season despite in the future...she's going to claim multiple times that...she played at Regis for two years. She...played basketball for two years. Well, I...can show you this photo that we also...gathered of Erika with her Regis
 Anchored Artifacts: A-1022.3
-Related Nodes: N-2, N-1048, N-1056
+Related Nodes: N-2, N-1019, N-1029
 Confidence: high
 Investigative Direction: Obtain official university athletic records to verify team roster.
 
@@ -452,7 +452,7 @@ Claim Timestamp: 44:50
 Claim: Erika claims she studied Bible for 6-8 months in 2008 after Miss Arizona, but later states she first read the Bible cover to cover in 2016.
 Transcript Snippet: coffee and I just...>> I didn't see any of my friends. I didn't...do anything. I didn't I just was so...focused on on that....>> Okay, you hear it again. This time she...locked herself in her room. She's just...focused on the Bible. Self-taught. I I...mean, how much of the Bible could you
 Anchored Artifacts: A-1023.2, A-1023.3
-Related Nodes: N-2, N-1054
+Related Nodes: N-2, N-1027
 Confidence: high
 Investigative Direction: Verify timeline through independent sources and podcast recordings.
 

@@ -24,8 +24,8 @@ Nodes ranked by `claim_count × episode_count` — higher = more cross-episode i
 
 ### High-Pressure Single-Episode Nodes
 
-- **Marriage Date Inconsistencies** (N-1001) — 3 claims, pressure: high
-- **Morfar vs Farfar Language Error** (N-1005) — 1 claims, pressure: high
+- **Marriage Date Discrepancy** (N-1007) — 3 claims, pressure: high
+- **Morfar-Farfar Terminology Issue** (N-1009) — 1 claims, pressure: high
 
 ## 2. Rhetorical Fingerprints
 
@@ -51,8 +51,8 @@ Cross-episode pressure for nodes with multi-episode presence or high pressure.
 |------|------|--------------|----------------------|
 | **Date of Birth Discrepancy** (N-1000) | investigation_target | HIGH | Ep1=H, Ep2=L, Ep4=L |
 | **Erika Kirk** (N-2) | person | HIGH | Ep1=H, Ep2=L, Ep3=L, Ep4=L, Ep5=L, Ep6=L, Ep7=L |
-| **Marriage Date Inconsistencies** (N-1001) | investigation_target | HIGH | Ep1=H |
-| **Morfar vs Farfar Language Error** (N-1005) | investigation_target | HIGH | Ep1=H |
+| **Marriage Date Discrepancy** (N-1007) | investigation_target | HIGH | Ep1=H |
+| **Morfar-Farfar Terminology Issue** (N-1009) | investigation_target | HIGH | Ep1=H |
 | **Jack Solomon** (N-26) | person | MEDIUM | Ep1=M, Ep4=L |
 | **Kent Frantzve** (N-4) | person | MEDIUM | Ep1=M, Ep2=L, Ep4=L |
 | **Lori Frantzve** (N-3) | person | MEDIUM | Ep1=M, Ep2=L, Ep3=L, Ep5=L, Ep6=L |

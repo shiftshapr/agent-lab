@@ -12,8 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1043, A-1044, A-1045, A-1046, A-1047, A-1048, A-1049, A-1050, A-1051
   - Claim Range: C-1075-C-1085
-  - New Nodes Introduced: N-43, N-44, N-45, N-1075, N-1076
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14, N-32, N-40, N-1000, N-1030, N-1072
+  - New Nodes Introduced: N-43, N-44, N-45, N-1049, N-1050
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14, N-32, N-40, N-1000, N-1001, N-1047
 
 ## 2. Executive Summary
 
@@ -102,7 +102,7 @@ Confidence: high
 **A-1046.1** Article: Governor Jan Brewer appoints Tyler Bowyer to Board of Regents
 Event Timestamp: 2010
 Video Timestamp: 26:44–27:30
-*Related: C-1080, N-14, N-1072*
+*Related: C-1080, N-14, N-1047*
 Transcript Snippet: Brewer abnormally just picked Tyler into...the position. It's not it's not the...normal process. Um usually there are...votes but they just went okay you and...here's an article a relic which shows us...that that is true. It says, "Governor...appoints um the new student regent." And...within the article, it tells us that
 Confidence: high
 
@@ -113,7 +113,7 @@ Confidence: high
 **A-1047.1** ASU catalog evidence: No International Relations degree in 2012
 Event Timestamp: 2012
 Video Timestamp: 27:33–28:53
-*Related: C-1081, N-2, N-1072*
+*Related: C-1081, N-2, N-1047*
 Transcript Snippet: and like I said, a lot happening at...Arizona State University this year....Relatedly, we had received some emails...suggesting that Erika's claim that she...graduated um as a double bachelor of...science in both international relations...from Arizona State University...is which is what is mentioned on her
 Confidence: high
 
@@ -124,7 +124,7 @@ Confidence: high
 **A-1048.1** Epstein donations to Arizona State University
 Event Timestamp: December 2010
 Video Timestamp: 29:20–29:42
-*Related: C-1082, N-32, N-1072*
+*Related: C-1082, N-32, N-1047*
 Transcript Snippet: be a reason for it. There could have...been some strange carve out just for...Erika. I'm sure there was. Uh but I find...all of this happening at the same time...to be very strange. Now, we are...obviously discussing the relationship...between Erika and Tyler. Both of them...being at the Arizona State University.
 Confidence: medium
 
@@ -153,7 +153,7 @@ Confidence: high
 **A-1050.1** Video: Erika and JT Massie Amazing Race audition
 Event Timestamp: 2014
 Video Timestamp: 45:19–48:00
-*Related: C-1084, N-2, N-1075*
+*Related: C-1084, N-2, N-1049*
 Transcript Snippet: >> Hi....>> Hi....>> Good morning, America....>> I've lived in China. Um, I've lived in...Chongqing. I've been to Romania. I've...been to Croatia. Um, lived in Puerto...Rico for a little bit. really handsome....>> You look gorgeous. Are you fixing my I
 Confidence: high
 
@@ -247,7 +247,7 @@ Fox News host who organized fundraiser for Erika
 
 ---
 
-**N-1072** Arizona State University
+**N-1047** Arizona State University
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -277,7 +277,7 @@ Associate who provided information about Erika's China claims
 
 ---
 
-**N-1075** Venice, California
+**N-1049** Venice, California
 
 Node Type: Place
 Place Kind: city
@@ -297,7 +297,7 @@ Discrepancy in Erika's date of birth across documents
 
 ---
 
-**N-1030** Turning Point USA
+**N-1001** Turning Point USA
 
 Node Type: Organization
 Organization Kind: political_organization
@@ -307,7 +307,7 @@ Conservative advocacy organization founded by Charlie Kirk
 
 ---
 
-**N-1076** Proclaim
+**N-1050** Proclaim
 
 Node Type: Organization
 Organization Kind: business
@@ -356,7 +356,7 @@ Claim Timestamp: 05:21
 Claim: The Proclaim business was started weeks after meeting Charlie, not before; domain registered Oct 2018, LLC filed Jan 2019, website only went live Jan 2021.
 Transcript Snippet: t-shirts. But what I find to be...interesting now in retrospect is that...actually that streetwear. So she...goes on her or first official date with...Charlie in September of 2018. She...actually picked up the domain name to...that streetwear which is...proclaim.com
 Anchored Artifacts: A-1043.2, A-1043.3, A-1043.4, A-1043.5
-Related Nodes: N-2, N-3, N-1076
+Related Nodes: N-2, N-3, N-1050
 Contradicts: C-1075
 Confidence: high
 Investigative Direction: Compare domain registration, LLC filing, and website launch dates against claim of pre-existing sustainable business.
@@ -386,7 +386,7 @@ Claim Timestamp: 16:52
 Claim: Tyler Bowyer announces new Las Vegas office opening for Turning Point Action.
 Transcript Snippet: they're opening a new office, of course,...in Las Vegas before he hands over the...call to Erika, who is then going to edit...herself to really make it about the...children. Take a listen....>> Last thing I'll say is this. At Turning...Point Action, we have a ton of jobs...posting in Arizona, Nevada, and New
 Anchored Artifacts: A-1045.1, A-1045.2
-Related Nodes: N-2, N-14, N-1030
+Related Nodes: N-2, N-14, N-1001
 Confidence: high
 Investigative Direction: Verify corporate expansion and office opening.
 
@@ -400,7 +400,7 @@ Claim Timestamp: 26:44
 Claim: Tyler Bowyer was appointed to Arizona Board of Regents by Governor Jan Brewer outside normal process, weeks after returning from Romania.
 Transcript Snippet: regents um as their student...representative at Arizona State...University. And then right after Erika...enrolls into the university and actually...it's even more bizarre how he came about...that position somebody emailed us and...said no um he didn't go the usual route....The governor of Arizona at the time Jan
 Anchored Artifacts: A-1046.1
-Related Nodes: N-14, N-1072
+Related Nodes: N-14, N-1047
 Confidence: high
 Investigative Direction: Verify appointment process and timeline relative to Romania trip.
 
@@ -414,7 +414,7 @@ Claim Timestamp: 27:33
 Claim: Erika claims a Bachelor of Science in International Relations from ASU, but this degree program did not exist in 2012.
 Transcript Snippet: regions are typically selected from...recommendations made by a selection...committee at the university, Bowyer applied...directly through the governor's office....Okay, so it was atypical...and like I said, a lot happening at...Arizona State University this year....Relatedly, we had received some emails
 Anchored Artifacts: A-1047.1
-Related Nodes: N-2, N-1072
+Related Nodes: N-2, N-1047
 Confidence: high
 Investigative Direction: Obtain official ASU catalog from 2012 to verify degree availability.
 
@@ -428,7 +428,7 @@ Claim Timestamp: 29:20
 Claim: Jeffrey Epstein donated $250,000 personally and over $2M through associates to ASU starting December 2010.
 Transcript Snippet: am listening to uh over these past few...months, we've all heard her more uh than...we've ever heard from her before, is...just objectively not a genius. So, I'm...not sure what that's about. There could...be a reason for it. There could have...been some strange carve out just for...Erika. I'm sure there was. Uh but I find
 Anchored Artifacts: A-1048.1
-Related Nodes: N-32, N-1072
+Related Nodes: N-32, N-1047
 Confidence: medium
 Investigative Direction: Verify donation records and timing relative to other events.
 
@@ -456,7 +456,7 @@ Claim Timestamp: 45:19
 Claim: Erika auditioned for Amazing Race with boyfriend JT Massie in 2014 while living in Venice, California.
 Transcript Snippet: try out for the Amazing Race and I am...going to let you listen to that. Erika...is living and working in California. Um,...and he is living in Tulsa, Oklahoma. And...here is a little bit of their tape....>> Hi....>> Hi....>> Good morning, America.
 Anchored Artifacts: A-1050.1
-Related Nodes: N-2, N-44, N-1075
+Related Nodes: N-2, N-44, N-1049
 Confidence: high
 Investigative Direction: Verify audition tape and timeline.
 
