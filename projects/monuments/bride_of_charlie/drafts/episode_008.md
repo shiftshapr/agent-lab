@@ -4,16 +4,16 @@
 
 - **Episode**: 8
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:01–49:58
+- **Video Timestamp Range**: 00:01:00–00:49:58
 - **Extraction Timestamp (UTC)**: 2026-09-04T23:10:41Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 9651d49153330729c4619107b09ab183520b1dc47ffd64de491b0defd0858ffb
+- **Transcript SHA-256**: 50556b0953c4ed070732b46a7bc4466451e58920c429bce53867c2d317c65194
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1052, A-1053, A-1054, A-1055, A-1056, A-1057, A-1058, A-1059
   - Claim Range: C-1086-C-1098
   - New Nodes Introduced: N-64, N-66, N-67, N-68, N-69, N-70, N-71, N-72, N-1077, N-1078, N-1079, N-1080, N-1081, N-1082, N-1083, N-1084, N-1085
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-11, N-13, N-26, N-36, N-1030
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-11, N-13, N-26, N-32, N-36, N-1030
 
 ## 2. Executive Summary
 

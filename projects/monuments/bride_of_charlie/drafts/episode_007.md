@@ -13,7 +13,7 @@
   - Artifact Families Introduced: A-1043, A-1044, A-1045, A-1046, A-1047, A-1048, A-1049, A-1050, A-1051
   - Claim Range: C-1075-C-1085
   - New Nodes Introduced: N-30, N-32, N-62, N-1075, N-1076
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-11, N-13, N-21, N-1000, N-1030, N-1072
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-11, N-13, N-21, N-27, N-1000, N-1030, N-1072
 
 ## 2. Executive Summary
 

@@ -590,7 +590,7 @@ Confidence: high
 Video Timestamp: 22:44
 Speaker: N-11
 Quote: Yeah. Erika, you know, there is just so much synergy building, right?
-Context: Host again noting apparent coincidences between Kolvets, Frantzves, and Boyers in Romania
+Context: Host again noting apparent coincidences between Kolvets, Frantzves, and Bowyers in Romania
 Tags: sarcasm, pattern_observation
 Confidence: high
 
