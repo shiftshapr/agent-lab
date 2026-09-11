@@ -573,7 +573,7 @@ Investigative Direction: Obtain corporate records for Feed Me Incorporated and S
 
 Claim Timestamp: 32:21-41:11
 Claim: Matt Walsh defended Erika against criticism while simultaneously tweeting that Kouri Richins (convicted of killing husband) should be hanged, despite the case relying on circumstantial evidence similar to points raised about Erika.
-Transcript Snippet: Financing today at 800-795-1210....Again, that's 800-795-1210...or visit americanfinancing.net/owens....Again, that's...americanfinancing.net/owens....Okay, so I absolutely have to comment on...Matt Walsh for a tweet that he put out...yesterday. I just because I was like
+Transcript Snippet: Okay, so I absolutely have to comment on...Matt Walsh for a tweet that he put out...yesterday. I just because I was like...Mhm, question mark here. So, he has very...much been on the side of how dare you,...how dare you talk to a grieving widow,...kind of making claims that various data...points being introduced like, oh, Erika...lied pathologically....regarding Kouri Richins,...a New York Post article that said,..."Grief author Kouri Richins found guilty...of fatally poisoning her husband for his...$4 million estate." And Matt Walsh...comments and writes, "There's no good...moral reason why she should not simply...be taken outside the morning after her...conviction and hanged....Kouri Richens, the woman that you...believe should be hanged for poisoning...her husband on the basis of...circumstantial evidence, would probably...today be considered a brave single...mother trying to clean up the mess left...behind by her husband's untimely death.
 Anchored Artifacts: A-1056.1, A-1056.2, A-1056.3
 Related Nodes: N-71, N-72
 Confidence: high
