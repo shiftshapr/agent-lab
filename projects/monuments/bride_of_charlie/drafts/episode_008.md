@@ -596,7 +596,7 @@ Investigative Direction: Analyze similarities and differences between the two ca
 
 ## 6. Meme Register
 
-**M-1** (meme) Catholic/Evangelical/Jewish identity flip
+**M-7** (meme) Catholic/Evangelical/Jewish identity flip
 
 ### Occurrence 1
 
@@ -609,7 +609,7 @@ Confidence: high
 
 ---
 
-**M-2** (meme) Catch all the religious scandals
+**M-8** (meme) Catch all the religious scandals
 
 ### Occurrence 1
 
@@ -623,7 +623,7 @@ Uncertainty: Part of rhetorical flair, not literal claim
 
 ---
 
-**M-3** (meme) Maricopa County corruption
+**M-9** (meme) Maricopa County corruption
 
 ### Occurrence 1
 
