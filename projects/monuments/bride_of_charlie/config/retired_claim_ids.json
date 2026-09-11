@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "updated": "2026-09-11T21:36:14Z",
+  "description": "Tombstone ledger for legacy C-* slots after intro-order dense renumber (C-1000+).",
+  "retired": {
+    "C-1004": {
+      "survives_as": "C-1003",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1004."
+    },
+    "C-1005": {
+      "survives_as": "C-1004",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1005."
+    },
+    "C-1003": {
+      "survives_as": "C-1005",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1003."
+    },
+    "C-1007": {
+      "survives_as": "C-1006",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1007."
+    },
+    "C-1006": {
+      "survives_as": "C-1007",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1006."
+    },
+    "C-1099": {
+      "survives_as": "C-1008",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1099."
+    },
+    "C-1100": {
+      "survives_as": "C-1009",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1100."
+    },
+    "C-1014": {
+      "survives_as": "C-1010",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1014."
+    },
+    "C-1008": {
+      "survives_as": "C-1011",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1008."
+    },
+    "C-1009": {
+      "survives_as": "C-1012",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1009."
+    },
+    "C-1010": {
+      "survives_as": "C-1013",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1010."
+    },
+    "C-1012": {
+      "survives_as": "C-1014",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1012."
+    },
+    "C-1011": {
+      "survives_as": "C-1015",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1011."
+    },
+    "C-1015": {
+      "survives_as": "C-1016",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1015."
+    },
+    "C-1013": {
+      "survives_as": "C-1017",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1013."
+    },
+    "C-1016": {
+      "survives_as": "C-1018",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1016."
+    },
+    "C-1021": {
+      "survives_as": "C-1019",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1021."
+    },
+    "C-1018": {
+      "survives_as": "C-1020",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1018."
+    },
+    "C-1017": {
+      "survives_as": "C-1021",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1017."
+    },
+    "C-1020": {
+      "survives_as": "C-1022",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1020."
+    },
+    "C-1019": {
+      "survives_as": "C-1023",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1019."
+    },
+    "C-1022": {
+      "survives_as": "C-1024",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1022."
+    },
+    "C-1023": {
+      "survives_as": "C-1025",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1023."
+    },
+    "C-1024": {
+      "survives_as": "C-1027",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1024."
+    },
+    "C-1025": {
+      "survives_as": "C-1028",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1025."
+    },
+    "C-1030": {
+      "survives_as": "C-1029",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1030."
+    },
+    "C-1028": {
+      "survives_as": "C-1030",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1028."
+    },
+    "C-1027": {
+      "survives_as": "C-1031",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1027."
+    },
+    "C-1029": {
+      "survives_as": "C-1032",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1029."
+    },
+    "C-1031": {
+      "survives_as": "C-1033",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1031."
+    },
+    "C-1032": {
+      "survives_as": "C-1034",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1032."
+    },
+    "C-1033": {
+      "survives_as": "C-1035",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1033."
+    },
+    "C-1101": {
+      "survives_as": "C-1036",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1101."
+    },
+    "C-1102": {
+      "survives_as": "C-1037",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1102."
+    },
+    "C-1056": {
+      "survives_as": "C-1038",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1056."
+    },
+    "C-1034": {
+      "survives_as": "C-1039",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1034."
+    },
+    "C-1035": {
+      "survives_as": "C-1040",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1035."
+    },
+    "C-1057": {
+      "survives_as": "C-1041",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1057."
+    },
+    "C-1054": {
+      "survives_as": "C-1042",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1054."
+    },
+    "C-1036": {
+      "survives_as": "C-1043",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1036."
+    },
+    "C-1059": {
+      "survives_as": "C-1044",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1059."
+    },
+    "C-1039": {
+      "survives_as": "C-1045",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1039."
+    },
+    "C-1040": {
+      "survives_as": "C-1046",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1040."
+    },
+    "C-1037": {
+      "survives_as": "C-1047",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1037."
+    },
+    "C-1041": {
+      "survives_as": "C-1048",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1041."
+    },
+    "C-1042": {
+      "survives_as": "C-1049",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1042."
+    },
+    "C-1043": {
+      "survives_as": "C-1050",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1043."
+    },
+    "C-1044": {
+      "survives_as": "C-1051",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1044."
+    },
+    "C-1045": {
+      "survives_as": "C-1052",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1045."
+    },
+    "C-1047": {
+      "survives_as": "C-1053",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1047."
+    },
+    "C-1038": {
+      "survives_as": "C-1054",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1038."
+    },
+    "C-1058": {
+      "survives_as": "C-1055",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1058."
+    },
+    "C-1046": {
+      "survives_as": "C-1056",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1046."
+    },
+    "C-1048": {
+      "survives_as": "C-1057",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1048."
+    },
+    "C-1049": {
+      "survives_as": "C-1058",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1049."
+    },
+    "C-1053": {
+      "survives_as": "C-1059",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1053."
+    },
+    "C-1052": {
+      "survives_as": "C-1060",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1052."
+    },
+    "C-1050": {
+      "survives_as": "C-1061",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1050."
+    },
+    "C-1051": {
+      "survives_as": "C-1062",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1051."
+    },
+    "C-1055": {
+      "survives_as": "C-1063",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1055."
+    },
+    "C-1103": {
+      "survives_as": "C-1064",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1103."
+    },
+    "C-1104": {
+      "survives_as": "C-1065",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1104."
+    },
+    "C-1060": {
+      "survives_as": "C-1066",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1060."
+    },
+    "C-1061": {
+      "survives_as": "C-1067",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1061."
+    },
+    "C-1062": {
+      "survives_as": "C-1068",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1062."
+    },
+    "C-1063": {
+      "survives_as": "C-1069",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1063."
+    },
+    "C-1064": {
+      "survives_as": "C-1070",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1064."
+    },
+    "C-1065": {
+      "survives_as": "C-1071",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1065."
+    },
+    "C-1066": {
+      "survives_as": "C-1072",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1066."
+    },
+    "C-1067": {
+      "survives_as": "C-1073",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1067."
+    },
+    "C-1068": {
+      "survives_as": "C-1074",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1068."
+    },
+    "C-1069": {
+      "survives_as": "C-1075",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1069."
+    },
+    "C-1070": {
+      "survives_as": "C-1076",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1070."
+    },
+    "C-1071": {
+      "survives_as": "C-1077",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1071."
+    },
+    "C-1074": {
+      "survives_as": "C-1078",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1074."
+    },
+    "C-1072": {
+      "survives_as": "C-1079",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1072."
+    },
+    "C-1073": {
+      "survives_as": "C-1080",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1073."
+    },
+    "C-1075": {
+      "survives_as": "C-1081",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1075."
+    },
+    "C-1077": {
+      "survives_as": "C-1082",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1077."
+    },
+    "C-1076": {
+      "survives_as": "C-1083",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1076."
+    },
+    "C-1078": {
+      "survives_as": "C-1084",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1078."
+    },
+    "C-1079": {
+      "survives_as": "C-1085",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1079."
+    },
+    "C-1080": {
+      "survives_as": "C-1086",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1080."
+    },
+    "C-1081": {
+      "survives_as": "C-1087",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1081."
+    },
+    "C-1082": {
+      "survives_as": "C-1088",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1082."
+    },
+    "C-1083": {
+      "survives_as": "C-1089",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1083."
+    },
+    "C-1084": {
+      "survives_as": "C-1090",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1084."
+    },
+    "C-1085": {
+      "survives_as": "C-1091",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1085."
+    },
+    "C-1098": {
+      "survives_as": "C-1092",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1098."
+    },
+    "C-1086": {
+      "survives_as": "C-1093",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1086."
+    },
+    "C-1087": {
+      "survives_as": "C-1094",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1087."
+    },
+    "C-1088": {
+      "survives_as": "C-1095",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1088."
+    },
+    "C-1090": {
+      "survives_as": "C-1096",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1090."
+    },
+    "C-1092": {
+      "survives_as": "C-1097",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1092."
+    },
+    "C-1091": {
+      "survives_as": "C-1098",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1091."
+    },
+    "C-1089": {
+      "survives_as": "C-1099",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1089."
+    },
+    "C-1093": {
+      "survives_as": "C-1100",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1093."
+    },
+    "C-1094": {
+      "survives_as": "C-1101",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1094."
+    },
+    "C-1095": {
+      "survives_as": "C-1102",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1095."
+    },
+    "C-1096": {
+      "survives_as": "C-1103",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1096."
+    },
+    "C-1097": {
+      "survives_as": "C-1104",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; was C-1097."
+    }
+  }
+}

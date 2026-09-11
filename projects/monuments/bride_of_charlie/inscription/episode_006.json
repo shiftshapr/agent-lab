@@ -13,21 +13,21 @@
   "artifacts": [
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1029",
-      "family_ref": "A-1029",
+      "@id": "A-1035",
+      "family_ref": "A-1035",
       "bundle_name": "Email Communication Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1029.1",
-          "ref": "A-1029.1",
+          "@id": "A-1035.1",
+          "ref": "A-1035.1",
           "description": "Email sent to Erika on February 24th asking about Romania visits",
           "event_timestamp": "February 24",
           "source_timestamp": "2025-02-24",
           "video_timestamp": "00:19–00:30",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1060"
+            "C-1066"
           ],
           "related_nodes": [
             "N-2"
@@ -42,21 +42,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1030",
-      "family_ref": "A-1030",
+      "@id": "A-1036",
+      "family_ref": "A-1036",
       "bundle_name": "Middle School Verification Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1030.1",
-          "ref": "A-1030.1",
+          "@id": "A-1036.1",
+          "ref": "A-1036.1",
           "description": "Tweet from Cakopa Middle School referring to Erika Frantzve as alumni",
           "event_timestamp": "2000-2003",
           "source_timestamp": "2025",
           "video_timestamp": "01:44–01:51",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1061"
+            "C-1067"
           ],
           "related_nodes": [
             "N-2"
@@ -72,21 +72,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1031",
-      "family_ref": "A-1031",
+      "@id": "A-1037",
+      "family_ref": "A-1037",
       "bundle_name": "Romania Historical Footage Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1031.1",
-          "ref": "A-1031.1",
+          "@id": "A-1037.1",
+          "ref": "A-1037.1",
           "description": "Historical footage of Nicolae and Elena Ceausescu trial and execution",
           "event_timestamp": "1989-12-25",
           "source_timestamp": "1989",
           "video_timestamp": "03:44–05:03",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1062"
+            "C-1068"
           ],
           "related_nodes": [
             "N-1020"
@@ -101,21 +101,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1032",
-      "family_ref": "A-1032",
+      "@id": "A-1038",
+      "family_ref": "A-1038",
       "bundle_name": "2011 Timeline Article Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1032.1",
-          "ref": "A-1032.1",
+          "@id": "A-1038.1",
+          "ref": "A-1038.1",
           "description": "Article about Nevada students going to Romania in 2011",
           "event_timestamp": "2011-05-04",
           "source_timestamp": "2011-05-04",
           "video_timestamp": "13:49–14:16",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1063"
+            "C-1069"
           ],
           "related_nodes": [
             "N-13",
@@ -131,21 +131,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1033",
-      "family_ref": "A-1033",
+      "@id": "A-1041",
+      "family_ref": "A-1041",
       "bundle_name": "Black Sea Rotational Force Article Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1033.1",
-          "ref": "A-1033.1",
+          "@id": "A-1041.1",
+          "ref": "A-1041.1",
           "description": "Article about Black Sea Rotational Force 11 Marines from Reno",
           "event_timestamp": "2011-06-12",
           "source_timestamp": "2011",
           "video_timestamp": "12:24–12:35",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1064"
+            "C-1070"
           ],
           "related_nodes": [
             "N-13",
@@ -161,21 +161,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1034",
-      "family_ref": "A-1034",
+      "@id": "A-1042",
+      "family_ref": "A-1042",
       "bundle_name": "Podcast Interview Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1034.1",
-          "ref": "A-1034.1",
+          "@id": "A-1042.1",
+          "ref": "A-1042.1",
           "description": "Erika's 2020 podcast reflecting on Romania time in 2012-2013",
           "event_timestamp": "2012-2013",
           "source_timestamp": "2020",
           "video_timestamp": "20:50–21:35",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1065"
+            "C-1071"
           ],
           "related_nodes": [
             "N-2",
@@ -192,21 +192,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1035",
-      "family_ref": "A-1035",
+      "@id": "A-1043",
+      "family_ref": "A-1043",
       "bundle_name": "Erika Romania Trip Interview Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1035.1",
-          "ref": "A-1035.1",
+          "@id": "A-1043.1",
+          "ref": "A-1043.1",
           "description": "Erika interview about visiting Romania with cousin Dennis Frantzve",
           "event_timestamp": "2013",
           "source_timestamp": "2020",
           "video_timestamp": "21:50–22:20",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1066"
+            "C-1072"
           ],
           "related_nodes": [
             "N-2",
@@ -223,21 +223,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1036",
-      "family_ref": "A-1036",
+      "@id": "A-1044",
+      "family_ref": "A-1044",
       "bundle_name": "Arizona Board of Regents Confirmation Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1036.1",
-          "ref": "A-1036.1",
+          "@id": "A-1044.1",
+          "ref": "A-1044.1",
           "description": "Arizona Senate confirmation of Tyler Bowyer as student regent",
           "event_timestamp": "2011-04",
           "source_timestamp": "2011",
           "video_timestamp": "15:14–15:40",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1067"
+            "C-1073"
           ],
           "related_nodes": [
             "N-13",
@@ -253,21 +253,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1037",
-      "family_ref": "A-1037",
+      "@id": "A-1045",
+      "family_ref": "A-1045",
       "bundle_name": "Erika ASU Enrollment Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1037.1",
-          "ref": "A-1037.1",
+          "@id": "A-1045.1",
+          "ref": "A-1045.1",
           "description": "Erika enrolling at Arizona State University for final year",
           "event_timestamp": "2011",
           "source_timestamp": "2011",
           "video_timestamp": "15:58–16:08",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1068"
+            "C-1074"
           ],
           "related_nodes": [
             "N-2",
@@ -283,21 +283,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1038",
-      "family_ref": "A-1038",
+      "@id": "A-1046",
+      "family_ref": "A-1046",
       "bundle_name": "Miss Arizona Victory Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1038.1",
-          "ref": "A-1038.1",
+          "@id": "A-1046.1",
+          "ref": "A-1046.1",
           "description": "Erika winning Miss Arizona competition in November 2011",
           "event_timestamp": "2011-11",
           "source_timestamp": "2011",
           "video_timestamp": "24:35–24:48",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1069"
+            "C-1075"
           ],
           "related_nodes": [
             "N-2"
@@ -312,21 +312,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1039",
-      "family_ref": "A-1039",
+      "@id": "A-1047",
+      "family_ref": "A-1047",
       "bundle_name": "Everyday Heroes Video Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1039.1",
-          "ref": "A-1039.1",
+          "@id": "A-1047.1",
+          "ref": "A-1047.1",
           "description": "Video of Erika presenting Johnny's Locker program in 2012",
           "event_timestamp": "2012-02",
           "source_timestamp": "2012",
           "video_timestamp": "26:00–27:20",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1070"
+            "C-1076"
           ],
           "related_nodes": [
             "N-2"
@@ -341,21 +341,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1040",
-      "family_ref": "A-1040",
+      "@id": "A-1048",
+      "family_ref": "A-1048",
       "bundle_name": "Kirkwood Shooting News Clip Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1040.1",
-          "ref": "A-1040.1",
+          "@id": "A-1048.1",
+          "ref": "A-1048.1",
           "description": "News clip of Kirkwood shooting with Justin Strife appearance",
           "event_timestamp": "2008-02-07",
           "source_timestamp": "2008",
           "video_timestamp": "42:57–44:45",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1071"
+            "C-1077"
           ],
           "related_nodes": [
             "N-27"
@@ -378,18 +378,18 @@
       "type": "person",
       "description": "Host of Bride of Charlie investigation series",
       "related_artifacts": [
-        "A-1029.1",
-        "A-1030.1",
-        "A-1031.1",
-        "A-1032.1",
-        "A-1033.1",
-        "A-1034.1",
         "A-1035.1",
         "A-1036.1",
         "A-1037.1",
         "A-1038.1",
-        "A-1039.1",
-        "A-1040.1"
+        "A-1041.1",
+        "A-1042.1",
+        "A-1043.1",
+        "A-1044.1",
+        "A-1045.1",
+        "A-1046.1",
+        "A-1047.1",
+        "A-1048.1"
       ],
       "related_claims": [],
       "tags": [
@@ -405,24 +405,24 @@
       "type": "person",
       "description": "Primary subject of investigation, widow of Charlie Kirk, former Miss Arizona",
       "related_artifacts": [
-        "A-1029.1",
-        "A-1030.1",
-        "A-1034.1",
         "A-1035.1",
-        "A-1037.1",
-        "A-1038.1",
-        "A-1039.1"
+        "A-1036.1",
+        "A-1042.1",
+        "A-1043.1",
+        "A-1045.1",
+        "A-1046.1",
+        "A-1047.1"
       ],
       "related_claims": [
-        "C-1060",
-        "C-1061",
-        "C-1065",
         "C-1066",
-        "C-1068",
-        "C-1069",
-        "C-1070",
-        "C-1073",
-        "C-1074"
+        "C-1067",
+        "C-1071",
+        "C-1072",
+        "C-1074",
+        "C-1075",
+        "C-1076",
+        "C-1080",
+        "C-1078"
       ],
       "tags": [
         "subject",
@@ -438,7 +438,7 @@
       "description": "Assassinated founder of Turning Point USA",
       "related_artifacts": [],
       "related_claims": [
-        "C-1075"
+        "C-1081"
       ],
       "tags": [
         "key_figure",
@@ -453,18 +453,18 @@
       "type": "person",
       "description": "ASU student elected to Arizona Board of Regents, connected to Romania",
       "related_artifacts": [
-        "A-1032.1",
-        "A-1033.1",
-        "A-1036.1",
-        "A-1037.1"
+        "A-1038.1",
+        "A-1041.1",
+        "A-1044.1",
+        "A-1045.1"
       ],
       "related_claims": [
-        "C-1063",
-        "C-1064",
-        "C-1067",
-        "C-1068",
+        "C-1069",
+        "C-1070",
         "C-1073",
-        "C-1076"
+        "C-1074",
+        "C-1080",
+        "C-1083"
       ],
       "tags": [
         "key_figure"
@@ -478,11 +478,11 @@
       "type": "person",
       "description": "Erika's cousin, retired Marine lieutenant colonel, served in Romania",
       "related_artifacts": [
-        "A-1034.1",
-        "A-1035.1"
+        "A-1042.1",
+        "A-1043.1"
       ],
       "related_claims": [
-        "C-1066"
+        "C-1072"
       ],
       "tags": [
         "military",
@@ -498,7 +498,7 @@
       "description": "Marine Colonel in Romania, accused of running brothel and trafficking children",
       "related_artifacts": [],
       "related_claims": [
-        "C-1072"
+        "C-1079"
       ],
       "tags": [
         "military",
@@ -552,11 +552,11 @@
       "type": "person",
       "description": "COO of Turning Point USA, became COO 7 days before Charlie was assassinated",
       "related_artifacts": [
-        "A-1040.1"
+        "A-1048.1"
       ],
       "related_claims": [
-        "C-1071",
-        "C-1075"
+        "C-1077",
+        "C-1081"
       ],
       "tags": [
         "turning_point",
@@ -572,7 +572,7 @@
       "description": "Erika's mother, runs E3 Tech/Tech International",
       "related_artifacts": [],
       "related_claims": [
-        "C-1077"
+        "C-1082"
       ],
       "tags": [
         "family"
@@ -586,21 +586,21 @@
       "type": "investigation_target",
       "description": "Persistent pattern of multiple figures in story tied to Romania",
       "related_artifacts": [
-        "A-1031.1",
-        "A-1032.1",
-        "A-1033.1",
-        "A-1034.1",
-        "A-1035.1"
+        "A-1037.1",
+        "A-1038.1",
+        "A-1041.1",
+        "A-1042.1",
+        "A-1043.1"
       ],
       "related_claims": [
-        "C-1062",
-        "C-1063",
-        "C-1064",
-        "C-1065",
-        "C-1066",
-        "C-1060",
+        "C-1068",
+        "C-1069",
+        "C-1070",
+        "C-1071",
         "C-1072",
-        "C-1076"
+        "C-1066",
+        "C-1079",
+        "C-1083"
       ],
       "tags": [
         "discrepancy_target",
@@ -615,12 +615,12 @@
       "type": "investigation_target",
       "description": "Pattern of Black Sea rotational force and students coming from Reno, Nevada",
       "related_artifacts": [
-        "A-1032.1",
-        "A-1033.1"
+        "A-1038.1",
+        "A-1041.1"
       ],
       "related_claims": [
-        "C-1063",
-        "C-1064"
+        "C-1069",
+        "C-1070"
       ],
       "tags": [
         "discrepancy_target",
@@ -636,8 +636,8 @@
       "description": "Erika claims memory lapse about meeting Tyler Bowyer",
       "related_artifacts": [],
       "related_claims": [
-        "C-1073",
-        "C-1068"
+        "C-1080",
+        "C-1074"
       ],
       "tags": [
         "discrepancy_target"
@@ -652,7 +652,7 @@
       "description": "Unclear what Tech International/E3 Tech actually does",
       "related_artifacts": [],
       "related_claims": [
-        "C-1077"
+        "C-1082"
       ],
       "tags": [
         "discrepancy_target"
@@ -666,12 +666,12 @@
       "type": "investigation_target",
       "description": "Multiple Turning Point staff have proximity to mass shootings",
       "related_artifacts": [
-        "A-1040.1"
+        "A-1048.1"
       ],
       "related_claims": [
-        "C-1071",
-        "C-1075",
-        "C-1074"
+        "C-1077",
+        "C-1081",
+        "C-1078"
       ],
       "tags": [
         "discrepancy_target",
@@ -682,13 +682,13 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1060",
-      "ref": "C-1060",
+      "@id": "C-1066",
+      "ref": "C-1066",
       "label": "Erika Refused to Answer Romania Questions",
       "claim_timestamp": "00:19",
       "claim": "Email was sent to Erika on February 24th asking about Romania visits; response came from a lawyer claiming she was preparing for State of the Union",
       "anchored_artifacts": [
-        "A-1029.1"
+        "A-1035.1"
       ],
       "related_nodes": [
         "N-2",
@@ -703,13 +703,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1061",
-      "ref": "C-1061",
+      "@id": "C-1067",
+      "ref": "C-1067",
       "label": "Erika Attended Cakopa Middle School",
       "claim_timestamp": "01:19",
       "claim": "Erika attended Cakopa Middle School in Scottsdale from 2000-2003, confirmed by school tweet",
       "anchored_artifacts": [
-        "A-1030.1"
+        "A-1036.1"
       ],
       "related_nodes": [
         "N-2"
@@ -723,13 +723,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1062",
-      "ref": "C-1062",
+      "@id": "C-1068",
+      "ref": "C-1068",
       "label": "Romania Historical Context 1989",
       "claim_timestamp": "03:30",
       "claim": "Historical footage shows Ceausescu trial and execution on Christmas Day 1989",
       "anchored_artifacts": [
-        "A-1031.1"
+        "A-1037.1"
       ],
       "related_nodes": [
         "N-1020"
@@ -743,13 +743,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1063",
-      "ref": "C-1063",
+      "@id": "C-1069",
+      "ref": "C-1069",
       "label": "Nevada Students in Romania 2011",
       "claim_timestamp": "13:49",
       "claim": "Article shows Nevada students from Reno going to Romania in May 2011",
       "anchored_artifacts": [
-        "A-1032.1"
+        "A-1038.1"
       ],
       "related_nodes": [
         "N-13",
@@ -765,13 +765,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1064",
-      "ref": "C-1064",
+      "@id": "C-1070",
+      "ref": "C-1070",
       "label": "Black Sea Rotational Force from Reno",
       "claim_timestamp": "12:24",
       "claim": "Black Sea Rotational Force 11 Marines trained in Romania, majority from Reno Nevada",
       "anchored_artifacts": [
-        "A-1033.1"
+        "A-1041.1"
       ],
       "related_nodes": [
         "N-13",
@@ -787,13 +787,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1065",
-      "ref": "C-1065",
+      "@id": "C-1071",
+      "ref": "C-1071",
       "label": "Erika Discussed Romania Base in Podcast",
       "claim_timestamp": "20:50",
       "claim": "Erika reflected on Romania being halfway drop-off point for troops from Afghanistan in 2020 podcast",
       "anchored_artifacts": [
-        "A-1034.1"
+        "A-1042.1"
       ],
       "related_nodes": [
         "N-2",
@@ -808,13 +808,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1066",
-      "ref": "C-1066",
+      "@id": "C-1072",
+      "ref": "C-1072",
       "label": "Erika Visited Romania in 2013",
       "claim_timestamp": "21:50",
       "claim": "Erika visited Romania in 2013 with cousin Dennis Frantzve who was part of military",
       "anchored_artifacts": [
-        "A-1035.1"
+        "A-1043.1"
       ],
       "related_nodes": [
         "N-2",
@@ -830,13 +830,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1067",
-      "ref": "C-1067",
+      "@id": "C-1073",
+      "ref": "C-1073",
       "label": "Tyler Bowyer Elected to Arizona Board of Regents",
       "claim_timestamp": "15:14",
       "claim": "Tyler Bowyer was elected by Arizona Senate as student representative to Arizona Board of Regents in April 2011",
       "anchored_artifacts": [
-        "A-1036.1"
+        "A-1044.1"
       ],
       "related_nodes": [
         "N-13"
@@ -850,13 +850,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1068",
-      "ref": "C-1068",
+      "@id": "C-1074",
+      "ref": "C-1074",
       "label": "Erika Enrolled at ASU After Tyler Elected",
       "claim_timestamp": "15:58",
       "claim": "Erika enrolled at Arizona State University for her final year immediately after Tyler Bowyer was elected to Board of Regents",
       "anchored_artifacts": [
-        "A-1037.1"
+        "A-1045.1"
       ],
       "related_nodes": [
         "N-2",
@@ -874,13 +874,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1069",
-      "ref": "C-1069",
+      "@id": "C-1075",
+      "ref": "C-1075",
       "label": "Erika Won Miss Arizona in November 2011",
       "claim_timestamp": "24:35",
       "claim": "Erika won Miss Arizona competition in November 2011, serving as Miss Arizona for 2012",
       "anchored_artifacts": [
-        "A-1038.1"
+        "A-1046.1"
       ],
       "related_nodes": [
         "N-2"
@@ -894,13 +894,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1070",
-      "ref": "C-1070",
+      "@id": "C-1076",
+      "ref": "C-1076",
       "label": "Erika Started Johnny's Locker Program",
       "claim_timestamp": "26:00",
       "claim": "Erika launched Johnny's Locker program through Everyday Heroes in February 2012",
       "anchored_artifacts": [
-        "A-1039.1"
+        "A-1047.1"
       ],
       "related_nodes": [
         "N-2"
@@ -914,13 +914,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1071",
-      "ref": "C-1071",
+      "@id": "C-1077",
+      "ref": "C-1077",
       "label": "Justin Strife at Kirkwood Shooting",
       "claim_timestamp": "42:57",
       "claim": "Justin Strife, future Turning Point COO, appeared in news clip discussing 2008 Kirkwood shooting",
       "anchored_artifacts": [
-        "A-1040.1"
+        "A-1048.1"
       ],
       "related_nodes": [
         "N-27",
@@ -935,8 +935,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1072",
-      "ref": "C-1072",
+      "@id": "C-1079",
+      "ref": "C-1079",
       "label": "Colonel Otto Busher Accusation",
       "claim_timestamp": "30:52",
       "claim": "Colonel Otto Busher, who Erika thanked on her website, was accused of running a brothel trafficking children in Romania",
@@ -955,8 +955,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1073",
-      "ref": "C-1073",
+      "@id": "C-1080",
+      "ref": "C-1080",
       "label": "Erika Cannot Remember Meeting Tyler",
       "claim_timestamp": "33:00",
       "claim": "Erika claims memory lapse about how she met Tyler Bowyer despite multiple interactions",
@@ -976,8 +976,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1074",
-      "ref": "C-1074",
+      "@id": "C-1078",
+      "ref": "C-1078",
       "label": "Erika Had Friend at Aurora Theater Shooting",
       "claim_timestamp": "29:18",
       "claim": "Erika claimed one of her best friends was in the theater during Aurora Batman shooting",
@@ -995,8 +995,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1075",
-      "ref": "C-1075",
+      "@id": "C-1081",
+      "ref": "C-1081",
       "label": "Justin Strife Became COO Days Before Assassination",
       "claim_timestamp": "40:15",
       "claim": "Justin Strife became COO of Turning Point 7 days before Charlie Kirk was assassinated",
@@ -1015,8 +1015,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1076",
-      "ref": "C-1076",
+      "@id": "C-1083",
+      "ref": "C-1083",
       "label": "Tyler Bowyer Romania Connection",
       "claim_timestamp": "02:10",
       "claim": "Tyler Bowyer was in Romania in 2010 working with Parliament",
@@ -1035,8 +1035,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1077",
-      "ref": "C-1077",
+      "@id": "C-1082",
+      "ref": "C-1082",
       "label": "E3 Tech Purpose Unclear",
       "claim_timestamp": "10:12",
       "claim": "Lori Frantzve's company E3 Tech/Tech International purpose remains unclear despite bio",

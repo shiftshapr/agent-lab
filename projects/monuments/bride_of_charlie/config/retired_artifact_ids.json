@@ -1,0 +1,687 @@
+{
+  "version": 1,
+  "updated": "2026-09-11T21:36:14Z",
+  "description": "Tombstone ledger for legacy A-* family/sub-item slots after intro-order dense renumber (A-1000+).",
+  "retired": {
+    "A-1061": {
+      "survives_as": "A-1007",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1061."
+    },
+    "A-1062": {
+      "survives_as": "A-1008",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1062."
+    },
+    "A-1060": {
+      "survives_as": "A-1009",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1060."
+    },
+    "A-1007": {
+      "survives_as": "A-1010",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1007."
+    },
+    "A-1008": {
+      "survives_as": "A-1011",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1008."
+    },
+    "A-1009": {
+      "survives_as": "A-1012",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1009."
+    },
+    "A-1010": {
+      "survives_as": "A-1013",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1010."
+    },
+    "A-1011": {
+      "survives_as": "A-1014",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1011."
+    },
+    "A-1063": {
+      "survives_as": "A-1015",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1063."
+    },
+    "A-1012": {
+      "survives_as": "A-1016",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1012."
+    },
+    "A-1013": {
+      "survives_as": "A-1017",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1013."
+    },
+    "A-1014": {
+      "survives_as": "A-1018",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1014."
+    },
+    "A-1015": {
+      "survives_as": "A-1019",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1015."
+    },
+    "A-1016": {
+      "survives_as": "A-1020",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1016."
+    },
+    "A-1017": {
+      "survives_as": "A-1021",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1017."
+    },
+    "A-1018": {
+      "survives_as": "A-1022",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1018."
+    },
+    "A-1019": {
+      "survives_as": "A-1023",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1019."
+    },
+    "A-1020": {
+      "survives_as": "A-1024",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1020."
+    },
+    "A-1021": {
+      "survives_as": "A-1025",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1021."
+    },
+    "A-1022": {
+      "survives_as": "A-1026",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1022."
+    },
+    "A-1023": {
+      "survives_as": "A-1027",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1023."
+    },
+    "A-1065": {
+      "survives_as": "A-1028",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1065."
+    },
+    "A-1066": {
+      "survives_as": "A-1029",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1066."
+    },
+    "A-1024": {
+      "survives_as": "A-1030",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1024."
+    },
+    "A-1025": {
+      "survives_as": "A-1031",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1025."
+    },
+    "A-1026": {
+      "survives_as": "A-1032",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1026."
+    },
+    "A-1027": {
+      "survives_as": "A-1033",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1027."
+    },
+    "A-1028": {
+      "survives_as": "A-1034",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1028."
+    },
+    "A-1029": {
+      "survives_as": "A-1035",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1029."
+    },
+    "A-1030": {
+      "survives_as": "A-1036",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1030."
+    },
+    "A-1031": {
+      "survives_as": "A-1037",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1031."
+    },
+    "A-1032": {
+      "survives_as": "A-1038",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1032."
+    },
+    "A-1067": {
+      "survives_as": "A-1039",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1067."
+    },
+    "A-1068": {
+      "survives_as": "A-1040",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1068."
+    },
+    "A-1033": {
+      "survives_as": "A-1041",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1033."
+    },
+    "A-1034": {
+      "survives_as": "A-1042",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1034."
+    },
+    "A-1035": {
+      "survives_as": "A-1043",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1035."
+    },
+    "A-1036": {
+      "survives_as": "A-1044",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1036."
+    },
+    "A-1037": {
+      "survives_as": "A-1045",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1037."
+    },
+    "A-1038": {
+      "survives_as": "A-1046",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1038."
+    },
+    "A-1039": {
+      "survives_as": "A-1047",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1039."
+    },
+    "A-1040": {
+      "survives_as": "A-1048",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1040."
+    },
+    "A-1041": {
+      "survives_as": "A-1049",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1041."
+    },
+    "A-1042": {
+      "survives_as": "A-1050",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1042."
+    },
+    "A-1064": {
+      "survives_as": "A-1051",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1064."
+    },
+    "A-1069": {
+      "survives_as": "A-1052",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1069."
+    },
+    "A-1043": {
+      "survives_as": "A-1053",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1043."
+    },
+    "A-1044": {
+      "survives_as": "A-1054",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1044."
+    },
+    "A-1045": {
+      "survives_as": "A-1055",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1045."
+    },
+    "A-1046": {
+      "survives_as": "A-1056",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1046."
+    },
+    "A-1047": {
+      "survives_as": "A-1057",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1047."
+    },
+    "A-1048": {
+      "survives_as": "A-1058",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1048."
+    },
+    "A-1049": {
+      "survives_as": "A-1059",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1049."
+    },
+    "A-1050": {
+      "survives_as": "A-1060",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1050."
+    },
+    "A-1051": {
+      "survives_as": "A-1061",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1051."
+    },
+    "A-1052": {
+      "survives_as": "A-1062",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1052."
+    },
+    "A-1053": {
+      "survives_as": "A-1063",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1053."
+    },
+    "A-1054": {
+      "survives_as": "A-1064",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1054."
+    },
+    "A-1055": {
+      "survives_as": "A-1065",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1055."
+    },
+    "A-1056": {
+      "survives_as": "A-1066",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1056."
+    },
+    "A-1057": {
+      "survives_as": "A-1067",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1057."
+    },
+    "A-1058": {
+      "survives_as": "A-1068",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1058."
+    },
+    "A-1059": {
+      "survives_as": "A-1069",
+      "reason": "Intro-order dense renumber ep1\u2192ep8; artifact family was A-1059."
+    },
+    "A-1007.1": {
+      "survives_as": "A-1010.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1007.2": {
+      "survives_as": "A-1010.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1007.3": {
+      "survives_as": "A-1010.3",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1008.1": {
+      "survives_as": "A-1011.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1009.1": {
+      "survives_as": "A-1012.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1009.2": {
+      "survives_as": "A-1012.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1010.1": {
+      "survives_as": "A-1013.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1010.2": {
+      "survives_as": "A-1013.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1011.1": {
+      "survives_as": "A-1014.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1012.1": {
+      "survives_as": "A-1016.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1013.1": {
+      "survives_as": "A-1017.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1013.2": {
+      "survives_as": "A-1017.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1013.3": {
+      "survives_as": "A-1017.3",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1014.1": {
+      "survives_as": "A-1018.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1015.1": {
+      "survives_as": "A-1019.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1015.2": {
+      "survives_as": "A-1019.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1016.1": {
+      "survives_as": "A-1020.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1016.2": {
+      "survives_as": "A-1020.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1017.1": {
+      "survives_as": "A-1021.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1017.2": {
+      "survives_as": "A-1021.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1018.1": {
+      "survives_as": "A-1022.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1018.2": {
+      "survives_as": "A-1022.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1019.1": {
+      "survives_as": "A-1023.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1019.2": {
+      "survives_as": "A-1023.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1019.3": {
+      "survives_as": "A-1023.3",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1019.4": {
+      "survives_as": "A-1023.4",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1019.5": {
+      "survives_as": "A-1023.5",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1019.6": {
+      "survives_as": "A-1023.6",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1020.1": {
+      "survives_as": "A-1024.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1021.1": {
+      "survives_as": "A-1025.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1022.1": {
+      "survives_as": "A-1026.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1022.2": {
+      "survives_as": "A-1026.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1022.3": {
+      "survives_as": "A-1026.3",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1023.1": {
+      "survives_as": "A-1027.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1023.2": {
+      "survives_as": "A-1027.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1023.3": {
+      "survives_as": "A-1027.3",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1024.1": {
+      "survives_as": "A-1030.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1025.1": {
+      "survives_as": "A-1031.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1026.1": {
+      "survives_as": "A-1032.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1026.2": {
+      "survives_as": "A-1032.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1026.3": {
+      "survives_as": "A-1032.3",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1026.4": {
+      "survives_as": "A-1032.4",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1026.5": {
+      "survives_as": "A-1032.5",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1027.1": {
+      "survives_as": "A-1033.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1027.2": {
+      "survives_as": "A-1033.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1028.1": {
+      "survives_as": "A-1034.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1029.1": {
+      "survives_as": "A-1035.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1029.2": {
+      "survives_as": "A-1035.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1029.3": {
+      "survives_as": "A-1035.3",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1030.1": {
+      "survives_as": "A-1036.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1031.1": {
+      "survives_as": "A-1037.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1031.2": {
+      "survives_as": "A-1037.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1031.3": {
+      "survives_as": "A-1037.3",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1032.1": {
+      "survives_as": "A-1038.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1033.1": {
+      "survives_as": "A-1041.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1034.1": {
+      "survives_as": "A-1042.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1035.1": {
+      "survives_as": "A-1043.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1036.1": {
+      "survives_as": "A-1044.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1037.1": {
+      "survives_as": "A-1045.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1038.1": {
+      "survives_as": "A-1046.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1039.1": {
+      "survives_as": "A-1047.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1040.1": {
+      "survives_as": "A-1048.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1041.1": {
+      "survives_as": "A-1049.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1041.2": {
+      "survives_as": "A-1049.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1042.1": {
+      "survives_as": "A-1050.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1043.1": {
+      "survives_as": "A-1053.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1043.2": {
+      "survives_as": "A-1053.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1043.3": {
+      "survives_as": "A-1053.3",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1043.4": {
+      "survives_as": "A-1053.4",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1043.5": {
+      "survives_as": "A-1053.5",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1044.1": {
+      "survives_as": "A-1054.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1044.2": {
+      "survives_as": "A-1054.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1045.1": {
+      "survives_as": "A-1055.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1045.2": {
+      "survives_as": "A-1055.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1046.1": {
+      "survives_as": "A-1056.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1047.1": {
+      "survives_as": "A-1057.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1048.1": {
+      "survives_as": "A-1058.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1049.1": {
+      "survives_as": "A-1059.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1049.2": {
+      "survives_as": "A-1059.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1049.3": {
+      "survives_as": "A-1059.3",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1050.1": {
+      "survives_as": "A-1060.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1051.1": {
+      "survives_as": "A-1061.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1052.1": {
+      "survives_as": "A-1062.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1052.2": {
+      "survives_as": "A-1062.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1053.1": {
+      "survives_as": "A-1063.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1053.2": {
+      "survives_as": "A-1063.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1054.1": {
+      "survives_as": "A-1064.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1054.2": {
+      "survives_as": "A-1064.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1054.3": {
+      "survives_as": "A-1064.3",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1054.4": {
+      "survives_as": "A-1064.4",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1055.1": {
+      "survives_as": "A-1065.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1056.1": {
+      "survives_as": "A-1066.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1056.2": {
+      "survives_as": "A-1066.2",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1056.3": {
+      "survives_as": "A-1066.3",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1057.1": {
+      "survives_as": "A-1067.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1058.1": {
+      "survives_as": "A-1068.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1059.1": {
+      "survives_as": "A-1069.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1060.1": {
+      "survives_as": "A-1009.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1061.1": {
+      "survives_as": "A-1007.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1062.1": {
+      "survives_as": "A-1008.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1063.1": {
+      "survives_as": "A-1015.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1064.1": {
+      "survives_as": "A-1051.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1065.1": {
+      "survives_as": "A-1028.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1066.1": {
+      "survives_as": "A-1029.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1067.1": {
+      "survives_as": "A-1039.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1068.1": {
+      "survives_as": "A-1040.1",
+      "reason": "Sub-item renumbered under new family ID."
+    },
+    "A-1069.1": {
+      "survives_as": "A-1052.1",
+      "reason": "Sub-item renumbered under new family ID."
+    }
+  }
+}

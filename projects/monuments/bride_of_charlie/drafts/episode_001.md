@@ -10,8 +10,8 @@
 - **Transcript SHA-256**: bb3ec385a31a9ea27f29a181c88f1c534aa6eacd6969321bfbd2d2a33ebb5618
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1000, A-1001, A-1002, A-1003, A-1004, A-1005, A-1006, A-1060, A-1061, A-1062
-  - Claim Range: C-1000-C-1007, C-1099-C-1100
+  - Artifact Families Introduced: A-1000-A-1009
+  - Claim Range: C-1000-C-1009
   - New Nodes Introduced: N-1, N-2, N-3, N-4, N-5, N-6, N-7, N-8, N-9, N-10, N-11, N-12, N-1000, N-1001, N-1002, N-1003, N-1004, N-1005, N-1006, N-1007, N-1008, N-1009, N-1010
 
 ## 2. Executive Summary
@@ -61,7 +61,7 @@ Confidence: medium
 **A-1002.1** Tesseract School yearbook photos 1995-1998
 Event Timestamp: 1995–1998
 Video Timestamp: 53:40–54:00
-*Related: C-1006, N-2, N-1002, N-1003*
+*Related: C-1007, N-2, N-1002, N-1003*
 Transcript Snippet: was at school. I don't have every year...yet, but I do have some years. 1995 to...1996 in first grade, 1996 to 1997 in...second grade, and 1997...to 1998, which is her in third grade. I...got to tell you, I am so glad that I...found this Tesseract. I didn't get to...time travel with it. I don't think I
 Confidence: high
 
@@ -72,21 +72,21 @@ Confidence: high
 **A-1003.1** 1941 article - Loretta Abbas testifies in numbers business case
 Event Timestamp: 1941
 Video Timestamp: 32:55–33:15
-*Related: C-1004, N-9, N-1010*
+*Related: C-1003, N-9, N-1010*
 Transcript Snippet: Pennsylvania. You check out this article...from 1941 where she testifies that she...ran numbers. It says Loretta Abbas of...Washington, Thomas Roberts, whatever,...whatever, testified that they engaged in...the numbers business and had been...arrested on numerous occasions. They...explained their role in the numbers
 Confidence: high
 
 **A-1003.2** 1944 article - Loretta Abbas pleads guilty to lottery charge
 Event Timestamp: 1944
 Video Timestamp: 33:18–33:35
-*Related: C-1004, N-9, N-1010*
+*Related: C-1003, N-9, N-1010*
 Transcript Snippet: here's another one. We could keep going,...but here's another article from 1944...where she pleads guilty to a lottery...charge. Was before the court. She wasn't...lying. She's always arrested on a...lottery charge. The state police had a...search warrant and when they entered her...house, they found a quantity of number
 Confidence: high
 
 **A-1003.3** 1935 article - Mason Abbas lottery arrest
 Event Timestamp: 1935
 Video Timestamp: 33:50–34:20
-*Related: C-1004, N-9, N-1010*
+*Related: C-1003, N-9, N-1010*
 Transcript Snippet: And it tells us that he was overtaken in...his automobile after a chase of several...miles after he had failed to obey the...officer's order to stop. Yes. Mason...Abbas was arrested yesterday by County...Detective Frank Kreps. Before an...alderman, he was held for court in...default of a $1,000 bond on a charge of
 Confidence: high
 
@@ -97,7 +97,7 @@ Confidence: high
 **A-1004.1** 1974 newspaper - Carl Kenneth Frantzve at American Bank Note Company
 Event Timestamp: 1974
 Video Timestamp: 35:15–35:35
-*Related: C-1005, N-5, N-1010*
+*Related: C-1004, N-5, N-1010*
 Transcript Snippet: 1974 doing just that. It reads,..."Printing began this week on the first...Illinois state lottery tickets up to...10,000 agents." It tells us at the...bottom there that Kent Frantzve of the...American Bank Note Company, the printer,...examines the first tickets of the...initial press run.
 Confidence: high
 
@@ -108,21 +108,21 @@ Confidence: high
 **A-1005.1** Erika's morfar/mormor Instagram posts
 Event Timestamp: 2016–2019
 Video Timestamp: 37:00–37:40
-*Related: C-1003, N-2, N-5*
+*Related: C-1005, N-2, N-5*
 Transcript Snippet: over the years, referring to him...affectionately as her morfar. Saw this...over and over again. And you just see...posts of him and how much she loves him....She even mentions her her grandmother...there. That's his wife Elaine and she...says she is my angel in heaven but I...usually call her mormor. So that's
 Confidence: high
 
 **A-1005.2** Zion's Gate photo with caption
 Event Timestamp: March 21, 2019
 Video Timestamp: 39:50–40:10
-*Related: C-1003, C-1007, N-2, N-11, N-12*
+*Related: C-1005, C-1006, N-2, N-11, N-12*
 Transcript Snippet: On March 21st of 2019, Erika visits with...Charlie. She's in Jerusalem with...Charlie, what is known as Zion's Gate in...Jerusalem. She posts a picture uh with a...pretty curious cap uh caption. It reads...in part uh meet Darla, a Romanian Jew...that now calls Israel home. She was...sitting by my family's dedication sign
 Confidence: high
 
 **A-1005.3** Dual-citizenship social post ("Dual citizenship commenced")
 Event Timestamp: 2019
 Video Timestamp: 36:26–36:41
-*Related: C-1003, N-2, N-5, N-1008*
+*Related: C-1005, N-2, N-5, N-1008*
 Transcript Snippet: to her Scandinavian roots that in 2019,...she moved to begin the process of...obtaining her dual citizenship. She...posted this herself where she is. Dual...citizenship commenced.
 Confidence: high
 
@@ -133,7 +133,7 @@ Confidence: high
 **A-1006.1** Walnut Corner Children's Center attendance record
 Event Timestamp: 1992
 Video Timestamp: 50:34–50:55
-*Related: C-1006, N-2, N-1002*
+*Related: C-1007, N-2, N-1002*
 Transcript Snippet: was in Cincinnati, Ohio for daycare in...1992. She attended a place called Walnut...Corner Children's Center in Cincinnati,...Ohio, located inside of a massive...corporate building. Oddly, the filing...for uh that daycare doesn't have a floor...number, but I can show you this photo of...her um at daycare, lol, by the way, to
 Confidence: medium
 
@@ -149,37 +149,37 @@ Confidence: high
 
 ---
 
-**A-1061** Press Coverage Bundle
+**A-1007** Press Coverage Bundle
 
-**A-1061.1** NYT interview and People magazine single-mother/CEO-mom framing
+**A-1007.1** NYT interview and People magazine single-mother/CEO-mom framing
 Event Timestamp: Undated in episode source
 Event Timestamp Note: post-assassination interview timing referenced in transcript; exact calendar dates not attested.
 Video Timestamp: 16:36–17:29
-*Related: C-1003, N-2, N-3, N-1008*
+*Related: C-1005, N-2, N-3, N-1008*
 Transcript Snippet: recall that Erika sat down for an...in-person interview with the New York...Times days after Charlie was publicly...assassinated, and she confirmed to them...that the least traumatizing part about...Charlie's assassination was the prospect...of her now having to raise her children...alone. She wasn't traumatized by that...idea because she had seen the example...set for her by her mother growing up. As...People magazine later echoed, quote,..."Erika Kirk has learned a lot from her
 Confidence: high
 
 ---
 
-**A-1062** Erika Audio Clip Bundle
+**A-1008** Erika Audio Clip Bundle
 
-**A-1062.1** Erika audio: dad was stay-at-home dad
+**A-1008.1** Erika audio: dad was stay-at-home dad
 Event Timestamp: Undated in episode source
 Event Timestamp Note: childhood period referenced in clip; no calendar date attested in transcript.
 Video Timestamp: 18:08–18:53
-*Related: C-1003, N-2, N-4*
+*Related: C-1005, N-2, N-4*
 Transcript Snippet: Erika's. Take a listen. Hold on. I do...not want to knock the stay-at-home dads....I do not. There are some who had to who...temporarily have to switch that role....That happened to my parents a long time...ago. Granted, again, they got a divorce,...so that probably falls into your bucket....But...>> I am an anthropologist,...>> but my dad was a stay-at-home dad for a...few years, and I got to say, it was...really sweet and really special. I was
 Confidence: high
 
 ---
 
-**A-1060** Elizabeth Lane X Post Bundle
+**A-1009** Elizabeth Lane X Post Bundle
 
-**A-1060.1** Elizabeth Lane viral X post on Erika Kirk (read in full by Candace Owens)
+**A-1009.1** Elizabeth Lane viral X post on Erika Kirk (read in full by Candace Owens)
 Event Timestamp: Undated (viral on X during episode preparation; no calendar date attested in transcript)
 Event Timestamp Note: original post date not stated in episode; left undated deliberately.
 Video Timestamp: 04:55–11:29
-*Related: C-1099, C-1100, N-6, N-2, N-7*
+*Related: C-1008, C-1009, N-6, N-2, N-7*
 Transcript Snippet: Elizabeth Lane wrote, "I'm...going to be blunt. I have reached the...point where I find Erika Kirk to be...deeply disturbing, not because of rumors...or gossip, but because of consistent...observable patterns of behavior....I believe she may be a psychopath....Again, this is just my opinion.
 Confidence: high
 
@@ -200,7 +200,7 @@ Founder of Turning Point USA, allegedly assassinated. Husband of Erika Kirk.
 Node Type: Person
 Main subject of investigation. Widow of Charlie Kirk, now CEO/chairman of Turning Point USA. Born Erika Frantzve.
 
-*Related: A-1000.1, A-1001.1, A-1001.2, A-1001.3, A-1002.1, A-1005.1, A-1005.2, A-1005.3, A-1006.1, A-1060.1, A-1061.1, A-1062.1, C-1000, C-1001, C-1003, C-1006, C-1007, C-1099, C-1100*
+*Related: A-1000.1, A-1001.1, A-1001.2, A-1001.3, A-1002.1, A-1005.1, A-1005.2, A-1005.3, A-1006.1, A-1009.1, A-1007.1, A-1008.1, C-1000, C-1001, C-1005, C-1007, C-1006, C-1008, C-1009*
 
 ---
 
@@ -209,7 +209,7 @@ Main subject of investigation. Widow of Charlie Kirk, now CEO/chairman of Turnin
 Node Type: Person
 Host of Bride of Charlie investigative series.
 
-*Related: A-1060.1, C-1100*
+*Related: A-1009.1, C-1009*
 
 ---
 
@@ -218,7 +218,7 @@ Host of Bride of Charlie investigative series.
 Node Type: Person
 Investigative journalist who wrote viral post analyzing Erika Kirk's behavior patterns.
 
-*Related: A-1060.1, C-1099*
+*Related: A-1009.1, C-1008*
 
 ---
 
@@ -227,7 +227,7 @@ Investigative journalist who wrote viral post analyzing Erika Kirk's behavior pa
 Node Type: Person
 Erika Kirk's father. Present during her childhood despite claims of single-mother upbringing.
 
-*Related: A-1001.1, A-1001.2, A-1001.3, A-1062.1, C-1001, C-1002, C-1003*
+*Related: A-1001.1, A-1001.2, A-1001.3, A-1008.1, C-1001, C-1002, C-1005*
 
 ---
 
@@ -238,7 +238,7 @@ Erika Kirk's father. Present during her childhood despite claims of single-mothe
 Node Type: Person
 Erika Kirk's mother. Filed for divorce in 1998.
 
-*Related: A-1001.1, A-1001.2, A-1001.3, A-1061.1, C-1001, C-1002, C-1003*
+*Related: A-1001.1, A-1001.2, A-1001.3, A-1007.1, C-1001, C-1002, C-1005*
 
 ---
 
@@ -247,7 +247,7 @@ Erika Kirk's mother. Filed for divorce in 1998.
 Node Type: Person
 Erika Kirk's stepfather, present in her life since elementary school.
 
-*Related: C-1003*
+*Related: C-1005*
 
 ---
 
@@ -256,7 +256,7 @@ Erika Kirk's stepfather, present in her life since elementary school.
 Node Type: Person
 Erika Kirk's paternal grandfather. Executive at American Bank Note Company that printed lottery tickets.
 
-*Related: A-1004.1, A-1005.1, A-1005.3, C-1005*
+*Related: A-1004.1, A-1005.1, A-1005.3, C-1004*
 
 ---
 
@@ -265,7 +265,7 @@ Erika Kirk's paternal grandfather. Executive at American Bank Note Company that 
 Node Type: Person
 Erika Kirk's great-grandfather. Arrested for lottery/gambling charges.
 
-*Related: A-1003.3, C-1004*
+*Related: A-1003.3, C-1003*
 
 ---
 
@@ -274,7 +274,7 @@ Erika Kirk's great-grandfather. Arrested for lottery/gambling charges.
 Node Type: Person
 Erika Kirk's great-grandmother. Arrested for running illegal slot machines and numbers business.
 
-*Related: A-1003.1, A-1003.2, C-1004*
+*Related: A-1003.1, A-1003.2, C-1003*
 
 ---
 
@@ -283,7 +283,7 @@ Erika Kirk's great-grandmother. Arrested for running illegal slot machines and n
 Node Type: Person
 Erika's alleged roommate who made claims about Erika's family being half Jewish.
 
-*Related: A-1005.2, C-1007*
+*Related: A-1005.2, C-1006*
 
 ---
 
@@ -292,7 +292,7 @@ Erika's alleged roommate who made claims about Erika's family being half Jewish.
 Node Type: Person
 Nicole Rothstein's father. Erika referred to him as uncle.
 
-*Related: A-1005.2, C-1007*
+*Related: A-1005.2, C-1006*
 
 ---
 
@@ -312,7 +312,7 @@ Node Type: Organization
 Organization Kind: educational_institution
 Charter school attended by Erika Kirk in Arizona. Connected to John T. Golle, Walton family, Bush family.
 
-*Related: A-1002.1, A-1006.1, C-1006*
+*Related: A-1002.1, A-1006.1, C-1007*
 
 ---
 
@@ -322,7 +322,7 @@ Node Type: Organization
 Organization Kind: educational_institution
 Jewish school in Arizona whose building was rented by Tesseract School.
 
-*Related: A-1002.1, C-1006*
+*Related: A-1002.1, C-1007*
 
 ---
 
@@ -352,7 +352,7 @@ Node Type: Organization
 Organization Kind: program_or_initiative
 CIA project involving time travel technology mentioned in episode.
 
-*Related: C-1006*
+*Related: C-1007*
 
 ---
 
@@ -382,7 +382,7 @@ Node Type: Topic
 Topic Kind: discrepancy
 Erika claims raised by single mother but father and stepfather were present throughout childhood
 
-*Related: A-1005.3, A-1061.1, C-1003*
+*Related: A-1005.3, A-1007.1, C-1005*
 
 ---
 
@@ -392,7 +392,7 @@ Node Type: Topic
 Topic Kind: discrepancy
 Erika calls paternal grandfather morfar (mother's father) instead of farfar (father's father)
 
-*Related: A-1005.1, C-1003*
+*Related: A-1005.1, C-1005*
 
 ---
 
@@ -402,7 +402,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Multiple family members involved in gambling industry - lottery tickets, slot machines, casinos
 
-*Related: A-1003.1, A-1003.2, A-1003.3, A-1004.1, C-1004, C-1005*
+*Related: A-1003.1, A-1003.2, A-1003.3, A-1004.1, C-1003, C-1004*
 
 ---
 
@@ -454,7 +454,7 @@ Investigative Direction: Obtain certified marriage certificate and compare with 
 
 ---
 
-**C-1004** Abbas Family Gambling History
+**C-1003** Abbas Family Gambling History
 
 Claim Timestamp: 32:50
 Claim: Erika's great-grandparents Mason and Loretta Abbas were repeatedly arrested for illegal gambling operations including running numbers lotteries and illegal slot machines.
@@ -468,7 +468,7 @@ Investigative Direction: Obtain court records and newspaper archives confirming 
 
 ---
 
-**C-1005** Paternal Grandfather Worked at Lottery Ticket Company
+**C-1004** Paternal Grandfather Worked at Lottery Ticket Company
 
 Claim Timestamp: 35:15
 Claim: Erika's paternal grandfather Carl Kenneth Frantzve was an executive at American Bank Note Company, which printed Illinois state lottery tickets.
@@ -482,12 +482,12 @@ Investigative Direction: Confirm employment records and company role.
 
 ---
 
-**C-1003** Father Present During Childhood Contrary to Single Mother Claim
+**C-1005** Father Present During Childhood Contrary to Single Mother Claim
 
 Claim Timestamp: 37:00
 Claim: Erika publicly claims she was raised by a single mother, but her father Kent was present throughout her childhood, and she also had a stepfather Larry Guinta present.
 Transcript Snippet: over the years, referring to him...affectionately as her morfar. Saw this...over and over again. And you just see...posts of him and how much she loves him....She even mentions her her grandmother...there. That's his wife Elaine and she...says she is my angel in heaven but I...usually call her mormor. So that's
-Anchored Artifacts: A-1005.1, A-1005.3, A-1061.1, A-1062.1
+Anchored Artifacts: A-1005.1, A-1005.3, A-1007.1, A-1008.1
 Related Nodes: N-2, N-4, N-5, N-8, N-1008, N-1009
 Confidence: high
 Uncertainty: Also involves morfar/farfar terminology issue suggesting possible paternity question
@@ -497,7 +497,7 @@ Investigative Direction: Obtain school records, yearbooks, and witness statement
 
 ---
 
-**C-1007** Erika Incorrectly Claims Connection to Rothstein Family Zion's Gate
+**C-1006** Erika Incorrectly Claims Connection to Rothstein Family Zion's Gate
 
 Claim Timestamp: 39:50
 Claim: Erika describes Zion's Gate as her family's dedication, but this actually belongs to the Rothstein family. Her connection to them appears distant (no blood relation if her claimed paternity is true).
@@ -512,7 +512,7 @@ Investigative Direction: Verify ownership of Zion's Gate dedication and actual f
 
 ---
 
-**C-1006** Erika Attended Tesseract/Looking Glass School
+**C-1007** Erika Attended Tesseract/Looking Glass School
 
 Claim Timestamp: 53:40
 Claim: Erika attended the Tesseract charter school in Paradise Valley, Arizona from 1995-1998, which rented space from Looking Glass School.
@@ -525,12 +525,12 @@ Investigative Direction: Obtain enrollment records and yearbooks confirming atte
 
 ---
 
-**C-1099** Elizabeth Lane Psychopath Opinion About Erika Kirk
+**C-1008** Elizabeth Lane Psychopath Opinion About Erika Kirk
 
 Claim Timestamp: 05:55
 Claim: Investigative journalist Elizabeth Lane authored a viral X post stating that Erika Kirk exhibits consistent observable patterns of behavior and that Lane believes Erika may be a psychopath; Lane explicitly frames the assessment as her opinion, not a clinical diagnosis.
 Transcript Snippet: I believe she may be a psychopath....What stands out immediately is the...reaction that she provokes in other...people, which is very common with...psychopaths across the board, including...people who support her publicly....Again, this is just my opinion.
-Anchored Artifacts: A-1060.1
+Anchored Artifacts: A-1009.1
 Related Nodes: N-6, N-2, N-7
 Confidence: high
 Uncertainty: Third-party opinion read aloud by host; not a clinical assessment or verified fact claim
@@ -538,12 +538,12 @@ Investigative Direction: Preserve original X post URL and posting date if availa
 
 ---
 
-**C-1100** Candace Owens Concurs With Lane Psychopath Assessment
+**C-1009** Candace Owens Concurs With Lane Psychopath Assessment
 
 Claim Timestamp: 11:55
 Claim: After reading Elizabeth Lane's viral X post in full, Candace Owens states that she concurs with Lane's assessment that there is something deeply unsettling about Erika Kirk's presentation.
 Transcript Snippet: And also, in a word, yes, I concur. Uh,...there is something about her. I don't...know any single personality in the media...or politics that has had the same effect...that Erika has had on people worldwide.
-Anchored Artifacts: A-1060.1
+Anchored Artifacts: A-1009.1
 Related Nodes: N-7, N-2, N-6
 Confidence: high
 Uncertainty: Host opinion/concurrence with Lane's framing, not an independent clinical or documentary claim
