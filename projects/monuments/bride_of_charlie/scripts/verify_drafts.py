@@ -355,7 +355,7 @@ def main() -> int:
     ap.add_argument("--no-cache", action="store_true", help="Don't use Neo4j cache (always search)")
     args = ap.parse_args()
     
-    use_cache = not args.no_cache and NEO4J_AVAILABLE and NEO4J_URI
+    use_cache = not args.no_cache and NEO4J_AVAILABLE and neo4j_uri()
 
     drafts_dir = args.drafts
     if not drafts_dir.exists():
@@ -427,7 +427,7 @@ def main() -> int:
     
     if use_cache:
         print(f"  Neo4j cache: ENABLED")
-    elif NEO4J_URI and not args.no_cache:
+    elif neo4j_uri() and not args.no_cache:
         print(f"  Neo4j cache: UNAVAILABLE (driver not installed or connection failed)")
     else:
         print(f"  Neo4j cache: DISABLED")
