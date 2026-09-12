@@ -13,9 +13,9 @@
 The single most durable cross-episode tension is between Erika Kirk's stated "single mother" upbringing and the documented presence of multiple father figures, business partners, and a multi-generational network around her.
 
 - **Ep. 1 (C-1005):** Erika claims single-mother upbringing, but Kent Frantzve, stepfather Larry Guinta (N-8), and morfar Carl Kenneth Frantzve (N-5) appear in artifacts.
-- **Ep. 4 (A-1024.1):** Erika publicly displays close relationship with "Uncle Rick" Erpenbeck (N-18) at Universal Studios.
+- **Ep. 4 (A-1024.1):** Erika publicly displays close relationship with "Uncle Rick" Erpenbeck (N-21) at Universal Studios.
 - **Ep. 5 (C-1045, C-1044):** Nancy Gerard (Tesseract principal) and Dennis Frantzve (cousin, Marine Lt. Col.) appear as father figures/mentors — yet Erika was apparently "missing" 2000–2002 (C-1047) during the same period Lori was receiving military contracts.
-- **Ep. 8 (C-1101):** Erika enrolled at Notre Dame Prep under Bishop Thomas J. O'Brien (N-47) — yet another institutional father figure.
+- **Ep. 8 (C-1101):** Erika enrolled at Notre Dame Prep under Bishop Thomas J. O'Brien (N-52) — yet another institutional father figure.
 
 The pattern: A declared "single mother" narrative is surrounded by a dense web of fathers, uncles, cousins, mentors, and clergy figures across 25+ years.
 
@@ -36,8 +36,8 @@ This is **the strongest cross-episode investigative pressure** in the series —
 ### Pattern C — Lori Frantzve as Central Hub
 Lori Frantzve (N-3) is referenced as a node in **every single episode**, anchored to over 15 distinct artifacts. Her connections form a hub-and-spoke pattern:
 
-- **Family spokes:** Kent (ex-husband), James Melvin Stanley (first husband, N-29), John Robert Walstad (second husband, N-30), Larry Guinta (third), Larry Stanley (fourth)
-- **Business spokes:** Erpenbecks (N-18–N-23), Tyler Bowyer (N-14), Super Feed Technologies (N-1021), Feed Me Inc (N-1061), G-Tech Industries (N-1060), Saxon Capital Group (A-1069.3), IMAT Labs (N-1041), E3 Tech (N-1035)
+- **Family spokes:** Kent (ex-husband), James Melvin Stanley (first husband, N-32), John Robert Walstad (second husband, N-33), Larry Guinta (third), Larry Stanley (fourth)
+- **Business spokes:** Erpenbecks (N-21–N-26), Tyler Bowyer (N-14), Super Feed Technologies (N-1021), Feed Me Inc (N-1061), G-Tech Industries (N-1060), Saxon Capital Group (A-1069.3), IMAT Labs (N-1041), E3 Tech (N-1035)
 - **Government/military spokes:** Operation Enduring Freedom (N-1040), Army National Guard ($2.4M), DHS contracts, Romania bases
 - **Charity spokes:** Everyday Heroes Like You (N-1036/N-1052), Bible in 365
 
@@ -46,8 +46,8 @@ The convergence across episodes 3, 5, 6, 7, 8 — all with artifact-anchored cor
 ### Pattern D — The Erpenbeck Convergence
 The Erpenbeck family appears across three episodes with escalating depth:
 
-- **Ep. 3:** Rick Erpenbeck (N-18) as divorce witness; entire Erpenbeck family fraud case ($34M bank fraud, 2003); 25-year business relationship through LLC filings (A-1016, A-1017, A-1018)
-- **Ep. 4:** Erika displays close public relationship with Rick at Universal Studios; family criminal history (Bill Erpenbeck, N-20, served 20+ years)
+- **Ep. 3:** Rick Erpenbeck (N-21) as divorce witness; entire Erpenbeck family fraud case ($34M bank fraud, 2003); 25-year business relationship through LLC filings (A-1016, A-1017, A-1018)
+- **Ep. 4:** Erika displays close public relationship with Rick at Universal Studios; family criminal history (Bill Erpenbeck, N-23, served 20+ years)
 - **Ep. 5:** Rick Erpenbeck lost law license in 2009 (C-1064, C-1065) for failing to disclose existing mortgages during title searches and stock transfer scheme via LLC
 
 This is the only fully-documented criminal network in the series with direct documented ties to Erika's immediate family circle.
@@ -132,7 +132,7 @@ These mark recurring rhetorical pivots where the host signals awareness that the
 ### Tier 2 — High Pressure
 
 **N-1001 Tesseract School:** Episodes 1, 2, 5, 6, 8
-**N-18 Rick Erpenbeck:** Episodes 3, 4, 5
+**N-21 Rick Erpenbeck:** Episodes 3, 4, 5
 **N-4 Kent Frantzve:** Episodes 1, 3, 4, 5 (divorce/marriage documents)
 
 ### Tier 3 — Documented Networks with Criminal/Scandal Histories
@@ -190,7 +190,7 @@ The following contradictions are surfaced across episodes where BOTH sides are a
 ### Contradiction 5 — Dating History in NYC
 - **Claim:** Did not date for 5 years in NYC before Charlie (C-1030, A-1020.2)
 - **Counter-claim:** Multiple boyfriends 2013-2018 (A-1021.1 tweets); rang in 2018 with boyfriend
-- **Episodes:** 3, 8 (additional boyfriends: Josh Harelson Ep. 7 N-43, JT Massie Ep. 7 N-44, Cabot Phillips Ep. 8 N-46)
+- **Episodes:** 3, 8 (additional boyfriends: Josh Harelson Ep. 7 N-48, JT Massie Ep. 7 N-49, Cabot Phillips Ep. 8 N-51)
 - **Status:** Strongly artifact-anchored on counter-claim side.
 
 ### Contradiction 6 — Pageant Grooming
@@ -240,7 +240,7 @@ The following contradictions are surfaced across episodes where BOTH sides are a
 | **Artifact Families** | 77 (A-1000 through A-1076 dense) |
 | **Individual Artifacts** | ~122 distinct items |
 | **Claim Range** | C-1000 through C-1114 (115 claims dense) |
-| **Nodes (Persons)** | 53 distinct people (N-1 through N-53 dense; investigation targets N-1009+) |
+| **Nodes (Persons)** | 53 distinct people (N-1 through N-58 dense; investigation targets N-1009+) |
 | **Nodes (Organizations)** | ~20 |
 | **Nodes (Topics)** | ~25 |
 | **Memes** | 9 distinct (M-1 through M-9 global intro-order) |
@@ -273,7 +273,7 @@ The following contradictions are surfaced across episodes where BOTH sides are a
 
 2. **The "missing year" 2008 (Ep. 3, C-1028):** Erika vanishes from records while Lori receives $2.4M from Army National Guard and IMAT Labs. Connection between these events not established.
 
-3. **Dennis L. Frantzve (cousin) Marine role in Romania (Ep. 6, N-36, C-1079):** Erika's "distant cousin" showed her around the Romania base. Direct relationship not verified.
+3. **Dennis L. Frantzve (cousin) Marine role in Romania (Ep. 6, N-39, C-1079):** Erika's "distant cousin" showed her around the Romania base. Direct relationship not verified.
 
 4. **The Lombardi lineage claim (Ep. 4, C-1035, N-1029):** Charlie Kirk stated Erika's mom is a direct Lombardi descendant; Angeline Abbas obituary doesn't confirm lineage.
 

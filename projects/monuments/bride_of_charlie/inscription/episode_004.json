@@ -153,8 +153,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-26",
-            "N-28",
+            "N-29",
+            "N-31",
             "N-1028"
           ],
           "tags": [],
@@ -181,7 +181,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-31",
+            "N-34",
             "N-1029"
           ],
           "tags": [],
@@ -208,7 +208,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-30"
+            "N-33"
           ],
           "tags": [],
           "video_timestamp": "00:12:10–00:12:20",
@@ -270,8 +270,8 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-27",
-            "N-31"
+            "N-30",
+            "N-34"
           ],
           "tags": [],
           "video_timestamp": "00:36:45–00:37:05",
@@ -507,8 +507,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-18",
-      "ref": "N-18",
+      "@id": "N-21",
+      "ref": "N-21",
       "name": "Richard Erpenbeck",
       "type": "person",
       "description": "Alleged uncle of Erika, works at Universal Studios",
@@ -526,8 +526,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-20",
-      "ref": "N-20",
+      "@id": "N-23",
+      "ref": "N-23",
       "name": "Bill Erpenbeck",
       "type": "person",
       "description": "Rick Erpenbeck's brother, served 20+ years for financial fraud",
@@ -543,8 +543,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-26",
-      "ref": "N-26",
+      "@id": "N-29",
+      "ref": "N-29",
       "name": "Jack Solomon",
       "type": "person",
       "description": "Erika's uncle through marriage, professor at BYU, founder of Bali Technologies",
@@ -558,8 +558,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-28",
-      "ref": "N-28",
+      "@id": "N-31",
+      "ref": "N-31",
       "name": "Carla Solomon",
       "type": "person",
       "description": "Married to Jack Solomon, related to Erika",
@@ -575,8 +575,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-29",
-      "ref": "N-29",
+      "@id": "N-32",
+      "ref": "N-32",
       "name": "James Melvin Stanley",
       "type": "person",
       "description": "First husband of Lori, passed away",
@@ -594,8 +594,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-30",
-      "ref": "N-30",
+      "@id": "N-33",
+      "ref": "N-33",
       "name": "John Robert Walstad",
       "type": "person",
       "description": "Second husband of Lori",
@@ -609,17 +609,15 @@
     },
     {
       "@type": "Person",
-      "@id": "N-27",
-      "ref": "N-27",
+      "@id": "N-30",
+      "ref": "N-30",
       "name": "Vince Lombardi",
       "type": "person",
       "description": "Famous NFL coach, Super Bowl trophy named after him",
       "related_artifacts": [
         "A-1027.1"
       ],
-      "related_claims": [
-        "C-1035"
-      ],
+      "related_claims": [],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 0,
@@ -628,8 +626,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-31",
-      "ref": "N-31",
+      "@id": "N-34",
+      "ref": "N-34",
       "name": "Angela Lombardo",
       "type": "person",
       "description": "Listed as Lori's mother, maiden name",
@@ -710,9 +708,7 @@
       "related_artifacts": [
         "A-1024.1"
       ],
-      "related_claims": [
-        "C-1033"
-      ],
+      "related_claims": [],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 0,
@@ -856,7 +852,7 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-29"
+        "N-32"
       ],
       "tags": [],
       "claim_timestamp": "00:12:10",
@@ -875,9 +871,9 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-18",
-        "N-20",
-        "N-28",
+        "N-21",
+        "N-23",
+        "N-31",
         "N-1028"
       ],
       "tags": [],
@@ -924,8 +920,8 @@
       "related_nodes": [
         "N-1",
         "N-3",
-        "N-27",
-        "N-31",
+        "N-30",
+        "N-34",
         "N-1029"
       ],
       "tags": [],

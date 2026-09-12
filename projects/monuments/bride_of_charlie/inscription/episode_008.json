@@ -48,7 +48,7 @@
             "C-1101"
           ],
           "related_nodes": [
-            "N-47",
+            "N-52",
             "N-1058"
           ],
           "tags": [],
@@ -75,7 +75,7 @@
             "C-1103"
           ],
           "related_nodes": [
-            "N-47",
+            "N-52",
             "N-1059"
           ],
           "tags": [],
@@ -93,7 +93,7 @@
             "C-1103"
           ],
           "related_nodes": [
-            "N-47",
+            "N-52",
             "N-1059"
           ],
           "tags": [],
@@ -201,8 +201,8 @@
             "C-1106"
           ],
           "related_nodes": [
-            "N-49",
-            "N-50"
+            "N-54",
+            "N-55"
           ],
           "tags": [],
           "event_timestamp": "2017-02-01",
@@ -228,7 +228,7 @@
             "C-1112"
           ],
           "related_nodes": [
-            "N-52",
+            "N-57",
             "N-1000"
           ],
           "tags": [],
@@ -246,7 +246,7 @@
             "C-1111"
           ],
           "related_nodes": [
-            "N-52"
+            "N-57"
           ],
           "tags": [],
           "event_timestamp": "2022",
@@ -263,7 +263,7 @@
             "C-1111"
           ],
           "related_nodes": [
-            "N-52"
+            "N-57"
           ],
           "tags": [],
           "event_timestamp": "2022",
@@ -288,7 +288,7 @@
             "C-1109"
           ],
           "related_nodes": [
-            "N-51"
+            "N-56"
           ],
           "tags": [],
           "event_timestamp": "2018-10",
@@ -339,7 +339,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-39",
+            "N-42",
             "N-1"
           ],
           "tags": [],
@@ -432,8 +432,7 @@
       ],
       "related_claims": [
         "C-1109",
-        "C-1113",
-        "C-1114"
+        "C-1113"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -456,8 +455,7 @@
       "related_claims": [
         "C-1109",
         "C-1110",
-        "C-1113",
-        "C-1100"
+        "C-1113"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -559,8 +557,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-46",
-      "ref": "N-46",
+      "@id": "N-51",
+      "ref": "N-51",
       "name": "Cabot Phillips",
       "type": "person",
       "description": "Erika's boyfriend in 2017-2018",
@@ -576,8 +574,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-44",
-      "ref": "N-44",
+      "@id": "N-49",
+      "ref": "N-49",
       "name": "JT Massie",
       "type": "person",
       "description": "Erika's ex-boyfriend from 2015",
@@ -593,8 +591,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-39",
-      "ref": "N-39",
+      "@id": "N-42",
+      "ref": "N-42",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Guest on Dave Rubin show who claimed Erika never sought spotlight",
@@ -612,8 +610,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-47",
-      "ref": "N-47",
+      "@id": "N-52",
+      "ref": "N-52",
       "name": "Bishop Thomas J. O'Brien",
       "type": "person",
       "description": "Phoenix Catholic Diocese bishop who oversaw Notre Dame Prep, charged with felony hit-and-run and grand jury investigation for covering up priest abuse",
@@ -635,8 +633,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-48",
-      "ref": "N-48",
+      "@id": "N-53",
+      "ref": "N-53",
       "name": "Jim Lee Reed",
       "type": "person",
       "description": "Victim of Bishop O'Brien's hit-and-run",
@@ -654,8 +652,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-49",
-      "ref": "N-49",
+      "@id": "N-54",
+      "ref": "N-54",
       "name": "Patricia Patrick",
       "type": "person",
       "description": "Documentary filmmaker of Black Starts",
@@ -673,8 +671,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-55",
+      "ref": "N-55",
       "name": "James Woolsey",
       "type": "person",
       "description": "Former CIA Director featured in EMP documentary with Erika",
@@ -692,8 +690,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-51",
-      "ref": "N-51",
+      "@id": "N-56",
+      "ref": "N-56",
       "name": "Kanye West",
       "type": "person",
       "description": "Rapper whose Blexit tweets in October 2018 damaged Candace and Charlie's reputation",
@@ -711,8 +709,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-52",
-      "ref": "N-52",
+      "@id": "N-57",
+      "ref": "N-57",
       "name": "Kouri Richins",
       "type": "person",
       "description": "Woman convicted of murdering husband for $4M estate, case used as parallel to Erika situation",
@@ -733,8 +731,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-53",
-      "ref": "N-53",
+      "@id": "N-58",
+      "ref": "N-58",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Conservative commentator who defended Erika then tweeted about Kouri Richins case",
@@ -948,8 +946,7 @@
         "A-1073.1"
       ],
       "related_claims": [
-        "C-1108",
-        "C-1105"
+        "C-1108"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -971,7 +968,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-39",
+        "N-42",
         "N-1"
       ],
       "tags": [],
@@ -992,7 +989,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-47",
+        "N-52",
         "N-1058",
         "N-1059"
       ],
@@ -1012,8 +1009,8 @@
         "A-1068.1"
       ],
       "related_nodes": [
-        "N-47",
-        "N-48",
+        "N-52",
+        "N-53",
         "N-1059"
       ],
       "tags": [],
@@ -1032,7 +1029,7 @@
         "A-1068.2"
       ],
       "related_nodes": [
-        "N-47",
+        "N-52",
         "N-1059",
         "N-1065"
       ],
@@ -1095,8 +1092,8 @@
       "related_nodes": [
         "N-2",
         "N-3",
-        "N-49",
-        "N-50"
+        "N-54",
+        "N-55"
       ],
       "tags": [],
       "claim_timestamp": "00:14:00-00:14:59",
@@ -1116,8 +1113,8 @@
       "related_nodes": [
         "N-2",
         "N-11",
-        "N-46",
-        "N-44",
+        "N-51",
+        "N-49",
         "N-1062"
       ],
       "tags": [],
@@ -1160,7 +1157,7 @@
         "N-7",
         "N-1",
         "N-2",
-        "N-51",
+        "N-56",
         "N-1063"
       ],
       "tags": [],
@@ -1205,8 +1202,8 @@
         "A-1071.3"
       ],
       "related_nodes": [
-        "N-52",
-        "N-53"
+        "N-57",
+        "N-58"
       ],
       "tags": [],
       "claim_timestamp": "00:32:21-00:41:11",
@@ -1224,7 +1221,7 @@
         "A-1071.1"
       ],
       "related_nodes": [
-        "N-52",
+        "N-57",
         "N-2"
       ],
       "tags": [],

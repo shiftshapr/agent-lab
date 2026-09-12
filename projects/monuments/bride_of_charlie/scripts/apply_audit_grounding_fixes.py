@@ -159,7 +159,7 @@ Confidence: medium
 **A-1035.3** Radford Eastern Europe gender-research document (1990)
 Event Timestamp: 1990
 Video Timestamp: 02:10–02:39
-*Related: C-1041, N-12, N-1070*
+*Related: C-1041, N-12, N-1054*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
@@ -184,7 +184,7 @@ Confidence: medium
 **A-1037.3** Tyler Bowyer Romania / Farnsworth connection (narration)
 Event Timestamp: 2010
 Video Timestamp: 55:14–55:32
-*Related: C-1066, N-13, N-1070*
+*Related: C-1066, N-13, N-1054*
 Transcript Snippet: PLACEHOLDER
 Confidence: low
 """,
@@ -230,7 +230,7 @@ RELATED_PATCHES: list[tuple[str, str, str]] = [
     ("episode_002.md", "*Related: C-1014, C-1016, N-12, N-1035, N-1045*", "*Related: C-1016, N-12, N-1035, N-1045*"),
     ("episode_002.md", "*Related: C-1018, N-2, N-3*", "*Related: C-1018, C-1017, N-2, N-3*"),
     ("episode_003.md", "*Related: C-1031, N-2, N-1*", "*Related: C-1031, C-1029, N-2, N-1*"),
-    ("episode_005.md", "*Related: C-1060, C-1061, N-13, N-1070*", "*Related: C-1060, C-1061, C-1063, C-1066, N-13, N-1070*"),
+    ("episode_005.md", "*Related: C-1060, C-1061, N-13, N-1054*", "*Related: C-1060, C-1061, C-1063, C-1066, N-13, N-1054*"),
     ("episode_008.md", "*Related: C-1104, N-3, N-1079*", "*Related: C-1104, C-1105, N-3, N-1079*"),
     ("episode_008.md", "*Related: A-1069.1, A-1069.2, A-1070.1, A-1072.1, A-1073.1, C-1107, C-1106, C-1105", "*Related: A-1069.2, A-1069.4, A-1070.1, A-1072.1, A-1073.1, A-1074.1, C-1107, C-1106, C-1105, C-1100"),
 ]
