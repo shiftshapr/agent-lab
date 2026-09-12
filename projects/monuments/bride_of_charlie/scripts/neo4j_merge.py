@@ -11,7 +11,7 @@ Options:
     --dry-run       Show what would be merged without making changes
 
 Environment:
-    NEO4J_URI (default: bolt://127.0.0.1:17687)
+    NEO4J_URI, NEO4J_DATABASE / NEO4J_DATABASE_BOC (default database: boc)
     NEO4J_USER (default: neo4j)
     NEO4J_PASSWORD (default: openclaw)
 """
@@ -23,19 +23,10 @@ import os
 import sys
 from pathlib import Path
 
-try:
-    from neo4j import GraphDatabase
-except ImportError:
-    print("ERROR: neo4j driver not installed. Run: uv add neo4j")
-    sys.exit(1)
+SCRIPTS_DIR = Path(__file__).resolve().parent
+sys.path.insert(0, str(SCRIPTS_DIR))
 
-# ---------------------------------------------------------------------------
-# Config
-# ---------------------------------------------------------------------------
-
-NEO4J_URI = os.getenv("NEO4J_URI", "bolt://127.0.0.1:17687")
-NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "openclaw")
+from neo4j_client import connect_boc_or_exit
 
 # ---------------------------------------------------------------------------
 # Fuzzy matching
@@ -256,14 +247,7 @@ def main():
     )
     args = parser.parse_args()
     
-    print(f"[neo4j-merge] Connecting to {NEO4J_URI}...")
-    try:
-        driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
-        driver.verify_connectivity()
-    except Exception as e:
-        print(f"ERROR: Could not connect to Neo4j: {e}")
-        print("Make sure Neo4j is running: docker compose up -d")
-        sys.exit(1)
+    driver = connect_boc_or_exit(label="neo4j-merge")
     
     node_types = (
         ["Person", "Topic", "Organization", "Place", "InvestigationTarget"]

@@ -14,18 +14,21 @@ from pathlib import Path
 AGENT_LAB_ROOT = Path(__file__).resolve().parent.parent.parent
 KNOWLEDGE_DIR = AGENT_LAB_ROOT / "knowledge"
 
-NEO4J_URI = os.getenv("NEO4J_URI", "bolt://127.0.0.1:17687")
-NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "openclaw")
 META_LAYER_RETRIEVAL_MAX_CHARS = int(os.getenv("META_LAYER_RETRIEVAL_MAX_CHARS", "12000"))
 
 
 def _get_driver():
     try:
-        from neo4j import GraphDatabase
-        driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
-        driver.verify_connectivity()
-        return driver
+        import sys
+
+        scripts = AGENT_LAB_ROOT / "scripts"
+        if str(scripts) not in sys.path:
+            sys.path.insert(0, str(scripts))
+        from neo4j_platform import connect_meta, neo4j_uri
+
+        if not neo4j_uri():
+            return None
+        return connect_meta()
     except Exception:
         return None
 

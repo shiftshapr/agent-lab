@@ -12,7 +12,8 @@ Usage:
   # Or from agent-lab with neo4j in path:
   python scripts/ingest-meta-layer-knowledge.py [--force]
 
-Environment: NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD (from .env). Loads .env from agent-lab root.
+Environment: NEO4J_URI, NEO4J_DATABASE / NEO4J_DATABASE_META (default: meta).
+Loads .env from agent-lab root.
 """
 
 from __future__ import annotations
@@ -22,20 +23,15 @@ import re
 import sys
 from pathlib import Path
 
-try:
-    from neo4j import GraphDatabase
-except ImportError:
-    print("ERROR: neo4j driver not installed. Run: uv add neo4j")
-    sys.exit(1)
-
 # Paths
 SCRIPT_DIR = Path(__file__).resolve().parent
 AGENT_LAB_ROOT = SCRIPT_DIR.parent
 KNOWLEDGE_DIR = AGENT_LAB_ROOT / "knowledge"
 
-NEO4J_URI = os.getenv("NEO4J_URI", "bolt://127.0.0.1:17687")
-NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "openclaw")
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+
+from neo4j_platform import clear_meta_graph, connect_meta, database_for_project, neo4j_uri  # noqa: E402
 
 # Meta-layer primitives (from voice)
 ML_PRIMITIVES = [
@@ -210,26 +206,15 @@ def ingest_file(driver, path: Path, force: bool = False) -> int:
     return created
 
 
-def clear_meta_layer_graph(driver) -> None:
-    """Remove all ML* nodes and relationships. Preserves Bride of Charlie data."""
-    with driver.session() as session:
-        session.run("""
-            MATCH (n)
-            WHERE n:MLSource OR n:MLChunk OR n:MLConcept OR n:MLFramework
-               OR n:MLPrimitive OR n:MLProject OR n:MLEntity
-            DETACH DELETE n
-        """)
-
-
 def main() -> int:
     _load_env()
     if not KNOWLEDGE_DIR.exists():
         print(f"[meta-layer-ingest] Knowledge dir not found: {KNOWLEDGE_DIR}")
         return 1
 
+    print(f"[meta-layer-ingest] Connecting to {neo4j_uri()} (database: {database_for_project('meta')})...")
     try:
-        driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
-        driver.verify_connectivity()
+        driver = connect_meta(ensure_database=True)
     except Exception as e:
         print(f"ERROR: Could not connect to Neo4j: {e}")
         print("Run: docker compose up -d")
@@ -246,7 +231,7 @@ def main() -> int:
 
     if force and not single_file:
         print("[meta-layer-ingest] Clearing meta-layer graph...")
-        clear_meta_layer_graph(driver)
+        clear_meta_graph(driver)
 
     ensure_schema(driver)
     ensure_primitives(driver)

@@ -14,7 +14,8 @@ Usage:
     python scripts/neo4j_ingest.py [--drafts-dir drafts/] [--force]
 
 Environment:
-    NEO4J_URI (default: bolt://127.0.0.1:17687 — agent-lab docker-compose host port)
+    NEO4J_URI (default: bolt://127.0.0.1:17687 — prod; staging: bolt://127.0.0.1:27687)
+    NEO4J_DATABASE / NEO4J_DATABASE_BOC (default: boc)
     NEO4J_USER (default: neo4j)
     NEO4J_PASSWORD (default: openclaw)
     NEO4J_INGEST_STRICT_CLAIMS (default: 1) — skip placeholder / malformed claims
@@ -34,11 +35,17 @@ import sys
 from pathlib import Path
 from typing import Any
 
-try:
-    from neo4j import GraphDatabase
-except ImportError:
-    print("ERROR: neo4j driver not installed. Run: uv add neo4j")
-    sys.exit(1)
+SCRIPTS_DIR = Path(__file__).resolve().parent
+if str(SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPTS_DIR))
+
+from neo4j_client import browser_url_for_uri, clear_boc_graph, connect_boc_or_exit, database_for_project
+from neo4j_fuzzy_names import (
+    fuzzy_name_distance,
+    fuzzy_names_match,
+    levenshtein_distance,
+    normalize_name,
+)
 
 # ---------------------------------------------------------------------------
 # Config
@@ -46,10 +53,6 @@ except ImportError:
 
 PROJECT_ROOT = Path(__file__).parent.parent
 DRAFTS_DIR = PROJECT_ROOT / "drafts"
-
-NEO4J_URI = os.getenv("NEO4J_URI", "bolt://127.0.0.1:17687")
-NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "openclaw")
 
 # ---------------------------------------------------------------------------
 # Regex patterns for parsing markdown
@@ -1352,7 +1355,11 @@ def main():
     
     parser = argparse.ArgumentParser(description="Ingest Bride of Charlie episode drafts into Neo4j")
     parser.add_argument("--drafts-dir", type=Path, default=DRAFTS_DIR, help="Directory containing episode draft markdown files")
-    parser.add_argument("--force", action="store_true", help="Clear existing graph before ingesting")
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Clear BOC database (or BOC-labeled nodes) before ingesting",
+    )
     parser.add_argument("--no-fuzzy-match", action="store_true", help="Disable fuzzy name matching (exact matches only)")
     args = parser.parse_args()
     
@@ -1369,23 +1376,15 @@ def main():
         print(f"ERROR: No episode_*.md files found in {drafts_dir}")
         sys.exit(1)
     
-    print(f"[neo4j-ingest] Connecting to {NEO4J_URI}...")
-    try:
-        driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
-        driver.verify_connectivity()
-    except Exception as e:
-        print(f"ERROR: Could not connect to Neo4j: {e}")
-        print("Make sure Neo4j is running: docker compose up -d")
-        sys.exit(1)
+    driver = connect_boc_or_exit(ensure_database=True, label="neo4j-ingest")
     
     if args.force:
-        print("[neo4j-ingest] FORCE mode: clearing graph (preserving NameCorrection nodes)...")
-        with driver.session() as session:
-            session.run("""
-                MATCH (n)
-                WHERE NOT n:NameCorrection
-                DETACH DELETE n
-            """)
+        db = database_for_project("boc")
+        print(
+            f"[neo4j-ingest] FORCE mode: clearing BOC graph in `{db}` "
+            "(label-scoped on Community; preserving NameCorrection nodes)..."
+        )
+        clear_boc_graph(driver)
     
     if fuzzy_match:
         print(f"[neo4j-ingest] Fuzzy name matching: ENABLED (use --no-fuzzy-match to disable)")
@@ -1429,7 +1428,8 @@ def main():
             traceback.print_exc()
     
     driver.close()
-    print(f"\n[neo4j-ingest] Done. View graph at http://localhost:7474")
+    print(f"\n[neo4j-ingest] Done. View graph at {browser_url_for_uri()}")
+    print(f"[neo4j-ingest] Database: {database_for_project('boc')}")
     print(f"[neo4j-ingest] Login: neo4j / openclaw")
 
 

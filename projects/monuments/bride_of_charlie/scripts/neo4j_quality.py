@@ -20,22 +20,14 @@ import os
 import sys
 from pathlib import Path
 
-try:
-    from neo4j import GraphDatabase
-except ImportError:
-    print("ERROR: neo4j driver not installed. Run: uv add neo4j")
-    sys.exit(1)
-
-NEO4J_URI = os.getenv("NEO4J_URI", "bolt://127.0.0.1:17687")
-NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "openclaw")
+from neo4j_client import connect_boc_or_exit
 
 
 class QualityMetrics:
     """Tracks quality metrics across episodes."""
     
     def __init__(self):
-        self.driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
+        self.driver = connect_boc_or_exit(label="neo4j-quality")
     
     def close(self):
         self.driver.close()

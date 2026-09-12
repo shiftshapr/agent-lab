@@ -20,23 +20,18 @@ import re
 import sys
 from pathlib import Path
 
-try:
-    from neo4j import GraphDatabase
-except ImportError:
-    print("ERROR: neo4j driver not installed. Run: uv add neo4j")
-    sys.exit(1)
-
 SCRIPT_DIR = Path(__file__).resolve().parent
 AGENT_LAB_ROOT = SCRIPT_DIR.parent
 KNOWLEDGE_DIR = AGENT_LAB_ROOT / "knowledge"
 CONTEXT_PATH = AGENT_LAB_ROOT / "data" / "shiftshapr_context.json"
 
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+
+from neo4j_platform import connect_meta, database_for_project, neo4j_uri  # noqa: E402
+
 # Default: user's Logseq graph in iCloud
 DEFAULT_LOGSEQ = Path.home() / "Library/Mobile Documents/com~apple~CloudDocs/Documents/daveed"
-
-NEO4J_URI = os.getenv("NEO4J_URI", "bolt://127.0.0.1:17687")
-NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "openclaw")
 MAX_CHARS_PER_BATCH = int(os.getenv("ENRICH_MAX_CHARS", "50000"))
 
 
@@ -684,9 +679,12 @@ def main() -> int:
     items = collect_logseq_content(logseq_dir, limit=limit, pages_only=pages_only)
     print(f"Collected {len(items)} note files from {logseq_dir}", file=sys.stderr)
 
+    print(
+        f"Connecting to {neo4j_uri()} (database: {database_for_project('meta')})...",
+        file=sys.stderr,
+    )
     try:
-        driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
-        driver.verify_connectivity()
+        driver = connect_meta(ensure_database=True)
     except Exception as e:
         print(f"Neo4j connection failed: {e}", file=sys.stderr)
         return 1

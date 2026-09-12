@@ -5,17 +5,19 @@ Provides cross-episode context to help LLM reuse nodes and maintain continuity.
 
 from __future__ import annotations
 
-import os
+import sys
+from pathlib import Path
 from typing import Any
 
-try:
-    from neo4j import GraphDatabase
-except ImportError:
-    GraphDatabase = None
+_AGENT_LAB = Path(__file__).resolve().parents[2]
+if str(_AGENT_LAB / "scripts") not in sys.path:
+    sys.path.insert(0, str(_AGENT_LAB / "scripts"))
 
-NEO4J_URI = os.getenv("NEO4J_URI")
-NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "openclaw")
+try:
+    from neo4j_platform import connect_boc, neo4j_uri
+except ImportError:
+    connect_boc = None  # type: ignore[misc, assignment]
+    neo4j_uri = lambda: None  # type: ignore[misc, assignment]
 
 
 def get_episode_context(episode_num: int) -> str:
@@ -23,12 +25,11 @@ def get_episode_context(episode_num: int) -> str:
     Get cross-episode context for the LLM.
     Returns markdown string with recurring entities and their IDs.
     """
-    if not NEO4J_URI or not GraphDatabase:
+    if not neo4j_uri() or not connect_boc:
         return ""
     
     try:
-        driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
-        driver.verify_connectivity()
+        driver = connect_boc()
     except Exception:
         return ""
     
@@ -121,12 +122,11 @@ def validate_references_realtime(
     Validate that referenced IDs exist in Neo4j.
     Returns: {missing_artifacts: [...], missing_claims: [...], missing_nodes: [...]}
     """
-    if not NEO4J_URI or not GraphDatabase:
+    if not neo4j_uri() or not connect_boc:
         return {"missing_artifacts": [], "missing_claims": [], "missing_nodes": []}
     
     try:
-        driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
-        driver.verify_connectivity()
+        driver = connect_boc()
     except Exception:
         return {"missing_artifacts": [], "missing_claims": [], "missing_nodes": []}
     
@@ -170,12 +170,11 @@ def suggest_node_for_name(name: str) -> dict | None:
     Check if a person with this name (or similar) already exists.
     Returns: {id, canonical_name, match_type} or None
     """
-    if not NEO4J_URI or not GraphDatabase:
+    if not neo4j_uri() or not connect_boc:
         return None
     
     try:
-        driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
-        driver.verify_connectivity()
+        driver = connect_boc()
     except Exception:
         return None
     

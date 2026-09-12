@@ -6,7 +6,7 @@ Usage:
     python scripts/neo4j_validate.py
 
 Environment:
-    NEO4J_URI (default: bolt://127.0.0.1:17687)
+    NEO4J_URI, NEO4J_DATABASE / NEO4J_DATABASE_BOC (default database: boc)
     NEO4J_USER (default: neo4j)
     NEO4J_PASSWORD (default: openclaw)
 """
@@ -17,19 +17,7 @@ import os
 import sys
 from pathlib import Path
 
-try:
-    from neo4j import GraphDatabase
-except ImportError:
-    print("ERROR: neo4j driver not installed. Run: uv add neo4j")
-    sys.exit(1)
-
-# ---------------------------------------------------------------------------
-# Config
-# ---------------------------------------------------------------------------
-
-NEO4J_URI = os.getenv("NEO4J_URI", "bolt://127.0.0.1:17687")
-NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "openclaw")
+from neo4j_client import connect_boc_or_exit
 
 # ---------------------------------------------------------------------------
 # Validation queries
@@ -246,14 +234,7 @@ def compute_investigative_pressure(driver):
 # ---------------------------------------------------------------------------
 
 def main():
-    print(f"[neo4j-validate] Connecting to {NEO4J_URI}...")
-    try:
-        driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
-        driver.verify_connectivity()
-    except Exception as e:
-        print(f"ERROR: Could not connect to Neo4j: {e}")
-        print("Make sure Neo4j is running: docker compose up -d")
-        sys.exit(1)
+    driver = connect_boc_or_exit(label="neo4j-validate")
     
     all_passed = run_validation(driver)
     compute_investigative_pressure(driver)

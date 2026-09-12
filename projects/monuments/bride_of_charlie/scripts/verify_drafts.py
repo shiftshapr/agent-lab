@@ -40,16 +40,16 @@ try:
 except ImportError:
     _pipeline_gates = None  # type: ignore[assignment]
 
-NEO4J_URI = os.getenv("NEO4J_URI")
-NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "openclaw")
-
-# Try to import Neo4j driver
 try:
-    from neo4j import GraphDatabase
+    from neo4j_client import connect_boc, neo4j_uri
+
     NEO4J_AVAILABLE = True
 except ImportError:
     NEO4J_AVAILABLE = False
+    connect_boc = None  # type: ignore[assignment,misc]
+
+    def neo4j_uri() -> str | None:
+        return os.getenv("NEO4J_URI")
 
 
 def load_drafts(drafts_dir: Path) -> list[tuple[str, str]]:
@@ -148,11 +148,10 @@ def extract_person_names(drafts: list[tuple[str, str]]) -> set[str]:
 
 def get_neo4j_session():
     """Get Neo4j session if available."""
-    if not NEO4J_AVAILABLE or not NEO4J_URI:
+    if not NEO4J_AVAILABLE or not neo4j_uri():
         return None
     try:
-        driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
-        driver.verify_connectivity()
+        driver = connect_boc()
         return driver.session()
     except Exception:
         return None

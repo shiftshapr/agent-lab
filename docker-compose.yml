@@ -1,29 +1,55 @@
-# Host ports 17474 / 17687 avoid clash when another runtime (e.g. OrbStack) binds 7474/7687.
+# agent-lab Neo4j platform — production + staging (no openclaw- prefix).
+# Host ports avoid clash with default 7474/7687 and other local runtimes.
+#
+# Prod:    browser http://localhost:17474  bolt://127.0.0.1:17687
+# Staging: browser http://localhost:27474  bolt://127.0.0.1:27687
+#
+# See docs/NEO4J_PLATFORM.md for databases (meta, boc, dia, pacha) and migration.
+
+x-neo4j-common: &neo4j-common
+  image: neo4j:5.18-community
+  environment: &neo4j-env
+    - NEO4J_AUTH=neo4j/openclaw
+    - NEO4J_PLUGINS=["apoc"]
+    - NEO4J_apoc_export_file_enabled=true
+    - NEO4J_apoc_import_file_enabled=true
+    - NEO4J_apoc_import_file_use__neo4j__config=true
+    - NEO4J_dbms_security_procedures_unrestricted=apoc.*
+    - NEO4J_dbms_memory_heap_initial__size=512m
+    - NEO4J_dbms_memory_heap_max__size=2G
+  restart: unless-stopped
+
 services:
-  neo4j:
-    image: neo4j:5.18-community
-    container_name: openclaw-neo4j
+  neo4j-prod:
+    <<: *neo4j-common
+    container_name: agent-lab-neo4j-prod
     ports:
-      - "17474:7474"  # HTTP (browser UI)
-      - "17687:7687"  # Bolt — use in NEO4J_URI=bolt://127.0.0.1:17687
-    environment:
-      - NEO4J_AUTH=neo4j/openclaw
-      - NEO4J_PLUGINS=["apoc"]
-      - NEO4J_apoc_export_file_enabled=true
-      - NEO4J_apoc_import_file_enabled=true
-      - NEO4J_apoc_import_file_use__neo4j__config=true
-      - NEO4J_dbms_security_procedures_unrestricted=apoc.*
-      - NEO4J_dbms_memory_heap_initial__size=512m
-      - NEO4J_dbms_memory_heap_max__size=2G
+      - "17474:7474"
+      - "17687:7687"
     volumes:
-      - neo4j_data:/data
-      - neo4j_logs:/logs
-      - neo4j_import:/var/lib/neo4j/import
-      - neo4j_plugins:/plugins
-    restart: unless-stopped
+      - neo4j_data_prod:/data
+      - neo4j_logs_prod:/logs
+      - neo4j_import_prod:/var/lib/neo4j/import
+      - neo4j_plugins_prod:/plugins
+
+  neo4j-staging:
+    <<: *neo4j-common
+    container_name: agent-lab-neo4j-staging
+    ports:
+      - "27474:7474"
+      - "27687:7687"
+    volumes:
+      - neo4j_data_staging:/data
+      - neo4j_logs_staging:/logs
+      - neo4j_import_staging:/var/lib/neo4j/import
+      - neo4j_plugins_staging:/plugins
 
 volumes:
-  neo4j_data:
-  neo4j_logs:
-  neo4j_import:
-  neo4j_plugins:
+  neo4j_data_prod:
+  neo4j_logs_prod:
+  neo4j_import_prod:
+  neo4j_plugins_prod:
+  neo4j_data_staging:
+  neo4j_logs_staging:
+  neo4j_import_staging:
+  neo4j_plugins_staging:
