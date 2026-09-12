@@ -255,6 +255,15 @@ Generated: 2026-09-12T02:45:48Z
 | A-1075.2 | A-1076.2 |
 | A-1076.1 | A-1066.1 |
 
+## Tombstone ledger (post-PR30 scrub)
+
+After dense renumber, live draft registers occupy the full C-1000..C-1114 and A-1000..A-1076 ranges. Tombstone keys in `config/retired_*_ids.json` **must not** match any live register ID — otherwise lookup resolves a live slot as “retired.” Keep entries only when:
+
+1. `old_id` is absent from live draft registers, and
+2. `survives_as` is a live ID (per maps above).
+
+PR30-era renumber maps remain authoritative history; obsolete PR28/PR30 tombstones whose keys were reused as live dense slots were scrubbed in a follow-up PR.
+
 ## Files touched
 
 - `config/retired_artifact_ids.json`
