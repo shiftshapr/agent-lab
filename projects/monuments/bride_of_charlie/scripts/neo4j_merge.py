@@ -27,35 +27,7 @@ SCRIPTS_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPTS_DIR))
 
 from neo4j_client import connect_boc_or_exit
-
-# ---------------------------------------------------------------------------
-# Fuzzy matching
-# ---------------------------------------------------------------------------
-
-def levenshtein_distance(s1: str, s2: str) -> int:
-    """Calculate Levenshtein distance between two strings."""
-    if len(s1) < len(s2):
-        return levenshtein_distance(s2, s1)
-    if len(s2) == 0:
-        return len(s1)
-    
-    previous_row = range(len(s2) + 1)
-    for i, c1 in enumerate(s1):
-        current_row = [i + 1]
-        for j, c2 in enumerate(s2):
-            insertions = previous_row[j + 1] + 1
-            deletions = current_row[j] + 1
-            substitutions = previous_row[j] + (c1 != c2)
-            current_row.append(min(insertions, deletions, substitutions))
-        previous_row = current_row
-    
-    return previous_row[-1]
-
-
-def normalize_name(name: str) -> str:
-    """Normalize name for comparison."""
-    return " ".join(name.lower().split())
-
+from neo4j_fuzzy_names import fuzzy_duplicate_distance
 
 # ---------------------------------------------------------------------------
 # Duplicate detection
@@ -76,10 +48,9 @@ def find_potential_duplicates(session, node_type: str, threshold: int = 3) -> li
         for node2 in nodes[i+1:]:
             name1 = node1["name"] or ""
             name2 = node2["name"] or ""
-            
-            distance = levenshtein_distance(normalize_name(name1), normalize_name(name2))
-            
-            if distance <= threshold:
+
+            distance = fuzzy_duplicate_distance(name1, name2, threshold=threshold)
+            if distance is not None:
                 duplicates.append({
                     "node1_id": node1["id"],
                     "node1_name": name1,
