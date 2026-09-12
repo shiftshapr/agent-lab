@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updated": "2026-09-11T16:19:22Z",
+  "version": 3,
+  "updated": "2026-09-12T19:25:02Z",
   "description": "Tombstone ledger for collapsed / legacy Person N-IDs after intro-order renumber (N-1..N-53 dense).",
   "retired": {
     "legacy-N-10": {
@@ -62,6 +62,46 @@
       "survives_as": "N-3",
       "canonical_name": "Lori Frantzve",
       "reason": "Lori Abbis Stanley merge_into N-3."
+    },
+    "legacy-N-1061": {
+      "survives_as": "N-1060",
+      "canonical_name": "Paperclip-Monarch-MK Ultra Chain Context",
+      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1061."
+    },
+    "legacy-N-1062": {
+      "survives_as": "N-1061",
+      "canonical_name": "Macron MK Ultra Lawsuit Aside",
+      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1062."
+    },
+    "legacy-N-1063": {
+      "survives_as": "N-1062",
+      "canonical_name": "Looking Glass Jewish Naming Aside",
+      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1063."
+    },
+    "legacy-N-1064": {
+      "survives_as": "N-1063",
+      "canonical_name": "Jill Kesler",
+      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1064."
+    },
+    "legacy-N-1065": {
+      "survives_as": "N-1064",
+      "canonical_name": "Susan B. Silverstein",
+      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1065."
+    },
+    "legacy-N-1066": {
+      "survives_as": "N-1065",
+      "canonical_name": "John Walton",
+      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1066."
+    },
+    "legacy-N-1067": {
+      "survives_as": "N-1066",
+      "canonical_name": "Khazar Pollock History Aside",
+      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1067."
+    },
+    "legacy-N-1060": {
+      "survives_as": "N-1067",
+      "canonical_name": "Hugo E. Salazar",
+      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1060."
     }
   }
 }

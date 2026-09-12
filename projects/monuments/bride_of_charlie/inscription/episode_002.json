@@ -10,7 +10,7 @@
     "video_timestamp_range": "00:01:00–01:02:58",
     "extraction_timestamp": "2026-09-04T23:05:38Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "58e3227d7a8009732b015b226a1aa1fd124a0dd0ac73d6c93709113ac2264a81",
+    "transcript_sha256": "b9c0ae4e686d01c942c29d239e1a6f01afb2ac57ff2591c3f5b66d81ab14e769",
     "analysis_date": "2026-09-04"
   },
   "executive_summary": "Episode 2 expands the investigation into Erika Kirk's background by introducing her father's first wife, Dr. Jerry Frantzve, and her connections to MK Ultra, the DuPont family, Quaker Oats experiments on children, and Tesseract School. The episode presents historical artifacts about Aleister Crowley and Barbara Bush's birth, and establishes links between the school, military intelligence, and psychological experimentation programs.",
@@ -35,7 +35,7 @@
           ],
           "tags": [],
           "event_timestamp": "1981",
-          "video_timestamp": "13:31–14:00",
+          "video_timestamp": "00:13:31–00:14:00",
           "transcript_snippet": "read a bit of this article from 1981...where she recounts her own history....tells us that at 14, she ran away from a...strict Mormon upbringing in Indianapolis...to get married. She says, quote, \"I was...a straight A student and was about to...get the worst mark of my life, a C in...algebra,\" Frantzve said in an interview. \"I",
           "confidence": "high"
         },
@@ -53,7 +53,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "17:40–17:58",
+          "video_timestamp": "00:17:40–00:17:58",
           "transcript_snippet": "except for that one time when Quaker...Oats was actually going into mental...institutions and force-feeding a bunch...of radioactive oats to little boys....Look at this article. This is our This...is our government. A spoonful of sugar...helps the radioactive oatmeal go down....Yes, Quaker Oats was conducting",
           "confidence": "high"
         },
@@ -71,7 +71,7 @@
           ],
           "tags": [],
           "event_timestamp": "1983",
-          "video_timestamp": "20:03–21:06",
+          "video_timestamp": "00:20:03–00:21:06",
           "transcript_snippet": "the DuPont family, becoming the director...of employee relations for DuPont because...she's so good at psychology. Uh she gets...into organizational psychology. She is...tasked effectively, I would say, with...finding the psychopaths that should head...up the corporations that are run by the...elite bloodlines. She goes into",
           "confidence": "medium"
         }
@@ -99,7 +99,7 @@
           ],
           "tags": [],
           "event_timestamp": "1983",
-          "video_timestamp": "23:33–23:55",
+          "video_timestamp": "00:23:33–00:23:55",
           "transcript_snippet": "the cover of this report really quickly....So it says that who's putting...together this report, the Center for...Gender Studies, and it lists five...names. Marjorie Weiland, George...Bourne, Richard Castor, Susan...Freedman, Jerry Frantzve. Well, not...what she doesn't communicate in this",
           "confidence": "high"
         }
@@ -125,7 +125,7 @@
           ],
           "tags": [],
           "event_timestamp": "1993-1999",
-          "video_timestamp": "29:15–29:54",
+          "video_timestamp": "00:29:15–00:29:54",
           "transcript_snippet": "Erika will be there from 1993...to 1999. We showed you this photo of her...in the first grade. Um, we also then...showed you this photo of Erika in the...second grade. Erika, by the way, I...should note uh because we got some...comments about this. She has spoken...about how her mother chopped her hair",
           "confidence": "high"
         },
@@ -145,7 +145,7 @@
           ],
           "tags": [],
           "event_timestamp": "1990s",
-          "video_timestamp": "32:05–33:00",
+          "video_timestamp": "00:32:05–00:33:00",
           "transcript_snippet": "named Phil Bliss who joins the board of...Tesseract....Okay, Phil Bliss here over there in the...corner. Phil Bliss, the board member,...was involved with Stanford University in...the 70s. I'm not going to Yes, I am. MK...Ultra, MK Ultra. Okay. He was known...widely during that time as a drug",
           "confidence": "medium"
         },
@@ -159,14 +159,14 @@
             "C-1020"
           ],
           "related_nodes": [
+            "N-1063",
             "N-1064",
             "N-1065",
-            "N-1066",
             "N-1002"
           ],
           "tags": [],
           "event_timestamp": "1990s–2000",
-          "video_timestamp": "33:30–34:42",
+          "video_timestamp": "00:33:30–00:34:42",
           "transcript_snippet": "executive director is a woman named Jill...Kesler. uh she's the executive director...above her is Susan B. Silverstein, who...is the vice president of development....John Walton, obviously, the...son of Walmart founder Sam Walton, is a...major investor and he also sits on the...board.",
           "confidence": "medium"
         }
@@ -193,7 +193,7 @@
           ],
           "tags": [],
           "event_timestamp": "2020",
-          "video_timestamp": "48:01–49:25",
+          "video_timestamp": "00:48:01–00:49:25",
           "transcript_snippet": ">> Was it after that? That's when you...started pageantss or when did that come...about?...>> Right. So, so the pageant world to me is...something that it was an interesting...season of life. It was nothing that I...was ever groomed for. It was nothing...that was ever on my radar.",
           "confidence": "high"
         },
@@ -213,7 +213,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "44:25–46:04",
+          "video_timestamp": "00:44:25–00:46:04",
           "transcript_snippet": "Turning Point USA is Tyler Bowyer. You will...recall that when I sat down with her,...and I want to let you know that ahead of...today's episode and yesterday, one of...the questions that we keep asking that...we can't get an answer is, how does...Erika Kirk know Tyler Bowyer? She...couldn't recall that in person. We can't",
           "confidence": "medium"
         }
@@ -238,7 +238,7 @@
           ],
           "tags": [],
           "event_timestamp": "1920s",
-          "video_timestamp": "04:55–05:18",
+          "video_timestamp": "00:04:55–00:05:18",
           "transcript_snippet": "historical fact, a woman by the name of...Pauline Robinson, who would eventually...after spending time with her friend...Aleister Crowley, eight and a half...months later, she gives birth to Barbara...Bush. Okay, this is just again a little...over eight and a half months after...hanging hanging out with Aleister",
           "confidence": "low"
         }
@@ -264,7 +264,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "36:33–37:33",
+          "video_timestamp": "00:36:33–00:37:33",
           "transcript_snippet": "Take a listen....John Money. He's one of the greatest...villains in history. And he is the...father of gender ideology. And he became...that by abusing two twin boys, one of...whom had his genitalia basically...destroyed in a botched circumcision....Money believed that sexuality was fluid.",
           "confidence": "high"
         }
@@ -325,7 +325,8 @@
       "related_claims": [
         "C-1012",
         "C-1013",
-        "C-1014"
+        "C-1014",
+        "C-1016"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -362,9 +363,7 @@
       "related_claims": [
         "C-1014",
         "C-1016",
-        "C-1015",
-        "C-1019",
-        "C-1020"
+        "C-1015"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -401,7 +400,8 @@
         "A-1013.1"
       ],
       "related_claims": [
-        "C-1018"
+        "C-1018",
+        "C-1017"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -620,8 +620,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-1064",
-      "ref": "N-1064",
+      "@id": "N-1063",
+      "ref": "N-1063",
       "name": "Jill Kesler",
       "type": "person",
       "description": "Executive director of Tesseract School named during episode narration",
@@ -640,8 +640,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-1065",
-      "ref": "N-1065",
+      "@id": "N-1064",
+      "ref": "N-1064",
       "name": "Susan B. Silverstein",
       "type": "person",
       "description": "Vice president of development at Tesseract; host withholds further identification pending certainty",
@@ -658,8 +658,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-1066",
-      "ref": "N-1066",
+      "@id": "N-1065",
+      "ref": "N-1065",
       "name": "John Walton",
       "type": "person",
       "description": "Son of Walmart founder Sam Walton; described as major Tesseract investor and board member",
@@ -684,9 +684,7 @@
       "type": "organization",
       "description": "US program that brought German scientists to America.",
       "related_artifacts": [],
-      "related_claims": [
-        "C-1016"
-      ],
+      "related_claims": [],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -703,9 +701,7 @@
       "type": "organization",
       "description": "Political action arm of Turning Point USA",
       "related_artifacts": [],
-      "related_claims": [
-        "C-1017"
-      ],
+      "related_claims": [],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -729,7 +725,7 @@
         "N-16"
       ],
       "tags": [],
-      "claim_timestamp": "04:55",
+      "claim_timestamp": "00:04:55",
       "investigative_direction": "Verify birth records and historical timelines",
       "transcript_snippet": "to the things that are happening today....Okay. Uh what ended up happening was...Mussolini, the evil fascist, k k k k k k...k k k k k k k k k k k k k kicked him out...of the country for being a Satanist....Fortunately for Aleister Crowley, this...didn't actually matter because he was...friends with the elites all over the",
       "confidence": "low"
@@ -748,7 +744,7 @@
         "N-1011"
       ],
       "tags": [],
-      "claim_timestamp": "13:31",
+      "claim_timestamp": "00:13:31",
       "investigative_direction": "Verify marriage records and court documents from Indiana",
       "transcript_snippet": "weird to me. I don't think a person...should be trying to normalize child...rape. Uh, or if they do, they probably...shouldn't hold any future positions of...power over children. Wouldn't you agree?...Well, I I'll let Jerry tell it. Let's...read a bit of this article from 1981...where she recounts her own history.",
       "confidence": "high"
@@ -767,7 +763,7 @@
         "N-1012"
       ],
       "tags": [],
-      "claim_timestamp": "17:40",
+      "claim_timestamp": "00:17:40",
       "investigative_direction": "Obtain primary source documents on Quaker Oats experiments",
       "transcript_snippet": "Okay, the official the official story...like I don't know. Help us sell these...oats. And if you're like me, I was...literally thinking in my head, well, at...least Quaker Oats was never involved in...any weird MK Ultra type experimentation...or anything,...except for that one time when Quaker",
       "confidence": "high"
@@ -787,7 +783,7 @@
         "N-1015"
       ],
       "tags": [],
-      "claim_timestamp": "20:03",
+      "claim_timestamp": "00:20:03",
       "investigative_direction": "Verify employment records at DuPont",
       "transcript_snippet": "the DuPont family, becoming the director...of employee relations for DuPont because...she's so good at psychology. Uh she gets...into organizational psychology. She is...tasked effectively, I would say, with...finding the psychopaths that should head...up the corporations that are run by the...elite bloodlines. She goes into",
       "confidence": "medium"
@@ -807,7 +803,7 @@
         "N-1017"
       ],
       "tags": [],
-      "claim_timestamp": "29:15",
+      "claim_timestamp": "00:29:15",
       "investigative_direction": "Obtain enrollment records from Tesseract",
       "transcript_snippet": "people that are involved very much um...you can view it as almost a a child...psychological experiment. I'm going to...introduce those individuals to you....Let's just recap. Tesseract school in...general. We've already informed you...Erika will be there from 1993...to 1999. We showed you this photo of her",
       "confidence": "high"
@@ -831,7 +827,7 @@
         "N-1013"
       ],
       "tags": [],
-      "claim_timestamp": "32:05",
+      "claim_timestamp": "00:32:05",
       "investigative_direction": "Verify personnel records and connections between individuals",
       "transcript_snippet": "named Phil Bliss who joins the board of...Tesseract....Okay, Phil Bliss here over there in the...corner. Phil Bliss, the board member,...was involved with Stanford University in...the 70s. I'm not going to Yes, I am. MK...Ultra, MK Ultra. Okay. He was known...widely during that time as a drug",
       "confidence": "medium"
@@ -853,7 +849,7 @@
         "N-1020"
       ],
       "tags": [],
-      "claim_timestamp": "44:25",
+      "claim_timestamp": "00:44:25",
       "investigative_direction": "Obtain financial records from Turning Point Action",
       "transcript_snippet": "important relationship that Erika had at...Turning Point USA is Tyler Bowyer. You will...recall that when I sat down with her,...and I want to let you know that ahead of...today's episode and yesterday, one of...the questions that we keep asking that...we can't get an answer is, how does...Erika Kirk know Tyler Bowyer? She...couldn't recall that in person. We can't",
       "confidence": "medium"
@@ -872,7 +868,7 @@
         "N-3"
       ],
       "tags": [],
-      "claim_timestamp": "48:01",
+      "claim_timestamp": "00:48:01",
       "investigative_direction": "Compare testimony from pageant contacts and family",
       "transcript_snippet": "Romania. But I do want to show you this...clip of her just kind of lying very...casually about how she got into the...pageant world. This is her discussing...that back in 2020. Take a listen....>> Was it after that? That's when you...started pageantss or when did that come...about?",
       "confidence": "high"
@@ -887,11 +883,11 @@
         "A-1012.3"
       ],
       "related_nodes": [
-        "N-1064",
+        "N-1063",
         "N-1002"
       ],
       "tags": [],
-      "claim_timestamp": "33:34",
+      "claim_timestamp": "00:33:34",
       "investigative_direction": "Verify Kesler's employment records at Tesseract School.",
       "transcript_snippet": "The person who...is going to be running the school as the...executive director is a woman named Jill...Kesler. uh she's the executive director...and um she says that she moved to...Arizona for her husband's job",
       "confidence": "medium"
@@ -906,11 +902,11 @@
         "A-1012.3"
       ],
       "related_nodes": [
-        "N-1066",
+        "N-1065",
         "N-1002"
       ],
       "tags": [],
-      "claim_timestamp": "34:34",
+      "claim_timestamp": "00:34:34",
       "investigative_direction": "Verify Walton family investment and board records for Tesseract.",
       "transcript_snippet": "I told you...already that John Walton, obviously, the...son of Walmart founder Sam Walton, is a...major investor and he also sits on the...board.",
       "confidence": "medium"

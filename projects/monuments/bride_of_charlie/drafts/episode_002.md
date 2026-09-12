@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1010-A-1015
   - Claim Range: C-1011-C-1018, C-1019, C-1020
-  - New Nodes Introduced: N-13, N-14, N-15, N-16, N-17, N-1011, N-1012, N-1013, N-1014, N-1015, N-1016, N-1017, N-1064, N-1065, N-1066
+  - New Nodes Introduced: N-13, N-14, N-15, N-16, N-17, N-1011, N-1012, N-1013, N-1014, N-1015, N-1016, N-1017, N-1063, N-1064, N-1065
   - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-1002, N-1004
 
 ## 2. Executive Summary
@@ -25,7 +25,7 @@ Episode 2 expands the investigation into Erika Kirk's background by introducing 
 
 **A-1010.1** 1981 interview article where Jerry Frantzve recounts running away at 14, marrying, altering birth certificate
 Event Timestamp: 1981
-Video Timestamp: 13:31–14:00
+Video Timestamp: 00:13:31–00:14:00
 Transcript Snippet: read a bit of this article from 1981...where she recounts her own history....tells us that at 14, she ran away from a...strict Mormon upbringing in Indianapolis...to get married. She says, quote, "I was...a straight A student and was about to...get the worst mark of my life, a C in...algebra," Frantzve said in an interview. "I
 *Related: C-1012, N-13, N-1011*
 Confidence: high
@@ -33,7 +33,7 @@ Confidence: high
 **A-1010.2** Quaker Oats radioactive experiments article
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
-Video Timestamp: 17:40–17:58
+Video Timestamp: 00:17:40–00:17:58
 Transcript Snippet: except for that one time when Quaker...Oats was actually going into mental...institutions and force-feeding a bunch...of radioactive oats to little boys....Look at this article. This is our This...is our government. A spoonful of sugar...helps the radioactive oatmeal go down....Yes, Quaker Oats was conducting
 *Related: C-1013, N-13, N-1012*
 Confidence: high
@@ -44,7 +44,7 @@ Confidence: high
 
 **A-1011.1** Radford University Center for Gender Studies report on Native Americans and Appalachian
 Event Timestamp: 1983
-Video Timestamp: 23:33–23:55
+Video Timestamp: 00:23:33–00:23:55
 Transcript Snippet: the cover of this report really quickly....So it says that who's putting...together this report, the Center for...Gender Studies, and it lists five...names. Marjorie Weiland, George...Bourne, Richard Castor, Susan...Freedman, Jerry Frantzve. Well, not...what she doesn't communicate in this
 *Related: C-1016, N-13, N-1002, N-1013, N-1016*
 Confidence: high
@@ -55,7 +55,7 @@ Confidence: high
 
 **A-1012.1** Tesseract school photos showing Erika in 1st-3rd grade
 Event Timestamp: 1993-1999
-Video Timestamp: 29:15–29:54
+Video Timestamp: 00:29:15–00:29:54
 Transcript Snippet: Erika will be there from 1993...to 1999. We showed you this photo of her...in the first grade. Um, we also then...showed you this photo of Erika in the...second grade. Erika, by the way, I...should note uh because we got some...comments about this. She has spoken...about how her mother chopped her hair
 *Related: C-1015, N-15, N-1002*
 Confidence: high
@@ -66,7 +66,7 @@ Confidence: high
 
 **A-1013.1** 2020 interview clip where Erika claims she wasn't groomed for pageants
 Event Timestamp: 2020
-Video Timestamp: 48:01–49:25
+Video Timestamp: 00:48:01–00:49:25
 Transcript Snippet: >> Was it after that? That's when you...started pageantss or when did that come...about?...>> Right. So, so the pageant world to me is...something that it was an interesting...season of life. It was nothing that I...was ever groomed for. It was nothing...that was ever on my radar.
 *Related: C-1018, C-1017, N-2, N-3*
 Confidence: high
@@ -77,7 +77,7 @@ Confidence: high
 
 **A-1014.1** Historical claim about Pauline Robinson spending time with Aleister Crowley, giving birth to Barbara Bush 8.5 months later
 Event Timestamp: 1920s
-Video Timestamp: 04:55–05:18
+Video Timestamp: 00:04:55–00:05:18
 Transcript Snippet: historical fact, a woman by the name of...Pauline Robinson, who would eventually...after spending time with her friend...Aleister Crowley, eight and a half...months later, she gives birth to Barbara...Bush. Okay, this is just again a little...over eight and a half months after...hanging hanging out with Aleister
 *Related: C-1011, N-16*
 Confidence: low
@@ -86,7 +86,7 @@ Confidence: low
 
 **A-1010.3** Jerry Frantzve DuPont employment (narration)
 Event Timestamp: 1983
-Video Timestamp: 20:03–21:06
+Video Timestamp: 00:20:03–00:21:06
 *Related: C-1014, N-13, N-1015*
 Transcript Snippet: the DuPont family, becoming the director...of employee relations for DuPont because...she's so good at psychology. Uh she gets...into organizational psychology. She is...tasked effectively, I would say, with...finding the psychopaths that should head...up the corporations that are run by the...elite bloodlines. She goes into
 Confidence: medium
@@ -95,15 +95,15 @@ Confidence: medium
 
 **A-1012.2** Phil Bliss Tesseract board / MK Ultra connection (narration)
 Event Timestamp: 1990s
-Video Timestamp: 32:05–33:00
+Video Timestamp: 00:32:05–00:33:00
 *Related: C-1016, N-15, N-1002, N-1004, N-1005*
 Transcript Snippet: named Phil Bliss who joins the board of...Tesseract....Okay, Phil Bliss here over there in the...corner. Phil Bliss, the board member,...was involved with Stanford University in...the 70s. I'm not going to Yes, I am. MK...Ultra, MK Ultra. Okay. He was known...widely during that time as a drug
 Confidence: medium
 
 **A-1012.3** Tesseract staff and board narration (Kesler, Silverstein, Walton)
 Event Timestamp: 1990s–2000
-Video Timestamp: 33:30–34:42
-*Related: C-1019, C-1020, N-1064, N-1065, N-1066, N-1002*
+Video Timestamp: 00:33:30–00:34:42
+*Related: C-1019, C-1020, N-1063, N-1064, N-1065, N-1002*
 Transcript Snippet: executive director is a woman named Jill...Kesler. uh she's the executive director...above her is Susan B. Silverstein, who...is the vice president of development....John Walton, obviously, the...son of Walmart founder Sam Walton, is a...major investor and he also sits on the...board.
 Confidence: medium
 
@@ -112,7 +112,7 @@ Confidence: medium
 **A-1013.2** Tyler Bowyer introduced Erika to Charlie (narration)
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
-Video Timestamp: 44:25–46:04
+Video Timestamp: 00:44:25–00:46:04
 *Related: C-1017, N-1, N-2, N-14, N-1014*
 Transcript Snippet: Turning Point USA is Tyler Bowyer. You will...recall that when I sat down with her,...and I want to let you know that ahead of...today's episode and yesterday, one of...the questions that we keep asking that...we can't get an answer is, how does...Erika Kirk know Tyler Bowyer? She...couldn't recall that in person. We can't
 Confidence: medium
@@ -124,7 +124,7 @@ Confidence: medium
 **A-1015.1** John Money explainer clip (gender ideology / twin experiment)
 Event Timestamp: Undated in episode source
 Event Timestamp Note: historical subject; clip shown for context without calendar date in episode.
-Video Timestamp: 36:33–37:33
+Video Timestamp: 00:36:33–00:37:33
 *Related: C-1016, N-17, N-13*
 Transcript Snippet: Take a listen....John Money. He's one of the greatest...villains in history. And he is the...father of gender ideology. And he became...that by abusing two twin boys, one of...whom had his genitalia basically...destroyed in a botched circumcision....Money believed that sexuality was fluid.
 Confidence: high
@@ -303,7 +303,7 @@ Location of Tesseract School and where Jerry/Kent lived
 
 ---
 
-**N-1064** Jill Kesler
+**N-1063** Jill Kesler
 
 Node Type: Person
 Executive director of Tesseract School named during episode narration
@@ -312,7 +312,7 @@ Executive director of Tesseract School named during episode narration
 
 ---
 
-**N-1065** Susan B. Silverstein
+**N-1064** Susan B. Silverstein
 
 Node Type: Person
 Vice president of development at Tesseract; host withholds further identification pending certainty
@@ -321,7 +321,7 @@ Vice president of development at Tesseract; host withholds further identificatio
 
 ---
 
-**N-1066** John Walton
+**N-1065** John Walton
 
 Node Type: Person
 Son of Walmart founder Sam Walton; described as major Tesseract investor and board member
@@ -337,7 +337,7 @@ Son of Walmart founder Sam Walton; described as major Tesseract investor and boa
 
 **C-1011** Crowley-Bush Connection
 
-Claim Timestamp: 04:55
+Claim Timestamp: 00:04:55
 Claim: Pauline Robinson spent time with Aleister Crowley and gave birth to Barbara Bush 8.5 months later
 Transcript Snippet: to the things that are happening today....Okay. Uh what ended up happening was...Mussolini, the evil fascist, k k k k k k...k k k k k k k k k k k k k kicked him out...of the country for being a Satanist....Fortunately for Aleister Crowley, this...didn't actually matter because he was...friends with the elites all over the
 Anchored Artifacts: A-1014.1
@@ -351,7 +351,7 @@ Investigative Direction: Verify birth records and historical timelines
 
 **C-1012** Jerry Frantzve Married at 14
 
-Claim Timestamp: 13:31
+Claim Timestamp: 00:13:31
 Claim: Jerry Frantzve ran away from strict Mormon upbringing at 14, married using forged birth certificate
 Transcript Snippet: weird to me. I don't think a person...should be trying to normalize child...rape. Uh, or if they do, they probably...shouldn't hold any future positions of...power over children. Wouldn't you agree?...Well, I I'll let Jerry tell it. Let's...read a bit of this article from 1981...where she recounts her own history.
 Anchored Artifacts: A-1010.1
@@ -365,7 +365,7 @@ Investigative Direction: Verify marriage records and court documents from Indian
 
 **C-1013** Quaker Oats Conducted Human Experiments
 
-Claim Timestamp: 17:40
+Claim Timestamp: 00:17:40
 Claim: Quaker Oats worked with Atomic Energy Commission to force-feed radioactive oats to children in mental institutions
 Transcript Snippet: Okay, the official the official story...like I don't know. Help us sell these...oats. And if you're like me, I was...literally thinking in my head, well, at...least Quaker Oats was never involved in...any weird MK Ultra type experimentation...or anything,...except for that one time when Quaker
 Anchored Artifacts: A-1010.2
@@ -379,7 +379,7 @@ Investigative Direction: Obtain primary source documents on Quaker Oats experime
 
 **C-1014** Jerry Frantzve Worked for DuPont
 
-Claim Timestamp: 20:03
+Claim Timestamp: 00:20:03
 Claim: Jerry Frantzve became director of employee relations for DuPont family after working for Quaker Oats
 Transcript Snippet: the DuPont family, becoming the director...of employee relations for DuPont because...she's so good at psychology. Uh she gets...into organizational psychology. She is...tasked effectively, I would say, with...finding the psychopaths that should head...up the corporations that are run by the...elite bloodlines. She goes into
 Anchored Artifacts: A-1010.3
@@ -393,7 +393,7 @@ Investigative Direction: Verify employment records at DuPont
 
 **C-1015** Erika Attended Tesseract School 1993-1999
 
-Claim Timestamp: 29:15
+Claim Timestamp: 00:29:15
 Claim: Erika Kirk attended Tesseract School from first grade through third grade (1993-1999)
 Transcript Snippet: people that are involved very much um...you can view it as almost a a child...psychological experiment. I'm going to...introduce those individuals to you....Let's just recap. Tesseract school in...general. We've already informed you...Erika will be there from 1993...to 1999. We showed you this photo of her
 Anchored Artifacts: A-1012.1
@@ -407,7 +407,7 @@ Investigative Direction: Obtain enrollment records from Tesseract
 
 **C-1016** Tesseract Connected to MK Ultra Personnel
 
-Claim Timestamp: 32:05
+Claim Timestamp: 00:32:05
 Claim: Tesseract board member Phil Bliss was MK Ultra-connected drug counselor; Jerry Frantzve worked with Dr. John Money
 Transcript Snippet: named Phil Bliss who joins the board of...Tesseract....Okay, Phil Bliss here over there in the...corner. Phil Bliss, the board member,...was involved with Stanford University in...the 70s. I'm not going to Yes, I am. MK...Ultra, MK Ultra. Okay. He was known...widely during that time as a drug
 Anchored Artifacts: A-1012.2, A-1015.1
@@ -421,7 +421,7 @@ Investigative Direction: Verify personnel records and connections between indivi
 
 **C-1017** Tyler Bowyer Introduced Charlie and Erika
 
-Claim Timestamp: 44:25
+Claim Timestamp: 00:44:25
 Claim: Tyler Bowyer introduced Charlie Kirk to Erika Kirk; Turning Point Action had missing millions
 Transcript Snippet: important relationship that Erika had at...Turning Point USA is Tyler Bowyer. You will...recall that when I sat down with her,...and I want to let you know that ahead of...today's episode and yesterday, one of...the questions that we keep asking that...we can't get an answer is, how does...Erika Kirk know Tyler Bowyer? She...couldn't recall that in person. We can't
 Anchored Artifacts: A-1013.2
@@ -433,7 +433,7 @@ Investigative Direction: Obtain financial records from Turning Point Action
 
 **C-1018** Erika Denies Mother Pushed Pageants
 
-Claim Timestamp: 48:01
+Claim Timestamp: 00:48:01
 Claim: Erika claims in 2020 interview she was never groomed for pageants and didn't want it, contrary to witness accounts
 Transcript Snippet: Romania. But I do want to show you this...clip of her just kind of lying very...casually about how she got into the...pageant world. This is her discussing...that back in 2020. Take a listen....>> Was it after that? That's when you...started pageantss or when did that come...about?
 Anchored Artifacts: A-1013.1
@@ -445,11 +445,11 @@ Investigative Direction: Compare testimony from pageant contacts and family
 
 **C-1019** Jill Kesler Was Tesseract Executive Director
 
-Claim Timestamp: 33:34
+Claim Timestamp: 00:33:34
 Claim: The episode presents that Jill Kesler was executive director of Tesseract School during the period discussed.
 Transcript Snippet: The person who...is going to be running the school as the...executive director is a woman named Jill...Kesler. uh she's the executive director...and um she says that she moved to...Arizona for her husband's job
 Anchored Artifacts: A-1012.3
-Related Nodes: N-1064, N-1002
+Related Nodes: N-1063, N-1002
 Confidence: medium
 Investigative Direction: Verify Kesler's employment records at Tesseract School.
 
@@ -457,11 +457,11 @@ Investigative Direction: Verify Kesler's employment records at Tesseract School.
 
 **C-1020** John Walton Was Tesseract Board Investor
 
-Claim Timestamp: 34:34
+Claim Timestamp: 00:34:34
 Claim: The episode presents that John Walton, son of Walmart founder Sam Walton, was a major investor and sat on the Tesseract board.
 Transcript Snippet: I told you...already that John Walton, obviously, the...son of Walmart founder Sam Walton, is a...major investor and he also sits on the...board.
 Anchored Artifacts: A-1012.3
-Related Nodes: N-1066, N-1002
+Related Nodes: N-1065, N-1002
 Confidence: medium
 Investigative Direction: Verify Walton family investment and board records for Tesseract.
 

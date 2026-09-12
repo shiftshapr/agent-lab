@@ -10,7 +10,7 @@
     "video_timestamp_range": "00:01:00–01:07:48",
     "extraction_timestamp": "2026-09-04T23:06:23Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "d933d98963739a72f0786a21402939bbe5ef4efb4fb6d241efae0ca65c4782a4",
+    "transcript_sha256": "a51d7f3b0a26229eb6dcfde13c7312e1983c9595356a6e43c2dfb5b752648d16",
     "analysis_date": "2026-09-04"
   },
   "executive_summary": "Episode 3 focuses on Lori Frantzve's background and her connection to the Erpenbeck family scandal. The host presents evidence that Lori has been involved with Richard Erpenbeck, who witnessed her divorce documents and was a longtime business associate. The episode details the massive Erpenbeck home-building fraud case from Ohio/Kentucky (2002-2003) involving $34 million in bank fraud, forged documents, and even murder/kidnapping plots. The host argues this connects to Lori's pattern of business associations. Additionally, the episode presents evidence challenging Erika's claims about her dating history before meeting Charlie Kirk, and discusses Erika's timeline through pageants and school records.",
@@ -37,7 +37,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "04:07–04:26",
+          "video_timestamp": "00:04:07–00:04:26",
           "transcript_snippet": "is Richard Erpenbeck. I'll show you that...here. Now, what I am blurring out on...this document is it had his address,...which allowed me to definitively confirm...which Rick Erpenbeck we were speaking...about, who is the one that actually was...the witness. Erpenbeck, by the way,...anybody that's gone through following",
           "confidence": "high"
         }
@@ -66,7 +66,7 @@
           ],
           "tags": [],
           "event_timestamp": "2003",
-          "video_timestamp": "09:35–09:56",
+          "video_timestamp": "00:09:35–00:09:56",
           "transcript_snippet": "news clip. Erpenbeck served 21 years after...pleading guilty to defrauding banks of...$34 million. That was back in April of...2003. So he was a home builder who...funneled the proceeds from home closings...back to his company and himself. So his...crimes left hundreds of home buyers on...the hook for millions of dollars in",
           "confidence": "high"
         },
@@ -87,7 +87,7 @@
           ],
           "tags": [],
           "event_timestamp": "2002-2009",
-          "video_timestamp": "10:26–13:20",
+          "video_timestamp": "00:10:26–00:13:20",
           "transcript_snippet": "Uh, check out just some snippets from...articles recapping this case. I'm going...to get to this part. Lori Anne Erpenbeck...was a standout character. Tells us...that by 2004, Lori Erpenbeck seemingly had...enough of her family. She already knew...that her brother Bill had thought about...killing her. So when dad Tony offered to",
           "confidence": "high"
         },
@@ -105,7 +105,7 @@
           ],
           "tags": [],
           "event_timestamp": "2009",
-          "video_timestamp": "17:23–17:48",
+          "video_timestamp": "00:17:23–00:17:48",
           "transcript_snippet": "scandal. Take a listen. The Erpenbeck...name was back in the news in 2009 when...FBI agents dug up a cooler full of cash...from Summit Hills Country Club in...Crestview Hills. A friend had buried...money that he received from Erpenbeck...on the course next to Erpenbeck's...former home. Erpenbeck had hoped to use",
           "confidence": "high"
         }
@@ -133,7 +133,7 @@
           ],
           "tags": [],
           "event_timestamp": "1993-1999",
-          "video_timestamp": "05:43–07:13",
+          "video_timestamp": "00:05:43–00:07:13",
           "transcript_snippet": "me take you through the litany of LLC's...that she has filed. This is Lori, which...feature Richard or Donna Erpenbeck as...either the secretary, the incorporator,...the notary across a 25y year period....Okay. Now, Lori filed for Euroch in June...of 1993. What does it do? Nobody knows....But Rick was featured. Lori and Rick",
           "confidence": "high"
         }
@@ -151,6 +151,7 @@
           "ref": "A-1019.1",
           "description": "Pageant participation records 2005-2012",
           "related_claims": [
+            "C-1018",
             "C-1027"
           ],
           "related_nodes": [
@@ -159,7 +160,7 @@
           ],
           "tags": [],
           "event_timestamp": "2005-2012",
-          "video_timestamp": "33:28–33:56",
+          "video_timestamp": "00:33:28–00:33:56",
           "transcript_snippet": ">> Okay. So it wasn't about narcissism. She...wasn't groomed. By the way, if you have...to say that you weren't groomed for...something, you probably were. You just...have to just kind of say that it's...probably because you were. And the...reality is that every single year from...2005 through to 2012, Erika was involved",
           "confidence": "high"
         },
@@ -177,7 +178,7 @@
           ],
           "tags": [],
           "event_timestamp": "2007-2008",
-          "video_timestamp": "37:45–39:32",
+          "video_timestamp": "00:37:45–00:39:32",
           "transcript_snippet": "she does that. Regis University begins...in the fall. I could find two newspaper...entries of her uh, scoring um, November...24th game and against South Dakota. And...then another entry on December 1st. And...yeah, she seemingly, if I was just...following the paper trail, I would say...she had abandoned her scholarship. And I",
           "confidence": "high"
         }
@@ -203,7 +204,7 @@
           ],
           "tags": [],
           "event_timestamp": "2020",
-          "video_timestamp": "40:45–41:28",
+          "video_timestamp": "00:40:45–00:41:28",
           "transcript_snippet": "I prayed for God to just strip my ego...from all of that stuff. All of that...world. all of the plastic hat crown...stuff with the banner that was just it...was never it was me from the standpoint...of a philanthropic side, but the...hometown hero thing was just weird and...it was unhealthy and it was just ego",
           "confidence": "high"
         },
@@ -222,7 +223,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "54:25–56:02",
+          "video_timestamp": "00:54:25–00:56:02",
           "transcript_snippet": "a 26-year-old Christian woman living in...New York City. I would like to stay here...long term, but I wonder whether it's...sustainable. Do you believe there's a...place for women like myself in modern...cities who care about having a career,...but also marrying a like-minded...Christian conservative man?",
           "confidence": "high"
         }
@@ -249,7 +250,7 @@
           ],
           "tags": [],
           "event_timestamp": "2013-2018",
-          "video_timestamp": "58:39–59:15",
+          "video_timestamp": "00:58:39–00:59:15",
           "transcript_snippet": "Charlie, Erika had multiple boyfriends....She rang in the new year with a...boyfriend. Okay. In 2018. So, yeah. No....Uh, the correct sentence should be, I...did not have a boyfriend in uh New New...York. I didn't go out to meet a...boyfriend cuz I already had one and...maybe he was living in DC or something.",
           "confidence": "high"
         },
@@ -268,7 +269,7 @@
           ],
           "tags": [],
           "event_timestamp": "2011–2016",
-          "video_timestamp": "43:56–45:16",
+          "video_timestamp": "00:43:56–00:45:16",
           "transcript_snippet": "joy. Congratulations, Terry Chris....Judith Crisp....The vibes are vibing....Now, coincidentally, and I'm going to...bring Ashley uh on in a second to...explain a little more, but I'll tell you...that Pastor Terry is very close with...Brian Houston, the Hillsong Church",
           "confidence": "medium"
         }
@@ -296,7 +297,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "00:30–01:05",
+          "video_timestamp": "00:00:30–00:01:05",
           "transcript_snippet": "Not important for today. Lori Frantzve,...despite being ill, has recently been put...on the board of Super Feed Technologies...alongside Turning Point Actions COO...Tyler Bowyer. Shady dude. They're...effectively then business partners. They...have been for a while. Actually, Lori...was at first a director over at",
           "confidence": "high"
         },
@@ -315,7 +316,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "21:15–21:42",
+          "video_timestamp": "00:21:15–00:21:42",
           "transcript_snippet": "Claims of bribery. I think I had it the...headline in Yahoo News. Kari Lakes...bribery scandal involves a shady GOP...tech firm. Yeah, they're referring to...Super Feed Technologies had its business...revoked by the state of Arizona while it...employed Jeff Dwit, its former COO, and...Lake, who had received more than",
           "confidence": "high"
         }
@@ -609,9 +610,7 @@
       "related_artifacts": [
         "A-1022.1"
       ],
-      "related_claims": [
-        "C-1021"
-      ],
+      "related_claims": [],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 0,
@@ -755,7 +754,7 @@
         "N-1020"
       ],
       "tags": [],
-      "claim_timestamp": "00:30",
+      "claim_timestamp": "00:00:30",
       "investigative_direction": "Verify corporate filings and board meeting minutes.",
       "transcript_snippet": "Now, as a part of the public...psychological campaign, Erika has been...curating videos to remind us that her...mother is very ill. I don't dispute...that. I do dispute that Erika was with...her on September 10th receiving a...treatment, but we'll get to that later....Not important for today. Lori Frantzve,",
       "confidence": "high"
@@ -773,7 +772,7 @@
         "N-2"
       ],
       "tags": [],
-      "claim_timestamp": "03:16",
+      "claim_timestamp": "00:03:16",
       "investigative_direction": "Compare birth records from multiple sources.",
       "transcript_snippet": "something wasn't right. four different...dates uh to the alleged wedding between...Lori and Kent. Uh an unnottorized child...care agreement, plus a different date...for Erika's birthday than the one...initially listed in the Cincinnati News....November 22nd across four sets of...documents, but we caution people at home",
       "confidence": "high"
@@ -794,7 +793,7 @@
         "N-1022"
       ],
       "tags": [],
-      "claim_timestamp": "04:07",
+      "claim_timestamp": "00:04:07",
       "investigative_direction": "Obtain certified copies of divorce documents.",
       "transcript_snippet": "documents. There was another person...mentioned uh someone who is listed as...the witness to these shenanigans. That's...that's how I am going to hitherto refer...to the divorce documents, the...shenanigans. And that witness, his name...is Richard Erpenbeck. I'll show you that...here. Now, what I am blurring out on",
       "confidence": "high"
@@ -815,7 +814,7 @@
         "N-1022"
       ],
       "tags": [],
-      "claim_timestamp": "04:26",
+      "claim_timestamp": "00:04:26",
       "investigative_direction": "Obtain business filings to verify Erpenbeck's roles in Lori's companies.",
       "transcript_snippet": "this document is it had his address,...which allowed me to definitively confirm...which Rick Erpenbeck we were speaking...about, who is the one that actually was...the witness. Erpenbeck, by the way,...anybody that's gone through following...any of the um people on X that have been...deep diving alongside me, you will know",
       "confidence": "high"
@@ -836,7 +835,7 @@
         "N-1022"
       ],
       "tags": [],
-      "claim_timestamp": "05:43",
+      "claim_timestamp": "00:05:43",
       "investigative_direction": "Obtain complete LLC filing history from state records.",
       "transcript_snippet": "putting together tech companies as many...people do. I am waiting for that late...stage technological brilliance to fall...upon me cuz I can barely uh sort through...my apps. I don't even know how to get to...the app store in a fast enough time. Let...me take you through the litany of LLC's...that she has filed. This is Lori, which",
       "confidence": "high"
@@ -861,7 +860,7 @@
         "N-1022"
       ],
       "tags": [],
-      "claim_timestamp": "09:35",
+      "claim_timestamp": "00:09:35",
       "investigative_direction": "Review court records from the Eastern District of Kentucky and Southern District of Ohio.",
       "transcript_snippet": "home ownership. You know, pay us...directly, we'll handle the rest, kind of...a deal. Young people buying homes for...the first time, but the homes, it turns...out, were not being built, and their...mortgages, it turned out, uh were not...being paid either. Take a listen to this...news clip. Erpenbeck served 21 years after",
       "confidence": "high"
@@ -880,7 +879,7 @@
         "N-1021"
       ],
       "tags": [],
-      "claim_timestamp": "33:43",
+      "claim_timestamp": "00:33:43",
       "investigative_direction": "Obtain pageant competition records from state and national organizations.",
       "transcript_snippet": ">> Okay. So it wasn't about narcissism. She...wasn't groomed. By the way, if you have...to say that you weren't groomed for...something, you probably were. You just...have to just kind of say that it's...probably because you were. And the...reality is that every single year from...2005 through to 2012, Erika was involved",
       "confidence": "high"
@@ -900,7 +899,7 @@
         "N-1019"
       ],
       "tags": [],
-      "claim_timestamp": "38:59",
+      "claim_timestamp": "00:38:59",
       "investigative_direction": "Request transcript records and enrollment verification from Regis University.",
       "transcript_snippet": "Oh, I'm sorry. That's they had already...filed that. It gets canceled by the tax...department. That's right. the there's so...many LLC's and so many cancellations....This one gets canceled....2008 is where it gets pretty interesting...because I was trying to find Erika's...very present and suddenly in 2008 I",
       "confidence": "high"
@@ -919,7 +918,7 @@
         "N-25"
       ],
       "tags": [],
-      "claim_timestamp": "44:10",
+      "claim_timestamp": "00:44:10",
       "investigative_direction": "Verify friendship through church records and public statements.",
       "transcript_snippet": "joy. Congratulations, Terry Chris....Judith Crisp....The vibes are vibing....Now, coincidentally, and I'm going to...bring Ashley uh on in a second to...explain a little more, but I'll tell you...that Pastor Terry is very close with...Brian Houston, the Hillsong Church",
       "confidence": "medium",
@@ -939,7 +938,7 @@
         "N-1"
       ],
       "tags": [],
-      "claim_timestamp": "54:59",
+      "claim_timestamp": "00:54:59",
       "investigative_direction": "Obtain social media records and witness testimony from NYC period.",
       "transcript_snippet": "you're looking. You know,...if you're on the apps, I don't know if...you're on the apps. I don't know if to...be I'm not going to ask you your...personal journey, but what I will say is...when I lived out here, I was here for 5...years. I never dated here because I saw...vicariously through my roommate how",
       "confidence": "high"
@@ -960,7 +959,7 @@
         "N-1023"
       ],
       "tags": [],
-      "claim_timestamp": "58:39",
+      "claim_timestamp": "00:58:39",
       "investigative_direction": "Compile social media evidence and witness accounts of relationships.",
       "transcript_snippet": "feels right to me. Her whole demeanor...there is just crazy. What What's the...purpose of that lie?...And of course, you guys, I hate to tell...you this, but the reality is is that...from 2013, 2018, the five years...preceding her relationship with Charlie,...Charlie, Erika had multiple boyfriends.",
       "confidence": "high"
