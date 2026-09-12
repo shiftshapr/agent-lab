@@ -24,8 +24,8 @@
           "description": "Divorce documents for Lori and Kent with Richard Erpenbeck as witness",
           "video_timestamp": "04:07–04:10",
           "related_claims": [
-            "C-1027",
-            "C-1028"
+            "C-1030",
+            "C-1031"
           ],
           "related_nodes": [
             "N-3",
@@ -43,7 +43,7 @@
           "description": "News clips about Erpenbeck family fraud case",
           "video_timestamp": "09:35–09:41",
           "related_claims": [
-            "C-1026"
+            "C-1029"
           ],
           "related_nodes": [
             "N-16",
@@ -70,7 +70,7 @@
           "description": "LLC filings showing Richard/Donna Erpenbeck as notary/incorporator across multiple businesses",
           "video_timestamp": "05:45–06:47",
           "related_claims": [
-            "C-1031"
+            "C-1034"
           ],
           "related_nodes": [
             "N-3",
@@ -97,7 +97,7 @@
           "description": "Deed documents from Marblehead, Massachusetts showing Lori and Kent",
           "video_timestamp": "27:59–28:24",
           "related_claims": [
-            "C-1032"
+            "C-1035"
           ],
           "related_nodes": [
             "N-2",
@@ -115,7 +115,7 @@
           "description": "Regis University basketball records showing Erika played only 2007-2008",
           "video_timestamp": "39:26–39:32",
           "related_claims": [
-            "C-1029"
+            "C-1032"
           ],
           "related_nodes": [
             "N-2"
@@ -133,7 +133,7 @@
           "description": "Erika's 2020 interview where she admits to 8-month hiatus",
           "video_timestamp": "40:45–41:29",
           "related_claims": [
-            "C-1033"
+            "C-1036"
           ],
           "related_nodes": [
             "N-2"
@@ -182,11 +182,11 @@
         "A-1017.3"
       ],
       "related_claims": [
+        "C-1035",
         "C-1032",
-        "C-1029",
-        "C-1033",
-        "C-1034",
-        "C-1035"
+        "C-1036",
+        "C-1037",
+        "C-1038"
       ],
       "tags": [
         "primary_subject"
@@ -205,11 +205,11 @@
         "A-1017.1"
       ],
       "related_claims": [
-        "C-1027",
-        "C-1028",
-        "C-1031",
         "C-1030",
-        "C-1032"
+        "C-1031",
+        "C-1034",
+        "C-1033",
+        "C-1035"
       ],
       "tags": [
         "key_figure"
@@ -228,10 +228,10 @@
         "A-1016.1"
       ],
       "related_claims": [
-        "C-1027",
-        "C-1028",
-        "C-1026",
-        "C-1031"
+        "C-1030",
+        "C-1031",
+        "C-1029",
+        "C-1034"
       ],
       "tags": [
         "witness"
@@ -245,7 +245,7 @@
       "type": "person",
       "description": "COO of Turning Point Action, business partner with Lori at Super Feed Technologies",
       "related_claims": [
-        "C-1030"
+        "C-1033"
       ],
       "tags": [
         "key_figure"
@@ -265,11 +265,11 @@
         "A-1016.1"
       ],
       "related_claims": [
-        "C-1026",
+        "C-1029",
+        "C-1034",
+        "C-1030",
         "C-1031",
-        "C-1027",
-        "C-1028",
-        "C-1030"
+        "C-1033"
       ],
       "tags": [
         "fraud_target"
@@ -288,10 +288,10 @@
         "A-1017.3"
       ],
       "related_claims": [
-        "C-1029",
-        "C-1033",
-        "C-1034",
-        "C-1035"
+        "C-1032",
+        "C-1036",
+        "C-1037",
+        "C-1038"
       ],
       "tags": [
         "discrepancy_target"
@@ -301,8 +301,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1027",
-      "ref": "C-1027",
+      "@id": "C-1030",
+      "ref": "C-1030",
       "label": "Richard Erpenbeck Witnessed Divorce Docs",
       "claim_timestamp": "04:07",
       "claim": "Richard Erpenbeck was listed as the witness on Lori and Kent's divorce documents.",
@@ -323,8 +323,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1028",
-      "ref": "C-1028",
+      "@id": "C-1031",
+      "ref": "C-1031",
       "label": "Unauthorized Notarization Pattern",
       "claim_timestamp": "13:21",
       "claim": "The divorce documents contained unauthorized notarization where signers were not present (notary: Bill Erpenbeck sometimes asked for notarizations when signers were absent, per ep3 transcript ~12:55–13:16).",
@@ -345,8 +345,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1026",
-      "ref": "C-1026",
+      "@id": "C-1029",
+      "ref": "C-1029",
       "label": "Erpenbeck Family Fraud Convictions",
       "claim_timestamp": "09:35",
       "claim": "The Erpenbeck family was involved in a massive fraud scheme defrauding banks of $34 million.",
@@ -366,8 +366,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1031",
-      "ref": "C-1031",
+      "@id": "C-1034",
+      "ref": "C-1034",
       "label": "Lori LLC Network with Erpenbeck family",
       "claim_timestamp": "05:45",
       "claim": "Lori filed multiple LLCs using Richard and Donna Erpenbeck as notary and incorporator over 25 years.",
@@ -388,8 +388,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1030",
-      "ref": "C-1030",
+      "@id": "C-1033",
+      "ref": "C-1033",
       "label": "Lori and Tyler Bowyer Business Partnership",
       "claim_timestamp": "00:34",
       "claim": "Lori Frantzve was put on the board of Super Feed Technologies alongside Tyler Bowyer, Turning Point Actions COO.",
@@ -410,8 +410,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1032",
-      "ref": "C-1032",
+      "@id": "C-1035",
+      "ref": "C-1035",
       "label": "Lori and Kent Listed as Rhode Island Couple",
       "claim_timestamp": "28:11",
       "claim": "Property deeds show Lori and Kent listing themselves as from North Kingstown, Rhode Island.",
@@ -431,8 +431,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1029",
-      "ref": "C-1029",
+      "@id": "C-1032",
+      "ref": "C-1032",
       "label": "Erika Basketball at Regis Only One Season",
       "claim_timestamp": "39:26",
       "claim": "Regis University records show Erika played basketball only for the 2007-2008 season, contradicting her claim of two years.",
@@ -452,8 +452,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1033",
-      "ref": "C-1033",
+      "@id": "C-1036",
+      "ref": "C-1036",
       "label": "Erika 8-Month Hiatus Claim",
       "claim_timestamp": "40:45",
       "claim": "Erika claims she isolated herself for 8 months after giving up her crown, seeing only her pastor's wife.",
@@ -473,8 +473,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1034",
-      "ref": "C-1034",
+      "@id": "C-1037",
+      "ref": "C-1037",
       "label": "Erika Dating History Contradiction",
       "claim_timestamp": "54:41",
       "claim": "Erika claims she didn't date anyone in NYC for 5 years before meeting Charlie, but evidence shows she had boyfriends during that period.",
@@ -494,8 +494,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1035",
-      "ref": "C-1035",
+      "@id": "C-1038",
+      "ref": "C-1038",
       "label": "Erika Pageant Timeline",
       "claim_timestamp": "33:42",
       "claim": "Erika competed in beauty pageants from 2005 through 2012, totaling seven years of pageantry.",

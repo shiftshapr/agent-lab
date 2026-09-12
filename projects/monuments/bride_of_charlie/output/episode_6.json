@@ -27,7 +27,7 @@
           "video_timestamp": "00:19–00:30",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1066"
+            "C-1069"
           ],
           "related_nodes": [
             "N-2"
@@ -56,7 +56,7 @@
           "video_timestamp": "01:44–01:51",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1067"
+            "C-1070"
           ],
           "related_nodes": [
             "N-2"
@@ -86,7 +86,7 @@
           "video_timestamp": "03:44–05:03",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1068"
+            "C-1071"
           ],
           "related_nodes": [
             "N-1020"
@@ -115,7 +115,7 @@
           "video_timestamp": "13:49–14:16",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1069"
+            "C-1072"
           ],
           "related_nodes": [
             "N-13",
@@ -145,7 +145,7 @@
           "video_timestamp": "12:24–12:35",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1070"
+            "C-1073"
           ],
           "related_nodes": [
             "N-13",
@@ -175,7 +175,7 @@
           "video_timestamp": "20:50–21:35",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1071"
+            "C-1074"
           ],
           "related_nodes": [
             "N-2",
@@ -206,7 +206,7 @@
           "video_timestamp": "21:50–22:20",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1072"
+            "C-1075"
           ],
           "related_nodes": [
             "N-2",
@@ -237,7 +237,7 @@
           "video_timestamp": "15:14–15:40",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1073"
+            "C-1076"
           ],
           "related_nodes": [
             "N-13",
@@ -267,7 +267,7 @@
           "video_timestamp": "15:58–16:08",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1074"
+            "C-1077"
           ],
           "related_nodes": [
             "N-2",
@@ -297,7 +297,7 @@
           "video_timestamp": "24:35–24:48",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1075"
+            "C-1078"
           ],
           "related_nodes": [
             "N-2"
@@ -326,7 +326,7 @@
           "video_timestamp": "26:00–27:20",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1076"
+            "C-1079"
           ],
           "related_nodes": [
             "N-2"
@@ -355,7 +355,7 @@
           "video_timestamp": "42:57–44:45",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1077"
+            "C-1080"
           ],
           "related_nodes": [
             "N-27"
@@ -414,15 +414,15 @@
         "A-1047.1"
       ],
       "related_claims": [
-        "C-1066",
-        "C-1067",
-        "C-1071",
-        "C-1072",
+        "C-1069",
+        "C-1070",
         "C-1074",
         "C-1075",
-        "C-1076",
-        "C-1080",
-        "C-1078"
+        "C-1077",
+        "C-1078",
+        "C-1079",
+        "C-1083",
+        "C-1081"
       ],
       "tags": [
         "subject",
@@ -438,7 +438,7 @@
       "description": "Assassinated founder of Turning Point USA",
       "related_artifacts": [],
       "related_claims": [
-        "C-1081"
+        "C-1087"
       ],
       "tags": [
         "key_figure",
@@ -459,12 +459,12 @@
         "A-1045.1"
       ],
       "related_claims": [
-        "C-1069",
-        "C-1070",
+        "C-1072",
         "C-1073",
-        "C-1074",
-        "C-1080",
-        "C-1083"
+        "C-1076",
+        "C-1077",
+        "C-1083",
+        "C-1089"
       ],
       "tags": [
         "key_figure"
@@ -482,7 +482,7 @@
         "A-1043.1"
       ],
       "related_claims": [
-        "C-1072"
+        "C-1075"
       ],
       "tags": [
         "military",
@@ -498,7 +498,7 @@
       "description": "Marine Colonel in Romania, accused of running brothel and trafficking children",
       "related_artifacts": [],
       "related_claims": [
-        "C-1079"
+        "C-1082"
       ],
       "tags": [
         "military",
@@ -555,8 +555,8 @@
         "A-1048.1"
       ],
       "related_claims": [
-        "C-1077",
-        "C-1081"
+        "C-1080",
+        "C-1087"
       ],
       "tags": [
         "turning_point",
@@ -572,7 +572,7 @@
       "description": "Erika's mother, runs E3 Tech/Tech International",
       "related_artifacts": [],
       "related_claims": [
-        "C-1082"
+        "C-1088"
       ],
       "tags": [
         "family"
@@ -593,14 +593,14 @@
         "A-1043.1"
       ],
       "related_claims": [
-        "C-1068",
-        "C-1069",
-        "C-1070",
         "C-1071",
         "C-1072",
-        "C-1066",
-        "C-1079",
-        "C-1083"
+        "C-1073",
+        "C-1074",
+        "C-1075",
+        "C-1069",
+        "C-1082",
+        "C-1089"
       ],
       "tags": [
         "discrepancy_target",
@@ -619,8 +619,8 @@
         "A-1041.1"
       ],
       "related_claims": [
-        "C-1069",
-        "C-1070"
+        "C-1072",
+        "C-1073"
       ],
       "tags": [
         "discrepancy_target",
@@ -636,8 +636,8 @@
       "description": "Erika claims memory lapse about meeting Tyler Bowyer",
       "related_artifacts": [],
       "related_claims": [
-        "C-1080",
-        "C-1074"
+        "C-1083",
+        "C-1077"
       ],
       "tags": [
         "discrepancy_target"
@@ -652,7 +652,7 @@
       "description": "Unclear what Tech International/E3 Tech actually does",
       "related_artifacts": [],
       "related_claims": [
-        "C-1082"
+        "C-1088"
       ],
       "tags": [
         "discrepancy_target"
@@ -669,9 +669,9 @@
         "A-1048.1"
       ],
       "related_claims": [
-        "C-1077",
-        "C-1081",
-        "C-1078"
+        "C-1080",
+        "C-1087",
+        "C-1081"
       ],
       "tags": [
         "discrepancy_target",
@@ -682,8 +682,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1066",
-      "ref": "C-1066",
+      "@id": "C-1069",
+      "ref": "C-1069",
       "label": "Erika Refused to Answer Romania Questions",
       "claim_timestamp": "00:19",
       "claim": "Email was sent to Erika on February 24th asking about Romania visits; response came from a lawyer claiming she was preparing for State of the Union",
@@ -703,8 +703,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1067",
-      "ref": "C-1067",
+      "@id": "C-1070",
+      "ref": "C-1070",
       "label": "Erika Attended Cakopa Middle School",
       "claim_timestamp": "01:19",
       "claim": "Erika attended Cakopa Middle School in Scottsdale from 2000-2003, confirmed by school tweet",
@@ -723,8 +723,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1068",
-      "ref": "C-1068",
+      "@id": "C-1071",
+      "ref": "C-1071",
       "label": "Romania Historical Context 1989",
       "claim_timestamp": "03:30",
       "claim": "Historical footage shows Ceausescu trial and execution on Christmas Day 1989",
@@ -743,8 +743,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1069",
-      "ref": "C-1069",
+      "@id": "C-1072",
+      "ref": "C-1072",
       "label": "Nevada Students in Romania 2011",
       "claim_timestamp": "13:49",
       "claim": "Article shows Nevada students from Reno going to Romania in May 2011",
@@ -765,8 +765,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1070",
-      "ref": "C-1070",
+      "@id": "C-1073",
+      "ref": "C-1073",
       "label": "Black Sea Rotational Force from Reno",
       "claim_timestamp": "12:24",
       "claim": "Black Sea Rotational Force 11 Marines trained in Romania, majority from Reno Nevada",
@@ -787,8 +787,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1071",
-      "ref": "C-1071",
+      "@id": "C-1074",
+      "ref": "C-1074",
       "label": "Erika Discussed Romania Base in Podcast",
       "claim_timestamp": "20:50",
       "claim": "Erika reflected on Romania being halfway drop-off point for troops from Afghanistan in 2020 podcast",
@@ -808,8 +808,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1072",
-      "ref": "C-1072",
+      "@id": "C-1075",
+      "ref": "C-1075",
       "label": "Erika Visited Romania in 2013",
       "claim_timestamp": "21:50",
       "claim": "Erika visited Romania in 2013 with cousin Dennis Frantzve who was part of military",
@@ -830,8 +830,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1073",
-      "ref": "C-1073",
+      "@id": "C-1076",
+      "ref": "C-1076",
       "label": "Tyler Bowyer Elected to Arizona Board of Regents",
       "claim_timestamp": "15:14",
       "claim": "Tyler Bowyer was elected by Arizona Senate as student representative to Arizona Board of Regents in April 2011",
@@ -850,8 +850,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1074",
-      "ref": "C-1074",
+      "@id": "C-1077",
+      "ref": "C-1077",
       "label": "Erika Enrolled at ASU After Tyler Elected",
       "claim_timestamp": "15:58",
       "claim": "Erika enrolled at Arizona State University for her final year immediately after Tyler Bowyer was elected to Board of Regents",
@@ -874,8 +874,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1075",
-      "ref": "C-1075",
+      "@id": "C-1078",
+      "ref": "C-1078",
       "label": "Erika Won Miss Arizona in November 2011",
       "claim_timestamp": "24:35",
       "claim": "Erika won Miss Arizona competition in November 2011, serving as Miss Arizona for 2012",
@@ -894,8 +894,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1076",
-      "ref": "C-1076",
+      "@id": "C-1079",
+      "ref": "C-1079",
       "label": "Erika Started Johnny's Locker Program",
       "claim_timestamp": "26:00",
       "claim": "Erika launched Johnny's Locker program through Everyday Heroes in February 2012",
@@ -914,8 +914,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1077",
-      "ref": "C-1077",
+      "@id": "C-1080",
+      "ref": "C-1080",
       "label": "Justin Strife at Kirkwood Shooting",
       "claim_timestamp": "42:57",
       "claim": "Justin Strife, future Turning Point COO, appeared in news clip discussing 2008 Kirkwood shooting",
@@ -935,8 +935,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1079",
-      "ref": "C-1079",
+      "@id": "C-1082",
+      "ref": "C-1082",
       "label": "Colonel Otto Busher Accusation",
       "claim_timestamp": "30:52",
       "claim": "Colonel Otto Busher, who Erika thanked on her website, was accused of running a brothel trafficking children in Romania",
@@ -955,8 +955,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1080",
-      "ref": "C-1080",
+      "@id": "C-1083",
+      "ref": "C-1083",
       "label": "Erika Cannot Remember Meeting Tyler",
       "claim_timestamp": "33:00",
       "claim": "Erika claims memory lapse about how she met Tyler Bowyer despite multiple interactions",
@@ -976,8 +976,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1078",
-      "ref": "C-1078",
+      "@id": "C-1081",
+      "ref": "C-1081",
       "label": "Erika Had Friend at Aurora Theater Shooting",
       "claim_timestamp": "29:18",
       "claim": "Erika claimed one of her best friends was in the theater during Aurora Batman shooting",
@@ -995,8 +995,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1081",
-      "ref": "C-1081",
+      "@id": "C-1087",
+      "ref": "C-1087",
       "label": "Justin Strife Became COO Days Before Assassination",
       "claim_timestamp": "40:15",
       "claim": "Justin Strife became COO of Turning Point 7 days before Charlie Kirk was assassinated",
@@ -1015,8 +1015,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1083",
-      "ref": "C-1083",
+      "@id": "C-1089",
+      "ref": "C-1089",
       "label": "Tyler Bowyer Romania Connection",
       "claim_timestamp": "02:10",
       "claim": "Tyler Bowyer was in Romania in 2010 working with Parliament",
@@ -1035,8 +1035,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1082",
-      "ref": "C-1082",
+      "@id": "C-1088",
+      "ref": "C-1088",
       "label": "E3 Tech Purpose Unclear",
       "claim_timestamp": "10:12",
       "claim": "Lori Frantzve's company E3 Tech/Tech International purpose remains unclear despite bio",
