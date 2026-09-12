@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "updated": "2026-09-12T19:34:02Z",
-  "description": "Tombstone ledger for legacy N-IDs after intro-order renumber (N-1..N-53 dense; N-1000+ Topic/Org/Place/Person append band).",
+  "updated": "2026-09-12T20:24:36Z",
+  "description": "Tombstone ledger for legacy N-IDs after intro-order renumber (N-1..N-999 Person dense; N-1000+ Topic/Org/Place only).",
   "retired": {
     "legacy-N-10": {
       "survives_as": "N-8",
@@ -74,19 +74,19 @@
       "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1062."
     },
     "legacy-N-1063": {
-      "survives_as": "N-1067",
+      "survives_as": "N-54",
       "canonical_name": "Jill Kesler",
-      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1063."
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); reclaimed to Person band N-54 (Daveed lock)."
     },
     "legacy-N-1064": {
-      "survives_as": "N-1068",
+      "survives_as": "N-55",
       "canonical_name": "Susan B. Silverstein",
-      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1064."
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); reclaimed to Person band N-55 (Daveed lock)."
     },
     "legacy-N-1065": {
-      "survives_as": "N-1069",
+      "survives_as": "N-56",
       "canonical_name": "John Walton",
-      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1065."
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); reclaimed to Person band N-56 (Daveed lock)."
     },
     "legacy-N-1066": {
       "survives_as": "N-1033",
@@ -94,9 +94,9 @@
       "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1066."
     },
     "legacy-N-1067": {
-      "survives_as": "N-1070",
+      "survives_as": "N-57",
       "canonical_name": "Hugo E. Salazar",
-      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1067."
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); reclaimed to Person band N-57 (Daveed lock)."
     },
     "legacy-N-1060": {
       "survives_as": "N-1006",
@@ -404,9 +404,9 @@
       "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1059."
     },
     "legacy-N-1068": {
-      "survives_as": "N-1071",
+      "survives_as": "N-58",
       "canonical_name": "Tracy Martin",
-      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1068."
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); reclaimed to Person band N-58 (Daveed lock)."
     },
     "legacy-N-1069": {
       "survives_as": "N-1053",
@@ -422,6 +422,31 @@
       "survives_as": "N-1057",
       "canonical_name": "Hollywood 2014 Network Speculation",
       "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1071."
+    },
+    "pr33-person-N-1067": {
+      "survives_as": "N-54",
+      "canonical_name": "Jill Kesler",
+      "reason": "PR33 misplaced Person in Topic band; reclaimed to Person band (Daveed lock)."
+    },
+    "pr33-person-N-1068": {
+      "survives_as": "N-55",
+      "canonical_name": "Susan B. Silverstein",
+      "reason": "PR33 misplaced Person in Topic band; reclaimed to Person band (Daveed lock)."
+    },
+    "pr33-person-N-1069": {
+      "survives_as": "N-56",
+      "canonical_name": "John Walton",
+      "reason": "PR33 misplaced Person in Topic band; reclaimed to Person band (Daveed lock)."
+    },
+    "pr33-person-N-1070": {
+      "survives_as": "N-57",
+      "canonical_name": "Hugo E. Salazar",
+      "reason": "PR33 misplaced Person in Topic band; reclaimed to Person band (Daveed lock)."
+    },
+    "pr33-person-N-1071": {
+      "survives_as": "N-58",
+      "canonical_name": "Tracy Martin",
+      "reason": "PR33 misplaced Person in Topic band; reclaimed to Person band (Daveed lock)."
     }
   }
 }

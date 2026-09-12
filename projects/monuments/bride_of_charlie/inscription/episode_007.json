@@ -522,9 +522,7 @@
         "C-1093",
         "C-1095",
         "C-1096",
-        "C-1097",
-        "C-1098",
-        "C-1099"
+        "C-1097"
       ],
       "tags": [],
       "evidence_count": 15,
@@ -729,8 +727,7 @@
         "A-1062.1"
       ],
       "related_claims": [
-        "C-1096",
-        "C-1099"
+        "C-1096"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -828,9 +825,7 @@
       "type": "organization",
       "description": "Political action arm of Turning Point USA",
       "related_artifacts": [],
-      "related_claims": [
-        "C-1091"
-      ],
+      "related_claims": [],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,

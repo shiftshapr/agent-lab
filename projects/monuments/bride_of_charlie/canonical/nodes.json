@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-09-12T19:51:58Z",
-  "next_person_id": 54,
+  "updated": "2026-09-12T20:24:36Z",
+  "next_person_id": 59,
   "next_investigation_id": 1072,
   "nodes": {
     "N-1": {
@@ -195,21 +195,6 @@
     "N-1020": {
       "canonical_name": "Paradise Valley, Arizona",
       "type": "place",
-      "aliases": []
-    },
-    "N-1067": {
-      "canonical_name": "Jill Kesler",
-      "type": "person",
-      "aliases": []
-    },
-    "N-1068": {
-      "canonical_name": "Susan B. Silverstein",
-      "type": "person",
-      "aliases": []
-    },
-    "N-1069": {
-      "canonical_name": "John Walton",
-      "type": "person",
       "aliases": []
     },
     "N-18": {
@@ -501,16 +486,6 @@
       "type": "organization",
       "aliases": []
     },
-    "N-1070": {
-      "canonical_name": "Hugo E. Salazar",
-      "type": "person",
-      "aliases": []
-    },
-    "N-1071": {
-      "canonical_name": "Tracy Martin",
-      "type": "person",
-      "aliases": []
-    },
     "N-1053": {
       "canonical_name": "Emerson Drive",
       "type": "organization",
@@ -636,6 +611,31 @@
     "N-1066": {
       "canonical_name": "New York City",
       "type": "place",
+      "aliases": []
+    },
+    "N-54": {
+      "canonical_name": "Jill Kesler",
+      "type": "person",
+      "aliases": []
+    },
+    "N-55": {
+      "canonical_name": "Susan B. Silverstein",
+      "type": "person",
+      "aliases": []
+    },
+    "N-56": {
+      "canonical_name": "John Walton",
+      "type": "person",
+      "aliases": []
+    },
+    "N-57": {
+      "canonical_name": "Hugo E. Salazar",
+      "type": "person",
+      "aliases": []
+    },
+    "N-58": {
+      "canonical_name": "Tracy Martin",
+      "type": "person",
       "aliases": []
     }
   }

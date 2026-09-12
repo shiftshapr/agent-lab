@@ -341,7 +341,7 @@
           ],
           "related_nodes": [
             "N-1052",
-            "N-1070"
+            "N-57"
           ],
           "tags": [],
           "event_timestamp": "1994",
@@ -368,7 +368,7 @@
           "related_nodes": [
             "N-2",
             "N-1052",
-            "N-1071"
+            "N-58"
           ],
           "tags": [],
           "event_timestamp": "June 7, 2012",
@@ -451,10 +451,7 @@
         "C-1079",
         "C-1080",
         "C-1081",
-        "C-1083",
-        "C-1084",
-        "C-1085",
-        "C-1086"
+        "C-1083"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -876,9 +873,7 @@
         "A-1052.1"
       ],
       "related_claims": [
-        "C-1071",
-        "C-1084",
-        "C-1085"
+        "C-1071"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -889,8 +884,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-1070",
-      "ref": "N-1070",
+      "@id": "N-57",
+      "ref": "N-57",
       "name": "Hugo E. Salazar",
       "type": "person",
       "description": "Major General thanked in Everyday Heroes context; 1994 joint task force narcotics exhibit shown on-screen",
@@ -911,8 +906,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-1071",
-      "ref": "N-1071",
+      "@id": "N-58",
+      "ref": "N-58",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Serial entrepreneur and life coach; 2012 handbag partnership with Everyday Heroes Like You",
@@ -1273,7 +1268,7 @@
         "A-1052.1"
       ],
       "related_nodes": [
-        "N-1070",
+        "N-57",
         "N-1052",
         "N-2"
       ],
@@ -1294,7 +1289,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1071",
+        "N-58",
         "N-1052"
       ],
       "tags": [],

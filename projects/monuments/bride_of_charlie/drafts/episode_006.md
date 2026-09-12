@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1041-A-1052, A-1053, A-1054
   - Claim Range: C-1069-C-1083, C-1084, C-1085, C-1086
-  - New Nodes Introduced: N-36, N-37, N-38, N-39, N-40, N-1042, N-41, N-42, N-1051, N-1043, N-1044, N-1045, N-1046, N-1047, N-1048, N-1049, N-1050, N-1052, N-1070, N-1071, N-1053, N-1054
+  - New Nodes Introduced: N-36, N-37, N-38, N-39, N-40, N-1042, N-41, N-42, N-1051, N-1043, N-1044, N-1045, N-1046, N-1047, N-1048, N-1049, N-1050, N-1052, N-57, N-58, N-1053, N-1054
   - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14
 
 ## 2. Executive Summary
@@ -158,7 +158,7 @@ Confidence: high
 **A-1052.1** Maj. Gen. Hugo E. Salazar 1994 JTF narcotics exhibit on-screen
 Event Timestamp: 1994
 Video Timestamp: 00:31:23–00:31:32
-*Related: C-1084, N-1052, N-1070*
+*Related: C-1084, N-1052, N-57*
 Transcript Snippet: worked in narcotics. Look at this. This...is in 1994 by the way. He's working...here. Um joint task force narcotics....It's giving Mitch Snow telling us about...Fort Wuka and how generals were working...with the cartels in 1990 got busted.
 Confidence: high
 
@@ -169,7 +169,7 @@ Confidence: high
 **A-1053.1** June 2012 Tracy Martin handbag partnership with Everyday Heroes (narration)
 Event Timestamp: June 7, 2012
 Video Timestamp: 00:28:03–00:28:30
-*Related: C-1085, N-2, N-1052, N-1071*
+*Related: C-1085, N-2, N-1052, N-58*
 Transcript Snippet: June 7th of...2012, Erika is going to team up with...that Tracy Martin. Tracy says they met...backstage and they just decided to go...into uh do some good together. There uh...Tracy's making handbags. She's what we...refer to as a serial entrepreneur, life...coach, does a little bit of everything....Every bag you buy, Everyday Heroes and...the kids are going to get $25.
 Confidence: medium
 
@@ -406,7 +406,7 @@ Erika's humanitarian organization
 
 ---
 
-**N-1070** Hugo E. Salazar
+**N-57** Hugo E. Salazar
 
 Node Type: Person
 Major General thanked in Everyday Heroes context; 1994 joint task force narcotics exhibit shown on-screen
@@ -415,7 +415,7 @@ Major General thanked in Everyday Heroes context; 1994 joint task force narcotic
 
 ---
 
-**N-1071** Tracy Martin
+**N-58** Tracy Martin
 
 Node Type: Person
 Serial entrepreneur and life coach; 2012 handbag partnership with Everyday Heroes Like You
@@ -663,7 +663,7 @@ Claim Timestamp: 00:31:23
 Claim: The episode presents that Major General Hugo E. Salazar, thanked on Erika's Everyday Heroes website, formerly worked in Arizona narcotics enforcement with a joint task force in 1994 as shown on-screen.
 Transcript Snippet: E. Salazar. Uh he was formerly...worked in narcotics. Look at this. This...is in 1994 by the way. He's working...here. Um joint task force narcotics.
 Anchored Artifacts: A-1052.1
-Related Nodes: N-1070, N-1052, N-2
+Related Nodes: N-57, N-1052, N-2
 Confidence: high
 Investigative Direction: Obtain military service records to verify Salazar's 1994 narcotics assignment.
 
@@ -675,7 +675,7 @@ Claim Timestamp: 00:28:03
 Claim: The episode presents that on June 7, 2012 Erika teamed with Tracy Martin on a handbag partnership donating $25 per bag to Everyday Heroes Like You.
 Transcript Snippet: June 7th of...2012, Erika is going to team up with...that Tracy Martin. Tracy says they met...backstage and they just decided to go...into uh do some good together....Every bag you buy, Everyday Heroes and...the kids are going to get $25.
 Anchored Artifacts: A-1053.1
-Related Nodes: N-2, N-1071, N-1052
+Related Nodes: N-2, N-58, N-1052
 Confidence: medium
 Investigative Direction: Verify handbag partnership announcements and Everyday Heroes fundraising records for June 2012.
 

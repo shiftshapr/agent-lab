@@ -518,8 +518,7 @@
         "C-1058",
         "C-1047",
         "C-1067",
-        "C-1068",
-        "C-1044"
+        "C-1068"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -554,8 +553,7 @@
         "C-1053",
         "C-1046",
         "C-1045",
-        "C-1067",
-        "C-1063"
+        "C-1067"
       ],
       "tags": [],
       "evidence_count": 8,
@@ -921,9 +919,7 @@
       "type": "person",
       "description": "Host of Bride of Charlie investigation series",
       "related_artifacts": [],
-      "related_claims": [
-        "C-1068"
-      ],
+      "related_claims": [],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -939,9 +935,7 @@
       "type": "organization",
       "description": "University where Jerry Frantzve directed gender clinic in 1983",
       "related_artifacts": [],
-      "related_claims": [
-        "C-1041"
-      ],
+      "related_claims": [],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -958,9 +952,7 @@
       "type": "organization",
       "description": "Erika's humanitarian organization",
       "related_artifacts": [],
-      "related_claims": [
-        "C-1053"
-      ],
+      "related_claims": [],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,

@@ -151,6 +151,7 @@
           "ref": "A-1019.1",
           "description": "Pageant participation records 2005-2012",
           "related_claims": [
+            "C-1018",
             "C-1027"
           ],
           "related_nodes": [
@@ -609,9 +610,7 @@
       "related_artifacts": [
         "A-1022.1"
       ],
-      "related_claims": [
-        "C-1021"
-      ],
+      "related_claims": [],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 0,

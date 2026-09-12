@@ -159,9 +159,9 @@
             "C-1020"
           ],
           "related_nodes": [
-            "N-1067",
-            "N-1068",
-            "N-1069",
+            "N-54",
+            "N-55",
+            "N-56",
             "N-1001"
           ],
           "tags": [],
@@ -325,7 +325,8 @@
       "related_claims": [
         "C-1012",
         "C-1013",
-        "C-1014"
+        "C-1014",
+        "C-1016"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -362,9 +363,7 @@
       "related_claims": [
         "C-1014",
         "C-1016",
-        "C-1015",
-        "C-1019",
-        "C-1020"
+        "C-1015"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -401,7 +400,8 @@
         "A-1013.1"
       ],
       "related_claims": [
-        "C-1018"
+        "C-1018",
+        "C-1017"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -620,8 +620,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-1067",
-      "ref": "N-1067",
+      "@id": "N-54",
+      "ref": "N-54",
       "name": "Jill Kesler",
       "type": "person",
       "description": "Executive director of Tesseract School named during episode narration",
@@ -640,8 +640,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-1068",
-      "ref": "N-1068",
+      "@id": "N-55",
+      "ref": "N-55",
       "name": "Susan B. Silverstein",
       "type": "person",
       "description": "Vice president of development at Tesseract; host withholds further identification pending certainty",
@@ -658,8 +658,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-1069",
-      "ref": "N-1069",
+      "@id": "N-56",
+      "ref": "N-56",
       "name": "John Walton",
       "type": "person",
       "description": "Son of Walmart founder Sam Walton; described as major Tesseract investor and board member",
@@ -684,9 +684,7 @@
       "type": "organization",
       "description": "US program that brought German scientists to America.",
       "related_artifacts": [],
-      "related_claims": [
-        "C-1016"
-      ],
+      "related_claims": [],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -703,9 +701,7 @@
       "type": "organization",
       "description": "Political action arm of Turning Point USA",
       "related_artifacts": [],
-      "related_claims": [
-        "C-1017"
-      ],
+      "related_claims": [],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -887,7 +883,7 @@
         "A-1012.3"
       ],
       "related_nodes": [
-        "N-1067",
+        "N-54",
         "N-1001"
       ],
       "tags": [],
@@ -906,7 +902,7 @@
         "A-1012.3"
       ],
       "related_nodes": [
-        "N-1069",
+        "N-56",
         "N-1001"
       ],
       "tags": [],

@@ -480,8 +480,7 @@
         "C-1007",
         "C-1006",
         "C-1008",
-        "C-1009",
-        "C-1010"
+        "C-1009"
       ],
       "tags": [],
       "evidence_count": 12,
@@ -500,8 +499,7 @@
         "A-1009.1"
       ],
       "related_claims": [
-        "C-1009",
-        "C-1008"
+        "C-1009"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -520,8 +518,7 @@
         "A-1009.1"
       ],
       "related_claims": [
-        "C-1008",
-        "C-1009"
+        "C-1008"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -568,7 +565,8 @@
       ],
       "related_claims": [
         "C-1001",
-        "C-1002"
+        "C-1002",
+        "C-1005"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -606,8 +604,7 @@
         "A-1005.3"
       ],
       "related_claims": [
-        "C-1004",
-        "C-1005"
+        "C-1004"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -665,8 +662,7 @@
         "A-1005.2"
       ],
       "related_claims": [
-        "C-1006",
-        "C-1010"
+        "C-1006"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -953,8 +949,7 @@
         "A-1005.1"
       ],
       "related_claims": [
-        "C-1005",
-        "C-1010"
+        "C-1005"
       ],
       "tags": [],
       "evidence_count": 1,
