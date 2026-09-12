@@ -215,7 +215,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-1047"
+            "N-1050"
           ],
           "tags": [],
           "event_timestamp": "2010",
@@ -241,7 +241,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1047"
+            "N-1050"
           ],
           "tags": [],
           "event_timestamp": "2012",
@@ -267,7 +267,7 @@
           ],
           "related_nodes": [
             "N-32",
-            "N-1047"
+            "N-1050"
           ],
           "tags": [],
           "event_timestamp": "December 2010",
@@ -294,7 +294,7 @@
           "related_nodes": [
             "N-2",
             "N-40",
-            "N-1048"
+            "N-1052"
           ],
           "tags": [],
           "event_timestamp": "Pre-2018",
@@ -356,7 +356,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1049"
+            "N-1055"
           ],
           "tags": [],
           "event_timestamp": "2014",
@@ -382,7 +382,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
@@ -430,7 +430,7 @@
           "description": "Romanian viewer comment read aloud about 1989 revolution",
           "related_claims": [],
           "related_nodes": [
-            "N-1041"
+            "N-1044"
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
@@ -455,7 +455,7 @@
             "C-1098"
           ],
           "related_nodes": [
-            "N-1071",
+            "N-1057",
             "N-2"
           ],
           "tags": [],
@@ -522,7 +522,9 @@
         "C-1093",
         "C-1095",
         "C-1096",
-        "C-1097"
+        "C-1097",
+        "C-1098",
+        "C-1099"
       ],
       "tags": [],
       "evidence_count": 15,
@@ -656,8 +658,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1047",
-      "ref": "N-1047",
+      "@id": "N-1050",
+      "ref": "N-1050",
       "name": "Arizona State University",
       "type": "organization",
       "description": "University where Erika claims to have earned degrees",
@@ -718,8 +720,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1049",
-      "ref": "N-1049",
+      "@id": "N-1055",
+      "ref": "N-1055",
       "name": "Venice, California",
       "type": "place",
       "description": "Location where Erika lived in 2014",
@@ -727,7 +729,8 @@
         "A-1062.1"
       ],
       "related_claims": [
-        "C-1096"
+        "C-1096",
+        "C-1099"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -738,8 +741,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1000",
-      "ref": "N-1000",
+      "@id": "N-1009",
+      "ref": "N-1009",
       "name": "Date of Birth Discrepancy",
       "type": "topic",
       "description": "Discrepancy in Erika's date of birth across documents",
@@ -758,8 +761,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1001",
-      "ref": "N-1001",
+      "@id": "N-1000",
+      "ref": "N-1000",
       "name": "Turning Point USA",
       "type": "organization",
       "description": "Conservative advocacy organization founded by Charlie Kirk",
@@ -779,8 +782,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1050",
-      "ref": "N-1050",
+      "@id": "N-1056",
+      "ref": "N-1056",
       "name": "Proclaim",
       "type": "organization",
       "description": "Erika's clothing company",
@@ -801,8 +804,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1071",
-      "ref": "N-1071",
+      "@id": "N-1057",
+      "ref": "N-1057",
       "name": "Hollywood 2014 Network Speculation",
       "type": "topic",
       "description": "Host speculation about Mark Burnett, Johnny Moore, Cyros company, and possible 2014 path crossings (explicit uncertainty in narration)",
@@ -819,13 +822,15 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1020",
-      "ref": "N-1020",
+      "@id": "N-1023",
+      "ref": "N-1023",
       "name": "Turning Point Action",
       "type": "organization",
       "description": "Political action arm of Turning Point USA",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1091"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -836,8 +841,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1041",
-      "ref": "N-1041",
+      "@id": "N-1044",
+      "ref": "N-1044",
       "name": "Romanian Revolution 1989",
       "type": "organization",
       "description": "Historical context of Ceaușescu execution on Christmas Day 1989",
@@ -853,8 +858,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1048",
-      "ref": "N-1048",
+      "@id": "N-1052",
+      "ref": "N-1052",
       "name": "Everyday Heroes Like You",
       "type": "organization",
       "description": "Erika's humanitarian organization",
@@ -923,7 +928,7 @@
       "related_nodes": [
         "N-2",
         "N-3",
-        "N-1050"
+        "N-1056"
       ],
       "tags": [],
       "claim_timestamp": "00:05:21",
@@ -971,8 +976,8 @@
       "related_nodes": [
         "N-2",
         "N-14",
-        "N-1001",
-        "N-1020"
+        "N-1000",
+        "N-1023"
       ],
       "tags": [],
       "claim_timestamp": "00:16:52",
@@ -991,7 +996,7 @@
       ],
       "related_nodes": [
         "N-14",
-        "N-1047"
+        "N-1050"
       ],
       "tags": [],
       "claim_timestamp": "00:26:44",
@@ -1010,7 +1015,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1047"
+        "N-1050"
       ],
       "tags": [],
       "claim_timestamp": "00:27:33",
@@ -1029,7 +1034,7 @@
       ],
       "related_nodes": [
         "N-32",
-        "N-1047"
+        "N-1050"
       ],
       "tags": [],
       "claim_timestamp": "00:29:20",
@@ -1071,7 +1076,7 @@
       "related_nodes": [
         "N-2",
         "N-44",
-        "N-1049"
+        "N-1055"
       ],
       "tags": [],
       "claim_timestamp": "00:45:19",
@@ -1091,7 +1096,7 @@
       "related_nodes": [
         "N-2",
         "N-3",
-        "N-1000"
+        "N-1009"
       ],
       "tags": [],
       "claim_timestamp": "01:00:39",
@@ -1109,7 +1114,7 @@
         "A-1066.1"
       ],
       "related_nodes": [
-        "N-1071",
+        "N-1057",
         "N-2"
       ],
       "tags": [],
@@ -1130,7 +1135,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1049"
+        "N-1055"
       ],
       "tags": [],
       "claim_timestamp": "00:51:12",

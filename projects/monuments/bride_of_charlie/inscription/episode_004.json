@@ -32,7 +32,7 @@
           "related_nodes": [
             "N-2",
             "N-4",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "January 8, 1998",
@@ -51,7 +51,7 @@
           "related_nodes": [
             "N-2",
             "N-4",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "September 10, 1998",
@@ -70,7 +70,7 @@
           "related_nodes": [
             "N-2",
             "N-4",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "November 10, 1998",
@@ -89,7 +89,7 @@
           "related_nodes": [
             "N-2",
             "N-4",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "January 1999",
@@ -108,7 +108,7 @@
           "related_nodes": [
             "N-2",
             "N-4",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "July 2004",
@@ -127,7 +127,7 @@
           "related_nodes": [
             "N-2",
             "N-4",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "2007",
@@ -155,7 +155,7 @@
             "N-2",
             "N-26",
             "N-28",
-            "N-1026"
+            "N-1028"
           ],
           "tags": [],
           "event_timestamp": "December 1, 2018",
@@ -182,7 +182,7 @@
           "related_nodes": [
             "N-3",
             "N-31",
-            "N-1025"
+            "N-1029"
           ],
           "tags": [],
           "event_timestamp": "1970",
@@ -225,7 +225,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1024"
+            "N-1027"
           ],
           "tags": [],
           "event_timestamp": "1994-1995",
@@ -243,7 +243,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1019"
+            "N-1022"
           ],
           "tags": [],
           "event_timestamp": "December 2007",
@@ -617,7 +617,9 @@
       "related_artifacts": [
         "A-1027.1"
       ],
-      "related_claims": [],
+      "related_claims": [
+        "C-1035"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 0,
@@ -645,8 +647,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1024",
-      "ref": "N-1024",
+      "@id": "N-1027",
+      "ref": "N-1027",
       "name": "St. Ursula Villa",
       "type": "organization",
       "description": "School in Cincinnati where Erika attended kindergarten",
@@ -664,8 +666,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1019",
-      "ref": "N-1019",
+      "@id": "N-1022",
+      "ref": "N-1022",
       "name": "Regis University",
       "type": "organization",
       "description": "University in Denver where Erika claims to have played basketball",
@@ -684,8 +686,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1001",
-      "ref": "N-1001",
+      "@id": "N-1000",
+      "ref": "N-1000",
       "name": "Turning Point USA",
       "type": "organization",
       "description": "Political organization founded by Charlie Kirk",
@@ -700,15 +702,17 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1026",
-      "ref": "N-1026",
+      "@id": "N-1028",
+      "ref": "N-1028",
       "name": "Universal Studios",
       "type": "organization",
       "description": "Entertainment company where Rick Erpenbeck works",
       "related_artifacts": [
         "A-1024.1"
       ],
-      "related_claims": [],
+      "related_claims": [
+        "C-1033"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 0,
@@ -718,8 +722,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1000",
-      "ref": "N-1000",
+      "@id": "N-1009",
+      "ref": "N-1009",
       "name": "Date of Birth Discrepancy",
       "type": "topic",
       "description": "Multiple court documents list Erika's birthday as November 22, 1988 instead of claimed November 20, 1988",
@@ -743,8 +747,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1025",
-      "ref": "N-1025",
+      "@id": "N-1029",
+      "ref": "N-1029",
       "name": "Lombardi Lineage Claim",
       "type": "topic",
       "description": "Charlie claims Erika is directly descended from Vince Lombardi",
@@ -764,8 +768,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1027",
-      "ref": "N-1027",
+      "@id": "N-1030",
+      "ref": "N-1030",
       "name": "Bible Study Timeline Inconsistency",
       "type": "topic",
       "description": "Erika gives conflicting accounts of when she read the Bible cover to cover",
@@ -785,8 +789,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1028",
-      "ref": "N-1028",
+      "@id": "N-1031",
+      "ref": "N-1031",
       "name": "Missing Years 2000-2002",
       "type": "topic",
       "description": "No yearbook confirmation for Erika at St. Ursula Villa for these years",
@@ -805,8 +809,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1029",
-      "ref": "N-1029",
+      "@id": "N-1032",
+      "ref": "N-1032",
       "name": "Regis University Basketball Claim",
       "type": "topic",
       "description": "Erika claims to have played basketball at Regis but team members confirm she did not",
@@ -825,8 +829,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1066",
-      "ref": "N-1066",
+      "@id": "N-1033",
+      "ref": "N-1033",
       "name": "Khazar Pollock History Aside",
       "type": "topic",
       "description": "Host narration on Khazarian empire history and Abraham Pollock book example (commentary segment; no discrete on-screen document shown)",
@@ -874,7 +878,7 @@
         "N-18",
         "N-20",
         "N-28",
-        "N-1026"
+        "N-1028"
       ],
       "tags": [],
       "claim_timestamp": "00:14:46",
@@ -899,7 +903,7 @@
       "related_nodes": [
         "N-2",
         "N-4",
-        "N-1000"
+        "N-1009"
       ],
       "tags": [],
       "claim_timestamp": "00:18:17",
@@ -922,7 +926,7 @@
         "N-3",
         "N-27",
         "N-31",
-        "N-1025"
+        "N-1029"
       ],
       "tags": [],
       "claim_timestamp": "00:36:48",
@@ -941,8 +945,8 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1024",
-        "N-1028"
+        "N-1027",
+        "N-1031"
       ],
       "tags": [],
       "claim_timestamp": "00:41:38",
@@ -961,8 +965,8 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1019",
-        "N-1029"
+        "N-1022",
+        "N-1032"
       ],
       "tags": [],
       "claim_timestamp": "00:42:33",
@@ -982,7 +986,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1027"
+        "N-1030"
       ],
       "tags": [],
       "claim_timestamp": "00:44:50",

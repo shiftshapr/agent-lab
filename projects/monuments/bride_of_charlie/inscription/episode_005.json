@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1002"
+            "N-1001"
           ],
           "tags": [],
           "event_timestamp": "1991",
@@ -58,7 +58,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1002"
+            "N-1001"
           ],
           "tags": [],
           "event_timestamp": "1995-1998",
@@ -84,7 +84,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1030"
+            "N-1034"
           ],
           "tags": [],
           "event_timestamp": "1999-12-01",
@@ -102,7 +102,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1030"
+            "N-1034"
           ],
           "tags": [],
           "event_timestamp": "1999-12-02",
@@ -120,7 +120,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1030"
+            "N-1034"
           ],
           "tags": [],
           "event_timestamp": "2003-01-09",
@@ -183,7 +183,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1031"
+            "N-1035"
           ],
           "tags": [],
           "event_timestamp": "2001",
@@ -202,7 +202,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1031"
+            "N-1035"
           ],
           "tags": [],
           "event_timestamp": "2008",
@@ -228,8 +228,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1032",
-            "N-1048"
+            "N-1036",
+            "N-1052"
           ],
           "tags": [],
           "event_timestamp": "2009-04",
@@ -255,7 +255,7 @@
             "C-1055"
           ],
           "related_nodes": [
-            "N-1033",
+            "N-1037",
             "N-14"
           ],
           "tags": [],
@@ -273,7 +273,7 @@
             "C-1059"
           ],
           "related_nodes": [
-            "N-1033",
+            "N-1037",
             "N-14"
           ],
           "tags": [],
@@ -292,8 +292,8 @@
           ],
           "related_nodes": [
             "N-13",
-            "N-1016",
-            "N-1033"
+            "N-1019",
+            "N-1037"
           ],
           "tags": [],
           "event_timestamp": "1990",
@@ -319,7 +319,7 @@
           ],
           "related_nodes": [
             "N-32",
-            "N-1033"
+            "N-1037"
           ],
           "tags": [],
           "event_timestamp": "2009",
@@ -346,7 +346,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-1033"
+            "N-1037"
           ],
           "tags": [],
           "event_timestamp": "2010",
@@ -383,7 +383,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-1033"
+            "N-1037"
           ],
           "tags": [],
           "event_timestamp": "2010",
@@ -410,7 +410,7 @@
           ],
           "related_nodes": [
             "N-18",
-            "N-1034"
+            "N-1038"
           ],
           "tags": [],
           "event_timestamp": "2009",
@@ -518,7 +518,8 @@
         "C-1058",
         "C-1047",
         "C-1067",
-        "C-1068"
+        "C-1068",
+        "C-1044"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -553,7 +554,8 @@
         "C-1053",
         "C-1046",
         "C-1045",
-        "C-1067"
+        "C-1067",
+        "C-1063"
       ],
       "tags": [],
       "evidence_count": 8,
@@ -715,8 +717,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1002",
-      "ref": "N-1002",
+      "@id": "N-1001",
+      "ref": "N-1001",
       "name": "Tesseract School",
       "type": "organization",
       "description": "Charter school formerly Looking Glass School - backed by Bush and Walton families",
@@ -737,8 +739,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1030",
-      "ref": "N-1030",
+      "@id": "N-1034",
+      "ref": "N-1034",
       "name": "Lori Frantzve Business Entities",
       "type": "organization",
       "description": "Collection of LLCs including Virtual Registration International, Intellment International, Intel of Arizona",
@@ -759,8 +761,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1031",
-      "ref": "N-1031",
+      "@id": "N-1035",
+      "ref": "N-1035",
       "name": "E3 Tech Government Contracts",
       "type": "topic",
       "description": "Lori's company E3 Tech involved with Operation Enduring Freedom and DHS contracts",
@@ -783,8 +785,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1032",
-      "ref": "N-1032",
+      "@id": "N-1036",
+      "ref": "N-1036",
       "name": "Everyday Heroes Like You Charity",
       "type": "topic",
       "description": "Charity founded by Lori in 2009 claiming to help vulnerable children",
@@ -803,8 +805,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1033",
-      "ref": "N-1033",
+      "@id": "N-1037",
+      "ref": "N-1037",
       "name": "Romania",
       "type": "place",
       "description": "Country where US established military base in 2009-2010; Jeffrey Epstein and Tyler Bowyer both visited",
@@ -832,8 +834,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1034",
-      "ref": "N-1034",
+      "@id": "N-1038",
+      "ref": "N-1038",
       "name": "Rick Erpenbeck License Revocation",
       "type": "topic",
       "description": "Investigation into why attorney Rick Erpenbeck lost his license in 2009",
@@ -853,8 +855,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1035",
-      "ref": "N-1035",
+      "@id": "N-1039",
+      "ref": "N-1039",
       "name": "Erika Kirk Missing Years 1999-2002",
       "type": "topic",
       "description": "Period where Erika's schooling cannot be verified - gap in timeline",
@@ -871,8 +873,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1036",
-      "ref": "N-1036",
+      "@id": "N-1040",
+      "ref": "N-1040",
       "name": "Operation Enduring Freedom",
       "type": "organization",
       "description": "US military operation in Afghanistan starting October 2001",
@@ -892,8 +894,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1037",
-      "ref": "N-1037",
+      "@id": "N-1041",
+      "ref": "N-1041",
       "name": "IMAT Laboratories",
       "type": "organization",
       "description": "Company associated with Lori Frantzve receiving $2.4M from Army National Guard",
@@ -919,7 +921,9 @@
       "type": "person",
       "description": "Host of Bride of Charlie investigation series",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1068"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -929,13 +933,15 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1016",
-      "ref": "N-1016",
+      "@id": "N-1019",
+      "ref": "N-1019",
       "name": "Radford University",
       "type": "organization",
       "description": "University where Jerry Frantzve directed gender clinic in 1983",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1041"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -946,13 +952,15 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1048",
-      "ref": "N-1048",
+      "@id": "N-1052",
+      "ref": "N-1052",
       "name": "Everyday Heroes Like You",
       "type": "organization",
       "description": "Erika's humanitarian organization",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1053"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -974,8 +982,8 @@
       ],
       "related_nodes": [
         "N-13",
-        "N-1016",
-        "N-1033"
+        "N-1019",
+        "N-1037"
       ],
       "tags": [],
       "claim_timestamp": "00:02:10",
@@ -994,7 +1002,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1002"
+        "N-1001"
       ],
       "tags": [],
       "claim_timestamp": "00:06:53",
@@ -1013,7 +1021,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1002"
+        "N-1001"
       ],
       "tags": [],
       "claim_timestamp": "00:07:05",
@@ -1032,7 +1040,7 @@
       ],
       "related_nodes": [
         "N-34",
-        "N-1002",
+        "N-1001",
         "N-2"
       ],
       "tags": [],
@@ -1091,7 +1099,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1035"
+        "N-1039"
       ],
       "tags": [],
       "claim_timestamp": "00:08:36",
@@ -1110,8 +1118,8 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-1031",
-        "N-1036"
+        "N-1035",
+        "N-1040"
       ],
       "tags": [],
       "claim_timestamp": "00:09:45",
@@ -1130,8 +1138,8 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-1031",
-        "N-1036"
+        "N-1035",
+        "N-1040"
       ],
       "tags": [],
       "claim_timestamp": "00:10:18",
@@ -1152,7 +1160,7 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-1030"
+        "N-1034"
       ],
       "tags": [],
       "claim_timestamp": "00:10:56",
@@ -1171,8 +1179,8 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-1031",
-        "N-1037"
+        "N-1035",
+        "N-1041"
       ],
       "tags": [],
       "claim_timestamp": "00:17:10",
@@ -1192,8 +1200,8 @@
       "related_nodes": [
         "N-2",
         "N-3",
-        "N-1031",
-        "N-1037"
+        "N-1035",
+        "N-1041"
       ],
       "tags": [],
       "claim_timestamp": "00:17:50",
@@ -1212,8 +1220,8 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-1032",
-        "N-1048"
+        "N-1036",
+        "N-1052"
       ],
       "tags": [],
       "claim_timestamp": "00:18:24",
@@ -1231,7 +1239,7 @@
         "A-1035.1"
       ],
       "related_nodes": [
-        "N-1033"
+        "N-1037"
       ],
       "tags": [],
       "claim_timestamp": "00:19:23",
@@ -1250,7 +1258,7 @@
         "A-1036.1"
       ],
       "related_nodes": [
-        "N-1033",
+        "N-1037",
         "N-32"
       ],
       "tags": [],
@@ -1270,7 +1278,7 @@
       ],
       "related_nodes": [
         "N-32",
-        "N-1033"
+        "N-1037"
       ],
       "tags": [],
       "claim_timestamp": "00:22:28",
@@ -1326,7 +1334,7 @@
         "A-1035.2"
       ],
       "related_nodes": [
-        "N-1033"
+        "N-1037"
       ],
       "tags": [],
       "claim_timestamp": "00:27:42",
@@ -1345,7 +1353,7 @@
       ],
       "related_nodes": [
         "N-14",
-        "N-1033"
+        "N-1037"
       ],
       "tags": [],
       "claim_timestamp": "00:29:38",
@@ -1364,7 +1372,7 @@
       ],
       "related_nodes": [
         "N-14",
-        "N-1033"
+        "N-1037"
       ],
       "tags": [],
       "claim_timestamp": "00:29:47",
@@ -1423,7 +1431,7 @@
       ],
       "related_nodes": [
         "N-18",
-        "N-1034"
+        "N-1038"
       ],
       "tags": [],
       "claim_timestamp": "00:36:50",
@@ -1442,7 +1450,7 @@
       ],
       "related_nodes": [
         "N-18",
-        "N-1034"
+        "N-1038"
       ],
       "tags": [],
       "claim_timestamp": "00:37:34",

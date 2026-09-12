@@ -33,7 +33,7 @@
           "related_nodes": [
             "N-3",
             "N-18",
-            "N-1022"
+            "N-1025"
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
@@ -151,7 +151,6 @@
           "ref": "A-1019.1",
           "description": "Pageant participation records 2005-2012",
           "related_claims": [
-            "C-1018",
             "C-1027"
           ],
           "related_nodes": [
@@ -174,7 +173,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1019"
+            "N-1022"
           ],
           "tags": [],
           "event_timestamp": "2007-2008",
@@ -291,9 +290,9 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1018",
+            "N-1021",
             "N-14",
-            "N-1020"
+            "N-1023"
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
@@ -312,7 +311,7 @@
           "related_nodes": [
             "N-3",
             "N-14",
-            "N-1020"
+            "N-1023"
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
@@ -522,8 +521,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1018",
-      "ref": "N-1018",
+      "@id": "N-1021",
+      "ref": "N-1021",
       "name": "Super Feed Technologies",
       "type": "organization",
       "description": "Tech company with Lori on board, associated with Turning Point Action scandal",
@@ -543,8 +542,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1019",
-      "ref": "N-1019",
+      "@id": "N-1022",
+      "ref": "N-1022",
       "name": "Regis University",
       "type": "organization",
       "description": "University in Denver where Erika had basketball scholarship",
@@ -602,15 +601,17 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1020",
-      "ref": "N-1020",
+      "@id": "N-1023",
+      "ref": "N-1023",
       "name": "Turning Point Action",
       "type": "organization",
       "description": "Political action arm of Turning Point USA",
       "related_artifacts": [
         "A-1022.1"
       ],
-      "related_claims": [],
+      "related_claims": [
+        "C-1021"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 0,
@@ -654,8 +655,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1021",
-      "ref": "N-1021",
+      "@id": "N-1024",
+      "ref": "N-1024",
       "name": "Notre Dame Prep",
       "type": "organization",
       "description": "Arizona high school formerly Tesseract School",
@@ -674,8 +675,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1002",
-      "ref": "N-1002",
+      "@id": "N-1001",
+      "ref": "N-1001",
       "name": "Tesseract School",
       "type": "organization",
       "description": "School in North Scottsdale that closed due to financial scandal",
@@ -690,8 +691,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1022",
-      "ref": "N-1022",
+      "@id": "N-1025",
+      "ref": "N-1025",
       "name": "Erpenbeck Family Connection",
       "type": "topic",
       "description": "Investigation into Lori's association with Erpenbeck family and their criminal history",
@@ -716,8 +717,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1023",
-      "ref": "N-1023",
+      "@id": "N-1026",
+      "ref": "N-1026",
       "name": "Erika Dating History Discrepancy",
       "type": "topic",
       "description": "Inconsistency between Erika's claims about dating history and evidence of multiple relationships",
@@ -749,9 +750,9 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-1018",
+        "N-1021",
         "N-14",
-        "N-1020"
+        "N-1023"
       ],
       "tags": [],
       "claim_timestamp": "00:00:30",
@@ -790,7 +791,7 @@
         "N-3",
         "N-18",
         "N-4",
-        "N-1022"
+        "N-1025"
       ],
       "tags": [],
       "claim_timestamp": "00:04:07",
@@ -811,7 +812,7 @@
       "related_nodes": [
         "N-3",
         "N-18",
-        "N-1022"
+        "N-1025"
       ],
       "tags": [],
       "claim_timestamp": "00:04:26",
@@ -832,7 +833,7 @@
         "N-3",
         "N-18",
         "N-23",
-        "N-1022"
+        "N-1025"
       ],
       "tags": [],
       "claim_timestamp": "00:05:43",
@@ -857,7 +858,7 @@
         "N-21",
         "N-22",
         "N-23",
-        "N-1022"
+        "N-1025"
       ],
       "tags": [],
       "claim_timestamp": "00:09:35",
@@ -876,7 +877,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1021"
+        "N-1024"
       ],
       "tags": [],
       "claim_timestamp": "00:33:43",
@@ -896,7 +897,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1019"
+        "N-1022"
       ],
       "tags": [],
       "claim_timestamp": "00:38:59",
@@ -956,7 +957,7 @@
       "related_nodes": [
         "N-2",
         "N-1",
-        "N-1023"
+        "N-1026"
       ],
       "tags": [],
       "claim_timestamp": "00:58:39",

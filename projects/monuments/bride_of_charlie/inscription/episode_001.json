@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "December 6, 1988",
@@ -49,7 +49,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1001"
+            "N-1000"
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
@@ -78,7 +78,7 @@
             "N-2",
             "N-4",
             "N-3",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "July 20, 1998",
@@ -97,7 +97,7 @@
           "related_nodes": [
             "N-4",
             "N-3",
-            "N-1007"
+            "N-1010"
           ],
           "tags": [],
           "event_timestamp": "1998",
@@ -116,7 +116,7 @@
           "related_nodes": [
             "N-4",
             "N-3",
-            "N-1007"
+            "N-1010"
           ],
           "tags": [],
           "event_timestamp": "November 10, 1998",
@@ -142,8 +142,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1002",
-            "N-1003"
+            "N-1001",
+            "N-1002"
           ],
           "tags": [],
           "event_timestamp": "1995–1998",
@@ -169,7 +169,7 @@
           ],
           "related_nodes": [
             "N-9",
-            "N-1010"
+            "N-1013"
           ],
           "tags": [],
           "event_timestamp": "1941",
@@ -187,7 +187,7 @@
           ],
           "related_nodes": [
             "N-9",
-            "N-1010"
+            "N-1013"
           ],
           "tags": [],
           "event_timestamp": "1944",
@@ -205,7 +205,7 @@
           ],
           "related_nodes": [
             "N-9",
-            "N-1010"
+            "N-1013"
           ],
           "tags": [],
           "event_timestamp": "1935",
@@ -231,7 +231,7 @@
           ],
           "related_nodes": [
             "N-5",
-            "N-1010"
+            "N-1013"
           ],
           "tags": [],
           "event_timestamp": "1974",
@@ -296,7 +296,7 @@
           "related_nodes": [
             "N-2",
             "N-5",
-            "N-1008"
+            "N-1011"
           ],
           "tags": [],
           "event_timestamp": "2019",
@@ -342,7 +342,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1002"
+            "N-1001"
           ],
           "tags": [],
           "event_timestamp": "1992",
@@ -369,7 +369,7 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-1008"
+            "N-1011"
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
@@ -480,7 +480,8 @@
         "C-1007",
         "C-1006",
         "C-1008",
-        "C-1009"
+        "C-1009",
+        "C-1010"
       ],
       "tags": [],
       "evidence_count": 12,
@@ -499,7 +500,8 @@
         "A-1009.1"
       ],
       "related_claims": [
-        "C-1009"
+        "C-1009",
+        "C-1008"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -518,7 +520,8 @@
         "A-1009.1"
       ],
       "related_claims": [
-        "C-1008"
+        "C-1008",
+        "C-1009"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -565,8 +568,7 @@
       ],
       "related_claims": [
         "C-1001",
-        "C-1002",
-        "C-1005"
+        "C-1002"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -604,7 +606,8 @@
         "A-1005.3"
       ],
       "related_claims": [
-        "C-1004"
+        "C-1004",
+        "C-1005"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -662,7 +665,8 @@
         "A-1005.2"
       ],
       "related_claims": [
-        "C-1006"
+        "C-1006",
+        "C-1010"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -693,8 +697,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1001",
-      "ref": "N-1001",
+      "@id": "N-1000",
+      "ref": "N-1000",
       "name": "Turning Point USA",
       "type": "organization",
       "description": "Political charity organization that pulled in over $250 million. Erika Kirk now CEO/chairman.",
@@ -711,8 +715,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1002",
-      "ref": "N-1002",
+      "@id": "N-1001",
+      "ref": "N-1001",
       "name": "Tesseract School",
       "type": "organization",
       "description": "Charter school attended by Erika Kirk in Arizona. Connected to John T. Golle, Walton family, Bush family.",
@@ -732,8 +736,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1003",
-      "ref": "N-1003",
+      "@id": "N-1002",
+      "ref": "N-1002",
       "name": "Looking Glass School",
       "type": "organization",
       "description": "Jewish school in Arizona whose building was rented by Tesseract School.",
@@ -752,8 +756,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1004",
-      "ref": "N-1004",
+      "@id": "N-1003",
+      "ref": "N-1003",
       "name": "MK Ultra",
       "type": "organization",
       "description": "CIA mind control program discussed in context of psychological manipulation.",
@@ -765,16 +769,16 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
+        "N-1004",
         "N-1005",
-        "N-1006",
-        "N-1060"
+        "N-1006"
       ],
       "organization_kind": "program_or_initiative"
     },
     {
       "@type": "Organization",
-      "@id": "N-1005",
-      "ref": "N-1005",
+      "@id": "N-1004",
+      "ref": "N-1004",
       "name": "Operation Paperclip",
       "type": "organization",
       "description": "US program that brought German scientists to America.",
@@ -786,16 +790,16 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1004",
-        "N-1006",
-        "N-1060"
+        "N-1003",
+        "N-1005",
+        "N-1006"
       ],
       "organization_kind": "program_or_initiative"
     },
     {
       "@type": "Organization",
-      "@id": "N-1006",
-      "ref": "N-1006",
+      "@id": "N-1005",
+      "ref": "N-1005",
       "name": "Project Looking Glass",
       "type": "organization",
       "description": "CIA project involving time travel technology mentioned in episode.",
@@ -809,16 +813,16 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1003",
-        "N-1060",
-        "N-1062"
+        "N-1002",
+        "N-1006",
+        "N-1008"
       ],
       "organization_kind": "program_or_initiative"
     },
     {
       "@type": "Topic",
-      "@id": "N-1060",
-      "ref": "N-1060",
+      "@id": "N-1006",
+      "ref": "N-1006",
       "name": "Paperclip-Monarch-MK Ultra Chain Context",
       "type": "topic",
       "description": "Host narration linking Operation Paperclip, Project Monarch, and MK Ultra as historical context (no discrete on-screen source in episode)",
@@ -830,16 +834,16 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
+        "N-1003",
         "N-1004",
-        "N-1005",
-        "N-1006"
+        "N-1005"
       ],
       "topic_kind": "program_reference"
     },
     {
       "@type": "Topic",
-      "@id": "N-1061",
-      "ref": "N-1061",
+      "@id": "N-1007",
+      "ref": "N-1007",
       "name": "Macron MK Ultra Lawsuit Aside",
       "type": "topic",
       "description": "Host aside referencing Emmanuel Macron suing over MK Ultra mention on Tim Dillon show (narration only)",
@@ -851,14 +855,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1004"
+        "N-1003"
       ],
       "topic_kind": "other"
     },
     {
       "@type": "Topic",
-      "@id": "N-1062",
-      "ref": "N-1062",
+      "@id": "N-1008",
+      "ref": "N-1008",
       "name": "Looking Glass Jewish Naming Aside",
       "type": "topic",
       "description": "Host aside questioning why Jewish schools use Looking Glass naming (commentary; not a documentary claim)",
@@ -870,15 +874,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1003",
-        "N-1006"
+        "N-1002",
+        "N-1005"
       ],
       "topic_kind": "other"
     },
     {
       "@type": "Topic",
-      "@id": "N-1000",
-      "ref": "N-1000",
+      "@id": "N-1009",
+      "ref": "N-1009",
       "name": "Date of Birth Discrepancy",
       "type": "topic",
       "description": "Inconsistency between Erika's claimed DOB (Nov 20, 1988) and divorce filing DOB (Nov 22, 1988)",
@@ -898,8 +902,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1007",
-      "ref": "N-1007",
+      "@id": "N-1010",
+      "ref": "N-1010",
       "name": "Marriage Date Discrepancy",
       "type": "topic",
       "description": "Multiple conflicting marriage dates for Kent and Lori Frantzve across divorce documents",
@@ -919,8 +923,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1008",
-      "ref": "N-1008",
+      "@id": "N-1011",
+      "ref": "N-1011",
       "name": "Single Mother Narrative Question",
       "type": "topic",
       "description": "Erika claims raised by single mother but father and stepfather were present throughout childhood",
@@ -940,8 +944,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1009",
-      "ref": "N-1009",
+      "@id": "N-1012",
+      "ref": "N-1012",
       "name": "Morfar-Farfar Terminology Issue",
       "type": "topic",
       "description": "Erika calls paternal grandfather morfar (mother's father) instead of farfar (father's father)",
@@ -949,7 +953,8 @@
         "A-1005.1"
       ],
       "related_claims": [
-        "C-1005"
+        "C-1005",
+        "C-1010"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -960,8 +965,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1010",
-      "ref": "N-1010",
+      "@id": "N-1013",
+      "ref": "N-1013",
       "name": "Family Gambling History",
       "type": "topic",
       "description": "Multiple family members involved in gambling industry - lottery tickets, slot machines, casinos",
@@ -995,7 +1000,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1001",
+        "N-1000",
         "N-1"
       ],
       "tags": [],
@@ -1019,7 +1024,7 @@
         "N-2",
         "N-4",
         "N-3",
-        "N-1000"
+        "N-1009"
       ],
       "tags": [],
       "claim_timestamp": "00:22:04",
@@ -1041,7 +1046,7 @@
       "related_nodes": [
         "N-4",
         "N-3",
-        "N-1007"
+        "N-1010"
       ],
       "tags": [],
       "claim_timestamp": "00:24:00",
@@ -1063,7 +1068,7 @@
       "related_nodes": [
         "N-9",
         "N-10",
-        "N-1010"
+        "N-1013"
       ],
       "tags": [],
       "claim_timestamp": "00:32:50",
@@ -1082,7 +1087,7 @@
       ],
       "related_nodes": [
         "N-5",
-        "N-1010"
+        "N-1013"
       ],
       "tags": [],
       "claim_timestamp": "00:35:15",
@@ -1107,8 +1112,8 @@
         "N-4",
         "N-5",
         "N-8",
-        "N-1008",
-        "N-1009"
+        "N-1011",
+        "N-1012"
       ],
       "tags": [],
       "claim_timestamp": "00:37:00",
@@ -1150,9 +1155,9 @@
       ],
       "related_nodes": [
         "N-2",
+        "N-1001",
         "N-1002",
-        "N-1003",
-        "N-1006"
+        "N-1005"
       ],
       "tags": [],
       "claim_timestamp": "00:53:40",
@@ -1216,7 +1221,7 @@
         "N-2",
         "N-11",
         "N-12",
-        "N-1009"
+        "N-1012"
       ],
       "tags": [],
       "claim_timestamp": "00:41:43",

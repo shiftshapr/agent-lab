@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-12T19:34:02Z",
+  "updated": "2026-09-12T19:51:58Z",
   "next_person_id": 54,
   "next_investigation_id": 1072,
   "nodes": {
@@ -14,20 +14,8 @@
       "type": "person",
       "aliases": []
     },
-    "N-3": {
-      "canonical_name": "Lori Frantzve",
-      "type": "person",
-      "aliases": [
-        "Lori Abbis Stanley"
-      ]
-    },
-    "N-4": {
-      "canonical_name": "Kent Frantzve",
-      "type": "person",
-      "aliases": []
-    },
-    "N-5": {
-      "canonical_name": "Carl Kenneth Frantzve",
+    "N-7": {
+      "canonical_name": "Candace Owens",
       "type": "person",
       "aliases": []
     },
@@ -36,13 +24,26 @@
       "type": "person",
       "aliases": []
     },
-    "N-7": {
-      "canonical_name": "Candace Owens",
+    "N-4": {
+      "canonical_name": "Kent Frantzve",
       "type": "person",
       "aliases": []
     },
+    "N-3": {
+      "canonical_name": "Lori Frantzve",
+      "type": "person",
+      "aliases": [
+        "Lori Abbas Stanley; Lori Abbis Stanley; Abbas Stanley; Abbis Stanley; Walstad; Guinta.",
+        "Lori Abbis Stanley"
+      ]
+    },
     "N-8": {
       "canonical_name": "Larry Guinta",
+      "type": "person",
+      "aliases": []
+    },
+    "N-5": {
+      "canonical_name": "Carl Kenneth Frantzve",
       "type": "person",
       "aliases": []
     },
@@ -66,13 +67,78 @@
       "type": "person",
       "aliases": []
     },
-    "N-13": {
-      "canonical_name": "Dr. Jerry Frantzve",
-      "type": "person",
+    "N-1000": {
+      "canonical_name": "Turning Point USA",
+      "type": "organization",
       "aliases": []
     },
-    "N-14": {
-      "canonical_name": "Tyler Bowyer",
+    "N-1001": {
+      "canonical_name": "Tesseract School",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1002": {
+      "canonical_name": "Looking Glass School",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1003": {
+      "canonical_name": "MK Ultra",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1004": {
+      "canonical_name": "Operation Paperclip",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1005": {
+      "canonical_name": "Project Looking Glass",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1006": {
+      "canonical_name": "Paperclip-Monarch-MK Ultra Chain Context",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1007": {
+      "canonical_name": "Macron MK Ultra Lawsuit Aside",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1008": {
+      "canonical_name": "Looking Glass Jewish Naming Aside",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1009": {
+      "canonical_name": "Date of Birth Discrepancy",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1010": {
+      "canonical_name": "Marriage Date Discrepancy",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1011": {
+      "canonical_name": "Single Mother Narrative Question",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1012": {
+      "canonical_name": "Morfar-Farfar Terminology Issue",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1013": {
+      "canonical_name": "Family Gambling History",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-13": {
+      "canonical_name": "Dr. Jerry Frantzve",
       "type": "person",
       "aliases": []
     },
@@ -86,15 +152,72 @@
       "type": "person",
       "aliases": []
     },
+    "N-14": {
+      "canonical_name": "Tyler Bowyer",
+      "type": "person",
+      "aliases": []
+    },
     "N-17": {
       "canonical_name": "John Money",
+      "type": "person",
+      "aliases": []
+    },
+    "N-1014": {
+      "canonical_name": "Jerry Frantzve Childhood Marriage",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1015": {
+      "canonical_name": "Quaker Oats Human Experiments",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1016": {
+      "canonical_name": "Tesseract Research Fraud",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1017": {
+      "canonical_name": "Turning Point USA Missing Money",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1018": {
+      "canonical_name": "DuPont Family",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1019": {
+      "canonical_name": "Radford University",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1020": {
+      "canonical_name": "Paradise Valley, Arizona",
+      "type": "place",
+      "aliases": []
+    },
+    "N-1067": {
+      "canonical_name": "Jill Kesler",
+      "type": "person",
+      "aliases": []
+    },
+    "N-1068": {
+      "canonical_name": "Susan B. Silverstein",
+      "type": "person",
+      "aliases": []
+    },
+    "N-1069": {
+      "canonical_name": "John Walton",
       "type": "person",
       "aliases": []
     },
     "N-18": {
       "canonical_name": "Richard Erpenbeck",
       "type": "person",
-      "aliases": []
+      "aliases": [
+        "Rick Erpenbeck; Rick."
+      ]
     },
     "N-19": {
       "canonical_name": "Tony Erpenbeck",
@@ -121,6 +244,21 @@
       "type": "person",
       "aliases": []
     },
+    "N-1021": {
+      "canonical_name": "Super Feed Technologies",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1022": {
+      "canonical_name": "Regis University",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1023": {
+      "canonical_name": "Turning Point Action",
+      "type": "organization",
+      "aliases": []
+    },
     "N-24": {
       "canonical_name": "Pastor Terry Crist",
       "type": "person",
@@ -131,13 +269,23 @@
       "type": "person",
       "aliases": []
     },
-    "N-26": {
-      "canonical_name": "Jack Solomon",
-      "type": "person",
+    "N-1024": {
+      "canonical_name": "Notre Dame Prep",
+      "type": "organization",
       "aliases": []
     },
-    "N-27": {
-      "canonical_name": "Vince Lombardi",
+    "N-1025": {
+      "canonical_name": "Erpenbeck Family Connection",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1026": {
+      "canonical_name": "Erika Dating History Discrepancy",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-26": {
+      "canonical_name": "Jack Solomon",
       "type": "person",
       "aliases": []
     },
@@ -156,18 +304,58 @@
       "type": "person",
       "aliases": []
     },
+    "N-27": {
+      "canonical_name": "Vince Lombardi",
+      "type": "person",
+      "aliases": []
+    },
     "N-31": {
       "canonical_name": "Angela Lombardo",
       "type": "person",
       "aliases": []
     },
-    "N-32": {
-      "canonical_name": "Jeffrey Epstein",
-      "type": "person",
+    "N-1027": {
+      "canonical_name": "St. Ursula Villa",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1028": {
+      "canonical_name": "Universal Studios",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1029": {
+      "canonical_name": "Lombardi Lineage Claim",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1030": {
+      "canonical_name": "Bible Study Timeline Inconsistency",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1031": {
+      "canonical_name": "Missing Years 2000-2002",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1032": {
+      "canonical_name": "Regis University Basketball Claim",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1033": {
+      "canonical_name": "Khazar Pollock History Aside",
+      "type": "topic",
       "aliases": []
     },
     "N-33": {
       "canonical_name": "Deborah Himil",
+      "type": "person",
+      "aliases": []
+    },
+    "N-32": {
+      "canonical_name": "Jeffrey Epstein",
       "type": "person",
       "aliases": []
     },
@@ -181,9 +369,54 @@
       "type": "person",
       "aliases": []
     },
+    "N-1034": {
+      "canonical_name": "Lori Frantzve Business Entities",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1035": {
+      "canonical_name": "E3 Tech Government Contracts",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1036": {
+      "canonical_name": "Everyday Heroes Like You Charity",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1037": {
+      "canonical_name": "Romania",
+      "type": "place",
+      "aliases": []
+    },
+    "N-1038": {
+      "canonical_name": "Rick Erpenbeck License Revocation",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1039": {
+      "canonical_name": "Erika Kirk Missing Years 1999-2002",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1040": {
+      "canonical_name": "Operation Enduring Freedom",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1041": {
+      "canonical_name": "IMAT Laboratories",
+      "type": "organization",
+      "aliases": []
+    },
     "N-36": {
       "canonical_name": "Dennis Frantzve",
       "type": "person",
+      "aliases": []
+    },
+    "N-1042": {
+      "canonical_name": "Arizona Board of Regents",
+      "type": "organization",
       "aliases": []
     },
     "N-37": {
@@ -204,7 +437,9 @@
     "N-40": {
       "canonical_name": "Justin Strife",
       "type": "person",
-      "aliases": []
+      "aliases": [
+        "Justin Stripe; Stripe."
+      ]
     },
     "N-41": {
       "canonical_name": "Charles Cookie Thornton",
@@ -216,6 +451,76 @@
       "type": "person",
       "aliases": []
     },
+    "N-1043": {
+      "canonical_name": "Cocopah Middle School",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1044": {
+      "canonical_name": "Romanian Revolution 1989",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1045": {
+      "canonical_name": "Tech International",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1046": {
+      "canonical_name": "Black Sea Rotational Force",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1047": {
+      "canonical_name": "Nevada-Romania Connection",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1048": {
+      "canonical_name": "Reno Nevada",
+      "type": "place",
+      "aliases": []
+    },
+    "N-1049": {
+      "canonical_name": "Constanta Romania",
+      "type": "place",
+      "aliases": []
+    },
+    "N-1050": {
+      "canonical_name": "Arizona State University",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1051": {
+      "canonical_name": "How Erika Met Tyler Bowyer",
+      "type": "topic",
+      "aliases": []
+    },
+    "N-1052": {
+      "canonical_name": "Everyday Heroes Like You",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1070": {
+      "canonical_name": "Hugo E. Salazar",
+      "type": "person",
+      "aliases": []
+    },
+    "N-1071": {
+      "canonical_name": "Tracy Martin",
+      "type": "person",
+      "aliases": []
+    },
+    "N-1053": {
+      "canonical_name": "Emerson Drive",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1054": {
+      "canonical_name": "Iranian War Community Notes Aside",
+      "type": "topic",
+      "aliases": []
+    },
     "N-43": {
       "canonical_name": "Josh Harelson",
       "type": "person",
@@ -224,11 +529,28 @@
     "N-44": {
       "canonical_name": "JT Massie",
       "type": "person",
-      "aliases": []
+      "aliases": [
+        "J.T. Massey; Massey."
+      ]
     },
     "N-45": {
       "canonical_name": "Tucker Carlson",
       "type": "person",
+      "aliases": []
+    },
+    "N-1055": {
+      "canonical_name": "Venice, California",
+      "type": "place",
+      "aliases": []
+    },
+    "N-1056": {
+      "canonical_name": "Proclaim",
+      "type": "organization",
+      "aliases": []
+    },
+    "N-1057": {
+      "canonical_name": "Hollywood 2014 Network Speculation",
+      "type": "topic",
       "aliases": []
     },
     "N-46": {
@@ -271,302 +593,47 @@
       "type": "person",
       "aliases": []
     },
-    "N-1000": {
-      "canonical_name": "Date of Birth Discrepancy",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1001": {
-      "canonical_name": "Turning Point USA",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1002": {
-      "canonical_name": "Tesseract School",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1003": {
-      "canonical_name": "Looking Glass School",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1004": {
-      "canonical_name": "MK Ultra",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1005": {
-      "canonical_name": "Operation Paperclip",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1006": {
-      "canonical_name": "Project Looking Glass",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1007": {
-      "canonical_name": "Marriage Date Discrepancy",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1008": {
-      "canonical_name": "Single Mother Narrative Question",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1009": {
-      "canonical_name": "Morfar-Farfar Terminology Issue",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1010": {
-      "canonical_name": "Family Gambling History",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1011": {
-      "canonical_name": "Jerry Frantzve Childhood Marriage",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1012": {
-      "canonical_name": "Quaker Oats Human Experiments",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1013": {
-      "canonical_name": "Tesseract Research Fraud",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1014": {
-      "canonical_name": "Turning Point USA Missing Money",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1015": {
-      "canonical_name": "DuPont Family",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1016": {
-      "canonical_name": "Radford University",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1017": {
-      "canonical_name": "Paradise Valley, Arizona",
-      "type": "place",
-      "aliases": []
-    },
-    "N-1018": {
-      "canonical_name": "Super Feed Technologies",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1019": {
-      "canonical_name": "Regis University",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1020": {
-      "canonical_name": "Turning Point Action",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1021": {
-      "canonical_name": "Notre Dame Prep",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1022": {
-      "canonical_name": "Erpenbeck Family Connection",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1023": {
-      "canonical_name": "Erika Dating History Discrepancy",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1024": {
-      "canonical_name": "St. Ursula Villa",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1025": {
-      "canonical_name": "Lombardi Lineage Claim",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1026": {
-      "canonical_name": "Universal Studios",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1027": {
-      "canonical_name": "Bible Study Timeline Inconsistency",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1028": {
-      "canonical_name": "Missing Years 2000-2002",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1029": {
-      "canonical_name": "Regis University Basketball Claim",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1030": {
-      "canonical_name": "Lori Frantzve Business Entities",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1031": {
-      "canonical_name": "E3 Tech Government Contracts",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1032": {
-      "canonical_name": "Everyday Heroes Like You Charity",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1033": {
-      "canonical_name": "Romania",
-      "type": "place",
-      "aliases": []
-    },
-    "N-1034": {
-      "canonical_name": "Rick Erpenbeck License Revocation",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1035": {
-      "canonical_name": "Erika Kirk Missing Years 1999-2002",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1036": {
-      "canonical_name": "Operation Enduring Freedom",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1037": {
-      "canonical_name": "IMAT Laboratories",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1038": {
-      "canonical_name": "Arizona Board of Regents",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1039": {
-      "canonical_name": "How Erika Met Tyler Bowyer",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1040": {
-      "canonical_name": "Cocopah Middle School",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1041": {
-      "canonical_name": "Romanian Revolution 1989",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1042": {
-      "canonical_name": "Tech International",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1043": {
-      "canonical_name": "Black Sea Rotational Force",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1044": {
-      "canonical_name": "Nevada-Romania Connection",
-      "type": "topic",
-      "aliases": []
-    },
-    "N-1045": {
-      "canonical_name": "Reno Nevada",
-      "type": "place",
-      "aliases": []
-    },
-    "N-1046": {
-      "canonical_name": "Constanta Romania",
-      "type": "place",
-      "aliases": []
-    },
-    "N-1047": {
-      "canonical_name": "Arizona State University",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1048": {
-      "canonical_name": "Everyday Heroes Like You",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1049": {
-      "canonical_name": "Venice, California",
-      "type": "place",
-      "aliases": []
-    },
-    "N-1050": {
-      "canonical_name": "Proclaim",
-      "type": "organization",
-      "aliases": []
-    },
-    "N-1051": {
+    "N-1058": {
       "canonical_name": "Tesseract School / Notre Dame Prep",
       "type": "organization",
       "aliases": []
     },
-    "N-1052": {
+    "N-1059": {
       "canonical_name": "Diocese of Phoenix",
       "type": "organization",
       "aliases": []
     },
-    "N-1053": {
+    "N-1060": {
       "canonical_name": "G-Tech Industries LLC",
       "type": "organization",
       "aliases": []
     },
-    "N-1054": {
+    "N-1061": {
       "canonical_name": "Feed Me Incorporated / Superfeed Technologies",
       "type": "organization",
       "aliases": []
     },
-    "N-1055": {
+    "N-1062": {
       "canonical_name": "Erika's Financial Situation 2015-2018",
       "type": "topic",
       "aliases": []
     },
-    "N-1056": {
+    "N-1063": {
       "canonical_name": "Erika's Kanye Connection",
       "type": "topic",
       "aliases": []
     },
-    "N-1057": {
+    "N-1064": {
       "canonical_name": "Bible in 365 Claim",
       "type": "topic",
       "aliases": []
     },
-    "N-1058": {
+    "N-1065": {
       "canonical_name": "Maricopa County",
       "type": "place",
       "aliases": []
     },
-    "N-1059": {
+    "N-1066": {
       "canonical_name": "New York City",
       "type": "place",
       "aliases": []

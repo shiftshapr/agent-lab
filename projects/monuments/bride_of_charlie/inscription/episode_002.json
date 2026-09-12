@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-13",
-            "N-1011"
+            "N-1014"
           ],
           "tags": [],
           "event_timestamp": "1981",
@@ -49,7 +49,7 @@
           ],
           "related_nodes": [
             "N-13",
-            "N-1012"
+            "N-1015"
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
@@ -67,7 +67,7 @@
           ],
           "related_nodes": [
             "N-13",
-            "N-1015"
+            "N-1018"
           ],
           "tags": [],
           "event_timestamp": "1983",
@@ -93,9 +93,9 @@
           ],
           "related_nodes": [
             "N-13",
-            "N-1002",
-            "N-1013",
-            "N-1016"
+            "N-1001",
+            "N-1016",
+            "N-1019"
           ],
           "tags": [],
           "event_timestamp": "1983",
@@ -121,7 +121,7 @@
           ],
           "related_nodes": [
             "N-15",
-            "N-1002"
+            "N-1001"
           ],
           "tags": [],
           "event_timestamp": "1993-1999",
@@ -139,9 +139,9 @@
           ],
           "related_nodes": [
             "N-15",
-            "N-1002",
-            "N-1004",
-            "N-1005"
+            "N-1001",
+            "N-1003",
+            "N-1004"
           ],
           "tags": [],
           "event_timestamp": "1990s",
@@ -159,10 +159,10 @@
             "C-1020"
           ],
           "related_nodes": [
-            "N-1063",
-            "N-1064",
-            "N-1065",
-            "N-1002"
+            "N-1067",
+            "N-1068",
+            "N-1069",
+            "N-1001"
           ],
           "tags": [],
           "event_timestamp": "1990s–2000",
@@ -209,7 +209,7 @@
             "N-1",
             "N-2",
             "N-14",
-            "N-1014"
+            "N-1017"
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
@@ -325,8 +325,7 @@
       "related_claims": [
         "C-1012",
         "C-1013",
-        "C-1014",
-        "C-1016"
+        "C-1014"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -351,8 +350,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1002",
-      "ref": "N-1002",
+      "@id": "N-1001",
+      "ref": "N-1001",
       "name": "Tesseract School",
       "type": "organization",
       "description": "Private school in Paradise Valley attended by Erika Kirk 1993-1999",
@@ -363,7 +362,9 @@
       "related_claims": [
         "C-1014",
         "C-1016",
-        "C-1015"
+        "C-1015",
+        "C-1019",
+        "C-1020"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -400,8 +401,7 @@
         "A-1013.1"
       ],
       "related_claims": [
-        "C-1018",
-        "C-1017"
+        "C-1018"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -466,8 +466,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1011",
-      "ref": "N-1011",
+      "@id": "N-1014",
+      "ref": "N-1014",
       "name": "Jerry Frantzve Childhood Marriage",
       "type": "topic",
       "description": "Jerry married at 14 after running away, forged documents",
@@ -486,8 +486,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1012",
-      "ref": "N-1012",
+      "@id": "N-1015",
+      "ref": "N-1015",
       "name": "Quaker Oats Human Experiments",
       "type": "topic",
       "description": "Quaker Oats conducted radioactive feeding experiments on children",
@@ -506,8 +506,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1013",
-      "ref": "N-1013",
+      "@id": "N-1016",
+      "ref": "N-1016",
       "name": "Tesseract Research Fraud",
       "type": "topic",
       "description": "Report showing Jerry included family members as researchers",
@@ -526,8 +526,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1014",
-      "ref": "N-1014",
+      "@id": "N-1017",
+      "ref": "N-1017",
       "name": "Turning Point USA Missing Money",
       "type": "topic",
       "description": "Alleged missing millions from Turning Point Action",
@@ -544,8 +544,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1004",
-      "ref": "N-1004",
+      "@id": "N-1003",
+      "ref": "N-1003",
       "name": "MK Ultra",
       "type": "organization",
       "description": "CIA mind control program active in 1950s-70s, Indiana was major hub",
@@ -562,8 +562,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1015",
-      "ref": "N-1015",
+      "@id": "N-1018",
+      "ref": "N-1018",
       "name": "DuPont Family",
       "type": "organization",
       "description": "Chemical corporation, Jerry Frantzve worked in employee relations",
@@ -582,8 +582,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1016",
-      "ref": "N-1016",
+      "@id": "N-1019",
+      "ref": "N-1019",
       "name": "Radford University",
       "type": "organization",
       "description": "University where Jerry Frantzve directed gender clinic in 1983",
@@ -600,8 +600,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1017",
-      "ref": "N-1017",
+      "@id": "N-1020",
+      "ref": "N-1020",
       "name": "Paradise Valley, Arizona",
       "type": "place",
       "description": "Location of Tesseract School and where Jerry/Kent lived",
@@ -620,8 +620,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-1063",
-      "ref": "N-1063",
+      "@id": "N-1067",
+      "ref": "N-1067",
       "name": "Jill Kesler",
       "type": "person",
       "description": "Executive director of Tesseract School named during episode narration",
@@ -635,13 +635,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1002"
+        "N-1001"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-1064",
-      "ref": "N-1064",
+      "@id": "N-1068",
+      "ref": "N-1068",
       "name": "Susan B. Silverstein",
       "type": "person",
       "description": "Vice president of development at Tesseract; host withholds further identification pending certainty",
@@ -653,13 +653,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1002"
+        "N-1001"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-1065",
-      "ref": "N-1065",
+      "@id": "N-1069",
+      "ref": "N-1069",
       "name": "John Walton",
       "type": "person",
       "description": "Son of Walmart founder Sam Walton; described as major Tesseract investor and board member",
@@ -673,18 +673,20 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1002"
+        "N-1001"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-1005",
-      "ref": "N-1005",
+      "@id": "N-1004",
+      "ref": "N-1004",
       "name": "Operation Paperclip",
       "type": "organization",
       "description": "US program that brought German scientists to America.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1016"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -695,13 +697,15 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1020",
-      "ref": "N-1020",
+      "@id": "N-1023",
+      "ref": "N-1023",
       "name": "Turning Point Action",
       "type": "organization",
       "description": "Political action arm of Turning Point USA",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1017"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -741,7 +745,7 @@
       ],
       "related_nodes": [
         "N-13",
-        "N-1011"
+        "N-1014"
       ],
       "tags": [],
       "claim_timestamp": "00:13:31",
@@ -760,7 +764,7 @@
       ],
       "related_nodes": [
         "N-13",
-        "N-1012"
+        "N-1015"
       ],
       "tags": [],
       "claim_timestamp": "00:17:40",
@@ -779,8 +783,8 @@
       ],
       "related_nodes": [
         "N-13",
-        "N-1002",
-        "N-1015"
+        "N-1001",
+        "N-1018"
       ],
       "tags": [],
       "claim_timestamp": "00:20:03",
@@ -799,8 +803,8 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1002",
-        "N-1017"
+        "N-1001",
+        "N-1020"
       ],
       "tags": [],
       "claim_timestamp": "00:29:15",
@@ -819,12 +823,12 @@
         "A-1015.1"
       ],
       "related_nodes": [
-        "N-1002",
+        "N-1001",
         "N-15",
         "N-17",
+        "N-1003",
         "N-1004",
-        "N-1005",
-        "N-1013"
+        "N-1016"
       ],
       "tags": [],
       "claim_timestamp": "00:32:05",
@@ -845,8 +849,8 @@
         "N-1",
         "N-2",
         "N-14",
-        "N-1014",
-        "N-1020"
+        "N-1017",
+        "N-1023"
       ],
       "tags": [],
       "claim_timestamp": "00:44:25",
@@ -883,8 +887,8 @@
         "A-1012.3"
       ],
       "related_nodes": [
-        "N-1063",
-        "N-1002"
+        "N-1067",
+        "N-1001"
       ],
       "tags": [],
       "claim_timestamp": "00:33:34",
@@ -902,8 +906,8 @@
         "A-1012.3"
       ],
       "related_nodes": [
-        "N-1065",
-        "N-1002"
+        "N-1069",
+        "N-1001"
       ],
       "tags": [],
       "claim_timestamp": "00:34:34",

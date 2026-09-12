@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1040"
+            "N-1043"
           ],
           "tags": [],
           "event_timestamp": "2000-2003",
@@ -56,7 +56,7 @@
             "C-1070"
           ],
           "related_nodes": [
-            "N-1041"
+            "N-1044"
           ],
           "tags": [],
           "event_timestamp": "December 25, 1989",
@@ -82,8 +82,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1042",
-            "N-1048"
+            "N-1045",
+            "N-1052"
           ],
           "tags": [],
           "event_timestamp": "circa 2010",
@@ -110,7 +110,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-1043"
+            "N-1046"
           ],
           "tags": [],
           "event_timestamp": "2011",
@@ -135,8 +135,8 @@
             "C-1073"
           ],
           "related_nodes": [
-            "N-1043",
-            "N-1044"
+            "N-1046",
+            "N-1047"
           ],
           "tags": [],
           "event_timestamp": "May 4, 2011",
@@ -164,7 +164,7 @@
           "related_nodes": [
             "N-14",
             "N-1",
-            "N-1038"
+            "N-1042"
           ],
           "tags": [],
           "event_timestamp": "April 2011",
@@ -263,7 +263,7 @@
           "related_nodes": [
             "N-2",
             "N-14",
-            "N-1039"
+            "N-1051"
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
@@ -340,8 +340,8 @@
             "C-1084"
           ],
           "related_nodes": [
-            "N-1048",
-            "N-1067"
+            "N-1052",
+            "N-1070"
           ],
           "tags": [],
           "event_timestamp": "1994",
@@ -367,8 +367,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1048",
-            "N-1068"
+            "N-1052",
+            "N-1071"
           ],
           "tags": [],
           "event_timestamp": "June 7, 2012",
@@ -451,7 +451,10 @@
         "C-1079",
         "C-1080",
         "C-1081",
-        "C-1083"
+        "C-1083",
+        "C-1084",
+        "C-1085",
+        "C-1086"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -542,8 +545,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1038",
-      "ref": "N-1038",
+      "@id": "N-1042",
+      "ref": "N-1042",
       "name": "Arizona Board of Regents",
       "type": "organization",
       "description": "Governing body of Arizona's public university system",
@@ -676,8 +679,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1040",
-      "ref": "N-1040",
+      "@id": "N-1043",
+      "ref": "N-1043",
       "name": "Cocopah Middle School",
       "type": "organization",
       "description": "Middle school in Scottsdale that Erika attended 2000-2003",
@@ -696,8 +699,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1041",
-      "ref": "N-1041",
+      "@id": "N-1044",
+      "ref": "N-1044",
       "name": "Romanian Revolution 1989",
       "type": "organization",
       "description": "Historical context of Ceaușescu execution on Christmas Day 1989",
@@ -716,8 +719,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1042",
-      "ref": "N-1042",
+      "@id": "N-1045",
+      "ref": "N-1045",
       "name": "Tech International",
       "type": "organization",
       "description": "Company run by Lori Frantzve with defense contracts",
@@ -736,8 +739,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1043",
-      "ref": "N-1043",
+      "@id": "N-1046",
+      "ref": "N-1046",
       "name": "Black Sea Rotational Force",
       "type": "organization",
       "description": "Marine unit deployed to Eastern Europe, majority from Reno Nevada",
@@ -756,8 +759,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1044",
-      "ref": "N-1044",
+      "@id": "N-1047",
+      "ref": "N-1047",
       "name": "Nevada-Romania Connection",
       "type": "topic",
       "description": "Pattern of Nevada-based individuals appearing in Romania timeline",
@@ -779,8 +782,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1045",
-      "ref": "N-1045",
+      "@id": "N-1048",
+      "ref": "N-1048",
       "name": "Reno Nevada",
       "type": "place",
       "description": "City in Nevada - source of many military personnel and students in timeline",
@@ -802,8 +805,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1046",
-      "ref": "N-1046",
+      "@id": "N-1049",
+      "ref": "N-1049",
       "name": "Constanta Romania",
       "type": "place",
       "description": "City in Romania where Black Sea Rotational Force was stationed",
@@ -824,8 +827,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1047",
-      "ref": "N-1047",
+      "@id": "N-1050",
+      "ref": "N-1050",
       "name": "Arizona State University",
       "type": "organization",
       "description": "University where Tyler Bowyer and Erika Kirk attended",
@@ -845,8 +848,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1039",
-      "ref": "N-1039",
+      "@id": "N-1051",
+      "ref": "N-1051",
       "name": "How Erika Met Tyler Bowyer",
       "type": "topic",
       "description": "Investigation into how Erika and Tyler actually met - conflicting stories",
@@ -863,8 +866,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1048",
-      "ref": "N-1048",
+      "@id": "N-1052",
+      "ref": "N-1052",
       "name": "Everyday Heroes Like You",
       "type": "organization",
       "description": "Erika's humanitarian organization",
@@ -873,7 +876,9 @@
         "A-1052.1"
       ],
       "related_claims": [
-        "C-1071"
+        "C-1071",
+        "C-1084",
+        "C-1085"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -884,8 +889,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-1067",
-      "ref": "N-1067",
+      "@id": "N-1070",
+      "ref": "N-1070",
       "name": "Hugo E. Salazar",
       "type": "person",
       "description": "Major General thanked in Everyday Heroes context; 1994 joint task force narcotics exhibit shown on-screen",
@@ -901,13 +906,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1048"
+        "N-1052"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-1068",
-      "ref": "N-1068",
+      "@id": "N-1071",
+      "ref": "N-1071",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Serial entrepreneur and life coach; 2012 handbag partnership with Everyday Heroes Like You",
@@ -923,13 +928,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1048"
+        "N-1052"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-1069",
-      "ref": "N-1069",
+      "@id": "N-1053",
+      "ref": "N-1053",
       "name": "Emerson Drive",
       "type": "organization",
       "description": "Country music band; Erika featured in July 2012 She's My Kind of Crazy music video",
@@ -948,8 +953,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1070",
-      "ref": "N-1070",
+      "@id": "N-1054",
+      "ref": "N-1054",
       "name": "Iranian War Community Notes Aside",
       "type": "topic",
       "description": "Host notes Turning Point figures community-noted on X for attributing views on the Iranian war contrary to Charlie Kirk's stated positions",
@@ -975,7 +980,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1040"
+        "N-1043"
       ],
       "tags": [],
       "claim_timestamp": "00:01:14",
@@ -993,7 +998,7 @@
         "A-1042.1"
       ],
       "related_nodes": [
-        "N-1041"
+        "N-1044"
       ],
       "tags": [],
       "claim_timestamp": "00:03:30",
@@ -1012,8 +1017,8 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-1042",
-        "N-1048"
+        "N-1045",
+        "N-1052"
       ],
       "tags": [],
       "claim_timestamp": "00:10:31",
@@ -1032,9 +1037,9 @@
       ],
       "related_nodes": [
         "N-14",
-        "N-1043",
-        "N-1045",
-        "N-1046"
+        "N-1046",
+        "N-1048",
+        "N-1049"
       ],
       "tags": [],
       "claim_timestamp": "00:12:45",
@@ -1052,8 +1057,8 @@
         "A-1045.1"
       ],
       "related_nodes": [
-        "N-1044",
-        "N-1045"
+        "N-1047",
+        "N-1048"
       ],
       "tags": [],
       "claim_timestamp": "00:13:45",
@@ -1072,8 +1077,8 @@
       ],
       "related_nodes": [
         "N-14",
-        "N-1038",
-        "N-1047"
+        "N-1042",
+        "N-1050"
       ],
       "tags": [],
       "claim_timestamp": "00:15:15",
@@ -1094,7 +1099,7 @@
         "N-2",
         "N-14",
         "N-1",
-        "N-1047"
+        "N-1050"
       ],
       "tags": [],
       "claim_timestamp": "00:15:54",
@@ -1114,7 +1119,7 @@
       "related_nodes": [
         "N-37",
         "N-39",
-        "N-1044"
+        "N-1047"
       ],
       "tags": [],
       "claim_timestamp": "00:18:49",
@@ -1134,7 +1139,7 @@
       "related_nodes": [
         "N-38",
         "N-39",
-        "N-1044"
+        "N-1047"
       ],
       "tags": [],
       "claim_timestamp": "00:19:49",
@@ -1153,7 +1158,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1046"
+        "N-1049"
       ],
       "tags": [],
       "claim_timestamp": "00:20:32",
@@ -1210,7 +1215,7 @@
       "related_nodes": [
         "N-2",
         "N-14",
-        "N-1039"
+        "N-1051"
       ],
       "tags": [],
       "claim_timestamp": "00:32:59",
@@ -1268,8 +1273,8 @@
         "A-1052.1"
       ],
       "related_nodes": [
-        "N-1067",
-        "N-1048",
+        "N-1070",
+        "N-1052",
         "N-2"
       ],
       "tags": [],
@@ -1289,8 +1294,8 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1068",
-        "N-1048"
+        "N-1071",
+        "N-1052"
       ],
       "tags": [],
       "claim_timestamp": "00:28:03",
@@ -1309,7 +1314,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1069"
+        "N-1053"
       ],
       "tags": [],
       "claim_timestamp": "00:28:34",
