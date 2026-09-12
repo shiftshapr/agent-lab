@@ -27,7 +27,7 @@
           "video_timestamp": "17:56–18:20",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1039"
+            "C-1042"
           ],
           "related_nodes": [
             "N-2",
@@ -49,7 +49,7 @@
           "video_timestamp": "18:25–18:55",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1039"
+            "C-1042"
           ],
           "related_nodes": [
             "N-2",
@@ -71,7 +71,7 @@
           "video_timestamp": "19:05–19:20",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1039"
+            "C-1042"
           ],
           "related_nodes": [
             "N-2",
@@ -93,7 +93,7 @@
           "video_timestamp": "19:20–19:50",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1039"
+            "C-1042"
           ],
           "related_nodes": [
             "N-2",
@@ -115,7 +115,7 @@
           "video_timestamp": "20:20–20:40",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1039"
+            "C-1042"
           ],
           "related_nodes": [
             "N-2",
@@ -137,7 +137,7 @@
           "video_timestamp": "21:05–21:25",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1039"
+            "C-1042"
           ],
           "related_nodes": [
             "N-2",
@@ -167,7 +167,7 @@
           "video_timestamp": "36:45–37:10",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1040"
+            "C-1043"
           ],
           "related_nodes": [
             "N-1",
@@ -198,7 +198,7 @@
           "video_timestamp": "38:57–39:05",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1040"
+            "C-1043"
           ],
           "related_nodes": [
             "N-17",
@@ -228,7 +228,7 @@
           "video_timestamp": "41:40–41:55",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1043"
+            "C-1046"
           ],
           "related_nodes": [
             "N-2"
@@ -257,7 +257,7 @@
           "video_timestamp": "15:00–15:30",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1047"
+            "C-1050"
           ],
           "related_nodes": [
             "N-2",
@@ -287,7 +287,7 @@
           "video_timestamp": "43:50–44:10",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1054"
+            "C-1057"
           ],
           "related_nodes": [
             "N-2"
@@ -308,7 +308,7 @@
           "video_timestamp": "45:36–46:10",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1054"
+            "C-1057"
           ],
           "related_nodes": [
             "N-2"
@@ -334,7 +334,7 @@
         "A-1019.1"
       ],
       "related_claims": [
-        "C-1040"
+        "C-1043"
       ],
       "tags": [
         "key_figure",
@@ -362,11 +362,11 @@
         "A-1023.2"
       ],
       "related_claims": [
-        "C-1039",
-        "C-1040",
+        "C-1042",
         "C-1043",
-        "C-1047",
-        "C-1054"
+        "C-1046",
+        "C-1050",
+        "C-1057"
       ],
       "tags": [
         "key_figure",
@@ -385,7 +385,7 @@
         "A-1020.1"
       ],
       "related_claims": [
-        "C-1040"
+        "C-1043"
       ],
       "tags": [
         "family_member"
@@ -428,7 +428,7 @@
         "A-1020.1"
       ],
       "related_claims": [
-        "C-1040"
+        "C-1043"
       ],
       "tags": [
         "family_member",
@@ -446,7 +446,7 @@
         "A-1019.1"
       ],
       "related_claims": [
-        "C-1040"
+        "C-1043"
       ],
       "tags": [
         "sports_figure"
@@ -476,7 +476,7 @@
         "A-1022.1"
       ],
       "related_claims": [
-        "C-1047"
+        "C-1050"
       ],
       "tags": [
         "family_member",
@@ -499,7 +499,7 @@
         "A-1018.6"
       ],
       "related_claims": [
-        "C-1039"
+        "C-1042"
       ],
       "tags": [
         "discrepancy_target"
@@ -518,7 +518,7 @@
         "A-1020.1"
       ],
       "related_claims": [
-        "C-1040"
+        "C-1043"
       ],
       "tags": [
         "genealogy_target"
@@ -537,8 +537,8 @@
         "A-1023.2"
       ],
       "related_claims": [
-        "C-1054",
-        "C-1043"
+        "C-1057",
+        "C-1046"
       ],
       "tags": [
         "timeline_gap"
@@ -556,7 +556,7 @@
         "A-1022.1"
       ],
       "related_claims": [
-        "C-1047"
+        "C-1050"
       ],
       "tags": [
         "criminal_association"
@@ -567,8 +567,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1039",
-      "ref": "C-1039",
+      "@id": "C-1042",
+      "ref": "C-1042",
       "label": "Erika's Birthday Listed as November 22 1988 in Legal Documents",
       "claim_timestamp": "17:56",
       "claim": "Multiple legal documents from 1998-2007 consistently list Erika's birthday as November 22, 1988.",
@@ -593,8 +593,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1040",
-      "ref": "C-1040",
+      "@id": "C-1043",
+      "ref": "C-1043",
       "label": "Charlie Stated Erika is Direct Lombardi Descendant",
       "claim_timestamp": "36:45",
       "claim": "Charlie Kirk stated on his podcast that Erika is a direct descendant of Vince Lombardi.",
@@ -619,8 +619,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1043",
-      "ref": "C-1043",
+      "@id": "C-1046",
+      "ref": "C-1046",
       "label": "Erika Attended St Ursula Villa Kindergarten",
       "claim_timestamp": "41:40",
       "claim": "Erika attended St. Ursula Villa in Cincinnati for kindergarten in 1994-1995.",
@@ -640,8 +640,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1047",
-      "ref": "C-1047",
+      "@id": "C-1050",
+      "ref": "C-1050",
       "label": "Erika Visited Uncle Rick at Universal Studios",
       "claim_timestamp": "15:00",
       "claim": "Erika visited Richard Erpenbeck, who she calls uncle, at Universal Studios on December 1, 2018.",
@@ -662,8 +662,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1054",
-      "ref": "C-1054",
+      "@id": "C-1057",
+      "ref": "C-1057",
       "label": "Bible Study Timeline Contradiction",
       "claim_timestamp": "43:50",
       "claim": "Erika claimed to have studied Bible for 8 months in 2008, but later stated she first read the Bible cover to cover in 2016.",

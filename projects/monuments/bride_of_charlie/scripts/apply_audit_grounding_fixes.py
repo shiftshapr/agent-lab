@@ -28,79 +28,79 @@ CLAIM_FIXES: dict[str, dict] = {
         "anchored_artifacts": "A-1005.1",
         "snippet_hint": (1, 37 * 60, 37 * 60 + 40),
     },
-    "C-1013": {
+    "C-1014": {
         "claim_timestamp": "20:03",
         "anchored_artifacts": "A-1010.3",
         "snippet_hint": (2, 20 * 60 + 3, 21 * 60 + 6),
     },
-    "C-1015": {
+    "C-1016": {
         "claim_timestamp": "32:05",
         "anchored_artifacts": "A-1012.2",
         "snippet_hint": (2, 32 * 60 + 5, 33 * 60 + 0),
     },
-    "C-1016": {
+    "C-1017": {
         "claim_timestamp": "44:25",
         "anchored_artifacts": "A-1013.2",
         "snippet_hint": (2, 44 * 60 + 25, 46 * 60 + 4),
     },
-    "C-1026": {
+    "C-1029": {
         "claim_timestamp": "44:10",
         "anchored_artifacts": "A-1021.2",
         "snippet_hint": (3, 43 * 60 + 56, 45 * 60 + 16),
     },
-    "C-1060": {
+    "C-1063": {
         "claim_timestamp": "36:06",
         "anchored_artifacts": "A-1037.2",
         "snippet_hint": (5, 36 * 60 + 6, 36 * 60 + 28),
     },
-    "C-1063": {
+    "C-1066": {
         "claim_timestamp": "55:14",
         "anchored_artifacts": "A-1037.3",
         "snippet_hint": (5, 55 * 60 + 14, 55 * 60 + 32),
     },
-    "C-1038": {
+    "C-1041": {
         "claim_timestamp": "02:10",
         "anchored_artifacts": "A-1035.3",
         "snippet_hint": (5, 2 * 60 + 10, 2 * 60 + 39),
     },
-    "C-1055": {
+    "C-1058": {
         "claim_timestamp": "26:38",
         "anchored_artifacts": "A-1032.5",
         "snippet_hint": (5, 26 * 60 + 38, 26 * 60 + 55),
     },
-    "C-1080": {
+    "C-1083": {
         "claim_timestamp": "42:56",
         "anchored_artifacts": "A-1050.1",
         "snippet_hint": (6, 42 * 60 + 56, 43 * 60 + 30),
     },
-    "C-1078": {
+    "C-1081": {
         "claim_timestamp": "32:59",
         "anchored_artifacts": "A-1049.2",
         "snippet_hint": (6, 32 * 60 + 59, 33 * 60 + 36),
     },
-    "C-1082": {
+    "C-1088": {
         "claim_timestamp": "02:09",
-        "anchored_artifacts": "A-1053.1",
+        "anchored_artifacts": "A-1055.1",
         "snippet_hint": (7, 2 * 60 + 9, 3 * 60 + 48),
     },
-    "C-1099": {
+    "C-1107": {
         "claim_timestamp": "23:01",
-        "anchored_artifacts": "A-1068.1",
+        "anchored_artifacts": "A-1073.1",
         "snippet_hint": (8, 23 * 60 + 1, 23 * 60 + 24),
     },
-    "C-1097": {
+    "C-1105": {
         "claim_timestamp": "10:54-11:12",
-        "anchored_artifacts": "A-1064.4",
+        "anchored_artifacts": "A-1069.4",
         "snippet_hint": (8, 10 * 60 + 54, 11 * 60 + 12),
     },
-    "C-1104": {
+    "C-1112": {
         "claim_timestamp": "33:14",
-        "anchored_artifacts": "A-1066.1",
+        "anchored_artifacts": "A-1071.1",
         "snippet_hint": (8, 33 * 60 + 14, 33 * 60 + 28),
     },
-    "C-1092": {
+    "C-1100": {
         "claim_timestamp": "00:03",
-        "anchored_artifacts": "A-1069.1",
+        "anchored_artifacts": "A-1074.1",
         "snippet_hint": (8, 3, 28),
     },
 }
@@ -122,7 +122,7 @@ Confidence: high
 **A-1010.3** Jerry Frantzve DuPont employment (narration)
 Event Timestamp: 1983
 Video Timestamp: 20:03–21:06
-*Related: C-1013, N-12, N-1044*
+*Related: C-1014, N-12, N-1044*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
@@ -130,7 +130,7 @@ Confidence: medium
 **A-1012.2** Phil Bliss Tesseract board / MK Ultra connection (narration)
 Event Timestamp: 1990s
 Video Timestamp: 32:05–33:00
-*Related: C-1015, N-14, N-1031, N-1033*
+*Related: C-1016, N-14, N-1031, N-1033*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
@@ -139,7 +139,7 @@ Confidence: medium
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 44:25–46:04
-*Related: C-1016, N-1, N-2, N-13, N-1043*
+*Related: C-1017, N-1, N-2, N-13, N-1043*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
@@ -149,7 +149,7 @@ Confidence: medium
 **A-1021.2** Erika social posts — Terry Crist / Hillsong connection
 Event Timestamp: 2011–2016
 Video Timestamp: 43:56–45:16
-*Related: C-1026, N-2, N-46, N-47*
+*Related: C-1029, N-2, N-46, N-47*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
@@ -159,7 +159,7 @@ Confidence: medium
 **A-1035.3** Radford Eastern Europe gender-research document (1990)
 Event Timestamp: 1990
 Video Timestamp: 02:10–02:39
-*Related: C-1038, N-12, N-1060*
+*Related: C-1041, N-12, N-1060*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
@@ -167,7 +167,7 @@ Confidence: medium
 **A-1032.5** Table Four LLC filing (Erika and Tyler Sanford, 2010)
 Event Timestamp: 2010
 Video Timestamp: 26:38–26:55
-*Related: C-1055, N-2, N-58*
+*Related: C-1058, N-2, N-58*
 Transcript Snippet: PLACEHOLDER
 Confidence: high
 """,
@@ -176,7 +176,7 @@ Confidence: high
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 36:06–36:28
-*Related: C-1060, N-1, N-2, N-3*
+*Related: C-1063, N-1, N-2, N-3*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
@@ -184,7 +184,7 @@ Confidence: medium
 **A-1037.3** Tyler Bowyer Romania / Farnsworth connection (narration)
 Event Timestamp: 2010
 Video Timestamp: 55:14–55:32
-*Related: C-1063, N-13, N-1060*
+*Related: C-1066, N-13, N-1060*
 Transcript Snippet: PLACEHOLDER
 Confidence: low
 """,
@@ -195,28 +195,28 @@ Confidence: low
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 32:59–33:36
-*Related: C-1078, N-2, N-13, N-1022*
+*Related: C-1081, N-2, N-13, N-1022*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
     ],
     8: [
         """
-**A-1064.4** Erika Bible in 365 founding claim (social media)
+**A-1069.4** Erika Bible in 365 founding claim (social media)
 Event Timestamp: 2016
 Video Timestamp: 10:54–11:12
-*Related: C-1097, N-2, N-1083*
+*Related: C-1105, N-2, N-1083*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
         """
-**A-1069** Andrew Kolvet Interview Clip
+**A-1074** Andrew Kolvet Interview Clip
 
-**A-1069.1** Andrew Kolvet on Dave Rubin show — Erika spotlight claim
+**A-1074.1** Andrew Kolvet on Dave Rubin show — Erika spotlight claim
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 00:03–00:28
-*Related: C-1092, N-2, N-26, N-1*
+*Related: C-1100, N-2, N-26, N-1*
 Transcript Snippet: PLACEHOLDER
 Confidence: high
 
@@ -227,12 +227,12 @@ Confidence: high
 
 RELATED_PATCHES: list[tuple[str, str, str]] = [
     # (file suffix ep, old related line fragment, new)
-    ("episode_002.md", "*Related: C-1013, C-1015, N-12, N-1031, N-1042*", "*Related: C-1015, N-12, N-1031, N-1042*"),
-    ("episode_002.md", "*Related: C-1017, N-2, N-3*", "*Related: C-1017, C-1016, N-2, N-3*"),
-    ("episode_003.md", "*Related: C-1028, N-2, N-1*", "*Related: C-1028, C-1026, N-2, N-1*"),
-    ("episode_005.md", "*Related: C-1057, C-1058, N-13, N-1060*", "*Related: C-1057, C-1058, C-1060, C-1063, N-13, N-1060*"),
-    ("episode_008.md", "*Related: C-1096, N-3, N-1079*", "*Related: C-1096, C-1097, N-3, N-1079*"),
-    ("episode_008.md", "*Related: A-1064.1, A-1064.2, A-1065.1, A-1067.1, A-1068.1, C-1099, C-1098, C-1097", "*Related: A-1064.2, A-1064.4, A-1065.1, A-1067.1, A-1068.1, A-1069.1, C-1099, C-1098, C-1097, C-1092"),
+    ("episode_002.md", "*Related: C-1014, C-1016, N-12, N-1031, N-1042*", "*Related: C-1016, N-12, N-1031, N-1042*"),
+    ("episode_002.md", "*Related: C-1018, N-2, N-3*", "*Related: C-1018, C-1017, N-2, N-3*"),
+    ("episode_003.md", "*Related: C-1031, N-2, N-1*", "*Related: C-1031, C-1029, N-2, N-1*"),
+    ("episode_005.md", "*Related: C-1060, C-1061, N-13, N-1060*", "*Related: C-1060, C-1061, C-1063, C-1066, N-13, N-1060*"),
+    ("episode_008.md", "*Related: C-1104, N-3, N-1079*", "*Related: C-1104, C-1105, N-3, N-1079*"),
+    ("episode_008.md", "*Related: A-1069.1, A-1069.2, A-1070.1, A-1072.1, A-1073.1, C-1107, C-1106, C-1105", "*Related: A-1069.2, A-1069.4, A-1070.1, A-1072.1, A-1073.1, A-1074.1, C-1107, C-1106, C-1105, C-1100"),
 ]
 
 
@@ -363,13 +363,13 @@ def main() -> int:
             path.write_text(text.replace(old, new, 1), encoding="utf-8")
             print(f"[fix] related patch {fname}")
 
-    # ep8 ledger: new artifact family A-1069
+    # ep8 ledger: new artifact family A-1074
     ep8 = DRAFTS / "episode_008.md"
     t = ep8.read_text(encoding="utf-8")
-    if "A-1069" not in t.split("Artifact Families")[1].split("Claim Range")[0]:
+    if "A-1074" not in t.split("Artifact Families")[1].split("Claim Range")[0]:
         t = t.replace(
-            "Artifact Families Introduced: A-1062, A-1063, A-1064, A-1065, A-1066, A-1067, A-1068",
-            "Artifact Families Introduced: A-1062, A-1063, A-1064, A-1065, A-1066, A-1067, A-1068, A-1069",
+            "Artifact Families Introduced: A-1067, A-1068, A-1069, A-1070, A-1071, A-1072, A-1073",
+            "Artifact Families Introduced: A-1067, A-1068, A-1069, A-1070, A-1071, A-1072, A-1073, A-1074",
         )
         t = t.replace(
             "New Nodes Introduced: N-64, N-66",
@@ -377,15 +377,15 @@ def main() -> int:
         )
         ep8.write_text(t, encoding="utf-8")
 
-    # Update N-2 related in ep8 for C-1092 anchor cleanup
+    # Update N-2 related in ep8 for C-1100 anchor cleanup
     t = ep8.read_text(encoding="utf-8")
     t = t.replace(
-        "*Related: A-1064.1, A-1064.2, A-1065.1, A-1067.1, A-1068.1, C-1099, C-1098, C-1097, C-1100, C-1101, C-1102, C-1093, C-1104, C-1092*",
-        "*Related: A-1064.2, A-1064.4, A-1065.1, A-1067.1, A-1068.1, A-1069.1, C-1099, C-1098, C-1097, C-1100, C-1101, C-1102, C-1093, C-1104, C-1092*",
+        "*Related: A-1069.1, A-1069.2, A-1070.1, A-1072.1, A-1073.1, C-1107, C-1106, C-1105, C-1108, C-1109, C-1110, C-1101, C-1112, C-1100*",
+        "*Related: A-1069.2, A-1069.4, A-1070.1, A-1072.1, A-1073.1, A-1074.1, C-1107, C-1106, C-1105, C-1108, C-1109, C-1110, C-1101, C-1112, C-1100*",
     )
     t = t.replace(
-        "*Related: C-1092*",
-        "*Related: A-1069.1, C-1092*",
+        "*Related: C-1100*",
+        "*Related: A-1074.1, C-1100*",
     )
     ep8.write_text(t, encoding="utf-8")
 

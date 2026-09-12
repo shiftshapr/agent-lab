@@ -11,7 +11,7 @@
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1016-A-1022
-  - Claim Range: C-1018-C-1028
+  - Claim Range: C-1021-C-1031
   - New Nodes Introduced: N-18, N-19, N-20, N-21, N-22, N-23, N-24, N-25, N-1018, N-1019, N-1020, N-1021, N-1022, N-1023
   - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-14, N-1002
 
@@ -27,7 +27,7 @@ Episode 3 focuses on Lori Frantzve's background and her connection to the Erpenb
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 04:07–04:26
-*Related: C-1018, C-1020, N-3, N-18, N-1022*
+*Related: C-1021, C-1023, N-3, N-18, N-1022*
 Transcript Snippet: is Richard Erpenbeck. I'll show you that...here. Now, what I am blurring out on...this document is it had his address,...which allowed me to definitively confirm...which Rick Erpenbeck we were speaking...about, who is the one that actually was...the witness. Erpenbeck, by the way,...anybody that's gone through following
 Confidence: high
 
@@ -38,21 +38,21 @@ Confidence: high
 **A-1017.1** News clip about Erpenbeck fraud case
 Event Timestamp: 2003
 Video Timestamp: 09:35–09:56
-*Related: C-1023, N-19, N-20, N-21, N-22, N-23*
+*Related: C-1026, N-19, N-20, N-21, N-22, N-23*
 Transcript Snippet: news clip. Erpenbeck served 21 years after...pleading guilty to defrauding banks of...$34 million. That was back in April of...2003. So he was a home builder who...funneled the proceeds from home closings...back to his company and himself. So his...crimes left hundreds of home buyers on...the hook for millions of dollars in
 Confidence: high
 
 **A-1017.2** Article snippets about Erpenbeck scandal
 Event Timestamp: 2002-2009
 Video Timestamp: 10:26–13:20
-*Related: C-1023, N-19, N-20, N-21, N-22, N-23*
+*Related: C-1026, N-19, N-20, N-21, N-22, N-23*
 Transcript Snippet: Uh, check out just some snippets from...articles recapping this case. I'm going...to get to this part. Lori Anne Erpenbeck...was a standout character. Tells us...that by 2004, Lori Erpenbeck seemingly had...enough of her family. She already knew...that her brother Bill had thought about...killing her. So when dad Tony offered to
 Confidence: high
 
 **A-1017.3** FBI cooler-cash news clip (Erpenbeck 2009)
 Event Timestamp: 2009
 Video Timestamp: 17:23–17:48
-*Related: C-1023, N-19, N-20*
+*Related: C-1026, N-19, N-20*
 Transcript Snippet: scandal. Take a listen. The Erpenbeck...name was back in the news in 2009 when...FBI agents dug up a cooler full of cash...from Summit Hills Country Club in...Crestview Hills. A friend had buried...money that he received from Erpenbeck...on the course next to Erpenbeck's...former home. Erpenbeck had hoped to use
 Confidence: high
 
@@ -63,7 +63,7 @@ Confidence: high
 **A-1018.1** LLC filings showing Erpenbeck involvement
 Event Timestamp: 1993-1999
 Video Timestamp: 05:43–07:13
-*Related: C-1021, C-1022, N-3, N-18, N-19*
+*Related: C-1024, C-1025, N-3, N-18, N-19*
 Transcript Snippet: me take you through the litany of LLC's...that she has filed. This is Lori, which...feature Richard or Donna Erpenbeck as...either the secretary, the incorporator,...the notary across a 25y year period....Okay. Now, Lori filed for Euroch in June...of 1993. What does it do? Nobody knows....But Rick was featured. Lori and Rick
 Confidence: high
 
@@ -74,7 +74,7 @@ Confidence: high
 **A-1019.1** Pageant participation records 2005-2012
 Event Timestamp: 2005-2012
 Video Timestamp: 33:28–33:56
-*Related: A-1013.1, C-1017, C-1024, N-2, N-3*
+*Related: A-1013.1, C-1018, C-1027, N-2, N-3*
 Transcript Snippet: >> Okay. So it wasn't about narcissism. She...wasn't groomed. By the way, if you have...to say that you weren't groomed for...something, you probably were. You just...have to just kind of say that it's...probably because you were. And the...reality is that every single year from...2005 through to 2012, Erika was involved
 Same As Artifact: A-1013.1 (Episode 2 — 2020 not-groomed interview clip; cross-episode replay context, not a duplicate artifact)
 Confidence: high
@@ -82,7 +82,7 @@ Confidence: high
 **A-1019.2** Regis University basketball records
 Event Timestamp: 2007-2008
 Video Timestamp: 37:45–39:32
-*Related: C-1025, N-2, N-1019*
+*Related: C-1028, N-2, N-1019*
 Transcript Snippet: she does that. Regis University begins...in the fall. I could find two newspaper...entries of her uh, scoring um, November...24th game and against South Dakota. And...then another entry on December 1st. And...yeah, she seemingly, if I was just...following the paper trail, I would say...she had abandoned her scholarship. And I
 Confidence: high
 
@@ -93,7 +93,7 @@ Confidence: high
 **A-1020.1** Erika interview about 8-month hiatus
 Event Timestamp: 2020
 Video Timestamp: 40:45–41:28
-*Related: C-1025, N-2, N-3*
+*Related: C-1028, N-2, N-3*
 Transcript Snippet: I prayed for God to just strip my ego...from all of that stuff. All of that...world. all of the plastic hat crown...stuff with the banner that was just it...was never it was me from the standpoint...of a philanthropic side, but the...hometown hero thing was just weird and...it was unhealthy and it was just ego
 Confidence: high
 
@@ -101,7 +101,7 @@ Confidence: high
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 54:25–56:02
-*Related: C-1027, C-1028, N-2, N-1*
+*Related: C-1030, C-1031, N-2, N-1*
 Transcript Snippet: a 26-year-old Christian woman living in...New York City. I would like to stay here...long term, but I wonder whether it's...sustainable. Do you believe there's a...place for women like myself in modern...cities who care about having a career,...but also marrying a like-minded...Christian conservative man?
 Confidence: high
 
@@ -112,7 +112,7 @@ Confidence: high
 **A-1021.1** Tweets showing Erika's relationship history
 Event Timestamp: 2013-2018
 Video Timestamp: 58:39–59:15
-*Related: C-1028, C-1026, N-2, N-1*
+*Related: C-1031, C-1029, N-2, N-1*
 Transcript Snippet: Charlie, Erika had multiple boyfriends....She rang in the new year with a...boyfriend. Okay. In 2018. So, yeah. No....Uh, the correct sentence should be, I...did not have a boyfriend in uh New New...York. I didn't go out to meet a...boyfriend cuz I already had one and...maybe he was living in DC or something.
 Confidence: high
 
@@ -124,7 +124,7 @@ Confidence: high
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 00:30–01:05
-*Related: C-1018, N-3, N-1018, N-14, N-1020*
+*Related: C-1021, N-3, N-1018, N-14, N-1020*
 Transcript Snippet: Not important for today. Lori Frantzve,...despite being ill, has recently been put...on the board of Super Feed Technologies...alongside Turning Point Actions COO...Tyler Bowyer. Shady dude. They're...effectively then business partners. They...have been for a while. Actually, Lori...was at first a director over at
 Confidence: high
 
@@ -132,7 +132,7 @@ Confidence: high
 Event Timestamp: Undated in episode source
 Event Timestamp Note: headline shown on-screen; filing month referenced in transcript without full calendar date.
 Video Timestamp: 21:15–21:42
-*Related: C-1018, N-3, N-14, N-1020*
+*Related: C-1021, N-3, N-14, N-1020*
 Transcript Snippet: Claims of bribery. I think I had it the...headline in Yahoo News. Kari Lakes...bribery scandal involves a shady GOP...tech firm. Yeah, they're referring to...Super Feed Technologies had its business...revoked by the state of Arizona while it...employed Jeff Dwit, its former COO, and...Lake, who had received more than
 Confidence: high
 
@@ -141,7 +141,7 @@ Confidence: high
 **A-1021.2** Erika social posts — Terry Crist / Hillsong connection
 Event Timestamp: 2011–2016
 Video Timestamp: 43:56–45:16
-*Related: C-1026, N-2, N-24, N-25*
+*Related: C-1029, N-2, N-24, N-25*
 Transcript Snippet: joy. Congratulations, Terry Chris....Judith Crisp....The vibes are vibing....Now, coincidentally, and I'm going to...bring Ashley uh on in a second to...explain a little more, but I'll tell you...that Pastor Terry is very close with...Brian Houston, the Hillsong Church
 Confidence: medium
 
@@ -153,7 +153,7 @@ Confidence: medium
 Node Type: Person
 Founder of Turning Point USA, deceased husband of Erika Kirk
 
-*Related: A-1020.2, A-1021.1, C-1027, C-1028*
+*Related: A-1020.2, A-1021.1, C-1030, C-1031*
 
 ---
 
@@ -162,7 +162,7 @@ Founder of Turning Point USA, deceased husband of Erika Kirk
 Node Type: Person
 Mother of Erika Kirk, involved in multiple businesses, board member at Super Feed Technologies
 
-*Related: A-1016.1, A-1018.1, A-1020.1, A-1022.1, A-1022.2, C-1018, C-1021, C-1020, C-1022*
+*Related: A-1016.1, A-1018.1, A-1020.1, A-1022.1, A-1022.2, C-1021, C-1024, C-1023, C-1025*
 
 ---
 
@@ -173,7 +173,7 @@ Mother of Erika Kirk, involved in multiple businesses, board member at Super Fee
 Node Type: Person
 Witness on Lori's divorce documents, longtime business associate of Lori, youngest Erpenbeck brother
 
-*Related: A-1016.1, A-1018.1, C-1021, C-1020, C-1022*
+*Related: A-1016.1, A-1018.1, C-1024, C-1023, C-1025*
 
 ---
 
@@ -182,7 +182,7 @@ Witness on Lori's divorce documents, longtime business associate of Lori, younge
 Node Type: Person
 Father of Erpenbeck siblings, sentenced for bank fraud, plotted murder/kidnapping
 
-*Related: A-1017.1, A-1017.2, A-1017.3, C-1023*
+*Related: A-1017.1, A-1017.2, A-1017.3, C-1026*
 
 ---
 
@@ -191,7 +191,7 @@ Father of Erpenbeck siblings, sentenced for bank fraud, plotted murder/kidnappin
 Node Type: Person
 Erpenbeck brother, led fraud scheme, served 21 years
 
-*Related: A-1017.1, A-1017.2, A-1017.3, C-1023*
+*Related: A-1017.1, A-1017.2, A-1017.3, C-1026*
 
 ---
 
@@ -200,7 +200,7 @@ Erpenbeck brother, led fraud scheme, served 21 years
 Node Type: Person
 Erpenbeck brother, involved in family business
 
-*Related: A-1017.2, C-1023*
+*Related: A-1017.2, C-1026*
 
 ---
 
@@ -209,7 +209,7 @@ Erpenbeck brother, involved in family business
 Node Type: Person
 Erpenbeck brother
 
-*Related: A-1017.2, C-1023*
+*Related: A-1017.2, C-1026*
 
 ---
 
@@ -218,7 +218,7 @@ Erpenbeck brother
 Node Type: Person
 Wife of Gary Erpenbeck, notary on Lori's documents
 
-*Related: A-1018.1, C-1022, C-1023*
+*Related: A-1018.1, C-1025, C-1026*
 
 ---
 
@@ -227,7 +227,7 @@ Wife of Gary Erpenbeck, notary on Lori's documents
 Node Type: Person
 Subject of investigation, daughter of Lori, widow of Charlie Kirk
 
-*Related: A-1019.1, A-1019.2, A-1020.1, A-1020.2, A-1021.1, C-1019, C-1024, C-1025, C-1027, C-1028*
+*Related: A-1019.1, A-1019.2, A-1020.1, A-1020.2, A-1021.1, C-1022, C-1027, C-1028, C-1030, C-1031*
 
 ---
 
@@ -237,7 +237,7 @@ Node Type: Organization
 Organization Kind: company
 Tech company with Lori on board, associated with Turning Point Action scandal
 
-*Related: A-1022.1, A-1022.2, C-1018*
+*Related: A-1022.1, A-1022.2, C-1021*
 
 ---
 
@@ -247,7 +247,7 @@ Node Type: Organization
 Organization Kind: educational_institution
 University in Denver where Erika had basketball scholarship
 
-*Related: A-1019.2, C-1025*
+*Related: A-1019.2, C-1028*
 
 ---
 
@@ -256,7 +256,7 @@ University in Denver where Erika had basketball scholarship
 Node Type: Person
 COO of Turning Point Action, business partner with Lori
 
-*Related: A-1022.1, A-1022.2, C-1018*
+*Related: A-1022.1, A-1022.2, C-1021*
 
 ---
 
@@ -265,7 +265,7 @@ COO of Turning Point Action, business partner with Lori
 Node Type: Person
 Erika's father, Lori's ex-husband
 
-*Related: A-1016.1, C-1020*
+*Related: A-1016.1, C-1023*
 
 ---
 
@@ -284,7 +284,7 @@ Political action arm of Turning Point USA
 Node Type: Person
 Pastor at City of Grace in Scottsdale, friend of Brian Houston
 
-*Related: C-1026*
+*Related: C-1029*
 
 ---
 
@@ -293,7 +293,7 @@ Pastor at City of Grace in Scottsdale, friend of Brian Houston
 Node Type: Person
 Founder of Hillsong Church, covered up father's pedophilia
 
-*Related: C-1026*
+*Related: C-1029*
 
 ---
 
@@ -303,7 +303,7 @@ Node Type: Organization
 Organization Kind: educational_institution
 Arizona high school formerly Tesseract School
 
-*Related: A-1019.1, C-1024*
+*Related: A-1019.1, C-1027*
 
 ---
 
@@ -323,7 +323,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Investigation into Lori's association with Erpenbeck family and their criminal history
 
-*Related: A-1016.1, A-1017.1, A-1017.2, A-1018.1, C-1021, C-1020, C-1023, C-1022*
+*Related: A-1016.1, A-1017.1, A-1017.2, A-1018.1, C-1024, C-1023, C-1026, C-1025*
 
 ---
 
@@ -333,7 +333,7 @@ Node Type: Topic
 Topic Kind: discrepancy
 Inconsistency between Erika's claims about dating history and evidence of multiple relationships
 
-*Related: A-1020.2, A-1021.1, C-1028*
+*Related: A-1020.2, A-1021.1, C-1031*
 
 ---
 
@@ -342,7 +342,7 @@ Inconsistency between Erika's claims about dating history and evidence of multip
 
 
 
-**C-1018** Lori on Super Feed Board with Tyler Bowyer
+**C-1021** Lori on Super Feed Board with Tyler Bowyer
 
 Claim Timestamp: 00:30
 Claim: Lori Frantzve was recently put on the board of Super Feed Technologies alongside Turning Point Action COO Tyler Bowyer.
@@ -356,7 +356,7 @@ Investigative Direction: Verify corporate filings and board meeting minutes.
 
 ---
 
-**C-1019** Erika Birthday November 22
+**C-1022** Erika Birthday November 22
 
 Claim Timestamp: 03:16
 Claim: Erika's birthday is listed as November 22 across multiple documents reviewed in this episode.
@@ -370,7 +370,7 @@ Investigative Direction: Compare birth records from multiple sources.
 
 ---
 
-**C-1020** Richard Erpenbeck Witness on Divorce
+**C-1023** Richard Erpenbeck Witness on Divorce
 
 Claim Timestamp: 04:07
 Claim: Richard Erpenbeck was listed as the witness on Lori and Kent's divorce documents.
@@ -384,7 +384,7 @@ Investigative Direction: Obtain certified copies of divorce documents.
 
 ---
 
-**C-1021** Richard Erpenbeck Business Association
+**C-1024** Richard Erpenbeck Business Association
 
 Claim Timestamp: 04:26
 Claim: Richard Erpenbeck has been a longtime business associate of Lori, appearing as secretary, incorporator, and notary across her multiple LLCs over 25 years.
@@ -398,7 +398,7 @@ Investigative Direction: Obtain business filings to verify Erpenbeck's roles in 
 
 ---
 
-**C-1022** Lori's LLC Network with Erpenbecks
+**C-1025** Lori's LLC Network with Erpenbecks
 
 Claim Timestamp: 05:43
 Claim: Lori has filed multiple LLCs (Euroch, Euroch International UK, Techmetrics International, Virtual Registration) featuring Richard or Donna Erpenbeck as secretary, incorporator, or notary over 25 years.
@@ -412,7 +412,7 @@ Investigative Direction: Obtain complete LLC filing history from state records.
 
 ---
 
-**C-1023** Erpenbeck Family Fraud Case
+**C-1026** Erpenbeck Family Fraud Case
 
 Claim Timestamp: 09:35
 Claim: The Erpenbeck family operated a massive home-building fraud scheme in Ohio/Kentucky around 2002-2003, defrauding banks of $34 million and leaving hundreds of homeowners with unpaid mortgages.
@@ -426,7 +426,7 @@ Investigative Direction: Review court records from the Eastern District of Kentu
 
 ---
 
-**C-1024** Erika Pageant Timeline 2005-2012
+**C-1027** Erika Pageant Timeline 2005-2012
 
 Claim Timestamp: 33:43
 Claim: Erika participated in beauty pageants every year from 2005 through 2012, totaling seven years.
@@ -440,7 +440,7 @@ Investigative Direction: Obtain pageant competition records from state and natio
 
 ---
 
-**C-1025** Erika Missing 2008 and Basketball Gap
+**C-1028** Erika Missing 2008 and Basketball Gap
 
 Claim Timestamp: 38:59
 Claim: Erika appears to have gone missing from public records in 2008, and Regis University only shows her basketball records for the 2007-2008 season despite her claims of playing for two years.
@@ -454,7 +454,7 @@ Investigative Direction: Request transcript records and enrollment verification 
 
 ---
 
-**C-1026** Pastor Terry Crist Connection to Hillsong
+**C-1029** Pastor Terry Crist Connection to Hillsong
 
 Claim Timestamp: 44:10
 Claim: Pastor Terry Crist of City of Grace Scottsdale is close friends with Brian Houston, founder of Hillsong Church who covered up his father's pedophilia.
@@ -467,7 +467,7 @@ Investigative Direction: Verify friendship through church records and public sta
 
 ---
 
-**C-1027** Erika Claimed No Dating in NYC
+**C-1030** Erika Claimed No Dating in NYC
 
 Claim Timestamp: 54:59
 Claim: Erika claimed she did not date anyone during her 5 years living in New York City before meeting Charlie Kirk.
@@ -481,7 +481,7 @@ Investigative Direction: Obtain social media records and witness testimony from 
 
 ---
 
-**C-1028** Erika Had Multiple Boyfriends 2013-2018
+**C-1031** Erika Had Multiple Boyfriends 2013-2018
 
 Claim Timestamp: 58:39
 Claim: Evidence shows Erika had multiple boyfriends during the 2013-2018 period, including ringing in 2018 with a boyfriend, contradicting her claim of not dating for 5 years before Charlie.

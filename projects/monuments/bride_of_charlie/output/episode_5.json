@@ -23,7 +23,7 @@
           "event_timestamp": "1990",
           "video_timestamp": "02:10–02:29",
           "related_claims": [
-            "C-1045"
+            "C-1048"
           ],
           "confidence": "medium",
           "transcript_snippet": "final big project of the semester...taking a group of students to Eastern Europe...",
@@ -37,7 +37,7 @@
           "event_timestamp": "1950s-1977",
           "video_timestamp": "04:20–05:22",
           "related_claims": [
-            "C-1048"
+            "C-1051"
           ],
           "confidence": "medium",
           "transcript_snippet": "Colonel Paul Tracy Gerard...chief military law enforcement officer at the Seventh Army in Europe",
@@ -59,7 +59,7 @@
           "event_timestamp": "2001",
           "video_timestamp": "09:41–09:57",
           "related_claims": [
-            "C-1050"
+            "C-1053"
           ],
           "confidence": "medium",
           "transcript_snippet": "E3 Tech...on its website it tells us that they participate in operation enduring freedom",
@@ -81,7 +81,7 @@
           "event_timestamp": "2005",
           "video_timestamp": "12:47–12:59",
           "related_claims": [
-            "C-1051"
+            "C-1054"
           ],
           "confidence": "medium",
           "transcript_snippet": "she received money from the government...IMAT Laboratories...Department of Homeland Securities",
@@ -95,7 +95,7 @@
           "event_timestamp": "2008",
           "video_timestamp": "17:10–17:24",
           "related_claims": [
-            "C-1052"
+            "C-1055"
           ],
           "confidence": "high",
           "transcript_snippet": "they gave $2.4 million to IMET laboratories...J3, J6, cyber operations",
@@ -117,7 +117,7 @@
           "event_timestamp": "April 2009",
           "video_timestamp": "18:23–18:36",
           "related_claims": [
-            "C-1056"
+            "C-1059"
           ],
           "confidence": "medium",
           "transcript_snippet": "she will establish Everyday Heroes Like You in April...faithbased organization...vulnerable children",
@@ -139,8 +139,8 @@
           "event_timestamp": "October 2009",
           "video_timestamp": "19:24–19:29",
           "related_claims": [
-            "C-1053",
-            "C-1057"
+            "C-1056",
+            "C-1060"
           ],
           "confidence": "medium",
           "transcript_snippet": "Romanian government has agreed to allow America to set up a military base along the Black Sea",
@@ -154,7 +154,7 @@
           "event_timestamp": "May 17, 2010",
           "video_timestamp": "27:50–28:06",
           "related_claims": [
-            "C-1058"
+            "C-1061"
           ],
           "confidence": "high",
           "transcript_snippet": "Marines, sailors...Black Sea Rotational Force 2010...Mihail Kogalniceanu airfield on May 17th",
@@ -176,7 +176,7 @@
           "event_timestamp": "2009",
           "video_timestamp": "22:23–22:38",
           "related_claims": [
-            "C-1061"
+            "C-1064"
           ],
           "confidence": "medium",
           "transcript_snippet": "Jeffrey Epstein...emails going back to 2009...interested in procuring models from Romania",
@@ -198,8 +198,8 @@
           "event_timestamp": "2010",
           "video_timestamp": "29:35–30:12",
           "related_claims": [
-            "C-1062",
-            "C-1060"
+            "C-1065",
+            "C-1063"
           ],
           "confidence": "medium",
           "transcript_snippet": "Tyler writes, I went to Romania to do some work with a senator in the parliament there",
@@ -221,9 +221,9 @@
           "event_timestamp": "2009",
           "video_timestamp": "36:50–37:06",
           "related_claims": [
-            "C-1059",
-            "C-1042",
-            "C-1063"
+            "C-1062",
+            "C-1045",
+            "C-1066"
           ],
           "confidence": "high",
           "transcript_snippet": "There actually was a very detailed article about how he lost his license",
@@ -245,7 +245,7 @@
           "event_timestamp": "December 1, 1999",
           "video_timestamp": "10:56–10:58",
           "related_claims": [
-            "C-1049"
+            "C-1052"
           ],
           "confidence": "medium",
           "transcript_snippet": "she forms Virtual Registration International Incorporated...with the help of Rick and Donna Erpenbeck",
@@ -259,7 +259,7 @@
           "event_timestamp": "January 6, 2010",
           "video_timestamp": "24:02–24:14",
           "related_claims": [
-            "C-1038"
+            "C-1041"
           ],
           "confidence": "medium",
           "transcript_snippet": "Jerry Frantzve Fay creates an LLC called Luminarius with her daughter...another charter school company",
@@ -282,8 +282,8 @@
         "A-1032.1"
       ],
       "related_claims": [
-        "C-1055",
-        "C-1044"
+        "C-1058",
+        "C-1047"
       ],
       "tags": [
         "key_figure",
@@ -308,9 +308,9 @@
         "A-1034.2"
       ],
       "related_claims": [
-        "C-1045",
-        "C-1038",
-        "C-1044"
+        "C-1048",
+        "C-1041",
+        "C-1047"
       ],
       "tags": [
         "key_figure"
@@ -332,11 +332,11 @@
         "A-1034.2"
       ],
       "related_claims": [
-        "C-1049",
-        "C-1050",
-        "C-1051",
         "C-1052",
-        "C-1056"
+        "C-1053",
+        "C-1054",
+        "C-1055",
+        "C-1059"
       ],
       "tags": [
         "key_figure",
@@ -355,9 +355,9 @@
         "A-1024.2"
       ],
       "related_claims": [
-        "C-1046",
-        "C-1048",
-        "C-1038"
+        "C-1049",
+        "C-1051",
+        "C-1041"
       ],
       "tags": [
         "education",
@@ -375,7 +375,7 @@
         "A-1024.2"
       ],
       "related_claims": [
-        "C-1048"
+        "C-1051"
       ],
       "tags": [
         "education",
@@ -394,9 +394,9 @@
         "A-1032.1"
       ],
       "related_claims": [
-        "C-1062",
-        "C-1060",
-        "C-1041"
+        "C-1065",
+        "C-1063",
+        "C-1044"
       ],
       "tags": [
         "romantic_partner",
@@ -414,9 +414,9 @@
         "A-1033.1"
       ],
       "related_claims": [
-        "C-1059",
-        "C-1042",
-        "C-1063"
+        "C-1062",
+        "C-1045",
+        "C-1066"
       ],
       "tags": [
         "family_member",
@@ -434,8 +434,8 @@
         "A-1031.1"
       ],
       "related_claims": [
-        "C-1061",
-        "C-1057"
+        "C-1064",
+        "C-1060"
       ],
       "tags": [
         "sex_offender",
@@ -453,7 +453,7 @@
         "A-1030.2"
       ],
       "related_claims": [
-        "C-1058"
+        "C-1061"
       ],
       "tags": [
         "military",
@@ -471,7 +471,7 @@
         "A-1024.1"
       ],
       "related_claims": [
-        "C-1045"
+        "C-1048"
       ],
       "tags": [
         "timeline_gap"
@@ -490,9 +490,9 @@
         "A-1026.2"
       ],
       "related_claims": [
-        "C-1050",
-        "C-1051",
-        "C-1052"
+        "C-1053",
+        "C-1054",
+        "C-1055"
       ],
       "tags": [
         "military_contract"
@@ -511,9 +511,9 @@
         "A-1031.1"
       ],
       "related_claims": [
-        "C-1057",
-        "C-1058",
-        "C-1053"
+        "C-1060",
+        "C-1061",
+        "C-1056"
       ],
       "tags": [
         "trafficking",
@@ -548,7 +548,7 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1045",
+      "@id": "C-1048",
       "label": "Erika missing from school records 2000-2002",
       "claim_timestamp": "08:34",
       "claim": "Erika Kirk has no documented school attendance between 2000-2002 despite claims of attending St. Ursula Villa",
@@ -563,11 +563,11 @@
       "tags": [
         "timeline_gap"
       ],
-      "ref": "C-1045"
+      "ref": "C-1048"
     },
     {
       "@type": "Claim",
-      "@id": "C-1046",
+      "@id": "C-1049",
       "label": "Dr. Jerry Frantzve conducted Eastern Europe research 1990",
       "claim_timestamp": "02:10",
       "claim": "Dr. Jerry Frantzve took students to Eastern Europe in 1990 to research gender issues post-Berlin Wall fall",
@@ -582,11 +582,11 @@
         "research",
         "eastern_europe"
       ],
-      "ref": "C-1046"
+      "ref": "C-1049"
     },
     {
       "@type": "Claim",
-      "@id": "C-1048",
+      "@id": "C-1051",
       "label": "Nancy Gerard Hall military connections",
       "claim_timestamp": "04:20",
       "claim": "Tesaract principal Nancy Gerard Hall had father Colonel Paul Tracy Gerard in military intelligence and brother in Scabbard and Blade",
@@ -601,11 +601,11 @@
       "tags": [
         "military_family"
       ],
-      "ref": "C-1048"
+      "ref": "C-1051"
     },
     {
       "@type": "Claim",
-      "@id": "C-1049",
+      "@id": "C-1052",
       "label": "Lori forms multiple companies 1999-2000",
       "claim_timestamp": "10:56",
       "claim": "Lori Frantzve formed Virtual Registration International (Dec 1999), Intel of Arizona LLC (Jan 2003) indicating overseas work",
@@ -619,11 +619,11 @@
       "tags": [
         "corporate"
       ],
-      "ref": "C-1049"
+      "ref": "C-1052"
     },
     {
       "@type": "Claim",
-      "@id": "C-1050",
+      "@id": "C-1053",
       "label": "E3 Tech participated in Operation Enduring Freedom",
       "claim_timestamp": "09:41",
       "claim": "E3 Tech company's own website states they participated in Operation Enduring Freedom in Afghanistan",
@@ -639,11 +639,11 @@
         "military_contract",
         "afghanistan"
       ],
-      "ref": "C-1050"
+      "ref": "C-1053"
     },
     {
       "@type": "Claim",
-      "@id": "C-1051",
+      "@id": "C-1054",
       "label": "IMAT Laboratories received DHS funding 2005",
       "claim_timestamp": "12:47",
       "claim": "Lori Frantzve received money from IMAT Laboratories listed in House bill budget from Department of Homeland Security",
@@ -658,11 +658,11 @@
       "tags": [
         "government_funding"
       ],
-      "ref": "C-1051"
+      "ref": "C-1054"
     },
     {
       "@type": "Claim",
-      "@id": "C-1052",
+      "@id": "C-1055",
       "label": "IMET Laboratories received $2.4M from Army National Guard 2008",
       "claim_timestamp": "17:10",
       "claim": "IMET Laboratories associated with Lori Frantzve received $2.4 million from Army National Guard for cyber operations (J3, J6)",
@@ -678,11 +678,11 @@
         "government_funding",
         "military"
       ],
-      "ref": "C-1052"
+      "ref": "C-1055"
     },
     {
       "@type": "Claim",
-      "@id": "C-1056",
+      "@id": "C-1059",
       "label": "Everyday Heroes Like You established 2009",
       "claim_timestamp": "18:23",
       "claim": "Lori Frantzve established Everyday Heroes Like You in April 2009 as faith-based organization for vulnerable children",
@@ -696,11 +696,11 @@
       "tags": [
         "charity"
       ],
-      "ref": "C-1056"
+      "ref": "C-1059"
     },
     {
       "@type": "Claim",
-      "@id": "C-1053",
+      "@id": "C-1056",
       "label": "Romania agreed to US military base October 2009",
       "claim_timestamp": "19:24",
       "claim": "Romanian government agreed to allow America to set up military base along Black Sea in October 2009",
@@ -715,11 +715,11 @@
         "military",
         "romania"
       ],
-      "ref": "C-1053"
+      "ref": "C-1056"
     },
     {
       "@type": "Claim",
-      "@id": "C-1057",
+      "@id": "C-1060",
       "label": "Romania base establishment coincides with Epstein interest",
       "claim_timestamp": "22:23",
       "claim": "Same year 2009 Romania agreed to US base, Jeffrey Epstein began procuring women from Romania per emails",
@@ -736,11 +736,11 @@
         "trafficking",
         "timeline"
       ],
-      "ref": "C-1057"
+      "ref": "C-1060"
     },
     {
       "@type": "Claim",
-      "@id": "C-1058",
+      "@id": "C-1061",
       "label": "Black Sea Rotational Force 2010 and Colonel Busher trafficking",
       "claim_timestamp": "27:50",
       "claim": "Black Sea Rotational Force 2010 established at Mihail Kogalniceanu air base; Colonel Otto Busher accused of brothel/trafficking 2010-2015",
@@ -756,11 +756,11 @@
         "military",
         "trafficking"
       ],
-      "ref": "C-1058"
+      "ref": "C-1061"
     },
     {
       "@type": "Claim",
-      "@id": "C-1061",
+      "@id": "C-1064",
       "label": "Jeffrey Epstein emails show Romanian model interest 2009",
       "claim_timestamp": "22:28",
       "claim": "Epstein emails from 2009 show interest in procuring models from Romania, offering $10,000 for Romanian women",
@@ -774,11 +774,11 @@
       "tags": [
         "sex_trafficking"
       ],
-      "ref": "C-1061"
+      "ref": "C-1064"
     },
     {
       "@type": "Claim",
-      "@id": "C-1062",
+      "@id": "C-1065",
       "label": "Tyler Bowyer in Romania 2010 with Parliament member",
       "claim_timestamp": "29:35",
       "claim": "Tyler Bowyer went to Romania May-August 2010 to work with a senator in Romanian Parliament, stayed with modeling agency contact",
@@ -793,11 +793,11 @@
         "romania",
         "parliament"
       ],
-      "ref": "C-1062"
+      "ref": "C-1065"
     },
     {
       "@type": "Claim",
-      "@id": "C-1060",
+      "@id": "C-1063",
       "label": "Tyler Bowyer drinking with Romanian models in 2010",
       "claim_timestamp": "30:05",
       "claim": "Tyler Bowyer reported getting 'completely Romanian sloshed' with girls from modeling agency in Romania 2010",
@@ -812,11 +812,11 @@
         "models",
         "social"
       ],
-      "ref": "C-1060"
+      "ref": "C-1063"
     },
     {
       "@type": "Claim",
-      "@id": "C-1059",
+      "@id": "C-1062",
       "title": "Richard Erpenbeck license suspended 2009",
       "claim_timestamp": "36:50",
       "claim": "Richard Erpenbeck lost law license in Kentucky in August 2009 for professional negligence",
@@ -831,12 +831,12 @@
         "legal",
         "suspension"
       ],
-      "ref": "C-1059",
+      "ref": "C-1062",
       "label": "Richard Erpenbeck license suspended 2009"
     },
     {
       "@type": "Claim",
-      "@id": "C-1042",
+      "@id": "C-1045",
       "label": "Richard Erpenbeck mortgage fraud at Bank of Corbin",
       "claim_timestamp": "37:34",
       "claim": "Richard Erpenbeck failed to disclose existing mortgages while performing title searches, enabling Bank of Corbin to issue fraudulent loans",
@@ -851,11 +851,11 @@
         "fraud",
         "banking"
       ],
-      "ref": "C-1042"
+      "ref": "C-1045"
     },
     {
       "@type": "Claim",
-      "@id": "C-1063",
+      "@id": "C-1066",
       "label": "Richard Erpenbeck deed fraud with Anita Andrews",
       "claim_timestamp": "39:41",
       "claim": "Richard Erpenbeck prepared fraudulent deed transferring property to Anita Andrews without her signature, then transferred to his parents",
@@ -870,11 +870,11 @@
         "fraud",
         "property"
       ],
-      "ref": "C-1063"
+      "ref": "C-1066"
     },
     {
       "@type": "Claim",
-      "@id": "C-1038",
+      "@id": "C-1041",
       "label": "Luminarius LLC charter school company 2010",
       "claim_timestamp": "24:02",
       "claim": "Jerry Frantzve created Luminarius LLC with daughter Deborah Himil in January 2010 - another charter school company",
@@ -889,11 +889,11 @@
       "tags": [
         "charter_schools"
       ],
-      "ref": "C-1038"
+      "ref": "C-1041"
     },
     {
       "@type": "Claim",
-      "@id": "C-1041",
+      "@id": "C-1044",
       "label": "Tyler Bowyer married 2010 and LDS",
       "claim_timestamp": "30:16",
       "claim": "Tyler Bowyer was married in 2010 and is LDS (Mormon) which prohibits alcohol consumption",
@@ -908,11 +908,11 @@
         "marriage",
         "religion"
       ],
-      "ref": "C-1041"
+      "ref": "C-1044"
     },
     {
       "@type": "Claim",
-      "@id": "C-1055",
+      "@id": "C-1058",
       "label": "Charlie observed evangelical Christian Shabbat",
       "claim_timestamp": "44:22",
       "claim": "Charlie Kirk observed an evangelical Christian version of Shabbat, turning phone off on Saturdays",
@@ -926,11 +926,11 @@
       "tags": [
         "religious_practice"
       ],
-      "ref": "C-1055"
+      "ref": "C-1058"
     },
     {
       "@type": "Claim",
-      "@id": "C-1044",
+      "@id": "C-1047",
       "label": "Candace present with Charlie at Israel airport",
       "claim_timestamp": "36:17",
       "claim": "Candace Owens was with Charlie Kirk at airport in Israel when Erika was introduced to him",
@@ -946,7 +946,7 @@
         "meeting",
         "israel"
       ],
-      "ref": "C-1044"
+      "ref": "C-1047"
     }
   ]
 }

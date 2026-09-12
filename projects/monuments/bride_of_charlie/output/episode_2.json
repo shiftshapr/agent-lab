@@ -27,7 +27,7 @@
           "video_timestamp": "13:31–13:59",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1020"
+            "C-1023"
           ],
           "related_nodes": [
             "N-2",
@@ -58,7 +58,7 @@
           "video_timestamp": "29:18–29:22",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1022"
+            "C-1025"
           ],
           "related_nodes": [
             "N-2",
@@ -81,7 +81,7 @@
           "video_timestamp": "29:28–29:30",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1022"
+            "C-1025"
           ],
           "related_nodes": [
             "N-2",
@@ -104,7 +104,7 @@
           "video_timestamp": "29:50–29:54",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1022"
+            "C-1025"
           ],
           "related_nodes": [
             "N-2",
@@ -135,7 +135,7 @@
           "video_timestamp": "23:34–23:58",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1023"
+            "C-1026"
           ],
           "related_nodes": [
             "N-2",
@@ -166,7 +166,7 @@
           "video_timestamp": "48:01–49:24",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1024"
+            "C-1027"
           ],
           "related_nodes": [
             "N-2",
@@ -192,8 +192,8 @@
       "description": "Primary subject of investigation - deceased founder of Turning Point USA",
       "related_artifacts": [],
       "related_claims": [
-        "C-1019",
-        "C-1025"
+        "C-1022",
+        "C-1028"
       ],
       "tags": [
         "key_figure",
@@ -232,11 +232,11 @@
         "A-1013.1"
       ],
       "related_claims": [
-        "C-1021",
-        "C-1022",
-        "C-1019",
         "C-1024",
-        "C-1025"
+        "C-1025",
+        "C-1022",
+        "C-1027",
+        "C-1028"
       ],
       "tags": [
         "subject"
@@ -254,9 +254,9 @@
         "A-1012.1"
       ],
       "related_claims": [
-        "C-1020",
         "C-1023",
-        "C-1022"
+        "C-1026",
+        "C-1025"
       ],
       "tags": [
         "key_figure",
@@ -272,7 +272,7 @@
       "description": "Erika's father - Army Corps of Engineers, married to Lori and then Jerry",
       "related_artifacts": [],
       "related_claims": [
-        "C-1020"
+        "C-1023"
       ],
       "tags": [
         "family_member"
@@ -287,8 +287,8 @@
       "description": "Erika's mother",
       "related_artifacts": [],
       "related_claims": [
-        "C-1019",
-        "C-1024"
+        "C-1022",
+        "C-1027"
       ],
       "tags": [
         "family_member"
@@ -303,8 +303,8 @@
       "description": "Turning Point USA operative who introduced Charlie to Erika",
       "related_artifacts": [],
       "related_claims": [
-        "C-1019",
-        "C-1025"
+        "C-1022",
+        "C-1028"
       ],
       "tags": [
         "key_figure",
@@ -322,7 +322,7 @@
         "A-1013.1"
       ],
       "related_claims": [
-        "C-1024"
+        "C-1027"
       ],
       "tags": [
         "source"
@@ -337,7 +337,7 @@
       "description": "Tesaract board member with MK Ultra connections",
       "related_artifacts": [],
       "related_claims": [
-        "C-1022"
+        "C-1025"
       ],
       "tags": [
         "associated"
@@ -352,7 +352,7 @@
       "description": "Notorious psychologist - colleague of Jerry Frantzve, father of gender ideology",
       "related_artifacts": [],
       "related_claims": [
-        "C-1023"
+        "C-1026"
       ],
       "tags": [
         "notorious_figure"
@@ -367,7 +367,7 @@
       "description": "Erika's birth date inconsistency between 20th or 22nd November 1988",
       "related_artifacts": [],
       "related_claims": [
-        "C-1021"
+        "C-1024"
       ],
       "tags": [
         "discrepancy_target"
@@ -384,8 +384,8 @@
         "A-1010.1"
       ],
       "related_claims": [
-        "C-1020",
-        "C-1023"
+        "C-1023",
+        "C-1026"
       ],
       "tags": [
         "verification_target"
@@ -400,7 +400,7 @@
       "description": "Alleged missing millions from Turning Point USA and Turning Point Action",
       "related_artifacts": [],
       "related_claims": [
-        "C-1019"
+        "C-1022"
       ],
       "tags": [
         "financial_discrepancy"
@@ -419,7 +419,7 @@
         "A-1011.3"
       ],
       "related_claims": [
-        "C-1022"
+        "C-1025"
       ],
       "tags": [
         "institutional_investigation"
@@ -436,7 +436,7 @@
         "A-1012.1"
       ],
       "related_claims": [
-        "C-1023"
+        "C-1026"
       ],
       "tags": [
         "verification_target"
@@ -453,7 +453,7 @@
         "A-1013.1"
       ],
       "related_claims": [
-        "C-1024"
+        "C-1027"
       ],
       "tags": [
         "verification_target"
@@ -463,8 +463,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1021",
-      "ref": "C-1021",
+      "@id": "C-1024",
+      "ref": "C-1024",
       "label": "DOB Discrepancy Mentioned",
       "claim_timestamp": "10:17",
       "claim": "Erika was born at Good Samaritan Hospital on either the 20th or 22nd of November 1988 depending on source.",
@@ -482,8 +482,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1020",
-      "ref": "C-1020",
+      "@id": "C-1023",
+      "ref": "C-1023",
       "label": "Jerry Frantzve Early Life History",
       "claim_timestamp": "13:31",
       "claim": "Jerry Frantzve ran away at 14, married using forged documents, had shotgun wedding to Carl Pangirl who later became Mormon bishop.",
@@ -505,8 +505,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1023",
-      "ref": "C-1023",
+      "@id": "C-1026",
+      "ref": "C-1026",
       "label": "Jerry Frantzve DuPont and Radford Connections",
       "claim_timestamp": "20:00",
       "claim": "Jerry Frantzve worked for DuPont family as director of employee relations and later headed gender clinic at Radford University.",
@@ -529,8 +529,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1022",
-      "ref": "C-1022",
+      "@id": "C-1025",
+      "ref": "C-1025",
       "label": "Tesaract School as Psychological Experiment",
       "claim_timestamp": "29:00",
       "claim": "Tesaract school where Erika attended from 1993-1999 was backed by Bush and Walton families and designed as psychological experiment with Dr. Jerry Frantzve involvement.",
@@ -554,8 +554,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1019",
-      "ref": "C-1019",
+      "@id": "C-1022",
+      "ref": "C-1022",
       "label": "Missing Money from Turning Point USA",
       "claim_timestamp": "44:50",
       "claim": "Millions of dollars were missing from Turning Point USA, specifically from Turning Point Action headed by Tyler Bowyer.",
@@ -577,8 +577,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1024",
-      "ref": "C-1024",
+      "@id": "C-1027",
+      "ref": "C-1027",
       "label": "Erika's Pageant Narrative Contradiction",
       "claim_timestamp": "49:25",
       "claim": "Erika claims she wasn't groomed for pageants and received nomination unexpectedly, but evidence shows she was involved from early age and mother pushed it.",
@@ -601,8 +601,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1025",
-      "ref": "C-1025",
+      "@id": "C-1028",
+      "ref": "C-1028",
       "label": "Tyler Bowyer Introduced Charlie to Erika",
       "claim_timestamp": "44:27",
       "claim": "Tyler Bowyer was the person who introduced Charlie Kirk to Erika Kirk.",

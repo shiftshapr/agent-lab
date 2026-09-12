@@ -27,8 +27,8 @@
           "video_timestamp": "05:21–05:28",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1084",
-            "C-1085"
+            "C-1090",
+            "C-1091"
           ],
           "related_nodes": [
             "N-2",
@@ -51,8 +51,8 @@
           "video_timestamp": "06:46–06:55",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1084",
-            "C-1085"
+            "C-1090",
+            "C-1091"
           ],
           "related_nodes": [
             "N-2",
@@ -75,8 +75,8 @@
           "video_timestamp": "07:48–07:56",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1084",
-            "C-1085"
+            "C-1090",
+            "C-1091"
           ],
           "related_nodes": [
             "N-2",
@@ -99,7 +99,7 @@
           "video_timestamp": "05:40–05:46",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1085"
+            "C-1091"
           ],
           "related_nodes": [
             "N-2",
@@ -129,7 +129,7 @@
           "video_timestamp": "16:52–17:31",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1088"
+            "C-1094"
           ],
           "related_nodes": [
             "N-13",
@@ -152,8 +152,8 @@
           "video_timestamp": "17:36–19:20",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1088",
-            "C-1089"
+            "C-1094",
+            "C-1095"
           ],
           "related_nodes": [
             "N-2",
@@ -171,21 +171,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1053",
-      "family_ref": "A-1053",
+      "@id": "A-1055",
+      "family_ref": "A-1055",
       "bundle_name": "Financial Evidence Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1053.1",
-          "ref": "A-1053.1",
+          "@id": "A-1055.1",
+          "ref": "A-1055.1",
           "description": "Turning Point life insurance policy record",
           "event_timestamp": "Unknown",
           "source_timestamp": "Unknown",
           "video_timestamp": "11:27–11:49",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1087"
+            "C-1093"
           ],
           "related_nodes": [
             "N-1",
@@ -201,15 +201,15 @@
         },
         {
           "@type": "Artifact",
-          "@id": "A-1053.2",
-          "ref": "A-1053.2",
+          "@id": "A-1055.2",
+          "ref": "A-1055.2",
           "description": "Tucker Carlson GoFundMe campaign records",
           "event_timestamp": "2024",
           "source_timestamp": "2024",
           "video_timestamp": "13:29–13:59",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1087"
+            "C-1093"
           ],
           "related_nodes": [
             "N-2",
@@ -226,22 +226,22 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1054",
-      "family_ref": "A-1054",
+      "@id": "A-1056",
+      "family_ref": "A-1056",
       "bundle_name": "Arizona State University Epstein Connection",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1054.1",
-          "ref": "A-1054.1",
+          "@id": "A-1056.1",
+          "ref": "A-1056.1",
           "description": "Jeffrey Epstein donation records to ASU",
           "event_timestamp": "December 2010",
           "source_timestamp": "December 2010",
           "video_timestamp": "30:19–30:43",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1093",
-            "C-1094"
+            "C-1101",
+            "C-1102"
           ],
           "related_nodes": [
             "N-21",
@@ -257,16 +257,16 @@
         },
         {
           "@type": "Artifact",
-          "@id": "A-1054.2",
-          "ref": "A-1054.2",
+          "@id": "A-1056.2",
+          "ref": "A-1056.2",
           "description": "Tyler Bowyer board appointment documentation",
           "event_timestamp": "2010",
           "source_timestamp": "2010",
           "video_timestamp": "26:43–27:05",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1093",
-            "C-1094"
+            "C-1101",
+            "C-1102"
           ],
           "related_nodes": [
             "N-29",
@@ -282,15 +282,15 @@
         },
         {
           "@type": "Artifact",
-          "@id": "A-1054.3",
-          "ref": "A-1054.3",
+          "@id": "A-1056.3",
+          "ref": "A-1056.3",
           "description": "Epstein emails mention frequency data",
           "event_timestamp": "Unknown",
           "source_timestamp": "Unknown",
           "video_timestamp": "29:58–30:14",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1094"
+            "C-1102"
           ],
           "related_nodes": [
             "N-21",
@@ -307,21 +307,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1055",
-      "family_ref": "A-1055",
+      "@id": "A-1057",
+      "family_ref": "A-1057",
       "bundle_name": "Erika Relationship Timeline Evidence",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1055.1",
-          "ref": "A-1055.1",
+          "@id": "A-1057.1",
+          "ref": "A-1057.1",
           "description": "Josh Harelson basketball records",
           "event_timestamp": "2012-2013",
           "source_timestamp": "2012-2013",
           "video_timestamp": "36:25–37:13",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1090"
+            "C-1096"
           ],
           "related_nodes": [
             "N-30",
@@ -336,15 +336,15 @@
         },
         {
           "@type": "Artifact",
-          "@id": "A-1055.2",
-          "ref": "A-1055.2",
+          "@id": "A-1057.2",
+          "ref": "A-1057.2",
           "description": "Erika Amazing Race audition tape",
           "event_timestamp": "2014",
           "source_timestamp": "2014",
           "video_timestamp": "45:19–46:57",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1091"
+            "C-1097"
           ],
           "related_nodes": [
             "N-2",
@@ -359,15 +359,15 @@
         },
         {
           "@type": "Artifact",
-          "@id": "A-1055.3",
-          "ref": "A-1055.3",
+          "@id": "A-1057.3",
+          "ref": "A-1057.3",
           "description": "Erika House of DVF audition tape",
           "event_timestamp": "2014",
           "source_timestamp": "2014",
           "video_timestamp": "49:01–50:34",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1091"
+            "C-1097"
           ],
           "related_nodes": [
             "N-2"
@@ -383,21 +383,21 @@
     },
     {
       "@type": "ArtifactFamily",
-      "@id": "A-1056",
-      "family_ref": "A-1056",
+      "@id": "A-1058",
+      "family_ref": "A-1058",
       "bundle_name": "Education Claims Evidence",
       "sub_items": [
         {
           "@type": "Artifact",
-          "@id": "A-1056.1",
-          "ref": "A-1056.1",
+          "@id": "A-1058.1",
+          "ref": "A-1058.1",
           "description": "Arizona State University catalog records",
           "event_timestamp": "2012",
           "source_timestamp": "2012",
           "video_timestamp": "28:05–28:55",
           "discovery_timestamp": "2026-03-18",
           "related_claims": [
-            "C-1095"
+            "C-1103"
           ],
           "related_nodes": [
             "N-2",
@@ -422,11 +422,11 @@
       "type": "person",
       "description": "Founder of Turning Point USA, deceased. Subject of investigation.",
       "related_artifacts": [
-        "A-1053.1",
-        "A-1053.2"
+        "A-1055.1",
+        "A-1055.2"
       ],
       "related_claims": [
-        "C-1087"
+        "C-1093"
       ],
       "tags": [
         "key_figure",
@@ -448,22 +448,22 @@
         "A-1049.4",
         "A-1050.1",
         "A-1050.2",
-        "A-1053.1",
-        "A-1053.2",
         "A-1055.1",
         "A-1055.2",
-        "A-1055.3",
-        "A-1056.1"
+        "A-1057.1",
+        "A-1057.2",
+        "A-1057.3",
+        "A-1058.1"
       ],
       "related_claims": [
-        "C-1084",
-        "C-1085",
-        "C-1086",
-        "C-1087",
-        "C-1089",
         "C-1090",
         "C-1091",
-        "C-1095"
+        "C-1092",
+        "C-1093",
+        "C-1095",
+        "C-1096",
+        "C-1097",
+        "C-1103"
       ],
       "tags": [
         "key_figure",
@@ -484,15 +484,15 @@
         "A-1049.3",
         "A-1050.1",
         "A-1050.2",
-        "A-1053.1",
-        "A-1053.2",
-        "A-1054.1",
-        "A-1054.2",
-        "A-1054.3",
         "A-1055.1",
         "A-1055.2",
-        "A-1055.3",
-        "A-1056.1"
+        "A-1056.1",
+        "A-1056.2",
+        "A-1056.3",
+        "A-1057.1",
+        "A-1057.2",
+        "A-1057.3",
+        "A-1058.1"
       ],
       "related_claims": [],
       "tags": [
@@ -509,12 +509,12 @@
       "description": "Turning Point USA executive. Former Maricopa County Republican Committee chairman. Connected to Charlie Kirk and investigated for connections to Romania and Epstein.",
       "related_artifacts": [
         "A-1050.1",
-        "A-1054.2"
+        "A-1056.2"
       ],
       "related_claims": [
-        "C-1093",
-        "C-1094",
-        "C-1088"
+        "C-1101",
+        "C-1102",
+        "C-1094"
       ],
       "tags": [
         "key_figure",
@@ -533,7 +533,7 @@
         "A-1050.1"
       ],
       "related_claims": [
-        "C-1088"
+        "C-1094"
       ],
       "tags": [
         "secondary"
@@ -548,10 +548,10 @@
       "type": "person",
       "description": "Governor of Arizona who appointed Tyler Bowyer to Arizona Board of Regents.",
       "related_artifacts": [
-        "A-1054.2"
+        "A-1056.2"
       ],
       "related_claims": [
-        "C-1093"
+        "C-1101"
       ],
       "tags": [
         "political_figure"
@@ -566,10 +566,10 @@
       "type": "person",
       "description": "Professional basketball player who dated Erika in 2013. Played for Miami Heat, then overseas teams in Puerto Rico and China.",
       "related_artifacts": [
-        "A-1055.1"
+        "A-1057.1"
       ],
       "related_claims": [
-        "C-1090"
+        "C-1096"
       ],
       "tags": [
         "relationship",
@@ -585,11 +585,11 @@
       "type": "person",
       "description": "Financier with documented connections to Arizona State University. Donated to ASU in December 2010.",
       "related_artifacts": [
-        "A-1054.1",
-        "A-1054.3"
+        "A-1056.1",
+        "A-1056.3"
       ],
       "related_claims": [
-        "C-1094"
+        "C-1102"
       ],
       "tags": [
         "notorious_figure",
@@ -605,15 +605,15 @@
       "type": "institution",
       "description": "University with documented Epstein donations. Tyler Bowyer appointed to board. Erika Kirk claims to have graduated from here.",
       "related_artifacts": [
-        "A-1054.1",
-        "A-1054.2",
-        "A-1054.3",
-        "A-1056.1"
+        "A-1056.1",
+        "A-1056.2",
+        "A-1056.3",
+        "A-1058.1"
       ],
       "related_claims": [
-        "C-1093",
-        "C-1094",
-        "C-1095"
+        "C-1101",
+        "C-1102",
+        "C-1103"
       ],
       "tags": [
         "institution",
@@ -629,10 +629,10 @@
       "type": "person",
       "description": "Minor league baseball player with Colorado Rockies who dated Erika and auditioned with her for Amazing Race in 2014.",
       "related_artifacts": [
-        "A-1055.2"
+        "A-1057.2"
       ],
       "related_claims": [
-        "C-1091"
+        "C-1097"
       ],
       "tags": [
         "relationship",
@@ -654,9 +654,9 @@
         "A-1049.4"
       ],
       "related_claims": [
-        "C-1084",
-        "C-1085",
-        "C-1086"
+        "C-1090",
+        "C-1091",
+        "C-1092"
       ],
       "tags": [
         "discrepancy_target",
@@ -672,11 +672,11 @@
       "type": "investigation_target",
       "description": "Erika claims to be sole provider for children, discounting Charlie's financial planning and public donations.",
       "related_artifacts": [
-        "A-1053.1",
-        "A-1053.2"
+        "A-1055.1",
+        "A-1055.2"
       ],
       "related_claims": [
-        "C-1087"
+        "C-1093"
       ],
       "tags": [
         "discrepancy_target",
@@ -692,11 +692,11 @@
       "type": "investigation_target",
       "description": "$10 million Turning Point life insurance policy and $5.4 million raised by Tucker Carlson.",
       "related_artifacts": [
-        "A-1053.1",
-        "A-1053.2"
+        "A-1055.1",
+        "A-1055.2"
       ],
       "related_claims": [
-        "C-1087"
+        "C-1093"
       ],
       "tags": [
         "financial_investigation"
@@ -711,12 +711,12 @@
       "type": "investigation_target",
       "description": "Jeffrey Epstein donated to ASU months before Tyler Bowyer was appointed to board. ASU mentioned 3500 times in Epstein emails.",
       "related_artifacts": [
-        "A-1054.1",
-        "A-1054.2",
-        "A-1054.3"
+        "A-1056.1",
+        "A-1056.2",
+        "A-1056.3"
       ],
       "related_claims": [
-        "C-1094"
+        "C-1102"
       ],
       "tags": [
         "network_investigation",
@@ -732,10 +732,10 @@
       "type": "investigation_target",
       "description": "Erika claims double major in political science and international relations from ASU. International Relations may not have been available as major in 2012.",
       "related_artifacts": [
-        "A-1056.1"
+        "A-1058.1"
       ],
       "related_claims": [
-        "C-1095"
+        "C-1103"
       ],
       "tags": [
         "credential_investigation",
@@ -747,8 +747,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1084",
-      "ref": "C-1084",
+      "@id": "C-1090",
+      "ref": "C-1090",
       "label": "Erika business domain registered October 2018",
       "claim_timestamp": "05:21",
       "claim": "Erika registered the domain for her claimed business Proclaim Street on October 26, 2018, weeks after meeting Charlie.",
@@ -769,8 +769,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1085",
-      "ref": "C-1085",
+      "@id": "C-1091",
+      "ref": "C-1091",
       "label": "Proclaim LLC filed after dating began",
       "claim_timestamp": "06:46",
       "claim": "The official LLC paperwork for Proclaim was not filed until January 2019, after Erika began dating Charlie.",
@@ -792,8 +792,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1086",
-      "ref": "C-1086",
+      "@id": "C-1092",
+      "ref": "C-1092",
       "label": "Business not operational until 2021",
       "claim_timestamp": "07:48",
       "claim": "The Proclaim website did not have clothing items available for sale until January 16, 2021, five months before she married Charlie in May 2021.",
@@ -814,14 +814,14 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1087",
-      "ref": "C-1087",
+      "@id": "C-1093",
+      "ref": "C-1093",
       "label": "Charlie had life insurance and donations",
       "claim_timestamp": "11:27",
       "claim": "Charlie Kirk had a $10 million life insurance policy through Turning Point, and Tucker Carlson raised $5.4 million for Erika and the children.",
       "anchored_artifacts": [
-        "A-1053.1",
-        "A-1053.2"
+        "A-1055.1",
+        "A-1055.2"
       ],
       "related_nodes": [
         "N-1",
@@ -839,8 +839,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1088",
-      "ref": "C-1088",
+      "@id": "C-1094",
+      "ref": "C-1094",
       "label": "Turning Point opened Las Vegas office",
       "claim_timestamp": "16:52",
       "claim": "Turning Point USA announced opening a new office in Las Vegas on a February 2025 corporate call.",
@@ -861,8 +861,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1089",
-      "ref": "C-1089",
+      "@id": "C-1095",
+      "ref": "C-1095",
       "label": "Erika brings children to office",
       "claim_timestamp": "17:50",
       "claim": "Erika stated on corporate call that she brings her children to the office nine times out of ten.",
@@ -882,13 +882,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1090",
-      "ref": "C-1090",
+      "@id": "C-1096",
+      "ref": "C-1096",
       "label": "Erika dated Josh Harelson in 2013",
       "claim_timestamp": "36:25",
       "claim": "Erika dated basketball player Josh Harelson in 2013 and lived with him in China (Chongqing) during his overseas basketball season.",
       "anchored_artifacts": [
-        "A-1055.1"
+        "A-1057.1"
       ],
       "related_nodes": [
         "N-2",
@@ -904,14 +904,14 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1091",
-      "ref": "C-1091",
+      "@id": "C-1097",
+      "ref": "C-1097",
       "label": "Erika auditioned for reality shows in 2014",
       "claim_timestamp": "45:19",
       "claim": "Erika auditioned for The Amazing Race and House of DVF in 2014, seeking fame before meeting Charlie.",
       "anchored_artifacts": [
-        "A-1055.2",
-        "A-1055.3"
+        "A-1057.2",
+        "A-1057.3"
       ],
       "related_nodes": [
         "N-2",
@@ -927,13 +927,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1093",
-      "ref": "C-1093",
+      "@id": "C-1101",
+      "ref": "C-1101",
       "label": "Tyler Bowyer appointed by Governor Jan Brewer",
       "claim_timestamp": "26:43",
       "claim": "Tyler Bowyer was appointed to the Arizona Board of Regents by Governor Jan Brewer in 2010, bypassing normal selection process.",
       "anchored_artifacts": [
-        "A-1054.2"
+        "A-1056.2"
       ],
       "related_nodes": [
         "N-13",
@@ -950,15 +950,15 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1094",
-      "ref": "C-1094",
+      "@id": "C-1102",
+      "ref": "C-1102",
       "label": "Epstein donations to ASU before Bowyer appointment",
       "claim_timestamp": "30:19",
       "claim": "Jeffrey Epstein began donating to Arizona State University in December 2010, months before Tyler Bowyer was appointed to the Board of Regents.",
       "anchored_artifacts": [
-        "A-1054.1",
-        "A-1054.2",
-        "A-1054.3"
+        "A-1056.1",
+        "A-1056.2",
+        "A-1056.3"
       ],
       "related_nodes": [
         "N-13",
@@ -976,13 +976,13 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1095",
-      "ref": "C-1095",
+      "@id": "C-1103",
+      "ref": "C-1103",
       "label": "International Relations major not available 2012",
       "claim_timestamp": "28:05",
       "claim": "Erika claims a Bachelor of Science in International Relations from ASU, but this major was not available at ASU in 2012 when she graduated.",
       "anchored_artifacts": [
-        "A-1056.1"
+        "A-1058.1"
       ],
       "related_nodes": [
         "N-2",
