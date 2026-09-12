@@ -32,7 +32,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-18",
+            "N-21",
             "N-1025"
           ],
           "tags": [],
@@ -58,11 +58,11 @@
             "C-1026"
           ],
           "related_nodes": [
-            "N-19",
-            "N-20",
-            "N-21",
             "N-22",
-            "N-23"
+            "N-23",
+            "N-24",
+            "N-25",
+            "N-26"
           ],
           "tags": [],
           "event_timestamp": "2003",
@@ -79,11 +79,11 @@
             "C-1026"
           ],
           "related_nodes": [
-            "N-19",
-            "N-20",
-            "N-21",
             "N-22",
-            "N-23"
+            "N-23",
+            "N-24",
+            "N-25",
+            "N-26"
           ],
           "tags": [],
           "event_timestamp": "2002-2009",
@@ -100,8 +100,8 @@
             "C-1026"
           ],
           "related_nodes": [
-            "N-19",
-            "N-20"
+            "N-22",
+            "N-23"
           ],
           "tags": [],
           "event_timestamp": "2009",
@@ -128,8 +128,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-18",
-            "N-19"
+            "N-21",
+            "N-22"
           ],
           "tags": [],
           "event_timestamp": "1993-1999",
@@ -264,8 +264,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-24",
-            "N-25"
+            "N-27",
+            "N-28"
           ],
           "tags": [],
           "event_timestamp": "2011–2016",
@@ -373,8 +373,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-18",
-      "ref": "N-18",
+      "@id": "N-21",
+      "ref": "N-21",
       "name": "Richard Erpenbeck",
       "type": "person",
       "description": "Witness on Lori's divorce documents, longtime business associate of Lori, youngest Erpenbeck brother",
@@ -395,8 +395,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-19",
-      "ref": "N-19",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tony Erpenbeck",
       "type": "person",
       "description": "Father of Erpenbeck siblings, sentenced for bank fraud, plotted murder/kidnapping",
@@ -416,8 +416,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-20",
-      "ref": "N-20",
+      "@id": "N-23",
+      "ref": "N-23",
       "name": "Bill Erpenbeck",
       "type": "person",
       "description": "Erpenbeck brother, led fraud scheme, served 21 years",
@@ -437,8 +437,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-21",
-      "ref": "N-21",
+      "@id": "N-24",
+      "ref": "N-24",
       "name": "Gary Erpenbeck",
       "type": "person",
       "description": "Erpenbeck brother, involved in family business",
@@ -456,8 +456,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-22",
-      "ref": "N-22",
+      "@id": "N-25",
+      "ref": "N-25",
       "name": "Jeff Erpenbeck",
       "type": "person",
       "description": "Erpenbeck brother",
@@ -475,8 +475,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-23",
-      "ref": "N-23",
+      "@id": "N-26",
+      "ref": "N-26",
       "name": "Donna Erpenbeck",
       "type": "person",
       "description": "Wife of Gary Erpenbeck, notary on Lori's documents",
@@ -620,8 +620,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-24",
-      "ref": "N-24",
+      "@id": "N-27",
+      "ref": "N-27",
       "name": "Pastor Terry Crist",
       "type": "person",
       "description": "Pastor at City of Grace in Scottsdale, friend of Brian Houston",
@@ -637,8 +637,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-25",
-      "ref": "N-25",
+      "@id": "N-28",
+      "ref": "N-28",
       "name": "Brian Houston",
       "type": "person",
       "description": "Founder of Hillsong Church, covered up father's pedophilia",
@@ -788,7 +788,7 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-18",
+        "N-21",
         "N-4",
         "N-1025"
       ],
@@ -810,7 +810,7 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-18",
+        "N-21",
         "N-1025"
       ],
       "tags": [],
@@ -830,8 +830,8 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-18",
-        "N-23",
+        "N-21",
+        "N-26",
         "N-1025"
       ],
       "tags": [],
@@ -852,11 +852,11 @@
         "A-1017.3"
       ],
       "related_nodes": [
-        "N-19",
-        "N-20",
-        "N-21",
         "N-22",
         "N-23",
+        "N-24",
+        "N-25",
+        "N-26",
         "N-1025"
       ],
       "tags": [],
@@ -914,8 +914,8 @@
         "A-1021.2"
       ],
       "related_nodes": [
-        "N-24",
-        "N-25"
+        "N-27",
+        "N-28"
       ],
       "tags": [],
       "claim_timestamp": "00:44:10",

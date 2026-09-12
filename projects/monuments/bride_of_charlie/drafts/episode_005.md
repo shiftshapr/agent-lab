@@ -12,8 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1030-A-1040
   - Claim Range: C-1041-C-1068
-  - New Nodes Introduced: N-32, N-33, N-34, N-35, N-1034, N-1035, N-1036, N-1037, N-1038, N-1039, N-1040, N-1041
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-13, N-14, N-18, N-1001
+  - New Nodes Introduced: N-35, N-36, N-37, N-38, N-1034, N-1035, N-1036, N-1037, N-1038, N-1039, N-1040, N-1041
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-13, N-14, N-21, N-1001
 
 ## 2. Executive Summary
 
@@ -70,7 +70,7 @@ Confidence: high
 Event Timestamp: 2010-01-06
 Video Timestamp: 00:24:02
 Transcript Snippet: this year, Jerry Frantzve creates an...LLC called Luminarius with her daughter,...the one that she had when she was 14,...Deborah Himil, she's going to follow...mommy's footsteps from the very...beginning getting into psychology. It's...another charter school company. Okay....Now, in my mind, when I think about
-*Related: C-1057, N-3, N-33*
+*Related: C-1057, N-3, N-36*
 Confidence: high
 
 ---
@@ -128,7 +128,7 @@ Confidence: high
 Event Timestamp: 2009
 Video Timestamp: 00:22:25
 Transcript Snippet: see Jeffrey Epstein...uh beginning to pro procure...women from Romania per his emails that...are now available. He's going to...instantly get his hands over into...Romania. Look, he's offering here is...information for the girl from Romania...who will receive $10,000. There have
-*Related: C-1056, N-32, N-1037*
+*Related: C-1056, N-35, N-1037*
 Confidence: medium
 
 ---
@@ -150,7 +150,7 @@ Confidence: medium
 Event Timestamp: 2009
 Video Timestamp: 00:37:05
 Transcript Snippet: his license and I'd like to share that...information with you. We learned the...reason. Rick is the movement that is...mentioned throughout this article. I'm...just going to clear this up for you. The...first reason um that his legal license...was removed is because he didn't pay his...dues. Um okay, my best guess is the
-*Related: C-1064, C-1065, N-18, N-1038*
+*Related: C-1064, C-1065, N-21, N-1038*
 Confidence: high
 
 ---
@@ -167,7 +167,7 @@ Confidence: medium
 **A-1032.5** Table Four LLC filing (Erika and Tyler Sanford, 2010)
 Event Timestamp: 2010
 Video Timestamp: 00:26:38–00:26:55
-*Related: C-1058, N-2, N-35*
+*Related: C-1058, N-2, N-38*
 Transcript Snippet: Tyler Sanford. It's called Table Four...LLC. Tyler Sanford will be featured down...the line as the actor in her My Kind of...Crazy music video that she's going to...film in 2013. I should also mention that...he is a catcher uh for the Los Angeles...Los Angeles Angels. Like like I've said...too many times, Erika is always dating
 Confidence: high
 
@@ -262,7 +262,7 @@ Charlie Kirk's business partner - was in Romania 2010
 
 ---
 
-**N-33** Deborah Himil
+**N-36** Deborah Himil
 
 Node Type: Person
 Lori Frantzve's daughter from teenage pregnancy - co-founder of Luminarius LLC
@@ -271,7 +271,7 @@ Lori Frantzve's daughter from teenage pregnancy - co-founder of Luminarius LLC
 
 ---
 
-**N-32** Jeffrey Epstein
+**N-35** Jeffrey Epstein
 
 Node Type: Person
 Sex offender with documented Romania connections starting 2009
@@ -280,7 +280,7 @@ Sex offender with documented Romania connections starting 2009
 
 ---
 
-**N-18** Richard Erpenbeck
+**N-21** Richard Erpenbeck
 
 *Also known as: Rick Erpenbeck; Rick.*
 
@@ -300,7 +300,7 @@ Lori's mother - researcher who traveled to Eastern Europe in 1990
 
 ---
 
-**N-34** Nancy Gerard
+**N-37** Nancy Gerard
 
 Node Type: Person
 Tesseract principal with strong military ties
@@ -309,7 +309,7 @@ Tesseract principal with strong military ties
 
 ---
 
-**N-35** Tyler Sanford
+**N-38** Tyler Sanford
 
 Node Type: Person
 Erika's then-boyfriend in 2010 - later actor in her music video
@@ -467,7 +467,7 @@ Claim Timestamp: 00:07:05
 Claim: Nancy Gerard was principal at Tesseract during Erika's enrollment and had strong military connections through her father Colonel Paul Tracy Gerard.
 Transcript Snippet: But that's my opinion and I'm sticking...to it. Now, I should also mention that...Tesseract had a principal. She would...actually climb a ladder at Tesseract...while Erika was a student who had very...strong military ties. A woman named...Nancy Gerard, Nancy Gerard Hall, she...will become. Nancy was a military brat.
 Anchored Artifacts: A-1031.1
-Related Nodes: N-34, N-1001, N-2
+Related Nodes: N-37, N-1001, N-2
 Confidence: medium
 Investigative Direction: Verify Nancy Gerard's employment at Tesseract and military background.
 
@@ -639,7 +639,7 @@ Claim Timestamp: 00:22:20
 Claim: The Romanian government agreed to US base in 2009, the same year Jeffrey Epstein began procuring women from Romania per his emails.
 Transcript Snippet: So, she competes in 2009 for Miss...Colorado and she places fourth runner...up. How did she qualify to compete is...one of my questions....Now, I'll have you guys know, you'll see...I added a note here that 2009...um got the Romanian government agreeing...to allow America America to stop
 Anchored Artifacts: A-1035.1, A-1036.1
-Related Nodes: N-1037, N-32
+Related Nodes: N-1037, N-35
 Confidence: medium
 Investigative Direction: Cross-reference Epstein email dates with base agreement timeline.
 
@@ -655,7 +655,7 @@ Claim Timestamp: 00:22:28
 Claim: Jeffrey Epstein emails show he was interested in procuring models from Romania starting in 2009.
 Transcript Snippet: one of my questions....Now, I'll have you guys know, you'll see...I added a note here that 2009...um got the Romanian government agreeing...to allow America America to stop...military base. That's when you start to...see Jeffrey Epstein...uh beginning to pro procure
 Anchored Artifacts: A-1036.1
-Related Nodes: N-32, N-1037
+Related Nodes: N-35, N-1037
 Confidence: medium
 Investigative Direction: Obtain and verify Epstein email production from 2009.
 
@@ -671,7 +671,7 @@ Claim Timestamp: 00:24:02
 Claim: Jerry Frantzve created Luminarius LLC with her daughter Deborah Himil in January 2010.
 Transcript Snippet: it it I would assume given the amount of...travel that she keeps indicating that...she probably did take a lot of classes...online. So just wanted to show you that...this is when she is supposed to be at...Loyola Marramount. Um, on January 6th of...this year, Jerry Frantzve creates an...LLC called Luminarius with her daughter,
 Anchored Artifacts: A-1032.4
-Related Nodes: N-3, N-33
+Related Nodes: N-3, N-36
 Confidence: high
 Investigative Direction: Obtain Luminarius LLC filing documents from Arizona corporation commission.
 
@@ -687,7 +687,7 @@ Claim Timestamp: 00:26:38
 Claim: Erika Kirk formed Table Four LLC with her then-boyfriend Tyler Sanford in 2010.
 Transcript Snippet: Tyler Sanford. It's called Table Four...LLC. Tyler Sanford will be featured down...the line as the actor in her My Kind of...Crazy music video that she's going to...film in 2013. I should also mention that...he is a catcher uh for the Los Angeles...Los Angeles Angels. Like like I've said...too many times, Erika is always dating
 Anchored Artifacts: A-1032.5
-Related Nodes: N-2, N-35
+Related Nodes: N-2, N-38
 Confidence: high
 Investigative Direction: Obtain Table Four LLC filing documents from Arizona.
 
@@ -780,7 +780,7 @@ Claim Timestamp: 00:36:50
 Claim: Rick Erpenbeck lost his law license in 2009 according to Kentucky bar.
 Transcript Snippet: I would argue that he's a fraud....or actually I wouldn't argue it. It's...not my opinion. That was the bar's...opinion. Remember I told you he lost his...legal license in uh 2009....And I wasn't sure what or why or how. I...did know that his father Tony had...bestowed upon him some of that money. Uh
 Anchored Artifacts: A-1038.1
-Related Nodes: N-18, N-1038
+Related Nodes: N-21, N-1038
 Confidence: high
 Investigative Direction: Obtain Kentucky bar disciplinary records for 2009.
 
@@ -796,7 +796,7 @@ Claim Timestamp: 00:37:34
 Claim: Rick Erpenbeck was investigated for failing to disclose existing mortgages when performing title searches, and for managing an LLC used to transfer stock without consideration.
 Transcript Snippet: dues. Um okay, my best guess is the...reason he stopped paying his dues in...Kentucky was that he was hoping that...they would stop their investigation into...him, but they didn't. We learned that in...2007 they then opened an investigation...into him for the following reasons....Reason number one is because while
 Anchored Artifacts: A-1038.1
-Related Nodes: N-18, N-1038
+Related Nodes: N-21, N-1038
 Confidence: high
 Investigative Direction: Obtain Kentucky bar investigation documents and court records.
 

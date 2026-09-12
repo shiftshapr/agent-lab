@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1041-A-1052, A-1053, A-1054
   - Claim Range: C-1069-C-1083, C-1084, C-1085, C-1086
-  - New Nodes Introduced: N-36, N-37, N-38, N-39, N-40, N-1042, N-41, N-42, N-1051, N-1043, N-1044, N-1045, N-1046, N-1047, N-1048, N-1049, N-1050, N-1052, N-57, N-58, N-1053, N-1054
+  - New Nodes Introduced: N-39, N-40, N-41, N-42, N-43, N-1042, N-44, N-45, N-1051, N-1043, N-1044, N-1045, N-1046, N-1047, N-1048, N-1049, N-1050, N-1052, N-46, N-47, N-1053, N-1054
   - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14
 
 ## 2. Executive Summary
@@ -92,7 +92,7 @@ Confidence: high
 **A-1047.1** Article about Curtis Kolvet commanding Nevada National Guard in Afghanistan
 Event Timestamp: circa 2010-2011
 Video Timestamp: 00:18:49-00:19:46
-*Related: C-1076, C-1077, N-37, N-38, N-39*
+*Related: C-1076, C-1077, N-40, N-41, N-42*
 Transcript Snippet: do know, however, is that it was Captain...Curtis Kolvet who was stationed in...Afghanistan....And yeah, that's Andrew Kolvet's...brother. Yeah, they sent the military...police from Nevada to head up the...transportation company from Afghanistan....And and Curtis Kolvet was the commander
 Confidence: high
 
@@ -103,7 +103,7 @@ Confidence: high
 **A-1048.1** Podcast interview with Erika about her time in Romania
 Event Timestamp: 2020
 Video Timestamp: 00:20:32-00:21:35
-*Related: C-1078, C-1079, N-2, N-36*
+*Related: C-1078, C-1079, N-2, N-39*
 Transcript Snippet: podcast in 2020 and she was reflecting...on her time in Romania in 2012 or 2013....And in this podcast, in this podcast,...she's speaking with someone who was...stationed uh in Romania and she's asking...him if the setup is the same from when...she was out there. Take a listen to...Erika.
 Confidence: high
 
@@ -125,7 +125,7 @@ Confidence: high
 **A-1050.1** News clip of Kirkwood city council shooting with Justin Strife appearance
 Event Timestamp: February 7, 2008
 Video Timestamp: 00:42:56-00:45:08
-*Related: C-1082, C-1083, A-1051.1, N-41, N-42*
+*Related: C-1082, C-1083, A-1051.1, N-44, N-45*
 Transcript Snippet: listen....>> Sirens whale outside Kirkwood City Hall...in Missouri, the building that usually...houses mundane civic meetings became the...scene of a rampage Thursday night after...a gunman stormed the building and opened...fire. Two police officers and three city...officials were killed. The mayor was
 Confidence: high
 
@@ -158,7 +158,7 @@ Confidence: high
 **A-1052.1** Maj. Gen. Hugo E. Salazar 1994 JTF narcotics exhibit on-screen
 Event Timestamp: 1994
 Video Timestamp: 00:31:23–00:31:32
-*Related: C-1084, N-1052, N-57*
+*Related: C-1084, N-1052, N-46*
 Transcript Snippet: worked in narcotics. Look at this. This...is in 1994 by the way. He's working...here. Um joint task force narcotics....It's giving Mitch Snow telling us about...Fort Wuka and how generals were working...with the cartels in 1990 got busted.
 Confidence: high
 
@@ -169,7 +169,7 @@ Confidence: high
 **A-1053.1** June 2012 Tracy Martin handbag partnership with Everyday Heroes (narration)
 Event Timestamp: June 7, 2012
 Video Timestamp: 00:28:03–00:28:30
-*Related: C-1085, N-2, N-1052, N-58*
+*Related: C-1085, N-2, N-1052, N-47*
 Transcript Snippet: June 7th of...2012, Erika is going to team up with...that Tracy Martin. Tracy says they met...backstage and they just decided to go...into uh do some good together. There uh...Tracy's making handbags. She's what we...refer to as a serial entrepreneur, life...coach, does a little bit of everything....Every bag you buy, Everyday Heroes and...the kids are going to get $25.
 Confidence: medium
 
@@ -223,7 +223,7 @@ Student at Arizona State University, deployed to Romania with Black Sea Rotation
 
 ---
 
-**N-36** Dennis Frantzve
+**N-39** Dennis Frantzve
 
 Node Type: Person
 Erika's cousin - retired Marine lieutenant colonel who served in Romania
@@ -250,7 +250,7 @@ Governing body of Arizona's public university system
 
 ---
 
-**N-37** Curtis Kolvet
+**N-40** Curtis Kolvet
 
 Node Type: Person
 Commander of 593rd Nevada National Guard Transportation Company in Afghanistan
@@ -259,7 +259,7 @@ Commander of 593rd Nevada National Guard Transportation Company in Afghanistan
 
 ---
 
-**N-38** Robert Kolvet
+**N-41** Robert Kolvet
 
 Node Type: Person
 Cousin of Curtis Kolvet, commander of 485th Military Police Company in Afghanistan
@@ -268,7 +268,7 @@ Cousin of Curtis Kolvet, commander of 485th Military Police Company in Afghanist
 
 ---
 
-**N-39** Andrew Kolvet
+**N-42** Andrew Kolvet
 
 Node Type: Person
 Brother of Curtis Kolvet, mentioned in context of the investigation
@@ -277,7 +277,7 @@ Brother of Curtis Kolvet, mentioned in context of the investigation
 
 ---
 
-**N-40** Justin Strife
+**N-43** Justin Strife
 
 *Also known as: Justin Stripe; Stripe.*
 
@@ -288,7 +288,7 @@ COO of Turning Point USA - appears in Kirkwood shooting news clip
 
 ---
 
-**N-41** Charles Cookie Thornton
+**N-44** Charles Cookie Thornton
 
 Node Type: Person
 Gunman in Kirkwood city council shooting
@@ -297,7 +297,7 @@ Gunman in Kirkwood city council shooting
 
 ---
 
-**N-42** Rob McCoy
+**N-45** Rob McCoy
 
 Node Type: Person
 Turning Point affiliate with proximity to multiple shootings
@@ -406,7 +406,7 @@ Erika's humanitarian organization
 
 ---
 
-**N-57** Hugo E. Salazar
+**N-46** Hugo E. Salazar
 
 Node Type: Person
 Major General thanked in Everyday Heroes context; 1994 joint task force narcotics exhibit shown on-screen
@@ -415,7 +415,7 @@ Major General thanked in Everyday Heroes context; 1994 joint task force narcotic
 
 ---
 
-**N-58** Tracy Martin
+**N-47** Tracy Martin
 
 Node Type: Person
 Serial entrepreneur and life coach; 2012 handbag partnership with Everyday Heroes Like You
@@ -553,7 +553,7 @@ Claim Timestamp: 00:18:49
 Claim: Curtis Kolvet commanded the 593rd Nevada National Guard Transportation Company in Afghanistan, overseeing Bulgarian soldiers.
 Transcript Snippet: how exactly they were able to get enough...of those poppy seeds to cause an entire...opioid crisis. How did they do it,...right? Like, who was in control of...transporting all of those flowers during...a time of war? We'll never know. What we...do know, however, is that it was Captain...Curtis Kolvet who was stationed in
 Anchored Artifacts: A-1047.1
-Related Nodes: N-37, N-39, N-1047
+Related Nodes: N-40, N-42, N-1047
 Confidence: high
 Investigative Direction: Verify military service records.
 
@@ -567,7 +567,7 @@ Claim Timestamp: 00:19:49
 Claim: Robert Kolvet, cousin of Curtis Kolvet, simultaneously commanded the 485th Military Police Company in Afghanistan.
 Transcript Snippet: transporting personnel and supplies...through the highra dangerous environment...of Kabell. He was the regional command...captain. Wow, it's amazing....And uh just like the Facebook caption is...going to say, he wasn't the only Kolvet...that was there. He was also serving with...his first cousin, Robert Kolvet.
 Anchored Artifacts: A-1047.1
-Related Nodes: N-38, N-39, N-1047
+Related Nodes: N-41, N-42, N-1047
 Confidence: high
 Investigative Direction: Verify military service records.
 
@@ -595,7 +595,7 @@ Claim Timestamp: 00:21:50
 Claim: Erika describes her cousin Dennis Frantzve showing her around the base in Romania in 2013.
 Transcript Snippet: from Afghanistan. Interesting. Elsewhere...in that same interview, Erika reflects...upon her distant cousin. She means...Dennis Frantzve who shows her around the...base in Romania when she gets there....Take a listen to Erika in her own words....The reason why I even went over there is...that one of my um on my dad's side, his
 Anchored Artifacts: A-1048.1
-Related Nodes: N-2, N-36
+Related Nodes: N-2, N-39
 Confidence: high
 Investigative Direction: Verify travel records and base access.
 
@@ -637,7 +637,7 @@ Claim Timestamp: 00:42:56
 Claim: Justin Strife, future COO of Turning Point USA, appears in news footage discussing the Kirkwood city council shooting in 2008.
 Transcript Snippet: regarding that shooting in Missouri in...2008, he appears in news clip uh and he...speaks about Cookie. I don't know if he...was working at the city council hall. He...definitely sounds familiar with what's...going on. I'm just going to let you...listen to him in his own words. Take a...listen.
 Anchored Artifacts: A-1050.1
-Related Nodes: N-40, N-41
+Related Nodes: N-43, N-44
 Confidence: medium
 Investigative Direction: Verify news footage and Strife's location at that time.
 
@@ -651,7 +651,7 @@ Claim Timestamp: 00:42:56
 Claim: Multiple Turning Point affiliates have personal connections to various mass shootings including Aurora, Thousand Oaks, and Vegas.
 Transcript Snippet: listen....>> Sirens whale outside Kirkwood City Hall...in Missouri, the building that usually...houses mundane civic meetings became the...scene of a rampage Thursday night after...a gunman stormed the building and opened...fire. Two police officers and three city...officials were killed. The mayor was
 Anchored Artifacts: A-1050.1, A-1051.1
-Related Nodes: N-42, N-1, N-2
+Related Nodes: N-45, N-1, N-2
 Confidence: medium
 Investigative Direction: Verify specific connections and timelines.
 
@@ -663,7 +663,7 @@ Claim Timestamp: 00:31:23
 Claim: The episode presents that Major General Hugo E. Salazar, thanked on Erika's Everyday Heroes website, formerly worked in Arizona narcotics enforcement with a joint task force in 1994 as shown on-screen.
 Transcript Snippet: E. Salazar. Uh he was formerly...worked in narcotics. Look at this. This...is in 1994 by the way. He's working...here. Um joint task force narcotics.
 Anchored Artifacts: A-1052.1
-Related Nodes: N-57, N-1052, N-2
+Related Nodes: N-46, N-1052, N-2
 Confidence: high
 Investigative Direction: Obtain military service records to verify Salazar's 1994 narcotics assignment.
 
@@ -675,7 +675,7 @@ Claim Timestamp: 00:28:03
 Claim: The episode presents that on June 7, 2012 Erika teamed with Tracy Martin on a handbag partnership donating $25 per bag to Everyday Heroes Like You.
 Transcript Snippet: June 7th of...2012, Erika is going to team up with...that Tracy Martin. Tracy says they met...backstage and they just decided to go...into uh do some good together....Every bag you buy, Everyday Heroes and...the kids are going to get $25.
 Anchored Artifacts: A-1053.1
-Related Nodes: N-2, N-58, N-1052
+Related Nodes: N-2, N-47, N-1052
 Confidence: medium
 Investigative Direction: Verify handbag partnership announcements and Everyday Heroes fundraising records for June 2012.
 

@@ -138,7 +138,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-33"
+            "N-36"
           ],
           "tags": [],
           "event_timestamp": "2010-01-06",
@@ -156,7 +156,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-35"
+            "N-38"
           ],
           "tags": [],
           "event_timestamp": "2010",
@@ -318,7 +318,7 @@
             "C-1056"
           ],
           "related_nodes": [
-            "N-32",
+            "N-35",
             "N-1037"
           ],
           "tags": [],
@@ -409,7 +409,7 @@
             "C-1065"
           ],
           "related_nodes": [
-            "N-18",
+            "N-21",
             "N-1038"
           ],
           "tags": [],
@@ -605,8 +605,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-33",
-      "ref": "N-33",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Deborah Himil",
       "type": "person",
       "description": "Lori Frantzve's daughter from teenage pregnancy - co-founder of Luminarius LLC",
@@ -624,8 +624,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-32",
-      "ref": "N-32",
+      "@id": "N-35",
+      "ref": "N-35",
       "name": "Jeffrey Epstein",
       "type": "person",
       "description": "Sex offender with documented Romania connections starting 2009",
@@ -644,8 +644,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-18",
-      "ref": "N-18",
+      "@id": "N-21",
+      "ref": "N-21",
       "name": "Richard Erpenbeck",
       "type": "person",
       "description": "Uncle Rick - attorney who lost license in 2009",
@@ -681,8 +681,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-34",
-      "ref": "N-34",
+      "@id": "N-37",
+      "ref": "N-37",
       "name": "Nancy Gerard",
       "type": "person",
       "description": "Tesseract principal with strong military ties",
@@ -698,8 +698,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-35",
-      "ref": "N-35",
+      "@id": "N-38",
+      "ref": "N-38",
       "name": "Tyler Sanford",
       "type": "person",
       "description": "Erika's then-boyfriend in 2010 - later actor in her music video",
@@ -1031,7 +1031,7 @@
         "A-1031.1"
       ],
       "related_nodes": [
-        "N-34",
+        "N-37",
         "N-1001",
         "N-2"
       ],
@@ -1251,7 +1251,7 @@
       ],
       "related_nodes": [
         "N-1037",
-        "N-32"
+        "N-35"
       ],
       "tags": [],
       "claim_timestamp": "00:22:20",
@@ -1269,7 +1269,7 @@
         "A-1036.1"
       ],
       "related_nodes": [
-        "N-32",
+        "N-35",
         "N-1037"
       ],
       "tags": [],
@@ -1289,7 +1289,7 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-33"
+        "N-36"
       ],
       "tags": [],
       "claim_timestamp": "00:24:02",
@@ -1308,7 +1308,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-35"
+        "N-38"
       ],
       "tags": [],
       "claim_timestamp": "00:26:38",
@@ -1422,7 +1422,7 @@
         "A-1038.1"
       ],
       "related_nodes": [
-        "N-18",
+        "N-21",
         "N-1038"
       ],
       "tags": [],
@@ -1441,7 +1441,7 @@
         "A-1038.1"
       ],
       "related_nodes": [
-        "N-18",
+        "N-21",
         "N-1038"
       ],
       "tags": [],

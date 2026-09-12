@@ -190,9 +190,9 @@
             "C-1077"
           ],
           "related_nodes": [
-            "N-37",
-            "N-38",
-            "N-39"
+            "N-40",
+            "N-41",
+            "N-42"
           ],
           "tags": [],
           "event_timestamp": "circa 2010-2011",
@@ -219,7 +219,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-36"
+            "N-39"
           ],
           "tags": [],
           "event_timestamp": "2020",
@@ -289,8 +289,8 @@
             "C-1083"
           ],
           "related_nodes": [
-            "N-41",
-            "N-42"
+            "N-44",
+            "N-45"
           ],
           "tags": [],
           "event_timestamp": "February 7, 2008",
@@ -341,7 +341,7 @@
           ],
           "related_nodes": [
             "N-1052",
-            "N-57"
+            "N-46"
           ],
           "tags": [],
           "event_timestamp": "1994",
@@ -368,7 +368,7 @@
           "related_nodes": [
             "N-2",
             "N-1052",
-            "N-58"
+            "N-47"
           ],
           "tags": [],
           "event_timestamp": "June 7, 2012",
@@ -503,8 +503,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-36",
-      "ref": "N-36",
+      "@id": "N-39",
+      "ref": "N-39",
       "name": "Dennis Frantzve",
       "type": "person",
       "description": "Erika's cousin - retired Marine lieutenant colonel who served in Romania",
@@ -561,8 +561,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Curtis Kolvet",
       "type": "person",
       "description": "Commander of 593rd Nevada National Guard Transportation Company in Afghanistan",
@@ -580,8 +580,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-38",
-      "ref": "N-38",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Robert Kolvet",
       "type": "person",
       "description": "Cousin of Curtis Kolvet, commander of 485th Military Police Company in Afghanistan",
@@ -599,8 +599,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-39",
-      "ref": "N-39",
+      "@id": "N-42",
+      "ref": "N-42",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Brother of Curtis Kolvet, mentioned in context of the investigation",
@@ -619,8 +619,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-40",
-      "ref": "N-40",
+      "@id": "N-43",
+      "ref": "N-43",
       "name": "Justin Strife",
       "type": "person",
       "description": "COO of Turning Point USA - appears in Kirkwood shooting news clip",
@@ -638,8 +638,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-41",
-      "ref": "N-41",
+      "@id": "N-44",
+      "ref": "N-44",
       "name": "Charles Cookie Thornton",
       "type": "person",
       "description": "Gunman in Kirkwood city council shooting",
@@ -657,8 +657,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-45",
+      "ref": "N-45",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Turning Point affiliate with proximity to multiple shootings",
@@ -884,8 +884,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-57",
-      "ref": "N-57",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Hugo E. Salazar",
       "type": "person",
       "description": "Major General thanked in Everyday Heroes context; 1994 joint task force narcotics exhibit shown on-screen",
@@ -906,8 +906,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-58",
-      "ref": "N-58",
+      "@id": "N-47",
+      "ref": "N-47",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Serial entrepreneur and life coach; 2012 handbag partnership with Everyday Heroes Like You",
@@ -1112,8 +1112,8 @@
         "A-1047.1"
       ],
       "related_nodes": [
-        "N-37",
-        "N-39",
+        "N-40",
+        "N-42",
         "N-1047"
       ],
       "tags": [],
@@ -1132,8 +1132,8 @@
         "A-1047.1"
       ],
       "related_nodes": [
-        "N-38",
-        "N-39",
+        "N-41",
+        "N-42",
         "N-1047"
       ],
       "tags": [],
@@ -1172,7 +1172,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-36"
+        "N-39"
       ],
       "tags": [],
       "claim_timestamp": "00:21:50",
@@ -1228,8 +1228,8 @@
         "A-1050.1"
       ],
       "related_nodes": [
-        "N-40",
-        "N-41"
+        "N-43",
+        "N-44"
       ],
       "tags": [],
       "claim_timestamp": "00:42:56",
@@ -1248,7 +1248,7 @@
         "A-1051.1"
       ],
       "related_nodes": [
-        "N-42",
+        "N-45",
         "N-1",
         "N-2"
       ],
@@ -1268,7 +1268,7 @@
         "A-1052.1"
       ],
       "related_nodes": [
-        "N-57",
+        "N-46",
         "N-1052",
         "N-2"
       ],
@@ -1289,7 +1289,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-58",
+        "N-47",
         "N-1052"
       ],
       "tags": [],

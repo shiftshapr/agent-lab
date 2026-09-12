@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1010-A-1015
   - Claim Range: C-1011-C-1018, C-1019, C-1020
-  - New Nodes Introduced: N-13, N-14, N-15, N-16, N-17, N-1014, N-1015, N-1016, N-1017, N-1018, N-1019, N-1020, N-54, N-55, N-56
+  - New Nodes Introduced: N-13, N-14, N-15, N-16, N-17, N-1014, N-1015, N-1016, N-1017, N-1018, N-1019, N-1020, N-18, N-19, N-20
   - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-1001, N-1003
 
 ## 2. Executive Summary
@@ -103,7 +103,7 @@ Confidence: medium
 **A-1012.3** Tesseract staff and board narration (Kesler, Silverstein, Walton)
 Event Timestamp: 1990s–2000
 Video Timestamp: 00:33:30–00:34:42
-*Related: C-1019, C-1020, N-54, N-55, N-56, N-1001*
+*Related: C-1019, C-1020, N-18, N-19, N-20, N-1001*
 Transcript Snippet: executive director is a woman named Jill...Kesler. uh she's the executive director...above her is Susan B. Silverstein, who...is the vice president of development....John Walton, obviously, the...son of Walmart founder Sam Walton, is a...major investor and he also sits on the...board.
 Confidence: medium
 
@@ -303,7 +303,7 @@ Location of Tesseract School and where Jerry/Kent lived
 
 ---
 
-**N-54** Jill Kesler
+**N-18** Jill Kesler
 
 Node Type: Person
 Executive director of Tesseract School named during episode narration
@@ -312,7 +312,7 @@ Executive director of Tesseract School named during episode narration
 
 ---
 
-**N-55** Susan B. Silverstein
+**N-19** Susan B. Silverstein
 
 Node Type: Person
 Vice president of development at Tesseract; host withholds further identification pending certainty
@@ -321,7 +321,7 @@ Vice president of development at Tesseract; host withholds further identificatio
 
 ---
 
-**N-56** John Walton
+**N-20** John Walton
 
 Node Type: Person
 Son of Walmart founder Sam Walton; described as major Tesseract investor and board member
@@ -449,7 +449,7 @@ Claim Timestamp: 00:33:34
 Claim: The episode presents that Jill Kesler was executive director of Tesseract School during the period discussed.
 Transcript Snippet: The person who...is going to be running the school as the...executive director is a woman named Jill...Kesler. uh she's the executive director...and um she says that she moved to...Arizona for her husband's job
 Anchored Artifacts: A-1012.3
-Related Nodes: N-54, N-1001
+Related Nodes: N-18, N-1001
 Confidence: medium
 Investigative Direction: Verify Kesler's employment records at Tesseract School.
 
@@ -461,7 +461,7 @@ Claim Timestamp: 00:34:34
 Claim: The episode presents that John Walton, son of Walmart founder Sam Walton, was a major investor and sat on the Tesseract board.
 Transcript Snippet: I told you...already that John Walton, obviously, the...son of Walmart founder Sam Walton, is a...major investor and he also sits on the...board.
 Anchored Artifacts: A-1012.3
-Related Nodes: N-56, N-1001
+Related Nodes: N-20, N-1001
 Confidence: medium
 Investigative Direction: Verify Walton family investment and board records for Tesseract.
 

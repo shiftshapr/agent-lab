@@ -1,72 +1,9 @@
 {
   "version": 1,
-  "updated": "2026-09-12T20:24:36Z",
+  "updated": "2026-09-12T20:31:29Z",
   "next_person_id": 59,
   "next_investigation_id": 1072,
   "nodes": {
-    "N-1": {
-      "canonical_name": "Charlie Kirk",
-      "type": "person",
-      "aliases": []
-    },
-    "N-2": {
-      "canonical_name": "Erika Kirk",
-      "type": "person",
-      "aliases": []
-    },
-    "N-7": {
-      "canonical_name": "Candace Owens",
-      "type": "person",
-      "aliases": []
-    },
-    "N-6": {
-      "canonical_name": "Elizabeth Lane",
-      "type": "person",
-      "aliases": []
-    },
-    "N-4": {
-      "canonical_name": "Kent Frantzve",
-      "type": "person",
-      "aliases": []
-    },
-    "N-3": {
-      "canonical_name": "Lori Frantzve",
-      "type": "person",
-      "aliases": [
-        "Lori Abbas Stanley; Lori Abbis Stanley; Abbas Stanley; Abbis Stanley; Walstad; Guinta.",
-        "Lori Abbis Stanley"
-      ]
-    },
-    "N-8": {
-      "canonical_name": "Larry Guinta",
-      "type": "person",
-      "aliases": []
-    },
-    "N-5": {
-      "canonical_name": "Carl Kenneth Frantzve",
-      "type": "person",
-      "aliases": []
-    },
-    "N-9": {
-      "canonical_name": "Mason Abbas",
-      "type": "person",
-      "aliases": []
-    },
-    "N-10": {
-      "canonical_name": "Loretta Abbas",
-      "type": "person",
-      "aliases": []
-    },
-    "N-11": {
-      "canonical_name": "Nicole Rothstein",
-      "type": "person",
-      "aliases": []
-    },
-    "N-12": {
-      "canonical_name": "Alan Rothstein",
-      "type": "person",
-      "aliases": []
-    },
     "N-1000": {
       "canonical_name": "Turning Point USA",
       "type": "organization",
@@ -137,31 +74,6 @@
       "type": "topic",
       "aliases": []
     },
-    "N-13": {
-      "canonical_name": "Dr. Jerry Frantzve",
-      "type": "person",
-      "aliases": []
-    },
-    "N-15": {
-      "canonical_name": "Phil Bliss",
-      "type": "person",
-      "aliases": []
-    },
-    "N-16": {
-      "canonical_name": "Aleister Crowley",
-      "type": "person",
-      "aliases": []
-    },
-    "N-14": {
-      "canonical_name": "Tyler Bowyer",
-      "type": "person",
-      "aliases": []
-    },
-    "N-17": {
-      "canonical_name": "John Money",
-      "type": "person",
-      "aliases": []
-    },
     "N-1014": {
       "canonical_name": "Jerry Frantzve Childhood Marriage",
       "type": "topic",
@@ -197,38 +109,6 @@
       "type": "place",
       "aliases": []
     },
-    "N-18": {
-      "canonical_name": "Richard Erpenbeck",
-      "type": "person",
-      "aliases": [
-        "Rick Erpenbeck; Rick."
-      ]
-    },
-    "N-19": {
-      "canonical_name": "Tony Erpenbeck",
-      "type": "person",
-      "aliases": []
-    },
-    "N-20": {
-      "canonical_name": "Bill Erpenbeck",
-      "type": "person",
-      "aliases": []
-    },
-    "N-21": {
-      "canonical_name": "Gary Erpenbeck",
-      "type": "person",
-      "aliases": []
-    },
-    "N-22": {
-      "canonical_name": "Jeff Erpenbeck",
-      "type": "person",
-      "aliases": []
-    },
-    "N-23": {
-      "canonical_name": "Donna Erpenbeck",
-      "type": "person",
-      "aliases": []
-    },
     "N-1021": {
       "canonical_name": "Super Feed Technologies",
       "type": "organization",
@@ -244,16 +124,6 @@
       "type": "organization",
       "aliases": []
     },
-    "N-24": {
-      "canonical_name": "Pastor Terry Crist",
-      "type": "person",
-      "aliases": []
-    },
-    "N-25": {
-      "canonical_name": "Brian Houston",
-      "type": "person",
-      "aliases": []
-    },
     "N-1024": {
       "canonical_name": "Notre Dame Prep",
       "type": "organization",
@@ -267,36 +137,6 @@
     "N-1026": {
       "canonical_name": "Erika Dating History Discrepancy",
       "type": "topic",
-      "aliases": []
-    },
-    "N-26": {
-      "canonical_name": "Jack Solomon",
-      "type": "person",
-      "aliases": []
-    },
-    "N-28": {
-      "canonical_name": "Carla Solomon",
-      "type": "person",
-      "aliases": []
-    },
-    "N-29": {
-      "canonical_name": "James Melvin Stanley",
-      "type": "person",
-      "aliases": []
-    },
-    "N-30": {
-      "canonical_name": "John Robert Walstad",
-      "type": "person",
-      "aliases": []
-    },
-    "N-27": {
-      "canonical_name": "Vince Lombardi",
-      "type": "person",
-      "aliases": []
-    },
-    "N-31": {
-      "canonical_name": "Angela Lombardo",
-      "type": "person",
       "aliases": []
     },
     "N-1027": {
@@ -332,26 +172,6 @@
     "N-1033": {
       "canonical_name": "Khazar Pollock History Aside",
       "type": "topic",
-      "aliases": []
-    },
-    "N-33": {
-      "canonical_name": "Deborah Himil",
-      "type": "person",
-      "aliases": []
-    },
-    "N-32": {
-      "canonical_name": "Jeffrey Epstein",
-      "type": "person",
-      "aliases": []
-    },
-    "N-34": {
-      "canonical_name": "Nancy Gerard",
-      "type": "person",
-      "aliases": []
-    },
-    "N-35": {
-      "canonical_name": "Tyler Sanford",
-      "type": "person",
       "aliases": []
     },
     "N-1034": {
@@ -394,46 +214,9 @@
       "type": "organization",
       "aliases": []
     },
-    "N-36": {
-      "canonical_name": "Dennis Frantzve",
-      "type": "person",
-      "aliases": []
-    },
     "N-1042": {
       "canonical_name": "Arizona Board of Regents",
       "type": "organization",
-      "aliases": []
-    },
-    "N-37": {
-      "canonical_name": "Curtis Kolvet",
-      "type": "person",
-      "aliases": []
-    },
-    "N-38": {
-      "canonical_name": "Robert Kolvet",
-      "type": "person",
-      "aliases": []
-    },
-    "N-39": {
-      "canonical_name": "Andrew Kolvet",
-      "type": "person",
-      "aliases": []
-    },
-    "N-40": {
-      "canonical_name": "Justin Strife",
-      "type": "person",
-      "aliases": [
-        "Justin Stripe; Stripe."
-      ]
-    },
-    "N-41": {
-      "canonical_name": "Charles Cookie Thornton",
-      "type": "person",
-      "aliases": []
-    },
-    "N-42": {
-      "canonical_name": "Rob McCoy",
-      "type": "person",
       "aliases": []
     },
     "N-1043": {
@@ -496,23 +279,6 @@
       "type": "topic",
       "aliases": []
     },
-    "N-43": {
-      "canonical_name": "Josh Harelson",
-      "type": "person",
-      "aliases": []
-    },
-    "N-44": {
-      "canonical_name": "JT Massie",
-      "type": "person",
-      "aliases": [
-        "J.T. Massey; Massey."
-      ]
-    },
-    "N-45": {
-      "canonical_name": "Tucker Carlson",
-      "type": "person",
-      "aliases": []
-    },
     "N-1055": {
       "canonical_name": "Venice, California",
       "type": "place",
@@ -526,46 +292,6 @@
     "N-1057": {
       "canonical_name": "Hollywood 2014 Network Speculation",
       "type": "topic",
-      "aliases": []
-    },
-    "N-46": {
-      "canonical_name": "Cabot Phillips",
-      "type": "person",
-      "aliases": []
-    },
-    "N-47": {
-      "canonical_name": "Bishop Thomas J. O'Brien",
-      "type": "person",
-      "aliases": []
-    },
-    "N-48": {
-      "canonical_name": "Jim Lee Reed",
-      "type": "person",
-      "aliases": []
-    },
-    "N-49": {
-      "canonical_name": "Patricia Patrick",
-      "type": "person",
-      "aliases": []
-    },
-    "N-50": {
-      "canonical_name": "James Woolsey",
-      "type": "person",
-      "aliases": []
-    },
-    "N-51": {
-      "canonical_name": "Kanye West",
-      "type": "person",
-      "aliases": []
-    },
-    "N-52": {
-      "canonical_name": "Kouri Richins",
-      "type": "person",
-      "aliases": []
-    },
-    "N-53": {
-      "canonical_name": "Matt Walsh",
-      "type": "person",
       "aliases": []
     },
     "N-1058": {
@@ -613,27 +339,301 @@
       "type": "place",
       "aliases": []
     },
+    "N-1": {
+      "canonical_name": "Charlie Kirk",
+      "type": "person",
+      "aliases": []
+    },
+    "N-2": {
+      "canonical_name": "Erika Kirk",
+      "type": "person",
+      "aliases": []
+    },
+    "N-7": {
+      "canonical_name": "Candace Owens",
+      "type": "person",
+      "aliases": []
+    },
+    "N-6": {
+      "canonical_name": "Elizabeth Lane",
+      "type": "person",
+      "aliases": []
+    },
+    "N-4": {
+      "canonical_name": "Kent Frantzve",
+      "type": "person",
+      "aliases": []
+    },
+    "N-3": {
+      "canonical_name": "Lori Frantzve",
+      "type": "person",
+      "aliases": [
+        "Lori Abbas Stanley; Lori Abbis Stanley; Abbas Stanley; Abbis Stanley; Walstad; Guinta.",
+        "Lori Abbis Stanley"
+      ]
+    },
+    "N-8": {
+      "canonical_name": "Larry Guinta",
+      "type": "person",
+      "aliases": []
+    },
+    "N-5": {
+      "canonical_name": "Carl Kenneth Frantzve",
+      "type": "person",
+      "aliases": []
+    },
+    "N-9": {
+      "canonical_name": "Mason Abbas",
+      "type": "person",
+      "aliases": []
+    },
+    "N-10": {
+      "canonical_name": "Loretta Abbas",
+      "type": "person",
+      "aliases": []
+    },
+    "N-11": {
+      "canonical_name": "Nicole Rothstein",
+      "type": "person",
+      "aliases": []
+    },
+    "N-12": {
+      "canonical_name": "Alan Rothstein",
+      "type": "person",
+      "aliases": []
+    },
+    "N-13": {
+      "canonical_name": "Dr. Jerry Frantzve",
+      "type": "person",
+      "aliases": []
+    },
+    "N-15": {
+      "canonical_name": "Phil Bliss",
+      "type": "person",
+      "aliases": []
+    },
+    "N-16": {
+      "canonical_name": "Aleister Crowley",
+      "type": "person",
+      "aliases": []
+    },
+    "N-14": {
+      "canonical_name": "Tyler Bowyer",
+      "type": "person",
+      "aliases": []
+    },
+    "N-17": {
+      "canonical_name": "John Money",
+      "type": "person",
+      "aliases": []
+    },
+    "N-21": {
+      "canonical_name": "Richard Erpenbeck",
+      "type": "person",
+      "aliases": [
+        "Rick Erpenbeck; Rick."
+      ]
+    },
+    "N-22": {
+      "canonical_name": "Tony Erpenbeck",
+      "type": "person",
+      "aliases": []
+    },
+    "N-23": {
+      "canonical_name": "Bill Erpenbeck",
+      "type": "person",
+      "aliases": []
+    },
+    "N-24": {
+      "canonical_name": "Gary Erpenbeck",
+      "type": "person",
+      "aliases": []
+    },
+    "N-25": {
+      "canonical_name": "Jeff Erpenbeck",
+      "type": "person",
+      "aliases": []
+    },
+    "N-26": {
+      "canonical_name": "Donna Erpenbeck",
+      "type": "person",
+      "aliases": []
+    },
+    "N-27": {
+      "canonical_name": "Pastor Terry Crist",
+      "type": "person",
+      "aliases": []
+    },
+    "N-28": {
+      "canonical_name": "Brian Houston",
+      "type": "person",
+      "aliases": []
+    },
+    "N-29": {
+      "canonical_name": "Jack Solomon",
+      "type": "person",
+      "aliases": []
+    },
+    "N-31": {
+      "canonical_name": "Carla Solomon",
+      "type": "person",
+      "aliases": []
+    },
+    "N-32": {
+      "canonical_name": "James Melvin Stanley",
+      "type": "person",
+      "aliases": []
+    },
+    "N-33": {
+      "canonical_name": "John Robert Walstad",
+      "type": "person",
+      "aliases": []
+    },
+    "N-30": {
+      "canonical_name": "Vince Lombardi",
+      "type": "person",
+      "aliases": []
+    },
+    "N-34": {
+      "canonical_name": "Angela Lombardo",
+      "type": "person",
+      "aliases": []
+    },
+    "N-36": {
+      "canonical_name": "Deborah Himil",
+      "type": "person",
+      "aliases": []
+    },
+    "N-35": {
+      "canonical_name": "Jeffrey Epstein",
+      "type": "person",
+      "aliases": []
+    },
+    "N-37": {
+      "canonical_name": "Nancy Gerard",
+      "type": "person",
+      "aliases": []
+    },
+    "N-38": {
+      "canonical_name": "Tyler Sanford",
+      "type": "person",
+      "aliases": []
+    },
+    "N-39": {
+      "canonical_name": "Dennis Frantzve",
+      "type": "person",
+      "aliases": []
+    },
+    "N-40": {
+      "canonical_name": "Curtis Kolvet",
+      "type": "person",
+      "aliases": []
+    },
+    "N-41": {
+      "canonical_name": "Robert Kolvet",
+      "type": "person",
+      "aliases": []
+    },
+    "N-42": {
+      "canonical_name": "Andrew Kolvet",
+      "type": "person",
+      "aliases": []
+    },
+    "N-43": {
+      "canonical_name": "Justin Strife",
+      "type": "person",
+      "aliases": [
+        "Justin Stripe; Stripe."
+      ]
+    },
+    "N-44": {
+      "canonical_name": "Charles Cookie Thornton",
+      "type": "person",
+      "aliases": []
+    },
+    "N-45": {
+      "canonical_name": "Rob McCoy",
+      "type": "person",
+      "aliases": []
+    },
+    "N-48": {
+      "canonical_name": "Josh Harelson",
+      "type": "person",
+      "aliases": []
+    },
+    "N-49": {
+      "canonical_name": "JT Massie",
+      "type": "person",
+      "aliases": [
+        "J.T. Massey; Massey."
+      ]
+    },
+    "N-50": {
+      "canonical_name": "Tucker Carlson",
+      "type": "person",
+      "aliases": []
+    },
+    "N-51": {
+      "canonical_name": "Cabot Phillips",
+      "type": "person",
+      "aliases": []
+    },
+    "N-52": {
+      "canonical_name": "Bishop Thomas J. O'Brien",
+      "type": "person",
+      "aliases": []
+    },
+    "N-53": {
+      "canonical_name": "Jim Lee Reed",
+      "type": "person",
+      "aliases": []
+    },
     "N-54": {
-      "canonical_name": "Jill Kesler",
+      "canonical_name": "Patricia Patrick",
       "type": "person",
       "aliases": []
     },
     "N-55": {
-      "canonical_name": "Susan B. Silverstein",
+      "canonical_name": "James Woolsey",
       "type": "person",
       "aliases": []
     },
     "N-56": {
-      "canonical_name": "John Walton",
+      "canonical_name": "Kanye West",
       "type": "person",
       "aliases": []
     },
     "N-57": {
-      "canonical_name": "Hugo E. Salazar",
+      "canonical_name": "Kouri Richins",
       "type": "person",
       "aliases": []
     },
     "N-58": {
+      "canonical_name": "Matt Walsh",
+      "type": "person",
+      "aliases": []
+    },
+    "N-18": {
+      "canonical_name": "Jill Kesler",
+      "type": "person",
+      "aliases": []
+    },
+    "N-19": {
+      "canonical_name": "Susan B. Silverstein",
+      "type": "person",
+      "aliases": []
+    },
+    "N-20": {
+      "canonical_name": "John Walton",
+      "type": "person",
+      "aliases": []
+    },
+    "N-46": {
+      "canonical_name": "Hugo E. Salazar",
+      "type": "person",
+      "aliases": []
+    },
+    "N-47": {
       "canonical_name": "Tracy Martin",
       "type": "person",
       "aliases": []

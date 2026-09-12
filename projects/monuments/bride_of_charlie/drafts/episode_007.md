@@ -12,8 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1055-A-1063, A-1064, A-1065, A-1066
   - Claim Range: C-1087-C-1097, C-1098, C-1099
-  - New Nodes Introduced: N-43, N-44, N-45, N-1055, N-1056, N-1057
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14, N-32, N-40, N-1009, N-1000, N-1050
+  - New Nodes Introduced: N-48, N-49, N-50, N-1055, N-1056, N-1057
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14, N-35, N-43, N-1009, N-1000, N-1050
 
 ## 2. Executive Summary
 
@@ -73,7 +73,7 @@ Confidence: high
 **A-1056.2** Tucker Carlson fundraiser totals
 Event Timestamp: 2024
 Video Timestamp: 00:13:29–00:13:48
-*Related: C-1090, N-2, N-45*
+*Related: C-1090, N-2, N-50*
 Transcript Snippet: like Tucker Carlson. Do you guys...remember that? He alone, his ALP...company, raised $5.4...million for her. Okay, this is still up....He set out to raise six. They raised 5.4...million. I actually think it was less....Then he just kept it was he kept blowing...through it. So they kept raising it and
 Confidence: high
 
@@ -124,7 +124,7 @@ Confidence: high
 **A-1060.1** Epstein donations to Arizona State University
 Event Timestamp: December 2010
 Video Timestamp: 00:29:20–00:29:42
-*Related: C-1094, N-32, N-1050*
+*Related: C-1094, N-35, N-1050*
 Transcript Snippet: be a reason for it. There could have...been some strange carve out just for...Erika. I'm sure there was. Uh but I find...all of this happening at the same time...to be very strange. Now, we are...obviously discussing the relationship...between Erika and Tyler. Both of them...being at the Arizona State University.
 Confidence: medium
 
@@ -135,21 +135,21 @@ Confidence: medium
 **A-1061.1** Audio: Erika claims living in China for sex trafficking work
 Event Timestamp: Pre-2018
 Video Timestamp: 00:32:41–00:33:30
-*Related: C-1095, N-2, N-40, N-1052*
+*Related: C-1095, N-2, N-43, N-1052*
 Transcript Snippet: Take a listen. I decided to create...something called Everyday Heroes Like...You, where we're able to originally it...was focused on bringing funds and...awareness to various grassroots...organizations that were in specific...communities uh that would be able to...have volunteers that are transparent
 Confidence: high
 
 **A-1061.2** Email from Justin Stripe: Erika did not live in China
 Event Timestamp: January 12, 2025
 Video Timestamp: 00:37:43–00:38:09
-*Related: C-1095, N-2, N-40*
+*Related: C-1095, N-2, N-43*
 Transcript Snippet: and he said, and I want to be clear, I...don't think Justin Stripe was lying....Didn't strike me as someone who would be...dumb enough to lie. Uh forget whether or...not he's moral. Is he dumb? And my...answer is no. know Justin Stripe is not...an idiot. So this is what her new story...is is that she did not live in China and
 Confidence: high
 
 **A-1061.3** Harelson save-tweets / Big George 55 on-screen
 Event Timestamp: 2012–2013
 Video Timestamp: 00:36:26–00:37:20
-*Related: C-1095, N-2, N-43*
+*Related: C-1095, N-2, N-48*
 Transcript Snippet: Erika begins dating Josh Harelson....You can That is very much evidenced by...her save tweets. Uh it's all over. That...is who Big George 55 was or is. You can...see the dates here. She started dating...him actually in 2012. So during her...actual crown year
 Confidence: high
 
@@ -259,7 +259,7 @@ Turning Point USA executive, former Arizona Board of Regents member
 
 ---
 
-**N-43** Josh Harelson
+**N-48** Josh Harelson
 
 Node Type: Person
 Basketball player, Erika's boyfriend in 2013
@@ -268,7 +268,7 @@ Basketball player, Erika's boyfriend in 2013
 
 ---
 
-**N-44** JT Massie
+**N-49** JT Massie
 
 *Also known as: J.T. Massey; Massey.*
 
@@ -279,7 +279,7 @@ Minor league baseball player, Erika's boyfriend in 2014
 
 ---
 
-**N-45** Tucker Carlson
+**N-50** Tucker Carlson
 
 Node Type: Person
 Fox News host who organized fundraiser for Erika
@@ -298,7 +298,7 @@ University where Erika claims to have earned degrees
 
 ---
 
-**N-32** Jeffrey Epstein
+**N-35** Jeffrey Epstein
 
 Node Type: Person
 Convicted sex offender who donated to ASU
@@ -307,7 +307,7 @@ Convicted sex offender who donated to ASU
 
 ---
 
-**N-40** Justin Strife
+**N-43** Justin Strife
 
 *Also known as: Justin Stripe; Stripe.*
 
@@ -422,7 +422,7 @@ Claim Timestamp: 00:11:27
 Claim: Charlie had a $10M life insurance policy and Tucker Carlson raised $5.4M for Erika and the children.
 Transcript Snippet: how financially savvy he was. Like she's...trying to relate like she's just like a...single mom and and trying and working a...9 to5 uh working at a restaurant trying...to make ends meet for her children and...the father's gone. No, she's not...implying in any way here or being clear...here that Charlie had a life insurance
 Anchored Artifacts: A-1056.1, A-1056.2
-Related Nodes: N-1, N-2, N-45
+Related Nodes: N-1, N-2, N-50
 Contradicts: C-1088
 Confidence: high
 Investigative Direction: Verify life insurance policy details and fundraiser totals.
@@ -479,7 +479,7 @@ Claim Timestamp: 00:29:20
 Claim: Jeffrey Epstein donated $250,000 personally and over $2M through associates to ASU starting December 2010.
 Transcript Snippet: am listening to uh over these past few...months, we've all heard her more uh than...we've ever heard from her before, is...just objectively not a genius. So, I'm...not sure what that's about. There could...be a reason for it. There could have...been some strange carve out just for...Erika. I'm sure there was. Uh but I find
 Anchored Artifacts: A-1060.1
-Related Nodes: N-32, N-1050
+Related Nodes: N-35, N-1050
 Confidence: medium
 Investigative Direction: Verify donation records and timing relative to other events.
 
@@ -493,7 +493,7 @@ Claim Timestamp: 00:32:41
 Claim: Erika claims she lived in China working with sex trafficking victims, but actually was following her boyfriend Josh Harelson who was playing basketball there.
 Transcript Snippet: lies all the time. So, ahead of us...jumping back into the timeline, I would...like to remind you of the story she...tells regarding why she was traveling...inter internationally, specifically to...China. Why don't you listen to what she...says about why she traveled to China?...Take a listen. I decided to create
 Anchored Artifacts: A-1061.1, A-1061.2, A-1061.3
-Related Nodes: N-2, N-43, N-40
+Related Nodes: N-2, N-48, N-43
 Confidence: high
 Investigative Direction: Verify actual duration and purpose of China visit.
 
@@ -507,7 +507,7 @@ Claim Timestamp: 00:45:19
 Claim: Erika auditioned for Amazing Race with boyfriend JT Massie in 2014 while living in Venice, California.
 Transcript Snippet: try out for the Amazing Race and I am...going to let you listen to that. Erika...is living and working in California. Um,...and he is living in Tulsa, Oklahoma. And...here is a little bit of their tape....>> Hi....>> Hi....>> Good morning, America.
 Anchored Artifacts: A-1062.1
-Related Nodes: N-2, N-44, N-1055
+Related Nodes: N-2, N-49, N-1055
 Confidence: high
 Investigative Direction: Verify audition tape and timeline.
 

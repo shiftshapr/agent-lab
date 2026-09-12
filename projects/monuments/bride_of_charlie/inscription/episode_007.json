@@ -146,7 +146,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-45"
+            "N-50"
           ],
           "tags": [],
           "event_timestamp": "2024",
@@ -266,7 +266,7 @@
             "C-1094"
           ],
           "related_nodes": [
-            "N-32",
+            "N-35",
             "N-1050"
           ],
           "tags": [],
@@ -293,7 +293,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-40",
+            "N-43",
             "N-1052"
           ],
           "tags": [],
@@ -312,7 +312,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-40"
+            "N-43"
           ],
           "tags": [],
           "event_timestamp": "January 12, 2025",
@@ -330,7 +330,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-43"
+            "N-48"
           ],
           "tags": [],
           "event_timestamp": "2012–2013",
@@ -597,8 +597,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-43",
-      "ref": "N-43",
+      "@id": "N-48",
+      "ref": "N-48",
       "name": "Josh Harelson",
       "type": "person",
       "description": "Basketball player, Erika's boyfriend in 2013",
@@ -618,8 +618,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-44",
-      "ref": "N-44",
+      "@id": "N-49",
+      "ref": "N-49",
       "name": "JT Massie",
       "type": "person",
       "description": "Minor league baseball player, Erika's boyfriend in 2014",
@@ -637,8 +637,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-45",
-      "ref": "N-45",
+      "@id": "N-50",
+      "ref": "N-50",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Fox News host who organized fundraiser for Erika",
@@ -680,8 +680,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-32",
-      "ref": "N-32",
+      "@id": "N-35",
+      "ref": "N-35",
       "name": "Jeffrey Epstein",
       "type": "person",
       "description": "Convicted sex offender who donated to ASU",
@@ -699,8 +699,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-40",
-      "ref": "N-40",
+      "@id": "N-43",
+      "ref": "N-43",
       "name": "Justin Strife",
       "type": "person",
       "description": "Associate who provided information about Erika's China claims",
@@ -947,7 +947,7 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-45"
+        "N-50"
       ],
       "tags": [],
       "claim_timestamp": "00:11:27",
@@ -1028,7 +1028,7 @@
         "A-1060.1"
       ],
       "related_nodes": [
-        "N-32",
+        "N-35",
         "N-1050"
       ],
       "tags": [],
@@ -1050,8 +1050,8 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-43",
-        "N-40"
+        "N-48",
+        "N-43"
       ],
       "tags": [],
       "claim_timestamp": "00:32:41",
@@ -1070,7 +1070,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-44",
+        "N-49",
         "N-1055"
       ],
       "tags": [],

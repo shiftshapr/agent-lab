@@ -12,8 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1067-A-1075, A-1076
   - Claim Range: C-1100-C-1113, C-1114
-  - New Nodes Introduced: N-46, N-47, N-48, N-49, N-50, N-51, N-52, N-53, N-1058, N-1059, N-1060, N-1061, N-1062, N-1063, N-1064, N-1065, N-1066
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14, N-39, N-44, N-11, N-1000
+  - New Nodes Introduced: N-51, N-52, N-53, N-54, N-55, N-56, N-57, N-58, N-1058, N-1059, N-1060, N-1061, N-1062, N-1063, N-1064, N-1065, N-1066
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14, N-42, N-49, N-11, N-1000
 
 ## 2. Executive Summary
 
@@ -34,7 +34,7 @@ Confidence: high
 Event Timestamp: 2001
 Video Timestamp: 00:03:17-00:03:30
 Transcript Snippet: Tesseract that after they filed for...bankruptcy in 2001,...they put their old campus up for sale...and it was purchased by the Diocese of...Phoenix. When they then turned it into...Notre Dame Prep, where Erika then...enrolls for high school. Now, this...decision and the process was overseen by
-*Related: C-1101, N-47, N-1058*
+*Related: C-1101, N-52, N-1058*
 Confidence: high
 
 ---
@@ -45,14 +45,14 @@ Confidence: high
 Event Timestamp: 2003
 Video Timestamp: 00:04:28-00:04:58
 Transcript Snippet: I was just like, "This how could this be...possible?" I'm just doing a little bit...of research. How is everybody just going...to be involved in scandals? We're...running what he did. He killed somebody....Accidentally, he says. He was arrested...for a hit-and-run in 2003 that killed...Jim Lee Reed, but by a hit-and-run I
-*Related: C-1102, C-1103, N-47, N-1059*
+*Related: C-1102, C-1103, N-52, N-1059*
 Confidence: high
 
 **A-1068.2** Maricopa County grand jury investigation records (2002)
 Event Timestamp: 2002
 Video Timestamp: 00:05:29-00:05:56
 Transcript Snippet: then in 2002, this is Maricopa County,...you guys. I just I'm going to just...assume everything that happened in...Maricopa County is is problematic at...this point. But in 2002, uh, prosecutors...initiated a grand jury investigation...into charges of sexual abuse uh, by...Catholic priests, uh, priests in
-*Related: C-1103, N-47, N-1059*
+*Related: C-1103, N-52, N-1059*
 Confidence: high
 
 ---
@@ -88,7 +88,7 @@ Confidence: high
 Event Timestamp: 2017-02-01
 Video Timestamp: 00:14:00-00:14:59
 Transcript Snippet: that's called Black Starts by Patricia...Patrick....The documentary also features the CIA...director James Woolsey. Now, I want to...say...this documentary is about EMP attacks,...right? How the government needs to...prepare for them. So, it's a bit more of
-*Related: C-1106, N-49, N-50*
+*Related: C-1106, N-54, N-55*
 Confidence: high
 
 ---
@@ -99,21 +99,21 @@ Confidence: high
 Event Timestamp: 2023
 Video Timestamp: 00:33:14-00:33:28
 Transcript Snippet: regarding Kouri Richins,...a New York Post article that said,..."Grief author Kouri Richins found guilty...of fatally poisoning her husband for his...$4 million estate." And Matt Walsh...comments and writes, "There's no good...moral reason why she should not simply...be taken outside the morning after her
-*Related: C-1111, C-1112, N-52, N-1000*
+*Related: C-1111, C-1112, N-57, N-1000*
 Confidence: high
 
 **A-1071.2** ABC News clip of Kouri Richins promoting grief book before arrest
 Event Timestamp: 2022
 Video Timestamp: 00:34:28-00:34:42
 Transcript Snippet: Richins who had not yet been arrested a...year later, um,...promoting her book....Joining us now is author of Are You With...Me? Kouri Richins [music] to share her...three C's to helping kids cope with...grief. And Kouri, I want to start with...your story. What happened in your
-*Related: C-1111, N-52*
+*Related: C-1111, N-57*
 Confidence: high
 
 **A-1071.3** 911 call audio and prosecution evidence
 Event Timestamp: 2022
 Video Timestamp: 00:37:20-00:37:38
 Transcript Snippet: We're going to listen to the first part,...actually most of the 911 call again....I ask that as you listen to it,...you'll hear the first minute....The first minute is not the sound of a...wife becoming a widow....To echo her friend Chelsea Barney,...the first minute is the sound of a wife
-*Related: C-1111, N-52*
+*Related: C-1111, N-57*
 Confidence: high
 
 ---
@@ -124,7 +124,7 @@ Confidence: high
 Event Timestamp: 2018-10
 Video Timestamp: 00:24:04-00:24:25
 Transcript Snippet: tweets. He writes, "I introduced Candace...to the person who made the logo and they...didn't want their name on it, so she...used mine. I never wanted any...association with Blexit. I have nothing...to do with it." He then follows that up...by saying, "My eyes are now wide open...and now realize that I have been used to
-*Related: C-1109, N-51*
+*Related: C-1109, N-56*
 Confidence: high
 
 ---
@@ -155,7 +155,7 @@ Confidence: medium
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 00:00:03–00:00:28
-*Related: C-1100, N-2, N-39, N-1*
+*Related: C-1100, N-2, N-42, N-1*
 Transcript Snippet: everyone except Andrew Kolvet. Yeah,...because yesterday he went on to Dave...Rubin show...and he said that Erika was not seeking...the spotlight. Take a listen to this....Erika has always been tremendous and she...never sought the limelight. She was...always very happy to sort of be doing
 Confidence: high
 
@@ -246,7 +246,7 @@ Erika's associate who traveled with her to Canada
 
 ---
 
-**N-46** Cabot Phillips
+**N-51** Cabot Phillips
 
 Node Type: Person
 Erika's boyfriend in 2017-2018
@@ -255,7 +255,7 @@ Erika's boyfriend in 2017-2018
 
 ---
 
-**N-44** JT Massie
+**N-49** JT Massie
 
 *Also known as: J.T. Massey; Massey.*
 
@@ -266,7 +266,7 @@ Erika's ex-boyfriend from 2015
 
 ---
 
-**N-39** Andrew Kolvet
+**N-42** Andrew Kolvet
 
 Node Type: Person
 Guest on Dave Rubin show who claimed Erika never sought spotlight
@@ -275,7 +275,7 @@ Guest on Dave Rubin show who claimed Erika never sought spotlight
 
 ---
 
-**N-47** Bishop Thomas J. O'Brien
+**N-52** Bishop Thomas J. O'Brien
 
 Node Type: Person
 Phoenix Catholic Diocese bishop who oversaw Notre Dame Prep, charged with felony hit-and-run and grand jury investigation for covering up priest abuse
@@ -284,7 +284,7 @@ Phoenix Catholic Diocese bishop who oversaw Notre Dame Prep, charged with felony
 
 ---
 
-**N-48** Jim Lee Reed
+**N-53** Jim Lee Reed
 
 Node Type: Person
 Victim of Bishop O'Brien's hit-and-run
@@ -293,7 +293,7 @@ Victim of Bishop O'Brien's hit-and-run
 
 ---
 
-**N-49** Patricia Patrick
+**N-54** Patricia Patrick
 
 Node Type: Person
 Documentary filmmaker of Black Starts
@@ -302,7 +302,7 @@ Documentary filmmaker of Black Starts
 
 ---
 
-**N-50** James Woolsey
+**N-55** James Woolsey
 
 Node Type: Person
 Former CIA Director featured in EMP documentary with Erika
@@ -311,7 +311,7 @@ Former CIA Director featured in EMP documentary with Erika
 
 ---
 
-**N-51** Kanye West
+**N-56** Kanye West
 
 Node Type: Person
 Rapper whose Blexit tweets in October 2018 damaged Candace and Charlie's reputation
@@ -320,7 +320,7 @@ Rapper whose Blexit tweets in October 2018 damaged Candace and Charlie's reputat
 
 ---
 
-**N-52** Kouri Richins
+**N-57** Kouri Richins
 
 Node Type: Person
 Woman convicted of murdering husband for $4M estate, case used as parallel to Erika situation
@@ -329,7 +329,7 @@ Woman convicted of murdering husband for $4M estate, case used as parallel to Er
 
 ---
 
-**N-53** Matt Walsh
+**N-58** Matt Walsh
 
 Node Type: Person
 Conservative commentator who defended Erika then tweeted about Kouri Richins case
@@ -449,7 +449,7 @@ Claim Timestamp: 00:00:03
 Claim: Andrew Kolvet stated on the Dave Rubin show that Erika never sought the limelight and was always supportive of Charlie.
 Transcript Snippet: everyone except Andrew Kolvet. Yeah,...because yesterday he went on to Dave...Rubin show...and he said that Erika was not seeking...the spotlight. Take a listen to this....Erika has always been tremendous and she...never sought the limelight. She was...always very happy to sort of be doing
 Anchored Artifacts: A-1074.1
-Related Nodes: N-2, N-39, N-1
+Related Nodes: N-2, N-42, N-1
 Confidence: high
 Investigative Direction: Obtain the full Dave Rubin interview with Andrew Kolvet.
 
@@ -463,7 +463,7 @@ Claim Timestamp: 00:03:30-00:03:36
 Claim: After Tesseract School filed for bankruptcy in 2001, the campus was purchased by the Diocese of Phoenix and turned into Notre Dame Prep, where Erika enrolled for high school.
 Transcript Snippet: Tesseract that after they filed for...bankruptcy in 2001,...they put their old campus up for sale...and it was purchased by the Diocese of...Phoenix. When they then turned it into...Notre Dame Prep, where Erika then...enrolls for high school. Now, this...decision and the process was overseen by
 Anchored Artifacts: A-1067.1, A-1067.2
-Related Nodes: N-2, N-47, N-1058, N-1059
+Related Nodes: N-2, N-52, N-1058, N-1059
 Confidence: high
 Investigative Direction: Obtain school enrollment records to verify Erika's attendance at Notre Dame Prep.
 
@@ -477,7 +477,7 @@ Claim Timestamp: 00:04:21-00:04:28
 Claim: Bishop Thomas J. O'Brien became the first Catholic bishop in America to be charged with a felony for a 2003 hit-and-run that killed Jim Lee Reed.
 Transcript Snippet: evangelical. Doesn't matter if he was...going to mass every day....Go after Candace for telling the truth...because donors, okay? Weird. Anyway, he...was the bishop until 2003 when he...received the distinct honor of becoming...the very first Catholic bishop...in America to ever be charged with a
 Anchored Artifacts: A-1068.1
-Related Nodes: N-47, N-48, N-1059
+Related Nodes: N-52, N-53, N-1059
 Confidence: high
 Investigative Direction: Obtain court records from the 2003 hit-and-run case to verify details.
 
@@ -491,7 +491,7 @@ Claim Timestamp: 00:05:29-00:06:07
 Claim: In 2002, Maricopa County prosecutors initiated a grand jury investigation into Bishop O'Brien for allegedly covering up sexual abuse allegations against priests he had staffed.
 Transcript Snippet: big dog. Remarkably, uh, Thomas O'Brien...only got 4 years of probation for this....The Vatican, of course, then accepted...his resignation. He staffs, though, the...school that Erika then attends. And um,...that's by the way, is not going to spell...the end of his legal trouble because...then in 2002, this is Maricopa County,
 Anchored Artifacts: A-1068.2
-Related Nodes: N-47, N-1059, N-1065
+Related Nodes: N-52, N-1059, N-1065
 Confidence: high
 Investigative Direction: Obtain grand jury investigation records from Maricopa County.
 
@@ -534,7 +534,7 @@ Claim Timestamp: 00:14:00-00:14:59
 Claim: Erika appeared in the documentary Black Starts by Patricia Patrick alongside CIA Director James Woolsey, which promoted EMP attack concerns connected to her mother's business.
 Transcript Snippet: you know, please let me know. Maybe...you've worked with the Elm Group. I'm...going to go with Erika's kind of doing...what her mom does and just creating a...lot of LLCs. There's no description that...is offered on those documents. On...February 1st, as you guys may have seen,...she then appears in this documentary
 Anchored Artifacts: A-1070.1
-Related Nodes: N-2, N-3, N-49, N-50
+Related Nodes: N-2, N-3, N-54, N-55
 Confidence: high
 Investigative Direction: Obtain a copy of the documentary and verify Erika's role and connections.
 
@@ -548,7 +548,7 @@ Claim Timestamp: 00:23:01
 Claim: Between 2015-2018, Erika was 27-30 years old with no clear employment, yet lived in NYC and traveled internationally.
 Transcript Snippet: somehow becomes a licensed real estate...agent in New York and is immediately...employed by Corcoran Real Estate Group....And we went back and people have reached...out to us. Erika, it looks like did a...total...of...three possible rentals under somebody
 Anchored Artifacts: A-1073.1
-Related Nodes: N-2, N-11, N-46, N-44, N-1062
+Related Nodes: N-2, N-11, N-51, N-49, N-1062
 Confidence: high
 Investigative Direction: Obtain employment records and financial documents to verify income sources.
 
@@ -576,7 +576,7 @@ Claim Timestamp: 00:25:06-00:27:02
 Claim: During the October 2018 Blexit controversy when Kanye tweeted negatively about Candace and Charlie, Erika was making claims to people that she knew people in Kanye's orbit and may have influenced the tweet.
 Transcript Snippet: pressure he's going through." And...Charlie and me were just devastated. We...were devastated by this because it made...us look like we were liars, okay? And it...we were in a position where people...wanted to see us fall, okay? Why am I...telling you this?...I get reached out So I mean, somebody
 Anchored Artifacts: A-1072.1
-Related Nodes: N-7, N-1, N-2, N-51, N-1063
+Related Nodes: N-7, N-1, N-2, N-56, N-1063
 Confidence: medium
 Uncertainty: Based on witness testimony, not documentary evidence shown
 Investigative Direction: Obtain evidence from the New York woman who provided proof of Erika's claims about knowing Kanye's circle.
@@ -605,7 +605,7 @@ Claim Timestamp: 00:32:21-00:41:11
 Claim: Matt Walsh defended Erika against criticism while simultaneously tweeting that Kouri Richins (convicted of killing husband) should be hanged, despite the case relying on circumstantial evidence similar to points raised about Erika.
 Transcript Snippet: Okay, so I absolutely have to comment on...Matt Walsh for a tweet that he put out...yesterday. I just because I was like...Mhm, question mark here. So, he has very...much been on the side of how dare you,...how dare you talk to a grieving widow,...kind of making claims that various data...points being introduced like, oh, Erika...lied pathologically....regarding Kouri Richins,...a New York Post article that said,..."Grief author Kouri Richins found guilty...of fatally poisoning her husband for his...$4 million estate." And Matt Walsh...comments and writes, "There's no good...moral reason why she should not simply...be taken outside the morning after her...conviction and hanged....Kouri Richens, the woman that you...believe should be hanged for poisoning...her husband on the basis of...circumstantial evidence, would probably...today be considered a brave single...mother trying to clean up the mess left...behind by her husband's untimely death.
 Anchored Artifacts: A-1071.1, A-1071.2, A-1071.3
-Related Nodes: N-52, N-53
+Related Nodes: N-57, N-58
 Confidence: high
 Investigative Direction: Compare Matt Walsh's public statements on both cases.
 
@@ -619,7 +619,7 @@ Claim Timestamp: 00:33:14
 Claim: The host argues that grief behavior, financial motives, and circumstantial evidence in the Kouri Richins case parallel concerns about Erika's situation after Charlie's death.
 Transcript Snippet: regarding Kouri Richins,...a New York Post article that said,..."Grief author Kouri Richins found guilty...of fatally poisoning her husband for his...$4 million estate." And Matt Walsh...comments and writes, "There's no good...moral reason why she should not simply...be taken outside the morning after her
 Anchored Artifacts: A-1071.1
-Related Nodes: N-52, N-2
+Related Nodes: N-57, N-2
 Confidence: medium
 Uncertainty: Analogical argument, not direct claim about Erika
 Investigative Direction: Analyze similarities and differences between the two cases.

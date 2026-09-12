@@ -34,7 +34,7 @@ Most connected entities:
 - **Marriage Date Discrepancy** (N-1010, InvestigationTarget): 6 connections
 - **Carl Kenneth Frantzve** (N-5, Person): 5 connections
 - **Loretta Lynn Abbis** (N-10, Person): 4 connections
-- **Jack Solomon** (N-26, Person): 4 connections
+- **Jack Solomon** (N-29, Person): 4 connections
 - **Date of Birth Discrepancy** (N-1009, InvestigationTarget): 4 connections
 - **Mason Abbis** (N-9, Person): 3 connections
 - **Elizabeth Lane** (N-6, Person): 3 connections

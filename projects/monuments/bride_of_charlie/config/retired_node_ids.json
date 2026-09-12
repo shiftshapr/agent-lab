@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "updated": "2026-09-12T20:24:36Z",
-  "description": "Tombstone ledger for legacy N-IDs after intro-order renumber (N-1..N-999 Person dense; N-1000+ Topic/Org/Place only).",
+  "updated": "2026-09-12T20:31:29Z",
+  "description": "Tombstone ledger: Person N-1..N-999 dense intro-order; Topic/Org/Place N-1000+ only.",
   "retired": {
     "legacy-N-10": {
       "survives_as": "N-8",
@@ -74,19 +74,19 @@
       "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1062."
     },
     "legacy-N-1063": {
-      "survives_as": "N-54",
+      "survives_as": "N-18",
       "canonical_name": "Jill Kesler",
-      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); reclaimed to Person band N-54 (Daveed lock)."
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); dense Person intro-order final N-18 (Daveed lock)."
     },
     "legacy-N-1064": {
-      "survives_as": "N-55",
+      "survives_as": "N-19",
       "canonical_name": "Susan B. Silverstein",
-      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); reclaimed to Person band N-55 (Daveed lock)."
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); dense Person intro-order final N-19 (Daveed lock)."
     },
     "legacy-N-1065": {
-      "survives_as": "N-56",
+      "survives_as": "N-20",
       "canonical_name": "John Walton",
-      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); reclaimed to Person band N-56 (Daveed lock)."
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); dense Person intro-order final N-20 (Daveed lock)."
     },
     "legacy-N-1066": {
       "survives_as": "N-1033",
@@ -94,9 +94,9 @@
       "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1066."
     },
     "legacy-N-1067": {
-      "survives_as": "N-57",
+      "survives_as": "N-46",
       "canonical_name": "Hugo E. Salazar",
-      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); reclaimed to Person band N-57 (Daveed lock)."
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); dense Person intro-order final N-46 (Daveed lock)."
     },
     "legacy-N-1060": {
       "survives_as": "N-1006",
@@ -404,9 +404,9 @@
       "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1059."
     },
     "legacy-N-1068": {
-      "survives_as": "N-58",
+      "survives_as": "N-47",
       "canonical_name": "Tracy Martin",
-      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); reclaimed to Person band N-58 (Daveed lock)."
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); dense Person intro-order final N-47 (Daveed lock)."
     },
     "legacy-N-1069": {
       "survives_as": "N-1053",
@@ -424,29 +424,414 @@
       "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1071."
     },
     "pr33-person-N-1067": {
-      "survives_as": "N-54",
+      "survives_as": "N-18",
       "canonical_name": "Jill Kesler",
-      "reason": "PR33 misplaced Person in Topic band; reclaimed to Person band (Daveed lock)."
+      "reason": "PR33 misplaced Person in Topic band; dense intro-order reclaim (Daveed lock)."
     },
     "pr33-person-N-1068": {
-      "survives_as": "N-55",
+      "survives_as": "N-19",
       "canonical_name": "Susan B. Silverstein",
-      "reason": "PR33 misplaced Person in Topic band; reclaimed to Person band (Daveed lock)."
+      "reason": "PR33 misplaced Person in Topic band; dense intro-order reclaim (Daveed lock)."
     },
     "pr33-person-N-1069": {
-      "survives_as": "N-56",
+      "survives_as": "N-20",
       "canonical_name": "John Walton",
-      "reason": "PR33 misplaced Person in Topic band; reclaimed to Person band (Daveed lock)."
+      "reason": "PR33 misplaced Person in Topic band; dense intro-order reclaim (Daveed lock)."
     },
     "pr33-person-N-1070": {
-      "survives_as": "N-57",
+      "survives_as": "N-46",
       "canonical_name": "Hugo E. Salazar",
-      "reason": "PR33 misplaced Person in Topic band; reclaimed to Person band (Daveed lock)."
+      "reason": "PR33 misplaced Person in Topic band; dense intro-order reclaim (Daveed lock)."
     },
     "pr33-person-N-1071": {
-      "survives_as": "N-58",
+      "survives_as": "N-47",
       "canonical_name": "Tracy Martin",
-      "reason": "PR33 misplaced Person in Topic band; reclaimed to Person band (Daveed lock)."
+      "reason": "PR33 misplaced Person in Topic band; dense intro-order reclaim (Daveed lock)."
+    },
+    "pr34-dense-N-54": {
+      "survives_as": "N-18",
+      "canonical_name": "Jill Kesler",
+      "reason": "PR34 dense intro-order shift; was N-54 before cascade."
+    },
+    "pr34-dense-N-55": {
+      "survives_as": "N-19",
+      "canonical_name": "Susan B. Silverstein",
+      "reason": "PR34 dense intro-order shift; was N-55 before cascade."
+    },
+    "pr34-dense-N-56": {
+      "survives_as": "N-20",
+      "canonical_name": "John Walton",
+      "reason": "PR34 dense intro-order shift; was N-56 before cascade."
+    },
+    "pr34-dense-N-21": {
+      "survives_as": "N-24",
+      "canonical_name": "Gary Erpenbeck",
+      "reason": "PR34 dense intro-order shift; was N-21 before cascade."
+    },
+    "pr34-dense-N-22": {
+      "survives_as": "N-25",
+      "canonical_name": "Jeff Erpenbeck",
+      "reason": "PR34 dense intro-order shift; was N-22 before cascade."
+    },
+    "pr34-dense-N-23": {
+      "survives_as": "N-26",
+      "canonical_name": "Donna Erpenbeck",
+      "reason": "PR34 dense intro-order shift; was N-23 before cascade."
+    },
+    "pr34-dense-N-24": {
+      "survives_as": "N-27",
+      "canonical_name": "Pastor Terry Crist",
+      "reason": "PR34 dense intro-order shift; was N-24 before cascade."
+    },
+    "pr34-dense-N-25": {
+      "survives_as": "N-28",
+      "canonical_name": "Brian Houston",
+      "reason": "PR34 dense intro-order shift; was N-25 before cascade."
+    },
+    "pr34-dense-N-26": {
+      "survives_as": "N-29",
+      "canonical_name": "Jack Solomon",
+      "reason": "PR34 dense intro-order shift; was N-26 before cascade."
+    },
+    "pr34-dense-N-27": {
+      "survives_as": "N-30",
+      "canonical_name": "Vince Lombardi",
+      "reason": "PR34 dense intro-order shift; was N-27 before cascade."
+    },
+    "pr34-dense-N-28": {
+      "survives_as": "N-31",
+      "canonical_name": "Carla Solomon",
+      "reason": "PR34 dense intro-order shift; was N-28 before cascade."
+    },
+    "pr34-dense-N-29": {
+      "survives_as": "N-32",
+      "canonical_name": "James Melvin Stanley",
+      "reason": "PR34 dense intro-order shift; was N-29 before cascade."
+    },
+    "pr34-dense-N-30": {
+      "survives_as": "N-33",
+      "canonical_name": "John Robert Walstad",
+      "reason": "PR34 dense intro-order shift; was N-30 before cascade."
+    },
+    "pr34-dense-N-31": {
+      "survives_as": "N-34",
+      "canonical_name": "Angela Lombardo",
+      "reason": "PR34 dense intro-order shift; was N-31 before cascade."
+    },
+    "pr34-dense-N-32": {
+      "survives_as": "N-35",
+      "canonical_name": "Jeffrey Epstein",
+      "reason": "PR34 dense intro-order shift; was N-32 before cascade."
+    },
+    "pr34-dense-N-33": {
+      "survives_as": "N-36",
+      "canonical_name": "Deborah Himil",
+      "reason": "PR34 dense intro-order shift; was N-33 before cascade."
+    },
+    "pr34-dense-N-34": {
+      "survives_as": "N-37",
+      "canonical_name": "Nancy Gerard",
+      "reason": "PR34 dense intro-order shift; was N-34 before cascade."
+    },
+    "pr34-dense-N-35": {
+      "survives_as": "N-38",
+      "canonical_name": "Tyler Sanford",
+      "reason": "PR34 dense intro-order shift; was N-35 before cascade."
+    },
+    "pr34-dense-N-36": {
+      "survives_as": "N-39",
+      "canonical_name": "Dennis Frantzve",
+      "reason": "PR34 dense intro-order shift; was N-36 before cascade."
+    },
+    "pr34-dense-N-37": {
+      "survives_as": "N-40",
+      "canonical_name": "Curtis Kolvet",
+      "reason": "PR34 dense intro-order shift; was N-37 before cascade."
+    },
+    "pr34-dense-N-38": {
+      "survives_as": "N-41",
+      "canonical_name": "Robert Kolvet",
+      "reason": "PR34 dense intro-order shift; was N-38 before cascade."
+    },
+    "pr34-dense-N-39": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "PR34 dense intro-order shift; was N-39 before cascade."
+    },
+    "pr34-dense-N-40": {
+      "survives_as": "N-43",
+      "canonical_name": "Justin Strife",
+      "reason": "PR34 dense intro-order shift; was N-40 before cascade."
+    },
+    "pr34-dense-N-41": {
+      "survives_as": "N-44",
+      "canonical_name": "Charles Cookie Thornton",
+      "reason": "PR34 dense intro-order shift; was N-41 before cascade."
+    },
+    "pr34-dense-N-42": {
+      "survives_as": "N-45",
+      "canonical_name": "Rob McCoy",
+      "reason": "PR34 dense intro-order shift; was N-42 before cascade."
+    },
+    "pr34-dense-N-57": {
+      "survives_as": "N-46",
+      "canonical_name": "Hugo E. Salazar",
+      "reason": "PR34 dense intro-order shift; was N-57 before cascade."
+    },
+    "pr34-dense-N-58": {
+      "survives_as": "N-47",
+      "canonical_name": "Tracy Martin",
+      "reason": "PR34 dense intro-order shift; was N-58 before cascade."
+    },
+    "pr34-dense-N-43": {
+      "survives_as": "N-48",
+      "canonical_name": "Josh Harelson",
+      "reason": "PR34 dense intro-order shift; was N-43 before cascade."
+    },
+    "pr34-dense-N-44": {
+      "survives_as": "N-49",
+      "canonical_name": "JT Massie",
+      "reason": "PR34 dense intro-order shift; was N-44 before cascade."
+    },
+    "pr34-dense-N-45": {
+      "survives_as": "N-50",
+      "canonical_name": "Tucker Carlson",
+      "reason": "PR34 dense intro-order shift; was N-45 before cascade."
+    },
+    "pr34-dense-N-48": {
+      "survives_as": "N-53",
+      "canonical_name": "Jim Lee Reed",
+      "reason": "PR34 dense intro-order shift; was N-48 before cascade."
+    },
+    "pr34-dense-N-49": {
+      "survives_as": "N-54",
+      "canonical_name": "Patricia Patrick",
+      "reason": "PR34 dense intro-order shift; was N-49 before cascade."
+    },
+    "pr34-dense-N-50": {
+      "survives_as": "N-55",
+      "canonical_name": "James Woolsey",
+      "reason": "PR34 dense intro-order shift; was N-50 before cascade."
+    },
+    "pr34-dense-N-51": {
+      "survives_as": "N-56",
+      "canonical_name": "Kanye West",
+      "reason": "PR34 dense intro-order shift; was N-51 before cascade."
+    },
+    "pr34-dense-N-52": {
+      "survives_as": "N-57",
+      "canonical_name": "Kouri Richins",
+      "reason": "PR34 dense intro-order shift; was N-52 before cascade."
+    },
+    "pr34-dense-N-53": {
+      "survives_as": "N-58",
+      "canonical_name": "Matt Walsh",
+      "reason": "PR34 dense intro-order shift; was N-53 before cascade."
+    },
+    "pr34-main-N-54": {
+      "survives_as": "N-18",
+      "canonical_name": "Jill Kesler",
+      "reason": "Main-tip person id N-54 \u2192 dense intro-order N-18 (PR34)."
+    },
+    "pr34-main-N-55": {
+      "survives_as": "N-19",
+      "canonical_name": "Susan B. Silverstein",
+      "reason": "Main-tip person id N-55 \u2192 dense intro-order N-19 (PR34)."
+    },
+    "pr34-main-N-56": {
+      "survives_as": "N-20",
+      "canonical_name": "John Walton",
+      "reason": "Main-tip person id N-56 \u2192 dense intro-order N-20 (PR34)."
+    },
+    "pr34-main-N-18": {
+      "survives_as": "N-21",
+      "canonical_name": "Richard Erpenbeck",
+      "reason": "Main-tip person id N-18 \u2192 dense intro-order N-21 (PR34)."
+    },
+    "pr34-main-N-19": {
+      "survives_as": "N-22",
+      "canonical_name": "Tony Erpenbeck",
+      "reason": "Main-tip person id N-19 \u2192 dense intro-order N-22 (PR34)."
+    },
+    "pr34-main-N-20": {
+      "survives_as": "N-23",
+      "canonical_name": "Bill Erpenbeck",
+      "reason": "Main-tip person id N-20 \u2192 dense intro-order N-23 (PR34)."
+    },
+    "pr34-main-N-21": {
+      "survives_as": "N-24",
+      "canonical_name": "Gary Erpenbeck",
+      "reason": "Main-tip person id N-21 \u2192 dense intro-order N-24 (PR34)."
+    },
+    "pr34-main-N-22": {
+      "survives_as": "N-25",
+      "canonical_name": "Jeff Erpenbeck",
+      "reason": "Main-tip person id N-22 \u2192 dense intro-order N-25 (PR34)."
+    },
+    "pr34-main-N-23": {
+      "survives_as": "N-26",
+      "canonical_name": "Donna Erpenbeck",
+      "reason": "Main-tip person id N-23 \u2192 dense intro-order N-26 (PR34)."
+    },
+    "pr34-main-N-24": {
+      "survives_as": "N-27",
+      "canonical_name": "Pastor Terry Crist",
+      "reason": "Main-tip person id N-24 \u2192 dense intro-order N-27 (PR34)."
+    },
+    "pr34-main-N-25": {
+      "survives_as": "N-28",
+      "canonical_name": "Brian Houston",
+      "reason": "Main-tip person id N-25 \u2192 dense intro-order N-28 (PR34)."
+    },
+    "pr34-main-N-26": {
+      "survives_as": "N-29",
+      "canonical_name": "Jack Solomon",
+      "reason": "Main-tip person id N-26 \u2192 dense intro-order N-29 (PR34)."
+    },
+    "pr34-main-N-27": {
+      "survives_as": "N-30",
+      "canonical_name": "Vince Lombardi",
+      "reason": "Main-tip person id N-27 \u2192 dense intro-order N-30 (PR34)."
+    },
+    "pr34-main-N-28": {
+      "survives_as": "N-31",
+      "canonical_name": "Carla Solomon",
+      "reason": "Main-tip person id N-28 \u2192 dense intro-order N-31 (PR34)."
+    },
+    "pr34-main-N-29": {
+      "survives_as": "N-32",
+      "canonical_name": "James Melvin Stanley",
+      "reason": "Main-tip person id N-29 \u2192 dense intro-order N-32 (PR34)."
+    },
+    "pr34-main-N-30": {
+      "survives_as": "N-33",
+      "canonical_name": "John Robert Walstad",
+      "reason": "Main-tip person id N-30 \u2192 dense intro-order N-33 (PR34)."
+    },
+    "pr34-main-N-31": {
+      "survives_as": "N-34",
+      "canonical_name": "Angela Lombardo",
+      "reason": "Main-tip person id N-31 \u2192 dense intro-order N-34 (PR34)."
+    },
+    "pr34-main-N-32": {
+      "survives_as": "N-35",
+      "canonical_name": "Jeffrey Epstein",
+      "reason": "Main-tip person id N-32 \u2192 dense intro-order N-35 (PR34)."
+    },
+    "pr34-main-N-33": {
+      "survives_as": "N-36",
+      "canonical_name": "Deborah Himil",
+      "reason": "Main-tip person id N-33 \u2192 dense intro-order N-36 (PR34)."
+    },
+    "pr34-main-N-34": {
+      "survives_as": "N-37",
+      "canonical_name": "Nancy Gerard",
+      "reason": "Main-tip person id N-34 \u2192 dense intro-order N-37 (PR34)."
+    },
+    "pr34-main-N-35": {
+      "survives_as": "N-38",
+      "canonical_name": "Tyler Sanford",
+      "reason": "Main-tip person id N-35 \u2192 dense intro-order N-38 (PR34)."
+    },
+    "pr34-main-N-36": {
+      "survives_as": "N-39",
+      "canonical_name": "Dennis Frantzve",
+      "reason": "Main-tip person id N-36 \u2192 dense intro-order N-39 (PR34)."
+    },
+    "pr34-main-N-37": {
+      "survives_as": "N-40",
+      "canonical_name": "Curtis Kolvet",
+      "reason": "Main-tip person id N-37 \u2192 dense intro-order N-40 (PR34)."
+    },
+    "pr34-main-N-38": {
+      "survives_as": "N-41",
+      "canonical_name": "Robert Kolvet",
+      "reason": "Main-tip person id N-38 \u2192 dense intro-order N-41 (PR34)."
+    },
+    "pr34-main-N-39": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Main-tip person id N-39 \u2192 dense intro-order N-42 (PR34)."
+    },
+    "pr34-main-N-40": {
+      "survives_as": "N-43",
+      "canonical_name": "Justin Strife",
+      "reason": "Main-tip person id N-40 \u2192 dense intro-order N-43 (PR34)."
+    },
+    "pr34-main-N-41": {
+      "survives_as": "N-44",
+      "canonical_name": "Charles Cookie Thornton",
+      "reason": "Main-tip person id N-41 \u2192 dense intro-order N-44 (PR34)."
+    },
+    "pr34-main-N-42": {
+      "survives_as": "N-45",
+      "canonical_name": "Rob McCoy",
+      "reason": "Main-tip person id N-42 \u2192 dense intro-order N-45 (PR34)."
+    },
+    "pr34-main-N-57": {
+      "survives_as": "N-46",
+      "canonical_name": "Hugo E. Salazar",
+      "reason": "Main-tip person id N-57 \u2192 dense intro-order N-46 (PR34)."
+    },
+    "pr34-main-N-58": {
+      "survives_as": "N-47",
+      "canonical_name": "Tracy Martin",
+      "reason": "Main-tip person id N-58 \u2192 dense intro-order N-47 (PR34)."
+    },
+    "pr34-main-N-43": {
+      "survives_as": "N-48",
+      "canonical_name": "Josh Harelson",
+      "reason": "Main-tip person id N-43 \u2192 dense intro-order N-48 (PR34)."
+    },
+    "pr34-main-N-44": {
+      "survives_as": "N-49",
+      "canonical_name": "JT Massie",
+      "reason": "Main-tip person id N-44 \u2192 dense intro-order N-49 (PR34)."
+    },
+    "pr34-main-N-45": {
+      "survives_as": "N-50",
+      "canonical_name": "Tucker Carlson",
+      "reason": "Main-tip person id N-45 \u2192 dense intro-order N-50 (PR34)."
+    },
+    "pr34-main-N-46": {
+      "survives_as": "N-51",
+      "canonical_name": "Cabot Phillips",
+      "reason": "Main-tip person id N-46 \u2192 dense intro-order N-51 (PR34)."
+    },
+    "pr34-main-N-47": {
+      "survives_as": "N-52",
+      "canonical_name": "Bishop Thomas J. O'Brien",
+      "reason": "Main-tip person id N-47 \u2192 dense intro-order N-52 (PR34)."
+    },
+    "pr34-main-N-48": {
+      "survives_as": "N-53",
+      "canonical_name": "Jim Lee Reed",
+      "reason": "Main-tip person id N-48 \u2192 dense intro-order N-53 (PR34)."
+    },
+    "pr34-main-N-49": {
+      "survives_as": "N-54",
+      "canonical_name": "Patricia Patrick",
+      "reason": "Main-tip person id N-49 \u2192 dense intro-order N-54 (PR34)."
+    },
+    "pr34-main-N-50": {
+      "survives_as": "N-55",
+      "canonical_name": "James Woolsey",
+      "reason": "Main-tip person id N-50 \u2192 dense intro-order N-55 (PR34)."
+    },
+    "pr34-main-N-51": {
+      "survives_as": "N-56",
+      "canonical_name": "Kanye West",
+      "reason": "Main-tip person id N-51 \u2192 dense intro-order N-56 (PR34)."
+    },
+    "pr34-main-N-52": {
+      "survives_as": "N-57",
+      "canonical_name": "Kouri Richins",
+      "reason": "Main-tip person id N-52 \u2192 dense intro-order N-57 (PR34)."
+    },
+    "pr34-main-N-53": {
+      "survives_as": "N-58",
+      "canonical_name": "Matt Walsh",
+      "reason": "Main-tip person id N-53 \u2192 dense intro-order N-58 (PR34)."
     }
   }
 }
