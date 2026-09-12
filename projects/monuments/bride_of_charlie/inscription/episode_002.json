@@ -3,42 +3,77 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 2,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
-    "video_timestamp_range": "00:01:00–01:03:57",
-    "extraction_timestamp": "2026-03-20T21:41:43Z",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:01:00–01:02:58",
+    "extraction_timestamp": "2026-09-04T23:05:38Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "e785f7513f89b05a04bec14e1ca269bacb03a248a6f42e5da4837ae2ecfd9c7e"
+    "transcript_sha256": "58e3227d7a8009732b015b226a1aa1fd124a0dd0ac73d6c93709113ac2264a81",
+    "analysis_date": "2026-09-04"
   },
-  "executive_summary": "Episode 2 provides background on Dr. Jerry Frantzve (Erika Kirk's stepmother/father's first wife), connecting her to MK Ultra, DuPont, and the Tesaract school where Erika attended. The episode claims missing money from Turning Point USA and introduces Tyler Bowyer as significant. Artifacts include historical documents, a 1981 article about Jerry Frantzve, and a clip of Erika lying about pageant involvement.",
+  "executive_summary": "Episode 2 expands the investigation into Erika Kirk's background by introducing her father's first wife, Dr. Jerry Frantzve, and her connections to MK Ultra, the DuPont family, Quaker Oats experiments on children, and Tesseract School. The episode presents historical artifacts about Aleister Crowley and Barbara Bush's birth, and establishes links between the school, military intelligence, and psychological experimentation programs.",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
       "@id": "A-1010",
       "family_ref": "A-1010",
-      "bundle_name": "1981 Article on Jerry Frantzve History",
+      "bundle_name": "1981 Interview Article",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1010.1",
           "ref": "A-1010.1",
-          "description": "1981 article recounting Jerry Frantzve's early life history",
-          "event_timestamp": "1981",
-          "source_timestamp": "1981",
-          "video_timestamp": "13:31–13:59",
-          "discovery_timestamp": "2026-03-18",
+          "description": "1981 interview article where Jerry Frantzve recounts running away at 14, marrying, altering birth certificate",
           "related_claims": [
-            "C-1023"
+            "C-1012"
           ],
           "related_nodes": [
-            "N-2",
-            "N-1007"
+            "N-13",
+            "N-1011"
           ],
-          "tags": [
-            "article",
-            "public_record"
-          ],
-          "transcript_snippet": "Let's read a bit of this article from 1981 where she recounts her own history.",
+          "tags": [],
+          "event_timestamp": "1981",
+          "video_timestamp": "13:31–14:00",
+          "transcript_snippet": "read a bit of this article from 1981...where she recounts her own history....tells us that at 14, she ran away from a...strict Mormon upbringing in Indianapolis...to get married. She says, quote, \"I was...a straight A student and was about to...get the worst mark of my life, a C in...algebra,\" Frantzve said in an interview. \"I",
           "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1010.2",
+          "ref": "A-1010.2",
+          "description": "Quaker Oats radioactive experiments article",
+          "related_claims": [
+            "C-1013"
+          ],
+          "related_nodes": [
+            "N-13",
+            "N-1012"
+          ],
+          "tags": [],
+          "event_timestamp": "Undated in episode source",
+          "video_timestamp": "17:40–17:58",
+          "transcript_snippet": "except for that one time when Quaker...Oats was actually going into mental...institutions and force-feeding a bunch...of radioactive oats to little boys....Look at this article. This is our This...is our government. A spoonful of sugar...helps the radioactive oatmeal go down....Yes, Quaker Oats was conducting",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1010.3",
+          "ref": "A-1010.3",
+          "description": "Jerry Frantzve DuPont employment (narration)",
+          "related_claims": [
+            "C-1014"
+          ],
+          "related_nodes": [
+            "N-13",
+            "N-1015"
+          ],
+          "tags": [],
+          "event_timestamp": "1983",
+          "video_timestamp": "20:03–21:06",
+          "transcript_snippet": "the DuPont family, becoming the director...of employee relations for DuPont because...she's so good at psychology. Uh she gets...into organizational psychology. She is...tasked effectively, I would say, with...finding the psychopaths that should head...up the corporations that are run by the...elite bloodlines. She goes into",
+          "confidence": "medium"
         }
       ]
     },
@@ -46,75 +81,26 @@
       "@type": "ArtifactFamily",
       "@id": "A-1011",
       "family_ref": "A-1011",
-      "bundle_name": "Tesaract School Documentation Bundle",
+      "bundle_name": "Radford University Report",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1011.1",
           "ref": "A-1011.1",
-          "description": "Photos of Erika at Tesaract school first grade",
-          "event_timestamp": "1993",
-          "source_timestamp": "1993",
-          "video_timestamp": "29:18–29:22",
-          "discovery_timestamp": "2026-03-18",
+          "description": "Radford University Center for Gender Studies report on Native Americans and Appalachian",
           "related_claims": [
-            "C-1025"
+            "C-1016"
           ],
           "related_nodes": [
-            "N-2",
-            "N-1009"
+            "N-13",
+            "N-1002",
+            "N-1013",
+            "N-1016"
           ],
-          "tags": [
-            "photograph",
-            "school_record"
-          ],
-          "transcript_snippet": "We showed you this photo of her in the first grade.",
-          "confidence": "high"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "A-1011.2",
-          "ref": "A-1011.2",
-          "description": "Photo of Erika in second grade at Tesaract",
-          "event_timestamp": "1994",
-          "source_timestamp": "1994",
-          "video_timestamp": "29:28–29:30",
-          "discovery_timestamp": "2026-03-18",
-          "related_claims": [
-            "C-1025"
-          ],
-          "related_nodes": [
-            "N-2",
-            "N-1009"
-          ],
-          "tags": [
-            "photograph",
-            "school_record"
-          ],
-          "transcript_snippet": "We also then showed you this photo of Erika in the second grade.",
-          "confidence": "high"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "A-1011.3",
-          "ref": "A-1011.3",
-          "description": "Third grade photo of Erika at Tesaract",
-          "event_timestamp": "1995",
-          "source_timestamp": "1995",
-          "video_timestamp": "29:50–29:54",
-          "discovery_timestamp": "2026-03-18",
-          "related_claims": [
-            "C-1025"
-          ],
-          "related_nodes": [
-            "N-2",
-            "N-1009"
-          ],
-          "tags": [
-            "photograph",
-            "school_record"
-          ],
-          "transcript_snippet": "Third grade photo um we have here with Erika in this school.",
+          "tags": [],
+          "event_timestamp": "1983",
+          "video_timestamp": "23:33–23:55",
+          "transcript_snippet": "the cover of this report really quickly....So it says that who's putting...together this report, the Center for...Gender Studies, and it lists five...names. Marjorie Weiland, George...Bourne, Richard Castor, Susan...Freedman, Jerry Frantzve. Well, not...what she doesn't communicate in this",
           "confidence": "high"
         }
       ]
@@ -123,30 +109,66 @@
       "@type": "ArtifactFamily",
       "@id": "A-1012",
       "family_ref": "A-1012",
-      "bundle_name": "Radford University Report Bundle",
+      "bundle_name": "Tesseract School Documentation",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1012.1",
           "ref": "A-1012.1",
-          "description": "Radford University report on Native Americans and Appalachian with Jerry Frantzve listed as author",
-          "event_timestamp": "1983",
-          "source_timestamp": "1983",
-          "video_timestamp": "23:34–23:58",
-          "discovery_timestamp": "2026-03-18",
+          "description": "Tesseract school photos showing Erika in 1st-3rd grade",
           "related_claims": [
-            "C-1026"
+            "C-1015"
           ],
           "related_nodes": [
-            "N-2",
-            "N-1010"
+            "N-15",
+            "N-1002"
           ],
-          "tags": [
-            "report",
-            "academic"
-          ],
-          "transcript_snippet": "Look no further than this report that came out of Radford University that Jerry Frantzve produces pertaining to Native Americans and the Appalachian.",
+          "tags": [],
+          "event_timestamp": "1993-1999",
+          "video_timestamp": "29:15–29:54",
+          "transcript_snippet": "Erika will be there from 1993...to 1999. We showed you this photo of her...in the first grade. Um, we also then...showed you this photo of Erika in the...second grade. Erika, by the way, I...should note uh because we got some...comments about this. She has spoken...about how her mother chopped her hair",
           "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1012.2",
+          "ref": "A-1012.2",
+          "description": "Phil Bliss Tesseract board / MK Ultra connection (narration)",
+          "related_claims": [
+            "C-1016"
+          ],
+          "related_nodes": [
+            "N-15",
+            "N-1002",
+            "N-1004",
+            "N-1005"
+          ],
+          "tags": [],
+          "event_timestamp": "1990s",
+          "video_timestamp": "32:05–33:00",
+          "transcript_snippet": "named Phil Bliss who joins the board of...Tesseract....Okay, Phil Bliss here over there in the...corner. Phil Bliss, the board member,...was involved with Stanford University in...the 70s. I'm not going to Yes, I am. MK...Ultra, MK Ultra. Okay. He was known...widely during that time as a drug",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1012.3",
+          "ref": "A-1012.3",
+          "description": "Tesseract staff and board narration (Kesler, Silverstein, Walton)",
+          "related_claims": [
+            "C-1019",
+            "C-1020"
+          ],
+          "related_nodes": [
+            "N-1064",
+            "N-1065",
+            "N-1066",
+            "N-1002"
+          ],
+          "tags": [],
+          "event_timestamp": "1990s–2000",
+          "video_timestamp": "33:30–34:42",
+          "transcript_snippet": "executive director is a woman named Jill...Kesler. uh she's the executive director...above her is Susan B. Silverstein, who...is the vice president of development....John Walton, obviously, the...son of Walmart founder Sam Walton, is a...major investor and he also sits on the...board.",
+          "confidence": "medium"
         }
       ]
     },
@@ -154,29 +176,96 @@
       "@type": "ArtifactFamily",
       "@id": "A-1013",
       "family_ref": "A-1013",
-      "bundle_name": "Erika Pageant Interview Clip Bundle",
+      "bundle_name": "Erika Pageant Interview Clip",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1013.1",
           "ref": "A-1013.1",
-          "description": "2020 interview clip where Erika discusses how she entered pageants",
-          "event_timestamp": "2020",
-          "source_timestamp": "2020",
-          "video_timestamp": "48:01–49:24",
-          "discovery_timestamp": "2026-03-18",
+          "description": "2020 interview clip where Erika claims she wasn't groomed for pageants",
           "related_claims": [
-            "C-1027"
+            "C-1018",
+            "C-1017"
           ],
           "related_nodes": [
             "N-2",
-            "N-9"
+            "N-3"
           ],
-          "tags": [
-            "video_clip",
-            "interview"
+          "tags": [],
+          "event_timestamp": "2020",
+          "video_timestamp": "48:01–49:25",
+          "transcript_snippet": ">> Was it after that? That's when you...started pageantss or when did that come...about?...>> Right. So, so the pageant world to me is...something that it was an interesting...season of life. It was nothing that I...was ever groomed for. It was nothing...that was ever on my radar.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1013.2",
+          "ref": "A-1013.2",
+          "description": "Tyler Bowyer introduced Erika to Charlie (narration)",
+          "related_claims": [
+            "C-1017"
           ],
-          "transcript_snippet": "This is her discussing that back in 2020. Right. So, so the pageant world to me is something that it was an interesting season of life.",
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-14",
+            "N-1014"
+          ],
+          "tags": [],
+          "event_timestamp": "Undated in episode source",
+          "video_timestamp": "44:25–46:04",
+          "transcript_snippet": "Turning Point USA is Tyler Bowyer. You will...recall that when I sat down with her,...and I want to let you know that ahead of...today's episode and yesterday, one of...the questions that we keep asking that...we can't get an answer is, how does...Erika Kirk know Tyler Bowyer? She...couldn't recall that in person. We can't",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1014",
+      "family_ref": "A-1014",
+      "bundle_name": "Historical Crowley-Bush Connection",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1014.1",
+          "ref": "A-1014.1",
+          "description": "Historical claim about Pauline Robinson spending time with Aleister Crowley, giving birth to Barbara Bush 8.5 months later",
+          "related_claims": [
+            "C-1011"
+          ],
+          "related_nodes": [
+            "N-16"
+          ],
+          "tags": [],
+          "event_timestamp": "1920s",
+          "video_timestamp": "04:55–05:18",
+          "transcript_snippet": "historical fact, a woman by the name of...Pauline Robinson, who would eventually...after spending time with her friend...Aleister Crowley, eight and a half...months later, she gives birth to Barbara...Bush. Okay, this is just again a little...over eight and a half months after...hanging hanging out with Aleister",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1015",
+      "family_ref": "A-1015",
+      "bundle_name": "John Money Explainer Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1015.1",
+          "ref": "A-1015.1",
+          "description": "John Money explainer clip (gender ideology / twin experiment)",
+          "related_claims": [
+            "C-1016"
+          ],
+          "related_nodes": [
+            "N-17",
+            "N-13"
+          ],
+          "tags": [],
+          "event_timestamp": "Undated in episode source",
+          "video_timestamp": "36:33–37:33",
+          "transcript_snippet": "Take a listen....John Money. He's one of the greatest...villains in history. And he is the...father of gender ideology. And he became...that by abusing two twin boys, one of...whom had his genitalia basically...destroyed in a botched circumcision....Money believed that sexuality was fluid.",
           "confidence": "high"
         }
       ]
@@ -189,34 +278,16 @@
       "ref": "N-1",
       "name": "Charlie Kirk",
       "type": "person",
-      "description": "Primary subject of investigation - deceased founder of Turning Point USA",
+      "description": "Deceased Turning Point USA founder",
       "related_artifacts": [],
       "related_claims": [
-        "C-1022",
-        "C-1028"
+        "C-1017"
       ],
-      "tags": [
-        "key_figure",
-        "deceased"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "N-11",
-      "ref": "N-11",
-      "name": "Candace Owens",
-      "type": "person",
-      "description": "Host of Bride of Charlie series",
-      "related_artifacts": [
-        "A-1010.1",
-        "A-1011.1",
-        "A-1013.1"
-      ],
-      "related_claims": [],
-      "tags": [
-        "host",
-        "investigator"
-      ]
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -224,44 +295,43 @@
       "ref": "N-2",
       "name": "Erika Kirk",
       "type": "person",
-      "description": "Primary subject - Charlie Kirk's widow",
+      "description": "Widow of Charlie Kirk, subject of investigation",
       "related_artifacts": [
-        "A-1011.1",
-        "A-1011.2",
-        "A-1011.3",
         "A-1013.1"
       ],
       "related_claims": [
-        "C-1024",
-        "C-1025",
-        "C-1022",
-        "C-1027",
-        "C-1028"
+        "C-1015",
+        "C-1018",
+        "C-1017"
       ],
-      "tags": [
-        "subject"
-      ]
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     },
     {
       "@type": "Person",
-      "@id": "N-12",
-      "ref": "N-12",
+      "@id": "N-13",
+      "ref": "N-13",
       "name": "Dr. Jerry Frantzve",
       "type": "person",
-      "description": "Kent's first wife - connected to DuPont, MK Ultra, Tesaract school development",
+      "description": "Kent Frantzve's first wife, psychologist with DuPont and Tesseract connections",
       "related_artifacts": [
         "A-1010.1",
-        "A-1012.1"
+        "A-1011.1",
+        "A-1015.1"
       ],
       "related_claims": [
-        "C-1023",
-        "C-1026",
-        "C-1025"
+        "C-1012",
+        "C-1013",
+        "C-1014"
       ],
-      "tags": [
-        "key_figure",
-        "connected_to_subject"
-      ]
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     },
     {
       "@type": "Person",
@@ -269,14 +339,56 @@
       "ref": "N-4",
       "name": "Kent Frantzve",
       "type": "person",
-      "description": "Erika's father - Army Corps of Engineers, married to Lori and then Jerry",
+      "description": "Erika Kirk's father",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1002",
+      "ref": "N-1002",
+      "name": "Tesseract School",
+      "type": "organization",
+      "description": "Private school in Paradise Valley attended by Erika Kirk 1993-1999",
+      "related_artifacts": [
+        "A-1012.1",
+        "A-1011.1"
+      ],
+      "related_claims": [
+        "C-1014",
+        "C-1016",
+        "C-1015",
+        "C-1019",
+        "C-1020"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "organization_kind": "educational_institution"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-15",
+      "ref": "N-15",
+      "name": "Phil Bliss",
+      "type": "person",
+      "description": "Tesseract board member with MK Ultra connections, Stanford drug counselor",
       "related_artifacts": [],
       "related_claims": [
-        "C-1023"
+        "C-1016"
       ],
-      "tags": [
-        "family_member"
-      ]
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -284,412 +396,525 @@
       "ref": "N-3",
       "name": "Lori Frantzve",
       "type": "person",
-      "description": "Erika's mother",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-1022",
-        "C-1027"
-      ],
-      "tags": [
-        "family_member"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "N-13",
-      "ref": "N-13",
-      "name": "Tyler Bowyer",
-      "type": "person",
-      "description": "Turning Point USA operative who introduced Charlie to Erika",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-1022",
-        "C-1028"
-      ],
-      "tags": [
-        "key_figure",
-        "turning_point"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "N-9",
-      "ref": "N-9",
-      "name": "Elizabeth Lane",
-      "type": "person",
-      "description": "Mentioned as source who discussed Erika's exes and desire for fame",
+      "description": "Erika Kirk's mother",
       "related_artifacts": [
         "A-1013.1"
       ],
       "related_claims": [
-        "C-1027"
+        "C-1018"
       ],
-      "tags": [
-        "source"
-      ]
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Aleister Crowley",
+      "type": "person",
+      "description": "Historical occult figure referenced in context of elite practices",
+      "related_artifacts": [
+        "A-1014.1"
+      ],
+      "related_claims": [
+        "C-1011"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
       "@id": "N-14",
       "ref": "N-14",
-      "name": "Phil Bliss",
+      "name": "Tyler Bowyer",
       "type": "person",
-      "description": "Tesaract board member with MK Ultra connections",
+      "description": "Turning Point USA staffer who introduced Charlie and Erika",
       "related_artifacts": [],
       "related_claims": [
-        "C-1025"
+        "C-1017"
       ],
-      "tags": [
-        "associated"
-      ]
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
-      "@id": "N-15",
-      "ref": "N-15",
-      "name": "Dr. John Money",
+      "@id": "N-17",
+      "ref": "N-17",
+      "name": "John Money",
       "type": "person",
-      "description": "Notorious psychologist - colleague of Jerry Frantzve, father of gender ideology",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-1026"
+      "description": "Psychologist, colleague of Jerry Frantzve, pioneer of gender ideology",
+      "related_artifacts": [
+        "A-1015.1"
       ],
-      "tags": [
-        "notorious_figure"
-      ]
+      "related_claims": [
+        "C-1016"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-1000",
-      "ref": "N-1000",
-      "name": "Date of Birth Discrepancy",
-      "type": "investigation_target",
-      "description": "Erika's birth date inconsistency between 20th or 22nd November 1988",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-1024"
-      ],
-      "tags": [
-        "discrepancy_target"
-      ]
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1007",
-      "ref": "N-1007",
-      "name": "Jerry Frantzve Background Verification",
-      "type": "investigation_target",
-      "description": "Verification of Jerry Frantzve's claimed history - MK Ultra, military connections, DuPont employment",
+      "@type": "Topic",
+      "@id": "N-1011",
+      "ref": "N-1011",
+      "name": "Jerry Frantzve Childhood Marriage",
+      "type": "topic",
+      "description": "Jerry married at 14 after running away, forged documents",
       "related_artifacts": [
         "A-1010.1"
       ],
       "related_claims": [
-        "C-1023",
-        "C-1026"
+        "C-1012"
       ],
-      "tags": [
-        "verification_target"
-      ]
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "discrepancy"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-1008",
-      "ref": "N-1008",
-      "name": "Missing Money from Turning Point USA",
-      "type": "investigation_target",
-      "description": "Alleged missing millions from Turning Point USA and Turning Point Action",
+      "@type": "Topic",
+      "@id": "N-1012",
+      "ref": "N-1012",
+      "name": "Quaker Oats Human Experiments",
+      "type": "topic",
+      "description": "Quaker Oats conducted radioactive feeding experiments on children",
+      "related_artifacts": [
+        "A-1010.2"
+      ],
+      "related_claims": [
+        "C-1013"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1013",
+      "ref": "N-1013",
+      "name": "Tesseract Research Fraud",
+      "type": "topic",
+      "description": "Report showing Jerry included family members as researchers",
+      "related_artifacts": [
+        "A-1011.1"
+      ],
+      "related_claims": [
+        "C-1016"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "discrepancy"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1014",
+      "ref": "N-1014",
+      "name": "Turning Point USA Missing Money",
+      "type": "topic",
+      "description": "Alleged missing millions from Turning Point Action",
       "related_artifacts": [],
       "related_claims": [
-        "C-1022"
+        "C-1017"
       ],
-      "tags": [
-        "financial_discrepancy"
-      ]
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "discrepancy"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-1009",
-      "ref": "N-1009",
-      "name": "Tesaract School Investigation",
-      "type": "investigation_target",
-      "description": "Whether Tesaract school was psychological experiment on children",
+      "@type": "Organization",
+      "@id": "N-1004",
+      "ref": "N-1004",
+      "name": "MK Ultra",
+      "type": "organization",
+      "description": "CIA mind control program active in 1950s-70s, Indiana was major hub",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1016"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "program_or_initiative"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1015",
+      "ref": "N-1015",
+      "name": "DuPont Family",
+      "type": "organization",
+      "description": "Chemical corporation, Jerry Frantzve worked in employee relations",
       "related_artifacts": [
-        "A-1011.1",
-        "A-1011.2",
-        "A-1011.3"
+        "A-1011.1"
       ],
       "related_claims": [
-        "C-1025"
+        "C-1014"
       ],
-      "tags": [
-        "institutional_investigation"
-      ]
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "corporation"
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-1010",
-      "ref": "N-1010",
-      "name": "Radford University Report Credibility",
-      "type": "investigation_target",
-      "description": "Investigation into whether Radford report was legitimate or family fraud",
+      "@type": "Organization",
+      "@id": "N-1016",
+      "ref": "N-1016",
+      "name": "Radford University",
+      "type": "organization",
+      "description": "University where Jerry Frantzve directed gender clinic in 1983",
+      "related_artifacts": [
+        "A-1011.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "organization_kind": "educational_institution"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1017",
+      "ref": "N-1017",
+      "name": "Paradise Valley, Arizona",
+      "type": "place",
+      "description": "Location of Tesseract School and where Jerry/Kent lived",
       "related_artifacts": [
         "A-1012.1"
       ],
       "related_claims": [
-        "C-1026"
+        "C-1015"
       ],
-      "tags": [
-        "verification_target"
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "place_kind": "city"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1064",
+      "ref": "N-1064",
+      "name": "Jill Kesler",
+      "type": "person",
+      "description": "Executive director of Tesseract School named during episode narration",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1019"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1002"
       ]
     },
     {
-      "@type": "InvestigationTarget",
-      "@id": "N-1011",
-      "ref": "N-1011",
-      "name": "Erika Pageant Narrative",
-      "type": "investigation_target",
-      "description": "Whether Erika was groomed for pageants vs claims she wasn't",
-      "related_artifacts": [
-        "A-1013.1"
-      ],
-      "related_claims": [
-        "C-1027"
-      ],
-      "tags": [
-        "verification_target"
+      "@type": "Person",
+      "@id": "N-1065",
+      "ref": "N-1065",
+      "name": "Susan B. Silverstein",
+      "type": "person",
+      "description": "Vice president of development at Tesseract; host withholds further identification pending certainty",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1002"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1066",
+      "ref": "N-1066",
+      "name": "John Walton",
+      "type": "person",
+      "description": "Son of Walmart founder Sam Walton; described as major Tesseract investor and board member",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1020"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1002"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1005",
+      "ref": "N-1005",
+      "name": "Operation Paperclip",
+      "type": "organization",
+      "description": "US program that brought German scientists to America.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1016"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [],
+      "organization_kind": "program_or_initiative"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1020",
+      "ref": "N-1020",
+      "name": "Turning Point Action",
+      "type": "organization",
+      "description": "Political action arm of Turning Point USA",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1017"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "organization_kind": "political_organization",
+      "related_nodes": []
     }
   ],
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1024",
-      "ref": "C-1024",
-      "label": "DOB Discrepancy Mentioned",
-      "claim_timestamp": "10:17",
-      "claim": "Erika was born at Good Samaritan Hospital on either the 20th or 22nd of November 1988 depending on source.",
-      "anchored_artifacts": [],
+      "@id": "C-1011",
+      "ref": "C-1011",
+      "label": "Crowley-Bush Connection",
+      "claim": "Pauline Robinson spent time with Aleister Crowley and gave birth to Barbara Bush 8.5 months later",
+      "anchored_artifacts": [
+        "A-1014.1"
+      ],
       "related_nodes": [
-        "N-2",
-        "N-1000"
+        "N-16"
       ],
-      "investigative_direction": "Obtain certified birth records to verify exact date.",
-      "tags": [
-        "discrepancy"
-      ],
-      "transcript_snippet": "We learned that Erika was born at the Good Samaritan Hospital on either the 20th or the 22nd of November of 1988.",
-      "confidence": "high"
+      "tags": [],
+      "claim_timestamp": "04:55",
+      "investigative_direction": "Verify birth records and historical timelines",
+      "transcript_snippet": "to the things that are happening today....Okay. Uh what ended up happening was...Mussolini, the evil fascist, k k k k k k...k k k k k k k k k k k k k kicked him out...of the country for being a Satanist....Fortunately for Aleister Crowley, this...didn't actually matter because he was...friends with the elites all over the",
+      "confidence": "low"
     },
     {
       "@type": "Claim",
-      "@id": "C-1023",
-      "ref": "C-1023",
-      "label": "Jerry Frantzve Early Life History",
-      "claim_timestamp": "13:31",
-      "claim": "Jerry Frantzve ran away at 14, married using forged documents, had shotgun wedding to Carl Pangirl who later became Mormon bishop.",
+      "@id": "C-1012",
+      "ref": "C-1012",
+      "label": "Jerry Frantzve Married at 14",
+      "claim": "Jerry Frantzve ran away from strict Mormon upbringing at 14, married using forged birth certificate",
       "anchored_artifacts": [
         "A-1010.1"
       ],
       "related_nodes": [
-        "N-12",
-        "N-4",
-        "N-1007"
+        "N-13",
+        "N-1011"
       ],
-      "investigative_direction": "Verify marriage records and Carl Pangirl's later position in Mormon church.",
-      "tags": [
-        "biographical",
-        "falsifiable"
-      ],
-      "transcript_snippet": "She says, quote, I was a straight A student and was about to get the worst mark of my life, a C in algebra.",
+      "tags": [],
+      "claim_timestamp": "13:31",
+      "investigative_direction": "Verify marriage records and court documents from Indiana",
+      "transcript_snippet": "weird to me. I don't think a person...should be trying to normalize child...rape. Uh, or if they do, they probably...shouldn't hold any future positions of...power over children. Wouldn't you agree?...Well, I I'll let Jerry tell it. Let's...read a bit of this article from 1981...where she recounts her own history.",
       "confidence": "high"
     },
     {
       "@type": "Claim",
-      "@id": "C-1026",
-      "ref": "C-1026",
-      "label": "Jerry Frantzve DuPont and Radford Connections",
-      "claim_timestamp": "20:00",
-      "claim": "Jerry Frantzve worked for DuPont family as director of employee relations and later headed gender clinic at Radford University.",
+      "@id": "C-1013",
+      "ref": "C-1013",
+      "label": "Quaker Oats Conducted Human Experiments",
+      "claim": "Quaker Oats worked with Atomic Energy Commission to force-feed radioactive oats to children in mental institutions",
+      "anchored_artifacts": [
+        "A-1010.2"
+      ],
+      "related_nodes": [
+        "N-13",
+        "N-1012"
+      ],
+      "tags": [],
+      "claim_timestamp": "17:40",
+      "investigative_direction": "Obtain primary source documents on Quaker Oats experiments",
+      "transcript_snippet": "Okay, the official the official story...like I don't know. Help us sell these...oats. And if you're like me, I was...literally thinking in my head, well, at...least Quaker Oats was never involved in...any weird MK Ultra type experimentation...or anything,...except for that one time when Quaker",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1014",
+      "ref": "C-1014",
+      "label": "Jerry Frantzve Worked for DuPont",
+      "claim": "Jerry Frantzve became director of employee relations for DuPont family after working for Quaker Oats",
+      "anchored_artifacts": [
+        "A-1010.3"
+      ],
+      "related_nodes": [
+        "N-13",
+        "N-1002",
+        "N-1015"
+      ],
+      "tags": [],
+      "claim_timestamp": "20:03",
+      "investigative_direction": "Verify employment records at DuPont",
+      "transcript_snippet": "the DuPont family, becoming the director...of employee relations for DuPont because...she's so good at psychology. Uh she gets...into organizational psychology. She is...tasked effectively, I would say, with...finding the psychopaths that should head...up the corporations that are run by the...elite bloodlines. She goes into",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1015",
+      "ref": "C-1015",
+      "label": "Erika Attended Tesseract School 1993-1999",
+      "claim": "Erika Kirk attended Tesseract School from first grade through third grade (1993-1999)",
       "anchored_artifacts": [
         "A-1012.1"
       ],
       "related_nodes": [
-        "N-12",
-        "N-15",
-        "N-1007",
-        "N-1010"
+        "N-2",
+        "N-1002",
+        "N-1017"
       ],
-      "investigative_direction": "Verify employment records at DuPont and Radford University.",
-      "tags": [
-        "employment",
-        "falsifiable"
-      ],
-      "transcript_snippet": "She starts working for the DuPont family, becoming the director of employee relations for DuPont.",
+      "tags": [],
+      "claim_timestamp": "29:15",
+      "investigative_direction": "Obtain enrollment records from Tesseract",
+      "transcript_snippet": "people that are involved very much um...you can view it as almost a a child...psychological experiment. I'm going to...introduce those individuals to you....Let's just recap. Tesseract school in...general. We've already informed you...Erika will be there from 1993...to 1999. We showed you this photo of her",
       "confidence": "high"
     },
     {
       "@type": "Claim",
-      "@id": "C-1025",
-      "ref": "C-1025",
-      "label": "Tesaract School as Psychological Experiment",
-      "claim_timestamp": "29:00",
-      "claim": "Tesaract school where Erika attended from 1993-1999 was backed by Bush and Walton families and designed as psychological experiment with Dr. Jerry Frantzve involvement.",
+      "@id": "C-1016",
+      "ref": "C-1016",
+      "label": "Tesseract Connected to MK Ultra Personnel",
+      "claim": "Tesseract board member Phil Bliss was MK Ultra-connected drug counselor; Jerry Frantzve worked with Dr. John Money",
       "anchored_artifacts": [
-        "A-1011.1",
-        "A-1011.2",
-        "A-1011.3"
+        "A-1012.2",
+        "A-1015.1"
       ],
       "related_nodes": [
-        "N-2",
-        "N-12",
-        "N-14",
-        "N-1009"
+        "N-1002",
+        "N-15",
+        "N-17",
+        "N-1004",
+        "N-1005",
+        "N-1013"
       ],
-      "investigative_direction": "Review Tesaract school records, board meeting minutes, and curriculum documents.",
-      "tags": [
-        "institutional_claim"
-      ],
-      "transcript_snippet": "This is without question a school that is being designed by the elites. It is backed by the Bushes and the Waltons.",
+      "tags": [],
+      "claim_timestamp": "32:05",
+      "investigative_direction": "Verify personnel records and connections between individuals",
+      "transcript_snippet": "named Phil Bliss who joins the board of...Tesseract....Okay, Phil Bliss here over there in the...corner. Phil Bliss, the board member,...was involved with Stanford University in...the 70s. I'm not going to Yes, I am. MK...Ultra, MK Ultra. Okay. He was known...widely during that time as a drug",
       "confidence": "medium"
     },
     {
       "@type": "Claim",
-      "@id": "C-1022",
-      "ref": "C-1022",
-      "label": "Missing Money from Turning Point USA",
-      "claim_timestamp": "44:50",
-      "claim": "Millions of dollars were missing from Turning Point USA, specifically from Turning Point Action headed by Tyler Bowyer.",
-      "anchored_artifacts": [],
+      "@id": "C-1017",
+      "ref": "C-1017",
+      "label": "Tyler Bowyer Introduced Charlie and Erika",
+      "claim": "Tyler Bowyer introduced Charlie Kirk to Erika Kirk; Turning Point Action had missing millions",
+      "anchored_artifacts": [
+        "A-1013.2"
+      ],
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-3",
-        "N-13",
-        "N-1008"
+        "N-14",
+        "N-1014",
+        "N-1020"
       ],
-      "investigative_direction": "Obtain financial records and audit reports from Turning Point USA.",
-      "tags": [
-        "financial",
-        "falsifiable"
-      ],
-      "transcript_snippet": "Somebody who was within Turning Point USA confirmed to me that money was indeed missing out of Turning Point USA.",
+      "tags": [],
+      "claim_timestamp": "44:25",
+      "investigative_direction": "Obtain financial records from Turning Point Action",
+      "transcript_snippet": "important relationship that Erika had at...Turning Point USA is Tyler Bowyer. You will...recall that when I sat down with her,...and I want to let you know that ahead of...today's episode and yesterday, one of...the questions that we keep asking that...we can't get an answer is, how does...Erika Kirk know Tyler Bowyer? She...couldn't recall that in person. We can't",
       "confidence": "medium"
     },
     {
       "@type": "Claim",
-      "@id": "C-1027",
-      "ref": "C-1027",
-      "label": "Erika's Pageant Narrative Contradiction",
-      "claim_timestamp": "49:25",
-      "claim": "Erika claims she wasn't groomed for pageants and received nomination unexpectedly, but evidence shows she was involved from early age and mother pushed it.",
+      "@id": "C-1018",
+      "ref": "C-1018",
+      "label": "Erika Denies Mother Pushed Pageants",
+      "claim": "Erika claims in 2020 interview she was never groomed for pageants and didn't want it, contrary to witness accounts",
       "anchored_artifacts": [
         "A-1013.1"
       ],
       "related_nodes": [
         "N-2",
-        "N-3",
-        "N-9",
-        "N-1011"
+        "N-3"
       ],
-      "investigative_direction": "Compare Erika's 2020 interview claims against yearbook photos and pageant records from early years.",
-      "tags": [
-        "contradiction",
-        "falsifiable"
-      ],
-      "transcript_snippet": "That's just that's not right. That's not true. Um Erika has been involved in pageantss from the very beginning.",
+      "tags": [],
+      "claim_timestamp": "48:01",
+      "investigative_direction": "Compare testimony from pageant contacts and family",
+      "transcript_snippet": "Romania. But I do want to show you this...clip of her just kind of lying very...casually about how she got into the...pageant world. This is her discussing...that back in 2020. Take a listen....>> Was it after that? That's when you...started pageantss or when did that come...about?",
       "confidence": "high"
     },
     {
       "@type": "Claim",
-      "@id": "C-1028",
-      "ref": "C-1028",
-      "label": "Tyler Bowyer Introduced Charlie to Erika",
-      "claim_timestamp": "44:27",
-      "claim": "Tyler Bowyer was the person who introduced Charlie Kirk to Erika Kirk.",
-      "anchored_artifacts": [],
+      "@id": "C-1019",
+      "ref": "C-1019",
+      "label": "Jill Kesler Was Tesseract Executive Director",
+      "claim": "The episode presents that Jill Kesler was executive director of Tesseract School during the period discussed.",
+      "anchored_artifacts": [
+        "A-1012.3"
+      ],
       "related_nodes": [
-        "N-1",
-        "N-2",
-        "N-13"
+        "N-1064",
+        "N-1002"
       ],
-      "investigative_direction": "Verify through Turning Point USA records and communications who introduced Charlie and Erika.",
-      "tags": [
-        "relationship",
-        "falsifiable"
+      "tags": [],
+      "claim_timestamp": "33:34",
+      "investigative_direction": "Verify Kesler's employment records at Tesseract School.",
+      "transcript_snippet": "The person who...is going to be running the school as the...executive director is a woman named Jill...Kesler. uh she's the executive director...and um she says that she moved to...Arizona for her husband's job",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1020",
+      "ref": "C-1020",
+      "label": "John Walton Was Tesseract Board Investor",
+      "claim": "The episode presents that John Walton, son of Walmart founder Sam Walton, was a major investor and sat on the Tesseract board.",
+      "anchored_artifacts": [
+        "A-1012.3"
       ],
-      "transcript_snippet": "The most important relationship that Erika had at Turning Point USA is Tyler Bowyer.",
-      "confidence": "high"
+      "related_nodes": [
+        "N-1066",
+        "N-1002"
+      ],
+      "tags": [],
+      "claim_timestamp": "34:34",
+      "investigative_direction": "Verify Walton family investment and board records for Tesseract.",
+      "transcript_snippet": "I told you...already that John Walton, obviously, the...son of Walmart founder Sam Walton, is a...major investor and he also sits on the...board.",
+      "confidence": "medium"
     }
   ],
-  "memes": [
-    {
-      "@type": "MemeAnalysis",
-      "@id": "M-1",
-      "ref": "M-1",
-      "canonical_term": "far and morear",
-      "type": "meme",
-      "occurrences": [
-        {
-          "episode": 2,
-          "video_timestamp": "00:08",
-          "quote": "wondering why their grandchildren are suddenly referring to them as far and morear",
-          "speaker_node_ref": "N-11",
-          "context": "Opening joke about American grandparents being called 'far' and 'morear' instead of grandma/grandpa",
-          "tags": [
-            "humor",
-            "political"
-          ],
-          "confidence": "high",
-          "uncertainty_note": null
-        }
-      ],
-      "context": "Joke about American culture being 'classed up' from Sweden"
-    },
-    {
-      "@type": "MemeAnalysis",
-      "@id": "M-2",
-      "ref": "M-2",
-      "canonical_term": "grandfather came to her in a dream",
-      "type": "meme",
-      "occurrences": [
-        {
-          "episode": 2,
-          "video_timestamp": "01:00",
-          "quote": "Erika wakes up and she tells him that his grandfather who has passed and who he adored came to her in a dream with a message",
-          "speaker_node_ref": "N-11",
-          "context": "Recounting story from Erika's ex about her claiming his deceased grandfather visited her in a dream",
-          "tags": [
-            "psychology",
-            "claim"
-          ],
-          "confidence": "medium",
-          "uncertainty_note": "This is a retelling of what an ex claimed - not direct quote from Erika"
-        }
-      ],
-      "context": "Described as showing psychology of Erika - comparison to Meghan Markle spraying Diana's perfume"
-    },
-    {
-      "@type": "MemeAnalysis",
-      "@id": "M-3",
-      "ref": "M-3",
-      "canonical_term": "grieving widow",
-      "type": "meme",
-      "occurrences": [
-        {
-          "episode": 2,
-          "video_timestamp": "09:15",
-          "quote": "She's the grieving widow. She's a grieving widow. Widow.",
-          "speaker_node_ref": "N-11",
-          "context": "Criticism of how Erika is portrayed and defended as 'grieving widow' despite lack of visible emotion about Charlie's death",
-          "tags": [
-            "criticism",
-            "narrative"
-          ],
-          "confidence": "high",
-          "uncertainty_note": null
-        }
-      ],
-      "context": "Candace questions why Erika is defended as grieving widow when she shows no emotion about Charlie's death"
-    }
-  ]
+  "memes": []
 }

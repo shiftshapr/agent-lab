@@ -3,84 +3,43 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 3,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
-    "video_timestamp_range": "00:01–01:07:50",
-    "extraction_timestamp": "2026-03-20T21:42:49Z",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:01:00–01:07:48",
+    "extraction_timestamp": "2026-09-04T23:06:23Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "09ac0df0f6f8068ffcd7447eb7ae99570012b5c4476e749eda7d6174f808e4ee"
+    "transcript_sha256": "d933d98963739a72f0786a21402939bbe5ef4efb4fb6d241efae0ca65c4782a4",
+    "analysis_date": "2026-09-04"
   },
-  "executive_summary": "Episode 3 focuses on Lori Frantzve (Erika Kirk's mother) and her connections to the Erpenbeck family, who were involved in a massive Ohio/Kentucky fraud scandal in the early 2000s. The episode presents evidence that Richard Erpenbeck was a witness to Lori and Kent's divorce documents, and that Lori has used multiple LLCs with Erpenbeck family members as notaries/incorporators. The episode also traces Erika's timeline through pageants and education, with claims about discrepancies in her narrative.",
+  "executive_summary": "Episode 3 focuses on Lori Frantzve's background and her connection to the Erpenbeck family scandal. The host presents evidence that Lori has been involved with Richard Erpenbeck, who witnessed her divorce documents and was a longtime business associate. The episode details the massive Erpenbeck home-building fraud case from Ohio/Kentucky (2002-2003) involving $34 million in bank fraud, forged documents, and even murder/kidnapping plots. The host argues this connects to Lori's pattern of business associations. Additionally, the episode presents evidence challenging Erika's claims about her dating history before meeting Charlie Kirk, and discusses Erika's timeline through pageants and school records.",
   "artifacts": [
-    {
-      "@type": "ArtifactFamily",
-      "@id": "A-1014",
-      "family_ref": "A-1014",
-      "bundle_name": "Erpenbeck Court Documents",
-      "sub_items": [
-        {
-          "@type": "Artifact",
-          "@id": "A-1014.1",
-          "ref": "A-1014.1",
-          "description": "Divorce documents for Lori and Kent with Richard Erpenbeck as witness",
-          "video_timestamp": "04:07–04:10",
-          "related_claims": [
-            "C-1030",
-            "C-1031"
-          ],
-          "related_nodes": [
-            "N-3",
-            "N-16"
-          ],
-          "tags": [
-            "court_filing"
-          ],
-          "confidence": "high"
-        },
-        {
-          "@type": "Artifact",
-          "@id": "A-1014.2",
-          "ref": "A-1014.2",
-          "description": "News clips about Erpenbeck family fraud case",
-          "video_timestamp": "09:35–09:41",
-          "related_claims": [
-            "C-1029"
-          ],
-          "related_nodes": [
-            "N-16",
-            "N-13"
-          ],
-          "tags": [
-            "news_clip"
-          ],
-          "confidence": "high",
-          "transcript_snippet": "Erpenbeck served 21 years after pleading guilty to defrauding banks of $34 million."
-        }
-      ]
-    },
     {
       "@type": "ArtifactFamily",
       "@id": "A-1016",
       "family_ref": "A-1016",
-      "bundle_name": "Lori Frantzve Business Filings",
+      "bundle_name": "Lori and Kent Divorce Documents",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1016.1",
           "ref": "A-1016.1",
-          "description": "LLC filings showing Richard/Donna Erpenbeck as notary/incorporator across multiple businesses",
-          "video_timestamp": "05:45–06:47",
+          "description": "Divorce documents with Richard Erpenbeck listed as witness",
           "related_claims": [
-            "C-1034"
+            "C-1021",
+            "C-1023"
           ],
           "related_nodes": [
             "N-3",
-            "N-16"
+            "N-18",
+            "N-1022"
           ],
-          "tags": [
-            "business_records"
-          ],
-          "confidence": "medium",
-          "transcript_snippet": "This is Lori, which feature Richard or Donna Erpenbeck as the secretary, the incorporator, the notary across a 25 year period."
+          "tags": [],
+          "event_timestamp": "Undated in episode source",
+          "video_timestamp": "04:07–04:26",
+          "transcript_snippet": "is Richard Erpenbeck. I'll show you that...here. Now, what I am blurring out on...this document is it had his address,...which allowed me to definitively confirm...which Rick Erpenbeck we were speaking...about, who is the one that actually was...the witness. Erpenbeck, by the way,...anybody that's gone through following",
+          "confidence": "high"
         }
       ]
     },
@@ -88,61 +47,277 @@
       "@type": "ArtifactFamily",
       "@id": "A-1017",
       "family_ref": "A-1017",
-      "bundle_name": "Erika Timeline Documents",
+      "bundle_name": "Erpenbeck Fraud Case News Coverage",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1017.1",
           "ref": "A-1017.1",
-          "description": "Deed documents from Marblehead, Massachusetts showing Lori and Kent",
-          "video_timestamp": "27:59–28:24",
+          "description": "News clip about Erpenbeck fraud case",
           "related_claims": [
-            "C-1035"
+            "C-1026"
           ],
           "related_nodes": [
-            "N-2",
-            "N-3"
+            "N-19",
+            "N-20",
+            "N-21",
+            "N-22",
+            "N-23"
           ],
-          "tags": [
-            "property_record"
-          ],
-          "confidence": "medium"
+          "tags": [],
+          "event_timestamp": "2003",
+          "video_timestamp": "09:35–09:56",
+          "transcript_snippet": "news clip. Erpenbeck served 21 years after...pleading guilty to defrauding banks of...$34 million. That was back in April of...2003. So he was a home builder who...funneled the proceeds from home closings...back to his company and himself. So his...crimes left hundreds of home buyers on...the hook for millions of dollars in",
+          "confidence": "high"
         },
         {
           "@type": "Artifact",
           "@id": "A-1017.2",
           "ref": "A-1017.2",
-          "description": "Regis University basketball records showing Erika played only 2007-2008",
-          "video_timestamp": "39:26–39:32",
+          "description": "Article snippets about Erpenbeck scandal",
           "related_claims": [
-            "C-1032"
+            "C-1026"
           ],
           "related_nodes": [
-            "N-2"
+            "N-19",
+            "N-20",
+            "N-21",
+            "N-22",
+            "N-23"
           ],
-          "tags": [
-            "academic_record"
-          ],
-          "confidence": "high",
-          "transcript_snippet": "Regis University still has her basketball stat page up and they're on my side. They say they only have a record of her playing for from 2007 to 2008."
+          "tags": [],
+          "event_timestamp": "2002-2009",
+          "video_timestamp": "10:26–13:20",
+          "transcript_snippet": "Uh, check out just some snippets from...articles recapping this case. I'm going...to get to this part. Lori Anne Erpenbeck...was a standout character. Tells us...that by 2004, Lori Erpenbeck seemingly had...enough of her family. She already knew...that her brother Bill had thought about...killing her. So when dad Tony offered to",
+          "confidence": "high"
         },
         {
           "@type": "Artifact",
           "@id": "A-1017.3",
           "ref": "A-1017.3",
-          "description": "Erika's 2020 interview where she admits to 8-month hiatus",
-          "video_timestamp": "40:45–41:29",
+          "description": "FBI cooler-cash news clip (Erpenbeck 2009)",
           "related_claims": [
-            "C-1036"
+            "C-1026"
           ],
           "related_nodes": [
-            "N-2"
+            "N-19",
+            "N-20"
           ],
-          "tags": [
-            "interview"
+          "tags": [],
+          "event_timestamp": "2009",
+          "video_timestamp": "17:23–17:48",
+          "transcript_snippet": "scandal. Take a listen. The Erpenbeck...name was back in the news in 2009 when...FBI agents dug up a cooler full of cash...from Summit Hills Country Club in...Crestview Hills. A friend had buried...money that he received from Erpenbeck...on the course next to Erpenbeck's...former home. Erpenbeck had hoped to use",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1018",
+      "family_ref": "A-1018",
+      "bundle_name": "Lori Business Filings",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1018.1",
+          "ref": "A-1018.1",
+          "description": "LLC filings showing Erpenbeck involvement",
+          "related_claims": [
+            "C-1024",
+            "C-1025"
           ],
-          "confidence": "medium",
-          "transcript_snippet": "I locked myself in my room basically turned into a hermit for about a good eight months."
+          "related_nodes": [
+            "N-3",
+            "N-18",
+            "N-19"
+          ],
+          "tags": [],
+          "event_timestamp": "1993-1999",
+          "video_timestamp": "05:43–07:13",
+          "transcript_snippet": "me take you through the litany of LLC's...that she has filed. This is Lori, which...feature Richard or Donna Erpenbeck as...either the secretary, the incorporator,...the notary across a 25y year period....Okay. Now, Lori filed for Euroch in June...of 1993. What does it do? Nobody knows....But Rick was featured. Lori and Rick",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1019",
+      "family_ref": "A-1019",
+      "bundle_name": "Erika Pageant and School Records",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1019.1",
+          "ref": "A-1019.1",
+          "description": "Pageant participation records 2005-2012",
+          "related_claims": [
+            "C-1027"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "2005-2012",
+          "video_timestamp": "33:28–33:56",
+          "transcript_snippet": ">> Okay. So it wasn't about narcissism. She...wasn't groomed. By the way, if you have...to say that you weren't groomed for...something, you probably were. You just...have to just kind of say that it's...probably because you were. And the...reality is that every single year from...2005 through to 2012, Erika was involved",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1019.2",
+          "ref": "A-1019.2",
+          "description": "Regis University basketball records",
+          "related_claims": [
+            "C-1028"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1019"
+          ],
+          "tags": [],
+          "event_timestamp": "2007-2008",
+          "video_timestamp": "37:45–39:32",
+          "transcript_snippet": "she does that. Regis University begins...in the fall. I could find two newspaper...entries of her uh, scoring um, November...24th game and against South Dakota. And...then another entry on December 1st. And...yeah, she seemingly, if I was just...following the paper trail, I would say...she had abandoned her scholarship. And I",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1020",
+      "family_ref": "A-1020",
+      "bundle_name": "Erika Interview Clips",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1020.1",
+          "ref": "A-1020.1",
+          "description": "Erika interview about 8-month hiatus",
+          "related_claims": [
+            "C-1028"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "2020",
+          "video_timestamp": "40:45–41:28",
+          "transcript_snippet": "I prayed for God to just strip my ego...from all of that stuff. All of that...world. all of the plastic hat crown...stuff with the banner that was just it...was never it was me from the standpoint...of a philanthropic side, but the...hometown hero thing was just weird and...it was unhealthy and it was just ego",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1020.2",
+          "ref": "A-1020.2",
+          "description": "Erika claims about not dating in NYC",
+          "related_claims": [
+            "C-1030",
+            "C-1031"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "Undated in episode source",
+          "video_timestamp": "54:25–56:02",
+          "transcript_snippet": "a 26-year-old Christian woman living in...New York City. I would like to stay here...long term, but I wonder whether it's...sustainable. Do you believe there's a...place for women like myself in modern...cities who care about having a career,...but also marrying a like-minded...Christian conservative man?",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1021",
+      "family_ref": "A-1021",
+      "bundle_name": "Social Media Evidence",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1021.1",
+          "ref": "A-1021.1",
+          "description": "Tweets showing Erika's relationship history",
+          "related_claims": [
+            "C-1031",
+            "C-1029"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "2013-2018",
+          "video_timestamp": "58:39–59:15",
+          "transcript_snippet": "Charlie, Erika had multiple boyfriends....She rang in the new year with a...boyfriend. Okay. In 2018. So, yeah. No....Uh, the correct sentence should be, I...did not have a boyfriend in uh New New...York. I didn't go out to meet a...boyfriend cuz I already had one and...maybe he was living in DC or something.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1021.2",
+          "ref": "A-1021.2",
+          "description": "Erika social posts — Terry Crist / Hillsong connection",
+          "related_claims": [
+            "C-1029"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-24",
+            "N-25"
+          ],
+          "tags": [],
+          "event_timestamp": "2011–2016",
+          "video_timestamp": "43:56–45:16",
+          "transcript_snippet": "joy. Congratulations, Terry Chris....Judith Crisp....The vibes are vibing....Now, coincidentally, and I'm going to...bring Ashley uh on in a second to...explain a little more, but I'll tell you...that Pastor Terry is very close with...Brian Houston, the Hillsong Church",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1022",
+      "family_ref": "A-1022",
+      "bundle_name": "Super Feed Technologies Records",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1022.1",
+          "ref": "A-1022.1",
+          "description": "Lori board membership and Tyler Bowyer association",
+          "related_claims": [
+            "C-1021"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-1018",
+            "N-14",
+            "N-1020"
+          ],
+          "tags": [],
+          "event_timestamp": "Undated in episode source",
+          "video_timestamp": "00:30–01:05",
+          "transcript_snippet": "Not important for today. Lori Frantzve,...despite being ill, has recently been put...on the board of Super Feed Technologies...alongside Turning Point Actions COO...Tyler Bowyer. Shady dude. They're...effectively then business partners. They...have been for a while. Actually, Lori...was at first a director over at",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1022.2",
+          "ref": "A-1022.2",
+          "description": "Yahoo News Kari Lake / Super Feed bribery headline",
+          "related_claims": [
+            "C-1021"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-14",
+            "N-1020"
+          ],
+          "tags": [],
+          "event_timestamp": "Undated in episode source",
+          "video_timestamp": "21:15–21:42",
+          "transcript_snippet": "Claims of bribery. I think I had it the...headline in Yahoo News. Kari Lakes...bribery scandal involves a shady GOP...tech firm. Yeah, they're referring to...Super Feed Technologies had its business...revoked by the state of Arizona while it...employed Jeff Dwit, its former COO, and...Lake, who had received more than",
+          "confidence": "high"
         }
       ]
     }
@@ -150,47 +325,24 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-11",
-      "ref": "N-11",
-      "name": "Candace Owens",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
       "type": "person",
-      "description": "Host of the Bride of Charlie investigation series",
+      "description": "Founder of Turning Point USA, deceased husband of Erika Kirk",
       "related_artifacts": [
-        "A-1014.1",
-        "A-1014.2",
-        "A-1016.1",
-        "A-1017.1",
-        "A-1017.2",
-        "A-1017.3"
-      ],
-      "related_claims": [],
-      "tags": [
-        "host",
-        "key_figure"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "N-2",
-      "ref": "N-2",
-      "name": "Erika Kirk",
-      "type": "person",
-      "description": "Primary subject of investigation, daughter of Lori Frantzve",
-      "related_artifacts": [
-        "A-1017.1",
-        "A-1017.2",
-        "A-1017.3"
+        "A-1020.2",
+        "A-1021.1"
       ],
       "related_claims": [
-        "C-1035",
-        "C-1032",
-        "C-1036",
-        "C-1037",
-        "C-1038"
+        "C-1030",
+        "C-1031"
       ],
-      "tags": [
-        "primary_subject"
-      ]
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     },
     {
       "@type": "Person",
@@ -198,320 +350,621 @@
       "ref": "N-3",
       "name": "Lori Frantzve",
       "type": "person",
-      "description": "Erika's mother, involved in multiple businesses and the Erpenbeck family scandal",
+      "description": "Mother of Erika Kirk, involved in multiple businesses, board member at Super Feed Technologies",
       "related_artifacts": [
-        "A-1014.1",
         "A-1016.1",
-        "A-1017.1"
+        "A-1018.1",
+        "A-1020.1",
+        "A-1022.1",
+        "A-1022.2"
       ],
       "related_claims": [
-        "C-1030",
-        "C-1031",
-        "C-1034",
-        "C-1033",
-        "C-1035"
+        "C-1021",
+        "C-1024",
+        "C-1023",
+        "C-1025"
       ],
-      "tags": [
-        "key_figure"
-      ]
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-18",
+      "ref": "N-18",
       "name": "Richard Erpenbeck",
       "type": "person",
-      "description": "Witness to Lori's divorce documents, member of Erpenbeck family involved in fraud case",
+      "description": "Witness on Lori's divorce documents, longtime business associate of Lori, youngest Erpenbeck brother",
       "related_artifacts": [
-        "A-1014.1",
-        "A-1014.2",
-        "A-1016.1"
+        "A-1016.1",
+        "A-1018.1"
       ],
       "related_claims": [
-        "C-1030",
-        "C-1031",
-        "C-1029",
-        "C-1034"
+        "C-1024",
+        "C-1023",
+        "C-1025"
       ],
-      "tags": [
-        "witness"
-      ]
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     },
     {
       "@type": "Person",
-      "@id": "N-13",
-      "ref": "N-13",
-      "name": "Tyler Bowyer",
+      "@id": "N-19",
+      "ref": "N-19",
+      "name": "Tony Erpenbeck",
       "type": "person",
-      "description": "COO of Turning Point Action, business partner with Lori at Super Feed Technologies",
-      "related_claims": [
-        "C-1033"
-      ],
-      "tags": [
-        "key_figure"
-      ],
-      "related_artifacts": []
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1012",
-      "ref": "N-1012",
-      "name": "Erpenbeck fraud pattern — Lori LLCs & notaries",
-      "type": "investigation_target",
-      "description": "Erpenbeck family thread: fraud pattern around Lori’s LLCs and notary/incorporator ties to the same family. Notary testimony names Bill Erpenbeck (Rick Erpenbeck’s brother) re absent signers. Legal/document spelling: Erpenbeck. Video captions/STT often garbled Erpenbeck; treat as caption drift. Richard Erpenbeck appears as witness on related docs.",
+      "description": "Father of Erpenbeck siblings, sentenced for bank fraud, plotted murder/kidnapping",
       "related_artifacts": [
-        "A-1014.1",
-        "A-1014.2",
-        "A-1016.1"
-      ],
-      "related_claims": [
-        "C-1029",
-        "C-1034",
-        "C-1030",
-        "C-1031",
-        "C-1033"
-      ],
-      "tags": [
-        "fraud_target"
-      ],
-      "confidence": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1013",
-      "ref": "N-1013",
-      "name": "Erika Timeline Discrepancies",
-      "type": "investigation_target",
-      "description": "Inconsistencies between Erika's claimed narrative and documented records",
-      "related_artifacts": [
+        "A-1017.1",
         "A-1017.2",
         "A-1017.3"
       ],
       "related_claims": [
-        "C-1032",
-        "C-1036",
-        "C-1037",
-        "C-1038"
+        "C-1026"
       ],
-      "tags": [
-        "discrepancy_target"
-      ]
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-20",
+      "ref": "N-20",
+      "name": "Bill Erpenbeck",
+      "type": "person",
+      "description": "Erpenbeck brother, led fraud scheme, served 21 years",
+      "related_artifacts": [
+        "A-1017.1",
+        "A-1017.2",
+        "A-1017.3"
+      ],
+      "related_claims": [
+        "C-1026"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-21",
+      "ref": "N-21",
+      "name": "Gary Erpenbeck",
+      "type": "person",
+      "description": "Erpenbeck brother, involved in family business",
+      "related_artifacts": [
+        "A-1017.2"
+      ],
+      "related_claims": [
+        "C-1026"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Jeff Erpenbeck",
+      "type": "person",
+      "description": "Erpenbeck brother",
+      "related_artifacts": [
+        "A-1017.2"
+      ],
+      "related_claims": [
+        "C-1026"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-23",
+      "ref": "N-23",
+      "name": "Donna Erpenbeck",
+      "type": "person",
+      "description": "Wife of Gary Erpenbeck, notary on Lori's documents",
+      "related_artifacts": [
+        "A-1018.1"
+      ],
+      "related_claims": [
+        "C-1025",
+        "C-1026"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of investigation, daughter of Lori, widow of Charlie Kirk",
+      "related_artifacts": [
+        "A-1019.1",
+        "A-1019.2",
+        "A-1020.1",
+        "A-1020.2",
+        "A-1021.1"
+      ],
+      "related_claims": [
+        "C-1022",
+        "C-1027",
+        "C-1028",
+        "C-1030",
+        "C-1031"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1018",
+      "ref": "N-1018",
+      "name": "Super Feed Technologies",
+      "type": "organization",
+      "description": "Tech company with Lori on board, associated with Turning Point Action scandal",
+      "related_artifacts": [
+        "A-1022.1",
+        "A-1022.2"
+      ],
+      "related_claims": [
+        "C-1021"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "company"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1019",
+      "ref": "N-1019",
+      "name": "Regis University",
+      "type": "organization",
+      "description": "University in Denver where Erika had basketball scholarship",
+      "related_artifacts": [
+        "A-1019.2"
+      ],
+      "related_claims": [
+        "C-1028"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "educational_institution"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "COO of Turning Point Action, business partner with Lori",
+      "related_artifacts": [
+        "A-1022.1",
+        "A-1022.2"
+      ],
+      "related_claims": [
+        "C-1021"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "Kent Frantzve",
+      "type": "person",
+      "description": "Erika's father, Lori's ex-husband",
+      "related_artifacts": [
+        "A-1016.1"
+      ],
+      "related_claims": [
+        "C-1023"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1020",
+      "ref": "N-1020",
+      "name": "Turning Point Action",
+      "type": "organization",
+      "description": "Political action arm of Turning Point USA",
+      "related_artifacts": [
+        "A-1022.1"
+      ],
+      "related_claims": [
+        "C-1021"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "organization_kind": "political_organization"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-24",
+      "ref": "N-24",
+      "name": "Pastor Terry Crist",
+      "type": "person",
+      "description": "Pastor at City of Grace in Scottsdale, friend of Brian Houston",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1029"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-25",
+      "ref": "N-25",
+      "name": "Brian Houston",
+      "type": "person",
+      "description": "Founder of Hillsong Church, covered up father's pedophilia",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1029"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1021",
+      "ref": "N-1021",
+      "name": "Notre Dame Prep",
+      "type": "organization",
+      "description": "Arizona high school formerly Tesseract School",
+      "related_artifacts": [
+        "A-1019.1"
+      ],
+      "related_claims": [
+        "C-1027"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "educational_institution"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1002",
+      "ref": "N-1002",
+      "name": "Tesseract School",
+      "type": "organization",
+      "description": "School in North Scottsdale that closed due to financial scandal",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "organization_kind": "educational_institution"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1022",
+      "ref": "N-1022",
+      "name": "Erpenbeck Family Connection",
+      "type": "topic",
+      "description": "Investigation into Lori's association with Erpenbeck family and their criminal history",
+      "related_artifacts": [
+        "A-1016.1",
+        "A-1017.1",
+        "A-1017.2",
+        "A-1018.1"
+      ],
+      "related_claims": [
+        "C-1024",
+        "C-1023",
+        "C-1026",
+        "C-1025"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1023",
+      "ref": "N-1023",
+      "name": "Erika Dating History Discrepancy",
+      "type": "topic",
+      "description": "Inconsistency between Erika's claims about dating history and evidence of multiple relationships",
+      "related_artifacts": [
+        "A-1020.2",
+        "A-1021.1"
+      ],
+      "related_claims": [
+        "C-1031"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "discrepancy"
     }
   ],
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1030",
-      "ref": "C-1030",
-      "label": "Richard Erpenbeck Witnessed Divorce Docs",
-      "claim_timestamp": "04:07",
-      "claim": "Richard Erpenbeck was listed as the witness on Lori and Kent's divorce documents.",
+      "@id": "C-1021",
+      "ref": "C-1021",
+      "label": "Lori on Super Feed Board with Tyler Bowyer",
+      "claim": "Lori Frantzve was recently put on the board of Super Feed Technologies alongside Turning Point Action COO Tyler Bowyer.",
       "anchored_artifacts": [
-        "A-1014.1"
+        "A-1022.1",
+        "A-1022.2"
       ],
       "related_nodes": [
         "N-3",
-        "N-16",
-        "N-1012"
+        "N-1018",
+        "N-14",
+        "N-1020"
       ],
-      "investigative_direction": "Verify if Richard Erpenbeck was properly notarized as witness.",
-      "tags": [
-        "falsifiable"
-      ],
-      "confidence": "high",
-      "transcript_snippet": "That witness, his name is Richard Erpenbeck."
+      "tags": [],
+      "claim_timestamp": "00:30",
+      "investigative_direction": "Verify corporate filings and board meeting minutes.",
+      "transcript_snippet": "Now, as a part of the public...psychological campaign, Erika has been...curating videos to remind us that her...mother is very ill. I don't dispute...that. I do dispute that Erika was with...her on September 10th receiving a...treatment, but we'll get to that later....Not important for today. Lori Frantzve,",
+      "confidence": "high"
     },
     {
       "@type": "Claim",
-      "@id": "C-1031",
-      "ref": "C-1031",
-      "label": "Unauthorized Notarization Pattern",
-      "claim_timestamp": "13:21",
-      "claim": "The divorce documents contained unauthorized notarization where signers were not present (notary: Bill Erpenbeck sometimes asked for notarizations when signers were absent, per ep3 transcript ~12:55–13:16).",
+      "@id": "C-1022",
+      "ref": "C-1022",
+      "label": "Erika Birthday November 22",
+      "claim": "Erika's birthday is listed as November 22 across multiple documents reviewed in this episode.",
       "anchored_artifacts": [
-        "A-1014.1"
+        "A-1016.1"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "03:16",
+      "investigative_direction": "Compare birth records from multiple sources.",
+      "transcript_snippet": "something wasn't right. four different...dates uh to the alleged wedding between...Lori and Kent. Uh an unnottorized child...care agreement, plus a different date...for Erika's birthday than the one...initially listed in the Cincinnati News....November 22nd across four sets of...documents, but we caution people at home",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1023",
+      "ref": "C-1023",
+      "label": "Richard Erpenbeck Witness on Divorce",
+      "claim": "Richard Erpenbeck was listed as the witness on Lori and Kent's divorce documents.",
+      "anchored_artifacts": [
+        "A-1016.1"
       ],
       "related_nodes": [
         "N-3",
-        "N-16",
-        "N-1012"
+        "N-18",
+        "N-4",
+        "N-1022"
       ],
-      "investigative_direction": "Compare notarization dates with physical presence requirements.",
-      "tags": [
-        "falsifiable"
+      "tags": [],
+      "claim_timestamp": "04:07",
+      "investigative_direction": "Obtain certified copies of divorce documents.",
+      "transcript_snippet": "documents. There was another person...mentioned uh someone who is listed as...the witness to these shenanigans. That's...that's how I am going to hitherto refer...to the divorce documents, the...shenanigans. And that witness, his name...is Richard Erpenbeck. I'll show you that...here. Now, what I am blurring out on",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1024",
+      "ref": "C-1024",
+      "label": "Richard Erpenbeck Business Association",
+      "claim": "Richard Erpenbeck has been a longtime business associate of Lori, appearing as secretary, incorporator, and notary across her multiple LLCs over 25 years.",
+      "anchored_artifacts": [
+        "A-1016.1",
+        "A-1018.1"
       ],
-      "confidence": "medium",
-      "transcript_snippet": "She said Bill Erpenbeck sometimes asked her to notoriize documents from the people who supposedly had signed them were not in her presence."
+      "related_nodes": [
+        "N-3",
+        "N-18",
+        "N-1022"
+      ],
+      "tags": [],
+      "claim_timestamp": "04:26",
+      "investigative_direction": "Obtain business filings to verify Erpenbeck's roles in Lori's companies.",
+      "transcript_snippet": "this document is it had his address,...which allowed me to definitively confirm...which Rick Erpenbeck we were speaking...about, who is the one that actually was...the witness. Erpenbeck, by the way,...anybody that's gone through following...any of the um people on X that have been...deep diving alongside me, you will know",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1025",
+      "ref": "C-1025",
+      "label": "Lori's LLC Network with Erpenbecks",
+      "claim": "Lori has filed multiple LLCs (Euroch, Euroch International UK, Techmetrics International, Virtual Registration) featuring Richard or Donna Erpenbeck as secretary, incorporator, or notary over 25 years.",
+      "anchored_artifacts": [
+        "A-1018.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-18",
+        "N-23",
+        "N-1022"
+      ],
+      "tags": [],
+      "claim_timestamp": "05:43",
+      "investigative_direction": "Obtain complete LLC filing history from state records.",
+      "transcript_snippet": "putting together tech companies as many...people do. I am waiting for that late...stage technological brilliance to fall...upon me cuz I can barely uh sort through...my apps. I don't even know how to get to...the app store in a fast enough time. Let...me take you through the litany of LLC's...that she has filed. This is Lori, which",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1026",
+      "ref": "C-1026",
+      "label": "Erpenbeck Family Fraud Case",
+      "claim": "The Erpenbeck family operated a massive home-building fraud scheme in Ohio/Kentucky around 2002-2003, defrauding banks of $34 million and leaving hundreds of homeowners with unpaid mortgages.",
+      "anchored_artifacts": [
+        "A-1017.1",
+        "A-1017.2",
+        "A-1017.3"
+      ],
+      "related_nodes": [
+        "N-19",
+        "N-20",
+        "N-21",
+        "N-22",
+        "N-23",
+        "N-1022"
+      ],
+      "tags": [],
+      "claim_timestamp": "09:35",
+      "investigative_direction": "Review court records from the Eastern District of Kentucky and Southern District of Ohio.",
+      "transcript_snippet": "home ownership. You know, pay us...directly, we'll handle the rest, kind of...a deal. Young people buying homes for...the first time, but the homes, it turns...out, were not being built, and their...mortgages, it turned out, uh were not...being paid either. Take a listen to this...news clip. Erpenbeck served 21 years after",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1027",
+      "ref": "C-1027",
+      "label": "Erika Pageant Timeline 2005-2012",
+      "claim": "Erika participated in beauty pageants every year from 2005 through 2012, totaling seven years.",
+      "anchored_artifacts": [
+        "A-1019.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1021"
+      ],
+      "tags": [],
+      "claim_timestamp": "33:43",
+      "investigative_direction": "Obtain pageant competition records from state and national organizations.",
+      "transcript_snippet": ">> Okay. So it wasn't about narcissism. She...wasn't groomed. By the way, if you have...to say that you weren't groomed for...something, you probably were. You just...have to just kind of say that it's...probably because you were. And the...reality is that every single year from...2005 through to 2012, Erika was involved",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1028",
+      "ref": "C-1028",
+      "label": "Erika Missing 2008 and Basketball Gap",
+      "claim": "Erika appears to have gone missing from public records in 2008, and Regis University only shows her basketball records for the 2007-2008 season despite her claims of playing for two years.",
+      "anchored_artifacts": [
+        "A-1019.2",
+        "A-1020.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1019"
+      ],
+      "tags": [],
+      "claim_timestamp": "38:59",
+      "investigative_direction": "Request transcript records and enrollment verification from Regis University.",
+      "transcript_snippet": "Oh, I'm sorry. That's they had already...filed that. It gets canceled by the tax...department. That's right. the there's so...many LLC's and so many cancellations....This one gets canceled....2008 is where it gets pretty interesting...because I was trying to find Erika's...very present and suddenly in 2008 I",
+      "confidence": "high"
     },
     {
       "@type": "Claim",
       "@id": "C-1029",
       "ref": "C-1029",
-      "label": "Erpenbeck Family Fraud Convictions",
-      "claim_timestamp": "09:35",
-      "claim": "The Erpenbeck family was involved in a massive fraud scheme defrauding banks of $34 million.",
+      "label": "Pastor Terry Crist Connection to Hillsong",
+      "claim": "Pastor Terry Crist of City of Grace Scottsdale is close friends with Brian Houston, founder of Hillsong Church who covered up his father's pedophilia.",
       "anchored_artifacts": [
-        "A-1014.2"
+        "A-1021.2"
       ],
       "related_nodes": [
-        "N-16",
-        "N-1012"
+        "N-24",
+        "N-25"
       ],
-      "investigative_direction": "Review court records for conviction details.",
-      "tags": [
-        "falsifiable"
-      ],
-      "confidence": "high",
-      "transcript_snippet": "Erpenbeck served 21 years after pleading guilty to defrauding banks of $34 million."
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-1034",
-      "ref": "C-1034",
-      "label": "Lori LLC Network with Erpenbeck family",
-      "claim_timestamp": "05:45",
-      "claim": "Lori filed multiple LLCs using Richard and Donna Erpenbeck as notary and incorporator over 25 years.",
-      "anchored_artifacts": [
-        "A-1016.1"
-      ],
-      "related_nodes": [
-        "N-3",
-        "N-16",
-        "N-1012"
-      ],
-      "investigative_direction": "Review Secretary of State records for all LLC filings.",
-      "tags": [
-        "falsifiable"
-      ],
-      "confidence": "high",
-      "transcript_snippet": "This is Lori, which feature Richard or Donna Erpenbeck as the secretary, the incorporator, the notary across a 25 year period."
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-1033",
-      "ref": "C-1033",
-      "label": "Lori and Tyler Bowyer Business Partnership",
-      "claim_timestamp": "00:34",
-      "claim": "Lori Frantzve was put on the board of Super Feed Technologies alongside Tyler Bowyer, Turning Point Actions COO.",
-      "anchored_artifacts": [
-        "A-1016.1"
-      ],
-      "related_nodes": [
-        "N-3",
-        "N-13",
-        "N-1012"
-      ],
-      "investigative_direction": "Verify Super Feed Technologies board composition.",
-      "tags": [
-        "falsifiable"
-      ],
+      "tags": [],
+      "claim_timestamp": "44:10",
+      "investigative_direction": "Verify friendship through church records and public statements.",
+      "transcript_snippet": "joy. Congratulations, Terry Chris....Judith Crisp....The vibes are vibing....Now, coincidentally, and I'm going to...bring Ashley uh on in a second to...explain a little more, but I'll tell you...that Pastor Terry is very close with...Brian Houston, the Hillsong Church",
       "confidence": "medium",
-      "transcript_snippet": "Lori Frantzve, despite being ill, has recently been put on the board of Super Feed Technologies alongside Turning Point Actions COO Tyler Bowyer."
+      "uncertainty_note": "No artifact shown; based on host's narration of research"
     },
     {
       "@type": "Claim",
-      "@id": "C-1035",
-      "ref": "C-1035",
-      "label": "Lori and Kent Listed as Rhode Island Couple",
-      "claim_timestamp": "28:11",
-      "claim": "Property deeds show Lori and Kent listing themselves as from North Kingstown, Rhode Island.",
+      "@id": "C-1030",
+      "ref": "C-1030",
+      "label": "Erika Claimed No Dating in NYC",
+      "claim": "Erika claimed she did not date anyone during her 5 years living in New York City before meeting Charlie Kirk.",
       "anchored_artifacts": [
-        "A-1017.1"
+        "A-1020.2"
       ],
       "related_nodes": [
         "N-2",
-        "N-3"
+        "N-1"
       ],
-      "investigative_direction": "Verify if Lori and Kent ever actually lived in Rhode Island.",
-      "tags": [
-        "falsifiable"
-      ],
-      "confidence": "medium",
-      "transcript_snippet": "Lori and Kent are listing as having been a couple from Rhode Island."
+      "tags": [],
+      "claim_timestamp": "54:59",
+      "investigative_direction": "Obtain social media records and witness testimony from NYC period.",
+      "transcript_snippet": "you're looking. You know,...if you're on the apps, I don't know if...you're on the apps. I don't know if to...be I'm not going to ask you your...personal journey, but what I will say is...when I lived out here, I was here for 5...years. I never dated here because I saw...vicariously through my roommate how",
+      "confidence": "high"
     },
     {
       "@type": "Claim",
-      "@id": "C-1032",
-      "ref": "C-1032",
-      "label": "Erika Basketball at Regis Only One Season",
-      "claim_timestamp": "39:26",
-      "claim": "Regis University records show Erika played basketball only for the 2007-2008 season, contradicting her claim of two years.",
+      "@id": "C-1031",
+      "ref": "C-1031",
+      "label": "Erika Had Multiple Boyfriends 2013-2018",
+      "claim": "Evidence shows Erika had multiple boyfriends during the 2013-2018 period, including ringing in 2018 with a boyfriend, contradicting her claim of not dating for 5 years before Charlie.",
       "anchored_artifacts": [
-        "A-1017.2"
+        "A-1021.1",
+        "A-1020.2"
       ],
       "related_nodes": [
         "N-2",
-        "N-1013"
+        "N-1",
+        "N-1023"
       ],
-      "investigative_direction": "Obtain official athletic department records from Regis University.",
-      "tags": [
-        "falsifiable"
-      ],
-      "confidence": "high",
-      "transcript_snippet": "Regis University still has her basketball stat page up and they're on my side. They say they only have a record of her playing for from 2007 to 2008."
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-1036",
-      "ref": "C-1036",
-      "label": "Erika 8-Month Hiatus Claim",
-      "claim_timestamp": "40:45",
-      "claim": "Erika claims she isolated herself for 8 months after giving up her crown, seeing only her pastor's wife.",
-      "anchored_artifacts": [
-        "A-1017.3"
-      ],
-      "related_nodes": [
-        "N-2",
-        "N-1013"
-      ],
-      "investigative_direction": "Verify if college student could realistically have such isolation.",
-      "tags": [
-        "falsifiable"
-      ],
-      "confidence": "medium",
-      "transcript_snippet": "I locked myself in my room basically turned into a hermit for about a good eight months. The only person I would see outside of my family was my pastor's wife."
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-1037",
-      "ref": "C-1037",
-      "label": "Erika Dating History Contradiction",
-      "claim_timestamp": "54:41",
-      "claim": "Erika claims she didn't date anyone in NYC for 5 years before meeting Charlie, but evidence shows she had boyfriends during that period.",
-      "anchored_artifacts": [
-        "A-1017.3"
-      ],
-      "related_nodes": [
-        "N-2",
-        "N-1013"
-      ],
-      "investigative_direction": "Obtain social media records and witness testimony for Erika's dating history 2013-2018.",
-      "tags": [
-        "falsifiable"
-      ],
-      "confidence": "medium",
-      "transcript_snippet": "I was here for 5 years. I never dated here."
-    },
-    {
-      "@type": "Claim",
-      "@id": "C-1038",
-      "ref": "C-1038",
-      "label": "Erika Pageant Timeline",
-      "claim_timestamp": "33:42",
-      "claim": "Erika competed in beauty pageants from 2005 through 2012, totaling seven years of pageantry.",
-      "anchored_artifacts": [
-        "A-1017.3"
-      ],
-      "related_nodes": [
-        "N-2",
-        "N-1013"
-      ],
-      "investigative_direction": "Review pageant competition records from 2005-2012.",
-      "tags": [
-        "falsifiable"
-      ],
-      "confidence": "high",
-      "transcript_snippet": "The reality is that every single year from 2005 through to 2012, Erika was involved in beauty pageants."
+      "tags": [],
+      "claim_timestamp": "58:39",
+      "investigative_direction": "Compile social media evidence and witness accounts of relationships.",
+      "transcript_snippet": "feels right to me. Her whole demeanor...there is just crazy. What What's the...purpose of that lie?...And of course, you guys, I hate to tell...you this, but the reality is is that...from 2013, 2018, the five years...preceding her relationship with Charlie,...Charlie, Erika had multiple boyfriends.",
+      "confidence": "high"
     }
-  ]
+  ],
+  "memes": []
 }
