@@ -10,8 +10,8 @@
 - **Transcript SHA-256**: 50556b0953c4ed070732b46a7bc4466451e58920c429bce53867c2d317c65194
 
 - **Episode Ledger Summary**:
-  - Artifact Families Introduced: A-1062-A-1070
-  - Claim Range: C-1092-C-1105
+  - Artifact Families Introduced: A-1062-A-1070, A-1075
+  - Claim Range: C-1092-C-1105, C-1116
   - New Nodes Introduced: N-46, N-47, N-48, N-49, N-50, N-51, N-52, N-53, N-1051, N-1052, N-1053, N-1054, N-1055, N-1056, N-1057, N-1058, N-1059
   - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14, N-39, N-44, N-11, N-1001
 
@@ -169,6 +169,25 @@ Video Timestamp: 19:18–20:13
 *Related: C-1105, N-1, N-7*
 Transcript Snippet: timeline that it's on April 7th that...Charlie predicts his own death and says...that he knows that it is going to be...associated with Turning Point USA. I...just find that point to be very...interesting. And...he says I I if I tell you the true...prophecy I know in my gut it's really...sad. I I hope it's wrong. He goes on to...say, I'm not sure I am going I will live
 Confidence: high
+
+---
+
+**A-1075** Episode 8 Community Shoutouts Bundle
+
+**A-1075.1** realtruthrealjustice X account shoutout (read by host)
+Event Timestamp: Undated in episode source
+Video Timestamp: 45:08–45:25
+*Related: N-7*
+Transcript Snippet: _lindsmac...on Twitter goes by realtruthrealjustice....I I just wanted to shout her out in in...particular um for the hashtag...hashtagjusticeforcharlie.
+Confidence: high
+
+**A-1075.2** General Flynn Substack on Catholics under attack (summarized by host)
+Event Timestamp: Undated in episode source
+Event Timestamp Note: host references Substack published yesterday relative to recording; exact date not attested.
+Video Timestamp: 47:45–47:54
+*Related: C-1116, N-7*
+Transcript Snippet: General Flynn is also speaking...and he wrote a Substack yesterday about...how Catholics have been under attack and...it's despicable.
+Confidence: medium
 
 ---
 ## 4. Node Register
@@ -616,6 +635,19 @@ Anchored Artifacts: A-1070.1
 Related Nodes: N-1, N-7
 Confidence: high
 Investigative Direction: Preserve full message thread screenshots and metadata for April 7, 2018.
+
+---
+
+**C-1116** Flynn Wrote Substack About Catholics Under Attack
+
+Claim Timestamp: 47:45
+Claim: The host states that General Flynn wrote a Substack post about Catholics being under attack in connection with the Catholics for Catholics event controversy.
+Transcript Snippet: General Flynn is also speaking...and he wrote a Substack yesterday about...how Catholics have been under attack and...it's despicable.
+Anchored Artifacts: A-1075.2
+Related Nodes: N-7
+Confidence: medium
+Uncertainty: Host summarizes Substack; full text not read verbatim in episode
+Investigative Direction: Obtain Flynn Substack post URL and publication date.
 
 ## 6. Meme Register
 

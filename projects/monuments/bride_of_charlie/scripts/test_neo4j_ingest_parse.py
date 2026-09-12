@@ -4,6 +4,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from neo4j_fuzzy_names import fuzzy_duplicate_distance, fuzzy_name_distance, fuzzy_names_match
 from neo4j_ingest import (
     parse_id_list,
     extract_claims,
@@ -12,8 +13,6 @@ from neo4j_ingest import (
     extract_topic_mention_lines,
     resolve_draft_graph_node_id,
     resolve_related_graph_node_ids,
-    fuzzy_names_match,
-    fuzzy_name_distance,
 )
 
 
@@ -95,6 +94,12 @@ TopicMention: C-100 N-1000
     assert fuzzy_names_match("Tyler Bowyer", "Tyler Boyer")
     assert fuzzy_names_match("Erika Kirk", "Erika Kirke")
     assert fuzzy_names_match("Justin Strife", "Justin Stripe")
+
+    # neo4j_merge --auto uses same guard via fuzzy_duplicate_distance
+    assert fuzzy_duplicate_distance("Tony Erpenbeck", "Gary Erpenbeck") is None
+    assert fuzzy_duplicate_distance("Tony Erpenbeck", "Donna Erpenbeck") is None
+    assert fuzzy_duplicate_distance("Gary Erpenbeck", "Donna Erpenbeck") is None
+    assert fuzzy_duplicate_distance("Tyler Bowyer", "Tyler Boyer") is not None
 
     print("OK  neo4j_ingest parse tests passed.")
 

@@ -74,8 +74,9 @@ Confidence: high
 **A-1019.1** Pageant participation records 2005-2012
 Event Timestamp: 2005-2012
 Video Timestamp: 33:28–33:56
-*Related: C-1024, N-2, N-3*
+*Related: A-1013.1, C-1017, C-1024, N-2, N-3*
 Transcript Snippet: >> Okay. So it wasn't about narcissism. She...wasn't groomed. By the way, if you have...to say that you weren't groomed for...something, you probably were. You just...have to just kind of say that it's...probably because you were. And the...reality is that every single year from...2005 through to 2012, Erika was involved
+Same As Artifact: A-1013.1 (Episode 2 — 2020 not-groomed interview clip; cross-episode replay context, not a duplicate artifact)
 Confidence: high
 
 **A-1019.2** Regis University basketball records
