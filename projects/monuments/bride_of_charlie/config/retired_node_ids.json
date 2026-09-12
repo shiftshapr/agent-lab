@@ -1,7 +1,7 @@
 {
-  "version": 3,
-  "updated": "2026-09-12T19:25:02Z",
-  "description": "Tombstone ledger for collapsed / legacy Person N-IDs after intro-order renumber (N-1..N-53 dense).",
+  "version": 4,
+  "updated": "2026-09-12T19:34:02Z",
+  "description": "Tombstone ledger for legacy N-IDs after intro-order renumber (N-1..N-53 dense; N-1000+ Topic/Org/Place/Person append band).",
   "retired": {
     "legacy-N-10": {
       "survives_as": "N-8",
@@ -64,44 +64,364 @@
       "reason": "Lori Abbis Stanley merge_into N-3."
     },
     "legacy-N-1061": {
-      "survives_as": "N-1060",
-      "canonical_name": "Paperclip-Monarch-MK Ultra Chain Context",
-      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1061."
+      "survives_as": "N-1007",
+      "canonical_name": "Macron MK Ultra Lawsuit Aside",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1061."
     },
     "legacy-N-1062": {
-      "survives_as": "N-1061",
-      "canonical_name": "Macron MK Ultra Lawsuit Aside",
-      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1062."
+      "survives_as": "N-1008",
+      "canonical_name": "Looking Glass Jewish Naming Aside",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1062."
     },
     "legacy-N-1063": {
-      "survives_as": "N-1062",
-      "canonical_name": "Looking Glass Jewish Naming Aside",
-      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1063."
+      "survives_as": "N-1067",
+      "canonical_name": "Jill Kesler",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1063."
     },
     "legacy-N-1064": {
-      "survives_as": "N-1063",
-      "canonical_name": "Jill Kesler",
-      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1064."
+      "survives_as": "N-1068",
+      "canonical_name": "Susan B. Silverstein",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1064."
     },
     "legacy-N-1065": {
-      "survives_as": "N-1064",
-      "canonical_name": "Susan B. Silverstein",
-      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1065."
+      "survives_as": "N-1069",
+      "canonical_name": "John Walton",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1065."
     },
     "legacy-N-1066": {
-      "survives_as": "N-1065",
-      "canonical_name": "John Walton",
-      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1066."
+      "survives_as": "N-1033",
+      "canonical_name": "Khazar Pollock History Aside",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1066."
     },
     "legacy-N-1067": {
-      "survives_as": "N-1066",
-      "canonical_name": "Khazar Pollock History Aside",
-      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1067."
+      "survives_as": "N-1070",
+      "canonical_name": "Hugo E. Salazar",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1067."
     },
     "legacy-N-1060": {
-      "survives_as": "N-1067",
-      "canonical_name": "Hugo E. Salazar",
-      "reason": "Intro-order dense renumber N-1060..N-1071 ep1\u2192ep8; was N-1060."
+      "survives_as": "N-1006",
+      "canonical_name": "Paperclip-Monarch-MK Ultra Chain Context",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1060."
+    },
+    "legacy-N-1000": {
+      "survives_as": "N-1009",
+      "canonical_name": "Date of Birth Discrepancy",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1000."
+    },
+    "legacy-N-1001": {
+      "survives_as": "N-1000",
+      "canonical_name": "Turning Point USA",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1001."
+    },
+    "legacy-N-1002": {
+      "survives_as": "N-1001",
+      "canonical_name": "Tesseract School",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1002."
+    },
+    "legacy-N-1003": {
+      "survives_as": "N-1002",
+      "canonical_name": "Looking Glass School",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1003."
+    },
+    "legacy-N-1004": {
+      "survives_as": "N-1003",
+      "canonical_name": "MK Ultra",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1004."
+    },
+    "legacy-N-1005": {
+      "survives_as": "N-1004",
+      "canonical_name": "Operation Paperclip",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1005."
+    },
+    "legacy-N-1006": {
+      "survives_as": "N-1005",
+      "canonical_name": "Project Looking Glass",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1006."
+    },
+    "legacy-N-1007": {
+      "survives_as": "N-1010",
+      "canonical_name": "Marriage Date Discrepancy",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1007."
+    },
+    "legacy-N-1008": {
+      "survives_as": "N-1011",
+      "canonical_name": "Single Mother Narrative Question",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1008."
+    },
+    "legacy-N-1009": {
+      "survives_as": "N-1012",
+      "canonical_name": "Morfar-Farfar Terminology Issue",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1009."
+    },
+    "legacy-N-1010": {
+      "survives_as": "N-1013",
+      "canonical_name": "Family Gambling History",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1010."
+    },
+    "legacy-N-1011": {
+      "survives_as": "N-1014",
+      "canonical_name": "Jerry Frantzve Childhood Marriage",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1011."
+    },
+    "legacy-N-1012": {
+      "survives_as": "N-1015",
+      "canonical_name": "Quaker Oats Human Experiments",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1012."
+    },
+    "legacy-N-1013": {
+      "survives_as": "N-1016",
+      "canonical_name": "Tesseract Research Fraud",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1013."
+    },
+    "legacy-N-1014": {
+      "survives_as": "N-1017",
+      "canonical_name": "Turning Point USA Missing Money",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1014."
+    },
+    "legacy-N-1015": {
+      "survives_as": "N-1018",
+      "canonical_name": "DuPont Family",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1015."
+    },
+    "legacy-N-1016": {
+      "survives_as": "N-1019",
+      "canonical_name": "Radford University",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1016."
+    },
+    "legacy-N-1017": {
+      "survives_as": "N-1020",
+      "canonical_name": "Paradise Valley, Arizona",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1017."
+    },
+    "legacy-N-1018": {
+      "survives_as": "N-1021",
+      "canonical_name": "Super Feed Technologies",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1018."
+    },
+    "legacy-N-1019": {
+      "survives_as": "N-1022",
+      "canonical_name": "Regis University",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1019."
+    },
+    "legacy-N-1020": {
+      "survives_as": "N-1023",
+      "canonical_name": "Turning Point Action",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1020."
+    },
+    "legacy-N-1021": {
+      "survives_as": "N-1024",
+      "canonical_name": "Notre Dame Prep",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1021."
+    },
+    "legacy-N-1022": {
+      "survives_as": "N-1025",
+      "canonical_name": "Erpenbeck Family Connection",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1022."
+    },
+    "legacy-N-1023": {
+      "survives_as": "N-1026",
+      "canonical_name": "Erika Dating History Discrepancy",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1023."
+    },
+    "legacy-N-1024": {
+      "survives_as": "N-1027",
+      "canonical_name": "St. Ursula Villa",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1024."
+    },
+    "legacy-N-1025": {
+      "survives_as": "N-1029",
+      "canonical_name": "Lombardi Lineage Claim",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1025."
+    },
+    "legacy-N-1026": {
+      "survives_as": "N-1028",
+      "canonical_name": "Universal Studios",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1026."
+    },
+    "legacy-N-1027": {
+      "survives_as": "N-1030",
+      "canonical_name": "Bible Study Timeline Inconsistency",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1027."
+    },
+    "legacy-N-1028": {
+      "survives_as": "N-1031",
+      "canonical_name": "Missing Years 2000-2002",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1028."
+    },
+    "legacy-N-1029": {
+      "survives_as": "N-1032",
+      "canonical_name": "Regis University Basketball Claim",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1029."
+    },
+    "legacy-N-1030": {
+      "survives_as": "N-1034",
+      "canonical_name": "Lori Frantzve Business Entities",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1030."
+    },
+    "legacy-N-1031": {
+      "survives_as": "N-1035",
+      "canonical_name": "E3 Tech Government Contracts",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1031."
+    },
+    "legacy-N-1032": {
+      "survives_as": "N-1036",
+      "canonical_name": "Everyday Heroes Like You Charity",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1032."
+    },
+    "legacy-N-1033": {
+      "survives_as": "N-1037",
+      "canonical_name": "Romania",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1033."
+    },
+    "legacy-N-1034": {
+      "survives_as": "N-1038",
+      "canonical_name": "Rick Erpenbeck License Revocation",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1034."
+    },
+    "legacy-N-1035": {
+      "survives_as": "N-1039",
+      "canonical_name": "Erika Kirk Missing Years 1999-2002",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1035."
+    },
+    "legacy-N-1036": {
+      "survives_as": "N-1040",
+      "canonical_name": "Operation Enduring Freedom",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1036."
+    },
+    "legacy-N-1037": {
+      "survives_as": "N-1041",
+      "canonical_name": "IMAT Laboratories",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1037."
+    },
+    "legacy-N-1038": {
+      "survives_as": "N-1042",
+      "canonical_name": "Arizona Board of Regents",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1038."
+    },
+    "legacy-N-1039": {
+      "survives_as": "N-1051",
+      "canonical_name": "How Erika Met Tyler Bowyer",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1039."
+    },
+    "legacy-N-1040": {
+      "survives_as": "N-1043",
+      "canonical_name": "Cocopah Middle School",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1040."
+    },
+    "legacy-N-1041": {
+      "survives_as": "N-1044",
+      "canonical_name": "Romanian Revolution 1989",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1041."
+    },
+    "legacy-N-1042": {
+      "survives_as": "N-1045",
+      "canonical_name": "Tech International",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1042."
+    },
+    "legacy-N-1043": {
+      "survives_as": "N-1046",
+      "canonical_name": "Black Sea Rotational Force",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1043."
+    },
+    "legacy-N-1044": {
+      "survives_as": "N-1047",
+      "canonical_name": "Nevada-Romania Connection",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1044."
+    },
+    "legacy-N-1045": {
+      "survives_as": "N-1048",
+      "canonical_name": "Reno Nevada",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1045."
+    },
+    "legacy-N-1046": {
+      "survives_as": "N-1049",
+      "canonical_name": "Constanta Romania",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1046."
+    },
+    "legacy-N-1047": {
+      "survives_as": "N-1050",
+      "canonical_name": "Arizona State University",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1047."
+    },
+    "legacy-N-1048": {
+      "survives_as": "N-1052",
+      "canonical_name": "Everyday Heroes Like You",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1048."
+    },
+    "legacy-N-1049": {
+      "survives_as": "N-1055",
+      "canonical_name": "Venice, California",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1049."
+    },
+    "legacy-N-1050": {
+      "survives_as": "N-1056",
+      "canonical_name": "Proclaim",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1050."
+    },
+    "legacy-N-1051": {
+      "survives_as": "N-1058",
+      "canonical_name": "Tesseract School / Notre Dame Prep",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1051."
+    },
+    "legacy-N-1052": {
+      "survives_as": "N-1059",
+      "canonical_name": "Diocese of Phoenix",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1052."
+    },
+    "legacy-N-1053": {
+      "survives_as": "N-1060",
+      "canonical_name": "G-Tech Industries LLC",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1053."
+    },
+    "legacy-N-1054": {
+      "survives_as": "N-1061",
+      "canonical_name": "Feed Me Incorporated / Superfeed Technologies",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1054."
+    },
+    "legacy-N-1055": {
+      "survives_as": "N-1062",
+      "canonical_name": "Erika's Financial Situation 2015-2018",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1055."
+    },
+    "legacy-N-1056": {
+      "survives_as": "N-1063",
+      "canonical_name": "Erika's Kanye Connection",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1056."
+    },
+    "legacy-N-1057": {
+      "survives_as": "N-1064",
+      "canonical_name": "Bible in 365 Claim",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1057."
+    },
+    "legacy-N-1058": {
+      "survives_as": "N-1065",
+      "canonical_name": "Maricopa County",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1058."
+    },
+    "legacy-N-1059": {
+      "survives_as": "N-1066",
+      "canonical_name": "New York City",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1059."
+    },
+    "legacy-N-1068": {
+      "survives_as": "N-1071",
+      "canonical_name": "Tracy Martin",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1068."
+    },
+    "legacy-N-1069": {
+      "survives_as": "N-1053",
+      "canonical_name": "Emerson Drive",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1069."
+    },
+    "legacy-N-1070": {
+      "survives_as": "N-1054",
+      "canonical_name": "Iranian War Community Notes Aside",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1070."
+    },
+    "legacy-N-1071": {
+      "survives_as": "N-1057",
+      "canonical_name": "Hollywood 2014 Network Speculation",
+      "reason": "Full N-1000+ intro-order dense renumber ep1\u2192ep8 (Topic/Org/Place + Person 1000+); was N-1071."
     }
   }
 }

@@ -12,7 +12,7 @@ Nodes ranked by `claim_count × episode_count` — higher = more cross-episode i
 | 3 | **Kent Frantzve** (N-4) | person | {1, 2, 4} | 5 | 4 | medium |
 | 4 | **Charlie Kirk** (N-1) | person | {1, 2, 4, 5, 6, 7} | 1 | 0 | low |
 | 5 | **Jack Solomon** (N-26) | person | {1, 4} | 2 | 1 | medium |
-| 6 | **Date of Birth Discrepancy** (N-1000) | investigation_target | {1, 2, 4} | 1 | 3 | high |
+| 6 | **Date of Birth Discrepancy** (N-1009) | investigation_target | {1, 2, 4} | 1 | 3 | high |
 | 7 | **Elizabeth Lane** (N-6) | person | {1, 2} | 1 | 1 | low |
 | 8 | **Candace Owens** (N-7) | person | {2, 3, 6, 7} | 0 | 0 | low |
 | 9 | **Dr. Jerry Frantzve** (N-13) | person | {2, 4, 5} | 0 | 0 | low |
@@ -24,8 +24,8 @@ Nodes ranked by `claim_count × episode_count` — higher = more cross-episode i
 
 ### High-Pressure Single-Episode Nodes
 
-- **Marriage Date Discrepancy** (N-1007) — 3 claims, pressure: high
-- **Morfar-Farfar Terminology Issue** (N-1009) — 1 claims, pressure: high
+- **Marriage Date Discrepancy** (N-1010) — 3 claims, pressure: high
+- **Morfar-Farfar Terminology Issue** (N-1012) — 1 claims, pressure: high
 
 ## 2. Rhetorical Fingerprints
 
@@ -55,10 +55,10 @@ Cross-episode pressure for nodes with multi-episode presence or high pressure.
 
 | Node | Type | Max Pressure | Pressure by Episode |
 |------|------|--------------|----------------------|
-| **Date of Birth Discrepancy** (N-1000) | investigation_target | HIGH | Ep1=H, Ep2=L, Ep4=L |
+| **Date of Birth Discrepancy** (N-1009) | investigation_target | HIGH | Ep1=H, Ep2=L, Ep4=L |
 | **Erika Kirk** (N-2) | person | HIGH | Ep1=H, Ep2=L, Ep3=L, Ep4=L, Ep5=L, Ep6=L, Ep7=L |
-| **Marriage Date Discrepancy** (N-1007) | investigation_target | HIGH | Ep1=H |
-| **Morfar-Farfar Terminology Issue** (N-1009) | investigation_target | HIGH | Ep1=H |
+| **Marriage Date Discrepancy** (N-1010) | investigation_target | HIGH | Ep1=H |
+| **Morfar-Farfar Terminology Issue** (N-1012) | investigation_target | HIGH | Ep1=H |
 | **Jack Solomon** (N-26) | person | MEDIUM | Ep1=M, Ep4=L |
 | **Kent Frantzve** (N-4) | person | MEDIUM | Ep1=M, Ep2=L, Ep4=L |
 | **Lori Frantzve** (N-3) | person | MEDIUM | Ep1=M, Ep2=L, Ep3=L, Ep5=L, Ep6=L |

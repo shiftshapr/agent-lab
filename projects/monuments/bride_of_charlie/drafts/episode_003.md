@@ -12,8 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1016-A-1022
   - Claim Range: C-1021-C-1031
-  - New Nodes Introduced: N-18, N-19, N-20, N-21, N-22, N-23, N-24, N-25, N-1018, N-1019, N-1020, N-1021, N-1022, N-1023
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-14, N-1002
+  - New Nodes Introduced: N-18, N-19, N-20, N-21, N-22, N-23, N-24, N-25, N-1021, N-1022, N-1023, N-1024, N-1025, N-1026
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-14, N-1001
 
 ## 2. Executive Summary
 
@@ -27,7 +27,7 @@ Episode 3 focuses on Lori Frantzve's background and her connection to the Erpenb
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 00:04:07–00:04:26
-*Related: C-1021, C-1023, N-3, N-18, N-1022*
+*Related: C-1021, C-1023, N-3, N-18, N-1025*
 Transcript Snippet: is Richard Erpenbeck. I'll show you that...here. Now, what I am blurring out on...this document is it had his address,...which allowed me to definitively confirm...which Rick Erpenbeck we were speaking...about, who is the one that actually was...the witness. Erpenbeck, by the way,...anybody that's gone through following
 Confidence: high
 
@@ -82,7 +82,7 @@ Confidence: high
 **A-1019.2** Regis University basketball records
 Event Timestamp: 2007-2008
 Video Timestamp: 00:37:45–00:39:32
-*Related: C-1028, N-2, N-1019*
+*Related: C-1028, N-2, N-1022*
 Transcript Snippet: she does that. Regis University begins...in the fall. I could find two newspaper...entries of her uh, scoring um, November...24th game and against South Dakota. And...then another entry on December 1st. And...yeah, she seemingly, if I was just...following the paper trail, I would say...she had abandoned her scholarship. And I
 Confidence: high
 
@@ -124,7 +124,7 @@ Confidence: high
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 00:00:30–00:01:05
-*Related: C-1021, N-3, N-1018, N-14, N-1020*
+*Related: C-1021, N-3, N-1021, N-14, N-1023*
 Transcript Snippet: Not important for today. Lori Frantzve,...despite being ill, has recently been put...on the board of Super Feed Technologies...alongside Turning Point Actions COO...Tyler Bowyer. Shady dude. They're...effectively then business partners. They...have been for a while. Actually, Lori...was at first a director over at
 Confidence: high
 
@@ -132,7 +132,7 @@ Confidence: high
 Event Timestamp: Undated in episode source
 Event Timestamp Note: headline shown on-screen; filing month referenced in transcript without full calendar date.
 Video Timestamp: 00:21:15–00:21:42
-*Related: C-1021, N-3, N-14, N-1020*
+*Related: C-1021, N-3, N-14, N-1023*
 Transcript Snippet: Claims of bribery. I think I had it the...headline in Yahoo News. Kari Lakes...bribery scandal involves a shady GOP...tech firm. Yeah, they're referring to...Super Feed Technologies had its business...revoked by the state of Arizona while it...employed Jeff Dwit, its former COO, and...Lake, who had received more than
 Confidence: high
 
@@ -231,7 +231,7 @@ Subject of investigation, daughter of Lori, widow of Charlie Kirk
 
 ---
 
-**N-1018** Super Feed Technologies
+**N-1021** Super Feed Technologies
 
 Node Type: Organization
 Organization Kind: company
@@ -241,7 +241,7 @@ Tech company with Lori on board, associated with Turning Point Action scandal
 
 ---
 
-**N-1019** Regis University
+**N-1022** Regis University
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -269,7 +269,7 @@ Erika's father, Lori's ex-husband
 
 ---
 
-**N-1020** Turning Point Action
+**N-1023** Turning Point Action
 
 Node Type: Organization
 Organization Kind: political_organization
@@ -297,7 +297,7 @@ Founder of Hillsong Church, covered up father's pedophilia
 
 ---
 
-**N-1021** Notre Dame Prep
+**N-1024** Notre Dame Prep
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -307,7 +307,7 @@ Arizona high school formerly Tesseract School
 
 ---
 
-**N-1002** Tesseract School
+**N-1001** Tesseract School
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -317,7 +317,7 @@ School in North Scottsdale that closed due to financial scandal
 
 ---
 
-**N-1022** Erpenbeck Family Connection
+**N-1025** Erpenbeck Family Connection
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -327,7 +327,7 @@ Investigation into Lori's association with Erpenbeck family and their criminal h
 
 ---
 
-**N-1023** Erika Dating History Discrepancy
+**N-1026** Erika Dating History Discrepancy
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -348,7 +348,7 @@ Claim Timestamp: 00:00:30
 Claim: Lori Frantzve was recently put on the board of Super Feed Technologies alongside Turning Point Action COO Tyler Bowyer.
 Transcript Snippet: Now, as a part of the public...psychological campaign, Erika has been...curating videos to remind us that her...mother is very ill. I don't dispute...that. I do dispute that Erika was with...her on September 10th receiving a...treatment, but we'll get to that later....Not important for today. Lori Frantzve,
 Anchored Artifacts: A-1022.1, A-1022.2
-Related Nodes: N-3, N-1018, N-14, N-1020
+Related Nodes: N-3, N-1021, N-14, N-1023
 Confidence: high
 Investigative Direction: Verify corporate filings and board meeting minutes.
 
@@ -376,7 +376,7 @@ Claim Timestamp: 00:04:07
 Claim: Richard Erpenbeck was listed as the witness on Lori and Kent's divorce documents.
 Transcript Snippet: documents. There was another person...mentioned uh someone who is listed as...the witness to these shenanigans. That's...that's how I am going to hitherto refer...to the divorce documents, the...shenanigans. And that witness, his name...is Richard Erpenbeck. I'll show you that...here. Now, what I am blurring out on
 Anchored Artifacts: A-1016.1
-Related Nodes: N-3, N-18, N-4, N-1022
+Related Nodes: N-3, N-18, N-4, N-1025
 Confidence: high
 Investigative Direction: Obtain certified copies of divorce documents.
 
@@ -390,7 +390,7 @@ Claim Timestamp: 00:04:26
 Claim: Richard Erpenbeck has been a longtime business associate of Lori, appearing as secretary, incorporator, and notary across her multiple LLCs over 25 years.
 Transcript Snippet: this document is it had his address,...which allowed me to definitively confirm...which Rick Erpenbeck we were speaking...about, who is the one that actually was...the witness. Erpenbeck, by the way,...anybody that's gone through following...any of the um people on X that have been...deep diving alongside me, you will know
 Anchored Artifacts: A-1016.1, A-1018.1
-Related Nodes: N-3, N-18, N-1022
+Related Nodes: N-3, N-18, N-1025
 Confidence: high
 Investigative Direction: Obtain business filings to verify Erpenbeck's roles in Lori's companies.
 
@@ -404,7 +404,7 @@ Claim Timestamp: 00:05:43
 Claim: Lori has filed multiple LLCs (Euroch, Euroch International UK, Techmetrics International, Virtual Registration) featuring Richard or Donna Erpenbeck as secretary, incorporator, or notary over 25 years.
 Transcript Snippet: putting together tech companies as many...people do. I am waiting for that late...stage technological brilliance to fall...upon me cuz I can barely uh sort through...my apps. I don't even know how to get to...the app store in a fast enough time. Let...me take you through the litany of LLC's...that she has filed. This is Lori, which
 Anchored Artifacts: A-1018.1
-Related Nodes: N-3, N-18, N-23, N-1022
+Related Nodes: N-3, N-18, N-23, N-1025
 Confidence: high
 Investigative Direction: Obtain complete LLC filing history from state records.
 
@@ -418,7 +418,7 @@ Claim Timestamp: 00:09:35
 Claim: The Erpenbeck family operated a massive home-building fraud scheme in Ohio/Kentucky around 2002-2003, defrauding banks of $34 million and leaving hundreds of homeowners with unpaid mortgages.
 Transcript Snippet: home ownership. You know, pay us...directly, we'll handle the rest, kind of...a deal. Young people buying homes for...the first time, but the homes, it turns...out, were not being built, and their...mortgages, it turned out, uh were not...being paid either. Take a listen to this...news clip. Erpenbeck served 21 years after
 Anchored Artifacts: A-1017.1, A-1017.2, A-1017.3
-Related Nodes: N-19, N-20, N-21, N-22, N-23, N-1022
+Related Nodes: N-19, N-20, N-21, N-22, N-23, N-1025
 Confidence: high
 Investigative Direction: Review court records from the Eastern District of Kentucky and Southern District of Ohio.
 
@@ -432,7 +432,7 @@ Claim Timestamp: 00:33:43
 Claim: Erika participated in beauty pageants every year from 2005 through 2012, totaling seven years.
 Transcript Snippet: >> Okay. So it wasn't about narcissism. She...wasn't groomed. By the way, if you have...to say that you weren't groomed for...something, you probably were. You just...have to just kind of say that it's...probably because you were. And the...reality is that every single year from...2005 through to 2012, Erika was involved
 Anchored Artifacts: A-1019.1
-Related Nodes: N-2, N-1021
+Related Nodes: N-2, N-1024
 Confidence: high
 Investigative Direction: Obtain pageant competition records from state and national organizations.
 
@@ -446,7 +446,7 @@ Claim Timestamp: 00:38:59
 Claim: Erika appears to have gone missing from public records in 2008, and Regis University only shows her basketball records for the 2007-2008 season despite her claims of playing for two years.
 Transcript Snippet: Oh, I'm sorry. That's they had already...filed that. It gets canceled by the tax...department. That's right. the there's so...many LLC's and so many cancellations....This one gets canceled....2008 is where it gets pretty interesting...because I was trying to find Erika's...very present and suddenly in 2008 I
 Anchored Artifacts: A-1019.2, A-1020.1
-Related Nodes: N-2, N-1019
+Related Nodes: N-2, N-1022
 Confidence: high
 Investigative Direction: Request transcript records and enrollment verification from Regis University.
 
@@ -487,7 +487,7 @@ Claim Timestamp: 00:58:39
 Claim: Evidence shows Erika had multiple boyfriends during the 2013-2018 period, including ringing in 2018 with a boyfriend, contradicting her claim of not dating for 5 years before Charlie.
 Transcript Snippet: feels right to me. Her whole demeanor...there is just crazy. What What's the...purpose of that lie?...And of course, you guys, I hate to tell...you this, but the reality is is that...from 2013, 2018, the five years...preceding her relationship with Charlie,...Charlie, Erika had multiple boyfriends.
 Anchored Artifacts: A-1021.1, A-1020.2
-Related Nodes: N-2, N-1, N-1023
+Related Nodes: N-2, N-1, N-1026
 Confidence: high
 Investigative Direction: Compile social media evidence and witness accounts of relationships.
 

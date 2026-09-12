@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1041-A-1052, A-1053, A-1054
   - Claim Range: C-1069-C-1083, C-1084, C-1085, C-1086
-  - New Nodes Introduced: N-36, N-37, N-38, N-39, N-40, N-1038, N-41, N-42, N-1039, N-1040, N-1041, N-1042, N-1043, N-1044, N-1045, N-1046, N-1047, N-1048, N-1067, N-1068, N-1069, N-1070
+  - New Nodes Introduced: N-36, N-37, N-38, N-39, N-40, N-1042, N-41, N-42, N-1051, N-1043, N-1044, N-1045, N-1046, N-1047, N-1048, N-1049, N-1050, N-1052, N-1070, N-1071, N-1053, N-1054
   - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14
 
 ## 2. Executive Summary
@@ -26,7 +26,7 @@ Episode 6 focuses on the timeline of 2010-2012, connecting Tyler Bowyer's deploy
 **A-1041.1** Cocopah Middle School email confirmation and tweet
 Event Timestamp: 2000-2003
 Video Timestamp: 00:01:14-00:01:51
-*Related: C-1069, N-2, N-1040*
+*Related: C-1069, N-2, N-1043*
 Transcript Snippet: First and foremost, a quick update for...you guys. Right at the top, we were able...to determine which middle school Erika...went to. Uh, it's called Cocopah Middle...School. I think that's how you say it....We did receive an email tip from someone...who informed us that Erika attended...Cocopah Middle School. Uh, we have not
 Confidence: high
 
@@ -37,7 +37,7 @@ Confidence: high
 **A-1042.1** Historical footage of Ceaușescu trial and execution
 Event Timestamp: December 25, 1989
 Video Timestamp: 00:03:44-00:05:59
-*Related: C-1070, N-1041*
+*Related: C-1070, N-1044*
 Transcript Snippet: >> The trial is brief and largely for show....It lasts about 2 hours and takes place...without any real possibility for defense...or appeal. Chiaoescu himself refuses to...recognize the court and calls it...illegal....But it doesn't matter. The tribunal...finds both him and Elena guilty.
 Confidence: high
 
@@ -48,7 +48,7 @@ Confidence: high
 **A-1043.1** Lori Frantzve bio from Everyday Heroes website
 Event Timestamp: circa 2010
 Video Timestamp: 00:10:31-00:11:59
-*Related: C-1071, N-3, N-1042, N-1048*
+*Related: C-1071, N-3, N-1045, N-1052*
 Transcript Snippet: read that second paragraph. It says that...Lori for the past 12 years of her career...has been focused in the pioneering...research and development on disruptive...cyber technologies for applications...in relationship to the way humans think...and the importance of assessing what...happens if type technologies truly
 Confidence: high
 
@@ -59,7 +59,7 @@ Confidence: high
 **A-1044.1** Article about Black Sea Rotational Force training in Eastern Europe
 Event Timestamp: 2011
 Video Timestamp: 00:12:45-00:13:28
-*Related: C-1072, C-1073, N-14, N-1043*
+*Related: C-1072, C-1073, N-14, N-1046*
 Transcript Snippet: their thing in Constanta. And I just want...to stress how interesting it is to me...that the majority of the men are coming...from Reno, Nevada, the capital of casino...and gambling. Laws are loosening up in...Romania or actually rather monopolizing...I should say in Romania. And here is an...article which mentions that the chosen
 Confidence: high
 
@@ -70,7 +70,7 @@ Confidence: high
 **A-1045.1** Article about Nevada students teaching in Romania
 Event Timestamp: May 4, 2011
 Video Timestamp: 00:13:45-00:14:28
-*Related: C-1073, N-1043, N-1044*
+*Related: C-1073, N-1046, N-1047*
 Transcript Snippet: arrive and they're also from Reno,...Nevada. Check out this article. I can't...even make this up. It says this year, it...says Romania students will give lessons...at schools and help teachers. You can...note that date in the corner, May 4th,...2011. And this year's cohort of students...includes two Nevada graduates, um, Alex
 Confidence: high
 
@@ -81,7 +81,7 @@ Confidence: high
 **A-1046.1** Article about Tyler Bowyer elected to Arizona Board of Regents
 Event Timestamp: April 2011
 Video Timestamp: 00:15:15-00:15:51
-*Related: C-1074, C-1075, N-14, N-1, N-1038*
+*Related: C-1074, C-1075, N-14, N-1, N-1042*
 Transcript Snippet: April of 2011, at the end of his spring...semester, he is elected by the Arizona...Senate to serve as a student...representative to the Arizona Board of...Regents. It says that the state senate...has confirmed ASU undergraduate Tyler...Storm Bowyer as the new student regent for...the Arizona Board of Regents. It begins
 Confidence: high
 
@@ -135,7 +135,7 @@ Confidence: high
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 00:32:59–00:33:36
-*Related: C-1081, N-2, N-14, N-1039*
+*Related: C-1081, N-2, N-14, N-1051*
 Transcript Snippet: Erika pretending she does not remember...how she met Tyler Bowyer and both of them...changing their stories. Tyler Bowyer...responded to somebody on X and said he...met her. He met Erika um at the Trump...rally, but he maybe forgot. Maybe he had...another long night in Romania, but he...maybe forgot. But he had already given a
 Confidence: medium
 
@@ -158,7 +158,7 @@ Confidence: high
 **A-1052.1** Maj. Gen. Hugo E. Salazar 1994 JTF narcotics exhibit on-screen
 Event Timestamp: 1994
 Video Timestamp: 00:31:23–00:31:32
-*Related: C-1084, N-1048, N-1067*
+*Related: C-1084, N-1052, N-1070*
 Transcript Snippet: worked in narcotics. Look at this. This...is in 1994 by the way. He's working...here. Um joint task force narcotics....It's giving Mitch Snow telling us about...Fort Wuka and how generals were working...with the cartels in 1990 got busted.
 Confidence: high
 
@@ -169,7 +169,7 @@ Confidence: high
 **A-1053.1** June 2012 Tracy Martin handbag partnership with Everyday Heroes (narration)
 Event Timestamp: June 7, 2012
 Video Timestamp: 00:28:03–00:28:30
-*Related: C-1085, N-2, N-1048, N-1068*
+*Related: C-1085, N-2, N-1052, N-1071*
 Transcript Snippet: June 7th of...2012, Erika is going to team up with...that Tracy Martin. Tracy says they met...backstage and they just decided to go...into uh do some good together. There uh...Tracy's making handbags. She's what we...refer to as a serial entrepreneur, life...coach, does a little bit of everything....Every bag you buy, Everyday Heroes and...the kids are going to get $25.
 Confidence: medium
 
@@ -241,7 +241,7 @@ Deceased founder of Turning Point USA
 
 ---
 
-**N-1038** Arizona Board of Regents
+**N-1042** Arizona Board of Regents
 
 Node Type: Organization
 Governing body of Arizona's public university system
@@ -306,7 +306,7 @@ Turning Point affiliate with proximity to multiple shootings
 
 ---
 
-**N-1040** Cocopah Middle School
+**N-1043** Cocopah Middle School
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -316,7 +316,7 @@ Middle school in Scottsdale that Erika attended 2000-2003
 
 ---
 
-**N-1041** Romanian Revolution 1989
+**N-1044** Romanian Revolution 1989
 
 Node Type: Organization
 Organization Kind: other
@@ -326,7 +326,7 @@ Historical context of Ceaușescu execution on Christmas Day 1989
 
 ---
 
-**N-1042** Tech International
+**N-1045** Tech International
 
 Node Type: Organization
 Organization Kind: company
@@ -336,7 +336,7 @@ Company run by Lori Frantzve with defense contracts
 
 ---
 
-**N-1043** Black Sea Rotational Force
+**N-1046** Black Sea Rotational Force
 
 Node Type: Organization
 Organization Kind: military_unit
@@ -346,7 +346,7 @@ Marine unit deployed to Eastern Europe, majority from Reno Nevada
 
 ---
 
-**N-1044** Nevada-Romania Connection
+**N-1047** Nevada-Romania Connection
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -356,7 +356,7 @@ Pattern of Nevada-based individuals appearing in Romania timeline
 
 ---
 
-**N-1045** Reno Nevada
+**N-1048** Reno Nevada
 
 Node Type: Place
 Place Kind: city
@@ -366,7 +366,7 @@ City in Nevada - source of many military personnel and students in timeline
 
 ---
 
-**N-1046** Constanta Romania
+**N-1049** Constanta Romania
 
 Node Type: Place
 Place Kind: city
@@ -376,7 +376,7 @@ City in Romania where Black Sea Rotational Force was stationed
 
 ---
 
-**N-1047** Arizona State University
+**N-1050** Arizona State University
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -386,7 +386,7 @@ University where Tyler Bowyer and Erika Kirk attended
 
 ---
 
-**N-1039** How Erika Met Tyler Bowyer
+**N-1051** How Erika Met Tyler Bowyer
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -396,7 +396,7 @@ Investigation into how Erika and Tyler actually met - conflicting stories
 
 ---
 
-**N-1048** Everyday Heroes Like You
+**N-1052** Everyday Heroes Like You
 
 Node Type: Organization
 Organization Kind: nonprofit
@@ -406,25 +406,25 @@ Erika's humanitarian organization
 
 ---
 
-**N-1067** Hugo E. Salazar
+**N-1070** Hugo E. Salazar
 
 Node Type: Person
 Major General thanked in Everyday Heroes context; 1994 joint task force narcotics exhibit shown on-screen
 
-*Related: A-1052.1, C-1084, N-1048*
+*Related: A-1052.1, C-1084, N-1052*
 
 ---
 
-**N-1068** Tracy Martin
+**N-1071** Tracy Martin
 
 Node Type: Person
 Serial entrepreneur and life coach; 2012 handbag partnership with Everyday Heroes Like You
 
-*Related: A-1053.1, C-1085, N-1048*
+*Related: A-1053.1, C-1085, N-1052*
 
 ---
 
-**N-1069** Emerson Drive
+**N-1053** Emerson Drive
 
 Node Type: Organization
 Organization Kind: other
@@ -434,7 +434,7 @@ Country music band; Erika featured in July 2012 She's My Kind of Crazy music vid
 
 ---
 
-**N-1070** Iranian War Community Notes Aside
+**N-1054** Iranian War Community Notes Aside
 
 Node Type: Topic
 Topic Kind: other
@@ -455,7 +455,7 @@ Claim Timestamp: 00:01:14
 Claim: Erika attended Cocopah Middle School in Scottsdale from 2000 to 2003.
 Transcript Snippet: Charlie....We have nothing to hide....First and foremost, a quick update for...you guys. Right at the top, we were able...to determine which middle school Erika...went to. Uh, it's called Cocopah Middle...School. I think that's how you say it....We did receive an email tip from someone
 Anchored Artifacts: A-1041.1
-Related Nodes: N-2, N-1040
+Related Nodes: N-2, N-1043
 Confidence: high
 Investigative Direction: Obtain yearbook records to confirm school years.
 
@@ -469,7 +469,7 @@ Claim Timestamp: 00:03:30
 Claim: The episode presents historical context about the 1989 Romanian revolution and Ceaușescu execution.
 Transcript Snippet: like, you're already guilty. We're just...going to shoot you and kill you. So,...this was supposed to be the end of...communism. So, commun the communist...leaders had to go as well. And Nikolai...and Elena were quite literally lined up...and shot. And it was all filmed. And I'm...not going to show you that shooting
 Anchored Artifacts: A-1042.1
-Related Nodes: N-1041
+Related Nodes: N-1044
 Confidence: high
 Investigative Direction: Historical facts are presented for context; verification not required.
 
@@ -483,7 +483,7 @@ Claim Timestamp: 00:10:31
 Claim: Lori Frantzve's company Tech International works on cyber technologies for defense and infrastructure.
 Transcript Snippet: Lori. It's up. It was up on the Everyday...Heroes website. She had a bio that has...since been pulled down, but they go into...detail regarding what Aztec does. And I...want you to follow along with me. We'll...read this together. Okay. I'm going to...read that second paragraph. It says that...Lori for the past 12 years of her career
 Anchored Artifacts: A-1043.1
-Related Nodes: N-3, N-1042, N-1048
+Related Nodes: N-3, N-1045, N-1052
 Confidence: high
 Investigative Direction: Verify corporate records and defense contracts.
 
@@ -497,7 +497,7 @@ Claim Timestamp: 00:12:45
 Claim: The Black Sea Rotational Force 11 trained military forces in Romania with majority of Marines from Reno, Nevada.
 Transcript Snippet: to interview her or Erika to deeply...understand it. I just want to get real...cerebral with them, you know, explain it...to me like I'm two....Let's now pick up in 2011. Okay, so the...Black Sea rotation of force is doing...their thing in Constanta. And I just want...to stress how interesting it is to me
 Anchored Artifacts: A-1044.1
-Related Nodes: N-14, N-1043, N-1045, N-1046
+Related Nodes: N-14, N-1046, N-1048, N-1049
 Confidence: high
 Investigative Direction: Verify military deployment records.
 
@@ -511,7 +511,7 @@ Claim Timestamp: 00:13:45
 Claim: In May 2011, Nevada students including Alex Redai and Julie Chris traveled to Romania to teach at schools.
 Transcript Snippet: counterinsurgency techniques. We get it....We're just missing one piece of the...puzzle. What about the researchers? What...about the Dr. Frantzve type students?...Well, there always has to be a group of...student researchers at the same time....And you won't believe it, but some...arrive and they're also from Reno,
 Anchored Artifacts: A-1045.1
-Related Nodes: N-1044, N-1045
+Related Nodes: N-1047, N-1048
 Confidence: high
 Investigative Direction: Verify student exchange records.
 
@@ -525,7 +525,7 @@ Claim Timestamp: 00:15:15
 Claim: Tyler Bowyer was elected by the Arizona Senate to serve as student representative to the Arizona Board of Regents in April 2011.
 Transcript Snippet: Tyler Bowyer's back. He's fresh...back from his trip to Romania. The...models, the girls, the bottles, he's...popping them. And uh he is still a...student, I should mention, at Arizona...State University. And Tyler Bowyer then...immediately falls into some luck. In...April of 2011, at the end of his spring
 Anchored Artifacts: A-1046.1
-Related Nodes: N-14, N-1038, N-1047
+Related Nodes: N-14, N-1042, N-1050
 Confidence: high
 Investigative Direction: Verify Arizona Senate records.
 
@@ -539,7 +539,7 @@ Claim Timestamp: 00:15:54
 Claim: Erika Kirk enrolled at Arizona State University for her final year shortly after Tyler Bowyer was elected to the Board of Regents.
 Transcript Snippet: that's interesting. Now, in case you're...wondering what what they do, what that...the border regions does, it's the...governing body of Arizona's public...university system. They're in charge of...policies....Okay....Lo and behold, after he's put into place
 Anchored Artifacts: A-1046.1
-Related Nodes: N-2, N-14, N-1, N-1047
+Related Nodes: N-2, N-14, N-1, N-1050
 Confidence: medium
 Investigative Direction: Obtain enrollment records and compare timelines.
 
@@ -553,7 +553,7 @@ Claim Timestamp: 00:18:49
 Claim: Curtis Kolvet commanded the 593rd Nevada National Guard Transportation Company in Afghanistan, overseeing Bulgarian soldiers.
 Transcript Snippet: how exactly they were able to get enough...of those poppy seeds to cause an entire...opioid crisis. How did they do it,...right? Like, who was in control of...transporting all of those flowers during...a time of war? We'll never know. What we...do know, however, is that it was Captain...Curtis Kolvet who was stationed in
 Anchored Artifacts: A-1047.1
-Related Nodes: N-37, N-39, N-1044
+Related Nodes: N-37, N-39, N-1047
 Confidence: high
 Investigative Direction: Verify military service records.
 
@@ -567,7 +567,7 @@ Claim Timestamp: 00:19:49
 Claim: Robert Kolvet, cousin of Curtis Kolvet, simultaneously commanded the 485th Military Police Company in Afghanistan.
 Transcript Snippet: transporting personnel and supplies...through the highra dangerous environment...of Kabell. He was the regional command...captain. Wow, it's amazing....And uh just like the Facebook caption is...going to say, he wasn't the only Kolvet...that was there. He was also serving with...his first cousin, Robert Kolvet.
 Anchored Artifacts: A-1047.1
-Related Nodes: N-38, N-39, N-1044
+Related Nodes: N-38, N-39, N-1047
 Confidence: high
 Investigative Direction: Verify military service records.
 
@@ -581,7 +581,7 @@ Claim Timestamp: 00:20:32
 Claim: In a 2020 podcast, Erika confirmed Romania was used as a halfway drop-off point for troops from Afghanistan.
 Transcript Snippet: they were commanding Bulgarians,...Romanians, well, because everything from...Afghanistan was running through Romania...and Bulgaria, emphasis on Romania. I...know this because Erika actually did a...podcast in 2020 and she was reflecting...on her time in Romania in 2012 or 2013....And in this podcast, in this podcast,
 Anchored Artifacts: A-1048.1
-Related Nodes: N-2, N-1046
+Related Nodes: N-2, N-1049
 Confidence: high
 Investigative Direction: Verify podcast content and military logistics records.
 
@@ -623,7 +623,7 @@ Claim Timestamp: 00:32:59
 Claim: Erika claims she cannot remember how she met Tyler Bowyer, while Tyler has given conflicting accounts.
 Transcript Snippet: Erika pretending she does not remember...how she met Tyler Bowyer and both of them...changing their stories. Tyler Bowyer...responded to somebody on X and said he...met her. He met Erika um at the Trump...rally, but he maybe forgot. Maybe he had...another long night in Romania, but he...maybe forgot. But he had already given a
 Anchored Artifacts: A-1049.2
-Related Nodes: N-2, N-14, N-1039
+Related Nodes: N-2, N-14, N-1051
 Confidence: medium
 Investigative Direction: Obtain direct testimony from both parties.
 
@@ -663,7 +663,7 @@ Claim Timestamp: 00:31:23
 Claim: The episode presents that Major General Hugo E. Salazar, thanked on Erika's Everyday Heroes website, formerly worked in Arizona narcotics enforcement with a joint task force in 1994 as shown on-screen.
 Transcript Snippet: E. Salazar. Uh he was formerly...worked in narcotics. Look at this. This...is in 1994 by the way. He's working...here. Um joint task force narcotics.
 Anchored Artifacts: A-1052.1
-Related Nodes: N-1067, N-1048, N-2
+Related Nodes: N-1070, N-1052, N-2
 Confidence: high
 Investigative Direction: Obtain military service records to verify Salazar's 1994 narcotics assignment.
 
@@ -675,7 +675,7 @@ Claim Timestamp: 00:28:03
 Claim: The episode presents that on June 7, 2012 Erika teamed with Tracy Martin on a handbag partnership donating $25 per bag to Everyday Heroes Like You.
 Transcript Snippet: June 7th of...2012, Erika is going to team up with...that Tracy Martin. Tracy says they met...backstage and they just decided to go...into uh do some good together....Every bag you buy, Everyday Heroes and...the kids are going to get $25.
 Anchored Artifacts: A-1053.1
-Related Nodes: N-2, N-1068, N-1048
+Related Nodes: N-2, N-1071, N-1052
 Confidence: medium
 Investigative Direction: Verify handbag partnership announcements and Everyday Heroes fundraising records for June 2012.
 
@@ -687,7 +687,7 @@ Claim Timestamp: 00:28:34
 Claim: The episode presents that in July 2012 Erika was featured in Emerson Drive's She's My Kind of Crazy music video alongside boyfriend Tyler Sanford.
 Transcript Snippet: July, we find Erika featured in a music...video uh for Emerson Drive that went...pretty viral. That's She's My Kind of...Crazy....her boyfriend Tyler Sanford is...alongside with her. Um he's also cast in...that music video.
 Anchored Artifacts: A-1054.1
-Related Nodes: N-2, N-1069
+Related Nodes: N-2, N-1053
 Confidence: medium
 Investigative Direction: Obtain the music video and credits to confirm Erika's appearance and date.
 

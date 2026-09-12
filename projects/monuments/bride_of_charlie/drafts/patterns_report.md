@@ -30,15 +30,15 @@ Most connected entities:
 - **Erika Kirk** (N-2, Person): 22 connections
 - **Lori Frantzve** (N-3, Person): 9 connections
 - **Kent Frantzve** (N-4, Person): 9 connections
-- **Family Gambling History** (N-1010, InvestigationTarget): 8 connections
-- **Marriage Date Discrepancy** (N-1007, InvestigationTarget): 6 connections
+- **Family Gambling History** (N-1013, InvestigationTarget): 8 connections
+- **Marriage Date Discrepancy** (N-1010, InvestigationTarget): 6 connections
 - **Carl Kenneth Frantzve** (N-5, Person): 5 connections
 - **Loretta Lynn Abbis** (N-10, Person): 4 connections
 - **Jack Solomon** (N-26, Person): 4 connections
-- **Date of Birth Discrepancy** (N-1000, InvestigationTarget): 4 connections
+- **Date of Birth Discrepancy** (N-1009, InvestigationTarget): 4 connections
 - **Mason Abbis** (N-9, Person): 3 connections
 - **Elizabeth Lane** (N-6, Person): 3 connections
-- **Morfar-Farfar Terminology Issue** (N-1009, InvestigationTarget): 3 connections
+- **Morfar-Farfar Terminology Issue** (N-1012, InvestigationTarget): 3 connections
 ---
 
 # Potential Contradictions

@@ -12,8 +12,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1067-A-1075, A-1076
   - Claim Range: C-1100-C-1113, C-1114
-  - New Nodes Introduced: N-46, N-47, N-48, N-49, N-50, N-51, N-52, N-53, N-1051, N-1052, N-1053, N-1054, N-1055, N-1056, N-1057, N-1058, N-1059
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14, N-39, N-44, N-11, N-1001
+  - New Nodes Introduced: N-46, N-47, N-48, N-49, N-50, N-51, N-52, N-53, N-1058, N-1059, N-1060, N-1061, N-1062, N-1063, N-1064, N-1065, N-1066
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14, N-39, N-44, N-11, N-1000
 
 ## 2. Executive Summary
 
@@ -27,14 +27,14 @@ Episode 8 continues the investigation into Erika Kirk, presenting evidence about
 Event Timestamp: 2001
 Video Timestamp: 00:02:09-00:02:25
 Transcript Snippet: inexplicably vanished. Just evaporated...into thin air. The school went bankrupt...and that's where Erika went for...elementary school. So, it's like...literally Ohio and then she goes to...Arizona and it's got these financial...things kind of just surrounding them and...then we happened upon some interesting
-*Related: C-1101, N-2, N-1051*
+*Related: C-1101, N-2, N-1058*
 Confidence: high
 
 **A-1067.2** Diocese of Phoenix purchase of Tesseract campus
 Event Timestamp: 2001
 Video Timestamp: 00:03:17-00:03:30
 Transcript Snippet: Tesseract that after they filed for...bankruptcy in 2001,...they put their old campus up for sale...and it was purchased by the Diocese of...Phoenix. When they then turned it into...Notre Dame Prep, where Erika then...enrolls for high school. Now, this...decision and the process was overseen by
-*Related: C-1101, N-47, N-1051*
+*Related: C-1101, N-47, N-1058*
 Confidence: high
 
 ---
@@ -45,14 +45,14 @@ Confidence: high
 Event Timestamp: 2003
 Video Timestamp: 00:04:28-00:04:58
 Transcript Snippet: I was just like, "This how could this be...possible?" I'm just doing a little bit...of research. How is everybody just going...to be involved in scandals? We're...running what he did. He killed somebody....Accidentally, he says. He was arrested...for a hit-and-run in 2003 that killed...Jim Lee Reed, but by a hit-and-run I
-*Related: C-1102, C-1103, N-47, N-1052*
+*Related: C-1102, C-1103, N-47, N-1059*
 Confidence: high
 
 **A-1068.2** Maricopa County grand jury investigation records (2002)
 Event Timestamp: 2002
 Video Timestamp: 00:05:29-00:05:56
 Transcript Snippet: then in 2002, this is Maricopa County,...you guys. I just I'm going to just...assume everything that happened in...Maricopa County is is problematic at...this point. But in 2002, uh, prosecutors...initiated a grand jury investigation...into charges of sexual abuse uh, by...Catholic priests, uh, priests in
-*Related: C-1103, N-47, N-1052*
+*Related: C-1103, N-47, N-1059*
 Confidence: high
 
 ---
@@ -63,21 +63,21 @@ Confidence: high
 Event Timestamp: 2015-11
 Video Timestamp: 00:08:41-00:08:59
 Transcript Snippet: establishes G-Tech Industries LLC. I...know you're going to say, "What is What...does it do?"...Um, you know, it's Lori, so it's like...this she's doing this whole EMP thing...and she's getting money and she's saying...this is the threat and she's working...with people that she knows and she's
-*Related: C-1104, C-1105, N-3, N-1053*
+*Related: C-1104, C-1105, N-3, N-1060*
 Confidence: high
 
 **A-1069.2** Feed Me Incorporated formation (December 31, 2018)
 Event Timestamp: 2018-12-31
 Video Timestamp: 00:28:35-00:28:59
 Transcript Snippet: December 31st, the end of the year...Feed Me Incorporated is formed....Feed Me Incorporated will eventually...become Superfeed Technologies. Superfeed...Technologies is the company that both uh...Erika's mother and Tyler Bowyer are on...the board of....Okay?
-*Related: C-1110, N-3, N-11, N-1054*
+*Related: C-1110, N-3, N-11, N-1061*
 Confidence: high
 
 **A-1069.3** Saxon Capital Group ownership records showing Lori as 86% owner
 Event Timestamp: 2016
 Video Timestamp: 00:12:39-00:12:57
 Transcript Snippet: A little fun fact here, Saxon Capital...Group is actually Lori. Lori is an 86%...owner of Saxon Capital Group. They...released this onto PR Newswire and then...it turns out that years later Saxon...Capital Group with Lori as a minor...partner they're going to file for an IPO...and they're like, yeah, no we actually
-*Related: C-1104, N-3, N-1053*
+*Related: C-1104, N-3, N-1060*
 Confidence: high
 
 ---
@@ -99,7 +99,7 @@ Confidence: high
 Event Timestamp: 2023
 Video Timestamp: 00:33:14-00:33:28
 Transcript Snippet: regarding Kouri Richins,...a New York Post article that said,..."Grief author Kouri Richins found guilty...of fatally poisoning her husband for his...$4 million estate." And Matt Walsh...comments and writes, "There's no good...moral reason why she should not simply...be taken outside the morning after her
-*Related: C-1111, C-1112, N-52, N-1001*
+*Related: C-1111, C-1112, N-52, N-1000*
 Confidence: high
 
 **A-1071.2** ABC News clip of Kouri Richins promoting grief book before arrest
@@ -143,7 +143,7 @@ Confidence: medium
 **A-1069.4** Erika Bible in 365 founding claim (social media)
 Event Timestamp: 2016
 Video Timestamp: 00:10:54–00:11:12
-*Related: C-1105, N-2, N-1057*
+*Related: C-1105, N-2, N-1064*
 Transcript Snippet: future, she's going to claim that this...is the year that she launched Bible in...365....On a future post she says in 2016, I...started Bible in 365 in my New York City...apartment. That is objectively untrue...according to corporate filings, okay?...That just did not happen, but she
 Confidence: medium
 
@@ -338,7 +338,7 @@ Conservative commentator who defended Erika then tweeted about Kouri Richins cas
 
 ---
 
-**N-1051** Tesseract School / Notre Dame Prep
+**N-1058** Tesseract School / Notre Dame Prep
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -348,7 +348,7 @@ Arizona school that went bankrupt in 2001, was purchased by Diocese of Phoenix a
 
 ---
 
-**N-1052** Diocese of Phoenix
+**N-1059** Diocese of Phoenix
 
 Node Type: Organization
 Organization Kind: religious_organization
@@ -358,7 +358,7 @@ Catholic diocese that purchased Tesseract campus and employed Bishop O'Brien
 
 ---
 
-**N-1053** G-Tech Industries LLC
+**N-1060** G-Tech Industries LLC
 
 Node Type: Organization
 Organization Kind: business
@@ -368,7 +368,7 @@ Company founded by Lori Frantzve in November 2015, related to EMP fear-mongering
 
 ---
 
-**N-1054** Feed Me Incorporated / Superfeed Technologies
+**N-1061** Feed Me Incorporated / Superfeed Technologies
 
 Node Type: Organization
 Organization Kind: business
@@ -378,7 +378,7 @@ Company formed December 31, 2018 with Lori Frantzve and Tyler Bowyer on board
 
 ---
 
-**N-1001** Turning Point USA
+**N-1000** Turning Point USA
 
 Node Type: Organization
 Organization Kind: political_organization
@@ -388,7 +388,7 @@ Conservative organization founded by Charlie Kirk
 
 ---
 
-**N-1055** Erika's Financial Situation 2015-2018
+**N-1062** Erika's Financial Situation 2015-2018
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -398,7 +398,7 @@ Unclear how Erika afforded lifestyle including NYC apartment and international t
 
 ---
 
-**N-1056** Erika's Kanye Connection
+**N-1063** Erika's Kanye Connection
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -408,7 +408,7 @@ Allegation that Erika had undisclosed connections to Kanye's circle during Blexi
 
 ---
 
-**N-1057** Bible in 365 Claim
+**N-1064** Bible in 365 Claim
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -418,7 +418,7 @@ Erika claims she launched Bible in 365 in 2016, but corporate filings do not sup
 
 ---
 
-**N-1058** Maricopa County
+**N-1065** Maricopa County
 
 Node Type: Place
 Place Kind: county
@@ -428,7 +428,7 @@ Arizona county where Bishop O'Brien's cases were prosecuted
 
 ---
 
-**N-1059** New York City
+**N-1066** New York City
 
 Node Type: Place
 Place Kind: city
@@ -463,7 +463,7 @@ Claim Timestamp: 00:03:30-00:03:36
 Claim: After Tesseract School filed for bankruptcy in 2001, the campus was purchased by the Diocese of Phoenix and turned into Notre Dame Prep, where Erika enrolled for high school.
 Transcript Snippet: Tesseract that after they filed for...bankruptcy in 2001,...they put their old campus up for sale...and it was purchased by the Diocese of...Phoenix. When they then turned it into...Notre Dame Prep, where Erika then...enrolls for high school. Now, this...decision and the process was overseen by
 Anchored Artifacts: A-1067.1, A-1067.2
-Related Nodes: N-2, N-47, N-1051, N-1052
+Related Nodes: N-2, N-47, N-1058, N-1059
 Confidence: high
 Investigative Direction: Obtain school enrollment records to verify Erika's attendance at Notre Dame Prep.
 
@@ -477,7 +477,7 @@ Claim Timestamp: 00:04:21-00:04:28
 Claim: Bishop Thomas J. O'Brien became the first Catholic bishop in America to be charged with a felony for a 2003 hit-and-run that killed Jim Lee Reed.
 Transcript Snippet: evangelical. Doesn't matter if he was...going to mass every day....Go after Candace for telling the truth...because donors, okay? Weird. Anyway, he...was the bishop until 2003 when he...received the distinct honor of becoming...the very first Catholic bishop...in America to ever be charged with a
 Anchored Artifacts: A-1068.1
-Related Nodes: N-47, N-48, N-1052
+Related Nodes: N-47, N-48, N-1059
 Confidence: high
 Investigative Direction: Obtain court records from the 2003 hit-and-run case to verify details.
 
@@ -491,7 +491,7 @@ Claim Timestamp: 00:05:29-00:06:07
 Claim: In 2002, Maricopa County prosecutors initiated a grand jury investigation into Bishop O'Brien for allegedly covering up sexual abuse allegations against priests he had staffed.
 Transcript Snippet: big dog. Remarkably, uh, Thomas O'Brien...only got 4 years of probation for this....The Vatican, of course, then accepted...his resignation. He staffs, though, the...school that Erika then attends. And um,...that's by the way, is not going to spell...the end of his legal trouble because...then in 2002, this is Maricopa County,
 Anchored Artifacts: A-1068.2
-Related Nodes: N-47, N-1052, N-1058
+Related Nodes: N-47, N-1059, N-1065
 Confidence: high
 Investigative Direction: Obtain grand jury investigation records from Maricopa County.
 
@@ -505,7 +505,7 @@ Claim Timestamp: 00:08:41-00:13:04
 Claim: Lori Frantzve established G-Tech Industries LLC in 2015 and was 86% owner of Saxon Capital Group, both involved in EMP fear-mongering and government contracts.
 Transcript Snippet: Montreal...uh, through to Estero, uh, Quebec....Again, not knowing how she is affording...this lifestyle. She is traveling with...Nicole Rothstein....Um, we have that in November, her mother...establishes G-Tech Industries LLC. I...know you're going to say, "What is What
 Anchored Artifacts: A-1069.1, A-1069.3
-Related Nodes: N-3, N-1053
+Related Nodes: N-3, N-1060
 Confidence: high
 Investigative Direction: Obtain corporate filings and contract records for G-Tech Industries and Saxon Capital Group.
 
@@ -519,7 +519,7 @@ Claim Timestamp: 00:10:54-00:11:12
 Claim: Erika claims she started Bible in 365 in 2016 in her NYC apartment, but corporate filings do not support this.
 Transcript Snippet: future, she's going to claim that this...is the year that she launched Bible in...365....On a future post she says in 2016, I...started Bible in 365 in my New York City...apartment. That is objectively untrue...according to corporate filings, okay?...That just did not happen, but she
 Anchored Artifacts: A-1069.4
-Related Nodes: N-2, N-1057, N-1059
+Related Nodes: N-2, N-1064, N-1066
 Confidence: medium
 Uncertainty: No corporate filing artifact shown in episode
 Investigative Direction: Obtain corporate filings for Bible in 365 to verify founding date.
@@ -548,7 +548,7 @@ Claim Timestamp: 00:23:01
 Claim: Between 2015-2018, Erika was 27-30 years old with no clear employment, yet lived in NYC and traveled internationally.
 Transcript Snippet: somehow becomes a licensed real estate...agent in New York and is immediately...employed by Corcoran Real Estate Group....And we went back and people have reached...out to us. Erika, it looks like did a...total...of...three possible rentals under somebody
 Anchored Artifacts: A-1073.1
-Related Nodes: N-2, N-11, N-46, N-44, N-1055
+Related Nodes: N-2, N-11, N-46, N-44, N-1062
 Confidence: high
 Investigative Direction: Obtain employment records and financial documents to verify income sources.
 
@@ -562,7 +562,7 @@ Claim Timestamp: 00:23:01-00:23:29
 Claim: On October 24, 2018, Erika became a licensed real estate agent in New York and was employed by Corcoran Real Estate Group.
 Transcript Snippet: things that Charlie wants to hear....And there begins their relationship, you...could say, like in September when they...meet at that restaurant....Then comes October 24th and Erika...somehow becomes a licensed real estate...agent in New York and is immediately...employed by Corcoran Real Estate Group.
 Anchored Artifacts: A-1073.1
-Related Nodes: N-2, N-14, N-1001, N-1059
+Related Nodes: N-2, N-14, N-1000, N-1066
 Confidence: medium
 Investigative Direction: Obtain real estate licensing records from New York State.
 
@@ -576,7 +576,7 @@ Claim Timestamp: 00:25:06-00:27:02
 Claim: During the October 2018 Blexit controversy when Kanye tweeted negatively about Candace and Charlie, Erika was making claims to people that she knew people in Kanye's orbit and may have influenced the tweet.
 Transcript Snippet: pressure he's going through." And...Charlie and me were just devastated. We...were devastated by this because it made...us look like we were liars, okay? And it...we were in a position where people...wanted to see us fall, okay? Why am I...telling you this?...I get reached out So I mean, somebody
 Anchored Artifacts: A-1072.1
-Related Nodes: N-7, N-1, N-2, N-51, N-1056
+Related Nodes: N-7, N-1, N-2, N-51, N-1063
 Confidence: medium
 Uncertainty: Based on witness testimony, not documentary evidence shown
 Investigative Direction: Obtain evidence from the New York woman who provided proof of Erika's claims about knowing Kanye's circle.
@@ -591,7 +591,7 @@ Claim Timestamp: 00:28:35-00:29:06
 Claim: Feed Me Incorporated was formed on December 31, 2018 (became Superfeed Technologies) with both Lori Frantzve and Tyler Bowyer on the board, around the time Erika began dating Charlie.
 Transcript Snippet: Okay? So she sits down with Charlie....Suddenly, she gets her real estate...license. Um yeah, Kanye's tweeting..."Peace out, Blexit." Erika uh then films...Summer House, but look at December 31st,...though....December 31st, the end of the year...Feed Me Incorporated is formed.
 Anchored Artifacts: A-1069.2
-Related Nodes: N-1, N-2, N-3, N-14, N-1054, N-1001
+Related Nodes: N-1, N-2, N-3, N-14, N-1061, N-1000
 Confidence: high
 Investigative Direction: Obtain corporate records for Feed Me Incorporated and Superfeed Technologies to verify board membership and timing.
 
