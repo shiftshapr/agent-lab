@@ -10,7 +10,7 @@
     "video_timestamp_range": "00:01:00–00:57:04",
     "extraction_timestamp": "2026-09-04T23:08:01Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "45dd65cc0499ac46c1b11e4539307e5a5260a1ac132039afe6596571ccfd2f5d",
+    "transcript_sha256": "06a3b756f6db827356196cd9d57188ec9abe43dac136eec26a5dc72b54b3b927",
     "analysis_date": "2026-09-04"
   },
   "executive_summary": "Episode 5 presents a detailed timeline of Erika Kirk from 1988-2010, focusing on her educational institutions (Tesseract, St. Ursula Villa, Walnut Corner daycare), her mother Lori Frantzve's business entities (E3 Tech, Virtual Registration International, Intellment International, Intel of Arizona LLC), and military/government connections. Key artifacts include the Tesseract charter school documents, corporate filings, and references to Operation Enduring Freedom. The episode introduces multiple investigation targets including the missing years 1999-2002, Lori's government contracts, and Tyler Bowyer's 2010 Romania trip.",
@@ -31,11 +31,11 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1002"
+            "N-1001"
           ],
           "tags": [],
           "event_timestamp": "1991",
-          "video_timestamp": "06:53",
+          "video_timestamp": "00:06:53",
           "transcript_snippet": "Halloween 1991. Erika is on the brink of...her third birthday. In 1994, Erika is...attending St. Ursula Villa uh for...kindergarten. That's again 94 to 95....1995, Erika is uh attending the Tesseract...school down in Paradise Valley. That's...going to be from her 1995 to 1996 school...year. And her parents, Kent and Lori,",
           "confidence": "high"
         }
@@ -58,11 +58,11 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1002"
+            "N-1001"
           ],
           "tags": [],
           "event_timestamp": "1995-1998",
-          "video_timestamp": "07:05–07:45",
+          "video_timestamp": "00:07:05–00:07:45",
           "transcript_snippet": "1995, Erika is uh attending the Tesseract...school down in Paradise Valley. That's...going to be from her 1995 to 1996 school...year. And her parents, Kent and Lori,...allegedly get married that year in...Marblehead, Massachusetts. Although we...cannot find a single shred of...documentation um that verifies that",
           "confidence": "high"
         }
@@ -84,11 +84,11 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1030"
+            "N-1034"
           ],
           "tags": [],
           "event_timestamp": "1999-12-01",
-          "video_timestamp": "10:56",
+          "video_timestamp": "00:10:56",
           "transcript_snippet": "with the help of Rick and Donna Erpenbeck,...she forms Virtual Registration...International Incorporated. Again,...indicating that she's going to be doing...some work overseas. She also forms Intel...uh the uh incorporated on September...24th. Uh Lori Frantzve also is going to...form Intellment International",
           "confidence": "high"
         },
@@ -102,11 +102,11 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1030"
+            "N-1034"
           ],
           "tags": [],
           "event_timestamp": "1999-12-02",
-          "video_timestamp": "11:22",
+          "video_timestamp": "00:11:22",
           "transcript_snippet": "of that year....Okay. She's she's getting ready to do...business....Go to the year 2000. Tesseract school...goes bankrupt. Millions is are...apparently missing. Um, you don't know...where Erika is that year, but you can...see for-profit corporate drive to run",
           "confidence": "high"
         },
@@ -120,11 +120,11 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1030"
+            "N-1034"
           ],
           "tags": [],
           "event_timestamp": "2003-01-09",
-          "video_timestamp": "12:07",
+          "video_timestamp": "00:12:07",
           "transcript_snippet": "uh Lori Frantzve forms another Intel...company. This one is Intel of Arizona...LLC....Okay....She forms that on January 9th, 2005....We've gone over this. Now we can...document Erika. She is at Notre Dame....She is playing basketball. She also is",
           "confidence": "high"
         },
@@ -142,7 +142,7 @@
           ],
           "tags": [],
           "event_timestamp": "2010-01-06",
-          "video_timestamp": "24:02",
+          "video_timestamp": "00:24:02",
           "transcript_snippet": "this year, Jerry Frantzve creates an...LLC called Luminarius with her daughter,...the one that she had when she was 14,...Deborah Himil, she's going to follow...mommy's footsteps from the very...beginning getting into psychology. It's...another charter school company. Okay....Now, in my mind, when I think about",
           "confidence": "high"
         },
@@ -160,7 +160,7 @@
           ],
           "tags": [],
           "event_timestamp": "2010",
-          "video_timestamp": "26:38–26:55",
+          "video_timestamp": "00:26:38–00:26:55",
           "transcript_snippet": "Tyler Sanford. It's called Table Four...LLC. Tyler Sanford will be featured down...the line as the actor in her My Kind of...Crazy music video that she's going to...film in 2013. I should also mention that...he is a catcher uh for the Los Angeles...Los Angeles Angels. Like like I've said...too many times, Erika is always dating",
           "confidence": "high"
         }
@@ -183,11 +183,11 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1031"
+            "N-1035"
           ],
           "tags": [],
           "event_timestamp": "2001",
-          "video_timestamp": "09:45",
+          "video_timestamp": "00:09:45",
           "transcript_snippet": "Tech is going to be used for this...operation. That's according to its...current website. Okay, E3 Techch has a...website and on its website it tells us...that they participate in operation...um enduring freedom. And not only that,...because don't don't forget like Lori at...some point falls and bumps her head and",
           "confidence": "medium"
         },
@@ -202,11 +202,11 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1031"
+            "N-1035"
           ],
           "tags": [],
           "event_timestamp": "2008",
-          "video_timestamp": "17:10–17:24",
+          "video_timestamp": "00:17:10–00:17:24",
           "transcript_snippet": "Guard. IMAT Laboratories again...associated with Lori Frantzve is going...the National The Army National Guard,...pardon me, is going to have to disclose...that they gave $2.4 4 million...to IMET laboratories....Take a look at that....J3, J6, that's got to do with like cyber",
           "confidence": "high"
         }
@@ -228,12 +228,12 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1032",
-            "N-1048"
+            "N-1036",
+            "N-1052"
           ],
           "tags": [],
           "event_timestamp": "2009-04",
-          "video_timestamp": "18:24",
+          "video_timestamp": "00:18:24",
           "transcript_snippet": "establish Everyday Heroes Like You in...April. In her filing, she will claim...that it is a faithbased organization...that is raising funds and developing...programs for vulnerable children. Okay,...they publish this on initially on July...2nd of 2009. Okay, Lori seems a bit...busy. She's already working with the",
           "confidence": "high"
         }
@@ -255,12 +255,12 @@
             "C-1055"
           ],
           "related_nodes": [
-            "N-1033",
+            "N-1037",
             "N-14"
           ],
           "tags": [],
           "event_timestamp": "2009-10",
-          "video_timestamp": "19:23",
+          "video_timestamp": "00:19:23",
           "transcript_snippet": "after she establishes this, it is...announced that the Romanian government...has agreed to allow America to set up a...military base along the Black Sea. Now,...uh, that's that's the first time things...are are crazy. Uh, Erika is going to...make the claim, by the way, on a future...podcast entitled Freethinkers Only, that",
           "confidence": "high"
         },
@@ -273,12 +273,12 @@
             "C-1059"
           ],
           "related_nodes": [
-            "N-1033",
+            "N-1037",
             "N-14"
           ],
           "tags": [],
           "event_timestamp": "2010-05-17",
-          "video_timestamp": "27:42",
+          "video_timestamp": "00:27:42",
           "transcript_snippet": "to Romania and they establish the Mi...Kogal Nish Cho Chono, I hope I'm saying...that right, Kogal Nichono, probably not....Air Base in Romania. You can see that...here. Marines, sailors, and sailors of...the Black Sea Rotational Force 2010...officially kicked off their three-month...engagement in the Black Sea region in a",
           "confidence": "high"
         },
@@ -292,12 +292,12 @@
           ],
           "related_nodes": [
             "N-13",
-            "N-1016",
-            "N-1033"
+            "N-1019",
+            "N-1037"
           ],
           "tags": [],
           "event_timestamp": "1990",
-          "video_timestamp": "02:10–02:39",
+          "video_timestamp": "00:02:10–00:02:39",
           "transcript_snippet": "gender issues in 1990. Take a look at...this. Wow. According to Frantzve, the...final big project of the semester, this...is at Radford, will be taking a group of...students to Eastern Europe. We will...research the expectations of men and...women as work life and day-to-day life...change after the wall came down. Really,",
           "confidence": "medium"
         }
@@ -319,11 +319,11 @@
           ],
           "related_nodes": [
             "N-32",
-            "N-1033"
+            "N-1037"
           ],
           "tags": [],
           "event_timestamp": "2009",
-          "video_timestamp": "22:25",
+          "video_timestamp": "00:22:25",
           "transcript_snippet": "see Jeffrey Epstein...uh beginning to pro procure...women from Romania per his emails that...are now available. He's going to...instantly get his hands over into...Romania. Look, he's offering here is...information for the girl from Romania...who will receive $10,000. There have",
           "confidence": "medium"
         }
@@ -346,11 +346,11 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-1033"
+            "N-1037"
           ],
           "tags": [],
           "event_timestamp": "2010",
-          "video_timestamp": "29:38–30:12",
+          "video_timestamp": "00:29:38–00:30:12",
           "transcript_snippet": "some work with a senator in the...parliament there.\" And then he says,...\"And he was friends, meaning the senator...in Romania was friends with this guy...that owned a modeling agency and took me...to the beach that's going to be in...Constanta, just so you know. for 4 days...and legit slept collectively like 10",
           "confidence": "medium"
         },
@@ -369,7 +369,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "36:06–36:28",
+          "video_timestamp": "00:36:06–00:36:28",
           "transcript_snippet": "pilgrimage, I guess, and there Charlie...was at the airport in Israel. You saw...him. Your mom said go up to him. She's a...pusher, right? Lori's a pusher. I always...thought it was so strange how you never...mentioned that I was at the airport with...Charlie. Just thought that was so weird....You never said that. I saw Charlie with",
           "confidence": "medium"
         },
@@ -383,11 +383,11 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-1033"
+            "N-1037"
           ],
           "tags": [],
           "event_timestamp": "2010",
-          "video_timestamp": "55:14–55:32",
+          "video_timestamp": "00:55:14–00:55:32",
           "transcript_snippet": "guy. Tyler Bowyer is drinking in Romania,...enjoying the models, the ladies. Who was...the person in Romanian parliament that...he went out to see? How does that...happen? Tyler was in college. Who set...that up? Could it have been a...Farnsworth? Very close with that family,...aren't you? They were in office. H I'll",
           "confidence": "low"
         }
@@ -410,11 +410,11 @@
           ],
           "related_nodes": [
             "N-18",
-            "N-1034"
+            "N-1038"
           ],
           "tags": [],
           "event_timestamp": "2009",
-          "video_timestamp": "37:05",
+          "video_timestamp": "00:37:05",
           "transcript_snippet": "his license and I'd like to share that...information with you. We learned the...reason. Rick is the movement that is...mentioned throughout this article. I'm...just going to clear this up for you. The...first reason um that his legal license...was removed is because he didn't pay his...dues. Um okay, my best guess is the",
           "confidence": "high"
         }
@@ -440,7 +440,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "13:44–15:10",
+          "video_timestamp": "00:13:44–00:15:10",
           "transcript_snippet": "Winslow. We showed you this article....This truly is the best version we could...find. I know it's very smudged, but I...wanted to point out to you that somebody...emailed me about this article. Erika...sort of uh uh tells this story. We...received an interesting email because we...showed you this article and in this...article I can I'm going to read for you...what it actually states. This is again",
           "confidence": "high"
         }
@@ -467,7 +467,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "43:32–45:59",
+          "video_timestamp": "00:43:32–00:45:59",
           "transcript_snippet": "Blake actually authored. This is not a...joke. Okay. He could not bear me...ridiculing Erika over Shabbat Shalom....Here's this is what he wrote on on X. I...have avoided commenting on most of what...Kenneth Owen's claims are the past few...months. However, her last episode...contains such a blatant untruth about...Charlie's daily life that I feel...compelled to correct it. In this",
           "confidence": "high"
         }
@@ -717,8 +717,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1002",
-      "ref": "N-1002",
+      "@id": "N-1001",
+      "ref": "N-1001",
       "name": "Tesseract School",
       "type": "organization",
       "description": "Charter school formerly Looking Glass School - backed by Bush and Walton families",
@@ -739,8 +739,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1030",
-      "ref": "N-1030",
+      "@id": "N-1034",
+      "ref": "N-1034",
       "name": "Lori Frantzve Business Entities",
       "type": "organization",
       "description": "Collection of LLCs including Virtual Registration International, Intellment International, Intel of Arizona",
@@ -761,8 +761,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1031",
-      "ref": "N-1031",
+      "@id": "N-1035",
+      "ref": "N-1035",
       "name": "E3 Tech Government Contracts",
       "type": "topic",
       "description": "Lori's company E3 Tech involved with Operation Enduring Freedom and DHS contracts",
@@ -785,8 +785,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1032",
-      "ref": "N-1032",
+      "@id": "N-1036",
+      "ref": "N-1036",
       "name": "Everyday Heroes Like You Charity",
       "type": "topic",
       "description": "Charity founded by Lori in 2009 claiming to help vulnerable children",
@@ -805,8 +805,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1033",
-      "ref": "N-1033",
+      "@id": "N-1037",
+      "ref": "N-1037",
       "name": "Romania",
       "type": "place",
       "description": "Country where US established military base in 2009-2010; Jeffrey Epstein and Tyler Bowyer both visited",
@@ -834,8 +834,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1034",
-      "ref": "N-1034",
+      "@id": "N-1038",
+      "ref": "N-1038",
       "name": "Rick Erpenbeck License Revocation",
       "type": "topic",
       "description": "Investigation into why attorney Rick Erpenbeck lost his license in 2009",
@@ -855,8 +855,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1035",
-      "ref": "N-1035",
+      "@id": "N-1039",
+      "ref": "N-1039",
       "name": "Erika Kirk Missing Years 1999-2002",
       "type": "topic",
       "description": "Period where Erika's schooling cannot be verified - gap in timeline",
@@ -873,8 +873,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1036",
-      "ref": "N-1036",
+      "@id": "N-1040",
+      "ref": "N-1040",
       "name": "Operation Enduring Freedom",
       "type": "organization",
       "description": "US military operation in Afghanistan starting October 2001",
@@ -894,8 +894,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1037",
-      "ref": "N-1037",
+      "@id": "N-1041",
+      "ref": "N-1041",
       "name": "IMAT Laboratories",
       "type": "organization",
       "description": "Company associated with Lori Frantzve receiving $2.4M from Army National Guard",
@@ -933,8 +933,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1016",
-      "ref": "N-1016",
+      "@id": "N-1019",
+      "ref": "N-1019",
       "name": "Radford University",
       "type": "organization",
       "description": "University where Jerry Frantzve directed gender clinic in 1983",
@@ -952,8 +952,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1048",
-      "ref": "N-1048",
+      "@id": "N-1052",
+      "ref": "N-1052",
       "name": "Everyday Heroes Like You",
       "type": "organization",
       "description": "Erika's humanitarian organization",
@@ -982,11 +982,11 @@
       ],
       "related_nodes": [
         "N-13",
-        "N-1016",
-        "N-1033"
+        "N-1019",
+        "N-1037"
       ],
       "tags": [],
-      "claim_timestamp": "02:10",
+      "claim_timestamp": "00:02:10",
       "investigative_direction": "Obtain Radford University records of Frantzve's research trips.",
       "transcript_snippet": "gender issues in 1990. Take a look at...this. Wow. According to Frantzve, the...final big project of the semester, this...is at Radford, will be taking a group of...students to Eastern Europe. We will...research the expectations of men and...women as work life and day-to-day life...change after the wall came down. Really,",
       "confidence": "medium"
@@ -1002,10 +1002,10 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1002"
+        "N-1001"
       ],
       "tags": [],
-      "claim_timestamp": "06:53",
+      "claim_timestamp": "00:06:53",
       "investigative_direction": "Verify daycare enrollment records and Child Care Visions corporate ownership.",
       "transcript_snippet": "daycare that's at the Walnut Walnut...Corner in uh Cincinnati, Ohio, which is...in a corporate business building that's...owned by Child Care Visions. We have...that photo for you, which um was taken...Halloween 1991. Erika is on the brink of...her third birthday. In 1994, Erika is...attending St. Ursula Villa uh for",
       "confidence": "high"
@@ -1021,10 +1021,10 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1002"
+        "N-1001"
       ],
       "tags": [],
-      "claim_timestamp": "07:05",
+      "claim_timestamp": "00:07:05",
       "investigative_direction": "Obtain enrollment records from Tesseract for 1995-1998 school years.",
       "transcript_snippet": "Halloween 1991. Erika is on the brink of...her third birthday. In 1994, Erika is...attending St. Ursula Villa uh for...kindergarten. That's again 94 to 95....1995, Erika is uh attending the Tesseract...school down in Paradise Valley. That's...going to be from her 1995 to 1996 school...year. And her parents, Kent and Lori,",
       "confidence": "high"
@@ -1040,11 +1040,11 @@
       ],
       "related_nodes": [
         "N-34",
-        "N-1002",
+        "N-1001",
         "N-2"
       ],
       "tags": [],
-      "claim_timestamp": "07:05",
+      "claim_timestamp": "00:07:05",
       "investigative_direction": "Verify Nancy Gerard's employment at Tesseract and military background.",
       "transcript_snippet": "But that's my opinion and I'm sticking...to it. Now, I should also mention that...Tesseract had a principal. She would...actually climb a ladder at Tesseract...while Erika was a student who had very...strong military ties. A woman named...Nancy Gerard, Nancy Gerard Hall, she...will become. Nancy was a military brat.",
       "confidence": "medium"
@@ -1063,7 +1063,7 @@
         "N-4"
       ],
       "tags": [],
-      "claim_timestamp": "07:20",
+      "claim_timestamp": "00:07:20",
       "investigative_direction": "Search Massachusetts marriage records for 1995.",
       "transcript_snippet": "1995, Erika is uh attending the Tesseract...school down in Paradise Valley. That's...going to be from her 1995 to 1996 school...year. And her parents, Kent and Lori,...allegedly get married that year in...Marblehead, Massachusetts. Although we...cannot find a single shred of...documentation um that verifies that",
       "confidence": "medium"
@@ -1083,7 +1083,7 @@
         "N-2"
       ],
       "tags": [],
-      "claim_timestamp": "07:51",
+      "claim_timestamp": "00:07:51",
       "investigative_direction": "Obtain divorce filing documents from Hamilton County, Ohio courts.",
       "transcript_snippet": "that. 96 she is still at the Tesseract...school. Uh 98 she is also at the...Tesseract school. That's the that's the...98 to 999 school year. Erika is in the...third grade. And this is when Lori and...Kent will file for a divorce in...Cincinnati....People note that Kent is living already",
       "confidence": "high"
@@ -1099,10 +1099,10 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1035"
+        "N-1039"
       ],
       "tags": [],
-      "claim_timestamp": "08:36",
+      "claim_timestamp": "00:08:36",
       "investigative_direction": "Search school records in Arizona and Ohio for 2000-2002 enrollment.",
       "transcript_snippet": "1999 2002. But we stand corrected on...that. That's not accurate. People who...attended during those years up in Ohio...at St. Ursilla, they emailed us. They...went through their yearbooks and they...said that she is not featured in those...yearbooks. So, we don't have Erika from...2000 until 2002. Now, it's possible that",
       "confidence": "high"
@@ -1118,11 +1118,11 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-1031",
-        "N-1036"
+        "N-1035",
+        "N-1040"
       ],
       "tags": [],
-      "claim_timestamp": "09:45",
+      "claim_timestamp": "00:09:45",
       "investigative_direction": "Verify E3 Tech website claims and government contract records.",
       "transcript_snippet": "confusing. None of it makes any sense....Don't try to understand corruption....You'll get it's very dizzying. But that...is that's what happens. Operation...Enduring Freedom begins. And we should...note that Erika's mother or company E3...Tech is going to be used for this...operation. That's according to its",
       "confidence": "medium"
@@ -1138,11 +1138,11 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-1031",
-        "N-1036"
+        "N-1035",
+        "N-1040"
       ],
       "tags": [],
-      "claim_timestamp": "10:18",
+      "claim_timestamp": "00:10:18",
       "investigative_direction": "Find award documentation and verify recipient.",
       "transcript_snippet": "because don't don't forget like Lori at...some point falls and bumps her head and...she's Steve Jobs. She's like Les Tesla....I don't know. She's like she's just a...tech genius. She she is even going to...eventually win an award for her...contributions to Operation Enduring...Freedom. Did Erika go overseas with her",
       "confidence": "low"
@@ -1160,10 +1160,10 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-1030"
+        "N-1034"
       ],
       "tags": [],
-      "claim_timestamp": "10:56",
+      "claim_timestamp": "00:10:56",
       "investigative_direction": "Verify corporate filings through Arizona and Delaware state records.",
       "transcript_snippet": "1999. Again, we don't know where Erika...is for that school year, but...uh that's going to be the year that Lori...files a lot uh of different companies,...corporations. December 1st, 1999,...with the help of Rick and Donna Erpenbeck,...she forms Virtual Registration...International Incorporated. Again,",
       "confidence": "high"
@@ -1179,11 +1179,11 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-1031",
-        "N-1037"
+        "N-1035",
+        "N-1041"
       ],
       "tags": [],
-      "claim_timestamp": "17:10",
+      "claim_timestamp": "00:17:10",
       "investigative_direction": "Obtain Army National Guard budget disclosure documents for 2008.",
       "transcript_snippet": "the beginning. That's not true. What we...do know for certain is that it's going...to take Erika 5 years to graduate...college. And for some reason in this...year of 2008, Lori is going to receive a...lot of money from the Army National...Guard. IMAT Laboratories again...associated with Lori Frantzve is going",
       "confidence": "high"
@@ -1200,11 +1200,11 @@
       "related_nodes": [
         "N-2",
         "N-3",
-        "N-1031",
-        "N-1037"
+        "N-1035",
+        "N-1041"
       ],
       "tags": [],
-      "claim_timestamp": "17:50",
+      "claim_timestamp": "00:17:50",
       "investigative_direction": "Cross-reference Erika's whereabouts in 2008 with Lori's financial records.",
       "transcript_snippet": "already, her mother via her mother, who...she claims raised her as a single mom....She didn't, unless maybe her mindset it...was the single mom cuz Erika was over on...a base with her mother. But we now know...that during this year, this crucial year...where Erika is missing, her mother um is...going to wind up having received $2.4",
       "confidence": "high"
@@ -1220,11 +1220,11 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-1032",
-        "N-1048"
+        "N-1036",
+        "N-1052"
       ],
       "tags": [],
-      "claim_timestamp": "18:24",
+      "claim_timestamp": "00:18:24",
       "investigative_direction": "Verify charity registration and financial disclosures.",
       "transcript_snippet": "crucial year. Things are going to start...to get spicy. Okay, so remember going...into this, Lori's already working with...the United States military. She's...receiving millions. Do not forget that...in 2009, Lori Frantzve is going to...establish Everyday Heroes Like You in...April. In her filing, she will claim",
       "confidence": "high"
@@ -1239,10 +1239,10 @@
         "A-1035.1"
       ],
       "related_nodes": [
-        "N-1033"
+        "N-1037"
       ],
       "tags": [],
-      "claim_timestamp": "19:23",
+      "claim_timestamp": "00:19:23",
       "investigative_direction": "Verify Romanian government agreement documents from October 2009.",
       "transcript_snippet": "stuff for the military and now like I'm...gonna help kids a little bit. Maybe I'm...wrong. Maybe I'm wrong. With everything...I know about Lori, I don't love it....Then in October, the same year, right...after she establishes this, it is...announced that the Romanian government...has agreed to allow America to set up a",
       "confidence": "high"
@@ -1258,11 +1258,11 @@
         "A-1036.1"
       ],
       "related_nodes": [
-        "N-1033",
+        "N-1037",
         "N-32"
       ],
       "tags": [],
-      "claim_timestamp": "22:20",
+      "claim_timestamp": "00:22:20",
       "investigative_direction": "Cross-reference Epstein email dates with base agreement timeline.",
       "transcript_snippet": "So, she competes in 2009 for Miss...Colorado and she places fourth runner...up. How did she qualify to compete is...one of my questions....Now, I'll have you guys know, you'll see...I added a note here that 2009...um got the Romanian government agreeing...to allow America America to stop",
       "confidence": "medium"
@@ -1278,10 +1278,10 @@
       ],
       "related_nodes": [
         "N-32",
-        "N-1033"
+        "N-1037"
       ],
       "tags": [],
-      "claim_timestamp": "22:28",
+      "claim_timestamp": "00:22:28",
       "investigative_direction": "Obtain and verify Epstein email production from 2009.",
       "transcript_snippet": "one of my questions....Now, I'll have you guys know, you'll see...I added a note here that 2009...um got the Romanian government agreeing...to allow America America to stop...military base. That's when you start to...see Jeffrey Epstein...uh beginning to pro procure",
       "confidence": "medium"
@@ -1300,7 +1300,7 @@
         "N-33"
       ],
       "tags": [],
-      "claim_timestamp": "24:02",
+      "claim_timestamp": "00:24:02",
       "investigative_direction": "Obtain Luminarius LLC filing documents from Arizona corporation commission.",
       "transcript_snippet": "it it I would assume given the amount of...travel that she keeps indicating that...she probably did take a lot of classes...online. So just wanted to show you that...this is when she is supposed to be at...Loyola Marramount. Um, on January 6th of...this year, Jerry Frantzve creates an...LLC called Luminarius with her daughter,",
       "confidence": "high"
@@ -1319,7 +1319,7 @@
         "N-35"
       ],
       "tags": [],
-      "claim_timestamp": "26:38",
+      "claim_timestamp": "00:26:38",
       "investigative_direction": "Obtain Table Four LLC filing documents from Arizona.",
       "transcript_snippet": "Tyler Sanford. It's called Table Four...LLC. Tyler Sanford will be featured down...the line as the actor in her My Kind of...Crazy music video that she's going to...film in 2013. I should also mention that...he is a catcher uh for the Los Angeles...Los Angeles Angels. Like like I've said...too many times, Erika is always dating",
       "confidence": "high"
@@ -1334,10 +1334,10 @@
         "A-1035.2"
       ],
       "related_nodes": [
-        "N-1033"
+        "N-1037"
       ],
       "tags": [],
-      "claim_timestamp": "27:42",
+      "claim_timestamp": "00:27:42",
       "investigative_direction": "Verify military deployment records for Black Sea Rotational Force 2010.",
       "transcript_snippet": "their tax returns, but then Lori moves...to reinstate that in 2010....AZ Tech International, it's back on the...table....Well, for the first time that year, the...Black Sea Rotational Force 10 goes out...to Romania and they establish the Mi...Kogal Nish Cho Chono, I hope I'm saying",
       "confidence": "high"
@@ -1353,10 +1353,10 @@
       ],
       "related_nodes": [
         "N-14",
-        "N-1033"
+        "N-1037"
       ],
       "tags": [],
-      "claim_timestamp": "29:38",
+      "claim_timestamp": "00:29:38",
       "investigative_direction": "Verify Tyler Bowyer's travel records and activities in Romania 2010.",
       "transcript_snippet": "the bottom of my inbox and I was saying,...\"I know that he went to Romania and was...trying to figure out what he was doing.\"...And they were like, \"Oh, I actually...talked to him about that.\" They were...super friendly about it. I talked to him...about that. And here's the conversation....Tyler writes, \"I went to Romania to do...some work with a senator in the...parliament there.\" And then he says,...\"And he was friends, meaning the senator...in Romania was friends with this guy",
       "confidence": "medium"
@@ -1372,10 +1372,10 @@
       ],
       "related_nodes": [
         "N-14",
-        "N-1033"
+        "N-1037"
       ],
       "tags": [],
-      "claim_timestamp": "29:47",
+      "claim_timestamp": "00:29:47",
       "investigative_direction": "Identify modeling agency owner and verify trip details.",
       "transcript_snippet": "about that. And here's the conversation....Tyler writes, \"I went to Romania to do...some work with a senator in the...parliament there.\" And then he says,...\"And he was friends, meaning the senator...in Romania was friends with this guy...that owned a modeling agency and took me...to the beach that's going to be in",
       "confidence": "medium"
@@ -1394,7 +1394,7 @@
         "N-14"
       ],
       "tags": [],
-      "claim_timestamp": "31:28",
+      "claim_timestamp": "00:31:28",
       "investigative_direction": "Obtain Erika's records of how she met Tyler Bowyer.",
       "transcript_snippet": "Who was the person in Romanian...Parliament that he was there to see? And...what was the name of the modeling...agency? I am dying to know...because it's gonna get real interesting...now, right? Erika just can't remember....She can't remember how she knows him....She can't remember how she met him. It",
       "confidence": "medium"
@@ -1414,7 +1414,7 @@
         "N-3"
       ],
       "tags": [],
-      "claim_timestamp": "36:06",
+      "claim_timestamp": "00:36:06",
       "investigative_direction": "Verify travel records and witnesses to this meeting.",
       "transcript_snippet": "pilgrimage, I guess, and there Charlie...was at the airport in Israel. You saw...him. Your mom said go up to him. She's a...pusher, right? Lori's a pusher. I always...thought it was so strange how you never...mentioned that I was at the airport with...Charlie. Just thought that was so weird....You never said that. I saw Charlie with",
       "confidence": "medium",
@@ -1431,10 +1431,10 @@
       ],
       "related_nodes": [
         "N-18",
-        "N-1034"
+        "N-1038"
       ],
       "tags": [],
-      "claim_timestamp": "36:50",
+      "claim_timestamp": "00:36:50",
       "investigative_direction": "Obtain Kentucky bar disciplinary records for 2009.",
       "transcript_snippet": "I would argue that he's a fraud....or actually I wouldn't argue it. It's...not my opinion. That was the bar's...opinion. Remember I told you he lost his...legal license in uh 2009....And I wasn't sure what or why or how. I...did know that his father Tony had...bestowed upon him some of that money. Uh",
       "confidence": "high"
@@ -1450,10 +1450,10 @@
       ],
       "related_nodes": [
         "N-18",
-        "N-1034"
+        "N-1038"
       ],
       "tags": [],
-      "claim_timestamp": "37:34",
+      "claim_timestamp": "00:37:34",
       "investigative_direction": "Obtain Kentucky bar investigation documents and court records.",
       "transcript_snippet": "dues. Um okay, my best guess is the...reason he stopped paying his dues in...Kentucky was that he was hoping that...they would stop their investigation into...him, but they didn't. We learned that in...2007 they then opened an investigation...into him for the following reasons....Reason number one is because while",
       "confidence": "high"
@@ -1471,7 +1471,7 @@
         "N-14"
       ],
       "tags": [],
-      "claim_timestamp": "55:14",
+      "claim_timestamp": "00:55:14",
       "investigative_direction": "Investigate Farnsworth family connections to Tyler Bowyer and Romania.",
       "transcript_snippet": "guy. Tyler Bowyer is drinking in Romania,...enjoying the models, the ladies. Who was...the person in Romanian parliament that...he went out to see? How does that...happen? Tyler was in college. Who set...that up? Could it have been a...Farnsworth? Very close with that family,...aren't you? They were in office. H I'll",
       "confidence": "low"
@@ -1490,7 +1490,7 @@
         "N-3"
       ],
       "tags": [],
-      "claim_timestamp": "13:44",
+      "claim_timestamp": "00:13:44",
       "investigative_direction": "Obtain original Andrea's Closet / Winslow hospital article and verify Erika's stated travel frequency.",
       "transcript_snippet": "that she plays in. The email we received...came from a very credible person. I will...leave it at that. I'm going to protect...this person's identity. They said that...is BS. That is BS. They explained to me...something I didn't know. Maybe you did,...but in the state of Arizona, 80% of the...population lives in Maricopa County. And",
       "confidence": "medium",
@@ -1511,7 +1511,7 @@
         "N-2"
       ],
       "tags": [],
-      "claim_timestamp": "43:32",
+      "claim_timestamp": "00:43:32",
       "investigative_direction": "Preserve original Blake Neff X post URL and timestamp; distinguish post text from host commentary.",
       "transcript_snippet": "Blake actually authored. This is not a...joke. Okay. He could not bear me...ridiculing Erika over Shabbat Shalom....Here's this is what he wrote on on X. I...have avoided commenting on most of what...Kenneth Owen's claims are the past few...months. However, her last episode...contains such a blatant untruth about...Charlie's daily life that I feel...compelled to correct it. In this",
       "confidence": "high"

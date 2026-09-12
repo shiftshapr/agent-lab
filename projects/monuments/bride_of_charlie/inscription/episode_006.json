@@ -10,7 +10,7 @@
     "video_timestamp_range": "00:01:00–01:00:20",
     "extraction_timestamp": "2026-09-04T23:08:57Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "5c89bbb2d901470a48d17d3a9a3ca5bf0c23769384d2be394c416d1fd40f77f9",
+    "transcript_sha256": "34f5d4923dae1e5b528c3e2f10f557745da8bf3cf07902005e54e8f624c99d6a",
     "analysis_date": "2026-09-04"
   },
   "executive_summary": "Episode 6 focuses on the timeline of 2010-2012, connecting Tyler Bowyer's deployment to Romania with the Black Sea Rotational Force, Erika Kirk's enrollment at Arizona State University, and various family connections. The episode presents historical context about Romania's 1989 revolution and the Ceaușescu execution, while exploring connections between military personnel, Nevada-based operations, and Erika's humanitarian projects in Romania. Multiple artifacts are referenced including the Everyday Heroes bio, news articles about military deployments, and podcast interviews.",
@@ -31,11 +31,11 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1040"
+            "N-1043"
           ],
           "tags": [],
           "event_timestamp": "2000-2003",
-          "video_timestamp": "01:14-01:51",
+          "video_timestamp": "00:01:14-00:01:51",
           "transcript_snippet": "First and foremost, a quick update for...you guys. Right at the top, we were able...to determine which middle school Erika...went to. Uh, it's called Cocopah Middle...School. I think that's how you say it....We did receive an email tip from someone...who informed us that Erika attended...Cocopah Middle School. Uh, we have not",
           "confidence": "high"
         }
@@ -56,11 +56,11 @@
             "C-1070"
           ],
           "related_nodes": [
-            "N-1041"
+            "N-1044"
           ],
           "tags": [],
           "event_timestamp": "December 25, 1989",
-          "video_timestamp": "03:44-05:59",
+          "video_timestamp": "00:03:44-00:05:59",
           "transcript_snippet": ">> The trial is brief and largely for show....It lasts about 2 hours and takes place...without any real possibility for defense...or appeal. Chiaoescu himself refuses to...recognize the court and calls it...illegal....But it doesn't matter. The tribunal...finds both him and Elena guilty.",
           "confidence": "high"
         }
@@ -82,12 +82,12 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1042",
-            "N-1048"
+            "N-1045",
+            "N-1052"
           ],
           "tags": [],
           "event_timestamp": "circa 2010",
-          "video_timestamp": "10:31-11:59",
+          "video_timestamp": "00:10:31-00:11:59",
           "transcript_snippet": "read that second paragraph. It says that...Lori for the past 12 years of her career...has been focused in the pioneering...research and development on disruptive...cyber technologies for applications...in relationship to the way humans think...and the importance of assessing what...happens if type technologies truly",
           "confidence": "high"
         }
@@ -110,11 +110,11 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-1043"
+            "N-1046"
           ],
           "tags": [],
           "event_timestamp": "2011",
-          "video_timestamp": "12:45-13:28",
+          "video_timestamp": "00:12:45-00:13:28",
           "transcript_snippet": "their thing in Constanta. And I just want...to stress how interesting it is to me...that the majority of the men are coming...from Reno, Nevada, the capital of casino...and gambling. Laws are loosening up in...Romania or actually rather monopolizing...I should say in Romania. And here is an...article which mentions that the chosen",
           "confidence": "high"
         }
@@ -135,12 +135,12 @@
             "C-1073"
           ],
           "related_nodes": [
-            "N-1043",
-            "N-1044"
+            "N-1046",
+            "N-1047"
           ],
           "tags": [],
           "event_timestamp": "May 4, 2011",
-          "video_timestamp": "13:45-14:28",
+          "video_timestamp": "00:13:45-00:14:28",
           "transcript_snippet": "arrive and they're also from Reno,...Nevada. Check out this article. I can't...even make this up. It says this year, it...says Romania students will give lessons...at schools and help teachers. You can...note that date in the corner, May 4th,...2011. And this year's cohort of students...includes two Nevada graduates, um, Alex",
           "confidence": "high"
         }
@@ -164,11 +164,11 @@
           "related_nodes": [
             "N-14",
             "N-1",
-            "N-1038"
+            "N-1042"
           ],
           "tags": [],
           "event_timestamp": "April 2011",
-          "video_timestamp": "15:15-15:51",
+          "video_timestamp": "00:15:15-00:15:51",
           "transcript_snippet": "April of 2011, at the end of his spring...semester, he is elected by the Arizona...Senate to serve as a student...representative to the Arizona Board of...Regents. It says that the state senate...has confirmed ASU undergraduate Tyler...Storm Bowyer as the new student regent for...the Arizona Board of Regents. It begins",
           "confidence": "high"
         }
@@ -196,7 +196,7 @@
           ],
           "tags": [],
           "event_timestamp": "circa 2010-2011",
-          "video_timestamp": "18:49-19:46",
+          "video_timestamp": "00:18:49-00:19:46",
           "transcript_snippet": "do know, however, is that it was Captain...Curtis Kolvet who was stationed in...Afghanistan....And yeah, that's Andrew Kolvet's...brother. Yeah, they sent the military...police from Nevada to head up the...transportation company from Afghanistan....And and Curtis Kolvet was the commander",
           "confidence": "high"
         }
@@ -223,7 +223,7 @@
           ],
           "tags": [],
           "event_timestamp": "2020",
-          "video_timestamp": "20:32-21:35",
+          "video_timestamp": "00:20:32-00:21:35",
           "transcript_snippet": "podcast in 2020 and she was reflecting...on her time in Romania in 2012 or 2013....And in this podcast, in this podcast,...she's speaking with someone who was...stationed uh in Romania and she's asking...him if the setup is the same from when...she was out there. Take a listen to...Erika.",
           "confidence": "high"
         }
@@ -248,7 +248,7 @@
           ],
           "tags": [],
           "event_timestamp": "November 2011",
-          "video_timestamp": "24:37-24:48",
+          "video_timestamp": "00:24:37-00:24:48",
           "transcript_snippet": "November, this is her comeup. Erika wins...the Miss Arizona competition in...November. Okay, that makes her Miss...Arizona for the next calendar year. So,...you win in 2011 and then you are Miss...Arizona for 2012. For those of you who...know nothing about the pageant world...like me, I had to realize that um",
           "confidence": "high"
         },
@@ -263,11 +263,11 @@
           "related_nodes": [
             "N-2",
             "N-14",
-            "N-1039"
+            "N-1051"
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "32:59–33:36",
+          "video_timestamp": "00:32:59–00:33:36",
           "transcript_snippet": "Erika pretending she does not remember...how she met Tyler Bowyer and both of them...changing their stories. Tyler Bowyer...responded to somebody on X and said he...met her. He met Erika um at the Trump...rally, but he maybe forgot. Maybe he had...another long night in Romania, but he...maybe forgot. But he had already given a",
           "confidence": "medium"
         }
@@ -294,7 +294,7 @@
           ],
           "tags": [],
           "event_timestamp": "February 7, 2008",
-          "video_timestamp": "42:56-45:08",
+          "video_timestamp": "00:42:56-00:45:08",
           "transcript_snippet": "listen....>> Sirens whale outside Kirkwood City Hall...in Missouri, the building that usually...houses mundane civic meetings became the...scene of a rampage Thursday night after...a gunman stormed the building and opened...fire. Two police officers and three city...officials were killed. The mayor was",
           "confidence": "high"
         }
@@ -319,7 +319,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "29:17–30:00",
+          "video_timestamp": "00:29:17–00:30:00",
           "transcript_snippet": "that later, but this is the tweet. Um,...you're noticing it says Sierra Santos....It is just to remind you the handle is...real Miss Arizona USA and who that is...changes every year. It's like the pus...handle on X. So Joe Biden might be...tweeting um or Trump might be tweeting...depending on who is actually the pus....Same way in pageant world. So this is...actually Erika tweeting back at someone",
           "confidence": "high"
         }
@@ -340,12 +340,12 @@
             "C-1084"
           ],
           "related_nodes": [
-            "N-1048",
-            "N-1060"
+            "N-1052",
+            "N-1070"
           ],
           "tags": [],
           "event_timestamp": "1994",
-          "video_timestamp": "31:23–31:32",
+          "video_timestamp": "00:31:23–00:31:32",
           "transcript_snippet": "worked in narcotics. Look at this. This...is in 1994 by the way. He's working...here. Um joint task force narcotics....It's giving Mitch Snow telling us about...Fort Wuka and how generals were working...with the cartels in 1990 got busted.",
           "confidence": "high"
         }
@@ -367,12 +367,12 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1048",
-            "N-1068"
+            "N-1052",
+            "N-1071"
           ],
           "tags": [],
           "event_timestamp": "June 7, 2012",
-          "video_timestamp": "28:03–28:30",
+          "video_timestamp": "00:28:03–00:28:30",
           "transcript_snippet": "June 7th of...2012, Erika is going to team up with...that Tracy Martin. Tracy says they met...backstage and they just decided to go...into uh do some good together. There uh...Tracy's making handbags. She's what we...refer to as a serial entrepreneur, life...coach, does a little bit of everything....Every bag you buy, Everyday Heroes and...the kids are going to get $25.",
           "confidence": "medium"
         }
@@ -397,7 +397,7 @@
           ],
           "tags": [],
           "event_timestamp": "July 2012",
-          "video_timestamp": "28:34–28:43",
+          "video_timestamp": "00:28:34–00:28:43",
           "transcript_snippet": "July, we find Erika featured in a music...video uh for Emerson Drive that went...pretty viral. That's She's My Kind of...Crazy. We had mentioned to you yesterday...that her boyfriend Tyler Sanford is...alongside with her. Um he's also cast in...that music video.",
           "confidence": "medium"
         }
@@ -545,8 +545,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1038",
-      "ref": "N-1038",
+      "@id": "N-1042",
+      "ref": "N-1042",
       "name": "Arizona Board of Regents",
       "type": "organization",
       "description": "Governing body of Arizona's public university system",
@@ -679,8 +679,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1040",
-      "ref": "N-1040",
+      "@id": "N-1043",
+      "ref": "N-1043",
       "name": "Cocopah Middle School",
       "type": "organization",
       "description": "Middle school in Scottsdale that Erika attended 2000-2003",
@@ -699,8 +699,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1041",
-      "ref": "N-1041",
+      "@id": "N-1044",
+      "ref": "N-1044",
       "name": "Romanian Revolution 1989",
       "type": "organization",
       "description": "Historical context of Ceaușescu execution on Christmas Day 1989",
@@ -719,8 +719,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1042",
-      "ref": "N-1042",
+      "@id": "N-1045",
+      "ref": "N-1045",
       "name": "Tech International",
       "type": "organization",
       "description": "Company run by Lori Frantzve with defense contracts",
@@ -739,8 +739,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1043",
-      "ref": "N-1043",
+      "@id": "N-1046",
+      "ref": "N-1046",
       "name": "Black Sea Rotational Force",
       "type": "organization",
       "description": "Marine unit deployed to Eastern Europe, majority from Reno Nevada",
@@ -759,8 +759,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1044",
-      "ref": "N-1044",
+      "@id": "N-1047",
+      "ref": "N-1047",
       "name": "Nevada-Romania Connection",
       "type": "topic",
       "description": "Pattern of Nevada-based individuals appearing in Romania timeline",
@@ -782,8 +782,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1045",
-      "ref": "N-1045",
+      "@id": "N-1048",
+      "ref": "N-1048",
       "name": "Reno Nevada",
       "type": "place",
       "description": "City in Nevada - source of many military personnel and students in timeline",
@@ -805,8 +805,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1046",
-      "ref": "N-1046",
+      "@id": "N-1049",
+      "ref": "N-1049",
       "name": "Constanta Romania",
       "type": "place",
       "description": "City in Romania where Black Sea Rotational Force was stationed",
@@ -827,8 +827,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1047",
-      "ref": "N-1047",
+      "@id": "N-1050",
+      "ref": "N-1050",
       "name": "Arizona State University",
       "type": "organization",
       "description": "University where Tyler Bowyer and Erika Kirk attended",
@@ -848,8 +848,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1039",
-      "ref": "N-1039",
+      "@id": "N-1051",
+      "ref": "N-1051",
       "name": "How Erika Met Tyler Bowyer",
       "type": "topic",
       "description": "Investigation into how Erika and Tyler actually met - conflicting stories",
@@ -866,8 +866,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1048",
-      "ref": "N-1048",
+      "@id": "N-1052",
+      "ref": "N-1052",
       "name": "Everyday Heroes Like You",
       "type": "organization",
       "description": "Erika's humanitarian organization",
@@ -889,8 +889,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-1060",
-      "ref": "N-1060",
+      "@id": "N-1070",
+      "ref": "N-1070",
       "name": "Hugo E. Salazar",
       "type": "person",
       "description": "Major General thanked in Everyday Heroes context; 1994 joint task force narcotics exhibit shown on-screen",
@@ -906,13 +906,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1048"
+        "N-1052"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-1068",
-      "ref": "N-1068",
+      "@id": "N-1071",
+      "ref": "N-1071",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Serial entrepreneur and life coach; 2012 handbag partnership with Everyday Heroes Like You",
@@ -928,13 +928,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1048"
+        "N-1052"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-1069",
-      "ref": "N-1069",
+      "@id": "N-1053",
+      "ref": "N-1053",
       "name": "Emerson Drive",
       "type": "organization",
       "description": "Country music band; Erika featured in July 2012 She's My Kind of Crazy music video",
@@ -953,8 +953,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1070",
-      "ref": "N-1070",
+      "@id": "N-1054",
+      "ref": "N-1054",
       "name": "Iranian War Community Notes Aside",
       "type": "topic",
       "description": "Host notes Turning Point figures community-noted on X for attributing views on the Iranian war contrary to Charlie Kirk's stated positions",
@@ -980,10 +980,10 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1040"
+        "N-1043"
       ],
       "tags": [],
-      "claim_timestamp": "01:14",
+      "claim_timestamp": "00:01:14",
       "investigative_direction": "Obtain yearbook records to confirm school years.",
       "transcript_snippet": "Charlie....We have nothing to hide....First and foremost, a quick update for...you guys. Right at the top, we were able...to determine which middle school Erika...went to. Uh, it's called Cocopah Middle...School. I think that's how you say it....We did receive an email tip from someone",
       "confidence": "high"
@@ -998,10 +998,10 @@
         "A-1042.1"
       ],
       "related_nodes": [
-        "N-1041"
+        "N-1044"
       ],
       "tags": [],
-      "claim_timestamp": "03:30",
+      "claim_timestamp": "00:03:30",
       "investigative_direction": "Historical facts are presented for context; verification not required.",
       "transcript_snippet": "like, you're already guilty. We're just...going to shoot you and kill you. So,...this was supposed to be the end of...communism. So, commun the communist...leaders had to go as well. And Nikolai...and Elena were quite literally lined up...and shot. And it was all filmed. And I'm...not going to show you that shooting",
       "confidence": "high"
@@ -1017,11 +1017,11 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-1042",
-        "N-1048"
+        "N-1045",
+        "N-1052"
       ],
       "tags": [],
-      "claim_timestamp": "10:31",
+      "claim_timestamp": "00:10:31",
       "investigative_direction": "Verify corporate records and defense contracts.",
       "transcript_snippet": "Lori. It's up. It was up on the Everyday...Heroes website. She had a bio that has...since been pulled down, but they go into...detail regarding what Aztec does. And I...want you to follow along with me. We'll...read this together. Okay. I'm going to...read that second paragraph. It says that...Lori for the past 12 years of her career",
       "confidence": "high"
@@ -1037,12 +1037,12 @@
       ],
       "related_nodes": [
         "N-14",
-        "N-1043",
-        "N-1045",
-        "N-1046"
+        "N-1046",
+        "N-1048",
+        "N-1049"
       ],
       "tags": [],
-      "claim_timestamp": "12:45",
+      "claim_timestamp": "00:12:45",
       "investigative_direction": "Verify military deployment records.",
       "transcript_snippet": "to interview her or Erika to deeply...understand it. I just want to get real...cerebral with them, you know, explain it...to me like I'm two....Let's now pick up in 2011. Okay, so the...Black Sea rotation of force is doing...their thing in Constanta. And I just want...to stress how interesting it is to me",
       "confidence": "high"
@@ -1057,11 +1057,11 @@
         "A-1045.1"
       ],
       "related_nodes": [
-        "N-1044",
-        "N-1045"
+        "N-1047",
+        "N-1048"
       ],
       "tags": [],
-      "claim_timestamp": "13:45",
+      "claim_timestamp": "00:13:45",
       "investigative_direction": "Verify student exchange records.",
       "transcript_snippet": "counterinsurgency techniques. We get it....We're just missing one piece of the...puzzle. What about the researchers? What...about the Dr. Frantzve type students?...Well, there always has to be a group of...student researchers at the same time....And you won't believe it, but some...arrive and they're also from Reno,",
       "confidence": "high"
@@ -1077,11 +1077,11 @@
       ],
       "related_nodes": [
         "N-14",
-        "N-1038",
-        "N-1047"
+        "N-1042",
+        "N-1050"
       ],
       "tags": [],
-      "claim_timestamp": "15:15",
+      "claim_timestamp": "00:15:15",
       "investigative_direction": "Verify Arizona Senate records.",
       "transcript_snippet": "Tyler Bowyer's back. He's fresh...back from his trip to Romania. The...models, the girls, the bottles, he's...popping them. And uh he is still a...student, I should mention, at Arizona...State University. And Tyler Bowyer then...immediately falls into some luck. In...April of 2011, at the end of his spring",
       "confidence": "high"
@@ -1099,10 +1099,10 @@
         "N-2",
         "N-14",
         "N-1",
-        "N-1047"
+        "N-1050"
       ],
       "tags": [],
-      "claim_timestamp": "15:54",
+      "claim_timestamp": "00:15:54",
       "investigative_direction": "Obtain enrollment records and compare timelines.",
       "transcript_snippet": "that's interesting. Now, in case you're...wondering what what they do, what that...the border regions does, it's the...governing body of Arizona's public...university system. They're in charge of...policies....Okay....Lo and behold, after he's put into place",
       "confidence": "medium"
@@ -1119,10 +1119,10 @@
       "related_nodes": [
         "N-37",
         "N-39",
-        "N-1044"
+        "N-1047"
       ],
       "tags": [],
-      "claim_timestamp": "18:49",
+      "claim_timestamp": "00:18:49",
       "investigative_direction": "Verify military service records.",
       "transcript_snippet": "how exactly they were able to get enough...of those poppy seeds to cause an entire...opioid crisis. How did they do it,...right? Like, who was in control of...transporting all of those flowers during...a time of war? We'll never know. What we...do know, however, is that it was Captain...Curtis Kolvet who was stationed in",
       "confidence": "high"
@@ -1139,10 +1139,10 @@
       "related_nodes": [
         "N-38",
         "N-39",
-        "N-1044"
+        "N-1047"
       ],
       "tags": [],
-      "claim_timestamp": "19:49",
+      "claim_timestamp": "00:19:49",
       "investigative_direction": "Verify military service records.",
       "transcript_snippet": "transporting personnel and supplies...through the highra dangerous environment...of Kabell. He was the regional command...captain. Wow, it's amazing....And uh just like the Facebook caption is...going to say, he wasn't the only Kolvet...that was there. He was also serving with...his first cousin, Robert Kolvet.",
       "confidence": "high"
@@ -1158,10 +1158,10 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1046"
+        "N-1049"
       ],
       "tags": [],
-      "claim_timestamp": "20:32",
+      "claim_timestamp": "00:20:32",
       "investigative_direction": "Verify podcast content and military logistics records.",
       "transcript_snippet": "they were commanding Bulgarians,...Romanians, well, because everything from...Afghanistan was running through Romania...and Bulgaria, emphasis on Romania. I...know this because Erika actually did a...podcast in 2020 and she was reflecting...on her time in Romania in 2012 or 2013....And in this podcast, in this podcast,",
       "confidence": "high"
@@ -1180,7 +1180,7 @@
         "N-36"
       ],
       "tags": [],
-      "claim_timestamp": "21:50",
+      "claim_timestamp": "00:21:50",
       "investigative_direction": "Verify travel records and base access.",
       "transcript_snippet": "from Afghanistan. Interesting. Elsewhere...in that same interview, Erika reflects...upon her distant cousin. She means...Dennis Frantzve who shows her around the...base in Romania when she gets there....Take a listen to Erika in her own words....The reason why I even went over there is...that one of my um on my dad's side, his",
       "confidence": "high"
@@ -1198,7 +1198,7 @@
         "N-2"
       ],
       "tags": [],
-      "claim_timestamp": "24:37",
+      "claim_timestamp": "00:24:37",
       "investigative_direction": "Verify pageant competition records.",
       "transcript_snippet": "University for her final year of school....Nobody knows how uh but she's able to...then graduate cumloud. She has the same...thing her mother had. slips and falls,...becomes a genius, um, and is and is able...to manage this double major. In...November, this is her comeup. Erika wins...the Miss Arizona competition in...November. Okay, that makes her Miss...Arizona for the next calendar year.",
       "confidence": "high"
@@ -1215,10 +1215,10 @@
       "related_nodes": [
         "N-2",
         "N-14",
-        "N-1039"
+        "N-1051"
       ],
       "tags": [],
-      "claim_timestamp": "32:59",
+      "claim_timestamp": "00:32:59",
       "investigative_direction": "Obtain direct testimony from both parties.",
       "transcript_snippet": "Erika pretending she does not remember...how she met Tyler Bowyer and both of them...changing their stories. Tyler Bowyer...responded to somebody on X and said he...met her. He met Erika um at the Trump...rally, but he maybe forgot. Maybe he had...another long night in Romania, but he...maybe forgot. But he had already given a",
       "confidence": "medium"
@@ -1237,7 +1237,7 @@
         "N-41"
       ],
       "tags": [],
-      "claim_timestamp": "42:56",
+      "claim_timestamp": "00:42:56",
       "investigative_direction": "Verify news footage and Strife's location at that time.",
       "transcript_snippet": "regarding that shooting in Missouri in...2008, he appears in news clip uh and he...speaks about Cookie. I don't know if he...was working at the city council hall. He...definitely sounds familiar with what's...going on. I'm just going to let you...listen to him in his own words. Take a...listen.",
       "confidence": "medium"
@@ -1258,7 +1258,7 @@
         "N-2"
       ],
       "tags": [],
-      "claim_timestamp": "42:56",
+      "claim_timestamp": "00:42:56",
       "investigative_direction": "Verify specific connections and timelines.",
       "transcript_snippet": "listen....>> Sirens whale outside Kirkwood City Hall...in Missouri, the building that usually...houses mundane civic meetings became the...scene of a rampage Thursday night after...a gunman stormed the building and opened...fire. Two police officers and three city...officials were killed. The mayor was",
       "confidence": "medium"
@@ -1273,12 +1273,12 @@
         "A-1052.1"
       ],
       "related_nodes": [
-        "N-1060",
-        "N-1048",
+        "N-1070",
+        "N-1052",
         "N-2"
       ],
       "tags": [],
-      "claim_timestamp": "31:23",
+      "claim_timestamp": "00:31:23",
       "investigative_direction": "Obtain military service records to verify Salazar's 1994 narcotics assignment.",
       "transcript_snippet": "E. Salazar. Uh he was formerly...worked in narcotics. Look at this. This...is in 1994 by the way. He's working...here. Um joint task force narcotics.",
       "confidence": "high"
@@ -1294,11 +1294,11 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1068",
-        "N-1048"
+        "N-1071",
+        "N-1052"
       ],
       "tags": [],
-      "claim_timestamp": "28:03",
+      "claim_timestamp": "00:28:03",
       "investigative_direction": "Verify handbag partnership announcements and Everyday Heroes fundraising records for June 2012.",
       "transcript_snippet": "June 7th of...2012, Erika is going to team up with...that Tracy Martin. Tracy says they met...backstage and they just decided to go...into uh do some good together....Every bag you buy, Everyday Heroes and...the kids are going to get $25.",
       "confidence": "medium"
@@ -1314,10 +1314,10 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1069"
+        "N-1053"
       ],
       "tags": [],
-      "claim_timestamp": "28:34",
+      "claim_timestamp": "00:28:34",
       "investigative_direction": "Obtain the music video and credits to confirm Erika's appearance and date.",
       "transcript_snippet": "July, we find Erika featured in a music...video uh for Emerson Drive that went...pretty viral. That's She's My Kind of...Crazy....her boyfriend Tyler Sanford is...alongside with her. Um he's also cast in...that music video.",
       "confidence": "medium"
@@ -1333,7 +1333,7 @@
       "occurrences": [
         {
           "episode": 6,
-          "video_timestamp": "16:10",
+          "video_timestamp": "00:16:10",
           "speaker_node_ref": "N-7",
           "quote": "There's just so much synergy here.",
           "context": "Host sarcastically noting pattern of coincidences between Tyler Bowyer's military and academic timeline and Erika's enrollment",
@@ -1345,7 +1345,7 @@
         },
         {
           "episode": 6,
-          "video_timestamp": "22:44",
+          "video_timestamp": "00:22:44",
           "speaker_node_ref": "N-7",
           "quote": "Yeah. Erika, you know, there is just so much synergy building, right?",
           "context": "Host again noting apparent coincidences between Kolvets, Frantzves, and Bowyers in Romania",
@@ -1366,7 +1366,7 @@
       "occurrences": [
         {
           "episode": 6,
-          "video_timestamp": "14:34",
+          "video_timestamp": "00:14:34",
           "speaker_node_ref": "N-7",
           "quote": "Now, this all could just be a happy coincidence.",
           "context": "Host introducing the pattern of Nevada-Romania connections",
@@ -1378,7 +1378,7 @@
         },
         {
           "episode": 6,
-          "video_timestamp": "23:07",
+          "video_timestamp": "00:23:07",
           "speaker_node_ref": "N-7",
           "quote": "It's much more likely that Erika just happened to enroll in Arizona State University... I'm sure this is all happy coincidence",
           "context": "Host sarcastically dismissing claimed coincidences",
@@ -1399,7 +1399,7 @@
       "occurrences": [
         {
           "episode": 6,
-          "video_timestamp": "14:36",
+          "video_timestamp": "00:14:36",
           "speaker_node_ref": "N-7",
           "quote": "Unless you're a conspiracy theorist like me",
           "context": "Host self-identifying as conspiracy theorist while investigating patterns",
@@ -1411,7 +1411,7 @@
         },
         {
           "episode": 6,
-          "video_timestamp": "14:53",
+          "video_timestamp": "00:14:53",
           "speaker_node_ref": "N-7",
           "quote": "Like I said, you shouldn't be like me. Don't be a conspiracy theorist.",
           "context": "Host telling viewers not to be conspiracy theorists while presenting theory",

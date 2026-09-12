@@ -10,7 +10,7 @@
     "video_timestamp_range": "00:01:00–00:49:58",
     "extraction_timestamp": "2026-09-04T23:10:41Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "16fd7f123b8554756ee2c00710d303da99ce576ddb5d7370cac33cc7ebd1ccf3",
+    "transcript_sha256": "50556b0953c4ed070732b46a7bc4466451e58920c429bce53867c2d317c65194",
     "analysis_date": "2026-09-04"
   },
   "executive_summary": "Episode 8 continues the investigation into Erika Kirk, presenting evidence about her background at Tesseract School/Notre Dame Prep under Bishop Thomas J. O'Brien, who faced felony charges and a grand jury investigation for covering up priest abuse. The episode details Erika's timeline from 2015-2018, including her employment at Next Model Management, formation of multiple LLCs by her mother Lori, and her introduction to Charlie Kirk via Tyler Bowyer. A significant new claim alleges Erika had undisclosed connections to Kanye's inner circle during the Blexit controversy, potentially influencing Kanye's tweets that damaged Candace and Charlie's reputation. The episode concludes by drawing parallels between Erika and the Kouri Richins murder case.",
@@ -31,11 +31,11 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1051"
+            "N-1058"
           ],
           "tags": [],
           "event_timestamp": "2001",
-          "video_timestamp": "02:09-02:25",
+          "video_timestamp": "00:02:09-00:02:25",
           "transcript_snippet": "inexplicably vanished. Just evaporated...into thin air. The school went bankrupt...and that's where Erika went for...elementary school. So, it's like...literally Ohio and then she goes to...Arizona and it's got these financial...things kind of just surrounding them and...then we happened upon some interesting",
           "confidence": "high"
         },
@@ -49,11 +49,11 @@
           ],
           "related_nodes": [
             "N-47",
-            "N-1051"
+            "N-1058"
           ],
           "tags": [],
           "event_timestamp": "2001",
-          "video_timestamp": "03:17-03:30",
+          "video_timestamp": "00:03:17-00:03:30",
           "transcript_snippet": "Tesseract that after they filed for...bankruptcy in 2001,...they put their old campus up for sale...and it was purchased by the Diocese of...Phoenix. When they then turned it into...Notre Dame Prep, where Erika then...enrolls for high school. Now, this...decision and the process was overseen by",
           "confidence": "high"
         }
@@ -76,11 +76,11 @@
           ],
           "related_nodes": [
             "N-47",
-            "N-1052"
+            "N-1059"
           ],
           "tags": [],
           "event_timestamp": "2003",
-          "video_timestamp": "04:28-04:58",
+          "video_timestamp": "00:04:28-00:04:58",
           "transcript_snippet": "I was just like, \"This how could this be...possible?\" I'm just doing a little bit...of research. How is everybody just going...to be involved in scandals? We're...running what he did. He killed somebody....Accidentally, he says. He was arrested...for a hit-and-run in 2003 that killed...Jim Lee Reed, but by a hit-and-run I",
           "confidence": "high"
         },
@@ -94,11 +94,11 @@
           ],
           "related_nodes": [
             "N-47",
-            "N-1052"
+            "N-1059"
           ],
           "tags": [],
           "event_timestamp": "2002",
-          "video_timestamp": "05:29-05:56",
+          "video_timestamp": "00:05:29-00:05:56",
           "transcript_snippet": "then in 2002, this is Maricopa County,...you guys. I just I'm going to just...assume everything that happened in...Maricopa County is is problematic at...this point. But in 2002, uh, prosecutors...initiated a grand jury investigation...into charges of sexual abuse uh, by...Catholic priests, uh, priests in",
           "confidence": "high"
         }
@@ -121,11 +121,11 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1053"
+            "N-1060"
           ],
           "tags": [],
           "event_timestamp": "2015-11",
-          "video_timestamp": "08:41-08:59",
+          "video_timestamp": "00:08:41-00:08:59",
           "transcript_snippet": "establishes G-Tech Industries LLC. I...know you're going to say, \"What is What...does it do?\"...Um, you know, it's Lori, so it's like...this she's doing this whole EMP thing...and she's getting money and she's saying...this is the threat and she's working...with people that she knows and she's",
           "confidence": "high"
         },
@@ -140,11 +140,11 @@
           "related_nodes": [
             "N-3",
             "N-11",
-            "N-1054"
+            "N-1061"
           ],
           "tags": [],
           "event_timestamp": "2018-12-31",
-          "video_timestamp": "28:35-28:59",
+          "video_timestamp": "00:28:35-00:28:59",
           "transcript_snippet": "December 31st, the end of the year...Feed Me Incorporated is formed....Feed Me Incorporated will eventually...become Superfeed Technologies. Superfeed...Technologies is the company that both uh...Erika's mother and Tyler Bowyer are on...the board of....Okay?",
           "confidence": "high"
         },
@@ -158,11 +158,11 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-1053"
+            "N-1060"
           ],
           "tags": [],
           "event_timestamp": "2016",
-          "video_timestamp": "12:39-12:57",
+          "video_timestamp": "00:12:39-00:12:57",
           "transcript_snippet": "A little fun fact here, Saxon Capital...Group is actually Lori. Lori is an 86%...owner of Saxon Capital Group. They...released this onto PR Newswire and then...it turns out that years later Saxon...Capital Group with Lori as a minor...partner they're going to file for an IPO...and they're like, yeah, no we actually",
           "confidence": "high"
         },
@@ -176,11 +176,11 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1057"
+            "N-1064"
           ],
           "tags": [],
           "event_timestamp": "2016",
-          "video_timestamp": "10:54–11:12",
+          "video_timestamp": "00:10:54–00:11:12",
           "transcript_snippet": "future, she's going to claim that this...is the year that she launched Bible in...365....On a future post she says in 2016, I...started Bible in 365 in my New York City...apartment. That is objectively untrue...according to corporate filings, okay?...That just did not happen, but she",
           "confidence": "medium"
         }
@@ -206,7 +206,7 @@
           ],
           "tags": [],
           "event_timestamp": "2017-02-01",
-          "video_timestamp": "14:00-14:59",
+          "video_timestamp": "00:14:00-00:14:59",
           "transcript_snippet": "that's called Black Starts by Patricia...Patrick....The documentary also features the CIA...director James Woolsey. Now, I want to...say...this documentary is about EMP attacks,...right? How the government needs to...prepare for them. So, it's a bit more of",
           "confidence": "high"
         }
@@ -229,11 +229,11 @@
           ],
           "related_nodes": [
             "N-52",
-            "N-1001"
+            "N-1000"
           ],
           "tags": [],
           "event_timestamp": "2023",
-          "video_timestamp": "33:14-33:28",
+          "video_timestamp": "00:33:14-00:33:28",
           "transcript_snippet": "regarding Kouri Richins,...a New York Post article that said,...\"Grief author Kouri Richins found guilty...of fatally poisoning her husband for his...$4 million estate.\" And Matt Walsh...comments and writes, \"There's no good...moral reason why she should not simply...be taken outside the morning after her",
           "confidence": "high"
         },
@@ -250,7 +250,7 @@
           ],
           "tags": [],
           "event_timestamp": "2022",
-          "video_timestamp": "34:28-34:42",
+          "video_timestamp": "00:34:28-00:34:42",
           "transcript_snippet": "Richins who had not yet been arrested a...year later, um,...promoting her book....Joining us now is author of Are You With...Me? Kouri Richins [music] to share her...three C's to helping kids cope with...grief. And Kouri, I want to start with...your story. What happened in your",
           "confidence": "high"
         },
@@ -267,7 +267,7 @@
           ],
           "tags": [],
           "event_timestamp": "2022",
-          "video_timestamp": "37:20-37:38",
+          "video_timestamp": "00:37:20-00:37:38",
           "transcript_snippet": "We're going to listen to the first part,...actually most of the 911 call again....I ask that as you listen to it,...you'll hear the first minute....The first minute is not the sound of a...wife becoming a widow....To echo her friend Chelsea Barney,...the first minute is the sound of a wife",
           "confidence": "high"
         }
@@ -292,7 +292,7 @@
           ],
           "tags": [],
           "event_timestamp": "2018-10",
-          "video_timestamp": "24:04-24:25",
+          "video_timestamp": "00:24:04-00:24:25",
           "transcript_snippet": "tweets. He writes, \"I introduced Candace...to the person who made the logo and they...didn't want their name on it, so she...used mine. I never wanted any...association with Blexit. I have nothing...to do with it.\" He then follows that up...by saying, \"My eyes are now wide open...and now realize that I have been used to",
           "confidence": "high"
         }
@@ -317,7 +317,7 @@
           ],
           "tags": [],
           "event_timestamp": "2018-10-24",
-          "video_timestamp": "23:01-23:24",
+          "video_timestamp": "00:23:01-00:23:24",
           "transcript_snippet": "somehow becomes a licensed real estate...agent in New York and is immediately...employed by Corcoran Real Estate Group....And we went back and people have reached...out to us. Erika, it looks like did a...total...of...three possible rentals under somebody",
           "confidence": "medium"
         }
@@ -344,7 +344,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "00:03–00:28",
+          "video_timestamp": "00:00:03–00:00:28",
           "transcript_snippet": "everyone except Andrew Kolvet. Yeah,...because yesterday he went on to Dave...Rubin show...and he said that Erika was not seeking...the spotlight. Take a listen to this....Erika has always been tremendous and she...never sought the limelight. She was...always very happy to sort of be doing",
           "confidence": "high"
         }
@@ -370,7 +370,7 @@
           ],
           "tags": [],
           "event_timestamp": "2018-04-07",
-          "video_timestamp": "19:18–20:13",
+          "video_timestamp": "00:19:18–00:20:13",
           "transcript_snippet": "timeline that it's on April 7th that...Charlie predicts his own death and says...that he knows that it is going to be...associated with Turning Point USA. I...just find that point to be very...interesting. And...he says I I if I tell you the true...prophecy I know in my gut it's really...sad. I I hope it's wrong. He goes on to...say, I'm not sure I am going I will live",
           "confidence": "high"
         }
@@ -393,7 +393,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "45:08–45:25",
+          "video_timestamp": "00:45:08–00:45:25",
           "transcript_snippet": "_lindsmac...on Twitter goes by realtruthrealjustice....I I just wanted to shout her out in in...particular um for the hashtag...hashtagjusticeforcharlie.",
           "confidence": "high"
         },
@@ -410,7 +410,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "47:45–47:54",
+          "video_timestamp": "00:47:45–00:47:54",
           "transcript_snippet": "General Flynn is also speaking...and he wrote a Substack yesterday about...how Catholics have been under attack and...it's despicable.",
           "confidence": "medium"
         }
@@ -752,8 +752,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1051",
-      "ref": "N-1051",
+      "@id": "N-1058",
+      "ref": "N-1058",
       "name": "Tesseract School / Notre Dame Prep",
       "type": "organization",
       "description": "Arizona school that went bankrupt in 2001, was purchased by Diocese of Phoenix and became Notre Dame Prep where Erika attended high school",
@@ -773,8 +773,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1052",
-      "ref": "N-1052",
+      "@id": "N-1059",
+      "ref": "N-1059",
       "name": "Diocese of Phoenix",
       "type": "organization",
       "description": "Catholic diocese that purchased Tesseract campus and employed Bishop O'Brien",
@@ -797,8 +797,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1053",
-      "ref": "N-1053",
+      "@id": "N-1060",
+      "ref": "N-1060",
       "name": "G-Tech Industries LLC",
       "type": "organization",
       "description": "Company founded by Lori Frantzve in November 2015, related to EMP fear-mongering",
@@ -818,8 +818,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1054",
-      "ref": "N-1054",
+      "@id": "N-1061",
+      "ref": "N-1061",
       "name": "Feed Me Incorporated / Superfeed Technologies",
       "type": "organization",
       "description": "Company formed December 31, 2018 with Lori Frantzve and Tyler Bowyer on board",
@@ -838,8 +838,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1001",
-      "ref": "N-1001",
+      "@id": "N-1000",
+      "ref": "N-1000",
       "name": "Turning Point USA",
       "type": "organization",
       "description": "Conservative organization founded by Charlie Kirk",
@@ -859,8 +859,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1055",
-      "ref": "N-1055",
+      "@id": "N-1062",
+      "ref": "N-1062",
       "name": "Erika's Financial Situation 2015-2018",
       "type": "topic",
       "description": "Unclear how Erika afforded lifestyle including NYC apartment and international travel without apparent employment",
@@ -881,8 +881,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1056",
-      "ref": "N-1056",
+      "@id": "N-1063",
+      "ref": "N-1063",
       "name": "Erika's Kanye Connection",
       "type": "topic",
       "description": "Allegation that Erika had undisclosed connections to Kanye's circle during Blexit controversy",
@@ -901,8 +901,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1057",
-      "ref": "N-1057",
+      "@id": "N-1064",
+      "ref": "N-1064",
       "name": "Bible in 365 Claim",
       "type": "topic",
       "description": "Erika claims she launched Bible in 365 in 2016, but corporate filings do not support this",
@@ -919,8 +919,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1058",
-      "ref": "N-1058",
+      "@id": "N-1065",
+      "ref": "N-1065",
       "name": "Maricopa County",
       "type": "place",
       "description": "Arizona county where Bishop O'Brien's cases were prosecuted",
@@ -939,8 +939,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1059",
-      "ref": "N-1059",
+      "@id": "N-1066",
+      "ref": "N-1066",
       "name": "New York City",
       "type": "place",
       "description": "Where Erika lived in 2016-2018 while working at Next Model Management",
@@ -975,7 +975,7 @@
         "N-1"
       ],
       "tags": [],
-      "claim_timestamp": "00:03",
+      "claim_timestamp": "00:00:03",
       "investigative_direction": "Obtain the full Dave Rubin interview with Andrew Kolvet.",
       "transcript_snippet": "everyone except Andrew Kolvet. Yeah,...because yesterday he went on to Dave...Rubin show...and he said that Erika was not seeking...the spotlight. Take a listen to this....Erika has always been tremendous and she...never sought the limelight. She was...always very happy to sort of be doing",
       "confidence": "high"
@@ -993,11 +993,11 @@
       "related_nodes": [
         "N-2",
         "N-47",
-        "N-1051",
-        "N-1052"
+        "N-1058",
+        "N-1059"
       ],
       "tags": [],
-      "claim_timestamp": "03:30-03:36",
+      "claim_timestamp": "00:03:30-00:03:36",
       "investigative_direction": "Obtain school enrollment records to verify Erika's attendance at Notre Dame Prep.",
       "transcript_snippet": "Tesseract that after they filed for...bankruptcy in 2001,...they put their old campus up for sale...and it was purchased by the Diocese of...Phoenix. When they then turned it into...Notre Dame Prep, where Erika then...enrolls for high school. Now, this...decision and the process was overseen by",
       "confidence": "high"
@@ -1014,10 +1014,10 @@
       "related_nodes": [
         "N-47",
         "N-48",
-        "N-1052"
+        "N-1059"
       ],
       "tags": [],
-      "claim_timestamp": "04:21-04:28",
+      "claim_timestamp": "00:04:21-00:04:28",
       "investigative_direction": "Obtain court records from the 2003 hit-and-run case to verify details.",
       "transcript_snippet": "evangelical. Doesn't matter if he was...going to mass every day....Go after Candace for telling the truth...because donors, okay? Weird. Anyway, he...was the bishop until 2003 when he...received the distinct honor of becoming...the very first Catholic bishop...in America to ever be charged with a",
       "confidence": "high"
@@ -1033,11 +1033,11 @@
       ],
       "related_nodes": [
         "N-47",
-        "N-1052",
-        "N-1058"
+        "N-1059",
+        "N-1065"
       ],
       "tags": [],
-      "claim_timestamp": "05:29-06:07",
+      "claim_timestamp": "00:05:29-00:06:07",
       "investigative_direction": "Obtain grand jury investigation records from Maricopa County.",
       "transcript_snippet": "big dog. Remarkably, uh, Thomas O'Brien...only got 4 years of probation for this....The Vatican, of course, then accepted...his resignation. He staffs, though, the...school that Erika then attends. And um,...that's by the way, is not going to spell...the end of his legal trouble because...then in 2002, this is Maricopa County,",
       "confidence": "high"
@@ -1054,10 +1054,10 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-1053"
+        "N-1060"
       ],
       "tags": [],
-      "claim_timestamp": "08:41-13:04",
+      "claim_timestamp": "00:08:41-00:13:04",
       "investigative_direction": "Obtain corporate filings and contract records for G-Tech Industries and Saxon Capital Group.",
       "transcript_snippet": "Montreal...uh, through to Estero, uh, Quebec....Again, not knowing how she is affording...this lifestyle. She is traveling with...Nicole Rothstein....Um, we have that in November, her mother...establishes G-Tech Industries LLC. I...know you're going to say, \"What is What",
       "confidence": "high"
@@ -1073,11 +1073,11 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1057",
-        "N-1059"
+        "N-1064",
+        "N-1066"
       ],
       "tags": [],
-      "claim_timestamp": "10:54-11:12",
+      "claim_timestamp": "00:10:54-00:11:12",
       "investigative_direction": "Obtain corporate filings for Bible in 365 to verify founding date.",
       "transcript_snippet": "future, she's going to claim that this...is the year that she launched Bible in...365....On a future post she says in 2016, I...started Bible in 365 in my New York City...apartment. That is objectively untrue...according to corporate filings, okay?...That just did not happen, but she",
       "confidence": "medium",
@@ -1099,7 +1099,7 @@
         "N-50"
       ],
       "tags": [],
-      "claim_timestamp": "14:00-14:59",
+      "claim_timestamp": "00:14:00-00:14:59",
       "investigative_direction": "Obtain a copy of the documentary and verify Erika's role and connections.",
       "transcript_snippet": "you know, please let me know. Maybe...you've worked with the Elm Group. I'm...going to go with Erika's kind of doing...what her mom does and just creating a...lot of LLCs. There's no description that...is offered on those documents. On...February 1st, as you guys may have seen,...she then appears in this documentary",
       "confidence": "high"
@@ -1118,10 +1118,10 @@
         "N-11",
         "N-46",
         "N-44",
-        "N-1055"
+        "N-1062"
       ],
       "tags": [],
-      "claim_timestamp": "23:01",
+      "claim_timestamp": "00:23:01",
       "investigative_direction": "Obtain employment records and financial documents to verify income sources.",
       "transcript_snippet": "somehow becomes a licensed real estate...agent in New York and is immediately...employed by Corcoran Real Estate Group....And we went back and people have reached...out to us. Erika, it looks like did a...total...of...three possible rentals under somebody",
       "confidence": "high"
@@ -1138,11 +1138,11 @@
       "related_nodes": [
         "N-2",
         "N-14",
-        "N-1001",
-        "N-1059"
+        "N-1000",
+        "N-1066"
       ],
       "tags": [],
-      "claim_timestamp": "23:01-23:29",
+      "claim_timestamp": "00:23:01-00:23:29",
       "investigative_direction": "Obtain real estate licensing records from New York State.",
       "transcript_snippet": "things that Charlie wants to hear....And there begins their relationship, you...could say, like in September when they...meet at that restaurant....Then comes October 24th and Erika...somehow becomes a licensed real estate...agent in New York and is immediately...employed by Corcoran Real Estate Group.",
       "confidence": "medium"
@@ -1161,10 +1161,10 @@
         "N-1",
         "N-2",
         "N-51",
-        "N-1056"
+        "N-1063"
       ],
       "tags": [],
-      "claim_timestamp": "25:06-27:02",
+      "claim_timestamp": "00:25:06-00:27:02",
       "investigative_direction": "Obtain evidence from the New York woman who provided proof of Erika's claims about knowing Kanye's circle.",
       "transcript_snippet": "pressure he's going through.\" And...Charlie and me were just devastated. We...were devastated by this because it made...us look like we were liars, okay? And it...we were in a position where people...wanted to see us fall, okay? Why am I...telling you this?...I get reached out So I mean, somebody",
       "confidence": "medium",
@@ -1184,11 +1184,11 @@
         "N-2",
         "N-3",
         "N-14",
-        "N-1054",
-        "N-1001"
+        "N-1061",
+        "N-1000"
       ],
       "tags": [],
-      "claim_timestamp": "28:35-29:06",
+      "claim_timestamp": "00:28:35-00:29:06",
       "investigative_direction": "Obtain corporate records for Feed Me Incorporated and Superfeed Technologies to verify board membership and timing.",
       "transcript_snippet": "Okay? So she sits down with Charlie....Suddenly, she gets her real estate...license. Um yeah, Kanye's tweeting...\"Peace out, Blexit.\" Erika uh then films...Summer House, but look at December 31st,...though....December 31st, the end of the year...Feed Me Incorporated is formed.",
       "confidence": "high"
@@ -1209,7 +1209,7 @@
         "N-53"
       ],
       "tags": [],
-      "claim_timestamp": "32:21-41:11",
+      "claim_timestamp": "00:32:21-00:41:11",
       "investigative_direction": "Compare Matt Walsh's public statements on both cases.",
       "transcript_snippet": "Okay, so I absolutely have to comment on...Matt Walsh for a tweet that he put out...yesterday. I just because I was like...Mhm, question mark here. So, he has very...much been on the side of how dare you,...how dare you talk to a grieving widow,...kind of making claims that various data...points being introduced like, oh, Erika...lied pathologically....regarding Kouri Richins,...a New York Post article that said,...\"Grief author Kouri Richins found guilty...of fatally poisoning her husband for his...$4 million estate.\" And Matt Walsh...comments and writes, \"There's no good...moral reason why she should not simply...be taken outside the morning after her...conviction and hanged....Kouri Richens, the woman that you...believe should be hanged for poisoning...her husband on the basis of...circumstantial evidence, would probably...today be considered a brave single...mother trying to clean up the mess left...behind by her husband's untimely death.",
       "confidence": "high"
@@ -1228,7 +1228,7 @@
         "N-2"
       ],
       "tags": [],
-      "claim_timestamp": "33:14",
+      "claim_timestamp": "00:33:14",
       "investigative_direction": "Analyze similarities and differences between the two cases.",
       "transcript_snippet": "regarding Kouri Richins,...a New York Post article that said,...\"Grief author Kouri Richins found guilty...of fatally poisoning her husband for his...$4 million estate.\" And Matt Walsh...comments and writes, \"There's no good...moral reason why she should not simply...be taken outside the morning after her",
       "confidence": "medium",
@@ -1248,7 +1248,7 @@
         "N-7"
       ],
       "tags": [],
-      "claim_timestamp": "19:18",
+      "claim_timestamp": "00:19:18",
       "investigative_direction": "Preserve full message thread screenshots and metadata for April 7, 2018.",
       "transcript_snippet": "timeline that it's on April 7th that...Charlie predicts his own death and says...that he knows that it is going to be...associated with Turning Point USA. I...just find that point to be very...interesting. And...he says I I if I tell you the true...prophecy I know in my gut it's really...sad. I I hope it's wrong. He goes on to...say, I'm not sure I am going I will live",
       "confidence": "high"
@@ -1266,7 +1266,7 @@
         "N-7"
       ],
       "tags": [],
-      "claim_timestamp": "47:45",
+      "claim_timestamp": "00:47:45",
       "investigative_direction": "Obtain Flynn Substack post URL and publication date.",
       "transcript_snippet": "General Flynn is also speaking...and he wrote a Substack yesterday about...how Catholics have been under attack and...it's despicable.",
       "confidence": "medium",
@@ -1283,7 +1283,7 @@
       "occurrences": [
         {
           "episode": 8,
-          "video_timestamp": "02:48-02:56",
+          "video_timestamp": "00:02:48-00:02:56",
           "speaker_node_ref": "N-7",
           "quote": "Erika can be at various times Catholic, evangelical, or Jewish. It just depends on the audience that she's trying to get a check from.",
           "context": "Explaining Erika's religious affiliations",
@@ -1304,7 +1304,7 @@
       "occurrences": [
         {
           "episode": 8,
-          "video_timestamp": "01:30-01:46",
+          "video_timestamp": "00:01:30-00:01:46",
           "speaker_node_ref": "N-7",
           "quote": "We've got filthy evangelical pastors. We've got shady Mormons. We've got terrible Jews. This is like a game of Pokémon at this point. We have to catch them all.",
           "context": "Host jokes about accumulating religious scandal subjects",
@@ -1326,7 +1326,7 @@
       "occurrences": [
         {
           "episode": 8,
-          "video_timestamp": "06:34-06:50",
+          "video_timestamp": "00:06:34-00:06:50",
           "speaker_node_ref": "N-7",
           "quote": "what goes on in Maricopa County?... like it's just like an established colony of corruption. It is, I believe, factually the most corrupt county in politics in America.",
           "context": "Commentary on Maricopa County corruption",

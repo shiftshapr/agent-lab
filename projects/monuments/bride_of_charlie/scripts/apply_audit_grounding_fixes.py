@@ -112,7 +112,7 @@ ARTIFACT_INSERTS: dict[int, list[str]] = {
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 00:01–00:33
-*Related: C-1000, N-2, N-1030*
+*Related: C-1000, N-2, N-1034*
 Transcript Snippet: PLACEHOLDER
 Confidence: high
 """,
@@ -122,7 +122,7 @@ Confidence: high
 **A-1010.3** Jerry Frantzve DuPont employment (narration)
 Event Timestamp: 1983
 Video Timestamp: 20:03–21:06
-*Related: C-1014, N-12, N-1044*
+*Related: C-1014, N-12, N-1047*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
@@ -130,7 +130,7 @@ Confidence: medium
 **A-1012.2** Phil Bliss Tesseract board / MK Ultra connection (narration)
 Event Timestamp: 1990s
 Video Timestamp: 32:05–33:00
-*Related: C-1016, N-14, N-1031, N-1033*
+*Related: C-1016, N-14, N-1035, N-1037*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
@@ -139,7 +139,7 @@ Confidence: medium
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 44:25–46:04
-*Related: C-1017, N-1, N-2, N-13, N-1043*
+*Related: C-1017, N-1, N-2, N-13, N-1046*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
@@ -159,7 +159,7 @@ Confidence: medium
 **A-1035.3** Radford Eastern Europe gender-research document (1990)
 Event Timestamp: 1990
 Video Timestamp: 02:10–02:39
-*Related: C-1041, N-12, N-1060*
+*Related: C-1041, N-12, N-1070*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
@@ -184,7 +184,7 @@ Confidence: medium
 **A-1037.3** Tyler Bowyer Romania / Farnsworth connection (narration)
 Event Timestamp: 2010
 Video Timestamp: 55:14–55:32
-*Related: C-1066, N-13, N-1060*
+*Related: C-1066, N-13, N-1070*
 Transcript Snippet: PLACEHOLDER
 Confidence: low
 """,
@@ -195,7 +195,7 @@ Confidence: low
 Event Timestamp: Undated in episode source
 Event Timestamp Note: no calendar date attested in episode transcript; left undated deliberately.
 Video Timestamp: 32:59–33:36
-*Related: C-1081, N-2, N-13, N-1022*
+*Related: C-1081, N-2, N-13, N-1025*
 Transcript Snippet: PLACEHOLDER
 Confidence: medium
 """,
@@ -227,10 +227,10 @@ Confidence: high
 
 RELATED_PATCHES: list[tuple[str, str, str]] = [
     # (file suffix ep, old related line fragment, new)
-    ("episode_002.md", "*Related: C-1014, C-1016, N-12, N-1031, N-1042*", "*Related: C-1016, N-12, N-1031, N-1042*"),
+    ("episode_002.md", "*Related: C-1014, C-1016, N-12, N-1035, N-1045*", "*Related: C-1016, N-12, N-1035, N-1045*"),
     ("episode_002.md", "*Related: C-1018, N-2, N-3*", "*Related: C-1018, C-1017, N-2, N-3*"),
     ("episode_003.md", "*Related: C-1031, N-2, N-1*", "*Related: C-1031, C-1029, N-2, N-1*"),
-    ("episode_005.md", "*Related: C-1060, C-1061, N-13, N-1060*", "*Related: C-1060, C-1061, C-1063, C-1066, N-13, N-1060*"),
+    ("episode_005.md", "*Related: C-1060, C-1061, N-13, N-1070*", "*Related: C-1060, C-1061, C-1063, C-1066, N-13, N-1070*"),
     ("episode_008.md", "*Related: C-1104, N-3, N-1079*", "*Related: C-1104, C-1105, N-3, N-1079*"),
     ("episode_008.md", "*Related: A-1069.1, A-1069.2, A-1070.1, A-1072.1, A-1073.1, C-1107, C-1106, C-1105", "*Related: A-1069.2, A-1069.4, A-1070.1, A-1072.1, A-1073.1, A-1074.1, C-1107, C-1106, C-1105, C-1100"),
 ]

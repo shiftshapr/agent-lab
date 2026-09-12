@@ -10,7 +10,7 @@
     "video_timestamp_range": "00:01:00–01:03:57",
     "extraction_timestamp": "2026-09-04T23:05:08Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "89c75e56a4f46981be632f4b3c322ecef8b0acf3a16ce698d7f57cde69598048",
+    "transcript_sha256": "bb3ec385a31a9ea27f29a181c88f1c534aa6eacd6969321bfbd2d2a33ebb5618",
     "analysis_date": "2026-09-04"
   },
   "executive_summary": "Episode 1 of Bride of Charlie introduces an investigation into Erika Kirk, widow of Charlie Kirk who was allegedly assassinated. The episode presents multiple artifacts challenging Erika's public narrative: divorce filings showing birth date discrepancies (Nov 20 vs Nov 22, 1988), evidence her father was present during childhood despite claims of single-mother upbringing, and family tree inconsistencies around Swedish grandparent terminology (morfar vs farfar). The episode also introduces the Tesseract/Looking Glass school connection and broader family gambling history.",
@@ -31,11 +31,11 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "December 6, 1988",
-          "video_timestamp": "22:04–22:17",
+          "video_timestamp": "00:22:04–00:22:17",
           "transcript_snippet": "Great. There's a newspaper relic...announcing her birth two weeks later on...December 6th. It tells us that she was...born at Good Samaritan Hospital....Fantastic. To Kent and Lori Frantzve. Check....Amazing....By the way, just something to note about...Good Samaritan Hospital. A little fun",
           "confidence": "high"
         },
@@ -49,11 +49,11 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1001"
+            "N-1000"
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "00:01–00:33",
+          "video_timestamp": "00:00:01–00:00:33",
           "transcript_snippet": "Okay, you guys, there is a very strange...thing happening right now where a young...woman with absolutely zero professional...qualifications has been inserted at the...top of a charity organization that...pulled in over a quarter billion dollars...last year and the media is telling you...that you have no right to know or to ask",
           "confidence": "high"
         }
@@ -78,11 +78,11 @@
             "N-2",
             "N-4",
             "N-3",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "July 20, 1998",
-          "video_timestamp": "23:00–23:20",
+          "video_timestamp": "00:23:00–00:23:20",
           "transcript_snippet": "whatever reason, think that Erika was...born 2 days later on November 22nd. We...know this because of their divorce...filings, which took place in 1998....On that divorce initial filing, Lori,...who filed, lists Erika as having been...born on November 22nd, multiple times....Now, in case you're thinking, well,",
           "confidence": "high"
         },
@@ -97,11 +97,11 @@
           "related_nodes": [
             "N-4",
             "N-3",
-            "N-1007"
+            "N-1010"
           ],
           "tags": [],
           "event_timestamp": "1998",
-          "video_timestamp": "24:00–24:35",
+          "video_timestamp": "00:24:00–00:24:35",
           "transcript_snippet": "was scanned in with an intention to...further confuse people. It's a...separation agreement which is not...notorized. It's not dated, so it's...almost not relevant. And it completely...edits the date of the marriage between...Kent and Lori from November 20th, 1995...down to November 7th, 1982. A casual 13",
           "confidence": "medium"
         },
@@ -116,11 +116,11 @@
           "related_nodes": [
             "N-4",
             "N-3",
-            "N-1007"
+            "N-1010"
           ],
           "tags": [],
           "event_timestamp": "November 10, 1998",
-          "video_timestamp": "25:20–25:55",
+          "video_timestamp": "00:25:20–00:25:55",
           "transcript_snippet": "that this was the fastest divorce in the...history of divorce because she filed on...July 20th, 1998. And then we have a...decree on November 10th of the same...year. So this is like 3 months later....Once again, the marriage date is listed....the initial marriage date between Kent...and Lori as November 20th, 1995 in",
           "confidence": "medium"
         }
@@ -142,12 +142,12 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1002",
-            "N-1003"
+            "N-1001",
+            "N-1002"
           ],
           "tags": [],
           "event_timestamp": "1995–1998",
-          "video_timestamp": "53:40–54:00",
+          "video_timestamp": "00:53:40–00:54:00",
           "transcript_snippet": "was at school. I don't have every year...yet, but I do have some years. 1995 to...1996 in first grade, 1996 to 1997 in...second grade, and 1997...to 1998, which is her in third grade. I...got to tell you, I am so glad that I...found this Tesseract. I didn't get to...time travel with it. I don't think I",
           "confidence": "high"
         }
@@ -169,11 +169,11 @@
           ],
           "related_nodes": [
             "N-9",
-            "N-1010"
+            "N-1013"
           ],
           "tags": [],
           "event_timestamp": "1941",
-          "video_timestamp": "32:55–33:15",
+          "video_timestamp": "00:32:55–00:33:15",
           "transcript_snippet": "Pennsylvania. You check out this article...from 1941 where she testifies that she...ran numbers. It says Loretta Abbas of...Washington, Thomas Roberts, whatever,...whatever, testified that they engaged in...the numbers business and had been...arrested on numerous occasions. They...explained their role in the numbers",
           "confidence": "high"
         },
@@ -187,11 +187,11 @@
           ],
           "related_nodes": [
             "N-9",
-            "N-1010"
+            "N-1013"
           ],
           "tags": [],
           "event_timestamp": "1944",
-          "video_timestamp": "33:18–33:35",
+          "video_timestamp": "00:33:18–00:33:35",
           "transcript_snippet": "here's another one. We could keep going,...but here's another article from 1944...where she pleads guilty to a lottery...charge. Was before the court. She wasn't...lying. She's always arrested on a...lottery charge. The state police had a...search warrant and when they entered her...house, they found a quantity of number",
           "confidence": "high"
         },
@@ -205,11 +205,11 @@
           ],
           "related_nodes": [
             "N-9",
-            "N-1010"
+            "N-1013"
           ],
           "tags": [],
           "event_timestamp": "1935",
-          "video_timestamp": "33:50–34:20",
+          "video_timestamp": "00:33:50–00:34:20",
           "transcript_snippet": "And it tells us that he was overtaken in...his automobile after a chase of several...miles after he had failed to obey the...officer's order to stop. Yes. Mason...Abbas was arrested yesterday by County...Detective Frank Kreps. Before an...alderman, he was held for court in...default of a $1,000 bond on a charge of",
           "confidence": "high"
         }
@@ -231,11 +231,11 @@
           ],
           "related_nodes": [
             "N-5",
-            "N-1010"
+            "N-1013"
           ],
           "tags": [],
           "event_timestamp": "1974",
-          "video_timestamp": "35:15–35:35",
+          "video_timestamp": "00:35:15–00:35:35",
           "transcript_snippet": "1974 doing just that. It reads,...\"Printing began this week on the first...Illinois state lottery tickets up to...10,000 agents.\" It tells us at the...bottom there that Kent Frantzve of the...American Bank Note Company, the printer,...examines the first tickets of the...initial press run.",
           "confidence": "high"
         }
@@ -261,7 +261,7 @@
           ],
           "tags": [],
           "event_timestamp": "2016–2019",
-          "video_timestamp": "37:00–37:40",
+          "video_timestamp": "00:37:00–00:37:40",
           "transcript_snippet": "over the years, referring to him...affectionately as her morfar. Saw this...over and over again. And you just see...posts of him and how much she loves him....She even mentions her her grandmother...there. That's his wife Elaine and she...says she is my angel in heaven but I...usually call her mormor. So that's",
           "confidence": "high"
         },
@@ -281,7 +281,7 @@
           ],
           "tags": [],
           "event_timestamp": "March 21, 2019",
-          "video_timestamp": "39:50–40:10",
+          "video_timestamp": "00:39:50–00:40:10",
           "transcript_snippet": "On March 21st of 2019, Erika visits with...Charlie. She's in Jerusalem with...Charlie, what is known as Zion's Gate in...Jerusalem. She posts a picture uh with a...pretty curious cap uh caption. It reads...in part uh meet Darla, a Romanian Jew...that now calls Israel home. She was...sitting by my family's dedication sign",
           "confidence": "high"
         },
@@ -296,11 +296,11 @@
           "related_nodes": [
             "N-2",
             "N-5",
-            "N-1008"
+            "N-1011"
           ],
           "tags": [],
           "event_timestamp": "2019",
-          "video_timestamp": "36:26–36:41",
+          "video_timestamp": "00:36:26–00:36:41",
           "transcript_snippet": "to her Scandinavian roots that in 2019,...she moved to begin the process of...obtaining her dual citizenship. She...posted this herself where she is. Dual...citizenship commenced.",
           "confidence": "high"
         },
@@ -320,7 +320,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "41:43–41:48",
+          "video_timestamp": "00:41:43–00:41:48",
           "transcript_snippet": "Erika also posted a...lovely tribute to Alan Rothstein Will Not Like This Column,...Nicole's father online. She calls him...uncle. Uncle?",
           "confidence": "medium"
         }
@@ -342,11 +342,11 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1002"
+            "N-1001"
           ],
           "tags": [],
           "event_timestamp": "1992",
-          "video_timestamp": "50:34–50:55",
+          "video_timestamp": "00:50:34–00:50:55",
           "transcript_snippet": "was in Cincinnati, Ohio for daycare in...1992. She attended a place called Walnut...Corner Children's Center in Cincinnati,...Ohio, located inside of a massive...corporate building. Oddly, the filing...for uh that daycare doesn't have a floor...number, but I can show you this photo of...her um at daycare, lol, by the way, to",
           "confidence": "medium"
         }
@@ -369,11 +369,11 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-1008"
+            "N-1011"
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "16:36–17:29",
+          "video_timestamp": "00:16:36–00:17:29",
           "transcript_snippet": "recall that Erika sat down for an...in-person interview with the New York...Times days after Charlie was publicly...assassinated, and she confirmed to them...that the least traumatizing part about...Charlie's assassination was the prospect...of her now having to raise her children...alone. She wasn't traumatized by that...idea because she had seen the example...set for her by her mother growing up. As...People magazine later echoed, quote,...\"Erika Kirk has learned a lot from her",
           "confidence": "high"
         }
@@ -399,7 +399,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "18:08–18:53",
+          "video_timestamp": "00:18:08–00:18:53",
           "transcript_snippet": "Erika's. Take a listen. Hold on. I do...not want to knock the stay-at-home dads....I do not. There are some who had to who...temporarily have to switch that role....That happened to my parents a long time...ago. Granted, again, they got a divorce,...so that probably falls into your bucket....But...>> I am an anthropologist,...>> but my dad was a stay-at-home dad for a...few years, and I got to say, it was...really sweet and really special. I was",
           "confidence": "high"
         }
@@ -427,7 +427,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated (viral on X during episode preparation; no calendar date attested in transcript)",
-          "video_timestamp": "04:55–11:29",
+          "video_timestamp": "00:04:55–00:11:29",
           "transcript_snippet": "Elizabeth Lane wrote, \"I'm...going to be blunt. I have reached the...point where I find Erika Kirk to be...deeply disturbing, not because of rumors...or gossip, but because of consistent...observable patterns of behavior....I believe she may be a psychopath....Again, this is just my opinion.",
           "confidence": "high"
         }
@@ -697,8 +697,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1001",
-      "ref": "N-1001",
+      "@id": "N-1000",
+      "ref": "N-1000",
       "name": "Turning Point USA",
       "type": "organization",
       "description": "Political charity organization that pulled in over $250 million. Erika Kirk now CEO/chairman.",
@@ -715,8 +715,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1002",
-      "ref": "N-1002",
+      "@id": "N-1001",
+      "ref": "N-1001",
       "name": "Tesseract School",
       "type": "organization",
       "description": "Charter school attended by Erika Kirk in Arizona. Connected to John T. Golle, Walton family, Bush family.",
@@ -736,8 +736,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1003",
-      "ref": "N-1003",
+      "@id": "N-1002",
+      "ref": "N-1002",
       "name": "Looking Glass School",
       "type": "organization",
       "description": "Jewish school in Arizona whose building was rented by Tesseract School.",
@@ -756,8 +756,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1004",
-      "ref": "N-1004",
+      "@id": "N-1003",
+      "ref": "N-1003",
       "name": "MK Ultra",
       "type": "organization",
       "description": "CIA mind control program discussed in context of psychological manipulation.",
@@ -769,16 +769,16 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
+        "N-1004",
         "N-1005",
-        "N-1006",
-        "N-1061"
+        "N-1006"
       ],
       "organization_kind": "program_or_initiative"
     },
     {
       "@type": "Organization",
-      "@id": "N-1005",
-      "ref": "N-1005",
+      "@id": "N-1004",
+      "ref": "N-1004",
       "name": "Operation Paperclip",
       "type": "organization",
       "description": "US program that brought German scientists to America.",
@@ -790,16 +790,16 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1004",
-        "N-1006",
-        "N-1061"
+        "N-1003",
+        "N-1005",
+        "N-1006"
       ],
       "organization_kind": "program_or_initiative"
     },
     {
       "@type": "Organization",
-      "@id": "N-1006",
-      "ref": "N-1006",
+      "@id": "N-1005",
+      "ref": "N-1005",
       "name": "Project Looking Glass",
       "type": "organization",
       "description": "CIA project involving time travel technology mentioned in episode.",
@@ -813,16 +813,16 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1003",
-        "N-1061",
-        "N-1063"
+        "N-1002",
+        "N-1006",
+        "N-1008"
       ],
       "organization_kind": "program_or_initiative"
     },
     {
       "@type": "Topic",
-      "@id": "N-1061",
-      "ref": "N-1061",
+      "@id": "N-1006",
+      "ref": "N-1006",
       "name": "Paperclip-Monarch-MK Ultra Chain Context",
       "type": "topic",
       "description": "Host narration linking Operation Paperclip, Project Monarch, and MK Ultra as historical context (no discrete on-screen source in episode)",
@@ -834,16 +834,16 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
+        "N-1003",
         "N-1004",
-        "N-1005",
-        "N-1006"
+        "N-1005"
       ],
       "topic_kind": "program_reference"
     },
     {
       "@type": "Topic",
-      "@id": "N-1062",
-      "ref": "N-1062",
+      "@id": "N-1007",
+      "ref": "N-1007",
       "name": "Macron MK Ultra Lawsuit Aside",
       "type": "topic",
       "description": "Host aside referencing Emmanuel Macron suing over MK Ultra mention on Tim Dillon show (narration only)",
@@ -855,14 +855,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1004"
+        "N-1003"
       ],
       "topic_kind": "other"
     },
     {
       "@type": "Topic",
-      "@id": "N-1063",
-      "ref": "N-1063",
+      "@id": "N-1008",
+      "ref": "N-1008",
       "name": "Looking Glass Jewish Naming Aside",
       "type": "topic",
       "description": "Host aside questioning why Jewish schools use Looking Glass naming (commentary; not a documentary claim)",
@@ -874,15 +874,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-1003",
-        "N-1006"
+        "N-1002",
+        "N-1005"
       ],
       "topic_kind": "other"
     },
     {
       "@type": "Topic",
-      "@id": "N-1000",
-      "ref": "N-1000",
+      "@id": "N-1009",
+      "ref": "N-1009",
       "name": "Date of Birth Discrepancy",
       "type": "topic",
       "description": "Inconsistency between Erika's claimed DOB (Nov 20, 1988) and divorce filing DOB (Nov 22, 1988)",
@@ -902,8 +902,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1007",
-      "ref": "N-1007",
+      "@id": "N-1010",
+      "ref": "N-1010",
       "name": "Marriage Date Discrepancy",
       "type": "topic",
       "description": "Multiple conflicting marriage dates for Kent and Lori Frantzve across divorce documents",
@@ -923,8 +923,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1008",
-      "ref": "N-1008",
+      "@id": "N-1011",
+      "ref": "N-1011",
       "name": "Single Mother Narrative Question",
       "type": "topic",
       "description": "Erika claims raised by single mother but father and stepfather were present throughout childhood",
@@ -944,8 +944,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1009",
-      "ref": "N-1009",
+      "@id": "N-1012",
+      "ref": "N-1012",
       "name": "Morfar-Farfar Terminology Issue",
       "type": "topic",
       "description": "Erika calls paternal grandfather morfar (mother's father) instead of farfar (father's father)",
@@ -965,8 +965,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1010",
-      "ref": "N-1010",
+      "@id": "N-1013",
+      "ref": "N-1013",
       "name": "Family Gambling History",
       "type": "topic",
       "description": "Multiple family members involved in gambling industry - lottery tickets, slot machines, casinos",
@@ -1000,11 +1000,11 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1001",
+        "N-1000",
         "N-1"
       ],
       "tags": [],
-      "claim_timestamp": "00:01",
+      "claim_timestamp": "00:00:01",
       "investigative_direction": "Verify Erika's professional qualifications and her appointment process at Turning Point USA.",
       "transcript_snippet": "Okay, you guys, there is a very strange...thing happening right now where a young...woman with absolutely zero professional...qualifications has been inserted at the...top of a charity organization that...pulled in over a quarter billion dollars...last year and the media is telling you...that you have no right to know or to ask",
       "confidence": "high",
@@ -1024,10 +1024,10 @@
         "N-2",
         "N-4",
         "N-3",
-        "N-1000"
+        "N-1009"
       ],
       "tags": [],
-      "claim_timestamp": "22:04",
+      "claim_timestamp": "00:22:04",
       "investigative_direction": "Obtain certified copies of birth records and compare with divorce filing documents.",
       "transcript_snippet": "people make these kinds of mistakes?\"...Let's start with her birthday. Okay,...give you another example here. Erika...Frantzve, we are told, was born on...November 20th, 1988 in Cincinnati, Ohio....Great. There's a newspaper relic...announcing her birth two weeks later on...December 6th. It tells us that she was",
       "confidence": "high"
@@ -1046,10 +1046,10 @@
       "related_nodes": [
         "N-4",
         "N-3",
-        "N-1007"
+        "N-1010"
       ],
       "tags": [],
-      "claim_timestamp": "24:00",
+      "claim_timestamp": "00:24:00",
       "investigative_direction": "Obtain certified marriage certificate and compare with all divorce filing variants.",
       "transcript_snippet": "Okay, that's strange. I mean, at least...the birthday she says she has, but this...document is saying no, she's born 2 days...later, so I guess it wasn't her seventh...birthday. Attached to this document uh...which was filed on July 20th, 1998 is...another document that I can only assume...was scanned in with an intention to",
       "confidence": "high"
@@ -1068,10 +1068,10 @@
       "related_nodes": [
         "N-9",
         "N-10",
-        "N-1010"
+        "N-1013"
       ],
       "tags": [],
-      "claim_timestamp": "32:50",
+      "claim_timestamp": "00:32:50",
       "investigative_direction": "Obtain court records and newspaper archives confirming arrests and convictions.",
       "transcript_snippet": "in this series, the history and the...present of gambling casinos is going to...become increasingly relevant. So, let's...bring in the OG Loretta Abbas, Erika's...great grandmother who died in 1990,...who was just constantly being arrested...for running illegal slot machines. Okay,...she came over from Syria and she got to",
       "confidence": "high"
@@ -1087,10 +1087,10 @@
       ],
       "related_nodes": [
         "N-5",
-        "N-1010"
+        "N-1013"
       ],
       "tags": [],
-      "claim_timestamp": "35:15",
+      "claim_timestamp": "00:35:15",
       "investigative_direction": "Confirm employment records and company role.",
       "transcript_snippet": "participated extensively in horse...racing. More crucially though, he was an...executive at the American Bank Note...Company in Illinois. This is the company...that was responsible for printing...lottery tickets. It's a big contract, a...big deal. Here he is in a newspaper in...1974 doing just that. It reads,",
       "confidence": "high"
@@ -1112,11 +1112,11 @@
         "N-4",
         "N-5",
         "N-8",
-        "N-1008",
-        "N-1009"
+        "N-1011",
+        "N-1012"
       ],
       "tags": [],
-      "claim_timestamp": "37:00",
+      "claim_timestamp": "00:37:00",
       "investigative_direction": "Obtain school records, yearbooks, and witness statements confirming father's presence.",
       "transcript_snippet": "over the years, referring to him...affectionately as her morfar. Saw this...over and over again. And you just see...posts of him and how much she loves him....She even mentions her her grandmother...there. That's his wife Elaine and she...says she is my angel in heaven but I...usually call her mormor. So that's",
       "confidence": "high",
@@ -1137,7 +1137,7 @@
         "N-12"
       ],
       "tags": [],
-      "claim_timestamp": "39:50",
+      "claim_timestamp": "00:39:50",
       "investigative_direction": "Verify ownership of Zion's Gate dedication and actual family relationship.",
       "transcript_snippet": "On March 21st of 2019, Erika visits with...Charlie. She's in Jerusalem with...Charlie, what is known as Zion's Gate in...Jerusalem. She posts a picture uh with a...pretty curious cap uh caption. It reads...in part uh meet Darla, a Romanian Jew...that now calls Israel home. She was...sitting by my family's dedication sign...for restoring the Zion gate in...Jerusalem....Oh,...what? Why is Erika describing...the Zion's Gate as her family's...dedication?",
       "confidence": "medium",
@@ -1155,12 +1155,12 @@
       ],
       "related_nodes": [
         "N-2",
+        "N-1001",
         "N-1002",
-        "N-1003",
-        "N-1006"
+        "N-1005"
       ],
       "tags": [],
-      "claim_timestamp": "53:40",
+      "claim_timestamp": "00:53:40",
       "investigative_direction": "Obtain enrollment records and yearbooks confirming attendance at Tesseract.",
       "transcript_snippet": "school itself is exceedingly Jewish in...terms of the administration. It was run...by Jewish executive directors. The...teachers are all Jewish. I got...obviously, you know me, I'm nosy. I...track down the yearbooks. I mean, I was...I was working really hard while I was...off. Um, and I can show you that Erika",
       "confidence": "high",
@@ -1181,7 +1181,7 @@
         "N-7"
       ],
       "tags": [],
-      "claim_timestamp": "05:55",
+      "claim_timestamp": "00:05:55",
       "investigative_direction": "Preserve original X post URL and posting date if available; distinguish opinion framing from evidentiary claims elsewhere in the series.",
       "transcript_snippet": "I believe she may be a psychopath....What stands out immediately is the...reaction that she provokes in other...people, which is very common with...psychopaths across the board, including...people who support her publicly....Again, this is just my opinion.",
       "confidence": "high",
@@ -1202,7 +1202,7 @@
         "N-6"
       ],
       "tags": [],
-      "claim_timestamp": "11:55",
+      "claim_timestamp": "00:11:55",
       "investigative_direction": "Track whether later episodes substantiate or revisit elements Lane raised (personality adaptation, performative grief, post-death CEO transition).",
       "transcript_snippet": "And also, in a word, yes, I concur. Uh,...there is something about her. I don't...know any single personality in the media...or politics that has had the same effect...that Erika has had on people worldwide.",
       "confidence": "high",
@@ -1221,10 +1221,10 @@
         "N-2",
         "N-11",
         "N-12",
-        "N-1009"
+        "N-1012"
       ],
       "tags": [],
-      "claim_timestamp": "41:43",
+      "claim_timestamp": "00:41:43",
       "investigative_direction": "Obtain the original social post and verify caption and posting date.",
       "transcript_snippet": "Erika also posted a...lovely tribute to Alan Rothstein Will Not Like This Column,...Nicole's father online. She calls him...uncle. Uncle?",
       "confidence": "medium",
@@ -1241,7 +1241,7 @@
       "occurrences": [
         {
           "episode": 1,
-          "video_timestamp": "01:36–01:42",
+          "video_timestamp": "00:01:36–00:01:42",
           "speaker_node_ref": "N-7",
           "quote": "She's a grieving widow. She's a grieving widow.",
           "context": "Host mocks media framing that any questioning of Erika makes you a monster",
@@ -1263,7 +1263,7 @@
       "occurrences": [
         {
           "episode": 1,
-          "video_timestamp": "04:30–04:37",
+          "video_timestamp": "00:04:30–00:04:37",
           "speaker_node_ref": "N-7",
           "quote": "Sheer evil. No, not mass murdering children. Sheer evil. Investigating someone at the helm of a billion dollar company.",
           "context": "Host mocks critics who called investigation 'sheer evil'",
@@ -1285,7 +1285,7 @@
       "occurrences": [
         {
           "episode": 1,
-          "video_timestamp": "01:38–01:42",
+          "video_timestamp": "00:01:38–00:01:42",
           "speaker_node_ref": "N-7",
           "quote": "That sentence, in my opinion, is this year's trust the science.",
           "context": "Host compares 'grieving widow' framing to 'trust the science' pandemic messaging",

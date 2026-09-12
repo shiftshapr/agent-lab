@@ -10,7 +10,7 @@
     "video_timestamp_range": "00:01:00–00:59:14",
     "extraction_timestamp": "2026-09-04T23:07:02Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "8ce5d32b583826745fe18f1cf49fc3c69aff6f68ff6ca030ab3a68f0a6ec334d",
+    "transcript_sha256": "bfcaea6fefa00bb02c67d685084169d2d92c07af8e335b005631eeef1a0fdd51",
     "analysis_date": "2026-09-04"
   },
   "executive_summary": "Episode 4 advances the investigation into Erika Kirk's background, presenting divorce filings showing her birthday as November 22, 1988 across multiple documents from 1995-2007. The episode introduces new claims about Erika's family connections, including her mother's alleged direct descent from Vince Lombardi and ties to the Erpenbeck family with documented criminal histories. Audio clips of Charlie Kirk discussing Erika's family lineage and Erika's conflicting statements about Bible study timelines are presented as artifacts.",
@@ -32,11 +32,11 @@
           "related_nodes": [
             "N-2",
             "N-4",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "January 8, 1998",
-          "video_timestamp": "17:56–18:17",
+          "video_timestamp": "00:17:56–00:18:17",
           "transcript_snippet": "this joint shared parenting plan which...is you can see filled in by hand on...January 8th. I'm going to go with 1998....That was my best guess. It's hard to...tell since someone tried to edit it by...hand. Again, this is real life, so you...just do what you want there. But the...point is that Erika's birthday is again",
           "confidence": "high"
         },
@@ -51,11 +51,11 @@
           "related_nodes": [
             "N-2",
             "N-4",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "September 10, 1998",
-          "video_timestamp": "18:26–18:50",
+          "video_timestamp": "00:18:26–00:18:50",
           "transcript_snippet": "child support plan which was drafted on...September 10th of 1998. and it is, in my...opinion, the most egregious of all the...filings. I just want to show you this....There's no notary. Uh there's no judge...signing off on another page of it. It's...really kind of just Lori and I think...even her attorney was like, \"This is a",
           "confidence": "high"
         },
@@ -70,11 +70,11 @@
           "related_nodes": [
             "N-2",
             "N-4",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "November 10, 1998",
-          "video_timestamp": "19:06–19:20",
+          "video_timestamp": "00:19:06–00:19:20",
           "transcript_snippet": "this November 10th, 1998 final decree....This time, Erika's name is typed in. And...once again, her birthday is listed as...November 22nd,...1988....Let's move on. Let's move on to the...medical child support document which was...entered in the following year, January",
           "confidence": "high"
         },
@@ -89,11 +89,11 @@
           "related_nodes": [
             "N-2",
             "N-4",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "January 1999",
-          "video_timestamp": "19:21–19:49",
+          "video_timestamp": "00:19:21–00:19:49",
           "transcript_snippet": "medical child support document which was...entered in the following year, January...of 1999. This particular document...requires the consent of the health...insurance company. In this case, it's...listed as Etna. What is entered in as...her birthday is November 22nd, 1988. And...I want to be clear, this is all for",
           "confidence": "high"
         },
@@ -108,11 +108,11 @@
           "related_nodes": [
             "N-2",
             "N-4",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "July 2004",
-          "video_timestamp": "20:04–20:36",
+          "video_timestamp": "00:20:04–00:20:36",
           "transcript_snippet": "because maybe from 1995 to 1999,...multiple people, including the parents...of the child, were just making clerical...errors. Maybe what's needed to...straighten people out is a new decade....Y2K vibes. Let's get into the 2000s....Well, in July of 2004, Kent defaulted on...his child support payments and the",
           "confidence": "high"
         },
@@ -127,11 +127,11 @@
           "related_nodes": [
             "N-2",
             "N-4",
-            "N-1000"
+            "N-1009"
           ],
           "tags": [],
           "event_timestamp": "2007",
-          "video_timestamp": "20:52–21:20",
+          "video_timestamp": "00:20:52–00:21:20",
           "transcript_snippet": "right? Good mems. I graduated high...school. They released the final...installment of the Harry Potter book...series, which I was reading. I mean, I...just feel like nobody got anything wrong...in 2007. Fantastic year, right? except...for whoever filed for Erika's child...support emancipation. Now she's 18. You",
           "confidence": "high"
         }
@@ -155,11 +155,11 @@
             "N-2",
             "N-26",
             "N-28",
-            "N-1026"
+            "N-1028"
           ],
           "tags": [],
           "event_timestamp": "December 1, 2018",
-          "video_timestamp": "14:46–15:04",
+          "video_timestamp": "00:14:46–00:15:04",
           "transcript_snippet": "down to Universal Studios. You should...know that that's where Rick works. And...Erika documented that trip. She was with...her mom. She's always with Lori. Lori's...always in the background. And here is...it's going to be very quick here because...it's Instagram stories that she has...saved, but you're going to see Uncle",
           "confidence": "high"
         }
@@ -182,11 +182,11 @@
           "related_nodes": [
             "N-3",
             "N-31",
-            "N-1025"
+            "N-1029"
           ],
           "tags": [],
           "event_timestamp": "1970",
-          "video_timestamp": "38:57–39:07",
+          "video_timestamp": "00:38:57–00:39:07",
           "transcript_snippet": "You can see that here in this obituary...from 1970. The bottom there it says that...Angeline, wife of Joseph Abbas of...Cincinnati, Ohio. Okay. So, what's going...on here? Because that that still...wouldn't make her a direct unless...people have multiple identifications....I I I can't get there. But I know that",
           "confidence": "high"
         }
@@ -211,7 +211,7 @@
             "N-30"
           ],
           "tags": [],
-          "video_timestamp": "12:10–12:20",
+          "video_timestamp": "00:12:10–00:12:20",
           "transcript_snippet": "Melvin Stanley. Here's a photo of him. I...am struck by how much he looks like...Breijit. I just want to say this is the...only photo I could found that I could...find of James Melvin Stanley, her first...husband. She got married to him, I...believe, when she was 19 years old. But...I looked at this and I went mad. This",
           "confidence": "medium"
         },
@@ -225,11 +225,11 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1024"
+            "N-1027"
           ],
           "tags": [],
           "event_timestamp": "1994-1995",
-          "video_timestamp": "41:38–41:55",
+          "video_timestamp": "00:41:38–00:41:55",
           "transcript_snippet": "before she went down to Arizona. We have...that photo for you guys here. This would...be from 19 uh 94...to 1995....And you can see just for funsies, her...name is spelled differently. It's with a...C....Clerical. It's clerical error. Another",
           "confidence": "high"
         },
@@ -243,11 +243,11 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-1019"
+            "N-1022"
           ],
           "tags": [],
           "event_timestamp": "December 2007",
-          "video_timestamp": "42:33–42:51",
+          "video_timestamp": "00:42:33–00:42:51",
           "transcript_snippet": "gathered of Erika with her Regis...University team members. This is taken...in December of 2007,...but she did not play. Regis University,...like I said, her stats are still up. We...could not find her in a newspaper, and...now we have uh team members that are...confirming that she did not play for the",
           "confidence": "high"
         }
@@ -274,7 +274,7 @@
             "N-31"
           ],
           "tags": [],
-          "video_timestamp": "36:45–37:05",
+          "video_timestamp": "00:36:45–00:37:05",
           "transcript_snippet": ">> The Packers won the first Super Bowl....You know, my my wife Erika is from the...Lombardi family....>> Really? Is that right?...>> Seriously?...>> Yeah....>> That's Royal Her mom's a Lombardi....Literally, isn't that insane?",
           "confidence": "high"
         },
@@ -290,7 +290,7 @@
             "N-2"
           ],
           "tags": [],
-          "video_timestamp": "43:59–44:50",
+          "video_timestamp": "00:43:59–00:44:50",
           "transcript_snippet": ">> Like with Miss Arizona, I was so done...with that world. It was very toxic. I...loved my director. I loved the...experience I had, but afterwards it was...one of those things where I was so sold...out and focused on Christ that I didn't...want anything from that past or that...world to follow with me until this into",
           "confidence": "high"
         },
@@ -307,7 +307,7 @@
           ],
           "tags": [],
           "event_timestamp": "2016",
-          "video_timestamp": "45:39–46:21",
+          "video_timestamp": "00:45:39–00:46:21",
           "transcript_snippet": ">> The first time I ever read the Bible...cover to cover was 2016, and it changed...my life. It absolutely changed my life....And that's when I started. So, it was me...and another friend and I put together...the Bible reading program and I sent it...to my friend. I said, \"Do it with me.\" I...was like, \"Cuz I don't know what I'm",
           "confidence": "high"
         }
@@ -333,7 +333,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "22:42–23:38",
+          "video_timestamp": "00:22:42–00:23:38",
           "transcript_snippet": "Because no matter what anyone is trying...to tell you, Erika is not posting her...mother in the way that she is without...intent right now. Okay? She didn't post...her mother for years and then she...suddenly moves to post her mother in a...vulnerable sick position a mere days...before Charlie's assassinated. Two two...to three days before he's assassinated....That registers to me as emotionally",
           "confidence": "high"
         }
@@ -359,7 +359,7 @@
           ],
           "tags": [],
           "event_timestamp": "Undated in episode source",
-          "video_timestamp": "06:16–07:43",
+          "video_timestamp": "00:06:16–00:07:43",
           "transcript_snippet": "this. Take a listen....>> He also always did have trust with the...president and he would look for the...bright side of things. and he was an...American patriot. So he would pray for...our success once that began. And I just...want to say that to offer perspective on...how...>> I think he would have felt about this.",
           "confidence": "high"
         }
@@ -647,8 +647,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1024",
-      "ref": "N-1024",
+      "@id": "N-1027",
+      "ref": "N-1027",
       "name": "St. Ursula Villa",
       "type": "organization",
       "description": "School in Cincinnati where Erika attended kindergarten",
@@ -666,8 +666,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1019",
-      "ref": "N-1019",
+      "@id": "N-1022",
+      "ref": "N-1022",
       "name": "Regis University",
       "type": "organization",
       "description": "University in Denver where Erika claims to have played basketball",
@@ -686,8 +686,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1001",
-      "ref": "N-1001",
+      "@id": "N-1000",
+      "ref": "N-1000",
       "name": "Turning Point USA",
       "type": "organization",
       "description": "Political organization founded by Charlie Kirk",
@@ -702,8 +702,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1026",
-      "ref": "N-1026",
+      "@id": "N-1028",
+      "ref": "N-1028",
       "name": "Universal Studios",
       "type": "organization",
       "description": "Entertainment company where Rick Erpenbeck works",
@@ -722,8 +722,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1000",
-      "ref": "N-1000",
+      "@id": "N-1009",
+      "ref": "N-1009",
       "name": "Date of Birth Discrepancy",
       "type": "topic",
       "description": "Multiple court documents list Erika's birthday as November 22, 1988 instead of claimed November 20, 1988",
@@ -747,8 +747,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1025",
-      "ref": "N-1025",
+      "@id": "N-1029",
+      "ref": "N-1029",
       "name": "Lombardi Lineage Claim",
       "type": "topic",
       "description": "Charlie claims Erika is directly descended from Vince Lombardi",
@@ -768,8 +768,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1027",
-      "ref": "N-1027",
+      "@id": "N-1030",
+      "ref": "N-1030",
       "name": "Bible Study Timeline Inconsistency",
       "type": "topic",
       "description": "Erika gives conflicting accounts of when she read the Bible cover to cover",
@@ -789,8 +789,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1028",
-      "ref": "N-1028",
+      "@id": "N-1031",
+      "ref": "N-1031",
       "name": "Missing Years 2000-2002",
       "type": "topic",
       "description": "No yearbook confirmation for Erika at St. Ursula Villa for these years",
@@ -809,8 +809,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1029",
-      "ref": "N-1029",
+      "@id": "N-1032",
+      "ref": "N-1032",
       "name": "Regis University Basketball Claim",
       "type": "topic",
       "description": "Erika claims to have played basketball at Regis but team members confirm she did not",
@@ -829,8 +829,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1067",
-      "ref": "N-1067",
+      "@id": "N-1033",
+      "ref": "N-1033",
       "name": "Khazar Pollock History Aside",
       "type": "topic",
       "description": "Host narration on Khazarian empire history and Abraham Pollock book example (commentary segment; no discrete on-screen document shown)",
@@ -859,7 +859,7 @@
         "N-29"
       ],
       "tags": [],
-      "claim_timestamp": "12:10",
+      "claim_timestamp": "00:12:10",
       "investigative_direction": "Obtain marriage records to verify.",
       "transcript_snippet": "they are never filing on time. They've...got to be shuttered. Her first marriage,...by the way, cuz some people messaged and...asked, was to a man that sort of...disappeared into the military. His name...uh is was he actually passed away, James...Melvin Stanley. Here's a photo of him. I...am struck by how much he looks like",
       "confidence": "high"
@@ -878,10 +878,10 @@
         "N-18",
         "N-20",
         "N-28",
-        "N-1026"
+        "N-1028"
       ],
       "tags": [],
-      "claim_timestamp": "14:46",
+      "claim_timestamp": "00:14:46",
       "investigative_direction": "Verify nature of relationship and whether Erika was aware of criminal histories.",
       "transcript_snippet": "they've been around you your whole life,...that's my uncle Rick. But that's the...reality. If her Instagram is too...believed, uh if her Instagram account is...to be believed, then you should know...that she's very close to this person...because on December 1st, 2018, she went...down to Universal Studios. You should",
       "confidence": "high"
@@ -903,10 +903,10 @@
       "related_nodes": [
         "N-2",
         "N-4",
-        "N-1000"
+        "N-1009"
       ],
       "tags": [],
-      "claim_timestamp": "18:17",
+      "claim_timestamp": "00:18:17",
       "investigative_direction": "Obtain certified copies of filings to verify authenticity and compare with official birth records.",
       "transcript_snippet": "January 8th. I'm going to go with 1998....That was my best guess. It's hard to...tell since someone tried to edit it by...hand. Again, this is real life, so you...just do what you want there. But the...point is that Erika's birthday is again...listed as November 22nd, 1988....Okay. Then came an amendment to the",
       "confidence": "high"
@@ -926,10 +926,10 @@
         "N-3",
         "N-27",
         "N-31",
-        "N-1025"
+        "N-1029"
       ],
       "tags": [],
-      "claim_timestamp": "36:48",
+      "claim_timestamp": "00:36:48",
       "investigative_direction": "Verify genealogical records to confirm or refute Lombardi lineage claim.",
       "transcript_snippet": "No, I'd have to hear Charlie say that...myself. That can't be right. Well, sure...enough, we went to investigate and...Charlie did communicate that very fact....Take a listen....>> The Packers won the first Super Bowl....You know, my my wife Erika is from the...Lombardi family.",
       "confidence": "high"
@@ -945,11 +945,11 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1024",
-        "N-1028"
+        "N-1027",
+        "N-1031"
       ],
       "tags": [],
-      "claim_timestamp": "41:38",
+      "claim_timestamp": "00:41:38",
       "investigative_direction": "Obtain yearbooks and school records to verify attendance.",
       "transcript_snippet": "and...uh, before we get there, I can tell you,...we can confirm now that Erika did attend...St. Ursula Villa up in Cincinnati, Ohio,...but she attended what we can document...for kid kindergarten. So, that was...before she went down to Arizona. We have...that photo for you guys here. This would",
       "confidence": "high"
@@ -965,11 +965,11 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1019",
-        "N-1029"
+        "N-1022",
+        "N-1032"
       ],
       "tags": [],
-      "claim_timestamp": "42:33",
+      "claim_timestamp": "00:42:33",
       "investigative_direction": "Obtain official university athletic records to verify team roster.",
       "transcript_snippet": "basketball players at St. Regis that we...were correct. She did not play in the...2008 2009 season despite in the future...she's going to claim multiple times that...she played at Regis for two years. She...played basketball for two years. Well, I...can show you this photo that we also...gathered of Erika with her Regis",
       "confidence": "high"
@@ -986,10 +986,10 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-1027"
+        "N-1030"
       ],
       "tags": [],
-      "claim_timestamp": "44:50",
+      "claim_timestamp": "00:44:50",
       "investigative_direction": "Verify timeline through independent sources and podcast recordings.",
       "transcript_snippet": "coffee and I just...>> I didn't see any of my friends. I didn't...do anything. I didn't I just was so...focused on on that....>> Okay, you hear it again. This time she...locked herself in her room. She's just...focused on the Bible. Self-taught. I I...mean, how much of the Bible could you",
       "confidence": "high"
@@ -1008,7 +1008,7 @@
         "N-3"
       ],
       "tags": [],
-      "claim_timestamp": "22:42",
+      "claim_timestamp": "00:22:42",
       "investigative_direction": "Preserve original Instagram reel timestamps and metadata if available.",
       "transcript_snippet": "Because no matter what anyone is trying...to tell you, Erika is not posting her...mother in the way that she is without...intent right now. Okay? She didn't post...her mother for years and then she...suddenly moves to post her mother in a...vulnerable sick position a mere days...before Charlie's assassinated. Two two...to three days before he's assassinated....That registers to me as emotionally",
       "confidence": "medium",
@@ -1028,7 +1028,7 @@
         "N-1"
       ],
       "tags": [],
-      "claim_timestamp": "06:16",
+      "claim_timestamp": "00:06:16",
       "investigative_direction": "Identify full studio clip source and publication date; distinguish guest framing from host rebuttal in later narration.",
       "transcript_snippet": "this. Take a listen....>> He also always did have trust with the...president and he would look for the...bright side of things. and he was an...American patriot. So he would pray for...our success once that began. And I just...want to say that to offer perspective on...how...>> I think he would have felt about this.",
       "confidence": "high"
