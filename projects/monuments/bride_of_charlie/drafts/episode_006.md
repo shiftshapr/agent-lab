@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1041-A-1052, A-1053, A-1054
   - Claim Range: C-1069-C-1083, C-1084, C-1085, C-1086
-  - New Nodes Introduced: N-39, N-40, N-41, N-42, N-43, N-1042, N-44, N-45, N-1051, N-1043, N-1044, N-1045, N-1046, N-1047, N-1048, N-1049, N-1050, N-1052, N-46, N-47, N-1053, N-1054
+  - New Nodes Introduced: N-39, N-40, N-41, N-42, N-43, N-44, N-45, N-46, N-47, N-1042, N-1043, N-1044, N-1045, N-1046, N-1047, N-1048, N-1049, N-1050, N-1051, N-1052, N-1053, N-1054
   - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-14
 
 ## 2. Executive Summary
@@ -25,7 +25,7 @@ Episode 6 focuses on the timeline of 2010-2012, connecting Tyler Bowyer's deploy
 
 **A-1041.1** Cocopah Middle School email confirmation and tweet
 Event Timestamp: 2000-2003
-Video Timestamp: 00:01:14-00:01:51
+Video Timestamp: 00:01:14–00:01:51
 *Related: C-1069, N-2, N-1043*
 Transcript Snippet: First and foremost, a quick update for...you guys. Right at the top, we were able...to determine which middle school Erika...went to. Uh, it's called Cocopah Middle...School. I think that's how you say it....We did receive an email tip from someone...who informed us that Erika attended...Cocopah Middle School. Uh, we have not
 Confidence: high
@@ -36,7 +36,7 @@ Confidence: high
 
 **A-1042.1** Historical footage of Ceaușescu trial and execution
 Event Timestamp: December 25, 1989
-Video Timestamp: 00:03:44-00:05:59
+Video Timestamp: 00:03:44–00:05:59
 *Related: C-1070, N-1044*
 Transcript Snippet: >> The trial is brief and largely for show....It lasts about 2 hours and takes place...without any real possibility for defense...or appeal. Chiaoescu himself refuses to...recognize the court and calls it...illegal....But it doesn't matter. The tribunal...finds both him and Elena guilty.
 Confidence: high
@@ -47,7 +47,7 @@ Confidence: high
 
 **A-1043.1** Lori Frantzve bio from Everyday Heroes website
 Event Timestamp: circa 2010
-Video Timestamp: 00:10:31-00:11:59
+Video Timestamp: 00:10:31–00:11:59
 *Related: C-1071, N-3, N-1045, N-1052*
 Transcript Snippet: read that second paragraph. It says that...Lori for the past 12 years of her career...has been focused in the pioneering...research and development on disruptive...cyber technologies for applications...in relationship to the way humans think...and the importance of assessing what...happens if type technologies truly
 Confidence: high
@@ -58,7 +58,7 @@ Confidence: high
 
 **A-1044.1** Article about Black Sea Rotational Force training in Eastern Europe
 Event Timestamp: 2011
-Video Timestamp: 00:12:45-00:13:28
+Video Timestamp: 00:12:45–00:13:28
 *Related: C-1072, C-1073, N-14, N-1046*
 Transcript Snippet: their thing in Constanta. And I just want...to stress how interesting it is to me...that the majority of the men are coming...from Reno, Nevada, the capital of casino...and gambling. Laws are loosening up in...Romania or actually rather monopolizing...I should say in Romania. And here is an...article which mentions that the chosen
 Confidence: high
@@ -69,7 +69,7 @@ Confidence: high
 
 **A-1045.1** Article about Nevada students teaching in Romania
 Event Timestamp: May 4, 2011
-Video Timestamp: 00:13:45-00:14:28
+Video Timestamp: 00:13:45–00:14:28
 *Related: C-1073, N-1046, N-1047*
 Transcript Snippet: arrive and they're also from Reno,...Nevada. Check out this article. I can't...even make this up. It says this year, it...says Romania students will give lessons...at schools and help teachers. You can...note that date in the corner, May 4th,...2011. And this year's cohort of students...includes two Nevada graduates, um, Alex
 Confidence: high
@@ -80,7 +80,7 @@ Confidence: high
 
 **A-1046.1** Article about Tyler Bowyer elected to Arizona Board of Regents
 Event Timestamp: April 2011
-Video Timestamp: 00:15:15-00:15:51
+Video Timestamp: 00:15:15–00:15:51
 *Related: C-1074, C-1075, N-14, N-1, N-1042*
 Transcript Snippet: April of 2011, at the end of his spring...semester, he is elected by the Arizona...Senate to serve as a student...representative to the Arizona Board of...Regents. It says that the state senate...has confirmed ASU undergraduate Tyler...Storm Bowyer as the new student regent for...the Arizona Board of Regents. It begins
 Confidence: high
@@ -91,7 +91,7 @@ Confidence: high
 
 **A-1047.1** Article about Curtis Kolvet commanding Nevada National Guard in Afghanistan
 Event Timestamp: circa 2010-2011
-Video Timestamp: 00:18:49-00:19:46
+Video Timestamp: 00:18:49–00:19:46
 *Related: C-1076, C-1077, N-40, N-41, N-42*
 Transcript Snippet: do know, however, is that it was Captain...Curtis Kolvet who was stationed in...Afghanistan....And yeah, that's Andrew Kolvet's...brother. Yeah, they sent the military...police from Nevada to head up the...transportation company from Afghanistan....And and Curtis Kolvet was the commander
 Confidence: high
@@ -102,7 +102,7 @@ Confidence: high
 
 **A-1048.1** Podcast interview with Erika about her time in Romania
 Event Timestamp: 2020
-Video Timestamp: 00:20:32-00:21:35
+Video Timestamp: 00:20:32–00:21:35
 *Related: C-1078, C-1079, N-2, N-39*
 Transcript Snippet: podcast in 2020 and she was reflecting...on her time in Romania in 2012 or 2013....And in this podcast, in this podcast,...she's speaking with someone who was...stationed uh in Romania and she's asking...him if the setup is the same from when...she was out there. Take a listen to...Erika.
 Confidence: high
@@ -113,7 +113,7 @@ Confidence: high
 
 **A-1049.1** Erika wins Miss Arizona competition
 Event Timestamp: November 2011
-Video Timestamp: 00:24:37-00:24:48
+Video Timestamp: 00:24:37–00:24:48
 *Related: C-1080, N-2*
 Transcript Snippet: November, this is her comeup. Erika wins...the Miss Arizona competition in...November. Okay, that makes her Miss...Arizona for the next calendar year. So,...you win in 2011 and then you are Miss...Arizona for 2012. For those of you who...know nothing about the pageant world...like me, I had to realize that um
 Confidence: high
@@ -124,7 +124,7 @@ Confidence: high
 
 **A-1050.1** News clip of Kirkwood city council shooting with Justin Strife appearance
 Event Timestamp: February 7, 2008
-Video Timestamp: 00:42:56-00:45:08
+Video Timestamp: 00:42:56–00:45:08
 *Related: C-1082, C-1083, A-1051.1, N-44, N-45*
 Transcript Snippet: listen....>> Sirens whale outside Kirkwood City Hall...in Missouri, the building that usually...houses mundane civic meetings became the...scene of a rampage Thursday night after...a gunman stormed the building and opened...fire. Two police officers and three city...officials were killed. The mayor was
 Confidence: high
