@@ -2,6 +2,16 @@
 
 Before re-running the episode analysis with Neo4j enhancements, complete these steps to ensure clean, protocol-compliant output.
 
+## DIA preflight (merge gate)
+
+Before **CLEAR**, merge-ask, or pack promotion on any tip:
+
+```bash
+python3 ../../scripts/dia_preflight.py --monument bride_of_charlie --tip "$(git rev-parse HEAD)"
+```
+
+Must exit **0**. Full rules: [`../DIA_PREFLIGHT.md`](../DIA_PREFLIGHT.md).
+
 ---
 
 ## 1. Backup Existing Drafts ✓

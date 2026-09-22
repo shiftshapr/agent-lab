@@ -241,6 +241,7 @@ Rough ASCII only (no Mermaid).
 |------|---------|--------------|
 | 4.1 | Ingest to Neo4j | `python scripts/neo4j_ingest.py --force` |
 | 4.2 | Verify drafts | `python scripts/verify_drafts.py` |
+| 4.2a | DIA preflight (merge gate) | `python scripts/dia_preflight.py --tip $(git -C ../../.. rev-parse HEAD)` — see [`../DIA_PREFLIGHT.md`](../DIA_PREFLIGHT.md) |
 | 4.3 | Merge duplicates | `python scripts/neo4j_merge.py --auto` |
 | 4.4 | Validate integrity | `python scripts/neo4j_validate.py` |
 
