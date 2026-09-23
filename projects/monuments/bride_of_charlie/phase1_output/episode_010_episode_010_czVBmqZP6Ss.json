@@ -7,7 +7,7 @@
     "video_timestamp_range": "00:00–01:10:00",
     "extraction_timestamp": "2026-09-23T19:31:50Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "334cb9c6109338366a20ee92d6d601b28b7d8dc476a2bd8734551e49b31b2353",
+    "transcript_sha256": "818e179fe5957d7201c93616a5845536cad30d2182c1c2b188bf22e92d275abd",
     "ledger_summary": {
       "artifact_families_introduced": [
         "ART_1",

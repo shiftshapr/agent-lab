@@ -7,7 +7,7 @@
 - **Video Timestamp Range**: 00:00:00-23:47:00
 - **Extraction Timestamp (UTC)**: 2026-09-23T18:42:21Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 4ccb9ea1583df9b7933e3756d64c62a61b73b5d5c6a26250729c1252c3c59bd4
+- **Transcript SHA-256**: 4e6d0208251c90a7fbd3a8be5f2caaf0ebe78bfeb35177af48f4b0ff29ff2356
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080
