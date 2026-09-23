@@ -1154,22 +1154,39 @@ def run_episode_analysis_protocol(project: str | None = None) -> None:
             (x for x in phase1_dir.glob("episode_*.json") if "readme" not in x.name.lower()),
             key=_phase1_key,
         )
+        if only_indices:
+            phase1_jsons = [p for p in phase1_jsons if _phase1_key(p) in only_indices]
         if phase1_jsons:
             print(f"\n[episode-analysis] Phase 2: Assigning IDs from central ledger for {len(phase1_jsons)} episode(s)...")
             try:
                 scripts_dir = proj_path / "scripts"
                 assign_script = scripts_dir / "assign_ids.py"
                 if assign_script.exists():
+                    batch_dir = phase1_dir
+                    if only_indices and len(phase1_jsons) < len(list(phase1_dir.glob("episode_*.json"))):
+                        import shutil
+                        import tempfile
+
+                        batch_dir = Path(tempfile.mkdtemp(prefix="phase1_batch_"))
+                        for p in phase1_jsons:
+                            shutil.copy2(p, batch_dir / p.name)
                     assign_cmd = [
                         sys.executable,
                         str(assign_script),
                         "--batch",
-                        str(phase1_dir),
+                        str(batch_dir),
                         "--drafts",
                         str(output_dir),
+                        "--ledger",
+                        str(output_dir),
                         "--episode-output-names",
-                        "--fresh-ledger",
                     ]
+                    if os.getenv("EPISODE_ANALYSIS_FRESH_LEDGER", "").lower() in (
+                        "1",
+                        "true",
+                        "yes",
+                    ):
+                        assign_cmd.append("--fresh-ledger")
                     inscr = os.getenv("EPISODE_ANALYSIS_INSCRIPTION_DIR", "").strip()
                     if inscr:
                         assign_cmd.extend(["--inscription", inscr])

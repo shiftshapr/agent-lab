@@ -1,0 +1,2107 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 16,
+    "series_title": "Bride of Charlie",
+    "channel": "Candace Owens YouTube",
+    "source_format": "transcript",
+    "video_timestamp_range": "00:00–01:20:42",
+    "extraction_timestamp": "2026-09-23T19:41:06Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_completeness": "complete",
+    "ledger_continuation_note": "Phase 1 placeholders only; IDs assigned in Phase 2 from central ledger.",
+    "transcript_sha256": "13b1c9608498ca3b1833a0fe7c80b5b2584dc1a7aa04c5e6a6b1880b932ec081"
+  },
+  "executive_summary": "Episode 16 re-examines the 9/10 eyewitness pattern. Host surfaces GMA interview with Tiffany Barker and her later artery-explanation video, then walks a timeline placing George Zinn's arrest inside ~1:48 of the SUV departure. She highlights a Wirefy-branded individual filming immediately post-shot, and traces a viral roof-shooter video through Chicago-based phone numbers before speaking to an eyewitness whose metadata at 12:22–12:23 contradicts the FBI's public shooter description (tactical gear vs jeans/flag shirt). She then plays Andrew Kovette's Alex Clark interview (Catholic conversion, $150M Israel, SD cards, moral blackmail) and a Charlie Kirk Myrtle Beach clip on moral blackmail. Closes with a Trump audio statement on splitting MMR and delaying Hepatitis B.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_1",
+      "family_ref": "ART_1",
+      "bundle_name": "Good Morning America Tiffany Barker Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_1.1",
+          "ref": "ART_1.1",
+          "description": "GMA segment featuring Tiffany Barker, L Steel and Mia Grant recounting the 9/10 shooting.",
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "03:38–06:49",
+          "discovery_timestamp": "2026-03-18",
+          "transcript_snippet": "We're joined now by Tiffany Barker and her nieces L Steel and Mia Grant who were all in the audience",
+          "related_claims": [
+            "CLAIM_1",
+            "CLAIM_2"
+          ],
+          "related_nodes": [
+            "NODE_1",
+            "NODE_3",
+            "NODE_4",
+            "NODE_5",
+            "NODE_2"
+          ],
+          "tags": [
+            "interview_clip",
+            "gma"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_2",
+      "family_ref": "ART_2",
+      "bundle_name": "Tiffany Barker Response Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_2.1",
+          "ref": "ART_2.1",
+          "description": "Tiffany Barker's follow-up social video explaining how the 'artery' comment arose in the car.",
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "08:07–11:04",
+          "discovery_timestamp": "2026-03-18",
+          "transcript_snippet": "There's an artery here. Maybe they hit an artery. I didn't know. We didn't know anything.",
+          "related_claims": [
+            "CLAIM_3"
+          ],
+          "related_nodes": [
+            "NODE_3",
+            "NODE_4",
+            "NODE_5"
+          ],
+          "tags": [
+            "social_video",
+            "eyewitness_followup"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_3",
+      "family_ref": "ART_3",
+      "bundle_name": "George Zinn Footage & Timeline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_3.1",
+          "ref": "ART_3.1",
+          "description": "Diagram of the amphitheater/tent showing the SUV departure point, the underpass, and Charlie's seat.",
+          "video_timestamp": "12:15–13:29",
+          "discovery_timestamp": "2026-03-18",
+          "transcript_snippet": "where that dot is is where Charlie is sitting... the SUVs were waiting",
+          "related_claims": [
+            "CLAIM_4"
+          ],
+          "related_nodes": [
+            "NODE_2",
+            "NODE_6"
+          ],
+          "tags": [
+            "diagram",
+            "layout"
+          ],
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_3.2",
+          "ref": "ART_3.2",
+          "description": "On-screen footage showing George Zinn walking calmly down the amphitheater steps with his pants falling.",
+          "video_timestamp": "14:36–15:39",
+          "discovery_timestamp": "2026-03-18",
+          "transcript_snippet": "his pants fall down by themselves... a young man comes by to try to assist him",
+          "related_claims": [
+            "CLAIM_5"
+          ],
+          "related_nodes": [
+            "NODE_6"
+          ],
+          "tags": [
+            "video_clip"
+          ],
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_3.3",
+          "ref": "ART_3.3",
+          "description": "Host's hand-built second timeline graphic correlating shot, SUV, pants-fall, hat wave and handcuff moments.",
+          "video_timestamp": "16:54–17:50",
+          "discovery_timestamp": "2026-03-18",
+          "transcript_snippet": "40 seconds later Charlie's brought to the SUV... George Zinn is in handcuffs",
+          "related_claims": [
+            "CLAIM_4"
+          ],
+          "related_nodes": [
+            "NODE_6",
+            "NODE_2"
+          ],
+          "tags": [
+            "timeline_graphic"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_3.4",
+          "ref": "ART_3.4",
+          "description": "Viral photo of George Zinn bent down in handcuffs near the SUV zone.",
+          "video_timestamp": "18:16–18:31",
+          "discovery_timestamp": "2026-03-18",
+          "transcript_snippet": "It's George Zinn and he's bent down and he is in handcuffs and that goes viral",
+          "related_claims": [
+            "CLAIM_6"
+          ],
+          "related_nodes": [
+            "NODE_6",
+            "NODE_1000"
+          ],
+          "tags": [
+            "photo"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_4",
+      "family_ref": "ART_4",
+      "bundle_name": "Wirefy Donor Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_4.1",
+          "ref": "ART_4.1",
+          "description": "Post-shot footage showing a blue-shirted Wirefy-branded individual taking out his phone/texting near Charlie.",
+          "video_timestamp": "19:55–20:23",
+          "discovery_timestamp": "2026-03-18",
+          "transcript_snippet": "he's wearing a shirt that says Wirefi... sends a text, takes a photo",
+          "related_claims": [
+            "CLAIM_7"
+          ],
+          "related_nodes": [
+            "NODE_1004"
+          ],
+          "tags": [
+            "video_clip",
+            "sponsor_reference"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_5",
+      "family_ref": "ART_5",
+      "bundle_name": "Viral Roof Shooter Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_5.1",
+          "ref": "ART_5.1",
+          "description": "Viral bystander footage of the shooter running across the rooftop, posted by a third party.",
+          "video_timestamp": "22:22–22:36",
+          "discovery_timestamp": "2026-03-18",
+          "transcript_snippet": "there's somebody on the roof right there. Just saying.",
+          "related_claims": [
+            "CLAIM_8"
+          ],
+          "related_nodes": [
+            "NODE_11"
+          ],
+          "tags": [
+            "bystander_video",
+            "viral"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_6",
+      "family_ref": "ART_6",
+      "bundle_name": "Alex Clark / Andrew Kovette Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_6.1",
+          "ref": "ART_6.1",
+          "description": "Clip of Kovette answering whether Charlie was becoming Catholic.",
+          "video_timestamp": "40:40–44:35",
+          "discovery_timestamp": "2026-03-18",
+          "transcript_snippet": "Was he becoming Catholic? No. But he really loved Catholic mass.",
+          "related_claims": [
+            "CLAIM_10"
+          ],
+          "related_nodes": [
+            "NODE_7",
+            "NODE_2",
+            "NODE_9"
+          ],
+          "tags": [
+            "interview_clip"
+          ],
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_6.2",
+          "ref": "ART_6.2",
+          "description": "Clip of Kovette denying a $150M Israel offer and asserting TPUSA takes no foreign money.",
+          "video_timestamp": "45:12–48:52",
+          "discovery_timestamp": "2026-03-18",
+          "transcript_snippet": "Was Charlie offered $150 million from Israel? As far as I know, no.",
+          "related_claims": [
+            "CLAIM_11",
+            "CLAIM_12"
+          ],
+          "related_nodes": [
+            "NODE_7",
+            "NODE_2"
+          ],
+          "tags": [
+            "interview_clip",
+            "fara_reference"
+          ],
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_6.3",
+          "ref": "ART_6.3",
+          "description": "Clip of Kovette explaining the SD card removal as evidence-preservation after the shooting.",
+          "video_timestamp": "51:21–53:11",
+          "discovery_timestamp": "2026-03-18",
+          "transcript_snippet": "they wanted to make sure they didn't get stolen out of the cameras",
+          "related_claims": [
+            "CLAIM_13"
+          ],
+          "related_nodes": [
+            "NODE_7",
+            "NODE_1000"
+          ],
+          "tags": [
+            "interview_clip"
+          ],
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_6.4",
+          "ref": "ART_6.4",
+          "description": "Clip of Kovette recounting Charlie's Myrtle Beach answer to a question about Candace/Tucker.",
+          "video_timestamp": "54:04–55:11",
+          "discovery_timestamp": "2026-03-18",
+          "transcript_snippet": "he basically said, 'I don't appreciate being morally blackmailed.'",
+          "related_claims": [
+            "CLAIM_14"
+          ],
+          "related_nodes": [
+            "NODE_7",
+            "NODE_2",
+            "NODE_28"
+          ],
+          "tags": [
+            "interview_clip"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_7",
+      "family_ref": "ART_7",
+      "bundle_name": "Charlie Kirk Myrtle Beach Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_7.1",
+          "ref": "ART_7.1",
+          "description": "August Myrtle Beach clip of Charlie Kirk saying he won't end friendships over moral blackmail.",
+          "video_timestamp": "55:42–57:43",
+          "discovery_timestamp": "2026-03-18",
+          "transcript_snippet": "I don't stop being friends with people just because people morally blackmail me",
+          "related_claims": [
+            "CLAIM_14",
+            "CLAIM_15"
+          ],
+          "related_nodes": [
+            "NODE_2",
+            "NODE_1"
+          ],
+          "tags": [
+            "event_clip",
+            "pre_august"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_8",
+      "family_ref": "ART_8",
+      "bundle_name": "Trump Vaccine Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_8.1",
+          "ref": "ART_8.1",
+          "description": "Audio of Trump calling for separation of MMR vaccines and delay of Hepatitis B for newborns.",
+          "video_timestamp": "01:01:02–01:02:30",
+          "discovery_timestamp": "2026-03-18",
+          "transcript_snippet": "We want no mercury in the vaccine. We want no aluminum in the vaccine. The MMR I think should be taken separately",
+          "related_claims": [
+            "CLAIM_16"
+          ],
+          "related_nodes": [
+            "NODE_16"
+          ],
+          "tags": [
+            "audio_clip",
+            "public_statement"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_9",
+      "family_ref": "ART_9",
+      "bundle_name": "Roof-Video Eyewitness Text Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_9.1",
+          "ref": "ART_9.1",
+          "description": "Text from the rooftop-videographer eyewitness describing a smaller rifle and tactical-gear shooter.",
+          "video_timestamp": "30:47–31:32",
+          "discovery_timestamp": "2026-03-18",
+          "transcript_snippet": "the assassin may have used a 10 or 20 round magazine... I would expect was used",
+          "related_claims": [
+            "CLAIM_17",
+            "CLAIM_18"
+          ],
+          "related_nodes": [
+            "NODE_2004",
+            "NODE_12"
+          ],
+          "tags": [
+            "text_message",
+            "eyewitness_account"
+          ],
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "NODE_1",
+      "ref": "NODE_1",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the show and primary investigator in the Bride of Charlie series.",
+      "related_artifacts": [
+        "ART_1.1",
+        "ART_2.1",
+        "ART_3.1",
+        "ART_3.3",
+        "ART_4.1",
+        "ART_7.1"
+      ],
+      "related_claims": [
+        "CLAIM_1",
+        "CLAIM_14",
+        "CLAIM_15"
+      ],
+      "tags": [
+        "host",
+        "key_figure"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_2",
+      "ref": "NODE_2",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary deceased subject; central node across the series.",
+      "related_artifacts": [
+        "ART_1.1",
+        "ART_3.1",
+        "ART_6.1",
+        "ART_6.2",
+        "ART_6.4",
+        "ART_7.1"
+      ],
+      "related_claims": [
+        "CLAIM_10",
+        "CLAIM_14",
+        "CLAIM_15"
+      ],
+      "tags": [
+        "deceased_subject",
+        "key_figure"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_3",
+      "ref": "NODE_3",
+      "name": "Tiffany Barker",
+      "type": "person",
+      "description": "Family member who appeared on GMA and posted a follow-up video explaining the artery remark.",
+      "related_artifacts": [
+        "ART_1.1",
+        "ART_2.1"
+      ],
+      "related_claims": [
+        "CLAIM_1",
+        "CLAIM_2",
+        "CLAIM_3"
+      ],
+      "tags": [
+        "eyewitness"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_4",
+      "ref": "NODE_4",
+      "name": "L Steel",
+      "type": "person",
+      "description": "Tiffany Barker's niece; spoke on the GMA segment about the shooting.",
+      "related_artifacts": [
+        "ART_1.1",
+        "ART_2.1"
+      ],
+      "related_claims": [
+        "CLAIM_2"
+      ],
+      "tags": [
+        "eyewitness",
+        "minor"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_5",
+      "ref": "NODE_5",
+      "name": "Mia Grant",
+      "type": "person",
+      "description": "Tiffany Barker's niece; spoke on the GMA segment about the shooting.",
+      "related_artifacts": [
+        "ART_1.1",
+        "ART_2.1"
+      ],
+      "related_claims": [
+        "CLAIM_2"
+      ],
+      "tags": [
+        "eyewitness",
+        "minor"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_6",
+      "ref": "NODE_6",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "Arrested shortly after the shooting; timeline and location analyzed by host.",
+      "related_artifacts": [
+        "ART_3.1",
+        "ART_3.2",
+        "ART_3.3",
+        "ART_3.4"
+      ],
+      "related_claims": [
+        "CLAIM_4",
+        "CLAIM_5",
+        "CLAIM_6"
+      ],
+      "tags": [
+        "arrested_person",
+        "key_figure"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_7",
+      "ref": "NODE_7",
+      "name": "Andrew Kovette",
+      "type": "person",
+      "description": "PR agent for Turning Point USA; sat down with Alex Clark to address rumors.",
+      "related_artifacts": [
+        "ART_6.1",
+        "ART_6.2",
+        "ART_6.3",
+        "ART_6.4"
+      ],
+      "related_claims": [
+        "CLAIM_10",
+        "CLAIM_11",
+        "CLAIM_12",
+        "CLAIM_13",
+        "CLAIM_14"
+      ],
+      "tags": [
+        "spokesperson",
+        "tpusa"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_8",
+      "ref": "NODE_8",
+      "name": "Alex Clark",
+      "type": "person",
+      "description": "Podcast host who interviewed Andrew Kovette; clip excerpts played.",
+      "related_artifacts": [
+        "ART_6.1",
+        "ART_6.2",
+        "ART_6.3",
+        "ART_6.4"
+      ],
+      "related_claims": [
+        "CLAIM_10",
+        "CLAIM_11",
+        "CLAIM_13"
+      ],
+      "tags": [
+        "podcast_host"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_9",
+      "ref": "NODE_9",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Charlie's widow; new TPUSA chairman/CEO; subject of host's prayers and operational concerns.",
+      "related_artifacts": [
+        "ART_6.1"
+      ],
+      "related_claims": [
+        "CLAIM_10"
+      ],
+      "tags": [
+        "key_figure",
+        "grieving_widow"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_10",
+      "ref": "NODE_10",
+      "name": "Phil Leman",
+      "type": "person",
+      "description": "Utah Lt. Gov. candidate; per host, the GMA connection was routed through his campaign to Tiffany Barker.",
+      "related_artifacts": [
+        "ART_1.1"
+      ],
+      "related_claims": [
+        "CLAIM_1"
+      ],
+      "tags": [
+        "political_figure"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_11",
+      "ref": "NODE_11",
+      "name": "Aaron",
+      "type": "person",
+      "description": "Person who handed the host's ground contact a Chicago phone number tied to the roof video chain.",
+      "related_artifacts": [
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_8"
+      ],
+      "tags": [
+        "unverified_intermediary"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_12",
+      "ref": "NODE_12",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "FBI-named suspect whose description (jeans, flag shirt) is contested by the rooftop eyewitness.",
+      "related_artifacts": [
+        "ART_9.1"
+      ],
+      "related_claims": [
+        "CLAIM_17",
+        "CLAIM_18"
+      ],
+      "tags": [
+        "named_suspect"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_13",
+      "ref": "NODE_13",
+      "name": "Charlie Skyler",
+      "type": "person",
+      "description": "Production team member referenced while pulling the timeline graphic on screen.",
+      "related_artifacts": [
+        "ART_3.3"
+      ],
+      "related_claims": [],
+      "tags": [
+        "production"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_14",
+      "ref": "NODE_14",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Referenced via prior tweet suggesting more parties involved than Robinson alone.",
+      "related_artifacts": [],
+      "related_claims": [
+        "CLAIM_18"
+      ],
+      "tags": [
+        "public_figure"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_15",
+      "ref": "NODE_15",
+      "name": "Michael Nolles",
+      "type": "person",
+      "description": "Catholic debate partner of Charlie Kirk referenced by Kovette.",
+      "related_artifacts": [
+        "ART_6.1"
+      ],
+      "related_claims": [],
+      "tags": [
+        "commentator"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_16",
+      "ref": "NODE_16",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; audio statement on MMR separation and Hepatitis B delay played in the episode.",
+      "related_artifacts": [
+        "ART_8.1"
+      ],
+      "related_claims": [
+        "CLAIM_16"
+      ],
+      "tags": [
+        "public_figure"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_17",
+      "ref": "NODE_17",
+      "name": "John Heinchell",
+      "type": "person",
+      "description": "Commenter noting Charlie's anti-genocide/Netanyahu stance had shifted pre-assassination.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "commenter"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_18",
+      "ref": "NODE_18",
+      "name": "Jenna V",
+      "type": "person",
+      "description": "Commenter thanking host and recalling mutual support with Charlie.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "commenter"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_19",
+      "ref": "NODE_19",
+      "name": "Tempes",
+      "type": "person",
+      "description": "Commenter on Charlie's spiritual status.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "commenter"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_20",
+      "ref": "NODE_20",
+      "name": "Carl",
+      "type": "person",
+      "description": "Commenter thanking host for questioning the establishment.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "commenter"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_21",
+      "ref": "NODE_21",
+      "name": "Mary Kelly",
+      "type": "person",
+      "description": "Commenter praying via Flame of Love rosaries.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "commenter"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_22",
+      "ref": "NODE_22",
+      "name": "Chris",
+      "type": "person",
+      "description": "Commenter asking who paid for the rapid crime-scene paver installation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "CLAIM_19"
+      ],
+      "tags": [
+        "commenter"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_23",
+      "ref": "NODE_23",
+      "name": "MC",
+      "type": "person",
+      "description": "Commenter quoting police scanner description (jeans, black shirt, mask, vest, rifle).",
+      "related_artifacts": [],
+      "related_claims": [
+        "CLAIM_20"
+      ],
+      "tags": [
+        "commenter"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_24",
+      "ref": "NODE_24",
+      "name": "Milana",
+      "type": "person",
+      "description": "Commenter asking about homeschooling curriculum.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "commenter"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_25",
+      "ref": "NODE_25",
+      "name": "Lover of Light",
+      "type": "person",
+      "description": "Commenter asking host to share personal stories.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "commenter"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_26",
+      "ref": "NODE_26",
+      "name": "Bill Aman",
+      "type": "person",
+      "description": "TPUSA donor referenced as possibly funneling foreign-agent money.",
+      "related_artifacts": [
+        "ART_6.2"
+      ],
+      "related_claims": [
+        "CLAIM_11"
+      ],
+      "tags": [
+        "donor"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_27",
+      "ref": "NODE_27",
+      "name": "Bob Schman",
+      "type": "person",
+      "description": "TPUSA donor referenced in same FARA-suspicion chain.",
+      "related_artifacts": [
+        "ART_6.2"
+      ],
+      "related_claims": [
+        "CLAIM_11"
+      ],
+      "tags": [
+        "donor"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_28",
+      "ref": "NODE_28",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Referenced as another figure Charlie was pressured to disavow via donor moral blackmail.",
+      "related_artifacts": [
+        "ART_6.4"
+      ],
+      "related_claims": [
+        "CLAIM_14"
+      ],
+      "tags": [
+        "commentator"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1000",
+      "ref": "NODE_1000",
+      "name": "Turning Point USA",
+      "type": "organization",
+      "organization_kind": "political_organization",
+      "description": "Charlie's organization; central to the eyewitness pattern and SD card question.",
+      "related_artifacts": [
+        "ART_3.4",
+        "ART_6.1",
+        "ART_6.2",
+        "ART_6.3",
+        "ART_6.4",
+        "ART_7.1"
+      ],
+      "related_claims": [
+        "CLAIM_6",
+        "CLAIM_12",
+        "CLAIM_13"
+      ],
+      "tags": [
+        "key_org"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1001",
+      "ref": "NODE_1001",
+      "name": "Utah Valley University",
+      "type": "organization",
+      "organization_kind": "educational_institution",
+      "description": "Venue-host university; host notes most eyewitnesses were not UVU students.",
+      "related_artifacts": [
+        "ART_1.1",
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_8"
+      ],
+      "tags": [
+        "venue"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1002",
+      "ref": "NODE_1002",
+      "name": "Brigham Young University",
+      "type": "organization",
+      "organization_kind": "educational_institution",
+      "description": "Identified as the school attended by one of the two roof-videographer companions.",
+      "related_artifacts": [
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_8"
+      ],
+      "tags": [
+        "university"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1003",
+      "ref": "NODE_1003",
+      "name": "Calera Engineering",
+      "type": "organization",
+      "organization_kind": "company",
+      "description": "Company whose owner and employees live on the relevant block; revisited from prior episodes.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "prior_reference"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1004",
+      "ref": "NODE_1004",
+      "name": "Wirefy",
+      "type": "organization",
+      "organization_kind": "company",
+      "description": "Tour sponsor whose branding was the backdrop and whose employee appeared post-shot.",
+      "related_artifacts": [
+        "ART_4.1"
+      ],
+      "related_claims": [
+        "CLAIM_7"
+      ],
+      "tags": [
+        "sponsor"
+      ],
+      "also_known_as": [
+        "Wirefi"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1005",
+      "ref": "NODE_1005",
+      "name": "Good Morning America",
+      "type": "organization",
+      "organization_kind": "media_outlet",
+      "description": "Outlet that aired the Tiffany Barker family interview on 9/11.",
+      "related_artifacts": [
+        "ART_1.1"
+      ],
+      "related_claims": [
+        "CLAIM_1"
+      ],
+      "tags": [
+        "media"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1006",
+      "ref": "NODE_1006",
+      "name": "Alex Clark Podcast",
+      "type": "organization",
+      "organization_kind": "media_outlet",
+      "description": "Podcast where Andrew Kovette answered the four circulating rumors.",
+      "related_artifacts": [
+        "ART_6.1",
+        "ART_6.2",
+        "ART_6.3",
+        "ART_6.4"
+      ],
+      "related_claims": [
+        "CLAIM_10",
+        "CLAIM_11",
+        "CLAIM_13"
+      ],
+      "tags": [
+        "media"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1007",
+      "ref": "NODE_1007",
+      "name": "LDS Church",
+      "type": "organization",
+      "organization_kind": "religious_institution",
+      "description": "Family faith tradition tied to the Barkers per Reddit-sleuth research.",
+      "related_artifacts": [
+        "ART_1.1"
+      ],
+      "related_claims": [
+        "CLAIM_1"
+      ],
+      "tags": [
+        "religious"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1008",
+      "ref": "NODE_1008",
+      "name": "FBI",
+      "type": "organization",
+      "organization_kind": "government_agency",
+      "description": "Agency whose public shooter description is contradicted by the rooftop eyewitness.",
+      "related_artifacts": [
+        "ART_9.1"
+      ],
+      "related_claims": [
+        "CLAIM_17",
+        "CLAIM_18"
+      ],
+      "tags": [
+        "government"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1009",
+      "ref": "NODE_1009",
+      "name": "CIA",
+      "type": "organization",
+      "organization_kind": "government_agency",
+      "description": "Referenced rhetorically when host jokes Trump may be 'wearing a CIA hat and watching.'",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "rhetorical_reference"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2000",
+      "ref": "NODE_2000",
+      "name": "9/10 Eyewitness Pattern Investigation",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Ongoing thread: most viral-witness accounts trace back to TPUSA or government-tied people, not random UVU students.",
+      "related_artifacts": [
+        "ART_1.1",
+        "ART_3.4",
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_1",
+        "CLAIM_6"
+      ],
+      "tags": [
+        "series_arc"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2001",
+      "ref": "NODE_2001",
+      "name": "Artery Remark Provenance",
+      "type": "topic",
+      "topic_kind": "discrepancy",
+      "description": "Whether the children's 'hit his artery' description came from observation or parental coaching in the car.",
+      "related_artifacts": [
+        "ART_1.1",
+        "ART_2.1"
+      ],
+      "related_claims": [
+        "CLAIM_2",
+        "CLAIM_3"
+      ],
+      "tags": [
+        "eyewitness_inconsistency"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2002",
+      "ref": "NODE_2002",
+      "name": "George Zinn Arrest Location/Timing",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Whether arrest in the same area as Charlie's SUV departs within ~1:48 is procedurally normal.",
+      "related_artifacts": [
+        "ART_3.1",
+        "ART_3.2",
+        "ART_3.3",
+        "ART_3.4"
+      ],
+      "related_claims": [
+        "CLAIM_4",
+        "CLAIM_5",
+        "CLAIM_6"
+      ],
+      "tags": [
+        "timeline_anomaly"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2003",
+      "ref": "NODE_2003",
+      "name": "Roof Video Provenance Chain",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Tracing the viral roof video through a third-party poster, an unknown Aaron, and Chicago numbers.",
+      "related_artifacts": [
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_8"
+      ],
+      "tags": [
+        "chain_of_custody"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2004",
+      "ref": "NODE_2004",
+      "name": "Shooter Description Contradiction",
+      "type": "topic",
+      "topic_kind": "discrepancy",
+      "description": "Eyewitness says tactical gear + face mask + smaller rifle; public FBI narrative says jeans + flag shirt.",
+      "related_artifacts": [
+        "ART_9.1"
+      ],
+      "related_claims": [
+        "CLAIM_17",
+        "CLAIM_18"
+      ],
+      "tags": [
+        "core_contradiction"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2005",
+      "ref": "NODE_2005",
+      "name": "TPUSA SD Card Removal",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Whether SD cards were pulled to preserve evidence or to control the record.",
+      "related_artifacts": [
+        "ART_6.3"
+      ],
+      "related_claims": [
+        "CLAIM_13"
+      ],
+      "tags": [
+        "evidence_handling"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2006",
+      "ref": "NODE_2006",
+      "name": "Wirefy Post-Shot Individual Identity",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Open target: who is the blue-shirt Wirefy representative who texted/photographed in the immediate aftermath.",
+      "related_artifacts": [
+        "ART_4.1"
+      ],
+      "related_claims": [
+        "CLAIM_7"
+      ],
+      "tags": [
+        "open_target"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2007",
+      "ref": "NODE_2007",
+      "name": "Earpiece Rumor Debunking",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Host's assertion that what looked like an earpiece was actually Charlie's necklace.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "host_assertion_only"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2008",
+      "ref": "NODE_2008",
+      "name": "Bulletproof Vest Absence",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Host's claim that Charlie was not wearing a vest and that a prior provider had stopped supplying them.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "host_assertion_only",
+        "possible_unverified_lead"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2009",
+      "ref": "NODE_2009",
+      "name": "Catholic Conversion Rumor",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Was Charlie formally converting vs. attending mass and praying the rosary.",
+      "related_artifacts": [
+        "ART_6.1",
+        "ART_7.1"
+      ],
+      "related_claims": [
+        "CLAIM_10"
+      ],
+      "tags": [
+        "religion_meme_territory"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2010",
+      "ref": "NODE_2010",
+      "name": "Israel $150M Offer Rumor",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Whether a $150M foreign-money offer was made to Charlie and refused.",
+      "related_artifacts": [
+        "ART_6.2"
+      ],
+      "related_claims": [
+        "CLAIM_11",
+        "CLAIM_12"
+      ],
+      "tags": [
+        "fara_territory"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2011",
+      "ref": "NODE_2011",
+      "name": "Moral Blackmail by Donors",
+      "type": "topic",
+      "topic_kind": "narrative_pattern",
+      "description": "Charlie's repeated claim that donors pressured him on who to associate with.",
+      "related_artifacts": [
+        "ART_6.4",
+        "ART_7.1"
+      ],
+      "related_claims": [
+        "CLAIM_14",
+        "CLAIM_15"
+      ],
+      "tags": [
+        "testimony"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2012",
+      "ref": "NODE_2012",
+      "name": "Crime Scene Pavers",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Open lead: who paid for the unusually quick paver replacement at the venue.",
+      "related_artifacts": [],
+      "related_claims": [
+        "CLAIM_19"
+      ],
+      "tags": [
+        "open_lead"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2013",
+      "ref": "NODE_2013",
+      "name": "Police Scanner Description",
+      "type": "topic",
+      "topic_kind": "discrepancy",
+      "description": "Scanner reportedly described jeans/black shirt/mask/vest/rifle — never made public.",
+      "related_artifacts": [],
+      "related_claims": [
+        "CLAIM_20"
+      ],
+      "tags": [
+        "unverified_allegation"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 16,
+          "video_timestamp": "49:03",
+          "quote": "I am not equipped to be the CEO of my little tiny company... I worry I really do worry... just pray for Erika",
+          "speaker_node_ref": "NODE_1",
+          "context": "Host asks viewers to pray for Erika taking on CEO/chairman role alone.",
+          "tags": [
+            "grieving_widow_framing"
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "context": "Host positions Erika as overwhelmed widow needing protection from financial snakes."
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-7",
+      "ref": "M-7",
+      "canonical_term": "Catholic/Evangelical/Jewish identity flip",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 16,
+          "video_timestamp": "39:55",
+          "quote": "I said the joke that I said to Charlie, take the next step. You're too smart to be a Protestant.",
+          "speaker_node_ref": "NODE_1",
+          "context": "Host defends egging Charlie on toward Catholicism.",
+          "tags": [
+            "identity_flip"
+          ],
+          "confidence": "high"
+        },
+        {
+          "episode": 16,
+          "video_timestamp": "41:01",
+          "quote": "I grew up Catholic and first communion and went to Catholic high school, but then I ended up becoming a Christian in college... Erika kind of follows that same path",
+          "speaker_node_ref": "NODE_7",
+          "context": "Kovette maps Erika's cradle-Catholic-to-Protestant arc to neutralize the conversion framing.",
+          "tags": [
+            "identity_flip"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "context": "The episode performs the Catholic/Evangelical flip from both sides: host as Catholic coaxing; Kovette as ex-Catholic now Protestant."
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-2",
+      "ref": "M-2",
+      "canonical_term": "Sheer Evil",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 16,
+          "video_timestamp": "01:03:11",
+          "quote": "the evildoers in this world. The psychopaths that have been poisoning us for generations",
+          "speaker_node_ref": "NODE_1",
+          "context": "Vaccine/school segment.",
+          "tags": [
+            "pure_evil_framing"
+          ],
+          "confidence": "high"
+        },
+        {
+          "episode": 16,
+          "video_timestamp": "01:04:41",
+          "quote": "we have to be radical because the psychopaths that rule the world are radical",
+          "speaker_node_ref": "NODE_1",
+          "context": "Calls for parents to withdraw children from schools.",
+          "tags": [
+            "pure_evil_framing"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "context": "Sheer-Evil frame applied to pharmaceutical/school system."
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-3",
+      "ref": "M-3",
+      "canonical_term": "Trust the Science",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 16,
+          "video_timestamp": "01:00:33",
+          "quote": "how much they lie and delude. And we have all of this fear-based reaction... accepting what is poison",
+          "speaker_node_ref": "NODE_1",
+          "context": "Anti-vax commentary framing vaccines as poison and 'science' as cover for harm.",
+          "tags": [
+            "trust_the_science_inversion"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "context": "Host inverts the trust-the-science meme to argue public-health guidance is the lie."
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-5",
+      "ref": "M-5",
+      "canonical_term": "happy coincidence",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 16,
+          "video_timestamp": "03:17",
+          "quote": "I guess that's just coincidental",
+          "speaker_node_ref": "NODE_1",
+          "context": "Host notes that none of the eyewitnesses appear to be UVU students.",
+          "tags": [
+            "coincidence_skepticism"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "context": "Sarcastic 'just a coincidence' about the non-random eyewitness pool."
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_1",
+      "ref": "CLAIM_1",
+      "label": "GMA reached Tiffany Barker via Phil Leman political channel",
+      "claim_timestamp": "10:11",
+      "claim": "Tiffany Barker told host that GMA's outreach to her came through Phil Leman, with whom her sister ran as lieutenant governor.",
+      "anchored_artifacts": [
+        "ART_1.1"
+      ],
+      "related_nodes": [
+        "NODE_3",
+        "NODE_10",
+        "NODE_1005",
+        "NODE_1007",
+        "NODE_2000"
+      ],
+      "investigative_direction": "Verify Tiffany Barker's LDS/political family ties and the Leman campaign contact chain.",
+      "transcript_snippet": "her sister ran as lieutenant governor alongside Phil Leman... Good Morning America reached out to Phil Leman",
+      "tags": [
+        "artifact_anchored"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_2",
+      "ref": "CLAIM_2",
+      "label": "Children described Charlie's artery wound on GMA",
+      "claim_timestamp": "05:18",
+      "claim": "Nieces L Steel and Mia Grant told GMA they saw the shot hit Charlie's artery.",
+      "anchored_artifacts": [
+        "ART_1.1"
+      ],
+      "related_nodes": [
+        "NODE_3",
+        "NODE_4",
+        "NODE_5",
+        "NODE_2",
+        "NODE_2001"
+      ],
+      "investigative_direction": "Compare the children's GMA statements against the video metadata and any device footage.",
+      "transcript_snippet": "I saw blood everywhere and it hit his artery and then I just we fell to the ground",
+      "tags": [
+        "artifact_anchored"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_3",
+      "ref": "CLAIM_3",
+      "label": "Artery detail originated from car conversation, not observation",
+      "claim_timestamp": "09:03",
+      "claim": "Per Tiffany Barker's follow-up video, the 'artery' detail was introduced by Tiffany herself during a 1.5-hour car conversation, not from what the children saw.",
+      "anchored_artifacts": [
+        "ART_2.1"
+      ],
+      "related_nodes": [
+        "NODE_3",
+        "NODE_4",
+        "NODE_5",
+        "NODE_2001"
+      ],
+      "investigative_direction": "Obtain the original follow-up video and any car-cam footage; verify Tiffany's stated timeline.",
+      "transcript_snippet": "I said, 'There's an artery here. Maybe they hit an artery.' I didn't know. We didn't know anything.",
+      "tags": [
+        "artifact_anchored"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_4",
+      "ref": "CLAIM_4",
+      "label": "George Zinn arrested ~1:48 after Charlie's SUV departs, same location",
+      "claim_timestamp": "13:41",
+      "claim": "Per the host's timeline, ~40 seconds from shot to SUV departure and ~1:08 later George Zinn is in handcuffs in the same SUV zone.",
+      "anchored_artifacts": [
+        "ART_3.1",
+        "ART_3.3",
+        "ART_3.4"
+      ],
+      "related_nodes": [
+        "NODE_6",
+        "NODE_2",
+        "NODE_2002"
+      ],
+      "investigative_direction": "Independently verify the timeline from official police body-cam and security footage.",
+      "transcript_snippet": "40 seconds later, Charlie's brought to the SUV... George Zinn is in handcuffs",
+      "tags": [
+        "artifact_anchored",
+        "timeline"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_5",
+      "ref": "CLAIM_5",
+      "label": "George Zinn's pants fell independently of arrest",
+      "claim_timestamp": "14:55",
+      "claim": "Host shows on-screen footage of Zinn's pants falling while he was walking in a dispersing crowd, prior to any arrest contact.",
+      "anchored_artifacts": [
+        "ART_3.2"
+      ],
+      "related_nodes": [
+        "NODE_6",
+        "NODE_2002"
+      ],
+      "investigative_direction": "Cross-check the walking-clip frame-by-frame against law-enforcement timeline records.",
+      "transcript_snippet": "his pants fall down by themselves... a young man comes by to try to assist him",
+      "tags": [
+        "artifact_anchored"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_6",
+      "ref": "CLAIM_6",
+      "label": "Handcuffs photo shared by Utah TPUSA advertiser",
+      "claim_timestamp": "18:31",
+      "claim": "Host says the viral handcuffs photo was first circulated by a Utah-based individual who advertises with Turning Point USA.",
+      "anchored_artifacts": [
+        "ART_3.4"
+      ],
+      "related_nodes": [
+        "NODE_6",
+        "NODE_1000",
+        "NODE_2000"
+      ],
+      "investigative_direction": "Identify the original posting account via reverse-image search and archive timestamps.",
+      "transcript_snippet": "somebody who lived in Utah who advertises with Turning Point USA",
+      "tags": [
+        "artifact_anchored"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_7",
+      "ref": "CLAIM_7",
+      "label": "Wirefy sponsored event; employee on-site post-shot",
+      "claim_timestamp": "21:02",
+      "claim": "Wirefy branding was the backdrop advertiser at the event, and a Wirefy-branded individual was on-site sending texts/photos in the immediate aftermath.",
+      "anchored_artifacts": [
+        "ART_4.1"
+      ],
+      "related_nodes": [
+        "NODE_1004",
+        "NODE_2006"
+      ],
+      "investigative_direction": "Identify the blue-shirted Wirefy individual; request their cell metadata; confirm sponsorship ledger.",
+      "transcript_snippet": "Wirefy, you will notice in the clips of the event, is the backdrop advertiser that's behind Charlie",
+      "tags": [
+        "artifact_anchored"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_8",
+      "ref": "CLAIM_8",
+      "label": "Roof video chain routed through Chicago-based intermediaries",
+      "claim_timestamp": "24:06",
+      "claim": "Host traces the viral roof footage through an unknown poster, an Aaron with a Chicago number, and a separate pair of Chicago numbers that go nowhere.",
+      "anchored_artifacts": [
+        "ART_5.1"
+      ],
+      "related_nodes": [
+        "NODE_11",
+        "NODE_1001",
+        "NODE_1002",
+        "NODE_2003"
+      ],
+      "investigative_direction": "Subpoena the originating accounts; obtain phone records; verify BYU enrollment of companion.",
+      "transcript_snippet": "those two numbers were both Chicago based... that's not making sense to me",
+      "tags": [
+        "artifact_anchored"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_9",
+      "ref": "CLAIM_9",
+      "label": "Eyewitness tells FBI shooter was in tactical gear, not jeans",
+      "claim_timestamp": "29:07",
+      "claim": "Per the rooftop videographer, he told authorities within hours that the shooter was in tactical gear and a face mask, contradicting the later public description.",
+      "anchored_artifacts": [
+        "ART_9.1"
+      ],
+      "related_nodes": [
+        "NODE_12",
+        "NODE_1008",
+        "NODE_2004"
+      ],
+      "investigative_direction": "Obtain the original FBI 302 or tip-line intake record; corroborate via metadata and witness interview.",
+      "transcript_snippet": "this person was dressed in tactical gear and he was wearing a face mask",
+      "tags": [
+        "artifact_anchored",
+        "core_contradiction"
+      ],
+      "contradicts_claim_refs": [],
+      "supports_claim_refs": [
+        "CLAIM_10"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_10",
+      "ref": "CLAIM_10",
+      "label": "Eyewitness says rifle was smaller than reported",
+      "claim_timestamp": "30:37",
+      "claim": "The eyewitness texted the host that the weapon sounded like a smaller rifle, not a hunting rifle, and likely used a 10 or 20-round magazine.",
+      "anchored_artifacts": [
+        "ART_9.1"
+      ],
+      "related_nodes": [
+        "NODE_12",
+        "NODE_1008",
+        "NODE_2004"
+      ],
+      "investigative_direction": "Compare eyewitness account with ballistic/forensic findings; check autopsy report for copper-shard evidence.",
+      "transcript_snippet": "the assassin may have used a 10 or 20 round magazine... Hornady VMAX or similar lightweight 223 bullet",
+      "tags": [
+        "artifact_anchored"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_11",
+      "ref": "CLAIM_11",
+      "label": "Kovette denies Charlie was converting to Catholicism",
+      "claim_timestamp": "40:47",
+      "claim": "Andrew Kovette told Alex Clark that Charlie was not converting; he loved Catholic mass but remained Protestant.",
+      "anchored_artifacts": [
+        "ART_6.1"
+      ],
+      "related_nodes": [
+        "NODE_7",
+        "NODE_2",
+        "NODE_9",
+        "NODE_2009"
+      ],
+      "investigative_direction": "Cross-check with Charlie's own prior public statements on faith and any church/RCIA enrollment records.",
+      "transcript_snippet": "Was he becoming Catholic? No. But he really loved Catholic mass.",
+      "tags": [
+        "artifact_anchored"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_12",
+      "ref": "CLAIM_12",
+      "label": "Kovette denies $150M Israel offer",
+      "claim_timestamp": "45:12",
+      "claim": "Kovette says he never heard of a $150M Israel offer and that TPUSA has consistently refused foreign money, including cancelling wires.",
+      "anchored_artifacts": [
+        "ART_6.2"
+      ],
+      "related_nodes": [
+        "NODE_7",
+        "NODE_2",
+        "NODE_26",
+        "NODE_27",
+        "NODE_2010"
+      ],
+      "investigative_direction": "Audit TPUSA donor records against FARA filings; review cancelled wire correspondence.",
+      "transcript_snippet": "Was Charlie offered $150 million from Israel? As far as I know, no.",
+      "tags": [
+        "artifact_anchored"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_13",
+      "ref": "CLAIM_13",
+      "label": "SD cards removed by TPUSA affiliate to prevent theft/loss",
+      "claim_timestamp": "51:21",
+      "claim": "Kovette says SD cards were pulled from on-scene cameras to preserve evidence from being stolen during the chaos, not to suppress footage.",
+      "anchored_artifacts": [
+        "ART_6.3"
+      ],
+      "related_nodes": [
+        "NODE_7",
+        "NODE_1000",
+        "NODE_2005"
+      ],
+      "investigative_direction": "Confirm chain-of-custody; check whether originals were turned over intact to law enforcement.",
+      "transcript_snippet": "they wanted to make sure they didn't get stolen out of the cameras",
+      "tags": [
+        "artifact_anchored"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_14",
+      "ref": "CLAIM_14",
+      "label": "Charlie Kirk said he was being morally blackmailed by donors",
+      "claim_timestamp": "54:57",
+      "claim": "Kovette recounts Charlie telling him after a Myrtle Beach show, 'I don't appreciate being morally blackmailed,' when pressured to disavow Candace/Tucker.",
+      "anchored_artifacts": [
+        "ART_6.4",
+        "ART_7.1"
+      ],
+      "related_nodes": [
+        "NODE_7",
+        "NODE_2",
+        "NODE_28",
+        "NODE_1",
+        "NODE_2011"
+      ],
+      "investigative_direction": "Identify the donor(s) involved; review any internal TPUSA communications on donor pressure.",
+      "transcript_snippet": "he basically said, 'I don't appreciate being morally blackmailed.'",
+      "tags": [
+        "artifact_anchored",
+        "testimony"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_15",
+      "ref": "CLAIM_15",
+      "label": "Charlie Kirk publicly rejected demands to stop being friends with host",
+      "claim_timestamp": "56:05",
+      "claim": "In an August Myrtle Beach clip, Charlie Kirk said he does not stop being friends with people because of moral blackmail and named Candace specifically.",
+      "anchored_artifacts": [
+        "ART_7.1"
+      ],
+      "related_nodes": [
+        "NODE_2",
+        "NODE_1",
+        "NODE_2011"
+      ],
+      "investigative_direction": "Verify the clip's date and audience Q&A context.",
+      "transcript_snippet": "I don't stop being friends with people just because people morally blackmail me",
+      "tags": [
+        "artifact_anchored"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_16",
+      "ref": "CLAIM_16",
+      "label": "Trump called for separating MMR and delaying Hepatitis B",
+      "claim_timestamp": "01:01:02",
+      "claim": "Trump publicly stated vaccines should not contain mercury or aluminum, MMR should be given as separate shots, and Hepatitis B should wait until age 12.",
+      "anchored_artifacts": [
+        "ART_8.1"
+      ],
+      "related_nodes": [
+        "NODE_16"
+      ],
+      "investigative_direction": "Verify official White House transcript of the statement.",
+      "transcript_snippet": "The MMR I think should be taken separately... hepatitis B is sexually transmitted... wait till the baby is 12",
+      "tags": [
+        "artifact_anchored",
+        "public_statement"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_17",
+      "ref": "CLAIM_17",
+      "label": "Erika's father is the Lt. Gov. candidate alongside Phil Leman",
+      "claim_timestamp": "10:11",
+      "claim": "Host states Tiffany Barker's sister ran as lieutenant governor alongside Phil Leman.",
+      "anchored_artifacts": [
+        "ART_1.1"
+      ],
+      "related_nodes": [
+        "NODE_3",
+        "NODE_10"
+      ],
+      "investigative_direction": "Verify Leman's 2024 lt. gov. running mate name and family relation to Tiffany Barker.",
+      "transcript_snippet": "her sister ran as lieutenant governor alongside Phil Leman",
+      "tags": [
+        "artifact_anchored"
+      ],
+      "confidence": "medium",
+      "uncertainty_note": "Host identifies the sister as Tiffany's, but Tiffany's relationship (sister vs. in-law) and exact candidate name should be verified."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_18",
+      "ref": "CLAIM_18",
+      "label": "Kash Patel indicated more parties involved than Robinson alone",
+      "claim_timestamp": "01:16:47",
+      "claim": "Host cites Kash Patel's recent tweet/thread as conceding that the public FBI narrative does not add up and that more parties are likely involved.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "NODE_14",
+        "NODE_12",
+        "NODE_1008",
+        "NODE_2004"
+      ],
+      "investigative_direction": "Pull the actual Patel thread and timestamp the posts; verify his role and standing.",
+      "transcript_snippet": "Cash Patel has signified that that is so in his long message that we spoke about yesterday",
+      "tags": [
+        "host_assertion_only",
+        "requires_human_verification"
+      ],
+      "confidence": "low"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_19",
+      "ref": "CLAIM_19",
+      "label": "Crime scene paver installation was paid for by an unknown party",
+      "claim_timestamp": "01:15:09",
+      "claim": "Commenter Chris asks who paid for the rapid paver installation at the crime scene; host flags it as an open path to pursue.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "NODE_22",
+        "NODE_1001",
+        "NODE_2012"
+      ],
+      "investigative_direction": "Request UVU facilities work orders, vendor invoices, and payment records for the post-incident hardscape work.",
+      "transcript_snippet": "Do we know who paid for the crime scene demolition, the pavers that were so quickly put down?",
+      "tags": [
+        "open_lead",
+        "artifact_verbally_referenced_but_not_shown"
+      ],
+      "confidence": "low"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_20",
+      "ref": "CLAIM_20",
+      "label": "Police scanner described shooter in jeans, black shirt, mask, vest, rifle",
+      "claim_timestamp": "01:15:52",
+      "claim": "Commenter MC states a police scanner call right after the shooting described a shooter wearing jeans, a black shirt, black mask, and black vest carrying a long rifle.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "NODE_23",
+        "NODE_1008",
+        "NODE_2013"
+      ],
+      "investigative_direction": "Obtain archived Broadcastify/ScannerRadio audio for the timeframe; cross-check against official dispatch logs.",
+      "transcript_snippet": "they were looking for someone wearing jeans, a black shirt, a black mask, and a black vest carrying a long rifle",
+      "tags": [
+        "artifact_verbally_referenced_but_not_shown",
+        "requires_human_verification"
+      ],
+      "confidence": "low"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_21",
+      "ref": "CLAIM_21",
+      "label": "Charlie was not wearing an earpiece",
+      "claim_timestamp": "01:43",
+      "claim": "Host states she verified Charlie was not wearing an earpiece; what appears to be one is his necklace.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "NODE_2",
+        "NODE_2007"
+      ],
+      "investigative_direction": "Locate the high-resolution footage and clothing item Charlie was wearing to confirm.",
+      "transcript_snippet": "no, Charlie was not wearing an earpiece",
+      "tags": [
+        "host_assertion_only",
+        "claim_failed_admission_test"
+      ],
+      "confidence": "low"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_22",
+      "ref": "CLAIM_22",
+      "label": "Charlie was not wearing a bulletproof vest",
+      "claim_timestamp": "02:06",
+      "claim": "Host states she verified Charlie was not wearing a vest, and a prior vest supplier had stopped providing them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "NODE_2",
+        "NODE_2008"
+      ],
+      "investigative_direction": "Identify and interview the prior vest provider; review any supplier/contract documentation.",
+      "transcript_snippet": "he was not wearing a bulletproof vest",
+      "tags": [
+        "host_assertion_only",
+        "claim_failed_admission_test",
+        "possible_unverified_lead"
+      ],
+      "confidence": "low"
+    }
+  ],
+  "organization_relationships": [
+    {
+      "from_org_ref": "NODE_1000",
+      "to_org_ref": "NODE_1004",
+      "relation": "funded_by"
+    },
+    {
+      "from_org_ref": "NODE_1006",
+      "to_org_ref": "NODE_1000",
+      "relation": "affiliated_with"
+    }
+  ],
+  "role_assertions": [
+    {
+      "person_node_ref": "NODE_7",
+      "org_node_ref": "NODE_1000",
+      "role_edge": "holds_role",
+      "role_title": "PR agent"
+    },
+    {
+      "person_node_ref": "NODE_9",
+      "org_node_ref": "NODE_1000",
+      "role_edge": "holds_role",
+      "role_title": "Chairman and CEO"
+    }
+  ],
+  "topic_mentions": [
+    {
+      "claim_ref": "CLAIM_9",
+      "topic_node_ref": "NODE_2004"
+    },
+    {
+      "claim_ref": "CLAIM_10",
+      "topic_node_ref": "NODE_2004"
+    },
+    {
+      "claim_ref": "CLAIM_11",
+      "topic_node_ref": "NODE_2009"
+    },
+    {
+      "claim_ref": "CLAIM_12",
+      "topic_node_ref": "NODE_2010"
+    },
+    {
+      "claim_ref": "CLAIM_13",
+      "topic_node_ref": "NODE_2005"
+    },
+    {
+      "claim_ref": "CLAIM_14",
+      "topic_node_ref": "NODE_2011"
+    },
+    {
+      "claim_ref": "CLAIM_15",
+      "topic_node_ref": "NODE_2011"
+    },
+    {
+      "claim_ref": "CLAIM_18",
+      "topic_node_ref": "NODE_2004"
+    },
+    {
+      "claim_ref": "CLAIM_19",
+      "topic_node_ref": "NODE_2012"
+    },
+    {
+      "claim_ref": "CLAIM_20",
+      "topic_node_ref": "NODE_2013"
+    }
+  ],
+  "meme_links": [
+    {
+      "meme_ref": "M-1",
+      "link_type": "invoked_by_speaker",
+      "speaker_ref": "NODE_1"
+    },
+    {
+      "meme_ref": "M-7",
+      "link_type": "invoked_by_speaker",
+      "speaker_ref": "NODE_1"
+    },
+    {
+      "meme_ref": "M-7",
+      "link_type": "invoked_by_speaker",
+      "speaker_ref": "NODE_7"
+    },
+    {
+      "meme_ref": "M-2",
+      "link_type": "invoked_by_speaker",
+      "speaker_ref": "NODE_1"
+    },
+    {
+      "meme_ref": "M-3",
+      "link_type": "invoked_by_speaker",
+      "speaker_ref": "NODE_1"
+    },
+    {
+      "meme_ref": "M-5",
+      "link_type": "invoked_by_speaker",
+      "speaker_ref": "NODE_1"
+    }
+  ],
+  "optional_flags": [
+    {
+      "flag_type": "Artifact verbally referenced but not shown",
+      "applies_to": "CLAIM_19",
+      "note": "Crime scene paver installation referenced by commenter but no invoice or work order shown."
+    },
+    {
+      "flag_type": "Artifact verbally referenced but not shown",
+      "applies_to": "CLAIM_20",
+      "note": "Police scanner audio referenced via MC comment and host confirmation but not played."
+    },
+    {
+      "flag_type": "Possible transcription error",
+      "applies_to": "CLAIM_12",
+      "note": "Host says 'BBNet and Yahoo wrote' mid-sentence, possibly garbled reference to a news outlet."
+    },
+    {
+      "flag_type": "Name uncertainty",
+      "applies_to": "NODE_10",
+      "note": "Spelled 'Phil Leman' in transcript; standard spelling appears to be Phil Lyman — verify against Utah lt. gov. records."
+    },
+    {
+      "flag_type": "Transcript ambiguity",
+      "applies_to": "NODE_7",
+      "note": "Host spells the PR agent 'Andrew Kovette' and later 'Andrew Kulvette'; canonical spelling to be confirmed."
+    },
+    {
+      "flag_type": "Requires human verification",
+      "applies_to": "CLAIM_1",
+      "note": "Phil Leman/Lyman routing claim rests on Tiffany Barker's word to host."
+    },
+    {
+      "flag_type": "Claim failed admission test",
+      "applies_to": "CLAIM_21",
+      "note": "No on-screen artifact shown to back the earpiece debunking."
+    },
+    {
+      "flag_type": "Claim failed admission test",
+      "applies_to": "CLAIM_22",
+      "note": "No on-screen artifact shown to back the vest absence claim."
+    }
+  ]
+}

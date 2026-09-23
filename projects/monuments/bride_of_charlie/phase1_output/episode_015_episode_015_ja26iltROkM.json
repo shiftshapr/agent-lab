@@ -1,0 +1,1459 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 15,
+    "source": "Candace Owens YouTube",
+    "video_timestamp_range": "00:00–01:14:38",
+    "transcript_completeness": "complete",
+    "extraction_timestamp": "2026-09-23T19:40:16Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "1bdb918d31919f98e8908c0c1a86fc1b53a30167f2d1f8117d9a7d89796f8b2b"
+  },
+  "executive_summary": "Episode opens with reflection on Erika Kirk's memorial forgiveness speech, then pivots to alleged discrepancies in the official Charlie Kirk shooting narrative. Andrew Kolvet's TPUSA miracle statement, Kash Patel's FBI tweet, and Derek Maxfield's plane-transponder Instagram rebuttal are presented as artifact-anchored contradictions. Host introduces underground-tunnel/pipeline hypothesis beneath UVU and shows footage of rapid repaving. Later segment defends Candace from Laura Loomer's CIA-merch complaint and addresses leaked 2023 Charlie Kirk text messages and the alleged Candace–Charlie falling-out narrative.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_1",
+      "family_ref": "ART_1",
+      "bundle_name": "Erika Kirk Memorial Speech Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_1.1",
+          "ref": "ART_1.1",
+          "description": "Erika Kirk speech clip: Charlie blinked and saw his savior",
+          "video_timestamp": "04:04–04:26",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_1"
+          ],
+          "related_nodes": [
+            "NODE_1",
+            "NODE_3"
+          ],
+          "transcript_snippet": "One moment Charlie was doing what he loved...he blinked and saw his savior in paradise.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_1.2",
+          "ref": "ART_1.2",
+          "description": "Erika Kirk forgiveness speech referenced",
+          "video_timestamp": "00:37–00:57",
+          "related_claims": [
+            "CLAIM_1"
+          ],
+          "related_nodes": [
+            "NODE_3"
+          ],
+          "transcript_snippet": "She arrived at forgiveness in front of the entire world."
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_2",
+      "family_ref": "ART_2",
+      "bundle_name": "Andrew Kolvet TPUSA Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_2.1",
+          "ref": "ART_2.1",
+          "description": "Kolvet tweet re lack of exit wound called a miracle",
+          "event_timestamp": "2025-09-13",
+          "video_timestamp": "09:45–11:40",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_2",
+            "CLAIM_3"
+          ],
+          "related_nodes": [
+            "NODE_5",
+            "NODE_2002"
+          ],
+          "transcript_snippet": "The fact that there wasn't an exit wound is probably another miracle.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_3",
+      "family_ref": "ART_3",
+      "bundle_name": "Alex Jones X Live Response Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_3.1",
+          "ref": "ART_3.1",
+          "description": "Alex Jones X Live clip disputing miracle claim",
+          "video_timestamp": "14:32–15:45",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_4"
+          ],
+          "related_nodes": [
+            "NODE_7"
+          ],
+          "transcript_snippet": "They just said he got shot with a 30 odd six and that it didn't go through.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_4",
+      "family_ref": "ART_4",
+      "bundle_name": "Kash Patel FBI Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_4.1",
+          "ref": "ART_4.1",
+          "description": "Kash Patel tweet: FBI commitment to thorough investigation",
+          "video_timestamp": "17:14–19:21",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_5",
+            "CLAIM_6"
+          ],
+          "related_nodes": [
+            "NODE_4",
+            "NODE_2000"
+          ],
+          "transcript_snippet": "The full weight of America's law enforcement agencies are actively following the evidence.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_5",
+      "family_ref": "ART_5",
+      "bundle_name": "Derek Maxfield Plane Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_5.1",
+          "ref": "ART_5.1",
+          "description": "Derek Maxfield Instagram statement: ATC granted transponder shutdown permission",
+          "video_timestamp": "19:31–20:07",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_6"
+          ],
+          "related_nodes": [
+            "NODE_9",
+            "NODE_2000",
+            "NODE_2010"
+          ],
+          "transcript_snippet": "We got permission to turn off services which are transponder services from ATC.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_6",
+      "family_ref": "ART_6",
+      "bundle_name": "UVU Location Evidence Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_6.1",
+          "ref": "ART_6.1",
+          "description": "Photo showing pipeline behind Charlie's seat",
+          "video_timestamp": "23:34–23:48",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_7"
+          ],
+          "related_nodes": [
+            "NODE_2003",
+            "NODE_1000"
+          ],
+          "transcript_snippet": "There was a massive pipeline almost exactly behind where Charlie was sitting.",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_6.2",
+          "ref": "ART_6.2",
+          "description": "Close-up of trap-door boxes at location",
+          "video_timestamp": "24:05–24:19",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_7"
+          ],
+          "related_nodes": [
+            "NODE_2003",
+            "NODE_1000"
+          ],
+          "transcript_snippet": "Two little boxes...they told me that was a trap door."
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_6.3",
+          "ref": "ART_6.3",
+          "description": "Footage of area being repaved shortly after shooting",
+          "video_timestamp": "26:05–26:19",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_8"
+          ],
+          "related_nodes": [
+            "NODE_2003"
+          ],
+          "transcript_snippet": "They decided to instead pave that area, repave it."
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_7",
+      "family_ref": "ART_7",
+      "bundle_name": "Laura Loomer CIA Complaint Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_7.1",
+          "ref": "ART_7.1",
+          "description": "Laura Loomer tweet reporting Candace to CIA over CIA-themed merch",
+          "video_timestamp": "31:11–32:36",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_9"
+          ],
+          "related_nodes": [
+            "NODE_8",
+            "NODE_2001"
+          ],
+          "transcript_snippet": "It is a federal felony to use the CIA seal without license.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_8",
+      "family_ref": "ART_8",
+      "bundle_name": "Leaked Text Message Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_8.1",
+          "ref": "ART_8.1",
+          "description": "Awesome Jew tweet releasing exclusive text messages",
+          "video_timestamp": "34:44–36:03",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_10"
+          ],
+          "related_nodes": [
+            "NODE_14",
+            "NODE_1"
+          ],
+          "transcript_snippet": "A close friend of Charlie Kirk shared these messages.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_8.2",
+          "ref": "ART_8.2",
+          "description": "Text messages between Charlie Kirk and friend re Candace statements",
+          "video_timestamp": "35:38–36:20",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_10",
+            "CLAIM_11"
+          ],
+          "related_nodes": [
+            "NODE_1",
+            "NODE_2"
+          ],
+          "transcript_snippet": "Candace needs to say two things...Israel is not committing a genocide."
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_9",
+      "family_ref": "ART_9",
+      "bundle_name": "Candace Owens Genocide Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_9.1",
+          "ref": "ART_9.1",
+          "description": "Candace Owens tweet: genocide is always wrong",
+          "video_timestamp": "37:14–37:31",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_12"
+          ],
+          "related_nodes": [
+            "NODE_2"
+          ],
+          "transcript_snippet": "No government anywhere has a right to commit a genocide ever."
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_9.2",
+          "ref": "ART_9.2",
+          "description": "Dave Rubin reply to Candace genocide tweet",
+          "video_timestamp": "38:04",
+          "related_claims": [
+            "CLAIM_12"
+          ],
+          "related_nodes": [
+            "NODE_17"
+          ],
+          "transcript_snippet": "Dave Rubin instantly replied and said something about Israel."
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_10",
+      "family_ref": "ART_10",
+      "bundle_name": "Charlie Kirk Town Hall Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_10.1",
+          "ref": "ART_10.1",
+          "description": "Charlie Kirk town hall clip discussing antisemitism with Jen Z",
+          "video_timestamp": "41:49–45:20",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_13"
+          ],
+          "related_nodes": [
+            "NODE_1"
+          ],
+          "transcript_snippet": "If you call everyone an anti-semite if they don't take a puritanical view of the Netanyahu government..."
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_10.2",
+          "ref": "ART_10.2",
+          "description": "Charlie Kirk town hall clip discussing AIPAC",
+          "video_timestamp": "45:47–49:21",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_14"
+          ],
+          "related_nodes": [
+            "NODE_1",
+            "NODE_2005"
+          ],
+          "transcript_snippet": "The entirety of the idea of AIPAC is to represent a group..."
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_11",
+      "family_ref": "ART_11",
+      "bundle_name": "Tucker Carlson Memorial Speech Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_11.1",
+          "ref": "ART_11.1",
+          "description": "Tucker Carlson clip on Charlie's gospel message and repentance",
+          "video_timestamp": "52:47–54:11",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_15"
+          ],
+          "related_nodes": [
+            "NODE_6"
+          ],
+          "transcript_snippet": "Christianity calls upon you to change. Our core prayer...forgive us our sins."
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_12",
+      "family_ref": "ART_12",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_12.1",
+          "ref": "ART_12.1",
+          "description": "Comment re screwdriver reportedly found on roof",
+          "video_timestamp": "01:07:06–01:07:37",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_16"
+          ],
+          "related_nodes": [
+            "NODE_10"
+          ],
+          "transcript_snippet": "They said they found it on the roof, even though you don't use a screwdriver to take that rifle apart."
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_12.2",
+          "ref": "ART_12.2",
+          "description": "Comment expressing suspicion re Dr. Frank Turk",
+          "video_timestamp": "01:07:52–01:08:49",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_17"
+          ],
+          "related_nodes": [
+            "NODE_13"
+          ],
+          "transcript_snippet": "Something about Dr. Frank Turk isn't sitting right with me."
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "NODE_1",
+      "ref": "NODE_1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Deceased founder of TPUSA; primary subject of investigation.",
+      "related_artifacts": [
+        "ART_1.1",
+        "ART_8.2",
+        "ART_10.1",
+        "ART_10.2"
+      ],
+      "related_claims": [
+        "CLAIM_10",
+        "CLAIM_13",
+        "CLAIM_14"
+      ],
+      "tags": [
+        "key_figure",
+        "deceased"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_2",
+      "ref": "NODE_2",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the episode and lead investigator.",
+      "related_artifacts": [
+        "ART_7.1",
+        "ART_9.1",
+        "ART_9.2"
+      ],
+      "related_claims": [
+        "CLAIM_9",
+        "CLAIM_12"
+      ],
+      "tags": [
+        "host",
+        "investigator"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_3",
+      "ref": "NODE_3",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Widow of Charlie Kirk; now leads TPUSA; delivered forgiveness speech.",
+      "related_artifacts": [
+        "ART_1.1",
+        "ART_1.2"
+      ],
+      "related_claims": [
+        "CLAIM_1"
+      ],
+      "tags": [
+        "key_figure",
+        "tpusa_leadership"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_4",
+      "ref": "NODE_4",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "FBI Director who issued the official investigation tweet.",
+      "related_artifacts": [
+        "ART_4.1"
+      ],
+      "related_claims": [
+        "CLAIM_5",
+        "CLAIM_6"
+      ],
+      "tags": [
+        "government_official"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_5",
+      "ref": "NODE_5",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson who issued miracle/exit-wound statement.",
+      "related_artifacts": [
+        "ART_2.1"
+      ],
+      "related_claims": [
+        "CLAIM_2",
+        "CLAIM_3"
+      ],
+      "tags": [
+        "tpusa",
+        "spokesperson"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_6",
+      "ref": "NODE_6",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Speaker at memorial; commented on Charlie's gospel message.",
+      "related_artifacts": [
+        "ART_11.1"
+      ],
+      "related_claims": [
+        "CLAIM_15"
+      ],
+      "tags": [
+        "commentator"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_7",
+      "ref": "NODE_7",
+      "name": "Alex Jones",
+      "type": "person",
+      "description": "Commentator who responded to Kolvet statement on X Live.",
+      "related_artifacts": [
+        "ART_3.1"
+      ],
+      "related_claims": [
+        "CLAIM_4"
+      ],
+      "tags": [
+        "commentator"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_8",
+      "ref": "NODE_8",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Commentator who filed CIA complaint about Candace's merch.",
+      "related_artifacts": [
+        "ART_7.1"
+      ],
+      "related_claims": [
+        "CLAIM_9"
+      ],
+      "tags": [
+        "commentator",
+        "accuser"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_9",
+      "ref": "NODE_9",
+      "name": "Derek Maxfield",
+      "type": "person",
+      "description": "Owner of plane allegedly near shooting site; disputed FBI transponder claim.",
+      "related_artifacts": [
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_6"
+      ],
+      "tags": [
+        "witness"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_10",
+      "ref": "NODE_10",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Alleged shooter of Charlie Kirk; subject of investigation.",
+      "related_artifacts": [
+        "ART_12.1"
+      ],
+      "related_claims": [
+        "CLAIM_16"
+      ],
+      "tags": [
+        "alleged_perpetrator"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_11",
+      "ref": "NODE_11",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "Individual located in crowd whose path host found suspicious.",
+      "related_nodes": [],
+      "related_claims": [],
+      "tags": [
+        "person_of_interest"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_12",
+      "ref": "NODE_12",
+      "name": "Jack Posobiec",
+      "type": "person",
+      "description": "Commentator and former Navy intelligence officer; defended by host.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "commentator",
+        "loyalist"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_13",
+      "ref": "NODE_13",
+      "name": "Frank Turk",
+      "type": "person",
+      "description": "Dr. who spoke at memorial; viewer raised suspicions about him.",
+      "related_artifacts": [
+        "ART_12.2"
+      ],
+      "related_claims": [
+        "CLAIM_17"
+      ],
+      "tags": [
+        "person_of_interest"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_14",
+      "ref": "NODE_14",
+      "name": "Awesome Jew",
+      "type": "person",
+      "description": "X account that released Charlie Kirk text messages.",
+      "related_artifacts": [
+        "ART_8.1",
+        "ART_8.2"
+      ],
+      "related_claims": [
+        "CLAIM_10"
+      ],
+      "tags": [
+        "x_account",
+        "leaker"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_17",
+      "ref": "NODE_17",
+      "name": "Dave Rubin",
+      "type": "person",
+      "description": "Commentator who replied to Candace's genocide tweet.",
+      "related_artifacts": [
+        "ART_9.2"
+      ],
+      "related_claims": [
+        "CLAIM_12"
+      ],
+      "tags": [
+        "commentator"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_18",
+      "ref": "NODE_18",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Daily Wire figure referenced re firing Candace.",
+      "related_nodes": [],
+      "related_claims": [],
+      "tags": [
+        "media"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_19",
+      "ref": "NODE_19",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Referenced as part of Hamptons group also with Awesome Jew.",
+      "related_nodes": [],
+      "related_claims": [],
+      "tags": [
+        "donor"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_20",
+      "ref": "NODE_20",
+      "name": "Bob Shaman",
+      "type": "person",
+      "description": "Donor alleged to have withdrawn millions from TPUSA.",
+      "related_nodes": [],
+      "related_claims": [],
+      "tags": [
+        "donor",
+        "also_known_as: Bob Schman"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_21",
+      "ref": "NODE_21",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Israeli PM alleged to have offered Charlie Kirk funding.",
+      "related_nodes": [],
+      "related_claims": [],
+      "tags": [
+        "foreign_leader"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_2000",
+      "ref": "NODE_2000",
+      "name": "FBI",
+      "type": "organization",
+      "organization_kind": "government_agency",
+      "description": "Federal Bureau of Investigation; issued investigation statement.",
+      "related_artifacts": [
+        "ART_4.1",
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_5",
+        "CLAIM_6"
+      ],
+      "tags": [
+        "government"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_2001",
+      "ref": "NODE_2001",
+      "name": "CIA",
+      "type": "organization",
+      "organization_kind": "government_agency",
+      "description": "Central Intelligence Agency; subject of merch complaint.",
+      "related_artifacts": [
+        "ART_7.1"
+      ],
+      "related_claims": [
+        "CLAIM_9"
+      ],
+      "tags": [
+        "government"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_2002",
+      "ref": "NODE_2002",
+      "name": "Turning Point USA",
+      "type": "organization",
+      "organization_kind": "nonprofit",
+      "description": "Conservative youth organization founded by Charlie Kirk.",
+      "related_artifacts": [
+        "ART_2.1"
+      ],
+      "related_claims": [
+        "CLAIM_2",
+        "CLAIM_3"
+      ],
+      "tags": [
+        "tpusa"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_2003",
+      "ref": "NODE_2003",
+      "name": "Utah Valley University",
+      "type": "organization",
+      "organization_kind": "educational_institution",
+      "also_known_as": [
+        "UVU"
+      ],
+      "description": "Site of Charlie Kirk shooting; alleged underground tunnel/pipeline owner.",
+      "related_artifacts": [
+        "ART_6.1",
+        "ART_6.2",
+        "ART_6.3"
+      ],
+      "related_claims": [
+        "CLAIM_7",
+        "CLAIM_8"
+      ],
+      "tags": [
+        "shooting_site"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_2004",
+      "ref": "NODE_2004",
+      "name": "Calira Engineering",
+      "type": "organization",
+      "organization_kind": "company",
+      "description": "Engineering company whose witness footage reached TMZ.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "company"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_2005",
+      "ref": "NODE_2005",
+      "name": "AIPAC",
+      "type": "organization",
+      "organization_kind": "advocacy_group",
+      "description": "Pro-Israel lobbying organization discussed at Charlie's town hall.",
+      "related_artifacts": [
+        "ART_10.2"
+      ],
+      "related_claims": [
+        "CLAIM_14"
+      ],
+      "tags": [
+        "lobbying"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_2008",
+      "ref": "NODE_2008",
+      "name": "LDS Church",
+      "type": "organization",
+      "organization_kind": "religious_institution",
+      "description": "Latter-day Saints; alleged intel recruitment pool per viewer.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "religion"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_2010",
+      "ref": "NODE_2010",
+      "name": "FAA",
+      "type": "organization",
+      "organization_kind": "government_agency",
+      "description": "Federal Aviation Administration; consulted re transponder claim.",
+      "related_artifacts": [
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_6"
+      ],
+      "tags": [
+        "government"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1000",
+      "ref": "NODE_1000",
+      "name": "Exit Wound / Bullet Trajectory Discrepancy",
+      "type": "topic",
+      "topic_kind": "discrepancy",
+      "description": "Mismatch between expected high-velocity bullet behavior and reported no-exit-wound outcome.",
+      "related_artifacts": [
+        "ART_2.1",
+        "ART_3.1",
+        "ART_6.1"
+      ],
+      "related_claims": [
+        "CLAIM_2",
+        "CLAIM_3",
+        "CLAIM_4"
+      ],
+      "tags": [
+        "discrepancy_target"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1001",
+      "ref": "NODE_1001",
+      "name": "Transponder / Plane Anomaly Investigation",
+      "type": "topic",
+      "topic_kind": "discrepancy",
+      "description": "Dispute between FBI (lost signal) and plane owner (ATC-permitted shutdown).",
+      "related_artifacts": [
+        "ART_4.1",
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_6"
+      ],
+      "tags": [
+        "discrepancy_target"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1002",
+      "ref": "NODE_1002",
+      "name": "UVU Underground Tunnel / Pipeline Investigation",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Hypothesis that underground access near Charlie's seat could explain no-exit-wound outcome.",
+      "related_artifacts": [
+        "ART_6.1",
+        "ART_6.2",
+        "ART_6.3"
+      ],
+      "related_claims": [
+        "CLAIM_7",
+        "CLAIM_8"
+      ],
+      "tags": [
+        "investigation_lead"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1003",
+      "ref": "NODE_1003",
+      "name": "Candace Owens FBI/CIA Reporting Incident",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Allegation that Candace was reported to FBI and CIA over merch and rhetoric.",
+      "related_artifacts": [
+        "ART_7.1"
+      ],
+      "related_claims": [
+        "CLAIM_9"
+      ],
+      "tags": [
+        "incident"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1004",
+      "ref": "NODE_1004",
+      "name": "Charlie Kirk / Candace Alleged Falling Out",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Disputed narrative that Charlie and Candace had a breakup; host denies.",
+      "related_artifacts": [
+        "ART_8.1",
+        "ART_8.2"
+      ],
+      "related_claims": [
+        "CLAIM_10",
+        "CLAIM_11"
+      ],
+      "tags": [
+        "narrative_claim"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1005",
+      "ref": "NODE_1005",
+      "name": "Screwdriver Evidence Question",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Viewer claim that screwdriver reportedly found on roof doesn't fit the rifle.",
+      "related_artifacts": [
+        "ART_12.1"
+      ],
+      "related_claims": [
+        "CLAIM_16"
+      ],
+      "tags": [
+        "evidence_anomaly"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_1006",
+      "ref": "NODE_1006",
+      "name": "Dr. Frank Turk Suspicion",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Viewer-raised suspicion about Dr. Frank Turk's memorial speech and possible guilt.",
+      "related_artifacts": [
+        "ART_12.2"
+      ],
+      "related_claims": [
+        "CLAIM_17"
+      ],
+      "tags": [
+        "person_of_interest"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 15,
+          "video_timestamp": "00:37",
+          "quote": "She arrived at forgiveness in front of the entire world.",
+          "speaker_node_ref": "NODE_2",
+          "context": "Host praising Erika Kirk's forgiveness speech at memorial.",
+          "tags": [
+            "forgiveness",
+            "memorial"
+          ],
+          "confidence": "high"
+        },
+        {
+          "episode": 15,
+          "video_timestamp": "54:33",
+          "quote": "I am not going to stop unless Erika Kirk asks me to stop.",
+          "speaker_node_ref": "NODE_2",
+          "context": "Host frames investigation as deferred to widow's wishes.",
+          "tags": [
+            "deference"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "context": "Erika Kirk's forgiveness speech and the widow's epistemic authority are invoked to frame the investigation's legitimacy."
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-6",
+      "ref": "M-6",
+      "canonical_term": "conspiracy theorist",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 15,
+          "video_timestamp": "08:46",
+          "quote": "I believe that the reason everybody is a conspiracy theorist is because people don't share truth.",
+          "speaker_node_ref": "NODE_2",
+          "context": "Host inverts label: secrecy creates conspiracies, transparency removes them.",
+          "tags": [
+            "inverted_use"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "context": "Host weaponizes the 'conspiracy theorist' label against the establishment by arguing non-disclosure creates the conditions for it."
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-7",
+      "ref": "M-7",
+      "canonical_term": "Catholic/Evangelical/Jewish identity flip",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 15,
+          "video_timestamp": "49:37",
+          "quote": "You're Catholic? Converting to Catholic from Judaism...You're ethnically Jewish.",
+          "speaker_node_ref": "NODE_1",
+          "context": "Charlie Kirk town hall: student describes conversion from Judaism to Catholicism.",
+          "tags": [
+            "religious_identity"
+          ],
+          "confidence": "high"
+        }
+      ],
+      "context": "Episode repeatedly engages Jewish/Catholic/Christian identity politics around the Kirk case."
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_1",
+      "ref": "CLAIM_1",
+      "label": "Erika Kirk publicly forgave Charlie's killer at memorial",
+      "claim_timestamp": "00:37",
+      "claim": "Erika Kirk publicly forgave Charlie Kirk's killer at the memorial event, framing it as a Christian act of submission.",
+      "anchored_artifacts": [
+        "ART_1.1",
+        "ART_1.2"
+      ],
+      "related_nodes": [
+        "NODE_3",
+        "NODE_1"
+      ],
+      "investigative_direction": "Verify the full text/transcript of Erika's speech against published recording.",
+      "tags": [
+        "public_statement"
+      ],
+      "transcript_snippet": "She arrived at forgiveness and she did it in front of the entire world."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_2",
+      "ref": "CLAIM_2",
+      "label": "Kolvet stated lack of exit wound was a miracle",
+      "claim_timestamp": "09:45",
+      "claim": "TPUSA spokesperson Andrew Kolvet publicly stated the absence of an exit wound was likely a miracle after speaking with the surgeon.",
+      "anchored_artifacts": [
+        "ART_2.1"
+      ],
+      "related_nodes": [
+        "NODE_5",
+        "NODE_2002",
+        "NODE_1000"
+      ],
+      "investigative_direction": "Obtain the original Kolvet tweet and verify timestamp; seek surgeon identity.",
+      "tags": [
+        "public_statement",
+        "discrepancy"
+      ],
+      "transcript_snippet": "The fact that there wasn't an exit wound is probably another miracle."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_3",
+      "ref": "CLAIM_3",
+      "label": "Surgeon said bullet should have gone through",
+      "claim_timestamp": "10:25",
+      "claim": "The hospital surgeon told Kolvet the bullet should have passed through Charlie's neck given its caliber and velocity.",
+      "anchored_artifacts": [
+        "ART_2.1"
+      ],
+      "related_nodes": [
+        "NODE_5",
+        "NODE_1000"
+      ],
+      "investigative_direction": "Identify the surgeon and request confirmation; review any hospital records.",
+      "tags": [
+        "witness_statement"
+      ],
+      "transcript_snippet": "He said the bullet quote absolutely should have gone through."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_4",
+      "ref": "CLAIM_4",
+      "label": "Alex Jones disputed the miracle claim publicly",
+      "claim_timestamp": "14:32",
+      "claim": "Alex Jones publicly disputed the miracle/exit-wound statement on X Live, citing typical 30-06 ballistics.",
+      "anchored_artifacts": [
+        "ART_3.1"
+      ],
+      "related_nodes": [
+        "NODE_7",
+        "NODE_1000"
+      ],
+      "investigative_direction": "Archive the original X Live broadcast.",
+      "tags": [
+        "public_response"
+      ],
+      "transcript_snippet": "They just said he got shot with a 30 odd six and that it didn't go through."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_5",
+      "ref": "CLAIM_5",
+      "label": "Kash Patel committed FBI to exhaustive investigation",
+      "claim_timestamp": "17:14",
+      "claim": "FBI Director Kash Patel publicly committed the FBI to investigating every facet of Charlie Kirk's assassination including alleged accomplices.",
+      "anchored_artifacts": [
+        "ART_4.1"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_2000"
+      ],
+      "investigative_direction": "Retrieve the original Patel tweet and archive; cross-reference FBI press releases.",
+      "tags": [
+        "official_statement"
+      ],
+      "transcript_snippet": "The full weight of America's law enforcement agencies are actively following the evidence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_6",
+      "ref": "CLAIM_6",
+      "label": "FBI and plane owner contradict each other on transponder",
+      "claim_timestamp": "18:55",
+      "claim": "Kash Patel/FBI claim the plane's transponder was not turned off but lost signal; plane owner Derek Maxfield states ATC permission was granted to disable services.",
+      "anchored_artifacts": [
+        "ART_4.1",
+        "ART_5.1"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_9",
+        "NODE_2000",
+        "NODE_2010",
+        "NODE_1001"
+      ],
+      "contradicts_claim_refs": [],
+      "supports_claim_refs": [],
+      "investigative_direction": "Obtain FAA radar logs and ATC recordings for the relevant flight.",
+      "tags": [
+        "contradiction",
+        "artifact_anchored"
+      ],
+      "transcript_snippet": "It can't be both. Can't be.",
+      "confidence": "medium",
+      "uncertainty_note": "Both sides cited via on-screen/read-aloud artifacts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_7",
+      "ref": "CLAIM_7",
+      "label": "Pipeline and access points exist beneath Charlie's seat",
+      "claim_timestamp": "23:34",
+      "claim": "Photos from the shooting location show a large pipeline and trap-door boxes directly behind/beneath where Charlie Kirk was seated.",
+      "anchored_artifacts": [
+        "ART_6.1",
+        "ART_6.2"
+      ],
+      "related_nodes": [
+        "NODE_2003",
+        "NODE_1002"
+      ],
+      "investigative_direction": "Obtain UVU facilities maps, irrigation system records, and underground utility diagrams.",
+      "tags": [
+        "location_evidence"
+      ],
+      "transcript_snippet": "There was a massive pipeline almost exactly behind where Charlie was sitting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_8",
+      "ref": "CLAIM_8",
+      "label": "UVU repaved the area within ~48 hours of the shooting",
+      "claim_timestamp": "26:05",
+      "claim": "UVU repaved the area where Charlie Kirk was shot within approximately 48 hours of the incident.",
+      "anchored_artifacts": [
+        "ART_6.3"
+      ],
+      "related_nodes": [
+        "NODE_2003"
+      ],
+      "investigative_direction": "Obtain UVU maintenance logs and contractor records for the repaving.",
+      "tags": [
+        "location_evidence"
+      ],
+      "transcript_snippet": "They decided to instead pave that area, repave it."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_9",
+      "ref": "CLAIM_9",
+      "label": "Laura Loomer reported Candace to CIA over CIA-themed merch",
+      "claim_timestamp": "31:11",
+      "claim": "Laura Loomer publicly reported Candace Owens to the CIA via X, alleging the Candace Intelligence Agency merch violated federal law.",
+      "anchored_artifacts": [
+        "ART_7.1"
+      ],
+      "related_nodes": [
+        "NODE_8",
+        "NODE_2",
+        "NODE_2001",
+        "NODE_1003"
+      ],
+      "investigative_direction": "Archive the original Loomer tweet; check whether any formal CIA complaint was filed.",
+      "tags": [
+        "public_complaint"
+      ],
+      "transcript_snippet": "It is a federal felony to use the CIA seal without license."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_10",
+      "ref": "CLAIM_10",
+      "label": "Awesome Jew released 2023 Charlie Kirk text messages",
+      "claim_timestamp": "34:44",
+      "claim": "An X account called Awesome Jew released text messages between Charlie Kirk and an unnamed friend pressuring Candace to disavow her Israel statements.",
+      "anchored_artifacts": [
+        "ART_8.1",
+        "ART_8.2"
+      ],
+      "related_nodes": [
+        "NODE_14",
+        "NODE_1",
+        "NODE_2",
+        "NODE_1004"
+      ],
+      "investigative_direction": "Verify the actual date of the messages via metadata or forensic analysis of screenshots.",
+      "tags": [
+        "leaked_messages"
+      ],
+      "transcript_snippet": "A close friend of Charlie Kirk shared these messages."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_11",
+      "ref": "CLAIM_11",
+      "label": "Released text messages were from 2023, not recent",
+      "claim_timestamp": "36:37",
+      "claim": "Host asserts the released text messages dated to 2023 based on context (Brian Mast comment, AmFest dispute) and were undated to obscure that fact.",
+      "anchored_artifacts": [
+        "ART_8.1",
+        "ART_8.2"
+      ],
+      "related_nodes": [
+        "NODE_1",
+        "NODE_2",
+        "NODE_1004"
+      ],
+      "investigative_direction": "Cross-reference the content with public 2023 events; obtain metadata from screenshots.",
+      "tags": [
+        "date_dispute"
+      ],
+      "transcript_snippet": "It's from 2023. He then writes 'It doesn't come natural to her...'"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_12",
+      "ref": "CLAIM_12",
+      "label": "Candace faced coordinated pressure to retract genocide tweet",
+      "claim_timestamp": "37:31",
+      "claim": "After Candace tweeted 'genocide is always wrong' she was inundated with demands to retract/apologize, including from Dave Rubin, while at the Daily Wire.",
+      "anchored_artifacts": [
+        "ART_9.1",
+        "ART_9.2"
+      ],
+      "related_nodes": [
+        "NODE_2",
+        "NODE_17"
+      ],
+      "investigative_direction": "Archive original tweet and Rubin reply; identify any coordinated pressure campaign participants.",
+      "tags": [
+        "public_statement"
+      ],
+      "transcript_snippet": "I was being inundated. Charlie was being inundated."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_13",
+      "ref": "CLAIM_13",
+      "label": "Charlie Kirk said calling all critics antisemitic was destructive",
+      "claim_timestamp": "45:14",
+      "claim": "Charlie Kirk publicly stated that labeling everyone who didn't take a puritanical view of Netanyahu an antisemite was destructive.",
+      "anchored_artifacts": [
+        "ART_10.1"
+      ],
+      "related_nodes": [
+        "NODE_1",
+        "NODE_2005"
+      ],
+      "investigative_direction": "Verify the full town hall recording.",
+      "tags": [
+        "public_statement"
+      ],
+      "transcript_snippet": "If you call everyone an anti-semite if they don't take a puritanical view of the Netanyahu government..."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_14",
+      "ref": "CLAIM_14",
+      "label": "Charlie Kirk criticized AIPAC and foreign lobbying",
+      "claim_timestamp": "45:47",
+      "claim": "Charlie Kirk publicly criticized AIPAC as a group prioritizing foreign interests over American citizens and referenced the JFK precedent.",
+      "anchored_artifacts": [
+        "ART_10.2"
+      ],
+      "related_nodes": [
+        "NODE_1",
+        "NODE_2005"
+      ],
+      "investigative_direction": "Verify the full town hall recording and Charlie's subsequent statements on the topic.",
+      "tags": [
+        "public_statement"
+      ],
+      "transcript_snippet": "The entirety of the idea of AIPAC is to represent a group...I have a huge problem with."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_15",
+      "ref": "CLAIM_15",
+      "label": "Tucker Carlson framed Charlie's mission as gospel repentance",
+      "claim_timestamp": "52:47",
+      "claim": "Tucker Carlson publicly stated at the memorial that Charlie Kirk's core mission was gospel repentance, not politics.",
+      "anchored_artifacts": [
+        "ART_11.1"
+      ],
+      "related_nodes": [
+        "NODE_6",
+        "NODE_1"
+      ],
+      "investigative_direction": "Obtain the full Carlson memorial speech transcript.",
+      "tags": [
+        "public_statement"
+      ],
+      "transcript_snippet": "Christianity calls upon you to change. Our core prayer...forgive us our sins."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_16",
+      "ref": "CLAIM_16",
+      "label": "Screwdriver on roof reportedly doesn't fit the rifle",
+      "claim_timestamp": "01:07:06",
+      "claim": "A viewer reports that authorities claimed a screwdriver was found on the roof, but that tool is not used to disassemble that model of rifle.",
+      "anchored_artifacts": [
+        "ART_12.1"
+      ],
+      "related_nodes": [
+        "NODE_10",
+        "NODE_1005"
+      ],
+      "investigative_direction": "Identify the rifle model and required disassembly tools; locate official inventory of recovered items.",
+      "tags": [
+        "evidence_anomaly"
+      ],
+      "transcript_snippet": "You don't use a screwdriver to take that rifle apart."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_17",
+      "ref": "CLAIM_17",
+      "label": "Dr. Frank Turk raised viewer suspicion after memorial speech",
+      "claim_timestamp": "01:07:52",
+      "claim": "A viewer reports persistent unease about Dr. Frank Turk following his memorial speech, citing possible guilt over inaction.",
+      "anchored_artifacts": [
+        "ART_12.2"
+      ],
+      "related_nodes": [
+        "NODE_13",
+        "NODE_1006"
+      ],
+      "investigative_direction": "Obtain the full Frank Turk memorial speech and biographical background.",
+      "tags": [
+        "viewer_observation"
+      ],
+      "transcript_snippet": "Something about Dr. Frank Turk isn't sitting right with me."
+    }
+  ]
+}
