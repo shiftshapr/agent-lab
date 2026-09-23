@@ -58,7 +58,7 @@
             "C-1287"
           ],
           "related_nodes": [
-            "N-241"
+            "N-178"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -75,7 +75,7 @@
             "C-1288"
           ],
           "related_nodes": [
-            "N-241",
+            "N-178",
             "N-1"
           ],
           "tags": [],
@@ -92,7 +92,7 @@
             "C-1289"
           ],
           "related_nodes": [
-            "N-241"
+            "N-178"
           ],
           "tags": [],
           "video_timestamp": "00:37:04–00:37:52",
@@ -131,8 +131,8 @@
             "C-1290"
           ],
           "related_nodes": [
-            "N-1228",
-            "N-1226"
+            "N-1201",
+            "N-1205"
           ],
           "tags": [],
           "event_timestamp": "2025-09-15",
@@ -149,9 +149,9 @@
             "C-1291"
           ],
           "related_nodes": [
-            "N-1228",
-            "N-1226",
-            "N-1228"
+            "N-1201",
+            "N-1205",
+            "N-1201"
           ],
           "tags": [],
           "video_timestamp": "00:18:43–00:20:06",
@@ -175,9 +175,9 @@
             "C-1292"
           ],
           "related_nodes": [
-            "N-230",
+            "N-172",
             "N-1",
-            "N-1227"
+            "N-1192"
           ],
           "tags": [],
           "video_timestamp": "00:04:45–00:06:00",
@@ -193,8 +193,8 @@
             "C-1293"
           ],
           "related_nodes": [
-            "N-230",
-            "N-1227"
+            "N-172",
+            "N-1192"
           ],
           "tags": [],
           "video_timestamp": "00:07:34–00:08:06",
@@ -218,7 +218,7 @@
             "C-1287"
           ],
           "related_nodes": [
-            "N-241"
+            "N-178"
           ],
           "tags": [],
           "video_timestamp": "00:35:30–00:36:34",
@@ -243,8 +243,8 @@
             "C-1294"
           ],
           "related_nodes": [
-            "N-225",
-            "N-1229"
+            "N-70",
+            "N-1195"
           ],
           "tags": [],
           "video_timestamp": "00:39:05–00:39:45",
@@ -267,7 +267,7 @@
           "description": "Riverbend Ranch tribute video message honoring Charlie Kirk, aired in episode as a sponsor/content segment",
           "related_claims": [],
           "related_nodes": [
-            "N-243",
+            "N-180",
             "N-1"
           ],
           "tags": [],
@@ -292,9 +292,9 @@
             "C-1293"
           ],
           "related_nodes": [
-            "N-242",
-            "N-230",
-            "N-1227"
+            "N-179",
+            "N-172",
+            "N-1192"
           ],
           "tags": [],
           "event_timestamp": "2025-08-06",
@@ -319,8 +319,8 @@
             "C-1295"
           ],
           "related_nodes": [
-            "N-227",
-            "N-1227"
+            "N-67",
+            "N-1192"
           ],
           "tags": [],
           "video_timestamp": "00:03:05–00:03:46",
@@ -391,8 +391,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-66",
+      "ref": "N-66",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Israeli PM; cited for tweeting about Charlie Kirk's death before the US President and misrepresenting contents of a May letter.",
@@ -408,8 +408,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-225",
-      "ref": "N-225",
+      "@id": "N-70",
+      "ref": "N-70",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
@@ -427,8 +427,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-226",
-      "ref": "N-226",
+      "@id": "N-171",
+      "ref": "N-171",
       "name": "Lance Robinson",
       "type": "person",
       "description": "Father of Tyler Robinson; host notes his house was raided and no further updates have been provided by federal authorities.",
@@ -461,9 +461,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-227",
-      "ref": "N-227",
-      "name": "Bill Aman",
+      "@id": "N-67",
+      "ref": "N-67",
+      "name": "Bill Ackman",
       "type": "person",
       "description": "Author of a 959-word essay response defending his role around the Hamptons weekend; criticized in episode for not addressing the actual 'intervention' allegation.",
       "related_artifacts": [
@@ -480,8 +480,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-88",
+      "ref": "N-88",
       "name": "Josh Hammer",
       "type": "person",
       "description": "Named as participant in Hamptons weekend who allegedly pressured Charlie Kirk on Israel/Netanyahu positioning.",
@@ -495,8 +495,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-229",
-      "ref": "N-229",
+      "@id": "N-68",
+      "ref": "N-68",
       "name": "Seth Dylan",
       "type": "person",
       "description": "Named as applying pressure on Charlie Kirk at the Hamptons weekend retreat.",
@@ -510,8 +510,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-230",
-      "ref": "N-230",
+      "@id": "N-172",
+      "ref": "N-172",
       "name": "Xavier Deruso",
       "type": "person",
       "description": "Influencer who attended Hamptons weekend, released video addressing the event and using phrase 'moral blackmail' to describe Charlie's framing.",
@@ -532,8 +532,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-231",
-      "ref": "N-231",
+      "@id": "N-173",
+      "ref": "N-173",
       "name": "Natasha Housedorf",
       "type": "person",
       "description": "Named as attendee of Hamptons weekend retreat.",
@@ -547,9 +547,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-232",
-      "ref": "N-232",
-      "name": "Andrew Kovett",
+      "@id": "N-64",
+      "ref": "N-64",
+      "name": "Andrew Kovac",
       "type": "person",
       "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
       "related_artifacts": [],
@@ -562,8 +562,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-233",
-      "ref": "N-233",
+      "@id": "N-174",
+      "ref": "N-174",
       "name": "Marissa Strait",
       "type": "person",
       "description": "PragerU host noted in episode; mentioned as having worked for IDF intelligence and platform used by Xavier Deruso for Hamptons response video.",
@@ -577,8 +577,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-234",
-      "ref": "N-234",
+      "@id": "N-74",
+      "ref": "N-74",
       "name": "Greta Van Susteren",
       "type": "person",
       "description": "News host on which Netanyahu reportedly lied about contents of a May letter from Charlie Kirk.",
@@ -594,9 +594,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-235",
-      "ref": "N-235",
-      "name": "Megan Kelly",
+      "@id": "N-76",
+      "ref": "N-76",
+      "name": "Megyn Kelly",
       "type": "person",
       "description": "Journalist to whom Charlie Kirk vented the day after the Hamptons weekend about being wrongly labeled anti-Semitic.",
       "related_artifacts": [],
@@ -609,8 +609,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-236",
-      "ref": "N-236",
+      "@id": "N-175",
+      "ref": "N-175",
       "name": "Elon Musk",
       "type": "person",
       "description": "Referenced as co-architect of the original federal Department of Government Efficiency alongside Vivek Ramaswamy.",
@@ -624,8 +624,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-237",
-      "ref": "N-237",
+      "@id": "N-176",
+      "ref": "N-176",
       "name": "Vivek Ramaswamy",
       "type": "person",
       "description": "Referenced as co-architect of the original federal Department of Government Efficiency alongside Elon Musk.",
@@ -639,8 +639,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-238",
-      "ref": "N-238",
+      "@id": "N-80",
+      "ref": "N-80",
       "name": "Donald Trump",
       "type": "person",
       "description": "US President referenced in connection with DOGE and in context of Netanyahu allegedly tweeting before him about Charlie's death.",
@@ -656,8 +656,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-239",
-      "ref": "N-239",
+      "@id": "N-93",
+      "ref": "N-93",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Referenced in closing joke about reporting Candace to platform authorities.",
@@ -671,8 +671,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-240",
-      "ref": "N-240",
+      "@id": "N-177",
+      "ref": "N-177",
       "name": "Taylor Lorent",
       "type": "person",
       "description": "Commenter quoted by host for X post asserting Candace Owens appears to be the only right-wing figure genuinely grieving Charlie Kirk.",
@@ -686,8 +686,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-241",
-      "ref": "N-241",
+      "@id": "N-178",
+      "ref": "N-178",
       "name": "Range Day Bro",
       "type": "person",
       "description": "YouTuber whose viral video analysis (6M views) presents muzzle flash, blood-splatter entry-wound, and suspicious-bush theories. Host engages and partially debunks.",
@@ -709,8 +709,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-242",
-      "ref": "N-242",
+      "@id": "N-179",
+      "ref": "N-179",
       "name": "Emily (Saves America)",
       "type": "person",
       "description": "Influencer whose August 6 Instagram post revealing she was in the Hamptons is cited as contradicting Xavier Deruso's safety-based secrecy claim.",
@@ -728,8 +728,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-243",
-      "ref": "N-243",
+      "@id": "N-180",
+      "ref": "N-180",
       "name": "Riverbend Ranch CEO",
       "type": "person",
       "description": "Unnamed CEO of Riverbend Ranch met by host with Charlie years prior; produced tribute segment aired in this episode.",
@@ -745,8 +745,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-244",
-      "ref": "N-244",
+      "@id": "N-87",
+      "ref": "N-87",
       "name": "Governor Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
@@ -762,8 +762,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-245",
-      "ref": "N-245",
+      "@id": "N-181",
+      "ref": "N-181",
       "name": "Nikki Haley",
       "type": "person",
       "description": "Referenced in comment about representatives signing bombs; host notes 'Nikki Haley signing bombs'.",
@@ -798,8 +798,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1226",
-      "ref": "N-1226",
+      "@id": "N-1205",
+      "ref": "N-1205",
       "name": "Orem Police Department",
       "type": "organization",
       "description": "Local Utah police department that received the second rooftop witness's footage on day one of the assassination.",
@@ -818,8 +818,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1227",
-      "ref": "N-1227",
+      "@id": "N-1192",
+      "ref": "N-1192",
       "name": "Department of Government Efficiency (DOGE)",
       "type": "organization",
       "description": "Referenced as federal initiative by Musk/Ramaswamy and as the model for Charlie Kirk's TPUSA-internal DOGE audit announced September 2, 2025.",
@@ -838,8 +838,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1228",
-      "ref": "N-1228",
+      "@id": "N-1201",
+      "ref": "N-1201",
       "name": "Riverbend Ranch",
       "type": "organization",
       "description": "Organization that produced tribute video for Charlie Kirk, aired in episode.",
@@ -856,8 +856,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1229",
-      "ref": "N-1229",
+      "@id": "N-1195",
+      "ref": "N-1195",
       "name": "PragerU",
       "type": "organization",
       "description": "Media platform on which Xavier Deruso's Hamptons response video was published; employs Marissa Strait.",
@@ -875,8 +875,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1230",
-      "ref": "N-1230",
+      "@id": "N-1198",
+      "ref": "N-1198",
       "name": "TPUSA DOGE Department / Financial Audit",
       "type": "topic",
       "description": "Persistent thread on Charlie Kirk's pre-death financial concerns at TPUSA, anchored by the September 2 internal memo and host's receipt of insider leaks.",
@@ -896,8 +896,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1231",
-      "ref": "N-1231",
+      "@id": "N-1194",
+      "ref": "N-1194",
       "name": "Federal Investigation Conduct Question",
       "type": "topic",
       "description": "Open question of why federal authorities did not contact the two rooftop-footage witnesses until September 15, anchored by direct testimonials.",
@@ -918,8 +918,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1232",
-      "ref": "N-1232",
+      "@id": "N-1196",
+      "ref": "N-1196",
       "name": "Hamptons Weekend Retreat",
       "type": "topic",
       "description": "August 2025 weekend retreat at which pressure was reportedly applied to Charlie Kirk on Israel/Netanyahu positioning; characterized by Charlie as 'moral blackmail'.",
@@ -943,8 +943,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1233",
-      "ref": "N-1233",
+      "@id": "N-1189",
+      "ref": "N-1189",
       "name": "Doorbell Footage Completeness Question",
       "type": "topic",
       "description": "Tip-based investigation thread alleging that publicly released doorbell footage of Tyler Robinson is incomplete and shows him with an unidentified woman changing clothes.",
@@ -964,8 +964,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1234",
-      "ref": "N-1234",
+      "@id": "N-1197",
+      "ref": "N-1197",
       "name": "Muzzle Flash Theory (Range Day Bro)",
       "type": "topic",
       "description": "Range Day Bro's claim that a muzzle flash is visible inside the flag hall; partially rebutted by host via window-doesn't-open argument.",
@@ -985,8 +985,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1235",
-      "ref": "N-1235",
+      "@id": "N-1203",
+      "ref": "N-1203",
       "name": "Suspicious Bush Theory (Range Day Bro)",
       "type": "topic",
       "description": "Range Day Bro's claim of a human-and-rifle-shaped outline in rooftop bushes; corroborated by host's ground photographs showing translucency.",
@@ -1005,8 +1005,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1236",
-      "ref": "N-1236",
+      "@id": "N-1191",
+      "ref": "N-1191",
       "name": "Bullet Casing Engraving Pattern",
       "type": "topic",
       "description": "Mentioned by commenters and host regarding markings on bullet casings at recent violent crimes; suggested by host and commenter Ben Autton to resemble 'government signature'.",
@@ -1021,8 +1021,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1237",
-      "ref": "N-1237",
+      "@id": "N-1206",
+      "ref": "N-1206",
       "name": "Operation Mocking Pastor",
       "type": "topic",
       "description": "Host asserts this is 'a real thing' when discussing financially motivated pastors around Charlie Kirk.",
@@ -1037,8 +1037,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1238",
-      "ref": "N-1238",
+      "@id": "N-1199",
+      "ref": "N-1199",
       "name": "Amazon Pre-Event Book Listing (Sep 9)",
       "type": "topic",
       "description": "Commenter-referenced screenshot of an Amazon listing dated September 9, 2025 for a book about Charlie with accurate event details; host dismisses as Amazon 'technical error'.",
@@ -1053,8 +1053,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1239",
-      "ref": "N-1239",
+      "@id": "N-1092",
+      "ref": "N-1092",
       "name": "The Hamptons",
       "type": "place",
       "description": "NY region where the August 2025 weekend retreat was held; central to several claims about secrecy, influencer attendance, and pressure on Charlie Kirk.",
@@ -1075,8 +1075,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1240",
-      "ref": "N-1240",
+      "@id": "N-1128",
+      "ref": "N-1128",
       "name": "Orem, Utah",
       "type": "place",
       "description": "City where the assassination occurred and where Orem PD received the rooftop footage on day one; Lance Robinson's home was raided here.",
@@ -1108,21 +1108,21 @@
         "N-1",
         "N-43",
         "N-1000",
-        "N-1230",
-        "N-1227",
+        "N-1198",
+        "N-1192",
         "N-2",
-        "N-228",
-        "N-229",
-        "N-231",
-        "N-232",
-        "N-233",
-        "N-235",
-        "N-236",
-        "N-237",
-        "N-239",
-        "N-240",
-        "N-243",
-        "N-245"
+        "N-88",
+        "N-68",
+        "N-173",
+        "N-64",
+        "N-174",
+        "N-76",
+        "N-175",
+        "N-176",
+        "N-93",
+        "N-177",
+        "N-180",
+        "N-181"
       ],
       "tags": [],
       "claim_timestamp": "00:25:55",
@@ -1142,7 +1142,7 @@
       "related_nodes": [
         "N-1",
         "N-1000",
-        "N-1230"
+        "N-1198"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00",
@@ -1162,8 +1162,8 @@
         "A-1166.1"
       ],
       "related_nodes": [
-        "N-241",
-        "N-1234"
+        "N-178",
+        "N-1197"
       ],
       "tags": [],
       "claim_timestamp": "00:35:30",
@@ -1183,7 +1183,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-241"
+        "N-178"
       ],
       "tags": [],
       "claim_timestamp": "00:34:33",
@@ -1201,8 +1201,8 @@
         "A-1163.3"
       ],
       "related_nodes": [
-        "N-241",
-        "N-1235"
+        "N-178",
+        "N-1203"
       ],
       "tags": [],
       "claim_timestamp": "00:38:04",
@@ -1220,7 +1220,7 @@
         "A-1164.2"
       ],
       "related_nodes": [
-        "N-1231"
+        "N-1194"
       ],
       "tags": [],
       "claim_timestamp": "00:17:13",
@@ -1241,10 +1241,10 @@
         "A-1164.3"
       ],
       "related_nodes": [
-        "N-1226",
-        "N-1231",
-        "N-244",
-        "N-1240"
+        "N-1205",
+        "N-1194",
+        "N-87",
+        "N-1128"
       ],
       "tags": [],
       "claim_timestamp": "00:18:43",
@@ -1265,10 +1265,10 @@
         "A-1165.1"
       ],
       "related_nodes": [
-        "N-230",
+        "N-172",
         "N-1",
-        "N-1232",
-        "N-1239"
+        "N-1196",
+        "N-1092"
       ],
       "tags": [],
       "claim_timestamp": "00:04:28",
@@ -1287,10 +1287,10 @@
         "A-1169.1"
       ],
       "related_nodes": [
-        "N-242",
-        "N-230",
-        "N-1232",
-        "N-1239"
+        "N-179",
+        "N-172",
+        "N-1196",
+        "N-1092"
       ],
       "tags": [],
       "claim_timestamp": "00:08:37",
@@ -1308,9 +1308,9 @@
         "A-1167.1"
       ],
       "related_nodes": [
-        "N-225",
-        "N-1233",
-        "N-226"
+        "N-70",
+        "N-1189",
+        "N-171"
       ],
       "tags": [],
       "claim_timestamp": "00:39:05",
@@ -1329,8 +1329,8 @@
         "A-1170.1"
       ],
       "related_nodes": [
-        "N-227",
-        "N-1232",
+        "N-67",
+        "N-1196",
         "N-7"
       ],
       "tags": [],
@@ -1348,9 +1348,9 @@
       "claim": "Host asserts that Benjamin Netanyahu tweeted about Charlie Kirk's death before the President of the United States and subsequently misrepresented the contents of a May letter from Charlie Kirk on Fox News and Greta Van Susteren's show.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-224",
-        "N-238",
-        "N-234"
+        "N-66",
+        "N-80",
+        "N-74"
       ],
       "tags": [],
       "claim_timestamp": "00:01:53",

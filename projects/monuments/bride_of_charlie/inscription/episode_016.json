@@ -32,9 +32,9 @@
           ],
           "related_nodes": [
             "N-7",
-            "N-175",
-            "N-176",
-            "N-177",
+            "N-112",
+            "N-113",
+            "N-114",
             "N-1"
           ],
           "tags": [],
@@ -60,9 +60,9 @@
             "C-1247"
           ],
           "related_nodes": [
-            "N-175",
-            "N-176",
-            "N-177"
+            "N-112",
+            "N-113",
+            "N-114"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -88,7 +88,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-178"
+            "N-72"
           ],
           "tags": [],
           "video_timestamp": "00:12:15–00:13:29",
@@ -104,7 +104,7 @@
             "C-1249"
           ],
           "related_nodes": [
-            "N-178"
+            "N-72"
           ],
           "tags": [],
           "video_timestamp": "00:14:36–00:15:39",
@@ -120,7 +120,7 @@
             "C-1248"
           ],
           "related_nodes": [
-            "N-178",
+            "N-72",
             "N-1"
           ],
           "tags": [],
@@ -137,7 +137,7 @@
             "C-1250"
           ],
           "related_nodes": [
-            "N-178",
+            "N-72",
             "N-1000"
           ],
           "tags": [],
@@ -162,7 +162,7 @@
             "C-1251"
           ],
           "related_nodes": [
-            "N-1179"
+            "N-1160"
           ],
           "tags": [],
           "video_timestamp": "00:19:55–00:20:23",
@@ -186,7 +186,7 @@
             "C-1252"
           ],
           "related_nodes": [
-            "N-182"
+            "N-141"
           ],
           "tags": [],
           "video_timestamp": "00:22:22–00:22:36",
@@ -210,7 +210,7 @@
             "C-1254"
           ],
           "related_nodes": [
-            "N-179",
+            "N-138",
             "N-1",
             "N-2"
           ],
@@ -229,7 +229,7 @@
             "C-1256"
           ],
           "related_nodes": [
-            "N-179",
+            "N-138",
             "N-1"
           ],
           "tags": [],
@@ -246,7 +246,7 @@
             "C-1257"
           ],
           "related_nodes": [
-            "N-179",
+            "N-138",
             "N-1000"
           ],
           "tags": [],
@@ -263,7 +263,7 @@
             "C-1258"
           ],
           "related_nodes": [
-            "N-179",
+            "N-138",
             "N-1",
             "N-50"
           ],
@@ -315,7 +315,7 @@
             "C-1260"
           ],
           "related_nodes": [
-            "N-187"
+            "N-80"
           ],
           "tags": [],
           "video_timestamp": "01:01:02–01:02:30",
@@ -340,8 +340,8 @@
             "C-1262"
           ],
           "related_nodes": [
-            "N-1189",
-            "N-183"
+            "N-1165",
+            "N-70"
           ],
           "tags": [],
           "video_timestamp": "00:30:47–00:31:32",
@@ -410,8 +410,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-175",
-      "ref": "N-175",
+      "@id": "N-112",
+      "ref": "N-112",
       "name": "Tiffany Barker",
       "type": "person",
       "description": "Family member who appeared on GMA and posted a follow-up video explaining the artery remark.",
@@ -433,8 +433,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-176",
-      "ref": "N-176",
+      "@id": "N-113",
+      "ref": "N-113",
       "name": "L Steel",
       "type": "person",
       "description": "Tiffany Barker's niece; spoke on the GMA segment about the shooting.",
@@ -454,8 +454,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-177",
-      "ref": "N-177",
+      "@id": "N-114",
+      "ref": "N-114",
       "name": "Mia Grant",
       "type": "person",
       "description": "Tiffany Barker's niece; spoke on the GMA segment about the shooting.",
@@ -475,8 +475,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-178",
-      "ref": "N-178",
+      "@id": "N-72",
+      "ref": "N-72",
       "name": "George Zinn",
       "type": "person",
       "description": "Arrested shortly after the shooting; timeline and location analyzed by host.",
@@ -499,9 +499,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-179",
-      "ref": "N-179",
-      "name": "Andrew Kovette",
+      "@id": "N-138",
+      "ref": "N-138",
+      "name": "Andrew Kovace",
       "type": "person",
       "description": "PR agent for Turning Point USA; sat down with Alex Clark to address rumors.",
       "related_artifacts": [
@@ -524,8 +524,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-180",
-      "ref": "N-180",
+      "@id": "N-139",
+      "ref": "N-139",
       "name": "Alex Clark",
       "type": "person",
       "description": "Podcast host who interviewed Andrew Kovette; clip excerpts played.",
@@ -563,8 +563,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-181",
-      "ref": "N-181",
+      "@id": "N-140",
+      "ref": "N-140",
       "name": "Phil Leman",
       "type": "person",
       "description": "Utah Lt. Gov. candidate; per host, the GMA connection was routed through his campaign to Tiffany Barker.",
@@ -583,8 +583,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-182",
-      "ref": "N-182",
+      "@id": "N-141",
+      "ref": "N-141",
       "name": "Aaron",
       "type": "person",
       "description": "Person who handed the host's ground contact a Chicago phone number tied to the roof video chain.",
@@ -602,8 +602,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-183",
-      "ref": "N-183",
+      "@id": "N-70",
+      "ref": "N-70",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "FBI-named suspect whose description (jeans, flag shirt) is contested by the rooftop eyewitness.",
@@ -623,8 +623,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-184",
-      "ref": "N-184",
+      "@id": "N-142",
+      "ref": "N-142",
       "name": "Charlie Skyler",
       "type": "person",
       "description": "Production team member referenced while pulling the timeline graphic on screen.",
@@ -640,8 +640,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-185",
-      "ref": "N-185",
+      "@id": "N-104",
+      "ref": "N-104",
       "name": "Kash Patel",
       "type": "person",
       "description": "Referenced via prior tweet suggesting more parties involved than Robinson alone.",
@@ -657,8 +657,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-186",
-      "ref": "N-186",
+      "@id": "N-143",
+      "ref": "N-143",
       "name": "Michael Nolles",
       "type": "person",
       "description": "Catholic debate partner of Charlie Kirk referenced by Kovette.",
@@ -674,8 +674,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-187",
-      "ref": "N-187",
+      "@id": "N-80",
+      "ref": "N-80",
       "name": "Donald Trump",
       "type": "person",
       "description": "President; audio statement on MMR separation and Hepatitis B delay played in the episode.",
@@ -693,8 +693,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-188",
-      "ref": "N-188",
+      "@id": "N-144",
+      "ref": "N-144",
       "name": "John Heinchell",
       "type": "person",
       "description": "Commenter noting Charlie's anti-genocide/Netanyahu stance had shifted pre-assassination.",
@@ -708,8 +708,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-189",
-      "ref": "N-189",
+      "@id": "N-145",
+      "ref": "N-145",
       "name": "Jenna V",
       "type": "person",
       "description": "Commenter thanking host and recalling mutual support with Charlie.",
@@ -723,8 +723,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-190",
-      "ref": "N-190",
+      "@id": "N-146",
+      "ref": "N-146",
       "name": "Tempes",
       "type": "person",
       "description": "Commenter on Charlie's spiritual status.",
@@ -738,8 +738,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-147",
+      "ref": "N-147",
       "name": "Carl",
       "type": "person",
       "description": "Commenter thanking host for questioning the establishment.",
@@ -753,8 +753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-148",
+      "ref": "N-148",
       "name": "Mary Kelly",
       "type": "person",
       "description": "Commenter praying via Flame of Love rosaries.",
@@ -768,8 +768,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-193",
-      "ref": "N-193",
+      "@id": "N-149",
+      "ref": "N-149",
       "name": "Chris",
       "type": "person",
       "description": "Commenter asking who paid for the rapid crime-scene paver installation.",
@@ -785,8 +785,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-150",
+      "ref": "N-150",
       "name": "MC",
       "type": "person",
       "description": "Commenter quoting police scanner description (jeans, black shirt, mask, vest, rifle).",
@@ -802,8 +802,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-195",
-      "ref": "N-195",
+      "@id": "N-151",
+      "ref": "N-151",
       "name": "Milana",
       "type": "person",
       "description": "Commenter asking about homeschooling curriculum.",
@@ -817,8 +817,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-196",
-      "ref": "N-196",
+      "@id": "N-152",
+      "ref": "N-152",
       "name": "Lover of Light",
       "type": "person",
       "description": "Commenter asking host to share personal stories.",
@@ -832,9 +832,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-197",
-      "ref": "N-197",
-      "name": "Bill Aman",
+      "@id": "N-67",
+      "ref": "N-67",
+      "name": "Bill Ackman",
       "type": "person",
       "description": "TPUSA donor referenced as possibly funneling foreign-agent money.",
       "related_artifacts": [
@@ -851,8 +851,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-198",
-      "ref": "N-198",
+      "@id": "N-153",
+      "ref": "N-153",
       "name": "Bob Schman",
       "type": "person",
       "description": "TPUSA donor referenced in same FARA-suspicion chain.",
@@ -915,8 +915,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1176",
-      "ref": "N-1176",
+      "@id": "N-1077",
+      "ref": "N-1077",
       "name": "Utah Valley University",
       "type": "organization",
       "description": "Venue-host university; host notes most eyewitnesses were not UVU students.",
@@ -937,8 +937,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1177",
-      "ref": "N-1177",
+      "@id": "N-1159",
+      "ref": "N-1159",
       "name": "Brigham Young University",
       "type": "organization",
       "description": "Identified as the school attended by one of the two roof-videographer companions.",
@@ -957,24 +957,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1178",
-      "ref": "N-1178",
-      "name": "Calera Engineering",
-      "type": "organization",
-      "description": "Company whose owner and employees live on the relevant block; revisited from prior episodes.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "organization_kind": "company"
-    },
-    {
-      "@type": "Organization",
-      "@id": "N-1179",
-      "ref": "N-1179",
+      "@id": "N-1160",
+      "ref": "N-1160",
       "name": "Wirefy",
       "type": "organization",
       "description": "Tour sponsor whose branding was the backdrop and whose employee appeared post-shot.",
@@ -993,8 +977,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1180",
-      "ref": "N-1180",
+      "@id": "N-1125",
+      "ref": "N-1125",
       "name": "Good Morning America",
       "type": "organization",
       "description": "Outlet that aired the Tiffany Barker family interview on 9/11.",
@@ -1013,29 +997,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1181",
-      "ref": "N-1181",
-      "name": "Alex Clark Podcast",
-      "type": "organization",
-      "description": "Podcast where Andrew Kovette answered the four circulating rumors.",
-      "related_artifacts": [
-        "A-1151.1",
-        "A-1151.2",
-        "A-1151.3",
-        "A-1151.4"
-      ],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 4,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "organization_kind": "media_outlet"
-    },
-    {
-      "@type": "Organization",
-      "@id": "N-1182",
-      "ref": "N-1182",
+      "@id": "N-1150",
+      "ref": "N-1150",
       "name": "LDS Church",
       "type": "organization",
       "description": "Family faith tradition tied to the Barkers per Reddit-sleuth research.",
@@ -1054,8 +1017,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1183",
-      "ref": "N-1183",
+      "@id": "N-1138",
+      "ref": "N-1138",
       "name": "FBI",
       "type": "organization",
       "description": "Agency whose public shooter description is contradicted by the rooftop eyewitness.",
@@ -1076,25 +1039,9 @@
       "organization_kind": "government_agency"
     },
     {
-      "@type": "Organization",
-      "@id": "N-1184",
-      "ref": "N-1184",
-      "name": "CIA",
-      "type": "organization",
-      "description": "Referenced rhetorically when host jokes Trump may be 'wearing a CIA hat and watching.'",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "organization_kind": "government_agency"
-    },
-    {
       "@type": "Topic",
-      "@id": "N-1185",
-      "ref": "N-1185",
+      "@id": "N-1161",
+      "ref": "N-1161",
       "name": "9/10 Eyewitness Pattern Investigation",
       "type": "topic",
       "description": "Ongoing thread: most viral-witness accounts trace back to TPUSA or government-tied people, not random UVU students.",
@@ -1116,8 +1063,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1186",
-      "ref": "N-1186",
+      "@id": "N-1162",
+      "ref": "N-1162",
       "name": "Artery Remark Provenance",
       "type": "topic",
       "description": "Whether the children's 'hit his artery' description came from observation or parental coaching in the car.",
@@ -1138,8 +1085,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1187",
-      "ref": "N-1187",
+      "@id": "N-1163",
+      "ref": "N-1163",
       "name": "George Zinn Arrest Location/Timing",
       "type": "topic",
       "description": "Whether arrest in the same area as Charlie's SUV departs within ~1:48 is procedurally normal.",
@@ -1162,8 +1109,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1188",
-      "ref": "N-1188",
+      "@id": "N-1164",
+      "ref": "N-1164",
       "name": "Roof Video Provenance Chain",
       "type": "topic",
       "description": "Tracing the viral roof video through a third-party poster, an unknown Aaron, and Chicago numbers.",
@@ -1182,8 +1129,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1189",
-      "ref": "N-1189",
+      "@id": "N-1165",
+      "ref": "N-1165",
       "name": "Shooter Description Contradiction",
       "type": "topic",
       "description": "Eyewitness says tactical gear + face mask + smaller rifle; public FBI narrative says jeans + flag shirt.",
@@ -1204,8 +1151,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1190",
-      "ref": "N-1190",
+      "@id": "N-1166",
+      "ref": "N-1166",
       "name": "TPUSA SD Card Removal",
       "type": "topic",
       "description": "Whether SD cards were pulled to preserve evidence or to control the record.",
@@ -1224,8 +1171,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1191",
-      "ref": "N-1191",
+      "@id": "N-1167",
+      "ref": "N-1167",
       "name": "Wirefy Post-Shot Individual Identity",
       "type": "topic",
       "description": "Open target: who is the blue-shirt Wirefy representative who texted/photographed in the immediate aftermath.",
@@ -1244,8 +1191,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1192",
-      "ref": "N-1192",
+      "@id": "N-1168",
+      "ref": "N-1168",
       "name": "Earpiece Rumor Debunking",
       "type": "topic",
       "description": "Host's assertion that what looked like an earpiece was actually Charlie's necklace.",
@@ -1262,8 +1209,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1193",
-      "ref": "N-1193",
+      "@id": "N-1169",
+      "ref": "N-1169",
       "name": "Bulletproof Vest Absence",
       "type": "topic",
       "description": "Host's claim that Charlie was not wearing a vest and that a prior provider had stopped supplying them.",
@@ -1280,8 +1227,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1194",
-      "ref": "N-1194",
+      "@id": "N-1170",
+      "ref": "N-1170",
       "name": "Catholic Conversion Rumor",
       "type": "topic",
       "description": "Was Charlie formally converting vs. attending mass and praying the rosary.",
@@ -1301,8 +1248,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1195",
-      "ref": "N-1195",
+      "@id": "N-1171",
+      "ref": "N-1171",
       "name": "Israel $150M Offer Rumor",
       "type": "topic",
       "description": "Whether a $150M foreign-money offer was made to Charlie and refused.",
@@ -1321,8 +1268,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1196",
-      "ref": "N-1196",
+      "@id": "N-1172",
+      "ref": "N-1172",
       "name": "Moral Blackmail by Donors",
       "type": "topic",
       "description": "Charlie's repeated claim that donors pressured him on who to associate with.",
@@ -1343,8 +1290,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1197",
-      "ref": "N-1197",
+      "@id": "N-1173",
+      "ref": "N-1173",
       "name": "Crime Scene Pavers",
       "type": "topic",
       "description": "Open lead: who paid for the unusually quick paver replacement at the venue.",
@@ -1361,8 +1308,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1198",
-      "ref": "N-1198",
+      "@id": "N-1174",
+      "ref": "N-1174",
       "name": "Police Scanner Description",
       "type": "topic",
       "description": "Scanner reportedly described jeans/black shirt/mask/vest/rifle — never made public.",
@@ -1389,19 +1336,19 @@
         "A-1146.1"
       ],
       "related_nodes": [
-        "N-175",
-        "N-181",
-        "N-1180",
-        "N-1182",
-        "N-1185",
-        "N-184",
-        "N-186",
-        "N-188",
-        "N-189",
-        "N-190",
-        "N-191",
-        "N-192",
-        "N-195"
+        "N-112",
+        "N-140",
+        "N-1125",
+        "N-1150",
+        "N-1161",
+        "N-142",
+        "N-143",
+        "N-144",
+        "N-145",
+        "N-146",
+        "N-147",
+        "N-148",
+        "N-151"
       ],
       "tags": [],
       "claim_timestamp": "00:10:11",
@@ -1419,11 +1366,11 @@
         "A-1146.1"
       ],
       "related_nodes": [
-        "N-175",
-        "N-176",
-        "N-177",
+        "N-112",
+        "N-113",
+        "N-114",
         "N-1",
-        "N-1186"
+        "N-1162"
       ],
       "tags": [],
       "claim_timestamp": "00:05:18",
@@ -1441,10 +1388,10 @@
         "A-1147.1"
       ],
       "related_nodes": [
-        "N-175",
-        "N-176",
-        "N-177",
-        "N-1186"
+        "N-112",
+        "N-113",
+        "N-114",
+        "N-1162"
       ],
       "tags": [],
       "claim_timestamp": "00:09:03",
@@ -1464,9 +1411,9 @@
         "A-1148.4"
       ],
       "related_nodes": [
-        "N-178",
+        "N-72",
         "N-1",
-        "N-1187"
+        "N-1163"
       ],
       "tags": [],
       "claim_timestamp": "00:13:41",
@@ -1484,8 +1431,8 @@
         "A-1148.2"
       ],
       "related_nodes": [
-        "N-178",
-        "N-1187"
+        "N-72",
+        "N-1163"
       ],
       "tags": [],
       "claim_timestamp": "00:14:55",
@@ -1503,9 +1450,9 @@
         "A-1148.4"
       ],
       "related_nodes": [
-        "N-178",
+        "N-72",
         "N-1000",
-        "N-1185"
+        "N-1161"
       ],
       "tags": [],
       "claim_timestamp": "00:18:31",
@@ -1523,8 +1470,8 @@
         "A-1149.1"
       ],
       "related_nodes": [
-        "N-1179",
-        "N-1191"
+        "N-1160",
+        "N-1167"
       ],
       "tags": [],
       "claim_timestamp": "00:21:02",
@@ -1542,10 +1489,10 @@
         "A-1150.1"
       ],
       "related_nodes": [
-        "N-182",
-        "N-1176",
-        "N-1177",
-        "N-1188"
+        "N-141",
+        "N-1077",
+        "N-1159",
+        "N-1164"
       ],
       "tags": [],
       "claim_timestamp": "00:24:06",
@@ -1563,9 +1510,9 @@
         "A-1154.1"
       ],
       "related_nodes": [
-        "N-183",
-        "N-1183",
-        "N-1189"
+        "N-70",
+        "N-1138",
+        "N-1165"
       ],
       "tags": [],
       "claim_timestamp": "00:29:07",
@@ -1586,10 +1533,10 @@
         "A-1154.1"
       ],
       "related_nodes": [
-        "N-183",
-        "N-1183",
-        "N-1189",
-        "N-196"
+        "N-70",
+        "N-1138",
+        "N-1165",
+        "N-152"
       ],
       "tags": [],
       "claim_timestamp": "00:30:37",
@@ -1607,11 +1554,11 @@
         "A-1151.1"
       ],
       "related_nodes": [
-        "N-179",
+        "N-138",
         "N-1",
         "N-2",
-        "N-1194",
-        "N-180"
+        "N-1170",
+        "N-139"
       ],
       "tags": [],
       "claim_timestamp": "00:40:47",
@@ -1629,11 +1576,11 @@
         "A-1151.2"
       ],
       "related_nodes": [
-        "N-179",
+        "N-138",
         "N-1",
-        "N-197",
-        "N-198",
-        "N-1195"
+        "N-67",
+        "N-153",
+        "N-1171"
       ],
       "tags": [],
       "claim_timestamp": "00:45:12",
@@ -1651,9 +1598,9 @@
         "A-1151.3"
       ],
       "related_nodes": [
-        "N-179",
+        "N-138",
         "N-1000",
-        "N-1190"
+        "N-1166"
       ],
       "tags": [],
       "claim_timestamp": "00:51:21",
@@ -1672,11 +1619,11 @@
         "A-1152.1"
       ],
       "related_nodes": [
-        "N-179",
+        "N-138",
         "N-1",
         "N-50",
         "N-7",
-        "N-1196"
+        "N-1172"
       ],
       "tags": [],
       "claim_timestamp": "00:54:57",
@@ -1696,7 +1643,7 @@
       "related_nodes": [
         "N-1",
         "N-7",
-        "N-1196"
+        "N-1172"
       ],
       "tags": [],
       "claim_timestamp": "00:56:05",
@@ -1714,7 +1661,7 @@
         "A-1153.1"
       ],
       "related_nodes": [
-        "N-187"
+        "N-80"
       ],
       "tags": [],
       "claim_timestamp": "01:01:02",
@@ -1732,8 +1679,8 @@
         "A-1146.1"
       ],
       "related_nodes": [
-        "N-175",
-        "N-181"
+        "N-112",
+        "N-140"
       ],
       "tags": [],
       "claim_timestamp": "00:10:11",
@@ -1750,10 +1697,10 @@
       "claim": "Host cites Kash Patel's recent tweet/thread as conceding that the public FBI narrative does not add up and that more parties are likely involved.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-185",
-        "N-183",
-        "N-1183",
-        "N-1189"
+        "N-104",
+        "N-70",
+        "N-1138",
+        "N-1165"
       ],
       "tags": [],
       "claim_timestamp": "01:16:47",
@@ -1769,9 +1716,9 @@
       "claim": "Commenter Chris asks who paid for the rapid paver installation at the crime scene; host flags it as an open path to pursue.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-193",
-        "N-1176",
-        "N-1197"
+        "N-149",
+        "N-1077",
+        "N-1173"
       ],
       "tags": [],
       "claim_timestamp": "01:15:09",
@@ -1787,9 +1734,9 @@
       "claim": "Commenter MC states a police scanner call right after the shooting described a shooter wearing jeans, a black shirt, black mask, and black vest carrying a long rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-194",
-        "N-1183",
-        "N-1198"
+        "N-150",
+        "N-1138",
+        "N-1174"
       ],
       "tags": [],
       "claim_timestamp": "01:15:52",
@@ -1806,7 +1753,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1",
-        "N-1192"
+        "N-1168"
       ],
       "tags": [],
       "claim_timestamp": "00:01:43",
@@ -1823,7 +1770,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1",
-        "N-1193"
+        "N-1169"
       ],
       "tags": [],
       "claim_timestamp": "00:02:06",
@@ -1874,7 +1821,7 @@
         {
           "episode": 16,
           "video_timestamp": "00:41:01",
-          "speaker_node_ref": "N-179",
+          "speaker_node_ref": "N-138",
           "quote": "I grew up Catholic and first communion and went to Catholic high school, but then I ended up becoming a Christian in college... Erika kind of follows that same path",
           "context": "Kovette maps Erika's cradle-Catholic-to-Protestant arc to neutralize the conversion framing.",
           "confidence": "high",

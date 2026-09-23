@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updated": "2026-09-23T21:06:18.038689+00:00",
-  "next_person_id": 246,
-  "next_investigation_id": 1241,
+  "updated": "2026-09-23T21:48:48Z",
+  "next_person_id": 182,
+  "next_investigation_id": 1207,
   "nodes": {
     "N-1": {
       "canonical_name": "Charlie Kirk",
@@ -32,7 +32,9 @@
     "N-2": {
       "canonical_name": "Erika Kirk",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Erika Kirk (n\u00e9e Frantzey)"
+      ],
       "episodes": [
         1,
         2,
@@ -42,6 +44,7 @@
         6,
         7,
         8,
+        9,
         10,
         11,
         12,
@@ -1119,14 +1122,6 @@
       ]
     },
     "N-60": {
-      "canonical_name": "Erika Kirk (n\u00e9e Frantzey)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        9
-      ]
-    },
-    "N-61": {
       "canonical_name": "Rush Limbaugh",
       "type": "person",
       "aliases": [],
@@ -1134,15 +1129,17 @@
         9
       ]
     },
-    "N-62": {
+    "N-61": {
       "canonical_name": "Dave Rubin",
       "type": "person",
       "aliases": [],
       "episodes": [
-        9
+        9,
+        11,
+        15
       ]
     },
-    "N-63": {
+    "N-62": {
       "canonical_name": "Donald Trump Jr. (Don Jr.)",
       "type": "person",
       "aliases": [],
@@ -1150,7 +1147,7 @@
         9
       ]
     },
-    "N-64": {
+    "N-63": {
       "canonical_name": "Eric Trump",
       "type": "person",
       "aliases": [],
@@ -1158,15 +1155,20 @@
         9
       ]
     },
-    "N-65": {
+    "N-64": {
       "canonical_name": "Andrew Kovac",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Andrew Kovit"
+      ],
       "episodes": [
-        9
+        9,
+        13,
+        14,
+        18
       ]
     },
-    "N-66": {
+    "N-65": {
       "canonical_name": "Sarah (Charlie's assistant)",
       "type": "person",
       "aliases": [],
@@ -1203,7 +1205,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        9
+        9,
+        10
       ]
     },
     "N-1071": {
@@ -1211,7 +1214,8 @@
       "type": "organization",
       "aliases": [],
       "episodes": [
-        9
+        9,
+        10
       ]
     },
     "N-1072": {
@@ -1246,47 +1250,70 @@
         9
       ]
     },
-    "N-67": {
+    "N-66": {
       "canonical_name": "Benjamin Netanyahu",
       "type": "person",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        18
       ]
     },
-    "N-68": {
+    "N-67": {
       "canonical_name": "Bill Ackman",
       "type": "person",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        11,
+        13,
+        14,
+        15,
+        16,
+        18
       ]
     },
-    "N-69": {
+    "N-68": {
       "canonical_name": "Seth Dylan",
       "type": "person",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        11,
+        18
       ]
     },
-    "N-70": {
+    "N-69": {
       "canonical_name": "Dave Smith",
       "type": "person",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        11,
+        12
       ]
     },
-    "N-71": {
+    "N-70": {
       "canonical_name": "Tyler Robinson",
       "type": "person",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
       ]
     },
-    "N-72": {
+    "N-71": {
       "canonical_name": "Spencer Cox",
       "type": "person",
       "aliases": [],
@@ -1294,15 +1321,19 @@
         10
       ]
     },
-    "N-73": {
+    "N-72": {
       "canonical_name": "George Zinn",
       "type": "person",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        11,
+        12,
+        15,
+        16
       ]
     },
-    "N-74": {
+    "N-73": {
       "canonical_name": "Michael Savage",
       "type": "person",
       "aliases": [],
@@ -1310,15 +1341,16 @@
         10
       ]
     },
-    "N-75": {
+    "N-74": {
       "canonical_name": "Greta Van Susteren",
       "type": "person",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        18
       ]
     },
-    "N-76": {
+    "N-75": {
       "canonical_name": "Matt Gutman",
       "type": "person",
       "aliases": [],
@@ -1326,15 +1358,20 @@
         10
       ]
     },
-    "N-77": {
-      "canonical_name": "Megan Kelly",
+    "N-76": {
+      "canonical_name": "Megyn Kelly",
       "type": "person",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        11,
+        12,
+        14,
+        17,
+        18
       ]
     },
-    "N-78": {
+    "N-77": {
       "canonical_name": "Ghislaine Maxwell",
       "type": "person",
       "aliases": [],
@@ -1342,7 +1379,7 @@
         10
       ]
     },
-    "N-79": {
+    "N-78": {
       "canonical_name": "Robert Maxwell",
       "type": "person",
       "aliases": [],
@@ -1350,7 +1387,7 @@
         10
       ]
     },
-    "N-80": {
+    "N-79": {
       "canonical_name": "Max Blumenthal",
       "type": "person",
       "aliases": [],
@@ -1358,23 +1395,28 @@
         10
       ]
     },
-    "N-81": {
+    "N-80": {
       "canonical_name": "Donald Trump",
       "type": "person",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        14,
+        16,
+        17,
+        18
       ]
     },
-    "N-82": {
+    "N-81": {
       "canonical_name": "Sigmund Freud",
       "type": "person",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        17
       ]
     },
-    "N-83": {
+    "N-82": {
       "canonical_name": "David Bakan",
       "type": "person",
       "aliases": [],
@@ -1382,7 +1424,7 @@
         10
       ]
     },
-    "N-84": {
+    "N-83": {
       "canonical_name": "Shlomo Sand",
       "type": "person",
       "aliases": [],
@@ -1390,7 +1432,7 @@
         10
       ]
     },
-    "N-85": {
+    "N-84": {
       "canonical_name": "Abraham Polokoff",
       "type": "person",
       "aliases": [],
@@ -1399,30 +1441,29 @@
       ]
     },
     "N-1076": {
-      "canonical_name": "Fox News",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        10
-      ]
-    },
-    "N-1077": {
       "canonical_name": "TMZ",
       "type": "organization",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        13
       ]
     },
-    "N-1078": {
+    "N-1077": {
       "canonical_name": "Utah Valley University",
       "type": "organization",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        11,
+        13,
+        14,
+        15,
+        16,
+        17
       ]
     },
-    "N-1079": {
+    "N-1078": {
       "canonical_name": "Discord",
       "type": "organization",
       "aliases": [],
@@ -1430,7 +1471,7 @@
         10
       ]
     },
-    "N-1080": {
+    "N-1079": {
       "canonical_name": "Federal Bureau of Investigation",
       "type": "organization",
       "aliases": [],
@@ -1438,7 +1479,7 @@
         10
       ]
     },
-    "N-1081": {
+    "N-1080": {
       "canonical_name": "Mossad",
       "type": "organization",
       "aliases": [],
@@ -1446,15 +1487,7 @@
         10
       ]
     },
-    "N-1082": {
-      "canonical_name": "Tel Aviv University",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        10
-      ]
-    },
-    "N-1083": {
+    "N-1081": {
       "canonical_name": "Hamptons Meeting Pressure Investigation",
       "type": "topic",
       "aliases": [],
@@ -1462,15 +1495,7 @@
         10
       ]
     },
-    "N-1084": {
-      "canonical_name": "Charlie Kirk Spiritual Transformation",
-      "type": "topic",
-      "aliases": [],
-      "episodes": [
-        10
-      ]
-    },
-    "N-1085": {
+    "N-1082": {
       "canonical_name": "Charlie Kirk May 2 Letter Misrepresentation",
       "type": "topic",
       "aliases": [],
@@ -1478,7 +1503,7 @@
         10
       ]
     },
-    "N-1086": {
+    "N-1083": {
       "canonical_name": "Netanyahu Israel Invitation Phone Call",
       "type": "topic",
       "aliases": [],
@@ -1486,7 +1511,7 @@
         10
       ]
     },
-    "N-1087": {
+    "N-1084": {
       "canonical_name": "Robinson Outfit Change Discrepancy",
       "type": "topic",
       "aliases": [],
@@ -1494,7 +1519,7 @@
         10
       ]
     },
-    "N-1088": {
+    "N-1085": {
       "canonical_name": "Weapon Disassembly/Reassembly Claim",
       "type": "topic",
       "aliases": [],
@@ -1502,7 +1527,7 @@
         10
       ]
     },
-    "N-1089": {
+    "N-1086": {
       "canonical_name": "Robinson Confession and Arrest Discrepancy",
       "type": "topic",
       "aliases": [],
@@ -1510,7 +1535,7 @@
         10
       ]
     },
-    "N-1090": {
+    "N-1087": {
       "canonical_name": "Robinson Father Turn-In Narrative",
       "type": "topic",
       "aliases": [],
@@ -1518,7 +1543,7 @@
         10
       ]
     },
-    "N-1091": {
+    "N-1088": {
       "canonical_name": "Epstein Israeli Intelligence Asset Allegation",
       "type": "topic",
       "aliases": [],
@@ -1526,7 +1551,7 @@
         10
       ]
     },
-    "N-1092": {
+    "N-1089": {
       "canonical_name": "Kirk Assassination Investigation Timeline",
       "type": "topic",
       "aliases": [],
@@ -1534,7 +1559,7 @@
         10
       ]
     },
-    "N-1093": {
+    "N-1090": {
       "canonical_name": "Israel Lobby Pressure on Conservative Figures",
       "type": "topic",
       "aliases": [],
@@ -1542,23 +1567,27 @@
         10
       ]
     },
-    "N-1094": {
+    "N-1091": {
       "canonical_name": "Israel",
       "type": "place",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        13,
+        14
       ]
     },
-    "N-1095": {
+    "N-1092": {
       "canonical_name": "The Hamptons",
       "type": "place",
       "aliases": [],
       "episodes": [
-        10
+        10,
+        13,
+        18
       ]
     },
-    "N-1096": {
+    "N-1093": {
       "canonical_name": "Utah Valley University Campus",
       "type": "place",
       "aliases": [],
@@ -1566,7 +1595,7 @@
         10
       ]
     },
-    "N-86": {
+    "N-85": {
       "canonical_name": "Tyler James Robinson",
       "type": "person",
       "aliases": [],
@@ -1574,71 +1603,35 @@
         11
       ]
     },
-    "N-87": {
+    "N-86": {
       "canonical_name": "Lance Twigs",
       "type": "person",
       "aliases": [],
       "episodes": [
-        11
+        11,
+        12
       ]
     },
-    "N-88": {
-      "canonical_name": "George Zinn",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        11
-      ]
-    },
-    "N-89": {
+    "N-87": {
       "canonical_name": "Governor Cox",
       "type": "person",
       "aliases": [],
       "episodes": [
-        11
+        11,
+        18
       ]
     },
-    "N-90": {
-      "canonical_name": "Bill Ackman",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        11
-      ]
-    },
-    "N-91": {
-      "canonical_name": "Benjamin Netanyahu",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        11
-      ]
-    },
-    "N-92": {
-      "canonical_name": "Seth Dylan",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        11
-      ]
-    },
-    "N-93": {
+    "N-88": {
       "canonical_name": "Josh Hammer",
       "type": "person",
       "aliases": [],
       "episodes": [
-        11
+        11,
+        12,
+        18
       ]
     },
-    "N-94": {
-      "canonical_name": "Dave Smith",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        11
-      ]
-    },
-    "N-95": {
+    "N-89": {
       "canonical_name": "Aaron Wexler",
       "type": "person",
       "aliases": [],
@@ -1646,23 +1639,16 @@
         11
       ]
     },
-    "N-96": {
-      "canonical_name": "Megyn Kelly",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        11
-      ]
-    },
-    "N-97": {
+    "N-90": {
       "canonical_name": "Patrick Bet-David",
       "type": "person",
       "aliases": [],
       "episodes": [
-        11
+        11,
+        14
       ]
     },
-    "N-98": {
+    "N-91": {
       "canonical_name": "Brendan Tatum",
       "type": "person",
       "aliases": [],
@@ -1670,7 +1656,7 @@
         11
       ]
     },
-    "N-99": {
+    "N-92": {
       "canonical_name": "Nelk Boys",
       "type": "person",
       "aliases": [],
@@ -1678,15 +1664,17 @@
         11
       ]
     },
-    "N-100": {
+    "N-93": {
       "canonical_name": "Laura Loomer",
       "type": "person",
       "aliases": [],
       "episodes": [
-        11
+        11,
+        15,
+        18
       ]
     },
-    "N-101": {
+    "N-94": {
       "canonical_name": "Phil Lyman",
       "type": "person",
       "aliases": [],
@@ -1694,7 +1682,7 @@
         11
       ]
     },
-    "N-102": {
+    "N-95": {
       "canonical_name": "Eric Mutosos",
       "type": "person",
       "aliases": [],
@@ -1702,7 +1690,7 @@
         11
       ]
     },
-    "N-103": {
+    "N-96": {
       "canonical_name": "Sarah Stockton",
       "type": "person",
       "aliases": [],
@@ -1710,15 +1698,7 @@
         11
       ]
     },
-    "N-104": {
-      "canonical_name": "Dave Rubin",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        11
-      ]
-    },
-    "N-105": {
+    "N-97": {
       "canonical_name": "Brian Mass",
       "type": "person",
       "aliases": [],
@@ -1726,7 +1706,7 @@
         11
       ]
     },
-    "N-106": {
+    "N-98": {
       "canonical_name": "Jamie Lee Curtis",
       "type": "person",
       "aliases": [],
@@ -1734,7 +1714,7 @@
         11
       ]
     },
-    "N-107": {
+    "N-99": {
       "canonical_name": "Village Crazy Lady",
       "type": "person",
       "aliases": [],
@@ -1742,7 +1722,7 @@
         11
       ]
     },
-    "N-108": {
+    "N-100": {
       "canonical_name": "Mark",
       "type": "person",
       "aliases": [],
@@ -1750,31 +1730,27 @@
         11
       ]
     },
-    "N-109": {
+    "N-101": {
       "canonical_name": "Skyler",
       "type": "person",
       "aliases": [],
       "episodes": [
-        11
+        11,
+        12,
+        14,
+        17
       ]
     },
-    "N-110": {
+    "N-102": {
       "canonical_name": "Candace Owens' Husband",
       "type": "person",
       "aliases": [],
       "episodes": [
-        11
+        11,
+        17
       ]
     },
-    "N-1097": {
-      "canonical_name": "Utah Valley University",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        11
-      ]
-    },
-    "N-1098": {
+    "N-1094": {
       "canonical_name": "Washington County Sheriff's Office",
       "type": "organization",
       "aliases": [],
@@ -1782,7 +1758,7 @@
         11
       ]
     },
-    "N-1099": {
+    "N-1095": {
       "canonical_name": "Text Message Timestamp Discrepancy",
       "type": "topic",
       "aliases": [],
@@ -1790,7 +1766,7 @@
         11
       ]
     },
-    "N-1100": {
+    "N-1096": {
       "canonical_name": "33-Hour Surrender Timeline Signal",
       "type": "topic",
       "aliases": [],
@@ -1798,7 +1774,7 @@
         11
       ]
     },
-    "N-1101": {
+    "N-1097": {
       "canonical_name": "Decoy Boy Operation Analysis",
       "type": "topic",
       "aliases": [],
@@ -1806,7 +1782,7 @@
         11
       ]
     },
-    "N-1102": {
+    "N-1098": {
       "canonical_name": "Hamptons Donor Pressure Investigation",
       "type": "topic",
       "aliases": [],
@@ -1814,7 +1790,7 @@
         11
       ]
     },
-    "N-1103": {
+    "N-1099": {
       "canonical_name": "Lance Twigs Family Allegations",
       "type": "topic",
       "aliases": [],
@@ -1822,7 +1798,7 @@
         11
       ]
     },
-    "N-1104": {
+    "N-1100": {
       "canonical_name": "Unusual Traffic at Residence Investigation",
       "type": "topic",
       "aliases": [],
@@ -1830,7 +1806,7 @@
         11
       ]
     },
-    "N-1105": {
+    "N-1101": {
       "canonical_name": "Building Donor Withdrawal Investigation",
       "type": "topic",
       "aliases": [],
@@ -1838,7 +1814,7 @@
         11
       ]
     },
-    "N-1106": {
+    "N-1102": {
       "canonical_name": "Bill Ackman Response Analysis",
       "type": "topic",
       "aliases": [],
@@ -1846,31 +1822,7 @@
         11
       ]
     },
-    "N-111": {
-      "canonical_name": "Tyler Robinson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        12
-      ]
-    },
-    "N-112": {
-      "canonical_name": "Lance Twigs",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        12
-      ]
-    },
-    "N-113": {
-      "canonical_name": "George Zinn",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        12
-      ]
-    },
-    "N-114": {
+    "N-103": {
       "canonical_name": "Governor Spencer Cox",
       "type": "person",
       "aliases": [],
@@ -1878,39 +1830,17 @@
         12
       ]
     },
-    "N-115": {
-      "canonical_name": "Benjamin Netanyahu",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        12
-      ]
-    },
-    "N-116": {
-      "canonical_name": "Megyn Kelly",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        12
-      ]
-    },
-    "N-117": {
+    "N-104": {
       "canonical_name": "Kash Patel",
       "type": "person",
       "aliases": [],
       "episodes": [
-        12
+        12,
+        15,
+        16
       ]
     },
-    "N-118": {
-      "canonical_name": "Skyler",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        12
-      ]
-    },
-    "N-119": {
+    "N-105": {
       "canonical_name": "Lance Twigs's Mother",
       "type": "person",
       "aliases": [],
@@ -1918,7 +1848,7 @@
         12
       ]
     },
-    "N-120": {
+    "N-106": {
       "canonical_name": "Matt Gaetz",
       "type": "person",
       "aliases": [],
@@ -1926,7 +1856,7 @@
         12
       ]
     },
-    "N-121": {
+    "N-107": {
       "canonical_name": "Seth Dillon",
       "type": "person",
       "aliases": [],
@@ -1934,23 +1864,7 @@
         12
       ]
     },
-    "N-122": {
-      "canonical_name": "Josh Hammer",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        12
-      ]
-    },
-    "N-123": {
-      "canonical_name": "Dave Smith",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        12
-      ]
-    },
-    "N-1107": {
+    "N-1103": {
       "canonical_name": "Text Message Language Anomaly",
       "type": "topic",
       "aliases": [],
@@ -1958,7 +1872,7 @@
         12
       ]
     },
-    "N-1108": {
+    "N-1104": {
       "canonical_name": "Missing Text Message Timestamps",
       "type": "topic",
       "aliases": [],
@@ -1966,7 +1880,7 @@
         12
       ]
     },
-    "N-1109": {
+    "N-1105": {
       "canonical_name": "Robinson On-Campus Linger Timeline",
       "type": "topic",
       "aliases": [],
@@ -1974,7 +1888,7 @@
         12
       ]
     },
-    "N-1110": {
+    "N-1106": {
       "canonical_name": "Note Under Keyboard Disposal",
       "type": "topic",
       "aliases": [],
@@ -1982,7 +1896,7 @@
         12
       ]
     },
-    "N-1111": {
+    "N-1107": {
       "canonical_name": "Outfit Change Claim",
       "type": "topic",
       "aliases": [],
@@ -1990,7 +1904,7 @@
         12
       ]
     },
-    "N-1112": {
+    "N-1108": {
       "canonical_name": "Two-Person Theory (Maroon vs Stairs)",
       "type": "topic",
       "aliases": [],
@@ -1998,7 +1912,7 @@
         12
       ]
     },
-    "N-1113": {
+    "N-1109": {
       "canonical_name": "Lance Twigs Protection Allegation",
       "type": "topic",
       "aliases": [],
@@ -2006,7 +1920,7 @@
         12
       ]
     },
-    "N-1114": {
+    "N-1110": {
       "canonical_name": "Stanford Psychology Family Pattern",
       "type": "topic",
       "aliases": [],
@@ -2014,7 +1928,7 @@
         12
       ]
     },
-    "N-1115": {
+    "N-1111": {
       "canonical_name": "Federal Conspiracy Allegation",
       "type": "topic",
       "aliases": [],
@@ -2022,7 +1936,7 @@
         12
       ]
     },
-    "N-1116": {
+    "N-1112": {
       "canonical_name": "Donor Intimidation of Charlie Kirk",
       "type": "topic",
       "aliases": [],
@@ -2030,39 +1944,16 @@
         12
       ]
     },
-    "N-124": {
-      "canonical_name": "Tyler Robinson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        13
-      ]
-    },
-    "N-125": {
+    "N-108": {
       "canonical_name": "Lance",
       "type": "person",
       "aliases": [],
       "episodes": [
-        13
+        13,
+        14
       ]
     },
-    "N-126": {
-      "canonical_name": "Benjamin Netanyahu",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        13
-      ]
-    },
-    "N-127": {
-      "canonical_name": "Bill Aman",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        13
-      ]
-    },
-    "N-128": {
+    "N-109": {
       "canonical_name": "Eric Bowling",
       "type": "person",
       "aliases": [],
@@ -2070,7 +1961,7 @@
         13
       ]
     },
-    "N-129": {
+    "N-110": {
       "canonical_name": "Irwin Steel",
       "type": "person",
       "aliases": [],
@@ -2078,7 +1969,7 @@
         13
       ]
     },
-    "N-130": {
+    "N-111": {
       "canonical_name": "Sherry Steel",
       "type": "person",
       "aliases": [],
@@ -2086,31 +1977,34 @@
         13
       ]
     },
-    "N-131": {
+    "N-112": {
       "canonical_name": "Tiffany Barker",
       "type": "person",
       "aliases": [],
       "episodes": [
-        13
+        13,
+        16
       ]
     },
-    "N-132": {
+    "N-113": {
       "canonical_name": "L Steel",
       "type": "person",
       "aliases": [],
       "episodes": [
-        13
+        13,
+        16
       ]
     },
-    "N-133": {
+    "N-114": {
       "canonical_name": "Mia Grant",
       "type": "person",
       "aliases": [],
       "episodes": [
-        13
+        13,
+        16
       ]
     },
-    "N-134": {
+    "N-115": {
       "canonical_name": "Samuel Steele",
       "type": "person",
       "aliases": [],
@@ -2118,7 +2012,7 @@
         13
       ]
     },
-    "N-135": {
+    "N-116": {
       "canonical_name": "Carrie Steele",
       "type": "person",
       "aliases": [],
@@ -2126,15 +2020,16 @@
         13
       ]
     },
-    "N-136": {
+    "N-117": {
       "canonical_name": "Harley Pastnic",
       "type": "person",
       "aliases": [],
       "episodes": [
-        13
+        13,
+        14
       ]
     },
-    "N-137": {
+    "N-118": {
       "canonical_name": "Joseph Goebbels",
       "type": "person",
       "aliases": [],
@@ -2142,15 +2037,7 @@
         13
       ]
     },
-    "N-138": {
-      "canonical_name": "Andrew Kovit",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        13
-      ]
-    },
-    "N-139": {
+    "N-119": {
       "canonical_name": "Brigitte Macron",
       "type": "person",
       "aliases": [],
@@ -2158,7 +2045,7 @@
         13
       ]
     },
-    "N-1117": {
+    "N-1113": {
       "canonical_name": "Charlie Kirk Assassination Investigation",
       "type": "topic",
       "aliases": [],
@@ -2166,7 +2053,7 @@
         13
       ]
     },
-    "N-1118": {
+    "N-1114": {
       "canonical_name": "Robinson Outfit/Language Anomaly",
       "type": "topic",
       "aliases": [],
@@ -2174,7 +2061,7 @@
         13
       ]
     },
-    "N-1119": {
+    "N-1115": {
       "canonical_name": "Steele Family Orem Cluster",
       "type": "topic",
       "aliases": [],
@@ -2182,7 +2069,7 @@
         13
       ]
     },
-    "N-1120": {
+    "N-1116": {
       "canonical_name": "Dairy Queen 6:38 Photo Verification",
       "type": "topic",
       "aliases": [],
@@ -2190,7 +2077,7 @@
         13
       ]
     },
-    "N-1121": {
+    "N-1117": {
       "canonical_name": "Doorbell-Cam Footage Provenance",
       "type": "topic",
       "aliases": [],
@@ -2198,7 +2085,7 @@
         13
       ]
     },
-    "N-1122": {
+    "N-1118": {
       "canonical_name": "Vacant-House / Decoy Shooter Theory",
       "type": "topic",
       "aliases": [],
@@ -2206,7 +2093,7 @@
         13
       ]
     },
-    "N-1123": {
+    "N-1119": {
       "canonical_name": "Calira Engineering Valve Pattern",
       "type": "topic",
       "aliases": [],
@@ -2214,7 +2101,7 @@
         13
       ]
     },
-    "N-1124": {
+    "N-1120": {
       "canonical_name": "Federal Footage Sweep",
       "type": "topic",
       "aliases": [],
@@ -2222,7 +2109,7 @@
         13
       ]
     },
-    "N-1125": {
+    "N-1121": {
       "canonical_name": "Kirk-Israel Narrative Dispute",
       "type": "topic",
       "aliases": [],
@@ -2230,7 +2117,7 @@
         13
       ]
     },
-    "N-1126": {
+    "N-1122": {
       "canonical_name": "Owens Memorial Invitation Status",
       "type": "topic",
       "aliases": [],
@@ -2238,23 +2125,7 @@
         13
       ]
     },
-    "N-1127": {
-      "canonical_name": "Utah Valley University",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        13
-      ]
-    },
-    "N-1128": {
-      "canonical_name": "TMZ",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        13
-      ]
-    },
-    "N-1129": {
+    "N-1123": {
       "canonical_name": "BBC",
       "type": "organization",
       "aliases": [],
@@ -2262,7 +2133,7 @@
         13
       ]
     },
-    "N-1130": {
+    "N-1124": {
       "canonical_name": "PBD Podcast",
       "type": "organization",
       "aliases": [],
@@ -2270,31 +2141,16 @@
         13
       ]
     },
-    "N-1131": {
-      "canonical_name": "Calira Engineering",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        13
-      ]
-    },
-    "N-1132": {
+    "N-1125": {
       "canonical_name": "Good Morning America",
       "type": "organization",
       "aliases": [],
       "episodes": [
-        13
+        13,
+        16
       ]
     },
-    "N-1133": {
-      "canonical_name": "CIA",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        13
-      ]
-    },
-    "N-1134": {
+    "N-1127": {
       "canonical_name": "CIA Operation Mockingbird",
       "type": "organization",
       "aliases": [],
@@ -2302,23 +2158,16 @@
         13
       ]
     },
-    "N-1135": {
+    "N-1128": {
       "canonical_name": "Orem, Utah",
       "type": "place",
       "aliases": [],
       "episodes": [
-        13
+        13,
+        18
       ]
     },
-    "N-1136": {
-      "canonical_name": "Israel",
-      "type": "place",
-      "aliases": [],
-      "episodes": [
-        13
-      ]
-    },
-    "N-1137": {
+    "N-1129": {
       "canonical_name": "Gaza",
       "type": "place",
       "aliases": [],
@@ -2326,7 +2175,7 @@
         13
       ]
     },
-    "N-1138": {
+    "N-1130": {
       "canonical_name": "The Pentagon",
       "type": "place",
       "aliases": [],
@@ -2334,15 +2183,7 @@
         13
       ]
     },
-    "N-1139": {
-      "canonical_name": "The Hamptons",
-      "type": "place",
-      "aliases": [],
-      "episodes": [
-        13
-      ]
-    },
-    "N-140": {
+    "N-120": {
       "canonical_name": "Unidentified camera individual",
       "type": "person",
       "aliases": [],
@@ -2350,23 +2191,7 @@
         14
       ]
     },
-    "N-141": {
-      "canonical_name": "Tyler Robinson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        14
-      ]
-    },
-    "N-142": {
-      "canonical_name": "Lance",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        14
-      ]
-    },
-    "N-143": {
+    "N-121": {
       "canonical_name": "Victoria Churchill",
       "type": "person",
       "aliases": [],
@@ -2374,31 +2199,7 @@
         14
       ]
     },
-    "N-144": {
-      "canonical_name": "Bill Aman",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        14
-      ]
-    },
-    "N-145": {
-      "canonical_name": "Andrew Kovit",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        14
-      ]
-    },
-    "N-146": {
-      "canonical_name": "Patrick Bet-David",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        14
-      ]
-    },
-    "N-147": {
+    "N-122": {
       "canonical_name": "Pam Bondi",
       "type": "person",
       "aliases": [],
@@ -2406,7 +2207,7 @@
         14
       ]
     },
-    "N-148": {
+    "N-123": {
       "canonical_name": "Katie Miller",
       "type": "person",
       "aliases": [],
@@ -2414,15 +2215,16 @@
         14
       ]
     },
-    "N-149": {
+    "N-124": {
       "canonical_name": "Jimmy Kimmel",
       "type": "person",
       "aliases": [],
       "episodes": [
-        14
+        14,
+        17
       ]
     },
-    "N-150": {
+    "N-125": {
       "canonical_name": "Chris Olsen",
       "type": "person",
       "aliases": [],
@@ -2430,7 +2232,7 @@
         14
       ]
     },
-    "N-151": {
+    "N-126": {
       "canonical_name": "Benny Johnson",
       "type": "person",
       "aliases": [],
@@ -2438,7 +2240,7 @@
         14
       ]
     },
-    "N-152": {
+    "N-127": {
       "canonical_name": "Sarah Milgram",
       "type": "person",
       "aliases": [],
@@ -2446,7 +2248,7 @@
         14
       ]
     },
-    "N-153": {
+    "N-128": {
       "canonical_name": "Yuron Lachinsky",
       "type": "person",
       "aliases": [],
@@ -2454,7 +2256,7 @@
         14
       ]
     },
-    "N-154": {
+    "N-129": {
       "canonical_name": "Brendan Carr",
       "type": "person",
       "aliases": [],
@@ -2462,31 +2264,7 @@
         14
       ]
     },
-    "N-155": {
-      "canonical_name": "Benjamin Netanyahu",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        14
-      ]
-    },
-    "N-156": {
-      "canonical_name": "Skyler",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        14
-      ]
-    },
-    "N-157": {
-      "canonical_name": "Megyn Kelly",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        14
-      ]
-    },
-    "N-158": {
+    "N-130": {
       "canonical_name": "Eric Bolling",
       "type": "person",
       "aliases": [],
@@ -2494,23 +2272,7 @@
         14
       ]
     },
-    "N-159": {
-      "canonical_name": "Donald Trump",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        14
-      ]
-    },
-    "N-160": {
-      "canonical_name": "Harley Pasternak",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        14
-      ]
-    },
-    "N-1140": {
+    "N-1131": {
       "canonical_name": "Caldera Engineering",
       "type": "organization",
       "aliases": [],
@@ -2518,7 +2280,7 @@
         14
       ]
     },
-    "N-1141": {
+    "N-1132": {
       "canonical_name": "United States Senate",
       "type": "organization",
       "aliases": [],
@@ -2526,7 +2288,7 @@
         14
       ]
     },
-    "N-1142": {
+    "N-1133": {
       "canonical_name": "CISA",
       "type": "organization",
       "aliases": [],
@@ -2534,7 +2296,7 @@
         14
       ]
     },
-    "N-1143": {
+    "N-1134": {
       "canonical_name": "NSA",
       "type": "organization",
       "aliases": [],
@@ -2542,7 +2304,7 @@
         14
       ]
     },
-    "N-1144": {
+    "N-1135": {
       "canonical_name": "FERC",
       "type": "organization",
       "aliases": [],
@@ -2550,7 +2312,7 @@
         14
       ]
     },
-    "N-1145": {
+    "N-1136": {
       "canonical_name": "Daily Mail",
       "type": "organization",
       "aliases": [],
@@ -2558,7 +2320,7 @@
         14
       ]
     },
-    "N-1146": {
+    "N-1137": {
       "canonical_name": "ABC",
       "type": "organization",
       "aliases": [],
@@ -2566,15 +2328,18 @@
         14
       ]
     },
-    "N-1147": {
+    "N-1138": {
       "canonical_name": "FBI",
       "type": "organization",
       "aliases": [],
       "episodes": [
-        14
+        14,
+        15,
+        16,
+        17
       ]
     },
-    "N-1148": {
+    "N-1139": {
       "canonical_name": "FCC",
       "type": "organization",
       "aliases": [],
@@ -2582,7 +2347,7 @@
         14
       ]
     },
-    "N-1149": {
+    "N-1140": {
       "canonical_name": "APAC",
       "type": "organization",
       "aliases": [],
@@ -2590,31 +2355,7 @@
         14
       ]
     },
-    "N-1150": {
-      "canonical_name": "Candace Intelligence Agency",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        14
-      ]
-    },
-    "N-1151": {
-      "canonical_name": "Daily Wire",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        14
-      ]
-    },
-    "N-1152": {
-      "canonical_name": "Utah Valley University",
-      "type": "place",
-      "aliases": [],
-      "episodes": [
-        14
-      ]
-    },
-    "N-1153": {
+    "N-1141": {
       "canonical_name": "Provo, Utah",
       "type": "place",
       "aliases": [],
@@ -2622,7 +2363,7 @@
         14
       ]
     },
-    "N-1154": {
+    "N-1142": {
       "canonical_name": "White House",
       "type": "place",
       "aliases": [],
@@ -2630,15 +2371,7 @@
         14
       ]
     },
-    "N-1155": {
-      "canonical_name": "Israel",
-      "type": "place",
-      "aliases": [],
-      "episodes": [
-        14
-      ]
-    },
-    "N-1156": {
+    "N-1143": {
       "canonical_name": "Cameragate Investigation",
       "type": "topic",
       "aliases": [],
@@ -2646,7 +2379,7 @@
         14
       ]
     },
-    "N-1157": {
+    "N-1144": {
       "canonical_name": "Robinson-Lance Text Chain Authenticity",
       "type": "topic",
       "aliases": [],
@@ -2654,7 +2387,7 @@
         14
       ]
     },
-    "N-1158": {
+    "N-1145": {
       "canonical_name": "TPUSA Financial Apparatus Investigation",
       "type": "topic",
       "aliases": [],
@@ -2662,7 +2395,7 @@
         14
       ]
     },
-    "N-1159": {
+    "N-1146": {
       "canonical_name": "Hate Speech Legislation Push",
       "type": "topic",
       "aliases": [],
@@ -2670,7 +2403,7 @@
         14
       ]
     },
-    "N-1160": {
+    "N-1147": {
       "canonical_name": "Valve/Piping Industry Intelligence Connection",
       "type": "topic",
       "aliases": [],
@@ -2678,7 +2411,7 @@
         14
       ]
     },
-    "N-1161": {
+    "N-1148": {
       "canonical_name": "Israel Influence on US Politics",
       "type": "topic",
       "aliases": [],
@@ -2686,15 +2419,7 @@
         14
       ]
     },
-    "N-161": {
-      "canonical_name": "Kash Patel",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        15
-      ]
-    },
-    "N-162": {
+    "N-131": {
       "canonical_name": "Alex Jones",
       "type": "person",
       "aliases": [],
@@ -2702,15 +2427,7 @@
         15
       ]
     },
-    "N-163": {
-      "canonical_name": "Laura Loomer",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        15
-      ]
-    },
-    "N-164": {
+    "N-132": {
       "canonical_name": "Derek Maxfield",
       "type": "person",
       "aliases": [],
@@ -2718,23 +2435,7 @@
         15
       ]
     },
-    "N-165": {
-      "canonical_name": "Tyler Robinson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        15
-      ]
-    },
-    "N-166": {
-      "canonical_name": "George Zinn",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        15
-      ]
-    },
-    "N-167": {
+    "N-133": {
       "canonical_name": "Jack Posobiec",
       "type": "person",
       "aliases": [],
@@ -2742,7 +2443,7 @@
         15
       ]
     },
-    "N-168": {
+    "N-134": {
       "canonical_name": "Frank Turk",
       "type": "person",
       "aliases": [],
@@ -2750,7 +2451,7 @@
         15
       ]
     },
-    "N-169": {
+    "N-135": {
       "canonical_name": "Awesome Jew",
       "type": "person",
       "aliases": [],
@@ -2758,31 +2459,16 @@
         15
       ]
     },
-    "N-170": {
-      "canonical_name": "Dave Rubin",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        15
-      ]
-    },
-    "N-171": {
+    "N-136": {
       "canonical_name": "Ben Shapiro",
       "type": "person",
       "aliases": [],
       "episodes": [
-        15
+        15,
+        17
       ]
     },
-    "N-172": {
-      "canonical_name": "Bill Ackman",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        15
-      ]
-    },
-    "N-173": {
+    "N-137": {
       "canonical_name": "Bob Shaman",
       "type": "person",
       "aliases": [],
@@ -2790,23 +2476,7 @@
         15
       ]
     },
-    "N-174": {
-      "canonical_name": "Benjamin Netanyahu",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        15
-      ]
-    },
-    "N-1162": {
-      "canonical_name": "FBI",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        15
-      ]
-    },
-    "N-1163": {
+    "N-1126": {
       "canonical_name": "CIA",
       "type": "organization",
       "aliases": [],
@@ -2814,23 +2484,7 @@
         15
       ]
     },
-    "N-1164": {
-      "canonical_name": "Utah Valley University",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        15
-      ]
-    },
-    "N-1165": {
-      "canonical_name": "Calira Engineering",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        15
-      ]
-    },
-    "N-1166": {
+    "N-1149": {
       "canonical_name": "AIPAC",
       "type": "organization",
       "aliases": [],
@@ -2838,15 +2492,7 @@
         15
       ]
     },
-    "N-1167": {
-      "canonical_name": "LDS Church",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        15
-      ]
-    },
-    "N-1168": {
+    "N-1151": {
       "canonical_name": "FAA",
       "type": "organization",
       "aliases": [],
@@ -2854,7 +2500,7 @@
         15
       ]
     },
-    "N-1169": {
+    "N-1152": {
       "canonical_name": "Exit Wound / Bullet Trajectory Discrepancy",
       "type": "topic",
       "aliases": [],
@@ -2862,7 +2508,7 @@
         15
       ]
     },
-    "N-1170": {
+    "N-1153": {
       "canonical_name": "Transponder / Plane Anomaly Investigation",
       "type": "topic",
       "aliases": [],
@@ -2870,7 +2516,7 @@
         15
       ]
     },
-    "N-1171": {
+    "N-1154": {
       "canonical_name": "UVU Underground Tunnel / Pipeline Investigation",
       "type": "topic",
       "aliases": [],
@@ -2878,7 +2524,7 @@
         15
       ]
     },
-    "N-1172": {
+    "N-1155": {
       "canonical_name": "Candace Owens FBI/CIA Reporting Incident",
       "type": "topic",
       "aliases": [],
@@ -2886,7 +2532,7 @@
         15
       ]
     },
-    "N-1173": {
+    "N-1156": {
       "canonical_name": "Charlie Kirk / Candace Alleged Falling Out",
       "type": "topic",
       "aliases": [],
@@ -2894,7 +2540,7 @@
         15
       ]
     },
-    "N-1174": {
+    "N-1157": {
       "canonical_name": "Screwdriver Evidence Question",
       "type": "topic",
       "aliases": [],
@@ -2902,7 +2548,7 @@
         15
       ]
     },
-    "N-1175": {
+    "N-1158": {
       "canonical_name": "Dr. Frank Turk Suspicion",
       "type": "topic",
       "aliases": [],
@@ -2910,47 +2556,15 @@
         15
       ]
     },
-    "N-175": {
-      "canonical_name": "Tiffany Barker",
+    "N-138": {
+      "canonical_name": "Andrew Kovace",
       "type": "person",
       "aliases": [],
       "episodes": [
         16
       ]
     },
-    "N-176": {
-      "canonical_name": "L Steel",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
-    "N-177": {
-      "canonical_name": "Mia Grant",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
-    "N-178": {
-      "canonical_name": "George Zinn",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
-    "N-179": {
-      "canonical_name": "Andrew Kovette",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
-    "N-180": {
+    "N-139": {
       "canonical_name": "Alex Clark",
       "type": "person",
       "aliases": [],
@@ -2958,7 +2572,7 @@
         16
       ]
     },
-    "N-181": {
+    "N-140": {
       "canonical_name": "Phil Leman",
       "type": "person",
       "aliases": [],
@@ -2966,7 +2580,7 @@
         16
       ]
     },
-    "N-182": {
+    "N-141": {
       "canonical_name": "Aaron",
       "type": "person",
       "aliases": [],
@@ -2974,15 +2588,7 @@
         16
       ]
     },
-    "N-183": {
-      "canonical_name": "Tyler Robinson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
-    "N-184": {
+    "N-142": {
       "canonical_name": "Charlie Skyler",
       "type": "person",
       "aliases": [],
@@ -2990,15 +2596,7 @@
         16
       ]
     },
-    "N-185": {
-      "canonical_name": "Kash Patel",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
-    "N-186": {
+    "N-143": {
       "canonical_name": "Michael Nolles",
       "type": "person",
       "aliases": [],
@@ -3006,15 +2604,7 @@
         16
       ]
     },
-    "N-187": {
-      "canonical_name": "Donald Trump",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
-    "N-188": {
+    "N-144": {
       "canonical_name": "John Heinchell",
       "type": "person",
       "aliases": [],
@@ -3022,7 +2612,7 @@
         16
       ]
     },
-    "N-189": {
+    "N-145": {
       "canonical_name": "Jenna V",
       "type": "person",
       "aliases": [],
@@ -3030,7 +2620,7 @@
         16
       ]
     },
-    "N-190": {
+    "N-146": {
       "canonical_name": "Tempes",
       "type": "person",
       "aliases": [],
@@ -3038,7 +2628,7 @@
         16
       ]
     },
-    "N-191": {
+    "N-147": {
       "canonical_name": "Carl",
       "type": "person",
       "aliases": [],
@@ -3046,7 +2636,7 @@
         16
       ]
     },
-    "N-192": {
+    "N-148": {
       "canonical_name": "Mary Kelly",
       "type": "person",
       "aliases": [],
@@ -3054,7 +2644,7 @@
         16
       ]
     },
-    "N-193": {
+    "N-149": {
       "canonical_name": "Chris",
       "type": "person",
       "aliases": [],
@@ -3062,7 +2652,7 @@
         16
       ]
     },
-    "N-194": {
+    "N-150": {
       "canonical_name": "MC",
       "type": "person",
       "aliases": [],
@@ -3070,7 +2660,7 @@
         16
       ]
     },
-    "N-195": {
+    "N-151": {
       "canonical_name": "Milana",
       "type": "person",
       "aliases": [],
@@ -3078,7 +2668,7 @@
         16
       ]
     },
-    "N-196": {
+    "N-152": {
       "canonical_name": "Lover of Light",
       "type": "person",
       "aliases": [],
@@ -3086,15 +2676,7 @@
         16
       ]
     },
-    "N-197": {
-      "canonical_name": "Bill Aman",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
-    "N-198": {
+    "N-153": {
       "canonical_name": "Bob Schman",
       "type": "person",
       "aliases": [],
@@ -3102,15 +2684,7 @@
         16
       ]
     },
-    "N-1176": {
-      "canonical_name": "Utah Valley University",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
-    "N-1177": {
+    "N-1159": {
       "canonical_name": "Brigham Young University",
       "type": "organization",
       "aliases": [],
@@ -3118,15 +2692,7 @@
         16
       ]
     },
-    "N-1178": {
-      "canonical_name": "Calera Engineering",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
-    "N-1179": {
+    "N-1160": {
       "canonical_name": "Wirefy",
       "type": "organization",
       "aliases": [],
@@ -3134,23 +2700,7 @@
         16
       ]
     },
-    "N-1180": {
-      "canonical_name": "Good Morning America",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
-    "N-1181": {
-      "canonical_name": "Alex Clark Podcast",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
-    "N-1182": {
+    "N-1150": {
       "canonical_name": "LDS Church",
       "type": "organization",
       "aliases": [],
@@ -3158,23 +2708,7 @@
         16
       ]
     },
-    "N-1183": {
-      "canonical_name": "FBI",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
-    "N-1184": {
-      "canonical_name": "CIA",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
-    "N-1185": {
+    "N-1161": {
       "canonical_name": "9/10 Eyewitness Pattern Investigation",
       "type": "topic",
       "aliases": [],
@@ -3182,7 +2716,7 @@
         16
       ]
     },
-    "N-1186": {
+    "N-1162": {
       "canonical_name": "Artery Remark Provenance",
       "type": "topic",
       "aliases": [],
@@ -3190,7 +2724,7 @@
         16
       ]
     },
-    "N-1187": {
+    "N-1163": {
       "canonical_name": "George Zinn Arrest Location/Timing",
       "type": "topic",
       "aliases": [],
@@ -3198,7 +2732,7 @@
         16
       ]
     },
-    "N-1188": {
+    "N-1164": {
       "canonical_name": "Roof Video Provenance Chain",
       "type": "topic",
       "aliases": [],
@@ -3206,7 +2740,7 @@
         16
       ]
     },
-    "N-1189": {
+    "N-1165": {
       "canonical_name": "Shooter Description Contradiction",
       "type": "topic",
       "aliases": [],
@@ -3214,7 +2748,7 @@
         16
       ]
     },
-    "N-1190": {
+    "N-1166": {
       "canonical_name": "TPUSA SD Card Removal",
       "type": "topic",
       "aliases": [],
@@ -3222,7 +2756,7 @@
         16
       ]
     },
-    "N-1191": {
+    "N-1167": {
       "canonical_name": "Wirefy Post-Shot Individual Identity",
       "type": "topic",
       "aliases": [],
@@ -3230,7 +2764,7 @@
         16
       ]
     },
-    "N-1192": {
+    "N-1168": {
       "canonical_name": "Earpiece Rumor Debunking",
       "type": "topic",
       "aliases": [],
@@ -3238,7 +2772,7 @@
         16
       ]
     },
-    "N-1193": {
+    "N-1169": {
       "canonical_name": "Bulletproof Vest Absence",
       "type": "topic",
       "aliases": [],
@@ -3246,7 +2780,7 @@
         16
       ]
     },
-    "N-1194": {
+    "N-1170": {
       "canonical_name": "Catholic Conversion Rumor",
       "type": "topic",
       "aliases": [],
@@ -3254,7 +2788,7 @@
         16
       ]
     },
-    "N-1195": {
+    "N-1171": {
       "canonical_name": "Israel $150M Offer Rumor",
       "type": "topic",
       "aliases": [],
@@ -3262,7 +2796,7 @@
         16
       ]
     },
-    "N-1196": {
+    "N-1172": {
       "canonical_name": "Moral Blackmail by Donors",
       "type": "topic",
       "aliases": [],
@@ -3270,7 +2804,7 @@
         16
       ]
     },
-    "N-1197": {
+    "N-1173": {
       "canonical_name": "Crime Scene Pavers",
       "type": "topic",
       "aliases": [],
@@ -3278,7 +2812,7 @@
         16
       ]
     },
-    "N-1198": {
+    "N-1174": {
       "canonical_name": "Police Scanner Description",
       "type": "topic",
       "aliases": [],
@@ -3286,7 +2820,7 @@
         16
       ]
     },
-    "N-199": {
+    "N-154": {
       "canonical_name": "Thomas Matthew Crooks",
       "type": "person",
       "aliases": [],
@@ -3294,23 +2828,7 @@
         17
       ]
     },
-    "N-200": {
-      "canonical_name": "Tyler Robinson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-201": {
-      "canonical_name": "Donald Trump",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-202": {
+    "N-155": {
       "canonical_name": "Corey Comperatore",
       "type": "person",
       "aliases": [],
@@ -3318,23 +2836,7 @@
         17
       ]
     },
-    "N-203": {
-      "canonical_name": "Megyn Kelly",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-204": {
-      "canonical_name": "Jimmy Kimmel",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-205": {
+    "N-156": {
       "canonical_name": "Ted Cruz",
       "type": "person",
       "aliases": [],
@@ -3342,15 +2844,7 @@
         17
       ]
     },
-    "N-206": {
-      "canonical_name": "Ben Shapiro",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-207": {
+    "N-157": {
       "canonical_name": "Clay Travis",
       "type": "person",
       "aliases": [],
@@ -3358,7 +2852,7 @@
         17
       ]
     },
-    "N-208": {
+    "N-158": {
       "canonical_name": "Mitch McConnell",
       "type": "person",
       "aliases": [],
@@ -3366,7 +2860,7 @@
         17
       ]
     },
-    "N-209": {
+    "N-159": {
       "canonical_name": "Rand Paul",
       "type": "person",
       "aliases": [],
@@ -3374,7 +2868,7 @@
         17
       ]
     },
-    "N-210": {
+    "N-160": {
       "canonical_name": "Thomas Sowell",
       "type": "person",
       "aliases": [],
@@ -3382,7 +2876,7 @@
         17
       ]
     },
-    "N-211": {
+    "N-161": {
       "canonical_name": "Margarethe Schurz",
       "type": "person",
       "aliases": [],
@@ -3390,15 +2884,7 @@
         17
       ]
     },
-    "N-212": {
-      "canonical_name": "Sigmund Freud",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-213": {
+    "N-162": {
       "canonical_name": "C.S. Lewis",
       "type": "person",
       "aliases": [],
@@ -3406,15 +2892,7 @@
         17
       ]
     },
-    "N-214": {
-      "canonical_name": "Candace Owens' Husband",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-215": {
+    "N-163": {
       "canonical_name": "Candace Owens' Sister",
       "type": "person",
       "aliases": [],
@@ -3422,15 +2900,7 @@
         17
       ]
     },
-    "N-216": {
-      "canonical_name": "Skyler",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-217": {
+    "N-164": {
       "canonical_name": "Warwick Spiller",
       "type": "person",
       "aliases": [],
@@ -3438,7 +2908,7 @@
         17
       ]
     },
-    "N-218": {
+    "N-165": {
       "canonical_name": "Natalie",
       "type": "person",
       "aliases": [],
@@ -3446,7 +2916,7 @@
         17
       ]
     },
-    "N-219": {
+    "N-166": {
       "canonical_name": "Reagan (commenter)",
       "type": "person",
       "aliases": [],
@@ -3454,7 +2924,7 @@
         17
       ]
     },
-    "N-220": {
+    "N-167": {
       "canonical_name": "Recovery Recon (commenter)",
       "type": "person",
       "aliases": [],
@@ -3462,7 +2932,7 @@
         17
       ]
     },
-    "N-221": {
+    "N-168": {
       "canonical_name": "Aravik (commenter)",
       "type": "person",
       "aliases": [],
@@ -3470,7 +2940,7 @@
         17
       ]
     },
-    "N-222": {
+    "N-169": {
       "canonical_name": "Lighthouse (commenter)",
       "type": "person",
       "aliases": [],
@@ -3478,7 +2948,7 @@
         17
       ]
     },
-    "N-223": {
+    "N-170": {
       "canonical_name": "Brooke Rice (commenter)",
       "type": "person",
       "aliases": [],
@@ -3486,7 +2956,7 @@
         17
       ]
     },
-    "N-1199": {
+    "N-1175": {
       "canonical_name": "FBI Case Closure Pressure",
       "type": "topic",
       "aliases": [],
@@ -3494,7 +2964,7 @@
         17
       ]
     },
-    "N-1200": {
+    "N-1176": {
       "canonical_name": "Tyler Robinson Evidence Gaps",
       "type": "topic",
       "aliases": [],
@@ -3502,7 +2972,7 @@
         17
       ]
     },
-    "N-1201": {
+    "N-1177": {
       "canonical_name": "Crooks Federal-Radar Question",
       "type": "topic",
       "aliases": [],
@@ -3510,7 +2980,7 @@
         17
       ]
     },
-    "N-1202": {
+    "N-1178": {
       "canonical_name": "Lone-Shooter Narrative Critique",
       "type": "topic",
       "aliases": [],
@@ -3518,7 +2988,7 @@
         17
       ]
     },
-    "N-1203": {
+    "N-1179": {
       "canonical_name": "Beehive Code / School Underground Premonition",
       "type": "topic",
       "aliases": [],
@@ -3526,7 +2996,7 @@
         17
       ]
     },
-    "N-1204": {
+    "N-1180": {
       "canonical_name": "Utah Beehive Symbolism",
       "type": "topic",
       "aliases": [],
@@ -3534,7 +3004,7 @@
         17
       ]
     },
-    "N-1205": {
+    "N-1181": {
       "canonical_name": "Soviet Education Infiltration",
       "type": "topic",
       "aliases": [],
@@ -3542,7 +3012,7 @@
         17
       ]
     },
-    "N-1206": {
+    "N-1182": {
       "canonical_name": "MK Ultra Continuity Theory",
       "type": "topic",
       "aliases": [],
@@ -3550,7 +3020,7 @@
         17
       ]
     },
-    "N-1207": {
+    "N-1183": {
       "canonical_name": "Jezebel/Etsy Hex on Charlie Kirk",
       "type": "topic",
       "aliases": [],
@@ -3558,7 +3028,7 @@
         17
       ]
     },
-    "N-1208": {
+    "N-1184": {
       "canonical_name": "Candace UK Premonition / Husband Meeting",
       "type": "topic",
       "aliases": [],
@@ -3566,7 +3036,7 @@
         17
       ]
     },
-    "N-1209": {
+    "N-1185": {
       "canonical_name": "Jimmy Kimmel Free-Speech Defense",
       "type": "topic",
       "aliases": [],
@@ -3574,7 +3044,7 @@
         17
       ]
     },
-    "N-1210": {
+    "N-1186": {
       "canonical_name": "Crooks Ideological Transformation",
       "type": "topic",
       "aliases": [],
@@ -3582,7 +3052,7 @@
         17
       ]
     },
-    "N-1211": {
+    "N-1187": {
       "canonical_name": "Eyewitness Roof-Description Discrepancy",
       "type": "topic",
       "aliases": [],
@@ -3590,39 +3060,7 @@
         17
       ]
     },
-    "N-1212": {
-      "canonical_name": "FBI",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-1213": {
-      "canonical_name": "CIA",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-1214": {
-      "canonical_name": "Church of Jesus Christ of Latter-day Saints",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-1215": {
-      "canonical_name": "Turning Point UK",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-1216": {
+    "N-1188": {
       "canonical_name": "Jezebel",
       "type": "organization",
       "aliases": [],
@@ -3630,7 +3068,7 @@
         17
       ]
     },
-    "N-1217": {
+    "N-1204": {
       "canonical_name": "Etsy",
       "type": "organization",
       "aliases": [],
@@ -3638,39 +3076,16 @@
         17
       ]
     },
-    "N-1218": {
-      "canonical_name": "Utah Valley University (UVU)",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-1219": {
+    "N-1201": {
       "canonical_name": "Riverbend Ranch",
       "type": "organization",
       "aliases": [],
       "episodes": [
-        17
+        17,
+        18
       ]
     },
-    "N-1220": {
-      "canonical_name": "The Wellness Company",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-1221": {
-      "canonical_name": "CDC",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-1222": {
+    "N-1193": {
       "canonical_name": "Utah",
       "type": "place",
       "aliases": [],
@@ -3678,7 +3093,7 @@
         17
       ]
     },
-    "N-1223": {
+    "N-1190": {
       "canonical_name": "London / UK",
       "type": "place",
       "aliases": [],
@@ -3686,7 +3101,7 @@
         17
       ]
     },
-    "N-1224": {
+    "N-1200": {
       "canonical_name": "Poland",
       "type": "place",
       "aliases": [],
@@ -3694,7 +3109,7 @@
         17
       ]
     },
-    "N-1225": {
+    "N-1202": {
       "canonical_name": "Germany (1848 reference)",
       "type": "place",
       "aliases": [],
@@ -3702,23 +3117,7 @@
         17
       ]
     },
-    "N-224": {
-      "canonical_name": "Benjamin Netanyahu",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
-    "N-225": {
-      "canonical_name": "Tyler Robinson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
-    "N-226": {
+    "N-171": {
       "canonical_name": "Lance Robinson",
       "type": "person",
       "aliases": [],
@@ -3726,31 +3125,7 @@
         18
       ]
     },
-    "N-227": {
-      "canonical_name": "Bill Aman",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
-    "N-228": {
-      "canonical_name": "Josh Hammer",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
-    "N-229": {
-      "canonical_name": "Seth Dylan",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
-    "N-230": {
+    "N-172": {
       "canonical_name": "Xavier Deruso",
       "type": "person",
       "aliases": [],
@@ -3758,7 +3133,7 @@
         18
       ]
     },
-    "N-231": {
+    "N-173": {
       "canonical_name": "Natasha Housedorf",
       "type": "person",
       "aliases": [],
@@ -3766,15 +3141,7 @@
         18
       ]
     },
-    "N-232": {
-      "canonical_name": "Andrew Kovett",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
-    "N-233": {
+    "N-174": {
       "canonical_name": "Marissa Strait",
       "type": "person",
       "aliases": [],
@@ -3782,23 +3149,7 @@
         18
       ]
     },
-    "N-234": {
-      "canonical_name": "Greta Van Susteren",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
-    "N-235": {
-      "canonical_name": "Megan Kelly",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
-    "N-236": {
+    "N-175": {
       "canonical_name": "Elon Musk",
       "type": "person",
       "aliases": [],
@@ -3806,7 +3157,7 @@
         18
       ]
     },
-    "N-237": {
+    "N-176": {
       "canonical_name": "Vivek Ramaswamy",
       "type": "person",
       "aliases": [],
@@ -3814,23 +3165,7 @@
         18
       ]
     },
-    "N-238": {
-      "canonical_name": "Donald Trump",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
-    "N-239": {
-      "canonical_name": "Laura Loomer",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
-    "N-240": {
+    "N-177": {
       "canonical_name": "Taylor Lorent",
       "type": "person",
       "aliases": [],
@@ -3838,7 +3173,7 @@
         18
       ]
     },
-    "N-241": {
+    "N-178": {
       "canonical_name": "Range Day Bro",
       "type": "person",
       "aliases": [],
@@ -3846,7 +3181,7 @@
         18
       ]
     },
-    "N-242": {
+    "N-179": {
       "canonical_name": "Emily (Saves America)",
       "type": "person",
       "aliases": [],
@@ -3854,7 +3189,7 @@
         18
       ]
     },
-    "N-243": {
+    "N-180": {
       "canonical_name": "Riverbend Ranch CEO",
       "type": "person",
       "aliases": [],
@@ -3862,15 +3197,7 @@
         18
       ]
     },
-    "N-244": {
-      "canonical_name": "Governor Cox",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
-    "N-245": {
+    "N-181": {
       "canonical_name": "Nikki Haley",
       "type": "person",
       "aliases": [],
@@ -3878,7 +3205,7 @@
         18
       ]
     },
-    "N-1226": {
+    "N-1205": {
       "canonical_name": "Orem Police Department",
       "type": "organization",
       "aliases": [],
@@ -3886,7 +3213,7 @@
         18
       ]
     },
-    "N-1227": {
+    "N-1192": {
       "canonical_name": "Department of Government Efficiency (DOGE)",
       "type": "organization",
       "aliases": [],
@@ -3894,15 +3221,7 @@
         18
       ]
     },
-    "N-1228": {
-      "canonical_name": "Riverbend Ranch",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
-    "N-1229": {
+    "N-1195": {
       "canonical_name": "PragerU",
       "type": "organization",
       "aliases": [],
@@ -3910,7 +3229,7 @@
         18
       ]
     },
-    "N-1230": {
+    "N-1198": {
       "canonical_name": "TPUSA DOGE Department / Financial Audit",
       "type": "topic",
       "aliases": [],
@@ -3918,7 +3237,7 @@
         18
       ]
     },
-    "N-1231": {
+    "N-1194": {
       "canonical_name": "Federal Investigation Conduct Question",
       "type": "topic",
       "aliases": [],
@@ -3926,7 +3245,7 @@
         18
       ]
     },
-    "N-1232": {
+    "N-1196": {
       "canonical_name": "Hamptons Weekend Retreat",
       "type": "topic",
       "aliases": [],
@@ -3934,7 +3253,7 @@
         18
       ]
     },
-    "N-1233": {
+    "N-1189": {
       "canonical_name": "Doorbell Footage Completeness Question",
       "type": "topic",
       "aliases": [],
@@ -3942,7 +3261,7 @@
         18
       ]
     },
-    "N-1234": {
+    "N-1197": {
       "canonical_name": "Muzzle Flash Theory (Range Day Bro)",
       "type": "topic",
       "aliases": [],
@@ -3950,7 +3269,7 @@
         18
       ]
     },
-    "N-1235": {
+    "N-1203": {
       "canonical_name": "Suspicious Bush Theory (Range Day Bro)",
       "type": "topic",
       "aliases": [],
@@ -3958,7 +3277,7 @@
         18
       ]
     },
-    "N-1236": {
+    "N-1191": {
       "canonical_name": "Bullet Casing Engraving Pattern",
       "type": "topic",
       "aliases": [],
@@ -3966,7 +3285,7 @@
         18
       ]
     },
-    "N-1237": {
+    "N-1206": {
       "canonical_name": "Operation Mocking Pastor",
       "type": "topic",
       "aliases": [],
@@ -3974,25 +3293,9 @@
         18
       ]
     },
-    "N-1238": {
+    "N-1199": {
       "canonical_name": "Amazon Pre-Event Book Listing (Sep 9)",
       "type": "topic",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
-    "N-1239": {
-      "canonical_name": "The Hamptons",
-      "type": "place",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
-    "N-1240": {
-      "canonical_name": "Orem, Utah",
-      "type": "place",
       "aliases": [],
       "episodes": [
         18

@@ -59,9 +59,9 @@
             "C-1129"
           ],
           "related_nodes": [
-            "N-67",
+            "N-66",
             "N-1",
-            "N-1076"
+            "N-1071"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -88,7 +88,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-67"
+            "N-66"
           ],
           "tags": [],
           "event_timestamp": "2025-05-02",
@@ -114,9 +114,9 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-77",
+            "N-76",
             "N-50",
-            "N-70"
+            "N-69"
           ],
           "tags": [],
           "event_timestamp": "2025-08",
@@ -141,9 +141,9 @@
             "C-1131"
           ],
           "related_nodes": [
-            "N-67",
-            "N-75",
-            "N-1094"
+            "N-66",
+            "N-74",
+            "N-1091"
           ],
           "tags": [],
           "event_timestamp": "2025-09",
@@ -170,9 +170,9 @@
           "related_nodes": [
             "N-1",
             "N-35",
+            "N-77",
             "N-78",
-            "N-79",
-            "N-1081"
+            "N-1080"
           ],
           "tags": [],
           "event_timestamp": "pre-2025-09-10",
@@ -198,9 +198,9 @@
             "C-1140"
           ],
           "related_nodes": [
-            "N-74",
-            "N-1080",
-            "N-1088"
+            "N-73",
+            "N-1079",
+            "N-1085"
           ],
           "tags": [],
           "event_timestamp": "2025-09",
@@ -225,10 +225,10 @@
             "C-1133"
           ],
           "related_nodes": [
-            "N-71",
+            "N-70",
+            "N-1076",
             "N-1077",
-            "N-1078",
-            "N-1096"
+            "N-1093"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10T08:07",
@@ -245,9 +245,9 @@
             "C-1135"
           ],
           "related_nodes": [
-            "N-71",
-            "N-1077",
-            "N-1087"
+            "N-70",
+            "N-1076",
+            "N-1084"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10T11:49",
@@ -264,9 +264,9 @@
             "C-1138"
           ],
           "related_nodes": [
-            "N-71",
-            "N-1077",
-            "N-1092"
+            "N-70",
+            "N-1076",
+            "N-1089"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10T12:29",
@@ -292,10 +292,10 @@
             "C-1134"
           ],
           "related_nodes": [
+            "N-70",
             "N-71",
-            "N-72",
-            "N-1078",
-            "N-1092"
+            "N-1077",
+            "N-1089"
           ],
           "tags": [],
           "event_timestamp": "2025-09-12",
@@ -312,9 +312,9 @@
             "C-1141"
           ],
           "related_nodes": [
+            "N-70",
             "N-71",
-            "N-72",
-            "N-1089"
+            "N-1086"
           ],
           "tags": [],
           "event_timestamp": "2025-09",
@@ -331,9 +331,9 @@
             "C-1142"
           ],
           "related_nodes": [
+            "N-70",
             "N-71",
-            "N-72",
-            "N-1089"
+            "N-1086"
           ],
           "tags": [],
           "event_timestamp": "2025-09",
@@ -350,10 +350,10 @@
             "C-1140"
           ],
           "related_nodes": [
+            "N-70",
             "N-71",
-            "N-72",
-            "N-1079",
-            "N-1087"
+            "N-1078",
+            "N-1084"
           ],
           "tags": [],
           "event_timestamp": "2025-09",
@@ -378,8 +378,8 @@
             "C-1143"
           ],
           "related_nodes": [
-            "N-1079",
-            "N-71"
+            "N-1078",
+            "N-70"
           ],
           "tags": [],
           "event_timestamp": "2025-09",
@@ -404,9 +404,9 @@
             "C-1137"
           ],
           "related_nodes": [
-            "N-68",
+            "N-67",
             "N-1",
-            "N-1083"
+            "N-1081"
           ],
           "tags": [],
           "event_timestamp": "2025-09",
@@ -433,11 +433,11 @@
           ],
           "related_nodes": [
             "N-7",
-            "N-69",
             "N-68",
             "N-67",
-            "N-1083",
-            "N-1086"
+            "N-66",
+            "N-1081",
+            "N-1083"
           ],
           "tags": [],
           "event_timestamp": "2025-09",
@@ -462,9 +462,9 @@
             "C-1139"
           ],
           "related_nodes": [
-            "N-1080",
-            "N-71",
-            "N-1088"
+            "N-1079",
+            "N-70",
+            "N-1085"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -481,8 +481,8 @@
             "C-1140"
           ],
           "related_nodes": [
-            "N-1080",
-            "N-1088"
+            "N-1079",
+            "N-1085"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -505,9 +505,9 @@
           "description": "FBI photos of suspect in stairwell in second outfit, bending each leg in separate photos.",
           "related_claims": [],
           "related_nodes": [
-            "N-1080",
-            "N-71",
-            "N-1087"
+            "N-1079",
+            "N-70",
+            "N-1084"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -599,8 +599,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-67",
-      "ref": "N-67",
+      "@id": "N-66",
+      "ref": "N-66",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Israeli PM; subject of Fox News and Greta interview clips; alleged instigator of pressure on Kirk.",
@@ -627,8 +627,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-68",
-      "ref": "N-68",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Bill Ackman",
       "type": "person",
       "description": "Billionaire allegedly present at Hamptons meeting; host claims he staged intervention against Kirk.",
@@ -651,8 +651,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-68",
+      "ref": "N-68",
       "name": "Seth Dylan",
       "type": "person",
       "description": "Reportedly present at Hamptons meeting; subject of host's unanswered text exchange.",
@@ -693,8 +693,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Dave Smith",
       "type": "person",
       "description": "Libertarian commentator invited to America Fest; subject of Israel-lobby pressure allegations.",
@@ -713,8 +713,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-71",
-      "ref": "N-71",
+      "@id": "N-70",
+      "ref": "N-70",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Named suspect in Charlie Kirk assassination; subject of multiple official statements and physical evidence claims.",
@@ -750,8 +750,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-72",
-      "ref": "N-72",
+      "@id": "N-71",
+      "ref": "N-71",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Governor of Utah; press conference source for multiple investigation claims.",
@@ -775,8 +775,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-73",
-      "ref": "N-73",
+      "@id": "N-72",
+      "ref": "N-72",
       "name": "George Zinn",
       "type": "person",
       "description": "Person briefly arrested and labeled a 'decoy' by host; allegedly signaled he shot Charlie Kirk.",
@@ -791,8 +791,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-74",
-      "ref": "N-74",
+      "@id": "N-73",
+      "ref": "N-73",
       "name": "Michael Savage",
       "type": "person",
       "description": "Commentator whose clip is played disputing FBI rifle narrative.",
@@ -811,8 +811,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-74",
+      "ref": "N-74",
       "name": "Greta Van Susteren",
       "type": "person",
       "description": "Interviewer who asked Netanyahu about Israel-involvement rumors.",
@@ -831,8 +831,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-76",
-      "ref": "N-76",
+      "@id": "N-75",
+      "ref": "N-75",
       "name": "Matt Gutman",
       "type": "person",
       "description": "Reporter whose reporting on Robinson's acquaintances is referenced by Governor Cox.",
@@ -849,9 +849,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-77",
-      "ref": "N-77",
-      "name": "Megan Kelly",
+      "@id": "N-76",
+      "ref": "N-76",
+      "name": "Megyn Kelly",
       "type": "person",
       "description": "Interviewer who spoke with Charlie Kirk about Israel pressure ~1 month before his death.",
       "related_artifacts": [
@@ -889,8 +889,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-78",
-      "ref": "N-78",
+      "@id": "N-77",
+      "ref": "N-77",
       "name": "Ghislaine Maxwell",
       "type": "person",
       "description": "Named in Charlie Kirk clip as Epstein associate; father described as Israeli intelligence spy.",
@@ -910,8 +910,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-79",
-      "ref": "N-79",
+      "@id": "N-78",
+      "ref": "N-78",
       "name": "Robert Maxwell",
       "type": "person",
       "description": "Ghislaine Maxwell's father; described by host and Charlie Kirk clip as Israeli intelligence operative.",
@@ -930,8 +930,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-80",
-      "ref": "N-80",
+      "@id": "N-79",
+      "ref": "N-79",
       "name": "Max Blumenthal",
       "type": "person",
       "description": "Reporter who asked Bill Ackman to dispute the Hamptons narrative; Ackman reportedly declined.",
@@ -948,8 +948,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-81",
-      "ref": "N-81",
+      "@id": "N-80",
+      "ref": "N-80",
       "name": "Donald Trump",
       "type": "person",
       "description": "President whose account tweeted a photo of Charlie Kirk with US and Israeli flags.",
@@ -964,8 +964,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-82",
-      "ref": "N-82",
+      "@id": "N-81",
+      "ref": "N-81",
       "name": "Sigmund Freud",
       "type": "person",
       "description": "Subject of host reading recommendations; framed by host as father of modern gaslighting rather than modern psychology.",
@@ -981,8 +981,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-83",
-      "ref": "N-83",
+      "@id": "N-82",
+      "ref": "N-82",
       "name": "David Bakan",
       "type": "person",
       "description": "Author recommended by host on Freud and Jewish mystical tradition history.",
@@ -997,8 +997,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-84",
-      "ref": "N-84",
+      "@id": "N-83",
+      "ref": "N-83",
       "name": "Shlomo Sand",
       "type": "person",
       "description": "Tel Aviv University historian; author of 'The Invention of the Jewish People' recommended by host.",
@@ -1014,8 +1014,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-85",
-      "ref": "N-85",
+      "@id": "N-84",
+      "ref": "N-84",
       "name": "Abraham Polokoff",
       "type": "person",
       "description": "Author referenced by host as having traced Ashkenazi origins to the Khazars and won awards for it.",
@@ -1047,8 +1047,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1076",
-      "ref": "N-1076",
+      "@id": "N-1071",
+      "ref": "N-1071",
       "name": "Fox News",
       "type": "organization",
       "description": "Network where Netanyahu appeared twice within 24 hours of Kirk's death.",
@@ -1068,8 +1068,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1077",
-      "ref": "N-1077",
+      "@id": "N-1076",
+      "ref": "N-1076",
       "name": "TMZ",
       "type": "organization",
       "description": "Press source of multiple surveillance video timestamps (8:07 AM, 11:49 AM, 12:29 PM).",
@@ -1092,8 +1092,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1078",
-      "ref": "N-1078",
+      "@id": "N-1077",
+      "ref": "N-1077",
       "name": "Utah Valley University",
       "type": "organization",
       "description": "Site of the September 10 shooting; source of campus surveillance referenced by Governor Cox.",
@@ -1114,8 +1114,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1079",
-      "ref": "N-1079",
+      "@id": "N-1078",
+      "ref": "N-1078",
       "name": "Discord",
       "type": "organization",
       "description": "Messaging platform at center of contradictory statements: Cox claims Discord messages discussed rifle drop, while Discord says no evidence of planning.",
@@ -1136,8 +1136,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1080",
-      "ref": "N-1080",
+      "@id": "N-1079",
+      "ref": "N-1079",
       "name": "Federal Bureau of Investigation",
       "type": "organization",
       "description": "Lead federal agency in Kirk investigation; subject of host and Savage skepticism over rifle narrative.",
@@ -1160,8 +1160,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1081",
-      "ref": "N-1081",
+      "@id": "N-1080",
+      "ref": "N-1080",
       "name": "Mossad",
       "type": "organization",
       "description": "Israeli intelligence agency referenced in Charlie Kirk clip as alleged creator of Epstein blackmail operation.",
@@ -1180,25 +1180,9 @@
       "uncertainty_note": "Transcript spells 'MSAD'; canonical Mossad."
     },
     {
-      "@type": "Organization",
-      "@id": "N-1082",
-      "ref": "N-1082",
-      "name": "Tel Aviv University",
-      "type": "organization",
-      "description": "Institution where Shlomo Sand is described as professor historian.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "organization_kind": "educational_institution"
-    },
-    {
       "@type": "Topic",
-      "@id": "N-1083",
-      "ref": "N-1083",
+      "@id": "N-1081",
+      "ref": "N-1081",
       "name": "Hamptons Meeting Pressure Investigation",
       "type": "topic",
       "description": "Investigation thread on alleged Bill Ackman-led intervention against Kirk weeks before his death.",
@@ -1219,8 +1203,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1084",
-      "ref": "N-1084",
+      "@id": "N-1070",
+      "ref": "N-1070",
       "name": "Charlie Kirk Spiritual Transformation",
       "type": "topic",
       "description": "Host claim that Kirk was undergoing Catholic/Christian conversion including rosary and mass attendance.",
@@ -1236,8 +1220,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1085",
-      "ref": "N-1085",
+      "@id": "N-1082",
+      "ref": "N-1082",
       "name": "Charlie Kirk May 2 Letter Misrepresentation",
       "type": "topic",
       "description": "Discrepancy between Netanyahu's framing of the May 2 letter and host's claim that it actually expressed concern over Israel influence.",
@@ -1257,8 +1241,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1086",
-      "ref": "N-1086",
+      "@id": "N-1083",
+      "ref": "N-1083",
       "name": "Netanyahu Israel Invitation Phone Call",
       "type": "topic",
       "description": "Alleged phone call where Netanyahu invited Kirk to Israel weeks before his death; host frames it as a threat under pressure.",
@@ -1279,8 +1263,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1087",
-      "ref": "N-1087",
+      "@id": "N-1084",
+      "ref": "N-1084",
       "name": "Robinson Outfit Change Discrepancy",
       "type": "topic",
       "description": "Discrepancy between surveillance outfits (maroon vs black) and the 33-hour re-donning of the original outfit.",
@@ -1302,8 +1286,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1088",
-      "ref": "N-1088",
+      "@id": "N-1085",
+      "ref": "N-1085",
       "name": "Weapon Disassembly/Reassembly Claim",
       "type": "topic",
       "description": "FBI narrative that the Mauser was disassembled on the rooftop, carried in backpack, and found reassembled in woods.",
@@ -1325,8 +1309,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1089",
-      "ref": "N-1089",
+      "@id": "N-1086",
+      "ref": "N-1086",
       "name": "Robinson Confession and Arrest Discrepancy",
       "type": "topic",
       "description": "Discrepancy between reported father/pastor-led turn-in and Governor Cox's statement that Robinson has not confessed.",
@@ -1347,8 +1331,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1090",
-      "ref": "N-1090",
+      "@id": "N-1087",
+      "ref": "N-1087",
       "name": "Robinson Father Turn-In Narrative",
       "type": "topic",
       "description": "Reported narrative that Robinson's father turned him in after speaking with a pastor.",
@@ -1363,8 +1347,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1091",
-      "ref": "N-1091",
+      "@id": "N-1088",
+      "ref": "N-1088",
       "name": "Epstein Israeli Intelligence Asset Allegation",
       "type": "topic",
       "description": "Allegation that Jeffrey Epstein was created by Israeli/American/Saudi intelligence for blackmail operations.",
@@ -1383,8 +1367,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1092",
-      "ref": "N-1092",
+      "@id": "N-1089",
+      "ref": "N-1089",
       "name": "Kirk Assassination Investigation Timeline",
       "type": "topic",
       "description": "Composite timeline constructed from TMZ footage, Governor Cox statements, and FBI evidence about Kirk shooting.",
@@ -1410,8 +1394,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1093",
-      "ref": "N-1093",
+      "@id": "N-1090",
+      "ref": "N-1090",
       "name": "Israel Lobby Pressure on Conservative Figures",
       "type": "topic",
       "description": "Host's broader narrative pattern of Israel-aligned actors pressuring conservative commentators critical of Israeli policy.",
@@ -1430,8 +1414,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1094",
-      "ref": "N-1094",
+      "@id": "N-1091",
+      "ref": "N-1091",
       "name": "Israel",
       "type": "place",
       "description": "Subject of Netanyahu phone invitation, May 2 letter, and Greta Van Susteren interview.",
@@ -1452,8 +1436,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1095",
-      "ref": "N-1095",
+      "@id": "N-1092",
+      "ref": "N-1092",
       "name": "The Hamptons",
       "type": "place",
       "description": "Location of alleged Bill Ackman intervention meeting against Kirk.",
@@ -1470,8 +1454,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1096",
-      "ref": "N-1096",
+      "@id": "N-1093",
+      "ref": "N-1093",
       "name": "Utah Valley University Campus",
       "type": "place",
       "description": "UVU campus in Orem, Utah; site of the September 10, 2025 shooting.",
@@ -1504,13 +1488,13 @@
         "N-2",
         "N-1",
         "N-7",
-        "N-73",
-        "N-76",
+        "N-72",
+        "N-75",
+        "N-80",
         "N-81",
         "N-82",
         "N-83",
-        "N-84",
-        "N-85"
+        "N-84"
       ],
       "tags": [],
       "claim_timestamp": "00:00:59",
@@ -1528,8 +1512,8 @@
         "A-1082.1"
       ],
       "related_nodes": [
-        "N-67",
-        "N-1076",
+        "N-66",
+        "N-1071",
         "N-1"
       ],
       "tags": [],
@@ -1549,9 +1533,9 @@
         "A-1083.1"
       ],
       "related_nodes": [
-        "N-67",
+        "N-66",
         "N-1",
-        "N-1085"
+        "N-1082"
       ],
       "tags": [],
       "claim_timestamp": "00:07:26",
@@ -1569,10 +1553,10 @@
         "A-1083.1"
       ],
       "related_nodes": [
-        "N-67",
+        "N-66",
         "N-1",
         "N-7",
-        "N-1085"
+        "N-1082"
       ],
       "tags": [],
       "claim_timestamp": "00:09:48",
@@ -1595,10 +1579,10 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-77",
+        "N-76",
         "N-50",
-        "N-70",
-        "N-1093"
+        "N-69",
+        "N-1090"
       ],
       "tags": [],
       "claim_timestamp": "00:10:51",
@@ -1616,12 +1600,12 @@
         "A-1092.1"
       ],
       "related_nodes": [
+        "N-67",
         "N-68",
-        "N-69",
         "N-1",
         "N-7",
-        "N-80",
-        "N-1083"
+        "N-79",
+        "N-1081"
       ],
       "tags": [],
       "claim_timestamp": "00:15:01",
@@ -1641,11 +1625,11 @@
         "A-1092.1"
       ],
       "related_nodes": [
-        "N-67",
+        "N-66",
         "N-1",
+        "N-67",
         "N-68",
-        "N-69",
-        "N-1086"
+        "N-1083"
       ],
       "tags": [],
       "claim_timestamp": "00:16:06",
@@ -1664,10 +1648,10 @@
         "A-1092.1"
       ],
       "related_nodes": [
-        "N-67",
+        "N-66",
         "N-1",
         "N-7",
-        "N-1086"
+        "N-1083"
       ],
       "tags": [],
       "claim_timestamp": "00:17:13",
@@ -1686,9 +1670,9 @@
         "A-1085.1"
       ],
       "related_nodes": [
-        "N-75",
-        "N-67",
-        "N-1094"
+        "N-74",
+        "N-66",
+        "N-1091"
       ],
       "tags": [],
       "claim_timestamp": "00:25:47",
@@ -1708,10 +1692,10 @@
       "related_nodes": [
         "N-1",
         "N-35",
+        "N-77",
         "N-78",
-        "N-79",
-        "N-1081",
-        "N-1091"
+        "N-1080",
+        "N-1088"
       ],
       "tags": [],
       "claim_timestamp": "00:28:14",
@@ -1730,11 +1714,11 @@
         "A-1088.1"
       ],
       "related_nodes": [
+        "N-1076",
         "N-1077",
-        "N-1078",
-        "N-71",
-        "N-1096",
-        "N-1092"
+        "N-70",
+        "N-1093",
+        "N-1089"
       ],
       "tags": [],
       "claim_timestamp": "00:38:50",
@@ -1752,10 +1736,10 @@
         "A-1089.1"
       ],
       "related_nodes": [
-        "N-72",
         "N-71",
-        "N-1078",
-        "N-1092"
+        "N-70",
+        "N-1077",
+        "N-1089"
       ],
       "tags": [],
       "claim_timestamp": "00:39:36",
@@ -1773,9 +1757,9 @@
         "A-1088.2"
       ],
       "related_nodes": [
-        "N-1077",
-        "N-71",
-        "N-1087"
+        "N-1076",
+        "N-70",
+        "N-1084"
       ],
       "tags": [],
       "claim_timestamp": "00:40:27",
@@ -1793,7 +1777,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1",
-        "N-1092"
+        "N-1089"
       ],
       "tags": [],
       "claim_timestamp": "00:41:35",
@@ -1813,10 +1797,10 @@
         "A-1092.1"
       ],
       "related_nodes": [
-        "N-69",
         "N-68",
+        "N-67",
         "N-7",
-        "N-1083"
+        "N-1081"
       ],
       "tags": [],
       "claim_timestamp": "00:18:22",
@@ -1834,9 +1818,9 @@
         "A-1088.3"
       ],
       "related_nodes": [
-        "N-1077",
-        "N-71",
-        "N-1092"
+        "N-1076",
+        "N-70",
+        "N-1089"
       ],
       "tags": [],
       "claim_timestamp": "00:43:37",
@@ -1856,10 +1840,10 @@
         "A-1087.1"
       ],
       "related_nodes": [
-        "N-1080",
-        "N-71",
-        "N-74",
-        "N-1088"
+        "N-1079",
+        "N-70",
+        "N-73",
+        "N-1085"
       ],
       "tags": [],
       "claim_timestamp": "00:44:13",
@@ -1878,9 +1862,9 @@
         "A-1089.4"
       ],
       "related_nodes": [
-        "N-1080",
-        "N-1088",
-        "N-1079"
+        "N-1079",
+        "N-1085",
+        "N-1078"
       ],
       "tags": [],
       "claim_timestamp": "00:44:41",
@@ -1898,9 +1882,9 @@
         "A-1089.2"
       ],
       "related_nodes": [
-        "N-72",
         "N-71",
-        "N-1089"
+        "N-70",
+        "N-1086"
       ],
       "tags": [],
       "claim_timestamp": "00:50:18",
@@ -1918,9 +1902,9 @@
         "A-1089.3"
       ],
       "related_nodes": [
-        "N-72",
         "N-71",
-        "N-1089"
+        "N-70",
+        "N-1086"
       ],
       "tags": [],
       "claim_timestamp": "00:49:51",
@@ -1938,9 +1922,9 @@
         "A-1090.1"
       ],
       "related_nodes": [
-        "N-1079",
-        "N-71",
-        "N-1092"
+        "N-1078",
+        "N-70",
+        "N-1089"
       ],
       "tags": [],
       "claim_timestamp": "00:52:53",

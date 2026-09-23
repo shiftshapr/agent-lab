@@ -31,8 +31,8 @@
             "C-1145"
           ],
           "related_nodes": [
-            "N-86",
-            "N-1100"
+            "N-85",
+            "N-1096"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -50,8 +50,8 @@
             "C-1147"
           ],
           "related_nodes": [
-            "N-86",
-            "N-1097"
+            "N-85",
+            "N-1077"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -68,7 +68,7 @@
             "C-1148"
           ],
           "related_nodes": [
-            "N-86"
+            "N-85"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -85,7 +85,7 @@
             "C-1149"
           ],
           "related_nodes": [
-            "N-86"
+            "N-85"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -103,7 +103,7 @@
             "C-1153"
           ],
           "related_nodes": [
-            "N-86"
+            "N-85"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -120,7 +120,7 @@
             "C-1151"
           ],
           "related_nodes": [
-            "N-86"
+            "N-85"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -137,7 +137,7 @@
             "C-1152"
           ],
           "related_nodes": [
-            "N-86"
+            "N-85"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -155,9 +155,9 @@
             "C-1155"
           ],
           "related_nodes": [
+            "N-85",
             "N-86",
-            "N-87",
-            "N-1099"
+            "N-1095"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -176,8 +176,8 @@
             "C-1156"
           ],
           "related_nodes": [
-            "N-86",
-            "N-87"
+            "N-85",
+            "N-86"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -203,8 +203,8 @@
             "C-1158"
           ],
           "related_nodes": [
-            "N-88",
-            "N-1101"
+            "N-72",
+            "N-1097"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -229,8 +229,8 @@
             "C-1157"
           ],
           "related_nodes": [
-            "N-88",
-            "N-1101"
+            "N-72",
+            "N-1097"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -257,9 +257,9 @@
             "C-1161"
           ],
           "related_nodes": [
-            "N-90",
-            "N-1102",
-            "N-1106"
+            "N-67",
+            "N-1098",
+            "N-1102"
           ],
           "tags": [],
           "event_timestamp": "2025-09",
@@ -286,8 +286,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-96",
-            "N-1102"
+            "N-76",
+            "N-1098"
           ],
           "tags": [],
           "event_timestamp": "2025-08-06",
@@ -313,8 +313,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-91",
-            "N-90"
+            "N-66",
+            "N-67"
           ],
           "tags": [],
           "event_timestamp": "2025-05",
@@ -340,9 +340,9 @@
             "C-1160"
           ],
           "related_nodes": [
-            "N-90",
-            "N-107",
-            "N-1102"
+            "N-67",
+            "N-99",
+            "N-1098"
           ],
           "tags": [],
           "event_timestamp": "2025-09",
@@ -367,9 +367,9 @@
             "C-1160"
           ],
           "related_nodes": [
-            "N-95",
-            "N-90",
-            "N-1102"
+            "N-89",
+            "N-67",
+            "N-1098"
           ],
           "tags": [],
           "event_timestamp": "2025-08-04",
@@ -394,7 +394,7 @@
             "C-1165"
           ],
           "related_nodes": [
-            "N-100",
+            "N-93",
             "N-50",
             "N-1"
           ],
@@ -451,8 +451,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-86",
-      "ref": "N-86",
+      "@id": "N-85",
+      "ref": "N-85",
       "name": "Tyler James Robinson",
       "type": "person",
       "description": "Indicted shooter.",
@@ -493,8 +493,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-87",
-      "ref": "N-87",
+      "@id": "N-86",
+      "ref": "N-86",
       "name": "Lance Twigs",
       "type": "person",
       "description": "Robinson's romantic partner and roommate; provided text messages to police.",
@@ -521,8 +521,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-88",
-      "ref": "N-88",
+      "@id": "N-72",
+      "ref": "N-72",
       "name": "George Zinn",
       "type": "person",
       "description": "71-year-old alleged decoy confessor; obstruction of justice and child abuse image charges.",
@@ -542,8 +542,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-89",
-      "ref": "N-89",
+      "@id": "N-87",
+      "ref": "N-87",
       "name": "Governor Cox",
       "type": "person",
       "description": "Utah Governor; host flags earlier statements as inconsistent with indictment (light shorts/maroon shirt).",
@@ -561,8 +561,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-90",
-      "ref": "N-90",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Bill Ackman",
       "type": "person",
       "description": "Hedge fund manager; hosted Hamptons retreat; issued 955-word tweet response.",
@@ -585,8 +585,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-91",
-      "ref": "N-91",
+      "@id": "N-66",
+      "ref": "N-66",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Israeli Prime Minister; subject of Charlie Kirk May 2025 letter.",
@@ -604,8 +604,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-92",
-      "ref": "N-92",
+      "@id": "N-68",
+      "ref": "N-68",
       "name": "Seth Dylan",
       "type": "person",
       "description": "Reportedly pressed Charlie on Israel at Hamptons retreat.",
@@ -621,8 +621,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-93",
-      "ref": "N-93",
+      "@id": "N-88",
+      "ref": "N-88",
       "name": "Josh Hammer",
       "type": "person",
       "description": "Reportedly part of beehive pressuring Charlie about conference guests.",
@@ -638,8 +638,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-94",
-      "ref": "N-94",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Dave Smith",
       "type": "person",
       "description": "Speaker at America Fest; subject of pressure complaints.",
@@ -672,8 +672,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-95",
-      "ref": "N-95",
+      "@id": "N-89",
+      "ref": "N-89",
       "name": "Aaron Wexler",
       "type": "person",
       "description": "Reportedly sent Hamptons retreat invitations.",
@@ -691,8 +691,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-96",
-      "ref": "N-96",
+      "@id": "N-76",
+      "ref": "N-76",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Interviewer of Charlie Kirk August 6, 2025.",
@@ -710,8 +710,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-97",
-      "ref": "N-97",
+      "@id": "N-90",
+      "ref": "N-90",
       "name": "Patrick Bet-David",
       "type": "person",
       "description": "Podcaster Netanyahu appeared on.",
@@ -725,8 +725,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-98",
-      "ref": "N-98",
+      "@id": "N-91",
+      "ref": "N-91",
       "name": "Brendan Tatum",
       "type": "person",
       "description": "Podcaster Netanyahu appeared on.",
@@ -740,8 +740,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-99",
-      "ref": "N-99",
+      "@id": "N-92",
+      "ref": "N-92",
       "name": "Nelk Boys",
       "type": "person",
       "description": "Podcast Netanyahu appeared on.",
@@ -755,8 +755,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-100",
-      "ref": "N-100",
+      "@id": "N-93",
+      "ref": "N-93",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Issued tweet thread pressuring Charlie to distance from Tucker.",
@@ -774,8 +774,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-101",
-      "ref": "N-101",
+      "@id": "N-94",
+      "ref": "N-94",
       "name": "Phil Lyman",
       "type": "person",
       "description": "Republican candidate chosen by delegates who ran against Cox.",
@@ -789,8 +789,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-95",
+      "ref": "N-95",
       "name": "Eric Mutosos",
       "type": "person",
       "description": "LEO commenter noted to have dealt with Zinn in the past.",
@@ -819,8 +819,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-103",
-      "ref": "N-103",
+      "@id": "N-96",
+      "ref": "N-96",
       "name": "Sarah Stockton",
       "type": "person",
       "description": "Hamptons attendee whose engagement ring generated drama.",
@@ -834,8 +834,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-104",
-      "ref": "N-104",
+      "@id": "N-61",
+      "ref": "N-61",
       "name": "Dave Rubin",
       "type": "person",
       "description": "Subject of Candace's prior Israel-pressure recollection.",
@@ -849,8 +849,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-105",
-      "ref": "N-105",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Brian Mass",
       "type": "person",
       "description": "Subject of a tweet Candace referenced about genocide.",
@@ -864,8 +864,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-106",
-      "ref": "N-106",
+      "@id": "N-98",
+      "ref": "N-98",
       "name": "Jamie Lee Curtis",
       "type": "person",
       "description": "Mentioned as left-leaning figure moved by Kirk's death.",
@@ -896,8 +896,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-107",
-      "ref": "N-107",
+      "@id": "N-99",
+      "ref": "N-99",
       "name": "Village Crazy Lady",
       "type": "person",
       "description": "X poster who broke down Bill Ackman's itinerary.",
@@ -915,8 +915,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-108",
-      "ref": "N-108",
+      "@id": "N-100",
+      "ref": "N-100",
       "name": "Mark",
       "type": "person",
       "description": "Studio contributor commenting on ellipsis formatting in text chain.",
@@ -932,8 +932,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-109",
-      "ref": "N-109",
+      "@id": "N-101",
+      "ref": "N-101",
       "name": "Skyler",
       "type": "person",
       "description": "Producer referenced retrieving tweet screenshots.",
@@ -947,8 +947,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-110",
-      "ref": "N-110",
+      "@id": "N-102",
+      "ref": "N-102",
       "name": "Candace Owens' Husband",
       "type": "person",
       "description": "One of two people Candace cites as able to silence her.",
@@ -962,8 +962,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1097",
-      "ref": "N-1097",
+      "@id": "N-1077",
+      "ref": "N-1077",
       "name": "Utah Valley University",
       "type": "organization",
       "description": "Shooting site; surveillance footage source.",
@@ -983,8 +983,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1098",
-      "ref": "N-1098",
+      "@id": "N-1094",
+      "ref": "N-1094",
       "name": "Washington County Sheriff's Office",
       "type": "organization",
       "description": "Robinson surrender location.",
@@ -1021,8 +1021,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1099",
-      "ref": "N-1099",
+      "@id": "N-1095",
+      "ref": "N-1095",
       "name": "Text Message Timestamp Discrepancy",
       "type": "topic",
       "description": "Indictment omits timestamps on Robinson-to-Lance texts; host flags as investigative gap.",
@@ -1042,8 +1042,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1100",
-      "ref": "N-1100",
+      "@id": "N-1096",
+      "ref": "N-1096",
       "name": "33-Hour Surrender Timeline Signal",
       "type": "topic",
       "description": "Repeated 33-hour figure in indictment; host flags as suspicious signaling.",
@@ -1062,8 +1062,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1101",
-      "ref": "N-1101",
+      "@id": "N-1097",
+      "ref": "N-1097",
       "name": "Decoy Boy Operation Analysis",
       "type": "topic",
       "description": "George Zinn decoy arrest analysis; potential distraction mechanism.",
@@ -1084,8 +1084,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1102",
-      "ref": "N-1102",
+      "@id": "N-1098",
+      "ref": "N-1098",
       "name": "Hamptons Donor Pressure Investigation",
       "type": "topic",
       "description": "Pressure on Charlie regarding Israel and conference guests at August 4-5 Hamptons retreat.",
@@ -1111,8 +1111,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1103",
-      "ref": "N-1103",
+      "@id": "N-1099",
+      "ref": "N-1099",
       "name": "Lance Twigs Family Allegations",
       "type": "topic",
       "description": "Family-sourced allegations re: Lance Twigs behavioral history, drug use, deep-web activity.",
@@ -1131,8 +1131,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1104",
-      "ref": "N-1104",
+      "@id": "N-1100",
+      "ref": "N-1100",
       "name": "Unusual Traffic at Residence Investigation",
       "type": "topic",
       "description": "Neighbor reports of unusual vehicles at Robinson/Twigs residence before shooting.",
@@ -1149,8 +1149,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1105",
-      "ref": "N-1105",
+      "@id": "N-1101",
+      "ref": "N-1101",
       "name": "Building Donor Withdrawal Investigation",
       "type": "topic",
       "description": "Top Jewish donors demanded name removed from TPUSA building 48 hours before Charlie's death; reversed after death.",
@@ -1167,8 +1167,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1106",
-      "ref": "N-1106",
+      "@id": "N-1102",
+      "ref": "N-1102",
       "name": "Bill Ackman Response Analysis",
       "type": "topic",
       "description": "Conspicuous omissions in Bill Ackman's tweet response; BB Netanyahu not addressed.",
@@ -1197,22 +1197,22 @@
         "A-1095.1"
       ],
       "related_nodes": [
-        "N-86",
-        "N-1098",
-        "N-1100",
+        "N-85",
+        "N-1094",
+        "N-1096",
         "N-7",
+        "N-69",
+        "N-90",
+        "N-91",
+        "N-92",
         "N-94",
+        "N-95",
+        "N-96",
+        "N-61",
         "N-97",
         "N-98",
-        "N-99",
-        "N-101",
-        "N-102",
-        "N-103",
-        "N-104",
-        "N-105",
-        "N-106",
-        "N-108",
-        "N-109"
+        "N-100",
+        "N-101"
       ],
       "tags": [],
       "claim_timestamp": "00:07:37",
@@ -1230,7 +1230,7 @@
         "A-1095.1"
       ],
       "related_nodes": [
-        "N-86"
+        "N-85"
       ],
       "tags": [],
       "claim_timestamp": "00:07:55",
@@ -1248,8 +1248,8 @@
         "A-1095.2"
       ],
       "related_nodes": [
-        "N-86",
-        "N-1097"
+        "N-85",
+        "N-1077"
       ],
       "tags": [],
       "claim_timestamp": "00:10:32",
@@ -1267,8 +1267,8 @@
         "A-1095.2"
       ],
       "related_nodes": [
-        "N-86",
-        "N-1097"
+        "N-85",
+        "N-1077"
       ],
       "tags": [],
       "claim_timestamp": "00:09:18",
@@ -1286,7 +1286,7 @@
         "A-1095.3"
       ],
       "related_nodes": [
-        "N-86"
+        "N-85"
       ],
       "tags": [],
       "claim_timestamp": "00:13:47",
@@ -1304,7 +1304,7 @@
         "A-1095.4"
       ],
       "related_nodes": [
-        "N-86"
+        "N-85"
       ],
       "tags": [],
       "claim_timestamp": "00:14:29",
@@ -1322,8 +1322,8 @@
         "A-1095.5"
       ],
       "related_nodes": [
-        "N-86",
-        "N-110"
+        "N-85",
+        "N-102"
       ],
       "tags": [],
       "claim_timestamp": "00:16:00",
@@ -1341,7 +1341,7 @@
         "A-1095.6"
       ],
       "related_nodes": [
-        "N-86"
+        "N-85"
       ],
       "tags": [],
       "claim_timestamp": "00:17:50",
@@ -1359,7 +1359,7 @@
         "A-1095.7"
       ],
       "related_nodes": [
-        "N-86"
+        "N-85"
       ],
       "tags": [],
       "claim_timestamp": "00:18:54",
@@ -1377,7 +1377,7 @@
         "A-1095.5"
       ],
       "related_nodes": [
-        "N-86"
+        "N-85"
       ],
       "tags": [],
       "claim_timestamp": "00:16:45",
@@ -1396,9 +1396,9 @@
         "A-1095.9"
       ],
       "related_nodes": [
+        "N-85",
         "N-86",
-        "N-87",
-        "N-1099",
+        "N-1095",
         "N-2"
       ],
       "tags": [],
@@ -1417,9 +1417,9 @@
         "A-1095.8"
       ],
       "related_nodes": [
+        "N-85",
         "N-86",
-        "N-87",
-        "N-1099"
+        "N-1095"
       ],
       "tags": [],
       "claim_timestamp": "00:22:48",
@@ -1438,8 +1438,8 @@
         "A-1095.9"
       ],
       "related_nodes": [
-        "N-86",
-        "N-87"
+        "N-85",
+        "N-86"
       ],
       "tags": [],
       "claim_timestamp": "00:17:00",
@@ -1458,8 +1458,8 @@
         "A-1097.1"
       ],
       "related_nodes": [
-        "N-88",
-        "N-1101"
+        "N-72",
+        "N-1097"
       ],
       "tags": [],
       "claim_timestamp": "00:03:33",
@@ -1477,8 +1477,8 @@
         "A-1096.1"
       ],
       "related_nodes": [
-        "N-88",
-        "N-1101"
+        "N-72",
+        "N-1097"
       ],
       "tags": [],
       "claim_timestamp": "00:05:10",
@@ -1496,8 +1496,8 @@
         "A-1098.1"
       ],
       "related_nodes": [
-        "N-90",
-        "N-1106"
+        "N-67",
+        "N-1102"
       ],
       "tags": [],
       "claim_timestamp": "00:53:40",
@@ -1517,10 +1517,10 @@
         "A-1102.1"
       ],
       "related_nodes": [
-        "N-90",
-        "N-107",
-        "N-95",
-        "N-1102"
+        "N-67",
+        "N-99",
+        "N-89",
+        "N-1098"
       ],
       "tags": [],
       "claim_timestamp": "01:00:46",
@@ -1536,8 +1536,8 @@
       "claim": "Per attendees, Bill Ackman gave a presentation at the Hamptons retreat telling attendees they should not own property and should instead invest in stocks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-90",
-        "N-1102"
+        "N-67",
+        "N-1098"
       ],
       "tags": [],
       "claim_timestamp": "01:18:21",
@@ -1557,8 +1557,8 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-96",
-        "N-1102",
+        "N-76",
+        "N-1098",
         "N-35"
       ],
       "tags": [],
@@ -1578,7 +1578,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-1102"
+        "N-1098"
       ],
       "tags": [],
       "claim_timestamp": "01:05:20",
@@ -1597,8 +1597,8 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-91",
-        "N-90"
+        "N-66",
+        "N-67"
       ],
       "tags": [],
       "claim_timestamp": "00:59:24",
@@ -1617,7 +1617,7 @@
         "A-1103.1"
       ],
       "related_nodes": [
-        "N-100",
+        "N-93",
         "N-50",
         "N-1"
       ],
@@ -1635,8 +1635,8 @@
       "claim": "Per Lance Twigs family members, Lance was kicked out of his parents' home in junior year of high school for being problematic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-87",
-        "N-1103"
+        "N-86",
+        "N-1099"
       ],
       "tags": [],
       "claim_timestamp": "00:36:19",
@@ -1653,8 +1653,8 @@
       "claim": "Per family, Lance Twigs nearly overdosed by drinking a bottle of vodka approximately three years ago at Christmas; family feared they could not care for him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-87",
-        "N-1103"
+        "N-86",
+        "N-1099"
       ],
       "tags": [],
       "claim_timestamp": "00:36:43",
@@ -1670,8 +1670,8 @@
       "claim": "Per family, Lance Twigs showed up on drugs at a family Easter Sunday gathering and was spouting political statements; family determined he could not be around children.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-87",
-        "N-1103"
+        "N-86",
+        "N-1099"
       ],
       "tags": [],
       "claim_timestamp": "00:37:18",
@@ -1687,7 +1687,7 @@
       "claim": "Lance Twigs turned 22 in August 2025 according to his family.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-87"
+        "N-86"
       ],
       "tags": [],
       "claim_timestamp": "00:38:43",
@@ -1703,8 +1703,8 @@
       "claim": "Tyler Robinson lived with Lance Twigs in a townhome owned by Lance's family and paid rent to them via Lance.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-86",
-        "N-87"
+        "N-85",
+        "N-86"
       ],
       "tags": [],
       "claim_timestamp": "00:35:33",
@@ -1720,9 +1720,9 @@
       "claim": "Neighbors and Lance's family reported unusual, frequent traffic and unrecognized cars at the Robinson/Twigs residence in the days before the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
+        "N-85",
         "N-86",
-        "N-87",
-        "N-1104"
+        "N-1100"
       ],
       "tags": [],
       "claim_timestamp": "00:40:28",
@@ -1741,8 +1741,8 @@
         "A-1095.2"
       ],
       "related_nodes": [
-        "N-89",
-        "N-86"
+        "N-87",
+        "N-85"
       ],
       "tags": [],
       "claim_timestamp": "00:12:06",
@@ -1758,9 +1758,9 @@
       "claim": "Attendees report Seth Dylan and Josh Hammer pressured Charlie at the Hamptons retreat regarding Israel views and conference guests.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-92",
-        "N-93",
-        "N-1102"
+        "N-68",
+        "N-88",
+        "N-1098"
       ],
       "tags": [],
       "claim_timestamp": "00:50:10",
@@ -1779,7 +1779,7 @@
       "related_nodes": [
         "N-1",
         "N-1000",
-        "N-1105"
+        "N-1101"
       ],
       "tags": [],
       "claim_timestamp": "01:09:21",

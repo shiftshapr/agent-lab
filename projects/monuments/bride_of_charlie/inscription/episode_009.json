@@ -173,7 +173,7 @@
           "related_nodes": [
             "N-1",
             "N-7",
-            "N-60"
+            "N-2"
           ],
           "tags": [],
           "event_timestamp": "2019-2020",
@@ -298,8 +298,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-60",
-      "ref": "N-60",
+      "@id": "N-2",
+      "ref": "N-2",
       "name": "Erika Kirk (née Frantzey)",
       "type": "person",
       "description": "Charlie Kirk's wife; subject of the 'Kirk vs Frantzey' name plan text chain.",
@@ -317,8 +317,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-61",
-      "ref": "N-61",
+      "@id": "N-60",
+      "ref": "N-60",
       "name": "Rush Limbaugh",
       "type": "person",
       "description": "Conservative radio host referenced as Charlie Kirk's admired figure and aspirational model for a national show.",
@@ -332,8 +332,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-62",
-      "ref": "N-62",
+      "@id": "N-61",
+      "ref": "N-61",
       "name": "Dave Rubin",
       "type": "person",
       "description": "Joined an early TPUSA event with Candace and Charlie when the original headliner dropped out.",
@@ -347,8 +347,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-63",
-      "ref": "N-63",
+      "@id": "N-62",
+      "ref": "N-62",
       "name": "Donald Trump Jr. (Don Jr.)",
       "type": "person",
       "description": "Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.",
@@ -362,8 +362,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-64",
-      "ref": "N-64",
+      "@id": "N-63",
+      "ref": "N-63",
       "name": "Eric Trump",
       "type": "person",
       "description": "Co-gifted Charlie Kirk a suit-fitting gift certificate with Don Jr.",
@@ -400,8 +400,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-64",
+      "ref": "N-64",
       "name": "Andrew Kovac",
       "type": "person",
       "description": "Turning Point figure who stood with Charlie Kirk during the 'him too' press incident.",
@@ -415,8 +415,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-66",
-      "ref": "N-66",
+      "@id": "N-65",
+      "ref": "N-65",
       "name": "Sarah (Charlie's assistant)",
       "type": "person",
       "description": "Charlie's assistant at Turning Point during the #MeToo press moment.",
@@ -535,12 +535,14 @@
       "type": "organization",
       "description": "Charlie's rule was 'never say no to Fox News'; described as 4 hits/day including 4am Fox and Friends First.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1122"
+      ],
       "tags": [],
       "evidence_count": 0,
-      "claim_count": 0,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "organization_kind": "media_outlet"
     },
     {
@@ -569,12 +571,14 @@
       "type": "organization",
       "description": "Conference concurrent with the 'him too' / #MeToo press incident; reporters swooped in on Candace's statements.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1118"
+      ],
       "tags": [],
       "evidence_count": 0,
-      "claim_count": 0,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "organization_kind": "conference",
       "uncertainty_note": "Acronym not expanded in transcript."
     },
@@ -634,12 +638,12 @@
         "N-7",
         "N-56",
         "N-1069",
+        "N-60",
         "N-61",
         "N-62",
         "N-63",
         "N-64",
-        "N-65",
-        "N-66"
+        "N-65"
       ],
       "tags": [],
       "claim_timestamp": "00:11:32",
@@ -740,7 +744,7 @@
       "related_nodes": [
         "N-1",
         "N-7",
-        "N-60",
+        "N-2",
         "N-1068"
       ],
       "tags": [],

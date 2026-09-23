@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080
   - Claim Range: C-1115-C-1122
-  - New Nodes Introduced: N-1, N-7, N-56, N-59, N-60, N-61, N-62, N-63, N-64, N-65, N-66, N-1000, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073, N-1074, N-1075
+  - New Nodes Introduced: N-1, N-2, N-7, N-56, N-59, N-60, N-61, N-62, N-63, N-64, N-1000, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073, N-1074, N-1075
 
 ## 2. Executive Summary
 
@@ -82,7 +82,7 @@ Confidence: high
 **A-1079.3** Text chain joking about convincing Erika Frantzey to take the Kirk last name as a 'practical decision'.
 Event Timestamp: 2019-2020
 Video Timestamp: 00:19:23-00:19:43
-*Related: C-1120, N-1, N-7, N-60*
+*Related: C-1120, N-1, N-7, N-2*
 Transcript Snippet: Marry me. It's a logistics thing. Mrs. Erika Kirk sounds so much better than Mrs. Eric.
 Confidence: high
 
@@ -129,7 +129,7 @@ Uncertainty: Surname not stated in transcript.
 
 ---
 
-**N-60** Erika Kirk (née Frantzey)
+**N-2** Erika Kirk (née Frantzey)
 
 Node Type: Person
 Charlie Kirk's wife; subject of the 'Kirk vs Frantzey' name plan text chain.
@@ -138,7 +138,7 @@ Charlie Kirk's wife; subject of the 'Kirk vs Frantzey' name plan text chain.
 
 ---
 
-**N-61** Rush Limbaugh
+**N-60** Rush Limbaugh
 
 Node Type: Person
 Conservative radio host referenced as Charlie Kirk's admired figure and aspirational model for a national show.
@@ -150,7 +150,7 @@ Conservative radio host referenced as Charlie Kirk's admired figure and aspirati
 
 ---
 
-**N-62** Dave Rubin
+**N-61** Dave Rubin
 
 Node Type: Person
 Joined an early TPUSA event with Candace and Charlie when the original headliner dropped out.
@@ -162,7 +162,7 @@ Joined an early TPUSA event with Candace and Charlie when the original headliner
 
 ---
 
-**N-63** Donald Trump Jr. (Don Jr.)
+**N-62** Donald Trump Jr. (Don Jr.)
 
 Node Type: Person
 Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.
@@ -174,7 +174,7 @@ Mentioned as having pressed Charlie to buy better-fitting suits along with Eric 
 
 ---
 
-**N-64** Eric Trump
+**N-63** Eric Trump
 
 Node Type: Person
 Co-gifted Charlie Kirk a suit-fitting gift certificate with Don Jr.
@@ -195,7 +195,7 @@ Tweeted 'I love the way Candace Owens thinks'; gave Charlie Kirk Yeezys; source 
 
 ---
 
-**N-65** Andrew Kovac
+**N-64** Andrew Kovac
 
 Node Type: Person
 Turning Point figure who stood with Charlie Kirk during the 'him too' press incident.
@@ -207,7 +207,7 @@ Turning Point figure who stood with Charlie Kirk during the 'him too' press inci
 
 ---
 
-**N-66** Sarah (Charlie's assistant)
+**N-65** Sarah (Charlie's assistant)
 
 Node Type: Person
 Charlie's assistant at Turning Point during the #MeToo press moment.
@@ -276,7 +276,7 @@ Node Type: Organization
 Organization Kind: media_outlet
 Charlie's rule was 'never say no to Fox News'; described as 4 hits/day including 4am Fox and Friends First.
 
-*Related: *
+*Related: C-1122*
 
 ---
 
@@ -296,7 +296,7 @@ Node Type: Organization
 Organization Kind: conference
 Conference concurrent with the 'him too' / #MeToo press incident; reporters swooped in on Candace's statements.
 
-*Related: *
+*Related: C-1118*
 Uncertainty: Acronym not expanded in transcript.
 
 ---
@@ -329,7 +329,7 @@ Claim Timestamp: 00:11:32
 Claim: Following Kanye West's tweet praising Candace Owens, Charlie and Candace celebrated backstage doing a 'Charlie dance,' as documented in a shown video clip.
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Anchored Artifacts: A-1077.1, A-1078.1, A-1080.1
-Related Nodes: N-1, N-7, N-56, N-1069, N-61, N-62, N-63, N-64, N-65, N-66
+Related Nodes: N-1, N-7, N-56, N-1069, N-60, N-61, N-62, N-63, N-64, N-65
 Confidence: high
 Investigative Direction: Verify the exact date of the Kanye tweet and cross-reference with the shown backstage clip timestamp.
 
@@ -390,7 +390,7 @@ Claim Timestamp: 00:19:23
 Claim: A text chain between Charlie and Candace jokes that Erika Frantzey should marry Charlie Kirk because 'Kirk' sounds better than 'Frantzey,' per a shown text exchange.
 Transcript Snippet: Marry me. It's a logistics thing. Mrs. Erika Kirk sounds so much better than Mrs. Eric.
 Anchored Artifacts: A-1079.3
-Related Nodes: N-1, N-7, N-60, N-1068
+Related Nodes: N-1, N-7, N-2, N-1068
 Confidence: high
 Investigative Direction: Confirm the text chain timing predates the Kirk/Frantzey marriage announcement.
 
