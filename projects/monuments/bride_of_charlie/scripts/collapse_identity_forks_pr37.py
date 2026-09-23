@@ -30,7 +30,6 @@ _NEW_NODES_LINE = re.compile(r"(-\s*New Nodes Introduced:\s*)(.+)$", re.MULTILIN
 _ORPHAN_ORGS = [
     ("N-1071", 9, "Fox News", "C-1122"),
     ("N-1073", 9, "YWLS Conference", "C-1118"),
-    ("N-1082", 10, "Tel Aviv University", None),
     ("N-1131", 13, "Calira Engineering", None),
     ("N-1133", 13, "CIA", None),
     ("N-1150", 14, "Candace Intelligence Agency", None),
@@ -125,7 +124,7 @@ def _build_collapse(report: dict, first_ep: dict[str, int]) -> dict[str, str]:
     for fork in report["topic_band"]["identity_forks"]:
         fork_lists.append(fork["ids"])
     # Cross-name ASR clusters (Transit report)
-    fork_lists.append(["N-65", "N-138", "N-145", "N-232"])
+    fork_lists.append(["N-65", "N-145", "N-232"])
 
     def resolve(nid: str) -> str:
         while nid in collapse:

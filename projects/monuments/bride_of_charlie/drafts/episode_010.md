@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1081, A-1082, A-1083, A-1084, A-1085, A-1086, A-1087, A-1088, A-1089, A-1090, A-1091, A-1092, A-1093, A-1094
   - Claim Range: C-1123-C-1143
-  - New Nodes Introduced: N-1, N-2, N-7, N-35, N-50, N-65, N-66, N-67, N-68, N-69, N-70, N-71, N-72, N-73, N-74, N-75, N-76, N-77, N-78, N-79, N-80, N-81, N-82, N-83, N-1000, N-1070, N-1071, N-1076, N-1077, N-1078, N-1079, N-1080, N-1081, N-1082, N-1083, N-1084, N-1085, N-1086, N-1087, N-1088, N-1089, N-1090
+  - New Nodes Introduced: N-1, N-2, N-7, N-35, N-50, N-64, N-65, N-66, N-67, N-68, N-69, N-70, N-71, N-72, N-73, N-74, N-75, N-76, N-77, N-78, N-79, N-80, N-81, N-1000, N-1070, N-1071, N-1076, N-1077, N-1078, N-1079, N-1080, N-1081, N-1082, N-1083, N-1084, N-1085, N-1086, N-1087, N-1088, N-1089, N-1090
 
 ## 2. Executive Summary
 
@@ -36,7 +36,7 @@ Confidence: high
 **A-1082.1** Clip of Netanyahu on Fox News less than 24 hours after Kirk's death, holding up the May 2 letter and describing a phone call and Israel invitation.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:07:02–00:08:46
-*Related: C-1124, C-1125, C-1129, N-66, N-1, N-1071*
+*Related: C-1124, C-1125, C-1129, N-65, N-1, N-1071*
 Transcript Snippet: He said he wrote me a letter on May 2nd this year. I called him and I spoke to him and I said, Please come to Israel.
 Confidence: high
 
@@ -47,7 +47,7 @@ Confidence: high
 **A-1083.1** Physical letter held up by Netanyahu on Fox News, dated May 2, containing quoted Israel/Judeo-Christian support sentences.
 Event Timestamp: 2025-05-02
 Video Timestamp: 00:07:26–00:07:33
-*Related: C-1125, C-1126, N-1, N-66*
+*Related: C-1125, C-1126, N-1, N-65*
 Transcript Snippet: One of my greatest joys as a Christian is advocating for Israel and forming alliances to defend Judeo-Christian civilization.
 Confidence: high
 
@@ -58,7 +58,7 @@ Confidence: high
 **A-1084.1** Clip of Charlie Kirk speaking with Megan Kelly ~1 month before his death, describing pressure regarding Israel criticism and event guest lists.
 Event Timestamp: 2025-08
 Video Timestamp: 00:10:51–00:12:33
-*Related: C-1127, N-1, N-76, N-50, N-69*
+*Related: C-1127, N-1, N-75, N-50, N-68*
 Transcript Snippet: My moral character is now being put into question… It feels like a pattern of behavior similar to what my grandparents saw in 1930s Germany online.
 Confidence: high
 
@@ -69,7 +69,7 @@ Confidence: high
 **A-1085.1** Clip of Greta Van Susteren asking Netanyahu to address internet rumors that Israel was behind Kirk's assassination.
 Event Timestamp: 2025-09
 Video Timestamp: 00:25:47–00:27:10
-*Related: C-1131, N-66, N-74, N-1091*
+*Related: C-1131, N-65, N-73, N-1091*
 Transcript Snippet: Some of the internet rumors that somehow Israel is behind the Charlie Kirk murder… I want you to make a statement.
 Confidence: high
 
@@ -80,7 +80,7 @@ Confidence: high
 **A-1086.1** Clip played of Charlie Kirk stating that Jeffrey Epstein and Ghislaine/Robert Maxwell were Israeli intelligence assets running a blackmail operation.
 Event Timestamp: pre-2025-09-10
 Video Timestamp: 00:28:14–00:29:54
-*Related: C-1132, N-1, N-35, N-77, N-78, N-1080*
+*Related: C-1132, N-1, N-35, N-76, N-77, N-1080*
 Transcript Snippet: Epstein was playing a part. Epstein was a larer… Members of Congress are actively being blackmailed.
 Confidence: high
 
@@ -91,7 +91,7 @@ Confidence: high
 **A-1087.1** Clip of Michael Savage disputing FBI narrative that the Mauser rifle was disassembled on the rooftop and reassembled in the woods.
 Event Timestamp: 2025-09
 Video Timestamp: 00:35:36–00:37:03
-*Related: C-1139, C-1140, N-73, N-1079, N-1085*
+*Related: C-1139, C-1140, N-72, N-1079, N-1085*
 Transcript Snippet: There's no rifle in his hand… They claim he removed the barrel from the mouser and fit the receiver and stock in his backpack…
 Confidence: high
 
@@ -102,21 +102,21 @@ Confidence: high
 **A-1088.1** TMZ video at 8:07 AM showing a man in maroon t-shirt and light shorts walking near UVU campus before the shooting.
 Event Timestamp: 2025-09-10T08:07
 Video Timestamp: 00:38:50–00:39:08
-*Related: C-1133, N-70, N-1076, N-1077, N-1093*
+*Related: C-1133, N-69, N-1076, N-1077, N-1093*
 Transcript Snippet: At 8:07 a.m. a man wearing a maroon t-shirt and light shorts, hands in his pockets, walking outside university grounds.
 Confidence: high
 
 **A-1088.2** TMZ doorbell camera footage at 11:49 AM showing a person in a different outfit, reportedly limping.
 Event Timestamp: 2025-09-10T11:49
 Video Timestamp: 00:40:27–00:40:56
-*Related: C-1135, N-70, N-1076, N-1084*
+*Related: C-1135, N-69, N-1076, N-1084*
 Transcript Snippet: At 11:49 AM Charlie has not yet been shot. Someone who appears to be limping.
 Confidence: high
 
 **A-1088.3** TMZ backyard running footage at 12:29 PM showing a person allegedly running after the shooting.
 Event Timestamp: 2025-09-10T12:29
 Video Timestamp: 00:43:37–00:43:56
-*Related: C-1138, N-70, N-1076, N-1089*
+*Related: C-1138, N-69, N-1076, N-1089*
 Transcript Snippet: At 12:29 p.m., TMZ showing us that there's a person running through the backyard.
 Confidence: medium
 Uncertainty: Footage described as very grainy; feds have not confirmed it shows Robinson.
@@ -128,28 +128,28 @@ Uncertainty: Footage described as very grainy; feds have not confirmed it shows 
 **A-1089.1** Governor Cox statement: Robinson arrived at UVU campus in gray Dodge Challenger at 8:29 AM in maroon shirt.
 Event Timestamp: 2025-09-12
 Video Timestamp: 00:39:36–00:39:55
-*Related: C-1134, N-70, N-71, N-1077, N-1089*
+*Related: C-1134, N-69, N-70, N-1077, N-1089*
 Transcript Snippet: Investigators identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m.
 Confidence: high
 
 **A-1089.2** Governor Cox statement that Robinson's roommate is transitioning male-to-female and cooperating.
 Event Timestamp: 2025-09
 Video Timestamp: 00:49:31–00:50:29
-*Related: C-1141, N-70, N-71, N-1086*
+*Related: C-1141, N-69, N-70, N-1086*
 Transcript Snippet: His roommate was indeed a boyfriend who who is transitioning from male to female… he is cooperating.
 Confidence: high
 
 **A-1089.3** Governor Cox statement that Robinson has not confessed and is not cooperating with authorities.
 Event Timestamp: 2025-09
 Video Timestamp: 00:49:51–00:49:59
-*Related: C-1142, N-70, N-71, N-1086*
+*Related: C-1142, N-69, N-70, N-1086*
 Transcript Snippet: He has not confessed to authorities. He is not cooperating.
 Confidence: high
 
 **A-1089.4** Governor Cox statement summarizing Discord messages about rifle drop point, outfit change, and engraved bullets.
 Event Timestamp: 2025-09
 Video Timestamp: 00:51:09–00:52:13
-*Related: C-1140, N-70, N-71, N-1078, N-1084*
+*Related: C-1140, N-69, N-70, N-1078, N-1084*
 Transcript Snippet: Messages including a need to retrieve a rifle from a drop point, leaving the rifle in a bush, wrapped in a towel.
 Confidence: high
 
@@ -160,7 +160,7 @@ Confidence: high
 **A-1090.1** Discord spokesperson statement that they found no evidence the suspect planned the incident or promoted violence on Discord.
 Event Timestamp: 2025-09
 Video Timestamp: 00:52:53–00:53:10
-*Related: C-1143, N-1078, N-70*
+*Related: C-1143, N-1078, N-69*
 Transcript Snippet: Discord identified a Discord account associated with the suspect, but have found no evidence that the suspect planned this incident.
 Confidence: high
 
@@ -171,7 +171,7 @@ Confidence: high
 **A-1091.1** Tweet by Bill Ackman (transcribed as 'Aman') saying he was privileged to share a meal with Charlie Kirk, presented as contradictory to host narrative.
 Event Timestamp: 2025-09
 Video Timestamp: 00:18:47–00:18:58
-*Related: C-1137, N-67, N-1, N-1081*
+*Related: C-1137, N-66, N-1, N-1081*
 Transcript Snippet: I feel incredibly privileged to have spent a day and shared a meal with Charlie Kirk this summer. He was a giant of a man.
 Confidence: medium
 Uncertainty: Transcript spells 'Aman'; flag for likely Bill Ackman (billionaire named in same Hamptons discussion).
@@ -183,7 +183,7 @@ Uncertainty: Transcript spells 'Aman'; flag for likely Bill Ackman (billionaire 
 **A-1092.1** Text messages sent by Candace Owens to Seth Dylan about the Hamptons meeting, described by host as shown on screen.
 Event Timestamp: 2025-09
 Video Timestamp: 00:18:41–00:19:36
-*Related: C-1137, N-7, N-68, N-67, N-66, N-1081, N-1083*
+*Related: C-1137, N-7, N-67, N-66, N-65, N-1081, N-1083*
 Transcript Snippet: You were present when Aman lost his mind on Charlie and when BB invited him to Israel and Charlie refused.
 Confidence: high
 
@@ -194,7 +194,7 @@ Confidence: high
 **A-1093.1** Photo of rifle found in woods wrapped in dark towel, fully assembled.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:44:13–00:44:32
-*Related: C-1139, N-1079, N-70, N-1085*
+*Related: C-1139, N-1079, N-69, N-1085*
 Transcript Snippet: The weapon, they say, was found in the woods and it was wrapped by a dark towel.
 Confidence: medium
 
@@ -212,7 +212,7 @@ Confidence: medium
 **A-1094.1** FBI photos of suspect in stairwell in second outfit, bending each leg in separate photos.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:45:04–00:45:38
-*Related: N-1079, N-70, N-1084*
+*Related: N-1079, N-69, N-1084*
 Transcript Snippet: We get photos that are the shooter. This is when the FBI came out and said he's in a stairwell.
 Confidence: medium
 
@@ -253,7 +253,7 @@ Confidence: high
 
 ---
 
-**N-66** Benjamin Netanyahu
+**N-65** Benjamin Netanyahu
 
 Node Type: Person
 Israeli PM; subject of Fox News and Greta interview clips; alleged instigator of pressure on Kirk.
@@ -264,7 +264,7 @@ Confidence: high
 
 ---
 
-**N-67** Bill Ackman
+**N-66** Bill Ackman
 
 Node Type: Person
 Billionaire allegedly present at Hamptons meeting; host claims he staged intervention against Kirk.
@@ -276,7 +276,7 @@ Uncertainty: Transcript spells 'Aman'; likely Bill Ackman (billionaire, Epstein 
 
 ---
 
-**N-68** Seth Dylan
+**N-67** Seth Dylan
 
 Node Type: Person
 Reportedly present at Hamptons meeting; subject of host's unanswered text exchange.
@@ -298,7 +298,7 @@ Confidence: high
 
 ---
 
-**N-69** Dave Smith
+**N-68** Dave Smith
 
 Node Type: Person
 Libertarian commentator invited to America Fest; subject of Israel-lobby pressure allegations.
@@ -309,7 +309,7 @@ Confidence: high
 
 ---
 
-**N-70** Tyler Robinson
+**N-69** Tyler Robinson
 
 Node Type: Person
 Named suspect in Charlie Kirk assassination; subject of multiple official statements and physical evidence claims.
@@ -320,7 +320,7 @@ Confidence: high
 
 ---
 
-**N-71** Spencer Cox
+**N-70** Spencer Cox
 
 Node Type: Person
 Governor of Utah; press conference source for multiple investigation claims.
@@ -331,7 +331,7 @@ Confidence: high
 
 ---
 
-**N-72** George Zinn
+**N-71** George Zinn
 
 Node Type: Person
 Person briefly arrested and labeled a 'decoy' by host; allegedly signaled he shot Charlie Kirk.
@@ -345,7 +345,7 @@ Confidence: medium
 
 ---
 
-**N-73** Michael Savage
+**N-72** Michael Savage
 
 Node Type: Person
 Commentator whose clip is played disputing FBI rifle narrative.
@@ -356,7 +356,7 @@ Confidence: high
 
 ---
 
-**N-74** Greta Van Susteren
+**N-73** Greta Van Susteren
 
 Node Type: Person
 Interviewer who asked Netanyahu about Israel-involvement rumors.
@@ -367,7 +367,7 @@ Confidence: high
 
 ---
 
-**N-75** Matt Gutman
+**N-74** Matt Gutman
 
 Node Type: Person
 Reporter whose reporting on Robinson's acquaintances is referenced by Governor Cox.
@@ -381,7 +381,7 @@ Confidence: medium
 
 ---
 
-**N-76** Megyn Kelly
+**N-75** Megyn Kelly
 
 Node Type: Person
 Interviewer who spoke with Charlie Kirk about Israel pressure ~1 month before his death.
@@ -403,7 +403,7 @@ Confidence: high
 
 ---
 
-**N-77** Ghislaine Maxwell
+**N-76** Ghislaine Maxwell
 
 Node Type: Person
 Named in Charlie Kirk clip as Epstein associate; father described as Israeli intelligence spy.
@@ -415,7 +415,7 @@ Uncertainty: Transcript spells 'Galain'; clearly Ghislaine Maxwell.
 
 ---
 
-**N-78** Robert Maxwell
+**N-77** Robert Maxwell
 
 Node Type: Person
 Ghislaine Maxwell's father; described by host and Charlie Kirk clip as Israeli intelligence operative.
@@ -426,7 +426,7 @@ Confidence: medium
 
 ---
 
-**N-79** Max Blumenthal
+**N-78** Max Blumenthal
 
 Node Type: Person
 Reporter who asked Bill Ackman to dispute the Hamptons narrative; Ackman reportedly declined.
@@ -437,7 +437,7 @@ Confidence: high
 
 ---
 
-**N-80** Donald Trump
+**N-79** Donald Trump
 
 Node Type: Person
 President whose account tweeted a photo of Charlie Kirk with US and Israeli flags.
@@ -451,7 +451,7 @@ Confidence: high
 
 ---
 
-**N-81** Sigmund Freud
+**N-80** Sigmund Freud
 
 Node Type: Person
 Subject of host reading recommendations; framed by host as father of modern gaslighting rather than modern psychology.
@@ -466,7 +466,7 @@ Uncertainty: Transcript spells 'Sigman'; clearly Sigmund Freud.
 
 ---
 
-**N-82** David Bakan
+**N-81** David Bakan
 
 Node Type: Person
 Author recommended by host on Freud and Jewish mystical tradition history.
@@ -480,7 +480,7 @@ Confidence: medium
 
 ---
 
-**N-83** Shlomo Sand
+**N-82** Shlomo Sand
 
 Node Type: Person
 Tel Aviv University historian; author of 'The Invention of the Jewish People' recommended by host.
@@ -495,7 +495,7 @@ Uncertainty: Transcript spells 'Schlommo'; canonical Shlomo Sand.
 
 ---
 
-**N-84** Abraham Polokoff
+**N-83** Abraham Polokoff
 
 Node Type: Person
 Author referenced by host as having traced Ashkenazi origins to the Khazars and won awards for it.
@@ -732,7 +732,7 @@ Claim Timestamp: 00:00:59
 Claim: Erika Kirk delivered public remarks framing her husband's mission as continuing after his death.
 Transcript Snippet: The cries of this widow will echo around the world like a battlecry.
 Anchored Artifacts: A-1081.1
-Related Nodes: N-2, N-1, N-7, N-72, N-75, N-80, N-81, N-82, N-83, N-84
+Related Nodes: N-2, N-1, N-7, N-71, N-74, N-79, N-80, N-81, N-82, N-83
 Confidence: high
 Investigative Direction: Obtain full unedited version of Erika Kirk's remarks and compare against clip circulating on social media.
 
@@ -744,7 +744,7 @@ Claim Timestamp: 00:07:02
 Claim: Netanyahu appeared on Fox News less than 24 hours after Kirk's death to discuss him and present a letter.
 Transcript Snippet: Less than 24 hours after Charlie died, what BB Netanyahu had to say on Fox News.
 Anchored Artifacts: A-1082.1
-Related Nodes: N-66, N-1071, N-1
+Related Nodes: N-65, N-1071, N-1
 Confidence: high
 Investigative Direction: Verify timestamps of Netanyahu's two Fox News appearances relative to Kirk's death.
 
@@ -756,7 +756,7 @@ Claim Timestamp: 00:07:26
 Claim: Netanyahu claimed on Fox News that Charlie Kirk wrote him a letter on May 2 expressing support for Israel.
 Transcript Snippet: He said, One of my greatest joys as a Christian is advocating for Israel and forming alliances to defend Judeo-Christian civilization.
 Anchored Artifacts: A-1082.1, A-1083.1
-Related Nodes: N-66, N-1, N-1082
+Related Nodes: N-65, N-1, N-1082
 Confidence: high
 Investigative Direction: Obtain full text of the May 2 letter and verify against Netanyahu's quoted excerpt.
 
@@ -768,7 +768,7 @@ Claim Timestamp: 00:09:48
 Claim: Host asserts the May 2 letter actually expressed concerns about Israel influence on American politics, contradicting Netanyahu's framing.
 Transcript Snippet: Charlie was concerned about Israel and their influence on American politics and how they were pushing things that he felt were in conflict with his beliefs.
 Anchored Artifacts: A-1083.1
-Related Nodes: N-66, N-1, N-7, N-1082
+Related Nodes: N-65, N-1, N-7, N-1082
 Contradicts: C-1125
 Confidence: medium
 Uncertainty: Host's framing is an assertion; full letter text not shown in episode.
@@ -782,7 +782,7 @@ Claim Timestamp: 00:10:51
 Claim: Charlie Kirk publicly described being pressured regarding Israel criticism and event guest lists approximately one month before his death.
 Transcript Snippet: My moral character is now being put into question… they were threatening to pull out money.
 Anchored Artifacts: A-1084.1
-Related Nodes: N-1, N-76, N-50, N-69, N-1090
+Related Nodes: N-1, N-75, N-50, N-68, N-1090
 Confidence: high
 Investigative Direction: Verify exact date of Megan Kelly interview and guest list complaints.
 
@@ -794,7 +794,7 @@ Claim Timestamp: 00:15:01
 Claim: Host asserts Bill Ackman staged an intervention in the Hamptons where he pressured Kirk on Israel.
 Transcript Snippet: An intervention was staged by Bill Aman because Charlie's thoughts, Charlie's rational thoughts about Israel were a no no.
 Anchored Artifacts: A-1092.1
-Related Nodes: N-67, N-68, N-1, N-7, N-79, N-1081
+Related Nodes: N-66, N-67, N-1, N-7, N-78, N-1081
 Confidence: medium
 Uncertainty: Host says she was told; she directly challenges Ackman to dispute. No independent confirmation shown.
 Investigative Direction: Identify attendees and obtain statements from Seth Dylan and any other Hamptons meeting witnesses.
@@ -807,7 +807,7 @@ Claim Timestamp: 00:16:06
 Claim: Netanyahu called Kirk during the Hamptons meeting period and invited him to Israel.
 Transcript Snippet: It was at this time that BB Netanyahu was called and Charlie was invited to Israel.
 Anchored Artifacts: A-1082.1, A-1092.1
-Related Nodes: N-66, N-1, N-67, N-68, N-1083
+Related Nodes: N-65, N-1, N-66, N-67, N-1083
 Confidence: high
 Investigative Direction: Cross-reference Netanyahu's Fox News statement with text messages from that period.
 
@@ -819,7 +819,7 @@ Claim Timestamp: 00:17:13
 Claim: Host asserts Kirk declined the Israel trip and funding that Netanyahu and others would have provided.
 Transcript Snippet: I know for a fact that Charlie denied that funding… he declined to go to Israel.
 Anchored Artifacts: A-1082.1, A-1092.1
-Related Nodes: N-66, N-1, N-7, N-1083
+Related Nodes: N-65, N-1, N-7, N-1083
 Confidence: medium
 Uncertainty: Host asserts she knows factually; no document shown.
 Investigative Direction: Confirm with attendees or document evidence of declined invitation.
@@ -832,7 +832,7 @@ Claim Timestamp: 00:25:47
 Claim: Greta Van Susteren asked Netanyahu on air to address internet rumors that Israel was behind Kirk's assassination.
 Transcript Snippet: Some of the internet rumors that somehow Israel is behind the Charlie Kirk murder… I want you to make a statement.
 Anchored Artifacts: A-1085.1
-Related Nodes: N-74, N-66, N-1091
+Related Nodes: N-73, N-65, N-1091
 Confidence: high
 Investigative Direction: Verify full interview and surrounding context of the question.
 
@@ -844,7 +844,7 @@ Claim Timestamp: 00:28:14
 Claim: Charlie Kirk publicly stated that Jeffrey Epstein and Ghislaine/Robert Maxwell were Israeli intelligence assets running a blackmail operation.
 Transcript Snippet: Epstein with his little friend Galain and Galain's father, Robert Maxwell, who is obviously a spy of the Israeli intelligence agencies.
 Anchored Artifacts: A-1086.1
-Related Nodes: N-1, N-35, N-77, N-78, N-1080, N-1088
+Related Nodes: N-1, N-35, N-76, N-77, N-1080, N-1088
 Confidence: high
 Uncertainty: 'Galain' transcript variant for Ghislaine; 'MSAD' transcript variant for Mossad.
 Investigative Direction: Identify original source clip and verify exact wording of Kirk's commentary.
@@ -857,7 +857,7 @@ Claim Timestamp: 00:38:50
 Claim: TMZ published surveillance footage at 8:07 AM on September 10 of a man in maroon shirt walking near UVU campus.
 Transcript Snippet: At 8:07 a.m. a man wearing a maroon t-shirt and light shorts, hands in his pockets, walking outside university grounds.
 Anchored Artifacts: A-1088.1
-Related Nodes: N-1076, N-1077, N-70, N-1093, N-1089
+Related Nodes: N-1076, N-1077, N-69, N-1093, N-1089
 Confidence: high
 Investigative Direction: Obtain timestamped original TMZ footage and verify chain of custody.
 
@@ -869,7 +869,7 @@ Claim Timestamp: 00:39:36
 Claim: Governor Cox stated Robinson arrived at UVU campus at 8:29 AM in a gray Dodge Challenger wearing maroon shirt and shorts.
 Transcript Snippet: Investigators identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m.
 Anchored Artifacts: A-1089.1
-Related Nodes: N-71, N-70, N-1077, N-1089
+Related Nodes: N-70, N-69, N-1077, N-1089
 Confidence: high
 Investigative Direction: Compare Cox's statement against UVU surveillance and TMZ footage for consistency.
 
@@ -881,7 +881,7 @@ Claim Timestamp: 00:40:27
 Claim: A doorbell camera at 11:49 AM on September 10 captured the shooter in a different outfit, reportedly limping.
 Transcript Snippet: At 11:49 AM Charlie has not yet been shot. Someone who appears to be limping.
 Anchored Artifacts: A-1088.2
-Related Nodes: N-1076, N-70, N-1084
+Related Nodes: N-1076, N-69, N-1084
 Confidence: medium
 Uncertainty: Footage shown but host notes timestamp uncertainty about FBI arrival claim.
 Investigative Direction: Obtain doorbell camera source and chain of custody; verify timestamp.
@@ -907,7 +907,7 @@ Claim Timestamp: 00:18:22
 Claim: Seth Dylan and Bill Ackman have not publicly disputed host's framing of the Hamptons meeting; Seth Dylan did not respond to direct text outreach.
 Transcript Snippet: Seth Dylan who was normally very quick with a response has not yet been able to respond.
 Anchored Artifacts: A-1091.1, A-1092.1
-Related Nodes: N-68, N-67, N-7, N-1081
+Related Nodes: N-67, N-66, N-7, N-1081
 Confidence: high
 Investigative Direction: Independently verify non-response by reaching out to Seth Dylan and Bill Ackman.
 
@@ -919,7 +919,7 @@ Claim Timestamp: 00:43:37
 Claim: TMZ released footage at 12:29 PM showing a person allegedly running through a backyard after the Kirk shooting.
 Transcript Snippet: At 12:29 p.m., TMZ showing us that there's a person running through the backyard.
 Anchored Artifacts: A-1088.3
-Related Nodes: N-1076, N-70, N-1089
+Related Nodes: N-1076, N-69, N-1089
 Confidence: medium
 Uncertainty: Host notes footage is grainy; feds have not confirmed it shows Robinson.
 Investigative Direction: Obtain original TMZ footage; verify timestamp and identity of runner.
@@ -932,7 +932,7 @@ Claim Timestamp: 00:44:13
 Claim: The weapon was found in the woods wrapped in a dark towel, reportedly fully assembled in photos.
 Transcript Snippet: The weapon, they say, was found in the woods and it was wrapped by a dark towel.
 Anchored Artifacts: A-1093.1, A-1087.1
-Related Nodes: N-1079, N-70, N-73, N-1085
+Related Nodes: N-1079, N-69, N-72, N-1085
 Confidence: high
 Investigative Direction: Obtain FBI evidence photos and chain of custody for recovered rifle.
 
@@ -956,7 +956,7 @@ Claim Timestamp: 00:50:18
 Claim: Governor Cox confirmed Robinson's roommate is a biological male transitioning to female and is cooperating with authorities.
 Transcript Snippet: His roommate was indeed a boyfriend who who is transitioning from male to female… he is cooperating.
 Anchored Artifacts: A-1089.2
-Related Nodes: N-71, N-70, N-1086
+Related Nodes: N-70, N-69, N-1086
 Confidence: high
 Investigative Direction: Verify Cox's press conference transcript and corroborating FBI disclosure.
 
@@ -968,7 +968,7 @@ Claim Timestamp: 00:49:51
 Claim: Governor Cox stated that Robinson has not confessed to authorities and is not cooperating.
 Transcript Snippet: He has not confessed to authorities. He is not cooperating.
 Anchored Artifacts: A-1089.3
-Related Nodes: N-71, N-70, N-1086
+Related Nodes: N-70, N-69, N-1086
 Confidence: high
 Investigative Direction: Verify with subsequent FBI/AG press releases.
 
@@ -980,7 +980,7 @@ Claim Timestamp: 00:52:53
 Claim: Discord issued a statement saying they found no evidence that the suspect planned the incident or promoted violence on Discord.
 Transcript Snippet: Discord identified a Discord account associated with the suspect, but have found no evidence that the suspect planned this incident.
 Anchored Artifacts: A-1090.1
-Related Nodes: N-1078, N-70, N-1089
+Related Nodes: N-1078, N-69, N-1089
 Confidence: high
 Investigative Direction: Obtain full Discord statement and any subsequent updates.
 

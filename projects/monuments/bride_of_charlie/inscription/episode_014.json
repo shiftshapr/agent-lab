@@ -30,7 +30,7 @@
             "C-1206"
           ],
           "related_nodes": [
-            "N-120",
+            "N-118",
             "N-1"
           ],
           "tags": [],
@@ -47,7 +47,7 @@
             "C-1205"
           ],
           "related_nodes": [
-            "N-120",
+            "N-118",
             "N-1"
           ],
           "tags": [],
@@ -64,7 +64,7 @@
             "C-1207"
           ],
           "related_nodes": [
-            "N-120"
+            "N-118"
           ],
           "tags": [],
           "video_timestamp": "00:05:42–00:05:55",
@@ -114,7 +114,7 @@
             "C-1208"
           ],
           "related_nodes": [
-            "N-120",
+            "N-118",
             "N-1000"
           ],
           "tags": [],
@@ -131,7 +131,7 @@
             "C-1209"
           ],
           "related_nodes": [
-            "N-120",
+            "N-118",
             "N-2",
             "N-1"
           ],
@@ -187,7 +187,7 @@
             "C-1219"
           ],
           "related_nodes": [
-            "N-121",
+            "N-119",
             "N-1136"
           ],
           "tags": [],
@@ -213,9 +213,9 @@
             "C-1213"
           ],
           "related_nodes": [
-            "N-90",
-            "N-67",
-            "N-64",
+            "N-88",
+            "N-66",
+            "N-42",
             "N-1000"
           ],
           "tags": [],
@@ -240,8 +240,8 @@
             "C-1214"
           ],
           "related_nodes": [
-            "N-122",
-            "N-123",
+            "N-120",
+            "N-121",
             "N-1146"
           ],
           "tags": [],
@@ -266,8 +266,8 @@
             "C-1215"
           ],
           "related_nodes": [
-            "N-124",
-            "N-80"
+            "N-122",
+            "N-79"
           ],
           "tags": [],
           "video_timestamp": "00:46:28–00:47:52",
@@ -283,7 +283,7 @@
             "C-1216"
           ],
           "related_nodes": [
-            "N-124",
+            "N-122",
             "N-2"
           ],
           "tags": [],
@@ -308,8 +308,8 @@
             "C-1220"
           ],
           "related_nodes": [
-            "N-125",
-            "N-126",
+            "N-123",
+            "N-124",
             "N-1137",
             "N-1146"
           ],
@@ -336,8 +336,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-127",
-            "N-128"
+            "N-125",
+            "N-126"
           ],
           "tags": [],
           "video_timestamp": "00:39:19–00:39:44",
@@ -421,8 +421,8 @@
             "C-1224"
           ],
           "related_nodes": [
-            "N-70",
-            "N-108",
+            "N-69",
+            "N-106",
             "N-1138"
           ],
           "tags": [],
@@ -447,7 +447,7 @@
             "C-1225"
           ],
           "related_nodes": [
-            "N-125"
+            "N-123"
           ],
           "tags": [],
           "video_timestamp": "00:54:17–00:54:55",
@@ -471,7 +471,7 @@
             "C-1226"
           ],
           "related_nodes": [
-            "N-70"
+            "N-69"
           ],
           "tags": [],
           "video_timestamp": "00:56:34–01:01:53",
@@ -542,8 +542,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-120",
-      "ref": "N-120",
+      "@id": "N-118",
+      "ref": "N-118",
       "name": "Unidentified camera individual",
       "type": "person",
       "description": "Man seen handling camera at scene and corresponding with host; identity disclosed to host by TPUSA insider",
@@ -590,8 +590,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Accused shooter of Charlie Kirk; subject of FBI-released text chain",
@@ -612,8 +612,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-108",
-      "ref": "N-108",
+      "@id": "N-106",
+      "ref": "N-106",
       "name": "Lance",
       "type": "person",
       "description": "Robinson's partner; recipient of FBI-released text chain",
@@ -632,8 +632,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-121",
-      "ref": "N-121",
+      "@id": "N-119",
+      "ref": "N-119",
       "name": "Victoria Churchill",
       "type": "person",
       "description": "Daily Mail journalist who authored Kirk memorial snub article; alleged APAC connection",
@@ -652,8 +652,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-67",
-      "ref": "N-67",
+      "@id": "N-66",
+      "ref": "N-66",
       "name": "Bill Ackman",
       "type": "person",
       "description": "Guest on PBD podcast claiming Candace's credibility is failing",
@@ -671,9 +671,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-64",
-      "ref": "N-64",
-      "name": "Andrew Kovit",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Self-identified TPUSA board member stating he last saw Candace in 2015/2016",
       "related_artifacts": [
@@ -690,8 +690,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-90",
-      "ref": "N-90",
+      "@id": "N-88",
+      "ref": "N-88",
       "name": "Patrick Bet-David",
       "type": "person",
       "description": "Podcast host whose platform carried the Bill Aman/Kovit segment",
@@ -710,8 +710,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-122",
-      "ref": "N-122",
+      "@id": "N-120",
+      "ref": "N-120",
       "name": "Pam Bondi",
       "type": "person",
       "description": "Federal official whose hate-speech remarks are read/played in episode",
@@ -729,8 +729,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-123",
-      "ref": "N-123",
+      "@id": "N-121",
+      "ref": "N-121",
       "name": "Katie Miller",
       "type": "person",
       "description": "Podcast host who interviewed Pam Bondi on hate speech remarks",
@@ -748,8 +748,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-124",
-      "ref": "N-124",
+      "@id": "N-122",
+      "ref": "N-122",
       "name": "Jimmy Kimmel",
       "type": "person",
       "description": "Late-night host suspended over Charlie Kirk remarks",
@@ -769,8 +769,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-125",
-      "ref": "N-125",
+      "@id": "N-123",
+      "ref": "N-123",
       "name": "Chris Olsen",
       "type": "person",
       "description": "Instagram/TikTok creator who posted parody clip of Robinson-Lance text chain",
@@ -788,8 +788,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-126",
-      "ref": "N-126",
+      "@id": "N-124",
+      "ref": "N-124",
       "name": "Benny Johnson",
       "type": "person",
       "description": "Host on whose show Brendan Carr made FCC remarks",
@@ -807,8 +807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-127",
-      "ref": "N-127",
+      "@id": "N-125",
+      "ref": "N-125",
       "name": "Sarah Milgram",
       "type": "person",
       "description": "Person referenced in Charlie Kirk's May tweet as recently assassinated",
@@ -826,8 +826,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-128",
-      "ref": "N-128",
+      "@id": "N-126",
+      "ref": "N-126",
       "name": "Yuron Lachinsky",
       "type": "person",
       "description": "Person referenced in Charlie Kirk's May tweet as recently assassinated",
@@ -845,8 +845,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-129",
-      "ref": "N-129",
+      "@id": "N-127",
+      "ref": "N-127",
       "name": "Brendan Carr",
       "type": "person",
       "description": "FCC Chairman who threatened federal action against ABC affiliates carrying Kimmel",
@@ -864,8 +864,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-66",
-      "ref": "N-66",
+      "@id": "N-65",
+      "ref": "N-65",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Israeli PM; named by host as directing speech-law influence and attacks on Candace",
@@ -881,8 +881,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-101",
-      "ref": "N-101",
+      "@id": "N-99",
+      "ref": "N-99",
       "name": "Skyler",
       "type": "person",
       "description": "Host's assistant referenced during bullet-search discussion",
@@ -896,8 +896,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-76",
-      "ref": "N-76",
+      "@id": "N-75",
+      "ref": "N-75",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Commentator referenced in Charlie Kirk text exchange about Israel/free speech",
@@ -926,9 +926,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-130",
-      "ref": "N-130",
-      "name": "Eric Bolling",
+      "@id": "N-107",
+      "ref": "N-107",
+      "name": "Eric Bowling",
       "type": "person",
       "description": "Commentator referenced as having a theory about PBD/Israel coordination",
       "related_artifacts": [],
@@ -941,8 +941,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-80",
-      "ref": "N-80",
+      "@id": "N-79",
+      "ref": "N-79",
       "name": "Donald Trump",
       "type": "person",
       "description": "President; subject of Kimmel's grief jokes; accused by host of being occupied by Zionists",
@@ -960,8 +960,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-117",
-      "ref": "N-117",
+      "@id": "N-115",
+      "ref": "N-115",
       "name": "Harley Pastnic",
       "type": "person",
       "description": "Referenced as prior investigation target whose family had valve/pipe industry background",
@@ -1421,14 +1421,14 @@
         "A-1120.2"
       ],
       "related_nodes": [
-        "N-120",
+        "N-118",
         "N-1",
         "N-1143",
-        "N-101",
-        "N-76",
+        "N-99",
+        "N-75",
         "N-50",
-        "N-130",
-        "N-117"
+        "N-107",
+        "N-115"
       ],
       "tags": [],
       "claim_timestamp": "00:03:50",
@@ -1446,7 +1446,7 @@
         "A-1120.1"
       ],
       "related_nodes": [
-        "N-120",
+        "N-118",
         "N-1",
         "N-1143"
       ],
@@ -1466,7 +1466,7 @@
         "A-1120.3"
       ],
       "related_nodes": [
-        "N-120",
+        "N-118",
         "N-1143"
       ],
       "tags": [],
@@ -1485,7 +1485,7 @@
         "A-1122.1"
       ],
       "related_nodes": [
-        "N-120",
+        "N-118",
         "N-1000",
         "N-7"
       ],
@@ -1505,7 +1505,7 @@
         "A-1122.2"
       ],
       "related_nodes": [
-        "N-120",
+        "N-118",
         "N-1",
         "N-2",
         "N-1143"
@@ -1548,7 +1548,7 @@
         "A-1124.1"
       ],
       "related_nodes": [
-        "N-121",
+        "N-119",
         "N-1136"
       ],
       "tags": [],
@@ -1567,8 +1567,8 @@
         "A-1125.1"
       ],
       "related_nodes": [
-        "N-67",
-        "N-90",
+        "N-66",
+        "N-88",
         "N-7"
       ],
       "tags": [],
@@ -1587,8 +1587,8 @@
         "A-1125.1"
       ],
       "related_nodes": [
-        "N-64",
-        "N-90",
+        "N-42",
+        "N-88",
         "N-1000",
         "N-7"
       ],
@@ -1611,8 +1611,8 @@
         "A-1126.1"
       ],
       "related_nodes": [
-        "N-122",
-        "N-123",
+        "N-120",
+        "N-121",
         "N-1146"
       ],
       "tags": [],
@@ -1631,8 +1631,8 @@
         "A-1127.1"
       ],
       "related_nodes": [
-        "N-124",
-        "N-80",
+        "N-122",
+        "N-79",
         "N-1142"
       ],
       "tags": [],
@@ -1651,7 +1651,7 @@
         "A-1127.2"
       ],
       "related_nodes": [
-        "N-124",
+        "N-122",
         "N-2"
       ],
       "tags": [],
@@ -1710,7 +1710,7 @@
       "claim": "Victoria Churchill (Daily Mail) has a connection to APAC, with photos showing her at APAC events including a 2018 DC conference.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-121",
+        "N-119",
         "N-1140",
         "N-1148"
       ],
@@ -1730,8 +1730,8 @@
         "A-1128.1"
       ],
       "related_nodes": [
-        "N-129",
-        "N-126",
+        "N-127",
+        "N-124",
         "N-1137",
         "N-1139",
         "N-1146"
@@ -1753,8 +1753,8 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-127",
-        "N-128"
+        "N-125",
+        "N-126"
       ],
       "tags": [],
       "claim_timestamp": "00:39:44",
@@ -1815,8 +1815,8 @@
         "A-1131.1"
       ],
       "related_nodes": [
-        "N-70",
-        "N-108",
+        "N-69",
+        "N-106",
         "N-1138",
         "N-1144"
       ],
@@ -1836,9 +1836,9 @@
         "A-1132.1"
       ],
       "related_nodes": [
-        "N-125",
-        "N-70",
-        "N-108",
+        "N-123",
+        "N-69",
+        "N-106",
         "N-1144"
       ],
       "tags": [],
@@ -1857,7 +1857,7 @@
         "A-1133.1"
       ],
       "related_nodes": [
-        "N-70"
+        "N-69"
       ],
       "tags": [],
       "claim_timestamp": "01:01:38",
@@ -1873,7 +1873,7 @@
       "claim": "Host claims Netanyahu said on record that he was working with the U.S. government to put critics of Israel on the wrong side of the law.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-66",
+        "N-65",
         "N-1091",
         "N-1148"
       ],

@@ -30,7 +30,7 @@
             "C-1186"
           ],
           "related_nodes": [
-            "N-70",
+            "N-69",
             "N-1114",
             "N-1116"
           ],
@@ -57,9 +57,9 @@
             "C-1189"
           ],
           "related_nodes": [
-            "N-110",
-            "N-115",
-            "N-116",
+            "N-108",
+            "N-113",
+            "N-114",
             "N-1117",
             "N-1076"
           ],
@@ -79,7 +79,7 @@
             "C-1198"
           ],
           "related_nodes": [
-            "N-110",
+            "N-108",
             "N-1117"
           ],
           "tags": [],
@@ -106,9 +106,9 @@
             "C-1199"
           ],
           "related_nodes": [
-            "N-111",
-            "N-70",
-            "N-108",
+            "N-109",
+            "N-69",
+            "N-106",
             "N-1115",
             "N-1123"
           ],
@@ -135,9 +135,9 @@
             "C-1191"
           ],
           "related_nodes": [
+            "N-110",
+            "N-111",
             "N-112",
-            "N-113",
-            "N-114",
             "N-1",
             "N-1115",
             "N-1127"
@@ -165,7 +165,7 @@
             "C-1192"
           ],
           "related_nodes": [
-            "N-66",
+            "N-65",
             "N-1",
             "N-1121",
             "N-1129"
@@ -194,7 +194,7 @@
             "C-1204"
           ],
           "related_nodes": [
-            "N-109",
+            "N-107",
             "N-1",
             "N-50",
             "N-1124",
@@ -225,7 +225,7 @@
             "C-1194"
           ],
           "related_nodes": [
-            "N-67",
+            "N-66",
             "N-1",
             "N-1121"
           ],
@@ -279,7 +279,7 @@
             "C-1196"
           ],
           "related_nodes": [
-            "N-70",
+            "N-69",
             "N-1113"
           ],
           "tags": [],
@@ -343,8 +343,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Named suspect in Kirk assassination; subject of outfit/language/photo anomalies.",
@@ -369,8 +369,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-108",
-      "ref": "N-108",
+      "@id": "N-106",
+      "ref": "N-106",
       "name": "Lance",
       "type": "person",
       "description": "Robinson's alleged housemate/co-respondent in the text-message thread.",
@@ -387,8 +387,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-66",
-      "ref": "N-66",
+      "@id": "N-65",
+      "ref": "N-65",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Israeli PM; issued video statement denying Israeli involvement in Kirk's murder.",
@@ -406,8 +406,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-67",
-      "ref": "N-67",
+      "@id": "N-66",
+      "ref": "N-66",
       "name": "Bill Ackman",
       "type": "person",
       "description": "Released text messages with Kirk to rebut Owens's Hamptons claims; host notes messages lack dates/context.",
@@ -425,8 +425,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-109",
-      "ref": "N-109",
+      "@id": "N-107",
+      "ref": "N-107",
       "name": "Eric Bowling",
       "type": "person",
       "description": "PBD Podcast guest who claimed Owens has not been at TPUSA events for years and described a 'quiet breakup' with Kirk.",
@@ -445,8 +445,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-110",
-      "ref": "N-110",
+      "@id": "N-108",
+      "ref": "N-108",
       "name": "Irwin Steel",
       "type": "person",
       "description": "Local resident interviewed the morning after the shooting; said he shared camera footage with authorities.",
@@ -465,8 +465,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-111",
-      "ref": "N-111",
+      "@id": "N-109",
+      "ref": "N-109",
       "name": "Sherry Steel",
       "type": "person",
       "description": "Witness quoted by BBC re police presence at Robinson townhouse; host reports she is unverifiable in building databases.",
@@ -485,8 +485,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-112",
-      "ref": "N-112",
+      "@id": "N-110",
+      "ref": "N-110",
       "name": "Tiffany Barker",
       "type": "person",
       "description": "Aunt of two child witnesses; gave GMA interview alongside L Steel and Mia Grant.",
@@ -504,8 +504,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-113",
-      "ref": "N-113",
+      "@id": "N-111",
+      "ref": "N-111",
       "name": "L Steel",
       "type": "person",
       "description": "Minor child witness; described hearing the shot and seeing Charlie Kirk fall on GMA.",
@@ -523,8 +523,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-114",
-      "ref": "N-114",
+      "@id": "N-112",
+      "ref": "N-112",
       "name": "Mia Grant",
       "type": "person",
       "description": "Minor child witness; second cousin of L Steel; spoke on GMA about being ~15 ft away.",
@@ -542,8 +542,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-115",
-      "ref": "N-115",
+      "@id": "N-113",
+      "ref": "N-113",
       "name": "Samuel Steele",
       "type": "person",
       "description": "Co-owner of the house that produced the doorbell-camera footage (per host's property search).",
@@ -562,8 +562,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-116",
-      "ref": "N-116",
+      "@id": "N-114",
+      "ref": "N-114",
       "name": "Carrie Steele",
       "type": "person",
       "description": "Wife of Samuel Steele per host; co-owner of the doorbell-camera house.",
@@ -582,8 +582,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-117",
-      "ref": "N-117",
+      "@id": "N-115",
+      "ref": "N-115",
       "name": "Harley Pastnic",
       "type": "person",
       "description": "Canadian subject of prior Owens research whose family is in the piping/valve business — cited as a pattern match.",
@@ -597,8 +597,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-118",
-      "ref": "N-118",
+      "@id": "N-116",
+      "ref": "N-116",
       "name": "Joseph Goebbels",
       "type": "person",
       "description": "Historical Nazi propagandist quoted by Netanyahu (and re-cited by host) re 'the bigger the lie'.",
@@ -648,9 +648,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-64",
-      "ref": "N-64",
-      "name": "Andrew Kovit",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Referenced by Bowling as 'in the room' at a Hamptons retreat; Owens disputes this characterization.",
       "related_artifacts": [
@@ -667,8 +667,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-119",
-      "ref": "N-119",
+      "@id": "N-117",
+      "ref": "N-117",
       "name": "Brigitte Macron",
       "type": "person",
       "description": "French First Lady reportedly suing Owens; host disputes the legal posture.",
@@ -1144,13 +1144,13 @@
         "A-1111.1"
       ],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1116",
         "N-1128",
         "N-1077",
-        "N-117",
-        "N-118",
-        "N-119"
+        "N-115",
+        "N-116",
+        "N-117"
       ],
       "tags": [],
       "claim_timestamp": "00:06:54",
@@ -1166,8 +1166,8 @@
       "claim": "The text exchange between Tyler Robinson and 'Lance' contains the word 'outfits', which the host argues is gender-marked language atypical of a male shooter.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-70",
-        "N-108",
+        "N-69",
+        "N-106",
         "N-1114"
       ],
       "tags": [],
@@ -1185,8 +1185,8 @@
       "claim": "The text exchange between Tyler Robinson and 'Lance' describes seeing a 'squad car' near the rifle, which the host argues is insider language.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-70",
-        "N-108",
+        "N-69",
+        "N-106",
         "N-1114"
       ],
       "tags": [],
@@ -1207,9 +1207,9 @@
         "A-1112.2"
       ],
       "related_nodes": [
-        "N-110",
-        "N-115",
-        "N-116",
+        "N-108",
+        "N-113",
+        "N-114",
         "N-1076",
         "N-1128",
         "N-1115",
@@ -1231,8 +1231,8 @@
         "A-1113.1"
       ],
       "related_nodes": [
-        "N-111",
-        "N-70",
+        "N-109",
+        "N-69",
         "N-1123",
         "N-1115"
       ],
@@ -1252,9 +1252,9 @@
         "A-1114.1"
       ],
       "related_nodes": [
+        "N-110",
+        "N-111",
         "N-112",
-        "N-113",
-        "N-114",
         "N-1",
         "N-1077",
         "N-1125",
@@ -1276,7 +1276,7 @@
         "A-1115.1"
       ],
       "related_nodes": [
-        "N-66",
+        "N-65",
         "N-1",
         "N-1121",
         "N-1091"
@@ -1297,7 +1297,7 @@
         "A-1116.1"
       ],
       "related_nodes": [
-        "N-109",
+        "N-107",
         "N-7",
         "N-1124",
         "N-1000",
@@ -1323,7 +1323,7 @@
         "A-1117.1"
       ],
       "related_nodes": [
-        "N-67",
+        "N-66",
         "N-7",
         "N-1",
         "N-1092",
@@ -1365,7 +1365,7 @@
         "A-1119.1"
       ],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1113"
       ],
       "tags": [],
@@ -1382,7 +1382,7 @@
       "claim": "A local source told the host that the rifle was recovered by a chicken coop in a suburban backyard, not in a wooded area as federal accounts suggest.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1077",
         "N-1118"
       ],
@@ -1401,7 +1401,7 @@
       "claim": "Locals theorise that a vacant house next door to the gun-recovery site is owned by Utah Valley University and served as the real shooter's safe house, with Robinson acting as a decoy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1077",
         "N-1128",
         "N-1118"
@@ -1420,7 +1420,7 @@
       "claim": "The host's team searched local databases for a 'Sherry Steel' at the apartment complex and contacted Robinson's family; no matching resident was located.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-111",
+        "N-109",
         "N-1115"
       ],
       "tags": [],
@@ -1493,9 +1493,9 @@
       "claim": "Property records show that the house whose footage appeared on TMZ is owned by Samuel Steele, his wife Carrie, and Irwin Steel — not Irwin Steel alone.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-110",
-        "N-115",
-        "N-116",
+        "N-108",
+        "N-113",
+        "N-114",
         "N-1115",
         "N-1117",
         "N-1128"
@@ -1516,10 +1516,10 @@
         "A-1116.1"
       ],
       "related_nodes": [
-        "N-109",
+        "N-107",
         "N-7",
         "N-50",
-        "N-64",
+        "N-42",
         "N-1000",
         "N-1121"
       ],
@@ -1595,7 +1595,7 @@
         {
           "episode": 13,
           "video_timestamp": "00:41:01",
-          "speaker_node_ref": "N-66",
+          "speaker_node_ref": "N-65",
           "quote": "He told me so in a letter that he sent me just a few months ago. One of my greatest joys as a Christian, he said, is advocating for Israel.",
           "context": "Netanyahu reads Kirk letter that reframes Christian Zionism as Kirk's central political identity.",
           "confidence": "high",
@@ -1607,7 +1607,7 @@
         {
           "episode": 13,
           "video_timestamp": "00:41:28",
-          "speaker_node_ref": "N-66",
+          "speaker_node_ref": "N-65",
           "quote": "He told me, 'The Holy Land is so important to my life, it pains me to see support for Israel slip away.'",
           "context": "Quote deployed to bind Kirk's Christian identity to Israeli state interests.",
           "confidence": "high",
@@ -1627,7 +1627,7 @@
         {
           "episode": 13,
           "video_timestamp": "00:40:49",
-          "speaker_node_ref": "N-66",
+          "speaker_node_ref": "N-65",
           "quote": "while somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder. This is insane.",
           "context": "Netanyahu labels the rumor 'insane / monstrous big lie' — canonical conspiracy-theorist deflection deployed against Owens and others.",
           "confidence": "medium",

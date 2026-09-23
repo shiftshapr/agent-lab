@@ -32,9 +32,9 @@
           ],
           "related_nodes": [
             "N-7",
+            "N-110",
+            "N-111",
             "N-112",
-            "N-113",
-            "N-114",
             "N-1"
           ],
           "tags": [],
@@ -60,9 +60,9 @@
             "C-1247"
           ],
           "related_nodes": [
-            "N-112",
-            "N-113",
-            "N-114"
+            "N-110",
+            "N-111",
+            "N-112"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -88,7 +88,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-72"
+            "N-71"
           ],
           "tags": [],
           "video_timestamp": "00:12:15–00:13:29",
@@ -104,7 +104,7 @@
             "C-1249"
           ],
           "related_nodes": [
-            "N-72"
+            "N-71"
           ],
           "tags": [],
           "video_timestamp": "00:14:36–00:15:39",
@@ -120,7 +120,7 @@
             "C-1248"
           ],
           "related_nodes": [
-            "N-72",
+            "N-71",
             "N-1"
           ],
           "tags": [],
@@ -137,7 +137,7 @@
             "C-1250"
           ],
           "related_nodes": [
-            "N-72",
+            "N-71",
             "N-1000"
           ],
           "tags": [],
@@ -186,7 +186,7 @@
             "C-1252"
           ],
           "related_nodes": [
-            "N-141"
+            "N-136"
           ],
           "tags": [],
           "video_timestamp": "00:22:22–00:22:36",
@@ -210,7 +210,7 @@
             "C-1254"
           ],
           "related_nodes": [
-            "N-138",
+            "N-42",
             "N-1",
             "N-2"
           ],
@@ -229,7 +229,7 @@
             "C-1256"
           ],
           "related_nodes": [
-            "N-138",
+            "N-42",
             "N-1"
           ],
           "tags": [],
@@ -246,7 +246,7 @@
             "C-1257"
           ],
           "related_nodes": [
-            "N-138",
+            "N-42",
             "N-1000"
           ],
           "tags": [],
@@ -263,7 +263,7 @@
             "C-1258"
           ],
           "related_nodes": [
-            "N-138",
+            "N-42",
             "N-1",
             "N-50"
           ],
@@ -315,7 +315,7 @@
             "C-1260"
           ],
           "related_nodes": [
-            "N-80"
+            "N-79"
           ],
           "tags": [],
           "video_timestamp": "01:01:02–01:02:30",
@@ -341,7 +341,7 @@
           ],
           "related_nodes": [
             "N-1165",
-            "N-70"
+            "N-69"
           ],
           "tags": [],
           "video_timestamp": "00:30:47–00:31:32",
@@ -410,8 +410,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-112",
-      "ref": "N-112",
+      "@id": "N-110",
+      "ref": "N-110",
       "name": "Tiffany Barker",
       "type": "person",
       "description": "Family member who appeared on GMA and posted a follow-up video explaining the artery remark.",
@@ -433,8 +433,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-113",
-      "ref": "N-113",
+      "@id": "N-111",
+      "ref": "N-111",
       "name": "L Steel",
       "type": "person",
       "description": "Tiffany Barker's niece; spoke on the GMA segment about the shooting.",
@@ -454,8 +454,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-114",
-      "ref": "N-114",
+      "@id": "N-112",
+      "ref": "N-112",
       "name": "Mia Grant",
       "type": "person",
       "description": "Tiffany Barker's niece; spoke on the GMA segment about the shooting.",
@@ -475,8 +475,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-72",
-      "ref": "N-72",
+      "@id": "N-71",
+      "ref": "N-71",
       "name": "George Zinn",
       "type": "person",
       "description": "Arrested shortly after the shooting; timeline and location analyzed by host.",
@@ -499,9 +499,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-138",
-      "ref": "N-138",
-      "name": "Andrew Kovace",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "PR agent for Turning Point USA; sat down with Alex Clark to address rumors.",
       "related_artifacts": [
@@ -524,8 +524,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-139",
-      "ref": "N-139",
+      "@id": "N-135",
+      "ref": "N-135",
       "name": "Alex Clark",
       "type": "person",
       "description": "Podcast host who interviewed Andrew Kovette; clip excerpts played.",
@@ -563,9 +563,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-140",
-      "ref": "N-140",
-      "name": "Phil Leman",
+      "@id": "N-92",
+      "ref": "N-92",
+      "name": "Phil Lyman",
       "type": "person",
       "description": "Utah Lt. Gov. candidate; per host, the GMA connection was routed through his campaign to Tiffany Barker.",
       "related_artifacts": [
@@ -583,8 +583,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-141",
-      "ref": "N-141",
+      "@id": "N-136",
+      "ref": "N-136",
       "name": "Aaron",
       "type": "person",
       "description": "Person who handed the host's ground contact a Chicago phone number tied to the roof video chain.",
@@ -602,8 +602,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "FBI-named suspect whose description (jeans, flag shirt) is contested by the rooftop eyewitness.",
@@ -623,8 +623,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-142",
-      "ref": "N-142",
+      "@id": "N-137",
+      "ref": "N-137",
       "name": "Charlie Skyler",
       "type": "person",
       "description": "Production team member referenced while pulling the timeline graphic on screen.",
@@ -640,8 +640,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-104",
-      "ref": "N-104",
+      "@id": "N-102",
+      "ref": "N-102",
       "name": "Kash Patel",
       "type": "person",
       "description": "Referenced via prior tweet suggesting more parties involved than Robinson alone.",
@@ -657,8 +657,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-143",
-      "ref": "N-143",
+      "@id": "N-138",
+      "ref": "N-138",
       "name": "Michael Nolles",
       "type": "person",
       "description": "Catholic debate partner of Charlie Kirk referenced by Kovette.",
@@ -674,8 +674,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-80",
-      "ref": "N-80",
+      "@id": "N-79",
+      "ref": "N-79",
       "name": "Donald Trump",
       "type": "person",
       "description": "President; audio statement on MMR separation and Hepatitis B delay played in the episode.",
@@ -693,8 +693,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-144",
-      "ref": "N-144",
+      "@id": "N-139",
+      "ref": "N-139",
       "name": "John Heinchell",
       "type": "person",
       "description": "Commenter noting Charlie's anti-genocide/Netanyahu stance had shifted pre-assassination.",
@@ -708,8 +708,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-145",
-      "ref": "N-145",
+      "@id": "N-140",
+      "ref": "N-140",
       "name": "Jenna V",
       "type": "person",
       "description": "Commenter thanking host and recalling mutual support with Charlie.",
@@ -723,8 +723,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-146",
-      "ref": "N-146",
+      "@id": "N-141",
+      "ref": "N-141",
       "name": "Tempes",
       "type": "person",
       "description": "Commenter on Charlie's spiritual status.",
@@ -738,8 +738,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-147",
-      "ref": "N-147",
+      "@id": "N-142",
+      "ref": "N-142",
       "name": "Carl",
       "type": "person",
       "description": "Commenter thanking host for questioning the establishment.",
@@ -753,8 +753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-148",
-      "ref": "N-148",
+      "@id": "N-143",
+      "ref": "N-143",
       "name": "Mary Kelly",
       "type": "person",
       "description": "Commenter praying via Flame of Love rosaries.",
@@ -768,8 +768,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-149",
-      "ref": "N-149",
+      "@id": "N-144",
+      "ref": "N-144",
       "name": "Chris",
       "type": "person",
       "description": "Commenter asking who paid for the rapid crime-scene paver installation.",
@@ -785,8 +785,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-150",
-      "ref": "N-150",
+      "@id": "N-145",
+      "ref": "N-145",
       "name": "MC",
       "type": "person",
       "description": "Commenter quoting police scanner description (jeans, black shirt, mask, vest, rifle).",
@@ -802,8 +802,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-151",
-      "ref": "N-151",
+      "@id": "N-146",
+      "ref": "N-146",
       "name": "Milana",
       "type": "person",
       "description": "Commenter asking about homeschooling curriculum.",
@@ -817,8 +817,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-152",
-      "ref": "N-152",
+      "@id": "N-147",
+      "ref": "N-147",
       "name": "Lover of Light",
       "type": "person",
       "description": "Commenter asking host to share personal stories.",
@@ -832,8 +832,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-67",
-      "ref": "N-67",
+      "@id": "N-66",
+      "ref": "N-66",
       "name": "Bill Ackman",
       "type": "person",
       "description": "TPUSA donor referenced as possibly funneling foreign-agent money.",
@@ -851,9 +851,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-153",
-      "ref": "N-153",
-      "name": "Bob Schman",
+      "@id": "N-134",
+      "ref": "N-134",
+      "name": "Bob Shaman",
       "type": "person",
       "description": "TPUSA donor referenced in same FARA-suspicion chain.",
       "related_artifacts": [
@@ -1336,19 +1336,19 @@
         "A-1146.1"
       ],
       "related_nodes": [
-        "N-112",
-        "N-140",
+        "N-110",
+        "N-92",
         "N-1125",
         "N-1150",
         "N-1161",
+        "N-137",
+        "N-138",
+        "N-139",
+        "N-140",
+        "N-141",
         "N-142",
         "N-143",
-        "N-144",
-        "N-145",
-        "N-146",
-        "N-147",
-        "N-148",
-        "N-151"
+        "N-146"
       ],
       "tags": [],
       "claim_timestamp": "00:10:11",
@@ -1366,9 +1366,9 @@
         "A-1146.1"
       ],
       "related_nodes": [
+        "N-110",
+        "N-111",
         "N-112",
-        "N-113",
-        "N-114",
         "N-1",
         "N-1162"
       ],
@@ -1388,9 +1388,9 @@
         "A-1147.1"
       ],
       "related_nodes": [
+        "N-110",
+        "N-111",
         "N-112",
-        "N-113",
-        "N-114",
         "N-1162"
       ],
       "tags": [],
@@ -1411,7 +1411,7 @@
         "A-1148.4"
       ],
       "related_nodes": [
-        "N-72",
+        "N-71",
         "N-1",
         "N-1163"
       ],
@@ -1431,7 +1431,7 @@
         "A-1148.2"
       ],
       "related_nodes": [
-        "N-72",
+        "N-71",
         "N-1163"
       ],
       "tags": [],
@@ -1450,7 +1450,7 @@
         "A-1148.4"
       ],
       "related_nodes": [
-        "N-72",
+        "N-71",
         "N-1000",
         "N-1161"
       ],
@@ -1489,7 +1489,7 @@
         "A-1150.1"
       ],
       "related_nodes": [
-        "N-141",
+        "N-136",
         "N-1077",
         "N-1159",
         "N-1164"
@@ -1510,7 +1510,7 @@
         "A-1154.1"
       ],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1138",
         "N-1165"
       ],
@@ -1533,10 +1533,10 @@
         "A-1154.1"
       ],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1138",
         "N-1165",
-        "N-152"
+        "N-147"
       ],
       "tags": [],
       "claim_timestamp": "00:30:37",
@@ -1554,11 +1554,11 @@
         "A-1151.1"
       ],
       "related_nodes": [
-        "N-138",
+        "N-42",
         "N-1",
         "N-2",
         "N-1170",
-        "N-139"
+        "N-135"
       ],
       "tags": [],
       "claim_timestamp": "00:40:47",
@@ -1576,10 +1576,10 @@
         "A-1151.2"
       ],
       "related_nodes": [
-        "N-138",
+        "N-42",
         "N-1",
-        "N-67",
-        "N-153",
+        "N-66",
+        "N-134",
         "N-1171"
       ],
       "tags": [],
@@ -1598,7 +1598,7 @@
         "A-1151.3"
       ],
       "related_nodes": [
-        "N-138",
+        "N-42",
         "N-1000",
         "N-1166"
       ],
@@ -1619,7 +1619,7 @@
         "A-1152.1"
       ],
       "related_nodes": [
-        "N-138",
+        "N-42",
         "N-1",
         "N-50",
         "N-7",
@@ -1661,7 +1661,7 @@
         "A-1153.1"
       ],
       "related_nodes": [
-        "N-80"
+        "N-79"
       ],
       "tags": [],
       "claim_timestamp": "01:01:02",
@@ -1679,8 +1679,8 @@
         "A-1146.1"
       ],
       "related_nodes": [
-        "N-112",
-        "N-140"
+        "N-110",
+        "N-92"
       ],
       "tags": [],
       "claim_timestamp": "00:10:11",
@@ -1697,8 +1697,8 @@
       "claim": "Host cites Kash Patel's recent tweet/thread as conceding that the public FBI narrative does not add up and that more parties are likely involved.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-104",
-        "N-70",
+        "N-102",
+        "N-69",
         "N-1138",
         "N-1165"
       ],
@@ -1716,7 +1716,7 @@
       "claim": "Commenter Chris asks who paid for the rapid paver installation at the crime scene; host flags it as an open path to pursue.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-149",
+        "N-144",
         "N-1077",
         "N-1173"
       ],
@@ -1734,7 +1734,7 @@
       "claim": "Commenter MC states a police scanner call right after the shooting described a shooter wearing jeans, a black shirt, black mask, and black vest carrying a long rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-150",
+        "N-145",
         "N-1138",
         "N-1174"
       ],
@@ -1821,7 +1821,7 @@
         {
           "episode": 16,
           "video_timestamp": "00:41:01",
-          "speaker_node_ref": "N-138",
+          "speaker_node_ref": "N-42",
           "quote": "I grew up Catholic and first communion and went to Catholic high school, but then I ended up becoming a Christian in college... Erika kind of follows that same path",
           "context": "Kovette maps Erika's cradle-Catholic-to-Protestant arc to neutralize the conversion framing.",
           "confidence": "high",

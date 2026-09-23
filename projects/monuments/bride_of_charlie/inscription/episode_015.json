@@ -97,7 +97,7 @@
             "C-1231"
           ],
           "related_nodes": [
-            "N-131"
+            "N-128"
           ],
           "tags": [],
           "video_timestamp": "00:14:32–00:15:45",
@@ -122,7 +122,7 @@
             "C-1233"
           ],
           "related_nodes": [
-            "N-104",
+            "N-102",
             "N-1138"
           ],
           "tags": [],
@@ -147,7 +147,7 @@
             "C-1233"
           ],
           "related_nodes": [
-            "N-132",
+            "N-129",
             "N-1138",
             "N-1151"
           ],
@@ -229,7 +229,7 @@
             "C-1236"
           ],
           "related_nodes": [
-            "N-93",
+            "N-91",
             "N-1126"
           ],
           "tags": [],
@@ -254,7 +254,7 @@
             "C-1237"
           ],
           "related_nodes": [
-            "N-135",
+            "N-132",
             "N-1"
           ],
           "tags": [],
@@ -396,7 +396,7 @@
             "C-1243"
           ],
           "related_nodes": [
-            "N-70"
+            "N-69"
           ],
           "tags": [],
           "video_timestamp": "01:07:06–01:07:37",
@@ -411,7 +411,7 @@
             "C-1244"
           ],
           "related_nodes": [
-            "N-134"
+            "N-131"
           ],
           "tags": [],
           "video_timestamp": "01:07:52–01:08:49",
@@ -494,8 +494,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-104",
-      "ref": "N-104",
+      "@id": "N-102",
+      "ref": "N-102",
       "name": "Kash Patel",
       "type": "person",
       "description": "FBI Director who issued the official investigation tweet.",
@@ -553,8 +553,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-131",
-      "ref": "N-131",
+      "@id": "N-128",
+      "ref": "N-128",
       "name": "Alex Jones",
       "type": "person",
       "description": "Commentator who responded to Kolvet statement on X Live.",
@@ -572,8 +572,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-93",
-      "ref": "N-93",
+      "@id": "N-91",
+      "ref": "N-91",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Commentator who filed CIA complaint about Candace's merch.",
@@ -591,8 +591,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-132",
-      "ref": "N-132",
+      "@id": "N-129",
+      "ref": "N-129",
       "name": "Derek Maxfield",
       "type": "person",
       "description": "Owner of plane allegedly near shooting site; disputed FBI transponder claim.",
@@ -610,8 +610,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Alleged shooter of Charlie Kirk; subject of investigation.",
@@ -629,8 +629,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-72",
-      "ref": "N-72",
+      "@id": "N-71",
+      "ref": "N-71",
       "name": "George Zinn",
       "type": "person",
       "description": "Individual located in crowd whose path host found suspicious.",
@@ -644,8 +644,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-130",
+      "ref": "N-130",
       "name": "Jack Posobiec",
       "type": "person",
       "description": "Commentator and former Navy intelligence officer; defended by host.",
@@ -659,8 +659,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-134",
-      "ref": "N-134",
+      "@id": "N-131",
+      "ref": "N-131",
       "name": "Frank Turk",
       "type": "person",
       "description": "Dr. who spoke at memorial; viewer raised suspicions about him.",
@@ -678,8 +678,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-135",
-      "ref": "N-135",
+      "@id": "N-132",
+      "ref": "N-132",
       "name": "Awesome Jew",
       "type": "person",
       "description": "X account that released Charlie Kirk text messages.",
@@ -717,8 +717,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-136",
-      "ref": "N-136",
+      "@id": "N-133",
+      "ref": "N-133",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Daily Wire figure referenced re firing Candace.",
@@ -732,8 +732,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-67",
-      "ref": "N-67",
+      "@id": "N-66",
+      "ref": "N-66",
       "name": "Bill Ackman",
       "type": "person",
       "description": "Referenced as part of Hamptons group also with Awesome Jew.",
@@ -747,8 +747,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-137",
-      "ref": "N-137",
+      "@id": "N-134",
+      "ref": "N-134",
       "name": "Bob Shaman",
       "type": "person",
       "description": "Donor alleged to have withdrawn millions from TPUSA.",
@@ -762,8 +762,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-66",
-      "ref": "N-66",
+      "@id": "N-65",
+      "ref": "N-65",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Israeli PM alleged to have offered Charlie Kirk funding.",
@@ -1065,11 +1065,11 @@
       "related_nodes": [
         "N-2",
         "N-1",
-        "N-72",
+        "N-71",
+        "N-130",
         "N-133",
-        "N-136",
-        "N-67",
-        "N-137"
+        "N-66",
+        "N-134"
       ],
       "tags": [],
       "claim_timestamp": "00:00:37",
@@ -1123,7 +1123,7 @@
         "A-1136.1"
       ],
       "related_nodes": [
-        "N-131",
+        "N-128",
         "N-1152"
       ],
       "tags": [],
@@ -1141,7 +1141,7 @@
         "A-1137.1"
       ],
       "related_nodes": [
-        "N-104",
+        "N-102",
         "N-1138"
       ],
       "tags": [],
@@ -1160,8 +1160,8 @@
         "A-1138.1"
       ],
       "related_nodes": [
-        "N-104",
-        "N-132",
+        "N-102",
+        "N-129",
         "N-1138",
         "N-1151",
         "N-1153"
@@ -1219,7 +1219,7 @@
         "A-1140.1"
       ],
       "related_nodes": [
-        "N-93",
+        "N-91",
         "N-7",
         "N-1126",
         "N-1155"
@@ -1240,7 +1240,7 @@
         "A-1141.2"
       ],
       "related_nodes": [
-        "N-135",
+        "N-132",
         "N-1",
         "N-7",
         "N-1156"
@@ -1301,7 +1301,7 @@
       "related_nodes": [
         "N-1",
         "N-1149",
-        "N-66"
+        "N-65"
       ],
       "tags": [],
       "claim_timestamp": "00:45:14",
@@ -1354,7 +1354,7 @@
         "A-1145.1"
       ],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1157"
       ],
       "tags": [],
@@ -1372,7 +1372,7 @@
         "A-1145.2"
       ],
       "related_nodes": [
-        "N-134",
+        "N-131",
         "N-1158"
       ],
       "tags": [],

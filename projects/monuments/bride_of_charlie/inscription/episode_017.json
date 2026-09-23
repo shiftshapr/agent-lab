@@ -33,7 +33,7 @@
           "related_nodes": [
             "N-1",
             "N-7",
-            "N-102"
+            "N-100"
           ],
           "tags": [],
           "video_timestamp": "00:12:01–00:12:38",
@@ -50,8 +50,8 @@
           ],
           "related_nodes": [
             "N-7",
-            "N-102",
-            "N-163",
+            "N-100",
+            "N-157",
             "N-1179"
           ],
           "tags": [],
@@ -76,7 +76,7 @@
             "C-1270"
           ],
           "related_nodes": [
-            "N-154",
+            "N-148",
             "N-1186",
             "N-1177"
           ],
@@ -94,7 +94,7 @@
             "C-1271"
           ],
           "related_nodes": [
-            "N-154"
+            "N-148"
           ],
           "tags": [],
           "video_timestamp": "00:28:42–00:29:15",
@@ -110,7 +110,7 @@
             "C-1272"
           ],
           "related_nodes": [
-            "N-154",
+            "N-148",
             "N-1186"
           ],
           "tags": [],
@@ -127,7 +127,7 @@
             "C-1273"
           ],
           "related_nodes": [
-            "N-154",
+            "N-148",
             "N-1177"
           ],
           "tags": [],
@@ -153,7 +153,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-76",
+            "N-75",
             "N-1188",
             "N-1204",
             "N-1183"
@@ -181,12 +181,12 @@
           ],
           "related_nodes": [
             "N-7",
-            "N-124",
-            "N-156",
-            "N-136",
-            "N-157",
-            "N-158",
-            "N-159",
+            "N-122",
+            "N-150",
+            "N-133",
+            "N-151",
+            "N-152",
+            "N-153",
             "N-1185"
           ],
           "tags": [],
@@ -261,8 +261,8 @@
             "C-1278"
           ],
           "related_nodes": [
-            "N-70",
-            "N-165",
+            "N-69",
+            "N-159",
             "N-1176"
           ],
           "tags": [],
@@ -323,8 +323,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-154",
-      "ref": "N-154",
+      "@id": "N-148",
+      "ref": "N-148",
       "name": "Thomas Matthew Crooks",
       "type": "person",
       "description": "July 13, 2024 Trump-rally rooftop shooter; subject of scraped online-history doc.",
@@ -348,8 +348,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Defendant in Charlie Kirk case; per host, no video of firing, no confession, fragmented bullet.",
@@ -391,8 +391,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-80",
-      "ref": "N-80",
+      "@id": "N-79",
+      "ref": "N-79",
       "name": "Donald Trump",
       "type": "person",
       "description": "Target of July 13, 2024 Crooks attempt; referenced re Iran narrative.",
@@ -406,8 +406,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-155",
-      "ref": "N-155",
+      "@id": "N-149",
+      "ref": "N-149",
       "name": "Corey Comperatore",
       "type": "person",
       "description": "Firefighter killed shielding family at July 13, 2024 Trump rally.",
@@ -421,8 +421,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-76",
-      "ref": "N-76",
+      "@id": "N-75",
+      "ref": "N-75",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Host of segment on Jezebel/Etsy hex against Charlie Kirk.",
@@ -440,8 +440,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-124",
-      "ref": "N-124",
+      "@id": "N-122",
+      "ref": "N-122",
       "name": "Jimmy Kimmel",
       "type": "person",
       "description": "Late-night host; monologue thanking right-wing free-speech defenders.",
@@ -459,8 +459,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-156",
-      "ref": "N-156",
+      "@id": "N-150",
+      "ref": "N-150",
       "name": "Ted Cruz",
       "type": "person",
       "description": "Cited by Kimmel for free-speech defense.",
@@ -478,8 +478,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-136",
-      "ref": "N-136",
+      "@id": "N-133",
+      "ref": "N-133",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Cited by Kimmel.",
@@ -497,8 +497,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-157",
-      "ref": "N-157",
+      "@id": "N-151",
+      "ref": "N-151",
       "name": "Clay Travis",
       "type": "person",
       "description": "Cited by Kimmel.",
@@ -516,8 +516,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-158",
-      "ref": "N-158",
+      "@id": "N-152",
+      "ref": "N-152",
       "name": "Mitch McConnell",
       "type": "person",
       "description": "Cited by Kimmel.",
@@ -535,8 +535,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-159",
-      "ref": "N-159",
+      "@id": "N-153",
+      "ref": "N-153",
       "name": "Rand Paul",
       "type": "person",
       "description": "Cited by Kimmel.",
@@ -554,8 +554,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-154",
+      "ref": "N-154",
       "name": "Thomas Sowell",
       "type": "person",
       "description": "Author of 'Inside the American Education System' recommended by host.",
@@ -569,8 +569,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-155",
+      "ref": "N-155",
       "name": "Margarethe Schurz",
       "type": "person",
       "description": "Credited by host with establishing kindergarten in US (1848 communists).",
@@ -584,8 +584,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-81",
-      "ref": "N-81",
+      "@id": "N-80",
+      "ref": "N-80",
       "name": "Sigmund Freud",
       "type": "person",
       "description": "Referenced in book-club discussion of psychoanalytic community origins.",
@@ -599,8 +599,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-156",
+      "ref": "N-156",
       "name": "C.S. Lewis",
       "type": "person",
       "description": "Referenced for concept of 'scientism'.",
@@ -614,8 +614,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-100",
+      "ref": "N-100",
       "name": "Candace Owens' Husband",
       "type": "person",
       "description": "Unnamed spouse; met via UK trip 18 days before engagement.",
@@ -636,8 +636,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-163",
-      "ref": "N-163",
+      "@id": "N-157",
+      "ref": "N-157",
       "name": "Candace Owens' Sister",
       "type": "person",
       "description": "First in family to homeschool; recipient of bee-warning text.",
@@ -655,8 +655,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-101",
-      "ref": "N-101",
+      "@id": "N-99",
+      "ref": "N-99",
       "name": "Skyler",
       "type": "person",
       "description": "Producer who corrects promo code on-air (Blackout15).",
@@ -670,8 +670,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-164",
-      "ref": "N-164",
+      "@id": "N-158",
+      "ref": "N-158",
       "name": "Warwick Spiller",
       "type": "person",
       "description": "Commenter correcting Church name; explains beehive = work-for-Christ.",
@@ -685,8 +685,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-165",
-      "ref": "N-165",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Natalie",
       "type": "person",
       "description": "Listener who tipped unverified video of Tyler Robinson with a woman.",
@@ -704,8 +704,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-166",
-      "ref": "N-166",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Reagan (commenter)",
       "type": "person",
       "description": "Former teacher; requests education-system reading recommendations.",
@@ -719,8 +719,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-167",
-      "ref": "N-167",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Recovery Recon (commenter)",
       "type": "person",
       "description": "Raises FBI photo-release discrepancy between ICE Dallas and Charlie Kirk case.",
@@ -734,8 +734,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-168",
-      "ref": "N-168",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Aravik (commenter)",
       "type": "person",
       "description": "Commenter praising host's investigation.",
@@ -749,8 +749,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-169",
-      "ref": "N-169",
+      "@id": "N-163",
+      "ref": "N-163",
       "name": "Lighthouse (commenter)",
       "type": "person",
       "description": "Commenter defending Erika Kirk's grief response.",
@@ -764,8 +764,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-170",
-      "ref": "N-170",
+      "@id": "N-164",
+      "ref": "N-164",
       "name": "Brooke Rice (commenter)",
       "type": "person",
       "description": "Commenter noting grandparents' 3-day engagement, 67-yr marriage.",
@@ -1214,20 +1214,20 @@
       "related_nodes": [
         "N-1",
         "N-7",
-        "N-102",
-        "N-80",
+        "N-100",
+        "N-79",
+        "N-149",
+        "N-154",
         "N-155",
+        "N-80",
+        "N-156",
+        "N-99",
+        "N-158",
         "N-160",
         "N-161",
-        "N-81",
         "N-162",
-        "N-101",
-        "N-164",
-        "N-166",
-        "N-167",
-        "N-168",
-        "N-169",
-        "N-170"
+        "N-163",
+        "N-164"
       ],
       "tags": [],
       "claim_timestamp": "00:12:01",
@@ -1246,7 +1246,7 @@
       ],
       "related_nodes": [
         "N-7",
-        "N-102",
+        "N-100",
         "N-1184"
       ],
       "tags": [],
@@ -1266,8 +1266,8 @@
       ],
       "related_nodes": [
         "N-7",
-        "N-102",
-        "N-163",
+        "N-100",
+        "N-157",
         "N-1179"
       ],
       "tags": [],
@@ -1286,7 +1286,7 @@
         "A-1156.1"
       ],
       "related_nodes": [
-        "N-154",
+        "N-148",
         "N-1177",
         "N-1186"
       ],
@@ -1306,7 +1306,7 @@
         "A-1156.2"
       ],
       "related_nodes": [
-        "N-154"
+        "N-148"
       ],
       "tags": [],
       "claim_timestamp": "00:28:42",
@@ -1324,7 +1324,7 @@
         "A-1156.3"
       ],
       "related_nodes": [
-        "N-154",
+        "N-148",
         "N-1186"
       ],
       "tags": [],
@@ -1343,7 +1343,7 @@
         "A-1156.4"
       ],
       "related_nodes": [
-        "N-154",
+        "N-148",
         "N-1177"
       ],
       "tags": [],
@@ -1363,7 +1363,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-76",
+        "N-75",
         "N-1188",
         "N-1204",
         "N-1183"
@@ -1385,12 +1385,12 @@
       ],
       "related_nodes": [
         "N-7",
-        "N-124",
-        "N-156",
-        "N-136",
-        "N-157",
-        "N-158",
-        "N-159",
+        "N-122",
+        "N-150",
+        "N-133",
+        "N-151",
+        "N-152",
+        "N-153",
         "N-1185"
       ],
       "tags": [],
@@ -1447,8 +1447,8 @@
         "A-1161.1"
       ],
       "related_nodes": [
-        "N-70",
-        "N-165",
+        "N-69",
+        "N-159",
         "N-1176"
       ],
       "tags": [],
@@ -1482,7 +1482,7 @@
       "claim": "Host asserts there is no video of Tyler Robinson firing the weapon or taking aim at Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1176"
       ],
       "tags": [],
@@ -1499,7 +1499,7 @@
       "claim": "Host's source says the bullet was too fragmented to match Tyler Robinson's rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1176"
       ],
       "tags": [],
@@ -1516,7 +1516,7 @@
       "claim": "Host's source says the FBI does not have footage showing how the rifle was placed on the UVU roof.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1138",
         "N-1077",
         "N-1176"
@@ -1535,7 +1535,7 @@
       "claim": "Host's source says prints other than Tyler Robinson's were also on the rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1176"
       ],
       "tags": [],
@@ -1552,7 +1552,7 @@
       "claim": "Per host's source, the eyewitness who filmed the rooftop shooter says the figure wore tactical gear and the gun did not match what he observed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1187"
       ],
       "tags": [],
@@ -1614,7 +1614,7 @@
         {
           "episode": 17,
           "video_timestamp": "00:53:15–00:53:40",
-          "speaker_node_ref": "N-164",
+          "speaker_node_ref": "N-158",
           "quote": "The name of the Mormon church is the Church of Jesus Christ of Latter-day Saints.",
           "context": "Listener correction as host oscillates between 'Mormon Church' and 'Church of Jesus Christ of Latter-day Saints'.",
           "confidence": "high",

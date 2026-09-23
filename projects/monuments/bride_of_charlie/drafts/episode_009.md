@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080
   - Claim Range: C-1115-C-1122
-  - New Nodes Introduced: N-1, N-2, N-7, N-56, N-59, N-60, N-61, N-62, N-63, N-64, N-1000, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073, N-1074, N-1075
+  - New Nodes Introduced: N-1, N-2, N-7, N-42, N-56, N-59, N-60, N-61, N-62, N-63, N-1000, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073, N-1074, N-1075
 
 ## 2. Executive Summary
 
@@ -195,7 +195,7 @@ Tweeted 'I love the way Candace Owens thinks'; gave Charlie Kirk Yeezys; source 
 
 ---
 
-**N-64** Andrew Kovac
+**N-42** Andrew Kolvet
 
 Node Type: Person
 Turning Point figure who stood with Charlie Kirk during the 'him too' press incident.
@@ -207,7 +207,7 @@ Turning Point figure who stood with Charlie Kirk during the 'him too' press inci
 
 ---
 
-**N-65** Sarah (Charlie's assistant)
+**N-64** Sarah (Charlie's assistant)
 
 Node Type: Person
 Charlie's assistant at Turning Point during the #MeToo press moment.
@@ -329,7 +329,7 @@ Claim Timestamp: 00:11:32
 Claim: Following Kanye West's tweet praising Candace Owens, Charlie and Candace celebrated backstage doing a 'Charlie dance,' as documented in a shown video clip.
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Anchored Artifacts: A-1077.1, A-1078.1, A-1080.1
-Related Nodes: N-1, N-7, N-56, N-1069, N-60, N-61, N-62, N-63, N-64, N-65
+Related Nodes: N-1, N-7, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64
 Confidence: high
 Investigative Direction: Verify the exact date of the Kanye tweet and cross-reference with the shown backstage clip timestamp.
 

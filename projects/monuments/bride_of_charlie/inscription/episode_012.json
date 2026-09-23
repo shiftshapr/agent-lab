@@ -30,8 +30,8 @@
             "C-1177"
           ],
           "related_nodes": [
-            "N-70",
-            "N-86"
+            "N-69",
+            "N-84"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -49,9 +49,9 @@
             "C-1179"
           ],
           "related_nodes": [
-            "N-70",
-            "N-86",
-            "N-72"
+            "N-69",
+            "N-84",
+            "N-71"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -68,7 +68,7 @@
             "C-1179"
           ],
           "related_nodes": [
-            "N-70",
+            "N-69",
             "N-1"
           ],
           "tags": [],
@@ -87,7 +87,7 @@
             "C-1183"
           ],
           "related_nodes": [
-            "N-70"
+            "N-69"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -104,7 +104,7 @@
             "C-1179"
           ],
           "related_nodes": [
-            "N-70"
+            "N-69"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -121,7 +121,7 @@
             "C-1179"
           ],
           "related_nodes": [
-            "N-70"
+            "N-69"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -138,8 +138,8 @@
             "C-1181"
           ],
           "related_nodes": [
-            "N-70",
-            "N-86"
+            "N-69",
+            "N-84"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -156,7 +156,7 @@
             "C-1179"
           ],
           "related_nodes": [
-            "N-70"
+            "N-69"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -174,8 +174,8 @@
             "C-1181"
           ],
           "related_nodes": [
-            "N-70",
-            "N-86"
+            "N-69",
+            "N-84"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -192,8 +192,8 @@
             "C-1181"
           ],
           "related_nodes": [
-            "N-70",
-            "N-86"
+            "N-69",
+            "N-84"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -218,7 +218,7 @@
             "C-1179"
           ],
           "related_nodes": [
-            "N-103"
+            "N-101"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -235,7 +235,7 @@
             "C-1182"
           ],
           "related_nodes": [
-            "N-103"
+            "N-101"
           ],
           "tags": [],
           "event_timestamp": "2025-09-12",
@@ -269,7 +269,7 @@
             "C-1183"
           ],
           "related_nodes": [
-            "N-70"
+            "N-69"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -294,7 +294,7 @@
             "C-1179"
           ],
           "related_nodes": [
-            "N-70"
+            "N-69"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -312,7 +312,7 @@
             "C-1183"
           ],
           "related_nodes": [
-            "N-103"
+            "N-101"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -329,7 +329,7 @@
             "C-1176"
           ],
           "related_nodes": [
-            "N-70"
+            "N-69"
           ],
           "tags": [],
           "event_timestamp": "2025-09-12",
@@ -355,7 +355,7 @@
           ],
           "related_nodes": [
             "N-50",
-            "N-66",
+            "N-65",
             "N-1"
           ],
           "tags": [],
@@ -391,7 +391,7 @@
             "C-1185"
           ],
           "related_nodes": [
-            "N-76",
+            "N-75",
             "N-1"
           ],
           "tags": [],
@@ -470,8 +470,8 @@
             "C-1183"
           ],
           "related_nodes": [
-            "N-103",
-            "N-70"
+            "N-101",
+            "N-69"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -485,8 +485,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "22-year-old alleged killer of Charlie Kirk; subject of indictment text messages analyzed in episode.",
@@ -523,8 +523,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-86",
-      "ref": "N-86",
+      "@id": "N-84",
+      "ref": "N-84",
       "name": "Lance Twigs",
       "type": "person",
       "description": "22-year-old boyfriend/roommate of Tyler Robinson; received the keyboard note; central to host's 'Lance being protected' thesis.",
@@ -605,8 +605,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-72",
-      "ref": "N-72",
+      "@id": "N-71",
+      "ref": "N-71",
       "name": "George Zinn",
       "type": "person",
       "description": "Initial suspect ('the decoy boy') released hours later; central to host's multi-person theory.",
@@ -624,8 +624,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-103",
-      "ref": "N-103",
+      "@id": "N-101",
+      "ref": "N-101",
       "name": "Governor Spencer Cox",
       "type": "person",
       "description": "Utah governor; press conference source for outfit consistency claim; subject of host's 'mouthpiece' criticism.",
@@ -646,8 +646,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-66",
-      "ref": "N-66",
+      "@id": "N-65",
+      "ref": "N-65",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Israeli Prime Minister; alleged by Tucker/Candace to have hijacked Charlie's memory.",
@@ -704,8 +704,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-76",
-      "ref": "N-76",
+      "@id": "N-75",
+      "ref": "N-75",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Corroborating voice on donor pressure tactics.",
@@ -723,8 +723,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-104",
-      "ref": "N-104",
+      "@id": "N-102",
+      "ref": "N-102",
       "name": "Kash Patel",
       "type": "person",
       "description": "Tweeted that subject in custody (George Zinn) was released; referenced for timeline.",
@@ -740,8 +740,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-101",
-      "ref": "N-101",
+      "@id": "N-99",
+      "ref": "N-99",
       "name": "Skyler",
       "type": "person",
       "description": "Production staff member operating timeline/graphics during episode.",
@@ -755,8 +755,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-105",
-      "ref": "N-105",
+      "@id": "N-103",
+      "ref": "N-103",
       "name": "Lance Twigs's Mother",
       "type": "person",
       "description": "Allegedly holds Bachelor of Science from Stanford University in psychology; flagged by host as 'running theme'.",
@@ -772,8 +772,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-106",
-      "ref": "N-106",
+      "@id": "N-104",
+      "ref": "N-104",
       "name": "Matt Gaetz",
       "type": "person",
       "description": "Congressman confirming Tucker's claims via tweet.",
@@ -791,8 +791,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-107",
-      "ref": "N-107",
+      "@id": "N-105",
+      "ref": "N-105",
       "name": "Seth Dillon",
       "type": "person",
       "description": "Babylon Bee CEO cited as pressuring Charlie to disinvite Candace.",
@@ -808,8 +808,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-88",
-      "ref": "N-88",
+      "@id": "N-86",
+      "ref": "N-86",
       "name": "Josh Hammer",
       "type": "person",
       "description": "Challenged by Candace to release his message threads with Charlie.",
@@ -825,8 +825,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-68",
+      "ref": "N-68",
       "name": "Dave Smith",
       "type": "person",
       "description": "Commentator referenced as part of broader pushback on BB Netany/Yahoo narrative.",
@@ -1073,12 +1073,12 @@
         "A-1104.2"
       ],
       "related_nodes": [
-        "N-70",
-        "N-86",
+        "N-69",
+        "N-84",
         "N-1103",
         "N-2",
-        "N-101",
-        "N-69"
+        "N-99",
+        "N-68"
       ],
       "tags": [],
       "claim_timestamp": "00:00:41",
@@ -1102,7 +1102,7 @@
         "A-1106.3"
       ],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1104",
         "N-1111"
       ],
@@ -1122,8 +1122,8 @@
         "A-1104.1"
       ],
       "related_nodes": [
-        "N-70",
-        "N-86",
+        "N-69",
+        "N-84",
         "N-1106"
       ],
       "tags": [],
@@ -1144,9 +1144,9 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-70",
-        "N-72",
-        "N-104",
+        "N-69",
+        "N-71",
+        "N-102",
         "N-1105"
       ],
       "tags": [],
@@ -1171,7 +1171,7 @@
         "A-1106.1"
       ],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1105"
       ],
       "tags": [],
@@ -1190,7 +1190,7 @@
         "A-1104.4"
       ],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1107"
       ],
       "tags": [],
@@ -1211,7 +1211,7 @@
         "A-1105.3"
       ],
       "related_nodes": [
-        "N-86",
+        "N-84",
         "N-1109"
       ],
       "tags": [],
@@ -1232,7 +1232,7 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-103",
+        "N-101",
         "N-1107",
         "N-1111"
       ],
@@ -1255,7 +1255,7 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-70",
+        "N-69",
         "N-1108",
         "N-1111"
       ],
@@ -1274,7 +1274,7 @@
       "claim": "Lance Twigs's mother holds a Bachelor of Science from Stanford University in psychology, which the host describes as a 'running theme' in federal operations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-105",
+        "N-103",
         "N-1110"
       ],
       "tags": [],
@@ -1298,13 +1298,13 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-66",
+        "N-65",
         "N-45",
         "N-50",
-        "N-76",
-        "N-106",
-        "N-107",
-        "N-88",
+        "N-75",
+        "N-104",
+        "N-105",
+        "N-86",
         "N-1112",
         "N-7"
       ],
@@ -1357,7 +1357,7 @@
         {
           "episode": 12,
           "video_timestamp": "01:06:19",
-          "speaker_node_ref": "N-106",
+          "speaker_node_ref": "N-104",
           "quote": "Yes, they were behaving like demons. There's just no question.",
           "context": "Matt Gaetz tweet quoted by Candace to corroborate 'demons' framing.",
           "confidence": "high",

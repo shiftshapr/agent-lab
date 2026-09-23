@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1162, A-1163, A-1164, A-1165, A-1166, A-1167, A-1168, A-1169, A-1170
   - Claim Range: C-1285-C-1296
-  - New Nodes Introduced: N-1, N-2, N-7, N-43, N-63, N-65, N-66, N-67, N-69, N-72, N-73, N-75, N-79, N-86, N-88, N-112, N-113, N-114, N-136, N-137, N-138, N-139, N-140, N-1000, N-1089, N-1123, N-1126, N-1136, N-1164, N-1165, N-1168, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182
+  - New Nodes Introduced: N-1, N-2, N-7, N-42, N-43, N-63, N-64, N-65, N-67, N-70, N-71, N-73, N-77, N-83, N-84, N-90, N-108, N-109, N-110, N-130, N-131, N-132, N-1000, N-1089, N-1123, N-1126, N-1136, N-1164, N-1165, N-1168, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182
 
 ## 2. Executive Summary
 
@@ -36,19 +36,19 @@ Confidence: high
 **A-1163.1** Range Day Bro video segment alleging muzzle flash visible in assassination footage
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:33:04–00:33:29
-*Related: C-1287, N-178, NODE_1005*
+*Related: C-1287, N-172, NODE_1005*
 Transcript Snippet: in that video, you can see the same what appears to be the bullet coming down and it does line up with the actual gunshot itself.
 Confidence: high
 
 **A-1163.2** Range Day Bro video segment alleging blood splatter as entry wound on Charlie's neck
 Video Timestamp: 00:33:47–00:34:23
-*Related: C-1288, N-178, N-1*
+*Related: C-1288, N-172, N-1*
 Transcript Snippet: you can clearly see that Charlie is shot from his back right and there is blood splatter coming out of the entry wound.
 Confidence: high
 
 **A-1163.3** Range Day Bro video segment alleging a suspicious bush on the rooftop with a rifle-shaped outline
 Video Timestamp: 00:37:04–00:37:52
-*Related: C-1289, N-178, NODE_1006*
+*Related: C-1289, N-172, NODE_1006*
 Transcript Snippet: this guy's talking about this bush up here in the top left of this photo… you can clearly make out this is not just a bush.
 Confidence: high
 
@@ -82,13 +82,13 @@ Confidence: high
 
 **A-1165.1** Xavier Deruso video clip played in episode, addressing Hamptons weekend and use of phrase 'moral blackmail' regarding Charlie Kirk
 Video Timestamp: 00:04:45–00:06:00
-*Related: C-1292, N-172, N-1, N-1192*
+*Related: C-1292, N-166, N-1, N-1192*
 Transcript Snippet: He said is it is moral blackmail if you say that somebody saying that a politician is bad that you're then empowering a terrorist organization.
 Confidence: high
 
 **A-1165.2** Xavier Deruso video clip explaining why photos from Hamptons weekend were not posted in real time (safety claim)
 Video Timestamp: 00:07:34–00:08:06
-*Related: C-1293, N-172, N-1192*
+*Related: C-1293, N-166, N-1192*
 Transcript Snippet: The reason we didn't post that in the real time was because of safety.
 Confidence: high
 
@@ -98,7 +98,7 @@ Confidence: high
 
 **A-1166.1** Photo angle of the flag hall / underpass area referenced on screen, used to argue that the windows in question do not open
 Video Timestamp: 00:35:30–00:36:34
-*Related: C-1287, N-178, NODE_1005*
+*Related: C-1287, N-172, NODE_1005*
 Transcript Snippet: that window is from that zone which they call like the flag hall… those windows don't open.
 Confidence: medium
 Uncertainty: Photo referenced on screen but full view not described; window claim made by host, not architecturally documented.
@@ -109,7 +109,7 @@ Uncertainty: Photo referenced on screen but full view not described; window clai
 
 **A-1167.1** Tip from young woman via comment section, alleging doorbell footage was only partially released and that additional footage shows alleged Tyler Robinson walking with unidentified woman and changing clothes
 Video Timestamp: 00:39:05–00:39:45
-*Related: C-1294, N-70, N-1195, NODE_1010*
+*Related: C-1294, N-69, N-1195, NODE_1010*
 Transcript Snippet: there was more footage which showed the person that they allege is Tyler Robinson walking with a woman who they don't know who that is and that he changes clothes.
 Confidence: low
 Uncertainty: Tip is uncorroborated; host says she has established contact with the source but full footage not shown in episode.
@@ -120,7 +120,7 @@ Uncertainty: Tip is uncorroborated; host says she has established contact with t
 
 **A-1168.1** Riverbend Ranch tribute video message honoring Charlie Kirk, aired in episode as a sponsor/content segment
 Video Timestamp: 00:30:08–00:30:41
-*Related: N-180, N-1*
+*Related: N-174, N-1*
 Transcript Snippet: We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.
 Confidence: high
 
@@ -131,7 +131,7 @@ Confidence: high
 **A-1169.1** Public Instagram post by Emily (Saves America) dated August 6 stating she was in the Hamptons, cited as contradicting Xavier Deruso's safety-based secrecy claim
 Event Timestamp: 2025-08-06
 Video Timestamp: 00:08:37–00:09:09
-*Related: C-1293, N-179, N-172, N-1192*
+*Related: C-1293, N-173, N-166, N-1192*
 Transcript Snippet: one of the influencers did post on August 6th that she was in the Hamptons… Sorry, I'm MIA. I'm in the Hamptons.
 Confidence: high
 
@@ -141,7 +141,7 @@ Confidence: high
 
 **A-1170.1** Bill Aman essay response of 959 words referenced (not shown) in episode as a reply to Candace Owens' prior coverage of the Hamptons weekend and intervention pressure
 Video Timestamp: 00:03:05–00:03:46
-*Related: C-1295, N-67, N-1192*
+*Related: C-1295, N-66, N-1192*
 Transcript Snippet: Bill Aman replies with an essay, college essay. 959 words to be precise was his response to me.
 Confidence: medium
 Uncertainty: Essay referenced verbally with word count but not displayed in episode.
@@ -177,7 +177,7 @@ Widow of Charlie Kirk, discussed in episode as new CEO/chairman of TPUSA. Host d
 
 ---
 
-**N-66** Benjamin Netanyahu
+**N-65** Benjamin Netanyahu
 
 Node Type: Person
 Israeli PM; cited for tweeting about Charlie Kirk's death before the US President and misrepresenting contents of a May letter.
@@ -186,7 +186,7 @@ Israeli PM; cited for tweeting about Charlie Kirk's death before the US Presiden
 
 ---
 
-**N-70** Tyler Robinson
+**N-69** Tyler Robinson
 
 Node Type: Person
 Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.
@@ -195,7 +195,7 @@ Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging 
 
 ---
 
-**N-171** Lance Robinson
+**N-165** Lance Robinson
 
 Node Type: Person
 Father of Tyler Robinson; host notes his house was raided and no further updates have been provided by federal authorities.
@@ -213,7 +213,7 @@ Elevated to COO of Turning Point USA on September 2, 2025 per internal memo; tas
 
 ---
 
-**N-67** Bill Ackman
+**N-66** Bill Ackman
 
 Node Type: Person
 Author of a 959-word essay response defending his role around the Hamptons weekend; criticized in episode for not addressing the actual 'intervention' allegation.
@@ -222,7 +222,7 @@ Author of a 959-word essay response defending his role around the Hamptons weeke
 
 ---
 
-**N-88** Josh Hammer
+**N-86** Josh Hammer
 
 Node Type: Person
 Named as participant in Hamptons weekend who allegedly pressured Charlie Kirk on Israel/Netanyahu positioning.
@@ -234,7 +234,7 @@ Named as participant in Hamptons weekend who allegedly pressured Charlie Kirk on
 
 ---
 
-**N-68** Seth Dylan
+**N-67** Seth Dylan
 
 Node Type: Person
 Named as applying pressure on Charlie Kirk at the Hamptons weekend retreat.
@@ -246,7 +246,7 @@ Named as applying pressure on Charlie Kirk at the Hamptons weekend retreat.
 
 ---
 
-**N-172** Xavier Deruso
+**N-166** Xavier Deruso
 
 Node Type: Person
 Influencer who attended Hamptons weekend, released video addressing the event and using phrase 'moral blackmail' to describe Charlie's framing.
@@ -255,7 +255,7 @@ Influencer who attended Hamptons weekend, released video addressing the event an
 
 ---
 
-**N-173** Natasha Housedorf
+**N-167** Natasha Housedorf
 
 Node Type: Person
 Named as attendee of Hamptons weekend retreat.
@@ -267,7 +267,7 @@ Named as attendee of Hamptons weekend retreat.
 
 ---
 
-**N-64** Andrew Kovac
+**N-42** Andrew Kolvet
 
 Node Type: Person
 TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.
@@ -279,7 +279,7 @@ TPUSA spokesperson who has continued Charlie Kirk's show; host urges against tre
 
 ---
 
-**N-174** Marissa Strait
+**N-168** Marissa Strait
 
 Node Type: Person
 PragerU host noted in episode; mentioned as having worked for IDF intelligence and platform used by Xavier Deruso for Hamptons response video.
@@ -291,7 +291,7 @@ PragerU host noted in episode; mentioned as having worked for IDF intelligence a
 
 ---
 
-**N-74** Greta Van Susteren
+**N-73** Greta Van Susteren
 
 Node Type: Person
 News host on which Netanyahu reportedly lied about contents of a May letter from Charlie Kirk.
@@ -300,7 +300,7 @@ News host on which Netanyahu reportedly lied about contents of a May letter from
 
 ---
 
-**N-76** Megyn Kelly
+**N-75** Megyn Kelly
 
 Node Type: Person
 Journalist to whom Charlie Kirk vented the day after the Hamptons weekend about being wrongly labeled anti-Semitic.
@@ -312,7 +312,7 @@ Journalist to whom Charlie Kirk vented the day after the Hamptons weekend about 
 
 ---
 
-**N-175** Elon Musk
+**N-169** Elon Musk
 
 Node Type: Person
 Referenced as co-architect of the original federal Department of Government Efficiency alongside Vivek Ramaswamy.
@@ -324,7 +324,7 @@ Referenced as co-architect of the original federal Department of Government Effi
 
 ---
 
-**N-176** Vivek Ramaswamy
+**N-170** Vivek Ramaswamy
 
 Node Type: Person
 Referenced as co-architect of the original federal Department of Government Efficiency alongside Elon Musk.
@@ -336,7 +336,7 @@ Referenced as co-architect of the original federal Department of Government Effi
 
 ---
 
-**N-80** Donald Trump
+**N-79** Donald Trump
 
 Node Type: Person
 US President referenced in connection with DOGE and in context of Netanyahu allegedly tweeting before him about Charlie's death.
@@ -345,7 +345,7 @@ US President referenced in connection with DOGE and in context of Netanyahu alle
 
 ---
 
-**N-93** Laura Loomer
+**N-91** Laura Loomer
 
 Node Type: Person
 Referenced in closing joke about reporting Candace to platform authorities.
@@ -357,7 +357,7 @@ Referenced in closing joke about reporting Candace to platform authorities.
 
 ---
 
-**N-177** Taylor Lorent
+**N-171** Taylor Lorent
 
 Node Type: Person
 Commenter quoted by host for X post asserting Candace Owens appears to be the only right-wing figure genuinely grieving Charlie Kirk.
@@ -369,7 +369,7 @@ Commenter quoted by host for X post asserting Candace Owens appears to be the on
 
 ---
 
-**N-178** Range Day Bro
+**N-172** Range Day Bro
 
 Node Type: Person
 YouTuber whose viral video analysis (6M views) presents muzzle flash, blood-splatter entry-wound, and suspicious-bush theories. Host engages and partially debunks.
@@ -378,7 +378,7 @@ YouTuber whose viral video analysis (6M views) presents muzzle flash, blood-spla
 
 ---
 
-**N-179** Emily (Saves America)
+**N-173** Emily (Saves America)
 
 Node Type: Person
 Influencer whose August 6 Instagram post revealing she was in the Hamptons is cited as contradicting Xavier Deruso's safety-based secrecy claim.
@@ -387,7 +387,7 @@ Influencer whose August 6 Instagram post revealing she was in the Hamptons is ci
 
 ---
 
-**N-180** Riverbend Ranch CEO
+**N-174** Riverbend Ranch CEO
 
 Node Type: Person
 Unnamed CEO of Riverbend Ranch met by host with Charlie years prior; produced tribute segment aired in this episode.
@@ -399,7 +399,7 @@ Unnamed CEO of Riverbend Ranch met by host with Charlie years prior; produced tr
 
 ---
 
-**N-87** Governor Cox
+**N-85** Governor Cox
 
 Node Type: Person
 Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.
@@ -408,7 +408,7 @@ Utah Governor Cox, referenced for declaring the investigation concluded and the 
 
 ---
 
-**N-181** Nikki Haley
+**N-175** Nikki Haley
 
 Node Type: Person
 Referenced in comment about representatives signing bombs; host notes 'Nikki Haley signing bombs'.
@@ -590,7 +590,7 @@ Claim Timestamp: 00:25:55
 Claim: An internal TPUSA memo signed by Charlie Kirk on September 2, 2025 announced Justin Strife's elevation to COO and tasked him with assembling a team to conduct a DOGE-style efficiency, cost, and culture audit across the organization.
 Transcript Snippet: In this role, I have empowered Justin… to engage in an organizationalwide Doge effort.
 Anchored Artifacts: A-1162.1
-Related Nodes: N-1, N-43, N-1000, N-1198, N-1192, N-2, N-88, N-68, N-173, N-64, N-174, N-76, N-175, N-176, N-93, N-177, N-180, N-181
+Related Nodes: N-1, N-43, N-1000, N-1198, N-1192, N-2, N-86, N-67, N-167, N-42, N-168, N-75, N-169, N-170, N-91, N-171, N-174, N-175
 Confidence: high
 Investigative Direction: Obtain the original signed memo directly from TPUSA or insider sources; verify Strife's actual scope of authority and the composition of the assembled team.
 
@@ -615,7 +615,7 @@ Claim Timestamp: 00:35:30
 Claim: Host argues that if the alleged muzzle flash originated inside the flag hall area, the relevant window does not open and broken glass should be visible.
 Transcript Snippet: those windows don't open. So if it's coming from inside… then we should see broken glass.
 Anchored Artifacts: A-1163.1, A-1166.1
-Related Nodes: N-178, N-1197
+Related Nodes: N-172, N-1197
 Confidence: medium
 Uncertainty: Window-doesn't-open claim made by host based on photos; not independently verified.
 Investigative Direction: Obtain architectural plans or on-site verification of the flag hall windows' operability and check for any bullet or glass damage.
@@ -628,7 +628,7 @@ Claim Timestamp: 00:34:33
 Claim: Host argues that what Range Day Bro identified as blood splatter from an entry wound is in fact Charlie Kirk's necklace chain whipping up after the shot.
 Transcript Snippet: that's actually not blood splatter. And I was very surprised by this. It's his necklace.
 Anchored Artifacts: A-1163.2
-Related Nodes: N-1, N-178
+Related Nodes: N-1, N-172
 Confidence: medium
 Investigative Direction: Obtain high-resolution frame-by-frame footage from multiple angles to confirm chain trajectory versus ballistic entry.
 
@@ -640,7 +640,7 @@ Claim Timestamp: 00:38:04
 Claim: Host states that she sent someone to photograph the suspicious bush from Range Day Bro's analysis, and the resulting images show the bush is translucent, consistent with a figure possibly hidden behind it.
 Transcript Snippet: I sent somebody there on the ground to get me pictures of that bush today… you can kind of see through it.
 Anchored Artifacts: A-1163.3
-Related Nodes: N-178, N-1203
+Related Nodes: N-172, N-1203
 Confidence: medium
 Investigative Direction: Obtain the ground photographs referenced, compare with original Range Day Bro stills, and rule out alternative explanations (foliage, lighting).
 
@@ -665,7 +665,7 @@ Claim Timestamp: 00:18:43
 Claim: A second rooftop witness told the host he personally walked his footage into the Orem Police Department on day one, and that the feds did not reach out to him until September 15, after Governor Cox declared the suspect in custody.
 Transcript Snippet: He walked in and gave the footage to the Orum Police Department… the feds never reached out to him until the 15th.
 Anchored Artifacts: A-1164.3
-Related Nodes: N-1205, N-1194, N-87, N-1128
+Related Nodes: N-1205, N-1194, N-85, N-1128
 Supports: C-1290
 Confidence: high
 Investigative Direction: Cross-reference Orem PD intake records, witness identity, and federal contact logs dated September 15.
@@ -678,7 +678,7 @@ Claim Timestamp: 00:04:28
 Claim: Xavier Deruso states in his video that Charlie Kirk used the phrase 'moral blackmail' to describe the weekend pressure regarding his Israel/Netanyahu positioning.
 Transcript Snippet: Charlie spoke about feeling morally blackmailed.
 Anchored Artifacts: A-1165.1
-Related Nodes: N-172, N-1, N-1196, N-1092
+Related Nodes: N-166, N-1, N-1196, N-1092
 Confidence: medium
 Investigative Direction: Verify with primary recording or transcript of the actual weekend workshop; cross-check Deruso's characterization against other attendees.
 
@@ -690,7 +690,7 @@ Claim Timestamp: 00:08:37
 Claim: Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining Deruso's claim that real-time posting was avoided for safety reasons.
 Transcript Snippet: one of the influencers did post on August 6th that she was in the Hamptons.
 Anchored Artifacts: A-1165.2, A-1169.1
-Related Nodes: N-179, N-172, N-1196, N-1092
+Related Nodes: N-173, N-166, N-1196, N-1092
 Confidence: high
 Investigative Direction: Verify the Instagram post date, contents, and whether it was posted during or after the weekend.
 
@@ -702,7 +702,7 @@ Claim Timestamp: 00:39:05
 Claim: Host received a tip alleging that the publicly released doorbell footage of Tyler Robinson is incomplete and that additional footage shows him walking with an unidentified woman and changing clothes.
 Transcript Snippet: there was more footage which showed the person that they allege is Tyler Robinson walking with a woman… and that he changes clothes.
 Anchored Artifacts: A-1167.1
-Related Nodes: N-70, N-1189, N-171
+Related Nodes: N-69, N-1189, N-165
 Confidence: low
 Uncertainty: Tip-based; underlying footage not presented in this episode.
 Investigative Direction: Verify the tip with primary source; obtain the additional footage; identify the unnamed woman.
@@ -715,7 +715,7 @@ Claim Timestamp: 00:03:05
 Claim: Host states that Bill Aman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation or the offer to take TPUSA to the next level financially.
 Transcript Snippet: Bill Aman replies with an essay, college essay. 959 words to be precise was his response to me.
 Anchored Artifacts: A-1170.1
-Related Nodes: N-67, N-1196, N-7
+Related Nodes: N-66, N-1196, N-7
 Confidence: medium
 Uncertainty: Essay not displayed in this episode; word count and characterization are host assertions.
 Investigative Direction: Obtain the full 959-word essay, confirm word count, and analyze whether the host's characterization of omissions is accurate.
@@ -728,7 +728,7 @@ Claim Timestamp: 00:01:53
 Claim: Host asserts that Benjamin Netanyahu tweeted about Charlie Kirk's death before the President of the United States and subsequently misrepresented the contents of a May letter from Charlie Kirk on Fox News and Greta Van Susteren's show.
 Transcript Snippet: minute one, he tweeted before the president of the United States that Charlie had lost his life.
 Anchored Artifacts: 
-Related Nodes: N-66, N-80, N-74
+Related Nodes: N-65, N-79, N-73
 Confidence: medium
 Uncertainty: Claim not directly artifact-anchored within this episode; tweets and broadcasts cited publicly but not shown.
 Investigative Direction: Obtain timestamped tweet records from Netanyahu and the US President account on September 10, 2025; review the May letter and Netanyahu's on-air characterizations.

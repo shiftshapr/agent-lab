@@ -400,9 +400,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-64",
-      "ref": "N-64",
-      "name": "Andrew Kovac",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Turning Point figure who stood with Charlie Kirk during the 'him too' press incident.",
       "related_artifacts": [],
@@ -415,8 +415,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-64",
+      "ref": "N-64",
       "name": "Sarah (Charlie's assistant)",
       "type": "person",
       "description": "Charlie's assistant at Turning Point during the #MeToo press moment.",
@@ -642,8 +642,8 @@
         "N-61",
         "N-62",
         "N-63",
-        "N-64",
-        "N-65"
+        "N-42",
+        "N-64"
       ],
       "tags": [],
       "claim_timestamp": "00:11:32",
