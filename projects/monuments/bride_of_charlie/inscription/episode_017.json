@@ -1,0 +1,1628 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 17,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–01:00:37",
+    "extraction_timestamp": "2026-09-23T21:00:52Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "7933bf7ce0c35c6791d8a7f52049abb35b4faf23776ec6f24d74301e973fe27f",
+    "analysis_date": "2026-09-23"
+  },
+  "executive_summary": "Episode presses two investigative threads. First, FBI pressure on Utah authorities to declare the Charlie Kirk case closed as a lone-gunman act despite host's sources reporting no roof footage, no matching bullet, and an eyewitness disputing Tyler Robinson's outfit. Second, a freshly scraped 80-page online-history document on Thomas Matthew Crooks is presented as evidence he should have been on federal radar. Host shows on-screen text messages (Aug 30–Sep 2) about a premonition of imminent school-related danger using 'bees' as code, then links this to Utah's beehive flag and Soviet educational ideology. Reads Megyn Kelly segment on a Jezebel/Etsy hex against Charlie Kirk and plays the Jimmy Kimmel free-speech monologue clip.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1155",
+      "family_ref": "A-1155",
+      "bundle_name": "Text Message Bundle (shown on-screen)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1155.1",
+          "ref": "A-1155.1",
+          "description": "Text chain between Candace and Charlie Kirk re: UK flight booking ($450 coach / $1,200 first class)",
+          "related_claims": [
+            "C-1267",
+            "C-1268"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7",
+            "N-100"
+          ],
+          "tags": [],
+          "video_timestamp": "00:12:01–00:12:38",
+          "transcript_snippet": "Reme $450 in coach or 1,200 in first class. And he's like, \"Wow, let's book it.\"",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1155.2",
+          "ref": "A-1155.2",
+          "description": "Texts to sister/husband Aug 30–Sep 2 re: 'imminent danger', 'communist underground' at schools, bees as code",
+          "related_claims": [
+            "C-1269"
+          ],
+          "related_nodes": [
+            "N-7",
+            "N-100",
+            "N-157",
+            "N-1179"
+          ],
+          "tags": [],
+          "video_timestamp": "00:16:44–00:17:54",
+          "transcript_snippet": "I sense like imminent danger is coming and for some reason I feel like there is an underground…related to bees.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1156",
+      "family_ref": "A-1156",
+      "bundle_name": "Thomas Matthew Crooks Online-History Document Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1156.1",
+          "ref": "A-1156.1",
+          "description": "80-page scraped online-history document (referenced; partial on-screen)",
+          "related_claims": [
+            "C-1270"
+          ],
+          "related_nodes": [
+            "N-148",
+            "N-1186",
+            "N-1177"
+          ],
+          "tags": [],
+          "video_timestamp": "00:28:09–00:32:11",
+          "transcript_snippet": "I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1156.2",
+          "ref": "A-1156.2",
+          "description": "Video of Crooks practicing firing weapon in bedroom (no bullets, blurred)",
+          "related_claims": [
+            "C-1271"
+          ],
+          "related_nodes": [
+            "N-148"
+          ],
+          "tags": [],
+          "video_timestamp": "00:28:42–00:29:15",
+          "transcript_snippet": "Videos that he was posting of himself shooting with no bullets in the gun in his bedroom.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1156.3",
+          "ref": "A-1156.3",
+          "description": "YouTube comments by Crooks: violent rhetoric about socialists, Democrats",
+          "related_claims": [
+            "C-1272"
+          ],
+          "related_nodes": [
+            "N-148",
+            "N-1186"
+          ],
+          "tags": [],
+          "video_timestamp": "00:29:27–00:30:19",
+          "transcript_snippet": "Lining up a bunch of socialist Jews…blasting their useless brains out with an AR.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1156.4",
+          "ref": "A-1156.4",
+          "description": "Crooks Google search history: mass shooting research, molotov cocktails, fertilizer bomb",
+          "related_claims": [
+            "C-1273"
+          ],
+          "related_nodes": [
+            "N-148",
+            "N-1177"
+          ],
+          "tags": [],
+          "video_timestamp": "00:31:02–00:31:54",
+          "transcript_snippet": "Best places for a mass shooting. How to make Molotov cocktails, mixing gasoline with styrofoam.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1157",
+      "family_ref": "A-1157",
+      "bundle_name": "Megyn Kelly Curse Segment",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1157.1",
+          "ref": "A-1157.1",
+          "description": "Megyn Kelly clip reporting Jezebel mission to curse Charlie Kirk via Etsy witch services",
+          "related_claims": [
+            "C-1274"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-75",
+            "N-1188",
+            "N-1204",
+            "N-1183"
+          ],
+          "tags": [],
+          "video_timestamp": "00:42:20–00:43:58",
+          "transcript_snippet": "Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1158",
+      "family_ref": "A-1158",
+      "bundle_name": "Jimmy Kimmel Monologue Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1158.1",
+          "ref": "A-1158.1",
+          "description": "Jimmy Kimmel monologue thanking right-wing free-speech defenders including Candace Owens",
+          "related_claims": [
+            "C-1275"
+          ],
+          "related_nodes": [
+            "N-7",
+            "N-122",
+            "N-150",
+            "N-133",
+            "N-151",
+            "N-152",
+            "N-153",
+            "N-1185"
+          ],
+          "tags": [],
+          "video_timestamp": "00:38:33–00:40:25",
+          "transcript_snippet": "People who I never would have imagined like Ben Shapiro, Clay Travis, Candace Owens…",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1159",
+      "family_ref": "A-1159",
+      "bundle_name": "Riverbend Ranch Tribute Audio",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1159.1",
+          "ref": "A-1159.1",
+          "description": "Riverbend Ranch audio tribute honoring Charlie Kirk",
+          "related_claims": [
+            "C-1276"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1201"
+          ],
+          "tags": [],
+          "video_timestamp": "00:34:37–00:35:17",
+          "transcript_snippet": "We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1160",
+      "family_ref": "A-1160",
+      "bundle_name": "Book Club Recording",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1160.1",
+          "ref": "A-1160.1",
+          "description": "Sept 9 book club recording of Candace committing to homeschooling children",
+          "related_claims": [
+            "C-1277"
+          ],
+          "related_nodes": [
+            "N-7",
+            "N-1179"
+          ],
+          "tags": [],
+          "video_timestamp": "00:18:56–00:21:07",
+          "transcript_snippet": "I'm homeschooling my kids. I'm so excited…a weight got lift off of my shoulders.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1161",
+      "family_ref": "A-1161",
+      "bundle_name": "Listener Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1161.1",
+          "ref": "A-1161.1",
+          "description": "Natalie comment read on-air: neighbor's daughter has Tyler Robinson video showing a woman with him",
+          "related_claims": [
+            "C-1278"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-159",
+            "N-1176"
+          ],
+          "tags": [],
+          "video_timestamp": "00:55:36–00:56:18",
+          "transcript_snippet": "It also shows him changing clothes and he is not alone. There is a woman with him.",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Deceased subject of assassination case; founder of Turning Point.",
+      "related_artifacts": [
+        "A-1155.1",
+        "A-1159.1"
+      ],
+      "related_claims": [
+        "C-1267",
+        "C-1276"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; presenter of investigative claims.",
+      "related_artifacts": [
+        "A-1155.1",
+        "A-1155.2",
+        "A-1158.1",
+        "A-1160.1"
+      ],
+      "related_claims": [
+        "C-1267",
+        "C-1268",
+        "C-1269",
+        "C-1275",
+        "C-1277"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-148",
+      "ref": "N-148",
+      "name": "Thomas Matthew Crooks",
+      "type": "person",
+      "description": "July 13, 2024 Trump-rally rooftop shooter; subject of scraped online-history doc.",
+      "related_artifacts": [
+        "A-1156.1",
+        "A-1156.2",
+        "A-1156.3",
+        "A-1156.4"
+      ],
+      "related_claims": [
+        "C-1270",
+        "C-1271",
+        "C-1272",
+        "C-1273"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Defendant in Charlie Kirk case; per host, no video of firing, no confession, fragmented bullet.",
+      "related_artifacts": [
+        "A-1161.1"
+      ],
+      "related_claims": [
+        "C-1278",
+        "C-1280",
+        "C-1281",
+        "C-1282",
+        "C-1283",
+        "C-1284"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Charlie's widow; reported by Megyn Kelly to have sought Catholic priest over Jezebel hex.",
+      "related_artifacts": [
+        "A-1157.1"
+      ],
+      "related_claims": [
+        "C-1274"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-79",
+      "ref": "N-79",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Target of July 13, 2024 Crooks attempt; referenced re Iran narrative.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-149",
+      "ref": "N-149",
+      "name": "Corey Comperatore",
+      "type": "person",
+      "description": "Firefighter killed shielding family at July 13, 2024 Trump rally.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Host of segment on Jezebel/Etsy hex against Charlie Kirk.",
+      "related_artifacts": [
+        "A-1157.1"
+      ],
+      "related_claims": [
+        "C-1274"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-122",
+      "ref": "N-122",
+      "name": "Jimmy Kimmel",
+      "type": "person",
+      "description": "Late-night host; monologue thanking right-wing free-speech defenders.",
+      "related_artifacts": [
+        "A-1158.1"
+      ],
+      "related_claims": [
+        "C-1275"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-150",
+      "ref": "N-150",
+      "name": "Ted Cruz",
+      "type": "person",
+      "description": "Cited by Kimmel for free-speech defense.",
+      "related_artifacts": [
+        "A-1158.1"
+      ],
+      "related_claims": [
+        "C-1275"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-133",
+      "ref": "N-133",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Cited by Kimmel.",
+      "related_artifacts": [
+        "A-1158.1"
+      ],
+      "related_claims": [
+        "C-1275"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-151",
+      "ref": "N-151",
+      "name": "Clay Travis",
+      "type": "person",
+      "description": "Cited by Kimmel.",
+      "related_artifacts": [
+        "A-1158.1"
+      ],
+      "related_claims": [
+        "C-1275"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-152",
+      "ref": "N-152",
+      "name": "Mitch McConnell",
+      "type": "person",
+      "description": "Cited by Kimmel.",
+      "related_artifacts": [
+        "A-1158.1"
+      ],
+      "related_claims": [
+        "C-1275"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-153",
+      "ref": "N-153",
+      "name": "Rand Paul",
+      "type": "person",
+      "description": "Cited by Kimmel.",
+      "related_artifacts": [
+        "A-1158.1"
+      ],
+      "related_claims": [
+        "C-1275"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-154",
+      "ref": "N-154",
+      "name": "Thomas Sowell",
+      "type": "person",
+      "description": "Author of 'Inside the American Education System' recommended by host.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-155",
+      "ref": "N-155",
+      "name": "Margarethe Schurz",
+      "type": "person",
+      "description": "Credited by host with establishing kindergarten in US (1848 communists).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-80",
+      "ref": "N-80",
+      "name": "Sigmund Freud",
+      "type": "person",
+      "description": "Referenced in book-club discussion of psychoanalytic community origins.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-156",
+      "ref": "N-156",
+      "name": "C.S. Lewis",
+      "type": "person",
+      "description": "Referenced for concept of 'scientism'.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-100",
+      "ref": "N-100",
+      "name": "Candace Owens' Husband",
+      "type": "person",
+      "description": "Unnamed spouse; met via UK trip 18 days before engagement.",
+      "related_artifacts": [
+        "A-1155.1",
+        "A-1155.2"
+      ],
+      "related_claims": [
+        "C-1268",
+        "C-1269",
+        "C-1267"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-157",
+      "ref": "N-157",
+      "name": "Candace Owens' Sister",
+      "type": "person",
+      "description": "First in family to homeschool; recipient of bee-warning text.",
+      "related_artifacts": [
+        "A-1155.2"
+      ],
+      "related_claims": [
+        "C-1269"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-99",
+      "ref": "N-99",
+      "name": "Skyler",
+      "type": "person",
+      "description": "Producer who corrects promo code on-air (Blackout15).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-158",
+      "ref": "N-158",
+      "name": "Warwick Spiller",
+      "type": "person",
+      "description": "Commenter correcting Church name; explains beehive = work-for-Christ.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-159",
+      "ref": "N-159",
+      "name": "Natalie",
+      "type": "person",
+      "description": "Listener who tipped unverified video of Tyler Robinson with a woman.",
+      "related_artifacts": [
+        "A-1161.1"
+      ],
+      "related_claims": [
+        "C-1278"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-160",
+      "ref": "N-160",
+      "name": "Reagan (commenter)",
+      "type": "person",
+      "description": "Former teacher; requests education-system reading recommendations.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-161",
+      "ref": "N-161",
+      "name": "Recovery Recon (commenter)",
+      "type": "person",
+      "description": "Raises FBI photo-release discrepancy between ICE Dallas and Charlie Kirk case.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Aravik (commenter)",
+      "type": "person",
+      "description": "Commenter praising host's investigation.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-163",
+      "ref": "N-163",
+      "name": "Lighthouse (commenter)",
+      "type": "person",
+      "description": "Commenter defending Erika Kirk's grief response.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-164",
+      "ref": "N-164",
+      "name": "Brooke Rice (commenter)",
+      "type": "person",
+      "description": "Commenter noting grandparents' 3-day engagement, 67-yr marriage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1175",
+      "ref": "N-1175",
+      "name": "FBI Case Closure Pressure",
+      "type": "topic",
+      "description": "Host claims FBI pressuring Utah authorities to rule lone-gunman.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1279"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1176",
+      "ref": "N-1176",
+      "name": "Tyler Robinson Evidence Gaps",
+      "type": "topic",
+      "description": "Host's source: no roof video, fragmented bullet, no confession, gun-arrival unrecorded.",
+      "related_artifacts": [
+        "A-1161.1"
+      ],
+      "related_claims": [
+        "C-1278",
+        "C-1280",
+        "C-1281",
+        "C-1282",
+        "C-1283"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "discrepancy"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1177",
+      "ref": "N-1177",
+      "name": "Crooks Federal-Radar Question",
+      "type": "topic",
+      "description": "Was Crooks known to feds pre-attempt given extensive violent online history?",
+      "related_artifacts": [
+        "A-1156.1",
+        "A-1156.2",
+        "A-1156.3",
+        "A-1156.4"
+      ],
+      "related_claims": [
+        "C-1270",
+        "C-1273"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1178",
+      "ref": "N-1178",
+      "name": "Lone-Shooter Narrative Critique",
+      "type": "topic",
+      "description": "Host argues lone-shooter framing obscures networks; cites Crooks + Kirk cases.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "topic_kind": "narrative_pattern"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1179",
+      "ref": "N-1179",
+      "name": "Beehive Code / School Underground Premonition",
+      "type": "topic",
+      "description": "Candace's Aug 30–Sep 2 premonition of school-linked 'bee' underground.",
+      "related_artifacts": [
+        "A-1155.2",
+        "A-1160.1"
+      ],
+      "related_claims": [
+        "C-1269",
+        "C-1277"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "narrative_pattern"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1180",
+      "ref": "N-1180",
+      "name": "Utah Beehive Symbolism",
+      "type": "topic",
+      "description": "Hexagonal beehive flag tied to Mormon pioneer 'common good' / Soviet worker-bee imagery.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "topic_kind": "narrative_pattern"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1181",
+      "ref": "N-1181",
+      "name": "Soviet Education Infiltration",
+      "type": "topic",
+      "description": "Host thesis: US public schools shaped by 1848 communist ideology; references Sowell & Schurz.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "topic_kind": "narrative_pattern"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1182",
+      "ref": "N-1182",
+      "name": "MK Ultra Continuity Theory",
+      "type": "topic",
+      "description": "Host asserts MK Ultra never discontinued and feeds lone-shooter candidates.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "topic_kind": "narrative_pattern"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1183",
+      "ref": "N-1183",
+      "name": "Jezebel/Etsy Hex on Charlie Kirk",
+      "type": "topic",
+      "description": "Alleged curse placed via Etsy witches; Kirk family consulted Catholic priest.",
+      "related_artifacts": [
+        "A-1157.1"
+      ],
+      "related_claims": [
+        "C-1274"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1184",
+      "ref": "N-1184",
+      "name": "Candace UK Premonition / Husband Meeting",
+      "type": "topic",
+      "description": "18-day engagement after UK trip she felt compelled to take with Charlie.",
+      "related_artifacts": [
+        "A-1155.1"
+      ],
+      "related_claims": [
+        "C-1268"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "biographical"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1185",
+      "ref": "N-1185",
+      "name": "Jimmy Kimmel Free-Speech Defense",
+      "type": "topic",
+      "description": "Kimmel thanks right-wing voices; Candace opposes gov't speech overreach.",
+      "related_artifacts": [
+        "A-1158.1"
+      ],
+      "related_claims": [
+        "C-1275"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "event"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1186",
+      "ref": "N-1186",
+      "name": "Crooks Ideological Transformation",
+      "type": "topic",
+      "description": "Host documents Crooks' shift from pro-Trump to anti-Trump around 2020.",
+      "related_artifacts": [
+        "A-1156.1",
+        "A-1156.3"
+      ],
+      "related_claims": [
+        "C-1272",
+        "C-1270"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "narrative_pattern"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1187",
+      "ref": "N-1187",
+      "name": "Eyewitness Roof-Description Discrepancy",
+      "type": "topic",
+      "description": "Host: eyewitness told her shooter was in tactical gear, gun mismatched.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1284"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "discrepancy"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1138",
+      "ref": "N-1138",
+      "name": "FBI",
+      "type": "organization",
+      "description": "Host alleges pressuring Utah to close Kirk case as lone-gunman.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1279",
+        "C-1282"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "government_agency"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1003",
+      "ref": "N-1003",
+      "name": "MK Ultra",
+      "type": "organization",
+      "description": "CIA program (1950s-60s); host asserts it was never discontinued.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "organization_kind": "program_or_initiative"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1188",
+      "ref": "N-1188",
+      "name": "Jezebel",
+      "type": "organization",
+      "description": "Far-left website that declared mission to curse Charlie Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1274"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "media"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1204",
+      "ref": "N-1204",
+      "name": "Etsy",
+      "type": "organization",
+      "description": "Host cites platform offering witch-hex services used by Jezebel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1274"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "company"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1077",
+      "ref": "N-1077",
+      "name": "Utah Valley University",
+      "type": "organization",
+      "description": "Site of Charlie Kirk assassination, Sept 10, 2025.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1282"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "educational_institution"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1201",
+      "ref": "N-1201",
+      "name": "Riverbend Ranch",
+      "type": "organization",
+      "description": "Sponsor; produced audio tribute to Charlie Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1276"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "company"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1193",
+      "ref": "N-1193",
+      "name": "Utah",
+      "type": "place",
+      "description": "Site of Kirk assassination; the 'Beehive State'; hexagonal beehive flag.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "place_kind": "state"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1190",
+      "ref": "N-1190",
+      "name": "London / UK",
+      "type": "place",
+      "description": "Destination of Candace's premonition UK trip; meeting site for husband.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "place_kind": "city_region"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1200",
+      "ref": "N-1200",
+      "name": "Poland",
+      "type": "place",
+      "description": "Source of communist underground symbol found online by Candace.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "place_kind": "country"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1202",
+      "ref": "N-1202",
+      "name": "Germany (1848 reference)",
+      "type": "place",
+      "description": "Host cites 1848 communist uprising; kindergarten-establishment origin.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "place_kind": "country"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1267",
+      "ref": "C-1267",
+      "label": "Candace-Charlie text exchange re: UK flights",
+      "claim": "Candace and Charlie exchanged text messages about booking UK flights ($450 coach, $1,200 first class).",
+      "anchored_artifacts": [
+        "A-1155.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-7",
+        "N-100",
+        "N-79",
+        "N-149",
+        "N-154",
+        "N-155",
+        "N-80",
+        "N-156",
+        "N-99",
+        "N-158",
+        "N-160",
+        "N-161",
+        "N-162",
+        "N-163",
+        "N-164"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:01",
+      "investigative_direction": "Verify text chain authenticity and timestamp; cross-check flight records.",
+      "transcript_snippet": "Reme $450 in coach or 1,200 in first class.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1268",
+      "ref": "C-1268",
+      "label": "UK trip led to meeting husband within 18 days",
+      "claim": "Candace met her husband for the first time during the UK trip and they were engaged 18 days later.",
+      "anchored_artifacts": [
+        "A-1155.1"
+      ],
+      "related_nodes": [
+        "N-7",
+        "N-100",
+        "N-1184"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:38",
+      "investigative_direction": "Corroborate via marriage records, flight manifests, and Turning Point UK launch date.",
+      "transcript_snippet": "I didn't know him. I never even saw his face 18 day 18 days prior.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1269",
+      "ref": "C-1269",
+      "label": "Bee-code school danger premonition texts (Aug 30–Sep 2)",
+      "claim": "Candace exchanged text messages Aug 30–Sep 2 with her husband and sister describing 'imminent danger' and a 'communist underground' at schools using 'bees' as coded language.",
+      "anchored_artifacts": [
+        "A-1155.2"
+      ],
+      "related_nodes": [
+        "N-7",
+        "N-100",
+        "N-157",
+        "N-1179"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:44",
+      "investigative_direction": "Verify timestamps against phone records; preserve screenshots for chain-of-custody.",
+      "transcript_snippet": "Imminent danger is coming…communist underground…has something to do with bees.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1270",
+      "ref": "C-1270",
+      "label": "Existence of 80-page Crooks online-history document",
+      "claim": "Host possesses an 80-page document containing scraped Crooks online accounts, statements, and activity predating July 13, 2024.",
+      "anchored_artifacts": [
+        "A-1156.1"
+      ],
+      "related_nodes": [
+        "N-148",
+        "N-1177",
+        "N-1186"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:09",
+      "investigative_direction": "Obtain full document; forensically authenticate scrape and timestamps.",
+      "transcript_snippet": "I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1271",
+      "ref": "C-1271",
+      "label": "Crooks posted bedroom firing-practice videos",
+      "claim": "Thomas Matthew Crooks posted multiple videos of himself practicing firing a weapon in his bedroom.",
+      "anchored_artifacts": [
+        "A-1156.2"
+      ],
+      "related_nodes": [
+        "N-148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:42",
+      "investigative_direction": "Confirm via original-platform uploads and metadata.",
+      "transcript_snippet": "Videos that he was posting of himself shooting with no bullets in the gun in his bedroom.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1272",
+      "ref": "C-1272",
+      "label": "Crooks posted violent YouTube comments",
+      "claim": "Crooks posted YouTube comments calling for violence against 'socialist Jews' and for Democrats to be beheaded.",
+      "anchored_artifacts": [
+        "A-1156.3"
+      ],
+      "related_nodes": [
+        "N-148",
+        "N-1186"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:27",
+      "investigative_direction": "Recover original YouTube comments and timestamps via scrape or platform archives.",
+      "transcript_snippet": "Blasting their useless brains out with an AR…heads chopped off and put on stakes.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1273",
+      "ref": "C-1273",
+      "label": "Crooks Google-searched mass-attack research",
+      "claim": "Crooks' Google search history included 'best places for a mass shooting', molotov cocktails, fertilizer bombs, and prior shooting references.",
+      "anchored_artifacts": [
+        "A-1156.4"
+      ],
+      "related_nodes": [
+        "N-148",
+        "N-1177"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:02",
+      "investigative_direction": "Obtain original search-history logs or corroborating scrape; verify timeline.",
+      "transcript_snippet": "Best places for a mass shooting. How to make Molotov cocktails.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1274",
+      "ref": "C-1274",
+      "label": "Megyn Kelly: Jezebel/Etsy curse on Kirk",
+      "claim": "Per Megyn Kelly segment, Jezebel declared a mission to curse Charlie Kirk and Etsy offered witch-hex services; the Kirks consulted a Catholic priest.",
+      "anchored_artifacts": [
+        "A-1157.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-75",
+        "N-1188",
+        "N-1204",
+        "N-1183"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:20",
+      "investigative_direction": "Recover Jezebel article and Etsy listings; verify priest consultation with family.",
+      "transcript_snippet": "Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1275",
+      "ref": "C-1275",
+      "label": "Kimmel thanked right-wing free-speech defenders",
+      "claim": "Jimmy Kimmel's monologue thanked conservatives including Candace Owens, Ted Cruz, Ben Shapiro, Rand Paul, Mitch McConnell, and Clay Travis for defending free speech.",
+      "anchored_artifacts": [
+        "A-1158.1"
+      ],
+      "related_nodes": [
+        "N-7",
+        "N-122",
+        "N-150",
+        "N-133",
+        "N-151",
+        "N-152",
+        "N-153",
+        "N-1185"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:33",
+      "investigative_direction": "Verify exact quote against full Kimmel monologue transcript.",
+      "transcript_snippet": "People who I never would have imagined like Ben Shapiro, Clay Travis, Candace Owens…",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1276",
+      "ref": "C-1276",
+      "label": "Riverbend Ranch tribute audio aired",
+      "claim": "Riverbend Ranch produced and aired an audio tribute honoring Charlie Kirk's life and principles.",
+      "anchored_artifacts": [
+        "A-1159.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1201"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:37",
+      "investigative_direction": "Confirm authenticity and release date via Riverbend Ranch.",
+      "transcript_snippet": "We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1277",
+      "ref": "C-1277",
+      "label": "Book club: Candace committed to homeschooling",
+      "claim": "At a Sept 9 book club meeting, Candace publicly described her decision to homeschool and remove her children from school.",
+      "anchored_artifacts": [
+        "A-1160.1"
+      ],
+      "related_nodes": [
+        "N-7",
+        "N-1179"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:56",
+      "investigative_direction": "Verify date and obtain full recording.",
+      "transcript_snippet": "I'm homeschooling my kids. I'm so excited.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1278",
+      "ref": "C-1278",
+      "label": "Natalie tip: Tyler Robinson seen with a woman",
+      "claim": "Listener Natalie reported that a video of Tyler Robinson walking in a neighborhood also shows him changing clothes and accompanied by a woman.",
+      "anchored_artifacts": [
+        "A-1161.1"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-159",
+        "N-1176"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:36",
+      "investigative_direction": "Obtain original video from Natalie; verify identity of woman and chain of custody.",
+      "transcript_snippet": "It also shows him changing clothes and he is not alone. There is a woman with him.",
+      "confidence": "low"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1279",
+      "ref": "C-1279",
+      "label": "FBI pressuring Utah to close Kirk case",
+      "claim": "Host claims a well-placed source says the FBI is pressuring Utah authorities to declare the Charlie Kirk case closed as a lone-gunman act.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1138",
+        "N-1175"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:42",
+      "investigative_direction": "Identify and corroborate the source; FOIA communications between FBI and Utah authorities.",
+      "transcript_snippet": "The FBI is putting an absurd amount of pressure…to come out and to say that the Charlie Kirk case is closed.",
+      "confidence": "low"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1280",
+      "ref": "C-1280",
+      "label": "No video shows Tyler Robinson firing weapon",
+      "claim": "Host asserts there is no video of Tyler Robinson firing the weapon or taking aim at Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-1176"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:40",
+      "investigative_direction": "Confirm via court filings, prosecution discovery, and public statements.",
+      "transcript_snippet": "There is absolutely no video which shows Tyler Robinson firing the weapon.",
+      "confidence": "low"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1281",
+      "ref": "C-1281",
+      "label": "Bullet too fragmented to match Tyler's rifle",
+      "claim": "Host's source says the bullet was too fragmented to match Tyler Robinson's rifle.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-1176"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:11",
+      "investigative_direction": "Obtain forensic ballistics report from court filings.",
+      "transcript_snippet": "The bullet…was too fragmented to match Tyler's rifle.",
+      "confidence": "low"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1282",
+      "ref": "C-1282",
+      "label": "FBI lacks footage of rifle reaching the roof",
+      "claim": "Host's source says the FBI does not have footage showing how the rifle was placed on the UVU roof.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-1138",
+        "N-1077",
+        "N-1176"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:13",
+      "investigative_direction": "Verify against indictment and discovery materials.",
+      "transcript_snippet": "The feds don't even have any footage that explains how exactly the rifle…got onto the roof.",
+      "confidence": "low"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1283",
+      "ref": "C-1283",
+      "label": "Multiple sets of prints on Robinson rifle",
+      "claim": "Host's source says prints other than Tyler Robinson's were also on the rifle.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-1176"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:59",
+      "investigative_direction": "Obtain forensic print report from court filings.",
+      "transcript_snippet": "It's not the only set of prints that are on that gun.",
+      "confidence": "low"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1284",
+      "ref": "C-1284",
+      "label": "Eyewitness: shooter in tactical gear, gun mismatch",
+      "claim": "Per host's source, the eyewitness who filmed the rooftop shooter says the figure wore tactical gear and the gun did not match what he observed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-1187"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:46",
+      "investigative_direction": "Identify and interview the eyewitness; obtain his footage.",
+      "transcript_snippet": "He was in tactical gear. The person that I saw was in tactical gear.",
+      "confidence": "low"
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-5",
+      "ref": "M-5",
+      "canonical_term": "happy coincidence",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 17,
+          "video_timestamp": "00:12:38",
+          "speaker_node_ref": "N-7",
+          "quote": "I just realized the reason that I had this overwhelming feeling to be there was because I was supposed to be my husband.",
+          "context": "Candace recasts 'intuition/premonition' as God-guided happy coincidence leading to husband meeting.",
+          "confidence": "high",
+          "tags": [
+            "biographical",
+            "spiritual_framing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-6",
+      "ref": "M-6",
+      "canonical_term": "conspiracy theorist",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 17,
+          "video_timestamp": "00:10:42",
+          "speaker_node_ref": "N-7",
+          "quote": "I get all the conspiracies online when people were like there's no way she her and her husband got engaged after 18 days.",
+          "context": "Host pre-emptively cites conspiracy-theorist mockery of her 18-day engagement; uses term to dismiss critics.",
+          "confidence": "high",
+          "tags": [
+            "self_reference"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-7",
+      "ref": "M-7",
+      "canonical_term": "Catholic/Evangelical/Jewish identity flip",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 17,
+          "video_timestamp": "00:53:15–00:53:40",
+          "speaker_node_ref": "N-158",
+          "quote": "The name of the Mormon church is the Church of Jesus Christ of Latter-day Saints.",
+          "context": "Listener correction as host oscillates between 'Mormon Church' and 'Church of Jesus Christ of Latter-day Saints'.",
+          "confidence": "high",
+          "tags": [
+            "denominational_naming"
+          ]
+        }
+      ]
+    }
+  ]
+}

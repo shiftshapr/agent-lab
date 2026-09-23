@@ -1,0 +1,22 @@
+{
+  "monument": "bride_of_charlie",
+  "episodes": [
+    {"monument_ep": 9, "youtube_id": "_dRaEO47-co"},
+    {"monument_ep": 10, "youtube_id": "czVBmqZP6Ss"},
+    {"monument_ep": 11, "youtube_id": "q7f8r-THr84"},
+    {"monument_ep": 12, "youtube_id": "2WEHTk0Xewg"},
+    {"monument_ep": 13, "youtube_id": "sreYYcID-QY"},
+    {"monument_ep": 14, "youtube_id": "aDlhjfW6hz8"},
+    {"monument_ep": 15, "youtube_id": "ja26iltROkM"},
+    {"monument_ep": 16, "youtube_id": "UBkFkg4UNY8"},
+    {"monument_ep": 17, "youtube_id": "QZWSsq8ZWzw"},
+    {"monument_ep": 18, "youtube_id": "K5GjF53bfN4"}
+  ],
+  "next_ids": {
+    "person": 59,
+    "topic_org_place": 1067,
+    "claim": 1115,
+    "artifact_family": 1077,
+    "meme": 10
+  }
+}

@@ -1,0 +1,1422 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 12,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–01:30:19",
+    "extraction_timestamp": "2026-09-23T19:33:39Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "01827eb532b7317b128eba25a70f6def2108e8ca79fdbe46bd399b76d5e2e53f",
+    "analysis_date": "2026-09-23"
+  },
+  "executive_summary": "Episode 12 dissects the alleged text messages between Tyler Robinson and Lance Twigs released with the indictment. Candace Owens argues the language ('retrieve', 'vehicle'), the absence of timestamps, and the timing relative to press conferences expose a federal-level fabrication. She pivots to claims that the maroon-shirt person on TMZ footage may differ from the stairs person, that Lance was suspiciously released, and that Governor Cox lied about a 33-hour same-outfit timeline. The second half features Tucker Carlson and Megan Kelly clips alleging donor intimidation over Charlie's pro-Candace stance, plus a clash with Charlie's pastor Rob McCoy.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1104",
+      "family_ref": "A-1104",
+      "bundle_name": "Robinson-Twigs Text Messages Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1104.1",
+          "ref": "A-1104.1",
+          "description": "Sept 10 text: 'Drop what you are doing. Look under my keyboard.' Lance retrieves note, photographs it, note then destroyed.",
+          "related_claims": [
+            "C-1177"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-84"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "video_timestamp": "00:05:52",
+          "transcript_snippet": "Drop what you are doing. Look under my keyboard.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1104.2",
+          "ref": "A-1104.2",
+          "description": "Sept 10 text referencing 'some crazy old dude' interrogated and 'someone in similar clothing' — enables 5:30 PM timeline placement.",
+          "related_claims": [
+            "C-1178",
+            "C-1179"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-84",
+            "N-71"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "video_timestamp": "00:08:18",
+          "transcript_snippet": "No, they grabbed some crazy old dude, then interrogated someone in similar clothing.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1104.3",
+          "ref": "A-1104.3",
+          "description": "Sept 10 motive statement: 'I had enough of his hatred. Some hate cannot be negotiated out.'",
+          "related_claims": [
+            "C-1179"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "video_timestamp": "00:12:34",
+          "transcript_snippet": "I had enough of his hatred. Some hate cannot be negotiated out.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1104.4",
+          "ref": "A-1104.4",
+          "description": "Sept 10 text admitting rifle left in bush where he 'changed outfits'.",
+          "related_claims": [
+            "C-1180",
+            "C-1183"
+          ],
+          "related_nodes": [
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "video_timestamp": "00:15:24",
+          "transcript_snippet": "I had to leave it in a bush where I changed outfits.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1104.5",
+          "ref": "A-1104.5",
+          "description": "Sept 10 text on engraved bullets described as 'mostly a big meme'.",
+          "related_claims": [
+            "C-1179"
+          ],
+          "related_nodes": [
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "video_timestamp": "00:16:22",
+          "transcript_snippet": "Remember how I was engraving the bullets? The effing messages are mostly a big meme.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1104.6",
+          "ref": "A-1104.6",
+          "description": "Sept 10 closing: 'judging from today, I'd say grandpa's gun'.",
+          "related_claims": [
+            "C-1179"
+          ],
+          "related_nodes": [
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "video_timestamp": "00:17:02",
+          "transcript_snippet": "judging from today, I'd say grandpa's gun. Want to make very clear. This is grandpa's gun.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1104.7",
+          "ref": "A-1104.7",
+          "description": "Sept 11 text: 'delete this exchange. My dad wants photos of the rifle.'",
+          "related_claims": [
+            "C-1181"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-84"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "00:26:15",
+          "transcript_snippet": "delete this exchange. My dad wants photos of the rifle.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1104.8",
+          "ref": "A-1104.8",
+          "description": "Sept 11 text: 'Since Trump got into office, my dad has been pretty diehard MAGA.'",
+          "related_claims": [
+            "C-1179"
+          ],
+          "related_nodes": [
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "00:27:42",
+          "transcript_snippet": "Since Trump got into office, my dad has been pretty diehard MAGA.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1104.9",
+          "ref": "A-1104.9",
+          "description": "Sept 11 text: 'I'm going to turn myself in willingly. One of my neighbors is here. He is deputy for the sheriff.'",
+          "related_claims": [
+            "C-1179",
+            "C-1181"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-84"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "00:28:40",
+          "transcript_snippet": "I'm going to turn myself in willingly. One of my neighbors is here. He is deputy for the sheriff.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1104.10",
+          "ref": "A-1104.10",
+          "description": "Sept 11 text: 'Don't talk to the media. Please don't take any interviews… ask for a lawyer and stay silent.'",
+          "related_claims": [
+            "C-1181"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-84"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "00:29:15",
+          "transcript_snippet": "Don't talk to the media. Please don't take any interviews… ask for a lawyer and stay silent.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1105",
+      "family_ref": "A-1105",
+      "bundle_name": "Press Conference and Official Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1105.1",
+          "ref": "A-1105.1",
+          "description": "FBI Sept 11 morning press conference announcing recovery of high-powered bolt-action rifle in wooded area.",
+          "related_claims": [
+            "C-1179"
+          ],
+          "related_nodes": [
+            "N-101"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "00:22:37",
+          "transcript_snippet": "this morning, I can tell you that we have recovered what we believe is the weapon… high-powered bolt-action rifle.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1105.2",
+          "ref": "A-1105.2",
+          "description": "Governor Cox Sept 12 press conference: Robinson in 'consistent clothing' with morning surveillance; UVU arrival 8:29 AM in gray Dodge Challenger.",
+          "related_claims": [
+            "C-1182"
+          ],
+          "related_nodes": [
+            "N-101"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-12",
+          "video_timestamp": "00:35:41",
+          "transcript_snippet": "Robinson was observed in consistent clothing with those surveillance images.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1105.3",
+          "ref": "A-1105.3",
+          "description": "Trump on Fox and Friends at ~6:00 AM: 'with a high degree of certainty we have him.'",
+          "related_claims": [
+            "C-1181"
+          ],
+          "related_nodes": [
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-12",
+          "video_timestamp": "00:34:32",
+          "transcript_snippet": "with a high degree of certainty we have him. in custody.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1105.4",
+          "ref": "A-1105.4",
+          "description": "FBI Salt Lake City static images of alleged shooter walking up stairs, released ~10:00 AM Mountain Time.",
+          "related_claims": [
+            "C-1183"
+          ],
+          "related_nodes": [
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "00:24:55",
+          "transcript_snippet": "FBI Salt Lake City drops static images of the alleged shooter walking up the stairs.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1106",
+      "family_ref": "A-1106",
+      "bundle_name": "News Media Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1106.1",
+          "ref": "A-1106.1",
+          "description": "New York Post exclusive at 9:21 AM Mountain Time: photo of gun and bullets; introduced 'trans narrative'.",
+          "related_claims": [
+            "C-1179"
+          ],
+          "related_nodes": [
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "00:23:41",
+          "transcript_snippet": "They publish at 9:21 a.m., two hours after that first press conference, and say exclusive.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1106.2",
+          "ref": "A-1106.2",
+          "description": "TMZ footage: man in maroon t-shirt and shorts walking through neighborhood outside university at 8:07 AM.",
+          "related_claims": [
+            "C-1182",
+            "C-1183"
+          ],
+          "related_nodes": [
+            "N-101"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "video_timestamp": "00:19:15",
+          "transcript_snippet": "TMZ shows us the footage, remember, of the man wearing a maroon t-shirt and shorts.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1106.3",
+          "ref": "A-1106.3",
+          "description": "Discord statement: text messages were not coordinated on their server.",
+          "related_claims": [
+            "C-1176"
+          ],
+          "related_nodes": [
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-12",
+          "video_timestamp": "00:22:20",
+          "transcript_snippet": "Discord is going to later say that those messages were not coordinated on their server.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1107",
+      "family_ref": "A-1107",
+      "bundle_name": "Tucker Carlson and Megan Kelly Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1107.1",
+          "ref": "A-1107.1",
+          "description": "Tucker Carlson clip criticizing Netanyahu's reaction to Charlie's death as ghoulish and political.",
+          "related_claims": [
+            "C-1185"
+          ],
+          "related_nodes": [
+            "N-50",
+            "N-65",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "2026-03-17",
+          "video_timestamp": "00:54:47",
+          "transcript_snippet": "I was shocked and sickened by the reaction of the ghoulish… prime minister of Israel.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1107.2",
+          "ref": "A-1107.2",
+          "description": "Tucker Carlson clip on donor intimidation: Charlie lost $2M donation two days before death for inviting Candace to Turning Point.",
+          "related_claims": [
+            "C-1185"
+          ],
+          "related_nodes": [
+            "N-50",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "2026-03-17",
+          "video_timestamp": "00:58:39",
+          "transcript_snippet": "two days before he died, he lost a $2 million donation… to bring me to the next Turning Point conference.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1107.3",
+          "ref": "A-1107.3",
+          "description": "Megan Kelly clip corroborating donor pressure tactics against pro-Candace voices.",
+          "related_claims": [
+            "C-1185"
+          ],
+          "related_nodes": [
+            "N-75",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "2026-03-17",
+          "video_timestamp": "01:07:23",
+          "transcript_snippet": "Charlie is not the only one who's been threatened… I, too, have gotten that.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1108",
+      "family_ref": "A-1108",
+      "bundle_name": "Rob McCoy Pastor Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1108.1",
+          "ref": "A-1108.1",
+          "description": "Rob McCoy statement on Candace Owens investigation, citing biblical proverb 'A friend loves at all times.'",
+          "related_claims": [
+            "C-1185"
+          ],
+          "related_nodes": [
+            "N-45",
+            "N-1",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "2026-03-17",
+          "video_timestamp": "01:13:49",
+          "transcript_snippet": "I only wish at this tragic time of mourning she would be the friend to Charlie Kirk that he was to her.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1109",
+      "family_ref": "A-1109",
+      "bundle_name": "Matt Gaetz Confirmation Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1109.1",
+          "ref": "A-1109.1",
+          "description": "Matt Gaetz tweet: 'I have personal knowledge as to many of the claims Tucker is making here. They are 100% true. Yes, they were behaving like demons.'",
+          "related_claims": [
+            "C-1185"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "2026-03-17",
+          "video_timestamp": "01:06:06",
+          "transcript_snippet": "I have personal knowledge as to many of the claims Tucker is making here. They are 100% true.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1110",
+      "family_ref": "A-1110",
+      "bundle_name": "UVU Surveillance Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1110.1",
+          "ref": "A-1110.1",
+          "description": "UVU surveillance: Robinson arriving on campus in gray Dodge Challenger at 8:29 AM in maroon t-shirt, light shorts, black hat.",
+          "related_claims": [
+            "C-1182",
+            "C-1183"
+          ],
+          "related_nodes": [
+            "N-101",
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "video_timestamp": "00:36:22",
+          "transcript_snippet": "identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m.",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "22-year-old alleged killer of Charlie Kirk; subject of indictment text messages analyzed in episode.",
+      "related_artifacts": [
+        "A-1104.1",
+        "A-1104.2",
+        "A-1104.3",
+        "A-1104.4",
+        "A-1104.5",
+        "A-1104.6",
+        "A-1104.7",
+        "A-1104.8",
+        "A-1104.9",
+        "A-1104.10",
+        "A-1105.4",
+        "A-1106.1",
+        "A-1106.3",
+        "A-1110.1"
+      ],
+      "related_claims": [
+        "C-1175",
+        "C-1176",
+        "C-1177",
+        "C-1178",
+        "C-1179",
+        "C-1180",
+        "C-1183"
+      ],
+      "tags": [],
+      "evidence_count": 14,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-84",
+      "ref": "N-84",
+      "name": "Lance Twigs",
+      "type": "person",
+      "description": "22-year-old boyfriend/roommate of Tyler Robinson; received the keyboard note; central to host's 'Lance being protected' thesis.",
+      "related_artifacts": [
+        "A-1104.1",
+        "A-1104.2",
+        "A-1104.7",
+        "A-1104.9",
+        "A-1104.10"
+      ],
+      "related_claims": [
+        "C-1177",
+        "C-1181",
+        "C-1175"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Victim; subject of posthumous donor-intimidation narrative.",
+      "related_artifacts": [
+        "A-1104.3",
+        "A-1107.1",
+        "A-1107.2",
+        "A-1107.3",
+        "A-1108.1",
+        "A-1109.1"
+      ],
+      "related_claims": [
+        "C-1185"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; presenter of analysis and source of alleged insider claims.",
+      "related_artifacts": [
+        "A-1105.3",
+        "A-1108.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Charlie's widow; referenced via 'evildoers' grieving-widow meme.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-71",
+      "ref": "N-71",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "Initial suspect ('the decoy boy') released hours later; central to host's multi-person theory.",
+      "related_artifacts": [
+        "A-1104.2"
+      ],
+      "related_claims": [
+        "C-1178"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-101",
+      "ref": "N-101",
+      "name": "Governor Spencer Cox",
+      "type": "person",
+      "description": "Utah governor; press conference source for outfit consistency claim; subject of host's 'mouthpiece' criticism.",
+      "related_artifacts": [
+        "A-1105.1",
+        "A-1105.2",
+        "A-1106.2",
+        "A-1110.1"
+      ],
+      "related_claims": [
+        "C-1182"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Israeli Prime Minister; alleged by Tucker/Candace to have hijacked Charlie's memory.",
+      "related_artifacts": [
+        "A-1107.1"
+      ],
+      "related_claims": [
+        "C-1185"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-45",
+      "ref": "N-45",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Charlie Kirk's pastor; issued statement asking Candace to stop investigating during mourning.",
+      "related_artifacts": [
+        "A-1108.1"
+      ],
+      "related_claims": [
+        "C-1185"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Source of clips claiming Charlie was financially pressured over Candace invitation.",
+      "related_artifacts": [
+        "A-1107.1",
+        "A-1107.2"
+      ],
+      "related_claims": [
+        "C-1185"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Corroborating voice on donor pressure tactics.",
+      "related_artifacts": [
+        "A-1107.3"
+      ],
+      "related_claims": [
+        "C-1185"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Tweeted that subject in custody (George Zinn) was released; referenced for timeline.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1178"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-99",
+      "ref": "N-99",
+      "name": "Skyler",
+      "type": "person",
+      "description": "Production staff member operating timeline/graphics during episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-103",
+      "ref": "N-103",
+      "name": "Lance Twigs's Mother",
+      "type": "person",
+      "description": "Allegedly holds Bachelor of Science from Stanford University in psychology; flagged by host as 'running theme'.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1184"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-104",
+      "ref": "N-104",
+      "name": "Matt Gaetz",
+      "type": "person",
+      "description": "Congressman confirming Tucker's claims via tweet.",
+      "related_artifacts": [
+        "A-1109.1"
+      ],
+      "related_claims": [
+        "C-1185"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-105",
+      "ref": "N-105",
+      "name": "Seth Dillon",
+      "type": "person",
+      "description": "Babylon Bee CEO cited as pressuring Charlie to disinvite Candace.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1185"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-86",
+      "ref": "N-86",
+      "name": "Josh Hammer",
+      "type": "person",
+      "description": "Challenged by Candace to release his message threads with Charlie.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1185"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-68",
+      "ref": "N-68",
+      "name": "Dave Smith",
+      "type": "person",
+      "description": "Commentator referenced as part of broader pushback on BB Netany/Yahoo narrative.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1103",
+      "ref": "N-1103",
+      "name": "Text Message Language Anomaly",
+      "type": "topic",
+      "description": "Use of words like 'retrieve' and 'vehicle' presented as inconsistent with 22-year-old casual texting.",
+      "related_artifacts": [
+        "A-1104.1",
+        "A-1104.2"
+      ],
+      "related_claims": [
+        "C-1175"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "discrepancy"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1104",
+      "ref": "N-1104",
+      "name": "Missing Text Message Timestamps",
+      "type": "topic",
+      "description": "Indictment text messages released without timestamps, blocking independent chronology.",
+      "related_artifacts": [
+        "A-1104.1",
+        "A-1104.2",
+        "A-1104.7",
+        "A-1104.8",
+        "A-1104.9",
+        "A-1104.10",
+        "A-1106.3"
+      ],
+      "related_claims": [
+        "C-1176"
+      ],
+      "tags": [],
+      "evidence_count": 7,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "discrepancy"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1105",
+      "ref": "N-1105",
+      "name": "Robinson On-Campus Linger Timeline",
+      "type": "topic",
+      "description": "Allegation that Robinson lingered on campus for hours after the shooting attempting to retrieve rifle.",
+      "related_artifacts": [
+        "A-1104.2",
+        "A-1104.3",
+        "A-1104.4",
+        "A-1104.5",
+        "A-1104.6",
+        "A-1105.1",
+        "A-1106.1"
+      ],
+      "related_claims": [
+        "C-1178",
+        "C-1179"
+      ],
+      "tags": [],
+      "evidence_count": 7,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1106",
+      "ref": "N-1106",
+      "name": "Note Under Keyboard Disposal",
+      "type": "topic",
+      "description": "Note directing Lance to look under keyboard was destroyed after a photograph was taken.",
+      "related_artifacts": [
+        "A-1104.1"
+      ],
+      "related_claims": [
+        "C-1177"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1107",
+      "ref": "N-1107",
+      "name": "Outfit Change Claim",
+      "type": "topic",
+      "description": "Robinson's text references changing outfits and leaving rifle in bush; alleged inconsistency with Cox's same-outfit-for-33-hours claim.",
+      "related_artifacts": [
+        "A-1104.4",
+        "A-1105.2",
+        "A-1106.2",
+        "A-1110.1"
+      ],
+      "related_claims": [
+        "C-1180",
+        "C-1182"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "discrepancy"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1108",
+      "ref": "N-1108",
+      "name": "Two-Person Theory (Maroon vs Stairs)",
+      "type": "topic",
+      "description": "Host hypothesis that the maroon-shirt person at 8:07 AM differs from the person shown walking the stairs.",
+      "related_artifacts": [
+        "A-1105.4",
+        "A-1106.2",
+        "A-1110.1"
+      ],
+      "related_claims": [
+        "C-1183"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "narrative_pattern"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1109",
+      "ref": "N-1109",
+      "name": "Lance Twigs Protection Allegation",
+      "type": "topic",
+      "description": "Allegation that Lance was quickly released despite apartment raid and seizure of electronics; family claims feds were dishonest.",
+      "related_artifacts": [
+        "A-1104.9",
+        "A-1104.10",
+        "A-1105.3"
+      ],
+      "related_claims": [
+        "C-1181"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "discrepancy"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1110",
+      "ref": "N-1110",
+      "name": "Stanford Psychology Family Pattern",
+      "type": "topic",
+      "description": "Host's note that Lance's mother holds Stanford BS in psychology, alleged to be a 'running theme' in fed ops.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1184"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "narrative_pattern"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1111",
+      "ref": "N-1111",
+      "name": "Federal Conspiracy Allegation",
+      "type": "topic",
+      "description": "Host's overarching claim of federal-level conspiracy in Charlie Kirk's murder, framing the episode's investigation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1176",
+        "C-1182",
+        "C-1183"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "narrative_pattern"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1112",
+      "ref": "N-1112",
+      "name": "Donor Intimidation of Charlie Kirk",
+      "type": "topic",
+      "description": "Allegation that donors financially pressured Charlie over Candace's invitation to Turning Point conference.",
+      "related_artifacts": [
+        "A-1107.2",
+        "A-1107.3",
+        "A-1109.1"
+      ],
+      "related_claims": [
+        "C-1185"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "narrative_pattern"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1175",
+      "ref": "C-1175",
+      "label": "Text Message Language Too Formal for 22-Year-Olds",
+      "claim": "The Robinson-Twigs text messages use words like 'retrieve' and 'vehicle' in ways inconsistent with casual 22-year-old texting, suggesting they are not authentic.",
+      "anchored_artifacts": [
+        "A-1104.1",
+        "A-1104.2"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-84",
+        "N-1103",
+        "N-2",
+        "N-99",
+        "N-68"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:41",
+      "investigative_direction": "Pull the raw message files from Discord/phones for linguistic analysis against age cohort texting baselines.",
+      "transcript_snippet": "I played this game with my entire staff… someone used that term. The first was former military, second was a cop.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1176",
+      "ref": "C-1176",
+      "label": "Indictment Text Messages Lack Timestamps",
+      "claim": "The text messages released in the Robinson indictment were stripped of timestamps, preventing independent chronological verification.",
+      "anchored_artifacts": [
+        "A-1104.1",
+        "A-1104.2",
+        "A-1104.7",
+        "A-1104.8",
+        "A-1104.9",
+        "A-1104.10",
+        "A-1106.3"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1104",
+        "N-1111"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:33",
+      "investigative_direction": "FOIA or subpoena the underlying device data and Discord metadata to recover timestamps.",
+      "transcript_snippet": "the obvious thing, there's no timestamps. Right away, major red flag.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1177",
+      "ref": "C-1177",
+      "label": "Keyboard Note Destroyed After Photographing",
+      "claim": "The note Lance Twigs found under Tyler's keyboard was destroyed after he photographed it; the photo was shown to the feds but not the public.",
+      "anchored_artifacts": [
+        "A-1104.1"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-84",
+        "N-1106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:16",
+      "investigative_direction": "Obtain the photograph through discovery or leak; verify against the indictment's account of its destruction.",
+      "transcript_snippet": "even though he destroyed the note, he took a picture of it… we're not going to be able to see either anyways.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1178",
+      "ref": "C-1178",
+      "label": "Texts Could Not Have Been Sent Before 5:30 PM Sept 10",
+      "claim": "Because Robinson references 'similar clothing' to a second suspect, the relevant text could not have been sent before Governor Cox's 5:30 PM press conference mentioning dark clothing.",
+      "anchored_artifacts": [
+        "A-1104.2",
+        "A-1105.2",
+        "A-1110.1"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-71",
+        "N-102",
+        "N-1105"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:58",
+      "investigative_direction": "Recover device timestamps and confirm Cox press transcript.",
+      "transcript_snippet": "the earliest that that message could have been sent out is after 5:30 p.m.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1179",
+      "ref": "C-1179",
+      "label": "Robinson Allegedly Lingered Near Scene Hours After Shooting",
+      "claim": "Robinson's texts depict him remaining near the UVU scene for hours after the shooting, attempting to retrieve his rifle from a drop point.",
+      "anchored_artifacts": [
+        "A-1104.2",
+        "A-1104.3",
+        "A-1104.4",
+        "A-1104.5",
+        "A-1104.6",
+        "A-1105.1",
+        "A-1106.1"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1105"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:43",
+      "investigative_direction": "Demand release of campus surveillance footage, drone footage, and Dodge Challenger parking-lot video for the 5:30 PM–midnight window.",
+      "transcript_snippet": "I'm lingering around there. I'm trying to get the vehicle… I will have left no evidence.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1180",
+      "ref": "C-1180",
+      "label": "Robinson Left Rifle in Bush After Changing Outfits",
+      "claim": "Robinson's text states he changed outfits and left the rifle (referred to as 'Prince') wrapped in a towel in a bush.",
+      "anchored_artifacts": [
+        "A-1104.4"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1107"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:24",
+      "investigative_direction": "Cross-reference text account with forensic recovery location of the rifle and any clothing/bush evidence.",
+      "transcript_snippet": "I had to leave it in a bush where I changed outfits… only thing I left was the rifle wrapped in a towel.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1181",
+      "ref": "C-1181",
+      "label": "Lance Twigs Released Suspiciously Fast After Apartment Raid",
+      "claim": "Lance Twigs was released back to his parents the same night his apartment was raided and electronics seized, which Candace argues is procedurally anomalous.",
+      "anchored_artifacts": [
+        "A-1104.9",
+        "A-1104.10",
+        "A-1105.3"
+      ],
+      "related_nodes": [
+        "N-84",
+        "N-1109"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:19",
+      "investigative_direction": "Obtain the arrest/release log for Lance Twigs and the inventory of seized devices; compare with standard 24-hour detention practice.",
+      "transcript_snippet": "Why would they release Lance? Wouldn't you think that you would be detained like for at least 24 hours?",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1182",
+      "ref": "C-1182",
+      "label": "Same-Outfit-For-33-Hours Claim Disputed",
+      "claim": "Governor Cox's statement that Robinson wore the same maroon outfit for 33 hours is contradicted by host's source, who alleges a different outfit at pickup.",
+      "anchored_artifacts": [
+        "A-1105.2",
+        "A-1106.2",
+        "A-1110.1"
+      ],
+      "related_nodes": [
+        "N-101",
+        "N-1107",
+        "N-1111"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:45",
+      "investigative_direction": "Demand booking photos and any surveillance of Robinson at time of pickup; compare to the 8:07/8:29 AM maroon-shirt imagery.",
+      "transcript_snippet": "for 33 hours he decided that he was going to keep the outfit on… always sounded dumb to us.",
+      "confidence": "low",
+      "uncertainty_note": "Source-based claim; no independent corroboration presented in episode."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1183",
+      "ref": "C-1183",
+      "label": "Maroon-Shirt Person May Differ From Stairs Person",
+      "claim": "The person filmed in a maroon t-shirt at 8:07 AM may be a different individual from the person shown walking up the stairs in FBI static images.",
+      "anchored_artifacts": [
+        "A-1105.4",
+        "A-1106.2",
+        "A-1110.1"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1108",
+        "N-1111"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:28",
+      "investigative_direction": "Release full unedited video from both camera angles; forensic gait/posture analysis.",
+      "transcript_snippet": "I think the person in the maroon that's walking is different from the person that's walking up the stairs.",
+      "confidence": "low",
+      "uncertainty_note": "Framed by host as a 'gut'/'vibe' assessment; no forensic comparison presented."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1184",
+      "ref": "C-1184",
+      "label": "Lance Twigs's Mother Holds Stanford BS in Psychology",
+      "claim": "Lance Twigs's mother holds a Bachelor of Science from Stanford University in psychology, which the host describes as a 'running theme' in federal operations.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-103",
+        "N-1110"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:15",
+      "investigative_direction": "Verify the mother's Stanford degree via alumni records and LinkedIn; investigate pattern claim against other named operations.",
+      "transcript_snippet": "I already don't like that mom… received a bachelor of science from Stanford University in psychology.",
+      "confidence": "low",
+      "uncertainty_note": "Degree claim not independently sourced; presented as host assertion."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1185",
+      "ref": "C-1185",
+      "label": "Donors Financially Pressured Charlie Over Candace Speaking Slot",
+      "claim": "Donors financially threatened Charlie Kirk over inviting Candace Owens to a Turning Point conference, costing him a $2M donation two days before his death.",
+      "anchored_artifacts": [
+        "A-1107.1",
+        "A-1107.2",
+        "A-1107.3",
+        "A-1109.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-65",
+        "N-45",
+        "N-50",
+        "N-75",
+        "N-104",
+        "N-105",
+        "N-86",
+        "N-1112",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:39",
+      "investigative_direction": "Verify $2M donation withdrawal via Turning Point USA financial records; obtain donor correspondence threads.",
+      "transcript_snippet": "two days before he died, he lost a $2 million donation… people are really mad.",
+      "confidence": "medium"
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 12,
+          "video_timestamp": "01:22:31",
+          "speaker_node_ref": "N-7",
+          "quote": "like his wife said, evildoers evildoers have done some things",
+          "context": "Candace quoting Erika Kirk while vowing to continue investigating despite mourning-period pushback.",
+          "confidence": "high",
+          "tags": [
+            "grief_framing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-2",
+      "ref": "M-2",
+      "canonical_term": "Sheer Evil",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 12,
+          "video_timestamp": "01:03:47",
+          "speaker_node_ref": "N-7",
+          "quote": "it takes a truly demonic spirit… to flip in one second after he dies and say, 'Pretend it never happened.'",
+          "context": "Candace describing donors/eulogizers who she claims pressured Charlie before his death.",
+          "confidence": "high",
+          "tags": [
+            "moral_framing"
+          ]
+        },
+        {
+          "episode": 12,
+          "video_timestamp": "01:06:19",
+          "speaker_node_ref": "N-104",
+          "quote": "Yes, they were behaving like demons. There's just no question.",
+          "context": "Matt Gaetz tweet quoted by Candace to corroborate 'demons' framing.",
+          "confidence": "high",
+          "tags": [
+            "moral_framing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-6",
+      "ref": "M-6",
+      "canonical_term": "conspiracy theorist",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 12,
+          "video_timestamp": "00:15:32",
+          "speaker_node_ref": "N-7",
+          "quote": "That is why I am now a confirmed conspiracy theorist on this.",
+          "context": "Candace self-labeling after noting the alleged 'changed outfits' language in texts.",
+          "confidence": "high",
+          "tags": [
+            "self_label"
+          ]
+        },
+        {
+          "episode": 12,
+          "video_timestamp": "01:16:01",
+          "speaker_node_ref": "N-7",
+          "quote": "I feel like this is a conspiracy, a federal level conspiracy",
+          "context": "Reasserting conspiracy framing against pastor's plea to stop investigating.",
+          "confidence": "high",
+          "tags": [
+            "macro_claim"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-7",
+      "ref": "M-7",
+      "canonical_term": "Catholic/Evangelical/Jewish identity flip",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 12,
+          "video_timestamp": "01:13:55",
+          "speaker_node_ref": "N-7",
+          "quote": "this is exactly what Charlie's pastor passed around… Charlie's pastor couldn't find his voice when BBNet and Yahoo was lying about Charlie",
+          "context": "Candace accuses Rob McCoy of selectively using pastoral authority against her rather than against Netanyahu critics.",
+          "confidence": "high",
+          "tags": [
+            "religious_authority"
+          ]
+        }
+      ]
+    }
+  ]
+}

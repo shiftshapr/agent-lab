@@ -1,0 +1,2344 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 10,
+    "source": "Candace Owens YouTube",
+    "video_timestamp_range": "00:00–01:10:00",
+    "extraction_timestamp": "2026-09-23T19:31:50Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "818e179fe5957d7201c93616a5845536cad30d2182c1c2b188bf22e92d275abd",
+    "ledger_summary": {
+      "artifact_families_introduced": [
+        "ART_1",
+        "ART_2",
+        "ART_3",
+        "ART_4",
+        "ART_5",
+        "ART_6",
+        "ART_7",
+        "ART_8",
+        "ART_9",
+        "ART_10",
+        "ART_11",
+        "ART_12",
+        "ART_13",
+        "ART_14"
+      ],
+      "claim_range_introduced": [
+        "CLAIM_1",
+        "CLAIM_2",
+        "CLAIM_3",
+        "CLAIM_4",
+        "CLAIM_5",
+        "CLAIM_6",
+        "CLAIM_7",
+        "CLAIM_8",
+        "CLAIM_9",
+        "CLAIM_10",
+        "CLAIM_11",
+        "CLAIM_12",
+        "CLAIM_13",
+        "CLAIM_14",
+        "CLAIM_15",
+        "CLAIM_16",
+        "CLAIM_17",
+        "CLAIM_18",
+        "CLAIM_19",
+        "CLAIM_20",
+        "CLAIM_21"
+      ],
+      "new_nodes_introduced": [
+        "NODE_1",
+        "NODE_2",
+        "NODE_3",
+        "NODE_4",
+        "NODE_5",
+        "NODE_6",
+        "NODE_7",
+        "NODE_8",
+        "NODE_9",
+        "NODE_10",
+        "NODE_11",
+        "NODE_12",
+        "NODE_13",
+        "NODE_14",
+        "NODE_15",
+        "NODE_16",
+        "NODE_17",
+        "NODE_18",
+        "NODE_19",
+        "NODE_20",
+        "NODE_21",
+        "NODE_22",
+        "NODE_23",
+        "NODE_24",
+        "NODE_1000",
+        "NODE_1001",
+        "NODE_1002",
+        "NODE_1003",
+        "NODE_1004",
+        "NODE_1005",
+        "NODE_1006",
+        "NODE_1007",
+        "NODE_2000",
+        "NODE_2001",
+        "NODE_2002",
+        "NODE_2003",
+        "NODE_2004",
+        "NODE_2005",
+        "NODE_2006",
+        "NODE_2007",
+        "NODE_2008",
+        "NODE_2009",
+        "NODE_2010",
+        "NODE_3000",
+        "NODE_3001",
+        "NODE_3002"
+      ],
+      "existing_nodes_reused": [],
+      "notes": "Episode 10 is the first analyzed episode in this ledger run; all placeholder IDs are first-use."
+    }
+  },
+  "executive_summary": "Episode 10 presents host commentary on the Charlie Kirk assassination investigation and surrounding narratives. Primary artifacts include clips of Erika Kirk's widow remarks, Benjamin Netanyahu's Fox News interview, Charlie Kirk's Megan Kelly interview, Greta Van Susteren's interview with Netanyahu, Michael Savage commentary, and surveillance/press materials from TMZ, Governor Cox, and Discord. Claims focus on alleged misrepresentations of a May 2 letter, a Hamptons intervention by Bill Ackman, a Netanyahu phone invitation, and investigative timeline inconsistencies (outfit changes, weapon handling, confession timing). Epistemic flags raised: transcript names 'Aman' likely Bill Ackman, 'Galain' likely Ghislaine Maxwell, 'MSAD' likely Mossad.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_1",
+      "family_ref": "ART_1",
+      "bundle_name": "Erika Kirk Widow Speech Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_1.1",
+          "ref": "ART_1.1",
+          "description": "Brief clip of Erika Kirk's public remarks after Charlie Kirk's death, played on screen.",
+          "event_timestamp": "2025-09-10",
+          "source_timestamp": "2025-09-10",
+          "video_timestamp": "00:59–01:41",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_1"
+          ],
+          "related_nodes": [
+            "NODE_2",
+            "NODE_3",
+            "NODE_1"
+          ],
+          "transcript_snippet": "The cries of this widow will echo around the world like a battlecry.",
+          "tags": [
+            "widow_remarks",
+            "public_statement"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_2",
+      "family_ref": "ART_2",
+      "bundle_name": "Netanyahu Fox News Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_2.1",
+          "ref": "ART_2.1",
+          "description": "Clip of Netanyahu on Fox News less than 24 hours after Kirk's death, holding up the May 2 letter and describing a phone call and Israel invitation.",
+          "event_timestamp": "2025-09-11",
+          "source_timestamp": "2025-09-11",
+          "video_timestamp": "07:02–08:46",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_2",
+            "CLAIM_3",
+            "CLAIM_7"
+          ],
+          "related_nodes": [
+            "NODE_4",
+            "NODE_1",
+            "NODE_1001"
+          ],
+          "transcript_snippet": "He said he wrote me a letter on May 2nd this year. I called him and I spoke to him and I said, Please come to Israel.",
+          "tags": [
+            "news_interview",
+            "televised_statement"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_3",
+      "family_ref": "ART_3",
+      "bundle_name": "Charlie Kirk May 2 Letter Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_3.1",
+          "ref": "ART_3.1",
+          "description": "Physical letter held up by Netanyahu on Fox News, dated May 2, containing quoted Israel/Judeo-Christian support sentences.",
+          "event_timestamp": "2025-05-02",
+          "source_timestamp": "2025-05-02",
+          "video_timestamp": "07:26–07:33",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_3",
+            "CLAIM_4"
+          ],
+          "related_nodes": [
+            "NODE_1",
+            "NODE_4"
+          ],
+          "transcript_snippet": "One of my greatest joys as a Christian is advocating for Israel and forming alliances to defend Judeo-Christian civilization.",
+          "tags": [
+            "letter",
+            "primary_document"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_4",
+      "family_ref": "ART_4",
+      "bundle_name": "Charlie Kirk Megan Kelly Interview Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_4.1",
+          "ref": "ART_4.1",
+          "description": "Clip of Charlie Kirk speaking with Megan Kelly ~1 month before his death, describing pressure regarding Israel criticism and event guest lists.",
+          "event_timestamp": "2025-08",
+          "source_timestamp": "2025-08",
+          "video_timestamp": "10:51–12:33",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_5"
+          ],
+          "related_nodes": [
+            "NODE_1",
+            "NODE_15",
+            "NODE_7",
+            "NODE_8"
+          ],
+          "transcript_snippet": "My moral character is now being put into question… It feels like a pattern of behavior similar to what my grandparents saw in 1930s Germany online.",
+          "tags": [
+            "interview_clip",
+            "televised_statement"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_5",
+      "family_ref": "ART_5",
+      "bundle_name": "Greta Van Susteren Netanyahu Interview Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_5.1",
+          "ref": "ART_5.1",
+          "description": "Clip of Greta Van Susteren asking Netanyahu to address internet rumors that Israel was behind Kirk's assassination.",
+          "event_timestamp": "2025-09",
+          "source_timestamp": "2025-09",
+          "video_timestamp": "25:47–27:10",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_9"
+          ],
+          "related_nodes": [
+            "NODE_4",
+            "NODE_13",
+            "NODE_3000"
+          ],
+          "transcript_snippet": "Some of the internet rumors that somehow Israel is behind the Charlie Kirk murder… I want you to make a statement.",
+          "tags": [
+            "news_interview",
+            "televised_statement"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_6",
+      "family_ref": "ART_6",
+      "bundle_name": "Charlie Kirk Epstein Commentary Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_6.1",
+          "ref": "ART_6.1",
+          "description": "Clip played of Charlie Kirk stating that Jeffrey Epstein and Ghislaine/Robert Maxwell were Israeli intelligence assets running a blackmail operation.",
+          "event_timestamp": "pre-2025-09-10",
+          "source_timestamp": "pre-2025-09-10",
+          "video_timestamp": "28:14–29:54",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_10"
+          ],
+          "related_nodes": [
+            "NODE_1",
+            "NODE_16",
+            "NODE_17",
+            "NODE_18",
+            "NODE_1006"
+          ],
+          "transcript_snippet": "Epstein was playing a part. Epstein was a larer… Members of Congress are actively being blackmailed.",
+          "tags": [
+            "commentary_clip",
+            "prior_statement"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_7",
+      "family_ref": "ART_7",
+      "bundle_name": "Michael Savage Commentary Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_7.1",
+          "ref": "ART_7.1",
+          "description": "Clip of Michael Savage disputing FBI narrative that the Mauser rifle was disassembled on the rooftop and reassembled in the woods.",
+          "event_timestamp": "2025-09",
+          "source_timestamp": "2025-09",
+          "video_timestamp": "35:36–37:03",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_17",
+            "CLAIM_18"
+          ],
+          "related_nodes": [
+            "NODE_12",
+            "NODE_1005",
+            "NODE_2005"
+          ],
+          "transcript_snippet": "There's no rifle in his hand… They claim he removed the barrel from the mouser and fit the receiver and stock in his backpack…",
+          "tags": [
+            "commentary_clip",
+            "third_party_analysis"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_8",
+      "family_ref": "ART_8",
+      "bundle_name": "TMZ Surveillance Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_8.1",
+          "ref": "ART_8.1",
+          "description": "TMZ video at 8:07 AM showing a man in maroon t-shirt and light shorts walking near UVU campus before the shooting.",
+          "event_timestamp": "2025-09-10T08:07",
+          "source_timestamp": "2025-09-10",
+          "video_timestamp": "38:50–39:08",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_11"
+          ],
+          "related_nodes": [
+            "NODE_9",
+            "NODE_1002",
+            "NODE_1003",
+            "NODE_3002"
+          ],
+          "transcript_snippet": "At 8:07 a.m. a man wearing a maroon t-shirt and light shorts, hands in his pockets, walking outside university grounds.",
+          "tags": [
+            "surveillance_footage",
+            "press_source"
+          ],
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_8.2",
+          "ref": "ART_8.2",
+          "description": "TMZ doorbell camera footage at 11:49 AM showing a person in a different outfit, reportedly limping.",
+          "event_timestamp": "2025-09-10T11:49",
+          "source_timestamp": "2025-09-10",
+          "video_timestamp": "40:27–40:56",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_13"
+          ],
+          "related_nodes": [
+            "NODE_9",
+            "NODE_1002",
+            "NODE_2004"
+          ],
+          "transcript_snippet": "At 11:49 AM Charlie has not yet been shot. Someone who appears to be limping.",
+          "tags": [
+            "doorbell_cam",
+            "press_source"
+          ],
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_8.3",
+          "ref": "ART_8.3",
+          "description": "TMZ backyard running footage at 12:29 PM showing a person allegedly running after the shooting.",
+          "event_timestamp": "2025-09-10T12:29",
+          "source_timestamp": "2025-09-10",
+          "video_timestamp": "43:37–43:56",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_16"
+          ],
+          "related_nodes": [
+            "NODE_9",
+            "NODE_1002",
+            "NODE_2009"
+          ],
+          "transcript_snippet": "At 12:29 p.m., TMZ showing us that there's a person running through the backyard.",
+          "tags": [
+            "surveillance_footage",
+            "press_source"
+          ],
+          "confidence": "medium",
+          "uncertainty_note": "Footage described as very grainy; feds have not confirmed it shows Robinson."
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_9",
+      "family_ref": "ART_9",
+      "bundle_name": "Governor Cox Press Conference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_9.1",
+          "ref": "ART_9.1",
+          "description": "Governor Cox statement: Robinson arrived at UVU campus in gray Dodge Challenger at 8:29 AM in maroon shirt.",
+          "event_timestamp": "2025-09-12",
+          "source_timestamp": "2025-09-12",
+          "video_timestamp": "39:36–39:55",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_12"
+          ],
+          "related_nodes": [
+            "NODE_9",
+            "NODE_10",
+            "NODE_1003",
+            "NODE_2009"
+          ],
+          "transcript_snippet": "Investigators identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m.",
+          "tags": [
+            "press_conference",
+            "official_statement"
+          ],
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_9.2",
+          "ref": "ART_9.2",
+          "description": "Governor Cox statement that Robinson's roommate is transitioning male-to-female and cooperating.",
+          "event_timestamp": "2025-09",
+          "source_timestamp": "2025-09",
+          "video_timestamp": "49:31–50:29",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_19"
+          ],
+          "related_nodes": [
+            "NODE_9",
+            "NODE_10",
+            "NODE_2006"
+          ],
+          "transcript_snippet": "His roommate was indeed a boyfriend who who is transitioning from male to female… he is cooperating.",
+          "tags": [
+            "press_conference",
+            "official_statement"
+          ],
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_9.3",
+          "ref": "ART_9.3",
+          "description": "Governor Cox statement that Robinson has not confessed and is not cooperating with authorities.",
+          "event_timestamp": "2025-09",
+          "source_timestamp": "2025-09",
+          "video_timestamp": "49:51–49:59",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_20"
+          ],
+          "related_nodes": [
+            "NODE_9",
+            "NODE_10",
+            "NODE_2006"
+          ],
+          "transcript_snippet": "He has not confessed to authorities. He is not cooperating.",
+          "tags": [
+            "press_conference",
+            "official_statement"
+          ],
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_9.4",
+          "ref": "ART_9.4",
+          "description": "Governor Cox statement summarizing Discord messages about rifle drop point, outfit change, and engraved bullets.",
+          "event_timestamp": "2025-09",
+          "source_timestamp": "2025-09",
+          "video_timestamp": "51:09–52:13",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_18"
+          ],
+          "related_nodes": [
+            "NODE_9",
+            "NODE_10",
+            "NODE_1004",
+            "NODE_2004"
+          ],
+          "transcript_snippet": "Messages including a need to retrieve a rifle from a drop point, leaving the rifle in a bush, wrapped in a towel.",
+          "tags": [
+            "press_conference",
+            "official_statement"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_10",
+      "family_ref": "ART_10",
+      "bundle_name": "Discord Statement",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_10.1",
+          "ref": "ART_10.1",
+          "description": "Discord spokesperson statement that they found no evidence the suspect planned the incident or promoted violence on Discord.",
+          "event_timestamp": "2025-09",
+          "source_timestamp": "2025-09",
+          "video_timestamp": "52:53–53:10",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_21"
+          ],
+          "related_nodes": [
+            "NODE_1004",
+            "NODE_9"
+          ],
+          "transcript_snippet": "Discord identified a Discord account associated with the suspect, but have found no evidence that the suspect planned this incident.",
+          "tags": [
+            "platform_statement",
+            "press_release"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_11",
+      "family_ref": "ART_11",
+      "bundle_name": "Bill Ackman Tweet",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_11.1",
+          "ref": "ART_11.1",
+          "description": "Tweet by Bill Ackman (transcribed as 'Aman') saying he was privileged to share a meal with Charlie Kirk, presented as contradictory to host narrative.",
+          "event_timestamp": "2025-09",
+          "source_timestamp": "2025-09",
+          "video_timestamp": "18:47–18:58",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_15"
+          ],
+          "related_nodes": [
+            "NODE_5",
+            "NODE_1",
+            "NODE_2000"
+          ],
+          "transcript_snippet": "I feel incredibly privileged to have spent a day and shared a meal with Charlie Kirk this summer. He was a giant of a man.",
+          "tags": [
+            "social_media_post",
+            "x_post"
+          ],
+          "confidence": "medium",
+          "uncertainty_note": "Transcript spells 'Aman'; flag for likely Bill Ackman (billionaire named in same Hamptons discussion)."
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_12",
+      "family_ref": "ART_12",
+      "bundle_name": "Candace Owens Text Exchange with Seth Dylan",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_12.1",
+          "ref": "ART_12.1",
+          "description": "Text messages sent by Candace Owens to Seth Dylan about the Hamptons meeting, described by host as shown on screen.",
+          "event_timestamp": "2025-09",
+          "source_timestamp": "2025-09",
+          "video_timestamp": "18:41–19:36",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_15"
+          ],
+          "related_nodes": [
+            "NODE_2",
+            "NODE_6",
+            "NODE_5",
+            "NODE_4",
+            "NODE_2000",
+            "NODE_2003"
+          ],
+          "transcript_snippet": "You were present when Aman lost his mind on Charlie and when BB invited him to Israel and Charlie refused.",
+          "tags": [
+            "text_messages",
+            "host_comms"
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_13",
+      "family_ref": "ART_13",
+      "bundle_name": "Physical Evidence Photos Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_13.1",
+          "ref": "ART_13.1",
+          "description": "Photo of rifle found in woods wrapped in dark towel, fully assembled.",
+          "event_timestamp": "2025-09-10",
+          "source_timestamp": "2025-09-10",
+          "video_timestamp": "44:13–44:32",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_17"
+          ],
+          "related_nodes": [
+            "NODE_1005",
+            "NODE_9",
+            "NODE_2005"
+          ],
+          "transcript_snippet": "The weapon, they say, was found in the woods and it was wrapped by a dark towel.",
+          "tags": [
+            "evidence_photo",
+            "physical_evidence"
+          ],
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "ART_13.2",
+          "ref": "ART_13.2",
+          "description": "Photo of screwdriver reportedly found on the roof.",
+          "event_timestamp": "2025-09-10",
+          "source_timestamp": "2025-09-10",
+          "video_timestamp": "44:41–44:58",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [
+            "CLAIM_18"
+          ],
+          "related_nodes": [
+            "NODE_1005",
+            "NODE_2005"
+          ],
+          "transcript_snippet": "A screwdriver was found on the roof… he undid perhaps undid this gun while he was on the rooftop.",
+          "tags": [
+            "evidence_photo",
+            "physical_evidence"
+          ],
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "ART_14",
+      "family_ref": "ART_14",
+      "bundle_name": "FBI Stairwell Photos Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "ART_14.1",
+          "ref": "ART_14.1",
+          "description": "FBI photos of suspect in stairwell in second outfit, bending each leg in separate photos.",
+          "event_timestamp": "2025-09-10",
+          "source_timestamp": "2025-09-10",
+          "video_timestamp": "45:04–45:38",
+          "discovery_timestamp": "2026-03-18",
+          "related_claims": [],
+          "related_nodes": [
+            "NODE_1005",
+            "NODE_9",
+            "NODE_2004"
+          ],
+          "transcript_snippet": "We get photos that are the shooter. This is when the FBI came out and said he's in a stairwell.",
+          "tags": [
+            "evidence_photo",
+            "physical_evidence"
+          ],
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "NODE_1",
+      "ref": "NODE_1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of the assassination investigation; central to all claims about pressure, spiritual transformation, and Israel relationship.",
+      "related_artifacts": [
+        "ART_1.1",
+        "ART_2.1",
+        "ART_3.1",
+        "ART_4.1",
+        "ART_6.1",
+        "ART_11.1"
+      ],
+      "related_claims": [
+        "CLAIM_1",
+        "CLAIM_3",
+        "CLAIM_4",
+        "CLAIM_5",
+        "CLAIM_8",
+        "CLAIM_10"
+      ],
+      "tags": [
+        "key_figure",
+        "deceased"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_2",
+      "ref": "NODE_2",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the episode; sources many second-hand claims about the Hamptons meeting and family interactions.",
+      "related_artifacts": [
+        "ART_12.1"
+      ],
+      "related_claims": [
+        "CLAIM_6",
+        "CLAIM_7",
+        "CLAIM_8",
+        "CLAIM_15"
+      ],
+      "tags": [
+        "host"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_3",
+      "ref": "NODE_3",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Charlie Kirk's widow; subject of the widow remarks clip and quoted recollection of meeting attendees.",
+      "related_artifacts": [
+        "ART_1.1"
+      ],
+      "related_claims": [
+        "CLAIM_1"
+      ],
+      "tags": [
+        "widow",
+        "spouse"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_4",
+      "ref": "NODE_4",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Israeli PM; subject of Fox News and Greta interview clips; alleged instigator of pressure on Kirk.",
+      "also_known_as": [
+        "BB Netanyahu",
+        "BB",
+        "Net and Yahoo"
+      ],
+      "related_artifacts": [
+        "ART_2.1",
+        "ART_3.1",
+        "ART_5.1",
+        "ART_12.1"
+      ],
+      "related_claims": [
+        "CLAIM_2",
+        "CLAIM_3",
+        "CLAIM_4",
+        "CLAIM_7",
+        "CLAIM_9"
+      ],
+      "tags": [
+        "head_of_state",
+        "primary_figure"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_5",
+      "ref": "NODE_5",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Billionaire allegedly present at Hamptons meeting; host claims he staged intervention against Kirk.",
+      "also_known_as": [
+        "Aman"
+      ],
+      "related_artifacts": [
+        "ART_11.1",
+        "ART_12.1"
+      ],
+      "related_claims": [
+        "CLAIM_6",
+        "CLAIM_15"
+      ],
+      "tags": [
+        "billionaire",
+        "alleged_intervenor"
+      ],
+      "confidence": "medium",
+      "uncertainty_note": "Transcript spells 'Aman'; likely Bill Ackman (billionaire, Epstein context, later named in same discussion)."
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_6",
+      "ref": "NODE_6",
+      "name": "Seth Dylan",
+      "type": "person",
+      "description": "Reportedly present at Hamptons meeting; subject of host's unanswered text exchange.",
+      "related_artifacts": [
+        "ART_12.1"
+      ],
+      "related_claims": [
+        "CLAIM_15"
+      ],
+      "tags": [
+        "witness",
+        "non_responsive"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_7",
+      "ref": "NODE_7",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Speaker at Turning Point USA America Fest; subject of pressure allegations and Bill Ackman complaint.",
+      "related_artifacts": [
+        "ART_4.1"
+      ],
+      "related_claims": [
+        "CLAIM_5"
+      ],
+      "tags": [
+        "commentator",
+        "event_speaker"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_8",
+      "ref": "NODE_8",
+      "name": "Dave Smith",
+      "type": "person",
+      "description": "Libertarian commentator invited to America Fest; subject of Israel-lobby pressure allegations.",
+      "related_artifacts": [
+        "ART_4.1"
+      ],
+      "related_claims": [
+        "CLAIM_5"
+      ],
+      "tags": [
+        "commentator",
+        "event_speaker"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_9",
+      "ref": "NODE_9",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Named suspect in Charlie Kirk assassination; subject of multiple official statements and physical evidence claims.",
+      "related_artifacts": [
+        "ART_8.1",
+        "ART_8.2",
+        "ART_8.3",
+        "ART_9.1",
+        "ART_9.2",
+        "ART_9.3",
+        "ART_9.4",
+        "ART_10.1",
+        "ART_13.1",
+        "ART_13.2",
+        "ART_14.1"
+      ],
+      "related_claims": [
+        "CLAIM_11",
+        "CLAIM_12",
+        "CLAIM_13",
+        "CLAIM_16",
+        "CLAIM_17",
+        "CLAIM_18",
+        "CLAIM_19",
+        "CLAIM_20",
+        "CLAIM_21"
+      ],
+      "tags": [
+        "suspect",
+        "named_person"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_10",
+      "ref": "NODE_10",
+      "name": "Spencer Cox",
+      "type": "person",
+      "description": "Governor of Utah; press conference source for multiple investigation claims.",
+      "also_known_as": [
+        "Governor Cox"
+      ],
+      "related_artifacts": [
+        "ART_9.1",
+        "ART_9.2",
+        "ART_9.3",
+        "ART_9.4"
+      ],
+      "related_claims": [
+        "CLAIM_12",
+        "CLAIM_18",
+        "CLAIM_19",
+        "CLAIM_20"
+      ],
+      "tags": [
+        "government_official",
+        "press_conference_source"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_11",
+      "ref": "NODE_11",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "Person briefly arrested and labeled a 'decoy' by host; allegedly signaled he shot Charlie Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "CLAIM_14"
+      ],
+      "tags": [
+        "decoy",
+        "briefly_detained"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_12",
+      "ref": "NODE_12",
+      "name": "Michael Savage",
+      "type": "person",
+      "description": "Commentator whose clip is played disputing FBI rifle narrative.",
+      "related_artifacts": [
+        "ART_7.1"
+      ],
+      "related_claims": [
+        "CLAIM_17"
+      ],
+      "tags": [
+        "commentator",
+        "clip_source"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_13",
+      "ref": "NODE_13",
+      "name": "Greta Van Susteren",
+      "type": "person",
+      "description": "Interviewer who asked Netanyahu about Israel-involvement rumors.",
+      "related_artifacts": [
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_9"
+      ],
+      "tags": [
+        "interviewer"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_14",
+      "ref": "NODE_14",
+      "name": "Matt Gutman",
+      "type": "person",
+      "description": "Reporter whose reporting on Robinson's acquaintances is referenced by Governor Cox.",
+      "related_artifacts": [
+        "ART_9.3"
+      ],
+      "related_claims": [
+        "CLAIM_20"
+      ],
+      "tags": [
+        "reporter"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_15",
+      "ref": "NODE_15",
+      "name": "Megan Kelly",
+      "type": "person",
+      "description": "Interviewer who spoke with Charlie Kirk about Israel pressure ~1 month before his death.",
+      "related_artifacts": [
+        "ART_4.1"
+      ],
+      "related_claims": [
+        "CLAIM_5"
+      ],
+      "tags": [
+        "interviewer"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_16",
+      "ref": "NODE_16",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Subject of Charlie Kirk clip alleging blackmail operation run by Israeli/American/Saudi intelligence.",
+      "related_artifacts": [
+        "ART_6.1"
+      ],
+      "related_claims": [
+        "CLAIM_10"
+      ],
+      "tags": [
+        "deceased",
+        "subject_of_allegation"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_17",
+      "ref": "NODE_17",
+      "name": "Ghislaine Maxwell",
+      "type": "person",
+      "description": "Named in Charlie Kirk clip as Epstein associate; father described as Israeli intelligence spy.",
+      "also_known_as": [
+        "Galain (transcript variant)"
+      ],
+      "related_artifacts": [
+        "ART_6.1"
+      ],
+      "related_claims": [
+        "CLAIM_10"
+      ],
+      "tags": [
+        "convicted",
+        "subject_of_allegation"
+      ],
+      "confidence": "high",
+      "uncertainty_note": "Transcript spells 'Galain'; clearly Ghislaine Maxwell."
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_18",
+      "ref": "NODE_18",
+      "name": "Robert Maxwell",
+      "type": "person",
+      "description": "Ghislaine Maxwell's father; described by host and Charlie Kirk clip as Israeli intelligence operative.",
+      "related_artifacts": [
+        "ART_6.1"
+      ],
+      "related_claims": [
+        "CLAIM_10"
+      ],
+      "tags": [
+        "deceased",
+        "alleged_intel_operative"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_19",
+      "ref": "NODE_19",
+      "name": "Max Blumenthal",
+      "type": "person",
+      "description": "Reporter who asked Bill Ackman to dispute the Hamptons narrative; Ackman reportedly declined.",
+      "related_artifacts": [],
+      "related_claims": [
+        "CLAIM_6"
+      ],
+      "tags": [
+        "reporter"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_20",
+      "ref": "NODE_20",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President whose account tweeted a photo of Charlie Kirk with US and Israeli flags.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "head_of_state",
+        "secondary_mention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_21",
+      "ref": "NODE_21",
+      "name": "Sigmund Freud",
+      "type": "person",
+      "description": "Subject of host reading recommendations; framed by host as father of modern gaslighting rather than modern psychology.",
+      "also_known_as": [
+        "Sigman (transcript variant)",
+        "Sigman Freud"
+      ],
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "historical_figure",
+        "reading_list_target"
+      ],
+      "confidence": "high",
+      "uncertainty_note": "Transcript spells 'Sigman'; clearly Sigmund Freud."
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_22",
+      "ref": "NODE_22",
+      "name": "David Bakan",
+      "type": "person",
+      "description": "Author recommended by host on Freud and Jewish mystical tradition history.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "author",
+        "reading_list_target"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_23",
+      "ref": "NODE_23",
+      "name": "Shlomo Sand",
+      "type": "person",
+      "description": "Tel Aviv University historian; author of 'The Invention of the Jewish People' recommended by host.",
+      "also_known_as": [
+        "Schlommo Sand (transcript variant)"
+      ],
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "historian",
+        "author",
+        "reading_list_target"
+      ],
+      "confidence": "high",
+      "uncertainty_note": "Transcript spells 'Schlommo'; canonical Shlomo Sand."
+    },
+    {
+      "@type": "Person",
+      "@id": "NODE_24",
+      "ref": "NODE_24",
+      "name": "Abraham Polokoff",
+      "type": "person",
+      "description": "Author referenced by host as having traced Ashkenazi origins to the Khazars and won awards for it.",
+      "also_known_as": [
+        "Abraham Pollock (transcript variant)"
+      ],
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "author",
+        "khazar_origin_advocate"
+      ],
+      "confidence": "low",
+      "uncertainty_note": "Transcript 'Abraham Pollock'; canonical name uncertain (possibly Arthur Koestler 'The Thirteenth Tribe' or similar)."
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1000",
+      "ref": "NODE_1000",
+      "name": "Turning Point USA",
+      "type": "organization",
+      "organization_kind": "political_organization",
+      "description": "Charlie Kirk's organization; host demands release of pre-America Fest audio footage of Kirk speaking with Carlson.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "key_organization",
+        "subject_of_demand"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1001",
+      "ref": "NODE_1001",
+      "name": "Fox News",
+      "type": "organization",
+      "organization_kind": "media_outlet",
+      "description": "Network where Netanyahu appeared twice within 24 hours of Kirk's death.",
+      "related_artifacts": [
+        "ART_2.1",
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_2"
+      ],
+      "tags": [
+        "media_outlet"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1002",
+      "ref": "NODE_1002",
+      "name": "TMZ",
+      "type": "organization",
+      "organization_kind": "media_outlet",
+      "description": "Press source of multiple surveillance video timestamps (8:07 AM, 11:49 AM, 12:29 PM).",
+      "related_artifacts": [
+        "ART_8.1",
+        "ART_8.2",
+        "ART_8.3"
+      ],
+      "related_claims": [
+        "CLAIM_11",
+        "CLAIM_13",
+        "CLAIM_16"
+      ],
+      "tags": [
+        "media_outlet",
+        "footage_source"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1003",
+      "ref": "NODE_1003",
+      "name": "Utah Valley University",
+      "type": "organization",
+      "organization_kind": "educational_institution",
+      "description": "Site of the September 10 shooting; source of campus surveillance referenced by Governor Cox.",
+      "also_known_as": [
+        "UVU"
+      ],
+      "related_artifacts": [
+        "ART_8.1",
+        "ART_9.1"
+      ],
+      "related_claims": [
+        "CLAIM_11",
+        "CLAIM_12"
+      ],
+      "tags": [
+        "venue",
+        "educational_institution"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1004",
+      "ref": "NODE_1004",
+      "name": "Discord",
+      "type": "organization",
+      "organization_kind": "platform_or_initiative",
+      "description": "Messaging platform at center of contradictory statements: Cox claims Discord messages discussed rifle drop, while Discord says no evidence of planning.",
+      "related_artifacts": [
+        "ART_9.4",
+        "ART_10.1"
+      ],
+      "related_claims": [
+        "CLAIM_18",
+        "CLAIM_21"
+      ],
+      "tags": [
+        "platform",
+        "contradiction_target"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1005",
+      "ref": "NODE_1005",
+      "name": "Federal Bureau of Investigation",
+      "type": "organization",
+      "organization_kind": "government_agency",
+      "description": "Lead federal agency in Kirk investigation; subject of host and Savage skepticism over rifle narrative.",
+      "also_known_as": [
+        "FBI"
+      ],
+      "related_artifacts": [
+        "ART_7.1",
+        "ART_13.1",
+        "ART_13.2",
+        "ART_14.1"
+      ],
+      "related_claims": [
+        "CLAIM_17"
+      ],
+      "tags": [
+        "government_agency",
+        "investigation_subject"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1006",
+      "ref": "NODE_1006",
+      "name": "Mossad",
+      "type": "organization",
+      "organization_kind": "government_agency",
+      "description": "Israeli intelligence agency referenced in Charlie Kirk clip as alleged creator of Epstein blackmail operation.",
+      "also_known_as": [
+        "MSAD (transcript variant)"
+      ],
+      "related_artifacts": [
+        "ART_6.1"
+      ],
+      "related_claims": [
+        "CLAIM_10"
+      ],
+      "tags": [
+        "intelligence_agency",
+        "alleged_actor"
+      ],
+      "uncertainty_note": "Transcript spells 'MSAD'; canonical Mossad."
+    },
+    {
+      "@type": "Organization",
+      "@id": "NODE_1007",
+      "ref": "NODE_1007",
+      "name": "Tel Aviv University",
+      "type": "organization",
+      "organization_kind": "educational_institution",
+      "description": "Institution where Shlomo Sand is described as professor historian.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "educational_institution"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2000",
+      "ref": "NODE_2000",
+      "name": "Hamptons Meeting Pressure Investigation",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Investigation thread on alleged Bill Ackman-led intervention against Kirk weeks before his death.",
+      "related_artifacts": [
+        "ART_11.1",
+        "ART_12.1"
+      ],
+      "related_claims": [
+        "CLAIM_6",
+        "CLAIM_15"
+      ],
+      "tags": [
+        "verification_thread",
+        "hamptons_meeting"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2001",
+      "ref": "NODE_2001",
+      "name": "Charlie Kirk Spiritual Transformation",
+      "type": "topic",
+      "topic_kind": "narrative_pattern",
+      "description": "Host claim that Kirk was undergoing Catholic/Christian conversion including rosary and mass attendance.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "narrative_thread",
+        "spiritual_shift"
+      ],
+      "uncertainty_note": "No artifact directly shown; based on host assertion of personal communication."
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2002",
+      "ref": "NODE_2002",
+      "name": "Charlie Kirk May 2 Letter Misrepresentation",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Discrepancy between Netanyahu's framing of the May 2 letter and host's claim that it actually expressed concern over Israel influence.",
+      "related_artifacts": [
+        "ART_3.1"
+      ],
+      "related_claims": [
+        "CLAIM_3",
+        "CLAIM_4"
+      ],
+      "tags": [
+        "verification_thread",
+        "letter_dispute"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2003",
+      "ref": "NODE_2003",
+      "name": "Netanyahu Israel Invitation Phone Call",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Alleged phone call where Netanyahu invited Kirk to Israel weeks before his death; host frames it as a threat under pressure.",
+      "related_artifacts": [
+        "ART_2.1",
+        "ART_12.1"
+      ],
+      "related_claims": [
+        "CLAIM_7",
+        "CLAIM_8"
+      ],
+      "tags": [
+        "verification_thread",
+        "phone_call"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2004",
+      "ref": "NODE_2004",
+      "name": "Robinson Outfit Change Discrepancy",
+      "type": "topic",
+      "topic_kind": "discrepancy",
+      "description": "Discrepancy between surveillance outfits (maroon vs black) and the 33-hour re-donning of the original outfit.",
+      "related_artifacts": [
+        "ART_8.1",
+        "ART_8.2",
+        "ART_9.4",
+        "ART_14.1"
+      ],
+      "related_claims": [
+        "CLAIM_11",
+        "CLAIM_13"
+      ],
+      "tags": [
+        "discrepancy",
+        "outfit_inconsistency"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2005",
+      "ref": "NODE_2005",
+      "name": "Weapon Disassembly/Reassembly Claim",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "FBI narrative that the Mauser was disassembled on the rooftop, carried in backpack, and found reassembled in woods.",
+      "related_artifacts": [
+        "ART_7.1",
+        "ART_13.1",
+        "ART_13.2"
+      ],
+      "related_claims": [
+        "CLAIM_17",
+        "CLAIM_18"
+      ],
+      "tags": [
+        "verification_thread",
+        "weapon_narrative"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2006",
+      "ref": "NODE_2006",
+      "name": "Robinson Confession and Arrest Discrepancy",
+      "type": "topic",
+      "topic_kind": "discrepancy",
+      "description": "Discrepancy between reported father/pastor-led turn-in and Governor Cox's statement that Robinson has not confessed.",
+      "related_artifacts": [
+        "ART_9.2",
+        "ART_9.3"
+      ],
+      "related_claims": [
+        "CLAIM_19",
+        "CLAIM_20"
+      ],
+      "tags": [
+        "discrepancy",
+        "confession_status"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2007",
+      "ref": "NODE_2007",
+      "name": "Robinson Father Turn-In Narrative",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Reported narrative that Robinson's father turned him in after speaking with a pastor.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [
+        "verification_thread",
+        "family_role"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2008",
+      "ref": "NODE_2008",
+      "name": "Epstein Israeli Intelligence Asset Allegation",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Allegation that Jeffrey Epstein was created by Israeli/American/Saudi intelligence for blackmail operations.",
+      "related_artifacts": [
+        "ART_6.1"
+      ],
+      "related_claims": [
+        "CLAIM_10"
+      ],
+      "tags": [
+        "verification_thread",
+        "historical_allegation"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2009",
+      "ref": "NODE_2009",
+      "name": "Kirk Assassination Investigation Timeline",
+      "type": "topic",
+      "topic_kind": "verification_thread",
+      "description": "Composite timeline constructed from TMZ footage, Governor Cox statements, and FBI evidence about Kirk shooting.",
+      "related_artifacts": [
+        "ART_8.1",
+        "ART_8.2",
+        "ART_8.3",
+        "ART_9.1"
+      ],
+      "related_claims": [
+        "CLAIM_11",
+        "CLAIM_12",
+        "CLAIM_13",
+        "CLAIM_14",
+        "CLAIM_16"
+      ],
+      "tags": [
+        "timeline",
+        "investigation_thread"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "NODE_2010",
+      "ref": "NODE_2010",
+      "name": "Israel Lobby Pressure on Conservative Figures",
+      "type": "topic",
+      "topic_kind": "narrative_pattern",
+      "description": "Host's broader narrative pattern of Israel-aligned actors pressuring conservative commentators critical of Israeli policy.",
+      "related_artifacts": [
+        "ART_4.1"
+      ],
+      "related_claims": [
+        "CLAIM_5"
+      ],
+      "tags": [
+        "narrative_pattern",
+        "pressure_allegation"
+      ]
+    },
+    {
+      "@type": "Place",
+      "@id": "NODE_3000",
+      "ref": "NODE_3000",
+      "name": "Israel",
+      "type": "place",
+      "place_kind": "country",
+      "description": "Subject of Netanyahu phone invitation, May 2 letter, and Greta Van Susteren interview.",
+      "related_artifacts": [
+        "ART_2.1",
+        "ART_3.1",
+        "ART_5.1"
+      ],
+      "related_claims": [
+        "CLAIM_3",
+        "CLAIM_7",
+        "CLAIM_9"
+      ]
+    },
+    {
+      "@type": "Place",
+      "@id": "NODE_3001",
+      "ref": "NODE_3001",
+      "name": "The Hamptons",
+      "type": "place",
+      "place_kind": "region",
+      "description": "Location of alleged Bill Ackman intervention meeting against Kirk.",
+      "related_artifacts": [
+        "ART_12.1"
+      ],
+      "related_claims": [
+        "CLAIM_6"
+      ]
+    },
+    {
+      "@type": "Place",
+      "@id": "NODE_3002",
+      "ref": "NODE_3002",
+      "name": "Utah Valley University Campus",
+      "type": "place",
+      "place_kind": "venue",
+      "description": "UVU campus in Orem, Utah; site of the September 10, 2025 shooting.",
+      "related_artifacts": [
+        "ART_8.1",
+        "ART_9.1"
+      ],
+      "related_claims": [
+        "CLAIM_11",
+        "CLAIM_12"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 10,
+          "video_timestamp": "01:29",
+          "quote": "The cries of this widow will echo around the world like a battlecry.",
+          "speaker_node_ref": "NODE_3",
+          "context": "Erika Kirk's widow remarks clip, described by host as 'very powerful'.",
+          "tags": [
+            "widow",
+            "mourning"
+          ]
+        }
+      ],
+      "context": "Used in clip to frame Erika Kirk's response to Kirk's death."
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-6",
+      "ref": "M-6",
+      "canonical_term": "conspiracy theorist",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 10,
+          "video_timestamp": "08:46",
+          "quote": "We don't have to actually speak conspiracies.",
+          "speaker_node_ref": "NODE_2",
+          "context": "Host pivots to questioning Netanyahu's 'they' framing immediately after playing his clip.",
+          "tags": [
+            "dismissal",
+            "rhetorical_bracketing"
+          ]
+        }
+      ],
+      "context": "Host uses the rhetorical frame to mark her own questions as not-conspiratorial while probing powerful actors."
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-7",
+      "ref": "M-7",
+      "canonical_term": "Catholic/Evangelical/Jewish identity flip",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 10,
+          "video_timestamp": "20:55",
+          "quote": "Charlie was praying the rosary. Charlie was going to mass.",
+          "speaker_node_ref": "NODE_2",
+          "context": "Host frames Kirk as undergoing Catholic conversion shortly before death.",
+          "tags": [
+            "spiritual_conversion",
+            "identity_shift"
+          ]
+        },
+        {
+          "episode": 10,
+          "video_timestamp": "21:07",
+          "quote": "Just take the last step, Charlie… you're too smart to be a Protestant.",
+          "speaker_node_ref": "NODE_2",
+          "context": "Host recounts joking with Kirk about converting to Catholicism.",
+          "tags": [
+            "spiritual_conversion",
+            "identity_shift"
+          ]
+        },
+        {
+          "episode": 10,
+          "video_timestamp": "21:15",
+          "quote": "You stop referring to yourself as I did as a Judeo-Christian.",
+          "speaker_node_ref": "NODE_2",
+          "context": "Host notes that the 'Judeo-Christian' label is dropped as one converts.",
+          "tags": [
+            "judeo_christian_label",
+            "identity_shift"
+          ]
+        }
+      ],
+      "context": "Host advances a narrative of Kirk's Catholic turn, contrasted with Netanyahu's emphasis on Kirk's 'Judeo-Christian' identity."
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-2",
+      "ref": "M-2",
+      "canonical_term": "Sheer Evil",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 10,
+          "video_timestamp": "27:24",
+          "quote": "Guess we can't prod the narrative any further, guys. Holocaust.",
+          "speaker_node_ref": "NODE_2",
+          "context": "Host frames Netanyahu's invocation of the Holocaust as a conversation-stopper that should not be heeded.",
+          "tags": [
+            "holocaust_invocation",
+            "silencing_tactic"
+          ]
+        },
+        {
+          "episode": 10,
+          "video_timestamp": "29:39",
+          "quote": "The Epstein playbook is being used on a daily basis.",
+          "speaker_node_ref": "NODE_2",
+          "context": "Host links Epstein blackmail pattern to ongoing pressure on conservative figures.",
+          "tags": [
+            "blackmail",
+            "deep_state"
+          ]
+        }
+      ],
+      "context": "Pattern of framing Jewish/Israeli institutional power as evil while explicitly rejecting 'anti-Semitic' label via citing Jewish authors."
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_1",
+      "ref": "CLAIM_1",
+      "label": "Erika Kirk Addressed Nation with Public Remarks",
+      "claim_timestamp": "00:59",
+      "claim": "Erika Kirk delivered public remarks framing her husband's mission as continuing after his death.",
+      "anchored_artifacts": [
+        "ART_1.1"
+      ],
+      "related_nodes": [
+        "NODE_3",
+        "NODE_1",
+        "NODE_2"
+      ],
+      "investigative_direction": "Obtain full unedited version of Erika Kirk's remarks and compare against clip circulating on social media.",
+      "tags": [
+        "public_statement",
+        "widow_remarks"
+      ],
+      "transcript_snippet": "The cries of this widow will echo around the world like a battlecry.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_2",
+      "ref": "CLAIM_2",
+      "label": "Netanyahu Appeared on Fox News Within 24 Hours of Kirk's Death",
+      "claim_timestamp": "07:02",
+      "claim": "Netanyahu appeared on Fox News less than 24 hours after Kirk's death to discuss him and present a letter.",
+      "anchored_artifacts": [
+        "ART_2.1"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_1001",
+        "NODE_1"
+      ],
+      "investigative_direction": "Verify timestamps of Netanyahu's two Fox News appearances relative to Kirk's death.",
+      "tags": [
+        "media_appearance",
+        "news_clip"
+      ],
+      "transcript_snippet": "Less than 24 hours after Charlie died, what BB Netanyahu had to say on Fox News.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_3",
+      "ref": "CLAIM_3",
+      "label": "Kirk Wrote Netanyahu a Letter on May 2",
+      "claim_timestamp": "07:26",
+      "claim": "Netanyahu claimed on Fox News that Charlie Kirk wrote him a letter on May 2 expressing support for Israel.",
+      "anchored_artifacts": [
+        "ART_2.1",
+        "ART_3.1"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_1",
+        "NODE_2002"
+      ],
+      "investigative_direction": "Obtain full text of the May 2 letter and verify against Netanyahu's quoted excerpt.",
+      "tags": [
+        "letter_existence",
+        "public_claim"
+      ],
+      "transcript_snippet": "He said, One of my greatest joys as a Christian is advocating for Israel and forming alliances to defend Judeo-Christian civilization.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_4",
+      "ref": "CLAIM_4",
+      "label": "May 2 Letter Actually Expressed Concern Over Israel Influence",
+      "claim_timestamp": "09:48",
+      "claim": "Host asserts the May 2 letter actually expressed concerns about Israel influence on American politics, contradicting Netanyahu's framing.",
+      "anchored_artifacts": [
+        "ART_3.1"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_1",
+        "NODE_2",
+        "NODE_2002"
+      ],
+      "investigative_direction": "Compare full letter text against Netanyahu's quoted excerpt to determine actual content.",
+      "tags": [
+        "disputed_claim",
+        "letter_dispute"
+      ],
+      "contradicts_claim_refs": [
+        "CLAIM_3"
+      ],
+      "transcript_snippet": "Charlie was concerned about Israel and their influence on American politics and how they were pushing things that he felt were in conflict with his beliefs.",
+      "confidence": "medium",
+      "uncertainty_note": "Host's framing is an assertion; full letter text not shown in episode."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_5",
+      "ref": "CLAIM_5",
+      "label": "Kirk Described Israel-Lobby Pressure One Month Before Death",
+      "claim_timestamp": "10:51",
+      "claim": "Charlie Kirk publicly described being pressured regarding Israel criticism and event guest lists approximately one month before his death.",
+      "anchored_artifacts": [
+        "ART_4.1"
+      ],
+      "related_nodes": [
+        "NODE_1",
+        "NODE_15",
+        "NODE_7",
+        "NODE_8",
+        "NODE_2010"
+      ],
+      "investigative_direction": "Verify exact date of Megan Kelly interview and guest list complaints.",
+      "tags": [
+        "prior_statement",
+        "pressure_allegation"
+      ],
+      "transcript_snippet": "My moral character is now being put into question… they were threatening to pull out money.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_6",
+      "ref": "CLAIM_6",
+      "label": "Bill Ackman Staged Intervention Against Kirk in Hamptons",
+      "claim_timestamp": "15:01",
+      "claim": "Host asserts Bill Ackman staged an intervention in the Hamptons where he pressured Kirk on Israel.",
+      "anchored_artifacts": [
+        "ART_12.1"
+      ],
+      "related_nodes": [
+        "NODE_5",
+        "NODE_6",
+        "NODE_1",
+        "NODE_2",
+        "NODE_19",
+        "NODE_2000"
+      ],
+      "investigative_direction": "Identify attendees and obtain statements from Seth Dylan and any other Hamptons meeting witnesses.",
+      "tags": [
+        "secondhand_allegation",
+        "intervention_claim"
+      ],
+      "transcript_snippet": "An intervention was staged by Bill Aman because Charlie's thoughts, Charlie's rational thoughts about Israel were a no no.",
+      "confidence": "medium",
+      "uncertainty_note": "Host says she was told; she directly challenges Ackman to dispute. No independent confirmation shown."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_7",
+      "ref": "CLAIM_7",
+      "label": "Netanyahu Called Kirk and Invited Him to Israel",
+      "claim_timestamp": "16:06",
+      "claim": "Netanyahu called Kirk during the Hamptons meeting period and invited him to Israel.",
+      "anchored_artifacts": [
+        "ART_2.1",
+        "ART_12.1"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_1",
+        "NODE_5",
+        "NODE_6",
+        "NODE_2003"
+      ],
+      "investigative_direction": "Cross-reference Netanyahu's Fox News statement with text messages from that period.",
+      "tags": [
+        "phone_call_allegation",
+        "under_duress_framing"
+      ],
+      "transcript_snippet": "It was at this time that BB Netanyahu was called and Charlie was invited to Israel.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_8",
+      "ref": "CLAIM_8",
+      "label": "Kirk Declined Netanyahu's Israel Funding and Invitation",
+      "claim_timestamp": "17:13",
+      "claim": "Host asserts Kirk declined the Israel trip and funding that Netanyahu and others would have provided.",
+      "anchored_artifacts": [
+        "ART_2.1",
+        "ART_12.1"
+      ],
+      "related_nodes": [
+        "NODE_4",
+        "NODE_1",
+        "NODE_2",
+        "NODE_2003"
+      ],
+      "investigative_direction": "Confirm with attendees or document evidence of declined invitation.",
+      "tags": [
+        "secondhand_allegation"
+      ],
+      "transcript_snippet": "I know for a fact that Charlie denied that funding… he declined to go to Israel.",
+      "confidence": "medium",
+      "uncertainty_note": "Host asserts she knows factually; no document shown."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_9",
+      "ref": "CLAIM_9",
+      "label": "Van Susteren Asked Netanyahu About Israel Involvement",
+      "claim_timestamp": "25:47",
+      "claim": "Greta Van Susteren asked Netanyahu on air to address internet rumors that Israel was behind Kirk's assassination.",
+      "anchored_artifacts": [
+        "ART_5.1"
+      ],
+      "related_nodes": [
+        "NODE_13",
+        "NODE_4",
+        "NODE_3000"
+      ],
+      "investigative_direction": "Verify full interview and surrounding context of the question.",
+      "tags": [
+        "interview_question"
+      ],
+      "transcript_snippet": "Some of the internet rumors that somehow Israel is behind the Charlie Kirk murder… I want you to make a statement.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_10",
+      "ref": "CLAIM_10",
+      "label": "Kirk Stated Epstein Was Israeli Intelligence Blackmail Asset",
+      "claim_timestamp": "28:14",
+      "claim": "Charlie Kirk publicly stated that Jeffrey Epstein and Ghislaine/Robert Maxwell were Israeli intelligence assets running a blackmail operation.",
+      "anchored_artifacts": [
+        "ART_6.1"
+      ],
+      "related_nodes": [
+        "NODE_1",
+        "NODE_16",
+        "NODE_17",
+        "NODE_18",
+        "NODE_1006",
+        "NODE_2008"
+      ],
+      "investigative_direction": "Identify original source clip and verify exact wording of Kirk's commentary.",
+      "tags": [
+        "prior_statement",
+        "historical_allegation"
+      ],
+      "transcript_snippet": "Epstein with his little friend Galain and Galain's father, Robert Maxwell, who is obviously a spy of the Israeli intelligence agencies.",
+      "confidence": "high",
+      "uncertainty_note": "'Galain' transcript variant for Ghislaine; 'MSAD' transcript variant for Mossad."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_11",
+      "ref": "CLAIM_11",
+      "label": "TMZ Footage at 8:07 AM Showed Person in Maroon Shirt",
+      "claim_timestamp": "38:50",
+      "claim": "TMZ published surveillance footage at 8:07 AM on September 10 of a man in maroon shirt walking near UVU campus.",
+      "anchored_artifacts": [
+        "ART_8.1"
+      ],
+      "related_nodes": [
+        "NODE_1002",
+        "NODE_1003",
+        "NODE_9",
+        "NODE_3002",
+        "NODE_2009"
+      ],
+      "investigative_direction": "Obtain timestamped original TMZ footage and verify chain of custody.",
+      "tags": [
+        "surveillance_footage",
+        "timeline"
+      ],
+      "transcript_snippet": "At 8:07 a.m. a man wearing a maroon t-shirt and light shorts, hands in his pockets, walking outside university grounds.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_12",
+      "ref": "CLAIM_12",
+      "label": "Governor Cox Stated Robinson Arrived at 8:29 AM",
+      "claim_timestamp": "39:36",
+      "claim": "Governor Cox stated Robinson arrived at UVU campus at 8:29 AM in a gray Dodge Challenger wearing maroon shirt and shorts.",
+      "anchored_artifacts": [
+        "ART_9.1"
+      ],
+      "related_nodes": [
+        "NODE_10",
+        "NODE_9",
+        "NODE_1003",
+        "NODE_2009"
+      ],
+      "investigative_direction": "Compare Cox's statement against UVU surveillance and TMZ footage for consistency.",
+      "tags": [
+        "official_statement",
+        "timeline"
+      ],
+      "transcript_snippet": "Investigators identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_13",
+      "ref": "CLAIM_13",
+      "label": "Doorbell Cam at 11:49 AM Showed Person in Different Outfit",
+      "claim_timestamp": "40:27",
+      "claim": "A doorbell camera at 11:49 AM on September 10 captured the shooter in a different outfit, reportedly limping.",
+      "anchored_artifacts": [
+        "ART_8.2"
+      ],
+      "related_nodes": [
+        "NODE_1002",
+        "NODE_9",
+        "NODE_2004"
+      ],
+      "investigative_direction": "Obtain doorbell camera source and chain of custody; verify timestamp.",
+      "tags": [
+        "surveillance_footage",
+        "outfit_change"
+      ],
+      "transcript_snippet": "At 11:49 AM Charlie has not yet been shot. Someone who appears to be limping.",
+      "confidence": "medium",
+      "uncertainty_note": "Footage shown but host notes timestamp uncertainty about FBI arrival claim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_14",
+      "ref": "CLAIM_14",
+      "label": "Kirk Was Shot at 12:23 PM on September 10",
+      "claim_timestamp": "41:35",
+      "claim": "Charlie Kirk was shot at 12:23 PM on September 10, 2025.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "NODE_1",
+        "NODE_2009"
+      ],
+      "investigative_direction": "Cross-reference official timeline and autopsy report.",
+      "tags": [
+        "event_time",
+        "core_fact"
+      ],
+      "transcript_snippet": "At 12:23 p.m. is when Charlie Kirk is shot.",
+      "confidence": "high",
+      "uncertainty_note": "Time universally reported; not anchored to specific shown artifact in this episode (rooftop footage shown but no formal doc)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_15",
+      "ref": "CLAIM_15",
+      "label": "Seth Dylan and Bill Ackman Have Not Publicly Disputed Hamptons Narrative",
+      "claim_timestamp": "18:22",
+      "claim": "Seth Dylan and Bill Ackman have not publicly disputed host's framing of the Hamptons meeting; Seth Dylan did not respond to direct text outreach.",
+      "anchored_artifacts": [
+        "ART_11.1",
+        "ART_12.1"
+      ],
+      "related_nodes": [
+        "NODE_6",
+        "NODE_5",
+        "NODE_2",
+        "NODE_2000"
+      ],
+      "investigative_direction": "Independently verify non-response by reaching out to Seth Dylan and Bill Ackman.",
+      "tags": [
+        "non_response_allegation",
+        "witness_status"
+      ],
+      "transcript_snippet": "Seth Dylan who was normally very quick with a response has not yet been able to respond.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_16",
+      "ref": "CLAIM_16",
+      "label": "TMZ Backyard Running Footage at 12:29 PM",
+      "claim_timestamp": "43:37",
+      "claim": "TMZ released footage at 12:29 PM showing a person allegedly running through a backyard after the Kirk shooting.",
+      "anchored_artifacts": [
+        "ART_8.3"
+      ],
+      "related_nodes": [
+        "NODE_1002",
+        "NODE_9",
+        "NODE_2009"
+      ],
+      "investigative_direction": "Obtain original TMZ footage; verify timestamp and identity of runner.",
+      "tags": [
+        "surveillance_footage",
+        "timeline"
+      ],
+      "transcript_snippet": "At 12:29 p.m., TMZ showing us that there's a person running through the backyard.",
+      "confidence": "medium",
+      "uncertainty_note": "Host notes footage is grainy; feds have not confirmed it shows Robinson."
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_17",
+      "ref": "CLAIM_17",
+      "label": "Rifle Found in Woods Wrapped in Dark Towel",
+      "claim_timestamp": "44:13",
+      "claim": "The weapon was found in the woods wrapped in a dark towel, reportedly fully assembled in photos.",
+      "anchored_artifacts": [
+        "ART_13.1",
+        "ART_7.1"
+      ],
+      "related_nodes": [
+        "NODE_1005",
+        "NODE_9",
+        "NODE_12",
+        "NODE_2005"
+      ],
+      "investigative_direction": "Obtain FBI evidence photos and chain of custody for recovered rifle.",
+      "tags": [
+        "physical_evidence",
+        "weapon"
+      ],
+      "transcript_snippet": "The weapon, they say, was found in the woods and it was wrapped by a dark towel.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_18",
+      "ref": "CLAIM_18",
+      "label": "Screwdriver Found on Roof",
+      "claim_timestamp": "44:41",
+      "claim": "Investigators reported finding a screwdriver on the rooftop where the shooter was positioned.",
+      "anchored_artifacts": [
+        "ART_13.2",
+        "ART_9.4"
+      ],
+      "related_nodes": [
+        "NODE_1005",
+        "NODE_2005",
+        "NODE_1004"
+      ],
+      "investigative_direction": "Confirm with FBI evidence inventory and forensics report.",
+      "tags": [
+        "physical_evidence",
+        "weapon_disassembly_narrative"
+      ],
+      "transcript_snippet": "A screwdriver was found on the roof… he undid perhaps undid this gun while he was on the rooftop.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_19",
+      "ref": "CLAIM_19",
+      "label": "Robinson's Roommate Is Transitioning and Cooperating",
+      "claim_timestamp": "50:18",
+      "claim": "Governor Cox confirmed Robinson's roommate is a biological male transitioning to female and is cooperating with authorities.",
+      "anchored_artifacts": [
+        "ART_9.2"
+      ],
+      "related_nodes": [
+        "NODE_10",
+        "NODE_9",
+        "NODE_2006"
+      ],
+      "investigative_direction": "Verify Cox's press conference transcript and corroborating FBI disclosure.",
+      "tags": [
+        "official_statement",
+        "witness_status"
+      ],
+      "transcript_snippet": "His roommate was indeed a boyfriend who who is transitioning from male to female… he is cooperating.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_20",
+      "ref": "CLAIM_20",
+      "label": "Robinson Has Not Confessed to Authorities",
+      "claim_timestamp": "49:51",
+      "claim": "Governor Cox stated that Robinson has not confessed to authorities and is not cooperating.",
+      "anchored_artifacts": [
+        "ART_9.3"
+      ],
+      "related_nodes": [
+        "NODE_10",
+        "NODE_9",
+        "NODE_2006"
+      ],
+      "investigative_direction": "Verify with subsequent FBI/AG press releases.",
+      "tags": [
+        "official_statement",
+        "confession_status"
+      ],
+      "contradicts_claim_refs": [],
+      "supports_claim_refs": [],
+      "transcript_snippet": "He has not confessed to authorities. He is not cooperating.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "CLAIM_21",
+      "ref": "CLAIM_21",
+      "label": "Discord States No Evidence of Planning on Platform",
+      "claim_timestamp": "52:53",
+      "claim": "Discord issued a statement saying they found no evidence that the suspect planned the incident or promoted violence on Discord.",
+      "anchored_artifacts": [
+        "ART_10.1"
+      ],
+      "related_nodes": [
+        "NODE_1004",
+        "NODE_9",
+        "NODE_2009"
+      ],
+      "investigative_direction": "Obtain full Discord statement and any subsequent updates.",
+      "tags": [
+        "platform_statement"
+      ],
+      "contradicts_claim_refs": [],
+      "supports_claim_refs": [],
+      "transcript_snippet": "Discord identified a Discord account associated with the suspect, but have found no evidence that the suspect planned this incident.",
+      "confidence": "high"
+    }
+  ],
+  "optional_flags": [
+    {
+      "flag_type": "Name uncertainty",
+      "description": "Transcript spells 'Aman'; likely Bill Ackman (billionaire, contextual references to tens of millions in funding, Tucker Carlson dispute).",
+      "affected_nodes": [
+        "NODE_5"
+      ]
+    },
+    {
+      "flag_type": "Name uncertainty",
+      "description": "Transcript spells 'Galain'; canonical Ghislaine Maxwell (Epstein associate, daughter of Robert Maxwell).",
+      "affected_nodes": [
+        "NODE_17"
+      ]
+    },
+    {
+      "flag_type": "Name uncertainty",
+      "description": "Transcript spells 'MSAD'; canonical Mossad (Israeli intelligence).",
+      "affected_nodes": [
+        "NODE_1006"
+      ]
+    },
+    {
+      "flag_type": "Name uncertainty",
+      "description": "Transcript spells 'Sigman Freud' twice and 'Sigman Freud' once; canonical Sigmund Freud.",
+      "affected_nodes": [
+        "NODE_21"
+      ]
+    },
+    {
+      "flag_type": "Name uncertainty",
+      "description": "Transcript spells 'Schlommo Sand'; canonical Shlomo Sand (Tel Aviv University historian, 'The Invention of the Jewish People').",
+      "affected_nodes": [
+        "NODE_23"
+      ]
+    },
+    {
+      "flag_type": "Name uncertainty",
+      "description": "Transcript 'Abraham Pollock'; canonical name uncertain. Could refer to Arthur Koestler 'The Thirteenth Tribe' or Arthur Polokoff (not a known figure). Requires human verification.",
+      "affected_nodes": [
+        "NODE_24"
+      ]
+    },
+    {
+      "flag_type": "Claim failed admission test",
+      "description": "CLAIM_14 (Kirk shot at 12:23 PM) is universally established but not anchored to a specific shown artifact in this episode; included as core fact but flagged for weak anchoring.",
+      "affected_claims": [
+        "CLAIM_14"
+      ]
+    },
+    {
+      "flag_type": "Transcript ambiguity",
+      "description": "Host says 'that money is now going to the father of this child' referencing Bill Ackman offer; unclear whether she means a standing reward or speculation.",
+      "affected_claims": [
+        "CLAIM_6"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1885 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 11,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube transcript",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–01:35:43",
+    "extraction_timestamp": "2026-09-23T19:32:56Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "e1b15b2a8fcf52fde2e90b2f4cb476301947917bf0f6bb881e03dc384f5ccc53",
+    "analysis_date": "2026-09-23"
+  },
+  "executive_summary": "Episode 11 walks through the newly released probable cause indictment against Tyler James Robinson, with Candace Owens flagging missing timestamps in the Tyler-to-Lance text chain, omitted pre-scout footage referenced by Governor Cox, and the absence of a disassembled rifle. The episode also covers the George Zinn 'decoy' arrest, child abuse image charge, and exclusive Lance Twigs family allegations (kicked out junior year, Christmas vodka overdose, Easter drug episode, deep-web usage). Second half confronts Bill Ackman's 955-word tweet response to the Hamptons retreat allegations, plays Charlie Kirk's Megyn Kelly appearance from August 6, and discusses donor pressure and a building donor retraction in the 48 hours before Charlie's death.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1095",
+      "family_ref": "A-1095",
+      "bundle_name": "Tyler Robinson Probable Cause Indictment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1095.1",
+          "ref": "A-1095.1",
+          "description": "Indictment probable cause statement overview: 33-hour surrender, DNA on trigger, clothing discard, deletion request, count six for children present",
+          "related_claims": [
+            "C-1144",
+            "C-1145"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-1096"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "00:06:49–00:08:30",
+          "transcript_snippet": "after 33 hours...Tyler James Robinson surrendered to police at Washington County Sheriff's Office",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1095.2",
+          "ref": "A-1095.2",
+          "description": "UVU surveillance footage description: suspect entry 11:51am, black American-flag shirt, cap, sunglasses, unusual gait, 12:15pm rooftop drop",
+          "related_claims": [
+            "C-1146",
+            "C-1147"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-1077"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "video_timestamp": "00:08:45–00:11:21",
+          "transcript_snippet": "at approximately 11:51 a.m., the suspect had entered campus from the north",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1095.3",
+          "ref": "A-1095.3",
+          "description": "Rifle recovery narrative: bolt-action rifle wrapped in towel, one spent round, three unspent rounds, found in wooded area northeast of campus",
+          "related_claims": [
+            "C-1148"
+          ],
+          "related_nodes": [
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "video_timestamp": "00:13:47–00:14:21",
+          "transcript_snippet": "investigators found a boltaction rifle wrapped in a towel",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1095.4",
+          "ref": "A-1095.4",
+          "description": "Bullet casing inscriptions: 'Hey fascist catch', 'Oh Bella cow', 'if you read this you are gay Lmo'",
+          "related_claims": [
+            "C-1149"
+          ],
+          "related_nodes": [
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "video_timestamp": "00:14:29–00:14:47",
+          "transcript_snippet": "Hey fascist catch...Oh Bella cow...if you read this you are gay",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1095.5",
+          "ref": "A-1095.5",
+          "description": "Robinson's mother statement: recognized shooter photo from news as resembling son, contacted husband",
+          "related_claims": [
+            "C-1150",
+            "C-1153"
+          ],
+          "related_nodes": [
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "00:15:48–00:16:38",
+          "transcript_snippet": "she saw the photo of the shooter in the news and thought that the shooter looked like her son",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1095.6",
+          "ref": "A-1095.6",
+          "description": "Robinson's father statement: agreed shooter looked like son, rifle matched gift to Tyler, asked for photo, spoke by phone, implied self-harm",
+          "related_claims": [
+            "C-1151"
+          ],
+          "related_nodes": [
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "00:17:28–00:18:34",
+          "transcript_snippet": "he agreed that it looked like their son...the rifle that was given to his son as a gift",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1095.7",
+          "ref": "A-1095.7",
+          "description": "Self-surrender narrative: family convinced Robinson not to self-harm, retired deputy sheriff family friend facilitated turn-in, parents accompanied",
+          "related_claims": [
+            "C-1152"
+          ],
+          "related_nodes": [
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "00:18:34–00:19:11",
+          "transcript_snippet": "convince Robinson to speak with a family friend who happens to be a retired deputy sheriff",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1095.8",
+          "ref": "A-1095.8",
+          "description": "Tyler Robinson to Lance Twigs text chain: 'Drop what you are doing and look under my keyboard', 'I had the opportunity to take out Charlie Kirk', 'they grabbed some crazy old dude'",
+          "related_claims": [
+            "C-1154",
+            "C-1155"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-84",
+            "N-1095"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "video_timestamp": "00:22:43–00:29:40",
+          "transcript_snippet": "Drop what you are doing and look under my keyboard...I had the opportunity to take out Charlie Kirk",
+          "confidence": "high",
+          "uncertainty_note": "Indictment does not give timestamps; host flags this as conspicuous."
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1095.9",
+          "ref": "A-1095.9",
+          "description": "Roommate interview with police: roommate is biological male in romantic relationship with Robinson, provided text messages to police",
+          "related_claims": [
+            "C-1154",
+            "C-1156"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-84"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "00:22:27–00:22:48",
+          "transcript_snippet": "Police interviewed Robinson's roommate, a biological male who was involved in a romantic relationship",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1096",
+      "family_ref": "A-1096",
+      "bundle_name": "George Zinn News Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1096.1",
+          "ref": "A-1096.1",
+          "description": "News article: 'Man arrested for allegedly faking confession to Charlie Kirk's killing'; booked on obstruction plus child abuse images on cell phone",
+          "related_claims": [
+            "C-1157",
+            "C-1158"
+          ],
+          "related_nodes": [
+            "N-71",
+            "N-1097"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "video_timestamp": "00:04:03–00:04:16",
+          "transcript_snippet": "Man arrested for allegedly faking confession to Charlie Kirk's killing. George Zinn...child abuse",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1097",
+      "family_ref": "A-1097",
+      "bundle_name": "George Zinn Arrest Video Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1097.1",
+          "ref": "A-1097.1",
+          "description": "On-scene arrest video clip of 71-year-old George Zinn claiming credit for Kirk shooting",
+          "related_claims": [
+            "C-1157"
+          ],
+          "related_nodes": [
+            "N-71",
+            "N-1097"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "video_timestamp": "00:03:26–00:03:33",
+          "transcript_snippet": "let's just take a look at this clip of him being arrested in the aftermath of the shooting",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1098",
+      "family_ref": "A-1098",
+      "bundle_name": "Bill Ackman Tweet Response Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1098.1",
+          "ref": "A-1098.1",
+          "description": "Bill Ackman's 955-word tweet response to Candace's Hamptons episode, includes meeting origin story, itinerary, denial of intervention framing",
+          "related_claims": [
+            "C-1159",
+            "C-1160",
+            "C-1161"
+          ],
+          "related_nodes": [
+            "N-66",
+            "N-1098",
+            "N-1102"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09",
+          "video_timestamp": "00:53:34–00:57:15",
+          "transcript_snippet": "Amman's 955word response...this was not an intervention to blackmail Charlie into adopting certain views",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1099",
+      "family_ref": "A-1099",
+      "bundle_name": "Megyn Kelly Interview Clip Bundle (August 6, 2025)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1099.1",
+          "ref": "A-1099.1",
+          "description": "Charlie Kirk on Megyn Kelly August 6, 2025 venting about being called antisemitic, pro-Israel camp losing propaganda war, Epstein-as-Mossad speculation, receiving texts calling him antisemite",
+          "related_claims": [
+            "C-1162",
+            "C-1163"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-75",
+            "N-1098"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-08-06",
+          "video_timestamp": "01:00:46–01:05:39",
+          "transcript_snippet": "some in the pro-Israel camp are so kneejerk about calling you anti-semitic",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1100",
+      "family_ref": "A-1100",
+      "bundle_name": "Charlie Kirk Letter to Netanyahu Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1100.1",
+          "ref": "A-1100.1",
+          "description": "May 2025 letter from Charlie Kirk to Benjamin Netanyahu referenced by Bill Ackman as 'glowing'",
+          "related_claims": [
+            "C-1164"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-65",
+            "N-66"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-05",
+          "video_timestamp": "00:59:24–00:59:33",
+          "transcript_snippet": "the letter Charlie wrote him in May was just like a glowing",
+          "confidence": "medium",
+          "uncertainty_note": "Letter content not shown; only referenced."
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1101",
+      "family_ref": "A-1101",
+      "bundle_name": "Village Crazy Lady Tweet Thread Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1101.1",
+          "ref": "A-1101.1",
+          "description": "Village Crazy Lady X thread breaking down Bill Ackman's itinerary; confirms August 4-5 Hamptons meeting",
+          "related_claims": [
+            "C-1160"
+          ],
+          "related_nodes": [
+            "N-66",
+            "N-97",
+            "N-1098"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09",
+          "video_timestamp": "01:00:25–01:01:08",
+          "transcript_snippet": "Bill Aman just confirmed that he hosted his meeting with Charlie on August 4th and 5th",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1102",
+      "family_ref": "A-1102",
+      "bundle_name": "Hamptons Retreat Invitation Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1102.1",
+          "ref": "A-1102.1",
+          "description": "Aaron Wexler-sent Hamptons weekend retreat invitations; multi-day retreat with smaller meetings plus main event",
+          "related_claims": [
+            "C-1160"
+          ],
+          "related_nodes": [
+            "N-87",
+            "N-66",
+            "N-1098"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-08-04",
+          "video_timestamp": "00:50:01–00:50:31",
+          "transcript_snippet": "Aaron Wexler sent out some of the invitations...first day of the retreat of which there were smaller meetings",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1103",
+      "family_ref": "A-1103",
+      "bundle_name": "Laura Loomer Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1103.1",
+          "ref": "A-1103.1",
+          "description": "Laura Loomer tweet thread from week before Charlie's death pressuring him to distance from Tucker Carlson, threatening company ruin",
+          "related_claims": [
+            "C-1165"
+          ],
+          "related_nodes": [
+            "N-91",
+            "N-50",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09",
+          "video_timestamp": "01:15:00–01:15:29",
+          "transcript_snippet": "she tweeted this whole thread about how Charlie Kirk had to distance himself from Tucker Carlson",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Deceased; subject of investigation.",
+      "related_artifacts": [
+        "A-1099.1",
+        "A-1100.1"
+      ],
+      "related_claims": [
+        "C-1162",
+        "C-1163",
+        "C-1164",
+        "C-1165",
+        "C-1174"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of Bride of Charlie series.",
+      "related_artifacts": [
+        "A-1098.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Indicted shooter.",
+      "related_artifacts": [
+        "A-1095.1",
+        "A-1095.2",
+        "A-1095.3",
+        "A-1095.4",
+        "A-1095.5",
+        "A-1095.6",
+        "A-1095.7",
+        "A-1095.8",
+        "A-1095.9"
+      ],
+      "related_claims": [
+        "C-1144",
+        "C-1145",
+        "C-1146",
+        "C-1147",
+        "C-1148",
+        "C-1149",
+        "C-1150",
+        "C-1151",
+        "C-1152",
+        "C-1153",
+        "C-1154",
+        "C-1155",
+        "C-1156",
+        "C-1170",
+        "C-1171",
+        "C-1172"
+      ],
+      "tags": [],
+      "evidence_count": 9,
+      "claim_count": 16,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-84",
+      "ref": "N-84",
+      "name": "Lance Twigs",
+      "type": "person",
+      "description": "Robinson's romantic partner and roommate; provided text messages to police.",
+      "related_artifacts": [
+        "A-1095.8",
+        "A-1095.9"
+      ],
+      "related_claims": [
+        "C-1154",
+        "C-1156",
+        "C-1166",
+        "C-1167",
+        "C-1168",
+        "C-1169",
+        "C-1170",
+        "C-1171",
+        "C-1155"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-71",
+      "ref": "N-71",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "71-year-old alleged decoy confessor; obstruction of justice and child abuse image charges.",
+      "related_artifacts": [
+        "A-1096.1",
+        "A-1097.1"
+      ],
+      "related_claims": [
+        "C-1157",
+        "C-1158"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Governor Cox",
+      "type": "person",
+      "description": "Utah Governor; host flags earlier statements as inconsistent with indictment (light shorts/maroon shirt).",
+      "related_artifacts": [
+        "A-1095.1"
+      ],
+      "related_claims": [
+        "C-1172"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Hedge fund manager; hosted Hamptons retreat; issued 955-word tweet response.",
+      "related_artifacts": [
+        "A-1098.1",
+        "A-1101.1",
+        "A-1102.1"
+      ],
+      "related_claims": [
+        "C-1159",
+        "C-1160",
+        "C-1161",
+        "C-1164"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Israeli Prime Minister; subject of Charlie Kirk May 2025 letter.",
+      "related_artifacts": [
+        "A-1100.1"
+      ],
+      "related_claims": [
+        "C-1164"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-67",
+      "ref": "N-67",
+      "name": "Seth Dylan",
+      "type": "person",
+      "description": "Reportedly pressed Charlie on Israel at Hamptons retreat.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1173"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-86",
+      "ref": "N-86",
+      "name": "Josh Hammer",
+      "type": "person",
+      "description": "Reportedly part of beehive pressuring Charlie about conference guests.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1173"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-68",
+      "ref": "N-68",
+      "name": "Dave Smith",
+      "type": "person",
+      "description": "Speaker at America Fest; subject of pressure complaints.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Subject of pressure campaign to distance from Charlie.",
+      "related_artifacts": [
+        "A-1103.1"
+      ],
+      "related_claims": [
+        "C-1165"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-87",
+      "ref": "N-87",
+      "name": "Aaron Wexler",
+      "type": "person",
+      "description": "Reportedly sent Hamptons retreat invitations.",
+      "related_artifacts": [
+        "A-1102.1"
+      ],
+      "related_claims": [
+        "C-1160"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Interviewer of Charlie Kirk August 6, 2025.",
+      "related_artifacts": [
+        "A-1099.1"
+      ],
+      "related_claims": [
+        "C-1162"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-88",
+      "ref": "N-88",
+      "name": "Patrick Bet-David",
+      "type": "person",
+      "description": "Podcaster Netanyahu appeared on.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-89",
+      "ref": "N-89",
+      "name": "Brendan Tatum",
+      "type": "person",
+      "description": "Podcaster Netanyahu appeared on.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-90",
+      "ref": "N-90",
+      "name": "Nelk Boys",
+      "type": "person",
+      "description": "Podcast Netanyahu appeared on.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-91",
+      "ref": "N-91",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Issued tweet thread pressuring Charlie to distance from Tucker.",
+      "related_artifacts": [
+        "A-1103.1"
+      ],
+      "related_claims": [
+        "C-1165"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-92",
+      "ref": "N-92",
+      "name": "Phil Lyman",
+      "type": "person",
+      "description": "Republican candidate chosen by delegates who ran against Cox.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-93",
+      "ref": "N-93",
+      "name": "Eric Mutosos",
+      "type": "person",
+      "description": "LEO commenter noted to have dealt with Zinn in the past.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Charlie's widow; one of two people Candace cites as able to silence her.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-94",
+      "ref": "N-94",
+      "name": "Sarah Stockton",
+      "type": "person",
+      "description": "Hamptons attendee whose engagement ring generated drama.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-61",
+      "ref": "N-61",
+      "name": "Dave Rubin",
+      "type": "person",
+      "description": "Subject of Candace's prior Israel-pressure recollection.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-95",
+      "ref": "N-95",
+      "name": "Brian Mass",
+      "type": "person",
+      "description": "Subject of a tweet Candace referenced about genocide.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-96",
+      "ref": "N-96",
+      "name": "Jamie Lee Curtis",
+      "type": "person",
+      "description": "Mentioned as left-leaning figure moved by Kirk's death.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-35",
+      "ref": "N-35",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Referenced in Charlie Kirk Mossad speculation.",
+      "related_artifacts": [
+        "A-1099.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Village Crazy Lady",
+      "type": "person",
+      "description": "X poster who broke down Bill Ackman's itinerary.",
+      "related_artifacts": [
+        "A-1101.1"
+      ],
+      "related_claims": [
+        "C-1160"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-98",
+      "ref": "N-98",
+      "name": "Mark",
+      "type": "person",
+      "description": "Studio contributor commenting on ellipsis formatting in text chain.",
+      "related_artifacts": [
+        "A-1095.8"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-99",
+      "ref": "N-99",
+      "name": "Skyler",
+      "type": "person",
+      "description": "Producer referenced retrieving tweet screenshots.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-100",
+      "ref": "N-100",
+      "name": "Candace Owens' Husband",
+      "type": "person",
+      "description": "One of two people Candace cites as able to silence her.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1077",
+      "ref": "N-1077",
+      "name": "Utah Valley University",
+      "type": "organization",
+      "description": "Shooting site; surveillance footage source.",
+      "related_artifacts": [
+        "A-1095.2"
+      ],
+      "related_claims": [
+        "C-1146",
+        "C-1147"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "organization_kind": "educational_institution"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1094",
+      "ref": "N-1094",
+      "name": "Washington County Sheriff's Office",
+      "type": "organization",
+      "description": "Robinson surrender location.",
+      "related_artifacts": [
+        "A-1095.1"
+      ],
+      "related_claims": [
+        "C-1144"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "government_agency"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1000",
+      "ref": "N-1000",
+      "name": "Turning Point USA",
+      "type": "organization",
+      "description": "Charlie's organization; subject of donor pressure allegations.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1174"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "nonprofit"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1095",
+      "ref": "N-1095",
+      "name": "Text Message Timestamp Discrepancy",
+      "type": "topic",
+      "description": "Indictment omits timestamps on Robinson-to-Lance texts; host flags as investigative gap.",
+      "related_artifacts": [
+        "A-1095.8"
+      ],
+      "related_claims": [
+        "C-1155",
+        "C-1154"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "discrepancy"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1096",
+      "ref": "N-1096",
+      "name": "33-Hour Surrender Timeline Signal",
+      "type": "topic",
+      "description": "Repeated 33-hour figure in indictment; host flags as suspicious signaling.",
+      "related_artifacts": [
+        "A-1095.1"
+      ],
+      "related_claims": [
+        "C-1144"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1097",
+      "ref": "N-1097",
+      "name": "Decoy Boy Operation Analysis",
+      "type": "topic",
+      "description": "George Zinn decoy arrest analysis; potential distraction mechanism.",
+      "related_artifacts": [
+        "A-1096.1",
+        "A-1097.1"
+      ],
+      "related_claims": [
+        "C-1157",
+        "C-1158"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "narrative_pattern"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1098",
+      "ref": "N-1098",
+      "name": "Hamptons Donor Pressure Investigation",
+      "type": "topic",
+      "description": "Pressure on Charlie regarding Israel and conference guests at August 4-5 Hamptons retreat.",
+      "related_artifacts": [
+        "A-1098.1",
+        "A-1099.1",
+        "A-1101.1",
+        "A-1102.1"
+      ],
+      "related_claims": [
+        "C-1160",
+        "C-1162",
+        "C-1163",
+        "C-1161",
+        "C-1173"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1099",
+      "ref": "N-1099",
+      "name": "Lance Twigs Family Allegations",
+      "type": "topic",
+      "description": "Family-sourced allegations re: Lance Twigs behavioral history, drug use, deep-web activity.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1166",
+        "C-1167",
+        "C-1168"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1100",
+      "ref": "N-1100",
+      "name": "Unusual Traffic at Residence Investigation",
+      "type": "topic",
+      "description": "Neighbor reports of unusual vehicles at Robinson/Twigs residence before shooting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1171"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1101",
+      "ref": "N-1101",
+      "name": "Building Donor Withdrawal Investigation",
+      "type": "topic",
+      "description": "Top Jewish donors demanded name removed from TPUSA building 48 hours before Charlie's death; reversed after death.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1174"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1102",
+      "ref": "N-1102",
+      "name": "Bill Ackman Response Analysis",
+      "type": "topic",
+      "description": "Conspicuous omissions in Bill Ackman's tweet response; BB Netanyahu not addressed.",
+      "related_artifacts": [
+        "A-1098.1"
+      ],
+      "related_claims": [
+        "C-1159"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "verification_thread"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1144",
+      "ref": "C-1144",
+      "label": "Robinson surrendered 33 hours after shooting",
+      "claim": "Tyler James Robinson surrendered to Washington County Sheriff's Office on September 11, 2025, approximately 33 hours after the shooting.",
+      "anchored_artifacts": [
+        "A-1095.1"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1094",
+        "N-1096",
+        "N-7",
+        "N-68",
+        "N-88",
+        "N-89",
+        "N-90",
+        "N-92",
+        "N-93",
+        "N-94",
+        "N-61",
+        "N-95",
+        "N-96",
+        "N-98",
+        "N-99"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:37",
+      "investigative_direction": "Verify surrender timestamp via sheriff's office records and forensic timeline.",
+      "transcript_snippet": "after 33 hours...Tyler James Robinson surrendered to police at Washington County Sheriff's Office",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1145",
+      "ref": "C-1145",
+      "label": "DNA consistent with Robinson on rifle trigger",
+      "claim": "DNA consistent with Robinson was found on the rifle trigger and other parts of the rifle, plus fired cartridge casing and two of three unspent cartridges and the towel.",
+      "anchored_artifacts": [
+        "A-1095.1"
+      ],
+      "related_nodes": [
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:55",
+      "investigative_direction": "Obtain forensic lab reports for chain of custody and match thresholds.",
+      "transcript_snippet": "the DNA was consistent with Robinson that was found on the trigger",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1146",
+      "ref": "C-1146",
+      "label": "Suspect entered campus at 11:51am in dark American-flag shirt",
+      "claim": "UVU surveillance showed the suspect entering campus from the north at approximately 11:51am wearing a black shirt with an American flag, dark cap, large sunglasses.",
+      "anchored_artifacts": [
+        "A-1095.2"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:32",
+      "investigative_direction": "Compare indictment description to actual surveillance video frames; verify gait description against TMZ footage.",
+      "transcript_snippet": "at approximately 11:51 a.m., the suspect had entered campus from the north",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1147",
+      "ref": "C-1147",
+      "label": "Suspect on roof by 12:15pm",
+      "claim": "Surveillance camera covering the roof recorded an individual in dark clothing crossing the railing onto the roof at approximately 12:15pm, eight minutes before the 12:23pm shot.",
+      "anchored_artifacts": [
+        "A-1095.2"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:18",
+      "investigative_direction": "Cross-check roof timestamp against shot-time audio forensics.",
+      "transcript_snippet": "crossed the railing from the public walkway and dropped onto the roof at approximately 12:15 p.m.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1148",
+      "ref": "C-1148",
+      "label": "Bolt-action rifle wrapped in towel found in wooded area",
+      "claim": "Investigators found a bolt-action rifle wrapped in a towel in a wooded area at the northeast end of campus; one spent round and three unspent rounds, no shell casings on the roof.",
+      "anchored_artifacts": [
+        "A-1095.3"
+      ],
+      "related_nodes": [
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:47",
+      "investigative_direction": "Obtain crime scene photos and forensic report; verify rifle make/model and serial trace.",
+      "transcript_snippet": "investigators found a boltaction rifle wrapped in a towel",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1149",
+      "ref": "C-1149",
+      "label": "Cartridge inscriptions",
+      "claim": "Inscriptions on cartridge casings read 'Hey fascist catch', 'Oh Bella cow', and 'if you read this you are gay Lmo'.",
+      "anchored_artifacts": [
+        "A-1095.4"
+      ],
+      "related_nodes": [
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:29",
+      "investigative_direction": "Request close-up images and chain of custody for the casings.",
+      "transcript_snippet": "Hey fascist catch...Oh Bella cow...if you read this you are gay",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1150",
+      "ref": "C-1150",
+      "label": "Robinson mother recognized shooter from news photo",
+      "claim": "Robinson's mother saw the news photo of the shooter on September 11 and stated it looked like her son; she called her husband to confirm.",
+      "anchored_artifacts": [
+        "A-1095.5"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-100"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:00",
+      "investigative_direction": "Verify timing of news publication vs. mother's call via phone and interview records.",
+      "transcript_snippet": "she saw the photo of the shooter in the news and thought that the shooter looked like her son",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1151",
+      "ref": "C-1151",
+      "label": "Robinson father matched rifle to gifted weapon",
+      "claim": "Robinson's father agreed the shooter photo looked like his son and believed the rifle matched a rifle gifted to his son; he asked for a photo and Robinson did not respond.",
+      "anchored_artifacts": [
+        "A-1095.6"
+      ],
+      "related_nodes": [
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:50",
+      "investigative_direction": "Verify gift provenance, family communications, and any self-harm implication statements.",
+      "transcript_snippet": "the rifle that was given to his son as a gift",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1152",
+      "ref": "C-1152",
+      "label": "Family friend retired deputy facilitated surrender",
+      "claim": "Robinson's family convinced him not to self-harm; a family friend who is a retired deputy sheriff facilitated Robinson's surrender with his parents.",
+      "anchored_artifacts": [
+        "A-1095.7"
+      ],
+      "related_nodes": [
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:54",
+      "investigative_direction": "Confirm retired deputy's identity and role in surrender via sheriff records.",
+      "transcript_snippet": "a family friend who happens to be a retired deputy sheriff",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1153",
+      "ref": "C-1153",
+      "label": "Robinson shifted politically left over last year",
+      "claim": "Robinson's mother told police he had become increasingly political over the past year, leaning more left, more pro-gay, and more trans-rights oriented, with difficult discussions with his father.",
+      "anchored_artifacts": [
+        "A-1095.5"
+      ],
+      "related_nodes": [
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:45",
+      "investigative_direction": "Compare against Robinson's social media history and family interviews.",
+      "transcript_snippet": "Robinson had become increasingly more political. He had started to lean more left",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1154",
+      "ref": "C-1154",
+      "label": "Robinson texted Lance from keyboard note confession",
+      "claim": "Robinson texted his roommate Lance Twigs 'Drop what you are doing and look under my keyboard'; Lance found a note stating 'I had the opportunity to take out Charlie Kirk and I'm going to take it'.",
+      "anchored_artifacts": [
+        "A-1095.8",
+        "A-1095.9"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-84",
+        "N-1095",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:31",
+      "investigative_direction": "Verify text and note timestamps and original device screenshots.",
+      "transcript_snippet": "Drop what you are doing and look under my keyboard...I had the opportunity to take out Charlie Kirk",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1155",
+      "ref": "C-1155",
+      "label": "Indictment omits timestamps on Tyler-Lance texts",
+      "claim": "The indictment's text-message excerpt provides no time stamps for the September 10, 2025 exchanges, despite references to lockdown and post-shooting events.",
+      "anchored_artifacts": [
+        "A-1095.8"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-84",
+        "N-1095"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:48",
+      "investigative_direction": "Obtain unredacted text logs with metadata from discovery materials.",
+      "transcript_snippet": "They're not telling us the time. I don't like that",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1156",
+      "ref": "C-1156",
+      "label": "Robinson dated roommate, biological male transitioning",
+      "claim": "Robinson began dating his roommate, a biological male transitioning genders, according to his mother.",
+      "anchored_artifacts": [
+        "A-1095.5",
+        "A-1095.9"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-84"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:00",
+      "investigative_direction": "Verify roommate's stated identity and timeline.",
+      "transcript_snippet": "Robinson began to date his roommate, which is a biological male who was transitioning",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1157",
+      "ref": "C-1157",
+      "label": "George Zinn arrested for obstruction after decoy confession",
+      "claim": "George Zinn, a 71-year-old, was arrested after allegedly jumping up and claiming credit for the Kirk shooting; he faces obstruction of justice charges.",
+      "anchored_artifacts": [
+        "A-1096.1",
+        "A-1097.1"
+      ],
+      "related_nodes": [
+        "N-71",
+        "N-1097"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:33",
+      "investigative_direction": "Obtain arrest affidavit and court records.",
+      "transcript_snippet": "Man arrested for allegedly faking confession to Charlie Kirk's killing",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1158",
+      "ref": "C-1158",
+      "label": "Zinn booked on child abuse image charge",
+      "claim": "George Zinn was booked in connection with images on his cell phone related to child abuse following the obstruction arrest.",
+      "anchored_artifacts": [
+        "A-1096.1"
+      ],
+      "related_nodes": [
+        "N-71",
+        "N-1097"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:10",
+      "investigative_direction": "Confirm booking details and court filings; verify device forensic report.",
+      "transcript_snippet": "was also booked in connection with images on his cell phone related to child abuse",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1159",
+      "ref": "C-1159",
+      "label": "Bill Ackman issued 955-word tweet response",
+      "claim": "Bill Ackman published a 955-word tweet response denying that the Hamptons retreat was an intervention or blackmail attempt on Charlie.",
+      "anchored_artifacts": [
+        "A-1098.1"
+      ],
+      "related_nodes": [
+        "N-66",
+        "N-1102"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:40",
+      "investigative_direction": "Verify tweet length, content, and any deletions or follow-up tweets.",
+      "transcript_snippet": "Amman's 955word response",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1160",
+      "ref": "C-1160",
+      "label": "Hamptons retreat held August 4-5, 2025",
+      "claim": "Bill Ackman's tweet confirmed he hosted a meeting with Charlie Kirk on August 4th and 5th at the Hamptons.",
+      "anchored_artifacts": [
+        "A-1098.1",
+        "A-1101.1",
+        "A-1102.1"
+      ],
+      "related_nodes": [
+        "N-66",
+        "N-97",
+        "N-87",
+        "N-1098"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:46",
+      "investigative_direction": "Cross-reference attendee statements with published itinerary.",
+      "transcript_snippet": "Bill Aman just confirmed that he hosted his meeting with Charlie on August 4th and 5th",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1161",
+      "ref": "C-1161",
+      "label": "Bill Ackman allegedly told attendees not to own property",
+      "claim": "Per attendees, Bill Ackman gave a presentation at the Hamptons retreat telling attendees they should not own property and should instead invest in stocks.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-66",
+        "N-1098"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:18:21",
+      "investigative_direction": "Identify and corroborate attendees; request presentation materials.",
+      "transcript_snippet": "Bill Aman got up and gave a presentation and told them that they shouldn't own property",
+      "confidence": "medium",
+      "uncertainty_note": "Single-source attendee statement relayed by host."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1162",
+      "ref": "C-1162",
+      "label": "Charlie Kirk vented about Israel pressure on Megyn Kelly August 6",
+      "claim": "Charlie Kirk appeared on Megyn Kelly on August 6, 2025 stating he found pro-Israel camp kneejerk anti-Semitism accusations irritating, was receiving texts calling him antisemite, and had raised Mossad/Epstein speculation.",
+      "anchored_artifacts": [
+        "A-1099.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-75",
+        "N-1098",
+        "N-35"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:46",
+      "investigative_direction": "Verify full clip and dates against Megyn Kelly show archives.",
+      "transcript_snippet": "some in the pro-Israel camp are so kneejerk about calling you anti-semitic",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1163",
+      "ref": "C-1163",
+      "label": "Charlie received text messages calling him antisemite",
+      "claim": "Charlie Kirk stated on the August 6 Megyn Kelly show that he had received text messages calling him an antisemite.",
+      "anchored_artifacts": [
+        "A-1099.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1098"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:05:20",
+      "investigative_direction": "Obtain the cited text messages and verify attribution.",
+      "transcript_snippet": "I have text messages, Megan, calling me an anti-semite",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1164",
+      "ref": "C-1164",
+      "label": "Charlie Kirk wrote letter to Netanyahu in May",
+      "claim": "Bill Ackman referenced a May letter from Charlie Kirk to Netanyahu as 'glowing'.",
+      "anchored_artifacts": [
+        "A-1100.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-65",
+        "N-66"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:24",
+      "investigative_direction": "Locate published or archived version of the May letter.",
+      "transcript_snippet": "the letter Charlie wrote him in May was just like a glowing",
+      "confidence": "medium",
+      "uncertainty_note": "Letter not shown; only paraphrased by Ackman."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1165",
+      "ref": "C-1165",
+      "label": "Laura Loomer pressured Charlie to distance from Tucker Carlson",
+      "claim": "Laura Loomer posted a tweet thread the week before Charlie Kirk's death pressuring him to distance himself from Tucker Carlson and warning it would ruin his company.",
+      "anchored_artifacts": [
+        "A-1103.1"
+      ],
+      "related_nodes": [
+        "N-91",
+        "N-50",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:15:00",
+      "investigative_direction": "Retrieve the tweet thread and verify dates.",
+      "transcript_snippet": "Charlie Kirk had to distance himself from Tucker Carlson",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1166",
+      "ref": "C-1166",
+      "label": "Lance Twigs kicked out by parents junior year of high school",
+      "claim": "Per Lance Twigs family members, Lance was kicked out of his parents' home in junior year of high school for being problematic.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-84",
+        "N-1099"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:19",
+      "investigative_direction": "Corroborate with other family members or contemporaneous records.",
+      "transcript_snippet": "his parents kicked him out junior year of high school because he was problematic",
+      "confidence": "medium",
+      "uncertainty_note": "Family statement relayed by host, not on the record."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1167",
+      "ref": "C-1167",
+      "label": "Lance Twigs Christmas vodka overdose ~three years ago",
+      "claim": "Per family, Lance Twigs nearly overdosed by drinking a bottle of vodka approximately three years ago at Christmas; family feared they could not care for him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-84",
+        "N-1099"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:43",
+      "investigative_direction": "Request medical/ER records and corroborating family testimony.",
+      "transcript_snippet": "He almost overdosed. He drank a bottle of vodka",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1168",
+      "ref": "C-1168",
+      "label": "Lance Twigs showed up on drugs at Easter family gathering",
+      "claim": "Per family, Lance Twigs showed up on drugs at a family Easter Sunday gathering and was spouting political statements; family determined he could not be around children.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-84",
+        "N-1099"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:18",
+      "investigative_direction": "Corroborate with multiple family members.",
+      "transcript_snippet": "he showed up on drugs and he was spouting out of his mouth about political stuff",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1169",
+      "ref": "C-1169",
+      "label": "Lance Twigs turned 22 in August 2025",
+      "claim": "Lance Twigs turned 22 in August 2025 according to his family.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-84"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:43",
+      "investigative_direction": "Verify against state ID or DOB records.",
+      "transcript_snippet": "He turned 22, they told me back in August",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1170",
+      "ref": "C-1170",
+      "label": "Lance Twigs lived in townhome owned by his family; Tyler paid rent",
+      "claim": "Tyler Robinson lived with Lance Twigs in a townhome owned by Lance's family and paid rent to them via Lance.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-84"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:33",
+      "investigative_direction": "Verify property ownership via county records; obtain lease or payment records.",
+      "transcript_snippet": "the house that Tyler Robinson was living in with Lance is owned by them. Tyler Robinson is paying rent",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1171",
+      "ref": "C-1171",
+      "label": "Unusual traffic observed at residence pre-shooting",
+      "claim": "Neighbors and Lance's family reported unusual, frequent traffic and unrecognized cars at the Robinson/Twigs residence in the days before the shooting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-84",
+        "N-1100"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:28",
+      "investigative_direction": "Pull traffic camera footage and license plate reader data; interview more neighbors.",
+      "transcript_snippet": "there were unusual traffic in the driveway where Tyler Robinson and Lance lived",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1172",
+      "ref": "C-1172",
+      "label": "Governor Cox statements conflict with indictment on prior outfit",
+      "claim": "Governor Cox previously described a suspect in light shorts and maroon shirt scouting the venue; the indictment describes only a single suspect in a black American-flag outfit, omitting the prior outfit detail.",
+      "anchored_artifacts": [
+        "A-1095.1",
+        "A-1095.2"
+      ],
+      "related_nodes": [
+        "N-85",
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:06",
+      "investigative_direction": "Compare Cox's earlier press statements to indictment timeline; review UVU footage for second outfit.",
+      "transcript_snippet": "Governor Cox said he was wearing the light shorts and maroon shirt. The implication here being...this is missing from the indictment",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1173",
+      "ref": "C-1173",
+      "label": "Seth Dylan and Josh Hammer pressured Charlie at retreat",
+      "claim": "Attendees report Seth Dylan and Josh Hammer pressured Charlie at the Hamptons retreat regarding Israel views and conference guests.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-67",
+        "N-86",
+        "N-1098"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:10",
+      "investigative_direction": "Interview multiple attendees; obtain any recorded retreat discussions.",
+      "transcript_snippet": "Seth Dylan...Josh Hammer was upset. Josh Hammer...was a part of the beehive that was swarming him",
+      "confidence": "medium",
+      "uncertainty_note": "Multiple-source attendee statements, none on the record."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1174",
+      "ref": "C-1174",
+      "label": "Top Jewish donors pulled funding and demanded name removal from building",
+      "claim": "Per Candace's contacts, Charlie's top Jewish donors were pulling funding within 48 hours of his death and demanding their name be removed from a Turning Point building; after his death they asked for it to be restored.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1",
+        "N-1000",
+        "N-1101"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:09:21",
+      "investigative_direction": "Identify donors; obtain internal TPUSA communications; verify building-donor naming history.",
+      "transcript_snippet": "his top Jewish donors were pulling funding from him, demanding that Charlie take their name off of the building",
+      "confidence": "medium",
+      "uncertainty_note": "Single-source tip relayed by host."
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-2",
+      "ref": "M-2",
+      "canonical_term": "Sheer Evil",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 11,
+          "video_timestamp": "00:00:34",
+          "speaker_node_ref": "N-7",
+          "quote": "What is happening right now in the world and what just happened to my friend Charlie Kirk is a battle of sheer evil versus goodness",
+          "context": "Opening framing of shooting as cosmic good-vs-evil conflict rather than partisan.",
+          "confidence": "high",
+          "tags": [
+            "cosmic_framing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 11,
+          "video_timestamp": "00:34:48",
+          "speaker_node_ref": "N-7",
+          "quote": "Obviously, I was in a very agrieved state and I was not prepared to even accept that Charlie Kirk was not on this earth",
+          "context": "Candace explains why she was not initially available to Lance Twigs family.",
+          "confidence": "high",
+          "tags": [
+            "self_described"
+          ]
+        },
+        {
+          "episode": 11,
+          "video_timestamp": "00:42:13",
+          "speaker_node_ref": "N-7",
+          "quote": "Somebody said something to you're unstable...I have been destabilized by watching Charlie Kirk catch a bullet in his neck and then being gas lit",
+          "context": "Host defends emotional state while pressing for transparency.",
+          "confidence": "high",
+          "tags": [
+            "emotional_framing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-7",
+      "ref": "M-7",
+      "canonical_term": "Catholic/Evangelical/Jewish identity flip",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 11,
+          "video_timestamp": "01:09:21",
+          "speaker_node_ref": "N-7",
+          "quote": "his top Jewish donors were pulling funding from him, demanding that Charlie take their name off of the building",
+          "context": "Host cites donor identity (Jewish) as relevant to pressure narrative; identity is foregrounded as causal.",
+          "confidence": "high",
+          "tags": [
+            "identity_foregrounding"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-6",
+      "ref": "M-6",
+      "canonical_term": "conspiracy theorist",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 11,
+          "video_timestamp": "01:41:51",
+          "speaker_node_ref": "N-7",
+          "quote": "And am I emotionally invested in this? Yes. Somebody said something to you're unstable.",
+          "context": "Host anticipates accusation of instability/conspiracy framing, asserts it as accurate reading.",
+          "confidence": "medium",
+          "tags": [
+            "anticipatory_defense"
+          ]
+        }
+      ]
+    }
+  ]
+}
