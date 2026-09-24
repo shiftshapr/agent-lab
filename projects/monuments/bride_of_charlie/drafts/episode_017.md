@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1155, A-1156, A-1157, A-1158, A-1159, A-1160, A-1161
   - Claim Range: C-1267-C-1284
-  - New Nodes Introduced: N-1, N-2, N-7, N-61, N-64, N-67, N-68, N-70, N-73, N-74, N-77, N-78, N-89, N-90, N-91, N-97, N-100, N-105, N-113, N-125, N-126, N-127, N-128, N-129, N-130, N-1003, N-1076, N-1126, N-1129, N-1136, N-1145, N-1146, N-1157, N-1158, N-1159, N-1160, N-1161, N-1162, N-1163, N-1164, N-1165, N-1166, N-1167, N-1168, N-1169, N-1170, N-1171, N-1172, N-1173, N-1174
+  - New Nodes Introduced: N-1, N-2, N-7, N-61, N-64, N-67, N-68, N-70, N-73, N-74, N-77, N-78, N-89, N-90, N-91, N-97, N-100, N-105, N-113, N-125, N-126, N-127, N-128, N-129, N-130, N-1003, N-1076, N-1127, N-1134, N-1143, N-1144, N-1147, N-1155, N-1156, N-1157, N-1158, N-1161, N-1162, N-1163, N-1164, N-1165, N-1166, N-1167, N-1168, N-1169, N-1170, N-1171, N-1172, N-1173, N-1174, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1183, N-1184, N-1185, N-1186, N-1187, N-1188, N-1189, N-1190, N-1191, N-1192, N-1193, N-1194
 
 ## 2. Executive Summary
 
@@ -68,7 +68,7 @@ Confidence: high
 
 **A-1157.1** Megyn Kelly clip reporting Jezebel mission to curse Charlie Kirk via Etsy witch services
 Video Timestamp: 00:42:20–00:43:58
-*Related: C-1274, N-2, N-75, N-1188, N-1204, N-1183*
+*Related: C-1274, N-2, N-75, N-1188, N-1189, N-1183*
 Transcript Snippet: Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.
 Confidence: high
 
@@ -88,7 +88,7 @@ Confidence: high
 
 **A-1159.1** Riverbend Ranch audio tribute honoring Charlie Kirk
 Video Timestamp: 00:34:37–00:35:17
-*Related: C-1276, N-1, N-1201*
+*Related: C-1276, N-1, N-1190*
 Transcript Snippet: We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.
 Confidence: high
 
@@ -166,9 +166,8 @@ Charlie's widow; reported by Megyn Kelly to have sought Catholic priest over Jez
 Node Type: Person
 Target of July 13, 2024 Crooks attempt; referenced re Iran narrative.
 
-*Related: *
+*Related: A-1155.1, C-1267*
 
-*Related: C-1267*
 
 
 ---
@@ -178,9 +177,8 @@ Target of July 13, 2024 Crooks attempt; referenced re Iran narrative.
 Node Type: Person
 Firefighter killed shielding family at July 13, 2024 Trump rally.
 
-*Related: *
+*Related: A-1155.1, C-1267*
 
-*Related: C-1267*
 
 
 ---
@@ -253,9 +251,8 @@ Cited by Kimmel.
 Node Type: Person
 Author of 'Inside the American Education System' recommended by host.
 
-*Related: *
+*Related: A-1155.1, C-1267*
 
-*Related: C-1267*
 
 
 ---
@@ -265,9 +262,8 @@ Author of 'Inside the American Education System' recommended by host.
 Node Type: Person
 Credited by host with establishing kindergarten in US (1848 communists).
 
-*Related: *
+*Related: A-1155.1, C-1267*
 
-*Related: C-1267*
 
 
 ---
@@ -277,9 +273,8 @@ Credited by host with establishing kindergarten in US (1848 communists).
 Node Type: Person
 Referenced in book-club discussion of psychoanalytic community origins.
 
-*Related: *
+*Related: A-1155.1, C-1267*
 
-*Related: C-1267*
 
 
 ---
@@ -289,9 +284,8 @@ Referenced in book-club discussion of psychoanalytic community origins.
 Node Type: Person
 Referenced for concept of 'scientism'.
 
-*Related: *
+*Related: A-1155.1, C-1267*
 
-*Related: C-1267*
 
 
 ---
@@ -319,9 +313,8 @@ First in family to homeschool; recipient of bee-warning text.
 Node Type: Person
 Producer who corrects promo code on-air (Blackout15).
 
-*Related: *
+*Related: A-1155.1, C-1267*
 
-*Related: C-1267*
 
 
 ---
@@ -331,9 +324,8 @@ Producer who corrects promo code on-air (Blackout15).
 Node Type: Person
 Commenter correcting Church name; explains beehive = work-for-Christ.
 
-*Related: *
+*Related: A-1155.1, C-1267*
 
-*Related: C-1267*
 
 
 ---
@@ -352,9 +344,8 @@ Listener who tipped unverified video of Tyler Robinson with a woman.
 Node Type: Person
 Former teacher; requests education-system reading recommendations.
 
-*Related: *
+*Related: A-1155.1, C-1267*
 
-*Related: C-1267*
 
 
 ---
@@ -364,9 +355,8 @@ Former teacher; requests education-system reading recommendations.
 Node Type: Person
 Raises FBI photo-release discrepancy between ICE Dallas and Charlie Kirk case.
 
-*Related: *
+*Related: A-1155.1, C-1267*
 
-*Related: C-1267*
 
 
 ---
@@ -376,9 +366,8 @@ Raises FBI photo-release discrepancy between ICE Dallas and Charlie Kirk case.
 Node Type: Person
 Commenter praising host's investigation.
 
-*Related: *
+*Related: A-1155.1, C-1267*
 
-*Related: C-1267*
 
 
 ---
@@ -388,9 +377,8 @@ Commenter praising host's investigation.
 Node Type: Person
 Commenter defending Erika Kirk's grief response.
 
-*Related: *
+*Related: A-1155.1, C-1267*
 
-*Related: C-1267*
 
 
 ---
@@ -400,9 +388,8 @@ Commenter defending Erika Kirk's grief response.
 Node Type: Person
 Commenter noting grandparents' 3-day engagement, 67-yr marriage.
 
-*Related: *
+*Related: A-1155.1, C-1267*
 
-*Related: C-1267*
 
 
 ---
@@ -537,7 +524,7 @@ Host: eyewitness told her shooter was in tactical gear, gun mismatched.
 
 ---
 
-**N-1138** FBI
+**N-1137** FBI
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -573,7 +560,7 @@ Far-left website that declared mission to curse Charlie Kirk.
 
 ---
 
-**N-1204** Etsy
+**N-1189** Etsy
 
 Node Type: Organization
 Organization Kind: company
@@ -593,7 +580,7 @@ Site of Charlie Kirk assassination, Sept 10, 2025.
 
 ---
 
-**N-1201** Riverbend Ranch
+**N-1190** Riverbend Ranch
 
 Node Type: Organization
 Organization Kind: company
@@ -607,7 +594,7 @@ Sponsor; produced audio tribute to Charlie Kirk.
 
 ---
 
-**N-1193** Utah
+**N-1191** Utah
 
 Node Type: Place
 Place Kind: state
@@ -617,7 +604,7 @@ Site of Kirk assassination; the 'Beehive State'; hexagonal beehive flag.
 
 ---
 
-**N-1190** London / UK
+**N-1192** London / UK
 
 Node Type: Place
 Place Kind: city_region
@@ -627,7 +614,7 @@ Destination of Candace's premonition UK trip; meeting site for husband.
 
 ---
 
-**N-1200** Poland
+**N-1193** Poland
 
 Node Type: Place
 Place Kind: country
@@ -637,7 +624,7 @@ Source of communist underground symbol found online by Candace.
 
 ---
 
-**N-1202** Germany (1848 reference)
+**N-1194** Germany (1848 reference)
 
 Node Type: Place
 Place Kind: country
@@ -739,7 +726,7 @@ Claim Timestamp: 00:42:20
 Claim: Per Megyn Kelly segment, Jezebel declared a mission to curse Charlie Kirk and Etsy offered witch-hex services; the Kirks consulted a Catholic priest.
 Transcript Snippet: Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.
 Anchored Artifacts: A-1157.1
-Related Nodes: N-2, N-75, N-1188, N-1204, N-1183
+Related Nodes: N-2, N-75, N-1188, N-1189, N-1183
 Confidence: high
 Investigative Direction: Recover Jezebel article and Etsy listings; verify priest consultation with family.
 
@@ -763,7 +750,7 @@ Claim Timestamp: 00:34:37
 Claim: Riverbend Ranch produced and aired an audio tribute honoring Charlie Kirk's life and principles.
 Transcript Snippet: We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.
 Anchored Artifacts: A-1159.1
-Related Nodes: N-1, N-1201
+Related Nodes: N-1, N-1190
 Confidence: high
 Investigative Direction: Confirm authenticity and release date via Riverbend Ranch.
 
@@ -799,7 +786,7 @@ Claim Timestamp: 00:01:42
 Claim: Host claims a well-placed source says the FBI is pressuring Utah authorities to declare the Charlie Kirk case closed as a lone-gunman act.
 Transcript Snippet: The FBI is putting an absurd amount of pressure…to come out and to say that the Charlie Kirk case is closed.
 Anchored Artifacts: 
-Related Nodes: N-1138, N-1175
+Related Nodes: N-1137, N-1175
 Confidence: low
 Investigative Direction: Identify and corroborate the source; FOIA communications between FBI and Utah authorities.
 
@@ -835,7 +822,7 @@ Claim Timestamp: 00:05:13
 Claim: Host's source says the FBI does not have footage showing how the rifle was placed on the UVU roof.
 Transcript Snippet: The feds don't even have any footage that explains how exactly the rifle…got onto the roof.
 Anchored Artifacts: 
-Related Nodes: N-69, N-1138, N-1077, N-1176
+Related Nodes: N-69, N-1137, N-1077, N-1176
 Confidence: low
 Investigative Direction: Verify against indictment and discovery materials.
 
@@ -911,14 +898,14 @@ Confidence: high
 **** Utah v. Tyler Robinson
 
 Party Nodes: N-69, N-1
-Place Nodes: N-1077, N-1193
+Place Nodes: N-1077, N-1191
 Artifact Anchors: A-1161.1
 Description: State prosecution of Tyler Robinson for Charlie Kirk assassination; host claims evidentiary gaps.
 ---
 
 ## 8. Organization Network
 
-OrgLink: N-1003 subsidiary_of N-1126
+OrgLink: N-1003 subsidiary_of N-1148
 
 ## 9. Role Assertions
 

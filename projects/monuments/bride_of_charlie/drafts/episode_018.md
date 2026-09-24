@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1162, A-1163, A-1164, A-1165, A-1166, A-1167, A-1168, A-1169, A-1170
   - Claim Range: C-1285-C-1296
-  - New Nodes Introduced: N-1, N-2, N-7, N-42, N-43, N-63, N-64, N-65, N-67, N-70, N-71, N-73, N-77, N-83, N-84, N-90, N-108, N-109, N-110, N-130, N-131, N-132, N-1000, N-1089, N-1123, N-1126, N-1136, N-1164, N-1165, N-1168, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182
+  - New Nodes Introduced: N-1, N-2, N-7, N-42, N-43, N-63, N-64, N-65, N-67, N-70, N-71, N-73, N-77, N-83, N-84, N-90, N-108, N-109, N-110, N-130, N-131, N-132, N-1000, N-1089, N-1123, N-1134, N-1147, N-1164, N-1165, N-1168, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1195, N-1196, N-1197, N-1198, N-1199, N-1200, N-1201, N-1202, N-1203, N-1204, N-1205, N-1206
 
 ## 2. Executive Summary
 
@@ -66,13 +66,13 @@ Confidence: high
 **A-1164.2** Testimonial from rooftop-footage filmer obtained by host via Twitter contact, claiming neither feds nor local police reached out to him prior to September 15
 Event Timestamp: 2025-09-15
 Video Timestamp: 00:17:13–00:17:40
-*Related: C-1290, N-1201, N-1205*
+*Related: C-1290, N-1190, N-1195*
 Transcript Snippet: He told me that neither the feds nor the local police had ever reached out to him. Never.
 Confidence: high
 
 **A-1164.3** Testimonial from second rooftop witness obtained by host, claiming he delivered footage to Orem Police Department on day one and was not contacted by feds until September 15
 Video Timestamp: 00:18:43–00:20:06
-*Related: C-1291, N-1201, N-1205, N-1201*
+*Related: C-1291, N-1190, N-1195, N-1190*
 Transcript Snippet: He walked in and gave the footage to the Orum Police Department… the feds never reached out to him until the 15th.
 Confidence: high
 
@@ -82,13 +82,13 @@ Confidence: high
 
 **A-1165.1** Xavier Deruso video clip played in episode, addressing Hamptons weekend and use of phrase 'moral blackmail' regarding Charlie Kirk
 Video Timestamp: 00:04:45–00:06:00
-*Related: C-1292, N-166, N-1, N-1192*
+*Related: C-1292, N-166, N-1, N-1196*
 Transcript Snippet: He said is it is moral blackmail if you say that somebody saying that a politician is bad that you're then empowering a terrorist organization.
 Confidence: high
 
 **A-1165.2** Xavier Deruso video clip explaining why photos from Hamptons weekend were not posted in real time (safety claim)
 Video Timestamp: 00:07:34–00:08:06
-*Related: C-1293, N-166, N-1192*
+*Related: C-1293, N-166, N-1196*
 Transcript Snippet: The reason we didn't post that in the real time was because of safety.
 Confidence: high
 
@@ -109,7 +109,7 @@ Uncertainty: Photo referenced on screen but full view not described; window clai
 
 **A-1167.1** Tip from young woman via comment section, alleging doorbell footage was only partially released and that additional footage shows alleged Tyler Robinson walking with unidentified woman and changing clothes
 Video Timestamp: 00:39:05–00:39:45
-*Related: C-1294, N-69, N-1195, NODE_1010*
+*Related: C-1294, N-69, N-1197, NODE_1010*
 Transcript Snippet: there was more footage which showed the person that they allege is Tyler Robinson walking with a woman who they don't know who that is and that he changes clothes.
 Confidence: low
 Uncertainty: Tip is uncorroborated; host says she has established contact with the source but full footage not shown in episode.
@@ -131,7 +131,7 @@ Confidence: high
 **A-1169.1** Public Instagram post by Emily (Saves America) dated August 6 stating she was in the Hamptons, cited as contradicting Xavier Deruso's safety-based secrecy claim
 Event Timestamp: 2025-08-06
 Video Timestamp: 00:08:37–00:09:09
-*Related: C-1293, N-173, N-166, N-1192*
+*Related: C-1293, N-173, N-166, N-1196*
 Transcript Snippet: one of the influencers did post on August 6th that she was in the Hamptons… Sorry, I'm MIA. I'm in the Hamptons.
 Confidence: high
 
@@ -141,7 +141,7 @@ Confidence: high
 
 **A-1170.1** Bill Aman essay response of 959 words referenced (not shown) in episode as a reply to Candace Owens' prior coverage of the Hamptons weekend and intervention pressure
 Video Timestamp: 00:03:05–00:03:46
-*Related: C-1295, N-66, N-1192*
+*Related: C-1295, N-66, N-1196*
 Transcript Snippet: Bill Aman replies with an essay, college essay. 959 words to be precise was his response to me.
 Confidence: medium
 Uncertainty: Essay referenced verbally with word count but not displayed in episode.
@@ -173,7 +173,7 @@ Deceased founder of Turning Point USA; subject of financial concerns expressed o
 Node Type: Person
 Widow of Charlie Kirk, discussed in episode as new CEO/chairman of TPUSA. Host defends her against public criticism of fundraising emails.
 
-*Related: *
+*Related: A-1162.1, C-1285*
 
 ---
 
@@ -200,7 +200,7 @@ Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging 
 Node Type: Person
 Father of Tyler Robinson; host notes his house was raided and no further updates have been provided by federal authorities.
 
-*Related: *
+*Related: A-1167.1, C-1294*
 
 ---
 
@@ -227,9 +227,8 @@ Author of a 959-word essay response defending his role around the Hamptons weeke
 Node Type: Person
 Named as participant in Hamptons weekend who allegedly pressured Charlie Kirk on Israel/Netanyahu positioning.
 
-*Related: *
+*Related: A-1162.1, C-1285*
 
-*Related: C-1285*
 
 
 ---
@@ -239,9 +238,8 @@ Named as participant in Hamptons weekend who allegedly pressured Charlie Kirk on
 Node Type: Person
 Named as applying pressure on Charlie Kirk at the Hamptons weekend retreat.
 
-*Related: *
+*Related: A-1162.1, C-1285*
 
-*Related: C-1285*
 
 
 ---
@@ -260,9 +258,8 @@ Influencer who attended Hamptons weekend, released video addressing the event an
 Node Type: Person
 Named as attendee of Hamptons weekend retreat.
 
-*Related: *
+*Related: A-1162.1, C-1285*
 
-*Related: C-1285*
 
 
 ---
@@ -272,9 +269,8 @@ Named as attendee of Hamptons weekend retreat.
 Node Type: Person
 TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.
 
-*Related: *
+*Related: A-1162.1, C-1285*
 
-*Related: C-1285*
 
 
 ---
@@ -284,9 +280,8 @@ TPUSA spokesperson who has continued Charlie Kirk's show; host urges against tre
 Node Type: Person
 PragerU host noted in episode; mentioned as having worked for IDF intelligence and platform used by Xavier Deruso for Hamptons response video.
 
-*Related: *
+*Related: A-1162.1, C-1285*
 
-*Related: C-1285*
 
 
 ---
@@ -305,9 +300,8 @@ News host on which Netanyahu reportedly lied about contents of a May letter from
 Node Type: Person
 Journalist to whom Charlie Kirk vented the day after the Hamptons weekend about being wrongly labeled anti-Semitic.
 
-*Related: *
+*Related: A-1162.1, C-1285*
 
-*Related: C-1285*
 
 
 ---
@@ -317,9 +311,8 @@ Journalist to whom Charlie Kirk vented the day after the Hamptons weekend about 
 Node Type: Person
 Referenced as co-architect of the original federal Department of Government Efficiency alongside Vivek Ramaswamy.
 
-*Related: *
+*Related: A-1162.1, C-1285*
 
-*Related: C-1285*
 
 
 ---
@@ -329,9 +322,8 @@ Referenced as co-architect of the original federal Department of Government Effi
 Node Type: Person
 Referenced as co-architect of the original federal Department of Government Efficiency alongside Elon Musk.
 
-*Related: *
+*Related: A-1162.1, C-1285*
 
-*Related: C-1285*
 
 
 ---
@@ -350,9 +342,8 @@ US President referenced in connection with DOGE and in context of Netanyahu alle
 Node Type: Person
 Referenced in closing joke about reporting Candace to platform authorities.
 
-*Related: *
+*Related: A-1162.1, C-1285*
 
-*Related: C-1285*
 
 
 ---
@@ -362,9 +353,8 @@ Referenced in closing joke about reporting Candace to platform authorities.
 Node Type: Person
 Commenter quoted by host for X post asserting Candace Owens appears to be the only right-wing figure genuinely grieving Charlie Kirk.
 
-*Related: *
+*Related: A-1162.1, C-1285*
 
-*Related: C-1285*
 
 
 ---
@@ -392,9 +382,8 @@ Influencer whose August 6 Instagram post revealing she was in the Hamptons is ci
 Node Type: Person
 Unnamed CEO of Riverbend Ranch met by host with Charlie years prior; produced tribute segment aired in this episode.
 
-*Related: A-1168.1*
+*Related: A-1162.1, A-1168.1, C-1285*
 
-*Related: C-1285*
 
 
 ---
@@ -413,9 +402,8 @@ Utah Governor Cox, referenced for declaring the investigation concluded and the 
 Node Type: Person
 Referenced in comment about representatives signing bombs; host notes 'Nikki Haley signing bombs'.
 
-*Related: *
+*Related: A-1162.1, C-1285*
 
-*Related: C-1285*
 
 
 ---
@@ -430,7 +418,7 @@ Subject organization of the financial concerns Charlie Kirk allegedly raised one
 
 ---
 
-**N-1205** Orem Police Department
+**N-1195** Orem Police Department
 
 Node Type: Organization
 Organization Kind: law_enforcement
@@ -440,7 +428,7 @@ Local Utah police department that received the second rooftop witness's footage 
 
 ---
 
-**N-1192** Department of Government Efficiency (DOGE)
+**N-1196** Department of Government Efficiency (DOGE)
 
 Node Type: Organization
 Organization Kind: government_program
@@ -450,7 +438,7 @@ Referenced as federal initiative by Musk/Ramaswamy and as the model for Charlie 
 
 ---
 
-**N-1201** Riverbend Ranch
+**N-1190** Riverbend Ranch
 
 Node Type: Organization
 Organization Kind: other
@@ -460,7 +448,7 @@ Organization that produced tribute video for Charlie Kirk, aired in episode.
 
 ---
 
-**N-1195** PragerU
+**N-1197** PragerU
 
 Node Type: Organization
 Organization Kind: media_org
@@ -480,7 +468,7 @@ Persistent thread on Charlie Kirk's pre-death financial concerns at TPUSA, ancho
 
 ---
 
-**N-1194** Federal Investigation Conduct Question
+**N-1199** Federal Investigation Conduct Question
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -490,7 +478,7 @@ Open question of why federal authorities did not contact the two rooftop-footage
 
 ---
 
-**N-1196** Hamptons Weekend Retreat
+**N-1200** Hamptons Weekend Retreat
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -500,7 +488,7 @@ August 2025 weekend retreat at which pressure was reportedly applied to Charlie 
 
 ---
 
-**N-1189** Doorbell Footage Completeness Question
+**N-1201** Doorbell Footage Completeness Question
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -512,7 +500,7 @@ Confidence: low
 
 ---
 
-**N-1197** Muzzle Flash Theory (Range Day Bro)
+**N-1202** Muzzle Flash Theory (Range Day Bro)
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -532,7 +520,7 @@ Range Day Bro's claim of a human-and-rifle-shaped outline in rooftop bushes; cor
 
 ---
 
-**N-1191** Bullet Casing Engraving Pattern
+**N-1204** Bullet Casing Engraving Pattern
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -542,7 +530,7 @@ Mentioned by commenters and host regarding markings on bullet casings at recent 
 
 ---
 
-**N-1206** Operation Mocking Pastor
+**N-1205** Operation Mocking Pastor
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -552,7 +540,7 @@ Host asserts this is 'a real thing' when discussing financially motivated pastor
 
 ---
 
-**N-1199** Amazon Pre-Event Book Listing (Sep 9)
+**N-1206** Amazon Pre-Event Book Listing (Sep 9)
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -572,7 +560,7 @@ NY region where the August 2025 weekend retreat was held; central to several cla
 
 ---
 
-**N-1128** Orem, Utah
+**N-1127** Orem, Utah
 
 Node Type: Place
 Place Kind: city
@@ -590,7 +578,7 @@ Claim Timestamp: 00:25:55
 Claim: An internal TPUSA memo signed by Charlie Kirk on September 2, 2025 announced Justin Strife's elevation to COO and tasked him with assembling a team to conduct a DOGE-style efficiency, cost, and culture audit across the organization.
 Transcript Snippet: In this role, I have empowered Justin… to engage in an organizationalwide Doge effort.
 Anchored Artifacts: A-1162.1
-Related Nodes: N-1, N-43, N-1000, N-1198, N-1192, N-2, N-86, N-67, N-167, N-42, N-168, N-75, N-169, N-170, N-91, N-171, N-174, N-175
+Related Nodes: N-1, N-43, N-1000, N-1198, N-1196, N-2, N-86, N-67, N-167, N-42, N-168, N-75, N-169, N-170, N-91, N-171, N-174, N-175
 Confidence: high
 Investigative Direction: Obtain the original signed memo directly from TPUSA or insider sources; verify Strife's actual scope of authority and the composition of the assembled team.
 
@@ -615,7 +603,7 @@ Claim Timestamp: 00:35:30
 Claim: Host argues that if the alleged muzzle flash originated inside the flag hall area, the relevant window does not open and broken glass should be visible.
 Transcript Snippet: those windows don't open. So if it's coming from inside… then we should see broken glass.
 Anchored Artifacts: A-1163.1, A-1166.1
-Related Nodes: N-172, N-1197
+Related Nodes: N-172, N-1202
 Confidence: medium
 Uncertainty: Window-doesn't-open claim made by host based on photos; not independently verified.
 Investigative Direction: Obtain architectural plans or on-site verification of the flag hall windows' operability and check for any bullet or glass damage.
@@ -652,7 +640,7 @@ Claim Timestamp: 00:17:13
 Claim: The individual who filmed the shooter running across the rooftop told the host that neither the feds nor local police ever contacted him before September 15, despite the footage having gone viral on day one.
 Transcript Snippet: He told me that neither the feds nor the local police had ever reached out to him. Never.
 Anchored Artifacts: A-1164.2
-Related Nodes: N-1194
+Related Nodes: N-1199
 Supports: C-1291
 Confidence: high
 Investigative Direction: Confirm filmer's identity independently, obtain date-stamped communications or call logs, and verify the September 15 federal contact.
@@ -665,7 +653,7 @@ Claim Timestamp: 00:18:43
 Claim: A second rooftop witness told the host he personally walked his footage into the Orem Police Department on day one, and that the feds did not reach out to him until September 15, after Governor Cox declared the suspect in custody.
 Transcript Snippet: He walked in and gave the footage to the Orum Police Department… the feds never reached out to him until the 15th.
 Anchored Artifacts: A-1164.3
-Related Nodes: N-1205, N-1194, N-85, N-1128
+Related Nodes: N-1195, N-1199, N-85, N-1127
 Supports: C-1290
 Confidence: high
 Investigative Direction: Cross-reference Orem PD intake records, witness identity, and federal contact logs dated September 15.
@@ -678,7 +666,7 @@ Claim Timestamp: 00:04:28
 Claim: Xavier Deruso states in his video that Charlie Kirk used the phrase 'moral blackmail' to describe the weekend pressure regarding his Israel/Netanyahu positioning.
 Transcript Snippet: Charlie spoke about feeling morally blackmailed.
 Anchored Artifacts: A-1165.1
-Related Nodes: N-166, N-1, N-1196, N-1092
+Related Nodes: N-166, N-1, N-1200, N-1092
 Confidence: medium
 Investigative Direction: Verify with primary recording or transcript of the actual weekend workshop; cross-check Deruso's characterization against other attendees.
 
@@ -690,7 +678,7 @@ Claim Timestamp: 00:08:37
 Claim: Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining Deruso's claim that real-time posting was avoided for safety reasons.
 Transcript Snippet: one of the influencers did post on August 6th that she was in the Hamptons.
 Anchored Artifacts: A-1165.2, A-1169.1
-Related Nodes: N-173, N-166, N-1196, N-1092
+Related Nodes: N-173, N-166, N-1200, N-1092
 Confidence: high
 Investigative Direction: Verify the Instagram post date, contents, and whether it was posted during or after the weekend.
 
@@ -702,7 +690,7 @@ Claim Timestamp: 00:39:05
 Claim: Host received a tip alleging that the publicly released doorbell footage of Tyler Robinson is incomplete and that additional footage shows him walking with an unidentified woman and changing clothes.
 Transcript Snippet: there was more footage which showed the person that they allege is Tyler Robinson walking with a woman… and that he changes clothes.
 Anchored Artifacts: A-1167.1
-Related Nodes: N-69, N-1189, N-165
+Related Nodes: N-69, N-1201, N-165
 Confidence: low
 Uncertainty: Tip-based; underlying footage not presented in this episode.
 Investigative Direction: Verify the tip with primary source; obtain the additional footage; identify the unnamed woman.
@@ -715,7 +703,7 @@ Claim Timestamp: 00:03:05
 Claim: Host states that Bill Aman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation or the offer to take TPUSA to the next level financially.
 Transcript Snippet: Bill Aman replies with an essay, college essay. 959 words to be precise was his response to me.
 Anchored Artifacts: A-1170.1
-Related Nodes: N-66, N-1196, N-7
+Related Nodes: N-66, N-1200, N-7
 Confidence: medium
 Uncertainty: Essay not displayed in this episode; word count and characterization are host assertions.
 Investigative Direction: Obtain the full 959-word essay, confirm word count, and analyze whether the host's characterization of omissions is accurate.

@@ -155,7 +155,7 @@
             "N-2",
             "N-75",
             "N-1188",
-            "N-1204",
+            "N-1189",
             "N-1183"
           ],
           "tags": [],
@@ -212,7 +212,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1201"
+            "N-1190"
           ],
           "tags": [],
           "video_timestamp": "00:34:37–00:35:17",
@@ -396,13 +396,17 @@
       "name": "Donald Trump",
       "type": "person",
       "description": "Target of July 13, 2024 Crooks attempt; referenced re Iran narrative.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1155.1"
+      ],
+      "related_claims": [
+        "C-1267"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -411,13 +415,17 @@
       "name": "Corey Comperatore",
       "type": "person",
       "description": "Firefighter killed shielding family at July 13, 2024 Trump rally.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1155.1"
+      ],
+      "related_claims": [
+        "C-1267"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -559,13 +567,17 @@
       "name": "Thomas Sowell",
       "type": "person",
       "description": "Author of 'Inside the American Education System' recommended by host.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1155.1"
+      ],
+      "related_claims": [
+        "C-1267"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -574,13 +586,17 @@
       "name": "Margarethe Schurz",
       "type": "person",
       "description": "Credited by host with establishing kindergarten in US (1848 communists).",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1155.1"
+      ],
+      "related_claims": [
+        "C-1267"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -589,13 +605,17 @@
       "name": "Sigmund Freud",
       "type": "person",
       "description": "Referenced in book-club discussion of psychoanalytic community origins.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1155.1"
+      ],
+      "related_claims": [
+        "C-1267"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -604,13 +624,17 @@
       "name": "C.S. Lewis",
       "type": "person",
       "description": "Referenced for concept of 'scientism'.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1155.1"
+      ],
+      "related_claims": [
+        "C-1267"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -660,13 +684,17 @@
       "name": "Skyler",
       "type": "person",
       "description": "Producer who corrects promo code on-air (Blackout15).",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1155.1"
+      ],
+      "related_claims": [
+        "C-1267"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -675,13 +703,17 @@
       "name": "Warwick Spiller",
       "type": "person",
       "description": "Commenter correcting Church name; explains beehive = work-for-Christ.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1155.1"
+      ],
+      "related_claims": [
+        "C-1267"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -709,13 +741,17 @@
       "name": "Reagan (commenter)",
       "type": "person",
       "description": "Former teacher; requests education-system reading recommendations.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1155.1"
+      ],
+      "related_claims": [
+        "C-1267"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -724,13 +760,17 @@
       "name": "Recovery Recon (commenter)",
       "type": "person",
       "description": "Raises FBI photo-release discrepancy between ICE Dallas and Charlie Kirk case.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1155.1"
+      ],
+      "related_claims": [
+        "C-1267"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -739,13 +779,17 @@
       "name": "Aravik (commenter)",
       "type": "person",
       "description": "Commenter praising host's investigation.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1155.1"
+      ],
+      "related_claims": [
+        "C-1267"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -754,13 +798,17 @@
       "name": "Lighthouse (commenter)",
       "type": "person",
       "description": "Commenter defending Erika Kirk's grief response.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1155.1"
+      ],
+      "related_claims": [
+        "C-1267"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -769,13 +817,17 @@
       "name": "Brooke Rice (commenter)",
       "type": "person",
       "description": "Commenter noting grandparents' 3-day engagement, 67-yr marriage.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1155.1"
+      ],
+      "related_claims": [
+        "C-1267"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Topic",
@@ -1031,8 +1083,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1138",
-      "ref": "N-1138",
+      "@id": "N-1137",
+      "ref": "N-1137",
       "name": "FBI",
       "type": "organization",
       "description": "Host alleges pressuring Utah to close Kirk case as lone-gunman.",
@@ -1084,8 +1136,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1204",
-      "ref": "N-1204",
+      "@id": "N-1189",
+      "ref": "N-1189",
       "name": "Etsy",
       "type": "organization",
       "description": "Host cites platform offering witch-hex services used by Jezebel.",
@@ -1120,8 +1172,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1201",
-      "ref": "N-1201",
+      "@id": "N-1190",
+      "ref": "N-1190",
       "name": "Riverbend Ranch",
       "type": "organization",
       "description": "Sponsor; produced audio tribute to Charlie Kirk.",
@@ -1138,8 +1190,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1193",
-      "ref": "N-1193",
+      "@id": "N-1191",
+      "ref": "N-1191",
       "name": "Utah",
       "type": "place",
       "description": "Site of Kirk assassination; the 'Beehive State'; hexagonal beehive flag.",
@@ -1154,8 +1206,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1190",
-      "ref": "N-1190",
+      "@id": "N-1192",
+      "ref": "N-1192",
       "name": "London / UK",
       "type": "place",
       "description": "Destination of Candace's premonition UK trip; meeting site for husband.",
@@ -1170,8 +1222,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1200",
-      "ref": "N-1200",
+      "@id": "N-1193",
+      "ref": "N-1193",
       "name": "Poland",
       "type": "place",
       "description": "Source of communist underground symbol found online by Candace.",
@@ -1186,8 +1238,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1202",
-      "ref": "N-1202",
+      "@id": "N-1194",
+      "ref": "N-1194",
       "name": "Germany (1848 reference)",
       "type": "place",
       "description": "Host cites 1848 communist uprising; kindergarten-establishment origin.",
@@ -1365,7 +1417,7 @@
         "N-2",
         "N-75",
         "N-1188",
-        "N-1204",
+        "N-1189",
         "N-1183"
       ],
       "tags": [],
@@ -1410,7 +1462,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-1201"
+        "N-1190"
       ],
       "tags": [],
       "claim_timestamp": "00:34:37",
@@ -1465,7 +1517,7 @@
       "claim": "Host claims a well-placed source says the FBI is pressuring Utah authorities to declare the Charlie Kirk case closed as a lone-gunman act.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1138",
+        "N-1137",
         "N-1175"
       ],
       "tags": [],
@@ -1517,7 +1569,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-69",
-        "N-1138",
+        "N-1137",
         "N-1077",
         "N-1176"
       ],

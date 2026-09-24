@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated": "2026-09-12T20:31:29Z",
+  "updated": "2026-09-24T21:05:44Z",
   "description": "Tombstone ledger: Person N-1..N-999 dense intro-order; Topic/Org/Place N-1000+ only.",
   "retired": {
     "legacy-N-10": {
@@ -832,6 +832,256 @@
       "survives_as": "N-58",
       "canonical_name": "Matt Walsh",
       "reason": "Main-tip person id N-53 \u2192 dense intro-order N-58 (PR34)."
+    },
+    "pr38-topic-N-1126": {
+      "survives_as": "N-1148",
+      "canonical_name": "Israel Influence on US Politics",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1126."
+    },
+    "pr38-topic-N-1127": {
+      "survives_as": "N-1126",
+      "canonical_name": "CIA",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1127."
+    },
+    "pr38-topic-N-1128": {
+      "survives_as": "N-1127",
+      "canonical_name": "CIA Operation Mockingbird",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1128."
+    },
+    "pr38-topic-N-1129": {
+      "survives_as": "N-1128",
+      "canonical_name": "Orem, Utah",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1129."
+    },
+    "pr38-topic-N-1130": {
+      "survives_as": "N-1129",
+      "canonical_name": "Gaza",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1130."
+    },
+    "pr38-topic-N-1131": {
+      "survives_as": "N-1130",
+      "canonical_name": "The Pentagon",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1131."
+    },
+    "pr38-topic-N-1132": {
+      "survives_as": "N-1131",
+      "canonical_name": "Caldera Engineering",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1132."
+    },
+    "pr38-topic-N-1133": {
+      "survives_as": "N-1132",
+      "canonical_name": "United States Senate",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1133."
+    },
+    "pr38-topic-N-1134": {
+      "survives_as": "N-1133",
+      "canonical_name": "CISA",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1134."
+    },
+    "pr38-topic-N-1135": {
+      "survives_as": "N-1134",
+      "canonical_name": "NSA",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1135."
+    },
+    "pr38-topic-N-1136": {
+      "survives_as": "N-1135",
+      "canonical_name": "FERC",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1136."
+    },
+    "pr38-topic-N-1137": {
+      "survives_as": "N-1136",
+      "canonical_name": "Daily Mail",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1137."
+    },
+    "pr38-topic-N-1138": {
+      "survives_as": "N-1137",
+      "canonical_name": "ABC",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1138."
+    },
+    "pr38-topic-N-1139": {
+      "survives_as": "N-1138",
+      "canonical_name": "FBI",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1139."
+    },
+    "pr38-topic-N-1140": {
+      "survives_as": "N-1139",
+      "canonical_name": "FCC",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1140."
+    },
+    "pr38-topic-N-1141": {
+      "survives_as": "N-1140",
+      "canonical_name": "APAC",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1141."
+    },
+    "pr38-topic-N-1142": {
+      "survives_as": "N-1141",
+      "canonical_name": "Provo, Utah",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1142."
+    },
+    "pr38-topic-N-1143": {
+      "survives_as": "N-1142",
+      "canonical_name": "White House",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1143."
+    },
+    "pr38-topic-N-1144": {
+      "survives_as": "N-1143",
+      "canonical_name": "Cameragate Investigation",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1144."
+    },
+    "pr38-topic-N-1145": {
+      "survives_as": "N-1144",
+      "canonical_name": "Robinson-Lance Text Chain Authenticity",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1145."
+    },
+    "pr38-topic-N-1146": {
+      "survives_as": "N-1145",
+      "canonical_name": "TPUSA Financial Apparatus Investigation",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1146."
+    },
+    "pr38-topic-N-1147": {
+      "survives_as": "N-1146",
+      "canonical_name": "Hate Speech Legislation Push",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1147."
+    },
+    "pr38-topic-N-1148": {
+      "survives_as": "N-1147",
+      "canonical_name": "Valve/Piping Industry Intelligence Connection",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1148."
+    },
+    "pr38-topic-N-1150": {
+      "survives_as": "N-1160",
+      "canonical_name": "Wirefy",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1150."
+    },
+    "pr38-topic-N-1151": {
+      "survives_as": "N-1150",
+      "canonical_name": "LDS Church",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1151."
+    },
+    "pr38-topic-N-1152": {
+      "survives_as": "N-1151",
+      "canonical_name": "FAA",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1152."
+    },
+    "pr38-topic-N-1153": {
+      "survives_as": "N-1152",
+      "canonical_name": "Exit Wound / Bullet Trajectory Discrepancy",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1153."
+    },
+    "pr38-topic-N-1154": {
+      "survives_as": "N-1153",
+      "canonical_name": "Transponder / Plane Anomaly Investigation",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1154."
+    },
+    "pr38-topic-N-1155": {
+      "survives_as": "N-1154",
+      "canonical_name": "UVU Underground Tunnel / Pipeline Investigation",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1155."
+    },
+    "pr38-topic-N-1156": {
+      "survives_as": "N-1155",
+      "canonical_name": "Candace Owens FBI/CIA Reporting Incident",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1156."
+    },
+    "pr38-topic-N-1157": {
+      "survives_as": "N-1156",
+      "canonical_name": "Charlie Kirk / Candace Alleged Falling Out",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1157."
+    },
+    "pr38-topic-N-1158": {
+      "survives_as": "N-1157",
+      "canonical_name": "Screwdriver Evidence Question",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1158."
+    },
+    "pr38-topic-N-1159": {
+      "survives_as": "N-1158",
+      "canonical_name": "Dr. Frank Turk Suspicion",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1159."
+    },
+    "pr38-topic-N-1160": {
+      "survives_as": "N-1159",
+      "canonical_name": "Brigham Young University",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1160."
+    },
+    "pr38-topic-N-1189": {
+      "survives_as": "N-1201",
+      "canonical_name": "Riverbend Ranch",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1189."
+    },
+    "pr38-topic-N-1190": {
+      "survives_as": "N-1192",
+      "canonical_name": "Department of Government Efficiency (DOGE)",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1190."
+    },
+    "pr38-topic-N-1191": {
+      "survives_as": "N-1204",
+      "canonical_name": "Etsy",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1191."
+    },
+    "pr38-topic-N-1192": {
+      "survives_as": "N-1196",
+      "canonical_name": "Hamptons Weekend Retreat",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1192."
+    },
+    "pr38-topic-N-1193": {
+      "survives_as": "N-1191",
+      "canonical_name": "Bullet Casing Engraving Pattern",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1193."
+    },
+    "pr38-topic-N-1194": {
+      "survives_as": "N-1199",
+      "canonical_name": "Amazon Pre-Event Book Listing (Sep 9)",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1194."
+    },
+    "pr38-topic-N-1195": {
+      "survives_as": "N-1197",
+      "canonical_name": "Muzzle Flash Theory (Range Day Bro)",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1195."
+    },
+    "pr38-topic-N-1196": {
+      "survives_as": "N-1200",
+      "canonical_name": "Poland",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1196."
+    },
+    "pr38-topic-N-1197": {
+      "survives_as": "N-1202",
+      "canonical_name": "Germany (1848 reference)",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1197."
+    },
+    "pr38-topic-N-1199": {
+      "survives_as": "N-1206",
+      "canonical_name": "Operation Mocking Pastor",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1199."
+    },
+    "pr38-topic-N-1200": {
+      "survives_as": "N-1193",
+      "canonical_name": "Utah",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1200."
+    },
+    "pr38-topic-N-1201": {
+      "survives_as": "N-1190",
+      "canonical_name": "London / UK",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1201."
+    },
+    "pr38-topic-N-1202": {
+      "survives_as": "N-1194",
+      "canonical_name": "Federal Investigation Conduct Question",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1202."
+    },
+    "pr38-topic-N-1204": {
+      "survives_as": "N-1189",
+      "canonical_name": "Doorbell Footage Completeness Question",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1204."
+    },
+    "pr38-topic-N-1205": {
+      "survives_as": "N-1195",
+      "canonical_name": "PragerU",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1205."
+    },
+    "pr38-topic-N-1206": {
+      "survives_as": "N-1205",
+      "canonical_name": "Orem Police Department",
+      "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1206."
     }
   }
 }

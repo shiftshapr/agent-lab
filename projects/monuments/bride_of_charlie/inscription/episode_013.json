@@ -140,7 +140,7 @@
             "N-112",
             "N-1",
             "N-1115",
-            "N-1127"
+            "N-1126"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -168,7 +168,7 @@
             "N-65",
             "N-1",
             "N-1121",
-            "N-1129"
+            "N-1128"
           ],
           "tags": [],
           "event_timestamp": "2025-09 (post-assassination)",
@@ -587,13 +587,17 @@
       "name": "Harley Pastnic",
       "type": "person",
       "description": "Canadian subject of prior Owens research whose family is in the piping/valve business — cited as a pattern match.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1111.1"
+      ],
+      "related_claims": [
+        "C-1186"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -602,13 +606,17 @@
       "name": "Joseph Goebbels",
       "type": "person",
       "description": "Historical Nazi propagandist quoted by Netanyahu (and re-cited by host) re 'the bigger the lie'.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1111.1"
+      ],
+      "related_claims": [
+        "C-1186"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -672,13 +680,17 @@
       "name": "Brigitte Macron",
       "type": "person",
       "description": "French First Lady reportedly suing Owens; host disputes the legal posture.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1111.1"
+      ],
+      "related_claims": [
+        "C-1186"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Topic",
@@ -1020,8 +1032,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1127",
-      "ref": "N-1127",
+      "@id": "N-1126",
+      "ref": "N-1126",
       "name": "CIA Operation Mockingbird",
       "type": "organization",
       "description": "Historical CIA program referenced by host to explain mainstream-media alignment.",
@@ -1036,8 +1048,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1128",
-      "ref": "N-1128",
+      "@id": "N-1127",
+      "ref": "N-1127",
       "name": "Orem, Utah",
       "type": "place",
       "description": "City hosting UVU and the Steele-family cluster; site of the alleged DQ photo.",
@@ -1080,8 +1092,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1129",
-      "ref": "N-1129",
+      "@id": "N-1128",
+      "ref": "N-1128",
       "name": "Gaza",
       "type": "place",
       "description": "Referenced by host as the empirical refutation of Netanyahu's 'free country' framing.",
@@ -1096,8 +1108,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-1130",
-      "ref": "N-1130",
+      "@id": "N-1129",
+      "ref": "N-1129",
       "name": "The Pentagon",
       "type": "place",
       "description": "Host analogizes the Kirk footage sweep to post-9/11 Pentagon footage controls.",
@@ -1146,7 +1158,7 @@
       "related_nodes": [
         "N-69",
         "N-1116",
-        "N-1128",
+        "N-1127",
         "N-1077",
         "N-115",
         "N-116",
@@ -1211,7 +1223,7 @@
         "N-113",
         "N-114",
         "N-1076",
-        "N-1128",
+        "N-1127",
         "N-1115",
         "N-1117"
       ],
@@ -1403,7 +1415,7 @@
       "related_nodes": [
         "N-69",
         "N-1077",
-        "N-1128",
+        "N-1127",
         "N-1118"
       ],
       "tags": [],
@@ -1477,7 +1489,7 @@
       "related_nodes": [
         "N-7",
         "N-1120",
-        "N-1130"
+        "N-1129"
       ],
       "tags": [],
       "claim_timestamp": "00:04:37",
@@ -1498,7 +1510,7 @@
         "N-114",
         "N-1115",
         "N-1117",
-        "N-1128"
+        "N-1127"
       ],
       "tags": [],
       "claim_timestamp": "00:18:13",

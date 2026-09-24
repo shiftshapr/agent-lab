@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1104, A-1105, A-1106, A-1107, A-1108, A-1109, A-1110
   - Claim Range: C-1175-C-1185
-  - New Nodes Introduced: N-1, N-2, N-7, N-45, N-50, N-61, N-64, N-66, N-67, N-68, N-69, N-70, N-73, N-90, N-92, N-93, N-94, N-95, N-1099, N-1100, N-1101, N-1102, N-1103, N-1104, N-1105, N-1106, N-1107, N-1108
+  - New Nodes Introduced: N-1, N-2, N-7, N-45, N-50, N-61, N-64, N-66, N-67, N-68, N-69, N-70, N-73, N-90, N-92, N-93, N-94, N-95, N-1099, N-1100, N-1101, N-1102, N-1103, N-1104, N-1105, N-1106, N-1107, N-1108, N-1109, N-1110, N-1111, N-1112
 
 ## 2. Executive Summary
 
@@ -252,7 +252,7 @@ Host; presenter of analysis and source of alleged insider claims.
 Node Type: Person
 Charlie's widow; referenced via 'evildoers' grieving-widow meme.
 
-*Related: *
+*Related: A-1104.1, A-1104.2, C-1175*
 
 ---
 
@@ -324,9 +324,8 @@ Tweeted that subject in custody (George Zinn) was released; referenced for timel
 Node Type: Person
 Production staff member operating timeline/graphics during episode.
 
-*Related: *
+*Related: A-1104.1, A-1104.2, C-1175*
 
-*Related: C-1175*
 
 
 ---
@@ -372,9 +371,8 @@ Challenged by Candace to release his message threads with Charlie.
 Node Type: Person
 Commentator referenced as part of broader pushback on BB Netany/Yahoo narrative.
 
-*Related: *
+*Related: A-1104.1, A-1104.2, C-1175*
 
-*Related: C-1175*
 
 
 ---

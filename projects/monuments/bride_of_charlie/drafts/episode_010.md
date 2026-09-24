@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1081, A-1082, A-1083, A-1084, A-1085, A-1086, A-1087, A-1088, A-1089, A-1090, A-1091, A-1092, A-1093, A-1094
   - Claim Range: C-1123-C-1143
-  - New Nodes Introduced: N-1, N-2, N-7, N-35, N-50, N-64, N-65, N-66, N-67, N-68, N-69, N-70, N-71, N-72, N-73, N-74, N-75, N-76, N-77, N-78, N-79, N-80, N-81, N-1000, N-1070, N-1071, N-1076, N-1077, N-1078, N-1079, N-1080, N-1081, N-1082, N-1083, N-1084, N-1085, N-1086, N-1087, N-1088, N-1089, N-1090
+  - New Nodes Introduced: N-1, N-2, N-7, N-35, N-50, N-64, N-65, N-66, N-67, N-68, N-69, N-70, N-71, N-72, N-73, N-74, N-75, N-76, N-77, N-78, N-79, N-80, N-81, N-1000, N-1070, N-1071, N-1076, N-1077, N-1078, N-1079, N-1080, N-1081, N-1082, N-1083, N-1084, N-1085, N-1086, N-1087, N-1088, N-1089, N-1090, N-1091, N-1092, N-1093
 
 ## 2. Executive Summary
 
@@ -336,11 +336,10 @@ Confidence: high
 Node Type: Person
 Person briefly arrested and labeled a 'decoy' by host; allegedly signaled he shot Charlie Kirk.
 
-*Related: *
+*Related: A-1081.1, C-1123*
 
 Confidence: medium
 
-*Related: C-1123*
 
 
 ---
@@ -372,11 +371,10 @@ Confidence: high
 Node Type: Person
 Reporter whose reporting on Robinson's acquaintances is referenced by Governor Cox.
 
-*Related: A-1089.3*
+*Related: A-1081.1, A-1089.3, C-1123*
 
 Confidence: medium
 
-*Related: C-1123*
 
 
 ---
@@ -442,11 +440,10 @@ Confidence: high
 Node Type: Person
 President whose account tweeted a photo of Charlie Kirk with US and Israeli flags.
 
-*Related: *
+*Related: A-1081.1, C-1123*
 
 Confidence: high
 
-*Related: C-1123*
 
 
 ---
@@ -456,12 +453,11 @@ Confidence: high
 Node Type: Person
 Subject of host reading recommendations; framed by host as father of modern gaslighting rather than modern psychology.
 
-*Related: *
+*Related: A-1081.1, C-1123*
 
 Confidence: high
 Uncertainty: Transcript spells 'Sigman'; clearly Sigmund Freud.
 
-*Related: C-1123*
 
 
 ---
@@ -471,11 +467,10 @@ Uncertainty: Transcript spells 'Sigman'; clearly Sigmund Freud.
 Node Type: Person
 Author recommended by host on Freud and Jewish mystical tradition history.
 
-*Related: *
+*Related: A-1081.1, C-1123*
 
 Confidence: medium
 
-*Related: C-1123*
 
 
 ---
@@ -485,12 +480,11 @@ Confidence: medium
 Node Type: Person
 Tel Aviv University historian; author of 'The Invention of the Jewish People' recommended by host.
 
-*Related: *
+*Related: A-1081.1, C-1123*
 
 Confidence: high
 Uncertainty: Transcript spells 'Schlommo'; canonical Shlomo Sand.
 
-*Related: C-1123*
 
 
 ---
@@ -500,12 +494,11 @@ Uncertainty: Transcript spells 'Schlommo'; canonical Shlomo Sand.
 Node Type: Person
 Author referenced by host as having traced Ashkenazi origins to the Khazars and won awards for it.
 
-*Related: *
+*Related: A-1081.1, C-1123*
 
 Confidence: low
 Uncertainty: Transcript 'Abraham Pollock'; canonical name uncertain (possibly Arthur Koestler 'The Thirteenth Tribe' or similar).
 
-*Related: C-1123*
 
 
 ---

@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1111, A-1112, A-1113, A-1114, A-1115, A-1116, A-1117, A-1118, A-1119
   - Claim Range: C-1186-C-1204
-  - New Nodes Introduced: N-1, N-2, N-7, N-50, N-63, N-64, N-67, N-68, N-70, N-74, N-83, N-96, N-97, N-98, N-99, N-100, N-101, N-1000, N-1071, N-1076, N-1077, N-1088, N-1089, N-1109, N-1110, N-1111, N-1112, N-1113, N-1114, N-1115, N-1116, N-1117, N-1118, N-1119, N-1120, N-1121, N-1122, N-1123, N-1124
+  - New Nodes Introduced: N-1, N-2, N-7, N-50, N-63, N-64, N-67, N-68, N-70, N-74, N-83, N-96, N-97, N-98, N-99, N-100, N-101, N-1000, N-1071, N-1076, N-1077, N-1088, N-1089, N-1109, N-1110, N-1111, N-1112, N-1113, N-1114, N-1115, N-1116, N-1117, N-1118, N-1119, N-1120, N-1121, N-1122, N-1123, N-1124, N-1125, N-1126, N-1127, N-1128, N-1129
 
 ## 2. Executive Summary
 
@@ -65,7 +65,7 @@ Confidence: high
 **A-1114.1** Good Morning America segment the morning after the Kirk shooting featuring Tiffany Barker, her niece L Steel, and Mia Grant describing their eyewitness account from the UVU event.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:23:50–00:27:25
-*Related: C-1191, N-110, N-111, N-112, N-1, N-1115, N-1127*
+*Related: C-1191, N-110, N-111, N-112, N-1, N-1115, N-1126*
 Transcript Snippet: We're joined now by Tiffany Barker and her nieces L Steel and Mia Grant who were all in the audience yesterday afternoon.
 Confidence: high
 
@@ -76,7 +76,7 @@ Confidence: high
 **A-1115.1** Video statement by Israeli PM Benjamin Netanyahu denying Israeli involvement in Charlie Kirk's murder and quoting a letter he says Kirk sent him about Christianity and Israel.
 Event Timestamp: 2025-09 (post-assassination)
 Video Timestamp: 00:40:35–00:42:35
-*Related: C-1192, N-65, N-1, N-1121, N-1129*
+*Related: C-1192, N-65, N-1, N-1121, N-1128*
 Transcript Snippet: while somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder.
 Confidence: high
 
@@ -260,9 +260,8 @@ Wife of Samuel Steele per host; co-owner of the doorbell-camera house.
 Node Type: Person
 Canadian subject of prior Owens research whose family is in the piping/valve business — cited as a pattern match.
 
-*Related: *
+*Related: A-1111.1, C-1186*
 
-*Related: C-1186*
 
 
 ---
@@ -272,9 +271,8 @@ Canadian subject of prior Owens research whose family is in the piping/valve bus
 Node Type: Person
 Historical Nazi propagandist quoted by Netanyahu (and re-cited by host) re 'the bigger the lie'.
 
-*Related: *
+*Related: A-1111.1, C-1186*
 
-*Related: C-1186*
 
 
 ---
@@ -311,9 +309,8 @@ Referenced by Bowling as 'in the room' at a Hamptons retreat; Owens disputes thi
 Node Type: Person
 French First Lady reportedly suing Owens; host disputes the legal posture.
 
-*Related: *
+*Related: A-1111.1, C-1186*
 
-*Related: C-1186*
 
 
 ---
@@ -482,7 +479,7 @@ Aired the Tiffany Barker / L Steel / Mia Grant interview the morning after the s
 
 ---
 
-**N-1127** CIA Operation Mockingbird
+**N-1126** CIA Operation Mockingbird
 
 Node Type: Organization
 Organization Kind: program_or_initiative
@@ -492,7 +489,7 @@ Historical CIA program referenced by host to explain mainstream-media alignment.
 
 ---
 
-**N-1128** Orem, Utah
+**N-1127** Orem, Utah
 
 Node Type: Place
 Place Kind: city
@@ -512,7 +509,7 @@ State actor at the center of Netanyahu's denial and Owens's media-control framin
 
 ---
 
-**N-1129** Gaza
+**N-1128** Gaza
 
 Node Type: Place
 Place Kind: region
@@ -522,7 +519,7 @@ Referenced by host as the empirical refutation of Netanyahu's 'free country' fra
 
 ---
 
-**N-1130** The Pentagon
+**N-1129** The Pentagon
 
 Node Type: Place
 Place Kind: venue
@@ -550,7 +547,7 @@ Claim Timestamp: 00:06:54
 Claim: A photograph allegedly showing Tyler Robinson at a Dairy Queen roughly 15–17 minutes from UVU was circulated by locals and depicts him wearing jeans and a maroon shirt.
 Transcript Snippet: a very clear image of Tyler Robinson allegedly taken… allegedly taken at 6:38 p.m. at a nearby Dairy Queen.
 Anchored Artifacts: A-1111.1
-Related Nodes: N-69, N-1116, N-1128, N-1077, N-115, N-116, N-117
+Related Nodes: N-69, N-1116, N-1127, N-1077, N-115, N-116, N-117
 Confidence: medium
 Investigative Direction: Obtain original file with EXIF; cross-check Dairy Queen receipts, employee testimony, and surveillance video for the vehicle.
 
@@ -588,7 +585,7 @@ Claim Timestamp: 00:13:13
 Claim: TMZ first aired doorbell-camera footage of a person running on a residential street near UVU on September 10, 2025, attributed to Irwin Steel's home.
 Transcript Snippet: TMZ is the first on September 10th. That tells us that there is doorbell cam footage.
 Anchored Artifacts: A-1112.1, A-1112.2
-Related Nodes: N-108, N-113, N-114, N-1076, N-1128, N-1115, N-1117
+Related Nodes: N-108, N-113, N-114, N-1076, N-1127, N-1115, N-1117
 Confidence: high
 Investigative Direction: Verify TMZ publication timestamp; trace the footage upload chain back to either the homeowner or a federal intermediary.
 
@@ -699,7 +696,7 @@ Claim Timestamp: 00:30:30
 Claim: Locals theorise that a vacant house next door to the gun-recovery site is owned by Utah Valley University and served as the real shooter's safe house, with Robinson acting as a decoy.
 Transcript Snippet: the house right next door to where the gun was found is a mysteriously vacant vacant home… owned by the university itself.
 Anchored Artifacts: 
-Related Nodes: N-69, N-1077, N-1128, N-1118
+Related Nodes: N-69, N-1077, N-1127, N-1118
 Confidence: low
 Investigative Direction: Pull county property records for the parcel; confirm UVU ownership and occupancy status.
 
@@ -748,7 +745,7 @@ Claim Timestamp: 00:04:37
 Claim: Locals emailed the host stating that any footage they possessed was sent to federal authorities who then pressured them not to release it publicly.
 Transcript Snippet: the feds told them that they were not allowed to share it at all.
 Anchored Artifacts: 
-Related Nodes: N-7, N-1120, N-1130
+Related Nodes: N-7, N-1120, N-1129
 Confidence: medium
 Investigative Direction: FOIA requests to federal agencies; canvass Orem residents for corroboration.
 
@@ -760,7 +757,7 @@ Claim Timestamp: 00:18:13
 Claim: Property records show that the house whose footage appeared on TMZ is owned by Samuel Steele, his wife Carrie, and Irwin Steel — not Irwin Steel alone.
 Transcript Snippet: he Samuel and his wife Carrie are the ones that own the house that gave the footage, not Irwin.
 Anchored Artifacts: 
-Related Nodes: N-108, N-113, N-114, N-1115, N-1117, N-1128
+Related Nodes: N-108, N-113, N-114, N-1115, N-1117, N-1127
 Confidence: medium
 Investigative Direction: Pull county recorder data for the parcel to confirm ownership chain.
 

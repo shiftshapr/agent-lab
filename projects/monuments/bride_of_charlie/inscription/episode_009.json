@@ -322,13 +322,19 @@
       "name": "Rush Limbaugh",
       "type": "person",
       "description": "Conservative radio host referenced as Charlie Kirk's admired figure and aspirational model for a national show.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1078.1",
+        "A-1080.1"
+      ],
+      "related_claims": [
+        "C-1115"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 3,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "high"
     },
     {
       "@type": "Person",
@@ -337,13 +343,19 @@
       "name": "Dave Rubin",
       "type": "person",
       "description": "Joined an early TPUSA event with Candace and Charlie when the original headliner dropped out.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1078.1",
+        "A-1080.1"
+      ],
+      "related_claims": [
+        "C-1115"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 3,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "high"
     },
     {
       "@type": "Person",
@@ -352,13 +364,19 @@
       "name": "Donald Trump Jr. (Don Jr.)",
       "type": "person",
       "description": "Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1078.1",
+        "A-1080.1"
+      ],
+      "related_claims": [
+        "C-1115"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 3,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "high"
     },
     {
       "@type": "Person",
@@ -367,13 +385,19 @@
       "name": "Eric Trump",
       "type": "person",
       "description": "Co-gifted Charlie Kirk a suit-fitting gift certificate with Don Jr.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1078.1",
+        "A-1080.1"
+      ],
+      "related_claims": [
+        "C-1115"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 3,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "high"
     },
     {
       "@type": "Person",
@@ -405,13 +429,19 @@
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Turning Point figure who stood with Charlie Kirk during the 'him too' press incident.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1078.1",
+        "A-1080.1"
+      ],
+      "related_claims": [
+        "C-1115"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 3,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "high"
     },
     {
       "@type": "Person",
@@ -420,13 +450,19 @@
       "name": "Sarah (Charlie's assistant)",
       "type": "person",
       "description": "Charlie's assistant at Turning Point during the #MeToo press moment.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1078.1",
+        "A-1080.1"
+      ],
+      "related_claims": [
+        "C-1115"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 3,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "high",
       "uncertainty_note": "Last name not given in transcript."
     },
     {

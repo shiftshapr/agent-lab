@@ -123,7 +123,7 @@
           ],
           "related_nodes": [
             "N-102",
-            "N-1138"
+            "N-1137"
           ],
           "tags": [],
           "video_timestamp": "00:17:14–00:19:21",
@@ -148,8 +148,8 @@
           ],
           "related_nodes": [
             "N-129",
-            "N-1138",
-            "N-1151"
+            "N-1137",
+            "N-1150"
           ],
           "tags": [],
           "video_timestamp": "00:19:31–00:20:07",
@@ -174,7 +174,7 @@
           ],
           "related_nodes": [
             "N-1077",
-            "N-1152"
+            "N-1151"
           ],
           "tags": [],
           "video_timestamp": "00:23:34–00:23:48",
@@ -191,7 +191,7 @@
           ],
           "related_nodes": [
             "N-1077",
-            "N-1152"
+            "N-1151"
           ],
           "tags": [],
           "video_timestamp": "00:24:05–00:24:19",
@@ -230,7 +230,7 @@
           ],
           "related_nodes": [
             "N-91",
-            "N-1126"
+            "N-1148"
           ],
           "tags": [],
           "video_timestamp": "00:31:11–00:32:36",
@@ -634,13 +634,18 @@
       "name": "George Zinn",
       "type": "person",
       "description": "Individual located in crowd whose path host found suspicious.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1134.1",
+        "A-1134.2"
+      ],
+      "related_claims": [
+        "C-1228"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 2,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -649,13 +654,18 @@
       "name": "Jack Posobiec",
       "type": "person",
       "description": "Commentator and former Navy intelligence officer; defended by host.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1134.1",
+        "A-1134.2"
+      ],
+      "related_claims": [
+        "C-1228"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 2,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -722,13 +732,18 @@
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Daily Wire figure referenced re firing Candace.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1134.1",
+        "A-1134.2"
+      ],
+      "related_claims": [
+        "C-1228"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 2,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -737,13 +752,18 @@
       "name": "Bill Ackman",
       "type": "person",
       "description": "Referenced as part of Hamptons group also with Awesome Jew.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1134.1",
+        "A-1134.2"
+      ],
+      "related_claims": [
+        "C-1228"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 2,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -752,13 +772,18 @@
       "name": "Bob Shaman",
       "type": "person",
       "description": "Donor alleged to have withdrawn millions from TPUSA.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1134.1",
+        "A-1134.2"
+      ],
+      "related_claims": [
+        "C-1228"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 2,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -767,18 +792,22 @@
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Israeli PM alleged to have offered Charlie Kirk funding.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1143.1"
+      ],
+      "related_claims": [
+        "C-1240"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Organization",
-      "@id": "N-1138",
-      "ref": "N-1138",
+      "@id": "N-1137",
+      "ref": "N-1137",
       "name": "FBI",
       "type": "organization",
       "description": "Federal Bureau of Investigation; issued investigation statement.",
@@ -799,8 +828,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1126",
-      "ref": "N-1126",
+      "@id": "N-1148",
+      "ref": "N-1148",
       "name": "CIA",
       "type": "organization",
       "description": "Central Intelligence Agency; subject of merch complaint.",
@@ -883,8 +912,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1151",
-      "ref": "N-1151",
+      "@id": "N-1150",
+      "ref": "N-1150",
       "name": "FAA",
       "type": "organization",
       "description": "Federal Aviation Administration; consulted re transponder claim.",
@@ -903,8 +932,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1152",
-      "ref": "N-1152",
+      "@id": "N-1151",
+      "ref": "N-1151",
       "name": "Exit Wound / Bullet Trajectory Discrepancy",
       "type": "topic",
       "description": "Mismatch between expected high-velocity bullet behavior and reported no-exit-wound outcome.",
@@ -927,8 +956,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1153",
-      "ref": "N-1153",
+      "@id": "N-1152",
+      "ref": "N-1152",
       "name": "Transponder / Plane Anomaly Investigation",
       "type": "topic",
       "description": "Dispute between FBI (lost signal) and plane owner (ATC-permitted shutdown).",
@@ -948,8 +977,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1154",
-      "ref": "N-1154",
+      "@id": "N-1153",
+      "ref": "N-1153",
       "name": "UVU Underground Tunnel / Pipeline Investigation",
       "type": "topic",
       "description": "Hypothesis that underground access near Charlie's seat could explain no-exit-wound outcome.",
@@ -970,8 +999,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1155",
-      "ref": "N-1155",
+      "@id": "N-1154",
+      "ref": "N-1154",
       "name": "Candace Owens FBI/CIA Reporting Incident",
       "type": "topic",
       "description": "Allegation that Candace was reported to FBI and CIA over merch and rhetoric.",
@@ -990,8 +1019,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1156",
-      "ref": "N-1156",
+      "@id": "N-1155",
+      "ref": "N-1155",
       "name": "Charlie Kirk / Candace Alleged Falling Out",
       "type": "topic",
       "description": "Disputed narrative that Charlie and Candace had a breakup; host denies.",
@@ -1012,8 +1041,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1157",
-      "ref": "N-1157",
+      "@id": "N-1156",
+      "ref": "N-1156",
       "name": "Screwdriver Evidence Question",
       "type": "topic",
       "description": "Viewer claim that screwdriver reportedly found on roof doesn't fit the rifle.",
@@ -1032,8 +1061,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-1158",
-      "ref": "N-1158",
+      "@id": "N-1157",
+      "ref": "N-1157",
       "name": "Dr. Frank Turk Suspicion",
       "type": "topic",
       "description": "Viewer-raised suspicion about Dr. Frank Turk's memorial speech and possible guilt.",
@@ -1088,7 +1117,7 @@
       "related_nodes": [
         "N-42",
         "N-1000",
-        "N-1152"
+        "N-1151"
       ],
       "tags": [],
       "claim_timestamp": "00:09:45",
@@ -1106,7 +1135,7 @@
       ],
       "related_nodes": [
         "N-42",
-        "N-1152"
+        "N-1151"
       ],
       "tags": [],
       "claim_timestamp": "00:10:25",
@@ -1124,7 +1153,7 @@
       ],
       "related_nodes": [
         "N-128",
-        "N-1152"
+        "N-1151"
       ],
       "tags": [],
       "claim_timestamp": "00:14:32",
@@ -1142,7 +1171,7 @@
       ],
       "related_nodes": [
         "N-102",
-        "N-1138"
+        "N-1137"
       ],
       "tags": [],
       "claim_timestamp": "00:17:14",
@@ -1162,9 +1191,9 @@
       "related_nodes": [
         "N-102",
         "N-129",
-        "N-1138",
-        "N-1151",
-        "N-1153"
+        "N-1137",
+        "N-1150",
+        "N-1152"
       ],
       "tags": [],
       "claim_timestamp": "00:18:55",
@@ -1185,7 +1214,7 @@
       ],
       "related_nodes": [
         "N-1077",
-        "N-1154"
+        "N-1153"
       ],
       "tags": [],
       "claim_timestamp": "00:23:34",
@@ -1221,8 +1250,8 @@
       "related_nodes": [
         "N-91",
         "N-7",
-        "N-1126",
-        "N-1155"
+        "N-1148",
+        "N-1154"
       ],
       "tags": [],
       "claim_timestamp": "00:31:11",
@@ -1243,7 +1272,7 @@
         "N-132",
         "N-1",
         "N-7",
-        "N-1156"
+        "N-1155"
       ],
       "tags": [],
       "claim_timestamp": "00:34:44",
@@ -1263,7 +1292,7 @@
       "related_nodes": [
         "N-1",
         "N-7",
-        "N-1156"
+        "N-1155"
       ],
       "tags": [],
       "claim_timestamp": "00:36:37",
@@ -1355,7 +1384,7 @@
       ],
       "related_nodes": [
         "N-69",
-        "N-1157"
+        "N-1156"
       ],
       "tags": [],
       "claim_timestamp": "01:07:06",
@@ -1373,7 +1402,7 @@
       ],
       "related_nodes": [
         "N-131",
-        "N-1158"
+        "N-1157"
       ],
       "tags": [],
       "claim_timestamp": "01:07:52",

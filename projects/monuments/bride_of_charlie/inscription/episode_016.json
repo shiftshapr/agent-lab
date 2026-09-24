@@ -162,7 +162,7 @@
             "C-1251"
           ],
           "related_nodes": [
-            "N-1160"
+            "N-1159"
           ],
           "tags": [],
           "video_timestamp": "00:19:55–00:20:23",
@@ -629,14 +629,17 @@
       "type": "person",
       "description": "Production team member referenced while pulling the timeline graphic on screen.",
       "related_artifacts": [
+        "A-1146.1",
         "A-1148.3"
       ],
-      "related_claims": [],
+      "related_claims": [
+        "C-1245"
+      ],
       "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
+      "evidence_count": 2,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -663,14 +666,17 @@
       "type": "person",
       "description": "Catholic debate partner of Charlie Kirk referenced by Kovette.",
       "related_artifacts": [
+        "A-1146.1",
         "A-1151.1"
       ],
-      "related_claims": [],
+      "related_claims": [
+        "C-1245"
+      ],
       "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
+      "evidence_count": 2,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -698,13 +704,17 @@
       "name": "John Heinchell",
       "type": "person",
       "description": "Commenter noting Charlie's anti-genocide/Netanyahu stance had shifted pre-assassination.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1146.1"
+      ],
+      "related_claims": [
+        "C-1245"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -713,13 +723,17 @@
       "name": "Jenna V",
       "type": "person",
       "description": "Commenter thanking host and recalling mutual support with Charlie.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1146.1"
+      ],
+      "related_claims": [
+        "C-1245"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -728,13 +742,17 @@
       "name": "Tempes",
       "type": "person",
       "description": "Commenter on Charlie's spiritual status.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1146.1"
+      ],
+      "related_claims": [
+        "C-1245"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -743,13 +761,17 @@
       "name": "Carl",
       "type": "person",
       "description": "Commenter thanking host for questioning the establishment.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1146.1"
+      ],
+      "related_claims": [
+        "C-1245"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -758,13 +780,17 @@
       "name": "Mary Kelly",
       "type": "person",
       "description": "Commenter praying via Flame of Love rosaries.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1146.1"
+      ],
+      "related_claims": [
+        "C-1245"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -807,13 +833,17 @@
       "name": "Milana",
       "type": "person",
       "description": "Commenter asking about homeschooling curriculum.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1146.1"
+      ],
+      "related_claims": [
+        "C-1245"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -822,13 +852,17 @@
       "name": "Lover of Light",
       "type": "person",
       "description": "Commenter asking host to share personal stories.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1154.1"
+      ],
+      "related_claims": [
+        "C-1254"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -937,8 +971,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1159",
-      "ref": "N-1159",
+      "@id": "N-1158",
+      "ref": "N-1158",
       "name": "Brigham Young University",
       "type": "organization",
       "description": "Identified as the school attended by one of the two roof-videographer companions.",
@@ -957,8 +991,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1160",
-      "ref": "N-1160",
+      "@id": "N-1159",
+      "ref": "N-1159",
       "name": "Wirefy",
       "type": "organization",
       "description": "Tour sponsor whose branding was the backdrop and whose employee appeared post-shot.",
@@ -997,8 +1031,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1150",
-      "ref": "N-1150",
+      "@id": "N-1160",
+      "ref": "N-1160",
       "name": "LDS Church",
       "type": "organization",
       "description": "Family faith tradition tied to the Barkers per Reddit-sleuth research.",
@@ -1017,8 +1051,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-1138",
-      "ref": "N-1138",
+      "@id": "N-1137",
+      "ref": "N-1137",
       "name": "FBI",
       "type": "organization",
       "description": "Agency whose public shooter description is contradicted by the rooftop eyewitness.",
@@ -1339,7 +1373,7 @@
         "N-110",
         "N-92",
         "N-1125",
-        "N-1150",
+        "N-1160",
         "N-1161",
         "N-137",
         "N-138",
@@ -1470,7 +1504,7 @@
         "A-1149.1"
       ],
       "related_nodes": [
-        "N-1160",
+        "N-1159",
         "N-1167"
       ],
       "tags": [],
@@ -1491,7 +1525,7 @@
       "related_nodes": [
         "N-136",
         "N-1077",
-        "N-1159",
+        "N-1158",
         "N-1164"
       ],
       "tags": [],
@@ -1511,7 +1545,7 @@
       ],
       "related_nodes": [
         "N-69",
-        "N-1138",
+        "N-1137",
         "N-1165"
       ],
       "tags": [],
@@ -1534,7 +1568,7 @@
       ],
       "related_nodes": [
         "N-69",
-        "N-1138",
+        "N-1137",
         "N-1165",
         "N-147"
       ],
@@ -1699,7 +1733,7 @@
       "related_nodes": [
         "N-102",
         "N-69",
-        "N-1138",
+        "N-1137",
         "N-1165"
       ],
       "tags": [],
@@ -1735,7 +1769,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-145",
-        "N-1138",
+        "N-1137",
         "N-1174"
       ],
       "tags": [],

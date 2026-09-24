@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1146, A-1147, A-1148, A-1149, A-1150, A-1151, A-1152, A-1153, A-1154
   - Claim Range: C-1245-C-1266
-  - New Nodes Introduced: N-1, N-2, N-7, N-42, N-50, N-61, N-64, N-65, N-67, N-68, N-69, N-70, N-77, N-83, N-86, N-99, N-104, N-115, N-116, N-117, N-118, N-119, N-120, N-121, N-122, N-123, N-124, N-1000, N-1076, N-1077, N-1121, N-1124, N-1126, N-1129, N-1140, N-1145, N-1146, N-1147, N-1148, N-1149, N-1150, N-1151, N-1152, N-1153, N-1154, N-1155, N-1156
+  - New Nodes Introduced: N-1, N-2, N-7, N-42, N-50, N-61, N-64, N-65, N-67, N-68, N-69, N-70, N-77, N-83, N-86, N-99, N-104, N-115, N-116, N-117, N-118, N-119, N-120, N-121, N-122, N-123, N-124, N-1000, N-1076, N-1077, N-1121, N-1124, N-1127, N-1138, N-1143, N-1144, N-1145, N-1146, N-1147, N-1149, N-1150, N-1151, N-1152, N-1153, N-1154, N-1158, N-1159, N-1160, N-1161, N-1162, N-1163, N-1164, N-1165, N-1166, N-1167, N-1168, N-1169, N-1170, N-1171, N-1172, N-1173, N-1174
 
 ## 2. Executive Summary
 
@@ -74,7 +74,7 @@ Confidence: high
 
 **A-1149.1** Post-shot footage showing a blue-shirted Wirefy-branded individual taking out his phone/texting near Charlie.
 Video Timestamp: 00:19:55–00:20:23
-*Related: C-1251, N-1160*
+*Related: C-1251, N-1159*
 Transcript Snippet: he's wearing a shirt that says Wirefi... sends a text, takes a photo
 Confidence: high
 
@@ -263,9 +263,8 @@ FBI-named suspect whose description (jeans, flag shirt) is contested by the roof
 Node Type: Person
 Production team member referenced while pulling the timeline graphic on screen.
 
-*Related: A-1148.3*
+*Related: A-1146.1, A-1148.3, C-1245*
 
-*Related: C-1245*
 
 
 ---
@@ -284,9 +283,8 @@ Referenced via prior tweet suggesting more parties involved than Robinson alone.
 Node Type: Person
 Catholic debate partner of Charlie Kirk referenced by Kovette.
 
-*Related: A-1151.1*
+*Related: A-1146.1, A-1151.1, C-1245*
 
-*Related: C-1245*
 
 
 ---
@@ -305,9 +303,8 @@ President; audio statement on MMR separation and Hepatitis B delay played in the
 Node Type: Person
 Commenter noting Charlie's anti-genocide/Netanyahu stance had shifted pre-assassination.
 
-*Related: *
+*Related: A-1146.1, C-1245*
 
-*Related: C-1245*
 
 
 ---
@@ -317,9 +314,8 @@ Commenter noting Charlie's anti-genocide/Netanyahu stance had shifted pre-assass
 Node Type: Person
 Commenter thanking host and recalling mutual support with Charlie.
 
-*Related: *
+*Related: A-1146.1, C-1245*
 
-*Related: C-1245*
 
 
 ---
@@ -329,9 +325,8 @@ Commenter thanking host and recalling mutual support with Charlie.
 Node Type: Person
 Commenter on Charlie's spiritual status.
 
-*Related: *
+*Related: A-1146.1, C-1245*
 
-*Related: C-1245*
 
 
 ---
@@ -341,9 +336,8 @@ Commenter on Charlie's spiritual status.
 Node Type: Person
 Commenter thanking host for questioning the establishment.
 
-*Related: *
+*Related: A-1146.1, C-1245*
 
-*Related: C-1245*
 
 
 ---
@@ -353,9 +347,8 @@ Commenter thanking host for questioning the establishment.
 Node Type: Person
 Commenter praying via Flame of Love rosaries.
 
-*Related: *
+*Related: A-1146.1, C-1245*
 
-*Related: C-1245*
 
 
 ---
@@ -383,9 +376,8 @@ Commenter quoting police scanner description (jeans, black shirt, mask, vest, ri
 Node Type: Person
 Commenter asking about homeschooling curriculum.
 
-*Related: *
+*Related: A-1146.1, C-1245*
 
-*Related: C-1245*
 
 
 ---
@@ -395,7 +387,7 @@ Commenter asking about homeschooling curriculum.
 Node Type: Person
 Commenter asking host to share personal stories.
 
-*Related: *
+*Related: A-1154.1, C-1254*
 
 ---
 
@@ -446,7 +438,7 @@ Venue-host university; host notes most eyewitnesses were not UVU students.
 
 ---
 
-**N-1159** Brigham Young University
+**N-1158** Brigham Young University
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -458,7 +450,7 @@ Identified as the school attended by one of the two roof-videographer companions
 
 ---
 
-**N-1160** Wirefy
+**N-1159** Wirefy
 
 Node Type: Organization
 Organization Kind: company
@@ -480,7 +472,7 @@ Outlet that aired the Tiffany Barker family interview on 9/11.
 
 ---
 
-**N-1150** LDS Church
+**N-1160** LDS Church
 
 Node Type: Organization
 Organization Kind: religious_institution
@@ -490,7 +482,7 @@ Family faith tradition tied to the Barkers per Reddit-sleuth research.
 
 ---
 
-**N-1138** FBI
+**N-1137** FBI
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -650,7 +642,7 @@ Claim Timestamp: 00:10:11
 Claim: Tiffany Barker told host that GMA's outreach to her came through Phil Leman, with whom her sister ran as lieutenant governor.
 Transcript Snippet: her sister ran as lieutenant governor alongside Phil Leman... Good Morning America reached out to Phil Leman
 Anchored Artifacts: A-1146.1
-Related Nodes: N-110, N-92, N-1125, N-1150, N-1161, N-137, N-138, N-139, N-140, N-141, N-142, N-143, N-146
+Related Nodes: N-110, N-92, N-1125, N-1160, N-1161, N-137, N-138, N-139, N-140, N-141, N-142, N-143, N-146
 Confidence: medium
 Investigative Direction: Verify Tiffany Barker's LDS/political family ties and the Leman campaign contact chain.
 
@@ -722,7 +714,7 @@ Claim Timestamp: 00:21:02
 Claim: Wirefy branding was the backdrop advertiser at the event, and a Wirefy-branded individual was on-site sending texts/photos in the immediate aftermath.
 Transcript Snippet: Wirefy, you will notice in the clips of the event, is the backdrop advertiser that's behind Charlie
 Anchored Artifacts: A-1149.1
-Related Nodes: N-1160, N-1167
+Related Nodes: N-1159, N-1167
 Confidence: high
 Investigative Direction: Identify the blue-shirted Wirefy individual; request their cell metadata; confirm sponsorship ledger.
 
@@ -734,7 +726,7 @@ Claim Timestamp: 00:24:06
 Claim: Host traces the viral roof footage through an unknown poster, an Aaron with a Chicago number, and a separate pair of Chicago numbers that go nowhere.
 Transcript Snippet: those two numbers were both Chicago based... that's not making sense to me
 Anchored Artifacts: A-1150.1
-Related Nodes: N-136, N-1077, N-1159, N-1164
+Related Nodes: N-136, N-1077, N-1158, N-1164
 Confidence: medium
 Investigative Direction: Subpoena the originating accounts; obtain phone records; verify BYU enrollment of companion.
 
@@ -746,7 +738,7 @@ Claim Timestamp: 00:29:07
 Claim: Per the rooftop videographer, he told authorities within hours that the shooter was in tactical gear and a face mask, contradicting the later public description.
 Transcript Snippet: this person was dressed in tactical gear and he was wearing a face mask
 Anchored Artifacts: A-1154.1
-Related Nodes: N-69, N-1138, N-1165
+Related Nodes: N-69, N-1137, N-1165
 Supports: C-1254
 Confidence: medium
 Investigative Direction: Obtain the original FBI 302 or tip-line intake record; corroborate via metadata and witness interview.
@@ -759,7 +751,7 @@ Claim Timestamp: 00:30:37
 Claim: The eyewitness texted the host that the weapon sounded like a smaller rifle, not a hunting rifle, and likely used a 10 or 20-round magazine.
 Transcript Snippet: the assassin may have used a 10 or 20 round magazine... Hornady VMAX or similar lightweight 223 bullet
 Anchored Artifacts: A-1154.1
-Related Nodes: N-69, N-1138, N-1165, N-147
+Related Nodes: N-69, N-1137, N-1165, N-147
 Confidence: medium
 Investigative Direction: Compare eyewitness account with ballistic/forensic findings; check autopsy report for copper-shard evidence.
 
@@ -856,7 +848,7 @@ Claim Timestamp: 01:16:47
 Claim: Host cites Kash Patel's recent tweet/thread as conceding that the public FBI narrative does not add up and that more parties are likely involved.
 Transcript Snippet: Cash Patel has signified that that is so in his long message that we spoke about yesterday
 Anchored Artifacts: 
-Related Nodes: N-102, N-69, N-1138, N-1165
+Related Nodes: N-102, N-69, N-1137, N-1165
 Confidence: low
 Investigative Direction: Pull the actual Patel thread and timestamp the posts; verify his role and standing.
 
@@ -880,7 +872,7 @@ Claim Timestamp: 01:15:52
 Claim: Commenter MC states a police scanner call right after the shooting described a shooter wearing jeans, a black shirt, black mask, and black vest carrying a long rifle.
 Transcript Snippet: they were looking for someone wearing jeans, a black shirt, a black mask, and a black vest carrying a long rifle
 Anchored Artifacts: 
-Related Nodes: N-145, N-1138, N-1174
+Related Nodes: N-145, N-1137, N-1174
 Confidence: low
 Investigative Direction: Obtain archived Broadcastify/ScannerRadio audio for the timeframe; cross-check against official dispatch logs.
 
@@ -997,7 +989,7 @@ Confidence: high
 
 ## 8. Organization Network
 
-OrgLink: N-1000 funded_by N-1160
+OrgLink: N-1000 funded_by N-1159
 OrgLink: N-1149 affiliated_with N-1000
 
 ## 9. Role Assertions

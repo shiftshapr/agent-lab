@@ -440,14 +440,17 @@
       "type": "person",
       "description": "Host of Bride of Charlie series.",
       "related_artifacts": [
+        "A-1095.1",
         "A-1098.1"
       ],
-      "related_claims": [],
+      "related_claims": [
+        "C-1144"
+      ],
       "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
+      "evidence_count": 2,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -643,13 +646,17 @@
       "name": "Dave Smith",
       "type": "person",
       "description": "Speaker at America Fest; subject of pressure complaints.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1095.1"
+      ],
+      "related_claims": [
+        "C-1144"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -715,13 +722,17 @@
       "name": "Patrick Bet-David",
       "type": "person",
       "description": "Podcaster Netanyahu appeared on.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1095.1"
+      ],
+      "related_claims": [
+        "C-1144"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -730,13 +741,17 @@
       "name": "Brendan Tatum",
       "type": "person",
       "description": "Podcaster Netanyahu appeared on.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1095.1"
+      ],
+      "related_claims": [
+        "C-1144"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -745,13 +760,17 @@
       "name": "Nelk Boys",
       "type": "person",
       "description": "Podcast Netanyahu appeared on.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1095.1"
+      ],
+      "related_claims": [
+        "C-1144"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -779,13 +798,17 @@
       "name": "Phil Lyman",
       "type": "person",
       "description": "Republican candidate chosen by delegates who ran against Cox.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1095.1"
+      ],
+      "related_claims": [
+        "C-1144"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -794,13 +817,17 @@
       "name": "Eric Mutosos",
       "type": "person",
       "description": "LEO commenter noted to have dealt with Zinn in the past.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1095.1"
+      ],
+      "related_claims": [
+        "C-1144"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -809,13 +836,18 @@
       "name": "Erika Kirk",
       "type": "person",
       "description": "Charlie's widow; one of two people Candace cites as able to silence her.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1095.8",
+        "A-1095.9"
+      ],
+      "related_claims": [
+        "C-1154"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 2,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -824,13 +856,17 @@
       "name": "Sarah Stockton",
       "type": "person",
       "description": "Hamptons attendee whose engagement ring generated drama.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1095.1"
+      ],
+      "related_claims": [
+        "C-1144"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -839,13 +875,17 @@
       "name": "Dave Rubin",
       "type": "person",
       "description": "Subject of Candace's prior Israel-pressure recollection.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1095.1"
+      ],
+      "related_claims": [
+        "C-1144"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -854,13 +894,17 @@
       "name": "Brian Mass",
       "type": "person",
       "description": "Subject of a tweet Candace referenced about genocide.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1095.1"
+      ],
+      "related_claims": [
+        "C-1144"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -869,13 +913,17 @@
       "name": "Jamie Lee Curtis",
       "type": "person",
       "description": "Mentioned as left-leaning figure moved by Kirk's death.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1095.1"
+      ],
+      "related_claims": [
+        "C-1144"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -921,14 +969,17 @@
       "type": "person",
       "description": "Studio contributor commenting on ellipsis formatting in text chain.",
       "related_artifacts": [
+        "A-1095.1",
         "A-1095.8"
       ],
-      "related_claims": [],
+      "related_claims": [
+        "C-1144"
+      ],
       "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
+      "evidence_count": 2,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -937,13 +988,17 @@
       "name": "Skyler",
       "type": "person",
       "description": "Producer referenced retrieving tweet screenshots.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1095.1"
+      ],
+      "related_claims": [
+        "C-1144"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -952,13 +1007,17 @@
       "name": "Candace Owens' Husband",
       "type": "person",
       "description": "One of two people Candace cites as able to silence her.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1095.5"
+      ],
+      "related_claims": [
+        "C-1150"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Organization",
