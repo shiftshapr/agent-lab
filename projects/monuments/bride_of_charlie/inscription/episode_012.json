@@ -595,13 +595,18 @@
       "name": "Erika Kirk",
       "type": "person",
       "description": "Charlie's widow; referenced via 'evildoers' grieving-widow meme.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1104.1",
+        "A-1104.2"
+      ],
+      "related_claims": [
+        "C-1175"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 2,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -745,13 +750,18 @@
       "name": "Skyler",
       "type": "person",
       "description": "Production staff member operating timeline/graphics during episode.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1104.1",
+        "A-1104.2"
+      ],
+      "related_claims": [
+        "C-1175"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 2,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -830,13 +840,18 @@
       "name": "Dave Smith",
       "type": "person",
       "description": "Commentator referenced as part of broader pushback on BB Netany/Yahoo narrative.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1104.1",
+        "A-1104.2"
+      ],
+      "related_claims": [
+        "C-1175"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 2,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Topic",

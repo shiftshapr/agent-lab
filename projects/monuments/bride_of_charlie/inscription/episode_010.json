@@ -780,13 +780,17 @@
       "name": "George Zinn",
       "type": "person",
       "description": "Person briefly arrested and labeled a 'decoy' by host; allegedly signaled he shot Charlie Kirk.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1081.1"
+      ],
+      "related_claims": [
+        "C-1123"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "confidence": "medium"
     },
     {
@@ -837,14 +841,17 @@
       "type": "person",
       "description": "Reporter whose reporting on Robinson's acquaintances is referenced by Governor Cox.",
       "related_artifacts": [
+        "A-1081.1",
         "A-1089.3"
       ],
-      "related_claims": [],
+      "related_claims": [
+        "C-1123"
+      ],
       "tags": [],
-      "evidence_count": 1,
-      "claim_count": 0,
+      "evidence_count": 2,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "confidence": "medium"
     },
     {
@@ -953,13 +960,17 @@
       "name": "Donald Trump",
       "type": "person",
       "description": "President whose account tweeted a photo of Charlie Kirk with US and Israeli flags.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1081.1"
+      ],
+      "related_claims": [
+        "C-1123"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "confidence": "high"
     },
     {
@@ -969,13 +980,17 @@
       "name": "Sigmund Freud",
       "type": "person",
       "description": "Subject of host reading recommendations; framed by host as father of modern gaslighting rather than modern psychology.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1081.1"
+      ],
+      "related_claims": [
+        "C-1123"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "confidence": "high",
       "uncertainty_note": "Transcript spells 'Sigman'; clearly Sigmund Freud."
     },
@@ -986,13 +1001,17 @@
       "name": "David Bakan",
       "type": "person",
       "description": "Author recommended by host on Freud and Jewish mystical tradition history.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1081.1"
+      ],
+      "related_claims": [
+        "C-1123"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "confidence": "medium"
     },
     {
@@ -1002,13 +1021,17 @@
       "name": "Shlomo Sand",
       "type": "person",
       "description": "Tel Aviv University historian; author of 'The Invention of the Jewish People' recommended by host.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1081.1"
+      ],
+      "related_claims": [
+        "C-1123"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "confidence": "high",
       "uncertainty_note": "Transcript spells 'Schlommo'; canonical Shlomo Sand."
     },
@@ -1019,13 +1042,17 @@
       "name": "Abraham Polokoff",
       "type": "person",
       "description": "Author referenced by host as having traced Ashkenazi origins to the Khazars and won awards for it.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-1081.1"
+      ],
+      "related_claims": [
+        "C-1123"
+      ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "confidence": "low",
       "uncertainty_note": "Transcript 'Abraham Pollock'; canonical name uncertain (possibly Arthur Koestler 'The Thirteenth Tribe' or similar)."
     },

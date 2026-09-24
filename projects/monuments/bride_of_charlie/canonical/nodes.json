@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-23T22:03:03Z",
+  "updated": "2026-09-24T21:06:21Z",
   "next_person_id": 176,
   "next_investigation_id": 1207,
   "nodes": {
@@ -32,9 +32,7 @@
     "N-2": {
       "canonical_name": "Erika Kirk",
       "type": "person",
-      "aliases": [
-        "Erika Kirk (n\u00e9e Frantzey)"
-      ],
+      "aliases": [],
       "episodes": [
         1,
         2,
@@ -2137,7 +2135,7 @@
         16
       ]
     },
-    "N-1127": {
+    "N-1126": {
       "canonical_name": "CIA Operation Mockingbird",
       "type": "organization",
       "aliases": [],
@@ -2145,7 +2143,7 @@
         13
       ]
     },
-    "N-1128": {
+    "N-1127": {
       "canonical_name": "Orem, Utah",
       "type": "place",
       "aliases": [],
@@ -2154,7 +2152,7 @@
         18
       ]
     },
-    "N-1129": {
+    "N-1128": {
       "canonical_name": "Gaza",
       "type": "place",
       "aliases": [],
@@ -2162,7 +2160,7 @@
         13
       ]
     },
-    "N-1130": {
+    "N-1129": {
       "canonical_name": "The Pentagon",
       "type": "place",
       "aliases": [],
@@ -2251,7 +2249,7 @@
         14
       ]
     },
-    "N-1131": {
+    "N-1130": {
       "canonical_name": "Caldera Engineering",
       "type": "organization",
       "aliases": [],
@@ -2259,7 +2257,7 @@
         14
       ]
     },
-    "N-1132": {
+    "N-1131": {
       "canonical_name": "United States Senate",
       "type": "organization",
       "aliases": [],
@@ -2267,7 +2265,7 @@
         14
       ]
     },
-    "N-1133": {
+    "N-1132": {
       "canonical_name": "CISA",
       "type": "organization",
       "aliases": [],
@@ -2275,7 +2273,7 @@
         14
       ]
     },
-    "N-1134": {
+    "N-1133": {
       "canonical_name": "NSA",
       "type": "organization",
       "aliases": [],
@@ -2283,7 +2281,7 @@
         14
       ]
     },
-    "N-1135": {
+    "N-1134": {
       "canonical_name": "FERC",
       "type": "organization",
       "aliases": [],
@@ -2291,7 +2289,7 @@
         14
       ]
     },
-    "N-1136": {
+    "N-1135": {
       "canonical_name": "Daily Mail",
       "type": "organization",
       "aliases": [],
@@ -2299,7 +2297,7 @@
         14
       ]
     },
-    "N-1137": {
+    "N-1136": {
       "canonical_name": "ABC",
       "type": "organization",
       "aliases": [],
@@ -2307,7 +2305,7 @@
         14
       ]
     },
-    "N-1138": {
+    "N-1137": {
       "canonical_name": "FBI",
       "type": "organization",
       "aliases": [],
@@ -2318,7 +2316,7 @@
         17
       ]
     },
-    "N-1139": {
+    "N-1138": {
       "canonical_name": "FCC",
       "type": "organization",
       "aliases": [],
@@ -2326,7 +2324,7 @@
         14
       ]
     },
-    "N-1140": {
+    "N-1139": {
       "canonical_name": "APAC",
       "type": "organization",
       "aliases": [],
@@ -2334,7 +2332,7 @@
         14
       ]
     },
-    "N-1141": {
+    "N-1140": {
       "canonical_name": "Provo, Utah",
       "type": "place",
       "aliases": [],
@@ -2342,7 +2340,7 @@
         14
       ]
     },
-    "N-1142": {
+    "N-1141": {
       "canonical_name": "White House",
       "type": "place",
       "aliases": [],
@@ -2350,7 +2348,7 @@
         14
       ]
     },
-    "N-1143": {
+    "N-1142": {
       "canonical_name": "Cameragate Investigation",
       "type": "topic",
       "aliases": [],
@@ -2358,7 +2356,7 @@
         14
       ]
     },
-    "N-1144": {
+    "N-1143": {
       "canonical_name": "Robinson-Lance Text Chain Authenticity",
       "type": "topic",
       "aliases": [],
@@ -2366,7 +2364,7 @@
         14
       ]
     },
-    "N-1145": {
+    "N-1144": {
       "canonical_name": "TPUSA Financial Apparatus Investigation",
       "type": "topic",
       "aliases": [],
@@ -2374,7 +2372,7 @@
         14
       ]
     },
-    "N-1146": {
+    "N-1145": {
       "canonical_name": "Hate Speech Legislation Push",
       "type": "topic",
       "aliases": [],
@@ -2382,7 +2380,7 @@
         14
       ]
     },
-    "N-1147": {
+    "N-1146": {
       "canonical_name": "Valve/Piping Industry Intelligence Connection",
       "type": "topic",
       "aliases": [],
@@ -2390,7 +2388,7 @@
         14
       ]
     },
-    "N-1148": {
+    "N-1147": {
       "canonical_name": "Israel Influence on US Politics",
       "type": "topic",
       "aliases": [],
@@ -2456,7 +2454,7 @@
         16
       ]
     },
-    "N-1126": {
+    "N-1148": {
       "canonical_name": "CIA",
       "type": "organization",
       "aliases": [],
@@ -2472,7 +2470,7 @@
         15
       ]
     },
-    "N-1151": {
+    "N-1150": {
       "canonical_name": "FAA",
       "type": "organization",
       "aliases": [],
@@ -2480,7 +2478,7 @@
         15
       ]
     },
-    "N-1152": {
+    "N-1151": {
       "canonical_name": "Exit Wound / Bullet Trajectory Discrepancy",
       "type": "topic",
       "aliases": [],
@@ -2488,7 +2486,7 @@
         15
       ]
     },
-    "N-1153": {
+    "N-1152": {
       "canonical_name": "Transponder / Plane Anomaly Investigation",
       "type": "topic",
       "aliases": [],
@@ -2496,7 +2494,7 @@
         15
       ]
     },
-    "N-1154": {
+    "N-1153": {
       "canonical_name": "UVU Underground Tunnel / Pipeline Investigation",
       "type": "topic",
       "aliases": [],
@@ -2504,7 +2502,7 @@
         15
       ]
     },
-    "N-1155": {
+    "N-1154": {
       "canonical_name": "Candace Owens FBI/CIA Reporting Incident",
       "type": "topic",
       "aliases": [],
@@ -2512,7 +2510,7 @@
         15
       ]
     },
-    "N-1156": {
+    "N-1155": {
       "canonical_name": "Charlie Kirk / Candace Alleged Falling Out",
       "type": "topic",
       "aliases": [],
@@ -2520,7 +2518,7 @@
         15
       ]
     },
-    "N-1157": {
+    "N-1156": {
       "canonical_name": "Screwdriver Evidence Question",
       "type": "topic",
       "aliases": [],
@@ -2528,7 +2526,7 @@
         15
       ]
     },
-    "N-1158": {
+    "N-1157": {
       "canonical_name": "Dr. Frank Turk Suspicion",
       "type": "topic",
       "aliases": [],
@@ -2640,7 +2638,7 @@
         16
       ]
     },
-    "N-1159": {
+    "N-1158": {
       "canonical_name": "Brigham Young University",
       "type": "organization",
       "aliases": [],
@@ -2648,7 +2646,7 @@
         16
       ]
     },
-    "N-1160": {
+    "N-1159": {
       "canonical_name": "Wirefy",
       "type": "organization",
       "aliases": [],
@@ -2656,7 +2654,7 @@
         16
       ]
     },
-    "N-1150": {
+    "N-1160": {
       "canonical_name": "LDS Church",
       "type": "organization",
       "aliases": [],
@@ -3024,7 +3022,7 @@
         17
       ]
     },
-    "N-1204": {
+    "N-1189": {
       "canonical_name": "Etsy",
       "type": "organization",
       "aliases": [],
@@ -3032,7 +3030,7 @@
         17
       ]
     },
-    "N-1201": {
+    "N-1190": {
       "canonical_name": "Riverbend Ranch",
       "type": "organization",
       "aliases": [],
@@ -3041,7 +3039,7 @@
         18
       ]
     },
-    "N-1193": {
+    "N-1191": {
       "canonical_name": "Utah",
       "type": "place",
       "aliases": [],
@@ -3049,7 +3047,7 @@
         17
       ]
     },
-    "N-1190": {
+    "N-1192": {
       "canonical_name": "London / UK",
       "type": "place",
       "aliases": [],
@@ -3057,7 +3055,7 @@
         17
       ]
     },
-    "N-1200": {
+    "N-1193": {
       "canonical_name": "Poland",
       "type": "place",
       "aliases": [],
@@ -3065,7 +3063,7 @@
         17
       ]
     },
-    "N-1202": {
+    "N-1194": {
       "canonical_name": "Germany (1848 reference)",
       "type": "place",
       "aliases": [],
@@ -3161,7 +3159,7 @@
         18
       ]
     },
-    "N-1205": {
+    "N-1195": {
       "canonical_name": "Orem Police Department",
       "type": "organization",
       "aliases": [],
@@ -3169,7 +3167,7 @@
         18
       ]
     },
-    "N-1192": {
+    "N-1196": {
       "canonical_name": "Department of Government Efficiency (DOGE)",
       "type": "organization",
       "aliases": [],
@@ -3177,7 +3175,7 @@
         18
       ]
     },
-    "N-1195": {
+    "N-1197": {
       "canonical_name": "PragerU",
       "type": "organization",
       "aliases": [],
@@ -3193,7 +3191,7 @@
         18
       ]
     },
-    "N-1194": {
+    "N-1199": {
       "canonical_name": "Federal Investigation Conduct Question",
       "type": "topic",
       "aliases": [],
@@ -3201,7 +3199,7 @@
         18
       ]
     },
-    "N-1196": {
+    "N-1200": {
       "canonical_name": "Hamptons Weekend Retreat",
       "type": "topic",
       "aliases": [],
@@ -3209,7 +3207,7 @@
         18
       ]
     },
-    "N-1189": {
+    "N-1201": {
       "canonical_name": "Doorbell Footage Completeness Question",
       "type": "topic",
       "aliases": [],
@@ -3217,7 +3215,7 @@
         18
       ]
     },
-    "N-1197": {
+    "N-1202": {
       "canonical_name": "Muzzle Flash Theory (Range Day Bro)",
       "type": "topic",
       "aliases": [],
@@ -3233,7 +3231,7 @@
         18
       ]
     },
-    "N-1191": {
+    "N-1204": {
       "canonical_name": "Bullet Casing Engraving Pattern",
       "type": "topic",
       "aliases": [],
@@ -3241,7 +3239,7 @@
         18
       ]
     },
-    "N-1206": {
+    "N-1205": {
       "canonical_name": "Operation Mocking Pastor",
       "type": "topic",
       "aliases": [],
@@ -3249,7 +3247,7 @@
         18
       ]
     },
-    "N-1199": {
+    "N-1206": {
       "canonical_name": "Amazon Pre-Event Book Listing (Sep 9)",
       "type": "topic",
       "aliases": [],

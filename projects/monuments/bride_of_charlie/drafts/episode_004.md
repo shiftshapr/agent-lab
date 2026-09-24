@@ -243,7 +243,7 @@ Rick Erpenbeck's brother, served 20+ years for financial fraud
 Node Type: Person
 Erika's uncle through marriage, professor at BYU, founder of Bali Technologies
 
-*Related: *
+*Related: C-1033*
 
 ---
 
@@ -270,7 +270,7 @@ First husband of Lori, passed away
 Node Type: Person
 Second husband of Lori
 
-*Related: *
+*Related: C-1032*
 
 ---
 

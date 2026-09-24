@@ -549,12 +549,14 @@
       "type": "person",
       "description": "Erika's uncle through marriage, professor at BYU, founder of Bali Technologies",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1033"
+      ],
       "tags": [],
       "evidence_count": 0,
-      "claim_count": 0,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",
@@ -600,12 +602,14 @@
       "type": "person",
       "description": "Second husband of Lori",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1032"
+      ],
       "tags": [],
       "evidence_count": 0,
-      "claim_count": 0,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "medium"
     },
     {
       "@type": "Person",

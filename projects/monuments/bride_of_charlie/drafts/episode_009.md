@@ -143,9 +143,8 @@ Charlie Kirk's wife; subject of the 'Kirk vs Frantzey' name plan text chain.
 Node Type: Person
 Conservative radio host referenced as Charlie Kirk's admired figure and aspirational model for a national show.
 
-*Related: *
+*Related: A-1077.1, A-1078.1, A-1080.1, C-1115*
 
-*Related: C-1115*
 
 
 ---
@@ -155,9 +154,8 @@ Conservative radio host referenced as Charlie Kirk's admired figure and aspirati
 Node Type: Person
 Joined an early TPUSA event with Candace and Charlie when the original headliner dropped out.
 
-*Related: *
+*Related: A-1077.1, A-1078.1, A-1080.1, C-1115*
 
-*Related: C-1115*
 
 
 ---
@@ -167,9 +165,8 @@ Joined an early TPUSA event with Candace and Charlie when the original headliner
 Node Type: Person
 Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.
 
-*Related: *
+*Related: A-1077.1, A-1078.1, A-1080.1, C-1115*
 
-*Related: C-1115*
 
 
 ---
@@ -179,9 +176,8 @@ Mentioned as having pressed Charlie to buy better-fitting suits along with Eric 
 Node Type: Person
 Co-gifted Charlie Kirk a suit-fitting gift certificate with Don Jr.
 
-*Related: *
+*Related: A-1077.1, A-1078.1, A-1080.1, C-1115*
 
-*Related: C-1115*
 
 
 ---
@@ -200,9 +196,8 @@ Tweeted 'I love the way Candace Owens thinks'; gave Charlie Kirk Yeezys; source 
 Node Type: Person
 Turning Point figure who stood with Charlie Kirk during the 'him too' press incident.
 
-*Related: *
+*Related: A-1077.1, A-1078.1, A-1080.1, C-1115*
 
-*Related: C-1115*
 
 
 ---
@@ -212,10 +207,9 @@ Turning Point figure who stood with Charlie Kirk during the 'him too' press inci
 Node Type: Person
 Charlie's assistant at Turning Point during the #MeToo press moment.
 
-*Related: *
+*Related: A-1077.1, A-1078.1, A-1080.1, C-1115*
 Uncertainty: Last name not given in transcript.
 
-*Related: C-1115*
 
 
 ---

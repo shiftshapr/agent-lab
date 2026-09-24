@@ -12,7 +12,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1095, A-1096, A-1097, A-1098, A-1099, A-1100, A-1101, A-1102, A-1103
   - Claim Range: C-1144-C-1174
-  - New Nodes Introduced: N-1, N-2, N-7, N-35, N-50, N-60, N-64, N-65, N-66, N-67, N-68, N-69, N-70, N-73, N-74, N-82, N-83, N-84, N-85, N-86, N-87, N-88, N-89, N-90, N-91, N-1000, N-1076, N-1077, N-1091, N-1092, N-1093, N-1094, N-1095, N-1096, N-1097, N-1098
+  - New Nodes Introduced: N-1, N-2, N-7, N-35, N-50, N-60, N-64, N-65, N-66, N-67, N-68, N-69, N-70, N-73, N-74, N-82, N-83, N-84, N-85, N-86, N-87, N-88, N-89, N-90, N-91, N-1000, N-1076, N-1077, N-1091, N-1092, N-1093, N-1094, N-1095, N-1096, N-1097, N-1098, N-1099, N-1100, N-1101, N-1102
 
 ## 2. Executive Summary
 
@@ -193,9 +193,8 @@ Deceased; subject of investigation.
 Node Type: Person
 Host of Bride of Charlie series.
 
-*Related: A-1098.1*
+*Related: A-1095.1, A-1098.1, C-1144*
 
-*Related: C-1144*
 
 
 ---
@@ -277,9 +276,8 @@ Reportedly part of beehive pressuring Charlie about conference guests.
 Node Type: Person
 Speaker at America Fest; subject of pressure complaints.
 
-*Related: *
+*Related: A-1095.1, C-1144*
 
-*Related: C-1144*
 
 
 ---
@@ -316,9 +314,8 @@ Interviewer of Charlie Kirk August 6, 2025.
 Node Type: Person
 Podcaster Netanyahu appeared on.
 
-*Related: *
+*Related: A-1095.1, C-1144*
 
-*Related: C-1144*
 
 
 ---
@@ -328,9 +325,8 @@ Podcaster Netanyahu appeared on.
 Node Type: Person
 Podcaster Netanyahu appeared on.
 
-*Related: *
+*Related: A-1095.1, C-1144*
 
-*Related: C-1144*
 
 
 ---
@@ -340,9 +336,8 @@ Podcaster Netanyahu appeared on.
 Node Type: Person
 Podcast Netanyahu appeared on.
 
-*Related: *
+*Related: A-1095.1, C-1144*
 
-*Related: C-1144*
 
 
 ---
@@ -361,9 +356,8 @@ Issued tweet thread pressuring Charlie to distance from Tucker.
 Node Type: Person
 Republican candidate chosen by delegates who ran against Cox.
 
-*Related: *
+*Related: A-1095.1, C-1144*
 
-*Related: C-1144*
 
 
 ---
@@ -373,9 +367,8 @@ Republican candidate chosen by delegates who ran against Cox.
 Node Type: Person
 LEO commenter noted to have dealt with Zinn in the past.
 
-*Related: *
+*Related: A-1095.1, C-1144*
 
-*Related: C-1144*
 
 
 ---
@@ -385,7 +378,7 @@ LEO commenter noted to have dealt with Zinn in the past.
 Node Type: Person
 Charlie's widow; one of two people Candace cites as able to silence her.
 
-*Related: *
+*Related: A-1095.8, A-1095.9, C-1154*
 
 ---
 
@@ -394,9 +387,8 @@ Charlie's widow; one of two people Candace cites as able to silence her.
 Node Type: Person
 Hamptons attendee whose engagement ring generated drama.
 
-*Related: *
+*Related: A-1095.1, C-1144*
 
-*Related: C-1144*
 
 
 ---
@@ -406,9 +398,8 @@ Hamptons attendee whose engagement ring generated drama.
 Node Type: Person
 Subject of Candace's prior Israel-pressure recollection.
 
-*Related: *
+*Related: A-1095.1, C-1144*
 
-*Related: C-1144*
 
 
 ---
@@ -418,9 +409,8 @@ Subject of Candace's prior Israel-pressure recollection.
 Node Type: Person
 Subject of a tweet Candace referenced about genocide.
 
-*Related: *
+*Related: A-1095.1, C-1144*
 
-*Related: C-1144*
 
 
 ---
@@ -430,9 +420,8 @@ Subject of a tweet Candace referenced about genocide.
 Node Type: Person
 Mentioned as left-leaning figure moved by Kirk's death.
 
-*Related: *
+*Related: A-1095.1, C-1144*
 
-*Related: C-1144*
 
 
 ---
@@ -460,9 +449,8 @@ X poster who broke down Bill Ackman's itinerary.
 Node Type: Person
 Studio contributor commenting on ellipsis formatting in text chain.
 
-*Related: A-1095.8*
+*Related: A-1095.1, A-1095.8, C-1144*
 
-*Related: C-1144*
 
 
 ---
@@ -472,9 +460,8 @@ Studio contributor commenting on ellipsis formatting in text chain.
 Node Type: Person
 Producer referenced retrieving tweet screenshots.
 
-*Related: *
+*Related: A-1095.1, C-1144*
 
-*Related: C-1144*
 
 
 ---
@@ -484,7 +471,7 @@ Producer referenced retrieving tweet screenshots.
 Node Type: Person
 One of two people Candace cites as able to silence her.
 
-*Related: *
+*Related: A-1095.5, C-1150*
 
 ---
 
