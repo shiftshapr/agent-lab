@@ -1,5 +1,0 @@
-{
-  "scaffold_only": true,
-  "reason": "CKA greenfield monument (2026-09-25). dia_preflight skips draft gates until episode_*.md exist.",
-  "until": "First CKA draft batch lands in drafts/"
-}

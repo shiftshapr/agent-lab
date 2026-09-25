@@ -1,0 +1,69 @@
+{
+  "batch": 1,
+  "membership_tags": [
+    "cka_core",
+    "remapped_from_boc"
+  ],
+  "rows": [
+    {
+      "cka_seq": 1,
+      "boc_monument_ep": 9,
+      "youtube_id": "_dRaEO47-co",
+      "candace_ep_number": null
+    },
+    {
+      "cka_seq": 2,
+      "boc_monument_ep": 10,
+      "youtube_id": "czVBmqZP6Ss",
+      "candace_ep_number": 235
+    },
+    {
+      "cka_seq": 3,
+      "boc_monument_ep": 11,
+      "youtube_id": "q7f8r-THr84",
+      "candace_ep_number": 236
+    },
+    {
+      "cka_seq": 4,
+      "boc_monument_ep": 12,
+      "youtube_id": "2WEHTk0Xewg",
+      "candace_ep_number": 237
+    },
+    {
+      "cka_seq": 5,
+      "boc_monument_ep": 13,
+      "youtube_id": "sreYYcID-QY",
+      "candace_ep_number": 238
+    },
+    {
+      "cka_seq": 6,
+      "boc_monument_ep": 14,
+      "youtube_id": "aDlhjfW6hz8",
+      "candace_ep_number": 239
+    },
+    {
+      "cka_seq": 7,
+      "boc_monument_ep": 15,
+      "youtube_id": "ja26iltROkM",
+      "candace_ep_number": 240
+    },
+    {
+      "cka_seq": 8,
+      "boc_monument_ep": 16,
+      "youtube_id": "UBkFkg4UNY8",
+      "candace_ep_number": 241
+    },
+    {
+      "cka_seq": 9,
+      "boc_monument_ep": 17,
+      "youtube_id": "QZWSsq8ZWzw",
+      "candace_ep_number": 242
+    },
+    {
+      "cka_seq": 10,
+      "boc_monument_ep": 18,
+      "youtube_id": "K5GjF53bfN4",
+      "candace_ep_number": 243
+    }
+  ]
+}

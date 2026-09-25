@@ -1,0 +1,927 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 1,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00-23:47:00",
+    "extraction_timestamp": "2026-09-23T18:42:21Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "4e6d0208251c90a7fbd3a8be5f2caaf0ebe78bfeb35177af48f4b0ff29ff2356",
+    "analysis_date": "2026-09-23",
+    "monument": "cka",
+    "youtube_id": "_dRaEO47-co",
+    "candace_ep_number": null,
+    "kind": "kirk_special"
+  },
+  "executive_summary": "Memorial/tribute episode in which host Candace Owens recounts personal memories of Charlie Kirk following his death. Artifacts shown include backstage video clips, text-message screen recordings, personal photographs, road-trip audio, and protest-incident footage. Episode documents the personal/professional relationship between Owens and Kirk and revisits past public controversies (Blexit, 'him too' T-shirt, Israel stance, Kanye tweet). Limited new investigative content; primarily retrospective narrative.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1077",
+      "family_ref": "A-1077",
+      "bundle_name": "Video and Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1077.1",
+          "ref": "A-1077.1",
+          "description": "Backstage celebration clip of 'Charlie dance' after Kanye West's tweet about Candace.",
+          "related_claims": [
+            "C-1115",
+            "C-1116"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7",
+            "N-56"
+          ],
+          "tags": [],
+          "event_timestamp": "2022-05-01",
+          "video_timestamp": "00:11:32-00:11:47",
+          "transcript_snippet": "I found a clip of us backstage on that day when that tweet happened…",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1077.2",
+          "ref": "A-1077.2",
+          "description": "Road trip audio/video from North/South Carolina during hurricane-driven 8-hour drive to DC.",
+          "related_claims": [
+            "C-1117"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "2018",
+          "video_timestamp": "00:13:49-00:14:01",
+          "transcript_snippet": "Every single song was sung. Me and Charlie were always singing in cars.",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1077.3",
+          "ref": "A-1077.3",
+          "description": "Video of Charlie Kirk being chased out of a Philadelphia restaurant by Antifa; water and egg thrown.",
+          "related_claims": [
+            "C-1118"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "2018-2019",
+          "video_timestamp": "00:16:07-00:16:30",
+          "transcript_snippet": "The infamous day that we got chased out of a Philadelphia restaurant by Antifa…",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1077.4",
+          "ref": "A-1077.4",
+          "description": "Campus event clip of Candace playing with protesters in front of signs while Charlie speaks over her shoulder.",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "2018-2019",
+          "video_timestamp": "00:16:57-00:17:17",
+          "transcript_snippet": "I love this video of me just playing with the protesters sitting in front of one of their signs…",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1078",
+      "family_ref": "A-1078",
+      "bundle_name": "Personal Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1078.1",
+          "ref": "A-1078.1",
+          "description": "Photo of Charlie Kirk wearing Yeezys given to him by Kanye West.",
+          "related_claims": [
+            "C-1115"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-56"
+          ],
+          "tags": [],
+          "event_timestamp": "2022",
+          "video_timestamp": "00:12:24-00:12:36",
+          "transcript_snippet": "He was wearing a pair of Yeezys that Kanye gave him and he looked really cool.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1079",
+      "family_ref": "A-1079",
+      "bundle_name": "Text Message Chain Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1079.1",
+          "ref": "A-1079.1",
+          "description": "Screen recording of text messages between Charlie and Candace about a pair of sunglasses.",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "2018-2022",
+          "video_timestamp": "00:12:03-00:12:16",
+          "transcript_snippet": "He's just setting me. I'm like, 'Nah, that's not good. Nope. Send. Okay, that one's okay.'",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1079.2",
+          "ref": "A-1079.2",
+          "description": "Text chain where Charlie approves of Candace's then-boyfriend George (now husband) after one evening together.",
+          "related_claims": [
+            "C-1119"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7",
+            "N-59"
+          ],
+          "tags": [],
+          "event_timestamp": "2018-2019",
+          "video_timestamp": "00:18:09-00:18:19",
+          "transcript_snippet": "His heart is wonderful. You guys are meant for each other. I see it brilliantly and clearly.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1079.3",
+          "ref": "A-1079.3",
+          "description": "Text chain joking about convincing Erika Frantzey to take the Kirk last name as a 'practical decision'.",
+          "related_claims": [
+            "C-1120"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "2019-2020",
+          "video_timestamp": "00:19:23-00:19:43",
+          "transcript_snippet": "Marry me. It's a logistics thing. Mrs. Erika Kirk sounds so much better than Mrs. Eric.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1080",
+      "family_ref": "A-1080",
+      "bundle_name": "Music Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1080.1",
+          "ref": "A-1080.1",
+          "description": "Kanye West's 'Power' played as the touring hype song before stage events and during #MeToo prep montage.",
+          "related_claims": [
+            "C-1121"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7",
+            "N-56"
+          ],
+          "tags": [],
+          "event_timestamp": "2018-2022",
+          "video_timestamp": "00:11:10-00:11:17",
+          "transcript_snippet": "Kanye's Power kind of became our theme song for the tour.",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of memorial tribute; deceased founder of Turning Point USA; central figure across the series.",
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1077.2",
+        "A-1077.3",
+        "A-1077.4",
+        "A-1078.1",
+        "A-1079.1",
+        "A-1079.2",
+        "A-1079.3"
+      ],
+      "related_claims": [
+        "C-1115",
+        "C-1116",
+        "C-1117",
+        "C-1118",
+        "C-1119",
+        "C-1120",
+        "C-1121",
+        "C-1122"
+      ],
+      "tags": [],
+      "evidence_count": 8,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the series; close personal/professional partner of Charlie Kirk from 2017 onward.",
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1077.2",
+        "A-1077.3",
+        "A-1077.4",
+        "A-1079.1",
+        "A-1079.2",
+        "A-1079.3"
+      ],
+      "related_claims": [
+        "C-1115",
+        "C-1117",
+        "C-1118",
+        "C-1119",
+        "C-1120",
+        "C-1121",
+        "C-1122"
+      ],
+      "tags": [],
+      "evidence_count": 7,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-59",
+      "ref": "N-59",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "Candace Owens' husband; met in the UK; Charlie Kirk approved of him after one evening.",
+      "related_artifacts": [
+        "A-1079.2"
+      ],
+      "related_claims": [
+        "C-1119"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "uncertainty_note": "Surname not stated in transcript."
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk (née Frantzey)",
+      "type": "person",
+      "description": "Charlie Kirk's wife; subject of the 'Kirk vs Frantzey' name plan text chain.",
+      "related_artifacts": [
+        "A-1079.3"
+      ],
+      "related_claims": [
+        "C-1120"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-60",
+      "ref": "N-60",
+      "name": "Rush Limbaugh",
+      "type": "person",
+      "description": "Conservative radio host referenced as Charlie Kirk's admired figure and aspirational model for a national show.",
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1078.1",
+        "A-1080.1"
+      ],
+      "related_claims": [
+        "C-1115"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-61",
+      "ref": "N-61",
+      "name": "Dave Rubin",
+      "type": "person",
+      "description": "Joined an early TPUSA event with Candace and Charlie when the original headliner dropped out.",
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1078.1",
+        "A-1080.1"
+      ],
+      "related_claims": [
+        "C-1115"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-62",
+      "ref": "N-62",
+      "name": "Donald Trump Jr. (Don Jr.)",
+      "type": "person",
+      "description": "Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.",
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1078.1",
+        "A-1080.1"
+      ],
+      "related_claims": [
+        "C-1115"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-63",
+      "ref": "N-63",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Co-gifted Charlie Kirk a suit-fitting gift certificate with Don Jr.",
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1078.1",
+        "A-1080.1"
+      ],
+      "related_claims": [
+        "C-1115"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-56",
+      "ref": "N-56",
+      "name": "Kanye West",
+      "type": "person",
+      "description": "Tweeted 'I love the way Candace Owens thinks'; gave Charlie Kirk Yeezys; source of 'Power' hype song.",
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1078.1",
+        "A-1080.1"
+      ],
+      "related_claims": [
+        "C-1115",
+        "C-1121",
+        "C-1116"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Turning Point figure who stood with Charlie Kirk during the 'him too' press incident.",
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1078.1",
+        "A-1080.1"
+      ],
+      "related_claims": [
+        "C-1115"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-64",
+      "ref": "N-64",
+      "name": "Sarah (Charlie's assistant)",
+      "type": "person",
+      "description": "Charlie's assistant at Turning Point during the #MeToo press moment.",
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1078.1",
+        "A-1080.1"
+      ],
+      "related_claims": [
+        "C-1115"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "uncertainty_note": "Last name not given in transcript."
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1067",
+      "ref": "N-1067",
+      "name": "Charlie Kirk Death and Memorial",
+      "type": "topic",
+      "description": "The death event and subsequent memorial episodes; host references seeing the footage and praying for those who took pleasure in it.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "topic_kind": "narrative_pattern"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1068",
+      "ref": "N-1068",
+      "name": "Charlie-Candace Friendship Continuity",
+      "type": "topic",
+      "description": "Host asserts the personal/professional friendship with Charlie Kirk was never broken despite public pressure (Blexit, Israel, Kanye).",
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1077.2",
+        "A-1077.3",
+        "A-1079.2",
+        "A-1079.3"
+      ],
+      "related_claims": [
+        "C-1119",
+        "C-1120"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1069",
+      "ref": "N-1069",
+      "name": "Kanye Tweet About Candace Owens",
+      "type": "topic",
+      "description": "Kanye West's public tweet praising Candace Owens; celebrated by Charlie and Candace as 'manifested' via repeated listening to 'Power.'",
+      "related_artifacts": [
+        "A-1077.1",
+        "A-1080.1"
+      ],
+      "related_claims": [
+        "C-1115",
+        "C-1121",
+        "C-1116"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "event"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1070",
+      "ref": "N-1070",
+      "name": "Charlie Kirk Spiritual Transformation",
+      "type": "topic",
+      "description": "Host claims Charlie was undergoing a spiritual transformation and being pressured over modified positions; flags post-death public commentary as 'fake.'",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1000",
+      "ref": "N-1000",
+      "name": "Turning Point USA",
+      "type": "organization",
+      "description": "Founded by Charlie Kirk; current 501(c)(3); described as the biggest conservative student organization in the world per host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1122"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "advocacy_organization"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1071",
+      "ref": "N-1071",
+      "name": "Fox News",
+      "type": "organization",
+      "description": "Charlie's rule was 'never say no to Fox News'; described as 4 hits/day including 4am Fox and Friends First.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1122"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "media_outlet"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1072",
+      "ref": "N-1072",
+      "name": "Republican National Committee (RNC)",
+      "type": "organization",
+      "description": "Charlie Kirk at age 23 told Candace he planned to take control of the RNC.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1122"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "political_party"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1073",
+      "ref": "N-1073",
+      "name": "YWLS Conference",
+      "type": "organization",
+      "description": "Conference concurrent with the 'him too' / #MeToo press incident; reporters swooped in on Candace's statements.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1118"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "conference",
+      "uncertainty_note": "Acronym not expanded in transcript."
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1074",
+      "ref": "N-1074",
+      "name": "Philadelphia",
+      "type": "place",
+      "description": "Site of Antifa incident at a restaurant where Charlie and Candace were chased out.",
+      "related_artifacts": [
+        "A-1077.3"
+      ],
+      "related_claims": [
+        "C-1118"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "place_kind": "city"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1075",
+      "ref": "N-1075",
+      "name": "Chicago O'Hare Airport",
+      "type": "place",
+      "description": "Site of first planning session between Charlie and Candace at Macaroni Grill restaurant.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1122"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "place_kind": "venue"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1115",
+      "ref": "C-1115",
+      "label": "Kanye tweet about Candace was celebrated backstage",
+      "claim": "Following Kanye West's tweet praising Candace Owens, Charlie and Candace celebrated backstage doing a 'Charlie dance,' as documented in a shown video clip.",
+      "anchored_artifacts": [
+        "A-1077.1",
+        "A-1078.1",
+        "A-1080.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-7",
+        "N-56",
+        "N-1069",
+        "N-60",
+        "N-61",
+        "N-62",
+        "N-63",
+        "N-42",
+        "N-64"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:32",
+      "investigative_direction": "Verify the exact date of the Kanye tweet and cross-reference with the shown backstage clip timestamp.",
+      "transcript_snippet": "I found a clip of us backstage on that day when that tweet happened…",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1116",
+      "ref": "C-1116",
+      "label": "Charlie's relationship with Kanye included gift of Yeezys",
+      "claim": "Charlie Kirk was gifted a pair of Yeezys by Kanye West and was photographed wearing them, per a photo shown in the episode.",
+      "anchored_artifacts": [
+        "A-1078.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-56",
+        "N-1069"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:29",
+      "investigative_direction": "Verify the Yeezys gift claim against Kanye West's public statements or social media.",
+      "transcript_snippet": "He was wearing a pair of Yeezys that Kanye gave him and he looked really cool.",
+      "confidence": "medium",
+      "uncertainty_note": "Photo shown but specific source/date of gift not independently confirmed."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1117",
+      "ref": "C-1117",
+      "label": "Charlie and Candace drove 8 hours from NC/SC to DC during a hurricane",
+      "claim": "When flights were cancelled during a hurricane, Charlie and Candace rented a car and drove 8 hours to reach DC by morning, per a road-trip audio clip shown.",
+      "anchored_artifacts": [
+        "A-1077.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:38",
+      "investigative_direction": "Cross-reference hurricane event dates in NC/SC to narrow the trip timeframe.",
+      "transcript_snippet": "We got to rent a car. We got to drive eight hours. One of the most fun road trips I've had in my life.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1118",
+      "ref": "C-1118",
+      "label": "Charlie was egged by Antifa at a Philadelphia restaurant",
+      "claim": "Charlie Kirk and Candace Owens were chased out of a Philadelphia restaurant by Antifa, who threw water and an egg at Charlie, per a video clip shown.",
+      "anchored_artifacts": [
+        "A-1077.3"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-7",
+        "N-1074"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:07",
+      "investigative_direction": "Identify the restaurant and date via news reports of the incident.",
+      "transcript_snippet": "We got chased out of a Philadelphia restaurant by Antifa and they threw water and they threw an egg on Charlie.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1119",
+      "ref": "C-1119",
+      "label": "Charlie approved of George after one evening in the UK",
+      "claim": "After a single evening with Candace's then-boyfriend George in the UK, Charlie Kirk texted that George and Candace were 'meant for each other,' per a shown text chain.",
+      "anchored_artifacts": [
+        "A-1079.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-7",
+        "N-59",
+        "N-1068"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:09",
+      "investigative_direction": "Verify the UK trip date and the text chain contents against any saved screenshots.",
+      "transcript_snippet": "His heart is wonderful. You guys are meant for each other. I see it brilliantly and clearly.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1120",
+      "ref": "C-1120",
+      "label": "Candace joked Erika should marry Charlie for the last name upgrade",
+      "claim": "A text chain between Charlie and Candace jokes that Erika Frantzey should marry Charlie Kirk because 'Kirk' sounds better than 'Frantzey,' per a shown text exchange.",
+      "anchored_artifacts": [
+        "A-1079.3"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-7",
+        "N-2",
+        "N-1068"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:23",
+      "investigative_direction": "Confirm the text chain timing predates the Kirk/Frantzey marriage announcement.",
+      "transcript_snippet": "Marry me. It's a logistics thing. Mrs. Erika Kirk sounds so much better than Mrs. Eric.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1121",
+      "ref": "C-1121",
+      "label": "Kanye's Power was the TPUSA tour hype song",
+      "claim": "Kanye West's 'Power' became the de facto theme/hype song for the Turning Point USA tour, played before stage events and during pre-event prep, per multiple playbacks in the episode.",
+      "anchored_artifacts": [
+        "A-1077.1",
+        "A-1080.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-7",
+        "N-56",
+        "N-1069"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:10",
+      "investigative_direction": "Verify through other tour-event footage whether 'Power' was consistently used as hype music.",
+      "transcript_snippet": "Kanye's Power kind of became our theme song for the tour.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1122",
+      "ref": "C-1122",
+      "label": "Charlie intended to take over the RNC at age 23",
+      "claim": "At age 23, Charlie Kirk told Candace Owens during a Macaroni Grill planning session that he planned to take over the RNC.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1",
+        "N-7",
+        "N-1000",
+        "N-1072",
+        "N-1075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:02",
+      "investigative_direction": "Cross-reference any other contemporaneous accounts of this stated ambition; flag as self-reported through host.",
+      "transcript_snippet": "Then I'm going to probably take control of the RNC. I mean, he's 23 years old, right?",
+      "confidence": "low",
+      "uncertainty_note": "No artifact shown backing this anecdote; relies entirely on host recollection."
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 1,
+          "video_timestamp": "00:20:15",
+          "speaker_node_ref": "N-7",
+          "quote": "Never for a single minute ever did Charlie and I stop being friends. Our relationship was forged in fire.",
+          "context": "Closing emotional affirmation of friendship continuity after Charlie Kirk's death.",
+          "confidence": "high",
+          "tags": [
+            "memorial_tone",
+            "emotional_framing"
+          ]
+        },
+        {
+          "episode": 1,
+          "video_timestamp": "00:22:59",
+          "speaker_node_ref": "N-7",
+          "quote": "I will never unsee the footage of what I saw, the violence of it. I pray for the people who took any pleasure in that.",
+          "context": "Direct grief-stricken commentary on the assassination footage.",
+          "confidence": "high",
+          "tags": [
+            "memorial_tone",
+            "death_event"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-5",
+      "ref": "M-5",
+      "canonical_term": "happy coincidence",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 1,
+          "video_timestamp": "00:11:25",
+          "speaker_node_ref": "N-7",
+          "quote": "We were 100% we manifested this by listening to Power on repeat.",
+          "context": "After Kanye tweeted 'I love the way Candace Owens thinks' shortly after they had been listening to Kanye's music on repeat.",
+          "confidence": "high",
+          "tags": [
+            "manifestation_framing"
+          ]
+        },
+        {
+          "episode": 1,
+          "video_timestamp": "00:19:56",
+          "speaker_node_ref": "N-7",
+          "quote": "Our plan worked. We broke Erika down. First came the name shame, then came the wedding, then came the children.",
+          "context": "Frames the Erika Kirk relationship outcome as the deliberate result of a comedic 'plan' rather than organic romantic development.",
+          "confidence": "medium",
+          "tags": [
+            "plan_framing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-7",
+      "ref": "M-7",
+      "canonical_term": "Catholic/Evangelical/Jewish identity flip",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 1,
+          "video_timestamp": "00:22:08",
+          "speaker_node_ref": "N-7",
+          "quote": "I think in the end Charlie was going through a spiritual transformation. He was going through a lot and there was a lot of pressure.",
+          "context": "Host introduces a 'spiritual transformation' narrative without specifying the direction or destination; flags outside pressure as hostile.",
+          "confidence": "high",
+          "tags": [
+            "spiritual_framing",
+            "unspecified_direction"
+          ]
+        }
+      ]
+    }
+  ]
+}

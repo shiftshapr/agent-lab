@@ -1,0 +1,1975 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 6,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–01:05:01",
+    "extraction_timestamp": "2026-09-23T19:38:45Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "cbb9e2999e01f3fb5d31c3a20cfcda260ac22c9115d386f6ca88119e0d45131e",
+    "analysis_date": "2026-09-23",
+    "monument": "cka",
+    "youtube_id": "aDlhjfW6hz8",
+    "candace_ep_number": 239,
+    "kind": "numbered_show"
+  },
+  "executive_summary": "Episode centers on 'cameragate' - post-shooting footage of two unidentified men at the scene, with one removing a camera and apparent SD/SIM card. Host claims personal contact with the camera-handler and FaceTime viewing of behind-shot footage showing no blood. Threads: Senate resolution for Charlie Kirk Remembrance Day, Pam Bondi hate-speech remarks, Jimmy Kimmel suspension and FCC threat, alleged Israel-linked media campaign against Owens, and TPUSA financial apparatus investigation.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1120",
+      "family_ref": "A-1120",
+      "bundle_name": "Cameragate Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1120.1",
+          "ref": "A-1120.1",
+          "description": "Wide-angle post-shooting footage showing individual on rocks near car calmly talking on phone",
+          "related_claims": [
+            "C-1206"
+          ],
+          "related_nodes": [
+            "N-118",
+            "N-1"
+          ],
+          "tags": [],
+          "video_timestamp": "00:02:59–00:03:41",
+          "transcript_snippet": "right there, an individual standing there... calmly talking into their phone",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1120.2",
+          "ref": "A-1120.2",
+          "description": "Closer footage of two men pulling Charlie's chair, standing on it, removing camera above his head",
+          "related_claims": [
+            "C-1205"
+          ],
+          "related_nodes": [
+            "N-118",
+            "N-1"
+          ],
+          "tags": [],
+          "video_timestamp": "00:04:39–00:05:29",
+          "transcript_snippet": "He pulls out the chair. He stands on it. And yes, that would be a big no no for a crime scene",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1120.3",
+          "ref": "A-1120.3",
+          "description": "Footage showing individual removing SD or SIM card from removed camera",
+          "related_claims": [
+            "C-1207"
+          ],
+          "related_nodes": [
+            "N-118"
+          ],
+          "tags": [],
+          "video_timestamp": "00:05:42–00:05:55",
+          "transcript_snippet": "it looks like he removes the SIM card from it or the SD card if you will",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1121",
+      "family_ref": "A-1121",
+      "bundle_name": "Senate Resolution Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1121.1",
+          "ref": "A-1121.1",
+          "description": "Senate bipartisan resolution designating October 14 as Charlie Kirk Remembrance Day",
+          "related_claims": [
+            "C-1210"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1131",
+            "N-1147"
+          ],
+          "tags": [],
+          "video_timestamp": "00:00:57–00:01:10",
+          "transcript_snippet": "the Senate has voted and they have passed a bipartisan resolution to designate October 14th",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1122",
+      "family_ref": "A-1122",
+      "bundle_name": "TPUSA Insider Communication Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1122.1",
+          "ref": "A-1122.1",
+          "description": "Host's text message exchange with camera individual explaining his actions",
+          "related_claims": [
+            "C-1208"
+          ],
+          "related_nodes": [
+            "N-118",
+            "N-1000"
+          ],
+          "tags": [],
+          "video_timestamp": "00:07:15–00:08:48",
+          "transcript_snippet": "I was sitting right to the left of Charlie... I better secure the footage... hand it to the feds",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1122.2",
+          "ref": "A-1122.2",
+          "description": "FaceTime call in which the camera individual shows host the behind-shot footage on his computer",
+          "related_claims": [
+            "C-1209"
+          ],
+          "related_nodes": [
+            "N-118",
+            "N-2",
+            "N-1"
+          ],
+          "tags": [],
+          "video_timestamp": "00:11:47–00:15:27",
+          "transcript_snippet": "he will get onto a FaceTime call with me and he will show me the footage on his computer",
+          "confidence": "medium",
+          "uncertainty_note": "Underlying footage not shown in episode; relies on host's account."
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1123",
+      "family_ref": "A-1123",
+      "bundle_name": "Caldera Engineering Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1123.1",
+          "ref": "A-1123.1",
+          "description": "Viewer email detailing valves as critical infrastructure monitored by intelligence agencies (CISA, NSA, FERC)",
+          "related_claims": [
+            "C-1217",
+            "C-1218"
+          ],
+          "related_nodes": [
+            "N-1130",
+            "N-1132",
+            "N-1133",
+            "N-1134"
+          ],
+          "tags": [],
+          "video_timestamp": "00:19:25–00:21:25",
+          "transcript_snippet": "Valves as critical infrastructure assets... intelligence agencies, CISA, NSA, FERC monitor valve networks",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1124",
+      "family_ref": "A-1124",
+      "bundle_name": "Daily Mail Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1124.1",
+          "ref": "A-1124.1",
+          "description": "Daily Mail article by Victoria Churchill headlined 'Candace Owens rages after being snubbed from Kirk memorial'",
+          "related_claims": [
+            "C-1211",
+            "C-1219"
+          ],
+          "related_nodes": [
+            "N-119",
+            "N-1135"
+          ],
+          "tags": [],
+          "video_timestamp": "00:28:50–00:29:03",
+          "transcript_snippet": "Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1125",
+      "family_ref": "A-1125",
+      "bundle_name": "PBD Podcast Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1125.1",
+          "ref": "A-1125.1",
+          "description": "PBD podcast clip featuring Bill Aman and Andrew Kovit discussing Candace's TPUSA involvement",
+          "related_claims": [
+            "C-1212",
+            "C-1213"
+          ],
+          "related_nodes": [
+            "N-88",
+            "N-66",
+            "N-42",
+            "N-1000"
+          ],
+          "tags": [],
+          "video_timestamp": "00:29:57–00:31:32",
+          "transcript_snippet": "When's the last time you saw Candace Owens in person? 2015, 2016... she's not even invited",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1126",
+      "family_ref": "A-1126",
+      "bundle_name": "Pam Bondi Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1126.1",
+          "ref": "A-1126.1",
+          "description": "Pam Bondi on Katie Miller podcast stating government will target hate speech",
+          "related_claims": [
+            "C-1214"
+          ],
+          "related_nodes": [
+            "N-120",
+            "N-121",
+            "N-1145"
+          ],
+          "tags": [],
+          "video_timestamp": "00:41:44–00:42:14",
+          "transcript_snippet": "we will absolutely target you, go after you if you are targeting anyone with hate speech",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1127",
+      "family_ref": "A-1127",
+      "bundle_name": "Jimmy Kimmel Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1127.1",
+          "ref": "A-1127.1",
+          "description": "Jimmy Kimmel monologue joking about Trump's grief 'construction' stage",
+          "related_claims": [
+            "C-1215"
+          ],
+          "related_nodes": [
+            "N-122",
+            "N-79"
+          ],
+          "tags": [],
+          "video_timestamp": "00:46:28–00:47:52",
+          "transcript_snippet": "He's at the fourth stage of grief, construction... This is how a four-year-old mourns a goldfish",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1127.2",
+          "ref": "A-1127.2",
+          "description": "Kimmel's Instagram post calling Kirk shooting 'senseless gun violence'",
+          "related_claims": [
+            "C-1216"
+          ],
+          "related_nodes": [
+            "N-122",
+            "N-2"
+          ],
+          "tags": [],
+          "video_timestamp": "00:49:31–00:49:58",
+          "transcript_snippet": "can we just for one day agree that it's horrible and monstrous to shoot another person",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1128",
+      "family_ref": "A-1128",
+      "bundle_name": "FCC Brendan Carr Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1128.1",
+          "ref": "A-1128.1",
+          "description": "FCC Chairman Brendan Carr on Benny Johnson show threatening federal action against ABC affiliates carrying Kimmel",
+          "related_claims": [
+            "C-1220"
+          ],
+          "related_nodes": [
+            "N-123",
+            "N-124",
+            "N-1136",
+            "N-1145"
+          ],
+          "tags": [],
+          "video_timestamp": "00:50:41–00:51:35",
+          "transcript_snippet": "Brendan Carr... threatened federal action against ABC affiliates who carried the show",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1129",
+      "family_ref": "A-1129",
+      "bundle_name": "Charlie Kirk May Communication Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1129.1",
+          "ref": "A-1129.1",
+          "description": "Charlie Kirk's tweet defending Milgram and Lachinsky and pushing back against speech restrictions",
+          "related_claims": [
+            "C-1221"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-125",
+            "N-126"
+          ],
+          "tags": [],
+          "video_timestamp": "00:39:19–00:39:44",
+          "transcript_snippet": "after the assassination of Sarah Mgram and Yuron Lachinsky... these were beautiful people",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1129.2",
+          "ref": "A-1129.2",
+          "description": "Host's text exchange with Charlie Kirk dated May 22 about speech censorship",
+          "related_claims": [
+            "C-1222"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7"
+          ],
+          "tags": [],
+          "video_timestamp": "00:39:01–00:40:17",
+          "transcript_snippet": "speech censorship is coming to America... the date here is May 22nd of this year",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1130",
+      "family_ref": "A-1130",
+      "bundle_name": "TPUSA Speaking Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1130.1",
+          "ref": "A-1130.1",
+          "description": "Footage of Candace Owens speaking on Turning Point USA stage from prior tour/conference",
+          "related_claims": [
+            "C-1223"
+          ],
+          "related_nodes": [
+            "N-7",
+            "N-1000"
+          ],
+          "tags": [],
+          "video_timestamp": "00:33:03–00:34:36",
+          "transcript_snippet": "Here is me speaking on Turning Point USA's stage last year... America first. First name America, last name first",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1130.2",
+          "ref": "A-1130.2",
+          "description": "Live Free Tour promotional material featuring Charlie Kirk and Candace Owens",
+          "related_claims": [
+            "C-1223"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7",
+            "N-1000"
+          ],
+          "tags": [],
+          "video_timestamp": "00:35:07–00:35:20",
+          "transcript_snippet": "Live free tour. Charlie Kirk and Candace Owens",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1131",
+      "family_ref": "A-1131",
+      "bundle_name": "Robinson-Lance Text Chain Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1131.1",
+          "ref": "A-1131.1",
+          "description": "FBI-released text exchange between accused shooter Tyler Robinson and his partner Lance",
+          "related_claims": [
+            "C-1224"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-106",
+            "N-1137"
+          ],
+          "tags": [],
+          "video_timestamp": "00:53:48–00:55:59",
+          "transcript_snippet": "ridiculous madeup text chain between Tyler Robinson and his lover Lance... what went wrong? FBI",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1132",
+      "family_ref": "A-1132",
+      "bundle_name": "Parody Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1132.1",
+          "ref": "A-1132.1",
+          "description": "Chris Olsen Instagram parody clip mocking the Robinson-Lance FBI text chain",
+          "related_claims": [
+            "C-1225"
+          ],
+          "related_nodes": [
+            "N-123"
+          ],
+          "tags": [],
+          "video_timestamp": "00:54:17–00:54:55",
+          "transcript_snippet": "Good day, my love. I have just committed one of the highest sins of the Lord. Murder",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1133",
+      "family_ref": "A-1133",
+      "bundle_name": "Dairy Queen Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1133.1",
+          "ref": "A-1133.1",
+          "description": "Dairy Queen surveillance photo referenced by host; dated post-August 31 via maple cookie shake ad",
+          "related_claims": [
+            "C-1226"
+          ],
+          "related_nodes": [
+            "N-69"
+          ],
+          "tags": [],
+          "video_timestamp": "00:56:34–01:01:53",
+          "transcript_snippet": "maple cookie shake... they began advertising on August 31st... absolutely earliest is August 31st",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host and primary investigator in the Candace Kirk Archive series",
+      "related_artifacts": [
+        "A-1120.1",
+        "A-1122.1",
+        "A-1122.2",
+        "A-1129.2",
+        "A-1130.1",
+        "A-1130.2"
+      ],
+      "related_claims": [
+        "C-1208",
+        "C-1222",
+        "C-1223",
+        "C-1212",
+        "C-1213"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Deceased; subject of assassination investigation and namesake of remembrance resolution",
+      "related_artifacts": [
+        "A-1120.1",
+        "A-1120.2",
+        "A-1121.1",
+        "A-1129.1",
+        "A-1129.2",
+        "A-1130.2"
+      ],
+      "related_claims": [
+        "C-1205",
+        "C-1210",
+        "C-1221",
+        "C-1222",
+        "C-1206",
+        "C-1209",
+        "C-1223"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-118",
+      "ref": "N-118",
+      "name": "Unidentified camera individual",
+      "type": "person",
+      "description": "Man seen handling camera at scene and corresponding with host; identity disclosed to host by TPUSA insider",
+      "related_artifacts": [
+        "A-1120.1",
+        "A-1120.2",
+        "A-1120.3",
+        "A-1122.1",
+        "A-1122.2"
+      ],
+      "related_claims": [
+        "C-1205",
+        "C-1206",
+        "C-1207",
+        "C-1208",
+        "C-1209"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Charlie's widow; named as protective reason for withholding behind footage",
+      "related_artifacts": [
+        "A-1122.2",
+        "A-1127.2"
+      ],
+      "related_claims": [
+        "C-1209",
+        "C-1216"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Accused shooter of Charlie Kirk; subject of FBI-released text chain",
+      "related_artifacts": [
+        "A-1131.1",
+        "A-1133.1"
+      ],
+      "related_claims": [
+        "C-1224",
+        "C-1226",
+        "C-1225"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-106",
+      "ref": "N-106",
+      "name": "Lance",
+      "type": "person",
+      "description": "Robinson's partner; recipient of FBI-released text chain",
+      "related_artifacts": [
+        "A-1131.1"
+      ],
+      "related_claims": [
+        "C-1224",
+        "C-1225"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-119",
+      "ref": "N-119",
+      "name": "Victoria Churchill",
+      "type": "person",
+      "description": "Daily Mail journalist who authored Kirk memorial snub article; alleged APAC connection",
+      "related_artifacts": [
+        "A-1124.1"
+      ],
+      "related_claims": [
+        "C-1211",
+        "C-1219"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Guest on PBD podcast claiming Candace's credibility is failing",
+      "related_artifacts": [
+        "A-1125.1"
+      ],
+      "related_claims": [
+        "C-1212"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Self-identified TPUSA board member stating he last saw Candace in 2015/2016",
+      "related_artifacts": [
+        "A-1125.1"
+      ],
+      "related_claims": [
+        "C-1213"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-88",
+      "ref": "N-88",
+      "name": "Patrick Bet-David",
+      "type": "person",
+      "description": "Podcast host whose platform carried the Bill Aman/Kovit segment",
+      "related_artifacts": [
+        "A-1125.1"
+      ],
+      "related_claims": [
+        "C-1212",
+        "C-1213"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-120",
+      "ref": "N-120",
+      "name": "Pam Bondi",
+      "type": "person",
+      "description": "Federal official whose hate-speech remarks are read/played in episode",
+      "related_artifacts": [
+        "A-1126.1"
+      ],
+      "related_claims": [
+        "C-1214"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-121",
+      "ref": "N-121",
+      "name": "Katie Miller",
+      "type": "person",
+      "description": "Podcast host who interviewed Pam Bondi on hate speech remarks",
+      "related_artifacts": [
+        "A-1126.1"
+      ],
+      "related_claims": [
+        "C-1214"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-122",
+      "ref": "N-122",
+      "name": "Jimmy Kimmel",
+      "type": "person",
+      "description": "Late-night host suspended over Charlie Kirk remarks",
+      "related_artifacts": [
+        "A-1127.1",
+        "A-1127.2"
+      ],
+      "related_claims": [
+        "C-1215",
+        "C-1216"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-123",
+      "ref": "N-123",
+      "name": "Chris Olsen",
+      "type": "person",
+      "description": "Instagram/TikTok creator who posted parody clip of Robinson-Lance text chain",
+      "related_artifacts": [
+        "A-1132.1"
+      ],
+      "related_claims": [
+        "C-1225"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-124",
+      "ref": "N-124",
+      "name": "Benny Johnson",
+      "type": "person",
+      "description": "Host on whose show Brendan Carr made FCC remarks",
+      "related_artifacts": [
+        "A-1128.1"
+      ],
+      "related_claims": [
+        "C-1220"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-125",
+      "ref": "N-125",
+      "name": "Sarah Milgram",
+      "type": "person",
+      "description": "Person referenced in Charlie Kirk's May tweet as recently assassinated",
+      "related_artifacts": [
+        "A-1129.1"
+      ],
+      "related_claims": [
+        "C-1221"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-126",
+      "ref": "N-126",
+      "name": "Yuron Lachinsky",
+      "type": "person",
+      "description": "Person referenced in Charlie Kirk's May tweet as recently assassinated",
+      "related_artifacts": [
+        "A-1129.1"
+      ],
+      "related_claims": [
+        "C-1221"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-127",
+      "ref": "N-127",
+      "name": "Brendan Carr",
+      "type": "person",
+      "description": "FCC Chairman who threatened federal action against ABC affiliates carrying Kimmel",
+      "related_artifacts": [
+        "A-1128.1"
+      ],
+      "related_claims": [
+        "C-1220"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Israeli PM; named by host as directing speech-law influence and attacks on Candace",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1227"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-99",
+      "ref": "N-99",
+      "name": "Skyler",
+      "type": "person",
+      "description": "Host's assistant referenced during bullet-search discussion",
+      "related_artifacts": [
+        "A-1120.2"
+      ],
+      "related_claims": [
+        "C-1205"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Commentator referenced in Charlie Kirk text exchange about Israel/free speech",
+      "related_artifacts": [
+        "A-1120.2"
+      ],
+      "related_claims": [
+        "C-1205"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Commentator referenced alongside Megan in text discussion",
+      "related_artifacts": [
+        "A-1120.2"
+      ],
+      "related_claims": [
+        "C-1205"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-107",
+      "ref": "N-107",
+      "name": "Eric Bowling",
+      "type": "person",
+      "description": "Commentator referenced as having a theory about PBD/Israel coordination",
+      "related_artifacts": [
+        "A-1120.2"
+      ],
+      "related_claims": [
+        "C-1205"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-79",
+      "ref": "N-79",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; subject of Kimmel's grief jokes; accused by host of being occupied by Zionists",
+      "related_artifacts": [
+        "A-1127.1"
+      ],
+      "related_claims": [
+        "C-1215"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-115",
+      "ref": "N-115",
+      "name": "Harley Pastnic",
+      "type": "person",
+      "description": "Referenced as prior investigation target whose family had valve/pipe industry background",
+      "related_artifacts": [
+        "A-1120.2"
+      ],
+      "related_claims": [
+        "C-1205"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1000",
+      "ref": "N-1000",
+      "name": "Turning Point USA",
+      "type": "organization",
+      "description": "Charlie Kirk's organization; site of speaking tour and current financial-apparatus investigation",
+      "related_artifacts": [
+        "A-1122.1",
+        "A-1125.1",
+        "A-1130.1",
+        "A-1130.2"
+      ],
+      "related_claims": [
+        "C-1208",
+        "C-1213",
+        "C-1223"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "organization_kind": "nonprofit"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1130",
+      "ref": "N-1130",
+      "name": "Caldera Engineering",
+      "type": "organization",
+      "description": "Provo, Utah valve manufacturer; subject of intelligence-community link speculation",
+      "related_artifacts": [
+        "A-1123.1"
+      ],
+      "related_claims": [
+        "C-1217",
+        "C-1218"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "organization_kind": "company"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1131",
+      "ref": "N-1131",
+      "name": "United States Senate",
+      "type": "organization",
+      "description": "Body that passed bipartisan Charlie Kirk Remembrance Day resolution",
+      "related_artifacts": [
+        "A-1121.1"
+      ],
+      "related_claims": [
+        "C-1210"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "government_agency"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1132",
+      "ref": "N-1132",
+      "name": "CISA",
+      "type": "organization",
+      "description": "Cybersecurity agency listed by viewer email as monitoring valve networks",
+      "related_artifacts": [
+        "A-1123.1"
+      ],
+      "related_claims": [
+        "C-1217"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "government_agency"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1133",
+      "ref": "N-1133",
+      "name": "NSA",
+      "type": "organization",
+      "description": "Intelligence agency listed by viewer email as monitoring valve networks",
+      "related_artifacts": [
+        "A-1123.1"
+      ],
+      "related_claims": [
+        "C-1217"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "government_agency"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1134",
+      "ref": "N-1134",
+      "name": "FERC",
+      "type": "organization",
+      "description": "Federal Energy Regulatory Commission cited as valve-network monitor",
+      "related_artifacts": [
+        "A-1123.1"
+      ],
+      "related_claims": [
+        "C-1217"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "government_agency"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1135",
+      "ref": "N-1135",
+      "name": "Daily Mail",
+      "type": "organization",
+      "description": "Publisher of Victoria Churchill's Kirk memorial article",
+      "related_artifacts": [
+        "A-1124.1"
+      ],
+      "related_claims": [
+        "C-1211"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "media_outlet"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1136",
+      "ref": "N-1136",
+      "name": "ABC",
+      "type": "organization",
+      "description": "Network whose affiliates were threatened with FCC action over Kimmel",
+      "related_artifacts": [
+        "A-1128.1"
+      ],
+      "related_claims": [
+        "C-1220"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "media_outlet"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1137",
+      "ref": "N-1137",
+      "name": "FBI",
+      "type": "organization",
+      "description": "Agency that released Robinson-Lance text chain later mocked by host",
+      "related_artifacts": [
+        "A-1131.1"
+      ],
+      "related_claims": [
+        "C-1224"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "government_agency"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1138",
+      "ref": "N-1138",
+      "name": "FCC",
+      "type": "organization",
+      "description": "Federal Communications Commission; chair threatened affiliate action",
+      "related_artifacts": [
+        "A-1128.1"
+      ],
+      "related_claims": [
+        "C-1220"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "government_agency"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1139",
+      "ref": "N-1139",
+      "name": "APAC",
+      "type": "organization",
+      "description": "Pro-Israel lobbying group alleged to employ Victoria Churchill",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1219"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "advocacy_group"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1077",
+      "ref": "N-1077",
+      "name": "Utah Valley University",
+      "type": "place",
+      "description": "University with alleged CIA pipeline mentioned by host",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "place_kind": "venue"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1140",
+      "ref": "N-1140",
+      "name": "Provo, Utah",
+      "type": "place",
+      "description": "Home city of Caldera Engineering",
+      "related_artifacts": [
+        "A-1123.1"
+      ],
+      "related_claims": [
+        "C-1218"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "place_kind": "city"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1141",
+      "ref": "N-1141",
+      "name": "White House",
+      "type": "place",
+      "description": "Subject of Kimmel's construction-stage grief joke",
+      "related_artifacts": [
+        "A-1127.1"
+      ],
+      "related_claims": [
+        "C-1215"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "place_kind": "venue"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1091",
+      "ref": "N-1091",
+      "name": "Israel",
+      "type": "place",
+      "description": "Country repeatedly cited as influencing US speech law and media",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1227"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "place_kind": "country"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1142",
+      "ref": "N-1142",
+      "name": "Cameragate Investigation",
+      "type": "topic",
+      "description": "Investigation into two unidentified men handling the post-shooting camera and chair",
+      "related_artifacts": [
+        "A-1120.1",
+        "A-1120.2",
+        "A-1120.3",
+        "A-1122.1",
+        "A-1122.2"
+      ],
+      "related_claims": [
+        "C-1205",
+        "C-1206",
+        "C-1207",
+        "C-1209"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1143",
+      "ref": "N-1143",
+      "name": "Robinson-Lance Text Chain Authenticity",
+      "type": "topic",
+      "description": "Discrepancy over whether FBI-released text messages between Robinson and Lance are genuine",
+      "related_artifacts": [
+        "A-1131.1",
+        "A-1132.1"
+      ],
+      "related_claims": [
+        "C-1224",
+        "C-1225"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "discrepancy"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1144",
+      "ref": "N-1144",
+      "name": "TPUSA Financial Apparatus Investigation",
+      "type": "topic",
+      "description": "Host's announced deep-dive into TPUSA donors/sponsors/influencer takeover",
+      "related_artifacts": [
+        "A-1125.1",
+        "A-1129.1",
+        "A-1129.2",
+        "A-1130.1",
+        "A-1130.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1145",
+      "ref": "N-1145",
+      "name": "Hate Speech Legislation Push",
+      "type": "topic",
+      "description": "Discourse over post-Kirk-assassination hate-speech laws and FCC enforcement threats",
+      "related_artifacts": [
+        "A-1126.1",
+        "A-1127.1",
+        "A-1127.2",
+        "A-1128.1"
+      ],
+      "related_claims": [
+        "C-1214",
+        "C-1220"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1146",
+      "ref": "N-1146",
+      "name": "Valve/Piping Industry Intelligence Connection",
+      "type": "topic",
+      "description": "Speculation that Caldera Engineering and similar firms serve intelligence/infrastructure monitoring roles",
+      "related_artifacts": [
+        "A-1123.1"
+      ],
+      "related_claims": [
+        "C-1217",
+        "C-1218"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1147",
+      "ref": "N-1147",
+      "name": "Israel Influence on US Politics",
+      "type": "topic",
+      "description": "Host's recurring thesis that Israeli actors direct US media and speech-law efforts",
+      "related_artifacts": [
+        "A-1121.1",
+        "A-1124.1"
+      ],
+      "related_claims": [
+        "C-1219",
+        "C-1227"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "narrative_pattern"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1205",
+      "ref": "C-1205",
+      "label": "Two men moved Charlie's chair and removed camera post-shooting",
+      "claim": "Two unidentified men appeared in the immediate aftermath of the shooting and moved Charlie Kirk's chair and the camera positioned above his head.",
+      "anchored_artifacts": [
+        "A-1120.2"
+      ],
+      "related_nodes": [
+        "N-118",
+        "N-1",
+        "N-1142",
+        "N-99",
+        "N-75",
+        "N-50",
+        "N-107",
+        "N-115"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:50",
+      "investigative_direction": "Identify both individuals via facial recognition, witness statements, and cross-reference against footage metadata.",
+      "transcript_snippet": "that same individual appears alongside another individual and he moves Charlie's chair",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1206",
+      "ref": "C-1206",
+      "label": "Individual calmly talked on phone near car immediately after shooting",
+      "claim": "An individual was standing near the car where Charlie was taken, calmly talking on his phone shortly after the shot.",
+      "anchored_artifacts": [
+        "A-1120.1"
+      ],
+      "related_nodes": [
+        "N-118",
+        "N-1",
+        "N-1142"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:35",
+      "investigative_direction": "Obtain full-resolution copy of wide-angle clip; cross-reference timing against crowd movement logs.",
+      "transcript_snippet": "that person appears to be calmly talking into their phone. It's like a circus around them",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1207",
+      "ref": "C-1207",
+      "label": "Camera individual removed SD/SIM card from camera",
+      "claim": "The individual handling the camera appeared to remove the SD or SIM card from the camera before setting it on the desk.",
+      "anchored_artifacts": [
+        "A-1120.3"
+      ],
+      "related_nodes": [
+        "N-118",
+        "N-1142"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:55",
+      "investigative_direction": "Forensically examine the recovered camera for evidence of card removal and identify any cards removed.",
+      "transcript_snippet": "it looks like he removes the SIM card from it or the SD card if you will",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1208",
+      "ref": "C-1208",
+      "label": "Camera individual claims long TPUSA association",
+      "claim": "The individual who handled the camera told the host he had been around Turning Point USA for years, dating to the host's early tenure.",
+      "anchored_artifacts": [
+        "A-1122.1"
+      ],
+      "related_nodes": [
+        "N-118",
+        "N-1000",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:11",
+      "investigative_direction": "Verify association via TPUSA employee/vendor records and corroborate timeline with other witnesses.",
+      "transcript_snippet": "This person's been around Turning Point for quite some time, for years",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1209",
+      "ref": "C-1209",
+      "label": "Behind-shot footage shown to host contained no blood",
+      "claim": "The footage shown to the host via FaceTime from the rear angle showed no blood or gore.",
+      "anchored_artifacts": [
+        "A-1122.2"
+      ],
+      "related_nodes": [
+        "N-118",
+        "N-1",
+        "N-2",
+        "N-1142"
+      ],
+      "tags": [
+        "crime_scene_evidence"
+      ],
+      "claim_timestamp": "00:12:45",
+      "investigative_direction": "Obtain the underlying behind-shot footage directly and have independent forensic analysts review it.",
+      "transcript_snippet": "there's no blood... there's no blood from the back",
+      "confidence": "medium",
+      "uncertainty_note": "Footage itself not shown in episode; claim rests on host's account of FaceTime viewing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1210",
+      "ref": "C-1210",
+      "label": "Senate passed bipartisan Kirk Remembrance Day resolution",
+      "claim": "The U.S. Senate has voted and passed a bipartisan resolution designating October 14 as Charlie Kirk Remembrance Day.",
+      "anchored_artifacts": [
+        "A-1121.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1131"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:57",
+      "investigative_direction": "Locate the resolution text in the Congressional Record and verify vote tally.",
+      "transcript_snippet": "the Senate has voted and they have passed a bipartisan resolution to designate October 14th",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1211",
+      "ref": "C-1211",
+      "label": "Daily Mail published snub-rage headline about Candace",
+      "claim": "The Daily Mail ran a headline written by Victoria Churchill stating Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster.",
+      "anchored_artifacts": [
+        "A-1124.1"
+      ],
+      "related_nodes": [
+        "N-119",
+        "N-1135"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:03",
+      "investigative_direction": "Verify headline and byline on the Daily Mail site and check publication date.",
+      "transcript_snippet": "Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1212",
+      "ref": "C-1212",
+      "label": "Bill Aman stated Candace's credibility is failing",
+      "claim": "On the PBD podcast, Bill Aman stated that Candace Owens' credibility is going 'down the tubes' because she has not brought receipts.",
+      "anchored_artifacts": [
+        "A-1125.1"
+      ],
+      "related_nodes": [
+        "N-66",
+        "N-88",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:18",
+      "investigative_direction": "Obtain full PBD segment and verify exact quote against published clip.",
+      "transcript_snippet": "her credibility, I mean, is going to go down the tubes because she needs to bring receipts",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1213",
+      "ref": "C-1213",
+      "label": "Andrew Kovit claims last saw Candace at TPUSA in 2015/2016",
+      "claim": "On the PBD podcast, Andrew Kovit, identifying himself as a TPUSA board member, said he last saw Candace Owens in person in 2015 or 2016 and that she has not attended a TPUSA event in many years.",
+      "anchored_artifacts": [
+        "A-1125.1"
+      ],
+      "related_nodes": [
+        "N-42",
+        "N-88",
+        "N-1000",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:38",
+      "investigative_direction": "Cross-reference Kovit's claimed timeline against TPUSA event attendee records and verify his board role.",
+      "transcript_snippet": "When's the last time you saw Candace Owens in person? 2015, 2016",
+      "confidence": "high",
+      "contradicts_claim_refs": [
+        "C-1223"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1214",
+      "ref": "C-1214",
+      "label": "Pam Bondi stated government will target hate speech",
+      "claim": "Pam Bondi told Katie Miller's podcast that the government will 'absolutely target you' for hate speech, citing Charlie Kirk's assassination.",
+      "anchored_artifacts": [
+        "A-1126.1"
+      ],
+      "related_nodes": [
+        "N-120",
+        "N-121",
+        "N-1145"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:14",
+      "investigative_direction": "Verify Bondi's exact remarks against full podcast audio and date.",
+      "transcript_snippet": "we will absolutely target you, go after you if you are targeting anyone with hate speech",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1215",
+      "ref": "C-1215",
+      "label": "Kimmel joked about Trump being in 'construction' grief stage",
+      "claim": "Jimmy Kimmel said Trump was 'at the fourth stage of grief, construction' and compared his mourning to 'a four-year-old mourns a goldfish.'",
+      "anchored_artifacts": [
+        "A-1127.1"
+      ],
+      "related_nodes": [
+        "N-122",
+        "N-79",
+        "N-1141"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:39",
+      "investigative_direction": "Verify exact quote against full Kimmel episode transcript and date.",
+      "transcript_snippet": "He's at the fourth stage of grief, construction... This is how a four-year-old mourns a goldfish",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1216",
+      "ref": "C-1216",
+      "label": "Kimmel Instagrammed condemnation of Kirk shooting",
+      "claim": "Jimmy Kimmel posted on Instagram the day of the shooting calling it 'horrible and monstrous to shoot another person' and sending love to the Kirks.",
+      "anchored_artifacts": [
+        "A-1127.2"
+      ],
+      "related_nodes": [
+        "N-122",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:52",
+      "investigative_direction": "Locate original Instagram post and verify date/time.",
+      "transcript_snippet": "can we just for one day agree that it's horrible and monstrous to shoot another person",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1217",
+      "ref": "C-1217",
+      "label": "Intelligence agencies monitor valve networks per viewer email",
+      "claim": "Per a viewer email, intelligence and regulatory agencies including CISA, NSA, and FERC monitor valve networks and maintain trusted relationships with manufacturers.",
+      "anchored_artifacts": [
+        "A-1123.1"
+      ],
+      "related_nodes": [
+        "N-1130",
+        "N-1132",
+        "N-1133",
+        "N-1134",
+        "N-1146"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:18",
+      "investigative_direction": "Verify public statements and contracts from each named agency regarding valve/SCADA monitoring.",
+      "transcript_snippet": "intelligence and regulatory agencies, the uh CISA, NSA, FERC monitor valve networks",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1218",
+      "ref": "C-1218",
+      "label": "Caldera Engineering manufactures valves in Provo",
+      "claim": "Caldera Engineering is located in Provo, Utah and manufactures specialized industrial valves and control systems, with possible Israel project footprint.",
+      "anchored_artifacts": [
+        "A-1123.1"
+      ],
+      "related_nodes": [
+        "N-1130",
+        "N-1140",
+        "N-1146"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:03",
+      "investigative_direction": "Verify company registration, address, and project portfolio via Utah business filings and the company website.",
+      "transcript_snippet": "companies like Caldera Engineering in Provo, Utah manufacture specialized industrial valves and control systems",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1219",
+      "ref": "C-1219",
+      "label": "Victoria Churchill has APAC connection",
+      "claim": "Victoria Churchill (Daily Mail) has a connection to APAC, with photos showing her at APAC events including a 2018 DC conference.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-119",
+        "N-1139",
+        "N-1147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:46",
+      "investigative_direction": "Verify Churchill's APAC affiliation via APAC event registrations and public photo metadata.",
+      "confidence": "low",
+      "uncertainty_note": "Connection is host's claim based on visible photos; not independently artifact-anchored in this episode."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1220",
+      "ref": "C-1220",
+      "label": "FCC Chair Carr threatened federal action against ABC affiliates",
+      "claim": "FCC Chairman Brendan Carr threatened federal action against ABC affiliates carrying Jimmy Kimmel's show.",
+      "anchored_artifacts": [
+        "A-1128.1"
+      ],
+      "related_nodes": [
+        "N-127",
+        "N-124",
+        "N-1136",
+        "N-1138",
+        "N-1145"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:48",
+      "investigative_direction": "Locate full Carr interview on Benny Johnson show and verify against FCC official statements.",
+      "transcript_snippet": "Brendan Carr... threatened federal action against ABC affiliates who carried the show",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1221",
+      "ref": "C-1221",
+      "label": "Charlie Kirk tweet defended Milgram and Lachinsky",
+      "claim": "Charlie Kirk authored a tweet in May about the assassinations of Sarah Milgram and Yuron Lachinsky, calling them beautiful people and pushing back against speech restrictions.",
+      "anchored_artifacts": [
+        "A-1129.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-125",
+        "N-126"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:44",
+      "investigative_direction": "Locate original Charlie Kirk tweet and verify date and content.",
+      "transcript_snippet": "these were beautiful people. They had their lives ahead of them",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1222",
+      "ref": "C-1222",
+      "label": "Charlie texted Candace on May 22 about speech censorship",
+      "claim": "Charlie Kirk texted host on May 22 saying 'speech censorship is coming to America.'",
+      "anchored_artifacts": [
+        "A-1129.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:17",
+      "investigative_direction": "Verify the text message screenshot metadata and timestamp.",
+      "transcript_snippet": "speech censorship is coming to America... the date here is May 22nd of this year",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1223",
+      "ref": "C-1223",
+      "label": "Candace spoke at TPUSA conferences last year",
+      "claim": "Candace Owens spoke at Turning Point USA conferences and toured with Charlie Kirk on the 'Live Free Tour' last year.",
+      "anchored_artifacts": [
+        "A-1130.1",
+        "A-1130.2"
+      ],
+      "related_nodes": [
+        "N-7",
+        "N-1",
+        "N-1000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:03",
+      "investigative_direction": "Cross-reference TPUSA website archive and event recordings; verify dates.",
+      "transcript_snippet": "Here is me speaking on Turning Point USA's stage last year... Live free tour. Charlie Kirk and Candace Owens",
+      "confidence": "high",
+      "contradicts_claim_refs": [
+        "C-1213"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1224",
+      "ref": "C-1224",
+      "label": "FBI released text chain between Robinson and Lance",
+      "claim": "The FBI released a text exchange between accused shooter Tyler Robinson and his partner Lance that the host characterizes as 'ridiculous madeup.'",
+      "anchored_artifacts": [
+        "A-1131.1"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-106",
+        "N-1137",
+        "N-1143"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:48",
+      "investigative_direction": "Verify authenticity of released text chain via independent forensic analysis and metadata.",
+      "transcript_snippet": "ridiculous madeup text chain between Tyler Robinson and his lover Lance",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1225",
+      "ref": "C-1225",
+      "label": "Chris Olsen posted parody clip of Robinson-Lance texts",
+      "claim": "Creator Chris Olsen posted an Instagram parody clip mocking the FBI-released Robinson-Lance text exchange.",
+      "anchored_artifacts": [
+        "A-1132.1"
+      ],
+      "related_nodes": [
+        "N-123",
+        "N-69",
+        "N-106",
+        "N-1143"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:17",
+      "investigative_direction": "Locate original Olsen Instagram post and verify date.",
+      "transcript_snippet": "Good day, my love. I have just committed one of the highest sins of the Lord. Murder",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1226",
+      "ref": "C-1226",
+      "label": "Dairy Queen photo dated post-August 31",
+      "claim": "The Dairy Queen photo of the suspect could not have been taken before August 31 because the visible maple cookie shake advertisement began then.",
+      "anchored_artifacts": [
+        "A-1133.1"
+      ],
+      "related_nodes": [
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:38",
+      "investigative_direction": "Verify DQ marketing rollout date for the maple cookie shake and confirm poster appears in the photo.",
+      "transcript_snippet": "maple cookie shake... they began advertising on August 31st",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1227",
+      "ref": "C-1227",
+      "label": "Netanyahu stated he would work with US to prosecute Israel critics",
+      "claim": "Host claims Netanyahu said on record that he was working with the U.S. government to put critics of Israel on the wrong side of the law.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-65",
+        "N-1091",
+        "N-1147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:09",
+      "investigative_direction": "Locate the specific Netanyahu clip and verify exact wording and date.",
+      "confidence": "low",
+      "uncertainty_note": "Claim referenced as a findable clip but not shown in this episode."
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-3",
+      "ref": "M-3",
+      "canonical_term": "Trust the Science",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 6,
+          "video_timestamp": "00:26:54",
+          "speaker_node_ref": "N-7",
+          "quote": "according to the CDC's own data, the flu shot is only moderately effective at best, and that's not even accounting for vaccine injuries",
+          "context": "Host subverts Trust the Science meme by citing CDC data against flu shot efficacy",
+          "confidence": "high",
+          "tags": [
+            "subversion",
+            "sponsored_segment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-5",
+      "ref": "M-5",
+      "canonical_term": "happy coincidence",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 6,
+          "video_timestamp": "00:00:57",
+          "speaker_node_ref": "N-7",
+          "quote": "the Senate has voted and they have passed a bipartisan resolution to designate October 14th, which is Charlie's birthday... that is a very government maneuver",
+          "context": "Host frames Senate resolution timing as suspicious government maneuver, echoing M-5 pattern",
+          "confidence": "medium",
+          "tags": [
+            "rhetorical_framing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-6",
+      "ref": "M-6",
+      "canonical_term": "conspiracy theorist",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 6,
+          "video_timestamp": "00:22:45",
+          "speaker_node_ref": "N-7",
+          "quote": "obscene lies that are just so easily fact checked... everyone people that I thought I was friends with are coming after me",
+          "context": "Host describes coordinated media smears against her investigation, consistent with 'conspiracy theorist' dismissal pattern",
+          "confidence": "low",
+          "uncertainty_note": "Pattern invoked implicitly; explicit 'conspiracy theorist' label not directly stated.",
+          "tags": [
+            "rhetorical_framing"
+          ]
+        }
+      ]
+    }
+  ]
+}
