@@ -1,3 +1,11 @@
-# CKA — YouTube links (optional; episode_manifest.json is source of truth)
-# Generate from manifest when fetch batch starts:
-#   jq -r '.episodes[] | .url' input/episode_manifest.json > input/youtube_links.txt
+# CKA seq 1–10 (Batch 1 remap from BoC eps 9–18)
+https://www.youtube.com/watch?v=_dRaEO47-co
+https://www.youtube.com/watch?v=czVBmqZP6Ss
+https://www.youtube.com/watch?v=q7f8r-THr84
+https://www.youtube.com/watch?v=2WEHTk0Xewg
+https://www.youtube.com/watch?v=sreYYcID-QY
+https://www.youtube.com/watch?v=aDlhjfW6hz8
+https://www.youtube.com/watch?v=ja26iltROkM
+https://www.youtube.com/watch?v=UBkFkg4UNY8
+https://www.youtube.com/watch?v=QZWSsq8ZWzw
+https://www.youtube.com/watch?v=K5GjF53bfN4

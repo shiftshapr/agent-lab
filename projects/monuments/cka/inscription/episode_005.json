@@ -1,0 +1,1677 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 5,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–01:15:23",
+    "extraction_timestamp": "2026-09-23T19:35:49Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "b704370251f8857dac366787278287738cc424dfb3e336d044bdb3646f0f1310",
+    "analysis_date": "2026-09-23",
+    "monument": "cka",
+    "youtube_id": "sreYYcID-QY",
+    "candace_ep_number": 238,
+    "kind": "numbered_show"
+  },
+  "executive_summary": "CKA seq 5 advances the Candace Kirk Archive investigation around Tyler Robinson, presenting a purported 6:38 p.m. Dairy Queen photo, the doorbell-cam footage released via TMZ, witness statements from Sherry Steel (BBC) and the Steel family children (Good Morning America), Netanyahu's second denial video, the PBD Eric Bowling clip, Bill Aman's text messages, the pre-event Amazon book, and a Utah artist's 'Charlie Kirk Dead at 31' song. The episode juxtaposes official-fed timeline claims against host-asserted inconsistencies and pushes the local 'vacant house / decoy' theory. Netanyahu's statement is read in full and reframed as Jewish/Christian identity politics. No new physical evidence is shown for the text-message wording claims.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1111",
+      "family_ref": "A-1111",
+      "bundle_name": "Dairy Queen Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1111.1",
+          "ref": "A-1111.1",
+          "description": "Alleged photograph of Tyler Robinson taken at a nearby Dairy Queen at 6:38 p.m. on the day of the Kirk shooting, circulated by locals and presented on screen.",
+          "related_claims": [
+            "C-1186"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-1114",
+            "N-1116"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10T18:38:00",
+          "video_timestamp": "00:06:40–00:09:10",
+          "transcript_snippet": "a very clear image of Tyler Robinson allegedly taken… allegedly taken at 6:38 p.m. at a nearby Dairy Queen.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1112",
+      "family_ref": "A-1112",
+      "bundle_name": "Doorbell Cam Footage Bundle (TMZ Release)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1112.1",
+          "ref": "A-1112.1",
+          "description": "Doorbell-camera / outdoor-camera footage of a person running on a residential street near UVU, broadcast by TMZ on September 10, 2025.",
+          "related_claims": [
+            "C-1189"
+          ],
+          "related_nodes": [
+            "N-108",
+            "N-113",
+            "N-114",
+            "N-1117",
+            "N-1076"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10T08:07:00",
+          "video_timestamp": "00:12:30–00:18:30",
+          "transcript_snippet": "doorbell cam footage… mysteriously made its way to TMZ the morning after Charlie's assassination.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1112.2",
+          "ref": "A-1112.2",
+          "description": "Local-news clip in which Irwin Steel is interviewed in his front yard the morning after the shooting, confirming he shared camera footage with authorities.",
+          "related_claims": [
+            "C-1189",
+            "C-1198"
+          ],
+          "related_nodes": [
+            "N-108",
+            "N-1117"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "00:16:14–00:17:25",
+          "transcript_snippet": "Irwin Steel was another neighbor who was met with officers in his front yard… helping authorities by giving them any footage.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1113",
+      "family_ref": "A-1113",
+      "bundle_name": "BBC Article - Sherry Steel Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1113.1",
+          "ref": "A-1113.1",
+          "description": "BBC news article in which Sherry Steel describes a large police presence outside Tyler Robinson's townhouse while she walked her dog in the evening.",
+          "related_claims": [
+            "C-1190",
+            "C-1199"
+          ],
+          "related_nodes": [
+            "N-109",
+            "N-69",
+            "N-106",
+            "N-1115",
+            "N-1123"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10 (evening)",
+          "video_timestamp": "00:20:55–00:21:35",
+          "transcript_snippet": "Sherry Steel, who lives across the street… came back from an evening walk to see a large police presence.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1114",
+      "family_ref": "A-1114",
+      "bundle_name": "Good Morning America Steel Family Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1114.1",
+          "ref": "A-1114.1",
+          "description": "Good Morning America segment the morning after the Kirk shooting featuring Tiffany Barker, her niece L Steel, and Mia Grant describing their eyewitness account from the UVU event.",
+          "related_claims": [
+            "C-1191"
+          ],
+          "related_nodes": [
+            "N-110",
+            "N-111",
+            "N-112",
+            "N-1",
+            "N-1115",
+            "N-1126"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11",
+          "video_timestamp": "00:23:50–00:27:25",
+          "transcript_snippet": "We're joined now by Tiffany Barker and her nieces L Steel and Mia Grant who were all in the audience yesterday afternoon.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1115",
+      "family_ref": "A-1115",
+      "bundle_name": "Netanyahu Video Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1115.1",
+          "ref": "A-1115.1",
+          "description": "Video statement by Israeli PM Benjamin Netanyahu denying Israeli involvement in Charlie Kirk's murder and quoting a letter he says Kirk sent him about Christianity and Israel.",
+          "related_claims": [
+            "C-1192"
+          ],
+          "related_nodes": [
+            "N-65",
+            "N-1",
+            "N-1121",
+            "N-1128"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09 (post-assassination)",
+          "video_timestamp": "00:40:35–00:42:35",
+          "transcript_snippet": "while somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1116",
+      "family_ref": "A-1116",
+      "bundle_name": "PBD Podcast Eric Bowling Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1116.1",
+          "ref": "A-1116.1",
+          "description": "Clip from the PBD Podcast in which Eric Bowling states Candace Owens has not been at TPUSA events in years and characterises the relationship between Kirk and Owens as a quiet breakup.",
+          "related_claims": [
+            "C-1193",
+            "C-1204"
+          ],
+          "related_nodes": [
+            "N-107",
+            "N-1",
+            "N-50",
+            "N-1124",
+            "N-1000",
+            "N-1121",
+            "N-1122"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09 (post-assassination)",
+          "video_timestamp": "00:47:34–00:49:10",
+          "transcript_snippet": "she's not she's not one of the names… she doesn't speak at the events anymore.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1117",
+      "family_ref": "A-1117",
+      "bundle_name": "Bill Aman Text Messages Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1117.1",
+          "ref": "A-1117.1",
+          "description": "Text messages Bill Aman publicly shared to rebut Candace Owens's claims about a Hamptons trip with Charlie Kirk; host notes messages lack dates/context and do not address her specific assertions.",
+          "related_claims": [
+            "C-1194"
+          ],
+          "related_nodes": [
+            "N-66",
+            "N-1",
+            "N-1121"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09 (post-assassination)",
+          "video_timestamp": "00:46:00–00:47:00",
+          "transcript_snippet": "Blackman published these private text messages… missing from these messages are like a date, a context.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1118",
+      "family_ref": "A-1118",
+      "bundle_name": "Amazon Pre-publication Book Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1118.1",
+          "ref": "A-1118.1",
+          "description": "A book about Charlie Kirk's assassination that was available on Amazon prior to the September 10 event; Amazon issued a 'technical issues' statement and removed the listing.",
+          "related_claims": [
+            "C-1195"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1113"
+          ],
+          "tags": [],
+          "event_timestamp": "Pre-2025-09-10 (per host)",
+          "video_timestamp": "01:10:55–01:11:25",
+          "transcript_snippet": "the book about Charlie's assassination on Amazon that was available the day before it happened… Amazon issued a response blaming technical issues.",
+          "confidence": "medium",
+          "uncertainty_note": "Host attributes to listener tip; producer note supplied"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1119",
+      "family_ref": "A-1119",
+      "bundle_name": "Pre-event Song Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1119.1",
+          "ref": "A-1119.1",
+          "description": "Song titled 'Charlie Kirk Dead at 31' posted online by a Utah-based artist prior to Robinson's identification as suspect; reported removed after attention.",
+          "related_claims": [
+            "C-1196"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-1113"
+          ],
+          "tags": [],
+          "event_timestamp": "Pre-2025-09-12 (per host)",
+          "video_timestamp": "01:11:30–01:11:55",
+          "transcript_snippet": "some artist who posted a song… called like Charlie Kirk Dead at 31… he happens to be from Utah.",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; investigator of the Kirk assassination and subject of the PBD Bowling contradiction.",
+      "related_artifacts": [
+        "A-1116.1",
+        "A-1117.1",
+        "A-1118.1"
+      ],
+      "related_claims": [
+        "C-1193",
+        "C-1200",
+        "C-1201",
+        "C-1204",
+        "C-1194",
+        "C-1202"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Deceased subject of the assassination investigation.",
+      "related_artifacts": [
+        "A-1115.1",
+        "A-1118.1"
+      ],
+      "related_claims": [
+        "C-1192",
+        "C-1195",
+        "C-1191",
+        "C-1194"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Named suspect in Kirk assassination; subject of outfit/language/photo anomalies.",
+      "related_artifacts": [
+        "A-1111.1",
+        "A-1113.1"
+      ],
+      "related_claims": [
+        "C-1186",
+        "C-1187",
+        "C-1188",
+        "C-1196",
+        "C-1197",
+        "C-1190",
+        "C-1198"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-106",
+      "ref": "N-106",
+      "name": "Lance",
+      "type": "person",
+      "description": "Robinson's alleged housemate/co-respondent in the text-message thread.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1187",
+        "C-1188"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Israeli PM; issued video statement denying Israeli involvement in Kirk's murder.",
+      "related_artifacts": [
+        "A-1115.1"
+      ],
+      "related_claims": [
+        "C-1192"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Released text messages with Kirk to rebut Owens's Hamptons claims; host notes messages lack dates/context.",
+      "related_artifacts": [
+        "A-1117.1"
+      ],
+      "related_claims": [
+        "C-1194"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-107",
+      "ref": "N-107",
+      "name": "Eric Bowling",
+      "type": "person",
+      "description": "PBD Podcast guest who claimed Owens has not been at TPUSA events for years and described a 'quiet breakup' with Kirk.",
+      "related_artifacts": [
+        "A-1116.1"
+      ],
+      "related_claims": [
+        "C-1193",
+        "C-1204"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-108",
+      "ref": "N-108",
+      "name": "Irwin Steel",
+      "type": "person",
+      "description": "Local resident interviewed the morning after the shooting; said he shared camera footage with authorities.",
+      "related_artifacts": [
+        "A-1112.2"
+      ],
+      "related_claims": [
+        "C-1189",
+        "C-1203"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-109",
+      "ref": "N-109",
+      "name": "Sherry Steel",
+      "type": "person",
+      "description": "Witness quoted by BBC re police presence at Robinson townhouse; host reports she is unverifiable in building databases.",
+      "related_artifacts": [
+        "A-1113.1"
+      ],
+      "related_claims": [
+        "C-1190",
+        "C-1199"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-110",
+      "ref": "N-110",
+      "name": "Tiffany Barker",
+      "type": "person",
+      "description": "Aunt of two child witnesses; gave GMA interview alongside L Steel and Mia Grant.",
+      "related_artifacts": [
+        "A-1114.1"
+      ],
+      "related_claims": [
+        "C-1191"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-111",
+      "ref": "N-111",
+      "name": "L Steel",
+      "type": "person",
+      "description": "Minor child witness; described hearing the shot and seeing Charlie Kirk fall on GMA.",
+      "related_artifacts": [
+        "A-1114.1"
+      ],
+      "related_claims": [
+        "C-1191"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-112",
+      "ref": "N-112",
+      "name": "Mia Grant",
+      "type": "person",
+      "description": "Minor child witness; second cousin of L Steel; spoke on GMA about being ~15 ft away.",
+      "related_artifacts": [
+        "A-1114.1"
+      ],
+      "related_claims": [
+        "C-1191"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-113",
+      "ref": "N-113",
+      "name": "Samuel Steele",
+      "type": "person",
+      "description": "Co-owner of the house that produced the doorbell-camera footage (per host's property search).",
+      "related_artifacts": [
+        "A-1112.1"
+      ],
+      "related_claims": [
+        "C-1189",
+        "C-1203"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-114",
+      "ref": "N-114",
+      "name": "Carrie Steele",
+      "type": "person",
+      "description": "Wife of Samuel Steele per host; co-owner of the doorbell-camera house.",
+      "related_artifacts": [
+        "A-1112.1"
+      ],
+      "related_claims": [
+        "C-1189",
+        "C-1203"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-115",
+      "ref": "N-115",
+      "name": "Harley Pastnic",
+      "type": "person",
+      "description": "Canadian subject of prior Owens research whose family is in the piping/valve business — cited as a pattern match.",
+      "related_artifacts": [
+        "A-1111.1"
+      ],
+      "related_claims": [
+        "C-1186"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-116",
+      "ref": "N-116",
+      "name": "Joseph Goebbels",
+      "type": "person",
+      "description": "Historical Nazi propagandist quoted by Netanyahu (and re-cited by host) re 'the bigger the lie'.",
+      "related_artifacts": [
+        "A-1111.1"
+      ],
+      "related_claims": [
+        "C-1186"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Widow of Charlie Kirk; host claims she is in 'full control' of memorial planning but is hearing reports of donor interference.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1201"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Named by Owens as recent target of Zionist pressure at TPUSA events.",
+      "related_artifacts": [
+        "A-1116.1"
+      ],
+      "related_claims": [
+        "C-1204"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Referenced by Bowling as 'in the room' at a Hamptons retreat; Owens disputes this characterization.",
+      "related_artifacts": [
+        "A-1116.1"
+      ],
+      "related_claims": [
+        "C-1204"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-117",
+      "ref": "N-117",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "French First Lady reportedly suing Owens; host disputes the legal posture.",
+      "related_artifacts": [
+        "A-1111.1"
+      ],
+      "related_claims": [
+        "C-1186"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1113",
+      "ref": "N-1113",
+      "name": "Charlie Kirk Assassination Investigation",
+      "type": "topic",
+      "description": "Umbrella investigation thread encompassing all episode-13 evidence streams.",
+      "related_artifacts": [
+        "A-1111.1",
+        "A-1112.1",
+        "A-1113.1",
+        "A-1114.1",
+        "A-1118.1",
+        "A-1119.1"
+      ],
+      "related_claims": [
+        "C-1195",
+        "C-1196"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1114",
+      "ref": "N-1114",
+      "name": "Robinson Outfit/Language Anomaly",
+      "type": "topic",
+      "description": "Host asserts text-message phrasing ('squad car', 'outfit', 'Prince') is inconsistent with Robinson's likely profile.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1187",
+        "C-1188"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "discrepancy"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1115",
+      "ref": "N-1115",
+      "name": "Steele Family Orem Cluster",
+      "type": "topic",
+      "description": "Multiple Steele/Steel residents appearing across artifacts (doorbell-cam house, BBC witness, GMA family); host cannot reconcile Sherry Steel against databases.",
+      "related_artifacts": [
+        "A-1112.1",
+        "A-1113.1",
+        "A-1114.1"
+      ],
+      "related_claims": [
+        "C-1189",
+        "C-1190",
+        "C-1199",
+        "C-1191",
+        "C-1203"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1116",
+      "ref": "N-1116",
+      "name": "Dairy Queen 6:38 Photo Verification",
+      "type": "topic",
+      "description": "Authenticity and timestamp of the DQ photograph relative to the official Robinson timeline.",
+      "related_artifacts": [
+        "A-1111.1"
+      ],
+      "related_claims": [
+        "C-1186"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1117",
+      "ref": "N-1117",
+      "name": "Doorbell-Cam Footage Provenance",
+      "type": "topic",
+      "description": "Whether footage reached TMZ via the homeowner or via federal channels before TMZ release.",
+      "related_artifacts": [
+        "A-1112.1",
+        "A-1112.2"
+      ],
+      "related_claims": [
+        "C-1189",
+        "C-1203"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "discrepancy"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1118",
+      "ref": "N-1118",
+      "name": "Vacant-House / Decoy Shooter Theory",
+      "type": "topic",
+      "description": "Local-theory claim that Robinson was a decoy who dropped the gun at a chicken coop while the real shooter entered a UVU-owned vacant house next door.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1197",
+        "C-1198"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "narrative_pattern"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1119",
+      "ref": "N-1119",
+      "name": "Calira Engineering Valve Pattern",
+      "type": "topic",
+      "description": "Host pattern-matches Steele family employer (valve manufacturer) to prior Pastnic family pipeline business.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "topic_kind": "narrative_pattern"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1120",
+      "ref": "N-1120",
+      "name": "Federal Footage Sweep",
+      "type": "topic",
+      "description": "Host's pattern claim that feds have pressured locals not to release any footage, drawing analogy to post-9/11 Pentagon footage controls.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1202"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "topic_kind": "narrative_pattern"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1121",
+      "ref": "N-1121",
+      "name": "Kirk-Israel Narrative Dispute",
+      "type": "topic",
+      "description": "Owens vs Netanyahu/TPUSA-donor characterization of Kirk's stance toward Israel; pivots on the unpublished Kirk letter.",
+      "related_artifacts": [
+        "A-1115.1",
+        "A-1116.1",
+        "A-1117.1"
+      ],
+      "related_claims": [
+        "C-1192",
+        "C-1193",
+        "C-1194",
+        "C-1204"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "narrative_pattern"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1122",
+      "ref": "N-1122",
+      "name": "Owens Memorial Invitation Status",
+      "type": "topic",
+      "description": "Status of Candace Owens's invitation/speaking role at the Kirk memorial event; disputed across Daily Mail / Bowling / Owens accounts.",
+      "related_artifacts": [
+        "A-1116.1"
+      ],
+      "related_claims": [
+        "C-1201",
+        "C-1193"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "topic_kind": "verification_thread"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1077",
+      "ref": "N-1077",
+      "name": "Utah Valley University",
+      "type": "organization",
+      "description": "Host site of Kirk event; locals claim a vacant house on its perimeter was the real shooter's refuge.",
+      "related_artifacts": [
+        "A-1112.1",
+        "A-1114.1"
+      ],
+      "related_claims": [
+        "C-1191",
+        "C-1198",
+        "C-1186",
+        "C-1197"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "organization_kind": "educational_institution"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1076",
+      "ref": "N-1076",
+      "name": "TMZ",
+      "type": "organization",
+      "description": "First outlet to publish the doorbell-camera footage on September 10; provenance questioned.",
+      "related_artifacts": [
+        "A-1112.1"
+      ],
+      "related_claims": [
+        "C-1189"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "media_outlet"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1123",
+      "ref": "N-1123",
+      "name": "BBC",
+      "type": "organization",
+      "description": "Published Sherry Steel witness account and withheld a video she provided.",
+      "related_artifacts": [
+        "A-1113.1"
+      ],
+      "related_claims": [
+        "C-1190"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "media_outlet"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1124",
+      "ref": "N-1124",
+      "name": "PBD Podcast",
+      "type": "organization",
+      "description": "Carried the Eric Bowling segment contradicting Owens's account of TPUSA involvement.",
+      "related_artifacts": [
+        "A-1116.1"
+      ],
+      "related_claims": [
+        "C-1193"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "media_outlet"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1000",
+      "ref": "N-1000",
+      "name": "Turning Point USA",
+      "type": "organization",
+      "description": "Kirk-founded organization at the center of the donor-pressure narrative.",
+      "related_artifacts": [
+        "A-1116.1"
+      ],
+      "related_claims": [
+        "C-1193",
+        "C-1200",
+        "C-1204"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "organization_kind": "nonprofit"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1125",
+      "ref": "N-1125",
+      "name": "Good Morning America",
+      "type": "organization",
+      "description": "Aired the Tiffany Barker / L Steel / Mia Grant interview the morning after the shooting.",
+      "related_artifacts": [
+        "A-1114.1"
+      ],
+      "related_claims": [
+        "C-1191"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "organization_kind": "media_outlet"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-1126",
+      "ref": "N-1126",
+      "name": "CIA Operation Mockingbird",
+      "type": "organization",
+      "description": "Historical CIA program referenced by host to explain mainstream-media alignment.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "organization_kind": "program_or_initiative"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1127",
+      "ref": "N-1127",
+      "name": "Orem, Utah",
+      "type": "place",
+      "description": "City hosting UVU and the Steele-family cluster; site of the alleged DQ photo.",
+      "related_artifacts": [
+        "A-1111.1",
+        "A-1112.1"
+      ],
+      "related_claims": [
+        "C-1186",
+        "C-1189",
+        "C-1198",
+        "C-1203"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "place_kind": "city"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1091",
+      "ref": "N-1091",
+      "name": "Israel",
+      "type": "place",
+      "description": "State actor at the center of Netanyahu's denial and Owens's media-control framing.",
+      "related_artifacts": [
+        "A-1115.1"
+      ],
+      "related_claims": [
+        "C-1192"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "place_kind": "country"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1128",
+      "ref": "N-1128",
+      "name": "Gaza",
+      "type": "place",
+      "description": "Referenced by host as the empirical refutation of Netanyahu's 'free country' framing.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "place_kind": "region"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1129",
+      "ref": "N-1129",
+      "name": "The Pentagon",
+      "type": "place",
+      "description": "Host analogizes the Kirk footage sweep to post-9/11 Pentagon footage controls.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1202"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "place_kind": "venue"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-1092",
+      "ref": "N-1092",
+      "name": "The Hamptons",
+      "type": "place",
+      "description": "Site of the alleged Charlie Kirk / Aman retreat at the center of the text-message dispute.",
+      "related_artifacts": [
+        "A-1117.1"
+      ],
+      "related_claims": [
+        "C-1194"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "place_kind": "region"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1186",
+      "ref": "C-1186",
+      "label": "Photo of Robinson at Dairy Queen at 6:38 p.m.",
+      "claim": "A photograph allegedly showing Tyler Robinson at a Dairy Queen roughly 15–17 minutes from UVU was circulated by locals and depicts him wearing jeans and a maroon shirt.",
+      "anchored_artifacts": [
+        "A-1111.1"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1116",
+        "N-1127",
+        "N-1077",
+        "N-115",
+        "N-116",
+        "N-117"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:54",
+      "investigative_direction": "Obtain original file with EXIF; cross-check Dairy Queen receipts, employee testimony, and surveillance video for the vehicle.",
+      "transcript_snippet": "a very clear image of Tyler Robinson allegedly taken… allegedly taken at 6:38 p.m. at a nearby Dairy Queen.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1187",
+      "ref": "C-1187",
+      "label": "Robinson texts use word 'outfit'",
+      "claim": "The text exchange between Tyler Robinson and 'Lance' contains the word 'outfits', which the host argues is gender-marked language atypical of a male shooter.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-106",
+        "N-1114"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:38",
+      "investigative_direction": "Obtain the original text-message screenshots from the federal exhibit to verify wording and authorship.",
+      "transcript_snippet": "He says to Lance, allegedly, quote, 'I worry about Prince. I had to leave it… changed outfits.'",
+      "confidence": "low",
+      "uncertainty_note": "Artifact verbally referenced but not shown on screen; requires human verification against the federal exhibit."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1188",
+      "ref": "C-1188",
+      "label": "Robinson texts use phrase 'squad car'",
+      "claim": "The text exchange between Tyler Robinson and 'Lance' describes seeing a 'squad car' near the rifle, which the host argues is insider language.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-106",
+        "N-1114"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:42",
+      "investigative_direction": "Cross-check the original text-message screenshots from the federal exhibit.",
+      "transcript_snippet": "I can get close to it, but there is a squad car parked right by it. Squad car.",
+      "confidence": "low",
+      "uncertainty_note": "Artifact verbally referenced but not shown on screen."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1189",
+      "ref": "C-1189",
+      "label": "Doorbell-cam footage aired by TMZ on September 10",
+      "claim": "TMZ first aired doorbell-camera footage of a person running on a residential street near UVU on September 10, 2025, attributed to Irwin Steel's home.",
+      "anchored_artifacts": [
+        "A-1112.1",
+        "A-1112.2"
+      ],
+      "related_nodes": [
+        "N-108",
+        "N-113",
+        "N-114",
+        "N-1076",
+        "N-1127",
+        "N-1115",
+        "N-1117"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:13",
+      "investigative_direction": "Verify TMZ publication timestamp; trace the footage upload chain back to either the homeowner or a federal intermediary.",
+      "transcript_snippet": "TMZ is the first on September 10th. That tells us that there is doorbell cam footage.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1190",
+      "ref": "C-1190",
+      "label": "Sherry Steel reported police presence to BBC",
+      "claim": "BBC published an account by Sherry Steel describing a large police presence and helicopter activity outside Tyler Robinson's townhouse while she walked her dog in the evening.",
+      "anchored_artifacts": [
+        "A-1113.1"
+      ],
+      "related_nodes": [
+        "N-109",
+        "N-69",
+        "N-1123",
+        "N-1115"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:50",
+      "investigative_direction": "Confirm Sherry Steel exists in property / building databases; obtain her withheld video from BBC.",
+      "transcript_snippet": "Sherry Steel, who lives across the street… came back from an evening walk to see a large police presence.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1191",
+      "ref": "C-1191",
+      "label": "Steel children described Kirk shooting on GMA",
+      "claim": "Tiffany Barker and her nieces L Steel and Mia Grant stated on Good Morning America that they were roughly 15 feet from Charlie Kirk when he was shot and described a family group of 16.",
+      "anchored_artifacts": [
+        "A-1114.1"
+      ],
+      "related_nodes": [
+        "N-110",
+        "N-111",
+        "N-112",
+        "N-1",
+        "N-1077",
+        "N-1125",
+        "N-1115"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:54",
+      "investigative_direction": "Corroborate the family's UVU attendance, family-of-16 size, and relationship to one another.",
+      "transcript_snippet": "We had 16 of us there. So, five adults and like 11 children.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1192",
+      "ref": "C-1192",
+      "label": "Netanyahu released second video denying Israeli involvement",
+      "claim": "Benjamin Netanyahu issued a second video statement denying that Israel had any role in Charlie Kirk's murder and quoted from a letter he attributes to Kirk.",
+      "anchored_artifacts": [
+        "A-1115.1"
+      ],
+      "related_nodes": [
+        "N-65",
+        "N-1",
+        "N-1121",
+        "N-1091"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:35",
+      "investigative_direction": "Obtain Netanyahu's first denial video and the unedited Kirk letter; verify date stamps on both.",
+      "transcript_snippet": "somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder. This is insane.",
+      "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1193",
+      "ref": "C-1193",
+      "label": "Bowling said Owens no longer speaks at TPUSA events",
+      "claim": "Eric Bowling stated on PBD Podcast that Candace Owens had not attended or spoken at Turning Point USA events in years and described her separation from Kirk as a quiet breakup.",
+      "anchored_artifacts": [
+        "A-1116.1"
+      ],
+      "related_nodes": [
+        "N-107",
+        "N-7",
+        "N-1124",
+        "N-1000",
+        "N-1121",
+        "N-1122"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:01",
+      "investigative_direction": "Compare PBD clip against TPUSA published tour / speaker schedules from 2024–2025.",
+      "transcript_snippet": "When's the last time she was at a Turning Point event? Uh, not in many years.",
+      "confidence": "high",
+      "contradicts_claim_refs": [
+        "C-1200"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1194",
+      "ref": "C-1194",
+      "label": "Bill Aman published Kirk text messages",
+      "claim": "Bill Aman released private text-message exchanges with Charlie Kirk to refute Owens's claims about a Hamptons retreat; host notes the messages lack dates and context and do not address her specific assertions.",
+      "anchored_artifacts": [
+        "A-1117.1"
+      ],
+      "related_nodes": [
+        "N-66",
+        "N-7",
+        "N-1",
+        "N-1092",
+        "N-1121"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:00",
+      "investigative_direction": "Obtain the full unedited text exchange and metadata from Aman's publication; cross-check against Hamptons attendee statements.",
+      "transcript_snippet": "Blackman published these private text messages… missing from these messages are like a date, a context.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1195",
+      "ref": "C-1195",
+      "label": "Amazon listed Kirk-assassination book before event",
+      "claim": "A book about Charlie Kirk's assassination was listed on Amazon before September 10, 2025; Amazon attributed the early date to technical issues and removed the title.",
+      "anchored_artifacts": [
+        "A-1118.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1113"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:10:55",
+      "investigative_direction": "Retrieve Amazon listing history via Wayback Machine and confirm Amazon's technical-issue statement.",
+      "transcript_snippet": "the book about Charlie's assassination on Amazon that was available the day before it happened.",
+      "confidence": "medium",
+      "uncertainty_note": "Listing reported via viewer tip; Amazon statement via producer note."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1196",
+      "ref": "C-1196",
+      "label": "Utah artist released 'Charlie Kirk Dead at 31' song early",
+      "claim": "A Utah-based artist posted a song titled 'Charlie Kirk Dead at 31' before Tyler Robinson was publicly identified, drawing speculation about pre-knowledge.",
+      "anchored_artifacts": [
+        "A-1119.1"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1113"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:11:30",
+      "investigative_direction": "Recover the original upload via Wayback / platform archives; confirm upload timestamps and artist identity.",
+      "transcript_snippet": "some artist who posted a song… called like Charlie Kirk Dead at 31… he happens to be from Utah.",
+      "confidence": "low"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1197",
+      "ref": "C-1197",
+      "label": "Local claim: gun found near chicken coop, not 'woods'",
+      "claim": "A local source told the host that the rifle was recovered by a chicken coop in a suburban backyard, not in a wooded area as federal accounts suggest.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-1077",
+        "N-1118"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:50",
+      "investigative_direction": "Cross-check federal affidavit language re 'woods'; obtain property records for the chicken-coop site.",
+      "transcript_snippet": "the gun was found in the backyard of someone that I know… it was found by a chicken coop.",
+      "confidence": "medium",
+      "uncertainty_note": "Single anonymous local source relayed by host."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1198",
+      "ref": "C-1198",
+      "label": "Local theory: vacant UVU-owned house is real shooter refuge",
+      "claim": "Locals theorise that a vacant house next door to the gun-recovery site is owned by Utah Valley University and served as the real shooter's safe house, with Robinson acting as a decoy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-1077",
+        "N-1127",
+        "N-1118"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:30",
+      "investigative_direction": "Pull county property records for the parcel; confirm UVU ownership and occupancy status.",
+      "transcript_snippet": "the house right next door to where the gun was found is a mysteriously vacant vacant home… owned by the university itself.",
+      "confidence": "low"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1199",
+      "ref": "C-1199",
+      "label": "Sherry Steel cannot be verified in building databases",
+      "claim": "The host's team searched local databases for a 'Sherry Steel' at the apartment complex and contacted Robinson's family; no matching resident was located.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-109",
+        "N-1115"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:56",
+      "investigative_direction": "Independent database search; pull tenant rolls from the property management company.",
+      "transcript_snippet": "I cannot find a woman named Sher Steel that lives in that building complex.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1200",
+      "ref": "C-1200",
+      "label": "Owens toured with TPUSA the previous year",
+      "claim": "Candace Owens states that she went on tour with Turning Point USA on college campuses the previous year, contradicting Bowling's claim that she has not spoken at TPUSA events.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-7",
+        "N-1000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:24",
+      "investigative_direction": "Pull TPUSA published tour schedules and verify Owens speaking appearances.",
+      "transcript_snippet": "I literally went on tour with Turning Point USA on college campuses last year.",
+      "confidence": "medium",
+      "contradicts_claim_refs": [
+        "C-1193"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1201",
+      "ref": "C-1201",
+      "label": "Owens was not invited to speak at Kirk memorial",
+      "claim": "Candace Owens states she was not invited to speak at the Kirk memorial event held in Arizona, and that the event was effectively an open memorial.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-7",
+        "N-2",
+        "N-1122"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:35",
+      "investigative_direction": "Verify published speaker list for the Arizona memorial event.",
+      "transcript_snippet": "I was not invited to speak alongside President Trump and JD Vance on the stage.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1202",
+      "ref": "C-1202",
+      "label": "Feds pressured locals not to release footage",
+      "claim": "Locals emailed the host stating that any footage they possessed was sent to federal authorities who then pressured them not to release it publicly.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-7",
+        "N-1120",
+        "N-1129"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:37",
+      "investigative_direction": "FOIA requests to federal agencies; canvass Orem residents for corroboration.",
+      "transcript_snippet": "the feds told them that they were not allowed to share it at all.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1203",
+      "ref": "C-1203",
+      "label": "Steele family owns the doorbell-camera house",
+      "claim": "Property records show that the house whose footage appeared on TMZ is owned by Samuel Steele, his wife Carrie, and Irwin Steel — not Irwin Steel alone.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-108",
+        "N-113",
+        "N-114",
+        "N-1115",
+        "N-1117",
+        "N-1127"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:13",
+      "investigative_direction": "Pull county recorder data for the parcel to confirm ownership chain.",
+      "transcript_snippet": "he Samuel and his wife Carrie are the ones that own the house that gave the footage, not Irwin.",
+      "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1204",
+      "ref": "C-1204",
+      "label": "Bowling described 'quiet breakup' between Kirk and Owens",
+      "claim": "Eric Bowling on PBD Podcast stated that Candace Owens would have been 'the logical heir to the TPUSA throne' absent a 'very quiet breakup where she got too rabbit hole for him'.",
+      "anchored_artifacts": [
+        "A-1116.1"
+      ],
+      "related_nodes": [
+        "N-107",
+        "N-7",
+        "N-50",
+        "N-42",
+        "N-1000",
+        "N-1121"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:32",
+      "investigative_direction": "Verify Bowling's claim against TPUSA internal communications and Kirk's own public statements in the months before death.",
+      "transcript_snippet": "a very quiet breakup where she got too rabbit hole for him.",
+      "confidence": "high",
+      "contradicts_claim_refs": [
+        "C-1200"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-2",
+      "ref": "M-2",
+      "canonical_term": "Sheer Evil",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 5,
+          "video_timestamp": "01:13:34",
+          "speaker_node_ref": "N-7",
+          "quote": "the evil of this world, the evil that we are fighting. And we are only going to conquer this evil through truth.",
+          "context": "Closing monologue; ritualised naming of an unseen malevolent force.",
+          "confidence": "high",
+          "tags": [
+            "binary_framing"
+          ]
+        },
+        {
+          "episode": 5,
+          "video_timestamp": "01:09:00",
+          "speaker_node_ref": "N-7",
+          "quote": "Principalities, rulers in dark places. The Bible tells us this and it is correct.",
+          "context": "Religious framing of the unseen power structure.",
+          "confidence": "high",
+          "tags": [
+            "religious_framing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-3",
+      "ref": "M-3",
+      "canonical_term": "Trust the Science",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 5,
+          "video_timestamp": "00:57:04",
+          "speaker_node_ref": "N-7",
+          "quote": "Breit Mcronone comes out and says they have offered scientific evidence to the US court to prove that Breijit is a woman.",
+          "context": "Host mocks Brigitte Macron's legal team invoking 'scientific proof' in an early-stage suit.",
+          "confidence": "high",
+          "tags": [
+            "satiric_invocation"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-7",
+      "ref": "M-7",
+      "canonical_term": "Catholic/Evangelical/Jewish identity flip",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 5,
+          "video_timestamp": "00:41:01",
+          "speaker_node_ref": "N-65",
+          "quote": "He told me so in a letter that he sent me just a few months ago. One of my greatest joys as a Christian, he said, is advocating for Israel.",
+          "context": "Netanyahu reads Kirk letter that reframes Christian Zionism as Kirk's central political identity.",
+          "confidence": "high",
+          "tags": [
+            "identity_collapse",
+            "religious_geopolitics"
+          ]
+        },
+        {
+          "episode": 5,
+          "video_timestamp": "00:41:28",
+          "speaker_node_ref": "N-65",
+          "quote": "He told me, 'The Holy Land is so important to my life, it pains me to see support for Israel slip away.'",
+          "context": "Quote deployed to bind Kirk's Christian identity to Israeli state interests.",
+          "confidence": "high",
+          "tags": [
+            "identity_collapse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-6",
+      "ref": "M-6",
+      "canonical_term": "conspiracy theorist",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 5,
+          "video_timestamp": "00:40:49",
+          "speaker_node_ref": "N-65",
+          "quote": "while somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder. This is insane.",
+          "context": "Netanyahu labels the rumor 'insane / monstrous big lie' — canonical conspiracy-theorist deflection deployed against Owens and others.",
+          "confidence": "medium",
+          "tags": [
+            "rhetoric_label"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 5,
+          "video_timestamp": "00:54:09",
+          "speaker_node_ref": "N-7",
+          "quote": "Why would I ask to be a part like like this is obviously Erika is in like full control?",
+          "context": "Host speculates Erika Kirk is being directed by donors / White House on memorial planning.",
+          "confidence": "medium",
+          "tags": [
+            "memory_management"
+          ]
+        }
+      ]
+    }
+  ]
+}

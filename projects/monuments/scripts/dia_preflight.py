@@ -215,6 +215,20 @@ def load_canonical_nodes(path: Path) -> dict[str, dict[str, Any]]:
     return dict(data.get("nodes") or {})
 
 
+def load_density_baseline(monument_dir: Path) -> tuple[set[int], set[int]]:
+    """
+    Optional CKA partial-ingest baseline: N-ids first introduced under BoC eps 1–8
+    (ledger order in episode_000) count toward band density without duplicating register rows.
+    """
+    path = monument_dir / "config" / "preflight_ledger_baseline.json"
+    if not path.is_file():
+        return set(), set()
+    data = json.loads(path.read_text(encoding="utf-8"))
+    person = {int(x) for x in data.get("person_node_ids") or []}
+    topic = {int(x) for x in data.get("topic_node_ids") or []}
+    return person, topic
+
+
 def load_inscription_node_names(inscription_dir: Path) -> dict[int, str]:
     names: dict[int, str] = {}
     for jpath in sorted(inscription_dir.glob("episode_*.json")):
@@ -271,7 +285,16 @@ def collect_intro_order_from_ledger(
     return ordered
 
 
-def check_person_band(report: PreflightReport, intro: dict[int, RegisterEntry]) -> None:
+def check_person_band(
+    report: PreflightReport,
+    intro: dict[int, RegisterEntry],
+    *,
+    monument_dir: Path | None = None,
+) -> None:
+    baseline_person: set[int] = set()
+    baseline_topic: set[int] = set()
+    if monument_dir is not None:
+        baseline_person, baseline_topic = load_density_baseline(monument_dir)
     for nid, ent in intro.items():
         nt = ent.node_type
         is_person = nid < 1000 or nt in PERSON_TYPES
@@ -297,10 +320,11 @@ def check_person_band(report: PreflightReport, intro: dict[int, RegisterEntry]) 
                 f"N-{nid}",
             )
 
-    person_ids = sorted(n for n in intro if n < 1000)
+    person_present = {n for n in intro if n < 1000} | baseline_person
+    person_ids = sorted(person_present)
     if person_ids:
         expected = list(range(1, person_ids[-1] + 1))
-        missing = sorted(set(expected) - set(person_ids))
+        missing = sorted(set(expected) - person_present)
         if missing:
             report.add(
                 "P0",
@@ -309,10 +333,11 @@ def check_person_band(report: PreflightReport, intro: dict[int, RegisterEntry]) 
                 + (" …" if len(missing) > 20 else ""),
             )
 
-    topic_ids = sorted(n for n in intro if n >= 1000)
+    topic_present = {n for n in intro if n >= 1000} | baseline_topic
+    topic_ids = sorted(topic_present)
     if topic_ids:
         lo, hi = topic_ids[0], topic_ids[-1]
-        missing = [n for n in range(lo, hi + 1) if n not in intro]
+        missing = [n for n in range(lo, hi + 1) if n not in topic_present]
         if missing:
             report.add(
                 "P0",
@@ -611,12 +636,15 @@ def run_preflight(
     forbidden_retired = load_forbidden_retired_citations(
         monument_dir / "config" / "retired_node_ids.json", active_ids
     )
-    claim_related = collect_claim_artifact_related_n_ids(episodes)
+    ingest_episodes = [e for e in episodes if e[0] > 0]
+    claim_related = collect_claim_artifact_related_n_ids(ingest_episodes)
 
-    check_person_band(report, intro)
+    check_person_band(report, intro, monument_dir=monument_dir)
     check_intro_order(report, ledger_order, intro)
-    check_related_and_retired(report, episodes, intro, forbidden_retired, claim_related)
-    check_stamps(report, episodes)
+    check_related_and_retired(
+        report, ingest_episodes, intro, forbidden_retired, claim_related
+    )
+    check_stamps(report, ingest_episodes)
     check_memes(report, episodes)
 
     canonical = load_canonical_nodes(monument_dir / "canonical" / "nodes.json")

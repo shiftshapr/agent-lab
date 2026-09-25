@@ -4,7 +4,8 @@
   "tags": {
     "cka_core": "In initial CKA manifest (numbered show or Kirk special since 2025-09-11).",
     "boc_series_fold_pending": "Bride of Charlie series episode; listed in boc_fold_later.json until chronology fold.",
-    "cka_chronology_fold": "Same youtube_id should gain cka_core when folded without renumbering youtube_id."
+    "cka_chronology_fold": "Same youtube_id should gain cka_core when folded without renumbering youtube_id.",
+    "remapped_from_boc": "Episode artifacts remapped from Bride of Charlie monument ingest (no re-extract); see config/batch1_remap_from_boc.json."
   },
   "fold_contract": {
     "source_monument": "bride_of_charlie",
