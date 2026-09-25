@@ -8,8 +8,10 @@ From agent-lab root:
 
 ```bash
 python3 projects/monuments/scripts/dia_preflight.py --monument bride_of_charlie
+python3 projects/monuments/scripts/dia_preflight.py --monument cka
 # or, with uv:
 uv run python projects/monuments/scripts/dia_preflight.py --monument bride_of_charlie
+uv run python projects/monuments/scripts/dia_preflight.py --monument cka
 
 python3 projects/monuments/scripts/dia_preflight.py --monument bride_of_charlie --json /tmp/preflight.json
 python3 projects/monuments/scripts/dia_preflight.py --monument bride_of_charlie --tip 3e79db6

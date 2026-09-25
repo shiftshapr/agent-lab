@@ -576,7 +576,16 @@ def run_preflight(
         report.add("P0", "monument", f"Unknown monument directory: {monument_dir}")
         return report
 
+    scaffold_flag = monument_dir / "config" / "scaffold_only.json"
     drafts_dir = monument_dir / "drafts"
+    if scaffold_flag.is_file() and not any(drafts_dir.glob("episode_*.md")):
+        report.add(
+            "WARN",
+            "scaffold",
+            "Monument is scaffold-only (config/scaffold_only.json); draft preflight gates skipped",
+        )
+        return report
+
     if not drafts_dir.is_dir():
         report.add("P0", "monument", f"Missing drafts/: {drafts_dir}")
         return report

@@ -1,0 +1,1577 @@
+{
+  "monument": "cka",
+  "channel": "@RealCandaceO",
+  "corpus_cutoff_inclusive": "2025-09-11",
+  "generated_at_utc": "2026-09-25T16:15:08Z",
+  "source": {
+    "listing": "https://www.youtube.com/@RealCandaceO/streams",
+    "publish_dates": "https://invidious.f5.si"
+  },
+  "counts": {
+    "manifest_entries": 156,
+    "numbered_show": 154,
+    "kirk_special": 2
+  },
+  "episodes": [
+    {
+      "upload_date": "2025-09-11",
+      "youtube_id": "_dRaEO47-co",
+      "title": "To My Friend, Charlie Kirk.",
+      "url": "https://www.youtube.com/watch?v=_dRaEO47-co",
+      "candace_ep_number": null,
+      "kind": "kirk_special",
+      "notes": "Former BoC monument ingest slot; remap artifacts/claims to CKA seq (do not re-extract).",
+      "seq": 1
+    },
+    {
+      "upload_date": "2025-09-15",
+      "youtube_id": "czVBmqZP6Ss",
+      "title": "They Are Lying About Charlie Kirk. | Candace Ep 235",
+      "url": "https://www.youtube.com/watch?v=czVBmqZP6Ss",
+      "candace_ep_number": 235,
+      "kind": "numbered_show",
+      "notes": "Former BoC monument ingest slot; remap artifacts/claims to CKA seq (do not re-extract).",
+      "seq": 2
+    },
+    {
+      "upload_date": "2025-09-16",
+      "youtube_id": "q7f8r-THr84",
+      "title": "Charlie Kirk Shooting Suspect Charged. Something Isn\u2019t Right\u2026  | Candace Ep 236",
+      "url": "https://www.youtube.com/watch?v=q7f8r-THr84",
+      "candace_ep_number": 236,
+      "kind": "numbered_show",
+      "notes": "Former BoC monument ingest slot; remap artifacts/claims to CKA seq (do not re-extract).",
+      "seq": 3
+    },
+    {
+      "upload_date": "2025-09-17",
+      "youtube_id": "2WEHTk0Xewg",
+      "title": "Who Ordered The Hit On Charlie Kirk? | Candace Ep 237",
+      "url": "https://www.youtube.com/watch?v=2WEHTk0Xewg",
+      "candace_ep_number": 237,
+      "kind": "numbered_show",
+      "notes": "Former BoC monument ingest slot; remap artifacts/claims to CKA seq (do not re-extract).",
+      "seq": 4
+    },
+    {
+      "upload_date": "2025-09-18",
+      "youtube_id": "sreYYcID-QY",
+      "title": "EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238",
+      "url": "https://www.youtube.com/watch?v=sreYYcID-QY",
+      "candace_ep_number": 238,
+      "kind": "numbered_show",
+      "notes": "Former BoC monument ingest slot; remap artifacts/claims to CKA seq (do not re-extract).",
+      "seq": 5
+    },
+    {
+      "upload_date": "2025-09-19",
+      "youtube_id": "aDlhjfW6hz8",
+      "title": "Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239",
+      "url": "https://www.youtube.com/watch?v=aDlhjfW6hz8",
+      "candace_ep_number": 239,
+      "kind": "numbered_show",
+      "notes": "Former BoC monument ingest slot; remap artifacts/claims to CKA seq (do not re-extract).",
+      "seq": 6
+    },
+    {
+      "upload_date": "2025-09-22",
+      "youtube_id": "ja26iltROkM",
+      "title": "Erika Kirk Forgives. The Feds Forget... | Candace Ep 240",
+      "url": "https://www.youtube.com/watch?v=ja26iltROkM",
+      "candace_ep_number": 240,
+      "kind": "numbered_show",
+      "notes": "Former BoC monument ingest slot; remap artifacts/claims to CKA seq (do not re-extract).",
+      "seq": 7
+    },
+    {
+      "upload_date": "2025-09-23",
+      "youtube_id": "UBkFkg4UNY8",
+      "title": "Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241",
+      "url": "https://www.youtube.com/watch?v=UBkFkg4UNY8",
+      "candace_ep_number": 241,
+      "kind": "numbered_show",
+      "notes": "Former BoC monument ingest slot; remap artifacts/claims to CKA seq (do not re-extract).",
+      "seq": 8
+    },
+    {
+      "upload_date": "2025-09-24",
+      "youtube_id": "QZWSsq8ZWzw",
+      "title": "BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242",
+      "url": "https://www.youtube.com/watch?v=QZWSsq8ZWzw",
+      "candace_ep_number": 242,
+      "kind": "numbered_show",
+      "notes": "Former BoC monument ingest slot; remap artifacts/claims to CKA seq (do not re-extract).",
+      "seq": 9
+    },
+    {
+      "upload_date": "2025-09-25",
+      "youtube_id": "K5GjF53bfN4",
+      "title": "Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243",
+      "url": "https://www.youtube.com/watch?v=K5GjF53bfN4",
+      "candace_ep_number": 243,
+      "kind": "numbered_show",
+      "notes": "Former BoC monument ingest slot; remap artifacts/claims to CKA seq (do not re-extract).",
+      "seq": 10
+    },
+    {
+      "upload_date": "2025-09-29",
+      "youtube_id": "ZGxnf5cj4Uw",
+      "title": "They Are Lying About Tyler Robinson. | Candace Ep 244",
+      "url": "https://www.youtube.com/watch?v=ZGxnf5cj4Uw",
+      "candace_ep_number": 244,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 11
+    },
+    {
+      "upload_date": "2025-09-30",
+      "youtube_id": "YA1FxrDWNIo",
+      "title": "DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245",
+      "url": "https://www.youtube.com/watch?v=YA1FxrDWNIo",
+      "candace_ep_number": 245,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 12
+    },
+    {
+      "upload_date": "2025-10-01",
+      "youtube_id": "adJ4LNGp84I",
+      "title": "BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246",
+      "url": "https://www.youtube.com/watch?v=adJ4LNGp84I",
+      "candace_ep_number": 246,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 13
+    },
+    {
+      "upload_date": "2025-10-02",
+      "youtube_id": "t1YtLS1n8Vs",
+      "title": "INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247",
+      "url": "https://www.youtube.com/watch?v=t1YtLS1n8Vs",
+      "candace_ep_number": 247,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 14
+    },
+    {
+      "upload_date": "2025-10-06",
+      "youtube_id": "ozWJz2spBcI",
+      "title": "TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248",
+      "url": "https://www.youtube.com/watch?v=ozWJz2spBcI",
+      "candace_ep_number": 248,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 15
+    },
+    {
+      "upload_date": "2025-10-07",
+      "youtube_id": "5autG89PW6w",
+      "title": "TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249",
+      "url": "https://www.youtube.com/watch?v=5autG89PW6w",
+      "candace_ep_number": 249,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 16
+    },
+    {
+      "upload_date": "2025-10-08",
+      "youtube_id": "2Riv3I7D0Yk",
+      "title": "Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250",
+      "url": "https://www.youtube.com/watch?v=2Riv3I7D0Yk",
+      "candace_ep_number": 250,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 17
+    },
+    {
+      "upload_date": "2025-10-09",
+      "youtube_id": "pc3pxRyNFZk",
+      "title": "REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251",
+      "url": "https://www.youtube.com/watch?v=pc3pxRyNFZk",
+      "candace_ep_number": 251,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 18
+    },
+    {
+      "upload_date": "2025-10-27",
+      "youtube_id": "c5BcKF91iec",
+      "title": "Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252",
+      "url": "https://www.youtube.com/watch?v=c5BcKF91iec",
+      "candace_ep_number": 252,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 19
+    },
+    {
+      "upload_date": "2025-10-28",
+      "youtube_id": "Cq7nj9rxPdo",
+      "title": "Charlie Ripped A Hole In Reality | Candace Ep 253",
+      "url": "https://www.youtube.com/watch?v=Cq7nj9rxPdo",
+      "candace_ep_number": 253,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 20
+    },
+    {
+      "upload_date": "2025-10-29",
+      "youtube_id": "Qt0VHV-POCg",
+      "title": "Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254",
+      "url": "https://www.youtube.com/watch?v=Qt0VHV-POCg",
+      "candace_ep_number": 254,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 21
+    },
+    {
+      "upload_date": "2025-10-30",
+      "youtube_id": "iHav0PPzUz8",
+      "title": "BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255",
+      "url": "https://www.youtube.com/watch?v=iHav0PPzUz8",
+      "candace_ep_number": 255,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 22
+    },
+    {
+      "upload_date": "2025-10-31",
+      "youtube_id": "YFmRH8p5lt0",
+      "title": "INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256",
+      "url": "https://www.youtube.com/watch?v=YFmRH8p5lt0",
+      "candace_ep_number": 256,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 23
+    },
+    {
+      "upload_date": "2025-11-03",
+      "youtube_id": "K1tFD7FfoCU",
+      "title": "MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257",
+      "url": "https://www.youtube.com/watch?v=K1tFD7FfoCU",
+      "candace_ep_number": 257,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 24
+    },
+    {
+      "upload_date": "2025-11-04",
+      "youtube_id": "Qfwr08Ebczo",
+      "title": "EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258",
+      "url": "https://www.youtube.com/watch?v=Qfwr08Ebczo",
+      "candace_ep_number": 258,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 25
+    },
+    {
+      "upload_date": "2025-11-05",
+      "youtube_id": "LATnak75Si0",
+      "title": "Mamdani Wins. Charlie Kirk Questions Haunt \"MAGA\". | Candace Ep 259",
+      "url": "https://www.youtube.com/watch?v=LATnak75Si0",
+      "candace_ep_number": 259,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 26
+    },
+    {
+      "upload_date": "2025-11-06",
+      "youtube_id": "vwG1juDCQZQ",
+      "title": "#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260",
+      "url": "https://www.youtube.com/watch?v=vwG1juDCQZQ",
+      "candace_ep_number": 260,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 27
+    },
+    {
+      "upload_date": "2025-11-08",
+      "youtube_id": "r1PS67aRmcA",
+      "title": "Ben Shapiro Is Crying Again. | Candace Ep 261",
+      "url": "https://www.youtube.com/watch?v=r1PS67aRmcA",
+      "candace_ep_number": 261,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 28
+    },
+    {
+      "upload_date": "2025-11-10",
+      "youtube_id": "YaZfwLQ7vrI",
+      "title": "Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262",
+      "url": "https://www.youtube.com/watch?v=YaZfwLQ7vrI",
+      "candace_ep_number": 262,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 29
+    },
+    {
+      "upload_date": "2025-11-12",
+      "youtube_id": "MUA9ebCF4Ow",
+      "title": "Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263",
+      "url": "https://www.youtube.com/watch?v=MUA9ebCF4Ow",
+      "candace_ep_number": 263,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 30
+    },
+    {
+      "upload_date": "2025-11-13",
+      "youtube_id": "yAIb-NuUh_U",
+      "title": "What Did Charlie Kirk Discover Near The End? | Candace Ep 264",
+      "url": "https://www.youtube.com/watch?v=yAIb-NuUh_U",
+      "candace_ep_number": 264,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 31
+    },
+    {
+      "upload_date": "2025-11-14",
+      "youtube_id": "7RLtGgkTh9o",
+      "title": "From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265",
+      "url": "https://www.youtube.com/watch?v=7RLtGgkTh9o",
+      "candace_ep_number": 265,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 32
+    },
+    {
+      "upload_date": "2025-11-17",
+      "youtube_id": "JQjCAsfoXEE",
+      "title": "Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266",
+      "url": "https://www.youtube.com/watch?v=JQjCAsfoXEE",
+      "candace_ep_number": 266,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 33
+    },
+    {
+      "upload_date": "2025-11-18",
+      "youtube_id": "581dILVcEE4",
+      "title": "The Great Exodus From Utah? Where Did The \"Egyptians\" Go On 9/10? | Candace Ep 267",
+      "url": "https://www.youtube.com/watch?v=581dILVcEE4",
+      "candace_ep_number": 267,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 34
+    },
+    {
+      "upload_date": "2025-11-19",
+      "youtube_id": "SKGUzGHymcI",
+      "title": "Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268",
+      "url": "https://www.youtube.com/watch?v=SKGUzGHymcI",
+      "candace_ep_number": 268,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 35
+    },
+    {
+      "upload_date": "2025-11-20",
+      "youtube_id": "sImMM04XdWY",
+      "title": "Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269",
+      "url": "https://www.youtube.com/watch?v=sImMM04XdWY",
+      "candace_ep_number": 269,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 36
+    },
+    {
+      "upload_date": "2025-11-21",
+      "youtube_id": "mKXdKV-OBog",
+      "title": "Operation: \u201cSee you in Valhalla, Charlie\u201d. | Candace Ep 270",
+      "url": "https://www.youtube.com/watch?v=mKXdKV-OBog",
+      "candace_ep_number": 270,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 37
+    },
+    {
+      "upload_date": "2025-12-01",
+      "youtube_id": "tB5SXXmd9vU",
+      "title": "Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271",
+      "url": "https://www.youtube.com/watch?v=tB5SXXmd9vU",
+      "candace_ep_number": 271,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 38
+    },
+    {
+      "upload_date": "2025-12-02",
+      "youtube_id": "a-e7HC6SeK8",
+      "title": "Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272",
+      "url": "https://www.youtube.com/watch?v=a-e7HC6SeK8",
+      "candace_ep_number": 272,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 39
+    },
+    {
+      "upload_date": "2025-12-03",
+      "youtube_id": "his-JBjlkh8",
+      "title": "BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273",
+      "url": "https://www.youtube.com/watch?v=his-JBjlkh8",
+      "candace_ep_number": 273,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 40
+    },
+    {
+      "upload_date": "2025-12-04",
+      "youtube_id": "ZAuuSq_j2_w",
+      "title": "Shocking Revelation About The Egyptian Planes... | Candace Ep 274",
+      "url": "https://www.youtube.com/watch?v=ZAuuSq_j2_w",
+      "candace_ep_number": 274,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 41
+    },
+    {
+      "upload_date": "2025-12-05",
+      "youtube_id": "DqGNvi36ol8",
+      "title": "Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275",
+      "url": "https://www.youtube.com/watch?v=DqGNvi36ol8",
+      "candace_ep_number": 275,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 42
+    },
+    {
+      "upload_date": "2025-12-08",
+      "youtube_id": "Kmt6HgRjckU",
+      "title": "Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276",
+      "url": "https://www.youtube.com/watch?v=Kmt6HgRjckU",
+      "candace_ep_number": 276,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 43
+    },
+    {
+      "upload_date": "2025-12-09",
+      "youtube_id": "t4U7NjnUEgc",
+      "title": "Charlie Kirk\u2019s Last Trip To Asia\u2026 | Candace Ep 277",
+      "url": "https://www.youtube.com/watch?v=t4U7NjnUEgc",
+      "candace_ep_number": 277,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 44
+    },
+    {
+      "upload_date": "2025-12-10",
+      "youtube_id": "6DhWawD4ZiM",
+      "title": "UH-OH! Erika Kirk Goes Off On \"Conspiracy Theorists\". | Candace Ep 278",
+      "url": "https://www.youtube.com/watch?v=6DhWawD4ZiM",
+      "candace_ep_number": 278,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 45
+    },
+    {
+      "upload_date": "2025-12-11",
+      "youtube_id": "6J6lRZPQ4jk",
+      "title": "Erika Kirk Tells Me To \"Stop\". Tyler Robinson Makes His First Appearance. | Candace Ep 279",
+      "url": "https://www.youtube.com/watch?v=6J6lRZPQ4jk",
+      "candace_ep_number": 279,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 46
+    },
+    {
+      "upload_date": "2025-12-16",
+      "youtube_id": "es7PWdFGoFI",
+      "title": "Erika And I Sat Down. Here\u2019s What Happened. | Candace Ep 280",
+      "url": "https://www.youtube.com/watch?v=es7PWdFGoFI",
+      "candace_ep_number": 280,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 47
+    },
+    {
+      "upload_date": "2025-12-17",
+      "youtube_id": "9k2xrAC0H88",
+      "title": "BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281",
+      "url": "https://www.youtube.com/watch?v=9k2xrAC0H88",
+      "candace_ep_number": 281,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 48
+    },
+    {
+      "upload_date": "2025-12-18",
+      "youtube_id": "ewBzjVe3LNQ",
+      "title": "EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282",
+      "url": "https://www.youtube.com/watch?v=ewBzjVe3LNQ",
+      "candace_ep_number": 282,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 49
+    },
+    {
+      "upload_date": "2025-12-19",
+      "youtube_id": "w1oqQbR_bYs",
+      "title": "What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283",
+      "url": "https://www.youtube.com/watch?v=w1oqQbR_bYs",
+      "candace_ep_number": 283,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 50
+    },
+    {
+      "upload_date": "2026-01-05",
+      "youtube_id": "OEAHy3SsIiI",
+      "title": "You Won't Believe What Happened While We Were Off Air... | Candace Ep 284",
+      "url": "https://www.youtube.com/watch?v=OEAHy3SsIiI",
+      "candace_ep_number": 284,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 51
+    },
+    {
+      "upload_date": "2026-01-06",
+      "youtube_id": "HYn0P-P1wUw",
+      "title": "BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285",
+      "url": "https://www.youtube.com/watch?v=HYn0P-P1wUw",
+      "candace_ep_number": 285,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 52
+    },
+    {
+      "upload_date": "2026-01-07",
+      "youtube_id": "zSKrxIUMNqw",
+      "title": "DEFCON 3: Ben Shapiro\u2019s Legacy Of No-Nos | Candace Ep 286",
+      "url": "https://www.youtube.com/watch?v=zSKrxIUMNqw",
+      "candace_ep_number": 286,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 53
+    },
+    {
+      "upload_date": "2026-01-08",
+      "youtube_id": "wcD2khO3rOA",
+      "title": "The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287",
+      "url": "https://www.youtube.com/watch?v=wcD2khO3rOA",
+      "candace_ep_number": 287,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 54
+    },
+    {
+      "upload_date": "2026-01-12",
+      "youtube_id": "CMcktj3Egfo",
+      "title": "American Horror Story: Charlie Kirk\u2019s \u201cShining\u201d Disciples. | Candace Ep 288",
+      "url": "https://www.youtube.com/watch?v=CMcktj3Egfo",
+      "candace_ep_number": 288,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 55
+    },
+    {
+      "upload_date": "2026-01-13",
+      "youtube_id": "ZZGWo6oDscc",
+      "title": "CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289",
+      "url": "https://www.youtube.com/watch?v=ZZGWo6oDscc",
+      "candace_ep_number": 289,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 56
+    },
+    {
+      "upload_date": "2026-01-14",
+      "youtube_id": "BKcOm32ZEGk",
+      "title": "PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290",
+      "url": "https://www.youtube.com/watch?v=BKcOm32ZEGk",
+      "candace_ep_number": 290,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 57
+    },
+    {
+      "upload_date": "2026-01-15",
+      "youtube_id": "X92MllIHDzw",
+      "title": "OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291",
+      "url": "https://www.youtube.com/watch?v=X92MllIHDzw",
+      "candace_ep_number": 291,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 58
+    },
+    {
+      "upload_date": "2026-01-19",
+      "youtube_id": "NIEbqsLAK8g",
+      "title": "A Legal Turning Point? | Candace Ep 292",
+      "url": "https://www.youtube.com/watch?v=NIEbqsLAK8g",
+      "candace_ep_number": 292,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 59
+    },
+    {
+      "upload_date": "2026-01-20",
+      "youtube_id": "9naMwS0kMBE",
+      "title": "Candace x Baron Coleman LIVE!! | Candace Ep 293",
+      "url": "https://www.youtube.com/watch?v=9naMwS0kMBE",
+      "candace_ep_number": 293,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 60
+    },
+    {
+      "upload_date": "2026-01-21",
+      "youtube_id": "GY6GWceEqtQ",
+      "title": "IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294",
+      "url": "https://www.youtube.com/watch?v=GY6GWceEqtQ",
+      "candace_ep_number": 294,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 61
+    },
+    {
+      "upload_date": "2026-01-22",
+      "youtube_id": "gG4ZoYUjUc8",
+      "title": "Erika\u2019s Inquisition: TPUSA Employees FIRED For\u2026What?! | Candace Ep 295",
+      "url": "https://www.youtube.com/watch?v=gG4ZoYUjUc8",
+      "candace_ep_number": 295,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 62
+    },
+    {
+      "upload_date": "2026-01-27",
+      "youtube_id": "A39g5oqB_eM",
+      "title": "EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296",
+      "url": "https://www.youtube.com/watch?v=A39g5oqB_eM",
+      "candace_ep_number": 296,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 63
+    },
+    {
+      "upload_date": "2026-01-28",
+      "youtube_id": "QdM9jLwjwLw",
+      "title": "Loose Lips Sink Ships: ANOTHER Zoom Call Leaks\u2026  | Candace Ep 297",
+      "url": "https://www.youtube.com/watch?v=QdM9jLwjwLw",
+      "candace_ep_number": 297,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 64
+    },
+    {
+      "upload_date": "2026-01-29",
+      "youtube_id": "xjzb_t5Tk9o",
+      "title": "Candace x Bassem Youssef | Candace Ep 298",
+      "url": "https://www.youtube.com/watch?v=xjzb_t5Tk9o",
+      "candace_ep_number": 298,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 65
+    },
+    {
+      "upload_date": "2026-01-30",
+      "youtube_id": "Wjul6YV6izo",
+      "title": "AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299",
+      "url": "https://www.youtube.com/watch?v=Wjul6YV6izo",
+      "candace_ep_number": 299,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 66
+    },
+    {
+      "upload_date": "2026-02-02",
+      "youtube_id": "CEF7gQRWYCE",
+      "title": "BAAL SO HARD: The Epstein Files | Candace Ep 300",
+      "url": "https://www.youtube.com/watch?v=CEF7gQRWYCE",
+      "candace_ep_number": 300,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 67
+    },
+    {
+      "upload_date": "2026-02-03",
+      "youtube_id": "QRS_hR7NXaQ",
+      "title": "CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301",
+      "url": "https://www.youtube.com/watch?v=QRS_hR7NXaQ",
+      "candace_ep_number": 301,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 68
+    },
+    {
+      "upload_date": "2026-02-04",
+      "youtube_id": "DYD_QHMPwqM",
+      "title": "REVELATIONS: Macron\u2019s Boyfriend. Erika\u2019s Girlfriend. | Candace Ep 302",
+      "url": "https://www.youtube.com/watch?v=DYD_QHMPwqM",
+      "candace_ep_number": 302,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 69
+    },
+    {
+      "upload_date": "2026-02-05",
+      "youtube_id": "mFuno0TuuQQ",
+      "title": "An Open Letter To Erika Kirk | Candace Ep 303",
+      "url": "https://www.youtube.com/watch?v=mFuno0TuuQQ",
+      "candace_ep_number": 303,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 70
+    },
+    {
+      "upload_date": "2026-02-09",
+      "youtube_id": "4YgrOhhy708",
+      "title": "Halftime Wars: TPUSA vs The NFL | Candace Ep 304",
+      "url": "https://www.youtube.com/watch?v=4YgrOhhy708",
+      "candace_ep_number": 304,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 71
+    },
+    {
+      "upload_date": "2026-02-10",
+      "youtube_id": "ti5Fxrvegno",
+      "title": "Here\u2019s Why It\u2019s Time For The Police To Question Erika Kirk\u2026 | Candace Ep 305",
+      "url": "https://www.youtube.com/watch?v=ti5Fxrvegno",
+      "candace_ep_number": 305,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 72
+    },
+    {
+      "upload_date": "2026-02-11",
+      "youtube_id": "hWTdXHGQ8R4",
+      "title": "VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306",
+      "url": "https://www.youtube.com/watch?v=hWTdXHGQ8R4",
+      "candace_ep_number": 306,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 73
+    },
+    {
+      "upload_date": "2026-02-12",
+      "youtube_id": "1hcjQGgvxUY",
+      "title": "Okay\u2026These Text Messages Are Crazy! | Candace Ep 307",
+      "url": "https://www.youtube.com/watch?v=1hcjQGgvxUY",
+      "candace_ep_number": 307,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 74
+    },
+    {
+      "upload_date": "2026-03-09",
+      "youtube_id": "i8m_6D4QGmk",
+      "title": "Donald Trump Has Betrayed America. | Candace Ep 308",
+      "url": "https://www.youtube.com/watch?v=i8m_6D4QGmk",
+      "candace_ep_number": 308,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 75
+    },
+    {
+      "upload_date": "2026-03-10",
+      "youtube_id": "ZzAT2xijKGQ",
+      "title": "Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309",
+      "url": "https://www.youtube.com/watch?v=ZzAT2xijKGQ",
+      "candace_ep_number": 309,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 76
+    },
+    {
+      "upload_date": "2026-03-11",
+      "youtube_id": "H9p2ZGHAs9A",
+      "title": "EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit\u2026 | Candace Ep 310",
+      "url": "https://www.youtube.com/watch?v=H9p2ZGHAs9A",
+      "candace_ep_number": 310,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 77
+    },
+    {
+      "upload_date": "2026-03-12",
+      "youtube_id": "5-HUyv9LyMg",
+      "title": "EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311",
+      "url": "https://www.youtube.com/watch?v=5-HUyv9LyMg",
+      "candace_ep_number": 311,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 78
+    },
+    {
+      "upload_date": "2026-03-16",
+      "youtube_id": "k8ueJdPFel4",
+      "title": "WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312",
+      "url": "https://www.youtube.com/watch?v=k8ueJdPFel4",
+      "candace_ep_number": 312,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 79
+    },
+    {
+      "upload_date": "2026-03-17",
+      "youtube_id": "I0OaY6Gryqk",
+      "title": "HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313",
+      "url": "https://www.youtube.com/watch?v=I0OaY6Gryqk",
+      "candace_ep_number": 313,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 80
+    },
+    {
+      "upload_date": "2026-03-23",
+      "youtube_id": "B9TyCs-6o_0",
+      "title": "EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314",
+      "url": "https://www.youtube.com/watch?v=B9TyCs-6o_0",
+      "candace_ep_number": 314,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 81
+    },
+    {
+      "upload_date": "2026-03-24",
+      "youtube_id": "SgVcnx4Oh30",
+      "title": "REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315",
+      "url": "https://www.youtube.com/watch?v=SgVcnx4Oh30",
+      "candace_ep_number": 315,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 82
+    },
+    {
+      "upload_date": "2026-03-25",
+      "youtube_id": "5m-Wn6Pr5rM",
+      "title": "Who\u2019s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316",
+      "url": "https://www.youtube.com/watch?v=5m-Wn6Pr5rM",
+      "candace_ep_number": 316,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 83
+    },
+    {
+      "upload_date": "2026-03-26",
+      "youtube_id": "DEtFh2Ff-58",
+      "title": "VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317",
+      "url": "https://www.youtube.com/watch?v=DEtFh2Ff-58",
+      "candace_ep_number": 317,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 84
+    },
+    {
+      "upload_date": "2026-03-30",
+      "youtube_id": "7ERqbYElOfs",
+      "title": "The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318",
+      "url": "https://www.youtube.com/watch?v=7ERqbYElOfs",
+      "candace_ep_number": 318,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 85
+    },
+    {
+      "upload_date": "2026-03-31",
+      "youtube_id": "UYkXV9mYbT4",
+      "title": "PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319",
+      "url": "https://www.youtube.com/watch?v=UYkXV9mYbT4",
+      "candace_ep_number": 319,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 86
+    },
+    {
+      "upload_date": "2026-04-01",
+      "youtube_id": "rupRLXmSndU",
+      "title": "Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320",
+      "url": "https://www.youtube.com/watch?v=rupRLXmSndU",
+      "candace_ep_number": 320,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 87
+    },
+    {
+      "upload_date": "2026-04-02",
+      "youtube_id": "q1NRQQAYS_Q",
+      "title": "SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321",
+      "url": "https://www.youtube.com/watch?v=q1NRQQAYS_Q",
+      "candace_ep_number": 321,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 88
+    },
+    {
+      "upload_date": "2026-04-10",
+      "youtube_id": "ZIH5-V6UPkg",
+      "title": "An Open Letter To President Donald Trump (My Response) | Candace Ep 322",
+      "url": "https://www.youtube.com/watch?v=ZIH5-V6UPkg",
+      "candace_ep_number": 322,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 89
+    },
+    {
+      "upload_date": "2026-04-13",
+      "youtube_id": "eLgD5yUVbko",
+      "title": "Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323",
+      "url": "https://www.youtube.com/watch?v=eLgD5yUVbko",
+      "candace_ep_number": 323,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 90
+    },
+    {
+      "upload_date": "2026-04-14",
+      "youtube_id": "jsqUIkszZd0",
+      "title": "BREAKING: The ATF Traced A Gun On 9/10. Erika's \"Friend\" Wanted To Own Its Company. | Candace Ep 324",
+      "url": "https://www.youtube.com/watch?v=jsqUIkszZd0",
+      "candace_ep_number": 324,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 91
+    },
+    {
+      "upload_date": "2026-04-15",
+      "youtube_id": "SubDoZWHARo",
+      "title": "Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325",
+      "url": "https://www.youtube.com/watch?v=SubDoZWHARo",
+      "candace_ep_number": 325,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 92
+    },
+    {
+      "upload_date": "2026-04-16",
+      "youtube_id": "1mYNOqzAdXs",
+      "title": "Secret Service Admits \"There Was No Threat\". ATF Releases Report. | Candace Ep 326",
+      "url": "https://www.youtube.com/watch?v=1mYNOqzAdXs",
+      "candace_ep_number": 326,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 93
+    },
+    {
+      "upload_date": "2026-04-20",
+      "youtube_id": "kaWtDuoY_ns",
+      "title": "EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327",
+      "url": "https://www.youtube.com/watch?v=kaWtDuoY_ns",
+      "candace_ep_number": 327,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 94
+    },
+    {
+      "upload_date": "2026-04-21",
+      "youtube_id": "xi8SYJTUXPM",
+      "title": "Lori Frantzve\u2019s Gun Deal? Terryl\u2019s Footage Faux Pas. | Candace Ep 328",
+      "url": "https://www.youtube.com/watch?v=xi8SYJTUXPM",
+      "candace_ep_number": 328,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 95
+    },
+    {
+      "upload_date": "2026-04-29",
+      "youtube_id": "qZ8RWfyuewQ",
+      "title": "TIME MAGAZINE: World\u2019s Most VILE Person?! | Candace Ep 330",
+      "url": "https://www.youtube.com/watch?v=qZ8RWfyuewQ",
+      "candace_ep_number": 330,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 96
+    },
+    {
+      "upload_date": "2026-04-30",
+      "youtube_id": "69A8TzAGHlU",
+      "title": "BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331",
+      "url": "https://www.youtube.com/watch?v=69A8TzAGHlU",
+      "candace_ep_number": 331,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 97
+    },
+    {
+      "upload_date": "2026-05-04",
+      "youtube_id": "uC_GjKU8rs8",
+      "title": "Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332",
+      "url": "https://www.youtube.com/watch?v=uC_GjKU8rs8",
+      "candace_ep_number": 332,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 98
+    },
+    {
+      "upload_date": "2026-05-05",
+      "youtube_id": "eMtjzXkQrsU",
+      "title": "A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333",
+      "url": "https://www.youtube.com/watch?v=eMtjzXkQrsU",
+      "candace_ep_number": 333,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 99
+    },
+    {
+      "upload_date": "2026-05-06",
+      "youtube_id": "k1b1NDCrNFs",
+      "title": "Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334",
+      "url": "https://www.youtube.com/watch?v=k1b1NDCrNFs",
+      "candace_ep_number": 334,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 100
+    },
+    {
+      "upload_date": "2026-05-07",
+      "youtube_id": "FFQ9675oqRI",
+      "title": "STAGED? Erika\u2019s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335",
+      "url": "https://www.youtube.com/watch?v=FFQ9675oqRI",
+      "candace_ep_number": 335,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 101
+    },
+    {
+      "upload_date": "2026-05-11",
+      "youtube_id": "KpxIBWkNsSs",
+      "title": "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336",
+      "url": "https://www.youtube.com/watch?v=KpxIBWkNsSs",
+      "candace_ep_number": 336,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 102
+    },
+    {
+      "upload_date": "2026-05-12",
+      "youtube_id": "4DvYXBn_5JI",
+      "title": "September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337",
+      "url": "https://www.youtube.com/watch?v=4DvYXBn_5JI",
+      "candace_ep_number": 337,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 103
+    },
+    {
+      "upload_date": "2026-05-13",
+      "youtube_id": "7FS1tUeSfdE",
+      "title": "BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338",
+      "url": "https://www.youtube.com/watch?v=7FS1tUeSfdE",
+      "candace_ep_number": 338,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 104
+    },
+    {
+      "upload_date": "2026-05-14",
+      "youtube_id": "Pb7UlpRdW6U",
+      "title": "SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339",
+      "url": "https://www.youtube.com/watch?v=Pb7UlpRdW6U",
+      "candace_ep_number": 339,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 105
+    },
+    {
+      "upload_date": "2026-05-18",
+      "youtube_id": "1QZ4X6q1DPg",
+      "title": "Hunter Biden Returns. The White House Ghosts Me Regarding Erika\u2026 | Candace Ep 340",
+      "url": "https://www.youtube.com/watch?v=1QZ4X6q1DPg",
+      "candace_ep_number": 340,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 106
+    },
+    {
+      "upload_date": "2026-05-19",
+      "youtube_id": "Dkxa9OUA9K8",
+      "title": "LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341",
+      "url": "https://www.youtube.com/watch?v=Dkxa9OUA9K8",
+      "candace_ep_number": 341,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 107
+    },
+    {
+      "upload_date": "2026-05-20",
+      "youtube_id": "cPidFQDJLbo",
+      "title": "TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342",
+      "url": "https://www.youtube.com/watch?v=cPidFQDJLbo",
+      "candace_ep_number": 342,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 108
+    },
+    {
+      "upload_date": "2026-05-26",
+      "youtube_id": "BxN2-aeMYIs",
+      "title": "The World Is A Stage: Trump Survives...Again? | Ep 343",
+      "url": "https://www.youtube.com/watch?v=BxN2-aeMYIs",
+      "candace_ep_number": 343,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 109
+    },
+    {
+      "upload_date": "2026-05-27",
+      "youtube_id": "MhakwJxK-Zk",
+      "title": "BREAKING NEWS: We've Identified \"SAM702\" At Fort Huachuca. | Ep 344",
+      "url": "https://www.youtube.com/watch?v=MhakwJxK-Zk",
+      "candace_ep_number": 344,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 110
+    },
+    {
+      "upload_date": "2026-06-09",
+      "youtube_id": "YeEtS7nix3o",
+      "title": "I\u2019m Back! Russian Collusion & Turning Point Delusion. | Ep 345",
+      "url": "https://www.youtube.com/watch?v=YeEtS7nix3o",
+      "candace_ep_number": 345,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 111
+    },
+    {
+      "upload_date": "2026-06-10",
+      "youtube_id": "tXoI0TTKVrs",
+      "title": "Ivanka Trump \u201cDiscovers\u201d An Island. Erika Kirk Calls It Quits Again. | Ep 346",
+      "url": "https://www.youtube.com/watch?v=tXoI0TTKVrs",
+      "candace_ep_number": 346,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 112
+    },
+    {
+      "upload_date": "2026-06-11",
+      "youtube_id": "19vHhjF7-NA",
+      "title": "OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347",
+      "url": "https://www.youtube.com/watch?v=19vHhjF7-NA",
+      "candace_ep_number": 347,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 113
+    },
+    {
+      "upload_date": "2026-06-12",
+      "youtube_id": "WoXd4oLwd3w",
+      "title": "REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348",
+      "url": "https://www.youtube.com/watch?v=WoXd4oLwd3w",
+      "candace_ep_number": 348,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 114
+    },
+    {
+      "upload_date": "2026-06-15",
+      "youtube_id": "5NQyGuRYbU8",
+      "title": "Erika Cries\u2026Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349",
+      "url": "https://www.youtube.com/watch?v=5NQyGuRYbU8",
+      "candace_ep_number": 349,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 115
+    },
+    {
+      "upload_date": "2026-06-16",
+      "youtube_id": "h76ZN-xXC6c",
+      "title": "The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350",
+      "url": "https://www.youtube.com/watch?v=h76ZN-xXC6c",
+      "candace_ep_number": 350,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 116
+    },
+    {
+      "upload_date": "2026-06-17",
+      "youtube_id": "G3zdOeHpvS0",
+      "title": "A SHOCKING Discovery About The Man Who Mic\u2019ed Charlie Kirk. | Ep 351",
+      "url": "https://www.youtube.com/watch?v=G3zdOeHpvS0",
+      "candace_ep_number": 351,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 117
+    },
+    {
+      "upload_date": "2026-06-18",
+      "youtube_id": "3QJqtW_NOSI",
+      "title": "The Whistleblower: Did Epstein\u2019s Network Reemerge In Charlie Kirk\u2019s World? | Ep 352",
+      "url": "https://www.youtube.com/watch?v=3QJqtW_NOSI",
+      "candace_ep_number": 352,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 118
+    },
+    {
+      "upload_date": "2026-06-22",
+      "youtube_id": "VMNWMXX1vO8",
+      "title": "I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353",
+      "url": "https://www.youtube.com/watch?v=VMNWMXX1vO8",
+      "candace_ep_number": 353,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 119
+    },
+    {
+      "upload_date": "2026-06-23",
+      "youtube_id": "9CuC1yf8-PU",
+      "title": "Charlie\u2019s \u201cFreedom\u201d Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354",
+      "url": "https://www.youtube.com/watch?v=9CuC1yf8-PU",
+      "candace_ep_number": 354,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 120
+    },
+    {
+      "upload_date": "2026-06-24",
+      "youtube_id": "sKuYLNx3iRo",
+      "title": "Charlie\u2019s Final Ride To The Hospital Isn\u2019t Adding Up. Neither Is Daily Wire\u2019s Accounting. | Ep 355",
+      "url": "https://www.youtube.com/watch?v=sKuYLNx3iRo",
+      "candace_ep_number": 355,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 121
+    },
+    {
+      "upload_date": "2026-06-25",
+      "youtube_id": "IqHsl7d2dos",
+      "title": "TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356",
+      "url": "https://www.youtube.com/watch?v=IqHsl7d2dos",
+      "candace_ep_number": 356,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 122
+    },
+    {
+      "upload_date": "2026-06-26",
+      "youtube_id": "a2bZf4fic10",
+      "title": "EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357",
+      "url": "https://www.youtube.com/watch?v=a2bZf4fic10",
+      "candace_ep_number": 357,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 123
+    },
+    {
+      "upload_date": "2026-07-13",
+      "youtube_id": "EtLHqDbxqks",
+      "title": "I\u2019M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358",
+      "url": "https://www.youtube.com/watch?v=EtLHqDbxqks",
+      "candace_ep_number": 358,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 124
+    },
+    {
+      "upload_date": "2026-07-14",
+      "youtube_id": "X3VKJVJ7cN4",
+      "title": "Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359",
+      "url": "https://www.youtube.com/watch?v=X3VKJVJ7cN4",
+      "candace_ep_number": 359,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 125
+    },
+    {
+      "upload_date": "2026-07-15",
+      "youtube_id": "puuMVxEu5NU",
+      "title": "EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360",
+      "url": "https://www.youtube.com/watch?v=puuMVxEu5NU",
+      "candace_ep_number": 360,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 126
+    },
+    {
+      "upload_date": "2026-07-16",
+      "youtube_id": "mLvJqdxS-FY",
+      "title": "COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361",
+      "url": "https://www.youtube.com/watch?v=mLvJqdxS-FY",
+      "candace_ep_number": 361,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 127
+    },
+    {
+      "upload_date": "2026-07-20",
+      "youtube_id": "N4uM8Jdr410",
+      "title": "UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past\u2026 | Ep 362",
+      "url": "https://www.youtube.com/watch?v=N4uM8Jdr410",
+      "candace_ep_number": 362,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 128
+    },
+    {
+      "upload_date": "2026-07-21",
+      "youtube_id": "OgRyiOAVtWU",
+      "title": "Erika Kirk Calls Me \"That B*tch\u201d. More Exclusive Photos From Charlie's SUV. | Ep 363",
+      "url": "https://www.youtube.com/watch?v=OgRyiOAVtWU",
+      "candace_ep_number": 363,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 129
+    },
+    {
+      "upload_date": "2026-07-22",
+      "youtube_id": "ds6umq1rHAw",
+      "title": "Andrew Kolvet Blames Me For Erika PR Backlash | \u201cMormon Mafia\u201d History Explained | Ep 364",
+      "url": "https://www.youtube.com/watch?v=ds6umq1rHAw",
+      "candace_ep_number": 364,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 130
+    },
+    {
+      "upload_date": "2026-07-23",
+      "youtube_id": "amqTMimDr0A",
+      "title": "EXCLUSIVE: Ben Shapiro\u2019s 9/10 \u201cLunch\u201d Date. More Text Messages From Charlie Kirk. | Ep 365",
+      "url": "https://www.youtube.com/watch?v=amqTMimDr0A",
+      "candace_ep_number": 365,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 131
+    },
+    {
+      "upload_date": "2026-07-27",
+      "youtube_id": "HZvwbfePe7o",
+      "title": "BREAKING: Charlie\u2019s Team DID Call 911 En Route To The Hospital\u2026 Andrew Kolvet\u2019s Big Lie. | Ep 366",
+      "url": "https://www.youtube.com/watch?v=HZvwbfePe7o",
+      "candace_ep_number": 366,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 132
+    },
+    {
+      "upload_date": "2026-07-28",
+      "youtube_id": "Vu6Y24pqhZs",
+      "title": "EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367",
+      "url": "https://www.youtube.com/watch?v=Vu6Y24pqhZs",
+      "candace_ep_number": 367,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 133
+    },
+    {
+      "upload_date": "2026-07-29",
+      "youtube_id": "AoYZel7_cGQ",
+      "title": "A Strange Thing Happened At Charlie\u2019s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368",
+      "url": "https://www.youtube.com/watch?v=AoYZel7_cGQ",
+      "candace_ep_number": 368,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 134
+    },
+    {
+      "upload_date": "2026-07-30",
+      "youtube_id": "iB-YtO3UZOg",
+      "title": "An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner\u2026 | Ep 369",
+      "url": "https://www.youtube.com/watch?v=iB-YtO3UZOg",
+      "candace_ep_number": 369,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 135
+    },
+    {
+      "upload_date": "2026-08-03",
+      "youtube_id": "AH1KVKkweUE",
+      "title": "Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370",
+      "url": "https://www.youtube.com/watch?v=AH1KVKkweUE",
+      "candace_ep_number": 370,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 136
+    },
+    {
+      "upload_date": "2026-08-04",
+      "youtube_id": "1CFDtD0IgEg",
+      "title": "VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed\u2026 | Ep 371",
+      "url": "https://www.youtube.com/watch?v=1CFDtD0IgEg",
+      "candace_ep_number": 371,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 137
+    },
+    {
+      "upload_date": "2026-08-05",
+      "youtube_id": "ChuWo-n49B8",
+      "title": "LEAKED: \u201cProtecting Erika Kirk\u201d Group Chat, Perez Hilton\u2019s Public Breakdown. | Ep 372",
+      "url": "https://www.youtube.com/watch?v=ChuWo-n49B8",
+      "candace_ep_number": 372,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 138
+    },
+    {
+      "upload_date": "2026-08-06",
+      "youtube_id": "d7VsbEIWkP8",
+      "title": "A Shocking Truth Revealed In The \u201c4K\u201d Footage. Beavis and Butt-Head Send A Messenger\u2026 | Ep 373",
+      "url": "https://www.youtube.com/watch?v=d7VsbEIWkP8",
+      "candace_ep_number": 373,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 139
+    },
+    {
+      "upload_date": "2026-08-10",
+      "youtube_id": "5zgkrOaCCj4",
+      "title": "EXCLUSIVE: Never Before Seen Photos Of \u201cTyler Robinson\u201d On Campus. More On George Zinn... | Ep 374",
+      "url": "https://www.youtube.com/watch?v=5zgkrOaCCj4",
+      "candace_ep_number": 374,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 140
+    },
+    {
+      "upload_date": "2026-08-17",
+      "youtube_id": "E7P2ShoYDUA",
+      "title": "Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376",
+      "url": "https://www.youtube.com/watch?v=E7P2ShoYDUA",
+      "candace_ep_number": 376,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 141
+    },
+    {
+      "upload_date": "2026-08-18",
+      "youtube_id": "4JxgOclKzqg",
+      "title": "Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377",
+      "url": "https://www.youtube.com/watch?v=4JxgOclKzqg",
+      "candace_ep_number": 377,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 142
+    },
+    {
+      "upload_date": "2026-08-19",
+      "youtube_id": "9hRcfSrri70",
+      "title": "EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378",
+      "url": "https://www.youtube.com/watch?v=9hRcfSrri70",
+      "candace_ep_number": 378,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 143
+    },
+    {
+      "upload_date": "2026-08-20",
+      "youtube_id": "_cNtgris8Ik",
+      "title": "Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379",
+      "url": "https://www.youtube.com/watch?v=_cNtgris8Ik",
+      "candace_ep_number": 379,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 144
+    },
+    {
+      "upload_date": "2026-08-31",
+      "youtube_id": "JrhGEm8MGRY",
+      "title": "We\u2019re Back! And You\u2019ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380",
+      "url": "https://www.youtube.com/watch?v=JrhGEm8MGRY",
+      "candace_ep_number": 380,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 145
+    },
+    {
+      "upload_date": "2026-09-01",
+      "youtube_id": "ZkDO-MRLUco",
+      "title": "BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381",
+      "url": "https://www.youtube.com/watch?v=ZkDO-MRLUco",
+      "candace_ep_number": 381,
+      "kind": "numbered_show",
+      "notes": "upload_date: Invidious fetch failed at build time; inferred between Ep 380 (2026-08-31) and Ep 382 (2026-09-02). Re-run builder to confirm.",
+      "seq": 146
+    },
+    {
+      "upload_date": "2026-09-02",
+      "youtube_id": "HIlPQ-_dcxM",
+      "title": "Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382",
+      "url": "https://www.youtube.com/watch?v=HIlPQ-_dcxM",
+      "candace_ep_number": 382,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 147
+    },
+    {
+      "upload_date": "2026-09-08",
+      "youtube_id": "FGoeoZxDN1c",
+      "title": "Chicago\u2019s Homecoming: Ye Returns To The Stage. Charlie Kirk\u2019s One Year Approaches\u2026 | Ep 384",
+      "url": "https://www.youtube.com/watch?v=FGoeoZxDN1c",
+      "candace_ep_number": 384,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 148
+    },
+    {
+      "upload_date": "2026-09-09",
+      "youtube_id": "bpXkPHpz9po",
+      "title": "EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385",
+      "url": "https://www.youtube.com/watch?v=bpXkPHpz9po",
+      "candace_ep_number": 385,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 149
+    },
+    {
+      "upload_date": "2026-09-10",
+      "youtube_id": "S07n8TnRT0Q",
+      "title": "One Year On\u2026 To My Friend Charlie Kirk.",
+      "url": "https://www.youtube.com/watch?v=S07n8TnRT0Q",
+      "candace_ep_number": null,
+      "kind": "kirk_special",
+      "notes": null,
+      "seq": 150
+    },
+    {
+      "upload_date": "2026-09-14",
+      "youtube_id": "O4Zw3bCALjU",
+      "title": "More Exclusive Footage! For Whatever It\u2019s Farnsworth\u2026 | Ep 386",
+      "url": "https://www.youtube.com/watch?v=O4Zw3bCALjU",
+      "candace_ep_number": 386,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 151
+    },
+    {
+      "upload_date": "2026-09-15",
+      "youtube_id": "kn1E0scy9Wc",
+      "title": "A Tale Of Two Statements: Mikey McCoy\u2019s Interview. Macklemore\u2019s Mic Drop. | Ep 387",
+      "url": "https://www.youtube.com/watch?v=kn1E0scy9Wc",
+      "candace_ep_number": 387,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 152
+    },
+    {
+      "upload_date": "2026-09-16",
+      "youtube_id": "aLJhpxrakCU",
+      "title": "BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388",
+      "url": "https://www.youtube.com/watch?v=aLJhpxrakCU",
+      "candace_ep_number": 388,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 153
+    },
+    {
+      "upload_date": "2026-09-17",
+      "youtube_id": "NNiCZk1cuzs",
+      "title": "Finally! Tucker Calls Out \u201cRot\u201d At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389",
+      "url": "https://www.youtube.com/watch?v=NNiCZk1cuzs",
+      "candace_ep_number": 389,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 154
+    },
+    {
+      "upload_date": "2026-09-22",
+      "youtube_id": "6XfDqKTdFKg",
+      "title": "BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10\u2026 | Ep 391",
+      "url": "https://www.youtube.com/watch?v=6XfDqKTdFKg",
+      "candace_ep_number": 391,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 155
+    },
+    {
+      "upload_date": "2026-09-25",
+      "youtube_id": "_Sq5RqP27NY",
+      "title": "CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393",
+      "url": "https://www.youtube.com/watch?v=_Sq5RqP27NY",
+      "candace_ep_number": 393,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 156
+    }
+  ]
+}
