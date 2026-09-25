@@ -1,5 +1,7 @@
 # Bride of Charlie (Monument Zero)
 
+**Demonstration monument only.** Production Candace show + Kirk-special corpus lives in **`projects/monuments/cka/`** (CKA). **Freeze** further Candace ingest here; do **not** treat mixed tip **`7e4c948`** as the long-term promote target. Former monument eps **9–18** (Kirk tribute + Candace Ep **235–243**) remap into CKA — see CKA `input/episode_manifest.json`.
+
 First monument project. Uses the Episode Analysis Protocol for structured investigative records.
 
 ## Structure

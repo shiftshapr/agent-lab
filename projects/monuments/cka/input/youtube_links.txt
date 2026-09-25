@@ -1,0 +1,3 @@
+# CKA — YouTube links (optional; episode_manifest.json is source of truth)
+# Generate from manifest when fetch batch starts:
+#   jq -r '.episodes[] | .url' input/episode_manifest.json > input/youtube_links.txt

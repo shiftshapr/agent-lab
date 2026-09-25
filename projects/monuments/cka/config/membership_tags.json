@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "description": "Episode membership tags for CKA chronology and future BoC series fold.",
+  "tags": {
+    "cka_core": "In initial CKA manifest (numbered show or Kirk special since 2025-09-11).",
+    "boc_series_fold_pending": "Bride of Charlie series episode; listed in boc_fold_later.json until chronology fold.",
+    "cka_chronology_fold": "Same youtube_id should gain cka_core when folded without renumbering youtube_id."
+  },
+  "fold_contract": {
+    "source_monument": "bride_of_charlie",
+    "target_monument": "cka",
+    "when_chronology_reaches": "2026-02",
+    "action": "Remap monument metadata and merge claims under CKA seq; do not duplicate transcript fetch if SHA matches."
+  }
+}

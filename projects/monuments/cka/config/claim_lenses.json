@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "monument": "cka",
+  "description": "First-class claim tag lenses for CKA extractors. Stored on claim tags[] (same string-array model as BoC docs/TAGS_AND_MEME_OCCURRENCES.md). Protocol JSON schema extension deferred until first CKA extract batch.",
+  "claim_lenses": [
+    {
+      "id": "calls_for_tips",
+      "label": "Calls for tips",
+      "description": "Host asks the audience to submit tips, leads, or on-the-ground reporting."
+    },
+    {
+      "id": "decentralized_investigation",
+      "label": "Decentralized investigation / DIA-style asks",
+      "description": "Explicit audience-side investigation, crowdsourcing, or DIA-framed collaborative inquiry."
+    },
+    {
+      "id": "open_source_investigation",
+      "label": "Open source investigation / OSINT",
+      "description": "OSINT methods, public records, social traces, or teach-the-audience sourcing steps."
+    },
+    {
+      "id": "submissions_to_candace",
+      "label": "Submissions to Candace",
+      "description": "Material sent to the show, exclusives, whistleblower handoffs, or tips received by the production."
+    }
+  ],
+  "extractor_notes": "Apply zero or more lens ids to claim tags[] when the claim is primarily about that meta-behavior (in addition to topical tags like timeline, falsifiable, etc.)."
+}
