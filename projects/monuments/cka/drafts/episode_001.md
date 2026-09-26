@@ -15,7 +15,7 @@
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080
-  - Claim Range: C-1115-C-1122
+  - Claim Range: C-1115-C-1123
   - New Nodes Introduced: N-1, N-2, N-7, N-42, N-56, N-59, N-60, N-61, N-62, N-63, N-64, N-1000, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073, N-1074, N-1075
   - Reused Nodes Appearing: 
 
@@ -98,8 +98,15 @@ Confidence: high
 **A-1080.1** Kanye West's 'Power' played as the touring hype song before stage events and during #MeToo prep montage.
 Event Timestamp: 2018-2022
 Video Timestamp: 00:11:10–00:11:17
-*Related: C-1121, N-1, N-7, N-56, N-1073*
+*Related: C-1121, N-1, N-7, N-56*
 Transcript Snippet: Kanye's Power kind of became our theme song for the tour.
+Confidence: high
+
+**A-1080.2** Host recounts YWLS conference press scrum during concurrent 'him too' / #MeToo controversy.
+Event Timestamp: 2018
+Video Timestamp: 00:14:20–00:14:35
+*Related: C-1123, N-1, N-7, N-42, N-60, N-61, N-64, N-1073*
+Transcript Snippet: And then we had at the same time the YWLS conference. So the reporters who already hated us just completely they just swooped in there…
 Confidence: high
 
 ---
@@ -201,7 +208,7 @@ Tweeted 'I love the way Candace Owens thinks'; gave Charlie Kirk Yeezys; source 
 Node Type: Person
 Turning Point figure who stood with Charlie Kirk during the 'him too' press incident.
 
-*Related: A-1077.1, A-1078.1, A-1080.1, C-1115*
+*Related: A-1080.2, C-1123, A-1077.1, A-1078.1, A-1080.1, C-1115*
 
 
 
@@ -212,7 +219,7 @@ Turning Point figure who stood with Charlie Kirk during the 'him too' press inci
 Node Type: Person
 Charlie's assistant at Turning Point during the #MeToo press moment.
 
-*Related: A-1077.1, A-1078.1, A-1080.1, C-1115*
+*Related: A-1080.2, C-1123, A-1077.1, A-1078.1, A-1080.1, C-1115*
 Uncertainty: Last name not given in transcript.
 
 
@@ -295,7 +302,7 @@ Node Type: Organization
 Organization Kind: conference
 Conference concurrent with the 'him too' / #MeToo press incident; reporters swooped in on Candace's statements.
 
-*Related: C-1115, C-1121*
+*Related: C-1123, A-1080.2*
 Uncertainty: Acronym not expanded in transcript.
 
 ---
@@ -328,7 +335,7 @@ Claim Timestamp: 00:11:32
 Claim: Following Kanye West's tweet praising Candace Owens, Charlie and Candace celebrated backstage doing a 'Charlie dance,' as documented in a shown video clip.
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Anchored Artifacts: A-1077.1, A-1078.1, A-1080.1
-Related Nodes: N-1, N-7, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64, N-1073
+Related Nodes: N-1, N-7, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64
 Confidence: high
 Investigative Direction: Verify the exact date of the Kanye tweet and cross-reference with the shown backstage clip timestamp.
 
@@ -357,6 +364,19 @@ Anchored Artifacts: A-1077.2
 Related Nodes: N-1, N-7
 Confidence: medium
 Investigative Direction: Cross-reference hurricane event dates in NC/SC to narrow the trip timeframe.
+
+Tags: open_source_investigation
+---
+
+**C-1123** YWLS conference reporters pressed Candace during 'him too' controversy
+
+Claim Timestamp: 00:14:20
+Claim: While the YWLS conference ran concurrently with the viral 'him too' / #MeToo backlash, hostile reporters converged on Candace and Charlie's team; Charlie Kirk and Andrew Kolvet held the line backing Candace's due-process stance.
+Transcript Snippet: And then we had at the same time the YWLS conference. So the reporters who already hated us just completely they just swooped in there…
+Anchored Artifacts: A-1080.2
+Related Nodes: N-1, N-7, N-42, N-60, N-61, N-64, N-1073
+Confidence: high
+Investigative Direction: Identify YWLS conference date/location and contemporaneous press coverage of the 'him too' shirt incident.
 
 Tags: open_source_investigation
 ---

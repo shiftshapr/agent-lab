@@ -204,13 +204,35 @@
           "related_nodes": [
             "N-1",
             "N-7",
-            "N-56",
-            "N-1073"
+            "N-56"
           ],
           "tags": [],
           "event_timestamp": "2018-2022",
           "video_timestamp": "00:11:10–00:11:17",
           "transcript_snippet": "Kanye's Power kind of became our theme song for the tour.",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1080.2",
+          "ref": "A-1080.2",
+          "description": "Host recounts YWLS conference press scrum during concurrent 'him too' / #MeToo controversy.",
+          "related_claims": [
+            "C-1123"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7",
+            "N-42",
+            "N-60",
+            "N-61",
+            "N-64",
+            "N-1073"
+          ],
+          "tags": [],
+          "event_timestamp": "2018",
+          "video_timestamp": "00:14:20–00:14:35",
+          "transcript_snippet": "And then we had at the same time the YWLS conference. So the reporters who already hated us just completely they just swooped in there…",
           "confidence": "high"
         }
       ]
@@ -435,16 +457,18 @@
       "type": "person",
       "description": "Turning Point figure who stood with Charlie Kirk during the 'him too' press incident.",
       "related_artifacts": [
+        "A-1080.2",
         "A-1077.1",
         "A-1078.1",
         "A-1080.1"
       ],
       "related_claims": [
+        "C-1123",
         "C-1115"
       ],
       "tags": [],
-      "evidence_count": 3,
-      "claim_count": 1,
+      "evidence_count": 4,
+      "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high"
     },
@@ -456,16 +480,18 @@
       "type": "person",
       "description": "Charlie's assistant at Turning Point during the #MeToo press moment.",
       "related_artifacts": [
+        "A-1080.2",
         "A-1077.1",
         "A-1078.1",
         "A-1080.1"
       ],
       "related_claims": [
+        "C-1123",
         "C-1115"
       ],
       "tags": [],
-      "evidence_count": 3,
-      "claim_count": 1,
+      "evidence_count": 4,
+      "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
       "uncertainty_note": "Last name not given in transcript."
@@ -611,14 +637,15 @@
       "name": "YWLS Conference",
       "type": "organization",
       "description": "Conference concurrent with the 'him too' / #MeToo press incident; reporters swooped in on Candace's statements.",
-      "related_artifacts": [],
+      "related_artifacts": [
+        "A-1080.2"
+      ],
       "related_claims": [
-        "C-1115",
-        "C-1121"
+        "C-1123"
       ],
       "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
+      "evidence_count": 1,
+      "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
       "organization_kind": "conference",
@@ -685,8 +712,7 @@
         "N-62",
         "N-63",
         "N-42",
-        "N-64",
-        "N-1073"
+        "N-64"
       ],
       "tags": [],
       "claim_timestamp": "00:11:32",
@@ -733,6 +759,30 @@
       "investigative_direction": "Cross-reference hurricane event dates in NC/SC to narrow the trip timeframe.",
       "transcript_snippet": "We got to rent a car. We got to drive eight hours. One of the most fun road trips I've had in my life.",
       "confidence": "medium"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1123",
+      "ref": "C-1123",
+      "label": "YWLS conference reporters pressed Candace during 'him too' controversy",
+      "claim": "While the YWLS conference ran concurrently with the viral 'him too' / #MeToo backlash, hostile reporters converged on Candace and Charlie's team; Charlie Kirk and Andrew Kolvet held the line backing Candace's due-process stance.",
+      "anchored_artifacts": [
+        "A-1080.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-7",
+        "N-42",
+        "N-60",
+        "N-61",
+        "N-64",
+        "N-1073"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:20",
+      "investigative_direction": "Identify YWLS conference date/location and contemporaneous press coverage of the 'him too' shirt incident.",
+      "transcript_snippet": "And then we had at the same time the YWLS conference. So the reporters who already hated us just completely they just swooped in there…",
+      "confidence": "high"
     },
     {
       "@type": "Claim",

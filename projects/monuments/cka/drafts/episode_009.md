@@ -16,7 +16,7 @@
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1155, A-1156, A-1157, A-1158, A-1159, A-1160, A-1161
-  - Claim Range: C-1267-C-1284
+  - Claim Range: C-1267-C-1285
   - New Nodes Introduced: N-148, N-149, N-150, N-151, N-152, N-153, N-154, N-155, N-156, N-157, N-158, N-159, N-160, N-161, N-162, N-163, N-164, N-1003, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1183, N-1184, N-1185, N-1186, N-1187, N-1188, N-1189, N-1190, N-1191, N-1192, N-1193, N-1194
   - Reused Nodes Appearing: N-1, N-2, N-7, N-69, N-75, N-79, N-80, N-99, N-100, N-122, N-133, N-1077, N-1137
 
@@ -476,7 +476,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 Host asserts MK Ultra never discontinued and feeds lone-shooter candidates.
 
-*Related: *
+*Related: C-1285*
 
 ---
 
@@ -548,7 +548,7 @@ Node Type: Organization
 Organization Kind: program_or_initiative
 CIA program (1950s-60s); host asserts it was never discontinued.
 
-*Related: C-1270, C-1273*
+*Related: C-1285*
 
 ---
 
@@ -678,13 +678,26 @@ Investigative Direction: Verify timestamps against phone records; preserve scree
 
 ---
 
+**C-1285** Host asserts MK Ultra program never discontinued
+
+Claim Timestamp: 00:26:59
+Claim: Host argues the historical MK Ultra program was never discontinued and that federal 'lone shooter' narratives resemble 1960s-era manipulation, feeding school-age candidates into violence plots.
+Transcript Snippet: …learning the reality of what happened throughout the 1960s when MK Ultra when that program was running. And I have no reason to believe that that program was ever discontinued.
+Anchored Artifacts: 
+Related Nodes: N-1003, N-1182, N-1178, N-148
+Confidence: low
+Investigative Direction: Treat as host hypothesis; separate documented MK Ultra history from contemporaneous Kirk/Crooks case evidence.
+
+Tags: open_source_investigation
+---
+
 **C-1270** Existence of 80-page Crooks online-history document
 
 Claim Timestamp: 00:28:09
 Claim: Host possesses an 80-page document containing scraped Crooks online accounts, statements, and activity predating July 13, 2024.
 Transcript Snippet: I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.
 Anchored Artifacts: A-1156.1
-Related Nodes: N-148, N-1177, N-1186, N-1003, N-1182
+Related Nodes: N-148, N-1177, N-1186
 Confidence: medium
 Investigative Direction: Obtain full document; forensically authenticate scrape and timestamps.
 
