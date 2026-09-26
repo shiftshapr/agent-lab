@@ -660,7 +660,7 @@ Claim Timestamp: 00:12:38
 Claim: Candace met her husband for the first time during the UK trip and they were engaged 18 days later.
 Transcript Snippet: I didn't know him. I never even saw his face 18 day 18 days prior.
 Anchored Artifacts: A-1155.1
-Related Nodes: N-7, N-100, N-1184, N-1192
+Related Nodes: N-7, N-100, N-1184, N-1192, N-1192
 Confidence: medium
 Investigative Direction: Corroborate via marriage records, flight manifests, and Turning Point UK launch date.
 
@@ -697,7 +697,7 @@ Claim Timestamp: 00:28:09
 Claim: Host possesses an 80-page document containing scraped Crooks online accounts, statements, and activity predating July 13, 2024.
 Transcript Snippet: I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.
 Anchored Artifacts: A-1156.1
-Related Nodes: N-148, N-1177, N-1186
+Related Nodes: N-148, N-1177, N-1186, N-1003, N-1182
 Confidence: medium
 Investigative Direction: Obtain full document; forensically authenticate scrape and timestamps.
 
@@ -782,7 +782,7 @@ Claim Timestamp: 00:18:56
 Claim: At a Sept 9 book club meeting, Candace publicly described her decision to homeschool and remove her children from school.
 Transcript Snippet: I'm homeschooling my kids. I'm so excited.
 Anchored Artifacts: A-1160.1
-Related Nodes: N-7, N-1179, N-1194, N-1181
+Related Nodes: N-7, N-1179, N-1194, N-1181, N-1194, N-1181
 Confidence: high
 Investigative Direction: Verify date and obtain full recording.
 
@@ -807,7 +807,7 @@ Claim Timestamp: 00:01:42
 Claim: Host claims a well-placed source says the FBI is pressuring Utah authorities to declare the Charlie Kirk case closed as a lone-gunman act.
 Transcript Snippet: The FBI is putting an absurd amount of pressure…to come out and to say that the Charlie Kirk case is closed.
 Anchored Artifacts: 
-Related Nodes: N-1137, N-1175, N-1191
+Related Nodes: N-1137, N-1175, N-1191, N-1191
 Confidence: low
 Investigative Direction: Identify and corroborate the source; FOIA communications between FBI and Utah authorities.
 

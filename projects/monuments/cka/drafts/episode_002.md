@@ -793,7 +793,7 @@ Claim Timestamp: 00:15:01
 Claim: Host asserts Bill Ackman staged an intervention in the Hamptons where he pressured Kirk on Israel.
 Transcript Snippet: An intervention was staged by Bill Aman because Charlie's thoughts, Charlie's rational thoughts about Israel were a no no.
 Anchored Artifacts: A-1092.1
-Related Nodes: N-66, N-67, N-1, N-7, N-78, N-1081
+Related Nodes: N-66, N-67, N-1, N-7, N-78, N-1081, N-1092, N-1000
 Confidence: medium
 Uncertainty: Host says she was told; she directly challenges Ackman to dispute. No independent confirmation shown.
 Investigative Direction: Identify attendees and obtain statements from Seth Dylan and any other Hamptons meeting witnesses.

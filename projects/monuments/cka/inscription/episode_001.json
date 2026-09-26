@@ -17,7 +17,7 @@
     "candace_ep_number": null,
     "kind": "kirk_special"
   },
-  "executive_summary": "Memorial/tribute episode in which host Candace Owens recounts personal memories of Charlie Kirk following his death. Artifacts shown include backstage video clips, text-message screen recordings, personal photographs, road-trip audio, and protest-incident footage. Episode documents the personal/professional relationship between Owens and Kirk and revisits past public controversies (Blexit, 'him too' T-shirt, Israel stance, Kanye tweet). Limited new investigative content; primarily retrospective narrative.",
+  "executive_summary": "",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -204,7 +204,8 @@
           "related_nodes": [
             "N-1",
             "N-7",
-            "N-56"
+            "N-56",
+            "N-1073"
           ],
           "tags": [],
           "event_timestamp": "2018-2022",
@@ -603,7 +604,7 @@
       "description": "Charlie's rule was 'never say no to Fox News'; described as 4 hits/day including 4am Fox and Friends First.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1122"
+        "C-1124"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -641,13 +642,14 @@
         "A-1080.2"
       ],
       "related_claims": [
-        "C-1123"
+        "C-1123",
+        "C-1124"
       ],
       "tags": [],
       "evidence_count": 1,
-      "claim_count": 1,
+      "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium",
+      "investigative_pressure": "high",
       "organization_kind": "conference",
       "uncertainty_note": "Acronym not expanded in transcript."
     },
@@ -712,7 +714,8 @@
         "N-62",
         "N-63",
         "N-42",
-        "N-64"
+        "N-64",
+        "N-1073"
       ],
       "tags": [],
       "claim_timestamp": "00:11:32",
@@ -783,6 +786,24 @@
       "investigative_direction": "Identify YWLS conference date/location and contemporaneous press coverage of the 'him too' shirt incident.",
       "transcript_snippet": "And then we had at the same time the YWLS conference. So the reporters who already hated us just completely they just swooped in there…",
       "confidence": "high"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1124",
+      "ref": "C-1124",
+      "label": "Charlie's 'never say no to Fox News' media rule",
+      "claim": "Charlie Kirk enforced a team rule to never decline Fox News bookings, averaging about four Fox appearances per day including early-morning 'Fox and Friends First,' per host recollection.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1",
+        "N-7",
+        "N-1071"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:29",
+      "investigative_direction": "Corroborate via TPUSA staff schedules or published Fox booking logs from the cited era.",
+      "transcript_snippet": "Charlie's rule was never say no to Fox News… four hits a day up at 4:00 a.m. for Fox and Friends First.",
+      "confidence": "medium"
     },
     {
       "@type": "Claim",

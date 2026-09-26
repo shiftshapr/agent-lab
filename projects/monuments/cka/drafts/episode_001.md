@@ -15,11 +15,9 @@
 
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080
-  - Claim Range: C-1115-C-1123
+  - Claim Range: C-1115-C-1124
   - New Nodes Introduced: N-1, N-2, N-7, N-42, N-56, N-59, N-60, N-61, N-62, N-63, N-64, N-1000, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073, N-1074, N-1075
   - Reused Nodes Appearing: 
-
-## 2. Executive Summary
 
 Memorial/tribute episode in which host Candace Owens recounts personal memories of Charlie Kirk following his death. Artifacts shown include backstage video clips, text-message screen recordings, personal photographs, road-trip audio, and protest-incident footage. Episode documents the personal/professional relationship between Owens and Kirk and revisits past public controversies (Blexit, 'him too' T-shirt, Israel stance, Kanye tweet). Limited new investigative content; primarily retrospective narrative.
 
@@ -98,7 +96,7 @@ Confidence: high
 **A-1080.1** Kanye West's 'Power' played as the touring hype song before stage events and during #MeToo prep montage.
 Event Timestamp: 2018-2022
 Video Timestamp: 00:11:10–00:11:17
-*Related: C-1121, N-1, N-7, N-56*
+*Related: C-1121, N-1, N-7, N-56, N-1073*
 Transcript Snippet: Kanye's Power kind of became our theme song for the tour.
 Confidence: high
 
@@ -282,7 +280,7 @@ Node Type: Organization
 Organization Kind: media_outlet
 Charlie's rule was 'never say no to Fox News'; described as 4 hits/day including 4am Fox and Friends First.
 
-*Related: C-1122*
+*Related: C-1124*
 
 ---
 
@@ -302,7 +300,7 @@ Node Type: Organization
 Organization Kind: conference
 Conference concurrent with the 'him too' / #MeToo press incident; reporters swooped in on Candace's statements.
 
-*Related: C-1123, A-1080.2*
+*Related: C-1123, C-1124, A-1080.2*
 Uncertainty: Acronym not expanded in transcript.
 
 ---
@@ -335,7 +333,7 @@ Claim Timestamp: 00:11:32
 Claim: Following Kanye West's tweet praising Candace Owens, Charlie and Candace celebrated backstage doing a 'Charlie dance,' as documented in a shown video clip.
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Anchored Artifacts: A-1077.1, A-1078.1, A-1080.1
-Related Nodes: N-1, N-7, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64
+Related Nodes: N-1, N-7, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64, N-1073
 Confidence: high
 Investigative Direction: Verify the exact date of the Kanye tweet and cross-reference with the shown backstage clip timestamp.
 
@@ -377,6 +375,19 @@ Anchored Artifacts: A-1080.2
 Related Nodes: N-1, N-7, N-42, N-60, N-61, N-64, N-1073
 Confidence: high
 Investigative Direction: Identify YWLS conference date/location and contemporaneous press coverage of the 'him too' shirt incident.
+
+Tags: open_source_investigation
+---
+
+**C-1124** Charlie's 'never say no to Fox News' media rule
+
+Claim Timestamp: 00:03:29
+Claim: Charlie Kirk enforced a team rule to never decline Fox News bookings, averaging about four Fox appearances per day including early-morning 'Fox and Friends First,' per host recollection.
+Transcript Snippet: Charlie's rule was never say no to Fox News… four hits a day up at 4:00 a.m. for Fox and Friends First.
+Anchored Artifacts: 
+Related Nodes: N-1, N-7, N-1071
+Confidence: medium
+Investigative Direction: Corroborate via TPUSA staff schedules or published Fox booking logs from the cited era.
 
 Tags: open_source_investigation
 ---
