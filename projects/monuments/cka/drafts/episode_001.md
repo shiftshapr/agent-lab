@@ -8,7 +8,7 @@
 - **YouTube id**: _dRaEO47-co
 - **Remap source**: bride_of_charlie monument ep 9 (no re-extract)
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00-23:47:00
+- **Video Timestamp Range**: 00:00:00–00:23:48
 - **Extraction Timestamp (UTC)**: 2026-09-23T18:42:21Z
 - **Model Version**: MiniMax-M2.5
 - **Transcript SHA-256**: 4e6d0208251c90a7fbd3a8be5f2caaf0ebe78bfeb35177af48f4b0ff29ff2356
@@ -16,7 +16,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080
   - Claim Range: C-1115-C-1122
-  - New Nodes Introduced: N-1, N-2, N-7, N-42, N-56, N-59, N-60, N-61, N-62, N-63, N-1000, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073, N-1074, N-1075
+  - New Nodes Introduced: N-1, N-2, N-7, N-42, N-56, N-59, N-60, N-61, N-62, N-63, N-64, N-1000, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073, N-1074, N-1075
+  - Reused Nodes Appearing: 
 
 ## 2. Executive Summary
 
@@ -28,28 +29,28 @@ Memorial/tribute episode in which host Candace Owens recounts personal memories 
 
 **A-1077.1** Backstage celebration clip of 'Charlie dance' after Kanye West's tweet about Candace.
 Event Timestamp: 2022-05-01
-Video Timestamp: 00:11:32-00:11:47
+Video Timestamp: 00:11:32–00:11:47
 *Related: C-1115, C-1116, N-1, N-7, N-56*
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Confidence: high
 
 **A-1077.2** Road trip audio/video from North/South Carolina during hurricane-driven 8-hour drive to DC.
 Event Timestamp: 2018
-Video Timestamp: 00:13:49-00:14:01
+Video Timestamp: 00:13:49–00:14:01
 *Related: C-1117, N-1, N-7*
 Transcript Snippet: Every single song was sung. Me and Charlie were always singing in cars.
 Confidence: medium
 
 **A-1077.3** Video of Charlie Kirk being chased out of a Philadelphia restaurant by Antifa; water and egg thrown.
 Event Timestamp: 2018-2019
-Video Timestamp: 00:16:07-00:16:30
+Video Timestamp: 00:16:07–00:16:30
 *Related: C-1118, N-1, N-7*
 Transcript Snippet: The infamous day that we got chased out of a Philadelphia restaurant by Antifa…
 Confidence: high
 
 **A-1077.4** Campus event clip of Candace playing with protesters in front of signs while Charlie speaks over her shoulder.
 Event Timestamp: 2018-2019
-Video Timestamp: 00:16:57-00:17:17
+Video Timestamp: 00:16:57–00:17:17
 *Related: N-1, N-7*
 Transcript Snippet: I love this video of me just playing with the protesters sitting in front of one of their signs…
 Confidence: medium
@@ -60,7 +61,7 @@ Confidence: medium
 
 **A-1078.1** Photo of Charlie Kirk wearing Yeezys given to him by Kanye West.
 Event Timestamp: 2022
-Video Timestamp: 00:12:24-00:12:36
+Video Timestamp: 00:12:24–00:12:36
 *Related: C-1115, N-1, N-56*
 Transcript Snippet: He was wearing a pair of Yeezys that Kanye gave him and he looked really cool.
 Confidence: high
@@ -71,21 +72,21 @@ Confidence: high
 
 **A-1079.1** Screen recording of text messages between Charlie and Candace about a pair of sunglasses.
 Event Timestamp: 2018-2022
-Video Timestamp: 00:12:03-00:12:16
+Video Timestamp: 00:12:03–00:12:16
 *Related: N-1, N-7*
 Transcript Snippet: He's just setting me. I'm like, 'Nah, that's not good. Nope. Send. Okay, that one's okay.'
 Confidence: high
 
 **A-1079.2** Text chain where Charlie approves of Candace's then-boyfriend George (now husband) after one evening together.
 Event Timestamp: 2018-2019
-Video Timestamp: 00:18:09-00:18:19
+Video Timestamp: 00:18:09–00:18:19
 *Related: C-1119, N-1, N-7, N-59*
 Transcript Snippet: His heart is wonderful. You guys are meant for each other. I see it brilliantly and clearly.
 Confidence: high
 
 **A-1079.3** Text chain joking about convincing Erika Frantzey to take the Kirk last name as a 'practical decision'.
 Event Timestamp: 2019-2020
-Video Timestamp: 00:19:23-00:19:43
+Video Timestamp: 00:19:23–00:19:43
 *Related: C-1120, N-1, N-7, N-2*
 Transcript Snippet: Marry me. It's a logistics thing. Mrs. Erika Kirk sounds so much better than Mrs. Eric.
 Confidence: high
@@ -96,8 +97,8 @@ Confidence: high
 
 **A-1080.1** Kanye West's 'Power' played as the touring hype song before stage events and during #MeToo prep montage.
 Event Timestamp: 2018-2022
-Video Timestamp: 00:11:10-00:11:17
-*Related: C-1121, N-1, N-7, N-56*
+Video Timestamp: 00:11:10–00:11:17
+*Related: C-1121, N-1, N-7, N-56, N-1073*
 Transcript Snippet: Kanye's Power kind of became our theme song for the tour.
 Confidence: high
 
@@ -133,7 +134,7 @@ Uncertainty: Surname not stated in transcript.
 
 ---
 
-**N-2** Erika Kirk (née Frantzey)
+**N-2** Erika Kirk
 
 Node Type: Person
 Charlie Kirk's wife; subject of the 'Kirk vs Frantzey' name plan text chain.
@@ -294,7 +295,7 @@ Node Type: Organization
 Organization Kind: conference
 Conference concurrent with the 'him too' / #MeToo press incident; reporters swooped in on Candace's statements.
 
-*Related: C-1118*
+*Related: C-1115, C-1121*
 Uncertainty: Acronym not expanded in transcript.
 
 ---
@@ -327,7 +328,7 @@ Claim Timestamp: 00:11:32
 Claim: Following Kanye West's tweet praising Candace Owens, Charlie and Candace celebrated backstage doing a 'Charlie dance,' as documented in a shown video clip.
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Anchored Artifacts: A-1077.1, A-1078.1, A-1080.1
-Related Nodes: N-1, N-7, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64
+Related Nodes: N-1, N-7, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64, N-1073
 Confidence: high
 Investigative Direction: Verify the exact date of the Kanye tweet and cross-reference with the shown backstage clip timestamp.
 

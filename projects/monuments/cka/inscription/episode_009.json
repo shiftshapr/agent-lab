@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–01:00:37",
+    "video_timestamp_range": "00:00:00–00:47:35",
     "extraction_timestamp": "2026-09-23T21:00:52Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "7933bf7ce0c35c6791d8a7f52049abb35b4faf23776ec6f24d74301e973fe27f",
@@ -1112,12 +1112,15 @@
       "type": "organization",
       "description": "CIA program (1950s-60s); host asserts it was never discontinued.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1270",
+        "C-1273"
+      ],
       "tags": [],
       "evidence_count": 0,
-      "claim_count": 0,
+      "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "organization_kind": "program_or_initiative"
     },
     {
@@ -1303,7 +1306,8 @@
       "related_nodes": [
         "N-7",
         "N-100",
-        "N-1184"
+        "N-1184",
+        "N-1192"
       ],
       "tags": [],
       "claim_timestamp": "00:12:38",
@@ -1344,7 +1348,9 @@
       "related_nodes": [
         "N-148",
         "N-1177",
-        "N-1186"
+        "N-1186",
+        "N-1003",
+        "N-1182"
       ],
       "tags": [],
       "claim_timestamp": "00:28:09",
@@ -1485,7 +1491,9 @@
       ],
       "related_nodes": [
         "N-7",
-        "N-1179"
+        "N-1179",
+        "N-1194",
+        "N-1181"
       ],
       "tags": [],
       "claim_timestamp": "00:18:56",
@@ -1522,7 +1530,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1137",
-        "N-1175"
+        "N-1175",
+        "N-1191"
       ],
       "tags": [],
       "claim_timestamp": "00:01:42",

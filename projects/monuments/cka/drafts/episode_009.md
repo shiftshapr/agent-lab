@@ -9,7 +9,7 @@
 - **Candace Ep**: 242
 - **Remap source**: bride_of_charlie monument ep 17 (no re-extract)
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–01:00:37
+- **Video Timestamp Range**: 00:00:00–00:47:35
 - **Extraction Timestamp (UTC)**: 2026-09-23T21:00:52Z
 - **Model Version**: MiniMax-M2.5
 - **Transcript SHA-256**: 7933bf7ce0c35c6791d8a7f52049abb35b4faf23776ec6f24d74301e973fe27f
@@ -17,7 +17,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1155, A-1156, A-1157, A-1158, A-1159, A-1160, A-1161
   - Claim Range: C-1267-C-1284
-  - New Nodes Introduced: N-1, N-2, N-7, N-61, N-64, N-67, N-68, N-70, N-73, N-74, N-77, N-78, N-89, N-90, N-91, N-97, N-100, N-105, N-113, N-125, N-126, N-127, N-128, N-129, N-130, N-1003, N-1076, N-1127, N-1134, N-1143, N-1144, N-1147, N-1155, N-1156, N-1157, N-1158, N-1161, N-1162, N-1163, N-1164, N-1165, N-1166, N-1167, N-1168, N-1169, N-1170, N-1171, N-1172, N-1173, N-1174, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1183, N-1184, N-1185, N-1186, N-1187, N-1188, N-1189, N-1190, N-1191, N-1192, N-1193, N-1194
+  - New Nodes Introduced: N-148, N-149, N-150, N-151, N-152, N-153, N-154, N-155, N-156, N-157, N-158, N-159, N-160, N-161, N-162, N-163, N-164, N-1003, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1183, N-1184, N-1185, N-1186, N-1187, N-1188, N-1189, N-1190, N-1191, N-1192, N-1193, N-1194
+  - Reused Nodes Appearing: N-1, N-2, N-7, N-69, N-75, N-79, N-80, N-99, N-100, N-122, N-133, N-1077, N-1137
 
 ## 2. Executive Summary
 
@@ -547,7 +548,7 @@ Node Type: Organization
 Organization Kind: program_or_initiative
 CIA program (1950s-60s); host asserts it was never discontinued.
 
-*Related: *
+*Related: C-1270, C-1273*
 
 ---
 
@@ -659,7 +660,7 @@ Claim Timestamp: 00:12:38
 Claim: Candace met her husband for the first time during the UK trip and they were engaged 18 days later.
 Transcript Snippet: I didn't know him. I never even saw his face 18 day 18 days prior.
 Anchored Artifacts: A-1155.1
-Related Nodes: N-7, N-100, N-1184
+Related Nodes: N-7, N-100, N-1184, N-1192
 Confidence: medium
 Investigative Direction: Corroborate via marriage records, flight manifests, and Turning Point UK launch date.
 
@@ -683,7 +684,7 @@ Claim Timestamp: 00:28:09
 Claim: Host possesses an 80-page document containing scraped Crooks online accounts, statements, and activity predating July 13, 2024.
 Transcript Snippet: I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.
 Anchored Artifacts: A-1156.1
-Related Nodes: N-148, N-1177, N-1186
+Related Nodes: N-148, N-1177, N-1186, N-1003, N-1182
 Confidence: medium
 Investigative Direction: Obtain full document; forensically authenticate scrape and timestamps.
 
@@ -768,7 +769,7 @@ Claim Timestamp: 00:18:56
 Claim: At a Sept 9 book club meeting, Candace publicly described her decision to homeschool and remove her children from school.
 Transcript Snippet: I'm homeschooling my kids. I'm so excited.
 Anchored Artifacts: A-1160.1
-Related Nodes: N-7, N-1179
+Related Nodes: N-7, N-1179, N-1194, N-1181
 Confidence: high
 Investigative Direction: Verify date and obtain full recording.
 
@@ -793,7 +794,7 @@ Claim Timestamp: 00:01:42
 Claim: Host claims a well-placed source says the FBI is pressuring Utah authorities to declare the Charlie Kirk case closed as a lone-gunman act.
 Transcript Snippet: The FBI is putting an absurd amount of pressure…to come out and to say that the Charlie Kirk case is closed.
 Anchored Artifacts: 
-Related Nodes: N-1137, N-1175
+Related Nodes: N-1137, N-1175, N-1191
 Confidence: low
 Investigative Direction: Identify and corroborate the source; FOIA communications between FBI and Utah authorities.
 
