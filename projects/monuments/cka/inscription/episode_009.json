@@ -1236,12 +1236,14 @@
       "type": "place",
       "description": "Source of communist underground symbol found online by Candace.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1277"
+      ],
       "tags": [],
       "evidence_count": 0,
-      "claim_count": 0,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "place_kind": "country"
     },
     {
@@ -1309,6 +1311,7 @@
         "N-100",
         "N-1184",
         "N-1192",
+        "N-1192",
         "N-1192"
       ],
       "tags": [],
@@ -1370,6 +1373,8 @@
         "N-148",
         "N-1177",
         "N-1186",
+        "N-1003",
+        "N-1182",
         "N-1003",
         "N-1182"
       ],
@@ -1516,6 +1521,9 @@
         "N-1194",
         "N-1181",
         "N-1194",
+        "N-1181",
+        "N-1193",
+        "N-1194",
         "N-1181"
       ],
       "tags": [],
@@ -1554,6 +1562,7 @@
       "related_nodes": [
         "N-1137",
         "N-1175",
+        "N-1191",
         "N-1191",
         "N-1191"
       ],

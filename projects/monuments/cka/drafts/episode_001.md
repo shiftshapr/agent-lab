@@ -19,8 +19,6 @@
   - New Nodes Introduced: N-1, N-2, N-7, N-42, N-56, N-59, N-60, N-61, N-62, N-63, N-64, N-1000, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073, N-1074, N-1075
   - Reused Nodes Appearing: 
 
-Memorial/tribute episode in which host Candace Owens recounts personal memories of Charlie Kirk following his death. Artifacts shown include backstage video clips, text-message screen recordings, personal photographs, road-trip audio, and protest-incident footage. Episode documents the personal/professional relationship between Owens and Kirk and revisits past public controversies (Blexit, 'him too' T-shirt, Israel stance, Kanye tweet). Limited new investigative content; primarily retrospective narrative.
-
 ## 3. Artifact Register
 
 **A-1077** Video and Audio Clip Bundle
@@ -333,7 +331,7 @@ Claim Timestamp: 00:11:32
 Claim: Following Kanye West's tweet praising Candace Owens, Charlie and Candace celebrated backstage doing a 'Charlie dance,' as documented in a shown video clip.
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Anchored Artifacts: A-1077.1, A-1078.1, A-1080.1
-Related Nodes: N-1, N-7, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64, N-1073
+Related Nodes: N-1, N-7, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64, N-1073, N-1073
 Confidence: high
 Investigative Direction: Verify the exact date of the Kanye tweet and cross-reference with the shown backstage clip timestamp.
 
