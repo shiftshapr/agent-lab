@@ -9,7 +9,7 @@
 - **Candace Ep**: 236
 - **Remap source**: bride_of_charlie monument ep 11 (no re-extract)
 - **Source**: Candace Owens YouTube transcript
-- **Video Timestamp Range**: 00:00:00–01:35:43
+- **Video Timestamp Range**: 00:00:00–01:17:18
 - **Extraction Timestamp (UTC)**: 2026-09-23T19:32:56Z
 - **Model Version**: MiniMax-M2.5
 - **Transcript SHA-256**: e1b15b2a8fcf52fde2e90b2f4cb476301947917bf0f6bb881e03dc384f5ccc53
@@ -17,7 +17,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1095, A-1096, A-1097, A-1098, A-1099, A-1100, A-1101, A-1102, A-1103
   - Claim Range: C-1144-C-1174
-  - New Nodes Introduced: N-1, N-2, N-7, N-35, N-50, N-60, N-64, N-65, N-66, N-67, N-68, N-69, N-70, N-73, N-74, N-82, N-83, N-84, N-85, N-86, N-87, N-88, N-89, N-90, N-91, N-1000, N-1076, N-1077, N-1091, N-1092, N-1093, N-1094, N-1095, N-1096, N-1097, N-1098, N-1099, N-1100, N-1101, N-1102
+  - New Nodes Introduced: N-84, N-85, N-86, N-87, N-88, N-89, N-90, N-91, N-92, N-93, N-94, N-95, N-96, N-97, N-98, N-99, N-100, N-1094, N-1095, N-1096, N-1097, N-1098, N-1099, N-1100, N-1101, N-1102
+  - Reused Nodes Appearing: N-1, N-2, N-7, N-35, N-50, N-61, N-65, N-66, N-67, N-68, N-69, N-71, N-75, N-1000, N-1077
 
 ## 2. Executive Summary
 

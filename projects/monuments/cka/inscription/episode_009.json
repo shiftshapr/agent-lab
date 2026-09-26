@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–01:00:37",
+    "video_timestamp_range": "00:00:00–00:47:35",
     "extraction_timestamp": "2026-09-23T21:00:52Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "7933bf7ce0c35c6791d8a7f52049abb35b4faf23776ec6f24d74301e973fe27f",
@@ -977,12 +977,14 @@
       "type": "topic",
       "description": "Host asserts MK Ultra never discontinued and feeds lone-shooter candidates.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1285"
+      ],
       "tags": [],
       "evidence_count": 0,
-      "claim_count": 0,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "topic_kind": "narrative_pattern"
     },
     {
@@ -1112,12 +1114,14 @@
       "type": "organization",
       "description": "CIA program (1950s-60s); host asserts it was never discontinued.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1285"
+      ],
       "tags": [],
       "evidence_count": 0,
-      "claim_count": 0,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "organization_kind": "program_or_initiative"
     },
     {
@@ -1232,12 +1236,14 @@
       "type": "place",
       "description": "Source of communist underground symbol found online by Candace.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1277"
+      ],
       "tags": [],
       "evidence_count": 0,
-      "claim_count": 0,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
+      "investigative_pressure": "medium",
       "place_kind": "country"
     },
     {
@@ -1303,7 +1309,10 @@
       "related_nodes": [
         "N-7",
         "N-100",
-        "N-1184"
+        "N-1184",
+        "N-1192",
+        "N-1192",
+        "N-1192"
       ],
       "tags": [],
       "claim_timestamp": "00:12:38",
@@ -1334,6 +1343,25 @@
     },
     {
       "@type": "Claim",
+      "@id": "C-1285",
+      "ref": "C-1285",
+      "label": "Host asserts MK Ultra program never discontinued",
+      "claim": "Host argues the historical MK Ultra program was never discontinued and that federal 'lone shooter' narratives resemble 1960s-era manipulation, feeding school-age candidates into violence plots.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1003",
+        "N-1182",
+        "N-1178",
+        "N-148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:59",
+      "investigative_direction": "Treat as host hypothesis; separate documented MK Ultra history from contemporaneous Kirk/Crooks case evidence.",
+      "transcript_snippet": "…learning the reality of what happened throughout the 1960s when MK Ultra when that program was running. And I have no reason to believe that that program was ever discontinued.",
+      "confidence": "low"
+    },
+    {
+      "@type": "Claim",
       "@id": "C-1270",
       "ref": "C-1270",
       "label": "Existence of 80-page Crooks online-history document",
@@ -1344,7 +1372,11 @@
       "related_nodes": [
         "N-148",
         "N-1177",
-        "N-1186"
+        "N-1186",
+        "N-1003",
+        "N-1182",
+        "N-1003",
+        "N-1182"
       ],
       "tags": [],
       "claim_timestamp": "00:28:09",
@@ -1485,7 +1517,14 @@
       ],
       "related_nodes": [
         "N-7",
-        "N-1179"
+        "N-1179",
+        "N-1194",
+        "N-1181",
+        "N-1194",
+        "N-1181",
+        "N-1193",
+        "N-1194",
+        "N-1181"
       ],
       "tags": [],
       "claim_timestamp": "00:18:56",
@@ -1522,7 +1561,10 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1137",
-        "N-1175"
+        "N-1175",
+        "N-1191",
+        "N-1191",
+        "N-1191"
       ],
       "tags": [],
       "claim_timestamp": "00:01:42",
