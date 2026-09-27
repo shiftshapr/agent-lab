@@ -1,0 +1,1163 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 11,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "e3248de9a9c8ac785ac7f5841ce0455bb2650fba1baedae1ddc011bbe1dafb06",
+    "analysis_date": "2026-09-27",
+    "monument": "cka",
+    "youtube_id": "ZGxnf5cj4Uw",
+    "candace_ep_number": 244,
+    "kind": "numbered_show"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1171",
+      "family_ref": "A-1171",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1171.1",
+          "ref": "A-1171.1",
+          "description": "2022 police bodycam footage of Tyler Robinson making a vehicle crash report; Robinson uses \"my car\" and his mother \"shuttles\" — contrasted with the federal text messages' use of \"vehicle.\"",
+          "related_claims": [
+            "C-1297",
+            "C-1298"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:45–00:03:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1172",
+      "family_ref": "A-1172",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1172.1",
+          "ref": "A-1172.1",
+          "description": "Brooksby press-conference audio clip — phone call from retired detective friend at 8:02 p.m. on the 11th.",
+          "related_claims": [
+            "C-1299",
+            "C-1300"
+          ],
+          "related_nodes": [
+            "N-176"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:50–00:04:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1172.2",
+          "ref": "A-1172.2",
+          "description": "Brooksby press-conference audio clip — statement that during the call Tyler had \"suicidal ideations\" and was being directed to a remote Washington County area; parents convinced him otherwise.",
+          "related_claims": [
+            "C-1301",
+            "C-1306"
+          ],
+          "related_nodes": [
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:50–00:05:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1172.3",
+          "ref": "A-1172.3",
+          "description": "Brooksby press-conference audio clip — statement that Tyler came in willingly because he was \"fearful of a SWAT team hit\" and being shot by law enforcement; negotiation included a \"delicate and as soft as possible\" reception.",
+          "related_claims": [
+            "C-1302",
+            "C-1306"
+          ],
+          "related_nodes": [
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:30–00:06:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1173",
+      "family_ref": "A-1173",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1173.1",
+          "ref": "A-1173.1",
+          "description": "Lance's Instagram Halloween-era post captioned \"I forgot to post my boyfriend is the best. Love you.\" (Handle later removed.)",
+          "related_claims": [
+            "C-1303"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:30–00:07:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1173.2",
+          "ref": "A-1173.2",
+          "description": "Lance's Instagram post including a photo of Tyler with a mustache; presented as evidence of the romantic relationship.",
+          "related_claims": [
+            "C-1303"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:50–00:08:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1174",
+      "family_ref": "A-1174",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1174.1",
+          "ref": "A-1174.1",
+          "description": "Washington County Sheriff's Office social-media retirement-celebration post (image with Brooksby on the left) captioned: \"Today, we celebrated the career of Detective Mike Mitchell. After over 24 years of serving … starting in the jail back in 1999. Sheriff Brooksby and Detective Mitchell both had some wonderful stories to share.\"",
+          "related_claims": [
+            "C-1304",
+            "C-1305"
+          ],
+          "related_nodes": [
+            "N-176",
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:00–00:16:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1175",
+      "family_ref": "A-1175",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1175.1",
+          "ref": "A-1175.1",
+          "description": "Photograph of a person in a black suit and dark sunglasses with a strap hanging from a bag, taken in the UVU food court; supplied by source \"Nick.\"",
+          "related_claims": [
+            "C-1316"
+          ],
+          "related_nodes": [
+            "N-177",
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:00–00:25:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1176",
+      "family_ref": "A-1176",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1176.1",
+          "ref": "A-1176.1",
+          "description": "TMZ-obtained neighborhood surveillance footage showing the shooter walking past a residential driveway twice on the day of the shooting; Lyman's gray CRV visible in the distance.",
+          "related_claims": [
+            "C-1307",
+            "C-1314"
+          ],
+          "related_nodes": [
+            "N-92",
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:00–00:29:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1177",
+      "family_ref": "A-1177",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1177.1",
+          "ref": "A-1177.1",
+          "description": "Audio/video clip of Phil Lyman speaking to Kaye McAney about his aunt's driveway being in the TMZ footage, his gray CRV being parked there ~10 minutes before the shooter walked by, and his return to the house with a friend afterward; describes family ownership of approximately twelve homes on the street.",
+          "related_claims": [
+            "C-1307",
+            "C-1308"
+          ],
+          "related_nodes": [
+            "N-92",
+            "N-180",
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:00–00:29:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1178",
+      "family_ref": "A-1178",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1178.1",
+          "ref": "A-1178.1",
+          "description": "Audio clip of Phil Lyman on Alex Jones describing being at the east end of the venue, hearing a \"loud boom,\" retreating behind retaining walls, and encountering two \"very goth, very black\" girls who said the shot was \"just right over there\" and were not running; one girl reportedly said \"Go f yourselves\" while looking at fleeing people.",
+          "related_claims": [
+            "C-1309"
+          ],
+          "related_nodes": [
+            "N-92",
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:00–00:32:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1179",
+      "family_ref": "A-1179",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1179.1",
+          "ref": "A-1179.1",
+          "description": "Audio clip of Phil Lyman on a local Utah news station describing being backstage, throwing hats, and standing next to the stage before going to \"meet some friends\" (away from the stage).",
+          "related_claims": [
+            "C-1310"
+          ],
+          "related_nodes": [
+            "N-92",
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:30–00:33:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1180",
+      "family_ref": "A-1180",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1180.1",
+          "ref": "A-1180.1",
+          "description": "Phil Lyman's Instagram video dated September 10, 2025, ~11:30 PM, in which he states he is driving from Salt Lake to Blanding, stopping by UVU campus to thank police, and recounts that he was \"very close this morning\" to where Charlie Kirk was, met Charlie backstage, decided to \"go up top,\" and concluded the shot was a \"200 yard kill shot\" from the roof.",
+          "related_claims": [
+            "C-1311"
+          ],
+          "related_nodes": [
+            "N-92",
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:00–00:35:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1181",
+      "family_ref": "A-1181",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1181.1",
+          "ref": "A-1181.1",
+          "description": "Shane Lyman's Instagram post presenting a map of the area near his grandmother's house and stating he retraced the shooter's steps with friends and took \"pictures in the exact place that the security cameras caught him\"; image shows Converse-brand footprints.",
+          "related_claims": [
+            "C-1312",
+            "C-1313"
+          ],
+          "related_nodes": [
+            "N-179",
+            "N-92",
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:00–00:41:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1181.2",
+          "ref": "A-1181.2",
+          "description": "Shane Lyman's Instagram post showing side-by-side staircase photos of Shane and three friends in the same staircase configuration as the blurred suspect image; host notes she could not identify two of the individuals on his friends list.",
+          "related_claims": [
+            "C-1313"
+          ],
+          "related_nodes": [
+            "N-179",
+            "N-92",
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:00–00:42:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1182",
+      "family_ref": "A-1182",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1182.1",
+          "ref": "A-1182.1",
+          "description": "Comment from \"Marzy\" discussing poisoned/keyholed bullet mechanics for fragmentation damage.",
+          "related_claims": [
+            "C-1317"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1182.2",
+          "ref": "A-1182.2",
+          "description": "Comment from \"Caitlyn Derrian\" describing the host as a model of real journalism.",
+          "related_claims": [
+            "C-1318"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1182.3",
+          "ref": "A-1182.3",
+          "description": "Comment from \"Kristen Theoret\" stating the people closest to Charlie are simply moving on and that the host is the only one capable of unraveling the truth.",
+          "related_claims": [
+            "C-1319"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1182.4",
+          "ref": "A-1182.4",
+          "description": "Comment from \"Bitsy\" stating \"The whole world is a stage … it's all lies.\"",
+          "related_claims": [
+            "C-1320"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1182.5",
+          "ref": "A-1182.5",
+          "description": "Comment from \"Miranda Allen\" offering prayers for protection over investigators.",
+          "related_claims": [
+            "C-1320"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1182.6",
+          "ref": "A-1182.6",
+          "description": "Comment from \"Cassie\" stating many social-media figures have lost credibility by not asking questions about the shooting.",
+          "related_claims": [
+            "C-1319"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1182.7",
+          "ref": "A-1182.7",
+          "description": "Comment from \"Kaya\" stating \"It's 1963 all over again\" and referencing Ian being mentioned.",
+          "related_claims": [
+            "C-1319",
+            "C-1315"
+          ],
+          "related_nodes": [
+            "N-181"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:53:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-176",
+      "ref": "N-176",
+      "name": "Mike Mitchell",
+      "type": "person",
+      "description": "Former Washington County Sheriff's Office detective identified by host as the \"retired detective friend\" referenced obliquely by Brooksby at the September 11 press conference; reportedly retired in January (2024) after 24+ years per the Washington County retirement post.",
+      "related_artifacts": [
+        "A-1174.1"
+      ],
+      "related_claims": [
+        "C-1304",
+        "C-1305"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-177",
+      "ref": "N-177",
+      "name": "\"Nick\" (UVU Student — Pseudonym)",
+      "type": "person",
+      "description": "Anonymous 20-year-old UVU student who worked on Phil Lyman's gubernatorial campaign and served as host's boots-on-the-ground contact; name withheld.",
+      "related_artifacts": [
+        "A-1175.1"
+      ],
+      "related_claims": [
+        "C-1316",
+        "C-1317",
+        "C-1318",
+        "C-1319",
+        "C-1320"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-92",
+        "N-1210"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-179",
+      "ref": "N-179",
+      "name": "Shane Lyman",
+      "type": "person",
+      "description": "Nephew of Phil Lyman; posted public Instagram content retracing the shooter's route near his grandmother's house; profile subsequently set to private after host inquiry.",
+      "related_artifacts": [
+        "A-1181.1",
+        "A-1181.2"
+      ],
+      "related_claims": [
+        "C-1312",
+        "C-1313"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-92"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-180",
+      "ref": "N-180",
+      "name": "Kaye McAney",
+      "type": "person",
+      "description": "Interviewer; conducted the on-camera interview with Phil Lyman in which he described his car in the driveway of the TMZ footage house.",
+      "related_artifacts": [
+        "A-1177.1"
+      ],
+      "related_claims": [
+        "C-1307"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-92"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-181",
+      "ref": "N-181",
+      "name": "Ian Carol",
+      "type": "person",
+      "description": "Independent investigator conducting parallel Utah-based investigation; reportedly offered a tour by Phil Lyman.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1314",
+        "C-1315"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-92",
+        "N-1210"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Persistent anomaly: a 24+ year Washington County detective appears to have minimal public footprint aside from a single retirement-celebration post, despite Brooksby's stated intent to protect his identity.",
+      "related_artifacts": [
+        "A-1174.1"
+      ],
+      "related_claims": [
+        "C-1305"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-176"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy between Brooksby's claim that Tyler Robinson had \"suicidal ideations\" and Brooksby's separate claim that Tyler came in willingly out of fear of being shot — two states that the host argues cannot coexist.",
+      "related_artifacts": [
+        "A-1172.2",
+        "A-1172.3"
+      ],
+      "related_claims": [
+        "C-1301",
+        "C-1302",
+        "C-1306"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Allegation by the Robinson family (via host's source) that Tyler's room in the apartment shared with Lance was staged post-arrest, including placement of a \"furry bed\" purportedly to associate Lance's attributes with Tyler.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1303"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Composite investigative target tracking Phil Lyman's documented proximity to the shooting scene (driveway, venue, rooftop area, post-shooting media appearances), his in-person contact with \"Nick,\" and his refusal to share imagery with the host's team.",
+      "related_artifacts": [
+        "A-1176.1",
+        "A-1177.1",
+        "A-1178.1",
+        "A-1179.1",
+        "A-1180.1",
+        "A-1181.1",
+        "A-1181.2"
+      ],
+      "related_claims": [
+        "C-1307",
+        "C-1308",
+        "C-1309",
+        "C-1310",
+        "C-1311",
+        "C-1320"
+      ],
+      "tags": [],
+      "evidence_count": 7,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-177",
+        "N-92",
+        "N-179",
+        "N-181"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Persistent question (raised by host's source) regarding how Tyler Robinson — accepted to Utah State, not UVU, and reportedly never having stepped on UVU campus — would have known the rooftop layout, the L0y Center sightline, and Charlie Kirk's exact seating position.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1302"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-92",
+      "ref": "N-92",
+      "name": "Phil Lyman",
+      "type": "person",
+      "description": "Utah Lt. Gov. candidate; per host, the GMA connection was routed through his campaign to Tiffany Barker.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1297",
+      "ref": "C-1297",
+      "label": "Tyler Robinson uses \"car\" rather than \"vehicle\" in 2022 police bodycam footage",
+      "claim": "The 2022 police bodycam audio presented in the episode shows Tyler Robinson referring to \"his car\" and his mother \"shuttling over from her car,\" contrasting with the federal text messages' vocabulary.",
+      "anchored_artifacts": [
+        "A-1171.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:45–00:03:25",
+      "investigative_direction": "Obtain the original 2022 bodycam video and full transcript; compare against the released federal text messages."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1298",
+      "ref": "C-1298",
+      "label": "Tyler Robinson uses \"vehicle\" rarely in ordinary speech",
+      "claim": "Host states (via commentary on A-1171.1) that Robinson's everyday use of \"car\" rather than \"vehicle\" is typical of ordinary American English speakers.",
+      "anchored_artifacts": [
+        "A-1171.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:25",
+      "investigative_direction": "Independent corpus sampling of Robinson's other recorded speech; comparison with general American English usage."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1299",
+      "ref": "C-1299",
+      "label": "Brooksby received a phone call about the shooter at 8:02 p.m. on the 11th from a retired detective friend",
+      "claim": "Brooksby stated at his press conference that he received a phone call at 8:02 p.m. on the 11th from a friend who is a retired Washington County detective informing him of the shooter's identity.",
+      "anchored_artifacts": [
+        "A-1172.1"
+      ],
+      "related_nodes": [
+        "N-176"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:50–00:04:50",
+      "investigative_direction": "Cross-reference call logs and the court filings already referenced by Brooksby (court documents where the friend was named as a \"retired Washington County deputy\")."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1300",
+      "ref": "C-1300",
+      "label": "Brooksby attempted to protect the retired detective's identity despite his public-record career",
+      "claim": "Brooksby stated that he did not initially disclose the friend as a former detective and only referenced him generally as \"retired law enforcement\"; he argued that the court documents were what ultimately revealed the title.",
+      "anchored_artifacts": [
+        "A-1172.1",
+        "A-1174.1"
+      ],
+      "related_nodes": [
+        "N-176",
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:30–00:16:30",
+      "investigative_direction": "Pull the cited court documents and compare Brooksby's public statements with the actual filed text."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1301",
+      "ref": "C-1301",
+      "label": "Brooksby stated Tyler Robinson had suicidal ideations during the initial phone call",
+      "claim": "Brooksby stated that during the initial 8:02 p.m. call, the retired detective reported that Tyler had \"suicidal ideations\" and was being directed to a remote area in Washington County.",
+      "anchored_artifacts": [
+        "A-1172.2"
+      ],
+      "related_nodes": [
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:50–00:05:30",
+      "investigative_direction": "Obtain the full unedited press-conference audio and any internal law-enforcement notes from the call."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1302",
+      "ref": "C-1302",
+      "label": "Brooksby stated Tyler Robinson came in willingly out of fear of being shot by law enforcement",
+      "claim": "Brooksby stated that Tyler came in to Brooksby's office willingly as part of a negotiated \"delicate and as soft as possible\" reception because he was \"fearful of a SWAT team hit\" and being shot by law enforcement.",
+      "anchored_artifacts": [
+        "A-1172.3"
+      ],
+      "related_nodes": [
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:30–00:06:15",
+      "investigative_direction": "Obtain any negotiated-surrender documentation; reconcile with the contemporaneous suicide-ideation claim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1303",
+      "ref": "C-1303",
+      "label": "Lance's Instagram posts establish a romantic relationship with Tyler Robinson",
+      "claim": "Host presents Lance's Halloween-era Instagram caption (\"I forgot to post my boyfriend is the best. Love you.\") and a photo of Tyler with a mustache as evidence that Tyler and Lance were in a romantic relationship.",
+      "anchored_artifacts": [
+        "A-1173.1",
+        "A-1173.2"
+      ],
+      "related_nodes": [
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:30–00:08:10",
+      "investigative_direction": "Recover archived versions of Lance's Instagram handle (host notes it has since been removed); cross-reference with any retained screenshots in the investigative file."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1304",
+      "ref": "C-1304",
+      "label": "Mike Mitchell retired from the Washington County Sheriff's Office after 24+ years",
+      "claim": "The Washington County Sheriff's Office retirement-celebration post states that Detective Mike Mitchell served for \"over 24 years … starting in the jail back in 1999.\"",
+      "anchored_artifacts": [
+        "A-1174.1"
+      ],
+      "related_nodes": [
+        "N-176"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:00–00:16:30",
+      "investigative_direction": "Verify against Washington County personnel records and any prior news coverage of Mitchell's career."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1305",
+      "ref": "C-1305",
+      "label": "The retirement-celebration post is the only public trace of Mike Mitchell",
+      "claim": "Host states she was unable to find any other public news trace of Mike Mitchell despite his 24+ year career, and presents the retirement post as the sole located artifact.",
+      "anchored_artifacts": [
+        "A-1174.1"
+      ],
+      "related_nodes": [
+        "N-176",
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:30–00:16:50",
+      "investigative_direction": "Conduct independent newspaper archive search (local Utah papers, Provo, St. George) and Washington County internal award/honor records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1306",
+      "ref": "C-1306",
+      "label": "The suicidal-ideation and fear-of-being-shot accounts are mutually exclusive",
+      "claim": "Host argues that the two Brooksby statements — that Tyler had suicidal ideations, and that Tyler came in willingly because he feared being shot — cannot both be true simultaneously.",
+      "anchored_artifacts": [
+        "A-1172.2",
+        "A-1172.3"
+      ],
+      "related_nodes": [
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:15–00:06:30",
+      "investigative_direction": "Seek clarification from Brooksby or from the Washington County Sheriff's Office on which account is operative."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1307",
+      "ref": "C-1307",
+      "label": "Phil Lyman's vehicle was in the driveway of the TMZ footage location 10–19 minutes before the shooter walked by",
+      "claim": "In his Kaye McAney interview, Phil Lyman stated that his aunt's driveway (visible in the TMZ footage) is where he parked his gray CRV approximately 10 minutes before the shooter walked past; Lyman separately described the driveway as being 19 minutes away from the shooter's walk-by.",
+      "anchored_artifacts": [
+        "A-1176.1",
+        "A-1177.1"
+      ],
+      "related_nodes": [
+        "N-92",
+        "N-180",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:00–00:29:30",
+      "investigative_direction": "Timestamp the TMZ footage independently and reconcile with Lyman's stated parking time."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1308",
+      "ref": "C-1308",
+      "label": "Phil Lyman's family owns approximately twelve homes on the relevant street",
+      "claim": "In the Kaye McAney interview, Phil Lyman describes the area as his childhood neighborhood and his relatives' neighborhood; host counts approximately twelve homes as owned by the Lyman family in the area.",
+      "anchored_artifacts": [
+        "A-1177.1"
+      ],
+      "related_nodes": [
+        "N-92",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:30–00:30:00",
+      "investigative_direction": "Pull county property records for the relevant street and verify ownership chain."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1309",
+      "ref": "C-1309",
+      "label": "Phil Lyman publicly described \"two goth girls\" as unfrightened near the shooting scene on Alex Jones",
+      "claim": "In an Alex Jones interview, Phil Lyman recounted being at the east end of the venue, retreating behind retaining walls, and encountering two \"very goth, very black\" girls who were not running; he reported that one girl said \"Go f yourselves\" while looking down at fleeing people.",
+      "anchored_artifacts": [
+        "A-1178.1"
+      ],
+      "related_nodes": [
+        "N-92",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:00–00:32:00",
+      "investigative_direction": "Obtain the unedited Alex Jones segment and any witness statements regarding the two individuals described."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1310",
+      "ref": "C-1310",
+      "label": "Phil Lyman stated on local Utah news that he was backstage with Charlie Kirk before the shooting",
+      "claim": "In a local Utah news interview, Phil Lyman stated he was backstage, throwing hats, and standing next to the stage before going to \"meet some friends\" away from the stage.",
+      "anchored_artifacts": [
+        "A-1179.1"
+      ],
+      "related_nodes": [
+        "N-92",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:30–00:33:15",
+      "investigative_direction": "Obtain the unedited local Utah news segment; compare timeline with the Alex Jones account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1311",
+      "ref": "C-1311",
+      "label": "Phil Lyman posted an Instagram video on September 10, 2025 at ~11:30 PM describing proximity and a \"200 yard kill shot\"",
+      "claim": "In his own Instagram video, Phil Lyman stated he was driving from Salt Lake to Blanding on the night of the shooting, stopped by UVU campus to thank officers, and recounted being \"very close this morning\" to where Charlie Kirk was, meeting Charlie backstage, deciding to \"go up top,\" and concluding it was a \"200 yard kill shot\" from the roof.",
+      "anchored_artifacts": [
+        "A-1180.1"
+      ],
+      "related_nodes": [
+        "N-92",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:00–00:35:30",
+      "investigative_direction": "Confirm upload timestamp and metadata on Instagram; obtain the original unedited video if still available."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1312",
+      "ref": "C-1312",
+      "label": "Shane Lyman publicly retraced the shooter's steps near his grandmother's house",
+      "claim": "Shane Lyman's Instagram post presented a map of the area near his grandmother's house and stated he and friends retraced the shooter's steps, taking \"pictures in the exact place that the security cameras caught him\"; the image showed Converse-brand footprints.",
+      "anchored_artifacts": [
+        "A-1181.1"
+      ],
+      "related_nodes": [
+        "N-179",
+        "N-92",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:00–00:41:30",
+      "investigative_direction": "Recover archived version of Shane Lyman's Instagram post; verify the grandmother's house address against the property records already referenced by Phil Lyman."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1313",
+      "ref": "C-1313",
+      "label": "Shane Lyman's Instagram included side-by-side staircase photos with three unidentified individuals",
+      "claim": "Shane Lyman's Instagram post showed side-by-side staircase photos of Shane and three friends in the same staircase configuration as the blurred suspect image; host states she could not identify two of the individuals on his friends list.",
+      "anchored_artifacts": [
+        "A-1181.2"
+      ],
+      "related_nodes": [
+        "N-179",
+        "N-92",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:00–00:42:30",
+      "investigative_direction": "Identify the two friends via cross-reference with Shane's social graph or via direct outreach."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1314",
+      "ref": "C-1314",
+      "label": "Phil Lyman showed up at \"Nick's\" home uninvited and asked questions about the host's investigation",
+      "claim": "Per Nick's account to host, Phil Lyman messaged Nick for his address (something he had not previously had), arrived at Nick's home, looked out the window nervously, sat at the table, and asked questions about the host's investigation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-177",
+        "N-92",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:30–00:39:00",
+      "investigative_direction": "Obtain any corroborating records (Ring/doorbell footage, phone logs, text screenshots) and a contemporaneous written statement from Nick."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1315",
+      "ref": "C-1315",
+      "label": "Phil Lyman offered independent investigator Ian Carol a tour of the area",
+      "claim": "Per Nick's account, Phil Lyman offered a tour of the area to Ian Carol, who was conducting a separate on-the-ground investigation; Nick found this \"weird\" given that Lyman lives four hours away.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-181",
+        "N-92",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:30–00:39:00",
+      "investigative_direction": "Confirm via Ian Carol's own public statements and any travel/timeline records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1316",
+      "ref": "C-1316",
+      "label": "Nick supplied the black-suit food-court photo to host",
+      "claim": "Host states that Nick sent the food-court photo of a person in a black suit and dark sunglasses with a strap hanging from a bag into the tips box early in the investigation.",
+      "anchored_artifacts": [
+        "A-1175.1"
+      ],
+      "related_nodes": [
+        "N-177",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:00–00:25:20",
+      "investigative_direction": "Recover the original image and metadata; identify the individual depicted."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1317",
+      "ref": "C-1317",
+      "label": "Host acknowledges Marzy's keyholing-fragmentation bullet theory as new information",
+      "claim": "Host states she was previously unaware of \"keyholing\" and acknowledges Marzy's comment about intentionally keyholed rounds for tumbling/fragmentation damage as new to her.",
+      "anchored_artifacts": [
+        "A-1182.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:30",
+      "investigative_direction": "Independent forensic review of recovered bullet(s) for keyholing signatures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1318",
+      "ref": "C-1318",
+      "label": "Host concurs with Caitlyn Derrian's characterization of her journalism",
+      "claim": "Host expresses gratitude for Caitlyn Derrian's supportive comment and concurs with the framing.",
+      "anchored_artifacts": [
+        "A-1182.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:50",
+      "investigative_direction": "N/A — rhetorical/statement of self-positioning, recorded for traceability only."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1319",
+      "ref": "C-1319",
+      "label": "Host concurs with multiple commenters that the people closest to Charlie are not investigating",
+      "claim": "Host concurs with Kristen Theoret's, Cassie's, and Kaya's comments that the people closest to Charlie Kirk have not been asking questions about the shooting.",
+      "anchored_artifacts": [
+        "A-1182.3",
+        "A-1182.6",
+        "A-1182.7"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:00:00–00:00:01",
+      "investigative_direction": "Inventory public statements/actions (or silence) by named individuals close to Charlie Kirk."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1320",
+      "ref": "C-1320",
+      "label": "Host concurs with Phil Lyman proximity pattern and shared prayer requests",
+      "claim": "Host concurs with Bitsy's comment about a \"stage\" narrative; concurs with Miranda Allen's prayer request and reports that she also prays for protection over investigators.",
+      "anchored_artifacts": [
+        "A-1182.4",
+        "A-1182.5"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:00:00–00:00:01",
+      "investigative_direction": "N/A — rhetorical/statement of self-positioning."
+    }
+  ],
+  "memes": []
+}

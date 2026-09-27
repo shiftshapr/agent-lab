@@ -1,0 +1,898 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 14,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:54:06",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "3e34fb6edbf62864ad59f7d26b4ae5961c44c877713444ab2a6a5ba23c4d53e1",
+    "analysis_date": "2026-09-27",
+    "monument": "cka",
+    "youtube_id": "t1YtLS1n8Vs",
+    "candace_ep_number": 247,
+    "kind": "numbered_show"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1209",
+      "family_ref": "A-1209",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1209.1",
+          "ref": "A-1209.1",
+          "description": "X post by FBI Director Kash Patel announcing end of FBI/ADL partnership",
+          "related_claims": [
+            "C-1354"
+          ],
+          "related_nodes": [
+            "N-201",
+            "N-206",
+            "N-1224"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:45–00:09:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1210",
+      "family_ref": "A-1210",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1210.1",
+          "ref": "A-1210.1",
+          "description": "ADL response statement following Patel announcement",
+          "related_claims": [
+            "C-1355"
+          ],
+          "related_nodes": [
+            "N-1224"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:33–00:10:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1211",
+      "family_ref": "A-1211",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1211.1",
+          "ref": "A-1211.1",
+          "description": "X thread by \"Kyle Undercover\" documenting ADL property/office records across 19 states",
+          "related_claims": [
+            "C-1357",
+            "C-1358"
+          ],
+          "related_nodes": [
+            "N-202",
+            "N-1224",
+            "N-1225"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:32–00:13:03",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1212",
+      "family_ref": "A-1212",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1212.1",
+          "ref": "A-1212.1",
+          "description": "Audio clip from Redacted podcast (host Clayton) featuring Elizabeth Lane discussing her efforts to secure pro bono defense counsel for Tyler Robinson and the involvement of Utah state prosecutor Skordas in identifying the defense team",
+          "related_claims": [
+            "C-1359",
+            "C-1360"
+          ],
+          "related_nodes": [
+            "N-6",
+            "N-207",
+            "N-208",
+            "N-1226"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:07–00:32:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1213",
+      "family_ref": "A-1213",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1213.1",
+          "ref": "A-1213.1",
+          "description": "Local news segment featuring Olivia Robertson cub Bishop recounting her close-encounter sighting of the alleged limping shooter",
+          "related_claims": [
+            "C-1361"
+          ],
+          "related_nodes": [
+            "N-203"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:21–00:18:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1214",
+      "family_ref": "A-1214",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1214.1",
+          "ref": "A-1214.1",
+          "description": "Video clip of a Lyman family member discussing timing anomaly and possible female accomplice",
+          "related_claims": [
+            "C-1362"
+          ],
+          "related_nodes": [
+            "N-1227"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:52–00:17:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1215",
+      "family_ref": "A-1215",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1215.1",
+          "ref": "A-1215.1",
+          "description": "News compilation clip (USA Today or AP) featuring multiple witnesses describing what they heard and saw at the UVU event",
+          "related_claims": [
+            "C-1363"
+          ],
+          "related_nodes": [
+            "N-1227"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:50–00:22:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1216",
+      "family_ref": "A-1216",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1216.1",
+          "ref": "A-1216.1",
+          "description": "Public statement by U.S. Representative Marjorie Taylor Greene denying suicidal ideation",
+          "related_claims": [
+            "C-1364"
+          ],
+          "related_nodes": [
+            "N-204",
+            "N-1227"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:30–00:37:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1217",
+      "family_ref": "A-1217",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1217.1",
+          "ref": "A-1217.1",
+          "description": "Audio/video clip of podcaster Theo Von denying suicidal intent",
+          "related_claims": [
+            "C-1365"
+          ],
+          "related_nodes": [
+            "N-205",
+            "N-1227"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:40–00:47:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1218",
+      "family_ref": "A-1218",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1218.1",
+          "ref": "A-1218.1",
+          "description": "Verbal tip received by host asserting that the FBI's Connecticut field office was dispatched to UVU to assist in the Charlie Kirk assassination investigation; tipster reportedly provided proof and claimed to be \"1,000% certain\"",
+          "related_claims": [
+            "C-1356"
+          ],
+          "related_nodes": [
+            "N-1225"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:03–00:14:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1219",
+      "family_ref": "A-1219",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1219.1",
+          "ref": "A-1219.1",
+          "description": "YouTube comment by \"Kinjun P\" thanking host and team for investigative work on Charlie Kirk case",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:44:01",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1219.2",
+          "ref": "A-1219.2",
+          "description": "YouTube comment by \"Bill Scott\" attributing end-state conclusions to faith rather than rabbit-holes",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:44:42",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1219.3",
+          "ref": "A-1219.3",
+          "description": "YouTube comment by \"Kamya\" advocating homeschooling based on personal experience",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:45:00",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1219.4",
+          "ref": "A-1219.4",
+          "description": "YouTube comment by \"Cassandra\" asking for host's thoughts on Greta Thunberg and the Flotilla",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:46:04",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1219.5",
+          "ref": "A-1219.5",
+          "description": "YouTube comment by \"Marzy\" referencing Theo Von's viral suicide-denial clip",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:46:40",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1219.6",
+          "ref": "A-1219.6",
+          "description": "YouTube comment by \"Paul T\" (private security sector) characterizing the operation as rushed and sloppy",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:49:12",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1219.7",
+          "ref": "A-1219.7",
+          "description": "YouTube comment by \"Snake Girl\" (based in England) asking whether to remove children from school immediately",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:51:04",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1219.8",
+          "ref": "A-1219.8",
+          "description": "YouTube comment by \"KL Blarsson\" praising host's journalism and referencing \"Mrs. McCronone\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:52:35",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-201",
+      "ref": "N-201",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "FBI Director as of episode date; subject of artifact A-1209.1 announcing end of FBI/ADL partnership.",
+      "related_artifacts": [
+        "A-1209.1"
+      ],
+      "related_claims": [
+        "C-1354"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1224"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-202",
+      "ref": "N-202",
+      "name": "Kyle Undercover",
+      "type": "person",
+      "description": "Investigator whose 2023 X thread on ADL property records is cited (A-1211.1) as the prior source for ADL/FBI Connecticut office sharing.",
+      "related_artifacts": [
+        "A-1211.1"
+      ],
+      "related_claims": [
+        "C-1357",
+        "C-1358"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1224",
+        "N-1225"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-203",
+      "ref": "N-203",
+      "name": "Olivia Robertson cub Bishop",
+      "type": "person",
+      "description": "Eyewitness interviewed in news segment (A-1213.1); described by host as a records specialist at the Orem Police Department (host assertion only — no displayed source for employment claim).",
+      "related_artifacts": [
+        "A-1213.1"
+      ],
+      "related_claims": [
+        "C-1361"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-204",
+      "ref": "N-204",
+      "name": "Marjorie Taylor Greene",
+      "type": "person",
+      "description": "U.S. Representative; subject of artifact A-1216.1 (public statement denying suicidal ideation and warning of potential foreign-state action).",
+      "related_artifacts": [
+        "A-1216.1"
+      ],
+      "related_claims": [
+        "C-1364"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1227"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-205",
+      "ref": "N-205",
+      "name": "Theo Von",
+      "type": "person",
+      "description": "Podcaster; subject of artifact A-1217.1 (public statement denying suicidal intent, addressed to \"Israel\").",
+      "related_artifacts": [
+        "A-1217.1"
+      ],
+      "related_claims": [
+        "C-1365"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1227"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-206",
+      "ref": "N-206",
+      "name": "James Comey",
+      "type": "person",
+      "description": "Former FBI Director referenced in Patel X post (A-1209.1) as having \"written love letters to the ADL and embedded FBI agents with them.\"",
+      "related_artifacts": [
+        "A-1209.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1224"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-207",
+      "ref": "N-207",
+      "name": "Skordas",
+      "type": "person",
+      "description": "Utah state prosecutor named in Elizabeth Lane's Redacted podcast account (A-1212.1) as the official asserting exclusive authority to identify defense counsel for Tyler Robinson.",
+      "related_artifacts": [
+        "A-1212.1"
+      ],
+      "related_claims": [
+        "C-1360"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1226"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-208",
+      "ref": "N-208",
+      "name": "Clayton",
+      "type": "person",
+      "description": "Host of Redacted podcast; introduces Elizabeth Lane segment (A-1212.1).",
+      "related_artifacts": [
+        "A-1212.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-6",
+      "ref": "N-6",
+      "name": "Elizabeth Lane *(reused from Episode 1)*",
+      "type": "person",
+      "description": "Investigative journalist; subject of in-episode audio clip on Redacted podcast (A-1212.1) describing her pro bono outreach efforts for Tyler Robinson's defense.",
+      "related_artifacts": [
+        "A-1212.1"
+      ],
+      "related_claims": [
+        "C-1359",
+        "C-1360"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-207",
+        "N-1226"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1224",
+      "ref": "N-1224",
+      "name": "ADL–FBI Partnership Structure",
+      "type": "investigation_target",
+      "description": "Persistent investigative target concerning the historical and operational relationship between the Anti-Defamation League and the FBI, including embedded agents, shared intelligence, shared office space, and the announced 2025-10-01 separation.",
+      "related_artifacts": [
+        "A-1209.1",
+        "A-1210.1",
+        "A-1211.1"
+      ],
+      "related_claims": [
+        "C-1354",
+        "C-1355",
+        "C-1357"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-201",
+        "N-202",
+        "N-206"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1225",
+      "ref": "N-1225",
+      "name": "Connecticut FBI Field Office Deployment Anomaly",
+      "type": "investigation_target",
+      "description": "Investigative target concerning the reported deployment of the FBI's Connecticut field office (rather than the closer Salt Lake City–area office) to UVU following the Charlie Kirk assassination, and the contemporaneous nexus with Connecticut-based ADL-FBI office sharing.",
+      "related_artifacts": [
+        "A-1211.1",
+        "A-1218.1"
+      ],
+      "related_claims": [
+        "C-1356",
+        "C-1357"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-202"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1226",
+      "ref": "N-1226",
+      "name": "Tyler Robinson Defense Selection Anomaly",
+      "type": "investigation_target",
+      "description": "Persistent investigative target concerning the role of Utah state prosecutor Skordas in identifying defense counsel for Tyler Robinson, and Elizabeth Lane's reported difficulty in retaining independent pro bono counsel for Robinson.",
+      "related_artifacts": [
+        "A-1212.1"
+      ],
+      "related_claims": [
+        "C-1359",
+        "C-1360"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-6",
+        "N-207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1227",
+      "ref": "N-1227",
+      "name": "Witness and Public-Figure Demeanor Anomalies",
+      "type": "investigation_target",
+      "description": "Persistent investigative target grouping witness-on-site anomalies (Lyman family timing/accomplice testimony; Bishop close-encounter sighting; USA Today witness compilation) with public-figure suicide-denial statements (MTG, Theo Von) as the host posits a coordinated pattern.",
+      "related_artifacts": [
+        "A-1213.1",
+        "A-1214.1",
+        "A-1215.1",
+        "A-1216.1",
+        "A-1217.1"
+      ],
+      "related_claims": [
+        "C-1361",
+        "C-1362",
+        "C-1363",
+        "C-1364",
+        "C-1365"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-203",
+        "N-204",
+        "N-205"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1354",
+      "ref": "C-1354",
+      "label": "Kash Patel Announced End of FBI/ADL Partnership via Posted Statement",
+      "claim": "FBI Director Kash Patel posted a public statement asserting that the FBI will no longer partner with the ADL and characterizing prior FBI-ADL cooperation (including under Comey) as disgraceful surveillance operations.",
+      "anchored_artifacts": [
+        "A-1209.1"
+      ],
+      "related_nodes": [
+        "N-201",
+        "N-206",
+        "N-1224"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:45–00:09:33",
+      "investigative_direction": "Verify whether subsequent FBI conduct (training, intelligence sharing, embedded personnel) actually ceased; identify the operational scope of the prior FBI-ADL relationship."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1355",
+      "ref": "C-1355",
+      "label": "ADL Issued Response Statement to Patel Announcement",
+      "claim": "The ADL issued a public response statement affirming respect for the FBI and tying continued activity to rising antisemitism.",
+      "anchored_artifacts": [
+        "A-1210.1"
+      ],
+      "related_nodes": [
+        "N-1224"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:33–00:10:00",
+      "investigative_direction": "Confirm the ADL statement verbatim from primary source and assess whether operational cooperation with FBI entities continues despite the announced split."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1356",
+      "ref": "C-1356",
+      "label": "Connecticut FBI Field Office Deployed to Investigate Kirk Assassination",
+      "claim": "The FBI's Connecticut field office — rather than a closer regional bureau — was dispatched to UVU to assist in the Charlie Kirk assassination investigation.",
+      "anchored_artifacts": [
+        "A-1218.1"
+      ],
+      "related_nodes": [
+        "N-1225"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:03–00:14:10",
+      "investigative_direction": "Obtain DOJ/FBI deployment records, on-scene credentialing logs, or official case-file documentation identifying which field offices contributed personnel to the UVU investigation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1357",
+      "ref": "C-1357",
+      "label": "ADL Shares Connecticut Office Space with FBI",
+      "claim": "Per a 2023 X thread by investigator Kyle Undercover, the ADL shares Connecticut office space with the FBI, with ADL offices also reportedly co-located with the United Nations in New York.",
+      "anchored_artifacts": [
+        "A-1211.1"
+      ],
+      "related_nodes": [
+        "N-202",
+        "N-1224",
+        "N-1225"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:32–00:13:03",
+      "investigative_direction": "Verify directly via Connecticut property records and FBI facility listings; obtain original Kyle Undercover thread and supporting documentation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1358",
+      "ref": "C-1358",
+      "label": "ADL Regional Office Co-Location Statistics",
+      "claim": "Per the Kyle Undercover 2023 review, 63% of ADL regional offices are located within banking institutions, 42% within law firms, and 10% within Jewish institutions.",
+      "anchored_artifacts": [
+        "A-1211.1"
+      ],
+      "related_nodes": [
+        "N-202",
+        "N-1224"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:32–00:13:03",
+      "investigative_direction": "Verify statistics against original property records and confirm category definitions (banking institution, law firm, Jewish institution)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1359",
+      "ref": "C-1359",
+      "label": "Elizabeth Lane Attempted Pro Bono Defense Representation for Tyler Robinson",
+      "claim": "Investigative journalist Elizabeth Lane approached multiple Utah law firms seeking pro bono counsel for Tyler Robinson and reported willingness from at least one reputable firm prior to certification-barrier issues.",
+      "anchored_artifacts": [
+        "A-1212.1"
+      ],
+      "related_nodes": [
+        "N-6",
+        "N-1226"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:07–00:32:15",
+      "investigative_direction": "Independently confirm Lane's account with the firms she contacted; obtain any written records of the reported communications."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1360",
+      "ref": "C-1360",
+      "label": "Utah State Prosecutor Asserting Authority Over Robinson Defense Selection",
+      "claim": "Per Elizabeth Lane's account on the Redacted podcast, Utah state prosecutor Skordas asserted that he — not the defense — controls identification of defense counsel for Tyler Robinson.",
+      "anchored_artifacts": [
+        "A-1212.1"
+      ],
+      "related_nodes": [
+        "N-6",
+        "N-207",
+        "N-1226"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:15",
+      "investigative_direction": "Confirm canonical spelling of the prosecutor's name; obtain any court filings or correspondence evidencing the prosecutor's role in identifying counsel; verify Lane's account via Utah State Bar records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1361",
+      "ref": "C-1361",
+      "label": "Olivia Bishop Eyewitness Account of Limping Shooter",
+      "claim": "Olivia Robertson cub Bishop gave public eyewitness testimony describing a close encounter with the alleged shooter in which she observed him limping, wearing a long-sleeve black shirt on a hot day, and exhibiting an expressionless demeanor.",
+      "anchored_artifacts": [
+        "A-1213.1"
+      ],
+      "related_nodes": [
+        "N-203",
+        "N-1227"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:21–00:18:53",
+      "investigative_direction": "Verify Bishop's sighting against charging-document timelines and UVU surveillance; cross-reference her statements with any forensic timeline evidence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1362",
+      "ref": "C-1362",
+      "label": "Lyman Family Member Identified Possible Female Accomplice",
+      "claim": "A Lyman family member, in a public clip, identified a timing anomaly in the suspect's movements and raised the possibility that a female accomplice assisted the shooter.",
+      "anchored_artifacts": [
+        "A-1214.1"
+      ],
+      "related_nodes": [
+        "N-1227"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:52–00:17:00",
+      "investigative_direction": "Identify the Lyman family member; obtain any case-file references to a female accomplice; request any footage referenced by host as showing a person assisting the shooter with a clothing change."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1363",
+      "ref": "C-1363",
+      "label": "Multiple Eyewitnesses Provided On-Site Accounts in News Compilation",
+      "claim": "A USA Today or AP compilation clip features multiple witnesses describing sounds and observations from the UVU event, including references to a single shot, immediate reaction, and lack of metal detection.",
+      "anchored_artifacts": [
+        "A-1215.1"
+      ],
+      "related_nodes": [
+        "N-1227"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:50–00:22:48",
+      "investigative_direction": "Identify all named/unnamed witnesses in the clip; cross-reference their accounts against official charging documents and forensic evidence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1364",
+      "ref": "C-1364",
+      "label": "Marjorie Taylor Greene Publicly Denied Suicidal Ideation",
+      "claim": "U.S. Representative Marjorie Taylor Greene issued a public statement denying suicidal ideation, affirming religious faith, and warning that any future harm to her should be investigated as foreign-state or powerful-elite action.",
+      "anchored_artifacts": [
+        "A-1216.1"
+      ],
+      "related_nodes": [
+        "N-204",
+        "N-1227"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:30–00:37:30",
+      "investigative_direction": "Verify original post and any associated official statements or security reports."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1365",
+      "ref": "C-1365",
+      "label": "Theo Von Publicly Denied Suicidal Intent",
+      "claim": "Podcaster Theo Von publicly stated he would never take his own life and addressed the statement to \"Israel\" in his on-air remarks.",
+      "anchored_artifacts": [
+        "A-1217.1"
+      ],
+      "related_nodes": [
+        "N-205",
+        "N-1227"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:40–00:47:20",
+      "investigative_direction": "Verify original source (clip origin, show, date) and check for any associated public commentary."
+    }
+  ],
+  "memes": []
+}

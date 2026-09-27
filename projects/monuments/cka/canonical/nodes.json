@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updated": "2026-09-24T21:06:21Z",
+  "updated": "2026-09-27T22:12:51Z",
   "monument": "cka",
-  "remap_note": "Batch 1 from BoC monument eps 9\u201318; node ids unchanged.",
-  "next_person_id": 176,
-  "next_investigation_id": 1207,
+  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11\u201320 extract.",
+  "next_person_id": 286,
+  "next_investigation_id": 1266,
   "nodes": {
     "N-1": {
       "canonical_name": "Charlie Kirk",
@@ -20,24 +20,8 @@
         7,
         8,
         9,
-        10
-      ]
-    },
-    "N-2": {
-      "canonical_name": "Erika Kirk",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
+        10,
+        15
       ]
     },
     "N-7": {
@@ -57,95 +41,30 @@
         10
       ]
     },
-    "N-1000": {
-      "canonical_name": "Turning Point USA",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        1,
-        2,
-        3,
-        5,
-        6,
-        7,
-        8,
-        10
-      ]
-    },
-    "N-1003": {
-      "canonical_name": "MK Ultra",
-      "type": "organization",
-      "aliases": [],
-      "episodes": [
-        9
-      ]
-    },
-    "N-35": {
-      "canonical_name": "Jeffrey Epstein",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        2,
-        3
-      ]
-    },
-    "N-42": {
-      "canonical_name": "Andrew Kolvet",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        1,
-        5,
-        6,
-        7,
-        8,
-        10
-      ]
-    },
-    "N-43": {
-      "canonical_name": "Justin Strife",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        10
-      ]
-    },
-    "N-45": {
-      "canonical_name": "Rob McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        4
-      ]
-    },
-    "N-50": {
-      "canonical_name": "Tucker Carlson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8
-      ]
-    },
-    "N-56": {
-      "canonical_name": "Kanye West",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        1
-      ]
-    },
     "N-59": {
       "canonical_name": "George (Candace's husband)",
       "type": "person",
       "aliases": [],
       "episodes": [
         1
+      ]
+    },
+    "N-2": {
+      "canonical_name": "Erika Kirk",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        15
       ]
     },
     "N-60": {
@@ -180,6 +99,27 @@
       "aliases": [],
       "episodes": [
         1
+      ]
+    },
+    "N-56": {
+      "canonical_name": "Kanye West",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        1
+      ]
+    },
+    "N-42": {
+      "canonical_name": "Andrew Kolvet",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        1,
+        5,
+        6,
+        7,
+        8,
+        10
       ]
     },
     "N-64": {
@@ -221,6 +161,21 @@
       "episodes": [
         1,
         2
+      ]
+    },
+    "N-1000": {
+      "canonical_name": "Turning Point USA",
+      "type": "organization",
+      "aliases": [],
+      "episodes": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        10
       ]
     },
     "N-1071": {
@@ -300,6 +255,20 @@
         2,
         3,
         10
+      ]
+    },
+    "N-50": {
+      "canonical_name": "Tucker Carlson",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
       ]
     },
     "N-68": {
@@ -384,6 +353,15 @@
         6,
         9,
         10
+      ]
+    },
+    "N-35": {
+      "canonical_name": "Jeffrey Epstein",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        2,
+        3
       ]
     },
     "N-76": {
@@ -832,6 +810,14 @@
     },
     "N-101": {
       "canonical_name": "Governor Spencer Cox",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        4
+      ]
+    },
+    "N-45": {
+      "canonical_name": "Rob McCoy",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -2038,6 +2024,14 @@
         9
       ]
     },
+    "N-1003": {
+      "canonical_name": "MK Ultra",
+      "type": "organization",
+      "aliases": [],
+      "episodes": [
+        9
+      ]
+    },
     "N-1188": {
       "canonical_name": "Jezebel",
       "type": "organization",
@@ -2097,6 +2091,14 @@
     },
     "N-165": {
       "canonical_name": "Lance Robinson",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        10
+      ]
+    },
+    "N-43": {
+      "canonical_name": "Justin Strife",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -2277,6 +2279,1278 @@
       "aliases": [],
       "episodes": [
         10
+      ]
+    },
+    "N-176": {
+      "canonical_name": "Mike Mitchell",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        11
+      ]
+    },
+    "N-177": {
+      "canonical_name": "\"Nick\" (UVU Student \u2014 Pseudonym)",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        11
+      ]
+    },
+    "N-179": {
+      "canonical_name": "Shane Lyman",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        11
+      ]
+    },
+    "N-180": {
+      "canonical_name": "Kaye McAney",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        11
+      ]
+    },
+    "N-181": {
+      "canonical_name": "Ian Carol",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        11
+      ]
+    },
+    "N-1207": {
+      "canonical_name": "Mike Mitchell Public Record Anomaly",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        11
+      ]
+    },
+    "N-1208": {
+      "canonical_name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        11
+      ]
+    },
+    "N-1209": {
+      "canonical_name": "Robinson Apartment Staging Allegation",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        11
+      ]
+    },
+    "N-1210": {
+      "canonical_name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        11
+      ]
+    },
+    "N-1211": {
+      "canonical_name": "UVU Campus Familiarity Question",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        11
+      ]
+    },
+    "N-183": {
+      "canonical_name": "Shainer Broderick",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        12
+      ]
+    },
+    "N-184": {
+      "canonical_name": "Gernot Omer",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        12
+      ]
+    },
+    "N-185": {
+      "canonical_name": "BB Netanyahu",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        12
+      ]
+    },
+    "N-186": {
+      "canonical_name": "Robert Bowles",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        12
+      ]
+    },
+    "N-187": {
+      "canonical_name": "Mike Mitchell",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        12
+      ]
+    },
+    "N-188": {
+      "canonical_name": "Kash Patel",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        12
+      ]
+    },
+    "N-1212": {
+      "canonical_name": "Phil Lyman Location Discrepancy",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        12
+      ]
+    },
+    "N-1213": {
+      "canonical_name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        12
+      ]
+    },
+    "N-1214": {
+      "canonical_name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        12
+      ]
+    },
+    "N-1215": {
+      "canonical_name": "Hospital Routing Discrepancy",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        12
+      ]
+    },
+    "N-1216": {
+      "canonical_name": "Utah FBI Personnel Replacement",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        12
+      ]
+    },
+    "N-1217": {
+      "canonical_name": "Mike Mitchell Undercover Role Verification",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        12
+      ]
+    },
+    "N-189": {
+      "canonical_name": "Shainer Broadick",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-190": {
+      "canonical_name": "George Zinn",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-191": {
+      "canonical_name": "Robert \"BS\" (FBI SAC, Utah)",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-192": {
+      "canonical_name": "Andrew Zanger",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-193": {
+      "canonical_name": "Judge Tony F. Graph Jr.",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-194": {
+      "canonical_name": "Erika \"Erikica\" Mindle",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-195": {
+      "canonical_name": "Florida Dab (X handle)",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-196": {
+      "canonical_name": "Constantine Kissen",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-197": {
+      "canonical_name": "Deborah Lee",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-198": {
+      "canonical_name": "Larry Ellison",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-199": {
+      "canonical_name": "Michael Bert",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-200": {
+      "canonical_name": "Unidentified Lyman-Family Woman (Shainer's aunt)",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-1218": {
+      "canonical_name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-1219": {
+      "canonical_name": "\"Robbie Hild\" Identity Verification",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-1220": {
+      "canonical_name": "Case-Personnel Cluster Anomalies",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-1221": {
+      "canonical_name": "Autopsy Record \u2013 Utah Privacy Statute Application",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-1222": {
+      "canonical_name": "Hospital Routing Anomaly",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-1223": {
+      "canonical_name": "TPUSA Faith Packet / Israel References Claim",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        13
+      ]
+    },
+    "N-201": {
+      "canonical_name": "Kash Patel",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        14
+      ]
+    },
+    "N-202": {
+      "canonical_name": "Kyle Undercover",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        14
+      ]
+    },
+    "N-203": {
+      "canonical_name": "Olivia Robertson cub Bishop",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        14
+      ]
+    },
+    "N-204": {
+      "canonical_name": "Marjorie Taylor Greene",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        14
+      ]
+    },
+    "N-205": {
+      "canonical_name": "Theo Von",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        14
+      ]
+    },
+    "N-206": {
+      "canonical_name": "James Comey",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        14
+      ]
+    },
+    "N-207": {
+      "canonical_name": "Skordas",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        14
+      ]
+    },
+    "N-208": {
+      "canonical_name": "Clayton",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        14
+      ]
+    },
+    "N-6": {
+      "canonical_name": "Elizabeth Lane *(reused from Episode 1)*",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        14
+      ]
+    },
+    "N-1224": {
+      "canonical_name": "ADL\u2013FBI Partnership Structure",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        14
+      ]
+    },
+    "N-1225": {
+      "canonical_name": "Connecticut FBI Field Office Deployment Anomaly",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        14
+      ]
+    },
+    "N-1226": {
+      "canonical_name": "Tyler Robinson Defense Selection Anomaly",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        14
+      ]
+    },
+    "N-1227": {
+      "canonical_name": "Witness and Public-Figure Demeanor Anomalies",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        14
+      ]
+    },
+    "N-210": {
+      "canonical_name": "Andrew Kolvet",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        15
+      ]
+    },
+    "N-211": {
+      "canonical_name": "Alex Clark",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        15
+      ]
+    },
+    "N-212": {
+      "canonical_name": "Rob McCoy",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        15
+      ]
+    },
+    "N-1228": {
+      "canonical_name": "SD Card Removal Narrative Discrepancy",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        15
+      ]
+    },
+    "N-1229": {
+      "canonical_name": "Pre-Assassination Group Chat Content",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        15
+      ]
+    },
+    "N-1230": {
+      "canonical_name": "Charlie Kirk Catholic Trajectory Verification",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        15
+      ]
+    },
+    "N-1231": {
+      "canonical_name": "Campus Footage Release Strategy Question",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        15
+      ]
+    },
+    "N-1232": {
+      "canonical_name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        15
+      ]
+    },
+    "N-1233": {
+      "canonical_name": "Tyler Bowyer X Defense Pattern",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        15
+      ]
+    },
+    "N-214": {
+      "canonical_name": "Andrew Kovette",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        16
+      ]
+    },
+    "N-216": {
+      "canonical_name": "Robert J. O'Neill",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        16
+      ]
+    },
+    "N-217": {
+      "canonical_name": "John Mappin",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        16
+      ]
+    },
+    "N-218": {
+      "canonical_name": "Arena Mappin",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        16
+      ]
+    },
+    "N-219": {
+      "canonical_name": "Frank Turk (Dr.)",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        16
+      ]
+    },
+    "N-220": {
+      "canonical_name": "Conrad Flynn",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        16
+      ]
+    },
+    "N-221": {
+      "canonical_name": "The Quartering",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        16
+      ]
+    },
+    "N-222": {
+      "canonical_name": "Laura Loomer",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        16
+      ]
+    },
+    "N-224": {
+      "canonical_name": "Blake",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        16
+      ]
+    },
+    "N-1234": {
+      "canonical_name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        16
+      ]
+    },
+    "N-1235": {
+      "canonical_name": "Josh Hammer Pre-Death Zoom Call Verification",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        16
+      ]
+    },
+    "N-1236": {
+      "canonical_name": "George Zinn Federal Familial Connections (per tip)",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        16
+      ]
+    },
+    "N-1237": {
+      "canonical_name": "Tyler / Lance Apartment Lock Change Anomaly",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        16
+      ]
+    },
+    "N-1238": {
+      "canonical_name": "Multiple Decoys Theory (4 Decoys Named)",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        16
+      ]
+    },
+    "N-1239": {
+      "canonical_name": "George Zinn Medical Payment Claim Verification",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        16
+      ]
+    },
+    "N-226": {
+      "canonical_name": "Yashar Ali",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-227": {
+      "canonical_name": "Iryna Zhuravska",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-228": {
+      "canonical_name": "Matt Walsh",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-229": {
+      "canonical_name": "Rabbi Pesach Wolicki",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-231": {
+      "canonical_name": "Gianmarco Soresi",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-232": {
+      "canonical_name": "Alex Jones",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-233": {
+      "canonical_name": "James O'Keefe",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-234": {
+      "canonical_name": "Kanye West",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-235": {
+      "canonical_name": "Dinesh D'Souza",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-245": {
+      "canonical_name": "Gabriel",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-236": {
+      "canonical_name": "Laura Loomer",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-237": {
+      "canonical_name": "Mark (producer)",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-238": {
+      "canonical_name": "Yishai (X account)",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-239": {
+      "canonical_name": "Seth Dillon",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-240": {
+      "canonical_name": "Michael Savage",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-241": {
+      "canonical_name": "Dave Smith",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-242": {
+      "canonical_name": "Tate Brothers (Andrew and Tristan)",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-243": {
+      "canonical_name": "Ali (JTV host)",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-1240": {
+      "canonical_name": "Josh Hammer September 9 Retweet Context Investigation",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-1241": {
+      "canonical_name": "UVU Left-Side Footage Black Hole",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-1242": {
+      "canonical_name": "Candace Kill Switch / Dead Man Switch",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-1243": {
+      "canonical_name": "Charlie Kirk Final-Days Text Communications",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-1244": {
+      "canonical_name": "Hamptons Meeting Verification",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-1245": {
+      "canonical_name": "Iryna Zhuravska Murder Timeline Verification",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        17
+      ]
+    },
+    "N-246": {
+      "canonical_name": "Andrew Kolbatz",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-247": {
+      "canonical_name": "Cooper Brown",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-248": {
+      "canonical_name": "Jason Chaffetz",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-249": {
+      "canonical_name": "Dr. Deidra Weiss Amaro",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-251": {
+      "canonical_name": "Derek Maxwell",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-252": {
+      "canonical_name": "Matt Walsh",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-253": {
+      "canonical_name": "Ghislaine Maxwell (presumed prior node, reused)",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-254": {
+      "canonical_name": "Jared Kushner (presumed prior node, reused)",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-1246": {
+      "canonical_name": "Bullet Trajectory and Caliber Verification",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-1247": {
+      "canonical_name": "Multiple Shooter Theory",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-1248": {
+      "canonical_name": "Cooper Brown Identity Verification",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-1249": {
+      "canonical_name": "Medical Examiner Inquiry \u2014 Weiss Amaro",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-1250": {
+      "canonical_name": "Caldera Engineering Background Investigation",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-1251": {
+      "canonical_name": "Plane N1098L Investigation",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-1252": {
+      "canonical_name": "Plane 888 / Maxwell Plane Investigation",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-1253": {
+      "canonical_name": "Josh Hammer Text Messages Context",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-1254": {
+      "canonical_name": "Leadership Institute (entity)",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-1255": {
+      "canonical_name": "Las Vegas Aviation LLC (entity)",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-1256": {
+      "canonical_name": "Signature FBO / Millionaire FBO (entity cluster)",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        18
+      ]
+    },
+    "N-255": {
+      "canonical_name": "Justin McCoy",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-256": {
+      "canonical_name": "Camera Operator (UVU Event, 2025-09-10)",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-257": {
+      "canonical_name": "Frank Turk",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-258": {
+      "canonical_name": "Ian Carol",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-259": {
+      "canonical_name": "Sam Parker",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-260": {
+      "canonical_name": "James Lee",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-261": {
+      "canonical_name": "Zeb Boyin",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-262": {
+      "canonical_name": "John Miller",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-263": {
+      "canonical_name": "Joshua Steves",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-264": {
+      "canonical_name": "Stacy Sheridan",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-265": {
+      "canonical_name": "Andrew Kovett",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-266": {
+      "canonical_name": "Scott Adams",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-267": {
+      "canonical_name": "Ryan Mata",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-1257": {
+      "canonical_name": "834ms Phone Timing Analysis",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-1258": {
+      "canonical_name": "Camera Operator Behavior Pattern",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-1259": {
+      "canonical_name": "Mikey McCoy Call Log Verification",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-1260": {
+      "canonical_name": "TPUSA Succession Plan Disclosure Timeline",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-1261": {
+      "canonical_name": "Josh Hammer Defamation Threat",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        19
+      ]
+    },
+    "N-268": {
+      "canonical_name": "Kanye West",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-269": {
+      "canonical_name": "Mike Cernovich",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-270": {
+      "canonical_name": "Scott Adams",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-271": {
+      "canonical_name": "Andrew Kovett",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-272": {
+      "canonical_name": "Mikey McCoy",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-273": {
+      "canonical_name": "Alex Marlo",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-274": {
+      "canonical_name": "Frank Turk",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-275": {
+      "canonical_name": "Rob McCoy",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-276": {
+      "canonical_name": "Brigitte Macron",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-277": {
+      "canonical_name": "Nathan Livingstone",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-278": {
+      "canonical_name": "David Horowitz",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-280": {
+      "canonical_name": "John Mappen / \"Arena Mappen\" / \"Nina\"",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-281": {
+      "canonical_name": "Dr. Lee Trotter",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-282": {
+      "canonical_name": "Dr. Deidra Weiss Amaro",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-283": {
+      "canonical_name": "Roy Edgar McCoy",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-284": {
+      "canonical_name": "Jacob Blank",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-285": {
+      "canonical_name": "George Webb",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-1262": {
+      "canonical_name": "UVU Hospital Charlie Kirk Medical File Access Question",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-1263": {
+      "canonical_name": "TPUSA Military-Personnel Network",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-1264": {
+      "canonical_name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        20
+      ]
+    },
+    "N-1265": {
+      "canonical_name": "Susy Wilds Eulogy-Selection Question",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        20
       ]
     }
   }

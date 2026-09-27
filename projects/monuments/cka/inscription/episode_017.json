@@ -1,0 +1,1420 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 17,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–01:15:43",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "110a9acb6728d3f0e1a80f687aa173bbbcf0be314ec3fd0b8fa06b9838dce112",
+    "analysis_date": "2026-09-27",
+    "monument": "cka",
+    "youtube_id": "2Riv3I7D0Yk",
+    "candace_ep_number": 250,
+    "kind": "numbered_show"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1236",
+      "family_ref": "A-1236",
+      "bundle_name": "Josh Hammer September 9 Retweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1236.1",
+          "ref": "A-1236.1",
+          "description": "Retweet by Josh Hammer of April 19, 2013 Donald Trump post (\"Should be public execution for all to see. You will end this bull fast.\") with Hammer's one-word reply \"Based.\"",
+          "related_claims": [
+            "C-1404",
+            "C-1405",
+            "C-1415"
+          ],
+          "related_nodes": [
+            "N-42",
+            "N-1240"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1237",
+      "family_ref": "A-1237",
+      "bundle_name": "Yashar Ali X Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1237.1",
+          "ref": "A-1237.1",
+          "description": "Yashar Ali quote tweet characterizing Josh Hammer's retweet as referring to the murder of Iryna Zhuravska, and asserting other conservatives did the same day prior",
+          "related_claims": [
+            "C-1405",
+            "C-1406"
+          ],
+          "related_nodes": [
+            "N-42",
+            "N-226",
+            "N-227",
+            "N-1245"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1238",
+      "family_ref": "A-1238",
+      "bundle_name": "Matt Walsh X Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1238.1",
+          "ref": "A-1238.1",
+          "description": "Matt Walsh X post stating \"We can't keep living like this. The only solution is ruthless punishment, public execution for violent criminals…\"",
+          "related_claims": [
+            "C-1409"
+          ],
+          "related_nodes": [
+            "N-228",
+            "N-227",
+            "N-1245"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1239",
+      "family_ref": "A-1239",
+      "bundle_name": "Josh Hammer Prior Statements Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1239.1",
+          "ref": "A-1239.1",
+          "description": "Hammer X post (displayed and read aloud): \"Jew hatred is inherent in the European DNA\" — shown as 2019 post; host states Hammer subsequently deleted it",
+          "related_claims": [
+            "C-1419"
+          ],
+          "related_nodes": [
+            "N-42"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1239.2",
+          "ref": "A-1239.2",
+          "description": "Hammer 2022 X post regarding the Uvalde shooter: \"…would have been another ideal time for a public execution\" (referencing the Buffalo shooter in same post as well)",
+          "related_claims": [
+            "C-1410"
+          ],
+          "related_nodes": [
+            "N-42",
+            "N-1240"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1240",
+      "family_ref": "A-1240",
+      "bundle_name": "Josh Hammer September 9 X Activity Timeline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1240.1",
+          "ref": "A-1240.1",
+          "description": "Host-prepared timeline of nine Hammer X posts on September 9, 2025 covering (per host) Phillies story, Iryna Zhuravska media link, anti-Tucker post, pro-Israel / anti-Qatar and anti-Saudi posts, anti-Tucker second post, Hebrew Bible / Western civilization post, Supreme Court-media-appearance post, and final 9:09 p.m. ET retweet",
+          "related_claims": [
+            "C-1420"
+          ],
+          "related_nodes": [
+            "N-42",
+            "N-1240"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1241",
+      "family_ref": "A-1241",
+      "bundle_name": "Hammer First Post-Assassination Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1241.1",
+          "ref": "A-1241.1",
+          "description": "Hammer X post following Charlie Kirk's death: \"I am speechless, devastated, and heartbroken. We spoke less than 24 hours ago. Charlie joked how he was going to plug my book on this very tour…\"",
+          "related_claims": [
+            "C-1411",
+            "C-1412"
+          ],
+          "related_nodes": [
+            "N-42",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1242",
+      "family_ref": "A-1242",
+      "bundle_name": "Josh Hammer JTV Interview Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1242.1",
+          "ref": "A-1242.1",
+          "description": "Audio excerpt from JTV interview of Josh Hammer by host \"Ali\"; Hammer states (a) Charlie joked during their pre-assassination call about plugging \"Israel and Civilization\"; (b) call was for \"talking points and strategy\" against anti-Israel questions on campus tour; (c) characterizes critics (Candace Owens, Tucker Carlson, Megan Kelly, Michael Knowles, Matt Gaetz) as \"trying to take their commentary to where they see the perceived momentum\"",
+          "related_claims": [
+            "C-1411",
+            "C-1412",
+            "C-1414"
+          ],
+          "related_nodes": [
+            "N-42",
+            "N-243",
+            "N-1",
+            "N-1244",
+            "N-240"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1243",
+      "family_ref": "A-1243",
+      "bundle_name": "Rabbi Pesach Wolicki Interview Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1243.1",
+          "ref": "A-1243.1",
+          "description": "Audio excerpt of Rabbi Pesach Wolicki interview (host named \"Lidar\"); Wolicki states: (a) he was \"in touch with Charlie on an almost daily basis for months\"; (b) Charlie \"had some disagreements with Israeli policy and… criticized Israel where he felt appropriate\"; (c) \"between 40 and 50%\" of campus-tour questions concerned Israel; (d) Charlie scheduled the meeting weeks in advance to prepare for the campus tour; (e) the call's purpose was to \"talk about Israel issues and to anticipate the questions\"; (f) Wolicki characterizes anti-Israel claim as \"wild conspiracy theories\"",
+          "related_claims": [
+            "C-1413",
+            "C-1414",
+            "C-1416"
+          ],
+          "related_nodes": [
+            "N-229",
+            "N-1",
+            "N-1244"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1244",
+      "family_ref": "A-1244",
+      "bundle_name": "Tucker Carlson Memorial Speech Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1244.1",
+          "ref": "A-1244.1",
+          "description": "Tucker Carlson at Charlie Kirk's memorial analogizing critics' efforts to those who plotted against Jesus in Jerusalem",
+          "related_claims": [
+            "C-1407"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1245",
+      "family_ref": "A-1245",
+      "bundle_name": "Dinesh D'Souza / Yishai X Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1245.1",
+          "ref": "A-1245.1",
+          "description": "Dinesh D'Souza X post: \"I can't comment on Candace because it's quite obviously a freak show. It's like driving on the highway and seeing a farmer having sex with a sheep…\"",
+          "related_claims": [
+            "C-1415"
+          ],
+          "related_nodes": [
+            "N-235"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1245.2",
+          "ref": "A-1245.2",
+          "description": "Yishai X reply to D'Souza characterizing his tweet as an example of bad-faith \"combat\" of Candace Owens",
+          "related_claims": [
+            "C-1415"
+          ],
+          "related_nodes": [
+            "N-238"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1246",
+      "family_ref": "A-1246",
+      "bundle_name": "Alex Jones Show Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1246.1",
+          "ref": "A-1246.1",
+          "description": "Audio excerpt from Alex Jones's show discussing Candace Owens's \"kill switch\" / dead-man switch; Jones confirms recipients including Max Blumenthal, Tucker Carlson, Tate brothers, Dave Smith; Jones invokes James O'Keefe and Prince Andrew as comparable precedent",
+          "related_claims": [
+            "C-1416",
+            "C-1417"
+          ],
+          "related_nodes": [
+            "N-232",
+            "N-233",
+            "N-1242"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:53:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1247",
+      "family_ref": "A-1247",
+      "bundle_name": "Gianmarco Soresi Comedy Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1247.1",
+          "ref": "A-1247.1",
+          "description": "Comedy clip of Gianmarco Soresi (\"John Marco Siracusa\" appears in transcript on-air caption; transcript carries both spellings) performing material about Jewish holidays, Moses, the Exodus, and contemporary Jewish self-deprecation",
+          "related_claims": [
+            "C-1417"
+          ],
+          "related_nodes": [
+            "N-231"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:00:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1248",
+      "family_ref": "A-1248",
+      "bundle_name": "Josh Hammer Tweet Collage Display",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1248.1",
+          "ref": "A-1248.1",
+          "description": "On-screen collage of multiple Josh Hammer X posts displayed by host (not individually transcribed in transcript; host summarizes them as containing accusations of \"grifting,\" \"lying,\" \"hijacking\" Charlie's legacy, and the \"posthumous Groperism\" attack)",
+          "related_claims": [
+            "C-1404"
+          ],
+          "related_nodes": [
+            "N-42"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1249",
+      "family_ref": "A-1249",
+      "bundle_name": "Letter Excerpt Read-Aloud Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1249.1",
+          "ref": "A-1249.1",
+          "description": "Host reads aloud on-air a passage from an unspecified letter: \"Tucker, Candace, and other bad-faith actors are lying through their teeth about Charlie and Israel\"",
+          "related_claims": [
+            "C-1418"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1250",
+      "family_ref": "A-1250",
+      "bundle_name": "Josh Hammer Media Appearance (Gabriel) Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1250.1",
+          "ref": "A-1250.1",
+          "description": "Audio excerpt of Josh Hammer on a media show with host \"Gabriel\"; Hammer discusses Iryna Zhuravska case against backdrop of 2013 criminal-law school context; references Trump and criminal-justice reform debate; specifically addresses criminality/safety, not death-penalty advocacy",
+          "related_claims": [
+            "C-1408"
+          ],
+          "related_nodes": [
+            "N-42",
+            "N-227"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-226",
+      "ref": "N-226",
+      "name": "Yashar Ali",
+      "type": "person",
+      "description": "X account author of the failing-contextualization quote-tweet (A-1237.1). Per host, \"literally paid to do PR for Zionists.\"",
+      "related_artifacts": [
+        "A-1237.1"
+      ],
+      "related_claims": [
+        "C-1405"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-42",
+        "N-1245"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-227",
+      "ref": "N-227",
+      "name": "Iryna Zhuravska",
+      "type": "person",
+      "description": "Ukrainian refugee whose August 22, 2025 murder in Charlotte, North Carolina, became a major conservative-news topic; footage released/trended September 5. Used as the official anchor in Yashar Ali's attempt to contextualize Josh Hammer's September 9 retweet.",
+      "related_artifacts": [
+        "A-1237.1",
+        "A-1238.1",
+        "A-1250.1"
+      ],
+      "related_claims": [
+        "C-1406"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-42",
+        "N-1245"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-228",
+      "ref": "N-228",
+      "name": "Matt Walsh",
+      "type": "person",
+      "description": "X author of the September 5 public-execution tweet used as comparative anchor (A-1238.1).",
+      "related_artifacts": [
+        "A-1238.1"
+      ],
+      "related_claims": [
+        "C-1409"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-227"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-229",
+      "ref": "N-229",
+      "name": "Rabbi Pesach Wolicki",
+      "type": "person",
+      "description": "Rabbi in Israel; per host and Wolicki audio (A-1243.1), participated in the pre-assassination Zoom call with Charlie Kirk and Josh Hammer. Provides direct testimonial artifact regarding Charlie's state of mind and the structure of the meeting.",
+      "related_artifacts": [
+        "A-1243.1"
+      ],
+      "related_claims": [
+        "C-1413",
+        "C-1414",
+        "C-1416"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-1244"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-231",
+      "ref": "N-231",
+      "name": "Gianmarco Soresi",
+      "type": "person",
+      "description": "Comedian whose bit about Jewish holidays and Exodus was played in the brief-levity segment. Transcript carries both \"Gianmarco Soresi\" (host) and \"John Marco Siracusa\" (caption) — flag.",
+      "related_artifacts": [
+        "A-1247.1"
+      ],
+      "related_claims": [
+        "C-1417"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-232",
+      "ref": "N-232",
+      "name": "Alex Jones",
+      "type": "person",
+      "description": "Host; audio in A-1246.1 confirms and elaborates the kill-switch narrative.",
+      "related_artifacts": [
+        "A-1246.1"
+      ],
+      "related_claims": [
+        "C-1416"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1242"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-233",
+      "ref": "N-233",
+      "name": "James O'Keefe",
+      "type": "person",
+      "description": "Referenced by Alex Jones as the precedent for the dead-man-switch mechanism (A-1246.1).",
+      "related_artifacts": [
+        "A-1246.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1242"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-234",
+      "ref": "N-234",
+      "name": "Kanye West",
+      "type": "person",
+      "description": "Referenced in host's kill-switch framing as a precursor who \"violated contracts\" to free his voice.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1416"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1242"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-235",
+      "ref": "N-235",
+      "name": "Dinesh D'Souza",
+      "type": "person",
+      "description": "X author of A-1245.1 — the \"freak show\" / farmer-sex-with-sheep post about Candace Owens.",
+      "related_artifacts": [
+        "A-1245.1"
+      ],
+      "related_claims": [
+        "C-1415"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-245",
+      "ref": "N-245",
+      "name": "Gabriel",
+      "type": "person",
+      "description": "Referenced in Josh Hammer / Gabriel reporting thread (transcript name).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1408"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-236",
+      "ref": "N-236",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Referenced in closing sponsorship-style segment as having a parody/cartoon antagonist role.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1424"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-237",
+      "ref": "N-237",
+      "name": "Mark (producer)",
+      "type": "person",
+      "description": "On-air dialogue partner; provides the trivia fact (\"all-points bulletin = APB\"). Not artifact-anchored; included as a registered node for cross-episode continuity.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-238",
+      "ref": "N-238",
+      "name": "Yishai (X account)",
+      "type": "person",
+      "description": "Author of the reply post to Dinesh D'Souza (A-1245.2); preserved exactly as spelled on air.",
+      "related_artifacts": [
+        "A-1245.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-235"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-239",
+      "ref": "N-239",
+      "name": "Seth Dillon",
+      "type": "person",
+      "description": "Per host attribution, more vocal than Josh Hammer in pressing Charlie at the Hamptons meeting. Reference not artifact-anchored in this episode (recounted as host narrative only); node created for cross-episode continuity.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1",
+        "N-42",
+        "N-1244"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-240",
+      "ref": "N-240",
+      "name": "Michael Savage",
+      "type": "person",
+      "description": "Referenced by Alex Jones (A-1246.1) as having said \"I hope Mossad doesn't kill me\" during a show break prior to Charlie's assassination.",
+      "related_artifacts": [
+        "A-1246.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-232"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-241",
+      "ref": "N-241",
+      "name": "Dave Smith",
+      "type": "person",
+      "description": "Listed by Alex Jones as a kill-switch recipient (A-1246.1).",
+      "related_artifacts": [
+        "A-1246.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1242"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-242",
+      "ref": "N-242",
+      "name": "Tate Brothers (Andrew and Tristan)",
+      "type": "person",
+      "description": "Listed by Alex Jones as kill-switch recipients (A-1246.1).",
+      "related_artifacts": [
+        "A-1246.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1242"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-243",
+      "ref": "N-243",
+      "name": "Ali (JTV host)",
+      "type": "person",
+      "description": "Interviewer in the Josh Hammer JTV segment (A-1242.1). Host name preserved as it appears in transcript.",
+      "related_artifacts": [
+        "A-1242.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-42"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1240",
+      "ref": "N-1240",
+      "name": "Josh Hammer September 9 Retweet Context Investigation",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: whether the September 9, 2025 9:09 p.m. ET retweet (A-1236.1) had an articulable contextual anchor. Direct entries: host asserts none; Yashar Ali (A-1237.1) proposes Iryna Zhuravska anchor (disputed by host); Matt Walsh comparative (A-1238.1); Hammer's historical anchors (A-1239.2) demonstrate he has only previously invoked public execution in visceral real-time response (Uvalde 2022).",
+      "related_artifacts": [
+        "A-1236.1",
+        "A-1237.1",
+        "A-1238.1",
+        "A-1239.2",
+        "A-1240.1"
+      ],
+      "related_claims": [
+        "C-1404",
+        "C-1405",
+        "C-1406",
+        "C-1409",
+        "C-1410",
+        "C-1420"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-42",
+        "N-226",
+        "N-227",
+        "N-228"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1241",
+      "ref": "N-1241",
+      "name": "UVU Left-Side Footage Black Hole",
+      "type": "investigation_target",
+      "description": "Investigation target: the absence of video from the audience's left / Charlie's left side at the September 10 UVU event. Host issues All-Points Bulletin to UVU attendees for footage of older males with hair tied in ponytails or buns, and from the missing-angle sector.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1422",
+        "C-1423"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1242",
+      "ref": "N-1242",
+      "name": "Candace Kill Switch / Dead Man Switch",
+      "type": "investigation_target",
+      "description": "Investigation target / verification node: the existence, recipients, and content of Candace Owens's \"kill switch\" — confirmed by Alex Jones audio (A-1246.1) to include Max Blumenthal, Tucker Carlson, Tate brothers, Dave Smith, and others. James O'Keefe precedent cited by Jones.",
+      "related_artifacts": [
+        "A-1246.1"
+      ],
+      "related_claims": [
+        "C-1416",
+        "C-1417"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-232",
+        "N-233",
+        "N-234",
+        "N-241",
+        "N-242"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1243",
+      "ref": "N-1243",
+      "name": "Charlie Kirk Final-Days Text Communications",
+      "type": "investigation_target",
+      "description": "Investigation target: the existence and provenance of text communications from Charlie Kirk on or around the day of his death, specifically (a) \"they are going to kill me\" texts to unnamed recipients, and (b) texts expressing concern about Israel infringing on American speech. Host references both; neither artifact is displayed in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1",
+        "N-42",
+        "N-229"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1244",
+      "ref": "N-1244",
+      "name": "Hamptons Meeting Verification",
+      "type": "investigation_target",
+      "description": "Investigation target: the gathering in the Hamptons at which, per host, Seth Dillon and Josh Hammer pressed Charlie on his shifting Israel views. Reference is host narrative; the episode's matching audio artifacts come from the JTV and Wolicki interviews (A-1242.1, A-1243.1) concerning a different meeting.",
+      "related_artifacts": [
+        "A-1242.1",
+        "A-1243.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-42",
+        "N-229",
+        "N-239"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1245",
+      "ref": "N-1245",
+      "name": "Iryna Zhuravska Murder Timeline Verification",
+      "type": "investigation_target",
+      "description": "Investigation target: the public timeline of the August 22, 2025 Charlotte murder, arrest, and September 5 footage release. Episode uses this to falsify the Yashar Ali contextualization claim. Matt Walsh's September 5 tweet (A-1238.1) is documentary evidence of the date.",
+      "related_artifacts": [
+        "A-1237.1",
+        "A-1238.1"
+      ],
+      "related_claims": [
+        "C-1406"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-42",
+        "N-226",
+        "N-227"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Decedent; central biographical and evidentiary subject. Reused from prior episodes; spelling preserved as \"Charlie Kirk\" per ledger.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Governor Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1404",
+      "ref": "C-1404",
+      "label": "Josh Hammer Retweeted 2013 Trump Public-Execution Tweet on September 9, 2025",
+      "claim": "Approximately 16 hours before Charlie Kirk's assassination, Josh Hammer retweeted an April 19, 2013 Donald Trump post advocating public executions and added the one-word reply \"Based.\"",
+      "anchored_artifacts": [
+        "A-1236.1",
+        "A-1248.1"
+      ],
+      "related_nodes": [
+        "N-42",
+        "N-1240"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:41",
+      "investigative_direction": "Verify retweet timestamp via X archive (Wayback Machine) and compare against official timeline of events on September 9–10, 2025."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1405",
+      "ref": "C-1405",
+      "label": "Yashar Ali Publicly Attempted to Contextualize Hammer's Retweet as Referring to Iryna Zhuravska",
+      "claim": "Yashar Ali posted a quote-tweet asserting the Hammer retweet referenced the Iryna Zhuravska murder and that other conservatives were sharing similar material the day prior.",
+      "anchored_artifacts": [
+        "A-1237.1"
+      ],
+      "related_nodes": [
+        "N-42",
+        "N-226",
+        "N-227",
+        "N-1245"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:48",
+      "investigative_direction": "Verify Yashar Ali's exact post text and timing against X archives; verify whether the \"day prior\" framing matches the post dates of alleged \"many conservatives.\""
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1406",
+      "ref": "C-1406",
+      "label": "Iryna Zhuravska Murder Timeline — Murder August 22, Footage Released and Trended September 5",
+      "claim": "Iryna Zhuravska was murdered on August 22, 2025; her perpetrator was arrested the same day; the footage was released and trended on X on September 5, 2025.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-227",
+        "N-228",
+        "N-1245"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:44",
+      "investigative_direction": "Verify dates against Charlotte-Mecklenburg Police Department records, news archives, and X trend timelines."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1407",
+      "ref": "C-1407",
+      "label": "Tucker Carlson, at Charlie Kirk's Memorial, Drew an Analogy Between Critics and Those Who Plotted Against Jesus",
+      "claim": "Tucker Carlson, delivering remarks at Charlie Kirk's memorial, analogized the actions of critics and liars to the plot against Jesus in Jerusalem 2,000 years ago.",
+      "anchored_artifacts": [
+        "A-1244.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-237"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:50",
+      "investigative_direction": "Verify the full memorial transcript and locate the segment within the recording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1408",
+      "ref": "C-1408",
+      "label": "Josh Hammer Did Not, in His Media Discussion of Iryna Zhuravska, Advocate the Death Penalty",
+      "claim": "In his media appearance with host Gabriel discussing the Iryna Zhuravska case, Hammer discussed criminal justice standards, media coverage double-standards, and safety — but did not call for or reference the death penalty.",
+      "anchored_artifacts": [
+        "A-1250.1"
+      ],
+      "related_nodes": [
+        "N-42",
+        "N-227",
+        "N-236",
+        "N-245"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:35",
+      "investigative_direction": "Verify the full segment transcript and any accompanying written material Hammer posted in that window."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1409",
+      "ref": "C-1409",
+      "label": "Matt Walsh Posted an X Post Calling for \"Public Execution\" on September 5, 2025",
+      "claim": "Matt Walsh posted on X on September 5, 2025, calling for public execution, hard labor, and long prison terms in a visceral response to the Iryna footage.",
+      "anchored_artifacts": [
+        "A-1238.1"
+      ],
+      "related_nodes": [
+        "N-228",
+        "N-227"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:45",
+      "investigative_direction": "Verify post date and content via X archives."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1410",
+      "ref": "C-1410",
+      "label": "Hammer's Sole Prior Public Reference to \"Public Execution\" Was a 2022 Post About the Uvalde Shooter",
+      "claim": "Prior to September 9, 2025, Josh Hammer's only documented reference to public execution came in a 2022 post discussing the Uvalde shooter (also referencing the Buffalo shooter).",
+      "anchored_artifacts": [
+        "A-1239.2"
+      ],
+      "related_nodes": [
+        "N-42",
+        "N-1240"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:29",
+      "investigative_direction": "Query X archive for \"public execution\" within Hammer's account history; verify no other prior episodes."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1411",
+      "ref": "C-1411",
+      "label": "Hammer's First X Post After Charlie Kirk's Death Promoted His Book",
+      "claim": "Josh Hammer's first X post following the announcement of Charlie Kirk's death included a claim that Charlie had told him during their last call that he would plug Hammer's book on his campus tour.",
+      "anchored_artifacts": [
+        "A-1241.1"
+      ],
+      "related_nodes": [
+        "N-42",
+        "N-1",
+        "N-1243"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:50",
+      "investigative_direction": "Cross-check with post timestamp against major news outlets' confirmation-of-death timestamps."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1412",
+      "ref": "C-1412",
+      "label": "Hammer Stated in JTV Interview That Charlie's Last Words to Him Concerned Plugging Hammer's Book",
+      "claim": "On JTV (in interview with host Ali), Josh Hammer stated that Charlie Kirk's last words to him referenced his intent to plug Hammer's book \"Israel and Civilization\" in response to Israel-related questions on the campus tour.",
+      "anchored_artifacts": [
+        "A-1242.1"
+      ],
+      "related_nodes": [
+        "N-42",
+        "N-243",
+        "N-1",
+        "N-1243",
+        "N-1244"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:12",
+      "investigative_direction": "Verify full JTV segment; corroborate against any Hamptons-meeting or post-call text-chain documentation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1413",
+      "ref": "C-1413",
+      "label": "Rabbi Pesach Wolicki Acknowledged Charlie Criticized Some Israeli Policy",
+      "claim": "In his post-assassination interview, Rabbi Pesach Wolicki stated that Charlie Kirk \"certainly had some disagreements with Israeli policy and he criticized Israel where he felt appropriate\" and that there were \"people around him in the America First movement who were actively working on him to try to get him to turn on Israel.\"",
+      "anchored_artifacts": [
+        "A-1243.1"
+      ],
+      "related_nodes": [
+        "N-229",
+        "N-1",
+        "N-1244"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:05",
+      "investigative_direction": "Verify full Wolicki interview; obtain unedited transcript."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1414",
+      "ref": "C-1414",
+      "label": "Wolicki Stated Charlie Called the Pre-Tour Meeting Himself for the Purpose of Preparing Israel Talking Points",
+      "claim": "Wolicki stated the pre-assassination meeting was called by Charlie, was on the schedule for weeks, and was for the purpose of preparing Israel-related talking points for Charlie's new campus tour starting in Utah.",
+      "anchored_artifacts": [
+        "A-1243.1"
+      ],
+      "related_nodes": [
+        "N-229",
+        "N-1",
+        "N-1244"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:17",
+      "investigative_direction": "Verify full Wolicki interview; cross-check with documented calendar entries and Zoom records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1415",
+      "ref": "C-1415",
+      "label": "Dinesh D'Souza Posted an X Post Comparing Candace Owens to a \"Freak Show\" and Bestiality on October 8, 2025",
+      "claim": "On the morning of October 8, 2025, Dinesh D'Souza posted on X comparing Candace Owens to a \"freak show\" and a farmer having sex with a sheep, with the stated intent of discouraging viewership.",
+      "anchored_artifacts": [
+        "A-1245.1",
+        "A-1245.2"
+      ],
+      "related_nodes": [
+        "N-235",
+        "N-238"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:42",
+      "investigative_direction": "Verify post timestamp and any subsequent deletion; verify Yishai reply and any subsequent post changes."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1416",
+      "ref": "C-1416",
+      "label": "Alex Jones Confirmed Candace Activated a \"Kill Switch\" Distributed to Multiple Named Recipients",
+      "claim": "Alex Jones, on his show, confirmed that Candace Owens sent a \"dead man's switch\" / \"kill switch\" data package to multiple recipients including Max Blumenthal, Tucker Carlson, the Tate brothers, and Dave Smith.",
+      "anchored_artifacts": [
+        "A-1246.1"
+      ],
+      "related_nodes": [
+        "N-232",
+        "N-233",
+        "N-241",
+        "N-242",
+        "N-1242"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:36",
+      "investigative_direction": "Verify the recipients directly with named individuals; verify the contents of the package."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1417",
+      "ref": "C-1417",
+      "label": "Alex Jones Cited the James O'Keefe Prince Andrew Disclosure as Precedent",
+      "claim": "Alex Jones cited James O'Keefe's dead-man-switch disclosure in the Prince Andrew case as a comparable precedent for the danger and effectiveness of Candace's kill switch.",
+      "anchored_artifacts": [
+        "A-1246.1"
+      ],
+      "related_nodes": [
+        "N-232",
+        "N-233",
+        "N-1242"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:36",
+      "investigative_direction": "Verify O'Keefe's actual mechanism; obtain O'Keefe's primary disclosure."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1418",
+      "ref": "C-1418",
+      "label": "A Letter Read Aloud on Air Asserted Critics Were \"Lying Through Their Teeth\"",
+      "claim": "A letter to which host was given access asserted that \"Tucker, Candace, and other bad-faith actors are lying through their teeth about Charlie and Israel.\"",
+      "anchored_artifacts": [
+        "A-1249.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:10",
+      "investigative_direction": "Identify the letter and author; verify authenticity."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1419",
+      "ref": "C-1419",
+      "label": "Josh Hammer Posted \"Jew hatred is inherent in the European DNA\" in 2019 and Later Deleted It",
+      "claim": "Josh Hammer posted on X in 2019 the statement \"Jew hatred is inherent in the European DNA,\" and subsequently deleted the post.",
+      "anchored_artifacts": [
+        "A-1239.1"
+      ],
+      "related_nodes": [
+        "N-42"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:55",
+      "investigative_direction": "Verify via web archives / Wayback Machine or third-party screen captures; verify deletion via X account audit."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1420",
+      "ref": "C-1420",
+      "label": "Josh Hammer Tweeted Nine Times on September 9, 2025 Before the 9:09 p.m. ET Public-Execution Retweet",
+      "claim": "On September 9, 2025, Josh Hammer posted nine X items covering Phillies story, Iryna media link, anti-Tucker, pro-Israel/anti-Qatar, anti-Saudi, second anti-Tucker, Hebrew Bible / Western civilization, Supreme Court media appearance, and concluded with the 9:09 p.m. ET public-execution retweet.",
+      "anchored_artifacts": [
+        "A-1240.1"
+      ],
+      "related_nodes": [
+        "N-42",
+        "N-1240"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:02",
+      "investigative_direction": "Verify each timestamp and content against X archive."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1421",
+      "ref": "C-1421",
+      "label": "Tyler Bowyer Has Made Accusatory X Posts Against Candace Owens's Coverage",
+      "claim": "Tyler Bowyer posted accusatory content on X, calling people names rather than addressing substantive questions.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-85"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:54",
+      "investigative_direction": "Capture and verify direct screenshots of Bowyer's X posts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1422",
+      "ref": "C-1422",
+      "label": "UVU Has a Documentary Footage Black Hole on Charlie's Left Side",
+      "claim": "There is an almost incomprehensible lack of footage from Charlie's left side (audience right) of the UVU event; Turning Point has not released high-resolution footage of that angle.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1241"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:02",
+      "investigative_direction": "Submit evidence requests to UVU, Turning Point USA, and individual attendee videographers; FOIA/records requests where applicable."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1423",
+      "ref": "C-1423",
+      "label": "UVU Had a Specific Suspect Profile Sought by Host — Older Males with Long Hair Tied in Ponytail or Bun",
+      "claim": "Host is specifically requesting footage of older males with long hair tied in ponytails or buns at the UVU event.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1241"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:00",
+      "investigative_direction": "Tip-line intake processing and review of footage submitted to tips@candaceowens.com."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1424",
+      "ref": "C-1424",
+      "label": "Host referenced Laura Loomer in closing segment",
+      "claim": "Host references Laura Loomer in closing remarks (parody/cartoon antagonist framing).",
+      "anchored_artifacts": [
+        "A-1245.1"
+      ],
+      "related_nodes": [
+        "N-236",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:00–00:59:00",
+      "investigative_direction": "Locate exact closing-segment timestamp and any on-screen graphic."
+    }
+  ],
+  "memes": []
+}

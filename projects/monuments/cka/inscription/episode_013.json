@@ -1,0 +1,1157 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 13,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:51:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "b006a28692c609e33d9f49453d20df3eb91ce77a988a45458b8ccd9c35a542f5",
+    "analysis_date": "2026-09-27",
+    "monument": "cka",
+    "youtube_id": "adJ4LNGp84I",
+    "candace_ep_number": 246,
+    "kind": "numbered_show"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1196",
+      "family_ref": "A-1196",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1196.1",
+          "ref": "A-1196.1",
+          "description": "Video clip: Shainer Broadick and Lyman-family aunt review/tracing the shooter's route on camera; aunt states \"I wondered if the girl had given him stuff…if there is an accomplice.\"",
+          "related_claims": [
+            "C-1337",
+            "C-1340"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-189",
+            "N-200",
+            "N-1218"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1197",
+      "family_ref": "A-1197",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1197.1",
+          "ref": "A-1197.1",
+          "description": "Screenshot: Phil Lyman campaign website endorsement by George Zinn",
+          "related_claims": [
+            "C-1338"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-190",
+            "N-1223"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1197.2",
+          "ref": "A-1197.2",
+          "description": "Wayback Machine capture confirming the Zinn endorsement text has been present at least since 2024-06-06",
+          "related_claims": [
+            "C-1338"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-190"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1198",
+      "family_ref": "A-1198",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1198.1",
+          "ref": "A-1198.1",
+          "description": "Host testimonial — sourced from \"many sources at Turning Point USA\" — confirming State Farm Stadium for Charlie Kirk's memorial was secured via direct White House call to the event coordinator; the displaced booking was an RV show.",
+          "related_claims": [
+            "C-1339"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1199",
+      "family_ref": "A-1199",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1199.1",
+          "ref": "A-1199.1",
+          "description": "Host-source reporting: new FBI SAC in Utah (\"Robert BS\"), installed by Kash Patel, recently moved from a long DC tenure",
+          "related_claims": [
+            "C-1341"
+          ],
+          "related_nodes": [
+            "N-191",
+            "N-1220"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1199.2",
+          "ref": "A-1199.2",
+          "description": "Host-source reporting: Andrew Zanger named as new CEO and lead surgeon at the regional hospital receiving Charlie Kirk",
+          "related_claims": [
+            "C-1341"
+          ],
+          "related_nodes": [
+            "N-192",
+            "N-1220"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1199.3",
+          "ref": "A-1199.3",
+          "description": "Host-source reporting: Judge Tony F. Graph Jr. appointed May 2025 by Governor Spencer Cox to the fourth district court; presides over Tyler Robinson case",
+          "related_claims": [
+            "C-1341"
+          ],
+          "related_nodes": [
+            "N-193",
+            "N-1220"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1199.4",
+          "ref": "A-1199.4",
+          "description": "Host-source reporting: new (unnamed) coroner on the case",
+          "related_claims": [
+            "C-1341"
+          ],
+          "related_nodes": [
+            "N-1220"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1200",
+      "family_ref": "A-1200",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1200.1",
+          "ref": "A-1200.1",
+          "description": "Video clip: Benjamin Netanyahu meets on camera with US social-media influencer Deborah Lee to discuss shaping US opinion",
+          "related_claims": [
+            "C-1344",
+            "C-1345",
+            "C-1346"
+          ],
+          "related_nodes": [
+            "N-197",
+            "N-198"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:27:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1201",
+      "family_ref": "A-1201",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1201.1",
+          "ref": "A-1201.1",
+          "description": "X post by \"Florida Dab\" addressed to Megyn Kelly: \"If you can't separate yourself from Candace Owens, many of us are going to separate ourselves from you…\" followed by \"We do not have to align with everyone that claims to be of the right when their motives and history are as shady as hers.\"",
+          "related_claims": [
+            "C-1347"
+          ],
+          "related_nodes": [
+            "N-195"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1202",
+      "family_ref": "A-1202",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1202.1",
+          "ref": "A-1202.1",
+          "description": "X reply by Megyn Kelly to Florida Dab refusing to condemn Candace Owens or Tucker Carlson",
+          "related_claims": [
+            "C-1348"
+          ],
+          "related_nodes": [
+            "N-195"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1203",
+      "family_ref": "A-1203",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1203.1",
+          "ref": "A-1203.1",
+          "description": "X post by Constantine Kissen addressed to Megyn Kelly: expresses concern with Kelly's refusal to separate from Candace Owens and Tucker Carlson; characterizes their behavior as \"extreme and so deranged\"",
+          "related_claims": [
+            "C-1349"
+          ],
+          "related_nodes": [
+            "N-196"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1203.2",
+          "ref": "A-1203.2",
+          "description": "X reply by Megyn Kelly to Constantine Kissen: \"The more one insists that I say what one demands me to, the more committed I get in my refusal.\" (and follow-up: \"Your response proves the opposite of what it purports to.\")",
+          "related_claims": [
+            "C-1348"
+          ],
+          "related_nodes": [
+            "N-196"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1204",
+      "family_ref": "A-1204",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1204.1",
+          "ref": "A-1204.1",
+          "description": "Producer note read on air identifying \"Erika Mindle\" / \"Erikica Mindle\" as American Israeli Jewish former IDF soldier, serving as Public Policy Manager of Hate Speech at TikTok since July 2025",
+          "related_claims": [
+            "C-1350"
+          ],
+          "related_nodes": [
+            "N-194",
+            "N-1223"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1205",
+      "family_ref": "A-1205",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1205.1",
+          "ref": "A-1205.1",
+          "description": "Email read on air from an attendee of the TPUSA event at Utah State University on 2025-09-30 characterizing it as \"scripted\" with \"absent\" open dialogue",
+          "related_claims": [
+            "C-1353"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1206",
+      "family_ref": "A-1206",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1206.1",
+          "ref": "A-1206.1",
+          "description": "Comment read on air (from \"The Menagerie by Drea Lee\"): one of Tyler Robinson's lawyers, Michael Bert, previously represented Richard Ramirez (\"the Nightstalker\")",
+          "related_claims": [
+            "C-1352"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1207",
+      "family_ref": "A-1207",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1207.1",
+          "ref": "A-1207.1",
+          "description": "Comment read on air (from \"Marzy\"): \"The FBI just cut ties with the ADL after Turning Point USA criticism. They share a building.\"",
+          "related_claims": [
+            "C-1351"
+          ],
+          "related_nodes": [
+            "N-1218"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1208",
+      "family_ref": "A-1208",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1208.1",
+          "ref": "A-1208.1",
+          "description": "Comment read on air referencing ExpressVPN's acquisition / founding by an Israeli billionaire, framed as a privacy/opsec concern",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-189",
+      "ref": "N-189",
+      "name": "Shainer Broadick",
+      "type": "person",
+      "description": "Family member of Phil Lyman who recorded footage at the Lyman property reviewing the shooter's route, deleted his social media after contact, and is named by host as the source of the camera footage clip played on air.",
+      "related_artifacts": [
+        "A-1196.1"
+      ],
+      "related_claims": [
+        "C-1340"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-69",
+        "N-200"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-190",
+      "ref": "N-190",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "Local figure who appears as one of ~20 featured endorsements on Phil Lyman's campaign website; the endorsement has been publicly accessible since at least 2024-06-06 per Wayback.",
+      "related_artifacts": [
+        "A-1197.1",
+        "A-1197.2"
+      ],
+      "related_claims": [
+        "C-1338"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-191",
+      "ref": "N-191",
+      "name": "Robert \"BS\" (FBI SAC, Utah)",
+      "type": "person",
+      "description": "FBI Special Agent in Charge recently installed over the Utah bureau by Kash Patel; previously held a long tenure in DC. First major case: Charlie Kirk assassination.",
+      "related_artifacts": [
+        "A-1199.1"
+      ],
+      "related_claims": [
+        "C-1341"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1220"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-192",
+      "ref": "N-192",
+      "name": "Andrew Zanger",
+      "type": "person",
+      "description": "Recently appointed CEO and lead surgeon at the regional hospital where Charlie Kirk was taken; flagged by host because the hospital was not the nearest and did not rank highly for trauma/neck-wound capability.",
+      "related_artifacts": [
+        "A-1199.2"
+      ],
+      "related_claims": [
+        "C-1341"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1220",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-193",
+      "ref": "N-193",
+      "name": "Judge Tony F. Graph Jr.",
+      "type": "person",
+      "description": "Recently appointed to the fourth district court in May 2025 by Governor Spencer Cox; presides over Tyler Robinson case.",
+      "related_artifacts": [
+        "A-1199.3"
+      ],
+      "related_claims": [
+        "C-1341"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1220"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Erika \"Erikica\" Mindle",
+      "type": "person",
+      "description": "Self-described in host's producer note as American Israeli Jewish former IDF soldier; named as TikTok Public Policy Manager of Hate Speech since July 2025.",
+      "related_artifacts": [
+        "A-1204.1"
+      ],
+      "related_claims": [
+        "C-1350"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1218"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-195",
+      "ref": "N-195",
+      "name": "Florida Dab (X handle)",
+      "type": "person",
+      "description": "X account characterized by host as \"Ziobot\"/pro-Israel; initiated the social-media pressure exchange with Megyn Kelly over separation from Candace Owens.",
+      "related_artifacts": [
+        "A-1201.1"
+      ],
+      "related_claims": [
+        "C-1347"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-196",
+      "ref": "N-196",
+      "name": "Constantine Kissen",
+      "type": "person",
+      "description": "X account / commenter who joined the Florida Dab → Megyn Kelly thread; described by host as an \"agent of Israel.\"",
+      "related_artifacts": [
+        "A-1203.1",
+        "A-1203.2"
+      ],
+      "related_claims": [
+        "C-1349"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-197",
+      "ref": "N-197",
+      "name": "Deborah Lee",
+      "type": "person",
+      "description": "Host of the influencer meeting with Netanyahu; raised the question about evangelical support post-Kirk assassination.",
+      "related_artifacts": [
+        "A-1200.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-198",
+      "ref": "N-198",
+      "name": "Larry Ellison",
+      "type": "person",
+      "description": "Named by host as a party in the TikTok deal and as openly identifying as \"an agent of Israel.\"",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-199",
+      "ref": "N-199",
+      "name": "Michael Bert",
+      "type": "person",
+      "description": "Defense attorney named in on-air comment as previously representing Richard Ramirez (\"the Nightstalker\"); said to be one of Tyler Robinson's lawyers.",
+      "related_artifacts": [
+        "A-1206.1"
+      ],
+      "related_claims": [
+        "C-1352"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-200",
+      "ref": "N-200",
+      "name": "Unidentified Lyman-Family Woman (Shainer's aunt)",
+      "type": "person",
+      "description": "Speaker in A-1196.1 footage; produced the statement \"I wondered if the girl had given him stuff…if there is an accomplice.\" Identity not publicly established in the episode.",
+      "related_artifacts": [
+        "A-1196.1"
+      ],
+      "related_claims": [
+        "C-1340"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-189",
+        "N-69",
+        "N-1218"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Persistent target referenced across host reporting, anonymous tip, and Shainer Broadick footage; the FBI has not, per host, publicly identified or released her.",
+      "related_artifacts": [
+        "A-1196.1",
+        "A-1207.1"
+      ],
+      "related_claims": [
+        "C-1337",
+        "C-1340"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-200",
+        "N-189"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "X-handle candidate allegedly from Washington; named by viewer's reverse-image search. Per host, no one has come forward to personally identify him, raising the possibility of a synthetic identity.",
+      "related_artifacts": [
+        "A-1196.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "Composite target covering the simultaneous arrival of new senior figures (FBI SAC \"Robert BS,\" hospital CEO/surgeon Andrew Zanger, Judge Tony F. Graph Jr., unnamed new coroner) onto the case.",
+      "related_artifacts": [
+        "A-1198.1"
+      ],
+      "related_claims": [
+        "C-1341"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-191",
+        "N-192",
+        "N-193"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1221",
+      "ref": "N-1221",
+      "name": "Autopsy Record – Utah Privacy Statute Application",
+      "type": "investigation_target",
+      "description": "Discrete legal target: confirmation that an autopsy was conducted and that Utah statutory default is privacy absent family release.",
+      "related_artifacts": [
+        "A-1199.4"
+      ],
+      "related_claims": [
+        "C-1342",
+        "C-1343"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1222",
+      "ref": "N-1222",
+      "name": "Hospital Routing Anomaly",
+      "type": "investigation_target",
+      "description": "Discrete question why Charlie was transported to a regional hospital that was neither nearest nor ranked highly for neck trauma capability.",
+      "related_artifacts": [
+        "A-1199.2"
+      ],
+      "related_claims": [
+        "C-1341"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-192"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1223",
+      "ref": "N-1223",
+      "name": "TPUSA Faith Packet / Israel References Claim",
+      "type": "investigation_target",
+      "description": "Composite target referencing an attendee-submitted TPUSA Faith Packet said to mention Israel eight times; framed as a Turning Point directionality question.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Decedent; central biographical and evidentiary subject. Reused from prior episodes; spelling preserved as \"Charlie Kirk\" per ledger.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1337",
+      "ref": "C-1337",
+      "label": "Woman seen with shooter on nearby houses' doorbell-camera footage",
+      "claim": "The episode presents that a woman was captured alongside the shooter in doorbell-camera footage from houses near the venue, and that the FBI had not at the time of the episode publicly released or acknowledged that footage.",
+      "anchored_artifacts": [
+        "A-1196.1"
+      ],
+      "related_nodes": [
+        "N-1218",
+        "N-189",
+        "N-200"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:49",
+      "investigative_direction": "Obtain the underlying doorbell-camera footage independently; cross-check against FBI public statements and the TMZ September 11 release."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1338",
+      "ref": "C-1338",
+      "label": "George Zinn publicly endorsed Phil Lyman on his campaign website since at least June 2024",
+      "claim": "George Zinn was featured as one of approximately twenty endorsers on Phil Lyman's campaign website, with the text present on Wayback Machine no later than 2024-06-06.",
+      "anchored_artifacts": [
+        "A-1197.1",
+        "A-1197.2"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-190"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:00",
+      "investigative_direction": "Verify current status of the endorsement on the live Lyman campaign site; obtain Wayback snapshots across the full 2024-2025 window."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1339",
+      "ref": "C-1339",
+      "label": "State Farm Stadium memorial venue was secured via White House intervention, displacing a scheduled RV show",
+      "claim": "Turning Point USA did not book State Farm Stadium in advance; the White House placed a personal call to the event coordinator and obtained the date by rescheduling a previously booked RV show.",
+      "anchored_artifacts": [
+        "A-1198.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:30",
+      "investigative_direction": "Cross-check White House and TPUSA communications logs; verify the RV-show organizer account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1340",
+      "ref": "C-1340",
+      "label": "Lyman family member on camera suggested a \"girl\" may have acted as accomplice with the shooter",
+      "claim": "In footage recorded by Shainer Broadick, his aunt (identified as a Lyman family member) states on camera that she wondered if \"the girl\" had given the shooter items and that there might have been an accomplice.",
+      "anchored_artifacts": [
+        "A-1196.1"
+      ],
+      "related_nodes": [
+        "N-189",
+        "N-200",
+        "N-69",
+        "N-1218"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:44",
+      "investigative_direction": "Identify and interview the female speaker; obtain the original unwiped file; secure any raw footage she retained."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1341",
+      "ref": "C-1341",
+      "label": "Several new officials appeared in the case around the time of the assassination",
+      "claim": "Multiple senior officials involved in the case were recent appointments at the time of the event — FBI SAC \"Robert BS\" (installed by Kash Patel after a long DC tenure), hospital CEO and lead surgeon Andrew Zanger, Judge Tony F. Graph Jr. (fourth district court, appointed May 2025 by Governor Cox), and a new (unnamed) coroner.",
+      "anchored_artifacts": [
+        "A-1199.1",
+        "A-1199.2",
+        "A-1199.3",
+        "A-1199.4"
+      ],
+      "related_nodes": [
+        "N-191",
+        "N-192",
+        "N-193",
+        "N-1220",
+        "N-1222"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:53",
+      "investigative_direction": "Confirm each appointment's date and predecessor; verify Andrew Zanger's direct involvement in Charlie Kirk's surgical care."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1342",
+      "ref": "C-1342",
+      "label": "An autopsy of Charlie Kirk was conducted",
+      "claim": "Despite public rumors to the contrary, an autopsy of Charlie Kirk was performed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1",
+        "N-1221"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:17",
+      "investigative_direction": "Verify through official medical examiner channels or court filings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1343",
+      "ref": "C-1343",
+      "label": "Utah statute treats autopsy reports as private absent family-initiated release",
+      "claim": "Under Utah law, autopsy reports are kept private; only the immediate family's request can compel public release.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1221",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:17",
+      "investigative_direction": "Confirm against the current Utah Code provision on medical examiner reports and the practice of the named office."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1344",
+      "ref": "C-1344",
+      "label": "Netanyahu met on camera with US social-media influencer Deborah Lee",
+      "claim": "Benjamin Netanyahu conducted an on-camera meeting with US influencer Deborah Lee to discuss shaping US opinion, including in the context of Charlie Kirk's assassination.",
+      "anchored_artifacts": [
+        "A-1200.1"
+      ],
+      "related_nodes": [
+        "N-197"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:00",
+      "investigative_direction": "Obtain the original full footage and timestamp metadata; identify any co-attendees not named in the clip."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1345",
+      "ref": "C-1345",
+      "label": "Netanyahu named TikTok and X (and Elon Musk) as the principal social-media platforms of the described \"battle\"",
+      "claim": "In the influencer meeting, Netanyahu identified TikTok and X as the most important battlegrounds, expressed hope that the TikTok deal would go through, and described Elon Musk as a friend to be spoken with.",
+      "anchored_artifacts": [
+        "A-1200.1"
+      ],
+      "related_nodes": [
+        "N-197",
+        "N-198"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:34",
+      "investigative_direction": "Locate the full exchange; verify the exact statements against the unedited clip."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1346",
+      "ref": "C-1346",
+      "label": "Netanyahu described social media as the \"weapons of the battlefield\" of the influence fight",
+      "claim": "In the meeting, Netanyahu stated, in essence, that the means of fighting must match the battlefield and identified social media as the most important battlefield of the present moment.",
+      "anchored_artifacts": [
+        "A-1200.1"
+      ],
+      "related_nodes": [
+        "N-197"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:34",
+      "investigative_direction": "Verify the full quote in its original-language form; identify the context (who prompted the metaphor)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1347",
+      "ref": "C-1347",
+      "label": "\"Florida Dab\" account on X demanded Megyn Kelly separate from Candace Owens",
+      "claim": "An X account identifying as \"Florida Dab\" publicly told Megyn Kelly she must separate from Candace Owens, or \"many of us\" would separate from Kelly.",
+      "anchored_artifacts": [
+        "A-1201.1"
+      ],
+      "related_nodes": [
+        "N-195"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:01",
+      "investigative_direction": "Archive the original post; identify the account's operator; map its network of similar accounts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1348",
+      "ref": "C-1348",
+      "label": "Megyn Kelly publicly refused to condemn Candace Owens or Tucker Carlson in the thread",
+      "claim": "Megyn Kelly publicly replied to Florida Dab and to Constantine Kissen that she would not separate from or condemn Candace Owens or Tucker Carlson, characterizing the demand as one she would resist.",
+      "anchored_artifacts": [
+        "A-1202.1",
+        "A-1203.2"
+      ],
+      "related_nodes": [
+        "N-195",
+        "N-196"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:51",
+      "investigative_direction": "Capture full thread context including replies not quoted on air."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1349",
+      "ref": "C-1349",
+      "label": "Constantine Kissen joined the X pressure thread against Megyn Kelly",
+      "claim": "Constantine Kissen posted on X to Megyn Kelly characterizing Candace Owens' and Tucker Carlson's behavior as \"extreme and so deranged\" and questioning why Kelly was not confronting them.",
+      "anchored_artifacts": [
+        "A-1203.1",
+        "A-1203.2"
+      ],
+      "related_nodes": [
+        "N-196"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:51",
+      "investigative_direction": "Verify the post is from the same handle the host means; identify its operator and pattern of activity."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1350",
+      "ref": "C-1350",
+      "label": "TikTok Public Policy Manager of Hate Speech since July 2025 is described as a former IDF soldier",
+      "claim": "A producer-supplied note identifies \"Erika/Erikica Mindle\" as a former IDF soldier and as TikTok's Public Policy Manager of Hate Speech since July 2025.",
+      "anchored_artifacts": [
+        "A-1204.1"
+      ],
+      "related_nodes": [
+        "N-194"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:16",
+      "investigative_direction": "Verify the named individual's employment, role title, and dates through LinkedIn, TikTok corporate disclosures, or press releases."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1351",
+      "ref": "C-1351",
+      "label": "The FBI recently cut ties with the ADL after Turning Point USA criticism, and the FBI and ADL share a building",
+      "claim": "A commenter states that the FBI has severed ties with the ADL in the wake of Turning Point USA criticism and that the two organizations shared a building.",
+      "anchored_artifacts": [
+        "A-1207.1"
+      ],
+      "related_nodes": [
+        "N-1218"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:19",
+      "investigative_direction": "Verify against FBI press releases; identify the shared facility; check for any state or federal disclosure."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1352",
+      "ref": "C-1352",
+      "label": "One of Tyler Robinson's lawyers previously represented Richard Ramirez",
+      "claim": "One of Tyler Robinson's defense lawyers, Michael Bert, previously represented Richard Ramirez (\"the Nightstalker\").",
+      "anchored_artifacts": [
+        "A-1206.1"
+      ],
+      "related_nodes": [
+        "N-199"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:36",
+      "investigative_direction": "Verify against state bar records and published case dockets for both Ramirez and Robinson."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1353",
+      "ref": "C-1353",
+      "label": "TPUSA event at USU on 2025-09-30 felt scripted and lacked open dialogue, per attendee email",
+      "claim": "An attendee of the TPUSA event at Utah State University on 2025-09-30 wrote to the show characterizing the event as scripted, lacking open dialogue, and not authentic.",
+      "anchored_artifacts": [
+        "A-1205.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:41",
+      "investigative_direction": "Obtain independent attendee statements; compare against TPUSA's published event format."
+    }
+  ],
+  "memes": []
+}

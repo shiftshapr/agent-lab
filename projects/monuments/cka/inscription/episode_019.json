@@ -1,0 +1,1215 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 19,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:58:50",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "3975718372f80b6f8cb46a2d9838a64bef33712d80f8fd9cb5407d96f7900b2d",
+    "analysis_date": "2026-09-27",
+    "monument": "cka",
+    "youtube_id": "c5BcKF91iec",
+    "candace_ep_number": 252,
+    "kind": "numbered_show"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1260",
+      "family_ref": "A-1260",
+      "bundle_name": "Pastor Rob McCoy Sermon Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1260.1",
+          "ref": "A-1260.1",
+          "description": "Sermon excerpt in which Pastor Rob McCoy states Charlie Kirk \"was wise enough at 31 to put together [sighs] a plan for succession. It's very clear what they decided and they're implementing it now.\"",
+          "related_claims": [
+            "C-1467"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1261",
+      "family_ref": "A-1261",
+      "bundle_name": "Mikey McCoy Event-Day Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1261.1",
+          "ref": "A-1261.1",
+          "description": "Slow-motion clip tracking Mikey McCoy raising phone to ear 834 milliseconds after gunshot audio.",
+          "related_claims": [
+            "C-1461"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:27–00:11:27",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1261.2",
+          "ref": "A-1261.2",
+          "description": "Footage showing Mikey McCoy in background at Charlie's waiting car, still on phone.",
+          "related_claims": [
+            "C-1463"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1261.3",
+          "ref": "A-1261.3",
+          "description": "Footage showing Mikey McCoy on phone ~1 minute 45 seconds before the gunshot.",
+          "related_claims": [
+            "C-1462"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1262",
+      "family_ref": "A-1262",
+      "bundle_name": "Camera Operator Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1262.1",
+          "ref": "A-1262.1",
+          "description": "Selfie video of unnamed camera operator recorded within approximately one minute of the shooting. Captured audio: \"They just shot Charlie. They just shot Charlie. There's your shot, Charlie. He's dead. God help me.\"",
+          "related_claims": [
+            "C-1464",
+            "C-1465"
+          ],
+          "related_nodes": [
+            "N-256"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:44–00:25:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1262.2",
+          "ref": "A-1262.2",
+          "description": "Footage of camera operator's actions in the four minutes preceding camera takedown, sent by the operator to Candace Owens via phone.",
+          "related_claims": [
+            "C-1466"
+          ],
+          "related_nodes": [
+            "N-256"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:23:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1263",
+      "family_ref": "A-1263",
+      "bundle_name": "Candace Owens-Charlie Kirk British Columbia Fishing Photo",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1263.1",
+          "ref": "A-1263.1",
+          "description": "Photo of Candace Owens holding a caught fish alongside Charlie Kirk (eyes closed), taken by Donald Trump Jr. or Cory Lundowski (\"Flash\") during a fishing trip in British Columbia.",
+          "related_claims": [
+            "C-1473"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1264",
+      "family_ref": "A-1264",
+      "bundle_name": "UVU Charlie Kirk Event Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1264.1",
+          "ref": "A-1264.1",
+          "description": "Audio/video clip of Charlie Kirk at a UVU event responding to a question on friendship. Captured dialogue: \"If you aren't wealthy, white, and male, Charlie Kirk is not your friend.\" / \"Find out. I'm going to find out a sign outside of a thing in an event that we just did that you're not my friend.\"",
+          "related_claims": [
+            "C-1472"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1265",
+      "family_ref": "A-1265",
+      "bundle_name": "HBO-Style Miniseries Trailer — Charlie Kirk / Israel Donors",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1265.1",
+          "ref": "A-1265.1",
+          "description": "Produced trailer segment narrated by host referencing Charlie Kirk text messages, including: \"Jewish donors play into all the stereotypes. I cannot and will not be bullied like this.\" Trailer indicates a follow-up segment about a lawyer (Josh Hammer) discussing potential defamation claims.",
+          "related_claims": [
+            "C-1471",
+            "C-1476"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:49–00:35:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1266",
+      "family_ref": "A-1266",
+      "bundle_name": "Charlie Kirk Text Messages to Candace Owens (April 6, 2018)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1266.1",
+          "ref": "A-1266.1",
+          "description": "Read-aloud text message exchange dated April 6, 2018 containing the following attributed Kirk statements:",
+          "related_claims": [
+            "C-1468",
+            "C-1469",
+            "C-1470"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:21–00:39:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1267",
+      "family_ref": "A-1267",
+      "bundle_name": "John Miller X Post",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1267.1",
+          "ref": "A-1267.1",
+          "description": "Read-aloud tweet by John Miller reacting to Josh Hammer's reported defamation threat: \"They really trying to make us believe this is the good guy. LMAO\"",
+          "related_claims": [
+            "C-1475"
+          ],
+          "related_nodes": [
+            "N-262"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1268",
+      "family_ref": "A-1268",
+      "bundle_name": "Celebrity Book Review Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1268.1",
+          "ref": "A-1268.1",
+          "description": "Read-aloud collection of celebrity comments regarding Candace Owens quoted in connection with book promotion (\"Make Him a Sandwich\"). Includes comments attributed to Cardi B, Lance Bass, Ireland Baldwin, Roseanne Barr, Eminem, JoJo Siwa, Ben Shapiro, and Chrissy Teigen.",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:50:32–00:51:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1269",
+      "family_ref": "A-1269",
+      "bundle_name": "Viewer Comments Bundle (Candace Episode 252)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1269.1",
+          "ref": "A-1269.1",
+          "description": "Ian Carol comment: \"Fishing takes time. You got to set the bait. It's so good to have you back, Candace.\"",
+          "related_claims": [
+            "C-1482"
+          ],
+          "related_nodes": [
+            "N-258"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:43",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1269.2",
+          "ref": "A-1269.2",
+          "description": "Amanda comment: \"This is sick. Thank you, Candace, for always sharing the truth. God bless you.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": []
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1269.3",
+          "ref": "A-1269.3",
+          "description": "Kiki Mack comment: \"Thank you so much for helping remove the wool from my eyes and bringing me back to church…\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": []
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1269.4",
+          "ref": "A-1269.4",
+          "description": "Amal comment: \"I hate to be morbid, but God truly saved you by removing you from DW…\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": []
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1269.5",
+          "ref": "A-1269.5",
+          "description": "Joshua Steves comment: \"Tyler Robinson appearing in court today via Zoom without having to show his face surely isn't helping any of the theories out there. It's good to have you back.\"",
+          "related_claims": [
+            "C-1483"
+          ],
+          "related_nodes": [
+            "N-263"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:53:26"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1269.6",
+          "ref": "A-1269.6",
+          "description": "Ivana Milano comment: \"Keep up the great work…\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": []
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1269.7",
+          "ref": "A-1269.7",
+          "description": "Tim Morgan comment: \"For the investigation for Charlie. We love you. God bless.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": []
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1269.8",
+          "ref": "A-1269.8",
+          "description": "Caitlyn comment (anecdotal): cites brother HM's prior statements about dying before age 40; died at 41.",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": []
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1269.9",
+          "ref": "A-1269.9",
+          "description": "David Foster comment: \"I didn't even know Charlie and I was more shook up seeing the footage than the camera guy seemed in a selfie video. He wasn't even shaking…\"",
+          "related_claims": [
+            "C-1484"
+          ],
+          "related_nodes": [
+            "N-256"
+          ],
+          "tags": [],
+          "video_timestamp": "00:56:09"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1269.10",
+          "ref": "A-1269.10",
+          "description": "Bayern comment: \"Come back, Candace. Everyone needs…\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": []
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-255",
+      "ref": "N-255",
+      "name": "Justin McCoy",
+      "type": "person",
+      "description": "Son of Pastor Rob McCoy. Identified in episode as TPUSA Chief Financial Officer (\"chief CFO, chief financial officer\"). Referenced in Pastor McCoy's A-1260.1 sermon regarding succession.",
+      "related_artifacts": [
+        "A-1260.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-256",
+      "ref": "N-256",
+      "name": "Camera Operator (UVU Event, 2025-09-10)",
+      "type": "person",
+      "description": "Unnamed AV company operator at the UVU Charlie Kirk event. Operated TPUSA event cameras; recorded selfie video immediately post-shooting; sent a video to Candace Owens covering four minutes of activity before camera takedown. Identified by host as having been brought into TPUSA by Tyler Bowyer.",
+      "related_artifacts": [
+        "A-1262.1",
+        "A-1262.2",
+        "A-1269.9"
+      ],
+      "related_claims": [
+        "C-1464",
+        "C-1465",
+        "C-1466",
+        "C-1477"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-257",
+      "ref": "N-257",
+      "name": "Frank Turk",
+      "type": "person",
+      "description": "Individual at the UVU event identified by host (and Ian Carol) as the only person who reacted normally — dropping to ground and crawling toward Charlie Kirk before helping escort him to the waiting car.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1481"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-258",
+      "ref": "N-258",
+      "name": "Ian Carol",
+      "type": "person",
+      "description": "Internet investigator whose video work is cited by host regarding Frank Turk's reaction and whose viewer comment is read aloud (A-1269.1). Described as among those \"not letting this go.\"",
+      "related_artifacts": [
+        "A-1269.1",
+        "A-1269.9"
+      ],
+      "related_claims": [
+        "C-1482"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-257"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-259",
+      "ref": "N-259",
+      "name": "Sam Parker",
+      "type": "person",
+      "description": "Internet investigator cited by host as among those who helped circulate the Mikey McCoy September 10 footage.",
+      "related_artifacts": [
+        "A-1261.1"
+      ],
+      "related_claims": [
+        "C-1461"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-260",
+      "ref": "N-260",
+      "name": "James Lee",
+      "type": "person",
+      "description": "Internet investigator cited by host as among those helping circulate post-event footage.",
+      "related_artifacts": [
+        "A-1261.1"
+      ],
+      "related_claims": [
+        "C-1461"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-261",
+      "ref": "N-261",
+      "name": "Zeb Boyin",
+      "type": "person",
+      "description": "Internet investigator cited by host as conducting ballistics work on the case.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1258"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-262",
+      "ref": "N-262",
+      "name": "John Miller",
+      "type": "person",
+      "description": "X (Twitter) user whose post about Josh Hammer is read aloud (A-1267.1).",
+      "related_artifacts": [
+        "A-1267.1"
+      ],
+      "related_claims": [
+        "C-1475"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-263",
+      "ref": "N-263",
+      "name": "Joshua Steves",
+      "type": "person",
+      "description": "Viewer-comment author referencing Tyler Robinson's Zoom court appearance.",
+      "related_artifacts": [
+        "A-1269.5"
+      ],
+      "related_claims": [
+        "C-1483"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-264",
+      "ref": "N-264",
+      "name": "Stacy Sheridan",
+      "type": "person",
+      "description": "Identified by host as TPUSA's \"chief money person,\" holding camera during casket escort off Air Force 2. Brought into TPUSA by Tyler Bowyer per host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1479"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-265",
+      "ref": "N-265",
+      "name": "Andrew Kovett",
+      "type": "person",
+      "description": "TPUSA-affiliated figure referenced by host as a person contacted for comment along with Mikey McCoy, with no response returned.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1485"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-266",
+      "ref": "N-266",
+      "name": "Scott Adams",
+      "type": "person",
+      "description": "Referenced by host as having produced a video characterizing Kanye West's tweet about Candace Owens as having \"ripped a hole through the universe.\"",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-267",
+      "ref": "N-267",
+      "name": "Ryan Mata",
+      "type": "person",
+      "description": "Internet investigator cited by host among those pursuing the case \"day in and day out\" despite not having previously known Charlie Kirk.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1257",
+      "ref": "N-1257",
+      "name": "834ms Phone Timing Analysis",
+      "type": "investigation_target",
+      "description": "Investigable measurement: claimed time between gunshot audio and Mikey McCoy's phone-to-ear motion based on host's frame-by-frame review of event footage.",
+      "related_artifacts": [
+        "A-1261.1",
+        "A-1261.2",
+        "A-1261.3"
+      ],
+      "related_claims": [
+        "C-1461",
+        "C-1462",
+        "C-1463"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1258",
+      "ref": "N-1258",
+      "name": "Camera Operator Behavior Pattern",
+      "type": "investigation_target",
+      "description": "Investigable question regarding the camera operator's post-shot conduct: immediate selfie recording, premature announcement of death, brief flight distance, and delayed camera takedown.",
+      "related_artifacts": [
+        "A-1262.1",
+        "A-1262.2",
+        "A-1269.9"
+      ],
+      "related_claims": [
+        "C-1464",
+        "C-1465",
+        "C-1466",
+        "C-1484"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-256"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1259",
+      "ref": "N-1259",
+      "name": "Mikey McCoy Call Log Verification",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: the absence of any public release or response from Mikey McCoy regarding who he was calling at 12:23 p.m. on 2025-09-10, despite host's stated attempts to obtain comment.",
+      "related_artifacts": [
+        "A-1261.1",
+        "A-1261.2",
+        "A-1261.3"
+      ],
+      "related_claims": [
+        "C-1461",
+        "C-1462",
+        "C-1486"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1260",
+      "ref": "N-1260",
+      "name": "TPUSA Succession Plan Disclosure Timeline",
+      "type": "investigation_target",
+      "description": "Investigable question: how Pastor Rob McCoy possessed knowledge of a TPUSA succession plan four days post-event, and the relationship between that disclosure and the implementation timeline.",
+      "related_artifacts": [
+        "A-1260.1"
+      ],
+      "related_claims": [
+        "C-1467"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-255"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1261",
+      "ref": "N-1261",
+      "name": "Josh Hammer Defamation Threat",
+      "type": "investigation_target",
+      "description": "Investigable matter: Josh Hammer's reported threat of defamation action against Candace Owens following her discussion of Charlie Kirk's Israel-related text messages.",
+      "related_artifacts": [
+        "A-1265.1",
+        "A-1267.1"
+      ],
+      "related_claims": [
+        "C-1476"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-262"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1461",
+      "ref": "C-1461",
+      "label": "Mikey McCoy Phone-to-Ear Timing Measured at 834 Milliseconds",
+      "claim": "Host's frame-by-frame analysis of event-day footage shows Mikey McCoy raising his phone to his ear approximately 834 milliseconds after the gunshot audio is heard.",
+      "anchored_artifacts": [
+        "A-1261.1"
+      ],
+      "related_nodes": [
+        "N-1257",
+        "N-1259",
+        "N-259",
+        "N-260"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:34–00:11:27",
+      "investigative_direction": "Obtain raw event-day footage with synchronized audio timestamps for independent verification of the 834ms figure; obtain Mikey McCoy's call log for 12:23 p.m. on 2025-09-10."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1462",
+      "ref": "C-1462",
+      "label": "Mikey McCoy On Phone ~1 Minute 45 Seconds Before Shot",
+      "claim": "Event-day footage shows Mikey McCoy on his phone approximately 1 minute 45 seconds before the gunshot.",
+      "anchored_artifacts": [
+        "A-1261.3"
+      ],
+      "related_nodes": [
+        "N-1257",
+        "N-1259"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:33",
+      "investigative_direction": "Cross-reference call log timestamps with footage timestamps to determine call duration and recipient."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1463",
+      "ref": "C-1463",
+      "label": "Mikey McCoy Still on Phone at Charlie's Waiting Car",
+      "claim": "Event-day footage shows Mikey McCoy in the background at Charlie Kirk's waiting car, still holding his phone.",
+      "anchored_artifacts": [
+        "A-1261.2"
+      ],
+      "related_nodes": [
+        "N-1257",
+        "N-1259"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:22",
+      "investigative_direction": "Verify timing continuity and identify any change in phone-use posture during the post-shot interval."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1464",
+      "ref": "C-1464",
+      "label": "Camera Operator Recorded Selfie Video Post-Shot",
+      "claim": "The unnamed camera operator recorded a selfie video within the first minute after the shooting.",
+      "anchored_artifacts": [
+        "A-1262.1"
+      ],
+      "related_nodes": [
+        "N-256",
+        "N-1258"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:44–00:25:51",
+      "investigative_direction": "Obtain original selfie video metadata (timestamp, device, file hash) and authenticate chain of custody."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1465",
+      "ref": "C-1465",
+      "label": "Camera Operator Announced Charlie Kirk Dead in Selfie Video",
+      "claim": "In the selfie video, the camera operator states \"He's dead.\"",
+      "anchored_artifacts": [
+        "A-1262.1"
+      ],
+      "related_nodes": [
+        "N-256",
+        "N-1258"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:44–00:25:51",
+      "investigative_direction": "Obtain video and assess whether any medical assessment could have supported such a declaration at that moment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1466",
+      "ref": "C-1466",
+      "label": "Camera Operator Sent Pre-Takedown Footage to Candace Owens",
+      "claim": "The camera operator sent Candace Owens a video showing his actions during the four minutes preceding camera takedown.",
+      "anchored_artifacts": [
+        "A-1262.2"
+      ],
+      "related_nodes": [
+        "N-256",
+        "N-1258"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:05",
+      "investigative_direction": "Obtain the original sent video and metadata to authenticate the four-minute pre-takedown window."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1467",
+      "ref": "C-1467",
+      "label": "Pastor Rob McCoy Announced TPUSA Succession Plan on 2025-09-14",
+      "claim": "Pastor Rob McCoy publicly stated, four days after Charlie Kirk's death, that Kirk had assembled a succession plan and that TPUSA was implementing it.",
+      "anchored_artifacts": [
+        "A-1260.1"
+      ],
+      "related_nodes": [
+        "N-1260",
+        "N-255"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:11",
+      "investigative_direction": "Identify the source of Pastor McCoy's information regarding the succession plan and the timeline of its formulation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1468",
+      "ref": "C-1468",
+      "label": "Charlie Kirk Texted Death-Prophecy Statements on 2018-04-06",
+      "claim": "Charlie Kirk texted Candace Owens on April 6, 2018 stating he \"might not see this whole thing through,\" that he was \"not sure if I will live to see the end of this revolution,\" and that he had dreamed about being \"wiped out\" since the beginning of TPUSA.",
+      "anchored_artifacts": [
+        "A-1266.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:38:21–00:39:19",
+      "investigative_direction": "Obtain authenticated message metadata (timestamps, device identifiers, original phone) and corroborate via independent device forensics."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1469",
+      "ref": "C-1469",
+      "label": "Charlie Kirk Identified Candace Owens as His \"David\"",
+      "claim": "Charlie Kirk texted that \"you were the piece that God meant me to meet that will finish the fight\" and \"be my David.\"",
+      "anchored_artifacts": [
+        "A-1266.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:38:21–00:39:19",
+      "investigative_direction": "Authenticate message metadata as for C-1468."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1470",
+      "ref": "C-1470",
+      "label": "Charlie Kirk Stated TPUSA Would Be the Death of Him",
+      "claim": "Host asserts Charlie Kirk told her that \"Turning Point was going to be the death of him\" and characterizes this as supported by the April 6, 2018 texts.",
+      "anchored_artifacts": [
+        "A-1266.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:38:21",
+      "investigative_direction": "Identify any direct verbatim text within A-1266.1 that matches the precise phrasing \"Turning Point was going to be the death of him.\""
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1471",
+      "ref": "C-1471",
+      "label": "Charlie Kirk Wrote About Jewish Donor Pressure on TPUSA",
+      "claim": "Trailer presents Charlie Kirk text messages stating \"Jewish donors play into all the stereotypes. I cannot and will not be bullied like this.\"",
+      "anchored_artifacts": [
+        "A-1265.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:34:49–00:35:33",
+      "investigative_direction": "Authenticate text message source and timestamp (referenced as having been shown in prior episode; verify against original)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1472",
+      "ref": "C-1472",
+      "label": "Charlie Kirk UVU Event Clip — Friendship Exchange",
+      "claim": "UVU event clip captures Charlie Kirk responding to a question about friendship with the line \"Find out\" regarding whether Kirk was the questioner's friend.",
+      "anchored_artifacts": [
+        "A-1264.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:42",
+      "investigative_direction": "Identify the date, venue, and full transcript of the UVU exchange."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1473",
+      "ref": "C-1473",
+      "label": "Candace Owens and Charlie Kirk Fished in British Columbia",
+      "claim": "Photo depicts Candace Owens and Charlie Kirk on a fishing trip in British Columbia; photographer described as Donald Trump Jr. or Cory Lundowski (\"Flash\").",
+      "anchored_artifacts": [
+        "A-1263.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:02",
+      "investigative_direction": "Confirm photograph date and photographer identity."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1474",
+      "ref": "C-1474",
+      "label": "Candace Owens Traveled to College Campuses with Charlie Kirk for Six Years",
+      "claim": "Host states she hit college campuses alongside Charlie Kirk for six years and that no other living person has spoken at more college campuses alongside him than she has.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:16:16–00:17:08",
+      "investigative_direction": "Cross-reference against TPUSA event records and tour itineraries to verify six-year span and event count."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1475",
+      "ref": "C-1475",
+      "label": "John Miller X Post Characterized Josh Hammer as \"the Good Guy\" Insincerely",
+      "claim": "John Miller posted: \"They really trying to make us believe this is the good guy. LMAO\"",
+      "anchored_artifacts": [
+        "A-1267.1"
+      ],
+      "related_nodes": [
+        "N-262"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:33",
+      "investigative_direction": "Locate original post URL and timestamp on X."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1476",
+      "ref": "C-1476",
+      "label": "Josh Hammer Threatened Defamation Action",
+      "claim": "Trailer references Josh Hammer stating he is \"talking to lawyers\" and believes there is \"a potentially serious case here for defamation.\"",
+      "anchored_artifacts": [
+        "A-1265.1"
+      ],
+      "related_nodes": [
+        "N-1261"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:49–00:35:33",
+      "investigative_direction": "Obtain any written cease-and-desist or formal litigation filing; verify Hammer's legal credentials and standing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1477",
+      "ref": "C-1477",
+      "label": "Camera Operator Brought into TPUSA by Tyler Bowyer",
+      "claim": "Host states the camera operator was brought into TPUSA by Tyler Bowyer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-256"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:56",
+      "investigative_direction": "Obtain TPUSA hiring/contract records for the unnamed AV company operator."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1478",
+      "ref": "C-1478",
+      "label": "Mikey McCoy Brought into TPUSA by Tyler Bowyer",
+      "claim": "Host states Mikey McCoy was brought into TPUSA by Tyler Bowyer.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:04:39",
+      "investigative_direction": "Verify via TPUSA organizational records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1479",
+      "ref": "C-1479",
+      "label": "Stacy Sheridan Brought into TPUSA by Tyler Bowyer",
+      "claim": "Host states Stacy Sheridan was brought into TPUSA by Tyler Bowyer to handle big-donor relations.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-264"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:39",
+      "investigative_direction": "Verify via TPUSA organizational records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1480",
+      "ref": "C-1480",
+      "label": "Charlie Kirk's Stated Final Words — Book Promotion",
+      "claim": "Host sarcastically attributes Kirk's last words as \"Buy my book. Buy Josh Hammer's book,\" referencing Hammer's same-day book promotion after Kirk's death.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:40",
+      "investigative_direction": "Obtain authoritative transcript of Kirk's on-stage remarks immediately prior to being shot."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1481",
+      "ref": "C-1481",
+      "label": "Frank Turk's Reaction Described as Normal Post-Shot Behavior",
+      "claim": "Host and Ian Carol characterize Frank Turk as the only person at the event who reacted normally — dropping to ground and crawling toward Kirk to assist.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-257",
+        "N-258"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:09–00:57:03",
+      "investigative_direction": "Locate video evidence corroborating Turk's specific movements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1482",
+      "ref": "C-1482",
+      "label": "Ian Carol Commented on Host's Return",
+      "claim": "Ian Carol commented: \"Fishing takes time. You got to set the bait. It's so good to have you back, Candace.\"",
+      "anchored_artifacts": [
+        "A-1269.1"
+      ],
+      "related_nodes": [
+        "N-258"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:43",
+      "investigative_direction": "Locate original comment thread."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1483",
+      "ref": "C-1483",
+      "label": "Tyler Robinson Court Appearance via Zoom Without Face Visibility",
+      "claim": "Joshua Steves commenter states Tyler Robinson appeared in court via Zoom \"without having to show his face.\"",
+      "anchored_artifacts": [
+        "A-1269.5"
+      ],
+      "related_nodes": [
+        "N-263"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:26",
+      "investigative_direction": "Obtain court appearance records and any media coverage of the Zoom appearance."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1484",
+      "ref": "C-1484",
+      "label": "Third-Party Viewer Perceived Camera Operator Reaction as Abnormal",
+      "claim": "David Foster commented he was \"more shook up seeing the footage than the camera guy seemed in a selfie video\" and that the camera operator \"wasn't even shaking.\"",
+      "anchored_artifacts": [
+        "A-1269.9"
+      ],
+      "related_nodes": [
+        "N-256",
+        "N-1258"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:09",
+      "investigative_direction": "Corroborate viewer characterization against any independent frame-by-frame review of A-1262.1."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1485",
+      "ref": "C-1485",
+      "label": "Andrew Kovett Did Not Respond to Comment Request",
+      "claim": "Host states she contacted both Mikey McCoy and Andrew Kovett for statement/comment and received no response.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-265"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:46–00:14:46",
+      "investigative_direction": "Obtain any written correspondence or call records from the outreach attempts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1486",
+      "ref": "C-1486",
+      "label": "Host Press Played Devil's Advocate for Mikey McCoy",
+      "claim": "Host states she instructed her team to play devil's advocate for Mikey McCoy and to propose any scenario explaining the 834ms timing; \"no one could win this game.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1259"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:22",
+      "investigative_direction": "Document the scenarios considered and rejected."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1487",
+      "ref": "C-1487",
+      "label": "Host discussed Zeb Boyin in witness / outreach context",
+      "claim": "Host discusses Zeb Boyin in connection with witness outreach (register anchor).",
+      "anchored_artifacts": [
+        "A-1261.1"
+      ],
+      "related_nodes": [
+        "N-261"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:00–00:46:00",
+      "investigative_direction": "Cross-reference name spelling against prior episodes and public records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1488",
+      "ref": "C-1488",
+      "label": "Host referenced Scott Adams video on Kanye tweet (verbal reference)",
+      "claim": "Host states she will dig up a Scott Adams video about Kanye West's tweet ripping a hole through the universe.",
+      "anchored_artifacts": [
+        "A-1261.1"
+      ],
+      "related_nodes": [
+        "N-266"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:00–00:51:00",
+      "investigative_direction": "Locate the referenced Scott Adams video and timestamp the host mention."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1489",
+      "ref": "C-1489",
+      "label": "Host discussed Ryan Mata in comment / outreach thread",
+      "claim": "Host discusses Ryan Mata in episode comment-thread context (register anchor).",
+      "anchored_artifacts": [
+        "A-1261.1"
+      ],
+      "related_nodes": [
+        "N-267"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:00–00:53:00",
+      "investigative_direction": "Identify primary artifact anchor if a dedicated clip exists in a later pass."
+    }
+  ],
+  "memes": []
+}
