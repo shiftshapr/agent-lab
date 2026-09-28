@@ -3,19 +3,15 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 15,
-    "series": "Candace Kirk Archive",
+    "series": "Bride of Charlie",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–01:04:08",
+    "video_timestamp_range": "00:00:00–00:56:29",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "14c11439032e81a25e74d91998c83b50979ce02179e672eb07f6b90c40842dc8",
-    "analysis_date": "2026-09-27",
-    "monument": "cka",
-    "youtube_id": "ozWJz2spBcI",
-    "candace_ep_number": 248,
-    "kind": "numbered_show"
+    "transcript_sha256": "85c009a9696e6d09206abec6ccb733f9bd4c300b70a081ff0aa259cf4d192e45",
+    "analysis_date": "2026-09-27"
   },
   "executive_summary": "This episode advances the Bride of Charlie investigation by focusing on Turning Point USA's (TPUSA) defensive public posture following the Charlie Kirk assassination. The host introduces six discrete evidentiary families: Tyler Bowyer's (COO, TP Action) X/Twitter responses defending SD card handling, audit history, and campus footage release; Andrew Kolvet's Tucker Carlson interview explaining the SD card removal; the September 18, 2025 Wall Street Journal profile of Alex Clark; Rob McCoy's (TPUSA Faith Division) Instagram post responding to the Hampton's meeting reveal; a purported group chat dated 2 days before the assassination, on which Candace identifies Charlie Kirk, Rob McCoy, and Josh Hammer as participants; and an unnamed pastor's September 21, 2025 sermon attacking Candace and Nick Fuentes.\n\nThe episode raises two primary investigative questions: (1) whether the official SD card removal explanation is internally consistent (Kolvet's theft-prevention account vs. Bowyer's law-enforcement-instruction account vs. the host's undisclosed-source account), and (2) the verifiable content of the pre-assassination group chat including Charlie Kirk's stated intention to leave the pro-Israel cause. The structural importance is the introduction of conflicting artifact-anchored accounts of post-assassidence camera handling — a discrepancy ripe for cross-referencing with FBI/DoJ record releases.\n\nThe episode also reasserts prior narrative threads (Charlie Kirk's Catholic trajectory, Hampton's meeting, the DoJ department memo) without displaying new artifacts for them; these are flagged as cross-episode references.\n\n---",
   "artifacts": [
@@ -306,50 +302,6 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-1",
-      "ref": "N-1",
-      "name": "Charlie Kirk",
-      "type": "person",
-      "description": "Decedent; central biographical and evidentiary subject. Reused from prior episodes; spelling preserved as \"Charlie Kirk\" per ledger.",
-      "related_artifacts": [
-        "A-1225.1",
-        "A-1225.2"
-      ],
-      "related_claims": [
-        "C-1375",
-        "C-1376"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-1229",
-        "N-1230"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "N-2",
-      "ref": "N-2",
-      "name": "Erika Kirk",
-      "type": "person",
-      "description": "Name spelling in this episode is \"Erika\" (prior episodes may inscribe as \"Erica\"). Flag preserved per protocol. Subject of multiple SD-card-removal and faith-trajectory references.",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": [
-        "N-1228",
-        "N-1230"
-      ]
-    },
-    {
-      "@type": "Person",
       "@id": "N-210",
       "ref": "N-210",
       "name": "Andrew Kolvet",
@@ -556,6 +508,38 @@
       "related_nodes": [
         "N-85"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Deceased founder of Turning Point USA; subject of financial concerns expressed one week before his death; subject of the assassination investigation.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Widow of Charlie Kirk, discussed in episode as new CEO/chairman of TPUSA. Host defends her against public criticism of fundraising emails.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     },
     {
       "@type": "Person",

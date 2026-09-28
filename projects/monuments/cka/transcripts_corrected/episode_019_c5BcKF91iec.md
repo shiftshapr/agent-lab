@@ -11,7 +11,6 @@ url: https://www.youtube.com/watch?v=c5BcKF91iec
 caption_source: yt-dlp-manual
 source: YouTube captions, cleaned with video context
 ---
-
 # Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252
 
 Monument Ep 19 · Batch 9 · Candace Owens · 2025-10-27 · 58:50
@@ -158,15 +157,11 @@ We're not just going to keep on going and jump into a succession plan. We're goi
 
 [29:41]
 
-Their meat is aged to perfection for 21 days, and then it's shipped directly from their ranch to your home. This is not your average black Angus beef. This is more flavorful and more tender than even the best Angus beef I've ever tasted. Right now, when you head over to riverbendranch. com and use promo code candace at checkout, you'll get $20 off your first order. Trust me, you're going to be very impressed. So, visit riverbendranch. com and use promo code candace at checkout. Also want to tell you guys about Comet AI browser because how much time are you spending every day on the web? How much time do you spend clicking around while you're on the web, searching, scrolling, typing? There's endless tabs. It's definitely a lot. Well, the good news is that there is a new AI web browser from Perplexity which is called Comet and it is completely changing the way that we are able to interact with our browsers.
-
 [30:27]
 
 Using Comet feels like having a personal assistant that kind of lives in your computer that can actually do things for you across the web. Literally do things not just giving you answers like you can ask Comet to uh type to click to search to scroll. Could even help you plan your weekn night dinners. It could uh just a couple of taps get a personalized meal plan for you based on your family's preferences. Comet orders the groceries for me and it gets them delivered right to my door. Comet can shop for you, make reservations, book travel, summarize articles or videos, send emails, schedule meetings, and a lot more to make your life easier. So go and take back your time online, download Perplexity's new web browser called Comet, and let it work for you, not the other way around. Check it out at pplx. ai/candis.
 
 [31:10]
-
-That's pplx. ai/candis. And you guys already know the biggest health secret that's not being talked about is that everything begins in your gut. Every day your gut is fighting a silent war against processed foods, work stress, toxins in the air that we breathe. When your gut is in trouble, then your whole body starts to feel it. Most probiotics do not work. That's the truth. 99% of the traditional brands die in your stomach acid before they even reach your gut. That's what makes Just Thrive sporebased probiotic completely different. Just Thrive is the only probiotic that is clinically proven to arrive 100% alive in your gut, which means it does something that no other probiotic can. It turns your gut into an antioxidant factory, creating protective compounds exactly where you need them most. That means better digestion, healthy immunity, more energy, easy weight management. You can take Just Thrive probiotic in the form of a capsule or berry flavored gummy. From their award-winning probiotic to their full line of gut immune and brain health supplements, Just Thrive has been fighting to make Americans healthy again with sciencebacked solutions that you can trust. So to join the gut health revolution and take control of your health today, visit justthrivehealth. com and you'll save 20% with promo code Candace. You'll see the difference for yourself or you'll get a full product refund, no questions asked. Take control today with just thrive. Again, that's just thrivehealth. com with promo code.
 
 ## My texts with Charlie and what he knew about his future.
 
@@ -224,15 +219,9 @@ And we are going to see this thing out. And like I said, there will be justice. 
 
 [45:31]
 
-If you wake up with a sore throat or you have a runny nose, you can address those symptoms right away with a doctor prescribed kit that contains ivormectin, hydroxychloricquin, uh generic tamlu, generic Zpack, much more. It's like having an urgent care clinic in your home. I have a contagion emergency kit from the wellness company because I refuse to be trapped in line at an emergency room or to rely on expensive insurance if I catch a cold. I simply open the kit, reference a doctor written guide book for safe use and get back to life. This kit is literally a lifesaver with thousands of reviews from people just like you and me who had their kit ready in a time of need. So go to twwc. health/candace today and use code candace at checkout and you'll save $48. Get it now before cold and flu season kicks into high gear. That's twwc. healthcandis.
-
 [46:17]
 
-Use code candace and you'll get $48 off kits available to US residents only. Also want to remind you guys about American financing because the cost of everything is still out of control. Many of us are relying on credit cards to cover the essentials. If that debt is piling up for you, you should know that you're obviously not alone. Americans collectively owe over $1 trillion in credit card debt. You might be considering reaching out to my friends in American Financing, but you maybe stopped yourself because you didn't want to give up that low mortgage rate that you're enjoying. Well, but here's the good news. They've now created the Smart Equity Loan, which is a solution that's designed to help you take control of your finances without touching your current mortgage. Unlike a HELOC, which can have varied interest rates, the Smart Equity Loan offers a fixed rate.
-
 [46:57]
-
-That means one predictable monthly payment, giving you peace of mind. This loan allows you to leverage the equity that's in your home to pay off high interest debt, free up your cash flow, and keep your existing low mortgage rate intact. And it only takes 10 minutes to get started. There's no upfront or hidden fees. So, call American Financing today and start saving now. The number is 8007951210. Again, that's 8007951210. Or you can visit americanfancing. net/owens. And of course, I want to tell you guys about Nimi Skincare. You know, I love them. For years, the beauty industry kind of convinced us that we need complex formulas to achieve healthy skin. But the secret to healthy skin is actually a lot simpler. That's why I was very interested when I found Nimi Skincare. Nimi is doing something radical. They built one of the most popular lines around one of the most nutrientrich bioavailable ingredients on Earth, which is grass-fed beef tallow.
 
 [47:47]
 
@@ -245,8 +234,6 @@ It locks in moisture. It shields your skin from the elements and allows it to he
 ## Comments.
 
 [48:58]
-
-Well, I'm hearing that Ian Carol is in the chat. Ian Carol, thank you. It should not be you and James Lee and Ryan Mata, who I didn't even know before this who is not letting this go going day in and day. You guys didn't even know Charlie Kirk. It shouldn't be you. It shouldn't be you guys. It shouldn't be Zeb Boyin doing ballistics. It I'm I'm missing the name. We'll get to that later this week of the guy who went over the Google searches. It should not be all of these people, but I'm glad it is. I think um the decentralization of it all is actually what makes this so powerful. Um letting you guys know by the way getting to uh some a couple of things. We did run out of the new Tumblr uh but we restocked it. So we don't no know but we know we have that uh back up in stock. We just added that today. And finally for those of you guys who pre-order the book Make Him a Sandwich is out. Why Real Women Don't Need Fake Feminism. It is so amazing to hold this book. Also, I want to tell you the they said, you know, you're supposed to go out when you do a book and ask people to write something nice about you, like Candace is amazing and I love her da da Ian Carol or something. And I just thought it would be so much more fun to go on the internet and to look at all the comments that have been said by famous people about me. So, we've got Cardi B who wrote a review. She said, "I honestly feel sorry for you." That's just a review of my character over the years. Uh, Candace Owens is a fraud from Lance Bass. Ireland Baldwin wrote, "The most disgusting, hateful, cancerous human being I've ever come across." And that's amazing considering Alec Baldwin is her father. Roseanne Bar wrote, "Monster. If I see this [ __ ] I'll knock her the f out." Keeping it classy.
 
 [50:32]
 

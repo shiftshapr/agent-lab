@@ -3,21 +3,17 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 18,
-    "series": "Candace Kirk Archive",
+    "series": "Bride of Charlie",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–01:06:28",
+    "video_timestamp_range": "00:00:00–00:56:29",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "6241b54a7915db7abb4c0bc68027046be07e04460fb2c475b8c12ef1fd182658",
-    "analysis_date": "2026-09-27",
-    "monument": "cka",
-    "youtube_id": "pc3pxRyNFZk",
-    "candace_ep_number": 251,
-    "kind": "numbered_show"
+    "transcript_sha256": "981eded19a8e9c778e179bd351be0fdb2fc90685371d2c9f8d34c238ce5cc8ce",
+    "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode advances the medical and evidentiary thread of the investigation by introducing what the host describes as multi-source verified intelligence about the trajectory of the bullet recovered from Charlie Kirk. The host reads aloud an Andrew Kolbatz tweet purporting to convey a surgeon's account of the bullet path, then asserts — as a fact-checked finding — that Charlie was shot from the front, that the bullet did not exit, and that no .30-06 projectile was logged on the death certificate.\n\nA second investigative strand focuses on the on-the-ground witnesses: the viral clip of a witness being physically prevented from speaking, Fox News interviews with event volunteer Cooper Brown (affiliated with the Leadership Institute), and Jason Chaffetz's eyewitness statement locating the shot close and ahead of Charlie. The host additionally raises questions about Caldera Engineering's staffing and corporate history.\n\nA third strand concerns flight activity on the day of the shooting: a military tail-numbered plane (N1098L) allegedly contracted by Las Vegas Aviation LLC, and a second plane associated with Derek Maxwell whose ADSB transponder status is contested between Kash Patel and Derek Maxwell's public statements. The episode closes with a Josh Hammer text-message exchange and commentary on the Israel/Hamas peace announcement.\n\nThe episode is structurally important as the first episode in the series to present the front-shot / no .30-06 finding as a \"verified\" assertion, and to introduce the dual-plane line of inquiry.\n\n---",
+  "executive_summary": "",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -31,8 +27,8 @@
           "ref": "A-1251.1",
           "description": "Andrew Kolbatz tweet (read aloud) describing a surgeon who worked on Charlie stating the bullet should have exited and characterizing Charlie's bone density as \"man of steel\"",
           "related_claims": [
-            "C-1427",
-            "C-1428"
+            "C-1428",
+            "C-1429"
           ],
           "related_nodes": [
             "N-246",
@@ -59,8 +55,8 @@
           "ref": "A-1252.1",
           "description": "Viral video clip showing a witness being physically pushed/shoved and prevented from speaking immediately after the shooting",
           "related_claims": [
-            "C-1429",
-            "C-1430"
+            "C-1430",
+            "C-1431"
           ],
           "related_nodes": [
             "N-247",
@@ -101,12 +97,12 @@
           "ref": "A-1253.2",
           "description": "Cooper Brown follow-up interview on Fox News the next day, describing 30 student volunteers and his microphone duties",
           "related_claims": [
-            "C-1431",
             "C-1432",
             "C-1433",
             "C-1434",
             "C-1435",
-            "C-1436"
+            "C-1436",
+            "C-1437"
           ],
           "related_nodes": [
             "N-247",
@@ -134,7 +130,7 @@
           "ref": "A-1254.1",
           "description": "Jason Chaffetz on Fox News describing the shot as appearing \"in close proximity straight ahead\" and rebutting the far-building theory",
           "related_claims": [
-            "C-1437"
+            "C-1438"
           ],
           "related_nodes": [
             "N-248",
@@ -162,7 +158,7 @@
           "ref": "A-1255.1",
           "description": "Phil Lyman footage showing two women outside the building stating they heard two shots",
           "related_claims": [
-            "C-1438"
+            "C-1439"
           ],
           "related_nodes": [
             "N-1247"
@@ -188,8 +184,8 @@
           "ref": "A-1256.1",
           "description": "Josh Hammer publicly released text exchange between himself and Charlie Kirk: \"Charlie Kirk, thank you for your help guys. A totally standard response…\" plus Hammer's reply asking about his \"first stop tomorrow\"",
           "related_claims": [
-            "C-1454",
-            "C-1455"
+            "C-1455",
+            "C-1456"
           ],
           "related_nodes": [
             "N-42"
@@ -215,7 +211,7 @@
           "ref": "A-1257.1",
           "description": "Trump Truth Social post announcing \"Israel and Hamas have both signed off on the first phase of our peace plan,\" with hostage release and troop withdrawal language",
           "related_claims": [
-            "C-1456"
+            "C-1457"
           ],
           "related_nodes": [],
           "tags": [],
@@ -239,7 +235,7 @@
           "ref": "A-1258.1",
           "description": "Jared Kushner speaking at Harvard (Feb 15, 2024) describing Gaza as \"waterfront property\" and stating he would \"move the people out and then clean it up\"",
           "related_claims": [
-            "C-1457"
+            "C-1458"
           ],
           "related_nodes": [
             "N-254"
@@ -265,7 +261,7 @@
           "ref": "A-1259.1",
           "description": "Matt Walsh commenting on Charlie Kirk's \"I have no choice but to leave the pro-Israel cause\" text message, calling it \"too on the nose\" and urging self-reflection by pro-Israel advocates",
           "related_claims": [
-            "C-1458"
+            "C-1459"
           ],
           "related_nodes": [],
           "tags": [],
@@ -290,9 +286,9 @@
         "A-1251.1"
       ],
       "related_claims": [
-        "C-1427",
         "C-1428",
-        "C-1459"
+        "C-1429",
+        "C-1460"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -316,14 +312,14 @@
         "A-1253.2"
       ],
       "related_claims": [
-        "C-1429",
         "C-1430",
         "C-1431",
         "C-1432",
         "C-1433",
         "C-1434",
         "C-1435",
-        "C-1436"
+        "C-1436",
+        "C-1437"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -346,7 +342,7 @@
         "A-1254.1"
       ],
       "related_claims": [
-        "C-1437"
+        "C-1438"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -367,7 +363,7 @@
       "description": "Utah State Medical Examiner as of May 2024, per host's research; reportedly from Missouri with prior California work.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1439"
+        "C-1440"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -387,8 +383,8 @@
       "description": "Public figure (per host) who publicly addressed the second plane's ADSB transponder status, disputing Kash Patel's account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1451",
-        "C-1452"
+        "C-1452",
+        "C-1453"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -410,7 +406,7 @@
         "A-1259.1"
       ],
       "related_claims": [
-        "C-1458"
+        "C-1459"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -427,7 +423,7 @@
       "description": "Referenced as Derek Maxwell's wife and as having co-run a beauty company later sold.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1447"
+        "C-1448"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -449,7 +445,7 @@
         "A-1258.1"
       ],
       "related_claims": [
-        "C-1457"
+        "C-1458"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -469,9 +465,9 @@
         "A-1254.1"
       ],
       "related_claims": [
-        "C-1424",
         "C-1425",
-        "C-1426"
+        "C-1426",
+        "C-1427"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -495,8 +491,8 @@
         "A-1255.1"
       ],
       "related_claims": [
-        "C-1437",
         "C-1438",
+        "C-1439",
         "C-1460"
       ],
       "tags": [],
@@ -521,11 +517,11 @@
         "A-1253.2"
       ],
       "related_claims": [
-        "C-1429",
         "C-1430",
         "C-1431",
-        "C-1435",
-        "C-1436"
+        "C-1432",
+        "C-1436",
+        "C-1437"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -546,7 +542,7 @@
       "description": "Persistent target: full background, prior work history, and case-handling record of the Utah state medical examiner.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1439"
+        "C-1440"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -566,10 +562,10 @@
       "description": "Persistent target: founders, employees, Israel project history, and connections to other named figures in the series.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1440",
         "C-1441",
         "C-1442",
-        "C-1443"
+        "C-1443",
+        "C-1444"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -586,9 +582,9 @@
       "description": "Persistent target: chain of custody, contracting entity, and purpose of military tail-numbered aircraft seen near Utah on 9/10.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1444",
         "C-1445",
-        "C-1446"
+        "C-1446",
+        "C-1447"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -608,13 +604,13 @@
       "description": "Persistent target: ADSB transponder status, FBO destination change, and conflicting accounts from Kash Patel and Derek Maxwell.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1447",
         "C-1448",
         "C-1449",
         "C-1450",
         "C-1451",
         "C-1452",
-        "C-1453"
+        "C-1453",
+        "C-1454"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -637,8 +633,8 @@
         "A-1256.1"
       ],
       "related_claims": [
-        "C-1454",
-        "C-1455"
+        "C-1455",
+        "C-1456"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -661,7 +657,7 @@
         "A-1253.1"
       ],
       "related_claims": [
-        "C-1431"
+        "C-1432"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -681,7 +677,7 @@
       "description": "Company identified by host as the owner/contractor of plane N1098L.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1445"
+        "C-1446"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -701,8 +697,8 @@
       "description": "Two fixed-base operators referenced in connection with plane 888's last-minute destination change and contradicting employee statements.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1452",
-        "C-1453"
+        "C-1453",
+        "C-1454"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -733,8 +729,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1424",
-      "ref": "C-1424",
+      "@id": "C-1425",
+      "ref": "C-1425",
       "label": "Front Shot, No Exit",
       "claim": "Charlie Kirk was shot from the front, and the bullet did not exit his neck, as verified by the host from multiple sources.",
       "anchored_artifacts": [
@@ -750,8 +746,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1425",
-      "ref": "C-1425",
+      "@id": "C-1426",
+      "ref": "C-1426",
       "label": "Fragment Location Near Shoulder Blade",
       "claim": "A bullet fragment was recovered from Charlie's neck, in line with the shoulder blade near the spine.",
       "anchored_artifacts": [
@@ -767,8 +763,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1426",
-      "ref": "C-1426",
+      "@id": "C-1427",
+      "ref": "C-1427",
       "label": "No .30-06 Projectile on Death Certificate",
       "claim": "Charlie Kirk's death certificate does not reflect a recovered .30-06 bullet, indicating that caliber was not recovered from his body.",
       "anchored_artifacts": [
@@ -784,8 +780,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1427",
-      "ref": "C-1427",
+      "@id": "C-1428",
+      "ref": "C-1428",
       "label": "Kolbatz Tweet Substance",
       "claim": "Andrew Kolbatz posted a tweet claiming to relay a conversation with the surgeon who worked on Charlie, describing the bullet as having been stopped by Charlie's bone density.",
       "anchored_artifacts": [
@@ -801,8 +797,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1428",
-      "ref": "C-1428",
+      "@id": "C-1429",
+      "ref": "C-1429",
       "label": "Surgeon Quoted on Bullet Stopped",
       "claim": "Per Kolbatz's account, the surgeon stated the bullet should have exited, that people behind Charlie could have been killed, and characterized the outcome as \"an absolute miracle.\"",
       "anchored_artifacts": [
@@ -818,8 +814,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1429",
-      "ref": "C-1429",
+      "@id": "C-1430",
+      "ref": "C-1430",
       "label": "Viral Clip Witness Account",
       "claim": "A witness in the viral clip stated he was in the third row, heard a shot ring out, looked left and right, and saw Charlie slump with blood coming from the left side of his neck.",
       "anchored_artifacts": [
@@ -835,8 +831,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1430",
-      "ref": "C-1430",
+      "@id": "C-1431",
+      "ref": "C-1431",
       "label": "Pusher Not TPUSA or UVU Affiliated",
       "claim": "The man who physically pushed/shoved the witness in the viral clip was not a Turning Point USA employee, UVU student, or TPUSA student, but a volunteer.",
       "anchored_artifacts": [
@@ -853,8 +849,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1431",
-      "ref": "C-1431",
+      "@id": "C-1432",
+      "ref": "C-1432",
       "label": "Cooper Brown Leadership Institute Affiliation",
       "claim": "Cooper Brown stated on Fox News that he works for the Leadership Institute, which partners with TPUSA, Young Americans for Liberty, and Students for Life on college campuses.",
       "anchored_artifacts": [
@@ -871,8 +867,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1432",
-      "ref": "C-1432",
+      "@id": "C-1433",
+      "ref": "C-1433",
       "label": "Cooper Brown Fox News Night-Of Interview",
       "claim": "Cooper Brown appeared on Jesse Watters' Fox News program the night of the shooting.",
       "anchored_artifacts": [
@@ -888,8 +884,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1433",
-      "ref": "C-1433",
+      "@id": "C-1434",
+      "ref": "C-1434",
       "label": "Cooper Brown Fox News Next-Day Interview",
       "claim": "Cooper Brown appeared on Fox News again the day after the shooting.",
       "anchored_artifacts": [
@@ -905,8 +901,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1434",
-      "ref": "C-1434",
+      "@id": "C-1435",
+      "ref": "C-1435",
       "label": "Cooper Brown Microphone Role",
       "claim": "Cooper Brown stated his event responsibility was managing the microphone — raising and lowering it for student questioners.",
       "anchored_artifacts": [
@@ -922,8 +918,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1435",
-      "ref": "C-1435",
+      "@id": "C-1436",
+      "ref": "C-1436",
       "label": "Cooper Brown Resume — Southern New Hampshire University",
       "claim": "Cooper Brown's public resume lists attendance at a small college in New Hampshire (per host: Southern New Hampshire University) with a politics major.",
       "anchored_artifacts": [
@@ -939,8 +935,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1436",
-      "ref": "C-1436",
+      "@id": "C-1437",
+      "ref": "C-1437",
       "label": "Same-Name SNHU Graduate Discrepancy",
       "claim": "A same-name person at the named New Hampshire college graduated in the year Cooper Brown claims, but is female and 32 years old, raising identity-verification concerns.",
       "anchored_artifacts": [
@@ -956,8 +952,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1437",
-      "ref": "C-1437",
+      "@id": "C-1438",
+      "ref": "C-1438",
       "label": "Jason Chaffetz Eyewitness — Close, Ahead",
       "claim": "Jason Chaffetz stated on Fox News that, being within proximity of the venue, the shot appeared to be \"in close proximity straight ahead.\"",
       "anchored_artifacts": [
@@ -974,8 +970,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1438",
-      "ref": "C-1438",
+      "@id": "C-1439",
+      "ref": "C-1439",
       "label": "Two-Shot Witness Account — Lyman Footage",
       "claim": "Two women shown in Phil Lyman's footage of the building exterior stated they heard two shots.",
       "anchored_artifacts": [
@@ -990,8 +986,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1439",
-      "ref": "C-1439",
+      "@id": "C-1440",
+      "ref": "C-1440",
       "label": "Dr. Deidra Weiss Amaro Appointment",
       "claim": "Dr. Deidra Weiss Amaro was announced as the new Utah State Medical Examiner in May 2024, with prior work history in Missouri (and California).",
       "anchored_artifacts": [],
@@ -1005,8 +1001,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1440",
-      "ref": "C-1440",
+      "@id": "C-1441",
+      "ref": "C-1441",
       "label": "Israeli Individual Listed as Caldera Founder",
       "claim": "A web listing identified an Israeli individual as the founder of Caldera Engineering, though host states this could not be independently corroborated.",
       "anchored_artifacts": [],
@@ -1019,8 +1015,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1441",
-      "ref": "C-1441",
+      "@id": "C-1442",
+      "ref": "C-1442",
       "label": "Caldera Engineering Established 1997",
       "claim": "Caldera Engineering was established in 1997.",
       "anchored_artifacts": [],
@@ -1033,8 +1029,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1442",
-      "ref": "C-1442",
+      "@id": "C-1443",
+      "ref": "C-1443",
       "label": "Caldera Engineering Actor-Employee",
       "claim": "A person employed at Caldera Engineering has a professional acting background (theater school, plays), with no engineering background before the resume listing.",
       "anchored_artifacts": [],
@@ -1047,8 +1043,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1443",
-      "ref": "C-1443",
+      "@id": "C-1444",
+      "ref": "C-1444",
       "label": "Caldera Early Trademark Lawyer — Tyler Bowyer Connection",
       "claim": "The lawyer Caldera Engineering used in its early trademark filings in Arizona was the same lawyer introduced to the host by Tyler Bowyer of Turning Point USA.",
       "anchored_artifacts": [],
@@ -1061,8 +1057,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1444",
-      "ref": "C-1444",
+      "@id": "C-1445",
+      "ref": "C-1445",
       "label": "Plane N1098L — Military Aircraft",
       "claim": "A plane with tail number N1098L, seen near Utah on 9/10, was a military aircraft.",
       "anchored_artifacts": [],
@@ -1075,8 +1071,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1445",
-      "ref": "C-1445",
+      "@id": "C-1446",
+      "ref": "C-1446",
       "label": "Plane N1098L — Las Vegas Aviation LLC",
       "claim": "Plane N1098L was owned/contracted by Las Vegas Aviation LLC.",
       "anchored_artifacts": [],
@@ -1090,8 +1086,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1446",
-      "ref": "C-1446",
+      "@id": "C-1447",
+      "ref": "C-1447",
       "label": "Plane N1098L — Texas to Utah Routing",
       "claim": "Plane N1098L departed Texas and routed to Utah around the time of the shooting.",
       "anchored_artifacts": [],
@@ -1104,8 +1100,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1447",
-      "ref": "C-1447",
+      "@id": "C-1448",
+      "ref": "C-1448",
       "label": "Plane 888 — Maxwell Affiliation",
       "claim": "A second plane (with \"888\" in identification per host) is associated with Derek Maxwell, who the host identifies as Ghislaine Maxwell's husband and as having sold a beauty company.",
       "anchored_artifacts": [],
@@ -1120,8 +1116,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1448",
-      "ref": "C-1448",
+      "@id": "C-1449",
+      "ref": "C-1449",
       "label": "Plane 888 — Page, Arizona Destination",
       "claim": "Plane 888's intended destination was Page, Arizona.",
       "anchored_artifacts": [],
@@ -1134,8 +1130,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1449",
-      "ref": "C-1449",
+      "@id": "C-1450",
+      "ref": "C-1450",
       "label": "Plane 888 — ADSB Transponder Turned Off",
       "claim": "The ADSB transponder on plane 888 appeared to turn off during the flight.",
       "anchored_artifacts": [],
@@ -1148,8 +1144,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1450",
-      "ref": "C-1450",
+      "@id": "C-1451",
+      "ref": "C-1451",
       "label": "Kash Patel — Plane Never Stopped Transponding",
       "claim": "Kash Patel publicly stated that plane 888 never stopped transponding.",
       "anchored_artifacts": [],
@@ -1162,8 +1158,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1451",
-      "ref": "C-1451",
+      "@id": "C-1452",
+      "ref": "C-1452",
       "label": "Derek Maxwell — ATC Approval to Stop Transponding",
       "claim": "Derek Maxwell publicly stated on Instagram that the air traffic control center had agreed they could stop transponding.",
       "anchored_artifacts": [],
@@ -1177,8 +1173,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1452",
-      "ref": "C-1452",
+      "@id": "C-1453",
+      "ref": "C-1453",
       "label": "Plane 888 — FBO Change Millionaire to Signature",
       "claim": "Plane 888 changed its FBO destination at the last minute, from Millionaire to Signature.",
       "anchored_artifacts": [],
@@ -1192,8 +1188,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1453",
-      "ref": "C-1453",
+      "@id": "C-1454",
+      "ref": "C-1454",
       "label": "Signature FBO Contradicting Statements",
       "claim": "A person at the Signature FBO initially confirmed that the plane had made multiple trips in recent days, then reversed to state no plane had ever landed there.",
       "anchored_artifacts": [],
@@ -1207,8 +1203,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1454",
-      "ref": "C-1454",
+      "@id": "C-1455",
+      "ref": "C-1455",
       "label": "Josh Hammer Released Text Messages",
       "claim": "Josh Hammer publicly released text messages between himself and Charlie Kirk following the prior episode's coverage.",
       "anchored_artifacts": [
@@ -1224,8 +1220,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1455",
-      "ref": "C-1455",
+      "@id": "C-1456",
+      "ref": "C-1456",
       "label": "Text Message Content — Standard Exchange",
       "claim": "The released texts include a \"thank you for your help guys\" message (attributed to Charlie Kirk) and Josh Hammer's reply asking what Charlie's \"first stop tomorrow\" was.",
       "anchored_artifacts": [
@@ -1241,8 +1237,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1456",
-      "ref": "C-1456",
+      "@id": "C-1457",
+      "ref": "C-1457",
       "label": "Trump Truth Social — Israel/Hamas Phase One Announcement",
       "claim": "Donald Trump posted on Truth Social announcing that Israel and Hamas had signed off on the first phase of a peace plan, including hostage release and partial troop withdrawal.",
       "anchored_artifacts": [
@@ -1255,8 +1251,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1457",
-      "ref": "C-1457",
+      "@id": "C-1458",
+      "ref": "C-1458",
       "label": "Jared Kushner Harvard Speech — Gaza \"Waterfront Property\"",
       "claim": "At a Harvard appearance on February 15, 2024, Jared Kushner referred to Gaza as \"waterfront property\" and stated he would \"move the people out and then clean it up.\"",
       "anchored_artifacts": [
@@ -1271,8 +1267,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1458",
-      "ref": "C-1458",
+      "@id": "C-1459",
+      "ref": "C-1459",
       "label": "Matt Walsh — \"Too on the Nose\" Comment",
       "claim": "Matt Walsh commented that Charlie Kirk's text about leaving the pro-Israel cause felt \"too on the nose\" to be authentic, suggesting Charlie had been pushed to that statement.",
       "anchored_artifacts": [
@@ -1288,8 +1284,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1459",
-      "ref": "C-1459",
+      "@id": "C-1460",
+      "ref": "C-1460",
       "label": "Kolbatz Not in Viral Push Video",
       "claim": "Andrew Kolbatz was not the man in the viral push video; he flew into Utah after the shooting and was not on the ground.",
       "anchored_artifacts": [

@@ -9,17 +9,11 @@
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 201ecce730e56147cb6bda76ffadacafaf86a78089f038331e174115ef84d52a
+- **Transcript SHA-256**: abf411b35a1c49c8915e52ea39f1d73231f7b5aadc58d672dbdeebbe68b7d8d3
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-183, N-184, N-185, N-186, N-187, N-188, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217
   - Reused Nodes Appearing: 
-
-This episode centers on Phil Lyman's involvement in the Charlie Kirk assassination investigation and the identification of two foreign nationals seen alongside Shainer Broderick retracing the killer's path. Audio clips from Phil Lyman on Alex Jones and NewsNation are presented in full and shown to conflict with each other regarding his location at the moment of the shot; a video Phil himself sent to the host, with a 12:23 metadata timestamp, depicts him calmly walking out of the Sorenson building, contradicting his "outside" account. The host identifies one of Broderick's companions as **Gernot Omer**, an Austrian national who relocated to Utah in May 2024 to work as a software engineer for JP Morgan Chase, matching a face from a BearingPoint Graz office video and a German-language "Anniversary Hike" blog. A Belfast, Northern Ireland viewer independently matched the second companion's face to a person on the Provo gothic-underground website "Buzzard and Bees."
-
-The episode advances pre-event protocol questions, presenting a Daily Mail article on Kash Patel firing the Utah FBI chief and other personnel prior to the shooting (replaced by Robert Bowles) and a November 1999 article describing Detective Mike Mitchell's undercover work posing as minors online. The closing segment issues an unsourced public challenge to Turning Point USA to deny that, 48 hours before his death, Charlie Kirk told TPUSA staff, Jewish donors, and a rabbi he was abandoning the pro-Israel cause. The episode's structural importance is its escalation from circumstantial observation to named-foreign-suspect identification and direct institutional challenge.
-
----
 
 ## 3. Artifact Register
 

@@ -11,7 +11,6 @@ url: https://www.youtube.com/watch?v=adJ4LNGp84I
 caption_source: yt-dlp-manual
 source: YouTube captions, cleaned with video context
 ---
-
 # BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246
 
 Monument Ep 13 · Batch 3 · Candace Owens · 2025-10-01 · 51:29
@@ -122,8 +121,6 @@ Because they sell precious metals like gold and silver, and they do an amazing j
 
 [25:18]
 
-Paleo Valley works with your lifestyle. won't work against it. They come in multiple bold flavors, including original jalapeno, summer sausage, maple bacon, and teriyak. So, there's something for everyone. With over 55 million beef sticks sold, Paleo Valley is trusted, proven, and backed by a 60-day money back guarantee. Right now, get 20% off your first order at paleo valley. com/candis with code candace at checkout. That's paleo valley. com/candis. Use promo code candace at checkout.
-
 ## Netanyahu meets with influencers on how to control social media.
 
 [25:47]
@@ -182,11 +179,7 @@ And he says,"I demand nothing of you. And in coming from a position of great res
 
 [39:34]
 
-Everyday Americans should be able to speak openly and um about honesty, family, traditional values without any retribution. And that's a principle that Pure Talk proudly supports. They sponsor my show, which allows me to stand strong behind the microphone every day and share their truth with you. If you want to support brands that defend freedom and pro-American values, I encourage you to switch your wireless service to Pure Talk. You're going to get great 5G coverage and an extremely reliable and secure network. And with plans from just $25 a month, you'll save a ton of money. Pure Talk believes in creating American jobs and supporting small business. So, if you're a small business owner, you can save even more while enjoying white glove service. You can stand with companies who share your values. Go to puretalk. com/owens to switch to my wireless company, which is Pure Talk. right now you'll save an additional 50% off your first month.
-
 [40:18]
-
-Again, that's pure talk. com/owens to make the switch today. Also reminding you guys about Nimi Skincare because there was a reason that we all love the fall. We love the crisp air crisp air. We love the changes the leaves. Uh but the season of transition can also be tough on your skin. The end of summer sun, the noon, the new autumn wind. It can leave your skin looking tired, dry, and dull. So, if you're looking in the mirror and you're feeling like your skin has lost its radiance with the season, I need to tell you again about my absolute go-to, which is Nimi Skincare. Anemia is the reason that my skin stays clear, firm, and glowing no matter what the weather brings. Their three-step anti-aging routine is the perfect defense for this seasonal shift. It's packed with powerful clinically backed ingredients that work to restore your skin's barrier, which is exactly what you need to fight off that dry autumn air. It boosts collagen production to help with those fine lines. It locks in deep moisture and it brightens your complexion, bringing back that healthy glow that you had in the summer. And here's what I love most. Nimi is proudly Americanmade. In a world of skincare dominated by foreign brands, Nimi formulates and produces everything right here in the USA. They deliver world-class quality while staying true to the values that we hold dear, which is faith, family, and freedom. You should not have to compromise your values to get incredible skincare. And with Nimi, you don't have to. So, as you prepare for the new season, make sure that your skin is prepared, too. Get an exclusive 10% off your order at nimiskare. com. You can use code candace 10 at checkout. Support a brand that supports this country and see the results yourself. again. N I m I skincare. com. Use promo code candace10.
 
 ## Comments.
 

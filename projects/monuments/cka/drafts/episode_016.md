@@ -9,16 +9,11 @@
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 5feb0fec26ce7f6ed981e00eefad4b3167a8d11d82ddfd78eccdda1bb4febae6
+- **Transcript SHA-256**: a67d2c57c7c81de9731b935fd270a362febe1186dc3ae158635d449cb863c772
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-214, N-216, N-217, N-218, N-219, N-220, N-221, N-222, N-224, N-1234, N-1235, N-1236, N-1237, N-1238, N-1239
   - Reused Nodes Appearing: 
-
-## I. Meta-Data
-
-- **Episode Title:** "TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249"
-- **Series Title:** Bride of Charlie / Candace Monument Series
 - **Episode Number:** Monument Episode 16 (Batch 6, Candace Ep 249)
 - **Channel / Creator:** @RealCandaceO (Candace Owens)
 - **Episode Date:** 2025-10-07

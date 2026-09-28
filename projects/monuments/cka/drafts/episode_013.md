@@ -9,7 +9,7 @@
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: b006a28692c609e33d9f49453d20df3eb91ce77a988a45458b8ccd9c35a542f5
+- **Transcript SHA-256**: 485249b3a83122df784d65092a124fe221777e005fc429793ac75572c8a2611c
 
 - **Episode Ledger Summary**:
   - (see registers)
@@ -35,12 +35,6 @@
 - Claim Range: C-1337–C-1353
   - New Nodes Introduced: N-189, N-190, N-191, N-192, N-193, N-194, N-195, N-196, N-197, N-198, N-199, N-200, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223
   - Reused Nodes Appearing: 
-
-## II. Executive Summary
-
-Episode 13 advances the Bride of Charlie investigation along several distinct evidentiary lines. First, the host presents a previously circulated video (now deleted from its original source by Shainer Broadick) in which a Lyman family member states on camera that she "wondered if…there is an accomplice," with reference to a "girl" who may have provided items to the shooter. This is presented as the artifact support for the show's headline claim that a woman was captured alongside the shooter in nearby footage.
-
-Second, the episode introduces several personnel facts about the institutional response: a newly installed FBI special agent in charge ("Robert BS"), a recently appointed regional hospital CEO and lead surgeon (Andrew Zanger), a recently seated state judge (Tony F. Graph Jr., May 2025), and a new (unnamed) coroner. The host also confirms a Charlie Kirk autopsy was conducted and that Utah law keeps autopsy reports private absent family release.
 
 Third, a Phil Lyman campaign endorsement by George Zinn is documented via Wayback Machine dating back to at least June 6, 2024; this is presented to address earlier speculation rather than to advance new claims.
 

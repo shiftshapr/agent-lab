@@ -9,15 +9,11 @@
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 3e34fb6edbf62864ad59f7d26b4ae5961c44c877713444ab2a6a5ba23c4d53e1
+- **Transcript SHA-256**: 9c5eaae09f60b1222748149513f2956bb4921fb32cb85837a09931b9ec7b9bff
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-6, N-201, N-202, N-203, N-204, N-205, N-206, N-207, N-208, N-1224, N-1225, N-1226, N-1227
   - Reused Nodes Appearing: 
-
-- Episode title: INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247
-- Series title: Bride of Charlie / Candace Owens
-- Episode number: Monument Ep 14 · Batch 4
 - Channel / creator: @RealCandaceO · Candace Owens
 - Episode date: 2025-10-02
 - Source used for analysis: Transcript (cleaned YouTube captions, video context)

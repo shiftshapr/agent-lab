@@ -11,7 +11,6 @@ url: https://www.youtube.com/watch?v=5autG89PW6w
 caption_source: yt-dlp-manual
 source: YouTube captions, cleaned with video context
 ---
-
 # TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249
 
 Monument Ep 16 · Batch 6 · Candace Owens · 2025-10-07 · 1:05:08
@@ -101,8 +100,6 @@ So, one of the reasons, Blake, that I'm glad to have this now public, it was not
 
 [17:46]
 
-So, what do we think? Okay, obviously you can tell he's anxious. Uh you can tell he's he's nervous speaking about this. I am sure it was positively frantic at Turning Point USA yesterday. I am sure he had very little sleep and like I say, never the fun thing to be the spokesperson and also to be involved in the story. I can tell you right off the bat he is telling the truth. Uh he was not the person who shared that message with me. Uh he also should know that he was not the only person who sent that message and sent messages around. So there are a lot circulating uh some videos that are circulating and uh yeah that's he's being honest about that portion. I personally as someone who knows Andrew Kov I want to I want to express how I feel. I hold it against him actually that he didn't share it with me. He knew I cried on the phone with Andrew. He knew how I was feeling.
-
 [18:34]
 
 And then I went under a a very well, you could say a blitzkrieg, right? A a heavy bombardment from people who he knows hated Charlie, who tried to stop Charlie. Uh people who had no issues showing up to his memorial. I mean, really gross stuff who were attacking me. And he could have at least provided some cover. Now, I'm I'm not saying that I need help, but sometimes it's nice to offer somebody a lifeboat when they're being attacked for telling the truth, right? Uh so, I would do want to say that also, I'm glad that Andrew responded correctly because I was I was going to say this when Blake's like, "Well, you know, the investigation's ongoing." That text message has nothing to do with an investigation whatsoever.
@@ -163,8 +160,6 @@ But now, you know, the whole crime scene's gone. They paved over it. Nothing to 
 
 [31:08]
 
-Those partnership ranches receive a substantial premium from Riverbend Ranch for raising those cals without the use of growth hormones, without antibiotics. And every fall, the cals containing these elite genetics returned to Riverbend Ranch to spend the following summer in lush mountain pastures. When you purchase from Riverben Ranch, you are not only supporting the 64 cowboys plus their families who work on those ranches, but you're also supporting over 260 other US ranches and the hundreds of American families who work on them. It is born in the USA, raised in the USA, processed in the USA. Their meat is aged to perfection for 21 days and shipped directly from their ranch to your home. This is not your average black Angus beef. This is more flavorful, more tender, and even the best Angus beef that I've ever tasted. Right now, if you head over to riverbendranch. com and use promo code candace at checkout, you will get $20 off your first order. Trust me, you're going to be very impressed. Visit riverbendranch. com and use promo code candace at checkout. Also want to tell you guys about Fatty 15. Um, this is something the guys at C15 from Fatty 15, the first emerging essential fatty acid to be discovered in more than 90 years.
-
 [32:10]
 
 It's an incredible scientific breakthrough to support our long-term health, wellness, and our healthy aging. Based on over 100 studies, we know that C15 strengthens our cells and is a key healthy aging nutrient, which helps slow biological aging at the cellular level. When our cells don't have enough C-15, they become fragile and they age faster. Thankfully, Fatty 15 repairs age related damage to cells, protects them from future breakdown, and activates pathways in the body that help regulate our sleep, cognitive health, and naturally repair our mechanisms. Fatty 15 is a sciencebacked award-winning patented 100% pure C-15 supplement. It's free of flavors, allergens, or preservatives, and it's vegan friendly. Fatty 15 has three times more cellular benefits than omega-3 or fish oil. It comes in a reusable glass bamboo jar and refills are shipped right to your door. At 15 is on a mission to optimize your C-15 levels to help support your long-term health and wellness, especially as you age age. You can get an additional 15% off their 90day subscription starter kit by going to fatty5. com/candis and using code candace at checkout.
@@ -174,8 +169,6 @@ It's an incredible scientific breakthrough to support our long-term health, well
 Fatty 15. com/candis. Code candace at checkout. Also telling you guys about Sauna Space because obviously if you're a mom, you have kids, non-stop schedule, you're still expected to look good, feel good, function without losing your mind. That's why I'm obsessed with Saunace. You have seen those red light panels that are trendy, but this is totally different. It's the glow infrared therapy light from Saunace. It helps with screen fatigue. It's amazing for your skin. In the morning, it's like natural sunlight. It's warm, comforting. It resets your body clock. And at night, it'll help you relax and get ready for a seriously deep sleep. You can even use it as pain relief on sore muscles or cramps. And the real game changer is their fire light sauna because it's portable and powerful. You're getting red light therapy and an infrared sauna allin-one. It's your personal wellness sanctuary. Plus, it's all handmade here in the USA with pure organic materials with zero EMFs for the ultimate detox.
 
 [34:05]
-
-Sauna Space spent over a decade perfecting their Fire Light Spectrum and thousands of studies support the benefits. In the Fire Light Sauna, you sweat and you'll sweat hard and it's a deep detox, faster healing, better sleep, glowing skin, serious relaxation. It's even boosting to your immune system. So, if you are a busy mom like me and you want those 20 minutes of your day back to yourself, check out Saunaspace. Head to saunaspace. com/candis and use code candace at checkout and you'll get 10% off. sauna. com/candis. Code candace at checkout.
 
 ## Lingering questions and where is Lance Twiggs?
 
@@ -200,8 +193,6 @@ Well, according to his family, that's just not true. According to his family, he
 Anyways, uh we were told by Lance's family that who by the way own the apartment that the two of them lived in that Tyler and Lance lived in. We were told that somebody illegally changed their locks on the home following the raid. Obviously illegal. They were not informed that the locks were being changed. So, it gives us two options. It was either Lance or it was the feds. I was wondering like, you know, if you're Lance and you really got swept up in this and you're so shocked that Tyler Robinson did this, is are you speaking to your family about that? My gosh. I'd imagine you want to speak to your family. No. No. It seems uh Lance has similarly been in an unknown known location since the raid. I would imagine he was in witness protection for a bit, but he doesn't he doesn't need family. He feels I would say that suggests that he's pretty arrogant right now in this moment. He's not fearful of anything. Like I said, the sense I am getting is we are watching a play, right? The government has us completely distracted with photos of people who are not even the same person. I never for a second thought the person that was in the maroon shirt was the same as the person that was walking with the limp. It's completely foolish and ridiculous.
 
 [41:24]
-
-I can also tell you something else. We received a tip which I vetted that on the day of Charles Kush's assassination, you know, immediately George Zinn gets up and says, "I did it. I did it. I did it." And he kind of gets dragged. Well, apparently George Zinn had to receive medical treatment following that little fraas. And he told multiple nurses and doctors that he did it because he was being paid to do it. He said he had not been paid yet, but he was going to receive payment. He didn't know from who. That's interesting. Decoy boy told medical staff multiple apparently he was just singing just like just telling everybody who would listen that he did it because payment was going to be promised to him if he did do it. What does that tell us?
 
 [42:20]
 
@@ -255,11 +246,7 @@ Uh maybe your tax returns are not filed. Maybe you forgot to file for an extensi
 
 [55:40]
 
-Also reminding you guys about American financing because the cost of everything is out of control. Many of us are relying on credit cards to cover essentials. If that debt is piling up for you, you're not alone. Americans collectively owe 1 trillion in credit card debt. You might have considered reaching out to my friends at American Financing but hesitated because you don't want to give up your low mortgage rate. Well, there's good news. They've created the Smart Equity Loan, a solution designed to help you take control of your finances without touching your current mortgage. Unlike a HELOC, which can have varied interest rates, the Smart Equity Loan offers a fixed rate, which means one predictable monthly payment, giving you peace of mind. The loan allows you to leverage the equity in your home to pay off high interest debt, free up your cash flow, and keep your existing low mortgage rate intact. It only takes 10 minutes to get started with no upfront or hidden fees.
-
 [56:21]
-
-Call American Financing and start savings today. The number is 8007951210. That's 8007951210 or visit americanfinancing. netens. americanfinancing. net. I just want to tell you guys about Nimi Skincare. I'm really excited to announce something that is truly special from them. Uh this is about so much more than just amazing products. It's about a company with the courage to stand for a mission that we all share. Nimi is proudly Christian, pro-life, pro- family, pro- freedom. And they just launched an incredible giveaway to put those values into action. I would love for you guys to join and enter for a chance to win. This giveaway supports mothers and babies. uh that are in need through an amazing organization that you also know that I support, pre-born. When you enter, you're not just entering for yourself. You're entering to bless a mother and her baby. Here's how it works. One winner is going to receive a $500 shopping spree to nimish skincare. com.
 
 [57:10]
 

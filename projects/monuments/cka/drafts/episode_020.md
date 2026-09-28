@@ -9,13 +9,11 @@
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 55a779057a78b96c3c40cd10566478dd08fa9606c7731a1a37c2d82d91934bd4
+- **Transcript SHA-256**: 11b56a3523c6e891777cf0069ed2beac4407ae5d3b47a8c104454019a3889e88
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-268, N-269, N-270, N-271, N-272, N-273, N-274, N-275, N-276, N-277, N-278, N-280, N-281, N-282, N-283, N-284, N-285, N-1262, N-1263, N-1264, N-1265
   - Reused Nodes Appearing: 
-
-Episode 20 of the Bride of Charlie series is divided into four primary segments: (1) a retrospective on the April 2018 Kanye West tweet and the alleged "energy shift" prelude, anchored to displayed text-message exchanges with Charlie Kirk and Mike Cernovich's since-deleted tweet thread; (2) a genealogy-style argument that Turning Point USA is encircled by U.S. military personnel, supported by an audio clip of George Webb and a TV chart; (3) TPUSA's on-air response to the Mikey McCoy behavior questions, anchored to played audio clips from Andrew Kovett, Alex Marlo, and Frank Turk; and (4) an account of Candace Owens' book club being "infiltrated" and a related French tax-form disclosure concerning Brigitte Macron's name, anchored to an alleged UVU Hospital internal message and reporting on French tax records.
 
 The episode advances several investigative threads already active in the series (Mikey McCoy's actions on September 10, the trauma-hospital routing question, the "306 bullet wound" forensic question, and TPUSA personnel analysis) while introducing a new artifact family tied to the alleged UVU Hospital medical record. The text-message artifacts and audio clips are the structural core of the episode's evidentiary record.
 
@@ -35,7 +33,7 @@ Confidence Level: High
 
 Contents (read on air): Candace — "Yo, Kanye West writing a philosophy book called Break the Simulation. We need him, Charlie. He is Blexit AF." Charlie — "I love Kanye. He's my soul brother. I will find a way to him. I promise we have to."
 
-*Related: C-1487, C-1488, N-1, N-268*
+*Related: C-1490, C-1491, N-1, N-268*
 
 **A-1270.2** Text exchange, evening of April 20, 2018 (eve of Kanye tweet)
 
@@ -47,7 +45,7 @@ Confidence Level: High
 
 Contents (read on air): Charlie — "I'm on a run and I'm blasting Kanye West and we're on the brink of something big and like this is our time." Candace — "So exciting. It's our time." Charlie — "Yes."
 
-*Related: C-1489, N-1, N-268*
+*Related: C-1492, N-1, N-268*
 
 **A-1270.3** Text exchange, morning of April 21, 2018 (after Kanye tweet)
 
@@ -59,7 +57,7 @@ Confidence Level: High
 
 Contents (read on air): Candace — "Please pick up because I was shaking." Charlie — "I am freaking the f out."
 
-*Related: C-1490, N-1, N-268*
+*Related: C-1493, N-1, N-268*
 
 ---
 
@@ -75,7 +73,7 @@ Confidence Level: Medium (originals deleted per host; not independently verified
 
 Contents (read on air): "A change in energy … which stuns high consciousness people does not mean bad. It simply means that it's cosmic. A paradigm is shifting." Also: "Several high consciousness people I've spoken to independently told me about feeling a shift in energy. Something is going on. It happened two to three weeks ago. I'm not talking politics or elections. It's much bigger energy shift."
 
-*Related: C-1491, C-1492, N-269*
+*Related: C-1494, C-1495, N-269*
 
 ---
 
@@ -91,7 +89,7 @@ Confidence Level: High
 
 Contents (referenced on air): "I love the way Candace Owens thinks."
 
-*Related: C-1493, N-268*
+*Related: C-1496, N-268*
 
 ---
 
@@ -107,7 +105,7 @@ Confidence Level: High
 
 Contents (played on air): Adams states Kanye "ripped a hole in reality with seven words" and "freed a lot of people from a mental prison."
 
-*Related: C-1494, N-270*
+*Related: C-1497, N-270*
 
 ---
 
@@ -123,7 +121,7 @@ Confidence Level: High
 
 Contents (played on air): Candace states Hitler "was a national socialist. But if Hitler just wanted to make Germany great and have things run well, okay, fine. The problem is is that he wanted … he had dreams outside of Germany. He wanted to globalize."
 
-*Related: C-1495, N-2*
+*Related: C-1498, N-2*
 
 ---
 
@@ -139,7 +137,7 @@ Confidence Level: High
 
 Contents (played on air): Kovett states Charlie had drilled into Mikey's brain that "If anything ever happens to me, you call Erika." Kovett further states Mikey was taking social-video clips for the group chat at the time of the shot, not on the phone, and that he put his fingers in his ears due to the loud blast.
 
-*Related: C-1496, C-1497, N-271, N-272, N-1, N-2*
+*Related: C-1499, C-1500, N-271, N-272, N-1, N-2*
 
 ---
 
@@ -155,7 +153,7 @@ Confidence Level: High
 
 Contents (played on air): Marlo characterizes online suggestion that Mikey McCoy was part of a conspiracy to murder Charlie as "vile," compares the mindset of conspiracy theorists to drug addiction or pornography, and frames the activity as addictive.
 
-*Related: C-1498, N-273, N-272*
+*Related: C-1501, N-273, N-272*
 
 ---
 
@@ -171,7 +169,7 @@ Confidence Level: High
 
 Contents (played on air): Turk states "there's a difference between a possibility and evidence for a possibility," tells critics to "shut up" without evidence, and defends Mikey McCoy as a "24-year-old who at the time when Charlie was shot was 23 and was a hero that day."
 
-*Related: C-1499, N-274, N-272*
+*Related: C-1502, N-274, N-272*
 
 ---
 
@@ -187,7 +185,7 @@ Confidence Level: Medium (read on air; underlying document not displayed in full
 
 Contents (read on air): "Hi all. There was a media event that took place today that led to a trauma patient. Due to the nature of the situation, the only individuals who will be allowed in the chart will be Deborah and myself. No one else is allowed to hover or open the chart. Jacob blank. Deb and I will be doing the log tomorrow. Thanks."
 
-*Related: C-1500, C-1501, N-1262*
+*Related: C-1503, C-1504, N-1262*
 
 ---
 
@@ -203,7 +201,7 @@ Confidence Level: Medium
 
 Contents (played on air): Webb states Rob McCoy "does have this strange military background," identifies him as a NAR figure, and links the McCoy orbit to the $25 million-and-above NAR donor network and the Ziklag organization.
 
-*Related: C-1502, C-1503, N-275, N-1264*
+*Related: C-1505, C-1506, N-275, N-1264*
 
 ---
 
@@ -219,7 +217,7 @@ Confidence Level: Medium
 
 Contents (read on air): Reports that French tax forms list Brigitte Macron under "Jean Michelle" as male, citing Mr. Burme (described as a government official) and a staffer who has worked with the Macrons since 2017. Host also references prior "Becoming Breit" series.
 
-*Related: C-1504, C-1505, N-276*
+*Related: C-1507, C-1508, N-276*
 
 ---
 
@@ -235,7 +233,7 @@ Confidence Level: Medium
 
 Contents (read on air): Livingstone tweet captioned on air as a complaint after Candace issued a copyright strike against re-uploaded Book Club content watermarked "Milk Bar TV."
 
-*Related: C-1506, N-277*
+*Related: C-1509, N-277*
 
 ---
 
@@ -251,7 +249,7 @@ Confidence Level: Medium (chart described in transcript; full content not transc
 
 Contents (per host narration): Lists Frank Turk, Andrew Kovett, Rob McCoy, Mikey McCoy, Tyler Bowyer and identifies military-family members including Captain Kurt Kovvet, Captain Robert Kovvet, Roy Edgar McCoy (naval captain, assistant chief of staff for psychological warfare).
 
-*Related: C-1502, C-1503, N-271, N-272, N-274, N-275, N-85, N-1264*
+*Related: C-1505, C-1506, N-271, N-272, N-274, N-275, N-85, N-1264*
 
 ---
 
@@ -266,7 +264,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1270.1, A-1270.2, A-1270.3, A-1272.1, C-1487, C-1488, C-1489, C-1490, C-1493*
+*Related: A-1270.1, A-1270.2, A-1270.3, A-1272.1, C-1490, C-1491, C-1492, C-1493, C-1496*
 
 ---
 
@@ -279,7 +277,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1271.1, C-1491, C-1492*
+*Related: A-1271.1, C-1494, C-1495*
 
 ---
 
@@ -292,7 +290,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1273.1, C-1494*
+*Related: A-1273.1, C-1497*
 
 ---
 
@@ -305,7 +303,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1275.1, A-1282.1, C-1496, C-1497, N-272, N-1, N-2*
+*Related: A-1275.1, A-1282.1, C-1499, C-1500, N-272, N-1, N-2*
 
 ---
 
@@ -318,7 +316,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1275.1, A-1276.1, A-1277.1, A-1282.1, C-1496, C-1497, C-1498, C-1499, N-1, N-271, N-274, N-275, N-1263*
+*Related: A-1275.1, A-1276.1, A-1277.1, A-1282.1, C-1499, C-1500, C-1501, C-1502, N-1, N-271, N-274, N-275, N-1263*
 
 ---
 
@@ -331,7 +329,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1276.1, C-1498*
+*Related: A-1276.1, C-1501*
 
 ---
 
@@ -344,7 +342,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1277.1, A-1282.1, C-1499*
+*Related: A-1277.1, A-1282.1, C-1502*
 
 ---
 
@@ -357,7 +355,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1279.1, A-1282.1, C-1502, C-1503, N-1264*
+*Related: A-1279.1, A-1282.1, C-1505, C-1506, N-1264*
 
 ---
 
@@ -370,7 +368,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1280.1, C-1504, C-1505*
+*Related: A-1280.1, C-1507, C-1508*
 
 ---
 
@@ -383,7 +381,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1281.1, C-1506*
+*Related: A-1281.1, C-1509*
 
 ---
 
@@ -474,7 +472,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1279.1, C-1502, C-1503*
+*Related: A-1279.1, C-1505, C-1506*
 
 ---
 
@@ -487,7 +485,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1278.1, C-1500, C-1501, N-284*
+*Related: A-1278.1, C-1503, C-1504, N-284*
 
 ---
 
@@ -500,7 +498,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1279.1, A-1282.1, C-1502, C-1503, N-271, N-272, N-274, N-275, N-85*
+*Related: A-1279.1, A-1282.1, C-1505, C-1506, N-271, N-272, N-274, N-275, N-85*
 
 ---
 
@@ -513,7 +511,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1275.1, A-1276.1, A-1277.1, C-1496, C-1497, C-1498, C-1499, N-272*
+*Related: A-1275.1, A-1276.1, A-1277.1, C-1499, C-1500, C-1501, C-1502, N-272*
 
 ---
 
@@ -532,7 +530,7 @@ Investigative Pressure: Low
 
 ## 5. Claim Register
 
-**C-1487** Candace framed Kanye's then-forthcoming book "Break the Simulation" as a Blexit-aligned target on April 13, 2018
+**C-1490** Candace framed Kanye's then-forthcoming book "Break the Simulation" as a Blexit-aligned target on April 13, 2018
 
 Claim Timestamp: 00:03:50
 
@@ -545,7 +543,7 @@ Investigative Direction: Obtain independent verification of the text exchange (c
 
 ---
 
-**C-1488** Charlie described Kanye as his "soul brother" and pledged to reach him in April 2018
+**C-1491** Charlie described Kanye as his "soul brother" and pledged to reach him in April 2018
 
 Claim Timestamp: 00:03:50
 
@@ -558,7 +556,7 @@ Investigative Direction: Obtain independent verification of the text exchange an
 
 ---
 
-**C-1489** On the evening of April 20, 2018 Charlie framed the moment as "on the brink of something big"
+**C-1492** On the evening of April 20, 2018 Charlie framed the moment as "on the brink of something big"
 
 Claim Timestamp: 00:05:35
 
@@ -571,7 +569,7 @@ Investigative Direction: Obtain independent verification of the text exchange an
 
 ---
 
-**C-1490** Charlie and Candace reacted with shock to Kanye's April 21, 2018 tweet
+**C-1493** Charlie and Candace reacted with shock to Kanye's April 21, 2018 tweet
 
 Claim Timestamp: 00:06:20
 
@@ -584,7 +582,7 @@ Investigative Direction: Obtain independent verification of the text exchange an
 
 ---
 
-**C-1491** Mike Cernovich publicly discussed a cosmic "energy shift" in mid-April 2018
+**C-1494** Mike Cernovich publicly discussed a cosmic "energy shift" in mid-April 2018
 
 Claim Timestamp: 00:04:50
 
@@ -597,7 +595,7 @@ Investigative Direction: Obtain archived copies of Cernovich's tweet thread (Way
 
 ---
 
-**C-1492** Candace concurs with Cernovich's "energy shift" framing
+**C-1495** Candace concurs with Cernovich's "energy shift" framing
 
 Claim Timestamp: 00:04:50
 
@@ -610,7 +608,7 @@ Investigative Direction: Identify and timestamp any other contemporaneous public
 
 ---
 
-**C-1493** Kanye West publicly praised Candace Owens on April 21, 2018
+**C-1496** Kanye West publicly praised Candace Owens on April 21, 2018
 
 Claim Timestamp: 00:06:50
 
@@ -623,7 +621,7 @@ Investigative Direction: Obtain archived copy of original Kanye tweet from indep
 
 ---
 
-**C-1494** Scott Adams characterized Kanye's tweet as reality-altering
+**C-1497** Scott Adams characterized Kanye's tweet as reality-altering
 
 Claim Timestamp: 00:07:00–00:09:05
 
@@ -636,7 +634,7 @@ Investigative Direction: Locate and timestamp original Scott Adams video; verify
 
 ---
 
-**C-1495** Candace stated in the December 2018 UK Q&A that Hitler was not a nationalist
+**C-1498** Candace stated in the December 2018 UK Q&A that Hitler was not a nationalist
 
 Claim Timestamp: 00:14:35–00:17:00
 
@@ -649,7 +647,7 @@ Investigative Direction: Obtain original full Q&A video, confirm context of the 
 
 ---
 
-**C-1496** Andrew Kovett states Charlie drilled an emergency-call protocol into Mikey McCoy
+**C-1499** Andrew Kovett states Charlie drilled an emergency-call protocol into Mikey McCoy
 
 Claim Timestamp: 00:39:46–00:44:30
 
@@ -662,7 +660,7 @@ Investigative Direction: Verify whether Mikey McCoy himself has publicly corrobo
 
 ---
 
-**C-1497** Andrew Kovett states Mikey McCoy was capturing social video, not on the phone, at the moment of the shot
+**C-1500** Andrew Kovett states Mikey McCoy was capturing social video, not on the phone, at the moment of the shot
 
 Claim Timestamp: 00:39:46–00:44:30
 
@@ -675,7 +673,7 @@ Investigative Direction: Obtain the full video clip from which Kovett's narratio
 
 ---
 
-**C-1498** Alex Marlo characterizes online conspiracy allegations against Mikey McCoy as akin to drug/pornography addiction
+**C-1501** Alex Marlo characterizes online conspiracy allegations against Mikey McCoy as akin to drug/pornography addiction
 
 Claim Timestamp: 00:46:30–00:48:30
 
@@ -688,7 +686,7 @@ Investigative Direction: Identify date and outlet of Marlo's full segment; obtai
 
 ---
 
-**C-1499** Frank Turk defends Mikey McCoy and rebukes Candace for advancing unevidenced claims
+**C-1502** Frank Turk defends Mikey McCoy and rebukes Candace for advancing unevidenced claims
 
 Claim Timestamp: 00:50:30–00:52:30
 
@@ -701,7 +699,7 @@ Investigative Direction: Identify date and outlet of Turk's full segment; confir
 
 ---
 
-**C-1500** A UVU Hospital internal message restricted access to a Charlie Kirk trauma file to two named individuals
+**C-1503** A UVU Hospital internal message restricted access to a Charlie Kirk trauma file to two named individuals
 
 Claim Timestamp: 00:32:30–00:35:00
 
@@ -714,7 +712,7 @@ Investigative Direction: Obtain independent verification of the message (forensi
 
 ---
 
-**C-1501** A Charlie Kirk medical file existed at Utah Valley Hospital on September 10, 2025
+**C-1504** A Charlie Kirk medical file existed at Utah Valley Hospital on September 10, 2025
 
 Claim Timestamp: 00:32:30–00:35:00
 
@@ -727,7 +725,7 @@ Investigative Direction: Obtain independent verification from UVU medical staff 
 
 ---
 
-**C-1502** Rob McCoy has a U.S. Navy background traceable to his father Roy Edgar McCoy
+**C-1505** Rob McCoy has a U.S. Navy background traceable to his father Roy Edgar McCoy
 
 Claim Timestamp: 00:23:30–00:24:30
 
@@ -740,7 +738,7 @@ Investigative Direction: Obtain Roy Edgar McCoy's official Navy service record; 
 
 ---
 
-**C-1503** The McCoy orbit is tied to the NAR-aligned Ziklag donor network
+**C-1506** The McCoy orbit is tied to the NAR-aligned Ziklag donor network
 
 Claim Timestamp: 00:23:30–00:24:30
 
@@ -753,7 +751,7 @@ Investigative Direction: Obtain independent verification of Ziklag's donor list 
 
 ---
 
-**C-1504** Brigitte Macron is registered on French tax forms as "Jean Michelle" male
+**C-1507** Brigitte Macron is registered on French tax forms as "Jean Michelle" male
 
 Claim Timestamp: 00:57:30–00:59:30
 
@@ -766,7 +764,7 @@ Investigative Direction: Obtain the original French reporting, the Burme stateme
 
 ---
 
-**C-1505** Candace rejects the official "hacker" explanation for the Macron tax-form discrepancy
+**C-1508** Candace rejects the official "hacker" explanation for the Macron tax-form discrepancy
 
 Claim Timestamp: 00:57:30–00:59:30
 
@@ -779,7 +777,7 @@ Investigative Direction: Identify and obtain the original reporting cited by hos
 
 ---
 
-**C-1506** Nathan Livingstone publicly complained after being issued a copyright strike for re-uploading Book Club content
+**C-1509** Nathan Livingstone publicly complained after being issued a copyright strike for re-uploading Book Club content
 
 Claim Timestamp: 00:55:30–00:56:30
 
@@ -792,7 +790,7 @@ Investigative Direction: Obtain archived copies of Livingstone's tweet and the o
 
 ---
 
-**C-1507** Host discussed David Horowitz in Book Club / network context
+**C-1510** Host discussed David Horowitz in Book Club / network context
 
 Claim Timestamp: 00:57:00–00:58:00
 
@@ -806,7 +804,7 @@ Investigative Direction: Tie to primary on-screen artifact in a follow-up pass i
 
 ---
 
-**C-1508** Host discussed John Mappen / Arena Mappen in Macron thread
+**C-1511** Host discussed John Mappen / Arena Mappen in Macron thread
 
 Claim Timestamp: 00:58:00–00:59:00
 
@@ -820,7 +818,7 @@ Investigative Direction: Obtain on-screen citations from the Macron segment.
 
 ---
 
-**C-1509** Dr. Lee Trotter cited in medical / hospital thread
+**C-1512** Dr. Lee Trotter cited in medical / hospital thread
 
 Claim Timestamp: 00:59:00–01:00:00
 
@@ -834,7 +832,7 @@ Investigative Direction: Cross-reference hospital message artifacts.
 
 ---
 
-**C-1510** Dr. Deidra Weiss Amaro cited in UVU hospital message thread
+**C-1513** Dr. Deidra Weiss Amaro cited in UVU hospital message thread
 
 Claim Timestamp: 01:00:00–01:01:00
 

@@ -3,19 +3,15 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 17,
-    "series": "Candace Kirk Archive",
+    "series": "Bride of Charlie",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–01:15:43",
+    "video_timestamp_range": "00:00:00–00:56:29",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "110a9acb6728d3f0e1a80f687aa173bbbcf0be314ec3fd0b8fa06b9838dce112",
-    "analysis_date": "2026-09-27",
-    "monument": "cka",
-    "youtube_id": "2Riv3I7D0Yk",
-    "candace_ep_number": 250,
-    "kind": "numbered_show"
+    "transcript_sha256": "e4286a0b61383af611c043d024b0489af5ef017ef3077d05883a51910942c352",
+    "analysis_date": "2026-09-27"
   },
   "executive_summary": "",
   "artifacts": [
@@ -994,7 +990,7 @@
       "ref": "N-1",
       "name": "Charlie Kirk",
       "type": "person",
-      "description": "Decedent; central biographical and evidentiary subject. Reused from prior episodes; spelling preserved as \"Charlie Kirk\" per ledger.",
+      "description": "Deceased founder of Turning Point USA; subject of financial concerns expressed one week before his death; subject of the assassination investigation.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],

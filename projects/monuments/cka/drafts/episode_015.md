@@ -9,12 +9,11 @@
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 14c11439032e81a25e74d91998c83b50979ce02179e672eb07f6b90c40842dc8
+- **Transcript SHA-256**: 85c009a9696e6d09206abec6ccb733f9bd4c300b70a081ff0aa259cf4d192e45
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-1, N-2, N-210, N-211, N-212, N-1228, N-1229, N-1230, N-1231, N-1232, N-1233
-  - Reused Nodes Appearing: 
-
+  - New Nodes Introduced: N-210, N-211, N-212, N-1228, N-1229, N-1230, N-1231, N-1232, N-1233
+  - Reused Nodes Appearing: N-1, N-2
 
 ## 2. Executive Summary
 
@@ -189,28 +188,6 @@ Description: Sermon titled "What has defiled you." Cites 2 Corinthians 7:1. Refe
 ---
 
 ## 4. Node Register
-
-**N-1** Charlie Kirk
-
-Decedent; central biographical and evidentiary subject. Reused from prior episodes; spelling preserved as "Charlie Kirk" per ledger.
-
-Evidence Count: 0 (this episode, new references)
-Claim Count: 2 (this episode: C-1375, C-1376)
-Episode Count: 15
-Investigative Pressure: High
-
-*Related: A-1225.1, A-1225.2, C-1375, C-1376, N-1229, N-1230*
-
-**N-2** Erika Kirk
-
-Name spelling in this episode is "Erika" (prior episodes may inscribe as "Erica"). Flag preserved per protocol. Subject of multiple SD-card-removal and faith-trajectory references.
-
-Evidence Count: 0 (new)
-Claim Count: 0 (new — host's assertions about Erika's role are flagged but not inscribed as artifact-anchored claims)
-Episode Count: 15
-Investigative Pressure: High
-
-*Related: N-1228, N-1230*
 
 **N-210** Andrew Kolvet
 

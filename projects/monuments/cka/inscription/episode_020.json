@@ -3,19 +3,15 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 20,
-    "series": "Candace Kirk Archive",
+    "series": "Bride of Charlie",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–01:10:28",
+    "video_timestamp_range": "00:00:00–00:56:29",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "55a779057a78b96c3c40cd10566478dd08fa9606c7731a1a37c2d82d91934bd4",
-    "analysis_date": "2026-09-27",
-    "monument": "cka",
-    "youtube_id": "Cq7nj9rxPdo",
-    "candace_ep_number": 253,
-    "kind": "numbered_show"
+    "transcript_sha256": "11b56a3523c6e891777cf0069ed2beac4407ae5d3b47a8c104454019a3889e88",
+    "analysis_date": "2026-09-27"
   },
   "executive_summary": "",
   "artifacts": [
@@ -31,8 +27,8 @@
           "ref": "A-1270.1",
           "description": "Text exchange, April 13, 2018",
           "related_claims": [
-            "C-1487",
-            "C-1488"
+            "C-1490",
+            "C-1491"
           ],
           "related_nodes": [
             "N-1",
@@ -51,7 +47,7 @@
           "ref": "A-1270.2",
           "description": "Text exchange, evening of April 20, 2018 (eve of Kanye tweet)",
           "related_claims": [
-            "C-1489"
+            "C-1492"
           ],
           "related_nodes": [
             "N-1",
@@ -70,7 +66,7 @@
           "ref": "A-1270.3",
           "description": "Text exchange, morning of April 21, 2018 (after Kanye tweet)",
           "related_claims": [
-            "C-1490"
+            "C-1493"
           ],
           "related_nodes": [
             "N-1",
@@ -97,8 +93,8 @@
           "ref": "A-1271.1",
           "description": "Mike Cernovich tweet thread on \"energy shift\"",
           "related_claims": [
-            "C-1491",
-            "C-1492"
+            "C-1494",
+            "C-1495"
           ],
           "related_nodes": [
             "N-269"
@@ -124,7 +120,7 @@
           "ref": "A-1272.1",
           "description": "Kanye West tweet praising Candace Owens",
           "related_claims": [
-            "C-1493"
+            "C-1496"
           ],
           "related_nodes": [
             "N-268"
@@ -150,7 +146,7 @@
           "ref": "A-1273.1",
           "description": "Scott Adams video commentary on Kanye tweet",
           "related_claims": [
-            "C-1494"
+            "C-1497"
           ],
           "related_nodes": [
             "N-270"
@@ -176,7 +172,7 @@
           "ref": "A-1274.1",
           "description": "Audio of Candace Owens at UK event, Q&A on nationalism",
           "related_claims": [
-            "C-1495"
+            "C-1498"
           ],
           "related_nodes": [
             "N-2"
@@ -202,8 +198,8 @@
           "ref": "A-1275.1",
           "description": "Andrew Kovett statement on Mikey McCoy's post-shooting actions",
           "related_claims": [
-            "C-1496",
-            "C-1497"
+            "C-1499",
+            "C-1500"
           ],
           "related_nodes": [
             "N-271",
@@ -232,7 +228,7 @@
           "ref": "A-1276.1",
           "description": "Alex Marlo statement dismissing conspiracy claims",
           "related_claims": [
-            "C-1498"
+            "C-1501"
           ],
           "related_nodes": [
             "N-273",
@@ -259,7 +255,7 @@
           "ref": "A-1277.1",
           "description": "Frank Turk statement defending Mikey McCoy",
           "related_claims": [
-            "C-1499"
+            "C-1502"
           ],
           "related_nodes": [
             "N-274",
@@ -286,8 +282,8 @@
           "ref": "A-1278.1",
           "description": "UVU Hospital internal message restricting access to Charlie Kirk file",
           "related_claims": [
-            "C-1500",
-            "C-1501"
+            "C-1503",
+            "C-1504"
           ],
           "related_nodes": [
             "N-1262"
@@ -313,8 +309,8 @@
           "ref": "A-1279.1",
           "description": "George Webb clip on Rob McCoy and military background",
           "related_claims": [
-            "C-1502",
-            "C-1503"
+            "C-1505",
+            "C-1506"
           ],
           "related_nodes": [
             "N-275",
@@ -341,8 +337,8 @@
           "ref": "A-1280.1",
           "description": "Reporting on French tax records listing Brigitte Macron as \"Jean Michelle\"",
           "related_claims": [
-            "C-1504",
-            "C-1505"
+            "C-1507",
+            "C-1508"
           ],
           "related_nodes": [
             "N-276"
@@ -368,7 +364,7 @@
           "ref": "A-1281.1",
           "description": "Nathan Livingstone public response to copyright strike",
           "related_claims": [
-            "C-1506"
+            "C-1509"
           ],
           "related_nodes": [
             "N-277"
@@ -394,8 +390,8 @@
           "ref": "A-1282.1",
           "description": "On-screen chart of TPUSA-associated personnel and military/family connections",
           "related_claims": [
-            "C-1502",
-            "C-1503"
+            "C-1505",
+            "C-1506"
           ],
           "related_nodes": [
             "N-271",
@@ -430,11 +426,11 @@
         "A-1272.1"
       ],
       "related_claims": [
-        "C-1487",
-        "C-1488",
-        "C-1489",
         "C-1490",
-        "C-1493"
+        "C-1491",
+        "C-1492",
+        "C-1493",
+        "C-1496"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -453,8 +449,8 @@
         "A-1271.1"
       ],
       "related_claims": [
-        "C-1491",
-        "C-1492"
+        "C-1494",
+        "C-1495"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -473,7 +469,7 @@
         "A-1273.1"
       ],
       "related_claims": [
-        "C-1494"
+        "C-1497"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -493,8 +489,8 @@
         "A-1282.1"
       ],
       "related_claims": [
-        "C-1496",
-        "C-1497"
+        "C-1499",
+        "C-1500"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -521,10 +517,10 @@
         "A-1282.1"
       ],
       "related_claims": [
-        "C-1496",
-        "C-1497",
-        "C-1498",
-        "C-1499"
+        "C-1499",
+        "C-1500",
+        "C-1501",
+        "C-1502"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -550,7 +546,7 @@
         "A-1276.1"
       ],
       "related_claims": [
-        "C-1498"
+        "C-1501"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -570,7 +566,7 @@
         "A-1282.1"
       ],
       "related_claims": [
-        "C-1499"
+        "C-1502"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -590,8 +586,8 @@
         "A-1282.1"
       ],
       "related_claims": [
-        "C-1502",
-        "C-1503"
+        "C-1505",
+        "C-1506"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -613,8 +609,8 @@
         "A-1280.1"
       ],
       "related_claims": [
-        "C-1504",
-        "C-1505"
+        "C-1507",
+        "C-1508"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -633,7 +629,7 @@
         "A-1281.1"
       ],
       "related_claims": [
-        "C-1506"
+        "C-1509"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -758,8 +754,8 @@
         "A-1279.1"
       ],
       "related_claims": [
-        "C-1502",
-        "C-1503"
+        "C-1505",
+        "C-1506"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -778,8 +774,8 @@
         "A-1278.1"
       ],
       "related_claims": [
-        "C-1500",
-        "C-1501"
+        "C-1503",
+        "C-1504"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -802,8 +798,8 @@
         "A-1282.1"
       ],
       "related_claims": [
-        "C-1502",
-        "C-1503"
+        "C-1505",
+        "C-1506"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -831,10 +827,10 @@
         "A-1277.1"
       ],
       "related_claims": [
-        "C-1496",
-        "C-1497",
-        "C-1498",
-        "C-1499"
+        "C-1499",
+        "C-1500",
+        "C-1501",
+        "C-1502"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -869,7 +865,7 @@
       "ref": "N-1",
       "name": "Charlie Kirk",
       "type": "person",
-      "description": "Decedent; central biographical and evidentiary subject. Reused from prior episodes; spelling preserved as \"Charlie Kirk\" per ledger.",
+      "description": "Deceased founder of Turning Point USA; subject of financial concerns expressed one week before his death; subject of the assassination investigation.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -885,7 +881,7 @@
       "ref": "N-2",
       "name": "Erika Kirk",
       "type": "person",
-      "description": "Name spelling in this episode is \"Erika\" (prior episodes may inscribe as \"Erica\"). Flag preserved per protocol. Subject of multiple SD-card-removal and faith-trajectory references.",
+      "description": "Widow of Charlie Kirk, discussed in episode as new CEO/chairman of TPUSA. Host defends her against public criticism of fundraising emails.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -915,8 +911,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1487",
-      "ref": "C-1487",
+      "@id": "C-1490",
+      "ref": "C-1490",
       "label": "Candace framed Kanye's then-forthcoming book \"Break the Simulation\" as a Blexit-aligned target on April 13, 2018",
       "claim": "In the April 13, 2018 text exchange (A-1270.1), Candace tells Charlie that Kanye West was writing a philosophy book titled \"Break the Simulation\" and explicitly tags him \"Blexit AF.\"",
       "anchored_artifacts": [
@@ -932,8 +928,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1488",
-      "ref": "C-1488",
+      "@id": "C-1491",
+      "ref": "C-1491",
       "label": "Charlie described Kanye as his \"soul brother\" and pledged to reach him in April 2018",
       "claim": "Charlie's reply in the April 13, 2018 text exchange states he loves Kanye and \"will find a way to him\" with a promise to do so.",
       "anchored_artifacts": [
@@ -949,8 +945,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1489",
-      "ref": "C-1489",
+      "@id": "C-1492",
+      "ref": "C-1492",
       "label": "On the evening of April 20, 2018 Charlie framed the moment as \"on the brink of something big\"",
       "claim": "Charlie's April 20, 2018 evening text states he is running while blasting Kanye West and that \"we're on the brink of something big and like this is our time.\"",
       "anchored_artifacts": [
@@ -966,8 +962,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1490",
-      "ref": "C-1490",
+      "@id": "C-1493",
+      "ref": "C-1493",
       "label": "Charlie and Candace reacted with shock to Kanye's April 21, 2018 tweet",
       "claim": "The April 21, 2018 morning text exchange shows Candace \"shaking\" and Charlie writing \"I am freaking the f out.\"",
       "anchored_artifacts": [
@@ -983,8 +979,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1491",
-      "ref": "C-1491",
+      "@id": "C-1494",
+      "ref": "C-1494",
       "label": "Mike Cernovich publicly discussed a cosmic \"energy shift\" in mid-April 2018",
       "claim": "Mike Cernovich posted a series of tweets around April 16, 2018 stating that high-consciousness people were reporting a paradigm-level energy shift that began two-to-three weeks earlier.",
       "anchored_artifacts": [
@@ -999,8 +995,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1492",
-      "ref": "C-1492",
+      "@id": "C-1495",
+      "ref": "C-1495",
       "label": "Candace concurs with Cernovich's \"energy shift\" framing",
       "claim": "Host asserts that Cernovich's tweets confirmed her and Charlie's contemporaneous experience of the same shift.",
       "anchored_artifacts": [
@@ -1015,8 +1011,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1493",
-      "ref": "C-1493",
+      "@id": "C-1496",
+      "ref": "C-1496",
       "label": "Kanye West publicly praised Candace Owens on April 21, 2018",
       "claim": "Kanye West posted \"I love the way Candace Owens thinks\" on April 21, 2018.",
       "anchored_artifacts": [
@@ -1031,8 +1027,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1494",
-      "ref": "C-1494",
+      "@id": "C-1497",
+      "ref": "C-1497",
       "label": "Scott Adams characterized Kanye's tweet as reality-altering",
       "claim": "Scott Adams, in commentary played on air, stated Kanye \"ripped a hole in reality with seven words\" and \"freed a lot of people from a mental prison.\"",
       "anchored_artifacts": [
@@ -1047,8 +1043,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1495",
-      "ref": "C-1495",
+      "@id": "C-1498",
+      "ref": "C-1498",
       "label": "Candace stated in the December 2018 UK Q&A that Hitler was not a nationalist",
       "claim": "In audio played on air, Candace states Hitler \"was a national socialist\" but argues he was not a nationalist because \"he wanted to globalize.\"",
       "anchored_artifacts": [
@@ -1063,8 +1059,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1496",
-      "ref": "C-1496",
+      "@id": "C-1499",
+      "ref": "C-1499",
       "label": "Andrew Kovett states Charlie drilled an emergency-call protocol into Mikey McCoy",
       "claim": "In TPUSA audio played on air, Andrew Kovett states Charlie repeatedly instructed Mikey that \"If anything ever happens to me, you call Erika,\" and that Mikey followed that protocol after the shot.",
       "anchored_artifacts": [
@@ -1082,8 +1078,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1497",
-      "ref": "C-1497",
+      "@id": "C-1500",
+      "ref": "C-1500",
       "label": "Andrew Kovett states Mikey McCoy was capturing social video, not on the phone, at the moment of the shot",
       "claim": "Kovett states Mikey was taking social-video clips for the TPUSA group chat at the time of the shot, with the phone in his hand only as he covered his ears due to the loud blast.",
       "anchored_artifacts": [
@@ -1100,8 +1096,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1498",
-      "ref": "C-1498",
+      "@id": "C-1501",
+      "ref": "C-1501",
       "label": "Alex Marlo characterizes online conspiracy allegations against Mikey McCoy as akin to drug/pornography addiction",
       "claim": "In Breitbart audio played on air, Alex Marlo characterizes suggestion that Mikey McCoy was part of a conspiracy to murder Charlie as \"vile\" and likens the mindset fueling such claims to drug or pornography addiction.",
       "anchored_artifacts": [
@@ -1117,8 +1113,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1499",
-      "ref": "C-1499",
+      "@id": "C-1502",
+      "ref": "C-1502",
       "label": "Frank Turk defends Mikey McCoy and rebukes Candace for advancing unevidenced claims",
       "claim": "Frank Turk states there is a \"difference between a possibility and evidence for a possibility,\" tells critics without evidence to \"shut up,\" and characterizes Mikey McCoy's actions on September 10, 2025 as heroic given his age (23) at the time.",
       "anchored_artifacts": [
@@ -1134,8 +1130,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1500",
-      "ref": "C-1500",
+      "@id": "C-1503",
+      "ref": "C-1503",
       "label": "A UVU Hospital internal message restricted access to a Charlie Kirk trauma file to two named individuals",
       "claim": "Host displays a UVU Hospital internal message dated September 10, 2025 (received per host at 20:08) instructing staff that only \"Deborah\" and \"Jacob Blank\" are allowed to access the trauma-patient chart.",
       "anchored_artifacts": [
@@ -1152,8 +1148,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1501",
-      "ref": "C-1501",
+      "@id": "C-1504",
+      "ref": "C-1504",
       "label": "A Charlie Kirk medical file existed at Utah Valley Hospital on September 10, 2025",
       "claim": "Host asserts that tipsters from UVU medical staff have confirmed that Charlie was admitted/entered into UVU's system, and that the internal memo at A-1278.1 corroborates the file's existence there.",
       "anchored_artifacts": [
@@ -1169,8 +1165,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1502",
-      "ref": "C-1502",
+      "@id": "C-1505",
+      "ref": "C-1505",
       "label": "Rob McCoy has a U.S. Navy background traceable to his father Roy Edgar McCoy",
       "claim": "George Webb states on air that Rob McCoy has a \"strange military background\" and was guiding Charlie toward a NAR-aligned apostolic movement; host asserts Rob McCoy's father Roy Edgar McCoy was a naval captain and assistant chief of staff for psychological warfare in the Navy.",
       "anchored_artifacts": [
@@ -1189,8 +1185,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1503",
-      "ref": "C-1503",
+      "@id": "C-1506",
+      "ref": "C-1506",
       "label": "The McCoy orbit is tied to the NAR-aligned Ziklag donor network",
       "claim": "George Webb states on air that Rob McCoy was connected to the New Apostolic Reformation (NAR) donor network Ziklag, described as \"$25 million and above\" Christian-right donors.",
       "anchored_artifacts": [
@@ -1207,8 +1203,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1504",
-      "ref": "C-1504",
+      "@id": "C-1507",
+      "ref": "C-1507",
       "label": "Brigitte Macron is registered on French tax forms as \"Jean Michelle\" male",
       "claim": "Host cites reporting, attributed to a French government official named Mr. Burme, that Brigitte Macron's French tax account lists her name as \"Jean Michelle\" and sex as male.",
       "anchored_artifacts": [
@@ -1223,8 +1219,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1505",
-      "ref": "C-1505",
+      "@id": "C-1508",
+      "ref": "C-1508",
       "label": "Candace rejects the official \"hacker\" explanation for the Macron tax-form discrepancy",
       "claim": "Host rejects the public suggestion that the \"Jean Michelle\" entry was the product of a hacker, arguing the risk/reward of hacking a sitting president's records solely to change a name entry is implausible.",
       "anchored_artifacts": [
@@ -1239,8 +1235,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1506",
-      "ref": "C-1506",
+      "@id": "C-1509",
+      "ref": "C-1509",
       "label": "Nathan Livingstone publicly complained after being issued a copyright strike for re-uploading Book Club content",
       "claim": "Host states Nathan Livingstone (\"Milk Bar TV\") re-uploaded Book Club content watermarked with his own branding, and after being issued a copyright strike publicly complained that Candace was trying to silence him.",
       "anchored_artifacts": [
@@ -1255,8 +1251,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1507",
-      "ref": "C-1507",
+      "@id": "C-1510",
+      "ref": "C-1510",
       "label": "Host discussed David Horowitz in Book Club / network context",
       "claim": "Host discusses David Horowitz in episode narrative (register anchor).",
       "anchored_artifacts": [
@@ -1271,8 +1267,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1508",
-      "ref": "C-1508",
+      "@id": "C-1511",
+      "ref": "C-1511",
       "label": "Host discussed John Mappen / Arena Mappen in Macron thread",
       "claim": "Host discusses John Mappen (Arena Mappen / Nina variants) in Macron-related segment.",
       "anchored_artifacts": [
@@ -1287,8 +1283,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1509",
-      "ref": "C-1509",
+      "@id": "C-1512",
+      "ref": "C-1512",
       "label": "Dr. Lee Trotter cited in medical / hospital thread",
       "claim": "Host references Dr. Lee Trotter in medical-report discussion (register anchor).",
       "anchored_artifacts": [
@@ -1303,8 +1299,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1510",
-      "ref": "C-1510",
+      "@id": "C-1513",
+      "ref": "C-1513",
       "label": "Dr. Deidra Weiss Amaro cited in UVU hospital message thread",
       "claim": "Host references Dr. Deidra Weiss Amaro in UVU trauma-file discussion (register anchor).",
       "anchored_artifacts": [

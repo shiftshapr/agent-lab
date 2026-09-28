@@ -9,14 +9,11 @@
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 6241b54a7915db7abb4c0bc68027046be07e04460fb2c475b8c12ef1fd182658
+- **Transcript SHA-256**: 981eded19a8e9c778e179bd351be0fdb2fc90685371d2c9f8d34c238ce5cc8ce
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-246, N-247, N-248, N-249, N-251, N-252, N-253, N-254, N-1246, N-1247, N-1248, N-1249, N-1250, N-1251, N-1252, N-1253, N-1254, N-1255, N-1256
   - Reused Nodes Appearing: 
-
-
-## 2. Executive Summary
 
 This episode advances the medical and evidentiary thread of the investigation by introducing what the host describes as multi-source verified intelligence about the trajectory of the bullet recovered from Charlie Kirk. The host reads aloud an Andrew Kolbatz tweet purporting to convey a surgeon's account of the bullet path, then asserts — as a fact-checked finding — that Charlie was shot from the front, that the bullet did not exit, and that no .30-06 projectile was logged on the death certificate.
 
@@ -40,7 +37,7 @@ Video Timestamp: 00:02:50–00:03:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (paraphrase read aloud; tweet itself not displayed)
 
-*Related: C-1427, C-1428, N-246, N-1246*
+*Related: C-1428, C-1429, N-246, N-1246*
 
 ---
 
@@ -54,7 +51,7 @@ Video Timestamp: 00:08:44–00:09:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1429, C-1430, N-247, N-1248*
+*Related: C-1430, C-1431, N-247, N-1248*
 
 ---
 
@@ -76,7 +73,7 @@ Video Timestamp: 00:14:50–00:15:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1431, C-1432, C-1433, C-1434, C-1435, C-1436, N-247, N-248, N-1248*
+*Related: C-1432, C-1433, C-1434, C-1435, C-1436, C-1437, N-247, N-248, N-1248*
 
 ---
 
@@ -90,7 +87,7 @@ Video Timestamp: 00:23:00–00:24:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1437, N-248, N-1246, N-1247*
+*Related: C-1438, N-248, N-1246, N-1247*
 
 ---
 
@@ -104,7 +101,7 @@ Video Timestamp: 00:27:27–00:28:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1438, N-1247*
+*Related: C-1439, N-1247*
 
 ---
 
@@ -118,7 +115,7 @@ Video Timestamp: 00:45:21–00:46:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1454, C-1455, N-42*
+*Related: C-1455, C-1456, N-42*
 
 ---
 
@@ -132,7 +129,7 @@ Video Timestamp: 00:48:09–00:48:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1456*
+*Related: C-1457*
 
 ---
 
@@ -146,7 +143,7 @@ Video Timestamp: 00:49:13–00:50:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1457, N-254*
+*Related: C-1458, N-254*
 
 ---
 
@@ -160,7 +157,7 @@ Video Timestamp: 00:53:09–00:53:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1458*
+*Related: C-1459*
 
 ---
 
@@ -175,7 +172,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1251.1, C-1427, C-1428, C-1459, N-1246*
+*Related: A-1251.1, C-1428, C-1429, C-1460, N-1246*
 
 ---
 
@@ -188,7 +185,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1252.1, A-1253.1, A-1253.2, C-1429, C-1430, C-1431, C-1432, C-1433, C-1434, C-1435, C-1436, N-248, N-1248*
+*Related: A-1252.1, A-1253.1, A-1253.2, C-1430, C-1431, C-1432, C-1433, C-1434, C-1435, C-1436, C-1437, N-248, N-1248*
 
 ---
 
@@ -201,7 +198,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1254.1, C-1437, N-1246, N-1247*
+*Related: A-1254.1, C-1438, N-1246, N-1247*
 
 ---
 
@@ -214,7 +211,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1439, N-1249*
+*Related: C-1440, N-1249*
 
 ---
 
@@ -227,7 +224,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1451, C-1452, N-1252*
+*Related: C-1452, C-1453, N-1252*
 
 ---
 
@@ -240,7 +237,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1259.1, C-1458*
+*Related: A-1259.1, C-1459*
 
 ---
 
@@ -253,7 +250,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1447, N-251*
+*Related: C-1448, N-251*
 
 ---
 
@@ -266,7 +263,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1258.1, C-1457*
+*Related: A-1258.1, C-1458*
 
 ---
 
@@ -279,7 +276,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1251.1, A-1254.1, C-1424, C-1425, C-1426, N-246, N-248*
+*Related: A-1251.1, A-1254.1, C-1425, C-1426, C-1427, N-246, N-248*
 
 ---
 
@@ -292,7 +289,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1254.1, A-1255.1, C-1437, C-1438, C-1460, N-248*
+*Related: A-1254.1, A-1255.1, C-1438, C-1439, C-1460, N-248*
 
 ---
 
@@ -305,7 +302,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1252.1, A-1253.1, A-1253.2, C-1429, C-1430, C-1431, C-1435, C-1436, N-247, N-248*
+*Related: A-1252.1, A-1253.1, A-1253.2, C-1430, C-1431, C-1432, C-1436, C-1437, N-247, N-248*
 
 ---
 
@@ -318,7 +315,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1439, N-249*
+*Related: C-1440, N-249*
 
 ---
 
@@ -331,7 +328,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1440, C-1441, C-1442, C-1443*
+*Related: C-1441, C-1442, C-1443, C-1444*
 
 ---
 
@@ -344,7 +341,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1444, C-1445, C-1446, N-1255*
+*Related: C-1445, C-1446, C-1447, N-1255*
 
 ---
 
@@ -357,7 +354,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1447, C-1448, C-1449, C-1450, C-1451, C-1452, C-1453, N-251, N-253*
+*Related: C-1448, C-1449, C-1450, C-1451, C-1452, C-1453, C-1454, N-251, N-253*
 
 ---
 
@@ -370,7 +367,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1256.1, C-1454, C-1455, N-42, N-252*
+*Related: A-1256.1, C-1455, C-1456, N-42, N-252*
 
 ---
 
@@ -383,7 +380,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1253.1, C-1431, N-247*
+*Related: A-1253.1, C-1432, N-247*
 
 ---
 
@@ -396,7 +393,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1445, N-1251*
+*Related: C-1446, N-1251*
 
 ---
 
@@ -409,13 +406,13 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1452, C-1453, N-1252*
+*Related: C-1453, C-1454, N-1252*
 
 ---
 
 ## 5. Claim Register
 
-**C-1424** Front Shot, No Exit
+**C-1425** Front Shot, No Exit
 
 Claim Timestamp: 00:03:37
 
@@ -427,7 +424,7 @@ Investigative Direction: Obtain autopsy / medical examiner records and forensic 
 
 ---
 
-**C-1425** Fragment Location Near Shoulder Blade
+**C-1426** Fragment Location Near Shoulder Blade
 
 Claim Timestamp: 00:05:03
 
@@ -439,7 +436,7 @@ Investigative Direction: Compare against autopsy report and forensic pathology i
 
 ---
 
-**C-1426** No .30-06 Projectile on Death Certificate
+**C-1427** No .30-06 Projectile on Death Certificate
 
 Claim Timestamp: 00:06:02
 
@@ -451,7 +448,7 @@ Investigative Direction: Obtain a certified copy of the death certificate and th
 
 ---
 
-**C-1427** Kolbatz Tweet Substance
+**C-1428** Kolbatz Tweet Substance
 
 Claim Timestamp: 00:02:50
 
@@ -463,7 +460,7 @@ Investigative Direction: Locate original Kolbatz tweet and verify direct quotes 
 
 ---
 
-**C-1428** Surgeon Quoted on Bullet Stopped
+**C-1429** Surgeon Quoted on Bullet Stopped
 
 Claim Timestamp: 00:03:01
 
@@ -475,7 +472,7 @@ Investigative Direction: Identify the named surgeon (if given) and confirm state
 
 ---
 
-**C-1429** Viral Clip Witness Account
+**C-1430** Viral Clip Witness Account
 
 Claim Timestamp: 00:08:44
 
@@ -487,7 +484,7 @@ Investigative Direction: Identify the witness and obtain a signed statement cons
 
 ---
 
-**C-1430** Pusher Not TPUSA or UVU Affiliated
+**C-1431** Pusher Not TPUSA or UVU Affiliated
 
 Claim Timestamp: 00:12:02
 
@@ -499,7 +496,7 @@ Investigative Direction: Identify the pusher and verify his institutional affili
 
 ---
 
-**C-1431** Cooper Brown Leadership Institute Affiliation
+**C-1432** Cooper Brown Leadership Institute Affiliation
 
 Claim Timestamp: 00:13:06
 
@@ -511,7 +508,7 @@ Investigative Direction: Confirm Leadership Institute employment records and ver
 
 ---
 
-**C-1432** Cooper Brown Fox News Night-Of Interview
+**C-1433** Cooper Brown Fox News Night-Of Interview
 
 Claim Timestamp: 00:13:06
 
@@ -523,7 +520,7 @@ Investigative Direction: Verify timestamp and full segment via Fox News archives
 
 ---
 
-**C-1433** Cooper Brown Fox News Next-Day Interview
+**C-1434** Cooper Brown Fox News Next-Day Interview
 
 Claim Timestamp: 00:13:58
 
@@ -535,7 +532,7 @@ Investigative Direction: Verify timestamp and full segment via Fox News archives
 
 ---
 
-**C-1434** Cooper Brown Microphone Role
+**C-1435** Cooper Brown Microphone Role
 
 Claim Timestamp: 00:14:50
 
@@ -547,7 +544,7 @@ Investigative Direction: Cross-reference event staff logs or volunteer rosters p
 
 ---
 
-**C-1435** Cooper Brown Resume — Southern New Hampshire University
+**C-1436** Cooper Brown Resume — Southern New Hampshire University
 
 Claim Timestamp: 00:16:16
 
@@ -559,7 +556,7 @@ Investigative Direction: Pull registrar verification or alumni records (subject 
 
 ---
 
-**C-1436** Same-Name SNHU Graduate Discrepancy
+**C-1437** Same-Name SNHU Graduate Discrepancy
 
 Claim Timestamp: 00:16:16
 
@@ -571,7 +568,7 @@ Investigative Direction: Confirm whether the female same-name individual is or i
 
 ---
 
-**C-1437** Jason Chaffetz Eyewitness — Close, Ahead
+**C-1438** Jason Chaffetz Eyewitness — Close, Ahead
 
 Claim Timestamp: 00:23:00
 
@@ -583,7 +580,7 @@ Investigative Direction: Confirm full segment and any subsequent Chaffetz statem
 
 ---
 
-**C-1438** Two-Shot Witness Account — Lyman Footage
+**C-1439** Two-Shot Witness Account — Lyman Footage
 
 Claim Timestamp: 00:27:27
 
@@ -595,7 +592,7 @@ Investigative Direction: Identify and re-interview the two women, and compare ag
 
 ---
 
-**C-1439** Dr. Deidra Weiss Amaro Appointment
+**C-1440** Dr. Deidra Weiss Amaro Appointment
 
 Claim Timestamp: 00:18:33
 
@@ -607,7 +604,7 @@ Investigative Direction: Locate Utah state announcement and prior employment rec
 
 ---
 
-**C-1440** Israeli Individual Listed as Caldera Founder
+**C-1441** Israeli Individual Listed as Caldera Founder
 
 Claim Timestamp: 00:30:39
 
@@ -619,7 +616,7 @@ Investigative Direction: Obtain Utah LLC formation records (pre-digitization, re
 
 ---
 
-**C-1441** Caldera Engineering Established 1997
+**C-1442** Caldera Engineering Established 1997
 
 Claim Timestamp: 00:31:26
 
@@ -631,7 +628,7 @@ Investigative Direction: Verify via Utah Division of Corporations records and tr
 
 ---
 
-**C-1442** Caldera Engineering Actor-Employee
+**C-1443** Caldera Engineering Actor-Employee
 
 Claim Timestamp: 00:30:39
 
@@ -643,7 +640,7 @@ Investigative Direction: Verify via LinkedIn / professional profile cross-checks
 
 ---
 
-**C-1443** Caldera Early Trademark Lawyer — Tyler Bowyer Connection
+**C-1444** Caldera Early Trademark Lawyer — Tyler Bowyer Connection
 
 Claim Timestamp: 00:32:52
 
@@ -655,7 +652,7 @@ Investigative Direction: Pull Arizona trademark filings and confirm attorney of 
 
 ---
 
-**C-1444** Plane N1098L — Military Aircraft
+**C-1445** Plane N1098L — Military Aircraft
 
 Claim Timestamp: 00:37:31
 
@@ -667,7 +664,7 @@ Investigative Direction: Pull FAA registry for N1098L and prior military tail as
 
 ---
 
-**C-1445** Plane N1098L — Las Vegas Aviation LLC
+**C-1446** Plane N1098L — Las Vegas Aviation LLC
 
 Claim Timestamp: 00:37:31
 
@@ -679,7 +676,7 @@ Investigative Direction: Confirm ownership via FAA registry and Nevada Secretary
 
 ---
 
-**C-1446** Plane N1098L — Texas to Utah Routing
+**C-1447** Plane N1098L — Texas to Utah Routing
 
 Claim Timestamp: 00:37:31
 
@@ -691,7 +688,7 @@ Investigative Direction: Pull ADS-B Exchange / FlightAware historical track for 
 
 ---
 
-**C-1447** Plane 888 — Maxwell Affiliation
+**C-1448** Plane 888 — Maxwell Affiliation
 
 Claim Timestamp: 00:39:09
 
@@ -703,7 +700,7 @@ Investigative Direction: Verify aircraft registration, ownership, and any link t
 
 ---
 
-**C-1448** Plane 888 — Page, Arizona Destination
+**C-1449** Plane 888 — Page, Arizona Destination
 
 Claim Timestamp: 00:39:09
 
@@ -715,7 +712,7 @@ Investigative Direction: Verify via filed flight plan and FBO records.
 
 ---
 
-**C-1449** Plane 888 — ADSB Transponder Turned Off
+**C-1450** Plane 888 — ADSB Transponder Turned Off
 
 Claim Timestamp: 00:39:09
 
@@ -727,7 +724,7 @@ Investigative Direction: Pull historical ADSB / radar track for the aircraft on 
 
 ---
 
-**C-1450** Kash Patel — Plane Never Stopped Transponding
+**C-1451** Kash Patel — Plane Never Stopped Transponding
 
 Claim Timestamp: 00:40:07
 
@@ -739,7 +736,7 @@ Investigative Direction: Locate Kash Patel's original statement (interview, pres
 
 ---
 
-**C-1451** Derek Maxwell — ATC Approval to Stop Transponding
+**C-1452** Derek Maxwell — ATC Approval to Stop Transponding
 
 Claim Timestamp: 00:40:07
 
@@ -751,7 +748,7 @@ Investigative Direction: Locate Maxwell's original Instagram post and any corrob
 
 ---
 
-**C-1452** Plane 888 — FBO Change Millionaire to Signature
+**C-1453** Plane 888 — FBO Change Millionaire to Signature
 
 Claim Timestamp: 00:40:53
 
@@ -763,7 +760,7 @@ Investigative Direction: Verify via FBO records at Page, Arizona (Millionaire an
 
 ---
 
-**C-1453** Signature FBO Contradicting Statements
+**C-1454** Signature FBO Contradicting Statements
 
 Claim Timestamp: 00:41:40
 
@@ -775,7 +772,7 @@ Investigative Direction: Identify the employee and obtain signed statement; cros
 
 ---
 
-**C-1454** Josh Hammer Released Text Messages
+**C-1455** Josh Hammer Released Text Messages
 
 Claim Timestamp: 00:45:21
 
@@ -787,7 +784,7 @@ Investigative Direction: Verify release date and source channel.
 
 ---
 
-**C-1455** Text Message Content — Standard Exchange
+**C-1456** Text Message Content — Standard Exchange
 
 Claim Timestamp: 00:45:21
 
@@ -799,7 +796,7 @@ Investigative Direction: Obtain the full thread (including timestamps and any pr
 
 ---
 
-**C-1456** Trump Truth Social — Israel/Hamas Phase One Announcement
+**C-1457** Trump Truth Social — Israel/Hamas Phase One Announcement
 
 Claim Timestamp: 00:48:09
 
@@ -811,7 +808,7 @@ Investigative Direction: Verify exact post text and time stamp via Trump's Truth
 
 ---
 
-**C-1457** Jared Kushner Harvard Speech — Gaza "Waterfront Property"
+**C-1458** Jared Kushner Harvard Speech — Gaza "Waterfront Property"
 
 Claim Timestamp: 00:49:13
 
@@ -823,7 +820,7 @@ Investigative Direction: Verify full Harvard event recording and transcript.
 
 ---
 
-**C-1458** Matt Walsh — "Too on the Nose" Comment
+**C-1459** Matt Walsh — "Too on the Nose" Comment
 
 Claim Timestamp: 00:53:09
 
@@ -835,7 +832,7 @@ Investigative Direction: Verify clip source and full Matt Walsh segment.
 
 ---
 
-**C-1459** Kolbatz Not in Viral Push Video
+**C-1460** Kolbatz Not in Viral Push Video
 
 Claim Timestamp: 00:10:16
 

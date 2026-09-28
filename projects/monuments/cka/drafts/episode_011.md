@@ -9,16 +9,11 @@
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: e3248de9a9c8ac785ac7f5841ce0455bb2650fba1baedae1ddc011bbe1dafb06
+e8c1a85c85a914d7ab71315326ce9f09344096413e804ca240db71899ffb485
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-176, N-177, N-179, N-180, N-181, N-1207, N-1208, N-1209, N-1210, N-1211
   - Reused Nodes Appearing: 
-
-## I. Meta-Data
-
-- Episode Title: They Are Lying About Tyler Robinson. | Candace Ep 244
-- Series Title: Bride of Charlie (Monument)
 - Episode Number: Monument Ep 11 (Batch 1)
 - Channel / Creator: Candace Owens (@RealCandaceO)
 - Episode Date: 2025-09-29

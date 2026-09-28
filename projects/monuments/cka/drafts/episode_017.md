@@ -9,17 +9,11 @@
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 110a9acb6728d3f0e1a80f687aa173bbbcf0be314ec3fd0b8fa06b9838dce112
+- **Transcript SHA-256**: e4286a0b61383af611c043d024b0489af5ef017ef3077d05883a51910942c352
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-226, N-227, N-228, N-229, N-231, N-232, N-233, N-234, N-235, N-236, N-237, N-238, N-239, N-240, N-241, N-242, N-243, N-245, N-1240, N-1241, N-1242, N-1243, N-1244, N-1245
   - Reused Nodes Appearing: 
-
-**Artifact Families Introduced:** A-1236, A-1237, A-1238, A-1239, A-1240, A-1241, A-1242, A-1243, A-1244, A-1245, A-1246, A-1247, A-1248, A-1249, A-1250
-
-**Claim Range:** C-1404–C-1423
-
-**New Nodes Introduced:** N-42, N-226, N-227, N-228, N-229, N-85, N-231, N-232, N-233, N-234, N-235, N-236, N-237, N-238, N-239, N-240, N-241, N-242, N-243, N-1240, N-1241, N-1242, N-1243, N-1244, N-1245
 
 **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk — referenced via text-message claims), N-? (Candace Owens), N-? (Tucker Carlson), N-? (Tyler Robinson), N-? (Benjamin Netanyahu), N-? (Megyn Kelly), N-? (Matt Gaetz), N-? (Michael Knowles), N-? (Ian Carroll), N-? (Max Blumenthal)
 

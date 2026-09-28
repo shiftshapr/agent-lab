@@ -3,19 +3,15 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 14,
-    "series": "Candace Kirk Archive",
+    "series": "Bride of Charlie",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:54:06",
+    "video_timestamp_range": "00:00:00–00:56:29",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "3e34fb6edbf62864ad59f7d26b4ae5961c44c877713444ab2a6a5ba23c4d53e1",
-    "analysis_date": "2026-09-27",
-    "monument": "cka",
-    "youtube_id": "t1YtLS1n8Vs",
-    "candace_ep_number": 247,
-    "kind": "numbered_show"
+    "transcript_sha256": "9c5eaae09f60b1222748149513f2956bb4921fb32cb85837a09931b9ec7b9bff",
+    "analysis_date": "2026-09-27"
   },
   "executive_summary": "",
   "artifacts": [

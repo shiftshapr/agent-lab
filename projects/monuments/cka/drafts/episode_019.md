@@ -9,16 +9,11 @@
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 3975718372f80b6f8cb46a2d9838a64bef33712d80f8fd9cb5407d96f7900b2d
+- **Transcript SHA-256**: 8e12049f89e89a3afb605eb38161af512cd6a84eb73ff7723fadfa63f47de64d
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-255, N-256, N-257, N-258, N-259, N-260, N-261, N-262, N-263, N-264, N-265, N-266, N-267, N-1257, N-1258, N-1259, N-1260, N-1261
   - Reused Nodes Appearing: 
-
-## I. Meta-Data
-
-- **Episode title:** Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252
-- **Series title:** Candace Kirk Archive
 - **Monument Episode:** 19
 - **Batch:** 9
 - **Channel / creator:** Candace Owens (@RealCandaceO)

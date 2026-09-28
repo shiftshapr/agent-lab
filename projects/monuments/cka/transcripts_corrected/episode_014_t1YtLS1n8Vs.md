@@ -11,7 +11,6 @@ url: https://www.youtube.com/watch?v=t1YtLS1n8Vs
 caption_source: yt-dlp-manual
 source: YouTube captions, cleaned with video context
 ---
-
 # INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247
 
 Monument Ep 14 · Batch 4 · Candace Owens · 2025-10-02 · 54:06
@@ -131,8 +130,6 @@ We've got Robbie Hild in Spain. We've got Robbie Hild all over. All over. And so
 
 [25:23]
 
-Each year, Riverbend Ranch provides about 850 elite black Angus bulls containing these special genetics to over 260 western US ranches. Those partnership ranches receive a substantial premium from Riverbend Ranch for raising those calves without the use of any growth hormones um and without any antibiotics. And every fall, the calves containing these elite genetics return to the Riverbend Ranch to spend this following summer in Lush Mountain pastures. When you purchase from Riverbend Ranch, you are not only supporting the 64 cowboys and their families who work on that ranch, but also supporting the over 260 other US ranches and the hundreds of American families who work on those ranches. It is born in the USA, raised in the USA, processed right here in the USA. Their meat is aged to perfection for 21 days, and shipped directly from the ranch to your home. This is not your average black Angus beef. This is more flavorful and more tender than even the best Angus beef that I've ever tasted. Right now, when you head over to riverbendranch. com, you can use promo code Candace at checkout and you'll get $20 off your first order. Trust me, you're going to be so impressed. So, visit riverbendranch. com and use promo code Candace at checkout. also telling you guys about Comet. Uh because how much time do you spend every day on a web browser? How much time do you spend clicking around online searching, scrolling, typing endless tabs? It's a lot, especially if you're me and always researching something. Well, there is a new AI web browser from Perplexity that is called Comet. That is it is completely changing the way that you're able to interact with your browser.
-
 [26:46]
 
 Using Comet feels like having a personal assistant living in your web browser that can actually do things for you across the internet. Yes. Actually doing things, not just giving you answers. You can ask Comet to do things for you and it literally clicks, types, searches, scrolls for you. What I love most about Comet is that it can take weekn night chaos and turn it into simple, stress-free dinners with just a few taps. I get personalized meal plans based on my family's preferences. Comet orders the groceries for me and it gets them delivered right to the door. Comet can shop for you, make reservations, book travel, summarize articles or videos, send emails, schedule meetings, and a lot more. It just makes your life easier. So go and take back your time online. and download Perplexity's new web browser, Comet, and let it work for you, not the other way around. Check it out at pplxx. ai/candis.
@@ -203,11 +200,7 @@ More tips@candowens. com. If you have a tip pertaining to what took place on tha
 
 [40:27]
 
-Providing life-saving ultrasounds, resources for moms in need, and real hope for families. And it all started with one simple idea. Use your morning coffee to stand for life. 7 weeks coffee is more than a great tasting coffee. It's mold free, pesticidefree, shade grown, low acid, and it's organically farmed. So, it checks all the boxes. You can head to 7weeksc coffee. com and you'll save 15% forever when you subscribe. And you'll also get a free gift. Plus, exclusively for my listeners, if you use code Candace at checkout, you'll get an extra 10% off your first order. So, that's a total of 25% total savings on your first order, plus a free gift. Remember that your order will directly help support a network of over 10,000 pro-life organizations across the US. So visit 7weeksc coffee. com and use promo code candace today. Also reminding you guys about American financing because we all see that the cost of everything is still out of control. Many of us are relying on credit cards to cover the essentials.
-
 [41:19]
-
-If that debt is piling up and you are overwhelmed, you should know that you are not alone. Americans collectively owe over 1 trillion in credit card debt. You might have considered reaching out to my friends in American Financing but maybe decided against it because you don't want to give up your low mortgage rate that you're currently enjoying. Well, there's good news. They have created the smart equity loan which is a solution that's designed to help you take control of your finances without touching your current mortgage. Unlike a heliloc which uh can have varied interest rates, the smart equity loan offers a fixed rate which means one predictable monthly payment which gives you peace of mind. This loan allows you to leverage the equity in your home to pay off that high interest debt, free up your cash flow, plus keep your existing low mortgage rate intact. It only takes 10 minutes to get started. There's no upfront fees. You can call American Financing and you'll start saving now.
 
 [42:04]
 
