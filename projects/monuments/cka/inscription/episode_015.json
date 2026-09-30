@@ -1,0 +1,814 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 15,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "85c009a9696e6d09206abec6ccb733f9bd4c300b70a081ff0aa259cf4d192e45",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode advances the Bride of Charlie investigation by focusing on Turning Point USA's (TPUSA) defensive public posture following the Charlie Kirk assassination. The host introduces six discrete evidentiary families: Tyler Bowyer's (COO, TP Action) X/Twitter responses defending SD card handling, audit history, and campus footage release; Andrew Kolvet's Tucker Carlson interview explaining the SD card removal; the September 18, 2025 Wall Street Journal profile of Alex Clark; Rob McCoy's (TPUSA Faith Division) Instagram post responding to the Hampton's meeting reveal; a purported group chat dated 2 days before the assassination, on which Candace identifies Charlie Kirk, Rob McCoy, and Josh Hammer as participants; and an unnamed pastor's September 21, 2025 sermon attacking Candace and Nick Fuentes.\n\nThe episode raises two primary investigative questions: (1) whether the official SD card removal explanation is internally consistent (Kolvet's theft-prevention account vs. Bowyer's law-enforcement-instruction account vs. the host's undisclosed-source account), and (2) the verifiable content of the pre-assassination group chat including Charlie Kirk's stated intention to leave the pro-Israel cause. The structural importance is the introduction of conflicting artifact-anchored accounts of post-assassidence camera handling — a discrepancy ripe for cross-referencing with FBI/DoJ record releases.\n\nThe episode also reasserts prior narrative threads (Charlie Kirk's Catholic trajectory, Hampton's meeting, the DoJ department memo) without displaying new artifacts for them; these are flagged as cross-episode references.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1220",
+      "family_ref": "A-1220",
+      "bundle_name": "Tyler Bowyer X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1220.1",
+          "ref": "A-1220.1",
+          "description": "Tyler Bowyer X post — SD card removal defense",
+          "related_claims": [
+            "C-1366",
+            "C-1370",
+            "C-1371"
+          ],
+          "related_nodes": [
+            "N-85",
+            "N-1228"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:03",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1220.2",
+          "ref": "A-1220.2",
+          "description": "Tyler Bowyer X post — DoJ department / audit denial",
+          "related_claims": [
+            "C-1368",
+            "C-1379"
+          ],
+          "related_nodes": [
+            "N-85"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1220.3",
+          "ref": "A-1220.3",
+          "description": "Tyler Bowyer X post — campus footage release",
+          "related_claims": [
+            "C-1367"
+          ],
+          "related_nodes": [
+            "N-85",
+            "N-1231"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1221",
+      "family_ref": "A-1221",
+      "bundle_name": "Andrew Kolvet Tucker Carlson Interview Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1221.1",
+          "ref": "A-1221.1",
+          "description": "Kolvet statement on SD card removal",
+          "related_claims": [
+            "C-1369",
+            "C-1370"
+          ],
+          "related_nodes": [
+            "N-210",
+            "N-1228"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1222",
+      "family_ref": "A-1222",
+      "bundle_name": "Wall Street Journal Article — Alex Clark Profile",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1222.1",
+          "ref": "A-1222.1",
+          "description": "WSJ article published September 18, 2025",
+          "related_claims": [
+            "C-1372",
+            "C-1373"
+          ],
+          "related_nodes": [
+            "N-211",
+            "N-1232"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1223",
+      "family_ref": "A-1223",
+      "bundle_name": "Alex Clark Instagram Post",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1223.1",
+          "ref": "A-1223.1",
+          "description": "Alex Clark IG share of Tyler Bowyer DoJ-department tweet",
+          "related_claims": [
+            "C-1379"
+          ],
+          "related_nodes": [
+            "N-211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1224",
+      "family_ref": "A-1224",
+      "bundle_name": "Pastor Rob McCoy Instagram Post",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1224.1",
+          "ref": "A-1224.1",
+          "description": "McCoy post responding to Hamptons meeting reveal",
+          "related_claims": [
+            "C-1374"
+          ],
+          "related_nodes": [
+            "N-212",
+            "N-1232"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:08",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1225",
+      "family_ref": "A-1225",
+      "bundle_name": "Pre-Assassination Group Chat Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1225.1",
+          "ref": "A-1225.1",
+          "description": "Charlie Kirk message — lost $2M/year Jewish donor",
+          "related_claims": [
+            "C-1375",
+            "C-1376"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1229"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1225.2",
+          "ref": "A-1225.2",
+          "description": "Charlie Kirk message — refusing to be bullied",
+          "related_claims": [
+            "C-1376"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1229",
+            "N-1230"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1225.3",
+          "ref": "A-1225.3",
+          "description": "Donor reply — counsel against inviting Candace",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1229"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1225.4",
+          "ref": "A-1225.4",
+          "description": "Candace verbal identification of Josh Hammer as participant",
+          "related_claims": [
+            "C-1377"
+          ],
+          "related_nodes": [
+            "N-42",
+            "N-1229"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1226",
+      "family_ref": "A-1226",
+      "bundle_name": "Pastor Sermon Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1226.1",
+          "ref": "A-1226.1",
+          "description": "Unnamed \"Judeo-Christian\" pastor sermon, September 21, 2025",
+          "related_claims": [
+            "C-1378"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-210",
+      "ref": "N-210",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson; appeared on Tucker Carlson show to explain SD card removal. His account is in conflict with Bowyer's account and the host's account.",
+      "related_artifacts": [
+        "A-1221.1"
+      ],
+      "related_claims": [
+        "C-1369"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1228"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-211",
+      "ref": "N-211",
+      "name": "Alex Clark",
+      "type": "person",
+      "description": "Host of TPUSA's \"Culture Apothecary\" podcast; subject of WSJ profile; Instagram amplifier of Bowyer's defense statements.",
+      "related_artifacts": [
+        "A-1222.1",
+        "A-1223.1"
+      ],
+      "related_claims": [
+        "C-1372",
+        "C-1373",
+        "C-1379"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1232"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-212",
+      "ref": "N-212",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "TPUSA Faith Division head; pastor who publicly responded to Hampton's meeting reveal with criticism of Candace. His son and daughter-in-law reportedly work for TPUSA (host assertion, no artifact — flagged).",
+      "related_artifacts": [
+        "A-1224.1",
+        "A-1225.4"
+      ],
+      "related_claims": [
+        "C-1374"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1232"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1228",
+      "ref": "N-1228",
+      "name": "SD Card Removal Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent inconsistency between three artifact-anchored accounts: (1) Kolvet's theft-prevention rationale, (2) Bowyer's law-enforcement-instruction rationale, (3) host's phone-conversation rationale (no artifact — flagged).",
+      "related_artifacts": [
+        "A-1220.1",
+        "A-1221.1"
+      ],
+      "related_claims": [
+        "C-1366",
+        "C-1369",
+        "C-1370"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-85",
+        "N-210"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1229",
+      "ref": "N-1229",
+      "name": "Pre-Assassination Group Chat Content",
+      "type": "investigation_target",
+      "description": "Group chat dated 2025-09-08 (per host assertion), 9 participants, including Charlie Kirk, Rob McCoy, and Josh Hammer. Contains statements attributed to Kirk about leaving the pro-Israel cause.",
+      "related_artifacts": [
+        "A-1225.1",
+        "A-1225.2",
+        "A-1225.3",
+        "A-1225.4"
+      ],
+      "related_claims": [
+        "C-1375",
+        "C-1376",
+        "C-1377"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-212",
+        "N-42"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1230",
+      "ref": "N-1230",
+      "name": "Charlie Kirk Catholic Trajectory Verification",
+      "type": "investigation_target",
+      "description": "Persistent thread across the series regarding Charlie Kirk's movement toward Catholicism (mass attendance, rosary, Saint Michael pendant, priest visits). Re-asserted in this episode via prior-episode references; no new artifact displayed in this episode for the underlying facts.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1231",
+      "ref": "N-1231",
+      "name": "Campus Footage Release Strategy Question",
+      "type": "investigation_target",
+      "description": "Bowyer's assertion that extensive campus footage exists but will not be released until trial — and the host's counter-argument that footage should have been deployed during the 33-hour manhunt.",
+      "related_artifacts": [
+        "A-1220.3"
+      ],
+      "related_claims": [
+        "C-1367"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-85"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1232",
+      "ref": "N-1232",
+      "name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
+      "type": "investigation_target",
+      "description": "Host's assertion that McCoy's son and daughter-in-law work for TPUSA and that McCoy heads its Faith Division, creating a financial stake in Kirk's religious trajectory. Host assertion only — no artifact in this episode.",
+      "related_artifacts": [
+        "A-1224.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-211",
+        "N-212"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1233",
+      "ref": "N-1233",
+      "name": "Tyler Bowyer X Defense Pattern",
+      "type": "investigation_target",
+      "description": "Tyler Bowyer's weekend X/Twitter activity broadly defending TPUSA against public scrutiny across three discrete matters (SD cards, audits/DoJ, campus footage).",
+      "related_artifacts": [
+        "A-1220.1",
+        "A-1220.2",
+        "A-1220.3"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-85"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Deceased founder of Turning Point USA; subject of financial concerns expressed one week before his death; subject of the assassination investigation.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Widow of Charlie Kirk, discussed in episode as new CEO/chairman of TPUSA. Host defends her against public criticism of fundraising emails.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Governor Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1366",
+      "ref": "C-1366",
+      "label": "Bowyer SD card removal account — law enforcement instruction",
+      "claim": "Tyler Bowyer publicly stated on X that TPUSA staff removed SD cards because law enforcement officers asked them to do so before the campus lockdown.",
+      "anchored_artifacts": [
+        "A-1220.1"
+      ],
+      "related_nodes": [
+        "N-85",
+        "N-1228"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:03",
+      "investigative_direction": "Obtain Bowyer's original tweet via X/Twitter archive; cross-reference against FBI or university police statements from September 10, 2025."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1367",
+      "ref": "C-1367",
+      "label": "Bowyer campus footage release stance",
+      "claim": "Tyler Bowyer publicly stated that camera footage exists across the Utah Valley University campus but will not be released until trial.",
+      "anchored_artifacts": [
+        "A-1220.3"
+      ],
+      "related_nodes": [
+        "N-85",
+        "N-1231"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:20",
+      "investigative_direction": "FOIA requests to UVU police department; compare against DOJ statements on evidentiary release timing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1368",
+      "ref": "C-1368",
+      "label": "Bowyer audit / DoJ department denial",
+      "claim": "Tyler Bowyer publicly stated that TPUSA has audited annually and that the host conflated the audit with a proposed new DoJ department.",
+      "anchored_artifacts": [
+        "A-1220.2"
+      ],
+      "related_nodes": [
+        "N-85"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:21",
+      "investigative_direction": "Obtain TPUSA Form 990 filings via ProPublica Nonprofit Explorer; cross-reference against the previously displayed internal memo referenced in earlier episodes."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1369",
+      "ref": "C-1369",
+      "label": "Kolvet SD card removal account — theft prevention",
+      "claim": "Andrew Kolvet, speaking on Tucker Carlson's show, stated that a TPUSA friend/staffer removed the SD cards because he feared theft (citing hat theft from the table) and turned them over to the FBI.",
+      "anchored_artifacts": [
+        "A-1221.1"
+      ],
+      "related_nodes": [
+        "N-210",
+        "N-1228"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:06",
+      "investigative_direction": "Obtain full clip; cross-reference against FBI evidentiary custody records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1370",
+      "ref": "C-1370",
+      "label": "Conflicting SD card removal accounts (Kolvet vs. Bowyer)",
+      "claim": "The host asserts that Kolvet's stated rationale (fear of theft) and Bowyer's stated rationale (law enforcement instruction) for the SD card removal are in conflict.",
+      "anchored_artifacts": [
+        "A-1220.1",
+        "A-1221.1"
+      ],
+      "related_nodes": [
+        "N-85",
+        "N-210",
+        "N-1228"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:03",
+      "investigative_direction": "Subpoena or FOIA records of communication between TPUSA staff, Andrew Kolvet, Tyler Bowyer, and UVU/FBI personnel regarding the SD card handling between September 10–12, 2025."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1371",
+      "ref": "C-1371",
+      "label": "Unflagged host assertion — phone call with TPUSA SD card individual",
+      "claim": "The host asserts she personally spoke with the TPUSA individual who removed the SD cards and that he stated his motivation was to spare Erika from re-viewing the footage — not police instruction or theft concerns.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1228"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:39",
+      "investigative_direction": "Independent corroboration required; flag for human verification. (Failed admission test — artifact anchor absent in this episode.)"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1372",
+      "ref": "C-1372",
+      "label": "Wall Street Journal article quotes Alex Clark",
+      "claim": "A Wall Street Journal article published September 18, 2025 featured Alex Clark at the Charlie Kirk memorial site and quoted her as saying her first thought upon hearing of the shooting was \"I'm so glad that Charlie knew Jesus,\" and her third thought was \"Thank God Trump is president.\"",
+      "anchored_artifacts": [
+        "A-1222.1"
+      ],
+      "related_nodes": [
+        "N-211",
+        "N-1232"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:10",
+      "investigative_direction": "Obtain original WSJ article via ProQuest or LexisNexis to verify exact wording and photographic attribution."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1373",
+      "ref": "C-1373",
+      "label": "WSJ article — Clark praise of Patel and Bongino",
+      "claim": "The same WSJ article quotes Alex Clark as praising FBI director Kash Patel and deputy Dan Bongino for their leadership in the suspect hunt, stating \"we have them in office because of Charlie.\"",
+      "anchored_artifacts": [
+        "A-1222.1"
+      ],
+      "related_nodes": [
+        "N-211",
+        "N-1232"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:03",
+      "investigative_direction": "Verify quote against the original WSJ article."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1374",
+      "ref": "C-1374",
+      "label": "Rob McCoy Instagram post responding to Hamptons meeting",
+      "claim": "Pastor Rob McCoy (TPUSA Faith Division head) published an Instagram post after the host's revelation of the Hamptons meeting, criticizing the host for not behaving as a friend to Charlie during the mourning period.",
+      "anchored_artifacts": [
+        "A-1224.1"
+      ],
+      "related_nodes": [
+        "N-212",
+        "N-1232"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:08",
+      "investigative_direction": "Obtain post directly from McCoy's Instagram; verify timestamp and provenance."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1375",
+      "ref": "C-1375",
+      "label": "Charlie Kirk group chat statement — lost $2M/year Jewish donor",
+      "claim": "A group chat dated 2 days before Charlie Kirk's assassination contained a message attributed to Charlie Kirk stating he had lost a $2 million/year Jewish donor over TPUSA's refusal to cancel Tucker Carlson, and that he was considering inviting Candace Owens.",
+      "anchored_artifacts": [
+        "A-1225.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1229",
+        "N-1230"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:50",
+      "investigative_direction": "Independent forensic authentication of chat metadata and participant identities; flag — original chat provenance not independently confirmed."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1376",
+      "ref": "C-1376",
+      "label": "Charlie Kirk group chat statement — refusing to be bullied / leaving pro-Israel cause",
+      "claim": "The same group chat contained a message attributed to Charlie Kirk stating \"I cannot and will not be bullied like this. Leaving me no choice but to leave the pro-Israel cause.\"",
+      "anchored_artifacts": [
+        "A-1225.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1229",
+        "N-1230"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:50",
+      "investigative_direction": "Independent forensic authentication of chat; cross-reference against donor records and any contemporaneous statements from Kirk on the topic."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1377",
+      "ref": "C-1377",
+      "label": "Josh Hammer identified as group chat participant",
+      "claim": "The host verbally identifies Josh Hammer as a participant on the pre-assassination group chat.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-42",
+        "N-1229"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:45",
+      "investigative_direction": "Direct forensic confirmation of Hammer's presence in the chat (e.g., phone number, handle)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1378",
+      "ref": "C-1378",
+      "label": "Pastor sermon clip — Candace / Fuentes defiled framing",
+      "claim": "An unnamed \"Judeo-Christian\" pastor delivered a sermon on September 21, 2025, using 2 Corinthians 7:1 to characterize Candace Owens and Nick Fuentes as \"defiled\" by the issue of the modern state of Israel.",
+      "anchored_artifacts": [
+        "A-1226.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:52",
+      "investigative_direction": "Obtain full sermon recording; identify delivering church for archival purposes."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1379",
+      "ref": "C-1379",
+      "label": "Alex Clark Instagram amplification of Bowyer DoJ department defense",
+      "claim": "Alex Clark shared Tyler Bowyer's X post defending TPUSA on the DoJ department matter on her Instagram, which the host characterizes as \"half-truth PR spin.\"",
+      "anchored_artifacts": [
+        "A-1223.1",
+        "A-1220.2"
+      ],
+      "related_nodes": [
+        "N-211",
+        "N-85"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:45",
+      "investigative_direction": "Direct verification of Alex Clark's Instagram post; the host's characterization is interpretive commentary (flag)."
+    }
+  ],
+  "memes": []
+}

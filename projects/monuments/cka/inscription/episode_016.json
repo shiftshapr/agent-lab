@@ -1,0 +1,1304 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 16,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "a67d2c57c7c81de9731b935fd270a362febe1186dc3ae158635d449cb863c772",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1227",
+      "family_ref": "A-1227",
+      "bundle_name": "X / Twitter Response Bundle (Oct 2025, in response to Candace's text release)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1227.1",
+          "ref": "A-1227.1",
+          "description": "Mel tweet responding to Ashton Forbes about Telegram scams and Candace's text messages",
+          "related_claims": [
+            "C-1387"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:23",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1227.2",
+          "ref": "A-1227.2",
+          "description": "Britta tweet accusing Candace of posting fake group-chat screenshots to back her narrative",
+          "related_claims": [
+            "C-1387"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:09",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1227.3",
+          "ref": "A-1227.3",
+          "description": "Morgan Ariel tweet observing that Laura Loomer had not posted about Candace's text reporting",
+          "related_claims": [],
+          "related_nodes": [
+            "N-222"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:26",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1227.4",
+          "ref": "A-1227.4",
+          "description": "Laura Loomer tweet dismissing Candace's reporting as \"postpartum psychotic rants\"",
+          "related_claims": [
+            "C-1388"
+          ],
+          "related_nodes": [
+            "N-222"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:26",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1227.5",
+          "ref": "A-1227.5",
+          "description": "Britta tweet criticizing Candace's use of \"Blitzkrieg\" terminology and accusing her of inciting TPUSA employee harassment",
+          "related_claims": [],
+          "related_nodes": [
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:06",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1227.6",
+          "ref": "A-1227.6",
+          "description": "Nick Fuentes tweet questioning why Candace sat on the texts for four weeks before releasing them",
+          "related_claims": [
+            "C-1389"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:11",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1227.7",
+          "ref": "A-1227.7",
+          "description": "The Quartering tweet asking what the texts actually prove, if real",
+          "related_claims": [
+            "C-1390"
+          ],
+          "related_nodes": [
+            "N-221"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:01",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1227.8",
+          "ref": "A-1227.8",
+          "description": "Misfit Patriot tweet offering \"every shekele\" if texts are fake, with Community Notes update citing Andrew Kovette's confirmation of the screen grab",
+          "related_claims": [
+            "C-1391"
+          ],
+          "related_nodes": [
+            "N-214"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:48",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1228",
+      "family_ref": "A-1228",
+      "bundle_name": "Andrew Kovette — Charlie Kirk Show Audio (2025-10-07)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1228.1",
+          "ref": "A-1228.1",
+          "description": "Kovette confirms the text-message screen grab is authentic (\"a text grab…that I had shared with people. So it is authentic\")",
+          "related_claims": [
+            "C-1380"
+          ],
+          "related_nodes": [
+            "N-214"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:00",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1228.2",
+          "ref": "A-1228.2",
+          "description": "Kovette states he shared the screen grab with \"some people in government\" within the first 33 hours and \"didn't know where it went from there\"",
+          "related_claims": [
+            "C-1381"
+          ],
+          "related_nodes": [
+            "N-214"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:24",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1228.3",
+          "ref": "A-1228.3",
+          "description": "Blake (Charlie Kirk Show co-host) states he is an eyewitness to events and has been advised not to comment publicly",
+          "related_claims": [
+            "C-1383"
+          ],
+          "related_nodes": [
+            "N-224"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:13",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1228.4",
+          "ref": "A-1228.4",
+          "description": "Kovette describes Charlie's feelings about Israel as \"complicated,\" \"nuanced,\" and a \"wrestle that was going on for months,\" located between the BB Netanyahu letter and the text chain",
+          "related_claims": [
+            "C-1382"
+          ],
+          "related_nodes": [
+            "N-214",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:46",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1229",
+      "family_ref": "A-1229",
+      "bundle_name": "Robert J. O'Neill — Piers Morgan Show Audio",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1229.1",
+          "ref": "A-1229.1",
+          "description": "O'Neill states the visible wound appeared to be an exit wound, not an entry wound (\"we saw an exit wound\")",
+          "related_claims": [
+            "C-1384"
+          ],
+          "related_nodes": [
+            "N-216"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:21",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1229.2",
+          "ref": "A-1229.2",
+          "description": "O'Neill questions the right-to-left shirt movement as inconsistent with his experience shooting people",
+          "related_claims": [
+            "C-1385"
+          ],
+          "related_nodes": [
+            "N-216"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:02",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1229.3",
+          "ref": "A-1229.3",
+          "description": "O'Neill states the crime scene was torn down and \"paved over\"",
+          "related_claims": [
+            "C-1386"
+          ],
+          "related_nodes": [
+            "N-216"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:51",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1230",
+      "family_ref": "A-1230",
+      "bundle_name": "Tucker Carlson / Conrad Flynn Audio Clip (Pontius Pilate / prophetic-dreamer discussion)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1230.1",
+          "ref": "A-1230.1",
+          "description": "Conrad Flynn discusses Pontius Pilate's wife as a prophetic dreamer, with Carlson recounting that his own wife's intuition \"is such that you don't ignore it\"",
+          "related_claims": [
+            "C-1396"
+          ],
+          "related_nodes": [
+            "N-220",
+            "N-222"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:56",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1231",
+      "family_ref": "A-1231",
+      "bundle_name": "John and Arena Mappin Public Letter (read on air)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1231.1",
+          "ref": "A-1231.1",
+          "description": "Mappin letter supporting Candace's investigation, asserting Charlie would have done the same for Candace, calling for authorities to share evidence with Candace's team, and stating few believe the official version",
+          "related_claims": [
+            "C-1392",
+            "C-1394",
+            "C-1395"
+          ],
+          "related_nodes": [
+            "N-217",
+            "N-218"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:14",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1231.2",
+          "ref": "A-1231.2",
+          "description": "Mappin letter section stating \"we have been receiving calls from senior Republicans and from Turning Point donors who agree with her…they are terrified to voice their views publicly\"",
+          "related_claims": [
+            "C-1393"
+          ],
+          "related_nodes": [
+            "N-217",
+            "N-218"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:54",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1232",
+      "family_ref": "A-1232",
+      "bundle_name": "Charlie Kirk Group Text Chain (released prior to episode; Josh Hammer named participant)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1232.1",
+          "ref": "A-1232.1",
+          "description": "Group text chain referencing \"Hey, Josh Hammer received this message\" and discussing Israel position changes",
+          "related_claims": [
+            "C-1380",
+            "C-1382"
+          ],
+          "related_nodes": [
+            "N-42",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1233",
+      "family_ref": "A-1233",
+      "bundle_name": "Luna YouTube Comment Referencing Frank Turk Podcast",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1233.1",
+          "ref": "A-1233.1",
+          "description": "Comment by user \"Luna\" stating Charlie told Dr. Frank Turk \"they want him dead\" shortly before his death, and that Frank shared this on his podcast following Kirk's death",
+          "related_claims": [
+            "C-1399"
+          ],
+          "related_nodes": [
+            "N-219"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:02:44",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1234",
+      "family_ref": "A-1234",
+      "bundle_name": "Josh Hammer Show Appearance (referenced / quoted)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1234.1",
+          "ref": "A-1234.1",
+          "description": "Josh Hammer, on a show the day before the episode, describes a Zoom call with Charlie Kirk the night before Kirk's death, calls Charlie a \"close friend,\" and discusses messaging for Kirk's campus tour and his book \"Israel and Civilization\"",
+          "related_claims": [
+            "C-1397"
+          ],
+          "related_nodes": [
+            "N-42"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:23:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1235",
+      "family_ref": "A-1235",
+      "bundle_name": "Candace Owens Episode 16 Verbal Testimonial Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1235.1",
+          "ref": "A-1235.1",
+          "description": "Candace states three unnamed people (two with written communication, one a TPUSA donor) told her Charlie said \"I think they're going to kill me\" the day before his death",
+          "related_claims": [
+            "C-1398"
+          ],
+          "related_nodes": [
+            "N-7",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1235.2",
+          "ref": "A-1235.2",
+          "description": "Candace states Lance Twiggs's family told her Lance was \"raided\" and \"angry about that raid\" and was \"instantly released back into their care within 6 hours\"",
+          "related_claims": [
+            "C-1400"
+          ],
+          "related_nodes": [
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:49",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1235.3",
+          "ref": "A-1235.3",
+          "description": "Candace states Lance's family reported the apartment locks were illegally changed after the raid without their knowledge",
+          "related_claims": [
+            "C-1401"
+          ],
+          "related_nodes": [
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1235.4",
+          "ref": "A-1235.4",
+          "description": "Candace states a vetted tip reports George Zinn told multiple nurses/doctors he did the Kirk event because he was being paid to, had not yet been paid, and did not know who would pay him",
+          "related_claims": [
+            "C-1402"
+          ],
+          "related_nodes": [
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1235.5",
+          "ref": "A-1235.5",
+          "description": "Candace states a tip indicates George Zinn has potential familial connections to a federal department",
+          "related_claims": [
+            "C-1403"
+          ],
+          "related_nodes": [
+            "N-7",
+            "N-1236"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-214",
+      "ref": "N-214",
+      "name": "Andrew Kovette",
+      "type": "person",
+      "description": "Turning Point USA spokesperson; the first TPUSA-internally-ranked official to publicly confirm the authenticity of the Kirk text chain (A-1228).",
+      "related_artifacts": [
+        "A-1228.1",
+        "A-1228.2",
+        "A-1228.4",
+        "A-1227.8"
+      ],
+      "related_claims": [
+        "C-1380",
+        "C-1381",
+        "C-1382",
+        "C-1391"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-216",
+      "ref": "N-216",
+      "name": "Robert J. O'Neill",
+      "type": "person",
+      "description": "Former Navy SEAL; Piers Morgan Show guest; questioned the visible wound type, shirt movement direction, and crime-scene teardown.",
+      "related_artifacts": [
+        "A-1229.1",
+        "A-1229.2",
+        "A-1229.3"
+      ],
+      "related_claims": [
+        "C-1384",
+        "C-1385",
+        "C-1386"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-217",
+      "ref": "N-217",
+      "name": "John Mappin",
+      "type": "person",
+      "description": "TPUSA donor; co-author of the public letter supporting Candace's investigation; identified by Candace as the donor who helped launch Turning Point UK.",
+      "related_artifacts": [
+        "A-1231.1",
+        "A-1231.2"
+      ],
+      "related_claims": [
+        "C-1392",
+        "C-1393",
+        "C-1395"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-218",
+      "ref": "N-218",
+      "name": "Arena Mappin",
+      "type": "person",
+      "description": "TPUSA donor; co-author of the public letter supporting Candace's investigation. Name appears in the transcript under multiple spellings: \"Arena,\" \"Reena,\" \"Aarina.\"",
+      "related_artifacts": [
+        "A-1231.1",
+        "A-1231.2"
+      ],
+      "related_claims": [
+        "C-1392",
+        "C-1393",
+        "C-1395"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-219",
+      "ref": "N-219",
+      "name": "Frank Turk (Dr.)",
+      "type": "person",
+      "description": "Podcaster; reported via Luna's fan comment to have stated on his podcast that Charlie Kirk said \"they want him dead\" shortly before his death.",
+      "related_artifacts": [
+        "A-1233.1"
+      ],
+      "related_claims": [
+        "C-1399"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-220",
+      "ref": "N-220",
+      "name": "Conrad Flynn",
+      "type": "person",
+      "description": "Writer/producer; appeared on Tucker Carlson's show discussing Pontius Pilate's wife as prophetic dreamer.",
+      "related_artifacts": [
+        "A-1230.1"
+      ],
+      "related_claims": [
+        "C-1396"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-221",
+      "ref": "N-221",
+      "name": "The Quartering",
+      "type": "person",
+      "description": "YouTuber/commentator; publicly questioned what the released texts actually prove.",
+      "related_artifacts": [
+        "A-1227.7"
+      ],
+      "related_claims": [
+        "C-1390"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-222",
+      "ref": "N-222",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Commentator; publicly dismissed Candace's text reporting as \"postpartum psychotic rants.\"",
+      "related_artifacts": [
+        "A-1227.4"
+      ],
+      "related_claims": [
+        "C-1388"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake",
+      "type": "person",
+      "description": "Co-host of the Charlie Kirk Show; stated on air he is an eyewitness to events and has been advised not to comment publicly.",
+      "related_artifacts": [
+        "A-1228.3"
+      ],
+      "related_claims": [
+        "C-1383"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1234",
+      "ref": "N-1234",
+      "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
+      "type": "investigation_target",
+      "description": "Investigation target: verification of whether Lance Twiggs is the individual in the maroon shirt seen in the released imagery. Candace asserts his build is \"nothing like Tyler Robinson's build\" and hypothesizes Twiggs is the maroon-shirt wearer.",
+      "related_artifacts": [
+        "A-1235.2",
+        "A-1235.3"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1235",
+      "ref": "N-1235",
+      "name": "Josh Hammer Pre-Death Zoom Call Verification",
+      "type": "investigation_target",
+      "description": "Investigation target: verification of Hammer's claim of a Zoom call with Charlie Kirk the night before Kirk's death, including attendee list and discussion content.",
+      "related_artifacts": [
+        "A-1234.1"
+      ],
+      "related_claims": [
+        "C-1397"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-42"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1236",
+      "ref": "N-1236",
+      "name": "George Zinn Federal Familial Connections (per tip)",
+      "type": "investigation_target",
+      "description": "Investigation target: verification of Candace's claim that Zinn has potential familial connections to a federal department.",
+      "related_artifacts": [
+        "A-1235.5"
+      ],
+      "related_claims": [
+        "C-1403"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1237",
+      "ref": "N-1237",
+      "name": "Tyler / Lance Apartment Lock Change Anomaly",
+      "type": "investigation_target",
+      "description": "Investigation target: verification of the family's claim that apartment locks were illegally changed after the raid without their knowledge; identification of who authorized the change (Lance or federal actors).",
+      "related_artifacts": [
+        "A-1235.3"
+      ],
+      "related_claims": [
+        "C-1401"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1238",
+      "ref": "N-1238",
+      "name": "Multiple Decoys Theory (4 Decoys Named)",
+      "type": "investigation_target",
+      "description": "Investigation target: the structural theory advanced by Candace that the visible persons in the released imagery (George Zinn, \"staircase guy,\" \"maroon shirt guy,\" \"Losee Center guy\") are decoys rather than the shooter.",
+      "related_artifacts": [
+        "A-1235.4"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1234"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1239",
+      "ref": "N-1239",
+      "name": "George Zinn Medical Payment Claim Verification",
+      "type": "investigation_target",
+      "description": "Investigation target: verification of the medical-staff-reported statement that Zinn claimed he was being paid to take responsibility for Kirk's death, with payment pending.",
+      "related_artifacts": [
+        "A-1235.4"
+      ],
+      "related_claims": [
+        "C-1402"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1236"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Deceased founder of Turning Point USA; subject of financial concerns expressed one week before his death; subject of the assassination investigation.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1380",
+      "ref": "C-1380",
+      "label": "Kovette confirmed text chain authentic",
+      "claim": "Turning Point USA spokesperson Andrew Kovette, on the Charlie Kirk Show, confirmed the text-message screen grab released by Candace Owens is authentic and was originally shared by him with others.",
+      "anchored_artifacts": [
+        "A-1228.1",
+        "A-1227.8"
+      ],
+      "related_nodes": [
+        "N-214",
+        "N-1",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:00",
+      "investigative_direction": "Obtain the full Charlie Kirk Show segment audio/video; cross-reference Kovette's stated timeline of sharing with \"people in government\" against any subsequent investigative filings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1381",
+      "ref": "C-1381",
+      "label": "Kovette shared screen grab with government figures within 33 hours",
+      "claim": "Andrew Kovette stated he shared the text-message screen grab with \"a few people in government\" within the first 33 hours after Kirk's death, before the suspect was publicly identified.",
+      "anchored_artifacts": [
+        "A-1228.2"
+      ],
+      "related_nodes": [
+        "N-214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:24",
+      "investigative_direction": "Identify which government figures received the screen grab; determine whether any chain-of-custody record exists for the shared image."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1382",
+      "ref": "C-1382",
+      "label": "Kovette describes Kirk's Israel position as complicated / ongoing wrestle",
+      "claim": "Andrew Kovette characterized Kirk's feelings about Israel as \"complicated\" and \"nuanced,\" stating a \"wrestle\" had been ongoing for months, located between the BB Netanyahu letter and the text chain.",
+      "anchored_artifacts": [
+        "A-1228.4",
+        "A-1232.1"
+      ],
+      "related_nodes": [
+        "N-214",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:46",
+      "investigative_direction": "Compare Kovette's \"wrestle\" framing against contemporaneous private communications from Kirk to determine the duration and scope of the position shift."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1383",
+      "ref": "C-1383",
+      "label": "Blake (Charlie Kirk Show co-host) identifies as eyewitness",
+      "claim": "Blake, co-host of the Charlie Kirk Show, publicly identified himself as an eyewitness to events and stated he had been advised not to comment publicly to avoid compromising any trial.",
+      "anchored_artifacts": [
+        "A-1228.3"
+      ],
+      "related_nodes": [
+        "N-224"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:13",
+      "investigative_direction": "Identify the events Blake claims to have witnessed; determine the source of the legal advice restraining his commentary."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1384",
+      "ref": "C-1384",
+      "label": "O'Neill identifies visible wound as exit wound",
+      "claim": "Former Navy SEAL Robert J. O'Neill, on the Piers Morgan Show, stated the wound visible in the Charlie Kirk video appeared to be an exit wound rather than an entry wound.",
+      "anchored_artifacts": [
+        "A-1229.1"
+      ],
+      "related_nodes": [
+        "N-216",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:21",
+      "investigative_direction": "Obtain the full unedited Kirk video and a forensic pathologist review to determine wound entry/exit characteristics independently of O'Neill's lay assessment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1385",
+      "ref": "C-1385",
+      "label": "O'Neill questions right-to-left shirt movement",
+      "claim": "Robert J. O'Neill questioned why Kirk's shirt moved right to left if shot from a stated rooftop location, citing his own experience with people he had shot.",
+      "anchored_artifacts": [
+        "A-1229.2"
+      ],
+      "related_nodes": [
+        "N-216",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:02",
+      "investigative_direction": "Obtain the full unedited video and forensic-physics reconstruction of the shirt movement to test whether the directionality is consistent with the stated shooter location."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1386",
+      "ref": "C-1386",
+      "label": "O'Neill states crime scene was torn down and paved over",
+      "claim": "Robert J. O'Neill stated the crime scene was torn down and \"paved over\" rapidly, with nothing remaining to see.",
+      "anchored_artifacts": [
+        "A-1229.3"
+      ],
+      "related_nodes": [
+        "N-216"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:51",
+      "investigative_direction": "Confirm with Utah court / Utah State Records the timeline of any paving work at the UVU Losee Center site and the responsible party."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1387",
+      "ref": "C-1387",
+      "label": "Britta publicly accused Candace of fabricating group-chat screenshots",
+      "claim": "A user identified as Britta publicly accused Candace Owens of posting fake group-chat screenshots to back her narrative.",
+      "anchored_artifacts": [
+        "A-1227.1",
+        "A-1227.2"
+      ],
+      "related_nodes": [
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:09",
+      "investigative_direction": "Cross-reference the Britta accusation against the Kovette confirmation (C-1380) to determine whether Britta publicly retracted or updated her position."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1388",
+      "ref": "C-1388",
+      "label": "Laura Loomer dismissed Candace's reporting as postpartum psychotic rants",
+      "claim": "Laura Loomer publicly dismissed Candace Owens's text-messages reporting as \"postpartum psychotic rants\" and stated that even real texts would not implicate Israel.",
+      "anchored_artifacts": [
+        "A-1227.4"
+      ],
+      "related_nodes": [
+        "N-222",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:26",
+      "investigative_direction": "Track whether Loomer issued any post-Kovette-confirmation update acknowledging the texts' authenticity."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1389",
+      "ref": "C-1389",
+      "label": "Nick Fuentes questioned four-week delay in text release",
+      "claim": "Nick Fuentes publicly questioned why Candace Owens sat on the text messages for four weeks before releasing them.",
+      "anchored_artifacts": [
+        "A-1227.6"
+      ],
+      "related_nodes": [
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:11",
+      "investigative_direction": "Determine the actual interval between Candace's receipt and release of the text chain."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1390",
+      "ref": "C-1390",
+      "label": "The Quartering questioned what the texts prove",
+      "claim": "The Quartering publicly posed the question of what the released texts actually prove beyond the fact that someone close to Kirk leaked them.",
+      "anchored_artifacts": [
+        "A-1227.7"
+      ],
+      "related_nodes": [
+        "N-221",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:01",
+      "investigative_direction": "Evaluate the substance of the \"what does it prove\" critique against the substantive content of the text chain (C-1382, N-42)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1391",
+      "ref": "C-1391",
+      "label": "Community Notes confirmed Kovette's screen-grab confirmation",
+      "claim": "Per the Misfit Patriot tweet displayed, Community Notes added an update stating Andrew Kovette confirmed the screen grab was real.",
+      "anchored_artifacts": [
+        "A-1227.8"
+      ],
+      "related_nodes": [
+        "N-214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:48",
+      "investigative_direction": "Pull the Community Notes entry directly for the source post to verify the wording of the Kovette-attributed confirmation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1392",
+      "ref": "C-1392",
+      "label": "Mappins published public letter supporting Candace's investigation",
+      "claim": "TPUSA donors John and Arena Mappin published a public letter supporting Candace Owens's investigation into Kirk's death and stating Candace's actions are what Charlie himself would have taken.",
+      "anchored_artifacts": [
+        "A-1231.1"
+      ],
+      "related_nodes": [
+        "N-217",
+        "N-218",
+        "N-7",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:14",
+      "investigative_direction": "Obtain the original Mappin letter publication (URL / date) and any subsequent public reaction from TPUSA leadership."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1393",
+      "ref": "C-1393",
+      "label": "Mappin letter: senior Republicans and TPUSA donors privately agree but fear speaking",
+      "claim": "The Mappin letter states the Mappins have been receiving calls from senior Republicans and Turning Point donors who agree with Candace but are \"terrified to voice their views publicly.\"",
+      "anchored_artifacts": [
+        "A-1231.2"
+      ],
+      "related_nodes": [
+        "N-217",
+        "N-218"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:54",
+      "investigative_direction": "Identify (with Mappin cooperation) any of the named senior Republican or TPUSA donor callers willing to go on record."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1394",
+      "ref": "C-1394",
+      "label": "Mappin letter: few believe official version",
+      "claim": "The Mappin letter states \"few people following the matter believe the official version\" and that a \"low minority believe that the current suspect is guilty.\"",
+      "anchored_artifacts": [
+        "A-1231.1"
+      ],
+      "related_nodes": [
+        "N-217",
+        "N-218"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:30",
+      "investigative_direction": "Cross-reference polling or independent survey data on public belief about the official Kirk investigation narrative."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1395",
+      "ref": "C-1395",
+      "label": "Mappin letter: Mappins helped facilitate Turning Point UK",
+      "claim": "Candace identifies John Mappin as the TPUSA donor who helped her and Kirk set up Turning Point UK, identifying him as the donor who made the introductions that enabled the UK launch event where Candace first saw George (Zinn).",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-217",
+        "N-218"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:38",
+      "investigative_direction": "Verify through TPUSA / Turning Point UK records John Mappin's role in the UK launch."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1396",
+      "ref": "C-1396",
+      "label": "Flynn / Carlson discussed Pontius Pilate's wife as prophetic dreamer",
+      "claim": "Writer/producer Conrad Flynn appeared on Tucker Carlson's show and discussed the figure of Pontius Pilate's wife as a prophetic dreamer, with Carlson recounting his own wife's intuition about guests.",
+      "anchored_artifacts": [
+        "A-1230.1"
+      ],
+      "related_nodes": [
+        "N-220"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:56",
+      "investigative_direction": "Obtain the full Tucker / Flynn segment to determine the surrounding context and any explicit connection drawn to the Kirk case."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1397",
+      "ref": "C-1397",
+      "label": "Josh Hammer claimed Zoom call with Kirk night before death",
+      "claim": "Josh Hammer, on a show the day before the episode, publicly claimed he spoke with Charlie Kirk on a Zoom call the night before Kirk's death, alongside \"a couple others,\" and that they discussed messaging for Kirk's campus tour.",
+      "anchored_artifacts": [
+        "A-1234.1"
+      ],
+      "related_nodes": [
+        "N-42",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:52",
+      "investigative_direction": "Identify the other Zoom call attendees; obtain any contemporaneous notes or call logs; verify whether the call occurred."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1398",
+      "ref": "C-1398",
+      "label": "Three unnamed people told Candace Charlie predicted his own death",
+      "claim": "Candace Owens states three unnamed people (two with written communication, one a TPUSA donor) told her that Charlie Kirk expressed \"I think they're going to kill me\" the day before his death.",
+      "anchored_artifacts": [
+        "A-1235.1"
+      ],
+      "related_nodes": [
+        "N-7",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:25",
+      "investigative_direction": "Encourage the named tipsters to come forward publicly; cross-reference against A-1233.1 (Frank Turk) and any other contemporaneous sources for Kirk premonition statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1399",
+      "ref": "C-1399",
+      "label": "Frank Turk reported Kirk said \"they want him dead\"",
+      "claim": "Per a Luna fan comment on the episode, Dr. Frank Turk reported on his podcast that Charlie Kirk, in a conversation about upping his security, said \"they want him dead.\"",
+      "anchored_artifacts": [
+        "A-1233.1"
+      ],
+      "related_nodes": [
+        "N-219",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:02:44",
+      "investigative_direction": "Identify and timestamp the Frank Turk podcast episode containing the statement; obtain the original audio."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1400",
+      "ref": "C-1400",
+      "label": "Lance Twiggs was raided but released within 6 hours",
+      "claim": "Per Lance Twiggs's family (via Candace), Lance was \"raided,\" was \"angry about that raid,\" and was \"instantly released back into their care within 6 hours.\"",
+      "anchored_artifacts": [
+        "A-1235.2"
+      ],
+      "related_nodes": [
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:49",
+      "investigative_direction": "Obtain official arrest / detention logs from Utah authorities for Lance Twiggs; reconcile with the family's account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1401",
+      "ref": "C-1401",
+      "label": "Apartment locks illegally changed after raid",
+      "claim": "Per Lance's family (via Candace), the locks on the Tyler Robinson / Lance Twiggs apartment were illegally changed after the raid without the family's knowledge or consent.",
+      "anchored_artifacts": [
+        "A-1235.3"
+      ],
+      "related_nodes": [
+        "N-7",
+        "N-1237"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:07",
+      "investigative_direction": "Identify the party that authorized the lock change (Lance or federal actors); obtain landlord records of the apartment (the family reportedly owns the unit)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1402",
+      "ref": "C-1402",
+      "label": "George Zinn told medical staff he was being paid to claim responsibility",
+      "claim": "Per a vetted tip relayed by Candace, George Zinn told multiple nurses and doctors that he claimed responsibility for Kirk's death because he was being paid to do so, had not yet been paid, and did not know the source of payment.",
+      "anchored_artifacts": [
+        "A-1235.4"
+      ],
+      "related_nodes": [
+        "N-7",
+        "N-1239"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:24",
+      "investigative_direction": "Identify and interview the medical staff who reportedly received these statements from Zinn; obtain any contemporaneous medical records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1403",
+      "ref": "C-1403",
+      "label": "George Zinn has potential familial connections to a federal department",
+      "claim": "Per a tip relayed by Candace, George Zinn has potential familial connections to a federal department.",
+      "anchored_artifacts": [
+        "A-1235.5"
+      ],
+      "related_nodes": [
+        "N-7",
+        "N-1236"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:11",
+      "investigative_direction": "Identify which federal department is implicated; obtain any employment / family records."
+    }
+  ],
+  "memes": []
+}
