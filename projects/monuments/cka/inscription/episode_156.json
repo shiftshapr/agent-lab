@@ -1,0 +1,773 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 156,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "045464817f5d7c6f9470661f7f742edfcd3efe132e5a1b9f598a8d8e5fd07d21",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode is structured as a \"return to the beginning\" review of previously aired investigative claims, prompted by the host's stated intent to consolidate evidence prior to maternity leave. Three evidentiary anchors carry the bulk of the investigative content: (1) a corrected/restored wider-format tent footage clip from the day of the incident, (2) a vehicle-exhaust analysis comparing Fox News's still image of Tyler Robinson's towed 2013 Dodge Challenger against multiple-floor footage of a quad-exhaust Challenger seen entering the parking garage on September 10, and (3) a read-aloud search-warrant excerpt attributing a Google Maps route (from Mountain Shadows Shopping Center to Quick Quack Car Wash) to Tyler Robinson's cell phone. The host also revisits the Dairy Queen surveillance-photo timestamp (6:38 PM) and explicitly proposes for the record that the timestamp may have been UTC, which would place the sighting at 12:38 PM. The host reopens the Quick Quack Car Wash question, noting that the car-wash footage was seized but never publicly released. A separate segment features the host playing clip(s) of Netanyahu addressing the UN, including the walkout and a clip of him holding a pager; and a short AI parody video by AtwareForbidden about Blake Neff's interview. The episode closes with a viewer-comment block, including a comment from \"Face\" questioning whether the license-plate match process described in Officer Go Forth's testimony was a partial-plate match.\n\nThe episode's structural importance is that it consolidates previously aired evidentiary items into the host's claim that **two different Dodge Challengers** exist in the case file — the host asserts that Tyler Robinson's vehicle is not the same vehicle shown entering the parking garage. It also formalizes (in host commentary) the Quick Quack Car Wash stop as an open investigative item to revisit.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2416",
+      "family_ref": "A-2416",
+      "bundle_name": "Tent Footage (Corrected) Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2416.1",
+          "ref": "A-2416.1",
+          "description": "Wider-format tent footage (un-cropped version of previously aired clip) showing activity behind the tent leading up to the Big Bang, including a person standing by the van near Angel Castro.",
+          "related_claims": [
+            "C-3531"
+          ],
+          "related_nodes": [
+            "N-2276"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2417",
+      "family_ref": "A-2417",
+      "bundle_name": "Post-Big Bang Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2417.1",
+          "ref": "A-2417.1",
+          "description": "Footage immediately following the Big Bang showing activity around a black SUV, including people standing by the car, people appearing to record with phones, and the group chanting \"USA, USA.\"",
+          "related_claims": [
+            "C-3538"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2417.2",
+          "ref": "A-2417.2",
+          "description": "Continued post-Big Bang footage showing a Hispanic-looking man from the USA chant group returning to take a hat; the same man is identified by the host as later speaking to the news.",
+          "related_claims": [
+            "C-3538"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2418",
+      "family_ref": "A-2418",
+      "bundle_name": "Dairy Queen Surveillance Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2418.1",
+          "ref": "A-2418.1",
+          "description": "Dairy Queen surveillance photo of Tyler Robinson with the surveillance-system timestamp displayed as 6:38 PM (originally reported by host; reinterpretation proposed in this episode).",
+          "related_claims": [
+            "C-3539",
+            "C-3540"
+          ],
+          "related_nodes": [
+            "N-2343"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2419",
+      "family_ref": "A-2419",
+      "bundle_name": "Fox News Towed Vehicle Still Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2419.1",
+          "ref": "A-2419.1",
+          "description": "Fox News still frame of Tyler Robinson's towed 2013 Dodge Challenger showing a dual exhaust system at the rear.",
+          "related_claims": [
+            "C-3532",
+            "C-3541"
+          ],
+          "related_nodes": [
+            "N-2341",
+            "N-2345"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2420",
+      "family_ref": "A-2420",
+      "bundle_name": "Parking Garage Challenger Quad-Exhaust Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2420.1",
+          "ref": "A-2420.1",
+          "description": "Multi-floor parking-garage photos / still frames of a Dodge Challenger displaying a quad (dual-pair) exhaust configuration, captured on different garage levels.",
+          "related_claims": [
+            "C-3533",
+            "C-3541"
+          ],
+          "related_nodes": [
+            "N-2341",
+            "N-2345"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2421",
+      "family_ref": "A-2421",
+      "bundle_name": "Search Warrant Excerpt (read-aloud) Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2421.1",
+          "ref": "A-2421.1",
+          "description": "Read-aloud excerpt from a search warrant describing a Google Maps route observed on Tyler Robinson's cell phone, with start time of approximately 12:46 PM (UTC-converted from 6:46 PM UTC), starting near Mountain Shadows Shopping Center (approximately seven minutes from Utah Valley University), routed to a Quick Quack Car Wash.",
+          "related_claims": [
+            "C-3535"
+          ],
+          "related_nodes": [
+            "N-2278",
+            "N-2342"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2421.2",
+          "ref": "A-2421.2",
+          "description": "Continuation of read-aloud warrant excerpt stating Agent Drainy (Utah State Bureau of Investigations) obtained records and video footage of Tyler Robinson's 2013 Dodge Challenger arriving at the Quick Quack Car Wash at approximately 12:57 PM.",
+          "related_claims": [
+            "C-3534",
+            "C-3535"
+          ],
+          "related_nodes": [
+            "N-2278",
+            "N-2342"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2422",
+      "family_ref": "A-2422",
+      "bundle_name": "Netanyahu UN Address Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2422.1",
+          "ref": "A-2422.1",
+          "description": "UN General Assembly clip showing delegates walking out as Netanyahu takes the stage.",
+          "related_claims": [
+            "C-3537"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2422.2",
+          "ref": "A-2422.2",
+          "description": "Clip from Netanyahu's UN speech in which he cites a \"16 times 9/11\" statistic comparing Israel's proportional casualties.",
+          "related_claims": [
+            "C-3537"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2422.3",
+          "ref": "A-2422.3",
+          "description": "Clip from Netanyahu's UN speech in which he holds up a pager as a prop.",
+          "related_claims": [
+            "C-3537"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2423",
+      "family_ref": "A-2423",
+      "bundle_name": "AtwareForbidden AI Parody Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2423.1",
+          "ref": "A-2423.1",
+          "description": "AI-generated parody video by AtwareForbidden mocking a Blake Neff interview regarding Candace Owens.",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2275"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2424",
+      "family_ref": "A-2424",
+      "bundle_name": "YouTube Comment (Read-Aloud) Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2424.1",
+          "ref": "A-2424.1",
+          "description": "Read-aloud YouTube comment from viewer \"Face\" asserting that Officer Go Forth's testimony referenced a partial license-plate match process and that only a partial plate was run before being matched.",
+          "related_claims": [
+            "C-3536"
+          ],
+          "related_nodes": [
+            "N-2277",
+            "N-2344"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2425",
+      "family_ref": "A-2425",
+      "bundle_name": "Tipster Information Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2425.1",
+          "ref": "A-2425.1",
+          "description": "Tipster-supplied information reported by host that the cemetery contains two large dumpsters in the middle of it, contextualizing how clothes may have been disposed of.",
+          "related_claims": [
+            "C-3542"
+          ],
+          "related_nodes": [
+            "N-2345"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [
+        "A-2422.1",
+        "A-2422.2",
+        "A-2422.3"
+      ],
+      "related_claims": [
+        "C-3537"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1032",
+      "ref": "N-1032",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "Referenced in comments segment regarding Andrew Wilson partnership and characterization of conduct following Charlie Kirk's death.",
+      "related_artifacts": [
+        "A-2423.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2275",
+      "ref": "N-2275",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "YouTube creator of AI parody videos referenced and played in this episode; relevant as recurring satirical content producer within the series.",
+      "related_artifacts": [
+        "A-2423.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2276",
+      "ref": "N-2276",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "UVU club president previously misidentified in an earlier episode as the person standing by the van in the tent footage; correction issued in this episode.",
+      "related_artifacts": [
+        "A-2416.1"
+      ],
+      "related_claims": [
+        "C-3531"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2277",
+      "ref": "N-2277",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Officer referenced in viewer comment regarding the partial license-plate match process in testimony.",
+      "related_artifacts": [
+        "A-2424.1"
+      ],
+      "related_claims": [
+        "C-3536"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2344"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2278",
+      "ref": "N-2278",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Agent with the Utah State Bureau of Investigations referenced in the read-aloud search-warrant excerpt as having obtained Quick Quack Car Wash records and footage.",
+      "related_artifacts": [
+        "A-2421.1",
+        "A-2421.2"
+      ],
+      "related_claims": [
+        "C-3534",
+        "C-3535"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2342"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2341",
+      "ref": "N-2341",
+      "name": "Parking Garage Challenger Vehicle Exhaust Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy between the dual-exhaust configuration of Tyler Robinson's known towed vehicle (per Fox News) and the quad-exhaust configuration of the Dodge Challenger shown entering the parking garage on September 10.",
+      "related_artifacts": [
+        "A-2419.1",
+        "A-2420.1"
+      ],
+      "related_claims": [
+        "C-3532",
+        "C-3533",
+        "C-3541"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2345"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2342",
+      "ref": "N-2342",
+      "name": "Quick Quack Car Wash Footage Release Question",
+      "type": "investigation_target",
+      "description": "Question of why the Quick Quack Car Wash surveillance footage — seized by law enforcement — was never publicly released, including questions of what the footage actually depicts.",
+      "related_artifacts": [
+        "A-2421.1",
+        "A-2421.2"
+      ],
+      "related_claims": [
+        "C-3534",
+        "C-3535"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2278"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2343",
+      "ref": "N-2343",
+      "name": "Dairy Queen Timestamp UTC vs MST Reconciliation",
+      "type": "investigation_target",
+      "description": "Question of whether the original Dairy Queen surveillance timestamp of 6:38 PM was recorded in UTC (converting to 12:38 PM Mountain) versus Mountain Standard Time, and the implications for the published timeline.",
+      "related_artifacts": [
+        "A-2418.1"
+      ],
+      "related_claims": [
+        "C-3539",
+        "C-3540"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2344",
+      "ref": "N-2344",
+      "name": "Partial License Plate Match Verification Process",
+      "type": "investigation_target",
+      "description": "Question raised by a viewer comment that license-plate identification in testimony (Officer Go Forth) relied on partial-plate matches rather than full-plate identification.",
+      "related_artifacts": [
+        "A-2424.1"
+      ],
+      "related_claims": [
+        "C-3536"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2277"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2345",
+      "ref": "N-2345",
+      "name": "Vehicle Exhaust System Modification Question",
+      "type": "investigation_target",
+      "description": "Hypothesis raised by host that, if Tyler Robinson's vehicle is the same as the parking-garage Challenger, the prosecution must account for an exhaust-system modification occurring within 33 hours of the incident.",
+      "related_artifacts": [
+        "A-2419.1",
+        "A-2420.1"
+      ],
+      "related_claims": [
+        "C-3541"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2341"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3531",
+      "ref": "C-3531",
+      "label": "Person by van in tent footage is not UVU club president Caleb Chilikut",
+      "claim": "The wider-format tent footage shows that the person previously identified as UVU club president Caleb Chilikut standing near the van by Angel Castro is in fact a different individual.",
+      "anchored_artifacts": [
+        "A-2416.1"
+      ],
+      "related_nodes": [
+        "N-2276"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:40",
+      "investigative_direction": "Cross-reference other footage and photographs to identify the actual individual and confirm the correction."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3532",
+      "ref": "C-3532",
+      "label": "Tyler Robinson's towed 2013 Dodge Challenger displays a dual exhaust system",
+      "claim": "A Fox News still frame of Tyler Robinson's towed 2013 Dodge Challenger clearly shows a dual exhaust configuration at the rear.",
+      "anchored_artifacts": [
+        "A-2419.1"
+      ],
+      "related_nodes": [
+        "N-2341",
+        "N-2345"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:34",
+      "investigative_direction": "Confirm exhaust configuration against additional Fox News footage and any independent images of Tyler Robinson's vehicle; compare against VIN or registration records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3533",
+      "ref": "C-3533",
+      "label": "Parking garage Challenger displays a quad exhaust system across multiple floors",
+      "claim": "Multiple stills from different parking-garage floors show a quad (dual-pair) exhaust configuration on the Dodge Challenger that entered the garage on September 10.",
+      "anchored_artifacts": [
+        "A-2420.1"
+      ],
+      "related_nodes": [
+        "N-2341",
+        "N-2345"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:24",
+      "investigative_direction": "Compare against a full video walkthrough of the parking garage to confirm consistent configuration and rule out lighting/angle artifacts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3534",
+      "ref": "C-3534",
+      "label": "Quick Quack Car Wash surveillance footage was seized by law enforcement and never publicly released",
+      "claim": "Per the search warrant as read, Agent Drainy (USBI) obtained records and video footage from the Quick Quack Car Wash showing Tyler Robinson's vehicle arriving at approximately 12:57 PM; the footage has not been released to the public.",
+      "anchored_artifacts": [
+        "A-2421.2"
+      ],
+      "related_nodes": [
+        "N-2278",
+        "N-2342"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:05",
+      "investigative_direction": "File FOIA/public-records requests for the Quick Quack Car Wash footage; compare with the warrant's stated contents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3535",
+      "ref": "C-3535",
+      "label": "Search warrant attributes a Google Maps route from Mountain Shadows Shopping Center to Quick Quack Car Wash to Tyler Robinson's cell phone",
+      "claim": "A search warrant for Tyler Robinson's cell phone describes a Google Maps route from the Mountain Shadows Shopping Center (approximately seven minutes from Utah Valley University) to a Quick Quack Car Wash, with start time approximately 12:46 PM (UTC-converted from 6:46 PM UTC) — approximately 23 minutes after the shooting.",
+      "anchored_artifacts": [
+        "A-2421.1"
+      ],
+      "related_nodes": [
+        "N-2278",
+        "N-2342"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:05",
+      "investigative_direction": "Obtain the underlying warrant to verify the quoted language; confirm cross-device sync hypothesis against the device extracted from Tyler Robinson."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3536",
+      "ref": "C-3536",
+      "label": "Officer Go Forth's testimony referenced a partial license-plate match process",
+      "claim": "According to a viewer comment summarizing testimony, Officer Go Forth's testimony used partial-plate matches rather than full-plate matches when identifying vehicles.",
+      "anchored_artifacts": [
+        "A-2424.1"
+      ],
+      "related_nodes": [
+        "N-2277",
+        "N-2344"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:24",
+      "investigative_direction": "Pull the actual preliminary-hearing / probable-cause transcript and verify whether the testimony relied on partial-plate matching."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3537",
+      "ref": "C-3537",
+      "label": "UN delegates walked out during Netanyahu's UN General Assembly address",
+      "claim": "During Netanyahu's address to the UN General Assembly, a substantial number of delegates walked out as he took the stage.",
+      "anchored_artifacts": [
+        "A-2422.1",
+        "A-2422.2",
+        "A-2422.3"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:24",
+      "investigative_direction": "Cross-reference UN press records, AP/Reuters coverage, and UN delegate attendance logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3538",
+      "ref": "C-3538",
+      "label": "A person visible in post-Big-Bang USA chant group later spoke to the news",
+      "claim": "A person seen in the post-Big-Bang footage chanting \"USA, USA\" — and later returning to take a hat — is the same person who subsequently spoke to news media.",
+      "anchored_artifacts": [
+        "A-2417.1",
+        "A-2417.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:04:47",
+      "investigative_direction": "Compare facial recognition / clothing across the post-incident footage and published news interviews of attendees."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3539",
+      "ref": "C-3539",
+      "label": "Dairy Queen surveillance timestamp of 6:38 PM may have been recorded in UTC rather than Mountain Standard Time",
+      "claim": "The host proposes as her favored hypothesis that the 6:38 PM timestamp on the Dairy Queen surveillance photo was recorded in UTC, which would convert to 12:38 PM Mountain time on September 10.",
+      "anchored_artifacts": [
+        "A-2418.1"
+      ],
+      "related_nodes": [
+        "N-2343"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:41",
+      "investigative_direction": "Subpoena or otherwise obtain the Dairy Queen surveillance system metadata and time-zone configuration; verify against Mountain Shadows Shopping Center sighting at 12:44 PM and Quick Quack arrival at 12:57 PM."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3540",
+      "ref": "C-3540",
+      "label": "Tyler Robinson's sneakers in Dairy Queen surveillance photo do not appear to be Converse brand",
+      "claim": "The host observes that the sneakers worn by Tyler Robinson in the Dairy Queen surveillance photo do not appear to be Converse, and may be running shoes.",
+      "anchored_artifacts": [
+        "A-2418.1"
+      ],
+      "related_nodes": [
+        "N-2343"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:31",
+      "investigative_direction": "Obtain higher-resolution images of the footwear for brand identification; cross-reference against known Tyler Robinson clothing/shoe inventory."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3541",
+      "ref": "C-3541",
+      "label": "Host asserts Tyler Robinson's vehicle is not the same Dodge Challenger shown entering the parking garage on September 10",
+      "claim": "Based on the dual vs. quad exhaust discrepancy between Fox News's image of Tyler Robinson's towed vehicle and the multi-floor images of the parking-garage Challenger, the host asserts these are not the same vehicle.",
+      "anchored_artifacts": [
+        "A-2419.1",
+        "A-2420.1"
+      ],
+      "related_nodes": [
+        "N-2341",
+        "N-2345"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:34",
+      "investigative_direction": "Obtain independent forensic / dealership records on both vehicles; verify VIN against tow inventory and parking-garage camera metadata."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3542",
+      "ref": "C-3542",
+      "label": "Cemetery contains two large dumpsters in the middle",
+      "claim": "Per tipster information, the cemetery where Tyler Robinson allegedly disposed of clothing contains two large dumpsters in the middle of it.",
+      "anchored_artifacts": [
+        "A-2425.1"
+      ],
+      "related_nodes": [
+        "N-2345"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:34",
+      "investigative_direction": "Verify tipster claim via Google Earth / aerial imagery or on-site inspection; cross-reference with any cemetery surveillance that might exist."
+    }
+  ],
+  "memes": []
+}

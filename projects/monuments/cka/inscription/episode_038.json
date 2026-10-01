@@ -1,0 +1,1763 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 38,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "aad9b594be730478a8051e834c8dd3ae3c76a0895b472f75831b8b225046f268",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode continues the host's allegation that a multinational operation involving France, the French Foreign Legion, Israel, and elements of the US government was connected to the September 10, 2025 assassination of Charlie Kirk, and that she is now a target of a French state-sponsored assassination plot. The evidentiary centerpieces are: (1) Candace Owens's November 25 X post (read in full), (2) a French Ministry of the Armed Forces denial that Tyler Robinson served in the French Foreign Legion, (3) a France 24 article that confirms one FFL–US Marines joint exercise but denies a Minnesota follow-on, (4) Andy Parrish's correction that \"Camp Riley\" is a typo for Camp Ripley, (5) a long source email providing an alleged French-American network across Wilmington, Delaware (anchored at 920 North King Street, the Bracebridge Complex, the du Pont family, Incyte, and the Wilmington Trust), (6) the Ace Partners website identifying Satys as a portfolio company, (7) Pavel Durov's public endorsement, and (8) a podcast clip and email involving the PBD/Adam Sosnick–Eric Bolling dispute.\n\nThe episode advances three investigative questions: (a) whether a French state assassination plot against the host was credibly conveyed and reported to US authorities; (b) whether French Foreign Legion personnel were on the ground at UVU on September 10, 2025; and (c) whether the Wilmington, Delaware legal forum of the Macron lawsuit is a substantive nexus for the alleged French-aligned infrastructure.\n\nMost of the Wilmington-network claims rest on a single uncorroborated source email; they are inscribed as claim-anchored-to-email rather than as independently verified. The host's broader conspiracy framing (satanic power, gang-states, MK Ultra, federal setup) is not inscribed as claims per the rhetoric-removal test.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1461",
+      "family_ref": "A-1461",
+      "bundle_name": "Candace Owens X/Twitter Post (November 25, 2025)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1461.1",
+          "ref": "A-1461.1",
+          "description": "Full tweet asserting contact by \"high-ranking employee of the French government\" claiming the Macrons authorized and financed her assassination via a GIGN team including one Israeli operative; also asserts Charlie Kirk's assassin trained with the French Legion's 13th Brigade and identifies Xavier Poussard as also at risk",
+          "related_claims": [
+            "C-1781",
+            "C-1784",
+            "C-1786"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-4",
+            "N-5",
+            "N-6",
+            "N-454"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:49–00:04:49",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1462",
+      "family_ref": "A-1462",
+      "bundle_name": "Pavel Durov X Post",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1462.1",
+          "ref": "A-1462.1",
+          "description": "Durov statement: \"After reviewing everything Charlie Kirk has ever said about Macron's France, I find Candace's information about French involvement in his death entirely plausible. Charlie even called for 300% tariffs on France until the charges against me were dropped.\"",
+          "related_claims": [
+            "C-1782"
+          ],
+          "related_nodes": [
+            "N-9",
+            "N-3",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1463",
+      "family_ref": "A-1463",
+      "bundle_name": "Article by Freddy Ponton (\"Freddy Ponton um Ponton\" as read on air)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1463.1",
+          "ref": "A-1463.1",
+          "description": "\"Past as Prologue, Safari Club Illuminates Candace Owens' allegations\" — Ponton's framing paragraph characterizing Candace's allegation as resonating because of prior covert-operation history rather than trust in Owens; references Safari Club precedent.",
+          "related_claims": [
+            "C-1783"
+          ],
+          "related_nodes": [
+            "N-455",
+            "N-1364",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:00–00:00:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1464",
+      "family_ref": "A-1464",
+      "bundle_name": "Wikipedia Entry — Safari Club (referenced as displayed on screen)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1464.1",
+          "ref": "A-1464.1",
+          "description": "Wikipedia paragraph describing the Safari Club as a covert alliance of intelligence services formed in 1976, with members including pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France; also referencing Israel, Djibouti, South Africa; and noting the 1979 Egypt–Israel peace treaty as a downstream process result.",
+          "related_claims": [
+            "C-1783"
+          ],
+          "related_nodes": [
+            "N-1364"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1465",
+      "family_ref": "A-1465",
+      "bundle_name": "French Foreign Legion Training Deployment Record",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1465.1",
+          "ref": "A-1465.1",
+          "description": "Per the French Foreign Legion website (host's reference): a 3-week training deployment between August 2 and August 25, 2025, integrating legionnaires of the 4th Company, 2nd Foreign Infantry Regiment (6th Light Armored Brigade) with US Marines of the 6th Marine Regiment in California.",
+          "related_claims": [
+            "C-1783"
+          ],
+          "related_nodes": [
+            "N-1361",
+            "N-6"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:59–00:17:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1466",
+      "family_ref": "A-1466",
+      "bundle_name": "French Ministry of the Armed Forces — Official Statement",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1466.1",
+          "ref": "A-1466.1",
+          "description": "Ministry of the Armed Forces statement: \"Tyler Robinson was never part of the French Foreign Legion. If he did not serve in an American military unit, he could not have trained with the French Foreign Legion.\"",
+          "related_claims": [
+            "C-1784"
+          ],
+          "related_nodes": [
+            "N-6",
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1467",
+      "family_ref": "A-1467",
+      "bundle_name": "France 24 Article",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1467.1",
+          "ref": "A-1467.1",
+          "description": "France 24 article reporting that the Ministry of the Armed Forces confirmed the August 2–25 California training exercise with the 2nd Foreign Infantry Regiment and describing it as not clandestine; also reporting the Ministry formally denies a follow-on training exercise at \"Camp Riley\" in Minnesota because no Camp Riley exists.",
+          "related_claims": [
+            "C-1785",
+            "C-1786"
+          ],
+          "related_nodes": [
+            "N-1368"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:45–00:21:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1468",
+      "family_ref": "A-1468",
+      "bundle_name": "Andy Parrish X Post",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1468.1",
+          "ref": "A-1468.1",
+          "description": "Andy Parrish, identified on air as \"former chief of staff to the Republican state representative,\" posted that no Camp Riley exists in Minnesota; Camp Ripley does.",
+          "related_claims": [
+            "C-1785"
+          ],
+          "related_nodes": [
+            "N-456",
+            "N-1368"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:28",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1469",
+      "family_ref": "A-1469",
+      "bundle_name": "Source Email on Wilmington, Delaware (read aloud by host)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1469.1",
+          "ref": "A-1469.1",
+          "description": "Section: French Street history — North French Street is the northern stretch of the original French Street, laid out as Willing Street in Thomas Willing's grid; renamed in the 1790s after a cluster of French-speaking refugees (many from Haiti and the French Revolution) settled along it.",
+          "related_claims": [
+            "C-1789"
+          ],
+          "related_nodes": [
+            "N-1354"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:55–00:26:49",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1469.2",
+          "ref": "A-1469.2",
+          "description": "Section: 920 North King Street, Wilmington — claim that three federal agencies work together in one building; identified in connection with a foreign dignitary escort and the attorneys filing the host's Brigitte-lawsuit paperwork.",
+          "related_claims": [
+            "C-1790"
+          ],
+          "related_nodes": [
+            "N-1355"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:24–00:25:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1469.3",
+          "ref": "A-1469.3",
+          "description": "Section: Bracebridge Complex at 1100 North King Street — originally built as Maryland Bank headquarters 1995; Bank of America acquired 2006 and pulled out of the buildings in 2018; in 2024 legislation was passed to provide financial support to the Longwood Foundation (founded by Pierre S. du Pont) to operate it as an educational center; complex spans six buildings connected to both French Street and King Street.",
+          "related_claims": [
+            "C-1791",
+            "C-1792",
+            "C-1793"
+          ],
+          "related_nodes": [
+            "N-1356",
+            "N-1358",
+            "N-459",
+            "N-460"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:30–00:31:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1469.4",
+          "ref": "A-1469.4",
+          "description": "Section: Incyte Corporation — claim that the long-time CEO of Incyte was Hervé Hopineau (host self-corrects: \"Hervé Hope No, Hopineau\"), a French national who recently transitioned from CEO to advisor; Incyte owns the construction site across from 920 North King Street and is plugged into federal medical supply chains including VA/military health care interfaces.",
+          "related_claims": [
+            "C-1794"
+          ],
+          "related_nodes": [
+            "N-457",
+            "N-1357"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:11–00:34:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1469.5",
+          "ref": "A-1469.5",
+          "description": "Section: Wilmington Savings Fund Society / Wilmington Trust — claim that in 1990 most lower Delaware WSFS branches were sold to Wilmington Trust, founded by T. Coleman du Pont (French-American du Pont family); Wilmington Trust located at 1100 North Market Street, on Rodney Square, next to 1100 North King Street.",
+          "related_claims": [
+            "C-1795"
+          ],
+          "related_nodes": [
+            "N-461",
+            "N-1358",
+            "N-1359"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:58–00:32:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1469.6",
+          "ref": "A-1469.6",
+          "description": "Section: 500 North Delaware Avenue — claim that the FBI has a presence in this building (which the source calls \"another bank center\"); also references MGM Delaware Avenue law firm (Suite 200) sitting directly below the FBI suite (Suite 300) per the source.",
+          "related_claims": [
+            "C-1796"
+          ],
+          "related_nodes": [
+            "N-1360"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:58–00:33:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1469.7",
+          "ref": "A-1469.7",
+          "description": "Section: Wilmington LGBT/transgender services inventory — proximity list (Theater, \"The Queen,\" Wilmington University LGBTQ programs, Transition Delaware LLC, plastic surgeons).",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:10–00:46:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1470",
+      "family_ref": "A-1470",
+      "bundle_name": "Map Imagery of Wilmington, Delaware (displayed on screen)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1470.1",
+          "ref": "A-1470.1",
+          "description": "Map showing 920 North King Street and surrounding blocks, including reference to a long red crane at a construction site across the street (1100 North King).",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1355",
+            "N-1356"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1470.2",
+          "ref": "A-1470.2",
+          "description": "Map showing Bracebridge Complex at 1100 North King Street spanning six connected buildings, and the adjacent 1100 North Market Street / Rodney Square.",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1356",
+            "N-1359"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:58",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1471",
+      "family_ref": "A-1471",
+      "bundle_name": "Local Coverage Article — Bank of America Vacates Wilmington Complex",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1471.1",
+          "ref": "A-1471.1",
+          "description": "Article (referenced but URL not displayed): \"It leaves the Wilmington office space empty\" — confirms Bank of America vacated the Bracebridge Complex in 2018.",
+          "related_claims": [
+            "C-1791"
+          ],
+          "related_nodes": [
+            "N-1356"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:30–00:29:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1471.2",
+          "ref": "A-1471.2",
+          "description": "Local coverage quote from Miriam Deed: \"I just feel like I don't understand why we're doing this without there being more accountability.\"",
+          "related_claims": [
+            "C-1791"
+          ],
+          "related_nodes": [
+            "N-458",
+            "N-1356"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1472",
+      "family_ref": "A-1472",
+      "bundle_name": "Ace Partners Website (displayed)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1472.1",
+          "ref": "A-1472.1",
+          "description": "Mission statement: \"Our mission with Ace is clear to identify, invest in, and support the most promising startups that will shape the future of aerospace and defense technology… Our investments are global with a specific focus on Israel.\"",
+          "related_claims": [
+            "C-1797"
+          ],
+          "related_nodes": [
+            "N-1360"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1473",
+      "family_ref": "A-1473",
+      "bundle_name": "PBD Podcast Clip — Adam Sosnick Segment",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1473.1",
+          "ref": "A-1473.1",
+          "description": "Audio clip in which Adam Sosnick (on Patrick Bet-David's podcast) states Candace Owens has no famous friends/allies, has burned bridges with Turning Point USA, Daily Wire, PragerU, Charlie Kirk, and Steven Crowder, and cannot be defended by named public figures.",
+          "related_claims": [
+            "C-1800"
+          ],
+          "related_nodes": [
+            "N-451",
+            "N-452"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:39–00:48:26",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1474",
+      "family_ref": "A-1474",
+      "bundle_name": "Eric Bolling Email to Candace Owens's PR",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1474.1",
+          "ref": "A-1474.1",
+          "description": "Email text: \"Tell Candace I meant no harm to her. It was that Alex guy who kept at it. He tried to corner me and he found out. If she wants to talk I'll call her if not no worries. I've lost too many people in my life to get too emotional about these things. I've always respected CO. That moment got blown out of proportion.\"",
+          "related_claims": [
+            "C-1801"
+          ],
+          "related_nodes": [
+            "N-453",
+            "N-451"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:56:17–00:56:59",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1475",
+      "family_ref": "A-1475",
+      "bundle_name": "Brigitte Macron Public Appearances (early September 2025)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1475.1",
+          "ref": "A-1475.1",
+          "description": "Brigitte Macron opens Paris Design Week (September 4, 2025), photographed with the French Minister of Culture.",
+          "related_claims": [
+            "C-1798"
+          ],
+          "related_nodes": [
+            "N-5",
+            "N-1365"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1475.2",
+          "ref": "A-1475.2",
+          "description": "Photograph of Brigitte Macron with Zelensky at an interstate meeting (September 4, 2025); separately a daytime photo of Brigitte with a Saudi Arabia orchestra event.",
+          "related_claims": [
+            "C-1799"
+          ],
+          "related_nodes": [
+            "N-5",
+            "N-8",
+            "N-1365"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1476",
+      "family_ref": "A-1476",
+      "bundle_name": "YouTube Live Poll Results",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1476.1",
+          "ref": "A-1476.1",
+          "description": "Live poll: \"Do you think that this lawsuit was an operation against me?\" — Result at time of reading: 24,856 votes, 93% Yes.",
+          "related_claims": [
+            "C-1802"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-1366"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:53:57–00:54:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1477",
+      "family_ref": "A-1477",
+      "bundle_name": "Operation Valhalla Reference",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1477.1",
+          "ref": "A-1477.1",
+          "description": "Host-cited joint military-civilian exercise at Camp Ripley, Minnesota (described as including Minot Air Force Base personnel), running approximately August 25–27, 2025.",
+          "related_claims": [
+            "C-1786"
+          ],
+          "related_nodes": [
+            "N-1361",
+            "N-1368"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:59–00:17:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1478",
+      "family_ref": "A-1478",
+      "bundle_name": "Operation Bright Star Reference",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1478.1",
+          "ref": "A-1478.1",
+          "description": "Host-cited bi-annual joint US-Egypt military operation in Cairo, running August 29 – September 10, 2025.",
+          "related_claims": [
+            "C-1787"
+          ],
+          "related_nodes": [
+            "N-1362"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:39–00:22:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1479",
+      "family_ref": "A-1479",
+      "bundle_name": "Article on August 2025 French Foreign Legion Command Changes",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1479.1",
+          "ref": "A-1479.1",
+          "description": "Article published August 20, 2025 (transcribed as \"In 2000 2025\" — transcription error for 2025): reports a change of command across six French Foreign Legion regiments.",
+          "related_claims": [
+            "C-1788"
+          ],
+          "related_nodes": [
+            "N-1363"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-451",
+      "ref": "N-451",
+      "name": "Adam Sosnick",
+      "type": "person",
+      "description": "PBD Podcast personality; on-air subject of clip claiming host has no famous friends and is the figure blamed by Eric Bolling in A-1474 (\"that Alex guy\").",
+      "related_artifacts": [
+        "A-1473.1",
+        "A-1474.1"
+      ],
+      "related_claims": [
+        "C-1800",
+        "C-1801"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-452",
+      "ref": "N-452",
+      "name": "Patrick Bet-David",
+      "type": "person",
+      "description": "Host of PBD Podcast; platform through which Sosnick segment was aired.",
+      "related_artifacts": [
+        "A-1473.1"
+      ],
+      "related_claims": [
+        "C-1800"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-453",
+      "ref": "N-453",
+      "name": "Eric Bolling",
+      "type": "person",
+      "description": "Television personality and political commentator; author of the apology email in A-1474 referencing the PBD incident involving Candace Owens.",
+      "related_artifacts": [
+        "A-1474.1"
+      ],
+      "related_claims": [
+        "C-1801"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-454",
+      "ref": "N-454",
+      "name": "Xavier Poussard",
+      "type": "person",
+      "description": "French journalist; named in Candace Owens's November 25 tweet (A-1461.1) as also at risk.",
+      "related_artifacts": [
+        "A-1461.1"
+      ],
+      "related_claims": [
+        "C-1781"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-455",
+      "ref": "N-455",
+      "name": "Freddy Ponton",
+      "type": "person",
+      "description": "Article author of \"Past as Prologue, Safari Club Illuminates Candace Owens' allegations\" (A-1463.1); provides contextual framing linking the host's allegations to historical covert-operation patterns.",
+      "related_artifacts": [
+        "A-1463.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1364"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-456",
+      "ref": "N-456",
+      "name": "Andy Parrish",
+      "type": "person",
+      "description": "X poster identifying as former chief of staff to a Republican state representative (state not specified on air); source of the Camp Riley / Camp Ripley correction.",
+      "related_artifacts": [
+        "A-1468.1"
+      ],
+      "related_claims": [
+        "C-1785"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1368"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-457",
+      "ref": "N-457",
+      "name": "Hervé Hopineau",
+      "type": "person",
+      "description": "Identified in source email A-1469.4 as long-time CEO of Incyte and a French national, recently transitioned to advisor role. Spelling uncertainty: host false-starts with \"Hervé Hope\" before correcting to \"Hopineau.\"",
+      "related_artifacts": [
+        "A-1469.4"
+      ],
+      "related_claims": [
+        "C-1794"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1357"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-458",
+      "ref": "N-458",
+      "name": "Miriam Deed",
+      "type": "person",
+      "description": "Public commenter quoted in local coverage (A-1471.2) expressing concern about lack of accountability regarding the Bracebridge Complex.",
+      "related_artifacts": [
+        "A-1471.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1356"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-459",
+      "ref": "N-459",
+      "name": "Pierre S. du Pont",
+      "type": "person",
+      "description": "Founder of Longwood Foundation (per source email A-1469.3); member of French-American du Pont family descended from Pierre Samuel du Pont de Nemours.",
+      "related_artifacts": [
+        "A-1469.3"
+      ],
+      "related_claims": [
+        "C-1792",
+        "C-1793"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1356",
+        "N-1358",
+        "N-461"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-460",
+      "ref": "N-460",
+      "name": "T. Coleman du Pont",
+      "type": "person",
+      "description": "French-American then-president of du Pont; per source email A-1469.5, founder of Wilmington Trust, which acquired most lower-Delaware WSFS branches in 1990.",
+      "related_artifacts": [
+        "A-1469.5"
+      ],
+      "related_claims": [
+        "C-1795"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-459",
+        "N-1358",
+        "N-1359"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-461",
+      "ref": "N-461",
+      "name": "Pavel Durov",
+      "type": "person",
+      "description": "Founder of Telegram; X poster whose on-air quote (A-1462.1) endorses plausibility of French involvement claims.",
+      "related_artifacts": [
+        "A-1462.1"
+      ],
+      "related_claims": [
+        "C-1782"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1354",
+      "ref": "N-1354",
+      "name": "French Street Wilmington Historical Cluster",
+      "type": "investigation_target",
+      "description": "Persistent claim that Wilmington's North French Street originated as Willing Street in Thomas Willing's grid and was renamed after 1790s Haitian/French Revolution refugee settlement; central to the alleged \"French network\" narrative.",
+      "related_artifacts": [
+        "A-1469.1"
+      ],
+      "related_claims": [
+        "C-1789"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1355",
+      "ref": "N-1355",
+      "name": "920 North King Street Federal Presence",
+      "type": "investigation_target",
+      "description": "Claim that three federal agencies work together at 920 North King Street, Wilmington; also identified as the address to which a foreign dignitary was escorted and where the attorneys filing Candace Owens's Brigitte-lawsuit paperwork are housed.",
+      "related_artifacts": [
+        "A-1469.2",
+        "A-1470.1"
+      ],
+      "related_claims": [
+        "C-1790"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1356",
+      "ref": "N-1356",
+      "name": "Bracebridge Complex French Connection",
+      "type": "investigation_target",
+      "description": "1100 North King Street complex: originally Maryland Bank HQ (1995), Bank of America acquired (2006) and vacated (2018); 2024 legislation supporting Longwood Foundation (Pierre S. du Pont) to operate as educational center; six connected buildings on French Street and King Street.",
+      "related_artifacts": [
+        "A-1469.3",
+        "A-1470.2",
+        "A-1471.1",
+        "A-1471.2"
+      ],
+      "related_claims": [
+        "C-1791",
+        "C-1793"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-458",
+        "N-459"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1357",
+      "ref": "N-1357",
+      "name": "Incyte Corporation French CEO",
+      "type": "investigation_target",
+      "description": "Claim that long-time Incyte CEO was Hervé Hopineau (French national), now advisor; Incyte owns the construction site across from 920 North King and is plugged into VA/military health care supply chains.",
+      "related_artifacts": [
+        "A-1469.4"
+      ],
+      "related_claims": [
+        "C-1794"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-457"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1358",
+      "ref": "N-1358",
+      "name": "Longwood Foundation / Pierre du Pont Educational Center",
+      "type": "investigation_target",
+      "description": "Claim that 2024 legislation provided financial support to the Longwood Foundation (founded by Pierre S. du Pont) to function as an educational center at Bracebridge.",
+      "related_artifacts": [
+        "A-1469.3"
+      ],
+      "related_claims": [
+        "C-1792"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-459"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1359",
+      "ref": "N-1359",
+      "name": "Wilmington Trust / T. Coleman du Pont",
+      "type": "investigation_target",
+      "description": "Claim that the Wilmington Trust was founded by T. Coleman du Pont; located at 1100 North Market Street on Rodney Square, adjacent to Bracebridge; acquired WSFS branches in 1990.",
+      "related_artifacts": [
+        "A-1469.5"
+      ],
+      "related_claims": [
+        "C-1795"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-460",
+        "N-1360"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1360",
+      "ref": "N-1360",
+      "name": "Rodney Square / 500 Delaware Avenue Federal Cluster",
+      "type": "investigation_target",
+      "description": "Claim that 500 North Delaware Avenue hosts an FBI presence; MGM Delaware Avenue law firm occupies Suite 200 directly below the FBI Suite 300; located on Rodney Square alongside Wilmington Trust and Bracebridge.",
+      "related_artifacts": [
+        "A-1469.5",
+        "A-1469.6"
+      ],
+      "related_claims": [
+        "C-1796"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1361",
+      "ref": "N-1361",
+      "name": "French Foreign Legion US Training August 2025",
+      "type": "investigation_target",
+      "description": "Joint training exercises: (a) FFL 2nd Foreign Infantry Regiment with US Marines 6th Marine Regiment in California, August 2–25, 2025 (A-1465.1, confirmed by France 24 / French Ministry); (b) Operation Valhalla joint military-civilian exercise at Camp Ripley, MN, August 25–27, 2025 (A-1477.1, host-cited).",
+      "related_artifacts": [
+        "A-1465.1",
+        "A-1477.1"
+      ],
+      "related_claims": [
+        "C-1783",
+        "C-1786"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1368"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1362",
+      "ref": "N-1362",
+      "name": "Operation Bright Star August–September 2025",
+      "type": "investigation_target",
+      "description": "Claim that Operation Bright Star (bi-annual US-Egypt joint operation in Cairo) ran August 29 – September 10, 2025, ending on the day of the Charlie Kirk assassination.",
+      "related_artifacts": [
+        "A-1478.1"
+      ],
+      "related_claims": [
+        "C-1787"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1363",
+      "ref": "N-1363",
+      "name": "FFL Six-Regiment Command Change August 2025",
+      "type": "investigation_target",
+      "description": "Per an August 20, 2025 article (A-1479.1), six French Foreign Legion regiments underwent changes of command in mid-August 2025.",
+      "related_artifacts": [
+        "A-1479.1"
+      ],
+      "related_claims": [
+        "C-1788"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1364",
+      "ref": "N-1364",
+      "name": "Safari Club Intelligence Network",
+      "type": "investigation_target",
+      "description": "Wikipedia-summarized covert alliance of intelligence services formed in 1976 (members including pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, France, Israel, Djibouti, South Africa); central to Ponton's framing of plausibility.",
+      "related_artifacts": [
+        "A-1463.1",
+        "A-1464.1"
+      ],
+      "related_claims": [
+        "C-1783"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-455"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1365",
+      "ref": "N-1365",
+      "name": "Brigitte Macron Schedule Gap September 4–10, 2025",
+      "type": "investigation_target",
+      "description": "Documented Brigitte Macron public appearances on September 4, 2025 (Paris Design Week, Zelensky photo, Saudi Arabia orchestra); six-day absence in public schedule before Charlie Kirk's September 10 assassination. Not a separate artifact in this episode beyond A-1475.1/A-1475.2.",
+      "related_artifacts": [
+        "A-1475.1",
+        "A-1475.2"
+      ],
+      "related_claims": [
+        "C-1798",
+        "C-1799"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-5"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1366",
+      "ref": "N-1366",
+      "name": "YouTube Live Poll: Lawsuit as Government Operation",
+      "type": "investigation_target",
+      "description": "Poll results from live show: 24,856 votes, 93% Yes on \"Do you think that this lawsuit was an operation against me?\"",
+      "related_artifacts": [
+        "A-1476.1"
+      ],
+      "related_claims": [
+        "C-1802"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1367",
+      "ref": "N-1367",
+      "name": "Camp Riley vs Camp Ripley Typo Issue",
+      "type": "investigation_target",
+      "description": "Host typed \"Camp Riley\" in her X post when referring to Camp Ripley, Minnesota; the French Ministry and France 24 used this typo to assert the host's broader allegations were unfounded; Andy Parrish identified the correct camp name.",
+      "related_artifacts": [
+        "A-1467.1",
+        "A-1468.1",
+        "A-1477.1"
+      ],
+      "related_claims": [
+        "C-1785"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-456",
+        "N-1361"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1368",
+      "ref": "N-1368",
+      "name": "Eric Bolling / PBD Podcast Apology Incident",
+      "type": "investigation_target",
+      "description": "Eric Bolling sent an apology email to Candace Owens's PR after a PBD segment in which he claimed she had not been friends with Charlie Kirk since 2017; he blamed \"that Alex guy\" (Adam Sosnick) and said he did not even know Adam's name (initially referring to him as \"Sam\").",
+      "related_artifacts": [
+        "A-1474.1"
+      ],
+      "related_claims": [
+        "C-1801"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-453",
+        "N-451"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Existing; PR figure under multiple artifact-anchored claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Existing; called out Blake Neff via audio artifact (A-2401.1).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-6",
+      "ref": "N-6",
+      "name": "Elizabeth Lane *(reused from Episode 1)*",
+      "type": "person",
+      "description": "Existing; subject of Politico profile and Tucker Carlson criticism.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-8",
+      "ref": "N-8",
+      "name": "Melody Hall",
+      "type": "person",
+      "description": "Publication of Erika Kirk op-ed (A-2348); subject of Charlie Kirk commentary clip (A-2345).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Holly Chalmers",
+      "type": "person",
+      "description": "Publisher of Blake Neff profile article (A-2347).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1781",
+      "ref": "C-1781",
+      "label": "Candace Owens publicly claims Macron-authorized assassination plot",
+      "claim": "On November 25, 2025, Candace Owens publicly stated via X that a high-ranking French government employee claimed the Macrons had executed upon and paid for her assassination, with the green light given to a GIGN team including one Israeli operative, and that Charlie Kirk's assassin trained with the French Foreign Legion's 13th Brigade.",
+      "anchored_artifacts": [
+        "A-1461.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-4",
+        "N-5",
+        "N-454"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:49",
+      "investigative_direction": "Obtain the underlying source communication; verify the identity and position of the French government contact; cross-check with FBI/Counterterrorism response records (FOIA where possible)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1782",
+      "ref": "C-1782",
+      "label": "Pavel Durov endorses plausibility of French involvement claims",
+      "claim": "Telegram founder Pavel Durov publicly stated that after reviewing Charlie Kirk's prior comments about Macron's France, he finds Candace Owens's information about French involvement in Kirk's death entirely plausible.",
+      "anchored_artifacts": [
+        "A-1462.1"
+      ],
+      "related_nodes": [
+        "N-461",
+        "N-3",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:41",
+      "investigative_direction": "Locate original Durov X post (date, full context) and verify any prior Durov statements about the 300% tariff framing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1783",
+      "ref": "C-1783",
+      "label": "Ponton frames Safari Club precedent as supporting plausibility",
+      "claim": "Article author Freddy Ponton argued that the hesitation in dismissing Owens's allegations comes not from trust in her but from documented precedent of multi-state covert operations, citing the 1976 Safari Club intelligence alliance.",
+      "anchored_artifacts": [
+        "A-1463.1",
+        "A-1464.1"
+      ],
+      "related_nodes": [
+        "N-455",
+        "N-1364"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:57",
+      "investigative_direction": "Verify Ponton's article URL; corroborate the Safari Club member list against declassified records; assess whether the Safari Club precedent materially maps onto the present allegations."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1784",
+      "ref": "C-1784",
+      "label": "French Ministry officially denies Tyler Robinson FFL service",
+      "claim": "The French Ministry of the Armed Forces issued a public statement that Tyler Robinson was never part of the French Foreign Legion and could not have trained with it if he did not serve in an American military unit.",
+      "anchored_artifacts": [
+        "A-1466.1"
+      ],
+      "related_nodes": [
+        "N-6",
+        "N-5"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:50",
+      "investigative_direction": "Obtain original Ministry press release with date and spokesperson; cross-reference with Tyler Robinson's known background; verify the formal French position via Élysée or Ministry press archives."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1785",
+      "ref": "C-1785",
+      "label": "Camp Riley typo identified; Camp Ripley confirmed",
+      "claim": "A Camp Riley does not exist in Minnesota; Camp Ripley is the correct name, as identified by Andy Parrish on X.",
+      "anchored_artifacts": [
+        "A-1467.1",
+        "A-1468.1"
+      ],
+      "related_nodes": [
+        "N-456",
+        "N-1367"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:28",
+      "investigative_direction": "Confirm Camp Ripley as the relevant installation; identify whether Minot AFB personnel participated in a Camp Ripley exercise in late August 2025 via official press releases."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1786",
+      "ref": "C-1786",
+      "label": "France 24 confirms California FFL training; denies Camp Riley Minnesota exercise",
+      "claim": "A France 24 article reports that the French Ministry of the Armed Forces confirmed the August 2–25, 2025 California FFL training exercise and formally denied a follow-on exercise at a \"Camp Riley\" in Minnesota, noting no such camp exists.",
+      "anchored_artifacts": [
+        "A-1467.1",
+        "A-1465.1"
+      ],
+      "related_nodes": [
+        "N-1361",
+        "N-1367"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:45",
+      "investigative_direction": "Locate original France 24 article; verify whether the Ministry's denial extends to any Camp Ripley exercise or only to \"Camp Riley\" as named."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1787",
+      "ref": "C-1787",
+      "label": "Operation Bright Star timing spans August 29 to September 10, 2025",
+      "claim": "Operation Bright Star, a bi-annual US-Egypt joint military operation in Cairo, ran August 29 through September 10, 2025 — ending the day of the Charlie Kirk assassination.",
+      "anchored_artifacts": [
+        "A-1478.1"
+      ],
+      "related_nodes": [
+        "N-1362"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:39",
+      "investigative_direction": "Verify Operation Bright Star 2025 dates via US Central Command or Egyptian military press releases; confirm exercise scope and participating units."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1788",
+      "ref": "C-1788",
+      "label": "Six French Foreign Legion regiments changed command in mid-August 2025",
+      "claim": "An article dated August 20, 2025 reported a change of command across six French Foreign Legion regiments in mid-August 2025.",
+      "anchored_artifacts": [
+        "A-1479.1"
+      ],
+      "related_nodes": [
+        "N-1363"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:30",
+      "investigative_direction": "Locate original article; obtain official command-change notices; identify the six regiments and whether any are the 2nd Foreign Infantry Regiment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1789",
+      "ref": "C-1789",
+      "label": "North French Street originated from 1790s refugee settlement",
+      "claim": "Per a source email, North French Street in Wilmington, Delaware originated in the 1790s when a cluster of French-speaking refugees from Haiti and the French Revolution settled along Willing Street, and the nickname French Street took over.",
+      "anchored_artifacts": [
+        "A-1469.1"
+      ],
+      "related_nodes": [
+        "N-1354"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:55",
+      "investigative_direction": "Verify via Wilmington city historical archives; corroborate the Thomas Willing grid and 1790s French/Haitian refugee settlement pattern with academic historical sources."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1790",
+      "ref": "C-1790",
+      "label": "Three federal agencies operate at 920 North King Street, Wilmington",
+      "claim": "A source email asserts that three federal agencies work together at 920 North King Street, Wilmington, Delaware — the same address connected to the foreign-dignitary escort and to the attorneys filing the Macron-lawsuit paperwork.",
+      "anchored_artifacts": [
+        "A-1469.2"
+      ],
+      "related_nodes": [
+        "N-1355"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:24",
+      "investigative_direction": "Identify the specific federal agencies at 920 North King Street via public lease records; verify the attorneys-of-record for the Macron v. Owens Delaware filing and their physical address."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1791",
+      "ref": "C-1791",
+      "label": "Bank of America vacated Bracebridge Complex in 2018",
+      "claim": "Bank of America vacated the Bracebridge Complex in 2018, leaving the building empty, per local coverage and source email.",
+      "anchored_artifacts": [
+        "A-1469.3",
+        "A-1471.1",
+        "A-1471.2"
+      ],
+      "related_nodes": [
+        "N-1356"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:30",
+      "investigative_direction": "Verify Bank of America's Bracebridge exit via Wilmington business filings or news archives; obtain Miriam Deed comment context (which public meeting or hearing)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1792",
+      "ref": "C-1792",
+      "label": "Pierre S. du Pont founded Longwood Foundation",
+      "claim": "Per the source email, the Longwood Foundation was founded by Pierre S. du Pont, a member of the French-American du Pont family descended from Pierre Samuel du Pont de Nemours.",
+      "anchored_artifacts": [
+        "A-1469.3"
+      ],
+      "related_nodes": [
+        "N-459",
+        "N-1358"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:13",
+      "investigative_direction": "Verify Longwood Foundation founding date and founder via IRS Form 990 filings and du Pont family genealogical records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1793",
+      "ref": "C-1793",
+      "label": "2024 legislation provided support to Longwood Foundation",
+      "claim": "Per the source email, 2024 legislation was passed to provide financial support to the Longwood Foundation to function as an educational center at the Bracebridge Complex.",
+      "anchored_artifacts": [
+        "A-1469.3"
+      ],
+      "related_nodes": [
+        "N-1356",
+        "N-1358",
+        "N-459"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:23",
+      "investigative_direction": "Identify the specific Delaware legislation; obtain bill text and legislative history."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1794",
+      "ref": "C-1794",
+      "label": "Hervé Hopineau served as long-time CEO of Incyte",
+      "claim": "Per the source email, Hervé Hopineau (a French national) served as the long-time CEO of Incyte Corporation before recently transitioning to an advisor role.",
+      "anchored_artifacts": [
+        "A-1469.4"
+      ],
+      "related_nodes": [
+        "N-457",
+        "N-1357"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:11",
+      "investigative_direction": "Verify Incyte CEO succession records via SEC filings; confirm Hopineau's nationality and dates of service."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1795",
+      "ref": "C-1795",
+      "label": "T. Coleman du Pont founded Wilmington Trust",
+      "claim": "Per the source email, T. Coleman du Pont founded the Wilmington Trust, which in 1990 acquired most lower-Delaware branches of Wilmington Savings Fund Society (WSFS).",
+      "anchored_artifacts": [
+        "A-1469.5"
+      ],
+      "related_nodes": [
+        "N-460",
+        "N-1359"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:58",
+      "investigative_direction": "Verify Wilmington Trust founding date and founder via corporate filings and historical records; cross-check the 1990 WSFS branch transfer."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1796",
+      "ref": "C-1796",
+      "label": "FBI presence at 500 North Delaware Avenue",
+      "claim": "Per the source email, the FBI has a presence at 500 North Delaware Avenue, with MGM Delaware Avenue law firm occupying Suite 200 directly below the FBI Suite 300.",
+      "anchored_artifacts": [
+        "A-1469.6"
+      ],
+      "related_nodes": [
+        "N-1360"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:58",
+      "investigative_direction": "Identify the FBI tenant at 500 Delaware Avenue via federal lease records; confirm MGM Delaware Avenue's suite location."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1797",
+      "ref": "C-1797",
+      "label": "Ace Partners focuses investments on Israel-aligned aerospace/defense",
+      "claim": "Per the Ace Partners website, the firm's mission is to identify, invest in, and support startups in aerospace and defense technology with a specific focus on Israel.",
+      "anchored_artifacts": [
+        "A-1472.1"
+      ],
+      "related_nodes": [
+        "N-1360"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:00",
+      "investigative_direction": "Verify the current Ace Partners portfolio and confirm Satys as a portfolio company; cross-reference Israeli corporate registry."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1788",
+      "ref": "C-1788",
+      "label": "Six French Foreign Legion regiments changed command in mid-August 2025",
+      "claim": "",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": []
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1798",
+      "ref": "C-1798",
+      "label": "Brigitte Macron opened Paris Design Week on September 4, 2025",
+      "claim": "Brigitte Macron opened Paris Design Week on September 4, 2025, with the French Minister of Culture.",
+      "anchored_artifacts": [
+        "A-1475.1"
+      ],
+      "related_nodes": [
+        "N-5",
+        "N-1365"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:55",
+      "investigative_direction": "Verify via Paris Design Week official programming and French Ministry of Culture announcements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1799",
+      "ref": "C-1799",
+      "label": "Brigitte Macron photographed with Zelensky on September 4, 2025",
+      "claim": "Brigitte Macron was photographed with Ukrainian President Zelensky on September 4, 2025, during an interstate meeting that also included a Saudi Arabia orchestra event.",
+      "anchored_artifacts": [
+        "A-1475.2"
+      ],
+      "related_nodes": [
+        "N-5",
+        "N-8",
+        "N-1365"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:55",
+      "investigative_direction": "Verify via Élysée Palace official photo archive; cross-check date and location with Ukrainian presidential records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1800",
+      "ref": "C-1800",
+      "label": "Adam Sosnick states Candace Owens has no famous friends",
+      "claim": "On Patrick Bet-David's podcast, Adam Sosnick stated that Candace Owens has burned bridges with Turning Point USA, the Daily Wire, PragerU, Charlie Kirk, and Steven Crowder, and cannot be defended by named public figures.",
+      "anchored_artifacts": [
+        "A-1473.1"
+      ],
+      "related_nodes": [
+        "N-451",
+        "N-452"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:39",
+      "investigative_direction": "Obtain the full podcast segment; assess whether Sosnick's bridge-burning claims are factually substantiated; verify named relationships with past colleagues."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1801",
+      "ref": "C-1801",
+      "label": "Eric Bolling sent apology email blaming \"Alex\" (Adam Sosnick)",
+      "claim": "Eric Bolling sent an apology email to Candace Owens's PR in which he blamed \"that Alex guy\" (identified in the episode as Adam Sosnick) for the on-air conflict and said Bolling did not even know Sosnick's name at the time of recording.",
+      "anchored_artifacts": [
+        "A-1474.1"
+      ],
+      "related_nodes": [
+        "N-453",
+        "N-451",
+        "N-1368"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:17",
+      "investigative_direction": "Verify authenticity of the email; corroborate Bolling's claim that he initially called Sosnick \"Sam\"; obtain the full original PBD segment context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1802",
+      "ref": "C-1802",
+      "label": "YouTube live poll: 93% believe lawsuit is a government operation",
+      "claim": "Of approximately 24,856 voters in a YouTube live poll asking \"Do you think that this lawsuit was an operation against me?\", 93% answered Yes.",
+      "anchored_artifacts": [
+        "A-1476.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-1366"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:57",
+      "investigative_direction": "Treat as audience-opinion snapshot only; not a factual claim. Useful for tracking audience sentiment, not as evidence of underlying claim."
+    }
+  ],
+  "memes": []
+}

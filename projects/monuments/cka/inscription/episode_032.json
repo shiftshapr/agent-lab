@@ -1,0 +1,1312 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 32,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "0a9c6fafefe14c0d1f54417389a169941d6dc03778a4ff62159f241b54a502b4",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1399",
+      "family_ref": "A-1399",
+      "bundle_name": "Brett Cooper Lou Taylor Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1399.1",
+          "ref": "A-1399.1",
+          "description": "Brett Cooper Segment: Lou Taylor / Britney Spears Conservatorship Background (Part 1)",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1399.2",
+          "ref": "A-1399.2",
+          "description": "Brett Cooper Segment: Lou Taylor Qualifications and Calvary Chapel Brentwood (Part 2)",
+          "related_claims": [
+            "C-1695",
+            "C-1696",
+            "C-1697"
+          ],
+          "related_nodes": [
+            "N-392",
+            "N-393",
+            "N-394"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1400",
+      "family_ref": "A-1400",
+      "bundle_name": "LA Times Britney Spears Conservatorship Article",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1400.1",
+          "ref": "A-1400.1",
+          "description": "LA Times Headline: \"Britney Spears' lawyer emails show ex-business manager helped set up conservatorship\"",
+          "related_claims": [
+            "C-1698"
+          ],
+          "related_nodes": [
+            "N-392",
+            "N-395"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1401",
+      "family_ref": "A-1401",
+      "bundle_name": "Daily Mail Britney Spears / Jamie Spears Affair Article",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1401.1",
+          "ref": "A-1401.1",
+          "description": "Daily Mail Headline (read on air): Britney Spears accuses dad Jamie of affair with ex-business manager Lou Taylor and alleges funding of Holy Land baptism trip",
+          "related_claims": [
+            "C-1699"
+          ],
+          "related_nodes": [
+            "N-392",
+            "N-395"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1402",
+      "family_ref": "A-1402",
+      "bundle_name": "The New Yorker Lou Taylor Article",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1402.1",
+          "ref": "A-1402.1",
+          "description": "The New Yorker Report: Lou Taylor and attempts to place Courtney Love and Lindsay Lohan into conservatorships",
+          "related_claims": [
+            "C-1700"
+          ],
+          "related_nodes": [
+            "N-392",
+            "N-396",
+            "N-397"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1403",
+      "family_ref": "A-1403",
+      "bundle_name": "Jamie Spears 2010 Financial Document",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1403.1",
+          "ref": "A-1403.1",
+          "description": "2010 Financial Document showing Jamie Spears tithing approximately 10% of conservatorship income to Calvary Chapel Brentwood",
+          "related_claims": [
+            "C-1697"
+          ],
+          "related_nodes": [
+            "N-395",
+            "N-392",
+            "N-394"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1404",
+      "family_ref": "A-1404",
+      "bundle_name": "Michael Lohan Press Statement Audio",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1404.1",
+          "ref": "A-1404.1",
+          "description": "Michael Lohan on-the-record statement accusing Lou Taylor / associates of leaking rehab information to press regarding Lindsay Lohan",
+          "related_claims": [
+            "C-1701"
+          ],
+          "related_nodes": [
+            "N-398",
+            "N-399",
+            "N-392"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1405",
+      "family_ref": "A-1405",
+      "bundle_name": "Viewer Email Tip Bundle (Lou Taylor)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1405.1",
+          "ref": "A-1405.1",
+          "description": "Partially redacted viewer email (top blacked out) alleging Lou Taylor and Rob McCoy's church is a \"front,\" alleging Lou Taylor ties to CIA/Mossad, Black Cube Security, Harvey Weinstein security detail, and claiming Rob Taylor traveled to Israel with Lou Taylor",
+          "related_claims": [
+            "C-1702"
+          ],
+          "related_nodes": [
+            "N-392",
+            "N-394",
+            "N-1319"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1406",
+      "family_ref": "A-1406",
+      "bundle_name": "Courtney Love Text Screenshots (January 2025)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1406.1",
+          "ref": "A-1406.1",
+          "description": "Text messages from Courtney Love to host (Jan 2025) discussing Haight-Ashbury Clinic experimentation, \"Mormon mafia,\" Lou Taylor, and naming figures including Bill Gates's grandfather, R. Todd Nielson, and \"Nsign/NGO\"",
+          "related_claims": [
+            "C-1703",
+            "C-1704",
+            "C-1705",
+            "C-1706"
+          ],
+          "related_nodes": [
+            "N-396",
+            "N-400",
+            "N-1319",
+            "N-1320"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1407",
+      "family_ref": "A-1407",
+      "bundle_name": "Bob Bryar Twitter Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1407.1",
+          "ref": "A-1407.1",
+          "description": "Bob Bryar (My Chemical Romance drummer) public Twitter/X post alleging he was Lou Taylor's business manager for 18 years until September; alleges the Kardashians have \"blood on their hands\"",
+          "related_claims": [
+            "C-1707"
+          ],
+          "related_nodes": [
+            "N-401",
+            "N-392"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1408",
+      "family_ref": "A-1408",
+      "bundle_name": "People Magazine Bob Bryar Death Article",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1408.1",
+          "ref": "A-1408.1",
+          "description": "People Magazine: \"My Chemical Romance rocker Bob Bryar's cause of death ruled undetermined. Nitrous oxide found near his body.\"",
+          "related_claims": [
+            "C-1708"
+          ],
+          "related_nodes": [
+            "N-401"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1409",
+      "family_ref": "A-1409",
+      "bundle_name": "Charlie Kirk Event — Bush Activity Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1409.1",
+          "ref": "A-1409.1",
+          "description": "Viewer-submitted photo: person in maroon shirt partially concealed in bush at event; appears standing while crowd ducks",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1409.2",
+          "ref": "A-1409.2",
+          "description": "Second viewer-submitted photo: additional individual in maroon shirt within the same bush prior to event",
+          "related_claims": [
+            "C-1709"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1321"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1410",
+      "family_ref": "A-1410",
+      "bundle_name": "Samir Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1410.1",
+          "ref": "A-1410.1",
+          "description": "Public photo posted by \"Samir\" showing himself alongside the maroon shirt individual from the Kirk event; per host both attended BYU",
+          "related_claims": [
+            "C-1710",
+            "C-1711"
+          ],
+          "related_nodes": [
+            "N-402",
+            "N-1321"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1411",
+      "family_ref": "A-1411",
+      "bundle_name": "Butch Hibbs Interview Background Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1411.1",
+          "ref": "A-1411.1",
+          "description": "Video clip: Butch Hibbs lingering in background while another individual gives media interview at scene post-shooting",
+          "related_claims": [
+            "C-1712"
+          ],
+          "related_nodes": [
+            "N-403",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1412",
+      "family_ref": "A-1412",
+      "bundle_name": "Daily Mail Victoria Churchill TPUSA Article",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1412.1",
+          "ref": "A-1412.1",
+          "description": "Daily Mail article by Victoria Churchill (APAC reporter) describing Ali Stucky as TPUSA \"heir\" / \"heir apparent\"",
+          "related_claims": [
+            "C-1713"
+          ],
+          "related_nodes": [
+            "N-404",
+            "N-2"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:56:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1413",
+      "family_ref": "A-1413",
+      "bundle_name": "Wall Street Journal TPUSA Heir Article",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1413.1",
+          "ref": "A-1413.1",
+          "description": "Wall Street Journal headline repeating \"heir apparent\" framing of TPUSA succession",
+          "related_claims": [
+            "C-1714"
+          ],
+          "related_nodes": [
+            "N-404",
+            "N-2"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:57:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1414",
+      "family_ref": "A-1414",
+      "bundle_name": "Candace–Charlie Kirk Loyalty Replay Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1414.1",
+          "ref": "A-1414.1",
+          "description": "Replayed audio clip of Candace Owens and Charlie Kirk discussing loyalty, foxhole allegiances, and \"bullets flying\"",
+          "related_claims": [
+            "C-1715"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1322"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-392",
+      "ref": "N-392",
+      "name": "Lou Taylor",
+      "type": "person",
+      "description": "Business manager associated with Britney Spears' conservatorship; allegedly began career at Calvary Chapel Brentwood alongside her then-pastor husband; founder/principal of Tri Star (referenced as \"Tristar\" in transcript).",
+      "related_artifacts": [
+        "A-1399.1",
+        "A-1399.2",
+        "A-1400.1",
+        "A-1401.1",
+        "A-1402.1",
+        "A-1403.1",
+        "A-1404.1",
+        "A-1405.1",
+        "A-1406.1",
+        "A-1407.1"
+      ],
+      "related_claims": [
+        "C-1695",
+        "C-1696",
+        "C-1697",
+        "C-1698",
+        "C-1699",
+        "C-1700",
+        "C-1701",
+        "C-1702",
+        "C-1706",
+        "C-1707"
+      ],
+      "tags": [],
+      "evidence_count": 10,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-394",
+        "N-395",
+        "N-1319"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-393",
+      "ref": "N-393",
+      "name": "Brett Cooper",
+      "type": "person",
+      "description": "Host/creator of independent commentary show; source of two audio segments read aloud describing Lou Taylor and Britney Spears conservatorship details.",
+      "related_artifacts": [
+        "A-1399.1",
+        "A-1399.2"
+      ],
+      "related_claims": [
+        "C-1695",
+        "C-1696",
+        "C-1697"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-394",
+      "ref": "N-394",
+      "name": "Robin Taylor / \"Rob Taylor\" / \"Luke Taylor\" (Name uncertainty — flagged)",
+      "type": "person",
+      "description": "Lou Taylor's husband; pastor at Calvary Chapel Brentwood per Brett Cooper segment. Transcript renders the name in three different forms (Robin, Rob, Luke); the same individual is plainly referenced. Multiple occurrences warrant separate recording correction.",
+      "related_artifacts": [
+        "A-1399.2",
+        "A-1405.1"
+      ],
+      "related_claims": [
+        "C-1695"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-392"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-395",
+      "ref": "N-395",
+      "name": "Jamie Spears (Jamie Lynn Spears's father; Britney Spears's father)",
+      "type": "person",
+      "description": "Conservator and conservatorship income recipient; tithing donor to Calvary Chapel Brentwood per 2010 financial document.",
+      "related_artifacts": [
+        "A-1400.1",
+        "A-1401.1",
+        "A-1403.1"
+      ],
+      "related_claims": [
+        "C-1697",
+        "C-1698",
+        "C-1699"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-396",
+      "ref": "N-396",
+      "name": "Courtney Love",
+      "type": "person",
+      "description": "Musician; subject of allegation that Lou Taylor attempted to place her under conservatorship (per New Yorker); source of January 2025 text messages describing alleged \"Mormon mafia\" and Haight-Ashbury experimentation.",
+      "related_artifacts": [
+        "A-1402.1",
+        "A-1406.1"
+      ],
+      "related_claims": [
+        "C-1700",
+        "C-1703",
+        "C-1704",
+        "C-1705"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1320"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-397",
+      "ref": "N-397",
+      "name": "Lindsay Lohan",
+      "type": "person",
+      "description": "Subject referenced in connection with Lou Taylor conservatorship allegations (New Yorker) and Michael Lohan press statement (Morning Star rehab leak).",
+      "related_artifacts": [
+        "A-1402.1",
+        "A-1404.1"
+      ],
+      "related_claims": [
+        "C-1700",
+        "C-1701"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-398"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-398",
+      "ref": "N-398",
+      "name": "Michael Lohan",
+      "type": "person",
+      "description": "Father of Lindsay Lohan; press statement cited accusing Lou Taylor and associates of leaking rehab information.",
+      "related_artifacts": [
+        "A-1404.1"
+      ],
+      "related_claims": [
+        "C-1701"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-397"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-399",
+      "ref": "N-399",
+      "name": "Bob Koy / Bob Coy (Name uncertainty)",
+      "type": "person",
+      "description": "Referenced as mentor of the Taylor family in Brentwood, Tennessee; subject of prior-day discussion in Episode 31; allegedly involved in sexual abuse scandal. Transcript renders the name as \"Bob Koy.\"",
+      "related_artifacts": [
+        "A-1405.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-392",
+        "N-1319"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-400",
+      "ref": "N-400",
+      "name": "R. Todd Nielson (per A-1406.1)",
+      "type": "person",
+      "description": "Named in Courtney Love text screenshots as a \"corrupt Fed\" and as an LDS apostle. Single-source; unverified.",
+      "related_artifacts": [
+        "A-1406.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-396"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-401",
+      "ref": "N-401",
+      "name": "Bob Bryar",
+      "type": "person",
+      "description": "Drummer, My Chemical Romance; deceased; cause of death ruled undetermined per People magazine; per his own public Twitter post, was Lou Taylor's business manager for 18 years through September (year unspecified in transcript).",
+      "related_artifacts": [
+        "A-1407.1",
+        "A-1408.1"
+      ],
+      "related_claims": [
+        "C-1707",
+        "C-1708"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-392"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-402",
+      "ref": "N-402",
+      "name": "Samir",
+      "type": "person",
+      "description": "On-scene videographer at Kirk event; allegedly BYU alumnus; per host posted photo with maroon shirt person; allegedly permitted to interview Astrid Tuminez.",
+      "related_artifacts": [
+        "A-1410.1"
+      ],
+      "related_claims": [
+        "C-1710",
+        "C-1711"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1321"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-403",
+      "ref": "N-403",
+      "name": "Butch Hibbs",
+      "type": "person",
+      "description": "Brother of Jack Hibbs; alleged by host to have been in the bush at Kirk event prior to shooting and to have lingered at scene post-shooting during media interviews.",
+      "related_artifacts": [
+        "A-1409.1",
+        "A-1411.1"
+      ],
+      "related_claims": [
+        "C-1712"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-404",
+      "ref": "N-404",
+      "name": "Ali Stucky",
+      "type": "person",
+      "description": "Subject of Daily Mail and Wall Street Journal headlines framing her as TPUSA \"heir\" or \"heir apparent.\" Host disputes framing on air.",
+      "related_artifacts": [
+        "A-1412.1",
+        "A-1413.1"
+      ],
+      "related_claims": [
+        "C-1713",
+        "C-1714"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1319",
+      "ref": "N-1319",
+      "name": "Calvary Chapel Network Infiltration Question",
+      "type": "investigation_target",
+      "description": "Persistent investigation into whether multiple Calvary Chapel congregations and their leadership are participating in coordinated financial exploitation, tithing redirection, and intelligence-linked activity. Triggered by Brett Cooper segment, viewer email, and Courtney Love text messages.",
+      "related_artifacts": [
+        "A-1399.2",
+        "A-1403.1",
+        "A-1405.1",
+        "A-1406.1"
+      ],
+      "related_claims": [
+        "C-1697",
+        "C-1702",
+        "C-1705",
+        "C-1706"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-392",
+        "N-394"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1320",
+      "ref": "N-1320",
+      "name": "\"Mormon Mafia\" Allegation (Courtney Love Source)",
+      "type": "investigation_target",
+      "description": "Investigative target: alleged coordinating entity above Hollywood and \"Zionist Jews\" identified in Courtney Love text messages of January 2025. Single-source, unverified.",
+      "related_artifacts": [
+        "A-1406.1"
+      ],
+      "related_claims": [
+        "C-1705"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-396"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1321",
+      "ref": "N-1321",
+      "name": "Charlie Kirk Event — Maroon Shirt Individual Identification",
+      "type": "investigation_target",
+      "description": "Persistent investigation target. Photo and clip evidence presented in this episode identify an individual in a maroon shirt who was partially concealed in shrubbery, did not duck during the shooting, and calmly departed. Samir is alleged to know the individual but declined to provide contact.",
+      "related_artifacts": [
+        "A-1409.1",
+        "A-1409.2",
+        "A-1410.1",
+        "A-1411.1"
+      ],
+      "related_claims": [
+        "C-1709",
+        "C-1710"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-402",
+        "N-403",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1322",
+      "ref": "N-1322",
+      "name": "TPUSA Faith-Angle Investigation",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: pattern in which TPUSA-associated reporting/disputes focus on matters of religious affiliation (Catholicism, Calvary Chapel, faith-based leadership).",
+      "related_artifacts": [
+        "A-1414.1"
+      ],
+      "related_claims": [
+        "C-1715"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1323",
+      "ref": "N-1323",
+      "name": "Potter's Fields Hostile Takeover Allegation (Pre-Existing Target, New Evidence)",
+      "type": "investigation_target",
+      "description": "Allegation from a former insider that the Potter's Fields scandal was a staged hostile takeover by Rob McCoy following his installation as CFO. New evidence: email backup materials reportedly provided to host (not yet presented).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1319"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1695",
+      "ref": "C-1695",
+      "label": "Lou Taylor's Husband Pastored at Calvary Chapel Brentwood",
+      "claim": "According to Brett Cooper (read on air), Lou Taylor began her career working alongside her husband, who at the time was a pastor at Calvary Church in Brentwood, California.",
+      "anchored_artifacts": [
+        "A-1399.2"
+      ],
+      "related_nodes": [
+        "N-392",
+        "N-394"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:07",
+      "investigative_direction": "Verify Calvary Chapel Brentwood staff records circa 2005–2008 to confirm Lou Taylor's husband's pastoral role and tenure dates."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1696",
+      "ref": "C-1696",
+      "label": "Lou Taylor Lacked Formal Financial Qualifications",
+      "claim": "Brett Cooper states Lou Taylor had no financial background and was not an accountant, despite serving as a business manager.",
+      "anchored_artifacts": [
+        "A-1399.2"
+      ],
+      "related_nodes": [
+        "N-392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:07",
+      "investigative_direction": "Confirm via business filings (Tri Star / Tristar) and professional licensing records whether Lou Taylor held relevant financial credentials."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1697",
+      "ref": "C-1697",
+      "label": "Jamie Spears Tithed Approximately 10% of Conservatorship Income to Calvary Chapel Brentwood",
+      "claim": "Per Brett Cooper citing a 2010 financial document, Mr. Spears gave approximately 10% of his conservatorship income to Calvary Chapel Brentwood, \"tens of thousands of dollars\" in one year.",
+      "anchored_artifacts": [
+        "A-1399.2",
+        "A-1403.1"
+      ],
+      "related_nodes": [
+        "N-395",
+        "N-392",
+        "N-1319"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:07",
+      "investigative_direction": "Obtain the 2010 financial document referenced and confirm donor records at Calvary Chapel Brentwood."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1698",
+      "ref": "C-1698",
+      "label": "LA Times Reported Lawyer Emails Linked Lou Taylor to Conservatorship Setup",
+      "claim": "LA Times headline (read on air) reports Britney Spears's lawyer emails show her ex-business manager (Lou Taylor) helped set up the conservatorship.",
+      "anchored_artifacts": [
+        "A-1400.1"
+      ],
+      "related_nodes": [
+        "N-392",
+        "N-395"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:02",
+      "investigative_direction": "Locate and review the LA Times article and underlying email exhibits cited therein."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1699",
+      "ref": "C-1699",
+      "label": "Britney Spears Alleged Affair Between Jamie Spears and Lou Taylor",
+      "claim": "Per Daily Mail headline read on air, Britney Spears has accused her father Jamie and Lou Taylor of having an affair and of using estate funds for joint travel (Holy Land baptism trip).",
+      "anchored_artifacts": [
+        "A-1401.1"
+      ],
+      "related_nodes": [
+        "N-392",
+        "N-395"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:02",
+      "investigative_direction": "Review the underlying Daily Mail reporting and court documents cited; corroborate against any trial filings from Britney Spears's conservatorship termination proceedings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1700",
+      "ref": "C-1700",
+      "label": "The New Yorker Reported Lou Taylor Attempted Conservatorships of Courtney Love and Lindsay Lohan",
+      "claim": "Per host reference, The New Yorker reported that Lou Taylor also attempted to place Courtney Love and Lindsay Lohan into conservatorships.",
+      "anchored_artifacts": [
+        "A-1402.1"
+      ],
+      "related_nodes": [
+        "N-392",
+        "N-396",
+        "N-397"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:38",
+      "investigative_direction": "Locate the underlying New Yorker article and review primary sourcing for both alleged conservatorship attempts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1701",
+      "ref": "C-1701",
+      "label": "Michael Lohan Accused Lou Taylor of Leaking Lindsay Lohan Rehab Information",
+      "claim": "Michael Lohan (audio clip) states Lou Taylor and associates leaked to the press information about Lindsay Lohan's rehab, allegedly to redirect her to UCLA.",
+      "anchored_artifacts": [
+        "A-1404.1"
+      ],
+      "related_nodes": [
+        "N-392",
+        "N-398",
+        "N-397"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:53",
+      "investigative_direction": "Compare Lohan's public statement against contemporaneous press coverage of Morning Star / UCLA rehabs; review any subsequent litigation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1702",
+      "ref": "C-1702",
+      "label": "Insider Email Alleged Lou Taylor / Rob McCoy's Church Is a \"Front\" with Intelligence Links",
+      "claim": "Per partially redacted viewer email read on air, the sender alleges the Calvary Chapel associated with Lou Taylor is a front for the Taylors and \"Aruse\" (uncertain transcription), and that Lou Taylor has alleged ties to CIA, Mossad, Black Cube Security, and a property in Thousand Oaks tied to Tony Blair. Host flags all of this as unverified.",
+      "anchored_artifacts": [
+        "A-1405.1"
+      ],
+      "related_nodes": [
+        "N-392",
+        "N-394",
+        "N-1319"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:40",
+      "investigative_direction": "Identify sender through unredacted metadata; cross-reference Thousand Oaks property records and Black Cube Security client roster."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1703",
+      "ref": "C-1703",
+      "label": "Courtney Love Claims She Was Experimented on at Haight-Ashbury Clinic as a Toddler",
+      "claim": "Per Courtney Love text messages to host (Jan 2025), she was given LSD as a toddler at the Haight-Ashbury Clinic during the era of CIA mass experimentation on hippies.",
+      "anchored_artifacts": [
+        "A-1406.1"
+      ],
+      "related_nodes": [
+        "N-396",
+        "N-1320"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:30",
+      "investigative_direction": "Court Love is reportedly writing a book on this topic; verify against any forthcoming publication and corroborate via Haight-Ashbury Clinic / CIA program historical records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1704",
+      "ref": "C-1704",
+      "label": "Courtney Love Claims She Did Not Kill Kurt Cobain",
+      "claim": "Per Courtney Love text messages (Jan 2025), she states she did not kill Kurt Cobain and that his death was a \"psychological operation\" intended to redirect public attention away from CIA activity.",
+      "anchored_artifacts": [
+        "A-1406.1"
+      ],
+      "related_nodes": [
+        "N-396"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:30",
+      "investigative_direction": "Standalone claim only; no corroborating artifact in this episode."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1705",
+      "ref": "C-1705",
+      "label": "Courtney Love Alleges \"Mormon Mafia\" Sits Above Hollywood and \"Zionist Jews\"",
+      "claim": "Per Courtney Love text messages (Jan 2025), she alleges a \"Mormon mafia\" operates above Hollywood and above \"many Zionist Jews.\"",
+      "anchored_artifacts": [
+        "A-1406.1"
+      ],
+      "related_nodes": [
+        "N-396",
+        "N-1320",
+        "N-1319"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:30",
+      "investigative_direction": "Single-source; corroboration required before inscription as fact."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1706",
+      "ref": "C-1706",
+      "label": "Courtney Love Names Lou Taylor as Connected to Multiple High-Profile Figures",
+      "claim": "Per Courtney Love text messages (Jan 2025), she states Lou Taylor is connected to Kim Kardashian, Diddy, Jay-Z, and Beyoncé, and that Lou Taylor owns or sat on the board of a \"church home\" associated with Hillsong / Justin Bieber.",
+      "anchored_artifacts": [
+        "A-1406.1"
+      ],
+      "related_nodes": [
+        "N-392",
+        "N-1319"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:30",
+      "investigative_direction": "Review corporate filings of the named \"church home\" entity; cross-reference any disclosed business relationships."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1707",
+      "ref": "C-1707",
+      "label": "Bob Bryar Publicly Stated Lou Taylor Was His Business Manager for 18 Years",
+      "claim": "Per Bob Bryar's public Twitter/X post (October 2024 per host), Lou Taylor was his business manager for 18 years until separation in September (year not stated in transcript).",
+      "anchored_artifacts": [
+        "A-1407.1"
+      ],
+      "related_nodes": [
+        "N-401",
+        "N-392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:41",
+      "investigative_direction": "Locate Bryar's original tweet; cross-reference with any business filings linking Bryar to Tri Star."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1708",
+      "ref": "C-1708",
+      "label": "Bob Bryar's Cause of Death Ruled Undetermined; Nitrous Oxide Found Near Body",
+      "claim": "Per People magazine article (read on air), My Chemical Romance drummer Bob Bryar's cause of death was ruled undetermined, with nitrous oxide found near his body.",
+      "anchored_artifacts": [
+        "A-1408.1"
+      ],
+      "related_nodes": [
+        "N-401"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:41",
+      "investigative_direction": "Obtain full autopsy / coroner's report; review toxicology findings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1709",
+      "ref": "C-1709",
+      "label": "Individual in Maroon Shirt Observed Near Bush at Kirk Event; Did Not Duck When Shots Fired",
+      "claim": "Per host description of viewer-submitted photo and clip, an individual wearing a maroon shirt was partially concealed in shrubbery at the Kirk event; when shots were fired, the crowd ducked but he did not, and he calmly walked away.",
+      "anchored_artifacts": [
+        "A-1409.1",
+        "A-1409.2",
+        "A-1411.1"
+      ],
+      "related_nodes": [
+        "N-1321",
+        "N-403",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:29",
+      "investigative_direction": "Obtain high-resolution copies of all photos/video from multiple angles; cross-reference with FBI / state investigative files."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1710",
+      "ref": "C-1710",
+      "label": "Samir Posted Photo with Maroon Shirt Individual; Both Alleged BYU Alumni",
+      "claim": "Per host, \"Samir\" publicly posted a photo alongside the maroon shirt individual from the Kirk event and identified them both as BYU alumni.",
+      "anchored_artifacts": [
+        "A-1410.1"
+      ],
+      "related_nodes": [
+        "N-402",
+        "N-1321"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:05",
+      "investigative_direction": "Identify the second individual in the Samir photo; confirm BYU attendance."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1711",
+      "ref": "C-1711",
+      "label": "Samir Was Permitted to Interview Astrid Tuminez",
+      "claim": "Per host, \"Samir\" was granted an interview with UVU president Astrid Tuminez despite the host's own inability to obtain basic contact information from him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-402"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:05",
+      "investigative_direction": "Locate the published Samir / Tuminez interview and review sourcing/conditions."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1712",
+      "ref": "C-1712",
+      "label": "Butch Hibbs Lingered in Background During Post-Shooting Media Interview",
+      "claim": "Per video clip played on air, Butch Hibbs remained in the background during another individual's media interview at the scene after the Kirk shooting.",
+      "anchored_artifacts": [
+        "A-1411.1"
+      ],
+      "related_nodes": [
+        "N-403",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:56",
+      "investigative_direction": "Confirm Butch Hibbs's official role/access at the event; review any post-event investigative interviews."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1713",
+      "ref": "C-1713",
+      "label": "Daily Mail Headline Framed Ali Stucky as TPUSA \"Heir\"",
+      "claim": "Per host reference, Daily Mail (Victoria Churchill, APAC reporter) published a headline framing Ali Stucky as TPUSA's \"heir\" or equivalent.",
+      "anchored_artifacts": [
+        "A-1412.1"
+      ],
+      "related_nodes": [
+        "N-404",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:52",
+      "investigative_direction": "Obtain the article and verify framing language; host disputes framing on air."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1714",
+      "ref": "C-1714",
+      "label": "Wall Street Journal Repeated \"Heir Ali\" / \"Heir Apparent\" Framing for TPUSA",
+      "claim": "Per host reference, Wall Street Journal repeated the \"heir apparent\" framing of TPUSA succession.",
+      "anchored_artifacts": [
+        "A-1413.1"
+      ],
+      "related_nodes": [
+        "N-404",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:40",
+      "investigative_direction": "Locate the WSJ article and verify framing language."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1715",
+      "ref": "C-1715",
+      "label": "Charlie Kirk Articulated Preference for Foxhole-Style Friends in On-Air Conversation",
+      "claim": "Per replayed audio clip, Charlie Kirk stated that one wants friends who tell you where the bullets are coming from, not those who offer distractions, in a pre-assassination conversation with host.",
+      "anchored_artifacts": [
+        "A-1414.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1322"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:29",
+      "investigative_direction": "Verify timestamp/date of original recording; confirm via original footage."
+    }
+  ],
+  "memes": []
+}

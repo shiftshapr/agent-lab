@@ -1,0 +1,1470 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 87,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "b4380e6d087a8764d74904be2628e149d3b959bb6ee30a42cff982058d3dc8cf",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1917",
+      "family_ref": "A-1917",
+      "bundle_name": "New York Times Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1917.1",
+          "ref": "A-1917.1",
+          "description": "NYT 2012 Article: Romney–Netanyahu Friendship Dating to 1976",
+          "related_claims": [
+            "C-2626"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208",
+            "N-1648"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:21–00:04:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1918",
+      "family_ref": "A-1918",
+      "bundle_name": "Kash Patel X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1918.1",
+          "ref": "A-1918.1",
+          "description": "Kash Patel X Post: \"Subject in custody\" (4:21 PM MST)",
+          "related_claims": [
+            "C-2627",
+            "C-2628"
+          ],
+          "related_nodes": [
+            "N-1216",
+            "N-1210",
+            "N-1653"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1918.2",
+          "ref": "A-1918.2",
+          "description": "Kash Patel X Post: Subject Released After Interrogation (5:59 PM)",
+          "related_claims": [
+            "C-2627",
+            "C-2628"
+          ],
+          "related_nodes": [
+            "N-1216",
+            "N-1210",
+            "N-1653"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1919",
+      "family_ref": "A-1919",
+      "bundle_name": "Ahmed Qureshi LinkedIn Profile Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1919.1",
+          "ref": "A-1919.1",
+          "description": "Ahmed Qureshi LinkedIn Profile (President/COO Built Inc., Navy O6)",
+          "related_claims": [
+            "C-2629",
+            "C-2630",
+            "C-2631"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-1211",
+            "N-1652"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:27–00:12:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1920",
+      "family_ref": "A-1920",
+      "bundle_name": "USA Spending / Built Inc. Federal Contracts Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1920.1",
+          "ref": "A-1920.1",
+          "description": "USA Spending Records for Built Inc. — Contract Timeline",
+          "related_claims": [
+            "C-2631",
+            "C-2632"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-1211",
+            "N-1652"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:44–00:15:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1920.2",
+          "ref": "A-1920.2",
+          "description": "Baron Coleman Audio Clip — Built Inc. Contract Analysis",
+          "related_claims": [
+            "C-2631",
+            "C-2632"
+          ],
+          "related_nodes": [
+            "N-1215",
+            "N-1652"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:44–00:15:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1921",
+      "family_ref": "A-1921",
+      "bundle_name": "Gina Romney Henderson LinkedIn Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1921.1",
+          "ref": "A-1921.1",
+          "description": "Gina Romney Henderson LinkedIn (VP UX at Built Inc., BYU)",
+          "related_claims": [
+            "C-2633"
+          ],
+          "related_nodes": [
+            "N-1212",
+            "N-1207",
+            "N-1648"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1922",
+      "family_ref": "A-1922",
+      "bundle_name": "Washington Post Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1922.1",
+          "ref": "A-1922.1",
+          "description": "WaPo 2007 Article: \"FBI's forensic test is full of holes\"",
+          "related_claims": [
+            "C-2635",
+            "C-2636"
+          ],
+          "related_nodes": [
+            "N-1651"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:26–00:34:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1923",
+      "family_ref": "A-1923",
+      "bundle_name": "Trump Easter Remarks Audio/Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1923.1",
+          "ref": "A-1923.1",
+          "description": "Trump at White House Easter Event — Tells Erika Kirk to Sue Critics",
+          "related_claims": [
+            "C-2637"
+          ],
+          "related_nodes": [
+            "N-1218",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:57–00:40:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1924",
+      "family_ref": "A-1924",
+      "bundle_name": "Lyman Family / Robbie Hild Instagram Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1924.1",
+          "ref": "A-1924.1",
+          "description": "Phil Lyman Family Instagram Posts — Tracing Killer's Footprint",
+          "related_claims": [
+            "C-2641"
+          ],
+          "related_nodes": [
+            "N-1219"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:49",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1924.2",
+          "ref": "A-1924.2",
+          "description": "Robbie Hild BYU Lacrosse Image (Graduated ~2020)",
+          "related_claims": [
+            "C-2641",
+            "C-2645"
+          ],
+          "related_nodes": [
+            "N-1219",
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:30–00:30:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1925",
+      "family_ref": "A-1925",
+      "bundle_name": "Elizabeth Lane X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1925.1",
+          "ref": "A-1925.1",
+          "description": "Elizabeth Lane X Post — Locked-Down Hospitals",
+          "related_claims": [
+            "C-2627"
+          ],
+          "related_nodes": [
+            "N-1217"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:38–00:06:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1926",
+      "family_ref": "A-1926",
+      "bundle_name": "Episode Comments Bundle (Read Aloud)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1926.1",
+          "ref": "A-1926.1",
+          "description": "Yoshi Comment — Turning Point Funeral Mailer",
+          "related_claims": [
+            "C-2646",
+            "C-2647"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:25–00:45:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1926.2",
+          "ref": "A-1926.2",
+          "description": "\"007\" Comment — 2012 RNC Delegate Rule Change",
+          "related_claims": [
+            "C-2626"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:16–00:46:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1926.3",
+          "ref": "A-1926.3",
+          "description": "Amar Ramusa Comment — BYU Physicist Steven Jones / 9/11 Thermite Study",
+          "related_claims": [
+            "C-2638"
+          ],
+          "related_nodes": [
+            "N-1649"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1926.4",
+          "ref": "A-1926.4",
+          "description": "Seven Sheets Comment — Praise for Investigative Team",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1215"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:50:08–00:51:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Former Senator of Utah, 2012 presidential nominee, former CEO of Bain Capital. Co-founder of the long-running friendship with Netanyahu (since 1976 at Boston Consulting Group) that anchors this episode's investigative thesis. Connection to BYU network alleged throughout.",
+      "related_artifacts": [
+        "A-1917.1",
+        "A-1921.1",
+        "A-1924.2",
+        "A-1926.2"
+      ],
+      "related_claims": [
+        "C-2626",
+        "C-2633",
+        "C-2641",
+        "C-2648"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-1648"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Israeli Prime Minister; subject of Charlie Kirk's alleged final phone call described in earlier episodes. Connection to Utah alleged via 1976 friendship with Romney.",
+      "related_artifacts": [
+        "A-1917.1"
+      ],
+      "related_claims": [
+        "C-2626"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-1648"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Navy O6 (Captain), co-founder of Built Incorporated, alleged father of detained subject \"Zachariah Karashy.\" Holds East Coast HQ command post per LinkedIn.",
+      "related_artifacts": [
+        "A-1919.1",
+        "A-1920.1",
+        "A-1920.2"
+      ],
+      "related_claims": [
+        "C-2629",
+        "C-2630",
+        "C-2631",
+        "C-2632"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1210",
+        "N-1211",
+        "N-1652",
+        "N-1653"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Young man held by police ~4 hours after shooting, then released after interrogation. Father is Ahmed Qureshi. Linked by host to the Karashy spelling.",
+      "related_artifacts": [
+        "A-1918.1",
+        "A-1918.2"
+      ],
+      "related_claims": [
+        "C-2627",
+        "C-2629"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1209",
+        "N-1653"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Co-founder of Built Incorporated with Ahmed Qureshi. Alleged to have lived in same house as Qureshi family in Keller, Texas.",
+      "related_artifacts": [
+        "A-1919.1",
+        "A-1920.1"
+      ],
+      "related_claims": [
+        "C-2631",
+        "C-2633",
+        "C-2637"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1209",
+        "N-1212",
+        "N-1213",
+        "N-1652"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "VP of User Experience at Built Inc., BYU alumna. Alleged family tie to Mitt Romney.",
+      "related_artifacts": [
+        "A-1921.1"
+      ],
+      "related_claims": [
+        "C-2633",
+        "C-2641"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1211",
+        "N-1648"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Son of Nathan and Gina Romney Henderson. BYU graduate (within one year of Zachariah Qureshi). Alleged ER scribe at Timpanogos Hospital ~2024 until 2025-09.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2634"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1211",
+        "N-1212",
+        "N-1650"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Appointed CEO of Timpanogos Hospital August 19, 2025. Previously COO of Medical City in McKinney, Texas. BYU Jerusalem attendee. Subject of CIA-recruitment question.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2638",
+        "C-2639",
+        "C-2640",
+        "C-2642"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1650",
+        "N-1655"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Host of referenced \"high IQ outfit\" podcast; supplied USA Spending Built Inc. contract analysis played in this episode.",
+      "related_artifacts": [
+        "A-1920.1",
+        "A-1920.2",
+        "A-1926.4"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "FBI Director. Authored 4:21 PM \"subject in custody\" tweet and 5:59 PM release tweet on 2025-09-10.",
+      "related_artifacts": [
+        "A-1918.1",
+        "A-1918.2"
+      ],
+      "related_claims": [
+        "C-2627",
+        "C-2628"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1653"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Journalist who was on the ground in Utah on September 10; published X posts on hospital lockdowns and on characterizing Erika Kirk.",
+      "related_artifacts": [
+        "A-1925.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "U.S. President. Subject of Easter 2026 White House remarks clip advising Erika Kirk to sue critics.",
+      "related_artifacts": [
+        "A-1923.1"
+      ],
+      "related_claims": [
+        "C-2637"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "BYU lacrosse alumnus (~2020). Allegedly married into Romney family per viewer emails and social media. Early investigative focus.",
+      "related_artifacts": [
+        "A-1924.2"
+      ],
+      "related_claims": [
+        "C-2645",
+        "C-2648"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1654"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "Activist; reportedly stationed in Jerusalem during Romney 2012 campaign season alongside Andrew Zenger.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2649"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1221",
+      "ref": "N-1221",
+      "name": "Autopsy Record – Utah Privacy Statute Application",
+      "type": "investigation_target",
+      "description": "Romney 2012 campaign advisor; reportedly stationed in Jerusalem during campaign alongside Andrew Zenger.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2650"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1648",
+      "ref": "N-1648",
+      "name": "Romney–Netanyahu–Utah Connection Network",
+      "type": "investigation_target",
+      "description": "Persistent investigative target across multiple episodes. Anchored by 1976 Boston Consulting Group friendship and BYU/Jerusalem pipeline claims.",
+      "related_artifacts": [
+        "A-1917.1",
+        "A-1921.1",
+        "A-1924.2"
+      ],
+      "related_claims": [
+        "C-2626",
+        "C-2633",
+        "C-2648"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1212"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1649",
+      "ref": "N-1649",
+      "name": "BYU Jerusalem CIA Recruitment Question",
+      "type": "investigation_target",
+      "description": "Host asserts (without on-screen artifact) that BYU Jerusalem Center is a CIA recruitment location for elite Mormon youth.",
+      "related_artifacts": [
+        "A-1926.3"
+      ],
+      "related_claims": [
+        "C-2642"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1650",
+      "ref": "N-1650",
+      "name": "Timpanogos Hospital Records / Chain of Custody",
+      "type": "investigation_target",
+      "description": "Persistent target: FBI seized hospital footage on 2025-09-10; Connor Henderson alleged to have worked as ER scribe at the same facility; Andrew Zenger appointed CEO days before the event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2634",
+        "C-2638",
+        "C-2639"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1213",
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1651",
+      "ref": "N-1651",
+      "name": "Comparative Bullet Lead Analysis (CBLA) Revival",
+      "type": "investigation_target",
+      "description": "FBI technique used post-JFK 1963, abandoned 2005 after 2004 NAS finding. Host alleges FBI is reviving CBLA to connect Tyler Robinson's weapon to crime scene bullet.",
+      "related_artifacts": [
+        "A-1922.1"
+      ],
+      "related_claims": [
+        "C-2635",
+        "C-2636"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1652",
+      "ref": "N-1652",
+      "name": "Built Inc. Federal Contracting Pattern",
+      "type": "investigation_target",
+      "description": "Defense contractor receiving anomalous $7.4M Air Force + ~$240K Navy contracts in June 2025 after years of small contracts; co-founded by Ahmed Qureshi and Nathan Henderson.",
+      "related_artifacts": [
+        "A-1919.1",
+        "A-1920.1",
+        "A-1920.2"
+      ],
+      "related_claims": [
+        "C-2631",
+        "C-2632"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1209",
+        "N-1211"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1653",
+      "ref": "N-1653",
+      "name": "Decoy Subject Investigation (Karashy/Qureshi)",
+      "type": "investigation_target",
+      "description": "Pattern of false/early \"got the guy\" announcements and pre-event detention of subjects around September 10. Includes George Zin and Zachariah Qureshi.",
+      "related_artifacts": [
+        "A-1918.1",
+        "A-1918.2"
+      ],
+      "related_claims": [
+        "C-2628"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1210",
+        "N-1216"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1654",
+      "ref": "N-1654",
+      "name": "Robbie Hild–Romney Family Tie Verification",
+      "type": "investigation_target",
+      "description": "Host cannot relocate source document connecting Hild family to Romney family; requests viewer email tips.",
+      "related_artifacts": [
+        "A-1924.2"
+      ],
+      "related_claims": [
+        "C-2648"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-1219"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1655",
+      "ref": "N-1655",
+      "name": "Andrew Zenger CIA Contract Work Question",
+      "type": "investigation_target",
+      "description": "Open question whether Andrew Zenger has been/was recruited to or contracts with CIA, given Jerusalem-era roommate pattern.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2643",
+        "C-2644"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1656",
+      "ref": "N-1656",
+      "name": "Tyler Robinson Defense — Chain of Custody / Documents",
+      "type": "investigation_target",
+      "description": "Persistent target across series; host urges Robinson defense to demand full document disclosure including 600,000 documents.",
+      "related_artifacts": [
+        "A-1926.1"
+      ],
+      "related_claims": [
+        "C-2653"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2626",
+      "ref": "C-2626",
+      "label": "Romney–Netanyahu Friendship Dated to 1976 at Boston Consulting Group",
+      "claim": "A 2012 New York Times article confirms that the friendship between Mitt Romney and Benjamin Netanyahu dates to 1976 when both worked at the Boston Consulting Group.",
+      "anchored_artifacts": [
+        "A-1917.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1648"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:21–00:04:22",
+      "investigative_direction": "Obtain the NYT 2012 article in full and verify the 1976 Boston Consulting Group employment dates against public records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2627",
+      "ref": "C-2627",
+      "label": "Kash Patel Declared Subject in Custody ~4 Hours After Shooting",
+      "claim": "Kash Patel authored an X post at approximately 4:21 PM MST on 2025-09-10 stating that the subject in the Charlie Kirk shooting was in custody.",
+      "anchored_artifacts": [
+        "A-1918.1"
+      ],
+      "related_nodes": [
+        "N-1216",
+        "N-1210",
+        "N-1653",
+        "N-1217"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:11",
+      "investigative_direction": "Verify the tweet's exact timestamp and confirm the subject's identity against law enforcement records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2628",
+      "ref": "C-2628",
+      "label": "Same Subject Released After Interrogation ~90 Minutes Later",
+      "claim": "At 5:59 PM the same day, Kash Patel posted that the previously detained subject had been released after interrogation by law enforcement, with no further explanation given.",
+      "anchored_artifacts": [
+        "A-1918.2"
+      ],
+      "related_nodes": [
+        "N-1216",
+        "N-1210",
+        "N-1653"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:01",
+      "investigative_direction": "Obtain law enforcement records documenting the detention, interrogation, and release; cross-reference with identity of \"Zachariah Karashy.\""
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2629",
+      "ref": "C-2629",
+      "label": "Detained Subject Identified as Zachariah Karashy",
+      "claim": "The young man detained and released after interrogation is referred to as \"Zachariah Karashy,\" with the host later connecting him to Ahmed Qureshi's son \"Zachariah.\"",
+      "anchored_artifacts": [
+        "A-1918.1",
+        "A-1918.2"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-1209",
+        "N-1653"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:41–00:09:45",
+      "investigative_direction": "Confirm spelling of \"Karashy\" vs. \"Qureshi\" against official detention records; the name discrepancy requires resolution."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2630",
+      "ref": "C-2630",
+      "label": "Ahmed Qureshi Is Active-Duty Navy Captain (O6)",
+      "claim": "Ahmed Qureshi's LinkedIn profile lists him as President/COO of Built Incorporated, an O6 commanding officer (Navy Captain) at East Coast HQ since May 2024.",
+      "anchored_artifacts": [
+        "A-1919.1"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1652"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:27–00:12:44",
+      "investigative_direction": "Verify current rank and command assignment via official military biography."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2631",
+      "ref": "C-2631",
+      "label": "Ahmed Qureshi and Nathan Henderson Co-Founded Built Incorporated",
+      "claim": "Built Incorporated was co-founded by Ahmed Qureshi (an O5 at the time) and Nathan Henderson in 2015.",
+      "anchored_artifacts": [
+        "A-1919.1",
+        "A-1920.1"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1211",
+        "N-1652"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00–00:00:01",
+      "investigative_direction": "Cross-check corporate registration records (Secretary of State filings in Texas) for Built Incorporated founders and incorporation date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2632",
+      "ref": "C-2632",
+      "label": "Built Inc. Received ~$7.4M Air Force + ~$240K Navy in June 2025",
+      "claim": "USA Spending records show Built Incorporated received approximately $7.4M from the Air Force and just under $240K from the Navy in June 2025, with the largest contracts dated June 1 and June 16, 2025.",
+      "anchored_artifacts": [
+        "A-1920.1",
+        "A-1920.2"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1211",
+        "N-1652"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:43–00:16:05",
+      "investigative_direction": "Retrieve the raw USA Spending entries for Built Inc. by UEI, confirm contract amounts and dates against Baron Coleman's timeline."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2633",
+      "ref": "C-2633",
+      "label": "Gina Romney Henderson Is VP UX at Built Inc. and BYU Alumna",
+      "claim": "Gina Romney Henderson's LinkedIn profile identifies her as Vice President of User Experience at Built Incorporated and as a BYU alumna.",
+      "anchored_artifacts": [
+        "A-1921.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1207",
+        "N-1648",
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:51",
+      "investigative_direction": "Confirm employment and BYU degree via LinkedIn and university alumni records; investigate \"Romney\" family-tie claim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2634",
+      "ref": "C-2634",
+      "label": "Connor Henderson Worked as ER Scribe at Timpanogos",
+      "claim": "Connor Henderson worked as an emergency room scribe at Timpanogos Hospital from 2024 until approximately the time of Charlie Kirk's assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1213",
+        "N-1211",
+        "N-1212",
+        "N-1650"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:51–00:19:43",
+      "investigative_direction": "Obtain Connor Henderson's actual LinkedIn profile; verify Timpanogos HR records of scribe employment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2635",
+      "ref": "C-2635",
+      "label": "FBI Abandoned Comparative Bullet Lead Analysis in 2005",
+      "claim": "Per a 2007 Washington Post article, the FBI formally abandoned comparative bullet lead analysis in 2005 after a 2004 National Academy of Sciences report found the technique unreliable.",
+      "anchored_artifacts": [
+        "A-1922.1"
+      ],
+      "related_nodes": [
+        "N-1651"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:26–00:33:30",
+      "investigative_direction": "Retrieve the 2004 NAS report and 2007 WaPo article in full; verify FBI's formal abandonment date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2636",
+      "ref": "C-2636",
+      "label": "FBI Is Reviving CBLA in Robinson Case",
+      "claim": "The FBI is bringing the previously abandoned comparative bullet lead analysis technique back into use in an effort to connect Tyler Robinson's weapon to the alleged crime scene bullet.",
+      "anchored_artifacts": [
+        "A-1922.1"
+      ],
+      "related_nodes": [
+        "N-1651"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:26–00:34:18",
+      "investigative_direction": "Obtain court filings and ATF lab reports in the Robinson case to confirm whether CBLA is being used or referenced."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2637",
+      "ref": "C-2637",
+      "label": "Trump Told Erika Kirk at Easter to Sue Critics",
+      "claim": "At a 2026 White House Easter event, Donald Trump told Erika Kirk that she should sue people mocking her because they are jealous of her.",
+      "anchored_artifacts": [
+        "A-1923.1"
+      ],
+      "related_nodes": [
+        "N-1218",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:57–00:40:20",
+      "investigative_direction": "Obtain full unedited video of the Easter remarks; document any subsequent legal actions filed by Kirk."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2638",
+      "ref": "C-2638",
+      "label": "Qureshi and Henderson Families Lived in Same House, Keller, Texas",
+      "claim": "The Qureshi and Henderson families lived in the same house in Keller, Texas; the host offers alternative explanations (vacation rental, sale) but asserts cohabitation is not in dispute.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1209",
+        "N-1211",
+        "N-1212",
+        "N-1213",
+        "N-1652"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:55–00:17:51",
+      "investigative_direction": "Pull property records for Keller, Texas to identify ownership/residency history of both families."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2639",
+      "ref": "C-2639",
+      "label": "Andrew Zenger Appointed CEO of Timpanogos on 2025-08-19",
+      "claim": "Andrew Zenger was appointed CEO of Timpanogos Hospital on August 19, 2025, weeks before the September 10 event.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1214",
+        "N-1650"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:46",
+      "investigative_direction": "Confirm via Timpanogos press releases, LinkedIn, or Utah business filings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2640",
+      "ref": "C-2640",
+      "label": "Andrew Zenger Previously COO at Medical City, McKinney, Texas",
+      "claim": "Prior to Timpanogos, Andrew Zenger served as COO of Medical City in McKinney, Texas.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:46–00:24:39",
+      "investigative_direction": "Verify via Medical City Healthcare press releases or LinkedIn employment history."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2641",
+      "ref": "C-2641",
+      "label": "Andrew Zenger Attended BYU Jerusalem",
+      "claim": "Andrew Zenger attended BYU Jerusalem, with the host noting he was there during the 2012 Romney presidential campaign season.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1214",
+        "N-1649"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:39",
+      "investigative_direction": "Confirm via BYU Jerusalem Center enrollment records or alumni directory."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2642",
+      "ref": "C-2642",
+      "label": "BYU Jerusalem Is a CIA Recruitment Site for Elite Mormon Youth",
+      "claim": "Per a single unnamed source, the BYU Jerusalem Center is used by the CIA to recruit elite Mormon youth, with the program director being Israeli.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1649",
+        "N-1214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:39–00:25:43",
+      "investigative_direction": "Obtain corroborating documentation; on-screen artifact required to elevate from claim to inscribed record."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2643",
+      "ref": "C-2643",
+      "label": "Metro One Talent Is the CIA's Recruiting Vendor",
+      "claim": "The CIA uses a company called Metro One Talent to interview and onboard BYU Jerusalem recruits.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1649",
+        "N-1655"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:30",
+      "investigative_direction": "Identify Metro One Talent corporate records and any government contract listings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2644",
+      "ref": "C-2644",
+      "label": "Michael Shawn Covey (Zenger's Jerusalem Roommate) Does CIA Contract Work",
+      "claim": "Michael Shawn Covey, a roommate of Andrew Zenger from the Jerusalem period, contracts with the CIA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1214",
+        "N-1655"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:39",
+      "investigative_direction": "Verify any government contract records for \"Michael Shawn Covey.\""
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2645",
+      "ref": "C-2645",
+      "label": "Robbie Hild Attended BYU, Played Lacrosse, Graduated ~2020",
+      "claim": "Robbie Hild attended BYU, played lacrosse, and appears to have graduated around 2020.",
+      "anchored_artifacts": [
+        "A-1924.2"
+      ],
+      "related_nodes": [
+        "N-1219"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:30–00:30:18",
+      "investigative_direction": "Confirm via BYU athletics records and class roster."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2646",
+      "ref": "C-2646",
+      "label": "Turning Point Sent Fundraising Texts Within 48 Hours of Death",
+      "claim": "Turning Point USA sent text-message fundraising solicitations from \"Erika\" within approximately 48 hours of Charlie Kirk's death.",
+      "anchored_artifacts": [
+        "A-1926.1"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:25–00:45:16",
+      "investigative_direction": "Obtain copies of the original SMS messages and the timestamp metadata."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2647",
+      "ref": "C-2647",
+      "label": "Turning Point Sent Funeral-Image Direct Mail Fundraising",
+      "claim": "Turning Point sent a direct mail piece featuring an image of Erika Kirk walking out at Charlie's funeral in a sparkle suit with fireworks, used as a fundraising solicitation.",
+      "anchored_artifacts": [
+        "A-1926.1"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:25–00:45:16",
+      "investigative_direction": "Obtain the actual mailer from recipients; verify whether the image is from the funeral or another event."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2648",
+      "ref": "C-2648",
+      "label": "Robbie Hild Family Allegedly Married Into Romney Family",
+      "claim": "Viewers and social media indicate the Hild family is married into the Romney family, but the host cannot relocate the underlying document establishing this connection and requests viewer tips.",
+      "anchored_artifacts": [
+        "A-1924.2"
+      ],
+      "related_nodes": [
+        "N-1219",
+        "N-1207",
+        "N-1654"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:43–00:30:18",
+      "investigative_direction": "Verify via marriage records, family genealogical databases, or corroborating viewer emails with documentation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2649",
+      "ref": "C-2649",
+      "label": "Caleb Cunningham Was in Jerusalem During 2012 Romney Campaign",
+      "claim": "Caleb Cunningham was in Jerusalem with Andrew Zenger during the Romney 2012 presidential campaign and was active on the campaign.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1220",
+        "N-1214",
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:43–00:26:30",
+      "investigative_direction": "Cross-reference Romney 2012 campaign staff lists and BYU Jerusalem Center enrollment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2650",
+      "ref": "C-2650",
+      "label": "Jeffrey Knuckles Was in Jerusalem and Later Romney Campaign Advisor",
+      "claim": "Jeffrey Knuckles was in Jerusalem with Andrew Zenger during the 2012 Romney campaign period and later served as an advisor to Romney's campaign.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1221",
+        "N-1214",
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:43–00:26:30",
+      "investigative_direction": "Verify via Romney 2012 campaign staff biographies."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2651",
+      "ref": "C-2651",
+      "label": "BYU Recruits CIA Talent From Hawaii and Jerusalem Campuses",
+      "claim": "BYU is said to recruit CIA talent from its Hawaii and Jerusalem campuses specifically.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1649"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:08–00:48:01",
+      "investigative_direction": "Identify any open-source reporting on BYU recruitment ties."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2652",
+      "ref": "C-2652",
+      "label": "Dr. Steven Jones (BYU Physicist) Published 2009 Thermite Study on WTC Dust",
+      "claim": "BYU physicist Dr. Steven Jones published a 2009 study demonstrating advanced thermite-based explosives in WTC dust.",
+      "anchored_artifacts": [
+        "A-1926.3"
+      ],
+      "related_nodes": [
+        "N-1649"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:01",
+      "investigative_direction": "Retrieve the actual 2009 paper and verify the journal of publication and peer review status."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2653",
+      "ref": "C-2653",
+      "label": "Tyler Robinson Defense Should Demand 600,000 Documents",
+      "claim": "Viewer Kael Miles suggests the Robinson defense should make ~600,000 documents public for review; host concurs and offers to serve as unpaid document-review army.",
+      "anchored_artifacts": [
+        "A-1926.1"
+      ],
+      "related_nodes": [
+        "N-1656"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:39–00:44:25",
+      "investigative_direction": "Identify the document set being referenced and any pending defense motions for discovery."
+    }
+  ],
+  "memes": []
+}

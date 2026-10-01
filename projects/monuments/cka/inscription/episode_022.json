@@ -1,0 +1,1030 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 22,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "509201122ed79de97e030313c375fbcb13502e612ab382589b777bb8300a1cb2",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1290",
+      "family_ref": "A-1290",
+      "bundle_name": "FlightRadar Military-Contracted Plane Screenshot Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1290.1",
+          "ref": "A-1290.1",
+          "description": "FlightRadar screenshot showing a military-contracted plane departing Biggs Army Airfield (El Paso, TX) at 6:13 a.m., dipping to ~300 ft over Provo Airport runway at 9:16 a.m. Utah time, then continuing to Kalispell, Montana before returning via the same Provo dip.",
+          "related_claims": [
+            "C-1527",
+            "C-1528"
+          ],
+          "related_nodes": [
+            "N-1269"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1291",
+      "family_ref": "A-1291",
+      "bundle_name": "Maxfield Statement Bundle (N888KG)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1291.1",
+          "ref": "A-1291.1",
+          "description": "Public statement issued by Derek and Shirlene Maxfield on the afternoon of September 11, 2025, read in full on air, addressing tail number N888KG, asserting the plane departed Provo with two pilots and no passengers, picked up Derek Maxfield and seven additional passengers at PGA (Page, Arizona), and that radar services with Denver FAA Center were terminated in mutual agreement approximately 10 miles from PGA.",
+          "related_claims": [
+            "C-1529",
+            "C-1530",
+            "C-1531"
+          ],
+          "related_nodes": [
+            "N-290",
+            "N-291",
+            "N-1271"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:26",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1292",
+      "family_ref": "A-1292",
+      "bundle_name": "FlightRadar Egyptian Air Force SU-BTT Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1292.1",
+          "ref": "A-1292.1",
+          "description": "FlightRadar screenshot showing Egyptian Air Force plane with tail number SU-BTT, described as having previously visited the United States only twice in the past year.",
+          "related_claims": [
+            "C-1532"
+          ],
+          "related_nodes": [
+            "N-292",
+            "N-1270"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1292.2",
+          "ref": "A-1292.2",
+          "description": "FlightRadar three-year flight history for SU-BTT showing routine routing through Paris and landings in cities containing U.S. Air Force bases (Minot, ND noted for September 2025); Provo has no Air Force base.",
+          "related_claims": [
+            "C-1533"
+          ],
+          "related_nodes": [
+            "N-292",
+            "N-1270"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1293",
+      "family_ref": "A-1293",
+      "bundle_name": "Daily Mail Josh Hammer Op-Ed Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1293.1",
+          "ref": "A-1293.1",
+          "description": "Excerpt from Daily Mail op-ed by Josh Hammer stating Tucker's hosting of Nick Fuentes constitutes a \"war on MAGA and the modern American right\" and asserting that \"unless the fox is neutralized, the victim could be the entire extant GOP coalition itself.\"",
+          "related_claims": [
+            "C-1537",
+            "C-1541"
+          ],
+          "related_nodes": [
+            "N-42",
+            "N-292",
+            "N-293"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1294",
+      "family_ref": "A-1294",
+      "bundle_name": "Stop Anti-Semitism X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1294.1",
+          "ref": "A-1294.1",
+          "description": "X post by the Stop Anti-Semitism account reading: \"CNN platforming Ana Kasparian, Turning Point USA refusing to cut Tucker Carlson, this is how the Holocaust started. Jew hatred normalized.\"",
+          "related_claims": [
+            "C-1538"
+          ],
+          "related_nodes": [
+            "N-295",
+            "N-292"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1295",
+      "family_ref": "A-1295",
+      "bundle_name": "Piers Morgan Interview Clip Bundle (Seth Dillon / Dave Smith)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1295.1",
+          "ref": "A-1295.1",
+          "description": "Clip of Seth Dillon on Piers Morgan stating that Tucker Carlson hosting Nick Fuentes was \"extremely irresponsible,\" and that it would have been \"a responsible thing and a good thing for the conservative movement if someone as prominent as Tucker with his large of audience as he has if he was standing in the way of Nick Fuentes becoming more mainstream.\"",
+          "related_claims": [
+            "C-1539"
+          ],
+          "related_nodes": [
+            "N-295",
+            "N-296",
+            "N-292",
+            "N-293",
+            "N-298"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1295.2",
+          "ref": "A-1295.2",
+          "description": "Clip of Seth Dillon on Piers Morgan asking Dave Smith about Tucker Carlson calling Christian Zionists \"heretics\" while having spoken glowingly at Charlie Kirk's memorial.",
+          "related_claims": [
+            "C-1540"
+          ],
+          "related_nodes": [
+            "N-295",
+            "N-296",
+            "N-292",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1295.3",
+          "ref": "A-1295.3",
+          "description": "Clip of Seth Dillon on Piers Morgan describing Nick Fuentes' alleged comments including calling J.D. Vance \"fat and ugly\" with a \"brown family,\" glorification of Hitler, and animosity toward Jews, women, and minorities.",
+          "related_claims": [
+            "C-1541"
+          ],
+          "related_nodes": [
+            "N-295",
+            "N-293",
+            "N-299"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1296",
+      "family_ref": "A-1296",
+      "bundle_name": "TPUSA Text Chain Screenshot Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1296.1",
+          "ref": "A-1296.1",
+          "description": "Screenshot from internal TPUSA chat referencing Charlie Kirk stating TPUSA \"just lost another huge Jewish donor, 2 million a year, because we won't cancel Tucker\" and that he is \"thinking of inviting Candace.\"",
+          "related_claims": [
+            "C-1542"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-292",
+            "N-1272"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:04",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1297",
+      "family_ref": "A-1297",
+      "bundle_name": "Daily Mail Headline on Kash Patel Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1297.1",
+          "ref": "A-1297.1",
+          "description": "Daily Mail headline: \"Kash Patel shuts down Charlie Kirk foreign intelligence probe in an explosive feud with Trump's counter terror chief.\"",
+          "related_claims": [
+            "C-1536"
+          ],
+          "related_nodes": [
+            "N-289"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1298",
+      "family_ref": "A-1298",
+      "bundle_name": "Viewer Email Bundle (David/Jonathan Interpretation)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1298.1",
+          "ref": "A-1298.1",
+          "description": "Email from a viewer read on air interpreting \"Charlie's David\" via the biblical David-Jonathan covenant narrative, in which Jonathan transferred his robe, armor, and symbols of rank to David, an act interpreted as a transfer of succession.",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1299",
+      "family_ref": "A-1299",
+      "bundle_name": "Episode Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1299.1",
+          "ref": "A-1299.1",
+          "description": "Viewer comment from \"Obsessed with sports\" stating that Egypt's tail numbers SUBND and SUBTT were present at PEACE 2025, and that tail number N1098L is concerning because Israeli defense companies allegedly manufacture air-launched drones from that platform for use as recon and loitering munitions.",
+          "related_claims": [
+            "C-1544"
+          ],
+          "related_nodes": [
+            "N-1269"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:55:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1300",
+      "family_ref": "A-1300",
+      "bundle_name": "Josh Hammer Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1300.1",
+          "ref": "A-1300.1",
+          "description": "Audio clip played on air of Josh Hammer stating: \"It brings me no pleasure to criticize Tucker Carlson as much as I have been doing. But he has become the leading tip of the spear of what can only be described as a cancerous force running to engulf the entire American right.\"",
+          "related_claims": [
+            "C-1543"
+          ],
+          "related_nodes": [
+            "N-42",
+            "N-292"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-289",
+      "ref": "N-289",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "FBI Director referenced in Daily Mail headline (A-1297.1) as having shut down a foreign intelligence probe related to Charlie Kirk's assassination. Investigative target due to executive-level decisions regarding investigative scope.",
+      "related_artifacts": [
+        "A-1297.1"
+      ],
+      "related_claims": [
+        "C-1536"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-290",
+      "ref": "N-290",
+      "name": "Derek Maxfield",
+      "type": "person",
+      "description": "Co-owner (with wife Shirlene Maxfield) of plane N888KG that departed Provo at 1:20 p.m. Mountain time on 9/10; issued public statement on 9/11 defending the flight's innocuousness. Investigative target for manifest verification and potential federal coordination.",
+      "related_artifacts": [
+        "A-1291.1"
+      ],
+      "related_claims": [
+        "C-1529",
+        "C-1530",
+        "C-1531"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1271"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-291",
+      "ref": "N-291",
+      "name": "Shirlene Maxfield",
+      "type": "person",
+      "description": "Co-owner (with husband Derek Maxfield) of plane N888KG; co-signatory of the September 11 public statement.",
+      "related_artifacts": [
+        "A-1291.1"
+      ],
+      "related_claims": [
+        "C-1530"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-290"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-292",
+      "ref": "N-292",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Host who interviewed Nick Fuentes; subject of a coordinated campaign (Hammer op-ed, Stop Anti-Semitism post, Seth Dillon commentary) demanding removal from TPUSA speaking lineup; mentioned by Charlie Kirk in TPUSA text chain as someone he fought to keep on the lineup.",
+      "related_artifacts": [
+        "A-1293.1",
+        "A-1294.1",
+        "A-1295.1",
+        "A-1295.2",
+        "A-1296.1",
+        "A-1300.1"
+      ],
+      "related_claims": [
+        "C-1537",
+        "C-1538",
+        "C-1539",
+        "C-1540",
+        "C-1542",
+        "C-1543"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-293",
+      "ref": "N-293",
+      "name": "Nick Fuentes",
+      "type": "person",
+      "description": "Guest on Tucker Carlson's show; described by Seth Dillon as having animosity toward Jews, women, and minorities, having called J.D. Vance \"fat and ugly\" with a \"brown family,\" and having glorified Hitler.",
+      "related_artifacts": [
+        "A-1295.3"
+      ],
+      "related_claims": [
+        "C-1541"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-295",
+      "ref": "N-295",
+      "name": "Seth Dillon",
+      "type": "person",
+      "description": "Recurring post-assassination commentator; subject of Piers Morgan interview clips (A-1295.1, A-1295.2, A-1295.3) critiquing Tucker's hosting of Fuentes. Identified in the Hampton's event as having pressured Charlie Kirk on Israel views prior to the assassination.",
+      "related_artifacts": [
+        "A-1295.1",
+        "A-1295.2",
+        "A-1295.3"
+      ],
+      "related_claims": [
+        "C-1539",
+        "C-1540",
+        "C-1541"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-296",
+      "ref": "N-296",
+      "name": "Dave Smith",
+      "type": "person",
+      "description": "Interviewee in Piers Morgan clips alongside Seth Dillon; subject of host framing as a truth-teller opposed to the cancellation campaign against Tucker.",
+      "related_artifacts": [
+        "A-1295.1",
+        "A-1295.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-295"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-297",
+      "ref": "N-297",
+      "name": "Ana Kasparian",
+      "type": "person",
+      "description": "Subject of Stop Anti-Semitism X post (A-1294.1) referencing her CNN platforming as parallel evidence of \"Holocaust normalization.\"",
+      "related_artifacts": [
+        "A-1294.1"
+      ],
+      "related_claims": [
+        "C-1538"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-298",
+      "ref": "N-298",
+      "name": "Piers Morgan",
+      "type": "person",
+      "description": "Host of interview program from which Seth Dillon/Dave Smith clips (A-1295) are sourced.",
+      "related_artifacts": [
+        "A-1295.1",
+        "A-1295.2",
+        "A-1295.3"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-299",
+      "ref": "N-299",
+      "name": "J.D. Vance",
+      "type": "person",
+      "description": "Vice President; identified by Seth Dillon (A-1295.3) as a target of alleged Nick Fuentes insults (\"fat and ugly,\" \"brown family\").",
+      "related_artifacts": [
+        "A-1295.3"
+      ],
+      "related_claims": [
+        "C-1541"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-293"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1269",
+      "ref": "N-1269",
+      "name": "Provo Airport Flight Anomaly Cluster",
+      "type": "investigation_target",
+      "description": "Persistent investigative target encompassing the three suspicious flight events at Provo Airport on 9/10/2025: the military-contracted plane low dip (A-1290.1), the N888KG Maxfield plane departure (A-1291.1), and the SU-BTT Egyptian Air Force departure window (A-1292.1, A-1292.2). Also incorporates viewer-flagged tail N1098L (A-1299.1).",
+      "related_artifacts": [
+        "A-1290.1",
+        "A-1291.1",
+        "A-1292.1",
+        "A-1299.1"
+      ],
+      "related_claims": [
+        "C-1527",
+        "C-1528",
+        "C-1529",
+        "C-1532",
+        "C-1544"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1270",
+      "ref": "N-1270",
+      "name": "Egyptian Air Force SU-BTT Provo Mission Question",
+      "type": "investigation_target",
+      "description": "Persistent investigative target regarding purpose of Egyptian Air Force presence in Provo from 9/4–9/10, identity of personnel reportedly dropped off, and nature of any \"discreet mission\" alleged by the unnamed email tipster.",
+      "related_artifacts": [
+        "A-1292.1",
+        "A-1292.2"
+      ],
+      "related_claims": [
+        "C-1532",
+        "C-1533",
+        "C-1534",
+        "C-1535"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1271",
+      "ref": "N-1271",
+      "name": "N888KG Flight Manifest Verification",
+      "type": "investigation_target",
+      "description": "Persistent investigative target regarding the actual passenger manifest of plane N888KG during its 9/10/2025 movements, including the contested FBO routing (Millionaire FBO vs. alternative), the alleged federal instruction for airport personnel to lie, and the discrepancy between the Maxfield statement and any independent flight records.",
+      "related_artifacts": [
+        "A-1291.1"
+      ],
+      "related_claims": [
+        "C-1529",
+        "C-1530",
+        "C-1531"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-290",
+        "N-291"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1272",
+      "ref": "N-1272",
+      "name": "TPUSA Text Chain Authenticity Verification",
+      "type": "investigation_target",
+      "description": "Persistent investigative target regarding provenance, authenticity, and chain-of-custody of the TPUSA internal text-chain screenshot (A-1296.1) attributed to Charlie Kirk. Independent verification required before claims drawn from it can be elevated.",
+      "related_artifacts": [
+        "A-1296.1"
+      ],
+      "related_claims": [
+        "C-1542"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1527",
+      "ref": "C-1527",
+      "label": "Military-contracted plane low dip over Provo Airport at 9:16 a.m.",
+      "claim": "FlightRadar data shows a military-contracted plane from Biggs Army Airfield dipped to approximately 300 feet above the Provo Airport runway at 9:16 a.m. Utah time on September 10, 2025.",
+      "anchored_artifacts": [
+        "A-1290.1"
+      ],
+      "related_nodes": [
+        "N-1269"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:17",
+      "investigative_direction": "Obtain raw FlightRadar/ADS-B Exchange records for the plane's full track; cross-reference with FAA Biggs Army Airfield outbound logs for 9/10/2025."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1528",
+      "ref": "C-1528",
+      "label": "Second low dip approximately 26 minutes after the assassination",
+      "claim": "The same military-contracted plane from Biggs Army Airfield dipped again to approximately 300 feet over the Provo Airport runway approximately 26 minutes after Charlie Kirk was shot, during its return leg to El Paso.",
+      "anchored_artifacts": [
+        "A-1290.1"
+      ],
+      "related_nodes": [
+        "N-1269"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:53",
+      "investigative_direction": "Corroborate the timing of the second dip against the publicly established time of the shooting and FAA flight records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1529",
+      "ref": "C-1529",
+      "label": "N888KG Provo departure time on 9/10",
+      "claim": "Plane N888KG departed Provo Airport at 1:20 p.m. Mountain time on September 10, 2025.",
+      "anchored_artifacts": [
+        "A-1291.1"
+      ],
+      "related_nodes": [
+        "N-290",
+        "N-1271"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:46",
+      "investigative_direction": "Cross-check against FAA departure logs and Provo Airport (PVU) records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1530",
+      "ref": "C-1530",
+      "label": "Maxfield statement on crew, passengers, and route",
+      "claim": "Derek Maxfield publicly stated that the N888KG plane departed Provo on 9/10 at 1:20 p.m. Mountain time with two pilots and no passengers, flew to Page, Arizona (PGA), where Derek Maxfield plus seven additional passengers boarded for the return trip to Provo.",
+      "anchored_artifacts": [
+        "A-1291.1"
+      ],
+      "related_nodes": [
+        "N-290",
+        "N-291",
+        "N-1271"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:26",
+      "investigative_direction": "Verify pilot identities and PGA passenger manifest through FAA and PGA airport records; obtain airport surveillance footage of boarding."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1531",
+      "ref": "C-1531",
+      "label": "Maxfield statement on FAA radar termination",
+      "claim": "Derek Maxfield publicly stated that radar services with Denver FAA Center and N888KG were terminated in mutual agreement approximately 10 miles from PGA, consistent with standard practice at non-towered airports.",
+      "anchored_artifacts": [
+        "A-1291.1"
+      ],
+      "related_nodes": [
+        "N-290",
+        "N-1271"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:12",
+      "investigative_direction": "Verify the FAA termination claim against Denver Center controller logs and FAA standard operating procedures for non-towered airports."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1532",
+      "ref": "C-1532",
+      "label": "Egyptian Air Force SU-BTT Provo arrival and departure dates",
+      "claim": "FlightRadar data shows Egyptian Air Force plane SU-BTT arrived at Provo Airport on September 4, 2025 and departed Provo on September 10, 2025 at 7:14 a.m. local time, with an interim layover at Wilmington, Delaware before continuing to Cairo.",
+      "anchored_artifacts": [
+        "A-1292.1"
+      ],
+      "related_nodes": [
+        "N-1270"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:53",
+      "investigative_direction": "Confirm via raw FlightRadar history and ADS-B Exchange; cross-check Wilmington, Delaware airport logs; verify with Egyptian military public affairs and U.S. State Department foreign military landing notifications."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1533",
+      "ref": "C-1533",
+      "label": "SU-BTT three-year routing pattern",
+      "claim": "FlightRadar three-year history for SU-BTT shows the aircraft routinely routes through Paris and lands in U.S. cities with Air Force bases; Provo has no Air Force base.",
+      "anchored_artifacts": [
+        "A-1292.2"
+      ],
+      "related_nodes": [
+        "N-1270"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:38",
+      "investigative_direction": "Compile full U.S. landing history; cross-reference landing locations with known U.S. Air Force installations."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1534",
+      "ref": "C-1534",
+      "label": "Email tipster claim: SU-BTT carried subcontractors dropped in Provo",
+      "claim": "An unnamed email tipster claims the SU-BTT flight was carrying Egyptian military subcontractors who were dropped off in Provo, Utah and did not return to Cairo when the plane departed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1270"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:53",
+      "investigative_direction": "Independently verify through State Department foreign military landing records, hotel logs in Utah County 9/4–9/10, and Egyptian Air Force roster cross-checks."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1535",
+      "ref": "C-1535",
+      "label": "Email tipster claim: discreet top-secret mission in Provo",
+      "claim": "The same unnamed email tipster claims the Egyptian military personnel were in Provo on a top-secret, discreet mission, and that the tipster was \"scared for their life\" in providing this information.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1270"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:59",
+      "investigative_direction": "Verify independently; cross-reference with any joint U.S.–Egypt military exercise notifications or State Department disclosures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1536",
+      "ref": "C-1536",
+      "label": "Daily Mail headline on Kash Patel shutting down foreign intelligence probe",
+      "claim": "The Daily Mail published a headline stating \"Kash Patel shuts down Charlie Kirk foreign intelligence probe in an explosive feud with Trump's counter terror chief.\"",
+      "anchored_artifacts": [
+        "A-1297.1"
+      ],
+      "related_nodes": [
+        "N-289"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:18",
+      "investigative_direction": "Obtain the underlying Daily Mail article; identify what specific probe was referenced; request FBI/Patel on-record response."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1537",
+      "ref": "C-1537",
+      "label": "Josh Hammer op-ed \"neutralize\" language",
+      "claim": "Josh Hammer published a Daily Mail op-ed calling Tucker's hosting of Nick Fuentes a \"war on MAGA and the modern American right,\" and stating that \"unless the fox is neutralized, the victim could be the entire extant GOP coalition itself.\"",
+      "anchored_artifacts": [
+        "A-1293.1"
+      ],
+      "related_nodes": [
+        "N-42",
+        "N-292",
+        "N-293"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:36",
+      "investigative_direction": "Obtain the full op-ed in original Daily Mail publication; document the \"neutralize\" framing in context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1538",
+      "ref": "C-1538",
+      "label": "Stop Anti-Semitism tweet equating CNN/TPUSA decisions with Holocaust origins",
+      "claim": "The Stop Anti-Semitism X account posted: \"CNN platforming Ana Kasparian, Turning Point USA refusing to cut Tucker Carlson, this is how the Holocaust started. Jew hatred normalized.\"",
+      "anchored_artifacts": [
+        "A-1294.1"
+      ],
+      "related_nodes": [
+        "N-297",
+        "N-292"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:20",
+      "investigative_direction": "Obtain original X post URL; preserve deletion history and engagement metrics."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1539",
+      "ref": "C-1539",
+      "label": "Seth Dillon on Tucker/Fuentes \"irresponsibility\"",
+      "claim": "On Piers Morgan, Seth Dillon stated that Tucker Carlson hosting Nick Fuentes was \"extremely irresponsible,\" and that it would have been \"a responsible thing and a good thing for the conservative movement\" for Tucker to be \"standing in the way of Nick Fuentes becoming more mainstream.\"",
+      "anchored_artifacts": [
+        "A-1295.1"
+      ],
+      "related_nodes": [
+        "N-295",
+        "N-296",
+        "N-292",
+        "N-293",
+        "N-298"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:53",
+      "investigative_direction": "Obtain full unedited Piers Morgan interview; verify clip is unedited."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1540",
+      "ref": "C-1540",
+      "label": "Seth Dillon on Tucker and Christian Zionist \"heretics\" framing",
+      "claim": "On Piers Morgan, Seth Dillon asked Dave Smith about Tucker Carlson calling Christian Zionists \"heretics\" while having spoken glowingly at Charlie Kirk's memorial, pressing Smith to reconcile these positions.",
+      "anchored_artifacts": [
+        "A-1295.2"
+      ],
+      "related_nodes": [
+        "N-295",
+        "N-296",
+        "N-292",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:02",
+      "investigative_direction": "Obtain full unedited interview segment; verify context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1541",
+      "ref": "C-1541",
+      "label": "Seth Dillon on Nick Fuentes' alleged statements regarding J.D. Vance",
+      "claim": "On Piers Morgan, Seth Dillon characterized Nick Fuentes as having animosity toward Jews, having called J.D. Vance \"fat and ugly\" with a \"brown family,\" and as having engaged in \"glorification of Hitler.\"",
+      "anchored_artifacts": [
+        "A-1295.3"
+      ],
+      "related_nodes": [
+        "N-295",
+        "N-293",
+        "N-299"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:05",
+      "investigative_direction": "Verify specific Fuentes quotes against primary source material; obtain full interview segment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1542",
+      "ref": "C-1542",
+      "label": "TPUSA text chain: Jewish donor loss and Candace invitation",
+      "claim": "A TPUSA internal text-chain screenshot shows Charlie Kirk writing that TPUSA \"just lost another huge Jewish donor, 2 million a year, because we won't cancel Tucker\" and that he is \"thinking of inviting Candace.\"",
+      "anchored_artifacts": [
+        "A-1296.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-292",
+        "N-1272"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:04",
+      "investigative_direction": "Independently verify the screenshot provenance, timestamp, and participants; confirm via TPUSA records or corroborating witnesses."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1543",
+      "ref": "C-1543",
+      "label": "Josh Hammer audio clip on Tucker as \"cancerous force\"",
+      "claim": "An audio clip attributed to Josh Hammer was played on air, stating: \"It brings me no pleasure to criticize Tucker Carlson as much as I have been doing. But he has become the leading tip of the spear of what can only be described as a cancerous force running to engulf the entire American right.\"",
+      "anchored_artifacts": [
+        "A-1300.1"
+      ],
+      "related_nodes": [
+        "N-42",
+        "N-292"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:40",
+      "investigative_direction": "Verify original source of audio clip (interview, podcast, or other); confirm attribution."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1544",
+      "ref": "C-1544",
+      "label": "Viewer comment: SUBND/SUBTT at PEACE 2025; N1098L drone concerns",
+      "claim": "A viewer comment from \"Obsessed with sports\" notes that Egyptian tail numbers SUBND and SUBTT were present at PEACE 2025, and that tail number N1098L is allegedly connected to Israeli defense companies that manufacture air-launched drones for use as recon and loitering munitions.",
+      "anchored_artifacts": [
+        "A-1299.1"
+      ],
+      "related_nodes": [
+        "N-1269"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:55",
+      "investigative_direction": "Verify PEACE 2025 aircraft attendance records; independently confirm N1098L ownership, registration history, and any ties to Israeli defense manufacturers."
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,794 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 34,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "fe75ca00c3ec2d7898bbeee433de0d6e98b126fb899e15735450cf108ba10f1b",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1425",
+      "family_ref": "A-1425",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1425.1",
+          "ref": "A-1425.1",
+          "description": "White 2025 Toyota Camry — Arizona plate CWN-N9872",
+          "related_claims": [
+            "C-1735"
+          ],
+          "related_nodes": [
+            "N-1330"
+          ],
+          "tags": [],
+          "event_timestamp": "2025 (rental period)",
+          "source_timestamp": "2025-11-18 (revealed on episode)",
+          "video_timestamp": "07:12",
+          "discovery_timestamp": "2025-11-18",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1425.2",
+          "ref": "A-1425.2",
+          "description": "Silver 2025 Toyota RAV4 — Utah plate T09-2Zs",
+          "related_claims": [
+            "C-1735"
+          ],
+          "related_nodes": [
+            "N-1330"
+          ],
+          "tags": [],
+          "event_timestamp": "2025 (rental period)",
+          "source_timestamp": "2025-11-18",
+          "video_timestamp": "07:12",
+          "discovery_timestamp": "2025-11-18",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1425.3",
+          "ref": "A-1425.3",
+          "description": "White 2023 Toyota RAV4 — Utah plate T9-12-KM",
+          "related_claims": [
+            "C-1735"
+          ],
+          "related_nodes": [
+            "N-1330"
+          ],
+          "tags": [],
+          "event_timestamp": "2025",
+          "source_timestamp": "2025-11-18",
+          "video_timestamp": "07:12",
+          "discovery_timestamp": "2025-11-18",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1425.4",
+          "ref": "A-1425.4",
+          "description": "Black 2025 Toyota 4Runner — Utah plate Z-923-DA",
+          "related_claims": [
+            "C-1735"
+          ],
+          "related_nodes": [
+            "N-1330"
+          ],
+          "tags": [],
+          "event_timestamp": "2025",
+          "source_timestamp": "2025-11-18",
+          "video_timestamp": "07:12",
+          "discovery_timestamp": "2025-11-18",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1425.5",
+          "ref": "A-1425.5",
+          "description": "Gray/silver 2025 Toyota 4Runner — Utah plate Z349-AAA",
+          "related_claims": [
+            "C-1735"
+          ],
+          "related_nodes": [
+            "N-1330"
+          ],
+          "tags": [],
+          "event_timestamp": "2025",
+          "source_timestamp": "2025-11-18",
+          "video_timestamp": "07:12",
+          "discovery_timestamp": "2025-11-18",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1426",
+      "family_ref": "A-1426",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1426.1",
+          "ref": "A-1426.1",
+          "description": "CNN article: \"Utah Valley University student recalls seeing man walking on or near the Lozi Center roof twice in two weeks\"",
+          "related_claims": [
+            "C-1736"
+          ],
+          "related_nodes": [
+            "N-1332"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11 (published day after assassination)",
+          "source_timestamp": "2025-09-11",
+          "video_timestamp": "12:01",
+          "discovery_timestamp": "2025-11-18 (episode date)",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1427",
+      "family_ref": "A-1427",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1427.1",
+          "ref": "A-1427.1",
+          "description": "UVU student interview recording (approx. 3 minutes), recorded 2025-09-11",
+          "related_claims": [
+            "C-1736"
+          ],
+          "related_nodes": [
+            "N-1332"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-11",
+          "source_timestamp": "2025-09-11",
+          "video_timestamp": "13:45",
+          "discovery_timestamp": "2025-11-18 (aired on episode)",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1428",
+      "family_ref": "A-1428",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1428.1",
+          "ref": "A-1428.1",
+          "description": "Brian Harpole interview with Shawn Bryan (segment covering rooftop access responsibility and drone coverage)",
+          "related_claims": [
+            "C-1737"
+          ],
+          "related_nodes": [
+            "N-415",
+            "N-416",
+            "N-421"
+          ],
+          "tags": [],
+          "event_timestamp": "2025 (interview date prior to episode)",
+          "source_timestamp": "2025-11-18 (referenced on episode)",
+          "video_timestamp": "23:53",
+          "discovery_timestamp": "2025-11-18",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1428.2",
+          "ref": "A-1428.2",
+          "description": "Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorenson Center / Lozi Center",
+          "related_claims": [
+            "C-1737"
+          ],
+          "related_nodes": [
+            "N-415",
+            "N-416"
+          ],
+          "tags": [],
+          "event_timestamp": "Prior to 2025-09-10 (date unspecified in transcript; \"on Monday before this correspondence went to Chief Long\")",
+          "source_timestamp": "2025-11-18 (read aloud on episode)",
+          "video_timestamp": "26:12",
+          "discovery_timestamp": "2025-11-18",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1429",
+      "family_ref": "A-1429",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1429.1",
+          "ref": "A-1429.1",
+          "description": "Blake Neff interview recounting events immediately after the shooting (position relative to Mikey McCoy; observation of \"quivering lip\"; subsequent phone calls)",
+          "related_claims": [
+            "C-1738"
+          ],
+          "related_nodes": [
+            "N-417"
+          ],
+          "tags": [],
+          "event_timestamp": "2025 (interview prior to episode)",
+          "source_timestamp": "2025-11-18",
+          "video_timestamp": "32:53",
+          "discovery_timestamp": "2025-11-18",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1429.2",
+          "ref": "A-1429.2",
+          "description": "Blake Neff phone-call screenshot — call to his mother, 45-second duration, initiated at 11:24 Arizona time (≡ 12:24 Utah time)",
+          "related_claims": [
+            "C-1739"
+          ],
+          "related_nodes": [
+            "N-417",
+            "N-1333"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10 (date of shooting)",
+          "source_timestamp": "2025-11-18 (posted on X prior to episode)",
+          "video_timestamp": "36:37",
+          "discovery_timestamp": "2025-11-18",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1430",
+      "family_ref": "A-1430",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1430.1",
+          "ref": "A-1430.1",
+          "description": "Rob McCoy remarks at Jerusalem event on 2025-11-16 (framed as a celebration of Charlie Kirk's life) — Q&A excerpt addressing Tucker Carlson and Candace Owens",
+          "related_claims": [
+            "C-1740"
+          ],
+          "related_nodes": [
+            "N-422"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-11-16",
+          "source_timestamp": "2025-11-16",
+          "video_timestamp": "38:58",
+          "discovery_timestamp": "2025-11-18",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1431",
+      "family_ref": "A-1431",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1431.1",
+          "ref": "A-1431.1",
+          "description": "Calvary Chapel magazine cover (current month per host) featuring \"Stand with Israel\" headline and \"Why Jews are hated\" subtitle; interior photo referenced as IDF soldiers wearing yarmulkes",
+          "related_claims": [
+            "C-1741"
+          ],
+          "related_nodes": [
+            "N-422",
+            "N-1335"
+          ],
+          "tags": [],
+          "event_timestamp": "2025 (publication month)",
+          "source_timestamp": "2025-11-18",
+          "video_timestamp": "42:02",
+          "discovery_timestamp": "2025-11-18",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1432",
+      "family_ref": "A-1432",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1432.1",
+          "ref": "A-1432.1",
+          "description": "Aayol Yakobe X post: \"This is what doxing looks like. These are unparalleled levels of insanity. This is truly dangerous.\"",
+          "related_claims": [
+            "C-1742"
+          ],
+          "related_nodes": [
+            "N-418"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-11 (prior to episode)",
+          "source_timestamp": "2025-11-18 (read aloud)",
+          "video_timestamp": "01:55",
+          "discovery_timestamp": "2025-11-18",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1433",
+      "family_ref": "A-1433",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1433.1",
+          "ref": "A-1433.1",
+          "description": "Aaron Wexler X post: \"Candace started her career by doxing teenagers. Old habits die hard.\"",
+          "related_claims": [
+            "C-1743"
+          ],
+          "related_nodes": [
+            "N-419"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-11 (prior to episode)",
+          "source_timestamp": "2025-11-18 (read aloud)",
+          "video_timestamp": "03:02",
+          "discovery_timestamp": "2025-11-18",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1434",
+      "family_ref": "A-1434",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1434.1",
+          "ref": "A-1434.1",
+          "description": "Flight departing Scottsdale at approximately 08:00 local, arriving Provo at approximately 10:00 local on 2025-09-10; aircraft owned by Turning Point USA donor TWW Lewis",
+          "related_claims": [
+            "C-1744"
+          ],
+          "related_nodes": [
+            "N-420",
+            "N-1334"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "source_timestamp": "2025-11-18",
+          "video_timestamp": "20:20",
+          "discovery_timestamp": "2025-11-18",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-415",
+      "ref": "N-415",
+      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-421"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-416",
+      "ref": "N-416",
+      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-417",
+      "ref": "N-417",
+      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-418",
+      "ref": "N-418",
+      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-419",
+      "ref": "N-419",
+      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-420",
+      "ref": "N-420",
+      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-421",
+      "ref": "N-421",
+      "name": "White 2025 Toyota Camry — Arizona plate CWN-N9872",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-422",
+      "ref": "N-422",
+      "name": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "type": "person",
+      "description": "### People",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1330",
+      "ref": "N-1330",
+      "name": "Duncan Aviation Egyptian Rental Vehicle Network",
+      "type": "investigation_target",
+      "description": "Cluster of five rental vehicles identified by plate (A-1425.x); alleged connection to the SU-BTT passengers. Investigative direction: obtain Duncan Aviation rental records; cross-reference plate registration, renter IDs, and timeline against the Sept 4 plane arrival.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1735"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1331",
+      "ref": "N-1331",
+      "name": "Federal Military Aircraft Escort Protocol Verification",
+      "type": "investigation_target",
+      "description": "Claim by host (citing \"a high government source\") that foreign military jets cannot land on U.S. soil without federal escort and tracking. No documentary artifact supplied.",
+      "related_artifacts": [
+        "A-1434.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1332",
+      "ref": "N-1332",
+      "name": "UVU Pre-9/10 Rooftop Sightings",
+      "type": "investigation_target",
+      "description": "Reports by a UVU student (and reportedly a professor) of a man on the Lozi Center roof in the week before the shooting (A-1426.1, A-1427.1).",
+      "related_artifacts": [
+        "A-1426.1",
+        "A-1427.1"
+      ],
+      "related_claims": [
+        "C-1736"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1333",
+      "ref": "N-1333",
+      "name": "Post-Shooting Phone Call Timing Sequence",
+      "type": "investigation_target",
+      "description": "Timeline inference anchored by Blake Neff's 45-second 11:24 AZ-time call to his mother (A-1429.2) and his narrative in A-1429.1 about Mikey McCoy's calls to Erika and to Rob McCoy.",
+      "related_artifacts": [
+        "A-1429.1",
+        "A-1429.2"
+      ],
+      "related_claims": [
+        "C-1738",
+        "C-1739"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-417",
+        "N-422"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1334",
+      "ref": "N-1334",
+      "name": "TWW Lewis Scottsdale-to-Provo Flight Manifest Mystery",
+      "type": "investigation_target",
+      "description": "The Sept 10 Scottsdale→Provo flight (A-1434.1) arrived just ahead of the assassination; passengers unidentified.",
+      "related_artifacts": [
+        "A-1434.1"
+      ],
+      "related_claims": [
+        "C-1744"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-420"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1335",
+      "ref": "N-1335",
+      "name": "Calvary Chapel Pro-Israel Coordination",
+      "type": "investigation_target",
+      "description": "Convergence of Rob McCoy's Jerusalem remarks (A-1430.1) and Calvary Chapel magazine's \"Stand with Israel\" / \"Why Jews are hated\" framing (A-1431.1).",
+      "related_artifacts": [
+        "A-1430.1",
+        "A-1431.1"
+      ],
+      "related_claims": [
+        "C-1740",
+        "C-1741"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-422"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1735",
+      "ref": "C-1735",
+      "label": "Five rental vehicles tied to Duncan Aviation and the \"Egyptian\" arrival chain were identified by license plate.",
+      "claim": "",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1330"
+      ],
+      "tags": [],
+      "claim_timestamp": "07:12",
+      "investigative_direction": "Obtain Duncan Aviation rental contracts, cross-check plate state-DMV registrations, and verify renter identities against the SU-BTT passenger manifest."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1736",
+      "ref": "C-1736",
+      "label": "A UVU student reported seeing a man on the Lozi Center roof twice in the week before the assassination.",
+      "claim": "",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1332"
+      ],
+      "tags": [],
+      "claim_timestamp": "12:01",
+      "investigative_direction": "Identify the student and the reportedly-present professor; obtain any contemporaneous photographs, texts to the FBI tip line, and UVU building access logs for the CS building concourse and roof."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1737",
+      "ref": "C-1737",
+      "label": "Charlie Kirk's security lead texted the UVU Police Chief about rooftop access and accepted \"I got you covered\" as resolution.",
+      "claim": "",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-415",
+        "N-416",
+        "N-421"
+      ],
+      "tags": [],
+      "claim_timestamp": "26:12",
+      "investigative_direction": "Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1738",
+      "ref": "C-1738",
+      "label": "Blake Neff was standing next to Mikey McCoy at the moment of the shooting.",
+      "claim": "",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-417",
+        "N-1333"
+      ],
+      "tags": [],
+      "claim_timestamp": "32:53",
+      "investigative_direction": "Cross-reference video from TPUSA / event cameras and Stage area microphones; verify Neff's position with other contemporaneous witness accounts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1739",
+      "ref": "C-1739",
+      "label": "Blake Neff's call to his mother began at 11:24 Arizona time and lasted 45 seconds.",
+      "claim": "",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-417",
+        "N-1333"
+      ],
+      "tags": [],
+      "claim_timestamp": "36:37",
+      "investigative_direction": "Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1740",
+      "ref": "C-1740",
+      "label": "Rob McCoy, speaking in Jerusalem on 2025-11-16, characterized Tucker Carlson and Candace Owens as \"essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity.\"",
+      "claim": "",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-422",
+        "N-1335"
+      ],
+      "tags": [],
+      "claim_timestamp": "38:58",
+      "investigative_direction": "Obtain the uncut event recording; identify the questioner and the host organization; review the event's sponsor and attendee list."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1741",
+      "ref": "C-1741",
+      "label": "The current issue of Calvary Chapel magazine carries a \"Stand with Israel\" cover and a \"Why Jews are hated\" article, with interior content featuring IDF soldiers.",
+      "claim": "",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-422",
+        "N-1335"
+      ],
+      "tags": [],
+      "claim_timestamp": "42:02",
+      "investigative_direction": "Obtain the issue independently; verify article authors and the magazine's institutional affiliation and distribution chain."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1742",
+      "ref": "C-1742",
+      "label": "Aayol Yakobe posted on X that the rental-plate disclosure constitutes \"doxing.\"",
+      "claim": "",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-418",
+        "N-1330"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:55",
+      "investigative_direction": "Verify the post URL; document whether the post remains public; identify Aayol Yakobe's institutional affiliations."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1743",
+      "ref": "C-1743",
+      "label": "Aaron Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.",
+      "claim": "",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-419"
+      ],
+      "tags": [],
+      "claim_timestamp": "03:02",
+      "investigative_direction": "Verify the post URL and Wexler's identity/affiliation; review any contemporaneous coverage of the alleged \"doxing teenagers\" claim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1744",
+      "ref": "C-1744",
+      "label": "A plane owned by Turning Point USA donor TWW Lewis departed Scottsdale at ~08:00 local and arrived Provo at ~10:00 local on 2025-09-10.",
+      "claim": "",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-420",
+        "N-1334"
+      ],
+      "tags": [],
+      "claim_timestamp": "20:20",
+      "investigative_direction": "Pull the FAA / ADS-B flight record for tail number; obtain the TWW Lewis Foundation filings and grant log to TPUSA; identify passengers."
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,841 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 31,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "c74e78c6fe837fa42ecfdd621af81cd0a2394e04b024b682d47f983646686329",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Episode 31 advances two principal evidentiary threads: (1) a documentary case linking Rob McCoy and the Calvary Chapel network to the post-conviction rehabilitation and child-access placement of Thomas Michael Camino (a 1995 California sex-offense convict), and (2) public-comment follow-up from the prior episode. The Camino thread is anchored by a 1995 LA Times article read on air, an email from a victim, and audio clips from a podcast appearance on the \"Bryce Eddie show\" where McCoy introduces Camino and Camino asserts his innocence. The Frank Turk interview on CBN News is read on air, producing two artifact-backed claims regarding prosecution-process objections and a reference to Detective Jay Warner Wallace.\n\nThe second half of the episode pivots to rhetorical display of two external media clips: Tucker Carlson refusing to denounce Owens during a foreign-press interview, and Tim Dillon's comedy commentary on Kash Patel's girlfriend. A lengthy YouTube-comment reading segment produces several artifact-backed claims, most notably a commenter alleging security-guard coordination at the Charlie Kirk event and another describing a Calvary Chapel pastor calling for the burning of Bibles depicting Palestine. The episode does not introduce new documentary evidence on the Charlie Kirk assassination timeline itself; instead it advances character-network allegations against the TPUSA Faith organizational sphere.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1390",
+      "family_ref": "A-1390",
+      "bundle_name": "PragerU Throwback Clip (Owens/Kirk)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1390.1",
+          "ref": "A-1390.1",
+          "description": "Throwback Clip: Candace Owens and Charlie Kirk Discussing \"Foxhole\" Allies on PragerU",
+          "related_claims": [
+            "C-1693"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:01–00:00:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1391",
+      "family_ref": "A-1391",
+      "bundle_name": "CBN News Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1391.1",
+          "ref": "A-1391.1",
+          "description": "CBN News Interview: Frank Turk on Candace Owens' Investigation",
+          "related_claims": [
+            "C-1682",
+            "C-1683"
+          ],
+          "related_nodes": [
+            "N-388"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:06–00:03:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1392",
+      "family_ref": "A-1392",
+      "bundle_name": "Thomas Camino Victim Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1392.1",
+          "ref": "A-1392.1",
+          "description": "Email from Adult Survivor (Age 8 in 1995) Recounting Attempted Molestation by Thomas Camino",
+          "related_claims": [
+            "C-1685"
+          ],
+          "related_nodes": [
+            "N-389",
+            "N-1317"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:39–00:08:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1393",
+      "family_ref": "A-1393",
+      "bundle_name": "LA Times 1995 Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1393.1",
+          "ref": "A-1393.1",
+          "description": "LA Times (1995): \"Child molester draws an 8-year term in prison\"",
+          "related_claims": [
+            "C-1684"
+          ],
+          "related_nodes": [
+            "N-389"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:22–00:10:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1394",
+      "family_ref": "A-1394",
+      "bundle_name": "Rob McCoy Podcast Interview Bundle (Bryce Eddie Show)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1394.1",
+          "ref": "A-1394.1",
+          "description": "Rob McCoy Introduction of Thomas Camino on Bryce Eddie Show",
+          "related_claims": [
+            "C-1686",
+            "C-1687",
+            "C-1689"
+          ],
+          "related_nodes": [
+            "N-389",
+            "N-1317"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:54–00:13:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1394.2",
+          "ref": "A-1394.2",
+          "description": "Thomas Camino Narrative on Bryce Eddie Show — Claims of False Conviction",
+          "related_claims": [
+            "C-1688"
+          ],
+          "related_nodes": [
+            "N-389"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:55–00:17:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1395",
+      "family_ref": "A-1395",
+      "bundle_name": "Tucker Carlson Interview Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1395.1",
+          "ref": "A-1395.1",
+          "description": "Tucker Carlson Interview: Refusal to Denounce Candace Owens During Foreign-Press Exchange",
+          "related_claims": [
+            "C-1690"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:32–00:42:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1396",
+      "family_ref": "A-1396",
+      "bundle_name": "Tim Dillon Show Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1396.1",
+          "ref": "A-1396.1",
+          "description": "Tim Dillon Segment: Comedy Commentary on Kash Patel's Girlfriend (Alexis Wilkins) and Country-Music Joke",
+          "related_claims": [
+            "C-1691"
+          ],
+          "related_nodes": [
+            "N-390"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:40–00:49:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1397",
+      "family_ref": "A-1397",
+      "bundle_name": "Episode 30 Top Comments Bundle (Yesterday's Top 3)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1397.1",
+          "ref": "A-1397.1",
+          "description": "Top Comment #1 (Yesterday): \"Terra Observer\" — Question on Jewish Donor Funding of Christian Organizations; Names \"Bob Showman\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1316"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:17–00:52:57",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1397.2",
+          "ref": "A-1397.2",
+          "description": "Top Comment #2 (Yesterday): \"Lobo Gray\" — Vietnam Veteran Comment on Owens' Courage",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:57–00:53:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1397.3",
+          "ref": "A-1397.3",
+          "description": "Top Comment #3 (Yesterday): \"Think before you type\" — Mark Twain Quotation on Fooling People",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:53:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1398",
+      "family_ref": "A-1398",
+      "bundle_name": "Episode 31 Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1398.1",
+          "ref": "A-1398.1",
+          "description": "Today's Comment: \"Jennifer\" — Praise for Owens' Book *Make Him a Sandwich*",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:54:48–00:55:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1398.2",
+          "ref": "A-1398.2",
+          "description": "Today's Comment: \"Key\" — Praise for *Make Him a Sandwich*",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:55:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1398.3",
+          "ref": "A-1398.3",
+          "description": "Today's Comment: \"Corey Henry\" — Commentary on Kanye West's Communication Style",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:55:40–00:55:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1398.4",
+          "ref": "A-1398.4",
+          "description": "Today's Comment: \"Modern Realy\" — Allegation of Security-Guard Coordination at Kirk Event",
+          "related_claims": [
+            "C-1692"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:56:01–00:57:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1398.5",
+          "ref": "A-1398.5",
+          "description": "Today's Comment: \"Mint Julip\" — Inquiry About Lady Donor Who Yelled at Charlie; Names \"Miriam Adlesen\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:57:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1398.6",
+          "ref": "A-1398.6",
+          "description": "Today's Comment: \"Bub\" — Commentary on Zionist Influence in Government",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:57:01–00:57:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1398.7",
+          "ref": "A-1398.7",
+          "description": "Today's Comment: \"Black Swan Revelations\" — Generic Praise",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:57:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1398.8",
+          "ref": "A-1398.8",
+          "description": "Today's Comment: \"Midrunner\" — Commentary on Eli Reeves Interview of Tim Dillon",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:57:10–00:58:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1398.9",
+          "ref": "A-1398.9",
+          "description": "Today's Comment: \"Tim Hester\" — Birthday Wish for Tim and Praise for Owens",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:58:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1398.10",
+          "ref": "A-1398.10",
+          "description": "Today's Comment: \"Nicole Howlett\" — Calls for Listener to Switch Churches if Pastor Criticizes Owens",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:58:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1398.11",
+          "ref": "A-1398.11",
+          "description": "Today's Comment: \"Mama Diaz\" — Calvary Chapel Pastor Allegedly Called for Burning Bibles with Palestine Maps",
+          "related_claims": [
+            "C-1691"
+          ],
+          "related_nodes": [
+            "N-1317"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:58:13–00:59:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1398.12",
+          "ref": "A-1398.12",
+          "description": "Today's Comment: \"Silicon Valley\" — Self-Promotion of Historical Thriller Novel; Mention of Owens' Book Club",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:00:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-391",
+      "ref": "N-391",
+      "name": "Node 391",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-1318",
+      "ref": "N-1318",
+      "name": "Node 1318",
+      "type": "topic",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-388",
+      "ref": "N-388",
+      "name": "Frank Turk",
+      "type": "person",
+      "description": "Pastor described by host as the friend wearing the white hat beside Charlie Kirk at the assassination. Appears on CBN News interview (A-1391.1) criticizing host's evidentiary approach and referencing Detective Jay Warner Wallace.",
+      "related_artifacts": [
+        "A-1391.1"
+      ],
+      "related_claims": [
+        "C-1682",
+        "C-1683"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-389",
+      "ref": "N-389",
+      "name": "Thomas Michael Camino (a.k.a. \"Thomas Kamino\" in early host reference)",
+      "type": "person",
+      "description": "California sex offender convicted in 1995 of child molestation and sentenced to 8 years; subsequently befriended by Rob McCoy and placed in Calvary Chapel home-fellowship program with access to children.",
+      "related_artifacts": [
+        "A-1392.1",
+        "A-1393.1",
+        "A-1394.1",
+        "A-1394.2"
+      ],
+      "related_claims": [
+        "C-1684",
+        "C-1685",
+        "C-1686",
+        "C-1687",
+        "C-1688"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1317"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-390",
+      "ref": "N-390",
+      "name": "Alexis Wilkins",
+      "type": "person",
+      "description": "Country-music artist referenced as Kash Patel's girlfriend and as a member of Calvary Chapel Church in Chino Hills, California. Subject of Tim Dillon comedy segment.",
+      "related_artifacts": [
+        "A-1396.1"
+      ],
+      "related_claims": [
+        "C-1691"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1317"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1316",
+      "ref": "N-1316",
+      "name": "Calvary Chapel Institutional Abuse Pattern",
+      "type": "investigation_target",
+      "description": "Persistent investigative target concerning multiple Calvary Chapel-affiliated abuse scandals referenced in this episode: Calvary Chapel Florida (Rob Koy), Woodlands (2024 arrest), Carrie (lead pastor resignation), Mission Viejo, Solid Rock (Jason James Taylor), North County Chapel Post Falls (Anthony Eglacius, Robert Davis), Virginia (Doug Deandria), Fort Lauderdale (2019), North Thirsten Oregon (Jeffrey Keon Ziz).",
+      "related_artifacts": [
+        "A-1394.1",
+        "A-1398.11"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-389",
+        "N-390"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1317",
+      "ref": "N-1317",
+      "name": "Potter's Fields Ministries Financial Fraud Allegations",
+      "type": "investigation_target",
+      "description": "2019 Whitefish, Montana ministry scandal involving allegations of overstated child counts, photoshopped letters, and redirection of funds to Rob McCoy's church via CFO arrangement.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-389"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1682",
+      "ref": "C-1682",
+      "label": "Frank Turk Stated Candace Is Launching Accusations Without Evidence",
+      "claim": "In a CBN News interview aired in the episode, Frank Turk stated that Candace Owens is making suggestions \"without evidence\" and that \"as soon as you start launching accusations\" the situation becomes painful for people.",
+      "anchored_artifacts": [
+        "A-1391.1"
+      ],
+      "related_nodes": [
+        "N-388",
+        "N-1",
+        "N-391"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:06",
+      "investigative_direction": "Obtain full CBN News clip and verify exact wording; cross-reference Turk's stated absence of episode-watching against specific claims in the Bride of Charlie series."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1683",
+      "ref": "C-1683",
+      "label": "Frank Turk Invited Jay Warner Wallace onto His Podcast Two Weeks After Kirk's Death",
+      "claim": "In the same CBN News interview, Frank Turk stated he had invited \"Detective Jay Warner Wallace\" onto his podcast two weeks after \"Charlie's martyrdom\" to explain how murder prosecutions work.",
+      "anchored_artifacts": [
+        "A-1391.1"
+      ],
+      "related_nodes": [
+        "N-388"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:06",
+      "investigative_direction": "Locate and verify Frank Turk's podcast and the Wallace episode; cross-reference Wallace's stated expertise against any public statements on the Kirk case."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1684",
+      "ref": "C-1684",
+      "label": "Thomas Michael Camino Sentenced to 8 Years in 1995 for Child Molestation via Lost-Cat Lure",
+      "claim": "The episode presents a 1995 LA Times article headlined \"Child molester draws an 8-year term in prison,\" reporting that Thomas Michael Camino, 31, of San Juan Capistrano, was sentenced to the maximum 8-year term after conviction on molestation, indecent exposure, and 10 counts of child annoyance, for using a lost-cat story to lure girls in Orange County.",
+      "anchored_artifacts": [
+        "A-1393.1"
+      ],
+      "related_nodes": [
+        "N-389"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:22",
+      "investigative_direction": "Retrieve original LA Times 1995 article and California court records for People v. Camino to confirm conviction counts, sentence, and dates; cross-check against prior 1990 Manhattan Beach probation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1685",
+      "ref": "C-1685",
+      "label": "Adult Victim of Thomas Camino (Age 8 in 1995) Emailed Owens Recounting the Incident",
+      "claim": "Owens reads aloud an email from a woman who states she was 8 years old in Dana Point, California, in 1995, when Thomas Camino approached her and a friend to help find his cat, took them to a park behind her house, and attempted to molest her before she ran away; she identifies as a key witness at his trial.",
+      "anchored_artifacts": [
+        "A-1392.1"
+      ],
+      "related_nodes": [
+        "N-389",
+        "N-1317"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:39",
+      "investigative_direction": "Verify sender identity, confirm testimony record in People v. Camino, and authenticate email provenance."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1686",
+      "ref": "C-1686",
+      "label": "Rob McCoy Maintained a 20+ Year Friendship With Thomas Camino After Conviction",
+      "claim": "On the Bryce Eddie Show podcast clip played in the episode, Rob McCoy states he has been friends with Thomas Camino for over 20 years since Camino's introduction at \"Skyline,\" and that Camino has \"followed the procedures\" required of him and \"served this community.\"",
+      "anchored_artifacts": [
+        "A-1394.1"
+      ],
+      "related_nodes": [
+        "N-389"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:54",
+      "investigative_direction": "Obtain full unedited Bryce Eddie Show episode; verify Skyline identification and dates; identify all co-attended Calvary Chapel events."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1687",
+      "ref": "C-1687",
+      "label": "Rob McCoy Placed Thomas Camino in Home Fellowship Program with Access to Children",
+      "claim": "Owens states, and the Rob McCoy podcast clip corroborates, that McCoy personally approved Thomas Camino's inclusion in the Calvary Chapel \"home fellowship\" program, which placed him \"inside the homes of children,\" and that McCoy framed resulting criticism as \"gossip and slander.\"",
+      "anchored_artifacts": [
+        "A-1394.1"
+      ],
+      "related_nodes": [
+        "N-389",
+        "N-1316"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:54",
+      "investigative_direction": "Obtain 2022 Calvary Chapel statements and any internal records; identify families enrolled in home fellowship at the relevant time; review mothers' 2022 public complaints."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1688",
+      "ref": "C-1688",
+      "label": "Thomas Camino Asserted on the Podcast That He Was Falsely Convicted",
+      "claim": "In the Bryce Eddie Show clip, Thomas Camino states he was \"falsely accused,\" describes a \"sham\" trial, claims he served 1,536 days for a crime he did not commit, and alleges his ex-wife was dating his public defender.",
+      "anchored_artifacts": [
+        "A-1394.2"
+      ],
+      "related_nodes": [
+        "N-389"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:55",
+      "investigative_direction": "Cross-check appellate court findings against Camino's narrative; verify the appeal court ruling referenced in his account; identify the public defender named."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1689",
+      "ref": "C-1689",
+      "label": "Rob McCoy Framed 2022 Mothers' Objections as \"Gossip and Slander\"",
+      "claim": "In the podcast clip, Rob McCoy explicitly characterizes the criticism of placing Camino with children as driven by \"gossip and slander\" and states he made a personal call to \"protect\" Camino's family.",
+      "anchored_artifacts": [
+        "A-1394.1"
+      ],
+      "related_nodes": [
+        "N-389",
+        "N-1316"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:54",
+      "investigative_direction": "Locate original 2022 mothers' posts or complaints; verify whether McCoy's framing preceded or followed formal disclosure."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1690",
+      "ref": "C-1690",
+      "label": "Tucker Carlson Refused to Denounce Candace Owens When Pressed by a British Reporter",
+      "claim": "In the played clip, a reporter asks Tucker Carlson to distance himself from Candace Owens; Carlson refuses, stating he would \"die before\" playing along, and calls the request a \"ritual\" without moral authority.",
+      "anchored_artifacts": [
+        "A-1395.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:32",
+      "investigative_direction": "Identify the original interview (outlet, date, reporter); verify full exchange including any off-clip context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1691",
+      "ref": "C-1691",
+      "label": "Tim Dillon Produced a Comedy Segment on Kash Patel's Girlfriend Alexis Wilkins",
+      "claim": "In the played clip, Tim Dillon performs a comedy bit involving imagined lyrics from Alexis Wilkins, references Tel Aviv, \"Kash Mattel,\" and \"Jeff\" files, and jokes about a country-music release.",
+      "anchored_artifacts": [
+        "A-1396.1"
+      ],
+      "related_nodes": [
+        "N-390",
+        "N-1317"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:40",
+      "investigative_direction": "Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1692",
+      "ref": "C-1692",
+      "label": "A Viewer Commented That Security Guards at the Kirk Event Appeared to Coordinate a Hand-Off",
+      "claim": "A YouTube commenter using the handle \"Modern Realy\" asks whether anyone has reviewed what the security guards \"hand off after Charlie goes down,\" alleging their first action was \"taking something from him and passing it around\" and that \"it just looked so coordinated.\"",
+      "anchored_artifacts": [
+        "A-1398.4"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:01",
+      "investigative_direction": "Obtain and analyze all available footage of the immediate post-shot interval from multiple angles; compare against official event security rosters; cross-reference with any forensic evidence collection from the scene."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1693",
+      "ref": "C-1693",
+      "label": "Owens and Kirk Co-Hosted a PragerU Segment Discussing Foxhole Allies",
+      "claim": "The episode plays a throwback clip of Candace Owens and Charlie Kirk co-hosting a PragerU segment in which they discuss the type of allies one wants during crisis (\"foxhole\" allies), with Kirk stating one should identify \"where the bullets are coming from\" rather than deny their existence.",
+      "anchored_artifacts": [
+        "A-1390.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Identify the original PragerU episode and air date; locate full unedited segment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1694",
+      "ref": "C-1694",
+      "label": "Commenter \"Mama Diaz\" Reported a Calvary Chapel Pastor Calling for Burning Bibles Depicting Palestine",
+      "claim": "A YouTube commenter using the handle \"Mama Diaz\" states that a Calvary Chapel pastor she watched online said, \"If you have a Bible that has a map that shows Palestine, burn the Bible,\" and that she could \"feel his hate through the screen.\"",
+      "anchored_artifacts": [
+        "A-1398.11"
+      ],
+      "related_nodes": [
+        "N-1316"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:13",
+      "investigative_direction": "Identify the specific Calvary Chapel and pastor; locate the original broadcast or YouTube URL referenced."
+    }
+  ],
+  "memes": []
+}

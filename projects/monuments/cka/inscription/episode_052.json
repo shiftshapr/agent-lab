@@ -1,0 +1,715 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 52,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "a6a278c2583b1645dba697664ad3dba290528b1fc08b7e4b9b7e81180d1a7018",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode centers on Candace's exclusive report that Tyler Robinson drove approximately three hours from Orem, Utah to Pangitch, Utah on the night of September 10, dined alone at the Cowboys Smokehouse bar on North Main Street, and was later verified via server identification and credit card receipt several days after his arrest. Candace argues this timeline undercuts the FBI's narrative of a tight post-shooting investigation and demands follow-up interviews at the restaurant.\n\nThe episode also revisits the Fort Huachuca storyline: Candace reports that she personally reviewed a 12-hour House committee video and now concludes Rep. Mark Amodei's alibi \"checks out.\" New artifact-anchored evidence is presented on the Farnsworth political network — a 2014 Arizona House record linking Senator David Farnsworth and Eddie Farnsworth to Lori Frantzve on EMP legislation — along with a CBS News article on Fort Huachuca civilian leader David Rodsham and a Davis-Monthan AFB website announcement of a September 9 Commanders Summit.\n\nSecondary segments include Candace's claims about Tyler Bowyer's deep family ties to the Farnsworths, the Daily Wire's new \"Maddie in the No\" show (with clip evidence), and the Brigitte Macron sentencing in France. Structurally, the episode expands the Arizona political-military network map and surfaces several new people and verification targets.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1577",
+      "family_ref": "A-1577",
+      "bundle_name": "Pangitch Cowboys Smokehouse Evidence Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1577.1",
+          "ref": "A-1577.1",
+          "description": "Cowboys Smokehouse credit card receipt for Tyler Robinson meal (steak medium rare, mashed potatoes, vegetables)",
+          "related_claims": [
+            "C-2003",
+            "C-2004"
+          ],
+          "related_nodes": [
+            "N-1452"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1577.2",
+          "ref": "A-1577.2",
+          "description": "Map showing ~3-hour drive distance from Orem, Utah to Pangitch, Utah (host's on-screen display)",
+          "related_claims": [
+            "C-2003"
+          ],
+          "related_nodes": [
+            "N-1452"
+          ],
+          "tags": [],
+          "video_timestamp": "00:02:43"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1578",
+      "family_ref": "A-1578",
+      "bundle_name": "Erika Kirk September 8 Follow-Up Text Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1578.1",
+          "ref": "A-1578.1",
+          "description": "Erika's follow-up text containing a Charlie Kirk contact card image (provided after host requested unredacted original)",
+          "related_claims": [
+            "C-2006",
+            "C-2007"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:30"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1579",
+      "family_ref": "A-1579",
+      "bundle_name": "Mark Amodei House Committee Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1579.1",
+          "ref": "A-1579.1",
+          "description": "12-hour House committee hearing video (reviewed by host to verify Rep. Mark Amodei's presence)",
+          "related_claims": [
+            "C-2008"
+          ],
+          "related_nodes": [
+            "N-1453"
+          ],
+          "tags": [],
+          "video_timestamp": "00:21:13"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1580",
+      "family_ref": "A-1580",
+      "bundle_name": "Tyler Bowyer Memorial Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1580.1",
+          "ref": "A-1580.1",
+          "description": "Video excerpt of Tyler Bowyer speaking at Charlie Kirk's memorial about the 2015 Trump rally and Erika Kirk's involvement",
+          "related_claims": [
+            "C-2009"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:28:55"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1581",
+      "family_ref": "A-1581",
+      "bundle_name": "2014 Arizona House Floor Record Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1581.1",
+          "ref": "A-1581.1",
+          "description": "Arizona House floor record showing Senator David Farnsworth introducing Lori Frantzve (then-CEO of GTech Industries) on EMP legislation, with Eddie Farnsworth listed among voting members present",
+          "related_claims": [
+            "C-2010"
+          ],
+          "related_nodes": [
+            "N-632",
+            "N-633",
+            "N-639",
+            "N-1454"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:00"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1582",
+      "family_ref": "A-1582",
+      "bundle_name": "David Rodsham News Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1582.1",
+          "ref": "A-1582.1",
+          "description": "CBS News article \"US Army missed the red flags about a civilian leader who led a child porn ring and risked US security\"",
+          "related_claims": [
+            "C-2011"
+          ],
+          "related_nodes": [
+            "N-636"
+          ],
+          "tags": [],
+          "video_timestamp": "00:37:11"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1583",
+      "family_ref": "A-1583",
+      "bundle_name": "Davis-Monthan Arizona Commanders Summit Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1583.1",
+          "ref": "A-1583.1",
+          "description": "Davis-Monthan AFB website announcement of the Arizona Commanders Summit on September 9, 2025",
+          "related_claims": [
+            "C-2012"
+          ],
+          "related_nodes": [
+            "N-1455",
+            "N-1454"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:50"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1584",
+      "family_ref": "A-1584",
+      "bundle_name": "Daily Wire \"Maddie in the No\" Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1584.1",
+          "ref": "A-1584.1",
+          "description": "Clip from Daily Wire's \"Maddie in the No\" show mocking Candace's Utah state flag commentary",
+          "related_claims": [
+            "C-2013"
+          ],
+          "related_nodes": [
+            "N-638"
+          ],
+          "tags": [],
+          "video_timestamp": "00:46:38"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1585",
+      "family_ref": "A-1585",
+      "bundle_name": "Charlie Kirk Assassination Back Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1585.1",
+          "ref": "A-1585.1",
+          "description": "Still image from Charlie Kirk assassination footage showing victim's back and St. Michael pendant chain; host asserts no visible blood",
+          "related_claims": [
+            "C-2014"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:24:56"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1586",
+      "family_ref": "A-1586",
+      "bundle_name": "Tyler Robinson Wild Electric Employment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1586.1",
+          "ref": "A-1586.1",
+          "description": "Prior public news reports of Tyler Robinson's employment at Wild Electric in Santa Clara, Utah",
+          "related_claims": [
+            "C-2015"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:50"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-632",
+      "ref": "N-632",
+      "name": "Eddie Farnsworth",
+      "type": "person",
+      "description": "Former Arizona House Judiciary Committee chair; brother of Senator David Farnsworth; first cousin of Dwayne Farnsworth; appears in 2014 Arizona House record on EMP legislation vote; father of Albert Farnsworth.",
+      "related_artifacts": [
+        "A-1581.1"
+      ],
+      "related_claims": [
+        "C-2010"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-633",
+        "N-634",
+        "N-635",
+        "N-1454"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-633",
+      "ref": "N-633",
+      "name": "David Farnsworth",
+      "type": "person",
+      "description": "Arizona state senator; sponsored 2014 EMP legislation under which Lori Frantzve was introduced to the House floor; brother of Eddie Farnsworth; first cousin of Dwayne Farnsworth.",
+      "related_artifacts": [
+        "A-1581.1"
+      ],
+      "related_claims": [
+        "C-2010"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-632",
+        "N-634",
+        "N-1454"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-634",
+      "ref": "N-634",
+      "name": "Dwayne Farnsworth",
+      "type": "person",
+      "description": "Terryl Farnsworth's father; first cousin of David and Eddie Farnsworth; host-asserted to have attended high school with Tyler Bowyer's parents (family network claim only).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-632",
+        "N-633",
+        "N-1454"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-635",
+      "ref": "N-635",
+      "name": "Albert Farnsworth",
+      "type": "person",
+      "description": "Eddie Farnsworth's nephew; host-asserted prior rape conviction of a 13-year-old (no artifact displayed in this episode).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-632"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-636",
+      "ref": "N-636",
+      "name": "David Rodsham",
+      "type": "person",
+      "description": "Top civilian leader at a US air base in Afghanistan; subject of CBS News report on a child pornography ring; per the same report, returned to Fort Huachuca after leaving his post.",
+      "related_artifacts": [
+        "A-1582.1"
+      ],
+      "related_claims": [
+        "C-2011"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-637",
+      "ref": "N-637",
+      "name": "Thomas Bert",
+      "type": "person",
+      "description": "Father-in-law of Terryl Farnsworth; former Executive Vice President and COO of Duncan Aviation (the FBO that rented vehicles for federal authorities); retired 2019 per host.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1454"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-638",
+      "ref": "N-638",
+      "name": "Maddie (Daily Wire host)",
+      "type": "person",
+      "description": "Host of Daily Wire's \"Maddie in the No\" show; per Candace, the show is designed to mock her and Tucker Carlson; first identified publicly in this episode.",
+      "related_artifacts": [
+        "A-1584.1"
+      ],
+      "related_claims": [
+        "C-2013"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-639",
+      "ref": "N-639",
+      "name": "Larry Gwinta",
+      "type": "person",
+      "description": "Erika Kirk's stepfather; named in the 2014 Arizona House EMP legislation record alongside Lori Frantzve (host uncertain of spelling/pronunciation).",
+      "related_artifacts": [
+        "A-1581.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1454"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1452",
+      "ref": "N-1452",
+      "name": "Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification",
+      "type": "investigation_target",
+      "description": "Verification of credit card receipt, transaction timestamp, server identification, and federal follow-up (or absence thereof) at Cowboys Smokehouse on the night of 9/10.",
+      "related_artifacts": [
+        "A-1577.1",
+        "A-1577.2"
+      ],
+      "related_claims": [
+        "C-2003",
+        "C-2004"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1453",
+      "ref": "N-1453",
+      "name": "Mark Amodei House Committee Visual Identification",
+      "type": "investigation_target",
+      "description": "Whether Rep. Mark Amodei is visibly present early in the 12-hour House committee hearing video reviewed by host.",
+      "related_artifacts": [
+        "A-1579.1"
+      ],
+      "related_claims": [
+        "C-2008"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1454",
+      "ref": "N-1454",
+      "name": "Farnsworth Family Political-Military Network",
+      "type": "investigation_target",
+      "description": "Documented and host-asserted connections between Terryl Farnsworth, Tyler Bowyer, the Farnsworth family (David, Eddie, Dwayne), Lori Frantzve, Larry Gwinta, Thomas Bert, and Davis-Monthan / Fort Huachuca.",
+      "related_artifacts": [
+        "A-1581.1"
+      ],
+      "related_claims": [
+        "C-2010"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-632",
+        "N-633",
+        "N-634",
+        "N-637",
+        "N-639"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1455",
+      "ref": "N-1455",
+      "name": "Davis-Monthan AFB September 9 Attendee Verification",
+      "type": "investigation_target",
+      "description": "Verification of which Arizona community leaders attended the Davis-Monthan AFB Arizona Commanders Summit on September 9, 2025.",
+      "related_artifacts": [
+        "A-1583.1"
+      ],
+      "related_claims": [
+        "C-2012"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1454"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2003",
+      "ref": "C-2003",
+      "label": "Tyler Robinson's Pangitch Visit",
+      "claim": "Tyler Robinson drove approximately three hours from Orem, Utah to Pangitch, Utah on the night of September 10 and dined alone at the Cowboys Smokehouse bar on North Main Street.",
+      "anchored_artifacts": [
+        "A-1577.1",
+        "A-1577.2"
+      ],
+      "related_nodes": [
+        "N-1452"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:43",
+      "investigative_direction": "Obtain Cowboys Smokehouse receipt and credit card statement directly; verify transaction timestamp and route."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2004",
+      "ref": "C-2004",
+      "label": "Cowboys Smokehouse Verified Robinson's Presence via Credit Card",
+      "claim": "Cowboys Smokehouse staff identified Tyler Robinson from the suspect photo after the press conference, verified his prior presence via credit card receipt, and contacted federal authorities days later; per host, no federal follow-up investigation was conducted at the restaurant.",
+      "anchored_artifacts": [
+        "A-1577.1"
+      ],
+      "related_nodes": [
+        "N-1452"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:45",
+      "investigative_direction": "Confirm whether FBI / Utah officials interviewed Cowboys Smokehouse staff; obtain contemporaneous staff statement; check federal investigation logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2005",
+      "ref": "C-2005",
+      "label": "TPUSA Tent Was Group Decision",
+      "claim": "Turning Point USA clarified to host that the tent at AmeriFest was initially proposed by Elizabeth McCoy but was ultimately a group decision between the events team and exhibitor hall team.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:17:20",
+      "investigative_direction": "Obtain direct TPUSA statement or correspondence clarifying the tent decision-making process."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2006",
+      "ref": "C-2006",
+      "label": "Erika's First September 8 Text Had Blocked Contact Name",
+      "claim": "Erika's first text purportedly showing a conversation with Charlie Kirk about dinner on September 8 had the contact name blocked/redacted in the screenshot (sent to host December 28).",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:18:17",
+      "investigative_direction": "Obtain the original redacted screenshot from Erika; press for unredacted version showing contact number."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2007",
+      "ref": "C-2007",
+      "label": "Erika's Follow-Up Text Was a Charlie Kirk Contact Card",
+      "claim": "After host's repeated requests to unblock the contact name, Erika's follow-up text provided a Charlie Kirk contact card image rather than the unredacted conversation screenshot.",
+      "anchored_artifacts": [
+        "A-1578.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:19:30",
+      "investigative_direction": "Verify whether Erika retains the original unredacted text; obtain direct screen capture with contact number visible."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2008",
+      "ref": "C-2008",
+      "label": "Candace Concluded Mark Amodei Appears Early in 12-Hour Committee Footage",
+      "claim": "After personally reviewing a 12-hour House committee video, host concludes that Rep. Mark Amodei likely appears on screen early in the hearing, before the recorded roll calls, supporting his alibi for September 10.",
+      "anchored_artifacts": [
+        "A-1579.1"
+      ],
+      "related_nodes": [
+        "N-1453"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:13",
+      "investigative_direction": "Obtain official House attendance record; verify timestamped committee video metadata; corroborate with eyewitness accounts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2009",
+      "ref": "C-2009",
+      "label": "Tyler Bowyer Memorial Claim About Erika",
+      "claim": "Tyler Bowyer, speaking at Charlie Kirk's memorial, stated that Erika Kirk called him asking how to get involved and that he put her behind President Trump at the 2015 Arizona rally.",
+      "anchored_artifacts": [
+        "A-1580.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:28:55",
+      "investigative_direction": "Cross-check rally attendee list and corroborate timing of Erika's political involvement; verify Bowyer's narrative against other contemporaneous accounts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2010",
+      "ref": "C-2010",
+      "label": "2014 Arizona House Record Connects Farnsworths to Lori Frantzve",
+      "claim": "A 2014 Arizona House record shows Senator David Farnsworth introducing Lori Frantzve, then-CEO of GTech Industries, on EMP legislation, with Eddie Farnsworth listed among voting members present and Larry Gwinta also named.",
+      "anchored_artifacts": [
+        "A-1581.1"
+      ],
+      "related_nodes": [
+        "N-632",
+        "N-633",
+        "N-639",
+        "N-1454"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:00",
+      "investigative_direction": "Verify the Arizona House record directly; check whether any DoD contracts to GTech Industries followed; trace GTech Industries' successor entities (AZ Tech / E3 Tech mentioned in comments at 01:04:30)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2011",
+      "ref": "C-2011",
+      "label": "CBS News Reported David Rodsham Returned to Fort Huachuca",
+      "claim": "A CBS News article reports that David Rodsham, a top civilian leader at a US air base in Afghanistan who led a child pornography ring, returned to Fort Huachuca after leaving his post.",
+      "anchored_artifacts": [
+        "A-1582.1"
+      ],
+      "related_nodes": [
+        "N-636"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:11",
+      "investigative_direction": "Obtain the full CBS News article and any follow-up reporting; verify Rodsham's Fort Huachuca tenure dates; check overlap with relevant September 10 events."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2012",
+      "ref": "C-2012",
+      "label": "Davis-Monthan AFB Held Arizona Commanders Summit on September 9",
+      "claim": "The Davis-Monthan AFB website announces that the Arizona Commanders Summit kicked off on September 9, 2025, providing a forum for military commanders and Arizona community leaders.",
+      "anchored_artifacts": [
+        "A-1583.1"
+      ],
+      "related_nodes": [
+        "N-1455",
+        "N-1454"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:50",
+      "investigative_direction": "Obtain attendee list for the summit; cross-check against names of interest (Farnsworths, Boyers, Erika Kirk, etc.); verify any overlap with Fort Huachuca personnel."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2013",
+      "ref": "C-2013",
+      "label": "Daily Wire's \"Maddie in the No\" Show Mocks Candace",
+      "claim": "Daily Wire has launched a show hosted by \"Maddie\" designed to mock Candace Owens and Tucker Carlson; the show includes dramatized takes on Candace's commentary, including her Utah state flag remarks.",
+      "anchored_artifacts": [
+        "A-1584.1"
+      ],
+      "related_nodes": [
+        "N-638"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:38",
+      "investigative_direction": "Confirm show title, launch date, host identity, and episode count directly via Daily Wire's official channels."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2014",
+      "ref": "C-2014",
+      "label": "Charlie Back Still Image Shows No Visible Blood",
+      "claim": "A still image drawn from a longer video of Charlie Kirk from behind shows his St. Michael pendant chain with no visible blood on his back; host concludes this is inconsistent with a through-and-through bullet trajectory.",
+      "anchored_artifacts": [
+        "A-1585.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:24:56",
+      "investigative_direction": "Obtain unaltered full video from original source; have independent forensic analysts assess whether the absence of visible blood is consistent with the stated wound trajectory."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2015",
+      "ref": "C-2015",
+      "label": "Tyler Robinson Worked at Wild Electric in Santa Clara, Utah",
+      "claim": "Tyler Robinson was employed at Wild Electric in Santa Clara, Utah; this was already in public news reporting prior to this episode.",
+      "anchored_artifacts": [
+        "A-1586.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:13:50",
+      "investigative_direction": "Confirm employment dates and identify workplace contacts relevant to the investigation timeline."
+    }
+  ],
+  "memes": []
+}

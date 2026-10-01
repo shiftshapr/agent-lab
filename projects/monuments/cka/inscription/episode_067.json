@@ -1,0 +1,2163 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 67,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "d5118abb6ad6ec2bcd690c539ec2d59272e03045bac365ac901d9017dac21a9a",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1714",
+      "family_ref": "A-1714",
+      "bundle_name": "Freud-to-Fliess Letter Quotation Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1714.1",
+          "ref": "A-1714.1",
+          "description": "Host-read direct quotation from Sigmund Freud's letter to Wilhelm Fliess describing ritual circumcision scene and \"primeval devil religion\"",
+          "related_claims": [
+            "C-2253"
+          ],
+          "related_nodes": [
+            "N-829",
+            "N-830"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1715",
+      "family_ref": "A-1715",
+      "bundle_name": "TikTok Contrarian Epstein Compilation Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1715.1",
+          "ref": "A-1715.1",
+          "description": "Compiled video segment of Epstein email excerpts referencing Israel, Rothschilds, Roger Schank conversation, Peggy Siegal \"wasp\" comment, Joshua Finkelstein/Larry Finkelstein reference, Svetlana abortion pressure comment, and Maria Farmer \"Jewish country club\" quote",
+          "related_claims": [
+            "C-2254",
+            "C-2255",
+            "C-2256",
+            "C-2257",
+            "C-2258"
+          ],
+          "related_nodes": [
+            "N-833",
+            "N-834",
+            "N-851",
+            "N-852"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1716",
+      "family_ref": "A-1716",
+      "bundle_name": "James Lee Susan Hamblin Investigation Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1716.1",
+          "ref": "A-1716.1",
+          "description": "Independent journalist James Lee video examining poorly-redacted Epstein email containing \"I give you permission to kill him\" attributed to Susan Hamblin; Susan Hamblin Kids-to-Families adoption agency Wayback Machine archive; Susan Hamblin v. News Group Newspapers litigation; Wan Su Kam photos with Epstein; Alan Dershowitz massage reference",
+          "related_claims": [
+            "C-2259",
+            "C-2260"
+          ],
+          "related_nodes": [
+            "N-834",
+            "N-843",
+            "N-844",
+            "N-858",
+            "N-875"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1717",
+      "family_ref": "A-1717",
+      "bundle_name": "Ben Shapiro Epstein Tapes / Mossad Denial Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1717.1",
+          "ref": "A-1717.1",
+          "description": "Ben Shapiro on-camera segment asserting FBI is not releasing Epstein tapes because they contain child pornography; asserting there is \"no Epstein list\" per DOJ/FBI; stating no evidence of third-party trafficking on the tapes",
+          "related_claims": [
+            "C-2261",
+            "C-2262"
+          ],
+          "related_nodes": [
+            "N-837",
+            "N-842",
+            "N-867"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1718",
+      "family_ref": "A-1718",
+      "bundle_name": "Naftali Bennett Statement (Read Aloud) Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1718.1",
+          "ref": "A-1718.1",
+          "description": "Host-read statement from former Israeli PM Naftali Bennett categorically denying Mossad ran Jeffrey Epstein blackmail ring; reference to Jonathan Pollard 1987 scandal as purported endpoint of Mossad US operations",
+          "related_claims": [
+            "C-2263",
+            "C-2264"
+          ],
+          "related_nodes": [
+            "N-841",
+            "N-867"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1719",
+      "family_ref": "A-1719",
+      "bundle_name": "Nicki Minaj X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1719.1",
+          "ref": "A-1719.1",
+          "description": "Host-read X post from Nicki Minaj stating \"Your favorite artist has been practicing rituals in a satanic cult where they take babies from other countries and mutilate and kill them as a form of blood sacrifice to their God\" — issued in context of Jay-Z being named in Epstein emails",
+          "related_claims": [
+            "C-2265"
+          ],
+          "related_nodes": [
+            "N-839",
+            "N-840"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1720",
+      "family_ref": "A-1720",
+      "bundle_name": "Peter Thiel – Joe Rogan Interview Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1720.1",
+          "ref": "A-1720.1",
+          "description": "Thiel-Rogan exchange in which Thiel states he was introduced to Epstein by Reid Hoffman around 2014 (post-2008 arrest), describes Epstein as \"one of the smartest tax people in the world,\" acknowledges \"moral weakness\" in not asking more questions",
+          "related_claims": [
+            "C-2266",
+            "C-2267"
+          ],
+          "related_nodes": [
+            "N-834",
+            "N-835",
+            "N-850"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1721",
+      "family_ref": "A-1721",
+      "bundle_name": "Josh Hammer Charlie Kirk Clarification Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1721.1",
+          "ref": "A-1721.1",
+          "description": "Josh Hammer on-camera segment asserting Charlie Kirk's \"abandoning pro-Israel cause\" text was sent September 9 (not September 8) and describing a September 9 Zoom call with Charlie and a rabbi about messaging on Jewish-Christian relations and Israel",
+          "related_claims": [
+            "C-2268",
+            "C-2269"
+          ],
+          "related_nodes": [
+            "N-1009",
+            "N-42",
+            "N-1544"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1722",
+      "family_ref": "A-1722",
+      "bundle_name": "Frank Turek Megyn Kelly Show Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1722.2",
+          "ref": "A-1722.2",
+          "description": "Frank Turek on Megyn Kelly Show stating he went on a long walk with Charlie Kirk on Monday (September 8) around 8:00 PM; stating GG (child) had just gotten up; stating Charlie asked for help with messaging to college students about Christ",
+          "related_claims": [
+            "C-2270",
+            "C-2271"
+          ],
+          "related_nodes": [
+            "N-1009",
+            "N-846",
+            "N-1544"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:03",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1723",
+      "family_ref": "A-1723",
+      "bundle_name": "WikiLeaks Podesta Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1723.1",
+          "ref": "A-1723.1",
+          "description": "WikiLeaks-released email from Katherine Tate to John Podesta referencing \"a handkerchief\" that \"seems pizza-related\" and \"weird specific orders of pizza and hot dogs\"",
+          "related_claims": [
+            "C-2272"
+          ],
+          "related_nodes": [
+            "N-854",
+            "N-855",
+            "N-856"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1724",
+      "family_ref": "A-1724",
+      "bundle_name": "Jezebel Article Reference",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1724.1",
+          "ref": "A-1724.1",
+          "description": "Referenced Jezebel article concerning a witch's curse against Charlie Kirk (reportedly involving an Etsy spell) — verbally referenced but not displayed",
+          "related_claims": [
+            "C-2281"
+          ],
+          "related_nodes": [
+            "N-1009",
+            "N-1544"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1725",
+      "family_ref": "A-1725",
+      "bundle_name": "YouTube Top Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1725.1",
+          "ref": "A-1725.1",
+          "description": "Top comment from user \"Truth no matter the consequences\" requesting Candace and Ye (Kanye West) interview",
+          "related_claims": [
+            "C-2276"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:56:38",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1725.2",
+          "ref": "A-1725.2",
+          "description": "Comment from \"I R O\" referencing $65,000 hot dog party at White House and Hillary Clinton WikiLeaks email to Obama about being careful around Julian Assange",
+          "related_claims": [
+            "C-2277"
+          ],
+          "related_nodes": [
+            "N-857",
+            "N-856",
+            "N-875"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:57:34",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1725.3",
+          "ref": "A-1725.3",
+          "description": "Comment from \"Shyla\" affirming Candace as \"ultimate truth seeker\" and stating \"Christ is king\"",
+          "related_claims": [
+            "C-2278"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:58:27",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1725.4",
+          "ref": "A-1725.4",
+          "description": "Comment from \"Mahoney\" requesting episode on \"true Jewish faith\" vs \"perverted\" version",
+          "related_claims": [
+            "C-2279"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:58:27",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1725.5",
+          "ref": "A-1725.5",
+          "description": "Comment from \"Sneako\" — single letter \"W\" (Win)",
+          "related_claims": [
+            "C-2280"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:58:27",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1725.6",
+          "ref": "A-1725.6",
+          "description": "Comment from \"We woke now\" referencing Charleston, South Carolina as \"Little Jerusalem\" and site of first Jewish lodge; slave market called \"Checkmate\"",
+          "related_claims": [
+            "C-2280"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:00:34",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1726",
+      "family_ref": "A-1726",
+      "bundle_name": "Candace's Source Testimony Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1726.1",
+          "ref": "A-1726.1",
+          "description": "Host-testimony claim that her source confirmed the Dan Flood text message was sent as an iMessage, not Telegram (contradicting Erica Kirk's stated account)",
+          "related_claims": [
+            "C-2273",
+            "C-2274"
+          ],
+          "related_nodes": [
+            "N-1010",
+            "N-848",
+            "N-1541"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:45",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1726.2",
+          "ref": "A-1726.2",
+          "description": "Host-testimony claim that a neighbor resident confirmed seeing Charlie Kirk on a walk with a tall unrecognized person (not Frank Turek), and confirmed seeing Charlie in an elevator on September 9",
+          "related_claims": [
+            "C-2275"
+          ],
+          "related_nodes": [
+            "N-1009",
+            "N-846",
+            "N-1547"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:34",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-831",
+      "ref": "N-831",
+      "name": "Node 831",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-832",
+      "ref": "N-832",
+      "name": "Node 832",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-861",
+      "ref": "N-861",
+      "name": "Node 861",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-863",
+      "ref": "N-863",
+      "name": "Node 863",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-864",
+      "ref": "N-864",
+      "name": "Node 864",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-865",
+      "ref": "N-865",
+      "name": "Node 865",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-866",
+      "ref": "N-866",
+      "name": "Node 866",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-868",
+      "ref": "N-868",
+      "name": "Node 868",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-869",
+      "ref": "N-869",
+      "name": "Node 869",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-870",
+      "ref": "N-870",
+      "name": "Node 870",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-871",
+      "ref": "N-871",
+      "name": "Node 871",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-872",
+      "ref": "N-872",
+      "name": "Node 872",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-873",
+      "ref": "N-873",
+      "name": "Node 873",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-875",
+      "ref": "N-875",
+      "name": "Freud-to-Fliess Letter Quotation Bundle",
+      "type": "person",
+      "description": "### People Nodes (new in this episode)",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-829",
+      "ref": "N-829",
+      "name": "Sigmund Freud",
+      "type": "person",
+      "description": "Austrian neurologist and founder of psychoanalysis; cited by host for 1897 letter to Wilhelm Fliess describing ritual abuse scene. Source of host's framing premise about Jewish mysticism.",
+      "related_artifacts": [
+        "A-1714.1"
+      ],
+      "related_claims": [
+        "C-2253"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-830"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-830",
+      "ref": "N-830",
+      "name": "Wilhelm Fliess",
+      "type": "person",
+      "description": "German physician and Freud's intimate correspondent; recipient of the 1897 ritual scene letter; alleged perpetrator of childhood sexual abuse against his son Robert.",
+      "related_artifacts": [
+        "A-1714.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-829"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-833",
+      "ref": "N-833",
+      "name": "Rothschild Family",
+      "type": "person",
+      "description": "European banking dynasty; referenced in Epstein email per host (\"Epstein works on behalf of the Rothschilds\") and discussed in the Frankist cult / Morocco flag framing.",
+      "related_artifacts": [
+        "A-1715.1"
+      ],
+      "related_claims": [
+        "C-2258"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-834",
+      "ref": "N-834",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Financier and convicted sex offender; subject of 2024-2026 document releases; named in Peter Thiel, Joshua Finkelstein, Susan Hamblin, and Jay-Z email contexts.",
+      "related_artifacts": [
+        "A-1715.1",
+        "A-1716.1",
+        "A-1720.1"
+      ],
+      "related_claims": [
+        "C-2258",
+        "C-2259",
+        "C-2260",
+        "C-2266"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-835",
+        "N-836",
+        "N-840",
+        "N-843",
+        "N-844",
+        "N-852",
+        "N-851",
+        "N-853",
+        "N-874",
+        "N-1545"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-835",
+      "ref": "N-835",
+      "name": "Peter Thiel",
+      "type": "person",
+      "description": "Tech billionaire and JD Vance political patron; identified in Epstein emails and discussed on Rogan regarding his Epstein relationship.",
+      "related_artifacts": [
+        "A-1715.1",
+        "A-1720.1"
+      ],
+      "related_claims": [
+        "C-2266",
+        "C-2267"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-836",
+        "N-850",
+        "N-1546"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-836",
+      "ref": "N-836",
+      "name": "J.D. Vance",
+      "type": "person",
+      "description": "US Vice President; political beneficiary of Peter Thiel; subject of host's claim that Thiel's Epstein emails are \"a major problem.\"",
+      "related_artifacts": [
+        "A-1715.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-835",
+        "N-1546"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-837",
+      "ref": "N-837",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Conservative commentator; defended FBI on Epstein tapes (asserting child-porn content and \"no Epstein list\"); named in podcast pre-release commentary as Epstein email subject.",
+      "related_artifacts": [
+        "A-1717.1"
+      ],
+      "related_claims": [
+        "C-2261",
+        "C-2262"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-838",
+      "ref": "N-838",
+      "name": "Barry Weiss",
+      "type": "person",
+      "description": "Conservative podcaster (\"The Weiss Reports\"); named as defender of Alan Dershowitz and as B'nai B'rith descendant (host claim).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-3",
+        "N-858"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-839",
+      "ref": "N-839",
+      "name": "Nicki Minaj",
+      "type": "person",
+      "description": "Hip-hop artist; posted on X about satanic cult practices in context of Jay-Z naming.",
+      "related_artifacts": [
+        "A-1719.1"
+      ],
+      "related_claims": [
+        "C-2265"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-840"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-840",
+      "ref": "N-840",
+      "name": "Jay-Z",
+      "type": "person",
+      "description": "Hip-hop artist; mentioned in Epstein emails per host (in context of Harvey Weinstein watching an assault); named in Nicki Minaj X post.",
+      "related_artifacts": [
+        "A-1719.1"
+      ],
+      "related_claims": [
+        "C-2265"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-839",
+        "N-834"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-841",
+      "ref": "N-841",
+      "name": "Naftali Bennett",
+      "type": "person",
+      "description": "Former Israeli Prime Minister; issued on-camera denial that Mossad ran Epstein.",
+      "related_artifacts": [
+        "A-1718.1"
+      ],
+      "related_claims": [
+        "C-2263",
+        "C-2264"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-842",
+      "ref": "N-842",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Commentator; described by host as asserting \"without evidence\" that Mossad ran Epstein.",
+      "related_artifacts": [
+        "A-1717.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-841"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-843",
+      "ref": "N-843",
+      "name": "Susan Hamblin",
+      "type": "person",
+      "description": "Financial advisor and founder of Kids-to-Families adoption agency; alleged sender of \"I give you permission to kill him\" email to Epstein (per James Lee analysis); previously sued News Group Newspapers.",
+      "related_artifacts": [
+        "A-1716.1"
+      ],
+      "related_claims": [
+        "C-2259",
+        "C-2260"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-834",
+        "N-858"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-844",
+      "ref": "N-844",
+      "name": "James Lee",
+      "type": "person",
+      "description": "Independent journalist who analyzed the Susan Hamblin redacted Epstein email.",
+      "related_artifacts": [
+        "A-1716.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-843"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-846",
+      "ref": "N-846",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Christian apologist and Charlie Kirk mentor; described the Sept 8 walk with Charlie on Megyn Kelly Show.",
+      "related_artifacts": [
+        "A-1722.1"
+      ],
+      "related_claims": [
+        "C-2270",
+        "C-2271"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1009",
+        "N-1544",
+        "N-1547"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-847",
+      "ref": "N-847",
+      "name": "Andrew Kolvet (also spelled Kolvetz in transcript)",
+      "type": "person",
+      "description": "Charlie Kirk's TPUSA team member; recipient (with Dan Flood) of \"they're going to kill me\" text on Sept 9.",
+      "related_artifacts": [
+        "A-1726.1"
+      ],
+      "related_claims": [
+        "C-2274"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-848",
+        "N-1009",
+        "N-1544"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-848",
+      "ref": "N-848",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Charlie Kirk associate; named recipient of \"they're going to kill me\" text per host's source; format of the text (iMessage vs Telegram) is in dispute.",
+      "related_artifacts": [
+        "A-1726.1"
+      ],
+      "related_claims": [
+        "C-2273",
+        "C-2274"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1010",
+        "N-847",
+        "N-1541",
+        "N-1544"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-849",
+      "ref": "N-849",
+      "name": "Bob Shulman",
+      "type": "person",
+      "description": "Jewish donor; per host, withdrew financial support from Charlie Kirk on Sept 9 amid the pro-Israel text exchange.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2269"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1009",
+        "N-1544"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-850",
+      "ref": "N-850",
+      "name": "Reid Hoffman",
+      "type": "person",
+      "description": "LinkedIn co-founder; per Peter Thiel, introduced Thiel to Jeffrey Epstein around 2014.",
+      "related_artifacts": [
+        "A-1720.1"
+      ],
+      "related_claims": [
+        "C-2266"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-835",
+        "N-834"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-851",
+      "ref": "N-851",
+      "name": "Maria Farmer",
+      "type": "person",
+      "description": "Epstein victim; stated Ghislaine Maxwell described Epstein's place as \"a Jewish country club.\"",
+      "related_artifacts": [
+        "A-1715.1"
+      ],
+      "related_claims": [
+        "C-2257"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-834",
+        "N-852"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-852",
+      "ref": "N-852",
+      "name": "Ghislaine Maxwell",
+      "type": "person",
+      "description": "Epstein associate; quoted saying Epstein's residence was \"a Jewish country club.\"",
+      "related_artifacts": [
+        "A-1715.1"
+      ],
+      "related_claims": [
+        "C-2257"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-851",
+        "N-834"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-853",
+      "ref": "N-853",
+      "name": "Jean-Luc Brunel",
+      "type": "person",
+      "description": "French modeling agent; named in connection with Epstein's modeling recruitment pipeline (M Model Management, Victoria's Secret, Miss Universe per host).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-834"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-854",
+      "ref": "N-854",
+      "name": "Katherine Tate",
+      "type": "person",
+      "description": "Sender of pizza-referencing email to John Podesta released via WikiLeaks.",
+      "related_artifacts": [
+        "A-1723.1"
+      ],
+      "related_claims": [
+        "C-2272"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-855"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-855",
+      "ref": "N-855",
+      "name": "John Podesta",
+      "type": "person",
+      "description": "Clinton campaign chair; recipient of pizza-referencing emails per WikiLeaks.",
+      "related_artifacts": [
+        "A-1723.1"
+      ],
+      "related_claims": [
+        "C-2272"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-854"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-856",
+      "ref": "N-856",
+      "name": "Julian Assange",
+      "type": "person",
+      "description": "WikiLeaks founder; referenced as publisher of Podesta emails; named by commenter in context of pizza-code discussion.",
+      "related_artifacts": [
+        "A-1725.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-854",
+        "N-855"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-857",
+      "ref": "N-857",
+      "name": "Hillary Clinton",
+      "type": "person",
+      "description": "Former Secretary of State; named by commenter regarding WikiLeaks email to Obama about being careful around Assange; separately cited for seeking Gilgamesh's tomb in Iraq pre-invasion.",
+      "related_artifacts": [
+        "A-1725.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-856"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-858",
+      "ref": "N-858",
+      "name": "Alan Dershowitz",
+      "type": "person",
+      "description": "Attorney and Epstein associate; cited as having recounted a massage from a woman named \"Olga\" at Epstein's place; defended by Mark Levin and Barry Weiss.",
+      "related_artifacts": [
+        "A-1716.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-838",
+        "N-862"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-859",
+      "ref": "N-859",
+      "name": "Andrew Kolbatz (note: spelling preserved from transcript; possibly Kolbet)",
+      "type": "person",
+      "description": "Listed alongside Mikey McQuaid as having traveled to meet with the White House the prior Thursday (per host).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2275"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-860"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-860",
+      "ref": "N-860",
+      "name": "Mikey McQuaid",
+      "type": "person",
+      "description": "Named by host as having traveled to meet the White House alongside Andrew Kolbatz; subject of neighbor sightings reported by host.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-859"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-862",
+      "ref": "N-862",
+      "name": "Mark Levin",
+      "type": "person",
+      "description": "Conservative commentator; named as defender of Alan Dershowitz.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-858"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-867",
+      "ref": "N-867",
+      "name": "Todd Blanche",
+      "type": "person",
+      "description": "Deputy Attorney General; named by host as stating DOJ is \"sparing us the videos.\"",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2261"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-834"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-874",
+      "ref": "N-874",
+      "name": "Robert Maxwell",
+      "type": "person",
+      "description": "British media proprietor and father of Ghislaine Maxwell; named in connection with Kushner Epstein emails (per host).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-852"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1009",
+      "ref": "N-1009",
+      "name": "Charlie Kirk — referenced throughout timeline reconstruction.",
+      "type": "investigation_target",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1010",
+      "ref": "N-1010",
+      "name": "Erica Kirk — referenced in alibi and Dan Flood message disputes.",
+      "type": "investigation_target",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "### Investigation Target Nodes (new)",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1541",
+      "ref": "N-1541",
+      "name": "Dan Flood Message Format Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent inconsistency between Erica Kirk's account (denied message; then said Telegram; host source says iMessage). Bears directly on the Sept 9 \"they're going to kill me\" text.",
+      "related_artifacts": [
+        "A-1726.1"
+      ],
+      "related_claims": [
+        "C-2273",
+        "C-2274"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1010",
+        "N-848"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1542",
+      "ref": "N-1542",
+      "name": "Erica Kirk Sept 10 Alibi Verification",
+      "type": "investigation_target",
+      "description": "Host's claim that no one in Erica Kirk's building or medical office can confirm her stated alibi of collapsing in parking lot and screaming in doctor's office on Sept 10.",
+      "related_artifacts": [
+        "A-1726.2"
+      ],
+      "related_claims": [
+        "C-2275"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1010",
+        "N-1543"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1543",
+      "ref": "N-1543",
+      "name": "Fort Huachuca Alibi Investigation",
+      "type": "investigation_target",
+      "description": "Persistent target: host reports \"major problems\" verifying Erica Kirk's Fort Huachuca alibi; details pending.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1010",
+        "N-1542"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1544",
+      "ref": "N-1544",
+      "name": "Charlie Kirk Sept 8–10 Timeline Reconstruction",
+      "type": "investigation_target",
+      "description": "Persistent target for assembling verified public statements about Charlie Kirk's whereabouts Sept 8–10. Affected by Josh Hammer correction (Sept 9 text vs Sept 8), Sept 9 Zoom call, dinner with priest, \"kill me\" text, and Frank Turek's Sept 8 walk account.",
+      "related_artifacts": [
+        "A-1721.1",
+        "A-1722.1",
+        "A-1724.1",
+        "A-1726.2"
+      ],
+      "related_claims": [
+        "C-2268",
+        "C-2269",
+        "C-2270",
+        "C-2271",
+        "C-2274",
+        "C-2275",
+        "C-2281"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1009",
+        "N-42",
+        "N-846",
+        "N-847",
+        "N-848",
+        "N-849"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1545",
+      "ref": "N-1545",
+      "name": "Peter Thiel–Epstein Relationship Documentation",
+      "type": "investigation_target",
+      "description": "Persistent target: amount and content of Thiel's email exchanges with Epstein per released documents.",
+      "related_artifacts": [
+        "A-1715.1",
+        "A-1720.1"
+      ],
+      "related_claims": [
+        "C-2258",
+        "C-2266",
+        "C-2267"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-834",
+        "N-835",
+        "N-850"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1546",
+      "ref": "N-1546",
+      "name": "J.D. Vance–Peter Thiel Political Exposure",
+      "type": "investigation_target",
+      "description": "Persistent target: whether and how Peter Thiel's Epstein emails affect J.D. Vance politically (per host's claim that this is \"plausibly the biggest scandal to come out of the emails\").",
+      "related_artifacts": [
+        "A-1715.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-835",
+        "N-836"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1547",
+      "ref": "N-1547",
+      "name": "Charlie Kirk Sept 8 Walk Companion Identification",
+      "type": "investigation_target",
+      "description": "Persistent target: whether Charlie Kirk's Sept 8 walk at ~8 PM was with Frank Turek, an unrecognized tall person, or both (sequentially). Neighbor testimony to host suggests second possibility.",
+      "related_artifacts": [
+        "A-1722.1",
+        "A-1726.2"
+      ],
+      "related_claims": [
+        "C-2270",
+        "C-2275"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1009",
+        "N-846"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2253",
+      "ref": "C-2253",
+      "label": "Freud Letter Describes Ritual Abuse Scene",
+      "claim": "A letter from Sigmund Freud to Wilhelm Fliess describes a patient recalling ritual circumcision and concludes with Freud's reference to \"a primeval devil religion\" and \"the harsh therapy of the witches' judges.\"",
+      "anchored_artifacts": [
+        "A-1714.1"
+      ],
+      "related_nodes": [
+        "N-829",
+        "N-830",
+        "N-831",
+        "N-832",
+        "N-861",
+        "N-863",
+        "N-864",
+        "N-865",
+        "N-866",
+        "N-868",
+        "N-869",
+        "N-870",
+        "N-871",
+        "N-872",
+        "N-873"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:44",
+      "investigative_direction": "Obtain the full Freud-Fliess correspondence from standard critical editions to verify the quote in full context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2254",
+      "ref": "C-2254",
+      "label": "Epstein Emails Mention Israel Twice as Much as Trump",
+      "claim": "Per the TikTok contrarian compilation, Israel is mentioned twice as much as Donald Trump across the released Epstein documents.",
+      "anchored_artifacts": [
+        "A-1715.1"
+      ],
+      "related_nodes": [
+        "N-834"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:32",
+      "investigative_direction": "Independently count Israel/Trump mentions across DOJ-released documents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2255",
+      "ref": "C-2255",
+      "label": "Epstein Told Roger Schank Jews Create Wealth Through Financial Manipulation",
+      "claim": "Per the compilation, in a discussion with Jewish-American academic and hedge fund worker Roger Schank, Epstein stated that Jews create vast fortunes by manipulating markets, creating financial speculation, and exploiting labor.",
+      "anchored_artifacts": [
+        "A-1715.1"
+      ],
+      "related_nodes": [
+        "N-834"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:32",
+      "investigative_direction": "Locate the underlying email between Epstein and Roger Schank in DOJ releases."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2256",
+      "ref": "C-2256",
+      "label": "Joshua Finkelstein Accused of Treating Non-Jews as Not Human",
+      "claim": "Per the compilation, Joshua Finkelstein (described as BlackRock's Larry Finkelstein's son) is accused by his ex-girlfriend Svetlana of having \"no respect for non-Jews\" and of seeing them as not human; he also pressured her to have an abortion.",
+      "anchored_artifacts": [
+        "A-1715.1"
+      ],
+      "related_nodes": [
+        "N-834"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:37",
+      "investigative_direction": "Obtain the underlying email and any corroborating testimony from Svetlana."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2257",
+      "ref": "C-2257",
+      "label": "Ghislaine Maxwell Called Epstein Residence \"A Jewish Country Club\"",
+      "claim": "Per Maria Farmer's on-camera statement in the compilation, when Maria Farmer called Ghislaine Maxwell to ask why she could not eat at Epstein's residence, Maxwell told her \"It's a Jewish country club. You're not Jewish. They're not going to serve you.\"",
+      "anchored_artifacts": [
+        "A-1715.1"
+      ],
+      "related_nodes": [
+        "N-851",
+        "N-852",
+        "N-834"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:20",
+      "investigative_direction": "Cross-check against Maria Farmer's prior sworn testimony and DOJ documents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2258",
+      "ref": "C-2258",
+      "label": "Epstein Emailed That He Works for the Rothschilds",
+      "claim": "Per host reading, an Epstein email stated \"those are my bosses, the Rothschilds.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-833",
+        "N-834"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:45",
+      "investigative_direction": "Identify the specific Epstein email in DOJ releases containing the Rothschild reference."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2259",
+      "ref": "C-2259",
+      "label": "Susan Hamblin Allegedly Emailed Epstein Permission to Kill",
+      "claim": "Per James Lee's analysis, an Epstein email poorly redacted but readable as from \"Susan Hamblin\" contains the line \"I give you permission to kill him.\"",
+      "anchored_artifacts": [
+        "A-1716.1"
+      ],
+      "related_nodes": [
+        "N-843",
+        "N-834",
+        "N-844"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:29",
+      "investigative_direction": "Obtain the unredacted email from DOJ sources; cross-check with prior News Group Newspapers reporting on Susan Hamblin."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2260",
+      "ref": "C-2260",
+      "label": "Susan Hamblin Previously Sued News Group Newspapers Over Epstein Allegations",
+      "claim": "Per James Lee, Susan Hamblin previously sued News Group Newspapers (publisher of The Sun) over articles alleging she groomed and procured a 16-year-old for Epstein; articles were removed and substantial compensation paid.",
+      "anchored_artifacts": [
+        "A-1716.1"
+      ],
+      "related_nodes": [
+        "N-843"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:29",
+      "investigative_direction": "Verify the litigation through court records (UK)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2261",
+      "ref": "C-2261",
+      "label": "Ben Shapiro Asserts FBI Not Releasing Epstein Tapes Because They Are Child Pornography",
+      "claim": "Per Ben Shapiro on camera, the FBI is not releasing Epstein tapes because the tapes are child pornography, not because they document third-party abuse.",
+      "anchored_artifacts": [
+        "A-1717.1"
+      ],
+      "related_nodes": [
+        "N-837",
+        "N-834"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:35",
+      "investigative_direction": "Compare Shapiro's claim to DOJ public statements and Todd Blanche's public statements on the tapes."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2262",
+      "ref": "C-2262",
+      "label": "Ben Shapiro Asserts No \"Epstein List\" Exists",
+      "claim": "Per Ben Shapiro on camera, citing his federal government sources, there is no Epstein list; the black book contacts are already public, and no evidence exists that third-party contacts trafficked girls.",
+      "anchored_artifacts": [
+        "A-1717.1"
+      ],
+      "related_nodes": [
+        "N-837",
+        "N-834"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:35",
+      "investigative_direction": "Cross-check against DOJ/FBI official statements on what documents were released."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2263",
+      "ref": "C-2263",
+      "label": "Naftali Bennett Categorically Denies Mossad Operated Epstein Blackmail Ring",
+      "claim": "Per host-read Bennett statement, former Israeli PM Naftali Bennett stated with \"100% certainty\" that the accusation Mossad ran an Epstein blackmail ring is \"categorically and totally false.\"",
+      "anchored_artifacts": [
+        "A-1718.1"
+      ],
+      "related_nodes": [
+        "N-841",
+        "N-834"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:38",
+      "investigative_direction": "Obtain the full Bennett interview recording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2264",
+      "ref": "C-2264",
+      "label": "Naftali Bennett Cites Pollard 1987 as Last Mossad US Operation",
+      "claim": "Per host-read Bennett statement (following her own interview with Bennett), Mossad has not been active in the United States since the Jonathan Pollard scandal of 1987.",
+      "anchored_artifacts": [
+        "A-1718.1"
+      ],
+      "related_nodes": [
+        "N-841",
+        "N-867"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:38",
+      "investigative_direction": "Verify Bennett's claim against declassified or publicly known Mossad operations post-1987."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2265",
+      "ref": "C-2265",
+      "label": "Nicki Minaj Posted That Favorite Artist Practices in Satanic Cult with Baby Sacrifices",
+      "claim": "Nicki Minaj posted on X that \"Your favorite artist has been practicing rituals in a satanic cult where they take babies from other countries and mutilate and kill them as a form of blood sacrifice to their God.\"",
+      "anchored_artifacts": [
+        "A-1719.1"
+      ],
+      "related_nodes": [
+        "N-839",
+        "N-840"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:23",
+      "investigative_direction": "Locate Minaj's original post on X; identify which artist she is referencing (context suggests Jay-Z)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2266",
+      "ref": "C-2266",
+      "label": "Peter Thiel States He Was Introduced to Epstein by Reid Hoffman Around 2014",
+      "claim": "Per Peter Thiel on the Joe Rogan podcast, he was introduced to Jeffrey Epstein by Reid Hoffman in 2014 (after Epstein's 2008 arrest), described as \"one of the smartest tax people in the world.\"",
+      "anchored_artifacts": [
+        "A-1720.1"
+      ],
+      "related_nodes": [
+        "N-835",
+        "N-850",
+        "N-834"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:09",
+      "investigative_direction": "Confirm date and circumstances against any released Thiel email metadata with Hoffman."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2267",
+      "ref": "C-2267",
+      "label": "Peter Thiel Acknowledges \"Moral Weakness\" in Not Asking More Questions About Epstein",
+      "claim": "Per the Rogan exchange, Thiel states \"it was probably my moral weakness\" that he did not ask more questions about Epstein.",
+      "anchored_artifacts": [
+        "A-1720.1"
+      ],
+      "related_nodes": [
+        "N-835",
+        "N-834"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:02",
+      "investigative_direction": "Compare Thiel's Rogan account to the volume and content of his released emails with Epstein."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2268",
+      "ref": "C-2268",
+      "label": "Josh Hammer States Charlie Kirk Pro-Israel Text Was September 9",
+      "claim": "Per Josh Hammer on camera, Charlie Kirk's text expressing intent to abandon the pro-Israel cause was sent on September 9, 2025 — not September 8 as Candace Owens had stated.",
+      "anchored_artifacts": [
+        "A-1721.1"
+      ],
+      "related_nodes": [
+        "N-42",
+        "N-1009",
+        "N-1544"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:29",
+      "investigative_direction": "Obtain timestamp metadata from the original screenshot of the text message; obtain Hammer's source for the date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2269",
+      "ref": "C-2269",
+      "label": "Josh Hammer Describes Sept 9 Zoom Call With Charlie Kirk and Rabbi",
+      "claim": "Per Josh Hammer on camera, approximately two hours after the \"abandoning pro-Israel cause\" text, a small Zoom call occurred with Charlie Kirk, Hammer, and others, organized by Charlie for messaging advice on Jewish-Christian relations on college campuses.",
+      "anchored_artifacts": [
+        "A-1721.1"
+      ],
+      "related_nodes": [
+        "N-42",
+        "N-1009",
+        "N-849",
+        "N-1544"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:29",
+      "investigative_direction": "Identify the other Zoom participants; cross-check against calendar records; obtain the \"rabbi in Israel\" identity."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2270",
+      "ref": "C-2270",
+      "label": "Frank Turek Describes Sept 8 Walk With Charlie Kirk Around 8:00 PM",
+      "claim": "Per Frank Turek on the Megyn Kelly Show, he went on a long walk with Charlie Kirk on Monday (September 8) at approximately 8:00 PM, after returning at Charlie's invitation.",
+      "anchored_artifacts": [
+        "A-1722.1"
+      ],
+      "related_nodes": [
+        "N-846",
+        "N-1009",
+        "N-1544",
+        "N-1547"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:03",
+      "investigative_direction": "Cross-reference Turek's account with security/camera records, building logs, and neighbor witness accounts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2271",
+      "ref": "C-2271",
+      "label": "Frank Turek States GG (Child) Got Up During the Sept 8 Walk",
+      "claim": "Per Frank Turek, Charlie Kirk texted that he would be \"shortly\" out because \"GG just got up,\" and Charlie had to attend to the child before the walk.",
+      "anchored_artifacts": [
+        "A-1722.1"
+      ],
+      "related_nodes": [
+        "N-846",
+        "N-1009",
+        "N-1010",
+        "N-1544"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:50",
+      "investigative_direction": "Verify against Charlie Kirk's text message timestamp; cross-reference with Erica Kirk's location claims."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2272",
+      "ref": "C-2272",
+      "label": "WikiLeaks Email From Katherine Tate to Podesta References Pizza-Related Handkerchief",
+      "claim": "An email released via WikiLeaks from Katherine Tate to John Podesta references \"a handkerchief\" that \"seems pizza-related\" and \"weird specific orders of pizza and hot dogs.\"",
+      "anchored_artifacts": [
+        "A-1723.1"
+      ],
+      "related_nodes": [
+        "N-854",
+        "N-855",
+        "N-856"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:46",
+      "investigative_direction": "Verify the email against the WikiLeaks Podesta archive; identify context and any related communications."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2273",
+      "ref": "C-2273",
+      "label": "Source States Dan Flood Text Was Sent as iMessage, Not Telegram",
+      "claim": "Per Candace Owens's source (described as having had access to Dan Flood's messages), the \"they're going to kill me\" text was sent as an iMessage, not via a Telegram chat that auto-cleared, as Erica Kirk later claimed.",
+      "anchored_artifacts": [
+        "A-1726.1"
+      ],
+      "related_nodes": [
+        "N-1010",
+        "N-848",
+        "N-847",
+        "N-1541"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:45",
+      "investigative_direction": "Obtain device forensic records for Dan Flood's phone; obtain any receipts or carrier records; cross-check against Telegram server logs (Telegram messages are not auto-cleared by default)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2274",
+      "ref": "C-2274",
+      "label": "Source States Andrew Kolvet and Dan Flood Were Recipients of the \"Kill Me\" Text",
+      "claim": "Per Candace Owens's source, the Sept 9 \"they're going to kill me\" text was sent to Andrew Kolvet and Dan Flood as an iMessage exchange.",
+      "anchored_artifacts": [
+        "A-1726.1"
+      ],
+      "related_nodes": [
+        "N-1009",
+        "N-847",
+        "N-848",
+        "N-1544",
+        "N-859"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:45",
+      "investigative_direction": "Obtain corroborating testimony from Andrew Kolvet; cross-reference with Dan Flood's device records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2275",
+      "ref": "C-2275",
+      "label": "Neighbor Reports Seeing Charlie Kirk With Unrecognized Tall Person on Sept 8 Walk",
+      "claim": "Per Candace Owens's source (a resident of the Kirks' building), a neighbor encountered Charlie Kirk on a walk on September 8 with a tall person who was not Frank Turek; they spoke briefly about her dog and his upcoming tour.",
+      "anchored_artifacts": [
+        "A-1726.2"
+      ],
+      "related_nodes": [
+        "N-1009",
+        "N-846",
+        "N-1547"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:34",
+      "investigative_direction": "Identify the neighbor; obtain written statement; review building security camera footage if available."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2276",
+      "ref": "C-2276",
+      "label": "YouTube Comment Requests Candace and Kanye West Episode",
+      "claim": "The top YouTube comment (from user \"Truth no matter the consequences\") requests a Candace Owens and Kanye West joint episode.",
+      "anchored_artifacts": [
+        "A-1725.1"
+      ],
+      "related_nodes": [
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:38",
+      "investigative_direction": "Not applicable (commentary only)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2277",
+      "ref": "C-2277",
+      "label": "YouTube Comment Cites $65,000 White House Hot Dog Party From WikiLeaks",
+      "claim": "A YouTube comment from \"I R O\" references a $65,000 hot dog party at the White House found in WikiLeaks files, and a Hillary Clinton email to Obama advising caution around Julian Assange.",
+      "anchored_artifacts": [
+        "A-1725.2"
+      ],
+      "related_nodes": [
+        "N-856",
+        "N-857"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:34",
+      "investigative_direction": "Verify the underlying WikiLeaks document."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2278",
+      "ref": "C-2278",
+      "label": "YouTube Comment From \"Shyla\" Affirms Candace as Truth Seeker",
+      "claim": "A YouTube comment from \"Shyla\" affirms Candace Owens as \"the ultimate truth seeker and right fighter\" and affirms \"Christ is king.\"",
+      "anchored_artifacts": [
+        "A-1725.3"
+      ],
+      "related_nodes": [
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:27",
+      "investigative_direction": "Not applicable (commentary only)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2279",
+      "ref": "C-2279",
+      "label": "YouTube Comment From \"Mahoney\" Requests Episode on True Jewish Faith",
+      "claim": "A YouTube comment from \"Mahoney\" (Catholic) requests an episode on the \"true Jewish faith\" versus the perverted version, acknowledging that this framing will be called anti-Semitic.",
+      "anchored_artifacts": [
+        "A-1725.4"
+      ],
+      "related_nodes": [
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:27",
+      "investigative_direction": "Not applicable (commentary only)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2280",
+      "ref": "C-2280",
+      "label": "YouTube Comment From \"Sneako\" Posts Single Letter \"W\"",
+      "claim": "A YouTube comment from \"Sneako\" contains only the letter \"W\" (interpreted by host as \"Win\").",
+      "anchored_artifacts": [
+        "A-1725.5"
+      ],
+      "related_nodes": [
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:27",
+      "investigative_direction": "Not applicable (commentary only)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2281",
+      "ref": "C-2281",
+      "label": "Jezebel Article on Witch's Curse Against Charlie Kirk Referenced But Not Displayed",
+      "claim": "Per host reference, a Jezebel article regarding a witch's curse / Etsy spell against Charlie Kirk is cited as the context for Charlie's reported priest dinner the evening of September 9.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1009",
+        "N-1544"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:15",
+      "investigative_direction": "Locate the Jezebel article; verify date and content."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2282",
+      "ref": "C-2282",
+      "label": "Comment Cites Charleston, SC as \"Little Jerusalem\" With First Jewish Lodge and \"Checkmate\" Slave Market",
+      "claim": "A YouTube comment from \"We woke now\" asserts that Charleston, South Carolina — known as \"Little Jerusalem\" — is home to the very first Jewish lodge, and that the slave market there is called \"Checkmate\" forming a \"literal chessboard.\"",
+      "anchored_artifacts": [
+        "A-1725.6"
+      ],
+      "related_nodes": [
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:34",
+      "investigative_direction": "Verify against Charleston historical society records; verify \"Checkmate\" name for the slave market."
+    }
+  ],
+  "memes": []
+}

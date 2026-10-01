@@ -1,0 +1,1031 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 150,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "1cf9a9ae701ecafbe7c0d5f1b9d90036afd545839e429a950e86a6121537973e",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2351",
+      "family_ref": "A-2351",
+      "bundle_name": "Journal Entry Bundle (Candace Owens, written to Charlie Kirk)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2351.1",
+          "ref": "A-2351.1",
+          "description": "Journal Entry: Wyoming, mid-October (immediately post-death reflection)",
+          "related_claims": [
+            "C-3406",
+            "C-3416",
+            "C-3420"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7",
+            "N-1214",
+            "N-1215"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:42–00:05:08",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2351.2",
+          "ref": "A-2351.2",
+          "description": "Journal Entry: Subsequent entry covering foot injury, pregnancy, and Erica (\"Erika\") investigation",
+          "related_claims": [
+            "C-3406",
+            "C-3414",
+            "C-3415",
+            "C-3417",
+            "C-3418"
+          ],
+          "related_nodes": [
+            "N-1029",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:50–00:11:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2351.3",
+          "ref": "A-2351.3",
+          "description": "Journal Entry: Power song analysis / 2018 Israel-London retrospective",
+          "related_claims": [
+            "C-3406",
+            "C-3421",
+            "C-3425"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7",
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:50–00:17:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2351.4",
+          "ref": "A-2351.4",
+          "description": "Journal Entry: Pre-anniversary / Spain laughter / Ghost Town concert reflection",
+          "related_claims": [
+            "C-3406",
+            "C-3419",
+            "C-3422",
+            "C-3423"
+          ],
+          "related_nodes": [
+            "N-7",
+            "N-1211",
+            "N-1213"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:38–00:27:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2352",
+      "family_ref": "A-2352",
+      "bundle_name": "Open Letter Bundle (Mappin family / Irina)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2352.1",
+          "ref": "A-2352.1",
+          "description": "Open letter from Arena, John Mappin, and Irina, addressed to \"the world,\" read aloud by host",
+          "related_claims": [
+            "C-3407",
+            "C-3408",
+            "C-3424"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208",
+            "N-1209",
+            "N-1",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:08–00:08:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2353",
+      "family_ref": "A-2353",
+      "bundle_name": "Charlie Kirk Text Message Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2353.1",
+          "ref": "A-2353.1",
+          "description": "Charlie Kirk text message describing his future wife (Erica) as \"paralyzing\" and \"the ideal,\" quoting her as \"Venus\" and referencing TPOSA productivity",
+          "related_claims": [
+            "C-3409"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1029"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:30–00:10:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2354",
+      "family_ref": "A-2354",
+      "bundle_name": "Kanye West Communication Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2354.1",
+          "ref": "A-2354.1",
+          "description": "Kanye West text reply to Candace Owens: \"it's a battle cry to be yourself\"",
+          "related_claims": [
+            "C-3410"
+          ],
+          "related_nodes": [
+            "N-1211",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:55–00:13:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2354.2",
+          "ref": "A-2354.2",
+          "description": "Kanye West public tweet: \"I love the way Candace Owens thinks\" (April–May 2018)",
+          "related_claims": [
+            "C-3411"
+          ],
+          "related_nodes": [
+            "N-1211",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2355",
+      "family_ref": "A-2355",
+      "bundle_name": "Donald Trump Social Media Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2355.1",
+          "ref": "A-2355.1",
+          "description": "Donald Trump tweet featuring mock Time magazine cover depicting Candace Owens as \"most vile person of the year\"",
+          "related_claims": [
+            "C-3412"
+          ],
+          "related_nodes": [
+            "N-1212",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2356",
+      "family_ref": "A-2356",
+      "bundle_name": "TPUSA Premiere Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2356.1",
+          "ref": "A-2356.1",
+          "description": "Charlie Kirk audio clip from Turning Point USA founding: escalator introduction, \"It's Charlie Kirk\"",
+          "related_claims": [
+            "C-3406"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:00–00:09:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2357",
+      "family_ref": "A-2357",
+      "bundle_name": "\"Power\" Song Audio Bundle (Kanye West)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2357.1",
+          "ref": "A-2357.1",
+          "description": "Kanye West \"Power\" — verse 3 audio excerpt recited in host's analysis",
+          "related_claims": [
+            "C-3425"
+          ],
+          "related_nodes": [
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:47–00:18:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2358",
+      "family_ref": "A-2358",
+      "bundle_name": "Movie 300 Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2358.1",
+          "ref": "A-2358.1",
+          "description": "Movie 300 audio excerpt — Spartan \"beautiful death\" speech (Leonidas / Arcadian exchange)",
+          "related_claims": [
+            "C-3425"
+          ],
+          "related_nodes": [
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:39–00:20:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2359",
+      "family_ref": "A-2359",
+      "bundle_name": "Road Trip Audio Bundle (Candace & Charlie)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2359.1",
+          "ref": "A-2359.1",
+          "description": "Road trip audio: host's complaint that Charlie will not let her stop for bathroom; Charlie's response calling her \"a dishonest human being\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:24–00:22:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2359.2",
+          "ref": "A-2359.2",
+          "description": "Road trip audio: \"another road trip to the mountains… literally me and Charlie's favorite thing to do\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:49",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2360",
+      "family_ref": "A-2360",
+      "bundle_name": "Ye Concert Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2360.1",
+          "ref": "A-2360.1",
+          "description": "Audio / description of Ye's Chicago concert during anniversary week — Kid Cudi on stage performing \"Ghost Town\"",
+          "related_claims": [
+            "C-3413",
+            "C-3422",
+            "C-3423"
+          ],
+          "related_nodes": [
+            "N-1211",
+            "N-1213"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:15–00:26:04",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2361",
+      "family_ref": "A-2361",
+      "bundle_name": "Old Friendship Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2361.1",
+          "ref": "A-2361.1",
+          "description": "Older audio clip — Candace and Charlie: \"if you think you're going to outwork Candace Owens and Charlie Kirk, you're wrong\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary subject of the anniversary episode. Referenced throughout journal entries, memorial description, text-message artifact, premonition claims, and historical audio clips.",
+      "related_artifacts": [
+        "A-2351.1",
+        "A-2351.2",
+        "A-2351.3",
+        "A-2353.1",
+        "A-2356.1",
+        "A-2359.1",
+        "A-2359.2",
+        "A-2361.1"
+      ],
+      "related_claims": [
+        "C-3406",
+        "C-3409",
+        "C-3416",
+        "C-3420",
+        "C-3421"
+      ],
+      "tags": [],
+      "evidence_count": 8,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1029",
+      "ref": "N-1029",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "Wife of Charlie Kirk; referenced as \"Erika\" in A-2351.2. Subject of journal-entry claims regarding a \"scheduled will change\" and avoidance of a suburban house Charlie purchased.",
+      "related_artifacts": [
+        "A-2351.2",
+        "A-2353.1"
+      ],
+      "related_claims": [
+        "C-3409",
+        "C-3414",
+        "C-3415"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Co-author of open letter (A-2352.1); characterized by host as a \"real friend\" of Charlie.",
+      "related_artifacts": [
+        "A-2352.1"
+      ],
+      "related_claims": [
+        "C-3407",
+        "C-3408",
+        "C-3424"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Co-author of open letter (A-2352.1); characterized by host as a \"real friend\" of Charlie.",
+      "related_artifacts": [
+        "A-2352.1"
+      ],
+      "related_claims": [
+        "C-3407",
+        "C-3408",
+        "C-3424"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Co-author of open letter (A-2352.1); native Russian speaker who reported an unusually high number of Russian-speaking attendees at Charlie's Arizona memorial. Relationship to Mappins not clarified in episode — flag name uncertainty.",
+      "related_artifacts": [
+        "A-2352.1"
+      ],
+      "related_claims": [
+        "C-3407"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Priest/spiritual advisor to host; present with her in Wyoming in mid-October; confirmed Charlie's death to her. Role identity based on host's phrase \"my priest tells me\" — partial identification only.",
+      "related_artifacts": [
+        "A-2351.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Musician; correspondent with host via text (A-2354.1) and tweet (A-2354.2); subject of host's \"Power\" interpretive analysis (A-2357.1, A-2351.3); performer at Chicago concert during anniversary week (A-2360.1).",
+      "related_artifacts": [
+        "A-2351.3",
+        "A-2351.4",
+        "A-2354.1",
+        "A-2354.2",
+        "A-2357.1",
+        "A-2360.1"
+      ],
+      "related_claims": [
+        "C-3410",
+        "C-3411",
+        "C-3413",
+        "C-3422",
+        "C-3423",
+        "C-3425"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Subject of tweet artifact (A-2355.1); political figure referenced in host's \"Power\" interpretation.",
+      "related_artifacts": [
+        "A-2355.1"
+      ],
+      "related_claims": [
+        "C-3412"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Musician; co-performer of \"Ghost Town\" with Ye at Chicago concert (A-2360.1).",
+      "related_artifacts": [
+        "A-2351.4",
+        "A-2360.1"
+      ],
+      "related_claims": [
+        "C-3413",
+        "C-3423"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Subject of host's verbal/journal claim that he \"slid into\" Charlie's studio within days of his death with $1 million, claiming to \"pick up the bloody mic\" (A-2351.1). No external artifact supports the claim in this episode.",
+      "related_artifacts": [
+        "A-2351.1"
+      ],
+      "related_claims": [
+        "C-3416"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Speaker at Charlie Kirk's memorial per host's journal entry (A-2351.1).",
+      "related_artifacts": [
+        "A-2351.1"
+      ],
+      "related_claims": [
+        "C-3420"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3406",
+      "ref": "C-3406",
+      "label": "Candace Owens journaled to Charlie Kirk throughout the year following his death",
+      "claim": "The host presents four dated journal entries written to Charlie Kirk across the year after his death, read aloud in full.",
+      "anchored_artifacts": [
+        "A-2351.1",
+        "A-2351.2",
+        "A-2351.3",
+        "A-2351.4"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00–00:00:01",
+      "investigative_direction": "Verify continuity of journal entries against timestamps and corroborating events referenced."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3407",
+      "ref": "C-3407",
+      "label": "Mappin family open letter calls Charlie's death an \"execution\" with \"far-reaching international consequences\"",
+      "claim": "Arena, John Mappin, and Irina co-authored an open letter stating that Charlie's death was \"an assassination with potentially far-reaching political consequences\" and asserting that \"the truth, when known… will have far-reaching international consequences.\"",
+      "anchored_artifacts": [
+        "A-2352.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1209",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:08",
+      "investigative_direction": "Locate original publication of the open letter and verify signatures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3408",
+      "ref": "C-3408",
+      "label": "Mappin letter asserts official investigation should be ordered to share information with Candace's team",
+      "claim": "The open letter states that \"the official investigation should be immediately ordered by the appropriate legal authority to proactively share everything they know with Candace and her selected team.\"",
+      "anchored_artifacts": [
+        "A-2352.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1209",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:20",
+      "investigative_direction": "Verify letter text and any official response from investigative authorities."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3409",
+      "ref": "C-3409",
+      "label": "Charlie Kirk wrote a text message describing his future wife as \"paralyzing\" and \"the ideal\"",
+      "claim": "A quoted text message from Charlie Kirk reads (in part): \"She has no freaking clue how paralyzing she is to me. And she is the ideal.\"",
+      "anchored_artifacts": [
+        "A-2353.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1029"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:30",
+      "investigative_direction": "Verify original text-message record and date against Charlie Kirk's device backups or testimony."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3410",
+      "ref": "C-3410",
+      "label": "Kanye West texted Candace Owens \"it's a battle cry to be yourself\" in response to a question about \"Power\"",
+      "claim": "Host quotes a direct text reply from Kanye West following Charlie's death: when asked why he wrote the song \"Power,\" he wrote back \"it's a battle cry to be yourself.\"",
+      "anchored_artifacts": [
+        "A-2354.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:55",
+      "investigative_direction": "Verify text record; cross-reference against any public statement from Kanye."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3411",
+      "ref": "C-3411",
+      "label": "Kanye West publicly tweeted \"I love the way Candace Owens thinks\" in approximately April–May 2018",
+      "claim": "Host references a Kanye West tweet from April–May 2018 reading \"I love the way Candace Owens thinks.\"",
+      "anchored_artifacts": [
+        "A-2354.2"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:38",
+      "investigative_direction": "Locate the original tweet via archive; verify date and any follow-up replies. *Artifact verbally referenced but not shown in episode.*"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3412",
+      "ref": "C-3412",
+      "label": "Donald Trump posted a tweet featuring a mock Time magazine cover calling Candace Owens \"most vile person of the year\"",
+      "claim": "Host reports that Donald Trump tweeted a mock-up of a Time magazine cover depicting her as \"the most vile person of the year.\"",
+      "anchored_artifacts": [
+        "A-2355.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:44",
+      "investigative_direction": "Locate the original tweet via archive. *Artifact verbally referenced but not shown in episode.*"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3413",
+      "ref": "C-3413",
+      "label": "Candace Owens attended Ye's Chicago concert during the week of Charlie's one-year anniversary, where Kid Cudi appeared on stage",
+      "claim": "Host reports that she attended Ye's Chicago concert during the week of the anniversary, at which Kid Cudi was brought on stage.",
+      "anchored_artifacts": [
+        "A-2360.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1213",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:15–00:26:04",
+      "investigative_direction": "Confirm concert date and Kid Cudi's set via tour documentation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3414",
+      "ref": "C-3414",
+      "label": "Host reports a \"scheduled will change\" regarding Charlie Kirk's estate",
+      "claim": "Host asserts in her written journal: \"I know about the scheduled will change.\"",
+      "anchored_artifacts": [
+        "A-2351.2"
+      ],
+      "related_nodes": [
+        "N-1029",
+        "N-1",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:38",
+      "investigative_direction": "Obtain probate records and any will amendments filed in relevant jurisdiction."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3415",
+      "ref": "C-3415",
+      "label": "Host reports Charlie Kirk purchased a house in the suburbs that Erica Kirk avoided moving into",
+      "claim": "Host asserts in journal that Charlie \"purchased and dreamed about moving into\" a suburban house and that Erica \"came up with a million excuses not to.\"",
+      "anchored_artifacts": [
+        "A-2351.2"
+      ],
+      "related_nodes": [
+        "N-1029",
+        "N-1",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:38",
+      "investigative_direction": "Verify property records and timeline of acquisition vs. residence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3416",
+      "ref": "C-3416",
+      "label": "Host reports Ben Shapiro arrived at Charlie Kirk's studio within days of his death with $1 million claiming to \"pick up the bloody mic\"",
+      "claim": "Host asserts in journal that Ben Shapiro \"slid into your studio within days, $1 million in hand,\" publicly stating he would \"pick up your bloody mic.\"",
+      "anchored_artifacts": [
+        "A-2351.1"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:59–00:05:08",
+      "investigative_direction": "Locate contemporaneous reporting on Shapiro's actions and any public statement. *No external corroborating artifact presented in episode.*"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3417",
+      "ref": "C-3417",
+      "label": "Host reports breaking her foot during the year since Charlie Kirk's death",
+      "claim": "Host states in journal that \"I broke my foot\" between the Wyoming entry and the present.",
+      "anchored_artifacts": [
+        "A-2351.2"
+      ],
+      "related_nodes": [
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:50",
+      "investigative_direction": "Verify medical or insurance records if relevant to investigation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3418",
+      "ref": "C-3418",
+      "label": "Host reports being approximately eight months pregnant at time of recording",
+      "claim": "Host states she is \"8 months pregnant\" at the time of recording.",
+      "anchored_artifacts": [
+        "A-2351.2"
+      ],
+      "related_nodes": [
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00–00:00:01",
+      "investigative_direction": "Not investigationally material; recorded for biographical record."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3419",
+      "ref": "C-3419",
+      "label": "Host reports she first belly laughed since Charlie Kirk's death while in Spain",
+      "claim": "Host states she first experienced a deep belly laugh since Charlie's death while in Spain.",
+      "anchored_artifacts": [
+        "A-2351.4"
+      ],
+      "related_nodes": [
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:38",
+      "investigative_direction": "Not investigationally material; recorded for biographical record."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3420",
+      "ref": "C-3420",
+      "label": "Host reports Charlie Kirk's memorial featured Susie Wiles speaking and was characterized as \"like an RNC rally\"",
+      "claim": "Host states in journal that Charlie's memorial was \"weird,\" \"like an RNC rally,\" with Susie Wiles among speakers.",
+      "anchored_artifacts": [
+        "A-2351.1"
+      ],
+      "related_nodes": [
+        "N-1215",
+        "N-1",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:08",
+      "investigative_direction": "Verify speaker list and video documentation of memorial event."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3421",
+      "ref": "C-3421",
+      "label": "Host reports Charlie Kirk told her in April–May 2018 he had dreamed his own death and its connection to Turning Point USA",
+      "claim": "Host states in journal that in April–May 2018 Charlie told her \"with absolute certainty\" he had dreamed his death, that it would be associated with Turning Point USA, and that he would not live to see \"this thing through.\"",
+      "anchored_artifacts": [
+        "A-2351.3"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:50",
+      "investigative_direction": "Verify against any contemporaneous recording, communication, or corroborating witness."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3422",
+      "ref": "C-3422",
+      "label": "Ye performed in Chicago for the first time in six years during the week of Charlie Kirk's anniversary",
+      "claim": "Host states Ye \"returned to Chicago… during the week of your anniversary\" after six years.",
+      "anchored_artifacts": [
+        "A-2360.1"
+      ],
+      "related_nodes": [
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:15",
+      "investigative_direction": "Confirm via Ye tour itinerary and prior concert dates."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3423",
+      "ref": "C-3423",
+      "label": "Kid Cudi and Kanye West had a public falling out in 2022",
+      "claim": "Host states that Ye and Kid Cudi \"had a massive public falling out in 2022.\"",
+      "anchored_artifacts": [
+        "A-2360.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:04",
+      "investigative_direction": "Confirm via public reporting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3424",
+      "ref": "C-3424",
+      "label": "Mappin letter characterizes Candace's investigative actions as \"providential, divinely inspired, and metaphysical\"",
+      "claim": "The open letter states Candace's actions are \"actions of the highest order of patriotism,\" \"service to the whole country and to the world,\" and \"truly providential, divinely inspired, and metaphysical.\"",
+      "anchored_artifacts": [
+        "A-2352.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1209",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:18",
+      "investigative_direction": "Verify letter text and signatories."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3425",
+      "ref": "C-3425",
+      "label": "Host reports the \"Ace team\" told her the movie 300 \"beautiful death\" scene inspired a portion of Kanye West's \"Power\"",
+      "claim": "Host states that when meeting with the \"Ace team,\" they explained that the inspiration behind the \"beautiful death\" portion of the song came from a specific scene in the movie 300.",
+      "anchored_artifacts": [
+        "A-2357.1",
+        "A-2358.1"
+      ],
+      "related_nodes": [
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:46",
+      "investigative_direction": "Verify with the named team or any documentation of the meeting. *Possible transcription error: \"Ace team\" identity unclear.*"
+    }
+  ],
+  "memes": []
+}

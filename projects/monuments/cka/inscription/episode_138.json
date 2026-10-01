@@ -1,0 +1,1019 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 138,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "9ad39842779de2d5892f2906070abb930de6344475c2c461d3c9229b6e7dfc89",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode advances the Bride of Charlie investigation on three evidentiary axes. First, an artifact-anchored disclosure of a 92-member X group chat named \"Protecting Mrs. Kirk\" is presented via screenshots/quotes from X user \"Shady Lady Katie,\" which the host ties to coordinated attacks on Candace Owens and to a previously unnamed organizer previously linked to pro-Israel intelligence work. Second, the host catalogs multiple alleged \"lies and omissions\" in the Tyler Robinson case narrative, but only two items in this episode meet the claim admission test on the basis of shown artifacts: a court-displayed image of Lance's phone with a damaged screen at the timestamp location, and surveillance footage of Nate Walker's movements between 12:15 and approximately 12:27 at the event venue. Third, two externally sourced interview clips — Perez Hilton's 2010 Ellen DeGeneres appearance and Piers Morgan's interview with Victor Marx — are played on air, providing artifact anchors for specific biographical claims made by Victor Marx (childhood decapitation of a cat, shooting of a handcuffed man at age 7) and for his on-air acknowledgment that false memories are possible.\n\nStructurally, this episode expands the investigation's group-chat/dossier line of inquiry (N-2179), introduces a fresh movement-timeline target on Nate Walker (N-2180), and consolidates Tyler Robinson case-claim tracking under N-2181. The Perez Hilton segment is present primarily as commentary framed around Hollywood decline and is not anchored to investigative claims about the Charlie Kirk matter except where it crosses with the existing religious-adviser thread (Victor Marx).\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2246",
+      "family_ref": "A-2246",
+      "bundle_name": "\"Protecting Mrs. Kirk\" Group Chat Exposure Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2246.1",
+          "ref": "A-2246.1",
+          "description": "X post by \"Shady Lady Katie\" listing 92 members of a group chat named \"Protecting Mrs. Kirk\" coordinating opposition to Candace Owens",
+          "related_claims": [
+            "C-3222",
+            "C-3223",
+            "C-3235"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2179"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:35–00:20:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2246.2",
+          "ref": "A-2246.2",
+          "description": "Second X post by \"Shady Lady Katie\" detailing group activities: background checks, account reporting, sharing Candace Owens' home address, \"coordinated efforts\" against Owens",
+          "related_claims": [
+            "C-3223",
+            "C-3235"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2179"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:12–00:20:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2247",
+      "family_ref": "A-2247",
+      "bundle_name": "Lance Phone Court-Exhibit Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2247.1",
+          "ref": "A-2247.1",
+          "description": "Court-displayed photograph of Lance's phone showing a damaged/cracked screen in the top-left corner where the device's status-bar timestamp would normally appear",
+          "related_claims": [
+            "C-3224"
+          ],
+          "related_nodes": [
+            "N-1024",
+            "N-2182"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:35–00:14:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2248",
+      "family_ref": "A-2248",
+      "bundle_name": "Nate Walker Movement Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2248.1",
+          "ref": "A-2248.1",
+          "description": "Surveillance/event footage frame: Nate Walker in bright blue shirt with bag, speaking with Dan Flood at approximately 12:15",
+          "related_claims": [
+            "C-3225"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-2180"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:23:50–00:24:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2248.2",
+          "ref": "A-2248.2",
+          "description": "Surveillance/event footage frame: Nate Walker near Hall's walkway, putting on sunglasses, no bag, at approximately 12:25 (described as ~1 minute 45 seconds after A-2248.1)",
+          "related_claims": [
+            "C-3225"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-2180"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:00–00:25:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2248.3",
+          "ref": "A-2248.3",
+          "description": "Surveillance/event footage frame: Nate Walker walking downstairs, approximately two minutes after A-2248.2",
+          "related_claims": [
+            "C-3225"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-2180"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:35–00:25:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2249",
+      "family_ref": "A-2249",
+      "bundle_name": "Perez Hilton Self-Harm Incident Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2249.1",
+          "ref": "A-2249.1",
+          "description": "Miami-Dade Sheriff's Office statement: deputies responded to reports of self-harm live-streamed on social media; person safely recovered and transported by Miami-Dade Fire Rescue to a local hospital; family members confirmed the person had been alone inside the residence",
+          "related_claims": [
+            "C-3226",
+            "C-3227"
+          ],
+          "related_nodes": [
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:50–00:37:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2250",
+      "family_ref": "A-2250",
+      "bundle_name": "Perez Hilton — Ellen DeGeneres Show 2010 Interview Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2250.1",
+          "ref": "A-2250.1",
+          "description": "Ellen DeGeneres Show clip in which Perez Hilton acknowledges being perceived as a \"hypocrite and a bully,\" apologizes for past behavior including nicknaming, inappropriate doodling, and outing people, and pledges to change his website's approach",
+          "related_claims": [
+            "C-3233"
+          ],
+          "related_nodes": [
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:46–00:34:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2251",
+      "family_ref": "A-2251",
+      "bundle_name": "Piers Morgan — Victor Marx Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2251.1",
+          "ref": "A-2251.1",
+          "description": "Segment in which Piers Morgan questions Victor Marx about decapitating a cat at age 3; Marx states his stepfather put his hand over Victor's hand on a knife to decapitate a dead cat",
+          "related_claims": [
+            "C-3228"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2184"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:38–00:45:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2251.2",
+          "ref": "A-2251.2",
+          "description": "Segment in which Piers Morgan states Mississippi-area law enforcement and sheriffs report no records, police reports, or unsolved homicides matching Victor Marx's account of a killing at age 7; Marx states his stepfather held his hand on a pistol pointed at a handcuffed, kneeling \"homeless fellow\"; Marx acknowledges he has studied false memories and that false memory formation is \"possible\"",
+          "related_claims": [
+            "C-3229",
+            "C-3230",
+            "C-3231"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2184"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:49–00:47:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2252",
+      "family_ref": "A-2252",
+      "bundle_name": "Daily Mail Email Request",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2252.1",
+          "ref": "A-2252.1",
+          "description": "Email from Charlie Spearing (Daily Mail) to Candace Owens show stating: \"We have sources who believe that Candace is being used by foreign operatives sending misinformation through her tip line. It is part of a much broader network.\"",
+          "related_claims": [
+            "C-3232"
+          ],
+          "related_nodes": [
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:54–00:22:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2253",
+      "family_ref": "A-2253",
+      "bundle_name": "Candace Owens Show Comments Section Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2253.1",
+          "ref": "A-2253.1",
+          "description": "Comment by \"in my mom era\": \"I have never known people to be so eager to not solve a crime.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2181",
+            "N-1024"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:50:29–00:51:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2253.2",
+          "ref": "A-2253.2",
+          "description": "Comment: \"Blake Nef's anger single-handedly makes the entire TPUSA look completely guilty.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2181"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:20–00:51:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2253.3",
+          "ref": "A-2253.3",
+          "description": "Comment by \"True Detective\": describes Charlie Kirk's stated desire to be remembered for the courage of his faith; commenter states this inspired OCIA enrollment and Easter baptism in the Roman Catholic Church.",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:53:03–00:54:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2253.4",
+          "ref": "A-2253.4",
+          "description": "Comment by \"it is just who I am\" (Kyle): describes 91-person group chat sharing host's address; frames as deranged, dangerous, and unsuccessful.",
+          "related_claims": [
+            "C-3235"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2179"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:54:33–00:55:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2253.5",
+          "ref": "A-2253.5",
+          "description": "Comment by \"Ben the Beast\": asks for host's thoughts on Andrew Tate's most recent arrest; calls it a \"Matrix attack.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:55:40–00:56:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2253.6",
+          "ref": "A-2253.6",
+          "description": "Comment by \"Tony Hill\": congratulates host on new baby and anticipated maternity leave.",
+          "related_claims": [],
+          "related_nodes": [
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:57:25–00:57:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2253.7",
+          "ref": "A-2253.7",
+          "description": "Comment by \"Olympia\": \"It sounds like Perez had a psychotic break. It's very sad...\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:58:55–00:59:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2253.8",
+          "ref": "A-2253.8",
+          "description": "Comment by \"Lola Wild\": \"I love you, Candace. Let's give him grace. What if he was doing it for his kids because they were getting payback through a humili humiliation ritual or sacrifice one of his kids? Maybe leaving the cruy Hollywood cult. Pray for the kids.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:00:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2253.9",
+          "ref": "A-2253.9",
+          "description": "Comment by \"Damn it\": praises host's \"beautiful soul.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:00:30–01:01:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Decceased subject of the Bride of Charlie investigation; referenced throughout the Tyler Robinson case inventory in this episode.",
+      "related_artifacts": [
+        "A-2253.3"
+      ],
+      "related_claims": [
+        "C-3222"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2181"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1024",
+      "ref": "N-1024",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "Widow of Charlie Kirk; referenced as the protected subject of the \"Protecting Mrs. Kirk\" group chat and as the individual who invited influencers into the courtroom.",
+      "related_artifacts": [
+        "A-2246.1",
+        "A-2247.1"
+      ],
+      "related_claims": [
+        "C-3222",
+        "C-3224"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2179"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "X account holder who publicly exposed the membership list and activities of the \"Protecting Mrs. Kirk\" group chat in two posts (A-2246.1, A-2246.2). Investigatively significant as the originating whistleblower for the group-chat thread.",
+      "related_artifacts": [
+        "A-2246.1",
+        "A-2246.2",
+        "A-2253.4"
+      ],
+      "related_claims": [
+        "C-3222",
+        "C-3223",
+        "C-3235"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2179"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Self-identified spiritual adviser to the Kirk family who has publicly recounted childhood decapitation of a cat at age 3 and the shooting of a man at age 7. In this episode's aired Piers Morgan interview, he acknowledged that false-memory formation is possible (A-2251.2). Mississippi-area law enforcement, as cited by Piers Morgan, reports no records matching his account.",
+      "related_artifacts": [
+        "A-2251.1",
+        "A-2251.2"
+      ],
+      "related_claims": [
+        "C-3228",
+        "C-3229",
+        "C-3230",
+        "C-3231"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1024",
+        "N-2184"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Celebrity blogger who was the subject of a Miami-Dade Sheriff's response following a TikTok live-stream of self-harm (A-2249.1). Single father of three via surrogacy. Earlier rebrand interview with Ellen DeGeneres is presented as background (A-2250.1).",
+      "related_artifacts": [
+        "A-2249.1",
+        "A-2250.1",
+        "A-2253.7",
+        "A-2253.8"
+      ],
+      "related_claims": [
+        "C-3226",
+        "C-3227",
+        "C-3233"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Assistant to Charlie Kirk described as having supplied the freedom t-shirt worn by Kirk on the day of the incident. Documented in this episode via on-air movement footage (A-2248.1–A-2248.3) showing a transition from on-ground-floor bag-carrying position with Dan Flood at ~12:15 to an upstairs location without bag at ~12:25.",
+      "related_artifacts": [
+        "A-2248.1",
+        "A-2248.2",
+        "A-2248.3"
+      ],
+      "related_claims": [
+        "C-3225"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-2180"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Daily Mail journalist who emailed the show (A-2252.1) stating that sources believe Candace Owens is being used by foreign operatives sending misinformation through her tip line.",
+      "related_artifacts": [
+        "A-2252.1"
+      ],
+      "related_claims": [
+        "C-3232"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2179",
+      "ref": "N-2179",
+      "name": "\"Protecting Mrs. Kirk\" Group Chat Investigation",
+      "type": "investigation_target",
+      "description": "Persistent investigable target: 92-member X-coordinated group chat allegedly organized around defending Erica Kirk and attacking Candace Owens. Documentary evidence includes membership-list exposure by Shady Lady Katie (A-2246.1) and confirmed commenter acknowledgment of address-sharing (A-2253.4). Host frames organizer as previously engaged in intelligence-gathering tied to Israel/Gaza advocacy.",
+      "related_artifacts": [
+        "A-2246.1",
+        "A-2246.2",
+        "A-2253.4"
+      ],
+      "related_claims": [
+        "C-3222",
+        "C-3223",
+        "C-3235"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1024",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2180",
+      "ref": "N-2180",
+      "name": "Nate Walker Movement Timeline (12:15–12:27)",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: documented transition of an assistant associated with Charlie Kirk's pre-event logistics from a ground-floor position with bag (~12:15) to an upstairs walkway position without bag (~12:25) to a stairwell re-entry (~12:27). Documentary basis: A-2248.1–A-2248.3.",
+      "related_artifacts": [
+        "A-2248.1",
+        "A-2248.2",
+        "A-2248.3"
+      ],
+      "related_claims": [
+        "C-3225"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1210",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2181",
+      "ref": "N-2181",
+      "name": "Tyler Robinson Case Evidence Inventory",
+      "type": "investigation_target",
+      "description": "Persistent investigative target across the series: the host's running list of alleged lies, omissions, and unproven narrative claims in the Tyler Robinson case (father-turn-in narrative, 4K footage claim, motive claims, DNA claims, gun-tie-to-bullet claim, SD-card/hard-drive transfer, etc.). Within this episode, the items anchored to displayed or quoted artifacts are limited; the bulk remains host commentary pending artifact support in future episodes.",
+      "related_artifacts": [
+        "A-2247.1",
+        "A-2253.1",
+        "A-2253.2"
+      ],
+      "related_claims": [
+        "C-3224"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1024"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2182",
+      "ref": "N-2182",
+      "name": "Lance Phone Screen-Damage Timestamp Verification",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: condition of Lance's phone at the time of police imaging, specifically whether the screen damage in the status-bar region obscures the timestamp that would establish when the police photographed the alleged text messages (A-2247.1).",
+      "related_artifacts": [
+        "A-2247.1"
+      ],
+      "related_claims": [
+        "C-3224"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2181"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2183",
+      "ref": "N-2183",
+      "name": "Officer Bagley — Sex Crimes Unit Background",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: host's verbal disclosure that Officer Bagley, previously a subject in the series, was employed by the Utah County Sheriff's Office in the sex crimes detective unit prior to his UVU role. Presented verbally in this episode without an attached documentary artifact.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2184",
+      "ref": "N-2184",
+      "name": "Victor Marx Biographical Claims Verification",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: factual verification of Victor Marx's childhood accounts (cat decapitation at age 3; shooting of a man at age 7). In this episode, the artifact basis is his own on-air admissions to Piers Morgan (A-2251.1, A-2251.2) and Morgan's statement that Mississippi-area law enforcement has no matching records.",
+      "related_artifacts": [
+        "A-2251.1",
+        "A-2251.2"
+      ],
+      "related_claims": [
+        "C-3228",
+        "C-3229",
+        "C-3230",
+        "C-3231"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3222",
+      "ref": "C-3222",
+      "label": "\"Protecting Mrs. Kirk\" Group Chat Contained 92 Members Coordinating Against Candace Owens",
+      "claim": "An X-coordinated group chat named \"Protecting Mrs. Kirk\" contained 92 members and was used to coordinate opposition to Candace Owens.",
+      "anchored_artifacts": [
+        "A-2246.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1024",
+        "N-7",
+        "N-2179"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:35–00:20:10",
+      "investigative_direction": "Obtain the original Shady Lady Katie post via X/Twitter web archives; cross-reference named accounts against public social-media activity."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3223",
+      "ref": "C-3223",
+      "label": "Group Chat Members Shared Candace Owens' Home Address",
+      "claim": "Members of the \"Protecting Mrs. Kirk\" group chat shared Candace Owens' home address within the chat.",
+      "anchored_artifacts": [
+        "A-2246.1",
+        "A-2246.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-7",
+        "N-2179"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:12–00:20:10",
+      "investigative_direction": "Verify quoted claim in original X post and any accompanying screenshots; cross-reference with documented doxxing reports."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3224",
+      "ref": "C-3224",
+      "label": "Lance's Phone Has a Damaged Screen Where the Timestamp Would Appear",
+      "claim": "The phone of Lance (referenced in the Tyler Robinson preliminary-hearing record) was photographed with damage in the top-left corner of the screen at the location where the device's status-bar timestamp would appear.",
+      "anchored_artifacts": [
+        "A-2247.1"
+      ],
+      "related_nodes": [
+        "N-1024",
+        "N-2181",
+        "N-2182"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:35–00:14:00",
+      "investigative_direction": "Obtain the original preliminary-hearing exhibit; confirm damage location and any testimony regarding when the image was captured."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3225",
+      "ref": "C-3225",
+      "label": "Nate Walker Transitioned From Ground Floor With Bag to Upstairs Without Bag Between ~12:15 and ~12:25",
+      "claim": "Footage shows Nate Walker present in a bright blue shirt with bag speaking with Dan Flood at approximately 12:15, then at approximately 12:25 near Hall's walkway without bag, putting on sunglasses, and later walking downstairs.",
+      "anchored_artifacts": [
+        "A-2248.1",
+        "A-2248.2",
+        "A-2248.3"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-2180",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:50–00:25:45",
+      "investigative_direction": "Obtain original venue surveillance footage with verified timestamps; reconcile with credentialed-assistant duty roster."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3226",
+      "ref": "C-3226",
+      "label": "Miami-Dade Sheriff's Deputies Responded to Perez Hilton's Residence for Live-Streamed Self-Harm",
+      "claim": "Miami-Dade Sheriff's Office deputies responded to Perez Hilton's Miami-area home following reports of self-harm live-streamed on social media.",
+      "anchored_artifacts": [
+        "A-2249.1"
+      ],
+      "related_nodes": [
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:50–00:37:30",
+      "investigative_direction": "Obtain the original Miami-Dade Sheriff's Office email/statement and any incident report; verify timestamp of live stream and platform takedown."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3227",
+      "ref": "C-3227",
+      "label": "Perez Hilton Was Transported to a Local Hospital by Miami-Dade Fire Rescue",
+      "claim": "Following the self-harm response, Perez Hilton was safely recovered and taken by Miami-Dade Fire Rescue to a local hospital.",
+      "anchored_artifacts": [
+        "A-2249.1"
+      ],
+      "related_nodes": [
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:00–00:37:30",
+      "investigative_direction": "Confirm hospitalization via hospital records or subsequent official statements; verify family-member statement that he was alone in the residence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3228",
+      "ref": "C-3228",
+      "label": "Victor Marx Stated He Decapitated a Cat at Age 3 With His Stepfather's Hand Over His",
+      "claim": "In his Piers Morgan interview, Victor Marx stated that at age 3, his stepfather placed his hand over Victor's hand on a knife to decapitate a dead cat.",
+      "anchored_artifacts": [
+        "A-2251.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2184"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:38–00:45:30",
+      "investigative_direction": "Obtain the full Piers Morgan interview transcript; verify the exact wording and any prior inconsistent tellings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3229",
+      "ref": "C-3229",
+      "label": "Victor Marx Stated He Shot a Handcuffed Kneeling Man at Age 7",
+      "claim": "In his Piers Morgan interview, Victor Marx stated that at age 7, his stepfather held his hand on a pistol aimed at a handcuffed, kneeling \"homeless fellow\" and pushed the trigger until the man was shot.",
+      "anchored_artifacts": [
+        "A-2251.2"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2184"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:49–00:47:00",
+      "investigative_direction": "Verify statement against the full interview; cross-check with any prior public tellings; corroborate location if possible."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3230",
+      "ref": "C-3230",
+      "label": "Victor Marx Acknowledged False-Memory Formation Is Possible Regarding His Childhood Claims",
+      "claim": "When asked by Piers Morgan whether false memories could account for his childhood accounts, Victor Marx stated he had studied false memories and that this is \"possible.\"",
+      "anchored_artifacts": [
+        "A-2251.2"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2184"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:50–00:47:25",
+      "investigative_direction": "Verify the full exchange; identify Victor Marx's specific trauma-specialist visit count claim (he cited 123 visits) for corroboration."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3231",
+      "ref": "C-3231",
+      "label": "Mississippi-Area Law Enforcement Has No Records Matching Victor Marx's Account of a Homicide at Age 7",
+      "claim": "Piers Morgan stated during the interview that local law enforcement and sheriffs in the Mississippi area where the alleged event took place have no records, police reports, or unsolved homicides matching Victor Marx's account.",
+      "anchored_artifacts": [
+        "A-2251.2"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2184"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:49–00:46:30",
+      "investigative_direction": "Submit records requests to Mississippi-area sheriff and municipal police departments for the relevant time period; obtain on-record denials or confirmations."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3232",
+      "ref": "C-3232",
+      "label": "Daily Mail's Charlie Spearing Emailed the Show Claiming Foreign-Operative Use of Candace Owens' Tip Line",
+      "claim": "Daily Mail journalist Charlie Spearing emailed the Candace Owens show stating that \"sources\" believe Candace is being used by foreign operatives sending misinformation through her tip line.",
+      "anchored_artifacts": [
+        "A-2252.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:54–00:22:30",
+      "investigative_direction": "Obtain the original email with full headers and timestamp; identify what \"sources\" Spearing referenced; cross-check Daily Mail coverage for follow-up."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3233",
+      "ref": "C-3233",
+      "label": "Perez Hilton Acknowledged Past Bullying on the 2010 Ellen DeGeneres Show and Pledged to Change",
+      "claim": "On the 2010 Ellen DeGeneres Show, Perez Hilton acknowledged being perceived as a \"hypocrite and a bully\" and pledged to stop using nasty nicknames, inappropriate doodling, and outing people on his website.",
+      "anchored_artifacts": [
+        "A-2250.1"
+      ],
+      "related_nodes": [
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:46–00:34:05",
+      "investigative_direction": "Obtain the full 2010 episode recording for complete context; cross-reference with contemporaneous reporting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3234",
+      "ref": "C-3234",
+      "label": "The \"Protecting Mrs. Kirk\" Group Chat Was Organized by an Individual Previously Engaged in Israel-Tied Intelligence Gathering",
+      "claim": "The host asserts that the \"Protecting Mrs. Kirk\" group chat was organized by an individual previously engaged in PR/intelligence work tied to Israel and the Gaza Humanitarian Fund.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1207",
+        "N-1024",
+        "N-7",
+        "N-2179"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:25–00:19:12",
+      "investigative_direction": "Identify organizer through leaked membership lists or named-account forensics; cross-check against Gaza Humanitarian Fund / Daily Wire public records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3235",
+      "ref": "C-3235",
+      "label": "Candace Owens' Home Address Was Shared Within a Multi-Person Group Chat and Acknowledged in Show Comments",
+      "claim": "A commenter on the show acknowledges that Candace Owens' home address has been shared within a group chat of approximately 91–92 people, framing it as dangerous and ineffective.",
+      "anchored_artifacts": [
+        "A-2246.1",
+        "A-2253.4"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-7",
+        "N-2179"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:33–00:55:20",
+      "investigative_direction": "Compare commenter characterization against Shady Lady Katie's quoted text for consistency; pursue any screenshot evidence of the actual address disclosure."
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,831 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 63,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "66587d7a4421da88738bff5bc6b5a63723d99c10368f6539b5cddd00de9e63f1",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1676",
+      "family_ref": "A-1676",
+      "bundle_name": "TPUSA Corporate Zoom Call Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1676.1",
+          "ref": "A-1676.1",
+          "description": "Erika Kirk opening the call — thanking staff and citing memorial attendance (over 275,000), broadcast reach (over 100 million), merchandise sales, and voter registrations; noting staff \"20our\" (20-hour) days during memorial prep; introducing the phrase \"Turning Point USA 2.0.\"",
+          "related_claims": [
+            "C-2194",
+            "C-2195",
+            "C-2199"
+          ],
+          "related_nodes": [
+            "N-1008"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:24"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1676.2",
+          "ref": "A-1676.2",
+          "description": "Erika Kirk addressing grief — listing counselors, pastors, therapy dogs, paid flights for spouses, and advising employees that paid time off is available through standard channels if more time is needed.",
+          "related_claims": [
+            "C-2196"
+          ],
+          "related_nodes": [
+            "N-1008",
+            "N-1514"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:47"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1676.3",
+          "ref": "A-1676.3",
+          "description": "Erika Kirk discussing \"Vision 2030\" — stating Charlie was working on a 2030 plan with Justin (newly appointed COO); stating she possesses Charlie's journals documenting the plans; expressing hesitation before saying she is \"excited.\"",
+          "related_claims": [
+            "C-2197",
+            "C-2198"
+          ],
+          "related_nodes": [
+            "N-1008",
+            "N-792",
+            "N-1515"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:47"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1677",
+      "family_ref": "A-1677",
+      "bundle_name": "Charlie Kirk Text Message Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1677.1",
+          "ref": "A-1677.1",
+          "description": "Text message from Charlie Kirk to Candace Owens (dated by host to 2018) — \"Since the beginning of Turning Point USA, I knew in my gut that I might get wiped out at any time. I cannot explain it, but I dream about it all the time. Like all the time. Not really afraid of it, but I'm just telling you what I know to be true. I'm not sure I'm going to live to see the end of this revolution.\"",
+          "related_claims": [
+            "C-2201"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:33"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1678",
+      "family_ref": "A-1678",
+      "bundle_name": "Atlantic Article Excerpt Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1678.1",
+          "ref": "A-1678.1",
+          "description": "Atlantic article excerpt read on air describing Bill Montgomery meeting Charlie Kirk at Benedictine University (Lisle, Illinois western suburb) at a youth government day in May 2012, Montgomery's recollection that he told Kirk \"I don't know you, but you need to start an organization to reach out to young people with your message,\" and the duo launching TPUSA a month later.",
+          "related_claims": [
+            "C-2202"
+          ],
+          "related_nodes": [
+            "N-791",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:27:32"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1679",
+      "family_ref": "A-1679",
+      "bundle_name": "New York Times Profile Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1679.1",
+          "ref": "A-1679.1",
+          "description": "New York Times profile article on Erika Kirk containing the quoted statement that becoming a single mother \"is actually the least traumatizing thing for me since she herself has been raised by her mother after their parents divorced when she was young,\" with reference to Trump's tone on phone calls being \"soft and embracing.\"",
+          "related_claims": [
+            "C-2200",
+            "C-2205"
+          ],
+          "related_nodes": [
+            "N-1008"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:45"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1680",
+      "family_ref": "A-1680",
+      "bundle_name": "Threat Message Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1680.1",
+          "ref": "A-1680.1",
+          "description": "Phone threat message targeting TPUSA, previously displayed in an earlier episode; now identified by host and attributed via audio match to Lorie Cardardoza Moore.",
+          "related_claims": [
+            "C-2203"
+          ],
+          "related_nodes": [
+            "N-793",
+            "N-1516"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:00–00:00:01",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1681",
+      "family_ref": "A-1681",
+      "bundle_name": "Lorie Cardardoza Moore Audio Rant Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1681.1",
+          "ref": "A-1681.1",
+          "description": "Audio recording of Lorie Cardardoza Moore ranting in her car about Tucker Carlson's speech at a TPUSA Tampa conference, Michelle Bachmann's five-minute pro-Israel segment, audience booing and 10% walkout, and Charlie Kirk's failure to defend Israel or condemn Tucker.",
+          "related_claims": [
+            "C-2203"
+          ],
+          "related_nodes": [
+            "N-793",
+            "N-1516"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:08",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1682",
+      "family_ref": "A-1682",
+      "bundle_name": "Romance Hotline Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1682.1",
+          "ref": "A-1682.1",
+          "description": "Vintage 1-900 romance hotline advertisement audio (\"Are you over 30 and single? … Romance Hotline 1-900-980-…\") played on air for voice matching to Lorie Cardardoza Moore.",
+          "related_claims": [
+            "C-2204"
+          ],
+          "related_nodes": [
+            "N-793"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:47"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1683",
+      "family_ref": "A-1683",
+      "bundle_name": "WSJ Kanye Apology Ad Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1683.1",
+          "ref": "A-1683.1",
+          "description": "Reference (verbally cited only) to a full-page Wall Street Journal apology advertisement by Kanye West. Not displayed or read aloud in this episode.",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:39"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1684",
+      "family_ref": "A-1684",
+      "bundle_name": "Vanity Fair Kanye Interview Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1684.1",
+          "ref": "A-1684.1",
+          "description": "Reference (verbally cited only) to a Vanity Fair interview/Q&A with Kanye West discussing bipolar medication, 2024/2025 as a tough year, and characterizing the apology as not a PR move. Not displayed or read aloud in this episode.",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:40"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1685",
+      "family_ref": "A-1685",
+      "bundle_name": "Live Chat Comments Read on Air Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1685.1",
+          "ref": "A-1685.1",
+          "description": "Comment from \"Comic Nick\" — \"I said this last week … why wouldn't Charlie Kirk tell Erika Kirk that they were going to kill him unless he was scared that she was a part of it.\"",
+          "related_claims": [
+            "C-2203"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1008"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:53:45"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1685.2",
+          "ref": "A-1685.2",
+          "description": "Comment from \"Becca\" — \"When Erika talks, she is so boring. She has not had that special thing that Charlie had … She is unlikable on the surface because she acts elite. Goodbye, Turning Point USA.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1008"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:20"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1685.3",
+          "ref": "A-1685.3",
+          "description": "Comment from \"Jay Burgerer\" — \"Don't forget MLK started college at 15 and had a faith-based movement by the time that he was 21.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:45"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1685.4",
+          "ref": "A-1685.4",
+          "description": "Comment from \"Coffee addicted Mama Bear\" — \"I ordered your book the second you said you were shipping to Canada.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:45"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1685.5",
+          "ref": "A-1685.5",
+          "description": "Comment from \"Adriana New Jersey\" — \"Erika plays a role that she thinks men want. She did not have the same values as Charlie … The comment in the New York Times was, 'Who needs a man? Being a single mother is okay.' That is the opposite of Charlie's views.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1008"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:25"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1685.6",
+          "ref": "A-1685.6",
+          "description": "Comment from \"Joseph Brown\" — Incomplete (\"Candace Owens, uh, curious\").",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:25"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1685.7",
+          "ref": "A-1685.7",
+          "description": "Comment from \"Joel\" — \"Geoengineering has become really fake and gay. The sidewalks at my apartments were covered in ice. It was like styrofoam … HAARP must be drunk.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:25"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1685.8",
+          "ref": "A-1685.8",
+          "description": "Comment from \"Dagert Ar Jonah\" — Birthday request for wife Cresenda Arjona / Arona.",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:25"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1685.9",
+          "ref": "A-1685.9",
+          "description": "Comment from \"Seven Sheets\" — \"I didn't know that much about CK before this, but could tell a man of integrity. I feel like I mourned him longer than EK or TPUSA did.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1",
+            "N-1008"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:26"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1685.10",
+          "ref": "A-1685.10",
+          "description": "Comment from \"Maria Rits / Jolly Valley girl\" — \"Hey Jolly Valley girl tone excited to be discussing business numbers and goals is super cringe and weird.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1008",
+            "N-1514"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:53:45"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1685.11",
+          "ref": "A-1685.11",
+          "description": "Comment from \"Jess Happy\" — \"And to think that all I thought about on September 10th was how empty and terrified Erika must feel and how sad I was for those babies. How ironic crisis can keep going, Candace.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1008"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:56:21"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of the 2018 text message artifact (A-1677.1) and the Atlantic article (A-1678.1). Reused from prior episodes.",
+      "related_artifacts": [
+        "A-1677.1",
+        "A-1678.1"
+      ],
+      "related_claims": [
+        "C-2201",
+        "C-2202"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1008",
+      "ref": "N-1008",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "Subject of the Zoom call audio (A-1676 series), the NYT profile (A-1679.1), and multiple chat comments. Reused from prior episodes.",
+      "related_artifacts": [
+        "A-1676.1",
+        "A-1676.2",
+        "A-1676.3",
+        "A-1679.1",
+        "A-1685.1",
+        "A-1685.2",
+        "A-1685.5",
+        "A-1685.9",
+        "A-1685.10",
+        "A-1685.11"
+      ],
+      "related_claims": [
+        "C-2194",
+        "C-2195",
+        "C-2196",
+        "C-2197",
+        "C-2198",
+        "C-2199",
+        "C-2200",
+        "C-2205"
+      ],
+      "tags": [],
+      "evidence_count": 10,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1514",
+        "N-1515"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-791",
+      "ref": "N-791",
+      "name": "Bill Montgomery",
+      "type": "person",
+      "description": "Co-founder of Turning Point USA per the Atlantic article (A-1678.1); described by host as Air Force reserves, from Lincoln, Nebraska, and connected to Helen Barts and the founding of Creative Children's Academy.",
+      "related_artifacts": [
+        "A-1678.1"
+      ],
+      "related_claims": [
+        "C-2202"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-792",
+      "ref": "N-792",
+      "name": "Justin (TPUSA COO)",
+      "type": "person",
+      "description": "Referenced in Erika Kirk's on-call statements (A-1676.3) as newly appointed COO who was working with Charlie on Vision 2030.",
+      "related_artifacts": [
+        "A-1676.3"
+      ],
+      "related_claims": [
+        "C-2197"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1515"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-793",
+      "ref": "N-793",
+      "name": "Lorie Cardardoza Moore",
+      "type": "person",
+      "description": "Identified via audio match as the author of the Christian Zionist threat message (A-1680.1, A-1681.1) and as having a prior acting/romance hotline background (A-1682.1); described by host as evangelical Zionist who learned later that she is Jewish.",
+      "related_artifacts": [
+        "A-1680.1",
+        "A-1681.1",
+        "A-1682.1"
+      ],
+      "related_claims": [
+        "C-2203",
+        "C-2204"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1516"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1514",
+      "ref": "N-1514",
+      "name": "TPUSA Post-Assassination Leadership Tone/Timing Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: tonal and temporal gap between Erika Kirk's upbeat call presentation and the recency of Charlie Kirk's public assassination.",
+      "related_artifacts": [
+        "A-1676.1",
+        "A-1676.2",
+        "A-1685.10"
+      ],
+      "related_claims": [
+        "C-2194",
+        "C-2196"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1008"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1515",
+      "ref": "N-1515",
+      "name": "TPUSA Vision 2030 Documentation Verification",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: verification of Erika Kirk's claim that Charlie was working on a 2030 strategic plan with Justin and that she possesses his journals documenting it.",
+      "related_artifacts": [
+        "A-1676.3"
+      ],
+      "related_claims": [
+        "C-2197",
+        "C-2198"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1008",
+        "N-792"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1516",
+      "ref": "N-1516",
+      "name": "Christian Zionist Threat Message Authorship Verification",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: confirmation that the previously circulated Christian Zionist threat message is authored by Lorie Cardardoza Moore via audio voice match.",
+      "related_artifacts": [
+        "A-1680.1",
+        "A-1681.1"
+      ],
+      "related_claims": [
+        "C-2203"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-793"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2194",
+      "ref": "C-2194",
+      "label": "Erika Kirk opened the TPUSA Zoom call with an upbeat tone thanking staff and citing memorial metrics",
+      "claim": "The episode presents that Erika Kirk's opening remarks on the corporate-wide Zoom call included laughter, thanks, and memorial metrics including 275,000 attendees and broadcast reach of \"over 100 million.\"",
+      "anchored_artifacts": [
+        "A-1676.1"
+      ],
+      "related_nodes": [
+        "N-1008",
+        "N-1514"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:24",
+      "investigative_direction": "Obtain full 15-minute Zoom call audio for content and tone analysis; corroborate cited metrics with TPUSA financial/disclosure filings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2195",
+      "ref": "C-2195",
+      "label": "Erika Kirk stated staff worked 20-hour days during the week of the memorial",
+      "claim": "The episode presents Erika Kirk telling the call that \"a lot of the staff that worked on the memorial … had 20[-hour]-our days for a week.\"",
+      "anchored_artifacts": [
+        "A-1676.1"
+      ],
+      "related_nodes": [
+        "N-1008"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:24",
+      "investigative_direction": "Cross-reference staff schedules, payroll records, and contemporaneous internal communications to verify the 20-hour-day claim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2196",
+      "ref": "C-2196",
+      "label": "Erika Kirk advised employees that paid time off is available if they need more time to grieve",
+      "claim": "The episode presents Erika Kirk telling employees: \"if you do need additional time off, please talk to your director about using paid time off for that,\" while also stating staff had access to counselors, pastors, and therapy dogs during the memorial period.",
+      "anchored_artifacts": [
+        "A-1676.2"
+      ],
+      "related_nodes": [
+        "N-1008",
+        "N-1514"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:47",
+      "investigative_direction": "Compare Erika's PTO framing with TPUSA's stated employee policies and the subsequent terminations of staff reportedly working on the memorial."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2197",
+      "ref": "C-2197",
+      "label": "Erika Kirk referenced a \"Vision 2030\" plan she attributes to Charlie and to COO Justin",
+      "claim": "The episode presents Erika Kirk stating Charlie was working on \"vision 2030\" in the weeks before September 10 with Justin, who had been appointed COO for that purpose.",
+      "anchored_artifacts": [
+        "A-1676.3"
+      ],
+      "related_nodes": [
+        "N-1008",
+        "N-792",
+        "N-1515"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:47",
+      "investigative_direction": "Obtain TPUSA board minutes, executive announcements regarding Justin's appointment, and any Vision 2030 documents; compare timeline against Charlie's known 2025 public statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2198",
+      "ref": "C-2198",
+      "label": "Erika Kirk stated she possesses Charlie's journals documenting the 2030 plans",
+      "claim": "The episode presents Erika Kirk stating: \"I have his journals that are aware of the plans. Like there is no confusion of what's to come.\"",
+      "anchored_artifacts": [
+        "A-1676.3"
+      ],
+      "related_nodes": [
+        "N-1008",
+        "N-1515"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:47",
+      "investigative_direction": "Establish provenance, chain of custody, and authenticity of any journals Erika cites; determine whether the journals have been produced to the board or to TPUSA counsel."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2199",
+      "ref": "C-2199",
+      "label": "Erika Kirk used the phrase \"Turning Point USA 2.0\"",
+      "claim": "The episode presents Erika Kirk stating on the call: \"we are moving forward turning point USA 2.0 with Charlie in our hearts.\"",
+      "anchored_artifacts": [
+        "A-1676.1"
+      ],
+      "related_nodes": [
+        "N-1008"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:29",
+      "investigative_direction": "Determine whether \"TPUSA 2.0\" branding has been formally adopted in organizational materials, IRS filings, or governance documents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2200",
+      "ref": "C-2200",
+      "label": "Erika Kirk described becoming a single mother as \"the least traumatizing thing\" in a NYT interview",
+      "claim": "The episode presents a quoted excerpt from the NYT profile in which Erika Kirk, eight days after Charlie's assassination, characterizes single motherhood as \"actually the least traumatizing thing for me since she herself has been raised by her mother after their parents divorced when she was young.\"",
+      "anchored_artifacts": [
+        "A-1679.1"
+      ],
+      "related_nodes": [
+        "N-1008"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:45",
+      "investigative_direction": "Verify full NYT article text and date of publication; compare framing against prior public statements by Erika Kirk regarding the timing of the interview."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2201",
+      "ref": "C-2201",
+      "label": "Charlie Kirk texted Candace Owens in 2018 saying he knew from the start of TPUSA he might die",
+      "claim": "The episode presents a 2018 text message from Charlie Kirk to Candace Owens stating: \"Since the beginning of Turning Point USA, I knew in my gut that I might get wiped out at any time … I dream about it all the time … I'm not sure I'm going to live to see the end of this revolution.\"",
+      "anchored_artifacts": [
+        "A-1677.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:33",
+      "investigative_direction": "Authenticate the text via metadata (date, device, recipient); compare against other contemporaneous statements made by Charlie Kirk about his own safety."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2202",
+      "ref": "C-2202",
+      "label": "Atlantic article reports Bill Montgomery met Charlie at Benedictine University in May 2012 and co-founded TPUSA",
+      "claim": "The episode presents an Atlantic article excerpt (quoting a National Journal source) reporting Bill Montgomery met Charlie Kirk at Benedictine University in the western Chicago suburb during a youth government day in May 2012 and that TPUSA launched a month later with Montgomery's encouragement.",
+      "anchored_artifacts": [
+        "A-1678.1"
+      ],
+      "related_nodes": [
+        "N-791",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:32",
+      "investigative_direction": "Locate the full Atlantic article; cross-check Bill Montgomery's Air Force service record and his post-2012 role; investigate any alternative TPUSA origin narratives."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2203",
+      "ref": "C-2203",
+      "label": "Christian Zionist threat message identified as authored by Lorie Cardardoza Moore via audio matching",
+      "claim": "The episode presents that audio of Lorie Cardardoza Moore ranting in her car matches the content of the previously circulated Christian Zionist threat message, identifying her as its author.",
+      "anchored_artifacts": [
+        "A-1680.1",
+        "A-1681.1"
+      ],
+      "related_nodes": [
+        "N-793",
+        "N-1516"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:08",
+      "investigative_direction": "Obtain independent forensic voice comparison; verify Lorie Cardardoza Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2204",
+      "ref": "C-2204",
+      "label": "Voice matching identifies Lorie Cardardoza Moore on a 1-900 romance hotline recording",
+      "claim": "The episode presents that Lorie Cardardoza Moore's voice matches a 1-900 romance hotline advertisement, indicating prior acting/performer work.",
+      "anchored_artifacts": [
+        "A-1682.1"
+      ],
+      "related_nodes": [
+        "N-793"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:47",
+      "investigative_direction": "Establish provenance and dating of the romance hotline recording; obtain Lorie Cardardoza Moore's professional résumé or acting credits for corroboration."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2205",
+      "ref": "C-2205",
+      "label": "Erika Kirk gave an in-person NYT interview on September 18, 2025",
+      "claim": "The episode presents that Erika Kirk gave an in-person interview to the New York Times at her and Charlie's condo on September 18, 2025 — eight days after Charlie's public assassination.",
+      "anchored_artifacts": [
+        "A-1679.1"
+      ],
+      "related_nodes": [
+        "N-1008"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:44",
+      "investigative_direction": "Verify NYT byline, interview location, and publication date; compare with NYT editorial logs and any contemporaneous NYT reporter commentary."
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,1182 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 76,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "1a470c9a6f223d7322321ad99025c98532a7e3253b185b43561425b2be5ecefd",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1809",
+      "family_ref": "A-1809",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1809.1",
+          "ref": "A-1809.1",
+          "description": "Email exchange between Jeffrey Epstein and Princess Märtha Louise of Norway discussing food, antibiotics, declining human fertility, and the proposition of \"design[ing] humans in a lab.\"",
+          "related_claims": [
+            "C-2419"
+          ],
+          "related_nodes": [
+            "N-950",
+            "N-953"
+          ],
+          "tags": [],
+          "event_timestamp": "2012",
+          "source_timestamp": "2012 (per host narration)",
+          "video_timestamp": "00:07:04–00:07:57",
+          "discovery_timestamp": "2026-03-10",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1810",
+      "family_ref": "A-1810",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1810.1",
+          "ref": "A-1810.1",
+          "description": "Owens tweet dated January 29, 2026 stating that Blake Neff and Andrew Kolvet hosted Kash Patel on the Charlie Kirk Show appearing live but actually pre-recorded; that Kolvet was in the West Wing meeting \"top brass\"; and that Mikey McCoy and his wife Elizabeth were allegedly present.",
+          "related_claims": [
+            "C-2420",
+            "C-2421",
+            "C-2422"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-955",
+            "N-956",
+            "N-957"
+          ],
+          "tags": [],
+          "event_timestamp": "2026-01-29",
+          "source_timestamp": "2026-01-29",
+          "video_timestamp": "00:12:57–00:13:53",
+          "discovery_timestamp": "2026-03-10",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1811",
+      "family_ref": "A-1811",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1811.1",
+          "ref": "A-1811.1",
+          "description": "Audio clip of Father Ripberger on the Shawn Ryan podcast discussing occult family lineages extending to the 1500s–1600s and the training of children into occult practice through secret societies.",
+          "related_claims": [
+            "C-2434"
+          ],
+          "related_nodes": [
+            "N-954"
+          ],
+          "tags": [],
+          "event_timestamp": "Unknown (prior to 2026-03-10)",
+          "source_timestamp": "Unknown",
+          "video_timestamp": "00:10:14–00:11:17",
+          "discovery_timestamp": "2026-03-10",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1812",
+      "family_ref": "A-1812",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1812.1",
+          "ref": "A-1812.1",
+          "description": "Reference to Epstein–Faith Kates email correspondence (host states Kates appears in Epstein's emails approximately 4,000 times; statements of loyalty to Epstein).",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": []
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1812.2",
+          "ref": "A-1812.2",
+          "description": "Epstein email to Faith Kates referencing attendance at her son's bar mitzvah.",
+          "related_claims": [
+            "C-2423",
+            "C-2424"
+          ],
+          "related_nodes": [
+            "N-950",
+            "N-951"
+          ],
+          "tags": [],
+          "event_timestamp": "Prior to Epstein's 2019 arrest",
+          "source_timestamp": "Prior to 2019",
+          "video_timestamp": "00:22:10–00:22:57",
+          "discovery_timestamp": "2026-03-10",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1813",
+      "family_ref": "A-1813",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1813.1",
+          "ref": "A-1813.1",
+          "description": "Host reference to Epstein email(s) in which Corcoran real estate is described as \"all over\" Epstein's correspondence.",
+          "related_claims": [
+            "C-2425"
+          ],
+          "related_nodes": [
+            "N-950",
+            "N-952",
+            "N-960"
+          ],
+          "tags": [],
+          "event_timestamp": "Prior to 2019",
+          "source_timestamp": "Prior to 2019",
+          "video_timestamp": "00:27:39–00:28:26",
+          "discovery_timestamp": "2026-03-10",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1814",
+      "family_ref": "A-1814",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1814.1",
+          "ref": "A-1814.1",
+          "description": "Background document (per host) listing Linda Rothschild's alternate names and her position as president of the Corcoran Group, tied to Epstein's files.",
+          "related_claims": [
+            "C-2426"
+          ],
+          "related_nodes": [
+            "N-952",
+            "N-960"
+          ],
+          "tags": [],
+          "event_timestamp": "Prior to 2026-03-10",
+          "source_timestamp": "Prior to 2026-03-10",
+          "video_timestamp": "00:28:26",
+          "discovery_timestamp": "2026-03-10",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1815",
+      "family_ref": "A-1815",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1815.1",
+          "ref": "A-1815.1",
+          "description": "Host's email to Erika Kirk (cc'd to TPUSA spokesperson Andrew Colebat) inquiring about the context of Erika's meetings at Next Model Management in New York City. No response received within 48 hours, per host.",
+          "related_claims": [
+            "C-2427"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-959",
+            "N-1591"
+          ],
+          "tags": [],
+          "event_timestamp": "Approximately 2026-03-08 (48 hours prior to broadcast)",
+          "source_timestamp": "Approximately 2026-03-08",
+          "video_timestamp": "00:24:35–00:26:09",
+          "discovery_timestamp": "2026-03-10",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1816",
+      "family_ref": "A-1816",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1816.1",
+          "ref": "A-1816.1",
+          "description": "Jezebel.com article regarding a \"witch's curse\" placed on Charlie Kirk's life, published at 9:49 AM Arizona time on September 8, 2025.",
+          "related_claims": [
+            "C-2428"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1593"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-08 09:49 AZ",
+          "source_timestamp": "2025-09-08",
+          "video_timestamp": "00:38:58",
+          "discovery_timestamp": "2026-03-10",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1817",
+      "family_ref": "A-1817",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1817.1",
+          "ref": "A-1817.1",
+          "description": "Erika Kirk tweet quoting Ephesians 4:5 (\"By grace you have been saved through faith\"), posted at 10:49 AM Arizona time on September 8, 2025 — exactly one hour after A-1816.1 per host.",
+          "related_claims": [
+            "C-2429"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1593"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-08 10:49 AZ",
+          "source_timestamp": "2025-09-08",
+          "video_timestamp": "00:39:30 (approx.)",
+          "discovery_timestamp": "2026-03-10",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1818",
+      "family_ref": "A-1818",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1818.1",
+          "ref": "A-1818.1",
+          "description": "Charlie Kirk Show appearance at 10:00 AM Arizona time on September 8 from the home studio (separate episode from Bears clip).",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": []
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1818.2",
+          "ref": "A-1818.2",
+          "description": "Charlie Kirk Show segment in which Charlie describes watching the second half of the Chicago Bears vs. Minnesota Vikings game on September 8, including specific play-by-play commentary (challenge on Noah Sewell fumble, 2:02 remaining, 2-minute warning clock management).",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": []
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1818.3",
+          "ref": "A-1818.3",
+          "description": "Charlie Kirk appearance on the Ingram Angle from the home studio, 4:00–5:00 PM Arizona time on September 8.",
+          "related_claims": [
+            "C-2430",
+            "C-2435",
+            "C-2436"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1593"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-08",
+          "source_timestamp": "2025-09-08",
+          "video_timestamp": "00:36:30–00:38:17 (Bears game); 00:38:58 (timeline reference)",
+          "discovery_timestamp": "2026-03-10",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1819",
+      "family_ref": "A-1819",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1819.1",
+          "ref": "A-1819.1",
+          "description": "Frank Turek clip describing his last walk with Charlie on Monday night (two days before the Wednesday assassination), referencing dinner with the family, GG (the infant) having just woken up, and Charlie's expressed intent to improve on \"two major issues.\"",
+          "related_claims": [
+            "C-2431"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-958",
+            "N-1593"
+          ],
+          "tags": [],
+          "event_timestamp": "Approximately 2025-09-08 evening (per host: Monday)",
+          "source_timestamp": "Approximately 2025-09-08",
+          "video_timestamp": "00:35:28–00:36:30",
+          "discovery_timestamp": "2026-03-10",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1820",
+      "family_ref": "A-1820",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1820.1",
+          "ref": "A-1820.1",
+          "description": "Blake Neff clip from the Todd Chris podcast stating that Erika said Charlie, if given the choice, would not undo what happened because of the \"faith revolution\" unleashed.",
+          "related_claims": [
+            "C-2432"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-957"
+          ],
+          "tags": [],
+          "event_timestamp": "Prior to 2026-03-10",
+          "source_timestamp": "Prior to 2026-03-10",
+          "video_timestamp": "00:33:37–00:34:25",
+          "discovery_timestamp": "2026-03-10",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1821",
+      "family_ref": "A-1821",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1821.1",
+          "ref": "A-1821.1",
+          "description": "Note relayed via producer that Blake Neff confirmed the full Todd Chris podcast episode (including Neff's comments about Erika) was not cut — only the Twitter stream version was trimmed; the Rumble version remains intact.",
+          "related_claims": [
+            "C-2433"
+          ],
+          "related_nodes": [
+            "N-957"
+          ],
+          "tags": [],
+          "event_timestamp": "2026-03-10",
+          "source_timestamp": "2026-03-10",
+          "video_timestamp": "00:55:30–00:56:41",
+          "discovery_timestamp": "2026-03-10",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Core biographical and investigative subject of the Bride of Charlie series. The subject of A-1816, A-1818, A-1819, A-1820.",
+      "related_artifacts": [
+        "A-1816.1",
+        "A-1818.1",
+        "A-1818.2",
+        "A-1818.3",
+        "A-1819.1",
+        "A-1820.1"
+      ],
+      "related_claims": [
+        "C-2428",
+        "C-2429",
+        "C-2430",
+        "C-2431",
+        "C-2432",
+        "C-2435",
+        "C-2436"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1593"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Primary biographical subject of this episode's investigative claims. Central figure across Artifact families A-1815, A-1817, A-1820.",
+      "related_artifacts": [
+        "A-1815.1",
+        "A-1817.1",
+        "A-1820.1"
+      ],
+      "related_claims": [
+        "C-2427",
+        "C-2429",
+        "C-2432"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1591",
+        "N-1592",
+        "N-1593"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-950",
+      "ref": "N-950",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Alleged connective node across multiple artifact families in this episode (A-1809, A-1812, A-1813, A-1814). May have existing ledger ID — cross-reference required.",
+      "related_artifacts": [
+        "A-1809.1",
+        "A-1812.1",
+        "A-1812.2",
+        "A-1813.1",
+        "A-1814.1"
+      ],
+      "related_claims": [
+        "C-2419",
+        "C-2423",
+        "C-2424",
+        "C-2425"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-951",
+      "ref": "N-951",
+      "name": "Faith Kates",
+      "type": "person",
+      "description": "Co-founder of Next Model Management (NYC) referenced as central to Epstein's email network (~4,000 emails) and as the subject of A-1812 artifacts.",
+      "related_artifacts": [
+        "A-1812.1",
+        "A-1812.2"
+      ],
+      "related_claims": [
+        "C-2423",
+        "C-2424"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-950",
+        "N-1591"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-952",
+      "ref": "N-952",
+      "name": "Linda Rothschild",
+      "type": "person",
+      "description": "Per A-1814, documented as president of the Corcoran Group with multiple aliases and tied to Epstein's files.",
+      "related_artifacts": [
+        "A-1814.1"
+      ],
+      "related_claims": [
+        "C-2426"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-960",
+        "N-1595"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-953",
+      "ref": "N-953",
+      "name": "Martha Louise of Norway",
+      "type": "person",
+      "description": "Norwegian princess; correspondent with Jeffrey Epstein (A-1809.1).",
+      "related_artifacts": [
+        "A-1809.1"
+      ],
+      "related_claims": [
+        "C-2419"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-950"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-954",
+      "ref": "N-954",
+      "name": "Father Chad Ripberger",
+      "type": "person",
+      "description": "Catholic exorcist referenced in A-1811.1 discussing occult pedigree families.",
+      "related_artifacts": [
+        "A-1811.1"
+      ],
+      "related_claims": [
+        "C-2434"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-955",
+      "ref": "N-955",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Turning Point USA figure referenced in A-1810.1 as having been in the West Wing on January 29, 2026 while presenting a pre-recorded interview as live. May have existing ledger ID — cross-reference required.",
+      "related_artifacts": [
+        "A-1810.1"
+      ],
+      "related_claims": [
+        "C-2420",
+        "C-2421"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1594"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-956",
+      "ref": "N-956",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Referenced in A-1810.1 as allegedly accompanying Kolvet to the West Wing with his wife Elizabeth. Note: transcript spells name \"McCoy\" in one instance and \"McVoy\" in another — see Optional Flags.",
+      "related_artifacts": [
+        "A-1810.1"
+      ],
+      "related_claims": [
+        "C-2420"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-955"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-957",
+      "ref": "N-957",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Subject of A-1820 and A-1821; referenced regarding Erika's alleged comments about Charlie and the faith revolution, and the producer relay on Rumble/Twitter stream divergence.",
+      "related_artifacts": [
+        "A-1820.1",
+        "A-1821.1"
+      ],
+      "related_claims": [
+        "C-2432",
+        "C-2433"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-958",
+      "ref": "N-958",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Subject of A-1819.1 describing a Monday night walk with Charlie and Charlie's stated intent to improve on \"two major issues.\"",
+      "related_artifacts": [
+        "A-1819.1"
+      ],
+      "related_claims": [
+        "C-2431"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-1593"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-959",
+      "ref": "N-959",
+      "name": "Andrew Colebat",
+      "type": "person",
+      "description": "TPUSA spokesperson cc'd on A-1815.1 (Owens' inquiry to Erika). Name transcription uncertain — see Optional Flags.",
+      "related_artifacts": [
+        "A-1815.1"
+      ],
+      "related_claims": [
+        "C-2427"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-960",
+      "ref": "N-960",
+      "name": "Pam Lehman",
+      "type": "person",
+      "description": "Per host, featured in the Epstein files and described as helping Epstein with real estate deals; context unclear.",
+      "related_artifacts": [
+        "A-1813.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-952"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1591",
+      "ref": "N-1591",
+      "name": "Erika Kirk Next Model Management Involvement",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: what was the documented nature of Erika Kirk's meetings at Next Model Management NYC, where Faith Kates was a co-founder with documented Epstein ties?",
+      "related_artifacts": [
+        "A-1815.1"
+      ],
+      "related_claims": [
+        "C-2427"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-951"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1592",
+      "ref": "N-1592",
+      "name": "Erika Kirk Corcoran Real Estate Anomaly",
+      "type": "investigation_target",
+      "description": "Investigation target: documented record of Erika Kirk's Corcoran-issued New York real estate license and any completed transactions. Host reports no record of completed deals and flags potential \"back door\" licensure.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2",
+        "N-960",
+        "N-952"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1593",
+      "ref": "N-1593",
+      "name": "Erika Kirk September 8 Presence Verification",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: independent verification of Erika Kirk's whereabouts on September 8, 2025. Host reports no witness corroboration of Erika in the neighborhood; Frank Turek reference is to \"family\" dinner without naming Erika.",
+      "related_artifacts": [
+        "A-1816.1",
+        "A-1817.1",
+        "A-1818.1",
+        "A-1818.2",
+        "A-1818.3",
+        "A-1819.1"
+      ],
+      "related_claims": [
+        "C-2428",
+        "C-2429",
+        "C-2430",
+        "C-2431",
+        "C-2435",
+        "C-2436"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-958"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1594",
+      "ref": "N-1594",
+      "name": "January 29 West Wing Meeting Subject",
+      "type": "investigation_target",
+      "description": "Investigation target: subject matter of Andrew Kolvet / Mikey McCoy White House meeting on January 29, 2026 — the day before the Epstein files release. Why was the meeting pre-recorded and not publicized?",
+      "related_artifacts": [
+        "A-1810.1"
+      ],
+      "related_claims": [
+        "C-2420",
+        "C-2421",
+        "C-2422"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-955",
+        "N-956"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1595",
+      "ref": "N-1595",
+      "name": "Linda Rothschild Corcoran Group Presidency Verification",
+      "type": "investigation_target",
+      "description": "Investigation target: verification that Linda Rothschild was/is president of the Corcoran Group and the scope of her Epstein-file exposure.",
+      "related_artifacts": [
+        "A-1814.1"
+      ],
+      "related_claims": [
+        "C-2426"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-952"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1596",
+      "ref": "N-1596",
+      "name": "Faith Kates – Epstein Relationship Scope",
+      "type": "investigation_target",
+      "description": "Investigation target: scope and content of Faith Kates–Jeffrey Epstein email relationship (referenced ~4,000 times), including the bar mitzvah invitation context.",
+      "related_artifacts": [
+        "A-1812.1",
+        "A-1812.2"
+      ],
+      "related_claims": [
+        "C-2423",
+        "C-2424"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-951",
+        "N-950"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2419",
+      "ref": "C-2419",
+      "label": "Epstein–Märtha Louise 2012 Email Discussed Lab-Designed Humans",
+      "claim": "A 2012 email exchange between Jeffrey Epstein and Princess Märtha Louise of Norway discussed food and antibiotics suppressing human fertility and concluded that humans could ultimately be \"designed in a lab.\"",
+      "anchored_artifacts": [
+        "A-1809.1"
+      ],
+      "related_nodes": [
+        "N-950",
+        "N-953"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:04–00:07:57",
+      "investigative_direction": "Obtain the underlying 2012 email(s) from the Epstein files release and verify both authorship and the quoted text."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2420",
+      "ref": "C-2420",
+      "label": "Kolvet and McCoy in the West Wing During Fake-Live Kirk Show",
+      "claim": "According to a January 29, 2026 Candace Owens tweet sourced to White House personnel, Andrew Kolvet and Mikey McCoy (allegedly with his wife Elizabeth) were in the West Wing on January 29, 2026 while the Charlie Kirk Show was presenting a pre-recorded interview with Kash Patel as live.",
+      "anchored_artifacts": [
+        "A-1810.1"
+      ],
+      "related_nodes": [
+        "N-955",
+        "N-956",
+        "N-1594"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:57–00:13:53",
+      "investigative_direction": "Obtain independent White House visitor logs for January 29, 2026 to verify presence; obtain the pre-recorded episode audio."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2421",
+      "ref": "C-2421",
+      "label": "Kirk Show Kash Patel Episode Was Pre-Recorded, Not Live",
+      "claim": "The Charlie Kirk Show episode in which Kash Patel appeared was pre-recorded on January 28, 2026 (per host, two days before the tweet) rather than broadcast live.",
+      "anchored_artifacts": [
+        "A-1810.1"
+      ],
+      "related_nodes": [
+        "N-955",
+        "N-1594"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:53",
+      "investigative_direction": "Compare the episode's audio/video metadata against the claimed broadcast time."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2422",
+      "ref": "C-2422",
+      "label": "Epstein Files Released Day After West Wing Meeting",
+      "claim": "The Epstein files were released on January 30, 2026, the day after the January 29 Kolvet/McCoy West Wing meeting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-950",
+        "N-1594"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:55",
+      "investigative_direction": "Confirm the official release date of the Epstein files and compare against the documented meeting date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2423",
+      "ref": "C-2423",
+      "label": "Faith Kates–Epstein Email Volume Cited at ~4,000 Messages",
+      "claim": "Faith Kates appears approximately 4,000 times in Jeffrey Epstein's email correspondence.",
+      "anchored_artifacts": [
+        "A-1812.1"
+      ],
+      "related_nodes": [
+        "N-950",
+        "N-951",
+        "N-1596"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:10",
+      "investigative_direction": "Search the publicly released Epstein email corpus for Kates-name frequency counts and sample contents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2424",
+      "ref": "C-2424",
+      "label": "Epstein Invited to Kates Son's Bar Mitzvah",
+      "claim": "Jeffrey Epstein was invited via email to Faith Kates' son's bar mitzvah.",
+      "anchored_artifacts": [
+        "A-1812.2"
+      ],
+      "related_nodes": [
+        "N-950",
+        "N-951",
+        "N-1596"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:57",
+      "investigative_direction": "Locate the specific Epstein-files email containing the bar mitzvah invitation and verify sender/recipient."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2425",
+      "ref": "C-2425",
+      "label": "Corcoran Group Referenced Across Epstein's Emails",
+      "claim": "The Corcoran real estate group is referenced repeatedly across Jeffrey Epstein's emails.",
+      "anchored_artifacts": [
+        "A-1813.1"
+      ],
+      "related_nodes": [
+        "N-950",
+        "N-952",
+        "N-960"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:39–00:28:26",
+      "investigative_direction": "Search Epstein-files email corpus for Corcoran/Linda Rothschild references."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2426",
+      "ref": "C-2426",
+      "label": "Linda Rothschild Documented as Corcoran Group President with Multiple Aliases",
+      "claim": "A background document on Linda Rothschild lists her alternate names and identifies her as president of the Corcoran Group; the document is tied to Epstein's files.",
+      "anchored_artifacts": [
+        "A-1814.1"
+      ],
+      "related_nodes": [
+        "N-952",
+        "N-1595"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:26",
+      "investigative_direction": "Verify Linda Rothschild's Corcoran role via corporate filings; obtain the background document referenced."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2427",
+      "ref": "C-2427",
+      "label": "No Response from Erika Kirk (or Colebat) to Next Model Management Inquiry Within 48 Hours",
+      "claim": "Candace Owens sent an email to Erika Kirk, cc'ing TPUSA spokesperson Andrew Colebat, asking specifically about the nature of Erika's meetings at Next Model Management NYC; no response was received within 48 hours as of broadcast.",
+      "anchored_artifacts": [
+        "A-1815.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-959",
+        "N-1591"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:35–00:26:09",
+      "investigative_direction": "Confirm the email log; await response or non-response status update."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2428",
+      "ref": "C-2428",
+      "label": "Jezebel Article on Charlie Kirk Witch's Curse Published 9:49 AM AZ Sept 8",
+      "claim": "A Jezebel.com article regarding a \"witch's curse\" on Charlie Kirk's life was published at 9:49 AM Arizona time on September 8, 2025.",
+      "anchored_artifacts": [
+        "A-1816.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1593"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:58",
+      "investigative_direction": "Obtain the Jezebel article URL with timestamp metadata; verify publication time."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2429",
+      "ref": "C-2429",
+      "label": "Erika Kirk Tweet Ephesians 4:5 Posted One Hour After Jezebel Article",
+      "claim": "Erika Kirk posted a tweet quoting Ephesians 4:5 (\"By grace you have been saved through faith\") at 10:49 AM Arizona time on September 8, 2025 — exactly one hour after the Jezebel article (A-1816.1) appeared.",
+      "anchored_artifacts": [
+        "A-1817.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1593"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:30",
+      "investigative_direction": "Obtain Erika Kirk's tweet via Wayback Machine or X API; verify timestamp metadata."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2430",
+      "ref": "C-2430",
+      "label": "Charlie Kirk Watched Second Half of Bears–Vikings Game on September 8",
+      "claim": "On September 8, 2025, Charlie Kirk watched the second half of the Chicago Bears vs. Minnesota Vikings game from his home, as evidenced by his show commentary describing specific plays (challenge on Noah Sewell fumble, 2:02 remaining, clock management decisions).",
+      "anchored_artifacts": [
+        "A-1818.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1593"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:30–00:38:17",
+      "investigative_direction": "Cross-reference Bears–Vikings September 8, 2025 game clock with Charlie's commentary timestamps."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2431",
+      "ref": "C-2431",
+      "label": "Frank Turek Describes Last Walk with Charlie on Monday Night",
+      "claim": "Frank Turek describes a Monday-night walk with Charlie Kirk (the night before the assassination week), during which Charlie referenced dinner with \"the family,\" the infant GG having just woken, and two major issues he wanted to improve.",
+      "anchored_artifacts": [
+        "A-1819.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-958",
+        "N-1593"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:28–00:36:30",
+      "investigative_direction": "Obtain full Turek interview; verify the date and content of the Monday walk."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2432",
+      "ref": "C-2432",
+      "label": "Blake Neff on Todd Chris Podcast: Erika Said Charlie Wouldn't Undo His Death",
+      "claim": "On the Todd Chris podcast, Blake Neff stated that Erika said Charlie would not undo what happened because of the \"faith revolution\" it unleashed.",
+      "anchored_artifacts": [
+        "A-1820.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-957"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:37–00:34:25",
+      "investigative_direction": "Obtain the full Rumble-hosted Todd Chris episode; verify Neff's quoted statement in context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2433",
+      "ref": "C-2433",
+      "label": "Blake Neff Confirms Rumble Version of Todd Chris Episode Uncut",
+      "claim": "A message relayed via producer indicates that Blake Neff confirmed the full Todd Chris podcast episode (including his comments about Erika) remains intact on Rumble; only the Twitter stream version was trimmed.",
+      "anchored_artifacts": [
+        "A-1821.1"
+      ],
+      "related_nodes": [
+        "N-957",
+        "A-1820.1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:30–00:56:41",
+      "investigative_direction": "Compare the Twitter stream version to the Rumble-hosted version directly."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2434",
+      "ref": "C-2434",
+      "label": "Father Ripberger Describes Occult Pedigree Families from 1500s–1600s",
+      "claim": "Father Chad Ripberger, in a clip from the Shawn Ryan podcast, stated that some occult families have lineage extending to the 1500s–1600s and train their children into occult practice from a young age.",
+      "anchored_artifacts": [
+        "A-1811.1"
+      ],
+      "related_nodes": [
+        "N-954"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:14–00:11:17",
+      "investigative_direction": "Obtain the full Ripberger clip and surrounding podcast context for verification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2435",
+      "ref": "C-2435",
+      "label": "Charlie Kirk Show Appearance from Home Studio at 10:00 AM AZ on September 8",
+      "claim": "Charlie Kirk appeared on the Charlie Kirk Show from his home studio at 10:00 AM Arizona time on September 8, 2025 (separate appearance from A-1818.2).",
+      "anchored_artifacts": [
+        "A-1818.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1593"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:58",
+      "investigative_direction": "Obtain the September 8, 2025 10:00 AM Charlie Kirk Show episode and verify timestamp."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2436",
+      "ref": "C-2436",
+      "label": "Charlie Kirk Appearance on Ingram Angle 4:00–5:00 PM AZ on September 8",
+      "claim": "Charlie Kirk appeared on the Laura Ingram show (Ingram Angle) from his home studio between 4:00 and 5:00 PM Arizona time on September 8, 2025.",
+      "anchored_artifacts": [
+        "A-1818.3"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1593"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:08",
+      "investigative_direction": "Obtain the September 8, 2025 Ingram Angle episode and verify timestamp."
+    }
+  ],
+  "memes": []
+}

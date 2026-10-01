@@ -1,0 +1,524 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 41,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "9947ad085576510d0eca9efc0f90646427ab1e5b19ec6460512b87a70d7be827",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1494",
+      "family_ref": "A-1494",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1494.1",
+          "ref": "A-1494.1",
+          "description": "Pentagon press briefing clip — Cam Higby asks Pentagon press secretary about a \"French military plot to assassinate Candace Owens\"",
+          "related_claims": [
+            "C-1831"
+          ],
+          "related_nodes": [
+            "N-482"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1495",
+      "family_ref": "A-1495",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1495.1",
+          "ref": "A-1495.1",
+          "description": "Blake Neff tweet announcing December 15, 2025 TPUSA livestream debate with 24-hour countdown",
+          "related_claims": [
+            "C-1832"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1495.2",
+          "ref": "A-1495.2",
+          "description": "Blake Neff follow-up tweet stating TPUSA will \"proceed without\" Candace",
+          "related_claims": [
+            "C-1833"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1496",
+      "family_ref": "A-1496",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1496.1",
+          "ref": "A-1496.1",
+          "description": "Project Constitution X post asserting Egyptian presidency website confirms President El-Sisi flew on aircraft SU-BTU on April 3, 2023",
+          "related_claims": [
+            "C-1834"
+          ],
+          "related_nodes": [
+            "N-485",
+            "N-1381"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1497",
+      "family_ref": "A-1497",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1497.1",
+          "ref": "A-1497.1",
+          "description": "Ben Shapiro audio/video clip from Greg Gutfeld's show — French intelligence joke regarding Greg",
+          "related_claims": [
+            "C-1836"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1498",
+      "family_ref": "A-1498",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1498.1",
+          "ref": "A-1498.1",
+          "description": "Frank Turk audio/video clip asserting Charlie Kirk told him Blake Neff was \"the smartest man I know\" / \"secret weapon\"",
+          "related_claims": [
+            "C-1837"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1499",
+      "family_ref": "A-1499",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1499.1",
+          "ref": "A-1499.1",
+          "description": "Tim Pool video clip calling Candace Owens a \"scumbag\" and warning of midterm losses due to her commentary",
+          "related_claims": [
+            "C-1838"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1500",
+      "family_ref": "A-1500",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1500.1",
+          "ref": "A-1500.1",
+          "description": "Photograph of President El-Sisi meeting Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025",
+          "related_claims": [
+            "C-1835"
+          ],
+          "related_nodes": [
+            "N-484",
+            "N-485"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:00–00:00:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1500.2",
+          "ref": "A-1500.2",
+          "description": "Egyptian Presidency website record confirming El-Sisi aboard SU-BTU on April 3, 2023 (Riadh → Saudi Crown Prince MBS meeting)",
+          "related_claims": [
+            "C-1834"
+          ],
+          "related_nodes": [
+            "N-485"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-482",
+      "ref": "N-482",
+      "name": "Cam Higby",
+      "type": "person",
+      "description": "Pentagon correspondent whose question to the Pentagon press secretary regarding a \"French military plot to assassinate Candace Owens\" is presented in the episode. Host asserts he has been on TPUSA payroll since August 2025.",
+      "related_artifacts": [
+        "A-1494.1"
+      ],
+      "related_claims": [
+        "C-1831"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-483",
+      "ref": "N-483",
+      "name": "Wedi Machmood (name as used)",
+      "type": "person",
+      "description": "Person using this name on board the \"yellow plane\" SU-BND on September 10, 2025 (one of four passengers). Host asserts same individual flew on SU-BTU (\"purple plane\") into Provo on May 27, 2025. Identity verification target.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1380",
+        "N-1381"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-484",
+      "ref": "N-484",
+      "name": "Sara Zaafarani",
+      "type": "person",
+      "description": "Tunisian Prime Minister. Photographed with President El-Sisi in Egypt on September 10, 2025, per host assertion; used as alibi for El-Sisi.",
+      "related_artifacts": [
+        "A-1500.1"
+      ],
+      "related_claims": [
+        "C-1835"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-485"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-485",
+      "ref": "N-485",
+      "name": "Project Constitution (X account / researcher)",
+      "type": "person",
+      "description": "X account whose tweet (read in full on air) is cited as the source for the Egyptian-presidency confirmation that El-Sisi flew SU-BTU on April 3, 2023.",
+      "related_artifacts": [
+        "A-1496.1",
+        "A-1500.2"
+      ],
+      "related_claims": [
+        "C-1834"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-486",
+      "ref": "N-486",
+      "name": "Frank Turk",
+      "type": "person",
+      "description": "TPUSA affiliate whose testimonial clip is played, asserting that Charlie Kirk told him Blake Neff was \"the smartest man I know.\"",
+      "related_artifacts": [
+        "A-1498.1"
+      ],
+      "related_claims": [
+        "C-1837"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1380",
+      "ref": "N-1380",
+      "name": "Wedi Machmood Identity Verification Question",
+      "type": "investigation_target",
+      "description": "Persistent unresolved target: who is the person using the name \"Wedi Machmood\" — possibly a pilot, possibly a person well acquainted with President El-Sisi given use of a presidential Egyptian military aircraft.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-483",
+        "N-1381"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1381",
+      "ref": "N-1381",
+      "name": "SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard",
+      "type": "investigation_target",
+      "description": "Egyptian military aircraft SU-BTU allegedly flew into Provo on May 27, 2025 with Wedi Machmood aboard, and departed June 2, 2025 without transponder data. Distinct from the September 10 yellow plane (SU-BND) incident.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-483",
+        "N-1380"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1831",
+      "ref": "C-1831",
+      "label": "Higby Pentagon Question on French Assassination Plot",
+      "claim": "Pentagon correspondent Cam Higby asked the Pentagon press secretary whether the Department of Defense had any evidence of a \"French military plot to assassinate Candace Owens.\"",
+      "anchored_artifacts": [
+        "A-1494.1"
+      ],
+      "related_nodes": [
+        "N-482"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:11",
+      "investigative_direction": "Verify the original Pentagon press briefing transcript and date; confirm Higby's professional affiliations at the time."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1832",
+      "ref": "C-1832",
+      "label": "TPUSA Midnight Debate Announcement",
+      "claim": "TPUSA's Blake Neff issued a tweet near midnight on December 4, 2025 announcing a formal response livestream scheduled for December 15, 2025 at 2:00 PM Eastern / 2:00 PM local in Phoenix, with a 24-hour countdown for Candace to confirm in-person attendance.",
+      "anchored_artifacts": [
+        "A-1495.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:51",
+      "investigative_direction": "Confirm original tweet via X/Twitter archive; verify timestamp and wording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1833",
+      "ref": "C-1833",
+      "label": "TPUSA \"Proceeding Without You\" Follow-Up Tweet",
+      "claim": "After Candace Owens publicly offered to participate virtually, TPUSA's Blake Neff tweeted that TPUSA would proceed with the December 15 livestream without her.",
+      "anchored_artifacts": [
+        "A-1495.2"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:19",
+      "investigative_direction": "Confirm original follow-up tweet via X/Twitter archive; compare with Candace's tweet offering virtual attendance."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1834",
+      "ref": "C-1834",
+      "label": "Project Constitution Report on El-Sisi Aboard SU-BTU",
+      "claim": "A Project Constitution X post (read in full on air) reports that the Egyptian presidency website confirms President El-Sisi flew aboard aircraft SU-BTU on April 3, 2023 to Riyadh for a meeting with Saudi Crown Prince Mohammed bin Salman.",
+      "anchored_artifacts": [
+        "A-1496.1",
+        "A-1500.2"
+      ],
+      "related_nodes": [
+        "N-485",
+        "N-1381"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:32",
+      "investigative_direction": "Verify directly against the Egyptian presidency website; reconcile Project Constitution's reference to \"SU-BTU\" with host's reference to \"BTT\" / \"SUB-TU.\""
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1835",
+      "ref": "C-1835",
+      "label": "El-Sisi Photographed in Egypt on September 10, 2025",
+      "claim": "President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025, which the host cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-484",
+        "N-485"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:13",
+      "investigative_direction": "Locate the original photograph; verify date, location, and participants."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1836",
+      "ref": "C-1836",
+      "label": "Shapiro Joke on Gutfeld Show",
+      "claim": "Ben Shapiro appeared on Greg Gutfeld's show and joked that he \"called French intelligence and something may or may not have happened to Greg [Gutfeld].\"",
+      "anchored_artifacts": [
+        "A-1497.1"
+      ],
+      "related_nodes": [
+        "N-483"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:13",
+      "investigative_direction": "Verify clip against original Gutfeld show broadcast; confirm exact wording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1837",
+      "ref": "C-1837",
+      "label": "Frank Turk Testimonial on Blake Neff",
+      "claim": "Frank Turk states in a video testimonial that the night before Charlie Kirk's death, Kirk told him that Blake Neff was Kirk's \"secret weapon\" and \"the smartest man I know.\"",
+      "anchored_artifacts": [
+        "A-1498.1"
+      ],
+      "related_nodes": [
+        "N-486",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:02",
+      "investigative_direction": "Verify clip against original broadcast; cross-check against other contemporaneous accounts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1838",
+      "ref": "C-1838",
+      "label": "Tim Pool Attack on Candace Owens",
+      "claim": "Tim Pool states in a video that Candace Owens is a \"scumbag\" who is dividing conservatives and risks losing the midterms and 2028 by continuing to question the official Kirk narrative.",
+      "anchored_artifacts": [
+        "A-1499.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:31:39",
+      "investigative_direction": "Verify clip against original Tim Pool broadcast; capture full context."
+    }
+  ],
+  "memes": []
+}

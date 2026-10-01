@@ -1,0 +1,1222 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 58,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "f2711e85e7a5dac6180d0330f718521458d116b136a35e9d84389c67776a7492",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode advances two distinct investigative threads in the Bride of Charlie series. The first focuses on Fort Huachuca, presenting documentary artifacts (professionally shot movie posters, a remnant Kickstarter campaign page, and an audio clip of director Clayton Haugen) supporting the existence of an unreleased ~2012–2013 short film titled *November Renaissance* in which Erika Kirk was reportedly cast as \"Evelyn Mathis.\" Multiple cast/crew members are identified as having Fort Huachuca or military connections. The host also presents chain-of-custody testimony from three independently-sourced Fort Huachuca-affiliated individuals who claim to have seen Erika at the base, including a currently-stationed person who posted online and subsequently deleted the claim. A second sub-thread documents a discrepancy between Erika's podcast statement that she \"lived in China\" working with sex-trafficking victims and a Turning Point executive's (Justin Stripe's) statement that she only visited the Great Wall.\n\nThe second major thread introduces new donor relationships, including a reported $10 million gift from Karl and Nelda Buckman leading to the renaming of the Florida Turning Point USA headquarters, and the host's concerns about Nelda Buckman's involvement with Courage House Nevada, a 40-acre psychiatric residential treatment facility for child sex-trafficking survivors located at a confidential address in Washoe County. The episode's third thread criticizes Nick Fuentes over audio clips of him describing Jeffrey Epstein's conduct with \"barely legal teens\" as \"not really pedophilia\" and reframing the issue as \"political blackmail\" rather than pedophilia.\n\nThe episode's investigative significance lies in introducing new documentary artifacts (posters, Kickstarter, audio clips) tying Erika to a specific Fort Huachuca-connected film project, and in elevating donor and charity concerns (Courage House Nevada) to the formal record.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1635",
+      "family_ref": "A-1635",
+      "bundle_name": "November Renaissance Film Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1635.1",
+          "ref": "A-1635.1",
+          "description": "November Renaissance Movie Poster (Professionally Shot)",
+          "related_claims": [
+            "C-2108",
+            "C-2110"
+          ],
+          "related_nodes": [
+            "N-729",
+            "N-733",
+            "N-734",
+            "N-735",
+            "N-736",
+            "N-737",
+            "N-1488",
+            "N-1489"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1635.2",
+          "ref": "A-1635.2",
+          "description": "November Renaissance Kickstarter Campaign Page (Publicly Available Remnant)",
+          "related_claims": [
+            "C-2108",
+            "C-2109",
+            "C-2110"
+          ],
+          "related_nodes": [
+            "N-729",
+            "N-1489"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:00–00:00:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1635.3",
+          "ref": "A-1635.3",
+          "description": "Clayton Haugen Director Audio Clip (Nanotechnology / Mind-as-Hard-Drive Concept Pitch)",
+          "related_claims": [
+            "C-2109"
+          ],
+          "related_nodes": [
+            "N-729",
+            "N-1489"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:16–00:10:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1636",
+      "family_ref": "A-1636",
+      "bundle_name": "Erika China Podcast Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1636.1",
+          "ref": "A-1636.1",
+          "description": "Erika Podcast Clip Stating She Lived in China and Worked with Child Sex Trafficking Victims",
+          "related_claims": [
+            "C-2112"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1490"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:13–00:18:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1637",
+      "family_ref": "A-1637",
+      "bundle_name": "Turning Point China Discrepancy Communication Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1637.1",
+          "ref": "A-1637.1",
+          "description": "Justin Stripe Reply to Candace Owens Stating Erika Never Lived in China, Only Visited Great Wall",
+          "related_claims": [
+            "C-2113"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1490"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1638",
+      "family_ref": "A-1638",
+      "bundle_name": "Buckman Donor and Relationship Media Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1638.1",
+          "ref": "A-1638.1",
+          "description": "Daily Wire Article: $10 Million Buckman Gift and Florida Campus Renaming to \"Buckman Campus\"",
+          "related_claims": [
+            "C-2114"
+          ],
+          "related_nodes": [
+            "N-730",
+            "N-731",
+            "N-1492"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:05–00:21:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1638.2",
+          "ref": "A-1638.2",
+          "description": "Nelda Buckman Daily Wire Plus Interview (January 2026) on Relationship with Erika",
+          "related_claims": [
+            "C-2115"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-730",
+            "N-1492"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:00–00:22:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1638.3",
+          "ref": "A-1638.3",
+          "description": "Baron Coleman / \"Mommy Sleuth\" Plane Tracking Research (Charlie/Erika Plane Visiting New Braunfels TX and Idaho)",
+          "related_claims": [
+            "C-2117"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1492"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1639",
+      "family_ref": "A-1639",
+      "bundle_name": "Identity Crisis Documentary Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1639.1",
+          "ref": "A-1639.1",
+          "description": "Identity Crisis Documentary (2024) Announcement — Ben Shapiro / Daily Wire + Turning Point USA Collaboration",
+          "related_claims": [
+            "C-2116"
+          ],
+          "related_nodes": [
+            "N-730",
+            "N-1494"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1640",
+      "family_ref": "A-1640",
+      "bundle_name": "Courage House Nevada Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1640.1",
+          "ref": "A-1640.1",
+          "description": "Courage House Nevada Information / Website — 40-Acre Washoe County Property, Psychiatric Residential Treatment Facility, Capacity 18, Confidential Location",
+          "related_claims": [
+            "C-2118",
+            "C-2119"
+          ],
+          "related_nodes": [
+            "N-730",
+            "N-1491"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:52–00:27:28",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1641",
+      "family_ref": "A-1641",
+      "bundle_name": "Nick Fuentes Epstein Comments Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1641.1",
+          "ref": "A-1641.1",
+          "description": "Nick Fuentes Clip Stating Epstein Conduct with \"Barely Legal Teens\" Was \"Not Really Pedophilia\"",
+          "related_claims": [
+            "C-2118"
+          ],
+          "related_nodes": [
+            "N-732",
+            "N-1495"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:23–00:39:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1641.2",
+          "ref": "A-1641.2",
+          "description": "Nick Fuentes Follow-Up Clip Reframing Epstein Issue as \"Political Blackmail\" Rather Than Pedophilia",
+          "related_claims": [
+            "C-2119"
+          ],
+          "related_nodes": [
+            "N-732",
+            "N-1495"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:23–00:44:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1642",
+      "family_ref": "A-1642",
+      "bundle_name": "Reader Comment Bundle (Read Aloud on Episode)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1642.1",
+          "ref": "A-1642.1",
+          "description": "Nika Comment: \"Gate Kid\" Memory Blackout Ages 4–10 at Fort Hood; Aspen Education Group Schools",
+          "related_claims": [
+            "C-2120"
+          ],
+          "related_nodes": [
+            "N-744",
+            "N-1493"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:53:05–00:55:26",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1642.2",
+          "ref": "A-1642.2",
+          "description": "Sisbear Comment: Whistleblower Sabrina Wallace, DARPA Biosonar Testing on Children",
+          "related_claims": [],
+          "related_nodes": [
+            "N-738",
+            "N-1493"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:00:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-739",
+      "ref": "N-739",
+      "name": "Node 739",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-742",
+      "ref": "N-742",
+      "name": "Node 742",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-729",
+      "ref": "N-729",
+      "name": "Clayton Haugen",
+      "type": "person",
+      "description": "Director of *November Renaissance*; military-affiliated individual cited as close to Erika during ~2010–2013 production era.",
+      "related_artifacts": [
+        "A-1635.1",
+        "A-1635.2",
+        "A-1635.3"
+      ],
+      "related_claims": [
+        "C-2108",
+        "C-2109",
+        "C-2110"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1489"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-730",
+      "ref": "N-730",
+      "name": "Nelda Buckman",
+      "type": "person",
+      "description": "Major Turning Point USA donor; executive producer of *Identity Crisis*; affiliated with Courage House Nevada and National Angels foster-care work.",
+      "related_artifacts": [
+        "A-1638.1",
+        "A-1638.2",
+        "A-1639.1",
+        "A-1640.1"
+      ],
+      "related_claims": [
+        "C-2114",
+        "C-2115",
+        "C-2116",
+        "C-2118"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-731",
+        "N-1491",
+        "N-1492",
+        "N-1494"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-731",
+      "ref": "N-731",
+      "name": "Karl Buckman",
+      "type": "person",
+      "description": "Co-donor with Nelda Buckman of $10 million to Turning Point USA; Florida campus named \"Buckman Campus\" after the gift.",
+      "related_artifacts": [
+        "A-1638.1"
+      ],
+      "related_claims": [
+        "C-2114"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-730",
+        "N-1492"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-732",
+      "ref": "N-732",
+      "name": "Nick Fuentes",
+      "type": "person",
+      "description": "Subject of episode segment two; on-air audio captures regarding Jeffrey Epstein / pedophilia framing.",
+      "related_artifacts": [
+        "A-1641.1",
+        "A-1641.2"
+      ],
+      "related_claims": [
+        "C-2118",
+        "C-2119"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-740",
+        "N-741",
+        "N-1495"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-733",
+      "ref": "N-733",
+      "name": "Don Frye",
+      "type": "person",
+      "description": "*November Renaissance* cast; graduated high school in Sierra Vista and trained in judo at Fort Huachuca.",
+      "related_artifacts": [
+        "A-1635.1"
+      ],
+      "related_claims": [
+        "C-2108"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1488",
+        "N-1489"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-734",
+      "ref": "N-734",
+      "name": "Payton McCormick",
+      "type": "person",
+      "description": "*November Renaissance* cast; granddaughter of Colonel Pete McCormick and daughter of Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.",
+      "related_artifacts": [
+        "A-1635.1"
+      ],
+      "related_claims": [
+        "C-2108"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1488",
+        "N-1489"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-735",
+      "ref": "N-735",
+      "name": "Chantel Thuy",
+      "type": "person",
+      "description": "*November Renaissance* cast; identified host-stated connection to Fort Huachuca and stated father worked in AI for IBM.",
+      "related_artifacts": [
+        "A-1635.1"
+      ],
+      "related_claims": [
+        "C-2108"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1489"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-736",
+      "ref": "N-736",
+      "name": "Price Mitchum",
+      "type": "person",
+      "description": "*November Renaissance* cast; host notes subject of a 5150 psych hold.",
+      "related_artifacts": [
+        "A-1635.1"
+      ],
+      "related_claims": [
+        "C-2108"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1489"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-737",
+      "ref": "N-737",
+      "name": "Priscilla Ann Nu'ul",
+      "type": "person",
+      "description": "Name flagged as uncertainty — referenced in same sentence as \"Miss Teen USA 2006\" in cast discussion; relationship to other cast members unclear from transcript.",
+      "related_artifacts": [
+        "A-1635.1"
+      ],
+      "related_claims": [
+        "C-2108"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1489"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-738",
+      "ref": "N-738",
+      "name": "Sabrina Wallace",
+      "type": "person",
+      "description": "Whistleblower mentioned in read-aloud comment (Sisbear) as alleging DARPA biosonar testing on children in 1980s–1990s.",
+      "related_artifacts": [
+        "A-1642.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1493"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-740",
+      "ref": "N-740",
+      "name": "Milo Yiannopoulos",
+      "type": "person",
+      "description": "Referenced as informer to Nick Fuentes the night before Jan 6 about alleged federal trap.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2123"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-732",
+        "N-1495"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-741",
+      "ref": "N-741",
+      "name": "Ferris Wilks",
+      "type": "person",
+      "description": "Referenced re: Nick Fuentes pitching sale of follower data to Defend Texas Liberty.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2122"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-732",
+        "N-1495"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-743",
+      "ref": "N-743",
+      "name": "Marjorie Greene",
+      "type": "person",
+      "description": "Referenced in Fuentes clip re: framing of Epstein case as \"female victims.\"",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-732",
+        "N-1495"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-744",
+      "ref": "N-744",
+      "name": "Nika",
+      "type": "person",
+      "description": "Reader-comment author; self-identifies as \"gate kid\" with memory blackout ages 4–10 at Fort Hood, attendance at schools linked via Aspen Education Group.",
+      "related_artifacts": [
+        "A-1642.1"
+      ],
+      "related_claims": [
+        "C-2120"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1493"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-745",
+      "ref": "N-745",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Investigator cited as having done significant plane-tracking work.",
+      "related_artifacts": [
+        "A-1638.3"
+      ],
+      "related_claims": [
+        "C-2117"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1492"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-746",
+      "ref": "N-746",
+      "name": "Nellie \"Mommy Sleuth\" (Investigation Contributor)",
+      "type": "person",
+      "description": "Anonymous reader credited with Courage House Nevada and plane-tracking research.",
+      "related_artifacts": [
+        "A-1638.3",
+        "A-1640.1"
+      ],
+      "related_claims": [
+        "C-2117",
+        "C-2118"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1491",
+        "N-1492"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1488",
+      "ref": "N-1488",
+      "name": "Fort Huachuca Erika Presence Investigation",
+      "type": "investigation_target",
+      "description": "Persistent investigation into whether Erika was present at Fort Huachuca on or around September 9 (the day before Charlie's assassination) and her broader familiarity with the base.",
+      "related_artifacts": [
+        "A-1635.1",
+        "A-1635.2"
+      ],
+      "related_claims": [
+        "C-2108",
+        "C-2111"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-729",
+        "N-733",
+        "N-734"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1489",
+      "ref": "N-1489",
+      "name": "November Renaissance Film Production Investigation",
+      "type": "investigation_target",
+      "description": "Investigation into the unreleased short film *November Renaissance*, its Fort Huapuca-affiliated cast and crew, its plot content (nanotechnology, corporate proxies), and Erika's reported role as \"Evelyn Mathis.\"",
+      "related_artifacts": [
+        "A-1635.1",
+        "A-1635.2",
+        "A-1635.3"
+      ],
+      "related_claims": [
+        "C-2108",
+        "C-2109",
+        "C-2110"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-729",
+        "N-733",
+        "N-734",
+        "N-735",
+        "N-736",
+        "N-737"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1490",
+      "ref": "N-1490",
+      "name": "Erika China Residence Discrepancy",
+      "type": "investigation_target",
+      "description": "Contradiction between Erika's on-air statement that she \"lived in China\" working with child sex-trafficking victims and Turning Point executive Justin Stripe's statement that she never lived there.",
+      "related_artifacts": [
+        "A-1636.1",
+        "A-1637.1"
+      ],
+      "related_claims": [
+        "C-2112",
+        "C-2113"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1491",
+      "ref": "N-1491",
+      "name": "Courage House Nevada Investigation",
+      "type": "investigation_target",
+      "description": "Investigation into the 40-acre Washoe County psychiatric residential treatment facility for child sex-trafficking survivors, its confidential location, capacity for 18 children, and Nelda Buckman's reported role as largest donor.",
+      "related_artifacts": [
+        "A-1640.1"
+      ],
+      "related_claims": [
+        "C-2118",
+        "C-2119"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-730",
+        "N-746"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1492",
+      "ref": "N-1492",
+      "name": "Buckman–TPUSA Donor Relationship Investigation",
+      "type": "investigation_target",
+      "description": "Investigation into the $10 million Buckman gift, Florida campus renaming, plane access, and Nelda Buckman's described post-assassination closeness with Erika.",
+      "related_artifacts": [
+        "A-1638.1",
+        "A-1638.2",
+        "A-1638.3"
+      ],
+      "related_claims": [
+        "C-2114",
+        "C-2115",
+        "C-2117"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-730",
+        "N-731",
+        "N-745",
+        "N-746"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1493",
+      "ref": "N-1493",
+      "name": "GATE / Gifted Education Program Investigation",
+      "type": "investigation_target",
+      "description": "Investigation into gifted-and-talented / \"Extraordinary Learners\" programs, DoD-connected youth programs (Aspen Education Group schools), and reported memory blackout / surveillance phenomena among self-identified alumni.",
+      "related_artifacts": [
+        "A-1642.1",
+        "A-1642.2"
+      ],
+      "related_claims": [
+        "C-2120"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-738",
+        "N-744"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1494",
+      "ref": "N-1494",
+      "name": "Identity Crisis Documentary Production Investigation",
+      "type": "investigation_target",
+      "description": "Investigation into the 2024 *Identity Crisis* documentary, its Daily Wire / Turning Point USA co-production, and Nelda Buckman's role as executive producer.",
+      "related_artifacts": [
+        "A-1639.1"
+      ],
+      "related_claims": [
+        "C-2116"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-730"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1495",
+      "ref": "N-1495",
+      "name": "Nick Fuentes Federal Informant Allegation",
+      "type": "investigation_target",
+      "description": "Persistent host allegation that Nick Fuentes operates as a federal informant, with new artifact support in this episode (audio clips re: Epstein / pedophilia framing).",
+      "related_artifacts": [
+        "A-1641.1",
+        "A-1641.2"
+      ],
+      "related_claims": [
+        "C-2118",
+        "C-2119",
+        "C-2122",
+        "C-2123"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-732",
+        "N-740",
+        "N-741",
+        "N-743"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2108",
+      "ref": "C-2108",
+      "label": "November Renaissance Cast/Crew Had Multiple Fort Huachuca or Military Connections",
+      "claim": "Multiple identified members of the *November Renaissance* cast — including Clayton Haugen, Don Frye, Payton McCormick, Chantel Thuy, and Price Mitchum — have documented connections to Fort Huachuca, U.S. military service, or defense contracting.",
+      "anchored_artifacts": [
+        "A-1635.1",
+        "A-1635.2"
+      ],
+      "related_nodes": [
+        "N-729",
+        "N-733",
+        "N-734",
+        "N-735",
+        "N-736",
+        "N-737",
+        "N-1488",
+        "N-1489",
+        "N-739",
+        "N-742"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:23–00:05:24",
+      "investigative_direction": "Obtain independent verification of military service records for named cast members and cross-reference Fort Huachuca duty rosters."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2109",
+      "ref": "C-2109",
+      "label": "November Renaissance Plot Describes Nanotechnology, Mind-as-Hard-Drive, and Corporate Proxy Operations",
+      "claim": "The publicly described plot of *November Renaissance* involves nanotechnology, a mind-as-hard-drive concept, and corporate-proxy black operations conducted on behalf of financial institutions and governments.",
+      "anchored_artifacts": [
+        "A-1635.2",
+        "A-1635.3"
+      ],
+      "related_nodes": [
+        "N-729",
+        "N-1489"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:16–00:10:12",
+      "investigative_direction": "Obtain and archive the full Kickstarter campaign text and director pitch video to preserve the complete concept description."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2110",
+      "ref": "C-2110",
+      "label": "Erika Was Cast as \"Evelyn Mathis\" in the November Renaissance Kickstarter Campaign",
+      "claim": "A remnant of the *November Renaissance* Kickstarter campaign publicly identifies Erika as having been cast in the role of \"Evelyn Mathis.\"",
+      "anchored_artifacts": [
+        "A-1635.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-729",
+        "N-1489"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:24",
+      "investigative_direction": "Archive the Kickstarter remnant directly and verify the character name against any backup poster or campaign screenshots."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2111",
+      "ref": "C-2111",
+      "label": "Three Independently-Sourced Fort Huachuca-Affiliated Individuals Report Having Seen Erika at the Base",
+      "claim": "Three individuals with Fort Huachuca affiliation — including one currently stationed there who publicly posted and then deleted a claim, a former service member who confirmed the post, and a third who reported a chat-room assertion that an order was given to lower drones on September 9 — report having seen Erika at Fort Huachuca.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-2",
+        "N-1488"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:15–00:14:14",
+      "investigative_direction": "Obtain sworn statements or on-record confirmation from each of the three named individuals and cross-reference against base access logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2112",
+      "ref": "C-2112",
+      "label": "Erika Publicly Stated She Lived in China Working with Child Sex Trafficking Victims",
+      "claim": "On a podcast, Erika stated she \"was living in China and doing a lot of work with the victims from sex trafficking\" before later transitioning to Marine Corps, Army, and Romanian-orphanage work.",
+      "anchored_artifacts": [
+        "A-1636.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1490"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:13–00:18:00",
+      "investigative_direction": "Identify and archive the original podcast episode; obtain dated publication and transcript; verify whether \"living\" is Erika's exact word or paraphrase."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2113",
+      "ref": "C-2113",
+      "label": "Turning Point Executive Justin Stripe Stated Erika Never Lived in China",
+      "claim": "Turning Point USA executive Justin Stripe replied to Candace Owens that Erika never lived in China and that she only went on a trip for a couple of weeks to see the Great Wall of China.",
+      "anchored_artifacts": [
+        "A-1637.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1490"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:47",
+      "investigative_direction": "Obtain the direct message or email text from Justin Stripe; if Stripe confirms on-record, request documentation of Erika's travel records during the disputed period."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2114",
+      "ref": "C-2114",
+      "label": "Buckmans Gave $10 Million to Turning Point USA; Florida HQ Renamed Buckman Campus",
+      "claim": "Karl and Nelda Buckman gave a $10 million gift to Turning Point USA — described as the largest in the organization's history — and the Florida campus was renamed the \"Buckman campus\" in connection with the donation.",
+      "anchored_artifacts": [
+        "A-1638.1"
+      ],
+      "related_nodes": [
+        "N-730",
+        "N-731",
+        "N-1492"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:05–00:21:00",
+      "investigative_direction": "Obtain Daily Wire's article text and any Turning Point USA press release; verify gift amount and naming date against 990 filings or press archives."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2115",
+      "ref": "C-2115",
+      "label": "Nelda Buckman Described Close Post-Assassination Relationship with Erika Including Private Florida Meeting",
+      "claim": "In a January 2026 Daily Wire Plus interview, Nelda Buckman described a close post-assassination relationship with Erika, including a private meeting in Florida ahead of America Fest and a dedication ceremony, and stated that Buckman offered Erika \"personal support\" about navigating her role as a single mother leading Turning Point.",
+      "anchored_artifacts": [
+        "A-1638.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-730",
+        "N-1492"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:00–00:22:00",
+      "investigative_direction": "Obtain the full Daily Wire Plus interview text; verify date and any documentation of the Florida meeting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2116",
+      "ref": "C-2116",
+      "label": "Nelda Buckman Is Executive Producer of the Identity Crisis Documentary",
+      "claim": "Nelda Buckman is an executive producer of *Identity Crisis*, a 2024 documentary on gender announced on stage by Ben Shapiro as a Daily Wire / Turning Point USA collaboration.",
+      "anchored_artifacts": [
+        "A-1639.1"
+      ],
+      "related_nodes": [
+        "N-730",
+        "N-1494"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:46",
+      "investigative_direction": "Verify Buckman's credit against the film's production filings (e.g., IMDb, registered producer credits, copyright registrations)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2117",
+      "ref": "C-2117",
+      "label": "Plane Formerly Used by Charlie, Now Used by Erika, Has Visited New Braunfels TX and Idaho",
+      "claim": "Baron Coleman and a \"mommy sleuth\" investigator reported that the plane formerly used by Charlie and now appearing to be Erika's has visited New Braunfels, Texas and a location in Idaho; host states these locations correspond to top Turning Point USA donors.",
+      "anchored_artifacts": [
+        "A-1638.3"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-745",
+        "N-746",
+        "N-1492"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:20",
+      "investigative_direction": "Obtain tail-number records and cross-reference flight logs (ADS-B / FlightAware) against donor locations."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2118",
+      "ref": "C-2118",
+      "label": "Nick Fuentes Publicly Stated Epstein Conduct with \"Barely Legal Teens\" Was \"Not Really Pedophilia\"",
+      "claim": "In a clip aired on the episode, Nick Fuentes stated regarding Jeffrey Epstein that \"it isn't really pedophilia\" because \"they weren't trafficking 5-year-olds, it was like they were technically not legal\" and characterized the victims as \"barely legal teens.\"",
+      "anchored_artifacts": [
+        "A-1641.1"
+      ],
+      "related_nodes": [
+        "N-732",
+        "N-1495"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:23–00:39:06",
+      "investigative_direction": "Obtain the unedited source clip with timestamp and channel identification to verify wording and context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2119",
+      "ref": "C-2119",
+      "label": "Nick Fuentes Reframed the Epstein Issue as \"Political Blackmail\" Rather Than Pedophilia",
+      "claim": "In a follow-up clip aired on the episode, Nick Fuentes stated the Epstein story is \"not satanic pedophilia cult stuff\" but \"run-of-the-mill prostitution and sex trafficking but for an international political purpose\" and dismissed it as \"Dateline\" rather than a \"human interest story.\"",
+      "anchored_artifacts": [
+        "A-1641.2"
+      ],
+      "related_nodes": [
+        "N-732",
+        "N-1495"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:23–00:44:18",
+      "investigative_direction": "Obtain unedited source clip and verify the framing in the original Fuentes broadcast context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2120",
+      "ref": "C-2120",
+      "label": "Nika Commenter Reports Memory Blackout Ages 4–10 at Fort Hood and Attendance at Schools Linked via Aspen Education Group",
+      "claim": "A commenter identifying as \"Nika\" and as a \"gate kid\" reports a \"total memory blackout from ages 4 to 10,\" the exact years stationed at Fort Hood, and that after the Army she was \"shuffled through four different schools\" connected to the DoD through the Aspen Education Group, naming Turnabout Ranch (Escalante, UT), New Horizons Academy (Marion, IN — closed for abuse), Missanabie Woods Academy (Canada), Darlington (Rome, GA), and a Texas school.",
+      "anchored_artifacts": [
+        "A-1642.1"
+      ],
+      "related_nodes": [
+        "N-744",
+        "N-1493"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:05–00:55:26",
+      "investigative_direction": "Verify Aspen Education Group corporate lineage; obtain Nika's FOIA records if available; cross-reference named schools against public abuse litigation."
+    }
+  ],
+  "memes": []
+}

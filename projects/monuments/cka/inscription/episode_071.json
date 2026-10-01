@@ -1,0 +1,1085 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 71,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "97c9fdd97666fe21235e0b78f317b571904b8f5954ceecd3a37e07ce8587fefb",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1750",
+      "family_ref": "A-1750",
+      "bundle_name": "Nielsen Ratings Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1750.1",
+          "ref": "A-1750.1",
+          "description": "Nielsen Super Bowl Viewership Data",
+          "related_claims": [
+            "C-2326"
+          ],
+          "related_nodes": [
+            "N-910"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1751",
+      "family_ref": "A-1751",
+      "bundle_name": "Andrew Kolvet Interview Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1751.1",
+          "ref": "A-1751.1",
+          "description": "Brian Kilmeade Interview with Andrew Kolvet on TPUSA Halftime Viewership",
+          "related_claims": [
+            "C-2327",
+            "C-2328",
+            "C-2329"
+          ],
+          "related_nodes": [
+            "N-910"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:37–00:10:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1752",
+      "family_ref": "A-1752",
+      "bundle_name": "TPUSA Halftime YouTube Screenshot Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1752.1",
+          "ref": "A-1752.1",
+          "description": "TPUSA Halftime YouTube Page Screenshot",
+          "related_claims": [
+            "C-2330"
+          ],
+          "related_nodes": [
+            "N-1570"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1753",
+      "family_ref": "A-1753",
+      "bundle_name": "Top YouTube Live Streams Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1753.1",
+          "ref": "A-1753.1",
+          "description": "Top YouTube Concurrent Live Streams Reference List",
+          "related_claims": [
+            "C-2331",
+            "C-2332"
+          ],
+          "related_nodes": [
+            "N-1570"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:41–00:12:58",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1754",
+      "family_ref": "A-1754",
+      "bundle_name": "Erica Kirk Widow Address Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1754.1",
+          "ref": "A-1754.1",
+          "description": "Erica Kirk Widow Address on Charlie Kirk YouTube Channel",
+          "related_claims": [
+            "C-2333"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1755",
+      "family_ref": "A-1755",
+      "bundle_name": "Candace \"Letter to Erika\" Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1755.1",
+          "ref": "A-1755.1",
+          "description": "Candace \"Letter to Erika\" YouTube Video",
+          "related_claims": [
+            "C-2334"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1756",
+      "family_ref": "A-1756",
+      "bundle_name": "TPUSA Halftime Show Page Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1756.1",
+          "ref": "A-1756.1",
+          "description": "Turning Point USA All-American Halftime Show YouTube Page",
+          "related_claims": [
+            "C-2335"
+          ],
+          "related_nodes": [
+            "N-1570"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1757",
+      "family_ref": "A-1757",
+      "bundle_name": "Thomas Martin Online Profiles Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1757.1",
+          "ref": "A-1757.1",
+          "description": "Thomas Martin LinkedIn Profile (Director, US Border Patrol)",
+          "related_claims": [
+            "C-2336"
+          ],
+          "related_nodes": [
+            "N-907",
+            "N-1568"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:59",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1757.2",
+          "ref": "A-1757.2",
+          "description": "Thomas Martin ZoomInfo Listing (Deputy Chief Patrol Agent, DHS)",
+          "related_claims": [
+            "C-2337"
+          ],
+          "related_nodes": [
+            "N-907",
+            "N-1568"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1758",
+      "family_ref": "A-1758",
+      "bundle_name": "1985 Times Union Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1758.1",
+          "ref": "A-1758.1",
+          "description": "1985 Times Union Article on Sanctuary Movement Trial",
+          "related_claims": [
+            "C-2338",
+            "C-2339"
+          ],
+          "related_nodes": [
+            "N-907",
+            "N-1568"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:02–00:24:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1759",
+      "family_ref": "A-1759",
+      "bundle_name": "Tracy Martin Text Messages Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1759.1",
+          "ref": "A-1759.1",
+          "description": "Tracy Martin Text Messages from September 11",
+          "related_claims": [
+            "C-2340",
+            "C-2341"
+          ],
+          "related_nodes": [
+            "N-906",
+            "N-908",
+            "N-1569"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1760",
+      "family_ref": "A-1760",
+      "bundle_name": "Religious Liberty Commission Hearing Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1760.1",
+          "ref": "A-1760.1",
+          "description": "Seth Dillon Testimony at Religious Liberty Commission Hearing",
+          "related_claims": [
+            "C-2342",
+            "C-2343",
+            "C-2344",
+            "C-2345"
+          ],
+          "related_nodes": [
+            "N-909",
+            "N-1571"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:34–00:40:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1760.2",
+          "ref": "A-1760.2",
+          "description": "Carrie Prejean Bowler Questioning of Seth Dillon at Religious Liberty Commission Hearing",
+          "related_claims": [
+            "C-2346"
+          ],
+          "related_nodes": [
+            "N-909"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:24–00:32:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1761",
+      "family_ref": "A-1761",
+      "bundle_name": "Tyler Bowyer Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1761.1",
+          "ref": "A-1761.1",
+          "description": "Tyler Bowyer Tweet on TPUSA YouTube Concurrent Live Streams",
+          "related_claims": [
+            "C-2347"
+          ],
+          "related_nodes": [
+            "N-1570"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1762",
+      "family_ref": "A-1762",
+      "bundle_name": "Comments Section Read Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1762.1",
+          "ref": "A-1762.1",
+          "description": "Top Comments from Previous Episode (\"Dear Erika\")",
+          "related_claims": [
+            "C-2348",
+            "C-2349",
+            "C-2350"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:33–00:50:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-906",
+      "ref": "N-906",
+      "name": "Tracy Martin",
+      "type": "person",
+      "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
+      "related_artifacts": [
+        "A-1759.1"
+      ],
+      "related_claims": [
+        "C-2340",
+        "C-2341"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-907",
+        "N-908",
+        "N-1568",
+        "N-1569"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-907",
+      "ref": "N-907",
+      "name": "Thomas Martin (Tucson Border Patrol Director)",
+      "type": "person",
+      "description": "Director / Deputy Chief Patrol Agent with US Border Patrol / DHS in Tucson since at least 1985; potentially same person as Tracy Martin's husband.",
+      "related_artifacts": [
+        "A-1757.1",
+        "A-1757.2",
+        "A-1758.1"
+      ],
+      "related_claims": [
+        "C-2336",
+        "C-2337",
+        "C-2338",
+        "C-2339"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-906",
+        "N-1568"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-908",
+      "ref": "N-908",
+      "name": "Tracy Martin's Daughter (Unnamed)",
+      "type": "person",
+      "description": "Allegedly Erica Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.",
+      "related_artifacts": [
+        "A-1759.1"
+      ],
+      "related_claims": [
+        "C-2340",
+        "C-2341"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-906",
+        "N-2",
+        "N-1569"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-909",
+      "ref": "N-909",
+      "name": "Carrie Prejean Bowler",
+      "type": "person",
+      "description": "Questioner of Seth Dillon at the Religious Liberty Commission hearing on antisemitism; Catholic activist.",
+      "related_artifacts": [
+        "A-1760.2"
+      ],
+      "related_claims": [
+        "C-2346"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-910",
+      "ref": "N-910",
+      "name": "Brian Kilmeade",
+      "type": "person",
+      "description": "Interviewer of Andrew Kolvet on TPUSA halftime viewership.",
+      "related_artifacts": [
+        "A-1750.1",
+        "A-1751.1"
+      ],
+      "related_claims": [
+        "C-2327",
+        "C-2328",
+        "C-2329"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1568",
+      "ref": "N-1568",
+      "name": "Thomas Martin Identity Verification",
+      "type": "investigation_target",
+      "description": "Open question: Is the Thomas Martin identified as Director / Deputy Chief Patrol Agent with US Border Patrol / DHS in Tucson (since at least 1985) the same person as Tracy Martin's husband Thomas Martin?",
+      "related_artifacts": [
+        "A-1757.1",
+        "A-1757.2",
+        "A-1758.1"
+      ],
+      "related_claims": [
+        "C-2336",
+        "C-2337",
+        "C-2338",
+        "C-2339"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-906",
+        "N-907"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1569",
+      "ref": "N-1569",
+      "name": "Tracy's Daughter Erika Assistant Status Verification",
+      "type": "investigation_target",
+      "description": "Open question: Is Tracy Martin's daughter actually Erica Kirk's assistant, and was she actually scheduled to attend UVU on September 10, 2025?",
+      "related_artifacts": [
+        "A-1759.1"
+      ],
+      "related_claims": [
+        "C-2340",
+        "C-2341"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-906",
+        "N-908",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1570",
+      "ref": "N-1570",
+      "name": "TPUSA Halftime Viewership Authenticity",
+      "type": "investigation_target",
+      "description": "Investigative target: The discrepancy between Andrew Kolvet's claimed TPUSA halftime viewership metrics (6M–20M+ concurrent) and the YouTube screenshot metrics (5,839 views / 175 comments / 667,000 likes), plus the comment-to-view ratio anomaly.",
+      "related_artifacts": [
+        "A-1751.1",
+        "A-1752.1",
+        "A-1753.1",
+        "A-1756.1",
+        "A-1761.1"
+      ],
+      "related_claims": [
+        "C-2327",
+        "C-2328",
+        "C-2329",
+        "C-2330",
+        "C-2335",
+        "C-2347"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1571",
+      "ref": "N-1571",
+      "name": "Hamptons Meeting Characterization Evolution",
+      "type": "investigation_target",
+      "description": "Investigative target: Evolution in Seth Dillon's characterization of the Hamptons meeting, from prior \"spirited debate\" framing to current on-the-record admission of \"heated\" debate about Israel.",
+      "related_artifacts": [
+        "A-1760.1"
+      ],
+      "related_claims": [
+        "C-2343",
+        "C-2344",
+        "C-2345"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-909"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2326",
+      "ref": "C-2326",
+      "label": "Nielsen Super Bowl Viewership Increase During Halftime",
+      "claim": "Nielsen estimates 128 million viewers watched the Super Bowl game, increasing to 135 million during the halftime performance.",
+      "anchored_artifacts": [
+        "A-1750.1"
+      ],
+      "related_nodes": [
+        "N-910"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:06",
+      "investigative_direction": "Obtain primary Nielsen release or interim report to confirm the 128M / 135M figures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2327",
+      "ref": "C-2327",
+      "label": "Kolvet Initial Six Million Concurrent YouTube Claim",
+      "claim": "Andrew Kolvet stated the TPUSA halftime show drew 6 million concurrent YouTube viewers.",
+      "anchored_artifacts": [
+        "A-1751.1"
+      ],
+      "related_nodes": [
+        "N-910",
+        "N-1570"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:37–00:09:39",
+      "investigative_direction": "Cross-reference Kolvet's interview statement against any contemporaneous social media archives or third-party tracking data."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2328",
+      "ref": "C-2328",
+      "label": "Kolvet Ten Million Concurrent Across Social Claim",
+      "claim": "Andrew Kolvet stated TPUSA saw \"over 10 million concurrent views\" across all social channels (Rumble plus partners).",
+      "anchored_artifacts": [
+        "A-1751.1"
+      ],
+      "related_nodes": [
+        "N-910",
+        "N-1570"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:37–00:09:39",
+      "investigative_direction": "Verify whether the 10M figure is supported by any third-party analytics for Rumble or YouTube."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2329",
+      "ref": "C-2329",
+      "label": "Kolvet Twenty Million Total Across Social Claim",
+      "claim": "Andrew Kolvet stated TPUSA had \"over 20 million viewers across just social\" for the halftime show.",
+      "anchored_artifacts": [
+        "A-1751.1"
+      ],
+      "related_nodes": [
+        "N-910",
+        "N-1570"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:37–00:09:39",
+      "investigative_direction": "Verify the 20M aggregate figure against partner broadcaster analytics if/when released."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2330",
+      "ref": "C-2330",
+      "label": "TPUSA Halftime YouTube Screenshot Metrics",
+      "claim": "A YouTube screenshot of the TPUSA halftime show page displayed 5,839 views, 175 comments, and 667,000 likes.",
+      "anchored_artifacts": [
+        "A-1752.1"
+      ],
+      "related_nodes": [
+        "N-1570"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:39",
+      "investigative_direction": "Archive the YouTube page and timestamp the screenshot for ratio analysis."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2331",
+      "ref": "C-2331",
+      "label": "India Moon Mission Top YouTube Live Stream",
+      "claim": "Per the displayed reference list, an Indian moon mission event held the top YouTube concurrent live stream at 8 million viewers.",
+      "anchored_artifacts": [
+        "A-1753.1"
+      ],
+      "related_nodes": [
+        "N-1570"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:41–00:12:58",
+      "investigative_direction": "Verify the 8M figure against YouTube's official records or contemporaneous reporting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2332",
+      "ref": "C-2332",
+      "label": "2022 World Cup Second on YouTube Live Streams List",
+      "claim": "Per the displayed reference list, the 2022 World Cup Brazil vs Croatia match held the second-place position with 6.1 million concurrent YouTube viewers.",
+      "anchored_artifacts": [
+        "A-1753.1"
+      ],
+      "related_nodes": [
+        "N-1570"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:41–00:12:58",
+      "investigative_direction": "Verify the 6.1M figure against YouTube's official records or contemporaneous reporting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2333",
+      "ref": "C-2333",
+      "label": "Erica Kirk Widow Address View Counts",
+      "claim": "Erica Kirk's widow address video on Charlie Kirk's YouTube channel has approximately 4.1 million views and 36,000 comments.",
+      "anchored_artifacts": [
+        "A-1754.1"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:10",
+      "investigative_direction": "Verify current YouTube view and comment counts on the Charlie Kirk channel."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2334",
+      "ref": "C-2334",
+      "label": "Candace \"Letter to Erika\" View Counts",
+      "claim": "Candace Owens' \"Letter to Erika\" YouTube video has approximately 3.1 million views and 28,000 comments.",
+      "anchored_artifacts": [
+        "A-1755.1"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:12",
+      "investigative_direction": "Verify current YouTube view and comment counts on Candace Owens' channel."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2335",
+      "ref": "C-2335",
+      "label": "TPUSA Halftime Show View-to-Comment Ratio",
+      "claim": "The TPUSA halftime show YouTube page reportedly has over 20 million views but only 46,000 comments.",
+      "anchored_artifacts": [
+        "A-1756.1"
+      ],
+      "related_nodes": [
+        "N-1570"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:12",
+      "investigative_direction": "Re-check current YouTube view and comment counts; compute ratio comparison against authentic videos of similar scale."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2336",
+      "ref": "C-2336",
+      "label": "Thomas Martin LinkedIn Profile",
+      "claim": "A LinkedIn profile lists Thomas Martin as Director, US Border Patrol, with location in the Greater Tucson area.",
+      "anchored_artifacts": [
+        "A-1757.1"
+      ],
+      "related_nodes": [
+        "N-907",
+        "N-1568"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:59",
+      "investigative_direction": "Attempt to retrieve LinkedIn snapshot via archive; cross-check against federal personnel directories."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2337",
+      "ref": "C-2337",
+      "label": "Thomas Martin ZoomInfo DHS Profile",
+      "claim": "A ZoomInfo listing shows Thomas Martin as Deputy Chief Patrol Agent at the Department of Homeland Security, with 9 years in Customs and Border Protection.",
+      "anchored_artifacts": [
+        "A-1757.2"
+      ],
+      "related_nodes": [
+        "N-907",
+        "N-1568"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:02",
+      "investigative_direction": "Retrieve ZoomInfo archive; cross-check federal personnel records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2338",
+      "ref": "C-2338",
+      "label": "Thomas Martin as 1985 Border Patrol Agent",
+      "claim": "A 1985 Times Union article identifies agent Thomas Martin of the Border Patrol in Tucson in the context of the sanctuary movement trial.",
+      "anchored_artifacts": [
+        "A-1758.1"
+      ],
+      "related_nodes": [
+        "N-907",
+        "N-1568"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:02–00:24:12",
+      "investigative_direction": "Obtain full text of the 1985 Times Union article and verify Thomas Martin's role and tenure."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2339",
+      "ref": "C-2339",
+      "label": "Thomas Martin 1985 Memo on Church Invasions",
+      "claim": "In the 1985 article, Thomas Martin is quoted writing to superiors about avoiding \"border patrol baiting\" related to invading churches.",
+      "anchored_artifacts": [
+        "A-1758.1"
+      ],
+      "related_nodes": [
+        "N-907",
+        "N-1568"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:02–00:24:12",
+      "investigative_direction": "Obtain full text and verify direct quote attribution."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2340",
+      "ref": "C-2340",
+      "label": "Tracy's Daughter Scheduled at UVU September 10",
+      "claim": "Per Tracy Martin's text messages from September 11, Tracy's daughter (allegedly Erica Kirk's assistant) was scheduled to attend UVU on September 10, 2025.",
+      "anchored_artifacts": [
+        "A-1759.1"
+      ],
+      "related_nodes": [
+        "N-906",
+        "N-908",
+        "N-1569",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:52",
+      "investigative_direction": "Authenticate text messages; verify daughter's attendance plans through UVU records or eyewitnesses."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2341",
+      "ref": "C-2341",
+      "label": "Tracy's Bad Feeling Stopped Daughter from UVU",
+      "claim": "Per Tracy Martin's text messages, Tracy had a \"bad feeling\" about September 10 and stopped her daughter from attending UVU.",
+      "anchored_artifacts": [
+        "A-1759.1"
+      ],
+      "related_nodes": [
+        "N-906",
+        "N-908",
+        "N-1569"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:52",
+      "investigative_direction": "Authenticate text messages; cross-reference with daughter's subsequent statements or activities."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2342",
+      "ref": "C-2342",
+      "label": "Seth Dillon Religious Liberty Commission Testimony",
+      "claim": "Seth Dillon testified at a Religious Liberty Commission hearing on antisemitism.",
+      "anchored_artifacts": [
+        "A-1760.1"
+      ],
+      "related_nodes": [
+        "N-909",
+        "N-1571"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:34–00:40:02",
+      "investigative_direction": "Obtain official hearing transcript or recording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2343",
+      "ref": "C-2343",
+      "label": "Seth Dillon Hamptons \"Save the West\" Characterization",
+      "claim": "Seth Dillon characterized the Hamptons retreat as having a \"save the West\" theme with primary focus on \"the threat of Islam.\"",
+      "anchored_artifacts": [
+        "A-1760.1"
+      ],
+      "related_nodes": [
+        "N-1571"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:44–00:36:06",
+      "investigative_direction": "Cross-reference with prior Hamptons participants' public statements and any contemporaneous notes."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2344",
+      "ref": "C-2344",
+      "label": "Seth Dillon Hamptons Heated Debate Admission",
+      "claim": "Seth Dillon admitted the Hamptons meeting included \"heated and spirited debate about the issue of Israel.\"",
+      "anchored_artifacts": [
+        "A-1760.1"
+      ],
+      "related_nodes": [
+        "N-1571"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:13–00:36:06",
+      "investigative_direction": "Compare admission against earlier public statements by Hamptons participants and Charlie Kirk's own descriptions."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2345",
+      "ref": "C-2345",
+      "label": "Seth Dillon Charlie-Originated Debate Claim",
+      "claim": "Seth Dillon claimed Charlie Kirk himself initiated the Israel discussion at the Hamptons meeting.",
+      "anchored_artifacts": [
+        "A-1760.1"
+      ],
+      "related_nodes": [
+        "N-1571",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:13–00:36:06",
+      "investigative_direction": "Cross-reference with Charlie Kirk's own public statements about the Hamptons meeting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2346",
+      "ref": "C-2346",
+      "label": "Carrie Prejean Bowler Questioned Seth Dillon",
+      "claim": "Carrie Prejean Bowler questioned Seth Dillon at the Religious Liberty Commission hearing regarding antisemitism and the Hamptons meeting.",
+      "anchored_artifacts": [
+        "A-1760.2"
+      ],
+      "related_nodes": [
+        "N-909",
+        "N-1571"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:24–00:32:50",
+      "investigative_direction": "Obtain full hearing transcript."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2347",
+      "ref": "C-2347",
+      "label": "Tyler Bowyer TPUSA Concurrent Stream Tweet",
+      "claim": "Tyler Bowyer tweeted that TPUSA ended up with \"one of the largest YouTube concurrent live streams in history.\"",
+      "anchored_artifacts": [
+        "A-1761.1"
+      ],
+      "related_nodes": [
+        "N-1570"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:44",
+      "investigative_direction": "Archive the original tweet and any associated image; verify whether it remains public."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2348",
+      "ref": "C-2348",
+      "label": "AO Comment on Erika Lights Flickering Confirmation",
+      "claim": "Commenter \"AO\" states there is a clip of Erika speaking to Megan Kelly that confirms Candace Owens' recollection of lights flickering near Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-1762.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:33–00:50:47",
+      "investigative_direction": "Locate the referenced clip of Erika Kirk speaking to Megan Kelly."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2349",
+      "ref": "C-2349",
+      "label": "GN2176 Book Comparison Comment",
+      "claim": "Commenter GN2176 states that the Charlie Kirk story resembles \"a book being written about Charlie Kirk's trial leading up to a September 10th execution like St. Thomas More.\"",
+      "anchored_artifacts": [
+        "A-1762.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:33–00:50:47",
+      "investigative_direction": "Verify any actual book project matching this description."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2350",
+      "ref": "C-2350",
+      "label": "Charlie Kirk Parents Have Not Reached Out to Candace",
+      "claim": "Per host statement read aloud from comment thread context, Charlie Kirk's parents have not reached out to Candace Owens to validate her investigation, though they have historically been private.",
+      "anchored_artifacts": [
+        "A-1762.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:37",
+      "investigative_direction": "Verify through any other public statements from Charlie Kirk's parents or family representatives."
+    }
+  ],
+  "memes": []
+}

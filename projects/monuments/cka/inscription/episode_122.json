@@ -1,0 +1,1015 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 122,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "80c78af8806a54fe976848d2fa3b81e764734789b67b8f5aaf8e2423a2666f0c",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2104",
+      "family_ref": "A-2104",
+      "bundle_name": "Maroon Shirt Audience Photograph Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2104.1",
+          "ref": "A-2104.1",
+          "description": "Photograph series of maroon-shirted men alone in the audience",
+          "related_claims": [
+            "C-2969"
+          ],
+          "related_nodes": [
+            "N-2094"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:03–00:04:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2104.2",
+          "ref": "A-2104.2",
+          "description": "Video clip of a man holding only a maroon shirt in the moments after the shot",
+          "related_claims": [
+            "C-2970"
+          ],
+          "related_nodes": [
+            "N-2094"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:49",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2105",
+      "family_ref": "A-2105",
+      "bundle_name": "David Sprag Audience Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2105.1",
+          "ref": "A-2105.1",
+          "description": "Video clip of David Sprag standing and appearing to cheer after the shot",
+          "related_claims": [
+            "C-2971"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2105.2",
+          "ref": "A-2105.2",
+          "description": "Video clip of David Sprag and companion standing under umbrellas at the event",
+          "related_claims": [
+            "C-2972"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2106",
+      "family_ref": "A-2106",
+      "bundle_name": "James Rawlinson X Audio Statement",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2106.1",
+          "ref": "A-2106.1",
+          "description": "Audio clip from X of James Rawlinson claiming service in 19th Special Forces, maroon beret, FBI contact, and observations on scene",
+          "related_claims": [
+            "C-2973",
+            "C-2974",
+            "C-2975"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2107",
+      "family_ref": "A-2107",
+      "bundle_name": "Romania Deployment Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2107.1",
+          "ref": "A-2107.1",
+          "description": "Article identifying Mihail Kogălniceanu air base (Constanta) as location of Task Force 82 operations",
+          "related_claims": [
+            "C-2976"
+          ],
+          "related_nodes": [
+            "N-2095",
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2107.2",
+          "ref": "A-2107.2",
+          "description": "Photograph allegedly showing James Rawlinson in Romania in 2023 wearing maroon beret",
+          "related_claims": [
+            "C-2977"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2108",
+      "family_ref": "A-2108",
+      "bundle_name": "Mossad 60 Minutes Interview Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2108.1",
+          "ref": "A-2108.1",
+          "description": "Audio clip from 60 Minutes interview of former Mossad agents describing Israeli operations as a \"Truman Show\" / \"global production company\"",
+          "related_claims": [
+            "C-2978"
+          ],
+          "related_nodes": [
+            "N-2102"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:08",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2109",
+      "family_ref": "A-2109",
+      "bundle_name": "Frank Turek Podcast Audio Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2109.1",
+          "ref": "A-2109.1",
+          "description": "Audio clip of Frank Turek on a podcast claiming no exit wound on back of neck and that CPR was performed in the car",
+          "related_claims": [
+            "C-2979",
+            "C-2980"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2097"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Audience attendee identified post-event; subject of host's investigative focus due to claimed military background and alleged Romania deployment.",
+      "related_artifacts": [
+        "A-2105.1",
+        "A-2105.2",
+        "A-2106.1",
+        "A-2107.1",
+        "A-2107.2"
+      ],
+      "related_claims": [
+        "C-2971",
+        "C-2972",
+        "C-2973",
+        "C-2974",
+        "C-2975",
+        "C-2976",
+        "C-2977"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Listed as having been in the car transporting Charlie Kirk; now contradicting Brian Harpole's account of CPR and wound observations.",
+      "related_artifacts": [
+        "A-2109.1"
+      ],
+      "related_claims": [
+        "C-2979",
+        "C-2980"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2097"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Founder of MC2 modeling agency; alleged co-founder of Next Model Corporation; deceased subject of trafficking investigations.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1220",
+        "N-2096"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Operator of Next Model Management; alleged co-founder with Jean-Luc Brunel.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2096"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Identified as Nevada National Guard lieutenant colonel (military police); deployed to Romania in same timeframe as Rawlinson.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1212",
+        "N-2095"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Identified as brother of Curtis Colvett.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1211"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Witness whose account of wound location shifted; family identified as connected to 911 dispatch services and Carbyne (Ehud Barak).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2098"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Identified as having been in the Executive Office Building (Washington, D.C.) during apparent Charlie Kirk Show appearance.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2099"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Tyler Robinson's alleged roommate; suspected by host of being the maroon-shirted individual in audience footage; suspected by host of having set up Tyler Robinson.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2983",
+        "C-2984"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2100",
+        "N-2101"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Subject of FOIA request for travel schedule September 7-10.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2098"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Former \"senior consultant to the Department of War\"; identified by host as having moved to Arizona to work with Turning Point USA on information warfare.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2102"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Identified as last person to mic Charlie Kirk; father's global ministry in Romania referenced.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2095"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "Identified as Jean-Luc Brunel's brother and co-founder of Next Model Corporation.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1209",
+        "N-2096"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1221",
+      "ref": "N-1221",
+      "name": "Autopsy Record – Utah Privacy Statute Application",
+      "type": "investigation_target",
+      "description": "Host cites his show as source for the maroon beret / Rawlinson connection.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2094",
+      "ref": "N-2094",
+      "name": "Maroon Shirt Audience Identification",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: identification of individuals in maroon shirts in the September 10 audience and their organizational affiliations.",
+      "related_artifacts": [
+        "A-2104.1",
+        "A-2104.2"
+      ],
+      "related_claims": [
+        "C-2969",
+        "C-2970"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2095",
+      "ref": "N-2095",
+      "name": "19th Special Forces / Utah-Romania Deployment Pattern",
+      "type": "investigation_target",
+      "description": "Investigative target: convergence of multiple identified individuals (Rawlinson, Curtis Colvett, Tyler Bowyer, Philip Goldsberry Jr.) on Romanian military / charitable operations.",
+      "related_artifacts": [
+        "A-2107.1"
+      ],
+      "related_claims": [
+        "C-2976"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-1211",
+        "N-85",
+        "N-1219"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2096",
+      "ref": "N-2096",
+      "name": "Next Model Management / MC2 Trafficking Connection to Erica Kirk",
+      "type": "investigation_target",
+      "description": "Investigative target: allegation that Erica Kirk was involved in \"modeling apartments\" for Next Model Management and MC2 during the period covered by pending trafficking litigation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2981"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1209",
+        "N-1210",
+        "N-1220",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2097",
+      "ref": "N-2097",
+      "name": "Brian Harpole vs Frank Turek CPR Contradiction",
+      "type": "investigation_target",
+      "description": "Investigative target: contradiction between Brian Harpole's prior podcast statements (no CPR performed) and Frank Turek's prior podcast statements (CPR was performed, no exit wound on back of neck).",
+      "related_artifacts": [
+        "A-2109.1"
+      ],
+      "related_claims": [
+        "C-2979",
+        "C-2980"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2098",
+      "ref": "N-2098",
+      "name": "Pending FOIA Requests",
+      "type": "investigation_target",
+      "description": "Investigative target: cluster of FOIA requests filed by host's team — NSA (Erica emotional asset email), DHS/Secret Service/EOP (WAVES entries), FBI (Kash Patel schedule), FBI plane flight logs, Bradley Hansell travel schedule September 7-10.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2982"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1213",
+        "N-1216"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2099",
+      "ref": "N-2099",
+      "name": "Andrew Kolbenschlag EEOB Presence / Kash Patel Connection",
+      "type": "investigation_target",
+      "description": "Investigative target: verification of Kolbenschlag's location (EEOB vs Arizona) and meeting attendees on day of pre-recorded Kirk Show appearance.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2985"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2100",
+      "ref": "N-2100",
+      "name": "Lance Twiggs Maroon Shirt Identification",
+      "type": "investigation_target",
+      "description": "Investigative target: identification of Lance Twiggs as the maroon-shirted individual visible in audience footage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2983"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1215"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2101",
+      "ref": "N-2101",
+      "name": "Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
+      "type": "investigation_target",
+      "description": "Investigative target: host's theory that Tyler Robinson was set up by Lance Twiggs and is not the actual shooter.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2984"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1215"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2102",
+      "ref": "N-2102",
+      "name": "Mossad \"Truman Show\" Analogy Application",
+      "type": "investigation_target",
+      "description": "Investigative target: application of the 60 Minutes Mossad agents' description of Israeli operations as a \"Truman Show\" production to the Charlie Kirk assassination.",
+      "related_artifacts": [
+        "A-2108.1"
+      ],
+      "related_claims": [
+        "C-2978"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1217"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Governor Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2969",
+      "ref": "C-2969",
+      "label": "Photograph series shows multiple young men wearing maroon shirts alone in the September 10 audience",
+      "claim": "A series of photographs displayed during the episode depicts multiple young men in maroon shirts standing alone in the Charlie Kirk event audience on September 10.",
+      "anchored_artifacts": [
+        "A-2104.1"
+      ],
+      "related_nodes": [
+        "N-2094"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:03",
+      "investigative_direction": "Cross-reference photographs with attendee registration, social media, and military records to identify individuals."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2970",
+      "ref": "C-2970",
+      "label": "Video clip shows a man holding only a maroon shirt in the moments after the shooting",
+      "claim": "A video clip displayed during the episode shows a man fumbling among a group while holding a maroon shirt (not wearing it) in the moments after the shot.",
+      "anchored_artifacts": [
+        "A-2104.2"
+      ],
+      "related_nodes": [
+        "N-2094"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:49",
+      "investigative_direction": "Obtain full uncirculated video footage from multiple angles to confirm and identify the individual."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2971",
+      "ref": "C-2971",
+      "label": "Video clip shows David Sprag standing and appearing to cheer after the shot",
+      "claim": "A video clip displayed during the episode shows David Sprag (James Norman Rawlinson Jr.) standing and appearing to cheer shortly after the gunshot.",
+      "anchored_artifacts": [
+        "A-2105.1"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:15",
+      "investigative_direction": "Cross-reference the clip with public statements by Rawlinson and with the FBI interview he claims to have given."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2972",
+      "ref": "C-2972",
+      "label": "Video clip shows David Sprag and a companion standing under umbrellas at the event",
+      "claim": "A video clip displayed during the episode shows David Sprag and an unidentified companion standing together under umbrellas while Charlie Kirk's event begins.",
+      "anchored_artifacts": [
+        "A-2105.2"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:09",
+      "investigative_direction": "Identify the second individual and confirm umbrellas' purpose and provenance."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2973",
+      "ref": "C-2973",
+      "label": "James Rawlinson stated on X that he served in the 19th Special Forces and wore a maroon beret",
+      "claim": "An audio clip from James Rawlinson's X account, played during the episode, contains his claim that he served in the 19th Special Forces and wore a maroon beret.",
+      "anchored_artifacts": [
+        "A-2106.1"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:46",
+      "investigative_direction": "Verify Rawlinson's military service record against official DoD / National Guard records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2974",
+      "ref": "C-2974",
+      "label": "James Rawlinson stated on X that he has spoken to the FBI",
+      "claim": "The same X audio clip contains Rawlinson's statement that he has already talked to the FBI and that he hopes they are \"on our side.\"",
+      "anchored_artifacts": [
+        "A-2106.1"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:46",
+      "investigative_direction": "Cross-reference with FBI 302 forms, voluntary interview logs, or official acknowledgements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2975",
+      "ref": "C-2975",
+      "label": "James Rawlinson stated on X that no ambulances were present at the event and the rifle sounded like a .22",
+      "claim": "The X audio clip contains Rawlinson's claim that there were no ambulances at an event like that and that the high-power rifle sounded like a .22.",
+      "anchored_artifacts": [
+        "A-2106.1"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:46",
+      "investigative_direction": "Compare against published video, ballistic evidence, and emergency response records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2976",
+      "ref": "C-2976",
+      "label": "Article identifies Mihail Kogălniceanu air base in Constanta as a Task Force 82 / 82nd Airborne deployment location",
+      "claim": "An article displayed during the episode identifies Mihail Kogălniceanu air base in Constanta, Romania as a Task Force 82 / joint base location for 82nd Airborne operations.",
+      "anchored_artifacts": [
+        "A-2107.1"
+      ],
+      "related_nodes": [
+        "N-2095",
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:17",
+      "investigative_direction": "Confirm article source, date, and unit assignment through DoD public affairs records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2977",
+      "ref": "C-2977",
+      "label": "A photograph allegedly shows James Rawlinson in Romania in 2023 wearing a maroon beret",
+      "claim": "A photograph displayed during the episode allegedly shows James Rawlinson in Romania in 2023 wearing a maroon beret, alongside an unidentified individual on the right.",
+      "anchored_artifacts": [
+        "A-2107.2"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:17",
+      "investigative_direction": "Confirm identity with Rawlinson himself, military photo archives, and contemporaneous deployment records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2978",
+      "ref": "C-2978",
+      "label": "A 60 Minutes interview of former Mossad agents described Israeli operations as a \"Truman Show\" production",
+      "claim": "An audio clip from a 60 Minutes interview of former Mossad agents, played during the episode, includes the description of Israeli operations as a \"global production company\" running a \"Truman Show\" with shell companies hiding Israeli involvement.",
+      "anchored_artifacts": [
+        "A-2108.1"
+      ],
+      "related_nodes": [
+        "N-2102"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:08",
+      "investigative_direction": "Locate the full 60 Minutes episode transcript and air date; verify the speakers' identities and former agency affiliation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2979",
+      "ref": "C-2979",
+      "label": "Frank Turek stated on a podcast that no exit wound was visible on the back of Charlie Kirk's neck",
+      "claim": "A podcast audio clip of Frank Turek, played during the episode, contains his statement that he did not believe there was an exit wound on the back of Charlie Kirk's neck during the car transport.",
+      "anchored_artifacts": [
+        "A-2109.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2097"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:34",
+      "investigative_direction": "Compare against the official autopsy report and Brian Harpole's prior podcast statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2980",
+      "ref": "C-2980",
+      "label": "Frank Turek stated on a podcast that CPR was performed on Charlie Kirk in the car",
+      "claim": "The same podcast audio clip of Frank Turek contains his statement that he was \"sometimes doing CPR\" with Charlie \"a foot away.\"",
+      "anchored_artifacts": [
+        "A-2109.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2097"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:34",
+      "investigative_direction": "Cross-reference against Brian Harpole's prior podcast statements that no CPR was performed and that the focus was on the wound."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2981",
+      "ref": "C-2981",
+      "label": "Erica Kirk was involved in \"modeling apartments\" for Next Model Management and MC2",
+      "claim": "During the episode, the host asserts that multiple people with direct knowledge claim Erica Kirk was in charge of modeling apartments for underaged models at Next Model Management and MC2 during the period when those agencies are defendants in trafficking litigation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-2096",
+        "N-1209",
+        "N-1210",
+        "N-1220",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:08–00:21:31",
+      "investigative_direction": "Obtain class action complaint, defendant discovery, and corroborate host's named sources under oath."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2982",
+      "ref": "C-2982",
+      "label": "Pending FOIA requests filed by host's team include NSA, DHS/Secret Service/EOP, FBI, and travel logs",
+      "claim": "The host states the team has filed FOIA requests to the NSA (Erica emotional asset email), DHS/Secret Service/EOP (WAVES entries for Erica), FBI (Kash Patel schedule), and for FBI plane flight logs and Bradley Hansell's travel schedule September 7-10.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-2098",
+        "N-1216",
+        "N-1213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:06–00:45:23",
+      "investigative_direction": "Verify FOIA request submissions via the agencies' tracking portals and any responses."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2983",
+      "ref": "C-2983",
+      "label": "Lance Twiggs is alleged to be the maroon-shirted individual visible in audience footage",
+      "claim": "During the episode, the host identifies Lance Twiggs as the individual walking in a maroon shirt in audience footage from the same day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1215",
+        "N-2100"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:41",
+      "investigative_direction": "Obtain higher-resolution frame-by-frame comparison and corroborate via independent witnesses."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2984",
+      "ref": "C-2984",
+      "label": "Tyler Robinson was set up by Lance Twiggs and is not the actual shooter",
+      "claim": "During the episode, the host states her belief, based on evidence presented thus far, that Tyler Robinson did not kill Charlie Kirk and was set up by Lance Twiggs.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1215",
+        "N-2101"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:41",
+      "investigative_direction": "Examine public charging documents, defense filings, Robinson's alibi evidence, and Twiggs's digital footprint."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2985",
+      "ref": "C-2985",
+      "label": "Andrew Kolbenschlag was physically in the Executive Office Building in Washington D.C. while appearing \"live\" in Arizona on the Charlie Kirk Show",
+      "claim": "The host states Andrew Kolbenschlag appeared to be live in studio on the Charlie Kirk Show hosting Kash Patel, but was actually pre-recorded and physically located 5 hours away in the Executive Office Building in Washington D.C.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1214",
+        "N-2099"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:23–00:46:13",
+      "investigative_direction": "Obtain Secret Service visitor logs, EEOB badge access records, and corroborate the Charlie Kirk Show production timeline."
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 109,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "236fef943cef52f96fb592632078d6db31c6860180f563aebb89ad68873b8fa5",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Episode presents a multi-pronged investigation: an NSA FOIA response redirecting the request to the Office of the Secretary of War and Joint Staff; Pentagon correspondent Gabrielle Kuchta's X thread exposing Vine & Fig Tree (VFT) as a pro-Israel operation with White House ties via Sebastian Gorka and NSC director Shawn Chenowith; targeting of Candace's 3-year-old daughter by Natalie Jean Beisner; and TPUSA figures Andrew Kolvet and Blake Neff using the 'ghost of Charlie Kirk' to attack Thomas Massie. Evidentiary value is concentrated in Kuchta's published VFT Dropbox receipts and the FOIA trail.",
+  "artifacts": [],
+  "nodes": [],
+  "claims": [],
+  "memes": []
+}

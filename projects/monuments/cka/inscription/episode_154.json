@@ -1,0 +1,1337 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 154,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "a4b004904bed5ceab067f894a05093601d086cf7f62b1dfdc6ccb961cbb2d709",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2393",
+      "family_ref": "A-2393",
+      "bundle_name": "ABC News UVU Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2393.1",
+          "ref": "A-2393.1",
+          "description": "ABC News article (Nov 18, 2025): \"Planned estimated 600 people would come to the event where Charlie Kirk was shot. Over 3,000 showed up.\"",
+          "related_claims": [
+            "C-3494",
+            "C-3495",
+            "C-3496",
+            "C-3511"
+          ],
+          "related_nodes": [
+            "N-1031",
+            "N-4",
+            "N-2277",
+            "N-2330"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2394",
+      "family_ref": "A-2394",
+      "bundle_name": "2019 Candace-Kolvet Text Thread Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2394.1",
+          "ref": "A-2394.1",
+          "description": "Text thread (Nov 12–13, 2019) between Candace Owens and Andrew Kolvet, including Kolvet's forwarded message attributed to \"E\" describing \"Operation Greyer X anonymous\" plan to seed a public feud between Charlie Kirk and Candace Owens.",
+          "related_claims": [
+            "C-3497"
+          ],
+          "related_nodes": [
+            "N-1031",
+            "N-7",
+            "N-4",
+            "N-2332"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2395",
+      "family_ref": "A-2395",
+      "bundle_name": "Vox Article Bundle (Kolvet Reference)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2395.1",
+          "ref": "A-2395.1",
+          "description": "Vox article referenced by Andrew Kolvet in the 2019 thread as the source linking to the 4plebs thread.",
+          "related_claims": [
+            "C-3498"
+          ],
+          "related_nodes": [
+            "N-4",
+            "N-2332"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2396",
+      "family_ref": "A-2396",
+      "bundle_name": "4plebs Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2396.1",
+          "ref": "A-2396.1",
+          "description": "4plebs.com post titled \"Operation Greyer X anonymous\" — text describes plan to have \"greyers\" ask Charlie questions about Candace Owens and to \"fluff\" Candace's ego while framing her as driven out of TPUSA by Kirk fearing her.",
+          "related_claims": [
+            "C-3498"
+          ],
+          "related_nodes": [
+            "N-1031",
+            "N-7",
+            "N-2332"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2397",
+      "family_ref": "A-2397",
+      "bundle_name": "Charlie Kirk Club America Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2397.1",
+          "ref": "A-2397.1",
+          "description": "Charlie Kirk audio describing the Club America vision, presented by host as \"what really might be his final presentation\" to Aspen donors.",
+          "related_claims": [
+            "C-3499"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1031",
+            "N-2331"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2398",
+      "family_ref": "A-2398",
+      "bundle_name": "TPUSA Nampa Christian School X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2398.1",
+          "ref": "A-2398.1",
+          "description": "TPUSA official X post: \"500 plus outstanding high school student attendees at the Turning Point USA Club America tour stop at Nampa Christian School this morning. Mrs. Erika Kirk delivered a powerful message to the generation of America First leaders, the future is bright.\"",
+          "related_claims": [
+            "C-3501"
+          ],
+          "related_nodes": [
+            "N-1031",
+            "N-2331"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2399",
+      "family_ref": "A-2399",
+      "bundle_name": "Student-Parent Text Messages Bundle (Nampa)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2399.1",
+          "ref": "A-2399.1",
+          "description": "Text messages between a Nampa Christian School student and the student's parent during the Erika Kirk assembly: \"Okay, big Kirk is here and we can't leave the school and we're getting locked in the gym\"; parent reply: \"What the f?\"; student: \"Yeah, so if I don't make it out alive, it's been fun.\"",
+          "related_claims": [
+            "C-3500"
+          ],
+          "related_nodes": [
+            "N-1031",
+            "N-2331"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2400",
+      "family_ref": "A-2400",
+      "bundle_name": "Politico Blake Neff Profile Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2400.1",
+          "ref": "A-2400.1",
+          "description": "Politico profile of Blake Neff: \"Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed.\"",
+          "related_claims": [
+            "C-3504",
+            "C-3507"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-6",
+            "N-2278"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2400.2",
+          "ref": "A-2400.2",
+          "description": "Politico excerpt (Ian Ward): \"maximalist position on free speech\" framing.",
+          "related_claims": [
+            "C-3505"
+          ],
+          "related_nodes": [
+            "N-6",
+            "N-2278"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2401",
+      "family_ref": "A-2401",
+      "bundle_name": "Tucker Carlson Audio Clip Bundle (Blake Neff)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2401.1",
+          "ref": "A-2401.1",
+          "description": "Tucker Carlson audio calling out Blake Neff's free speech / \"make our peace with censorship\" framing, aired in response to the Politico profile.",
+          "related_claims": [
+            "C-3506"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-5",
+            "N-6",
+            "N-2335"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2402",
+      "family_ref": "A-2402",
+      "bundle_name": "Empress Films Productions Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2402.1",
+          "ref": "A-2402.1",
+          "description": "Ghislaine Maxwell: Epstein's Shadow (Empress Films, 2021)",
+          "related_claims": [
+            "C-3509"
+          ],
+          "related_nodes": [
+            "N-2275",
+            "N-2336"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:28",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2402.2",
+          "ref": "A-2402.2",
+          "description": "The Mystery of Marilyn Monroe: The Unheard Tapes (Empress Films)",
+          "related_claims": [
+            "C-3509"
+          ],
+          "related_nodes": [
+            "N-2275",
+            "N-2336"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2402.3",
+          "ref": "A-2402.3",
+          "description": "Who Killed Jill Dando (Empress Films)",
+          "related_claims": [
+            "C-3509"
+          ],
+          "related_nodes": [
+            "N-2275",
+            "N-2336"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2402.4",
+          "ref": "A-2402.4",
+          "description": "Diana / Who Killed Diana (announced 2024)",
+          "related_claims": [
+            "C-3509"
+          ],
+          "related_nodes": [
+            "N-2275",
+            "N-2336"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2402.5",
+          "ref": "A-2402.5",
+          "description": "Depp vs Heard (Empress Films)",
+          "related_claims": [
+            "C-3509"
+          ],
+          "related_nodes": [
+            "N-2275",
+            "N-2336"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2402.6",
+          "ref": "A-2402.6",
+          "description": "Killing Grounds: Gilgo Beach Murders (Empress Films)",
+          "related_claims": [
+            "C-3509"
+          ],
+          "related_nodes": [
+            "N-2275",
+            "N-2336"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2403",
+      "family_ref": "A-2403",
+      "bundle_name": "X/Twitter Exchange Bundle (Nampa Christian School)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2403.1",
+          "ref": "A-2403.1",
+          "description": "Candace Owens X post: \"The students were forced to attend this event as a school assembly. They could not opt out. The parents were informed that they were not allowed to attend alongside them.\"",
+          "related_claims": [
+            "C-3500"
+          ],
+          "related_nodes": [
+            "N-1031",
+            "N-7",
+            "N-4",
+            "N-2331"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2403.2",
+          "ref": "A-2403.2",
+          "description": "Andrew Kolvet X reply: \"Wrong again. Students were free to opt out. Three students did. So over 500 chose to attend. Nothing was forced.\"",
+          "related_claims": [
+            "C-3502"
+          ],
+          "related_nodes": [
+            "N-4",
+            "N-2331"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:37",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2403.3",
+          "ref": "A-2403.3",
+          "description": "Andrew Kolvet X reply: \"Yeah, we don't market the event publicly for security reasons. Thanks for all your help on that, by the way.\"",
+          "related_claims": [
+            "C-3503"
+          ],
+          "related_nodes": [
+            "N-4",
+            "N-2333"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2403.4",
+          "ref": "A-2403.4",
+          "description": "Andrew Kolvet X reply: \"Did you actually never attend a school assembly in high school? These are distinct from our regular chapter meetings.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-4",
+            "N-2331"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:27:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2404",
+      "family_ref": "A-2404",
+      "bundle_name": "YouTube Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2404.1",
+          "ref": "A-2404.1",
+          "description": "@spilling the tea comment: \"Turning point USA suing UVU for failing Charlie and then they chose to have his one-year anniversary there. It's top-notch insanity.\"",
+          "related_claims": [
+            "C-3511"
+          ],
+          "related_nodes": [
+            "N-1031",
+            "N-2330"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:55:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2404.2",
+          "ref": "A-2404.2",
+          "description": "@Koko Rose comment: \"So there was footage readily available of Tyler Robinson from several years ago in a minor accident, but the footage of him turning himself in was deleted due to their retention policy.\"",
+          "related_claims": [
+            "C-3512"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:56:57",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Existing; subject of biographical and vision claims in this episode.",
+      "related_artifacts": [
+        "A-2397.1",
+        "A-2400.1",
+        "A-2401.1",
+        "A-2404.2"
+      ],
+      "related_claims": [
+        "C-3499",
+        "C-3506",
+        "C-3512"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1031",
+      "ref": "N-1031",
+      "name": "Erica Kirk (transcript variants: \"Erika Kirk\" / \"Erica Kirk\")",
+      "type": "investigation_target",
+      "description": "Existing; subject of Nampa Christian School event and Empress Films call claims.",
+      "related_artifacts": [
+        "A-2393.1",
+        "A-2398.1",
+        "A-2399.1",
+        "A-2403.1",
+        "A-2404.1"
+      ],
+      "related_claims": [
+        "C-3500",
+        "C-3501",
+        "C-3510"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2331",
+        "N-2334"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Existing; PR figure under multiple artifact-anchored claims in this episode.",
+      "related_artifacts": [
+        "A-2393.1",
+        "A-2394.1",
+        "A-2395.1",
+        "A-2403.2",
+        "A-2403.3",
+        "A-2403.4"
+      ],
+      "related_claims": [
+        "C-3497",
+        "C-3502",
+        "C-3503"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2331",
+        "N-2332",
+        "N-2334"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Existing; called out Blake Neff via audio artifact (A-2401.1).",
+      "related_artifacts": [
+        "A-2401.1"
+      ],
+      "related_claims": [
+        "C-3506"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-6",
+      "ref": "N-6",
+      "name": "Elizabeth Lane *(reused from Episode 1)*",
+      "type": "person",
+      "description": "Existing; subject of Politico profile and Tucker Carlson criticism.",
+      "related_artifacts": [
+        "A-2400.1",
+        "A-2400.2",
+        "A-2401.1"
+      ],
+      "related_claims": [
+        "C-3504",
+        "C-3505",
+        "C-3506",
+        "C-3507"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2335"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2275",
+      "ref": "N-2275",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Founder of Empress Films; named in Aug 28, 2025 call claim.",
+      "related_artifacts": [
+        "A-2402.1",
+        "A-2402.2",
+        "A-2402.3",
+        "A-2402.4",
+        "A-2402.5",
+        "A-2402.6"
+      ],
+      "related_claims": [
+        "C-3508",
+        "C-3509",
+        "C-3510"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2334",
+        "N-2336"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2276",
+      "ref": "N-2276",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Executive producer at Empress Films (LA office; ex-Paramount Pictures); named in Aug 28, 2025 call claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3510"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2334",
+        "N-2336"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2277",
+      "ref": "N-2277",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Source in ABC News article on UVU event attendance figures.",
+      "related_artifacts": [
+        "A-2393.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2330"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2278",
+      "ref": "N-2278",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Politico author of Blake Neff profile; framed Neff's position as \"maximalist\" on free speech.",
+      "related_artifacts": [
+        "A-2400.2"
+      ],
+      "related_claims": [
+        "C-3505"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-6"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2279",
+      "ref": "N-2279",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Mentioned by host as discussion partner on Empress Films oddity. No artifact-anchored claims.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2334"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2330",
+      "ref": "N-2330",
+      "name": "UVU Ambulance Denial Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent contradiction between TPUSA's November 2025 admission (TPUSA UVU chapter declined ambulance) and TPUSA's later filing framing the absence as wrongful death by others. Reinforced by @spilling the TPUSA/anniversary observation.",
+      "related_artifacts": [
+        "A-2393.1",
+        "A-2404.1"
+      ],
+      "related_claims": [
+        "C-3494",
+        "C-3495",
+        "C-3496",
+        "C-3511"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1031",
+        "N-2277"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2331",
+      "ref": "N-2331",
+      "name": "Nampa Christian School Opt-In Question",
+      "type": "investigation_target",
+      "description": "Discrepancy between TPUSA's claim that 500+ students voluntarily attended and parent/student reports that attendance was a school-mandated assembly, plus Andrew Kolvet's \"three opt-outs\" reply.",
+      "related_artifacts": [
+        "A-2397.1",
+        "A-2398.1",
+        "A-2399.1",
+        "A-2403.1",
+        "A-2403.2",
+        "A-2403.4"
+      ],
+      "related_claims": [
+        "C-3499",
+        "C-3500",
+        "C-3501",
+        "C-3502"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-1031",
+        "N-4"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2332",
+      "ref": "N-2332",
+      "name": "2019 Text Thread Provenance Question",
+      "type": "investigation_target",
+      "description": "Provenance question around the 4plebs post allegedly found by \"E\" (Erika Frantzve) and forwarded by Andrew Kolvet in November 2019, and the Vox article Kolvet cited as the path to that post.",
+      "related_artifacts": [
+        "A-2394.1",
+        "A-2395.1",
+        "A-2396.1"
+      ],
+      "related_claims": [
+        "C-3497",
+        "C-3498"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1031",
+        "N-7",
+        "N-4"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2333",
+      "ref": "N-2333",
+      "name": "TPUSA No-Marketing Security Claim",
+      "type": "investigation_target",
+      "description": "Contradiction between Andrew Kolvet's X-stated rationale (\"we don't market the event publicly for security reasons\") and TPUSA's prior public framing of Prove Me Wrong / Club America events as unticketed and open to public.",
+      "related_artifacts": [
+        "A-2393.1",
+        "A-2403.3"
+      ],
+      "related_claims": [
+        "C-3496",
+        "C-3503"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-4"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2334",
+      "ref": "N-2334",
+      "name": "Empress Films / Erika Kirk Aug 2025 Call Question",
+      "type": "investigation_target",
+      "description": "Open question about nature and purpose of August 28, 2025 call between Erika Kirk, Andrew Kolvet, and Empress Films executives (Emma Cooper, Eben Davidson), as raised by host with \"Baron Coleman.\"",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3510"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1031",
+        "N-4",
+        "N-2275",
+        "N-2276",
+        "N-2279",
+        "N-2336"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2335",
+      "ref": "N-2335",
+      "name": "Blake Neff Censorship Statement",
+      "type": "investigation_target",
+      "description": "Blake Neff's verbatim statement that \"we may have to make our peace with censorship\" per Politico profile, criticized by Tucker Carlson.",
+      "related_artifacts": [
+        "A-2400.1",
+        "A-2401.1"
+      ],
+      "related_claims": [
+        "C-3506",
+        "C-3507"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-5",
+        "N-6"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2336",
+      "ref": "N-2336",
+      "name": "Empress Films (Entity)",
+      "type": "investigation_target",
+      "description": "Documentary company founded by Emma Cooper in 2020; production focus described as true crime / murder mystery; described by host as politically left-leaning.",
+      "related_artifacts": [
+        "A-2402.1",
+        "A-2402.2",
+        "A-2402.3",
+        "A-2402.4",
+        "A-2402.5",
+        "A-2402.6"
+      ],
+      "related_claims": [
+        "C-3508",
+        "C-3509"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2275",
+        "N-2276",
+        "N-2334"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3494",
+      "ref": "C-3494",
+      "label": "TPUSA UVU Chapter Declined On-Site Ambulance",
+      "claim": "TPUSA's UVU chapter declined an on-site ambulance by marking \"No\" on the EMS section of the school's online event form.",
+      "anchored_artifacts": [
+        "A-2393.1"
+      ],
+      "related_nodes": [
+        "N-1031",
+        "N-4",
+        "N-2277",
+        "N-2330"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:15",
+      "investigative_direction": "Obtain UVU event form records directly; cross-check against TPUSA's later framing in the wrongful-death filing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3495",
+      "ref": "C-3495",
+      "label": "UVU Attendance Estimate Progression 200 → 600 → 1,500 → ~3,000",
+      "claim": "Per ABC News reporting, the UVU event attendance was initially estimated at 200, revised to 600, then per TPUSA to 1,500 (in undocumented later conversation), with actual attendance ~3,000.",
+      "anchored_artifacts": [
+        "A-2393.1"
+      ],
+      "related_nodes": [
+        "N-1031",
+        "N-2330"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:06",
+      "investigative_direction": "Obtain UVU planning documents directly; verify timing of each revision; identify whether any \"1,500\" update exists in any retained form."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3496",
+      "ref": "C-3496",
+      "label": "TPUSA Framed UVU Event As Open-To-Public / Unticketed Prove Me Wrong Format",
+      "claim": "Per TPUSA's official statement to ABC News, the UVU event was styled as open-to-public and unticketed, comparable to prior \"Prove Me Wrong\" campus events, with no crowd control.",
+      "anchored_artifacts": [
+        "A-2393.1"
+      ],
+      "related_nodes": [
+        "N-1031",
+        "N-4",
+        "N-2330",
+        "N-2333"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:04",
+      "investigative_direction": "Verify whether the same open-event rationale was applied to security/staffing decisions; compare to documented Prove Me Wrong events."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3497",
+      "ref": "C-3497",
+      "label": "2019 Text Thread Forwarded \"Operation Greyer X anonymous\" Plan",
+      "claim": "A November 12–13, 2019 text thread shows Andrew Kolvet forwarding to Candace Owens a message attributed to \"E\" describing a plan to seed a public feud between Charlie Kirk and Candace Owens (\"Operation Greyer X anonymous\").",
+      "anchored_artifacts": [
+        "A-2394.1"
+      ],
+      "related_nodes": [
+        "N-1031",
+        "N-7",
+        "N-4",
+        "N-2332"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:35",
+      "investigative_direction": "Authenticate the text screenshot metadata; verify whether \"E\" was in fact Erika Frantzve at that time; cross-check against Kolvet's recent public statements on the same feud narrative."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3498",
+      "ref": "C-3498",
+      "label": "4plebs Post Mirrors The Forwarded \"Operation\" Plan",
+      "claim": "The 4plebs post allegedly found by \"E\" and cited via the Vox article referenced the same Charlie/Candace feud-seeding narrative — ask \"gripers\" to put Charlie against Candace; \"fluff\" Candace's ego; frame Candace as driven out of TPUSA by Kirk fearing her.",
+      "anchored_artifacts": [
+        "A-2395.1",
+        "A-2396.1"
+      ],
+      "related_nodes": [
+        "N-7",
+        "N-4",
+        "N-2332"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:00",
+      "investigative_direction": "Obtain the 4plebs post URL and archived timestamp; verify content alignment; verify whether the Vox article actually linked to this post or only to the broader 4plebs forum."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3499",
+      "ref": "C-3499",
+      "label": "Charlie Kirk's Club America Vision Was Opt-In / Grassroots / Debate-Club Parallel",
+      "claim": "In his Aspen donors presentation, Charlie Kirk described the Club America vision as a grassroots, opt-in, student-led chapter model parallel to DECA and debate clubs, with 80 new full-time staff dedicated to sourcing leads and guiding student-initiated chapter formation.",
+      "anchored_artifacts": [
+        "A-2397.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1031",
+        "N-2331"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:10",
+      "investigative_direction": "Obtain full audio/presentation recording; verify against any written strategic plans; cross-check against current TPUSA Club America implementation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3500",
+      "ref": "C-3500",
+      "label": "Erika Kirk Spoke At Nampa Christian School Assembly; Students Were Not Opt-In Participants",
+      "claim": "Erika Kirk spoke at a Nampa Christian School assembly where students were not voluntary opt-in participants, per parent emails and student-to-parent text messages describing students unable to leave and \"locked in the gym.\"",
+      "anchored_artifacts": [
+        "A-2399.1",
+        "A-2403.1"
+      ],
+      "related_nodes": [
+        "N-1031",
+        "N-2331"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:36",
+      "investigative_direction": "Obtain the school newsletter referenced by parents; verify assembly mandatory-attendance status; verify whether parental attendance was actually prohibited."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3501",
+      "ref": "C-3501",
+      "label": "TPUSA Claimed 500+ Voluntary Nampa Christian School Attendees",
+      "claim": "TPUSA's X post claimed 500+ \"outstanding high school student attendees\" attended the Nampa Christian School event voluntarily as part of the Club America tour.",
+      "anchored_artifacts": [
+        "A-2398.1"
+      ],
+      "related_nodes": [
+        "N-1031",
+        "N-2331"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:36",
+      "investigative_direction": "Cross-check TPUSA claim against school attendance records and parent reports."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3502",
+      "ref": "C-3502",
+      "label": "Andrew Kolvet Cited Three Opt-Outs As Evidence Of Voluntary Participation",
+      "claim": "Andrew Kolvet replied on X that three students opted out of the Nampa assembly and that \"over 500 chose to attend\" — i.e., nothing was forced.",
+      "anchored_artifacts": [
+        "A-2403.2"
+      ],
+      "related_nodes": [
+        "N-4",
+        "N-2331"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:37",
+      "investigative_direction": "Verify whether the cited \"opt-out\" mechanism applies to mandatory school assemblies; obtain school policy on opt-outs from assemblies."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3503",
+      "ref": "C-3503",
+      "label": "Andrew Kolvet Cited Security Reasons For Not Marketing Event Publicly",
+      "claim": "Andrew Kolvet replied on X that TPUSA does not market the events publicly for \"security reasons\" and thanked Candace for \"all your help on that.\"",
+      "anchored_artifacts": [
+        "A-2403.3"
+      ],
+      "related_nodes": [
+        "N-4",
+        "N-2333"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:33",
+      "investigative_direction": "Cross-check against TPUSA's prior statements on event security; verify whether a no-marketing policy applied to Nampa specifically or to all Club America high school stops."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3504",
+      "ref": "C-3504",
+      "label": "Politico Published Profile Of Blake Neff",
+      "claim": "Politico published a profile of Blake Neff titled \"Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed\" (author Ian Ward).",
+      "anchored_artifacts": [
+        "A-2400.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-6",
+        "N-2278"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:02",
+      "investigative_direction": "Obtain full Politico article and publication date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3505",
+      "ref": "C-3505",
+      "label": "Politico Profile Framed Blake Neff's Free Speech Position As \"Maximalist\"",
+      "claim": "The Politico profile (author Ian Ward) framed Blake Neff's position as a \"maximalist position on free speech\" — host notes this is the author's framing, not Neff's verbatim.",
+      "anchored_artifacts": [
+        "A-2400.2"
+      ],
+      "related_nodes": [
+        "N-6",
+        "N-2278"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:48",
+      "investigative_direction": "Verify direct attribution of the \"maximalist\" phrase to Ward vs Neff."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3506",
+      "ref": "C-3506",
+      "label": "Tucker Carlson Criticized Blake Neff's \"Make Our Peace With Censorship\" Framing",
+      "claim": "Tucker Carlson publicly criticized Blake Neff's framing that \"we may have to make our peace with censorship,\" reading and rejecting the Politico profile's premise.",
+      "anchored_artifacts": [
+        "A-2401.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-5",
+        "N-6",
+        "N-2335"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:02",
+      "investigative_direction": "Identify the original Tucker Carlson platform/episode where this criticism aired; verify whether Carlson explicitly named Neff."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3507",
+      "ref": "C-3507",
+      "label": "Blake Neff Verbatim Censorship Quote",
+      "claim": "Blake Neff stated verbatim per Politico: \"Either we have to make our peace with censorship and explain how we're going to do that or we have to explain how we're going to combat this without censorship. Period. But we've got to confront it.\"",
+      "anchored_artifacts": [
+        "A-2400.1"
+      ],
+      "related_nodes": [
+        "N-6",
+        "N-2335"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:04",
+      "investigative_direction": "Confirm full quote and attribution context in Politico article."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3508",
+      "ref": "C-3508",
+      "label": "Empress Films Founded By Emma Cooper In 2020",
+      "claim": "Empress Films is a documentary company founded by Emma Cooper in 2020; Cooper was previously global president of non-scripted television at Pulse Films and worked on the Netflix documentary \"The Disappearance of Madeleine McCann.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-2275",
+        "N-2336"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:28",
+      "investigative_direction": "Verify corporate filings and Pulse Films tenure via public records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3509",
+      "ref": "C-3509",
+      "label": "Empress Films Production Focus Includes True Crime / Murder Mystery Content",
+      "claim": "Empress Films' production catalog includes true crime / murder mystery documentaries: Ghislaine Maxwell (2021), Marilyn Monroe, Jill Dando, Princess Diana, Depp vs Heard, and Gilgo Beach murders.",
+      "anchored_artifacts": [
+        "A-2402.1",
+        "A-2402.2",
+        "A-2402.3",
+        "A-2402.4",
+        "A-2402.5",
+        "A-2402.6"
+      ],
+      "related_nodes": [
+        "N-2275",
+        "N-2336"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:28",
+      "investigative_direction": "Verify each production's distribution platform, release date, and reception."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3510",
+      "ref": "C-3510",
+      "label": "August 28, 2025 Call Between Erika Kirk / Andrew Kolvet / Empress Films Executives",
+      "claim": "On August 28, 2025, Erika Kirk and Andrew Kolvet participated in a call with Empress Films executives, including executive producer Eben Davidson (LA office; ex-Paramount) and founder Emma Cooper, plus two unnamed producers.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1031",
+        "N-4",
+        "N-2275",
+        "N-2276",
+        "N-2334"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:54",
+      "investigative_direction": "Identify and obtain direct confirmation from call participants or schedules; cross-check Empress Films project pipeline for Aug–Sep 2025."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3511",
+      "ref": "C-3511",
+      "label": "Candace Concurs With @spilling the TPUSA/UVU Anniversary Observation",
+      "claim": "Candace concurs with the @spilling the tea observation that holding a Charlie Kirk one-year anniversary event at UVU is inconsistent with TPUSA's UVU-negligence claims.",
+      "anchored_artifacts": [
+        "A-2404.1"
+      ],
+      "related_nodes": [
+        "N-1031",
+        "N-2330"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:56",
+      "investigative_direction": "Verify whether TPUSA scheduled an anniversary event at UVU; identify the venue."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3512",
+      "ref": "C-3512",
+      "label": "Candace Concurs With @Koko Rose Tyler Robinson Footage Observation",
+      "claim": "Candace concurs with the @Koko Rose observation that footage of Tyler Robinson's precinct turn-in was deleted under a \"retention policy\" while prior footage of him (years-old minor accident) was readily available; host adds that the same two Scripts News reporters also released the Brian Cole Jr. pipe-bomb footage.",
+      "anchored_artifacts": [
+        "A-2404.2"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:57",
+      "investigative_direction": "Obtain Utah news reporting on precinct footage handling; verify the Brian Cole Jr. footage attribution."
+    }
+  ],
+  "memes": []
+}

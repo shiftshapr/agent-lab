@@ -1,0 +1,653 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 49,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "54326bf303ba2cba298d77e6856541d4369aa89e3a7bd9e071e08bfc83a58bce",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1557",
+      "family_ref": "A-1557",
+      "bundle_name": "Email Bundle — Fort Huachuca Intelligence Operations Allegations",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1557.1",
+          "ref": "A-1557.1",
+          "description": "Viewer Email Describing Fort Huachuca as Army Military Intelligence (MIT) Training Base",
+          "related_claims": [
+            "C-1969"
+          ],
+          "related_nodes": [
+            "N-1439"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:00–00:13:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1557.2",
+          "ref": "A-1557.2",
+          "description": "Viewer Email — Gym Owners' Allegations Regarding Bruce Bevins Class on Infiltrating Christian Groups",
+          "related_claims": [
+            "C-1976",
+            "C-1977"
+          ],
+          "related_nodes": [
+            "N-598",
+            "N-1439"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:48–00:17:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1558",
+      "family_ref": "A-1558",
+      "bundle_name": "Eyewitness Documentation Bundle — Mitch's September 2025 Fort Huachuca Visit",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1558.1",
+          "ref": "A-1558.1",
+          "description": "18-Minute Selfie Video with EXIF Metadata Verifying Location and Time at Fort Huachuca on September 9, 2025",
+          "related_claims": [
+            "C-1971"
+          ],
+          "related_nodes": [
+            "N-597",
+            "N-1438"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1558.2",
+          "ref": "A-1558.2",
+          "description": "Military ID Card(s) Provided by Witness to Host",
+          "related_claims": [
+            "C-1971"
+          ],
+          "related_nodes": [
+            "N-597"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1558.3",
+          "ref": "A-1558.3",
+          "description": "Mitch's On-Air Recorded Testimonial Interview",
+          "related_claims": [
+            "C-1970",
+            "C-1971",
+            "C-1972",
+            "C-1973",
+            "C-1974",
+            "C-1975"
+          ],
+          "related_nodes": [
+            "N-597",
+            "N-600",
+            "N-1438"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:07:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1559",
+      "family_ref": "A-1559",
+      "bundle_name": "Photo Identification Bundle — Eyewitness Resemblance Comparisons",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1559.1",
+          "ref": "A-1559.1",
+          "description": "Photograph of Congressman Mark Amodei Displayed On-Screen and Shown to Mitch for Identification",
+          "related_claims": [
+            "C-1975"
+          ],
+          "related_nodes": [
+            "N-599",
+            "N-1438"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:01:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1559.2",
+          "ref": "A-1559.2",
+          "description": "Reference Photograph of Brian Harpole Cited as Comparison Image",
+          "related_claims": [
+            "C-1974"
+          ],
+          "related_nodes": [
+            "N-1438"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:55:09–00:57:28",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1559.3",
+          "ref": "A-1559.3",
+          "description": "Reference Photograph of Erika Kirk with Ponytail Cited as Comparison Image",
+          "related_claims": [
+            "C-1973"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1438"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:57:28",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1560",
+      "family_ref": "A-1560",
+      "bundle_name": "Viewer Correspondence Bundle — Charlie Kirk SUV Interior Photographs",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1560.1",
+          "ref": "A-1560.1",
+          "description": "Viewer Email Asking About Black Plastic-Like Fragmentation Visible in Photos of Charlie Kirk's SUV Interior",
+          "related_claims": [
+            "C-1978"
+          ],
+          "related_nodes": [
+            "N-1440"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:18–00:03:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1560.2",
+          "ref": "A-1560.2",
+          "description": "Photographs of Charlie Kirk's SUV Interior Showing Black Plastic/Tempered Glass-Like Fragments",
+          "related_claims": [
+            "C-1978"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1440"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-597",
+      "ref": "N-597",
+      "name": "\"Mitch\" (Eyewitness, Pseudonym)",
+      "type": "person",
+      "description": "Pseudonymized eyewitness who claims to have visited Fort Huachuca on September 8–9, 2025 and identified multiple individuals by resemblance. Claims 35-year gag order related to 1990 JTF6 drug tunnel discovery. Has provided metadata-verified video and military ID cards to host.",
+      "related_artifacts": [
+        "A-1558.1",
+        "A-1558.2",
+        "A-1558.3"
+      ],
+      "related_claims": [
+        "C-1970",
+        "C-1971",
+        "C-1972",
+        "C-1973",
+        "C-1974",
+        "C-1975"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1438"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-598",
+      "ref": "N-598",
+      "name": "Bruce Bevins",
+      "type": "person",
+      "description": "Named in viewer email (A-1557.2) as instructor of a Fort Huachuca class allegedly teaching military personnel to infiltrate Christian organizations through covert psychological operations. Host states she had not heard of this individual prior to receiving the email.",
+      "related_artifacts": [
+        "A-1557.2"
+      ],
+      "related_claims": [
+        "C-1976",
+        "C-1977"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1439"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-599",
+      "ref": "N-599",
+      "name": "Mark Amodei",
+      "type": "person",
+      "description": "U.S. Congressman (Nevada) whose photograph was shown to \"Mitch\" during the interview. Witness identified him by resemblance at ~95% confidence as the congressman-type figure seen at Fort Huachuca on September 9, 2025.",
+      "related_artifacts": [
+        "A-1559.1"
+      ],
+      "related_claims": [
+        "C-1975"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1438"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-600",
+      "ref": "N-600",
+      "name": "Captain Neff",
+      "type": "person",
+      "description": "U.S. Army captain named by witness \"Mitch\" as the officer who escorted him out of the JTF building and sat with him on a park bench at Fort Huachuca on September 9, 2025.",
+      "related_artifacts": [
+        "A-1558.3"
+      ],
+      "related_claims": [
+        "C-1972"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-597"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1438",
+      "ref": "N-1438",
+      "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: claimed physical encounter by \"Mitch\" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erica Kirk), Brian Harpole (see N-1438 related), and Captain Neff (N-600).",
+      "related_artifacts": [
+        "A-1558.1",
+        "A-1558.3",
+        "A-1559.1",
+        "A-1559.2",
+        "A-1559.3"
+      ],
+      "related_claims": [
+        "C-1971",
+        "C-1972",
+        "C-1973",
+        "C-1974",
+        "C-1975"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-597",
+        "N-599",
+        "N-600"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1439",
+      "ref": "N-1439",
+      "name": "Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: viewer-email allegation that Fort Huachuca hosted a class teaching military personnel to infiltrate Christian organizations through covert psychological operations, with corroborating student testimony regarding overnight deception exercises in Tucson.",
+      "related_artifacts": [
+        "A-1557.1",
+        "A-1557.2"
+      ],
+      "related_claims": [
+        "C-1969",
+        "C-1976",
+        "C-1977"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-598"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1440",
+      "ref": "N-1440",
+      "name": "Charlie Kirk SUV Interior Black Plastic Fragmentation",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: viewer-flagged and host-confirmed visual observation of black plastic / tempered-glass-like fragments across the rear floor of Charlie Kirk's SUV in post-shooting photographs.",
+      "related_artifacts": [
+        "A-1560.1",
+        "A-1560.2"
+      ],
+      "related_claims": [
+        "C-1978"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1969",
+      "ref": "C-1969",
+      "label": "Fort Huachuca Functions as Army Military Intelligence (MIT) Training Installation",
+      "claim": "Emails received by host state that Fort Huachuca is where U.S. Army soldiers attend advanced Military Intelligence training courses lasting 4–6 months following basic training.",
+      "anchored_artifacts": [
+        "A-1557.1"
+      ],
+      "related_nodes": [
+        "N-1439"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:00",
+      "investigative_direction": "Obtain official DoD documentation confirming Fort Huachuca's current training mission and course catalog."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1970",
+      "ref": "C-1970",
+      "label": "\"Mitch\" Subject to ~35-Year Gag Order Related to 1990 JTF6 Drug Tunnel Discovery",
+      "claim": "Witness \"Mitch\" states he was subject to a non-disclosure / gag order of approximately 25–35 years following his involvement in a 1990 JTF6 (10th Mountain Division) mission that located a major cross-border drug tunnel between Douglas, Arizona and Mexico.",
+      "anchored_artifacts": [
+        "A-1558.3"
+      ],
+      "related_nodes": [
+        "N-597"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:10–00:37:00",
+      "investigative_direction": "Review any court filings or legal correspondence referenced by witness; verify his military service record through official channels."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1971",
+      "ref": "C-1971",
+      "label": "\"Mitch\" Physically Present at Fort Huachuca on September 8–9, 2025",
+      "claim": "Witness \"Mitch\" was physically present at Fort Huachuca on the evening of September 8, 2025 (Candlewood Inn & Suites) and the morning of September 9, 2025 (JTF command building), as verified by host via EXIF metadata from an 18-minute self-recorded video and matching military ID credentials.",
+      "anchored_artifacts": [
+        "A-1558.1",
+        "A-1558.2",
+        "A-1558.3"
+      ],
+      "related_nodes": [
+        "N-597",
+        "N-1438"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00–00:00:01",
+      "investigative_direction": "Obtain original metadata records; verify hotel reservation records and base entry logs for the named date window."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1972",
+      "ref": "C-1972",
+      "label": "\"Mitch\" Observed Meeting at JTF Building on September 9, 2025 Involving Congressman-Type Figure and Military Officers",
+      "claim": "While at the JTF command building on the morning of September 9, 2025, witness observed a group including a man in a congressman-style suit with flag pin, accompanied by lieutenant colonels, a sergeant major, and civilians, escorted by military personnel. Witness was subsequently surrounded by multiple federal and local law enforcement officers at a park bench outside.",
+      "anchored_artifacts": [
+        "A-1558.3"
+      ],
+      "related_nodes": [
+        "N-597",
+        "N-600",
+        "N-1438"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:46–00:50:12",
+      "investigative_direction": "Cross-reference Fort Huachuca visitor logs for September 9, 2025; identify Captain Neff and corroborate encounter."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1973",
+      "ref": "C-1973",
+      "label": "\"Mitch\" Identifies Woman at Candlewood Inn & Suites on September 8, 2025 as Resembling Erika Kirk (95–99% Confidence)",
+      "claim": "Witness \"Mitch\" states that a woman he observed at the Candlewood Inn & Suites lobby on September 8, 2025 with striking blue eyes matched reference photographs of Erika Kirk at 95–99% confidence.",
+      "anchored_artifacts": [
+        "A-1558.3",
+        "A-1559.3"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-597",
+        "N-1438"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:09–00:57:28",
+      "investigative_direction": "Obtain independent corroborating surveillance or visitor logs from Candlewood Inn & Suites for September 8, 2025; verify witness's capacity for facial identification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1974",
+      "ref": "C-1974",
+      "label": "\"Mitch\" Identifies Man at JTF Building on September 9, 2025 as Resembling Brian Harpole (95–99% Confidence)",
+      "claim": "Witness \"Mitch\" identified by resemblance (95–99%) the man who walked out of the JTF building on September 9, 2025 as Brian Harpole, citing matching mannerisms, facial features, height, haircut, and gait.",
+      "anchored_artifacts": [
+        "A-1558.3",
+        "A-1559.2"
+      ],
+      "related_nodes": [
+        "N-597",
+        "N-1438"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:09–00:57:28",
+      "investigative_direction": "Verify witness's stated capacity for facial recognition; obtain independent surveillance records from Fort Huachuca for September 9, 2025."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1975",
+      "ref": "C-1975",
+      "label": "\"Mitch\" Identifies Congressman-Type Figure at Fort Huachuca on September 9, 2025 as Mark Amodei (95% Confidence)",
+      "claim": "After viewing a reference photograph of Congressman Mark Amodei (R-NV) on air, witness \"Mitch\" identified him at approximately 95% confidence as the congressman-style figure seen walking closest to him at the JTF building on September 9, 2025.",
+      "anchored_artifacts": [
+        "A-1558.3",
+        "A-1559.1"
+      ],
+      "related_nodes": [
+        "N-599",
+        "N-597",
+        "N-1438"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:18",
+      "investigative_direction": "Cross-check Congressman Amodei's official schedule and any flights to Arizona on or around September 9, 2025; obtain independent corroboration."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1976",
+      "ref": "C-1976",
+      "label": "Fort Huachuca Class Taught by Bruce Bevins on Infiltrating Christian Organizations via Covert Psychological Operations",
+      "claim": "A former gym owner in Sierra Vista states in a viewer email (read verbatim on air) that a distressed female soldier described a class at Fort Huachuca, taught by Bruce Bevins, whose stated objective was to train military personnel to infiltrate Christian groups and organizations through covert psychological operations focused specifically on deceiving Christians.",
+      "anchored_artifacts": [
+        "A-1557.2"
+      ],
+      "related_nodes": [
+        "N-598",
+        "N-1439"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:48–00:17:53",
+      "investigative_direction": "Identify Bruce Bevins's official military role and course listings; obtain corroborating testimony from named or additional military students."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1977",
+      "ref": "C-1977",
+      "label": "Fort Huachuca Military Students Described Overnight Deception Training Exercises Against Civilians in Tucson",
+      "claim": "Per the same viewer email, two military students (names redacted by host) at the gym described an overnight field training mission in which they practiced deceiving civilians in Tucson — telling lies, maintaining false personas, and avoiding \"breaking character\" — at bars and public venues, with implications of sexual encounters with targets.",
+      "anchored_artifacts": [
+        "A-1557.2"
+      ],
+      "related_nodes": [
+        "N-598",
+        "N-1439"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:38–00:17:14",
+      "investigative_direction": "Identify the two named students (currently redacted) and obtain independent testimony regarding Fort Huachuca field training practices."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1978",
+      "ref": "C-1978",
+      "label": "Black Plastic / Tempered Glass-Like Fragments Visible in Post-Shooting Photographs of Charlie Kirk's SUV Interior",
+      "claim": "Host confirms visual observation, prompted by viewer email, of black plastic-like or tempered-glass-like fragments distributed across the rear floor of Charlie Kirk's SUV in post-shooting photographs, noting distinction from surrounding blood.",
+      "anchored_artifacts": [
+        "A-1560.1",
+        "A-1560.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1440"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:18–00:02:51",
+      "investigative_direction": "Release and forensic-analyze the original high-resolution SUV interior photographs; compare fragments against known materials (phone glass, hard candy, vehicle components)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1979",
+      "ref": "C-1979",
+      "label": "Multiple Federal and Local Law Enforcement Officers Surrounded \"Mitch\" Outside JTF Building on September 9, 2025",
+      "claim": "After his identification of personnel exiting the JTF building, witness \"Mitch\" was escorted to park benches outside by Captain Neff, where multiple cruisers arrived and officers from different agencies surrounded him; a plainclothes woman (described as possibly Secret Service) directed questioning.",
+      "anchored_artifacts": [
+        "A-1558.3"
+      ],
+      "related_nodes": [
+        "N-597",
+        "N-600",
+        "N-1438"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:12–00:53:59",
+      "investigative_direction": "Obtain any contemporaneous bodycam footage or police reports; identify the plainclothes officer and any incident reports generated September 9, 2025."
+    }
+  ],
+  "memes": []
+}

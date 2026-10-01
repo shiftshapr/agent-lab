@@ -1,0 +1,775 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 50,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "d0819324ac9bf4a628c1d097391bbba74d4957e0b633e777ad84956f4db99630",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1561",
+      "family_ref": "A-1561",
+      "bundle_name": "Ben Shapiro AmFest Speech Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1561.1",
+          "ref": "A-1561.1",
+          "description": "Ben Shapiro AmFest Speech (partial transcript displayed/quoted on stage)",
+          "related_claims": [
+            "C-1980"
+          ],
+          "related_nodes": [
+            "N-601",
+            "N-1",
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:29 – 00:20:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1562",
+      "family_ref": "A-1562",
+      "bundle_name": "Tucker Carlson AmFest Speech Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1562.1",
+          "ref": "A-1562.1",
+          "description": "Tucker Carlson AmFest Speech (partial transcript displayed/quoted on stage)",
+          "related_claims": [
+            "C-1981"
+          ],
+          "related_nodes": [
+            "N-602",
+            "N-1",
+            "N-601"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:37 – 00:26:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1563",
+      "family_ref": "A-1563",
+      "bundle_name": "Daily Wire Town Hall Firing Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1563.1",
+          "ref": "A-1563.1",
+          "description": "Daily Wire \"town hall\" video of Candace Owens firing (Jeremy Boreing, then-CEO; Ben Shapiro appearing electronically)",
+          "related_claims": [
+            "C-1982"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-601",
+            "N-607"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:45 – 00:15:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1564",
+      "family_ref": "A-1564",
+      "bundle_name": "Mark Amodei X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1564.1",
+          "ref": "A-1564.1",
+          "description": "Mark Amodei X post asserting September 9 alibi (read aloud in full)",
+          "related_claims": [
+            "C-1983"
+          ],
+          "related_nodes": [
+            "N-603",
+            "N-1442"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1565",
+      "family_ref": "A-1565",
+      "bundle_name": "Diligent Dennison X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1565.1",
+          "ref": "A-1565.1",
+          "description": "Diligent Dennison X post analyzing Mark Amodei's alibi (read aloud in full)",
+          "related_claims": [
+            "C-1984"
+          ],
+          "related_nodes": [
+            "N-603",
+            "N-606",
+            "N-1442"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1566",
+      "family_ref": "A-1566",
+      "bundle_name": "Cabot Phillips Photograph Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1566.1",
+          "ref": "A-1566.1",
+          "description": "Photograph of Cabot Phillips (sent to Mitch via text message, no contextual identification provided)",
+          "related_claims": [
+            "C-1985"
+          ],
+          "related_nodes": [
+            "N-605",
+            "N-608",
+            "N-1443"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1567",
+      "family_ref": "A-1567",
+      "bundle_name": "Fort Huachuca Investigation Materials Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1567.1",
+          "ref": "A-1567.1",
+          "description": "Video of Mitch asking for directions to Fort Huachuca (≈18 minutes)",
+          "related_claims": [
+            "C-1987"
+          ],
+          "related_nodes": [
+            "N-608",
+            "N-1441"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1567.2",
+          "ref": "A-1567.2",
+          "description": "Brian Harpole travel logs",
+          "related_claims": [
+            "C-1986"
+          ],
+          "related_nodes": [
+            "N-604",
+            "N-1441",
+            "N-1444"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1567.3",
+          "ref": "A-1567.3",
+          "description": "Mitch NDA-related lawsuit paperwork",
+          "related_claims": [
+            "C-1987"
+          ],
+          "related_nodes": [
+            "N-608",
+            "N-1441"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-601",
+      "ref": "N-601",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Daily Wire founder; figure whose AmFest speech, prior pettiness toward the host, and asserted pressure on TPUSA donors regarding Tucker Carlson form the structural backbone of this episode's first half.",
+      "related_artifacts": [
+        "A-1561.1",
+        "A-1562.1",
+        "A-1563.1"
+      ],
+      "related_claims": [
+        "C-1980",
+        "C-1981",
+        "C-1982"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-602",
+      "ref": "N-602",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Speaker at AmFest whose on-stage statements are used as an artifact to support the claim that Charlie Kirk was pressured to remove Tucker from the roster.",
+      "related_artifacts": [
+        "A-1562.1"
+      ],
+      "related_claims": [
+        "C-1981"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-601"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-603",
+      "ref": "N-603",
+      "name": "Mark Amodei",
+      "type": "person",
+      "description": "U.S. Representative (NV); subject of contradictory public-record claims regarding his whereabouts on September 9, 2025.",
+      "related_artifacts": [
+        "A-1564.1",
+        "A-1565.1"
+      ],
+      "related_claims": [
+        "C-1983",
+        "C-1984"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1442"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-604",
+      "ref": "N-604",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Charlie Kirk's security officer; travel logs referenced as supporting the possibility he attended the Fort Huachuca morning meeting.",
+      "related_artifacts": [
+        "A-1567.2"
+      ],
+      "related_claims": [
+        "C-1986"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-1441",
+        "N-1444"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-605",
+      "ref": "N-605",
+      "name": "Cabot Phillips",
+      "type": "person",
+      "description": "Daily Wire / Morning Wire contributor; identified by Mitch from a photograph as a person seen at Fort Huachuca; subject of a separate dating-history claim involving Erika Kirk.",
+      "related_artifacts": [
+        "A-1566.1"
+      ],
+      "related_claims": [
+        "C-1985"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-1443",
+        "N-1445"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-606",
+      "ref": "N-606",
+      "name": "Diligent Dennison",
+      "type": "person",
+      "description": "X poster; author of the read-aloud post analyzing Mark Amodei's alibi and identifying missed roll calls.",
+      "related_artifacts": [
+        "A-1565.1"
+      ],
+      "related_claims": [
+        "C-1984"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-603",
+        "N-1442"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-607",
+      "ref": "N-607",
+      "name": "Jeremy Boreing (transcribed as \"Jeremy Boring\")",
+      "type": "person",
+      "description": "Then-CEO of the Daily Wire; conducted the town hall–style firing of Candace Owens captured in A-1563.1.",
+      "related_artifacts": [
+        "A-1563.1"
+      ],
+      "related_claims": [
+        "C-1982"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-608",
+      "ref": "N-608",
+      "name": "Mitch",
+      "type": "person",
+      "description": "Fort Huachuca witness; his access, NDA-related lawsuit paperwork, and direction-request video are referenced as verified by the host.",
+      "related_artifacts": [
+        "A-1566.1",
+        "A-1567.1",
+        "A-1567.3"
+      ],
+      "related_claims": [
+        "C-1985",
+        "C-1987"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1441"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1441",
+      "ref": "N-1441",
+      "name": "Fort Huachuca Morning Meeting Investigation",
+      "type": "investigation_target",
+      "description": "Persistent investigable target: an alleged early-morning meeting at Fort Huachuca on September 9, 2025, whose attendees include (per witness) a congressman and a Daily Wire contributor.",
+      "related_artifacts": [
+        "A-1567.1",
+        "A-1567.2",
+        "A-1567.3"
+      ],
+      "related_claims": [
+        "C-1985",
+        "C-1986",
+        "C-1987"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-603",
+        "N-604",
+        "N-605",
+        "N-608"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1442",
+      "ref": "N-1442",
+      "name": "Mark Amodei September 9 Alibi Verification",
+      "type": "investigation_target",
+      "description": "Persistent inconsistency between Amodei's own X claim of full-day attendance in D.C. and Diligent Dennison's record-based analysis of missed morning roll calls.",
+      "related_artifacts": [
+        "A-1564.1",
+        "A-1565.1"
+      ],
+      "related_claims": [
+        "C-1983",
+        "C-1984"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-603",
+        "N-606"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1443",
+      "ref": "N-1443",
+      "name": "Cabot Phillips Fort Huachuca Presence Verification",
+      "type": "investigation_target",
+      "description": "Verification target: whether Cabot Phillips was in fact at Fort Huachuca on September 9, 2025; pending response to host's outreach.",
+      "related_artifacts": [
+        "A-1566.1"
+      ],
+      "related_claims": [
+        "C-1985"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-605",
+        "N-608"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1444",
+      "ref": "N-1444",
+      "name": "Brian Harpole Fort Huachuca Presence Verification",
+      "type": "investigation_target",
+      "description": "Verification target: whether Brian Harpole attended the Fort Huachuca morning meeting; travel logs cited as enabling but not confirming attendance.",
+      "related_artifacts": [
+        "A-1567.2"
+      ],
+      "related_claims": [
+        "C-1986"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-604",
+        "N-1441"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1445",
+      "ref": "N-1445",
+      "name": "Erika Kirk Pre-Charlie Dating History Verification",
+      "type": "investigation_target",
+      "description": "Verification target: whether Erika Kirk publicly stated she never dated anyone before Charlie Kirk, and the status of social-media evidence showing otherwise (Cabot Phillips).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1988"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-605"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1980",
+      "ref": "C-1980",
+      "label": "Ben Shapiro Demanded Candace Owens Be Called Out by Name at AmFest",
+      "claim": "At AmFest, Ben Shapiro stated that Candace Owens was casting aspersions on TPUSA staff and on Erika Kirk, and that people with microphones had a moral obligation to call her out by name.",
+      "anchored_artifacts": [
+        "A-1561.1"
+      ],
+      "related_nodes": [
+        "N-601",
+        "N-3",
+        "N-1",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:29 – 00:20:44",
+      "investigative_direction": "Obtain the full unedited AmFest video and timestamp; verify whether Shapiro named specific TPUSA staff (Mikey McCormick, Andrew Colvin, Blake Neff, Tyler Bowyer, Erika Kirk) and the precise wording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1981",
+      "ref": "C-1981",
+      "label": "Tucker Carlson Stated Charlie Kirk Faced Donor Pressure to Remove Him From AmFest Roster",
+      "claim": "Tucker Carlson stated at AmFest that during the last several months of Charlie Kirk's life, donors to Turning Point — whom Carlson attributed in part to Ben Shapiro's insistence — pressured Kirk to remove Tucker from the AmFest speaker roster.",
+      "anchored_artifacts": [
+        "A-1562.1"
+      ],
+      "related_nodes": [
+        "N-602",
+        "N-1",
+        "N-601"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:37 – 00:26:29",
+      "investigative_direction": "Obtain the full unedited Carlson speech; verify the specific donor names and corroborate through contemporaneous TPUSA communications."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1982",
+      "ref": "C-1982",
+      "label": "Daily Wire Held a Town Hall–Style Firing Event for Candace Owens with Ben Shapiro Appearing Electronically",
+      "claim": "The Daily Wire held a \"town hall\"–style firing event attended by approximately 300 employees in which then-CEO Jeremy Boreing narrated a packaged presentation of Owens's X posts (October 28, 2023 protest repost; November 3, 2023 genocide tweet; pornography tweet; \"Christ is King\" tweets), with Ben Shapiro joining electronically on screen.",
+      "anchored_artifacts": [
+        "A-1563.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-601",
+        "N-607"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:45 – 00:15:40",
+      "investigative_direction": "Obtain the full leaked town hall video; verify the exact date, attendance count, and the specific X posts cited as grounds."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1983",
+      "ref": "C-1983",
+      "label": "Mark Amodei Publicly Claimed a 12-House-Floor Alibi for September 9",
+      "claim": "Mark Amodei publicly asserted via X that on September 9 he was in a 12-hour House Appropriations Committee meeting and voting on the House floor, citing the public record.",
+      "anchored_artifacts": [
+        "A-1564.1"
+      ],
+      "related_nodes": [
+        "N-603",
+        "N-1442"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:44",
+      "investigative_direction": "Retrieve the original X post URL; cross-reference with the House Appropriations Committee's published September 9 video and the House roll call record."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1984",
+      "ref": "C-1984",
+      "label": "Mark Amodei Missed Two Morning Roll Calls on September 9",
+      "claim": "Per Diligent Dennison's X post analysis, Mark Amodei was not present for roll call until the third meeting in mid-afternoon on September 9 in D.C., having missed two morning roll calls.",
+      "anchored_artifacts": [
+        "A-1565.1"
+      ],
+      "related_nodes": [
+        "N-603",
+        "N-606",
+        "N-1442"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:36",
+      "investigative_direction": "Independently verify against the official House roll call vote record for September 9, 2025; verify flight routing feasibility for Amodei to have been at Fort Huachuca that morning and back in D.C. for the third roll call."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1985",
+      "ref": "C-1985",
+      "label": "Mitch Identified Cabot Phillips from a Photograph as a Person Seen at Fort Huachuca",
+      "claim": "After being shown a photograph of Cabot Phillips without contextual identification, Mitch identified him as a person he observed at Fort Huachuca on the morning of September 9.",
+      "anchored_artifacts": [
+        "A-1566.1"
+      ],
+      "related_nodes": [
+        "N-608",
+        "N-605",
+        "N-1443"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:56 – 00:43:14",
+      "investigative_direction": "Corroborate through independent identification sources; verify Cabot Phillips's whereabouts between September 4 and 10, 2025 (including Morning Wire appearance records); await response from Cabot Phillips to host's outreach."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1986",
+      "ref": "C-1986",
+      "label": "Brian Harpole's Travel Logs Permit Attendance at the Fort Huachuca Morning Meeting",
+      "claim": "Travel logs provided to the host indicate that Brian Harpole's flight routing would have allowed him to attend the early-morning Fort Huachuca meeting on September 9.",
+      "anchored_artifacts": [
+        "A-1567.2"
+      ],
+      "related_nodes": [
+        "N-604",
+        "N-1441",
+        "N-1444"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:30",
+      "investigative_direction": "Obtain or display the actual travel logs; corroborate against airline / charter records; await response from Brian Harpole to host's iMessage outreach."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1987",
+      "ref": "C-1987",
+      "label": "Mitch's Base Access, Hotel Booking, and NDA Paperwork Have Been Independently Verified",
+      "claim": "The host reports that Mitch's reported access to Fort Huachuca base, his hotel booking at Candlewood Inn & Suites, and his NDA-related lawsuit paperwork have all been verified by the host's team.",
+      "anchored_artifacts": [
+        "A-1567.1",
+        "A-1567.3"
+      ],
+      "related_nodes": [
+        "N-608",
+        "N-1441"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:21 – 00:34:20",
+      "investigative_direction": "Display or publish the underlying verification documents; obtain third-party corroboration beyond host's assertions."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1988",
+      "ref": "C-1988",
+      "label": "Erika Kirk Reportedly Claimed She Had Not Dated Anyone Before Charlie Kirk",
+      "claim": "The host reports that Erika Kirk publicly stated she had not dated anyone before Charlie Kirk, which the host characterizes as contradicting social-media evidence of a prior relationship with Cabot Phillips and his family.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-2",
+        "N-605",
+        "N-1445"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:44 – 00:45:06",
+      "investigative_direction": "Locate the original Erika Kirk statement (interview, podcast, or social-media post); obtain screenshots of the cited social-media evidence (painting lessons, family interactions); obtain corroboration from family members including Nicole Rothstein."
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,1016 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 25,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "47a250b4a7d456b87206c9f6ac24514ef27c6643b47dd4ad849208b1da6b7ce1",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1321",
+      "family_ref": "A-1321",
+      "bundle_name": "Memorial Service Audio Bundle: Mikey McCoy Praise Compilation",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1321.1",
+          "ref": "A-1321.1",
+          "description": "Memorial service audio compilation featuring multiple speakers (including Rob McCoy) characterizing Mikey McCoy with repeated adjectival framing (\"hero,\" \"amazing,\" \"brilliant,\" \"wise beyond his years\") and explicitly framing him as a potential successor to Charlie Kirk on campus",
+          "related_claims": [
+            "C-1584",
+            "C-1585"
+          ],
+          "related_nodes": [
+            "N-324",
+            "N-325",
+            "N-1288"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:42–00:05:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1322",
+      "family_ref": "A-1322",
+      "bundle_name": "Audio Clip Bundle: Rob McCoy on Faith Forward Show",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1322.1",
+          "ref": "A-1322.1",
+          "description": "Rob McCoy on Faith Forward Show discussing Mikey's future role at Turning Point USA, referencing Charlie's journaled succession plan through 2028 and connecting it to Erika's \"amazing Mikey McCoy\" speech",
+          "related_claims": [
+            "C-1585"
+          ],
+          "related_nodes": [
+            "N-325",
+            "N-324",
+            "N-2",
+            "N-1288"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:23–00:07:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1323",
+      "family_ref": "A-1323",
+      "bundle_name": "Audio Clip Bundle: Mikey McCoy on Asia Trip Documentation",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1323.1",
+          "ref": "A-1323.1",
+          "description": "Mikey McCoy on-camera statement that he brought the camera for the first time on the Asia/Korea trip and mic'd Charlie up — described by Mikey as occurring \"three, four days before Utah\"",
+          "related_claims": [
+            "C-1586"
+          ],
+          "related_nodes": [
+            "N-324",
+            "N-1",
+            "N-1289"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:01–00:10:58",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1324",
+      "family_ref": "A-1324",
+      "bundle_name": "Instagram Post Bundle: Eliza McCoy Family Trip Post",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1324.1",
+          "ref": "A-1324.1",
+          "description": "Eliza McCoy Instagram post stating \"We spent a few weeks together this summer. Our first family trip together\"",
+          "related_claims": [
+            "C-1587"
+          ],
+          "related_nodes": [
+            "N-326",
+            "N-324",
+            "N-1",
+            "N-2",
+            "N-1289"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1325",
+      "family_ref": "A-1325",
+      "bundle_name": "News Article Bundle: Ventura County Star on Rob McCoy Transition",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1325.1",
+          "ref": "A-1325.1",
+          "description": "Ventura County Star article reporting that Rob McCoy would step down as senior pastor of Godspeak Calvary Chapel in July 2025, with son-in-law Micah Stevens succeeding him; article also notes McCoy's Phoenix relocation tied to growing Turning Point USA responsibilities",
+          "related_claims": [
+            "C-1588"
+          ],
+          "related_nodes": [
+            "N-325",
+            "N-330",
+            "N-1290"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1326",
+      "family_ref": "A-1326",
+      "bundle_name": "News Report Bundle: Fox 13 Salt Lake City on UVU Event Application",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1326.1",
+          "ref": "A-1326.1",
+          "description": "Fox 13 News report (investigative reporter Nate Carile) describing UVU's release of the mid-July event application submitted by UVU's Turning Point USA chapter, and noting that the application form did not contain a standard question about police protection; UVU denied the security plan citing state records law",
+          "related_claims": [
+            "C-1589"
+          ],
+          "related_nodes": [
+            "N-331",
+            "N-1291"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:57–00:19:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1327",
+      "family_ref": "A-1327",
+      "bundle_name": "Real Estate Listing Bundle: Rob McCoy Coronado Property",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1327.1",
+          "ref": "A-1327.1",
+          "description": "Host's stated confirmation that Rob McCoy listed his Coronado (near San Diego) home for sale on August 24, 2025",
+          "related_claims": [
+            "C-1590"
+          ],
+          "related_nodes": [
+            "N-325",
+            "N-1290"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1328",
+      "family_ref": "A-1328",
+      "bundle_name": "Audio Clip Bundle: Tucker Carlson on Dave Smith — Theological Frame",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1328.1",
+          "ref": "A-1328.1",
+          "description": "Tucker Carlson on Dave Smith's show stating that collective punishment / blood guilt is antithetical to Christianity and to the western tradition, and that Israel (per Tucker's framing) does not hold a western position on this question",
+          "related_claims": [
+            "C-1591"
+          ],
+          "related_nodes": [
+            "N-327",
+            "N-328",
+            "N-329"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:25–00:35:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1329",
+      "family_ref": "A-1329",
+      "bundle_name": "Audio Clip Bundle: Tucker Carlson on Dave Smith — Nick Fuentes Explanation",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1329.1",
+          "ref": "A-1329.1",
+          "description": "Tucker Carlson explaining that he interviewed Nick Fuentes — who had attacked Tucker's wife, son, and father — to demonstrate the Christian principle of forgiveness and the capacity for personal change",
+          "related_claims": [
+            "C-1592"
+          ],
+          "related_nodes": [
+            "N-327",
+            "N-329",
+            "N-328"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:17–00:37:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1330",
+      "family_ref": "A-1330",
+      "bundle_name": "Tweet Bundle: Milo Yiannopoulos on Israel Denial Coverage",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1330.1",
+          "ref": "A-1330.1",
+          "description": "Milo Yiannopoulos tweet (read aloud by host) suggesting that Israel was behind the Kirk assassination, in the context of BBNet/Yahoo denial coverage",
+          "related_claims": [
+            "C-1594"
+          ],
+          "related_nodes": [
+            "N-334",
+            "N-1292"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1331",
+      "family_ref": "A-1331",
+      "bundle_name": "Source Leak Bundle: George Zinn Hospital Statement",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1331.1",
+          "ref": "A-1331.1",
+          "description": "Host's source-leak statement that George Zinn presented at Utah Valley Hospital after the 9/10 event to treat mild injuries, and told hospital staff he had been paid to engage in disruption but did not know the source of payment",
+          "related_claims": [
+            "C-1593"
+          ],
+          "related_nodes": [
+            "N-333",
+            "N-1293"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:52–00:43:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1332",
+      "family_ref": "A-1332",
+      "bundle_name": "AI Response Bundle: Grock on Israel-Egypt Intelligence Cooperation",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1332.1",
+          "ref": "A-1332.1",
+          "description": "Grock (xAI) response read aloud by host, stating that Israel and Egypt coordinate on intelligence operations with unprecedented cooperation since the 1979 peace treaty, including frequent intel-chief meetings and real-time data sharing",
+          "related_claims": [
+            "C-1595"
+          ],
+          "related_nodes": [
+            "N-1292"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-324",
+      "ref": "N-324",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Chief of Staff of Turning Point USA; subject of repeated adjectival framing (\"hero,\" \"amazing,\" \"brilliant\") in post-9/10 memorial and TPUSA orbit coverage; alleged by host to have been positioned as Charlie Kirk's successor.",
+      "related_artifacts": [
+        "A-1321.1",
+        "A-1322.1",
+        "A-1323.1",
+        "A-1324.1"
+      ],
+      "related_claims": [
+        "C-1584",
+        "C-1585",
+        "C-1586",
+        "C-1587"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-325",
+        "N-326",
+        "N-1",
+        "N-2",
+        "N-1288",
+        "N-1289"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-325",
+      "ref": "N-325",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Father of Mikey McCoy; transitioning senior pastor of Godspeak Calvary Chapel (mid-July 2025); per host, holds growing role at Turning Point USA; relocated to Phoenix area; placed Coronado home on market August 24, 2025.",
+      "related_artifacts": [
+        "A-1321.1",
+        "A-1322.1",
+        "A-1325.1",
+        "A-1327.1"
+      ],
+      "related_claims": [
+        "C-1584",
+        "C-1585",
+        "C-1588",
+        "C-1590"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-324",
+        "N-330",
+        "N-1290"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-326",
+      "ref": "N-326",
+      "name": "Eliza McCoy",
+      "type": "person",
+      "description": "Wife of Mikey McCoy; author of the Instagram post characterizing the McCoy-Kirk joint trip as the families' \"first family trip together.\"",
+      "related_artifacts": [
+        "A-1324.1"
+      ],
+      "related_claims": [
+        "C-1587"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-324",
+        "N-1289"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-327",
+      "ref": "N-327",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Subject of episode segment addressing backlash from Nick Fuentes interview; articulates theological anti-collective-punishment framing and explains decision to interview Fuentes.",
+      "related_artifacts": [
+        "A-1328.1",
+        "A-1329.1"
+      ],
+      "related_claims": [
+        "C-1591",
+        "C-1592"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-328",
+        "N-329"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-328",
+      "ref": "N-328",
+      "name": "Dave Smith",
+      "type": "person",
+      "description": "Host of the show on which Tucker Carlson appeared to address the Nick Fuentes interview backlash.",
+      "related_artifacts": [
+        "A-1328.1",
+        "A-1329.1"
+      ],
+      "related_claims": [
+        "C-1591",
+        "C-1592"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-327",
+        "N-329"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-329",
+      "ref": "N-329",
+      "name": "Nick Fuentes",
+      "type": "person",
+      "description": "Subject of Tucker Carlson's interview; framed by Tucker as example of capacity for personal change despite prior personal attacks on Tucker's family.",
+      "related_artifacts": [
+        "A-1328.1",
+        "A-1329.1"
+      ],
+      "related_claims": [
+        "C-1591",
+        "C-1592"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-327",
+        "N-328"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-330",
+      "ref": "N-330",
+      "name": "Micah Stevens",
+      "type": "person",
+      "description": "Rob McCoy's son-in-law; per Ventura County Star, designated to succeed Rob McCoy as senior pastor of Godspeak Calvary Chapel.",
+      "related_artifacts": [
+        "A-1325.1"
+      ],
+      "related_claims": [
+        "C-1588"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-325",
+        "N-1290"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-331",
+      "ref": "N-331",
+      "name": "Nate Carile",
+      "type": "person",
+      "description": "Fox 13 Salt Lake City investigative reporter who broke the story on UVU's release of the mid-July event application and the absence of a standard police-protection question on the form.",
+      "related_artifacts": [
+        "A-1326.1"
+      ],
+      "related_claims": [
+        "C-1589"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1291"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-332",
+      "ref": "N-332",
+      "name": "Sam Parker",
+      "type": "person",
+      "description": "Per host, identified as the source of the July 18 UVU/Turning Point USA event-request finding. (Name preserved as it appears in transcript; identity not further corroborated in this episode.)",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1291"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-333",
+      "ref": "N-333",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "Salt Lake City event disruptor; per host's source, presented at Utah Valley Hospital after the 9/10 event and stated he had been paid to disrupt without knowing the payment source.",
+      "related_artifacts": [
+        "A-1331.1"
+      ],
+      "related_claims": [
+        "C-1593"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1293"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-334",
+      "ref": "N-334",
+      "name": "Milo Yiannopoulos",
+      "type": "person",
+      "description": "Author of tweet read on-air suggesting Israel was behind the Kirk assassination, in the context of BBNet/Yahoo denial coverage.",
+      "related_artifacts": [
+        "A-1330.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1292"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1288",
+      "ref": "N-1288",
+      "name": "McCoy Succession Plan",
+      "type": "investigation_target",
+      "description": "Persistent target: whether, by whom, and through what mechanism Mikey McCoy was being positioned as Charlie Kirk's institutional successor; encompasses journal-based framing, adjectival praise pattern, and post-9/10 speaking-platform assignments.",
+      "related_artifacts": [
+        "A-1321.1",
+        "A-1322.1"
+      ],
+      "related_claims": [
+        "C-1584",
+        "C-1585"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-324",
+        "N-325",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1289",
+      "ref": "N-1289",
+      "name": "Mikey McCoy Pre-Death Documentation Pattern",
+      "type": "investigation_target",
+      "description": "Persistent target: the anomalous onset of Mikey McCoy's personal behind-the-scenes documentation of Charlie Kirk in the weeks preceding 9/10, including first-time micing on the Korea trip and first-time family-trip footage captured on the joint McCoy-Kirk vacation.",
+      "related_artifacts": [
+        "A-1323.1",
+        "A-1324.1"
+      ],
+      "related_claims": [
+        "C-1586",
+        "C-1587"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-324",
+        "N-326",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1290",
+      "ref": "N-1290",
+      "name": "Rob McCoy Relocation and Timing Pattern",
+      "type": "investigation_target",
+      "description": "Persistent target: the convergence of Rob McCoy's pastoral transition (mid-July 2025), Phoenix relocation, and Coronado property listing (August 24, 2025) in the period preceding 9/10.",
+      "related_artifacts": [
+        "A-1325.1",
+        "A-1327.1"
+      ],
+      "related_claims": [
+        "C-1588",
+        "C-1590"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-325",
+        "N-330"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1291",
+      "ref": "N-1291",
+      "name": "UVU Event Application Anomaly",
+      "type": "investigation_target",
+      "description": "Persistent target: the late (mid-July) submission of the 9/10 event application by UVU's TPUSA chapter, its rapid acceptance as \"stop number one,\" the absence of a standard police-protection question on the form, and UVU's subsequent denial of the security plan.",
+      "related_artifacts": [
+        "A-1326.1"
+      ],
+      "related_claims": [
+        "C-1589"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-331",
+        "N-332"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1292",
+      "ref": "N-1292",
+      "name": "Israeli Cell Phone Presence on 9/10",
+      "type": "investigation_target",
+      "description": "Persistent target: host's claim that 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at UVU on September 10, and that the NSA and Trump-administration officials are aware and suppressing this information.",
+      "related_artifacts": [
+        "A-1330.1",
+        "A-1332.1"
+      ],
+      "related_claims": [
+        "C-1594",
+        "C-1595"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-334"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1293",
+      "ref": "N-1293",
+      "name": "George Zinn Hospital Payment Claim",
+      "type": "investigation_target",
+      "description": "Persistent target: verification of George Zinn's alleged hospital statement (paid to disrupt, unknown payment source) and its provenance.",
+      "related_artifacts": [
+        "A-1331.1"
+      ],
+      "related_claims": [
+        "C-1593"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-333"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1584",
+      "ref": "C-1584",
+      "label": "Memorial Service Speakers Framed Mikey McCoy as Charlie's Heir Apparent",
+      "claim": "Memorial service speakers repeatedly characterized Mikey McCoy with adjectival framing (\"hero,\" \"amazing,\" \"brilliant,\" \"wise beyond his years\") and explicitly described him as capable of following in Charlie Kirk's footsteps on campus.",
+      "anchored_artifacts": [
+        "A-1321.1"
+      ],
+      "related_nodes": [
+        "N-324",
+        "N-325",
+        "N-1",
+        "N-1288"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:42–00:05:23",
+      "investigative_direction": "Obtain full memorial service audio/video; verify whether speaking slots and language were coordinated with TPUSA communications or Rob McCoy directly."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1585",
+      "ref": "C-1585",
+      "label": "Rob McCoy Connected Mikey's Role to Charlie's Journaled Succession Plan",
+      "claim": "On Faith Forward Show, Rob McCoy referenced Charlie Kirk's journaled succession plan extending through 2028 and connected Mikey's institutional future to Erika's \"amazing Mikey McCoy\" speech at the memorial.",
+      "anchored_artifacts": [
+        "A-1322.1"
+      ],
+      "related_nodes": [
+        "N-325",
+        "N-324",
+        "N-2",
+        "N-1288"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:23–00:07:16",
+      "investigative_direction": "Obtain the original Faith Forward Show episode; obtain copies or transcripts of Charlie Kirk's journals referenced by Rob McCoy; determine whether Rob McCoy had direct access to those journals."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1586",
+      "ref": "C-1586",
+      "label": "Mikey McCoy First Mic'd Charlie on the Final Asia Trip, Four Days Before 9/10",
+      "claim": "Mikey McCoy stated on camera that the Asia/Korea trip — which he described as occurring \"three, four days before Utah\" — was the first time he had traveled with the camera and the first time he mic'd Charlie Kirk up.",
+      "anchored_artifacts": [
+        "A-1323.1"
+      ],
+      "related_nodes": [
+        "N-324",
+        "N-1",
+        "N-1289"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:01–00:10:58",
+      "investigative_direction": "Verify whether AV staff were present on the Korea trip and why the chief of staff assumed miking duties; cross-reference dates against Charlie Kirk's known travel itinerary."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1587",
+      "ref": "C-1587",
+      "label": "Eliza McCoy Identified the McCoy-Kirk Trip as Their First Joint Family Vacation",
+      "claim": "Eliza McCoy's Instagram post states that the McCoy-Kirk joint trip was \"our first family trip together.\"",
+      "anchored_artifacts": [
+        "A-1324.1"
+      ],
+      "related_nodes": [
+        "N-326",
+        "N-324",
+        "N-1",
+        "N-2",
+        "N-1289"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:45",
+      "investigative_direction": "Verify Eliza McCoy's Instagram post metadata for date and context; cross-reference against the McCoy-Kirk trip timeline to confirm whether footage (including the \"sweet moment\" viral clip) was captured during this specific trip."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1588",
+      "ref": "C-1588",
+      "label": "Ventura County Star Reported Rob McCoy's July Pastoral Transition and Phoenix Relocation",
+      "claim": "Per Ventura County Star, Rob McCoy was scheduled to step down as senior pastor of Godspeak Calvary Chapel in mid-July 2025, with son-in-law Micah Stevens succeeding him, and had relocated to the Phoenix area due to growing Turning Point USA responsibilities.",
+      "anchored_artifacts": [
+        "A-1325.1"
+      ],
+      "related_nodes": [
+        "N-325",
+        "N-330",
+        "N-1290"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:47",
+      "investigative_direction": "Obtain the original Ventura County Star article; verify Rob McCoy's stated dates of pastoral transition and Phoenix home purchase; cross-reference against Turning Point USA organizational records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1589",
+      "ref": "C-1589",
+      "label": "UVU's TPUSA Chapter Submitted the 9/10 Event Application in Mid-July Without a Standard Police-Protection Question",
+      "claim": "Per Fox 13 News (Nate Carile), UVU's Turning Point USA chapter submitted the September 10 event application in mid-July; the application form did not contain a standard question about police protection; UVU subsequently denied release of the security plan citing state records law.",
+      "anchored_artifacts": [
+        "A-1326.1"
+      ],
+      "related_nodes": [
+        "N-331",
+        "N-1291"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:57–00:19:30",
+      "investigative_direction": "File records requests for the full UVU event application, security plan, and any internal communications between UVU and TPUSA; compare against standard UVU event application forms for the 2024–2025 academic year."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1590",
+      "ref": "C-1590",
+      "label": "Rob McCoy Listed His Coronado Home for Sale on August 24, 2025",
+      "claim": "Per host's stated confirmation, Rob McCoy placed his Coronado (near San Diego) home on the market on August 24, 2025.",
+      "anchored_artifacts": [
+        "A-1327.1"
+      ],
+      "related_nodes": [
+        "N-325",
+        "N-1290"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:50",
+      "investigative_direction": "Verify via Zillow/Redfin/realtor.com listing records for August 24, 2025; cross-reference ownership records with Rob McCoy's name and prior Coronado property references."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1591",
+      "ref": "C-1591",
+      "label": "Tucker Carlson Stated Collective Punishment Is Antithetical to Christianity and Western Civilization",
+      "claim": "On Dave Smith's show, Tucker Carlson asserted that collective punishment (blood guilt) is antithetical to Christianity and to the western tradition, and characterized Israel's position as outside that tradition.",
+      "anchored_artifacts": [
+        "A-1328.1"
+      ],
+      "related_nodes": [
+        "N-327",
+        "N-328",
+        "N-329"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:25–00:35:17",
+      "investigative_direction": "Obtain the full Dave Smith episode audio; verify the precise wording and context of Tucker's framing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1592",
+      "ref": "C-1592",
+      "label": "Tucker Carlson Cited Forgiveness as His Reason for Interviewing Nick Fuentes",
+      "claim": "Tucker Carlson stated that he interviewed Nick Fuentes — despite Fuentes's prior attacks on Tucker's wife, son, and father — to demonstrate the Christian principle that people can change and should not be permanently categorized by past actions.",
+      "anchored_artifacts": [
+        "A-1329.1"
+      ],
+      "related_nodes": [
+        "N-327",
+        "N-329",
+        "N-328"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:17–00:37:12",
+      "investigative_direction": "Obtain the full Dave Smith episode audio; verify the precise wording and any follow-up exchange."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1593",
+      "ref": "C-1593",
+      "label": "George Zinn Allegedly Stated at Utah Valley Hospital He Was Paid to Disrupt Without Knowing the Payment Source",
+      "claim": "Per host's source statement, George Zinn presented at Utah Valley Hospital after the 9/10 event for treatment of minor injuries sustained during the disruption and told staff he had been paid to engage in disruption but did not know the payment source.",
+      "anchored_artifacts": [
+        "A-1331.1"
+      ],
+      "related_nodes": [
+        "N-333",
+        "N-1293"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:52–00:43:00",
+      "investigative_direction": "Obtain hospital records, witness statements, and any source documentation for the alleged George Zinn statement; verify Zinn's presence at the event and his subsequent activities."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1594",
+      "ref": "C-1594",
+      "label": "Host Asserts 12 Israeli Cell-Phone Accounts Were Present at UVU on 9/10, with NSA and Administration Awareness",
+      "claim": "Per host's on-air assertion (framed as beyond-shadow-of-doubt confirmation), 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at Utah Valley University on September 10, and the NSA, Kash Patel, and current-administration officials are aware and suppressing this information.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1292",
+        "N-334"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:12–00:23:48",
+      "investigative_direction": "Identify and obtain the underlying verification source the host references (cited but not displayed in this episode); cross-reference against any declassified intelligence reporting; determine ownership of the 12 accounts through subpoena or administrative disclosure."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1595",
+      "ref": "C-1595",
+      "label": "Grock (xAI) Characterizes Israel-Egypt Intelligence Cooperation as Unprecedented Since the 1979 Peace Treaty",
+      "claim": "Per Grock (xAI) response read aloud by the host, Israel and Egypt coordinate on intelligence operations with unprecedented cooperation since the 1979 peace treaty, including frequent intelligence-chief meetings and real-time data sharing.",
+      "anchored_artifacts": [
+        "A-1332.1"
+      ],
+      "related_nodes": [
+        "N-1292"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:51",
+      "investigative_direction": "Independently verify against academic and government sources on Israeli-Egyptian intelligence cooperation; note that AI-generated responses are secondary sources requiring independent corroboration."
+    }
+  ],
+  "memes": []
+}

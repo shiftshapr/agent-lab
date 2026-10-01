@@ -1,0 +1,567 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 36,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "a89218d4d04a2df3f8e04c4fe335c3db1d4678833ce6a2ff96d09fa4d7c3d362",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Episode 36 combines (a) host's reconstruction of a multi-month timeline linking the Macron investigation to events surrounding the Charlie Kirk assassination, much of which is host narration referencing prior-episode material, with (b) four distinct artifact-anchored evidentiary segments presented in this episode. The artifact-anchored material consists of: (1) a displayed text exchange between host and Charlie Kirk from February 24–25, 2025 documenting White House and POTUS-side contact regarding the Macron topic; (2) a displayed internal legal-team communication from July 27, 2025 analyzing Delaware jurisdictional defects in the Macron lawsuit; (3) an audio/video clip from Brian Harpole's appearance on the Shawn Ryan show in which he read aloud text messages between Dan Flood and UVU Police Chief Jeff Long about student roof access, presented in a manner the host asserts was misrepresentative; and (4) a KUTV investigative report documenting that Washington County Sheriff's office states Tyler Robinson surveillance footage is no longer available, citing a 30-day retention period. A Tucker Carlson speech clip from the July 18 Turning Point event is also played. The episode does not present new primary artifacts supporting the bulk of the host's broader timeline claims about the Satis hanger, the Egyptian plane schedule, the foreign-dignitary transfer, the MK Ultra / Stanford line of investigation, or the phone calls with Andrew Kovette and the unnamed CIA-contractor spouse; these are preserved as host assertions and excluded from the Claim Register per the admission test.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1445",
+      "family_ref": "A-1445",
+      "bundle_name": "Text Message Bundle (Owens–Kirk)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1445.1",
+          "ref": "A-1445.1",
+          "description": "Displayed text exchange between Candace Owens and Charlie Kirk (Feb 24–25, 2025), including Charlie's message \"Hey, I have something to tell you from the White House. They asked me to call you. I'm just the messenger here, but it's important,\" host's reply, follow-up exchange about circling back, and Charlie's Feb 25 text \"The White House just asked for your number FYI. I think POTUS might call you.\"",
+          "related_claims": [
+            "C-1759",
+            "C-1760"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-3",
+            "N-1341"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1446",
+      "family_ref": "A-1446",
+      "bundle_name": "Legal Team Communication Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1446.1",
+          "ref": "A-1446.1",
+          "description": "Displayed private communication between host and her legal team (July 27, 2025), including counsel's assessment that the Macron lawsuit should be dismissed for forum non conveniens, citing host's Tennessee domicile, lack of Delaware defamation, witnesses in Tennessee, and Macron parties not being Delaware citizens.",
+          "related_claims": [
+            "C-1761"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-1341"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1447",
+      "family_ref": "A-1447",
+      "bundle_name": "Shawn Ryan Interview Clip Family",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1447.1",
+          "ref": "A-1447.1",
+          "description": "Audio/video clip from the Shawn Ryan show featuring Brian Harpole (Turning Point USA head of security), including his reading of the Flood–Long text exchange and his characterization of his communication with UVU Police Chief Jeff Long.",
+          "related_claims": [
+            "C-1762"
+          ],
+          "related_nodes": [
+            "N-433",
+            "N-434",
+            "N-435",
+            "N-436",
+            "N-1343"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1448",
+      "family_ref": "A-1448",
+      "bundle_name": "Flood–Long Text Message Family",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1448.1",
+          "ref": "A-1448.1",
+          "description": "Text exchange between Dan Flood (Turning Point USA security) and UVU Police Chief Jeff Long, read aloud by Brian Harpole during the Shawn Ryan interview, covering student roof access at the Sorenson Center (with staircases to walkways/roofs), the request for controlled access or TP personnel presence, and Chief Long's response \"I got you covered.\"",
+          "related_claims": [
+            "C-1762",
+            "C-1763"
+          ],
+          "related_nodes": [
+            "N-433",
+            "N-434",
+            "N-435",
+            "N-1343"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1449",
+      "family_ref": "A-1449",
+      "bundle_name": "KUTV News Investigating Clip Family",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1449.1",
+          "ref": "A-1449.1",
+          "description": "Audio/video clip of KUTV investigative report on missing Washington County Sheriff's office surveillance footage of Tyler Robinson, including Sheriff Nate Brooksby's September 17, 2025 press conference (\"Our job was not to interview. Our job was just to get him here\" / \"Within the hour, my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives\"), records-request responses stating no records responsive and Robinson \"did not go to the jail area,\" and the later response citing the \"30-day retention period.\"",
+          "related_claims": [
+            "C-1764",
+            "C-1765",
+            "C-1766"
+          ],
+          "related_nodes": [
+            "N-437",
+            "N-1342"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:28",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1450",
+      "family_ref": "A-1450",
+      "bundle_name": "Tucker Carlson SAS Speech Clip Family",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1450.1",
+          "ref": "A-1450.1",
+          "description": "Audio/video clip of Tucker Carlson speech at Turning Point USA event (July 18, 2025), criticizing crony wealth, naming Bill Ackman, citing Jeffrey Epstein's multiple Gulf Streams and properties, and arguing wealth in America is not merit-based.",
+          "related_claims": [
+            "C-1767"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-433",
+      "ref": "N-433",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Turning Point USA head of security; appeared on Shawn Ryan show and is alleged by host to have misrepresented the provenance of text messages read during that interview.",
+      "related_artifacts": [
+        "A-1447.1",
+        "A-1448.1"
+      ],
+      "related_claims": [
+        "C-1762"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1343"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-434",
+      "ref": "N-434",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Turning Point USA security figure identified as the author of the text exchange to Chief Jeff Long about Sorenson Center rooftop access.",
+      "related_artifacts": [
+        "A-1448.1"
+      ],
+      "related_claims": [
+        "C-1763"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1343"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-435",
+      "ref": "N-435",
+      "name": "Jeff Long",
+      "type": "person",
+      "description": "UVU Police Chief identified as correspondent in the Flood text exchange; subject of host's allegation that Harpole misrepresented the communication channel.",
+      "related_artifacts": [
+        "A-1448.1"
+      ],
+      "related_claims": [
+        "C-1763"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1343"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-436",
+      "ref": "N-436",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "Host of the interview platform on which Brian Harpole appeared; identified by host as having \"got played\" by the Harpole appearance.",
+      "related_artifacts": [
+        "A-1447.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-433"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-437",
+      "ref": "N-437",
+      "name": "Nate Brooksby",
+      "type": "person",
+      "description": "Washington County Sheriff who held the September 17, 2025 press conference at which he stated \"Our job was not to interview. Our job was just to get him here\" and that \"my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives.\"",
+      "related_artifacts": [
+        "A-1449.1"
+      ],
+      "related_claims": [
+        "C-1764",
+        "C-1765",
+        "C-1766"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1342"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1341",
+      "ref": "N-1341",
+      "name": "Macron Defamation Lawsuit Delaware Venue Question",
+      "type": "investigation_target",
+      "description": "Persistent investigative target regarding why the Macron defamation suit was filed in Delaware despite host's Tennessee domicile and lack of Delaware-based defamation; intersects with the Wilmington Satis hanger, 920 King Street facility, and the host's broader \"France angle.\"",
+      "related_artifacts": [
+        "A-1445.1",
+        "A-1446.1"
+      ],
+      "related_claims": [
+        "C-1759",
+        "C-1761"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1342",
+      "ref": "N-1342",
+      "name": "Tyler Robinson Washington County Surveillance Footage Gap",
+      "type": "investigation_target",
+      "description": "Persistent investigative target regarding the unavailability of surveillance footage of Tyler Robinson at the Washington County Sheriff's office, including the 30-day retention explanation and Washington County's denial that footage was shared with involved agencies.",
+      "related_artifacts": [
+        "A-1449.1"
+      ],
+      "related_claims": [
+        "C-1764",
+        "C-1765",
+        "C-1766"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-437"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1343",
+      "ref": "N-1343",
+      "name": "Harpole–Flood Text Attribution Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent investigative target regarding host's assertion that Brian Harpole presented text messages between Dan Flood and UVU Police Chief Jeff Long using phrasing consistent with claiming them as his own communications during the Shawn Ryan interview.",
+      "related_artifacts": [
+        "A-1447.1",
+        "A-1448.1"
+      ],
+      "related_claims": [
+        "C-1762",
+        "C-1763"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-433",
+        "N-434",
+        "N-435"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1759",
+      "ref": "C-1759",
+      "label": "White House Contacted Candace Owens via Charlie Kirk About Macron Topic (Feb 24, 2025)",
+      "claim": "The displayed text exchange documents Charlie Kirk informing Candace Owens that \"the White House\" asked him to call her, with Kirk characterizing himself as \"just the messenger here, but it's important.\"",
+      "anchored_artifacts": [
+        "A-1445.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-3",
+        "N-1341"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:20",
+      "investigative_direction": "Authenticate text message metadata; identify the specific White House staffer or office referenced; cross-reference with White House call logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1760",
+      "ref": "C-1760",
+      "label": "Charlie Kirk Stated POTUS Might Call Candace Owens Directly (Feb 25, 2025)",
+      "claim": "The displayed text exchange documents Charlie Kirk informing host that \"The White House just asked for your number FYI. I think POTUS might call you.\"",
+      "anchored_artifacts": [
+        "A-1445.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-3",
+        "N-1341"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:20",
+      "investigative_direction": "Cross-reference with the host's separately claimed Feb 26 Trump call; verify call records; confirm POTUS-side initiator."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1761",
+      "ref": "C-1761",
+      "label": "Host's Legal Team Identified No Delaware Jurisdiction Basis in Macron Lawsuit (July 27, 2025)",
+      "claim": "Displayed legal-team communication asserts the Macron lawsuit should be moved/dismissed for forum non conveniens, citing host's Tennessee domicile, lack of Delaware defamation, Tennessee-based witnesses, and Macron parties not being Delaware citizens.",
+      "anchored_artifacts": [
+        "A-1446.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-1341"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:38",
+      "investigative_direction": "Obtain the underlying court filings and motion-to-dismiss documents; verify jurisdictional analysis against Macron Delaware corporate registrations; check final ruling on motion."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1762",
+      "ref": "C-1762",
+      "label": "Brian Harpole Presented Flood–Long Text Exchange as His Own Communication",
+      "claim": "Host asserts Brian Harpole described the Dan Flood–Jeff Long text exchange using phrasing consistent with presenting it as his own correspondence, rather than identifying it as a Flood–Long exchange.",
+      "anchored_artifacts": [
+        "A-1447.1",
+        "A-1448.1"
+      ],
+      "related_nodes": [
+        "N-433",
+        "N-434",
+        "N-435",
+        "N-436",
+        "N-1343"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:36",
+      "investigative_direction": "Compare full Shawn Ryan interview transcript with authenticated text-message records; verify who authored and received the communications."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1763",
+      "ref": "C-1763",
+      "label": "Flood–Long Text Exchange Discussed Student Roof Access at Sorenson Center",
+      "claim": "The text exchange as read in the episode documents an outreach about student roof access (Sorenson Center staircases to walkways/roofs near the CK setup), a request for either controlled access or TP personnel presence, and Chief Long's response \"I got you covered.\"",
+      "anchored_artifacts": [
+        "A-1448.1"
+      ],
+      "related_nodes": [
+        "N-434",
+        "N-435",
+        "N-1343"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:36",
+      "investigative_direction": "Authenticate text records via UVU and Turning Point; cross-reference with UVU Police event-day access logs and rooftop control measures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1764",
+      "ref": "C-1764",
+      "label": "Washington County Sheriff's Office States Tyler Robinson Surveillance Footage No Longer Available",
+      "claim": "KUTV investigative report documents that Washington County Sheriff's office responded to records requests stating there were no records responsive to requests for surveillance footage of Tyler Robinson at the facility.",
+      "anchored_artifacts": [
+        "A-1449.1"
+      ],
+      "related_nodes": [
+        "N-437",
+        "N-1342"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:28",
+      "investigative_direction": "Submit additional GRAMA requests; check for court-issued preservation orders; verify chain-of-custody with other involved agencies."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1765",
+      "ref": "C-1765",
+      "label": "Washington County Cites 30-Day Retention Period for Footage Unavailability",
+      "claim": "Washington County Sheriff's office response to the generalized records request, as reported by KUTV, stated that \"the surveillance footage is no longer available after the 30-day retention period.\"",
+      "anchored_artifacts": [
+        "A-1449.1"
+      ],
+      "related_nodes": [
+        "N-437",
+        "N-1342"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:28",
+      "investigative_direction": "Obtain Washington County's written retention policy; verify standard practice for high-profile cases; check whether Utah County or any other agency holds preserved copies."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1766",
+      "ref": "C-1766",
+      "label": "Brooksby Statement: Friend Drove Tyler Robinson and Parents to Sheriff's Office",
+      "claim": "Washington County Sheriff Nate Brooksby, in his September 17, 2025 press conference as reported by KUTV, stated: \"Within the hour, my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives.\"",
+      "anchored_artifacts": [
+        "A-1449.1"
+      ],
+      "related_nodes": [
+        "N-437",
+        "N-1342"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:28",
+      "investigative_direction": "Cross-reference Brooksby's account with charging documents, defense filings, witness statements, and any subsequent corrections."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1767",
+      "ref": "C-1767",
+      "label": "Tucker Carlson Criticized Epstein-Connected and Crony Wealth at Turning Point Event (July 18, 2025)",
+      "claim": "The played audio clip documents Tucker Carlson at a Turning Point event criticizing Epstein-connected wealth (Gulf Streams, island, ranch, NYC residence), naming Bill Ackman, and arguing U.S. wealth is not merit-based.",
+      "anchored_artifacts": [
+        "A-1450.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:15",
+      "investigative_direction": "Obtain full speech transcript and video; verify exact date, venue, and audience; cross-reference with TPUSA's own published event materials."
+    }
+  ],
+  "memes": []
+}

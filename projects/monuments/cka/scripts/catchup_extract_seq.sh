@@ -9,16 +9,18 @@ if [[ ! -x "$PY" ]]; then
 fi
 LO="${1:-21}"
 HI="${2:-156}"
+FAILED=()
 for ep in $(seq "$LO" "$HI"); do
-  if [[ -f "projects/monuments/cka/drafts/episode_${ep}.md" ]]; then
+  ep_file=$(printf 'projects/monuments/cka/drafts/episode_%03d.md' "$ep")
+  if [[ -f "$ep_file" ]]; then
     echo "=== skip CKA seq $ep (draft exists) ==="
     continue
   fi
   echo "=== CKA extract seq $ep ==="
-  if ! timeout 2400 env \
+  if ! timeout 10800 env \
     EPISODE_ANALYSIS_PROJECT=cka \
     EPISODE_ANALYSIS_OUTPUT=drafts \
-    EPISODE_ANALYSIS_TWO_PHASE=0 \
+    EPISODE_ANALYSIS_TWO_PHASE=1 \
     EPISODE_ANALYSIS_ONLY="$ep" \
     EPISODE_ANALYSIS_FORCE=1 \
     EPISODE_ANALYSIS_MAX_OUTPUT_TOKENS=32000 \
@@ -26,14 +28,38 @@ for ep in $(seq "$LO" "$HI"); do
     echo "WARN: extract failed or timed out for seq $ep" >&2
   fi
   shopt -s nullglob
-  long=(projects/monuments/cka/drafts/episode_${ep}_*.md)
+  long=(projects/monuments/cka/drafts/episode_$(printf '%03d' "$ep")_*.md)
   if ((${#long[@]})); then
     "$PY" projects/monuments/cka/scripts/batch2_normalize_draft.py "${long[@]}"
     rm -f "${long[@]}"
   fi
-  if [[ ! -f "projects/monuments/cka/drafts/episode_${ep}.md" ]]; then
-    echo "ERROR: missing episode_${ep}.md after extract" >&2
-    exit 1
+  if [[ ! -f "$ep_file" ]]; then
+    echo "ERROR: missing $ep_file after extract (will retry at end)" >&2
+    FAILED+=("$ep")
+    continue
   fi
 done
+if ((${#FAILED[@]})); then
+  echo "=== retry failed episodes: ${FAILED[*]} ==="
+  for ep in "${FAILED[@]}"; do
+    ep_file=$(printf 'projects/monuments/cka/drafts/episode_%03d.md' "$ep")
+    [[ -f "$ep_file" ]] && continue
+    echo "=== CKA retry seq $ep ==="
+    timeout 10800 env \
+      EPISODE_ANALYSIS_PROJECT=cka \
+      EPISODE_ANALYSIS_OUTPUT=drafts \
+      EPISODE_ANALYSIS_TWO_PHASE=1 \
+      EPISODE_ANALYSIS_ONLY="$ep" \
+      EPISODE_ANALYSIS_FORCE=1 \
+      EPISODE_ANALYSIS_MAX_OUTPUT_TOKENS=32000 \
+      "$PY" protocols/episode_analysis/episode_analysis_protocol.py || true
+    shopt -s nullglob
+    long=(projects/monuments/cka/drafts/episode_$(printf '%03d' "$ep")_*.md)
+    if ((${#long[@]})); then
+      "$PY" projects/monuments/cka/scripts/batch2_normalize_draft.py "${long[@]}"
+      rm -f "${long[@]}"
+    fi
+    [[ -f "$ep_file" ]] || echo "FATAL: still missing $ep_file" >&2
+  done
+fi
 echo "CATCHUP_EXTRACT_DONE"

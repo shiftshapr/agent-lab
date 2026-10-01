@@ -1,0 +1,767 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 64,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "6dd179617c93d9b189013177ccf6a13ebe005629aa7ab4b3c03e97804d4d7234",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1686",
+      "family_ref": "A-1686",
+      "bundle_name": "TPUSA Corporate Zoom Call Bundle (2025-09-16)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1686.1",
+          "ref": "A-1686.1",
+          "description": "Opening Segment — Laughter, Zoom \"Thumbs Up,\" Initial Grief Expression",
+          "related_claims": [
+            "C-2206",
+            "C-2207",
+            "C-2220"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-795",
+            "N-797"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1686.2",
+          "ref": "A-1686.2",
+          "description": "Main Address — \"Family\" Framing, Job-Safety Assurance, Self-Correction Around \"Happy\"",
+          "related_claims": [
+            "C-2206",
+            "C-2208",
+            "C-2209",
+            "C-2210"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-795",
+            "N-1519"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1686.3",
+          "ref": "A-1686.3",
+          "description": "Closing Segment — \"Be Soft With One Another,\" Airplane 15-Minute Story Attributed to \"Usha,\" \"So Sweet, God Bless You All\"",
+          "related_claims": [
+            "C-2206",
+            "C-2211",
+            "C-2212"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1519"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1687",
+      "family_ref": "A-1687",
+      "bundle_name": "TPUSA Board Announcement Letter Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1687.1",
+          "ref": "A-1687.1",
+          "description": "Doug DeGroot Board Letter Announcing Erika Kirk as CEO and Chair (Published 2025-09-17)",
+          "related_claims": [
+            "C-2213",
+            "C-2214"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-796"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:08",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1688",
+      "family_ref": "A-1688",
+      "bundle_name": "Jeremy Boreing Interview Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1688.1",
+          "ref": "A-1688.1",
+          "description": "Boreing on Hiring Candace as His \"Biggest Professional Mistake\"",
+          "related_claims": [
+            "C-2215"
+          ],
+          "related_nodes": [
+            "N-794"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1688.2",
+          "ref": "A-1688.2",
+          "description": "Boreing on Candace as \"Nuclear Energy\" Doing \"An Incredible Amount of Damage\"",
+          "related_claims": [
+            "C-2216",
+            "C-2221"
+          ],
+          "related_nodes": [
+            "N-794"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1688.3",
+          "ref": "A-1688.3",
+          "description": "Boreing Comparing Candace's Show to \"Rhetorical Pornography\"",
+          "related_claims": [
+            "C-2217",
+            "C-2222"
+          ],
+          "related_nodes": [
+            "N-794"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:59",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1688.4",
+          "ref": "A-1688.4",
+          "description": "Boreing Claiming Candace Said \"I Believe What the People Believe\" on Two Occasions",
+          "related_claims": [
+            "C-2218",
+            "C-2223"
+          ],
+          "related_nodes": [
+            "N-794"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1689",
+      "family_ref": "A-1689",
+      "bundle_name": "The Bulwark Podcast Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1689.1",
+          "ref": "A-1689.1",
+          "description": "Bulwark Segment on Daily Wire Hungary Production — Extras in a Marsh, Travel to Italy, Bulls Imported From Spain",
+          "related_claims": [
+            "C-2219",
+            "C-2224"
+          ],
+          "related_nodes": [
+            "N-794",
+            "N-1520"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-794",
+      "ref": "N-794",
+      "name": "Jeremy Boreing",
+      "type": "person",
+      "description": "Former CEO of The Daily Wire. Subject of multiple artifact-anchored claims in this episode regarding his characterization of Candace Owens and his management of the company's Hungarian production.",
+      "related_artifacts": [
+        "A-1688.1",
+        "A-1688.2",
+        "A-1688.3",
+        "A-1688.4",
+        "A-1689.1"
+      ],
+      "related_claims": [
+        "C-2215",
+        "C-2216",
+        "C-2217",
+        "C-2218",
+        "C-2219",
+        "C-2221",
+        "C-2222",
+        "C-2223",
+        "C-2224"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1520"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-795",
+      "ref": "N-795",
+      "name": "Stacy Sheridan",
+      "type": "person",
+      "description": "Head of Fundraising for Turning Point USA. Referenced by name during the September 16 corporate Zoom call (\"even Stacy said he's going to…find ways to speak to us\"). Host alleges Sheridan traveled with Erika to Utah and was present at the hospital and during the casket arrival.",
+      "related_artifacts": [
+        "A-1686.2"
+      ],
+      "related_claims": [
+        "C-2208"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-796",
+      "ref": "N-796",
+      "name": "Doug DeGroot",
+      "type": "person",
+      "description": "TPUSA board member. Author of the September 17, 2025 board letter (A-1687.1) announcing Erika Kirk as CEO and Chair of Turning Point USA.",
+      "related_artifacts": [
+        "A-1687.1"
+      ],
+      "related_claims": [
+        "C-2213",
+        "C-2214"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-797",
+      "ref": "N-797",
+      "name": "Teo Farnsworth",
+      "type": "person",
+      "description": "Identified by host during playback of the September 16 Zoom call as audible in the background of the recording.",
+      "related_artifacts": [
+        "A-1686.1"
+      ],
+      "related_claims": [
+        "C-2220"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1517",
+      "ref": "N-1517",
+      "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy between Andrew Kolvet's account (Netanyahu offered to fund TPUSA \"to the next level\") and Erika Kirk's account (no funding offer was made; Bibi was calling about a May letter) regarding the Hamptons retreat phone call.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1518",
+      "ref": "N-1518",
+      "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy regarding whether Dr. Lee Trotter acted independently and violated HIPAA, or whether Erika Kirk was present on a three-way call with the surgeon on the day of Charlie Kirk's funeral mass, and whether the \"Superman neck\" statement originated from her.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1519",
+      "ref": "N-1519",
+      "name": "TPUSA September 16 Corporate Call Framing Pattern",
+      "type": "investigation_target",
+      "description": "Investigation target concerning Erika Kirk's \"family\" / job-safety framing of TPUSA staff in the September 16 Zoom call, juxtaposed by host against subsequent employee terminations she reports learning about from ex-staff.",
+      "related_artifacts": [
+        "A-1686.2",
+        "A-1686.3"
+      ],
+      "related_claims": [
+        "C-2207",
+        "C-2208",
+        "C-2209",
+        "C-2210",
+        "C-2211"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1520",
+      "ref": "N-1520",
+      "name": "Daily Wire Hungary Production Expenditure Investigation",
+      "type": "investigation_target",
+      "description": "Persistent target concerning the financial scale and rationale of Daily Wire's Hungary-based production, including reporting that it involved approximately 100 extras, marsh sequences, transport to Italy, and bulls imported from Spain.",
+      "related_artifacts": [
+        "A-1689.1"
+      ],
+      "related_claims": [
+        "C-2219",
+        "C-2224"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-794"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1521",
+      "ref": "N-1521",
+      "name": "Fort Huachuca PR Response Coordination Question",
+      "type": "investigation_target",
+      "description": "Persistent question regarding coordination between Erika Kirk and Andrew Kolvet on the Fort Huachuca PR response, allegedly routed through Paramount Tactical rather than directly to Candace Owens following their four-hour sit-down.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2206",
+      "ref": "C-2206",
+      "label": "Erika Kirk Hosted TPUSA Corporate Zoom Call on September 16, 2025",
+      "claim": "A corporate-wide Zoom call addressed by Erika Kirk to Turning Point USA employees took place on September 16, 2025 — approximately five-and-a-half days after Charlie Kirk's death — with the public board announcement following one day later.",
+      "anchored_artifacts": [
+        "A-1686.1",
+        "A-1686.2",
+        "A-1686.3"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-795",
+        "N-797",
+        "N-1519"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:08",
+      "investigative_direction": "Verify call metadata, attendee list, and recording provenance; cross-reference against the September 17 public board announcement (A-1687.1)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2207",
+      "ref": "C-2207",
+      "label": "Erika Kirk's Sept 16 Call Opened With Laughter and Visible \"Thumbs Up\" Reactions",
+      "claim": "The opening of the September 16 Zoom call features visible Zoom \"thumbs up\" reactions, Erika Kirk laughing, and her comment \"this is a little bit more emotional than probably Charlie would be reacting.\"",
+      "anchored_artifacts": [
+        "A-1686.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1519"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:46",
+      "investigative_direction": "Obtain unedited full recording; confirm reaction icons, laughter timing, and participant count."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2208",
+      "ref": "C-2208",
+      "label": "Erika Kirk Framed TPUSA Staff as \"Family\" on Sept 16 Call",
+      "claim": "During the September 16 call, Erika Kirk repeatedly addressed Turning Point USA employees as \"family,\" stating \"your family if you want to,\" \"I want our family to stay together,\" and \"this is your chosen family.\"",
+      "anchored_artifacts": [
+        "A-1686.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-795",
+        "N-1519"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:35",
+      "investigative_direction": "Compile every instance of \"family\" usage; obtain termination records of named attendees to verify the host's juxtaposition."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2209",
+      "ref": "C-2209",
+      "label": "Erika Kirk Promised Job Security to TPUSA Staff on Sept 16 Call",
+      "claim": "During the September 16 call, Erika Kirk stated, \"I will fight like hell to make sure that all of you have a job here\" and \"I will make sure that I never allow a point to where you have to leave because we cannot financially afford you.\"",
+      "anchored_artifacts": [
+        "A-1686.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1519"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:35",
+      "investigative_direction": "Cross-reference against TPUSA termination data from Q4 2025 onward; identify whether attendees retained employment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2210",
+      "ref": "C-2210",
+      "label": "Erika Kirk Self-Corrected to Avoid the Word \"Happy\" About Charlie on Sept 16 Call",
+      "claim": "During the September 16 call, Erika Kirk interrupted herself mid-sentence with \"I'm trying not to say that he would be\" — appearing to self-edit away from a positive emotion descriptor about Charlie Kirk in heaven.",
+      "anchored_artifacts": [
+        "A-1686.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1519"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:11",
+      "investigative_direction": "Obtain unedited recording; confirm whether the self-correction is verbatim as transcribed."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2211",
+      "ref": "C-2211",
+      "label": "Erika Kirk's Sept 16 Call Included \"Be Soft With One Another in Ways Differently\"",
+      "claim": "During the September 16 call, Erika Kirk told TPUSA employees to \"be soft with one another in ways differently\" and that \"if someone's acting weird, don't read into that… weddings and funerals bring out the weirdest side of people.\"",
+      "anchored_artifacts": [
+        "A-1686.3"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1519"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:13",
+      "investigative_direction": "Verify exact phrasing on unedited recording; trace adoption timeline of the \"everybody grieves differently\" framing across TPUSA communications."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2212",
+      "ref": "C-2212",
+      "label": "Erika Kirk's Sept 16 Call Included \"15 Minutes Before Landing\" Analogy Attributed to \"Usha\"",
+      "claim": "During the September 16 call, Erika Kirk shared an airplane analogy (\"15 minutes before landing… you're going to make it through these next 15 minutes\") attributed to a person named \"Usha.\"",
+      "anchored_artifacts": [
+        "A-1686.3"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1519"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:01",
+      "investigative_direction": "Identify the \"Usha\" referenced; verify identity and whether the analogy was shared privately on the tarmac as Erika describes."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2213",
+      "ref": "C-2213",
+      "label": "TPUSA Board Announcement Letter (Sept 17) Was Authored by Doug DeGroot",
+      "claim": "The September 17, 2025 public letter announcing Erika Kirk as Turning Point USA's new CEO and Chair was authored by Doug DeGroot as a board member.",
+      "anchored_artifacts": [
+        "A-1687.1"
+      ],
+      "related_nodes": [
+        "N-796"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:08",
+      "investigative_direction": "Obtain original signed letter; verify Doug DeGroot's role on the TPUSA board at the time of issuance."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2214",
+      "ref": "C-2214",
+      "label": "TPUSA Board Letter Invoked Ecclesiastes and Framed the Appointment as Divinely Ordained",
+      "claim": "The September 17, 2025 board letter opens with a citation to Ecclesiastes, attributing the quote to King Solomon, and frames Kirk's appointment as a divinely ordained test: \"mankind is to be tested by God.\"",
+      "anchored_artifacts": [
+        "A-1687.1"
+      ],
+      "related_nodes": [
+        "N-796"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:08",
+      "investigative_direction": "Verify exact wording against original letter; document all subsequent TPUSA communications invoking similar framing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2215",
+      "ref": "C-2215",
+      "label": "Jeremy Boreing Described Hiring Candace Owens as His \"Biggest Professional Mistake\"",
+      "claim": "In a podcast interview, Jeremy Boreing stated, \"I certainly think that hiring Candace is probably the biggest mistake of my professional life so far.\"",
+      "anchored_artifacts": [
+        "A-1688.1"
+      ],
+      "related_nodes": [
+        "N-794"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:00",
+      "investigative_direction": "Identify the source podcast and episode date; verify Boreing's full context for the statement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2216",
+      "ref": "C-2216",
+      "label": "Jeremy Boreing Characterized Candace Owens as \"Nuclear Energy\" Capable of \"Flattening a City\"",
+      "claim": "In a podcast interview, Jeremy Boreing stated: \"Candace is like nuclear energy, you know, if you if you harness it properly, she can power a city. If you lose control, she'll flatten the city.\"",
+      "anchored_artifacts": [
+        "A-1688.2"
+      ],
+      "related_nodes": [
+        "N-794"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:30",
+      "investigative_direction": "Identify source podcast and date; verify exact quote and surrounding context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2217",
+      "ref": "C-2217",
+      "label": "Jeremy Boreing Compared Candace Owens's Show to \"Rhetorical Pornography\"",
+      "claim": "In a podcast interview, Jeremy Boreing stated Candace Owens \"is at war with the widow of her purported best friend\" and characterized her content as a \"kind of pornography\" and \"rhetorical pornography,\" adding that \"you shouldn't be able to look at it if you're under 18.\"",
+      "anchored_artifacts": [
+        "A-1688.3"
+      ],
+      "related_nodes": [
+        "N-794"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:59",
+      "investigative_direction": "Identify source podcast and date; verify quote against full unedited clip."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2218",
+      "ref": "C-2218",
+      "label": "Jeremy Boreing Claimed Candace Said \"I Believe What the People Believe\" on Two Occasions",
+      "claim": "In a podcast interview, Jeremy Boreing claimed that on two separate occasions when he asked Candace what she believes, she answered, \"I believe what the people believe. I am the voice of the people.\"",
+      "anchored_artifacts": [
+        "A-1688.4"
+      ],
+      "related_nodes": [
+        "N-794"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:36",
+      "investigative_direction": "Identify source podcast and date; verify whether Candace Owens has ever publicly responded to or denied this characterization."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2219",
+      "ref": "C-2219",
+      "label": "The Bulwark Reported Daily Wire Production Involved 100+ Extras in a Hungarian Marsh, Travel to Italy, and Bulls Imported From Spain",
+      "claim": "In a Bulwark podcast segment, the host described Daily Wire's Hungary production as including approximately 100 extras staging fist fights in a marsh, traveling to Italy for additional filming, and importing bulls from Spain for the production.",
+      "anchored_artifacts": [
+        "A-1689.1"
+      ],
+      "related_nodes": [
+        "N-794",
+        "N-1520"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:50",
+      "investigative_direction": "Identify the Bulwark episode and date; verify whether Daily Wire or Boreing has disputed these production details."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2220",
+      "ref": "C-2220",
+      "label": "Teo Farnsworth Was Audible in the Background of the Sept 16 TPUSA Call",
+      "claim": "During the September 16 Zoom call playback, host identifies Teo Farnsworth as audible in the background of the recording.",
+      "anchored_artifacts": [
+        "A-1686.1"
+      ],
+      "related_nodes": [
+        "N-797"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:46",
+      "investigative_direction": "Confirm Teo Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2221",
+      "ref": "C-2221",
+      "label": "Host Characterizes Boreing's \"Nuclear Energy\" / BLM-Critique Hiring Rationale as Objectively Racially Motivated",
+      "claim": "Candace Owens asserts that Boreing's explicit framing of why he hired her — tied to her willingness to critique Black Lives Matter — is \"objectively racist.\"",
+      "anchored_artifacts": [
+        "A-1688.2"
+      ],
+      "related_nodes": [
+        "N-794"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:30",
+      "investigative_direction": "Evaluate the host's interpretive claim against the verbatim Boreing quote; consider whether Boreing's prior public statements confirm or rebut this framing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2222",
+      "ref": "C-2222",
+      "label": "Host Characterizes Boreing's \"Rhetorical Pornography\" Comparison as Deflection From Documented Sexual Violence",
+      "claim": "Candace Owens rejects Boreing's pornography analogy and argues it functions as deflection from documented sexual exploitation, including alleged Israeli sexual blackmail and the 2002 Gaza pornography broadcasts.",
+      "anchored_artifacts": [
+        "A-1688.3"
+      ],
+      "related_nodes": [
+        "N-794"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:46",
+      "investigative_direction": "Document the factual claims about Israeli sexual blackmail and Gaza pornography broadcasts; identify primary sources for each."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2223",
+      "ref": "C-2223",
+      "label": "Host Rejects Boreing's \"Self-Aggrandizement\" Characterization as Fabricated",
+      "claim": "Candace Owens rejects Boreing's account of her saying \"I believe what the people believe,\" describing it as \"obviously made up\" and an \"amoral statement.\"",
+      "anchored_artifacts": [
+        "A-1688.4"
+      ],
+      "related_nodes": [
+        "N-794"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:36",
+      "investigative_direction": "Compare Boreing's account against any other contemporaneous documentation of the alleged conversations."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2224",
+      "ref": "C-2224",
+      "label": "Host Concurs With Bulwark Reporting on Daily Wire Hungary Production Costs",
+      "claim": "Candace Owens concurs with the Bulwark host's characterization of Daily Wire's Hungary production as financially extravagant and possibly connected to a debt-reduction departure agreement.",
+      "anchored_artifacts": [
+        "A-1689.1"
+      ],
+      "related_nodes": [
+        "N-794",
+        "N-1520"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:28",
+      "investigative_direction": "Identify any public Daily Wire financial disclosures or departure-agreement terms that corroborate Bulwark's reporting."
+    }
+  ],
+  "memes": []
+}

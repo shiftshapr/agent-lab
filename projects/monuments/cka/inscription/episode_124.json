@@ -1,0 +1,883 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 124,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "448a8189da2e8602111e8248d8480ad1e223b659b46e8eae9f2d0987ad1dd63b",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2115",
+      "family_ref": "A-2115",
+      "bundle_name": "Influencer Overwhelming Screenshot Collage",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2115.1",
+          "ref": "A-2115.1",
+          "description": "Composite screenshot displayed on-screen of social media posts (Graham, Steve D, \"Paramount not so tactical,\" Gunther Eagleman, Jack quoting Don Trump Jr., Ali Beth Stucky, Mike Lee, Andrew Kovat, \"Brent,\" \"Susie,\" Clay Travis) all using the word \"overwhelming\" to describe evidence against Tyler Robinson.",
+          "related_claims": [
+            "C-3000"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2116",
+      "family_ref": "A-2116",
+      "bundle_name": "Josh Hammer Court TV Audio Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2116.1",
+          "ref": "A-2116.1",
+          "description": "Audio of Josh Hammer on Court TV describing the preliminary hearing evidence as \"the most overwhelming presentation that I have ever seen this early on during a legal proceeding in my entire life.\"",
+          "related_claims": [
+            "C-3001"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2117",
+      "family_ref": "A-2117",
+      "bundle_name": "Parents Turned-In Narrative Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2117.1",
+          "ref": "A-2117.1",
+          "description": "Audio clip of commentator (Bill Aman-adjacent) praising Matt Robinson for the \"brave act\" of turning in his son.",
+          "related_claims": [
+            "C-3002"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2117.2",
+          "ref": "A-2117.2",
+          "description": "Audio clip of commentator stating Tyler Robinson's parents identified him from a news photo and began questioning him about his grandfather's gun.",
+          "related_claims": [
+            "C-3002"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2117.3",
+          "ref": "A-2117.3",
+          "description": "Audio clip of commentator citing \"three confessions\" and stating local sheriffs took first statements from Robinson's parents identifying him as shooter and providing motive.",
+          "related_claims": [
+            "C-3002"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2118",
+      "family_ref": "A-2118",
+      "bundle_name": "Lance Twigs Courtroom Testimony Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2118.1",
+          "ref": "A-2118.1",
+          "description": "Audio of Lance Twigs on witness stand identifying Robinson by generic clothing features (shoes, sunglasses, hat, jeans), stating he could not be 100% certain from camera quality alone but that \"the bottom, the last two definitely do look like him.\"",
+          "related_claims": [
+            "C-3003"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2118.2",
+          "ref": "A-2118.2",
+          "description": "Audio of Lance Twigs stating Tyler Robinson was not political, did not discuss Charlie Kirk, and engaged with politics primarily via radio during carpool.",
+          "related_claims": [
+            "C-3004"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:27:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2119",
+      "family_ref": "A-2119",
+      "bundle_name": "Miss Noble Ring Camera Testimony Audio",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2119.1",
+          "ref": "A-2119.1",
+          "description": "Audio of witness Miss Noble testifying via Ring camera interview that she saw a bald man driving the gray Challenger accompanied by three other people.",
+          "related_claims": [
+            "C-3005"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:59",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2120",
+      "family_ref": "A-2120",
+      "bundle_name": "Car Footage Display Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2120.1",
+          "ref": "A-2120.1",
+          "description": "Court-displayed video still of the gray Dodge Challenger shown in preliminary hearing, featuring visible dual exhaust pipes at the rear.",
+          "related_claims": [
+            "C-3006"
+          ],
+          "related_nodes": [
+            "N-2108"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2120.2",
+          "ref": "A-2120.2",
+          "description": "Still image of Tyler Robinson's actual Dodge Challenger (post-tow), featuring a singular exhaust pipe.",
+          "related_claims": [
+            "C-3006"
+          ],
+          "related_nodes": [
+            "N-2108"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:57",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2121",
+      "family_ref": "A-2121",
+      "bundle_name": "Court Exhibit Video Bundle (Exhibits 12.4 and 12.1)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2121.1",
+          "ref": "A-2121.1",
+          "description": "Exhibit 12.4 — compilation video shown in preliminary hearing depicting movements of a believed-to-be Robinson around UVU campus (Loy Center, parking garage, rooftop area), with witness confirmation it does not contain footage of the alleged shooting.",
+          "related_claims": [
+            "C-3007"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:00–00:00:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2121.2",
+          "ref": "A-2121.2",
+          "description": "Witness audio testimony explaining Exhibit 12.1 enhancements relative to 12.4 (red circles/ovals highlighting individuals, face blurring in parking garage footage, zoom in/out on rooftop segment).",
+          "related_claims": [
+            "C-3008"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2122",
+      "family_ref": "A-2122",
+      "bundle_name": "Court TV Leaked 12.1 Footage",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2122.1",
+          "ref": "A-2122.1",
+          "description": "Court TV captured footage at 1h17m30s of Day 2 hearing, showing the \"enhanced\" zoomed view of 12.1 depicting a pixel-like figure running across the rooftop area.",
+          "related_claims": [
+            "C-3009"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2123",
+      "family_ref": "A-2123",
+      "bundle_name": "Tyler-Lance Text Messages Display",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2123.1",
+          "ref": "A-2123.1",
+          "description": "On-screen display of text messages between Tyler Robinson and Lance Twigs, including lines about \"drop everything and look under your keyboard,\" \"I am stuck in Orem for a little while longer yet,\" \"if I'm able to grab my rifle unseen,\" and \"Some hate just can't be negotiated out.\"",
+          "related_claims": [
+            "C-3016"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2124",
+      "family_ref": "A-2124",
+      "bundle_name": "Caitlyn Oliver ATF DNA Testimony Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2124.1",
+          "ref": "A-2124.1",
+          "description": "Audio of Caitlyn Oliver (ATF forensic biologist) testifying that characterizing media reports as \"Mr. Robinson's DNA is found on this item\" would be a \"source attribution\" that is \"not scientifically defensible.\"",
+          "related_claims": [
+            "C-3010"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2124.2",
+          "ref": "A-2124.2",
+          "description": "Audio of Caitlyn Oliver explaining DNA samples from the trigger and trigger guard were mixed samples with at least 4–7 contributors, with \"major contributor\"/\"minor contributor\" referring only to DNA quantity contributed, not to activity attribution.",
+          "related_claims": [
+            "C-3011"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2124.3",
+          "ref": "A-2124.3",
+          "description": "Audio of Caitlyn Oliver confirming that Tyler Robinson's DNA sample was the most degraded of all contributors on the firearm (swab 1.3 of trigger/trigger guard).",
+          "related_claims": [
+            "C-3012"
+          ],
+          "related_nodes": [
+            "N-2110"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2125",
+      "family_ref": "A-2125",
+      "bundle_name": "Samantha Carner ATF Ballistics Testimony Audio",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2125.1",
+          "ref": "A-2125.1",
+          "description": "Audio of Samantha Carner (ATF ballistics expert) testifying that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch, with Carner's reasoning for the confidence range.",
+          "related_claims": [
+            "C-3013"
+          ],
+          "related_nodes": [
+            "N-2109"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2126",
+      "family_ref": "A-2126",
+      "bundle_name": "Benny Johnson Post-Court Video",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2126.1",
+          "ref": "A-2126.1",
+          "description": "Video of Benny Johnson outside the courthouse claiming the court showed \"high-definition quality video 4K of Tyler Robinson committing the murder of Charlie Kirk\" on \"giant screens,\" with \"crystal clear\" view of Robinson's face, license plate, and rooftop movements.",
+          "related_claims": [
+            "C-3014"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2127",
+      "family_ref": "A-2127",
+      "bundle_name": "Ben Shapiro Car Ride Update Audio",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2127.1",
+          "ref": "A-2127.1",
+          "description": "Audio of Ben Shapiro on his show stating that during the approximate 7-minute car ride to the hospital, his security was on the phone with Charlie's security, providing updates while Charlie was still alive in the back of the vehicle.",
+          "related_claims": [
+            "C-3015"
+          ],
+          "related_nodes": [
+            "N-2111",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:01:37",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2128",
+      "family_ref": "A-2128",
+      "bundle_name": "Viewer Comments Read-Aloud Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2128.1",
+          "ref": "A-2128.1",
+          "description": "Read-aloud viewer comment by \"Melissa\" (Candace merch) about language of \"some hate just can't be negotiated out\" reading as non-native English.",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:14:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2128.2",
+          "ref": "A-2128.2",
+          "description": "Read-aloud viewer comment by \"Truth Prevail\" characterizing Lance Twigs as \"MK Ultra OP\" and referencing limp-switching observation.",
+          "related_claims": [
+            "C-3004"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:19:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2108",
+      "ref": "N-2108",
+      "name": "Car Exhaust Pipe Discrepancy",
+      "type": "investigation_target",
+      "description": "The discrepancy between the dual-exhaust Dodge Challenger shown in preliminary hearing footage (A-2120.1) and Tyler Robinson's known single-exhaust Dodge Challenger (A-2120.2).",
+      "related_artifacts": [
+        "A-2120.1",
+        "A-2120.2"
+      ],
+      "related_claims": [
+        "C-3006"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2109",
+      "ref": "N-2109",
+      "name": "Bullet Jacket Fragment Diameter Discrepancy",
+      "type": "investigation_target",
+      "description": "The discrepancy between the 6A bullet jacket fragment diameter range (286–301 thousandths of an inch, per A-2125.1) and the minimum cartridge diameter (.308) for a .30-06 rifle.",
+      "related_artifacts": [
+        "A-2125.1"
+      ],
+      "related_claims": [
+        "C-3013"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2110",
+      "ref": "N-2110",
+      "name": "Tyler Robinson DNA Most Degraded Anomaly",
+      "type": "investigation_target",
+      "description": "The anomaly that Tyler Robinson's DNA sample on the firearm was the most degraded of all contributors identified, despite the prosecution's theory that Robinson handled the gun immediately prior to disposal.",
+      "related_artifacts": [
+        "A-2124.3"
+      ],
+      "related_claims": [
+        "C-3012"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2111",
+      "ref": "N-2111",
+      "name": "Ben Shapiro Car Ride Live Updates",
+      "type": "investigation_target",
+      "description": "The discrepancy that Ben Shapiro's security team received live updates from someone in Charlie Kirk's vehicle during the seven-minute transport to the hospital, while the vehicle occupants have publicly given accounts that do not readily identify who could have made such calls.",
+      "related_artifacts": [
+        "A-2127.1"
+      ],
+      "related_claims": [
+        "C-3015"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2112",
+      "ref": "N-2112",
+      "name": "Tyler-Lance Text Message Extraction Source",
+      "type": "investigation_target",
+      "description": "The investigative question of which Tel Aviv-based company extracted the Tyler-Lance text messages introduced at the preliminary hearing.",
+      "related_artifacts": [
+        "A-2123.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3000",
+      "ref": "C-3000",
+      "label": "Multiple influencers used identical \"overwhelming\" language",
+      "claim": "The displayed collage shows multiple influencers using the word \"overwhelming\" to describe the evidence against Tyler Robinson in the preliminary hearing.",
+      "anchored_artifacts": [
+        "A-2115.1"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:24",
+      "investigative_direction": "Cross-reference timestamps and language across influencer posts to determine whether messaging was coordinated."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3001",
+      "ref": "C-3001",
+      "label": "Josh Hammer described preliminary hearing as \"most overwhelming\" of his career",
+      "claim": "Josh Hammer stated on Court TV that the preliminary hearing presentation was \"the most overwhelming presentation that I have ever seen this early on during a legal proceeding in my entire life.\"",
+      "anchored_artifacts": [
+        "A-2116.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:14",
+      "investigative_direction": "Compare Hammer's stated impression against the actual hearing exhibits."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3002",
+      "ref": "C-3002",
+      "label": "Pre-hearing narrative asserted Tyler's parents turned him in via confession",
+      "claim": "Multiple pre-hearing media segments asserted that Tyler Robinson's parents identified him from news footage, interrogated him about his grandfather's gun, and helped him turn himself in to authorities.",
+      "anchored_artifacts": [
+        "A-2117.1",
+        "A-2117.2",
+        "A-2117.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:50",
+      "investigative_direction": "Compare pre-hearing narrative claims against actual preliminary hearing testimony transcripts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3003",
+      "ref": "C-3003",
+      "label": "Lance Twigs identified Tyler Robinson only by generic clothing items",
+      "claim": "Lance Twigs testified that he could recognize Robinson only by generic clothing features (jeans, similar shoes, sunglasses, hat), stating he could not be 100% certain from camera quality alone.",
+      "anchored_artifacts": [
+        "A-2118.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:17:15",
+      "investigative_direction": "Cross-reference Lance's testimony with other witness identifications and the exhibits discussed."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3004",
+      "ref": "C-3004",
+      "label": "Lance Twigs testified Tyler Robinson was not political",
+      "claim": "Lance Twigs testified that Tyler Robinson was not political, had not discussed Charlie Kirk with him, and engaged with politics primarily via radio during carpool.",
+      "anchored_artifacts": [
+        "A-2118.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:27:55",
+      "investigative_direction": "Compare Lance's testimony against text messages introduced as A-2123.1."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3005",
+      "ref": "C-3005",
+      "label": "Miss Noble reported seeing a bald man with three others driving the gray Challenger",
+      "claim": "Witness Miss Noble testified via Ring camera interview that she saw a bald man driving the gray Challenger accompanied by three other people.",
+      "anchored_artifacts": [
+        "A-2119.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:20:59",
+      "investigative_direction": "Obtain Ring camera footage and police interview transcripts for cross-verification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3006",
+      "ref": "C-3006",
+      "label": "Court-displayed car had dual exhaust; Tyler Robinson's actual car had single exhaust",
+      "claim": "The Dodge Challenger shown in preliminary hearing footage featured dual exhaust pipes, while Tyler Robinson's actual Dodge Challenger featured a singular exhaust system.",
+      "anchored_artifacts": [
+        "A-2120.1",
+        "A-2120.2"
+      ],
+      "related_nodes": [
+        "N-2108"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:09",
+      "investigative_direction": "Obtain vehicle registration and VIN data for Tyler Robinson's Challenger to verify exhaust configuration."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3007",
+      "ref": "C-3007",
+      "label": "Exhibit 12.4 does not show Tyler Robinson taking the shot",
+      "claim": "Witness testimony confirmed that Exhibit 12.4 compilation video shows movements believed to be Robinson on campus but does not include footage of the alleged shooting itself.",
+      "anchored_artifacts": [
+        "A-2121.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:42:26",
+      "investigative_direction": "Verify whether any other exhibit purports to show the shooting itself."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3008",
+      "ref": "C-3008",
+      "label": "Exhibit 12.1 differs from 12.4 only by red circles, face blurring, and zoom",
+      "claim": "Witness testimony confirmed that Exhibit 12.1 differs from Exhibit 12.4 only by (1) red circles/ovals highlighting individuals, (2) face blurring of parking garage bystanders, and (3) zoom in/out on the rooftop segment.",
+      "anchored_artifacts": [
+        "A-2121.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:43:52",
+      "investigative_direction": "Obtain certified copies of both exhibits for direct comparison."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3009",
+      "ref": "C-3009",
+      "label": "Leaked 12.1 footage shows only a pixel running across rooftop",
+      "claim": "Court TV's accidentally-leaked footage of the 12.1 enhanced exhibit (at 1h17m30s on Day 2) shows only a pixel-like figure running across the rooftop when zoomed in.",
+      "anchored_artifacts": [
+        "A-2122.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:15",
+      "investigative_direction": "Obtain full Court TV Day 2 footage for independent analysis."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3010",
+      "ref": "C-3010",
+      "label": "Caitlyn Oliver testified media \"DNA on the gun\" framing was scientifically indefensible",
+      "claim": "ATF forensic biologist Caitlyn Oliver testified that characterizing media reports as \"Mr. Robinson's DNA is found on this item\" would constitute a \"source attribution\" that is \"not scientifically defensible.\"",
+      "anchored_artifacts": [
+        "A-2124.1"
+      ],
+      "related_nodes": [
+        "N-2110"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:06",
+      "investigative_direction": "Compare Caitlyn Oliver's testimony against ATF report language and media headlines for accuracy of characterization."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3011",
+      "ref": "C-3011",
+      "label": "DNA samples from trigger/trigger guard were mixed samples with at least 4–7 contributors",
+      "claim": "Caitlyn Oliver testified that DNA samples from the trigger and trigger guard were mixed samples with at least 4–7 contributors, with \"major\" and \"minor\" labels referring only to DNA quantity contributed, not to any activity-based attribution.",
+      "anchored_artifacts": [
+        "A-2124.2"
+      ],
+      "related_nodes": [
+        "N-2110"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:07",
+      "investigative_direction": "Obtain the full DNA report to verify contributor counts and threshold interpretations."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3012",
+      "ref": "C-3012",
+      "label": "Tyler Robinson's DNA on the gun was the most degraded of all contributors",
+      "claim": "Caitlyn Oliver confirmed that Tyler Robinson's DNA sample was the most degraded of all contributors found on the firearm (swab 1.3 of trigger/trigger guard).",
+      "anchored_artifacts": [
+        "A-2124.3"
+      ],
+      "related_nodes": [
+        "N-2110"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:20",
+      "investigative_direction": "Cross-reference degradation findings with handling/timeline assumptions in the prosecution's theory."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3013",
+      "ref": "C-3013",
+      "label": "6A bullet jacket fragment diameter measured 286–301 thousandths of an inch",
+      "claim": "ATF ballistics expert Samantha Carner testified that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch.",
+      "anchored_artifacts": [
+        "A-2125.1"
+      ],
+      "related_nodes": [
+        "N-2109"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:31",
+      "investigative_direction": "Cross-reference measured diameter with .30-06 SAAMI specifications and the recovered rifle."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3014",
+      "ref": "C-3014",
+      "label": "Benny Johnson claimed the court showed 4K HD video of Robinson committing the murder",
+      "claim": "Benny Johnson claimed in his post-court video that the court displayed \"high-definition quality video 4K of Tyler Robinson committing the murder of Charlie Kirk\" on \"giant screens\" with \"crystal clear\" visibility of face and license plate.",
+      "anchored_artifacts": [
+        "A-2126.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:12",
+      "investigative_direction": "Compare Johnson's claim against Court TV leaked footage (A-2122.1) and witness testimony on 12.1 enhancements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3015",
+      "ref": "C-3015",
+      "label": "Ben Shapiro's security received live updates during Charlie's transport",
+      "claim": "Ben Shapiro stated on his show that during the approximate 7-minute car ride to the hospital, his security was on the phone with Charlie's security, providing updates while Charlie was still alive in the back of the vehicle.",
+      "anchored_artifacts": [
+        "A-2127.1"
+      ],
+      "related_nodes": [
+        "N-2111"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:37",
+      "investigative_direction": "Identify the person in Charlie's vehicle who provided the updates; verify against witness accounts of Brian Harpole, Rick Cutler, Frank Turk, Dan Flood, and Justin Davis."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3016",
+      "ref": "C-3016",
+      "label": "Tyler-Lance text messages displayed including specific phrases",
+      "claim": "Text messages displayed on-screen between Tyler Robinson and Lance Twigs included lines such as \"I am stuck in Orem for a little while longer yet,\" \"if I'm able to grab my rifle unseen,\" and \"Some hate just can't be negotiated out.\"",
+      "anchored_artifacts": [
+        "A-2123.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:24:20",
+      "investigative_direction": "Obtain certified chat exports and metadata; cross-reference with the disclosed Tel Aviv extraction vendor (see N-2112)."
+    }
+  ],
+  "memes": []
+}

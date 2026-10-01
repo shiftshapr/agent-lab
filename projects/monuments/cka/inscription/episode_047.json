@@ -1,0 +1,2334 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 47,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "e492b18e60b2e0b9a4d69085cba757bcd906aa883d586d7f4657db854693f868",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1539",
+      "family_ref": "A-1539",
+      "bundle_name": "Candace-Erika Private Meeting Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1539.1",
+          "ref": "A-1539.1",
+          "description": "Private 4-hour-30-minute meeting between Candace Owens, Erika Kolfage, Justin Streif, George (Candace's husband, opening portion), and cousin Mia",
+          "related_claims": [
+            "C-1924",
+            "C-1925",
+            "C-1926",
+            "C-1927",
+            "C-1928",
+            "C-1937",
+            "C-1940",
+            "C-1944",
+            "C-1950",
+            "C-1951",
+            "C-1952",
+            "C-1953"
+          ],
+          "related_nodes": [
+            "N-539",
+            "N-540",
+            "N-1411",
+            "N-1413",
+            "N-1417",
+            "N-1419",
+            "N-1421"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:57–00:04:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1540",
+      "family_ref": "A-1540",
+      "bundle_name": "TPUSA Case Lawyer Briefing Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1540.1",
+          "ref": "A-1540.1",
+          "description": "Briefing from lawyer involved in Tyler Robinson case stating they have nothing beyond the affidavit-stage evidence, with probable cause hearing scheduled for May",
+          "related_claims": [
+            "C-1928",
+            "C-1929"
+          ],
+          "related_nodes": [
+            "N-539",
+            "N-1408"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:03–00:20:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1541",
+      "family_ref": "A-1541",
+      "bundle_name": "Andrew Kolvet Surgeon/Bullet Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1541.1",
+          "ref": "A-1541.1",
+          "description": "Andrew Kolvet tweet recounting surgeon description of Charlie Kirk's bone density (\"man of steel\") and expected bullet trajectory",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:24–00:14:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1541.2",
+          "ref": "A-1541.2",
+          "description": "Public reply to Andrew Kolvet citing HIPAA violation concern; Andrew Kolvet response that he had \"full permission\"",
+          "related_claims": [
+            "C-1939",
+            "C-1940"
+          ],
+          "related_nodes": [
+            "N-542",
+            "N-1412"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1542",
+      "family_ref": "A-1542",
+      "bundle_name": "Blake Neff Mikey Account Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1542.1",
+          "ref": "A-1542.1",
+          "description": "Blake Neff interview clip describing Mikey McCoy's post-shooting reaction (quivering lip, call to Erika, call to his mother, call to father \"Robin McCoy\")",
+          "related_claims": [
+            "C-1932",
+            "C-1933"
+          ],
+          "related_nodes": [
+            "N-544",
+            "N-1409",
+            "N-1410"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:47–00:26:28",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1543",
+      "family_ref": "A-1543",
+      "bundle_name": "Mikey McCoy Call Logs Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1543.1",
+          "ref": "A-1543.1",
+          "description": "Mikey McCoy phone call logs provided by TPUSA during meeting — first call to wife Elizabeth McCoy (10 min), three-way with Erika at +3 min, three-way with father Rob McCoy 2 min later, brother callback 10 min",
+          "related_claims": [
+            "C-1931",
+            "C-1932",
+            "C-1934",
+            "C-1935",
+            "C-1936"
+          ],
+          "related_nodes": [
+            "N-541",
+            "N-542",
+            "N-543",
+            "N-1409",
+            "N-1410"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:23:07–00:29:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1544",
+      "family_ref": "A-1544",
+      "bundle_name": "Charlie Kirk Show Segment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1544.1",
+          "ref": "A-1544.1",
+          "description": "Charlie Kirk Show segment discussing charging document excerpt regarding Tyler Robinson's roommate (transitioning male) and political shift",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:23–00:51:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1544.2",
+          "ref": "A-1544.2",
+          "description": "Charlie Kirk Show segment discussing rooftop access and August 27 vs September 2 location announcement timing; Andrew Seifer identified as head of field",
+          "related_claims": [
+            "C-1941",
+            "C-1954",
+            "C-1956",
+            "C-1957"
+          ],
+          "related_nodes": [
+            "N-546",
+            "N-555",
+            "N-1414"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:48–00:52:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1545",
+      "family_ref": "A-1545",
+      "bundle_name": "Tim Pool Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1545.1",
+          "ref": "A-1545.1",
+          "description": "Tim Pool audio clip from approximately one week prior stating Candace has no security (one fat guy, 4-ft wall)",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:39–00:45:27",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1545.2",
+          "ref": "A-1545.2",
+          "description": "Tim Pool current audio clip stating Candace uses the same security team as Charlie and Erika Kirk",
+          "related_claims": [
+            "C-1942",
+            "C-1943",
+            "C-1944",
+            "C-1945"
+          ],
+          "related_nodes": [
+            "N-545",
+            "N-1415"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:27–00:46:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1546",
+      "family_ref": "A-1546",
+      "bundle_name": "New York Post Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1546.1",
+          "ref": "A-1546.1",
+          "description": "New York Post article \"Inside Candace Owens's sadistic and dangerous world, monetizing baseless conspiracies\" alleging Daily Wire key-throwing incident, People magazine demand, husband's Qatari passport",
+          "related_claims": [
+            "C-1946",
+            "C-1947",
+            "C-1948"
+          ],
+          "related_nodes": [
+            "N-559",
+            "N-1422"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:39–00:42:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1547",
+      "family_ref": "A-1547",
+      "bundle_name": "KAMYU Local Media Announcement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1547.1",
+          "ref": "A-1547.1",
+          "description": "KAMYU local media September 2 mention of Charlie Kirk speaking at UVU courtyard",
+          "related_claims": [
+            "C-1957"
+          ],
+          "related_nodes": [
+            "N-1414"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1548",
+      "family_ref": "A-1548",
+      "bundle_name": "TPUSA/UVU Event Announcement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1548.1",
+          "ref": "A-1548.1",
+          "description": "TPUSA/UVU/BYU chapter social media graphic dated August 27 announcing event without location details",
+          "related_claims": [
+            "C-1956",
+            "C-1958"
+          ],
+          "related_nodes": [
+            "N-1414"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1549",
+      "family_ref": "A-1549",
+      "bundle_name": "Turkey Tom Discord Authentication Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1549.1",
+          "ref": "A-1549.1",
+          "description": "Turkey Tom video authenticating Tyler Robinson Discord chat messaging style",
+          "related_claims": [
+            "C-1949"
+          ],
+          "related_nodes": [
+            "N-547",
+            "N-551"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:53:11–00:53:58",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1550",
+      "family_ref": "A-1550",
+      "bundle_name": "Charlie Kirk Direct Quotation Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1550.1",
+          "ref": "A-1550.1",
+          "description": "Direct Charlie Kirk quotation: \"You better keep asking questions, because it's the only thing that keeps us free\"",
+          "related_claims": [
+            "C-1959"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:01:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1551",
+      "family_ref": "A-1551",
+      "bundle_name": "Super Chat / Donation Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1551.1",
+          "ref": "A-1551.1",
+          "description": "Curbster super chat: prayer-support message",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:01:08–01:02:32",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1551.2",
+          "ref": "A-1551.2",
+          "description": "Central848 super chat: electrocution theory citing Baron Coleman video of charred hands",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:03:40–01:04:40",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1551.3",
+          "ref": "A-1551.3",
+          "description": "Zachary Loft super chat: questions on lack of livestream and Brandon Tatum IG follow",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:05:19–01:07:06",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1551.4",
+          "ref": "A-1551.4",
+          "description": "Mr. Bruce Lee super chat: botted chat observation",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:07:06–01:07:49",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1551.5",
+          "ref": "A-1551.5",
+          "description": "Will Wallace super chat: security-support donation",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:07:49–01:08:42",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1551.6",
+          "ref": "A-1551.6",
+          "description": "Real Base super chat: questions on Erika/feds and night-before messages",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:08:42–01:10:10",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1551.7",
+          "ref": "A-1551.7",
+          "description": "Isabella Mazzone super chat: request for elaboration on Charlie's Catholicism journey",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:10:54–01:12:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1551.8",
+          "ref": "A-1551.8",
+          "description": "Lamp super chat: question on Qatar's role in media criticism",
+          "related_claims": [
+            "C-1924",
+            "C-1925",
+            "C-1926",
+            "C-1927",
+            "C-1928",
+            "C-1929"
+          ],
+          "related_nodes": [
+            "N-561",
+            "N-562",
+            "N-563",
+            "N-564",
+            "N-565",
+            "N-566",
+            "N-567",
+            "N-568"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:12:01–01:13:35",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-588",
+      "ref": "N-588",
+      "name": "Private meeting with Erika and Justin Streif lasted 4 hours 30 minutes",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-589",
+      "ref": "N-589",
+      "name": "Private meeting with Erika and Justin Streif lasted 4 hours 30 minutes",
+      "type": "person",
+      "description": "### People",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-539",
+      "ref": "N-539",
+      "name": "Erika Kolfage",
+      "type": "person",
+      "description": "Counterparty in the private meeting with Candace; confirmed possession of Charlie's phone; admitted text-message corroboration; defended Terrell Farnsworth and Tyler Bowyer.",
+      "related_artifacts": [
+        "A-1539.1",
+        "A-1540.1"
+      ],
+      "related_claims": [
+        "C-1924",
+        "C-1925",
+        "C-1926",
+        "C-1927",
+        "C-1937",
+        "C-1952"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-540",
+        "N-1411",
+        "N-1421"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-540",
+      "ref": "N-540",
+      "name": "Justin Streif",
+      "type": "person",
+      "description": "TPUSA executive present throughout the meeting; framed opening question on aim; described as having \"reffed\" the conversation.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1924"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-539"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-541",
+      "ref": "N-541",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Charlie Kirk assistant; subject of contested post-incident phone-call sequence.",
+      "related_artifacts": [
+        "A-1542.1",
+        "A-1543.1"
+      ],
+      "related_claims": [
+        "C-1931",
+        "C-1932",
+        "C-1933",
+        "C-1934"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-542",
+        "N-543",
+        "N-1409"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-542",
+      "ref": "N-542",
+      "name": "Elizabeth McCoy",
+      "type": "person",
+      "description": "Mikey McCoy's wife; reportedly first person called after shooting; described as having been removed from public narrative.",
+      "related_artifacts": [
+        "A-1543.1"
+      ],
+      "related_claims": [
+        "C-1931",
+        "C-1935",
+        "C-1936"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-541",
+        "N-1410"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-543",
+      "ref": "N-543",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Mikey McCoy's father; pastor; subject of claim that he does not actually work for TPUSA; described by host as having hit the stage at the memorial claiming \"America's pastor.\"",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1937"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1419",
+        "N-1424"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-544",
+      "ref": "N-544",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Provided prior public account of Mikey McCoy's reaction and call sequence; contradicted by TPUSA call logs.",
+      "related_artifacts": [
+        "A-1542.1",
+        "A-1543.1"
+      ],
+      "related_claims": [
+        "C-1932",
+        "C-1933"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-541",
+        "N-1409"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-545",
+      "ref": "N-545",
+      "name": "Tim Pool",
+      "type": "person",
+      "description": "Made two contradictory statements about Candace's security within one week.",
+      "related_artifacts": [
+        "A-1545.1",
+        "A-1545.2"
+      ],
+      "related_claims": [
+        "C-1942",
+        "C-1943"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1415"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-546",
+      "ref": "N-546",
+      "name": "Megan Kelly",
+      "type": "person",
+      "description": "Reportedly offered to moderate potential livestream conversation between Candace and TPUSA.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1924"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-539"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-547",
+      "ref": "N-547",
+      "name": "Turkey Tom",
+      "type": "person",
+      "description": "Produced video authenticating Tyler Robinson Discord chat messaging style.",
+      "related_artifacts": [
+        "A-1549.1"
+      ],
+      "related_claims": [
+        "C-1949"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-551"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-548",
+      "ref": "N-548",
+      "name": "George Zin",
+      "type": "person",
+      "description": "Arrested for claiming to be the shooter on incident day; per host, told Utah Valley nurses he was paid.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1950"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1425"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-549",
+      "ref": "N-549",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Allegedly angry at Tulsi Gabbard and Joe Kent over terrorist-angle investigation.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1951"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1426"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-550",
+      "ref": "N-550",
+      "name": "Tulsi Gabbard",
+      "type": "person",
+      "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1951"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1426"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-551",
+      "ref": "N-551",
+      "name": "Joe Kent",
+      "type": "person",
+      "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1951"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1426"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-552",
+      "ref": "N-552",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Produced video on Camp Wa Chuka and charred-hands electrocution theory.",
+      "related_artifacts": [
+        "A-1551.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1423"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-553",
+      "ref": "N-553",
+      "name": "Seth Dillon",
+      "type": "person",
+      "description": "Subject of Hampton retreat confrontation with Charlie Kirk over hypothetical anti-Netanyahu tweet.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1953"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1416"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-554",
+      "ref": "N-554",
+      "name": "Bibi Netanyahu",
+      "type": "person",
+      "description": "Allegedly offered to fund TPUSA to the next level; offer reportedly turned down by Charlie Kirk.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1938"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1413"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-555",
+      "ref": "N-555",
+      "name": "Andrew Seifer",
+      "type": "person",
+      "description": "Identified on Charlie Kirk Show as TPUSA head of field.",
+      "related_artifacts": [
+        "A-1544.2"
+      ],
+      "related_claims": [
+        "C-1954"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1414"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-556",
+      "ref": "N-556",
+      "name": "Greg Shafer",
+      "type": "person",
+      "description": "Operated Shafer Security; Charlie Kirk's initial security company employing Dan Flood and Brian Harpole.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1944"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1415"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-557",
+      "ref": "N-557",
+      "name": "Andrew Kolb",
+      "type": "person",
+      "description": "Source (per host) for Bibi Netanyahu funding offer; name distinct from Andrew Kolvet as spelled in transcript.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1937"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1413"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-558",
+      "ref": "N-558",
+      "name": "Viva Frey",
+      "type": "person",
+      "description": "Commentator who discussed Turkey Tom video and Tyler Robinson text-message authenticity on the show.",
+      "related_artifacts": [
+        "A-1544.1",
+        "A-1549.1"
+      ],
+      "related_claims": [
+        "C-1949"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-559",
+      "ref": "N-559",
+      "name": "New York Post",
+      "type": "person",
+      "description": "Published profile article on Candace Owens referenced in episode.",
+      "related_artifacts": [
+        "A-1546.1"
+      ],
+      "related_claims": [
+        "C-1946",
+        "C-1947",
+        "C-1948"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1422"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-560",
+      "ref": "N-560",
+      "name": "PragerU",
+      "type": "person",
+      "description": "Organization allegedly paying multiple commentators attacking Candace.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-561"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-561",
+      "ref": "N-561",
+      "name": "Marissa",
+      "type": "person",
+      "description": "Named PragerU contact (per host).",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-560"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-562",
+      "ref": "N-562",
+      "name": "Isabella Mazzone",
+      "type": "person",
+      "description": "Donor; raised Charlie Kirk Catholicism question.",
+      "related_artifacts": [
+        "A-1551.7"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1421"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-563",
+      "ref": "N-563",
+      "name": "Curbster",
+      "type": "person",
+      "description": "Donor; prayer-support message.",
+      "related_artifacts": [
+        "A-1551.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-564",
+      "ref": "N-564",
+      "name": "Central848",
+      "type": "person",
+      "description": "Donor; proposed electrocution theory.",
+      "related_artifacts": [
+        "A-1551.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1423"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-565",
+      "ref": "N-565",
+      "name": "Zachary Loft",
+      "type": "person",
+      "description": "Donor; asked about lack of livestream.",
+      "related_artifacts": [
+        "A-1551.3"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-566",
+      "ref": "N-566",
+      "name": "Mr. Bruce Lee",
+      "type": "person",
+      "description": "Donor; raised botted-chat observation.",
+      "related_artifacts": [
+        "A-1551.4"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-567",
+      "ref": "N-567",
+      "name": "Will Wallace",
+      "type": "person",
+      "description": "Donor; security-support donation.",
+      "related_artifacts": [
+        "A-1551.5"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-568",
+      "ref": "N-568",
+      "name": "Lamp",
+      "type": "person",
+      "description": "Donor; raised Qatar-role question.",
+      "related_artifacts": [
+        "A-1551.8"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1408",
+      "ref": "N-1408",
+      "name": "Tyler Robinson Prosecution Evidence Base",
+      "type": "investigation_target",
+      "description": "Persistent question over what evidence exists beyond the charging affidavit; what investigators have shared with victim family; probable cause hearing scope.",
+      "related_artifacts": [
+        "A-1540.1"
+      ],
+      "related_claims": [
+        "C-1928",
+        "C-1929"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1409",
+      "ref": "N-1409",
+      "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
+      "type": "investigation_target",
+      "description": "Contested sequence of Mikey McCoy's first calls; discrepancy between Blake Neff's narrative and the call logs.",
+      "related_artifacts": [
+        "A-1542.1",
+        "A-1543.1"
+      ],
+      "related_claims": [
+        "C-1931",
+        "C-1932",
+        "C-1933"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-541",
+        "N-542",
+        "N-544"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1410",
+      "ref": "N-1410",
+      "name": "Elizabeth McCoy Disappearance From Public Narrative",
+      "type": "investigation_target",
+      "description": "Question over why Elizabeth McCoy has been removed from the publicly-circulated version of the post-shooting call sequence.",
+      "related_artifacts": [
+        "A-1543.1"
+      ],
+      "related_claims": [
+        "C-1935",
+        "C-1936"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-542"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1411",
+      "ref": "N-1411",
+      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+      "type": "investigation_target",
+      "description": "Pre-incident messages received by Andrew Kolvet (\"they're going to kill me\") and Dan Flood (\"the left is going to kill me\"); authentication status.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1926",
+        "C-1927"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-539"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1412",
+      "ref": "N-1412",
+      "name": "Andrew Kolvet Surgeon Bullet Description",
+      "type": "investigation_target",
+      "description": "Question over Andrew Kolvet's contact with the operating surgeon; HIPAA implications; basis for the \"man of steel\" tweet.",
+      "related_artifacts": [
+        "A-1541.1",
+        "A-1541.2"
+      ],
+      "related_claims": [
+        "C-1939",
+        "C-1940"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1413",
+      "ref": "N-1413",
+      "name": "Bibi Netanyahu TPUSA Funding Offer",
+      "type": "investigation_target",
+      "description": "Alleged offer to take TPUSA to next level; reported Charlie Kirk rejection; contradiction with Andrew Kolvet's $150 million denial.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1937",
+        "C-1938"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-554",
+        "N-557"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1414",
+      "ref": "N-1414",
+      "name": "Tyler Robinson Rooftop Access Timeline",
+      "type": "investigation_target",
+      "description": "Disputed earliest public date of UVU courtyard disclosure; August 27 vs September 2.",
+      "related_artifacts": [
+        "A-1544.2",
+        "A-1547.1",
+        "A-1548.1"
+      ],
+      "related_claims": [
+        "C-1956",
+        "C-1957",
+        "C-1958"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-555"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1415",
+      "ref": "N-1415",
+      "name": "Candace Owens Security Arrangement",
+      "type": "investigation_target",
+      "description": "Question over Candace's security team and its relationship (or not) to Charlie Kirk's security apparatus.",
+      "related_artifacts": [
+        "A-1539.1",
+        "A-1545.1",
+        "A-1545.2"
+      ],
+      "related_claims": [
+        "C-1942",
+        "C-1943",
+        "C-1944",
+        "C-1945"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-545",
+        "N-556"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1416",
+      "ref": "N-1416",
+      "name": "Hampton Retreat Seth Dillon Confrontation",
+      "type": "investigation_target",
+      "description": "Alleged confrontation between Seth Dillon and Charlie Kirk over hypothetical anti-Netanyahu tweet.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1953"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-553"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1417",
+      "ref": "N-1417",
+      "name": "Terrell Farnsworth Camera Removal Justification",
+      "type": "investigation_target",
+      "description": "Contested justification for removal of cameras at UVU event before shooting.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1938"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-539"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1418",
+      "ref": "N-1418",
+      "name": "Egyptian Planes Israel Flight Pattern",
+      "type": "investigation_target",
+      "description": "Alleged pattern of Egyptian planes turning off transponders when flying in/out of Israel.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1419",
+      "ref": "N-1419",
+      "name": "Rob McCoy TPUSA Affiliation Claim",
+      "type": "investigation_target",
+      "description": "Question over whether Rob McCoy has any actual affiliation with TPUSA.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1937"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-543"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1420",
+      "ref": "N-1420",
+      "name": "Bari Weiss CBS Interview Question Selection",
+      "type": "investigation_target",
+      "description": "Alleged pre-selection of questions at CBS interview; relationship to \"podcaster Candace Owens\" question.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1421",
+      "ref": "N-1421",
+      "name": "Charlie Kirk Catholicism Journey",
+      "type": "investigation_target",
+      "description": "Charlie Kirk's reported attendance at mass and intent to begin Catholic conversion process.",
+      "related_artifacts": [
+        "A-1539.1",
+        "A-1551.7"
+      ],
+      "related_claims": [
+        "C-1952"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-539",
+        "N-562"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1422",
+      "ref": "N-1422",
+      "name": "Candace Husband Qatari Passport Claim",
+      "type": "investigation_target",
+      "description": "New York Post allegation that Candace's husband holds Qatari passport/citizenship; contradicted by Candace.",
+      "related_artifacts": [
+        "A-1546.1"
+      ],
+      "related_claims": [
+        "C-1948"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-559"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1423",
+      "ref": "N-1423",
+      "name": "Camp Wa Chuka Investigation",
+      "type": "investigation_target",
+      "description": "Reported follow-up on Camp Wa Chuka air base and Baron Coleman video collaboration.",
+      "related_artifacts": [
+        "A-1551.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-552",
+        "N-564"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1424",
+      "ref": "N-1424",
+      "name": "Rob McCoy Wikipedia TPUSA Faith Entry",
+      "type": "investigation_target",
+      "description": "Alleged Wikipedia update claiming Rob McCoy founded Turning Point USA Faith.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-543"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1425",
+      "ref": "N-1425",
+      "name": "George Zin Self-Incriminating Hospital Statement",
+      "type": "investigation_target",
+      "description": "Alleged statement by George Zin to Utah Valley nurses that he was paid to claim to be the shooter.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1950"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-548"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1426",
+      "ref": "N-1426",
+      "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
+      "type": "investigation_target",
+      "description": "Alleged dispute over investigation of potential terrorist angle.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [
+        "C-1951"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-549",
+        "N-550",
+        "N-551"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1427",
+      "ref": "N-1427",
+      "name": "Brian Harpole Dan Flood Text Misattribution",
+      "type": "investigation_target",
+      "description": "Claim that text message Brian Harpole showed on camera belonged to Dan Flood.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1428",
+      "ref": "N-1428",
+      "name": "UVU Walk-Through Disputed",
+      "type": "investigation_target",
+      "description": "Allegation that no security walk-through was performed at UVU on incident day.",
+      "related_artifacts": [
+        "A-1539.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1924",
+      "ref": "C-1924",
+      "label": "Private meeting with Erika and Justin Streif lasted 4 hours 30 minutes",
+      "claim": "A private meeting between Candace Owens, Erika Kolfage, and Justin Streif, with George present at the opening and cousin Mia in attendance, lasted approximately 4 hours and 30 minutes.",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-539",
+        "N-540",
+        "N-546",
+        "N-588",
+        "N-589"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:34",
+      "investigative_direction": "Verify meeting date, location, and stated duration against any third-party records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1925",
+      "ref": "C-1925",
+      "label": "Erika confirmed possession of Charlie's phone",
+      "claim": "Erika Kolfage confirmed she has Charlie Kirk's phone and that he primarily used Signal and Telegram for communications.",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-539",
+        "N-1411"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:18",
+      "investigative_direction": "Verify Charlie Kirk's actual messaging platforms through device forensics."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1926",
+      "ref": "C-1926",
+      "label": "Erika confirmed Andrew Kolvet received pre-incident text",
+      "claim": "Erika Kolfage acknowledged that Andrew Kolvet received a pre-incident message from Charlie Kirk stating \"they're going to kill me.\"",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-539",
+        "N-542",
+        "N-1411"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:18",
+      "investigative_direction": "Obtain the original message from Andrew Kolvet or his device records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1927",
+      "ref": "C-1927",
+      "label": "Erika stated Dan Flood's pre-incident text specified \"the left\"",
+      "claim": "Erika Kolfage stated that the message Dan Flood received from Charlie Kirk the night before read \"the left is going to kill me.\"",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-539",
+        "N-543",
+        "N-1411"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:18",
+      "investigative_direction": "Obtain original Dan Flood message through his records or testimony."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1928",
+      "ref": "C-1928",
+      "label": "TPUSA case lawyer stated evidence base is at affidavit stage only",
+      "claim": "The lawyer involved in the Tyler Robinson prosecution told Candace that they have nothing beyond the affidavit-stage evidence and will not have access to further evidence until the May probable cause hearing.",
+      "anchored_artifacts": [
+        "A-1539.1",
+        "A-1540.1"
+      ],
+      "related_nodes": [
+        "N-539",
+        "N-1408"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:03",
+      "investigative_direction": "Verify the May probable cause hearing date through Utah court records; compare against public charging documents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1929",
+      "ref": "C-1929",
+      "label": "Probable cause hearing scheduled for May",
+      "claim": "The probable cause hearing at which evidence will first be presented to a judge is scheduled for May 2026.",
+      "anchored_artifacts": [
+        "A-1540.1"
+      ],
+      "related_nodes": [
+        "N-1408"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:00",
+      "investigative_direction": "Confirm hearing date through Utah state court docket."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1930",
+      "ref": "C-1930",
+      "label": "Candace spoke with witness who filmed rooftop person at 12:23 pm",
+      "claim": "Candace Owens spoke with a witness who filmed a person on the roof at 12:23 pm and did not see that person take the shot.",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-539",
+        "N-1408"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:02",
+      "investigative_direction": "Identify the witness and verify the video and timestamp."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1931",
+      "ref": "C-1931",
+      "label": "Witness described smaller gun, black tactical gear, no recoil",
+      "claim": "The rooftop-filming witness described the subject as wearing black tactical gear, carrying a smaller gun, and exhibiting no recoil.",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-1408"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:02",
+      "investigative_direction": "Verify witness testimony through investigators and recorded statement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1932",
+      "ref": "C-1932",
+      "label": "Mikey McCoy's first call was to wife Elizabeth McCoy",
+      "claim": "Mikey McCoy's call logs show his first post-shooting call was to his wife Elizabeth McCoy and lasted approximately 10 minutes.",
+      "anchored_artifacts": [
+        "A-1543.1"
+      ],
+      "related_nodes": [
+        "N-541",
+        "N-542",
+        "N-1409"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:53",
+      "investigative_direction": "Obtain the call logs directly from Mikey McCoy or from phone carrier records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1933",
+      "ref": "C-1933",
+      "label": "Mikey three-wayed Erika 3 minutes after shot and father 2 minutes later",
+      "claim": "Mikey McCoy added Erika to the call approximately 3 minutes after the shot and added his father Rob McCoy approximately 2 minutes later, remaining on the phone with his wife throughout.",
+      "anchored_artifacts": [
+        "A-1543.1"
+      ],
+      "related_nodes": [
+        "N-541",
+        "N-542",
+        "N-543",
+        "N-539",
+        "N-1409"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:12",
+      "investigative_direction": "Verify the three-way call sequence against carrier records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1934",
+      "ref": "C-1934",
+      "label": "Mikey McCoy's real first name is Michael",
+      "claim": "Mikey McCoy's real first name is Michael; \"Mikey\" is not a middle-name substitute.",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-541"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:53",
+      "investigative_direction": "Verify against official identity records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1935",
+      "ref": "C-1935",
+      "label": "Blake Neff's account contradicts the call logs",
+      "claim": "Blake Neff's interview account — that Mikey's first call after the shooting was to Erika, followed by his mother and father — directly contradicts the call logs provided by TPUSA.",
+      "anchored_artifacts": [
+        "A-1542.1",
+        "A-1543.1"
+      ],
+      "related_nodes": [
+        "N-541",
+        "N-544",
+        "N-1409"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:28",
+      "investigative_direction": "Cross-reference Blake Neff's recorded statement against the verified call sequence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1936",
+      "ref": "C-1936",
+      "label": "Elizabeth McCoy was removed from public narrative despite memorial/vacation visibility",
+      "claim": "Elizabeth McCoy was reportedly involved in memorial activity and vacation travel with Erika, yet was removed from the publicly circulated version of the post-shooting call sequence.",
+      "anchored_artifacts": [
+        "A-1543.1"
+      ],
+      "related_nodes": [
+        "N-542",
+        "N-539",
+        "N-1410"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:48",
+      "investigative_direction": "Investigate the editorial decisions that excluded Elizabeth McCoy from circulated accounts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1937",
+      "ref": "C-1937",
+      "label": "Three sources corroborated Bibi Netanyahu funding offer",
+      "claim": "Three sources with knowledge confirmed to Candace that Bibi Netanyahu offered to fund TPUSA to the next level and that Charlie Kirk turned down the offer.",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-539",
+        "N-554",
+        "N-1413"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:14",
+      "investigative_direction": "Identify the three sources and obtain documentary evidence of the offer."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1938",
+      "ref": "C-1938",
+      "label": "Andrew Kolb told Candace Bibi offered to take TPUSA to next level",
+      "claim": "Andrew Kolb (as named in transcript) told Candace verbatim that Bibi Netanyahu offered to take Turning Point USA to the next level and Charlie turned the money down.",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-557",
+        "N-554",
+        "N-1413"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:14",
+      "investigative_direction": "Verify Andrew Kolb's specific statement; clarify whether this is the same person as Andrew Kolvet."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1939",
+      "ref": "C-1939",
+      "label": "Rob McCoy does not work for TPUSA in any capacity",
+      "claim": "Rob McCoy does not work with TPUSA in any capacity, contrary to his public conduct at the memorial and his claimed \"America's pastor\" status.",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-543",
+        "N-1419",
+        "N-1424"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:35",
+      "investigative_direction": "Verify Rob McCoy's formal affiliations independently of his self-presentation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1940",
+      "ref": "C-1940",
+      "label": "TPUSA defended Terrell Farnsworth's camera removal",
+      "claim": "TPUSA defended Terrell Farnsworth's removal of cameras as part of a new livestream system used selectively for tour stops rather than all outdoor events.",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-549",
+        "N-539",
+        "N-1417"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:23",
+      "investigative_direction": "Verify TPUSA's documented livestream policy and Farnsworth's specific authority on incident day."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1941",
+      "ref": "C-1941",
+      "label": "Andrew Kolvet posted surgeon \"man of steel\" bullet description",
+      "claim": "Andrew Kolvet posted a tweet attributing to a surgeon the claim that Charlie Kirk's bone density was so healthy he was \"like the man of steel\" and the bullet should have passed through.",
+      "anchored_artifacts": [
+        "A-1541.1"
+      ],
+      "related_nodes": [
+        "N-542",
+        "N-1412"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:24",
+      "investigative_direction": "Verify the original tweet content and the surgeon's identity."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1942",
+      "ref": "C-1942",
+      "label": "Andrew Kolvet admitted surgeon did not know he would post",
+      "claim": "Per Candace, Andrew Kolvet acknowledged that the surgeon did not know he would write the tweet.",
+      "anchored_artifacts": [
+        "A-1539.1",
+        "A-1541.2"
+      ],
+      "related_nodes": [
+        "N-542",
+        "N-1412"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:14",
+      "investigative_direction": "Verify Kolvet's stated communication with the surgeon and HIPAA implications."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1943",
+      "ref": "C-1943",
+      "label": "Tim Pool previously said Candace has no security",
+      "claim": "Approximately one week prior, Tim Pool stated Candace Owens had no security beyond one guard and a 4-foot wall at a suburban residence.",
+      "anchored_artifacts": [
+        "A-1545.1"
+      ],
+      "related_nodes": [
+        "N-545",
+        "N-1415"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:36",
+      "investigative_direction": "Verify the earlier Tim Pool statement against his show archive."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1944",
+      "ref": "C-1944",
+      "label": "Tim Pool now claims Candace uses same security as Charlie Kirk",
+      "claim": "Tim Pool currently states Candace Owens has used the same security personnel and security companies as Charlie and Erika Kirk.",
+      "anchored_artifacts": [
+        "A-1545.2"
+      ],
+      "related_nodes": [
+        "N-545",
+        "N-1415"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:27",
+      "investigative_direction": "Verify the current claim against any documented security employment records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1945",
+      "ref": "C-1945",
+      "label": "Candace used different security from the start via Shafer Security",
+      "claim": "Candace Owens retained separate security from Charlie Kirk's from the beginning; Charlie's initial security was Shafer Security, operated by Greg Shafer, employing Dan Flood and Brian Harpole.",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-539",
+        "N-556",
+        "N-1415"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:06",
+      "investigative_direction": "Verify Greg Shafer's public statement and Shafer Security's documented client list."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1946",
+      "ref": "C-1946",
+      "label": "No cease and desist received from Charlie's security",
+      "claim": "Candace has received no cease and desist from Charlie Kirk's security apparatus over security-related claims.",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-539",
+        "N-1415"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:06",
+      "investigative_direction": "Confirm absence of legal correspondence through counsel records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1947",
+      "ref": "C-1947",
+      "label": "New York Post alleged Candace threw car keys at Daily Wire producer",
+      "claim": "New York Post article reported an anonymous source claim that Candace threw her car keys at a Daily Wire producer in her first week.",
+      "anchored_artifacts": [
+        "A-1546.1"
+      ],
+      "related_nodes": [
+        "N-559",
+        "N-539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:01",
+      "investigative_direction": "Verify the cited Daily Wire source and article publication date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1948",
+      "ref": "C-1948",
+      "label": "Candace never drove her car to Daily Wire",
+      "claim": "Candace Owens states she never drove her car to the Daily Wire during her tenure; she had a driver.",
+      "anchored_artifacts": [
+        "A-1546.1"
+      ],
+      "related_nodes": [
+        "N-559",
+        "N-539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:47",
+      "investigative_direction": "Verify against Daily Wire security logs or contemporaneous records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1949",
+      "ref": "C-1949",
+      "label": "Candace's husband has no Qatari passport/citizenship",
+      "claim": "Per Candace, her husband does not have a Qatari passport and has not flown to Qatar.",
+      "anchored_artifacts": [
+        "A-1546.1"
+      ],
+      "related_nodes": [
+        "N-559",
+        "N-1422"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:01",
+      "investigative_direction": "Verify travel and passport records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1950",
+      "ref": "C-1950",
+      "label": "Turkey Tom authenticated Robinson Discord chat messaging style",
+      "claim": "Turkey Tom produced a video asserting that he was in Discord chats with Tyler Robinson and that the published message style is authentic.",
+      "anchored_artifacts": [
+        "A-1549.1"
+      ],
+      "related_nodes": [
+        "N-547",
+        "N-558",
+        "N-551"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:11",
+      "investigative_direction": "Verify Turkey Tom's claimed Discord membership through chat logs or other participants."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1951",
+      "ref": "C-1951",
+      "label": "George Zin allegedly told nurses he was paid to pose as shooter",
+      "claim": "Per Candace, George Zin told nurses at Utah Valley (where he was treated) that he was paid to claim to be the shooter.",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-548",
+        "N-1425"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:50",
+      "investigative_direction": "Verify through hospital records, nurse testimony, or police interview of Zin."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1952",
+      "ref": "C-1952",
+      "label": "Kash Patel allegedly angry at Gabbard and Kent over terrorist-angle probe",
+      "claim": "Per Candace, Kash Patel expressed anger at Tulsi Gabbard and Joe Kent for investigating a potential terrorist angle to the Kirk case.",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-549",
+        "N-550",
+        "N-551",
+        "N-1426"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:14",
+      "investigative_direction": "Verify through any on-record statements from the named individuals."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1953",
+      "ref": "C-1953",
+      "label": "Erika confirmed Charlie was attending mass and reportedly planning conversion",
+      "claim": "Erika Kolfage confirmed Charlie Kirk was attending mass; per third-party information relayed to Candace, he was reportedly planning to begin the Catholic conversion process.",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-539",
+        "N-1421"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:35",
+      "investigative_direction": "Verify through parish records and direct corroboration from Erika on the record."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1954",
+      "ref": "C-1954",
+      "label": "Hampton retreat involved Seth Dillon confronting Charlie over hypothetical anti-Netanyahu tweet",
+      "claim": "Seth Dillon pressed Charlie Kirk at the Hampton retreat over a hypothetical tweet against Bibi Netanyahu, producing a heated moment.",
+      "anchored_artifacts": [
+        "A-1539.1"
+      ],
+      "related_nodes": [
+        "N-553",
+        "N-554",
+        "N-1416"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:16",
+      "investigative_direction": "Verify through any recording or attendee corroboration of the retreat."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1955",
+      "ref": "C-1955",
+      "label": "Andrew Seifer identified as TPUSA head of field",
+      "claim": "On the Charlie Kirk Show, Andrew Seifer was identified as TPUSA's head of field.",
+      "anchored_artifacts": [
+        "A-1544.2"
+      ],
+      "related_nodes": [
+        "N-555",
+        "N-1414"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:02",
+      "investigative_direction": "Verify Andrew Seifer's official TPUSA title."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1956",
+      "ref": "C-1956",
+      "label": "Charlie Kirk Show segment asserted August 27 had full location",
+      "claim": "On the Charlie Kirk Show, a speaker stated that TPUSA had posted the UVU courtyard location on its website as early as August 27.",
+      "anchored_artifacts": [
+        "A-1544.2"
+      ],
+      "related_nodes": [
+        "N-555",
+        "N-1414"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:02",
+      "investigative_direction": "Verify the specific August 27 post referenced."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1957",
+      "ref": "C-1957",
+      "label": "Candace identifies September 2 KAMYU as first public location mention",
+      "claim": "Per Candace's timeline research, the earliest public mention of the UVU courtyard location was on KAMYU local media on September 2.",
+      "anchored_artifacts": [
+        "A-1547.1"
+      ],
+      "related_nodes": [
+        "N-1414"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:22",
+      "investigative_direction": "Verify KAMYU broadcast date and content."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1958",
+      "ref": "C-1958",
+      "label": "TPUSA/UVU/BYU August 27 graphic had no location details",
+      "claim": "Per Candace, the August 27 TPUSA/UVU/BYU chapter graphic announcing the event contained no location details.",
+      "anchored_artifacts": [
+        "A-1548.1"
+      ],
+      "related_nodes": [
+        "N-1414"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:22",
+      "investigative_direction": "Obtain the original August 27 graphic."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1959",
+      "ref": "C-1959",
+      "label": "Charlie Kirk direct quotation on asking questions",
+      "claim": "Candace reads a direct Charlie Kirk quotation: \"You better keep asking questions, because it's the only thing that keeps us free.\"",
+      "anchored_artifacts": [
+        "A-1550.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:56",
+      "investigative_direction": "Verify the quotation against the cited Charlie Kirk source."
+    }
+  ],
+  "memes": []
+}

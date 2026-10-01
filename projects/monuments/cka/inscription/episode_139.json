@@ -1,0 +1,1395 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 139,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "8478e4fc7004488cce084c823d9f80149d81fd59cf33314345ba5d116e3a955e",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2254",
+      "family_ref": "A-2254",
+      "bundle_name": "Tip Line Email – French Translation Hypothesis",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2254.1",
+          "ref": "A-2254.1",
+          "description": "Email from viewer proposing \"pooch/sniffer\" phrase is French calque (\"reneneur / chien renifleur\")",
+          "related_claims": [
+            "C-3236",
+            "C-3237"
+          ],
+          "related_nodes": [
+            "N-2185",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:02–00:00:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2255",
+      "family_ref": "A-2255",
+      "bundle_name": "Joe Rogan Experience – Andrew Wilson Appearance Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2255.1",
+          "ref": "A-2255.1",
+          "description": "Wilson states he offered Candace $300K to debate",
+          "related_claims": [
+            "C-3237",
+            "C-3238"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1213"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:25–00:04:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2255.2",
+          "ref": "A-2255.2",
+          "description": "Wilson states he hugged Erika Kirk at TPUSA HQ",
+          "related_claims": [
+            "C-3239"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:12–00:05:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2255.3",
+          "ref": "A-2255.3",
+          "description": "Wilson states Candace has presented no evidence of Israel/TPUSA/Erica conspiracy",
+          "related_claims": [
+            "C-3240"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:25–00:04:59",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2256",
+      "family_ref": "A-2256",
+      "bundle_name": "Andrew Kovac X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2256.1",
+          "ref": "A-2256.1",
+          "description": "Kovac post claiming Wilson paid for one day of debate training",
+          "related_claims": [
+            "C-3241"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2257",
+      "family_ref": "A-2257",
+      "bundle_name": "Blake Nef X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2257.1",
+          "ref": "A-2257.1",
+          "description": "Nef post recommending Wilson's Rogan appearance",
+          "related_claims": [
+            "C-3242"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2258",
+      "family_ref": "A-2258",
+      "bundle_name": "Andrew Wilson Debate Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2258.1",
+          "ref": "A-2258.1",
+          "description": "Debate clip of Wilson with female opponent \"Charlie\" (feminist)",
+          "related_claims": [
+            "C-3243"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:41–00:13:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2259",
+      "family_ref": "A-2259",
+      "bundle_name": "Lance Twigs Visual Handedness Evidence Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2259.1",
+          "ref": "A-2259.1",
+          "description": "Snowboarding photo – subject falls onto left hand",
+          "related_claims": [
+            "C-3244"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2186"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:00–00:30:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2259.2",
+          "ref": "A-2259.2",
+          "description": "Gas-pump photo (Texas) – subject fueling with left hand",
+          "related_claims": [
+            "C-3245"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2186"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:04",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2259.3",
+          "ref": "A-2259.3",
+          "description": "Selfie photos – taken with left hand",
+          "related_claims": [
+            "C-3245"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2186"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:04",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2259.4",
+          "ref": "A-2259.4",
+          "description": "Childhood piano recital video (\"My name is Lance Twigs…\") – watch on right hand; left hand turns page",
+          "related_claims": [
+            "C-3246"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2186"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:09–00:30:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2260",
+      "family_ref": "A-2260",
+      "bundle_name": "Benny Johnson Show Clip – \"Overwhelming Evidence\" Statement",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2260.1",
+          "ref": "A-2260.1",
+          "description": "Clip of Benny Johnson stating public has seen 1–2% of available evidence",
+          "related_claims": [
+            "C-3247"
+          ],
+          "related_nodes": [
+            "N-1212",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:07–00:17:57",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2261",
+      "family_ref": "A-2261",
+      "bundle_name": "UVU Stairway Blurry Footage – Maroon Shirt Person with Phone",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2261.1",
+          "ref": "A-2261.1",
+          "description": "Blurry video clip showing maroon-shirt figure holding phone in left hand and pocketing in left pocket",
+          "related_claims": [
+            "C-3248"
+          ],
+          "related_nodes": [
+            "N-2187",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:49–00:28:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2262",
+      "family_ref": "A-2262",
+      "bundle_name": "Grocery Price Twitter Debate Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2262.1",
+          "ref": "A-2262.1",
+          "description": "Matt Walsh X post – \"grocery prices are insane\"",
+          "related_claims": [
+            "C-3249"
+          ],
+          "related_nodes": [
+            "N-2188"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2262.2",
+          "ref": "A-2262.2",
+          "description": "Joel Barry X post – \"$20 burritos for family of eight\"",
+          "related_claims": [
+            "C-3250"
+          ],
+          "related_nodes": [
+            "N-2188"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2262.3",
+          "ref": "A-2262.3",
+          "description": "Joel Barry 2024 X post – \"I'd like to go back to when I could afford groceries\"",
+          "related_claims": [
+            "C-3251"
+          ],
+          "related_nodes": [
+            "N-2188"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2262.4",
+          "ref": "A-2262.4",
+          "description": "Matt Walsh reply to Joel Barry",
+          "related_claims": [
+            "C-3252"
+          ],
+          "related_nodes": [
+            "N-2188"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:00–00:39:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2262.5",
+          "ref": "A-2262.5",
+          "description": "Dan Crenshaw X post – \"eat ramen\"",
+          "related_claims": [
+            "C-3253"
+          ],
+          "related_nodes": [
+            "N-2188"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2262.6",
+          "ref": "A-2262.6",
+          "description": "Blake Nef X post – WEF chart claiming US spends least on food",
+          "related_claims": [
+            "C-3254"
+          ],
+          "related_nodes": [
+            "N-1211",
+            "N-2188"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:30–00:43:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2263",
+      "family_ref": "A-2263",
+      "bundle_name": "Daily Wire Anti-Islam Film Trailer Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2263.1",
+          "ref": "A-2263.1",
+          "description": "Ben Shapiro X post introducing film trailer",
+          "related_claims": [
+            "C-3255"
+          ],
+          "related_nodes": [
+            "N-2188"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:21–00:45:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2263.2",
+          "ref": "A-2263.2",
+          "description": "Daily Wire trailer audio",
+          "related_claims": [
+            "C-3255"
+          ],
+          "related_nodes": [
+            "N-2188"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:02–00:47:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2264",
+      "family_ref": "A-2264",
+      "bundle_name": "Rabbi Schmoolie Iceland Encounter Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2264.1",
+          "ref": "A-2264.1",
+          "description": "Video posted by Rabbi Schmoolie of Iceland street confrontation",
+          "related_claims": [
+            "C-3256"
+          ],
+          "related_nodes": [
+            "N-1217"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:52–00:51:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2265",
+      "family_ref": "A-2265",
+      "bundle_name": "Tip Line Email – Luna / Helluva Boss Cultural Context",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2265.1",
+          "ref": "A-2265.1",
+          "description": "Email from viewer describing Luna character from Helluva Boss as anthropomorphic hellhound, furry fandom figure, socially withdrawn personality, wears pentagram",
+          "related_claims": [
+            "C-3257",
+            "C-3258"
+          ],
+          "related_nodes": [
+            "N-2189",
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:01–00:23:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2266",
+      "family_ref": "A-2266",
+      "bundle_name": "Wikipedia Helluva Boss Description Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2266.1",
+          "ref": "A-2266.1",
+          "description": "Wikipedia read-aloud describing series as following IMP (Immediate Murder Professionals) assassination company in hell",
+          "related_claims": [
+            "C-3259"
+          ],
+          "related_nodes": [
+            "N-2189"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:03–00:25:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Independent commentator/debater who appeared on Joe Rogan claiming TPUSA affiliation, offering $300K (later countered at $500K) to debate Candace Owens about the Charlie Kirk case; claims to have hugged Erika Kirk at TPUSA HQ.",
+      "related_artifacts": [
+        "A-2255.1",
+        "A-2255.2",
+        "A-2255.3",
+        "A-2256.1",
+        "A-2257.1",
+        "A-2258.1"
+      ],
+      "related_claims": [
+        "C-3237",
+        "C-3238",
+        "C-3239",
+        "C-3240",
+        "C-3241",
+        "C-3242",
+        "C-3243"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1210",
+        "N-1211"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Roommate of Tyler Robinson from August 2023; subject of the host's \"Silence of the Lance\" investigation thread. Has prior-episode findings about DNA on rifle, dog bed in Tyler's room, burned note, \"Luna\" persona, and left-handedness presented as supporting a possible federal-asset theory.",
+      "related_artifacts": [
+        "A-2259.1",
+        "A-2259.2",
+        "A-2259.3",
+        "A-2259.4",
+        "A-2265.1"
+      ],
+      "related_claims": [
+        "C-3244",
+        "C-3245",
+        "C-3246"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2186",
+        "N-2187",
+        "N-2189",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "TPUSA-affiliated figure who publicly stated Andrew Wilson was paid for one day of debate training for TPUSA students.",
+      "related_artifacts": [
+        "A-2256.1"
+      ],
+      "related_claims": [
+        "C-3241"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "TPUSA-affiliated commentator who publicly recommended Andrew Wilson's Rogan appearance and shared a WEF chart claiming Americans spend least of any country on food.",
+      "related_artifacts": [
+        "A-2257.1",
+        "A-2262.6"
+      ],
+      "related_claims": [
+        "C-3242",
+        "C-3254"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Commentator invited by Erica Kirk to the preliminary hearing; stated on his show (clip played in episode) that public has seen only 1–2% of available evidence.",
+      "related_artifacts": [
+        "A-2260.1"
+      ],
+      "related_claims": [
+        "C-3247"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Host of The Joe Rogan Experience; platform for Andrew Wilson's appearance.",
+      "related_artifacts": [
+        "A-2255.1",
+        "A-2255.2",
+        "A-2255.3"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Host of the Whatever podcast; initially offered $50K (then $150K) to Candace for a Wilson debate through her PR rep Mitchell.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Female feminist opponent in the displayed Andrew Wilson debate clip; not further identified in episode.",
+      "related_artifacts": [
+        "A-2258.1"
+      ],
+      "related_claims": [
+        "C-3243"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Co-founder of The Daily Wire; authored the X post introducing the anti-Islam film trailer.",
+      "related_artifacts": [
+        "A-2263.1"
+      ],
+      "related_claims": [
+        "C-3255"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Subject of Iceland encounter video displayed in episode; reported in series as one of the \"grossest representatives\" of the Zionist lobby.",
+      "related_artifacts": [
+        "A-2264.1"
+      ],
+      "related_claims": [
+        "C-3256"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2185",
+      "ref": "N-2185",
+      "name": "French Translation Hypothesis (Tyler Robinson Texts)",
+      "type": "investigation_target",
+      "description": "Investigative target: persistent theory that the alleged Tyler Robinson text messages were authored by a non-native English speaker using French phrasing (specifically \"sniffer pooch\" as calque of French \"chien renifleur\" / \"reneneur\"). Supported in this episode by viewer tip email.",
+      "related_artifacts": [
+        "A-2254.1"
+      ],
+      "related_claims": [
+        "C-3236",
+        "C-3237"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2186",
+      "ref": "N-2186",
+      "name": "Lance Twigs Handedness Verification",
+      "type": "investigation_target",
+      "description": "Investigative target: persistent question of whether Lance Twigs is left-handed or ambidextrous, and whether this matches the handedness profile of the maroon-shirt person in the UVU staircase footage.",
+      "related_artifacts": [
+        "A-2259.1",
+        "A-2259.2",
+        "A-2259.3",
+        "A-2259.4"
+      ],
+      "related_claims": [
+        "C-3244",
+        "C-3245",
+        "C-3246"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2187",
+      "ref": "N-2187",
+      "name": "Maroon Shirt Person Identity (UVU Campus)",
+      "type": "investigation_target",
+      "description": "Investigative target: persistent host claim that the maroon-shirt figure on the UVU staircase is not Tyler Robinson, with new visual evidence in this episode (left-hand phone use) being added to that claim.",
+      "related_artifacts": [
+        "A-2261.1"
+      ],
+      "related_claims": [
+        "C-3248"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1208",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2188",
+      "ref": "N-2188",
+      "name": "Grocery Affordability Public Debate (2026-08)",
+      "type": "investigation_target",
+      "description": "Investigative target: cluster of X posts by Matt Walsh, Joel Barry, Dan Crenshaw, Blake Nef arguing about affordability and food spending in mid-2026, used by the host to argue neocon inconsistency.",
+      "related_artifacts": [
+        "A-2262.1",
+        "A-2262.2",
+        "A-2262.3",
+        "A-2262.4",
+        "A-2262.5",
+        "A-2262.6"
+      ],
+      "related_claims": [
+        "C-3249",
+        "C-3250",
+        "C-3251",
+        "C-3252",
+        "C-3253",
+        "C-3254"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2189",
+      "ref": "N-2189",
+      "name": "Luna / Helluva Boss Cultural Connection",
+      "type": "investigation_target",
+      "description": "Investigative target: persistent host theory linking the \"Luna\" hellhound character (furry fandom, pentagram necklace, Helluva Boss) to a persona allegedly associated with Lance Twigs, and connecting the IMP \"assassination company in hell\" premise to the Charlie Kirk case.",
+      "related_artifacts": [
+        "A-2265.1",
+        "A-2266.1"
+      ],
+      "related_claims": [
+        "C-3257",
+        "C-3258",
+        "C-3259"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3236",
+      "ref": "C-3236",
+      "label": "Tip email hypothesizes \"sniffer pooch\" is French calque",
+      "claim": "A viewer email to Candace's tip line argues that the phrase \"pooch\" with \"bad sniffer\" reflects a French calque (\"reneneur\" / \"chien renifleur\"), suggesting the Tyler Robinson text messages were translated from French.",
+      "anchored_artifacts": [
+        "A-2254.1"
+      ],
+      "related_nodes": [
+        "N-2185",
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:02–00:00:55",
+      "investigative_direction": "Obtain forensic linguistic analysis comparing disputed phrases to French idiomatic constructions and confirming or refuting translation-source hypothesis."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3237",
+      "ref": "C-3237",
+      "label": "Host concurs with French-translation hypothesis",
+      "claim": "Host concurs with the tip-line hypothesis that the texts were translated from French, citing \"pooch\" as the strongest example of non-native-English phrasing.",
+      "anchored_artifacts": [
+        "A-2254.1"
+      ],
+      "related_nodes": [
+        "N-2185",
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:55",
+      "investigative_direction": "Compare full text-message corpus for additional French calques; identify likely French-speaker demographics."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3238",
+      "ref": "C-3238",
+      "label": "Andrew Wilson claims to have offered $300K for debate",
+      "claim": "On the Joe Rogan Experience, Andrew Wilson stated he offered Candace Owens $300,000 to debate him regarding the Charlie Kirk case.",
+      "anchored_artifacts": [
+        "A-2255.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:25–00:04:12",
+      "investigative_direction": "Verify funding source of the $300K offer; obtain any formal documentation or PR communications."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3239",
+      "ref": "C-3239",
+      "label": "Andrew Wilson claims he hugged Erica Kirk at TPUSA HQ",
+      "claim": "On the Joe Rogan Experience, Andrew Wilson stated that during a visit to TPUSA HQ he spoke briefly with Erica Kirk and hugged her, expressing sympathy for her loss.",
+      "anchored_artifacts": [
+        "A-2255.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2",
+        "N-1213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:12–00:05:52",
+      "investigative_direction": "Verify TPUSA HQ visit through visitor logs, Erica Kirk's public statements, and corroborating witnesses."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3240",
+      "ref": "C-3240",
+      "label": "Andrew Wilson claims Candace has produced no evidence of conspiracy",
+      "claim": "On the Joe Rogan Experience, Andrew Wilson stated that Candace Owens has never presented a single shred of evidence for her theory that Israel/TPUSA/Erica Kirk conspired in Charlie Kirk's death, and that the position evolved after Erica Kirk publicly called for the conspiracy talk to stop.",
+      "anchored_artifacts": [
+        "A-2255.3"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1213",
+        "N-1",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:25–00:04:59",
+      "investigative_direction": "Catalogue all Candace Owens public statements and shown evidence; evaluate the \"no evidence\" characterization against documented artifacts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3241",
+      "ref": "C-3241",
+      "label": "Andrew Kovac states Wilson was paid for one day of debate training",
+      "claim": "Andrew Kovac stated on X that Andrew Wilson was paid for one day of debate training for TPUSA students and the campus debate team, denying he was being \"paid\" in a broader sense.",
+      "anchored_artifacts": [
+        "A-2256.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:00",
+      "investigative_direction": "Obtain TPUSA payment records or 1099 documentation for Andrew Wilson."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3242",
+      "ref": "C-3242",
+      "label": "Blake Nef recommends Wilson's Rogan appearance",
+      "claim": "Blake Nef posted on X recommending Andrew Wilson's Joe Rogan appearance, stating Wilson \"does a great job\" dissecting conspiracy theories and answering Rogan's questions.",
+      "anchored_artifacts": [
+        "A-2257.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:00",
+      "investigative_direction": "Cross-reference Nef's TPUSA affiliation and prior amplification patterns."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3243",
+      "ref": "C-3243",
+      "label": "Andrew Wilson debate clip displays verbal insults and personal attacks",
+      "claim": "A displayed debate clip shows Andrew Wilson, debating a female opponent named Charlie, using personal insults including calling her \"stupid\" and denigrating her family.",
+      "anchored_artifacts": [
+        "A-2258.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1215"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:41–00:13:00",
+      "investigative_direction": "Obtain full unedited debate recording to verify context and whether insults were reciprocated."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3244",
+      "ref": "C-3244",
+      "label": "Lance Twigs snowboarding photo shows left-hand landing",
+      "claim": "A displayed snowboarding photo shows Lance Twigs falling onto his left hand, consistent with left-handedness or ambidextercy.",
+      "anchored_artifacts": [
+        "A-2259.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2186"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:00–00:30:00",
+      "investigative_direction": "Obtain additional Lance Twigs photos/videos showing hand dominance across varied activities."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3245",
+      "ref": "C-3245",
+      "label": "Lance Twigs fuels with left hand in Texas photo",
+      "claim": "A displayed photo shows Lance Twigs fueling a vehicle with his left hand at a Texas gas station.",
+      "anchored_artifacts": [
+        "A-2259.2"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2186"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:04",
+      "investigative_direction": "Verify photo metadata for date and location; obtain corroborating photos of Twigs using right hand to identify dominant hand definitively."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3246",
+      "ref": "C-3246",
+      "label": "Lance Twigs childhood piano video shows watch on right hand and left-hand page turn",
+      "claim": "A childhood piano recital video of Lance Twigs (\"My name is Lance Twigs. I am playing country concert for young pianists\") shows him wearing a watch on his right hand and turning the page with his left hand.",
+      "anchored_artifacts": [
+        "A-2259.4"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2186"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:09–00:30:33",
+      "investigative_direction": "Confirm watch-hand convention and whether left-hand page turn is consistent with dominant left-handedness or training."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3247",
+      "ref": "C-3247",
+      "label": "Benny Johnson states public has seen 1–2% of available evidence",
+      "claim": "In a clip from The Benny Johnson Show, Benny Johnson stated that the public has seen only 1–2% of the physically available evidence in the Kirk case.",
+      "anchored_artifacts": [
+        "A-2260.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:07–00:17:57",
+      "investigative_direction": "Obtain disclosure schedule from prosecution; identify what evidence remains sealed vs. available but unreleased."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3248",
+      "ref": "C-3248",
+      "label": "UVU staircase maroon-shirt person used left hand for phone, left pocket",
+      "claim": "Blurry UVU staircase footage shows the maroon-shirt person holding a phone in their left hand and pocketing it in their left pocket.",
+      "anchored_artifacts": [
+        "A-2261.1"
+      ],
+      "related_nodes": [
+        "N-2187",
+        "N-69",
+        "N-1208",
+        "N-2186"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:49–00:28:00",
+      "investigative_direction": "Obtain the \"4K\" influencer-shown version of this footage for higher-resolution verification of hand usage and pocket side."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3249",
+      "ref": "C-3249",
+      "label": "Matt Walsh posted that grocery prices are \"insane\" and rising",
+      "claim": "Matt Walsh posted on X that grocery prices are insane and still rising, calling it the number one priority for elected leaders.",
+      "anchored_artifacts": [
+        "A-2262.1"
+      ],
+      "related_nodes": [
+        "N-2188"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:34",
+      "investigative_direction": "Cross-reference BLS food-at-home CPI data for verification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3250",
+      "ref": "C-3250",
+      "label": "Joel Barry posted that burritos for 8 cost under $20",
+      "claim": "Joel Barry posted on X that his wife's homemade burritos for a family of eight cost less than $20 total.",
+      "anchored_artifacts": [
+        "A-2262.2"
+      ],
+      "related_nodes": [
+        "N-2188"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:30",
+      "investigative_direction": "Request itemized receipt or recipe cost breakdown."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3251",
+      "ref": "C-3251",
+      "label": "Joel Barry in 2024 tweeted desire to return to affordable grocery era",
+      "claim": "Joel Barry tweeted in 2024, in reply to Kamala Harris, that he would like to \"go back to when there were no wars and I could afford groceries.\"",
+      "anchored_artifacts": [
+        "A-2262.3"
+      ],
+      "related_nodes": [
+        "N-2188"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:00",
+      "investigative_direction": "Verify original tweet date and context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3252",
+      "ref": "C-3252",
+      "label": "Matt Walsh replied to Joel Barry noting Republican inconsistency on affordability",
+      "claim": "Matt Walsh replied to Joel Barry noting that virtually no Republican was making \"the affordability crisis is fake\" arguments during the Biden years, and that grocery prices have risen 30%+ this decade.",
+      "anchored_artifacts": [
+        "A-2262.4"
+      ],
+      "related_nodes": [
+        "N-2188"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:00–00:39:30",
+      "investigative_direction": "Compile post history of named Republicans regarding affordability claims during 2021–2024 vs. 2025–2026."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3253",
+      "ref": "C-3253",
+      "label": "Dan Crenshaw posted \"eat ramen\" response to affordability concerns",
+      "claim": "Dan Crenshaw posted on X telling critics of grocery prices to \"stop whining, get a job, eat ramen like the rest of us did in college.\"",
+      "anchored_artifacts": [
+        "A-2262.5"
+      ],
+      "related_nodes": [
+        "N-2188"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:30",
+      "investigative_direction": "Verify post and current ramen retail prices for college affordability comparison."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3254",
+      "ref": "C-3254",
+      "label": "Blake Nef shared WEF chart claiming US spends least on food",
+      "claim": "Blake Nef shared a World Economic Forum chart on X claiming Americans spend less of their income on food than any other country on the planet.",
+      "anchored_artifacts": [
+        "A-2262.6"
+      ],
+      "related_nodes": [
+        "N-2188",
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:30–00:43:30",
+      "investigative_direction": "Community note referenced (cited pre-2020 data); obtain updated USDA ERS data for current expenditure share comparison."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3255",
+      "ref": "C-3255",
+      "label": "Daily Wire trailer depicts anti-Islam war narrative",
+      "claim": "Ben Shapiro introduced a Daily Wire film trailer on X claiming Hollywood has refused to tell the story of radical Islam for three decades; the trailer depicts dialogue about Islam conquering the West \"through immigration, through the wombs of our women, and by using our nation's freedoms against us.\"",
+      "anchored_artifacts": [
+        "A-2263.1",
+        "A-2263.2"
+      ],
+      "related_nodes": [
+        "N-2188",
+        "N-1216"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:21–00:47:40",
+      "investigative_direction": "Verify release date, distribution, and producer credits."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3256",
+      "ref": "C-3256",
+      "label": "Rabbi Schmoolie Iceland video shows couple confronting him about Israel",
+      "claim": "A video posted by Rabbi Schmoolie shows a couple in Iceland confronting him with statements about Israel after initially approaching as fans.",
+      "anchored_artifacts": [
+        "A-2264.1"
+      ],
+      "related_nodes": [
+        "N-1217"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:52–00:51:05",
+      "investigative_direction": "Verify participants' identities and location."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3257",
+      "ref": "C-3257",
+      "label": "Email describes Luna as hellhound character popular in furry fandom",
+      "claim": "A viewer email to the tip line describes \"Luna\" from the animated series Helluva Boss as an anthropomorphic hellhound character who is popular within the furry fandom and online animation communities, characterized as guarded, socially awkward, and emotionally withdrawn.",
+      "anchored_artifacts": [
+        "A-2265.1"
+      ],
+      "related_nodes": [
+        "N-2189",
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:01–00:23:55",
+      "investigative_direction": "Cross-reference Helluva Boss character profile and Luna's first appearance date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3258",
+      "ref": "C-3258",
+      "label": "Email states Luna wears pentagram necklace",
+      "claim": "Per the same email, the Luna character from Helluva Boss wears a pentagram as a necklace.",
+      "anchored_artifacts": [
+        "A-2265.1"
+      ],
+      "related_nodes": [
+        "N-2189",
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:55",
+      "investigative_direction": "Obtain canonical Helluva Boss images showing Luna's necklace design."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3259",
+      "ref": "C-3259",
+      "label": "Wikipedia describes Helluva Boss as following \"Immediate Murder Professionals\"",
+      "claim": "Wikipedia describes the Helluva Boss animated series as following the employees of IMP (Immediate Murder Professionals), an assassination company in hell that offers hitman services in the living world.",
+      "anchored_artifacts": [
+        "A-2266.1"
+      ],
+      "related_nodes": [
+        "N-2189",
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:03–00:25:30",
+      "investigative_direction": "Verify Wikipedia entry at time of access; check edit history."
+    }
+  ],
+  "memes": []
+}

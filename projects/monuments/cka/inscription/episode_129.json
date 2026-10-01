@@ -1,0 +1,1121 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 129,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "513786cea1d5039b5eb51ed6d5c02f0d15ecee4cdc48adb287369585a1185a6a",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Episode 129 advances three lines of investigation: (1) physical evidence from the SUV that transported Charlie Kirk to Timpanogos Regional Hospital, specifically two never-before-seen photographs showing a glove-like object in the left rear door pocket and a clearer view of the previously identified backseat object; (2) the chronology of the hospital ride, including Mikey McCoy's call logs and the 10-minute Danny Philip call; and (3) Turning Point USA-aligned commentators publicly equating ongoing questions about Kirk's death with the Alex Jones/Sandy Hook defamation precedent, with host framing this as a coordinated \"priming\" effort for future litigation.\n\nThe episode's evidentiary centerpiece is a Daily Mail exclusive article attributing to a \"family friend\" (and later \"family member\") derogatory private characterizations of Candace Owens by Erika Kirk, alongside reported feelings of \"compassion\" for Tyler Robinson at his Utah courtroom appearance. Turning Point USA declined comment when approached. Host Candace Owens does not inscribe the family-friend source by name but flags Tracy Martin as a speculative candidate.\n\nThe Sandy Hook comparison is documented across multiple artifacts (X posts, a Twitter Space, a Charlie Kirk Show segment, and pre-death statements by Charlie Kirk opposing the Alex Jones verdict). The host frames this convergence as \"lawfare priming,\" which is interpretive commentary rather than a factually inscribed claim.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2164",
+      "family_ref": "A-2164",
+      "bundle_name": "Daily Mail Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2164.1",
+          "ref": "A-2164.1",
+          "description": "Daily Mail article (headline and lede): \"Erika hates Candace Owens… widow's private tirades… 'that B'… 'ugliest person in the world'… 'soulless ghoul'\" — attributed to \"a family friend\"",
+          "related_claims": [
+            "C-3083",
+            "C-3084",
+            "C-3086",
+            "C-3089"
+          ],
+          "related_nodes": [
+            "N-1021",
+            "N-2142"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2164.2",
+          "ref": "A-2164.2",
+          "description": "Daily Mail article body — Erika's reported \"compassion\" and \"overwhelming sadness\" toward Tyler Robinson at his Utah courtroom appearance",
+          "related_claims": [
+            "C-3085"
+          ],
+          "related_nodes": [
+            "N-1021"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2164.3",
+          "ref": "A-2164.3",
+          "description": "Daily Mail article body — Erika's reported statements that she will not give Candace \"an ounce of her energy\"; comparisons to political opponents and to Tyler Robinson",
+          "related_claims": [
+            "C-3086"
+          ],
+          "related_nodes": [
+            "N-1021"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:27",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2165",
+      "family_ref": "A-2165",
+      "bundle_name": "SUV Interior Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2165.1",
+          "ref": "A-2165.1",
+          "description": "Never-before-seen photograph of the left rear (driver-side) door compartment of the SUV, showing an unidentified object identified by multiple observers (Candace, husband, Baron Coleman, others) as a glove",
+          "related_claims": [
+            "C-3087",
+            "C-3089",
+            "C-3104"
+          ],
+          "related_nodes": [
+            "N-2139",
+            "N-1207",
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2165.2",
+          "ref": "A-2165.2",
+          "description": "Side-by-side comparison photographs — recreation by host's team of nitrile glove appearance in a comparable door compartment",
+          "related_claims": [
+            "C-3088",
+            "C-3090"
+          ],
+          "related_nodes": [
+            "N-2139"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2165.3",
+          "ref": "A-2165.3",
+          "description": "Second never-before-seen photograph of the backseat object previously described by some as a burned shirt, with clearer letter/color detail visible",
+          "related_claims": [
+            "C-3091"
+          ],
+          "related_nodes": [
+            "N-2139"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2166",
+      "family_ref": "A-2166",
+      "bundle_name": "Hospital Arrival Media Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2166.1",
+          "ref": "A-2166.1",
+          "description": "Bear and Coleman clip showing Blake Neff arriving at Timpanogos Regional Hospital with Danny Philip, Mikey McCoy, and Nate Walker",
+          "related_claims": [
+            "C-3094",
+            "C-3095"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2166.2",
+          "ref": "A-2166.2",
+          "description": "Local news live footage (cited as Fox 5 Atlanta newsroom feed out of Utah) of group walking into Timpanogos Regional Hospital; timing anchored to Donald Trump tweet posted at 1:02 PM local time",
+          "related_claims": [
+            "C-3094",
+            "C-3095"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2167",
+      "family_ref": "A-2167",
+      "bundle_name": "Mikey McCoy Call Logs Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2167.1",
+          "ref": "A-2167.1",
+          "description": "Mikey McCoy phone records: sequence showing call to Rob McCoy, three-way merge with Elizabeth McCoy, then a 10-minute call with Danny Philip shortly after 12:25 PM",
+          "related_claims": [
+            "C-3092",
+            "C-3093",
+            "C-3096"
+          ],
+          "related_nodes": [
+            "N-2141",
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2168",
+      "family_ref": "A-2168",
+      "bundle_name": "Blake Neff Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2168.1",
+          "ref": "A-2168.1",
+          "description": "Audio from Blake Neff describing Mikey McCoy's reaction (\"lip was quivering\"), Mikey calling Erika within one minute, and Blake's call to his own mother followed by Mikey's call to Rob McCoy",
+          "related_claims": [
+            "C-3092",
+            "C-3097"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2169",
+      "family_ref": "A-2169",
+      "bundle_name": "Sandy Hook Comparison Rhetoric Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2169.1",
+          "ref": "A-2169.1",
+          "description": "Seth Dillon X post distinguishing Alex Jones liability as based on false accusations against specific people, not questioning official narratives",
+          "related_claims": [
+            "C-3098",
+            "C-3099"
+          ],
+          "related_nodes": [
+            "N-1211",
+            "N-2140"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:49",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2169.2",
+          "ref": "A-2169.2",
+          "description": "Tim Pool X post comparing amplification of Charlie Kirk conspiracy claims on social media to the destruction of Alex Jones; asking why YouTube is boosting such videos",
+          "related_claims": [
+            "C-3100"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-2140"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2169.3",
+          "ref": "A-2169.3",
+          "description": "Blake Neff Twitter Space audio comparing Candace Owens's coverage to Alex Jones's Sandy Hook coverage, specifically citing the 10-month sustained duration",
+          "related_claims": [
+            "C-3101"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2140"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2169.4",
+          "ref": "A-2169.4",
+          "description": "Viva Frei clip on the Charlie Kirk Show invoking \"Sandy Hook 2.0\" framing of conspiracy theories around Kirk's death",
+          "related_claims": [
+            "C-3102"
+          ],
+          "related_nodes": [
+            "N-1212",
+            "N-2140"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2169.5",
+          "ref": "A-2169.5",
+          "description": "Pre-death Charlie Kirk audio clip criticizing the Alex Jones verdict as \"patient zero for lawfare strategies\" and warning against using it as a censorship blueprint",
+          "related_claims": [
+            "C-3103"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2140"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:50:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2169.6",
+          "ref": "A-2169.6",
+          "description": "Pre-death Charlie Kirk X post: \"The lawsuits against Jones have always been about finding a way to censor and destroy a person the left hates, and then using that blueprint on everybody else.\"",
+          "related_claims": [
+            "C-3103",
+            "C-3104"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2140"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:54:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2170",
+      "family_ref": "A-2170",
+      "bundle_name": "Viewer Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2170.1",
+          "ref": "A-2170.1",
+          "description": "YouTube comment from \"Honey butter\": husband identifies glove as used to scrub body with denatured alcohol (woodworking comparator)",
+          "related_claims": [
+            "C-3105"
+          ],
+          "related_nodes": [
+            "N-2139"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:01:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2170.2",
+          "ref": "A-2170.2",
+          "description": "YouTube comment from \"Aunt Leash\": glove appears melted on tip of one finger and side of another; suggests nitrile would protect against chemical burns from explosive residue but not flames; poses question whether Charlie's shirt was burned in the SUV",
+          "related_claims": [
+            "C-3106"
+          ],
+          "related_nodes": [
+            "N-2139"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:03:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Deceased subject of investigation; pre-death statements on Alex Jones verdict (A-2169.5, A-2169.6) directly invoked.",
+      "related_artifacts": [
+        "A-2169.5",
+        "A-2169.6"
+      ],
+      "related_claims": [
+        "C-3103",
+        "C-3104"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1021",
+      "ref": "N-1021",
+      "name": "Erika Kirk (name spelling uncertain — see Optional Flags)",
+      "type": "investigation_target",
+      "description": "Subject of Daily Mail article quotes (A-2164.1–A-2164.3); reported statements attributed via family friend and family member sources.",
+      "related_artifacts": [
+        "A-2164.1",
+        "A-2164.2",
+        "A-2164.3"
+      ],
+      "related_claims": [
+        "C-3083",
+        "C-3085",
+        "C-3086"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Audio source describing Mikey McCoy's reaction and phone calls (A-2168.1); made Sandy Hook comparison in Twitter Space audio (A-2169.3); arrived at Timpanogos in SUV with Danny Philip (A-2166.1).",
+      "related_artifacts": [
+        "A-2165.1",
+        "A-2166.1",
+        "A-2168.1",
+        "A-2169.3"
+      ],
+      "related_claims": [
+        "C-3087",
+        "C-3092",
+        "C-3094",
+        "C-3097",
+        "C-3101"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Newly identified Turning Point USA employee; sat in second SUV with Blake Neff (A-2166.1); party to 10-minute phone call with Mikey McCoy (A-2167.1).",
+      "related_artifacts": [
+        "A-2166.1",
+        "A-2167.1"
+      ],
+      "related_claims": [
+        "C-3093",
+        "C-3096"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Among multiple independent observers identifying the SUV door object as a glove (A-2165.1); cited as covering the hospital arrival news segment.",
+      "related_artifacts": [
+        "A-2165.1"
+      ],
+      "related_claims": [
+        "C-3087",
+        "C-3104"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Author of X post comparing current social-media amplification to Alex Jones/Sandy Hook (A-2169.2).",
+      "related_artifacts": [
+        "A-2169.2"
+      ],
+      "related_claims": [
+        "C-3100"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2140"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Author of X post distinguishing Alex Jones liability grounds (A-2169.1).",
+      "related_artifacts": [
+        "A-2169.1"
+      ],
+      "related_claims": [
+        "C-3098",
+        "C-3099"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2140"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Speaker on the Charlie Kirk Show invoking \"Sandy Hook 2.0\" framing (A-2169.4).",
+      "related_artifacts": [
+        "A-2169.4"
+      ],
+      "related_claims": [
+        "C-3102"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2140"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2139",
+      "ref": "N-2139",
+      "name": "SUV Interior Anomaly",
+      "type": "investigation_target",
+      "description": "Persistent investigation target covering (a) unidentified glove-like object in left rear door pocket (Rick Cutler's side), and (b) purported burned-shirt object in backseat. Cross-references photos A-2165.1, A-2165.3 and viewer hypotheses A-2170.1, A-2170.2.",
+      "related_artifacts": [
+        "A-2165.1",
+        "A-2165.2",
+        "A-2165.3",
+        "A-2170.1",
+        "A-2170.2"
+      ],
+      "related_claims": [
+        "C-3087",
+        "C-3088",
+        "C-3090",
+        "C-3091",
+        "C-3105",
+        "C-3106"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2140",
+      "ref": "N-2140",
+      "name": "Sandy Hook Comparison Rhetoric",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: cross-platform pattern of commentators equating questions about Kirk's death to Alex Jones/Sandy Hook defamation precedent. Documented across Seth Dillon (A-2169.1), Tim Pool (A-2169.2), Blake Neff (A-2169.3), and Viva Frei on the Charlie Kirk Show (A-2169.4); Kirk's own pre-death statements opposing the precedent (A-2169.5, A-2169.6).",
+      "related_artifacts": [
+        "A-2169.1",
+        "A-2169.2",
+        "A-2169.3",
+        "A-2169.4",
+        "A-2169.5",
+        "A-2169.6"
+      ],
+      "related_claims": [
+        "C-3098",
+        "C-3099",
+        "C-3100",
+        "C-3101",
+        "C-3102",
+        "C-3103",
+        "C-3104"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2141",
+      "ref": "N-2141",
+      "name": "Mikey McCoy Call Timeline Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: reconciliation required between Blake Neff's contemporaneous account (A-2168.1) and the phone log sequence (A-2167.1), particularly the 10-minute Danny Philip call and the discrepancy between calling Erika first vs. Elizabeth first.",
+      "related_artifacts": [
+        "A-2167.1",
+        "A-2168.1"
+      ],
+      "related_claims": [
+        "C-3092",
+        "C-3093",
+        "C-3096",
+        "C-3097"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2142",
+      "ref": "N-2142",
+      "name": "Daily Mail Article Source Identity",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: the unnamed \"family friend\" (and later \"family member\") source for Erika Kirk quotations in A-2164.1–A-2164.3. Host speculates Tracy Martin but does not confirm; Turning Point USA declined comment.",
+      "related_artifacts": [
+        "A-2164.1",
+        "A-2164.2",
+        "A-2164.3"
+      ],
+      "related_claims": [
+        "C-3083"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1021"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3083",
+      "ref": "C-3083",
+      "label": "Daily Mail attributes Erika's private characterization of Candace Owens (\"that b*tch\", \"ugliest person in the world\", \"soulless ghoul\") to a \"family friend\"",
+      "claim": "The Daily Mail article published 2026-07-20 quotes a \"family friend\" as describing Erika Kirk's private tirades against Candace Owens using specified derogatory terms.",
+      "anchored_artifacts": [
+        "A-2164.1"
+      ],
+      "related_nodes": [
+        "N-1021",
+        "N-2142"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:13",
+      "investigative_direction": "Identify the family friend (host speculates Tracy Martin); obtain confirmation or denial from Turning Point USA."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3084",
+      "ref": "C-3084",
+      "label": "Turning Point USA declined to provide comment when sought by the Daily Mail",
+      "claim": "When the Daily Mail reporter reached out to Turning Point USA spokespeople for comment on the article, the organization declined.",
+      "anchored_artifacts": [
+        "A-2164.1"
+      ],
+      "related_nodes": [
+        "N-1021",
+        "N-2142"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:48",
+      "investigative_direction": "Confirm with the Daily Mail reporter or via FOIA-equivalent request to TPUSA communications."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3085",
+      "ref": "C-3085",
+      "label": "Daily Mail reports Erika felt \"compassion\" and \"overwhelming sadness\" for Tyler Robinson at his courtroom appearance",
+      "claim": "The Daily Mail article reports that Erika Kirk, upon seeing Tyler Robinson in court, felt compassion and overwhelming sadness rather than anger.",
+      "anchored_artifacts": [
+        "A-2164.2"
+      ],
+      "related_nodes": [
+        "N-1021"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:34",
+      "investigative_direction": "Cross-reference against courtroom reporting and any Erika Kirk public statement; assess whether the framing is consistent with prior statements (e.g., to Bari Weiss)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3086",
+      "ref": "C-3086",
+      "label": "Daily Mail reports Erika would rather not give Candace \"an ounce of her energy\" and \"likes even Tyler Robinson more than she likes Candace\"",
+      "claim": "The Daily Mail article reports Erika Kirk's stated position that she will not give Candace Owens any energy and holds Candace in greater contempt than Tyler Robinson.",
+      "anchored_artifacts": [
+        "A-2164.3"
+      ],
+      "related_nodes": [
+        "N-1021"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:27",
+      "investigative_direction": "Verify quoted statements with original article; identify \"family friend\" vs. \"family member\" sourcing distinction."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3087",
+      "ref": "C-3087",
+      "label": "New photograph shows an unidentified object in the left rear door compartment of the SUV that multiple independent observers identify as a glove",
+      "claim": "A newly released photograph of the SUV's left rear door compartment shows an object that the host, her husband, Baron Coleman, and other unnamed observers identify as a glove.",
+      "anchored_artifacts": [
+        "A-2165.1"
+      ],
+      "related_nodes": [
+        "N-2139",
+        "N-1207",
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:30",
+      "investigative_direction": "Forensic analysis of the original photograph; chain-of-custody for the SUV door photograph; determine whether the glove could be associated with medical, forensic, or other activity at the scene."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3088",
+      "ref": "C-3088",
+      "label": "Host's team reproduced a comparable appearance using nitrile gloves placed in a car door compartment for side-by-side comparison",
+      "claim": "The host's team conducted a comparison experiment by placing nitrile gloves in their own vehicle door pocket to recreate the appearance shown in A-2165.1.",
+      "anchored_artifacts": [
+        "A-2165.2"
+      ],
+      "related_nodes": [
+        "N-2139"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:21",
+      "investigative_direction": "Treat as illustrative comparison only; not independent forensic evidence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3089",
+      "ref": "C-3089",
+      "label": "The glove-like object in A-2165.1 is located on the left rear door — the same side where the host identifies Rick Cutler's seating position",
+      "claim": "The unidentified glove-like object is in the door compartment on the side of the vehicle the host associates with Rick Cutler's seating.",
+      "anchored_artifacts": [
+        "A-2165.1"
+      ],
+      "related_nodes": [
+        "N-2139"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:20",
+      "investigative_direction": "Verify Rick Cutler's seating position against prior sworn statements and SUV interior diagram evidence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3090",
+      "ref": "C-3090",
+      "label": "Multiple observers (host's husband, Baron Coleman, others) independently identified the door object as a glove without prior context",
+      "claim": "The host describes an informal \"double-blind\" comparison in which multiple observers independently identified the object as a glove, with the husband reportedly shown the image without contextual framing.",
+      "anchored_artifacts": [
+        "A-2165.1"
+      ],
+      "related_nodes": [
+        "N-2139",
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:30",
+      "investigative_direction": "Methodology is informal and unsystematic; results should not be treated as expert identification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3091",
+      "ref": "C-3091",
+      "label": "Second new photograph shows a clearer view of the backseat object previously described by some viewers as a burned shirt",
+      "claim": "A second never-before-seen photograph shows the backseat object with enough detail that some have suggested letters visible from the \"freedom shirt\" are discernible.",
+      "anchored_artifacts": [
+        "A-2165.3"
+      ],
+      "related_nodes": [
+        "N-2139"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:02",
+      "investigative_direction": "Forensic image analysis; chain-of-custody verification; determine whether object is fabric remnant consistent with the freedom shirt."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3092",
+      "ref": "C-3092",
+      "label": "Mikey McCoy's call logs show a sequence: call to Rob McCoy → three-way merge with Elizabeth McCoy → 10-minute call with Danny Philip",
+      "claim": "Phone records show Mikey McCoy making a call to Rob McCoy, merging the call with Elizabeth McCoy, and then engaging in a 10-minute call with Danny Philip in the immediate aftermath.",
+      "anchored_artifacts": [
+        "A-2167.1"
+      ],
+      "related_nodes": [
+        "N-2141",
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:40",
+      "investigative_direction": "Obtain authenticated call records (subpoena or court-ordered discovery); determine call content and whether the 10-minute call began while Blake Neff and Danny Philip were physically together in the SUV."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3093",
+      "ref": "C-3093",
+      "label": "Blake Neff's audio account describes Mikey McCoy calling Erika within approximately one minute of the event",
+      "claim": "Blake Neff's recorded account describes Mikey McCoy as immediately calling Erika within about a minute of the shooting, with Blake noting Mikey's lip was quivering.",
+      "anchored_artifacts": [
+        "A-2168.1"
+      ],
+      "related_nodes": [
+        "N-2141",
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:40",
+      "investigative_direction": "Reconcile with phone log evidence (which suggests Elizabeth was called first, with Erika added 3 minutes later); assess Neff's recall accuracy versus contemporaneous records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3094",
+      "ref": "C-3094",
+      "label": "Local news captured the group walking into Timpanogos Regional Hospital at approximately 1:02 PM local time",
+      "claim": "A Fox 5 Atlanta newsroom feed shows Blake Neff, Danny Philip, Mikey McCoy, and Nate Walker walking into Timpanogos Regional Hospital; timing is anchored to Donald Trump's 1:02 PM local tweet shown during the broadcast.",
+      "anchored_artifacts": [
+        "A-2166.2",
+        "A-2166.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:17",
+      "investigative_direction": "Obtain unedited newsroom feed; cross-reference internal TPUSA communications and hospital entry logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3095",
+      "ref": "C-3095",
+      "label": "Blake Neff arrived at the hospital in the second SUV driven by (or carrying) Danny Philip",
+      "claim": "Blake Neff and Danny Philip arrived at Timpanogos in the same SUV, distinct from the vehicle transporting Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-2166.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:36",
+      "investigative_direction": "Verify rental records for both SUVs (previously described as rented by Mikey McCoy); confirm passenger assignments."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3096",
+      "ref": "C-3096",
+      "label": "Danny Philip and Mikey McCoy were both present at the September 10 event and were party to a 10-minute phone call in the immediate aftermath",
+      "claim": "Danny Philip — newly hired Turning Point USA employee — was at the UVU event and is recorded in a 10-minute phone call with Mikey McCoy shortly after 12:25 PM.",
+      "anchored_artifacts": [
+        "A-2167.1",
+        "A-2166.1"
+      ],
+      "related_nodes": [
+        "N-2141",
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:37",
+      "investigative_direction": "Subpoena call detail records; obtain Danny Philip's testimony or statement about the call content."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3097",
+      "ref": "C-3097",
+      "label": "Blake Neff's audio account includes recollection of Mikey McCoy calling his father Rob McCoy immediately after the shooting",
+      "claim": "Blake Neff describes Mikey McCoy calling his father Rob McCoy and asking him to mobilize pastor friends for prayer.",
+      "anchored_artifacts": [
+        "A-2168.1"
+      ],
+      "related_nodes": [
+        "N-2141",
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:48",
+      "investigative_direction": "Confirm against authenticated phone records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3098",
+      "ref": "C-3098",
+      "label": "Seth Dillon publicly argued the Alex Jones verdict was based on false accusations against specific people, not on questioning official narratives",
+      "claim": "Seth Dillon's X post distinguishes the Alex Jones liability basis as defamation/false-claim-specific, not protected opinion.",
+      "anchored_artifacts": [
+        "A-2169.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-2140"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:49",
+      "investigative_direction": "Verify the precise quoted text against Seth Dillon's X account; assess legal accuracy."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3099",
+      "ref": "C-3099",
+      "label": "Seth Dillon's framing distinguishes First Amendment protection of criticism from liability for false accusations against identified persons",
+      "claim": "The Seth Dillon post explicitly states the First Amendment does not provide blanket immunity for defamation while protecting criticism of events and official accounts.",
+      "anchored_artifacts": [
+        "A-2169.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-2140"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:49",
+      "investigative_direction": "Cross-reference against the actual Alex Jones appellate record (e.g., the Texas finding of default)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3100",
+      "ref": "C-3100",
+      "label": "Tim Pool publicly questioned why YouTube is algorithmically amplifying Charlie Kirk conspiracy-claim videos while historically demonetizing COVID-related content",
+      "claim": "Tim Pool's X post compares current social-media amplification of Charlie Kirk narrative-challengers to the platform treatment that destroyed Alex Jones, while contrasting with COVID-era demonetization.",
+      "anchored_artifacts": [
+        "A-2169.2"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-2140"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:43",
+      "investigative_direction": "Verify quoted text against Tim Pool's X account; assess whether framing is consistent with prior Tim Pool statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3101",
+      "ref": "C-3101",
+      "label": "Blake Neff publicly compared Candace Owens's sustained 10-month coverage of the Kirk investigation to the Alex Jones/Sandy Hook coverage pattern",
+      "claim": "In a Twitter Space audio appearance, Blake Neff specifically stated that the sustained duration of Candace Owens's coverage \"exceeds\" even what Alex Jones did with Sandy Hook.",
+      "anchored_artifacts": [
+        "A-2169.3"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2140"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:35",
+      "investigative_direction": "Obtain full unedited Twitter Space audio; document exact quoted text."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3102",
+      "ref": "C-3102",
+      "label": "Viva Frei publicly invoked the \"Sandy Hook 2.0\" framing for conspiracy theories about Kirk's death on the Charlie Kirk Show",
+      "claim": "A Charlie Kirk Show segment features Viva Frei explicitly invoking \"Sandy Hook 2.0\" as a comparison for current conspiracy theories around Kirk's death.",
+      "anchored_artifacts": [
+        "A-2169.4"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-2140"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:02",
+      "investigative_direction": "Confirm segment on Charlie Kirk Show's platform archive; document exact comparison attempt."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3103",
+      "ref": "C-3103",
+      "label": "Charlie Kirk publicly criticized the Alex Jones verdict and warned it would be used as a censorship blueprint against others",
+      "claim": "A pre-death Charlie Kirk broadcast characterizes the Alex Jones case as \"patient zero for lawfare strategies\" and warns of precedent being used against others.",
+      "anchored_artifacts": [
+        "A-2169.5",
+        "A-2169.6"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2140"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:38",
+      "investigative_direction": "Verify the quoted segment against Charlie Kirk Show archives; verify the X post against Kirk's account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3104",
+      "ref": "C-3104",
+      "label": "Charlie Kirk publicly argued the Alex Jones lawsuit was about censorship rather than Sandy Hook justice",
+      "claim": "A pre-death Charlie Kirk X post states: \"The lawsuits against Jones have always been about finding a way to censor and destroy a person the left hates, and then using that blueprint on everybody else.\"",
+      "anchored_artifacts": [
+        "A-2169.6"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2140"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:20",
+      "investigative_direction": "Confirm the post against Charlie Kirk's X archive; date the post."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3105",
+      "ref": "C-3105",
+      "label": "A viewer (\"Honey butter\") hypothesizes the glove object could be a denatured-alcohol scrub glove used on Charlie's body",
+      "claim": "A viewer comment identifies the door-pocket object as a glove consistent with denatured-alcohol body scrubbing (comparator: husband's woodworking gloves).",
+      "anchored_artifacts": [
+        "A-2170.1"
+      ],
+      "related_nodes": [
+        "N-2139"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:22",
+      "investigative_direction": "Viewer speculation; not investigative evidence; useful only as a hypothesis to be tested against forensic evidence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3106",
+      "ref": "C-3106",
+      "label": "A viewer (\"Aunt Leash\") hypothesizes the glove appears melted at finger/side locations, suggesting exposure to flames rather than chemical residue",
+      "claim": "A viewer comment notes apparent melting on the glove's tip and side, posing the question whether Charlie's shirt was burned inside the SUV.",
+      "anchored_artifacts": [
+        "A-2170.2"
+      ],
+      "related_nodes": [
+        "N-2139"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:03:13",
+      "investigative_direction": "Viewer speculation; photograph enhancement / chain-of-custody testing required for any factual determination."
+    }
+  ],
+  "memes": []
+}

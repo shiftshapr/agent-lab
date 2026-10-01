@@ -1,0 +1,923 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 69,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "9206e4edc77e48ae3eeb53cccbdeaa31474f55c3c4251722fc813b659bce0c5e",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1738",
+      "family_ref": "A-1738",
+      "bundle_name": "Epstein 23andMe Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1738.1",
+          "ref": "A-1738.1",
+          "description": "Epstein email re: 23andMe kit delivery to Woody Allen / Suni",
+          "related_claims": [
+            "C-2298"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1738.2",
+          "ref": "A-1738.2",
+          "description": "Epstein email to \"Sultan\" re: James Miller / 9E71st Street shipping",
+          "related_claims": [
+            "C-2299"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1739",
+      "family_ref": "A-1739",
+      "bundle_name": "Robkea Babylon Rising Lecture Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1739.1",
+          "ref": "A-1739.1",
+          "description": "Robkea segment on Mount Hermon / Book of Enoch / 33.33° coordinates",
+          "related_claims": [
+            "C-2300",
+            "C-2311"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1739.2",
+          "ref": "A-1739.2",
+          "description": "Robkea segment on Gilgamesh / CERN / 666",
+          "related_claims": [
+            "C-2301",
+            "C-2311"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1740",
+      "family_ref": "A-1740",
+      "bundle_name": "Omega Man Radio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1740.1",
+          "ref": "A-1740.1",
+          "description": "Tom Horn and Steve Quail segment on Gilgamesh remains extraction",
+          "related_claims": [
+            "C-2302",
+            "C-2303"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1741",
+      "family_ref": "A-1741",
+      "bundle_name": "Tracy Martin Video Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1741.1",
+          "ref": "A-1741.1",
+          "description": "Tracy Martin on her friendship with Erika Kirk",
+          "related_claims": [
+            "C-2304",
+            "C-2305"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:27:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1742",
+      "family_ref": "A-1742",
+      "bundle_name": "Macron Epstein Files Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1742.1",
+          "ref": "A-1742.1",
+          "description": "Host's reference to text chains re: Emmanuel Macron's \"boyfriend\" and a shown photo",
+          "related_claims": [
+            "C-2306"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:49",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1743",
+      "family_ref": "A-1743",
+      "bundle_name": "YouTube Comment Section Bundle (read-aloud from prior day's episode)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1743.1",
+          "ref": "A-1743.1",
+          "description": "Frey FA comment re: 911 passport / steel neck parallel",
+          "related_claims": [
+            "C-2307"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1743.2",
+          "ref": "A-1743.2",
+          "description": "Moderator Marzy comment re: jmail.world",
+          "related_claims": [
+            "C-2308"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1743.3",
+          "ref": "A-1743.3",
+          "description": "Tatiana comment re: \"end human fight\" / eternal flesh generation",
+          "related_claims": [
+            "C-2309"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1743.4",
+          "ref": "A-1743.4",
+          "description": "Angie comment addressed to \"Ben\" / \"Benjamin\"",
+          "related_claims": [
+            "C-2310"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1743.5",
+          "ref": "A-1743.5",
+          "description": "AZ Masterbaker comment re: COVID tests as DNA collection for Nimrod descendants",
+          "related_claims": [
+            "C-2311"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1743.6",
+          "ref": "A-1743.6",
+          "description": "Bobby comment re: Satan as counterfeiter",
+          "related_claims": [
+            "C-2312"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1743.7",
+          "ref": "A-1743.7",
+          "description": "American Jetet comment re: Rob / Babylonian ascension",
+          "related_claims": [
+            "C-2313"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-901",
+      "ref": "N-901",
+      "name": "Epstein 23andMe Email Bundle",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1011",
+      "ref": "N-1011",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "Subject of the alibi investigation advanced in this episode. Reused from existing ledger.",
+      "related_artifacts": [
+        "A-1741.1"
+      ],
+      "related_claims": [
+        "C-2304",
+        "C-2305"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1556"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-890",
+      "ref": "N-890",
+      "name": "Tracy Martin",
+      "type": "person",
+      "description": "Self-identified friend of Erica Kirk for approximately 15 years; styled the \"left eye club\" editorial photograph; designed the cuff worn by Erica; reported to have been with Erika on September 10, 2025. Husband's first name given by host as Thomas (uncertain).",
+      "related_artifacts": [
+        "A-1741.1"
+      ],
+      "related_claims": [
+        "C-2304",
+        "C-2305"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1556",
+        "N-1557"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-891",
+      "ref": "N-891",
+      "name": "Robkea",
+      "type": "person",
+      "description": "Lecturer whose \"Babylon Rising\" speech is played at length in this episode; posits Tower of Babel as technology, Mount Hermon at 33.33°N 33.33°E as fallen-angel landing site, Gilgamesh/Nimrod identification, and CERN/666 symbolism. Host reports an email from the lecturer's son thanking her.",
+      "related_artifacts": [
+        "A-1739.1",
+        "A-1739.2",
+        "A-1743.5",
+        "A-1743.7"
+      ],
+      "related_claims": [
+        "C-2300",
+        "C-2301"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1560",
+        "N-1562"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-892",
+      "ref": "N-892",
+      "name": "Tom Horn",
+      "type": "person",
+      "description": "Radio host cited via Omega Man Radio clip; states a \"special operations general\" validated Gilgamesh remains in \"remarkable preservation.\"",
+      "related_artifacts": [
+        "A-1740.1"
+      ],
+      "related_claims": [
+        "C-2302"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1561"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-893",
+      "ref": "N-893",
+      "name": "Steve Quail",
+      "type": "person",
+      "description": "Radio co-host cited via Omega Man Radio clip; asserts human genome project was oriented toward genetic markers for disembodied spirits reanimating Nimrod/Gilgamesh.",
+      "related_artifacts": [
+        "A-1740.1"
+      ],
+      "related_claims": [
+        "C-2303"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1561"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-894",
+      "ref": "N-894",
+      "name": "David Flynn",
+      "type": "person",
+      "description": "Researcher cited by Robkea as having identified the Mount Hermon coordinate (33.33°N 33.33°E from Paris prime meridian) and the \"devil's line.\" Reported by Robkea as recently deceased.",
+      "related_artifacts": [
+        "A-1739.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1560"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-895",
+      "ref": "N-895",
+      "name": "Lorie Fonfe",
+      "type": "person",
+      "description": "Erica Kirk's mother, identified by host as the person Erika was reportedly with on September 10. Host now disputes this alibi.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1556"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-896",
+      "ref": "N-896",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Author of the 23andMe-kit emails cited in this episode; central subject of the broader files release.",
+      "related_artifacts": [
+        "A-1738.1",
+        "A-1738.2",
+        "A-1743.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-897",
+      "ref": "N-897",
+      "name": "Woody Allen",
+      "type": "person",
+      "description": "Named recipient of Epstein 23andMe kit email (along with \"Suni\").",
+      "related_artifacts": [
+        "A-1738.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-898",
+      "ref": "N-898",
+      "name": "Emmanuel Macron",
+      "type": "person",
+      "description": "Subject of Epstein-files text chains cited by host; host asserts he has a \"boyfriend\" and is gay. Host consistently renders name as \"Mcronone.\"",
+      "related_artifacts": [
+        "A-1742.1"
+      ],
+      "related_claims": [
+        "C-2306"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-899",
+      "ref": "N-899",
+      "name": "Sigmund Freud (rendered by host as \"Sigman Freud\")",
+      "type": "person",
+      "description": "Recurring host reference; presented as the originator of the \"science-as-religion-mask\" thesis cited in connection with COVID testing and 23andMe.",
+      "related_artifacts": [
+        "A-1743.3",
+        "A-1743.6"
+      ],
+      "related_claims": [
+        "C-2309",
+        "C-2312"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-900",
+      "ref": "N-900",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-902",
+      "ref": "N-902",
+      "name": "Benjamin",
+      "type": "person",
+      "description": "Addressee of Angie comment (\"Hi Ben\"); host addresses as \"Benjamin.\" Possible production-staff figure. Insufficient identifying information to confirm role.",
+      "related_artifacts": [
+        "A-1743.4"
+      ],
+      "related_claims": [
+        "C-2310"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1556",
+      "ref": "N-1556",
+      "name": "Erika Kirk September 10 Alibi Investigation",
+      "type": "investigation_target",
+      "description": "Persistent target. Host's claim that Erika was with Tracy Martin, not Lorie Fonfe, on September 10 rests on tips and Tracy Martin's self-reported friendship. No direct artifact in this episode anchors the alibi location claim itself.",
+      "related_artifacts": [
+        "A-1741.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1557",
+      "ref": "N-1557",
+      "name": "Tracy Martin Background and Husband Verification",
+      "type": "investigation_target",
+      "description": "Persistent target. Host states she cannot determine what Tracy Martin's husband does and solicits additional tips. Husband's first name offered as \"Thomas\" with uncertainty.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1558",
+      "ref": "N-1558",
+      "name": "Dream City Church Connection Investigation",
+      "type": "investigation_target",
+      "description": "Persistent target. Church linked to Tracy Martin, Charlie Kirk's speaking series, the TPUSA faith pivot, and Pastor Luke. Host states more to come.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1559",
+      "ref": "N-1559",
+      "name": "Egyptian Plane Communication Investigation",
+      "type": "investigation_target",
+      "description": "Persistent target. Host references an Egyptian plane that remained on the tarmac and \"transponding intermittently\" with active communication; posits use of foreign-registered aircraft to evade communication tracking.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1560",
+      "ref": "N-1560",
+      "name": "Mount Hermon 33.33° Coordinate Investigation",
+      "type": "investigation_target",
+      "description": "Persistent target. Robkea's lecture posits fallen-angel landing coordinate of 33.33°N 33.33°E from Paris prime meridian, citing David Flynn.",
+      "related_artifacts": [
+        "A-1739.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1561",
+      "ref": "N-1561",
+      "name": "Gilgamesh Remains DNA Extraction Claim",
+      "type": "investigation_target",
+      "description": "Persistent target. Tom Horn / Steve Quail assert U.S. military recovered Gilgamesh remains in \"remarkable preservation\" and that human genome project aimed to \"reanimate\" via genetic markers.",
+      "related_artifacts": [
+        "A-1740.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1562",
+      "ref": "N-1562",
+      "name": "COVID Test DNA Collection Hypothesis",
+      "type": "investigation_target",
+      "description": "Persistent target. Viewer AZ Masterbaker and host's prior-commentary thread propose nasal-swab COVID tests were instruments for DNA collection aimed at identifying Nimrod's descendants.",
+      "related_artifacts": [
+        "A-1743.5"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2298",
+      "ref": "C-2298",
+      "label": "Epstein emailed Woody Allen regarding delivery of 23andMe kits to his and Suni's home",
+      "claim": "A Jeffrey Epstein-authored email states that 23andMe kits had arrived and would be delivered that day to \"Woody and Suni\" at their home.",
+      "anchored_artifacts": [
+        "A-1738.1"
+      ],
+      "related_nodes": [
+        "N-901"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:18",
+      "investigative_direction": "Locate the email within the public Epstein files (jmail.world or DOJ releases) to verify recipient identity, date, and full text."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2299",
+      "ref": "C-2299",
+      "label": "Epstein emailed a \"Sultan\" referencing a person named James Miller and shipping to 9E71st Street",
+      "claim": "An Epstein email to \"Sultan\" asks who \"James Miller\" is, asserts that Miller is someone \"Sultan\" built, and references shipping address as Jeffrey's home at 9E71st Street.",
+      "anchored_artifacts": [
+        "A-1738.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:01:55",
+      "investigative_direction": "Identify the redacted recipient \"Sultan\" within the Epstein files; cross-reference 9E71st Street as Epstein's New York residence; locate full email chain."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2300",
+      "ref": "C-2300",
+      "label": "Robkea posits Mount Hermon as the 33.33°N × 33.33°E landing site of 200 fallen angels",
+      "claim": "In a lecture clip, Robkea states that the Book of Enoch identifies 200 Watchers / fallen angels as landing at Mount Hermon in southern Lebanon, and that David Flynn identified this location as 33.33°N by 33.33°E from the Paris prime meridian.",
+      "anchored_artifacts": [
+        "A-1739.1"
+      ],
+      "related_nodes": [
+        "N-900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:43",
+      "investigative_direction": "Verify David Flynn's published coordinate claim independently; cross-check Book of Enoch references to Mount Hermon (Hermon vs. alternate spellings)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2301",
+      "ref": "C-2301",
+      "label": "Robkea posits Gilgamesh as 2/3 God and 1/3 man and links CERN's logo to 666",
+      "claim": "Robkea states that Gilgamesh was described as two-thirds God and one-third man, that the carbon molecule's 6/6/6 structure equates to the number of man, and that CERN's logo resembles three stacked 6s.",
+      "anchored_artifacts": [
+        "A-1739.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:10:17",
+      "investigative_direction": "Verify Epic of Gilgamesh text on divine/mortal proportions; confirm CERN logo design and Shiva statue presence at the facility."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2302",
+      "ref": "C-2302",
+      "label": "Tom Horn asserts a special operations general confirmed Gilgamesh remains in \"remarkable preservation\"",
+      "claim": "Tom Horn states on Omega Man Radio that a \"special operations general\" validated that Gilgamesh's remains were in a state of \"remarkable preservation\" and that the military took possession of the dig site.",
+      "anchored_artifacts": [
+        "A-1740.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:37",
+      "investigative_direction": "Identify the named general; verify the 2003 Iraq dig records; check whether any official release describes remains transfer."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2303",
+      "ref": "C-2303",
+      "label": "Steve Quail asserts human genome project aimed at genetic markers to \"reanimate\" Nimrod/Gilgamesh",
+      "claim": "Steve Quail states on Omega Man Radio that \"the whole point\" of the Iraq dig and the human genome project was to locate genetic markers that would allow disembodied spirits to \"reanimate\" Nimrod/Gilgamesh's host body.",
+      "anchored_artifacts": [
+        "A-1740.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:55",
+      "investigative_direction": "Locate the Omega Man Radio episode and any prior Quail writings on this thesis; verify against published Human Genome Project mission statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2304",
+      "ref": "C-2304",
+      "label": "Tracy Martin states she has been friends with Erika Kirk for nearly 15 years and collaborated on the Romanian Angels project",
+      "claim": "Tracy Martin states in a video clip that Erika Kirk has been a \"dear friend\" of hers for \"almost 15 years,\" that they have \"done multiple projects together,\" that Erika wrote the foreword to Martin's book, and that Martin participated in the Romanian Angels gift-distribution project organized by Erika.",
+      "anchored_artifacts": [
+        "A-1741.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:27:48",
+      "investigative_direction": "Verify duration of friendship via independent records (project documentation, social media history, foreword publication date); cross-reference Romanian Angels project existence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2305",
+      "ref": "C-2305",
+      "label": "Tracy Martin states she styled the \"left eye club\" editorial photograph and designed the cuff Erika Kirk wears",
+      "claim": "Tracy Martin states she styled the editorial photograph featuring the \"left eye club\" cuff that has been circulating, and that the cuff and jewelry pieces pictured are her designs.",
+      "anchored_artifacts": [
+        "A-1741.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:28:05",
+      "investigative_direction": "Identify the original editorial publication to confirm styling credit; identify the cuff's commercial availability and Martin's business."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2306",
+      "ref": "C-2306",
+      "label": "Host asserts Epstein files contain text chains referencing Emmanuel Macron's \"boyfriend\" and that she was shown a photo",
+      "claim": "The host states she has reviewed text chains discussing \"Mcronone's boyfriend,\" that she was shown a photo of the boyfriend, and that other emails reference Macron's sexuality.",
+      "anchored_artifacts": [
+        "A-1742.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:31:49",
+      "investigative_direction": "Locate the specific text chain and photo within public Epstein files; verify any reference to Macron and an unnamed partner."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2307",
+      "ref": "C-2307",
+      "label": "Frey FA comment draws a parallel between 911 \"passport in mint condition\" and the \"steel neck stopping bullets\" narrative",
+      "claim": "A viewer comment (Frey FA) juxtaposes the 9/11 passport-in-mint-condition story with the steel-neck-stopping-bullets reference in the Charlie Kirk assassination coverage.",
+      "anchored_artifacts": [
+        "A-1743.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:50",
+      "investigative_direction": "Trace the historical origins of the \"passport in mint condition\" claim and its media treatment; assess the rhetorical parallel independently."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2308",
+      "ref": "C-2308",
+      "label": "Moderator Marzy comment identifies jmail.world as a Gmail-style interface for viewing the Epstein files",
+      "claim": "A viewer comment (Moderator Marzy) recommends jmail.world as a tool for viewing the Epstein files in a Gmail-style user interface. Host confirms receipt of similar tips.",
+      "anchored_artifacts": [
+        "A-1743.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:38:25",
+      "investigative_direction": "Verify the jmail.world site's data source, accuracy of file ingestion, and independent corroboration against DOJ or court-sealed versions."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2309",
+      "ref": "C-2309",
+      "label": "Tatiana comment claims this generation will \"live eternal in flesh\" as the rationale for an \"end human fight\"",
+      "claim": "A viewer comment (Tatiana) posits that the current generation will live eternally in flesh and that this is the underlying purpose of an \"end human fight.\" Host flags a possible typo.",
+      "anchored_artifacts": [
+        "A-1743.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:38:55",
+      "investigative_direction": "Ascertain Tatiana's intended phrase; assess consistency with host's prior transhumanism / Nimrod-resurrection framing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2310",
+      "ref": "C-2310",
+      "label": "Angie comment addresses \"Ben\" / \"Benjamin\" as a member of \"team Candace for Life\"",
+      "claim": "A viewer comment (Angie) greets \"Ben\" as part of \"team Candace for Life.\" Host addresses the recipient as \"Benjamin\" and states he watches every episode.",
+      "anchored_artifacts": [
+        "A-1743.4"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:16",
+      "investigative_direction": "Identify the production-staff role, if any, of \"Benjamin\" referenced by host; resolve the Ben / Benjamin discrepancy."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2311",
+      "ref": "C-2311",
+      "label": "AZ Masterbaker comment posits COVID tests were instruments of DNA collection for identifying Nimrod's descendants",
+      "claim": "A viewer comment (AZ Masterbaker) asserts that COVID tests were conducted for DNA collection rather than diagnostic accuracy, and that the collection aimed to identify descendants of Nimrod. Host concurs.",
+      "anchored_artifacts": [
+        "A-1743.5"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:30",
+      "investigative_direction": "Examine whether COVID PCR / antigen test protocols involved any sample retention for purposes beyond diagnosis; assess whether Nimrod-descendant tracking has any documentary basis."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2312",
+      "ref": "C-2312",
+      "label": "Bobby comment asserts Satan cannot create and only counterfeits, mirroring host's broader framing",
+      "claim": "A viewer comment (Bobby) states that Satan \"has never nor can he ever create anything\" and only counterfeits, explaining hostility toward God. Host expands the claim into a general theory of elite imitation.",
+      "anchored_artifacts": [
+        "A-1743.6"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:50",
+      "investigative_direction": "This is theological commentary; no factual verification pathway beyond documenting the host-viewer framing alignment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2313",
+      "ref": "C-2313",
+      "label": "American Jetet comment endorses Robkea's work and frames the conflict as \"Babylonian ascension\"",
+      "claim": "A viewer comment (American Jetet) endorses Robkea's work and frames the underlying conflict as a millennia-long battle over \"Babylonian ascension.\"",
+      "anchored_artifacts": [
+        "A-1743.7"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:40:23",
+      "investigative_direction": "Document the convergence of host and viewer framing; assess whether \"Babylonian ascension\" originates with Robkea, Flynn, or earlier esoteric sources.",
+      "confidence": "medium"
+    }
+  ],
+  "memes": []
+}

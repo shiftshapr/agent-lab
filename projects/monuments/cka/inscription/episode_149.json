@@ -1,0 +1,1465 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 149,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "d083233973ad6e9fb8ef03f80dd5b5b650e1276ba782aca655d4b16cef72c1cd",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2426",
+      "family_ref": "A-2426",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2426.1",
+          "ref": "A-2426.1",
+          "description": "Footage showing a male in hat and plaid shirt on the TPUSA security detail, initially identified in prior coverage as \"Chester Barnes\"",
+          "related_claims": [
+            "C-3543",
+            "C-3544",
+            "C-3545"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2256",
+            "N-2257"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2427",
+      "family_ref": "A-2427",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2427.1",
+          "ref": "A-2427.1",
+          "description": "Frank Turek clip: \"Candace has been saying a lot of things that appear to have no evidence behind them…\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2427.2",
+          "ref": "A-2427.2",
+          "description": "Frank Turek clip: \"We've seen lies. We've seen accusations. And we've seen slander with no evidence.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2427.3",
+          "ref": "A-2427.3",
+          "description": "Frank Turek clip: \"This is spiritual warfare. This is demonic activity. Yeah, I'm talking about Candace Owens.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2427.4",
+          "ref": "A-2427.4",
+          "description": "Frank Turek clip: \"This poor woman has to wait for justice while Candace Owens spews a whole bunch of nonsense.\"",
+          "related_claims": [
+            "C-3546"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2258"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2428",
+      "family_ref": "A-2428",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2428.1",
+          "ref": "A-2428.1",
+          "description": "Brian Harpole interview clip stating no CPR was performed during the hospital ride; bleeding control was the priority",
+          "related_claims": [
+            "C-3547",
+            "C-3548"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2258"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2429",
+      "family_ref": "A-2429",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2429.1",
+          "ref": "A-2429.1",
+          "description": "Frank Turek statement: performed CPR for 20–30 seconds in the last portion of the ride, attempting to restart Charlie's heart, near the hospital parking lot",
+          "related_claims": [
+            "C-3546"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2258"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2430",
+      "family_ref": "A-2430",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2430.1",
+          "ref": "A-2430.1",
+          "description": "FaceTime excerpt in which Frank Turek references having \"blood on me\" at the hospital",
+          "related_claims": [
+            "C-3548"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1214",
+            "N-2256"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2431",
+      "family_ref": "A-2431",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2431.1",
+          "ref": "A-2431.1",
+          "description": "Audio statement from a male eyewitness describing seeing a man in a white hat exit the rear hatch/trunk of the SUV upon hospital arrival; describes driver as bald",
+          "related_claims": [
+            "C-3549"
+          ],
+          "related_nodes": [
+            "N-1219",
+            "N-2259"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2432",
+      "family_ref": "A-2432",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2432.1",
+          "ref": "A-2432.1",
+          "description": "Still image of Blake Hariff sliding across the table at the scene",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2432.2",
+          "ref": "A-2432.2",
+          "description": "Footage of Blake Hariff running to the car with a visibly clean (no blood) shirt after the SUV departed",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2432.3",
+          "ref": "A-2432.3",
+          "description": "Footage of team returning to UVU at ~8:30 PM showing Blake Hariff, Rick Cutler, Justin Davis, and Dan Flood wearing Timpanogos surgical scrubs; Brian Harpole holding a jacket and brown bag",
+          "related_claims": [
+            "C-3550",
+            "C-3551",
+            "C-3552",
+            "C-3553",
+            "C-3554",
+            "C-3555",
+            "C-3556",
+            "C-3557"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-1210",
+            "N-1211",
+            "N-1212",
+            "N-1213",
+            "N-2256"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:00–00:00:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2433",
+      "family_ref": "A-2433",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2433.1",
+          "ref": "A-2433.1",
+          "description": "Cowboy Smokehouse (Panguitch, UT) receipt image",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2433.2",
+          "ref": "A-2433.2",
+          "description": "New York Post article: \"Utah restaurant tour claims that Tyler Robinson stopped in after Charlie Kirk killing reveals what the alleged assassin ordered\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2433.3",
+          "ref": "A-2433.3",
+          "description": "Fox News article: \"One of Tyler Robinson's last meals as a free man may have been a steak dinner, medium rare\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2433.4",
+          "ref": "A-2433.4",
+          "description": "Diligent Denisen interview with one of the waiters working at Cowboy Smokehouse the night of September 10, released alongside the receipt",
+          "related_claims": [
+            "C-3557",
+            "C-3558",
+            "C-3559",
+            "C-3560",
+            "C-3561",
+            "C-3562",
+            "C-3563",
+            "C-3565",
+            "C-3566"
+          ],
+          "related_nodes": [
+            "N-1221",
+            "N-1222",
+            "N-1223",
+            "N-1227",
+            "N-2257"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2434",
+      "family_ref": "A-2434",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2434.1",
+          "ref": "A-2434.1",
+          "description": "YouTube top comment by user \"Matt Callaway\" attributing to \"Blakey\" the statement: \"Candace is going to figure this out,\" said in the hospital lobby",
+          "related_claims": [
+            "C-3564"
+          ],
+          "related_nodes": [
+            "N-1224",
+            "N-1210",
+            "N-2261"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2435",
+      "family_ref": "A-2435",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2435.1",
+          "ref": "A-2435.1",
+          "description": "YouTube comment by \"Talks\" referencing the one-year anniversary of Charlie's death",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2435.2",
+          "ref": "A-2435.2",
+          "description": "YouTube comment by \"Amira Musa\" claiming a physics-based proof that no .30-06 round was used",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2435.3",
+          "ref": "A-2435.3",
+          "description": "YouTube comment by \"Tony Hill\" referencing a Kanye conversation over the weekend",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2435.4",
+          "ref": "A-2435.4",
+          "description": "YouTube comment by \"Lovers Rock Productions\" referencing Andrew Wilson and South Park",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2435.5",
+          "ref": "A-2435.5",
+          "description": "YouTube comment by \"Natty Nicole\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2435.6",
+          "ref": "A-2435.6",
+          "description": "YouTube comment by \"Legally Blonde\" referencing Megan Kelly, Frank Turk, and Charlie's family in Chicago",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2435.7",
+          "ref": "A-2435.7",
+          "description": "YouTube comment by \"Who knows what\" from Australia referencing Candace's travel ban",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2435.8",
+          "ref": "A-2435.8",
+          "description": "YouTube comment by \"Caro\" suggesting a book about the investigation",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:50:27",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2435.9",
+          "ref": "A-2435.9",
+          "description": "YouTube comment by \"Oh Seven Sheets\" praising the show",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1224",
+            "N-1233",
+            "N-1234",
+            "N-1235"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Topic",
+      "@id": "N-2256",
+      "ref": "N-2256",
+      "name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
+      "type": "topic",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-2257",
+      "ref": "N-2257",
+      "name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
+      "type": "topic",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-2258",
+      "ref": "N-2258",
+      "name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
+      "type": "topic",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-2259",
+      "ref": "N-2259",
+      "name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
+      "type": "topic",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-2260",
+      "ref": "N-2260",
+      "name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
+      "type": "topic",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-2261",
+      "ref": "N-2261",
+      "name": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
+      "type": "topic",
+      "description": "### N-1207 Frank Turek",
+      "related_artifacts": [
+        "A-2427.1",
+        "A-2427.2",
+        "A-2427.3",
+        "A-2427.4",
+        "A-2429.1",
+        "A-2430.1"
+      ],
+      "related_claims": [
+        "C-3546",
+        "C-3548"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2258"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Co-author of open letter (A-2352.1); characterized by host as a \"real friend\" of Charlie.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Co-author of open letter (A-2352.1); characterized by host as a \"real friend\" of Charlie.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Co-author of open letter (A-2352.1); native Russian speaker who reported an unusually high number of Russian-speaking attendees at Charlie's Arizona memorial. Relationship to Mappins not clarified in episode — flag name uncertainty.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Priest/spiritual advisor to host; present with her in Wyoming in mid-October; confirmed Charlie's death to her. Role identity based on host's phrase \"my priest tells me\" — partial identification only.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Musician; correspondent with host via text (A-2354.1) and tweet (A-2354.2); subject of host's \"Power\" interpretive analysis (A-2357.1, A-2351.3); performer at Chicago concert during anniversary week (A-2360.1).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Subject of tweet artifact (A-2355.1); political figure referenced in host's \"Power\" interpretation.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Musician; co-performer of \"Ghost Town\" with Ye at Chicago concert (A-2360.1).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Subject of host's verbal/journal claim that he \"slid into\" Charlie's studio within days of his death with $1 million, claiming to \"pick up the bloody mic\" (A-2351.1). No external artifact supports the claim in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Security team member identified in the security photo; in the lead black Jeep Wagoneer on 9/10.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Identified by host as being in the Lincoln Navigator (security vehicle 2) on 9/10.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Identified by host as being in the Lincoln Navigator (security vehicle 2) on 9/10; mentioned in connection with prior statements denying threats the night before.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Driver of the Lincoln Navigator (security vehicle 2); subsequently drove Charlie Kirk to the hospital in Christopher's vehicle.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "Pastor; identified by host as one of the sources of the \"Mikey said there's so much blood\" claim.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1221",
+      "ref": "N-1221",
+      "name": "Autopsy Record – Utah Privacy Statute Application",
+      "type": "investigation_target",
+      "description": "Mentioned by host (alongside Jack Hibbs) as one of the \"pastor orbit\" figures who have circulated the \"blood\" claim.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1222",
+      "ref": "N-1222",
+      "name": "Hospital Routing Anomaly",
+      "type": "investigation_target",
+      "description": "Commentator; subject of host's rebuke for the Sept 1 X post characterizing Novac as \"justifying political assassination.\"",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1223",
+      "ref": "N-1223",
+      "name": "TPUSA Faith Packet / Israel References Claim",
+      "type": "investigation_target",
+      "description": "Commentator; identified by host as having echoed the \"lawyer justifying assassination\" framing.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1224",
+      "ref": "N-1224",
+      "name": "ADL–FBI Partnership Structure",
+      "type": "investigation_target",
+      "description": "Commentator; author of X post accusing Novac of \"attacking Charlie Kirk in court.\"",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1225",
+      "ref": "N-1225",
+      "name": "Connecticut FBI Field Office Deployment Anomaly",
+      "type": "investigation_target",
+      "description": "Commentator; co-author (with Blake Neff) of identical X post regarding Novac.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1226",
+      "ref": "N-1226",
+      "name": "Tyler Robinson Defense Selection Anomaly",
+      "type": "investigation_target",
+      "description": "Mikey McCoy's father; identified in Blake Neff's testimony as the recipient of a phone call immediately after the shot.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1227",
+      "ref": "N-1227",
+      "name": "Witness and Public-Figure Demeanor Anomalies",
+      "type": "investigation_target",
+      "description": "Identified by host as a person to whom Tyler Robinson allegedly \"confessed\" — claim the host explicitly denies as a \"foundational lie.\"",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1228",
+      "ref": "N-1228",
+      "name": "SD Card Removal Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Referenced in host's discussion of Aug 11 filing (page 32 context) regarding political-motivation enhancement.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1233",
+      "ref": "N-1233",
+      "name": "Tyler Bowyer X Defense Pattern",
+      "type": "investigation_target",
+      "description": "Among those questioned by feds on September 10; works on Ukrainian sex trafficking awareness (per host).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1234",
+      "ref": "N-1234",
+      "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
+      "type": "investigation_target",
+      "description": "Researcher whose work is cited as source for Judge Graph clip and Michael George Carl affidavit material.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1235",
+      "ref": "N-1235",
+      "name": "Josh Hammer Pre-Death Zoom Call Verification",
+      "type": "investigation_target",
+      "description": "Referenced as former Daily Wire CEO on Piers Morgan; no artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3543",
+      "ref": "C-3543",
+      "label": "Security team member previously identified as Chester Barnes is actually Derek Pepper Williams",
+      "claim": "The man shown in the hat and plaid shirt on the TPUSA security detail September 10, previously identified in prior coverage as \"Chester Barnes,\" is in fact Derek Pepper Williams.",
+      "anchored_artifacts": [
+        "A-2426.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-1218",
+        "N-2260"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:19",
+      "investigative_direction": "Verify identity via personnel records, PGL employment records, and cross-reference with prior on-screen identifications."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3544",
+      "ref": "C-3544",
+      "label": "Derek Pepper Williams worked for PGL (Perimeter Global Logistics) as a government defense contractor",
+      "claim": "After retiring from the Navy (Naval Special Warfare Operations), Derek Pepper Williams went on to work for PGL (Perimeter Global Logistics), a government defense contractor that ships on behalf of the Department of Defense.",
+      "anchored_artifacts": [
+        "A-2426.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-1216",
+        "N-2260"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:11",
+      "investigative_direction": "Confirm employment history via LinkedIn, PGL corporate filings, or defense contracting databases (e.g., USASpending.gov)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3545",
+      "ref": "C-3545",
+      "label": "Four TPUSA team members on September 10 had families in global freight/trucking/shipping",
+      "claim": "Pepper Williams is described as one of four TPUSA team members on the ground September 10 whose families were involved in the same industry — global freight, trucking, and global shipping.",
+      "anchored_artifacts": [
+        "A-2426.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-1216",
+        "N-2260"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:11",
+      "investigative_direction": "Identify the other three members and verify each family connection to the global freight/trucking/shipping industry through public records or interviews."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3546",
+      "ref": "C-3546",
+      "label": "Frank Turek claims he performed CPR for ~20–30 seconds in the last portion of the hospital ride",
+      "claim": "Frank Turek stated that, although most of the ride involved only bleeding control, in the last ~30 seconds of the ride as the SUV was pulling into the hospital parking lot, he attempted seated CPR for 20–30 seconds.",
+      "anchored_artifacts": [
+        "A-2429.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2258"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:50",
+      "investigative_direction": "Obtain the full unedited Turek statement for context; compare with Brian Harpole's statements and any available dashcam/audio."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3547",
+      "ref": "C-3547",
+      "label": "Brian Harpole stated in Paramount interview that no CPR was performed during the hospital ride",
+      "claim": "In a Paramount interview, Brian Harpole explicitly stated that no CPR was conducted during the ride because bleeding control was the priority and the hospital was close.",
+      "anchored_artifacts": [
+        "A-2428.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2258"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:07",
+      "investigative_direction": "Compare the Paramount statement with the Shawn Ryan \"car crash\" interview; obtain transcripts and verify continuity."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3548",
+      "ref": "C-3548",
+      "label": "Frank Turek states in FaceTime with Jack Hibbs that he had blood on him at the hospital",
+      "claim": "During a FaceTime call with Pastor Jack Hibbs after arriving at the hospital, Frank Turek references \"blood on me\" in a manner the host characterizes as leading the conversation.",
+      "anchored_artifacts": [
+        "A-2430.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1214",
+        "N-2256"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:55",
+      "investigative_direction": "Locate the original FaceTime recording or screenshot; verify the exact wording and sequence of the exchange."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3549",
+      "ref": "C-3549",
+      "label": "Hospital parking lot eyewitness describes a man exiting the rear hatch of the SUV",
+      "claim": "A witness who posted his account in September 2025 describes seeing a man in a white hat exit the rear hatch (not the back seat) of the SUV upon hospital arrival, with a bald driver exiting the front.",
+      "anchored_artifacts": [
+        "A-2431.1"
+      ],
+      "related_nodes": [
+        "N-1219",
+        "N-2259",
+        "N-2261"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:39",
+      "investigative_direction": "Locate the original witness video/post; cross-reference with the September 10 security footage of the SUV's hospital arrival."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3550",
+      "ref": "C-3550",
+      "label": "Blake Hariff's shirt was visibly free of blood after the SUV departed the scene",
+      "claim": "Footage shows Blake Hariff running after the SUV departed with no visible blood on his shirt.",
+      "anchored_artifacts": [
+        "A-2432.2"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-2256"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:42",
+      "investigative_direction": "Obtain higher-resolution frame stills; cross-check with independent footage sources."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3551",
+      "ref": "C-3551",
+      "label": "Blake Hariff did not help carry Charlie to the car and did not travel to the hospital in the initial SUV",
+      "claim": "Blake Hariff sprinted ahead with Justin Davis to open the car but did not help carry Charlie to the vehicle; he did not travel in the SUV to the hospital.",
+      "anchored_artifacts": [
+        "A-2432.1",
+        "A-2432.2"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1210",
+        "N-2256"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:51",
+      "investigative_direction": "Cross-reference with security team testimony and hospital arrival records; identify when and how Blake reached the hospital."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3552",
+      "ref": "C-3552",
+      "label": "Blake Hariff was wearing Timpanogos surgical scrubs at the UVU return ~8:30 PM",
+      "claim": "Footage of the team returning to UVU after 8:30 PM on September 10 shows Blake Hariff wearing a Timpanogos surgical scrub top.",
+      "anchored_artifacts": [
+        "A-2432.3"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1217",
+        "N-2256"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:42",
+      "investigative_direction": "Identify when and where Blake obtained the scrubs; obtain hospital visitor logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3553",
+      "ref": "C-3553",
+      "label": "Rick Cutler was wearing head-to-toe surgical scrubs at the UVU return",
+      "claim": "Footage shows Rick Cutler (in white hat) wearing head-to-toe surgical scrubs at the UVU return.",
+      "anchored_artifacts": [
+        "A-2432.3"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1217",
+        "N-2256"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:42",
+      "investigative_direction": "Identify scrubs source; obtain hospital records/logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3554",
+      "ref": "C-3554",
+      "label": "Justin Davis was wearing surgical scrubs at the UVU return",
+      "claim": "Footage shows Justin Davis wearing surgical scrubs at the UVU return.",
+      "anchored_artifacts": [
+        "A-2432.3"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-1217",
+        "N-2256"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:42",
+      "investigative_direction": "Identify scrubs source; cross-reference with hospital logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3555",
+      "ref": "C-3555",
+      "label": "Dan Flood was wearing surgical scrubs at the UVU return",
+      "claim": "Footage shows Dan Flood wearing surgical scrubs at the UVU return (consistent with his having carried Charlie).",
+      "anchored_artifacts": [
+        "A-2432.3"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1217",
+        "N-2256"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:42",
+      "investigative_direction": "Identify scrubs source; cross-reference with hospital logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3556",
+      "ref": "C-3556",
+      "label": "Brian Harpole is seen holding a jacket and a brown bag at the UVU return",
+      "claim": "Footage shows Brian Harpole holding what appears to be a jacket (possibly Charlie's) along with a brown bag, consistent with the other team members carrying brown bags holding their clothes.",
+      "anchored_artifacts": [
+        "A-2432.3"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2256"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:02",
+      "investigative_direction": "Higher-resolution frame analysis; cross-reference with clothing inventories."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3557",
+      "ref": "C-3557",
+      "label": "The Panguitch Cowboy Smokehouse receipt has been verified as real",
+      "claim": "The Cowboy Smokehouse receipt has been verified and is presented by the host as a real document.",
+      "anchored_artifacts": [
+        "A-2433.1",
+        "A-2433.4"
+      ],
+      "related_nodes": [
+        "N-1220",
+        "N-1221",
+        "N-1222",
+        "N-2257"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:02",
+      "investigative_direction": "Obtain the original receipt, forensic authentication (printing analysis, timestamp verification), and confirmation from the restaurant's point-of-sale system."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3558",
+      "ref": "C-3558",
+      "label": "Receipt timestamp indicates the card could not have been swiped before ~9:47 PM",
+      "claim": "Per the host's account, the receipt timestamp indicates the card was not swiped until approximately 9:47 PM at the earliest.",
+      "anchored_artifacts": [
+        "A-2433.1"
+      ],
+      "related_nodes": [
+        "N-1220",
+        "N-1221",
+        "N-2257"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:40",
+      "investigative_direction": "Obtain the precise timestamp from the receipt/POS system; verify against Tyler Robinson's movements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3559",
+      "ref": "C-3559",
+      "label": "The receipt timeline contradicts Tyler Robinson's text messages placing him at UVU ~9:00 PM",
+      "claim": "If the Cowboy Smokehouse receipt is genuine, Tyler Robinson could not have been at UVU ~9:00 PM (when he texted Lance about K-9s), because Panguitch is a 3-hour drive from UVU.",
+      "anchored_artifacts": [
+        "A-2433.1",
+        "A-2433.2",
+        "A-2433.3"
+      ],
+      "related_nodes": [
+        "N-1227",
+        "N-1228",
+        "N-2257"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:39",
+      "investigative_direction": "Verify the 3-hour drive time with mapping data; reconcile the text messages' origin with cell tower records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3560",
+      "ref": "C-3560",
+      "label": "Host reports 95% certainty the debit card belonged to Tyler Robinson",
+      "claim": "The host elevates her personal certainty from ~60% to 95% that the debit card swiped at Cowboy Smokehouse on September 10 was Tyler Robinson's.",
+      "anchored_artifacts": [
+        "A-2433.1",
+        "A-2433.4"
+      ],
+      "related_nodes": [
+        "N-1220",
+        "N-1221",
+        "N-2257"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:48",
+      "investigative_direction": "Identify the underlying source(s) raising the host's confidence; obtain evidence admissible in court."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3561",
+      "ref": "C-3561",
+      "label": "If the receipt is confirmed, Tyler Robinson could not have made it back to Orem before ~1:47 AM",
+      "claim": "Per the host's timeline analysis, if the receipt is confirmed, the earliest Tyler Robinson could have arrived in Orem is approximately 1:47 AM — which would make multiple subsequent events (12:36 AM vehicle stop, 12:38 AM sighting at Mrs. Noble's house, 12:50 AM campus approach, 1:33 AM Google Maps route) impossible for him as the driver.",
+      "anchored_artifacts": [
+        "A-2433.1"
+      ],
+      "related_nodes": [
+        "N-1225",
+        "N-1226",
+        "N-1228",
+        "N-2257"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:12",
+      "investigative_direction": "Cross-reference cell tower data, surveillance footage, and forensic vehicle evidence with the corrected timeline."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3562",
+      "ref": "C-3562",
+      "label": "The Cowboy Smokehouse has received harassment (bad reviews) since July",
+      "claim": "The host states the restaurant has been \"severely harassed\" with bad reviews since July, characterizing the activity as \"completely psychotic.\"",
+      "anchored_artifacts": [
+        "A-2433.1"
+      ],
+      "related_nodes": [
+        "N-1220",
+        "N-2257"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:40",
+      "investigative_direction": "Document the review pattern (volume, timing, account origins); consult the restaurant's records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3563",
+      "ref": "C-3563",
+      "label": "The Cowboy Smokehouse owner contacted the FBI after the server identified the suspect",
+      "claim": "Per the host's account, the server contacted the owner after believing he had served the suspect; the owner then contacted the FBI.",
+      "anchored_artifacts": [
+        "A-2433.1"
+      ],
+      "related_nodes": [
+        "N-1220",
+        "N-1221",
+        "N-2257"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:40",
+      "investigative_direction": "Confirm with FBI 302 forms or other official records; interview both owner and server directly."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3564",
+      "ref": "C-3564",
+      "label": "YouTube commenter attributes hospital-lobby quote to \"Blakey\"",
+      "claim": "A YouTube top comment by user \"Matt Callaway\" attributes to \"Blakey\" the statement \"Candace is going to figure this out,\" reportedly said in the hospital lobby on September 10.",
+      "anchored_artifacts": [
+        "A-2434.1"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1224",
+        "N-2261"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:10",
+      "investigative_direction": "Identify who \"Blakey\" refers to; obtain original recording or corroborating testimony; flag the comment as uncorroborated hearsay."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3565",
+      "ref": "C-3565",
+      "label": "The New York Post covered the Cowboy Smokehouse story",
+      "claim": "The New York Post published an article titled along the lines of \"Utah restaurant tour claims that Tyler Robinson stopped in after Charlie Kirk killing reveals what the alleged assassin ordered.\"",
+      "anchored_artifacts": [
+        "A-2433.2"
+      ],
+      "related_nodes": [
+        "N-1222",
+        "N-2257"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:09",
+      "investigative_direction": "Retrieve the original article from the New York Post archive; verify URL and publication date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3566",
+      "ref": "C-3566",
+      "label": "Fox News covered the Cowboy Smokehouse story",
+      "claim": "Fox News published a piece characterizing the alleged Cowboy Smokehouse meal as \"one of Tyler Robinson's last meals as a free man…a steak dinner, medium rare.\"",
+      "anchored_artifacts": [
+        "A-2433.3"
+      ],
+      "related_nodes": [
+        "N-1222",
+        "N-2257"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:09",
+      "investigative_direction": "Retrieve the original article from Fox News archives; verify URL and publication date."
+    }
+  ],
+  "memes": []
+}

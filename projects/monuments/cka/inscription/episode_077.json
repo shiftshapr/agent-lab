@@ -1,0 +1,969 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 77,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "6d12956e2b1ba335a573654b47ea8373fc4b2a908e37366ed670b52d16491c48",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1822",
+      "family_ref": "A-1822",
+      "bundle_name": "Epstein Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1822.1",
+          "ref": "A-1822.1",
+          "description": "Email: Jeffrey Epstein to Peter Thiel referencing Rothschild representation",
+          "related_claims": [
+            "C-2437"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1013"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1823",
+      "family_ref": "A-1823",
+      "bundle_name": "Erika Kirk Instagram Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1823.1",
+          "ref": "A-1823.1",
+          "description": "Instagram Post (2017): Erika Kirk tribute to \"Uncle Allan\" Rothstein",
+          "related_claims": [
+            "C-2438"
+          ],
+          "related_nodes": [
+            "N-1013",
+            "N-963"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1824",
+      "family_ref": "A-1824",
+      "bundle_name": "Erika Kirk Real Estate Bio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1824.1",
+          "ref": "A-1824.1",
+          "description": "Real Estate Agent Bio: Erika Fronsve / Frantzve (displayed full text)",
+          "related_claims": [
+            "C-2439",
+            "C-2450"
+          ],
+          "related_nodes": [
+            "N-1013",
+            "N-1599"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1825",
+      "family_ref": "A-1825",
+      "bundle_name": "New York Real Estate License Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1825.1",
+          "ref": "A-1825.1",
+          "description": "NY Real Estate License relic (License #10401322765, issued October 24, 2018)",
+          "related_claims": [
+            "C-2440",
+            "C-2451"
+          ],
+          "related_nodes": [
+            "N-1013",
+            "N-1598"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1826",
+      "family_ref": "A-1826",
+      "bundle_name": "American Race Audition Tape Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1826.1",
+          "ref": "A-1826.1",
+          "description": "Audio Excerpt: \"The American Race\" audition tape — Erika Kirk describing Romanian Angels / Marine Corps orphanage partnership",
+          "related_claims": [
+            "C-2441"
+          ],
+          "related_nodes": [
+            "N-1013"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1827",
+      "family_ref": "A-1827",
+      "bundle_name": "Larissa Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1827.1",
+          "ref": "A-1827.1",
+          "description": "Email from \"Larissa\": former Antonio Placement Center resident account",
+          "related_claims": [
+            "C-2442"
+          ],
+          "related_nodes": [
+            "N-961",
+            "N-1597"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1828",
+      "family_ref": "A-1828",
+      "bundle_name": "Tyler Bowyer Social Media Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1828.1",
+          "ref": "A-1828.1",
+          "description": "Social Media Exchange: Tyler Bowyer statement on Romania 2010 study abroad",
+          "related_claims": [
+            "C-2443"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:28",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1829",
+      "family_ref": "A-1829",
+      "bundle_name": "Arizona SB 1439 Bill Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1829.1",
+          "ref": "A-1829.1",
+          "description": "Arizona SB 1439: Charlie Kirk Memorial Specialty License Plate bill (introduced by AJ Copp; pushed by Jake Hoffman)",
+          "related_claims": [
+            "C-2444",
+            "C-2452"
+          ],
+          "related_nodes": [
+            "N-964",
+            "N-966",
+            "N-1601"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:37",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1830",
+      "family_ref": "A-1830",
+      "bundle_name": "Katie Hobbs Veto Letter Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1830.1",
+          "ref": "A-1830.1",
+          "description": "Veto Letter: Governor Katie Hobbs on SB 1439",
+          "related_claims": [
+            "C-2445"
+          ],
+          "related_nodes": [
+            "N-965",
+            "N-1601"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1831",
+      "family_ref": "A-1831",
+      "bundle_name": "Jake Hoffman Fox News Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1831.1",
+          "ref": "A-1831.1",
+          "description": "Fox News Interview Clip: Jake Hoffman on SB 1439 veto",
+          "related_claims": [
+            "C-2446"
+          ],
+          "related_nodes": [
+            "N-964",
+            "N-965"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1832",
+      "family_ref": "A-1832",
+      "bundle_name": "Tyler Bowyer X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1832.1",
+          "ref": "A-1832.1",
+          "description": "X Post: Tyler Bowyer on SB 1439 veto",
+          "related_claims": [
+            "C-2447"
+          ],
+          "related_nodes": [
+            "N-1601"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1833",
+      "family_ref": "A-1833",
+      "bundle_name": "Turning Point USA App / Super Feed Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1833.1",
+          "ref": "A-1833.1",
+          "description": "Turning Point USA App Fine Print: Super Feed Inc. copyright attribution",
+          "related_claims": [
+            "C-2448"
+          ],
+          "related_nodes": [
+            "N-1602"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1834",
+      "family_ref": "A-1834",
+      "bundle_name": "Arizona-Romania Trade Office Headline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1834.1",
+          "ref": "A-1834.1",
+          "description": "Headline: Arizona to be first US state to open trade office in Romania",
+          "related_claims": [
+            "C-2449"
+          ],
+          "related_nodes": [
+            "N-1600"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:28",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of proposed memorial license plate and broader series biographical anchor.",
+      "related_artifacts": [
+        "A-1829.1",
+        "A-1830.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1013"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1013",
+      "ref": "N-1013",
+      "name": "Erica Kirk (episode spelling: \"Erika Kirk\")",
+      "type": "investigation_target",
+      "description": "Primary biographical subject of episode's evidentiary claims regarding Epstein orbit, Next Model Management, real estate bio, NY real estate license, Romanian Angels, and Antonio Placement Center.",
+      "related_artifacts": [
+        "A-1822.1",
+        "A-1823.1",
+        "A-1824.1",
+        "A-1825.1",
+        "A-1826.1"
+      ],
+      "related_claims": [
+        "C-2438",
+        "C-2439",
+        "C-2440",
+        "C-2441",
+        "C-2450",
+        "C-2451"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1597",
+        "N-1598",
+        "N-1599"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-961",
+      "ref": "N-961",
+      "name": "Larissa",
+      "type": "person",
+      "description": "Author of email (A-1827.1) recounting personal placement at Antonio Placement Center in Constanta, Romania; presents as formerly adopted child with direct knowledge of institutional practices.",
+      "related_artifacts": [
+        "A-1827.1"
+      ],
+      "related_claims": [
+        "C-2442"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1597"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-962",
+      "ref": "N-962",
+      "name": "Nicole Rothstein",
+      "type": "person",
+      "description": "Real-estate professional referenced as Erika's New York roommate during the Next Model Management period; daughter of Alan Rothstein.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-963",
+        "N-1013"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-963",
+      "ref": "N-963",
+      "name": "Alan Rothstein",
+      "type": "person",
+      "description": "Chairman (or former chairman) of Win Haven Real Estate; subject of Erika's 2017 Instagram tribute referring to him as \"Uncle Allan.\"",
+      "related_artifacts": [
+        "A-1823.1"
+      ],
+      "related_claims": [
+        "C-2438"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-964",
+      "ref": "N-964",
+      "name": "Jake Hoffman",
+      "type": "person",
+      "description": "Arizona State Senator; introduced SB 1439 supporter; defended the bill on Fox News after veto.",
+      "related_artifacts": [
+        "A-1829.1",
+        "A-1831.1"
+      ],
+      "related_claims": [
+        "C-2446",
+        "C-2452"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-965",
+        "N-1601"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-965",
+      "ref": "N-965",
+      "name": "Katie Hobbs",
+      "type": "person",
+      "description": "Governor of Arizona; vetoed SB 1439; subject of Hoffman's Fox News criticism.",
+      "related_artifacts": [
+        "A-1830.1",
+        "A-1831.1"
+      ],
+      "related_claims": [
+        "C-2445"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-964"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-966",
+      "ref": "N-966",
+      "name": "AJ Copp",
+      "type": "person",
+      "description": "Introduced SB 1439 in the Arizona House on January 28 (year implied 2026).",
+      "related_artifacts": [
+        "A-1829.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1601"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1597",
+      "ref": "N-1597",
+      "name": "Antonio Placement Center Investigation",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: Constanta, Romania institution described by Larissa as \"notorious for corruption and illicit activities such as trafficking children\"; per email, Erika Kirk's promotional materials 2012–2014 referenced it as a Romanian Angels partner.",
+      "related_artifacts": [
+        "A-1827.1"
+      ],
+      "related_claims": [
+        "C-2441",
+        "C-2442"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1013",
+        "N-961"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1598",
+      "ref": "N-1598",
+      "name": "Erika NY Real Estate License Verification Question",
+      "type": "investigation_target",
+      "description": "Persistent target: independent verification of NY real estate license #10401322765 (issued 2018-10-24) and of any completed NY real estate transactions.",
+      "related_artifacts": [
+        "A-1825.1"
+      ],
+      "related_claims": [
+        "C-2440",
+        "C-2451"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1013"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1599",
+      "ref": "N-1599",
+      "name": "Erika Real Estate Bio Credential Verification Question",
+      "type": "investigation_target",
+      "description": "Persistent target: verification of bio claims including magna cum laude graduation, ASU double major in political science and international relations, and Juris Master at Liberty University.",
+      "related_artifacts": [
+        "A-1824.1"
+      ],
+      "related_claims": [
+        "C-2450"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1013"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1600",
+      "ref": "N-1600",
+      "name": "Arizona-Romania Pipeline Investigation",
+      "type": "investigation_target",
+      "description": "Persistent target: convergence of Tyler Bowyer's 2010 Romania trip, ASU Romanian studies program and honorary Romanian consulate (2010), Romania-to-Arizona charity/placement activity, and Arizona opening first US state trade office in Romania (~July 2025).",
+      "related_artifacts": [
+        "A-1828.1",
+        "A-1834.1"
+      ],
+      "related_claims": [
+        "C-2443",
+        "C-2449"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1601",
+      "ref": "N-1601",
+      "name": "SB 1439 Charlie Kirk Memorial Plate Fund Routing",
+      "type": "investigation_target",
+      "description": "Persistent target: SB 1439's \"conservative grassroots network special plate fund\" and its description (nonprofit founded 2012, restoring traditional values, high school and college campus grassroots network, voter registration) — descriptors matching Turning Point USA per host.",
+      "related_artifacts": [
+        "A-1829.1",
+        "A-1830.1",
+        "A-1832.1"
+      ],
+      "related_claims": [
+        "C-2444",
+        "C-2445",
+        "C-2447",
+        "C-2452"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-964",
+        "N-965",
+        "N-966"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1602",
+      "ref": "N-1602",
+      "name": "TPUSA Super Feed Copyright / Data Routing Question",
+      "type": "investigation_target",
+      "description": "Persistent target: Super Feed Inc. copyright on the Turning Point USA app per fine print; question of where user data flows.",
+      "related_artifacts": [
+        "A-1833.1"
+      ],
+      "related_claims": [
+        "C-2448"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2437",
+      "ref": "C-2437",
+      "label": "Epstein Email Asserts Rothschild Representation",
+      "claim": "A Jeffrey Epstein email to Peter Thiel, recently released, states that Epstein represents the Rothschilds.",
+      "anchored_artifacts": [
+        "A-1822.1"
+      ],
+      "related_nodes": [
+        "N-1013"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:13",
+      "investigative_direction": "Obtain full Epstein-to-Thiel email metadata and surrounding thread to verify context, date, and any operational substance."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2438",
+      "ref": "C-2438",
+      "label": "Erika Kirk 2017 Instagram Post Identifies \"Uncle Allan\" Rothstein as Spiritual Mentor",
+      "claim": "A 2017 Instagram post by Erika Kirk refers to Alan Rothstein as \"Uncle Allan,\" describing him as spiritually inspirational and noting his real-estate career.",
+      "anchored_artifacts": [
+        "A-1823.1"
+      ],
+      "related_nodes": [
+        "N-1013",
+        "N-963"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:32",
+      "investigative_direction": "Confirm the post via Instagram archives or third-party captures; verify Alan Rothstein's role at Win Haven Real Estate through corporate filings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2439",
+      "ref": "C-2439",
+      "label": "Erika Kirk Real-Estate Bio Asserts Fiduciary Real-Estate Practice in NYC",
+      "claim": "Erika Kirk's published real-estate bio describes her as a \"multi-dimensional entrepreneur\" whose NYC real-estate practice focuses on the \"fiduciary relationship\" with clients, alongside claims of prior work as an agency-represented model, actress, and casting director.",
+      "anchored_artifacts": [
+        "A-1824.1"
+      ],
+      "related_nodes": [
+        "N-1013",
+        "N-1599"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:25",
+      "investigative_direction": "Locate original bio on archived real-estate listings or brokerage websites; cross-reference fiduciary claim against any documented transactions."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2440",
+      "ref": "C-2440",
+      "label": "Erika Kirk NY Real-Estate License Relic Identified",
+      "claim": "A relic record of a New York real-estate license attributed to Erika Kirk (License #10401322765), issued October 24, 2018, valid through at least 2020, was found on a third-party site.",
+      "anchored_artifacts": [
+        "A-1825.1"
+      ],
+      "related_nodes": [
+        "N-1013",
+        "N-1598"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:31",
+      "investigative_direction": "Verify license against NY Department of State public licensee search before October 2026 record-retention cutoff; obtain any associated transaction records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2441",
+      "ref": "C-2441",
+      "label": "Erika Kirk American Race Audition Tape Describes Opening Romanian Orphanage with Marines",
+      "claim": "In her audition tape for \"The American Race,\" Erika Kirk stated she had traveled to Romania and \"teamed up with the Marine Corps to open up and sustain an orphanage with 75 beautiful children\" called \"Romanian Angels\" through her nonprofit \"Everyday Heroes Like You.\"",
+      "anchored_artifacts": [
+        "A-1826.1"
+      ],
+      "related_nodes": [
+        "N-1013",
+        "N-1597"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:15",
+      "investigative_direction": "Locate the full audition tape for timestamp and surrounding context; verify the orphanage claim against Marine Corps records and Romanian government records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2442",
+      "ref": "C-2442",
+      "label": "Larissa Email Describes Antonio Placement Center as Corrupt and Erika-Linked",
+      "claim": "An email from \"Larissa,\" a former Antonio Placement Center resident adopted internationally, states that the center is \"notorious for corruption and illicit activities such as trafficking children,\" that Larissa herself was placed there under dubious circumstances, and that Erika Kirk's promotional materials from approximately 2012 to 2014 specifically referenced the Antonio Placement Center as a partner for international efforts.",
+      "anchored_artifacts": [
+        "A-1827.1"
+      ],
+      "related_nodes": [
+        "N-1013",
+        "N-961",
+        "N-1597"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:51",
+      "investigative_direction": "Verify Larissa's identity and adoption record; locate Erika Kirk's 2012–2014 promotional materials referencing Antonio Placement Center; obtain Romanian government or NGO documentation of center's operational history."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2443",
+      "ref": "C-2443",
+      "label": "Tyler Bowyer Social-Media Statement Attributes Romania 2010 Trip to Academic Study",
+      "claim": "In a social-media exchange, Tyler Bowyer stated he studied Romanian in college to complement Russian studies and did a few weeks studying abroad in school.",
+      "anchored_artifacts": [
+        "A-1828.1"
+      ],
+      "related_nodes": [
+        "N-1600"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:16",
+      "investigative_direction": "Capture the full social-media exchange for context; verify Bowyer's claimed academic program at ASU; cross-reference against the 2010 Romanian consulate / lectorate timeline."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2444",
+      "ref": "C-2444",
+      "label": "SB 1439 Proposes Charlie Kirk Memorial Specialty License Plate with Grassroots-Network Fund",
+      "claim": "Arizona SB 1439 proposed a \"Charlie Kirk Memorial Plate\" specialty license plate featuring Charlie Kirk's photo and the Turning Point USA logo on an American flag background, with $17 of a $25 annual fee directed to a \"conservative grassroots network special plate fund.\"",
+      "anchored_artifacts": [
+        "A-1829.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-964",
+        "N-966",
+        "N-1601"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:37",
+      "investigative_direction": "Retrieve full SB 1439 text from Arizona Legislature archives; identify statutory fund recipient and allocation mechanism."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2445",
+      "ref": "C-2445",
+      "label": "Katie Hobbs Veto Letter Rejects SB 1439 as Inserting Politics into Non-Partisan Function",
+      "claim": "Governor Katie Hobbs vetoed SB 1439, stating in her veto letter that Charlie Kirk's assassination was tragic, that political violence is harmful to democratic institutions, and that the bill \"falls short\" by \"inserting politics into a function of government that should remain non-partisan.\"",
+      "anchored_artifacts": [
+        "A-1830.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-964",
+        "N-965",
+        "N-1601"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:00",
+      "investigative_direction": "Retrieve full veto letter and accompanying Arizona legislative record; identify any subsequent legislation reintroducing the plate."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2446",
+      "ref": "C-2446",
+      "label": "Jake Hoffman Fox News Appearance Denounces Veto as Partisan",
+      "claim": "On Fox News, Arizona State Senator Jake Hoffman stated that the SB 1439 veto reflects Katie Hobbs's \"nakedly partisan\" record, that Hobbs vetoed nine of his bills previously, and that the Charlie Kirk plate would honor a \"civil rights leader of our time.\"",
+      "anchored_artifacts": [
+        "A-1831.1"
+      ],
+      "related_nodes": [
+        "N-964",
+        "N-965",
+        "N-1601"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:21",
+      "investigative_direction": "Obtain full Fox News clip with date; verify Hoffman's claimed chairmanship of the Arizona Nominations Committee and prior vetoes cited."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2447",
+      "ref": "C-2447",
+      "label": "Tyler Bowyer X Post Condemns SB 1439 Veto",
+      "claim": "Tyler Bowyer posted on X: \"Every nonprofit in Arizona that has major roots has a license plate. Katie Hobbs vetoed this uh over politics after Charlie was brutally murdered. Disgusting.\"",
+      "anchored_artifacts": [
+        "A-1832.1"
+      ],
+      "related_nodes": [
+        "N-1601"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:23",
+      "investigative_direction": "Capture original X post URL and timestamp; verify whether post remains live or has been edited/deleted."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2448",
+      "ref": "C-2448",
+      "label": "Super Feed Inc. Claimed as Copyright Holder of Turning Point USA App",
+      "claim": "The Turning Point USA mobile application's fine print lists Super Feed Inc. as the copyright holder, raising the question of whether user data flows to Super Feed.",
+      "anchored_artifacts": [
+        "A-1833.1"
+      ],
+      "related_nodes": [
+        "N-1602"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:36",
+      "investigative_direction": "Obtain current app-store listing and EULA for Super Feed Inc.; cross-reference Super Feed's corporate filings and any Erika Kirk / Tyler Bowyer / Lori Frantzve board or officer roles."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2449",
+      "ref": "C-2449",
+      "label": "Arizona Announced as First US State to Open Trade Office in Romania",
+      "claim": "A headline announcement (per host) states Arizona to be the first US state to open a trade office in Romania, with the announcement occurring in July of the prior year.",
+      "anchored_artifacts": [
+        "A-1834.1"
+      ],
+      "related_nodes": [
+        "N-1600"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:28",
+      "investigative_direction": "Locate original announcement source and date; identify Arizona-Romania trade office structure, funding, and personnel."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2450",
+      "ref": "C-2450",
+      "label": "Host Rejects Specific Erika Kirk Bio Credentials as Unverifiable",
+      "claim": "The host asserts that Erika Kirk's real-estate bio claims of \"magna cum laude\" graduation and a double major in political science and international relations at Arizona State University cannot be confirmed, and that international relations was not offered as a major in her claimed graduation year.",
+      "anchored_artifacts": [
+        "A-1824.1"
+      ],
+      "related_nodes": [
+        "N-1013",
+        "N-1599"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:41",
+      "investigative_direction": "Obtain Erika Kirk's official ASU transcript via FERPA request (with consent) or court subpoena; verify degree conferral and honors designation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2451",
+      "ref": "C-2451",
+      "label": "Host Reports Inability to Verify NY Real-Estate License Through State Records",
+      "claim": "The host asserts she was unable to independently verify Erika Kirk's NY real-estate license on the New York State Division of Licenses website, finding only a relic on a third-party site, and notes that NY State records should be retained for at least six years from license activity.",
+      "anchored_artifacts": [
+        "A-1825.1"
+      ],
+      "related_nodes": [
+        "N-1013",
+        "N-1598"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:38",
+      "investigative_direction": "Conduct direct NY Department of State licensee search before October 2026 retention cutoff; capture screenshot evidence for archive."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2452",
+      "ref": "C-2452",
+      "label": "SB 1439 Recipient Description Matches Turning Point USA Characteristics",
+      "claim": "Per host reading of SB 1439, the bill's \"conservative grassroots network special plate fund\" description — a nonprofit founded in 2012 focusing on restoring traditional values, maintaining a grassroots activist network on high school and college campuses in Arizona, and assisting with voter registration and absentee ballots — matches characteristics of Turning Point USA, although TPUSA is not named explicitly in the bill.",
+      "anchored_artifacts": [
+        "A-1829.1"
+      ],
+      "related_nodes": [
+        "N-964",
+        "N-966",
+        "N-1601"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:36",
+      "investigative_direction": "Retrieve full bill text; cross-reference fund descriptors against Turning Point USA's founding date, mission, and Arizona activities."
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,699 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 143,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "ee5af5b0f78b7603290afbdc0a52db7cee4a8308f326d1886be1cf5da8aee5e5",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2294",
+      "family_ref": "A-2294",
+      "bundle_name": "Blake Neff Tweet – Utah Prosecutors Response",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2294.1",
+          "ref": "A-2294.1",
+          "description": "Blake Neff tweet asserting the Robinson defense is \"very conspicuously not contesting any of the core evidence\" (camera footage, DNA, rifle, cause of death, phone data) and that the defense \"has only a complaint about reliable hearsay.\"",
+          "related_claims": [
+            "C-3308"
+          ],
+          "related_nodes": [
+            "N-5",
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2295",
+      "family_ref": "A-2295",
+      "bundle_name": "Exclusive Footage – Terrell/Taral SD Card and Laptop Handling",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2295.1",
+          "ref": "A-2295.1",
+          "description": "Video segment showing the camera operator (Taral/Terrell/Terrence) bending over the camera behind Charlie Kirk's head, removing the SD card, pocketing it, looking around, then opening his laptop and apparently inserting the SD card into it. Lane Schamberger (N-8) is visible at the side washing his hands.",
+          "related_claims": [
+            "C-3302",
+            "C-3303"
+          ],
+          "related_nodes": [
+            "N-9",
+            "N-8",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:42–00:10:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2295.2",
+          "ref": "A-2295.2",
+          "description": "Video segment showing the yellow audience-facing camera falling/knocked to the floor shortly after Charlie is removed from the scene, coming to rest with its encompassed SD card on the ground.",
+          "related_claims": [
+            "C-3305",
+            "C-3304"
+          ],
+          "related_nodes": [
+            "N-9",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:38–00:14:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2295.3",
+          "ref": "A-2295.3",
+          "description": "Video segment showing Taral/Terrell stepping over the fallen yellow camera and its encompassed SD card en route to the camera behind Charlie's head.",
+          "related_claims": [
+            "C-3304",
+            "C-3305"
+          ],
+          "related_nodes": [
+            "N-9",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:47–00:15:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2296",
+      "family_ref": "A-2296",
+      "bundle_name": "Trump Fox and Friends Audio Clip – Mike Mitchell Recognition",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2296.1",
+          "ref": "A-2296.1",
+          "description": "Audio clip of Donald Trump on Fox and Friends describing the identification chain: \"Somebody that's close recognizes even a little tilt of the head… Somebody that was very close to him said, 'Hmm, that's him.'… essentially went to the father, and went to a US Marshal… The person was involved with law enforcement, but was a person of faith, a minister.\"",
+          "related_claims": [
+            "C-3306"
+          ],
+          "related_nodes": [
+            "N-1027",
+            "N-69",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:32–00:33:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2297",
+      "family_ref": "A-2297",
+      "bundle_name": "Hasan Piker Streamer Audio Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2297.1",
+          "ref": "A-2297.1",
+          "description": "Audio clip of streamer Hasan Piker saying: \"I can't speak out against this queen because this is a queen that successfully and single-handedly undermined the Republican initiative to martyrize Charlie Kirk… She dropped a grenade on the discourse. So, I'm with her… My brain says, 'No, it's probably Tyler Robinson.' But my heart says, 'Go Candace go.'… Candace Owens blocked me many, many years ago.\"",
+          "related_claims": [
+            "C-3309"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1027",
+            "N-1",
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:00–00:36:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2298",
+      "family_ref": "A-2298",
+      "bundle_name": "Blake Neff Tweet – Candace / Hasan Coordination",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2298.1",
+          "ref": "A-2298.1",
+          "description": "Blake Neff tweet: \"Hasan is openly celebrating Candace Owens calling her a queen because she single-handedly undermined the effort to martyrize Charlie to go after the violent radical left… The radical pro-violence left knows exactly what a gift Candace and her ilk are to them.\"",
+          "related_claims": [
+            "C-3310"
+          ],
+          "related_nodes": [
+            "N-5",
+            "N-1207",
+            "N-1027"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:27–00:35:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2299",
+      "family_ref": "A-2299",
+      "bundle_name": "Wear Forbidden Video Clip – Matrix Parody",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2299.1",
+          "ref": "A-2299.1",
+          "description": "Video clip from \"Where Forbidden\" X/Instagram account using the red-pill/blue-pill Matrix framing to parody reactions to the Tyler Robinson case, repeating \"So what?\" against \"positive evidence,\" \"appeal to emotion,\" and \"burden of proof.\"",
+          "related_claims": [
+            "C-3311"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:34–00:42:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2300",
+      "family_ref": "A-2300",
+      "bundle_name": "Camera Position Diagram (Display Visual)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2300.1",
+          "ref": "A-2300.1",
+          "description": "Host-produced on-screen diagram labeling camera positions at the event — \"red camera behind his head\" and a \"yellow\" camera that fell — referenced as having been previously shown and re-displayed in this episode.",
+          "related_claims": [
+            "C-3304",
+            "C-3305"
+          ],
+          "related_nodes": [
+            "N-9",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:38–00:15:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Central deceased subject of the camera-footage evidence and the \"martyrize\" framing invoked by both Trump-clip context and Hasan clip.",
+      "related_artifacts": [
+        "A-2295.1",
+        "A-2295.2",
+        "A-2295.3",
+        "A-2296.1",
+        "A-2297.1",
+        "A-2300.1"
+      ],
+      "related_claims": [
+        "C-3302",
+        "C-3303",
+        "C-3304",
+        "C-3305",
+        "C-3306",
+        "C-3309"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1026",
+      "ref": "N-1026",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "Referenced via Glenn Beck show statement regarding Charlie's pre-event text messages (verbally referenced only, no artifact shown in this episode).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Recurring writer/commentator whose tweets are read aloud as artifacts in this episode.",
+      "related_artifacts": [
+        "A-2294.1",
+        "A-2298.1"
+      ],
+      "related_claims": [
+        "C-3308",
+        "C-3310"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-6",
+      "ref": "N-6",
+      "name": "Elizabeth Lane *(reused from Episode 1)*",
+      "type": "person",
+      "description": "TPUSA-affiliated figure referenced regarding SD card narrative, debate context, and \"1102 statement.\" Not artifact-anchored in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1027",
+      "ref": "N-1027",
+      "name": "Mike Mitchell",
+      "type": "investigation_target",
+      "description": "Family friend / former police officer / Mormon minister identified by Trump (A-2296) as the recognition source for Tyler Robinson.",
+      "related_artifacts": [
+        "A-2296.1"
+      ],
+      "related_claims": [
+        "C-3306"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-8",
+      "ref": "N-8",
+      "name": "Melody Hall",
+      "type": "person",
+      "description": "TPUSA staff member visible in A-2295.1 washing his hands at the scene; host notes he helped carry Charlie into the car.",
+      "related_artifacts": [
+        "A-2295.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Holly Chalmers",
+      "type": "person",
+      "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
+      "related_artifacts": [
+        "A-2295.1",
+        "A-2295.2",
+        "A-2295.3",
+        "A-2300.1"
+      ],
+      "related_claims": [
+        "C-3302",
+        "C-3303",
+        "C-3304"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Streamer whose favorable commentary on Candace Owens (A-2297) and whose mention by Blake Neff (A-2298) are central to this episode's \"left-coordination\" framing discussion.",
+      "related_artifacts": [
+        "A-2297.1",
+        "A-2298.1"
+      ],
+      "related_claims": [
+        "C-3309",
+        "C-3310"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Parody-content account whose Matrix-style video on the Tyler Robinson case is played in full (A-2299).",
+      "related_artifacts": [
+        "A-2299.1"
+      ],
+      "related_claims": [
+        "C-3311"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2207",
+      "ref": "N-2207",
+      "name": "Terrell SD Card-to-Laptop Transfer Sequence",
+      "type": "investigation_target",
+      "description": "Persistent investigable discrepancy: SD card from camera behind Charlie's head was removed, pocketed, and (per host observation) inserted into a laptop within ~10 minutes of the shooting.",
+      "related_artifacts": [
+        "A-2295.1"
+      ],
+      "related_claims": [
+        "C-3302",
+        "C-3303"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-9"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2208",
+      "ref": "N-2208",
+      "name": "Yellow Camera Floor Position Event",
+      "type": "investigation_target",
+      "description": "Persistent investigable discrepancy: the audience-facing yellow camera fell to the ground post-event and was stepped over rather than retrieved, despite the stated narrative of securing all SD cards.",
+      "related_artifacts": [
+        "A-2295.2",
+        "A-2295.3",
+        "A-2300.1"
+      ],
+      "related_claims": [
+        "C-3304",
+        "C-3305"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3302",
+      "ref": "C-3302",
+      "label": "Terrell/Taral Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting",
+      "claim": "The host presents footage showing the camera operator removing an SD card from the camera behind Charlie Kirk's head, looking around, and pocketing the card within approximately four to five minutes of Charlie being struck.",
+      "anchored_artifacts": [
+        "A-2295.1"
+      ],
+      "related_nodes": [
+        "N-9",
+        "N-1",
+        "N-2207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:42",
+      "investigative_direction": "Obtain original unedited video and corroborate timestamp via SBI / law-enforcement chain-of-custody records for the SD card in question."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3303",
+      "ref": "C-3303",
+      "label": "Terrell/Taral Subsequently Inserted That SD Card Into His Laptop",
+      "claim": "The host describes footage in which the camera operator opens his laptop and appears to insert the previously pocketed SD card into it, all within roughly ten minutes of the shooting.",
+      "anchored_artifacts": [
+        "A-2295.1"
+      ],
+      "related_nodes": [
+        "N-9",
+        "N-2207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:43",
+      "investigative_direction": "Recover laptop forensic artifacts (connection logs, file-system events, USB device traces) and compare timing against host's stated \"government source\" timeline."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3304",
+      "ref": "C-3304",
+      "label": "Terrell/Taral Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head",
+      "claim": "The host presents that, when retrieving SD cards, Terrell stepped over the yellow audience-facing camera — which had fallen to the floor — rather than retrieving its SD card.",
+      "anchored_artifacts": [
+        "A-2295.2",
+        "A-2295.3",
+        "A-2300.1"
+      ],
+      "related_nodes": [
+        "N-9",
+        "N-1",
+        "N-2208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:47",
+      "investigative_direction": "Identify whether the yellow camera's SD card was ever collected and, if so, by whom and at what timestamp."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3305",
+      "ref": "C-3305",
+      "label": "The Yellow Audience-Facing Camera Fell to the Floor Approximately When Charlie Was Removed From the Scene",
+      "claim": "The host presents footage showing the yellow audience-facing camera falling/being knocked down shortly after Charlie Kirk was taken away from the scene.",
+      "anchored_artifacts": [
+        "A-2295.2",
+        "A-2300.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:38",
+      "investigative_direction": "Confirm camera-down timestamp via SBI/UPD evidence logs and assess whether the fall was accidental or post-removal disturbance."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3306",
+      "ref": "C-3306",
+      "label": "Trump Publicly Identified Mike Mitchell as the Person Who Recognized Tyler Robinson From the Stairwell Photo",
+      "claim": "In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that \"somebody that's close\" — described as a person involved in law enforcement and a minister — recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal.",
+      "anchored_artifacts": [
+        "A-2296.1"
+      ],
+      "related_nodes": [
+        "N-1027",
+        "N-69",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:32",
+      "investigative_direction": "Cross-reference Trump's account against official law-enforcement timeline documents (probable-cause affidavit, charging document signed by Brian Davis) and Mitchell's own statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3307",
+      "ref": "C-3307",
+      "label": "Mike Mitchell Is Identified in Trump's Account as Both a Person Involved in Law Enforcement and a Person of Faith / Minister",
+      "claim": "Trump's on-air description characterizes the recognizing individual as a person involved in law enforcement and \"a person of faith, a minister,\" which the host maps to Mike Mitchell's known roles.",
+      "anchored_artifacts": [
+        "A-2296.1"
+      ],
+      "related_nodes": [
+        "N-1027"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:22",
+      "investigative_direction": "Verify Mike Mitchell's documented roles (Mormon minister, prior undercover work in sex crimes, family-friend relationship to Robinsons) via official biographies and law-enforcement employment records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3308",
+      "ref": "C-3308",
+      "label": "Blake Neff Publicly Asserted the Robinson Defense Does Not Contest Core Evidence",
+      "claim": "Blake Neff's tweet (read in full) asserts that the Tyler Robinson defense filing is \"very conspicuously not contesting any of the core evidence\" — specifically camera footage, DNA, the rifle, cause of death, and Robinson's phone data — and that the defense's only substantive challenge is to reliable hearsay.",
+      "anchored_artifacts": [
+        "A-2294.1"
+      ],
+      "related_nodes": [
+        "N-5",
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:07",
+      "investigative_direction": "Obtain the actual defense filing and compare verbatim to Neff's characterization; assess community-note rebuttal text shown in artifact."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3309",
+      "ref": "C-3309",
+      "label": "Hasan Piker Publicly Praised Candace Owens for Undermining Effort to \"Martyrize\" Charlie Kirk",
+      "claim": "In an audio clip, streamer Hasan Piker calls Candace Owens \"a queen\" who \"successfully and single-handedly undermined the Republican initiative to martyrize Charlie Kirk,\" while simultaneously stating his belief that Tyler Robinson likely did it.",
+      "anchored_artifacts": [
+        "A-2297.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1027",
+        "N-69",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:00",
+      "investigative_direction": "Verify the full unedited Piker stream segment and timestamp; cross-check against the Brandi Zadrozny article the host references."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3310",
+      "ref": "C-3310",
+      "label": "Blake Neff Publicly Characterized Candace Owens as a \"Gift\" to the Radical Left",
+      "claim": "Blake Neff's tweet (read in full) states that \"the radical pro-violence left knows exactly what a gift Candace and her ilk are to them,\" framing her investigative work on the Robinson case as materially assisting left-wing political interests.",
+      "anchored_artifacts": [
+        "A-2298.1"
+      ],
+      "related_nodes": [
+        "N-5",
+        "N-1207",
+        "N-1027"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:27",
+      "investigative_direction": "Confirm tweet text against archive (e.g., X/Twitter permanent-link capture) and identify any subsequent correction or community-note action."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3311",
+      "ref": "C-3311",
+      "label": "Where Forbidden Account Published a Matrix-Parody Video Repeating \"So What?\" Against Tyler Robinson Case Argumentation Standards",
+      "claim": "The Where Forbidden X/Instagram account published a short parody video using the Matrix red-pill/blue-pill framing to characterize reactions to the Robinson case, repeating \"so what?\" in response to \"positive evidence,\" \"appeal to emotion,\" and \"burden of proof.\"",
+      "anchored_artifacts": [
+        "A-2299.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:34",
+      "investigative_direction": "Confirm the original post URL and capture it before any takedown; identify creator if pseudonymous."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3312",
+      "ref": "C-3312",
+      "label": "Host's Government Source Places All SD Card and Laptop Activity Within ~10 Minutes of Charlie Kirk Being Struck",
+      "claim": "The host states, citing a government source she trusts, that the entire sequence — Terrell pocketing the SD card, racing to his laptop, and the apparent SD card insertion — occurred within approximately ten minutes of Charlie Kirk being shot.",
+      "anchored_artifacts": [
+        "A-2295.1"
+      ],
+      "related_nodes": [
+        "N-9",
+        "N-2207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:42",
+      "investigative_direction": "Cross-reference host's timeline against SBI / UPD / FBI event-time records and any device-timestamp metadata recoverable from Terrell's laptop."
+    }
+  ],
+  "memes": []
+}

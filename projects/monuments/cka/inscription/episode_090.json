@@ -1,0 +1,1301 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 90,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "ccc088e1afd1c59b5e5cc5c2b2958206b92ce5ce72a69a6b3b4672840c3aa324",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Episode 90 advances two distinct investigative threads within the Bride of Charlie series while devoting the latter third to non-investigative commentary on U.S. presidential rhetoric toward Pope Leo XIV. On the Tyler Robinson track, host Candace Owens presents and reads aloud from two court filings — the defense's Motion to Exclude Still Photography (filed March 30, 2026) and a state filing on forensic extractions of electronics — to argue that the federal arrest and booking timeline presented publicly is internally inconsistent with documentary timestamps. Specifically, the defense motion is read as showing Robinson being Mirandized at 6:25 p.m. on September 11, 2025, with attorney Doug Terry named, before the official public timeline indicates police had identified a suspect. A second filing excerpt is read aloud in which the state concedes it does not intend to offer forensic-extraction evidence from seized electronics at the preliminary hearing.\n\nOn the Turning Point USA / Erika Kirk track, the episode re-plays the Aspen audio clip of \"I appoint my wife to run Turning Point USA\" and presents host testimony that two Aspen-event donors contacted her to deny the statement occurred. The host also reads an Andrew Kolvet interview clip in which Kolvet admits pitches were received for a \"Charlie GPT\" product, and plays an internal Alliance Defending Freedom CEO video plus references an internal ADF board slide showing Daily Wire CEO Caleb Robinson on the board. Pope Leo XIV and Donald Trump are treated through artifact-anchored Truth Social posts, a papal video response, and a Trump press-conference clip defending an AI image. Structural importance: this episode formalizes the Tyler Robinson filing-timeline discrepancy as an artifact-anchored claim rather than a host inference and adds the federal forensic-extraction question to the registry.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1948",
+      "family_ref": "A-1948",
+      "bundle_name": "Tyler Robinson Court Filing Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1948.1",
+          "ref": "A-1948.1",
+          "description": "Motion to Exclude Still Photography (filed March 30, 2026)",
+          "related_claims": [
+            "C-2682",
+            "C-2683",
+            "C-2684"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-1218",
+            "N-1668"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:32–00:34:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1948.2",
+          "ref": "A-1948.2",
+          "description": "State Filing — Preliminary Hearing Evidence Notice (re: forensic extractions)",
+          "related_claims": [
+            "C-2684"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-1670"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:08–00:48:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1949",
+      "family_ref": "A-1949",
+      "bundle_name": "Aspen Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1949.1",
+          "ref": "A-1949.1",
+          "description": "Audio recording — \"I appoint my wife to run Turning Point USA if something happens to me\"",
+          "related_claims": [
+            "C-2685",
+            "C-2688"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-1669"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:25–00:13:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1950",
+      "family_ref": "A-1950",
+      "bundle_name": "Andrew Kolvet Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1950.1",
+          "ref": "A-1950.1",
+          "description": "Andrew Kolvet interview clip — \"Charlie GPT\" pitches & forcing Ben Shapiro interview",
+          "related_claims": [
+            "C-2686",
+            "C-2687"
+          ],
+          "related_nodes": [
+            "N-1212",
+            "N-1",
+            "N-1211",
+            "N-1672"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:17–00:14:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1951",
+      "family_ref": "A-1951",
+      "bundle_name": "Alliance Defending Freedom Internal Materials Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1951.1",
+          "ref": "A-1951.1",
+          "description": "ADF CEO internal video — discussing Candace Owens litigation coordination with Erika Kirk",
+          "related_claims": [
+            "C-2687"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-7",
+            "N-1234",
+            "N-1671"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:42–00:23:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1951.2",
+          "ref": "A-1951.2",
+          "description": "ADF internal board presentation slide — Caleb Robinson board seat",
+          "related_claims": [
+            "C-2688"
+          ],
+          "related_nodes": [
+            "N-1216",
+            "N-1234",
+            "N-1671"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:23:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1952",
+      "family_ref": "A-1952",
+      "bundle_name": "Trump Truth Social Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1952.1",
+          "ref": "A-1952.1",
+          "description": "Trump Truth Social post attacking Pope Leo XIV",
+          "related_claims": [
+            "C-2689"
+          ],
+          "related_nodes": [
+            "N-1214",
+            "N-1213"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:54–00:54:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1953",
+      "family_ref": "A-1953",
+      "bundle_name": "Pope Leo XIV Response Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1953.1",
+          "ref": "A-1953.1",
+          "description": "Pope Leo XIV video response — \"Blessed are the peacemakers\"",
+          "related_claims": [
+            "C-2690"
+          ],
+          "related_nodes": [
+            "N-1213",
+            "N-1214"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:57:23–00:58:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1954",
+      "family_ref": "A-1954",
+      "bundle_name": "Trump Press Conference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1954.1",
+          "ref": "A-1954.1",
+          "description": "Trump press conference defending AI image of himself as Jesus",
+          "related_claims": [
+            "C-2691"
+          ],
+          "related_nodes": [
+            "N-1214"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:59:24–01:01:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1955",
+      "family_ref": "A-1955",
+      "bundle_name": "Discord Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1955.1",
+          "ref": "A-1955.1",
+          "description": "Discord statement published in The Hill — September 12, 2025",
+          "related_claims": [
+            "C-2692"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-1233",
+            "N-1673"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:44–00:43:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1956",
+      "family_ref": "A-1956",
+      "bundle_name": "Tyler Robinson Search Warrant Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1956.1",
+          "ref": "A-1956.1",
+          "description": "Search warrant indicating 10:26 p.m. arrival at Washington County Sheriff's Office with parents",
+          "related_claims": [
+            "C-2693"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-1668"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1957",
+      "family_ref": "A-1957",
+      "bundle_name": "TPUSA Aspen Donor Communication Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1957.1",
+          "ref": "A-1957.1",
+          "description": "Donor communications from Aspen event attendees denying Charlie said the appointment quote",
+          "related_claims": [
+            "C-2694"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-1669"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:44–00:16:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Subject of Kolvet interview artifact (admission of forcing Ben interview) and host claims about ADF involvement.",
+      "related_artifacts": [
+        "A-1950.1"
+      ],
+      "related_claims": [
+        "C-2687"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1671"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Speaker in artifact A-1950.1; admitted receipt of Charlie GPT pitches.",
+      "related_artifacts": [
+        "A-1950.1"
+      ],
+      "related_claims": [
+        "C-2686"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1672"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Subject of Trump Truth Social post and papal response video.",
+      "related_artifacts": [
+        "A-1952.1",
+        "A-1953.1"
+      ],
+      "related_claims": [
+        "C-2689",
+        "C-2690"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Subject of Truth Social artifact, papal response artifact, and press-conference artifact.",
+      "related_artifacts": [
+        "A-1952.1",
+        "A-1953.1",
+        "A-1954.1"
+      ],
+      "related_claims": [
+        "C-2689",
+        "C-2690",
+        "C-2691"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Robinson's roommate; referenced in court-filing artifact and Discord statement.",
+      "related_artifacts": [
+        "A-1948.2",
+        "A-1955.1"
+      ],
+      "related_claims": [
+        "C-2684"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1670",
+        "N-1673"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Daily Wire CEO; artifact-anchored as holding ADF board seat.",
+      "related_artifacts": [
+        "A-1951.2"
+      ],
+      "related_claims": [
+        "C-2688"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1671"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Utah attorney named by Tyler Robinson during Mirandization in A-1948.1.",
+      "related_artifacts": [
+        "A-1948.1"
+      ],
+      "related_claims": [
+        "C-2683"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1668"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Investigative source whose filing discovery is referenced by host; no displayed artifact.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Referenced by host as ADF-connected (per insider emails); no direct artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "Subject of host's personal anecdote; no artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1221",
+      "ref": "N-1221",
+      "name": "Autopsy Record – Utah Privacy Statute Application",
+      "type": "investigation_target",
+      "description": "TPUSA figure referenced as press officer / video gatekeeper; no direct artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1222",
+      "ref": "N-1222",
+      "name": "Hospital Routing Anomaly",
+      "type": "investigation_target",
+      "description": "Referenced as Trump advisor; no artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1223",
+      "ref": "N-1223",
+      "name": "TPUSA Faith Packet / Israel References Claim",
+      "type": "investigation_target",
+      "description": "Referenced as Trump advisor; no artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1224",
+      "ref": "N-1224",
+      "name": "ADL–FBI Partnership Structure",
+      "type": "investigation_target",
+      "description": "Referenced in connection with Paula White prayer; no artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1225",
+      "ref": "N-1225",
+      "name": "Connecticut FBI Field Office Deployment Anomaly",
+      "type": "investigation_target",
+      "description": "Referenced as giving press conference about 9 p.m. arrival; no artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1226",
+      "ref": "N-1226",
+      "name": "Tyler Robinson Defense Selection Anomaly",
+      "type": "investigation_target",
+      "description": "Referenced as claiming \"33rd hour\" booking; no artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1227",
+      "ref": "N-1227",
+      "name": "Witness and Public-Figure Demeanor Anomalies",
+      "type": "investigation_target",
+      "description": "Referenced in connection with 8 p.m. press conference; no artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1228",
+      "ref": "N-1228",
+      "name": "SD Card Removal Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Referenced as FBI official at Utah press conference; no artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1229",
+      "ref": "N-1229",
+      "name": "Pre-Assassination Group Chat Content",
+      "type": "investigation_target",
+      "description": "Referenced as the intermediary calling Sheriff Broxby about Robinson's surrender; no artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1230",
+      "ref": "N-1230",
+      "name": "Charlie Kirk Catholic Trajectory Verification",
+      "type": "investigation_target",
+      "description": "Referenced as Utah County Sheriff receiving call from Broxby; no artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1231",
+      "ref": "N-1231",
+      "name": "Campus Footage Release Strategy Question",
+      "type": "investigation_target",
+      "description": "Referenced as media figure commenting on Mark Levin and Erika Kirk; no direct artifact.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1232",
+      "ref": "N-1232",
+      "name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
+      "type": "investigation_target",
+      "description": "Referenced as arriving on scene with Kash Patel; no artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1233",
+      "ref": "N-1233",
+      "name": "Tyler Bowyer X Defense Pattern",
+      "type": "investigation_target",
+      "description": "Institutional subject of A-1955.1 statement.",
+      "related_artifacts": [
+        "A-1955.1"
+      ],
+      "related_claims": [
+        "C-2692"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-69",
+        "N-1673"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1234",
+      "ref": "N-1234",
+      "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
+      "type": "investigation_target",
+      "description": "Institutional subject of A-1951.1 and A-1951.2.",
+      "related_artifacts": [
+        "A-1951.1",
+        "A-1951.2"
+      ],
+      "related_claims": [
+        "C-2687",
+        "C-2688"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1211",
+        "N-1216",
+        "N-1219",
+        "N-1671"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1235",
+      "ref": "N-1235",
+      "name": "Josh Hammer Pre-Death Zoom Call Verification",
+      "type": "investigation_target",
+      "description": "Referenced as former Daily Wire CEO on Piers Morgan; no artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1668",
+      "ref": "N-1668",
+      "name": "Tyler Robinson Filing Timeline Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent inconsistency between defense-motion timestamps, search-warrant timestamps, and publicly reported federal booking timeline.",
+      "related_artifacts": [
+        "A-1948.1",
+        "A-1956.1"
+      ],
+      "related_claims": [
+        "C-2682",
+        "C-2693"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-69",
+        "N-1217"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1669",
+      "ref": "N-1669",
+      "name": "Aspen Donor Inconsistency",
+      "type": "investigation_target",
+      "description": "Host's claim that two Aspen-event donors deny the audio quote occurred at the event; audio vs. donor memory discrepancy.",
+      "related_artifacts": [
+        "A-1949.1",
+        "A-1957.1"
+      ],
+      "related_claims": [
+        "C-2685",
+        "C-2694"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1670",
+      "ref": "N-1670",
+      "name": "Forensic Extraction Evidence Presentation Question",
+      "type": "investigation_target",
+      "description": "State's stated intention not to offer forensic-extraction evidence from seized electronics at preliminary hearing.",
+      "related_artifacts": [
+        "A-1948.2"
+      ],
+      "related_claims": [
+        "C-2684"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-69",
+        "N-1215"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1671",
+      "ref": "N-1671",
+      "name": "Ben Shapiro / Daily Wire Influence on Alliance Defending Freedom",
+      "type": "investigation_target",
+      "description": "Pattern of host assertions regarding Daily Wire personnel at ADF and ADF litigation coordination with Erika Kirk.",
+      "related_artifacts": [
+        "A-1951.1",
+        "A-1951.2"
+      ],
+      "related_claims": [
+        "C-2687",
+        "C-2688"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1211",
+        "N-1216",
+        "N-1219",
+        "N-1234"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1672",
+      "ref": "N-1672",
+      "name": "Charlie GPT Pitch Question",
+      "type": "investigation_target",
+      "description": "Admitted pre-death pitches for AI \"Charlie GPT\" product and host's open question about whether a pitch was accepted.",
+      "related_artifacts": [
+        "A-1950.1"
+      ],
+      "related_claims": [
+        "C-2686"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1212",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1673",
+      "ref": "N-1673",
+      "name": "Lance Twiggs Federal Asset Question",
+      "type": "investigation_target",
+      "description": "Host's speculative but anchored concern regarding Lance Twiggs's status in light of Discord statement and Robinson's relationship.",
+      "related_artifacts": [
+        "A-1948.2",
+        "A-1955.1"
+      ],
+      "related_claims": [
+        "C-2692"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-69",
+        "N-1215",
+        "N-1233"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2682",
+      "ref": "C-2682",
+      "label": "Tyler Robinson Mirandized at 6:25 p.m. on September 11",
+      "claim": "The defense Motion to Exclude Still Photography records a Miranda advisement at the 3-hour-36-minute mark of an interview video, which the host identifies as 6:25 p.m. on September 11, 2025.",
+      "anchored_artifacts": [
+        "A-1948.1"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1217",
+        "N-1668"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:31",
+      "investigative_direction": "Obtain certified copy of motion and underlying video exhibit; cross-reference timestamp with booking and arrest records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2683",
+      "ref": "C-2683",
+      "label": "Tyler Robinson requested attorney Doug Terry during Mirandization",
+      "claim": "During the recorded Mirandization referenced in A-1948.1, Robinson asked to speak with attorney Doug Terry and noted Terry's office was closed.",
+      "anchored_artifacts": [
+        "A-1948.1"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1217"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:31",
+      "investigative_direction": "Verify attorney representation records and the authenticity of the cited interview timestamp."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2684",
+      "ref": "C-2684",
+      "label": "State does not intend to offer forensic-extraction evidence at preliminary hearing",
+      "claim": "In a state filing on preliminary-hearing evidence, the prosecution states it does not intend to offer evidence obtained through forensic extractions of electronics seized in the case, while reserving the right to show photographs of text-message contents captured from a device.",
+      "anchored_artifacts": [
+        "A-1948.2"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1215",
+        "N-1670"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:08",
+      "investigative_direction": "Obtain the underlying filing directly and confirm language; assess chain-of-custody implications."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2685",
+      "ref": "C-2685",
+      "label": "Aspen audio contains the statement \"I appoint my wife to run Turning Point USA if something happens to me\"",
+      "claim": "An audio recording played in the episode contains the phrase \"I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job.\"",
+      "anchored_artifacts": [
+        "A-1949.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1669"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:25",
+      "investigative_direction": "Authenticate timestamp, venue, and speakers; obtain the unredacted video referenced by Turning Point USA."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2686",
+      "ref": "C-2686",
+      "label": "Andrew Kolvet stated pitches were received for \"Charlie GPT\"",
+      "claim": "In a recorded interview clip, Andrew Kolvet states that pitches for a \"Charlie GPT\" product were received multiple times.",
+      "anchored_artifacts": [
+        "A-1950.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1",
+        "N-1672"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:17",
+      "investigative_direction": "Identify the date and outlet of the interview; obtain full interview transcript; verify whether any pitch was accepted."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2687",
+      "ref": "C-2687",
+      "label": "ADF CEO acknowledged in internal video coordination with Erika Kirk regarding Candace Owens litigation",
+      "claim": "An internal Alliance Defending Freedom CEO video played in the episode references working with Erika Kirk's team on litigation strategy concerning Candace Owens.",
+      "anchored_artifacts": [
+        "A-1951.1"
+      ],
+      "related_nodes": [
+        "N-1234",
+        "N-2",
+        "N-7",
+        "N-1671"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:42",
+      "investigative_direction": "Authenticate the internal video; obtain the underlying ADF board materials."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2688",
+      "ref": "C-2688",
+      "label": "Caleb Robinson holds a board seat at Alliance Defending Freedom",
+      "claim": "According to host testimony supported by an ADF internal presentation, Daily Wire CEO Caleb Robinson sits on the ADF board of directors (one of approximately eight seats).",
+      "anchored_artifacts": [
+        "A-1951.2"
+      ],
+      "related_nodes": [
+        "N-1216",
+        "N-1234",
+        "N-1671"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:21",
+      "investigative_direction": "Cross-check ADF public filings (Form 990, board roster) for Caleb Robinson's name and tenure."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2689",
+      "ref": "C-2689",
+      "label": "Trump posted on Truth Social attacking Pope Leo XIV as weak on crime",
+      "claim": "A Trump Truth Social post is read aloud in the episode calling Pope Leo XIV \"weak on crime\" and criticizing the Pope's positions on Iran, Venezuela, and criticism of the President.",
+      "anchored_artifacts": [
+        "A-1952.1"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-1213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:54",
+      "investigative_direction": "Retrieve the original Truth Social post and engagement metrics."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2690",
+      "ref": "C-2690",
+      "label": "Pope Leo XIV publicly responded with the message \"blessed are the peacemakers\"",
+      "claim": "In a video response played in the episode, Pope Leo XIV states his message is \"blessed are the peacemakers\" and that he does not view his role as political.",
+      "anchored_artifacts": [
+        "A-1953.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-1214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:23",
+      "investigative_direction": "Obtain the original Vatican source video and transcript."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2691",
+      "ref": "C-2691",
+      "label": "Trump defended the AI image of himself as Jesus by claiming he thought it depicted him as a doctor",
+      "claim": "In a press-conference clip, Trump defends the AI image of himself as Jesus by stating he thought it depicted him as a doctor / Red Cross worker.",
+      "anchored_artifacts": [
+        "A-1954.1"
+      ],
+      "related_nodes": [
+        "N-1214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:24",
+      "investigative_direction": "Verify clip against White House press transcript."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2692",
+      "ref": "C-2692",
+      "label": "Discord publicly stated no evidence Robinson planned the incident on Discord",
+      "claim": "A Discord statement published in The Hill on September 12, 2025, asserts that Discord identified an account associated with the suspect but found no evidence the suspect planned the incident or promoted violence on Discord.",
+      "anchored_artifacts": [
+        "A-1955.1"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1215",
+        "N-1233",
+        "N-1673"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:44",
+      "investigative_direction": "Retrieve the original Discord statement and The Hill article for exact text."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2693",
+      "ref": "C-2693",
+      "label": "Search warrant records Tyler Robinson arriving at Washington County Sheriff's Office at 10:26 p.m. with parents",
+      "claim": "Host references a search warrant indicating Tyler Robinson arrived at the Washington County Sheriff's Office at 10:26 p.m. with his parents.",
+      "anchored_artifacts": [
+        "A-1956.1"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1668"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:19",
+      "investigative_direction": "Obtain the search warrant docket entry and verify exact time/date stamps."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2694",
+      "ref": "C-2694",
+      "label": "Two Aspen donors told host Charlie never made the appointment statement at the event",
+      "claim": "Host testifies that two TPUSA donors who attended the Aspen investor retreat contacted her to state that Charlie Kirk did not make the \"I appoint my wife\" statement at that event, and that Erika Kirk was not mentioned in a smaller follow-up dinner.",
+      "anchored_artifacts": [
+        "A-1957.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1669"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:25–00:16:01",
+      "investigative_direction": "Identify and contact the donors for recorded testimony; obtain any contemporaneous notes or attendee lists."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2688",
+      "ref": "C-2688",
+      "label": "(supplemental, omitted — already listed)",
+      "claim": "",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": []
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2695",
+      "ref": "C-2695",
+      "label": "State claims forensic photographs of Lance Twiggs phone contents will be offered in lieu of forensic extraction",
+      "claim": "Per the filing excerpt read aloud, the state intends to offer two exhibits that used cameras to record the contents of text messages, rather than forensic-extraction evidence.",
+      "anchored_artifacts": [
+        "A-1948.2"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1215",
+        "N-1670",
+        "N-1673"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:50",
+      "investigative_direction": "Obtain filing directly; assess admissibility standards for photographs-vs-forensic-extraction under Utah rules of evidence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2696",
+      "ref": "C-2696",
+      "label": "Trump-Pope confrontation occurred during Easter 2026",
+      "claim": "Host places the Trump Truth Social attack on Pope Leo XIV and the papal response during the Easter period.",
+      "anchored_artifacts": [
+        "A-1952.1",
+        "A-1953.1"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-1213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:46–00:58:29",
+      "investigative_direction": "Cross-reference dates with Vatican liturgical calendar and Truth Social post timestamps."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2697",
+      "ref": "C-2697",
+      "label": "Host contends federal investigation shows pattern of altered public statements",
+      "claim": "Host asserts (based on the Discord statement and subsequent federal characterization) that the federal government initially described the messages as Discord and later revised the description to iMessage.",
+      "anchored_artifacts": [
+        "A-1955.1"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1215",
+        "N-1233",
+        "N-1673"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:32",
+      "investigative_direction": "Obtain all federal court filings referencing the messaging platform used; compare earliest FBI statements with later court filings."
+    }
+  ],
+  "memes": []
+}

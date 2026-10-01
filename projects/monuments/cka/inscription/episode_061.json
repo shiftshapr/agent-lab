@@ -1,0 +1,1155 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 61,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "736008f55f0ceabc1d5654cd9436f3367fc919e2bfaca0ad6647aa8c3f74d006",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode centers on a cease-and-desist letter sent to Candace Owens by Turning Point USA, dated approximately January 19–20, 2026, which she reads aloud on air. The letter asserts that Owens remains bound by a 12-month non-disparagement clause following termination of her speaking agreement on December 2, 2025, and demands she cease stating or implying TPUSA or its personnel played any part in, knew about, or covered up the Kirk assassination. The letter also cites her allegations of \"financial impropriety,\" claims that TPUSA Faith was \"infiltrated by military operatives,\" and a request to retract \"disparaging\" statements. Owens frames the letter as confirmation of a money motive, citing a prior on-air remark by Tim Dylan read into the record.\n\nTwo non-TPUSA pop-culture segments introduce additional evidentiary bundles: Brooklyn Beckham's Instagram Stories (read aloud) blasting his family over Nicola Peltz's wedding dress and brand-rights dispute, paired with excerpts from a Vogue wedding article read aloud to contest Beckham's \"hijacked first dance\" claim; and Taylor Swift's December 2024 text messages to Blake Lively concerning Justin Baldoni, read aloud in the context of the Lively–Baldoni litigation. A brief Aspen donor-recall update is also presented.\n\nThe episode advances the Kirk investigation primarily through the TPUSA letter artifact, which constitutes a documentary position by TPUSA legal counsel that materially conflicts with Owens's stated obligations under the contract. Structural importance: high — this is the first on-air production of the TPUSA legal correspondence and creates a formal record of TPUSA's stated scope of prohibited speech.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1661",
+      "family_ref": "A-1661",
+      "bundle_name": "Turning Point USA Cease and Desist Letter Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1661.1",
+          "ref": "A-1661.1",
+          "description": "Cease and Desist Letter from Turning Point USA counsel to Candace Owens, dated approximately January 19–20, 2026",
+          "related_claims": [
+            "C-2158",
+            "C-2159",
+            "C-2160",
+            "C-2161",
+            "C-2162",
+            "C-2163",
+            "C-2164",
+            "C-2165",
+            "C-2169"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-776",
+            "N-85",
+            "N-1503",
+            "N-1504",
+            "N-1506",
+            "N-1507"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:17–00:15:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1662",
+      "family_ref": "A-1662",
+      "bundle_name": "Tim Dylan Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1662.1",
+          "ref": "A-1662.1",
+          "description": "Tim Dylan on-air clip asserting TPUSA is primarily motivated by money/revenue from Candace's audience",
+          "related_claims": [
+            "C-2166",
+            "C-2167"
+          ],
+          "related_nodes": [
+            "N-769",
+            "N-1503",
+            "N-1504"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1663",
+      "family_ref": "A-1663",
+      "bundle_name": "Brooklyn Beckham Instagram Stories Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1663.1",
+          "ref": "A-1663.1",
+          "description": "Brooklyn Beckham's public Instagram Stories read on-air, in which he states he does not wish to reconcile with his family and details grievances including Nicola Peltz's cancelled dress, brand-rights pressure, seating dispute, alleged \"evil\" remark, and a claimed hijacked first dance",
+          "related_claims": [
+            "C-2171",
+            "C-2172",
+            "C-2173",
+            "C-2174",
+            "C-2175"
+          ],
+          "related_nodes": [
+            "N-770",
+            "N-771",
+            "N-772"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:18–00:40:27",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1664",
+      "family_ref": "A-1664",
+      "bundle_name": "Vogue Beckham–Peltz Wedding Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1664.1",
+          "ref": "A-1664.1",
+          "description": "Vogue article on the Beckham–Peltz wedding read on-air, describing the ceremony, dinner, three-dance sequence, and Mark Anthony's late-night DJ set beginning at 11 p.m.",
+          "related_claims": [
+            "C-2176",
+            "C-2177"
+          ],
+          "related_nodes": [
+            "N-770",
+            "N-771",
+            "N-772",
+            "N-773"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:09–00:43:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1665",
+      "family_ref": "A-1665",
+      "bundle_name": "Taylor Swift Text Messages Bundle (Baldoni / Lively matter)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1665.1",
+          "ref": "A-1665.1",
+          "description": "Taylor Swift text messages to Blake Lively released in the Baldoni–Lively litigation, read on-air, including the December 2024 reference to Justin Baldoni's \"tiny violin\"",
+          "related_claims": [
+            "C-2178"
+          ],
+          "related_nodes": [
+            "N-774",
+            "N-775",
+            "N-776"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:00–00:00:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1666",
+      "family_ref": "A-1666",
+      "bundle_name": "British Comedians Reaction Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1666.1",
+          "ref": "A-1666.1",
+          "description": "Two-woman British-accent reaction clip directed at Brooklyn Beckham (\"go to bed,\" \"put it down\"), played on-air",
+          "related_claims": [],
+          "related_nodes": [
+            "N-770"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:54:09–00:54:57",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1667",
+      "family_ref": "A-1667",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1667.1",
+          "ref": "A-1667.1",
+          "description": "On-screen viewer comments read aloud during the comments chapter, including the top comment from the prior episode regarding firings at TPUSA, comments on the Lively texts, and commentary on the lawsuit",
+          "related_claims": [
+            "C-2180"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-774",
+            "N-775"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:06:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1668",
+      "family_ref": "A-1668",
+      "bundle_name": "Aspen Donor Testimonial Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1668.1",
+          "ref": "A-1668.1",
+          "description": "Host's verbal account of a donor present at the Aspen event who recalls Charlie Kirk saying, in effect, that if something happened, Erica Kirk would \"know what to do\"",
+          "related_claims": [
+            "C-2181"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-1508"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:58:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-769",
+      "ref": "N-769",
+      "name": "Tim Dylan",
+      "type": "person",
+      "description": "Comedian whose on-air assessment that TPUSA is primarily motivated by money is read into the episode record and adopted by the host.",
+      "related_artifacts": [
+        "A-1662.1"
+      ],
+      "related_claims": [
+        "C-2166",
+        "C-2167"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-770",
+      "ref": "N-770",
+      "name": "Brooklyn Beckham",
+      "type": "person",
+      "description": "Source of the Instagram Stories artifact detailing family estrangement allegations.",
+      "related_artifacts": [
+        "A-1663.1",
+        "A-1664.1",
+        "A-1666.1"
+      ],
+      "related_claims": [
+        "C-2171",
+        "C-2172",
+        "C-2173",
+        "C-2174",
+        "C-2175"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-771",
+        "N-772"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-771",
+      "ref": "N-771",
+      "name": "Nicola Peltz",
+      "type": "person",
+      "description": "Spouse of Brooklyn Beckham; central figure in the wedding-dress and brand-rights grievance as recounted via A-1663.1.",
+      "related_artifacts": [
+        "A-1663.1",
+        "A-1664.1"
+      ],
+      "related_claims": [
+        "C-2172"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-770",
+        "N-772",
+        "N-778"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-772",
+      "ref": "N-772",
+      "name": "Victoria Beckham",
+      "type": "person",
+      "description": "Mother of Brooklyn Beckham; subject of multiple allegations in Brooklyn's IG stories and a participant in the Vogue-reported wedding timeline.",
+      "related_artifacts": [
+        "A-1663.1",
+        "A-1664.1"
+      ],
+      "related_claims": [
+        "C-2172",
+        "C-2174",
+        "C-2175"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-770"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-773",
+      "ref": "N-773",
+      "name": "David Beckham",
+      "type": "person",
+      "description": "Father of Brooklyn Beckham; appears in the Vogue article's account of the wedding speeches.",
+      "related_artifacts": [
+        "A-1664.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-770",
+        "N-772"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-774",
+      "ref": "N-774",
+      "name": "Blake Lively",
+      "type": "person",
+      "description": "Named party in the Baldoni litigation; text-message correspondent with Taylor Swift per A-1665.1.",
+      "related_artifacts": [
+        "A-1665.1",
+        "A-1667.1"
+      ],
+      "related_claims": [
+        "C-2178",
+        "C-2179"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-775",
+        "N-776"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-775",
+      "ref": "N-775",
+      "name": "Justin Baldoni",
+      "type": "person",
+      "description": "Named party in the Lively litigation; subject of Taylor Swift's December 2024 text per A-1665.1.",
+      "related_artifacts": [
+        "A-1665.1"
+      ],
+      "related_claims": [
+        "C-2178"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-774",
+        "N-776"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-776",
+      "ref": "N-776",
+      "name": "Taylor Swift",
+      "type": "person",
+      "description": "Correspondent in the released text messages and subject of the host's strategic assessment.",
+      "related_artifacts": [
+        "A-1661.1",
+        "A-1665.1"
+      ],
+      "related_claims": [
+        "C-2178"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-774",
+        "N-775"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-778",
+      "ref": "N-778",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Figure associated with TPUSA Faith; named by host as defending a person convicted of child molestation.",
+      "related_artifacts": [
+        "A-1661.1"
+      ],
+      "related_claims": [
+        "C-2170"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1507"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-779",
+      "ref": "N-779",
+      "name": "Andrew Kovat (name uncertainty flagged)",
+      "type": "person",
+      "description": "Spokesperson-adjacent TPUSA figure referenced by host as a candidate for a future on-air appearance and as a recipient of allegedly self-incriminating messages. Name spelling uncertain — transcript shows \"Kovat,\" \"Kovette,\" and \"Kovat\" variants.",
+      "related_artifacts": [
+        "A-1661.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1503"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-780",
+      "ref": "N-780",
+      "name": "Justin Strife (name uncertainty flagged)",
+      "type": "person",
+      "description": "TPUSA executive reported by host as participating in a sit-down with Owens and Erica Kirk to discuss Owens's allegations. First-name spelling uncertain.",
+      "related_artifacts": [
+        "A-1661.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2",
+        "N-1503"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-781",
+      "ref": "N-781",
+      "name": "Stacy Sheridan",
+      "type": "person",
+      "description": "TPUSA figure named in host's call for donations to TPUSA.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1503"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1503",
+      "ref": "N-1503",
+      "name": "TPUSA Non-Disparagement Enforcement Campaign",
+      "type": "investigation_target",
+      "description": "Persistent effort by Turning Point USA to invoke a 12-month post-termination non-disparagement clause to silence Owens's investigation-related commentary.",
+      "related_artifacts": [
+        "A-1661.1",
+        "A-1662.1"
+      ],
+      "related_claims": [
+        "C-2158",
+        "C-2159",
+        "C-2160",
+        "C-2163",
+        "C-2164",
+        "C-2165",
+        "C-2166",
+        "C-2167"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-776",
+        "N-85",
+        "N-779",
+        "N-780",
+        "N-781"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1504",
+      "ref": "N-1504",
+      "name": "TPUSA Financial Impropriety Allegations",
+      "type": "investigation_target",
+      "description": "Persistent allegation that TPUSA engaged in financial impropriety, formally cited in the cease and desist letter and attributed by host to DOGE-style scrutiny.",
+      "related_artifacts": [
+        "A-1661.1",
+        "A-1662.1"
+      ],
+      "related_claims": [
+        "C-2162",
+        "C-2167"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1505"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1505",
+      "ref": "N-1505",
+      "name": "Charlie Kirk DOGE Pre-Death Establishment",
+      "type": "investigation_target",
+      "description": "Host's claim that Charlie Kirk established a \"DOGE\" (Department of Government Efficiency-style entity) seven days before his death, framed as a possible motive for financial scrutiny.",
+      "related_artifacts": [
+        "A-1661.1"
+      ],
+      "related_claims": [
+        "C-2169"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-1504"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1506",
+      "ref": "N-1506",
+      "name": "Fort Wuka Erika Kirk Location Investigation",
+      "type": "investigation_target",
+      "description": "Persistent allegation referenced in the cease and desist letter that Owens claims Erika Kirk was present at or near a \"secret meeting\" at Fort Wuka linked to the Kirk assassination.",
+      "related_artifacts": [
+        "A-1661.1"
+      ],
+      "related_claims": [
+        "C-2161"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1507",
+      "ref": "N-1507",
+      "name": "TPUSA Faith Military Infiltration Claim",
+      "type": "investigation_target",
+      "description": "Allegation cited in the TPUSA letter — that Owens claimed TPUSA and TPUSA Faith were infiltrated by military operatives.",
+      "related_artifacts": [
+        "A-1661.1"
+      ],
+      "related_claims": [
+        "C-2161",
+        "C-2170"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-778"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1508",
+      "ref": "N-1508",
+      "name": "Aspen Donor Recall Verification",
+      "type": "investigation_target",
+      "description": "Verification target arising from an unnamed Aspen-event donor's recollection, relayed by host, that Charlie Kirk referenced Erica Kirk as someone who would \"know what to do\" if something happened.",
+      "related_artifacts": [
+        "A-1668.1"
+      ],
+      "related_claims": [
+        "C-2181"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Governor Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2158",
+      "ref": "C-2158",
+      "label": "TPUSA cease and desist letter sent approximately January 19–20, 2026",
+      "claim": "Turning Point USA, through counsel, sent a cease and desist letter to Candace Owens approximately January 19–20, 2026.",
+      "anchored_artifacts": [
+        "A-1661.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1503"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:13",
+      "investigative_direction": "Obtain a certified copy of the letter with counsel's signature block and service date to verify the precise transmission date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2159",
+      "ref": "C-2159",
+      "label": "TPUSA demands cessation of statements implying TPUSA involvement in Kirk assassination",
+      "claim": "The TPUSA letter demands that Owens cease stating or implying that TPUSA or its personnel played any part in, knew about beforehand, participated in the day of, or covered up the truth about the Kirk assassination.",
+      "anchored_artifacts": [
+        "A-1661.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1503"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:10–00:15:10",
+      "investigative_direction": "Compare the prohibited scope articulated in the letter with Owens's prior on-air statements to identify specific statements TPUSA considers actionable."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2160",
+      "ref": "C-2160",
+      "label": "TPUSA alleges Owens accused employee of evasiveness re Erika Kirk at \"Fort Wuka\"",
+      "claim": "The TPUSA letter alleges that Owens accused a TPUSA employee of being \"intentionally evasive\" about whether Erica Kirk was at \"Fort Wuka\" in or around an alleged secret meeting Owens has linked to the assassination.",
+      "anchored_artifacts": [
+        "A-1661.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1506"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:00–00:14:10",
+      "investigative_direction": "Identify the unnamed TPUSA employee, obtain the underlying correspondence, and verify whether any Fort Wuka meeting is independently documented."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2161",
+      "ref": "C-2161",
+      "label": "TPUSA alleges Owens claimed TPUSA Faith infiltrated by military operatives",
+      "claim": "The TPUSA letter alleges that Owens claimed there are \"not good people\" at TPUSA and suggested that TPUSA and TPUSA Faith have been infiltrated by military operatives.",
+      "anchored_artifacts": [
+        "A-1661.1"
+      ],
+      "related_nodes": [
+        "N-778",
+        "N-1507"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:24–00:13:19",
+      "investigative_direction": "Identify the specific personnel Owens considers \"military operatives\" and determine whether any verifiable affiliation exists."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2162",
+      "ref": "C-2162",
+      "label": "TPUSA alleges Owens stated \"definitely financial impropriety\" at TPUSA",
+      "claim": "The TPUSA letter alleges that Owens \"has stated that there is definitely financial impropriety at the company.\"",
+      "anchored_artifacts": [
+        "A-1661.1"
+      ],
+      "related_nodes": [
+        "N-1504"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:50–00:11:31",
+      "investigative_direction": "Compare the TPUSA letter's characterization with Owens's actual on-air wording to assess whether the paraphrase is fair."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2163",
+      "ref": "C-2163",
+      "label": "TPUSA alleges Owens published a \"list of lies\" attributed to TPUSA",
+      "claim": "The TPUSA letter alleges that Owens has published a \"list of lies\" that she attributes to Turning Point USA.",
+      "anchored_artifacts": [
+        "A-1661.1"
+      ],
+      "related_nodes": [
+        "N-1503",
+        "N-1504"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:50–00:11:31",
+      "investigative_direction": "Identify the specific published list and each underlying claim to determine which items TPUSA disputes."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2164",
+      "ref": "C-2164",
+      "label": "TPUSA states 12-month non-disparagement obligation remains in effect post-termination",
+      "claim": "The TPUSA letter states that Owens's non-disparagement obligation remains in effect for 12 months following the term of her agreements, which were terminated on December 2, 2025.",
+      "anchored_artifacts": [
+        "A-1661.1"
+      ],
+      "related_nodes": [
+        "N-1503"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:53–00:10:50",
+      "investigative_direction": "Obtain the executed speaking agreement to verify the existence, scope, and duration of the non-disparagement clause."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2165",
+      "ref": "C-2165",
+      "label": "TPUSA alleges Owens declined retraction on December 15, 2025",
+      "claim": "The TPUSA letter states that Owens was requested on December 15, 2025, to retract her disparaging statements and declined to do so.",
+      "anchored_artifacts": [
+        "A-1661.1"
+      ],
+      "related_nodes": [
+        "N-1503"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:25–00:09:12",
+      "investigative_direction": "Obtain the December 15, 2025 communication and any prior December 2 and December 4 letters referenced in the cease and desist."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2166",
+      "ref": "C-2166",
+      "label": "Tim Dylan assessed TPUSA as primarily motivated by money",
+      "claim": "Tim Dylan stated on-air that TPUSA is primarily motivated by money — specifically, that they are \"mad\" because Owens told her audience not to give TPUSA money.",
+      "anchored_artifacts": [
+        "A-1662.1"
+      ],
+      "related_nodes": [
+        "N-769",
+        "N-1503",
+        "N-1504"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:39",
+      "investigative_direction": "Identify the original Tim Dylan episode and timestamp for the quoted clip."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2167",
+      "ref": "C-2167",
+      "label": "Candace Owens concurs with Tim Dylan's money-motive assessment",
+      "claim": "Owens adopts Tim Dylon's assessment that TPUSA's principal concern is money/revenue, citing the cease and desist as confirmation.",
+      "anchored_artifacts": [
+        "A-1661.1",
+        "A-1662.1"
+      ],
+      "related_nodes": [
+        "N-769",
+        "N-1503",
+        "N-1504"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:39–00:06:17",
+      "investigative_direction": "Track whether TPUSA's subsequent filings cite financial damages as a measurable injury."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2168",
+      "ref": "C-2168",
+      "label": "Owens states speaking arrangement with TPUSA began ~2019–2020",
+      "claim": "Owens states she has had a speaking contract with Turning Point USA \"going back to like 2019, 2020.\"",
+      "anchored_artifacts": [
+        "A-1661.1"
+      ],
+      "related_nodes": [
+        "N-1503"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:17–00:07:37",
+      "investigative_direction": "Obtain the original contract and any amendments to verify the start date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2169",
+      "ref": "C-2169",
+      "label": "Owens states her TPUSA speaking contract was terminated December 2, 2025",
+      "claim": "Owens states her speaking arrangement with TPUSA was terminated effective December 2, 2025.",
+      "anchored_artifacts": [
+        "A-1661.1"
+      ],
+      "related_nodes": [
+        "N-1503"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:17–00:07:37",
+      "investigative_direction": "Cross-reference with the cease and desist letter's stated termination date and obtain a termination confirmation document."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2170",
+      "ref": "C-2170",
+      "label": "Owens claims Rob McCoy defended a person who was imprisoned for child molestation",
+      "claim": "Owens states that Rob McCoy is \"defending somebody who went to prison for molesting kids.\"",
+      "anchored_artifacts": [
+        "A-1661.1"
+      ],
+      "related_nodes": [
+        "N-778",
+        "N-1507"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:24–00:13:19",
+      "investigative_direction": "Identify the specific individual and case to which Owens refers."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2171",
+      "ref": "C-2171",
+      "label": "Brooklyn Beckham publicly states he does not wish to reconcile with his family",
+      "claim": "Brooklyn Beckham, via Instagram Stories, states \"I do not want to reconcile with my family.\"",
+      "anchored_artifacts": [
+        "A-1663.1"
+      ],
+      "related_nodes": [
+        "N-770",
+        "N-772"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:18",
+      "investigative_direction": "Obtain the original Stories frames before deletion if preservation has not yet occurred."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2172",
+      "ref": "C-2172",
+      "label": "Brooklyn claims Victoria Beckham cancelled making Nicola's wedding dress in the 11th hour",
+      "claim": "Brooklyn Beckham alleges that his mother cancelled making Nicola Peltz's dress shortly before the wedding, forcing an urgent replacement.",
+      "anchored_artifacts": [
+        "A-1663.1"
+      ],
+      "related_nodes": [
+        "N-770",
+        "N-771",
+        "N-772"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:14–00:37:33",
+      "investigative_direction": "Obtain any contemporaneous communications or receipts relevant to the dress commission timeline."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2173",
+      "ref": "C-2173",
+      "label": "Brooklyn claims family pressured him to sign away rights to his name before the wedding",
+      "claim": "Brooklyn Beckham alleges that his parents \"repeatedly pressured and attempted to bribe me into signing away the rights to my name\" before his wedding.",
+      "anchored_artifacts": [
+        "A-1663.1"
+      ],
+      "related_nodes": [
+        "N-770",
+        "N-772",
+        "N-773"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:14–00:37:33",
+      "investigative_direction": "Identify and obtain any proposed trademark or brand-rights agreements between Beckham family entities and Brooklyn Beckham dated to the wedding window."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2174",
+      "ref": "C-2174",
+      "label": "Brooklyn claims mother called him \"evil\" at the wedding over seating",
+      "claim": "Brooklyn Beckham alleges his mother called him \"evil\" because he and Nicola chose to seat their nannies' widowed grandparents at the head table.",
+      "anchored_artifacts": [
+        "A-1663.1"
+      ],
+      "related_nodes": [
+        "N-770",
+        "N-772"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:22",
+      "investigative_direction": "Identify any wedding guests who can corroborate or rebut the alleged remark."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2175",
+      "ref": "C-2175",
+      "label": "Brooklyn claims mother hijacked his first dance with his wife",
+      "claim": "Brooklyn Beckham alleges that his mother, called to the stage by Marc Anthony, hijacked what had been planned as his romantic first dance with Nicola.",
+      "anchored_artifacts": [
+        "A-1663.1",
+        "A-1664.1"
+      ],
+      "related_nodes": [
+        "N-770",
+        "N-772",
+        "N-85"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:27–00:41:23",
+      "investigative_direction": "Compare the IG-stories allegation against the Vogue article's documented dance sequence, which describes a separate first dance to \"Only Fools Rush In\" preceding the alleged late-night incident."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2176",
+      "ref": "C-2176",
+      "label": "Vogue reports first dance was to \"Only Fools Rush In\" performed by Lizo",
+      "claim": "The Vogue wedding article reports that the first dance between Brooklyn and Nicola was to \"Only Fools Rush In,\" performed by South African artist Lizo.",
+      "anchored_artifacts": [
+        "A-1664.1"
+      ],
+      "related_nodes": [
+        "N-770",
+        "N-771",
+        "N-772",
+        "N-773"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:09–00:43:16",
+      "investigative_direction": "Cross-reference with the original Vogue article text and any available wedding video."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2177",
+      "ref": "C-2177",
+      "label": "Vogue reports Marc Anthony performed at late-night portion of wedding (11 p.m.)",
+      "claim": "The Vogue wedding article reports that Marc Anthony took over the DJ decks at 11 p.m. to close out the wedding celebrations.",
+      "anchored_artifacts": [
+        "A-1664.1"
+      ],
+      "related_nodes": [
+        "N-770",
+        "N-771",
+        "N-85"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:09–00:43:16",
+      "investigative_direction": "Verify the 11 p.m. start time against any video of Marc Anthony's set, and identify any contemporaneous social media posts by attendees."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2178",
+      "ref": "C-2178",
+      "label": "Taylor Swift text message references Justin Baldoni's \"tiny violin\" (December 2024)",
+      "claim": "Taylor Swift texted Blake Lively in early December 2024 stating, regarding the impending New York Times piece on Baldoni, \"I think he knows something is coming because he's got out his tiny violin.\"",
+      "anchored_artifacts": [
+        "A-1665.1"
+      ],
+      "related_nodes": [
+        "N-774",
+        "N-775",
+        "N-776"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:30–00:29:09",
+      "investigative_direction": "Obtain the full unredacted text thread exhibits from the Baldoni–Lively litigation docket."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2179",
+      "ref": "C-2179",
+      "label": "Sony executives described Blake Lively as \"terrorist\" in text messages",
+      "claim": "Sony executives described Blake Lively as a \"terrorist\" in text messages supporting Justin Baldoni's account.",
+      "anchored_artifacts": [
+        "A-1665.1"
+      ],
+      "related_nodes": [
+        "N-774",
+        "N-775"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:09",
+      "investigative_direction": "Obtain the specific Sony executive text-message exhibits from the litigation record."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2180",
+      "ref": "C-2180",
+      "label": "TPUSA reportedly fired approximately 40 (or 15) employees for leaking information",
+      "claim": "The top viewer comment from the prior episode states TPUSA \"fired 40 people for leaking info but kept the head of security after the biggest possible failure\"; Owens partially corroborates and revises the figure to approximately 15.",
+      "anchored_artifacts": [
+        "A-1667.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1503"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:55",
+      "investigative_direction": "Verify the firings count through internal TPUSA communications or reporting; identify which positions were terminated."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2181",
+      "ref": "C-2181",
+      "label": "Aspen donor recalls Charlie Kirk referencing Erica Kirk as someone who would \"know what to do\"",
+      "claim": "An unnamed donor present at the Aspen event reportedly recalls Kirk referencing Erica Kirk by saying that if something happened, she would know what to do.",
+      "anchored_artifacts": [
+        "A-1668.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1508"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:55",
+      "investigative_direction": "Identify and obtain a recorded statement from the corroborating donor; cross-reference against the previously aired \"Baron Coleman\" discussion referenced by host."
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,868 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 62,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "24dc527071bb4996347a4421cf2c9457ed4da7b0f003289f3d1967ed8acdf2bd",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Episode 62 advances the Bride of Charlie series along three investigative axes: (1) donor pressure on Charlie Kirk, anchored by a full read-aloud of a text message Charlie received from a self-identified Christian Zionist donor, with on-air confirmation of its authenticity by Jaco Booyens and Erica Kirk; (2) the Lori Frantzve / Larry Guinta business network, specifically a 2017 Arizona LLC called Desert Spirit Tech formed on a Tohono O'odham reservation address with Lyle and Shelly Reems, where Lyle Reems carries a 1998 indictment for sexual conduct with a minor under 15 that was dismissed without prejudice in 1999; and (3) the ongoing Turning Point USA employee terminations, anchored by an on-air audio recording of a termination meeting in which an employee is repeatedly told only that the organization is \"going in a different direction\" after working 80–90 hour weeks. A 2018 Tyler Bowyer tweet asserting TPUSA runs \"like a military op\" with personnel from that background is displayed and used to re-anchor prior host claims about military infiltration.\n\nThe episode's structural importance lies in coupling first-person testimonials with primary documents (court records, LLC filings, social media posts, termination audio) on the same evidentiary surface, while continuing the Lori Frantzve business-entity thread opened in earlier episodes.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1669",
+      "family_ref": "A-1669",
+      "bundle_name": "Christian Zionist Donor Text Message Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1669.1",
+          "ref": "A-1669.1",
+          "description": "Text message received by Charlie Kirk from female Christian Zionist donor",
+          "related_claims": [
+            "C-2182",
+            "C-2183"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1007",
+            "N-782",
+            "N-1509"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:27–00:09:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1670",
+      "family_ref": "A-1670",
+      "bundle_name": "Lyle Reems Legal Records Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1670.1",
+          "ref": "A-1670.1",
+          "description": "1998 Indictment: State v. Lyle Reems — Sexual conduct with minor under 15",
+          "related_claims": [
+            "C-2184"
+          ],
+          "related_nodes": [
+            "N-785",
+            "N-1509"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1670.2",
+          "ref": "A-1670.2",
+          "description": "1999 Dismissal Without Prejudice — victim had given victim impact statement",
+          "related_claims": [
+            "C-2185"
+          ],
+          "related_nodes": [
+            "N-785"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1671",
+      "family_ref": "A-1671",
+      "bundle_name": "Desert Spirit Tech LLC Filing Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1671.1",
+          "ref": "A-1671.1",
+          "description": "Arizona LLC formation documents — Desert Spirit Tech LLC, filed 2017, Sacaton, AZ",
+          "related_claims": [
+            "C-2186"
+          ],
+          "related_nodes": [
+            "N-783",
+            "N-784",
+            "N-785",
+            "N-786",
+            "N-1511",
+            "N-1513"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:25–00:14:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1671.2",
+          "ref": "A-1671.2",
+          "description": "Arizona Chinese News public notice for Desert Spirit Tech LLC (signed Dec 1, 2017; state-received Dec 6, 2017)",
+          "related_claims": [
+            "C-2187"
+          ],
+          "related_nodes": [
+            "N-783",
+            "N-784",
+            "N-1511"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:12–00:17:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1672",
+      "family_ref": "A-1672",
+      "bundle_name": "Generation Seven Farms Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1672.1",
+          "ref": "A-1672.1",
+          "description": "Business registration — Generation Seven Farms, 21 Rose and Thobe, Sacaton, AZ (Lyle and Shelly Reems)",
+          "related_claims": [
+            "C-2186"
+          ],
+          "related_nodes": [
+            "N-785",
+            "N-786",
+            "N-1513"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:08",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1673",
+      "family_ref": "A-1673",
+      "bundle_name": "Tyler Bowyer X/Twitter Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1673.1",
+          "ref": "A-1673.1",
+          "description": "Tyler Bowyer post dated September 25, 2018 — \"We run everything like a military op. All of our people are from that background.\"",
+          "related_claims": [
+            "C-2188"
+          ],
+          "related_nodes": [
+            "N-85"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1674",
+      "family_ref": "A-1674",
+      "bundle_name": "TPUSA Termination Audio Recording Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1674.1",
+          "ref": "A-1674.1",
+          "description": "Audio recording of TPUSA termination meeting between terminated employee and \"Frank\" (general counsel)",
+          "related_claims": [
+            "C-2189",
+            "C-2190",
+            "C-2191"
+          ],
+          "related_nodes": [
+            "N-788",
+            "N-790",
+            "N-1510"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:45–00:30:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1675",
+      "family_ref": "A-1675",
+      "bundle_name": "First-Person TPUSA Employee Testimonial Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1675.1",
+          "ref": "A-1675.1",
+          "description": "First-person account: Andrew Kolvet office confrontation regarding Uber-driver conversation about Erika Kirk",
+          "related_claims": [
+            "C-2192"
+          ],
+          "related_nodes": [
+            "N-788",
+            "N-789",
+            "N-1510"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:28–00:24:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1675.2",
+          "ref": "A-1675.2",
+          "description": "First-person account: Marina Minas Zoom-call incident and general counsel home visit for computer retrieval",
+          "related_claims": [
+            "C-2193"
+          ],
+          "related_nodes": [
+            "N-789",
+            "N-790",
+            "N-1510"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:06–00:34:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of the text-message threat and the referenced 2025-09-09 text regarding AmFest invitation to Candace Owens.",
+      "related_artifacts": [
+        "A-1669.1"
+      ],
+      "related_claims": [
+        "C-2182"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1007",
+        "N-1509"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1007",
+      "ref": "N-1007",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "Referenced by host as confirming authenticity of A-1669.1; subject of Uber-driver conversation referenced in A-1675.1.",
+      "related_artifacts": [
+        "A-1669.1",
+        "A-1675.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-1510"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-782",
+      "ref": "N-782",
+      "name": "Jaco Booyens",
+      "type": "person",
+      "description": "Referenced by host as confirming authenticity of A-1669.1.",
+      "related_artifacts": [
+        "A-1669.1"
+      ],
+      "related_claims": [
+        "C-2183"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-783",
+      "ref": "N-783",
+      "name": "Lori Frantzve (a.k.a. \"Lorin Frantzve\" in Desert Spirit Tech filing)",
+      "type": "person",
+      "description": "Erica Kirk's mother; 20% stakeholder of record in Desert Spirit Tech LLC; co-filer of Euro Tech in Cincinnati, Ohio.",
+      "related_artifacts": [
+        "A-1671.1",
+        "A-1671.2"
+      ],
+      "related_claims": [
+        "C-2186"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-784",
+        "N-1007",
+        "N-1511",
+        "N-1512"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-784",
+      "ref": "N-784",
+      "name": "Larry Guinta (referred to as \"Larry Lawrence Guinta\")",
+      "type": "person",
+      "description": "Erica Kirk's stepfather; listed as stakeholder and registered agent of Desert Spirit Tech LLC.",
+      "related_artifacts": [
+        "A-1671.1",
+        "A-1671.2"
+      ],
+      "related_claims": [
+        "C-2186"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-783",
+        "N-1511"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-785",
+      "ref": "N-785",
+      "name": "Lyle Reems",
+      "type": "person",
+      "description": "Self-identified (per host) as Tohono O'odham Nation member; 1998 indictee for sexual conduct with minor under 15; co-filer of Desert Spirit Tech LLC.",
+      "related_artifacts": [
+        "A-1670.1",
+        "A-1670.2",
+        "A-1671.1",
+        "A-1672.1"
+      ],
+      "related_claims": [
+        "C-2184",
+        "C-2185",
+        "C-2186"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-786",
+        "N-1511"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-786",
+      "ref": "N-786",
+      "name": "Shelly Reems",
+      "type": "person",
+      "description": "Lyle Reems's wife; co-filer of Desert Spirit Tech LLC and Generation Seven Farms.",
+      "related_artifacts": [
+        "A-1671.1",
+        "A-1672.1"
+      ],
+      "related_claims": [
+        "C-2186"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-785"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-788",
+      "ref": "N-788",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA figure who confronted employee regarding Uber-driver conversation per A-1675.1.",
+      "related_artifacts": [
+        "A-1674.1",
+        "A-1675.1"
+      ],
+      "related_claims": [
+        "C-2189",
+        "C-2192"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1510"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-789",
+      "ref": "N-789",
+      "name": "Marina Minas",
+      "type": "person",
+      "description": "Named by host as employee involved in Uber-driver conversation and as participant in the fake-Zoom termination setup per A-1675.2.",
+      "related_artifacts": [
+        "A-1675.1",
+        "A-1675.2"
+      ],
+      "related_claims": [
+        "C-2192",
+        "C-2193"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1510"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-790",
+      "ref": "N-790",
+      "name": "\"Frank\" (TPUSA General Counsel)",
+      "type": "person",
+      "description": "Named in termination recording A-1674.1; also referenced in A-1675.2 as general counsel who conducted home-visit termination.",
+      "related_artifacts": [
+        "A-1674.1",
+        "A-1675.2"
+      ],
+      "related_claims": [
+        "C-2189",
+        "C-2193"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1510"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1509",
+      "ref": "N-1509",
+      "name": "Identity of Christian Zionist Donor (Unverified)",
+      "type": "investigation_target",
+      "description": "Persistent unresolved target: the host states Turning Point USA has not named the sender of A-1669.1.",
+      "related_artifacts": [
+        "A-1669.1"
+      ],
+      "related_claims": [
+        "C-2182"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1510",
+      "ref": "N-1510",
+      "name": "TPUSA Termination Cause Investigation",
+      "type": "investigation_target",
+      "description": "Persistent unresolved target: the actual cause(s) of the TPUSA terminations referenced in A-1674.1, A-1675.1, A-1675.2.",
+      "related_artifacts": [
+        "A-1674.1",
+        "A-1675.1",
+        "A-1675.2"
+      ],
+      "related_claims": [
+        "C-2189",
+        "C-2190",
+        "C-2191",
+        "C-2192",
+        "C-2193"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1007",
+        "N-788",
+        "N-789",
+        "N-790"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1511",
+      "ref": "N-1511",
+      "name": "Desert Spirit Tech LLC Business Purpose Question",
+      "type": "investigation_target",
+      "description": "Persistent unresolved target: stated business activity of Desert Spirit Tech LLC.",
+      "related_artifacts": [
+        "A-1671.1",
+        "A-1671.2"
+      ],
+      "related_claims": [
+        "C-2186",
+        "C-2187"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-783",
+        "N-784",
+        "N-785"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1512",
+      "ref": "N-1512",
+      "name": "Euro Tech / Cincinnati Business Investigation",
+      "type": "investigation_target",
+      "description": "Persistent unresolved target: the \"Euro Tech\" company Lori Frantzve formed in Cincinnati, Ohio; host indicates it has not been fully examined yet.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-783"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1513",
+      "ref": "N-1513",
+      "name": "Sacaton \"Rose and Thobe\" Address Verification",
+      "type": "investigation_target",
+      "description": "Persistent unresolved target: whether 26 Rose and Thobe (Desert Spirit Tech) and 21 Rose and Thobe (Generation Seven Farms) correspond to actual physical addresses.",
+      "related_artifacts": [
+        "A-1671.1",
+        "A-1672.1"
+      ],
+      "related_claims": [
+        "C-2186"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-783",
+        "N-785",
+        "N-786"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Governor Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2182",
+      "ref": "C-2182",
+      "label": "Charlie Kirk received a text-message pressure campaign from a self-identified Christian Zionist donor",
+      "claim": "Charlie Kirk received a text message from a female Christian Zionist donor warning him that platforming Candace Owens and Tucker Carlson placed him \"in violation of the Ninth Commandment\" and warning of biblical curses on those who \"curse Israel.\"",
+      "anchored_artifacts": [
+        "A-1669.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1509"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:27",
+      "investigative_direction": "Obtain the original device or screenshot of the message; identify the sender through metadata or corroborating testimony; determine whether Turning Point USA has internal records of this message."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2183",
+      "ref": "C-2183",
+      "label": "Jaco Booyens and Erica Kirk confirmed the authenticity of the text message",
+      "claim": "Host states that Jaco Booyens and Erica Kirk can confirm the text message to Charlie Kirk is real.",
+      "anchored_artifacts": [
+        "A-1669.1"
+      ],
+      "related_nodes": [
+        "N-782",
+        "N-1007",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:27",
+      "investigative_direction": "Obtain on-record confirmation from Jaco Booyens and/or Erica Kirk independent of the host."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2184",
+      "ref": "C-2184",
+      "label": "Lyle Reems was indicted in 1998 for sexual conduct with a minor under 15",
+      "claim": "Lyle Reems was indicted in 1998 for sexual conduct with a minor under the age of 15; he was approximately 41 at the time.",
+      "anchored_artifacts": [
+        "A-1670.1"
+      ],
+      "related_nodes": [
+        "N-785"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:31",
+      "investigative_direction": "Pull certified court records from the relevant Arizona county (likely Pinal or Maricopa) to confirm indictment, charges, age of complainant, and disposition details."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2185",
+      "ref": "C-2185",
+      "label": "The Lyle Reems case was dismissed without prejudice in 1999 after the victim gave a victim impact statement",
+      "claim": "The case against Lyle Reems made its way through the court system for approximately a year and a half, during which the young victim gave a victim impact statement, before being dismissed without prejudice in 1999.",
+      "anchored_artifacts": [
+        "A-1670.2"
+      ],
+      "related_nodes": [
+        "N-785"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:31",
+      "investigative_direction": "Verify dismissal-without-prejudice status in court records; check statute of limitations to determine whether refiling remains a legal possibility."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2186",
+      "ref": "C-2186",
+      "label": "Lori Frantzve, Larry Guinta, Lyle Reems, and Shelly Reems co-filed Desert Spirit Tech LLC in Sacaton, Arizona in 2017",
+      "claim": "In 2017, Lori Frantzve (listed as \"Lorin Frantzve\"), Larry Guinta, Lyle Reems, and Shelly Reems filed to open a business called Desert Spirit Tech LLC in Sacaton, Arizona, with Frantzve listed as a 20% stakeholder and Guinta as registered agent.",
+      "anchored_artifacts": [
+        "A-1671.1",
+        "A-1672.1"
+      ],
+      "related_nodes": [
+        "N-783",
+        "N-784",
+        "N-785",
+        "N-786",
+        "N-1511",
+        "N-1513"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:25",
+      "investigative_direction": "Pull the certified Arizona Corporation Commission filing for Desert Spirit Tech LLC; identify the actual place of business and any annual reports or amendments."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2187",
+      "ref": "C-2187",
+      "label": "Desert Spirit Tech LLC's statutory public notice was published in the Arizona Chinese News",
+      "claim": "The statutory public notice for Desert Spirit Tech LLC was issued in the Arizona Chinese News, signed December 1, 2017 and received by the state December 6, 2017.",
+      "anchored_artifacts": [
+        "A-1671.2"
+      ],
+      "related_nodes": [
+        "N-783",
+        "N-784",
+        "N-1511"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:12",
+      "investigative_direction": "Obtain the original publication or archival copy of the Arizona Chinese News issue carrying the notice to confirm the stated business activity description."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2188",
+      "ref": "C-2188",
+      "label": "Tyler Bowyer publicly described TPUSA as operating \"like a military op\" in 2018",
+      "claim": "On September 25, 2018, Tyler Bowyer posted that TPUSA \"runs everything like a military op\" and that \"all of our people are from that background.\"",
+      "anchored_artifacts": [
+        "A-1673.1"
+      ],
+      "related_nodes": [
+        "N-85"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:30",
+      "investigative_direction": "Retrieve the original post from X/Twitter (including any deletions or edits) and identify which \"background\" Bowyer was referencing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2189",
+      "ref": "C-2189",
+      "label": "A TPUSA employee was terminated with no explanation beyond \"going in a different direction\"",
+      "claim": "A TPUSA employee was terminated by general counsel \"Frank\" with no specific explanation, repeatedly told only that the organization is \"going in a different direction with the team,\" after working 80–90 hour weeks through AmFest and the period following Charlie Kirk's assassination.",
+      "anchored_artifacts": [
+        "A-1674.1"
+      ],
+      "related_nodes": [
+        "N-788",
+        "N-790",
+        "N-1510"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:45",
+      "investigative_direction": "Obtain the termination documentation referenced in the audio (\"email with social security and links\" plus year-end bonus in final paycheck); identify the employee and obtain their signed release or separation agreement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2190",
+      "ref": "C-2190",
+      "label": "The terminated employee had worked 80–90 hour weeks immediately prior to termination",
+      "claim": "The terminated employee stated in the recorded termination meeting that she had worked \"80, 90-hour weeks plus for AmFest\" without direction or explanation upon return.",
+      "anchored_artifacts": [
+        "A-1674.1"
+      ],
+      "related_nodes": [
+        "N-790",
+        "N-1510"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:24",
+      "investigative_direction": "Cross-check time-tracking or HR records to verify hours worked."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2191",
+      "ref": "C-2191",
+      "label": "The terminated employee reported never having received any prior negative performance review",
+      "claim": "The terminated employee stated she had \"never had one bad review from Dylan\" and \"never had one issue with the company.\"",
+      "anchored_artifacts": [
+        "A-1674.1"
+      ],
+      "related_nodes": [
+        "N-790",
+        "N-1510"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:48",
+      "investigative_direction": "Obtain HR personnel file to confirm or refute the absence of any prior negative review."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2192",
+      "ref": "C-2192",
+      "label": "An Andrew Kolvet-led office confrontation was triggered by an Uber-driver's reported conversation",
+      "claim": "Andrew Kolvet brought a TPUSA employee into an office to question them about a conversation the CMO had with an Uber driver, in which the driver stated his daughter knew a TPUSA employee who \"doesn't like stuff that's going on at the company.\"",
+      "anchored_artifacts": [
+        "A-1675.1"
+      ],
+      "related_nodes": [
+        "N-788",
+        "N-789",
+        "N-1510"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:28",
+      "investigative_direction": "Identify the CMO named and obtain any internal investigation notes; verify whether the Uber driver conversation actually occurred."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2193",
+      "ref": "C-2193",
+      "label": "A TPUSA employee was terminated at her home by the general counsel during a Zoom meeting, with her work computer retrieved",
+      "claim": "Marina Minas allegedly received non-stop calls from an unrecognized number while on a Zoom meeting, and upon answering was told by the general counsel that he was outside her home, that she was fired, and to surrender her work computer (with warning that deletions would be detected).",
+      "anchored_artifacts": [
+        "A-1675.2"
+      ],
+      "related_nodes": [
+        "N-789",
+        "N-790",
+        "N-1510"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:06",
+      "investigative_direction": "Obtain direct on-record confirmation from Marina Minas; obtain any contemporaneous communications (texts, voicemails) memorializing the home-visit termination."
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,1010 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 83,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "af9d7478540e605b0d93fec65bec36ded2c5822785e3273b1e7fd2f45e84709d",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1895",
+      "family_ref": "A-1895",
+      "bundle_name": "Frank Turek Podcast Audio Clip — Hospital Arrival Estimate",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1895.1",
+          "ref": "A-1895.1",
+          "description": "Frank Turek's podcast stating Erica Kirk \"probably got there, I don't know, somewhere around 4:00 p.m. maybe\" to Timpanogos Hospital",
+          "related_claims": [
+            "C-2560"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1633"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1896",
+      "family_ref": "A-1896",
+      "bundle_name": "Alexis Wilkins X Thread (13-part)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1896.1",
+          "ref": "A-1896.1",
+          "description": "Thread alleging a foreign-linked influence network operating for 22 months against the Trump administration, with chapters claiming Candace publicly attributed Kirk's killing to Israel within hours and targeted Kirk's widow by name; identifies General Flynn as anchor of a digital infrastructure; cites Russia Today coverage as evidence",
+          "related_claims": [
+            "C-2568",
+            "C-2569",
+            "C-2570",
+            "C-2571",
+            "C-2572",
+            "C-2573"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-1213",
+            "N-1636"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:11–00:39:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1896.2",
+          "ref": "A-1896.2",
+          "description": "Yair Netanyahu retweet of Alexis Wilkins thread",
+          "related_claims": [
+            "C-2574"
+          ],
+          "related_nodes": [
+            "N-1636"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1897",
+      "family_ref": "A-1897",
+      "bundle_name": "Daily Wire Article — Catholic Convert Boom",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1897.1",
+          "ref": "A-1897.1",
+          "description": "Daily Wire article titled \"The Catholic convert boom is real, but a trouble pattern is emerging,\" stating the Catholic Church does not require faithful to be committed Zionists",
+          "related_claims": [
+            "C-2575"
+          ],
+          "related_nodes": [
+            "N-1637"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1898",
+      "family_ref": "A-1898",
+      "bundle_name": "Nick Searcy Confirmation — Andrew Kolvet Livestream",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1898.1",
+          "ref": "A-1898.1",
+          "description": "Nick Searcy confirming Andrew Kolvet's livestream was authentically live in the 9–10 a.m. Pacific block",
+          "related_claims": [
+            "C-2561"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1899",
+      "family_ref": "A-1899",
+      "bundle_name": "Hopkinson Aircraft Employee Phone Call",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1899.1",
+          "ref": "A-1899.1",
+          "description": "Host's phone call with a Hopkinson Aircraft employee who \"neither confirmed nor denied\" seeing Erica Kirk at their offices on September 10, 2025",
+          "related_claims": [
+            "C-2567"
+          ],
+          "related_nodes": [
+            "N-1212",
+            "N-1635"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:05–00:24:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1900",
+      "family_ref": "A-1900",
+      "bundle_name": "Catholic Growth News Articles Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1900.1",
+          "ref": "A-1900.1",
+          "description": "News article: \"US Catholic population shows growth trends southward\"",
+          "related_claims": [
+            "C-2576"
+          ],
+          "related_nodes": [
+            "N-1637"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1900.2",
+          "ref": "A-1900.2",
+          "description": "News article: \"More Americans joining Catholic Church than leaving for the first time in decades\" (August 2025)",
+          "related_claims": [
+            "C-2577"
+          ],
+          "related_nodes": [
+            "N-1637"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1900.3",
+          "ref": "A-1900.3",
+          "description": "London Times article: \"Catholics outnumber Anglicans two to one among Gen Z churchgoers\"",
+          "related_claims": [
+            "C-2578"
+          ],
+          "related_nodes": [
+            "N-1637"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1901",
+      "family_ref": "A-1901",
+      "bundle_name": "Allie Stuckey Twitter Exchange on Catholic Growth",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1901.1",
+          "ref": "A-1901.1",
+          "description": "Allie Stuckey tweet denying Catholic Church growth, captioned \"Respectfully, it's not true,\" with follow-on post (claimed September prior year) stating the popular narrative is untrue",
+          "related_claims": [
+            "C-2579"
+          ],
+          "related_nodes": [
+            "N-1637"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:40–00:42:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1902",
+      "family_ref": "A-1902",
+      "bundle_name": "Elizabeth Kravchuk McCoy Account of September 10",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1902.1",
+          "ref": "A-1902.1",
+          "description": "Per McCoy's account: present at TPUSA Scottsdale offices when shot rang out at 12:23 p.m. MST; Mikey McCoy called her first and then conferenced in Erika; she alerted Frank (TPUSA counsel) and Justin Streif; Lauren Tonchech drove her ~30 minutes to Scottsdale airport",
+          "related_claims": [
+            "C-2562",
+            "C-2563",
+            "C-2564",
+            "C-2565"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208",
+            "N-1209",
+            "N-1211",
+            "N-1634",
+            "N-1638"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:23–00:14:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1902.2",
+          "ref": "A-1902.2",
+          "description": "Per McCoy's account: Mikey McCoy met the party at the Utah airport; Elizabeth went in with Erica to see Charlie's body; Katherine LoCastro was sent to retrieve an item from the bloodied car",
+          "related_claims": [
+            "C-2566"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208",
+            "N-1210",
+            "N-1634"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:09–00:20:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "New first-person source for September 10 events at TPUSA Scottsdale offices and transport to Utah. Her account places her as recipient of the first call from the scene and presents a sequence not previously documented in the series.",
+      "related_artifacts": [
+        "A-1902.1",
+        "A-1902.2"
+      ],
+      "related_claims": [
+        "C-2562",
+        "C-2563",
+        "C-2564",
+        "C-2566"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-1634",
+        "N-1638"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Husband of Elizabeth Kravchuk McCoy; per Elizabeth's account, placed the first call to her after the shooting and met the party at the Utah airport.",
+      "related_artifacts": [
+        "A-1902.1",
+        "A-1902.2"
+      ],
+      "related_claims": [
+        "C-2563",
+        "C-2566"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1210"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "TPUSA long-time employee (\"OG\") who per Elizabeth McCoy's account volunteered to drive Elizabeth to Scottsdale airport on September 10.",
+      "related_artifacts": [
+        "A-1902.1"
+      ],
+      "related_claims": [
+        "C-2564"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Mikey McCoy's assistant who per Elizabeth McCoy's account was part of the team transporting Erica to the airport and to Utah, and who was sent to retrieve an item from the bloodied car at the hospital.",
+      "related_artifacts": [
+        "A-1902.2"
+      ],
+      "related_claims": [
+        "C-2566"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "TPUSA staff member present in Frank (TPUSA counsel)'s office when Elizabeth McCoy arrived to alert them of the shooting.",
+      "related_artifacts": [
+        "A-1902.1"
+      ],
+      "related_claims": [
+        "C-2565"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Unmarked building/company where Erica reportedly had a \"second collapse of the day.\" A contacted employee would neither confirm nor deny seeing Erica on September 10.",
+      "related_artifacts": [
+        "A-1899.1"
+      ],
+      "related_claims": [
+        "C-2567"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1635"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Organization cited in Alexis Wilkins's thread as listing General Michael Flynn as a senior advisor; identified by Wilkins as a node in the alleged network.",
+      "related_artifacts": [
+        "A-1896.1"
+      ],
+      "related_claims": [
+        "C-2570"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1636"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1633",
+      "ref": "N-1633",
+      "name": "Tarmac Hug Timeline Reconciliation Question",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: Frank Turek estimates Erica at hospital around 4:00 p.m.; the plane allegedly carrying Andrew Kolvet landed approximately 4:40 p.m.; transit to hospital is at minimum 20 minutes. The host's reconciliation hypothesis: Erica arrived on an earlier flight; Andrew landed aboard Charlie's plane at 3:31 p.m. Utah time.",
+      "related_artifacts": [
+        "A-1895.1"
+      ],
+      "related_claims": [
+        "C-2560",
+        "C-2580"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-1638"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1634",
+      "ref": "N-1634",
+      "name": "Stacey Sheridan September 10 Location Verification",
+      "type": "investigation_target",
+      "description": "Stacey Sheridan allegedly not at the TPUSA Scottsdale office on September 10 and \"allegedly home in Scottsdale.\" Host issues an \"APB\" for sightings.",
+      "related_artifacts": [
+        "A-1902.1"
+      ],
+      "related_claims": [
+        "C-2565"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1635",
+      "ref": "N-1635",
+      "name": "Hopkinson Aircraft Erica Sighting Confirmation",
+      "type": "investigation_target",
+      "description": "Whether Erica Kirk was physically present at Hopkinson Aircraft on September 10, 2025; the only contacted witness declined to confirm or deny.",
+      "related_artifacts": [
+        "A-1899.1"
+      ],
+      "related_claims": [
+        "C-2567"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1212"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1636",
+      "ref": "N-1636",
+      "name": "Alexis Wilkins 13-Part Thread Analysis",
+      "type": "investigation_target",
+      "description": "Verification and substantive analysis of the allegations in Alexis Wilkins's X thread alleging a 22-month foreign-linked influence operation and identifying Candace, Tucker, Joe Kent, and General Flynn as network participants.",
+      "related_artifacts": [
+        "A-1896.1",
+        "A-1896.2"
+      ],
+      "related_claims": [
+        "C-2568",
+        "C-2569",
+        "C-2570",
+        "C-2571",
+        "C-2572",
+        "C-2573",
+        "C-2574"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1637",
+      "ref": "N-1637",
+      "name": "Catholic Church Growth Discourse",
+      "type": "investigation_target",
+      "description": "Set of public-facing artifacts (Daily Wire article, news items, prior Allie Stuckey tweet) documenting the discursive shift on Catholic Church growth in the U.S. and the Zionism/anti-Zionism framing.",
+      "related_artifacts": [
+        "A-1897.1",
+        "A-1900.1",
+        "A-1900.2",
+        "A-1900.3",
+        "A-1901.1"
+      ],
+      "related_claims": [
+        "C-2575",
+        "C-2576",
+        "C-2577",
+        "C-2578",
+        "C-2579"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1638",
+      "ref": "N-1638",
+      "name": "Erica Kirk Arizona Activity Verification Gap",
+      "type": "investigation_target",
+      "description": "Persistent target: verification of Erica's whereabouts in the late-morning to early-afternoon window on September 10, 2025 (TPUSA office presence, time with mother, time at Hopkinson Aircraft, time at airport). Multiple alibis are described; cross-witness consistency is incomplete.",
+      "related_artifacts": [
+        "A-1899.1",
+        "A-1902.1"
+      ],
+      "related_claims": [
+        "C-2567",
+        "C-2565"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1633",
+        "N-1634",
+        "N-1635"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2560",
+      "ref": "C-2560",
+      "label": "Frank Turek Estimated Erica Kirk Arrived at Hospital Around 4:00 p.m.",
+      "claim": "Frank Turek, on his own podcast, stated Erica Kirk \"probably got there, I don't know, somewhere around 4:00 p.m. maybe\" to Timpanogos Hospital.",
+      "anchored_artifacts": [
+        "A-1895.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1633"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:20",
+      "investigative_direction": "Obtain the full Frank Turek podcast episode audio and verify the exact quoted time estimate and context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2561",
+      "ref": "C-2561",
+      "label": "Nick Searcy Confirmed Andrew Kolvet Livestream Was Authentic 9–10 a.m. Pacific",
+      "claim": "Nick Searcy confirmed to the host that Andrew Kolvet's livestream was authentically live during the 9–10 a.m. Pacific block on September 10, 2025.",
+      "anchored_artifacts": [
+        "A-1898.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:30",
+      "investigative_direction": "Cross-reference the livestream timestamps with airport manifests and TPUSA communications logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2562",
+      "ref": "C-2562",
+      "label": "Elizabeth McCoy Was First Person Called After the 12:23 p.m. MST Shooting",
+      "claim": "Per Elizabeth McCoy's account, she was the first person called after the 12:23 p.m. MST shooting.",
+      "anchored_artifacts": [
+        "A-1902.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1638"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:23",
+      "investigative_direction": "Compare McCoy's account with phone records and call detail records from Mikey McCoy's device."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2563",
+      "ref": "C-2563",
+      "label": "Mikey McCoy Called Elizabeth First, Then Conferenced in Erika",
+      "claim": "Per Elizabeth McCoy's account, Mikey McCoy rang her first after the shooting and then conferenced in Erika.",
+      "anchored_artifacts": [
+        "A-1902.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:23",
+      "investigative_direction": "Obtain phone records for Mikey McCoy's device and confirm the call sequence and participants."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2564",
+      "ref": "C-2564",
+      "label": "Lauren Tonchech Drove Elizabeth McCoy to Scottsdale Airport",
+      "claim": "Per Elizabeth McCoy's account, Lauren Tonchech, a long-time TPUSA employee, volunteered to drive her approximately 30 minutes to Scottsdale airport.",
+      "anchored_artifacts": [
+        "A-1902.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:00",
+      "investigative_direction": "Confirm via Lauren Tonchech or vehicle records; cross-check with airport arrival records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2565",
+      "ref": "C-2565",
+      "label": "Stacey Sheridan Was Not at TPUSA Offices on September 10",
+      "claim": "Per the host's reporting, Stacey Sheridan was not at the Turning Point USA Scottsdale office on September 10, 2025, and was allegedly at home in Scottsdale.",
+      "anchored_artifacts": [
+        "A-1902.1"
+      ],
+      "related_nodes": [
+        "N-1634",
+        "N-1638"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:00",
+      "investigative_direction": "Obtain independent witness sightings or surveillance/phone-location data for September 10."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2566",
+      "ref": "C-2566",
+      "label": "Mikey McCoy Met the Group at the Utah Airport and Elizabeth Accompanied Erica to View Charlie's Body",
+      "claim": "Per Elizabeth McCoy's account, Mikey McCoy met them outside at the Utah airport, and Elizabeth went in with Erica to see Charlie's body for the first time.",
+      "anchored_artifacts": [
+        "A-1902.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:09",
+      "investigative_direction": "Cross-reference with Andrew Kolvet's account and hospital visitor logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2567",
+      "ref": "C-2567",
+      "label": "Hopkinson Aircraft Employee Neither Confirmed nor Denied Seeing Erica on September 10",
+      "claim": "A Hopkinson Aircraft employee contacted by the host would neither confirm nor deny seeing Erica Kirk at their offices on September 10, 2025.",
+      "anchored_artifacts": [
+        "A-1899.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1635",
+        "N-1638"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:05–00:24:24",
+      "investigative_direction": "Identify and contact additional Hopkinson staff or obtain facility access logs/surveillance for September 10."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2568",
+      "ref": "C-2568",
+      "label": "Alexis Wilkins Published a 13-Part X Thread Alleging a Foreign-Linked Influence Network",
+      "claim": "Alexis Wilkins published a 13-part X thread alleging a foreign-linked influence network operating for 22 months against the Trump administration and implicating Candace Owens, Tucker Carlson, Joe Kent, and General Flynn.",
+      "anchored_artifacts": [
+        "A-1896.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-1213",
+        "N-1636"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:11",
+      "investigative_direction": "Verify the thread's existence, length, and contents via direct archive; assess the substantive claims on their merits."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2569",
+      "ref": "C-2569",
+      "label": "Alexis Wilkins Thread Alleges Candace Targeted Kirk's Widow by Name Within Hours",
+      "claim": "The Alexis Wilkins thread alleges that within hours of the Kirk assassination, Candace publicly attributed the killing to Israel and targeted Kirk's widow by name. The host rejects this characterization.",
+      "anchored_artifacts": [
+        "A-1896.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-1636"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:40",
+      "investigative_direction": "Review Candace Owens's posts and public statements from September 10–11, 2025, for any direct attribution and naming."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2570",
+      "ref": "C-2570",
+      "label": "Alexis Wilkins Thread Identifies General Flynn as Anchor of Digital Infrastructure",
+      "claim": "The Alexis Wilkins thread identifies General Michael Flynn as the \"anchor of a digital infrastructure\" repeatedly activated at major Republican fracture points, via his listed role at Catholics for Catholics.",
+      "anchored_artifacts": [
+        "A-1896.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-1636"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:58",
+      "investigative_direction": "Verify General Flynn's role as listed at Catholics for Catholics and the basis for the activation claim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2571",
+      "ref": "C-2571",
+      "label": "Alexis Wilkins Thread Cites Russia Today Retweets as Evidence",
+      "claim": "The Alexis Wilkins thread cites Russia Today retweeting certain accounts as evidence of foreign coordination.",
+      "anchored_artifacts": [
+        "A-1896.1"
+      ],
+      "related_nodes": [
+        "N-1636"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:48",
+      "investigative_direction": "Verify RT coverage and assess whether RT retweets constitute evidence of foreign coordination."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2572",
+      "ref": "C-2572",
+      "label": "Alexis Wilkins Chapter 3 Specifically Names Candace, Kirk Assassination, and Widow",
+      "claim": "The Alexis Wilkins thread, at \"Chapter 3,\" states that within hours of Kirk's assassination, Candace publicly attributed the killing to Israel and targeted Kirk's widow by name.",
+      "anchored_artifacts": [
+        "A-1896.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-1636"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:40",
+      "investigative_direction": "Compare thread text to Candace's on-air and posted statements from September 10–11, 2025."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2573",
+      "ref": "C-2573",
+      "label": "Alexis Wilkins Thread Identifies Joe Kent Resignation as Network Evidence",
+      "claim": "The Alexis Wilkins thread treats Joe Kent's resignation as further evidence of the alleged network, citing Russia Today coverage.",
+      "anchored_artifacts": [
+        "A-1896.1"
+      ],
+      "related_nodes": [
+        "N-1636"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:30",
+      "investigative_direction": "Verify the cited Russia Today coverage and assess the inferential link."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2574",
+      "ref": "C-2574",
+      "label": "Yair Netanyahu Retweeted the Alexis Wilkins Thread",
+      "claim": "The first retweet of Alexis Wilkins's thread was by Yair Netanyahu.",
+      "anchored_artifacts": [
+        "A-1896.2"
+      ],
+      "related_nodes": [
+        "N-1636"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:43",
+      "investigative_direction": "Verify via direct archive of the thread's early engagement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2575",
+      "ref": "C-2575",
+      "label": "Daily Wire Article States Catholic Church Does Not Require Zionist Commitment",
+      "claim": "The Daily Wire article \"The Catholic convert boom is real, but a trouble pattern is emerging\" states that unlike many Christian branches, the Catholic Church does not require the faithful to be committed Zionists to receive God's blessing.",
+      "anchored_artifacts": [
+        "A-1897.1"
+      ],
+      "related_nodes": [
+        "N-1637"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:56",
+      "investigative_direction": "Obtain and read the full Daily Wire article to verify exact phrasing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2576",
+      "ref": "C-2576",
+      "label": "U.S. Catholic Population Showing Southward Growth Trends",
+      "claim": "A referenced news article reports U.S. Catholic population growth trends southward.",
+      "anchored_artifacts": [
+        "A-1900.1"
+      ],
+      "related_nodes": [
+        "N-1637"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:36",
+      "investigative_direction": "Locate and verify the cited article."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2577",
+      "ref": "C-2577",
+      "label": "August 2025 Article Reports Net U.S. Catholic Converts for First Time in Decades",
+      "claim": "An August 2025 news article reports that more Americans are joining the Catholic Church than leaving for the first time in decades.",
+      "anchored_artifacts": [
+        "A-1900.2"
+      ],
+      "related_nodes": [
+        "N-1637"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:36",
+      "investigative_direction": "Locate and verify the cited August 2025 article."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2578",
+      "ref": "C-2578",
+      "label": "London Times Reports Catholics Outnumber Anglicans 2:1 Among Gen Z Churchgoers",
+      "claim": "A London Times article reports that Catholics outnumber Anglicans two to one among Gen Z churchgoers.",
+      "anchored_artifacts": [
+        "A-1900.3"
+      ],
+      "related_nodes": [
+        "N-1637"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:15",
+      "investigative_direction": "Locate and verify the cited London Times article."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2579",
+      "ref": "C-2579",
+      "label": "Allie Stuckey Previously Denied Catholic Church Growth on Twitter",
+      "claim": "Allie Stuckey previously replied to the host's tweet denying Catholic Church growth, captioned \"Respectfully, it's not true,\" with a follow-on longer post claiming the popular narrative is untrue.",
+      "anchored_artifacts": [
+        "A-1901.1"
+      ],
+      "related_nodes": [
+        "N-1637"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:40",
+      "investigative_direction": "Verify via Twitter/X archive of @AllieStuckey tweets from the cited period."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2580",
+      "ref": "C-2580",
+      "label": "Host Hypothesis: Erica Arrived on Earlier Flight; Andrew Aboard Charlie's Plane Landing 3:31 p.m.",
+      "claim": "The host hypothesizes that to reconcile Frank Turek's 4:00 p.m. hospital estimate with Andrew Kolvet's tarmac-hug account, Erica must have arrived on an earlier flight while Andrew landed aboard Charlie Kirk's plane at 3:31 p.m. Utah time.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-2",
+        "N-1633"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:15",
+      "investigative_direction": "Obtain manifests for all private flights into Provo on September 10; cross-reference with passenger lists and airport surveillance."
+    }
+  ],
+  "memes": []
+}

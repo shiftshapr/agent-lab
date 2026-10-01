@@ -1,0 +1,747 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 141,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "4c78ee14b1a99d8405861d22611f7b5723b201c8c1fb81c34bfdf476935d17f3",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2277",
+      "family_ref": "A-2277",
+      "bundle_name": "Candace Owens vs Andrew Wilson Debate Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2277.1",
+          "ref": "A-2277.1",
+          "description": "Debate Segment — Wilson's Opening Statement Read From Phone",
+          "related_claims": [
+            "C-3277",
+            "C-3289"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2193",
+            "N-2194"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2277.2",
+          "ref": "A-2277.2",
+          "description": "Debate Segment — Wilson's 75–85% Confidence Estimate",
+          "related_claims": [
+            "C-3278"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:37",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2277.3",
+          "ref": "A-2277.3",
+          "description": "Debate Segment — Wilson's Repeated Use of \"Positive Evidence\"",
+          "related_claims": [
+            "C-3280"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:04",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2277.4",
+          "ref": "A-2277.4",
+          "description": "Debate Segment — Wilson Unable to Name Any of Seven Charges",
+          "related_claims": [
+            "C-3279"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2277.5",
+          "ref": "A-2277.5",
+          "description": "Debate Segment — Screwdriver and Timeline Discussion",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1207",
+            "N-2194"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2277.6",
+          "ref": "A-2277.6",
+          "description": "Debate Segment — 16-Second Silence and Lance DNA Clip Moment",
+          "related_claims": [
+            "C-3281"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2277.7",
+          "ref": "A-2277.7",
+          "description": "Debate Segment — Wilson's False Attribution of \"Girl Boss\" to Owens",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2278",
+      "family_ref": "A-2278",
+      "bundle_name": "@whereforbidden \"Jars Wide Shut\" AI Video",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2278.1",
+          "ref": "A-2278.1",
+          "description": "\"Jars Wide Shut\" AI-Generated Video Depicting Erika Kirk Confronting Andrew Wilson",
+          "related_claims": [
+            "C-3287"
+          ],
+          "related_nodes": [
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:01:26",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2279",
+      "family_ref": "A-2279",
+      "bundle_name": "@alpha_approved \"Stages of Debate Grief\" Meme",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2279.1",
+          "ref": "A-2279.1",
+          "description": "\"Stages of Debate Grief\" Five-Panel Meme",
+          "related_claims": [
+            "C-3288"
+          ],
+          "related_nodes": [
+            "N-1212"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:02:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2280",
+      "family_ref": "A-2280",
+      "bundle_name": "Rachel Wilson X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2280.1",
+          "ref": "A-2280.1",
+          "description": "Rachel Wilson X Post — In-Ear Monitor Question",
+          "related_claims": [
+            "C-3285"
+          ],
+          "related_nodes": [
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:04:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2280.2",
+          "ref": "A-2280.2",
+          "description": "Rachel Wilson X Post — Acknowledging Owens Knew Case Details Better",
+          "related_claims": [
+            "C-3284"
+          ],
+          "related_nodes": [
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:08:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2281",
+      "family_ref": "A-2281",
+      "bundle_name": "Steven Crowder Post-Debate Phone Call",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2281.1",
+          "ref": "A-2281.1",
+          "description": "Audio Clip — Steven Crowder Asking Andrew Wilson Whether He Was Provided Hair and Makeup",
+          "related_claims": [
+            "C-3282"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:06:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2282",
+      "family_ref": "A-2282",
+      "bundle_name": "Poly Market Tyler Robinson Conviction Odds Chart",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2282.1",
+          "ref": "A-2282.1",
+          "description": "Poly Market Screenshot Showing Conviction Odds Falling During Debate",
+          "related_claims": [
+            "C-3283"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:00:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2283",
+      "family_ref": "A-2283",
+      "bundle_name": "Andrew Wilson X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2283.1",
+          "ref": "A-2283.1",
+          "description": "Andrew Wilson Retweet With Reply \"Picked a hell of a week\"",
+          "related_claims": [
+            "C-3286"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2194"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Debate participant; central subject of artifact-backed claims regarding opening statement, charge identification, confidence estimate, and post-debate conduct.",
+      "related_artifacts": [
+        "A-2277.1",
+        "A-2277.2",
+        "A-2277.3",
+        "A-2277.4",
+        "A-2277.5",
+        "A-2277.6",
+        "A-2277.7",
+        "A-2281.1",
+        "A-2282.1",
+        "A-2283.1"
+      ],
+      "related_claims": [
+        "C-3277",
+        "C-3278",
+        "C-3279",
+        "C-3280",
+        "C-3282",
+        "C-3283",
+        "C-3286",
+        "C-3289"
+      ],
+      "tags": [],
+      "evidence_count": 10,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Moderator of the debate referenced throughout the episode; named in artifact-anchored debate context.",
+      "related_artifacts": [
+        "A-2277",
+        "A-2277.6"
+      ],
+      "related_claims": [
+        "C-3281"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Named participant in post-debate phone call with Wilson; previously known to the series.",
+      "related_artifacts": [
+        "A-2281.1"
+      ],
+      "related_claims": [
+        "C-3282"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Author of two artifact-anchored X posts reacting to the debate.",
+      "related_artifacts": [
+        "A-2280.1",
+        "A-2280.2"
+      ],
+      "related_claims": [
+        "C-3284",
+        "C-3285"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Creator of the artifact \"Jars Wide Shut\" AI video reacting to the debate.",
+      "related_artifacts": [
+        "A-2278.1"
+      ],
+      "related_claims": [
+        "C-3287"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Creator of the artifact \"Stages of Debate Grief\" meme reacting to the debate.",
+      "related_artifacts": [
+        "A-2279.1"
+      ],
+      "related_claims": [
+        "C-3288"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2193",
+      "ref": "N-2193",
+      "name": "September 9, 2025 Message Nature Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent disagreement over whether the Charlie Kirk security message Wilson referenced in his opening statement was sent via Signal (per Wilson's prior framing) or iMessage (per Owens's prior public claim that she has seen the message).",
+      "related_artifacts": [
+        "A-2277.1"
+      ],
+      "related_claims": [
+        "C-3277"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2194",
+      "ref": "N-2194",
+      "name": "Wilson's Promised Release of \"Never-Before-Seen Messages\"",
+      "type": "investigation_target",
+      "description": "Wilson opened the debate stating he possesses never-before-seen messages from Charlie Kirk's security team dated September 9, 2025, and committed to dropping the underlying message text on his show following the debate; the message had not been released as of this episode.",
+      "related_artifacts": [
+        "A-2277.1",
+        "A-2283.1"
+      ],
+      "related_claims": [
+        "C-3277",
+        "C-3286"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2195",
+      "ref": "N-2195",
+      "name": "Turning Point USA Organizational State (Post-Debate)",
+      "type": "investigation_target",
+      "description": "Persistent investigation target tracking TPUSA's institutional conduct, public posture, and personnel alignment under Erika Kirk's leadership; episode contributes Wilson's performance and the post-debate social media reaction as additional data points.",
+      "related_artifacts": [
+        "A-2277.1",
+        "A-2278.1",
+        "A-2279.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3277",
+      "ref": "C-3277",
+      "label": "Wilson Opened Debate by Reading From His Phone About \"Never-Before-Seen Messages\"",
+      "claim": "Andrew Wilson's debate opening statement was read aloud from a mobile phone and concerned \"never-before-seen messages\" from Charlie Kirk to his security team dated September 9, 2025.",
+      "anchored_artifacts": [
+        "A-2277.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2193",
+        "N-2194"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:36",
+      "investigative_direction": "Verify whether Wilson subsequently publishes the underlying message text and cross-reference its platform of origin (Signal vs. iMessage) against prior Owens claims and Erika Kirk's prior December 2025 Glenn Beck statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3278",
+      "ref": "C-3278",
+      "label": "Wilson Stated 75–85% Likelihood That Tyler Robinson Killed Charlie Kirk",
+      "claim": "When asked by the moderator for a 0–100 estimate of the likelihood that Tyler Robinson shot and killed Charlie Kirk, Andrew Wilson answered 75–85%.",
+      "anchored_artifacts": [
+        "A-2277.2"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:37",
+      "investigative_direction": "Compare Wilson's stated confidence level against his debate claim that the evidence against Robinson is \"overwhelming.\""
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3279",
+      "ref": "C-3279",
+      "label": "Wilson Could Not Name Any of the Seven Charges Against Tyler Robinson",
+      "claim": "When challenged during the debate to name any of the seven charges Tyler Robinson faces, Andrew Wilson could not do so and ultimately named a charge (murder) that Owens stated was not on the list.",
+      "anchored_artifacts": [
+        "A-2277.4"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:42",
+      "investigative_direction": "Cross-reference the published charging instrument from the Utah case to verify the seven-count list and confirm which charge(s) Wilson named correctly versus incorrectly."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3280",
+      "ref": "C-3280",
+      "label": "Wilson Repeatedly Used the Phrase \"Positive Evidence\" During the Debate",
+      "claim": "Throughout the debate, Andrew Wilson repeated the phrase \"positive evidence\" multiple times as his principal rebuttal device.",
+      "anchored_artifacts": [
+        "A-2277.3"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:04",
+      "investigative_direction": "Count exact repetitions in full debate transcript; this claim is repeated in internet memes (A-2279.1) which may be cross-referenced for the specific count (the meme states 47)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3281",
+      "ref": "C-3281",
+      "label": "Patrick Bet-David (PBD) Moderated the Debate",
+      "claim": "The discussion between Candace Owens and Andrew Wilson was moderated by Patrick Bet-David (PBD).",
+      "anchored_artifacts": [
+        "A-2277",
+        "A-2277.6"
+      ],
+      "related_nodes": [
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:24",
+      "investigative_direction": "Verify PBD's role through the published debate recording on his platform; confirm two named team members (Tom and PBD's executive assistant) were present on the pre-debate FaceTime call."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3282",
+      "ref": "C-3282",
+      "label": "Steven Crowder Was on the Phone With Andrew Wilson Immediately After the Debate",
+      "claim": "Immediately after the debate concluded, Steven Crowder telephoned Andrew Wilson and asked whether Wilson had been provided hair and makeup services, to which Wilson replied he would have refused them.",
+      "anchored_artifacts": [
+        "A-2281.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:06:45",
+      "investigative_direction": "Identify any further post-debate coordination between Crowder's organization and Wilson; verify whether the hair/makeup assertion contradicts the published terms of the debate."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3283",
+      "ref": "C-3283",
+      "label": "Poly Market Odds on Tyler Robinson Conviction Dropped During the Debate",
+      "claim": "The Poly Market prediction market odds on a Tyler Robinson conviction fell during the debate, hitting approximately 34% mid-debate.",
+      "anchored_artifacts": [
+        "A-2282.1"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:00",
+      "investigative_direction": "Retrieve the full Poly Market time series for the relevant market to confirm the percentage trajectory during the debate window."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3284",
+      "ref": "C-3284",
+      "label": "Rachel Wilson Publicly Acknowledged That Owens Knew the Case Details Better",
+      "claim": "Rachel Wilson posted on X stating, in effect, that Candace Owens would naturally know the case details better than Andrew Wilson, citing Wilson's approximately six days of preparation.",
+      "anchored_artifacts": [
+        "A-2280.2"
+      ],
+      "related_nodes": [
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:08:14",
+      "investigative_direction": "Retrieve the full text of Rachel Wilson's X post to confirm the exact wording and timestamp."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3285",
+      "ref": "C-3285",
+      "label": "Rachel Wilson Publicly Suggested the In-Ear Monitors May Have Been Used to Feed Owens Answers",
+      "claim": "Rachel Wilson posted on X questioning whether Candace Owens's in-ear monitor had been used to receive outside assistance during the debate.",
+      "anchored_artifacts": [
+        "A-2280.1"
+      ],
+      "related_nodes": [
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:04:09",
+      "investigative_direction": "Retrieve the full text of Rachel Wilson's X post; verify against published debate technical setup, including Candace Owens's claim that the earpieces had a 15-foot operational range and could not extend outside the control room."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3286",
+      "ref": "C-3286",
+      "label": "Wilson Retweeted Comment About Tyler Robinson Defense and Replied \"Picked a hell of a week\"",
+      "claim": "Prior to the debate, Andrew Wilson retweeted a comment reading \"skimmed it. The Tyler Robinson dispense defense is on absolute life support\" and added the reply \"Picked a hell of a week.\"",
+      "anchored_artifacts": [
+        "A-2283.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2194"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:35",
+      "investigative_direction": "Retrieve the full X post with timestamp; identify the original poster; cross-reference with the dismissal filing released two days before the debate."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3287",
+      "ref": "C-3287",
+      "label": "\"Jars Wide Shut\" AI Video by @whereforbidden Was Created Reacting to the Debate",
+      "claim": "An AI-generated video titled \"Jars Wide Shut,\" depicting Erika Kirk confronting Andrew Wilson, was created by the X account @whereforbidden and circulated as a post-debate reaction.",
+      "anchored_artifacts": [
+        "A-2278.1"
+      ],
+      "related_nodes": [
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:26",
+      "investigative_direction": "Identify original posting timestamp; verify whether @whereforbidden's content has prior documented activity in the series."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3288",
+      "ref": "C-3288",
+      "label": "\"Stages of Debate Grief\" Meme by @alpha_approved Was Created Reacting to the Debate",
+      "claim": "A five-panel \"Stages of Debate Grief\" meme, with each stage attributed to Andrew Wilson, was created by the X account @alpha_approved and circulated as a post-debate reaction.",
+      "anchored_artifacts": [
+        "A-2279.1"
+      ],
+      "related_nodes": [
+        "N-1212"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:02:50",
+      "investigative_direction": "Identify original posting timestamp; verify whether @alpha_approved's content has prior documented activity in the series."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3289",
+      "ref": "C-3289",
+      "label": "Wilson's Opening Statement Included the Claim \"I Have His Cell Phone\"",
+      "claim": "During his debate opening, Andrew Wilson asserted that he possessed Charlie Kirk's cell phone.",
+      "anchored_artifacts": [
+        "A-2277.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2193"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:49",
+      "investigative_direction": "Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-2193)."
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,1471 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 78,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "1efb65d788e764ce59f77474993e3420acf90bc4df6bef2cac70e04db1fe218b",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1835",
+      "family_ref": "A-1835",
+      "bundle_name": "New York Post Epstein Building Article",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1835.1",
+          "ref": "A-1835.1",
+          "description": "NY Post article \"Inside the New York City condo building where Jeffrey Epstein secretly kept his underage victims\"",
+          "related_claims": [
+            "C-2453",
+            "C-2454",
+            "C-2455"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-970",
+            "N-1604",
+            "N-1605"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1836",
+      "family_ref": "A-1836",
+      "bundle_name": "Alexander Brothers Verdict News Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1836.1",
+          "ref": "A-1836.1",
+          "description": "News segment on Alexander brothers federal sex-trafficking conviction in Manhattan",
+          "related_claims": [
+            "C-2456"
+          ],
+          "related_nodes": [
+            "N-973",
+            "N-974",
+            "N-975",
+            "N-979"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1837",
+      "family_ref": "A-1837",
+      "bundle_name": "Club America Arkansas Proclamation Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1837.1",
+          "ref": "A-1837.1",
+          "description": "Sarah Huckabee Sanders proclamation clip with Erica Kirk at her side, supporting Club America in every Arkansas high school",
+          "related_claims": [
+            "C-2457"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-969",
+            "N-978",
+            "N-1606"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1838",
+      "family_ref": "A-1838",
+      "bundle_name": "United Hands Romania Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1838.1",
+          "ref": "A-1838.1",
+          "description": "2017 article quoting Erica Kirk on partnership with Renee Crossman and Antonio Placement Center in Constanta",
+          "related_claims": [
+            "C-2458",
+            "C-2471"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-971",
+            "N-1607"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1838.2",
+          "ref": "A-1838.2",
+          "description": "Erica Kirk interview clip in which she states Romanian orphans did not trust Renee Crossman",
+          "related_claims": [
+            "C-2459"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-971",
+            "N-1607"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:04",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1839",
+      "family_ref": "A-1839",
+      "bundle_name": "Children of God Romanian Investigative Article",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1839.1",
+          "ref": "A-1839.1",
+          "description": "Romanian investigative article on Children of God / The Family cult, founder David Berg, history of proselytizing and sexual practices involving minors",
+          "related_claims": [
+            "C-2460",
+            "C-2470",
+            "C-2475"
+          ],
+          "related_nodes": [
+            "N-971",
+            "N-972",
+            "N-1607"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:27",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1840",
+      "family_ref": "A-1840",
+      "bundle_name": "Megyn Kelly / Christina Babin Cult Interview Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1840.1",
+          "ref": "A-1840.1",
+          "description": "Megyn Kelly interview with Christina Babin describing childhood sexual instruction by adult cult members",
+          "related_claims": [
+            "C-2461"
+          ],
+          "related_nodes": [
+            "N-982",
+            "N-972",
+            "N-1607"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1841",
+      "family_ref": "A-1841",
+      "bundle_name": "Hospital Transport Vehicle Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1841.1",
+          "ref": "A-1841.1",
+          "description": "Photo of van back-seat area showing scattered material across seat",
+          "related_claims": [
+            "C-2462",
+            "C-2473"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1609"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1841.2",
+          "ref": "A-1841.2",
+          "description": "Photo of van interior from another angle",
+          "related_claims": [
+            "C-2462"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1609"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1841.3",
+          "ref": "A-1841.3",
+          "description": "Photo showing side angle of van interior with what appears to be an Instaclot package on the floor",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1",
+            "N-1609"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1842",
+      "family_ref": "A-1842",
+      "bundle_name": "9/10 Behind Charlie Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1842.1",
+          "ref": "A-1842.1",
+          "description": "Video segment showing Charlie's necklace whipping upward after impact",
+          "related_claims": [
+            "C-2463"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1608",
+            "N-1610"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1842.2",
+          "ref": "A-1842.2",
+          "description": "Video segment showing Charlie falling/sliding toward the table",
+          "related_claims": [
+            "C-2464",
+            "C-2472"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1608"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1842.3",
+          "ref": "A-1842.3",
+          "description": "Video segment showing Charlie's hands making contact with table without grabbing any object",
+          "related_claims": [
+            "C-2465"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1608"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1842.4",
+          "ref": "A-1842.4",
+          "description": "Video segment showing the necklace and magnet clasp still attached post-impact",
+          "related_claims": [
+            "C-2463"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1608",
+            "N-1610"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1843",
+      "family_ref": "A-1843",
+      "bundle_name": "Charlie Kirk on Thomas Massie Video Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1843.1",
+          "ref": "A-1843.1",
+          "description": "Charlie Kirk video clip naming Rep. Thomas Massie as one of his favorite members of Congress",
+          "related_claims": [
+            "C-2466",
+            "C-2469"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-968"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1844",
+      "family_ref": "A-1844",
+      "bundle_name": "Turning Point Action Massie Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1844.1",
+          "ref": "A-1844.1",
+          "description": "Turning Point Action tweet (\"MAGA rallies are back. Trump haters are on notice.\") identifying Massie as needing to be replaced",
+          "related_claims": [
+            "C-2467"
+          ],
+          "related_nodes": [
+            "N-968",
+            "N-85",
+            "N-1611"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1844.2",
+          "ref": "A-1844.2",
+          "description": "X community note fact-checking TP Action's Massie tweet: \"Rep. Thomas Massie was one of Charlie Kirk's favorite congressman\"",
+          "related_claims": [
+            "C-2468"
+          ],
+          "related_nodes": [
+            "N-968",
+            "N-1611"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1845",
+      "family_ref": "A-1845",
+      "bundle_name": "Thomas Massie Response Tweet",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1845.1",
+          "ref": "A-1845.1",
+          "description": "Thomas Massie reply tweet asking \"what has gotten into y'all\" and quoting Charlie Kirk naming Massie as a favorite congressman",
+          "related_claims": [
+            "C-2469",
+            "C-2474"
+          ],
+          "related_nodes": [
+            "N-968",
+            "N-1611"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:27",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-976",
+      "ref": "N-976",
+      "name": "Node 976",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-980",
+      "ref": "N-980",
+      "name": "Node 980",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-983",
+      "ref": "N-983",
+      "name": "Node 983",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-984",
+      "ref": "N-984",
+      "name": "Node 984",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-968",
+      "ref": "N-968",
+      "name": "Thomas Massie",
+      "type": "person",
+      "description": "Kentucky congressman; central to Turning Point Action disavowal incident; displayed video shows Charlie Kirk naming him a favorite congressman on multiple occasions.",
+      "related_artifacts": [
+        "A-1843.1",
+        "A-1844.1",
+        "A-1844.2",
+        "A-1845.1"
+      ],
+      "related_claims": [
+        "C-2466",
+        "C-2467",
+        "C-2468",
+        "C-2469"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1611"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-969",
+      "ref": "N-969",
+      "name": "Sarah Huckabee Sanders",
+      "type": "person",
+      "description": "Governor of Arkansas; displayed signing proclamation with Erica Kirk for Club America in Arkansas high schools.",
+      "related_artifacts": [
+        "A-1837.1"
+      ],
+      "related_claims": [
+        "C-2457"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-978",
+        "N-1606"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-970",
+      "ref": "N-970",
+      "name": "Mark Epstein",
+      "type": "person",
+      "description": "Jeffrey Epstein's brother; named by host as owner of building matching the white-building description and as inheritor of Jeffrey Epstein's wealth (host attribution, not cited within displayed NY Post article text).",
+      "related_artifacts": [
+        "A-1835.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1604",
+        "N-1605"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-971",
+      "ref": "N-971",
+      "name": "Renee Crossman",
+      "type": "person",
+      "description": "President of United Hands Romania Association; partner of Erica Kirk on the Remnant/Romanian Angels project; per displayed Romanian investigative article, originated from the Children of God / The Family religious sect.",
+      "related_artifacts": [
+        "A-1838.1",
+        "A-1838.2",
+        "A-1839.1"
+      ],
+      "related_claims": [
+        "C-2458",
+        "C-2459",
+        "C-2470"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1607"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-972",
+      "ref": "N-972",
+      "name": "David Berg",
+      "type": "person",
+      "description": "Founder of Children of God / The Family; historical figure named in displayed Romanian investigative article as advocate of sexual relations with minors including his own daughter at age 12.",
+      "related_artifacts": [
+        "A-1839.1",
+        "A-1840.1"
+      ],
+      "related_claims": [
+        "C-2460"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1607"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-973",
+      "ref": "N-973",
+      "name": "Oren Alexander",
+      "type": "person",
+      "description": "Real-estate broker; per displayed news clip, found guilty on all 10 counts including sex trafficking in Manhattan federal trial.",
+      "related_artifacts": [
+        "A-1836.1"
+      ],
+      "related_claims": [
+        "C-2456"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-979"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-974",
+      "ref": "N-974",
+      "name": "Tal Alexander",
+      "type": "person",
+      "description": "Real-estate broker; per displayed news clip, found guilty of sex trafficking and sex trafficking of a minor.",
+      "related_artifacts": [
+        "A-1836.1"
+      ],
+      "related_claims": [
+        "C-2456"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-979"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-975",
+      "ref": "N-975",
+      "name": "Alon Alexander",
+      "type": "person",
+      "description": "Private security executive; per displayed news clip, found guilty of sex trafficking of a minor and sexual abuse.",
+      "related_artifacts": [
+        "A-1836.1"
+      ],
+      "related_claims": [
+        "C-2456"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-979"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-978",
+      "ref": "N-978",
+      "name": "Mike Huckabee",
+      "type": "person",
+      "description": "Father of Sarah Huckabee Sanders; named by host as contextually relevant to Israel theme.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-969",
+        "N-1606"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-979",
+      "ref": "N-979",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Named in displayed news-clip context as having close ties with Alexander brothers; named by host as Epstein-files redaction beneficiary.",
+      "related_artifacts": [
+        "A-1836.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-973",
+        "N-974",
+        "N-975"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-981",
+      "ref": "N-981",
+      "name": "Faith Kates",
+      "type": "person",
+      "description": "Founder of Next Model Management, the Rothschild spin-out modeling agency with which Erica Kirk is alleged to have dealt.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2",
+        "N-1605"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-982",
+      "ref": "N-982",
+      "name": "Christina Babin",
+      "type": "person",
+      "description": "Former Children of God member interviewed by Megyn Kelly in 2018; described childhood sexual instruction by adult cult members.",
+      "related_artifacts": [
+        "A-1840.1"
+      ],
+      "related_claims": [
+        "C-2461"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-972"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1604",
+      "ref": "N-1604",
+      "name": "301 East 66th Street NYC Building Investigation",
+      "type": "investigation_target",
+      "description": "Building identified in displayed NY Post article as Epstein site used to keep underage victims; apartments labeled in Epstein's address book as \"apartments for models.\" Per host, viewers identified building matching description of the \"white building\" associated with Erica Kirk's Next Model Management real-estate role.",
+      "related_artifacts": [
+        "A-1835.1"
+      ],
+      "related_claims": [
+        "C-2453",
+        "C-2454",
+        "C-2455"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-970",
+        "N-1605"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1605",
+      "ref": "N-1605",
+      "name": "Next Model Management / Erica Kirk Connection",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: alleged point-person role for Next Model Management housing of young models, including at a \"white building\" near 68th Street between Second and Third Avenue.",
+      "related_artifacts": [
+        "A-1835.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2",
+        "N-981",
+        "N-1604"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1606",
+      "ref": "N-1606",
+      "name": "Club America High School Pushback",
+      "type": "investigation_target",
+      "description": "Investigation target: state-level rollout of Club America (TPUSA) in high schools, including Arkansas proclamation; pushback reported in displayed user comments.",
+      "related_artifacts": [
+        "A-1837.1"
+      ],
+      "related_claims": [
+        "C-2457"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-969",
+        "N-978"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1607",
+      "ref": "N-1607",
+      "name": "Renee Crossman / United Hands Romania Cult Affiliation",
+      "type": "investigation_target",
+      "description": "Investigation target: Crossman's affiliation with Children of God / The Family per displayed Romanian investigative article, and the implications of her decade-plus work with Romanian orphanages accessed by Erica Kirk.",
+      "related_artifacts": [
+        "A-1838.1",
+        "A-1838.2",
+        "A-1839.1",
+        "A-1840.1"
+      ],
+      "related_claims": [
+        "C-2458",
+        "C-2459",
+        "C-2460",
+        "C-2470"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-971",
+        "N-972",
+        "N-982"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1608",
+      "ref": "N-1608",
+      "name": "9/10 Behind Charlie Video Analysis",
+      "type": "investigation_target",
+      "description": "Investigation target: forensic observations from the displayed behind-Charlie footage (necklace/magnet clasp state, blood pattern, hand motion at table).",
+      "related_artifacts": [
+        "A-1842.1",
+        "A-1842.2",
+        "A-1842.3",
+        "A-1842.4"
+      ],
+      "related_claims": [
+        "C-2463",
+        "C-2464",
+        "C-2465",
+        "C-2472"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-1610"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1609",
+      "ref": "N-1609",
+      "name": "Hospital Transport Van Interior Photo Analysis",
+      "type": "investigation_target",
+      "description": "Investigation target: forensic observations from displayed photos of van interior that transported Charlie Kirk to hospital, including Instaclot package identification and back-seat material distribution.",
+      "related_artifacts": [
+        "A-1841.1",
+        "A-1841.2",
+        "A-1841.3"
+      ],
+      "related_claims": [
+        "C-2462",
+        "C-2473"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1610",
+      "ref": "N-1610",
+      "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
+      "type": "investigation_target",
+      "description": "Investigation target: state and behavior of Kirk's necklace and magnet clasp as shown in displayed 9/10 video and surrounding testimony (Erica, Frank, Brian Harpole stories referenced by host).",
+      "related_artifacts": [
+        "A-1842.1",
+        "A-1842.4"
+      ],
+      "related_claims": [
+        "C-2463"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-1608"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1611",
+      "ref": "N-1611",
+      "name": "Turning Point Action / Thomas Massie Disavowal Incident",
+      "type": "investigation_target",
+      "description": "Investigation target: TP Action public reversal against Massie, who was a longtime Charlie Kirk favorite, and the surrounding X community note fact-check.",
+      "related_artifacts": [
+        "A-1843.1",
+        "A-1844.1",
+        "A-1844.2",
+        "A-1845.1"
+      ],
+      "related_claims": [
+        "C-2466",
+        "C-2467",
+        "C-2468",
+        "C-2469",
+        "C-2474"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-968",
+        "N-85"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Governor Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2453",
+      "ref": "C-2453",
+      "label": "NY Post article identifies 301 East 66th Street as building Epstein used to house underage victims",
+      "claim": "The displayed New York Post article identifies 301 East 66th Street, a 16-story post-war condo between First and Second Avenues, as a building where Jeffrey Epstein kept underage victims and which functioned as a logistical hub for his operations.",
+      "anchored_artifacts": [
+        "A-1835.1"
+      ],
+      "related_nodes": [
+        "N-1604",
+        "N-976",
+        "N-980",
+        "N-983",
+        "N-984"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:07",
+      "investigative_direction": "Obtain the full NY Post article and underlying unsealed records to verify the address, building ownership chain, and named victims."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2454",
+      "ref": "C-2454",
+      "label": "Epstein's address book labeled certain apartments as \"apartments for models\"",
+      "claim": "Per the displayed NY Post article, some apartments in the 301 East 66th Street building were labeled in Jeffrey Epstein's address book as \"apartments for models.\"",
+      "anchored_artifacts": [
+        "A-1835.1"
+      ],
+      "related_nodes": [
+        "N-1604",
+        "N-1605"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:48",
+      "investigative_direction": "Locate the cited civil complaint or sworn testimony referencing the address-book labeling and compare to Next Model Management operational addresses."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2455",
+      "ref": "C-2455",
+      "label": "NY Post article photo of the building was courtesy of Corcoran real estate",
+      "claim": "The photo embedded in the displayed NY Post article depicting the building was credited to Corcoran real estate.",
+      "anchored_artifacts": [
+        "A-1835.1"
+      ],
+      "related_nodes": [
+        "N-1604",
+        "N-1605"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:48",
+      "investigative_direction": "Confirm Corcoran's listing history for 301 East 66th Street and identify the Corcoran president referenced in Epstein files as a Rothschild."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2456",
+      "ref": "C-2456",
+      "label": "Alexander brothers convicted on all 10 counts including sex trafficking of a minor",
+      "claim": "Per the displayed news clip, a federal jury in Manhattan found Tal, Oren, and Alon Alexander guilty of all 10 counts, including sex trafficking; Tal and Alon also convicted of sex trafficking a minor; Oren and Alon also convicted of sexual abuse. Sentencing scheduled for August.",
+      "anchored_artifacts": [
+        "A-1836.1"
+      ],
+      "related_nodes": [
+        "N-973",
+        "N-974",
+        "N-975",
+        "N-979"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:25",
+      "investigative_direction": "Obtain federal court docket for the Southern District of New York case, cross-reference Epstein-file redaction entries, and document Kushner/White House visit records for the brothers."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2457",
+      "ref": "C-2457",
+      "label": "Sarah Huckabee Sanders signed proclamation supporting Club America in Arkansas high schools alongside Erica Kirk",
+      "claim": "Per the displayed clip, Arkansas Governor Sarah Huckabee Sanders signed a proclamation with Erica Kirk at her side announcing support for every high school in Arkansas to adopt Club America (TPUSA high-school chapter program).",
+      "anchored_artifacts": [
+        "A-1837.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-969",
+        "N-1606"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:44",
+      "investigative_direction": "Obtain the official proclamation text and any associated Arkansas Department of Education guidance; verify whether the proclamation is symbolic or carries operational force."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2458",
+      "ref": "C-2458",
+      "label": "2017 article records Erica Kirk stating she partnered with Renee Crossman of United Hands Romania",
+      "claim": "Per the displayed 2017 article, Erica Kirk stated: \"I am happy to collaborate with United Hands Romania Association and Renee Crossman, the president of this organization, but also with the representatives of the Antonio Placement Center.\"",
+      "anchored_artifacts": [
+        "A-1838.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-971",
+        "N-1607"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:48",
+      "investigative_direction": "Locate original 2017 article source and verify the Antonio Placement Center in Constanta; cross-check Romanian nonprofit registration records for United Hands Romania."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2459",
+      "ref": "C-2459",
+      "label": "Erica Kirk stated Romanian orphans did not trust Renee Crossman",
+      "claim": "Per the displayed interview clip, Erica Kirk stated that Romanian children associated with the orphanage program did not trust the woman running United Hands, even when offered gifts.",
+      "anchored_artifacts": [
+        "A-1838.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-971",
+        "N-1607"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:04",
+      "investigative_direction": "Identify the interview source and date; obtain statements from orphanage staff or volunteers regarding Crossman's access to children."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2460",
+      "ref": "C-2460",
+      "label": "Children of God founder David Berg advocated sexual relations with minors",
+      "claim": "Per the displayed Romanian investigative article, Children of God founder David Berg claimed incest and sex involving minors were permitted; the article states Berg made his daughter Faithy a sexual partner when she reached age 12.",
+      "anchored_artifacts": [
+        "A-1839.1"
+      ],
+      "related_nodes": [
+        "N-972",
+        "N-1607"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:27",
+      "investigative_direction": "Cross-reference with established historical documentation of the Children of God / The Family movement's teachings on minor sexual activity."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2461",
+      "ref": "C-2461",
+      "label": "Christina Babin stated adult cult members showed her how to have sex as a child",
+      "claim": "Per the displayed Megyn Kelly interview clip, Christina Babin described being taken by an adult couple in the night as a child and shown how to have sex, attributing the instruction to a letter sent by cult leader David Berg.",
+      "anchored_artifacts": [
+        "A-1840.1"
+      ],
+      "related_nodes": [
+        "N-972",
+        "N-982",
+        "N-1607"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:19",
+      "investigative_direction": "Locate the 2018 Megyn Kelly episode and Babin's full interview; corroborate with other documented survivor testimony regarding Berg's \"sexual sharing\" directive."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2462",
+      "ref": "C-2462",
+      "label": "Hospital transport van photos show scattered material across back seat",
+      "claim": "Per the displayed van interior photos, material (which the host observes appears consistent with shattered glass or a microphone component) is distributed across the back seat area.",
+      "anchored_artifacts": [
+        "A-1841.1",
+        "A-1841.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1609"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:45",
+      "investigative_direction": "Obtain high-resolution originals; have forensic imaging analysts characterize the scattered material and compare to TPUSA's account of vehicle interior condition."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2463",
+      "ref": "C-2463",
+      "label": "9/10 video shows Charlie's necklace with magnet clasp still attached after impact",
+      "claim": "Per the displayed video, the necklace worn by Charlie Kirk is shown moving/whipping upward after impact with the magnet clasp still attached to the chain.",
+      "anchored_artifacts": [
+        "A-1842.1",
+        "A-1842.4"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1608",
+        "N-1610"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:11",
+      "investigative_direction": "Compare video frame-by-frame to the multiple conflicting necklace-recovery stories told by Erica Kirk, Frank, and Brian Harpole (as referenced by host)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2464",
+      "ref": "C-2464",
+      "label": "9/10 video shows no blood traveling backward from Charlie's position",
+      "claim": "Per the displayed video, no blood is visible traveling backward from Charlie Kirk after he is hit, contrary to what a high-velocity projectile striking the head would be expected to produce.",
+      "anchored_artifacts": [
+        "A-1842.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1608"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:56",
+      "investigative_direction": "Engage forensic video analysts to assess the blood pattern in the displayed footage against expected wound ballistics for a .30-06 round."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2465",
+      "ref": "C-2465",
+      "label": "9/10 video shows Charlie's hands did not grab anything from the table as he fell",
+      "claim": "Per the displayed video, when Charlie Kirk's hands first make contact with the table, he does not grasp or take any object from it.",
+      "anchored_artifacts": [
+        "A-1842.3"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1608"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:06",
+      "investigative_direction": "Compare video evidence to prior commentary alleging he grabbed an item from the table; verify resolution of that sub-theory."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2466",
+      "ref": "C-2466",
+      "label": "Charlie Kirk video clip names Thomas Massie as one of his favorite congressmen",
+      "claim": "Per the displayed video clip, Charlie Kirk names Rep. Thomas Massie as one of his favorite members of Congress and welcomes him to discuss the new Church Committee.",
+      "anchored_artifacts": [
+        "A-1843.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-968",
+        "N-1611"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:41",
+      "investigative_direction": "Identify date and program of the clip; corroborate via multiple Charlie Kirk video instances praising Massie (per host, spanning 2016 through 2023)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2467",
+      "ref": "C-2467",
+      "label": "Turning Point Action tweeted labeling Massie as needing to be replaced",
+      "claim": "Per the displayed Turning Point Action tweet, the organization characterized Massie as a \"rhino\" who needed to be replaced.",
+      "anchored_artifacts": [
+        "A-1844.1"
+      ],
+      "related_nodes": [
+        "N-968",
+        "N-85",
+        "N-1611"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:29",
+      "investigative_direction": "Preserve original tweet (including any subsequent edits/deletions); identify the author of the TP Action account; document timing relative to Massie Committee work."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2468",
+      "ref": "C-2468",
+      "label": "X community note fact-checked Turning Point Action's Massie tweet",
+      "claim": "Per the displayed X community note, the Massie tweet from Turning Point Action was fact-checked with the statement: \"Rep. Thomas Massie was one of Charlie Kirk's favorite congressman.\"",
+      "anchored_artifacts": [
+        "A-1844.2"
+      ],
+      "related_nodes": [
+        "N-968",
+        "N-1611"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:29",
+      "investigative_direction": "Preserve community note metadata; identify raters and any subsequent updates to the note."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2469",
+      "ref": "C-2469",
+      "label": "Charlie Kirk praised Massie as favorite congressman in multiple clips across years",
+      "claim": "Per the displayed video instances cited in Massie's reply tweet and host commentary, Charlie Kirk identified Massie as a favorite congressman on multiple occasions from at least 2016 through 2023.",
+      "anchored_artifacts": [
+        "A-1843.1",
+        "A-1845.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-968",
+        "N-1611"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:27",
+      "investigative_direction": "Compile and date-stamp all public Charlie Kirk video appearances praising Massie; document the platform and audience of each."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2470",
+      "ref": "C-2470",
+      "label": "Romanian investigative article identifies Renee Crossman as having come from the Children of God / The Family religious sect",
+      "claim": "Per the displayed Romanian investigative article, Renee Crossman is identified by the Romanian investigative team as originating from the Children of God religious sect (now called The Family).",
+      "anchored_artifacts": [
+        "A-1839.1"
+      ],
+      "related_nodes": [
+        "N-971",
+        "N-1607"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:27",
+      "investigative_direction": "Locate the full investigative article; verify Crossman's documented affiliation independently; examine United Hands Romania registration and operational history."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2471",
+      "ref": "C-2471",
+      "label": "2017 article identifies Antonio Placement Center in Constanta as Erica Kirk's partnership site",
+      "claim": "Per the displayed 2017 article, Erica Kirk's partnership for the benefit of Romanian children was conducted with both the Antonio Placement Center in Constanta and Renee Crossman's United Hands Romania Association.",
+      "anchored_artifacts": [
+        "A-1838.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-971",
+        "N-1607"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:48",
+      "investigative_direction": "Verify Antonio Placement Center in Constanta exists as documented; obtain Romanian-language records and Constantine base access logs referenced by Kirk."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2472",
+      "ref": "C-2472",
+      "label": "9/10 video shows Dan pushing Charlie to the ground",
+      "claim": "Per the displayed video, an individual the host identifies as \"Dan\" is observed pushing Charlie Kirk to the ground after he is hit.",
+      "anchored_artifacts": [
+        "A-1842.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1608"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:21",
+      "investigative_direction": "Identify the individual referred to as \"Dan\" via displayed video and corroborate identity with official event staff rosters."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2473",
+      "ref": "C-2473",
+      "label": "Displayed van photos contradict the TPUSA account of Brian Harpole's posture during transport",
+      "claim": "Per the host's framing of the displayed van photos (corroborating analysis by Baron Coleman referenced by host), the photos do not depict the circumstances in which Brian Harpole was described as \"hanging out of the SUV.\"",
+      "anchored_artifacts": [
+        "A-1841.1",
+        "A-1841.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1609"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:14",
+      "investigative_direction": "Obtain official TPUSA narrative statements regarding Harpole's posture and timing; compare to multiple displayed photo angles."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2474",
+      "ref": "C-2474",
+      "label": "Thomas Massie publicly questioned what had \"gotten into\" Turning Point USA",
+      "claim": "Per the displayed Massie reply tweet, Massie directly asked Turning Point USA what had \"gotten into y'all\" in response to their tweet targeting him.",
+      "anchored_artifacts": [
+        "A-1845.1"
+      ],
+      "related_nodes": [
+        "N-968",
+        "N-1611"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:27",
+      "investigative_direction": "Preserve full reply-tweet thread; identify any subsequent TPUSA responses and document the public dispute timeline."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2475",
+      "ref": "C-2475",
+      "label": "Romanian investigative article states Children of God cult was instructed to disperse into nonprofit work",
+      "claim": "Per the displayed Romanian investigative article, the Children of God / The Family cult was subsequently instructed to disperse and hide themselves within the world of nonprofit organizations.",
+      "anchored_artifacts": [
+        "A-1839.1"
+      ],
+      "related_nodes": [
+        "N-972",
+        "N-1607"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:11",
+      "investigative_direction": "Cross-reference with documented post-1970s directives from David Berg and successor leadership regarding dispersal strategy; examine nonprofit registration patterns of former members."
+    }
+  ],
+  "memes": []
+}

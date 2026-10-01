@@ -1,0 +1,866 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 140,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "56d0f23b17a0cf753736039d602659d87c37358b53687d087f88f5fff2bdc3c5",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2267",
+      "family_ref": "A-2267",
+      "bundle_name": "Parking Garage Surveillance Stills Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2267.1",
+          "ref": "A-2267.1",
+          "description": "Clarified still of parking-garage subject — clearer, uncompressed frame described as showing a \"broad\" individual",
+          "related_claims": [
+            "C-3260",
+            "C-3261",
+            "C-3262"
+          ],
+          "related_nodes": [
+            "N-1025",
+            "N-2190"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2267.2",
+          "ref": "A-2267.2",
+          "description": "Still showing subject taking phone from left pocket and inserting earpiece in left ear",
+          "related_claims": [
+            "C-3260"
+          ],
+          "related_nodes": [
+            "N-2192"
+          ],
+          "tags": [],
+          "video_timestamp": "00:10:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2267.3",
+          "ref": "A-2267.3",
+          "description": "Still showing subject's lower legs and what host identifies as high white socks / sports leggings",
+          "related_claims": [
+            "C-3261"
+          ],
+          "related_nodes": [
+            "N-2190"
+          ],
+          "tags": [],
+          "video_timestamp": "00:11:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2267.4",
+          "ref": "A-2267.4",
+          "description": "Still showing subject's hat positioned above glasses/head",
+          "related_claims": [
+            "C-3262"
+          ],
+          "related_nodes": [
+            "N-2190"
+          ],
+          "tags": [],
+          "video_timestamp": "00:13:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2268",
+      "family_ref": "A-2268",
+      "bundle_name": "Tyler Robinson Maroon Shirt Media-Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2268.1",
+          "ref": "A-2268.1",
+          "description": "First viral media photo of Tyler Robinson in maroon shirt (sourced from mother's Facebook)",
+          "related_claims": [
+            "C-3263"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2268.2",
+          "ref": "A-2268.2",
+          "description": "Compilation of additional maroon-shirt photos used by media outlets, including childhood images",
+          "related_claims": [
+            "C-3263"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:06:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2268.3",
+          "ref": "A-2268.3",
+          "description": "Counter-example photos from mother's Facebook showing Tyler Robinson in blue, white, and green shirts (host's own screen-recorded review)",
+          "related_claims": [
+            "C-3264"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:07:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2269",
+      "family_ref": "A-2269",
+      "bundle_name": "Lance Twigs Left-Hand Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2269.1",
+          "ref": "A-2269.1",
+          "description": "Photo of Lance Twigs eating with left hand",
+          "related_claims": [
+            "C-3265"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:11:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2270",
+      "family_ref": "A-2270",
+      "bundle_name": "Agent Hoole Testimony Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2270.1",
+          "ref": "A-2270.1",
+          "description": "Audio excerpt of Agent Hoole testimony describing a vehicle stopping and making contact with a security officer identified as Officer Goforth",
+          "related_claims": [
+            "C-3266"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2271",
+      "family_ref": "A-2271",
+      "bundle_name": "George Zinn Arrest Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2271.1",
+          "ref": "A-2271.1",
+          "description": "Video of George Zinn's arrest showing pants-down / boxers visible and an unidentified item appearing to hang or fall",
+          "related_claims": [
+            "C-3267"
+          ],
+          "related_nodes": [
+            "N-2191"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:27:08",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2272",
+      "family_ref": "A-2272",
+      "bundle_name": "George Zinn Device Close-Up Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2272.1",
+          "ref": "A-2272.1",
+          "description": "High-resolution still showing the device visible between Zinn's legs / near his ankle",
+          "related_claims": [
+            "C-3267"
+          ],
+          "related_nodes": [
+            "N-2191"
+          ],
+          "tags": [],
+          "video_timestamp": "00:27:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2273",
+      "family_ref": "A-2273",
+      "bundle_name": "\"No Soup For You\" / Britta Widener Identification Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2273.1",
+          "ref": "A-2273.1",
+          "description": "Public records / identification linking the \"No Soup For You\" / \"No Soup For Noels\" X account to a 40–45-year-old woman",
+          "related_claims": [
+            "C-3269"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "video_timestamp": "00:32:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2273.2",
+          "ref": "A-2273.2",
+          "description": "DUI photograph of Britta Widener from prior year",
+          "related_claims": [
+            "C-3269"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2273.3",
+          "ref": "A-2273.3",
+          "description": "Tweet-counter account output showing 4,040 tweets by \"No Soup For You\" account about Candace Owens over 11 months",
+          "related_claims": [
+            "C-3270",
+            "C-3271"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:27",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2274",
+      "family_ref": "A-2274",
+      "bundle_name": "Andrew Wilson Debate Clip Bundle (Rachel Wilson Call-In)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2274.1",
+          "ref": "A-2274.1",
+          "description": "Audio clip from a prior debate in which Andrew Wilson leaves to smoke and his wife Rachel Wilson calls in",
+          "related_claims": [
+            "C-3272"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:39:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2275",
+      "family_ref": "A-2275",
+      "bundle_name": "Viewer Comments Bundle (Read Aloud)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2275.1",
+          "ref": "A-2275.1",
+          "description": "Manny Petty comment: McQuaid's immediate post-shooting phone behavior as suspicious",
+          "related_claims": [
+            "C-3273"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "video_timestamp": "00:46:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2275.2",
+          "ref": "A-2275.2",
+          "description": "Ellie comment: contrasting Candace's framing of \"let them live and face consequences\" vs. Frank Turick's \"she should be killed\"",
+          "related_claims": [
+            "C-3274"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:47:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2275.3",
+          "ref": "A-2275.3",
+          "description": "Brooke comment: \"weirdo that was smoking at every social event\" referring to Andrew Wilson",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:51:08",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2275.4",
+          "ref": "A-2275.4",
+          "description": "Patricia Pelly comment: praise for Candace",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:52:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2275.5",
+          "ref": "A-2275.5",
+          "description": "Impala comment: reference to Tyler Robinson dorm-room photo with phone outline in right pocket, supporting right-handedness",
+          "related_claims": [
+            "C-3275"
+          ],
+          "related_nodes": [
+            "N-2192"
+          ],
+          "tags": [],
+          "video_timestamp": "00:52:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2275.6",
+          "ref": "A-2275.6",
+          "description": "Lady Di comment: requests Rachel Wilson not attend the upcoming debate",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:54:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2275.7",
+          "ref": "A-2275.7",
+          "description": "Strada comment: TPUSA figures \"look 10 years older\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "video_timestamp": "00:54:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2275.8",
+          "ref": "A-2275.8",
+          "description": "\"True Detective\" donor comment referencing Beavis and Butt-Head",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:55:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2276",
+      "family_ref": "A-2276",
+      "bundle_name": "Dane Cook Vicious Cycle Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2276.1",
+          "ref": "A-2276.1",
+          "description": "Audio excerpt from Dane Cook's 2006 Vicious Cycle HBO special — \"B&E\" skit, \"favorite shirt\" passage, \"chain-link fence\" passage",
+          "related_claims": [
+            "C-3276"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:00–00:00:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of the broader investigation. Referenced here in viewer comments and host framing.",
+      "related_artifacts": [
+        "A-2275.1",
+        "A-2275.5"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1025"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1025",
+      "ref": "N-1025",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "Subject of the \"Protect Erika Kirk\" group chat described in this episode. Also referenced in viewer comments and host framing.",
+      "related_artifacts": [
+        "A-2267.1",
+        "A-2273.3",
+        "A-2275.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Newly identified individual in this episode. Linked to the \"No Soup For You\" / \"No Soup For Noels\" X account and to the \"Protect Erika Kirk\" 92-member group chat. Cited as approximately 45 years old with a prior-year DUI on record.",
+      "related_artifacts": [
+        "A-2273.1",
+        "A-2273.2",
+        "A-2273.3"
+      ],
+      "related_claims": [
+        "C-3269",
+        "C-3270",
+        "C-3271"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2190",
+      "ref": "N-2190",
+      "name": "Parking-Garage Subject Identity Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: whether the subject of the parking-garage surveillance stills is in fact Tyler Robinson, given apparent physical-trait discrepancies (left-handedness, high socks, hat-above-head positioning, broad build).",
+      "related_artifacts": [
+        "A-2267.1",
+        "A-2267.2",
+        "A-2267.3",
+        "A-2267.4"
+      ],
+      "related_claims": [
+        "C-3260",
+        "C-3261",
+        "C-3262"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2191",
+      "ref": "N-2191",
+      "name": "George Zinn Device Identification",
+      "type": "investigation_target",
+      "description": "Open investigative target: identify the walkie-talkie / iPhone-like device visible during George Zinn's arrest footage.",
+      "related_artifacts": [
+        "A-2271.1",
+        "A-2272.1"
+      ],
+      "related_claims": [
+        "C-3267"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2192",
+      "ref": "N-2192",
+      "name": "Tyler Robinson Handedness Verification",
+      "type": "investigation_target",
+      "description": "Open investigative target: verify Tyler Robinson's handedness against the left-hand-dominant behavior observed in parking-garage footage and against Lance Twigs's apparent handedness.",
+      "related_artifacts": [
+        "A-2267.2",
+        "A-2269.1",
+        "A-2275.5"
+      ],
+      "related_claims": [
+        "C-3260",
+        "C-3265",
+        "C-3275"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3260",
+      "ref": "C-3260",
+      "label": "Parking-garage subject appears left-hand dominant",
+      "claim": "In the parking-garage stills, the subject is shown retrieving a phone from his left pocket and inserting an earpiece into his left ear; a government source referenced by the host asserts this is consistent with left-handedness.",
+      "anchored_artifacts": [
+        "A-2267.2"
+      ],
+      "related_nodes": [
+        "N-2190",
+        "N-2192"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:05",
+      "investigative_direction": "Obtain the full uncompressed footage and verify the motion-direction sequence; cross-reference against court-documented handedness records for Tyler Robinson and Lance Twigs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3261",
+      "ref": "C-3261",
+      "label": "Parking-garage subject appears to be wearing high white socks or sports leggings",
+      "claim": "The stills show the subject with what appears to be high white socks pulled up the calf, while the arms appear tanned, prompting host speculation about concealed tattoos or skin-tone mismatch.",
+      "anchored_artifacts": [
+        "A-2267.3"
+      ],
+      "related_nodes": [
+        "N-2190"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:53",
+      "investigative_direction": "Obtain reference photos of Tyler Robinson's documented leg appearance on 2025-09-10; verify against booking/intake imagery."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3262",
+      "ref": "C-3262",
+      "label": "Parking-garage subject's hat appears positioned above the head as if accommodating a ponytail",
+      "claim": "The stills show the subject's hat sitting noticeably above his glasses and head, a styling the host interprets as accommodating a ponytail.",
+      "anchored_artifacts": [
+        "A-2267.4"
+      ],
+      "related_nodes": [
+        "N-2190"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:22",
+      "investigative_direction": "Obtain side-angle or higher-resolution imagery; verify by direct observation of booking photos for any concealed ponytail/headwear anomaly."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3263",
+      "ref": "C-3263",
+      "label": "Media initially presented Tyler Robinson predominantly in maroon shirts",
+      "claim": "In the period immediately following the public release of Tyler Robinson's name, news outlets globally used photos of him in maroon shirts, including childhood images, as the primary visual identifier.",
+      "anchored_artifacts": [
+        "A-2268.1",
+        "A-2268.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:12",
+      "investigative_direction": "Compile the visual catalog used by major outlets on 2025-09-12 through 2025-09-15 and assess the proportion of maroon-shirt imagery vs. available alternatives."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3264",
+      "ref": "C-3264",
+      "label": "Tyler Robinson's mother's Facebook contained many photos of Tyler in non-maroon shirts",
+      "claim": "The host states that a screen-recorded review of the mother's Facebook showed many photos of Tyler Robinson in blue, white, and green shirts, contradicting the maroon-only impression seeded by media selection.",
+      "anchored_artifacts": [
+        "A-2268.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:34",
+      "investigative_direction": "Obtain or verify the screen-recorded archive; cross-reference the original Facebook page if accessible."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3265",
+      "ref": "C-3265",
+      "label": "Lance Twigs appears to be left-hand dominant",
+      "claim": "The host presents a photo of Lance Twigs eating with his left hand and references prior observations (gas pumping, snowboarding, watch-wearing on piano) as consistent with left-handedness.",
+      "anchored_artifacts": [
+        "A-2269.1"
+      ],
+      "related_nodes": [
+        "N-2192"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:14",
+      "investigative_direction": "Obtain court records or biographical sources documenting Lance Twigs's stated handedness."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3266",
+      "ref": "C-3266",
+      "label": "Tyler Robinson's vehicle reportedly stopped and made contact with Officer Goforth during security detail",
+      "claim": "According to Agent Hoole's testimony as played in the episode, the suspect vehicle \"made contact with an officer that was doing security detail,\" identified as Officer Goforth.",
+      "anchored_artifacts": [
+        "A-2270.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:18:42",
+      "investigative_direction": "Obtain the full Agent Hoole testimony transcript and Officer Goforth's body-cam footage; verify the encounter's actual content (stop vs. drive-by)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3267",
+      "ref": "C-3267",
+      "label": "George Zinn had a walkie-talkie / iPhone-like device visible during arrest",
+      "claim": "High-resolution photos from George Zinn's arrest show an unidentified thicker device that appears to be a walkie-talkie-style or satellite-phone-style device hanging or fallen near his pants/ankle.",
+      "anchored_artifacts": [
+        "A-2271.1",
+        "A-2272.1"
+      ],
+      "related_nodes": [
+        "N-2191"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:34",
+      "investigative_direction": "Submit the close-up image to federal-law-enforcement-adjacent technical specialists for device identification; cross-check inventory and purpose."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3268",
+      "ref": "C-3268",
+      "label": "\"Protect Erika Kirk\" X group chat had 92 members",
+      "claim": "The host describes a group chat of 92 individuals focused on monitoring and opposing Candace Owens's coverage, with toxic elements including interest in the host's residence and family.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1025",
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:34",
+      "investigative_direction": "Obtain independent verification of membership size, group origin date, and named administrators."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3269",
+      "ref": "C-3269",
+      "label": "Britta Widener (No Soup For You account) is approximately 45 years old",
+      "claim": "The account \"No Soup For You\" / \"No Soup For Noels,\" previously assumed to be a teenager, has been identified as belonging to Britta Widener, described as a 45-year-old woman, with a prior-year DUI photo referenced.",
+      "anchored_artifacts": [
+        "A-2273.1",
+        "A-2273.2"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:22",
+      "investigative_direction": "Confirm identity through public records and account-history linkage."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3270",
+      "ref": "C-3270",
+      "label": "Britta Widener sent 4,040 tweets about Candace Owens in 11 months",
+      "claim": "A tweet-counter account shows that \"No Soup For You\" sent 4,040 tweets about Candace Owens between Charlie Kirk's assassination and the date of the count.",
+      "anchored_artifacts": [
+        "A-2273.3"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:27",
+      "investigative_direction": "Obtain the underlying tweet-counter screenshot and verify date range and account identifier."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3271",
+      "ref": "C-3271",
+      "label": "Candace Owens sent 104 tweets about Erica Kirk in the same period (per same tweet-counter source)",
+      "claim": "The host states she sent 104 tweets about Erica Kirk in the same 11-month window — presented as a comparison baseline against the 4,040 tweets by Britta Widener.",
+      "anchored_artifacts": [
+        "A-2273.3"
+      ],
+      "related_nodes": [
+        "N-1025",
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:13",
+      "investigative_direction": "Obtain the tweet-counter output and verify both figures and their date ranges."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3272",
+      "ref": "C-3272",
+      "label": "Andrew Wilson's wife Rachel called into a debate he was participating in",
+      "claim": "In a prior debate clip, Andrew Wilson exited to smoke and his wife Rachel Wilson called in to debate on his behalf; the host characterizes this as a recurring pattern.",
+      "anchored_artifacts": [
+        "A-2274.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:29",
+      "investigative_direction": "Obtain the full debate recording and date; verify whether this was a sanctioned call-in."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3273",
+      "ref": "C-3273",
+      "label": "Mikey McQuaid's immediate post-shooting reaction is being questioned by viewer Manny Petty",
+      "claim": "Viewer Manny Petty asserts that Mikey McQuaid was on the phone within two seconds of Charlie Kirk being shot, did not appear visibly shocked, and walked away; host concurs that the official explanations have been inconsistent.",
+      "anchored_artifacts": [
+        "A-2275.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:41",
+      "investigative_direction": "Review body-cam footage, phone-records evidence, and contemporaneous witness statements regarding McQuaid's actions immediately post-shooting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3274",
+      "ref": "C-3274",
+      "label": "Ellie (viewer) frames Candace's \"let them live and face consequences\" stance as distinct from Frank Turick's \"she should be killed\" framing",
+      "claim": "A viewer comment contrasts Candace's stated position with Frank Turick's framing of Erica Kirk as deserving death; host concurs that the latter framing is dark.",
+      "anchored_artifacts": [
+        "A-2275.2"
+      ],
+      "related_nodes": [
+        "N-1025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:55",
+      "investigative_direction": "Verify the quoted Frank Turick statement against its original source."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3275",
+      "ref": "C-3275",
+      "label": "Tyler Robinson is right-handed per court documents",
+      "claim": "The host states that court documents show Tyler Robinson taking notes with his right hand, establishing right-handedness; this is presented in response to viewer Impala's reference to a phone outline in Tyler's right pocket in a dorm-room photo.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-2192"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:51",
+      "investigative_direction": "Obtain the specific court exhibit referenced and confirm the right-hand note-taking image."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3276",
+      "ref": "C-3276",
+      "label": "Host uses Dane Cook's \"favorite shirt\" passage as analogical commentary on the parking-garage subject's apparel choice",
+      "claim": "The host reads the Dane Cook \"B&E\" skit's \"favorite shirt\" passage aloud and uses it as a humorous analogical frame for arguing that the maroon-shirt choice by the parking-garage subject is implausible for someone trying to evade detection.",
+      "anchored_artifacts": [
+        "A-2276.1"
+      ],
+      "related_nodes": [
+        "N-2190"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:18",
+      "investigative_direction": "Not directly verifiable; relevant only as documented rhetorical framing."
+    }
+  ],
+  "memes": []
+}

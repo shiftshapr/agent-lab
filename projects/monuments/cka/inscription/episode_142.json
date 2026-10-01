@@ -1,0 +1,1342 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 142,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "8fa969dba43042db5893cc29c3f2e01cf24703d976572f4015d20142f83e6dab",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode centers on the September 10, 2025 evidence-handling behavior of Terrell Farnsworth, Turning Point USA's audio-visual lead. The host presents read-aloud excerpts from Farnsworth's 1102 sworn statement, an audio clip of SBI Agent David Hull's preliminary-hearing testimony, a clip from YouTuber Nissi's back-camera comparison video, and an audio excerpt of Andrew Kulvette's Tucker Carlson appearance explaining the SD-card removal as protection against \"evil people.\" The episode's evidentiary centerpiece is newly released footage allegedly showing Farnsworth pocketing the SD card, looking around, and immediately texting on his phone after the camera removal.\n\nThe episode advances several investigative questions: (1) whether Farnsworth's claimed Google-hacking fear was a lie, given his same-day Google Drive transmission; (2) whether footage from behind Charlie Kirk's head was specifically clipped and zoomed in; (3) whether FBI involvement in a state-level Utah homicide is procedurally anomalous, supported by a clip of former CIA officer John Kirraou. The episode also presents a Joe Rogan Experience clip in which panelists discuss apparent perspective distortion in a published Tyler Robinson identification photo, and a WearForbidden parody video.\n\nStructurally, this episode functions as evidence-chain and chain-of-custody consolidation prior to the next development in the series.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2284",
+      "family_ref": "A-2284",
+      "bundle_name": "Terrell Farnsworth 1102 Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2284.1",
+          "ref": "A-2284.1",
+          "description": "1102 Statement — First Portion (four videos via Google Drive)",
+          "related_claims": [
+            "C-3290",
+            "C-3291",
+            "C-3292"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2196"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2284.2",
+          "ref": "A-2284.2",
+          "description": "1102 Statement — Second Portion (80704 clipped-footage representation)",
+          "related_claims": [
+            "C-3295"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2199"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:08",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2285",
+      "family_ref": "A-2285",
+      "bundle_name": "SBI Agent David Hull Testimony Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2285.1",
+          "ref": "A-2285.1",
+          "description": "Hull Preliminary-Hearing Audio Clip — Visual Impulse Video Chain of Custody",
+          "related_claims": [
+            "C-3292"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208",
+            "N-2197"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2286",
+      "family_ref": "A-2286",
+      "bundle_name": "Nissi Back-Camera Comparison Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2286.1",
+          "ref": "A-2286.1",
+          "description": "Nissi Video Analysis — Wide-Angle vs Zoomed Back Camera Across Tour Stops",
+          "related_claims": [
+            "C-3293"
+          ],
+          "related_nodes": [
+            "N-1212",
+            "N-2198"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2287",
+      "family_ref": "A-2287",
+      "bundle_name": "Andrew Kulvette Tucker Carlson Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2287.1",
+          "ref": "A-2287.1",
+          "description": "Kulvette Audio Clip — \"Because I know people can be evil\" Explanation",
+          "related_claims": [
+            "C-3294"
+          ],
+          "related_nodes": [
+            "N-1211",
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2288",
+      "family_ref": "A-2288",
+      "bundle_name": "September 10 Exclusive Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2288.1",
+          "ref": "A-2288.1",
+          "description": "Terrell Farnsworth Post-Removal Behavior (Pocket / Look-Around / Text)",
+          "related_claims": [
+            "C-3296"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2200"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2289",
+      "family_ref": "A-2289",
+      "bundle_name": "John Kirraou Danny Jones Podcast Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2289.1",
+          "ref": "A-2289.1",
+          "description": "Kirraou Audio Clip — FBI Involvement in State-Case Question",
+          "related_claims": [
+            "C-3297"
+          ],
+          "related_nodes": [
+            "N-1213",
+            "N-1214",
+            "N-2201"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2290",
+      "family_ref": "A-2290",
+      "bundle_name": "Joe Rogan Experience Episode Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2290.1",
+          "ref": "A-2290.1",
+          "description": "Rogan Panel Audio Clip — Tyler Robinson Photo Distortion Discussion",
+          "related_claims": [
+            "C-3298"
+          ],
+          "related_nodes": [
+            "N-1216",
+            "N-1217",
+            "N-1218",
+            "N-1219",
+            "N-2202"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2291",
+      "family_ref": "A-2291",
+      "bundle_name": "WearForbidden Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2291.1",
+          "ref": "A-2291.1",
+          "description": "WearForbidden Parody Video — \"Positive Evidence\" / Pickle Pup Erika Kirk Skit",
+          "related_claims": [
+            "C-3299"
+          ],
+          "related_nodes": [
+            "N-1221"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2292",
+      "family_ref": "A-2292",
+      "bundle_name": "Top Comments From Yesterday's Episode Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2292.1",
+          "ref": "A-2292.1",
+          "description": "Comment by K. — Andrew Wilson debate at 1.75x speed",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1211",
+            "N-2203"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:12",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2292.2",
+          "ref": "A-2292.2",
+          "description": "Comment by Nikki — $100,000/hour humiliation",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1211",
+            "N-2203"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:20",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2292.3",
+          "ref": "A-2292.3",
+          "description": "Comment by Trillion — TPUSA PR strategy disaster",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2203"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:28",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2293",
+      "family_ref": "A-2293",
+      "bundle_name": "Comments From Today's Episode Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2293.1",
+          "ref": "A-2293.1",
+          "description": "Comment by \"the one you feed\" — Bug-sweep of Candace's house",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1225"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:51",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2293.2",
+          "ref": "A-2293.2",
+          "description": "Comment by Alicia Switzer — Ian Carol 6-hour reaction video",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1222"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:18",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2293.3",
+          "ref": "A-2293.3",
+          "description": "Comment by James Gray — Woman-hating man paid 300K",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:05",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2293.4",
+          "ref": "A-2293.4",
+          "description": "Comment by TJ Palo — \"Because I know people can be evil\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:38",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2293.5",
+          "ref": "A-2293.5",
+          "description": "Comment by Blackest Panther — Israel focus claim",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2204"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:10",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2293.6",
+          "ref": "A-2293.6",
+          "description": "Comment by Zamut — \"Burden bestowed on Candace Owens is a blessing\"",
+          "related_claims": [
+            "C-3301"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:55",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2293.7",
+          "ref": "A-2293.7",
+          "description": "Comment by Anna — Text-message \"left\" contradiction",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1215",
+            "N-2205"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:50:43",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2293.8",
+          "ref": "A-2293.8",
+          "description": "Comment by Joey D. April — \"Debategate\" timeline entry",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2203"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:38",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2293.9",
+          "ref": "A-2293.9",
+          "description": "Comment by Golf/Cadence — Kanye \"Stars\" reference",
+          "related_claims": [
+            "C-3301"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:53:33",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "TPUSA audio-visual lead; operator of Visual Impulse; submitted 1102 statement dated May 6, 2026; allegedly lied to host about Google-hacking fears.",
+      "related_artifacts": [
+        "A-2284.1",
+        "A-2284.2",
+        "A-2285.1",
+        "A-2287.1",
+        "A-2288.1"
+      ],
+      "related_claims": [
+        "C-3290",
+        "C-3291",
+        "C-3292",
+        "C-3294",
+        "C-3295",
+        "C-3296"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2196",
+        "N-2197",
+        "N-2199",
+        "N-2200"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "SBI lead investigator; testified in preliminary hearing regarding Visual Impulse video chain of custody.",
+      "related_artifacts": [
+        "A-2285.1"
+      ],
+      "related_claims": [
+        "C-3292"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2197"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Camera operator; yellow-camera position (front-left of Charlie, facing questioner).",
+      "related_artifacts": [
+        "A-2284.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Camera operator; blue-camera position (Charlie uplose critical shot).",
+      "related_artifacts": [
+        "A-2284.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "TPUSA-associated figure who publicly defended Terrell Farnsworth's SD-card removal on Tucker Carlson. Name spelling varies across the transcript — flagged for uncertainty.",
+      "related_artifacts": [
+        "A-2287.1",
+        "A-2292.1",
+        "A-2292.2",
+        "A-2293.3",
+        "A-2293.4"
+      ],
+      "related_claims": [
+        "C-3294"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Independent YouTube investigator; produced comparison video of back-camera angles across tour stops.",
+      "related_artifacts": [
+        "A-2286.1"
+      ],
+      "related_claims": [
+        "C-3293"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2198"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Former CIA officer; appeared on Danny Jones podcast questioning FBI jurisdiction in the case. Name spelling varies — flagged.",
+      "related_artifacts": [
+        "A-2289.1"
+      ],
+      "related_claims": [
+        "C-3297"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2201"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Podcast host; JRE panel discussed Tyler Robinson photo distortion.",
+      "related_artifacts": [
+        "A-2290.1"
+      ],
+      "related_claims": [
+        "C-3298"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2202"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Comedian panelist on Rogan discussion clip.",
+      "related_artifacts": [
+        "A-2290.1"
+      ],
+      "related_claims": [
+        "C-3298"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Comedian panelist on Rogan discussion clip.",
+      "related_artifacts": [
+        "A-2290.1"
+      ],
+      "related_claims": [
+        "C-3298"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Comedian panelist on Rogan discussion clip.",
+      "related_artifacts": [
+        "A-2290.1"
+      ],
+      "related_claims": [
+        "C-3298"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "Podcast host of the show on which Kirraou appeared.",
+      "related_artifacts": [
+        "A-2289.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1221",
+      "ref": "N-1221",
+      "name": "Autopsy Record – Utah Privacy Statute Application",
+      "type": "investigation_target",
+      "description": "Content creator; produced Erika Kirk \"positive evidence\" / Pickle Pup parody.",
+      "related_artifacts": [
+        "A-2291.1"
+      ],
+      "related_claims": [
+        "C-3299"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1222",
+      "ref": "N-1222",
+      "name": "Hospital Routing Anomaly",
+      "type": "investigation_target",
+      "description": "Reaction-video creator; produced 6-hour reaction video referenced in comments.",
+      "related_artifacts": [
+        "A-2293.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1223",
+      "ref": "N-1223",
+      "name": "TPUSA Faith Packet / Israel References Claim",
+      "type": "investigation_target",
+      "description": "Independent investigator referenced by host as collaborator.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2206"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1224",
+      "ref": "N-1224",
+      "name": "ADL–FBI Partnership Structure",
+      "type": "investigation_target",
+      "description": "Independent investigator referenced by host as collaborator.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2206"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1225",
+      "ref": "N-1225",
+      "name": "Connecticut FBI Field Office Deployment Anomaly",
+      "type": "investigation_target",
+      "description": "TPUSA-associated figure referenced alongside Andrew Kulvette in host's outreach offer.",
+      "related_artifacts": [
+        "A-2293.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1226",
+      "ref": "N-1226",
+      "name": "Tyler Robinson Defense Selection Anomaly",
+      "type": "investigation_target",
+      "description": "Figure referenced by host regarding questioning whether back-camera footage was edited. Spelling flagged.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2199",
+        "N-2200"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1227",
+      "ref": "N-1227",
+      "name": "Witness and Public-Figure Demeanor Anomalies",
+      "type": "investigation_target",
+      "description": "Plaintiff in lawsuit referenced by host as motivating her interest in obtaining the back-camera footage.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2198",
+        "N-2199"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1228",
+      "ref": "N-1228",
+      "name": "SD Card Removal Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Interview host on which Andrew Kulvette explained the SD-card removal.",
+      "related_artifacts": [
+        "A-2287.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1211"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2196",
+      "ref": "N-2196",
+      "name": "Terrell Farnsworth Google-Hack Contradiction",
+      "type": "investigation_target",
+      "description": "Persistent target: Farnsworth's claim of fearing Google hacking is contradicted by his same-day Google Drive usage.",
+      "related_artifacts": [
+        "A-2284.1"
+      ],
+      "related_claims": [
+        "C-3290",
+        "C-3291"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2197",
+      "ref": "N-2197",
+      "name": "TPUSA Video Chain of Custody",
+      "type": "investigation_target",
+      "description": "Investigation target: discrepancy between flash-drive/Google-link delivery versus original SD cards.",
+      "related_artifacts": [
+        "A-2285.1"
+      ],
+      "related_claims": [
+        "C-3292"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2198",
+      "ref": "N-2198",
+      "name": "Back-Camera Footage Discrepancy",
+      "type": "investigation_target",
+      "description": "Investigation target: zoomed-in / cropped framing of the September 10 back-camera footage versus wide-angle convention.",
+      "related_artifacts": [
+        "A-2286.1"
+      ],
+      "related_claims": [
+        "C-3293"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1212",
+        "N-1227"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2199",
+      "ref": "N-2199",
+      "name": "80704 Clip Origin Verification",
+      "type": "investigation_target",
+      "description": "Investigation target: who clipped the three-minute segment of footage labeled 80704, and why only that camera was clipped.",
+      "related_artifacts": [
+        "A-2284.2"
+      ],
+      "related_claims": [
+        "C-3295"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-1226"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2200",
+      "ref": "N-2200",
+      "name": "Terrell Post-Removal Communications",
+      "type": "investigation_target",
+      "description": "Investigation target: identity of recipient and content of text message(s) sent by Farnsworth within minutes of removing the SD card.",
+      "related_artifacts": [
+        "A-2288.1"
+      ],
+      "related_claims": [
+        "C-3296"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-1226"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2201",
+      "ref": "N-2201",
+      "name": "FBI Jurisdiction Question",
+      "type": "investigation_target",
+      "description": "Investigation target: procedural anomaly of FBI primary involvement in a Utah state-level homicide case.",
+      "related_artifacts": [
+        "A-2289.1"
+      ],
+      "related_claims": [
+        "C-3297"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1213",
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2202",
+      "ref": "N-2202",
+      "name": "Tyler Robinson Identification Photo Distortion",
+      "type": "investigation_target",
+      "description": "Investigation target: alleged perspective/shrink manipulation of published Robinson identification photo.",
+      "related_artifacts": [
+        "A-2290.1"
+      ],
+      "related_claims": [
+        "C-3298"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1216"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2203",
+      "ref": "N-2203",
+      "name": "TPUSA Debate PR Strategy",
+      "type": "investigation_target",
+      "description": "Investigation target: Turning Point USA's choice to deploy Andrew Kulvette in a public debate format.",
+      "related_artifacts": [
+        "A-2292.1",
+        "A-2292.2",
+        "A-2292.3",
+        "A-2293.8"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2204",
+      "ref": "N-2204",
+      "name": "Debate Israel Focus",
+      "type": "investigation_target",
+      "description": "Investigation target: observation that Andrew Kulvette's debate opening statement pivoted to Israel focus.",
+      "related_artifacts": [
+        "A-2293.5"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2205",
+      "ref": "N-2205",
+      "name": "Charlie Kirk Pre-Event Text Messages",
+      "type": "investigation_target",
+      "description": "Investigation target: timeline of when pre-September 10 text messages from Kirk were disclosed, and their content regarding fears of \"the left.\"",
+      "related_artifacts": [
+        "A-2293.7"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1215"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2206",
+      "ref": "N-2206",
+      "name": "Independent Investigator Network",
+      "type": "investigation_target",
+      "description": "Investigation target: collaborative group of independent investigators including Nissi, Baron Coleman, Ian Carol, Coach Colin.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1212",
+        "N-1222",
+        "N-1223",
+        "N-1224"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Subject of host's verbal/journal claim that he \"slid into\" Charlie's studio within days of his death with $1 million, claiming to \"pick up the bloody mic\" (A-2351.1). No external artifact supports the claim in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Speaker at Charlie Kirk's memorial per host's journal entry (A-2351.1).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3290",
+      "ref": "C-3290",
+      "label": "Terrell Farnsworth Used Google Drive to Send Four Videos to SBI on September 10",
+      "claim": "Farnsworth's 1102 statement asserts he provided SBI with four videos through a Google Drive on September 10, 2025.",
+      "anchored_artifacts": [
+        "A-2284.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2196",
+        "N-2197"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:47",
+      "investigative_direction": "Verify the existence and timestamps of the four Google Drive videos referenced in the 1102 statement; obtain authenticated copy of the statement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3291",
+      "ref": "C-3291",
+      "label": "Terrell Farnsworth's Google-Hacking Fear Is Contradicted by His Same-Day Google Drive Usage",
+      "claim": "Farnsworth told the host on or about September 18 that he feared Google would hack him, despite having transmitted footage via Google Drive eight days earlier.",
+      "anchored_artifacts": [
+        "A-2284.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2196"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:56",
+      "investigative_direction": "Obtain the September 18 phone-call recording or contemporaneous notes; compare with the September 10 Google Drive transmission timestamp."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3292",
+      "ref": "C-3292",
+      "label": "TPUSA Initially Provided a Flash Drive and Google Links, Not Original SD Cards",
+      "claim": "SBI Agent David Hull testified that Farnsworth originally provided a flash drive to Lieutenant O'Brien, then downloadable Google links to Agent Mortonson on September 10, with the 1102 collected later on May 6, 2026 — not the SD cards.",
+      "anchored_artifacts": [
+        "A-2285.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-2197"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:35",
+      "investigative_direction": "Obtain certified preliminary-hearing transcript; confirm whether SD cards were ever handed over directly and to whom."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3293",
+      "ref": "C-3293",
+      "label": "Back-Camera Footage on September 10 Was Zoomed In Versus Wide-Angle Convention",
+      "claim": "YouTuber Nissi compared the back-camera shot at UVU on September 10 against wide-angle shots from FSU, USC, San Francisco, San Diego, Long Beach, Boise, and Washington State, concluding the September 10 footage was zoomed in / cropped rather than the conventional wide angle.",
+      "anchored_artifacts": [
+        "A-2286.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-2198"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:44",
+      "investigative_direction": "Obtain original uncropped September 10 back-camera footage; obtain Nissi's source clips from other tour stops for direct frame comparison."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3294",
+      "ref": "C-3294",
+      "label": "Andrew Kulvette Publicly Defended SD-Card Removal as Protection Against \"Evil People\"",
+      "claim": "Kulvette stated on Tucker Carlson that Farnsworth removed the SD cards \"because I know people can be evil,\" and described witnessing theft of hats from the table after the incident.",
+      "anchored_artifacts": [
+        "A-2287.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1207",
+        "N-1228"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:25",
+      "investigative_direction": "Obtain full Tucker Carlson interview segment; identify whether the SD cards referenced match the singular SD card observed being removed."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3295",
+      "ref": "C-3295",
+      "label": "Footage Behind Charlie's Head Was Specifically Clipped Into a Short Segment Labeled 80704",
+      "claim": "Farnsworth's 1102 statement describes clip 80704 as a \"true and correct representation of a portion of the larger files\" for the back-camera footage specifically, indicating the full back-camera file was clipped into a discrete segment.",
+      "anchored_artifacts": [
+        "A-2284.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2199"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:08",
+      "investigative_direction": "Obtain the original four-video files referenced in the 1102; compare lengths and metadata against the 80704 clip to determine clip origin."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3296",
+      "ref": "C-3296",
+      "label": "Exclusive Footage Shows Farnsworth Pocketing SD Card, Looking Around, and Texting",
+      "claim": "Newly released footage shows Farnsworth placing the SD card in his pocket, zipping the pocket, scanning surroundings, then using his phone to send a text message within minutes of the camera removal.",
+      "anchored_artifacts": [
+        "A-2288.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2200"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:20",
+      "investigative_direction": "Obtain chain-of-custody for the newly released footage itself; identify the text-message recipient via phone records or subpoena."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3297",
+      "ref": "C-3297",
+      "label": "Former CIA Officer Publicly Questioned FBI Primary Involvement in Utah State Homicide",
+      "claim": "John Kirraou stated on the Danny Jones podcast that no element of the September 9/10 case crossed state lines and therefore nothing should make it federal unless a conspiracy existed.",
+      "anchored_artifacts": [
+        "A-2289.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-1214",
+        "N-2201"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:34",
+      "investigative_direction": "Obtain full Danny Jones podcast segment; verify whether FBI has filed any federal charges or maintains any formal federal nexus."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3298",
+      "ref": "C-3298",
+      "label": "Joe Rogan Panel Discussed Perspective Distortion in Published Tyler Robinson Photo",
+      "claim": "Rogan and panelists discussed that the published photo of Tyler Robinson appeared to have a wider man \"shrunken\" into Robinson's proportions, with distorted car-hood proportions behind him.",
+      "anchored_artifacts": [
+        "A-2290.1"
+      ],
+      "related_nodes": [
+        "N-1216",
+        "N-1217",
+        "N-1218",
+        "N-1219",
+        "N-2202"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:33",
+      "investigative_direction": "Identify the original source of the published Robinson photo; obtain metadata and EXIF data; compare with independently sourced photographs of Robinson."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3299",
+      "ref": "C-3299",
+      "label": "WearForbidden Produced \"Positive Evidence\" / Pickle Pup Parody Video",
+      "claim": "Account WearForbidden released a parody video featuring an Erika Kirk-style character with \"Shabbat shalom,\" \"I CHOOSE YOU. PICKLE PUP,\" and a repeated \"positive evidence\" refrain.",
+      "anchored_artifacts": [
+        "A-2291.1"
+      ],
+      "related_nodes": [
+        "N-1221"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:46",
+      "investigative_direction": "Locate the WearForbidden source video for direct verification of framing and content."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3300",
+      "ref": "C-3300",
+      "label": "Host Asserts She Has Known Farnsworth's Post-Removal Behavior Since October",
+      "claim": "The host claims she has known since October what Farnsworth did after removing the camera, and is now publicly releasing the footage.",
+      "anchored_artifacts": [
+        "A-2288.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2200"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:20",
+      "investigative_direction": "Identify the source from whom the host obtained the footage in October; verify timing of receipt."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3301",
+      "ref": "C-3301",
+      "label": "Host Concurs with Zamut and Golf/Cadence Comments Praising Her Work",
+      "claim": "The host expresses agreement with comments framing her investigation as a \"blessing\" and complimenting her music taste.",
+      "anchored_artifacts": [
+        "A-2293.6",
+        "A-2293.9"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:00:00–00:00:01",
+      "investigative_direction": "No investigative direction; commentary-concurrence claim."
+    }
+  ],
+  "memes": []
+}

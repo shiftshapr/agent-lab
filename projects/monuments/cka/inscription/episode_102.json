@@ -1,0 +1,1681 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 102,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "96bdf8580abb4cedfb15c84e3fc6f2b56488e802cc03c0adb8c91e6d3d6c96f2",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2062",
+      "family_ref": "A-2062",
+      "bundle_name": "Project Constitution Social Media Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2062.1",
+          "ref": "A-2062.1",
+          "description": "Project Constitution X post alleging Andrew Kolvet divorce",
+          "related_claims": [
+            "C-2885"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1210",
+            "N-2065"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2063",
+      "family_ref": "A-2063",
+      "bundle_name": "Andrew Kolvet Response Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2063.1",
+          "ref": "A-2063.1",
+          "description": "Andrew Kolvet tweet denying divorce rumor",
+          "related_claims": [
+            "C-2884"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2065"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2064",
+      "family_ref": "A-2064",
+      "bundle_name": "Tyler Bowyer Response Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2064.1",
+          "ref": "A-2064.1",
+          "description": "Tyler Bowyer X post on false rumors",
+          "related_claims": [
+            "C-2886"
+          ],
+          "related_nodes": [
+            "N-85",
+            "N-2065"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2065",
+      "family_ref": "A-2065",
+      "bundle_name": "Blake Neff Response Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2065.1",
+          "ref": "A-2065.1",
+          "description": "Blake Neff X post defending Andrew Kolvet's WHCD absence",
+          "related_claims": [
+            "C-2887"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-1207",
+            "N-2065"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2066",
+      "family_ref": "A-2066",
+      "bundle_name": "Charlie Kirk Aspen Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2066.1",
+          "ref": "A-2066.1",
+          "description": "Audio clip of Charlie Kirk: \"I appoint my wife...\"",
+          "related_claims": [
+            "C-2888",
+            "C-2889"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-1209",
+            "N-2061"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2066.2",
+          "ref": "A-2066.2",
+          "description": "Host-maintained count: 39 days since first donor-faked report",
+          "related_claims": [
+            "C-2888"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-2061"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2067",
+      "family_ref": "A-2067",
+      "bundle_name": "Kimberly Klacik Social Media Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2067.1",
+          "ref": "A-2067.1",
+          "description": "Kimberly Klacik X post defending Erika's CEO appointment",
+          "related_claims": [
+            "C-2893"
+          ],
+          "related_nodes": [
+            "N-1212",
+            "N-2",
+            "N-2061"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2068",
+      "family_ref": "A-2068",
+      "bundle_name": "Marcus Wada AI Voice Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2068.1",
+          "ref": "A-2068.1",
+          "description": "Source-confirmed testimony: Marcus Wada offers AI voice services for TPUSA presentations",
+          "related_claims": [
+            "C-2890"
+          ],
+          "related_nodes": [
+            "N-1211",
+            "N-1224",
+            "N-2061"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2068.2",
+          "ref": "A-2068.2",
+          "description": "Source claim: TPUSA typically uses Pastor John Amanchukwu's AI-cloned voice for presentations",
+          "related_claims": [
+            "C-2891"
+          ],
+          "related_nodes": [
+            "N-1224",
+            "N-1211",
+            "N-2061"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2069",
+      "family_ref": "A-2069",
+      "bundle_name": "John Mappin Social Media Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2069.1",
+          "ref": "A-2069.1",
+          "description": "John Mappin X post sharing Aspen donor claim",
+          "related_claims": [
+            "C-2888",
+            "C-2892"
+          ],
+          "related_nodes": [
+            "N-1214",
+            "N-1",
+            "N-2",
+            "N-2061"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2070",
+      "family_ref": "A-2070",
+      "bundle_name": "Hillsdale College Event Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2070.1",
+          "ref": "A-2070.1",
+          "description": "Hillsdale College commencement / Erika Kirk honorary doctorate (verbally referenced)",
+          "related_claims": [
+            "C-2894"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1221"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2070.2",
+          "ref": "A-2070.2",
+          "description": "Brian Allen tweet criticizing Hillsdale honorary doctorate",
+          "related_claims": [
+            "C-2895"
+          ],
+          "related_nodes": [
+            "N-1213",
+            "N-2",
+            "N-1221"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2071",
+      "family_ref": "A-2071",
+      "bundle_name": "Erika Kirk LinkedIn Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2071.1",
+          "ref": "A-2071.1",
+          "description": "Erika Kirk old LinkedIn page (now removed) — claimed ASU magna cum laude graduation",
+          "related_claims": [
+            "C-2896"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-2062"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2071.2",
+          "ref": "A-2071.2",
+          "description": "Erika Kirk LinkedIn page — claimed summa cum laude with double degree (political science and international relations)",
+          "related_claims": [
+            "C-2897"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-2062"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2071.3",
+          "ref": "A-2071.3",
+          "description": "Erika Kirk LinkedIn page — claimed Doctor of Education in Christian Leadership from Liberty University",
+          "related_claims": [
+            "C-2899"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1222",
+            "N-2062"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:59",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2072",
+      "family_ref": "A-2072",
+      "bundle_name": "ASU Catalog Verification Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2072.1",
+          "ref": "A-2072.1",
+          "description": "Finding (Baron Coleman and others): ASU did not offer international relations degree in 2012",
+          "related_claims": [
+            "C-2898"
+          ],
+          "related_nodes": [
+            "N-1219",
+            "N-1223",
+            "N-2",
+            "N-2062"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:59",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2073",
+      "family_ref": "A-2073",
+      "bundle_name": "Nick Shirley Favela Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2073.1",
+          "ref": "A-2073.1",
+          "description": "Nick Shirley Brazilian favela infiltration video claim (referenced in episode)",
+          "related_claims": [
+            "C-2901"
+          ],
+          "related_nodes": [
+            "N-1215",
+            "N-2064"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:59",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2073.2",
+          "ref": "A-2073.2",
+          "description": "Patrick Bet-David interview clip with Nick Shirley",
+          "related_claims": [
+            "C-2902"
+          ],
+          "related_nodes": [
+            "N-1215",
+            "N-1216",
+            "N-2064"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2074",
+      "family_ref": "A-2074",
+      "bundle_name": "Alex Clark Social Media Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2074.1",
+          "ref": "A-2074.1",
+          "description": "Alex Clark tweet defending Nick Shirley",
+          "related_claims": [
+            "C-2903"
+          ],
+          "related_nodes": [
+            "N-1217",
+            "N-1215",
+            "N-2064"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2075",
+      "family_ref": "A-2075",
+      "bundle_name": "Brian Harpole Fort Huachuca Alibi Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2075.1",
+          "ref": "A-2075.1",
+          "description": "Brian Harpole flight records shown during Candace's private interview with Erika",
+          "related_claims": [
+            "C-2904",
+            "C-2908"
+          ],
+          "related_nodes": [
+            "N-1218",
+            "N-2",
+            "N-1207",
+            "N-2063"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2075.2",
+          "ref": "A-2075.2",
+          "description": "Fort Huachuca alibi photograph provided by Andrew Kolvet",
+          "related_claims": [
+            "C-2905",
+            "C-2907"
+          ],
+          "related_nodes": [
+            "N-1218",
+            "N-1207",
+            "N-2",
+            "N-2063"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2075.3",
+          "ref": "A-2075.3",
+          "description": "Paramount Tactical admission that Fort Huachuca alibi photo boy is not Erika Kirk's son",
+          "related_claims": [
+            "C-2906"
+          ],
+          "related_nodes": [
+            "N-1225",
+            "N-1218",
+            "N-2",
+            "N-1207",
+            "N-2063"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Turning Point USA executive referenced across multiple evidentiary threads in this episode: subject of false divorce rumor, alleged provider of Fort Huachuca alibi photo, reported coordinator with Paramount Tactical and Valhalla.",
+      "related_artifacts": [
+        "A-2062.1",
+        "A-2063.1",
+        "A-2065.1",
+        "A-2075.2",
+        "A-2075.3"
+      ],
+      "related_claims": [
+        "C-2884",
+        "C-2885",
+        "C-2887",
+        "C-2905",
+        "C-2906",
+        "C-2907"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-1218",
+        "N-2063",
+        "N-2065"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Turning Point USA communications figure; defended Kolvet's WHCD absence; previously expressed concern about AI accusations if the Charlie audio were released.",
+      "related_artifacts": [
+        "A-2065.1",
+        "A-2066.1"
+      ],
+      "related_claims": [
+        "C-2887"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-2061",
+        "N-2065"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "X account that originated the Andrew Kolvet divorce rumor and responded to backlash.",
+      "related_artifacts": [
+        "A-2062.1"
+      ],
+      "related_claims": [
+        "C-2885"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-2065"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Turning Point USA employee described as a \"rehabilitated former arms dealer\" who provides AI voice services for TPUSA presentations, per source testimony.",
+      "related_artifacts": [
+        "A-2068.1",
+        "A-2068.2"
+      ],
+      "related_claims": [
+        "C-2890",
+        "C-2891"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1224",
+        "N-2061"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Public figure who publicly questioned why the Charlie Kirk \"I appoint my wife\" audio matters if the board elected Erika.",
+      "related_artifacts": [
+        "A-2067.1"
+      ],
+      "related_claims": [
+        "C-2893"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-2061"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Social media user who publicly criticized Hillsdale College's Erika Kirk honorary doctorate as DEI contradiction.",
+      "related_artifacts": [
+        "A-2070.2"
+      ],
+      "related_claims": [
+        "C-2895"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-1221"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Public figure who introduced Charlie Kirk to his \"biggest donor\"; shared Aspen donor's claim that the audio nomination moment never happened.",
+      "related_artifacts": [
+        "A-2069.1"
+      ],
+      "related_claims": [
+        "C-2888",
+        "C-2892"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-2061"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "23-year-old self-styled journalist; subject of Candace's skepticism regarding Brazilian favela infiltration video; central to this episode's \"Nick Shirley drama\" segment.",
+      "related_artifacts": [
+        "A-2073.1",
+        "A-2073.2",
+        "A-2074.1"
+      ],
+      "related_claims": [
+        "C-2901",
+        "C-2902",
+        "C-2903"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1216",
+        "N-1217",
+        "N-2064"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Host of PBD Podcast; interviewed Nick Shirley on the AI audio/Candace controversy.",
+      "related_artifacts": [
+        "A-2073.2"
+      ],
+      "related_claims": [
+        "C-2902"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1215",
+        "N-2064"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Public figure who defended Nick Shirley on social media with the tweet \"Nick Shirley is a real journalist. Candace Owens is not.\"",
+      "related_artifacts": [
+        "A-2074.1"
+      ],
+      "related_claims": [
+        "C-2903"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1215",
+        "N-2064"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Subject of the Fort Huachuca sighting allegations and the disputed alibi documentation; reported as having filed a lawsuit containing allegedly false statements.",
+      "related_artifacts": [
+        "A-2075.1",
+        "A-2075.2",
+        "A-2075.3"
+      ],
+      "related_claims": [
+        "C-2904",
+        "C-2905",
+        "C-2906",
+        "C-2907",
+        "C-2908"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-1207",
+        "N-2063"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Online investigator who helped verify ASU did not offer international relations degree in 2012.",
+      "related_artifacts": [
+        "A-2072.1"
+      ],
+      "related_claims": [
+        "C-2898"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-1223",
+        "N-2062"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "Named by host's source as the typical voice used in TPUSA AI-generated presentations.",
+      "related_artifacts": [
+        "A-2068.2"
+      ],
+      "related_claims": [
+        "C-2891"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1211",
+        "N-2061"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1221",
+      "ref": "N-1221",
+      "name": "Autopsy Record – Utah Privacy Statute Application",
+      "type": "investigation_target",
+      "description": "Conservative institution that hosted Erika Kirk's commencement address and awarded her an honorary doctorate.",
+      "related_artifacts": [
+        "A-2070.1",
+        "A-2070.2"
+      ],
+      "related_claims": [
+        "C-2894",
+        "C-2895"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-1213"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1222",
+      "ref": "N-1222",
+      "name": "Hospital Routing Anomaly",
+      "type": "investigation_target",
+      "description": "Institution cited by Erika Kirk's LinkedIn as the source of a claimed Doctor of Education in Christian Leadership.",
+      "related_artifacts": [
+        "A-2071.3"
+      ],
+      "related_claims": [
+        "C-2899"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-2062"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1223",
+      "ref": "N-1223",
+      "name": "TPUSA Faith Packet / Israel References Claim",
+      "type": "investigation_target",
+      "description": "Institution whose 2012 course catalog is the basis for verifying Erika's claimed political science/international relations degree.",
+      "related_artifacts": [
+        "A-2072.1"
+      ],
+      "related_claims": [
+        "C-2898"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-1219",
+        "N-2062"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1224",
+      "ref": "N-1224",
+      "name": "ADL–FBI Partnership Structure",
+      "type": "investigation_target",
+      "description": "YouTuber who defended Brian Harpole's Fort Huachuca alibi and later admitted the alibi photograph boy is not Erika Kirk's son.",
+      "related_artifacts": [
+        "A-2075.3"
+      ],
+      "related_claims": [
+        "C-2906",
+        "C-2907"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1218",
+        "N-2063"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1225",
+      "ref": "N-1225",
+      "name": "Connecticut FBI Field Office Deployment Anomaly",
+      "type": "investigation_target",
+      "description": "YouTuber identified by host as coordinating with Paramount Tactical and Andrew Kolvet on the Harpole alibi pushback.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2907"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-1218",
+        "N-1224",
+        "N-2063"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2061",
+      "ref": "N-2061",
+      "name": "Charlie Kirk Aspen Audio Authenticity Question",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: whether the released TPUSA audio of Charlie Kirk nominating Erika as CEO is authentic, AI-generated, or fabricated. Supported by donor testimony, AI-voice source, and Blake Neff's prior AI concern.",
+      "related_artifacts": [
+        "A-2066.1",
+        "A-2066.2",
+        "A-2067.1",
+        "A-2068.1",
+        "A-2068.2",
+        "A-2069.1"
+      ],
+      "related_claims": [
+        "C-2888",
+        "C-2889",
+        "C-2890",
+        "C-2891",
+        "C-2892",
+        "C-2893"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1209",
+        "N-1211",
+        "N-1212",
+        "N-1214",
+        "N-1220"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2062",
+      "ref": "N-2062",
+      "name": "Erika Kirk Educational Credentials Discrepancy",
+      "type": "investigation_target",
+      "description": "Investigation target: reconciliation of Erika Kirk's LinkedIn degree claims (ASU magna/summa laude, double degree in political science & international relations, Liberty University Ed.D.) with public records showing no honors, no double degree, and ASU not offering the international relations degree in 2012.",
+      "related_artifacts": [
+        "A-2071.1",
+        "A-2071.2",
+        "A-2071.3",
+        "A-2072.1"
+      ],
+      "related_claims": [
+        "C-2896",
+        "C-2897",
+        "C-2898",
+        "C-2899"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-1219",
+        "N-1222",
+        "N-1223"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2063",
+      "ref": "N-2063",
+      "name": "Brian Harpole Fort Huachuca Presence Verification",
+      "type": "investigation_target",
+      "description": "Investigation target: whether Brian Harpole was present at Fort Huachuca on the date alleged by Mitch, given the disputed alibi photo, the flight records that do not cover the alleged sighting window, and Paramount Tactical's admission the alibi photo is not of Erika's son.",
+      "related_artifacts": [
+        "A-2075.1",
+        "A-2075.2",
+        "A-2075.3"
+      ],
+      "related_claims": [
+        "C-2904",
+        "C-2905",
+        "C-2906",
+        "C-2907",
+        "C-2908"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-1207",
+        "N-1218",
+        "N-1224",
+        "N-1225"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2064",
+      "ref": "N-2064",
+      "name": "Nick Shirley Background and Backing Verification",
+      "type": "investigation_target",
+      "description": "Investigation target: verification of Nick Shirley's claimed journalism credentials, plausibility of his Brazilian favela infiltration story, and identification of who is backing him in the media ecosystem.",
+      "related_artifacts": [
+        "A-2073.1",
+        "A-2073.2",
+        "A-2074.1"
+      ],
+      "related_claims": [
+        "C-2901",
+        "C-2902",
+        "C-2903"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1215",
+        "N-1216",
+        "N-1217"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2065",
+      "ref": "N-2065",
+      "name": "Project Constitution / TPUSA Divorce Rumor Verification",
+      "type": "investigation_target",
+      "description": "Investigation target: whether the Project Constitution divorce rumor regarding Andrew Kolvet had a factual basis, and the proportionality of TPUSA's response.",
+      "related_artifacts": [
+        "A-2062.1",
+        "A-2063.1",
+        "A-2064.1",
+        "A-2065.1"
+      ],
+      "related_claims": [
+        "C-2884",
+        "C-2885",
+        "C-2886",
+        "C-2887"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-85",
+        "N-1209",
+        "N-1210"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Governor Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2884",
+      "ref": "C-2884",
+      "label": "Andrew Kolvet denied divorce rumor via social media",
+      "claim": "Andrew Kolvet publicly denied divorce rumors via X post, telling Project Constitution \"LOL, you wish, fat boy\" and instructing them to keep his wife's name out of their mouth.",
+      "anchored_artifacts": [
+        "A-2063.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1210",
+        "N-2065"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:44",
+      "investigative_direction": "Verify the exact wording of Kolvet's post and timestamp against X archives; identify whether any divorce filings exist in Arizona court records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2885",
+      "ref": "C-2885",
+      "label": "Project Constitution reported Andrew Kolvet divorce rumor",
+      "claim": "An X account identifying as Project Constitution reported that Andrew Kolvet was getting a divorce.",
+      "anchored_artifacts": [
+        "A-2062.1"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-1207",
+        "N-2065"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:44",
+      "investigative_direction": "Identify the author and posting history of the Project Constitution account; obtain the original post content and any cited basis."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2886",
+      "ref": "C-2886",
+      "label": "Tyler Bowyer accused rumor-mongers of \"reckless disregard for truth\"",
+      "claim": "Tyler Bowyer publicly stated he has had \"numerous things like this said about us\" and characterized such reporting as \"reckless disregard for truth from people who call themselves investigators.\"",
+      "anchored_artifacts": [
+        "A-2064.1"
+      ],
+      "related_nodes": [
+        "N-85",
+        "N-1207",
+        "N-2065"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:41",
+      "investigative_direction": "Verify the original X post and any subsequent posts by Bowyer; cross-reference his stated history of false rumors."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2887",
+      "ref": "C-2887",
+      "label": "Blake Neff defended Andrew Kolvet's WHCD absence",
+      "claim": "Blake Neff publicly disputed the implication that Andrew Kolvet's wife was absent from the White House Correspondents Dinner, arguing that WHCD attendance requires press-issued invitations, that Kolvet lives in Phoenix, and questioning how anyone would know his wife's travel preferences.",
+      "anchored_artifacts": [
+        "A-2065.1"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1207",
+        "N-2065"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:41",
+      "investigative_direction": "Verify the original post; check WHCD invitation lists if publicly available."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2888",
+      "ref": "C-2888",
+      "label": "Donors present in Aspen assert Charlie Kirk's \"I appoint my wife\" audio was faked",
+      "claim": "Per Candace, donors who were present at the Aspen event assert that the TPUSA-released audio of Charlie Kirk saying \"I appoint my wife to run Turning Point USA if something happens to me\" was faked, and that the moment never happened. Candace states this report has been on the desk for 39 days as of this episode.",
+      "anchored_artifacts": [
+        "A-2066.1",
+        "A-2066.2",
+        "A-2069.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1209",
+        "N-1214",
+        "N-2061"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:12",
+      "investigative_direction": "Identify the specific donors by name; obtain written or recorded statements; secure the original unedited audio if TPUSA retains it; obtain independent audio-forensic analysis of the released clip."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2889",
+      "ref": "C-2889",
+      "label": "Released audio clip contains Charlie Kirk saying \"I appoint my wife to run Turning Point USA\"",
+      "claim": "The audio clip released by Turning Point USA contains Charlie Kirk stating three times \"I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job.\"",
+      "anchored_artifacts": [
+        "A-2066.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-2061"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:53",
+      "investigative_direction": "Locate TPUSA's original release of the clip; obtain timestamped metadata; compare against any verified recordings of Charlie Kirk's voice."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2890",
+      "ref": "C-2890",
+      "label": "Marcus Wada provides AI voice services for TPUSA presentations",
+      "claim": "Per a source who came forward, Turning Point USA employee Marcus Wada offers AI voice generation services for TPUSA presentations.",
+      "anchored_artifacts": [
+        "A-2068.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1220",
+        "N-2061"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:32",
+      "investigative_direction": "Verify Wada's TPUSA employment and the scope of his AI services; identify any other clients or projects; obtain a sample of his AI-generated voice work."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2891",
+      "ref": "C-2891",
+      "label": "TPUSA typically uses AI-cloned voice of Pastor John Amanchukwu in presentations",
+      "claim": "Per the source, Turning Point USA presentations typically feature AI-generated voice-over using Pastor John Amanchukwu's voice (described as with his permission).",
+      "anchored_artifacts": [
+        "A-2068.2"
+      ],
+      "related_nodes": [
+        "N-1224",
+        "N-1211",
+        "N-2061"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:32",
+      "investigative_direction": "Obtain a TPUSA presentation featuring the contested voice; verify with Pastor Amanchukwu whether he consented to voice cloning; secure source's full statement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2892",
+      "ref": "C-2892",
+      "label": "John Mappin publicly shared Aspen donor's claim the audio moment never happened",
+      "claim": "John Mappin shared on X that an Aspen donor told him the moment depicted in the audio never happened.",
+      "anchored_artifacts": [
+        "A-2069.1"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-1",
+        "N-2",
+        "N-2061"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:42",
+      "investigative_direction": "Verify Mappin's original X post and identify the donor he referenced; obtain Mappin's full statement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2893",
+      "ref": "C-2893",
+      "label": "Kimberly Klacik publicly questioned why the audio matters",
+      "claim": "Kimberly Klacik publicly argued on X that since the TPUSA board elected Erika Kirk as CEO and no donors had publicly questioned the decision, the authenticity of the audio does not matter.",
+      "anchored_artifacts": [
+        "A-2067.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-2",
+        "N-2061"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:42",
+      "investigative_direction": "Verify the original post; obtain TPUSA board meeting minutes documenting Erika's CEO election."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2894",
+      "ref": "C-2894",
+      "label": "Erika Kirk received honorary doctorate from Hillsdale College",
+      "claim": "Erika Kirk delivered the Hillsdale College commencement address and was awarded an honorary doctorate.",
+      "anchored_artifacts": [
+        "A-2070.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1221"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:43",
+      "investigative_direction": "Obtain Hillsdale College's official press release or commencement program; verify the date and the credentials cited for the award."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2895",
+      "ref": "C-2895",
+      "label": "Brian Allen publicly characterized Hillsdale's honorary doctorate for Erika as DEI",
+      "claim": "Brian Allen publicly argued on X that Hillsdale College awarding Erika Kirk an honorary doctorate and commencement platform contradicts Hillsdale's stated anti-DEI position, characterizing the decision as \"Diversity, equity and inclusion for me and not for thee.\"",
+      "anchored_artifacts": [
+        "A-2070.2"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-2",
+        "N-1221"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:39",
+      "investigative_direction": "Verify the original post; cross-reference Hillsdale's public statements on DEI."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2896",
+      "ref": "C-2896",
+      "label": "Erika Kirk's old LinkedIn claimed ASU magna cum laude graduation",
+      "claim": "Erika Kirk's older LinkedIn page (since removed) stated she graduated from Arizona State University magna cum laude, in connection with a Great American Race audition video.",
+      "anchored_artifacts": [
+        "A-2071.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1223",
+        "N-2062"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:23",
+      "investigative_direction": "Obtain archived versions of the LinkedIn page (Wayback Machine or other captures); verify against ASU graduation records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2897",
+      "ref": "C-2897",
+      "label": "Erika Kirk's LinkedIn was upgraded to claim summa cum laude with double degree",
+      "claim": "Erika Kirk later updated her LinkedIn page to state she graduated summa cum laude with a double degree in political science and international relations.",
+      "anchored_artifacts": [
+        "A-2071.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1223",
+        "N-2062"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:10",
+      "investigative_direction": "Obtain archived LinkedIn captures showing both versions; verify degree titles and honors with ASU registrar."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2898",
+      "ref": "C-2898",
+      "label": "ASU did not offer international relations degree in 2012",
+      "claim": "Per Baron Coleman and other online researchers, Arizona State University did not offer an international relations degree program at all in 2012, when Erika Kirk claims to have graduated.",
+      "anchored_artifacts": [
+        "A-2072.1"
+      ],
+      "related_nodes": [
+        "N-1219",
+        "N-1223",
+        "N-2",
+        "N-2062"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:59",
+      "investigative_direction": "Obtain ASU's archived 2012 course catalog directly from the university or library archives; verify the degree offerings list."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2899",
+      "ref": "C-2899",
+      "label": "Erika Kirk's LinkedIn claimed Doctor of Education from Liberty University",
+      "claim": "Erika Kirk's LinkedIn page lists a Doctor of Education in Christian Leadership from Liberty University, which she did not actually earn (took only a couple of credits toward the goal).",
+      "anchored_artifacts": [
+        "A-2071.3"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1222",
+        "N-2062"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:59",
+      "investigative_direction": "Verify Liberty's Ed.D. in Christian Leadership program; obtain Liberty's records on Erika Kirk's actual enrollment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2901",
+      "ref": "C-2901",
+      "label": "Nick Shirley claimed to have infiltrated Brazilian gang in 48 hours",
+      "claim": "Nick Shirley is associated with a video claiming he infiltrated the most dangerous gang in Brazil within 48 hours.",
+      "anchored_artifacts": [
+        "A-2073.1"
+      ],
+      "related_nodes": [
+        "N-1215",
+        "N-2064"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:59",
+      "investigative_direction": "Locate the original favela video; verify any corroborating evidence (local news, authorities, contacts)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2902",
+      "ref": "C-2902",
+      "label": "Patrick Bet-David hosted Nick Shirley and discussed Candace's prior skepticism",
+      "claim": "Patrick Bet-David's show hosted Nick Shirley, during which Shirley stated that Candace Owens \"came after me uh a while back\" and didn't believe his Brazilian favela video; Bet-David asked \"Why would Candace Owens come after you?\"",
+      "anchored_artifacts": [
+        "A-2073.2"
+      ],
+      "related_nodes": [
+        "N-1216",
+        "N-1215",
+        "N-2064"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:51",
+      "investigative_direction": "Obtain the full PBD interview clip and timestamp; verify PBD's framing of prior coverage."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2903",
+      "ref": "C-2903",
+      "label": "Alex Clark publicly defended Nick Shirley against Candace Owens",
+      "claim": "Alex Clark publicly wrote on X: \"Nick Shirley is a real journalist. Candace Owens is not.\"",
+      "anchored_artifacts": [
+        "A-2074.1"
+      ],
+      "related_nodes": [
+        "N-1217",
+        "N-1215",
+        "N-2064"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:15",
+      "investigative_direction": "Verify the original post and Alex Clark's relationship with Nick Shirley."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2904",
+      "ref": "C-2904",
+      "label": "Brian Harpole's alibi flights were 1:49 PM Dallas to Salt Lake City on the 9th",
+      "claim": "According to flight records shown to Candace during her private interview with Erika, Brian Harpole's alibi flights on the 9th departed Dallas at 1:49 PM for Salt Lake City — a window that does not cover the morning timeframe when Mitch reported seeing him at Fort Huachuca.",
+      "anchored_artifacts": [
+        "A-2075.1"
+      ],
+      "related_nodes": [
+        "N-1218",
+        "N-2",
+        "N-2063"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:33",
+      "investigative_direction": "Verify the flight records independently through airline records or TSA; obtain Brian Harpole's full itinerary for the date in question."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2905",
+      "ref": "C-2905",
+      "label": "Fort Huachuca alibi photograph was provided by Andrew Kolvet",
+      "claim": "A photograph allegedly depicting Erika Kirk with her children at Fort Huachuca was provided to online defenders by Andrew Kolvet, with the explicit instruction \"don't share.\"",
+      "anchored_artifacts": [
+        "A-2075.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1218",
+        "N-2",
+        "N-2063"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:24",
+      "investigative_direction": "Locate the original alibi photo and Andrew Kolvet's accompanying message; verify provenance."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2906",
+      "ref": "C-2906",
+      "label": "Paramount Tactical admitted the Fort Huachuca alibi photo boy is not Erika Kirk's son",
+      "claim": "Paramount Tactical admitted over the weekend that the boy depicted in the Fort Huachuca alibi photograph is not Erika Kirk's son; a source close to the family reportedly says the child is neither of Erika's children.",
+      "anchored_artifacts": [
+        "A-2075.3"
+      ],
+      "related_nodes": [
+        "N-1224",
+        "N-1207",
+        "N-1218",
+        "N-2",
+        "N-2063"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:24",
+      "investigative_direction": "Locate Paramount Tactical's specific admission statement; identify the actual child in the photo."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2907",
+      "ref": "C-2907",
+      "label": "Andrew Kolvet coordinated the Harpole alibi pushback with Paramount Tactical and Valhalla",
+      "claim": "Per host, Andrew Kolvet was the coordinator behind the Paramount Tactical and Valhalla YouTube efforts to push back on the Fort Huachuca allegations against Brian Harpole, despite Erika's claim that Kolvet was being moved off of PR responsibilities.",
+      "anchored_artifacts": [
+        "A-2075.2",
+        "A-2075.3"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1218",
+        "N-1224",
+        "N-1225",
+        "N-2063"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:24",
+      "investigative_direction": "Obtain direct evidence of coordination (emails, DMs, communications); obtain statement from Kolvet, Paramount Tactical, and Valhalla."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2908",
+      "ref": "C-2908",
+      "label": "Erika Kirk provided Candace with Brian Harpole's alibi during their private interview",
+      "claim": "During Candace's private interview with Erika Kirk, Erika volunteered Brian Harpole's flight records as his alibi — which Candace notes did not actually cover the timeframe of Mitch's sighting.",
+      "anchored_artifacts": [
+        "A-2075.1"
+      ],
+      "related_nodes": [
+        "N-1218",
+        "N-2",
+        "N-1207",
+        "N-2063"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:18",
+      "investigative_direction": "Obtain Candace's documented record of the interview; verify the flight records independently."
+    }
+  ],
+  "memes": []
+}

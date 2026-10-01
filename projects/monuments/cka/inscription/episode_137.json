@@ -1,0 +1,794 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 137,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "4e547f289a22113447c93d2ca9fef0dd0e07226713c206cab6e09945e3c02cb8",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2236",
+      "family_ref": "A-2236",
+      "bundle_name": "Frank Turek / Nicholas Bowling Podcast Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2236.1",
+          "ref": "A-2236.1",
+          "description": "Frank Turek clip citing Exodus 22:22 and Deuteronomy 19 against Candace Owens",
+          "related_claims": [
+            "C-3211"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2237",
+      "family_ref": "A-2237",
+      "bundle_name": "Woodworker Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2237.1",
+          "ref": "A-2237.1",
+          "description": "Email stating black nitrile gloves are most resistant to CA glue / spray activator",
+          "related_claims": [
+            "C-3212",
+            "C-3220"
+          ],
+          "related_nodes": [
+            "N-2178"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2238",
+      "family_ref": "A-2238",
+      "bundle_name": "CNN Article Bundle (Sept 11, 2025)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2238.1",
+          "ref": "A-2238.1",
+          "description": "CNN article: \"Authorities found a screwdriver near the recovered rifle\"",
+          "related_claims": [
+            "C-3213"
+          ],
+          "related_nodes": [
+            "N-2176",
+            "N-1215"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2239",
+      "family_ref": "A-2239",
+      "bundle_name": "Sky News Investigation Bundle (Iran school bombing)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2239.1",
+          "ref": "A-2239.1",
+          "description": "Sky News clip — Pete Hegseth exchange confirming investigation of school strike",
+          "related_claims": [
+            "C-3216"
+          ],
+          "related_nodes": [
+            "N-1213"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2239.2",
+          "ref": "A-2239.2",
+          "description": "Iranian state-linked news agency footage showing Tomahawk tail fins",
+          "related_claims": [
+            "C-3216"
+          ],
+          "related_nodes": [
+            "N-1213"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2240",
+      "family_ref": "A-2240",
+      "bundle_name": "Mark Levin Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2240.1",
+          "ref": "A-2240.1",
+          "description": "Mark Levin segment on arming Iranian protesters / \"ran red with blood\" testimony",
+          "related_claims": [
+            "C-3217"
+          ],
+          "related_nodes": [
+            "N-1214"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2241",
+      "family_ref": "A-2241",
+      "bundle_name": "Andrew Kovat Hotel Screenshot Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2241.1",
+          "ref": "A-2241.1",
+          "description": "Still image from Benny Johnson show (Sept 11) showing Andrew Kovat at Asher Adams Hotel",
+          "related_claims": [
+            "C-3215"
+          ],
+          "related_nodes": [
+            "N-1211",
+            "N-1212"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2242",
+      "family_ref": "A-2242",
+      "bundle_name": "Officer Bagley Testimony Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2242.1",
+          "ref": "A-2242.1",
+          "description": "Trial exchange — defense attorney questioning Bagley on whether he reviewed rooftop video between suspect's jump and his arrival",
+          "related_claims": [
+            "C-3214"
+          ],
+          "related_nodes": [
+            "N-1215",
+            "N-2177"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2243",
+      "family_ref": "A-2243",
+      "bundle_name": "Blake Neff X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2243.1",
+          "ref": "A-2243.1",
+          "description": "Neff post accusing Candace of harassing \"another random Utah police officer\"",
+          "related_claims": [
+            "C-3218"
+          ],
+          "related_nodes": [
+            "N-1216"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2244",
+      "family_ref": "A-2244",
+      "bundle_name": "Daily Mail Press Request Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2244.1",
+          "ref": "A-2244.1",
+          "description": "Daily Mail inquiry: \"What steps are you taking if the worst happens and you are raided by law enforcement?\"",
+          "related_claims": [
+            "C-3219"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2245",
+      "family_ref": "A-2245",
+      "bundle_name": "Viewer Comment Bundle (Catholic funeral/cremation)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2245.1",
+          "ref": "A-2245.1",
+          "description": "Isabella comment: cremation contrary to Catholic teaching; mock funeral query",
+          "related_claims": [
+            "C-3221"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Christian commentator cited by host for invoking Exodus 22:22 / Deuteronomy 19 against Candace Owens; host alleges pattern of similar rhetoric.",
+      "related_artifacts": [
+        "A-2236.1"
+      ],
+      "related_claims": [
+        "C-3211"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Host of podcast on which Frank Turek made the cited remarks.",
+      "related_artifacts": [
+        "A-2236.1"
+      ],
+      "related_claims": [
+        "C-3211"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Senator cited as the alleged cover identity used by an unidentified individual scoping UVU campus on Sept 9, 2025. Host explicitly exonerates him of wrongdoing.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2175"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "USU police officer formerly of San Bernardino PD; subject of Brady list inquiry and exoneration update. Spelling: A-L-A-N per host clarification (distinct from A-L-L-E-N / A-L-L-A-N).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2176"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Turning Point USA staff member identified via Benny Johnson show still at Asher Adams Hotel in Salt Lake City on Sept 11, 2025.",
+      "related_artifacts": [
+        "A-2241.1"
+      ],
+      "related_claims": [
+        "C-3215"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1212"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Host of show on which Andrew Kovat appeared Sept 11, 2025; source for hotel screenshot artifact.",
+      "related_artifacts": [
+        "A-2241.1"
+      ],
+      "related_claims": [
+        "C-3215"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1211"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "US Defense Secretary; subject of Sky News exchange on Iran school bombing investigation.",
+      "related_artifacts": [
+        "A-2239.1",
+        "A-2239.2"
+      ],
+      "related_claims": [
+        "C-3216"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Commentator whose audio clip on arming Iranian protesters was played; referenced as advisor influencing presidential posture.",
+      "related_artifacts": [
+        "A-2240.1"
+      ],
+      "related_claims": [
+        "C-3217"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "UVU Police Officer whose trial testimony on rooftop video review is questioned by host.",
+      "related_artifacts": [
+        "A-2238.1",
+        "A-2242.1"
+      ],
+      "related_claims": [
+        "C-3214"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2176",
+        "N-2177"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Turning Point USA figure; subject of X post artifact criticizing Candace.",
+      "related_artifacts": [
+        "A-2243.1"
+      ],
+      "related_claims": [
+        "C-3218"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Referenced by Blake Neff (per host) as companion in Salt Lake City whose whereabouts Neff reportedly could not recall.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1216"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "President of Preborn; sponsor content reference, not investigation.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2175",
+      "ref": "N-2175",
+      "name": "UVU Campus Sept 9 Scoping Incident",
+      "type": "investigation_target",
+      "description": "Persistent claim that on Sept 9, 2025 an unidentified individual scoped UVU campus and gave Mike Lee bodyguard cover story to UVU security. Source is verbal (host's \"source from UVU\"), not artifact-documented.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1209"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2176",
+      "ref": "N-2176",
+      "name": "Screwdriver Narrative Evolution",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy between Sept 11 CNN framing (\"near the rifle\") and Kash Patel / Bongino clarification (\"on the rooftop\"). Both positions are artifact-anchored within this episode and prior context.",
+      "related_artifacts": [
+        "A-2238.1"
+      ],
+      "related_claims": [
+        "C-3213"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1215",
+        "N-1210"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2177",
+      "ref": "N-2177",
+      "name": "Officer Bagley Rooftop Video Review Question",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy between host's expected investigative practice (review all rooftop footage between suspect jump and officer arrival) and Bagley's testimony that he did not do so.",
+      "related_artifacts": [
+        "A-2242.1"
+      ],
+      "related_claims": [
+        "C-3214"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1215"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2178",
+      "ref": "N-2178",
+      "name": "Black Nitrile Gloves / Door Compartment Evidence",
+      "type": "investigation_target",
+      "description": "Persistent question regarding black nitrile gloves observed in door compartment; whether they are woodworking/CA-glue gloves per host's woodworker-email source.",
+      "related_artifacts": [
+        "A-2237.1"
+      ],
+      "related_claims": [
+        "C-3212",
+        "C-3220"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3211",
+      "ref": "C-3211",
+      "label": "Frank Turek invoked Exodus 22:22 and Deuteronomy 19 in commentary directed at Candace Owens on Nicholas Bowling's podcast",
+      "claim": "Frank Turek, on a Nicholas Bowling podcast episode airing roughly Aug 3, 2026, cited Exodus 22:22 and Deuteronomy 19 in commentary accusing Candace Owens of falsely accusing people.",
+      "anchored_artifacts": [
+        "A-2236.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:17",
+      "investigative_direction": "Obtain the full Nicholas Bowling podcast episode audio/transcript to verify the exact wording and surrounding context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3212",
+      "ref": "C-3212",
+      "label": "Woodworker email states black nitrile gloves are standard resistance to CA glue and adhesive",
+      "claim": "A woodworker email received by Candace Owens's production states that black nitrile gloves are the most resistant to CA glue (super glue) and spray activator adhesive.",
+      "anchored_artifacts": [
+        "A-2237.1"
+      ],
+      "related_nodes": [
+        "N-2178"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:24",
+      "investigative_direction": "Verify CA glue / nitrile glove compatibility through woodworking safety data sheets or trade sources."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3213",
+      "ref": "C-3213",
+      "label": "CNN article on Sept 11, 2025 reported screwdriver was found \"near the recovered rifle\"",
+      "claim": "A CNN article dated September 11, 2025 stated that authorities recovered a screwdriver near the rifle believed used in the Charlie Kirk shooting, framing the screwdriver as evidence the shooter may have disassembled/reassembled the firearm.",
+      "anchored_artifacts": [
+        "A-2238.1"
+      ],
+      "related_nodes": [
+        "N-2176",
+        "N-1215"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:01",
+      "investigative_direction": "Compare this framing against the later (approx. Sept 15, 2025) Kash Patel / Bongino statement that the screwdriver was on the rooftop; obtain the original CNN article in full."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3214",
+      "ref": "C-3214",
+      "label": "Officer Bagley testified he did not review rooftop video between the suspect jumping off and his arrival",
+      "claim": "During cross-examination, Officer Christopher Bagley testified that he did not review the police department video footage to determine whether anyone else had been on the rooftop between the suspect's jump and his own arrival.",
+      "anchored_artifacts": [
+        "A-2242.1"
+      ],
+      "related_nodes": [
+        "N-1215",
+        "N-2177"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:22",
+      "investigative_direction": "Obtain trial transcripts or full video of Bagley's testimony to confirm wording and any clarification given."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3215",
+      "ref": "C-3215",
+      "label": "Andrew Kovat appeared on Benny Johnson's show from a room at the Asher Adams Hotel in Salt Lake City on Sept 11, 2025",
+      "claim": "A screenshot displayed from Benny Johnson's show on September 11, 2025 shows Andrew Kovat broadcasting from a room at the Asher Adams (Autograph Collection) Hotel in Salt Lake City.",
+      "anchored_artifacts": [
+        "A-2241.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1212"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:29",
+      "investigative_direction": "Confirm via hotel guest logs (subject to availability) or via further visual artifacts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3216",
+      "ref": "C-3216",
+      "label": "Sky News investigation identified Tomahawk missile tail fins in footage of the Iranian school strike",
+      "claim": "A Sky News investigation, drawing on Iranian state-linked news agency footage, identified Tomahawk missile tail fins in buildings struck during the Iranian school bombing; Sky News also stated a US carrier strike group was within range and that Tomahawks are precision-guided with onboard cameras.",
+      "anchored_artifacts": [
+        "A-2239.1",
+        "A-2239.2"
+      ],
+      "related_nodes": [
+        "N-1213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:43",
+      "investigative_direction": "Watch the full Sky News documentary segment; cross-reference carrier strike group positioning via Pentagon releases."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3217",
+      "ref": "C-3217",
+      "label": "Mark Levin publicly called for arming Iranian protesters",
+      "claim": "Mark Levin, in a played audio segment, urged arming Iranian protesters and referenced testimony from a protest leader describing Iranian streets running \"red with blood.\"",
+      "anchored_artifacts": [
+        "A-2240.1"
+      ],
+      "related_nodes": [
+        "N-1214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:17",
+      "investigative_direction": "Identify the original Levin broadcast (date, program) for full context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3218",
+      "ref": "C-3218",
+      "label": "Blake Neff publicly accused Candace Owens of harassing a random Utah police officer",
+      "claim": "Blake Neff posted on X accusing Candace Owens of harassing \"another random Utah police officer,\" accusing her of seeking dirt on him via former Marines, and characterizing her work as harassment for her \"grift.\"",
+      "anchored_artifacts": [
+        "A-2243.1"
+      ],
+      "related_nodes": [
+        "N-1216"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:19",
+      "investigative_direction": "Locate Neff's exact X post URL to confirm timestamp and surrounding context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3219",
+      "ref": "C-3219",
+      "label": "Daily Mail press request asked Candace Owens about contingency planning in case of a law enforcement raid",
+      "claim": "The Daily Mail, in a press request received by Candace Owens's team on or about Aug 3, 2026, asked what steps she is taking \"if the worst happens and you are raided by law enforcement.\"",
+      "anchored_artifacts": [
+        "A-2244.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:31",
+      "investigative_direction": "Confirm via Daily Mail editorial record or correspondence log."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3220",
+      "ref": "C-3220",
+      "label": "Host states her team fact-checked the woodworker email claim and verified its accuracy",
+      "claim": "Candace Owens states her team looked up and verified the woodworker's email claim that black nitrile gloves are the standard resistance to CA glue/spray activator, characterizing it as \"100% true.\"",
+      "anchored_artifacts": [
+        "A-2237.1"
+      ],
+      "related_nodes": [
+        "N-2178"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:14",
+      "investigative_direction": "Request the team's fact-check documentation; cross-reference with independent woodworking/safety sources."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3221",
+      "ref": "C-3221",
+      "label": "Some Catholic funeral homes in Arizona offer cremation services, contrary to standard Catholic doctrine",
+      "claim": "Candace Owens states that, contrary to Catholic doctrine prohibiting cremation, certain Catholic funeral homes in Arizona do in fact offer cremation services; she confirmed this via her own lookup.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:05",
+      "investigative_direction": "Cross-reference with the Diocese of Phoenix / Catholic Diocese of Arizona guidelines and named funeral homes."
+    }
+  ],
+  "memes": []
+}

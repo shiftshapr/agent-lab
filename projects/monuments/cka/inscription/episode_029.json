@@ -1,0 +1,1046 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 29,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "f464e8e712994efb56bee93a7c7a23da86a3df5028517114a2bdb3d80e5688a8",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1364",
+      "family_ref": "A-1364",
+      "bundle_name": "Lance Wallnau Facebook Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1364.1",
+          "ref": "A-1364.1",
+          "description": "Lance Wallnau Facebook Post (Nov 6, 2020)",
+          "related_claims": [
+            "C-1652"
+          ],
+          "related_nodes": [
+            "N-367"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1365",
+      "family_ref": "A-1365",
+      "bundle_name": "Lance Wallnau Seven Mountains Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1365.1",
+          "ref": "A-1365.1",
+          "description": "Lance Wallnau audio describing seven mountain mandate",
+          "related_claims": [
+            "C-1653"
+          ],
+          "related_nodes": [
+            "N-367"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:31–00:14:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1366",
+      "family_ref": "A-1366",
+      "bundle_name": "Frank Turek NAR Critique Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1366.1",
+          "ref": "A-1366.1",
+          "description": "Frank Turek audio describing NAR as \"darker than a cult\"",
+          "related_claims": [
+            "C-1654"
+          ],
+          "related_nodes": [
+            "N-368"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:06–00:18:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1367",
+      "family_ref": "A-1367",
+      "bundle_name": "Glenn Beck / Steve Baker Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1367.1",
+          "ref": "A-1367.1",
+          "description": "Glenn Beck broadcast featuring Steve Baker on Shawnie Ray Kirkup / January 6 pipe bombs",
+          "related_claims": [
+            "C-1655"
+          ],
+          "related_nodes": [
+            "N-363",
+            "N-364",
+            "N-365",
+            "N-1311"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:09–00:09:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1368",
+      "family_ref": "A-1368",
+      "bundle_name": "CIA Spokesperson Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1368.1",
+          "ref": "A-1368.1",
+          "description": "Liz Lyons (CIA spokesperson) statement re: Shawnie Kirkhoff / Capitol Police Campus Security",
+          "related_claims": [
+            "C-1656"
+          ],
+          "related_nodes": [
+            "N-365",
+            "N-366",
+            "N-1311"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1369",
+      "family_ref": "A-1369",
+      "bundle_name": "Frank McCormick X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1369.1",
+          "ref": "A-1369.1",
+          "description": "Frank McCormick X post claiming AI analysis showed Charlie Kirk text messages were \"digitally fabricated\"",
+          "related_claims": [
+            "C-1657"
+          ],
+          "related_nodes": [
+            "N-371"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:25–00:31:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1370",
+      "family_ref": "A-1370",
+      "bundle_name": "Charlie Kirk Text Message Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1370.1",
+          "ref": "A-1370.1",
+          "description": "Text messages displayed on air, allegedly from Charlie Kirk to Candace Owens, including the \"Iron sharpens iron\" passage",
+          "related_claims": [
+            "C-1658"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:24–00:32:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1371",
+      "family_ref": "A-1371",
+      "bundle_name": "Seth Dillon Babylon Bee Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1371.1",
+          "ref": "A-1371.1",
+          "description": "Seth Dillon tweet quoting Matthew 16:26 (\"what do you benefit if you gain the whole world but lose your own soul\")",
+          "related_claims": [
+            "C-1659"
+          ],
+          "related_nodes": [
+            "N-369"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1372",
+      "family_ref": "A-1372",
+      "bundle_name": "Joel Berry Babylon Bee Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1372.1",
+          "ref": "A-1372.1",
+          "description": "Joel Berry tweet stating Candace and Tucker gave \"our side nothing but demoralization, division, confusion, and conflict\"",
+          "related_claims": [
+            "C-1660"
+          ],
+          "related_nodes": [
+            "N-370"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1373",
+      "family_ref": "A-1373",
+      "bundle_name": "Grok X Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1373.1",
+          "ref": "A-1373.1",
+          "description": "Grok (X AI) public statement claiming Candace Owens accused Turning Point USA of orchestrating the October 15, 2025 Charlie Kirk assassination via former volunteer Marcus Hale",
+          "related_claims": [
+            "C-1661"
+          ],
+          "related_nodes": [
+            "N-373"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:53–00:37:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1374",
+      "family_ref": "A-1374",
+      "bundle_name": "Allie Beth Stuckey Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1374.1",
+          "ref": "A-1374.1",
+          "description": "Allie Beth Stuckey clip warning viewers about asking questions and accusing them of \"outsourcing your critical thinking\"",
+          "related_claims": [
+            "C-1662"
+          ],
+          "related_nodes": [
+            "N-372"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:55–00:34:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1375",
+      "family_ref": "A-1375",
+      "bundle_name": "Mark Levin Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1375.1",
+          "ref": "A-1375.1",
+          "description": "Mark Levin broadcast responding to Tucker Carlson debate request; declining and calling Carlson \"Nazi promoter\" / \"modern-day David Duke\"",
+          "related_claims": [
+            "C-1663"
+          ],
+          "related_nodes": [
+            "N-374",
+            "N-375"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:10–00:41:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1376",
+      "family_ref": "A-1376",
+      "bundle_name": "Keri Smith Deprogrammed Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1376.1",
+          "ref": "A-1376.1",
+          "description": "Keri Smith (Deprogrammed podcast) audio stating Candace Owens \"is exhibiting several cult tactics\" and \"cluster B personality disorder behavior\"",
+          "related_claims": [
+            "C-1664"
+          ],
+          "related_nodes": [
+            "N-376"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:50–00:46:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1377",
+      "family_ref": "A-1377",
+      "bundle_name": "BBC Borderline Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1377.1",
+          "ref": "A-1377.1",
+          "description": "BBC headline/article referencing Las Vegas shooting survivor among the dead at Borderline Bar and Grill",
+          "related_claims": [
+            "C-1665"
+          ],
+          "related_nodes": [
+            "N-1310"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:23:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1378",
+      "family_ref": "A-1378",
+      "bundle_name": "Timpanogos Tip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1378.1",
+          "ref": "A-1378.1",
+          "description": "Anonymous tip to host alleging federal agents seized hospital footage at Timpanogos Hospital on the day of the Charlie Kirk shooting",
+          "related_claims": [
+            "C-1666"
+          ],
+          "related_nodes": [
+            "N-1309"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:46–00:03:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-363",
+      "ref": "N-363",
+      "name": "Steve Baker",
+      "type": "person",
+      "description": "Reporter / editor credited with the five-year investigation identifying the alleged January 6 pipe-bomb dropper.",
+      "related_artifacts": [
+        "A-1367.1"
+      ],
+      "related_claims": [
+        "C-1655"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-364",
+      "ref": "N-364",
+      "name": "Glenn Beck",
+      "type": "person",
+      "description": "Host of the broadcast where Steve Baker's pipe-bomb findings were aired and played in this episode.",
+      "related_artifacts": [
+        "A-1367.1"
+      ],
+      "related_claims": [
+        "C-1655"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-365",
+      "ref": "N-365",
+      "name": "Shawnie Ray Kirkup / Kirkhoff",
+      "type": "person",
+      "description": "Person identified by Steve Baker (as \"Kirkup\") and by CIA spokesperson Liz Lyons (as \"Kirkhoff\") in connection with the January 6 pipe bombs; spelling discrepancy is preserved.",
+      "related_artifacts": [
+        "A-1367.1",
+        "A-1368.1"
+      ],
+      "related_claims": [
+        "C-1655",
+        "C-1656"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1311"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-366",
+      "ref": "N-366",
+      "name": "Liz Lyons",
+      "type": "person",
+      "description": "CIA spokeswoman cited in the episode as the source of the statement on Capitol Police Campus Security employment.",
+      "related_artifacts": [
+        "A-1368.1"
+      ],
+      "related_claims": [
+        "C-1656"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-367",
+      "ref": "N-367",
+      "name": "Lance Wallnau",
+      "type": "person",
+      "description": "NAR preacher; proponent of the seven mountain mandate; alleged (via anonymous Turning Point sources) to have directed funds into Turning Point USA Faith.",
+      "related_artifacts": [
+        "A-1364.1",
+        "A-1365.1"
+      ],
+      "related_claims": [
+        "C-1652",
+        "C-1653"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1312"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-368",
+      "ref": "N-368",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Christian apologist whose audio clip on NAR was played in the episode.",
+      "related_artifacts": [
+        "A-1366.1"
+      ],
+      "related_claims": [
+        "C-1654"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-369",
+      "ref": "N-369",
+      "name": "Seth Dillon",
+      "type": "person",
+      "description": "Babylon Bee principal whose tweet quoting Matthew 16:26 was read aloud in the episode.",
+      "related_artifacts": [
+        "A-1371.1"
+      ],
+      "related_claims": [
+        "C-1659"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-370",
+      "ref": "N-370",
+      "name": "Joel Berry",
+      "type": "person",
+      "description": "Babylon Bee writer whose tweet criticizing Candace/Tucker was read aloud in the episode.",
+      "related_artifacts": [
+        "A-1372.1"
+      ],
+      "related_claims": [
+        "C-1660"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-371",
+      "ref": "N-371",
+      "name": "Frank McCormick",
+      "type": "person",
+      "description": "X user who posted the AI-analysis claim challenging the authenticity of the Charlie Kirk text messages.",
+      "related_artifacts": [
+        "A-1369.1"
+      ],
+      "related_claims": [
+        "C-1657"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-372",
+      "ref": "N-372",
+      "name": "Allie Beth Stuckey",
+      "type": "person",
+      "description": "Commentator whose audio clip warning against asking questions without \"hard evidence\" was played in the episode.",
+      "related_artifacts": [
+        "A-1374.1"
+      ],
+      "related_claims": [
+        "C-1662"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-373",
+      "ref": "N-373",
+      "name": "Grok",
+      "type": "person",
+      "description": "X platform AI whose public statement about Candace/TPUSA/Marcus Hale was read aloud in the episode.",
+      "related_artifacts": [
+        "A-1373.1"
+      ],
+      "related_claims": [
+        "C-1661"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-374",
+      "ref": "N-374",
+      "name": "Mark Levin",
+      "type": "person",
+      "description": "Radio host whose on-air response declining Tucker Carlson's debate request was played in the episode.",
+      "related_artifacts": [
+        "A-1375.1"
+      ],
+      "related_claims": [
+        "C-1663"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-375",
+      "ref": "N-375",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Host identified as the sender of the debate-offer text message to Mark Levin and central subject of the Levin's on-air rebuttal.",
+      "related_artifacts": [
+        "A-1375.1"
+      ],
+      "related_claims": [
+        "C-1663"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-376",
+      "ref": "N-376",
+      "name": "Keri Smith",
+      "type": "person",
+      "description": "Host of the Deprogrammed podcast whose audio characterizing Candace Owens as exhibiting \"cult tactics\" and \"cluster B personality disorder behavior\" was played in the episode.",
+      "related_artifacts": [
+        "A-1376.1"
+      ],
+      "related_claims": [
+        "C-1664"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1309",
+      "ref": "N-1309",
+      "name": "Timpanogos Hospital Footage Seizure Verification",
+      "type": "investigation_target",
+      "description": "Persistent claim (host-relayed, tip-sourced) that federal agents seized hospital footage at Timpanogos on the day of the Kirk shooting; not independently corroborated in this episode.",
+      "related_artifacts": [
+        "A-1378.1"
+      ],
+      "related_claims": [
+        "C-1666"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1310",
+      "ref": "N-1310",
+      "name": "Borderline Bar Las Vegas Survivor Pattern",
+      "type": "investigation_target",
+      "description": "Host-asserted pattern linking the November 2018 Borderline Bar & Grill shooting (with a Las Vegas survivor among the dead) to the prior 2017 Las Vegas shooting and to Rob McCoy's subsequent election as Thousand Oaks mayor.",
+      "related_artifacts": [
+        "A-1377.1"
+      ],
+      "related_claims": [
+        "C-1665"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1311",
+      "ref": "N-1311",
+      "name": "Shawnie Ray Kirkup / Kirkhoff Identity Verification",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy in the episode between the spelling \"Kirkup\" (Steve Baker, via Glenn Beck audio) and \"Kirkhoff\" (CIA spokesperson Liz Lyons); preservation target for cross-source verification.",
+      "related_artifacts": [
+        "A-1367.1",
+        "A-1368.1"
+      ],
+      "related_claims": [
+        "C-1655",
+        "C-1656"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-365"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1312",
+      "ref": "N-1312",
+      "name": "Seven Mountain Mandate / NAR Influence on TPUSA Faith",
+      "type": "investigation_target",
+      "description": "Persistent investigable claim that NAR figures (notably Lance Wallnau) influenced and funded Turning Point USA Faith operations, and that this represents a broader \"faith-military constellation\" with infiltration doctrine.",
+      "related_artifacts": [
+        "A-1364.1",
+        "A-1365.1"
+      ],
+      "related_claims": [
+        "C-1652",
+        "C-1653"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-367"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1652",
+      "ref": "C-1652",
+      "label": "Lance Wallnau's November 6, 2020 Facebook Post Urged \"Stop the Steal\"",
+      "claim": "A Facebook post by Lance Wallnau dated November 6, 2020 was read aloud in the episode and stated: \"We're going to expose the fraud and stop the steal. The Lord our God is with us, and we were built for this battle. Be strong and courageous.\"",
+      "anchored_artifacts": [
+        "A-1364.1"
+      ],
+      "related_nodes": [
+        "N-367",
+        "N-1312"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:07",
+      "investigative_direction": "Retrieve and verify the original Facebook post via archive (e.g., Wayback Machine) or screenshot."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1653",
+      "ref": "C-1653",
+      "label": "Lance Wallnau Defined the Seven Mountain Mandate as a Cultural Infiltration Doctrine",
+      "claim": "In an audio clip played on the episode, Lance Wallnau defined the seven mountain mandate as covering religion, education, family, government, media, art/entertainment, and business/economics, and described pursuing it either \"covert\" or \"overt.\"",
+      "anchored_artifacts": [
+        "A-1365.1"
+      ],
+      "related_nodes": [
+        "N-367",
+        "N-1312"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:31–00:14:22",
+      "investigative_direction": "Retrieve the full source video to verify exact wording, context, and date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1654",
+      "ref": "C-1654",
+      "label": "Frank Turek Described NAR as a Cult \"Darker than a Cult\"",
+      "claim": "In an audio clip played on the episode, Frank Turek described the New Apostolic Reformation as having an \"aberrant\" hermeneutic and being \"more occult-like than Christian,\" and characterized NAR as \"darker than a cult.\"",
+      "anchored_artifacts": [
+        "A-1366.1"
+      ],
+      "related_nodes": [
+        "N-368"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:06–00:18:30",
+      "investigative_direction": "Retrieve the full source audio/podcast to verify exact wording and full context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1655",
+      "ref": "C-1655",
+      "label": "Steve Baker (via Glenn Beck) Identified Shawnie Ray Kirkup as the January 6 Pipe-Bomb Dropper",
+      "claim": "Reporter Steve Baker, interviewed on Glenn Beck's program and played in the episode, stated that a 31-year-old United States Capitol Police officer named Shawnie Ray Kirkup was identified as the person who dropped off the January 6 pipe bombs, and that this was a five-year forensic investigation.",
+      "anchored_artifacts": [
+        "A-1367.1"
+      ],
+      "related_nodes": [
+        "N-363",
+        "N-364",
+        "N-365",
+        "N-1311"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:09–00:09:40",
+      "investigative_direction": "Verify against federal charging documents, the Glenn Beck broadcast archive, and Steve Baker's contemporaneous reporting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1656",
+      "ref": "C-1656",
+      "label": "Liz Lyons (CIA) Stated Shawnie Kirkhoff Worked in Capitol Police Campus Security",
+      "claim": "CIA spokeswoman Liz Lyons, as relayed by the host, stated that \"Shawnie Kirkhoff\" worked in Capitol Police Campus Security and lived in Alexandria, Virginia.",
+      "anchored_artifacts": [
+        "A-1368.1"
+      ],
+      "related_nodes": [
+        "N-365",
+        "N-366",
+        "N-1311"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:32",
+      "investigative_direction": "Retrieve the original CIA press statement or statement of record to verify wording and confirm whether \"Kirkhoff\" and \"Kirkup\" refer to the same individual."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1657",
+      "ref": "C-1657",
+      "label": "Frank McCormick Claimed AI Analysis Showed Charlie Kirk Text Messages Were \"Digitally Fabricated\"",
+      "claim": "Frank McCormick posted on X that AI analysis of bubble design, profile placement, header layout, font, spacing, and color balance of the Charlie Kirk text messages displayed by Candace Owens concluded the messages were \"digitally fabricated.\"",
+      "anchored_artifacts": [
+        "A-1369.1"
+      ],
+      "related_nodes": [
+        "N-371"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:25–00:31:24",
+      "investigative_direction": "Retrieve the original X post and the underlying AI analysis to assess methodology and reliability."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1658",
+      "ref": "C-1658",
+      "label": "Text Messages Displayed On Air as Allegedly From Charlie Kirk",
+      "claim": "Text messages displayed on air, presented by the host as authentic messages from Charlie Kirk to Candace Owens, included the passage: \"Iron sharpens iron. It's not a dominance partnership. Each hand washes the other.\"",
+      "anchored_artifacts": [
+        "A-1370.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:24–00:32:35",
+      "investigative_direction": "Forensic examination of the displayed text metadata, corroborating testimony, and chain-of-custody verification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1659",
+      "ref": "C-1659",
+      "label": "Seth Dillon Tweeted Matthew 16:26 About Losing One's Soul",
+      "claim": "Seth Dillon (Babylon Bee) tweeted the Matthew 16:26 verse (\"what do you benefit if you gain the whole world but lose your own soul\") in response to Candace Owens' podcast hitting number one globally.",
+      "anchored_artifacts": [
+        "A-1371.1"
+      ],
+      "related_nodes": [
+        "N-369"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:07",
+      "investigative_direction": "Retrieve and verify the original tweet on Seth Dillon's X account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1660",
+      "ref": "C-1660",
+      "label": "Joel Berry Tweeted That Candace/Tucker Gave the Right \"Demoralization, Division, Confusion, and Conflict\"",
+      "claim": "Joel Berry (Babylon Bee) tweeted that in the last year Candace and Tucker had given \"our side nothing but demoralization, division, confusion, and conflict,\" calling their impact \"devastating\" and \"pathetic.\"",
+      "anchored_artifacts": [
+        "A-1372.1"
+      ],
+      "related_nodes": [
+        "N-370"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:06",
+      "investigative_direction": "Retrieve and verify the original tweet on Joel Berry's X account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1661",
+      "ref": "C-1661",
+      "label": "Grok Stated Candace Owens Accused Turning Point USA of Orchestrating Kirk's Assassination",
+      "claim": "Grok (X AI) issued a public statement read aloud in the episode claiming that \"Candace Owens accused Turning Point USA of Charlie Kirk assassination role\" and that she alleged TPUSA orchestrated the October 15, 2025 assassination via former volunteer Marcus Hale.",
+      "anchored_artifacts": [
+        "A-1373.1"
+      ],
+      "related_nodes": [
+        "N-373"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:53–00:37:53",
+      "investigative_direction": "Retrieve the original Grok/X post and compare against Candace Owens' contemporaneous statements on the show."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1662",
+      "ref": "C-1662",
+      "label": "Allie Beth Stuckey Warned Viewers Against Asking Questions Without \"Hard Evidence\"",
+      "claim": "In an audio clip played on the episode, Allie Beth Stuckey told viewers they were \"outsourcing your critical thinking\" by following the Candace Owens investigation and warned that implicating a real person in a murder required being \"100% sure\" with \"hard evidence.\"",
+      "anchored_artifacts": [
+        "A-1374.1"
+      ],
+      "related_nodes": [
+        "N-372"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:55–00:34:48",
+      "investigative_direction": "Retrieve the full source video to verify exact wording and full context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1663",
+      "ref": "C-1663",
+      "label": "Mark Levin Declined Tucker Carlson's Debate Request",
+      "claim": "In an audio clip played on the episode, Mark Levin responded to Tucker Carlson's debate offer with the text-message reply \"My family and I want nothing to do with you,\" and called Carlson a \"Nazi promoter\" and \"modern-day David Duke,\" stating he would \"rather debate a skunk than\" Carlson.",
+      "anchored_artifacts": [
+        "A-1375.1"
+      ],
+      "related_nodes": [
+        "N-374",
+        "N-375"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:10–00:41:45",
+      "investigative_direction": "Retrieve the full Mark Levin broadcast to verify exact wording and any additional context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1664",
+      "ref": "C-1664",
+      "label": "Keri Smith (Deprogrammed) Said Candace Owens Exhibits \"Cult Tactics\" and \"Cluster B Personality Disorder Behavior\"",
+      "claim": "Keri Smith, host of the Deprogrammed podcast, in audio played on the episode, said Candace Owens \"is exhibiting several cult tactics\" and \"a lot of cluster B personality disorder behavior.\"",
+      "anchored_artifacts": [
+        "A-1376.1"
+      ],
+      "related_nodes": [
+        "N-376"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:50–00:46:29",
+      "investigative_direction": "Retrieve the full Deprogrammed episode to verify exact wording and complete reasoning."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1665",
+      "ref": "C-1665",
+      "label": "BBC Reported a Las Vegas Shooting Survivor Was Among the Dead at the Borderline Bar & Grill",
+      "claim": "A BBC headline referenced in the episode reported that a Las Vegas shooting survivor was among the dead at the Borderline Bar and Grill shooting.",
+      "anchored_artifacts": [
+        "A-1377.1"
+      ],
+      "related_nodes": [
+        "N-1310"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:17",
+      "investigative_direction": "Retrieve the original BBC article to verify the headline, the identity of the survivor, and the broader reporting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1666",
+      "ref": "C-1666",
+      "label": "Feds Allegedly Seized Footage at Timpanogos Hospital on the Day of the Kirk Shooting",
+      "claim": "According to anonymous tips relayed by the host, federal agents seized footage at Timpanogos Hospital on the day of the Charlie Kirk shooting.",
+      "anchored_artifacts": [
+        "A-1378.1"
+      ],
+      "related_nodes": [
+        "N-1309"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:46–00:03:01",
+      "investigative_direction": "Verify via FOIA requests, hospital records, contemporaneous reporting, or independent witness testimony."
+    }
+  ],
+  "memes": []
+}

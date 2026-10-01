@@ -1,0 +1,21 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 113,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "284494e41be2a4e0d3496dd36da9a63186261daf51e052dbe0b6d145c6781632",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Episode 113 covers four artifact-anchored threads: (1) Ivanka/Jared Albania/Sazan Island visit via Nat Rothschild yacht with PM Rama meeting; (2) Hegseth CENTCOM press on Iran bombs and Gitmo trip with Laura Loomer; (3) Spectator US article arguing bombing Iran celebrates Pride; (4) TPUSA's Kolb/Neff claiming Charlie Kirk appointment video was 'trolling the trolls'. Charlie Kirk investigation continues with FOIA for Brad Hansell re Fort Huachuca.",
+  "artifacts": [],
+  "nodes": [],
+  "claims": [],
+  "memes": []
+}

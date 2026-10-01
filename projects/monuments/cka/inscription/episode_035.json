@@ -1,0 +1,940 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 35,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "1ad209fbac97054099e9ed002c95c5fad552959675fdc3534eced317ed9c4aab",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Episode 35 centers on a read-aloud anonymous insider email that alleges the Egyptian military aircraft tail number SUBTT made repeated, multi-day stops in Wilmington, Delaware because of federal activity at 920 North King Street, a building the email identifies as housing the FBI, DEA, and Secret Service. The host anchors the email's premises to a series of displayed/linked artifacts: the host's compiled flight-pattern chart for SUBTT, a 1997 DOJ directory reference, a December 2024 SATIDS (French aircraft finishing company) announcement regarding the Wilmington hangar, a DRBA January 2024 resolution, and an FBI December 5, 2024 press release. She claims to have vetted the tip with contacts at federal agencies and the State Department.\n\nThe second evidentiary strand introduces a documentary contradiction within TPUSA's own post-event statements: Frank Turk's Megan Kelly interview (A-1441) describing Charlie's team operating drones is presented against Brian Harpole's Shawn Ryan interview (A-1442) stating no drones were used. The episode also documents Harpole's repetition of the \"3,000 lbs of energy\" bullet-trajectory claim and includes read/played clips of Joe Rogan / Theo Von discussing conspiracies and Tim Pool regarding his exclusion from AmFest.\n\nStructurally, the episode introduces Wilmington, Delaware as a new investigative geography and elevates the insider-email-vetting process as a methodological development in the series.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1435",
+      "family_ref": "A-1435",
+      "bundle_name": "Insider Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1435.1",
+          "ref": "A-1435.1",
+          "description": "Anonymous insider email read aloud on-air alleging SUBTT Wilmington activity tied to 920 North King Street federal site",
+          "related_claims": [
+            "C-1745",
+            "C-1746",
+            "C-1747",
+            "C-1748",
+            "C-1749"
+          ],
+          "related_nodes": [
+            "N-1336",
+            "N-1337",
+            "N-429",
+            "N-430",
+            "N-431"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:32–00:21:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1436",
+      "family_ref": "A-1436",
+      "bundle_name": "Flight Pattern Timeline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1436.1",
+          "ref": "A-1436.1",
+          "description": "Host-compiled timeline of blue jet and yellow jet (SUBTT) movements including September 10, 2025 Provo-to-Wilmington leg and overnight stay",
+          "related_claims": [
+            "C-1745",
+            "C-1746"
+          ],
+          "related_nodes": [
+            "N-1337"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:32–00:05:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1436.2",
+          "ref": "A-1436.2",
+          "description": "Host-compiled timeline of \"green planes\" (planes that scrambled after the shooting) including Cessna Citation Scottsdale-Provo-Santa Barbara-Scottsdale; Beachcraft Scottsdale departure; 15–16-passenger flight (Charlie's plane) routing Salt Lake City–Provo–Scottsdale; Santa Barbara departure 2:19 PM local",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1",
+            "N-1001",
+            "N-429",
+            "N-430",
+            "N-431",
+            "N-85"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:27:09–00:30:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1436.3",
+          "ref": "A-1436.3",
+          "description": "SUBTT 2022 flight pattern data — Nov 13, 2022 Cairo–Paris–Wichita–Wilmington–Cairo and Nov 17, 2022 Egypt–Wilmington (stay until Nov 20)",
+          "related_claims": [
+            "C-1747"
+          ],
+          "related_nodes": [
+            "N-1337"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:00–00:20:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1437",
+      "family_ref": "A-1437",
+      "bundle_name": "DOJ 1997 Directory Reference",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1437.1",
+          "ref": "A-1437.1",
+          "description": "June 1997 Department of Justice directory listing \"Wilmington Resident Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware 19801\" (page titled 675)",
+          "related_claims": [
+            "C-1748"
+          ],
+          "related_nodes": [
+            "N-1336"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1438",
+      "family_ref": "A-1438",
+      "bundle_name": "SATIDS Wilmington Hangar Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1438.1",
+          "ref": "A-1438.1",
+          "description": "December 2024 SATIDS (French aircraft finishing company) announcement of takeover of shuttered Wilmington airport hangar, with reported ~$1M+ investment, covered by Delaware outlets",
+          "related_claims": [
+            "C-1749",
+            "C-1750"
+          ],
+          "related_nodes": [
+            "N-1340"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:23–00:13:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1439",
+      "family_ref": "A-1439",
+      "bundle_name": "DRBA January 2024 Resolution",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1439.1",
+          "ref": "A-1439.1",
+          "description": "Delaware River and Bay Authority January 2024 resolution authorizing acquisition of rights to a paint hanger formerly part of a Dassault leasehold and authorizing execution of a lease with SATIDS",
+          "related_claims": [
+            "C-1750"
+          ],
+          "related_nodes": [
+            "N-1340"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:22–00:14:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1440",
+      "family_ref": "A-1440",
+      "bundle_name": "FBI December 5, 2024 Press Release",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1440.1",
+          "ref": "A-1440.1",
+          "description": "FBI press release of December 5, 2024 with Wray quote about \"key partners\" and partnerships being \"closer now than 5 or 10 years ago,\" including reference to \"entire generation of law enforcement and the private sector working together\"",
+          "related_claims": [
+            "C-1751"
+          ],
+          "related_nodes": [
+            "N-423",
+            "N-1336"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:46–00:18:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1441",
+      "family_ref": "A-1441",
+      "bundle_name": "Frank Turk Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1441.1",
+          "ref": "A-1441.1",
+          "description": "Frank Turk on the Megan Kelly Show stating that on the day of the event, Charlie's team had drones up looking at the crowd from above and texted him video footage",
+          "related_claims": [
+            "C-1752"
+          ],
+          "related_nodes": [
+            "N-425",
+            "N-1338"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:42–00:32:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1442",
+      "family_ref": "A-1442",
+      "bundle_name": "Brian Harpole Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1442.1",
+          "ref": "A-1442.1",
+          "description": "Brian Harpole on Shawn Ryan stating TPUSA did not have drones at the event because he \"wasn't allowed to have drones\"",
+          "related_claims": [
+            "C-1753"
+          ],
+          "related_nodes": [
+            "N-424",
+            "N-1338"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:52–00:31:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1442.2",
+          "ref": "A-1442.2",
+          "description": "Brian Harpole on Shawn Ryan repeating the \"3,000 lbs of energy\" / \"C6 vertebra\" bullet-trajectory description",
+          "related_claims": [
+            "C-1754"
+          ],
+          "related_nodes": [
+            "N-424"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:46–00:36:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1443",
+      "family_ref": "A-1443",
+      "bundle_name": "Joe Rogan / Theo Von Conversation Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1443.1",
+          "ref": "A-1443.1",
+          "description": "Joe Rogan and Theo Von discussing conspiracies as real and common, with Rogan stating smart people unwilling to recognize conspiracies make him nervous; discussion of three-letter organizations, Jeffrey Epstein files framing, and Macron / Candace Owens references",
+          "related_claims": [
+            "C-1755"
+          ],
+          "related_nodes": [
+            "N-427",
+            "N-428"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:19–00:41:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1444",
+      "family_ref": "A-1444",
+      "bundle_name": "Tim Pool Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1444.1",
+          "ref": "A-1444.1",
+          "description": "Tim Pool clip stating that two months after Charlie's murder, \"the narrative has turned into conspiracy drama about Charlie Kirk if Turning Point was involved in it,\" with references to \"Jewish donors pulling out\" and \"Erika knew everything\" attributed to the number one podcast",
+          "related_claims": [
+            "C-1756"
+          ],
+          "related_nodes": [
+            "N-1001",
+            "N-426"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:03–00:44:03",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1444.2",
+          "ref": "A-1444.2",
+          "description": "Tim Pool clip stating he was told he couldn't come to AmFest and speculating it was due to his statements on stopping funding Israel and not giving money to Ukraine",
+          "related_claims": [
+            "C-1757"
+          ],
+          "related_nodes": [
+            "N-426",
+            "N-1339"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:03–00:44:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-429",
+      "ref": "N-429",
+      "name": "Insider Email Bundle",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-430",
+      "ref": "N-430",
+      "name": "Insider Email Bundle",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-431",
+      "ref": "N-431",
+      "name": "Insider Email Bundle",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of the series; central figure whose death and its investigation structure the episode's claims.",
+      "related_artifacts": [
+        "A-1435.1",
+        "A-1436.2",
+        "A-1441.1",
+        "A-1442.1",
+        "A-1442.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1001",
+      "ref": "N-1001",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "Named in flight timeline (A-1436.2) as a passenger; referenced in Tim Pool clip (A-1444.1) as allegedly \"knowing everything.\"",
+      "related_artifacts": [
+        "A-1436.2",
+        "A-1444.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-423",
+      "ref": "N-423",
+      "name": "Christopher Wray",
+      "type": "person",
+      "description": "FBI Director quoted in A-1440.1 press release regarding partnerships.",
+      "related_artifacts": [
+        "A-1440.1"
+      ],
+      "related_claims": [
+        "C-1751"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "TPUSA security figure whose statements on drones (A-1442.1) and bullet trajectory (A-1442.2) are presented.",
+      "related_artifacts": [
+        "A-1442.1",
+        "A-1442.2"
+      ],
+      "related_claims": [
+        "C-1753",
+        "C-1754"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1338"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-425",
+      "ref": "N-425",
+      "name": "Frank Turk",
+      "type": "person",
+      "description": "TPUSA-affiliated individual who accompanied Charlie; Megan Kelly interview (A-1441.1) describing drones.",
+      "related_artifacts": [
+        "A-1441.1"
+      ],
+      "related_claims": [
+        "C-1752"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1338"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-426",
+      "ref": "N-426",
+      "name": "Tim Pool",
+      "type": "person",
+      "description": "Independent commentator; clips (A-1444.1, A-1444.2) regarding podcast narrative and AmFest exclusion.",
+      "related_artifacts": [
+        "A-1444.1",
+        "A-1444.2"
+      ],
+      "related_claims": [
+        "C-1756",
+        "C-1757"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-427",
+      "ref": "N-427",
+      "name": "Joe Rogan",
+      "type": "person",
+      "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
+      "related_artifacts": [
+        "A-1443.1"
+      ],
+      "related_claims": [
+        "C-1755"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-428",
+      "ref": "N-428",
+      "name": "Theo Von",
+      "type": "person",
+      "description": "Guest on Joe Rogan Experience; clip (A-1443.1) discussing conspiracies and Macron.",
+      "related_artifacts": [
+        "A-1443.1"
+      ],
+      "related_claims": [
+        "C-1755"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1336",
+      "ref": "N-1336",
+      "name": "920 North King Street / 1 Rodney Square Federal Facility",
+      "type": "investigation_target",
+      "description": "Insider-claimed joint FBI/DEA/Secret Service site tied to SUBTT Wilmington visits; identified via 1997 DOJ directory (A-1437.1) and December 2024 FBI press release (A-1440.1).",
+      "related_artifacts": [
+        "A-1435.1",
+        "A-1437.1",
+        "A-1440.1"
+      ],
+      "related_claims": [
+        "C-1748",
+        "C-1749",
+        "C-1751"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1337",
+      "ref": "N-1337",
+      "name": "SUBTT Wilmington Visit Pattern",
+      "type": "investigation_target",
+      "description": "Persistence of SUBTT (Egyptian military Falcon 7X) visits to Wilmington, Delaware before/after assassination; basis of insider email (A-1435.1) and host flight timeline (A-1436.1, A-1436.3).",
+      "related_artifacts": [
+        "A-1435.1",
+        "A-1436.1",
+        "A-1436.3"
+      ],
+      "related_claims": [
+        "C-1745",
+        "C-1746",
+        "C-1747"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1338",
+      "ref": "N-1338",
+      "name": "TPUSA Drone Disclosure Discrepancy",
+      "type": "investigation_target",
+      "description": "Contradiction between Frank Turk (drones up, A-1441.1) and Brian Harpole (no drones allowed, A-1442.1) on whether drones were operating on the day of the event.",
+      "related_artifacts": [
+        "A-1441.1",
+        "A-1442.1"
+      ],
+      "related_claims": [
+        "C-1752",
+        "C-1753"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1339",
+      "ref": "N-1339",
+      "name": "AmFest Speaker Removal Pattern",
+      "type": "investigation_target",
+      "description": "Tim Pool (A-1444.2) and host both describe being disinvited from TPUSA's AmFest.",
+      "related_artifacts": [
+        "A-1444.2"
+      ],
+      "related_claims": [
+        "C-1757"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1340",
+      "ref": "N-1340",
+      "name": "Wilmington Airport Hangar Federal Connection",
+      "type": "investigation_target",
+      "description": "SATIDS (A-1438.1) and DRBA (A-1439.1) documents describing takeover of former Dassault hangar; DRBA operates on federally regulated waterways.",
+      "related_artifacts": [
+        "A-1438.1",
+        "A-1439.1"
+      ],
+      "related_claims": [
+        "C-1749",
+        "C-1750"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Governor Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1745",
+      "ref": "C-1745",
+      "label": "SUBTT Departed Provo 7:14 AM and Arrived Wilmington 11:51 AM ET on September 10, 2025",
+      "claim": "The yellow Egyptian government jet (tail number SUBTT) departed Provo, Utah at 7:14 AM local on September 10, 2025 and arrived Wilmington, Delaware at 11:51 AM Eastern.",
+      "anchored_artifacts": [
+        "A-1435.1",
+        "A-1436.1"
+      ],
+      "related_nodes": [
+        "N-1337"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:32–00:05:00",
+      "investigative_direction": "Cross-reference host's timeline against independent ADS-B / FlightAware historical data for September 10, 2025."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1746",
+      "ref": "C-1746",
+      "label": "SUBTT Stayed Overnight in Wilmington Until September 11 at 7:56 AM",
+      "claim": "The Egyptian plane remained in Wilmington, Delaware overnight and departed September 11, 2025 at 7:56 AM, ruling out a fuel-stop explanation.",
+      "anchored_artifacts": [
+        "A-1435.1",
+        "A-1436.1"
+      ],
+      "related_nodes": [
+        "N-1337"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:32–00:05:00",
+      "investigative_direction": "Verify overnight ground time via independent flight tracking and Wilmington airport records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1747",
+      "ref": "C-1747",
+      "label": "SUBTT Made Multi-Day Wilmington Stays in November 2022",
+      "claim": "SUBTT flew Cairo–Paris–Wichita–Wilmington–Cairo on November 13, 2022, then returned to Wilmington on November 17, 2022 and remained until November 20, 2022 before returning to Cairo.",
+      "anchored_artifacts": [
+        "A-1435.1",
+        "A-1436.3"
+      ],
+      "related_nodes": [
+        "N-1337"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:00–00:20:40",
+      "investigative_direction": "Verify against independent historical ADS-B / FAA records for tail number SUBTT in November 2022."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1748",
+      "ref": "C-1748",
+      "label": "June 1997 DOJ Directory Lists Wilmington Resident Office at 920 King Street, Suite 404",
+      "claim": "A June 1997 Department of Justice directory (page titled 675) lists a Wilmington Resident Office at 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware 19801.",
+      "anchored_artifacts": [
+        "A-1437.1"
+      ],
+      "related_nodes": [
+        "N-1336"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:45",
+      "investigative_direction": "Obtain the cited DOJ directory and confirm page 675 directly; compare against current DOJ directory listings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1749",
+      "ref": "C-1749",
+      "label": "920 North King Street Currently Houses DEA, FBI, and Secret Service",
+      "claim": "Current public directories show DEA, FBI, and U.S. Secret Service all listed at 920 North King Street, Suite 404, Wilmington, Delaware, with phone numbers published.",
+      "anchored_artifacts": [
+        "A-1435.1",
+        "A-1437.1"
+      ],
+      "related_nodes": [
+        "N-1336"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:45–00:12:23",
+      "investigative_direction": "Verify via direct lookups of each agency's published Wilmington field office directory entries; cross-check Google business listings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1750",
+      "ref": "C-1750",
+      "label": "SATIDS Announced in December 2024 Takeover of Wilmington Airport Hangar",
+      "claim": "A French aircraft finishing company, SATIDS, announced in December 2024 it was taking over the shuttered Wilmington airport hangar (formerly a Dassault Falcon authorized center), investing approximately $1M+.",
+      "anchored_artifacts": [
+        "A-1438.1"
+      ],
+      "related_nodes": [
+        "N-1340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:23–00:13:22",
+      "investigative_direction": "Locate SATIDS press release and Delaware outlet coverage; confirm date and dollar figure."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1751",
+      "ref": "C-1751",
+      "label": "DRBA January 2024 Resolution Authorized Paint Hanger Lease to SATIDS",
+      "claim": "A Delaware River and Bay Authority (DRBA) January 2024 resolution authorized acquiring rights to a paint hanger formerly part of a Dassault leasehold and executing a lease with SATIDS.",
+      "anchored_artifacts": [
+        "A-1439.1"
+      ],
+      "related_nodes": [
+        "N-1340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:22–00:14:22",
+      "investigative_direction": "Obtain the DRBA resolution document directly from DRBA public records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1752",
+      "ref": "C-1752",
+      "label": "FBI Director Wray Cited Partnerships in Wilmington December 2024 Press Release",
+      "claim": "An FBI press release dated December 5, 2024 includes Director Christopher Wray emphasizing \"key partners\" and describing partnerships as closer than 5 or 10 years prior.",
+      "anchored_artifacts": [
+        "A-1440.1"
+      ],
+      "related_nodes": [
+        "N-423",
+        "N-1336"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:46–00:18:30",
+      "investigative_direction": "Locate and review the FBI press release directly; verify quoted phrases and date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1753",
+      "ref": "C-1753",
+      "label": "Frank Turk Stated Charlie's Team Had Drones Operating at the Event",
+      "claim": "Frank Turk, on the Megan Kelly Show, stated that on the day of the event, Charlie's team had drones up looking at the crowd from above and texted him video footage during the drive-in.",
+      "anchored_artifacts": [
+        "A-1441.1"
+      ],
+      "related_nodes": [
+        "N-425",
+        "N-1338"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:42–00:32:39",
+      "investigative_direction": "Obtain the full Megan Kelly / Frank Turk interview clip and timestamp; confirm exact wording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1754",
+      "ref": "C-1754",
+      "label": "Brian Harpole Stated TPUSA Did Not Have Drones at the Event",
+      "claim": "Brian Harpole, on the Shawn Ryan interview, stated TPUSA did not have drones at the event because he \"wasn't allowed to have drones.\"",
+      "anchored_artifacts": [
+        "A-1442.1"
+      ],
+      "related_nodes": [
+        "N-424",
+        "N-1338"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:52–00:31:42",
+      "investigative_direction": "Obtain the full Shawn Ryan / Brian Harpole interview clip and timestamp; confirm exact wording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1755",
+      "ref": "C-1755",
+      "label": "Brian Harpole Repeated the 3,000 lbs of Energy Bullet-Trajectory Description",
+      "claim": "Brian Harpole, on the Shawn Ryan interview, repeated the bullet-trajectory description involving entry, C6 vertebra crush, and 3,000 lbs of energy.",
+      "anchored_artifacts": [
+        "A-1442.2"
+      ],
+      "related_nodes": [
+        "N-424"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:46–00:36:45",
+      "investigative_direction": "Obtain the full interview clip; confirm exact wording and timestamps."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1756",
+      "ref": "C-1756",
+      "label": "Tim Pool Characterized Candace Owens's Podcast Narrative as \"Conspiracy Drama\"",
+      "claim": "Tim Pool stated in a video that the narrative from the number one podcast had turned into \"conspiracy drama about Charlie Kirk if Turning Point was involved in it,\" with references to \"Jewish donors pulling out\" and \"Erika knew everything.\"",
+      "anchored_artifacts": [
+        "A-1444.1"
+      ],
+      "related_nodes": [
+        "N-426",
+        "N-1001"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:03–00:44:03",
+      "investigative_direction": "Locate Tim Pool's original video and timestamp the quoted language."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1757",
+      "ref": "C-1757",
+      "label": "Tim Pool Stated He Was Told He Could Not Come to AmFest",
+      "claim": "Tim Pool stated in a video that he had been told he couldn't come to AmFest, speculating it might be due to his statements on funding Israel and giving money to Ukraine.",
+      "anchored_artifacts": [
+        "A-1444.2"
+      ],
+      "related_nodes": [
+        "N-426",
+        "N-1339"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:03–00:44:52",
+      "investigative_direction": "Locate Tim Pool's original video and confirm AmFest / Afest naming and exact quoted language."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1758",
+      "ref": "C-1758",
+      "label": "Joe Rogan and Theo Von Asserted Conspiracies Are Real and Common",
+      "claim": "On The Joe Rogan Experience, Joe Rogan and Theo Von stated that conspiracies are real, common, and especially effective when conducted by people in positions of extreme power running intelligence agencies.",
+      "anchored_artifacts": [
+        "A-1443.1"
+      ],
+      "related_nodes": [
+        "N-427",
+        "N-428"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:19–00:41:35",
+      "investigative_direction": "Identify the specific Rogan episode by number and date; preserve timestamp of the cited segment."
+    }
+  ],
+  "memes": []
+}

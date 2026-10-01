@@ -1,0 +1,1209 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 33,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "b7672eebc7c5ab411aa950afd3d3a2a493c93fe1cc77ff7576fff21c34e89159",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1415",
+      "family_ref": "A-1415",
+      "bundle_name": "Rob McCoy Sermon Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1415.1",
+          "ref": "A-1415.1",
+          "description": "Rob McCoy video clip reading Romans 12:15–16 and calling on the audience to \"weep with those who weep\" rather than engage in speculation about Charlie Kirk",
+          "related_claims": [
+            "C-1716"
+          ],
+          "related_nodes": [
+            "N-405",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:22–00:03:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1416",
+      "family_ref": "A-1416",
+      "bundle_name": "Steven Crowder Commentary Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1416.1",
+          "ref": "A-1416.1",
+          "description": "Steven Crowder video clip analyzing Candace Owens' book club remarks, asserting that Candace implied Erika Kirk murdered Charlie Kirk",
+          "related_claims": [
+            "C-1717",
+            "C-1718"
+          ],
+          "related_nodes": [
+            "N-406",
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:45–00:10:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1417",
+      "family_ref": "A-1417",
+      "bundle_name": "Candace Owens Book Club Recording Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1417.1",
+          "ref": "A-1417.1",
+          "description": "Audio clip from Candace Owens' Tuesday book club referencing Charlie Kirk being \"betrayed in one of the most egregious ways,\" Martin Luther King Boulevard, and the framing of political betrayal",
+          "related_claims": [
+            "C-1717",
+            "C-1718"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:45–00:08:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1418",
+      "family_ref": "A-1418",
+      "bundle_name": "ADSB Exchange Flight Data Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1418.1",
+          "ref": "A-1418.1",
+          "description": "ADSB Exchange raw-data view for tail SUBND on September 10, showing ground transponder activity at the Duncan Aviation FBO in Provo",
+          "related_claims": [
+            "C-1719"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-407",
+            "N-1324"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:57–00:21:54",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1419",
+      "family_ref": "A-1419",
+      "bundle_name": "Plane Overlap Spreadsheet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1419.1",
+          "ref": "A-1419.1",
+          "description": "Host-prepared spreadsheet listing 68 (later expanded to 73) overlap instances between Egyptian aircraft SUBND/SUBTT and Erika Kirk's documented locations between 2022 and September 2025, including 29 overlaps also involving Charlie Kirk",
+          "related_claims": [
+            "C-1720",
+            "C-1721",
+            "C-1722",
+            "C-1723"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-1324"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:49–00:18:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1419.2",
+          "ref": "A-1419.2",
+          "description": "\"Mommy sleuth\" email asserting that the planes tracked Erika rather than Charlie (referenced verbally; original email not displayed)",
+          "related_claims": [
+            "C-1720",
+            "C-1721"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1324"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:51–00:16:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1420",
+      "family_ref": "A-1420",
+      "bundle_name": "Wolves and Finance TPUSA Filings Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1420.1",
+          "ref": "A-1420.1",
+          "description": "\"Wolves and Finance\" YouTube video reporting that three of four TPUSA-related IRS Form 990 filings are missing for fiscal year 2024 (Turning Point Action, Turning Point Endowment, America's Turning Point)",
+          "related_claims": [
+            "C-1728",
+            "C-1730",
+            "C-1731",
+            "C-1732"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-1325"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:07–00:35:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1420.2",
+          "ref": "A-1420.2",
+          "description": "\"Wolves and Finance\" video clip discussing Schedule I showing $8,560,625 transferred from Turning Point USA to America's Turning Point in FY2024, prior-year contributions chart, and shell-company analysis",
+          "related_claims": [
+            "C-1729",
+            "C-1731"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1325",
+            "N-85"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:29–00:40:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1420.3",
+          "ref": "A-1420.3",
+          "description": "\"Wolves and Finance\" video clip discussing Baker Tilly audit opinion letter covering Turning Point USA and affiliates",
+          "related_claims": [
+            "C-1730"
+          ],
+          "related_nodes": [
+            "N-85",
+            "N-412",
+            "N-1325"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:11–00:42:57",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1421",
+      "family_ref": "A-1421",
+      "bundle_name": "Rental Vehicle License Plate Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1421.1",
+          "ref": "A-1421.1",
+          "description": "Utah license plate T09 2Zs — silver 2025 Toyota RAV4 rented at Duncan Aviation FBO",
+          "related_claims": [
+            "C-1726",
+            "C-1727"
+          ],
+          "related_nodes": [
+            "N-408",
+            "N-1327"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:27:30–00:28:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1421.2",
+          "ref": "A-1421.2",
+          "description": "Arizona license plate CWN N872 — white 2025 Toyota Camry rented at Duncan Aviation FBO",
+          "related_claims": [
+            "C-1726",
+            "C-1727"
+          ],
+          "related_nodes": [
+            "N-408",
+            "N-1327"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:27:30–00:28:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1421.3",
+          "ref": "A-1421.3",
+          "description": "Utah license plate TN12KM — white 2023 Toyota RAV4 rented at Duncan Aviation FBO",
+          "related_claims": [
+            "C-1726",
+            "C-1727"
+          ],
+          "related_nodes": [
+            "N-408",
+            "N-1327"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:27:30–00:28:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1421.4",
+          "ref": "A-1421.4",
+          "description": "Utah license plate Z923DA — black 2025 Toyota 4Runner rented at Duncan Aviation FBO",
+          "related_claims": [
+            "C-1726",
+            "C-1727"
+          ],
+          "related_nodes": [
+            "N-408",
+            "N-1327"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:27:30–00:28:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1422",
+      "family_ref": "A-1422",
+      "bundle_name": "N560TW Flight Track Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1422.1",
+          "ref": "A-1422.1",
+          "description": "Host-reported flight track for tail N560TW: Scottsdale → Provo (arrived 10:06 a.m. local) → Santa Barbara (departed 11:37 a.m.) → Scottsdale (arrived 12:44 p.m.) on September 10, 2025",
+          "related_claims": [
+            "C-1725"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1326"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:19–00:27:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1423",
+      "family_ref": "A-1423",
+      "bundle_name": "Flock License Plate Reader Network Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1423.1",
+          "ref": "A-1423.1",
+          "description": "Viewer comment (\"New life plan\") referencing FOIA accessibility of Flock automated license plate reader data; producer confirmation that Flock cameras exist near UVU",
+          "related_claims": [
+            "C-1733"
+          ],
+          "related_nodes": [
+            "N-409",
+            "N-413",
+            "N-1328"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:35–00:54:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1424",
+      "family_ref": "A-1424",
+      "bundle_name": "TPUSA Internal Personnel Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1424.1",
+          "ref": "A-1424.1",
+          "description": "Host's verbal account that Terrell Farnsworth attended the UVU campus event on September 10 (described as unusual because he typically handles larger TPUSA events), and that he secured the SD cards afterward",
+          "related_claims": [],
+          "related_nodes": [
+            "N-410",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:50–00:13:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1424.2",
+          "ref": "A-1424.2",
+          "description": "Host's verbal account that Andrew K. Smith, \"managing director of a restaurant fund,\" conducted a \"restaurantology\" interview with Charlie Kirk the morning of September 10, cited as the reason Charlie flew into Salt Lake City rather than Provo",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1",
+            "N-414"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:12–00:14:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-405",
+      "ref": "N-405",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor referenced in host's clip critique; associated by host with \"naval psychological intelligence.\" Matters because his public call against post-assassination questioning is being framed by the host as part of a coordinated psychological response.",
+      "related_artifacts": [
+        "A-1415.1"
+      ],
+      "related_claims": [
+        "C-1716"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-406",
+      "ref": "N-406",
+      "name": "Steven Crowder",
+      "type": "person",
+      "description": "Host's primary example of influencer narratives allegedly misrepresenting her remarks. Matters as anchor for the Erika-murder interpretation dispute.",
+      "related_artifacts": [
+        "A-1416.1",
+        "A-1417.1"
+      ],
+      "related_claims": [
+        "C-1717",
+        "C-1718"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-407",
+      "ref": "N-407",
+      "name": "Mark (Producer/Researcher)",
+      "type": "person",
+      "description": "In-studio researcher who presented the ADSB Exchange data for tail SUBND on September 10. Matters because his presentation is the sole displayed source for the SUBND transponder timing claims.",
+      "related_artifacts": [
+        "A-1418.1"
+      ],
+      "related_claims": [
+        "C-1719"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1324"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-408",
+      "ref": "N-408",
+      "name": "Duncan Aviation",
+      "type": "person",
+      "description": "Fixed-base operator (FBO) at Provo where SUBND transponder activity is recorded on September 10 and where rental cars were sourced. Matters as institutional locus of pre-event activity.",
+      "related_artifacts": [
+        "A-1418.1",
+        "A-1421.1",
+        "A-1421.2",
+        "A-1421.3",
+        "A-1421.4"
+      ],
+      "related_claims": [
+        "C-1719",
+        "C-1726",
+        "C-1727"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1327"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-409",
+      "ref": "N-409",
+      "name": "Flock (Automated License Plate Reader Company)",
+      "type": "person",
+      "description": "Company operating the LPR network referenced in the viewer comment and producer discussion. Matters because its camera coverage is presented as a potential cross-reference mechanism for the rental vehicles.",
+      "related_artifacts": [
+        "A-1423.1"
+      ],
+      "related_claims": [
+        "C-1733"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1328"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-410",
+      "ref": "N-410",
+      "name": "Terrell Farnsworth",
+      "type": "person",
+      "description": "TPUSA personnel described by host as attending the UVU event and securing the SD cards. Matters because his presence is flagged as atypical by host.",
+      "related_artifacts": [
+        "A-1424.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-412",
+      "ref": "N-412",
+      "name": "Baker Tilly (Accounting Firm)",
+      "type": "person",
+      "description": "External auditor cited in the Wolves and Finance analysis as having issued a clean audit opinion for TPUSA and affiliates. Matters because of the audit-vs-missing-990 tension.",
+      "related_artifacts": [
+        "A-1420.3"
+      ],
+      "related_claims": [
+        "C-1730"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1325"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-413",
+      "ref": "N-413",
+      "name": "\"Mommy Sleuth\" (Anonymous Contributor)",
+      "type": "person",
+      "description": "Pseudonymous contributor referenced by host as the source of the 15-hour research identifying Erika-tracking overlap pattern. Identity protected by host.",
+      "related_artifacts": [
+        "A-1419.2"
+      ],
+      "related_claims": [
+        "C-1720",
+        "C-1721"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-1324"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-414",
+      "ref": "N-414",
+      "name": "Andrew K. Smith",
+      "type": "person",
+      "description": "Host-described \"managing director of a restaurant fund\" who conducted the \"restaurantology\" interview with Charlie Kirk on the morning of September 10.",
+      "related_artifacts": [
+        "A-1424.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1324",
+      "ref": "N-1324",
+      "name": "Egyptian Military Plane Tracking Investigation",
+      "type": "investigation_target",
+      "description": "Persistent investigative target tracking allegations that Egyptian military aircraft SUBND and SUBTT conducted sustained surveillance of Erika Kirk (and sometimes Charlie Kirk) from 2022 through September 2025, with concentrated activity on the day of the assassination.",
+      "related_artifacts": [
+        "A-1418.1",
+        "A-1419.1",
+        "A-1419.2",
+        "A-1424.2"
+      ],
+      "related_claims": [
+        "C-1719",
+        "C-1720",
+        "C-1721",
+        "C-1722",
+        "C-1723"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-407",
+        "N-413"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1325",
+      "ref": "N-1325",
+      "name": "TPUSA Financial Filing Anomaly Investigation",
+      "type": "investigation_target",
+      "description": "Investigation target tracking missing IRS Form 990 filings for three of four TPUSA-related entities for FY2024, the $8.56M transfer to America's Turning Point, and the timing of audit requests relative to Charlie Kirk's death.",
+      "related_artifacts": [
+        "A-1420.1",
+        "A-1420.2",
+        "A-1420.3"
+      ],
+      "related_claims": [
+        "C-1728",
+        "C-1729",
+        "C-1730",
+        "C-1731",
+        "C-1732"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-85",
+        "N-412"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1326",
+      "ref": "N-1326",
+      "name": "N560TW Flight Pattern Investigation",
+      "type": "investigation_target",
+      "description": "Investigation target tracking the September 10 Scottsdale–Provo–Santa Barbara–Scottsdale round trip of tail N560TW, flagged by host as warranting public tip submissions.",
+      "related_artifacts": [
+        "A-1422.1"
+      ],
+      "related_claims": [
+        "C-1725"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1327",
+      "ref": "N-1327",
+      "name": "Duncan Aviation Rental Vehicle Investigation",
+      "type": "investigation_target",
+      "description": "Investigation target tracking four rental vehicles with documented plates rented from the Duncan Aviation FBO prior to the assassination, with public tip requests issued.",
+      "related_artifacts": [
+        "A-1421.1",
+        "A-1421.2",
+        "A-1421.3",
+        "A-1421.4"
+      ],
+      "related_claims": [
+        "C-1726",
+        "C-1727"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-408"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1328",
+      "ref": "N-1328",
+      "name": "Flock LPR FOIA Investigation",
+      "type": "investigation_target",
+      "description": "Investigation target tracking the potential use of FOIA-accessible Flock automated license plate reader data to cross-reference rental vehicles and UVU-area camera footage.",
+      "related_artifacts": [
+        "A-1423.1"
+      ],
+      "related_claims": [
+        "C-1733"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-409"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1329",
+      "ref": "N-1329",
+      "name": "Andrew Kovat Hospital Threat Disclosure Question",
+      "type": "investigation_target",
+      "description": "Investigation target tracking host's verbal claim that Andrew Kovat disclosed a credible threat against Candace Owens and Tucker Carlson while in the hospital on September 10, and that no federal agency has since followed up directly with her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1724"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Governor Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1716",
+      "ref": "C-1716",
+      "label": "Rob McCoy Publicly Urged Mourning Over Speculation",
+      "claim": "Rob McCoy, in a recorded clip played during the episode, read Romans 12:15–16 and urged the audience to mourn with the Kirk family rather than engage in public speculation about Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-1415.1"
+      ],
+      "related_nodes": [
+        "N-405",
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:22–00:03:32",
+      "investigative_direction": "Verify the clip source, date, and full context; cross-check McCoy's public statements against any subsequent commentary."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1717",
+      "ref": "C-1717",
+      "label": "Steven Crowder Interpreted Candace's Book Club Remarks as Accusing Erika Kirk",
+      "claim": "Steven Crowder, in a recorded clip played during the episode, asserted that Candace Owens' book club remarks about Charlie Kirk being \"betrayed\" effectively accused Erika Kirk of murdering her husband.",
+      "anchored_artifacts": [
+        "A-1416.1",
+        "A-1417.1"
+      ],
+      "related_nodes": [
+        "N-406",
+        "N-2",
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:45–00:10:00",
+      "investigative_direction": "Obtain the full Crowder clip and the full book club recording to test the interpretive claim against the literal transcript."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1718",
+      "ref": "C-1718",
+      "label": "Host Rejects Crowder's Interpretation as a Manufactured Narrative",
+      "claim": "Candace Owens rejected Crowder's interpretation, stating that her remarks about Charlie being \"betrayed\" were not directed at Erika Kirk, and characterizing the Crowder narrative as a coordinated talking point deployed after she mentioned the Egyptian planes.",
+      "anchored_artifacts": [
+        "A-1416.1",
+        "A-1417.1"
+      ],
+      "related_nodes": [
+        "N-406",
+        "N-2",
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:00–00:11:00",
+      "investigative_direction": "Determine, by transcript comparison, whether host's original remarks named Erika or TPUSA staff; trace downstream amplification of the Erika interpretation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1719",
+      "ref": "C-1719",
+      "label": "SUBND Transponder Activity at Duncan Aviation FBO on September 10",
+      "claim": "ADSB Exchange data, as displayed and narrated by producer Mark, shows tail SUBND transmitting from the Duncan Aviation FBO in Provo from 9:05:36 a.m. to 10:34:05 a.m. (local time, after subtracting 7 hours from UTC) and again from 12:40:53 p.m. to 1:29:40 p.m. on September 10, 2025, without the aircraft moving from its position.",
+      "anchored_artifacts": [
+        "A-1418.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-407",
+        "N-408",
+        "N-1324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:57–00:21:54",
+      "investigative_direction": "Pull the underlying ADSB Exchange raw data independently; verify UTC-to-local conversion (note: see flag re daylight saving time)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1720",
+      "ref": "C-1720",
+      "label": "Documented Overlaps Between Egyptian Aircraft and Erika Kirk's Locations",
+      "claim": "A host-prepared spreadsheet displays 68 overlap instances (later expanded to 73) between Egyptian aircraft SUBND/SUBTT and Erika Kirk's documented locations between 2022 and September 2025, with 29 of those instances also involving Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-1419.1",
+        "A-1419.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-413",
+        "N-1324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:51–00:18:42",
+      "investigative_direction": "Verify each overlap instance against independent ADSB/Hex records; authenticate the underlying location data for Erika Kirk."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1721",
+      "ref": "C-1721",
+      "label": "Charlie Kirk Was Present in 29 of the Documented Overlap Instances",
+      "claim": "Of the overlap instances documented in the spreadsheet, 29 included Charlie Kirk's presence.",
+      "anchored_artifacts": [
+        "A-1419.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:49–00:18:42",
+      "investigative_direction": "Independently verify the 29-instance subset using cross-referenced itinerary data for Charlie Kirk."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1722",
+      "ref": "C-1722",
+      "label": "Overlap Instances Clustered Within Five U.S. States",
+      "claim": "The host claims the documented overlap flights cluster primarily within Kansas, Missouri, Nebraska, Delaware, and Utah.",
+      "anchored_artifacts": [
+        "A-1419.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:49–00:18:42",
+      "investigative_direction": "Independently geocode the overlap instances and verify the state-level distribution."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1723",
+      "ref": "C-1723",
+      "label": "Host-Asserted Statistical Improbability of Random Distribution",
+      "claim": "The host states that under random distribution models, the probability of these Egyptian aircraft coincidentally landing around Erika Kirk at these times is less than 0.000000001%.",
+      "anchored_artifacts": [
+        "A-1419.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:42",
+      "investigative_direction": "Request the host's underlying statistical model and assumptions; replicate the calculation independently."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1724",
+      "ref": "C-1724",
+      "label": "Andrew Kovat Reportedly Disclosed Hospital Threat to Host",
+      "claim": "Host states that Andrew Kovat, while in the hospital on September 10, told her that there was a \"credible threat\" against her and Tucker Carlson and advised them to lay low, and that no federal agency has since contacted her directly about the threat.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1329",
+        "N-414"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:51–00:25:54",
+      "investigative_direction": "Obtain corroborating testimony from Andrew Kovat, Tucker Carlson, or hospital records; determine which agency allegedly originated the threat warning."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1725",
+      "ref": "C-1725",
+      "label": "N560TW Made a Round-Trip Flight Scottsdale–Provo–Santa Barbara–Scottsdale on September 10",
+      "claim": "Host reports that tail N560TW departed Scottsdale, Arizona on September 10 and landed at Provo at 10:06 a.m. local time, then departed for Santa Barbara and later returned to Scottsdale by 12:44 p.m.",
+      "anchored_artifacts": [
+        "A-1422.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1326"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:19–00:27:30",
+      "investigative_direction": "Independently verify the N560TW flight track via FAA or ADSB records; identify passengers via manifest if obtainable."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1726",
+      "ref": "C-1726",
+      "label": "Duncan Aviation FBO Sourced Rental Vehicles for Arrivals Described as \"Egyptians\"",
+      "claim": "Host states that Duncan Aviation's FBO in Provo sourced rental cars for arrivals the host describes as Egyptian, in the days before the September 10 event.",
+      "anchored_artifacts": [
+        "A-1421.1",
+        "A-1421.2",
+        "A-1421.3",
+        "A-1421.4"
+      ],
+      "related_nodes": [
+        "N-408",
+        "N-1327"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:30–00:29:31",
+      "investigative_direction": "Obtain rental records from Duncan Aviation or the rental companies directly; verify renter identities and dates."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1727",
+      "ref": "C-1727",
+      "label": "Four Specific License Plates Identified as Rental Vehicles",
+      "claim": "Host reads four specific license plates associated with the rental vehicles: T09 2Zs (silver 2025 Toyota RAV4, Utah), CWN N872 (white 2025 Toyota Camry, Arizona), TN12KM (white 2023 Toyota RAV4, Utah), and Z923DA (black 2025 Toyota 4Runner, Utah).",
+      "anchored_artifacts": [
+        "A-1421.1",
+        "A-1421.2",
+        "A-1421.3",
+        "A-1421.4"
+      ],
+      "related_nodes": [
+        "N-408",
+        "N-1327"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:30–00:29:31",
+      "investigative_direction": "Cross-reference plates against Flock LPR data (see A-1423.1), UVU-area footage, hotel/gas station records; verify plate-to-vehicle assignments via DMV records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1728",
+      "ref": "C-1728",
+      "label": "Three of Four TPUSA-Related 990 Forms Missing for FY2024",
+      "claim": "\"Wolves and Finance\" YouTube video asserts that for fiscal year 2024, the IRS Form 990 is posted for Turning Point USA but is missing for Turning Point Action, Turning Point Endowment, and America's Turning Point.",
+      "anchored_artifacts": [
+        "A-1420.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-85",
+        "N-1325"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:07–00:35:11",
+      "investigative_direction": "Verify directly against IRS Tax-Exempt Organization Search; confirm filing status and any subsequent late filings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1729",
+      "ref": "C-1729",
+      "label": "Turning Point USA Transferred $8.56M to America's Turning Point in FY2024",
+      "claim": "\"Wolves and Finance\" video cites Schedule I of Turning Point USA's FY2024 Form 990 showing $8,560,625 transferred to America's Turning Point.",
+      "anchored_artifacts": [
+        "A-1420.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1325"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:29–00:39:37",
+      "investigative_direction": "Verify the Schedule I line item against the filed Form 990; trace how the funds were recorded (or not recorded) on the recipient entity's filings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1730",
+      "ref": "C-1730",
+      "label": "Missing Filings Occurred Four Months Before Charlie Kirk's Audit Request and Death",
+      "claim": "\"Wolves and Finance\" video asserts that the decision not to file three of four TPUSA-related financial statements occurred four months before Charlie Kirk appointed a new COO, requested a new audit, and was murdered.",
+      "anchored_artifacts": [
+        "A-1420.1",
+        "A-1420.3"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-85",
+        "N-412",
+        "N-1325"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:11–00:36:30",
+      "investigative_direction": "Obtain dated documentation of Charlie Kirk's audit request and COO appointment; cross-reference against IRS filing deadline."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1731",
+      "ref": "C-1731",
+      "label": "TPUSA 501(c)(3) Arm Reduced Staff by 33% While Salary Costs Increased",
+      "claim": "Host states that Turning Point USA's 501(c)(3) arm experienced a 33% staff reduction while salary costs increased.",
+      "anchored_artifacts": [
+        "A-1420.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1325"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:57–00:44:30",
+      "investigative_direction": "Verify the staff-count and salary figures directly against the relevant Form 990 Schedule J and Part VII."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1732",
+      "ref": "C-1732",
+      "label": "Erika Kirk Assumed CEO Role on September 18, 2025",
+      "claim": "\"Wolves and Finance\" video and host confirm that Erika Kirk became CEO of Turning Point USA on September 18, 2025, eight days after Charlie Kirk's death.",
+      "anchored_artifacts": [
+        "A-1420.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1325"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:57–00:43:57",
+      "investigative_direction": "Verify the appointment date via Turning Point USA press release, IRS Form 990 changes, or state filing records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1733",
+      "ref": "C-1733",
+      "label": "Flock LPR Cameras Are Located Near UVU",
+      "claim": "Producer confirms that Flock automated license plate reader cameras have documented locations near Utah Valley University.",
+      "anchored_artifacts": [
+        "A-1423.1"
+      ],
+      "related_nodes": [
+        "N-409",
+        "N-1328"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:35–00:54:00",
+      "investigative_direction": "Pull the Flock camera registry; verify proximity to UVU campus and event staging area; file FOIA requests for relevant time-window data."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1734",
+      "ref": "C-1734",
+      "label": "Three Transponder Windows on September 10 Were Specified by ADSB Data",
+      "claim": "Producer Mark specifies that SUBND transponder windows on September 10 were 9:05–10:34 a.m. and 12:40–1:29 p.m. (local time, using UTC minus 7 hours).",
+      "anchored_artifacts": [
+        "A-1418.1"
+      ],
+      "related_nodes": [
+        "N-407",
+        "N-408",
+        "N-1324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:00–00:21:54",
+      "investigative_direction": "Verify the UTC-to-local conversion; see flag re daylight saving time. Cross-reference against FBI/event timeline documents."
+    }
+  ],
+  "memes": []
+}

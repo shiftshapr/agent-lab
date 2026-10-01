@@ -1,0 +1,783 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 132,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "0c6891ad36263abc11507dbd0ee8c311c57724a7637f1dad75f8f5da6bc40c1e",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2189",
+      "family_ref": "A-2189",
+      "bundle_name": "Andrew Kolvet X Post and Community Note Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2189.1",
+          "ref": "A-2189.1",
+          "description": "Andrew Kolvet X post disputing authenticity of text messages",
+          "related_claims": [
+            "C-3138",
+            "C-3139"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:57–00:07:44",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2189.2",
+          "ref": "A-2189.2",
+          "description": "Twitter Community Note correcting Kolvet's framing",
+          "related_claims": [
+            "C-3139"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:44–00:08:30",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2190",
+      "family_ref": "A-2190",
+      "bundle_name": "Blake Neff X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2190.1",
+          "ref": "A-2190.1",
+          "description": "Blake Neff X post calling Candace a \"vile witch\"",
+          "related_claims": [
+            "C-3140"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2150"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:42–00:10:00",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2191",
+      "family_ref": "A-2191",
+      "bundle_name": "Fox News Harris Faulkner / Erika Kirk Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2191.1",
+          "ref": "A-2191.1",
+          "description": "Erika Kirk interview clip requesting \"one thing\" sacred about burial location",
+          "related_claims": [
+            "C-3141"
+          ],
+          "related_nodes": [
+            "N-2150"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:20–00:14:12",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2192",
+      "family_ref": "A-2192",
+      "bundle_name": "Pastor Russell Pursuit Church Sermon Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2192.1",
+          "ref": "A-2192.1",
+          "description": "Pastor Russell sermon clip warning about \"conservatism void of Christ\"",
+          "related_claims": [
+            "C-3142"
+          ],
+          "related_nodes": [
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:23:26–00:24:17",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2192.2",
+          "ref": "A-2192.2",
+          "description": "Pastor Russell sermon clip denouncing named political opponents",
+          "related_claims": [
+            "C-3142"
+          ],
+          "related_nodes": [
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:17–00:25:22",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2193",
+      "family_ref": "A-2193",
+      "bundle_name": "Erika Kirk Make Heaven Crowded Tour Speech Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2193.1",
+          "ref": "A-2193.1",
+          "description": "Erika Kirk speech clip on heaven focus and suffering",
+          "related_claims": [
+            "C-3143"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:37–00:29:29",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2193.2",
+          "ref": "A-2193.2",
+          "description": "Erika Kirk speech clip on \"my kids are watching me\"",
+          "related_claims": [
+            "C-3144"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:29–00:30:12",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2194",
+      "family_ref": "A-2194",
+      "bundle_name": "Andrew Kolvet Washington DC Denial X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2194.1",
+          "ref": "A-2194.1",
+          "description": "Andrew Kolvet X post denying TPUSA team presence in Washington DC",
+          "related_claims": [
+            "C-3145"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-2151"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:55–00:33:40",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2195",
+      "family_ref": "A-2195",
+      "bundle_name": "Devante West Instagram Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2195.1",
+          "ref": "A-2195.1",
+          "description": "Devante West Instagram clip mocking contemporary Christianese speaking",
+          "related_claims": [
+            "C-3146"
+          ],
+          "related_nodes": [
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:59–00:31:50",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2196",
+      "family_ref": "A-2196",
+      "bundle_name": "Episode 366 YouTube Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2196.1",
+          "ref": "A-2196.1",
+          "description": "Comment from Gumptown on text messages",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:33–00:40:00",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2196.2",
+          "ref": "A-2196.2",
+          "description": "Comment from Fia about Twitch funeral NDA claim",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:47",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2196.3",
+          "ref": "A-2196.3",
+          "description": "Comment from Robin Phillips",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1208",
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:44–00:43:29",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2196.4",
+          "ref": "A-2196.4",
+          "description": "Comment from Lee",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:29–00:44:04",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2196.5",
+          "ref": "A-2196.5",
+          "description": "Comment from Legally Blonde on wedding ring",
+          "related_claims": [
+            "C-3148"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:04–00:45:01",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2196.6",
+          "ref": "A-2196.6",
+          "description": "Comment from Alaska Dog Lady",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:01–00:45:44",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2196.7",
+          "ref": "A-2196.7",
+          "description": "Comment from Alexandra",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:44–00:46:34",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2196.8",
+          "ref": "A-2196.8",
+          "description": "Comment from Analogically",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:29",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2196.9",
+          "ref": "A-2196.9",
+          "description": "Comment from Fader More",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:29–00:48:18",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2197",
+      "family_ref": "A-2197",
+      "bundle_name": "911 Call Tip Description Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2197.1",
+          "ref": "A-2197.1",
+          "description": "Host's verbal account of tip received about Charlie security team 911 call",
+          "related_claims": [
+            "C-3149"
+          ],
+          "related_nodes": [
+            "N-2149"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:17–00:20:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Topic",
+      "@id": "N-2152",
+      "ref": "N-2152",
+      "name": "Andrew Kolvet X Post and Community Note Bundle",
+      "type": "topic",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Utah Chief Medical Examiner whose tenure began 2024-07-01 and whose resignation is reported in this episode without primary documentation. Name variant \"Deirdra\" appears once in transcript; canonical form preserved as \"Deidra\" per first mention.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2148"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "TPUSA-affiliated communicator who publicly used a hostile epithet (\"vile witch\") in an X post responding to a question about whether Charlie Kirk was cremated.",
+      "related_artifacts": [
+        "A-2190.1"
+      ],
+      "related_claims": [
+        "C-3140"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2150"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "TPUSA Chief Marketing Officer named in Kolvet's X denial as part of the Washington DC team the host claimed was traveling to meet with White House officials. Spelling variant \"Marina Medias\" appears once in transcript; canonical form preserved.",
+      "related_artifacts": [
+        "A-2194.1"
+      ],
+      "related_claims": [
+        "C-3145"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2151"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Sermon speaker at Pursuit Church (Washington state) whose address included politically-charged denunciations of named opponents and praise for Charlie Kirk's legacy. Only first name given; full identity not established.",
+      "related_artifacts": [
+        "A-2192.1",
+        "A-2192.2"
+      ],
+      "related_claims": [
+        "C-3142"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Holder of an Instagram account whose posted video content mocked contemporary Christianese speaking patterns. Mentioned in connection with Erika Kirk's tour speech rhetoric.",
+      "related_artifacts": [
+        "A-2195.1"
+      ],
+      "related_claims": [
+        "C-3146"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2148",
+      "ref": "N-2148",
+      "name": "Amaro Resignation Cause",
+      "type": "investigation_target",
+      "description": "Persistent investigation target. Utah Chief Medical Examiner Dr. Deidra Amaro resigned in 2026-07 with no official reason provided. Resignation coincides with reported broader resignations across UVU and police departments attributed by host to a \"general sense of corruption.\"",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2149",
+      "ref": "N-2149",
+      "name": "911 Call Content Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent investigation target. Host reports a \"solid tip\" alleging that a 911 call from Charlie's security team during transport to the hospital lasted 3–5 minutes, included phrases \"We got him. We are taking him to the hospital\" and \"Get that off of him,\" and was purged from released call records. No primary audio, transcript, or record request response displayed.",
+      "related_artifacts": [
+        "A-2197.1"
+      ],
+      "related_claims": [
+        "C-3149"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2150",
+      "ref": "N-2150",
+      "name": "Charlie Kirk Cremation/Burial Status Verification",
+      "type": "investigation_target",
+      "description": "Persistent investigation target. Host publicly raised whether Charlie Kirk was cremated; both Blake Neff and Erika Kirk publicly refused to confirm. Host cites Charlie's prior stated preference against cremation. No primary documentation of burial/cremation status displayed.",
+      "related_artifacts": [
+        "A-2190.1",
+        "A-2191.1"
+      ],
+      "related_claims": [
+        "C-3140",
+        "C-3141"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2151",
+      "ref": "N-2151",
+      "name": "TPUSA White House Meeting Coordination with Netanyahu Trip",
+      "type": "investigation_target",
+      "description": "Persistent investigation target. Host's source claims Kolvet, in-house lawyer, and CMO Marina Medvin were scheduled to travel to the White House on a day coinciding with Netanyahu's Washington DC visit. Kolvet publicly denied. No corroborating visitor logs or schedules displayed.",
+      "related_artifacts": [
+        "A-2194.1"
+      ],
+      "related_claims": [
+        "C-3145"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1209"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3138",
+      "ref": "C-3138",
+      "label": "Kolvet publicly disputed authenticity of text messages shared by Candace Owens",
+      "claim": "Andrew Kolvet, in a public X post, asserted he had no idea whether the text messages shared by Candace Owens were authentic, framing any assumed-real release as an \"evil thing\" and as Candace \"weaponizing\" Charlie's private messages.",
+      "anchored_artifacts": [
+        "A-2189.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:57",
+      "investigative_direction": "Obtain independent forensic verification of the disputed messages and compare against Kolvet's stated inability to confirm."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3139",
+      "ref": "C-3139",
+      "label": "Twitter Community Note corrected Kolvet's framing about text message timeline",
+      "claim": "A Community Note attached to Kolvet's X post stated that the released text messages were from November 2023, falling within 22 months of Charlie Kirk's death on September 10, and observed that Kolvet had moved the goalpost from his prior challenge.",
+      "anchored_artifacts": [
+        "A-2189.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:44",
+      "investigative_direction": "Confirm that the November 2023 date corresponds to the text messages Candace referenced in the prior episode, and confirm the Community Note remains attached to the original Kolvet post."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3140",
+      "ref": "C-3140",
+      "label": "Blake Neff publicly called Candace a \"vile witch\" in X post",
+      "claim": "Blake Neff, in a public X post, used the phrase \"vile witch\" directed at Candace Owens in response to her question about whether Charlie Kirk was cremated.",
+      "anchored_artifacts": [
+        "A-2190.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2150"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:42",
+      "investigative_direction": "Confirm the original post remains accessible and document its publication time and any subsequent edits or deletions."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3141",
+      "ref": "C-3141",
+      "label": "Erika Kirk publicly requested \"one thing\" remain sacred about Charlie's burial",
+      "claim": "Erika Kirk, in a Fox News interview with Harris Faulkner, publicly requested that the location where Charlie Kirk is laid to rest remain a single sacred exception to the public disclosure she said applied to everything else.",
+      "anchored_artifacts": [
+        "A-2191.1"
+      ],
+      "related_nodes": [
+        "N-2150"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:20",
+      "investigative_direction": "Confirm the interview air date, obtain the full transcript, and verify the exact exchange against subsequent statements about a Turning Point USA memorial."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3142",
+      "ref": "C-3142",
+      "label": "Pastor Russell denounced named political opponents in sermon",
+      "claim": "Pastor Russell, preaching at Pursuit Church in a sermon connected to Erika Kirk's Make Heaven Crowded tour, denounced \"vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities\" and framed himself as finishing Charlie Kirk's foundation.",
+      "anchored_artifacts": [
+        "A-2192.2"
+      ],
+      "related_nodes": [
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:17",
+      "investigative_direction": "Verify the sermon date, obtain the full recording, and confirm the institutional affiliation between Pursuit Church and Turning Point Faith."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3143",
+      "ref": "C-3143",
+      "label": "Erika Kirk referenced heaven focus and eternal life during tour speech",
+      "claim": "Erika Kirk, in a Make Heaven Crowded tour speech, stated she was \"way more heaven focused\" since Charlie's murder and quoted an unnamed source as saying \"eternal life begins the moment that you truly know Christ.\"",
+      "anchored_artifacts": [
+        "A-2193.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:28:37",
+      "investigative_direction": "Obtain the full event recording and verify whether the speech was read from a written or pre-prepared source."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3144",
+      "ref": "C-3144",
+      "label": "Erika Kirk referenced \"my kids are watching me\" in tour speech",
+      "claim": "Erika Kirk, in a Make Heaven Crowded tour speech, framed her refusal to surrender around the claim that \"my kids are watching me,\" \"my co-workers are watching me,\" and a \"cloud of witnesses.\"",
+      "anchored_artifacts": [
+        "A-2193.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:29:29",
+      "investigative_direction": "Confirm against the full event recording and verify event date and venue."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3145",
+      "ref": "C-3145",
+      "label": "Andrew Kolvet publicly denied being in Washington DC with TPUSA team",
+      "claim": "Andrew Kolvet, in an X post, denied that he, the TPUSA in-house lawyer, or CMO Marina Medvin were in Washington DC, and additionally denied a prior host claim that he had been in DC on January 29 meeting top brass and staging a pre-record with Kash Patel.",
+      "anchored_artifacts": [
+        "A-2194.1"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-2151"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:55",
+      "investigative_direction": "Cross-reference with White House visitor logs (subject to release), publicly verifiable schedules, and the host's claimed source corroboration."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3146",
+      "ref": "C-3146",
+      "label": "Devante West Instagram account mocked contemporary Christianese",
+      "claim": "Devante West, via an Instagram video, posted content mocking contemporary Christian pastoral rhetoric and its repetition patterns, presented in the episode as a parallel commentary on Erika Kirk's tour speech style.",
+      "anchored_artifacts": [
+        "A-2195.1"
+      ],
+      "related_nodes": [
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:59",
+      "investigative_direction": "Verify the original Instagram post remains accessible and identify the target of the mockery if specified."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3147",
+      "ref": "C-3147",
+      "label": "Host asserts Dr. Deidra Amaro has resigned as Utah Chief Medical Examiner",
+      "claim": "Candace Owens claims an exclusive report that Dr. Deidra Amaro resigned from her position as Utah Chief Medical Examiner, with no official reason provided.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1207",
+        "N-2148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:07",
+      "investigative_direction": "Obtain primary source confirmation from the Utah Department of Health, official press release, or public records. Flag as \"Artifact verbally referenced but not shown\" and \"Requires human verification.\""
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3148",
+      "ref": "C-3148",
+      "label": "Host asserts wedding ring observed falling from Charlie Kirk's finger in casket footage",
+      "claim": "Candace Owens states, in response to a YouTube comment, that Charlie Kirk's wedding ring had an open clasp, that the ring can be seen falling off his finger in certain footage, and that she has been told the ring was never recovered.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:44:04",
+      "investigative_direction": "Obtain and verify the underlying footage, confirm the open-clasp detail against the ring's design, and identify the source of the \"never recovered\" assertion."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3149",
+      "ref": "C-3149",
+      "label": "Host received tip alleging 911 call from Charlie's security team captured specific phrases",
+      "claim": "Candace Owens reports receiving a \"solid tip\" that a 911 call placed by Charlie's security team during transport to the hospital lasted approximately 3–5 minutes, did not result in operator engagement, and captured the phrases \"We got him. We are taking him to the hospital,\" \"Get that off of him,\" and \"Get out of the way.\"",
+      "anchored_artifacts": [
+        "A-2197.1"
+      ],
+      "related_nodes": [
+        "N-2149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:17",
+      "investigative_direction": "File records requests for the underlying 911 audio and CAD records; cross-reference against any released call logs; verify the identity of the caller and whether the call was logged as abandoned. Flag as \"Artifact verbally referenced but not shown\" and \"Requires human verification.\""
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,863 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 125,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "2d8a535e348680bde91bd9e251254cedc97656a8880bb2edfe4356e92aed4629",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode advances three investigative threads. First, the host examines an unidentified burnt object left in the backseat of the SUV used to transport Charlie Kirk to the hospital, displaying prior interior photographs and presenting a burn-replication experiment with a 50% polyester shirt. The host reads aloud viewer expert tips (fashion industry, plastic surgery nurse, self-identified mother of 10) identifying the object as melted polyester fabric from a shirt. Second, the host analyzes an X Space audio recording of Blake Neff in which he is unable to recall where the second SUV went, who was driving, or who was in the car on the morning of September 10th, tentatively identifying Danny Phillip as a possible passenger. Third, the host presents a self-compiled visual guide connecting Thomas Patrick (former Merrill Lynch executive and Turning Point donor), Stephen Phillip (Danny Phillip's father), Tyler Bowyer's father, and Dennis Franks Bay through overlapping Bank of America Merrill Lynch Chicago tenures.\n\nSecondary threads include the NCRI \"Permission to Kill\" report and Andrew Kolvet's partial concession in a tweet that Charlie Kirk had declined to have Netanyahu on his show.\n\nStructurally, the episode carries evidentiary weight for: (1) the material-evidence thread on the backseat object; (2) the September 10th personnel/movement investigation; and (3) the genealogical-institutional network thread tying Turning Point-adjacent personnel to financial institutions with documented Epstein-related settlements.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2129",
+      "family_ref": "A-2129",
+      "bundle_name": "Charlie Kirk SUV Interior Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2129.1",
+          "ref": "A-2129.1",
+          "description": "Photograph: glass shards visible in backseat of SUV used to transport Charlie Kirk",
+          "related_claims": [
+            "C-3017"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2113"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2129.2",
+          "ref": "A-2129.2",
+          "description": "Photograph: unidentified burnt object left in backseat of SUV",
+          "related_claims": [
+            "C-3017"
+          ],
+          "related_nodes": [
+            "N-2113"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2130",
+      "family_ref": "A-2130",
+      "bundle_name": "Burn Test Replication Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2130.1",
+          "ref": "A-2130.1",
+          "description": "Photograph comparing burned 50% polyester mixed shirt to backseat object",
+          "related_claims": [
+            "C-3017"
+          ],
+          "related_nodes": [
+            "N-2113",
+            "N-1212"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2131",
+      "family_ref": "A-2131",
+      "bundle_name": "Viewer Tip Bundle (T-Shirt Identification)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2131.1",
+          "ref": "A-2131.1",
+          "description": "YouTube comment from self-identified mother of 10 identifying object as t-shirt collar / bias band seam",
+          "related_claims": [
+            "C-3017"
+          ],
+          "related_nodes": [
+            "N-2113"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2131.2",
+          "ref": "A-2131.2",
+          "description": "Email from self-identified plastic surgery nurse identifying object as melted polyester shirt with charred skin",
+          "related_claims": [
+            "C-3017"
+          ],
+          "related_nodes": [
+            "N-2113"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2132",
+      "family_ref": "A-2132",
+      "bundle_name": "Blake Neff Social Media Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2132.1",
+          "ref": "A-2132.1",
+          "description": "Blake Neff tweet responding to prior episode's UVU MASH student-hub discussion",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1207",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2133",
+      "family_ref": "A-2133",
+      "bundle_name": "Blake Neff X Space Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2133.1",
+          "ref": "A-2133.1",
+          "description": "X Space audio recording: Blake Neff discussing September 10th SUV movements and inability to recall destination, driver, or passengers",
+          "related_claims": [
+            "C-3018",
+            "C-3019",
+            "C-3020"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1209",
+            "N-2114"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2134",
+      "family_ref": "A-2134",
+      "bundle_name": "Bank of America Merrill Lynch Network Visual Guide Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2134.1",
+          "ref": "A-2134.1",
+          "description": "Host-compiled visual guide diagram connecting Thomas Patrick, Stephen Phillip, Tyler Bowyer's father, Danny Phillip, and Dennis Franks Bay through Bank of America Merrill Lynch Chicago tenures",
+          "related_claims": [
+            "C-3021",
+            "C-3022",
+            "C-3023",
+            "C-3024"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-1210",
+            "N-1211",
+            "N-1213",
+            "N-2115"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2135",
+      "family_ref": "A-2135",
+      "bundle_name": "Andrew Kolvet Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2135.1",
+          "ref": "A-2135.1",
+          "description": "Andrew Kolvet tweet thread partially conceding Charlie Kirk declined Netanyahu show invitation",
+          "related_claims": [
+            "C-3025"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2136",
+      "family_ref": "A-2136",
+      "bundle_name": "NCRI Report Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2136.1",
+          "ref": "A-2136.1",
+          "description": "NCRI \"Permission to Kill\" report cover graphic (target/gunshot/scope imagery) and subtitle \"How Candace Owens built a digital assassination culture targeting Erika Kirk?\"",
+          "related_claims": [
+            "C-3026"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2137",
+      "family_ref": "A-2137",
+      "bundle_name": "Top Viewer Comments Bundle (Previous Episode)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2137.1",
+          "ref": "A-2137.1",
+          "description": "Comment from Tori: \"No one called 911, but someone called Ben Shapiro.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2137.2",
+          "ref": "A-2137.2",
+          "description": "Comment from Moses: joking reference to intruder calling Ben Shapiro for security updates",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2137.3",
+          "ref": "A-2137.3",
+          "description": "Comment from Ali: reference to Erika/Turning Point \"shameless lies\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2",
+            "N-2115"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:57",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2137.4",
+          "ref": "A-2137.4",
+          "description": "Comment from Seven Sheets: praising host's \"bravery, integrity, faith\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2137.5",
+          "ref": "A-2137.5",
+          "description": "Comment from Ranin: 12-year-old's reaction that \"they're not even good at lying\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2137.6",
+          "ref": "A-2137.6",
+          "description": "Comment from Tony Hill: praising host's investigative work",
+          "related_claims": [],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2137.7",
+          "ref": "A-2137.7",
+          "description": "Comment from Samit: \"There is no freedom without truth.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:53:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Turning Point USA-affiliated radio personality. Former Marine Corps war-gaming support contractor removed for racist commentary. Was aboard private jet carrying Charlie Kirk to Salt Lake City on morning of September 10th. Rode in second SUV and was unable to recall destination, driver, or passengers during X Space audio. Active on social media responding to host's investigation.",
+      "related_artifacts": [
+        "A-2132.1",
+        "A-2133.1"
+      ],
+      "related_claims": [
+        "C-3018",
+        "C-3019",
+        "C-3020"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2114"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Charlie Kirk's spokesperson/PR representative. Public statements partially concede Candace Owens' Netanyahu-call narrative while disputing the \"offer to take Turning Point to the next level\" element.",
+      "related_artifacts": [
+        "A-2135.1"
+      ],
+      "related_claims": [
+        "C-3025"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Charlie Kirk's personal assistant, hired May 2025 directly out of Ohio State University (Turning Point chapter alumnus). Flew private to Salt Lake City September 10th. Identified by Blake Neff as a possible passenger in the second SUV. Grandson of Thomas Patrick (former Merrill Lynch executive).",
+      "related_artifacts": [
+        "A-2133.1",
+        "A-2134.1"
+      ],
+      "related_claims": [
+        "C-3020",
+        "C-3021"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1210",
+        "N-1211",
+        "N-2115"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Danny Phillip's father. Worked at Bank of America Merrill Lynch in Chicago per host's visual guide. Russian studies educational background per host.",
+      "related_artifacts": [
+        "A-2134.1"
+      ],
+      "related_claims": [
+        "C-3022"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1209",
+        "N-2115"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Danny Phillip's grandfather. Former Executive Vice Chairman and CEO of Merrill Lynch (Chicago, 25-year tenure). Departed 2003 following Eliot Spitzer-related scandal. Major Turning Point donor. Personally emailed Candace Owens claiming Charlie Kirk was lying to her about money matters.",
+      "related_artifacts": [
+        "A-2134.1"
+      ],
+      "related_claims": [
+        "C-3021"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1209",
+        "N-2115"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Visitor at host's residence who identified Charlie Kirk's shirt as 100% polyester.",
+      "related_artifacts": [
+        "A-2130.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2113"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Erica Kirk's cousin. Per host's visual guide, worked at Bank of America Merrill Lynch in Chicago. Previously referenced as escort for Erica around Romania / Black Sea Rotational Force.",
+      "related_artifacts": [
+        "A-2134.1"
+      ],
+      "related_claims": [
+        "C-3024"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-2115"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2113",
+      "ref": "N-2113",
+      "name": "Unidentified Burnt Object in Charlie Kirk's SUV",
+      "type": "investigation_target",
+      "description": "Persistent investigative target. Object left in backseat of SUV used to transport Charlie Kirk to hospital. Multiple expert viewer tips (fashion industry, plastic surgery nurse, mother of 10) identify object as melted polyester shirt/burnt fabric. Host performed burn-replication experiment with 50% polyester shirt.",
+      "related_artifacts": [
+        "A-2129.2",
+        "A-2130.1",
+        "A-2131.1",
+        "A-2131.2"
+      ],
+      "related_claims": [
+        "C-3017"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2114",
+      "ref": "N-2114",
+      "name": "Blake Neff September 10th Movement Discrepancy",
+      "type": "investigation_target",
+      "description": "Blake Neff's inability to recall destination, driver, or passengers of the second SUV during the morning gap (Salt Lake City landing to UVU event) on September 10, 2025.",
+      "related_artifacts": [
+        "A-2133.1"
+      ],
+      "related_claims": [
+        "C-3019",
+        "C-3020"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2115",
+      "ref": "N-2115",
+      "name": "Bank of America Merrill Lynch Personnel Network",
+      "type": "investigation_target",
+      "description": "Investigative target: multiple Turning Point USA personnel and associates (Thomas Patrick, Tyler Bowyer's father, Stephen Phillip, Dennis Franks Bay) with overlapping tenures at Bank of America Merrill Lynch in Chicago, 2008-2022 timeframe per host's visual guide.",
+      "related_artifacts": [
+        "A-2134.1"
+      ],
+      "related_claims": [
+        "C-3021",
+        "C-3022",
+        "C-3023",
+        "C-3024"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1209",
+        "N-1210",
+        "N-1211",
+        "N-1213"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3017",
+      "ref": "C-3017",
+      "label": "Object in SUV Backseat Consistent with Melted Polyester Shirt",
+      "claim": "The unidentified burnt object in the backseat of Charlie Kirk's SUV is consistent with melted polyester fabric from a t-shirt, supported by a burn-replication test and viewer expert identifications.",
+      "anchored_artifacts": [
+        "A-2129.2",
+        "A-2130.1",
+        "A-2131.1",
+        "A-2131.2"
+      ],
+      "related_nodes": [
+        "N-2113",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:36",
+      "investigative_direction": "Forensic examination of the actual recovered object would verify or falsify the polyester-shirt hypothesis."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3018",
+      "ref": "C-3018",
+      "label": "Blake Neff Was on Private Jet to Salt Lake City September 10th",
+      "claim": "Blake Neff was aboard the private jet carrying Charlie Kirk to Salt Lake City on the morning of September 10th.",
+      "anchored_artifacts": [
+        "A-2133.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:33",
+      "investigative_direction": "Flight manifests, airport records, and witness corroboration would verify the passenger list."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3019",
+      "ref": "C-3019",
+      "label": "Blake Neff Unable to Recall Second SUV Destination or Occupants",
+      "claim": "Blake Neff stated during an X Space that he did not recall where the second SUV went, who drove it, or who was in the car during the morning gap between landing at Salt Lake City and the UVU event.",
+      "anchored_artifacts": [
+        "A-2133.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2114"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:07",
+      "investigative_direction": "Rental car records, phone location data, and witness statements would verify Blake Neff's stated movement and reconstruct the SUV's route."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3020",
+      "ref": "C-3020",
+      "label": "Blake Neff Identifies Danny Phillip as Possible SUV Passenger",
+      "claim": "During the X Space, after prompting, Blake Neff indicated that Danny Phillip might have been in the second SUV with him.",
+      "anchored_artifacts": [
+        "A-2133.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1209",
+        "N-2114"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:25",
+      "investigative_direction": "Direct confirmation from Danny Phillip or other witnesses; phone location data for September 10th would verify or falsify the identification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3021",
+      "ref": "C-3021",
+      "label": "Danny Phillip is Grandson of Thomas Patrick",
+      "claim": "Danny Phillip is the grandson of Thomas Patrick, former Executive Vice Chairman and CEO of Merrill Lynch (Chicago, 25-year tenure, departed 2003 following Eliot Spitzer scandal), who was also a major Turning Point donor.",
+      "anchored_artifacts": [
+        "A-2134.1"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1211",
+        "N-2115"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:41",
+      "investigative_direction": "Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3022",
+      "ref": "C-3022",
+      "label": "Stephen Phillip Worked at Bank of America Merrill Lynch Chicago",
+      "claim": "Danny Phillip's father Stephen Phillip was employed at Bank of America Merrill Lynch in Chicago during the 2008-2022 timeframe, with Russian studies educational background.",
+      "anchored_artifacts": [
+        "A-2134.1"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-1209",
+        "N-2115"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:41",
+      "investigative_direction": "Employment records, corporate directories, or archived LinkedIn data (host notes LinkedIn was cleaned) would verify the employment claim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3023",
+      "ref": "C-3023",
+      "label": "Tyler Bowyer's Father Was Major Executive at Bank of America Merrill Lynch",
+      "claim": "Tyler Bowyer's father held a major executive position at Bank of America Merrill Lynch (Chicago), and Tyler Bowyer's first job was at Bank of America.",
+      "anchored_artifacts": [
+        "A-2134.1"
+      ],
+      "related_nodes": [
+        "N-2115"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:41",
+      "investigative_direction": "Corporate directories, employment records, public board listings would verify the employment claim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3024",
+      "ref": "C-3024",
+      "label": "Dennis Franks Bay Worked at Bank of America Merrill Lynch Chicago",
+      "claim": "Erica Kirk's cousin Dennis Franks Bay worked at Bank of America Merrill Lynch in Chicago during the 2008-2022 timeframe, after his military service.",
+      "anchored_artifacts": [
+        "A-2134.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-2",
+        "N-2115"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:41",
+      "investigative_direction": "Employment records, military transition records, and public corporate directories would verify the claim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3025",
+      "ref": "C-3025",
+      "label": "Andrew Kolvet Conceded Charlie Kirk Declined Having Netanyahu on Show",
+      "claim": "Andrew Kolvet's tweet thread partially conceded that Charlie Kirk had declined to have Netanyahu on his show, while disputing the \"offer to take Turning Point to the next level\" element of Candace Owens' narrative.",
+      "anchored_artifacts": [
+        "A-2135.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:46",
+      "investigative_direction": "Compare Kolvet's public statements across time; corroborate through other Turning Point insiders familiar with Charlie Kirk's scheduling decisions."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3026",
+      "ref": "C-3026",
+      "label": "NCRI Published \"Permission to Kill\" Report Targeting Candace Owens",
+      "claim": "The National Council on Resistance Iran (NCRI) published a focused report titled \"Permission to Kill: How Candace Owens built a digital assassination culture targeting Erika Kirk?\" framing Candace Owens' commentary as creating grounds for violence against Erika Kirk.",
+      "anchored_artifacts": [
+        "A-2136.1"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:25",
+      "investigative_direction": "Obtain the full NCRI report text; review methodology and funding sources; identify any Erika Kirk or Turning Point involvement in commissioning."
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,1592 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 79,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "4416eff204bca7a7209dc9ce163ce86f52709581dce7aad641a8ba51de16006d",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode presents evidentiary material in two principal domains: (1) artifact-backed private text-message disclosures from Charlie Kirk that the host presents to contest neoconservative claims on Charlie's legacy, and (2) artifact-backed international government statements and audio/video clips regarding an ongoing US-Iran conflict and a reported CIA investigation into Tucker Carlson.\n\nThe host reads multiple text-message exchanges between herself and Charlie Kirk (regarding Ben Shapiro, the McCain family, and the Talmud), as well as a June 18 text exchange between Charlie Kirk and Bret Weinstein about opposing an Iran war at the White House. These are anchored as documentary artifacts. The host also presents written/displayed material from Meghan McCain, Blake Neff, Randy Fine, Laura Loomer, Alex Stein, and an article by Candace Owens quoting Jordan Peterson.\n\nStructural importance: this episode advances the series' longitudinal argument that neocons are attempting to appropriate Charlie Kirk's legacy by recharacterizing his political positions on Israel and Iran, while simultaneously establishing a contemporaneous geopolitical backdrop (US-Iran war, Strait of Hormuz crisis, Tucker Carlson CIA referral) framed by the host as downstream of those same actors. The episode contributes both legacy-dispute evidence and current-event evidence.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1846",
+      "family_ref": "A-1846",
+      "bundle_name": "Charlie Kirk – Candace Owens Text Message Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1846.1",
+          "ref": "A-1846.1",
+          "description": "Charlie Kirk text re: Ben Shapiro (\"Stand for truth. The people are with you.\" / \"He is unhinged. Stay the course.\")",
+          "related_claims": [
+            "C-2476",
+            "C-2478"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7",
+            "N-988",
+            "N-1616"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:50–00:09:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1846.2",
+          "ref": "A-1846.2",
+          "description": "Charlie Kirk text re: Talmud (\"There are some verses in the Talmud that will blow your mind.\" / \"The Talmud is not biblical, but it is their rabbinical interpretations of Judaism.\" / \"thought crime\")",
+          "related_claims": [
+            "C-2477"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7",
+            "N-988"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:46–00:10:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1846.3",
+          "ref": "A-1846.3",
+          "description": "Charlie Kirk text re: Meghan McCain (\"Disgrace. They are a disgrace family. A disgraceful family for the ways in which they have betrayed Americans and allowed for mass murder and bloody wars overseas.\")",
+          "related_claims": [
+            "C-2478"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7",
+            "N-989"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:32–00:21:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1847",
+      "family_ref": "A-1847",
+      "bundle_name": "Charlie Kirk – Bret Weinstein Text Exchange (June 18)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1847.1",
+          "ref": "A-1847.1",
+          "description": "June 18 text exchange in which Charlie states he spent \"two full days at the White House trying to persuade President Trump not to initiate a war with Iran,\" with follow-up messages calling neocons \"maniacs\" and stating he was \"in the White House all day fighting for America.\"",
+          "related_claims": [
+            "C-2479",
+            "C-2480"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-990",
+            "N-5",
+            "N-1612"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:32–00:13:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1848",
+      "family_ref": "A-1848",
+      "bundle_name": "Milo Yiannopoulos – Charlie Kirk Text Exchange",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1848.1",
+          "ref": "A-1848.1",
+          "description": "Milo Yiannopoulos message disclosing that \"Ben Shapiro began seek to secretly commission hit jobs on Turning Point USA a decade ago,\" with Charlie responding \"Yes, but I want to allow this to play out before I say something, but go ahead.\"",
+          "related_claims": [
+            "C-2481"
+          ],
+          "related_nodes": [
+            "N-991",
+            "N-1",
+            "N-988",
+            "N-1616"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:35–00:08:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1849",
+      "family_ref": "A-1849",
+      "bundle_name": "Meghan McCain X Post",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1849.1",
+          "ref": "A-1849.1",
+          "description": "X post reading: \"Stop sharing dead people's text messages, you absolute psychopaths.\"",
+          "related_claims": [
+            "C-2482"
+          ],
+          "related_nodes": [
+            "N-989",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:00–00:20:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1850",
+      "family_ref": "A-1850",
+      "bundle_name": "Blake Neff X Post",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1850.1",
+          "ref": "A-1850.1",
+          "description": "X post acknowledging that \"Charlie and Ben differed about the best direction for the conservative movement\" and that \"Charlie saw Ben as a rival.\"",
+          "related_claims": [
+            "C-2483"
+          ],
+          "related_nodes": [
+            "N-992",
+            "N-1",
+            "N-988",
+            "N-1616"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:29–00:16:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1851",
+      "family_ref": "A-1851",
+      "bundle_name": "Ben Shapiro – Michael Knowles Stage Audio Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1851.1",
+          "ref": "A-1851.1",
+          "description": "Audio clip in which Ben Shapiro presses Michael Knowles to publicly state Candace Owens is doing something \"evil\" by attacking \"Erika Curren,\" with Knowles refusing.",
+          "related_claims": [
+            "C-2484"
+          ],
+          "related_nodes": [
+            "N-988",
+            "N-993",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:54–00:20:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1852",
+      "family_ref": "A-1852",
+      "bundle_name": "Pete Hegseth Press Audio Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1852.1",
+          "ref": "A-1852.1",
+          "description": "Audio clip of Pete Hegseth responding to a question about the Strait of Hormuz: \"The only thing prohibiting transit in the straits right now is Iran shooting at shipping. It is open for transit should Iran not do that.\"",
+          "related_claims": [
+            "C-2485"
+          ],
+          "related_nodes": [
+            "N-994",
+            "N-5",
+            "N-1614"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:34–00:25:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1853",
+      "family_ref": "A-1853",
+      "bundle_name": "Trump Audio Clip (Reasons for Iran War)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1853.1",
+          "ref": "A-1853.1",
+          "description": "Audio clip of Donald Trump stating: \"We don't need oil... we did it out of habit... We have some great Middle Eastern countries there, Israel there. So, we did it for a lot of reasons.\"",
+          "related_claims": [
+            "C-2486"
+          ],
+          "related_nodes": [
+            "N-5",
+            "N-1614"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:42–00:34:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1854",
+      "family_ref": "A-1854",
+      "bundle_name": "Tucker Carlson Video Clip (CIA Referral Disclosure)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1854.1",
+          "ref": "A-1854.1",
+          "description": "Video clip of Tucker Carlson stating the CIA is \"preparing some kind of criminal referral against me\" under the \"Foreign Agent Act or something like that, acting as an agent of a foreign power\" on the basis of \"talking to people in Iran before the war.\"",
+          "related_claims": [
+            "C-2487"
+          ],
+          "related_nodes": [
+            "N-995",
+            "N-5",
+            "N-1613"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:23–00:43:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1855",
+      "family_ref": "A-1855",
+      "bundle_name": "International Government Statements Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1855.1",
+          "ref": "A-1855.1",
+          "description": "Statement attributed to Germany: \"This is not our war. We did not start it. We want diplomatic solutions and a swift end but sending more warships to the region will likely not help achieve that.\"",
+          "related_claims": [
+            "C-2488"
+          ],
+          "related_nodes": [
+            "N-1614",
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1855.2",
+          "ref": "A-1855.2",
+          "description": "Statement attributed to the EU: \"It is in our interest to keep the Strait of Hormuz open, and that's why we are also discussing what we can do in this regard.\"",
+          "related_claims": [
+            "C-2488"
+          ],
+          "related_nodes": [
+            "N-1614"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1855.3",
+          "ref": "A-1855.3",
+          "description": "Statement attributed to Britain: \"While taking the necessary action to defend ourselves and our allies, we will not be drawn into the wider war.\"",
+          "related_claims": [
+            "C-2488"
+          ],
+          "related_nodes": [
+            "N-1614"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1855.4",
+          "ref": "A-1855.4",
+          "description": "Statement attributed to Australia: \"Australia does not intend to send ships into the Strait of Hormuz.\"",
+          "related_claims": [
+            "C-2488"
+          ],
+          "related_nodes": [
+            "N-1614"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1855.5",
+          "ref": "A-1855.5",
+          "description": "Statement attributed to Japan: \"We have not made any decisions whatsoever about dispatching escort ships.\"",
+          "related_claims": [
+            "C-2488"
+          ],
+          "related_nodes": [
+            "N-1614"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1855.6",
+          "ref": "A-1855.6",
+          "description": "Statement attributed to China: \"The recent tense situation in the strait and the waters nearby has impacted the route for international goods and energy trade, disrupting peace and stability in the region and beyond.\"",
+          "related_claims": [
+            "C-2488"
+          ],
+          "related_nodes": [
+            "N-1614"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1855.7",
+          "ref": "A-1855.7",
+          "description": "Statement attributed to Italian Prime Minister Georgia Meloni describing the war as part of a \"growing and dangerous trend of interventions that sit outside the scope of international law.\"",
+          "related_claims": [
+            "C-2488"
+          ],
+          "related_nodes": [
+            "N-996",
+            "N-1614"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:27:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1855.8",
+          "ref": "A-1855.8",
+          "description": "Statement attributed to Spain: \"Spain will never accept any stopgap measures because the objective must be for the war to end and for it to end now.\"",
+          "related_claims": [
+            "C-2488"
+          ],
+          "related_nodes": [
+            "N-1614"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1855.9",
+          "ref": "A-1855.9",
+          "description": "Statement attributed to South Korea: \"We will continue to communicate closely with the US while carefully reviewing the situation before making a decision.\"",
+          "related_claims": [
+            "C-2488"
+          ],
+          "related_nodes": [
+            "N-1614"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1855.10",
+          "ref": "A-1855.10",
+          "description": "Statement attributed to France / Emmanuel Macron: France willing to use French navy to escort ships only if the conflict stabilized.",
+          "related_claims": [
+            "C-2488"
+          ],
+          "related_nodes": [
+            "N-997",
+            "N-1614"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1856",
+      "family_ref": "A-1856",
+      "bundle_name": "Candace Owens Written Article (Jordan Peterson Quote)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1856.1",
+          "ref": "A-1856.1",
+          "description": "Written article by host quoting Jordan Peterson (\"you cannot twist the fabric of reality without it snapping back\") and arguing that \"Zionists are quite literally their own worst enemy right now.\"",
+          "related_claims": [
+            "C-2493"
+          ],
+          "related_nodes": [
+            "N-7",
+            "N-998",
+            "N-1616"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:50–00:40:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1857",
+      "family_ref": "A-1857",
+      "bundle_name": "Randy Fine X Post",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1857.1",
+          "ref": "A-1857.1",
+          "description": "X post: \"It sounds like Tucker Carlson is learning the hard way. 'And I will bless those who bless you, and the one who curses you I will curse.'\"",
+          "related_claims": [
+            "C-2489"
+          ],
+          "related_nodes": [
+            "N-999",
+            "N-995",
+            "N-1613"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:36–00:45:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1858",
+      "family_ref": "A-1858",
+      "bundle_name": "Laura Loomer X Post",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1858.1",
+          "ref": "A-1858.1",
+          "description": "X post: \"I have created a list. Woohoo! Of conservative influence who I believe are taking money from Iran, Russia, and Qatar. I have attached my supporting evidence. As I told the DOJ, Tucker Carlson isn't the only one who is likely violating FARA. All of these traitors deserve jail time.\"",
+          "related_claims": [
+            "C-2490"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-995",
+            "N-1613"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:22–00:46:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1859",
+      "family_ref": "A-1859",
+      "bundle_name": "Alex Stein X Post",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1859.1",
+          "ref": "A-1859.1",
+          "description": "X post: \"America is totally compromised by foreign actors. If Tucker Carlson gets arrested before anybody on the Epstein list.\"",
+          "related_claims": [
+            "C-2491"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-995",
+            "N-1613"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:20–00:47:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1860",
+      "family_ref": "A-1860",
+      "bundle_name": "US Embassy Iraq Attack News Headline",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1860.1",
+          "ref": "A-1860.1",
+          "description": "News headline: \"US urges citizens to leave Iraq on after attack on the embassy in Baghdad.\"",
+          "related_claims": [
+            "C-2492"
+          ],
+          "related_nodes": [
+            "N-5",
+            "N-1615"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:14–00:35:03",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-986",
+      "ref": "N-986",
+      "name": "Node 986",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-987",
+      "ref": "N-987",
+      "name": "Node 987",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary biographical and evidentiary subject. Multiple private text messages read in this episode provide his stated views on Ben Shapiro, the McCain family, the Talmud, the Iran war, and neocons.",
+      "related_artifacts": [
+        "A-1846.1",
+        "A-1846.2",
+        "A-1846.3",
+        "A-1847.1",
+        "A-1848.1",
+        "A-1850.1"
+      ],
+      "related_claims": [
+        "C-2476",
+        "C-2477",
+        "C-2478",
+        "C-2479",
+        "C-2480",
+        "C-2481",
+        "C-2483"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1616"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Subject of audio clip A-1853 and named as architect of US-Iran war referenced across multiple artifacts.",
+      "related_artifacts": [
+        "A-1847.1",
+        "A-1852.1",
+        "A-1853.1",
+        "A-1854.1",
+        "A-1860.1"
+      ],
+      "related_claims": [
+        "C-2479",
+        "C-2485",
+        "C-2486",
+        "C-2488",
+        "C-2492"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1614"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-985",
+      "ref": "N-985",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Named as instigator of Iran war, referenced in relation to Charlie Kirk's June White House opposition, and subject of host speculation regarding death/health.",
+      "related_artifacts": [
+        "A-1847.1",
+        "A-1853.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-5",
+        "N-1614"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-988",
+      "ref": "N-988",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Subject of multiple Charlie Kirk text-message artifacts, subject of Milo Yiannopoulos disclosure (A-1848.1), and speaker in audio clip A-1851.",
+      "related_artifacts": [
+        "A-1846.1",
+        "A-1846.2",
+        "A-1848.1",
+        "A-1850.1",
+        "A-1851.1"
+      ],
+      "related_claims": [
+        "C-2476",
+        "C-2478",
+        "C-2481",
+        "C-2483",
+        "C-2484"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1616"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-989",
+      "ref": "N-989",
+      "name": "Meghan McCain",
+      "type": "person",
+      "description": "Author of X post A-1849.1 and subject of Charlie Kirk text A-1846.3.",
+      "related_artifacts": [
+        "A-1846.3",
+        "A-1849.1"
+      ],
+      "related_claims": [
+        "C-2478",
+        "C-2482"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-990",
+      "ref": "N-990",
+      "name": "Bret Weinstein",
+      "type": "person",
+      "description": "Co-party to text exchange A-1847.1 with Charlie Kirk regarding Iran war.",
+      "related_artifacts": [
+        "A-1847.1"
+      ],
+      "related_claims": [
+        "C-2479",
+        "C-2480"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-1612"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-991",
+      "ref": "N-991",
+      "name": "Milo Yiannopoulos",
+      "type": "person",
+      "description": "Author of text messages disclosed in A-1848.1 regarding Ben Shapiro and TPUSA.",
+      "related_artifacts": [
+        "A-1848.1"
+      ],
+      "related_claims": [
+        "C-2481"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-988"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-992",
+      "ref": "N-992",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Author of X post A-1850.1 admitting Charlie/Ben rivalry.",
+      "related_artifacts": [
+        "A-1850.1"
+      ],
+      "related_claims": [
+        "C-2483"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-988",
+        "N-1616"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-993",
+      "ref": "N-993",
+      "name": "Michael Knowles",
+      "type": "person",
+      "description": "Subject of audio clip A-1851.1; named as godfather to Candace Owens' daughter.",
+      "related_artifacts": [
+        "A-1851.1"
+      ],
+      "related_claims": [
+        "C-2484"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-7",
+        "N-988"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-994",
+      "ref": "N-994",
+      "name": "Pete Hegseth",
+      "type": "person",
+      "description": "Speaker in audio clip A-1852.1 regarding Strait of Hormuz.",
+      "related_artifacts": [
+        "A-1852.1"
+      ],
+      "related_claims": [
+        "C-2485"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-5",
+        "N-1614"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-995",
+      "ref": "N-995",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Subject of CIA referral disclosure (A-1854.1) and multiple X posts (A-1857.1, A-1858.1, A-1859.1).",
+      "related_artifacts": [
+        "A-1854.1",
+        "A-1857.1",
+        "A-1858.1",
+        "A-1859.1"
+      ],
+      "related_claims": [
+        "C-2487",
+        "C-2489",
+        "C-2490",
+        "C-2491"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-5",
+        "N-1613"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-996",
+      "ref": "N-996",
+      "name": "Georgia Meloni",
+      "type": "person",
+      "description": "Speaker attributed with statement (A-1855.7) criticizing US-Israeli war as outside international law.",
+      "related_artifacts": [
+        "A-1855.7"
+      ],
+      "related_claims": [
+        "C-2488"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1614"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-997",
+      "ref": "N-997",
+      "name": "Emmanuel Macron",
+      "type": "person",
+      "description": "Speaker attributed with statement (A-1855.10) regarding French navy escort.",
+      "related_artifacts": [
+        "A-1855.10"
+      ],
+      "related_claims": [
+        "C-2488"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1614"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-998",
+      "ref": "N-998",
+      "name": "Jordan Peterson",
+      "type": "person",
+      "description": "Quoted by host in article A-1856.1.",
+      "related_artifacts": [
+        "A-1856.1"
+      ],
+      "related_claims": [
+        "C-2493"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-999",
+      "ref": "N-999",
+      "name": "Randy Fine",
+      "type": "person",
+      "description": "Author of X post A-1857.1.",
+      "related_artifacts": [
+        "A-1857.1"
+      ],
+      "related_claims": [
+        "C-2489"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-995",
+        "N-1613"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Author of X post A-1858.1 claiming existence of a list of foreign-money recipients.",
+      "related_artifacts": [
+        "A-1858.1"
+      ],
+      "related_claims": [
+        "C-2490"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-995",
+        "N-1613"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Author of X post A-1859.1 comparing Tucker Carlson prosecution risk to Epstein list.",
+      "related_artifacts": [
+        "A-1859.1"
+      ],
+      "related_claims": [
+        "C-2491"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-995",
+        "N-1613"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1612",
+      "ref": "N-1612",
+      "name": "Charlie Kirk Iran War Opposition (June 2025)",
+      "type": "investigation_target",
+      "description": "Investigative target: documentation of Charlie Kirk's documented opposition to a US-Iran war in June 2025, including White House advocacy and characterization of neocons as \"maniacs.\"",
+      "related_artifacts": [
+        "A-1847.1"
+      ],
+      "related_claims": [
+        "C-2479",
+        "C-2480"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-990",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1613",
+      "ref": "N-1613",
+      "name": "Tucker Carlson CIA Investigation",
+      "type": "investigation_target",
+      "description": "Investigative target: claimed CIA criminal referral against Tucker Carlson under FARA, based on communications with Iranian contacts prior to the war.",
+      "related_artifacts": [
+        "A-1854.1",
+        "A-1857.1",
+        "A-1858.1",
+        "A-1859.1"
+      ],
+      "related_claims": [
+        "C-2487",
+        "C-2489",
+        "C-2490",
+        "C-2491"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-995"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1614",
+      "ref": "N-1614",
+      "name": "Strait of Hormuz / US-Iran War Context",
+      "type": "investigation_target",
+      "description": "Investigative target: status of the Strait of Hormuz, US-Iran military engagement, and allied-nation non-participation as of March 2026.",
+      "related_artifacts": [
+        "A-1852.1",
+        "A-1853.1",
+        "A-1860.1"
+      ],
+      "related_claims": [
+        "C-2485",
+        "C-2486",
+        "C-2488"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-5",
+        "N-985"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1615",
+      "ref": "N-1615",
+      "name": "US Embassy Baghdad Attack (March 2026)",
+      "type": "investigation_target",
+      "description": "Investigative target: drone strike on US embassy complex in Baghdad and US evacuation advisory.",
+      "related_artifacts": [
+        "A-1860.1"
+      ],
+      "related_claims": [
+        "C-2492"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-5"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1616",
+      "ref": "N-1616",
+      "name": "Charlie Kirk Legacy Control Dispute",
+      "type": "investigation_target",
+      "description": "Investigative target: ongoing contest over public interpretation of Charlie Kirk's political positions, with focus on his documented relationship with Ben Shapiro, his Iran-war opposition, and host's contention that neocons are misrepresenting his positions.",
+      "related_artifacts": [
+        "A-1846.1",
+        "A-1847.1",
+        "A-1848.1",
+        "A-1850.1",
+        "A-1856.1"
+      ],
+      "related_claims": [
+        "C-2476",
+        "C-2478",
+        "C-2480",
+        "C-2481",
+        "C-2483",
+        "C-2493"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-988"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2476",
+      "ref": "C-2476",
+      "label": "Charlie Kirk characterized Ben Shapiro as \"unhinged\" in private text to Candace Owens",
+      "claim": "Charlie Kirk privately told Candace Owens that Ben Shapiro was \"unhinged\" and advised her to \"Stay the course.\"",
+      "anchored_artifacts": [
+        "A-1846.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-7",
+        "N-988",
+        "N-1616",
+        "N-986",
+        "N-987"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:50–00:09:46",
+      "investigative_direction": "Obtain device-level forensic verification of the text messages; compare timestamps against other contemporaneous Charlie Kirk public statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2477",
+      "ref": "C-2477",
+      "label": "Charlie Kirk acknowledged awareness of \"verses in the Talmud\" described as having \"inherent vitriol toward Christianity\"",
+      "claim": "Charlie Kirk privately told Candace Owens there were \"some verses in the Talmud that will blow your mind\" and that the Talmud is \"rabbinical interpretations of Judaism\" — a text exchange the host presents as evidence Charlie was critical of certain Talmudic content.",
+      "anchored_artifacts": [
+        "A-1846.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:46–00:10:32",
+      "investigative_direction": "Cross-reference against Charlie Kirk's public statements on Judaism and the Talmud; verify authenticity of message timestamps."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2478",
+      "ref": "C-2478",
+      "label": "Charlie Kirk privately characterized the McCain family as a \"disgrace\"",
+      "claim": "Charlie Kirk privately texted Candace Owens that the McCains were \"a disgraceful family for the ways in which they have betrayed Americans and allowed for mass murder and bloody wars overseas.\"",
+      "anchored_artifacts": [
+        "A-1846.3"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-7",
+        "N-989",
+        "N-1616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:32–00:21:48",
+      "investigative_direction": "Forensic verification of the message; examine whether Charlie Kirk made comparable public statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2479",
+      "ref": "C-2479",
+      "label": "Charlie Kirk spent two days at the White House on June 18, 2025 lobbying Trump against an Iran war",
+      "claim": "A June 18 text exchange between Charlie Kirk and Bret Weinstein documents Charlie stating he was \"spending two full days at the White House trying to persuade President Trump not to initiate a war with Iran,\" and that he was \"in the White House all day fighting for America.\"",
+      "anchored_artifacts": [
+        "A-1847.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-990",
+        "N-5",
+        "N-1612",
+        "N-1616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:32–00:13:29",
+      "investigative_direction": "Verify White House visitor logs for Charlie Kirk on June 18, 2025; verify original text messages through device forensics."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2480",
+      "ref": "C-2480",
+      "label": "Charlie Kirk characterized neocons as \"maniacs\" needing to be \"shut down\"",
+      "claim": "In the June 18 text exchange with Bret Weinstein, Charlie Kirk wrote \"We have to shut these maniacs down\" regarding neocons advocating war with Iran.",
+      "anchored_artifacts": [
+        "A-1847.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-990",
+        "N-1612",
+        "N-1616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:38–00:12:38",
+      "investigative_direction": "Verify original message; cross-reference with contemporaneous public statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2481",
+      "ref": "C-2481",
+      "label": "Milo Yiannopoulos disclosed that Ben Shapiro commissioned hit jobs on Turning Point USA a decade ago",
+      "claim": "A text exchange between Milo Yiannopoulos and Charlie Kirk describes Ben Shapiro as having \"began seek to secretly commission hit jobs on Turning Point USA a decade ago,\" with Charlie stating he wanted to allow it to \"play out\" before responding publicly.",
+      "anchored_artifacts": [
+        "A-1848.1"
+      ],
+      "related_nodes": [
+        "N-991",
+        "N-1",
+        "N-988",
+        "N-1616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:35–00:08:50",
+      "investigative_direction": "Forensic verification of messages; corroborate with independent reporting or testimony regarding TPUSA donor pressure circa 2014–2015."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2482",
+      "ref": "C-2482",
+      "label": "Meghan McCain posted on X calling those sharing dead people's text messages \"absolute psychopaths\"",
+      "claim": "Meghan McCain posted on X: \"Stop sharing dead people's text messages, you absolute psychopaths.\"",
+      "anchored_artifacts": [
+        "A-1849.1"
+      ],
+      "related_nodes": [
+        "N-989",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:00–00:20:51",
+      "investigative_direction": "Direct retrieval of the original X post via archive."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2483",
+      "ref": "C-2483",
+      "label": "Blake Neff acknowledged Charlie Kirk and Ben Shapiro were rivals",
+      "claim": "Blake Neff posted on X acknowledging Charlie Kirk and Ben Shapiro \"differed about the best direction for the conservative movement\" and that \"Charlie saw Ben as a rival.\"",
+      "anchored_artifacts": [
+        "A-1850.1"
+      ],
+      "related_nodes": [
+        "N-992",
+        "N-1",
+        "N-988",
+        "N-1616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:29–00:16:34",
+      "investigative_direction": "Direct retrieval of the original X post via archive."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2484",
+      "ref": "C-2484",
+      "label": "Ben Shapiro publicly pressed Michael Knowles to denounce Candace Owens on stage",
+      "claim": "An on-stage exchange shows Ben Shapiro pressing Michael Knowles to state \"the sentence with her name in it\" regarding Candace Owens allegedly attacking \"Erika Curren,\" with Knowles refusing.",
+      "anchored_artifacts": [
+        "A-1851.1"
+      ],
+      "related_nodes": [
+        "N-988",
+        "N-993",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:54–00:20:00",
+      "investigative_direction": "Obtain the full unedited video clip; verify date and venue."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2485",
+      "ref": "C-2485",
+      "label": "Pete Hegseth stated the Strait of Hormuz was open for transit \"should Iran not\" shoot at shipping",
+      "claim": "Pete Hegseth stated in a press exchange: \"The only thing prohibiting transit in the straits right now is Iran shooting at shipping. It is open for transit should Iran not do that.\"",
+      "anchored_artifacts": [
+        "A-1852.1"
+      ],
+      "related_nodes": [
+        "N-994",
+        "N-5",
+        "N-1614"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:34–00:25:35",
+      "investigative_direction": "Obtain the full press exchange transcript and date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2486",
+      "ref": "C-2486",
+      "label": "Donald Trump stated the US went to war with Iran \"out of habit\"",
+      "claim": "Donald Trump stated in a public address: \"We don't need oil... we did it out of habit... We have some great Middle Eastern countries there, Israel there. So, we did it for a lot of reasons.\"",
+      "anchored_artifacts": [
+        "A-1853.1"
+      ],
+      "related_nodes": [
+        "N-5",
+        "N-985",
+        "N-1614"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:42–00:34:14",
+      "investigative_direction": "Obtain full transcript and verify date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2487",
+      "ref": "C-2487",
+      "label": "Tucker Carlson disclosed that the CIA is preparing a criminal referral against him under FARA",
+      "claim": "Tucker Carlson stated in a video that \"the CIA is preparing some kind of criminal referral against me, a crime report to Department of Justice on the basis of a supposed crime I committed... talking to people in Iran before the war... under... the Foreign Agent Act.\"",
+      "anchored_artifacts": [
+        "A-1854.1"
+      ],
+      "related_nodes": [
+        "N-995",
+        "N-5",
+        "N-1613"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:23–00:43:44",
+      "investigative_direction": "Verify date of Tucker's disclosure; obtain any DOJ or CIA acknowledgment/denial; check whether a formal referral exists."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2488",
+      "ref": "C-2488",
+      "label": "Germany, EU, Britain, Australia, Japan, China, Italy, Spain, South Korea, and France declined or conditioned participation in Strait of Hormuz escort operations",
+      "claim": "Multiple allied-nation statements, as read by the host, decline or condition participation in US-led Strait of Hormuz escort operations. Italy's Meloni described the war as outside international law; France conditioned participation on stabilization.",
+      "anchored_artifacts": [
+        "A-1855.1",
+        "A-1855.2",
+        "A-1855.3",
+        "A-1855.4",
+        "A-1855.5",
+        "A-1855.6",
+        "A-1855.7",
+        "A-1855.8",
+        "A-1855.9",
+        "A-1855.10"
+      ],
+      "related_nodes": [
+        "N-5",
+        "N-996",
+        "N-997",
+        "N-1614"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:19–00:28:13",
+      "investigative_direction": "Obtain original government press releases or transcripts for each quoted statement and verify dates."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2489",
+      "ref": "C-2489",
+      "label": "Randy Fine publicly cited Genesis 12:3 in connection with Tucker Carlson's legal jeopardy",
+      "claim": "Randy Fine posted on X: \"It sounds like Tucker Carlson is learning the hard way. 'And I will bless those who bless you, and the one who curses you I will curse.'\"",
+      "anchored_artifacts": [
+        "A-1857.1"
+      ],
+      "related_nodes": [
+        "N-999",
+        "N-995",
+        "N-1613"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:36–00:45:22",
+      "investigative_direction": "Retrieve original X post via archive."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2490",
+      "ref": "C-2490",
+      "label": "Laura Loomer publicly claimed to possess a list of conservatives allegedly taking money from Iran, Russia, and Qatar",
+      "claim": "Laura Loomer posted on X claiming to have \"created a list... Of conservative influence who I believe are taking money from Iran, Russia, and Qatar\" and stated she provided it to the DOJ.",
+      "anchored_artifacts": [
+        "A-1858.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-995",
+        "N-1613"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:22–00:46:20",
+      "investigative_direction": "Verify whether the list has ever been published publicly; check DOJ acknowledgment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2491",
+      "ref": "C-2491",
+      "label": "Alex Stein publicly stated Tucker Carlson is more likely to be arrested than anyone on the Epstein list",
+      "claim": "Alex Stein posted on X: \"America is totally compromised by foreign actors. If Tucker Carlson gets arrested before anybody on the Epstein list.\"",
+      "anchored_artifacts": [
+        "A-1859.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-995",
+        "N-1613"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:20–00:47:29",
+      "investigative_direction": "Retrieve original X post via archive."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2492",
+      "ref": "C-2492",
+      "label": "The US urged citizens to leave Iraq after a drone strike on the embassy in Baghdad",
+      "claim": "A news headline states: \"US urges citizens to leave Iraq on after attack on the embassy in Baghdad,\" following strikes that killed three members of Kata'ib Hezbollah.",
+      "anchored_artifacts": [
+        "A-1860.1"
+      ],
+      "related_nodes": [
+        "N-5",
+        "N-1615"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:14–00:35:03",
+      "investigative_direction": "Obtain the original news article; verify date and source publication."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2493",
+      "ref": "C-2493",
+      "label": "Candace Owens published an article arguing Zionists are attempting a \"fake it till you make it\" strategy on war",
+      "claim": "Candace Owens published an article (read aloud in this episode) quoting Jordan Peterson (\"you cannot twist the fabric of reality without it snapping back\") and arguing Zionists are \"their own worst enemy\" pursuing a \"fake it till you make it\" war strategy.",
+      "anchored_artifacts": [
+        "A-1856.1"
+      ],
+      "related_nodes": [
+        "N-7",
+        "N-998",
+        "N-1616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:50–00:40:07",
+      "investigative_direction": "Retrieve the original published article (Substack or platform); verify publication date."
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,480 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 40,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "0fb4e3ded28d3185653763304cd5207553aba7096b0c1f6c7d7d26295daa5ee4",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1489",
+      "family_ref": "A-1489",
+      "bundle_name": "Blake Nef Video Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1489.1",
+          "ref": "A-1489.1",
+          "description": "Blake Nef pre-recorded TPUSA video statement, played in full on air",
+          "related_claims": [
+            "C-1820",
+            "C-1821",
+            "C-1822",
+            "C-1823"
+          ],
+          "related_nodes": [
+            "N-478",
+            "N-1378"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:12–00:29:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1490",
+      "family_ref": "A-1490",
+      "bundle_name": "Pentagon Press Briefing Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1490.1",
+          "ref": "A-1490.1",
+          "description": "Pentagon press briefing clip — Cam Higby question and Kingsley Wilson response",
+          "related_claims": [
+            "C-1824",
+            "C-1825"
+          ],
+          "related_nodes": [
+            "N-479",
+            "N-480"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:49–00:43:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1491",
+      "family_ref": "A-1491",
+      "bundle_name": "The Game Mixtape Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1491.1",
+          "ref": "A-1491.1",
+          "description": "Interview clip with The Game discussing upcoming mixtape track title",
+          "related_claims": [
+            "C-1826",
+            "C-1827"
+          ],
+          "related_nodes": [
+            "N-481"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:42–00:52:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1492",
+      "family_ref": "A-1492",
+      "bundle_name": "Fortune Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1492.1",
+          "ref": "A-1492.1",
+          "description": "Fortune article — headline and direct quotation read aloud on air",
+          "related_claims": [
+            "C-1828",
+            "C-1829"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:20–00:47:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1493",
+      "family_ref": "A-1493",
+      "bundle_name": "Macron Public Calendar Reference",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1493.1",
+          "ref": "A-1493.1",
+          "description": "Emmanuel Macron public calendar entry — phone call with Donald Trump on September 10, 2025",
+          "related_claims": [
+            "C-1830"
+          ],
+          "related_nodes": [
+            "N-1379"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:59",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-478",
+      "ref": "N-478",
+      "name": "Blake Nef",
+      "type": "person",
+      "description": "TPUSA-affiliated producer of the Charlie Kirk Show; delivered TPUSA's formal public response in this episode by video statement.",
+      "related_artifacts": [
+        "A-1489.1"
+      ],
+      "related_claims": [
+        "C-1820",
+        "C-1821",
+        "C-1822",
+        "C-1823"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1378"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-479",
+      "ref": "N-479",
+      "name": "Cam Higby",
+      "type": "person",
+      "description": "Pentagon-credentialed journalist who asked the press secretary about a French military plot to assassinate Candace Owens at the December 3 briefing.",
+      "related_artifacts": [
+        "A-1490.1"
+      ],
+      "related_claims": [
+        "C-1824"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-480",
+      "ref": "N-480",
+      "name": "Kingsley Wilson",
+      "type": "person",
+      "description": "Pentagon press secretary who answered Cam Higby's question at the December 3 briefing.",
+      "related_artifacts": [
+        "A-1490.1"
+      ],
+      "related_claims": [
+        "C-1825"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-481",
+      "ref": "N-481",
+      "name": "The Game",
+      "type": "person",
+      "description": "Rapper with an upcoming mixtape containing \"The Assassination of Candace Owens\" track.",
+      "related_artifacts": [
+        "A-1491.1"
+      ],
+      "related_claims": [
+        "C-1826",
+        "C-1827"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1378",
+      "ref": "N-1378",
+      "name": "TPUSA Phoenix Livestream Verification Question",
+      "type": "investigation_target",
+      "description": "Persistent investigable target: whether and when the announced Phoenix livestream actually occurs, who participates, and what is answered.",
+      "related_artifacts": [
+        "A-1489.1"
+      ],
+      "related_claims": [
+        "C-1820"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-478"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1379",
+      "ref": "N-1379",
+      "name": "Macron-Trump 09/10 Phone Call Timing Verification",
+      "type": "investigation_target",
+      "description": "Persistent investigable target: verification of the September 10, 2025 phone call between Emmanuel Macron and Donald Trump (6:45 PM French time / 10:45 AM Utah time) as recorded in Macron's public calendar.",
+      "related_artifacts": [
+        "A-1493.1"
+      ],
+      "related_claims": [
+        "C-1830"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1820",
+      "ref": "C-1820",
+      "label": "TPUSA publicly invited Candace to participate in a Phoenix livestream to address allegations",
+      "claim": "TPUSA, via Blake Nef's video statement, announced a planned Phoenix livestream and extended a public invitation to the host to participate.",
+      "anchored_artifacts": [
+        "A-1489.1"
+      ],
+      "related_nodes": [
+        "N-478",
+        "N-1378"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:38–00:29:32",
+      "investigative_direction": "Confirm whether the livestream occurred, who attended, and which questions were answered; obtain recording or transcript."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1821",
+      "ref": "C-1821",
+      "label": "TPUSA asserted Charlie personally reviewed and signed off on every bill paid by the organization",
+      "claim": "In the video statement, TPUSA asserted that Charlie personally reviewed and signed off on every expense report and every bill paid by the organization down to a single United States dollar.",
+      "anchored_artifacts": [
+        "A-1489.1"
+      ],
+      "related_nodes": [
+        "N-478"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:49",
+      "investigative_direction": "Cross-check against internal expense approval records and witness testimony; investigate Charlie's DOGE-related audit request as a separate counter-signal."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1822",
+      "ref": "C-1822",
+      "label": "TPUSA asserted the organization has never missed a 990 deadline",
+      "claim": "In the video statement, TPUSA asserted that the organization has never missed a 990 filing deadline.",
+      "anchored_artifacts": [
+        "A-1489.1"
+      ],
+      "related_nodes": [
+        "N-478"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:49",
+      "investigative_direction": "Verify filing history against IRS Form 990 public records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1823",
+      "ref": "C-1823",
+      "label": "TPUSA framed host's questions as \"beneath contempt,\" citing Charlie's \"do not feed the trolls\" rule",
+      "claim": "In the video statement, TPUSA cited Charlie's \"do not feed the trolls\" rule and characterized the host's allegations as beneath contempt as justification for prior non-response.",
+      "anchored_artifacts": [
+        "A-1489.1"
+      ],
+      "related_nodes": [
+        "N-478"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:20–00:22:24",
+      "investigative_direction": "Obtain Charlie's documented communications on troll-handling policy; assess whether the rule was invoked consistently across other allegations."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1824",
+      "ref": "C-1824",
+      "label": "Cam Higby asked Pentagon press secretary about French military plot to assassinate Candace Owens",
+      "claim": "At the Pentagon briefing on December 3, newly-credentialed journalist Cam Higby asked Pentagon press secretary Kingsley Wilson whether the DoD has any evidence of a French military plot to assassinate Candace Owens.",
+      "anchored_artifacts": [
+        "A-1490.1"
+      ],
+      "related_nodes": [
+        "N-479",
+        "N-480"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:49",
+      "investigative_direction": "Confirm the briefing date and credentialing record; obtain full transcript of the briefing exchange."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1825",
+      "ref": "C-1825",
+      "label": "Kingsley Wilson responded she was not aware of evidence of a French military plot",
+      "claim": "Pentagon press secretary Kingsley Wilson responded \"not that I'm aware of\" to the question of whether DoD had evidence of a French military plot to assassinate Candace Owens, and suggested it might be more of a law enforcement matter.",
+      "anchored_artifacts": [
+        "A-1490.1"
+      ],
+      "related_nodes": [
+        "N-480"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:00",
+      "investigative_direction": "Track any follow-up statement from DoD or law enforcement regarding the underlying allegation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1826",
+      "ref": "C-1826",
+      "label": "The Game's upcoming mixtape contains a track titled \"The Assassination of Candace Owens\"",
+      "claim": "The Game is releasing a mixtape that contains a track titled \"The Assassination of Candace Owens.\"",
+      "anchored_artifacts": [
+        "A-1491.1"
+      ],
+      "related_nodes": [
+        "N-481"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:53–00:51:42",
+      "investigative_direction": "Verify the track listing against the released mixtape; obtain the song lyrics and release date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1827",
+      "ref": "C-1827",
+      "label": "The Game stated the track is not about Candace personally and uses her name metaphorically",
+      "claim": "The Game stated in the interview that the song is not about Candace personally and that he used the title because she \"self-admitted\" feeling targeted, framing it as a metaphor about \"assassination of the character.\"",
+      "anchored_artifacts": [
+        "A-1491.1"
+      ],
+      "related_nodes": [
+        "N-481"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:42–00:52:23",
+      "investigative_direction": "Confirm the artist's stated intent against the released song lyrics."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1828",
+      "ref": "C-1828",
+      "label": "Fortune article headline referenced the Macron lawsuit and Candace's media empire",
+      "claim": "A Fortune article published December 2 carried the headline \"Inside the economics of Candace Owens's media empire and the Macron lawsuit threatening to unravel it.\"",
+      "anchored_artifacts": [
+        "A-1492.1"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:20",
+      "investigative_direction": "Locate the Fortune article, capture full byline, and verify publication date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1829",
+      "ref": "C-1829",
+      "label": "Fortune article framed lawsuit as testing whether \"controversy as currency\" model could survive legal battle",
+      "claim": "The Fortune article stated that the lawsuit would test whether the \"controversy as currency\" model that enriched the host and built her media brand could survive what experts described as an immensely costly legal battle.",
+      "anchored_artifacts": [
+        "A-1492.1"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:25",
+      "investigative_direction": "Verify the quoted phrasing against the original article and identify the named \"experts.\""
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1830",
+      "ref": "C-1830",
+      "label": "Macron had a recorded phone call with Trump at 6:45 PM French time on September 10, 2025",
+      "claim": "Per host reference, Emmanuel Macron's public calendar records a phone call with Donald Trump at 6:45 PM French time (10:45 AM Utah time) on September 10, 2025.",
+      "anchored_artifacts": [
+        "A-1493.1"
+      ],
+      "related_nodes": [
+        "N-1379"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:59",
+      "investigative_direction": "Locate Macron's released public calendar; confirm the timestamp and any documented subject of the call."
+    }
+  ],
+  "memes": []
+}

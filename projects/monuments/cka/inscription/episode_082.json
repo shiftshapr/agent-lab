@@ -1,0 +1,1038 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 82,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "11b9571e5a76ba6e7d757602ee3753595b7175b02db0aab97660730731ff688c",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1886",
+      "family_ref": "A-1886",
+      "bundle_name": "Hopkinson Aircrafts Location Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1886.1",
+          "ref": "A-1886.1",
+          "description": "Hopkinson Aircrafts public website — \"Luxury Aircraft Sales, Premier Aircraft Sales, over 60 years, three generations of elevated expertise\"",
+          "related_claims": [
+            "C-2545",
+            "C-2544"
+          ],
+          "related_nodes": [
+            "N-1628"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1886.2",
+          "ref": "A-1886.2",
+          "description": "Satellite / map imagery of 14600 North Aircraft Drive, Scottsdale — showing Hopkinson Aircrafts, Atlantic Aviation, and Ross Aviation at the same address",
+          "related_claims": [
+            "C-2545"
+          ],
+          "related_nodes": [
+            "N-1628"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:52–00:14:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1886.3",
+          "ref": "A-1886.3",
+          "description": "Caller confirmation (host's anonymous outreach to Atlantic Aviation / Hopkinson) that Hopkinson Aircrafts is in a separate building that uses Atlantic Aviation's mailing address",
+          "related_claims": [
+            "C-2545"
+          ],
+          "related_nodes": [
+            "N-1628"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1887",
+      "family_ref": "A-1887",
+      "bundle_name": "Plane Documentation Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1887.1",
+          "ref": "A-1887.1",
+          "description": "Image of Hawker Beechcraft (the \"Barbara plane,\" tail N8724A) — small jet, identified by host as the alleged Santa Barbara–to–Provo flight at 3:19 PM MST",
+          "related_claims": [
+            "C-2546"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1630"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:58",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1887.2",
+          "ref": "A-1887.2",
+          "description": "Phone call confirmation from charter company handling N8724A: \"All of our planes have Wi-Fi\"",
+          "related_claims": [
+            "C-2546",
+            "C-2549"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1630"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1887.3",
+          "ref": "A-1887.3",
+          "description": "2020 charter listing for the alleged \"Wi-Refi\" plane (Santa Barbara → Scottsdale leg) — listing amenities including belted lavatory, cabin power outlets, 5'7\" cabin height, refreshment center, and \"satellite phone\"; Wi-Fi not marketed",
+          "related_claims": [
+            "C-2555"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1630"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:37",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1888",
+      "family_ref": "A-1888",
+      "bundle_name": "ADSB Exchange Flight Data Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1888.1",
+          "ref": "A-1888.1",
+          "description": "ADSB Exchange screenshot showing Charlie Kirk's plane below 7,500 ft near Provo at 3:26 PM MST on September 10, 2025",
+          "related_claims": [
+            "C-2547",
+            "C-2548"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1889",
+      "family_ref": "A-1889",
+      "bundle_name": "Text Message Exchange Bundle (Andrew Kolvet / Aubrey / Justin)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1889.1",
+          "ref": "A-1889.1",
+          "description": "Text message from Andrew Kolvet at 3:26 PM MST: \"Sorry, on the plane. This just loaded.\"",
+          "related_claims": [
+            "C-2548",
+            "C-2547"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1889.2",
+          "ref": "A-1889.2",
+          "description": "Text thread reference — Justin to Aubrey at 4:18 PM MST: Andrew must be \"on the ground\" before responding",
+          "related_claims": [
+            "C-2549"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1890",
+      "family_ref": "A-1890",
+      "bundle_name": "Charlie Kirk Live Show Clip Bundle (September 10, 2025)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1890.1",
+          "ref": "A-1890.1",
+          "description": "Andrew Kolvet clip (interview with Ross Douthat, New York Times) explaining he guest-hosted the first hour of Charlie Kirk Live Show on September 10, 2025; references Charlie texting him about polygamy/monogamy ~33 minutes before the shooting",
+          "related_claims": [
+            "C-2551",
+            "C-2556"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1629"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1890.2",
+          "ref": "A-1890.2",
+          "description": "Andrew Kolvet introducing Nick Shirley on Charlie Kirk Live Show, describing Shirley's footage as \"incredible\"",
+          "related_claims": [
+            "C-2552"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-1629"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1891",
+      "family_ref": "A-1891",
+      "bundle_name": "Nick Shirley Background Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1891.1",
+          "ref": "A-1891.1",
+          "description": "Nick Shirley self-introduction clip — 23-year-old independent YouTube journalist covering migrant crisis, fentanyl crisis, Chicago gang ride-alongs",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1208",
+            "N-1629",
+            "N-1632"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1891.2",
+          "ref": "A-1891.2",
+          "description": "Nick Shirley claim: infiltrated Comando Vermelho (one of Rio's largest gangs) and befriended soldiers \"through the course of 2 days\"",
+          "related_claims": [
+            "C-2552"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-1632"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1892",
+      "family_ref": "A-1892",
+      "bundle_name": "Joe Kent Shellenberger Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1892.1",
+          "ref": "A-1892.1",
+          "description": "Joe Kent interview (Michael Shellenberger, referenced) — Kent acknowledges he could be called by Tyler Robinson's defense team to testify that federal investigators did not thoroughly pursue other leads; says \"the truth doesn't play offense or defense. It's just the truth.\"",
+          "related_claims": [
+            "C-2553"
+          ],
+          "related_nodes": [
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1893",
+      "family_ref": "A-1893",
+      "bundle_name": "Blake Neff / Andrew Kolvet Response Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1893.1",
+          "ref": "A-1893.1",
+          "description": "Blake Neff / Andrew Kolvet on-air response — characterizes Joe Kent potentially testifying truthfully as a \"betrayal\"; asserts evidence against Tyler Robinson is \"overwhelming\" and a \"mountain\"; references May evidentiary hearing",
+          "related_claims": [
+            "C-2554"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1209",
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1894",
+      "family_ref": "A-1894",
+      "bundle_name": "N40JD Plane Information Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1894.1",
+          "ref": "A-1894.1",
+          "description": "N40JD plane data — registered to Jason Knupp (host identifies as chief commander of naval surface force in Atlanta); departed Scottsdale approximately 1 hour after Charlie Kirk shot; landed Provo at 2:29 PM MST",
+          "related_claims": [
+            "C-2550"
+          ],
+          "related_nodes": [
+            "N-1211",
+            "N-1631"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Spelling varies across transcript (Kolbet, Kolvert, Colvin, Colvert, Kolvet). Central figure in 9/10 flight itinerary investigation. Claimed to be on a plane without Wi-Fi at 3:26 PM MST; admitted to hosting Charlie Kirk Live Show first hour on 9/10; co-spokesperson with Blake Neff against Joe Kent's potential testimony.",
+      "related_artifacts": [
+        "A-1887.1",
+        "A-1887.2",
+        "A-1887.3",
+        "A-1888.1",
+        "A-1889.1",
+        "A-1889.2",
+        "A-1890.1",
+        "A-1890.2",
+        "A-1893.1"
+      ],
+      "related_claims": [
+        "C-2546",
+        "C-2548",
+        "C-2549",
+        "C-2551",
+        "C-2554",
+        "C-2555",
+        "C-2556"
+      ],
+      "tags": [],
+      "evidence_count": 9,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1627",
+        "N-1629"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Independent journalist; 23 years old; LDS Church member; from Utah; interviewed by Andrew Kolvet on first hour of Charlie Kirk Live Show 9/10; claims Comando Vermelho infiltration in 48 hours.",
+      "related_artifacts": [
+        "A-1890.2",
+        "A-1891.1",
+        "A-1891.2"
+      ],
+      "related_claims": [
+        "C-2552"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1629",
+        "N-1632"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "On-air co-respondent with Andrew Kolvet characterizing Joe Kent's potential truthful testimony as \"betrayal.\"",
+      "related_artifacts": [
+        "A-1893.1"
+      ],
+      "related_claims": [
+        "C-2554"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-1210"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Subject of the Shellenberger interview and target of Blake Neff / Andrew Kolvet's \"betrayal\" framing; acknowledged federal investigation did not thoroughly pursue other leads.",
+      "related_artifacts": [
+        "A-1892.1",
+        "A-1893.1"
+      ],
+      "related_claims": [
+        "C-2553",
+        "C-2554"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1209"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Registered owner of N40JD plane per host identification; host identifies him as chief commander of naval surface force in Atlanta.",
+      "related_artifacts": [
+        "A-1894.1"
+      ],
+      "related_claims": [
+        "C-2550"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1631"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Scottsdale / Canada–based luxury aircraft brokerage; reportedly occupies separate unmarked building using Atlantic Aviation's address. Central to the 9/10 Erica Kirk location claim.",
+      "related_artifacts": [
+        "A-1886.1",
+        "A-1886.2",
+        "A-1886.3"
+      ],
+      "related_claims": [
+        "C-2544",
+        "C-2545"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1628"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1626",
+      "ref": "N-1626",
+      "name": "Erica Kirk 9/10 Location Investigation",
+      "type": "investigation_target",
+      "description": "Persistent investigative question of where Erica Kirk physically was on September 10, 2025 between the shooting and her arrival in Utah. This episode introduces Hopkinson Aircrafts as the claimed location.",
+      "related_artifacts": [
+        "A-1886.1",
+        "A-1886.2",
+        "A-1886.3"
+      ],
+      "related_claims": [
+        "C-2544"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-1212",
+        "N-1628"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1627",
+      "ref": "N-1627",
+      "name": "Andrew Kolvet 9/10 Flight Itinerary",
+      "type": "investigation_target",
+      "description": "Persistent question of Andrew Kolvet's actual flight path on September 10. Episode develops 3:26 PM MST timing correlation against ADSB data and Wi-Fi analysis of Barbara plane.",
+      "related_artifacts": [
+        "A-1887.1",
+        "A-1887.2",
+        "A-1887.3",
+        "A-1888.1",
+        "A-1889.1",
+        "A-1889.2"
+      ],
+      "related_claims": [
+        "C-2546",
+        "C-2547",
+        "C-2548",
+        "C-2549",
+        "C-2555"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1628",
+      "ref": "N-1628",
+      "name": "Hopkinson Aircrafts Business Verification",
+      "type": "investigation_target",
+      "description": "Question of whether Hopkinson Aircrafts is a functioning aircraft brokerage as advertised, given its unmarked separate building, shared Atlantic Aviation address, and unusual occupancy profile.",
+      "related_artifacts": [
+        "A-1886.1",
+        "A-1886.2",
+        "A-1886.3"
+      ],
+      "related_claims": [
+        "C-2544",
+        "C-2545"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1212"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1629",
+      "ref": "N-1629",
+      "name": "Charlie Kirk Live Show 9/10 Liveness Verification",
+      "type": "investigation_target",
+      "description": "Question of whether Andrew Kolvet's first-hour hosting of Charlie Kirk Live Show on 9/10 was performed live, given his prior history of faking a live show from the White House (per host's prior reporting). Host seeking written confirmation from Nick Shirley.",
+      "related_artifacts": [
+        "A-1890.1",
+        "A-1890.2",
+        "A-1891.1"
+      ],
+      "related_claims": [
+        "C-2551"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1630",
+      "ref": "N-1630",
+      "name": "Barbara Plane (N8724A) Operations",
+      "type": "investigation_target",
+      "description": "The Hawker Beechcraft alleged by Erica Kirk as the plane Andrew Kolvet took at 3:19 PM MST Santa Barbara → Provo. Episode anchors Wi-Fi availability via charter company phone call.",
+      "related_artifacts": [
+        "A-1887.1",
+        "A-1887.2"
+      ],
+      "related_claims": [
+        "C-2546",
+        "C-2549"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1631",
+      "ref": "N-1631",
+      "name": "N40JD Plane Passenger Manifest",
+      "type": "investigation_target",
+      "description": "Plane owned by Jason Knupp that landed at Provo at 2:29 PM MST (per host) — passenger manifest not confirmed.",
+      "related_artifacts": [
+        "A-1894.1"
+      ],
+      "related_claims": [
+        "C-2550"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1211",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1632",
+      "ref": "N-1632",
+      "name": "Nick Shirley Background Verification",
+      "type": "investigation_target",
+      "description": "Question of Nick Shirley's claimed credentials, including the 48-hour Comando Vermelho infiltration claim and his access/sourcing profile.",
+      "related_artifacts": [
+        "A-1891.2"
+      ],
+      "related_claims": [
+        "C-2552"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2544",
+      "ref": "C-2544",
+      "label": "Erica Kirk was inside Hopkinson Aircrafts office when notified of Charlie Kirk's death",
+      "claim": "Per an unverified source tip received by the host, Erica Kirk was at Hopkinson Aircrafts in Scottsdale on September 10, 2025 when she received the call informing her that Charlie Kirk had died.",
+      "anchored_artifacts": [
+        "A-1886.1",
+        "A-1886.2",
+        "A-1886.3"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1212",
+        "N-1626",
+        "N-1628"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:34",
+      "investigative_direction": "Obtain direct documentary confirmation (call logs, eyewitnesses, building entry records) corroborating Erica Kirk's presence at Hopkinson Aircrafts on 9/10."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2545",
+      "ref": "C-2545",
+      "label": "Hopkinson Aircrafts occupies a separate unmarked building using Atlantic Aviation's mailing address",
+      "claim": "Per the host's anonymous outreach to Atlantic Aviation, Hopkinson Aircrafts is located in a standalone building separate from the Atlantic FBO terminal at 14600 North Aircraft Drive, Scottsdale, but Atlantic receives all Hopkinson mail.",
+      "anchored_artifacts": [
+        "A-1886.2",
+        "A-1886.3"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1628"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:06",
+      "investigative_direction": "Conduct independent site visit or obtain satellite/aerial confirmation of a separate building; verify postal/mail arrangement through public records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2546",
+      "ref": "C-2546",
+      "label": "Barbara plane (N8724A) charter operator states all their planes have Wi-Fi",
+      "claim": "The charter company handling the Hawker Beechcraft N8724A told the host by phone on March 24, 2026 that \"all of our planes have Wi-Fi.\"",
+      "anchored_artifacts": [
+        "A-1887.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1630"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:39",
+      "investigative_direction": "Obtain written confirmation from the charter operator; corroborate via independent review of charter marketing materials."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2547",
+      "ref": "C-2547",
+      "label": "Charlie Kirk's plane was below 7,500 ft approaching Provo at 3:26 PM MST on September 10, 2025",
+      "claim": "ADSB Exchange data shows Charlie Kirk's plane at 3:26 PM MST descending below 7,500 feet, minutes from touching down at Provo.",
+      "anchored_artifacts": [
+        "A-1888.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1207",
+        "N-1627"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:05",
+      "investigative_direction": "Pull and archive ADSB Exchange historical data for N-number of Charlie's plane on 9/10/2025 between 15:00–16:00 MST."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2548",
+      "ref": "C-2548",
+      "label": "Andrew Kolvet texted \"Sorry, on the plane. This just loaded\" at 3:26 PM MST",
+      "claim": "Andrew Kolvet sent a text message at 3:26 PM MST on September 10, 2025 stating \"Sorry, on the plane. This just loaded,\" referencing a 1:30 PM MST message he had not previously answered.",
+      "anchored_artifacts": [
+        "A-1889.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1627"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:10",
+      "investigative_direction": "Obtain the original text record with carrier timestamp metadata to confirm the 3:26 PM MST time."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2549",
+      "ref": "C-2549",
+      "label": "Andrew Kolvet was unreachable from 1:47 PM MST until at least 4:18 PM MST because he was on a plane without Wi-Fi",
+      "claim": "Per a text thread with Justin and Aubrey, Andrew Kolvet could not respond to messages because he was on a plane without Wi-Fi; Justin told Aubrey at 4:18 PM MST that she must wait until Andrew is \"on the ground.\"",
+      "anchored_artifacts": [
+        "A-1889.1",
+        "A-1889.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1627",
+        "N-1630"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:35",
+      "investigative_direction": "Obtain full text thread with carrier-verified timestamps; reconcile against ADSB data for the plane Andrew was on."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2550",
+      "ref": "C-2550",
+      "label": "N40JD plane departed Scottsdale approximately one hour after Charlie Kirk was shot and landed at Provo at 2:29 PM MST",
+      "claim": "Per the host, the N40JD plane, registered to Jason Knupp (identified by host as chief commander of naval surface force in Atlanta), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST.",
+      "anchored_artifacts": [
+        "A-1894.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1631",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:16",
+      "investigative_direction": "Confirm Jason Knupp's military role via official Navy / public records; pull ADSB data for N40JD on 9/10; investigate passenger manifest."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2551",
+      "ref": "C-2551",
+      "label": "Andrew Kolvet guest-hosted the first hour of Charlie Kirk Live Show on September 10, 2025",
+      "claim": "Andrew Kolvet stated in an interview with Ross Douthat (New York Times) that he guest-hosted the first hour of Charlie Kirk Live Show on September 10, 2025, because Charlie was focusing on the tour.",
+      "anchored_artifacts": [
+        "A-1890.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1629"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:34",
+      "investigative_direction": "Verify the show aired live (not pre-recorded) by obtaining written confirmation from guest Nick Shirley, YouTube upload timestamps, and production records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2552",
+      "ref": "C-2552",
+      "label": "Nick Shirley claims to have infiltrated Comando Vermelho in 48 hours",
+      "claim": "Nick Shirley stated on the September 10, 2025 Charlie Kirk Live Show that within 48 hours he gained access to Comando Vermelho, one of Rio de Janeiro's largest gangs, and befriended soldiers who could not leave the favela.",
+      "anchored_artifacts": [
+        "A-1891.2"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1632"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:47",
+      "investigative_direction": "Verify the Comando Vermelho footage, dates, and circumstances of Shirley's claimed access; check corroborating reporting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2553",
+      "ref": "C-2553",
+      "label": "Joe Kent acknowledged federal investigators did not thoroughly pursue other leads",
+      "claim": "Joe Kent stated in an interview with Michael Shellenberger that federal investigators did not thoroughly pursue other leads in the Charlie Kirk case.",
+      "anchored_artifacts": [
+        "A-1892.1"
+      ],
+      "related_nodes": [
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:38",
+      "investigative_direction": "Obtain the full Shellenberger-Kent interview; cross-reference Kent's stated investigation recommendations against DOJ / FBI disclosures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2554",
+      "ref": "C-2554",
+      "label": "Blake Neff characterized Joe Kent's potential truthful defense testimony as a \"betrayal\"",
+      "claim": "Blake Neff stated on air that if Joe Kent testifies truthfully for the defense that federal investigation was not thorough, it would be a \"level of betrayal\" against Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-1893.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1209",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:31",
+      "investigative_direction": "Obtain full clip with timestamps; document exact wording for evidentiary comparison against later statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2555",
+      "ref": "C-2555",
+      "label": "The \"Wi-Refi\" plane's 2020 charter listing does not market Wi-Fi as an amenity",
+      "claim": "A 2020 charter listing for the plane identified as the alleged Santa Barbara → Scottsdale leg (\"Wi-Refi\") lists amenities including belted lavatory, cabin power outlets, refreshment center, and satellite phone, but does not list Wi-Fi.",
+      "anchored_artifacts": [
+        "A-1887.3"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1627"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:37",
+      "investigative_direction": "Obtain current charter operator records to verify whether the aircraft has been retrofitted with Wi-Fi since 2020."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2556",
+      "ref": "C-2556",
+      "label": "Andrew Kolvet admitted Charlie Kirk was displeased about a booking Kolvet had made the day before September 10",
+      "claim": "Andrew Kolvet stated in his Ross Douthat interview that Charlie Kirk was \"not super pleased\" about an interview booking Kolvet had made the day before September 10, prompting Charlie to hand guest-host duties to Kolvet.",
+      "anchored_artifacts": [
+        "A-1890.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1",
+        "N-1629"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:34",
+      "investigative_direction": "Verify the specific guest booked for September 9 interview; cross-check against show archives."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2557",
+      "ref": "C-2557",
+      "label": "\"Wi-Refi\" / \"RY Reef air\" and the alleged Santa Barbara → Scottsdale plane share identity",
+      "claim": "The host identifies \"RY Reef air\" and \"Wi-Refi\" as the same plane — the aircraft Erica Kirk described to the host as being used by Andrew Kolvet for the Santa Barbara → Scottsdale leg.",
+      "anchored_artifacts": [
+        "A-1887.3"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1627"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:35",
+      "investigative_direction": "Verify whether \"Wi-Refi\" is a transcript rendering of a specific aircraft name (e.g., \"WiRefi Air\") or a phonetic rendering by Erica Kirk."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2558",
+      "ref": "C-2558",
+      "label": "Baron Coleman clip characterizes TPUSA's selective-response strategy as \"Gish gallop\" and bad-faith debating",
+      "claim": "Baron Coleman (in a clip played on the show) characterized TPUSA's pattern of ignoring major inconsistencies while responding only to minor debunkable details as Gish gallop and bad-faith debating.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:02",
+      "investigative_direction": "Verify the Baron Coleman clip is preserved as a discrete artifact; clarify node for Baron Coleman."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2559",
+      "ref": "C-2559",
+      "label": "TPUSA released a statement that Marina reported as needing Andrew Kolvet's input",
+      "claim": "Per a text thread, after Charlie Kirk's death, TPUSA staff member Marina was told by another staffer that the statement about Charlie's death required Andrew Kolvet's input before release.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1207",
+        "N-1627"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:03",
+      "investigative_direction": "Obtain the full text thread; identify timestamp when TPUSA's public statement went out."
+    }
+  ],
+  "memes": []
+}

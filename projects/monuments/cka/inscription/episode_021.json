@@ -1,0 +1,599 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 21,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "3e79984c2ef169b7bdb41acb0b482c9584e0ba254e76b714ccbcdc0c2215a738",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1283",
+      "family_ref": "A-1283",
+      "bundle_name": "TPUSA Wikipedia Entry Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1283.1",
+          "ref": "A-1283.1",
+          "description": "Pre-existing 2021 TPUSA Wikipedia section — \"Charlie Kirk founded TPUSA Faith\"",
+          "related_claims": [
+            "C-1515"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1266"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:35–00:07:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1283.2",
+          "ref": "A-1283.2",
+          "description": "Updated TPUSA Wikipedia entry — Rob McCoy as TPUSA Faith co-founder",
+          "related_claims": [
+            "C-1514",
+            "C-1524"
+          ],
+          "related_nodes": [
+            "N-286",
+            "N-1266"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:03–00:05:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1284",
+      "family_ref": "A-1284",
+      "bundle_name": "Wikipedia Citation Source Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1284.1",
+          "ref": "A-1284.1",
+          "description": "Wikipedia citation article dated November 24, 2024 (also references September 2025 citations) used to support McCoy co-founder claim",
+          "related_claims": [
+            "C-1516",
+            "C-1517"
+          ],
+          "related_nodes": [
+            "N-286",
+            "N-1266"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:30–00:05:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1285",
+      "family_ref": "A-1285",
+      "bundle_name": "Trump Truth Social Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1285.1",
+          "ref": "A-1285.1",
+          "description": "Trump's Truth Social post about TPUSA being investigated by \"deranged Jack Smith\" — only post found in search related to \"investigation\"",
+          "related_claims": [
+            "C-1518"
+          ],
+          "related_nodes": [
+            "N-1268"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:35–00:17:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1286",
+      "family_ref": "A-1286",
+      "bundle_name": "New York Times Article Bundle (verbally referenced, not shown)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1286.1",
+          "ref": "A-1286.1",
+          "description": "NYT article reporting Kash Patel alarm at Joe Kent / Tulsi Gabbard office inquiry into Charlie Kirk investigation",
+          "related_claims": [
+            "C-1519",
+            "C-1520"
+          ],
+          "related_nodes": [
+            "N-1268"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:44–00:22:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1287",
+      "family_ref": "A-1287",
+      "bundle_name": "Megyn Kelly / Donald Trump Jr. Interview Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1287.1",
+          "ref": "A-1287.1",
+          "description": "Audio clip — Don Trump Jr. on Megyn Kelly initially deflecting, then expressing confidence in FBI investigation",
+          "related_claims": [
+            "C-1522",
+            "C-1523",
+            "C-1525"
+          ],
+          "related_nodes": [
+            "N-287",
+            "N-1268"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:12–00:35:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1288",
+      "family_ref": "A-1288",
+      "bundle_name": "Norman Finkelstein Interview Trailer Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1288.1",
+          "ref": "A-1288.1",
+          "description": "Trailer audio clip — Finkelstein quotes The Economist describing Gaza as \"a human rubbish heap,\" UN official \"toxic dump,\" and discusses \"billionaire class of Jewish supremacists\" using money to silence critics",
+          "related_claims": [
+            "C-1526"
+          ],
+          "related_nodes": [
+            "N-288"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:19–00:42:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1289",
+      "family_ref": "A-1289",
+      "bundle_name": "Charlie Kirk Day Proclamation Bundle (verbally referenced, not shown)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1289.1",
+          "ref": "A-1289.1",
+          "description": "Reference to President Trump establishing October 14 as national day of remembrance for Charlie Kirk",
+          "related_claims": [
+            "C-1521"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:10–00:15:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-286",
+      "ref": "N-286",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pentecostal pastor (Calvary Chapel Association) named in TPUSA Wikipedia entry as co-founder/co-chairman of TPUSA Faith less than 36 hours after Kirk's death; host rejects co-founder characterization.",
+      "related_artifacts": [
+        "A-1283.2",
+        "A-1284.1"
+      ],
+      "related_claims": [
+        "C-1514",
+        "C-1516",
+        "C-1517",
+        "C-1524"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1266"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-287",
+      "ref": "N-287",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Interviewer of Donald Trump Jr. regarding confidence in FBI investigation into Charlie Kirk's death; relevant as the source forum for the Don Jr. artifact.",
+      "related_artifacts": [
+        "A-1287.1"
+      ],
+      "related_claims": [
+        "C-1522",
+        "C-1523",
+        "C-1525"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-288",
+      "ref": "N-288",
+      "name": "Norman Finkelstein",
+      "type": "person",
+      "description": "Scholar and author; interviewee on upcoming Candace Owens episode regarding Gaza. Provides context but tangential to Kirk investigation per this episode.",
+      "related_artifacts": [
+        "A-1288.1"
+      ],
+      "related_claims": [
+        "C-1526"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1266",
+      "ref": "N-1266",
+      "name": "TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy between (a) updated TPUSA Wikipedia entry designating Rob McCoy as co-founder/co-chairman of TPUSA Faith with citation to a Nov 24, 2024 article that does not, per the host, contain that text; and (b) the pre-existing 2021 Wikipedia section naming Charlie Kirk as sole founder.",
+      "related_artifacts": [
+        "A-1283.1",
+        "A-1283.2",
+        "A-1284.1"
+      ],
+      "related_claims": [
+        "C-1514",
+        "C-1515",
+        "C-1516",
+        "C-1517",
+        "C-1524"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-286"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1267",
+      "ref": "N-1267",
+      "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy between public narrative (Charlie Kirk as committed evangelical) and host's claim that Kirk had a Catholic funeral mass and is buried in a Catholic cemetery. No on-episode artifact supports the underlying claim; flagged for external verification.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1268",
+      "ref": "N-1268",
+      "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
+      "type": "investigation_target",
+      "description": "Persistent question regarding FBI Director Kash Patel's posture toward outside inquiries (Joe Kent / Tulsi Gabbard office) into the Kirk investigation, including reported resistance and a meeting with White House and ODNI principals.",
+      "related_artifacts": [
+        "A-1285.1",
+        "A-1286.1",
+        "A-1287.1"
+      ],
+      "related_claims": [
+        "C-1518",
+        "C-1519",
+        "C-1520",
+        "C-1522",
+        "C-1525"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1514",
+      "ref": "C-1514",
+      "label": "TPUSA Wikipedia Entry Updated at 10:34 PM ET on September 11, 2025 to Add Rob McCoy as Co-Founder of TPUSA Faith",
+      "claim": "The TPUSA Wikipedia entry was updated at 10:34 PM Eastern on September 11, 2025 — less than 36 hours after Charlie Kirk's death — to add a heading naming Pastor Rob McCoy and Charlie Kirk as co-founders of TPUSA Faith.",
+      "anchored_artifacts": [
+        "A-1283.2"
+      ],
+      "related_nodes": [
+        "N-286",
+        "N-1266"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:03",
+      "investigative_direction": "Obtain Wikipedia edit history (revision IDs, editor accounts, IP traces) for the TPUSA article between September 10–12, 2025, and compare to standard post-trauma edit patterns."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1515",
+      "ref": "C-1515",
+      "label": "Pre-Existing 2021 Wikipedia Entry Stated Charlie Kirk Founded TPUSA Faith Alone",
+      "claim": "Before the September 11, 2025 update, the TPUSA Wikipedia article contained a long-standing section stating that Charlie Kirk founded TPUSA Faith, with no mention of Rob McCoy.",
+      "anchored_artifacts": [
+        "A-1283.1"
+      ],
+      "related_nodes": [
+        "N-1266"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:35",
+      "investigative_direction": "Retrieve archived snapshots of the TPUSA Wikipedia article (e.g., Wayback Machine, Wikipedia pre-September-2025 revisions) to verify the prior text."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1516",
+      "ref": "C-1516",
+      "label": "Citation Source for McCoy Co-Founder Claim Is Dated November 24, 2024 with Additional September 2025 Citations",
+      "claim": "The citation used in the updated Wikipedia entry to support the assertion that Rob McCoy was co-founder/co-chairman of TPUSA Faith points to an article dated November 24, 2024, with additional citations dated September 10 and September 2025.",
+      "anchored_artifacts": [
+        "A-1284.1"
+      ],
+      "related_nodes": [
+        "N-286",
+        "N-1266"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:30",
+      "investigative_direction": "Locate and verify the cited article(s) by date and content; confirm whether the citation supports the assertion as labeled."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1517",
+      "ref": "C-1517",
+      "label": "November 24, 2024 Citation Article Does Not State McCoy Was Co-Founder or Chairman",
+      "claim": "The November 24, 2024 article cited as source for McCoy's \"co-founder/co-chairman\" status does not, per the host's reading, contain text stating that McCoy was a co-founder or chairman of TPUSA Faith.",
+      "anchored_artifacts": [
+        "A-1284.1"
+      ],
+      "related_nodes": [
+        "N-286",
+        "N-1266"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:30",
+      "investigative_direction": "Obtain the cited article directly and check for the phrases \"co-founder,\" \"chairman,\" \"co-chairman,\" and any reference to TPUSA Faith."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1518",
+      "ref": "C-1518",
+      "label": "Trump's Only \"Investigation\" Truth Social Post Was About Jack Smith's TPUSA Investigation, Not Kirk's Murder",
+      "claim": "The only Truth Social post by President Trump that could be read as calling for \"further investigation\" into Charlie Kirk's death is, in its actual text, directed at Jack Smith's investigation of Turning Point USA and unrelated to the Kirk murder inquiry.",
+      "anchored_artifacts": [
+        "A-1285.1"
+      ],
+      "related_nodes": [
+        "N-1268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:35",
+      "investigative_direction": "Retrieve the full archive of Trump's Truth Social posts (or host's saved search) to verify that no other posts reference the Kirk investigation directly."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1519",
+      "ref": "C-1519",
+      "label": "New York Times Article Reported Kash Patel Was Alarmed by Joe Kent's Inquiry About the Kirk Investigation",
+      "claim": "A New York Times article published the day prior to this episode reported that FBI Director Kash Patel was alarmed when Joe Kent of Tulsi Gabbard's office inquired about details of the Charlie Kirk investigation, including possible foreign involvement.",
+      "anchored_artifacts": [
+        "A-1286.1"
+      ],
+      "related_nodes": [
+        "N-1268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:44",
+      "investigative_direction": "Locate the NYT article by date, headline, and quoted material; confirm direct attribution to Patel and the substance of Kent's inquiry."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1520",
+      "ref": "C-1520",
+      "label": "Kash Patel Convened a Meeting With Susie Wilds, Joe Kent, Tulsi Gabbard, and JD Vance Regarding the Inquiry",
+      "claim": "Following the inquiry, Kash Patel convened a meeting with Susie Wilds, Joe Kent, Tulsi Gabbard, and (per host's recollection) JD Vance, and no substantive action followed.",
+      "anchored_artifacts": [
+        "A-1286.1"
+      ],
+      "related_nodes": [
+        "N-1268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:37",
+      "investigative_direction": "Confirm via the NYT article whether these named officials were present and whether subsequent reporting describes any action items."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1521",
+      "ref": "C-1521",
+      "label": "Trump Established October 14 as a National Day of Remembrance for Charlie Kirk",
+      "claim": "President Trump signed or otherwise established October 14 — Charlie Kirk's birthday — as a national day of remembrance for Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-1289.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:13:10",
+      "investigative_direction": "Locate the relevant proclamation in the Federal Register or White House archive to confirm date, scope, and signing date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1522",
+      "ref": "C-1522",
+      "label": "Don Trump Jr. Expressed Confidence in the FBI Kirk Investigation in a Megyn Kelly Interview",
+      "claim": "In a Megyn Kelly interview, Donald Trump Jr. stated that he had confidence in the FBI's investigation into Charlie Kirk's death.",
+      "anchored_artifacts": [
+        "A-1287.1"
+      ],
+      "related_nodes": [
+        "N-287",
+        "N-1268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:12",
+      "investigative_direction": "Obtain the full Megyn Kelly interview clip and surrounding context; verify whether the confidence statement is unconditional or hedged."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1523",
+      "ref": "C-1523",
+      "label": "Don Trump Jr. Initially Deflected Before Being Pressed and Expressing Confidence",
+      "claim": "In the same Megyn Kelly interview, Don Trump Jr. did not directly answer the first question about confidence in the FBI investigation, pivoting to remarks about continuing Kirk's work; only after Kelly re-asked the question did he state that he had confidence.",
+      "anchored_artifacts": [
+        "A-1287.1"
+      ],
+      "related_nodes": [
+        "N-287"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:50",
+      "investigative_direction": "Confirm sequence of statements in the unedited interview."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1524",
+      "ref": "C-1524",
+      "label": "Host Rejects Wikipedia Characterization of Rob McCoy as TPUSA Faith Co-Founder",
+      "claim": "The host asserts, as a position, that Rob McCoy was not the founder or co-founder of TPUSA Faith and was at most placed on an advisory board; the host's stated firsthand knowledge (via prior involvement with TPUSA Faith conversations at Liberty University) is offered as the basis.",
+      "anchored_artifacts": [
+        "A-1283.2"
+      ],
+      "related_nodes": [
+        "N-286",
+        "N-1266"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:03",
+      "investigative_direction": "Obtain contemporaneous TPUSA Faith formation documents, IRS filings, and founding board records to resolve."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1525",
+      "ref": "C-1525",
+      "label": "Host Characterizes Don Trump Jr.'s Confidence Statement as Inconsistent With What He Would Say If He Believed the Official Narrative",
+      "claim": "The host asserts that Don Trump Jr.'s stated confidence in the FBI investigation is inconsistent with what he would say if he actually believed the official account — specifically that a 30-06 round's effect on Charlie Kirk's neck was as described.",
+      "anchored_artifacts": [
+        "A-1287.1"
+      ],
+      "related_nodes": [
+        "N-287",
+        "N-1268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:31",
+      "investigative_direction": "This is interpretive host commentary; falsifiable only by further direct statement from Don Trump Jr. or by independent investigation into the wound-ballistics question."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1526",
+      "ref": "C-1526",
+      "label": "Norman Finkelstein Trailer Characterizes Gaza Treatment and \"Jewish Supremacist\" Money Influence",
+      "claim": "In a trailer for an upcoming Candace Owens interview, Norman Finkelstein is shown quoting The Economist and a UN official describing Gaza as a \"human rubbish heap\" / \"toxic dump,\" and asserts that a \"billionaire class of Jewish supremacists\" uses money as a blackmail weapon to silence critics of an ongoing genocide.",
+      "anchored_artifacts": [
+        "A-1288.1"
+      ],
+      "related_nodes": [
+        "N-288"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:19",
+      "investigative_direction": "Verify the quoted Economist and UN official attributions against original publications; this claim is tangential to the Kirk investigation but is presented within the same episode."
+    }
+  ],
+  "memes": []
+}
