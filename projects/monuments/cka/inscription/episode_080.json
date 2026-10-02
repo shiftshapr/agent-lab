@@ -1,0 +1,1514 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 80,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "939a276fa7153675fa4c129ca613874ab4780ba8fb986b1877810b00297f327b",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1861",
+      "family_ref": "A-1861",
+      "bundle_name": "Joe Kent Resignation Letter Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1861.1",
+          "ref": "A-1861.1",
+          "description": "Letter from Joe Kent to President Trump, resigning from the Director of the National Counterterrorism Center, read in full on air",
+          "related_claims": [
+            "C-2494",
+            "C-2495",
+            "C-2496",
+            "C-2497"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1218",
+            "N-1619"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:57–00:06:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1862",
+      "family_ref": "A-1862",
+      "bundle_name": "Trump Audio Response Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1862.1",
+          "ref": "A-1862.1",
+          "description": "Audio clip of President Donald Trump responding to a reporter's question about Joe Kent's resignation at a podium appearance",
+          "related_claims": [
+            "C-2498",
+            "C-2499"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:42–00:10:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1863",
+      "family_ref": "A-1863",
+      "bundle_name": "Lindsey Graham X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1863.1",
+          "ref": "A-1863.1",
+          "description": "Senator Lindsey Graham X post characterizing Joe Kent's resignation as echoing \"Democratic talking points\" and as coming at a \"better time\"",
+          "related_claims": [
+            "C-2500"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1864",
+      "family_ref": "A-1864",
+      "bundle_name": "Mark Levin X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1864.1",
+          "ref": "A-1864.1",
+          "description": "Mark Levin X post speculating Joe Kent was \"about to be fired\" before resigning",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": []
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1864.2",
+          "ref": "A-1864.2",
+          "description": "Mark Levin X post calling for DOJ criminal investigation of Kent over potential leaks",
+          "related_claims": [
+            "C-2501",
+            "C-2502"
+          ],
+          "related_nodes": [
+            "N-1211",
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:00–00:00:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1865",
+      "family_ref": "A-1865",
+      "bundle_name": "Laura Loomer X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1865.1",
+          "ref": "A-1865.1",
+          "description": "Laura Loomer X post alleging Kent's wife worked for Max Blumenthal and describing Kent as disrespectful to Trump",
+          "related_claims": [
+            "C-2503"
+          ],
+          "related_nodes": [
+            "N-1212",
+            "N-1207",
+            "N-1221",
+            "N-1218"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:07–00:15:58",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1866",
+      "family_ref": "A-1866",
+      "bundle_name": "Alan Dershowitz X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1866.1",
+          "ref": "A-1866.1",
+          "description": "Alan Dershowitz X post referring to Kent as a \"neo-Nazi Jew hating Israel basher\"",
+          "related_claims": [
+            "C-2504"
+          ],
+          "related_nodes": [
+            "N-1213",
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:58",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1867",
+      "family_ref": "A-1867",
+      "bundle_name": "Taylor Budowich X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1867.1",
+          "ref": "A-1867.1",
+          "description": "Taylor Budowich X post describing Kent as a \"crazed egomaniac\" at the center of national security leaks",
+          "related_claims": [
+            "C-2505"
+          ],
+          "related_nodes": [
+            "N-1214",
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1868",
+      "family_ref": "A-1868",
+      "bundle_name": "Theo Von Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1868.1",
+          "ref": "A-1868.1",
+          "description": "Audio clip of podcaster/comedian Theo Von addressing the U.S.–Israel relationship in a podcast segment",
+          "related_claims": [
+            "C-2506"
+          ],
+          "related_nodes": [
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:55–00:22:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1869",
+      "family_ref": "A-1869",
+      "bundle_name": "Local News Segment Bundle (TPUSA Arkansas)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1869.1",
+          "ref": "A-1869.1",
+          "description": "Local news segment reporting the Turning Point USA University of Arkansas chapter's announced disaffiliation and rebrand",
+          "related_claims": [
+            "C-2507",
+            "C-2508",
+            "C-2521",
+            "C-2522"
+          ],
+          "related_nodes": [
+            "N-1217",
+            "N-2",
+            "N-1215",
+            "N-1618"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:39–00:31:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1870",
+      "family_ref": "A-1870",
+      "bundle_name": "Dino Fonte Grassi Instagram Letter Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1870.1",
+          "ref": "A-1870.1",
+          "description": "Open letter published on Instagram by TPUSA University of Arkansas chapter president Dino Fonte Grassi announcing disaffiliation",
+          "related_claims": [
+            "C-2509",
+            "C-2510"
+          ],
+          "related_nodes": [
+            "N-1217",
+            "N-1",
+            "N-1618"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:20–00:33:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1871",
+      "family_ref": "A-1871",
+      "bundle_name": "Charlie Kirk Israel/Gaza Discussion Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1871.1",
+          "ref": "A-1871.1",
+          "description": "Archival audio of Charlie Kirk discussing Israel/Gaza with students including Dino Fonte Grassi (described as a July 2025 sit-down)",
+          "related_claims": [
+            "C-2511",
+            "C-2523",
+            "C-2524"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1217",
+            "N-1220"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:39–00:34:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1872",
+      "family_ref": "A-1872",
+      "bundle_name": "Netanyahu Health Command Center Visit Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1872.1",
+          "ref": "A-1872.1",
+          "description": "Video clip of Benjamin Netanyahu at the National Health Command Center, dated March 10",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1617"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:37",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1873",
+      "family_ref": "A-1873",
+      "bundle_name": "Scott Bessent Situation Room Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1873.1",
+          "ref": "A-1873.1",
+          "description": "Video clip showing Treasury Secretary Scott Bessent being pulled mid-interview to attend the Situation Room",
+          "related_claims": [
+            "C-2512",
+            "C-2513"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-1617"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:24–00:48:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1874",
+      "family_ref": "A-1874",
+      "bundle_name": "DC-Area Airport Closure Report Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1874.1",
+          "ref": "A-1874.1",
+          "description": "Report on the simultaneous closure of Reagan National (DCA), Baltimore-Washington (BWI), and Richmond (RIC) airports on March 13",
+          "related_claims": [
+            "C-2514",
+            "C-2515"
+          ],
+          "related_nodes": [
+            "N-1617"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:48–00:49:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1875",
+      "family_ref": "A-1875",
+      "bundle_name": "Netanyahu Official Account Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1875.1",
+          "ref": "A-1875.1",
+          "description": "Video posted to Netanyahu's official account on March 14 following rumored Iranian missile strike",
+          "related_claims": [
+            "C-2516",
+            "C-2517",
+            "C-2518"
+          ],
+          "related_nodes": [
+            "N-1219",
+            "N-1617"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:50:05–00:51:08",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1876",
+      "family_ref": "A-1876",
+      "bundle_name": "Netanyahu–Mike Huckabee Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1876.1",
+          "ref": "A-1876.1",
+          "description": "Video of Benjamin Netanyahu with U.S. Ambassador Mike Huckabee, posted March 15, featuring the \"five fingers\"/\"punch card\" exchange",
+          "related_claims": [
+            "C-2519",
+            "C-2520"
+          ],
+          "related_nodes": [
+            "N-1216",
+            "N-1617"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:53:23–00:54:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Resigned Director of the National Counterterrorism Center; principal documentary subject of the episode's lead segment.",
+      "related_artifacts": [
+        "A-1861.1",
+        "A-1862.1",
+        "A-1863.1",
+        "A-1864.1",
+        "A-1864.2",
+        "A-1865.1",
+        "A-1866.1",
+        "A-1867.1"
+      ],
+      "related_claims": [
+        "C-2494",
+        "C-2495",
+        "C-2496",
+        "C-2497",
+        "C-2498",
+        "C-2499",
+        "C-2500",
+        "C-2501",
+        "C-2502",
+        "C-2503",
+        "C-2504",
+        "C-2505"
+      ],
+      "tags": [],
+      "evidence_count": 8,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1218",
+        "N-1619"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "U.S. Secretary of the Treasury; on-camera subject pulled to the Situation Room on March 12.",
+      "related_artifacts": [
+        "A-1873.1"
+      ],
+      "related_claims": [
+        "C-2512",
+        "C-2513"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1617"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Podcaster/comedian whose viral clip on the U.S.–Israel relationship is presented in full.",
+      "related_artifacts": [
+        "A-1868.1"
+      ],
+      "related_claims": [
+        "C-2506"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "U.S. Senator (South Carolina); public responder to Kent's resignation.",
+      "related_artifacts": [
+        "A-1863.1"
+      ],
+      "related_claims": [
+        "C-2500"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Conservative commentator; issued two separate X posts on Kent's resignation.",
+      "related_artifacts": [
+        "A-1864.1",
+        "A-1864.2"
+      ],
+      "related_claims": [
+        "C-2501",
+        "C-2502"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Conservative commentator; alleged Kent's wife worked for Max Blumenthal.",
+      "related_artifacts": [
+        "A-1865.1"
+      ],
+      "related_claims": [
+        "C-2503"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-1218",
+        "N-1221"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Lawyer/commentator; publicly referred to Kent as a \"neo-Nazi Jew hating Israel basher.\"",
+      "related_artifacts": [
+        "A-1866.1"
+      ],
+      "related_claims": [
+        "C-2504"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Former Deputy White House Chief of Staff; publicly described Kent as a \"crazed egomaniac.\"",
+      "related_artifacts": [
+        "A-1867.1"
+      ],
+      "related_claims": [
+        "C-2505"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Governor of Arkansas; signed proclamation endorsing TPUSA chapters in schools; appeared with Erica Kirk.",
+      "related_artifacts": [
+        "A-1869.1"
+      ],
+      "related_claims": [
+        "C-2521",
+        "C-2522"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-1217"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "U.S. Ambassador to Israel; on-camera in Netanyahu video of March 15.",
+      "related_artifacts": [
+        "A-1876.1"
+      ],
+      "related_claims": [
+        "C-2519"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1617"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "President of the TPUSA University of Arkansas chapter; author of disaffiliation letter; participant in Charlie Kirk's July 2025 Israel/Gaza discussion.",
+      "related_artifacts": [
+        "A-1869.1",
+        "A-1870.1",
+        "A-1871.1"
+      ],
+      "related_claims": [
+        "C-2509",
+        "C-2510",
+        "C-2511"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-1618"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Deceased U.S. service member and spouse of Joe Kent; referenced in resignation letter as having died in Syria.",
+      "related_artifacts": [
+        "A-1861.1",
+        "A-1865.1"
+      ],
+      "related_claims": [
+        "C-2497"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Son of Benjamin Netanyahu; subject of host-asserted 7-day social media silence observation.",
+      "related_artifacts": [
+        "A-1875.1"
+      ],
+      "related_claims": [
+        "C-2518"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1617"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "U.S. Senator (Texas); subject of Charlie Kirk's July 2025 on-camera critique of using the Bible to justify aid to Israel.",
+      "related_artifacts": [
+        "A-1871.1"
+      ],
+      "related_claims": [
+        "C-2524"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1221",
+      "ref": "N-1221",
+      "name": "Autopsy Record – Utah Privacy Statute Application",
+      "type": "investigation_target",
+      "description": "Journalist/editor; named in Laura Loomer post as alleged employer of Kent's wife.",
+      "related_artifacts": [
+        "A-1865.1"
+      ],
+      "related_claims": [
+        "C-2503"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1212",
+        "N-1218"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1617",
+      "ref": "N-1617",
+      "name": "Netanyahu Death/Injury Status Verification",
+      "type": "investigation_target",
+      "description": "Persistent inquiry (held across multiple video artifacts in this episode) into whether Benjamin Netanyahu has been killed, injured, or replaced following a rumored March 10/11 Iranian strike.",
+      "related_artifacts": [
+        "A-1872.1",
+        "A-1873.1",
+        "A-1874.1",
+        "A-1875.1",
+        "A-1876.1"
+      ],
+      "related_claims": [
+        "C-2512",
+        "C-2513",
+        "C-2514",
+        "C-2515",
+        "C-2516",
+        "C-2517",
+        "C-2518",
+        "C-2519",
+        "C-2520"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-1216",
+        "N-1219"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1618",
+      "ref": "N-1618",
+      "name": "TPUSA Direction-of-Travel Discrepancy (Post-Charlie)",
+      "type": "investigation_target",
+      "description": "Persistent inquiry into whether post-assassination Turning Point USA messaging and leadership decisions align with Charlie Kirk's documented positions, anchored by the Arkansas chapter disaffiliation.",
+      "related_artifacts": [
+        "A-1869.1",
+        "A-1870.1",
+        "A-1871.1"
+      ],
+      "related_claims": [
+        "C-2507",
+        "C-2508",
+        "C-2509",
+        "C-2510",
+        "C-2511"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1217",
+        "N-1215"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1619",
+      "ref": "N-1619",
+      "name": "Joe Kent Resignation Aftermath Pattern",
+      "type": "investigation_target",
+      "description": "Inquiry into the coordinated public response to Kent's resignation by Trump administration, sitting Republican officials, and right-wing commentators — possible pattern of criminalization-of-dissent.",
+      "related_artifacts": [
+        "A-1861.1",
+        "A-1862.1",
+        "A-1863.1",
+        "A-1864.1",
+        "A-1864.2",
+        "A-1865.1",
+        "A-1866.1",
+        "A-1867.1"
+      ],
+      "related_claims": [
+        "C-2498",
+        "C-2499",
+        "C-2500",
+        "C-2501",
+        "C-2502",
+        "C-2503",
+        "C-2504",
+        "C-2505"
+      ],
+      "tags": [],
+      "evidence_count": 8,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2494",
+      "ref": "C-2494",
+      "label": "Kent Resignation Effective Day of Letter",
+      "claim": "Joe Kent's letter states he has resigned from the Director of the National Counterterrorism Center effective the day of the letter, citing inability in good conscience to support the ongoing war in Iran.",
+      "anchored_artifacts": [
+        "A-1861.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1619"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:57",
+      "investigative_direction": "Cross-reference the date of the letter against public Federal Register / White House personnel announcement records to confirm effective date and replacement timeline."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2495",
+      "ref": "C-2495",
+      "label": "Kent: Iran Posed No Imminent Threat",
+      "claim": "Kent's resignation letter asserts that \"Iran posed no imminent threat to our nation.\"",
+      "anchored_artifacts": [
+        "A-1861.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1619"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:57",
+      "investigative_direction": "Compare Kent's stated threat assessment against publicly available U.S. intelligence community products and ODNI statements from the relevant period."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2496",
+      "ref": "C-2496",
+      "label": "Kent Attributes War Initiation to Israel and American Lobby",
+      "claim": "Kent's letter states that the U.S. started the war \"due to pressure from Israel and its powerful American lobby.\"",
+      "anchored_artifacts": [
+        "A-1861.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1619"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:57",
+      "investigative_direction": "Verify Kent's specific allegations against any documented lobbying communications or pressure patterns referenced in his letter."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2497",
+      "ref": "C-2497",
+      "label": "Kent Self-Identifies as 11-Time Combat Veteran and Gold Star Husband",
+      "claim": "Kent's letter identifies him as a veteran who deployed to combat 11 times and a gold star husband who lost his wife Shannon in a war manufactured by Israel.",
+      "anchored_artifacts": [
+        "A-1861.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1218",
+        "N-1619"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:57",
+      "investigative_direction": "Verify Kent's DD-214-equivalent service record and Shannon Kent's military casualty record against publicly available DoD releases."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2498",
+      "ref": "C-2498",
+      "label": "Trump Describes Kent as \"Weak on Security\"",
+      "claim": "In on-camera remarks, President Trump described Joe Kent as \"weak on security\" upon reading his resignation statement.",
+      "anchored_artifacts": [
+        "A-1862.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1619"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:42",
+      "investigative_direction": "Confirm exact wording against the full White House transcript or press pool video of the same appearance."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2499",
+      "ref": "C-2499",
+      "label": "Trump Cites Termination of Iran Nuclear Deal in Defense of War",
+      "claim": "Trump defended the Iran campaign by referencing his prior termination of the Obama-era Iran nuclear deal, asserting that absent termination there would have been a \"nuclear holocaust.\"",
+      "anchored_artifacts": [
+        "A-1862.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1619"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:23",
+      "investigative_direction": "Confirm specific language against the official White House transcript of the appearance."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2500",
+      "ref": "C-2500",
+      "label": "Graham Characterizes Kent Resignation as Democratic Talking Points",
+      "claim": "Senator Lindsey Graham publicly stated that Kent's resignation \"could not have come at a better time\" and that Kent's statement was echoing \"Democratic talking points.\"",
+      "anchored_artifacts": [
+        "A-1863.1"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-1207",
+        "N-1619"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:29",
+      "investigative_direction": "Verify the exact X post text against Graham's verified account at the timestamp indicated."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2501",
+      "ref": "C-2501",
+      "label": "Levin Suggests Kent Was About to Be Fired",
+      "claim": "Mark Levin publicly speculated that Kent \"was about to be fired but quickly resigned first.\"",
+      "anchored_artifacts": [
+        "A-1864.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1207",
+        "N-1619"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:07",
+      "investigative_direction": "Confirm against Levin's verified X account and compare with any subsequent official statements about Kent's separation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2502",
+      "ref": "C-2502",
+      "label": "Levin Calls for DOJ Criminal Investigation of Kent",
+      "claim": "Mark Levin publicly called for the DOJ to open a criminal investigation to determine if Kent leaked classified information.",
+      "anchored_artifacts": [
+        "A-1864.2"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1207",
+        "N-1619"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:55",
+      "investigative_direction": "Confirm against Levin's verified X account and monitor for any DOJ response."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2503",
+      "ref": "C-2503",
+      "label": "Loomer Alleges Kent's Wife Worked for Max Blumenthal",
+      "claim": "Laura Loomer publicly alleged that Kent's wife works for Max Blumenthal and used this to characterize Kent as disrespectful to Trump.",
+      "anchored_artifacts": [
+        "A-1865.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1221",
+        "N-1218",
+        "N-1207",
+        "N-1619"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:07–00:15:58",
+      "investigative_direction": "Verify Loomer's allegation against Shannon Kent's actual employment record (she is deceased per Kent's own letter); check for fact-check rebuttals."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2504",
+      "ref": "C-2504",
+      "label": "Dershowitz Calls Kent a \"Neo-Nazi Jew Hating Israel Basher\"",
+      "claim": "Alan Dershowitz publicly referred to Kent as a \"neo-Nazi Jew hating Israel basher\" who had quit the administration.",
+      "anchored_artifacts": [
+        "A-1866.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-1207",
+        "N-1619"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:58",
+      "investigative_direction": "Confirm exact text against Dershowitz's verified X account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2505",
+      "ref": "C-2505",
+      "label": "Budowich Calls Kent a \"Crazed Egomaniac\"",
+      "claim": "Taylor Budowich publicly described Kent as a \"crazed egomaniac\" who was \"often at the center of national security leaks.\"",
+      "anchored_artifacts": [
+        "A-1867.1"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-1207",
+        "N-1619"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:55",
+      "investigative_direction": "Confirm exact text against Budowich's verified X account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2506",
+      "ref": "C-2506",
+      "label": "Theo Von Calls Israeli Political Leaders \"Satanic\"",
+      "claim": "Theo Von publicly characterized Israeli political leaders as feeling like \"a satanic regime\" and stated he does not understand the U.S. government's relationship with Israel's leaders.",
+      "anchored_artifacts": [
+        "A-1868.1"
+      ],
+      "related_nodes": [
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:55",
+      "investigative_direction": "Confirm against the original Theo Von podcast episode and timestamp."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2507",
+      "ref": "C-2507",
+      "label": "TPUSA Arkansas Chapter Announces Disaffiliation",
+      "claim": "The Turning Point USA University of Arkansas chapter announced it is disaffiliating from the national organization.",
+      "anchored_artifacts": [
+        "A-1869.1"
+      ],
+      "related_nodes": [
+        "N-1217",
+        "N-1618",
+        "N-1",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:39",
+      "investigative_direction": "Verify against an official TPUSA statement (or silence) on the disaffiliation and confirm the chapter's standing with national TPUSA."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2508",
+      "ref": "C-2508",
+      "label": "Chapter to Rebrand as Young American Revival",
+      "claim": "The disaffiliating chapter announced it will rebrand to \"Young American Revival,\" focused on advocating for Christian conservative values.",
+      "anchored_artifacts": [
+        "A-1869.1"
+      ],
+      "related_nodes": [
+        "N-1217",
+        "N-1618"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:39",
+      "investigative_direction": "Track the new organization's filings and any subsequent national TPUSA response."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2509",
+      "ref": "C-2509",
+      "label": "Fonte Grassi Authored Chapter Statement",
+      "claim": "The chapter president, Dino Fonte Grassi, published a statement on Instagram representing the executive board's unanimous decision to disaffiliate.",
+      "anchored_artifacts": [
+        "A-1870.1"
+      ],
+      "related_nodes": [
+        "N-1217",
+        "N-1618"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:20",
+      "investigative_direction": "Verify against Fonte Grassi's verified Instagram account; confirm \"unanimous\" via any other executive board members' public statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2510",
+      "ref": "C-2510",
+      "label": "Fonte Grassi Letter Characterizes \"Charlie Would Have\" Statements as Disingenuous",
+      "claim": "The Fonte Grassi letter states that since Charlie Kirk's assassination, \"Statements like 'Charlie would have said.' and 'Charlie would have wanted.' have felt in many instances disingenuous and manipulative.\"",
+      "anchored_artifacts": [
+        "A-1870.1"
+      ],
+      "related_nodes": [
+        "N-1217",
+        "N-1",
+        "N-1618"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:20",
+      "investigative_direction": "Cross-reference specific TPUSA statements attributed to Charlie's posthumous voice against Kirk's documented prior positions."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2511",
+      "ref": "C-2511",
+      "label": "Fonte Grassi Participated in Kirk's July 2025 Israel/Gaza Discussion",
+      "claim": "Dino Fonte Grassi participated in a July 2025 Charlie Kirk sit-down discussing Israel and Gaza with students.",
+      "anchored_artifacts": [
+        "A-1871.1"
+      ],
+      "related_nodes": [
+        "N-1217",
+        "N-1",
+        "N-1618"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:39",
+      "investigative_direction": "Verify the date, venue, and Fonte Grassi's participation against the original video; identify other participants."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2512",
+      "ref": "C-2512",
+      "label": "Bessent Pulled Mid-Interview to Situation Room",
+      "claim": "Treasury Secretary Scott Bessent was pulled mid-interview to attend the Situation Room, with the interviewer noting it was \"a first\" for an interviewee to be pulled.",
+      "anchored_artifacts": [
+        "A-1873.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1617"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:24",
+      "investigative_direction": "Confirm against full interview video; identify the original outlet and date of the interview."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2513",
+      "ref": "C-2513",
+      "label": "Bessent States President in \"Great Spirits\"",
+      "claim": "Upon return from the Situation Room, Bessent publicly stated the president was in \"great spirits\" and that the Iranian mission was \"proceeding well ahead of schedule.\"",
+      "anchored_artifacts": [
+        "A-1873.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1617"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:30",
+      "investigative_direction": "Confirm exact wording against interview transcript; cross-reference subsequent official Iran-mission updates."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2514",
+      "ref": "C-2514",
+      "label": "Three DC-Area Airports Shut Down March 13",
+      "claim": "On March 13, Reagan National (DCA), Baltimore-Washington (BWI), and Richmond (RIC) airports were simultaneously shut down.",
+      "anchored_artifacts": [
+        "A-1874.1"
+      ],
+      "related_nodes": [
+        "N-1617"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:48",
+      "investigative_direction": "Verify against FAA ground stop records and the four-airport claim against actual reported closures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2515",
+      "ref": "C-2515",
+      "label": "Official Closure Explanation: Overheated Circuit Board",
+      "claim": "The official explanation for the March 13 multi-airport shutdown was a \"circuit board that overheated.\"",
+      "anchored_artifacts": [
+        "A-1874.1"
+      ],
+      "related_nodes": [
+        "N-1617"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:48",
+      "investigative_direction": "Confirm against official FAA / airport authority statements; investigate whether \"circuit board\" specificity was ever provided."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2516",
+      "ref": "C-2516",
+      "label": "Netanyahu Posts Official Account Video March 14",
+      "claim": "Following a rumored Iranian missile strike, Benjamin Netanyahu's official account posted a video on March 14 that appeared to viewers to have smoothed facial features.",
+      "anchored_artifacts": [
+        "A-1875.1"
+      ],
+      "related_nodes": [
+        "N-1617"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:05",
+      "investigative_direction": "Confirm against the official account's posting record; subject the video to forensic/AI-generation analysis."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2517",
+      "ref": "C-2517",
+      "label": "Netanyahu Misses Security Council Meeting",
+      "claim": "Netanyahu reportedly missed a Security Council meeting, described as unusual; Israel Katz is said to have run the meeting in his place.",
+      "anchored_artifacts": [
+        "A-1875.1"
+      ],
+      "related_nodes": [
+        "N-1617"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:05",
+      "investigative_direction": "Verify against official Israeli government / Knesset scheduling records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2518",
+      "ref": "C-2518",
+      "label": "Yair Netanyahu Social Media Silence Pattern",
+      "claim": "Yair Netanyahu, who normally retweets or tweets about 30 times per day, went completely silent for 7 days.",
+      "anchored_artifacts": [
+        "A-1875.1"
+      ],
+      "related_nodes": [
+        "N-1219",
+        "N-1617"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:05",
+      "investigative_direction": "Pull Yair Netanyahu's full X/Twitter activity log for the relevant window to verify the claimed silence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2519",
+      "ref": "C-2519",
+      "label": "Netanyahu Posts Huckabee Video March 15",
+      "claim": "Benjamin Netanyahu posted a hyper-produced HD video with U.S. Ambassador Mike Huckabee on March 15, ostensibly to prove he is alive.",
+      "anchored_artifacts": [
+        "A-1876.1"
+      ],
+      "related_nodes": [
+        "N-1216",
+        "N-1617"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:23",
+      "investigative_direction": "Confirm posting timestamp against official channels; subject video to production analysis."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2520",
+      "ref": "C-2520",
+      "label": "Netanyahu No-Shows Military Council Meeting March 17",
+      "claim": "Netanyahu no-showed a critical military council meeting on March 17, reportedly unprecedented.",
+      "anchored_artifacts": [
+        "A-1876.1"
+      ],
+      "related_nodes": [
+        "N-1617"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:32",
+      "investigative_direction": "Confirm against Israeli government press releases and Knesset/Prime Minister's Office daily schedule."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2521",
+      "ref": "C-2521",
+      "label": "Erika Kirk Appears with Sarah Huckabee Sanders in Arkansas",
+      "claim": "Erica Kirk visited Arkansas shortly before the disaffiliation announcement and appeared with Governor Sarah Huckabee Sanders.",
+      "anchored_artifacts": [
+        "A-1869.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1215",
+        "N-1618"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:39",
+      "investigative_direction": "Verify event date and content against Governor Sanders's official schedule and TPUSA press materials."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2522",
+      "ref": "C-2522",
+      "label": "Sanders Signs Proclamation Endorsing TPUSA School Chapters",
+      "claim": "Governor Sarah Huckabee Sanders signed a proclamation endorsing TPUSA chapters in schools statewide.",
+      "anchored_artifacts": [
+        "A-1869.1"
+      ],
+      "related_nodes": [
+        "N-1215",
+        "N-2",
+        "N-1618"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:39",
+      "investigative_direction": "Obtain the actual proclamation text from the Arkansas Secretary of State's office."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2523",
+      "ref": "C-2523",
+      "label": "Charlie Kirk Characterizes \"Prophecy as Policy\" Theologically Problematic",
+      "claim": "Charlie Kirk, in a July 2025 student discussion, publicly stated that \"I find prophecy as policy generally to be theologically problematic.\"",
+      "anchored_artifacts": [
+        "A-1871.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1618"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:39",
+      "investigative_direction": "Verify exact quotation against the full original audio/video recording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2524",
+      "ref": "C-2524",
+      "label": "Charlie Kirk Publicly Questions Cruz's Use of Bible for Israel Aid",
+      "claim": "Charlie Kirk publicly questioned Senator Ted Cruz's use of the Bible to justify U.S. aid to Israel, asserting Cruz \"doesn't even know the verse.\"",
+      "anchored_artifacts": [
+        "A-1871.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1220",
+        "N-1618"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:39",
+      "investigative_direction": "Verify exact quotation against the full original recording and identify any contemporaneous response from Cruz."
+    }
+  ],
+  "memes": []
+}

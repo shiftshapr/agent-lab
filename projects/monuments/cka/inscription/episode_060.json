@@ -1,0 +1,579 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 60,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "4ff884e8b88d089e5a5ddcb0facbdda169075c76bb9db2e13f6bf6d6be1cad05",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Episode 60 is a long-form live studio collaboration with independent researcher Baron Coleman, structured as a wide-ranging cross-reference exercise rather than a single linear narrative. Coleman appears as a recurring on-air collaborator who has retired from prior employment to investigate the Charlie Kirk assassination full-time. The artifact surface in this episode is comparatively small relative to its rhetorical volume: only seven discrete evidentiary items are actually shown, read aloud, or played on screen.\n\nThe artifacts include a Dave Rubin X post regarding Candace's past comments about Charlie Kirk, an archived Miss Arizona USA–era tweet from Erika Kirk about the 2012 Aurora theater shooting, a 1980s interview clip of Katherine Pollard Griggs describing the U.S. military as a \"mind control operation,\" displayed flight records (Flightradar24-style) of the planes that carried Erika Kirk and Andrew Kolvet from Arizona to Utah after the assassination, a prior Baron Coleman confrontation clip with a commenter named \"Joe,\" a displayed list of free online logic courses, and a Jerusalem Post headline tying World Jewish Congress President Ronald Lauder to Trump's Greenland push.\n\nMost other substantive investigative claims — including the allegation that Bibi Netanyahu offered to \"take Turning Point to the next level,\" the \"what happens when you die\" question allegedly posed at an August Aspen donor retreat, Andrew Kolvet's account of tarmac crying, the alleged PragerU employee grooming story, and the priest's pre-assassination visit — are advanced verbally by the host or guest and are not anchored to a displayed artifact in this episode.\n\nEpisode 60 functions structurally as a connective tissue episode. It advances three persistent investigative threads: (1) the timing/sequence discrepancies around Erika Kirk and Andrew Kolvet in the 24–48 hours after September 10, (2) the host's broader theory that the U.S. security/military apparatus is institutionally corrupt at the command level, and (3) ongoing pressure on the official narrative of Charlie Kirk's assassination. The plane-records display is the single most concrete new evidentiary item in this episode.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1654",
+      "family_ref": "A-1654",
+      "bundle_name": "Dave Rubin X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1654.1",
+          "ref": "A-1654.1",
+          "description": "Dave Rubin X post claiming Candace Owens stated she \"hated Charlie Kirk\" and ranted about Jared and Ivanka during a dinner at Rubin's home.",
+          "related_claims": [
+            "C-2149",
+            "C-2150"
+          ],
+          "related_nodes": [
+            "N-763"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1655",
+      "family_ref": "A-1655",
+      "bundle_name": "Miss Arizona USA Twitter Archive Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1655.1",
+          "ref": "A-1655.1",
+          "description": "Erika Kirk tweet from her Miss Arizona USA era (account now run by Candace Canales), responding to a critic by stating \"One of my best friends was in the theater\" regarding the 2012 Aurora theater shooting.",
+          "related_claims": [
+            "C-2151"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-766"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1656",
+      "family_ref": "A-1656",
+      "bundle_name": "Katherine Griggs Interview Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1656.1",
+          "ref": "A-1656.1",
+          "description": "Video interview clip of Katherine Pollard Griggs, wife of Colonel George Griggs (NATO/special operations), stating that the U.S. military is a mind control operation that recruits sexual deviants for intelligence work and is run by \"satanic\" elements.",
+          "related_claims": [
+            "C-2152",
+            "C-2153"
+          ],
+          "related_nodes": [
+            "N-764",
+            "N-765"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1657",
+      "family_ref": "A-1657",
+      "bundle_name": "Flight Records Display Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1657.1",
+          "ref": "A-1657.1",
+          "description": "Flight tracking display (Flightradar24-style) showing two planes — Andrew Kolvet's plane and Erika Kirk's plane (N102DZ) — including departure times and arrival at Provo at 4:36 PM, with an approximately 1 hour 5 minute gap between the two flights.",
+          "related_claims": [
+            "C-2154"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1501"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:08:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1658",
+      "family_ref": "A-1658",
+      "bundle_name": "Baron Coleman Joe Confrontation Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1658.1",
+          "ref": "A-1658.1",
+          "description": "Prior Baron Coleman YouTube clip in which Coleman confronted commenter \"Joe\" regarding logic fallacies in defense of Mitch Snow/Fort Huachuca discussion.",
+          "related_claims": [
+            "C-2157"
+          ],
+          "related_nodes": [
+            "N-762"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:16:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1659",
+      "family_ref": "A-1659",
+      "bundle_name": "Logic Class Resource Display Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1659.1",
+          "ref": "A-1659.1",
+          "description": "On-screen display of free logic course resources (Stanford online course, Irving M. Copi \"Introduction to Logic\" textbook listing, Master Books homeschool curriculum).",
+          "related_claims": [
+            "C-2157"
+          ],
+          "related_nodes": [
+            "N-762"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:18:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1660",
+      "family_ref": "A-1660",
+      "bundle_name": "Jerusalem Post Greenland Headline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1660.1",
+          "ref": "A-1660.1",
+          "description": "Jerusalem Post headline stating that World Jewish Congress President Ronald Lauder is involved in Trump's push for Greenland.",
+          "related_claims": [
+            "C-2155",
+            "C-2156"
+          ],
+          "related_nodes": [
+            "N-767"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:58",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-762",
+      "ref": "N-762",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Independent investigator and YouTuber now working full-time on the Charlie Kirk assassination case. Co-host for this episode and recurring collaborator.",
+      "related_artifacts": [
+        "A-1658.1",
+        "A-1659.1"
+      ],
+      "related_claims": [
+        "C-2157"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-763",
+      "ref": "N-763",
+      "name": "Dave Rubin",
+      "type": "person",
+      "description": "Commentator and former associate of Candace Owens. Subject of an X post dispute in this episode and host of an alleged prior incident involving a former PragerU employee.",
+      "related_artifacts": [
+        "A-1654.1"
+      ],
+      "related_claims": [
+        "C-2149",
+        "C-2150"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-764",
+      "ref": "N-764",
+      "name": "Katherine Pollard Griggs",
+      "type": "person",
+      "description": "Wife of Colonel George Griggs. Subject of interview clip played in this episode describing U.S. military as a mind control operation.",
+      "related_artifacts": [
+        "A-1656.1"
+      ],
+      "related_claims": [
+        "C-2152",
+        "C-2153"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-765"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-765",
+      "ref": "N-765",
+      "name": "Colonel George Griggs",
+      "type": "person",
+      "description": "U.S. Marine Corps officer; head of special operations under Admiral Kelso/NATO; intelligence career spanning Vietnam and continuing under General Wilhelm; husband of Katherine Pollard Griggs. Described in the clip as the source for Katherine Griggs's military claims.",
+      "related_artifacts": [
+        "A-1656.1"
+      ],
+      "related_claims": [
+        "C-2152"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-764"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-766",
+      "ref": "N-766",
+      "name": "Jessica Ghawi",
+      "type": "person",
+      "description": "Victim of the 2012 Aurora theater shooting; previously survived the Toronto Eaton Centre food court shooting weeks earlier; previously lived in New Braunfels, Texas.",
+      "related_artifacts": [
+        "A-1655.1"
+      ],
+      "related_claims": [
+        "C-2151"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-767",
+      "ref": "N-767",
+      "name": "Ronald Lauder",
+      "type": "person",
+      "description": "President of the World Jewish Congress; named in Jerusalem Post headline as allegedly involved in Trump's push for Greenland.",
+      "related_artifacts": [
+        "A-1660.1"
+      ],
+      "related_claims": [
+        "C-2155",
+        "C-2156"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-768",
+      "ref": "N-768",
+      "name": "Justin Strieff",
+      "type": "person",
+      "description": "Associate of Erika Kirk referenced in connection with verification of Andrew Kolvet's flight arrangements and tarmac arrival sequence.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2154"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1501"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1501",
+      "ref": "N-1501",
+      "name": "Plane Records Timing Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy between Andrew Kolvet's account (flying alone with pent-up anxiety) and the flight record evidence (planes landed approximately one hour apart, with question of whether Kolvet's wife was aboard and whether Erika waited on the tarmac).",
+      "related_artifacts": [
+        "A-1657.1"
+      ],
+      "related_claims": [
+        "C-2154"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-768"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1502",
+      "ref": "N-1502",
+      "name": "Aspen Donor Retreat \"What Happens When You Die\" Question",
+      "type": "investigation_target",
+      "description": "Unverified allegation that a donor asked Charlie Kirk what would happen if he died at an Aspen donor retreat (August 15–17, 2025), and that this is now being cited as evidence of his succession wishes. Two attendees contacted reportedly do not recall the exchange.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2149",
+      "ref": "C-2149",
+      "label": "Dave Rubin X Post Asserts Candace Expressed Hatred of Charlie Kirk",
+      "claim": "Dave Rubin posted on X that Candace Owens, during a dinner at his home, said she hated Charlie Kirk and ranted about Jared and Ivanka.",
+      "anchored_artifacts": [
+        "A-1654.1"
+      ],
+      "related_nodes": [
+        "N-763",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:43",
+      "investigative_direction": "Obtain archived copy of the Dave Rubin X post and corroborate the original wording and posting timestamp."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2150",
+      "ref": "C-2150",
+      "label": "Candace Owens Rejects Rubin Characterization of Dinner Comments",
+      "claim": "Candace Owens states that her husband has no memory of any discussion of Charlie Kirk at the dinner and that her remark about Jared and Ivanka was a light joke about their perceived perfection, not a \"rant.\"",
+      "anchored_artifacts": [
+        "A-1654.1"
+      ],
+      "related_nodes": [
+        "N-763"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:06",
+      "investigative_direction": "Compare Rubin's account with contemporaneous messages, third-party witnesses, or recordings if any exist; document any additional corroborating witnesses."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2151",
+      "ref": "C-2151",
+      "label": "Erika Kirk Miss Arizona USA Tweet References Aurora Theater Friend",
+      "claim": "During her Miss Arizona USA reign, Erika Kirk tweeted that one of her best friends was in the theater during the 2012 Aurora shooting.",
+      "anchored_artifacts": [
+        "A-1655.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-766"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:46",
+      "investigative_direction": "Identify the named friend; cross-reference with the published Aurora victim list; verify any prior connection between Erika Kirk and the Aurora theater victim cohort or New Braunfels, Texas."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2152",
+      "ref": "C-2152",
+      "label": "Katherine Griggs States U.S. Military Is a Mind Control Operation",
+      "claim": "Katherine Pollard Griggs stated in a recorded interview that the U.S. military is literally a mind control operation run by sexual deviants who recruit individuals (citing Jeffrey Dahmer, Kaczynski, McVeigh, Oswald) into intelligence work because they are \"easy to control.\"",
+      "anchored_artifacts": [
+        "A-1656.1"
+      ],
+      "related_nodes": [
+        "N-764",
+        "N-765"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:31",
+      "investigative_direction": "Locate the full unedited interview; verify the date and original broadcast; trace Colonel George Griggs's service record against cited commands (Admiral Kelso, General Wilhelm, NATO Defense College Rome, Princeton Class of 1959)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2153",
+      "ref": "C-2153",
+      "label": "Host Concurs With Griggs Assessment of Top-Level Military Corruption",
+      "claim": "Host concurs with Griggs's assessment that the U.S. military is corrupted at the command level and has been institutionally compromised since at least the JFK assassination.",
+      "anchored_artifacts": [
+        "A-1656.1"
+      ],
+      "related_nodes": [
+        "N-764",
+        "N-765"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:03",
+      "investigative_direction": "This is a host stance claim, not independently verifiable; document only as recorded concurrence against A-1656.1."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2154",
+      "ref": "C-2154",
+      "label": "Flight Records Show ~1 Hour 5 Minute Gap Between Kolvet and Erika Planes",
+      "claim": "Flight records show Erika Kirk's plane (N102DZ) departed approximately 1 hour 5 minutes after Andrew Kolvet's plane and arrived in Provo at 4:36 PM, with passengers including Tyler Bowyer, Elizabeth McCoy, a priest, and Erika Kirk.",
+      "anchored_artifacts": [
+        "A-1657.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1501"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:08:11",
+      "investigative_direction": "Obtain independent FAA or Flightradar24 archived records for both flights on 2025-09-10; verify exact departure/arrival times, passenger manifests if obtainable, and post-landing taxi routes."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2155",
+      "ref": "C-2155",
+      "label": "Jerusalem Post Reports Lauder Involved in Trump Greenland Push",
+      "claim": "The Jerusalem Post reports that World Jewish Congress President Ronald Lauder is involved in President Trump's push for Greenland.",
+      "anchored_artifacts": [
+        "A-1660.1"
+      ],
+      "related_nodes": [
+        "N-767"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:58",
+      "investigative_direction": "Retrieve the full Jerusalem Post article; identify the specific role attributed to Lauder; check for corroborating or contradictory reporting from other outlets."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2156",
+      "ref": "C-2156",
+      "label": "Host Concurs Greenland Push Is Donor-Driven, Not America-First",
+      "claim": "Host and guest concur that Trump's Greenland push is not consistent with America-first policy and is being driven by a donor or supporter's financial interest rather than national interest.",
+      "anchored_artifacts": [
+        "A-1660.1"
+      ],
+      "related_nodes": [
+        "N-767"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:54",
+      "investigative_direction": "Document host stance claim against A-1660.1; investigate reported financial interests of Lauder or associated parties in Greenland."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2157",
+      "ref": "C-2157",
+      "label": "Baron Coleman Publicly Confronted Commenter \"Joe\" on Prior Episode",
+      "claim": "A prior Baron Coleman YouTube video shows Coleman confronting commenter \"Joe\" over logic fallacies related to Mitch Snow and Fort Huachuca coverage.",
+      "anchored_artifacts": [
+        "A-1658.1",
+        "A-1659.1"
+      ],
+      "related_nodes": [
+        "N-762"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:16:11",
+      "investigative_direction": "Locate the full Coleman confrontation clip and the referenced \"Operation Debunk Mitch\" series; document context as part of Coleman's investigative output."
+    }
+  ],
+  "memes": []
+}

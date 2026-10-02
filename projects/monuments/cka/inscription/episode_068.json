@@ -1,0 +1,1141 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 68,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "95f8b851983eeb6236c86655647510896988e621e75778a3c5ea5286c4493c32",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1727",
+      "family_ref": "A-1727",
+      "bundle_name": "Erika Kirk Instagram Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1727.1",
+          "ref": "A-1727.1",
+          "description": "Erika Kirk Instagram post, Mother's Day, April 2022",
+          "related_claims": [
+            "C-2283"
+          ],
+          "related_nodes": [
+            "N-878",
+            "N-1548"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:23:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1727.2",
+          "ref": "A-1727.2",
+          "description": "Erika Kirk Instagram post, 2025-09-07, showing her mother in vulnerable position with \"10 days until September 16th\" countdown",
+          "related_claims": [
+            "C-2284"
+          ],
+          "related_nodes": [
+            "N-878",
+            "N-1550"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1728",
+      "family_ref": "A-1728",
+      "bundle_name": "New York Times Article Bundle (Erika on Sept 10)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1728.1",
+          "ref": "A-1728.1",
+          "description": "New York Times article stating Erika Kirk was at the hospital with her mother when Mikey McCoy called on Sept 10, 2025",
+          "related_claims": [
+            "C-2285"
+          ],
+          "related_nodes": [
+            "N-878",
+            "N-879",
+            "N-1549"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1729",
+      "family_ref": "A-1729",
+      "bundle_name": "Viewer Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1729.1",
+          "ref": "A-1729.1",
+          "description": "Viewer email (read in full on air) describing Robkea's research on Gilgamesh/Nimrod tomb discovery, museum raid at first U.S. base in Iraq, and missing tablets concerning Nephilim/resurrection",
+          "related_claims": [
+            "C-2286"
+          ],
+          "related_nodes": [
+            "N-885",
+            "N-1551",
+            "N-1555"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:54",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1730",
+      "family_ref": "A-1730",
+      "bundle_name": "Babylon Archaeological Coverage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1730.1",
+          "ref": "A-1730.1",
+          "description": "United Nations article (published 2009) describing Babylon as capital of Hammurabi (Amarabi) and Nebuchadnezzar, and addressing post-invasion status",
+          "related_claims": [
+            "C-2287"
+          ],
+          "related_nodes": [
+            "N-1552",
+            "N-1555"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1730.2",
+          "ref": "A-1730.2",
+          "description": "NBC News article reporting a senior U.S. military officer's apology for damage to Babylon by U.S. Marines (helicopter pad on ruins; sandbags filled with archaeological fragments; helicopter vibration collapsing a roof)",
+          "related_claims": [
+            "C-2288"
+          ],
+          "related_nodes": [
+            "N-1552"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1730.3",
+          "ref": "A-1730.3",
+          "description": "2005 British Museum report on the use of Babylon as a military camp by multinational/coalition forces, April 2003 – December 2004, characterized as \"tantamount to establishing a military camp around the Great Pyramid in Egypt or the Stonehenge in Britain\"",
+          "related_claims": [
+            "C-2289"
+          ],
+          "related_nodes": [
+            "N-1552"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1731",
+      "family_ref": "A-1731",
+      "bundle_name": "Gilgamesh Tomb Discovery Coverage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1731.1",
+          "ref": "A-1731.1",
+          "description": "BBC report that Gorg Fastbinder had made the discovery of Gilgamesh's tomb (reported a couple of weeks after the 2003 invasion)",
+          "related_claims": [
+            "C-2290"
+          ],
+          "related_nodes": [
+            "N-876",
+            "N-1555"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1731.2",
+          "ref": "A-1731.2",
+          "description": "Headline(s) describing German geophysicists Gorg Fastbinder and Helmet Becker of the Bavarian State Conservation Office using magnetic mapping to discover ancient Iraq and Gilgamesh's tomb, May 2002 – early 2003",
+          "related_claims": [
+            "C-2291"
+          ],
+          "related_nodes": [
+            "N-876",
+            "N-877"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1732",
+      "family_ref": "A-1732",
+      "bundle_name": "Colin Powell UN Address",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1732.1",
+          "ref": "A-1732.1",
+          "description": "Colin Powell's Feb 5, 2003 address to the United Nations Security Council asserting Iraq possessed weapons of mass destruction",
+          "related_claims": [
+            "C-2292"
+          ],
+          "related_nodes": [
+            "N-882"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:03",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1733",
+      "family_ref": "A-1733",
+      "bundle_name": "Ben Shapiro All Access Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1733.1",
+          "ref": "A-1733.1",
+          "description": "Daily Wire \"All Access\" clip of Ben Shapiro mocking Candace Owens's reported dream about playing \"Hogwarts chess\" with him, joking about whether the dream was \"wired\" or \"weird\"",
+          "related_claims": [
+            "C-2293"
+          ],
+          "related_nodes": [
+            "N-881"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1734",
+      "family_ref": "A-1734",
+      "bundle_name": "Mikey McCoy Phone Call Sequence",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1734.1",
+          "ref": "A-1734.1",
+          "description": "Account presented in episode that Mikey McCoy first called his wife, then called Erika approximately three-plus minutes later, while adding her to a line already in progress with his wife",
+          "related_claims": [
+            "C-2294"
+          ],
+          "related_nodes": [
+            "N-879",
+            "N-1553"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1735",
+      "family_ref": "A-1735",
+      "bundle_name": "Justin Strife Text Message Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1735.1",
+          "ref": "A-1735.1",
+          "description": "Text messages sent by Justin Strife to the host stating that Erika's mother was \"very, very sick\" and that Erika was spending her days in the hospital with her mother",
+          "related_claims": [
+            "C-2295"
+          ],
+          "related_nodes": [
+            "N-878",
+            "N-880",
+            "N-1554"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1736",
+      "family_ref": "A-1736",
+      "bundle_name": "William Stevenson Indictment News",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1736.1",
+          "ref": "A-1736.1",
+          "description": "Viewer comment + host-confirmed news lookup: William Stevenson, 77, of Wilmington, married to Jill Biden 1970–1975, indicted for first-degree murder of his ex-wife (the ex-wife was found unresponsive in the living room; life-saving measures unsuccessful)",
+          "related_claims": [
+            "C-2296"
+          ],
+          "related_nodes": [
+            "N-883",
+            "N-888",
+            "N-889"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1737",
+      "family_ref": "A-1737",
+      "bundle_name": "Kevin Sorbo Tweet",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1737.1",
+          "ref": "A-1737.1",
+          "description": "Kevin Sorbo tweet stating he left Hollywood because the people involved were pedophiles",
+          "related_claims": [
+            "C-2297"
+          ],
+          "related_nodes": [
+            "N-884"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-876",
+      "ref": "N-876",
+      "name": "Gorg Fastbinder",
+      "type": "person",
+      "description": "German geophysicist (Bavarian State Conservation Office, Munich) credited in the episode with discovering Gilgamesh's tomb via magnetic mapping between May 2002 and early 2003; subject of BBC follow-up coverage.",
+      "related_artifacts": [
+        "A-1731.1",
+        "A-1731.2"
+      ],
+      "related_claims": [
+        "C-2290",
+        "C-2291"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-877",
+      "ref": "N-877",
+      "name": "Helmet Becker (transcript spelling; see Optional Flags)",
+      "type": "person",
+      "description": "German geophysicist working alongside Gorg Fastbinder on the magnetic-mapping survey that located the Gilgamesh tomb site.",
+      "related_artifacts": [
+        "A-1731.2"
+      ],
+      "related_claims": [
+        "C-2291"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-878",
+      "ref": "N-878",
+      "name": "Lori France Feay (transcript spelling)",
+      "type": "person",
+      "description": "Erika Kirk's mother; central figure in the Sept 8 / Sept 10 alibi narrative; subject of the Sept 7, 2025 Instagram post; reportedly receiving treatment at a \"holistic clinic\" rather than a hospital; described as having Lyme disease.",
+      "related_artifacts": [
+        "A-1727.1",
+        "A-1727.2",
+        "A-1728.1",
+        "A-1735.1"
+      ],
+      "related_claims": [
+        "C-2283",
+        "C-2284",
+        "C-2285",
+        "C-2295"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1548",
+        "N-1549",
+        "N-1550",
+        "N-1554"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-879",
+      "ref": "N-879",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "TPUSA-affiliated figure (per host's training reference); the person who placed the call to Erika Kirk on Sept 10, 2025, and who host asserts first called his wife before calling Erika.",
+      "related_artifacts": [
+        "A-1728.1",
+        "A-1734.1"
+      ],
+      "related_claims": [
+        "C-2285",
+        "C-2294"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1553"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-880",
+      "ref": "N-880",
+      "name": "Justin Strife (transcript spelling)",
+      "type": "person",
+      "description": "TPUSA-affiliated intermediary; sent text messages to the host stating Erika's mother was very sick; per host, also revised the location of Erika's sighting from \"basketball game\" to \"football game.\"",
+      "related_artifacts": [
+        "A-1735.1"
+      ],
+      "related_claims": [
+        "C-2295"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1554"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-881",
+      "ref": "N-881",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Daily Wire figure whose \"All Access\" clip mocking the host's Hogwarts-chess dream is played in the episode.",
+      "related_artifacts": [
+        "A-1733.1"
+      ],
+      "related_claims": [
+        "C-2293"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-882",
+      "ref": "N-882",
+      "name": "Colin Powell",
+      "type": "person",
+      "description": "Former U.S. Secretary of State; subject of Feb 5, 2003 UN Security Council address cited in the episode.",
+      "related_artifacts": [
+        "A-1732.1"
+      ],
+      "related_claims": [
+        "C-2292"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-883",
+      "ref": "N-883",
+      "name": "William Stevenson",
+      "type": "person",
+      "description": "77-year-old Wilmington resident, ex-husband of Jill Biden (1970–1975); indicted for first-degree murder of his ex-wife per news referenced in episode.",
+      "related_artifacts": [
+        "A-1736.1"
+      ],
+      "related_claims": [
+        "C-2296"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-888",
+        "N-889"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-884",
+      "ref": "N-884",
+      "name": "Kevin Sorbo",
+      "type": "person",
+      "description": "Actor referenced via tweet about leaving Hollywood because participants were pedophiles.",
+      "related_artifacts": [
+        "A-1737.1"
+      ],
+      "related_claims": [
+        "C-2297"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-885",
+      "ref": "N-885",
+      "name": "Robkea (transcript spelling)",
+      "type": "person",
+      "description": "Researcher cited in viewer email; per email, his work documents Gilgamesh/Nimrod tomb discovery, museum raid, and missing Nephilim/resurrection tablets.",
+      "related_artifacts": [
+        "A-1729.1"
+      ],
+      "related_claims": [
+        "C-2286"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1551",
+        "N-1555"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-886",
+      "ref": "N-886",
+      "name": "Bella Hadid",
+      "type": "person",
+      "description": "Public figure referenced re: Lyme disease treatment options overseas.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-878",
+        "N-1554"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-887",
+      "ref": "N-887",
+      "name": "Frank Turk (transcript spelling)",
+      "type": "person",
+      "description": "Source of witness statement (cited by host) that Charlie Kirk was \"dealing with the kids\" on Sept 8, 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1548",
+        "N-1553"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-888",
+      "ref": "N-888",
+      "name": "Amber Thurman (Victim in Stevenson case)",
+      "type": "person",
+      "description": "Per host's read of article, the ex-wife of William Stevenson whose body was found unresponsive in the living room (Stevenson indicted for first-degree murder).",
+      "related_artifacts": [
+        "A-1736.1"
+      ],
+      "related_claims": [
+        "C-2296"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-883"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-889",
+      "ref": "N-889",
+      "name": "Jill Biden",
+      "type": "person",
+      "description": "Subject of William Stevenson connection (Stevenson was her ex-husband, 1970–1975); declined to comment per host's read.",
+      "related_artifacts": [
+        "A-1736.1"
+      ],
+      "related_claims": [
+        "C-2296"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-883"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1548",
+      "ref": "N-1548",
+      "name": "Erika Kirk Sept 8, 2025 Alibi Verification",
+      "type": "investigation_target",
+      "description": "Persistent target: the host asserts she cannot obtain or confirm a coherent Sept 8, 2025 alibi for Erika Kirk, that Frank Turk states Charlie was \"dealing with the kids,\" and that witnesses at the residence did not see Erika on Sept 8 but did see her on Sept 9.",
+      "related_artifacts": [
+        "A-1735.1"
+      ],
+      "related_claims": [
+        "C-2295"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-878",
+        "N-887"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1549",
+      "ref": "N-1549",
+      "name": "Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy",
+      "type": "investigation_target",
+      "description": "The NYT reports Erika was at the hospital; the host asserts she has confirmed for a fact that the mother was receiving treatment at a \"holistic clinic,\" not a hospital.",
+      "related_artifacts": [
+        "A-1728.1",
+        "A-1735.1"
+      ],
+      "related_claims": [
+        "C-2285",
+        "C-2295"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-878",
+        "N-879",
+        "N-880"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1550",
+      "ref": "N-1550",
+      "name": "Sept 7, 2025 Erika Instagram Post — Manipulation Question",
+      "type": "investigation_target",
+      "description": "The host asserts the post is exceptional in style (posting mother in vulnerable position, breaking a multi-year privacy pattern) and possibly deployed to preempt alibi scrutiny.",
+      "related_artifacts": [
+        "A-1727.2"
+      ],
+      "related_claims": [
+        "C-2284"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-878"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1551",
+      "ref": "N-1551",
+      "name": "Nimrod / Gilgamesh Remains Extraction Question",
+      "type": "investigation_target",
+      "description": "The host asserts that locals reported nighttime American digging and extraction operations at the tomb site; viewer email states tablets related to Nephilim/resurrection went missing from the museum after the raid.",
+      "related_artifacts": [
+        "A-1729.1"
+      ],
+      "related_claims": [
+        "C-2286"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-885"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1552",
+      "ref": "N-1552",
+      "name": "Babylon Military Camp Activities",
+      "type": "investigation_target",
+      "description": "Camp Alpha / coalition use of Babylon (April 2003 – December 2004); helicopter pad, sandbags filled with archaeological fragments, helicopter-induced roof collapse, museum looting; British Museum comparison to Great Pyramid / Stonehenge.",
+      "related_artifacts": [
+        "A-1730.1",
+        "A-1730.2",
+        "A-1730.3"
+      ],
+      "related_claims": [
+        "C-2287",
+        "C-2288",
+        "C-2289"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1553",
+      "ref": "N-1553",
+      "name": "Mikey McCoy Phone Call Sequence",
+      "type": "investigation_target",
+      "description": "NYT said the call came \"within seconds\"; host asserts Mikey called his wife first, then Erika three-plus minutes later, while adding her to a line already in progress.",
+      "related_artifacts": [
+        "A-1728.1",
+        "A-1734.1"
+      ],
+      "related_claims": [
+        "C-2294"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-879"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1554",
+      "ref": "N-1554",
+      "name": "Erika's Mother Medical Narrative",
+      "type": "investigation_target",
+      "description": "Lyme disease (verified by prior Charlie conversation); Bella Hadid comparison; treatments described as 1–2 hour sessions at a center; reportedly two different clinics (one on Sept 8, one on Sept 10).",
+      "related_artifacts": [
+        "A-1735.1"
+      ],
+      "related_claims": [
+        "C-2295"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-878",
+        "N-880",
+        "N-886"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1555",
+      "ref": "N-1555",
+      "name": "Babylon Library / Tablet Loss Discrepancy",
+      "type": "investigation_target",
+      "description": "UN article acknowledges contents from Hammurabi and Nebuchadnezzar museums and the Babylon library/archive were stolen and destroyed; viewer email asserts tablets concerning reincarnation and the Nephilim were specifically excluded from what the military retrieved.",
+      "related_artifacts": [
+        "A-1729.1",
+        "A-1730.1"
+      ],
+      "related_claims": [
+        "C-2286",
+        "C-2287"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-885"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2283",
+      "ref": "C-2283",
+      "label": "Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day",
+      "claim": "Erika Kirk had not posted anything about her mother on Instagram since April 2022 (Mother's Day) until the Sept 7, 2025 post.",
+      "anchored_artifacts": [
+        "A-1727.1"
+      ],
+      "related_nodes": [
+        "N-878",
+        "N-1550"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:15",
+      "investigative_direction": "Verify against archived Instagram data for Erika Kirk."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2284",
+      "ref": "C-2284",
+      "label": "Sept 7, 2025 Erika Kirk Post Showed Mother in Vulnerable Position with Countdown",
+      "claim": "On Sept 7, 2025, Erika Kirk posted on Instagram showing her mother in what appears to be a sick / vulnerable state, with a countdown reading \"10 days until September 16th.\"",
+      "anchored_artifacts": [
+        "A-1727.2"
+      ],
+      "related_nodes": [
+        "N-878",
+        "N-1550"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:00",
+      "investigative_direction": "Obtain the original post screenshot/metadata and identify the countdown's intended referent."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2285",
+      "ref": "C-2285",
+      "label": "NYT Reported Erika Was at the Hospital When Mikey McCoy Called",
+      "claim": "The New York Times reported that on Sept 10, 2025, Erika Kirk was at the hospital with her mother when Mikey McCoy called her, described as having happened \"within seconds\" of the shooting.",
+      "anchored_artifacts": [
+        "A-1728.1"
+      ],
+      "related_nodes": [
+        "N-878",
+        "N-879",
+        "N-1549",
+        "N-1553"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:00",
+      "investigative_direction": "Locate and quote the exact NYT passage to confirm wording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2286",
+      "ref": "C-2286",
+      "label": "Viewer Email Asserted Robkea Documents Gilgamesh Tomb, Tablet Disappearance",
+      "claim": "A viewer email read on air asserted that Robkea's research documented: (1) the discovery of Gilgamesh/Nimrod's tomb; (2) the first U.S. base in Iraq was set up at the museum holding the relics; (3) the museum was \"raided\"; (4) everything was retrieved by the military except tablets concerning reincarnation and bringing back the Nephilim.",
+      "anchored_artifacts": [
+        "A-1729.1"
+      ],
+      "related_nodes": [
+        "N-885",
+        "N-1551",
+        "N-1555"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:54",
+      "investigative_direction": "Locate Robkea's published work (\"Babylon Rising\" et al.) and verify each factual component independently."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2287",
+      "ref": "C-2287",
+      "label": "2009 UN Article Described Babylon as Ancient Capital and Post-Invasion Site",
+      "claim": "A 2009 United Nations article described Babylon as the capital city for Hammurabi (Amarabi) and Nebuchadnezzar, and acknowledged that contents from the Hammurabi and Nebuchadnezzar museums and the Babylon library/archive were stolen and destroyed during the 2003 war.",
+      "anchored_artifacts": [
+        "A-1730.1"
+      ],
+      "related_nodes": [
+        "N-1552",
+        "N-1555"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:51",
+      "investigative_direction": "Locate the UN article by publication/year and verify quoted language."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2288",
+      "ref": "C-2288",
+      "label": "NBC News Reported U.S. Marines Damaged Babylon Ruins",
+      "claim": "NBC News reported that a senior U.S. military officer apologized for damage his troops caused to Babylon, and that U.S. Marines built a helicopter pad on the ruins and filled sandbags with archaeological fragments, with helicopter vibrations causing the roof of one building to collapse.",
+      "anchored_artifacts": [
+        "A-1730.2"
+      ],
+      "related_nodes": [
+        "N-1552"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:55",
+      "investigative_direction": "Locate the specific NBC News article and confirm."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2289",
+      "ref": "C-2289",
+      "label": "2005 British Museum Report Compared Babylon Camp to Great Pyramid / Stonehenge",
+      "claim": "A 2005 British Museum report characterized coalition use of Babylon (April 2003 – December 2004) as \"tantamount to establishing a military camp around the Great Pyramid in Egypt or the Stonehenge in Britain.\"",
+      "anchored_artifacts": [
+        "A-1730.3"
+      ],
+      "related_nodes": [
+        "N-1552"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:51",
+      "investigative_direction": "Locate the British Museum report and confirm quoted language and date range."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2290",
+      "ref": "C-2290",
+      "label": "BBC Reported Fastbinder Discovered Gilgamesh's Tomb",
+      "claim": "The BBC reported that Gorg Fastinder had made the discovery of Gilgamesh's tomb, with the report surfacing a couple of weeks after the March 20, 2003 invasion of Iraq.",
+      "anchored_artifacts": [
+        "A-1731.1"
+      ],
+      "related_nodes": [
+        "N-876",
+        "N-1555"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:00",
+      "investigative_direction": "Locate the specific BBC report and confirm date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2291",
+      "ref": "C-2291",
+      "label": "German Geophysicists Located Gilgamesh Tomb Between May 2002 and Early 2003",
+      "claim": "German geophysicists Gorg Fastbinder and Helmet Becker of the Bavarian State Conservation Office used magnetic mapping to discover ancient Iraq and became convinced they had located Gilgamesh's tomb between May 2002 and very early 2003.",
+      "anchored_artifacts": [
+        "A-1731.2"
+      ],
+      "related_nodes": [
+        "N-876",
+        "N-877"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:30",
+      "investigative_direction": "Locate primary publications or institutional releases confirming the timeline."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2292",
+      "ref": "C-2292",
+      "label": "Colin Powell Stated Iraq Possessed WMDs at UN on Feb 5, 2003",
+      "claim": "Colin Powell publicly stated at the United Nations Security Council on Feb 5, 2003 that Iraq possessed weapons of mass destruction.",
+      "anchored_artifacts": [
+        "A-1732.1"
+      ],
+      "related_nodes": [
+        "N-882"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:03",
+      "investigative_direction": "Reference the UN Security Council record / transcript."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2293",
+      "ref": "C-2293",
+      "label": "Ben Shapiro Mocked Host's Hogwarts-Chess Dream on All Access",
+      "claim": "Ben Shapiro, on a Daily Wire \"All Access\" segment, mocked the host's reported dream of playing \"Hogwarts chess\" with him, joking about whether it was \"wired\" or \"weird.\"",
+      "anchored_artifacts": [
+        "A-1733.1"
+      ],
+      "related_nodes": [
+        "N-881"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:16",
+      "investigative_direction": "Locate the specific All Access clip for verification of exact wording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2294",
+      "ref": "C-2294",
+      "label": "Mikey McCoy Called His Wife First, Then Erika ~3+ Minutes Later",
+      "claim": "According to the host, Mikey McCoy called his wife first, then placed a call to Erika Kirk approximately three-plus minutes later, adding Erika to a line already in progress with his wife.",
+      "anchored_artifacts": [
+        "A-1734.1"
+      ],
+      "related_nodes": [
+        "N-879",
+        "N-1553"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:21",
+      "investigative_direction": "Obtain call log records or corroborating witness / phone carrier metadata."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2295",
+      "ref": "C-2295",
+      "label": "Justin Strife Text Messages Asserted Erika's Mother Was Very Sick",
+      "claim": "Justin Strife sent text messages to the host asserting that Erika's mother was very, very sick and that Erika was spending her days in the hospital with her mother; the host asserts she has confirmed the mother was receiving treatment at a holistic clinic rather than a hospital.",
+      "anchored_artifacts": [
+        "A-1735.1"
+      ],
+      "related_nodes": [
+        "N-878",
+        "N-880",
+        "N-1549",
+        "N-1554"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:30",
+      "investigative_direction": "Obtain copies of the underlying text messages and verify the clinic vs. hospital distinction independently."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2296",
+      "ref": "C-2296",
+      "label": "William Stevenson Indicted for First-Degree Murder of His Ex-Wife",
+      "claim": "William Stevenson, 77, of Wilmington, Delaware — ex-husband of Jill Biden (married 1970–1975) — was indicted for first-degree murder of his ex-wife, whose body was reportedly found unresponsive in the living room with life-saving measures unsuccessful.",
+      "anchored_artifacts": [
+        "A-1736.1"
+      ],
+      "related_nodes": [
+        "N-883",
+        "N-888",
+        "N-889"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:39",
+      "investigative_direction": "Verify via Delaware court records and contemporaneous news coverage."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2297",
+      "ref": "C-2297",
+      "label": "Kevin Sorbo Tweeted He Left Hollywood Because of Pedophilia",
+      "claim": "Kevin Sorbo tweeted that he left Hollywood because the people involved were pedophiles.",
+      "anchored_artifacts": [
+        "A-1737.1"
+      ],
+      "related_nodes": [
+        "N-884"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:50",
+      "investigative_direction": "Locate the tweet and verify exact wording and date."
+    }
+  ],
+  "memes": []
+}

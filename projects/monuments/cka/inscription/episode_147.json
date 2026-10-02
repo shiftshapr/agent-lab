@@ -1,0 +1,1627 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 147,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "db9aacd73c214666d6ea30eb8af985ba56f6e0ed6eeeeaaef2eeae0d410df01e",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2327",
+      "family_ref": "A-2327",
+      "bundle_name": "Court Audio – Motion to Dismiss Ruling (Judge Graff)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2327.1",
+          "ref": "A-2327.1",
+          "description": "Judge Graff Count 6 Ruling Audio (excerpt)",
+          "related_claims": [
+            "C-3358",
+            "C-3359",
+            "C-3360"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1209",
+            "N-2225"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:15–00:08:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2329",
+      "family_ref": "A-2329",
+      "bundle_name": "9/10 Exclusive Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2329.1",
+          "ref": "A-2329.1",
+          "description": "Vehicle-Approach Footage (Justin Davis sprint)",
+          "related_claims": [
+            "C-3364",
+            "C-3371"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-1212",
+            "N-2221"
+          ],
+          "tags": []
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2329.2",
+          "ref": "A-2329.2",
+          "description": "\"Dip and Meet\" Sequence (Danny / Mikey / Justin)",
+          "related_claims": [
+            "C-3365",
+            "C-3366"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-69",
+            "N-1211",
+            "N-2219"
+          ],
+          "tags": []
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2329.3",
+          "ref": "A-2329.3",
+          "description": "Backpack Ejection from Trunk",
+          "related_claims": [
+            "C-3367"
+          ],
+          "related_nodes": [
+            "N-1213"
+          ],
+          "tags": []
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2329.4",
+          "ref": "A-2329.4",
+          "description": "Pre-Shot Upstairs Clip (Chris + Nate Walker)",
+          "related_claims": [
+            "C-3369",
+            "C-3370"
+          ],
+          "related_nodes": [
+            "N-1213",
+            "N-1214",
+            "N-1221",
+            "N-2220"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:41–00:15:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Presiding magistrate at the Utah preliminary hearing; issued bindover ruling and declined to dismiss Count 6.",
+      "related_artifacts": [
+        "A-2327.1",
+        "A-2328"
+      ],
+      "related_claims": [
+        "C-3357",
+        "C-3358",
+        "C-3359",
+        "C-3360",
+        "C-3362"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2225"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Defense attorney for Tyler Robinson; made the probable-cause-hearing argument regarding Charlie Kirk's statements that triggered the X outrage cycle discussed in this episode.",
+      "related_artifacts": [
+        "A-2327.1",
+        "A-2328",
+        "A-2336",
+        "A-2337"
+      ],
+      "related_claims": [
+        "C-3379",
+        "C-3380",
+        "C-3381",
+        "C-3382"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-69",
+        "N-1209",
+        "N-2223",
+        "N-2224"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Subject of state's inferences regarding non-gender-conforming identity and romantic relationship with Tyler Robinson; recipient of \"ask for a lawyer and stay silent\" and \"delete this exchange\" texts.",
+      "related_artifacts": [
+        "A-2327.1",
+        "A-2336",
+        "A-2337"
+      ],
+      "related_claims": [
+        "C-3358",
+        "C-3359",
+        "C-3360",
+        "C-3381",
+        "C-3382"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-69",
+        "N-2223",
+        "N-2224",
+        "N-2225"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Charlie Kirk's chief of staff at the time of the event; central figure in Blake Neff's testimony; observed in footage with hand to ear post-shot; alleged by Pastor Hibbs to have said \"there's so much blood.\"",
+      "related_artifacts": [
+        "A-2328",
+        "A-2329.1",
+        "A-2329.2",
+        "A-2329.3",
+        "A-2338",
+        "A-2339"
+      ],
+      "related_claims": [
+        "C-3364",
+        "C-3365",
+        "C-3366",
+        "C-3384",
+        "C-3385",
+        "C-3386"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1212",
+        "N-1213",
+        "N-1220",
+        "N-2222"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Driver of the second Yukon Denali arriving with Blake Neff in the back seat; observed in coordinated post-shot movement with Mikey McCoy.",
+      "related_artifacts": [
+        "A-2329.1",
+        "A-2329.2",
+        "A-2330"
+      ],
+      "related_claims": [
+        "C-3365",
+        "C-3366",
+        "C-3384"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1211",
+        "N-1213",
+        "N-2219"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Chief of staff / Charlie Kirk Show; present at scene; subject of two X posts this episode (one as part of the Novac outrage cluster, separately); provided extensive on-record testimony about post-shot sequence.",
+      "related_artifacts": [
+        "A-2329.1",
+        "A-2329.2",
+        "A-2330",
+        "A-2335",
+        "A-2338"
+      ],
+      "related_claims": [
+        "C-3364",
+        "C-3365",
+        "C-3384",
+        "C-3385",
+        "C-3386"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1211",
+        "N-1212",
+        "N-1219",
+        "N-2222"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Security member who drove the vehicle carrying Charlie Kirk; observed walking toward the Sorensen building with Nate Walker minutes before the shot; backpack later seen ejected from trunk.",
+      "related_artifacts": [
+        "A-2329.1",
+        "A-2329.3",
+        "A-2329.4",
+        "A-2330"
+      ],
+      "related_claims": [
+        "C-3369",
+        "C-3370",
+        "C-3371"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1215",
+        "N-2220",
+        "N-2221"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "TPUSA-affiliated figure; observed walking with Christopher toward the Sorensen building minutes before the shot.",
+      "related_artifacts": [
+        "A-2329.4"
+      ],
+      "related_claims": [
+        "C-3369",
+        "C-3370"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1214",
+        "N-2220"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Security team member identified in the security photo; in the lead black Jeep Wagoneer on 9/10.",
+      "related_artifacts": [
+        "A-2330",
+        "A-2331"
+      ],
+      "related_claims": [
+        "C-3372"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2219"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Identified by host as being in the Lincoln Navigator (security vehicle 2) on 9/10.",
+      "related_artifacts": [
+        "A-2330"
+      ],
+      "related_claims": [
+        "C-3372"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Identified by host as being in the Lincoln Navigator (security vehicle 2) on 9/10; mentioned in connection with prior statements denying threats the night before.",
+      "related_artifacts": [
+        "A-2330"
+      ],
+      "related_claims": [
+        "C-3372",
+        "C-3387"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Driver of the Lincoln Navigator (security vehicle 2); subsequently drove Charlie Kirk to the hospital in Christopher's vehicle.",
+      "related_artifacts": [
+        "A-2329.1",
+        "A-2329.2",
+        "A-2330",
+        "A-2331"
+      ],
+      "related_claims": [
+        "C-3364",
+        "C-3365",
+        "C-3371"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1214",
+        "N-1216",
+        "N-1217",
+        "N-1218",
+        "N-2221",
+        "N-2222"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "Pastor; identified by host as one of the sources of the \"Mikey said there's so much blood\" claim.",
+      "related_artifacts": [
+        "A-2339"
+      ],
+      "related_claims": [
+        "C-3386"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1211"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1221",
+      "ref": "N-1221",
+      "name": "Autopsy Record – Utah Privacy Statute Application",
+      "type": "investigation_target",
+      "description": "Mentioned by host (alongside Jack Hibbs) as one of the \"pastor orbit\" figures who have circulated the \"blood\" claim.",
+      "related_artifacts": [
+        "A-2339"
+      ],
+      "related_claims": [
+        "C-3386"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1211",
+        "N-1220"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1222",
+      "ref": "N-1222",
+      "name": "Hospital Routing Anomaly",
+      "type": "investigation_target",
+      "description": "Commentator; subject of host's rebuke for the Sept 1 X post characterizing Novac as \"justifying political assassination.\"",
+      "related_artifacts": [
+        "A-2332"
+      ],
+      "related_claims": [
+        "C-3374",
+        "C-3375"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2223"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1223",
+      "ref": "N-1223",
+      "name": "TPUSA Faith Packet / Israel References Claim",
+      "type": "investigation_target",
+      "description": "Commentator; identified by host as having echoed the \"lawyer justifying assassination\" framing.",
+      "related_artifacts": [
+        "A-2333"
+      ],
+      "related_claims": [
+        "C-3376"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2223"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1224",
+      "ref": "N-1224",
+      "name": "ADL–FBI Partnership Structure",
+      "type": "investigation_target",
+      "description": "Commentator; author of X post accusing Novac of \"attacking Charlie Kirk in court.\"",
+      "related_artifacts": [
+        "A-2334"
+      ],
+      "related_claims": [
+        "C-3377"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2223"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1225",
+      "ref": "N-1225",
+      "name": "Connecticut FBI Field Office Deployment Anomaly",
+      "type": "investigation_target",
+      "description": "Commentator; co-author (with Blake Neff) of identical X post regarding Novac.",
+      "related_artifacts": [
+        "A-2335"
+      ],
+      "related_claims": [
+        "C-3378"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1213",
+        "N-2223"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1226",
+      "ref": "N-1226",
+      "name": "Tyler Robinson Defense Selection Anomaly",
+      "type": "investigation_target",
+      "description": "Mikey McCoy's father; identified in Blake Neff's testimony as the recipient of a phone call immediately after the shot.",
+      "related_artifacts": [
+        "A-2338"
+      ],
+      "related_claims": [
+        "C-3384"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1211"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1227",
+      "ref": "N-1227",
+      "name": "Witness and Public-Figure Demeanor Anomalies",
+      "type": "investigation_target",
+      "description": "Identified by host as a person to whom Tyler Robinson allegedly \"confessed\" — claim the host explicitly denies as a \"foundational lie.\"",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3388"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1228",
+      "ref": "N-1228",
+      "name": "SD Card Removal Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Referenced in host's discussion of Aug 11 filing (page 32 context) regarding political-motivation enhancement.",
+      "related_artifacts": [
+        "A-2337"
+      ],
+      "related_claims": [
+        "C-3382"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2224"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1229",
+      "ref": "N-1229",
+      "name": "Pre-Assassination Group Chat Content",
+      "type": "investigation_target",
+      "description": "Identified by host as a person who was \"going to give [Tyler Robinson] a million dollars\" — narrative the host says was \"dropped entirely\" because there was \"no truth and no substance.\"",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3389"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1230",
+      "ref": "N-1230",
+      "name": "Charlie Kirk Catholic Trajectory Verification",
+      "type": "investigation_target",
+      "description": "Intermediary who forwarded the TikTok-originated clip of Chris and Nate Walker to the host.",
+      "related_artifacts": [
+        "A-2329.4"
+      ],
+      "related_claims": [
+        "C-3369"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1214",
+        "N-1215"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2219",
+      "ref": "N-2219",
+      "name": "9/10 Vehicle Positioning Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent investigation into the configuration of the five relevant vehicles on the UVU lot, the blocking-in pattern, and the personnel assignment to each. Two security vehicles on the left arrived 9:00–9:30 a.m. before Kirk; the two Denalis and the Hyundai Palisade are the remaining units.",
+      "related_artifacts": [
+        "A-2329.1",
+        "A-2329.2",
+        "A-2329.3",
+        "A-2330",
+        "A-2331"
+      ],
+      "related_claims": [
+        "C-3364",
+        "C-3365",
+        "C-3371",
+        "C-3372"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1211",
+        "N-1212",
+        "N-1213",
+        "N-1214",
+        "N-1216",
+        "N-1217",
+        "N-1218",
+        "N-1219"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2220",
+      "ref": "N-2220",
+      "name": "Christopher Pre-Shot Location Anomaly",
+      "type": "investigation_target",
+      "description": "Why security member Christopher (driver of Kirk's vehicle) and Nate Walker were walking toward the Sorensen building minutes before the shot, given Kirk's reported prior-night communication that he feared for his life.",
+      "related_artifacts": [
+        "A-2329.4"
+      ],
+      "related_claims": [
+        "C-3369",
+        "C-3370"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1214",
+        "N-1215",
+        "N-1221"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2221",
+      "ref": "N-2221",
+      "name": "Security Vehicle Keys Access Question",
+      "type": "investigation_target",
+      "description": "Investigation into how Justin Davis obtained access to Christopher's locked vehicle (carrying Kirk's personal belongings) within ~45 seconds, given that Christopher was upstairs at the time of the shot and the vehicle was supposed to be secured.",
+      "related_artifacts": [
+        "A-2329.1",
+        "A-2330"
+      ],
+      "related_claims": [
+        "C-3364",
+        "C-3371"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1213",
+        "N-1214",
+        "N-1219"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2222",
+      "ref": "N-2222",
+      "name": "Security Vehicle Hospital Transport Absence",
+      "type": "investigation_target",
+      "description": "Investigation into why none of the three security SUVs (other than the one Justin Davis ultimately drove) were taken to the hospital after the shot, and what security personnel did in the intervening window.",
+      "related_artifacts": [
+        "A-2329.1",
+        "A-2329.2",
+        "A-2338",
+        "A-2339"
+      ],
+      "related_claims": [
+        "C-3384",
+        "C-3385",
+        "C-3386"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-69",
+        "N-1211",
+        "N-1212",
+        "N-1213",
+        "N-1219"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2223",
+      "ref": "N-2223",
+      "name": "Political-Motivation X Outrage Cluster (Sept 1, 2026)",
+      "type": "investigation_target",
+      "description": "Coordinated set of X posts by Matt Walsh, Viva Frei, Graham Allen, Blake Neff, and Brandon Tatum characterizing defense counsel's argument as endorsement of political assassination.",
+      "related_artifacts": [
+        "A-2332",
+        "A-2333",
+        "A-2334",
+        "A-2335",
+        "A-2336",
+        "A-2337"
+      ],
+      "related_claims": [
+        "C-3374",
+        "C-3375",
+        "C-3376",
+        "C-3377",
+        "C-3378"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-1222",
+        "N-1223",
+        "N-1224",
+        "N-1225",
+        "N-1213"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2224",
+      "ref": "N-2224",
+      "name": "Political Motivation Inference Chain (Hearsay Standard)",
+      "type": "investigation_target",
+      "description": "Investigation into whether the state's chain of inferences — Twiggs's non-gender-conforming identity → Robinson's relationship with Twiggs → Kirk's statements about non-heterosexual persons → Robinson's alleged \"some hate just can't be negotiated\" message → political-motivation enhancement — satisfies Utah Rule 1102 / reliable hearsay standard, or whether it is inferring upon an inference.",
+      "related_artifacts": [
+        "A-2336",
+        "A-2337"
+      ],
+      "related_claims": [
+        "C-3379",
+        "C-3380",
+        "C-3381",
+        "C-3382",
+        "C-3383"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-1209",
+        "N-69",
+        "N-1228"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2225",
+      "ref": "N-2225",
+      "name": "Defense Witness Tampering Count 6 Constitutional Question",
+      "type": "investigation_target",
+      "description": "Investigation into whether Count 6 (witness tampering for the \"ask for a lawyer and stay silent\" text) can constitutionally proceed given Judge Graff's own concession that the advice, standing alone, is lawful and does not establish criminal intent.",
+      "related_artifacts": [
+        "A-2327",
+        "A-2327.1"
+      ],
+      "related_claims": [
+        "C-3358",
+        "C-3359",
+        "C-3360",
+        "C-3361"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1209",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3357",
+      "ref": "C-3357",
+      "label": "Judge Graff issued bindover ruling after preliminary hearing",
+      "claim": "Judge Graff ruled that the state of Utah met its reliable-hearsay probable-cause standard to bind the case over to trial.",
+      "anchored_artifacts": [
+        "A-2327",
+        "A-2328"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:24",
+      "investigative_direction": "Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3358",
+      "ref": "C-3358",
+      "label": "Judge Graff declined to dismiss Count 6 (witness tampering)",
+      "claim": "Judge Graff declined to dismiss Count 6 (witness tampering for the \"ask for a lawyer and stay silent\" text to Lance Twiggs) over the defense's constitutional-rights argument.",
+      "anchored_artifacts": [
+        "A-2327",
+        "A-2327.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1209",
+        "N-69",
+        "N-2225"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:11",
+      "investigative_direction": "Obtain the written ruling; verify the court's exact reasoning and whether a separate written order accompanies the bench ruling."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3359",
+      "ref": "C-3359",
+      "label": "Judge acknowledged \"ask for a lawyer and stay silent\" advice is constitutionally lawful",
+      "claim": "The court acknowledged on the record that the text \"ask for a lawyer and stay silent,\" standing alone, describes lawful advice concerning constitutional rights and does not establish witness tampering.",
+      "anchored_artifacts": [
+        "A-2327.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1209",
+        "N-2225"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:54",
+      "investigative_direction": "Compare this on-record concession against the state's preserved theory of the case and any superseding indictment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3360",
+      "ref": "C-3360",
+      "label": "Count 5 is witness tampering for \"delete this exchange\" message",
+      "claim": "Count 5 of the information charges witness tampering based specifically on a \"delete this exchange\" text message to Lance Twiggs, distinct from Count 6.",
+      "anchored_artifacts": [
+        "A-2327.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1209",
+        "N-69",
+        "N-2225"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:11",
+      "investigative_direction": "Obtain the charging document to confirm the textual basis alleged for each count."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3361",
+      "ref": "C-3361",
+      "label": "Judge tied Count 6 survival to the existence of Count 5",
+      "claim": "The court permitted Count 6 to proceed by reference to Count 5, stating that the surrounding communications (including the \"delete this exchange\" instruction) permitted a reasonable inference of obstructive intent.",
+      "anchored_artifacts": [
+        "A-2327.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1209",
+        "N-69",
+        "N-2225"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:11",
+      "investigative_direction": "Determine whether the defense preserved this issue for trial and whether a motion to reconsider or to dismiss post-bindover was filed."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3362",
+      "ref": "C-3362",
+      "label": "Tyler Robinson pleaded not guilty to all counts",
+      "claim": "On September 1, 2026, Tyler Robinson, through counsel, entered pleas of not guilty to all counts in the information.",
+      "anchored_artifacts": [
+        "A-2328"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:25",
+      "investigative_direction": "Verify against the court's docket entry; track any subsequent plea amendments."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3363",
+      "ref": "C-3363",
+      "label": "Defense waived reading of the information at arraignment",
+      "claim": "Defense counsel waived reading of the information at the arraignment hearing before entering the not-guilty pleas.",
+      "anchored_artifacts": [
+        "A-2328"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:25",
+      "investigative_direction": "Confirm docket entry; verify whether this waiver affects any future challenge to the sufficiency of the information."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3364",
+      "ref": "C-3364",
+      "label": "Justin Davis sprinted to and opened the passenger door of a vehicle he did not arrive in",
+      "claim": "In the post-shot sequence, Justin Davis (driver of the Lincoln Navigator) sprinted to and opened the passenger-side door of a vehicle he had not arrived in, alongside Blake Neff, who was also not a passenger of that vehicle.",
+      "anchored_artifacts": [
+        "A-2329.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1213",
+        "N-1219",
+        "N-2221"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:06",
+      "investigative_direction": "Cross-reference vehicle key logs, security team statements, and any post-event interviews with Davis and Neff to confirm."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3365",
+      "ref": "C-3365",
+      "label": "Mikey McCoy and Danny Phillip met in a coordinated manner at Kirk's vehicle",
+      "claim": "Footage shows Mikey McCoy and Danny Phillip running, meeting, and \"ducking down\" together in front of Kirk's vehicle, in what the host characterizes as a coordinated sequence.",
+      "anchored_artifacts": [
+        "A-2329.2"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1212",
+        "N-1213",
+        "N-1219",
+        "N-2219"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:00",
+      "investigative_direction": "Obtain original footage for frame-by-frame analysis; obtain statements from McCoy and Phillip regarding this movement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3366",
+      "ref": "C-3366",
+      "label": "Mikey McCoy's hand remained at his ear throughout the post-shot sequence",
+      "claim": "Throughout the run to and at Kirk's vehicle, Mikey McCoy kept his hand at his ear — a gesture that prior narratives have attributed to noise-canceling rather than a phone call.",
+      "anchored_artifacts": [
+        "A-2329.2"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-2219"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:22",
+      "investigative_direction": "Compare frame-by-frame footage against cell-phone metadata / call detail records; obtain McCoy's own account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3367",
+      "ref": "C-3367",
+      "label": "A backpack was ejected from the trunk of Kirk's vehicle",
+      "claim": "As Kirk's vehicle departed for the hospital, a backpack fell from or was tossed from the trunk. Host speculates it is \"Chris's bag\" but states \"not 100% certain.\"",
+      "anchored_artifacts": [
+        "A-2329.3"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-1214",
+        "N-2221"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:38",
+      "investigative_direction": "Identify the bag's owner; obtain receipt / loss-property reports if any."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3368",
+      "ref": "C-3368",
+      "label": "Kirk communicated the night before 9/10 that he feared for his life",
+      "claim": "Charlie Kirk communicated the night before September 10 that he feared for his life, that he thought they were going to kill him — a claim his wife initially denied and then conceded, and which he allegedly extended to his security team.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:16",
+      "investigative_direction": "Locate the original source(s) of the prior-night fear claim and corroborate against contemporaneous records (texts, voice mails, third-party accounts)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3369",
+      "ref": "C-3369",
+      "label": "Christopher and Nate Walker were upstairs near the Sorensen building minutes before the shot",
+      "claim": "Christopher (Kirk's main security person / driver) and Nate Walker were observed walking toward the Sorensen building, upstairs, in the minutes before the shot.",
+      "anchored_artifacts": [
+        "A-2329.4"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-1215",
+        "N-1221",
+        "N-2220"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:03",
+      "investigative_direction": "Obtain original TikTok source footage with timestamp; obtain statements from Christopher and Walker regarding their location and purpose."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3370",
+      "ref": "C-3370",
+      "label": "Christopher's absence from the vehicle preceded the shot by minutes",
+      "claim": "Christopher left the immediate vehicle area and went upstairs minutes before the shot; by the time he came back downstairs, his vehicle was gone.",
+      "anchored_artifacts": [
+        "A-2329.4"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-1215",
+        "N-2220",
+        "N-2221"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:03",
+      "investigative_direction": "Cross-reference against security radio logs and Christopher's own timeline."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3371",
+      "ref": "C-3371",
+      "label": "Three security vehicles were left behind at UVU and not driven to the hospital",
+      "claim": "The three security vehicles (the lead Jeep Wagoneer, the Lincoln Navigator, and the second Yukon Denali) were not driven to the hospital; the host states this is based on \"sources with direct knowledge.\"",
+      "anchored_artifacts": [
+        "A-2330"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1213",
+        "N-1214",
+        "N-1216",
+        "N-1217",
+        "N-1218",
+        "N-1219",
+        "N-2219",
+        "N-2221",
+        "N-2222"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:16",
+      "investigative_direction": "Identify the named sources; cross-reference against vehicle GPS / fleet logs and security team statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3372",
+      "ref": "C-3372",
+      "label": "UVU security vehicles arrived between 9:00 and 9:30 a.m. on 9/10",
+      "claim": "The two security vehicles (black Jeep Wagoneer and Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., before Charlie Kirk's arrival in Salt Lake City for the restaurantology event.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1216",
+        "N-1217",
+        "N-1218",
+        "N-1219",
+        "N-2219"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:54",
+      "investigative_direction": "Obtain toll/transponder logs, security radio logs, or vehicle GPS records to verify arrival times."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3373",
+      "ref": "C-3373",
+      "label": "Two security team members remain unidentified",
+      "claim": "Two members of the Charlie Kirk security team shown in the security photo remain unidentified by the host: one in a short-sleeve bright blue shirt at front-right, and one in a hat with a beard in the middle.",
+      "anchored_artifacts": [
+        "A-2331"
+      ],
+      "related_nodes": [
+        "N-2219"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:13",
+      "investigative_direction": "Cross-reference with TPUSA-published security team rosters, event staffing contracts, and 9/10 security team statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3374",
+      "ref": "C-3374",
+      "label": "Matt Walsh X post characterized defense counsel as justifying political assassination",
+      "claim": "On September 1, 2026, Matt Walsh posted on X: \"We have a lawyer justifying political assassination in one court case, and another lawyer justifying the mass murder of children in another. Very dark times in America.\"",
+      "anchored_artifacts": [
+        "A-2332"
+      ],
+      "related_nodes": [
+        "N-1222",
+        "N-1208",
+        "N-2223"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:42",
+      "investigative_direction": "Confirm the post remains on X; verify timestamp; cross-reference Walsh's full thread for context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3375",
+      "ref": "C-3375",
+      "label": "Host concurs that Walsh's framing mischaracterizes the defense argument",
+      "claim": "The host explicitly rejects Walsh's \"justifying political assassination\" framing and characterizes it as a \"disingenuous narrative.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1222",
+        "N-1208",
+        "N-2223"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:42",
+      "investigative_direction": "This is a host-stance claim; verification would require Walsh's reply or retraction."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3376",
+      "ref": "C-3376",
+      "label": "Viva Frei echoed the same political-assassination framing",
+      "claim": "Viva Frei sent a tweet echoing the \"lawyer justifying political assassination\" framing. Host states she has blocked him.",
+      "anchored_artifacts": [
+        "A-2333"
+      ],
+      "related_nodes": [
+        "N-1223",
+        "N-1208",
+        "N-2223"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:25",
+      "investigative_direction": "Locate the specific post; verify timestamp."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3377",
+      "ref": "C-3377",
+      "label": "Graham Allen X post accused defense counsel of attacking Charlie Kirk in court",
+      "claim": "Graham Allen posted on X: \"Are you kidding me? Are you kidding me? Tyler Robin's defense attorney attacked Charlie Kirk in court. This man is a lunatic.\"",
+      "anchored_artifacts": [
+        "A-2334"
+      ],
+      "related_nodes": [
+        "N-1224",
+        "N-1208",
+        "N-2223"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:36",
+      "investigative_direction": "Confirm the post remains on X; verify timestamp."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3378",
+      "ref": "C-3378",
+      "label": "Blake Neff and Brandon Tatum sent an identical X post about Novac",
+      "claim": "Blake Neff and Brandon Tatum sent an identical X post accusing defense attorney Richard Novac of \"trashing Charlie\" by stating that Kirk \"spoke hatefully about people who were not heterosexual or had sex outside of marriage.\"",
+      "anchored_artifacts": [
+        "A-2335"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-1225",
+        "N-1208",
+        "N-2223"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:50",
+      "investigative_direction": "Confirm both posts remain on X; compare timestamps."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3379",
+      "ref": "C-3379",
+      "label": "Defense counsel framed his argument as a citation of the state's own theory",
+      "claim": "Defense counsel Richard Novac, in his probable-cause-hearing argument, was not advancing a personal thesis that political assassinations are acceptable; he was citing the state's own theory to argue that the state had failed to satisfy its burden even on its own framing.",
+      "anchored_artifacts": [
+        "A-2336",
+        "A-2337"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1209",
+        "N-69",
+        "N-2223",
+        "N-2224"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:00",
+      "investigative_direction": "Read Novac's full argument transcript; compare against Aug 11 filing page 32 and the state's responsive briefing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3380",
+      "ref": "C-3380",
+      "label": "State is pursuing sentence enhancement based on political motivation",
+      "claim": "The state is pursuing sentence enhancements based on the theory that Kirk was targeted for his political or religious beliefs, with the \"some hate just can't be negotiated\" text as the central anchor.",
+      "anchored_artifacts": [
+        "A-2336",
+        "A-2337"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1209",
+        "N-69",
+        "N-2224"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:58",
+      "investigative_direction": "Obtain the state's sentencing-enhancement motion and the controlling Utah statute to verify the elements and the state's proffer."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3381",
+      "ref": "C-3381",
+      "label": "State has not identified specific Kirk statements alleged to be \"hateful\"",
+      "claim": "The state's filings do not identify which specific statements by Charlie Kirk they contend are \"hateful\" toward the LGBTQ community; the defense characterizes this as inferring upon an inference.",
+      "anchored_artifacts": [
+        "A-2336",
+        "A-2337"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1209",
+        "N-69",
+        "N-1228",
+        "N-2224"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:58",
+      "investigative_direction": "Obtain the state's filing in full; enumerate the specific statements cited; compare against defense's enumeration."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3382",
+      "ref": "C-3382",
+      "label": "Defense page 32 asserts inference-upon-inference as to political motivation",
+      "claim": "The August 11 defense filing, page 32, asserts that the state is \"inferring upon an inference\" to establish political motivation, and that the record contains \"no evidence of specific political expressions of Mr. Kirk which, if any, Mr. Robinson may have been aware of or focused on.\"",
+      "anchored_artifacts": [
+        "A-2337"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1209",
+        "N-69",
+        "N-1228",
+        "N-2224"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:38",
+      "investigative_direction": "Obtain page 32 directly; compare with the state's response and the preliminary-hearing transcript."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3383",
+      "ref": "C-3383",
+      "label": "State's theory turns in part on Twiggs's intermittent non-gender-conforming identification",
+      "claim": "The state's theory relies in part on the proposition that Lance Twiggs (not Tyler Robinson) was \"at least intermittently identifying as a female to his close friends,\" and that this is part of the inferential chain supporting the political-motivation enhancement.",
+      "anchored_artifacts": [
+        "A-2337"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-69",
+        "N-1228",
+        "N-2224"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:38",
+      "investigative_direction": "Obtain the state's proffer; obtain any statements or records from Twiggs or third parties regarding gender identification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3384",
+      "ref": "C-3384",
+      "label": "Blake Neff's testimony describes a 20-second window from \"active shooter\" to \"all clear\"",
+      "claim": "Blake Neff testified that after the shot he and Mikey McCoy ran because they believed there might be more shooters, but that approximately 15–20 seconds later he concluded the shooter had likely been \"detained or stopped\" and that they were not in immediate danger.",
+      "anchored_artifacts": [
+        "A-2338"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1212",
+        "N-1213",
+        "N-2222"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:14",
+      "investigative_direction": "Obtain the full transcript of Neff's testimony; cross-reference against contemporaneous radio traffic and other security personnel."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3385",
+      "ref": "C-3385",
+      "label": "Blake Neff testified that Mikey McCoy called \"Erika\" from the scene",
+      "claim": "Blake Neff testified that Mikey McCoy, within approximately one minute of the shot, called \"Erika\" (Erica / Erika Kirk) and then called his father Robin McCoy.",
+      "anchored_artifacts": [
+        "A-2338"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1213",
+        "N-1225",
+        "N-1226",
+        "N-2222"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:40",
+      "investigative_direction": "Obtain Erika Kirk's call detail records; verify call timing and duration."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3386",
+      "ref": "C-3386",
+      "label": "\"Mikey said there's so much blood\" claim traces to Hibbs / Turek, not McCoy",
+      "claim": "The \"so much blood\" claim attributed to Mikey McCoy did not originate with McCoy himself; the host identifies Pastor Jack Hibbs and Frank Turek as the source within the \"pastor orbit.\" Host states McCoy never publicly described seeing large amounts of blood.",
+      "anchored_artifacts": [
+        "A-2339"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1220",
+        "N-1221",
+        "N-2222"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:25",
+      "investigative_direction": "Obtain McCoy's complete media appearances; obtain Hibbs's and Turek's on-record statements with timestamps; obtain Erika Kirk's call-detail records (the call McCoy made to her per Neff testimony)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3387",
+      "ref": "C-3387",
+      "label": "Brian Harpole stated there were no threats the night before 9/10",
+      "claim": "Brian Harpole, in a conversation with Shawn Ryan, stated that there were no threats the night before September 10 — a statement the host identifies as in tension with Kirk's prior-night communication of fear.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1218",
+        "N-1230",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:04:00",
+      "investigative_direction": "Locate the Shawn Ryan interview clip; obtain Harpole's full statement; cross-reference against Kirk's prior-night communications."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3388",
+      "ref": "C-3388",
+      "label": "Mike Mitchell \"confession\" narrative is, per host, a foundational lie",
+      "claim": "The host asserts that the narrative that Tyler Robinson \"confessed it to Mike Mitchell\" is a \"foundational lie\" propagated by Pentagon influencers.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-1227"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:25",
+      "investigative_direction": "Identify the original source(s) of the Mitchell-confession claim; obtain Mike Mitchell's own on-record account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3389",
+      "ref": "C-3389",
+      "label": "Bill Ackman \"million dollars\" narrative was dropped",
+      "claim": "The host asserts that a narrative that Bill Ackman was \"going to give him a million dollars\" was \"magically dropped\" because \"there was no truth and no substance.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1229",
+        "N-69"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:25",
+      "investigative_direction": "Locate the original source of the Ackman offer; obtain Ackman's own statement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3390",
+      "ref": "C-3390",
+      "label": "Mikey McCoy allegedly appeared \"profoundly freaked out\" with \"lip quivering\" per Neff",
+      "claim": "Blake Neff testified that he observed Mikey McCoy to be \"profoundly freaked out\" with a \"quivering\" lip, and that this was the only time Neff had seen McCoy in that state in approximately two years of working together.",
+      "anchored_artifacts": [
+        "A-2338"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:56",
+      "investigative_direction": "Obtain McCoy's own account; obtain contemporaneous video of McCoy in the immediate aftermath."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3391",
+      "ref": "C-3391",
+      "label": "McCoy made a \"general directing a battle\" pivot per Neff",
+      "claim": "Blake Neff testified that Mikey McCoy, after the phone calls, \"got total mastery of himself\" and began \"directing a battle\" — assigning tasks, including instructions that \"none of you can say anything\" until Erika Kirk had been told directly by McCoy.",
+      "anchored_artifacts": [
+        "A-2338"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1213",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:39",
+      "investigative_direction": "Obtain McCoy's own account; cross-reference against any witness statements of the immediate post-shot huddle."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3392",
+      "ref": "C-3392",
+      "label": "Neff testified he did not enter the vehicle to drive to the hospital",
+      "claim": "Blake Neff testified that he considered getting into the SUV he had arrived in (\"the SUV that we came in on\") but decided against it (\"that's a really stupid thing to do\") and kept running.",
+      "anchored_artifacts": [
+        "A-2338"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1213",
+        "N-2222"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:58",
+      "investigative_direction": "Cross-reference against his prior and subsequent statements; verify which SUV he is referring to."
+    }
+  ],
+  "memes": []
+}

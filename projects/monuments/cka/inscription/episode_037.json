@@ -1,0 +1,1086 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 37,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "616bc05edfb6359bc187e34800c41d1e0a9578d7522596cd46dc4c4fe2472367",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode develops the \"Operation Valhalla\" thread of the investigation. The host presents four artifact-anchored components: (1) the Minot Air Force Base website article describing Operation Valhalla Strike, a week-long training exercise conducted August 24–29, 2025 at Camp Ripley by the 891st Missile Security Forces Squadron; (2) an email from a self-identified military member tying BTT's September 4 stopover at Minot, ND to that same exercise; (3) an audio clip of Kash Patel's press conference closing statement invoking \"Valhalla\" in tribute to Charlie Kirk; and (4) a Prager News Network interview clip in which Charlie Kirk identifies Julius Caesar as his favorite pre-1850 historical figure, with the host drawing a parallel between Caesar's assassination and Kirk's.\n\nThe episode also presents side threads with their own artifact anchors: a news clip of Nebraska Secretary of State Bob Evan announcing an October–November Egypt trade mission (alleged to overlap with BTT's movements), a video of Mike Huckabee and David Friedman performing at a Jerusalem event, an article/headline documenting Huckabee's meeting with convicted Israeli spy Jonathan Pollard, a quoted White House briefing statement from press secretary Karoline Leavitt, an email from Free Press writer Ashley Rinzberg requesting comment on several shows, and a Tim Dylan audio clip characterizing Bari Weiss's installation at CBS News as state propaganda delivery.\n\nStructurally, the episode is a connector episode — it does not introduce a new central evidentiary claim, but it does add the Operation Valhalla timeline anchor that places a named military unit's training exercise at T-minus 12 days from the assassination.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1451",
+      "family_ref": "A-1451",
+      "bundle_name": "Operation Valhalla Press Release Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1451.1",
+          "ref": "A-1451.1",
+          "description": "Minot Air Force Base Website Article: \"Operation Valhalla Strike\"",
+          "related_claims": [
+            "C-1768",
+            "C-1769",
+            "C-1770"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-438",
+            "N-1344",
+            "N-1348",
+            "N-1349",
+            "N-1350"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1452",
+      "family_ref": "A-1452",
+      "bundle_name": "Charlie Kirk PragerU Interview Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1452.1",
+          "ref": "A-1452.1",
+          "description": "Prager News Network Interview Segment — Charlie Kirk on Favorite Historical Figures",
+          "related_claims": [
+            "C-1771"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:06–00:02:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1453",
+      "family_ref": "A-1453",
+      "bundle_name": "Kash Patel Press Conference Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1453.1",
+          "ref": "A-1453.1",
+          "description": "Kash Patel Press Conference Closing — \"See you in Valhalla\"",
+          "related_claims": [
+            "C-1772"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-438",
+            "N-1344"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:53–00:10:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1454",
+      "family_ref": "A-1454",
+      "bundle_name": "Military Tipster Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1454.1",
+          "ref": "A-1454.1",
+          "description": "Email from Self-Identified Military Member Regarding BTT Stopover and Operation Valhalla",
+          "related_claims": [
+            "C-1773",
+            "C-1774",
+            "C-1775"
+          ],
+          "related_nodes": [
+            "N-438",
+            "N-1345",
+            "N-1348",
+            "N-1349",
+            "N-1344"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:34–00:07:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1455",
+      "family_ref": "A-1455",
+      "bundle_name": "Nebraska Secretary of State Press Conference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1455.1",
+          "ref": "A-1455.1",
+          "description": "News Clip — Nebraska Secretary of State Bob Evan Announces Egypt Trade Mission",
+          "related_claims": [
+            "C-1776"
+          ],
+          "related_nodes": [
+            "N-445",
+            "N-1347"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:13–00:13:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1456",
+      "family_ref": "A-1456",
+      "bundle_name": "Huckabee–Friedman Jerusalem Performance Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1456.1",
+          "ref": "A-1456.1",
+          "description": "Video — Mike Huckabee and David Friedman Performing \"Sweet Home Alabama/Jerusalem\"",
+          "related_claims": [
+            "C-1777"
+          ],
+          "related_nodes": [
+            "N-439",
+            "N-441"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:00–00:28:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1457",
+      "family_ref": "A-1457",
+      "bundle_name": "Jonathan Pollard–Huckabee Meeting Headline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1457.1",
+          "ref": "A-1457.1",
+          "description": "Headline — \"American who spied for Israel says he met Ambassador Mike Huckabee\"",
+          "related_claims": [
+            "C-1778"
+          ],
+          "related_nodes": [
+            "N-439",
+            "N-440"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:15–00:28:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1458",
+      "family_ref": "A-1458",
+      "bundle_name": "White House Press Briefing Quote Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1458.1",
+          "ref": "A-1458.1",
+          "description": "Karoline Leavitt White House Briefing Statement on Huckabee–Pollard Meeting",
+          "related_claims": [
+            "C-1779"
+          ],
+          "related_nodes": [
+            "N-439",
+            "N-440",
+            "N-446"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1459",
+      "family_ref": "A-1459",
+      "bundle_name": "Ashley Rinzberg Free Press Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1459.1",
+          "ref": "A-1459.1",
+          "description": "Email from Ashley Rinzberg Requesting Comment for Free Press Article",
+          "related_claims": [
+            "C-1780"
+          ],
+          "related_nodes": [
+            "N-7",
+            "N-442",
+            "N-1352"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:33–00:31:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1460",
+      "family_ref": "A-1460",
+      "bundle_name": "Tim Dylan Bari Weiss Commentary Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1460.1",
+          "ref": "A-1460.1",
+          "description": "Audio Clip — Tim Dylan on Bari Weiss at CBS News",
+          "related_claims": [],
+          "related_nodes": [
+            "N-7",
+            "N-443",
+            "N-444",
+            "N-1353"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:36–00:34:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-448",
+      "ref": "N-448",
+      "name": "Node 448",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-449",
+      "ref": "N-449",
+      "name": "Operation Valhalla Press Release Bundle",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-450",
+      "ref": "N-450",
+      "name": "Node 450",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of the Operation Valhalla parallel and the PragerU Julius Caesar interview segment.",
+      "related_artifacts": [
+        "A-1451.1",
+        "A-1452.1",
+        "A-1453.1"
+      ],
+      "related_claims": [
+        "C-1768",
+        "C-1771",
+        "C-1772"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1344"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-438",
+      "ref": "N-438",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "FBI Director / public official who closed September 12, 2025 press conference with \"see you in Valhalla\" tribute to Charlie Kirk.",
+      "related_artifacts": [
+        "A-1453.1",
+        "A-1454.1"
+      ],
+      "related_claims": [
+        "C-1772",
+        "C-1775"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-1344"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-439",
+      "ref": "N-439",
+      "name": "Mike Huckabee",
+      "type": "person",
+      "description": "U.S. Ambassador to Israel; subject of Jerusalem performance video and Pollard meeting coverage.",
+      "related_artifacts": [
+        "A-1456.1",
+        "A-1457.1",
+        "A-1458.1"
+      ],
+      "related_claims": [
+        "C-1777",
+        "C-1778",
+        "C-1779"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-440",
+        "N-441",
+        "N-446"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-440",
+      "ref": "N-440",
+      "name": "Jonathan Pollard",
+      "type": "person",
+      "description": "Convicted Israeli spy (30-year U.S. prison sentence, espionage); met with Huckabee per episode.",
+      "related_artifacts": [
+        "A-1457.1",
+        "A-1458.1"
+      ],
+      "related_claims": [
+        "C-1778",
+        "C-1779"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-439"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-441",
+      "ref": "N-441",
+      "name": "David Friedman",
+      "type": "person",
+      "description": "Former U.S. Ambassador to Israel; co-performer with Huckabee at Jerusalem event.",
+      "related_artifacts": [
+        "A-1456.1"
+      ],
+      "related_claims": [
+        "C-1777"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-439"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-442",
+      "ref": "N-442",
+      "name": "Ashley Rinzberg",
+      "type": "person",
+      "description": "Free Press writer; sent email to host requesting comment on multiple shows.",
+      "related_artifacts": [
+        "A-1459.1"
+      ],
+      "related_claims": [
+        "C-1780"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-7",
+        "N-1352"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-443",
+      "ref": "N-443",
+      "name": "Tim Dylan",
+      "type": "person",
+      "description": "Independent commentator; provided audio clip characterizing Bari Weiss at CBS News.",
+      "related_artifacts": [
+        "A-1460.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-7",
+        "N-444"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-444",
+      "ref": "N-444",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Editor-in-chief / CBS News installation (per host and Tim Dylan clip); co-owner of The Free Press.",
+      "related_artifacts": [
+        "A-1460.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-443",
+        "N-1353"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-445",
+      "ref": "N-445",
+      "name": "Bob Evan",
+      "type": "person",
+      "description": "Nebraska Secretary of State; announced Egypt trade mission per news clip.",
+      "related_artifacts": [
+        "A-1455.1"
+      ],
+      "related_claims": [
+        "C-1776"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1347"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-446",
+      "ref": "N-446",
+      "name": "Karoline Leavitt",
+      "type": "person",
+      "description": "White House Press Secretary; quoted on Huckabee–Pollard meeting.",
+      "related_artifacts": [
+        "A-1458.1"
+      ],
+      "related_claims": [
+        "C-1779"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-439",
+        "N-440"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1344",
+      "ref": "N-1344",
+      "name": "Operation Valhalla — Charlie Kirk Assassination Timeline Connection",
+      "type": "investigation_target",
+      "description": "Investigation target: whether the Operation Valhalla Strike exercise (Aug 24–29, 2025) and the 891st MSFS's involvement have any causal or coordination link to the September 10, 2025 assassination; includes the Kash Patel \"see you in Valhalla\" press conference statement.",
+      "related_artifacts": [
+        "A-1451.1",
+        "A-1453.1",
+        "A-1454.1"
+      ],
+      "related_claims": [
+        "C-1768",
+        "C-1772",
+        "C-1775"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-438",
+        "N-1349"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1345",
+      "ref": "N-1345",
+      "name": "BTT Minot AFB Stopover Question",
+      "type": "investigation_target",
+      "description": "Investigation target: why the Egyptian military BTT aircraft stopped at Minot, North Dakota for approximately one hour on September 4, 2025 rather than flying direct to Provo.",
+      "related_artifacts": [
+        "A-1454.1"
+      ],
+      "related_claims": [
+        "C-1773"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1348",
+        "N-1349"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1346",
+      "ref": "N-1346",
+      "name": "Maroon Shirt Coordination Theory",
+      "type": "investigation_target",
+      "description": "Investigation target: host's observation that multiple individuals in assassination-day footage appear to be wearing maroon shirts; host's source reportedly confirmed UVU school color is not maroon.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-69",
+        "N-449"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1347",
+      "ref": "N-1347",
+      "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
+      "type": "investigation_target",
+      "description": "Investigation target: temporal overlap between BTT aircraft's July 20 longest trip (to Nebraska) and Nebraska Secretary of State's July 22 announcement of Egypt trade mission.",
+      "related_artifacts": [
+        "A-1455.1"
+      ],
+      "related_claims": [
+        "C-1776"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-445"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1348",
+      "ref": "N-1348",
+      "name": "Minot Air Force Base",
+      "type": "investigation_target",
+      "description": "U.S. Air Force base in North Dakota; home to 5,000 military personnel and the 891st MSFS; site of BTT's September 4 stopover.",
+      "related_artifacts": [
+        "A-1451.1",
+        "A-1454.1"
+      ],
+      "related_claims": [
+        "C-1769",
+        "C-1773"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1345",
+        "N-1349"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1349",
+      "ref": "N-1349",
+      "name": "891st Missile Security Forces Squadron",
+      "type": "investigation_target",
+      "description": "Air Force unit stationed at Minot AFB; conducted Operation Valhalla Strike at Camp Ripley Aug 24–29, 2025; described as combined military/civilian security force.",
+      "related_artifacts": [
+        "A-1451.1",
+        "A-1454.1"
+      ],
+      "related_claims": [
+        "C-1768",
+        "C-1770"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1344",
+        "N-1348"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1350",
+      "ref": "N-1350",
+      "name": "Camp Ripley Training Center",
+      "type": "investigation_target",
+      "description": "Minnesota training facility where Operation Valhalla Strike was conducted Aug 24–29, 2025; provides full-distance live-fire ranges.",
+      "related_artifacts": [
+        "A-1451.1"
+      ],
+      "related_claims": [
+        "C-1768"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1349"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1351",
+      "ref": "N-1351",
+      "name": "The Free Press",
+      "type": "investigation_target",
+      "description": "Online publication co-founded by Bari Weiss; outlet of record for the Rinzberg inquiry email.",
+      "related_artifacts": [
+        "A-1459.1"
+      ],
+      "related_claims": [
+        "C-1780"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-442",
+        "N-444"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1352",
+      "ref": "N-1352",
+      "name": "Free Press Email Inquiry Target",
+      "type": "investigation_target",
+      "description": "Topic: episode-specific Rinzberg email regarding \"economics of high engagement political content\" on YouTube and podcasts, covering Israel, Charlie Kirk's death, and Becoming Breit.",
+      "related_artifacts": [
+        "A-1459.1"
+      ],
+      "related_claims": [
+        "C-1780"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-442"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1353",
+      "ref": "N-1353",
+      "name": "CBS News",
+      "type": "investigation_target",
+      "description": "Network where Bari Weiss was installed per Tim Dylan clip.",
+      "related_artifacts": [
+        "A-1460.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-444"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1768",
+      "ref": "C-1768",
+      "label": "Operation Valhalla Strike Held August 24–29, 2025 at Camp Ripley",
+      "claim": "A week-long training exercise named Operation Valhalla Strike was conducted by the 891st Squadron from Minot AFB at Camp Ripley Training Center in Minnesota from August 24 to August 29, 2025.",
+      "anchored_artifacts": [
+        "A-1451.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-438",
+        "N-1344",
+        "N-1348",
+        "N-1349",
+        "N-1350",
+        "N-448",
+        "N-449",
+        "N-450"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:24",
+      "investigative_direction": "Cross-check public DoD exercise announcements for the same date window; obtain Minot AFB public affairs archive."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1769",
+      "ref": "C-1769",
+      "label": "Operation Valhalla Training Focused on Ground Defense, Nuclear Security, and Long-Range Live Fire",
+      "claim": "Operation Valhalla Strike included air-based ground defense and nuclear security tactics, full-distance live fire exercises, rifle marksmanship and machine gun proficiency training.",
+      "anchored_artifacts": [
+        "A-1451.1"
+      ],
+      "related_nodes": [
+        "N-1349",
+        "N-1350",
+        "N-1344"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:24",
+      "investigative_direction": "Compare with official 891st MSFS mission description and any subsequent DoD releases."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1770",
+      "ref": "C-1770",
+      "label": "891st Squadron Is a Combined Military and Civilian Security Force",
+      "claim": "The 891st Missile Security Forces Squadron is described as a combined military and civilian security force supporting the 91st Missile Wing's Global Deterrence mission.",
+      "anchored_artifacts": [
+        "A-1451.1"
+      ],
+      "related_nodes": [
+        "N-1349",
+        "N-1348",
+        "N-1344"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:24",
+      "investigative_direction": "Verify against official USAF fact sheets."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1771",
+      "ref": "C-1771",
+      "label": "Charlie Kirk Identified Julius Caesar as a Favorite Pre-1850 Historical Figure",
+      "claim": "In a Prager News Network interview (date unspecified), Charlie Kirk named Jesus Christ first and then Julius Caesar among his favorite historical figures, citing Caesar's military conquests, civil war survival, and assassination by the people he benefited.",
+      "anchored_artifacts": [
+        "A-1452.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:47",
+      "investigative_direction": "Locate original PragerU upload date and full interview context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1772",
+      "ref": "C-1772",
+      "label": "Kash Patel Closed Press Conference with \"See You in Valhalla\" Reference to Charlie Kirk",
+      "claim": "At a press conference dated September 12, 2025, FBI Director Kash Patel closed by saying to Charlie Kirk: \"Lastly, to my friend Charlie Kirk, rest now, brother. We have the watch and I'll see you in Valhalla.\"",
+      "anchored_artifacts": [
+        "A-1453.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-438",
+        "N-1344"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:53",
+      "investigative_direction": "Compare to full Patel press conference record on FBI.gov or C-SPAN."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1773",
+      "ref": "C-1773",
+      "label": "BTT Aircraft Stopped at Minot, ND for Approximately One Hour on September 4, 2025",
+      "claim": "Per a military tipster email, the Egyptian military BTT aircraft stopped for approximately one hour at Minot, North Dakota on September 4, 2025 before continuing to Provo.",
+      "anchored_artifacts": [
+        "A-1454.1"
+      ],
+      "related_nodes": [
+        "N-438",
+        "N-1345",
+        "N-1348"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:34",
+      "investigative_direction": "Cross-reference with ADS-B / Flightradar24 historical data for the relevant tail number and date; verify Minot AFB transient aircraft logs via FOIA."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1774",
+      "ref": "C-1774",
+      "label": "Minot Has an Active Air Force Base and FBI Office",
+      "claim": "Per the military tipster email, Minot, North Dakota hosts both an Air Force base and an FBI office.",
+      "anchored_artifacts": [
+        "A-1454.1"
+      ],
+      "related_nodes": [
+        "N-1348"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:34",
+      "investigative_direction": "Verify via Minot AFB public site and FBI field office directory."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1775",
+      "ref": "C-1775",
+      "label": "891st MSFS Just Completed Operation Valhalla Before BTT's Minot Stopover",
+      "claim": "Per the military tipster email, the 891st MSFS had \"just come off of\" Operation Valhalla, a training exercise in Minnesota from August 24 to 29, immediately prior to BTT's September 4 stopover at Minot.",
+      "anchored_artifacts": [
+        "A-1454.1"
+      ],
+      "related_nodes": [
+        "N-438",
+        "N-1344",
+        "N-1345",
+        "N-1348",
+        "N-1349"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:30",
+      "investigative_direction": "Confirm exercise completion dates and any overlap with BTT's arrival window; determine whether the unit had returned to Minot by September 4."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1776",
+      "ref": "C-1776",
+      "label": "Nebraska Secretary of State Bob Evan Announced Egypt Trade Mission",
+      "claim": "On or around July 22, 2025, Nebraska Secretary of State Bob Evan announced a trade and investment mission to Egypt scheduled for October 26 through November 2.",
+      "anchored_artifacts": [
+        "A-1455.1"
+      ],
+      "related_nodes": [
+        "N-445",
+        "N-1347"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:13",
+      "investigative_direction": "Locate the original announcement on the Nebraska Secretary of State website or press release archive; identify participating delegates."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1777",
+      "ref": "C-1777",
+      "label": "Mike Huckabee and David Friedman Performed at a Jerusalem Event",
+      "claim": "Mike Huckabee and former U.S. Ambassador David Friedman performed \"Sweet Home Alabama\" (variation \"Sweet Home Jerusalem\") on stage in Jerusalem in October 2025.",
+      "anchored_artifacts": [
+        "A-1456.1"
+      ],
+      "related_nodes": [
+        "N-439",
+        "N-441"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:00",
+      "investigative_direction": "Identify the event organizer, venue, and date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1778",
+      "ref": "C-1778",
+      "label": "Mike Huckabee Met with Jonathan Pollard",
+      "claim": "Mike Huckabee met with Jonathan Pollard, a convicted Israeli spy who served 30 years in U.S. prison; Huckabee had previously advocated for Pollard's release.",
+      "anchored_artifacts": [
+        "A-1457.1"
+      ],
+      "related_nodes": [
+        "N-439",
+        "N-440"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:15",
+      "investigative_direction": "Identify the headline outlet and obtain the underlying interview/transcript from Pollard."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1779",
+      "ref": "C-1779",
+      "label": "White House Said It Was \"Not Aware\" of Huckabee–Pollard Meeting but Stands by Ambassador",
+      "claim": "White House Press Secretary Karoline Leavitt stated at a briefing that the White House was not aware of the Huckabee–Pollard meeting in advance, but that the President stands by the ambassador.",
+      "anchored_artifacts": [
+        "A-1458.1"
+      ],
+      "related_nodes": [
+        "N-439",
+        "N-440",
+        "N-446"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:14",
+      "investigative_direction": "Locate full White House briefing transcript or video."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1780",
+      "ref": "C-1780",
+      "label": "Free Press Writer Emailed Host Requesting Comment on Multiple Shows",
+      "claim": "Ashley Rinzberg, writing for The Free Press, emailed Candace Owens requesting comment on a piece about the \"economics of high engagement political content on YouTube and podcast platforms,\" specifically referencing claims about Israel, the death of Charlie Kirk, and the Becoming Breit series, along with five business-metric questions.",
+      "anchored_artifacts": [
+        "A-1459.1"
+      ],
+      "related_nodes": [
+        "N-7",
+        "N-442",
+        "N-1351",
+        "N-1352"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:33",
+      "investigative_direction": "Confirm whether the article was published and whether Rinzberg is correctly identified by the outlet's masthead."
+    }
+  ],
+  "memes": []
+}

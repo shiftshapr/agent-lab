@@ -1,0 +1,1149 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 136,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "e212815bd237d77e5c89e294f4374f950a75b0d1dfe19a747008a4f9ef4bfdb9",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2223",
+      "family_ref": "A-2223",
+      "bundle_name": "Mikey McCoy Arrival Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2223.1",
+          "ref": "A-2223.1",
+          "description": "Footage of Charlie Kirk exiting the SUV at UVU event, with empty glove pocket visible in rear door",
+          "related_claims": [
+            "C-3193"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-1",
+            "N-2170"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:26",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2224",
+      "family_ref": "A-2224",
+      "bundle_name": "Officer Bagley Preliminary Hearing Testimony Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2224.1",
+          "ref": "A-2224.1",
+          "description": "Testimony excerpt: unidentified plainclothes man with badge and handgun accompanied Bagley to Losi rooftop",
+          "related_claims": [
+            "C-3196",
+            "C-3197"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2171"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2224.2",
+          "ref": "A-2224.2",
+          "description": "Testimony excerpt: body cam footage ran 27 minutes 35 seconds and ended on the rooftop; Bagley states battery died",
+          "related_claims": [
+            "C-3195"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2172"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2225",
+      "family_ref": "A-2225",
+      "bundle_name": "Frank Turk Interview Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2225.1",
+          "ref": "A-2225.1",
+          "description": "Clip in which Frank Turk uses the phrase \"yanking and banking\" to describe arrival at hospital parking lot",
+          "related_claims": [
+            "C-3210"
+          ],
+          "related_nodes": [
+            "N-1212"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2226",
+      "family_ref": "A-2226",
+      "bundle_name": "Kash Patel Public Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2226.1",
+          "ref": "A-2226.1",
+          "description": "Statement that FBI agents arrived on UVU scene at 12:39 PM, 16 minutes after the 12:23 PM shooting",
+          "related_claims": [
+            "C-3194"
+          ],
+          "related_nodes": [
+            "N-1213"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2227",
+      "family_ref": "A-2227",
+      "bundle_name": "Bystander Rooftop Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2227.1",
+          "ref": "A-2227.1",
+          "description": "Bystander video timestamped 12:47 PM showing Officer Bagley and a second plainclothes man on the Losi rooftop",
+          "related_claims": [
+            "C-3198",
+            "C-3199",
+            "C-3200"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208",
+            "N-1214",
+            "N-1215",
+            "N-2171"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2228",
+      "family_ref": "A-2228",
+      "bundle_name": "USU Public Safety Social Media Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2228.1",
+          "ref": "A-2228.1",
+          "description": "USU Department of Public Safety Facebook announcement that Allan Robertson had joined the force",
+          "related_claims": [
+            "C-3201"
+          ],
+          "related_nodes": [
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2229",
+      "family_ref": "A-2229",
+      "bundle_name": "Brady List Website Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2229.1",
+          "ref": "A-2229.1",
+          "description": "Brady List entry for Allan E. Robertson; San Bernardino PD listed as not in compliance with Brady disclosure obligations; no offense details disclosed",
+          "related_claims": [
+            "C-3203",
+            "C-3204"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2173"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2230",
+      "family_ref": "A-2230",
+      "bundle_name": "CNN Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2230.1",
+          "ref": "A-2230.1",
+          "description": "CNN report that a senior US Central Command officer sent an email soliciting creative and unconventional ideas to pressure Iran",
+          "related_claims": [
+            "C-3205"
+          ],
+          "related_nodes": [
+            "N-2174"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2231",
+      "family_ref": "A-2231",
+      "bundle_name": "Erica Kirk Media Appearance Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2231.1",
+          "ref": "A-2231.1",
+          "description": "Erica Kirk clip stating her husband is not here to say whether or not to go to war with Iran, and that she personally does not want US boots on the ground",
+          "related_claims": [
+            "C-3206"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2232",
+      "family_ref": "A-2232",
+      "bundle_name": "Charlie Kirk Archived Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2232.1",
+          "ref": "A-2232.1",
+          "description": "Archived clip in which Charlie Kirk calls bombing Iranian nuclear facilities and a war with Iran \"pathologically insane\"",
+          "related_claims": [
+            "C-3207"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2232.2",
+          "ref": "A-2232.2",
+          "description": "Archived clip in which Charlie Kirk states \"This is Israel's war\" and references a list of prior US military interventions",
+          "related_claims": [
+            "C-3208"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2233",
+      "family_ref": "A-2233",
+      "bundle_name": "Nissi YouTube Analysis Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2233.1",
+          "ref": "A-2233.1",
+          "description": "YouTuber Nissi's analysis identifying the red-hat man from A-2227.1 as fitting Bagley's \"man with badge and pistol\" description, and noting Bagley's failure to mention that the red-hat man alerted him to the holster or that his body cam stopped running at a convenient moment",
+          "related_claims": [
+            "C-3197",
+            "C-3195"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1216",
+            "N-2171",
+            "N-2172"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2234",
+      "family_ref": "A-2234",
+      "bundle_name": "Muppet Masher X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2234.1",
+          "ref": "A-2234.1",
+          "description": "X post by Muppet Masher identifying the red-hat man in A-2227.1 as Allan Robertson and the blue-shirt man as Christopher Hawk",
+          "related_claims": [
+            "C-3199",
+            "C-3200"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-1214",
+            "N-1215"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2235",
+      "family_ref": "A-2235",
+      "bundle_name": "Allan Robertson LinkedIn Profile Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2235.1",
+          "ref": "A-2235.1",
+          "description": "LinkedIn profile listing Allan Robertson as USMC marksmanship instructor at Camp Pendleton, 2009–2014, and prior San Bernardino PD employment",
+          "related_claims": [
+            "C-3202"
+          ],
+          "related_nodes": [
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "UVU police officer who testified at preliminary hearing that he could not identify the plainclothes man who accompanied him to the Losi rooftop where the screwdriver was recovered; his body cam footage ended on the rooftop.",
+      "related_artifacts": [
+        "A-2224.1",
+        "A-2224.2",
+        "A-2227.1",
+        "A-2233.1"
+      ],
+      "related_claims": [
+        "C-3195",
+        "C-3196",
+        "C-3197",
+        "C-3198"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2171",
+        "N-2172"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Officer at USU PD identified by X user Muppet Masher as the plainclothes man on the Losi rooftop at 12:47 PM; previously USMC marksmanship instructor at Camp Pendleton (2009–2014) and San Bernardino PD officer; subject of a Brady List entry.",
+      "related_artifacts": [
+        "A-2227.1",
+        "A-2228.1",
+        "A-2229.1",
+        "A-2234.1",
+        "A-2235.1"
+      ],
+      "related_claims": [
+        "C-3199",
+        "C-3201",
+        "C-3202",
+        "C-3203"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2171",
+        "N-2173"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Filmmaker who recorded Kirk's final weeks, including the SUV arrival footage used to show the empty glove pocket in A-2223.1.",
+      "related_artifacts": [
+        "A-2223.1"
+      ],
+      "related_claims": [
+        "C-3193"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-2170"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Security operative described by host as the individual allegedly performing medical intervention (cutting shirt, jumping on gurney) in the SUV and ER; subject of host's questioning of Frank Turk in this episode.",
+      "related_artifacts": [
+        "A-2225.1"
+      ],
+      "related_claims": [
+        "C-3210"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1211",
+        "N-1212",
+        "N-2170"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Security operative described as the individual whose door pocket allegedly contained the recovered black gloves; described as holding Brian Harpole during the car ride.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1210",
+        "N-1212",
+        "N-2170"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Pastor and security-team member whose interview clip supplies the term \"yanking and banking\"; host pages him with unanswered questions about the gloves and Brian Harpole's actions.",
+      "related_artifacts": [
+        "A-2225.1"
+      ],
+      "related_claims": [
+        "C-3210"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1210",
+        "N-1211"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "FBI Director (per host framing) whose public statement supplies the 12:39 PM / 16-minute FBI arrival figure.",
+      "related_artifacts": [
+        "A-2226.1"
+      ],
+      "related_claims": [
+        "C-3194"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Individual identified by Muppet Masher as the blue-shirt man walking near the Losi rooftop alongside Allan Robertson.",
+      "related_artifacts": [
+        "A-2227.1",
+        "A-2234.1"
+      ],
+      "related_claims": [
+        "C-3200"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1215",
+        "N-2171"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "X account credited by host with first positively identifying the red-hat and blue-shirt men in the bystander rooftop footage.",
+      "related_artifacts": [
+        "A-2234.1"
+      ],
+      "related_claims": [
+        "C-3199",
+        "C-3200"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "YouTuber whose analysis questions Officer Bagley's preliminary-hearing testimony regarding body cam duration and the red-hat man's role.",
+      "related_artifacts": [
+        "A-2233.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1207",
+        "N-2171",
+        "N-2172"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Turning Point USA figure referenced in host's \"pregnancy brain\" framing; host also teases tomorrow's segment about hotel accommodations shared with Andrew Kovat and TPUSA staff.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2170",
+      "ref": "N-2170",
+      "name": "Missing Gloves Origin in SUV Door",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy: black gloves reportedly recovered from the rear-door pocket of the transport SUV, but Mikey McCoy's footage of Kirk's exit from that same vehicle shows the pocket as empty.",
+      "related_artifacts": [
+        "A-2223.1",
+        "A-2225.1"
+      ],
+      "related_claims": [
+        "C-3193"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1209",
+        "N-1210",
+        "N-1211"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2171",
+      "ref": "N-2171",
+      "name": "Officer Bagley Rooftop Companion Identification",
+      "type": "investigation_target",
+      "description": "Persistent gap: Officer Bagley testified he did not know the plainclothes man with a badge and handgun who accompanied him onto the Losi rooftop; bystander footage and online identification now tie that man to Allan Robertson (USU PD) and a second man to Christopher Hawk.",
+      "related_artifacts": [
+        "A-2224.1",
+        "A-2227.1",
+        "A-2233.1",
+        "A-2234.1"
+      ],
+      "related_claims": [
+        "C-3196",
+        "C-3197",
+        "C-3198",
+        "C-3199",
+        "C-3200"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1214",
+        "N-1215",
+        "N-1216"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2172",
+      "ref": "N-2172",
+      "name": "Body Cam Battery Failure Circumstances",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy: Officer Bagley states his body cam ended because the battery died while he was still on the rooftop; the device had run only 27 min 35 sec, and Nissi's analysis flags that the camera stopped running at a convenient moment relative to the rooftop discovery.",
+      "related_artifacts": [
+        "A-2224.2",
+        "A-2233.1"
+      ],
+      "related_claims": [
+        "C-3195"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-1216"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2173",
+      "ref": "N-2173",
+      "name": "Allan Robertson Brady List Entry / San Bernardino Transfer",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: Allan Robertson's Brady List entry, San Bernardino PD's documented non-compliance with Brady disclosure, and the apparent 2024 transfer from California to Utah.",
+      "related_artifacts": [
+        "A-2229.1"
+      ],
+      "related_claims": [
+        "C-3203",
+        "C-3204"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2174",
+      "ref": "N-2174",
+      "name": "US CentCom Iran Crowdsourcing Request",
+      "type": "investigation_target",
+      "description": "Investigative target: senior US Central Command officer's reported email soliciting \"creative and unconventional\" ideas to pressure Iran, sourced from CNN reporting.",
+      "related_artifacts": [
+        "A-2230.1"
+      ],
+      "related_claims": [
+        "C-3205"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3193",
+      "ref": "C-3193",
+      "label": "SUV glove pocket was empty when Charlie Kirk exited the vehicle at UVU",
+      "claim": "Mikey McCoy's arrival footage shows the rear-door pocket of the SUV as empty at the moment Charlie Kirk exited the vehicle, although black gloves were later recovered from that pocket.",
+      "anchored_artifacts": [
+        "A-2223.1"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1",
+        "N-2170"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:26",
+      "investigative_direction": "Cross-check the McCoy footage against police inventory records for the transport SUV and the official glove recovery chain of custody."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3194",
+      "ref": "C-3194",
+      "label": "FBI agents arrived at UVU at 12:39 PM, 16 minutes after the 12:23 PM shooting",
+      "claim": "Per a Kash Patel public statement played in the episode, the first FBI agents arrived at UVU with chiefs of police at 12:39 PM, 16 minutes after the 12:23 PM shooting, and secured the scene.",
+      "anchored_artifacts": [
+        "A-2226.1"
+      ],
+      "related_nodes": [
+        "N-1213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:11",
+      "investigative_direction": "Verify the 12:39 PM arrival timestamp against UVU campus entry logs, FBI case file timestamps, and Patel/Dan Bonino interview transcripts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3195",
+      "ref": "C-3195",
+      "label": "Officer Bagley's body cam ran 27 min 35 sec and ended on the Losi rooftop",
+      "claim": "Officer Bagley testified that his body cam footage began at the Hall of Flags and ran 27 minutes 35 seconds, ending while he was still on the rooftop and before crime tape was placed.",
+      "anchored_artifacts": [
+        "A-2224.2",
+        "A-2233.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2172"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:18",
+      "investigative_direction": "Obtain the body cam file metadata and manufacturer battery-life specifications to verify whether 27 minutes is plausible as a battery depletion event."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3196",
+      "ref": "C-3196",
+      "label": "Officer Bagley could not identify the plainclothes man who went with him to the Losi rooftop",
+      "claim": "Officer Bagley testified at the preliminary hearing that he did not know the identity, agency, or origin of the plainclothes individual wearing a badge and carrying a handgun who accompanied him up the Losi building stairs.",
+      "anchored_artifacts": [
+        "A-2224.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2171"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:33",
+      "investigative_direction": "Cross-reference Bagley's testimony against UVU campus credentialing logs and the bystander footage in A-2227.1."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3197",
+      "ref": "C-3197",
+      "label": "Plainclothes man on rooftop had a badge and a handgun",
+      "claim": "Officer Bagley confirmed under preliminary-hearing questioning that the second individual who accompanied him onto the Losi rooftop appeared to have a badge and was carrying a handgun.",
+      "anchored_artifacts": [
+        "A-2224.1",
+        "A-2233.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2171"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:33",
+      "investigative_direction": "Compare Bagley's badge-and-handgun description with the bystander footage to verify whether the same individual matches both Bagley's testimony and the visual identification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3198",
+      "ref": "C-3198",
+      "label": "Bystander footage at 12:47 PM shows Officer Bagley and a second plainclothes man on the Losi rooftop",
+      "claim": "Bystander footage timestamped 12:47 PM captured Officer Bagley and a second plainclothes man (red hat, bag with badge, backpack) on the Losi Center rooftop.",
+      "anchored_artifacts": [
+        "A-2227.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1214",
+        "N-2171"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:40",
+      "investigative_direction": "Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3199",
+      "ref": "C-3199",
+      "label": "Red-hat man on Losi rooftop identified as Allan Robertson of USU PD",
+      "claim": "Per an X post by Muppet Masher, the red-hat man visible in the 12:47 PM bystander footage was identified as Allan Robertson of the Utah State University Department of Public Safety.",
+      "anchored_artifacts": [
+        "A-2234.1",
+        "A-2227.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1215",
+        "N-2171"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:47",
+      "investigative_direction": "Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3200",
+      "ref": "C-3200",
+      "label": "Blue-shirt man on Losi rooftop identified as Christopher Hawk",
+      "claim": "Per the same Muppet Masher identification, the blue-shirt man walking near the Losi rooftop was identified as Christopher Hawk.",
+      "anchored_artifacts": [
+        "A-2234.1",
+        "A-2227.1"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-1215",
+        "N-2171"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:43",
+      "investigative_direction": "Verify Hawk's presence and role through credential records and follow-up witness interviews."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3201",
+      "ref": "C-3201",
+      "label": "Allan Robertson joined the USU police force the summer before the Kirk shooting",
+      "claim": "A USU Department of Public Safety Facebook announcement, displayed in the episode, states that Allan Robertson had joined the USU police force the summer prior to the September 2025 shooting.",
+      "anchored_artifacts": [
+        "A-2228.1"
+      ],
+      "related_nodes": [
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:47",
+      "investigative_direction": "Obtain the original Facebook post metadata (date, author) and corroborate with USU PD hiring records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3202",
+      "ref": "C-3202",
+      "label": "Allan Robertson was a US Marine Corps marksmanship instructor at Camp Pendleton, 2009–2014",
+      "claim": "Per Robertson's LinkedIn profile (verbally referenced), he served as a marksmanship instructor for the Marines at Camp Pendleton from 2009 to 2014 and was deployed in Afghanistan and humanitarian work in Japan.",
+      "anchored_artifacts": [
+        "A-2235.1"
+      ],
+      "related_nodes": [
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:23",
+      "investigative_direction": "Pull archived versions of the LinkedIn profile and cross-check against Marine Corps service records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3203",
+      "ref": "C-3203",
+      "label": "Allan E. Robertson has an entry on the Brady List website",
+      "claim": "The Brady List website contains an entry for Allan E. Robertson associated with San Bernardino Police Department.",
+      "anchored_artifacts": [
+        "A-2229.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2173"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:55",
+      "investigative_direction": "Obtain the underlying Brady disclosure record via CPRA / public records request to San Bernardino PD, or via prosecutorial discovery channels."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3204",
+      "ref": "C-3204",
+      "label": "San Bernardino Police Department is listed as not in compliance with Brady disclosure obligations",
+      "claim": "The Brady List website notes that San Bernardino PD is not in compliance with its Brady disclosure obligations, leaving offense details for officers (including Robertson) undisclosed.",
+      "anchored_artifacts": [
+        "A-2229.1"
+      ],
+      "related_nodes": [
+        "N-2173"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:55",
+      "investigative_direction": "Verify the non-compliance notation through Brady List's own documentation and California's Commission on Peace Officer Standards and Training (POST) records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3205",
+      "ref": "C-3205",
+      "label": "US Central Command officer emailed a request for creative and unconventional ideas to pressure Iran",
+      "claim": "A CNN report described an email from a senior US Central Command intelligence-branch officer, sent on a Wednesday to a broad group of military analysts, soliciting new creative and unconventional ideas for pressuring Iran.",
+      "anchored_artifacts": [
+        "A-2230.1"
+      ],
+      "related_nodes": [
+        "N-2174"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:33",
+      "investigative_direction": "Obtain the original CNN article and any underlying Pentagon / CENTCOM releases; identify the originating office and the recipient distribution list."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3194",
+      "ref": "C-3194",
+      "label": "is already inscribed above. Continuing the register.",
+      "claim": "",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": []
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3206",
+      "ref": "C-3206",
+      "label": "Erica Kirk stated she does not know what Charlie Kirk would think about war with Iran",
+      "claim": "In a media clip played during the episode, Erica Kirk stated that her husband is not here to say whether or not the US should be at war with Iran, and that she personally does not want US boots on the ground or American kinetic involvement.",
+      "anchored_artifacts": [
+        "A-2231.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:43",
+      "investigative_direction": "Locate the original media appearance (outlet, date, full context) and confirm the quote is unedited."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3207",
+      "ref": "C-3207",
+      "label": "Charlie Kirk called war with Iran \"pathologically insane\" in archived footage",
+      "claim": "Archived Charlie Kirk video clips played in the episode describe bombing Iranian nuclear facilities and going to war with Iran as \"pathologically insane.\"",
+      "anchored_artifacts": [
+        "A-2232.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:45",
+      "investigative_direction": "Locate the original source videos (date, outlet, full clip) to confirm context and that the clips are unedited."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3208",
+      "ref": "C-3208",
+      "label": "Charlie Kirk stated \"This is Israel's war\" in archived footage",
+      "claim": "An archived Charlie Kirk clip lists prior US military interventions and characterizes US confrontation with Iran as \"Israel's war.\"",
+      "anchored_artifacts": [
+        "A-2232.2"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:31",
+      "investigative_direction": "Source the original archived segment to verify date, venue, and full context of the statement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3209",
+      "ref": "C-3209",
+      "label": "Frank Turk claims he \"yanked and banked\" while the group arrived at the hospital parking lot",
+      "claim": "In a Frank Turk interview clip, Turk uses the phrase \"yanking and banking\" to describe what the group was doing as they pulled into the hospital parking lot with Kirk.",
+      "anchored_artifacts": [
+        "A-2225.1"
+      ],
+      "related_nodes": [
+        "N-1212"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:18",
+      "investigative_direction": "Obtain the full Frank Turk interview and clarify what \"yanking and banking\" refers to in context (procedure vs. colloquial expression)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3210",
+      "ref": "C-3210",
+      "label": "Nissi's analysis asserts Officer Bagley's testimony omits key interactions with the red-hat man",
+      "claim": "YouTuber Nissi's analysis asserts that Officer Bagley failed to mention (a) the red-hat man alerting him to the holster, (b) any pre-rooftop conversation with the red-hat man, and (c) the suspicious timing of his body cam stopping at a convenient moment.",
+      "anchored_artifacts": [
+        "A-2233.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1216",
+        "N-2171",
+        "N-2172"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:43",
+      "investigative_direction": "Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction."
+    }
+  ],
+  "memes": []
+}

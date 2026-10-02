@@ -1,0 +1,938 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 144,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "adca755f11f97530ce6adde89de991d04818ffab651baee8be2f4e7f2c5d59fc",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2301",
+      "family_ref": "A-2301",
+      "bundle_name": "Terrell Farnsworth Crime-Scene Laptop Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2301.1",
+          "ref": "A-2301.1",
+          "description": "Footage: Terrell accessing his laptop with an SD card after removing it from a camera at the crime scene",
+          "related_claims": [
+            "C-3313",
+            "C-3314"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:00–00:04:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2301.2",
+          "ref": "A-2301.2",
+          "description": "Footage: Terrell showing his laptop screen to Philip Goldsbury at the crime scene",
+          "related_claims": [
+            "C-3314"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:00–00:04:10",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2302",
+      "family_ref": "A-2302",
+      "bundle_name": "Ana Kasparian Interview Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2302.1",
+          "ref": "A-2302.1",
+          "description": "Audio: Ana Kasparian's question to Candace regarding Terrell never providing the original SD card to investigators",
+          "related_claims": [
+            "C-3315"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1215"
+          ],
+          "tags": [],
+          "video_timestamp": "00:04:20–00:04:50",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2303",
+      "family_ref": "A-2303",
+      "bundle_name": "Federal Court Employee Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2303.1",
+          "ref": "A-2303.1",
+          "description": "Email: Anonymous federal court employee stating that in every federal court they have worked in, video and photo evidence is never altered",
+          "related_claims": [
+            "C-3319"
+          ],
+          "related_nodes": [
+            "N-2210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:30–00:18:30",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2304",
+      "family_ref": "A-2304",
+      "bundle_name": "Preliminary Hearing Testimony Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2304.1",
+          "ref": "A-2304.1",
+          "description": "Audio: David Hull testimony stating investigators did not receive the physical SD card from Terrell",
+          "related_claims": [
+            "C-3316"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1215",
+            "N-2209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:30–00:19:30",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2304.2",
+          "ref": "A-2304.2",
+          "description": "Audio: Sergeant Mark Bricker (SBI) testimony stating the Utah County Attorney's Office created the 20-minute sizzle reel",
+          "related_claims": [
+            "C-3317"
+          ],
+          "related_nodes": [
+            "N-1212",
+            "N-2209",
+            "N-2210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:30–00:19:30",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2305",
+      "family_ref": "A-2305",
+      "bundle_name": "Aspect-Ratio Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2305.1",
+          "ref": "A-2305.1",
+          "description": "Video: 20-minute sizzle reel shown in court with modified (decreased) aspect ratio",
+          "related_claims": [
+            "C-3318",
+            "C-3320"
+          ],
+          "related_nodes": [
+            "N-2210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:30–00:17:30",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2305.2",
+          "ref": "A-2305.2",
+          "description": "Video: Slow-motion replay of the modified aspect-ratio footage",
+          "related_claims": [
+            "C-3318",
+            "C-3320"
+          ],
+          "related_nodes": [
+            "N-2210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:00–00:17:30",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2306",
+      "family_ref": "A-2306",
+      "bundle_name": "Andrew Kolvet / Blake Neff Podcast Audio Bundle (\"Beavis and Butt-Head\" show)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2306.1",
+          "ref": "A-2306.1",
+          "description": "Audio: Andrew Kolvet claiming Candace \"conceded the whole debate very early on multiple times\"",
+          "related_claims": [
+            "C-3321"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-1210",
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:30–00:28:00",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2306.2",
+          "ref": "A-2306.2",
+          "description": "Audio: Andrew Wilson defending Candace on the Hitler-clip interpretation, stating she was making a comparison to nationalism",
+          "related_claims": [
+            "C-3322"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-1210",
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:00–00:35:40",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2306.3",
+          "ref": "A-2306.3",
+          "description": "Audio: Blake Neff claiming Candace and Charlie Kirk were not friends after 2018/2019",
+          "related_claims": [
+            "C-3323"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-1210",
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:40–00:38:50",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2306.4",
+          "ref": "A-2306.4",
+          "description": "Audio: Andrew Kolvet recounting Candace saying she would \"burn down that organization\" if the wrong people took over TPUSA",
+          "related_claims": [
+            "C-3324",
+            "C-3325"
+          ],
+          "related_nodes": [
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:30–00:50:30",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2307",
+      "family_ref": "A-2307",
+      "bundle_name": "Charlie Kirk \"Team Candace\" Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2307.1",
+          "ref": "A-2307.1",
+          "description": "Video: Charlie Kirk in November 2023 stating \"Candace is on our team\" and rejecting a critic who asked why Candace still speaks at AmFest",
+          "related_claims": [
+            "C-3323"
+          ],
+          "related_nodes": [
+            "N-1216",
+            "N-1217"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:50–00:41:00",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2308",
+      "family_ref": "A-2308",
+      "bundle_name": "Candace–Kolvet Text/Call Log Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2308.1",
+          "ref": "A-2308.1",
+          "description": "Text messages between Candace and Andrew Kolvet dated September 11–14, 2025, discussing BB Netanyahu's letter, Charlie's text messages to Dan Flood, and a \"government hit\" framing",
+          "related_claims": [
+            "C-3324",
+            "C-3325"
+          ],
+          "related_nodes": [
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:00–00:54:00",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2308.2",
+          "ref": "A-2308.2",
+          "description": "Call log showing a 17-minute call between Candace and Andrew Kolvet on September 14, 2025",
+          "related_claims": [
+            "C-3325"
+          ],
+          "related_nodes": [
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:00–00:52:00",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2309",
+      "family_ref": "A-2309",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2309.1",
+          "ref": "A-2309.1",
+          "description": "Displayed comments from prior episode and current episode (Amy, Medina, Roll Tide in Vegas, Seven Sheets, Bigfoot Believer, Impact CPA, Capital T for Truth, Autumn, Thumbelina's Grace, Suburban Style, Simon Webster, Pri)",
+          "related_claims": [
+            "C-3313",
+            "C-3323"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:58:10–01:09:00",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Visual Impulse Productions operator who removed an SD card from a camera at the Charlie Kirk shooting scene and accessed it on his laptop within ~10 minutes of the shooting. Central figure in chain-of-custody inquiry.",
+      "related_artifacts": [
+        "A-2301.1",
+        "A-2301.2",
+        "A-2302.1",
+        "A-2304.1"
+      ],
+      "related_claims": [
+        "C-3313",
+        "C-3314",
+        "C-3315"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2209",
+        "N-2211"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Visual Impulse Productions staffer who miked Charlie Kirk for the final time and was consulted by Terrell on the laptop at the crime scene.",
+      "related_artifacts": [
+        "A-2301.2"
+      ],
+      "related_claims": [
+        "C-3314"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "TPUSA spokesperson and co-host of \"Beavis and Butt-Head\" podcast; presented multiple artifact-anchored claims in this episode.",
+      "related_artifacts": [
+        "A-2306.1",
+        "A-2306.2",
+        "A-2306.3",
+        "A-2306.4",
+        "A-2308.1",
+        "A-2308.2"
+      ],
+      "related_claims": [
+        "C-3321",
+        "C-3322",
+        "C-3324",
+        "C-3325"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Guest on the Kolvet/Neff podcast; articulated defense of Candace on the Hitler clip and challenged TPUSA's framing on air.",
+      "related_artifacts": [
+        "A-2306.1",
+        "A-2306.2"
+      ],
+      "related_claims": [
+        "C-3322"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Co-host of \"Beavis and Butt-Head\" podcast with Andrew Kolvet; presented claim that Candace and Charlie were not friends after 2018/2019.",
+      "related_artifacts": [
+        "A-2306.3"
+      ],
+      "related_claims": [
+        "C-3323"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Sergeant with SBI who testified at the preliminary hearing that the Utah County Attorney's Office created the 20-minute sizzle reel.",
+      "related_artifacts": [
+        "A-2304.2"
+      ],
+      "related_claims": [
+        "C-3317"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Interviewer whose question to Candace is referenced as an artifact within the episode.",
+      "related_artifacts": [
+        "A-2302.1"
+      ],
+      "related_claims": [
+        "C-3315"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "TPUSA-affiliated speaker whom Candace asked to substitute for her at a TPUSA event so she could travel to France with Kanye in late 2022.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Lead investigator who testified at the preliminary hearing that investigators never received the physical SD cards.",
+      "related_artifacts": [
+        "A-2304.1"
+      ],
+      "related_claims": [
+        "C-3316"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Charlie Kirk, referenced as the source of statements in A-2307.1 (\"Candace is on our team\") and as the deceased founder of TPUSA.",
+      "related_artifacts": [
+        "A-2307.1"
+      ],
+      "related_claims": [
+        "C-3323"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Erica Kirk, mentioned as having been voted in by the TPUSA board on September 14, 2025 per Andrew Kolvet's statement to Candace.",
+      "related_artifacts": [
+        "A-2308.1"
+      ],
+      "related_claims": [
+        "C-3325"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2209",
+      "ref": "N-2209",
+      "name": "SD Card Chain-of-Custody Investigation",
+      "type": "investigation_target",
+      "description": "Persistent target concerning the physical SD cards removed from Charlie Kirk's shooting scene and their disposition relative to investigators, the Utah County Attorney's Office, and SBI.",
+      "related_artifacts": [
+        "A-2301.1",
+        "A-2304.1",
+        "A-2304.2"
+      ],
+      "related_claims": [
+        "C-3315",
+        "C-3316"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1215"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2210",
+      "ref": "N-2210",
+      "name": "Aspect-Ratio Modification Investigation",
+      "type": "investigation_target",
+      "description": "Persistent target concerning who decreased the aspect ratio of the 20-minute sizzle reel presented at the preliminary hearing, and why.",
+      "related_artifacts": [
+        "A-2303.1",
+        "A-2304.2",
+        "A-2305.1",
+        "A-2305.2"
+      ],
+      "related_claims": [
+        "C-3317",
+        "C-3318",
+        "C-3320"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1212"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2211",
+      "ref": "N-2211",
+      "name": "Terrell Farnsworth Evidence-Handling Question",
+      "type": "investigation_target",
+      "description": "Persistent target concerning Terrell's stated intent, sequence of actions, and consultation with Philip Goldsbury in the immediate aftermath of the shooting.",
+      "related_artifacts": [
+        "A-2301.1",
+        "A-2301.2"
+      ],
+      "related_claims": [
+        "C-3314"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2212",
+      "ref": "N-2212",
+      "name": "Foreign / Israeli Angle Investigation",
+      "type": "investigation_target",
+      "description": "Persistent target concerning the BB Netanyahu letter, Charlie Kirk's alleged pull-back from pro-Israel stance, and Andrew Kolvet's contemporaneous briefings to Candace.",
+      "related_artifacts": [
+        "A-2308.1"
+      ],
+      "related_claims": [
+        "C-3324",
+        "C-3325"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1209"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3313",
+      "ref": "C-3313",
+      "label": "Terrell accessed an SD card on his laptop at the crime scene",
+      "claim": "Terrell Farnsworth inserted an SD card into his laptop and worked on it within approximately 10 minutes of Charlie Kirk being shot, as shown in episode footage.",
+      "anchored_artifacts": [
+        "A-2301.1",
+        "A-2301.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-2209",
+        "N-2211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:00–00:04:10",
+      "investigative_direction": "Obtain the original raw footage and forensic metadata to confirm SD-card insertion sequence; cross-reference with David Hull testimony on chain of custody."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3314",
+      "ref": "C-3314",
+      "label": "Terrell showed laptop content to Philip Goldsbury shortly after the shooting",
+      "claim": "Episode footage shows Terrell Farnsworth displaying content on his laptop screen to Philip Goldsbury approximately 10 minutes after Charlie Kirk's death.",
+      "anchored_artifacts": [
+        "A-2301.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-2211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:00–00:04:10",
+      "investigative_direction": "Identify and interview Philip Goldsbury regarding the content shown; obtain his contemporaneous account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3315",
+      "ref": "C-3315",
+      "label": "Terrell never provided the original SD card to investigators",
+      "claim": "Per David Hull's preliminary-hearing testimony referenced by Ana Kasparian, Terrell Farnsworth did not turn over the physical SD card to investigators; only Google links and a flash drive were provided.",
+      "anchored_artifacts": [
+        "A-2302.1",
+        "A-2304.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1213",
+        "N-1215",
+        "N-2209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:20–00:04:50",
+      "investigative_direction": "Confirm SD-card disposition against official evidence logs; subpoena physical media if it exists."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3316",
+      "ref": "C-3316",
+      "label": "David Hull testified investigators did not receive the SD cards",
+      "claim": "Lead investigator David Hull testified at the preliminary hearing that he did not receive the physical SD cards taken from the scene.",
+      "anchored_artifacts": [
+        "A-2304.1"
+      ],
+      "related_nodes": [
+        "N-1215",
+        "N-2209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:30–00:19:30",
+      "investigative_direction": "Obtain the preliminary-hearing transcript and confirm testimony verbatim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3317",
+      "ref": "C-3317",
+      "label": "Mark Bricker testified the Utah County Attorney's Office created the 20-minute sizzle reel",
+      "claim": "SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office — not the court — created the 20-minute sizzle reel shown in court.",
+      "anchored_artifacts": [
+        "A-2304.2"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-2209",
+        "N-2210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:30–00:19:30",
+      "investigative_direction": "Obtain Bricker's full preliminary-hearing testimony; request the prosecution's production logs and version history for the sizzle reel."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3318",
+      "ref": "C-3318",
+      "label": "The 20-minute sizzle reel has a decreased (modified) aspect ratio",
+      "claim": "The aspect ratio of the 20-minute sizzle reel shown at the preliminary hearing was decreased relative to the source footage, as demonstrated in the episode by normal-speed and slow-motion display.",
+      "anchored_artifacts": [
+        "A-2305.1",
+        "A-2305.2"
+      ],
+      "related_nodes": [
+        "N-2210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:30–00:17:30",
+      "investigative_direction": "Have a forensic video analyst compare the sizzle reel against raw UVU surveillance footage to quantify the aspect-ratio shift."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3319",
+      "ref": "C-3319",
+      "label": "Anonymous federal-court employee stated federal courts do not alter video evidence",
+      "claim": "Per an email from an anonymous federal-court employee read on air, video and photo evidence is never altered in any federal court the employee has worked in, because alteration would prejudice the jury.",
+      "anchored_artifacts": [
+        "A-2303.1"
+      ],
+      "related_nodes": [
+        "N-2210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:30–00:18:30",
+      "investigative_direction": "Verify the email's authenticity through metadata; corroborate with court policy documentation. Treat as anonymous-source claim pending verification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3320",
+      "ref": "C-3320",
+      "label": "Host presents the decreased aspect ratio as the prosecution's doing, not the court's",
+      "claim": "The host asserts that the entity which decreased the aspect ratio was the prosecution (Utah County Attorney's Office), the FBI, or another party — but not the court itself.",
+      "anchored_artifacts": [
+        "A-2304.2",
+        "A-2305.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-2210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:30–00:20:30",
+      "investigative_direction": "Trace the production chain of the sizzle reel through prosecution discovery logs; identify all parties with custody between raw footage and exhibit."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3321",
+      "ref": "C-3321",
+      "label": "Andrew Kolvet claimed Candace conceded the debate",
+      "claim": "On the Kolvet/Neff podcast, Andrew Kolvet stated that Candace conceded the debate early and repeatedly and predicted the loss would \"age well\" for him.",
+      "anchored_artifacts": [
+        "A-2306.1"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1210",
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:30–00:28:00",
+      "investigative_direction": "Compare this characterization to a transcript of the debate Candace participated in; identify specific concessions alleged."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3322",
+      "ref": "C-3322",
+      "label": "Andrew Wilson defended Candace on the Hitler-clip interpretation",
+      "claim": "On the Kolvet/Neff podcast, Andrew Wilson stated that after reviewing the clip he concluded Candace was making a nationalism comparison rather than apologizing for Hitler, and pushed back on Blake Neff's framing.",
+      "anchored_artifacts": [
+        "A-2306.2"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1210",
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:00–00:35:40",
+      "investigative_direction": "Locate the original Candace clip being referenced; transcribe the full segment in context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3323",
+      "ref": "C-3323",
+      "label": "Charlie Kirk stated in November 2023 that Candace is \"on our team\"",
+      "claim": "A November 2023 clip of Charlie Kirk shows him saying Candace is \"on our team\" and telling a critic asking about her AmFest appearance to \"lose my number.\"",
+      "anchored_artifacts": [
+        "A-2307.1"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1211",
+        "N-1216"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:50–00:41:00",
+      "investigative_direction": "Obtain the full unedited segment; note any surrounding context that may complicate the read."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3324",
+      "ref": "C-3324",
+      "label": "Andrew Kolvet briefed Candace on Bill Aman summit, BB Netanyahu letter, and Charlie's texts to Dan Flood",
+      "claim": "Text messages and calls between Candace and Andrew Kolvet from September 11–14, 2025 show Kolvet briefing Candace on the Bill Aman summit, the BB Netanyahu letter, and Charlie Kirk's text messages to Dan Flood the night before.",
+      "anchored_artifacts": [
+        "A-2308.1",
+        "A-2308.2"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-2212"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:00–00:54:00",
+      "investigative_direction": "Preserve the original text-message exports with metadata; obtain contemporaneous corroboration from other TPUSA insiders if available."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3325",
+      "ref": "C-3325",
+      "label": "Kolvet told Candace on September 14, 2025 that the TPUSA board had voted in Erica Kirk",
+      "claim": "Per text/call artifacts, Andrew Kolvet told Candace on September 14, 2025 that the TPUSA board had already voted in Erica Kirk to take over the organization, and asked her not to announce it yet.",
+      "anchored_artifacts": [
+        "A-2308.1",
+        "A-2308.2"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1217",
+        "N-2212"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:00–00:54:00",
+      "investigative_direction": "Cross-reference with TPUSA corporate filings, board minutes, and Erica Kirk's public statements around the leadership transition."
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,766 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 57,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "9d571c5e39368da2d0dcbf89e5a2db6cd0af4a443b631215c547c80343eab731",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode centers on Candace Owens's presentation of three external source bundles — a YouTube channel called \"Be Inspired\" discussing Project Looking Glass / Y2K / Mandela Effect / The Matrix parallels; a written article plus accompanying video about a purported \"satanic human sacrifice\" staged at CERN's Large Hadron Collider grounds (with CERN's \"prank\" response); and a Daily Wire parody video dropped on Candace's old social media accounts that she characterizes as gangstalking. A short Mike Pompeo interview clip on framing history books regarding Gaza is also presented. The host uses these artifacts to advance a broader interpretive thesis about pre-2012 timeline convergence, the spiritual nature of elite conflict, and Charlie Kirk's apparent foreknowledge of his own death.\n\nMost evidentiary weight in this episode is carried by the Be Inspired clip and the CERN coverage; the Pompeo clip and Daily Wire video are presented as secondary supporting material. The episode references (but does not display in this episode) prior text-message artifacts involving Charlie Kirk that were shown in earlier episodes.\n\nThe structural importance of this episode lies in: (1) introducing the Project Looking Glass / 2012-bottleneck framework that the host explicitly links to Charlie's death; (2) presenting the CERN ritual claim as further corroboration of a satanic-scientific conspiracy thesis; and (3) flagging the Daily Wire video as part of an alleged ongoing \"stalking\" pattern.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1628",
+      "family_ref": "A-1628",
+      "bundle_name": "Be Inspired YouTube Channel Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1628.1",
+          "ref": "A-1628.1",
+          "description": "Be Inspired clip — Y2K intro and Mandela Effect segment",
+          "related_claims": [
+            "C-2097",
+            "C-2098",
+            "C-2099"
+          ],
+          "related_nodes": [
+            "N-1484",
+            "N-720"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:22–00:09:57",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1628.2",
+          "ref": "A-1628.2",
+          "description": "Be Inspired clip — Project Looking Glass segment with Bill Wood testimony",
+          "related_claims": [
+            "C-2097",
+            "C-2098"
+          ],
+          "related_nodes": [
+            "N-1484",
+            "N-720"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:05–00:15:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1628.3",
+          "ref": "A-1628.3",
+          "description": "Be Inspired clip — The Matrix / 2012 convergence / CIA document segment",
+          "related_claims": [
+            "C-2098",
+            "C-2099"
+          ],
+          "related_nodes": [
+            "N-1484"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:07–00:18:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1629",
+      "family_ref": "A-1629",
+      "bundle_name": "CERN Ritual Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1629.1",
+          "ref": "A-1629.1",
+          "description": "Article: \"CERN discovers satanic human sacrifice taking place at the Large Hadron Collider grounds\" (read verbatim by host)",
+          "related_claims": [
+            "C-2100",
+            "C-2101"
+          ],
+          "related_nodes": [
+            "N-1485"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:29–00:37:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1630",
+      "family_ref": "A-1630",
+      "bundle_name": "CERN Ritual Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1630.1",
+          "ref": "A-1630.1",
+          "description": "Video footage of cloaked figures in black robes encircling a woman in white at a large statue (described by host; recording by insider, posted by YouTuber)",
+          "related_claims": [
+            "C-2100",
+            "C-2101"
+          ],
+          "related_nodes": [
+            "N-1485"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:17–00:39:04",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1631",
+      "family_ref": "A-1631",
+      "bundle_name": "Daily Wire Egyptian Airways Parody Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1631.1",
+          "ref": "A-1631.1",
+          "description": "Daily Wire video dropped on Candace's old socials: Egyptian Airways parody ad with highlighted words \"watched,\" \"followed,\" \"we will follow\" and a plane bursting into flames",
+          "related_claims": [
+            "C-2102"
+          ],
+          "related_nodes": [
+            "N-1487",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:52–00:42:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1632",
+      "family_ref": "A-1632",
+      "bundle_name": "Pompeo Gaza History Book Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1632.1",
+          "ref": "A-1632.1",
+          "description": "Mike Pompeo interview segment on framing history books regarding Gaza",
+          "related_claims": [
+            "C-2103"
+          ],
+          "related_nodes": [
+            "N-721"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:34–00:44:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1633",
+      "family_ref": "A-1633",
+      "bundle_name": "Charlie Kirk Text Message Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1633.1",
+          "ref": "A-1633.1",
+          "description": "Text message exchange in which Charlie Kirk told Candace he was a time traveler (shown in earlier episodes; referenced in this episode)",
+          "related_claims": [
+            "C-2104"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1633.2",
+          "ref": "A-1633.2",
+          "description": "Text message from Charlie Kirk quoted by host: \"I'm not allowed to go anywhere. I feel so important\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1",
+            "N-1486"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1634",
+      "family_ref": "A-1634",
+      "bundle_name": "Comment Section Read-Aloud Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1634.1",
+          "ref": "A-1634.1",
+          "description": "Read-aloud comment from \"Carly\" (previous episode): father was an MP in 1982 investigating pentagrams on a military base, later forced off child-abuse investigation",
+          "related_claims": [
+            "C-2106"
+          ],
+          "related_nodes": [
+            "N-726"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:28–00:48:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1634.2",
+          "ref": "A-1634.2",
+          "description": "Read-aloud comment from \"Marzy\" (today's episode): claim that ICE agents receive training and recruitment from Israel/IDF",
+          "related_claims": [
+            "C-2107"
+          ],
+          "related_nodes": [
+            "N-727"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1634.3",
+          "ref": "A-1634.3",
+          "description": "Read-aloud comment from \"Anderson\" (today's episode): personal testimony about sleep paralysis (\"hatman shadow man\"), being in a \"gate\" program as a child, and being given the \"pink drink\" (fluoride)",
+          "related_claims": [],
+          "related_nodes": [
+            "N-728"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:53:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-722",
+      "ref": "N-722",
+      "name": "Node 722",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-723",
+      "ref": "N-723",
+      "name": "Node 723",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-725",
+      "ref": "N-725",
+      "name": "Node 725",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-728",
+      "ref": "N-728",
+      "name": "Be Inspired YouTube Channel Clip Bundle",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-720",
+      "ref": "N-720",
+      "name": "Bill Wood",
+      "type": "person",
+      "description": "Former Navy Seal with high-level clearance; Project Camelot interviewee whose testimony about Project Looking Glass is the central source in the Be Inspired clip.",
+      "related_artifacts": [
+        "A-1628.2"
+      ],
+      "related_claims": [
+        "C-2097"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1484"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-721",
+      "ref": "N-721",
+      "name": "Mike Pompeo",
+      "type": "person",
+      "description": "Former US Secretary of State / CIA director; presents in A-1632.1 advocating framing of Gaza history in textbooks to favor Israeli narrative.",
+      "related_artifacts": [
+        "A-1632.1"
+      ],
+      "related_claims": [
+        "C-2103"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-724",
+      "ref": "N-724",
+      "name": "Bill Montgomery",
+      "type": "person",
+      "description": "Referenced by host as deceased military figure; alleged to have co-founded Turning Point USA with Charlie Kirk and to have orchestrated Charlie's early \"Schaefer security.\"",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-726",
+      "ref": "N-726",
+      "name": "Carly",
+      "type": "person",
+      "description": "Commenter (previous episode); daughter of an MP who allegedly investigated pentagrams on a US military base in 1982.",
+      "related_artifacts": [
+        "A-1634.1"
+      ],
+      "related_claims": [
+        "C-2106"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-727",
+      "ref": "N-727",
+      "name": "Marzy",
+      "type": "person",
+      "description": "Commenter (today's episode); raises ICE/IDF training claim that the host then discusses.",
+      "related_artifacts": [
+        "A-1634.2"
+      ],
+      "related_claims": [
+        "C-2107"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1484",
+      "ref": "N-1484",
+      "name": "Project Looking Glass Allegation",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: claim that a US military/CIA device capable of viewing future timelines was shut down after 2012 convergence; supported by whistleblower Bill Wood testimony and a referenced CIA document.",
+      "related_artifacts": [
+        "A-1628.1",
+        "A-1628.2",
+        "A-1628.3"
+      ],
+      "related_claims": [
+        "C-2097",
+        "C-2098",
+        "C-2099"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-720"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1485",
+      "ref": "N-1485",
+      "name": "CERN Satantic Ritual Claim",
+      "type": "investigation_target",
+      "description": "Investigative target: episode's presentation of a \"satanic human sacrifice\" at CERN grounds, CERN's \"prank\" framing, and host's challenge to that framing.",
+      "related_artifacts": [
+        "A-1629.1",
+        "A-1630.1"
+      ],
+      "related_claims": [
+        "C-2100",
+        "C-2101"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1486",
+      "ref": "N-1486",
+      "name": "Charlie Kirk Premonition Pattern",
+      "type": "investigation_target",
+      "description": "Persistent investigative target across the series: Charlie Kirk's alleged foreknowledge (via text messages to Candace) that he would die young and that his death would relate to Turning Point USA.",
+      "related_artifacts": [
+        "A-1633.1",
+        "A-1633.2"
+      ],
+      "related_claims": [
+        "C-2104",
+        "C-2105"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1487",
+      "ref": "N-1487",
+      "name": "Daily Wire Stalking Pattern",
+      "type": "investigation_target",
+      "description": "Investigative target: ongoing alleged \"gangstalking\" pattern by Daily Wire against Candace Owens, with the Egyptian Airways parody video (A-1631.1) cited as the latest escalation.",
+      "related_artifacts": [
+        "A-1631.1"
+      ],
+      "related_claims": [
+        "C-2102"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2097",
+      "ref": "C-2097",
+      "label": "Project Looking Glass described as future-timeline viewing device shut down at 2012 convergence",
+      "claim": "The Be Inspired clip (A-1628.2) presents whistleblower Bill Wood's account that the US military operated a device called Project Looking Glass that could view potential future timelines and was shut down because all timelines converged on December 21, 2012.",
+      "anchored_artifacts": [
+        "A-1628.2"
+      ],
+      "related_nodes": [
+        "N-720",
+        "N-1484",
+        "N-724",
+        "N-722",
+        "N-723",
+        "N-725",
+        "N-728"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:05",
+      "investigative_direction": "Locate the original Project Camelot interview with Bill Wood; check declassified military/CIA records and FOIA releases for any program matching the description."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2098",
+      "ref": "C-2098",
+      "label": "CIA document explores consciousness moving through time",
+      "claim": "The Be Inspired clip (A-1628.3) references a CIA-released document that explores consciousness as something that can move through time outside the physical world, including remote viewing and timelines.",
+      "anchored_artifacts": [
+        "A-1628.3"
+      ],
+      "related_nodes": [
+        "N-1484"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:12",
+      "investigative_direction": "Locate the referenced CIA document in the CIA FOIA reading room or CREST archive; identify its actual title, declassification date, and contents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2099",
+      "ref": "C-2099",
+      "label": "Host concurs that The Matrix parallels Project Looking Glass / simulated-reality themes",
+      "claim": "The host endorses the Be Inspired clip's framing that The Matrix (1999 release) parallels Project Looking Glass themes about reality being shaped or simulated and timelines being fixed.",
+      "anchored_artifacts": [
+        "A-1628.3"
+      ],
+      "related_nodes": [
+        "N-1484"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:07",
+      "investigative_direction": "Compare The Matrix's documented production context (Wachowskis, 1999) with declassified Project Looking Glass timeline; separately assess the host's adjacent claim that \"the script for The Matrix was stolen allegedly.\""
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2100",
+      "ref": "C-2100",
+      "label": "Article describes satanic human sacrifice staged at CERN Large Hadron Collider grounds",
+      "claim": "An article read verbatim in the episode describes a \"satanic human sacrifice\" staged on the grounds of CERN's Large Hadron Collider, featuring cloaked figures in black robes circling a woman in white before she is stabbed.",
+      "anchored_artifacts": [
+        "A-1629.1",
+        "A-1630.1"
+      ],
+      "related_nodes": [
+        "N-1485"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:29",
+      "investigative_direction": "Identify the YouTuber who originally published the video; verify the date and circumstances of the alleged incident; determine whether any criminal investigation was opened."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2101",
+      "ref": "C-2101",
+      "label": "CERN spokesperson characterized the ritual as a \"prank\"",
+      "claim": "The episode presents that a CERN spokesperson characterized the staged ritual as a \"prank\" and expressed concern about unauthorized recording and publication.",
+      "anchored_artifacts": [
+        "A-1629.1"
+      ],
+      "related_nodes": [
+        "N-1485"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:29",
+      "investigative_direction": "Locate CERN's official statement on the incident; identify the spokesperson and the date of the statement; determine whether the woman depicted has been identified."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2102",
+      "ref": "C-2102",
+      "label": "Daily Wire video uses \"watched\"/\"followed\"/\"we will follow\" language with Candace's face",
+      "claim": "A Daily Wire video dropped on Candace Owens's old social media accounts presents an Egyptian Airways parody using her face and including highlighted text \"watched,\" \"followed,\" and \"we will follow,\" followed by imagery of a plane bursting into flames.",
+      "anchored_artifacts": [
+        "A-1631.1"
+      ],
+      "related_nodes": [
+        "N-1487",
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:52",
+      "investigative_direction": "Locate the Daily Wire video directly on its original publication platform; verify the date it was posted on Candace's social media accounts; confirm whether it was targeted specifically at her."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2103",
+      "ref": "C-2103",
+      "label": "Pompeo advocates history-book framing that excludes Gaza victim focus",
+      "claim": "Mike Pompeo is presented stating that future history books must not focus on \"the victims of Gaza\" but instead should frame Israel as the aggrieved party and Iran/Hamas as the aggressor, and that this requires real-time shaping of how adults talk to children about the war.",
+      "anchored_artifacts": [
+        "A-1632.1"
+      ],
+      "related_nodes": [
+        "N-721"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:34",
+      "investigative_direction": "Identify the original Pompeo interview (publication, host, date) and watch in full context; verify whether the quoted framing matches the full statement; check whether accompanying applause is from a single event or edited."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2104",
+      "ref": "C-2104",
+      "label": "Charlie Kirk told Candace Owens via text message he was a time traveler",
+      "claim": "The host references (from earlier episodes, via prior text-message display) a text exchange in which Charlie Kirk told Candace Owens he was a time traveler and that he had to \"find\" her.",
+      "anchored_artifacts": [
+        "A-1633.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1486"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:53",
+      "investigative_direction": "Locate the specific text messages in the earlier episode(s) where they were displayed; capture exact wording and date stamps."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2105",
+      "ref": "C-2105",
+      "label": "Charlie Kirk asserted his death would relate to Turning Point USA",
+      "claim": "The host presents Charlie Kirk's assertion (via referenced text messages) that from the moment he signed onto Turning Point USA, he knew he would die young and that his death would be related to Turning Point USA.",
+      "anchored_artifacts": [
+        "A-1633.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1486"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:33",
+      "investigative_direction": "Locate the specific text messages in which Charlie makes this claim; verify the timing relative to TPUSA founding (2012) and Charlie's death."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2106",
+      "ref": "C-2106",
+      "label": "Carly's father was an MP investigating pentagrams on a military base in 1982",
+      "claim": "Read-aloud commenter Carly presents testimony that her father was a Military Police officer stationed with \"Lieutenant Aquino\" in 1982, was investigating pentagrams on the base, and was forced off a subsequent child-abuse investigation under the rationale \"MPs don't investigate felonies.\"",
+      "anchored_artifacts": [
+        "A-1634.1"
+      ],
+      "related_nodes": [
+        "N-726"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:28",
+      "investigative_direction": "Identify the military base, the \"Lieutenant Aquino\" referenced, and whether any contemporaneous investigation records (1982-era) can corroborate the pentagram and child-abuse investigation claims."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2107",
+      "ref": "C-2107",
+      "label": "ICE agents receive training and recruitment from Israel / IDF",
+      "claim": "Read-aloud commenter Marzy presents the claim that ICE agents receive training and recruitment directly from Israel via the IDF.",
+      "anchored_artifacts": [
+        "A-1634.2"
+      ],
+      "related_nodes": [
+        "N-727"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:51",
+      "investigative_direction": "Verify any documented ICE–Israeli-government training partnerships; check DHS, ICE, and Israeli Ministry of Public Security public records for formal training agreements."
+    }
+  ],
+  "memes": []
+}

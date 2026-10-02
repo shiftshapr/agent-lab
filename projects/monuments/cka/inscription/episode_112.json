@@ -1,0 +1,21 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 112,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "a316d7453a384cbd49985112bbc5db6432257f1fd1bc2e359ce7d4447e782b63",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Episode 112 covers: Dana Loesch's X crashout defending her WLS 'widow' scripture speech; Dana's own audio clip confirming Erika Kirk left WLS early; Candace's unanswered emails to TPUSA executives seeking confirmation the WLS appointment video is not doctored; FOIA trail showing NSA redirect to Department of War and 'burden too heavy' rejection; Ivanka Trump David Senra podcast clip describing 'discovering' Sazan Island from a friend's boat; Albanian news clip of four days of protests against Kushner's Affinity Partners project and anti-corruption investigation; Tim Dylan commentary clip on Trump family; and US Weekly 24-hour press email and Candace's X post exposing the pre-written TPUSA hit piece.",
+  "artifacts": [],
+  "nodes": [],
+  "claims": [],
+  "memes": []
+}

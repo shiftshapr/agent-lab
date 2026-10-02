@@ -1,0 +1,1251 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 81,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "d1ee383a35dcc78f44448bfd05192752c07b8dad1bd660ea78d735058d0f0c43",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode advances the Bride of Charlie investigation by presenting two principal evidentiary strands concerning the events of September 10, 2025 (the day of Charlie Kirk's assassination) and the immediate aftermath.\n\nThe first strand centers on Joe Kent's claims, made on Tucker Carlson, that the FBI/National Counterterrorism Center was stopped from continuing to investigate Charlie Kirk's death. The episode captures Andrew Kolvet's on-air admission that he provided a private group-chat text dump to Joe Kent, then claims Kolvet later declined to publish those texts when Kent suggested it. Alex Clark, Jack Posobiec, and Laura Loomer X posts are read aloud, establishing the public pressure campaign against Kent and the accusation that he leaked material specifically to harm Erika Kirk.\n\nThe second strand reconstructs Andrew Kolvet's location on September 10 via a displayed PR text chain (Kolvet, Justin Strief, Marina Medvin, Aubrey) and an on-screen calendar graphic. The text chain shows Kolvet reporting \"this just loaded\" after a ~2-hour absence, while Medvin simultaneously routes death-statement drafting to a 26-year-old employee because Andrew is \"on a plane.\" The episode cross-positions this with Egyptian-plane transponding data and the Wyre sponsor plane's route. A Blake Neff audio clip (\"I put that phone away\") and a Joe Rogan podcast segment on Erika Kirk are also introduced as supporting artifacts.\n\nInvestigatively, the episode converts previously rhetorical claims about Kolvet's solo plane flight into a specific timeline-anchored discrepancy that can be tested against FAA/flight records.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1877",
+      "family_ref": "A-1877",
+      "bundle_name": "Tucker Carlson / Joe Kent Interview Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1877.1",
+          "ref": "A-1877.1",
+          "description": "Joe Kent on Tucker Carlson: FBI stopped NCTC from continuing investigation",
+          "related_claims": [
+            "C-2525",
+            "C-2526"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:20–00:03:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1877.2",
+          "ref": "A-1877.2",
+          "description": "Joe Kent on Tucker Carlson: West Wing encounter with Charlie Kirk re: Iran",
+          "related_claims": [
+            "C-2526"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1878",
+      "family_ref": "A-1878",
+      "bundle_name": "Andrew Kolvet on Charlie Kirk Radio Show Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1878.1",
+          "ref": "A-1878.1",
+          "description": "Kolvet admits providing text-message group-chat to Joe Kent",
+          "related_claims": [
+            "C-2531"
+          ],
+          "related_nodes": [
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:30–00:11:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1878.2",
+          "ref": "A-1878.2",
+          "description": "Kolvet states Joe Kent suggested making texts public; Kolvet declined",
+          "related_claims": [
+            "C-2532"
+          ],
+          "related_nodes": [
+            "N-1208"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:16–00:12:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1879",
+      "family_ref": "A-1879",
+      "bundle_name": "Alex Clark X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1879.1",
+          "ref": "A-1879.1",
+          "description": "Alex Clark X post accusing Joe Kent of degrading Erika",
+          "related_claims": [
+            "C-2528"
+          ],
+          "related_nodes": [
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1880",
+      "family_ref": "A-1880",
+      "bundle_name": "Jack Posobiec / Laura Loomer X Exchange Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1880.1",
+          "ref": "A-1880.1",
+          "description": "Jack Posobiec X post listing Joe Kent's military credentials",
+          "related_claims": [
+            "C-2529"
+          ],
+          "related_nodes": [
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:26–00:07:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1880.2",
+          "ref": "A-1880.2",
+          "description": "Laura Loomer X reply accusing Kent of leaking to Candace to harm Erika",
+          "related_claims": [
+            "C-2530"
+          ],
+          "related_nodes": [
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:00–00:07:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1881",
+      "family_ref": "A-1881",
+      "bundle_name": "September 10, 2025 PR Text Chain Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1881.1",
+          "ref": "A-1881.1",
+          "description": "PR group-chat text messages (Kolvet, Strief, Medvin/Minas, Aubrey) Sept 10",
+          "related_claims": [
+            "C-2533",
+            "C-2534",
+            "C-2535",
+            "C-2536"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-1212",
+            "N-1213",
+            "N-1214",
+            "N-1620"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:46–00:28:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1881.2",
+          "ref": "A-1881.2",
+          "description": "On-screen calendar graphic consolidating Sept 10 timeline with Egyptian-plane transponding overlay",
+          "related_claims": [
+            "C-2537",
+            "C-2538"
+          ],
+          "related_nodes": [
+            "N-1622"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:39–00:31:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1882",
+      "family_ref": "A-1882",
+      "bundle_name": "Blake Neff Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1882.1",
+          "ref": "A-1882.1",
+          "description": "Blake Neff describes call to mother; phrase \"I put that phone away\"",
+          "related_claims": [
+            "C-2539"
+          ],
+          "related_nodes": [
+            "N-1215",
+            "N-1623"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1883",
+      "family_ref": "A-1883",
+      "bundle_name": "Joe Rogan Podcast Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1883.1",
+          "ref": "A-1883.1",
+          "description": "Joe Rogan discusses Erika Kirk: CIA documentary appearance, pageant background",
+          "related_claims": [
+            "C-2540"
+          ],
+          "related_nodes": [
+            "N-1218"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:59–00:43:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1884",
+      "family_ref": "A-1884",
+      "bundle_name": "Mark Levin / Eton Fishberger X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1884.1",
+          "ref": "A-1884.1",
+          "description": "Mark Levin X post questioning Erika's video as AI / \"total disgrace\"",
+          "related_claims": [
+            "C-2541"
+          ],
+          "related_nodes": [
+            "N-1219"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1884.2",
+          "ref": "A-1884.2",
+          "description": "Eton Fishberger X post calling Joe Rogan's segment \"sick stuff\"",
+          "related_claims": [
+            "C-2542"
+          ],
+          "related_nodes": [
+            "N-1220"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:46–00:44:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1885",
+      "family_ref": "A-1885",
+      "bundle_name": "Viewer Comments Bundle (from prior episode, read in this episode)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1885.1",
+          "ref": "A-1885.1",
+          "description": "\"Betty\" comment: Erika seeking spotlight compared to Ben Shapiro / Israel",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:17–00:48:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1885.2",
+          "ref": "A-1885.2",
+          "description": "\"Ted Bundy's ghost\" comment: reality show applications contradict limelight denial",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:30–00:49:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Former Director of the National Counterterrorism Center; resigned and gave Tucker Carlson interview claiming FBI halted NCTC investigation into Charlie Kirk's assassination. Subject of attacks from TPUSA-aligned voices after the interview.",
+      "related_artifacts": [
+        "A-1877.1",
+        "A-1877.2",
+        "A-1878.1",
+        "A-1878.2",
+        "A-1879.1",
+        "A-1880.1",
+        "A-1880.2"
+      ],
+      "related_claims": [
+        "C-2525",
+        "C-2526",
+        "C-2528",
+        "C-2529",
+        "C-2530",
+        "C-2531",
+        "C-2532"
+      ],
+      "tags": [],
+      "evidence_count": 7,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1624"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "TPUSA spokesman; on-air admitted providing private text-chain to Joe Kent; named in Sept 10 PR chat chain as being \"on a plane\" and unavailable during death-statement drafting.",
+      "related_artifacts": [
+        "A-1878.1",
+        "A-1878.2",
+        "A-1881.1"
+      ],
+      "related_claims": [
+        "C-2531",
+        "C-2532",
+        "C-2533",
+        "C-2534",
+        "C-2535"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1620",
+        "N-1621"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Commentator named in episode as having posted against Joe Kent on X shortly after Charlie Kirk's assassination.",
+      "related_artifacts": [
+        "A-1879.1"
+      ],
+      "related_claims": [
+        "C-2528"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Commentator who posted Joe Kent's military credentials on X, drawing hostile replies.",
+      "related_artifacts": [
+        "A-1880.1"
+      ],
+      "related_claims": [
+        "C-2529"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Commentator who accused Joe Kent of leaking to Candace Owens to harm Erika Kirk.",
+      "related_artifacts": [
+        "A-1880.2"
+      ],
+      "related_claims": [
+        "C-2530"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "TPUSA Chief Operating Officer (promoted 7 days before Sept 10 per episode); appears in Sept 10 PR chat chain; told Candace he booked the planes.",
+      "related_artifacts": [
+        "A-1881.1"
+      ],
+      "related_claims": [
+        "C-2533",
+        "C-2535"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1620"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "TPUSA chief marketing officer; per host, called Aubrey to draft death statement because Andrew was on a plane; later cited as the figure behind Aubrey's firing over Uber-driver conversation.",
+      "related_artifacts": [
+        "A-1881.1"
+      ],
+      "related_claims": [
+        "C-2535",
+        "C-2536"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1625"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "TPUSA employee (surname not provided in episode); per host, drafted death statement on Sept 10 and was later fired following Uber-driver conversation overheard by Marina.",
+      "related_artifacts": [
+        "A-1881.1"
+      ],
+      "related_claims": [
+        "C-2535",
+        "C-2536"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1625"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Defender of Mikey McCoy; audio excerpt cited for phrasing \"I put that phone away,\" which host flags as implying a second device.",
+      "related_artifacts": [
+        "A-1882.1"
+      ],
+      "related_claims": [
+        "C-2539"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1623",
+        "N-1222"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Named by host as having a phone call with Justin Streif and Andrew Kolvet on Sept 5 while Charlie was in Asia.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1208",
+        "N-1212"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Event sponsor whose plane is described as landing in Provo, then routing Santa Barbara–Scottsdale. Host identifies \"Wyre\" as the person walking over in the on-site video.",
+      "related_artifacts": [
+        "A-1881.2"
+      ],
+      "related_claims": [
+        "C-2538"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Podcaster; episode cites his on-air discussion of Erika Kirk's CIA-documentary appearance and pageant history.",
+      "related_artifacts": [
+        "A-1883.1"
+      ],
+      "related_claims": [
+        "C-2540"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Commentator; tweeted critical of Erika's CIA-related video.",
+      "related_artifacts": [
+        "A-1884.1"
+      ],
+      "related_claims": [
+        "C-2541"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "Commentator; tweeted critical of Joe Rogan segment.",
+      "related_artifacts": [
+        "A-1884.2"
+      ],
+      "related_claims": [
+        "C-2542"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1221",
+      "ref": "N-1221",
+      "name": "Autopsy Record – Utah Privacy Statute Application",
+      "type": "investigation_target",
+      "description": "Named in Blake Neff's audio excerpt as the person called by Mikey McCoy after the shot.",
+      "related_artifacts": [
+        "A-1882.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1222"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1222",
+      "ref": "N-1222",
+      "name": "Hospital Routing Anomaly",
+      "type": "investigation_target",
+      "description": "Subject of Blake Neff's defensive account; placed at scene per Neff's audio excerpt.",
+      "related_artifacts": [
+        "A-1882.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1215",
+        "N-1221"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1223",
+      "ref": "N-1223",
+      "name": "TPUSA Faith Packet / Israel References Claim",
+      "type": "investigation_target",
+      "description": "Per host's recounting, listed as passenger on the official Sept 10 Provo-bound plane.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1620"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1224",
+      "ref": "N-1224",
+      "name": "ADL–FBI Partnership Structure",
+      "type": "investigation_target",
+      "description": "Per host, listed as passenger on official Sept 10 Provo-bound plane.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1620"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1225",
+      "ref": "N-1225",
+      "name": "Connecticut FBI Field Office Deployment Anomaly",
+      "type": "investigation_target",
+      "description": "Per host, listed as passenger on official Sept 10 Provo-bound plane.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1620"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1226",
+      "ref": "N-1226",
+      "name": "Tyler Robinson Defense Selection Anomaly",
+      "type": "investigation_target",
+      "description": "TPUSA-affiliated individual named in Sept 10 PR chat chain as potential 8:00 p.m. Eastern news hit.",
+      "related_artifacts": [
+        "A-1881.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1620",
+      "ref": "N-1620",
+      "name": "September 10 Plane Logistics Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent inconsistency between Andrew Kolvet's stated location (Santa Barbara with wife, departing 3:19 p.m. Utah time) and PR text-chain timestamps indicating he was unavailable and \"on the plane\" during the 1:30–3:25 p.m. Utah window.",
+      "related_artifacts": [
+        "A-1881.1",
+        "A-1881.2"
+      ],
+      "related_claims": [
+        "C-2533",
+        "C-2534",
+        "C-2535",
+        "C-2537",
+        "C-2538"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-1212",
+        "N-1213",
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1621",
+      "ref": "N-1621",
+      "name": "Tarmac Hug Account Discrepancy",
+      "type": "investigation_target",
+      "description": "Host's recollection that Kolvet described being alone on a G5/G6 and \"collapsing\" into Erika's arms on the Provo tarmac, contrasted with later public story of his wife being on the plane; Erika did not corroborate the wife-on-plane fact when asked directly.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1208",
+        "N-1620"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1622",
+      "ref": "N-1622",
+      "name": "Egyptian Plane Transponding Correlation",
+      "type": "investigation_target",
+      "description": "Host's on-screen calendar shows Egyptian aircraft transponding at Provo and Scottsdale coinciding with key Sept 10 events (Andrew's \"this just loaded\" message; Wyre plane landings). Underlying data source not independently sourced in episode.",
+      "related_artifacts": [
+        "A-1881.2"
+      ],
+      "related_claims": [
+        "C-2537",
+        "C-2538"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1623",
+      "ref": "N-1623",
+      "name": "Blake Neff \"Two Phones\" Implication",
+      "type": "investigation_target",
+      "description": "Host interprets Blake Neff's phrasing \"I put that phone away\" after calling his mother as implying possession of a second phone.",
+      "related_artifacts": [
+        "A-1882.1"
+      ],
+      "related_claims": [
+        "C-2539"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1215"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1624",
+      "ref": "N-1624",
+      "name": "Joe Kent Leak Accusation Chain",
+      "type": "investigation_target",
+      "description": "Sequence of public accusations (Alex Clark, Laura Loomer, Andrew Kolvet on-air) that Joe Kent leaked material specifically to harm Erika Kirk. Host contests this framing.",
+      "related_artifacts": [
+        "A-1879.1",
+        "A-1880.2",
+        "A-1878.1"
+      ],
+      "related_claims": [
+        "C-2528",
+        "C-2530",
+        "C-2531"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1209",
+        "N-1211"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1625",
+      "ref": "N-1625",
+      "name": "Aubrey Termination Circumstances",
+      "type": "investigation_target",
+      "description": "Host alleges Aubrey was assigned death-statement drafting on Sept 10 while Andrew was unavailable, later terminated in connection with an Uber-driver conversation reported by Marina.",
+      "related_artifacts": [
+        "A-1881.1"
+      ],
+      "related_claims": [
+        "C-2535",
+        "C-2536"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1213",
+        "N-1214"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2525",
+      "ref": "C-2525",
+      "label": "Joe Kent stated FBI halted NCTC investigation of Charlie Kirk assassination",
+      "claim": "Joe Kent told Tucker Carlson that the National Counterterrorism Center was stopped by the FBI from investigating the Charlie Kirk assassination.",
+      "anchored_artifacts": [
+        "A-1877.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1620"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:10",
+      "investigative_direction": "Compare Kent's claims against any FBI/NCTC public statements; review case-file jurisdiction transfers to Utah authorities."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2526",
+      "ref": "C-2526",
+      "label": "Joe Kent described Charlie Kirk West Wing statement on Iran war",
+      "claim": "Joe Kent recounted that, in June in the West Wing stairway, Charlie Kirk said loudly that he had \"stopped us from getting into a war with Iran.\"",
+      "anchored_artifacts": [
+        "A-1877.2"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:10",
+      "investigative_direction": "Verify via West Wing access logs and any corroborating witnesses to the June encounter."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2527",
+      "ref": "C-2527",
+      "label": "Andrew Kolvet retweeted calls for Joe Kent's arrest",
+      "claim": "Andrew Kolvet retweeted a post suggesting Joe Kent should be arrested for leaking classified documents.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1624"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:42",
+      "investigative_direction": "Confirm via archived Kolvet X timeline."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2528",
+      "ref": "C-2528",
+      "label": "Alex Clark publicly accused Joe Kent of degrading Erika",
+      "claim": "Alex Clark posted on X that Joe Kent actively participated in or encouraged behind-the-scenes degradation of Erika Kirk.",
+      "anchored_artifacts": [
+        "A-1879.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1209",
+        "N-1624"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:36",
+      "investigative_direction": "Retrieve Clark's full X thread and any cited evidence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2529",
+      "ref": "C-2529",
+      "label": "Jack Posobiec posted Joe Kent's military credentials",
+      "claim": "Jack Posobiec posted on X that Joe Kent has six bronze star medals with five oak leaf clusters across 11 combat deployments as a Green Beret.",
+      "anchored_artifacts": [
+        "A-1880.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:26",
+      "investigative_direction": "Cross-check against DoD / military service records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2530",
+      "ref": "C-2530",
+      "label": "Laura Loomer accused Kent of leaking to Candace to harm Erika",
+      "claim": "Laura Loomer replied to Posobiec accusing Joe Kent of leaking information to Candace Owens for the purpose of attacking Erika Kirk.",
+      "anchored_artifacts": [
+        "A-1880.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1211",
+        "N-1624"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:00",
+      "investigative_direction": "Retrieve Loomer's full post; trace whether she cites source for the accusation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2531",
+      "ref": "C-2531",
+      "label": "Kolvet admitted providing text messages to Joe Kent",
+      "claim": "Andrew Kolvet stated on Charlie Kirk's radio show that he had provided the group-chat screengrabs to Joe Kent in the immediate aftermath of Charlie's death.",
+      "anchored_artifacts": [
+        "A-1878.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1624"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:30",
+      "investigative_direction": "Obtain full unedited radio segment; verify chain of custody."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2532",
+      "ref": "C-2532",
+      "label": "Kent suggested making texts public; Kolvet declined",
+      "claim": "Andrew Kolvet stated Joe Kent messaged him suggesting the texts be made public; Kolvet declined because of concern for innocent group-chat members.",
+      "anchored_artifacts": [
+        "A-1878.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1624"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:16",
+      "investigative_direction": "Verify against any direct messaging logs or third-party corroboration."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2533",
+      "ref": "C-2533",
+      "label": "Kolvet unavailable 1:30pm–3:25pm Utah time in PR chat",
+      "claim": "In the Sept 10 PR text chain, Andrew Kolvet had no outgoing message from 1:30 p.m. until 3:25 p.m. Utah time, despite being the principal PR contact during the active crisis.",
+      "anchored_artifacts": [
+        "A-1881.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1212",
+        "N-1620"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:46",
+      "investigative_direction": "Timestamp-verify the chat export; cross-reference with FAA flight logs and cell-tower records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2534",
+      "ref": "C-2534",
+      "label": "Kolvet stated \"this just loaded\" indicating plane travel",
+      "claim": "At 3:26 p.m. Utah time on Sept 10, Andrew Kolvet wrote in the PR chat: \"Sorry, on the plane, this just loaded.\"",
+      "anchored_artifacts": [
+        "A-1881.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1620"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:16",
+      "investigative_direction": "Verify the exact wording against export; check plane Wi-Fi / message buffering logs if obtainable."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2535",
+      "ref": "C-2535",
+      "label": "Marina Medvin routed death-statement drafting to Aubrey citing Andrew's plane status",
+      "claim": "At approximately 2:05 p.m. Utah time on Sept 10, Marina Medvin called Aubrey and asked her to draft the staff death statement because Andrew was on a plane.",
+      "anchored_artifacts": [
+        "A-1881.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1213",
+        "N-1214",
+        "N-1620",
+        "N-1625"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:14",
+      "investigative_direction": "Confirm via call detail records and corroborate with Aubrey directly if possible."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2536",
+      "ref": "C-2536",
+      "label": "Aubrey was later fired over Uber-driver conversation",
+      "claim": "Aubrey, who drafted the Sept 10 death statement, was later terminated in connection with a conversation with an Uber driver that Marina Medvin reportedly overheard.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1213",
+        "N-1214",
+        "N-1625"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:31",
+      "investigative_direction": "Verify with Aubrey or HR/witness records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2537",
+      "ref": "C-2537",
+      "label": "Calendar shows Egyptian-plane transponding overlapping Sept 10 events",
+      "claim": "An on-screen calendar graphic places Egyptian-plane transponding windows (10:05–11:34 a.m.; second block) overlapping with Charlie's flight and Kolvet's unavailability window on Sept 10.",
+      "anchored_artifacts": [
+        "A-1881.2"
+      ],
+      "related_nodes": [
+        "N-1620",
+        "N-1622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:39",
+      "investigative_direction": "Independently source the ADS-B / transponder data; verify aircraft identifiers and operators."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2538",
+      "ref": "C-2538",
+      "label": "Wyre plane route: Scottsdale–Provo–Santa Barbara–Scottsdale",
+      "claim": "The Wyre-sponsored plane is shown on the on-screen calendar as routing Scottsdale → Provo (10:06 a.m.) → Santa Barbara (10:24 a.m.) → Scottsdale (1:44 p.m.) on Sept 10.",
+      "anchored_artifacts": [
+        "A-1881.2"
+      ],
+      "related_nodes": [
+        "N-1217",
+        "N-1620",
+        "N-1622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:39",
+      "investigative_direction": "Verify against FAA flight plan / tail-number tracking."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2539",
+      "ref": "C-2539",
+      "label": "Blake Neff's \"I put that phone away\" implies second phone",
+      "claim": "Blake Neff, describing his call to his mother after the shooting, used the phrasing \"I put that phone away,\" which host interprets as implying possession of two phones.",
+      "anchored_artifacts": [
+        "A-1882.1"
+      ],
+      "related_nodes": [
+        "N-1215",
+        "N-1623"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:30",
+      "investigative_direction": "Direct verification only possible via Blake Neff or device forensics."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2540",
+      "ref": "C-2540",
+      "label": "Joe Rogan discussed Erika Kirk's CIA documentary and pageant history",
+      "claim": "On his podcast, Joe Rogan discussed Erika Kirk's appearance in what he characterized as a CIA documentary, her pageant background, and speculation she was \"Charlie's handler.\"",
+      "anchored_artifacts": [
+        "A-1883.1"
+      ],
+      "related_nodes": [
+        "N-1218"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:59",
+      "investigative_direction": "Verify CIA documentary provenance and Erika's pageant participation against public records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2541",
+      "ref": "C-2541",
+      "label": "Mark Levin questioned Erika's video as AI production",
+      "claim": "Mark Levin tweeted asking whether Erika's video was \"some AI production\" and, if not, called it \"a total disgrace.\"",
+      "anchored_artifacts": [
+        "A-1884.1"
+      ],
+      "related_nodes": [
+        "N-1219"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:46",
+      "investigative_direction": "Retrieve full tweet and any subsequent clarification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2542",
+      "ref": "C-2542",
+      "label": "Eton Fishberger called Joe Rogan segment \"sick stuff\"",
+      "claim": "Eton Fishberger tweeted that Joe Rogan's segment was \"some sick stuff\" given what Erika \"hasn't been through already.\"",
+      "anchored_artifacts": [
+        "A-1884.2"
+      ],
+      "related_nodes": [
+        "N-1220"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:46",
+      "investigative_direction": "Retrieve original tweet."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2543",
+      "ref": "C-2543",
+      "label": "Host denies pre-existing relationship with Joe Kent",
+      "claim": "Candace Owens states she had never had a single communication with Joe Kent until after Charlie Kirk's assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1207",
+        "N-1624"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:46",
+      "investigative_direction": "Verify via message logs, witness statements, or platform records."
+    }
+  ],
+  "memes": []
+}

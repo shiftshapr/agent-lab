@@ -1,0 +1,1041 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 93,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "a1f3c6dfa924e1a32b03c50b03b00f101fbd284665dcd6d81eb0bac4b30dbf95",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode advances three distinct evidentiary threads. First, the host anchors a contradiction between Erika Kirk's stated reason for canceling a University of Georgia Turning Point USA rally and a CBS News–reported Secret Service determination that no credible threats existed at the secured venue. The host assembles a minute-level flight timeline (Palm Beach → Athens → Scottsdale) and a JD Vance on-stage audio clip to argue that Erika was physically present at the venue prior to cancellation.\n\nSecond, the host introduces documentary material on Victor Marx, including: (a) a Class 1 FFL license attributed to \"The Victor Marx Group LLC\" in Colorado Springs; (b) audio interview segments in which Marx addresses both a prior altercation with Corby Hall and arms-trafficking allegations; and (c) text messages, read aloud, attributed to Marx referencing an \"Israeli Defense Group\" and a SOCOM contract, and Corby's response raising concerns about prioritizing IDF sales over domestic school deployment. The host additionally cites a prior social-media post by Marx announcing Charlie Kirk's death at 1:13 PM Mountain Time.\n\nThird, the host reviews the released ATF summary in the Tyler Robinson matter, reading aloud findings on cartridge-case matching and bullet-jacket fragment analysis, and flags upcoming microscopic comparison. A separate Daily Mail article is read aloud containing an attributed TPUSA \"insider\" statement acknowledging that the cancellation was driven by factors beyond security. A historical Robert Maxwell → Bain Capital investment tie-in is also presented via a 2012 Los Angeles Times reference.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1981",
+      "family_ref": "A-1981",
+      "bundle_name": "CBS News Article Bundle (UGA Rally)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1981.1",
+          "ref": "A-1981.1",
+          "description": "CBS News article by Barry Weiss: \"Secret Service determines no credible threats to UGA rally after Erika Kirk's cancellation, the source says\"",
+          "related_claims": [
+            "C-2744",
+            "C-2758"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-1691",
+            "N-1692"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1982",
+      "family_ref": "A-1982",
+      "bundle_name": "UGA Event Movement Timeline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1982.1",
+          "ref": "A-1982.1",
+          "description": "Erika Kirk flight timeline on UGA rally day",
+          "related_claims": [
+            "C-2745",
+            "C-2747"
+          ],
+          "related_nodes": [
+            "N-1691"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:27–00:13:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1982.2",
+          "ref": "A-1982.2",
+          "description": "JD Vance plane timeline on UGA rally day (circling North Carolina 3:53 PM; landing Athens 4:34 PM)",
+          "related_claims": [
+            "C-2746"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-1691"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:44–00:09:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1984",
+      "family_ref": "A-1984",
+      "bundle_name": "Victor Marx Social Media Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1984.1",
+          "ref": "A-1984.1",
+          "description": "Victor Marx post: \"pray for Erika and their two little children who need the prayers now that Charlie is in heaven. The shooter is in custody.\"",
+          "related_claims": [
+            "C-2748"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1217"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:00–00:25:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1987",
+      "family_ref": "A-1987",
+      "bundle_name": "Victor Marx Interview Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1987.1",
+          "ref": "A-1987.1",
+          "description": "Victor Marx interview clip addressing Corby Hall altercation: \"The one thing he said that is true is I did say I would whoop his ass…\"",
+          "related_claims": [
+            "C-2750"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:20–00:32:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1987.2",
+          "ref": "A-1987.2",
+          "description": "Victor Marx interview clip denying arms trafficking: \"Of course not. It's illegal. How would I even be where I am today?\"",
+          "related_claims": [
+            "C-2751"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:46–00:34:57",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1988",
+      "family_ref": "A-1988",
+      "bundle_name": "Text Messages Bundle (Victor Marx / Corby Hall)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1988.1",
+          "ref": "A-1988.1",
+          "description": "Victor Marx message: \"The Israeli Defense Group we are connected with is ready to review the patent and possible deal… just last night a company that I'm part owner of got awarded a major SOCOM contract…\"",
+          "related_claims": [
+            "C-2752",
+            "C-2753"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1210",
+            "N-1693"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:00–00:36:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1988.2",
+          "ref": "A-1988.2",
+          "description": "Corby Hall reply: \"Why so much focus on the IDF and not as much on domestic schools?… I would hate to send 1,000 units to the IDF and have an unprotected school get shot up here.\"",
+          "related_claims": [
+            "C-2752"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1210",
+            "N-1693"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:10–00:37:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1988.3",
+          "ref": "A-1988.3",
+          "description": "Victor Marx reply: \"You won't be sending 1,000 units to anyone in the IDF. You will get a paycheck for the patent and possibly your company and then on to your next adventure.\"",
+          "related_claims": [
+            "C-2752"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1210",
+            "N-1693"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:17–00:38:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1991",
+      "family_ref": "A-1991",
+      "bundle_name": "Daily Mail Article Bundle (TPUSA Insider)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1991.1",
+          "ref": "A-1991.1",
+          "description": "Daily Mail article attributing to TPUSA insider: \"She pulled out of the TPUSA event because of a bunch of factors. I don't think it was just security concerns… If there were security concerns, the vice president wouldn't have gone.\"",
+          "related_claims": [
+            "C-2758",
+            "C-2759"
+          ],
+          "related_nodes": [
+            "N-1691"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:55–00:22:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1991.2",
+          "ref": "A-1991.2",
+          "description": "Same Daily Mail article, insider continuation on ticket sales and mental exhaustion: \"It wasn't just the ticket sales, either. It was also mental exhaustion…\"",
+          "related_claims": [
+            "C-2759"
+          ],
+          "related_nodes": [
+            "N-1691"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:34–00:22:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Subject of new documentary material in this episode: FFL license, social-media post, interview clips, and text messages referencing IDF/SOCOM ties.",
+      "related_artifacts": [
+        "A-1984.1",
+        "A-1985",
+        "A-1986",
+        "A-1987.1",
+        "A-1987.2",
+        "A-1988.1",
+        "A-1988.3"
+      ],
+      "related_claims": [
+        "C-2748",
+        "C-2749",
+        "C-2750",
+        "C-2751",
+        "C-2752",
+        "C-2753"
+      ],
+      "tags": [],
+      "evidence_count": 7,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1210",
+        "N-1693"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Vice President; on-stage at UGA rally; subject of host analysis regarding manipulation by Erika.",
+      "related_artifacts": [
+        "A-1982.2",
+        "A-1983"
+      ],
+      "related_claims": [
+        "C-2746",
+        "C-2747"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1691"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "TPUSA spokesperson referenced in host's timeline reconstruction (variable host spellings: \"Kolvet,\" \"Kolburt,\" \"Kolodziej,\" \"Tate Coburn\"). Uncertainty noted.",
+      "related_artifacts": [
+        "A-1983"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1691"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Witness to alleged interaction with Victor Marx; provided text messages. Variable host spelling \"Corby\"/\"Colby\" noted.",
+      "related_artifacts": [
+        "A-1987.1",
+        "A-1987.2",
+        "A-1988.1",
+        "A-1988.2",
+        "A-1988.3"
+      ],
+      "related_claims": [
+        "C-2750",
+        "C-2751",
+        "C-2752",
+        "C-2753"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Host of referenced show; source for FFL finding and venue presence interpretation.",
+      "related_artifacts": [
+        "A-1986"
+      ],
+      "related_claims": [
+        "C-2749"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "CBS News journalist, attributed author of A-1981.1.",
+      "related_artifacts": [
+        "A-1981.1"
+      ],
+      "related_claims": [
+        "C-2744"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1692"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Historical figure (deceased); subject of Bain Capital investment claim.",
+      "related_artifacts": [
+        "A-1989"
+      ],
+      "related_claims": [
+        "C-2754"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1695"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Roommate of Tyler Robinson; subject of host speculation about federal-asset status (host speculation not inscribed as claim).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1696"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Security detail referenced by host as having failed to protect Charlie Kirk; host states he was later offered a raise/bonus from Erika. (Host assertion only — no artifact in this episode.)",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1696"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Creator of viral video mocking Erika Kirk's behavior. Variable host spelling \"Drewski\"/\"Druski.\"",
+      "related_artifacts": [
+        "A-1991.1",
+        "A-1991.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1691"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Subject of viewer email tip regarding early knowledge of Charlie Kirk's shooting. Name spelling uncertain; verification requested.",
+      "related_artifacts": [
+        "A-1992"
+      ],
+      "related_claims": [
+        "C-2760"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1697"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1691",
+      "ref": "N-1691",
+      "name": "UGA Rally Cancellation Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent target: contradiction between Erika Kirk's stated reason for canceling UGA co-appearance and Secret Service determination, plus insider acknowledgment of non-security factors.",
+      "related_artifacts": [
+        "A-1981.1",
+        "A-1982.1",
+        "A-1982.2",
+        "A-1983",
+        "A-1991.1",
+        "A-1991.2"
+      ],
+      "related_claims": [
+        "C-2744",
+        "C-2745",
+        "C-2746",
+        "C-2747",
+        "C-2758",
+        "C-2759"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-1209",
+        "N-1216"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1692",
+      "ref": "N-1692",
+      "name": "Secret Service Statement Verification",
+      "type": "investigation_target",
+      "description": "Persistent target: verifying Secret Service's \"no credible threats\" determination, including the off-record-to-CBS pipeline and corroboration across the federal security apparatus.",
+      "related_artifacts": [
+        "A-1981.1"
+      ],
+      "related_claims": [
+        "C-2744"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1212"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1693",
+      "ref": "N-1693",
+      "name": "Victor Marx IDF / Israeli Defense Group Connection",
+      "type": "investigation_target",
+      "description": "Persistent target: verifying text-message-attributed communications between Marx and Corby Hall referencing an Israeli Defense Group, SOCOM contract, and patent purchase.",
+      "related_artifacts": [
+        "A-1988.1",
+        "A-1988.2",
+        "A-1988.3"
+      ],
+      "related_claims": [
+        "C-2752",
+        "C-2753"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1210"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1694",
+      "ref": "N-1694",
+      "name": "Bain Capital Foreign Investment Line",
+      "type": "investigation_target",
+      "description": "Persistent target: tracking the historical and recurring web linking Robert Maxwell / Ghislaine Maxwell / Epstein-adjacent actors to Bain Capital and adjacent financial/political networks.",
+      "related_artifacts": [
+        "A-1989"
+      ],
+      "related_claims": [
+        "C-2754"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1213"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1695",
+      "ref": "N-1695",
+      "name": "ATF Bullet Comparison Methodology",
+      "type": "investigation_target",
+      "description": "Persistent target: tracking the methodology and outcomes of cartridge-case matching, bullet-jacket fragment class-characteristic analysis, and the upcoming microscopic comparison in the Robinson case.",
+      "related_artifacts": [
+        "A-1990"
+      ],
+      "related_claims": [
+        "C-2755",
+        "C-2756",
+        "C-2757"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1696",
+      "ref": "N-1696",
+      "name": "Gun Firing Evidence Verification",
+      "type": "investigation_target",
+      "description": "Persistent target: verifying whether the recovered rifle was fired on September 10 via canine/bomb-dog screening and residue testing.",
+      "related_artifacts": [
+        "A-1990"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1214",
+        "N-1215"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1697",
+      "ref": "N-1697",
+      "name": "Early-Death-Announcement Timeline Verification",
+      "type": "investigation_target",
+      "description": "Persistent target: plotting who first publicly announced Charlie Kirk's death and from what source — including Victor Marx (1:13 PM MT) and the unverified Amir Sarfati tip.",
+      "related_artifacts": [
+        "A-1984.1",
+        "A-1992"
+      ],
+      "related_claims": [
+        "C-2748",
+        "C-2760"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1217"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2744",
+      "ref": "C-2744",
+      "label": "Secret Service determined no credible threats to UGA rally",
+      "claim": "CBS News, citing a person familiar with the matter, reported the US Secret Service determined there were no credible threats to the Turning Point USA rally at the University of Georgia, including to the Vice President as protectee.",
+      "anchored_artifacts": [
+        "A-1981.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1692",
+        "N-1691"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:09",
+      "investigative_direction": "Obtain the underlying Secret Service statement on the record; identify and corroborate the \"person familiar\" source."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2745",
+      "ref": "C-2745",
+      "label": "Erika Kirk was at the Athens, GA venue from 2:40 PM to 6:39 PM on rally day",
+      "claim": "Host presents a timeline in which Erika departed West Palm Beach at 1:27 PM, landed in Athens at 2:40 PM, and remained until departing at 6:39 PM.",
+      "anchored_artifacts": [
+        "A-1982.1"
+      ],
+      "related_nodes": [
+        "N-1691"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:27–00:13:38",
+      "investigative_direction": "Obtain FAA flight logs, airport records, and Secret Service movement logs to verify arrival/departure times."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2746",
+      "ref": "C-2746",
+      "label": "JD Vance plane circled above North Carolina 3:53 PM–4:34 PM",
+      "claim": "Host states JD Vance's plane began circling at 3:53 PM and landed in Athens at 4:34 PM.",
+      "anchored_artifacts": [
+        "A-1982.2"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1691"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:44–00:09:45",
+      "investigative_direction": "Cross-reference flight tracking data (ADS-B Exchange / FlightRadar24) and White House travel logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2747",
+      "ref": "C-2747",
+      "label": "JD Vance stated on stage he was worried about cancellation \"2 hours ago\"",
+      "claim": "JD Vance told Andrew on stage that \"about 2 hours ago… I was a little worried that we were going to have to cancel the event because Erika was not going to come.\"",
+      "anchored_artifacts": [
+        "A-1983"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1691"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:54–00:12:49",
+      "investigative_direction": "Obtain full unedited UGA rally footage and any subsequent Vance press gaggle transcripts for corroboration."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2748",
+      "ref": "C-2748",
+      "label": "Victor Marx publicly announced Charlie Kirk's death at 1:13 PM Mountain Time on September 10, 2025",
+      "claim": "Victor Marx posted on social media, prior to the public confirmation, that Charlie was \"in heaven\" at 1:13 PM Mountain Time.",
+      "anchored_artifacts": [
+        "A-1984.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1697"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:00–00:25:01",
+      "investigative_direction": "Archive the post screenshots (cited as having been received with timestamps); identify Marx's claimed source."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2749",
+      "ref": "C-2749",
+      "label": "Victor Marx holds a Class 1 Federal Firearms License",
+      "claim": "The Victor Marx Group LLC, based in Colorado Springs, holds a Class 1 FFL according to public lookup websites and Baron Coleman's research.",
+      "anchored_artifacts": [
+        "A-1985",
+        "A-1986"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:30–00:30:28",
+      "investigative_direction": "Pull the ATF FFL eZ Check record directly and verify the licensee's name, address, and license type."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2750",
+      "ref": "C-2750",
+      "label": "Victor Marx admitted threatening to \"whoop\" Corby Hall's ass",
+      "claim": "In an interview, Victor Marx acknowledged saying he would \"whoop [Corby Hall's] ass,\" placing the incident at his training facility during a walk-through.",
+      "anchored_artifacts": [
+        "A-1987.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:20–00:32:44",
+      "investigative_direction": "Identify the full original interview source, date, and outlet; cross-reference with Corby Hall's first-person account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2751",
+      "ref": "C-2751",
+      "label": "Victor Marx denied seeking to traffic rifles to Haiti, Israel, or Iran",
+      "claim": "When asked directly, Victor Marx answered \"Of course not. It's illegal\" regarding trafficking rifles to Haiti, Israel, or Iran.",
+      "anchored_artifacts": [
+        "A-1987.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:46–00:34:57",
+      "investigative_direction": "Locate the full interview; corroborate with any on-record statements from federal authorities regarding investigations of Marx."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2752",
+      "ref": "C-2752",
+      "label": "Text messages reference an \"Israeli Defense Group\" connection and SOCOM contract",
+      "claim": "Text messages attributed to Victor Marx state that \"The Israeli Defense Group we are connected with is ready to review the patent and possible deal\" and reference a SOCOM contract for a company he is part-owner of; Corby's reply raises IDF-vs-domestic-schools concerns.",
+      "anchored_artifacts": [
+        "A-1988.1",
+        "A-1988.2",
+        "A-1988.3"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1210",
+        "N-1693"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:00–00:38:02",
+      "investigative_direction": "Authenticate the text-message screenshots (metadata, device extraction); await on-record response from Marx."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2753",
+      "ref": "C-2753",
+      "label": "Text message conversation occurred in April 2025",
+      "claim": "Host states the messages occurred in April 2025 (uncertainty noted: \"I want to say it was April, but don't quote me on that. It was. Okay.\")",
+      "anchored_artifacts": [
+        "A-1988.1",
+        "A-1988.2",
+        "A-1988.3"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1210",
+        "N-1693"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:17–00:38:02",
+      "investigative_direction": "Obtain message timestamps to confirm date precisely."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2754",
+      "ref": "C-2754",
+      "label": "Robert Maxwell provided $2 million toward Bain Capital's initial $37 million fund",
+      "claim": "A 2012 Los Angeles Times piece reported that Robert Maxwell contributed $2 million of the initial $37 million Bain Capital sought to raise, alongside other foreign investors.",
+      "anchored_artifacts": [
+        "A-1989"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-1694"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:18–00:41:12",
+      "investigative_direction": "Retrieve the underlying LA Times article and any SEC filings / partnership documentation listing Bain Capital seed investors."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2755",
+      "ref": "C-2755",
+      "label": "ATF determined cartridge cases matched exhibit 1 rifle",
+      "claim": "The ATF summary found that the cartridge cases matched the exhibit 1 rifle.",
+      "anchored_artifacts": [
+        "A-1990"
+      ],
+      "related_nodes": [
+        "N-1695"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:38–00:45:48",
+      "investigative_direction": "Obtain the ATF summary in full (rather than partial readback) and any underlying laboratory report."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2756",
+      "ref": "C-2756",
+      "label": "Bullet jacket fragments could not be excluded based on discernable class characteristics",
+      "claim": "ATF summary stated fragments from bullet jackets could not be identified or excluded as fired from exhibit 1 based on an agreement of all discernable class characteristics.",
+      "anchored_artifacts": [
+        "A-1990"
+      ],
+      "related_nodes": [
+        "N-1695"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:51–00:44:37",
+      "investigative_direction": "Obtain forensic report details on which class characteristics were matched and the exclusion criteria."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2757",
+      "ref": "C-2757",
+      "label": "ATF to conduct microscopic comparison on bullet evidence",
+      "claim": "The ATF summary indicates upcoming microscopic comparison on the bullet evidence.",
+      "anchored_artifacts": [
+        "A-1990"
+      ],
+      "related_nodes": [
+        "N-1695"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:37–00:45:48",
+      "investigative_direction": "Track subsequent filings and any defense challenges to microscopic comparison methodology under Daubert/Frye standards."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2758",
+      "ref": "C-2758",
+      "label": "TPUSA insider acknowledges cancellation was not solely security-related",
+      "claim": "A TPUSA insider, quoted in the Daily Mail, stated: \"She pulled out of the TPUSA event because of a bunch of factors. I don't think it was just security concerns… If there were security concerns, the vice president wouldn't have gone.\"",
+      "anchored_artifacts": [
+        "A-1991.1"
+      ],
+      "related_nodes": [
+        "N-1691"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:55–00:22:20",
+      "investigative_direction": "Identify the insider source; obtain the full Daily Mail article and any corroborating reporting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2759",
+      "ref": "C-2759",
+      "label": "Insider attributed cancellation in part to ticket sales and mental exhaustion",
+      "claim": "The same Daily Mail insider stated: \"It wasn't just the ticket sales, either. It was also mental exhaustion of like nothing I do will be right and people will make fun of me, so she canceled.\"",
+      "anchored_artifacts": [
+        "A-1991.2"
+      ],
+      "related_nodes": [
+        "N-1691"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:34–00:22:20",
+      "investigative_direction": "Cross-reference with venue ticketing data and corroborate insider attribution."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2760",
+      "ref": "C-2760",
+      "label": "Viewer claims Amir Sarfati was first to learn of the shooting",
+      "claim": "A viewer email tip suggests Amir Sarfati (or \"Safadi\") may have been the first to know of Charlie Kirk's shooting; host requests verification.",
+      "anchored_artifacts": [
+        "A-1992"
+      ],
+      "related_nodes": [
+        "N-1217",
+        "N-1697"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:57–00:29:30",
+      "investigative_direction": "Obtain request for verbatim or original-source documentation for the claim; verify spelling of name and role."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2761",
+      "ref": "C-2761",
+      "label": "Host concurs with Elizabeth Lane's prior assessment of Erika Kirk",
+      "claim": "Host explicitly endorses Elizabeth Lane's prior post that \"Erika Kirk exhibits the attributes of a psychopath,\" characterizing Erika's pattern of public blame-shifting as \"malevolent.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:01–00:17:09",
+      "investigative_direction": "Cross-reference the prior episode's Elizabeth Lane artifact and verify host endorsement scope."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2762",
+      "ref": "C-2762",
+      "label": "Contradiction — Erika Kirk claimed credible threat vs Secret Service finding of none",
+      "claim": "Erika Kirk's public cancellation reason (a \"credible threat\" to her safety) is contradicted by the Secret Service's reported determination that no credible threats existed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1691",
+        "N-1692"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:09–00:13:38",
+      "investigative_direction": "Resolve by obtaining either Erika Kirk's underlying threat intel (if any) or an explicit on-record retraction."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2763",
+      "ref": "C-2763",
+      "label": "Contradiction — Bomb dogs reportedly did not detect recent firing on recovered rifle",
+      "claim": "Host states bomb dogs and canines brought to the scene did not detect that the recovered weapon had been recently fired, which would be expected if fired within approximately seven days.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1696"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:19–00:43:08",
+      "investigative_direction": "Obtain canine unit deployment records, ATF chain-of-custody documentation, and any residue-testing results for the recovered rifle."
+    }
+  ],
+  "memes": []
+}

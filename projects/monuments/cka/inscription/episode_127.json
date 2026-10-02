@@ -1,0 +1,997 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 127,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "a00c93c3de8fb9fe25ca93a10cae28c73ff062257c969ca7726819b14b4093e7",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Episode 127 advances the Bride of Charlie series' preliminary-hearing record by presenting six discrete evidentiary exhibits drawn from on-air testimony and recorded interviews. The most structurally significant artifacts are the read-aloud exchanges from Officer Bagley's preliminary hearing (body-cam termination and unidentified rooftop companion), the email from a credentialed Axon Body Cam 4 operator disputing the body-cam battery explanation, the joint testimony of Sergeant Jennifer Felomina (Utah Bureau of Investigations) and FBI agent Amanda Baker concerning the abandoned backpack/jacket/gloves that were located on the suspect's route and then removed from FBI testing, the recorded Frank Turek FaceTime interview in which he visibly shifts his stated endpoint from \"hotel\" to \"hospital,\" and a played excerpt of Dan Bongino on Megyn Kelly (Sept 15, 2025) describing the screwdriver rooftop footage as grainy.\n\nThe episode's investigative contributions are concentrated in three structural questions: (1) who was on the Losee Center rooftop between 12:23 and 12:44 and how that person's badge was verified; (2) the chain of communication by which a backpack found along the shooter route was reclassified as \"Kirk's detail\" without testing; and (3) the inconsistencies in Frank Turek's account of his FaceTime call during the incident. A separate tip from a verified Timpanogos Regional Hospital source advances the hospital-pre-notification question. No new evidentiary artifacts are introduced in the comments section; that material is non-investigative.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2146",
+      "family_ref": "A-2146",
+      "bundle_name": "Officer Bagley Preliminary Hearing Testimony Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2146.1",
+          "ref": "A-2146.1",
+          "description": "Body-cam termination testimony excerpt",
+          "related_claims": [
+            "C-3042",
+            "C-3043",
+            "C-3044"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2124"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:36–00:06:28",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2146.2",
+          "ref": "A-2146.2",
+          "description": "Unidentified badge-holding rooftop companion testimony",
+          "related_claims": [
+            "C-3043",
+            "C-3044"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2125"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:06–00:10:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2147",
+      "family_ref": "A-2147",
+      "bundle_name": "Axon Body Cam 4 Officer Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2147.1",
+          "ref": "A-2147.1",
+          "description": "Email from Axon Body Cam 4 operator disputing battery termination claim",
+          "related_claims": [
+            "C-3045",
+            "C-3056"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2124"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:28–00:08:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2148",
+      "family_ref": "A-2148",
+      "bundle_name": "Sergeant Jennifer Felomina Preliminary Hearing Testimony Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2148.1",
+          "ref": "A-2148.1",
+          "description": "Backpack / jacket / gloves discovery at Fulton Library bus stop",
+          "related_claims": [
+            "C-3046",
+            "C-3047"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2126"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:19–00:16:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2148.2",
+          "ref": "A-2148.2",
+          "description": "Reversal of FBI testing decision testimony",
+          "related_claims": [
+            "C-3047",
+            "C-3048"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2126"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:23–00:17:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2149",
+      "family_ref": "A-2149",
+      "bundle_name": "Amanda Baker (FBI) Preliminary Hearing Testimony Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2149.1",
+          "ref": "A-2149.1",
+          "description": "\"Backpack potentially left by bystander\" testimony",
+          "related_claims": [
+            "C-3049",
+            "C-3050"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-2126"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:25–00:20:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2149.2",
+          "ref": "A-2149.2",
+          "description": "Lab-notes attribution of backpack to \"Kirk's detail\"",
+          "related_claims": [
+            "C-3050",
+            "C-3051"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-2126"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:30–00:21:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2150",
+      "family_ref": "A-2150",
+      "bundle_name": "Frank Turek FaceTime Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2150.1",
+          "ref": "A-2150.1",
+          "description": "Frank Turek FaceTime interview clip (hotel vs. hospital inconsistency)",
+          "related_claims": [
+            "C-3052",
+            "C-3053"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-2129"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:42–00:38:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2151",
+      "family_ref": "A-2151",
+      "bundle_name": "Frank Turek Show Anonymous Letter Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2151.1",
+          "ref": "A-2151.1",
+          "description": "Anonymous husband letter to Frank Turek read on air",
+          "related_claims": [
+            "C-3055"
+          ],
+          "related_nodes": [
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:48–00:34:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2152",
+      "family_ref": "A-2152",
+      "bundle_name": "Dan Bongino on Megyn Kelly Interview Bundle (Sep 15)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2152.1",
+          "ref": "A-2152.1",
+          "description": "Bongino statement that screwdriver rooftop footage was \"too grainy\" (Sep 15)",
+          "related_claims": [
+            "C-3054"
+          ],
+          "related_nodes": [
+            "N-1214",
+            "N-1215",
+            "N-2130"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:07–00:47:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "UVU police officer who reached the Losee Center rooftop at 12:44 p.m. and whose body cam footage is alleged to have terminated mid-rooftop. Central to multiple testimony claims.",
+      "related_artifacts": [
+        "A-2146.1",
+        "A-2146.2",
+        "A-2147.1"
+      ],
+      "related_claims": [
+        "C-3042",
+        "C-3043",
+        "C-3044"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2124",
+        "N-2125"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Utah Bureau of Investigations state agent who authored reports documenting the abandoned backpack/jacket/gloves at the Fulton Library bus stop and acknowledged the FBI testing reversal.",
+      "related_artifacts": [
+        "A-2148.1",
+        "A-2148.2"
+      ],
+      "related_claims": [
+        "C-3046",
+        "C-3047",
+        "C-3048"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2126"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "FBI agent who testified that the backpack was determined to be a bystander's and that lab notes attributed it to Kirk's detail via another lab employee's communication.",
+      "related_artifacts": [
+        "A-2149.1",
+        "A-2149.2"
+      ],
+      "related_claims": [
+        "C-3049",
+        "C-3050",
+        "C-3051"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2126"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Christian apologist present at the September 10 event; his FaceTime call and post-event statements are the subject of inquiry.",
+      "related_artifacts": [
+        "A-2150.1",
+        "A-2151.1"
+      ],
+      "related_claims": [
+        "C-3052",
+        "C-3053",
+        "C-3055"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1211",
+        "N-1212",
+        "N-2129"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Frank Turek's adult son reported as serving at the Pentagon (deputy division chief of the Joint Staff); co-author with Frank of \"Hollywood Heroes.\"",
+      "related_artifacts": [
+        "A-2150.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1210",
+        "N-2129"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Frank Turek's adult son reported as an Air Force branch chief pilot; identified by Frank as the FaceTime participant on September 10.",
+      "related_artifacts": [
+        "A-2150.1"
+      ],
+      "related_claims": [
+        "C-3052"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1210",
+        "N-2129"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Identified by host as the source who flagged the preliminary-hearing backpack testimony exchange over the prior weekend.",
+      "related_artifacts": [
+        "A-2148.1",
+        "A-2148.2",
+        "A-2149.1",
+        "A-2149.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "FBI assistant director whose September 15 on-air statement about the screwdriver footage's graininess is cited as a baseline against which later \"crystal clear\" influencer claims are measured.",
+      "related_artifacts": [
+        "A-2152.1"
+      ],
+      "related_claims": [
+        "C-3054"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2130"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Host of the September 15 interview in which Bongino described the screwdriver footage as too grainy; subject of host commentary on influencer trust.",
+      "related_artifacts": [
+        "A-2152.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1214",
+        "N-2130"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Verified hospital employee who told host that the hospital was not pre-informed of Charlie Kirk's arrival.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3056"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2127"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Sept. 10 attendee whose recorded statements about gauze, the 911 call, and brother Brian are referenced for the 911-call identification gap.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3057"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2128"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "TPUSA spokesperson whose initial Sept. 10 tweet (\"Even in death, Charlie saved lives\") is cited by host as the first \"Superman neck\" framing artifact.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Host of the prior 5-hour interview referenced via comment section; not directly tied to investigation claims.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2124",
+      "ref": "N-2124",
+      "name": "Officer Bagley Body-Cam Battery Anomaly",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy between the testimony that the Axon Body Cam 4 terminated ~27:35 into the shift while the officer was on the rooftop, and the Axon operator email asserting ~14-hour battery life with a docked-shift upload cycle.",
+      "related_artifacts": [
+        "A-2146.1",
+        "A-2147.1"
+      ],
+      "related_claims": [
+        "C-3042",
+        "C-3045"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2125",
+      "ref": "N-2125",
+      "name": "Unidentified Badge-Holding Rooftop Companion",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: the plain-clothed individual Officer Bagley accompanied onto the Losee Center roof, who displayed a badge and carried a handgun, and whose agency was never verified by Bagley.",
+      "related_artifacts": [
+        "A-2146.2"
+      ],
+      "related_claims": [
+        "C-3043"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2126",
+      "ref": "N-2126",
+      "name": "Abandoned Backpack / Jacket / Gloves Non-Testing Decision",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: the abandoned items found at the Fulton Library bus stop on the shooter's route, sent to the FBI lab for DNA testing, then reclassified as \"bystander\" or \"Kirk's detail\" without testing.",
+      "related_artifacts": [
+        "A-2148.1",
+        "A-2148.2",
+        "A-2149.1",
+        "A-2149.2"
+      ],
+      "related_claims": [
+        "C-3046",
+        "C-3047",
+        "C-3048",
+        "C-3049",
+        "C-3050",
+        "C-3051"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-1209"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2127",
+      "ref": "N-2127",
+      "name": "Timpanogos Hospital Pre-Notification Failure",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: alleged absence of advance notice to Timpanogos Regional Hospital of Charlie Kirk's arrival, contradicting the official 911-call narrative.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3056"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1216"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2128",
+      "ref": "N-2128",
+      "name": "911 Call Identification Gap",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: no witness in the on-air record has claimed personal credit for the 911 call; the call itself has not been located in publicly released logs.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3057"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1217"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2129",
+      "ref": "N-2129",
+      "name": "Frank Turek FaceTime Story Inconsistency",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: Turek's two on-record accounts of where the FaceTime call ended (\"hotel\" vs. \"hospital\") and the question of which adult son/daughter-in-law was on the line.",
+      "related_artifacts": [
+        "A-2150.1"
+      ],
+      "related_claims": [
+        "C-3052",
+        "C-3053"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1210",
+        "N-1211",
+        "N-1212"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2130",
+      "ref": "N-2130",
+      "name": "Screwdriver Footage Graininess Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: Bongino's Sept. 15 characterization of the rooftop screwdriver footage as \"too grainy\" to discern, contrasted with later influencer claims of \"4K HD crystal clear\" footage.",
+      "related_artifacts": [
+        "A-2152.1"
+      ],
+      "related_claims": [
+        "C-3054"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1214",
+        "N-1215"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3042",
+      "ref": "C-3042",
+      "label": "Officer Bagley testified body-cam terminated while on rooftop at 12:44 p.m.",
+      "claim": "Officer Bagley testified that his Axon body-cam footage ended at 12:44 p.m. while he was still on the Losee Center roof, lasting 27 minutes and 35 seconds, and he stated the battery simply \"went dead.\"",
+      "anchored_artifacts": [
+        "A-2146.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2124"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:36–00:06:28",
+      "investigative_direction": "Obtain full Axon Body Cam 4 battery-log metadata for Bagley's device on Sept. 10, 2025, including dock-cycle history."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3043",
+      "ref": "C-3043",
+      "label": "Officer Bagley testified he did not know the identity of his rooftop companion",
+      "claim": "Officer Bagley testified that he was accompanied on the Losee Center rooftop by an unidentified individual in plain clothes with a badge and a handgun, whose agency he did not know and did not verify.",
+      "anchored_artifacts": [
+        "A-2146.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2125"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:06–00:10:43",
+      "investigative_direction": "Identify the badge-holder from rooftop footage, radio traffic logs, and officer roster records for Sept. 10, 2025."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3044",
+      "ref": "C-3044",
+      "label": "Officer Bagley testified he did not review video footage between 12:23 and 12:44 for other rooftop presence",
+      "claim": "Officer Bagley testified that he did not review the body-cam or surveillance footage between the time the suspect jumped from the roof and his arrival to determine whether anyone else had been on the rooftop in that window.",
+      "anchored_artifacts": [
+        "A-2146.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2125"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:05–00:11:27",
+      "investigative_direction": "Locate the 20-minute footage gap referenced and obtain any UVU or law-enforcement video from that window."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3045",
+      "ref": "C-3045",
+      "label": "Axon Body Cam 4 operator email disputes battery termination claim",
+      "claim": "An email from a police officer using the same Axon Body Cam 4 model states that battery life is approximately 14 hours, that cameras are docked at end of shift on a shared dock that uploads data to the server, and that a mid-shift battery death while docked is implausible.",
+      "anchored_artifacts": [
+        "A-2147.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2124"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:28–00:08:12",
+      "investigative_direction": "Identify the email author (host has protected identity), corroborate Axon Body Cam 4 specifications from manufacturer documentation, and request Bagley's device telemetry."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3046",
+      "ref": "C-3046",
+      "label": "Sergeant Felomina testified backpack, jacket, and gloves were found at Fulton Library bus stop on shooter's route",
+      "claim": "Sergeant Jennifer Felomina of the Utah Bureau of Investigations testified that officers canvassing the scene found unattended items — a backpack, jacket, and gloves — at the Fulton Library bus stop, which was determined to be on the shooter's route.",
+      "anchored_artifacts": [
+        "A-2148.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2126"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:19–00:16:23",
+      "investigative_direction": "Obtain Felomina's September 22, 2025 crime-scene overview report and the seizure item numbers she could not recall."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3047",
+      "ref": "C-3047",
+      "label": "Sergeant Felomina testified items were sent to FBI lab for DNA processing",
+      "claim": "Sergeant Felomina testified that the seized items were sent to the FBI lab for DNA and other analysis, along with information that the suspect may have shed items as he fled.",
+      "anchored_artifacts": [
+        "A-2148.1",
+        "A-2148.2"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2126"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:23–00:17:06",
+      "investigative_direction": "Obtain the FBI lab intake documentation for these items and the chain-of-custody record."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3048",
+      "ref": "C-3048",
+      "label": "Sergeant Felomina testified that testing was halted without her direct communication of the decision",
+      "claim": "Sergeant Felomina testified that a decision was made to halt further testing of the items on the basis they were not probative, that this determination was reflected in FBI/ATF notes, and that she did not recall personally communicating that conclusion.",
+      "anchored_artifacts": [
+        "A-2148.2"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2126"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:06–00:17:53",
+      "investigative_direction": "Compare FBI/ATF lab notes to Felomina's communication log and identify the party that actually conveyed the \"not probative\" determination."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3049",
+      "ref": "C-3049",
+      "label": "FBI agent Amanda Baker testified backpack was determined to be potentially left by a bystander",
+      "claim": "FBI agent Amanda Baker testified that the backpack (exhibit 9) was determined to be \"potentially left behind by a bystander\" and that no DNA comparisons were needed at that time.",
+      "anchored_artifacts": [
+        "A-2149.1"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-2126"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:25–00:20:30",
+      "investigative_direction": "Identify the bystander candidate; obtain the source of the \"bystander\" classification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3050",
+      "ref": "C-3050",
+      "label": "Amanda Baker testified lab notes attributed backpack to Kirk's detail via another lab employee's communication",
+      "claim": "FBI agent Amanda Baker testified, when confronted with lab notes stating the backpack \"belongs to Kirk's detailees,\" that this language was not from her communication log and that it was information another individual within the laboratory received.",
+      "anchored_artifacts": [
+        "A-2149.2"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-2126"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:30–00:21:15",
+      "investigative_direction": "Identify the lab employee who authored/added the \"Kirk's detail\" attribution; obtain that employee's written communication."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3051",
+      "ref": "C-3051",
+      "label": "Host stance: FBI \"bystander/Kirk's detail\" determination is unsubstantiated",
+      "claim": "Host concurs with the implicit inconsistency between Felomina's lack of memory of conveying the \"not probative\" decision and Baker's testimony that a lab employee authored the \"Kirk's detail\" note, characterizing this chain as requiring identification and as a basis on which testing should have proceeded.",
+      "anchored_artifacts": [
+        "A-2148.2",
+        "A-2149.2"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1209",
+        "N-2126"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:30–00:24:14",
+      "investigative_direction": "Locate the original handwritten or digital lab note and trace the attribution chain."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3052",
+      "ref": "C-3052",
+      "label": "Frank Turek stated he was FaceTiming his son and daughter-in-law during the event",
+      "claim": "Frank Turek stated on the played interview that he was FaceTiming his son and daughter-in-law when the shot rang out and continued the call until reaching the hospital, with the phone in his back pocket for the duration.",
+      "anchored_artifacts": [
+        "A-2150.1"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-1212",
+        "N-2129"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:42–00:36:38",
+      "investigative_direction": "Obtain call-detail records (timestamps, duration, devices) for the FaceTime session."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3053",
+      "ref": "C-3053",
+      "label": "Frank Turek gave inconsistent accounts of where the FaceTime call ended",
+      "claim": "Frank Turek gave two differing on-record accounts of where the FaceTime call ended — first stating \"hotel,\" then correcting to \"hospital\" — during the same played interview segment, with the host flagging the inconsistency on air.",
+      "anchored_artifacts": [
+        "A-2150.1"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-2129"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:42–00:38:14",
+      "investigative_direction": "Obtain the full unedited interview recordings and any prior statements Turek made on this point."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3054",
+      "ref": "C-3054",
+      "label": "Dan Bongino stated on Sept. 15 that screwdriver rooftop footage was too grainy to discern",
+      "claim": "Host describes watching Dan Bongino state on Megyn Kelly's show on September 15, 2025, that the screwdriver rooftop footage was too grainy for the FBI's tools to clarify, establishing a baseline against later influencer characterizations of the same footage as \"crystal clear.\"",
+      "anchored_artifacts": [
+        "A-2152.1"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-1215",
+        "N-2130"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:07–00:47:07",
+      "investigative_direction": "Obtain the original Megyn Kelly / Bongino Sept. 15 broadcast and any FBI enhancement documentation released between Sept. 15 and the influencer court-day coverage."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3055",
+      "ref": "C-3055",
+      "label": "Anonymous husband letter claims wife's Candace-influenced beliefs are causing marriage strain",
+      "claim": "A letter read on Frank Turek's show by an anonymous husband states that his wife has become \"deeply influenced by Candace Owens' recent content\" regarding Turek, Israel, and conspiracy topics, and that this is creating a widening divide in their marriage.",
+      "anchored_artifacts": [
+        "A-2151.1"
+      ],
+      "related_nodes": [
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:48–00:34:40",
+      "investigative_direction": "Note as Frank Turek show content artifact; not investigation-relevant. Preserve for record only."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3056",
+      "ref": "C-3056",
+      "label": "Verified Timpanogos Regional Hospital source states hospital was not pre-informed",
+      "claim": "A source verified by host as a Timpanogos Regional Hospital employee told the host that the hospital was not informed ahead of time that Charlie Kirk was en route, contrary to the official 911-call-and-pre-notification narrative.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1216",
+        "N-2127"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:23–00:27:13",
+      "investigative_direction": "Obtain independent corroboration from hospital intake records, EMS radio traffic, and any 911-call recordings reflecting pre-arrival coordination."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3057",
+      "ref": "C-3057",
+      "label": "Brian Harpole did not personally identify himself as the 911 caller",
+      "claim": "Brian Harpole, in on-record statements, references a 911 call collectively (\"we called 911\") without identifying the specific individual who placed the call.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1217",
+        "N-2128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:17–00:27:13",
+      "investigative_direction": "Obtain the 911-call audio and CPD/EMS dispatch records for Sept. 10, 2025 between 12:23 and 12:30 p.m."
+    }
+  ],
+  "memes": []
+}

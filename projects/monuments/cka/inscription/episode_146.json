@@ -1,0 +1,824 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 146,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "21794f482ad4d6a70ad0484cc9044ad04925a9d1fd1605568d190338e4b42df7",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2320",
+      "family_ref": "A-2320",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2320.1",
+          "ref": "A-2320.1",
+          "description": "Mathematician email re: Iceland probability",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:01–00:01:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2321",
+      "family_ref": "A-2321",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2321.1",
+          "ref": "A-2321.1",
+          "description": "Jack Hibbs Facebook video announcing Charlie Kirk's death and citing \"Israeli news service\" as the source",
+          "related_claims": [
+            "C-3346"
+          ],
+          "related_nodes": [
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2322",
+      "family_ref": "A-2322",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2322.1",
+          "ref": "A-2322.1",
+          "description": "Jack Hibbs interview with Frank Churik — brother Butch's night-before UVU ticket request and pre-event photo",
+          "related_claims": [
+            "C-3347",
+            "C-3355"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208",
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:43–00:11:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2322.2",
+          "ref": "A-2322.2",
+          "description": "Jack Hibbs interview with Frank Churik — FaceTime sequence, Mikey McCoy call, \"cousin Charlie\" confusion, 12:30 PM prayer chain claim",
+          "related_claims": [
+            "C-3349",
+            "C-3350",
+            "C-3351"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-1209",
+            "N-2217"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:14–00:17:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2323",
+      "family_ref": "A-2323",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2323.1",
+          "ref": "A-2323.1",
+          "description": "Jack Hibbs audio interview with Todd Starns (Fox News) — brother Butch's front-row seat and post-shooting call",
+          "related_claims": [
+            "C-3345",
+            "C-3355"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208",
+            "N-1210"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:30–00:15:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2324",
+      "family_ref": "A-2324",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2324.1",
+          "ref": "A-2324.1",
+          "description": "Never-before-seen footage of Butch Hibbs opening camera app and recording multiple angles immediately after the shooting",
+          "related_claims": [
+            "C-3348"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2216"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:23–00:25:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2324.2",
+          "ref": "A-2324.2",
+          "description": "Butch Hibbs still on phone approximately five minutes after the shooting",
+          "related_claims": [
+            "C-3353"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2216"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:18–00:25:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2324.3",
+          "ref": "A-2324.3",
+          "description": "Butch Hibbs standing behind persons speaking to news crews about what they witnessed",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1207",
+            "N-2216"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:29–00:27:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2325",
+      "family_ref": "A-2325",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2325.1",
+          "ref": "A-2325.1",
+          "description": "Butch Hibbs in plaid shirt at UVU event with security detail",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:33–00:06:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2325.2",
+          "ref": "A-2325.2",
+          "description": "Photo of unidentified individual in pink hat and blue shirt holding a drink at UVU",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2218"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2326",
+      "family_ref": "A-2326",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2326.1",
+          "ref": "A-2326.1",
+          "description": "Footage of Charlie Kirk's parents arriving at the courthouse",
+          "related_claims": [
+            "C-3356"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2326.2",
+          "ref": "A-2326.2",
+          "description": "Footage of Stacy Sheridan and Tracy Martin arriving at the courthouse",
+          "related_claims": [
+            "C-3356"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2326.3",
+          "ref": "A-2326.3",
+          "description": "Footage of Andrew Kovat walking into the courthouse",
+          "related_claims": [
+            "C-3356"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2326.4",
+          "ref": "A-2326.4",
+          "description": "Footage of Pastor James Cadis on a mobility scooter at the courthouse",
+          "related_claims": [
+            "C-3356"
+          ],
+          "related_nodes": [
+            "N-1212"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Brother of Pastor Jack Hibbs; reported age 74 at time of UVU event; described as a \"mountain man\" living in Utah; subject of post-shooting recording behavior analysis.",
+      "related_artifacts": [
+        "A-2322.1",
+        "A-2322.2",
+        "A-2323.1",
+        "A-2324.1",
+        "A-2324.2",
+        "A-2324.3",
+        "A-2325.1"
+      ],
+      "related_claims": [
+        "C-3345",
+        "C-3347",
+        "C-3348",
+        "C-3353",
+        "C-3355"
+      ],
+      "tags": [],
+      "evidence_count": 7,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-2216"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Senior pastor of Calvary Chapel Church, Chino Hills, California; brother of Butch Hibbs; multiple public statements and interviews concerning 9/10 events; first to publicly announce Charlie Kirk's death.",
+      "related_artifacts": [
+        "A-2321.1",
+        "A-2322.1",
+        "A-2322.2",
+        "A-2323.1"
+      ],
+      "related_claims": [
+        "C-3346",
+        "C-3347",
+        "C-3349",
+        "C-3350",
+        "C-3351",
+        "C-3355"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1209",
+        "N-1210",
+        "N-2217"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Interviewer of Jack Hibbs in two clips played on air; described by host as a former military man; was FaceTiming with Jack Hibbs from the Tempe/Phoenix hospital area after the shooting.",
+      "related_artifacts": [
+        "A-2322.1",
+        "A-2322.2"
+      ],
+      "related_claims": [
+        "C-3347",
+        "C-3349"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-2217"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Fox News journalist who conducted an audio interview with Jack Hibbs played on air.",
+      "related_artifacts": [
+        "A-2323.1"
+      ],
+      "related_claims": [
+        "C-3345"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Described as former MSAD/Unit 8200 agent and CEO of PragerU; host states she previously recommended Jack Hibbs for the host's podcast.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Senior pastor of Calvary Chapel in Signal Hill, California; identified as one of Erika Kirk's TPUSA-affiliated faith pastors; co-hosts content related to Bible and 365 brand; observed on a mobility scooter at the courthouse.",
+      "related_artifacts": [
+        "A-2326.4"
+      ],
+      "related_claims": [
+        "C-3356"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Described by host as funders of certain Calvary Chapel churches (including Rob McCoy's Thousand Oaks location), PragerU, Daily Wire initial funding, and Ted Cruz; alleged to fly Israeli flags on Texas property.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Magistrate presiding over Tyler Robinson preliminary hearing; expected to rule on motion to dismiss charges 1, 6, and 7 on the day of broadcast.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3354"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2216",
+      "ref": "N-2216",
+      "name": "Butch Hibbs UVU Recording Behavior",
+      "type": "investigation_target",
+      "description": "Persistent investigation into why a 74-year-old attendee recorded footage from multiple angles immediately after the shooting rather than rendering aid, fleeing, or calling emergency services; whether the footage was transmitted to Jack Hibbs or others; and the identity/content of the ~5-minute post-shooting phone call.",
+      "related_artifacts": [
+        "A-2324.1",
+        "A-2324.2",
+        "A-2324.3"
+      ],
+      "related_claims": [
+        "C-3348",
+        "C-3353"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2217",
+      "ref": "N-2217",
+      "name": "Jack Hibbs Sequence-of-Events Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy in Jack Hibbs's accounts: (a) who called him first (Mikey McCoy vs. Frank Churik), (b) \"cousin Charlie\" misidentification in the immediate post-shooting call, (c) 12:30 PM prayer-chain timestamp reportedly only ~7 minutes after the shooting.",
+      "related_artifacts": [
+        "A-2322.2"
+      ],
+      "related_claims": [
+        "C-3349",
+        "C-3350",
+        "C-3351"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-1209"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2218",
+      "ref": "N-2218",
+      "name": "Unidentified UVU Attendee (Pink Hat / Blue Shirt)",
+      "type": "investigation_target",
+      "description": "Unidentified individual visible in UVU 9/10 photographs wearing a pink hat and blue shirt, holding what appears to be a drink; host has requested audience help identifying and contacting this person.",
+      "related_artifacts": [
+        "A-2325.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3345",
+      "ref": "C-3345",
+      "label": "Butch Hibbs attended UVU 9/10 with a front-row seat arranged through Charlie Kirk",
+      "claim": "In a Fox News audio interview, Jack Hibbs stated that his brother Butch received a front-row seat to the UVU event directly from Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-2323.1",
+        "A-2322.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:30",
+      "investigative_direction": "Confirm UVU event seating assignments, verify whether the seat location matches photographs, and corroborate with event staff or seating manifests."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3346",
+      "ref": "C-3346",
+      "label": "Jack Hibbs stated he learned of Charlie Kirk's death from an Israeli news service shortly after the shooting",
+      "claim": "In a Facebook video, Jack Hibbs stated he first learned Charlie Kirk had died \"shortly after Charlie was shot from Israeli news service,\" without explaining how that service obtained pre-announcement information.",
+      "anchored_artifacts": [
+        "A-2321.1"
+      ],
+      "related_nodes": [
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:45",
+      "investigative_direction": "Identify the specific Israeli outlet(s) referenced; review Israeli media's early reporting timeline; determine whether/how they obtained information before official announcement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3347",
+      "ref": "C-3347",
+      "label": "Jack Hibbs stated his brother Butch called him the night before 9/10 to request a UVU ticket",
+      "claim": "In an interview with Frank Churik, Jack Hibbs described receiving a call from his brother Butch the night before the UVU event, asking to attend and be introduced to Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-2322.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:43",
+      "investigative_direction": "Obtain Butch Hibbs's phone records for the night of 9/9–9/10 to verify the timing and content of the call to Jack Hibbs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3348",
+      "ref": "C-3348",
+      "label": "Butch Hibbs recorded footage on his phone within seconds of the shooting",
+      "claim": "Never-before-seen footage shows Butch Hibbs dipping down to open his camera app and recording multiple angles of the scene within seconds of the shot being fired, while remaining in place near the tent.",
+      "anchored_artifacts": [
+        "A-2324.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2216"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:23",
+      "investigative_direction": "Obtain original device with full metadata; determine total duration and any transmissions; compare timestamps to corroborate against other event footage."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3349",
+      "ref": "C-3349",
+      "label": "Jack Hibbs stated that Mikey McCoy called him before the FaceTime with Frank Churik",
+      "claim": "In a second interview clip with Frank Churik, Jack Hibbs stated he first received a call from Mikey McCoy, who said \"get everyone in the world praying,\" before the FaceTime with Churik began.",
+      "anchored_artifacts": [
+        "A-2322.2"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:14",
+      "investigative_direction": "Cross-reference Mikey McCoy's call logs (previously referenced as covering 12:24–12:44) for any call to a Jack Hibbs number; reconcile with the 12:30 PM prayer-chain claim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3350",
+      "ref": "C-3350",
+      "label": "Jack Hibbs initially confused Charlie Kirk with a relative named \"cousin Charlie\"",
+      "claim": "During the FaceTime with Frank Churik, Jack Hibbs described briefly believing his brother was reporting that a cousin named Charlie — not Charlie Kirk — had been shot.",
+      "anchored_artifacts": [
+        "A-2322.2"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2217"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:13",
+      "investigative_direction": "Verify the existence of a Jack Hibbs relative commonly known as \"Charlie\"; assess whether the confusion is plausible given family context and call conditions."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3351",
+      "ref": "C-3351",
+      "label": "Jack Hibbs placed the prayer-chain timing at approximately 12:30 PM Utah, roughly seven minutes after the shooting",
+      "claim": "Per Jack Hibbs's account, a prayer chain was underway at approximately 12:30 PM Utah time, which the host calculates as only about seven minutes after Charlie Kirk was shot.",
+      "anchored_artifacts": [
+        "A-2322.2"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2217"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:43",
+      "investigative_direction": "Establish the precise timestamp of the shooting from primary sources; corroborate hospital transport timeline; assess feasibility of FaceTime hospital contact within the stated window."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3352",
+      "ref": "C-3352",
+      "label": "Butch Hibbs was on a phone call approximately five minutes after the shooting, not visibly distressed",
+      "claim": "A still from UVU footage shows Butch Hibbs on what appears to be a phone call approximately five minutes after the shot, without visible signs of distress.",
+      "anchored_artifacts": [
+        "A-2324.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2216"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:18",
+      "investigative_direction": "Attempt to identify call recipient via phone records; cross-reference with Jack Hibbs's stated call timeline (cousin-Charlie call)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3353",
+      "ref": "C-3353",
+      "label": "Butch Hibbs is 74 years old and was in a plaid shirt at the UVU event",
+      "claim": "Jack Hibbs in interview identifies his brother Butch as 74 years old; UVU event photography shows him wearing a plaid shirt in the security detail area.",
+      "anchored_artifacts": [
+        "A-2322.1",
+        "A-2325.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:43",
+      "investigative_direction": "Confirm Butch Hibbs's date of birth and verify against any ID or background checks."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3354",
+      "ref": "C-3354",
+      "label": "Judge Graph was the magistrate presiding over the Tyler Robinson preliminary hearing decision on the broadcast date",
+      "claim": "The episode identifies Judge Graph as the magistrate expected to rule on the defense motion to dismiss charges 1, 6, and 7 in the Tyler Robinson case on September 1, 2026.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:24",
+      "investigative_direction": "Verify the magistrate's full name through Utah court records; obtain the written ruling once filed."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3355",
+      "ref": "C-3355",
+      "label": "A prayer chain / coordinated Calvary Chapel communication may have begun during the active emergency window",
+      "claim": "Jack Hibbs's account suggests multiple Calvary Chapel-affiliated individuals (Mikey McCoy, Frank Churik via FaceTime, Butch Hibbs via phone) were in communication within minutes of the shooting, consistent with a coordinated prayer-chain response beginning around 12:30 PM.",
+      "anchored_artifacts": [
+        "A-2322.1",
+        "A-2322.2",
+        "A-2323.1",
+        "A-2324.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1209",
+        "N-2217"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:43",
+      "investigative_direction": "Compare timestamps across all Calvary Chapel-linked calls and messages to determine whether communication pattern reflects coordinated response or independent contact."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3356",
+      "ref": "C-3356",
+      "label": "Erika Kirk, Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kovat, and Pastor James Cadis were present at the courthouse on the decision day",
+      "claim": "Courthouse footage captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kovat, and Pastor James Cadis arriving at the courthouse for Judge Graph's decision; Erika Kirk was present but not captured on camera.",
+      "anchored_artifacts": [
+        "A-2326.1",
+        "A-2326.2",
+        "A-2326.3",
+        "A-2326.4"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:52",
+      "investigative_direction": "Cross-reference courthouse visitor logs; reconcile with official attendee lists if released."
+    }
+  ],
+  "memes": []
+}

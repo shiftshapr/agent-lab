@@ -1,0 +1,633 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 70,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "7b329950d516234dfe924015e2ae2ceece2c1cacc9476909544e66ce23744a8b",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Episode 70 is structurally a three-clip episode plus an extended host monologue (\"open letter\") directed at Erika Kirk. Three on-air clips constitute the evidentiary backbone: (1) a Trace Gallagher Fox News interview in which Erika publicly pleads for courtroom \"full transparency\"; (2) a public video from former TPUSA PR manager Aubrey Lech describing her recent termination via an Uber-driver loyalty-test meeting; and (3) a Tim Dillon podcast clip in which Dillon sardonically names Erika Kirk the only person he trusts while describing political performance as \"fake.\" The host's open-letter monologue surrounding those clips advances five investigative targets — a French donor named Pierre, Erika's September 10 whereabouts, a purported Hamptons dinner with BB Netanyahu, \"Egyptian planes,\" and a TPUSA loyalty-test termination pattern — but those target-advances are host rhetoric rather than artifact-supported claims, so they are inscribed as investigation-target nodes only, not as evidence-backed claims.\n\nThe episode's structural importance is twofold: it converts three separate third-party artifacts (Gallagher interview, Lech video, Dillon clip) into the series' record, and it consolidates a set of open investigative targets that prior episodes had only flagged in passing.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1744",
+      "family_ref": "A-1744",
+      "bundle_name": "Trace Gallagher / Fox News Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1744.1",
+          "ref": "A-1744.1",
+          "description": "Trace Gallagher one-on-one interview with Erika Kirk (clip played on air)",
+          "related_claims": [
+            "C-2314",
+            "C-2315"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:55–00:01:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1745",
+      "family_ref": "A-1745",
+      "bundle_name": "New York Times Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1745.1",
+          "ref": "A-1745.1",
+          "description": "NYT article (read aloud on air) quoting Erika Kirk: \"Charlie's adrenal glands were just going off\"",
+          "related_claims": [
+            "C-2316"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:50–00:10:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1746",
+      "family_ref": "A-1746",
+      "bundle_name": "Jesse Watters / Fox News Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1746.1",
+          "ref": "A-1746.1",
+          "description": "Erika Kirk segment describing Charlie sleeping in daughter's room the night of 2025-09-09",
+          "related_claims": [
+            "C-2317"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:11–00:12:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1746.2",
+          "ref": "A-1746.2",
+          "description": "Erika Kirk segment describing flight to Utah and going \"straight to the hospital\"",
+          "related_claims": [
+            "C-2318"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:42–00:20:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1747",
+      "family_ref": "A-1747",
+      "bundle_name": "Aubrey Lech Public Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1747.1",
+          "ref": "A-1747.1",
+          "description": "Aubrey Lech self-published video statement describing her termination from TPUSA / ATK",
+          "related_claims": [
+            "C-2319",
+            "C-2320",
+            "C-2321",
+            "C-2322"
+          ],
+          "related_nodes": [
+            "N-903",
+            "N-904",
+            "N-1563"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:02–00:28:28",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1748",
+      "family_ref": "A-1748",
+      "bundle_name": "Tim Dillon Podcast Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1748.1",
+          "ref": "A-1748.1",
+          "description": "Tim Dillon clip describing political performance as \"fake\" and naming Erika Kirk the \"only person I trust\"",
+          "related_claims": [
+            "C-2323",
+            "C-2324"
+          ],
+          "related_nodes": [
+            "N-905",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:22–00:35:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1749",
+      "family_ref": "A-1749",
+      "bundle_name": "Purge Fallout GoFundMe Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1749.1",
+          "ref": "A-1749.1",
+          "description": "GoFundMe campaign titled \"Purge Fallout Fund\" supporting fired TPUSA employees",
+          "related_claims": [
+            "C-2325"
+          ],
+          "related_nodes": [
+            "N-1563"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:13–00:36:03",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-903",
+      "ref": "N-903",
+      "name": "Aubrey Lech",
+      "type": "person",
+      "description": "Former TPUSA public relations manager; spoke publicly about termination process in self-published video. Artifact-backed person new to the series record.",
+      "related_artifacts": [
+        "A-1747.1"
+      ],
+      "related_claims": [
+        "C-2319",
+        "C-2320",
+        "C-2321",
+        "C-2322"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-904",
+        "N-1563"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-904",
+      "ref": "N-904",
+      "name": "Marina Munz",
+      "type": "person",
+      "description": "Identified on-air as CMO of Turning Point USA; named by Aubrey Lech as present at her termination meeting.",
+      "related_artifacts": [
+        "A-1747.1"
+      ],
+      "related_claims": [
+        "C-2322"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-903"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-905",
+      "ref": "N-905",
+      "name": "Tim Dillon",
+      "type": "person",
+      "description": "Comedian / podcaster; artifact-backed on-air clip commenting on Erika Kirk and political performance.",
+      "related_artifacts": [
+        "A-1748.1"
+      ],
+      "related_claims": [
+        "C-2323",
+        "C-2324"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1563",
+      "ref": "N-1563",
+      "name": "TPUSA Post-Charlie Loyalty-Test Termination Pattern",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: alleged practice of terminating TPUSA staff on the basis of third-party hearsay (e.g., Uber driver conversation) and suspected narrative-dissent.",
+      "related_artifacts": [
+        "A-1747.1",
+        "A-1749.1"
+      ],
+      "related_claims": [
+        "C-2320",
+        "C-2321",
+        "C-2322",
+        "C-2325"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-903",
+        "N-904"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1564",
+      "ref": "N-1564",
+      "name": "Pierre / French Donor Investigation",
+      "type": "investigation_target",
+      "description": "Unconfirmed French individual, alleged by host to have committed \"billions\" to Turning Point USA after Charlie Kirk's death and to have known of the death before the public; identity and provenance not artifact-anchored in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2",
+        "N-1565"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1565",
+      "ref": "N-1565",
+      "name": "Erika Kirk September 10 Morning Itinerary Discrepancy",
+      "type": "investigation_target",
+      "description": "Discrepancy between Erika's stated post-Utah-flight sequence (Jesse Watters interview) and host's alleged contradictory evidence regarding her whereabouts on the morning of 2025-09-10.",
+      "related_artifacts": [
+        "A-1746.2"
+      ],
+      "related_claims": [
+        "C-2318"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1566",
+      "ref": "N-1566",
+      "name": "BB Netanyahu Hamptons Dinner Allegation",
+      "type": "investigation_target",
+      "description": "Host allegation that BB Netanyahu hosted a dinner Charlie attended in the Hamptons and was turned down regarding \"taking Turning Point USA to the next level\"; sourced only to host and to Andrew Kolvet-as-told-to-host, not to an artifact displayed in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1567",
+      "ref": "N-1567",
+      "name": "Egyptian Planes Investigation",
+      "type": "investigation_target",
+      "description": "Host-raised investigative target referencing \"Egyptian planes\" that allegedly departed Delaware; no artifact anchor in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1565"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2314",
+      "ref": "C-2314",
+      "label": "Erika Kirk publicly requested \"full transparency\" in Trace Gallagher interview",
+      "claim": "The Trace Gallagher Fox News interview segment played on air contains Erika Kirk stating she wants \"full transparency\" so the public does not have to rely on social media or news outlets for the account of what happened to her husband.",
+      "anchored_artifacts": [
+        "A-1744.1"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:55–00:01:55",
+      "investigative_direction": "Obtain unedited Gallagher interview footage and compare the played clip to the full broadcast."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2315",
+      "ref": "C-2315",
+      "label": "Host rejects Erika Kirk's transparency plea as inconsistent with prior actions",
+      "claim": "The host states she does not believe Erika Kirk's courtroom-transparency plea and cites Erika's prior refusal to release Turning Point USA's seized 4K footage and changes to prior statements as the basis for that disbelief.",
+      "anchored_artifacts": [
+        "A-1744.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:56–00:02:48",
+      "investigative_direction": "Compare TPUSA public statements over time against the footage-release history to assess whether Erika's stated goal of transparency aligns with prior organizational behavior."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2316",
+      "ref": "C-2316",
+      "label": "NYT article contains Erika's \"adrenal glands were just going off\" quote",
+      "claim": "A New York Times article quoted by the host on air contains Erika Kirk stating, the night before Charlie Kirk's death, that \"Charlie's adrenal glands were just going off\" and that he could not sleep.",
+      "anchored_artifacts": [
+        "A-1745.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:50–00:10:21",
+      "investigative_direction": "Locate and verify the original NYT article containing this quote; confirm publication date and surrounding context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2317",
+      "ref": "C-2317",
+      "label": "Erika told Jesse Watters she sent Charlie to sleep in daughter's room",
+      "claim": "The Jesse Watters interview segment read aloud on air contains Erika Kirk stating she wanted Charlie to have a good night's sleep and sent him to sleep in his daughter's room.",
+      "anchored_artifacts": [
+        "A-1746.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:11–00:12:25",
+      "investigative_direction": "Locate unedited Watters interview footage and confirm the bedroom-arrangement quote."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2318",
+      "ref": "C-2318",
+      "label": "Erika told Jesse Watters she landed in Utah and went straight to the hospital",
+      "claim": "The Jesse Watters interview segment read aloud on air contains Erika Kirk stating that after landing in Utah, she went straight to the hospital.",
+      "anchored_artifacts": [
+        "A-1746.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1565"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:42–00:20:30",
+      "investigative_direction": "Cross-check flight manifests, tarmac timing, and Andrew Kolvet's stated arrival sequence against the Watters account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2319",
+      "ref": "C-2319",
+      "label": "Aubrey Lech publicly identified herself as former TPUSA PR manager, recently terminated",
+      "claim": "Aubrey Lech's self-published video identifies her as the former public relations manager for Turning Point USA, employed since 2021, working through America Fest in December 2025, and terminated approximately three weeks prior to posting.",
+      "anchored_artifacts": [
+        "A-1747.1"
+      ],
+      "related_nodes": [
+        "N-903"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:02–00:28:28",
+      "investigative_direction": "Verify Lech's employment dates and termination date via TPUSA / ATK records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2320",
+      "ref": "C-2320",
+      "label": "Aubrey Lech stated termination meeting involved Uber-driver conversation",
+      "claim": "Aubrey Lech's video states she was brought into a meeting with Andrew Kolvet and Marina Munz and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to \"Aubrey.\"",
+      "anchored_artifacts": [
+        "A-1747.1"
+      ],
+      "related_nodes": [
+        "N-903",
+        "N-904",
+        "N-1563"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:02–00:28:28",
+      "investigative_direction": "Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2321",
+      "ref": "C-2321",
+      "label": "Aubrey Lech expressed belief termination was retaliation for narrative-dissent",
+      "claim": "Aubrey Lech's video states her personal belief that she was terminated because she was questioning the official narrative regarding Charlie Kirk's death, and that questioning the narrative is incompatible with continued TPUSA employment.",
+      "anchored_artifacts": [
+        "A-1747.1"
+      ],
+      "related_nodes": [
+        "N-903",
+        "N-1563"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:02–00:28:28",
+      "investigative_direction": "Compare the stated termination rationale (Uber-driver hearsay) against Lech's stated belief; seek additional former-employee testimony."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2322",
+      "ref": "C-2322",
+      "label": "Aubrey Lech video names Andrew Kolvet and Marina Munz at termination meeting",
+      "claim": "Aubrey Lech's video names Andrew Kolvet (described as her employer via ATK) and Marina Munz (CMO of Turning Point USA) as the two people present at her termination meeting.",
+      "anchored_artifacts": [
+        "A-1747.1"
+      ],
+      "related_nodes": [
+        "N-903",
+        "N-904"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:02–00:28:28",
+      "investigative_direction": "Verify Marina Munz's title and organizational role via TPUSA public records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2323",
+      "ref": "C-2323",
+      "label": "Tim Dillon clip describes political performance as \"fake\"",
+      "claim": "The Tim Dillon clip played on air contains the statement that political positioning by tech figures is \"performative\" and that \"everything is fake,\" including free-speech actors who once criticized and now shut down free speech.",
+      "anchored_artifacts": [
+        "A-1748.1"
+      ],
+      "related_nodes": [
+        "N-905"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:22–00:35:00",
+      "investigative_direction": "Identify the source episode of the Dillon clip and capture the full surrounding context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2324",
+      "ref": "C-2324",
+      "label": "Tim Dillon clip names Erika Kirk as \"the only person I trust\"",
+      "claim": "The Tim Dillon clip played on air contains the line, delivered sarcastically per host framing, naming Erika Kirk as \"the only person I trust\" in the current moment.",
+      "anchored_artifacts": [
+        "A-1748.1"
+      ],
+      "related_nodes": [
+        "N-905",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:22–00:35:00",
+      "investigative_direction": "Locate the unedited Dillon segment to determine whether the Erika line was delivered sarcastically, earnestly, or in mixed register."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2325",
+      "ref": "C-2325",
+      "label": "Host references Purge Fallout GoFundMe supporting fired TPUSA employees",
+      "claim": "The host describes an active GoFundMe campaign titled \"Purge Fallout Fund\" supporting approximately eight former Turning Point USA employees who were terminated without explanation after working through America Fest.",
+      "anchored_artifacts": [
+        "A-1749.1"
+      ],
+      "related_nodes": [
+        "N-1563"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:13–00:36:03",
+      "investigative_direction": "Verify the GoFundMe campaign directly; identify the eight named beneficiaries; confirm termination circumstances for each."
+    }
+  ],
+  "memes": []
+}

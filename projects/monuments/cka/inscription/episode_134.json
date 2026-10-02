@@ -1,0 +1,872 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 134,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "498191448f0429779cb41d878bd4596c8d20c9fdcbb3d3ef271dbb2b7b27e70a",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2205",
+      "family_ref": "A-2205",
+      "bundle_name": "Sky News Broadcast Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2205.1",
+          "ref": "A-2205.1",
+          "description": "Sky News live broadcast (Sept 11, 2025, ~5:27 PM Phoenix time) reporting Air Force 2 landing at Sky Harbor Airport with Kirk's body and motorcade en route to Hansen Mortuary",
+          "related_claims": [
+            "C-3166"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2162"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "15:40:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2206",
+      "family_ref": "A-2206",
+      "bundle_name": "Alex Clark Show Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2206.1",
+          "ref": "A-2206.1",
+          "description": "Andrew Kolvet pre-recorded interview on Alex Clark Show denying Charlie was becoming Catholic; describes Erika as cradle Catholic who followed a non-denominational path; references Erika's own prior denial of conversion on social media",
+          "related_claims": [
+            "C-3167"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1022",
+            "N-2163"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "18:27:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2207",
+      "family_ref": "A-2207",
+      "bundle_name": "Defense Memorandum Excerpt Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2207.1",
+          "ref": "A-2207.1",
+          "description": "Defense memorandum excerpt describing Kirk's autopsy: left neck strap muscles, left common carotid, and left internal/external jugular veins perforated; C7 vertebra obliterated; cervical spinal cord transected; hemorrhaging around heart and both lungs",
+          "related_claims": [
+            "C-3162",
+            "C-3163"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2160"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "33:25:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2208",
+      "family_ref": "A-2208",
+      "bundle_name": "Lisa Knows Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2208.1",
+          "ref": "A-2208.1",
+          "description": "X account \"Lisa Knows\" tweet accusing Candace of releasing footage the judge ordered not to be shown to the public; asserts Candace \"docketed a witness\"; calls for obstruction charges",
+          "related_claims": [
+            "C-3168"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "02:44:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2209",
+      "family_ref": "A-2209",
+      "bundle_name": "Viewer Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2209.1",
+          "ref": "A-2209.1",
+          "description": "Viewer email crediting Candace's Becoming Brigitte series with helping save their marriage from husband's emotional affair and reconnecting viewer with their sister",
+          "related_claims": [
+            "C-3174"
+          ],
+          "related_nodes": [
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "40:16:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2210",
+      "family_ref": "A-2210",
+      "bundle_name": "Andrew Kolvet Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2210.1",
+          "ref": "A-2210.1",
+          "description": "Andrew Kolvet tweet(s) posted 8:49 PM (2026-07-29) containing a list of words Candace has mispronounced across 367+ hours of podcasting",
+          "related_claims": [
+            "C-3165"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "05:44:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2211",
+      "family_ref": "A-2211",
+      "bundle_name": "Tim Pool Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2211.1",
+          "ref": "A-2211.1",
+          "description": "Tim Pool tweet responding to Alex Jones stating that the Lozi rooftop footage \"serves as a counter to the exploding Mike claims\"",
+          "related_claims": [
+            "C-3170"
+          ],
+          "related_nodes": [
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "06:39:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2212",
+      "family_ref": "A-2212",
+      "bundle_name": "Blake Neff Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2212.1",
+          "ref": "A-2212.1",
+          "description": "Blake Neff post responding to Alex Jones asserting that there exists another rooftop video from a different angle capturing the moment the rifle is pulled from the shooter's pants; notes defense demanded the footage be kept from the public on prejudice grounds",
+          "related_claims": [
+            "C-3164"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2161"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "08:40:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2213",
+      "family_ref": "A-2213",
+      "bundle_name": "Beavis and Butt-Head Podcast Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2213.1",
+          "ref": "A-2213.1",
+          "description": "Podcast audio clip (host labels \"Beavis and Butt-Head show\") in which a participant identified as Andrew describes another rooftop video angle: shooter rolls over railing, appears to assemble/pull a weapon from his pants, brief blind spot, then the visible Lozi footage shows running and prone position",
+          "related_claims": [
+            "C-3171"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2161"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "12:19:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2214",
+      "family_ref": "A-2214",
+      "bundle_name": "Media Siege Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2214.1",
+          "ref": "A-2214.1",
+          "description": "Media Siege host known as \"Paramount Not So Tactical\" tweet sharing a photo of a baby crawling, presented as proof that the rooftop figure's behavior was untrained human reflex rather than tactical training",
+          "related_claims": [
+            "C-3172"
+          ],
+          "related_nodes": [
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "07:33:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2215",
+      "family_ref": "A-2215",
+      "bundle_name": "Community Note Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2215.1",
+          "ref": "A-2215.1",
+          "description": "Community Note applied to obstruction-accusation tweets clarifying that court broadcasting limits apply to courtroom media (not third-party commentators) and that legal obstruction of justice requires corrupt intent to impede proceedings",
+          "related_claims": [
+            "C-3169"
+          ],
+          "related_nodes": [
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "03:53:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2216",
+      "family_ref": "A-2216",
+      "bundle_name": "Arrest Candace Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2216.1",
+          "ref": "A-2216.1",
+          "description": "X user tweet demanding Candace be charged with obstruction of justice / jury tampering for releasing the rooftop footage; asserts a \"judge [graft?] demanded [it] not be shown\"",
+          "related_claims": [
+            "C-3173"
+          ],
+          "related_nodes": [
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "02:44:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary subject of episode's evidentiary claims: defense-memorandum autopsy findings, funeral/burial arrangements, Sky News arrival report.",
+      "related_artifacts": [
+        "A-2205.1",
+        "A-2207.1"
+      ],
+      "related_claims": [
+        "C-3162",
+        "C-3163",
+        "C-3166"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2158",
+        "N-2160",
+        "N-2163"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1022",
+      "ref": "N-1022",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "Subject of host claims about funeral arrangements; named in pre-recorded Kolvet interview re: religious status.",
+      "related_artifacts": [
+        "A-2206.1"
+      ],
+      "related_claims": [
+        "C-3167"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2158",
+        "N-2159",
+        "N-2163"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Turning Point USA spokesperson; posted mispronunciation list in response to Candace; appeared on Alex Clark show denying Catholic conversion; discussed \"other angle\" footage on podcast.",
+      "related_artifacts": [
+        "A-2206.1",
+        "A-2210.1",
+        "A-2213.1"
+      ],
+      "related_claims": [
+        "C-3165",
+        "C-3167",
+        "C-3171"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2161",
+        "N-2163"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Turning Point USA figure; asserted another rooftop angle exists showing rifle pulled from pants.",
+      "related_artifacts": [
+        "A-2212.1"
+      ],
+      "related_claims": [
+        "C-3164"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2161"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Independent commentator; tweeted that Lozi footage counters \"exploding mic\" claims.",
+      "related_artifacts": [
+        "A-2211.1"
+      ],
+      "related_claims": [
+        "C-3170"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "X account; accused Candace of releasing restricted footage; called for obstruction charges.",
+      "related_artifacts": [
+        "A-2208.1"
+      ],
+      "related_claims": [
+        "C-3168"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Host figure; shared baby-crawling photo to argue rooftop figure was not trained/tactical.",
+      "related_artifacts": [
+        "A-2214.1"
+      ],
+      "related_claims": [
+        "C-3172"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2158",
+      "ref": "N-2158",
+      "name": "Kirk Burial / Cremation Status",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: whether Charlie Kirk was actually interred at a Catholic cemetery, or subject to a mock burial before/after cremation.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1",
+        "N-1022",
+        "N-2159",
+        "N-2162",
+        "N-2163"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2159",
+      "ref": "N-2159",
+      "name": "Mock Burial Allegation",
+      "type": "investigation_target",
+      "description": "Specific allegation from unnamed tipster: Hansen Mortuary declined to participate in a mock burial, prompting TPUSA to relocate to a Catholic church arrangement via Erika's priest contact.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1022",
+        "N-2158",
+        "N-2162",
+        "N-2163"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2160",
+      "ref": "N-2160",
+      "name": "Kirk Autopsy Heart/Lung Hemorrhage Causation",
+      "type": "investigation_target",
+      "description": "Investigation target concerning the cause of hemorrhaging observed around Kirk's heart and both lungs — bullet-trajectory effects, post-injury medical intervention (hospital resuscitation), or alternative blunt force trauma (e.g., exploding microphone).",
+      "related_artifacts": [
+        "A-2207.1"
+      ],
+      "related_claims": [
+        "C-3162",
+        "C-3163"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2161",
+      "ref": "N-2161",
+      "name": "\"Other Angle\" Rooftop Footage Existence",
+      "type": "investigation_target",
+      "description": "Investigation target concerning the alleged second rooftop video angle (claimed by Blake Neff and by podcast participant) showing the shooter pulling a rifle from his pants / assembling a weapon.",
+      "related_artifacts": [
+        "A-2212.1",
+        "A-2213.1"
+      ],
+      "related_claims": [
+        "C-3164",
+        "C-3171"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2162",
+      "ref": "N-2162",
+      "name": "Hansen Mortuary Role",
+      "type": "investigation_target",
+      "description": "Investigation target concerning Hansen Mortuary's involvement: receipt of Kirk's body on Sept 11, alleged refusal to participate in mock burial, and transition of remains to a Catholic funeral.",
+      "related_artifacts": [
+        "A-2205.1"
+      ],
+      "related_claims": [
+        "C-3166"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2158",
+        "N-2159"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2163",
+      "ref": "N-2163",
+      "name": "Kirk Religious Affiliation Status",
+      "type": "investigation_target",
+      "description": "Investigation target concerning Charlie Kirk's actual religious affiliation at time of death: claimed by TPUSA as evangelical/non-denominational; Catholic funeral mass creates conflict with that claim.",
+      "related_artifacts": [
+        "A-2206.1"
+      ],
+      "related_claims": [
+        "C-3167"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-1022",
+        "N-1207",
+        "N-2159"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3162",
+      "ref": "C-3162",
+      "label": "Defense Memo: Bullet Perforated Left Neck Structures and C7 Vertebra",
+      "claim": "The defense memorandum excerpt states the bullet sequentially perforated the anterior left side of Kirk's neck strap muscles, left common carotid artery, and left internal and external jugular veins, obliterated the left side of C7 vertebra, and transected the cervical spinal cord.",
+      "anchored_artifacts": [
+        "A-2207.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2160"
+      ],
+      "tags": [],
+      "claim_timestamp": "33:25:00",
+      "investigative_direction": "Obtain the complete defense memorandum and compare with the medical examiner's full autopsy report and any independent forensic review."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3163",
+      "ref": "C-3163",
+      "label": "Defense Memo: Hemorrhaging Around Heart and Both Lungs Observed",
+      "claim": "The defense memorandum states the medical examiner observed hemorrhaging around Kirk's heart and both of his lungs (left and right).",
+      "anchored_artifacts": [
+        "A-2207.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2160"
+      ],
+      "tags": [],
+      "claim_timestamp": "35:25:00",
+      "investigative_direction": "Obtain complete autopsy findings; consult independent medical expert on whether hemorrhaging is consistent with the described bullet trajectory, post-injury resuscitation, or alternative blunt force trauma."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3164",
+      "ref": "C-3164",
+      "label": "Blake Neff Asserts Existence of Another Rooftop Angle",
+      "claim": "Blake Neff posted that there exists another rooftop video from a different angle that captures the moment the rifle is pulled from the shooter's pants, noting this moment is not visible in the Lozi rooftop video.",
+      "anchored_artifacts": [
+        "A-2212.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2161"
+      ],
+      "tags": [],
+      "claim_timestamp": "10:30:00",
+      "investigative_direction": "Verify the claim via courtroom exhibit records; determine whether any second rooftop footage was formally entered as evidence in the preliminary hearing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3165",
+      "ref": "C-3165",
+      "label": "Andrew Kolvet Responds With Pronunciation List Tweet",
+      "claim": "At 8:49 PM on 2026-07-29, the evening after Candace's previous episode, Andrew Kolvet posted tweets containing a list of words Candace has mispronounced across 367+ hours of podcasting.",
+      "anchored_artifacts": [
+        "A-2210.1"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "05:44:00",
+      "investigative_direction": "Obtain the original tweet thread; verify timing relative to the rooftop footage release."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3166",
+      "ref": "C-3166",
+      "label": "Sky News Reports Kirk's Body En Route to Hansen Mortuary",
+      "claim": "On 2025-09-11 at approximately 5:27 PM Phoenix time, Sky News broadcast that Air Force 2 had landed at Sky Harbor Airport carrying Kirk's body and that the motorcade was heading to Hansen Mortuary in Phoenix.",
+      "anchored_artifacts": [
+        "A-2205.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2162"
+      ],
+      "tags": [],
+      "claim_timestamp": "15:40:00",
+      "investigative_direction": "Cross-reference Sky News broadcast archive; confirm mortuary receipt and timing against Hansen Mortuary records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3167",
+      "ref": "C-3167",
+      "label": "Andrew Kolvet States Charlie Was Not Becoming Catholic",
+      "claim": "On a pre-recorded appearance on Alex Clark's show prior to the Catholic funeral mass, Andrew Kolvet stated Charlie was not becoming Catholic, described Erika as a cradle Catholic who followed a non-denominational path, and cited a prior social media exchange in which Erika herself denied conversion.",
+      "anchored_artifacts": [
+        "A-2206.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1022",
+        "N-2163"
+      ],
+      "tags": [],
+      "claim_timestamp": "18:27:00",
+      "investigative_direction": "Obtain the full Alex Clark interview recording; verify pre-record date relative to Sept 20 funeral mass; identify Erika's referenced social media exchange."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3168",
+      "ref": "C-3168",
+      "label": "Lisa Knows Accuses Candace of Releasing Restricted Footage",
+      "claim": "An X account called Lisa Knows posted that Candace released footage the judge ordered not be shown to the public, asserted Candace had \"docketed a witness\" for the prosecution, and called for obstruction charges against Candace.",
+      "anchored_artifacts": [
+        "A-2208.1"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "02:44:00",
+      "investigative_direction": "Verify original tweet; cross-reference court orders on broadcasting exhibits."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3169",
+      "ref": "C-3169",
+      "label": "Community Note Clarifies Broadcasting Limits and Obstruction Standard",
+      "claim": "A Community Note applied to the obstruction-accusation tweets clarified that court broadcasting limits apply to courtroom media (not third-party commentators) and that legal obstruction of justice requires corrupt intent to impede proceedings.",
+      "anchored_artifacts": [
+        "A-2215.1"
+      ],
+      "related_nodes": [
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "03:53:00",
+      "investigative_direction": "Verify original tweet with Community Note attached; consult legal authority on obstruction statute elements (18 U.S.C. § 1503 et seq.)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3170",
+      "ref": "C-3170",
+      "label": "Tim Pool Characterizes Lozi Footage as Counter to Exploding Mic Claims",
+      "claim": "Tim Pool tweeted in response to Alex Jones that the Lozi rooftop footage \"serves as a counter to the exploding Mike claims.\"",
+      "anchored_artifacts": [
+        "A-2211.1"
+      ],
+      "related_nodes": [
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "06:39:00",
+      "investigative_direction": "Verify original tweet content and timing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3171",
+      "ref": "C-3171",
+      "label": "Podcast Describes Another Angle Showing Weapon Handling",
+      "claim": "On a podcast referred to by the host as the \"Beavis and Butt-Head show,\" a participant identified as Andrew described another rooftop video angle in which the shooter rolls over the railing, appears to assemble or pull a weapon from his pants, there is a brief blind spot, and then the visible Lozi footage shows him running and taking a prone position.",
+      "anchored_artifacts": [
+        "A-2213.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2161"
+      ],
+      "tags": [],
+      "claim_timestamp": "12:19:00",
+      "investigative_direction": "Identify the actual podcast; obtain the full episode; verify whether any second rooftop footage was formally entered as evidence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3172",
+      "ref": "C-3172",
+      "label": "Media Siege Shares Baby Photo to Argue Untrained Reflex",
+      "claim": "A Media Siege host known as \"Paramount Not So Tactical\" shared a photo of a baby crawling, presented as proof that the rooftop figure's behavior was untrained human reflex rather than tactical training.",
+      "anchored_artifacts": [
+        "A-2214.1"
+      ],
+      "related_nodes": [
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "07:33:00",
+      "investigative_direction": "Verify the original tweet; identify the posting account; confirm image attribution."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3173",
+      "ref": "C-3173",
+      "label": "X User Calls for Candace's Arrest on Obstruction Charges",
+      "claim": "An X user posted that if Candace was not charged with obstruction of justice / jury tampering for releasing the rooftop footage, it would prove a two-tiered justice system, and demanded that those responsible go to jail.",
+      "anchored_artifacts": [
+        "A-2216.1"
+      ],
+      "related_nodes": [
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "02:44:00",
+      "investigative_direction": "Verify original tweet content; note possible transcription artifacts in quote."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3174",
+      "ref": "C-3174",
+      "label": "Viewer Email Credits Candace's Series With Helping Marriage",
+      "claim": "A viewer emailed Candace crediting her Becoming Brigitte series with helping their marriage recover from the husband's emotional affair, leading to renewed conversations and reconnection with the viewer's sister.",
+      "anchored_artifacts": [
+        "A-2209.1"
+      ],
+      "related_nodes": [
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "40:16:00",
+      "investigative_direction": "Verify by contacting the viewer with consent; tangential to the Kirk investigation but artifact-anchored."
+    }
+  ],
+  "memes": []
+}

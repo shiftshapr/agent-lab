@@ -1,0 +1,1196 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 39,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "41edd8347eafa2d54f1596dffd5b4a9978e5e9bfc3de6ba276c5ff2b85f2e187",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1480",
+      "family_ref": "A-1480",
+      "bundle_name": "Vanity Fair Article Bundle (DuPont Heir)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1480.1",
+          "ref": "A-1480.1",
+          "description": "Vanity Fair article: \"DuPont air gets no prison time for raping three-year-old daughter\"",
+          "related_claims": [
+            "C-1803",
+            "C-1804",
+            "C-1805",
+            "C-1806",
+            "C-1807",
+            "C-1808"
+          ],
+          "related_nodes": [
+            "N-463",
+            "N-464",
+            "N-465",
+            "N-466",
+            "N-467",
+            "N-468",
+            "N-474",
+            "N-475",
+            "N-1377"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:34–00:10:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1481",
+      "family_ref": "A-1481",
+      "bundle_name": "Charlie Kirk April 2018 Text Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1481.1",
+          "ref": "A-1481.1",
+          "description": "Charlie Kirk text message dated April 13, 2018, predicting war and \"absolute and total destruction\"",
+          "related_claims": [
+            "C-1809"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1482",
+      "family_ref": "A-1482",
+      "bundle_name": "Charlie Kirk Date Outfit Text Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1482.2",
+          "ref": "A-1482.2",
+          "description": "Text exchange between Charlie Kirk and Candace Owens about a shirt before a date",
+          "related_claims": [
+            "C-1810"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1483",
+      "family_ref": "A-1483",
+      "bundle_name": "Episode 38 Viewer Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1483.1",
+          "ref": "A-1483.1",
+          "description": "Viewer comment asserting McRonone lawsuit intended to go nowhere because Candace was supposed to have been assassinated before the case reached court",
+          "related_claims": [
+            "C-1811"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1484",
+      "family_ref": "A-1484",
+      "bundle_name": "Episode 39 Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1484.1",
+          "ref": "A-1484.1",
+          "description": "Multiple viewer comments read aloud on Episode 39 expressing support for host and referencing Charlie Kirk",
+          "related_claims": [
+            "C-1812"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-470"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:54:38–00:59:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1485",
+      "family_ref": "A-1485",
+      "bundle_name": "Make Him a Sandwich Book Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1485.1",
+          "ref": "A-1485.1",
+          "description": "Announcement that Candace Owens' book \"Make Him a Sandwich\" is available on Amazon",
+          "related_claims": [
+            "C-1813"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1486",
+      "family_ref": "A-1486",
+      "bundle_name": "TPUSA Insider Tips Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1486.1",
+          "ref": "A-1486.1",
+          "description": "Testimony from six TPUSA employees that Justin Strife made an immediate call to a donor prospect after Charlie Kirk's assassination",
+          "related_claims": [
+            "C-1814"
+          ],
+          "related_nodes": [
+            "N-470",
+            "N-471",
+            "N-1369",
+            "N-1371"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1486.2",
+          "ref": "A-1486.2",
+          "description": "Testimony from two TPUSA sources that the donor prospect was French American, named Pierre",
+          "related_claims": [
+            "C-1815"
+          ],
+          "related_nodes": [
+            "N-470",
+            "N-1369"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1486.3",
+          "ref": "A-1486.3",
+          "description": "TPUSA sources identifying the donor prospect as Pierre Dupont after host mentioned the name on the prior episode",
+          "related_claims": [
+            "C-1816"
+          ],
+          "related_nodes": [
+            "N-470",
+            "N-471",
+            "N-1369"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1486.4",
+          "ref": "A-1486.4",
+          "description": "Proof presented by a TPUSA source of a conversation in which Tyler Bowyer discussed TPUSA plans to roll out a program to build houses for first-time home buyers",
+          "related_claims": [
+            "C-1817"
+          ],
+          "related_nodes": [
+            "N-470",
+            "N-85",
+            "N-1372"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1487",
+      "family_ref": "A-1487",
+      "bundle_name": "Federal Source Tip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1487.1",
+          "ref": "A-1487.1",
+          "description": "Tip from a federal source asserting that Turning Point USA put in a personal request to kill the Egyptian plane story",
+          "related_claims": [
+            "C-1818"
+          ],
+          "related_nodes": [
+            "N-1370"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1488",
+      "family_ref": "A-1488",
+      "bundle_name": "Andrew Kolvet Family Friend Tip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1488.1",
+          "ref": "A-1488.1",
+          "description": "Written tip from a close family friend of Andrew Kolvet stating Andrew told them that when Charlie said no to \"BB,\" he lost out on millions",
+          "related_claims": [
+            "C-1819"
+          ],
+          "related_nodes": [
+            "N-1373",
+            "N-1376"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-465",
+      "ref": "N-465",
+      "name": "Vanity Fair Article Bundle (DuPont Heir)",
+      "type": "person",
+      "description": "### Person Nodes",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-462",
+      "ref": "N-462",
+      "name": "Charles Joseph Bonaparte",
+      "type": "person",
+      "description": "Reported by host as founder of the FBI; tied in host's narrative to the broader French-American institutional framework. Mentioned without artifact anchor.",
+      "related_artifacts": [
+        "A-1484.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1374"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-464",
+      "ref": "N-464",
+      "name": "Robert H. Richards III",
+      "type": "person",
+      "description": "Father of Robert Richards IV; retired partner at Richards Layton & Finger law firm per Vanity Fair article.",
+      "related_artifacts": [
+        "A-1480.1"
+      ],
+      "related_claims": [
+        "C-1805"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-463",
+        "N-1374",
+        "N-1377"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-463",
+      "ref": "N-463",
+      "name": "Robert Richards IV",
+      "type": "person",
+      "description": "DuPont chemical heir; convicted in 2009 of raping three-year-old daughter; admitted to assaulting infant son; received treatment in lieu of prison per Judge Jan Jordan ruling.",
+      "related_artifacts": [
+        "A-1480.1"
+      ],
+      "related_claims": [
+        "C-1803",
+        "C-1804",
+        "C-1805",
+        "C-1806"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-464",
+        "N-475",
+        "N-1377"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-475",
+      "ref": "N-475",
+      "name": "Judge Jan Jordan",
+      "type": "person",
+      "description": "Sentenced Robert Richards IV to treatment in lieu of prison for 2009 rape conviction.",
+      "related_artifacts": [
+        "A-1480.1"
+      ],
+      "related_claims": [
+        "C-1804"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-463"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-466",
+      "ref": "N-466",
+      "name": "John DuPont",
+      "type": "person",
+      "description": "Shot Olympic wrestler David Schultz dead in driveway of family mansion in 1996; died in prison.",
+      "related_artifacts": [
+        "A-1480.1"
+      ],
+      "related_claims": [
+        "C-1807"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-474",
+        "N-1377"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-474",
+      "ref": "N-474",
+      "name": "David Schultz",
+      "type": "person",
+      "description": "Olympic wrestler murdered by John DuPont in 1996.",
+      "related_artifacts": [
+        "A-1480.1"
+      ],
+      "related_claims": [
+        "C-1807"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-466"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-467",
+      "ref": "N-467",
+      "name": "Lisa Dean DuPont",
+      "type": "person",
+      "description": "DuPont family member; per Vanity Fair, allegedly ordered killing of Las Vegas prostitute who was dating her drug-addicted son.",
+      "related_artifacts": [
+        "A-1480.1"
+      ],
+      "related_claims": [
+        "C-1808"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-468",
+        "N-1377"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-468",
+      "ref": "N-468",
+      "name": "Christopher Mosley",
+      "type": "person",
+      "description": "Per Vanity Fair, killed Las Vegas prostitute at Lisa Dean DuPont's direction; died in prison.",
+      "related_artifacts": [
+        "A-1480.1"
+      ],
+      "related_claims": [
+        "C-1808"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-467",
+        "N-1377"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-470",
+      "ref": "N-470",
+      "name": "Stacy Sheridan",
+      "type": "person",
+      "description": "TPUSA Senior Advancement Director; brought in by Tyler Bowyer; host describes her registered agent as located at 919 North Market Street, Wilmington; relevant LLC identified by host as Cloverstone Ventures.",
+      "related_artifacts": [
+        "A-1486.1",
+        "A-1486.2",
+        "A-1486.3",
+        "A-1486.4"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-85",
+        "N-1372",
+        "N-1375"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-471",
+      "ref": "N-471",
+      "name": "Tyler Bowyer's brother (unnamed)",
+      "type": "person",
+      "description": "Per host assertion (not artifact-anchored), worked ten years in dental sales until Charlie's death, then took role in TPUSA real-estate program.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-85",
+        "N-1372"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-469",
+      "ref": "N-469",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Friend who joined Charlie Kirk on Maine family vacation with wife Eliza; captured final videos of Charlie per host.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-473",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-473",
+      "ref": "N-473",
+      "name": "Eliza McCoy",
+      "type": "person",
+      "description": "Wife of Mikey McCoy; joined Charlie Kirk family vacation in Maine.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-469",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-476",
+      "ref": "N-476",
+      "name": "Bill Aman",
+      "type": "person",
+      "description": "Per host, paid influencers at Hamptons retreat; described as having potential donor interest in TPUSA.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1369",
+      "ref": "N-1369",
+      "name": "Pierre Dupont Donor Identity Verification Question",
+      "type": "investigation_target",
+      "description": "Persistent target: whether the \"French-American Pierre\" referenced by TPUSA sources is Pierre Dupont, and the nature of his reported donor relationship with TPUSA.",
+      "related_artifacts": [
+        "A-1486.1",
+        "A-1486.2",
+        "A-1486.3"
+      ],
+      "related_claims": [
+        "C-1815",
+        "C-1816"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-470"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1370",
+      "ref": "N-1370",
+      "name": "TPUSA Egyptian Plane Story Suppression Attempt",
+      "type": "investigation_target",
+      "description": "Per federal source, TPUSA allegedly placed personal request to kill the Egyptian plane story.",
+      "related_artifacts": [
+        "A-1487.1"
+      ],
+      "related_claims": [
+        "C-1818"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1371",
+      "ref": "N-1371",
+      "name": "Justin Strife Post-Assassination Phone Call",
+      "type": "investigation_target",
+      "description": "Six TPUSA sources reported rumor that Strife placed immediate call to donor prospect on the day of Charlie's killing; donor described as holding a billion-dollar IPO-related piece.",
+      "related_artifacts": [
+        "A-1486.1"
+      ],
+      "related_claims": [
+        "C-1814"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-43"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1372",
+      "ref": "N-1372",
+      "name": "TPUSA Real Estate Program Allegation",
+      "type": "investigation_target",
+      "description": "Per source testimony with supporting proof, Tyler Bowyer discussed TPUSA plans to build houses for first-time home buyers, leveraging TPUSA's young-Christian audience.",
+      "related_artifacts": [
+        "A-1486.4"
+      ],
+      "related_claims": [
+        "C-1817"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-470",
+        "N-471",
+        "N-85"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1373",
+      "ref": "N-1373",
+      "name": "BB Net/Yahoo Offer to TPUSA",
+      "type": "investigation_target",
+      "description": "Per host narrative (not artifact-anchored), BB Net and Yahoo allegedly offered to take TPUSA to the next level in exchange for unspecified consideration; Charlie allegedly declined. Andrew Kolvet tip indirectly references \"BB.\" Identity of BB unverified.",
+      "related_artifacts": [
+        "A-1488.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1374",
+      "ref": "N-1374",
+      "name": "Richards Layton & Finger Connection to Candace Lawsuit",
+      "type": "investigation_target",
+      "description": "Per host, the law firm whose retired founding partner is DuPont family (Robert H. Richards III) is the firm filing paperwork in Candace's McRonone lawsuit. Requires verification.",
+      "related_artifacts": [
+        "A-1480.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-464"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1375",
+      "ref": "N-1375",
+      "name": "Stacy Sheridan Registered Agent and LLC Question",
+      "type": "investigation_target",
+      "description": "Per host (not artifact-anchored), Stacy Sheridan's registered agent is at 919 North Market Street, Wilmington (same building as Brijit Lawyers); relevant LLC named as Cloverstone Ventures. Verification pending.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-470"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1376",
+      "ref": "N-1376",
+      "name": "Andrew Kolvet \"Lost Millions\" Tip Verification",
+      "type": "investigation_target",
+      "description": "Per written tip from Andrew Kolvet family friend, Andrew stated Charlie lost millions by declining BB's offer. Andrew Kolvet described as acting \"weird\" per tipster.",
+      "related_artifacts": [
+        "A-1488.1"
+      ],
+      "related_claims": [
+        "C-1819"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1373"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1377",
+      "ref": "N-1377",
+      "name": "DuPont Family Pattern of Crimes",
+      "type": "investigation_target",
+      "description": "Aggregating pattern: Richards IV rape conviction with no prison; John DuPont murder of David Schultz; Lisa Dean DuPont / Mosley murder for hire of Vegas prostitute.",
+      "related_artifacts": [
+        "A-1480.1"
+      ],
+      "related_claims": [
+        "C-1803",
+        "C-1804",
+        "C-1806",
+        "C-1807",
+        "C-1808"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-463",
+        "N-466",
+        "N-467"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Referenced extensively throughout episode; subject of multiple artifact-anchored claims (April 2018 text, date outfit text, BB decline alleged).",
+      "related_artifacts": [
+        "A-1481.1",
+        "A-1482.1",
+        "A-1484.1"
+      ],
+      "related_claims": [
+        "C-1809",
+        "C-1810"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-469",
+        "N-473"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-43",
+      "ref": "N-43",
+      "name": "Justin Strife",
+      "type": "person",
+      "description": "Elevated to COO of Turning Point USA on September 2, 2025 per internal memo; tasked with leading DOGE-style efficiency audit.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Governor Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1803",
+      "ref": "C-1803",
+      "label": "Robert Richards IV convicted in 2009 of raping his three-year-old daughter",
+      "claim": "Robert Richards IV was convicted in 2009 of raping his three-year-old daughter, seven years after the child reported the abuse.",
+      "anchored_artifacts": [
+        "A-1480.1"
+      ],
+      "related_nodes": [
+        "N-463",
+        "N-1377"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:34",
+      "investigative_direction": "Obtain certified court records of the 2009 Delaware conviction and compare to Vanity Fair account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1804",
+      "ref": "C-1804",
+      "label": "Judge Jan Jordan ruled treatment in lieu of prison for Richards IV",
+      "claim": "Judge Jan Jordan ruled that Robert Richards IV would benefit from treatment instead of prison time, citing his height and other factors.",
+      "anchored_artifacts": [
+        "A-1480.1"
+      ],
+      "related_nodes": [
+        "N-463",
+        "N-475",
+        "N-1377"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:45",
+      "investigative_direction": "Obtain the sentencing order or contemporaneous news coverage of the Jordan ruling."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1805",
+      "ref": "C-1805",
+      "label": "Robert H. Richards III is Richards IV's father and retired partner at Richards Layton & Finger",
+      "claim": "Robert H. Richards III, father of Robert Richards IV, is identified in the Vanity Fair article as a retired partner at the Richards Layton & Finger law firm.",
+      "anchored_artifacts": [
+        "A-1480.1"
+      ],
+      "related_nodes": [
+        "N-463",
+        "N-464",
+        "N-1374"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:36",
+      "investigative_direction": "Cross-reference firm partnership records and Richards family genealogy."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1806",
+      "ref": "C-1806",
+      "label": "Richards IV admitted to sexually assaulting his infant son",
+      "claim": "Robert Richards IV also admitted to sexually assaulting his infant son and was initially charged with two counts of second-degree child rape carrying a mandatory 20-year term, before pleading to a reduced charge of fourth-degree rape.",
+      "anchored_artifacts": [
+        "A-1480.1"
+      ],
+      "related_nodes": [
+        "N-463",
+        "N-1377"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:20",
+      "investigative_direction": "Obtain the plea agreement and original charging documents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1807",
+      "ref": "C-1807",
+      "label": "John DuPont shot Olympic wrestler David Schultz dead in 1996",
+      "claim": "John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family mansion in 1996, per Vanity Fair account.",
+      "anchored_artifacts": [
+        "A-1480.1"
+      ],
+      "related_nodes": [
+        "N-466",
+        "N-474",
+        "N-1377"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:20",
+      "investigative_direction": "Confirm against public court records of the John DuPont criminal case."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1808",
+      "ref": "C-1808",
+      "label": "Lisa Dean DuPont and Christopher Mosley ordered killing of Las Vegas prostitute",
+      "claim": "Per Vanity Fair, Lisa Dean DuPont and her husband Christopher Mosley ordered the killing of a Las Vegas prostitute whose body was found in a motel air conditioner; money traced to the DuPont family. Both DuPont and Mosley died in prison.",
+      "anchored_artifacts": [
+        "A-1480.1"
+      ],
+      "related_nodes": [
+        "N-467",
+        "N-468",
+        "N-1377"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:39",
+      "investigative_direction": "Locate contemporaneous court filings or the original Dominic Dunn Vanity Fair piece."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1809",
+      "ref": "C-1809",
+      "label": "Charlie Kirk wrote on April 13, 2018 about real war beyond fathoming",
+      "claim": "Charlie Kirk wrote on April 13, 2018: \"In our lifetime, we will experience real war beyond anything that we can fathom. Absolute and total destruction.\"",
+      "anchored_artifacts": [
+        "A-1481.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:09",
+      "investigative_direction": "Obtain the original text record or phone screenshot for verification of exact wording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1810",
+      "ref": "C-1810",
+      "label": "Charlie Kirk texted about whether to change shirt before a date",
+      "claim": "Charlie Kirk texted Candace Owens asking whether he had to change his shirt before a date; Owens replied \"Yes, and throw it away if you can, Charlie\"; Kirk replied \"Ah, okay.\"",
+      "anchored_artifacts": [
+        "A-1482.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:29",
+      "investigative_direction": "Obtain screenshot of original exchange if preserved."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1811",
+      "ref": "C-1811",
+      "label": "Viewer theory that McRonone lawsuit was intended to pre-empt Candace's assassination",
+      "claim": "A viewer commented that the McRonone lawsuit was designed to go nowhere because Candace was supposed to have been assassinated before the case reached court, allowing plaintiffs to permanently claim she was lying.",
+      "anchored_artifacts": [
+        "A-1483.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:41",
+      "investigative_direction": "Review litigation timing and any sealed filings in the McRonone matter."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1812",
+      "ref": "C-1812",
+      "label": "Multiple viewers expressed support for host in Episode 39 comments",
+      "claim": "Multiple viewer comments read on air express sustained support for host and reference Charlie Kirk; one comment references \"Dupant\" name-drop as emotionally significant.",
+      "anchored_artifacts": [
+        "A-1484.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-462"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:38–00:59:00",
+      "investigative_direction": "No investigative direction; capture as audience signal."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1813",
+      "ref": "C-1813",
+      "label": "Make Him a Sandwich by Candace Owens available on Amazon",
+      "claim": "The book \"Make Him a Sandwich\" by Candace Owens is available for purchase on Amazon via direct delivery.",
+      "anchored_artifacts": [
+        "A-1485.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:51:46",
+      "investigative_direction": "Confirm live Amazon listing and stock status."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1814",
+      "ref": "C-1814",
+      "label": "Six TPUSA employees reported rumor that Justin Strife made immediate call to donor prospect after assassination",
+      "claim": "Six people at Turning Point USA reported that Justin Strife placed an immediate phone call to a donor prospect on the day of Charlie Kirk's assassination, the donor being described as having a billion-dollar IPO-related piece committed to TPUSA.",
+      "anchored_artifacts": [
+        "A-1486.1"
+      ],
+      "related_nodes": [
+        "N-470",
+        "N-471",
+        "N-43",
+        "N-1369",
+        "N-1371",
+        "N-476"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:17",
+      "investigative_direction": "Obtain phone records or sworn statements from the named TPUSA sources to identify the called party."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1815",
+      "ref": "C-1815",
+      "label": "TPUSA sources identified donor prospect as French American named Pierre",
+      "claim": "Two TPUSA sources told host the donor prospect was French American and named Pierre; this detail was reported as forgotten until resurfacing after Episode 38's DuPont discussion.",
+      "anchored_artifacts": [
+        "A-1486.2"
+      ],
+      "related_nodes": [
+        "N-470",
+        "N-471",
+        "N-1369"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:22",
+      "investigative_direction": "Obtain the underlying communications with the named TPUSA sources."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1816",
+      "ref": "C-1816",
+      "label": "TPUSA sources identified donor prospect as Pierre Dupont",
+      "claim": "After host mentioned \"Pierre Dupont\" on Episode 38, the same TPUSA sources confirmed that the donor prospect was Pierre Dupont.",
+      "anchored_artifacts": [
+        "A-1486.3"
+      ],
+      "related_nodes": [
+        "N-470",
+        "N-471",
+        "N-1369"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:01",
+      "investigative_direction": "Verify Pierre Dupont's existence and donor relationship through TPUSA's IRS Form 990 filings and donor disclosures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1817",
+      "ref": "C-1817",
+      "label": "Tyler Bowyer discussed TPUSA plans to build houses for first-time home buyers",
+      "claim": "A TPUSA source presented proof that Tyler Bowyer was telling people TPUSA plans to roll out a program to build houses for first-time home buyers, leveraging TPUSA's young-Christian audience.",
+      "anchored_artifacts": [
+        "A-1486.4"
+      ],
+      "related_nodes": [
+        "N-470",
+        "N-471",
+        "N-85",
+        "N-1372"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:01",
+      "investigative_direction": "Obtain the supporting proof documentation and any internal TPUSA planning materials."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1818",
+      "ref": "C-1818",
+      "label": "Federal source claimed TPUSA requested killing of Egyptian plane story",
+      "claim": "A federal source told host that Turning Point USA put in a personal request to try to kill the Egyptian plane story.",
+      "anchored_artifacts": [
+        "A-1487.1"
+      ],
+      "related_nodes": [
+        "N-1370"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:19",
+      "investigative_direction": "Identify the federal source and corroborate with any contemporaneous communications."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1819",
+      "ref": "C-1819",
+      "label": "Andrew Kolvet family friend tip on Charlie losing millions declining BB's offer",
+      "claim": "A close family friend of Andrew Kolvet, in a written tip to host, said that Andrew Kolvet told them that when Charlie said no to \"BB,\" he lost out on millions.",
+      "anchored_artifacts": [
+        "A-1488.1"
+      ],
+      "related_nodes": [
+        "N-1373",
+        "N-1376"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:15",
+      "investigative_direction": "Preserve the written tip; verify Andrew Kolvet's contemporaneous statements through independent corroboration."
+    }
+  ],
+  "memes": []
+}

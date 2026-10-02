@@ -1,0 +1,1030 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 130,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "4a7df4953927c48a49d7120e7fa31a7ac76cd464f006ffebfaad184d8fa0f1ee",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Episode 130 is structured in three main blocks. In the first block, the host introduces historical background on the term \"Mormon Mafia,\" tracing it from the late-career years of Howard Hughes, and uses this to frame claims about LDS influence inside Turning Point USA's inner circle. This block draws on three read-aloud/displayed sources: a New York Times article on letter bombs sent to President Truman (A-2171.1), a Wikipedia entry on the Canaanite movement (A-2172.1), and a 1976 Time magazine article titled \"The Keepers of the King\" (A-2173.1).\n\nIn the second block, the host responds to a public X post by Andrew Kolvet (A-2174.1) accusing her of authoring the Daily Mail article quoting Erica Kirk as referring to her as a \"soulless ghoul.\" She contests his claims using a previously displayed Daily Mail comment-request email (A-2175.1, verbally referenced in this episode only).\n\nIn the third block, the host responds to viewer emails about the 9/10 phone-call/SUV material, including playing an interview clip with Blake Neff (A-2176.1) discussing his phone use and reading a seamstress email (A-2177.1) reinterpreting the burned item as a shirt. The episode closes with a viewer-comments section (A-2179) and a compilation-video clip (A-2178.1) showing Charlie Kirk describing his views on loyal friendship.\n\nThe episode's structural importance is twofold: it introduces an extended historical analogy (Howard Hughes / Mormon Mafia) intended to support the host's framing of the TPUSA inner circle, and it functions as a counter-PR pushback episode against the Kirk organization's response to the Daily Mail coverage.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2171",
+      "family_ref": "A-2171",
+      "bundle_name": "New York Times Article Bundle (Letter Bombs Mailed to Truman)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2171.1",
+          "ref": "A-2171.1",
+          "description": "NYT article: \"Letter bombs mailed to Truman\"",
+          "related_claims": [
+            "C-3107"
+          ],
+          "related_nodes": [
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2172",
+      "family_ref": "A-2172",
+      "bundle_name": "Wikipedia Entry Bundle (Canaanism)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2172.1",
+          "ref": "A-2172.1",
+          "description": "Wikipedia entry on Canaanism",
+          "related_claims": [
+            "C-3108"
+          ],
+          "related_nodes": [
+            "N-1210"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2173",
+      "family_ref": "A-2173",
+      "bundle_name": "Time Magazine Article Bundle (1976)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2173.1",
+          "ref": "A-2173.1",
+          "description": "Time magazine article \"The Keepers of the King\" (1976), excerpt read on air",
+          "related_claims": [
+            "C-3109"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:54",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2174",
+      "family_ref": "A-2174",
+      "bundle_name": "Andrew Kolvet X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2174.1",
+          "ref": "A-2174.1",
+          "description": "Kolvet tweet thread read on air alleging Candace Owens was behind the Daily Mail article",
+          "related_claims": [
+            "C-3110",
+            "C-3111",
+            "C-3112",
+            "C-3113"
+          ],
+          "related_nodes": [
+            "N-8"
+          ],
+          "tags": [],
+          "video_timestamp": "00:36:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2175",
+      "family_ref": "A-2175",
+      "bundle_name": "Daily Mail Comment-Request Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2175.1",
+          "ref": "A-2175.1",
+          "description": "Email from Daily Mail to host's PR requesting comment (referenced verbally in this episode; displayed on prior episode per host's account)",
+          "related_claims": [
+            "C-3111"
+          ],
+          "related_nodes": [
+            "N-8",
+            "N-1222"
+          ],
+          "tags": [],
+          "video_timestamp": "00:00:00–00:00:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2176",
+      "family_ref": "A-2176",
+      "bundle_name": "Blake Neff Interview Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2176.1",
+          "ref": "A-2176.1",
+          "description": "Blake Neff interview segment discussing phone use on 9/10, including the phrase \"I put that phone away\"",
+          "related_claims": [
+            "C-3114"
+          ],
+          "related_nodes": [
+            "N-11",
+            "N-2145"
+          ],
+          "tags": [],
+          "video_timestamp": "00:45:08",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2177",
+      "family_ref": "A-2177",
+      "bundle_name": "Seamstress Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2177.1",
+          "ref": "A-2177.1",
+          "description": "Email from a self-identified seamstress analyzing the burned item from the SUV floor, claiming it shows the visible seam and thread pattern of a shirt inside-out fold",
+          "related_claims": [
+            "C-3115"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:46:58",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2178",
+      "family_ref": "A-2178",
+      "bundle_name": "Candace-Charlie Compilation Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2178.1",
+          "ref": "A-2178.1",
+          "description": "Compilation clip of Charlie Kirk discussing friendship and the \"foxhole\" analogy",
+          "related_claims": [
+            "C-3116"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "video_timestamp": "00:58:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2179",
+      "family_ref": "A-2179",
+      "bundle_name": "Top YouTube Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2179.1",
+          "ref": "A-2179.1",
+          "description": "Tenkey Ryu comment: \"Who hates it most when crimes are investigated? Those involved in the crimes.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:50:31",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2179.2",
+          "ref": "A-2179.2",
+          "description": "Julia Turner comment quoting \"I'll never forget\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:50:31",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2179.3",
+          "ref": "A-2179.3",
+          "description": "Happy Party Place comment expressing support",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:50:31",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2179.4",
+          "ref": "A-2179.4",
+          "description": "Joseph comment proposing a Candace/Taylor Marshall conversation",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:50:31",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2179.5",
+          "ref": "A-2179.5",
+          "description": "Nemesis Altus comment expressing gratitude",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:50:31",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2179.6",
+          "ref": "A-2179.6",
+          "description": "Zammit comment thread",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:50:31",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2179.7",
+          "ref": "A-2179.7",
+          "description": "Kai comment: \"Stay strong. We love you and have your back.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:50:31",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2179.8",
+          "ref": "A-2179.8",
+          "description": "Brooke comment about carrying truth",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "00:50:31",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2179.9",
+          "ref": "A-2179.9",
+          "description": "Nattie Nicole comment referencing a 15-minute compilation video of Candace and Charlie",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1",
+            "N-3"
+          ],
+          "tags": [],
+          "video_timestamp": "00:50:31",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Subject of the historical \"Mormon Mafia\" segment; the 1976 Time article (A-2173.1) and subsequent host narration detail the Mormon aides surrounding him in his final years.",
+      "related_artifacts": [
+        "A-2173.1"
+      ],
+      "related_claims": [
+        "C-3109"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1208",
+        "N-1210",
+        "N-1213",
+        "N-1218",
+        "N-2143"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "LDS aide central to A-2173.1; described as the lead Mormon aide attending Howard Hughes in 8-hour shifts.",
+      "related_artifacts": [
+        "A-2173.1"
+      ],
+      "related_claims": [
+        "C-3109"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-1219"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Author of the biography of President Truman cited as the source for A-2171.1.",
+      "related_artifacts": [
+        "A-2171.1"
+      ],
+      "related_claims": [
+        "C-3107"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Identified in host narration as an Irgun member and father of Ari Emanuel; referenced alongside A-2172.1.",
+      "related_artifacts": [
+        "A-2172.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1211",
+        "N-1212"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Referenced as brother of Rahm Emanuel and son of Benjamin Emanuel.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1210",
+        "N-1212"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Referenced as Director of Public Affairs under Clinton, Chief of Staff under Obama, and Mayor of Chicago.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1210",
+        "N-1211"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Owner of the jet on which Howard Hughes died; name raised by host in connection with the newly appointed Judge Tony Graf in the Tyler Robinson case (possible surname coincidence flagged).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1207",
+        "N-2143"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Business partner of Robert Graf; namesake of Duncan Aviation, which the host connects to the 9/10 transponding Egyptian plane.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1213"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Identified as controller of the Frontier Hotel and the former Desert Inn site (now Wynn Las Vegas).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1207",
+        "N-2143"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Identified as controller of the Las Vegas Sands Resort after Sheldon Adelson's death.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1217",
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Identified as former controller of Las Vegas Sands Resort; deceased per host.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1216"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Executive chairman of Howard Hughes Holdings; host cites a $900 million investment returning him to the chair position in May 2025.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1207",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Identified as managing director of Mitt Romney's Bain Capital for 16 years.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1208",
+        "N-1220"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "Referenced in connection with Bain Capital and Robert Gay.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1219"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1221",
+      "ref": "N-1221",
+      "name": "Autopsy Record – Utah Privacy Statute Application",
+      "type": "investigation_target",
+      "description": "Named by host as her speculated family-friend source for the Daily Mail article.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2",
+        "N-2144"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1222",
+      "ref": "N-1222",
+      "name": "Hospital Routing Anomaly",
+      "type": "investigation_target",
+      "description": "Identified as host's PR representative who received the Daily Mail comment request.",
+      "related_artifacts": [
+        "A-2175.1"
+      ],
+      "related_claims": [
+        "C-3111"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1223",
+      "ref": "N-1223",
+      "name": "TPUSA Faith Packet / Israel References Claim",
+      "type": "investigation_target",
+      "description": "CC'd on the seamstress email (A-2177.1) and referenced in host's emotional closing segment.",
+      "related_artifacts": [
+        "A-2177.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2143",
+      "ref": "N-2143",
+      "name": "Howard Hughes Death Investigation",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy between the official cause of death (kidney failure) and host-narrated findings of fatal codeine injection, malnutrition, bed sores, and five broken hypodermic needles in arm flesh.",
+      "related_artifacts": [
+        "A-2173.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1213",
+        "N-1215"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2144",
+      "ref": "N-2144",
+      "name": "Daily Mail Article Sourcing Question",
+      "type": "investigation_target",
+      "description": "Persistent question of who provided the on-the-record quotes about Candace Owens in the Daily Mail article; host names \"Tracy\" (N-1221) as her guess; Kolvet disputes origin via A-2174.1.",
+      "related_artifacts": [
+        "A-2174.1",
+        "A-2175.1"
+      ],
+      "related_claims": [
+        "C-3110",
+        "C-3111",
+        "C-3112",
+        "C-3113"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-8",
+        "N-1221",
+        "N-1222"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2145",
+      "ref": "N-2145",
+      "name": "9/10 Phone Discrepancy (Mikey two phones)",
+      "type": "investigation_target",
+      "description": "Persistent open-question of whether Mikey possessed two phones on 9/10; Neff's phrasing \"I put that phone away\" (A-2176.1) is noted as linguistically suggestive of a second phone.",
+      "related_artifacts": [
+        "A-2176.1"
+      ],
+      "related_claims": [
+        "C-3114"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-11"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2146",
+      "ref": "N-2146",
+      "name": "TPUSA Inner Circle Composition Question",
+      "type": "investigation_target",
+      "description": "Persistent question of LDS staffing inside TPUSA leadership; introduced this episode via host's account of Charlie Kirk's UVU remarks (not artifact-displayed in this episode) and connections drawn from A-2173.1.",
+      "related_artifacts": [
+        "A-2173.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-9",
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-8",
+      "ref": "N-8",
+      "name": "Melody Hall",
+      "type": "person",
+      "description": "Publication of Erika Kirk op-ed (A-2348); subject of Charlie Kirk commentary clip (A-2345).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Holly Chalmers",
+      "type": "person",
+      "description": "Publisher of Blake Neff profile article (A-2347).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-11",
+      "ref": "N-11",
+      "name": "Danny Philip",
+      "type": "person",
+      "description": "Referenced as a passenger in the second Denali rental alongside Blake Neff on September 10.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3107",
+      "ref": "C-3107",
+      "label": "Stern Gang Attempted Letter-Bomb Assassination of Truman in 1947",
+      "claim": "A 1947 New York Times article attributes to Margaret Truman Daniel's biography an account that the Stern gang of Zionist terrorists attempted to assassinate President Truman by letter bomb using cream-colored envelopes rigged with powdered gelatin, a pencil battery, and a detonator.",
+      "anchored_artifacts": [
+        "A-2171.1"
+      ],
+      "related_nodes": [
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:35",
+      "investigative_direction": "Verify against the Margaret Truman Daniel biography Harry S. Truman and the contemporaneous NYT archive to confirm the letter-bomb episode and its date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3108",
+      "ref": "C-3108",
+      "label": "Canaanism Founded 1939; Adherents Mostly Former Irgun/Lehi Members",
+      "claim": "A Wikipedia entry referenced on air states that Canaanism was a cultural and ideological movement founded in 1939, peaking in the 1940s, with most members being former members of Irgun or Lehi.",
+      "anchored_artifacts": [
+        "A-2172.1"
+      ],
+      "related_nodes": [
+        "N-1210"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:31",
+      "investigative_direction": "Verify against the cited Wikipedia revision history and academic sources on the Canaanite movement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3109",
+      "ref": "C-3109",
+      "label": "Six Mormon Aides Recruited by Summa Corporation Controlled Howard Hughes in Final Years",
+      "claim": "A 1976 Time magazine article titled \"The Keepers of the King\" states that six Mormon aides, recruited by the Summa Corporation and led by Bill Gay, attended Howard Hughes in 8-hour shifts, were paid up to $110,000 per year, censored his communications, and controlled his public image.",
+      "anchored_artifacts": [
+        "A-2173.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-2146"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:54",
+      "investigative_direction": "Obtain the full 1976 Time article and corroborating contemporaneous coverage; cross-reference Summa Corporation employment records for Bill Gay and the named assistants."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3110",
+      "ref": "C-3110",
+      "label": "Kolvet Publicly Asserted Candace Owens Was Behind the Daily Mail Article",
+      "claim": "Andrew Kolvet's X post asserts that Candace Owens was behind the Daily Mail article and used it as \"rage bait.\"",
+      "anchored_artifacts": [
+        "A-2174.1"
+      ],
+      "related_nodes": [
+        "N-8",
+        "N-2144"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:31",
+      "investigative_direction": "Verify by retrieving the original Kolvet tweet thread via archive; cross-check against A-2175.1 comment-request email to assess which side's account of pre-publication contact is supported."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3111",
+      "ref": "C-3111",
+      "label": "Kolvet Asserted Daily Mail Did Not Request Comment Before Publication",
+      "claim": "Andrew Kolvet's X post asserts that the Daily Mail did not send the Kirk organization a request for comment before publication.",
+      "anchored_artifacts": [
+        "A-2174.1"
+      ],
+      "related_nodes": [
+        "N-8",
+        "N-2144"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:31",
+      "investigative_direction": "Verify by retrieving the Daily Mail comment-request email (A-2175.1) and matching timestamps; check whether the email originated from the same Daily Mail address that published the article."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3112",
+      "ref": "C-3112",
+      "label": "Kolvet Asserted Daily Mail Retracted \"Family Member\" Source Claim",
+      "claim": "Andrew Kolvet's X post asserts that the Daily Mail updated the article to retract the claim that the source was a member of the Kirk family.",
+      "anchored_artifacts": [
+        "A-2174.1"
+      ],
+      "related_nodes": [
+        "N-8",
+        "N-2144"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:31",
+      "investigative_direction": "Retrieve current and archived versions of the Daily Mail article to verify the retraction and its scope."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3113",
+      "ref": "C-3113",
+      "label": "Kolvet Asserted Erika Has Never Been Heard to Swear",
+      "claim": "Andrew Kolvet's X post asserts that Erika has never been heard to swear, privately or publicly.",
+      "anchored_artifacts": [
+        "A-2174.1"
+      ],
+      "related_nodes": [
+        "N-8",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:31",
+      "investigative_direction": "Verify against archived video appearances and any prior recorded interviews; check against host's contested examples (e.g., pageant-era footage)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3114",
+      "ref": "C-3114",
+      "label": "Blake Neff Stated \"I Put That Phone Away\" in 9/10 Interview",
+      "claim": "In an interview clip played on air, Blake Neff describes his actions on 9/10 using the phrasing \"I put that phone away,\" which the host notes is linguistically unusual unless a second phone is implied.",
+      "anchored_artifacts": [
+        "A-2176.1"
+      ],
+      "related_nodes": [
+        "N-11",
+        "N-2145"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:08",
+      "investigative_direction": "Retrieve the full unedited Blake Neff interview segment; cross-reference with any video showing Mikey holding two devices."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3115",
+      "ref": "C-3115",
+      "label": "Seamstress Identified Visible Seam and Thread Pattern Consistent with Inside/Outside of Shirt",
+      "claim": "A self-identified seamstress emailed the host asserting that the burned item from the SUV floor shows visible seam and thread patterns consistent with the outside of a shirt, with the top portion folded and the char on the inside.",
+      "anchored_artifacts": [
+        "A-2177.1"
+      ],
+      "related_nodes": [
+        "N-1223"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:58",
+      "investigative_direction": "Obtain the seamstress's attached photos for higher-resolution review; consult an independent textile expert on the same image."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3116",
+      "ref": "C-3116",
+      "label": "Charlie Kirk in Compilation Video Described Valued Friendship as Honesty About Threats",
+      "claim": "A compilation video played on air shows Charlie Kirk stating that a valued friend is one who tells you where bullets are coming from rather than distracting you from them.",
+      "anchored_artifacts": [
+        "A-2178.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:13",
+      "investigative_direction": "Retrieve the full 15-minute compilation video and identify the original source episode for each clip."
+    }
+  ],
+  "memes": []
+}

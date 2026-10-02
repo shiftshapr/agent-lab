@@ -1,0 +1,1096 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 85,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "3f46a97cc2d74db2f5e0aded169f75f261d47410176adc1a91e509540ffe7f2f",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1903",
+      "family_ref": "A-1903",
+      "bundle_name": "Guardian News Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1903.1",
+          "ref": "A-1903.1",
+          "description": "Guardian article reporting on French trial of 22 defendants in Athanor Masonic lodge murder-for-hire case",
+          "related_claims": [
+            "C-2581",
+            "C-2582",
+            "C-2583",
+            "C-2584",
+            "C-2585",
+            "C-2586",
+            "C-2587",
+            "C-2588"
+          ],
+          "related_nodes": [
+            "N-1212",
+            "N-1213",
+            "N-1214",
+            "N-1215",
+            "N-1641"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:42–00:10:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1904",
+      "family_ref": "A-1904",
+      "bundle_name": "Erika Kirk / Bari Weiss Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1904.1",
+          "ref": "A-1904.1",
+          "description": "Audio clip from Erika Kirk's sit-down with Bari Weiss (described by host as 72 hours before the host's meeting with Erika)",
+          "related_claims": [
+            "C-2589",
+            "C-2590"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:34–00:17:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1905",
+      "family_ref": "A-1905",
+      "bundle_name": "Frank Turek UVU Address Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1905.1",
+          "ref": "A-1905.1",
+          "description": "Audio clip of Frank Turek speaking at UVU about the moment Erika Kirk was informed of Charlie Kirk's death",
+          "related_claims": [
+            "C-2591",
+            "C-2592",
+            "C-2593"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:47–00:20:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1906",
+      "family_ref": "A-1906",
+      "bundle_name": "Candace Owens November Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1906.1",
+          "ref": "A-1906.1",
+          "description": "Candace Owens' November tweet asserting Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement",
+          "related_claims": [
+            "C-2594"
+          ],
+          "related_nodes": [
+            "N-7",
+            "N-1640"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:38–00:15:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1907",
+      "family_ref": "A-1907",
+      "bundle_name": "Governor Cox Press Conference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1907.1",
+          "ref": "A-1907.1",
+          "description": "Audio clip of Governor Spencer Cox's press conference describing the apprehension of Tyler Robinson",
+          "related_claims": [
+            "C-2595",
+            "C-2596",
+            "C-2597"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-1211",
+            "N-1639"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:25–00:41:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1908",
+      "family_ref": "A-1908",
+      "bundle_name": "Sheriff Brooksby Press Conference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1908.1",
+          "ref": "A-1908.1",
+          "description": "Sheriff Brooksby's first press conference clip describing the phone call he received about Tyler Robinson on September 11th",
+          "related_claims": [
+            "C-2598",
+            "C-2599",
+            "C-2600"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-1639"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:31–00:37:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1908.2",
+          "ref": "A-1908.2",
+          "description": "Sheriff Brooksby's second press conference clip describing how Tyler Robinson and his parents were driven to the Sheriff's office",
+          "related_claims": [
+            "C-2601",
+            "C-2602"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-1639"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:56–00:42:54",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1909",
+      "family_ref": "A-1909",
+      "bundle_name": "New York Times Article on Erika Kirk Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1909.1",
+          "ref": "A-1909.1",
+          "description": "New York Times article quoting Erika Kirk about her experience on the plane when she learned of Charlie Kirk's death",
+          "related_claims": [
+            "C-2603",
+            "C-2604"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:50:16–00:51:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1910",
+      "family_ref": "A-1910",
+      "bundle_name": "Sheriff Brooksby Resignation News Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1910.1",
+          "ref": "A-1910.1",
+          "description": "Host narration of Washington County Sheriff Nate Brooksby's resignation, citing a Washington County Commission statement",
+          "related_claims": [
+            "C-2605",
+            "C-2606",
+            "C-2607",
+            "C-2608"
+          ],
+          "related_nodes": [
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:15–00:29:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1911",
+      "family_ref": "A-1911",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1911.1",
+          "ref": "A-1911.1",
+          "description": "Comments from previous episode read aloud on this episode, including those from Andrew Jude Thaddeus, Holly House, Shenanigans, Corey Henry, Erika Ray (two), Jen Travis, Linda LaBelle, Oxytocin, and Cavern Saga",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:23–00:59:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Central subject of the investigation and the assassination case discussed throughout the episode.",
+      "related_artifacts": [
+        "A-1904.1",
+        "A-1905.1",
+        "A-1906.1",
+        "A-1907.1"
+      ],
+      "related_claims": [
+        "C-2589",
+        "C-2590",
+        "C-2591",
+        "C-2594",
+        "C-2603"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of multiple artifact-backed claims in this episode, including her statements to Bari Weiss and to the New York Times. Name variation flag: transcript uses \"Erika\" while ledger node is \"Erica Kirk.\"",
+      "related_artifacts": [
+        "A-1904.1",
+        "A-1905.1",
+        "A-1907.1",
+        "A-1909.1",
+        "A-1911.1"
+      ],
+      "related_claims": [
+        "C-2589",
+        "C-2590",
+        "C-2591",
+        "C-2603",
+        "C-2604"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Subject of A-1905.1 (UVU audio clip). Transcript references him inconsistently as both \"Frank Turek\" and \"Frank Churik\"; chapter title uses \"Frank Turek.\" Christian apologist and TPUSA affiliate who described the moment of Charlie Kirk's death being communicated to Erika.",
+      "related_artifacts": [
+        "A-1905.1"
+      ],
+      "related_claims": [
+        "C-2591",
+        "C-2592",
+        "C-2593"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Interviewer in the audio clip A-1904.1, who asked Erika Kirk whether she believed Tyler Robinson murdered her husband.",
+      "related_artifacts": [
+        "A-1904.1"
+      ],
+      "related_claims": [
+        "C-2589"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Washington County Sheriff who held press conferences (A-1908.1 and A-1908.2) describing the apprehension of Tyler Robinson, and who subsequently resigned (A-1910.1). May have an existing node from prior episodes covering his earlier statements.",
+      "related_artifacts": [
+        "A-1908.1",
+        "A-1908.2",
+        "A-1910.1"
+      ],
+      "related_claims": [
+        "C-2598",
+        "C-2599",
+        "C-2600",
+        "C-2601",
+        "C-2602",
+        "C-2605",
+        "C-2606",
+        "C-2607",
+        "C-2608"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Retired Washington County deputy referenced in Sheriff Brooksby's press conferences as the family friend who contacted the Sheriff's Office about Tyler Robinson. Name \"Mike Mitchell\" is supplied by host narration rather than by the Brooksby clips themselves; the clips describe him only as \"a friend of mine\" and \"a retired Washington County deputy.\"",
+      "related_artifacts": [
+        "A-1908.2"
+      ],
+      "related_claims": [
+        "C-2601"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Governor of Utah; subject of A-1907.1 (press conference clip). Made statements regarding Robinson's alleged confession.",
+      "related_artifacts": [
+        "A-1907.1"
+      ],
+      "related_claims": [
+        "C-2595",
+        "C-2596",
+        "C-2597"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Identified in A-1903.1 (Guardian article) as a ringleader of the alleged Athanor lodge conspiracy who allegedly organized the hits on Marie-Hélène Dini.",
+      "related_artifacts": [
+        "A-1903.1"
+      ],
+      "related_claims": [
+        "C-2587"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Identified in A-1903.1 (Guardian article) as a co-conspirator alongside Jean-Luc Baguer and Daniel Balou in the Athanor lodge case.",
+      "related_artifacts": [
+        "A-1903.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Retired intelligence officer named in A-1903.1 (Guardian article) who allegedly told the hitmen they were acting on behalf of the French government; reportedly attempted suicide while in prison.",
+      "related_artifacts": [
+        "A-1903.1"
+      ],
+      "related_claims": [
+        "C-2587",
+        "C-2588"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Business coach identified in A-1903.1 (Guardian article) as the target of the failed 2020 contract killing that triggered the Athanor lodge trial.",
+      "related_artifacts": [
+        "A-1903.1"
+      ],
+      "related_claims": [
+        "C-2584",
+        "C-2586"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1639",
+      "ref": "N-1639",
+      "name": "Tyler Robinson Confession Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent inconsistency between Governor Cox's claim (A-1907.1, C-2597) that Robinson \"confessed or implied\" guilt and Sheriff Brooksby's account (A-1908.2) which contains no reference to any confession. The host further asserts no signed confession statement was produced.",
+      "related_artifacts": [
+        "A-1907.1",
+        "A-1908.1",
+        "A-1908.2"
+      ],
+      "related_claims": [
+        "C-2597",
+        "C-2602"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1640",
+      "ref": "N-1640",
+      "name": "French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation",
+      "type": "investigation_target",
+      "description": "Persistent unresolved target referenced via the host's November 2025 tweet (A-1906.1) and tied by the host to the broader French Masonic lodge case (A-1903.1). Direct evidence linking DGSE to the Charlie Kirk assassination is not presented in this episode.",
+      "related_artifacts": [
+        "A-1903.1",
+        "A-1906.1"
+      ],
+      "related_claims": [
+        "C-2594"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1641",
+      "ref": "N-1641",
+      "name": "Athanor Lodge / French Freemason Murder Trial",
+      "type": "investigation_target",
+      "description": "Discrete investigative event introduced in this episode via A-1903.1, in which 22 defendants including DGSE officers face charges for running a hit-squad network inside the Athanor Masonic lodge. Treated by the host as context for Charlie Kirk case theory.",
+      "related_artifacts": [
+        "A-1903.1"
+      ],
+      "related_claims": [
+        "C-2581",
+        "C-2582",
+        "C-2583",
+        "C-2584",
+        "C-2585",
+        "C-2586",
+        "C-2587",
+        "C-2588"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2581",
+      "ref": "C-2581",
+      "label": "Trial of 22 defendants in France centered on Athanor Masonic lodge",
+      "claim": "A Guardian article reports that 22 people are on trial in France on charges of murder and other serious crimes centered on a Masonic lodge (the Athanor lodge) in the Paris suburb of Puteaux.",
+      "anchored_artifacts": [
+        "A-1903.1"
+      ],
+      "related_nodes": [
+        "N-1641"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:42",
+      "investigative_direction": "Verify via the original Guardian article and French court records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2582",
+      "ref": "C-2582",
+      "label": "Lodge accused of running hit squads",
+      "claim": "Prosecutors allege the Athanor lodge group carried out murder, attempted murder, aggravated assault, and criminal conspiracy on behalf of a mafia network inside the lodge.",
+      "anchored_artifacts": [
+        "A-1903.1"
+      ],
+      "related_nodes": [
+        "N-1641"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:50",
+      "investigative_direction": "Verify prosecutor filings in the French trial."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2583",
+      "ref": "C-2583",
+      "label": "Four DGSE officers among defendants",
+      "claim": "Four officers from France's DGSE foreign intelligence service are among the 22 defendants.",
+      "anchored_artifacts": [
+        "A-1903.1"
+      ],
+      "related_nodes": [
+        "N-1641"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:50",
+      "investigative_direction": "Cross-reference with French court documents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2584",
+      "ref": "C-2584",
+      "label": "Failed contract killing in July 2020 against Marie-Hélène Dini",
+      "claim": "The case was triggered by a failed contract killing in July 2020, when two members of France's parachute regiment were arrested in possession of weapons near the home of business coach Marie-Hélène Dini.",
+      "anchored_artifacts": [
+        "A-1903.1"
+      ],
+      "related_nodes": [
+        "N-1215",
+        "N-1641"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:40",
+      "investigative_direction": "Verify date and circumstances of arrest via French press archives."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2585",
+      "ref": "C-2585",
+      "label": "Hitmen claimed to be acting on behalf of the French state",
+      "claim": "The hitmen told investigators they believed they had been asked to murder Dini on behalf of the French state.",
+      "anchored_artifacts": [
+        "A-1903.1"
+      ],
+      "related_nodes": [
+        "N-1641"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:40",
+      "investigative_direction": "Verify investigator statements in court filings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2586",
+      "ref": "C-2586",
+      "label": "Hitmen stated Dini worked for Mossad",
+      "claim": "The hitmen stated they were targeting Dini on the grounds that she worked for the Israeli spy agency, the Mossad.",
+      "anchored_artifacts": [
+        "A-1903.1"
+      ],
+      "related_nodes": [
+        "N-1215",
+        "N-1641"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:40",
+      "investigative_direction": "Verify whether this allegation appears in formal charges or witness statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2587",
+      "ref": "C-2587",
+      "label": "Jean-Luc Baguer, Frederick Vaglio, and Daniel Balou identified as principal conspirators",
+      "claim": "Jean-Luc Baguer is identified as a ringleader of the alleged conspiracy, alongside co-conspirators Frederick Vaglio and Daniel Balou.",
+      "anchored_artifacts": [
+        "A-1903.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1213",
+        "N-1214",
+        "N-1641"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:32",
+      "investigative_direction": "Verify role assignments via French court documents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2588",
+      "ref": "C-2588",
+      "label": "Daniel Balou attempted suicide in prison",
+      "claim": "Daniel Balou, a retired intelligence officer, attempted suicide while in prison, impairing his ability to testify.",
+      "anchored_artifacts": [
+        "A-1903.1"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-1641"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:16",
+      "investigative_direction": "Verify incident via French press reporting or court records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2589",
+      "ref": "C-2589",
+      "label": "Erika Kirk affirmed belief that Tyler Robinson murdered Charlie Kirk",
+      "claim": "In an interview with Bari Weiss, Erika Kirk stated \"Yes, I do\" in response to the question of whether she believes Tyler Robinson murdered her husband.",
+      "anchored_artifacts": [
+        "A-1904.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:32",
+      "investigative_direction": "Cross-check with the published version of the Bari Weiss interview."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2590",
+      "ref": "C-2590",
+      "label": "Erika Kirk claimed to have seen the autopsy report",
+      "claim": "Erika Kirk stated she had seen the autopsy report and had been in constant contact with her lawyers and the prosecuting team.",
+      "anchored_artifacts": [
+        "A-1904.1"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:32",
+      "investigative_direction": "Determine whether such access is procedurally consistent with case status."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2591",
+      "ref": "C-2591",
+      "label": "Frank Turek described Erika being told of Charlie's death",
+      "claim": "Frank Turek stated he was present when a doctor informed him of Charlie Kirk's death and that he then needed to \"talk to Erika.\"",
+      "anchored_artifacts": [
+        "A-1905.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:47",
+      "investigative_direction": "Verify against other witness accounts of the moment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2592",
+      "ref": "C-2592",
+      "label": "Stacy Sheridan and Katherine LaCastro identified as with Erika",
+      "claim": "Frank Turek stated that Stacy Sheridan and Katherine LaCastro were with Erika Kirk when she was informed of Charlie Kirk's death.",
+      "anchored_artifacts": [
+        "A-1905.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:50",
+      "investigative_direction": "Verify against other contemporaneous accounts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2593",
+      "ref": "C-2593",
+      "label": "Frank Turek stated Mikey arranged to retrieve Erika",
+      "claim": "Frank Turek stated Mikey was on the phone arranging a plane to retrieve Erika.",
+      "anchored_artifacts": [
+        "A-1905.1"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:50",
+      "investigative_direction": "Cross-check with other accounts of plane arrangements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2594",
+      "ref": "C-2594",
+      "label": "Candace Owens' November tweet asserted French Legion training and multi-state involvement",
+      "claim": "In a November 2025 tweet, Candace Owens stated she had a source inside the French government who told her the French intervention group was involved in the assassination, and that Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement.",
+      "anchored_artifacts": [
+        "A-1906.1"
+      ],
+      "related_nodes": [
+        "N-7",
+        "N-1640"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:25",
+      "investigative_direction": "Locate the original tweet and any subsequent corroboration or denial."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2595",
+      "ref": "C-2595",
+      "label": "Governor Cox stated family member contacted family friend",
+      "claim": "Governor Cox stated that on the evening of September 11th, a family member of Tyler Robinson reached out to a family friend.",
+      "anchored_artifacts": [
+        "A-1907.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1639"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:25",
+      "investigative_direction": "Cross-reference with Brooksby's account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2596",
+      "ref": "C-2596",
+      "label": "Governor Cox stated family friend contacted Washington County Sheriff's Office",
+      "claim": "Governor Cox stated the family friend contacted the Washington County Sheriff's Office with information about Robinson.",
+      "anchored_artifacts": [
+        "A-1907.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1639"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:25",
+      "investigative_direction": "Cross-reference with Brooksby's account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2597",
+      "ref": "C-2597",
+      "label": "Governor Cox stated Robinson \"confessed or implied\"",
+      "claim": "Governor Cox stated that Robinson had \"confessed to them or implied that he had committed the incident.\"",
+      "anchored_artifacts": [
+        "A-1907.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1639"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:25",
+      "investigative_direction": "Identify whether any signed confession statement exists; reconcile with Brooksby's account which contains no such claim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2598",
+      "ref": "C-2598",
+      "label": "Brooksby received call from retired detective friend at 8:02 PM",
+      "claim": "Sheriff Brooksby stated that at 8:02 PM on September 11th he received a call from a friend who was a retired detective; court documents refer to this individual as a \"retired Washington County deputy.\"",
+      "anchored_artifacts": [
+        "A-1908.1"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1639"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:31",
+      "investigative_direction": "Identify the individual via court filings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2599",
+      "ref": "C-2599",
+      "label": "Brooksby told Robinson had suicidal ideations",
+      "claim": "Sheriff Brooksby stated he was told that Tyler Robinson had potential suicidal ideations and was en route to a remote area in Washington County.",
+      "anchored_artifacts": [
+        "A-1908.1"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1639"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:15",
+      "investigative_direction": "Verify against other sources."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2600",
+      "ref": "C-2600",
+      "label": "Robinson's parents convinced him not to go to remote area",
+      "claim": "Sheriff Brooksby stated Robinson's parents convinced him not to go to the remote area and conveyed they would help him surrender peacefully.",
+      "anchored_artifacts": [
+        "A-1908.1"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1639"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:15",
+      "investigative_direction": "Cross-reference with subsequent reporting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2601",
+      "ref": "C-2601",
+      "label": "Friend drove Robinson and parents to Sheriff's office",
+      "claim": "Sheriff Brooksby stated that within the hour, his friend drove Tyler Robinson and his parents to Brooksby's office, where Robinson was greeted by plainclothes detectives.",
+      "anchored_artifacts": [
+        "A-1908.2"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1210",
+        "N-1639"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:56",
+      "investigative_direction": "Verify against court records and other accounts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2602",
+      "ref": "C-2602",
+      "label": "Brooksby stated Robinson feared SWAT team or being shot",
+      "claim": "Sheriff Brooksby stated Tyler Robinson was fearful of a SWAT team hit on his house and fearful of being shot by law enforcement, which was part of the negotiation to bring him in.",
+      "anchored_artifacts": [
+        "A-1908.2"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1639"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:54",
+      "investigative_direction": "Compare with Cox's framing of an outright confession (C-2597)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2603",
+      "ref": "C-2603",
+      "label": "Erika Kirk was on plane when Charlie was pronounced dead",
+      "claim": "A New York Times article reports that Mr. Kirk's chartered plane traveled back to Scottsdale to ferry his wife to Provo, and that he was pronounced dead as she was airborne.",
+      "anchored_artifacts": [
+        "A-1909.1"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:16",
+      "investigative_direction": "Verify against other reporting on timing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2604",
+      "ref": "C-2604",
+      "label": "Erika Kirk described the day as \"gorgeous\"",
+      "claim": "Erika Kirk told the New York Times that during the flight she was looking at \"the clouds and the mountains,\" called the day \"gorgeous,\" and stated she was thinking it was \"exactly what he last saw.\"",
+      "anchored_artifacts": [
+        "A-1909.1"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:16",
+      "investigative_direction": "Cross-reference against other contemporaneous accounts of Erika's statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2605",
+      "ref": "C-2605",
+      "label": "Sheriff Brooksby resigned from Washington County Sheriff's Office",
+      "claim": "Sheriff Nate Brooksby resigned from the Washington County Sheriff's Office.",
+      "anchored_artifacts": [
+        "A-1910.1"
+      ],
+      "related_nodes": [
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:15",
+      "investigative_direction": "Obtain official Washington County Commission statement and any press release explaining the resignation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2606",
+      "ref": "C-2606",
+      "label": "Brooksby resignation occurred on a Friday",
+      "claim": "The host states Brooksby's resignation occurred on a Friday and that no public statement was given.",
+      "anchored_artifacts": [
+        "A-1910.1"
+      ],
+      "related_nodes": [
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:15",
+      "investigative_direction": "Confirm exact date via Commission records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2607",
+      "ref": "C-2607",
+      "label": "Brooksby had served in law enforcement more than 30 years",
+      "claim": "A statement released by the Washington County Commission noted that Sheriff Brooksby had served in law enforcement for more than 30 years.",
+      "anchored_artifacts": [
+        "A-1910.1"
+      ],
+      "related_nodes": [
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:07",
+      "investigative_direction": "Obtain the full Commission statement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2608",
+      "ref": "C-2608",
+      "label": "Brooksby's name removed from Sheriff's Office website",
+      "claim": "Over the weekend following the resignation, Brooksby's name was quietly removed from the Sheriff's Office website and social media pages.",
+      "anchored_artifacts": [
+        "A-1910.1"
+      ],
+      "related_nodes": [
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:15",
+      "investigative_direction": "Capture archived versions of the website and social pages."
+    }
+  ],
+  "memes": []
+}

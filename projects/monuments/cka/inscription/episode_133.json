@@ -1,0 +1,791 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 133,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "35b1a7b16ba70042ea415c7ad92b025f859141e457801a624a03258614a87ceb",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2198",
+      "family_ref": "A-2198",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2198.1",
+          "ref": "A-2198.1",
+          "description": "Full uninterrupted rooftop sequence — individual running onto rooftop, descending into crawl, lateral movement, brief flash, \"throw forward\" motion, final positioning, and exit",
+          "related_claims": [
+            "C-3150",
+            "C-3151",
+            "C-3152",
+            "C-3153"
+          ],
+          "related_nodes": [
+            "N-2153",
+            "N-2154"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "source_timestamp": "2025-09-10 (date of original capture)",
+          "video_timestamp": "09:55–16:22",
+          "discovery_timestamp": "2025-10 (per host statement \"I've been holding on to since October\")",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2198.2",
+          "ref": "A-2198.2",
+          "description": "Slowed/zoomed segment showing back-and-forth flash during crawl",
+          "related_claims": [
+            "C-3153"
+          ],
+          "related_nodes": [
+            "N-2153"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "source_timestamp": "2025-09-10",
+          "video_timestamp": "11:12–11:55",
+          "discovery_timestamp": "2025-10"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2198.3",
+          "ref": "A-2198.3",
+          "description": "Segment showing \"throw forward\" / unfolding motion as shooter reaches final position",
+          "related_claims": [
+            "C-3150"
+          ],
+          "related_nodes": [
+            "N-2153"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "source_timestamp": "2025-09-10",
+          "video_timestamp": "12:10–13:59",
+          "discovery_timestamp": "2025-10"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2198.4",
+          "ref": "A-2198.4",
+          "description": "Pre-recoil segment — extended 50-second hold immediately preceding shooter's rise and sprint",
+          "related_claims": [
+            "C-3152"
+          ],
+          "related_nodes": [
+            "N-2154"
+          ],
+          "tags": [],
+          "event_timestamp": "2025-09-10",
+          "source_timestamp": "2025-09-10",
+          "video_timestamp": "13:37–15:53",
+          "discovery_timestamp": "2025-10"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2199",
+      "family_ref": "A-2199",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2199.1",
+          "ref": "A-2199.1",
+          "description": "Side-by-side clip of a military person performing the lateral crawl, shown beside the rooftop footage",
+          "related_claims": [
+            "C-3150"
+          ],
+          "related_nodes": [
+            "N-2153"
+          ],
+          "tags": [],
+          "event_timestamp": "Unknown",
+          "source_timestamp": "Unknown (general military-training reference)",
+          "video_timestamp": "10:23–11:12",
+          "discovery_timestamp": "Unknown",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2200",
+      "family_ref": "A-2200",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2200.1",
+          "ref": "A-2200.1",
+          "description": "\"Relationship with Jeffrey Epstein\" section header and surrounding text",
+          "related_claims": [
+            "C-3154"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-1211",
+            "N-2157"
+          ],
+          "tags": [],
+          "event_timestamp": "Unknown (published article)",
+          "source_timestamp": "Unknown (as of episode air, 2026-07-29)",
+          "video_timestamp": "29:26–31:35",
+          "discovery_timestamp": "2026-07-29",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2200.2",
+          "ref": "A-2200.2",
+          "description": "Wikipedia reference to February 27, 2006 flight (JFK International → London Luton) on Epstein's plane",
+          "related_claims": [
+            "C-3155"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-2157"
+          ],
+          "tags": [],
+          "event_timestamp": "2006-02-27",
+          "source_timestamp": "Manifest released October 2025 by U.S. House Committee (per host reading)",
+          "video_timestamp": "~30:00–30:41",
+          "discovery_timestamp": "2026-07-29"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2200.3",
+          "ref": "A-2200.3",
+          "description": "Wikipedia reference to March 3, 2006 flight (London → New York) on Epstein's plane, naming Jean-Luc Brunel as one of 12 other passengers",
+          "related_claims": [
+            "C-3156"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-1211",
+            "N-2157"
+          ],
+          "tags": [],
+          "event_timestamp": "2006-03-03",
+          "source_timestamp": "Manifest released October 2025 by U.S. House Committee",
+          "video_timestamp": "~30:41–31:35",
+          "discovery_timestamp": "2026-07-29"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2201",
+      "family_ref": "A-2201",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2201.1",
+          "ref": "A-2201.1",
+          "description": "Text from Tyler Robinson to Lance stating: \"When I checked the area about 3 hours ago, there was an officer with a canine walking nearby the area. I'm hoping that pooch has a bad sniffer.\"",
+          "related_claims": [
+            "C-3157"
+          ],
+          "related_nodes": [
+            "N-2155"
+          ],
+          "tags": [],
+          "event_timestamp": "~2025-09-10 (per \"3 hours ago\" reference; exact time unspecified)",
+          "source_timestamp": "Court records / preliminary hearing materials",
+          "video_timestamp": "19:07–20:08",
+          "discovery_timestamp": "Unknown",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2202",
+      "family_ref": "A-2202",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2202.1",
+          "ref": "A-2202.1",
+          "description": "\"Your empire is done\" Lego video featuring lyrics referencing Epstein, \"Marco Rubio sweating,\" \"B2 bombers,\" \"your general's crying,\" and Israel-focused critique",
+          "related_claims": [
+            "C-3158"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "~2026-07-28 (host: \"they dropped another video last night\")",
+          "source_timestamp": "2026-07-28",
+          "video_timestamp": "35:52–38:42",
+          "discovery_timestamp": "2026-07-29",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2203",
+      "family_ref": "A-2203",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2203.1",
+          "ref": "A-2203.1",
+          "description": "Erika Kirk clip instructing audience to \"be a table\" and \"become a roving table yourself\" in TPUSA chapter-leader context",
+          "related_claims": [
+            "C-3159"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "Unknown",
+          "source_timestamp": "Unknown",
+          "video_timestamp": "40:55–41:40",
+          "discovery_timestamp": "Unknown",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2204",
+      "family_ref": "A-2204",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2204.1",
+          "ref": "A-2204.1",
+          "description": "Comment from MHS: \"They all clench their cheeks at the sound of 'All right, you guys.'\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "~43:37–44:22"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2204.2",
+          "ref": "A-2204.2",
+          "description": "Comment from Karen Jane Child: \"Look into Mormon road shows and their links between theater productions and those accused of being in the Mormon Mafia and SR and MK Ultra.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "~45:12–45:58"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2204.3",
+          "ref": "A-2204.3",
+          "description": "Comment from Lamar Poor: \"Their insanity is they shouldn't be messing with a rested battle bun pregnant Candace.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "~45:58–46:30"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2204.4",
+          "ref": "A-2204.4",
+          "description": "Comment from Becca: \"It's possible that along with the eene amount of gauze that was shoved into Charlie to stop the bleeding, that bullet fragments were also shoved in, hence why they don't match a 306 or Tyler's bullets. Could that be the purpose of the gloves in the door?\"",
+          "related_claims": [
+            "C-3160"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "~47:04"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2204.5",
+          "ref": "A-2204.5",
+          "description": "Comment from Britney Bicks: \"The fact that the same people who asked Charlie to ask you to stop talking about Breijit are calling you nuts for talking about his murder is nothing short of hysterical. Frenchie T ain't got nothing on the passion that you have for this.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "~47:38"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2204.6",
+          "ref": "A-2204.6",
+          "description": "Comment from Simon Webster: \"If he was going to assassinate Charlie, he'd have been on the roof prior to find his best position, workout distance, aim, ensuring others were not in the way uh to charge Charlie sitting behavior, still or animated.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "~50:50–51:51"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2204.7",
+          "ref": "A-2204.7",
+          "description": "Comment from Jacob Morrison: \"I think when we saw um that flash, that was a signal that he was in position and there is no way he has enough time to adjust his sights. Also, people have anxiety shooting deer. There is none of this. It's too quick.\"",
+          "related_claims": [
+            "C-3161"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "~51:51"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2204.8",
+          "ref": "A-2204.8",
+          "description": "Comment from Ali: \"JFK was murdered over 60 years ago and there are still so many unanswered questions. So why are they so mad at people for asking questions and speculating about the possibilities?\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "~52:43–53:34"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2204.9",
+          "ref": "A-2204.9",
+          "description": "Comment from \"Thumb's grace\": brief note of support",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "~50:04"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2204.10",
+          "ref": "A-2204.10",
+          "description": "Previous-episode commenter prediction: \"Andrew is going to move the goalpost. Show me a text message of you and Charlie from 2026.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "video_timestamp": "~44:22"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Host identifies as Turning Point USA chief marketing officer; subject of host's allegations regarding a White House meeting claim and alleged misrepresentation. Transcript spelling inconsistent (\"Kovette\" / \"Kovett\" / \"Coette\"). Name uncertainty flagged.",
+      "related_artifacts": [
+        "A-2204.10"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Identified by host as a Pleasant Grove Police officer, reported 2025 UVU graduate, said to have recovered Tyler Robinson's weapon in the field. Biographical claims not artifact-displayed in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2156"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Identified by host as Mitchell Curtis's father; reported as 21-year NCIS veteran ending as division chief, Office of Inspector General; reported to have left NCIS June 2, 2025 for Richmond, Virginia interim inspector general position. Biographical claims not artifact-displayed in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2156"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Identified by host as Trump's Secretary of the Navy appointee; subject of Wikipedia reading re: Epstein flight manifests.",
+      "related_artifacts": [
+        "A-2200.1",
+        "A-2200.2",
+        "A-2200.3"
+      ],
+      "related_claims": [
+        "C-3154",
+        "C-3155",
+        "C-3156"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1211",
+        "N-2157"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Named in Wikipedia reading as Epstein associate and modeling agent; alleged by host to have ties to a modeling firm where \"Erika\" (Erica Kirk) worked. Transcript spells \"Jean Luke Brunell\" / \"John Luke Bernell.\"",
+      "related_artifacts": [
+        "A-2200.3"
+      ],
+      "related_claims": [
+        "C-3156"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1210",
+        "N-2157"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2153",
+      "ref": "N-2153",
+      "name": "Rooftop Movement Tactical Analysis",
+      "type": "investigation_target",
+      "description": "Persistent question across episodes regarding the technique, training level, and identity markers of the rooftop individual. In this episode, host asserts footage shows a \"lateral crawl\" consistent with military tactical training.",
+      "related_artifacts": [
+        "A-2198.1",
+        "A-2198.2",
+        "A-2198.3",
+        "A-2199.1"
+      ],
+      "related_claims": [
+        "C-3150",
+        "C-3153"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2154",
+      "ref": "N-2154",
+      "name": "Weapon Discharge Visual Indicators",
+      "type": "investigation_target",
+      "description": "Question of whether the rooftop footage shows muzzle flash and/or recoil consistent with the alleged weapon (German 98 Mouser family heirloom).",
+      "related_artifacts": [
+        "A-2198.1",
+        "A-2198.4"
+      ],
+      "related_claims": [
+        "C-3151",
+        "C-3152"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2155",
+      "ref": "N-2155",
+      "name": "K9 Scent Tracking Discrepancy",
+      "type": "investigation_target",
+      "description": "Host reports two dogs — Loki (scent-tracking, near amphitheater) and Freya (bomb-sniffing, near field where weapon was found). Host states Freya was reported to have a broken nose that day and failed to detect the weapon; rookie officers subsequently found the weapon. These claims are not artifact-displayed.",
+      "related_artifacts": [
+        "A-2201.1"
+      ],
+      "related_claims": [
+        "C-3157"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2156",
+      "ref": "N-2156",
+      "name": "Weapon Recovery Officer Chain and NCIS Connection",
+      "type": "investigation_target",
+      "description": "Host identifies Mitchell Curtis (rookie officer, 2025 UVU graduate) and his father Foster Curtis (reported 21-year NCIS division chief) as connected to the weapon recovery. Biographical claims not artifact-displayed in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1208",
+        "N-1209"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2157",
+      "ref": "N-2157",
+      "name": "Secretary of the Navy Phelan Epstein Flight Connection",
+      "type": "investigation_target",
+      "description": "Wikipedia reading indicates Phelan flew twice on Epstein's plane in early 2006, once alongside Jean-Luc Brunel. Host draws broader Epstein-network inferences.",
+      "related_artifacts": [
+        "A-2200.1",
+        "A-2200.2",
+        "A-2200.3"
+      ],
+      "related_claims": [
+        "C-3154",
+        "C-3155",
+        "C-3156"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1210",
+        "N-1211"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3150",
+      "ref": "C-3150",
+      "label": "Rooftop footage depicts a movement identified by host as lateral/military crawl",
+      "claim": "The footage shown depicts an individual performing what the host identifies, with reference to a side-by-side military reference clip, as a \"lateral crawl.\"",
+      "anchored_artifacts": [
+        "A-2198.1",
+        "A-2198.3",
+        "A-2199.1"
+      ],
+      "related_nodes": [
+        "N-2153"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:55–00:11:12",
+      "investigative_direction": "Obtain the original unaltered footage, authenticate source chain, and have independent military-tactics experts assess whether the movement matches the lateral-crawl technique as shown in the reference clip."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3151",
+      "ref": "C-3151",
+      "label": "Rooftop footage shows no clearly visible muzzle flash",
+      "claim": "During the rooftop segment held before the shooter rises to flee, no muzzle flash is clearly visible in the displayed footage.",
+      "anchored_artifacts": [
+        "A-2198.1",
+        "A-2198.4"
+      ],
+      "related_nodes": [
+        "N-2154"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:37–00:15:53",
+      "investigative_direction": "Submit original footage for frame-by-frame forensic analysis and compare with reference muzzle-flash signatures for the alleged weapon type."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3152",
+      "ref": "C-3152",
+      "label": "Rooftop footage shows no visible recoil/kickback",
+      "claim": "In the displayed footage, the shooter is not shown exhibiting visible recoil or kickback consistent with the alleged weapon (German 98 Mouser family heirloom) at the moment of firing.",
+      "anchored_artifacts": [
+        "A-2198.1",
+        "A-2198.4"
+      ],
+      "related_nodes": [
+        "N-2154"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:37–00:15:53",
+      "investigative_direction": "Frame-by-frame forensic review of original footage; cross-reference with recoil physics of the alleged firearm model."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3153",
+      "ref": "C-3153",
+      "label": "A back-and-forth flash is visible during the rooftop crawl",
+      "claim": "A flash or back-and-forth light phenomenon is visible in the rooftop footage during the individual's crawl.",
+      "anchored_artifacts": [
+        "A-2198.1",
+        "A-2198.2"
+      ],
+      "related_nodes": [
+        "N-2153"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:12–00:11:55",
+      "investigative_direction": "Slow-motion forensic review of original footage to determine whether the flash is environmental (reflective surface, vehicle light) or item-related (signal mirror, flag, etc.)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3154",
+      "ref": "C-3154",
+      "label": "Wikipedia article on John C. Phelan contains a \"Relationship with Jeffrey Epstein\" subsection",
+      "claim": "The displayed Wikipedia article on John C. Phelan (Secretary of the Navy) contains a tab/subsection titled \"Relationship with Jeffrey Epstein.\"",
+      "anchored_artifacts": [
+        "A-2200.1"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-2157"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:26",
+      "investigative_direction": "Verify current Wikipedia article state at archive.org snapshots and cross-reference with original Epstein document releases."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3155",
+      "ref": "C-3155",
+      "label": "Wikipedia states Phelan flew on Epstein's plane on February 27, 2006 (JFK to Luton)",
+      "claim": "The Wikipedia article states that Phelan flew on Jeffrey Epstein's plane on February 27, 2006, from JFK International Airport to London Luton Airport, per passenger manifests released by the U.S. House Committee in October 2025.",
+      "anchored_artifacts": [
+        "A-2200.2"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-2157"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:00–00:30:41",
+      "investigative_direction": "Verify against the released October 2025 House Committee manifest documents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3156",
+      "ref": "C-3156",
+      "label": "Wikipedia states Phelan flew with Jean-Luc Brunel on Epstein's plane on March 3, 2006",
+      "claim": "The Wikipedia article states that Phelan flew on Epstein's plane on March 3, 2006, from London to New York, with twelve other passengers including modeling agent Jean-Luc Brunel, per the released manifest.",
+      "anchored_artifacts": [
+        "A-2200.3"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-1211",
+        "N-2157"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:41–00:31:35",
+      "investigative_direction": "Verify against released October 2025 House Committee manifest documents and cross-reference Brunel's known 2006 travel."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3157",
+      "ref": "C-3157",
+      "label": "Tyler Robinson texted that he was \"hoping that pooch has a bad sniffer\"",
+      "claim": "Tyler Robinson sent a text message stating, \"When I checked the area about 3 hours ago, there was an officer with a canine walking nearby the area. I'm hoping that pooch has a bad sniffer.\"",
+      "anchored_artifacts": [
+        "A-2201.1"
+      ],
+      "related_nodes": [
+        "N-2155"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:07–00:20:08",
+      "investigative_direction": "Obtain the underlying court exhibit / text record image to verify exact wording, sender, recipient, and timestamp."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3158",
+      "ref": "C-3158",
+      "label": "Iranian Lego propaganda video contains lyrics referencing Epstein",
+      "claim": "The Iranian Lego propaganda video shown contains repeated lyrics/text referencing \"Epstein\" and \"Epstein, Epstein, Epstein.\"",
+      "anchored_artifacts": [
+        "A-2202.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:35:52–00:38:42",
+      "investigative_direction": "Confirm by independent review of the video file; verify whether the video is officially Iranian-state-affiliated or third-party."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3159",
+      "ref": "C-3159",
+      "label": "Erika Kirk is shown using the phrase \"be a table\" in TPUSA chapter-leader context",
+      "claim": "A clip shows Erika Kirk instructing TPUSA chapter leaders, \"Be a table,\" and elaborating that when one's table is destroyed, one should become \"a roving table yourself.\"",
+      "anchored_artifacts": [
+        "A-2203.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:40:55–00:41:40",
+      "investigative_direction": "Obtain original clip and full context (event, date, audience)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3160",
+      "ref": "C-3160",
+      "label": "Becca proposes bullet fragments could have been lodged in gauze placed in Charlie Kirk's wound",
+      "claim": "Viewer Becca proposes that bullet fragments potentially lodged in gauze placed in Charlie Kirk's wound could account for bullet-mismatch findings, asking whether the gloves seen at the door were related. Host acknowledges possibility but suggests a medical-examiner-route alternative.",
+      "anchored_artifacts": [
+        "A-2204.4"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:47:04",
+      "investigative_direction": "Review medical examiner reports and chain-of-custody records for any gauze or material handling; verify bullet-fragment provenance."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3161",
+      "ref": "C-3161",
+      "label": "Jacob Morrison asserts rooftop flash is a position signal; host concurs action appears professional",
+      "claim": "Viewer Jacob Morrison asserts the rooftop flash is a signal that the shooter was in position. Host concurs: \"Sure did look like a professional.\"",
+      "anchored_artifacts": [
+        "A-2198.2",
+        "A-2204.7"
+      ],
+      "related_nodes": [
+        "N-2153",
+        "N-2154"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:51",
+      "investigative_direction": "Forensic review of the flash frame-by-frame; compare with published time-to-adjust-sights benchmarks for similar firearms."
+    }
+  ],
+  "memes": []
+}

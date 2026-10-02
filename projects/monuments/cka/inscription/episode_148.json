@@ -1,0 +1,1060 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 148,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "a2dc76d34975c9abe510df358ab1de54f418f9e78f0eceb43fa1e5c1aa410541",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2341",
+      "family_ref": "A-2341",
+      "bundle_name": "Ye Chicago Concert Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2341.1",
+          "ref": "A-2341.1",
+          "description": "Crowd Singing \"Heartless\" at Ye's Chicago Show",
+          "related_claims": [],
+          "related_nodes": [
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2341.2",
+          "ref": "A-2341.2",
+          "description": "\"Famous\" Crowd Performance Clip",
+          "related_claims": [],
+          "related_nodes": [
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2341.3",
+          "ref": "A-2341.3",
+          "description": "\"Runaway\" Closing Piano Moment",
+          "related_claims": [],
+          "related_nodes": [
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2342",
+      "family_ref": "A-2342",
+      "bundle_name": "Kanye West BBC Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2342.1",
+          "ref": "A-2342.1",
+          "description": "Kanye West 2013 BBC Interview Segment on Fans and Self-Esteem",
+          "related_claims": [],
+          "related_nodes": [
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2343",
+      "family_ref": "A-2343",
+      "bundle_name": "Avengers Meme Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2343.1",
+          "ref": "A-2343.1",
+          "description": "Fan-made \"Avengers Assemble\" Meme Shared by Ye",
+          "related_claims": [],
+          "related_nodes": [
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2344",
+      "family_ref": "A-2344",
+      "bundle_name": "TMZ Ye Introduction Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2344.1",
+          "ref": "A-2344.1",
+          "description": "TMZ Clip of Ye Introducing Candace Owens (Ebro FaceTime Story)",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1028",
+            "N-5",
+            "N-34"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:04",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2345",
+      "family_ref": "A-2345",
+      "bundle_name": "Charlie Kirk NYT Commentary Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2345.1",
+          "ref": "A-2345.1",
+          "description": "Charlie Kirk Clip Reading the New York Times Aloud",
+          "related_claims": [
+            "C-3404",
+            "C-3405"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-8"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2346",
+      "family_ref": "A-2346",
+      "bundle_name": "Blake Neff X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2346.1",
+          "ref": "A-2346.1",
+          "description": "Blake Neff X Post Calling Candace \"Seven Vacations a Year Owens\"",
+          "related_claims": [
+            "C-3397"
+          ],
+          "related_nodes": [
+            "N-4",
+            "N-1028"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2347",
+      "family_ref": "A-2347",
+      "bundle_name": "Deseret News Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2347.1",
+          "ref": "A-2347.1",
+          "description": "Deseret News Profile Article on Blake Neff (Hospital Waiting Room Account)",
+          "related_claims": [
+            "C-3393",
+            "C-3394",
+            "C-3395",
+            "C-3396"
+          ],
+          "related_nodes": [
+            "N-4",
+            "N-1",
+            "N-1028",
+            "N-10",
+            "N-9"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2348",
+      "family_ref": "A-2348",
+      "bundle_name": "Erika Kirk NYT Op-Ed Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2348.1",
+          "ref": "A-2348.1",
+          "description": "Erika Kirk New York Times Op-Ed on One Year of Grief",
+          "related_claims": [
+            "C-3398",
+            "C-3399",
+            "C-3400",
+            "C-3401",
+            "C-3402"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1",
+            "N-1028",
+            "N-8",
+            "N-10"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2349",
+      "family_ref": "A-2349",
+      "bundle_name": "Kim Kardashian Hotel Lobby Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2349.1",
+          "ref": "A-2349.1",
+          "description": "Hotel Lobby Video Footage of Candace Owens and Kim Kardashian",
+          "related_claims": [
+            "C-3403"
+          ],
+          "related_nodes": [
+            "N-1028",
+            "N-6",
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:28",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2350",
+      "family_ref": "A-2350",
+      "bundle_name": "Top Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2350.1",
+          "ref": "A-2350.1",
+          "description": "\"audacity\" Comment on Not Spiking About Fears to Spouse",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2350.2",
+          "ref": "A-2350.2",
+          "description": "Noah Comment on Charlie Sending Messages During Zoom With Israel",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1",
+            "N-12",
+            "N-42",
+            "N-21",
+            "N-15"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2350.3",
+          "ref": "A-2350.3",
+          "description": "Ali Comment on Andrew Kolb and Fireworks / Sparkling Pantsuit",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2",
+            "N-13"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2350.4",
+          "ref": "A-2350.4",
+          "description": "M. Sanders Comment on Pre-Recording Shows for Maternity Leave",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1028"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2350.5",
+          "ref": "A-2350.5",
+          "description": "Viewer Comment on Salem Media / \"Waterstone\" Documentary \"Can You Hear Me Now?\"",
+          "related_claims": [
+            "C-3405"
+          ],
+          "related_nodes": [
+            "N-18",
+            "N-1",
+            "N-19"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:56:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2350.6",
+          "ref": "A-2350.6",
+          "description": "Lynn Marie Comment: \"Charlie Kirk is finally free.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2350.7",
+          "ref": "A-2350.7",
+          "description": "\"Don't Give a Dom\" Comment Mocking Blake Neff",
+          "related_claims": [],
+          "related_nodes": [
+            "N-4"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2350.8",
+          "ref": "A-2350.8",
+          "description": "Jessica Coach Comment: Checked Out of Hospital to Watch Show",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1028"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of the Deseret News hospital account (A-2347), the NYT op-ed reflections (A-2348), and the Charlie Kirk NYT commentary clip (A-2345).",
+      "related_artifacts": [
+        "A-2345.1",
+        "A-2347.1",
+        "A-2348.1",
+        "A-2350.5"
+      ],
+      "related_claims": [
+        "C-3393",
+        "C-3394",
+        "C-3399",
+        "C-3401",
+        "C-3404",
+        "C-3405"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [
+        "A-2348.1",
+        "A-2350.1",
+        "A-2350.3"
+      ],
+      "related_claims": [
+        "C-3398",
+        "C-3399",
+        "C-3400",
+        "C-3401",
+        "C-3402"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Author of X post (A-2346); subject of Deseret News profile (A-2347).",
+      "related_artifacts": [
+        "A-2346.1",
+        "A-2347.1",
+        "A-2350.7"
+      ],
+      "related_claims": [
+        "C-3393",
+        "C-3394",
+        "C-3395",
+        "C-3396",
+        "C-3397"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Concert performer; subject of BBC interview clip (A-2342), Avengers meme (A-2343), concert footage (A-2341), and TMZ clip (A-2344).",
+      "related_artifacts": [
+        "A-2341.1",
+        "A-2341.2",
+        "A-2341.3",
+        "A-2342.1",
+        "A-2343.1",
+        "A-2344.1",
+        "A-2349.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 7,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-6",
+      "ref": "N-6",
+      "name": "Elizabeth Lane *(reused from Episode 1)*",
+      "type": "person",
+      "description": "Counterparty in hotel-lobby video (A-2349).",
+      "related_artifacts": [
+        "A-2349.1"
+      ],
+      "related_claims": [
+        "C-3403"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1028",
+      "ref": "N-1028",
+      "name": "Usha Vance",
+      "type": "investigation_target",
+      "description": "Referenced in Erika Kirk op-ed (A-2348) as \"second lady\" and as source of \"15 minutes\" analogy.",
+      "related_artifacts": [
+        "A-2348.1"
+      ],
+      "related_claims": [
+        "C-3399",
+        "C-3400"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-8",
+      "ref": "N-8",
+      "name": "Melody Hall",
+      "type": "person",
+      "description": "Publication of Erika Kirk op-ed (A-2348); subject of Charlie Kirk commentary clip (A-2345).",
+      "related_artifacts": [
+        "A-2345.1",
+        "A-2348.1"
+      ],
+      "related_claims": [
+        "C-3398",
+        "C-3404",
+        "C-3405"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Holly Chalmers",
+      "type": "person",
+      "description": "Publisher of Blake Neff profile article (A-2347).",
+      "related_artifacts": [
+        "A-2347.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-10",
+      "ref": "N-10",
+      "name": "Kenneth Brining",
+      "type": "person",
+      "description": "Named by Neff (A-2347) as having reduced involvement with Owens around 2024; subject of op-ed publisher critique (A-2348).",
+      "related_artifacts": [
+        "A-2347.1",
+        "A-2348.1"
+      ],
+      "related_claims": [
+        "C-3396"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-11",
+      "ref": "N-11",
+      "name": "Danny Philip",
+      "type": "person",
+      "description": "Referenced as a passenger in the second Denali rental alongside Blake Neff on September 10.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-12",
+      "ref": "N-12",
+      "name": "Charmaine",
+      "type": "person",
+      "description": "Referenced as terming Israeli officials on the September 9 Zoom call.",
+      "related_artifacts": [
+        "A-2350.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-13",
+      "ref": "N-13",
+      "name": "Debbie",
+      "type": "person",
+      "description": "Named by viewer comment (A-2350.3) in connection with fireworks and Erika's pantsuit.",
+      "related_artifacts": [
+        "A-2350.3"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Victor Marx's son",
+      "type": "person",
+      "description": "Referenced by host as the party who delivered the September 9 Zoom-call conversation to Tulsi Gabbard's office.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-15",
+      "ref": "N-15",
+      "name": "Victor Marx's daughter",
+      "type": "person",
+      "description": "Referenced as the office to which the Zoom-call conversation was delivered.",
+      "related_artifacts": [
+        "A-2350.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Family referenced via Usha Vance in Erika op-ed (A-2348).",
+      "related_artifacts": [
+        "A-2348.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-18",
+      "ref": "N-18",
+      "name": "Amir Safari",
+      "type": "person",
+      "description": "Referenced by viewer comment (A-2350.5) as involved in \"Can You Hear Me Now?\" documentary; prior-episode context referenced by host.",
+      "related_artifacts": [
+        "A-2350.5"
+      ],
+      "related_claims": [
+        "C-3405"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-19",
+      "ref": "N-19",
+      "name": "Corey Kennedy",
+      "type": "person",
+      "description": "Referenced by host as Salem Media executive tied to early post-death filings.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-21",
+      "ref": "N-21",
+      "name": "Node 21",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-34",
+      "ref": "N-34",
+      "name": "Node 34",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3393",
+      "ref": "C-3393",
+      "label": "Blake Neff Reported Discussing Candace Owens's Anticipated Reaction in Hospital Waiting Room on September 10",
+      "claim": "According to a Deseret News profile piece, Blake Neff stated he was with members sitting in the waiting room at the Orem, Utah hospital where Kirk was taken on September 10 and was discussing how podcaster Candace Owens would react to Charlie's death.",
+      "anchored_artifacts": [
+        "A-2347.1"
+      ],
+      "related_nodes": [
+        "N-4",
+        "N-1028",
+        "N-1",
+        "N-9"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:34",
+      "investigative_direction": "Obtain the original Deseret News article text directly and confirm the quoted material matches the host's reading; verify whether Neff names the other \"members\" present."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3394",
+      "ref": "C-3394",
+      "label": "Blake Neff Stated Charlie Kirk Was Aware of Owens's Theories About France's First Lady Being Transgender",
+      "claim": "According to the Deseret News profile, Blake Neff stated Charlie Kirk was aware of Candace Owens's theories about France's first lady being transgender.",
+      "anchored_artifacts": [
+        "A-2347.1"
+      ],
+      "related_nodes": [
+        "N-4",
+        "N-1",
+        "N-1028",
+        "N-9"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:34",
+      "investigative_direction": "Verify the exact Neff wording in the original Deseret News article; identify the source Neff cites for this characterization."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3395",
+      "ref": "C-3395",
+      "label": "Blake Neff Described Some of Candace Owens's Views as \"Weird Stuff About Jewish Cults\"",
+      "claim": "According to the Deseret News profile, Blake Neff described some of Candace Owens's views as \"weird stuff about Jewish cults.\"",
+      "anchored_artifacts": [
+        "A-2347.1"
+      ],
+      "related_nodes": [
+        "N-4",
+        "N-1028",
+        "N-9"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:34",
+      "investigative_direction": "Verify the exact phrasing in the original Deseret News article; identify which specific views Neff was referencing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3396",
+      "ref": "C-3396",
+      "label": "Blake Neff Stated TPUSA Reduced Involvement With Owens Around 2024 Due to Her Views",
+      "claim": "According to the Deseret News profile, Blake Neff stated that some of Candace Owens's views were part of the reason Turning Point USA had become less involved with Owens around 2024.",
+      "anchored_artifacts": [
+        "A-2347.1"
+      ],
+      "related_nodes": [
+        "N-4",
+        "N-1028",
+        "N-10",
+        "N-9"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:34",
+      "investigative_direction": "Verify the exact Neff statement in the Deseret News article; corroborate against TPUSA's public posture and timeline around 2024."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3397",
+      "ref": "C-3397",
+      "label": "Blake Neff Characterized Candace Owens as \"Seven Vacations a Year Owens\"",
+      "claim": "Blake Neff, in an X post read aloud on the episode, called Candace Owens \"seven vacations a year Owens\" and stated she cannot imagine someone liking work.",
+      "anchored_artifacts": [
+        "A-2346.1"
+      ],
+      "related_nodes": [
+        "N-4",
+        "N-1028"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:48",
+      "investigative_direction": "Obtain the original X post URL and confirm text; cross-check the host's counter-travel record against verifiable travel logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3398",
+      "ref": "C-3398",
+      "label": "Erika Kirk Published a One-Year Grief Op-Ed in The New York Times",
+      "claim": "Erika Kirk published a one-year look back on her grief in an op-ed for The New York Times, with portions read aloud by the host.",
+      "anchored_artifacts": [
+        "A-2348.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-8"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:40",
+      "investigative_direction": "Locate the op-ed in NYT archives; verify publication date, paywall status, and full text directly."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3399",
+      "ref": "C-3399",
+      "label": "Erika Kirk's Op-Ed Recounts Telling Second Lady Usha Vance \"I Don't Know How I'm Going to Do This\"",
+      "claim": "In her NYT op-ed, Erika Kirk recounts telling Second Lady Usha Vance \"I don't know how I'm going to do this\" on the day after Charlie Kirk was shot.",
+      "anchored_artifacts": [
+        "A-2348.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1028",
+        "N-1",
+        "N-16"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:25",
+      "investigative_direction": "Confirm the quoted sentence in the op-ed directly; cross-check against Vance-family public statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3400",
+      "ref": "C-3400",
+      "label": "Erika Kirk's Op-Ed Cites Usha Vance's \"15 Minutes\" Airplane Analogy About Grief",
+      "claim": "In her NYT op-ed, Erika Kirk cites Usha Vance's \"15 minutes\" airplane analogy about grief — that the worst stretch is like a plane descending with screaming children before landing.",
+      "anchored_artifacts": [
+        "A-2348.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1028",
+        "N-16"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:25",
+      "investigative_direction": "Confirm the quoted analogy in the op-ed directly."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3401",
+      "ref": "C-3401",
+      "label": "Erika Kirk's Op-Ed States She Is Not Angry at God and Characterizes Her Husband as \"One of One\"",
+      "claim": "In her NYT op-ed, Erika Kirk writes that she is not angry at God, that her husband was \"one of one,\" that she was \"blessed to be his wife,\" and that she \"understood his assignment here on Earth.\"",
+      "anchored_artifacts": [
+        "A-2348.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:35",
+      "investigative_direction": "Confirm the quoted language in the op-ed directly."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3402",
+      "ref": "C-3402",
+      "label": "Erika Kirk's Op-Ed Closes With Reference to \"A Dear Friend\" Telling Her to \"Just Get Through the Next 15 Minutes\"",
+      "claim": "In her NYT op-ed, the closing lines reference \"a dear friend\" telling the author to \"just get through the next 15 minutes,\" with the \"15 minutes\" phrase repeated as a refrain.",
+      "anchored_artifacts": [
+        "A-2348.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1028"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:27",
+      "investigative_direction": "Confirm the closing lines directly in the op-ed; identify whether the op-ed identifies the \"dear friend\" by name."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3403",
+      "ref": "C-3403",
+      "label": "Candace Owens Encountered Kim Kardashian in Hotel Lobby at Ye's Chicago Concert",
+      "claim": "The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert and exchanging a half-smile across the lobby.",
+      "anchored_artifacts": [
+        "A-2349.1"
+      ],
+      "related_nodes": [
+        "N-1028",
+        "N-6",
+        "N-5"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:28",
+      "investigative_direction": "Verify the footage timestamp and attendees independently; confirm the date and venue."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3404",
+      "ref": "C-3404",
+      "label": "Charlie Kirk Publicly Stated He Reads The New York Times \"So You Don't Have To\"",
+      "claim": "In a clip played on the episode, Charlie Kirk publicly states he reads The New York Times \"so you don't have to.\"",
+      "anchored_artifacts": [
+        "A-2345.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-8"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:13",
+      "investigative_direction": "Identify the original episode and date of the clip; verify the exact wording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3405",
+      "ref": "C-3405",
+      "label": "Salem Media and \"Waterstone\" Are Releasing a Charlie Kirk Documentary Titled \"Can You Hear Me Now?\"",
+      "claim": "According to a viewer comment read aloud on the episode, Salem Media and \"Waterstone\" are releasing a Charlie Kirk documentary with an alleged unreleased interview filmed shortly before September 10, titled \"Can You Hear Me Now?\"",
+      "anchored_artifacts": [
+        "A-2350.5"
+      ],
+      "related_nodes": [
+        "N-18",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:42",
+      "investigative_direction": "Verify the documentary's existence via official Salem Media and \"Waterstone\" press releases; confirm the title, release date, and the existence of any unreleased interview footage."
+    }
+  ],
+  "memes": []
+}

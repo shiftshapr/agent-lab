@@ -1,0 +1,766 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 45,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "0f528a0831f0745732d0b588607a54f1aca44c71a0b721dce830b64978f68cce",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1525",
+      "family_ref": "A-1525",
+      "bundle_name": "Fox News Harris Faulkner Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1525.1",
+          "ref": "A-1525.1",
+          "description": "Audio Clip: Erika Kirk asks public to grant her family privacy regarding Charlie Kirk's burial location; references a planned Turning Point USA memorial",
+          "related_claims": [
+            "C-1897"
+          ],
+          "related_nodes": [
+            "N-1004"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:31",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1525.2",
+          "ref": "A-1525.2",
+          "description": "Audio Clip: Erika Kirk defends Turning Point USA staff using a Nehemiah wall-building analogy, calling critics \"town's people at the base of the hill\"",
+          "related_claims": [
+            "C-1898"
+          ],
+          "related_nodes": [
+            "N-1004"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:34",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1526",
+      "family_ref": "A-1526",
+      "bundle_name": "Instagram Casket Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1526.1",
+          "ref": "A-1526.1",
+          "description": "Audio Clip: Erika Kirk speaking over Charlie Kirk's casket, repeating \"I love you, I love you, I love you,\" and another voice responding \"God bless you\"",
+          "related_claims": [
+            "C-1899"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1004"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:28",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1527",
+      "family_ref": "A-1527",
+      "bundle_name": "Sergio Gor Swearing-in Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1527.1",
+          "ref": "A-1527.1",
+          "description": "Audio Clip: Erika Kirk delivering brief remarks at Sergio Gor's swearing-in ceremony as US Ambassador to India, stating \"Charlie loved you\" and that Kirk \"would have been the first phone call\"",
+          "related_claims": [
+            "C-1900"
+          ],
+          "related_nodes": [
+            "N-1004"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:45",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1528",
+      "family_ref": "A-1528",
+      "bundle_name": "Tucker Carlson Theo Von Podcast Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1528.1",
+          "ref": "A-1528.1",
+          "description": "Audio Clip: Tucker Carlson states Egyptian-registered aircraft had been following Erika Kirk in multiple places around the world for years; says \"that is factually true\"",
+          "related_claims": [
+            "C-1901"
+          ],
+          "related_nodes": [
+            "N-1004"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:32",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1528.2",
+          "ref": "A-1528.2",
+          "description": "Audio Clip: Tucker Carlson states Candace Owens' claim about a disproportionately large number of foreign-registered cell phones at the event is \"also true\"",
+          "related_claims": [
+            "C-1902"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1004"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:45",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1528.3",
+          "ref": "A-1528.3",
+          "description": "Audio Clip: Tucker Carlson states people posted on X predicting Charlie Kirk would be killed on a specific date before the assassination; asks whether those posters have been interviewed by FBI",
+          "related_claims": [
+            "C-1903"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:46",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1528.4",
+          "ref": "A-1528.4",
+          "description": "Audio Clip: Tucker Carlson states he does not have confidence in the FBI or its leadership regarding the investigation",
+          "related_claims": [
+            "C-1904"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:23",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1528.5",
+          "ref": "A-1528.5",
+          "description": "Audio Clip: Tucker Carlson references FBI having both a confession from the suspect and the murder weapon with his fingerprints",
+          "related_claims": [
+            "C-1904"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:08",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1529",
+      "family_ref": "A-1529",
+      "bundle_name": "Fort Huachuca Tip Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1529.1",
+          "ref": "A-1529.1",
+          "description": "Email (read in full): Identifies USAF C37A Gulfstream V (tail 99-044) based at Andrews AFB / Camp Springs, VIP transport for senior executive branch and Congress; documents flight path Andrews → Colorado Springs (Sept 7), Colorado Springs → Tucson (Sept 8), transponder dark, Fort Huachuca → El Paso (12:31 PM Sept 9), El Paso → Andrews. Notes Pam Bondi previously flew on this plane ~5 months prior from Tampa area to DC.",
+          "related_claims": [
+            "C-1905",
+            "C-1910"
+          ],
+          "related_nodes": [
+            "N-1403"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:18–00:47:10",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1530",
+      "family_ref": "A-1530",
+      "bundle_name": "Flight Tracking Display Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1530.1",
+          "ref": "A-1530.1",
+          "description": "On-screen flight tracking display (described by Mark): Flight logs from Andrews through Tucson/Fort Huachuca; call sign \"RCH\" (Reach) before Fort Huachuca, switching to \"SAM\" (Special Air Mission) after departure from Fort Huachuca",
+          "related_claims": [
+            "C-1906"
+          ],
+          "related_nodes": [
+            "N-1403",
+            "N-527"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:38",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1531",
+      "family_ref": "A-1531",
+      "bundle_name": "YouTube Comments Bundle (Episode 45)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1531.1",
+          "ref": "A-1531.1",
+          "description": "Comment (top): \"they want us to believe that Charlie's neck was made of steel and the Twin Towers were made of neckbones\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:54:34",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1531.2",
+          "ref": "A-1531.2",
+          "description": "Comment by Laughing Cats Music World: \"Vital to separate flaws from race. We can criticize corrupt Jews without blanket anti-semitism...\"",
+          "related_claims": [
+            "C-1911"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1004"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:55:36",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1531.3",
+          "ref": "A-1531.3",
+          "description": "Comment by Lulu Mallerie: \"The more I watch, the more fake and gay things are. We all have been given the light of Christ to discern truth from lies...\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:56:56",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1531.4",
+          "ref": "A-1531.4",
+          "description": "Comment by Merryill Gerston Meyer: \"It seems to me Erika's moral outrage is manufactured more for an elite target audience as opposed to those normal folks who want to solve the actual murder\"",
+          "related_claims": [
+            "C-1911"
+          ],
+          "related_nodes": [
+            "N-1004"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:58:27",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1531.5",
+          "ref": "A-1531.5",
+          "description": "Comment by H Biz: \"Who was the woman in the pickup truck?\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:59:22",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1531.6",
+          "ref": "A-1531.6",
+          "description": "Comment by servant of Yahweh: \"Who was the young woman in the Candlewood Suites hotel with the special ops guy? They left in the green truck on September 8th...\"",
+          "related_claims": [
+            "C-1909"
+          ],
+          "related_nodes": [
+            "N-1404"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:60:00",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1532",
+      "family_ref": "A-1532",
+      "bundle_name": "Fort Huachuca Military Verification Emails Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1532.1",
+          "ref": "A-1532.1",
+          "description": "Email from military personnel currently stationed at Fort Huachuca: confirms JTF uses an unmarked building converted to a Sensitive Compartmented Information Facility (SCIF), surrounded by barbed wire, with cell phones/electronics prohibited and top secret clearance required",
+          "related_claims": [
+            "C-1908"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:52",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1532.2",
+          "ref": "A-1532.2",
+          "description": "Identification chain via email: Captain at the September 9 Fort Huachuca meeting positively identified as Adam Nef of the 10th Mountain Division (witness confirmed 100% after earlier 60-65% certainty)",
+          "related_claims": [
+            "C-1907"
+          ],
+          "related_nodes": [
+            "N-528"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:00",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Deceased primary subject of the Bride of Charlie investigation; referenced across multiple artifact families in this episode as the assassination victim whose burial location, memorial plans, and event attendees are under investigation.",
+      "related_artifacts": [
+        "A-1526.1",
+        "A-1528.2",
+        "A-1528.3",
+        "A-1531.1",
+        "A-1531.3"
+      ],
+      "related_claims": [
+        "C-1899",
+        "C-1902",
+        "C-1903"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1004",
+      "ref": "N-1004",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "CEO and Chairman of Turning Point USA; widow of Charlie Kirk; primary subject of host critique in this episode. The episode presents her media appearances (Fox News Harris Faulkner, Bari Weiss town hall referenced), her Nehemiah defense of TPUSA staff, her request for burial privacy, and prior publication of the casket video as the central evidentiary focus.",
+      "related_artifacts": [
+        "A-1525.1",
+        "A-1525.2",
+        "A-1526.1",
+        "A-1527.1",
+        "A-1528.1",
+        "A-1528.2",
+        "A-1531.4"
+      ],
+      "related_claims": [
+        "C-1897",
+        "C-1898",
+        "C-1899",
+        "C-1900",
+        "C-1901",
+        "C-1902",
+        "C-1911"
+      ],
+      "tags": [],
+      "evidence_count": 7,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-527",
+      "ref": "N-527",
+      "name": "Mark",
+      "type": "person",
+      "description": "On-air contributor who provides flight-tracking analysis for USAF C37A 99-044 in this episode, explaining the RCH-to-SAM call sign change after departing Fort Huachuca. Likely a recurring contributor to host's show but not previously introduced as a Bride of Charlie person node.",
+      "related_artifacts": [
+        "A-1530.1"
+      ],
+      "related_claims": [
+        "C-1906"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1403"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-528",
+      "ref": "N-528",
+      "name": "Captain Adam Nef",
+      "type": "person",
+      "description": "Positively identified in this episode as the U.S. Army captain of the 10th Mountain Division who interrogated the Fort Huachuca witness (\"Harry\") on September 9, 2025. Distinct from Blake Nef (Fox News personality mentioned in same episode).",
+      "related_artifacts": [
+        "A-1532.2"
+      ],
+      "related_claims": [
+        "C-1907"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1403",
+      "ref": "N-1403",
+      "name": "USAF C37A 99-044 Flight Path Verification",
+      "type": "investigation_target",
+      "description": "Cross-episode investigation target: the September 7-9, 2025 movements of USAF C37A Gulfstream V (tail 99-044) including transponder-dark segment and RCH-to-SAM call sign transition at Fort Huachuca, and the question of which senior official was picked up.",
+      "related_artifacts": [
+        "A-1529.1",
+        "A-1530.1"
+      ],
+      "related_claims": [
+        "C-1905",
+        "C-1906",
+        "C-1910"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-527"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1404",
+      "ref": "N-1404",
+      "name": "Candlewood Suites Hotel Security Footage (Sept 8, 2025)",
+      "type": "investigation_target",
+      "description": "Investigation target: identification and preservation of security footage from the Candlewood Suites hotel near Fort Huachuca on September 8, 2025, showing the young woman and special operations individual departing in a green truck.",
+      "related_artifacts": [
+        "A-1531.6"
+      ],
+      "related_claims": [
+        "C-1909"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1897",
+      "ref": "C-1897",
+      "label": "Erika Kirk requests public privacy on Charlie Kirk's burial location",
+      "claim": "Erika Kirk asked the public to allow her family privacy regarding the location where Charlie Kirk is buried, citing the need to protect her children, in-laws, and parents, and announced plans for a \"museum style\" memorial at Turning Point USA.",
+      "anchored_artifacts": [
+        "A-1525.1"
+      ],
+      "related_nodes": [
+        "N-1004"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:31",
+      "investigative_direction": "Verify burial location and date through cemetery or estate records; cross-check with Milo Yiannopoulos' claim that Charlie has not yet been buried."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1898",
+      "ref": "C-1898",
+      "label": "Erika Kirk Nehemiah analogy defense of TPUSA staff",
+      "claim": "Erika Kirk defended Turning Point USA staff from criticism using a Nehemiah wall-building analogy, comparing the situation to Nehemiah being called down from building the wall and stating \"my silence does not mean that I am complacent\" and \"I cannot come down. I am busy building.\"",
+      "anchored_artifacts": [
+        "A-1525.2"
+      ],
+      "related_nodes": [
+        "N-1004"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:34",
+      "investigative_direction": "Compile catalog of identified TPUSA staff statements that have been disputed and assess whether Erika's characterization matches the underlying record."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1899",
+      "ref": "C-1899",
+      "label": "Erika Kirk published casket video on Instagram",
+      "claim": "Erika Kirk published a video on Instagram showing her at Charlie Kirk's casket saying \"I love you, I love you, I love you\" with another person responding \"God bless you.\"",
+      "anchored_artifacts": [
+        "A-1526.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1004"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:28",
+      "investigative_direction": "Obtain archived Instagram post metadata, timestamp, and current status (public, private, deleted); verify any deletion history."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1900",
+      "ref": "C-1900",
+      "label": "Erika Kirk attended Sergio Gor ambassador swearing-in",
+      "claim": "Erika Kirk appeared at Sergio Gor's swearing-in ceremony as US Ambassador to India, delivering a brief speech in which she stated \"Charlie loved you\" and \"Charlie is going to be with you every single day in spirit.\"",
+      "anchored_artifacts": [
+        "A-1527.1"
+      ],
+      "related_nodes": [
+        "N-1004"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:45",
+      "investigative_direction": "Cross-reference ceremony date with Erika Kirk's public schedule; verify any travel reimbursement or charter flight records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1901",
+      "ref": "C-1901",
+      "label": "Tucker Carlson confirms Egyptian-registered aircraft followed Erika Kirk",
+      "claim": "Tucker Carlson, on the Theo Von podcast, stated that Egyptian-registered aircraft had been following Erika Kirk in multiple places around the world for years, and characterized the claim as \"factually true.\"",
+      "anchored_artifacts": [
+        "A-1528.1"
+      ],
+      "related_nodes": [
+        "N-1004"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:32",
+      "investigative_direction": "Cross-reference with ADS-B historical data, FAA aircraft registration records, and any NSA/CIA-sourced confirmation previously cited in the series."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1902",
+      "ref": "C-1902",
+      "label": "Tucker Carlson confirms foreign-registered cell phones at Kirk event",
+      "claim": "Tucker Carlson stated on the Theo Von podcast that the claim of a disproportionately large number of foreign-registered cell phones at the Charlie Kirk event was \"true.\"",
+      "anchored_artifacts": [
+        "A-1528.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1004"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:45",
+      "investigative_direction": "Seek cell tower records or ping data through legal process; identify any carrier records of foreign-registered IMSI devices near the venue."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1903",
+      "ref": "C-1903",
+      "label": "Pre-event X posts predicted Charlie Kirk killing",
+      "claim": "Tucker Carlson stated that individuals posted on X predicting that Charlie Kirk would be killed on a specific date prior to the assassination, and questioned whether the FBI had interviewed those posters.",
+      "anchored_artifacts": [
+        "A-1528.3"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:46",
+      "investigative_direction": "Use archived X searches and Wayback Machine to recover the referenced posts; cross-reference with FBI affidavit exhibits and any disclosed investigative steps."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1904",
+      "ref": "C-1904",
+      "label": "Tucker Carlson expresses lack of confidence in FBI leadership",
+      "claim": "Tucker Carlson stated he does not have confidence in the FBI or the men who run it, and noted that the FBI has publicly stated it possesses both a confession from the suspect (in his text to his boyfriend) and the murder weapon with his fingerprints.",
+      "anchored_artifacts": [
+        "A-1528.4",
+        "A-1528.5"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:29:23",
+      "investigative_direction": "Compare Tucker's stated concerns with the official FBI affidavit and any public DOJ statements; identify what additional evidence the FBI has declined to disclose."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1905",
+      "ref": "C-1905",
+      "label": "USAF C37A 99-044 flight path September 7-9, 2025",
+      "claim": "USAF C37A Gulfstream V (tail 99-044), based at Andrews AFB, flew Andrews → Colorado Springs (Sept 7), Colorado Springs → Tucson (Sept 8), with the transponder going dark thereafter, then Fort Huachuca → El Paso at 12:31 PM (Sept 9), and El Paso → Andrews.",
+      "anchored_artifacts": [
+        "A-1529.1"
+      ],
+      "related_nodes": [
+        "N-1403"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:18",
+      "investigative_direction": "Cross-reference with ADS-B Exchange historical archives, FAA SWIM data, official DoD manifests if obtainable, and Andrews AFB logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1906",
+      "ref": "C-1906",
+      "label": "RCH-to-SAM call sign change indicates senior official pickup at Fort Huachuca",
+      "claim": "The flight's call sign changed from RCH (Reach) to SAM (Special Air Mission) after departing Fort Huachuca, which according to on-air flight analyst Mark indicates that someone of senior executive-branch, cabinet, congressional-delegation, or vice-presidential stature was picked up at Fort Huachuca.",
+      "anchored_artifacts": [
+        "A-1530.1"
+      ],
+      "related_nodes": [
+        "N-1403",
+        "N-527"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:38",
+      "investigative_direction": "Verify SAM call sign designation rules against published DoD flight operations manuals; cross-reference historical call sign assignments and known passenger lists."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1907",
+      "ref": "C-1907",
+      "label": "Captain at Fort Huachuca meeting identified as Adam Nef, 10th Mountain Division",
+      "claim": "The captain who interrogated the Fort Huachuca witness (\"Harry\") on September 9, 2025, has been positively identified as Adam Nef of the U.S. Army's 10th Mountain Division.",
+      "anchored_artifacts": [
+        "A-1532.2"
+      ],
+      "related_nodes": [
+        "N-528"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:00",
+      "investigative_direction": "Verify Adam Nef's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1908",
+      "ref": "C-1908",
+      "label": "JTF operates unmarked SCIF at Fort Huachuca with barbed wire and TS clearance",
+      "claim": "Joint Task Force at Fort Huachuca operates out of an unmarked building that has been converted to a Sensitive Compartmented Information Facility (SCIF), now surrounded by barbed wire, with cell phones and personal electronics prohibited and top secret clearance required for access.",
+      "anchored_artifacts": [
+        "A-1532.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:40:52",
+      "investigative_direction": "Cross-reference with public DoD facility records, news coverage of SCIF construction at Fort Huachuca, and any base expansion announcements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1909",
+      "ref": "C-1909",
+      "label": "Candlewood Suites security footage preservation requested for September 8, 2025",
+      "claim": "The host, echoing a comment from \"servant of Yahweh,\" publicly requests preservation of security footage from the Candlewood Suites hotel near Fort Huachuca on September 8, 2025, depicting an individual described as a young woman and another as a \"special ops guy\" leaving together in a green truck.",
+      "anchored_artifacts": [
+        "A-1531.6"
+      ],
+      "related_nodes": [
+        "N-1404"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:60:00",
+      "investigative_direction": "Identify the specific Candlewood Suites property, send legal preservation letters, and request hotel guest and vehicle registration records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1910",
+      "ref": "C-1910",
+      "label": "Pam Bondi previously flew on USAF C37A 99-044",
+      "claim": "According to the tipster email, Pam Bondi used USAF C37A Gulfstream V (tail 99-044) approximately five months earlier, flying from the Tampa area back to Washington, DC.",
+      "anchored_artifacts": [
+        "A-1529.1"
+      ],
+      "related_nodes": [
+        "N-1403"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:20",
+      "investigative_direction": "Cross-reference with publicly available Pam Bondi travel records, Tampa-area appearances, and any obtainable DoD flight manifests."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1911",
+      "ref": "C-1911",
+      "label": "Host concurs with critiques that Erika's moral outrage is manufactured for elite audiences and that criticism of Jews is not inherently antisemitic",
+      "claim": "The host explicitly agrees with Merryill Gerston Meyer's thesis that Erika Kirk's moral outrage is manufactured for an elite target audience rather than grassroots supporters, and with Laughing Cats Music World's thesis that criticism of corrupt Jewish actors is distinct from antisemitism.",
+      "anchored_artifacts": [
+        "A-1531.2",
+        "A-1531.4"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1004"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00–00:00:01",
+      "investigative_direction": "Track pattern of Erika Kirk's public appearances to determine whether audience composition supports or contradicts the elite-audience thesis."
+    }
+  ],
+  "memes": []
+}

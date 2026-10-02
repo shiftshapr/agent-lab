@@ -1,0 +1,852 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 120,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "d8ac9dcae0b91121530d5b459c0a6eaf3c4d712dba6ebd3a7938c49f5956f34e",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2085",
+      "family_ref": "A-2085",
+      "bundle_name": "Sean Ryan Show Interview Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2085.1",
+          "ref": "A-2085.1",
+          "description": "Brian Harpole segment describing cutting Charlie Kirk's shirt off at the hospital",
+          "related_claims": [
+            "C-2935"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1207",
+            "N-2074"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2086",
+      "family_ref": "A-2086",
+      "bundle_name": "Sarah Tool Media Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2086.1",
+          "ref": "A-2086.1",
+          "description": "Sarah Tool first interview — Fox 13 — claims Charlie was shot \"directly in his heart,\" shooter to her right, single shot",
+          "related_claims": [
+            "C-2936"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1208",
+            "N-2075"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2086.2",
+          "ref": "A-2086.2",
+          "description": "Sarah Tool second interview — local media, ~51 minutes later — claims Charlie was shot \"in the neck,\" blood spurted across body",
+          "related_claims": [
+            "C-2937"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1208",
+            "N-2075"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2086.3",
+          "ref": "A-2086.3",
+          "description": "Sarah Tool ABC News interview — claims shooter was ~200 yards away, shot to left side of neck",
+          "related_claims": [
+            "C-2938"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1208",
+            "N-2075"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2087",
+      "family_ref": "A-2087",
+      "bundle_name": "Viewer Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2087.1",
+          "ref": "A-2087.1",
+          "description": "Email from viewer identifying white markings on SUV floorboard shards as consistent with Rode Wireless Pro body design",
+          "related_claims": [
+            "C-2941"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2076"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2088",
+      "family_ref": "A-2088",
+      "bundle_name": "SUV Floorboard Shard Image Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2088.1",
+          "ref": "A-2088.1",
+          "description": "Enhanced still images of shards visible on SUV floorboard and seat crease (displayed on show)",
+          "related_claims": [
+            "C-2942",
+            "C-2943"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2076"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2089",
+      "family_ref": "A-2089",
+      "bundle_name": "Rode Wireless Pro Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2089.1",
+          "ref": "A-2089.1",
+          "description": "Product image of Rode Wireless Pro microphone (displayed on show for visual comparison)",
+          "related_claims": [
+            "C-2942"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2076"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2089.2",
+          "ref": "A-2089.2",
+          "description": "YouTube clip of third-party user destroying a Rode Wireless Pro microphone; resulting shard pattern shown",
+          "related_claims": [
+            "C-2943"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2076"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2090",
+      "family_ref": "A-2090",
+      "bundle_name": "Tim Dillon Comedy Reading Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2090.1",
+          "ref": "A-2090.1",
+          "description": "Tim Dillon clip — parody reading titled \"God chose me by J. D. Vance,\" with Baal-sacrifice framing",
+          "related_claims": [],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2091",
+      "family_ref": "A-2091",
+      "bundle_name": "Erika Signature Comparison Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2091.1",
+          "ref": "A-2091.1",
+          "description": "Erika current signature (post-Charlie era) — displayed on show as \"Erica Lane\" (transcript spelling, see Optional Flags)",
+          "related_claims": [
+            "C-2944"
+          ],
+          "related_nodes": [
+            "N-1020",
+            "N-2078"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2091.2",
+          "ref": "A-2091.2",
+          "description": "Erika Miss Arizona era signature — displayed on show as visibly distinct from A-2091.1",
+          "related_claims": [
+            "C-2944"
+          ],
+          "related_nodes": [
+            "N-1020",
+            "N-2078"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2092",
+      "family_ref": "A-2092",
+      "bundle_name": "Court Ruling Reference Bundle (verbally referenced only)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2092.1",
+          "ref": "A-2092.1",
+          "description": "Judge Graff ruling denying defense motion to compel Lance Twiggs in-person testimony at preliminary hearing (ruling document not shown on screen)",
+          "related_claims": [
+            "C-2939",
+            "C-2940"
+          ],
+          "related_nodes": [
+            "N-4",
+            "N-6",
+            "N-2077"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Topic",
+      "@id": "N-2079",
+      "ref": "N-2079",
+      "name": "Sean Ryan Show Interview Clip Bundle",
+      "type": "topic",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Deceased subject of the series; central figure in every artifact-anchored claim in this episode.",
+      "related_artifacts": [
+        "A-2085.1",
+        "A-2086.1",
+        "A-2086.2",
+        "A-2086.3",
+        "A-2087.1",
+        "A-2088.1",
+        "A-2089.1",
+        "A-2089.2"
+      ],
+      "related_claims": [
+        "C-2935",
+        "C-2936",
+        "C-2937",
+        "C-2938",
+        "C-2941",
+        "C-2942",
+        "C-2943"
+      ],
+      "tags": [],
+      "evidence_count": 8,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-2074",
+        "N-2075",
+        "N-2076"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1020",
+      "ref": "N-1020",
+      "name": "Erica Kirk (née Frantzve)",
+      "type": "investigation_target",
+      "description": "Subject of signature-comparison artifact and Next Model Management witness thread.",
+      "related_artifacts": [
+        "A-2091.1",
+        "A-2091.2"
+      ],
+      "related_claims": [
+        "C-2944"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2078",
+        "N-2079"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Defendant in preliminary hearing subject to host's hearsay concerns.",
+      "related_artifacts": [
+        "A-2092.1"
+      ],
+      "related_claims": [
+        "C-2939",
+        "C-2940"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-6",
+        "N-2077"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-6",
+      "ref": "N-6",
+      "name": "Elizabeth Lane *(reused from Episode 1)*",
+      "type": "person",
+      "description": "Roommate / romantic partner of Tyler Robinson; subject of the denied subpoena.",
+      "related_artifacts": [
+        "A-2092.1"
+      ],
+      "related_claims": [
+        "C-2939",
+        "C-2940"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-4",
+        "N-2077"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Individual who joined the Sean Ryan show and described cutting Charlie Kirk's shirt off at the hospital. New person node introduced this episode.",
+      "related_artifacts": [
+        "A-2085.1"
+      ],
+      "related_claims": [
+        "C-2935"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-2074"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Front-row witness whose successive statements about wound location and shooter distance shifted across three media interviews.",
+      "related_artifacts": [
+        "A-2086.1",
+        "A-2086.2",
+        "A-2086.3"
+      ],
+      "related_claims": [
+        "C-2936",
+        "C-2937",
+        "C-2938"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-2075"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Identified by host as analyst pursuing ABS glass shard identification with respect to the SUV.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1",
+        "N-2076"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Comedian whose parody reading of a JD Vance book excerpt was played on air.",
+      "related_artifacts": [
+        "A-2090.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2074",
+      "ref": "N-2074",
+      "name": "Charlie Kirk Shirt Disposal Verification",
+      "type": "investigation_target",
+      "description": "Persistent target: whether Charlie's \"freedom shirt\" — predicted to retain explosive residue under the mic-explosion hypothesis — was preserved as evidence or otherwise disposed of.",
+      "related_artifacts": [
+        "A-2085.1"
+      ],
+      "related_claims": [
+        "C-2935"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2075",
+      "ref": "N-2075",
+      "name": "Sarah Tool Witness Statement Discrepancy",
+      "type": "investigation_target",
+      "description": "Contradiction node: chest/heart vs. neck wound location and 200-yard shooter distance claim, across three successive Sarah Tool interviews.",
+      "related_artifacts": [
+        "A-2086.1",
+        "A-2086.2",
+        "A-2086.3"
+      ],
+      "related_claims": [
+        "C-2936",
+        "C-2937",
+        "C-2938"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2076",
+      "ref": "N-2076",
+      "name": "SUV Floorboard Shard Mic Identification",
+      "type": "investigation_target",
+      "description": "Persistent target: whether the black shards visible on the SUV floorboard are ABS shards from a Rode Wireless Pro microphone or from another source.",
+      "related_artifacts": [
+        "A-2087.1",
+        "A-2088.1",
+        "A-2089.1",
+        "A-2089.2"
+      ],
+      "related_claims": [
+        "C-2941",
+        "C-2942",
+        "C-2943"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-1209"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2077",
+      "ref": "N-2077",
+      "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
+      "type": "investigation_target",
+      "description": "Target: court ruling permitting Twiggs's recorded statement at the preliminary hearing without live cross-examination.",
+      "related_artifacts": [
+        "A-2092.1"
+      ],
+      "related_claims": [
+        "C-2939",
+        "C-2940"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-4",
+        "N-6"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2078",
+      "ref": "N-2078",
+      "name": "Erika Signature Change Discrepancy",
+      "type": "investigation_target",
+      "description": "Target: observable transformation of Erika Kirk's signature between her Miss Arizona era and current usage.",
+      "related_artifacts": [
+        "A-2091.1",
+        "A-2091.2"
+      ],
+      "related_claims": [
+        "C-2944"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1020"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2935",
+      "ref": "C-2935",
+      "label": "Harpole Claims He Cut Charlie Kirk's Shirt Off at Hospital",
+      "claim": "Brian Harpole states in the Sean Ryan interview that he personally cut Charlie Kirk's white \"freedom shirt\" off at the hospital.",
+      "anchored_artifacts": [
+        "A-2085.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1207",
+        "N-2074"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:20",
+      "investigative_direction": "Obtain Sean Ryan show audio/video; cross-reference against hospital records, gurney handling logs, and ER staff testimony to verify or falsify Harpole's account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2936",
+      "ref": "C-2936",
+      "label": "Sarah Tool's First Interview Asserted Shot to Heart",
+      "claim": "In her first Fox 13 interview, Sarah Tool stated that Charlie Kirk was shot directly in the heart from her right side, with a single shot.",
+      "anchored_artifacts": [
+        "A-2086.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1208",
+        "N-2075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:25",
+      "investigative_direction": "Obtain original Fox 13 footage; verify timestamp and quoted language against Sarah Tool's subsequent statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2937",
+      "ref": "C-2937",
+      "label": "Sarah Tool's Second Interview Asserted Shot to Neck",
+      "claim": "Approximately 51 minutes after her first interview, Sarah Tool stated in local media that Charlie Kirk was shot in the neck.",
+      "anchored_artifacts": [
+        "A-2086.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1208",
+        "N-2075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:48",
+      "investigative_direction": "Obtain original local-media footage and timestamp; document any prompts or interviewer framing that may have influenced the revised account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2938",
+      "ref": "C-2938",
+      "label": "Sarah Tool's ABC Interview Asserted Shooter at ~200 Yards",
+      "claim": "In her ABC News interview, Sarah Tool stated the shooter was approximately 200 yards away and that the shot struck Charlie Kirk in the left side of the neck.",
+      "anchored_artifacts": [
+        "A-2086.3"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1208",
+        "N-2075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:43",
+      "investigative_direction": "Verify the 200-yard figure against the documented distance from the Loews Center to the courtyard; check ABC News raw footage for prior coaching or scripting cues."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2939",
+      "ref": "C-2939",
+      "label": "Judge Graff Denied Motion to Compel Lance Twiggs In-Person Testimony",
+      "claim": "Judge Graff has denied the defense motion to compel Lance Twiggs to appear in person at the preliminary hearing scheduled for the week of July 6.",
+      "anchored_artifacts": [
+        "A-2092.1"
+      ],
+      "related_nodes": [
+        "N-4",
+        "N-6",
+        "N-2077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:38",
+      "investigative_direction": "Obtain the underlying court order from Utah state court records to verify the ruling, its date, and its specific findings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2940",
+      "ref": "C-2940",
+      "label": "Lance Twiggs Testimony Admitted as Recorded Statement",
+      "claim": "Under the ruling, Lance Twiggs's testimony against Tyler Robinson will be presented at the preliminary hearing as a recorded statement rather than live testimony.",
+      "anchored_artifacts": [
+        "A-2092.1"
+      ],
+      "related_nodes": [
+        "N-4",
+        "N-6",
+        "N-2077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:28",
+      "investigative_direction": "Obtain the preliminary-hearing scheduling order and any associated evidentiary rulings to confirm the recorded-statement procedure and the recorded-statement transcript."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2941",
+      "ref": "C-2941",
+      "label": "Viewer Email Identifies White Markings on SUV Shards Consistent with Rode Mic",
+      "claim": "A viewer email asserts that white markings visible on the SUV floorboard shards match the design and labeling on a Rode Wireless Pro microphone.",
+      "anchored_artifacts": [
+        "A-2087.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2076"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:23",
+      "investigative_direction": "Preserve viewer email as a tip lead; pursue forensic comparison of shard imagery with manufacturer specifications and any recovered physical shard fragments."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2942",
+      "ref": "C-2942",
+      "label": "Enhanced SUV Shard Images Show White Markings Matching Rode Mic Design",
+      "claim": "Enhanced still images displayed on the show show white markings on the SUV floorboard shards that visually align with Rode Wireless Pro body design and labeling.",
+      "anchored_artifacts": [
+        "A-2088.1",
+        "A-2089.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2076"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:51",
+      "investigative_direction": "Source original high-resolution images from John Bray or other collectors; submit for independent forensic image analysis."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2943",
+      "ref": "C-2943",
+      "label": "Rode Wireless Pro Destruction Video Produces Comparable Shard Pattern",
+      "claim": "A YouTube video showing a third party destroying a Rode Wireless Pro produces a shard pattern that visually resembles the shards seen on the SUV floorboard.",
+      "anchored_artifacts": [
+        "A-2089.2",
+        "A-2088.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2076"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:51",
+      "investigative_direction": "Preserve the YouTube source video as comparison reference; identify original video uploader and timestamp; pursue additional independent destruction tests with documented methodology."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2944",
+      "ref": "C-2944",
+      "label": "Erika Kirk's Signature Changed Dramatically Between Miss Arizona Era and Current",
+      "claim": "Signatures displayed on the show show Erika's current signature as visually distinct from her Miss Arizona era signature.",
+      "anchored_artifacts": [
+        "A-2091.1",
+        "A-2091.2"
+      ],
+      "related_nodes": [
+        "N-1020",
+        "N-2078"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:46",
+      "investigative_direction": "Obtain original Miss Arizona-era signed documents from 2004-2007 competition records and notarized documents from current TPUSA / personal filings for forensic handwriting comparison."
+    }
+  ],
+  "memes": []
+}

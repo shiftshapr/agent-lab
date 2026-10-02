@@ -1,0 +1,913 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 66,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "d6f25b223ac060e3fb4bd1a3b2ff9ed6020bdf9ce5285c402437d5a9666ec240",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1704",
+      "family_ref": "A-1704",
+      "bundle_name": "Daily Mail Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1704.1",
+          "ref": "A-1704.1",
+          "description": "Daily Mail article: \"The definitive truth about Erika Kirk's tears, the leather pants, and her new fortune as Candace Owens drops 'giggleing' phone call in wake of Charlie's death\"",
+          "related_claims": [
+            "C-2239",
+            "C-2240"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-817",
+            "N-818"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:51–00:05:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1705",
+      "family_ref": "A-1705",
+      "bundle_name": "Erica Kirk Memorial Speech Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1705.1",
+          "ref": "A-1705.1",
+          "description": "Audio excerpt of Erica Kirk's memorial speech directing audience to TPUSA.com, TPUSA Faith, and America Fest",
+          "related_claims": [
+            "C-2241",
+            "C-2242"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:38–00:11:54",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1706",
+      "family_ref": "A-1706",
+      "bundle_name": "Catholic Donor Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1706.1",
+          "ref": "A-1706.1",
+          "description": "Email from Catholic attendee describing Father Blank interaction at memorial and Monday mass; includes quoted text messages from Father Blank (6:30am mass invite, follow-up \"God's fingerprints\" reply)",
+          "related_claims": [
+            "C-2243",
+            "C-2244",
+            "C-2248"
+          ],
+          "related_nodes": [
+            "N-821",
+            "N-820",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:09–00:20:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1707",
+      "family_ref": "A-1707",
+      "bundle_name": "Father Blank Mass-Invite Text Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1707.1",
+          "ref": "A-1707.1",
+          "description": "Text from Father Blank to donor at 6:30am: \"Hope to see you at mass. Erika may be there too\"",
+          "related_claims": [
+            "C-2244"
+          ],
+          "related_nodes": [
+            "N-821",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1708",
+      "family_ref": "A-1708",
+      "bundle_name": "Charlie Kirk September 9 Text Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1708.1",
+          "ref": "A-1708.1",
+          "description": "Charlie Kirk group-chat text (with Erica and Father Blank), September 9: 1 Corinthians 16:9 — \"for a wide door for effective work has opened to me and there are many adversaries\"",
+          "related_claims": [
+            "C-2246"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-821"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:23:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1709",
+      "family_ref": "A-1709",
+      "bundle_name": "TPUSA Donor-Introduction Text Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1709.1",
+          "ref": "A-1709.1",
+          "description": "Text from TPUSA \"Blank\" (Charlie travel companion / donor handler) introducing donor: mentions Erica's death threats, $6M memorial cost, Trump involvement securing Cardinal Stadium, displaced \"lucrative RV show\" revenue",
+          "related_claims": [
+            "C-2247"
+          ],
+          "related_nodes": [
+            "N-822",
+            "N-2",
+            "N-1537",
+            "N-1540"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1710",
+      "family_ref": "A-1710",
+      "bundle_name": "Frank Turek Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1710.1",
+          "ref": "A-1710.1",
+          "description": "Frank Turek sermon/podcast clip: dismisses Candace's dream-based claims, asserts \"Satan is a murderer, a slanderer, an accuser, a liar, and somebody that brings confusion,\" applies this pattern to criticism of Erica Kirk",
+          "related_claims": [
+            "C-2251"
+          ],
+          "related_nodes": [
+            "N-819",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:28–00:40:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1711",
+      "family_ref": "A-1711",
+      "bundle_name": "Don Lemon Protest Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1711.1",
+          "ref": "A-1711.1",
+          "description": "Video clip of Don Lemon at a Minnesota church protest questioning a pastor whose church is described as working with ICE",
+          "related_claims": [
+            "C-2252"
+          ],
+          "related_nodes": [
+            "N-823",
+            "N-824"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:00–00:48:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1712",
+      "family_ref": "A-1712",
+      "bundle_name": "Wayback Machine Cardinal Stadium Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1712.1",
+          "ref": "A-1712.1",
+          "description": "Wayback Machine screenshots (verbally referenced, not shown on air) allegedly showing no RV show on Cardinal Stadium calendar for the weekend of the Kirk memorial",
+          "related_claims": [
+            "C-2249"
+          ],
+          "related_nodes": [
+            "N-1537"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1713",
+      "family_ref": "A-1713",
+      "bundle_name": "Top-Fundraiser Outreach Texts Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1713.1",
+          "ref": "A-1713.1",
+          "description": "Text exchange from TPUSA top fundraiser to donor: thanks her for dinner, requests call about the Mar-a-Lago gala, references wanting to \"set up time to visit and discuss further support\"",
+          "related_claims": [
+            "C-2250"
+          ],
+          "related_nodes": [
+            "N-1538"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:17–00:34:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-828",
+      "ref": "N-828",
+      "name": "Node 828",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-817",
+      "ref": "N-817",
+      "name": "Dr. Allen Wolft",
+      "type": "person",
+      "description": "Colorado-based death educator and grief counselor quoted in the Daily Mail article as attributing public criticism of Erica Kirk to \"mourning avoidant, emotion phobic culture.\"",
+      "related_artifacts": [
+        "A-1704.1"
+      ],
+      "related_claims": [
+        "C-2239"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-818",
+      "ref": "N-818",
+      "name": "Bidwell Smith",
+      "type": "person",
+      "description": "LA grief therapist quoted in the Daily Mail article stating widows are \"uniquely grief policed\" and that \"grief is not a performance and survival is not a moral failure.\"",
+      "related_artifacts": [
+        "A-1704.1"
+      ],
+      "related_claims": [
+        "C-2240"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-819",
+      "ref": "N-819",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Cross-apologetics speaker referenced as a TPUSA-affiliated figure; the on-air clip shows him characterizing criticism of Erica Kirk as satanic pattern behavior.",
+      "related_artifacts": [
+        "A-1710.1"
+      ],
+      "related_claims": [
+        "C-2251"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-820",
+      "ref": "N-820",
+      "name": "Stacy Sheridan",
+      "type": "person",
+      "description": "TPUSA figure identified by the host as the person who tapped the donor's shoulder in church and invited her to sit with Erica. Host states Sheridan's role is donor intelligence (\"smelling money\").",
+      "related_artifacts": [
+        "A-1706.1"
+      ],
+      "related_claims": [
+        "C-2243"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-821",
+      "ref": "N-821",
+      "name": "Father Blank",
+      "type": "person",
+      "description": "Priest referenced in the donor's email and texts; flew with Erica to Utah, was present when she received notification of Charlie's death, said the homily at the private funeral on the Friday before the memorial, and texted the donor about mass on the Monday after.",
+      "related_artifacts": [
+        "A-1706.1",
+        "A-1707.1",
+        "A-1708.1"
+      ],
+      "related_claims": [
+        "C-2243",
+        "C-2244"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-822",
+      "ref": "N-822",
+      "name": "TPUSA \"Blank\"",
+      "type": "person",
+      "description": "TPUSA staffer described in donor-introduction text as having traveled with Charlie and handled major donors; introduced the donor into the post-memorial fundraising pipeline.",
+      "related_artifacts": [
+        "A-1709.1"
+      ],
+      "related_claims": [
+        "C-2247"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1538"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-823",
+      "ref": "N-823",
+      "name": "Don Lemon",
+      "type": "person",
+      "description": "Journalist shown in on-air clip at a Minnesota church protest; referenced in connection with his federal arrest by DOJ under Pam Bondi.",
+      "related_artifacts": [
+        "A-1711.1"
+      ],
+      "related_claims": [
+        "C-2252"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-824"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-824",
+      "ref": "N-824",
+      "name": "Pam Bondi",
+      "type": "person",
+      "description": "US Attorney General named in connection with Don Lemon's arrest; host characterizes the prosecution as headline-grabbing theater.",
+      "related_artifacts": [
+        "A-1711.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-823"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-825",
+      "ref": "N-825",
+      "name": "Kobe Bryant",
+      "type": "person",
+      "description": "Referenced solely as a behavioral-comparison anchor for Erica Kirk (widow grief conduct at memorial); no artifact introduced.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-826",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-826",
+      "ref": "N-826",
+      "name": "Vanessa Bryant",
+      "type": "person",
+      "description": "Referenced as the comparison figure for widow-grief conduct at Kobe's memorial (eulogy delivered one month later, no TPUSA-equivalent organizational pitch in speech).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-825",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-827",
+      "ref": "N-827",
+      "name": "Andrew Kovat",
+      "type": "person",
+      "description": "TPUSA figure referenced by host in the comments section as the person alleged to have organized the Paramount Tactical orbit and to have texted Erica during the Alex Clark interview. Name spelling varies in transcript (\"Kovat\"/\"Kouvet\"/\"Covette\"/\"Coven\").",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2",
+        "N-1538"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1537",
+      "ref": "N-1537",
+      "name": "Cardinal Stadium RV Show Booking Question",
+      "type": "investigation_target",
+      "description": "Persistent verification target: was a lucrative RV show actually scheduled at Cardinal Stadium on the weekend of the Kirk memorial such that displaced revenue drove a $6M memorial cost?",
+      "related_artifacts": [
+        "A-1709.1",
+        "A-1712.1"
+      ],
+      "related_claims": [
+        "C-2247",
+        "C-2249"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1540"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1538",
+      "ref": "N-1538",
+      "name": "TPUSA Donor Targeting Pattern Question",
+      "type": "investigation_target",
+      "description": "Cross-episode investigation target: did TPUSA personnel (Stacy Sheridan, TPUSA Blank, top fundraiser) systematically coordinate donor access through memorial events, mass attendance, and faith-channel rapport-building?",
+      "related_artifacts": [
+        "A-1706.1",
+        "A-1709.1",
+        "A-1713.1"
+      ],
+      "related_claims": [
+        "C-2243",
+        "C-2250"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-820",
+        "N-822",
+        "N-827"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1539",
+      "ref": "N-1539",
+      "name": "Father Blank September 10 Mass Cancellation Question",
+      "type": "investigation_target",
+      "description": "Host verbal claim that Father Blank cancelled his regular mass on September 10 (the Monday morning the donor attended). No artifact presented in this episode.",
+      "related_artifacts": [
+        "A-1706.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-821"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1540",
+      "ref": "N-1540",
+      "name": "$6 Million Memorial Cost Claim Verification Question",
+      "type": "investigation_target",
+      "description": "Cross-reference target: figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-1537).",
+      "related_artifacts": [
+        "A-1709.1"
+      ],
+      "related_claims": [
+        "C-2247"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1537"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2239",
+      "ref": "C-2239",
+      "label": "Daily Mail article cites \"experts\" framing Kirk criticism as grief policing and sexism",
+      "claim": "The Daily Mail article presents grief experts who attribute criticism of Erica Kirk to \"grief policing,\" a \"mourning avoidant, emotion phobic culture,\" and sexism.",
+      "anchored_artifacts": [
+        "A-1704.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-817",
+        "N-818",
+        "N-828"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:51",
+      "investigative_direction": "Retrieve full Daily Mail article text and verify quotes, attributions, and publication context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2240",
+      "ref": "C-2240",
+      "label": "Daily Mail article quotes Dr. Allen Wolft and Bidwell Smith defending Kirk's hyperfunctioning",
+      "claim": "Dr. Allen Wolft characterizes criticism of Kirk as reflecting \"mourning avoidant, emotion phobic culture\"; Bidwell Smith states \"widows are uniquely grief policed\" and that \"grief is not a performance and survival is not a moral failure.\"",
+      "anchored_artifacts": [
+        "A-1704.1"
+      ],
+      "related_nodes": [
+        "N-817",
+        "N-818",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:11",
+      "investigative_direction": "Confirm expert credentials, prior publication record, and any financial or organizational ties to TPUSA or Kirk-aligned entities."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2241",
+      "ref": "C-2241",
+      "label": "Erica Kirk memorial speech directs audience to TPUSA-affiliated sign-ups",
+      "claim": "Within ~36–48 hours of Charlie Kirk's assassination, Erica Kirk's memorial speech directs attendees to TPUSA.com, TPUSA Faith, and America Fest sign-up.",
+      "anchored_artifacts": [
+        "A-1705.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:38",
+      "investigative_direction": "Obtain full memorial transcript and compare against TPUSA-comparable speeches given by other political widows to assess normality of organizational messaging density."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2242",
+      "ref": "C-2242",
+      "label": "Host contrasts Vanessa Bryant's eulogy with Erica Kirk's memorial speech",
+      "claim": "The host asserts Vanessa Bryant's Kobe Bryant memorial speech (delivered ~one month after death) focused on personal anecdotes about Kobe and grief, while Erica Kirk's memorial speech within ~48 hours centered on Turning Point USA organizational calls to action.",
+      "anchored_artifacts": [
+        "A-1705.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-826",
+        "N-825"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:32",
+      "investigative_direction": "Obtain and compare the full transcripts of both memorial speeches against the host's characterization; note Vanessa Bryant speech is verbally referenced but not played or quoted in this episode."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2243",
+      "ref": "C-2243",
+      "label": "Catholic donor reports interaction with Father Blank and Stacy Sheridan",
+      "claim": "A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erica when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. Stacy Sheridan was the person who tapped the donor's shoulder at the post-mass church and invited her to sit with Erica.",
+      "anchored_artifacts": [
+        "A-1706.1"
+      ],
+      "related_nodes": [
+        "N-821",
+        "N-820",
+        "N-2",
+        "N-1538"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:09",
+      "investigative_direction": "Verify the email's metadata, the donor's identity, the priest's actual name and parish, and confirm the September mass timeline independently."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2244",
+      "ref": "C-2244",
+      "label": "Father Blank texted the donor about attending Monday morning mass with Erica possibly present",
+      "claim": "Father Blank texted the donor at 6:30am saying \"Hope to see you at mass\" and indicating \"Erika may be there too.\"",
+      "anchored_artifacts": [
+        "A-1707.1",
+        "A-1706.1"
+      ],
+      "related_nodes": [
+        "N-821",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:40",
+      "investigative_direction": "Obtain phone records or screenshots of the actual text thread; verify whether \"may be there\" phrasing reflects typical priest communication or pre-coordinated signal."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2245",
+      "ref": "C-2245",
+      "label": "Donor gave Erica Kirk a relic of St. Paul II",
+      "claim": "The Catholic donor arranged to fly a relic of St. Paul II from Chicago and personally delivered it to Erica Kirk at mass.",
+      "anchored_artifacts": [
+        "A-1706.1"
+      ],
+      "related_nodes": [
+        "N-821",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:30",
+      "investigative_direction": "Cross-check donor's account with Erica Kirk's public acknowledgment of receiving relics."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2246",
+      "ref": "C-2246",
+      "label": "Charlie Kirk sent group-chat text quoting 1 Corinthians 16:9 on September 9",
+      "claim": "Charlie Kirk sent a group-chat text on September 9 to Erica and Father Blank quoting 1 Corinthians 16:9: \"for a wide door for effective work has opened to me and there are many adversaries.\"",
+      "anchored_artifacts": [
+        "A-1708.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-821"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:14",
+      "investigative_direction": "Obtain forensic verification of text message origin, timestamp, and sender device; identify the third group-chat participant's account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2247",
+      "ref": "C-2247",
+      "label": "TPUSA staffer text cites $6M memorial cost tied to displaced RV show at Cardinal Stadium",
+      "claim": "A text from TPUSA \"Blank\" introducing the donor states the memorial will cost approximately $6 million, that Trump was personally involved in securing Cardinal Stadium, and that the high cost was driven by displaced revenue from a \"large and lucrative RV show\" originally scheduled that weekend.",
+      "anchored_artifacts": [
+        "A-1709.1"
+      ],
+      "related_nodes": [
+        "N-822",
+        "N-2",
+        "N-1537",
+        "N-1540"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:55",
+      "investigative_direction": "Verify Cardinal Stadium event calendar for that weekend; cross-check White House or Trump campaign communications about venue booking; trace the TPUSA \"Blank\" staffer identity."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2248",
+      "ref": "C-2248",
+      "label": "Father Blank responded to donor's thank-you note attributing connection to God",
+      "claim": "Father Blank responded to the donor's thank-you message with: \"God's fingerprints are all over what is happening. There is no doubt that your presence to Erika was a God moment for both of you.\"",
+      "anchored_artifacts": [
+        "A-1706.1"
+      ],
+      "related_nodes": [
+        "N-821",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:07",
+      "investigative_direction": "Verify text message metadata and check whether the priest used similar phrasing with other donors introduced through memorial attendance."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2249",
+      "ref": "C-2249",
+      "label": "Host claims Wayback Machine review found no RV show at Cardinal Stadium",
+      "claim": "The host states she checked the Wayback Machine and saved screenshots showing no RV show was on the Cardinal Stadium calendar for the memorial weekend.",
+      "anchored_artifacts": [
+        "A-1712.1"
+      ],
+      "related_nodes": [
+        "N-1537"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:12",
+      "investigative_direction": "Host must release or publish the Wayback Machine screenshots to enable independent verification; alternative venue booking records should be subpoenaed."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2250",
+      "ref": "C-2250",
+      "label": "TPUSA top fundraiser pitched donor on Mar-a-Lago gala with ~$42M target",
+      "claim": "A TPUSA top fundraiser texted the donor offering a Chicago visit and pitching involvement in a Mar-a-Lago gala reported to be raising approximately $42 million.",
+      "anchored_artifacts": [
+        "A-1713.1",
+        "A-1706.1"
+      ],
+      "related_nodes": [
+        "N-1538"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:17",
+      "investigative_direction": "Identify the fundraiser; obtain the full text thread; cross-check Mar-a-Lago TPUSA gala fundraising figures against public 990 filings or TPUSA disclosures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2251",
+      "ref": "C-2251",
+      "label": "Frank Turek on-air clip attributes criticism of Kirk to satanic pattern behavior",
+      "claim": "Frank Turek states in an on-air clip that criticism of Erica Kirk (described as slander, accusation, lies, confusion, without evidence) is what \"Satan does,\" and dismisses Candace Owens' dream-based claims as lacking supernatural confirmation.",
+      "anchored_artifacts": [
+        "A-1710.1"
+      ],
+      "related_nodes": [
+        "N-819",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:28",
+      "investigative_direction": "Identify the original Frank Turek episode/podcast the clip is drawn from and verify edit context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2252",
+      "ref": "C-2252",
+      "label": "Don Lemon video shows him questioning ICE-affiliated pastor at Minnesota church protest",
+      "claim": "Don Lemon is shown on camera at a Minnesota church protest questioning a pastor whose church works with ICE.",
+      "anchored_artifacts": [
+        "A-1711.1"
+      ],
+      "related_nodes": [
+        "N-823",
+        "N-824"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:00",
+      "investigative_direction": "Confirm the underlying church affiliation and ICE relationship; verify the federal charges basis for Don Lemon's subsequent arrest."
+    }
+  ],
+  "memes": []
+}

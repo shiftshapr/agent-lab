@@ -1,0 +1,1621 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 128,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "5587ba28d19ec6d370a3cc93963758ab5a40894ae434e8384f2029626bd3011c",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2153",
+      "family_ref": "A-2153",
+      "bundle_name": "Newsmax Robert O'Neill / Gen. Blaine Holt Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2153.1",
+          "ref": "A-2153.1",
+          "description": "Robert O'Neill segment on Newsmax (ballistics critique)",
+          "related_claims": [
+            "C-3058",
+            "C-3059"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208",
+            "N-2133"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2153.2",
+          "ref": "A-2153.2",
+          "description": "Brigadier General Blaine Holt segment on Newsmax (spine-impact rejection)",
+          "related_claims": [
+            "C-3059"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2133"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2154",
+      "family_ref": "A-2154",
+      "bundle_name": "September 12, 2025 FBI Press Conference Bundle (Governor Cox / Kash Patel / Bo Mason)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2154.1",
+          "ref": "A-2154.1",
+          "description": "Governor Spencer Cox statement that the assassin changed clothes on the rooftop",
+          "related_claims": [
+            "C-3060",
+            "C-3061"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-1210",
+            "N-1211",
+            "N-2134"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2155",
+      "family_ref": "A-2155",
+      "bundle_name": "Dan Bongino / Megyn Kelly Interview Bundle (September 15, 2025)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2155.1",
+          "ref": "A-2155.1",
+          "description": "Dan Bongino on Megyn Kelly — \"the video is very grainy\" segment",
+          "related_claims": [
+            "C-3062"
+          ],
+          "related_nodes": [
+            "N-1212",
+            "N-1213",
+            "N-2135"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2156",
+      "family_ref": "A-2156",
+      "bundle_name": "Netflix \"Worst Roommate Ever\" Season 2 Episode 1 Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2156.1",
+          "ref": "A-2156.1",
+          "description": "Jennifer Faumuina clip referencing FBI Joint Terrorism Task Force assignment",
+          "related_claims": [
+            "C-3063"
+          ],
+          "related_nodes": [
+            "N-1214",
+            "N-2137"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:37",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2157",
+      "family_ref": "A-2157",
+      "bundle_name": "Sgt. Jennifer Faumuina Personal Records Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2157.1",
+          "ref": "A-2157.1",
+          "description": "2003 basketball team photo, private school in Hawaii",
+          "related_claims": [
+            "C-3064"
+          ],
+          "related_nodes": [
+            "N-1214"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2157.2",
+          "ref": "A-2157.2",
+          "description": "Weber State University graduation record (criminal justice, 2008)",
+          "related_claims": [
+            "C-3065"
+          ],
+          "related_nodes": [
+            "N-1214"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2157.3",
+          "ref": "A-2157.3",
+          "description": "Utah Department of Public Safety post-training photo, May 20, 2013 (with Bo Mason)",
+          "related_claims": [
+            "C-3066",
+            "C-3069"
+          ],
+          "related_nodes": [
+            "N-1214",
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2157.4",
+          "ref": "A-2157.4",
+          "description": "2016 RNC convention article — Jennifer Faumuina as volunteer trooper (Ohio)",
+          "related_claims": [
+            "C-3067"
+          ],
+          "related_nodes": [
+            "N-1214"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2157.5",
+          "ref": "A-2157.5",
+          "description": "2023 sergeant swearing-in photo (with Bo Mason)",
+          "related_claims": [
+            "C-3068",
+            "C-3070"
+          ],
+          "related_nodes": [
+            "N-1214",
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2158",
+      "family_ref": "A-2158",
+      "bundle_name": "Utah Pre-Event Personnel Appointments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2158.1",
+          "ref": "A-2158.1",
+          "description": "Bo Mason appointed Commissioner of Utah DPS — June 19, 2025 (by Gov. Cox)",
+          "related_claims": [
+            "C-3071"
+          ],
+          "related_nodes": [
+            "N-1211",
+            "N-1209",
+            "N-2132"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2158.2",
+          "ref": "A-2158.2",
+          "description": "Andrew Zenger appointed CEO of Timpanogos Hospital — August 18, 2025",
+          "related_claims": [
+            "C-3072"
+          ],
+          "related_nodes": [
+            "N-1215",
+            "N-2132"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2158.3",
+          "ref": "A-2158.3",
+          "description": "Judge Tony Graff appointed — May 2025",
+          "related_claims": [
+            "C-3073"
+          ],
+          "related_nodes": [
+            "N-1216",
+            "N-2132"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2158.4",
+          "ref": "A-2158.4",
+          "description": "Utah medical examiner appointment — July 2024",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2132"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2158.5",
+          "ref": "A-2158.5",
+          "description": "Robert Bowles assumes leadership of FBI Salt Lake City Field Office — September 2, 2025",
+          "related_claims": [
+            "C-3074"
+          ],
+          "related_nodes": [
+            "N-1217",
+            "N-2132"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2159",
+      "family_ref": "A-2159",
+      "bundle_name": "Robert Bowles Career Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2159.1",
+          "ref": "A-2159.1",
+          "description": "2004 Provo Police Department article featuring Robert Bowles",
+          "related_claims": [
+            "C-3075"
+          ],
+          "related_nodes": [
+            "N-1217"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2160",
+      "family_ref": "A-2160",
+      "bundle_name": "Faumuina Family Hawaii Homicide Article Bundle (1995)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2160.1",
+          "ref": "A-2160.1",
+          "description": "1995 Honolulu-area news articles on the homicide of Misiona Faumuina, statements by Sapena Faumuina",
+          "related_claims": [
+            "C-3076",
+            "C-3077"
+          ],
+          "related_nodes": [
+            "N-1214",
+            "N-1218",
+            "N-1219"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2160.2",
+          "ref": "A-2160.2",
+          "description": "Adult Friends for Youth / Sid Rosen reference within same article set",
+          "related_claims": [
+            "C-3078"
+          ],
+          "related_nodes": [
+            "N-1220"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2161",
+      "family_ref": "A-2161",
+      "bundle_name": "Frank Turek on Shawn Ryan Show Podcast Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2161.1",
+          "ref": "A-2161.1",
+          "description": "Frank Turek segment addressing the Brian Harpole CPR discrepancy",
+          "related_claims": [
+            "C-3079"
+          ],
+          "related_nodes": [
+            "N-1221",
+            "N-1222",
+            "N-2136"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2162",
+      "family_ref": "A-2162",
+      "bundle_name": "Blake Neff Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2162.1",
+          "ref": "A-2162.1",
+          "description": "First Blake Neff statement — overnight stay attributed to Orem, UT",
+          "related_claims": [
+            "C-3080"
+          ],
+          "related_nodes": [
+            "N-1223",
+            "N-2131"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2162.2",
+          "ref": "A-2162.2",
+          "description": "Second Blake Neff statement — revised to Salt Lake City, no hotel name recalled",
+          "related_claims": [
+            "C-3080",
+            "C-3081"
+          ],
+          "related_nodes": [
+            "N-1223",
+            "N-2131"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2163",
+      "family_ref": "A-2163",
+      "bundle_name": "Lt. Col. Kolvet X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2163.1",
+          "ref": "A-2163.1",
+          "description": "Lt. Col. Kolvet public X post defending Andrew Kolvet, single 3-day visit to Fort Huachuca for MP unit training",
+          "related_claims": [
+            "C-3082"
+          ],
+          "related_nodes": [
+            "N-1224",
+            "N-1225",
+            "N-2138"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:03",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Former U.S. Navy SEAL Team Six sniper; in this episode presents on-camera critique of the federal ballistics narrative regarding Charlie Kirk's shooting.",
+      "related_artifacts": [
+        "A-2153.1"
+      ],
+      "related_claims": [
+        "C-3058"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2133"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Air Force Brigadier General who joined Robert O'Neill on Newsmax; rejected the \"spine impact\" explanation for the bullet wound.",
+      "related_artifacts": [
+        "A-2153.2"
+      ],
+      "related_claims": [
+        "C-3059"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2133"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Governor of Utah; made the public statement at the September 12, 2025 FBI briefing that the assassin changed clothes on the rooftop.",
+      "related_artifacts": [
+        "A-2154.1",
+        "A-2158.1"
+      ],
+      "related_claims": [
+        "C-3060"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2134"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "FBI Director; visibly present at the September 12, 2025 press conference and did not intervene during the governor's rooftop-clothing statement.",
+      "related_artifacts": [
+        "A-2154.1"
+      ],
+      "related_claims": [
+        "C-3061"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Commissioner of Utah Department of Public Safety (appointed June 19, 2025 by Gov. Cox); previously photographed with Jennifer Faumuina in 2013 post-training and in 2023 swearing-in.",
+      "related_artifacts": [
+        "A-2157.3",
+        "A-2157.5",
+        "A-2158.1"
+      ],
+      "related_claims": [
+        "C-3069",
+        "C-3070",
+        "C-3071"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1214",
+        "N-2132"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "FBI Deputy Director; appeared on Megyn Kelly on September 15, 2025 and described the rooftop footage as \"very grainy.\"",
+      "related_artifacts": [
+        "A-2155.1"
+      ],
+      "related_claims": [
+        "C-3062"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Host of the September 15, 2025 interview in which Dan Bongino described the rooftop footage as grainy.",
+      "related_artifacts": [
+        "A-2155.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Sergeant with the Utah State Bureau of Investigation; appeared on Netflix's *Worst Roommate Ever* S2E1 referencing FBI JTTF assignment; subject of an extensive biographical reconstruction in this episode.",
+      "related_artifacts": [
+        "A-2156.1",
+        "A-2157.1",
+        "A-2157.2",
+        "A-2157.3",
+        "A-2157.4",
+        "A-2157.5",
+        "A-2160.1"
+      ],
+      "related_claims": [
+        "C-3063",
+        "C-3064",
+        "C-3065",
+        "C-3066",
+        "C-3067",
+        "C-3068"
+      ],
+      "tags": [],
+      "evidence_count": 7,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1211",
+        "N-1218",
+        "N-1219",
+        "N-2137"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Appointed CEO of Timpanogos Hospital on August 18, 2025 — weeks before the assassination.",
+      "related_artifacts": [
+        "A-2158.2"
+      ],
+      "related_claims": [
+        "C-3072"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2132"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Judge; appointed May 2025.",
+      "related_artifacts": [
+        "A-2158.3"
+      ],
+      "related_claims": [
+        "C-3073"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2132"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Special Agent; assumed leadership of FBI Salt Lake City Field Office on September 2, 2025; began career at Provo Police Department in the early 2000s.",
+      "related_artifacts": [
+        "A-2158.5",
+        "A-2159.1"
+      ],
+      "related_claims": [
+        "C-3074",
+        "C-3075"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2132"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Father of Sgt. Jennifer Faumuina; quoted in 1995 Honolulu-area news articles about his brother's homicide.",
+      "related_artifacts": [
+        "A-2160.1"
+      ],
+      "related_claims": [
+        "C-3076"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1214",
+        "N-1219"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Uncle of Sgt. Jennifer Faumuina; died in 1995 in Hawaii following a gang-related beating; described in press as a devout Mormon attending the Maquilo Ward.",
+      "related_artifacts": [
+        "A-2160.1"
+      ],
+      "related_claims": [
+        "C-3076",
+        "C-3077"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1214",
+        "N-1218"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "Head of \"Adult Friends for Youth\" organization referenced in the 1995 article covering Misiona Faumuina's death.",
+      "related_artifacts": [
+        "A-2160.2"
+      ],
+      "related_claims": [
+        "C-3078"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1221",
+      "ref": "N-1221",
+      "name": "Autopsy Record – Utah Privacy Statute Application",
+      "type": "investigation_target",
+      "description": "Identified by host as present in the vehicle transporting Charlie Kirk to the hospital; appeared on the Shawn Ryan Show podcast and addressed the CPR discrepancy with Brian Harpole.",
+      "related_artifacts": [
+        "A-2161.1"
+      ],
+      "related_claims": [
+        "C-3079"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1222",
+        "N-1226",
+        "N-2136"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1222",
+      "ref": "N-1222",
+      "name": "Hospital Routing Anomaly",
+      "type": "investigation_target",
+      "description": "Identified by host as in the same vehicle with Frank Turek; asserted CPR was not performed, a claim Turek partially contradicted.",
+      "related_artifacts": [
+        "A-2161.1"
+      ],
+      "related_claims": [
+        "C-3079"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1221",
+        "N-2136"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1223",
+      "ref": "N-1223",
+      "name": "TPUSA Faith Packet / Israel References Claim",
+      "type": "investigation_target",
+      "description": "Turning Point USA staffer; gave conflicting on-record statements about the hotel location on the night of September 10, 2025 and could not recall the hotel name.",
+      "related_artifacts": [
+        "A-2162.1",
+        "A-2162.2"
+      ],
+      "related_claims": [
+        "C-3080",
+        "C-3081"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2131"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1224",
+      "ref": "N-1224",
+      "name": "ADL–FBI Partnership Structure",
+      "type": "investigation_target",
+      "description": "Turning Point USA figure referenced by host as directing communications; subject of an X defense by his brother regarding Fort Huachuca.",
+      "related_artifacts": [
+        "A-2163.1"
+      ],
+      "related_claims": [
+        "C-3082"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1225",
+        "N-2138"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1225",
+      "ref": "N-1225",
+      "name": "Connecticut FBI Field Office Deployment Anomaly",
+      "type": "investigation_target",
+      "description": "Brother of Andrew Kolvet; active-duty Lieutenant Colonel who publicly defended his brother on X regarding Fort Huachuca.",
+      "related_artifacts": [
+        "A-2163.1"
+      ],
+      "related_claims": [
+        "C-3082"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1224",
+        "N-2138"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1226",
+      "ref": "N-1226",
+      "name": "Tyler Robinson Defense Selection Anomaly",
+      "type": "investigation_target",
+      "description": "Host of the podcast on which Frank Turek appeared to address the CPR discrepancy.",
+      "related_artifacts": [
+        "A-2161.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1221"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1227",
+      "ref": "N-1227",
+      "name": "Witness and Public-Figure Demeanor Anomalies",
+      "type": "investigation_target",
+      "description": "Referenced by host as having previously described a \"Mormon mafia\" in private conversation prior to Charlie Kirk's assassination.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2131",
+      "ref": "N-2131",
+      "name": "Salt Lake City Hotel Identification Gap",
+      "type": "investigation_target",
+      "description": "Persistent inability to confirm which hotel the Turning Point USA team (including Erika Kirk) stayed at on the night of September 10, 2025; Blake Neff states he cannot recall.",
+      "related_artifacts": [
+        "A-2162.1",
+        "A-2162.2"
+      ],
+      "related_claims": [
+        "C-3080",
+        "C-3081"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1223"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2132",
+      "ref": "N-2132",
+      "name": "Utah Pre-Event Personnel Restructuring Pattern",
+      "type": "investigation_target",
+      "description": "Cluster of Utah appointments in the months prior to the September 10, 2025 assassination: Bo Mason (June 19, 2025), Tony Graff (May 2025), medical examiner (July 2024), Andrew Zenger (August 18, 2025), Robert Bowles (September 2, 2025).",
+      "related_artifacts": [
+        "A-2158.1",
+        "A-2158.2",
+        "A-2158.3",
+        "A-2158.5"
+      ],
+      "related_claims": [
+        "C-3071",
+        "C-3072",
+        "C-3073",
+        "C-3074"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1211",
+        "N-1215",
+        "N-1216",
+        "N-1217"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2133",
+      "ref": "N-2133",
+      "name": "Ballistics Narrative Contradiction (O'Neill/Holt)",
+      "type": "investigation_target",
+      "description": "Public on-camera rejection by a former SEAL Team Six sniper and an Air Force Brigadier General of the official .30-06 / spine-impact ballistics explanation.",
+      "related_artifacts": [
+        "A-2153.1",
+        "A-2153.2"
+      ],
+      "related_claims": [
+        "C-3058",
+        "C-3059"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2134",
+      "ref": "N-2134",
+      "name": "Rooftop Clothing Change Narrative",
+      "type": "investigation_target",
+      "description": "Governor Cox's September 12, 2025 statement that the assassin changed clothes on the rooftop; not retracted or explained in subsequent official communications.",
+      "related_artifacts": [
+        "A-2154.1"
+      ],
+      "related_claims": [
+        "C-3060"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1209"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2135",
+      "ref": "N-2135",
+      "name": "Screwdriver Evidence Chain Question",
+      "type": "investigation_target",
+      "description": "Recovery of a screwdriver on the rooftop with alleged shooter DNA; subsequent claim that the suspect disassembled the rifle on the roof contradicted by later discovery of the assembled weapon in the woods.",
+      "related_artifacts": [
+        "A-2155.1"
+      ],
+      "related_claims": [
+        "C-3062"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1212"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2136",
+      "ref": "N-2136",
+      "name": "CPR Narrative Contradiction (Turek / Harpole)",
+      "type": "investigation_target",
+      "description": "Brian Harpole asserts CPR was not performed in the vehicle; Frank Turek concedes he attempted CPR for the last 20–30 seconds of the ride and characterizes the divergence as emphasis rather than contradiction.",
+      "related_artifacts": [
+        "A-2161.1"
+      ],
+      "related_claims": [
+        "C-3079"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1221",
+        "N-1222"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2137",
+      "ref": "N-2137",
+      "name": "Faumuina Media Presence Anomaly",
+      "type": "investigation_target",
+      "description": "A sworn state law enforcement officer with FBI JTTF assignment appearing as a presenter on Netflix's *Worst Roommate Ever* and later as a podcast guest.",
+      "related_artifacts": [
+        "A-2156.1"
+      ],
+      "related_claims": [
+        "C-3063"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2138",
+      "ref": "N-2138",
+      "name": "Fort Huachuca Connection Question",
+      "type": "investigation_target",
+      "description": "Lt. Col. Kolvet's public X post denying any connection between his brother Andrew Kolvet and Fort Huachuca beyond a single 3-day MP unit training visit.",
+      "related_artifacts": [
+        "A-2163.1"
+      ],
+      "related_claims": [
+        "C-3082"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1224",
+        "N-1225"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3058",
+      "ref": "C-3058",
+      "label": "O'Neill's on-camera assessment that Charlie's shirt did not move as expected from a bullet impact",
+      "claim": "Robert O'Neill publicly stated that the shirt movement on the published footage of Charlie Kirk did not match the behavior he has observed in shootings he has personally conducted.",
+      "anchored_artifacts": [
+        "A-2153.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2133"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:29",
+      "investigative_direction": "Obtain the full unedited Newsmax segment and any forensic analysis comparing the published footage to known ballistic wound kinematics."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3059",
+      "ref": "C-3059",
+      "label": "General Holt's rejection of the \"spine impact\" ballistics sub-narrative",
+      "claim": "Brigadier General Blaine Holt publicly rejected the explanation that the bullet struck Charlie Kirk's spine and affirmed Robert O'Neill's broader critique.",
+      "anchored_artifacts": [
+        "A-2153.2"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2133"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:31",
+      "investigative_direction": "Locate the official forensic pathology report and compare it against the spine-impact narrative as relayed by federal officials."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3060",
+      "ref": "C-3060",
+      "label": "Governor Cox stated that the assassin changed clothes on the rooftop",
+      "claim": "At the September 12, 2025 FBI briefing, Utah Governor Spencer Cox stated that the suspect was first seen in one outfit, changed clothing on the rooftop, then changed back before being apprehended.",
+      "anchored_artifacts": [
+        "A-2154.1"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-2134"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:44",
+      "investigative_direction": "Request the official briefing transcript or unedited video and any follow-up statements addressing or retracting the rooftop clothing claim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3061",
+      "ref": "C-3061",
+      "label": "Kash Patel and Bo Mason did not intervene during Governor Cox's clothing statement",
+      "claim": "Neither Kash Patel nor Beau Mason interrupted or corrected Governor Cox during his statement about rooftop clothing changes at the September 12, 2025 briefing.",
+      "anchored_artifacts": [
+        "A-2154.1"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-1211",
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:39",
+      "investigative_direction": "Inspect full uncut briefing video for any clarifying remarks made by either official before or after the exchange."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3062",
+      "ref": "C-3062",
+      "label": "Dan Bongino described the rooftop footage as \"very grainy\"",
+      "claim": "On September 15, 2025, FBI Deputy Director Dan Bongino told Megyn Kelly that the rooftop video was \"very grainy\" and cited lab enhancement as ongoing.",
+      "anchored_artifacts": [
+        "A-2155.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-2135"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:43",
+      "investigative_direction": "Compare the publicly released footage metadata against Bongino's \"grainy\" characterization and review any subsequent enhanced-release footage for consistency."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3063",
+      "ref": "C-3063",
+      "label": "Sgt. Jennifer Faumuina appeared on Netflix's *Worst Roommate Ever* referencing JTTF work",
+      "claim": "Jennifer Faumuina is presented on Season 2 Episode 1 of Netflix's *Worst Roommate Ever* stating she had been with the Utah State Bureau of Investigation for 8 years and was assigned full-time to the FBI's Joint Terrorism Task Force.",
+      "anchored_artifacts": [
+        "A-2156.1"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-2137"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:37",
+      "investigative_direction": "Confirm the Netflix episode metadata, Faumuina's on-screen identification, and the period of her JTTF assignment against official FBI or Utah SBI records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3064",
+      "ref": "C-3064",
+      "label": "Jennifer Faumuina played basketball at a Hawaii private school in 2003",
+      "claim": "A 2003 image shows Jennifer Faumuina playing basketball at a private school in Hawaii.",
+      "anchored_artifacts": [
+        "A-2157.1"
+      ],
+      "related_nodes": [
+        "N-1214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:38",
+      "investigative_direction": "Identify the specific school and roster, and cross-reference yearbook or athletics records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3065",
+      "ref": "C-3065",
+      "label": "Jennifer Faumuina graduated from Weber State University in 2008",
+      "claim": "Jennifer Faumuina studied criminal justice at Weber State University and graduated in 2008.",
+      "anchored_artifacts": [
+        "A-2157.2"
+      ],
+      "related_nodes": [
+        "N-1214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:38",
+      "investigative_direction": "Confirm against Weber State graduation records or alumni listings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3066",
+      "ref": "C-3066",
+      "label": "Jennifer Faumuina completed Utah DPS post-training on May 20, 2013",
+      "claim": "Jennifer Faumuina appears in a Utah Department of Public Safety post-training photo dated May 20, 2013, alongside Bo Mason.",
+      "anchored_artifacts": [
+        "A-2157.3"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:19",
+      "investigative_direction": "Verify through DPS academy records and class photographs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3067",
+      "ref": "C-3067",
+      "label": "Jennifer Faumuina volunteered as a Utah trooper for crowd control at the 2016 RNC in Ohio",
+      "claim": "A 2016 article lists Jennifer Faumuina among volunteer Utah troopers who provided crowd control at the Republican National Convention in Ohio.",
+      "anchored_artifacts": [
+        "A-2157.4"
+      ],
+      "related_nodes": [
+        "N-1214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:29",
+      "investigative_direction": "Confirm the original article, deployment list, and credentialing records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3068",
+      "ref": "C-3068",
+      "label": "Jennifer Faumuina appears in Utah DPS paid records beginning 2018",
+      "claim": "Public records show Jennifer Faumuina as a paid officer with the Utah Department of Public Safety from 2018 onward.",
+      "anchored_artifacts": [
+        "A-2157.5"
+      ],
+      "related_nodes": [
+        "N-1214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:29",
+      "investigative_direction": "Request Utah state salary records to verify employment dates and rank progression."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3069",
+      "ref": "C-3069",
+      "label": "Faumuina and Mason photographed together on May 20, 2013",
+      "claim": "Jennifer Faumuina and Bo Mason appear together in a May 20, 2013 Utah DPS post-training photo.",
+      "anchored_artifacts": [
+        "A-2157.3"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:19",
+      "investigative_direction": "Verify the photograph and underlying academy/class record."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3070",
+      "ref": "C-3070",
+      "label": "Faumuina and Mason photographed together at her 2023 sergeant swearing-in",
+      "claim": "Jennifer Faumuina and Bo Mason appear together in a 2023 photograph marking Faumuina's promotion to sergeant.",
+      "anchored_artifacts": [
+        "A-2157.5"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:19",
+      "investigative_direction": "Confirm the date and ceremony through Utah DPS press releases."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3071",
+      "ref": "C-3071",
+      "label": "Bo Mason was appointed Utah DPS Commissioner on June 19, 2025",
+      "claim": "Beau \"Bo\" Mason was appointed Commissioner of the Utah Department of Public Safety on June 19, 2025 by Governor Cox.",
+      "anchored_artifacts": [
+        "A-2158.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1209",
+        "N-2132"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:15",
+      "investigative_direction": "Verify appointment through the official Utah governor's office announcement or Senate confirmation record."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3072",
+      "ref": "C-3072",
+      "label": "Andrew Zenger was appointed Timpanogos Hospital CEO on August 18, 2025",
+      "claim": "Andrew Zenger was appointed CEO of Timpanogos Hospital on August 18, 2025, approximately three weeks before the assassination.",
+      "anchored_artifacts": [
+        "A-2158.2"
+      ],
+      "related_nodes": [
+        "N-1215",
+        "N-2132"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:14",
+      "investigative_direction": "Confirm via hospital press releases and board minutes."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3073",
+      "ref": "C-3073",
+      "label": "Judge Tony Graff was appointed in May 2025",
+      "claim": "Tony Graff received a judicial appointment in May 2025.",
+      "anchored_artifacts": [
+        "A-2158.3"
+      ],
+      "related_nodes": [
+        "N-1216",
+        "N-2132"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:14",
+      "investigative_direction": "Verify the appointment date, court, and appointing authority."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3074",
+      "ref": "C-3074",
+      "label": "Robert Bowles assumed leadership of FBI Salt Lake City on September 2, 2025",
+      "claim": "Special Agent Robert Bowles took command of the FBI Salt Lake City Field Office on September 2, 2025 — eight days before the assassination.",
+      "anchored_artifacts": [
+        "A-2158.5"
+      ],
+      "related_nodes": [
+        "N-1217",
+        "N-2132"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:14",
+      "investigative_direction": "Confirm via FBI press releases and internal personnel announcements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3075",
+      "ref": "C-3075",
+      "label": "Robert Bowles began his career at the Provo Police Department in the early 2000s",
+      "claim": "A 2004 article identifies Robert Bowles as having served with the Provo Police Department before joining the military and later the FBI.",
+      "anchored_artifacts": [
+        "A-2159.1"
+      ],
+      "related_nodes": [
+        "N-1217"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:12",
+      "investigative_direction": "Cross-reference Provo PD rosters and 2004 article content."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3076",
+      "ref": "C-3076",
+      "label": "Misiona Faumuina died in 1995 in Hawaii from injuries sustained in a gang-related beating",
+      "claim": "Sgt. Jennifer Faumuina's uncle, Misiona Faumuina, died in 1995 in Hawaii after being beaten as part of a reported gang initiation ritual; his brother Sapena Faumuina was publicly vocal in the press.",
+      "anchored_artifacts": [
+        "A-2160.1"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-1218",
+        "N-1219"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:14",
+      "investigative_direction": "Obtain original Honolulu-area news archives and Hawaii court records for the criminal case."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3077",
+      "ref": "C-3077",
+      "label": "Misiona Faumuina was characterized in 1995 press coverage as a devout Mormon",
+      "claim": "The 1995 press coverage of Misiona Faumuina's death described him as a devout Mormon attending the Maquilo Ward in Waipahu, with his brother Sapena noting he was preparing for a mission.",
+      "anchored_artifacts": [
+        "A-2160.1"
+      ],
+      "related_nodes": [
+        "N-1219"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:14",
+      "investigative_direction": "Retrieve original newspaper articles and any LDS Church ward records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3078",
+      "ref": "C-3078",
+      "label": "Sid Rosen headed the \"Adult Friends for Youth\" organization",
+      "claim": "A 1995 article names Sid Rosen as the head of \"Adult Friends for Youth,\" an organization referenced in coverage of Misiona Faumuina's death.",
+      "anchored_artifacts": [
+        "A-2160.2"
+      ],
+      "related_nodes": [
+        "N-1220"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:35",
+      "investigative_direction": "Verify the organization and Rosen's role through Hawaii nonprofit filings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3079",
+      "ref": "C-3079",
+      "label": "Frank Turek characterizes the CPR/Harpole divergence as emphasis rather than contradiction",
+      "claim": "Frank Turek stated on the Shawn Ryan Show that Brian Harpole's \"no CPR\" account and his own account of attempting CPR for 20–30 seconds at the end of the ride are not contradictory but rather emphasize different details.",
+      "anchored_artifacts": [
+        "A-2161.1"
+      ],
+      "related_nodes": [
+        "N-1221",
+        "N-1222",
+        "N-2136"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:07",
+      "investigative_direction": "Obtain the unedited podcast audio and any hospital records documenting arrival time, condition, and treatment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3080",
+      "ref": "C-3080",
+      "label": "Blake Neff revised his hotel-location statement from Orem to Salt Lake City",
+      "claim": "Blake Neff initially stated the Turning Point USA team stayed overnight in Orem, UT, then revised the statement to Salt Lake City.",
+      "anchored_artifacts": [
+        "A-2162.1",
+        "A-2162.2"
+      ],
+      "related_nodes": [
+        "N-1223",
+        "N-2131"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:56",
+      "investigative_direction": "Compare both statements against travel itineraries, expense reports, and credit card records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3081",
+      "ref": "C-3081",
+      "label": "Blake Neff could not name the Salt Lake City hotel where the Turning Point team stayed",
+      "claim": "Blake Neff stated on the record that he did not remember the name of the hotel in Salt Lake City where the Turning Point USA team stayed on the night of September 10, 2025.",
+      "anchored_artifacts": [
+        "A-2162.2"
+      ],
+      "related_nodes": [
+        "N-1223",
+        "N-2131"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:56",
+      "investigative_direction": "Cross-check with travel booking records, expense reports, and any hotel worker testimony."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3082",
+      "ref": "C-3082",
+      "label": "Lt. Col. Kolvet publicly stated his brother Andrew never worked at Fort Huachuca",
+      "claim": "Lt. Col. Kolvet posted on X that he is Andrew Kolvet's only brother, that he never worked at Fort Huachuca, and that he visited the installation once for a 3-day MP unit training event.",
+      "anchored_artifacts": [
+        "A-2163.1"
+      ],
+      "related_nodes": [
+        "N-1224",
+        "N-1225",
+        "N-2138"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:03",
+      "investigative_direction": "Verify the post's text and timestamps; check Andrew Kolvet's residence and any prior Fort Huachuca references."
+    }
+  ],
+  "memes": []
+}

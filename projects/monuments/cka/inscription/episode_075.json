@@ -1,0 +1,748 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 75,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "777549b764eebad915dd89f46670a757562689442666b57cccbad09daa1a9bc9",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2436",
+      "family_ref": "A-2436",
+      "bundle_name": "Tucker Carlson X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2436.1",
+          "ref": "A-2436.1",
+          "description": "X post reading \"Pray that the spell breaks and the world is saved\"",
+          "related_claims": [
+            "C-3568"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "source_timestamp": "2026-03-08 (weekend before episode, per host framing)",
+          "video_timestamp": "00:01:25",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2437",
+      "family_ref": "A-2437",
+      "bundle_name": "Wikipedia \"Seal of Solomon\" Entry Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2437.1",
+          "ref": "A-2437.1",
+          "description": "Wikipedia page on \"Seal of Solomon\" displayed and read aloud on camera",
+          "related_claims": [
+            "C-3569"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "Wikipedia content accessed 2026-03-09 (per host display)",
+          "video_timestamp": "00:12:25",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2438",
+      "family_ref": "A-2438",
+      "bundle_name": "Father Ripperger Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2438.1",
+          "ref": "A-2438.1",
+          "description": "Audio clip of Father Ripperger describing \"the revealing of the method\" in diabolic / Satanist / Freemason practice",
+          "related_claims": [
+            "C-3570"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "undated interview segment",
+          "video_timestamp": "00:15:10",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2439",
+      "family_ref": "A-2439",
+      "bundle_name": "\"Freemason Bible\" Document Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2439.1",
+          "ref": "A-2439.1",
+          "description": "Pentagon illustration with center label \"Place of sacrifice or worship,\" photographed by host from physical document mailed by a viewer (claimed provenance: estate of deceased 33rd-degree Freemason in Oklahoma)",
+          "related_claims": [
+            "C-3571"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "pre-2026 (claimed 33rd-degree owner's death and estate auction)",
+          "video_timestamp": "00:10:30",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2439.2",
+          "ref": "A-2439.2",
+          "description": "Text excerpt from the document: \"It has been correctly stated that symbolism constitutes the very essence of Freemasonry… A symbol or an emblem is an occult representation of something unknown or concealed by a sign or a thing that is known.\" Section titled \"the science of symbolism explained.\"",
+          "related_claims": [
+            "C-3572"
+          ],
+          "related_nodes": [
+            "N-1004"
+          ],
+          "tags": [],
+          "event_timestamp": "pre-2026",
+          "video_timestamp": "00:16:55",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2440",
+      "family_ref": "A-2440",
+      "bundle_name": "Tyler Bowyer Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2440.1",
+          "ref": "A-2440.1",
+          "description": "Audio clip of Tyler Bowyer, ~12 days after Charlie Kirk's assassination, recounting that Charlie privately said \"Erika could be so much bigger and better than me at almost everything\" and that \"people were like, Charlie could be president… He believed firmly that Erika was going to be president someday.\"",
+          "related_claims": [
+            "C-3573"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "2025-09-22 (12 days after 2025-09-10)",
+          "video_timestamp": "00:19:40",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2441",
+      "family_ref": "A-2441",
+      "bundle_name": "Frank Turek Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2441.1",
+          "ref": "A-2441.1",
+          "description": "Audio clip of Frank Turek, dated October 7, stating he used to say to Charlie that \"the ticket in 2028 is going to be Vance Kirk,\" and that \"between you and me and our listeners, I'm not giving up on the Vance Kirk ticket\" and that \"Erika would be an amazing president someday.\"",
+          "related_claims": [
+            "C-3574"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "2025-10-07",
+          "video_timestamp": "00:20:50",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2442",
+      "family_ref": "A-2442",
+      "bundle_name": "Mikey McQuaid Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2442.1",
+          "ref": "A-2442.1",
+          "description": "Audio clip of Mikey McQuaid stating Charlie \"left behind these blueprints for her\" (Erika) and \"for you\" (McQuaid); reiterating the possibility of a Vance-Kirk ticket.",
+          "related_claims": [
+            "C-3575"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "undated within episode",
+          "video_timestamp": "00:21:50",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2443",
+      "family_ref": "A-2443",
+      "bundle_name": "Trump on Miriam Adelson Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2443.1",
+          "ref": "A-2443.1",
+          "description": "Video clip of Donald Trump at a public event asking Miriam Adelson whether she loves the U.S. or Israel more; Adelson does not answer; Trump remarks \"That might mean Israel.\"",
+          "related_claims": [
+            "C-3576"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "2025–2026 (event date not specified in episode)",
+          "video_timestamp": "00:36:50",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2444",
+      "family_ref": "A-2444",
+      "bundle_name": "Tim Dillon Comedy Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2444.1",
+          "ref": "A-2444.1",
+          "description": "Audio clip of comedian Tim Dillon speculating that Erika Kirk may have been Charlie Kirk's \"Mossad handler\" and that \"she may have loved him… even though she was his Mossad handler and probably had him killed.\"",
+          "related_claims": [
+            "C-3583"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "undated within episode",
+          "video_timestamp": "00:26:00",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2445",
+      "family_ref": "A-2445",
+      "bundle_name": "Venezuela-Israel Oil Shipment Headline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2445.1",
+          "ref": "A-2445.1",
+          "description": "Headline displayed/read: \"Venezuela sends first oil shipment to Israel in years in signs of relations improving\"",
+          "related_claims": [
+            "C-3577"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "post-U.S. operation against Maduro",
+          "video_timestamp": "00:38:50",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2446",
+      "family_ref": "A-2446",
+      "bundle_name": "Washington Post Glyphosate / Defense Production Act Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2446.1",
+          "ref": "A-2446.1",
+          "description": "Washington Post passage read on camera regarding Trump's February 26 executive order invoking the Defense Production Act to boost glyphosate output, and the lesser-noted clause covering elemental phosphorus (white phosphorus) used in munitions, manufactured domestically only by Bayer.",
+          "related_claims": [
+            "C-3578"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "2026-02-26 (EO) / article date (not stated)",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2447",
+      "family_ref": "A-2447",
+      "bundle_name": "Israel White Phosphorus Headline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2447.1",
+          "ref": "A-2447.1",
+          "description": "Headline displayed/read: \"Israel unlawfully using white phosphorus\"",
+          "related_claims": [
+            "C-3579"
+          ],
+          "related_nodes": [
+            "N-1009"
+          ],
+          "tags": [],
+          "event_timestamp": "2025–2026 (specific date not given)",
+          "video_timestamp": "00:40:50",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2448",
+      "family_ref": "A-2448",
+      "bundle_name": "Marco Rubio Iran Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2448.1",
+          "ref": "A-2448.1",
+          "description": "Video clip of Marco Rubio stating the U.S. bombed Iran preemptively because \"we knew that there was going to be an Israeli action. We knew that that would precipitate an attack against American forces, and we knew that if we didn't preemptively go after them before they launched those attacks, we would suffer higher casualties.\"",
+          "related_claims": [
+            "C-3580"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "2025–2026 (specific date not given in episode)",
+          "video_timestamp": "00:41:40",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2449",
+      "family_ref": "A-2449",
+      "bundle_name": "Benny Gantz Iran Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2449.1",
+          "ref": "A-2449.1",
+          "description": "Video clip of Benny Gantz, Israel's defense minister, when asked whether boots on the ground will be needed for Iran, responding \"I would not exclude it\" and \"I exclude nothing. We've been waiting for 47 years and we came to a point with every necessary means should be taken in order to achieve our goals.\"",
+          "related_claims": [
+            "C-3581"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "2025–2026 (specific date not given in episode)",
+          "video_timestamp": "00:46:50",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2450",
+      "family_ref": "A-2450",
+      "bundle_name": "Caroline Levitt Press Briefing Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2450.1",
+          "ref": "A-2450.1",
+          "description": "Video clip of White House Press Secretary Caroline Levitt stating that \"President Trump wisely does not remove options off of the table\" with respect to troops on the ground, while describing the campaign as \"largely an air campaign.\"",
+          "related_claims": [
+            "C-3582"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "2025–2026 (specific date not given in episode)",
+          "video_timestamp": "00:48:30",
+          "discovery_timestamp": "2026-03-09",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2349",
+      "ref": "N-2349",
+      "name": "Father Ripperger",
+      "type": "investigation_target",
+      "description": "Catholic priest whose audio clip on \"the revealing of the method\" is presented by the host as documentary support for an occult-influence thesis applied to Charlie Kirk's assassination and subsequent TPUSA behavior.",
+      "related_artifacts": [
+        "A-2438.1"
+      ],
+      "related_claims": [
+        "C-3570"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-905",
+      "ref": "N-905",
+      "name": "Tim Dillon",
+      "type": "person",
+      "description": "Comedian whose on-camera segment speculating that Erika Kirk functioned as a \"Mossad handler\" for Charlie Kirk is presented by the host as confirming public intuition.",
+      "related_artifacts": [
+        "A-2444.1"
+      ],
+      "related_claims": [
+        "C-3583"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2346",
+      "ref": "N-2346",
+      "name": "Pentagon Seating Geometry Claim (Investigation Target)",
+      "type": "investigation_target",
+      "description": "Persistent host claim that Charlie Kirk was \"seated in the center of a pentagon when he was killed,\" which she derives by analogy from a pentagram illustration in the so-called \"Freemason Bible.\" In this episode, the claim is host inference, not directly anchored to any artifact depicting the actual seating geometry at the September 10 event. Verification target: obtain and review contemporaneous photographs/video of the September 10 venue showing the actual configuration of the security perimeter and seating.",
+      "related_artifacts": [
+        "A-2439.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2347",
+      "ref": "N-2347",
+      "name": "\"Freemason Bible\" Document Authentication (Investigation Target)",
+      "type": "investigation_target",
+      "description": "The host's characterization of the mailed document as a \"33rd degree Freemason Bible\" originating from the estate auction of a deceased Oklahoma Freemason rests entirely on an unsigned handwritten cover letter. Authentication, provenance, and whether the document reflects mainstream Freemason belief vs. fringe material remains unestablished in-episode. Verification target: confirm document via independent Masonic-history scholars and cross-reference with known Masonic publishing.",
+      "related_artifacts": [
+        "A-2439.1",
+        "A-2439.2"
+      ],
+      "related_claims": [
+        "C-3571",
+        "C-3572"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2348",
+      "ref": "N-2348",
+      "name": "Erika Kirk Presidential Viability Narrative (Investigation Target)",
+      "type": "investigation_target",
+      "description": "Aggregate target tracking whether TPUSA figures and adjacent commentators explicitly floated her viability as a candidate during 2025, prior to public statements she might herself make. This episode contributes three artifact-anchored data points (Bowyer, Turek, McQuaid) within the first ~3 weeks after September 10.",
+      "related_artifacts": [
+        "A-2440.1",
+        "A-2441.1",
+        "A-2442.1"
+      ],
+      "related_claims": [
+        "C-3573",
+        "C-3574",
+        "C-3575"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1004",
+      "ref": "N-1004",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "CEO and Chairman of Turning Point USA; widow of Charlie Kirk; primary subject of host critique in this episode. The episode presents her media appearances (Fox News Harris Faulkner, Bari Weiss town hall referenced), her Nehemiah defense of TPUSA staff, her request for burial privacy, and prior publication of the casket video as the central evidentiary focus.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1009",
+      "ref": "N-1009",
+      "name": "Charlie Kirk — referenced throughout timeline reconstruction.",
+      "type": "investigation_target",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3568",
+      "ref": "C-3568",
+      "label": "Tucker Carlson tweet contained phrase \"Pray that the spell breaks and the world is saved\"",
+      "claim": "The episode displays a Tucker Carlson X post reading, in full, \"Pray that the spell breaks and the world is saved.\"",
+      "anchored_artifacts": [
+        "A-2436.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:01:25",
+      "investigative_direction": "Confirm post text and timestamp directly on X; capture any replies or follow-ups from Carlson clarifying intent."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3569",
+      "ref": "C-3569",
+      "label": "Wikipedia Seal of Solomon entry describes the symbol as a hexagon or pentagram tied to Solomon's ring and to occult/magic tradition",
+      "claim": "The Wikipedia article on the Seal of Solomon, as read on camera, describes the symbol as depicted \"in the shape of either a hexagon or a pentagram\" and ties it to King Solomon's ring, \"medieval magic and Renaissance magic, occultism, alchemy.\"",
+      "anchored_artifacts": [
+        "A-2437.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:25",
+      "investigative_direction": "Pull the live Wikipedia article and capture revision history; confirm whether the language is stable."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3570",
+      "ref": "C-3570",
+      "label": "Father Ripperger described \"the revealing of the method\" as a feature of Satanist and Freemason practice",
+      "claim": "Father Ripperger, in an audio clip played by the host, stated that Satanists and Freemasons tend to \"reveal the method\" of their operations even while remaining hidden, and that this has a sadistic dimension in which \"they still want to show themselves in some way.\"",
+      "anchored_artifacts": [
+        "A-2438.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:10",
+      "investigative_direction": "Identify the full source interview (date, program, outlet) and review for context outside the excerpt."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3571",
+      "ref": "C-3571",
+      "label": "The document shown by the host contains a pentagram illustration labeled \"Place of sacrifice or worship\"",
+      "claim": "The physical document shown on camera contains, in its first pages, a pentagram with internal illustrations and the label \"Place of sacrifice or worship\" pointing to its center.",
+      "anchored_artifacts": [
+        "A-2439.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:10:30",
+      "investigative_direction": "Obtain the document or high-resolution photograph to verify the label and language; confirm publication origin."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3572",
+      "ref": "C-3572",
+      "label": "The document shown by the host contains a section stating \"symbolism constitutes the very essence of Freemasonry\" and \"the science of symbolism explained\"",
+      "claim": "The document contains text asserting that \"symbolism constitutes the very essence of Freemasonry\" and a separate section entitled \"the science of symbolism explained,\" which defines a symbol as \"an occult representation of something unknown or concealed by a sign or a thing that is known.\"",
+      "anchored_artifacts": [
+        "A-2439.2"
+      ],
+      "related_nodes": [
+        "N-2347"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:55",
+      "investigative_direction": "Verify the text matches a published Masonic source or whether it is idiosyncratic to this copy; consult Masonic historians."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3573",
+      "ref": "C-3573",
+      "label": "Tyler Bowyer, ~12 days after the assassination, said Charlie privately believed Erika would be president",
+      "claim": "Tyler Bowyer stated on camera that he had previously had conversations with Charlie in which Charlie said \"Erika could be so much bigger and better than me at almost everything\" and \"believed firmly that Erika was going to be president someday.\"",
+      "anchored_artifacts": [
+        "A-2440.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:19:40",
+      "investigative_direction": "Obtain full clip with date; cross-check whether Charlie ever made comparable public statements on the record about Erika's political future."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3574",
+      "ref": "C-3574",
+      "label": "Frank Turek stated on October 7 that he was not giving up on a \"Vance Kirk\" ticket and called Erika a potential \"amazing president\"",
+      "claim": "Frank Turek stated on camera on October 7 that he \"used to say to him the ticket in 2028 is going to be Vance Kirk\" and that \"between you and me and our listeners, I'm not giving up on the Vance Kirk ticket,\" and that \"Erika would be an amazing president someday.\"",
+      "anchored_artifacts": [
+        "A-2441.1"
+      ],
+      "related_nodes": [
+        "N-2348"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:50",
+      "investigative_direction": "Identify the full program (radio/podcast); determine whether the comments were on-air or pre-produced."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3575",
+      "ref": "C-3575",
+      "label": "Mikey McQuaid stated Charlie left \"blueprints\" for Erika (and himself)",
+      "claim": "Mikey McQuaid stated on camera that Charlie \"left behind these blueprints for her\" (Erika) and \"for you\" (McQuaid).",
+      "anchored_artifacts": [
+        "A-2442.1"
+      ],
+      "related_nodes": [
+        "N-2348"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:50",
+      "investigative_direction": "Identify source program and date; determine what McQuaid claims the \"blueprints\" to be."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3576",
+      "ref": "C-3576",
+      "label": "Trump publicly asked Miriam Adelson whether she loved the U.S. or Israel more and noted her refusal to answer",
+      "claim": "Donald Trump stated on camera, \"I actually asked her once, I said, 'So, Miriam, I know you love Israel. What do you love more? The United States or Israel?' She refused to answer. That means… That might mean Israel.\"",
+      "anchored_artifacts": [
+        "A-2443.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:50",
+      "investigative_direction": "Identify the original event and capture full context of Trump's remarks."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3577",
+      "ref": "C-3577",
+      "label": "Headline indicates Venezuela sent first oil shipment to Israel after U.S. action against Maduro",
+      "claim": "The episode presents the claim (via headline) that \"Venezuela sends first oil shipment to Israel in years in signs of relations improving,\" implying a linkage to the U.S. military operation against Maduro.",
+      "anchored_artifacts": [
+        "A-2445.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:38:50",
+      "investigative_direction": "Identify the specific publication, date, and shipment details; determine whether shipment preceded or followed U.S. action."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3578",
+      "ref": "C-3578",
+      "label": "Washington Post reports Trump signed a Defense Production Act invocation on February 26 covering glyphosate and white phosphorus",
+      "claim": "The Washington Post, as read on camera, reported that Trump's February 26 executive order invoking the Defense Production Act boosted glyphosate production and, in a lesser-noted clause, also covered elemental (white) phosphorus manufactured domestically only by Bayer and used in munitions.",
+      "anchored_artifacts": [
+        "A-2446.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:30",
+      "investigative_direction": "Pull the actual EO text and the WaPo article; confirm the white-phosphorus clause and Bayer's exclusive-domestic-manufacturer status."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3579",
+      "ref": "C-3579",
+      "label": "Headline alleges Israel unlawfully used white phosphorus",
+      "claim": "A headline displayed/read on camera asserts \"Israel unlawfully using white phosphorus.\"",
+      "anchored_artifacts": [
+        "A-2447.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:40:50",
+      "investigative_direction": "Identify the article source, date, geographic location of alleged use, and any corroborating documentation from NGOs or UN bodies."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3580",
+      "ref": "C-3580",
+      "label": "Marco Rubio stated the U.S. preemptively bombed Iran to preempt an imminent Israeli action",
+      "claim": "Marco Rubio stated on camera that \"we knew that there was going to be an Israeli action. We knew that that would precipitate an attack against American forces, and we knew that if we didn't preemptively go after them before they launched those attacks, we would suffer higher casualties.\"",
+      "anchored_artifacts": [
+        "A-2448.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:41:40",
+      "investigative_direction": "Identify full statement source (interview name, date); capture any contradictory or corroborating administration statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3581",
+      "ref": "C-3581",
+      "label": "Benny Gantz stated he would not exclude boots on the ground for the Iran campaign",
+      "claim": "Benny Gantz stated on camera that he \"would not exclude\" the need for boots on the ground and that \"we exclude nothing. We've been waiting for 47 years and we came to a point with every necessary means should be taken in order to achieve our goals.\"",
+      "anchored_artifacts": [
+        "A-2449.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:50",
+      "investigative_direction": "Identify full interview source (outlet, date, interviewer); confirm translation accuracy if interview was conducted in Hebrew."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3582",
+      "ref": "C-3582",
+      "label": "Caroline Levitt stated Trump \"wisely\" keeps options on the table regarding troops on the ground",
+      "claim": "White House Press Secretary Caroline Levitt stated on camera that \"President Trump wisely does not remove options off of the table\" with respect to troops on the ground, characterizing the campaign as \"largely an air campaign\" but noting a draft is not off the table.",
+      "anchored_artifacts": [
+        "A-2450.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:30",
+      "investigative_direction": "Identify press briefing date and full transcript; review whether Levitt explicitly addressed a draft or only troops on the ground."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3583",
+      "ref": "C-3583",
+      "label": "Tim Dillon publicly speculated Erika Kirk may have been Charlie Kirk's \"Mossad handler\"",
+      "claim": "Comedian Tim Dillon stated on camera that \"there's a very good chance that this woman was his handler\" and that \"she may have loved him… even though she was his Mossad handler and probably had him killed.\"",
+      "anchored_artifacts": [
+        "A-2444.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:26:00",
+      "investigative_direction": "Identify the original podcast episode (Tim Dillon Show) and date; confirm language is unedited."
+    }
+  ],
+  "memes": []
+}

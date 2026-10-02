@@ -1,0 +1,1301 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 99,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "efd9d1189c9e94d15188046d5b61410818dcf70df332d7e474fb3cf762180098",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2045",
+      "family_ref": "A-2045",
+      "bundle_name": "Charlie Kirk 2018 Text Message Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2045.1",
+          "ref": "A-2045.1",
+          "description": "Charlie Kirk text message (2018) asserting premonition of death",
+          "related_claims": [
+            "C-2856",
+            "C-2857"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:06",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2046",
+      "family_ref": "A-2046",
+      "bundle_name": "Baron Coleman Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2046.1",
+          "ref": "A-2046.1",
+          "description": "Baron Coleman audio clip stating the situation is a \"spiritual war\" with demonic forces",
+          "related_claims": [
+            "C-2858"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:41",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2047",
+      "family_ref": "A-2047",
+      "bundle_name": "Netanyahu / Greta Van Susteren Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2047.1",
+          "ref": "A-2047.1",
+          "description": "Netanyahu interview with Greta Van Susteren denying Israeli involvement in Kirk assassination",
+          "related_claims": [
+            "C-2859",
+            "C-2860"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:44",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2048",
+      "family_ref": "A-2048",
+      "bundle_name": "Show Faith by Works FARA Filing Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2048.1",
+          "ref": "A-2048.1",
+          "description": "FARA registration for Show Faith by Works LLC (geofencing/church propaganda)",
+          "related_claims": [
+            "C-2861",
+            "C-2862"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:54",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2048.2",
+          "ref": "A-2048.2",
+          "description": "Church list contained within FARA filing",
+          "related_claims": [
+            "C-2862"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:54",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2049",
+      "family_ref": "A-2049",
+      "bundle_name": "Clock Tower X FARA Filing Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2049.1",
+          "ref": "A-2049.1",
+          "description": "FARA registration for Clock Tower X LLC (US media propaganda campaign for Israel)",
+          "related_claims": [
+            "C-2863",
+            "C-2864",
+            "C-2865",
+            "C-2866"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:34",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2049.2",
+          "ref": "A-2049.2",
+          "description": "Salem Radio Media Network listing within Clock Tower X FARA filing",
+          "related_claims": [
+            "C-2865"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:57",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2050",
+      "family_ref": "A-2050",
+      "bundle_name": "Josh Hammer Show View Count Display Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2050.1",
+          "ref": "A-2050.1",
+          "description": "Newsweek page showing Josh Hammer show view counts (399, 386, 665, 355)",
+          "related_claims": [
+            "C-2867"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:59",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2051",
+      "family_ref": "A-2051",
+      "bundle_name": "Salem Media / Trump Jr. Deal Announcement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2051.1",
+          "ref": "A-2051.1",
+          "description": "Salem Media announcement of landmark deal with Donald Trump Jr. and Lara Trump",
+          "related_claims": [
+            "C-2868",
+            "C-2869"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:21",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2052",
+      "family_ref": "A-2052",
+      "bundle_name": "Ian Carroll Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2052.1",
+          "ref": "A-2052.1",
+          "description": "Ian Carroll audio segment on Pam Bondi disbanding Foreign Influence Task Force",
+          "related_claims": [
+            "C-2870",
+            "C-2871"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:17",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2053",
+      "family_ref": "A-2053",
+      "bundle_name": "Pam Bondi DOJ Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2053.1",
+          "ref": "A-2053.1",
+          "description": "DOJ statement disbanding Foreign Influence Task Force and limiting FARA enforcement",
+          "related_claims": [
+            "C-2870",
+            "C-2871"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:17",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2054",
+      "family_ref": "A-2054",
+      "bundle_name": "2025 Timeline Display Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2054.1",
+          "ref": "A-2054.1",
+          "description": "2025 visual timeline of FARA / Salem / DOJ / Kirk events (Jan 10 – Oct 23)",
+          "related_claims": [
+            "C-2861",
+            "C-2863",
+            "C-2866",
+            "C-2870",
+            "C-2872",
+            "C-2873",
+            "C-2875"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:54",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2055",
+      "family_ref": "A-2055",
+      "bundle_name": "Project 545 Visual Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2055.1",
+          "ref": "A-2055.1",
+          "description": "Visual map/diagram of State of Israel Ministry of Foreign Affairs propaganda network (Project 545)",
+          "related_claims": [
+            "C-2876"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:40",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2056",
+      "family_ref": "A-2056",
+      "bundle_name": "Blake Lively Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2056.1",
+          "ref": "A-2056.1",
+          "description": "Blake Lively public statement following April 2 dismissal of 10 of 13 claims",
+          "related_claims": [
+            "C-2877",
+            "C-2878"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:29",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2057",
+      "family_ref": "A-2057",
+      "bundle_name": "Community Notes Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2057.1",
+          "ref": "A-2057.1",
+          "description": "Community Notes correction flagging Blake Lively's statement as misleading by omission",
+          "related_claims": [
+            "C-2879"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:28",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2058",
+      "family_ref": "A-2058",
+      "bundle_name": "Deadpool Movie Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2058.1",
+          "ref": "A-2058.1",
+          "description": "Deadpool & Wolverine \"Nice Pool\" scene mocking Justin Baldoni",
+          "related_claims": [
+            "C-2880"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:50:04",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2058.2",
+          "ref": "A-2058.2",
+          "description": "Deadpool & Wolverine deleted scenes with continued Baldoni mockery (podcast-hosting character)",
+          "related_claims": [
+            "C-2881"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:50:30",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2059",
+      "family_ref": "A-2059",
+      "bundle_name": "It Ends With Us Premiere Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2059.1",
+          "ref": "A-2059.1",
+          "description": "Footage showing Justin Baldoni watching It Ends With Us premiere from theater basement while A-listers sit upstairs",
+          "related_claims": [
+            "C-2882"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:57",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2060",
+      "family_ref": "A-2060",
+      "bundle_name": "Charlie Kirk Sept 9 Group Text Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2060.1",
+          "ref": "A-2060.1",
+          "description": "Charlie Kirk group text declaring departure from pro-Israel cause (referenced, not displayed)",
+          "related_claims": [
+            "C-2874"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:23",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2061",
+      "family_ref": "A-2061",
+      "bundle_name": "Mikey McCoy Message Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2061.1",
+          "ref": "A-2061.1",
+          "description": "Mikey McCoy message to host directing investigation toward Andrew Kolvet (referenced, not displayed)",
+          "related_claims": [
+            "C-2883"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:57:03",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Trump's former 2020 campaign manager; named head of Clock Tower X LLC and Chief Strategy Officer of Salem Media Network per FARA filings and contemporaneous reporting.",
+      "related_artifacts": [
+        "A-2049.1",
+        "A-2049.2",
+        "A-2054.1"
+      ],
+      "related_claims": [
+        "C-2864",
+        "C-2865",
+        "C-2866"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Prime Minister of Israel; subject of Greta Van Susteren denial interview and architect (per host) of Project 545 foreign propaganda structure.",
+      "related_artifacts": [
+        "A-2047.1",
+        "A-2055.1"
+      ],
+      "related_claims": [
+        "C-2859"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Journalist who interviewed Netanyahu on September 12, 2025; host alleges her team received a request from Netanyahu's office to raise the Israel-Kirk question.",
+      "related_artifacts": [
+        "A-2047.1"
+      ],
+      "related_claims": [
+        "C-2860"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Civil Rights Assistant Attorney General; principal of Dhillon Law Group, which drafted FARA paperwork for Havas Media / Clock Tower X / Show Faith by Works.",
+      "related_artifacts": [
+        "A-2049.1",
+        "A-2054.1"
+      ],
+      "related_claims": [
+        "C-2872",
+        "C-2873"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "U.S. Attorney General; signed February 5, 2025 order disbanding DOJ Foreign Influence Task Force and limiting FARA criminal enforcement.",
+      "related_artifacts": [
+        "A-2052.1",
+        "A-2053.1"
+      ],
+      "related_claims": [
+        "C-2870",
+        "C-2871"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Acquired 30% stake in M-News app via Salem Media Group deal (April 2025); entered long-term services agreement with Salem.",
+      "related_artifacts": [
+        "A-2051.1"
+      ],
+      "related_claims": [
+        "C-2868",
+        "C-2869"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Independent journalist whose audio segment is played discussing Pam Bondi's Foreign Influence Task Force disbanding.",
+      "related_artifacts": [
+        "A-2052.1"
+      ],
+      "related_claims": [
+        "C-2870"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Plaintiff in Lively v. Baldoni; issued post-ruling statement flagged as misleading by Community Notes.",
+      "related_artifacts": [
+        "A-2056.1",
+        "A-2057.1",
+        "A-2058.1",
+        "A-2058.2",
+        "A-2059.1"
+      ],
+      "related_claims": [
+        "C-2877",
+        "C-2878",
+        "C-2879"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Defendant in Lively v. Baldoni; subject of Deadpool parody and basement-premiere footage; host claims public vindication via settlement.",
+      "related_artifacts": [
+        "A-2056.1",
+        "A-2058.1",
+        "A-2058.2",
+        "A-2059.1"
+      ],
+      "related_claims": [
+        "C-2877",
+        "C-2880",
+        "C-2881",
+        "C-2882"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Actor and Lively's husband; co-appeared in Deadpool & Wolverine parody content targeting Baldoni.",
+      "related_artifacts": [
+        "A-2058.1",
+        "A-2058.2"
+      ],
+      "related_claims": [
+        "C-2880",
+        "C-2881"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Actor who co-appeared in Deadpool & Wolverine parody and attended It Ends With Us premiere upstairs while Baldoni watched from basement.",
+      "related_artifacts": [
+        "A-2058.1",
+        "A-2058.2",
+        "A-2059.1"
+      ],
+      "related_claims": [
+        "C-2880",
+        "C-2881",
+        "C-2882"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Independent commentator; played audio clip characterizing the Charlie Kirk assassination as part of a spiritual/demonic war.",
+      "related_artifacts": [
+        "A-2046.1"
+      ],
+      "related_claims": [
+        "C-2858"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "Entered long-term strategic services agreement with Salem Media Group (April 2025) alongside Donald Trump Jr. deal.",
+      "related_artifacts": [
+        "A-2051.1"
+      ],
+      "related_claims": [
+        "C-2868"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1732",
+      "ref": "N-1732",
+      "name": "Salem Media Foreign Agent Registration Status",
+      "type": "investigation_target",
+      "description": "Persistent question of whether Salem Media Network's contractual relationship with Clock Tower X LLC renders it a foreign-agent platform for Israel under FARA.",
+      "related_artifacts": [
+        "A-2049.1",
+        "A-2049.2",
+        "A-2051.1"
+      ],
+      "related_claims": [
+        "C-2863",
+        "C-2864",
+        "C-2865",
+        "C-2866",
+        "C-2868"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1733",
+      "ref": "N-1733",
+      "name": "Josh Hammer Show Audience Anomaly",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy between Josh Hammer's documented low Newsweek/YouTube view counts (~355–665) and his ongoing placement on Salem Podcast Network.",
+      "related_artifacts": [
+        "A-2050.1"
+      ],
+      "related_claims": [
+        "C-2867"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1734",
+      "ref": "N-1734",
+      "name": "Pam Bondi Foreign Influence Task Force Disbanding",
+      "type": "investigation_target",
+      "description": "February 5, 2025 DOJ directive disbanding Foreign Influence Task Force and limiting FARA criminal enforcement to espionage-class conduct only.",
+      "related_artifacts": [
+        "A-2052.1",
+        "A-2053.1"
+      ],
+      "related_claims": [
+        "C-2870",
+        "C-2871"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1735",
+      "ref": "N-1735",
+      "name": "Hospital \"No Neck Left\" Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent inconsistency between contemporaneous reports from hospital staff (and relayed through Andrew Kolvet to host and Tucker Carlson) that Charlie Kirk had \"no neck left,\" and the later public visual record showing Charlie Kirk's neck was intact enough for open-casket viewing.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1736",
+      "ref": "N-1736",
+      "name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter — CASE_1 / LM-1000 placeholder)",
+      "type": "investigation_target",
+      "description": "Lawsuit in which April 2, 2025 ruling dismissed 10 of 13 Lively claims; ultimately settled two weeks before scheduled trial.",
+      "related_artifacts": [
+        "A-2056.1",
+        "A-2057.1"
+      ],
+      "related_claims": [
+        "C-2877",
+        "C-2878",
+        "C-2879"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1737",
+      "ref": "N-1737",
+      "name": "2025 FARA Propaganda Timeline Convergence",
+      "type": "investigation_target",
+      "description": "Persistent investigative question raised by the host regarding the temporal clustering of (a) Bondi's February 5 FARA Task Force disbanding, (b) Brad Parscale's January 10 Salem CSO role, (c) Dhillon Law Group's August 27 paperwork drafting, (d) Dhillon's April 7 DOJ swearing-in, (e) Clock Tower X / Show Faith by Works FARA filings on September 18, (f) Charlie Kirk's September 9 message and September 10 assassination, (g) Netanyahu's September 12 denial, and (h) Josh Hammer's October 15/23 Salem show launch.",
+      "related_artifacts": [
+        "A-2047.1",
+        "A-2048.1",
+        "A-2049.1",
+        "A-2051.1",
+        "A-2053.1",
+        "A-2054.1"
+      ],
+      "related_claims": [
+        "C-2861",
+        "C-2863",
+        "C-2866",
+        "C-2870",
+        "C-2872",
+        "C-2873",
+        "C-2874",
+        "C-2875"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1738",
+      "ref": "N-1738",
+      "name": "Mikey McCoy Witness Reliability Question",
+      "type": "investigation_target",
+      "description": "Persistent investigative question about Mikey McCoy's role, demeanor, and current disposition following the assassination; framed by host as possible \"weak link\" among Kirk's inner circle.",
+      "related_artifacts": [
+        "A-2061.1"
+      ],
+      "related_claims": [
+        "C-2883"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2856",
+      "ref": "C-2856",
+      "label": "Charlie Kirk's 2018 message asserted he dreamed of being killed",
+      "claim": "Charlie Kirk wrote in a 2018 message to the host that he dreamed \"all the time\" about being killed and believed he might be \"wiped out\" at any time.",
+      "anchored_artifacts": [
+        "A-2045.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:06",
+      "investigative_direction": "Obtain the original 2018 text record or corroborating screenshots; compare wording to other contemporaneous Kirk statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2857",
+      "ref": "C-2857",
+      "label": "Charlie Kirk stated \"I'm not really afraid of it\" regarding his own death",
+      "claim": "In a 2018 follow-up text to the host, Charlie Kirk wrote that he was \"not really afraid\" of being killed.",
+      "anchored_artifacts": [
+        "A-2045.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:06",
+      "investigative_direction": "Corroborate the second message via original device records or screenshots."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2858",
+      "ref": "C-2858",
+      "label": "Baron Coleman asserted the situation constitutes a spiritual war with demonic forces",
+      "claim": "In an audio clip played on the episode, Baron Coleman stated that those co-opting Christian language do not answer to a human and that the events around Charlie Kirk's death constitute a \"spiritual war\" with demonic authorship.",
+      "anchored_artifacts": [
+        "A-2046.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:41",
+      "investigative_direction": "Obtain full unedited Coleman segment; verify no other named attribution in original show notes."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2859",
+      "ref": "C-2859",
+      "label": "Netanyahu asserted Israel did not kill Charlie Kirk on September 12, 2025",
+      "claim": "Two days after Charlie Kirk's assassination, Benjamin Netanyahu stated on Greta Van Susteren's show that Israel did not kill Charlie Kirk, calling the rumor \"insane\" and \"stupid.\"",
+      "anchored_artifacts": [
+        "A-2047.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:44",
+      "investigative_direction": "Obtain full unedited Van Susteren segment and verify whether the question was pre-arranged as host alleges."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2860",
+      "ref": "C-2860",
+      "label": "Greta Van Susteren raised the Israel-Kirk question in the September 12, 2025 interview",
+      "claim": "Greta Van Susteren asked Netanyahu to address internet rumors that Israel was behind Charlie Kirk's murder.",
+      "anchored_artifacts": [
+        "A-2047.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:44",
+      "investigative_direction": "Cross-check segment against Van Susteren's own post-show statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2861",
+      "ref": "C-2861",
+      "label": "Show Faith by Works LLC registered with FARA on September 18, 2025",
+      "claim": "Show Faith by Works LLC filed a FARA registration on September 18, 2025, contracted via Havas Media on behalf of the Israeli Ministry of Foreign Affairs.",
+      "anchored_artifacts": [
+        "A-2048.1",
+        "A-2054.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:54",
+      "investigative_direction": "Pull the FARA filing directly from DOJ FARA public registry; confirm registration date and contracting parties."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2862",
+      "ref": "C-2862",
+      "label": "Show Faith by Works LLC plans geofencing and church-targeted propaganda",
+      "claim": "According to its FARA filing, Show Faith by Works LLC is contracted to geofence mobile phones and deliver pro-Israel messaging in church parking lots.",
+      "anchored_artifacts": [
+        "A-2048.1",
+        "A-2048.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:54",
+      "investigative_direction": "Compare filing scope to actual deployed activities via FOIA or FARA supplemental filings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2863",
+      "ref": "C-2863",
+      "label": "Clock Tower X LLC registered with FARA on September 18, 2025",
+      "claim": "Clock Tower X LLC filed a FARA registration on September 18, 2025, contracted via Havas Media on behalf of the Israeli Ministry of Foreign Affairs, for a strategic propaganda plan targeting U.S. antisemitism narrative.",
+      "anchored_artifacts": [
+        "A-2049.1",
+        "A-2054.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:34",
+      "investigative_direction": "Pull original FARA filing from DOJ registry; confirm contracting parties and stated scope."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2864",
+      "ref": "C-2864",
+      "label": "Clock Tower X LLC is run by Brad Parscale",
+      "claim": "According to the FARA filing and the host, Clock Tower X LLC is run by Brad Parscale.",
+      "anchored_artifacts": [
+        "A-2049.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:16:57",
+      "investigative_direction": "Verify corporate registration records for Clock Tower X LLC."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2865",
+      "ref": "C-2865",
+      "label": "Clock Tower X FARA filing lists Salem Radio Media Network as a target platform",
+      "claim": "The FARA filing for Clock Tower X LLC lists Salem Radio Media Network as the integration platform for narrative messaging across broadcast, podcast, TikTok, Instagram, and YouTube.",
+      "anchored_artifacts": [
+        "A-2049.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:16:57",
+      "investigative_direction": "Obtain full filing exhibit; verify exact quoted language and listed platforms."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2866",
+      "ref": "C-2866",
+      "label": "Brad Parscale became Chief Strategy Officer of Salem Media Network in January 2025",
+      "claim": "Brad Parscale became Chief Strategy Officer of Salem Media Network in January 2025, placing him simultaneously at Clock Tower X and Salem.",
+      "anchored_artifacts": [
+        "A-2049.1",
+        "A-2054.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:16:57",
+      "investigative_direction": "Cross-check Salem press releases and LinkedIn / corporate filings for Parscale's title and dates."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2867",
+      "ref": "C-2867",
+      "label": "Josh Hammer show displays low Newsweek view counts (~355–665)",
+      "claim": "Newsweek page views for the Josh Hammer show display counts of 399, 386, 665, and 355 across four recent videos, indicating negligible audience reach.",
+      "anchored_artifacts": [
+        "A-2050.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:24:59",
+      "investigative_direction": "Capture live Newsweek view counts at multiple points in time; compare to alternative analytics."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2868",
+      "ref": "C-2868",
+      "label": "Salem Media announced landmark deal with Donald Trump Jr. and Lara Trump in April 2025",
+      "claim": "In April 2025, Salem Media Group announced a landmark deal with Donald Trump Jr. and Lara Trump, including acquisition of a 30% stake in M-News and long-term strategic services agreements.",
+      "anchored_artifacts": [
+        "A-2051.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:31:21",
+      "investigative_direction": "Obtain Salem's official press release and SEC / corporate disclosures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2869",
+      "ref": "C-2869",
+      "label": "Salem Media acquired 30% stake in M-News app co-owned by Donald Trump Jr.",
+      "claim": "Pursuant to the April 2025 deal, Salem acquired a 30% stake in M-News, a mobile news aggregation app co-owned by Donald Trump Jr.",
+      "anchored_artifacts": [
+        "A-2051.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:32:23",
+      "investigative_direction": "Verify M-News corporate filings; confirm 30% acquisition price and structure."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2870",
+      "ref": "C-2870",
+      "label": "Pam Bondi disbanded the DOJ Foreign Influence Task Force on February 5, 2025",
+      "claim": "Pam Bondi, on her first day as Attorney General, signed an order disbanding the DOJ Foreign Influence Task Force.",
+      "anchored_artifacts": [
+        "A-2052.1",
+        "A-2053.1",
+        "A-2054.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:34:17",
+      "investigative_direction": "Obtain DOJ memorandum directly; confirm effective date and operative language."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2871",
+      "ref": "C-2871",
+      "label": "Disbanding limits DOJ from criminally charging PR work for foreign nations",
+      "claim": "Per the DOJ statement, recourse to criminal charges under FARA and 18 U.S. Code § 951 is limited to conduct similar to traditional espionage by foreign government actors.",
+      "anchored_artifacts": [
+        "A-2053.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:34:17",
+      "investigative_direction": "Compare DOJ internal guidance before and after February 5, 2025; assess any subsequent FARA prosecutions."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2872",
+      "ref": "C-2872",
+      "label": "Harmeet Dhillon sworn in as Assistant AG for Civil Rights on April 7, 2025",
+      "claim": "Harmeet Dhillon was sworn in on April 7, 2025 as Assistant Attorney General for Civil Rights at the U.S. Department of Justice.",
+      "anchored_artifacts": [
+        "A-2054.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:54",
+      "investigative_direction": "Confirm via DOJ announcement and Senate confirmation records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2873",
+      "ref": "C-2873",
+      "label": "Dhillon Law Group drafted FARA paperwork for Clock Tower X and Show Faith by Works",
+      "claim": "According to the host's timeline, on August 27, 2025, Dhillon Law Group began drafting FARA registration paperwork for Havas Media on behalf of Clock Tower X LLC and Show Faith by Works LLC.",
+      "anchored_artifacts": [
+        "A-2054.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:54",
+      "investigative_direction": "Verify via FARA filing registrant of record and any disclosed outside counsel."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2874",
+      "ref": "C-2874",
+      "label": "Charlie Kirk sent September 9, 2025 group message declaring departure from pro-Israel cause",
+      "claim": "On September 9, 2025, Charlie Kirk sent a group text declaring he had been \"given no choice but to abandon the pro-Israel cause\" due to bullying and financial pressure.",
+      "anchored_artifacts": [
+        "A-2060.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:22:23",
+      "investigative_direction": "Obtain the original group text record; verify the participant list and exact wording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2875",
+      "ref": "C-2875",
+      "label": "Charlie Kirk's memorial was geofenced on September 21, 2025",
+      "claim": "Per the host's timeline, Charlie Kirk's memorial on September 21, 2025 was geofenced under the Show Faith by Works arrangement.",
+      "anchored_artifacts": [
+        "A-2054.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:54",
+      "investigative_direction": "Cross-check with FARA activity reports; obtain any device-level data on geofence delivery."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2876",
+      "ref": "C-2876",
+      "label": "Project 545 represents a $545 million Israeli propaganda initiative",
+      "claim": "Project 545 refers to a $545 million State of Israel Ministry of Foreign Affairs propaganda initiative, the funding basis for the Clock Tower X / Show Faith by Works contracts.",
+      "anchored_artifacts": [
+        "A-2055.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:40",
+      "investigative_direction": "Locate primary source for Project 545 budget figure; cross-check against FARA contract disclosures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2877",
+      "ref": "C-2877",
+      "label": "April 2 ruling dismissed 10 of 13 Blake Lively claims against Justin Baldoni",
+      "claim": "On April 2, a judge dismissed 10 of 13 claims Blake Lively had asserted against Justin Baldoni, leaving only breach of contract, retaliation, and aiding-and-abetting retaliation.",
+      "anchored_artifacts": [
+        "A-2056.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:47:29",
+      "investigative_direction": "Obtain the actual April 2 court order; verify which claims survived and on what grounds."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2878",
+      "ref": "C-2878",
+      "label": "Blake Lively issued statement claiming the ruling supports her case",
+      "claim": "Following the April 2 ruling, Blake Lively issued a public statement asserting that the ruling \"allows the heart of my case to be presented to a jury next month.\"",
+      "anchored_artifacts": [
+        "A-2056.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:47:29",
+      "investigative_direction": "Verify against Lively's official public statement archive."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2879",
+      "ref": "C-2879",
+      "label": "Community Notes flagged Blake Lively's statement as misleading by omission",
+      "claim": "Community Notes appended to Blake Lively's statement characterized her framing as \"misleading the public and lying by omission with this truncated cherry-picked snippets.\"",
+      "anchored_artifacts": [
+        "A-2057.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:28",
+      "investigative_direction": "Obtain screenshot of the Community Notes annotation; capture timestamp and full text."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2880",
+      "ref": "C-2880",
+      "label": "Deadpool & Wolverine included \"Nice Pool\" character parodying Justin Baldoni",
+      "claim": "Deadpool & Wolverine included a \"Nice Pool\" character and scene mocking Justin Baldoni, with Blake Lively playing \"Mrs. Pool.\"",
+      "anchored_artifacts": [
+        "A-2058.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:50:04",
+      "investigative_direction": "Verify via official film credits and supplementary marketing material; confirm Baldoni-as-target framing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2881",
+      "ref": "C-2881",
+      "label": "Deadpool deleted scenes continued Baldoni mockery",
+      "claim": "Deleted scenes from Deadpool & Wolverine contained additional content mocking Justin Baldoni, including a \"podcast that monetizes the women's movement\" line.",
+      "anchored_artifacts": [
+        "A-2058.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:50:30",
+      "investigative_direction": "Obtain deleted scene footage or trade press reporting on cut material."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2882",
+      "ref": "C-2882",
+      "label": "Justin Baldoni watched It Ends With Us premiere from theater basement",
+      "claim": "At the It Ends With Us premiere, Justin Baldoni was seated in the basement of the theater while A-list attendees were upstairs, per footage displayed on the episode.",
+      "anchored_artifacts": [
+        "A-2059.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:51:57",
+      "investigative_direction": "Obtain independent eyewitness corroboration and any press coverage of the premiere seating arrangement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2883",
+      "ref": "C-2883",
+      "label": "Mikey McCoy sent the host a message directing investigation toward Andrew Kolvet",
+      "claim": "According to the host, Mikey McCoy sent her a message pointing to Andrew Kolvet as a subject of investigation.",
+      "anchored_artifacts": [
+        "A-2061.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:57:03",
+      "investigative_direction": "Obtain the original McCoy message screenshot; verify the exact language and date."
+    }
+  ],
+  "memes": []
+}

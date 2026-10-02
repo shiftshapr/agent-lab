@@ -1,0 +1,21 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 95,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "1c2893d4ba31a7ea4741fc8d1e8ae31e1893e4014c6f34889114ddfea981d077",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Ep 95 advances three threads. (1) YouTuber Nicci's analysis argues the back-camera footage Terryl shared was zoomed vs. wide-angle shots at other 2025 tour stops; the behind-head angle appeared only with the 2025 American Comeback Tour. (2) A tip describes a 2016 Scottsdale dinner with Lori Frantzve, Larry Ginta, gun-patent holders, and Erika Frantzve. (3) Candace rebuts Blake Neff's X-post on the Robinson charging document. Plus Laura Loomer's tweet, a 2019 Spectator profile, and a viewer question on whether Charlie Kirk was cremated.",
+  "artifacts": [],
+  "nodes": [],
+  "claims": [],
+  "memes": []
+}

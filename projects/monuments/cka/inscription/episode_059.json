@@ -1,0 +1,1456 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 59,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "ec70297e4ea4475efe0ea007480a67fe4d47488724c965ac8c0dee4be928d6a0",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1643",
+      "family_ref": "A-1643",
+      "bundle_name": "Robert Eugene Flood Profile Display Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1643.1",
+          "ref": "A-1643.1",
+          "description": "Profile image of Robert Eugene Flood displayed on screen with biographical caption referencing 33 years with the Texas A&M University Police Department, the 232nd session, and 35 years of law enforcement in Illinois and Texas",
+          "related_claims": [
+            "C-2124",
+            "C-2125",
+            "C-2126",
+            "C-2132"
+          ],
+          "related_nodes": [
+            "N-748",
+            "N-1496"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1643.2",
+          "ref": "A-1643.2",
+          "description": "LinkedIn profile page of Robert Eugene Flood displayed and scrolled through live, showing Marine staff sergeant service, Franklin Park Illinois employment, Army Reserve lieutenant colonel rank, FBI National Academy attendance, Texas master peace officer certification, and FBIAA membership",
+          "related_claims": [
+            "C-2127",
+            "C-2128",
+            "C-2129",
+            "C-2130",
+            "C-2131"
+          ],
+          "related_nodes": [
+            "N-748",
+            "N-1496"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:23–00:10:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1644",
+      "family_ref": "A-1644",
+      "bundle_name": "Dan Flood High School Friend Social Media Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1644.1",
+          "ref": "A-1644.1",
+          "description": "Social media post read aloud from a self-identified childhood friend of Dan Flood, identifying himself as having grown up with Dan in Allen, Texas, and stating he last saw Dan \"doing security for some Dallas billionaire at the Cattleman's Ball\"",
+          "related_claims": [
+            "C-2133",
+            "C-2134",
+            "C-2135"
+          ],
+          "related_nodes": [
+            "N-747",
+            "N-1496",
+            "N-1497"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1645",
+      "family_ref": "A-1645",
+      "bundle_name": "Bobby Harpole Law Enforcement Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1645.1",
+          "ref": "A-1645.1",
+          "description": "2018 interview by Bobby Harpole quoted in full, describing his upbringing, his birth in Denton Texas, his 1968 start with Texas Department of Public Safety, and his 12-year tenure at the Erath County Sheriff's Office",
+          "related_claims": [
+            "C-2136",
+            "C-2137",
+            "C-2138",
+            "C-2139"
+          ],
+          "related_nodes": [
+            "N-750",
+            "N-1496"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1646",
+      "family_ref": "A-1646",
+      "bundle_name": "Cattleman's Ball Public Website Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1646.1",
+          "ref": "A-1646.1",
+          "description": "Cattleman's Ball website displayed on screen, showing multi-state event locations including Texas, Kansas, Oregon, Florida, and Nebraska",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1496"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1647",
+      "family_ref": "A-1647",
+      "bundle_name": "FBI Agent Association Public Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1647.1",
+          "ref": "A-1647.1",
+          "description": "Description of the FBI Agent Association (FBIA) read from the organization's own website, identifying it as a charity founded in 1981 consisting of 14,000 current and former FBI special agents",
+          "related_claims": [
+            "C-2131",
+            "C-2148"
+          ],
+          "related_nodes": [
+            "N-748"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1648",
+      "family_ref": "A-1648",
+      "bundle_name": "TPUSA Cease and Desist Letter Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1648.1",
+          "ref": "A-1648.1",
+          "description": "Cease and Desist letter displayed on screen and read aloud, sent by Turning Point USA (via Paramount Tactical) to Zack Gregorio of Wolves and Finance, including the formal statement on drones (\"UVU prohibited Turning Point USA from flying drones for security purposes during the event, but did allow a Turning Point USA media production drone to briefly fly over the location before the event to collect limited B-roll footage\")",
+          "related_claims": [
+            "C-2140",
+            "C-2141"
+          ],
+          "related_nodes": [
+            "N-753",
+            "N-1498"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:00–00:00:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1648.2",
+          "ref": "A-1648.2",
+          "description": "Zack Gregorio (Wolves and Finance) YouTube video clip played on air, showing Gregorio presenting the cease-and-desist letter, characterizing it as the first step toward a defamation lawsuit",
+          "related_claims": [
+            "C-2140"
+          ],
+          "related_nodes": [
+            "N-753",
+            "N-1498"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:34–00:22:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1649",
+      "family_ref": "A-1649",
+      "bundle_name": "TPUSA Drone Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1649.1",
+          "ref": "A-1649.1",
+          "description": "Andrew Kovat interview clip played on air (with Gary), explaining the drone situation, stating Frank Turk saw a wide-angle shot from a second-floor walkway taken by the events team, not drone footage",
+          "related_claims": [
+            "C-2141"
+          ],
+          "related_nodes": [
+            "N-754",
+            "N-1498"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:08–00:27:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1649.2",
+          "ref": "A-1649.2",
+          "description": "Wide-angle shot image displayed on screen, presented by Andrew Kovat as the photo Frank Turk mistook for drone footage (described as \"a walkway or a bridge elevated\" second-floor view)",
+          "related_claims": [
+            "C-2141"
+          ],
+          "related_nodes": [
+            "N-1498"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1650",
+      "family_ref": "A-1650",
+      "bundle_name": "Erica Kirk China Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1650.1",
+          "ref": "A-1650.1",
+          "description": "Erica Kirk interview clip played on air in which she states she was \"living in China and doing a lot of work with victims from sex trafficking\" through her Everyday Heroes Like You charity",
+          "related_claims": [
+            "C-2144"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1499"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:02–00:32:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1650.2",
+          "ref": "A-1650.2",
+          "description": "Paraphrased TPUSA official response (received via email by host), stating that Erica Kirk \"never lived\" in China and \"simply visited for 2 weeks\"",
+          "related_claims": [
+            "C-2142"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1499"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1650.3",
+          "ref": "A-1650.3",
+          "description": "Charlie Kirk debate clip with Ben Corollo played on air, in which Charlie states \"Unlike you, my wife lived in China for 6 months\"",
+          "related_claims": [
+            "C-2143"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-1499"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1651",
+      "family_ref": "A-1651",
+      "bundle_name": "Cornerstone Chapel Announcement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1651.1",
+          "ref": "A-1651.1",
+          "description": "Pastor Gary Ham video announcement for a Cornerstone Chapel Wednesday night service on January 21, identifying the topic as antisemitism, listing Candace Owens and Tucker Carlson, and naming Rob McCoy and Samuel Smaja as guests",
+          "related_claims": [
+            "C-2145"
+          ],
+          "related_nodes": [
+            "N-758",
+            "N-759",
+            "N-760",
+            "N-1500"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:31–00:35:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1652",
+      "family_ref": "A-1652",
+      "bundle_name": "Israel Charlie Kirk Award Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1652.1",
+          "ref": "A-1652.1",
+          "description": "Fox News article reference read aloud by host, with headline: \"Israel will honor the late Charlie Kirk with an award for opposing anti-semitism\"",
+          "related_claims": [
+            "C-2146"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1653",
+      "family_ref": "A-1653",
+      "bundle_name": "Candace Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1653.1",
+          "ref": "A-1653.1",
+          "description": "\"Moderator Marzy\" comment read aloud, claiming Dan Flood was \"still providing security\" at a Charlie Kirk Day event where Kash Patel was present",
+          "related_claims": [
+            "C-2147"
+          ],
+          "related_nodes": [
+            "N-747",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1653.2",
+          "ref": "A-1653.2",
+          "description": "\"Becca\" comment read aloud, asserting Erika Kirk is \"panicking\" and \"not leading that organization in a direction that Charlie Kirk would have let it there\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1653.3",
+          "ref": "A-1653.3",
+          "description": "\"Scrub Girl\" comment read aloud, stating \"I grew up in Converse, Texas, and no New Bronzeville/New Bron Falls, Texas… it's definitely expanding rapidly the past couple of years. Yeah, I believe that there is some military stuff. One person said to me that it was an intel base.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1497"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1653.4",
+          "ref": "A-1653.4",
+          "description": "\"Jenny\" comment read aloud, stating \"I was in the gates program. We spoke about that. They were big mad when we suggested that the military was working on kids in these programs.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1653.5",
+          "ref": "A-1653.5",
+          "description": "\"All biz\" comment read aloud, expressing general support",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1653.6",
+          "ref": "A-1653.6",
+          "description": "\"Michelle Miller\" comment read aloud, asserting the investigation path was \"meant to be\" and converging themes",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1653.7",
+          "ref": "A-1653.7",
+          "description": "\"KJO\" comment read aloud, praising \"Will the real Erica Kirk please stand up\" segment",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2",
+            "N-1499"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1653.8",
+          "ref": "A-1653.8",
+          "description": "\"Candy Catty\" comment read aloud, requesting video clips be shown on screen",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-747",
+      "ref": "N-747",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Head of TPUSA/Charlie Kirk security detail; subject of biographical claims regarding Allen Texas upbringing, New Braunfels Texas residency, and prior security work at the Cattleman's Ball.",
+      "related_artifacts": [
+        "A-1643.1",
+        "A-1644.1",
+        "A-1653.1"
+      ],
+      "related_claims": [
+        "C-2132",
+        "C-2133",
+        "C-2134",
+        "C-2135",
+        "C-2147"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-748",
+        "N-1496",
+        "N-1497"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-748",
+      "ref": "N-748",
+      "name": "Robert Eugene Flood",
+      "type": "person",
+      "description": "Father of Dan Flood; identified via displayed profile image and LinkedIn scroll as a retired law enforcement officer spanning Illinois and Texas.",
+      "related_artifacts": [
+        "A-1643.1",
+        "A-1643.2",
+        "A-1647.1"
+      ],
+      "related_claims": [
+        "C-2124",
+        "C-2125",
+        "C-2126",
+        "C-2127",
+        "C-2128",
+        "C-2129",
+        "C-2130",
+        "C-2131",
+        "C-2132",
+        "C-2148"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-747",
+        "N-1496"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-749",
+      "ref": "N-749",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "TPUSA security team member present on September 10; identified by host as also Dallas-born, working under Greg Schmidt for Charlie Kirk's security.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-750",
+        "N-1496",
+        "N-1497"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-750",
+      "ref": "N-750",
+      "name": "Bobby Harpole",
+      "type": "person",
+      "description": "Father of Brian Harpole; 2018 law enforcement interview artifact establishes multi-decade Texas DPS and Erath County Sheriff's Office career.",
+      "related_artifacts": [
+        "A-1645.1"
+      ],
+      "related_claims": [
+        "C-2136",
+        "C-2137",
+        "C-2138",
+        "C-2139"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-749",
+        "N-1496"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-751",
+      "ref": "N-751",
+      "name": "Greg Schaefer",
+      "type": "person",
+      "description": "Founder of Schaefer Security, identified by host as former FBI hostage rescue team member with Budapest stationing.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-747",
+        "N-1496"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-752",
+      "ref": "N-752",
+      "name": "Bill Montgomery",
+      "type": "person",
+      "description": "Identified by host as the figure who convinced Charlie Kirk to start TPUSA and initially organized/paid for Charlie's security via Schaefer Security.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1",
+        "N-747",
+        "N-1496"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-753",
+      "ref": "N-753",
+      "name": "Zack Gregorio (Wolves and Finance)",
+      "type": "person",
+      "description": "YouTuber who received the TPUSA cease-and-desist letter and produced the on-air clip.",
+      "related_artifacts": [
+        "A-1648.1",
+        "A-1648.2"
+      ],
+      "related_claims": [
+        "C-2140"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-754",
+      "ref": "N-754",
+      "name": "Andrew Kovat",
+      "type": "person",
+      "description": "TPUSA PR; subject of on-air interview clip regarding the drone explanation.",
+      "related_artifacts": [
+        "A-1649.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1498"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-755",
+      "ref": "N-755",
+      "name": "Frank Turk",
+      "type": "person",
+      "description": "TPUSA staff member whose earlier statement about Charlie viewing drone footage creates the drone discrepancy.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1498"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-756",
+      "ref": "N-756",
+      "name": "NDA Buckman",
+      "type": "person",
+      "description": "Co-donor (with Carl Buckman) identified as TPUSA's number-one donor with a $10 million check; New Braunfels resident.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-757",
+        "N-1497"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-757",
+      "ref": "N-757",
+      "name": "Carl Buckman",
+      "type": "person",
+      "description": "Co-donor (with NDA Buckman) identified as TPUSA's number-one donor; New Braunfels resident.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-756",
+        "N-1497"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-758",
+      "ref": "N-758",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor; leader of Turning Point Faith; named guest at the January 21 Cornerstone Chapel event.",
+      "related_artifacts": [
+        "A-1651.1"
+      ],
+      "related_claims": [
+        "C-2145"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1500"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-759",
+      "ref": "N-759",
+      "name": "Gary Ham",
+      "type": "person",
+      "description": "Pastor of Cornerstone Chapel; speaker in the announcement video.",
+      "related_artifacts": [
+        "A-1651.1"
+      ],
+      "related_claims": [
+        "C-2145"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1500"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-760",
+      "ref": "N-760",
+      "name": "Samuel Smaja",
+      "type": "person",
+      "description": "Israeli businessman; named guest at the January 21 Cornerstone Chapel event.",
+      "related_artifacts": [
+        "A-1651.1"
+      ],
+      "related_claims": [
+        "C-2145"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1500"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-761",
+      "ref": "N-761",
+      "name": "Ben Corollo",
+      "type": "person",
+      "description": "Charlie Kirk's debate opponent in the clip where Charlie states his wife lived in China 6 months.",
+      "related_artifacts": [
+        "A-1650.3"
+      ],
+      "related_claims": [
+        "C-2143"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1496",
+      "ref": "N-1496",
+      "name": "Dan Flood Family Law Enforcement Network",
+      "type": "investigation_target",
+      "description": "Persistent investigable target covering the overlapping law enforcement, military, and FBI-affiliated backgrounds of Dan Flood, Robert Flood, Brian Harpole, and Bobby Harpole, plus the alleged Cattleman's Ball / Dallas security cluster.",
+      "related_artifacts": [
+        "A-1643.1",
+        "A-1643.2",
+        "A-1644.1",
+        "A-1645.1",
+        "A-1646.1"
+      ],
+      "related_claims": [
+        "C-2148"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-747",
+        "N-748",
+        "N-749",
+        "N-750",
+        "N-751"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1497",
+      "ref": "N-1497",
+      "name": "New Braunfels Texas Security Personnel Cluster",
+      "type": "investigation_target",
+      "description": "Investigable target covering the geographic clustering of Dan Flood and the Buckman donors in New Braunfels, Texas.",
+      "related_artifacts": [
+        "A-1644.1",
+        "A-1653.3"
+      ],
+      "related_claims": [
+        "C-2134"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-747",
+        "N-756",
+        "N-757"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1498",
+      "ref": "N-1498",
+      "name": "TPUSA Drone Story Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent target reconciling the conflicting TPUSA-affiliated statements about drone activity on September 10: Frank Turk (drone footage with Charlie), Andrew Kovat (wide-angle shot, not drone), and the cease-and-desist letter (media production drone for B-roll, but no security drones).",
+      "related_artifacts": [
+        "A-1648.1",
+        "A-1649.1",
+        "A-1649.2"
+      ],
+      "related_claims": [
+        "C-2141"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-754",
+        "N-755"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1499",
+      "ref": "N-1499",
+      "name": "Erica Kirk China Timeline Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent target reconciling three artifact-anchored statements about Erica Kirk's China residence: her own \"living in China\" claim (A-1650.1), Charlie's \"6 months\" claim (A-1650.3), and TPUSA's \"2 weeks\" official response (A-1650.2).",
+      "related_artifacts": [
+        "A-1650.1",
+        "A-1650.2",
+        "A-1650.3"
+      ],
+      "related_claims": [
+        "C-2142",
+        "C-2143",
+        "C-2144"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1500",
+      "ref": "N-1500",
+      "name": "Operation Mocking Pastor / Cornerstone Chapel Event",
+      "type": "investigation_target",
+      "description": "Investigable target covering the recurring Cornerstone Chapel series featuring named guests tied to TPUSA Faith and Israeli business interests.",
+      "related_artifacts": [
+        "A-1651.1"
+      ],
+      "related_claims": [
+        "C-2145"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-758",
+        "N-759",
+        "N-760"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2124",
+      "ref": "C-2124",
+      "label": "Robert Flood served 33 years with the Texas A&M University Police Department as Chief Deputy",
+      "claim": "The displayed profile of Robert Eugene Flood identifies him as Chief Deputy with 33 years of service at the Texas A&M University Police Department.",
+      "anchored_artifacts": [
+        "A-1643.1"
+      ],
+      "related_nodes": [
+        "N-748",
+        "N-1496"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:38",
+      "investigative_direction": "Verify through Texas A&M University Police Department public records or alumni directories."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2125",
+      "ref": "C-2125",
+      "label": "Robert Flood retired after 35 years of law enforcement spanning Illinois and Texas",
+      "claim": "The displayed profile caption states Robert Flood retired after 35 years of law enforcement service in Illinois and Texas.",
+      "anchored_artifacts": [
+        "A-1643.1"
+      ],
+      "related_nodes": [
+        "N-748",
+        "N-1496"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:38",
+      "investigative_direction": "Verify through official retirement records and state police licensing databases."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2126",
+      "ref": "C-2126",
+      "label": "Robert Flood's last assignment was with the Bosque County Texas Sheriff's Office",
+      "claim": "The displayed profile states Robert Flood's final assignment was with the Bosque County, Texas Sheriff's Office.",
+      "anchored_artifacts": [
+        "A-1643.1"
+      ],
+      "related_nodes": [
+        "N-748",
+        "N-1496"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:38",
+      "investigative_direction": "Verify through Bosque County Sheriff's Office public records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2127",
+      "ref": "C-2127",
+      "label": "Robert Flood graduated from the FBI National Academy",
+      "claim": "Robert Flood's LinkedIn profile lists graduation from the FBI National Academy.",
+      "anchored_artifacts": [
+        "A-1643.2"
+      ],
+      "related_nodes": [
+        "N-748",
+        "N-1496"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:23",
+      "investigative_direction": "Verify through FBI National Academy alumni records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2128",
+      "ref": "C-2128",
+      "label": "Robert Flood served as a Marine staff sergeant in charge of surveillance and target acquisition",
+      "claim": "Robert Flood's LinkedIn profile lists Marine staff sergeant service with responsibilities in surveillance, target acquisition, small arms/weapons, tactical radio communications, and aviation ordnance.",
+      "anchored_artifacts": [
+        "A-1643.2"
+      ],
+      "related_nodes": [
+        "N-748",
+        "N-1496"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:23",
+      "investigative_direction": "Verify through military service records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2129",
+      "ref": "C-2129",
+      "label": "Robert Flood worked in Franklin Park Illinois for over a decade",
+      "claim": "Robert Flood's LinkedIn profile lists over a decade of employment in Franklin Park, Illinois, in roles including crime scene technician, SWAT team leader, patrol division supervisor, and criminal investigator.",
+      "anchored_artifacts": [
+        "A-1643.2"
+      ],
+      "related_nodes": [
+        "N-748",
+        "N-1",
+        "N-1496"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:23",
+      "investigative_direction": "Verify through Franklin Park Police Department employment records and cross-reference with Charlie Kirk's Illinois upbringing area."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2130",
+      "ref": "C-2130",
+      "label": "Robert Flood attained the rank of lieutenant colonel in the Army Reserve",
+      "claim": "Robert Flood's LinkedIn profile lists lieutenant colonel rank in the Army Reserve.",
+      "anchored_artifacts": [
+        "A-1643.2"
+      ],
+      "related_nodes": [
+        "N-748",
+        "N-1496"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:36",
+      "investigative_direction": "Verify through Army Reserve official records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2131",
+      "ref": "C-2131",
+      "label": "Robert Flood is a member of the FBI Agent Association (FBIA)",
+      "claim": "Robert Flood's LinkedIn profile lists membership in the FBI Agent Association.",
+      "anchored_artifacts": [
+        "A-1643.2"
+      ],
+      "related_nodes": [
+        "N-748",
+        "N-1496"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:23",
+      "investigative_direction": "Verify through FBIA membership rolls."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2132",
+      "ref": "C-2132",
+      "label": "Dan Flood's parents are from Illinois in the same area where Charlie Kirk was raised",
+      "claim": "Host states that both of Dan Flood's mother and father are from Illinois, in the same area Charlie Kirk grew up.",
+      "anchored_artifacts": [
+        "A-1643.1"
+      ],
+      "related_nodes": [
+        "N-747",
+        "N-748",
+        "N-1",
+        "N-1496"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:23",
+      "investigative_direction": "Cross-reference Illinois address records for Robert Flood with Charlie Kirk's documented childhood addresses."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2133",
+      "ref": "C-2133",
+      "label": "Dan Flood grew up in Allen Texas and graduated high school there",
+      "claim": "A social media post from a self-identified childhood friend states he attended middle and high school with Dan Flood in Allen, Texas.",
+      "anchored_artifacts": [
+        "A-1644.1"
+      ],
+      "related_nodes": [
+        "N-747",
+        "N-1496"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:36",
+      "investigative_direction": "Verify through Allen Independent School District alumni records and the social media poster's identity."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2134",
+      "ref": "C-2134",
+      "label": "Dan Flood resides in New Braunfels Texas",
+      "claim": "Host states it as a confirmable fact that Dan Flood lives in New Braunfels, Texas.",
+      "anchored_artifacts": [
+        "A-1644.1"
+      ],
+      "related_nodes": [
+        "N-747",
+        "N-1497"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:43",
+      "investigative_direction": "Verify through address records, property records, or voter registration."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2135",
+      "ref": "C-2135",
+      "label": "Dan Flood previously worked security for a Dallas billionaire at the Cattleman's Ball",
+      "claim": "The childhood friend's social media post states he last saw Dan Flood \"doing security for some Dallas billionaire at the Cattleman's Ball.\"",
+      "anchored_artifacts": [
+        "A-1644.1"
+      ],
+      "related_nodes": [
+        "N-747",
+        "N-1496",
+        "N-752"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:36",
+      "investigative_direction": "Identify the billionaire referenced and verify through security firm records or event vendor lists."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2136",
+      "ref": "C-2136",
+      "label": "Bobby Harpole was born in Denton Texas",
+      "claim": "Bobby Harpole states in his 2018 interview, \"I was born in Denton, Texas.\"",
+      "anchored_artifacts": [
+        "A-1645.1"
+      ],
+      "related_nodes": [
+        "N-750",
+        "N-1496"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:02",
+      "investigative_direction": "Verify through public records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2137",
+      "ref": "C-2137",
+      "label": "Bobby Harpole began his law enforcement career in 1968 with the Texas Department of Public Safety",
+      "claim": "Bobby Harpole states he began his law enforcement career in 1968 with the Texas Department of Public Safety.",
+      "anchored_artifacts": [
+        "A-1645.1"
+      ],
+      "related_nodes": [
+        "N-750",
+        "N-1496"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:02",
+      "investigative_direction": "Verify through TDPS historical employment records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2138",
+      "ref": "C-2138",
+      "label": "Bobby Harpole retired from TDPS as a sergeant in highway patrol",
+      "claim": "Bobby Harpole states he retired from TDPS as a sergeant in highway patrol.",
+      "anchored_artifacts": [
+        "A-1645.1"
+      ],
+      "related_nodes": [
+        "N-750",
+        "N-1496"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:02",
+      "investigative_direction": "Verify through TDPS records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2139",
+      "ref": "C-2139",
+      "label": "Bobby Harpole served 12 years at the Erath County Sheriff's Office and retired as captain",
+      "claim": "Bobby Harpole states he served 12 years at the Erath County Sheriff's Office and retired as captain.",
+      "anchored_artifacts": [
+        "A-1645.1"
+      ],
+      "related_nodes": [
+        "N-750",
+        "N-1496"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:02",
+      "investigative_direction": "Verify through Erath County Sheriff's Office records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2140",
+      "ref": "C-2140",
+      "label": "Turning Point USA sent a cease-and-desist letter to Zack Gregorio at the Wolves and Finance YouTube channel",
+      "claim": "TPUSA sent a \"Demand to cease and desist defamatory comments\" letter to Zack Gregorio of Wolves and Finance; the letter is displayed and read aloud in the episode.",
+      "anchored_artifacts": [
+        "A-1648.1",
+        "A-1648.2"
+      ],
+      "related_nodes": [
+        "N-753"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:21",
+      "investigative_direction": "Confirm through legal records, TPUSA communications, and Gregorio's public statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2141",
+      "ref": "C-2141",
+      "label": "TPUSA cease-and-desist letter states UVU prohibited TPUSA security drones but allowed a media production drone for B-roll",
+      "claim": "The cease-and-desist letter states UVU prohibited TPUSA from flying drones for security purposes during the event but did allow a Turning Point USA media production drone to briefly fly over the location before the event to collect limited B-roll footage.",
+      "anchored_artifacts": [
+        "A-1648.1"
+      ],
+      "related_nodes": [
+        "N-1498"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:10",
+      "investigative_direction": "Reconcile this letter content with Andrew Kovat's earlier statement (A-1649.1) and Frank Turk's earlier statement regarding drone footage viewed with Charlie Kirk."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2142",
+      "ref": "C-2142",
+      "label": "TPUSA official response states Erica Kirk only visited China for 2 weeks and never lived there",
+      "claim": "Per host's paraphrase of an emailed TPUSA official response, Erica Kirk never lived in China and simply visited for 2 weeks.",
+      "anchored_artifacts": [
+        "A-1650.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1499"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:01",
+      "investigative_direction": "Obtain the original TPUSA email in writing and reconcile with the contradiction presented in C-2143 and C-2144."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2143",
+      "ref": "C-2143",
+      "label": "Charlie Kirk publicly stated his wife lived in China for 6 months",
+      "claim": "In the debate clip with Ben Corollo, Charlie Kirk states \"Unlike you, my wife lived in China for 6 months and she'll show you the videos.\"",
+      "anchored_artifacts": [
+        "A-1650.3"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-761",
+        "N-1499"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:51",
+      "investigative_direction": "Verify against the full debate transcript/recording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2144",
+      "ref": "C-2144",
+      "label": "Erica Kirk publicly stated she was living in China working with victims of sex trafficking through her Everyday Heroes Like You charity",
+      "claim": "In the on-air clip, Erica Kirk states she was \"living in China and doing a lot of work with victims from sex trafficking\" via Everyday Heroes Like You.",
+      "anchored_artifacts": [
+        "A-1650.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1499"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:02",
+      "investigative_direction": "Identify the specific China-based charity and verify scope and duration of her work."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2145",
+      "ref": "C-2145",
+      "label": "Cornerstone Chapel announced a January 21 event on antisemitism featuring Rob McCoy and Samuel Smaja",
+      "claim": "A Cornerstone Chapel video announcement by Pastor Gary Ham promotes a January 21 service on antisemitism in conservative politics, naming Candace Owens and Tucker Carlson, with guests Rob McCoy (Turning Point Faith) and Samuel Smaja (Israeli businessman).",
+      "anchored_artifacts": [
+        "A-1651.1"
+      ],
+      "related_nodes": [
+        "N-758",
+        "N-759",
+        "N-760",
+        "N-1500"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:31",
+      "investigative_direction": "Verify the event actually occurred and document any public response."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2146",
+      "ref": "C-2146",
+      "label": "Israel announced it will honor Charlie Kirk with an award for opposing antisemitism",
+      "claim": "Per Fox News article referenced by host, Israel will honor the late Charlie Kirk with an award for opposing antisemitism.",
+      "anchored_artifacts": [
+        "A-1652.1"
+      ],
+      "related_nodes": [
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:24",
+      "investigative_direction": "Verify through Israeli government or embassy announcements and locate the original Fox News article."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2147",
+      "ref": "C-2147",
+      "label": "Per a viewer comment, Dan Flood provided security at a Charlie Kirk Day event where Kash Patel was present",
+      "claim": "Viewer \"Moderator Marzy\" comment states Dan Flood \"was still providing security\" at a Charlie Kirk Day event and that Kash Patel was invited.",
+      "anchored_artifacts": [
+        "A-1653.1"
+      ],
+      "related_nodes": [
+        "N-747",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:39",
+      "investigative_direction": "Verify event attendance, security staffing, and Kash Patel's participation through official event records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2148",
+      "ref": "C-2148",
+      "label": "The FBI Agent Association (FBIA) is a charity founded in 1981 with 14,000 current and former FBI special agents",
+      "claim": "Per the FBIA website description read aloud, the FBIA was founded in 1981 and consists of 14,000 current and former FBI special agents.",
+      "anchored_artifacts": [
+        "A-1647.1"
+      ],
+      "related_nodes": [
+        "N-748"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:23",
+      "investigative_direction": "Verify through FBIA official publications, IRS Form 990 filings, and the organization's own historical records."
+    }
+  ],
+  "memes": []
+}

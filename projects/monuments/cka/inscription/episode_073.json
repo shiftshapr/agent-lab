@@ -1,0 +1,847 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 73,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "8f80e2001a9824772c29ee4b15829f4b6f2f155a2e3a272ffadb38688bd0e842",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1772",
+      "family_ref": "A-1772",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1772.1",
+          "ref": "A-1772.1",
+          "description": "Loomer X post calling for Erika Kirk to sue Candace Owens",
+          "related_claims": [
+            "C-2366"
+          ],
+          "related_nodes": [
+            "N-934",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1773",
+      "family_ref": "A-1773",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1773.1",
+          "ref": "A-1773.1",
+          "description": "Charlie Kirk Show home studio frame showing wedding photo in background",
+          "related_claims": [
+            "C-2364",
+            "C-2365"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-1577"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:08",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1774",
+      "family_ref": "A-1774",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1774.1",
+          "ref": "A-1774.1",
+          "description": "Segment: Erika Kirk seated at Charlie's home office desk, looking at items; wedding photo absent from background",
+          "related_claims": [
+            "C-2365",
+            "C-2367"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-938",
+            "N-1577"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:44",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1774.2",
+          "ref": "A-1774.2",
+          "description": "Segment: Erika Kirk denying Charlie sent messages that \"they're going to get me\"; asserting she possesses his cell phone",
+          "related_claims": [
+            "C-2369",
+            "C-2377"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-938",
+            "N-1578"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:54",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1775",
+      "family_ref": "A-1775",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1775.1",
+          "ref": "A-1775.1",
+          "description": "Segment: Erika describing the night before — 2:45 a.m. wake-up, snack, daughter's room swap, Charlie retrieving wedding ring and necklace from bathroom the next morning",
+          "related_claims": [
+            "C-2368"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-937",
+            "N-1",
+            "N-1580"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1775.2",
+          "ref": "A-1775.2",
+          "description": "Segment: Jesse Watters asking \"Tell me about the day before the shooting\"; Erika's edited response mentioning priest/dinner, death threats, Erika's mother in Phoenix, Charlie saying \"Home needs you\"",
+          "related_claims": [
+            "C-2368"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-937",
+            "N-1580"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:51",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1776",
+      "family_ref": "A-1776",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1776.1",
+          "ref": "A-1776.1",
+          "description": "Segment: Question to Rabbi on whether anti-Zionism is anti-Semitism under IHRA definition",
+          "related_claims": [
+            "C-2371"
+          ],
+          "related_nodes": [
+            "N-935"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1776.2",
+          "ref": "A-1776.2",
+          "description": "Segment: Carrie Prejean Bowler stating \"I'm a Catholic and Catholics do not embrace Zionism\"",
+          "related_claims": [
+            "C-2371"
+          ],
+          "related_nodes": [
+            "N-935"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1777",
+      "family_ref": "A-1777",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1777.1",
+          "ref": "A-1777.1",
+          "description": "X post by Dan Patrick announcing Carrie Prejean Bowler's removal from the Religious Liberty Commission",
+          "related_claims": [
+            "C-2370"
+          ],
+          "related_nodes": [
+            "N-935",
+            "N-936"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1778",
+      "family_ref": "A-1778",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1778.1",
+          "ref": "A-1778.1",
+          "description": "Composite testimony from informants present at TPUSA halftime filming: pre-filmed in Fayetteville, GA over two days (Monday-Tuesday); ~180 audience members moved around the room; songs filmed 3-5 takes each except Gabby Barrett (2 takes); $250 stipends; Mediterranean food first day, tacos second; performers late; \"Matt\" producing; technical problems; 12-hour days; Kid Rock waited longest; Trump reportedly watching (\"little birdie\"); participants reportedly placed with random hotel roommates; NDAs expired 1 hour after show",
+          "related_claims": [
+            "C-2372",
+            "C-2373",
+            "C-2374",
+            "C-2376"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-940",
+            "N-1581"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1779",
+      "family_ref": "A-1779",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1779.1",
+          "ref": "A-1779.1",
+          "description": "Photograph of Donald Trump at Mar-a-Lago watching the Bad Bunny halftime show (not the TPUSA show)",
+          "related_claims": [
+            "C-2375"
+          ],
+          "related_nodes": [
+            "N-1581"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-939",
+      "ref": "N-939",
+      "name": "Node 939",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-934",
+      "ref": "N-934",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
+      "related_artifacts": [
+        "A-1772.1"
+      ],
+      "related_claims": [
+        "C-2366"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-935",
+      "ref": "N-935",
+      "name": "Carrie Prejean Bowler (name spelling uncertain; transcript varies: \"Prejean Bowler,\" \"Peen,\" \"Preene Bowler\")",
+      "type": "person",
+      "description": "Catholic activist and former Miss California; removed from the White House Religious Liberty Commission following a hearing where she challenged the IHRA definition of anti-Semitism.",
+      "related_artifacts": [
+        "A-1776.2",
+        "A-1777.1"
+      ],
+      "related_claims": [
+        "C-2370",
+        "C-2371"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-936",
+      "ref": "N-936",
+      "name": "Dan Patrick",
+      "type": "person",
+      "description": "Texas Lieutenant Governor; announced Carrie Prejean Bowler's removal from the Religious Liberty Commission on X.",
+      "related_artifacts": [
+        "A-1777.1"
+      ],
+      "related_claims": [
+        "C-2370"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-937",
+      "ref": "N-937",
+      "name": "Jesse Watters",
+      "type": "person",
+      "description": "Fox News host; interviewer in the Fox News interview clip of Erika Kirk discussed in this episode.",
+      "related_artifacts": [
+        "A-1775.1",
+        "A-1775.2"
+      ],
+      "related_claims": [
+        "C-2368"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-938",
+      "ref": "N-938",
+      "name": "Glenn Beck",
+      "type": "person",
+      "description": "Host of the December 12, 2025 interview in which Erika Kirk appeared in Charlie Kirk's home office.",
+      "related_artifacts": [
+        "A-1774.1",
+        "A-1774.2"
+      ],
+      "related_claims": [
+        "C-2365",
+        "C-2367",
+        "C-2369",
+        "C-2377"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-940",
+      "ref": "N-940",
+      "name": "\"Matt\" (TPUSA Halftime Show Producer)",
+      "type": "person",
+      "description": "First-name-only reference by an informant to the producer of the TPUSA All-American Halftime Show, who reportedly hyped the crowd and promised Trump viewership.",
+      "related_artifacts": [
+        "A-1778.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1577",
+      "ref": "N-1577",
+      "name": "Wedding Photo Disappearance Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: a wedding photo of Charlie and Erika Kirk was visible in the background of Charlie's home studio during the September 8, 2025 broadcast, but absent from the same background during Erika Kirk's December 12, 2025 Glenn Beck interview conducted from that office. Three competing explanations are advanced in the episode: (A) Andrew Kolvet moved it; (B) Erika moved it; (C) Charlie himself moved it on September 9, 2025.",
+      "related_artifacts": [
+        "A-1773.1",
+        "A-1774.1"
+      ],
+      "related_claims": [
+        "C-2364",
+        "C-2365",
+        "C-2367"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1578",
+      "ref": "N-1578",
+      "name": "Charlie Kirk Phone Access Question",
+      "type": "investigation_target",
+      "description": "Investigation target: Charlie Kirk's cell phone has not been publicly seized by law enforcement; Erika Kirk publicly claims to possess it. The episode asserts she used it as a prop during the Glenn Beck interview (\"And I have his cell phone\") to deny that Charlie sent pre-death messages.",
+      "related_artifacts": [
+        "A-1774.2"
+      ],
+      "related_claims": [
+        "C-2369",
+        "C-2377"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1579",
+      "ref": "N-1579",
+      "name": "Tyler Robinson Evidence Sufficiency Question",
+      "type": "investigation_target",
+      "description": "Investigation target: Candace Owens' standing claim, restated in this episode, that no public evidence has been produced tying Tyler Robinson to the assassination, and that the case serves as the \"final thing\" before broader institutional collapse concerns crystallize. (Inscribed only as a target; the claim itself is interpretive commentary and is not inscribed as a C-claim.)",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1580",
+      "ref": "N-1580",
+      "name": "September 9, 2025 Night Activity Reconstruction Question",
+      "type": "investigation_target",
+      "description": "Investigation target: reconciliation of competing accounts of what occurred the night before the assassination — specifically Erika's account (midnight Tokyo return, snack at 2:45 a.m., toddler bedroom swap, wedding ring removal, prayer with priest before tour); Candace Owens' speculation of an argument related to Charlie's pivot on Israel; and the absence of a clear daytime schedule for September 9, 2025.",
+      "related_artifacts": [
+        "A-1775.1",
+        "A-1775.2"
+      ],
+      "related_claims": [
+        "C-2368"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1581",
+      "ref": "N-1581",
+      "name": "TPUSA All-American Halftime Show Authenticity Question",
+      "type": "investigation_target",
+      "description": "Investigation target: questions raised in this episode about whether the TPUSA All-American Halftime Show functioned as a genuine live event versus a staged production using camera tricks, audience placement, multiple takes, and modest stipends; whether Erika Kirk's absence from filming is meaningful; and the counter-evidence that Trump was watching the official Bad Bunny halftime show at Mar-a-Lago.",
+      "related_artifacts": [
+        "A-1778.1",
+        "A-1779.1"
+      ],
+      "related_claims": [
+        "C-2372",
+        "C-2373",
+        "C-2374",
+        "C-2375",
+        "C-2376"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2364",
+      "ref": "C-2364",
+      "label": "Wedding photo visible in Charlie Kirk's home studio background on Sept 8, 2025",
+      "claim": "A wedding photo of Charlie and Erika Kirk was visible in the background of the Charlie Kirk Show home studio broadcast on September 8, 2025.",
+      "anchored_artifacts": [
+        "A-1773.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1577",
+        "N-939"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:08",
+      "investigative_direction": "Compare the September 8, 2025 broadcast frame against prior home-studio broadcasts to establish when the wedding photo first appeared and whether it was a permanent fixture."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2365",
+      "ref": "C-2365",
+      "label": "Wedding photo absent from same background during Dec 12, 2025 Glenn Beck interview",
+      "claim": "The wedding photo was absent from the background during Erika Kirk's December 12, 2025 Glenn Beck interview filmed from Charlie Kirk's home office — the same space where it was visible on September 8, 2025.",
+      "anchored_artifacts": [
+        "A-1774.1",
+        "A-1773.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-938",
+        "N-1577"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:44",
+      "investigative_direction": "Obtain the full Glenn Beck segment in higher resolution to confirm the absence; cross-reference any subsequent public appearances from the same office to determine whether the photo ever returned."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2366",
+      "ref": "C-2366",
+      "label": "Laura Loomer publicly called for Erika Kirk to sue Candace Owens",
+      "claim": "Laura Loomer posted on X stating \"It is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far.\"",
+      "anchored_artifacts": [
+        "A-1772.1"
+      ],
+      "related_nodes": [
+        "N-934",
+        "N-2",
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:14",
+      "investigative_direction": "Verify the post's existence on X, capture the timestamp, and document whether Erika or TPUSA responded."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2367",
+      "ref": "C-2367",
+      "label": "Erika Kirk claimed she had not been in Charlie's home office in a long time",
+      "claim": "During the December 12, 2025 Glenn Beck interview, Erika Kirk stated she had not been in Charlie's home office \"for a very long time.\"",
+      "anchored_artifacts": [
+        "A-1774.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-938",
+        "N-1577"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:44",
+      "investigative_direction": "Compare Erika's \"first time back\" framing against any other documented visits to the office in the intervening period; check the New York Times home tour piece for prior access claims."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2368",
+      "ref": "C-2368",
+      "label": "Erika stated Charlie removed his wedding ring the night before and retrieved it from the bathroom the next morning",
+      "claim": "During a Fox News interview, Erika Kirk stated that Charlie Kirk removed his wedding ring the night before his assassination, left it in the bathroom, and came back the next morning to put it on before leaving.",
+      "anchored_artifacts": [
+        "A-1775.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-937",
+        "N-1",
+        "N-1580"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:40",
+      "investigative_direction": "Obtain the original Fox News segment; check whether jewelry handling on the night before is corroborated by any other witness or by luggage/clothing evidence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2369",
+      "ref": "C-2369",
+      "label": "Erika denied that Charlie messaged people saying \"they're going to get me\"",
+      "claim": "During the December 12, 2025 Glenn Beck interview, Erika Kirk denied that Charlie Kirk had messaged people the day before saying \"I'm going to be murdered\" or \"they're coming after me.\"",
+      "anchored_artifacts": [
+        "A-1774.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-938",
+        "N-1578"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:54",
+      "investigative_direction": "Obtain and review the phone records/text messages cited by Candace Owens in prior episodes; cross-reference with the alleged Dan Flood iMessage account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2370",
+      "ref": "C-2370",
+      "label": "Carrie Prejean Bowler removed from Religious Liberty Commission",
+      "claim": "Carrie Prejean Bowler was removed from the White House Religious Liberty Commission, announced by Dan Patrick on X.",
+      "anchored_artifacts": [
+        "A-1777.1"
+      ],
+      "related_nodes": [
+        "N-935",
+        "N-936"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:48",
+      "investigative_direction": "Verify the official announcement and date; document the stated cause and any subsequent statement from Carrie Prejean Bowler."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2371",
+      "ref": "C-2371",
+      "label": "Carrie Prejean Bowler stated Catholics do not embrace Zionism at hearing",
+      "claim": "During the Religious Liberty Commission hearing, Carrie Prejean Bowler stated \"I'm a Catholic and Catholics do not embrace Zionism.\"",
+      "anchored_artifacts": [
+        "A-1776.2"
+      ],
+      "related_nodes": [
+        "N-935"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:14",
+      "investigative_direction": "Obtain the full hearing transcript and video; cross-reference against official Catholic teaching documents on Zionism."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2372",
+      "ref": "C-2372",
+      "label": "TPUSA halftime show was pre-filmed with camera tricks and ~180 audience members",
+      "claim": "Per informant testimony, the TPUSA All-American Halftime Show was pre-filmed in Fayetteville, GA over two days with approximately 180 audience members who were moved around the room between takes to make the venue appear fuller.",
+      "anchored_artifacts": [
+        "A-1778.1"
+      ],
+      "related_nodes": [
+        "N-1581"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:45",
+      "investigative_direction": "Confirm production location and dates through venue records; compare against TPUSA's own promotional claims about the event."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2373",
+      "ref": "C-2373",
+      "label": "TPUSA halftime show participants were paid $250 stipends",
+      "claim": "Per informant testimony, participants in the TPUSA halftime show were compensated with $250 stipends.",
+      "anchored_artifacts": [
+        "A-1778.1"
+      ],
+      "related_nodes": [
+        "N-1581"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:45",
+      "investigative_direction": "Cross-reference any 1099 or payment records; compare to industry-standard compensation for halftime show performers."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2374",
+      "ref": "C-2374",
+      "label": "Erika Kirk was reportedly not present at TPUSA halftime show filming",
+      "claim": "Per informant testimony, Erika Kirk was not present during the TPUSA halftime show filming over either of the two days.",
+      "anchored_artifacts": [
+        "A-1778.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1581"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:45",
+      "investigative_direction": "Confirm via TPUSA production schedules, attendee lists, or on-site photography whether Erika had any documented presence during filming."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2375",
+      "ref": "C-2375",
+      "label": "Trump was watching Bad Bunny halftime show at Mar-a-Lago during Super Bowl broadcast",
+      "claim": "A photograph shows Donald Trump at Mar-a-Lago during the Super Bowl broadcast with the Bad Bunny halftime show visible on a screen in the background — not the TPUSA show.",
+      "anchored_artifacts": [
+        "A-1779.1"
+      ],
+      "related_nodes": [
+        "N-1581"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:01",
+      "investigative_direction": "Confirm photograph provenance and timestamp; cross-reference with Trump's public schedule for the evening."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2376",
+      "ref": "C-2376",
+      "label": "Per informant testimony, songs required 3-5 takes each except Gabby Barrett's (2 takes)",
+      "claim": "Per informant testimony, songs at the TPUSA halftime show filming required 3 to 5 takes each, with the exception of Gabby Barrett who completed her performance in 2 takes.",
+      "anchored_artifacts": [
+        "A-1778.1"
+      ],
+      "related_nodes": [
+        "N-1581"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:45",
+      "investigative_direction": "Corroborate with any production logs, call sheets, or additional witness testimony."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2377",
+      "ref": "C-2377",
+      "label": "Erika Kirk publicly claimed during Glenn Beck interview to possess Charlie Kirk's cell phone",
+      "claim": "During the December 12, 2025 Glenn Beck interview, Erika Kirk stated \"And I have his cell phone\" in the context of denying that Charlie sent pre-death messages.",
+      "anchored_artifacts": [
+        "A-1774.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-938",
+        "N-1578"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:54",
+      "investigative_direction": "Determine whether Charlie Kirk's phone was ever in law enforcement custody and returned to Erika; subpoena carrier records for relevant period."
+    }
+  ],
+  "memes": []
+}

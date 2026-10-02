@@ -1,0 +1,1210 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 27,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "56c2be67383dd50f4d4f1df7be825f986b64cc63e651edf0162bdadcfd5d297b",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1345",
+      "family_ref": "A-1345",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1345.1",
+          "ref": "A-1345.1",
+          "description": "Grok-generated text summarizing the \"Candace\" podcast #1 global ranking",
+          "related_claims": [
+            "C-1617",
+            "C-1618"
+          ],
+          "related_nodes": [
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1346",
+      "family_ref": "A-1346",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1346.1",
+          "ref": "A-1346.1",
+          "description": "Erika Kirk audio excerpt on grief, C.S. Lewis's *A Grief Observed*, and stated absence of anger with God",
+          "related_claims": [
+            "C-1619"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-348"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1346.2",
+          "ref": "A-1346.2",
+          "description": "Erika Kirk audio excerpt responding to whether the caught individual pulled the trigger",
+          "related_claims": [
+            "C-1620",
+            "C-1621"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-348"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1346.3",
+          "ref": "A-1346.3",
+          "description": "Erika Kirk audio excerpt on Charlie's Saint Michael pendant",
+          "related_claims": [
+            "C-1622"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-348"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1346.4",
+          "ref": "A-1346.4",
+          "description": "Erika Kirk audio excerpt on circulating conspiracy theories and request for grace",
+          "related_claims": [
+            "C-1624"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-348"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1347",
+      "family_ref": "A-1347",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1347.1",
+          "ref": "A-1347.1",
+          "description": "Allie Beth Stuckey tweet disputing UVU event approval timeline",
+          "related_claims": [
+            "C-1625"
+          ],
+          "related_nodes": [
+            "N-349",
+            "N-1298"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1347.2",
+          "ref": "A-1347.2",
+          "description": "Allie Beth Stuckey follow-up tweet clarifying venue status",
+          "related_claims": [
+            "C-1626"
+          ],
+          "related_nodes": [
+            "N-349",
+            "N-1298"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:03",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1348",
+      "family_ref": "A-1348",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1348.1",
+          "ref": "A-1348.1",
+          "description": "Lila Rose tweet pair referencing Stanford and Yale speaking invitations",
+          "related_claims": [
+            "C-1627",
+            "C-1628"
+          ],
+          "related_nodes": [
+            "N-350",
+            "N-1298"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:49",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1349",
+      "family_ref": "A-1349",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1349.1",
+          "ref": "A-1349.1",
+          "description": "Alex Clark tweet defending Mikey McCoy's Korea/Japan trip",
+          "related_claims": [
+            "C-1629"
+          ],
+          "related_nodes": [
+            "N-351",
+            "N-352"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1349.2",
+          "ref": "A-1349.2",
+          "description": "Alex Clark tweet on not running ads on tribute episodes",
+          "related_claims": [
+            "C-1630"
+          ],
+          "related_nodes": [
+            "N-351"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1350",
+      "family_ref": "A-1350",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1350.1",
+          "ref": "A-1350.1",
+          "description": "Alyssa Cordova tweet referencing TPUSA/Blexit NDA speculation",
+          "related_claims": [
+            "C-1631"
+          ],
+          "related_nodes": [
+            "N-353",
+            "N-1301"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:55:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1351",
+      "family_ref": "A-1351",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1351.1",
+          "ref": "A-1351.1",
+          "description": "Dinesh D'Souza X post characterizing the show",
+          "related_claims": [
+            "C-1632"
+          ],
+          "related_nodes": [
+            "N-354"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:57:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1352",
+      "family_ref": "A-1352",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1352.1",
+          "ref": "A-1352.1",
+          "description": "Colby Sessions social media post identifying himself as the green-hoodie figure at the UVU event",
+          "related_claims": [
+            "C-1633"
+          ],
+          "related_nodes": [
+            "N-355",
+            "N-1302"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1353",
+      "family_ref": "A-1353",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1353.1",
+          "ref": "A-1353.1",
+          "description": "Backstage video at Ole Miss event showing a priest behind Jesse Watters and Erika Kirk",
+          "related_claims": [
+            "C-1623"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-348",
+            "N-1303"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1354",
+      "family_ref": "A-1354",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1354.1",
+          "ref": "A-1354.1",
+          "description": "Tom Paul viewer comment referencing Andrew Klavan on Alex Clark show regarding Charlie's heartbeat, plus reference to Erika–Charlie 2018 airport meeting in Israel",
+          "related_claims": [
+            "C-1634"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-351",
+            "N-356",
+            "N-1304",
+            "N-1305"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:59:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1354.2",
+          "ref": "A-1354.2",
+          "description": "Arm Hanna viewer comment on forgiveness requiring knowledge of what is being forgiven",
+          "related_claims": [
+            "C-1635"
+          ],
+          "related_nodes": [
+            "N-359"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "1:03:27",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-348",
+      "ref": "N-348",
+      "name": "Jesse Watters",
+      "type": "person",
+      "description": "Interviewer in the Fox News sit-down; visible in Ole Miss backstage video with Erika.",
+      "related_artifacts": [
+        "A-1346.1",
+        "A-1346.2",
+        "A-1346.3",
+        "A-1346.4",
+        "A-1353.1"
+      ],
+      "related_claims": [
+        "C-1623"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-349",
+      "ref": "N-349",
+      "name": "Allie Beth Stuckey",
+      "type": "person",
+      "description": "Author of two artifact-anchored tweets disputing host's UVU event-approval claim.",
+      "related_artifacts": [
+        "A-1347.1",
+        "A-1347.2"
+      ],
+      "related_claims": [
+        "C-1625",
+        "C-1626"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1298"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-350",
+      "ref": "N-350",
+      "name": "Lila Rose",
+      "type": "person",
+      "description": "Author of one artifact-anchored tweet pair referencing Stanford/Yale speaking events; relevance is to the UVU event-approval dispute.",
+      "related_artifacts": [
+        "A-1348.1"
+      ],
+      "related_claims": [
+        "C-1627",
+        "C-1628"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1298"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-351",
+      "ref": "N-351",
+      "name": "Alex Clark",
+      "type": "person",
+      "description": "Author of two artifact-anchored tweets; subject of Tom Paul comment referencing her show.",
+      "related_artifacts": [
+        "A-1349.1",
+        "A-1349.2",
+        "A-1354.1"
+      ],
+      "related_claims": [
+        "C-1629",
+        "C-1630",
+        "C-1634"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-352",
+        "N-1304"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-352",
+      "ref": "N-352",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Subject of Alex Clark's defense tweet (Korea/Japan trip) and host's standing concerns about his post-assassination public posture; named as having taken over Charlie's Liberty University speaking slot (per host commentary, not artifact-anchored in this episode).",
+      "related_artifacts": [
+        "A-1349.1"
+      ],
+      "related_claims": [
+        "C-1629"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-351"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-353",
+      "ref": "N-353",
+      "name": "Alyssa Cordova",
+      "type": "person",
+      "description": "Author of one artifact-anchored tweet referencing TPUSA/Blexit NDA speculation.",
+      "related_artifacts": [
+        "A-1350.1"
+      ],
+      "related_claims": [
+        "C-1631"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1301"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-354",
+      "ref": "N-354",
+      "name": "Dinesh D'Souza",
+      "type": "person",
+      "description": "Author of one artifact-anchored X post.",
+      "related_artifacts": [
+        "A-1351.1"
+      ],
+      "related_claims": [
+        "C-1632"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-355",
+      "ref": "N-355",
+      "name": "Colby Sessions (Name uncertainty: transcript also reads \"Coby Sessions\")",
+      "type": "person",
+      "description": "UVU student who self-identified as the \"green hoodie\" figure at the event; artifact resolves N-1302.",
+      "related_artifacts": [
+        "A-1352.1"
+      ],
+      "related_claims": [
+        "C-1633"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1302"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-356",
+      "ref": "N-356",
+      "name": "Andrew Klavan",
+      "type": "person",
+      "description": "Referenced in Tom Paul viewer comment as having discussed Charlie's heartbeat on the Alex Clark show.",
+      "related_artifacts": [
+        "A-1354.1"
+      ],
+      "related_claims": [
+        "C-1634"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1304"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-357",
+      "ref": "N-357",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Referenced by host as having stated on stage that Charlie was gone by the time he was in the car (host commentary only, not artifact-anchored in this episode).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1304"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-358",
+      "ref": "N-358",
+      "name": "Tom Paul",
+      "type": "person",
+      "description": "Author of substantive viewer comment (A-1354.1) referencing external commentary; tracked as source node.",
+      "related_artifacts": [
+        "A-1354.1"
+      ],
+      "related_claims": [
+        "C-1634"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-359",
+      "ref": "N-359",
+      "name": "Arm Hanna",
+      "type": "person",
+      "description": "Author of viewer comment (A-1354.2) reinforcing host's framing on forgiveness; tracked as source node.",
+      "related_artifacts": [
+        "A-1354.2"
+      ],
+      "related_claims": [
+        "C-1635"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1298",
+      "ref": "N-1298",
+      "name": "UVU Event Approval Timeline Discrepancy",
+      "type": "investigation_target",
+      "description": "Dispute over whether the UVU campus stop was \"approved\" in July or only \"requested,\" and over the typical timeline from request to event. Only Allie's side is artifact-anchored in this episode.",
+      "related_artifacts": [
+        "A-1347.1",
+        "A-1347.2",
+        "A-1348.1"
+      ],
+      "related_claims": [
+        "C-1625",
+        "C-1626",
+        "C-1627",
+        "C-1628"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-349",
+        "N-350"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1299",
+      "ref": "N-1299",
+      "name": "Autopsy Report and Evidence Access Asymmetry",
+      "type": "investigation_target",
+      "description": "Erika Kirk's stated direct access to the autopsy report and \"different evidence portions,\" contrasted with the public record of fragmented disclosures.",
+      "related_artifacts": [
+        "A-1346.2"
+      ],
+      "related_claims": [
+        "C-1621"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1300",
+      "ref": "N-1300",
+      "name": "Saint Michael Pendant / Charlie Catholic-Curious Status",
+      "type": "investigation_target",
+      "description": "Whether Charlie Kirk was on a spiritual journey toward Catholicism at the time of his death. Erika Kirk's interview confirms the Saint Michael pendant and its personal significance; Allie Beth Stuckey's referenced private text exchange (mentioned in this episode but not displayed) is the principal counter-claim.",
+      "related_artifacts": [
+        "A-1346.3",
+        "A-1353.1"
+      ],
+      "related_claims": [
+        "C-1622",
+        "C-1623"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1301",
+      "ref": "N-1301",
+      "name": "TPUSA / Candace Owens NDA and Blexit Question",
+      "type": "investigation_target",
+      "description": "Alyssa Cordova's speculation that an NDA exists between TPUSA and Candace Owens via the Blexit business arrangement.",
+      "related_artifacts": [
+        "A-1350.1"
+      ],
+      "related_claims": [
+        "C-1631"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-353"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1302",
+      "ref": "N-1302",
+      "name": "UVU Green Hoodie Person Identification (Resolved)",
+      "type": "investigation_target",
+      "description": "Colby Sessions publicly identified himself as the figure in the green hoodie at the UVU event, apparently closing the speculative inquiry.",
+      "related_artifacts": [
+        "A-1352.1"
+      ],
+      "related_claims": [
+        "C-1633"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-355"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1303",
+      "ref": "N-1303",
+      "name": "Priest Presence at Ole Miss Event",
+      "type": "investigation_target",
+      "description": "Host observation of a priest in backstage video at the University of Mississippi event alongside Watters and Kirk; also referenced as the same priest who accompanied Erika to the hospital after the shooting.",
+      "related_artifacts": [
+        "A-1353.1"
+      ],
+      "related_claims": [
+        "C-1623"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-348",
+        "N-1300"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1304",
+      "ref": "N-1304",
+      "name": "Charlie's Heart Still Beating Question",
+      "type": "investigation_target",
+      "description": "Tom Paul's viewer-mediated reference to Andrew Klavan's claim on the Alex Clark show that Charlie's heart was still beating, juxtaposed against statements that he died instantly / went instantly to heaven.",
+      "related_artifacts": [
+        "A-1354.1"
+      ],
+      "related_claims": [
+        "C-1634"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-356",
+        "N-351",
+        "N-2",
+        "N-357"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1305",
+      "ref": "N-1305",
+      "name": "Erika–Charlie 2018 Israel Airport Meeting Question",
+      "type": "investigation_target",
+      "description": "Tom Paul's reference to Erika first seeing Charlie at an airport in Israel in May 2018 with her mom; host recalls possibly the embassy opening but expresses uncertainty.",
+      "related_artifacts": [
+        "A-1354.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1617",
+      "ref": "C-1617",
+      "label": "Grok Summary Asserts Podcast #1 Global Ranking per Podscribe",
+      "claim": "A Grok-generated summary states that the \"Candace\" podcast reached the top global ranking per Podscribe data, following the 2024 Daily Wire departure, and attributes growth to criticism, the Macron defamation lawsuit, team resilience, and divine intervention.",
+      "anchored_artifacts": [
+        "A-1345.1"
+      ],
+      "related_nodes": [
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:10",
+      "investigative_direction": "Cross-check Podscribe ranking data independently; verify whether Grok's characterizations of growth causation match primary data."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1618",
+      "ref": "C-1618",
+      "label": "Host Concurs Grok Summary is Fact-Checked and True",
+      "claim": "The host asserts the Grok summary is \"fact-checked\" and that all of it is \"very true.\"",
+      "anchored_artifacts": [
+        "A-1345.1"
+      ],
+      "related_nodes": [
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:10",
+      "investigative_direction": "Identify which elements of the Grok summary the host is endorsing as primary fact versus host editorialization."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1619",
+      "ref": "C-1619",
+      "label": "Erika Kirk States She Has Not Been Angry with God",
+      "claim": "Erika Kirk, in the Fox News interview, states that she has never felt anger toward God over Charlie's death, in contrast to C. S. Lewis in *A Grief Observed*.",
+      "anchored_artifacts": [
+        "A-1346.1"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:12",
+      "investigative_direction": "Verify against full unedited interview audio; identify whether additional context was cut from the broadcast."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1620",
+      "ref": "C-1620",
+      "label": "Erika Kirk Does Not Give Direct Yes/No on Whether Caught Individual Is Sole Killer",
+      "claim": "When asked directly whether the person in custody pulled the trigger, Erika Kirk responds by stating she trusts her team and has seen the autopsy report, declining a straight yes or no.",
+      "anchored_artifacts": [
+        "A-1346.2"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:21",
+      "investigative_direction": "Obtain unedited interview transcript; assess whether the non-direct answer is consistent across additional Erika Kirk public statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1621",
+      "ref": "C-1621",
+      "label": "Erika Kirk States She Has Seen the Autopsy Report and Evidence Portions",
+      "claim": "Erika Kirk states she has seen the autopsy report and various \"evidence portions\" that have been collected.",
+      "anchored_artifacts": [
+        "A-1346.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1299"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:21",
+      "investigative_direction": "Identify the legal pathway by which a non-lawyer spouse obtains access to autopsy and evidence; cross-check public statements by prosecutors and defense counsel."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1622",
+      "ref": "C-1622",
+      "label": "Erika Kirk Describes Charlie's Saint Michael Pendant as His \"Armor\"",
+      "claim": "Erika Kirk states that Charlie loved Saint Michael and that, every time he put on the pendant, he felt it was his armor.",
+      "anchored_artifacts": [
+        "A-1346.3"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1300"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:16",
+      "investigative_direction": "Obtain photographs of the pendant from TPUSA or family sources; verify the metals described (\"bronze\" with later additions)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1623",
+      "ref": "C-1623",
+      "label": "Priest Visible in Backstage Video at Ole Miss Event Behind Jesse Watters and Erika Kirk",
+      "claim": "A figure in clerical attire appears in the background of backstage video at the University of Mississippi event featuring Jesse Watters and Erika Kirk; host identifies this as the same priest who accompanied Erika to the hospital after the shooting.",
+      "anchored_artifacts": [
+        "A-1353.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-348",
+        "N-1303",
+        "N-1300"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:23",
+      "investigative_direction": "Obtain original footage to identify the priest and any associated institution."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1624",
+      "ref": "C-1624",
+      "label": "Erika Kirk Requests Grace for Those Present on Day of Assassination",
+      "claim": "Erika Kirk publicly requests grace for those who were present the day Charlie was assassinated, citing AI-generated fake images and concerns about her children's future internet exposure.",
+      "anchored_artifacts": [
+        "A-1346.4"
+      ],
+      "related_nodes": [
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:32",
+      "investigative_direction": "Catalog the specific AI-generated image claims Erika references; assess the platform-level response to date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1625",
+      "ref": "C-1625",
+      "label": "Allie Beth Stuckey Asserts UVU Event Was Requested, Not Approved, in July",
+      "claim": "Allie Beth Stuckey tweets that the UVU campus stop was \"requested in July\" rather than \"approved in July,\" and that Charlie texted her at the end of August about a November campus event approximately 2 months out.",
+      "anchored_artifacts": [
+        "A-1347.1"
+      ],
+      "related_nodes": [
+        "N-349",
+        "N-1298"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:13",
+      "investigative_direction": "Obtain Allie's underlying text message exchange with Charlie to verify the quoted framing; cross-reference against host's previously displayed email."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1626",
+      "ref": "C-1626",
+      "label": "Allie Beth Stuckey Follows Up That Venue Was Confirmed Two Months Out",
+      "claim": "Allie Beth Stuckey follows up that \"no venue yet, 2 months out\" was the status of the event at the time of her texts.",
+      "anchored_artifacts": [
+        "A-1347.2"
+      ],
+      "related_nodes": [
+        "N-349",
+        "N-1298"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:03",
+      "investigative_direction": "Obtain the underlying text thread to verify Allie's characterization of venue status."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1627",
+      "ref": "C-1627",
+      "label": "Lila Rose Reports Stanford Event Was to Be Set Up in Three Weeks",
+      "claim": "Lila Rose tweets that she was asked to speak at Stanford with the event to be set up within 3 weeks; she notes the event did not materialize.",
+      "anchored_artifacts": [
+        "A-1348.1"
+      ],
+      "related_nodes": [
+        "N-350",
+        "N-1298"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:49",
+      "investigative_direction": "Verify Lila Rose's Stanford invitation claim against the host's stated Stanford event-planning baseline."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1628",
+      "ref": "C-1628",
+      "label": "Lila Rose Reports Yale Debate Was Planned Within Two Months",
+      "claim": "Lila Rose tweets that a recent Yale debate she participated in was planned within 2 months.",
+      "anchored_artifacts": [
+        "A-1348.1"
+      ],
+      "related_nodes": [
+        "N-350",
+        "N-1298"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:49",
+      "investigative_direction": "Identify the Yale debate date and verify against Yale Political Union scheduling records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1629",
+      "ref": "C-1629",
+      "label": "Alex Clark Attributes Mikey McCoy's Korea/Japan Trip to Production Director's Request",
+      "claim": "Alex Clark tweets that Mikey McCoy went to Korea and Japan at the request of TPUSA's production director, who had six children and missed his kids while traveling.",
+      "anchored_artifacts": [
+        "A-1349.1"
+      ],
+      "related_nodes": [
+        "N-351",
+        "N-352"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:46",
+      "investigative_direction": "Identify the named production director and verify travel scheduling records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1630",
+      "ref": "C-1630",
+      "label": "Alex Clark States She Did Not Run Ad Sponsorships on Charlie Tribute Episodes",
+      "claim": "Alex Clark tweets that on every Charlie tribute episode, she did not run her ad sponsorships, resulting in her team being in debt to her sponsors.",
+      "anchored_artifacts": [
+        "A-1349.2"
+      ],
+      "related_nodes": [
+        "N-351"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:47",
+      "investigative_direction": "Verify whether Alex Clark's tribute episodes were ad-free across all tribute outputs, not selectively."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1631",
+      "ref": "C-1631",
+      "label": "Alyssa Cordova Suggests NDA Exists Between TPUSA and Candace via Blexit",
+      "claim": "Alyssa Cordova tweets speculation that non-disparagement agreements may be in place between Turning Point USA and Candace Owens due to TPUSA's business arrangement with Blexit.",
+      "anchored_artifacts": [
+        "A-1350.1"
+      ],
+      "related_nodes": [
+        "N-353",
+        "N-1301"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:21",
+      "investigative_direction": "Confirm or refute the existence of any such NDA through document disclosure or direct party confirmation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1632",
+      "ref": "C-1632",
+      "label": "Dinesh D'Souza Characterizes the Show as \"Freak Show… Bowling\"",
+      "claim": "Dinesh D'Souza posts on X that \"anyone who follows this freak show is doing it for the entertainment. This is not political commentary. It's bowling.\"",
+      "anchored_artifacts": [
+        "A-1351.1"
+      ],
+      "related_nodes": [
+        "N-354"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:25",
+      "investigative_direction": "Capture original post timestamp and any subsequent D'Souza commentary on the investigation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1633",
+      "ref": "C-1633",
+      "label": "Colby Sessions Publicly Identifies Himself as the Green-Hoodie Figure at the UVU Event",
+      "claim": "Colby Sessions posts a social media message identifying himself as the person seen wearing the green hoodie at the UVU event, explaining he and a teammate were on campus to get food and stop by.",
+      "anchored_artifacts": [
+        "A-1352.1"
+      ],
+      "related_nodes": [
+        "N-355",
+        "N-1302"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:41",
+      "investigative_direction": "Verify Colby Sessions's UVU student status and the existence of the underlying social media post."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1634",
+      "ref": "C-1634",
+      "label": "Tom Paul Viewer Comment References Andrew Klavan Discussing Charlie's Heartbeat on Alex Clark Show",
+      "claim": "A viewer (Tom Paul) reports that Andrew Klavan, on the Alex Clark show, discussed how Charlie's heart was still beating, posing a question about how Charlie could have \"instantly gone to heaven\" if he had a pulse.",
+      "anchored_artifacts": [
+        "A-1354.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-351",
+        "N-356",
+        "N-1304",
+        "N-358"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:56",
+      "investigative_direction": "Locate the specific Alex Clark show episode and Andrew Klavan segment to verify the exact framing and any offered explanation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1635",
+      "ref": "C-1635",
+      "label": "Arm Hanna Viewer Comment Endorses Host's Forgiveness Framing",
+      "claim": "A viewer (Arm Hanna) endorses the host's earlier statement that one cannot forgive until one knows what one is forgiving.",
+      "anchored_artifacts": [
+        "A-1354.2"
+      ],
+      "related_nodes": [
+        "N-359"
+      ],
+      "tags": [],
+      "claim_timestamp": "1:03:27",
+      "investigative_direction": "None — viewer opinion, not an investigative target."
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,1763 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 121,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "3d4ae642f2e941bfd1fa196ba14e9aaeb18407acfcfbcad82179e0cc50d07169",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode focuses on three evidentiary threads. First, viewer-sourced analysis of broken glass shards recovered from the SUV backseat floor is presented: a viewer email identifies a USB icon on a shard, aligning it with the Rode Road Mic used by Charlie Kirk. The host treats this as supporting the \"rigged microphone\" theory. Second, Brian Harpole's account of the hospital transport and ER events is dissected for internal contradictions: the open car door at high speed, 36 ft of dressing on a six-minute ride, his claim to have jumped on the gurney to cut Charlie's shirt, and his description of Frank Turek praying in the backseat. Third, the Daily Wire's reported $100M strategic investment and IPO push is summarized from a Semafor article, paired with audio from Dave Rubin's appearance on Jubilee showing him unable to defend Trump economic metrics and asserting the Gaza war is over.\n\nThe episode also includes discussion of Frank Turek's stated change into scrubs, blood-mustle in the backseat photos, a viewer email from a source described as high-ranking in a police department regarding DA authorization for releasing evidence to Erika Kirk, and additional commentary on the dissociative identity disorder (DID) theory applied to Erika Kirk, citing NHS website text. The episode advances the investigative questions of whether Charlie's shirt was cut in the car rather than in the ER, whether explosive residue evidence was destroyed through the disposal of clothing, and how various attendees ended up in scrubs.\n\nStructurally, this is an evidentiary accumulation episode: it cross-examines Brian Harpole's story using viewer-sourced medical expert comments, car interior photos, and Tara Farnsworth footage. It also serves as a venue for discussing the Daily Wire's financial decline as a secondary topic with no direct connection to the Kirk case.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2093",
+      "family_ref": "A-2093",
+      "bundle_name": "Viewer Email Bundle (USB identification)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2093.1",
+          "ref": "A-2093.1",
+          "description": "Email from viewer in France identifying USB logo on glass shard",
+          "related_claims": [
+            "C-2945"
+          ],
+          "related_nodes": [
+            "N-2080"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:31–00:03:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2094",
+      "family_ref": "A-2094",
+      "bundle_name": "Brian Harpole Interview Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2094.1",
+          "ref": "A-2094.1",
+          "description": "Brian Harpole describes jumping on Charlie in ER to cut shirt",
+          "related_claims": [
+            "C-2946"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2081"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:20–00:07:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2094.2",
+          "ref": "A-2094.2",
+          "description": "Brian Harpole describes door open, 60–80–100 mph, Rick holding him, Frank praying",
+          "related_claims": [
+            "C-2947",
+            "C-2948",
+            "C-2950",
+            "C-2951"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208",
+            "N-1209",
+            "N-2084"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:31–00:12:26",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2094.3",
+          "ref": "A-2094.3",
+          "description": "Brian Harpole describes medical supplies used (36 ft dressing, 4x4s, hemostatic 4x4s)",
+          "related_claims": [
+            "C-2949"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2093"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:09–00:13:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2094.4",
+          "ref": "A-2094.4",
+          "description": "Brian Harpole describes opening hemostatic gauze packs with his mouth and packing procedure",
+          "related_claims": [
+            "C-2957"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2093"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:21–00:15:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2095",
+      "family_ref": "A-2095",
+      "bundle_name": "Frank Turek Interview Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2095.1",
+          "ref": "A-2095.1",
+          "description": "Frank Turek explains changing into scrubs at hospital to avoid Erika seeing blood",
+          "related_claims": [
+            "C-2952",
+            "C-2953"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2086"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:14–00:29:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2096",
+      "family_ref": "A-2096",
+      "bundle_name": "Car Interior Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2096.1",
+          "ref": "A-2096.1",
+          "description": "Car backseat floor photo showing one quick clot dressing pack and shards",
+          "related_claims": [
+            "C-2957"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-2083"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:18–00:16:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2096.2",
+          "ref": "A-2096.2",
+          "description": "Car backseat photo with blood wipe marks on leather",
+          "related_claims": [
+            "C-2955"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-2083"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:17–00:23:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2096.3",
+          "ref": "A-2096.3",
+          "description": "Brown paper / Uber bag with blood marks",
+          "related_claims": [
+            "C-2956"
+          ],
+          "related_nodes": [
+            "N-2083"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:50–00:23:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2096.4",
+          "ref": "A-2096.4",
+          "description": "Shard close-up rotated to show USB logo alignment with Rode promo image",
+          "related_claims": [
+            "C-2945"
+          ],
+          "related_nodes": [
+            "N-2080"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2097",
+      "family_ref": "A-2097",
+      "bundle_name": "Medical Dressing Image Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2097.1",
+          "ref": "A-2097.1",
+          "description": "Image of 4x4 EMS quick clot dressing pack (online product image)",
+          "related_claims": [
+            "C-2957"
+          ],
+          "related_nodes": [
+            "N-2093"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2098",
+      "family_ref": "A-2098",
+      "bundle_name": "Dave Rubin Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2098.1",
+          "ref": "A-2098.1",
+          "description": "Dave Rubin tweet about Daily Wire: \"Coming soon from Daily Wire, Megan and Tucker tears to Tumblr\" with link to strategic investment story",
+          "related_claims": [
+            "C-2959"
+          ],
+          "related_nodes": [
+            "N-1213",
+            "N-2087"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:04–00:41:49",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2099",
+      "family_ref": "A-2099",
+      "bundle_name": "Dave Rubin Jubilee Debate Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2099.1",
+          "ref": "A-2099.1",
+          "description": "Dave Rubin clip on Trump economic metrics (unable to name one)",
+          "related_claims": [
+            "C-2961"
+          ],
+          "related_nodes": [
+            "N-1213"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:45–00:39:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2099.2",
+          "ref": "A-2099.2",
+          "description": "Dave Rubin clip on Israel/Gaza stating war is over and hostages are home",
+          "related_claims": [
+            "C-2962"
+          ],
+          "related_nodes": [
+            "N-1213"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:17–00:40:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2100",
+      "family_ref": "A-2100",
+      "bundle_name": "Semafor Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2100.1",
+          "ref": "A-2100.1",
+          "description": "Semafor article on Daily Wire strategic investment, IPO target, $50M Pendragon disclosure",
+          "related_claims": [
+            "C-2958",
+            "C-2963"
+          ],
+          "related_nodes": [
+            "N-1214",
+            "N-1215",
+            "N-2087"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:49–00:43:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2100.2",
+          "ref": "A-2100.2",
+          "description": "Semafor chart showing Daily Wire revenue and subscriber decline",
+          "related_claims": [
+            "C-2960"
+          ],
+          "related_nodes": [
+            "N-2087"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2101",
+      "family_ref": "A-2101",
+      "bundle_name": "NHS Website Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2101.1",
+          "ref": "A-2101.1",
+          "description": "NHS website text describing dissociative disorders and observable physical eye changes (read aloud via viewer email)",
+          "related_claims": [
+            "C-2966"
+          ],
+          "related_nodes": [
+            "N-2088"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:26–00:35:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2102",
+      "family_ref": "A-2102",
+      "bundle_name": "Read-Aloud Comments and Emails Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2102.1",
+          "ref": "A-2102.1",
+          "description": "Judith Bronco comment (retired ER nurse) — Brian Harpole's ER story implausible",
+          "related_claims": [
+            "C-2964"
+          ],
+          "related_nodes": [
+            "N-1223",
+            "N-1207",
+            "N-2081"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:15–00:51:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2102.2",
+          "ref": "A-2102.2",
+          "description": "Gina Schubert comment (22-year nurse) — Brian Harpole's ER story did not happen",
+          "related_claims": [
+            "C-2965"
+          ],
+          "related_nodes": [
+            "N-1224",
+            "N-1207",
+            "N-2081"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:57",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2102.3",
+          "ref": "A-2102.3",
+          "description": "Anonymous high-ranking police source email re: DA authorization for evidence release",
+          "related_claims": [
+            "C-2967"
+          ],
+          "related_nodes": [
+            "N-1222",
+            "N-2089"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:00–00:52:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2102.4",
+          "ref": "A-2102.4",
+          "description": "Marlos comment (Catholic Lebanese in Australia)",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:54:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2102.5",
+          "ref": "A-2102.5",
+          "description": "Ashley comment re: cousin Mia's impression of Erika",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:54:25–00:54:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2102.6",
+          "ref": "A-2102.6",
+          "description": "Jungle Mike comment re: \"Shabbat Shalom, daddy's home\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:54:40–00:55:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2102.7",
+          "ref": "A-2102.7",
+          "description": "Joseph comment (ora pro nobis)",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:55:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2102.8",
+          "ref": "A-2102.8",
+          "description": "Moderator Marci comment re: Elizabeth Holmes comparison",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1219"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:55:50–00:57:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2102.9",
+          "ref": "A-2102.9",
+          "description": "Comment re: police car observation (someone appearing to jump out)",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2084"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:57:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2102.10",
+          "ref": "A-2102.10",
+          "description": "Palladian comment disputing DID theory",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2088"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:58:33–00:59:03",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2103",
+      "family_ref": "A-2103",
+      "bundle_name": "Tara Farnsworth Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2103.1",
+          "ref": "A-2103.1",
+          "description": "Tara Farnsworth video showing Frank Turek entering SUV through trunk",
+          "related_claims": [
+            "C-2954"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-1217",
+            "N-2083"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:32–00:20:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Witness to hospital transport and ER events; central subject of multiple contradiction and verification targets.",
+      "related_artifacts": [
+        "A-2094.1",
+        "A-2094.2",
+        "A-2094.3",
+        "A-2094.4",
+        "A-2096.1",
+        "A-2102.1",
+        "A-2102.2"
+      ],
+      "related_claims": [
+        "C-2946",
+        "C-2947",
+        "C-2948",
+        "C-2949",
+        "C-2950",
+        "C-2951",
+        "C-2957",
+        "C-2964",
+        "C-2965"
+      ],
+      "tags": [],
+      "evidence_count": 7,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2081",
+        "N-2093"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Witness to hospital transport and post-incident events; subject of clothing-disposal and CPR-claim verification.",
+      "related_artifacts": [
+        "A-2094.2",
+        "A-2095.1",
+        "A-2096.2",
+        "A-2103.1"
+      ],
+      "related_claims": [
+        "C-2950",
+        "C-2952",
+        "C-2953",
+        "C-2954",
+        "C-2955"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2083",
+        "N-2085",
+        "N-2086"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Witness to hospital transport; described as physically holding Brian Harpole during the ride.",
+      "related_artifacts": [
+        "A-2094.2"
+      ],
+      "related_claims": [
+        "C-2951"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2084"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Passenger in SUV during transport; described as the most quiet figure and as having declined a promotion offered by Erika.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2084",
+        "N-2090",
+        "N-2092"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Driver of the SUV during hospital transport.",
+      "related_artifacts": [
+        "A-2094.2"
+      ],
+      "related_claims": [
+        "C-2948"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2084"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Referenced as having defended Frank Turek's disposal of clothes using the widow rationale.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2086"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Daily Wire host whose tweet is cited and whose Jubilee debate performance is played.",
+      "related_artifacts": [
+        "A-2098.1",
+        "A-2099.1",
+        "A-2099.2"
+      ],
+      "related_claims": [
+        "C-2959",
+        "C-2961",
+        "C-2962"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2087"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Daily Wire figure referenced in connection with company finances.",
+      "related_artifacts": [
+        "A-2100.1"
+      ],
+      "related_claims": [
+        "C-2958"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2087"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Daily Wire figure linked to Pendragon Cycle spending.",
+      "related_artifacts": [
+        "A-2100.1"
+      ],
+      "related_claims": [
+        "C-2963"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2087"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Former Daily Wire figure; departure attributed to Jeremy Boring.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2087"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Source of video showing Frank Turek's entry through the SUV trunk.",
+      "related_artifacts": [
+        "A-2103.1"
+      ],
+      "related_claims": [
+        "C-2954"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Witness referenced as having changed her story three times; full review deferred.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2084"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Referenced by moderator Marci as a comparison case for Erika Kirk.",
+      "related_artifacts": [
+        "A-2102.8"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2088"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "Interviewer whose interview with Brian Harpole is referenced (clip played in past episodes).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1221",
+      "ref": "N-1221",
+      "name": "Autopsy Record – Utah Privacy Statute Application",
+      "type": "investigation_target",
+      "description": "Interviewer whose interview with Brian Harpole is referenced.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1222",
+      "ref": "N-1222",
+      "name": "Hospital Routing Anomaly",
+      "type": "investigation_target",
+      "description": "Email source who provided claim about DA authorization for evidence release.",
+      "related_artifacts": [
+        "A-2102.3"
+      ],
+      "related_claims": [
+        "C-2967"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2089"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1223",
+      "ref": "N-1223",
+      "name": "TPUSA Faith Packet / Israel References Claim",
+      "type": "investigation_target",
+      "description": "Retired ER nurse who commented on Brian Harpole's ER story.",
+      "related_artifacts": [
+        "A-2102.1"
+      ],
+      "related_claims": [
+        "C-2964"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2081"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1224",
+      "ref": "N-1224",
+      "name": "ADL–FBI Partnership Structure",
+      "type": "investigation_target",
+      "description": "22-year hospital nurse who commented on Brian Harpole's ER story.",
+      "related_artifacts": [
+        "A-2102.2"
+      ],
+      "related_claims": [
+        "C-2965"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2081"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2080",
+      "ref": "N-2080",
+      "name": "USB Logo on Glass Shard Identification",
+      "type": "investigation_target",
+      "description": "Persistent question of whether the white on shattered glass shards in the SUV matches the Rode Road Mic USB icon.",
+      "related_artifacts": [
+        "A-2093.1",
+        "A-2096.4"
+      ],
+      "related_claims": [
+        "C-2945"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2081",
+      "ref": "N-2081",
+      "name": "Brian Harpole ER Story Plausibility",
+      "type": "investigation_target",
+      "description": "Persistent question of whether Brian Harpole's account of cutting Charlie's shirt in the ER matches actual ER protocol and physical reality.",
+      "related_artifacts": [
+        "A-2094.1",
+        "A-2102.1",
+        "A-2102.2"
+      ],
+      "related_claims": [
+        "C-2946",
+        "C-2964",
+        "C-2965"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2082",
+      "ref": "N-2082",
+      "name": "Brian Harpole Shirt Removal Event Timing",
+      "type": "investigation_target",
+      "description": "Question of whether Charlie's shirt was removed in the car vs. in the ER.",
+      "related_artifacts": [
+        "A-2094.1"
+      ],
+      "related_claims": [
+        "C-2946"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2083",
+      "ref": "N-2083",
+      "name": "Car Interior Shards and Blood Evidence Pattern",
+      "type": "investigation_target",
+      "description": "Question of what the patterns of shards and blood evidence in the SUV actually indicate about events.",
+      "related_artifacts": [
+        "A-2096.1",
+        "A-2096.2",
+        "A-2096.3",
+        "A-2103.1"
+      ],
+      "related_claims": [
+        "C-2954",
+        "C-2955",
+        "C-2956",
+        "C-2957"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2084",
+      "ref": "N-2084",
+      "name": "Hospital Transport Sequence Discrepancy",
+      "type": "investigation_target",
+      "description": "Question of conflicting accounts (Brian Harpole, Frank Turek) regarding what happened during the SUV ride.",
+      "related_artifacts": [
+        "A-2094.2"
+      ],
+      "related_claims": [
+        "C-2947",
+        "C-2948",
+        "C-2950",
+        "C-2951"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1209",
+        "N-1210",
+        "N-1211"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2085",
+      "ref": "N-2085",
+      "name": "Frank Turek CPR Claim Verification",
+      "type": "investigation_target",
+      "description": "Question of whether Frank Turek actually attempted CPR on Charlie in the car.",
+      "related_artifacts": [
+        "A-2094.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2086",
+      "ref": "N-2086",
+      "name": "Frank Turek Clothing Disposal",
+      "type": "investigation_target",
+      "description": "Question of what happened to Frank Turek's clothes after the incident and why.",
+      "related_artifacts": [
+        "A-2095.1"
+      ],
+      "related_claims": [
+        "C-2952",
+        "C-2953"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-1212"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2087",
+      "ref": "N-2087",
+      "name": "Daily Wire Financial Status and IPO Effort",
+      "type": "investigation_target",
+      "description": "Question of Daily Wire's $100M strategic investment, IPO target, $50M Pendragon spend, and overall financial decline.",
+      "related_artifacts": [
+        "A-2098.1",
+        "A-2100.1",
+        "A-2100.2"
+      ],
+      "related_claims": [
+        "C-2958",
+        "C-2959",
+        "C-2960",
+        "C-2963"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1213",
+        "N-1214",
+        "N-1215",
+        "N-1216"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2088",
+      "ref": "N-2088",
+      "name": "Erika Kirk Dissociative Identity Disorder Assessment",
+      "type": "investigation_target",
+      "description": "Persistent question of whether Erika Kirk displays symptoms consistent with DID.",
+      "related_artifacts": [
+        "A-2101.1",
+        "A-2102.5",
+        "A-2102.6",
+        "A-2102.8",
+        "A-2102.10"
+      ],
+      "related_claims": [
+        "C-2966"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1219"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2089",
+      "ref": "N-2089",
+      "name": "District Attorney Release Authorization Investigation",
+      "type": "investigation_target",
+      "description": "Question of how Erika Kirk received artifacts (cross, microphone, other personal items) without a DA-signed release.",
+      "related_artifacts": [
+        "A-2102.3"
+      ],
+      "related_claims": [
+        "C-2967"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1222"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2090",
+      "ref": "N-2090",
+      "name": "911 Call Origin in Hospital Transport Vehicle",
+      "type": "investigation_target",
+      "description": "Question of who in the SUV placed the 911 call during transport.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1210"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2091",
+      "ref": "N-2091",
+      "name": "Erika Kirk Pastor Identity Verification",
+      "type": "investigation_target",
+      "description": "Question of who Erika Kirk's pastor was during her two-year Bible study period.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2088"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2092",
+      "ref": "N-2092",
+      "name": "Dan Flood Role and Behavior Assessment",
+      "type": "investigation_target",
+      "description": "Question of Dan Flood's role, behavior, and refusal of a promotion from Erika.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1210",
+        "N-2084"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2093",
+      "ref": "N-2093",
+      "name": "Brian Harpole Medical Dressing Amount Claim",
+      "type": "investigation_target",
+      "description": "Question of whether 36 ft of dressing could plausibly have been applied during a 6-minute car ride.",
+      "related_artifacts": [
+        "A-2094.3",
+        "A-2094.4",
+        "A-2096.1",
+        "A-2097.1"
+      ],
+      "related_claims": [
+        "C-2949",
+        "C-2957"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2945",
+      "ref": "C-2945",
+      "label": "USB Logo Identified on Car Glass Shard",
+      "claim": "A viewer email identifies a USB logo on one of the glass shards recovered from the SUV backseat floor, rotated to align with the Rode Road Mic USB icon shown in a promotional image.",
+      "anchored_artifacts": [
+        "A-2093.1",
+        "A-2096.4"
+      ],
+      "related_nodes": [
+        "N-2080"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:31–00:03:48",
+      "investigative_direction": "Independent forensic examination of shard images for matching geometry to a Rode mic USB icon; obtain original Rode Road Mic reference images for side-by-side comparison."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2946",
+      "ref": "C-2946",
+      "label": "Brian Harpole Claims to Have Jumped on Charlie in ER to Cut Shirt",
+      "claim": "Brian Harpole states in his account that he jumped on top of Charlie on a gurney in the ER and cut his white \"Freedom\" shirt off with scissors to enable defibrillator placement.",
+      "anchored_artifacts": [
+        "A-2094.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2081",
+        "N-2082"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:20–00:07:24",
+      "investigative_direction": "Obtain full unedited Brian Harpole interview transcript; corroborate against any ER surveillance footage (if not destroyed) and ER staff testimony."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2947",
+      "ref": "C-2947",
+      "label": "Brian Harpole States Car Door Was Open During Hospital Transport",
+      "claim": "Brian Harpole states that the car door behind him remained open during the hospital ride because Charlie's leg was hanging out, and that Rick Cutler physically held Brian in place to prevent him from falling out.",
+      "anchored_artifacts": [
+        "A-2094.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1209",
+        "N-2084"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:31–00:12:26",
+      "investigative_direction": "Cross-reference with dash-cam / traffic-cam / police body cam footage to verify door-open configuration."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2948",
+      "ref": "C-2948",
+      "label": "Brian Harpole States Speeds of 60–80–100 mph During Transport",
+      "claim": "Brian Harpole states they were traveling \"60, 80, 100\" mph while weaving through traffic on the way to the hospital.",
+      "anchored_artifacts": [
+        "A-2094.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1211",
+        "N-2084"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:31–00:12:26",
+      "investigative_direction": "Cross-reference with traffic-cam and police-body-cam timestamps to estimate actual travel speed."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2949",
+      "ref": "C-2949",
+      "label": "Brian Harpole States He Used 36 ft of Dressing on Charlie's Neck",
+      "claim": "Brian Harpole states he applied approximately 36 ft (12 yd) of dressing, four 4x4s, and two hemostatic 4x4s to Charlie's neck wound during the short ride.",
+      "anchored_artifacts": [
+        "A-2094.3",
+        "A-2094.4"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2093"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:09–00:13:30",
+      "investigative_direction": "Compare dressing count against visible dressing/pack debris in car interior photos; obtain medical supply packaging for roll length verification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2950",
+      "ref": "C-2950",
+      "label": "Brian Harpole States Frank Turek Was Praying in Backseat During Transport",
+      "claim": "Brian Harpole states that Frank Turek was praying out loud in the backseat during the hospital ride and did not assist with medical care.",
+      "anchored_artifacts": [
+        "A-2094.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-2084",
+        "N-2085"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:31–00:12:26",
+      "investigative_direction": "Obtain Frank Turek's own account of his activity during the ride; identify any audio recording that could capture in-car speech."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2951",
+      "ref": "C-2951",
+      "label": "Brian Harpole States Rick Cutler Physically Held Him During Transport",
+      "claim": "Brian Harpole states that Rick Cutler reached across and held onto him so he would not fall out of the moving SUV while he attended to Charlie.",
+      "anchored_artifacts": [
+        "A-2094.2"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1209",
+        "N-2084"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:31–00:12:26",
+      "investigative_direction": "Cross-reference with Rick Cutler's own testimony if available; review photo evidence of Rick Cutler's clothing for blood patterns inconsistent with this holding posture."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2952",
+      "ref": "C-2952",
+      "label": "Frank Turek States He Changed into Hospital Scrubs",
+      "claim": "Frank Turek states that he changed into scrubs at the hospital and that he did so because he did not want Erika to see any blood on his clothes.",
+      "anchored_artifacts": [
+        "A-2095.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2086"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:14–00:29:18",
+      "investigative_direction": "Identify how and where scrubs were obtained; determine whether scrubs were preserved as evidence or returned."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2953",
+      "ref": "C-2953",
+      "label": "Frank Turek States He Disposed of His Original Clothing",
+      "claim": "Frank Turek indicates his original clothing was discarded / not retained (\"I'm in scrubs because... I didn't want her to see any of that\"), and the host asserts he elsewhere admitted to throwing the clothes away.",
+      "anchored_artifacts": [
+        "A-2095.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2086"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:14–00:29:18",
+      "investigative_direction": "Locate any recording where Frank Turek directly states disposal; cross-reference with hospital chain-of-custody records for patient-adjacent personal property."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2954",
+      "ref": "C-2954",
+      "label": "Tara Farnsworth Video Shows Frank Turek Entering SUV Through Trunk",
+      "claim": "A video credited to Tara Farnsworth shows Frank Turek entering the SUV via the trunk rather than through a passenger door after Charlie was shot.",
+      "anchored_artifacts": [
+        "A-2103.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1217",
+        "N-2083"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:32–00:20:25",
+      "investigative_direction": "Obtain the original unedited Tara Farnsworth video; preserve metadata for chain-of-custody purposes."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2955",
+      "ref": "C-2955",
+      "label": "Car Backseat Photos Show Blood Wipe Marks on Leather",
+      "claim": "Photographs of the SUV backseat show what appear to be blood wipe or smear marks on the leather seating surface, attributed by the host to the only backseat occupant.",
+      "anchored_artifacts": [
+        "A-2096.2"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-2083"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:17–00:23:11",
+      "investigative_direction": "Obtain original unaltered car interior photos with metadata for forensic chain-of-custody; conduct independent review of mark patterns."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2956",
+      "ref": "C-2956",
+      "label": "Car Backseat Photos Show Blood Marks on Brown Paper / Uber Bag",
+      "claim": "Photographs of the SUV backseat show what appear to be blood marks on a brown paper bag consistent with an Uber-style bag.",
+      "anchored_artifacts": [
+        "A-2096.3"
+      ],
+      "related_nodes": [
+        "N-2083"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:50–00:23:11",
+      "investigative_direction": "Forensic testing of the bag (if available) for blood type, DNA, and explosive residue."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2957",
+      "ref": "C-2957",
+      "label": "Single 4x4 Dressing Pack Visible in Car Floor Photos",
+      "claim": "The car floor photos show one opened 4x4 EMS quick clot dressing pack, consistent in size and shape with the product image displayed; no additional opened packs are visible despite Brian Harpole's claimed use of multiple packs.",
+      "anchored_artifacts": [
+        "A-2094.4",
+        "A-2096.1",
+        "A-2097.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2083",
+        "N-2093"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:18–00:16:50",
+      "investigative_direction": "High-resolution review of car floor photos for additional packaging remnants; obtain official product dimensions for verification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2958",
+      "ref": "C-2958",
+      "label": "Semafor Article Reports Daily Wire Pursuing $100M Strategic Investment and IPO",
+      "claim": "A Semafor article displayed and read on air states that the Daily Wire is in talks to take on at least $100 million in strategic investment with an eye on an IPO, and that the company is under financial pressure.",
+      "anchored_artifacts": [
+        "A-2100.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-1214",
+        "N-2087"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:49–00:42:51",
+      "investigative_direction": "Obtain original Semafor article; verify any disclosed High Mount Capital relationship."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2959",
+      "ref": "C-2959",
+      "label": "Dave Rubin Tweet Characterizes Daily Wire Investment as Positive",
+      "claim": "Dave Rubin posted a tweet on X about Daily Wire's $100M strategic investment with eye on IPO, framing it positively and not acknowledging the \"under pressure\" framing of the underlying Semafor article.",
+      "anchored_artifacts": [
+        "A-2098.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-2087"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:04–00:41:49",
+      "investigative_direction": "Verify original tweet timestamp and any subsequent clarification from Rubin."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2960",
+      "ref": "C-2960",
+      "label": "Semafor Chart Shows Daily Wire Revenue and Subscriber Decline",
+      "claim": "A Semafor-produced chart displayed on air shows declining Daily Wire revenue growth and subscriber metrics over recent periods.",
+      "anchored_artifacts": [
+        "A-2100.2"
+      ],
+      "related_nodes": [
+        "N-2087"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:09",
+      "investigative_direction": "Obtain underlying source data for the chart; identify methodology."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2961",
+      "ref": "C-2961",
+      "label": "Dave Rubin Unable to Identify a Trump Economic Metric on Jubilee",
+      "claim": "In a clip from Jubilee, Dave Rubin is unable to identify a single metric (GDP, unemployment, inflation, etc.) by which Trump has improved economic conditions, and the host characterizes the response as failure to engage the question.",
+      "anchored_artifacts": [
+        "A-2099.1"
+      ],
+      "related_nodes": [
+        "N-1213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:45–00:39:25",
+      "investigative_direction": "Obtain full unedited Jubilee episode; verify clip is not edited deceptively."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2962",
+      "ref": "C-2962",
+      "label": "Dave Rubin States Gaza War Is Over and Hostages Are Home",
+      "claim": "In a clip from Jubilee, Dave Rubin states \"the war is over... there's not one Israeli in Gaza. The hostages are home. There's a reconstruction that's beginning,\" which is contradicted by his debate opponent.",
+      "anchored_artifacts": [
+        "A-2099.2"
+      ],
+      "related_nodes": [
+        "N-1213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:17–00:40:45",
+      "investigative_direction": "Verify against independent reporting on Gaza status as of debate date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2963",
+      "ref": "C-2963",
+      "label": "Semafor Article States Daily Wire Spent ~$50M on Pendragon Cycle",
+      "claim": "The Semafor article acknowledges the Daily Wire spent approximately $50 million on the Pendragon Cycle (Jeremy Boring's project), characterized as a significant contributor to the company's financial distress.",
+      "anchored_artifacts": [
+        "A-2100.1"
+      ],
+      "related_nodes": [
+        "N-1215",
+        "N-2087"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:33",
+      "investigative_direction": "Obtain Daily Wire financial disclosures (if any) and verify per-episode cost comparison to HBO's first Game of Thrones season."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2964",
+      "ref": "C-2964",
+      "label": "Retired ER Nurse Comments Brian Harpole's ER Story Is Implausible",
+      "claim": "Judith Bronco (retired ER nurse, married to a retired ER doctor) submits a comment stating that Brian Harpole's story could not happen in a real ER and that interference from visitors in trauma rooms is strictly forbidden.",
+      "anchored_artifacts": [
+        "A-2102.1"
+      ],
+      "related_nodes": [
+        "N-1223",
+        "N-1207",
+        "N-2081"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:15–00:51:45",
+      "investigative_direction": "Independent verification of ER protocols from additional medical professionals; obtain hospital incident logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2965",
+      "ref": "C-2965",
+      "label": "22-Year Nurse Comments Brian Harpole's ER Story Did Not Happen",
+      "claim": "Gina Schubert (22-year hospital nurse) submits a comment stating that Brian Harpole did not wheel Charlie into a room, jump on him, and cut off his clothes, and that the described events do not occur in any ER.",
+      "anchored_artifacts": [
+        "A-2102.2"
+      ],
+      "related_nodes": [
+        "N-1224",
+        "N-1207",
+        "N-2081"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:57",
+      "investigative_direction": "Same as C-2964."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2966",
+      "ref": "C-2966",
+      "label": "NHS Website Describes Observable Eye Changes in Dissociative Disorders",
+      "claim": "A viewer email quotes NHS website content stating that dissociative disorders can show observable physical changes in the eyes, including strained look, unblinking stares, harsh widening, fixed blank stare, and loss of visual focus.",
+      "anchored_artifacts": [
+        "A-2101.1"
+      ],
+      "related_nodes": [
+        "N-2088"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:26–00:35:29",
+      "investigative_direction": "Obtain current NHS source page directly; verify quoted text matches original."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2967",
+      "ref": "C-2967",
+      "label": "Anonymous Police Source States DA Authorization Required for Evidence Release",
+      "claim": "A source described as high-ranking in a police department emails stating that only a district attorney's signed release could authorize the return of evidence such as Charlie's cross, microphone, or other personal items to Erika Kirk, and that such releases are not normally granted while items remain evidence.",
+      "anchored_artifacts": [
+        "A-2102.3"
+      ],
+      "related_nodes": [
+        "N-1222",
+        "N-2089"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:00–00:52:30",
+      "investigative_direction": "Identify jurisdiction and DA office handling the case; obtain chain-of-custody records for returned items."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2968",
+      "ref": "C-2968",
+      "label": "Brian Harpole States He Focused on Bleed Control, Not CPR",
+      "claim": "Brian Harpole states he was unsure if Charlie had a pulse and that his primary focus was bleed control with dressing rather than CPR.",
+      "anchored_artifacts": [
+        "A-2094.3"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2085"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:09–00:14:33",
+      "investigative_direction": "Obtain full Brian Harpole interview transcript; cross-reference with hospital intake records regarding initial pulse detection."
+    }
+  ],
+  "memes": []
+}

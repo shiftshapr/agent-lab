@@ -1,0 +1,870 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 123,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "93abb119e30ffeee11218fa72b1be08579d89ea15f3f784ace8d3604332d4554",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Episode 123 is structured as an \"emergency update\" presenting previously withheld photographic evidence from the interior of the vehicle in which Charlie Kirk was transported on the day of the shooting. The host displays four car-interior photos and four closeups, claiming they show black tempered (sharded) glass consistent with a shattered lapel/road microphone in the area corresponding to Charlie's chest region. She contrasts this with public statements from Frank Turk and Brian Harpole, who reportedly described only a neck wound and never mentioned shattered glass. A second set of objects is shown — a cardboard-colored piece, an unidentified foil under the floor mat, an item identified via live viewer comment as SantaMedical.com medical equipment, a blood-marked Uber bag, and a coat hanger. The host reports that Charlie's bloody sports coat was returned to Erika Kirk's apartment in Arizona rather than collected into evidence.\n\nThe episode then pivots to commentary on Turning Point USA's anticipated response, including a viral clip of Mikey McCoy appearing physically ill as Charlie's casket is moved at the hospital, and a prior interview clip of Charlie describing how Erika told him \"God wants you to have your phone on\" — directly relevant to the Butler shooting anecdote referenced earlier in the series. The host reiterates her position that Tyler Robinson did not fire the shot from the rooftop and supports John Bray's microphone-rigging theory.\n\nStructurally, this episode advances the evidentiary record by introducing specific visual artifacts (car interior photos) that anchor ongoing contradictions between witness retellings and physical evidence. It also widens the lens to include institutional accountability questions directed at TPUSA.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2110",
+      "family_ref": "A-2110",
+      "bundle_name": "Charlie Kirk Transport Vehicle Interior Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2110.1",
+          "ref": "A-2110.1",
+          "description": "Photo 1 — Uber bag with blood (back seat) and coat hanger",
+          "related_claims": [
+            "C-2986",
+            "C-2987",
+            "C-2988"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1207",
+            "N-1208",
+            "N-2104"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2110.2",
+          "ref": "A-2110.2",
+          "description": "Photo 2 — Cardboard-colored piece and adjacent black bag (back seat)",
+          "related_claims": [
+            "C-2990",
+            "C-2992"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2110.3",
+          "ref": "A-2110.3",
+          "description": "Photo 3 — Shattered tempered glass between front captain chairs",
+          "related_claims": [
+            "C-2986",
+            "C-2994"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1207",
+            "N-1208",
+            "N-2103"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:58",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2110.4",
+          "ref": "A-2110.4",
+          "description": "Photo 4 — Foil-like material visible under floor mat",
+          "related_claims": [
+            "C-2991"
+          ],
+          "related_nodes": [
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2111",
+      "family_ref": "A-2111",
+      "bundle_name": "Charlie Kirk Transport Vehicle Interior Closeup Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2111.1",
+          "ref": "A-2111.1",
+          "description": "Closeup — Cardboard-colored piece, brown/burnt appearance",
+          "related_claims": [
+            "C-2990"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2111.2",
+          "ref": "A-2111.2",
+          "description": "Closeup — Black bag (Uber bag area)",
+          "related_claims": [
+            "C-2987"
+          ],
+          "related_nodes": [
+            "N-1207"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2111.3",
+          "ref": "A-2111.3",
+          "description": "Closeup — Foil-like material, described as coppery",
+          "related_claims": [
+            "C-2991"
+          ],
+          "related_nodes": [
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2111.4",
+          "ref": "A-2111.4",
+          "description": "Closeup — Black tempered glass particles in center of vehicle",
+          "related_claims": [
+            "C-2986",
+            "C-2994"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1207",
+            "N-1208",
+            "N-2103"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2114",
+      "family_ref": "A-2114",
+      "bundle_name": "Read-Aloud Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2114.1",
+          "ref": "A-2114.1",
+          "description": "Viewer comment identifying SantaMedical.com product in car photo",
+          "related_claims": [
+            "C-2992"
+          ],
+          "related_nodes": [
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2114.2",
+          "ref": "A-2114.2",
+          "description": "Viewer comment (Vicky Blair) — \"nearly impossible to drive 60, 80, 100 miles and still have the car door open\"",
+          "related_claims": [
+            "C-2997"
+          ],
+          "related_nodes": [
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:50:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2114.3",
+          "ref": "A-2114.3",
+          "description": "Viewer comment (Joe Philly / \"Phyisetti\") — ground cleanup theory",
+          "related_claims": [
+            "C-2994"
+          ],
+          "related_nodes": [
+            "N-2103"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Topic",
+      "@id": "N-2107",
+      "ref": "N-2107",
+      "name": "Node 2107",
+      "type": "topic",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Security/pastor figure present in the transport vehicle with Charlie Kirk. Repeated retellings of events in the car are central to the host's evidentiary contradictions.",
+      "related_artifacts": [
+        "A-2110.1",
+        "A-2110.2",
+        "A-2110.3",
+        "A-2110.4",
+        "A-2111.4"
+      ],
+      "related_claims": [
+        "C-2986",
+        "C-2988",
+        "C-2989",
+        "C-2994"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-2103"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Security figure who traveled with Charlie Kirk; has given multiple interviews about events in the car. Subject of contradictions noted by the host.",
+      "related_artifacts": [
+        "A-2110.1",
+        "A-2110.2",
+        "A-2110.3",
+        "A-2110.4",
+        "A-2111.3",
+        "A-2111.4",
+        "A-2114.1",
+        "A-2114.2"
+      ],
+      "related_claims": [
+        "C-2986",
+        "C-2991",
+        "C-2992",
+        "C-2994",
+        "C-2997"
+      ],
+      "tags": [],
+      "evidence_count": 8,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-2103",
+        "N-2106"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "TPUSA figure reported present at hospital. Viral clip displayed shows him appearing physically ill during casket removal.",
+      "related_artifacts": [
+        "A-2112"
+      ],
+      "related_claims": [
+        "C-2993"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "TPUSA spokesperson. Name spelling inconsistency in transcript (Kovat vs. Kovette). Direct addressee of host's demands for public explanation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2998"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Investigative collaborator who advised host to release evidence before two-week break.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Investigative contributor who developed microphone-rigging/explosive theory. Host affirms his theory now has more physical evidence than official accounts.",
+      "related_artifacts": [
+        "A-2110.3",
+        "A-2111.4"
+      ],
+      "related_claims": [
+        "C-2986",
+        "C-2994"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2103"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "TPUSA-aligned commentator; host identifies as part of commentary apparatus defending the official story.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "TPUSA-aligned commentator; grouped with Blake Nef in host critique.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Security figure described as having something on his back during the carry to the car; reportedly held onto Brian Harpole in the vehicle.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2997"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Referenced as having meetings with Mikey McCoy regarding post-incident TPUSA direction.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Referenced as someone the host consults when running theories; no artifact-backed claims yet.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Brand identified via live viewer comment as matching the medical equipment visible in car photo.",
+      "related_artifacts": [
+        "A-2110.2",
+        "A-2114.1"
+      ],
+      "related_claims": [
+        "C-2992"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2103",
+      "ref": "N-2103",
+      "name": "Charlie's Road Microphone Glass Origin Investigation Target",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: where did the tempered glass in the vehicle come from, and how was the road/lapel microphone broken?",
+      "related_artifacts": [
+        "A-2110.3",
+        "A-2111.4",
+        "A-2114.3"
+      ],
+      "related_claims": [
+        "C-2986",
+        "C-2994"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-1207",
+        "N-1208",
+        "N-1212"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2104",
+      "ref": "N-2104",
+      "name": "Charlie's Bloody Jacket Chain of Custody Investigation Target",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: chain of custody for Charlie Kirk's sports coat, returned to Erika's apartment with blood rather than collected into evidence.",
+      "related_artifacts": [
+        "A-2110.1"
+      ],
+      "related_claims": [
+        "C-2989"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2105",
+      "ref": "N-2105",
+      "name": "Missing Charlie's Shirt Investigation Target",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: location and disposition of Charlie Kirk's shirt on the day of the incident.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2998"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1210"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2106",
+      "ref": "N-2106",
+      "name": "Car Door Open During Transport Report Investigation Target",
+      "type": "investigation_target",
+      "description": "Persistent investigative target: police scanner reports indicating car door was open during high-speed transport and a visible \"struggle\" in the vehicle.",
+      "related_artifacts": [
+        "A-2114.2"
+      ],
+      "related_claims": [
+        "C-2997"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1208",
+        "N-1216"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2986",
+      "ref": "C-2986",
+      "label": "Black Tempered Shattered Glass Present in Charlie Kirk Transport Vehicle",
+      "claim": "Photographs of the vehicle interior show black tempered shattered glass particles concentrated between the front captain chairs, in the area corresponding to Charlie Kirk's chest position, consistent with the host's identification of a broken road/lapel microphone.",
+      "anchored_artifacts": [
+        "A-2110.3",
+        "A-2111.4"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1207",
+        "N-1208",
+        "N-1212",
+        "N-2103"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:11–00:17:00",
+      "investigative_direction": "Obtain forensic analysis of vehicle interior; compare particle composition to known Charlie Kirk lapel microphone glass; subpoena vehicle evidence logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2987",
+      "ref": "C-2987",
+      "label": "Blood-Marked Uber Bag Visible in Back Seat of Vehicle",
+      "claim": "Photo 1 shows an Uber-style paper bag with blood marks in the back seat of the vehicle.",
+      "anchored_artifacts": [
+        "A-2110.1",
+        "A-2111.2"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:11",
+      "investigative_direction": "Obtain original high-resolution image; have forensic analyst examine blood pattern and origin."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2988",
+      "ref": "C-2988",
+      "label": "Coat Hanger Visible in Vehicle, Likely Charlie's Jacket",
+      "claim": "A hanger is visible in Photo 1; the host infers it is connected to the sports coat Charlie Kirk was not wearing at the event.",
+      "anchored_artifacts": [
+        "A-2110.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1",
+        "N-2104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:11",
+      "investigative_direction": "Identify hanger; trace jacket chain of custody (see N-2104)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2989",
+      "ref": "C-2989",
+      "label": "Charlie Kirk's Bloody Sports Coat Returned to Erika Kirk's Apartment Without Evidence Collection",
+      "claim": "Charlie's bloodied sports coat was returned by security to Erika Kirk's apartment in Arizona rather than collected into evidence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-1207",
+        "N-2104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:01",
+      "investigative_direction": "Verify via property records, TPUSA internal communications, or law enforcement evidence logs; obtain testimony from security personnel involved in return."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2990",
+      "ref": "C-2990",
+      "label": "Cardboard-Colored Material Visible in Vehicle",
+      "claim": "Photos show a piece of cardboard-colored, thicker material with brown/burnt appearance, separated from the Uber bags.",
+      "anchored_artifacts": [
+        "A-2110.2",
+        "A-2111.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00–00:00:01",
+      "investigative_direction": "Obtain higher-resolution images; consult medical/forensic experts on whether material is cardboard, gauze packaging, or other."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2991",
+      "ref": "C-2991",
+      "label": "Foil-Like Material Visible Under Vehicle Floor Mat",
+      "claim": "Photos show a foil-like, coppery material under the floor mat. Viewer suggestions include emergency/hypothermia blanket.",
+      "anchored_artifacts": [
+        "A-2110.4",
+        "A-2111.3"
+      ],
+      "related_nodes": [
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00–00:00:01",
+      "investigative_direction": "Obtain higher-resolution images; compare to medical emergency blanket specifications."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2992",
+      "ref": "C-2992",
+      "label": "SantaMedical.com Equipment Identified in Vehicle Photo",
+      "claim": "A viewer identified the medical bag visible in the photo as a SantaMedical.com product, consistent with equipment Brian Harpole described traveling with Charlie.",
+      "anchored_artifacts": [
+        "A-2110.2",
+        "A-2114.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1219"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:10",
+      "investigative_direction": "Cross-reference SantaMedical.com catalog with described medical equipment; verify against Harpole's interview statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2993",
+      "ref": "C-2993",
+      "label": "Mikey McCoy Appeared Physically Ill During Casket Removal at Hospital",
+      "claim": "A viral clip shows Mikey McCoy appearing physically ill and holding his stomach as Charlie's casket was carried out of the hospital.",
+      "anchored_artifacts": [
+        "A-2112"
+      ],
+      "related_nodes": [
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:10",
+      "investigative_direction": "Verify clip provenance; corroborate with hospital witness accounts; assess against prior statements from Erika Kirk and TPUSA describing McCoy as \"amazing\" and \"snapping into action.\""
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2994",
+      "ref": "C-2994",
+      "label": "Frank Turk and Brian Harpole Did Not Mention Shattered Tempered Glass in Retellings of Car Events",
+      "claim": "Across multiple interviews (Paramount Tactical, Shawn Ryan Show, and others), Frank Turk and Brian Harpole described packing a neck wound and praying but did not mention any shattered tempered glass in the vehicle.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-2103",
+        "N-1212"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:00–00:19:30",
+      "investigative_direction": "Obtain transcripts/video of all Frank Turk and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference John Bray's prior microphone-rigging theory."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2995",
+      "ref": "C-2995",
+      "label": "TPUSA Staff Removed Poster at Arlington Memorial Referencing Candace Owens as Investigator",
+      "claim": "A viewer sent photos showing TPUSA staff removing a poster at Charlie Kirk's Arlington memorial site that read \"Don't worry, your big sister can figure out what happened.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:10",
+      "investigative_direction": "Obtain original photos from viewer; identify date and location; verify TPUSA staff involvement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2996",
+      "ref": "C-2996",
+      "label": "Charlie Kirk Stated in Prior Interview That Erika Told Him \"God Wants You to Have Your Phone On\"",
+      "claim": "In a prior interview (clip played during episode), Charlie Kirk described how Erika told him God wanted his phone on during a Saturday — relevant to the Butler shooting anecdote.",
+      "anchored_artifacts": [
+        "A-2113"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:51–00:42:26",
+      "investigative_direction": "Identify the original interview (date, outlet); verify transcript; cross-reference with Charlie Kirk's documented phone-use patterns."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2997",
+      "ref": "C-2997",
+      "label": "Police Scanner Reported Car Door Open and Visible Struggle During Transport",
+      "claim": "Police scanner reports (referenced via Baron Coleman episodes) describe the car door being open during high-speed transport and what looked like a struggle inside the vehicle, attributed to Rick Cutler holding Brian Harpole.",
+      "anchored_artifacts": [
+        "A-2114.2"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1216",
+        "N-2106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:36",
+      "investigative_direction": "Obtain official police scanner audio logs from the date; cross-reference with vehicle door mechanism and seating position documentation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2998",
+      "ref": "C-2998",
+      "label": "TPUSA Has Not Publicly Explained How Microphone Glass Ended Up in Vehicle",
+      "claim": "As of this episode, TPUSA (via spokesperson Andrew Kovat) has not publicly addressed how the road microphone shattered or why the glass ended up in the vehicle.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1210",
+        "N-2103",
+        "N-2105"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:24–00:30:20",
+      "investigative_direction": "Monitor TPUSA official communications; if no response materializes, the absence itself becomes a documented investigative target."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2999",
+      "ref": "C-2999",
+      "label": "Host Asserts Existence of Additional Withheld Photos",
+      "claim": "The host states she is \"in the process of securing more photos\" beyond the four shown.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:29:24",
+      "investigative_direction": "Track for future episode disclosures; verify provenance of any additional photos when released."
+    }
+  ],
+  "memes": []
+}

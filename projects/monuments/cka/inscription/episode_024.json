@@ -1,0 +1,971 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 24,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "b16f4980388370185d291129aae2198b32071168c9d782f7764725d6e49bf14e",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1313",
+      "family_ref": "A-1313",
+      "bundle_name": "Republican Jewish Coalition Stage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1313.1",
+          "ref": "A-1313.1",
+          "description": "Lindsey Graham RJC Speech Clip (audio)",
+          "related_claims": [
+            "C-1568",
+            "C-1570"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:57",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1313.2",
+          "ref": "A-1313.2",
+          "description": "Randy Fine RJC Speech Clip (audio)",
+          "related_claims": [
+            "C-1569"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:07",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1313.3",
+          "ref": "A-1313.3",
+          "description": "RJC Intern-Printed \"Tucker Carlson is not Maga\" Sign (stage prop, verbally described)",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1314",
+      "family_ref": "A-1314",
+      "bundle_name": "Ben Shapiro Monologue Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1314.1",
+          "ref": "A-1314.1",
+          "description": "Ben Shapiro \"Scripted Stab at Tucker Carlson\" Segment (video)",
+          "related_claims": [
+            "C-1571",
+            "C-1583"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1314.2",
+          "ref": "A-1314.2",
+          "description": "Ben Shapiro \"Nick Fuentes Vermin / Tucker Knifed Charlie\" Segment (video)",
+          "related_claims": [
+            "C-1571",
+            "C-1572"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1315",
+      "family_ref": "A-1315",
+      "bundle_name": "Candace Owens Joe Rogan 2018 Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1315.1",
+          "ref": "A-1315.1",
+          "description": "Candace Owens \"Hall Monitor\" Joe Rogan Clip (video)",
+          "related_claims": [
+            "C-1573"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1316",
+      "family_ref": "A-1316",
+      "bundle_name": "Candace & Charlie Kirk Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1316.1",
+          "ref": "A-1316.1",
+          "description": "Photo of Candace Owens and Charlie Kirk Puffing Chests on Ben Shapiro's Sherman Oaks Set",
+          "related_claims": [
+            "C-1574"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1317",
+      "family_ref": "A-1317",
+      "bundle_name": "TPUSA Posthumous Israel Award Reporting Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1317.1",
+          "ref": "A-1317.1",
+          "description": "Israeli War Room X Post Citing Jerusalem Post Article by Michael Starr",
+          "related_claims": [
+            "C-1575"
+          ],
+          "related_nodes": [
+            "N-1286"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:26",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1317.2",
+          "ref": "A-1317.2",
+          "description": "Andrew Kolbenschlag X Reply Denying Knowledge of Award",
+          "related_claims": [
+            "C-1576"
+          ],
+          "related_nodes": [
+            "N-1286"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1317.3",
+          "ref": "A-1317.3",
+          "description": "Michael Starr X Follow-Up on Israeli Government Press Office \"Wavering\"",
+          "related_claims": [
+            "C-1577"
+          ],
+          "related_nodes": [
+            "N-1286"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:23:04",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1318",
+      "family_ref": "A-1318",
+      "bundle_name": "Erika Kirk Jesse Waters Interview Preview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1318.1",
+          "ref": "A-1318.1",
+          "description": "Erika Kirk on Courtroom Camera Ban (Jesse Waters interview preview clip)",
+          "related_claims": [
+            "C-1578"
+          ],
+          "related_nodes": [
+            "N-1287"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1319",
+      "family_ref": "A-1319",
+      "bundle_name": "Kash Patel X Defense Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1319.1",
+          "ref": "A-1319.1",
+          "description": "Kash Patel X Post Defending Girlfriend Alexis Wilkins",
+          "related_claims": [
+            "C-1579"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1320",
+      "family_ref": "A-1320",
+      "bundle_name": "YouTube Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1320.1",
+          "ref": "A-1320.1",
+          "description": "\"Maxi Dodo\" Comment Thanking Host (read aloud)",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1320.2",
+          "ref": "A-1320.2",
+          "description": "\"Michael\" (Australia) Comment About Charlie's Name as Inspiration (read aloud)",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1320.3",
+          "ref": "A-1320.3",
+          "description": "\"Stacy Massie\" Comment About Trolls in Chat (read aloud)",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1320.4",
+          "ref": "A-1320.4",
+          "description": "\"G-Man\" Comment Supporting Host (read aloud)",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1320.5",
+          "ref": "A-1320.5",
+          "description": "\"Tom Paul\" Comment Alleging Tyler Robinson ACT 34 (99th percentile), Crooks' SAT 99th percentile, and Adam Lanza Parallel (read aloud)",
+          "related_claims": [
+            "C-1580"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1320.6",
+          "ref": "A-1320.6",
+          "description": "\"Petal\" Comment Asking Host to Clarify Educational Credentials (read aloud)",
+          "related_claims": [
+            "C-1581"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1320.7",
+          "ref": "A-1320.7",
+          "description": "\"TB\" Comment About Charlie Kirk and Free Speech (read aloud)",
+          "related_claims": [
+            "C-1582"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-317",
+      "ref": "N-317",
+      "name": "Node 317",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-311",
+      "ref": "N-311",
+      "name": "Michael Starr",
+      "type": "person",
+      "description": "Journalist for the Jerusalem Post named as the writer of the article claiming Erika Kirk would accept a posthumous Pillars of Jerusalem Award on Charlie Kirk's behalf; later acknowledged on X that the Israeli government press office \"wavered\" on the claim.",
+      "related_artifacts": [
+        "A-1317.1",
+        "A-1317.3"
+      ],
+      "related_claims": [
+        "C-1575",
+        "C-1577"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-322",
+        "N-323",
+        "N-2",
+        "N-1286"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-312",
+      "ref": "N-312",
+      "name": "Andrew Kolbenschlag",
+      "type": "person",
+      "description": "TPUSA spokesperson who publicly denied any knowledge of the reported posthumous Israel award in a post on X.",
+      "related_artifacts": [
+        "A-1317.2"
+      ],
+      "related_claims": [
+        "C-1576"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-1286"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-313",
+      "ref": "N-313",
+      "name": "Jesse Waters",
+      "type": "person",
+      "description": "Host of the Fox News interview with Erica Kirk that is teased as upcoming at episode time. (Name preserved as transcript renders it.)",
+      "related_artifacts": [
+        "A-1318.1"
+      ],
+      "related_claims": [
+        "C-1578"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-314",
+      "ref": "N-314",
+      "name": "Alexis Wilkins",
+      "type": "person",
+      "description": "Country music artist; the girlfriend whom Kash Patel publicly defended on X in the tweet read in this episode.",
+      "related_artifacts": [
+        "A-1319.1"
+      ],
+      "related_claims": [
+        "C-1579"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-315"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-315",
+      "ref": "N-315",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Director of the FBI; subject of host commentary following the X defense tweet of his girlfriend and prior criticism over alleged use of FBI aircraft for personal travel.",
+      "related_artifacts": [
+        "A-1319.1"
+      ],
+      "related_claims": [
+        "C-1579"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-314"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-316",
+      "ref": "N-316",
+      "name": "Matt Walsh",
+      "type": "person",
+      "description": "Daily Wire personality referenced (hearsay) by the host as the subject of an outreach to host Charlie Kirk's show after his death, conditioned on inviting Ben Shapiro.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-319",
+      "ref": "N-319",
+      "name": "Douglas Murray",
+      "type": "person",
+      "description": "Listed by Jerusalem Post / Israeli War Room as a presenter of the reported Pillars of Jerusalem Award.",
+      "related_artifacts": [
+        "A-1317.1"
+      ],
+      "related_claims": [
+        "C-1575"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1286"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-320",
+      "ref": "N-320",
+      "name": "Yael Eckstein",
+      "type": "person",
+      "description": "Listed by Jerusalem Post / Israeli War Room as a presenter of the reported Pillars of Jerusalem Award.",
+      "related_artifacts": [
+        "A-1317.1"
+      ],
+      "related_claims": [
+        "C-1575"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1286"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-321",
+      "ref": "N-321",
+      "name": "Jürgen Bühler",
+      "type": "person",
+      "description": "Listed as a presenter of the reported Pillars of Jerusalem Award (spelled \"Jürgen Bühler\" in Jerusalem Post reporting cited in episode).",
+      "related_artifacts": [
+        "A-1317.1"
+      ],
+      "related_claims": [
+        "C-1575"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1286"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-322",
+      "ref": "N-322",
+      "name": "Jerusalem Post",
+      "type": "person",
+      "description": "News outlet whose reporting (by Michael Starr) was cited in the Israeli War Room X post asserting that Erica Kirk would accept the posthumous award.",
+      "related_artifacts": [
+        "A-1317.1"
+      ],
+      "related_claims": [
+        "C-1575"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-311",
+        "N-1286"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-323",
+      "ref": "N-323",
+      "name": "Israeli War Room",
+      "type": "person",
+      "description": "X account that reposted the Jerusalem Post claim about the Pillars of Jerusalem Award.",
+      "related_artifacts": [
+        "A-1317.1"
+      ],
+      "related_claims": [
+        "C-1575"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-322",
+        "N-1286"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1286",
+      "ref": "N-1286",
+      "name": "TPUSA Posthumous Israel Award Reporting Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy between Jerusalem Post / Israeli War Room reporting that Erica Kirk would accept a Pillars of Jerusalem Award on Charlie Kirk's behalf and Andrew Kolbenschlag's on-record statement that TPUSA had not heard of the award and that the CEO was not scheduled to participate.",
+      "related_artifacts": [
+        "A-1317.1",
+        "A-1317.2",
+        "A-1317.3"
+      ],
+      "related_claims": [
+        "C-1575",
+        "C-1576",
+        "C-1577"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-311",
+        "N-312",
+        "N-322",
+        "N-323",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1287",
+      "ref": "N-1287",
+      "name": "TPUSA Leadership Transparency Pressure (Post-Charlie)",
+      "type": "investigation_target",
+      "description": "Persistent pressure articulated in this episode on TPUSA leadership (CEO/chairman Erica Kirk; Tyler Bowyer; etc.) to publicly disclose what they can about Rob McCoy, Mikey McCoy/McColgan, Taryl, and the timeline of phone calls/texts surrounding Charlie Kirk's death.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1578"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-85"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Governor Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1568",
+      "ref": "C-1568",
+      "label": "Lindsey Graham RJC Statement on Anti-Israel Disqualification",
+      "claim": "Lindsey Graham stated at the Republican Jewish Coalition that anti-Israel rhetoric is \"not the road to being elected as a Republican\" and that one \"can't even have an anti-Israel thought.\"",
+      "anchored_artifacts": [
+        "A-1313.1"
+      ],
+      "related_nodes": [
+        "N-317"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:57",
+      "investigative_direction": "Obtain the full RJC transcript or video to confirm exact wording, context, and whether the statement was made in a public or closed session."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1569",
+      "ref": "C-1569",
+      "label": "Randy Fine Calls Tucker Carlson \"Most Dangerous Anti-Semite\"",
+      "claim": "Randy Fine stated on stage at the Republican Jewish Coalition that \"Tucker Carlson is the most dangerous anti-Semite in America\" and accused him of taking on the mantle of \"leader of a modern-day Hitler youth.\"",
+      "anchored_artifacts": [
+        "A-1313.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:04:07",
+      "investigative_direction": "Verify the full RJC recording for the complete quote and any surrounding context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1570",
+      "ref": "C-1570",
+      "label": "Host Characterizes Graham's RJC Statement as Hostile Messaging",
+      "claim": "Host characterizes Lindsey Graham's RJC statement as \"great messaging\" sarcastically, asserting it constitutes hostile messaging directed at American voters who hold anti-Israel views.",
+      "anchored_artifacts": [
+        "A-1313.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:01:57",
+      "investigative_direction": "This is host concurrence / interpretive stance; verification requires only that A-1313.1 captures the original statement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1571",
+      "ref": "C-1571",
+      "label": "Ben Shapiro Accuses Tucker Carlson of Knifing Charlie Kirk",
+      "claim": "Ben Shapiro stated that Tucker Carlson \"knifes [friends] directly between the shoulder blades when convenient for him\" and specifically \"preys on the friendship he proclaims\" with Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-1314.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:12",
+      "investigative_direction": "Verify by reviewing Ben Shapiro's full segment; assess the framing in light of host's counter-evidence (Joe Rogan clip, photo, and claimed text messages)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1572",
+      "ref": "C-1572",
+      "label": "Ben Shapiro Quotes Charlie Kirk Calling Nick Fuentes \"Vermin\"",
+      "claim": "Ben Shapiro stated that \"Charlie believed that Nick Fuentes was vermin. That's a direct quote.\"",
+      "anchored_artifacts": [
+        "A-1314.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:12",
+      "investigative_direction": "Locate the underlying Charlie Kirk statement Ben Shapiro cites to verify the attribution and original context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1573",
+      "ref": "C-1573",
+      "label": "Candace Owens \"Hall Monitor\" Joke on Joe Rogan (2018)",
+      "claim": "In a 2018 Joe Rogan appearance, Candace Owens referred to him as \"the hall monitor\" and joked that he \"writes you a pink slip\" and sends people to \"Saturday school.\"",
+      "anchored_artifacts": [
+        "A-1315.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:16:02",
+      "investigative_direction": "Verify by locating the full original Joe Rogan episode to confirm wording and date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1574",
+      "ref": "C-1574",
+      "label": "Photo of Candace and Charlie Kirk Puffing Chests at Ben Shapiro's Studio",
+      "claim": "A photo displayed in the episode depicts Candace Owens and Charlie Kirk in Ben Shapiro's Sherman Oaks studio, standing with puffed chests and standing extra tall, taken in or around June 2018 after they were booked on his show despite prior tension.",
+      "anchored_artifacts": [
+        "A-1316.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:18:19",
+      "investigative_direction": "Verify by locating the source image metadata (date, location, producer of the appearance)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1575",
+      "ref": "C-1575",
+      "label": "Israeli War Room Reports Erika Kirk Will Accept Pillars of Jerusalem Award",
+      "claim": "The Israeli War Room X account posted that \"Miss Erika / Mrs. Erika Kirk will accept the award on her husband's behalf\" at Israel's 2025 Christian Media Summit, citing Jerusalem Post reporting by Michael Starr, with the Pillars of Jerusalem Award to be presented by Douglas Murray, Yael Eckstein, and Dr. Jürgen Bühler.",
+      "anchored_artifacts": [
+        "A-1317.1"
+      ],
+      "related_nodes": [
+        "N-1286"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:26",
+      "investigative_direction": "Verify by independently locating the original Jerusalem Post article by Michael Starr, the Israeli War Room X post, and the Christian Media Summit program to confirm whether the award and presenters are real and whether Erika Kirk is listed."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1576",
+      "ref": "C-1576",
+      "label": "Andrew Kolbenschlag Denies Knowledge of Award",
+      "claim": "TPUSA spokesperson Andrew Kolbenschlag posted on X that \"this is the first we're hearing of this\" regarding the reported Pillars of Jerusalem Award, and stated TPUSA had reached out to Michael Starr for a correction.",
+      "anchored_artifacts": [
+        "A-1317.2"
+      ],
+      "related_nodes": [
+        "N-1286"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:13",
+      "investigative_direction": "Verify by locating Kolbenschlag's original X post and any subsequent follow-up from TPUSA."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1577",
+      "ref": "C-1577",
+      "label": "Michael Starr Acknowledges Israeli Government Press Office \"Wavered\"",
+      "claim": "Michael Starr posted on X that \"the Israeli government press office wavered on claims that Erika Kirk would be accepting [the posthumous award]\" after TPUSA said it was unaware of the award and that its CEO was not scheduled to participate.",
+      "anchored_artifacts": [
+        "A-1317.3"
+      ],
+      "related_nodes": [
+        "N-1286"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:04",
+      "investigative_direction": "Verify the original Michael Starr X post and corroborate with any subsequent Jerusalem Post correction or retraction."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1578",
+      "ref": "C-1578",
+      "label": "Erika Kirk Opposes Courtroom Camera Ban",
+      "claim": "In a preview clip of her Jesse Waters interview, Erika Kirk opposed the defense motion to ban cameras in the courtroom, stating \"We deserve to have cameras in there … Let everyone see what true evil is.\"",
+      "anchored_artifacts": [
+        "A-1318.1"
+      ],
+      "related_nodes": [
+        "N-1287"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:31",
+      "investigative_direction": "Verify by reviewing the full Jesse Waters interview once aired and any subsequent court filings on the camera question."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1579",
+      "ref": "C-1579",
+      "label": "Kash Patel Posts X Defense of Girlfriend Alexis Wilkins",
+      "claim": "Kash Patel posted an extended X message defending his girlfriend Alexis Wilkins against criticism following reporting about his use of an FBI aircraft to travel to her events, asserting she is \"a true patriot\" and \"country music sensation.\"",
+      "anchored_artifacts": [
+        "A-1319.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:40",
+      "investigative_direction": "Verify by locating Patel's original X post, and corroborate against any reporting or inspector general review of his use of FBI aircraft for personal travel."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1580",
+      "ref": "C-1580",
+      "label": "Tom Paul Alleges Tyler Robinson and Crooks Test Score Pattern",
+      "claim": "A viewer (Tom Paul) alleged in a YouTube comment that Tyler Robinson's ACT score was 34 (99th percentile), Thomas Matthew Crooks' SAT score was in the 99th percentile, and that this pattern resembles Adam Lanza, suggesting a common playbook.",
+      "anchored_artifacts": [
+        "A-1320.5"
+      ],
+      "related_nodes": [
+        "N-316"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:55",
+      "investigative_direction": "Independently confirm the test scores from public records; assess whether any reporting substantiates a \"playbook\" pattern."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1581",
+      "ref": "C-1581",
+      "label": "Petal Requests Clarification on Candace's Degree",
+      "claim": "A viewer (Petal) commented asking Candace Owens to clarify whether she holds a degree, noting that some people claim she does not.",
+      "anchored_artifacts": [
+        "A-1320.6"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:55",
+      "investigative_direction": "No investigative direction required — viewer question is recorded as artifact."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1582",
+      "ref": "C-1582",
+      "label": "TB Comments on Charlie Kirk's Open-Exchange Values",
+      "claim": "A viewer (TB) commented that being exposed to all perspectives with the right to respectfully disagree is what Charlie Kirk stood for, and that \"anyone who is divisive over this right is fake and gay\" (per the host's reported phrasing).",
+      "anchored_artifacts": [
+        "A-1320.7"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:47:40",
+      "investigative_direction": "No investigative direction required — viewer comment is recorded as artifact."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1583",
+      "ref": "C-1583",
+      "label": "Host Characterizes Ben Shapiro Segment as Scripted Stab",
+      "claim": "Host characterizes Ben Shapiro's segment attacking Tucker Carlson as \"a very, dare I say, scripted stab\" that \"took\" the same talking points as other Zionists.",
+      "anchored_artifacts": [
+        "A-1314.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:10:00",
+      "investigative_direction": "This is a host interpretive stance; verification is anchored to A-1314.1.",
+      "confidence": "medium"
+    }
+  ],
+  "memes": []
+}

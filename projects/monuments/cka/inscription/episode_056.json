@@ -1,0 +1,1172 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 56,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "cd9e59e9564d3269c2ae61263c05f67dbccdca4b58de59c5ca01c69abc42da57",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1617",
+      "family_ref": "A-1617",
+      "bundle_name": "Charlie Kirk Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1617.1",
+          "ref": "A-1617.1",
+          "description": "Audio clip of Charlie Kirk arguing against broader US military involvement in Iran, critiquing Lindsey Graham's call for regime change.",
+          "related_claims": [
+            "C-2075",
+            "C-2076"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-716"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:58",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1618",
+      "family_ref": "A-1618",
+      "bundle_name": "Tucker Carlson Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1618.1",
+          "ref": "A-1618.1",
+          "description": "Audio clip of Tucker Carlson comparing Lindsey Graham's behavior to a drunk girlfriend during a DUI stop, in the context of Iran policy.",
+          "related_claims": [
+            "C-2092"
+          ],
+          "related_nodes": [
+            "N-715",
+            "N-716"
+          ],
+          "tags": [],
+          "video_timestamp": "00:07:08",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1619",
+      "family_ref": "A-1619",
+      "bundle_name": "Court Filing Bundle — Alton C. Jennings Will Challenge",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1619.1",
+          "ref": "A-1619.1",
+          "description": "Court petition filed December 2024 challenging the last will and testament and trust of Alton C. Jennings, naming Turning Point USA and Young America's Foundation as recipients of a redirected estate.",
+          "related_claims": [
+            "C-2077",
+            "C-2078",
+            "C-2079",
+            "C-2080"
+          ],
+          "related_nodes": [
+            "N-706",
+            "N-707",
+            "N-708",
+            "N-85",
+            "N-1480"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:58",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1620",
+      "family_ref": "A-1620",
+      "bundle_name": "TPUSA Board Member Profile Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1620.1",
+          "ref": "A-1620.1",
+          "description": "Host-narrated reference to Paul E. Valli (Valerie) as a Turning Point USA board member, described as former military commander of the 7th Psychological Operations Group, with two Vietnam combat tours and postings in Japan, Korea, Iraq, Israel, and Europe.",
+          "related_claims": [
+            "C-2081"
+          ],
+          "related_nodes": [
+            "N-710",
+            "N-1481"
+          ],
+          "tags": [],
+          "video_timestamp": "00:18:40",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1621",
+      "family_ref": "A-1621",
+      "bundle_name": "Mind War Book Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1621.1",
+          "ref": "A-1621.1",
+          "description": "Reference to the 1980 book *Mind War* co-authored by Paul Valli and Major Michael Aquino.",
+          "related_claims": [
+            "C-2082"
+          ],
+          "related_nodes": [
+            "N-710",
+            "N-711",
+            "N-1481"
+          ],
+          "tags": [],
+          "video_timestamp": "00:21:42",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1622",
+      "family_ref": "A-1622",
+      "bundle_name": "Michael Aquino Interview / Background Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1622.1",
+          "ref": "A-1622.1",
+          "description": "Audio interview clip of Michael Aquino describing the Temple of Set's stated philosophical goals (exploring consciousness, Egyptian religious framework).",
+          "related_claims": [
+            "C-2084"
+          ],
+          "related_nodes": [
+            "N-711"
+          ],
+          "tags": [],
+          "video_timestamp": "00:22:54",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1622.2",
+          "ref": "A-1622.2",
+          "description": "Host-narrated reference to Aquino joining the Church of Satan in 1969, rising to Magister Caverns of the fourth degree, editing *The Cloven Hoof*, and leaving in 1975 to found the Temple of Set after the LaVey/schism.",
+          "related_claims": [
+            "C-2083",
+            "C-2084"
+          ],
+          "related_nodes": [
+            "N-711"
+          ],
+          "tags": [],
+          "video_timestamp": "00:22:47",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1623",
+      "family_ref": "A-1623",
+      "bundle_name": "San Francisco Police Investigation Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1623.1",
+          "ref": "A-1623.1",
+          "description": "Reference to a 1986 San Francisco Police Department investigation into Michael Aquino in connection with the Army Child Development Center.",
+          "related_claims": [
+            "C-2085"
+          ],
+          "related_nodes": [
+            "N-711"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:27:54",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1623.2",
+          "ref": "A-1623.2",
+          "description": "Reference to a 1987 victim identification of Aquino; case closed for insufficient evidence despite victim describing the house involved.",
+          "related_claims": [
+            "C-2086"
+          ],
+          "related_nodes": [
+            "N-711"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:27:54",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1624",
+      "family_ref": "A-1624",
+      "bundle_name": "Harvest Christian Fellowship Lawsuit Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1624.1",
+          "ref": "A-1624.1",
+          "description": "Article reference reporting twelve lawsuits filed against Harvest Christian Fellowship and Greg Laurie in connection with alleged abuse at a children's home in Bucharest, Romania.",
+          "related_claims": [
+            "C-2087"
+          ],
+          "related_nodes": [
+            "N-712",
+            "N-713",
+            "N-1482"
+          ],
+          "tags": [],
+          "video_timestamp": "00:32:12",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1624.2",
+          "ref": "A-1624.2",
+          "description": "Reference to original September lawsuit by two men against former Harvest pastor/missionary Paul Hascgard (Habsgard) alleging abuse at the Romanian children's shelter, including children tied to radiators, kneeling on walnut shells, inappropriate touching, and sex trafficking.",
+          "related_claims": [
+            "C-2088"
+          ],
+          "related_nodes": [
+            "N-713",
+            "N-1482"
+          ],
+          "tags": [],
+          "video_timestamp": "00:34:03",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1624.3",
+          "ref": "A-1624.3",
+          "description": "Reference to law firm news release stating twenty-three former residents of the home are expected to bring complaints; most recent complaints filed November (year implicit in context).",
+          "related_claims": [
+            "C-2089"
+          ],
+          "related_nodes": [
+            "N-713",
+            "N-1482"
+          ],
+          "tags": [],
+          "video_timestamp": "00:35:00",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1625",
+      "family_ref": "A-1625",
+      "bundle_name": "Scott Adams Death News Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1625.1",
+          "ref": "A-1625.1",
+          "description": "News reference to the death of Scott Adams (Dilbert creator) at age 68 from prostate cancer, with host noting he stated he was \"coming to the Lord\" before death.",
+          "related_claims": [
+            "C-2090"
+          ],
+          "related_nodes": [
+            "N-714"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:11",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1626",
+      "family_ref": "A-1626",
+      "bundle_name": "Social Blade Instagram Purge Data Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1626.1",
+          "ref": "A-1626.1",
+          "description": "Reference (host-cited) to Social Blade data showing Erica Kirk deleted 126 Instagram posts on June 19, framed in context of the master timeline.",
+          "related_claims": [
+            "C-2091"
+          ],
+          "related_nodes": [
+            "N-1006",
+            "N-1483"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:24",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1627",
+      "family_ref": "A-1627",
+      "bundle_name": "Andrew Aguilar Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1627.1",
+          "ref": "A-1627.1",
+          "description": "Comment from Andrew (Anthony) Aguilar — self-identified Gaza whistleblower Green Beret — stating he was arrested on September 3 in Congress for calling out AIPAC and offering to appear on the show.",
+          "related_claims": [
+            "C-2093"
+          ],
+          "related_nodes": [
+            "N-719"
+          ],
+          "tags": [],
+          "video_timestamp": "00:44:19",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-717",
+      "ref": "N-717",
+      "name": "Node 717",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "[Existing node reused.] Subject of audio clip and timeline references throughout the episode.",
+      "related_artifacts": [
+        "A-1617.1"
+      ],
+      "related_claims": [
+        "C-2075",
+        "C-2076"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1006",
+      "ref": "N-1006",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "[Existing node reused.] Subject of Instagram-purge data and PR critique.",
+      "related_artifacts": [
+        "A-1626.1"
+      ],
+      "related_claims": [
+        "C-2091"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1483"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-706",
+      "ref": "N-706",
+      "name": "Alton C. Jennings",
+      "type": "person",
+      "description": "Decedent, age 95, whose $25M estate is the subject of a December 2024 will challenge naming TPUSA and YAF as recipients.",
+      "related_artifacts": [
+        "A-1619.1"
+      ],
+      "related_claims": [
+        "C-2077",
+        "C-2078"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1480"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-707",
+      "ref": "N-707",
+      "name": "Mitch Manley Sr.",
+      "type": "person",
+      "description": "Caretaker hired by Alton C. Jennings in 2021; named in will-challenge petition as having isolated decedent from family.",
+      "related_artifacts": [
+        "A-1619.1"
+      ],
+      "related_claims": [
+        "C-2077"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1480"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-708",
+      "ref": "N-708",
+      "name": "Mitch Manley Jr.",
+      "type": "person",
+      "description": "Son of Mitch Manley Sr.; described as working for Turning Point USA on Charlie Kirk's show during the period the Jennings estate was redirected.",
+      "related_artifacts": [
+        "A-1619.1"
+      ],
+      "related_claims": [
+        "C-2079"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-707",
+        "N-1480"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-710",
+      "ref": "N-710",
+      "name": "Paul Valli (a.k.a. Valerie)",
+      "type": "person",
+      "description": "Turning Point USA board member; former military commander of the 7th Psychological Operations Group; co-author of *Mind War* (1980) with Michael Aquino.",
+      "related_artifacts": [
+        "A-1620.1",
+        "A-1621.1"
+      ],
+      "related_claims": [
+        "C-2081",
+        "C-2082"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-711",
+        "N-1481"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-711",
+      "ref": "N-711",
+      "name": "Michael Aquino",
+      "type": "person",
+      "description": "Former US Army Major; intelligence officer; co-author of *Mind War* (1980); member of Church of Satan from 1969; founder of Temple of Set (1975); subject of 1986–1987 San Francisco child-abuse investigation (insufficient evidence).",
+      "related_artifacts": [
+        "A-1621.1",
+        "A-1622.1",
+        "A-1622.2",
+        "A-1623.1",
+        "A-1623.2"
+      ],
+      "related_claims": [
+        "C-2082",
+        "C-2083",
+        "C-2084",
+        "C-2085",
+        "C-2086"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-710",
+        "N-1481"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-712",
+      "ref": "N-712",
+      "name": "Greg Laurie",
+      "type": "person",
+      "description": "Founder of Harvest Christian Fellowship; named defendant in twelve lawsuits alleging abuse at affiliated Romanian children's home.",
+      "related_artifacts": [
+        "A-1624.1"
+      ],
+      "related_claims": [
+        "C-2087"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-713",
+        "N-1482"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-713",
+      "ref": "N-713",
+      "name": "Paul Hascgard (Habsgard)",
+      "type": "person",
+      "description": "Former Harvest Christian Fellowship pastor/missionary; named defendant in original September lawsuit alleging abuse of children at Romanian shelter.",
+      "related_artifacts": [
+        "A-1624.2",
+        "A-1624.3"
+      ],
+      "related_claims": [
+        "C-2088",
+        "C-2089"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-712",
+        "N-1482"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-714",
+      "ref": "N-714",
+      "name": "Scott Adams",
+      "type": "person",
+      "description": "Creator of *Dilbert*; died at age 68 of prostate cancer (referenced in this episode).",
+      "related_artifacts": [
+        "A-1625.1"
+      ],
+      "related_claims": [
+        "C-2090"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-715",
+      "ref": "N-715",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Host/commentator whose audio clip is presented in this episode.",
+      "related_artifacts": [
+        "A-1618.1"
+      ],
+      "related_claims": [
+        "C-2092"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-716",
+      "ref": "N-716",
+      "name": "Lindsey Graham",
+      "type": "person",
+      "description": "US Senator; subject of critique in Charlie Kirk and Tucker Carlson audio clips.",
+      "related_artifacts": [
+        "A-1617.1",
+        "A-1618.1"
+      ],
+      "related_claims": [
+        "C-2076",
+        "C-2092"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-718",
+      "ref": "N-718",
+      "name": "Wed Mahmoud (Wed Mahmoud)",
+      "type": "person",
+      "description": "Referenced by host as a name appearing both on the SUBTU plane into Provo and on the \"yellow plane\" on the day of Charlie Kirk's assassination (timeline build).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2094",
+        "C-2095"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-719",
+      "ref": "N-719",
+      "name": "Andrew (Anthony) Aguilar",
+      "type": "person",
+      "description": "Self-identified former Green Beret; claims arrest at US Capitol for calling out AIPAC.",
+      "related_artifacts": [
+        "A-1627.1"
+      ],
+      "related_claims": [
+        "C-2093"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1480",
+      "ref": "N-1480",
+      "name": "Alton C. Jennings Will Challenge — TPUSA / YAF as Recipients",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: pattern of elderly estates redirected to TPUSA-affiliated organizations, including a $25M estate (Alton C. Jennings) reportedly reassigned November 2023, four months before decedent's death at age 95.",
+      "related_artifacts": [
+        "A-1619.1"
+      ],
+      "related_claims": [
+        "C-2077",
+        "C-2078",
+        "C-2080"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-706",
+        "N-707",
+        "N-708",
+        "N-85"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1481",
+      "ref": "N-1481",
+      "name": "TPUSA Board Member Military–Satanism Connection",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: link between a TPUSA board member (Paul Valli) and military psychological-operations / Satanist / Temple of Set networks (Michael Aquino).",
+      "related_artifacts": [
+        "A-1620.1",
+        "A-1621.1",
+        "A-1622.1",
+        "A-1622.2",
+        "A-1623.1",
+        "A-1623.2"
+      ],
+      "related_claims": [
+        "C-2081",
+        "C-2082",
+        "C-2083",
+        "C-2084",
+        "C-2085",
+        "C-2086"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-710",
+        "N-711"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1482",
+      "ref": "N-1482",
+      "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: cluster of twelve (rising to twenty-three expected) lawsuits against Harvest Christian Fellowship/Greg Laurie/Paul Hascgard alleging abuse of children at a Romanian shelter.",
+      "related_artifacts": [
+        "A-1624.1",
+        "A-1624.2",
+        "A-1624.3"
+      ],
+      "related_claims": [
+        "C-2087",
+        "C-2088",
+        "C-2089"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-712",
+        "N-713"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1483",
+      "ref": "N-1483",
+      "name": "Erica Kirk June 19 Instagram Purge",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: reported deletion of 126 Instagram posts on June 19, framed in the master timeline as a possible pre-event secrecy action.",
+      "related_artifacts": [
+        "A-1626.1"
+      ],
+      "related_claims": [
+        "C-2091"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1006"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Governor Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2075",
+      "ref": "C-2075",
+      "label": "Charlie Kirk Argued Against Broader US Military Involvement in Iran",
+      "claim": "Charlie Kirk, in his own recorded words, argued against broader US military engagement with Iran and against neocon calls for regime change.",
+      "anchored_artifacts": [
+        "A-1617.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-717"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:58",
+      "investigative_direction": "Obtain primary recording and timestamp; verify quote against original source; confirm date of recording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2076",
+      "ref": "C-2076",
+      "label": "Charlie Kirk Criticized Lindsey Graham's Iran Regime-Change Rhetoric",
+      "claim": "Charlie Kirk criticized Lindsey Graham's call for regime change in Iran as analogous to Hillary Clinton's Libya intervention.",
+      "anchored_artifacts": [
+        "A-1617.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-716"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:58",
+      "investigative_direction": "Obtain primary recording; verify exact phrasing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2077",
+      "ref": "C-2077",
+      "label": "Court Petition Filed December 2024 Challenges Alton C. Jennings Will Against TPUSA and YAF",
+      "claim": "A court petition was filed in December 2024 by Alton C. Jennings's grandson, challenging the last will and trust on the grounds of cognitive decline and undue influence by caretaker Mitch Manley Sr.",
+      "anchored_artifacts": [
+        "A-1619.1"
+      ],
+      "related_nodes": [
+        "N-706",
+        "N-707",
+        "N-1480"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:58",
+      "investigative_direction": "Obtain docket records (case number, court, jurisdiction); verify filing date and parties; confirm allegations are pleaded in the petition."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2078",
+      "ref": "C-2078",
+      "label": "Alton C. Jennings Estate Valued at $25M; Will Changed November 2023, Four Months Before Death",
+      "claim": "Alton C. Jennings's estate was valued at $25 million, and his will was reportedly changed in November 2023 — approximately four months before his death at age 95.",
+      "anchored_artifacts": [
+        "A-1619.1"
+      ],
+      "related_nodes": [
+        "N-706",
+        "N-1480"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:20",
+      "investigative_direction": "Obtain probate court filings; verify valuation and date of will execution."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2079",
+      "ref": "C-2079",
+      "label": "Mitch Manley Jr. Worked on Charlie Kirk's TPUSA Show While His Father Was Caretaker",
+      "claim": "Mitch Manley Jr. (son of caretaker Mitch Manley Sr.) was employed by Turning Point USA on Charlie Kirk's show during the period his father was serving as Alton Jennings's caretaker.",
+      "anchored_artifacts": [
+        "A-1619.1"
+      ],
+      "related_nodes": [
+        "N-707",
+        "N-708",
+        "N-1480"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:20",
+      "investigative_direction": "Verify employment records; cross-check TPUSA staff listings; obtain dates of employment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2080",
+      "ref": "C-2080",
+      "label": "Jennings Estate Reportedly Split Between Turning Point Action and YAF",
+      "claim": "The redirected Jennings estate was reportedly split between Turning Point Action (headed by Tyler Bowyer) and Young America's Foundation (YAF).",
+      "anchored_artifacts": [
+        "A-1619.1"
+      ],
+      "related_nodes": [
+        "N-85",
+        "N-1480"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:23",
+      "investigative_direction": "Obtain probate records reflecting beneficiary designations; verify allocation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2081",
+      "ref": "C-2081",
+      "label": "Paul Valli Is a TPUSA Board Member and Former Commander of the 7th PSYOP Group",
+      "claim": "Paul E. Valli (Valerie) is identified as a Turning Point USA board member, with a military background as commander of the 7th Psychological Operations Group and two Vietnam combat tours.",
+      "anchored_artifacts": [
+        "A-1620.1"
+      ],
+      "related_nodes": [
+        "N-710",
+        "N-1481"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:40",
+      "investigative_direction": "Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2082",
+      "ref": "C-2082",
+      "label": "Valli and Aquino Co-Authored *Mind War* in 1980",
+      "claim": "Paul Valli and Major Michael Aquino co-authored the book *Mind War* in 1980.",
+      "anchored_artifacts": [
+        "A-1621.1"
+      ],
+      "related_nodes": [
+        "N-710",
+        "N-711",
+        "N-1481"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:42",
+      "investigative_direction": "Obtain bibliographic record (publisher, ISBN); verify authorship."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2083",
+      "ref": "C-2083",
+      "label": "Michael Aquino Joined the Church of Satan in 1969",
+      "claim": "Michael Aquino joined the Church of Satan in 1969 and rose within its hierarchy.",
+      "anchored_artifacts": [
+        "A-1622.2"
+      ],
+      "related_nodes": [
+        "N-711",
+        "N-1481"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:47",
+      "investigative_direction": "Cross-check Aquino's published biographical statements; consult Church of Satan archives."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2084",
+      "ref": "C-2084",
+      "label": "Aquino Founded the Temple of Set in 1975",
+      "claim": "Michael Aquino left the Church of Satan in 1975 and founded the Temple of Set after a doctrinal dispute over whether Satan was literal or metaphorical.",
+      "anchored_artifacts": [
+        "A-1622.1",
+        "A-1622.2"
+      ],
+      "related_nodes": [
+        "N-711",
+        "N-1481"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:47",
+      "investigative_direction": "Verify founding documents; cross-check Temple of Set records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2085",
+      "ref": "C-2085",
+      "label": "SF Police Investigated Aquino in 1986 re: Army Child Development Center",
+      "claim": "In 1986, San Francisco police opened an investigation into Michael Aquino in connection with allegations of sexual abuse at the Army's Child Development Center in San Francisco.",
+      "anchored_artifacts": [
+        "A-1623.1"
+      ],
+      "related_nodes": [
+        "N-711",
+        "N-1481"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:54",
+      "investigative_direction": "Obtain SFPD case records (case number); verify closure status and stated reason."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2086",
+      "ref": "C-2086",
+      "label": "1987 Victim Identified Aquino; Case Closed for Insufficient Evidence",
+      "claim": "In 1987, a girl came forward identifying Aquino as the perpetrator, but the case was closed for insufficient evidence, despite the victim reportedly describing the house where abuse occurred.",
+      "anchored_artifacts": [
+        "A-1623.2"
+      ],
+      "related_nodes": [
+        "N-711",
+        "N-1481"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:54",
+      "investigative_direction": "Obtain SFPD records; review any subsequent civil filings; cross-check victim statements if available."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2087",
+      "ref": "C-2087",
+      "label": "Twelve Lawsuits Filed Against Harvest Christian Fellowship re: Romanian Children's Home",
+      "claim": "Twelve lawsuits have been filed against Harvest Christian Fellowship and Greg Laurie alleging abuse of young men at a children's home in Romania.",
+      "anchored_artifacts": [
+        "A-1624.1"
+      ],
+      "related_nodes": [
+        "N-712",
+        "N-1482"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:12",
+      "investigative_direction": "Obtain court filings (case numbers, jurisdiction); verify plaintiff count."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2088",
+      "ref": "C-2088",
+      "label": "Allegations Include Specific Abuse Categories at Romanian Shelter",
+      "claim": "Allegations against Paul Hascgard at the Bucharest children's shelter include children being tied to radiators, made to kneel on walnut shells, touched inappropriately, and pimped out for sex.",
+      "anchored_artifacts": [
+        "A-1624.2"
+      ],
+      "related_nodes": [
+        "N-713",
+        "N-1482"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:03",
+      "investigative_direction": "Obtain original complaint; verify specificity of allegations; confirm Hascgard's status (former pastor/missionary)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2089",
+      "ref": "C-2089",
+      "label": "Twenty-Three Former Residents Expected to File Complaints",
+      "claim": "The law firm representing survivors has stated that twenty-three former residents of the home are expected to bring complaints; most recent complaints were filed in November.",
+      "anchored_artifacts": [
+        "A-1624.3"
+      ],
+      "related_nodes": [
+        "N-713",
+        "N-1482"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:00",
+      "investigative_direction": "Obtain law firm press release; track complaint filings in docket."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2090",
+      "ref": "C-2090",
+      "label": "Scott Adams Died at 68 from Prostate Cancer",
+      "claim": "Scott Adams, creator of *Dilbert*, died at age 68 from prostate cancer; host states he had said he was \"coming to the Lord\" before passing.",
+      "anchored_artifacts": [
+        "A-1625.1"
+      ],
+      "related_nodes": [
+        "N-714"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:11",
+      "investigative_direction": "Cross-check obituary; verify cause of death and date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2091",
+      "ref": "C-2091",
+      "label": "Social Blade Records Erica Kirk Deleting 126 Instagram Posts on June 19",
+      "claim": "Social Blade data records Erica Kirk deleting 126 Instagram posts on June 19.",
+      "anchored_artifacts": [
+        "A-1626.1"
+      ],
+      "related_nodes": [
+        "N-1006",
+        "N-1483"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:24",
+      "investigative_direction": "Obtain direct screenshot of Social Blade historical record; verify count and date; archive any recovered posts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2092",
+      "ref": "C-2092",
+      "label": "Tucker Carlson Compared Lindsey Graham's Behavior to a Drunk Girlfriend During DUI Stop",
+      "claim": "Tucker Carlson, in his own recorded words, compared Lindsey Graham's foreign-policy behavior to a drunk girlfriend screaming at a cop during a DUI stop.",
+      "anchored_artifacts": [
+        "A-1618.1"
+      ],
+      "related_nodes": [
+        "N-715",
+        "N-716"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:08",
+      "investigative_direction": "Locate original clip; verify date and outlet."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2093",
+      "ref": "C-2093",
+      "label": "Andrew Aguilar Claims Arrest at US Capitol on September 3 for Calling Out AIPAC",
+      "claim": "Andrew (Anthony) Aguilar, self-identified as a Gaza-whistleblower Green Beret, states he was arrested on September 3 at Congress for calling out AIPAC.",
+      "anchored_artifacts": [
+        "A-1627.1"
+      ],
+      "related_nodes": [
+        "N-719"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:19",
+      "investigative_direction": "Verify arrest record (US Capitol Police, court records); verify date; obtain any charging documents or dismissals."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2094",
+      "ref": "C-2094",
+      "label": "Plane SUBTU Traveled to Provo May 23 with Follow-Up May 27, Hosting Wed Mahmoud",
+      "claim": "Host states, per her master timeline, that plane SUBTU arrived in Provo on May 23 (anchor plane) with a follow-up arrival May 27 carrying Wed Mahmoud, and departed June 2; transponders reportedly manipulated to obscure actual flight path.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-718"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:14",
+      "investigative_direction": "Obtain flight records (FAA, Flightradar24 archives); cross-check tail number; verify passenger manifest if available. **[Optional Flag: Artifact verbally referenced but not shown in this episode]**"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2095",
+      "ref": "C-2095",
+      "label": "Host Asserts Iran–Israel 12-Day War Commenced June 13 Following Plane Departures",
+      "claim": "Host asserts that the Iran–Israel 12-day war commenced on June 13, immediately following the SUBTU plane's reported departure from Provo on June 2.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-718"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:59",
+      "investigative_direction": "Verify conflict onset date via public news records; cross-check host's timeline against flight records."
+    }
+  ],
+  "memes": []
+}

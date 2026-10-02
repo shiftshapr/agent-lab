@@ -1,0 +1,866 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 135,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "bf83885e7ed25e55d64fb92daad61c1729233894484548da93484ca3b9d1514e",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "The episode advances two principal investigative threads. The first concerns the identity, biography, and affiliations of Dr. Andrew Guajardo, identified by the host as the deputy chief medical examiner who signed off on Charlie Kirk's autopsy, and his marriage to Dr. Ashley Brown Guajardo, a sociologist specializing in gamer and furry community research. The host juxtaposes Dr. Ashley's academic profile with online culture associated with the alleged shooter Tyler Robinson and his boyfriend Lance Twiggs. The second thread concerns an unverified source tip asserting that Timpanogos Hospital's emergency room was evacuated to a different wing at roughly 10:00 a.m. on September 10 — over two hours before the shooting — and that patients were subsequently shuttled to Intermountain/Utah Valley Hospital. The host bridges this tip to a previously surfaced hospital file showing Charlie Kirk's record in the Intermountain system, originally disclosed in an October 28, 2025 episode.\n\nThe episode also reads aloud three artifact-anchored medical professional communications (an anesthesiologist email, a transplant coordinator email, and a surgeon YouTube comment) advancing the shaped-charge / exploding-microphone alternative theory of Charlie's neck wound and questioning the unusually short autopsy timeline.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2217",
+      "family_ref": "A-2217",
+      "bundle_name": "Penguin Random House Book Listing Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2217.1",
+          "ref": "A-2217.1",
+          "description": "On-screen display of \"Play Like a Fangirl\" book listing on Penguin Random House, read aloud",
+          "related_claims": [
+            "C-3175",
+            "C-3176"
+          ],
+          "related_nodes": [
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2218",
+      "family_ref": "A-2218",
+      "bundle_name": "Academic Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2218.1",
+          "ref": "A-2218.1",
+          "description": "Recorded audio explanation of the distinction between erotic role play and cybersex, presented as Dr. Ashley Brown Guajardo's academic framing",
+          "related_claims": [
+            "C-3184"
+          ],
+          "related_nodes": [
+            "N-1208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:10:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2219",
+      "family_ref": "A-2219",
+      "bundle_name": "Brian Harpole Preliminary Hearing Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2219.1",
+          "ref": "A-2219.1",
+          "description": "Audio playback of Brian Harpole's preliminary hearing testimony describing the ER scene (cutting Charlie's shirt, discussing drugs with staff, exiting the room, guarding the door)",
+          "related_claims": [
+            "C-3177"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2220",
+      "family_ref": "A-2220",
+      "bundle_name": "Medical Professional Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2220.1",
+          "ref": "A-2220.1",
+          "description": "Email read aloud from self-identified board-certified anesthesiologist (25 years clinical experience) regarding shaped charge theory, neck wound analysis, and missing resuscitative equipment at scene",
+          "related_claims": [
+            "C-3178",
+            "C-3179",
+            "C-3180"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2166",
+            "N-2167"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2220.2",
+          "ref": "A-2220.2",
+          "description": "Email read aloud from self-identified transplant coordinator / former scrub nurse at level one trauma center regarding autopsy timeline, thoracic trauma patterns, and body temperature in morgue",
+          "related_claims": [
+            "C-3181"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2166"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2221",
+      "family_ref": "A-2221",
+      "bundle_name": "YouTube Medical Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2221.1",
+          "ref": "A-2221.1",
+          "description": "YouTube comment read aloud from self-identified surgeon regarding cervical spine trajectory, obliteration of C2–C7 left side, and shaped charge compatibility",
+          "related_claims": [
+            "C-3182",
+            "C-3183"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2167"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2222",
+      "family_ref": "A-2222",
+      "bundle_name": "Lozi Center Witness Recording Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2222.1",
+          "ref": "A-2222.1",
+          "description": "Audio recording of witness observing a person on the Lozi Center rooftop via military crawling into position before the \"bang\"; witness does not state seeing a firearm",
+          "related_claims": [
+            "C-3185",
+            "C-3187"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2168"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary subject of the investigation and source of all medical/hospital evidentiary claims.",
+      "related_artifacts": [
+        "A-2219.1",
+        "A-2220.1",
+        "A-2220.2",
+        "A-2221.1",
+        "A-2222.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1023",
+      "ref": "N-1023",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "Referenced as participant in the memorial/visit timing (per nurse email autopsy calculation) and as subject of burial/cremation question raised in viewer comments.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3181"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2166"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Deputy Chief Medical Examiner of Utah per host assertion; identified as having signed off on Charlie Kirk's autopsy; moved from New York to Utah in 2018; promoted to deputy chief in 2024 under Dr. Deidra Amaro; reportedly now departed for New York chief medical examiner position; husband of Dr. Ashley Brown Guajardo.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1208",
+        "N-1209",
+        "N-2166"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Sociologist; author of \"Play Like a Fangirl\" (Penguin Random House); PhD from University of Manchester; faculty at University of Utah (~10 years), now assistant arts professor at NYU; hosts weekly Twitch stream on games user research; president of Digital Games Research Association; vice president of Global Game Jam; co-director of IGDA games user research SIG; per host, identifies with and encourages engagement in furry/gamer culture; wife of Dr. Andrew Guajardo.",
+      "related_artifacts": [
+        "A-2217.1",
+        "A-2218.1"
+      ],
+      "related_claims": [
+        "C-3175",
+        "C-3176",
+        "C-3184"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1214",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Chief Medical Examiner of Utah; per host, promoted Dr. Andrew Guajardo to deputy chief in 2024; per host, has since left the position.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1207",
+        "N-2166"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Security team member; testified at preliminary hearing about the ER scene including cutting Charlie's shirt and discussing drugs with staff.",
+      "related_artifacts": [
+        "A-2219.1"
+      ],
+      "related_claims": [
+        "C-3177"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2165"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Security team member; per host, received scrubs from Mikey McCoy and claims he did CPR; subject of cross-claim dispute with Brian Harpole's account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1210",
+        "N-1212",
+        "N-2165"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Per host, provided scrubs to Frank Turek after the security team's clothing became unusable.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1211",
+        "N-2165"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Security team member; per Brian Harpole's account, holding Charlie during the car ride.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1210",
+        "N-2165"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Boyfriend of alleged shooter Tyler Robinson; per host, indicated in interview that Tyler was into gaming not politics; per host, uses \"Luna\" as an avatar rather than as trans identity.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1208",
+        "N-69",
+        "N-2167"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2164",
+      "ref": "N-2164",
+      "name": "Timpanogos Hospital Evacuation Tip",
+      "type": "investigation_target",
+      "description": "Source-asserted (verbal, not displayed) claim that Timpanogos Hospital ER staff directed all patients to a different wing approximately 10:00 a.m. on September 10, 2025, with patients then transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. — over two hours before Charlie Kirk's shooting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3188",
+        "C-3189"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-2169"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2165",
+      "ref": "N-2165",
+      "name": "Security Clothing Disposal Question",
+      "type": "investigation_target",
+      "description": "Host's assertion that FBI took security team clothing down to boxer briefs; host infers possible destruction rather than evidence preservation given FBI's prior behavior of towing and reselling the vehicle.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3191"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1210",
+        "N-1211",
+        "N-1212",
+        "N-1213"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2166",
+      "ref": "N-2166",
+      "name": "Autopsy Timeline Anomaly",
+      "type": "investigation_target",
+      "description": "Question raised by medical professional email (A-2220.2) and host regarding unusually short (~3 hour) autopsy timeline given typical protocol of bringing body to 40°F in morgue cooler before examination; estimate includes time Erika Kirk spent with the body on arrival.",
+      "related_artifacts": [
+        "A-2220.2"
+      ],
+      "related_claims": [
+        "C-3181"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-1209",
+        "N-1023"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2167",
+      "ref": "N-2167",
+      "name": "Shaped Charge / Exploding Microphone Hypothesis",
+      "type": "investigation_target",
+      "description": "Alternative theory advanced by multiple artifact-anchored medical communications suggesting Charlie Kirk's neck wound pattern is more consistent with a shaped charge in his lapel microphone than with a bullet; also encompasses the inference that recovered bullet fragments may actually be shaped charge casing.",
+      "related_artifacts": [
+        "A-2220.1",
+        "A-2221.1"
+      ],
+      "related_claims": [
+        "C-3186"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2168",
+      "ref": "N-2168",
+      "name": "Lozi Center Gun Verification Gap",
+      "type": "investigation_target",
+      "description": "Persistent absence of eyewitness confirmation that any firearm was visible on the Lozi Center rooftop; the witness recording (A-2222.1) describes only military crawling and positioning without mentioning a gun.",
+      "related_artifacts": [
+        "A-2222.1"
+      ],
+      "related_claims": [
+        "C-3185",
+        "C-3187"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2169",
+      "ref": "N-2169",
+      "name": "Utah Valley Hospital File Anomaly",
+      "type": "investigation_target",
+      "description": "Charlie Kirk's patient file appearing in Utah Valley Hospital / Intermountain Health electronic records on September 10, despite Timpanogos being named as receiving hospital; originally surfaced in October 28, 2025 episode; potentially explained by source-asserted patient transfer (N-2164) or by pre-existing record creation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3190"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-2164"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3175",
+      "ref": "C-3175",
+      "label": "Book authorship attribution",
+      "claim": "The displayed \"Play Like a Fangirl\" book listing on Penguin Random House identifies \"Ashley\" (alongside Christine and Tonya) as one of the book's authors.",
+      "anchored_artifacts": [
+        "A-2217.1"
+      ],
+      "related_nodes": [
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:16",
+      "investigative_direction": "Confirm authorship via Penguin Random House's official catalog or Library of Congress records; cross-reference Ashley's CV."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3176",
+      "ref": "C-3176",
+      "label": "Book description focus",
+      "claim": "The displayed book description states the work examines how women and queer gamers can express and elicit excitement, creativity, and desire in online gaming communities, and develops the \"fangirl gaze\" framework.",
+      "anchored_artifacts": [
+        "A-2217.1"
+      ],
+      "related_nodes": [
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:56",
+      "investigative_direction": "Verify description against Penguin Random House's official book page."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3177",
+      "ref": "C-3177",
+      "label": "Harpole preliminary hearing testimony content",
+      "claim": "Brian Harpole's preliminary hearing testimony, as played in the episode, states he cut Charlie Kirk's shirt with scissors, then discussed drug administration with the medical staff, then exited the room and guarded the door.",
+      "anchored_artifacts": [
+        "A-2219.1"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:46",
+      "investigative_direction": "Obtain official preliminary hearing transcript from Utah court records and compare to the played audio."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3178",
+      "ref": "C-3178",
+      "label": "Anesthesiologist wound-pattern assessment",
+      "claim": "Per the anesthesiologist's email, the observed wound pattern (blood/tissue eruption from left neck) is more consistent with an exit wound from a rear shot, or with a shaped charge originating from the chest area, than with a frontal bullet hit.",
+      "anchored_artifacts": [
+        "A-2220.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2167"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:16",
+      "investigative_direction": "Obtain the emailer's credentials (verify board certification), and cross-reference with forensic pathology literature on shaped-charge wounds."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3179",
+      "ref": "C-3179",
+      "label": "Anesthesiologist bullet fragment hypothesis",
+      "claim": "Per the anesthesiologist's email, what was recovered and labeled as \"bullet fragments\" may actually be the casing of a shaped charge that served as the projectile.",
+      "anchored_artifacts": [
+        "A-2220.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2167"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:48",
+      "investigative_direction": "Obtain the autopsy report and forensic lab analysis of recovered fragments to compare composition (copper jacket vs. other materials)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3180",
+      "ref": "C-3180",
+      "label": "Anesthesiologist scene equipment assessment",
+      "claim": "Per the anesthesiologist's email, no ambulance with resuscitative equipment or trained personnel was immediately available at the scene (no defibrillators, no IV drugs), and Charlie's neck was not stabilized before transport.",
+      "anchored_artifacts": [
+        "A-2220.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2167"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:41",
+      "investigative_direction": "Obtain dispatch logs, ambulance records, and witness statements to verify equipment availability and stabilization protocol."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3181",
+      "ref": "C-3181",
+      "label": "Nurse autopsy timeline analysis",
+      "claim": "Per the nurse's email, the autopsy timeline only supports approximately 3 hours in the morgue given typical body cooling rate (8 hours to reach 40°F), and the medical examiner's protocol appears rushed.",
+      "anchored_artifacts": [
+        "A-2220.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1023",
+        "N-2166"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:15",
+      "investigative_direction": "Obtain morgue intake logs, time of arrival, time of autopsy start, and medical examiner office cooling protocols."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3182",
+      "ref": "C-3182",
+      "label": "Surgeon trajectory assessment",
+      "claim": "Per the surgeon YouTube comment, the trajectory from a rooftop shooter is incompatible with the wound; to affect up to C2, an upward trajectory from the point of entry on the neck would be required.",
+      "anchored_artifacts": [
+        "A-2221.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2167"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:04",
+      "investigative_direction": "Verify medical examiner's official report for documented entry/exit points and trajectory analysis; cross-reference with crime scene ballistics."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3183",
+      "ref": "C-3183",
+      "label": "Surgeon cervical spine finding",
+      "claim": "Per the surgeon YouTube comment, the medical examiner's report states much of Charlie's cervical spine was traumatically gone, with the left side of C2 to C7 obliterated.",
+      "anchored_artifacts": [
+        "A-2221.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2167"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:04",
+      "investigative_direction": "Obtain the official medical examiner's report to verify the cervical spine description."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3184",
+      "ref": "C-3184",
+      "label": "Erotic role play vs cybersex academic explanation",
+      "claim": "Per the played audio attributed to Dr. Ashley Brown Guajardo, erotic role play involves playing a character different from oneself, while cybersex involves engaging as oneself — both use a keyboard for erotic expression but differ in character embodiment.",
+      "anchored_artifacts": [
+        "A-2218.1"
+      ],
+      "related_nodes": [
+        "N-1208"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:36",
+      "investigative_direction": "Locate the original source recording (lecture, podcast, conference talk) and verify attribution to Ashley Brown Guajardo."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3185",
+      "ref": "C-3185",
+      "label": "Witness recording absence of gun mention",
+      "claim": "Per the witness recording played in the episode, the witness observes a person running and getting into position on the Lozi Center rooftop but does not state seeing a firearm.",
+      "anchored_artifacts": [
+        "A-2222.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2168"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:24",
+      "investigative_direction": "Obtain the full witness recording and transcript; identify and interview the witness for confirmation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3186",
+      "ref": "C-3186",
+      "label": "Host concurrence with shaped charge theory",
+      "claim": "Host states she is \"team road mic\" and concurs with the shaped charge / exploding microphone hypothesis presented in the medical professional communications.",
+      "anchored_artifacts": [
+        "A-2220.1",
+        "A-2221.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2167"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:04",
+      "investigative_direction": "Note host stance for cross-referencing future evidentiary developments."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3187",
+      "ref": "C-3187",
+      "label": "Host concurrence: no gun observed on rooftop",
+      "claim": "Host concurs with the witness recording's omission of any gun mention and asserts that the idea of a gun on the Lozi Center rooftop is \"narrative, not a fact.\"",
+      "anchored_artifacts": [
+        "A-2222.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2168"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:24",
+      "investigative_direction": "Cross-reference with other rooftop witness accounts; obtain Lozi Center surveillance footage if available."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3188",
+      "ref": "C-3188",
+      "label": "Hospital evacuation tip (verbal source)",
+      "claim": "Per host's verbal source (not displayed in this episode), Timpanogos Hospital staff directed ER patients to a different wing at approximately 10:00 a.m. on September 10, 2025.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1",
+        "N-2164",
+        "N-2169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:00",
+      "investigative_direction": "Obtain independent verification — shuttle bus bookings, Google satellite imagery, Intermountain intake records, staff testimony."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3189",
+      "ref": "C-3189",
+      "label": "Patient transfer via shuttle tip (verbal source)",
+      "claim": "Per host's verbal source, ER patients were subsequently transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. on September 10, 2025.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1",
+        "N-2164",
+        "N-2169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:00",
+      "investigative_direction": "Obtain shuttle company records, Intermountain intake logs, and patient/witness testimony."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3190",
+      "ref": "C-3190",
+      "label": "Previous Utah Valley Hospital file reference",
+      "claim": "A patient file for Charlie Kirk was previously confirmed visible in the Utah Valley Hospital / Intermountain Health electronic system, as originally displayed in an October 28, 2025 episode.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1",
+        "N-2169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:08",
+      "investigative_direction": "Re-display the original document or obtain the leaked file independently for forensic verification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3191",
+      "ref": "C-3191",
+      "label": "FBI took security team clothing tip (verbal source)",
+      "claim": "Per host's assertion (based on an unnamed tip), the FBI took security team members' clothing down to their boxer briefs.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1210",
+        "N-1211",
+        "N-2165"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:40",
+      "investigative_direction": "Obtain defense discovery materials or testimony from security team members."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3192",
+      "ref": "C-3192",
+      "label": "Hospital EMR system incompatibility",
+      "claim": "Per host, the Timpanogos hospital Epic electronic medical record system did not communicate with Utah Valley's Intermountain Health system, so Charlie's file appearing at Utah Valley is anomalous.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1",
+        "N-2169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:02",
+      "investigative_direction": "Verify Epic-Intermountain system interface specifications and obtain audit logs of any record creation events."
+    }
+  ],
+  "memes": []
+}

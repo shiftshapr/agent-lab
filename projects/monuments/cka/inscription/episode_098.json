@@ -1,0 +1,1424 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 98,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "5eb7035303a9a0f0c01956d1da545d902c17401379f1f211ba96808ff60e689b",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode is dominated by host commentary on the Daily Wire's announced mass layoffs and a renewed pattern of alleged coordinated attacks against the host. The episode presents several artifact-anchored documentary exhibits: (1) the Daily Wire's own statement to Breitbart Media about restructuring, read aloud in full; (2) a business-analysis X post by user Akash Gupta quantifying the company's viewership collapse and workforce reduction; (3) multiple read-aloud X/Twitter posts and comments concerning sponsor-list boycotts, branding mockery, Laura Loomer's \"bad week\" tweet, and a Baron Coleman read-aloud comment about alleged Laura Loomer coordination; (4) a Times of Israel article on Israel's planned $4.1 million Christian geofencing PR campaign via Show Faith by Works LLC; (5) an Andrew Kolvet audio clip announcing the geofencing of 277,000 devices at the State Farm Stadium memorial; (6) a Ben Shapiro audio clip accusing the host's listeners of complicity; and (7) a substantive Live Comments bundle from the YouTube live chat during recording.\n\nThe episode advances three principal investigative threads: (a) the alleged coordination between the Dhillon Law Group / Slauson firm, Ben Shapiro, and Laura Loomer in launching the Brian Harpole lawsuit; (b) the alleged overlap between Dhillon Law Group's FARA-registered client Show Faith by Works and the Turning Point USA / Andrew Kolvet geofencing operation at Charlie Kirk's memorial; and (c) the host's framing that the Daily Wire's collapse is materially tied to Ben Shapiro's personal vendetta against her. The episode does not introduce primary documents into the Charlie Kirk assassination timeline, but rather reframes surrounding actors and their relationships.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2030",
+      "family_ref": "A-2030",
+      "bundle_name": "Daily Wire Restructuring Statement (Breitbart Media Bundle)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2030.1",
+          "ref": "A-2030.1",
+          "description": "Daily Wire statement on layoffs released to Breitbart Media",
+          "related_claims": [
+            "C-2834",
+            "C-2835",
+            "C-2836"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2031",
+      "family_ref": "A-2031",
+      "bundle_name": "Akash Gupta X Post Bundle (Daily Wire Business Analysis)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2031.1",
+          "ref": "A-2031.1",
+          "description": "Akash Gupta (@akashgupta or similar) X post analyzing Daily Wire collapse",
+          "related_claims": [
+            "C-2837",
+            "C-2838",
+            "C-2839",
+            "C-2840"
+          ],
+          "related_nodes": [
+            "N-1211"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2032",
+      "family_ref": "A-2032",
+      "bundle_name": "Sponsor Boycott X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2032.1",
+          "ref": "A-2032.1",
+          "description": "X post listing companies sponsoring Candace Owens' podcast and calling for boycott",
+          "related_claims": [
+            "C-2841"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2033",
+      "family_ref": "A-2033",
+      "bundle_name": "Candace Branding Mockery X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2033.1",
+          "ref": "A-2033.1",
+          "description": "X post noting Candace Owens branding on shirts, cups, computer stickers",
+          "related_claims": [
+            "C-2842"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2034",
+      "family_ref": "A-2034",
+      "bundle_name": "Laura Loomer \"Bad Week\" Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2034.1",
+          "ref": "A-2034.1",
+          "description": "Laura Loomer tweet: \"Damn, Candace Owens having a bad week almost like she got ambushed. Couldn't have happened to a more wretched…\"",
+          "related_claims": [
+            "C-2843"
+          ],
+          "related_nodes": [
+            "N-1726",
+            "N-1731"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2035",
+      "family_ref": "A-2035",
+      "bundle_name": "Times of Israel Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2035.1",
+          "ref": "A-2035.1",
+          "description": "Times of Israel article: \"Israel to spend up to $4.1 million on a Christian PR campaign in the West\"",
+          "related_claims": [
+            "C-2844",
+            "C-2845"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-1727",
+            "N-1728"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2036",
+      "family_ref": "A-2036",
+      "bundle_name": "FARA Filing — Show Faith by Works LLC Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2036.1",
+          "ref": "A-2036.1",
+          "description": "FARA registration filed by Show Faith by Works LLC; principal listed as Israel's Ministry of Foreign Affairs; U.S. representative: Chad Schnitker; geofencing partnership: Havoc Media; legal representative: Dhillon Law Group",
+          "related_claims": [
+            "C-2845",
+            "C-2846",
+            "C-2847",
+            "C-2851"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-1727"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2037",
+      "family_ref": "A-2037",
+      "bundle_name": "Andrew Kolvet Geofencing Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2037.1",
+          "ref": "A-2037.1",
+          "description": "Audio clip of Andrew Kolvet on Jesse's program stating partners geotagged 277,000 devices in the vicinity of State Farm Stadium in Glendale, Arizona",
+          "related_claims": [
+            "C-2848"
+          ],
+          "related_nodes": [
+            "N-1213",
+            "N-1728"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2038",
+      "family_ref": "A-2038",
+      "bundle_name": "Ben Shapiro Show Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2038.1",
+          "ref": "A-2038.1",
+          "description": "Audio clip of Ben Shapiro on his Friday show accusing Candace Owens' audience of complicity for monetizing \"evil\"",
+          "related_claims": [
+            "C-2849"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-1726"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:03",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2039",
+      "family_ref": "A-2039",
+      "bundle_name": "Baron Coleman Show Audio Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2039.1",
+          "ref": "A-2039.1",
+          "description": "Audio clip of Baron Coleman reading comment \"I'm from CLT\" alleging that \"Larry L\" attempted to pay a friend to photograph her at the Charlotte airport simultaneous with the lawsuit email",
+          "related_claims": [
+            "C-2850"
+          ],
+          "related_nodes": [
+            "N-1212",
+            "N-1731"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2040",
+      "family_ref": "A-2040",
+      "bundle_name": "Live Comments Bundle (YouTube Live Chat)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2040.1",
+          "ref": "A-2040.1",
+          "description": "Curious Joel comment: \"The mobile October 7th experience also includes the 6-hour stand-down order, so it might take a while to begin.\"",
+          "related_claims": [
+            "C-2853"
+          ],
+          "related_nodes": [
+            "N-1728"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:40",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2040.2",
+          "ref": "A-2040.2",
+          "description": "Character Life top comment: \"Every time someone tries to sue Candace, all they end up doing is giving the public a magnifying glass to look into their past.\"",
+          "related_claims": [
+            "C-2854"
+          ],
+          "related_nodes": [
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:05",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2040.3",
+          "ref": "A-2040.3",
+          "description": "Jen comments donation: \"I hope this will help you pay for attorneys to pursue discovery in the Brian Harpole case. It's the only chance we might have to get to the truth.\"",
+          "related_claims": [
+            "C-2855"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-1726"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:43",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2040.4",
+          "ref": "A-2040.4",
+          "description": "Mike Michaela donation in honor of Theo Von (Russian Blue Cat)",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:52:02",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2040.5",
+          "ref": "A-2040.5",
+          "description": "Legally Blonde comment offering freelance paralegal research",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:53:04",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2040.6",
+          "ref": "A-2040.6",
+          "description": "Fegliano comment: Blake Lively settled; win for adversaries of \"purchased corruption\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1215",
+            "N-1216",
+            "N-1726"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:54:14",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2040.7",
+          "ref": "A-2040.7",
+          "description": "Arcole $100 donation",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:56:47",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2040.8",
+          "ref": "A-2040.8",
+          "description": "Dankster Intel $100 donation: \"Foreign Agent Exposurer… chinks in the armor… taking back America from these grifting hands\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1727"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:56:47",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2040.9",
+          "ref": "A-2040.9",
+          "description": "Natty Nicole donation: \"Ben and Larry are discussing human beings\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1726"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:58:25",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2040.10",
+          "ref": "A-2040.10",
+          "description": "Kiwi comment: \"the look on Ben's face when God shows him the literal meaning of Isaiah 54:15\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:59:13",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2040.11",
+          "ref": "A-2040.11",
+          "description": "Cone Film: \"Christ is king\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:01:02",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2040.12",
+          "ref": "A-2040.12",
+          "description": "E Machine: \"Candace, will you tell us about your new relic? I noticed it when you returned from Rome.\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:01:02",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2040.13",
+          "ref": "A-2040.13",
+          "description": "Cecilia comment on merch sales",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:01:02",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2040.14",
+          "ref": "A-2040.14",
+          "description": "\"They call me Nana\" comment: daughter Jacqueline, early 20s, raising two sons, one with autism",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:01:02",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2040.15",
+          "ref": "A-2040.15",
+          "description": "Vadermore: \"Can we start a GoFundMe to save the little horse?\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:01:43",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2041",
+      "family_ref": "A-2041",
+      "bundle_name": "Matt Slauson X Wall Display Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2041.1",
+          "ref": "A-2041.1",
+          "description": "Matt Slauson X wall display: prior to acknowledging the Brian Harpole lawsuit, Slauson heavily retweeted Laura Loomer and her attacks against the host's family",
+          "related_claims": [
+            "C-2851"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1726",
+            "N-1731"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2042",
+      "family_ref": "A-2042",
+      "bundle_name": "Brian Harpole Lawsuit Document Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2042.1",
+          "ref": "A-2042.1",
+          "description": "Lawsuit document filed by Brian Harpole; final page lists Jacob William Roth as partner of the representing firm",
+          "related_claims": [
+            "C-2852"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-1209",
+            "N-1726"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2043",
+      "family_ref": "A-2043",
+      "bundle_name": "Jacob William Roth X Activity Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2043.1",
+          "ref": "A-2043.1",
+          "description": "Jacob William Roth retweeted the Brian Harpole lawsuit document",
+          "related_claims": [
+            "C-2853"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-1726"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2044",
+      "family_ref": "A-2044",
+      "bundle_name": "Show Faith by Works — Calvary Chapel / Dream City Church Targeting List Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2044.1",
+          "ref": "A-2044.1",
+          "description": "FARA filing naming churches targeted for geofencing; list overlaps with Turning Point USA-affiliated churches (Calvary Chapel churches; Dream City Church in Phoenix — same venue as Erika Kirk hosting and prior Trump event)",
+          "related_claims": [
+            "C-2846"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-1728"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Lawyer for the firm representing Brian Harpole in current lawsuit; previously represented Ben Shapiro in arbitration against Candace Owens for ~2 years. Slauson's X wall displayed heavy retweeting of Laura Loomer attacks before posting the lawsuit.",
+      "related_artifacts": [
+        "A-2041.1",
+        "A-2042.1"
+      ],
+      "related_claims": [
+        "C-2851",
+        "C-2852"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-1726"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Partner at the firm representing Brian Harpole; reportedly Ben Shapiro's brother-in-law (married to Shapiro's sister since 2018 per host).",
+      "related_artifacts": [
+        "A-2042.1",
+        "A-2043.1"
+      ],
+      "related_claims": [
+        "C-2852",
+        "C-2853"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1726"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Plaintiff in lawsuit against Candace Owens that arrived at the Charlotte airport in the week prior. Lawsuit filed via Slauson/Roth firm.",
+      "related_artifacts": [
+        "A-2042.1",
+        "A-2040.3"
+      ],
+      "related_claims": [
+        "C-2852",
+        "C-2855"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1726",
+        "N-1731"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Principal of Show Faith by Works LLC; prominent Christian conservative activist in California; the FARA-registered entity executing Israel's Christian geofencing campaign.",
+      "related_artifacts": [
+        "A-2035.1",
+        "A-2036.1"
+      ],
+      "related_claims": [
+        "C-2844",
+        "C-2845"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1727",
+        "N-1728"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "X user who authored the read-aloud business analysis of Daily Wire's collapse (170M → 22M monthly YouTube views; ~60% workforce reduction; comparison to Tucker Carlson / Megyn Kelly exits).",
+      "related_artifacts": [
+        "A-2031.1"
+      ],
+      "related_claims": [
+        "C-2837",
+        "C-2838",
+        "C-2839",
+        "C-2840"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Host of a separate show whose on-air reading of a viewer comment allegedly documenting Laura Loomer coordination at the Charlotte airport is displayed in this episode.",
+      "related_artifacts": [
+        "A-2039.1"
+      ],
+      "related_claims": [
+        "C-2850"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1731"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Turning Point USA figure who publicly stated partners geotagged 277,000 devices at the State Farm Stadium memorial. Reportedly seated with Harmeet Dhillon at the White House Correspondents Dinner.",
+      "related_artifacts": [
+        "A-2037.1"
+      ],
+      "related_claims": [
+        "C-2848"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1728"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Ben Shapiro's reported uncle; host alleges (with stated uncertainty) that he transferred uranium to Israel; host suggests prior \"anti-Semitism\" defense shielded him from prosecution.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1729"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Attorney for Justin Baldoni in the Blake Lively case referenced in A-2040.6.",
+      "related_artifacts": [
+        "A-2040.6"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "PR team member for Justin Baldoni in the Blake Lively case, cited alongside Friedman.",
+      "related_artifacts": [
+        "A-2040.6"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Individual referenced in accusations against the host's husband of a hit-and-run incident, denied by the host.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Security figure mentioned by host as having been cooperatively worked with; named alongside Brian Harpole as a potential target for subpoena discovery if the Harpole case proceeds.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1209",
+        "N-1726"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1726",
+      "ref": "N-1726",
+      "name": "Brian Harpole Lawsuit Coordination Question",
+      "type": "investigation_target",
+      "description": "Investigative target: did the Brian Harpole lawsuit, filed via Slauson/Roth, coordinate with Ben Shapiro, the Daily Wire, and/or Laura Loomer?",
+      "related_artifacts": [
+        "A-2042.1",
+        "A-2041.1",
+        "A-2043.1",
+        "A-2040.3",
+        "A-2038.1",
+        "A-2034.1"
+      ],
+      "related_claims": [
+        "C-2851",
+        "C-2852",
+        "C-2853",
+        "C-2855"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1209",
+        "N-1218"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1727",
+      "ref": "N-1727",
+      "name": "Dhillon Law Group / Show Faith by Works Connection",
+      "type": "investigation_target",
+      "description": "Investigative target: is the Dhillon Law Group's representation of Show Faith by Works (FARA) materially relevant to the firm's broader litigation posture in the Harpole case and the host's targeting?",
+      "related_artifacts": [
+        "A-2036.1",
+        "A-2035.1",
+        "A-2040.8"
+      ],
+      "related_claims": [
+        "C-2847",
+        "C-2851"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1210"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1728",
+      "ref": "N-1728",
+      "name": "Turning Point Geofencing / Show Faith by Works Link",
+      "type": "investigation_target",
+      "description": "Investigative target: did Show Faith by Works (or another FARA-registered entity) partner with Andrew Kolvet / Turning Point USA to geofence the State Farm Stadium memorial, and does the targeting list overlap with Turning Point-affiliated churches (Calvary Chapel / Dream City Church)?",
+      "related_artifacts": [
+        "A-2036.1",
+        "A-2037.1",
+        "A-2044.1",
+        "A-2040.1"
+      ],
+      "related_claims": [
+        "C-2846",
+        "C-2848"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1210",
+        "N-1213"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1729",
+      "ref": "N-1729",
+      "name": "Zalman Shapiro Uranium Transfer Verification",
+      "type": "investigation_target",
+      "description": "Investigative target: did Zalman Shapiro (alleged uncle) transfer uranium to Israel, and what was the disposition of any related prosecution?",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1730",
+      "ref": "N-1730",
+      "name": "Charlie Kirk Assassination Perpetrator Question",
+      "type": "investigation_target",
+      "description": "Persistent host assertion that Tyler Robinson did not act alone on a rooftop; flagged as ongoing series target.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1731",
+      "ref": "N-1731",
+      "name": "Charlotte Airport Photo Coordination Question",
+      "type": "investigation_target",
+      "description": "Investigative target: did Laura Loomer coordinate with Matt Slauson to obtain photographs of the host at the Charlotte airport simultaneous with the Harpole lawsuit email?",
+      "related_artifacts": [
+        "A-2039.1",
+        "A-2034.1",
+        "A-2041.1"
+      ],
+      "related_claims": [
+        "C-2843",
+        "C-2850"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1212"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2834",
+      "ref": "C-2834",
+      "label": "Daily Wire announced restructuring and mass layoffs in a statement released to Breitbart Media",
+      "claim": "The Daily Wire issued a statement to Breitbart Media describing layoffs as part of a \"restructuring\" decision.",
+      "anchored_artifacts": [
+        "A-2030.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:52"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2835",
+      "ref": "C-2835",
+      "label": "Daily Wire's statement asserted cuts were concentrated in the Nashville production office",
+      "claim": "The Daily Wire's statement said the cuts were largely concentrated at the Nashville production office.",
+      "anchored_artifacts": [
+        "A-2030.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:52",
+      "investigative_direction": "Cross-check statement against dismissed-employee reporting and prior production staffing rosters."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2836",
+      "ref": "C-2836",
+      "label": "Daily Wire's statement claimed new production investment in DC, the Northeast, and Florida",
+      "claim": "The Daily Wire's statement said it had added production staff in DC, the Northeast, and Florida over the past year.",
+      "anchored_artifacts": [
+        "A-2030.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:52",
+      "investigative_direction": "Verify against LinkedIn/public hiring records and any DC bureau disclosures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2837",
+      "ref": "C-2837",
+      "label": "Akash Gupta X post asserted Shapiro's monthly YouTube views collapsed from 170M (late 2023) to ~22M (early 2026)",
+      "claim": "An X analysis by Akash Gupta quantified Shapiro's YouTube monthly viewership as collapsing from approximately 170 million to approximately 22 million over roughly 18 months.",
+      "anchored_artifacts": [
+        "A-2031.1"
+      ],
+      "related_nodes": [
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:45",
+      "investigative_direction": "Verify via third-party YouTube analytics services (e.g., Social Blade)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2838",
+      "ref": "C-2838",
+      "label": "Akash Gupta X post asserted LayoffHedge.com estimates Daily Wire workforce reduction above 60% over the past year",
+      "claim": "The X analysis cited LayoffHedge.com estimates of cumulative Daily Wire workforce reduction above 60%.",
+      "anchored_artifacts": [
+        "A-2031.1"
+      ],
+      "related_nodes": [
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:45",
+      "investigative_direction": "Independently query LayoffHedge.com archive and corroborate with WARN Act filings in Tennessee."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2839",
+      "ref": "C-2839",
+      "label": "Akash Gupta X post stated Candace Owens has 5.5M YouTube subscribers and ~805M views since January 2025",
+      "claim": "The X analysis stated the host reached 5.5 million YouTube subscribers and generated roughly 805 million views since January 2025.",
+      "anchored_artifacts": [
+        "A-2031.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:45",
+      "investigative_direction": "Cross-check via YouTube studio public metrics."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2840",
+      "ref": "C-2840",
+      "label": "X post listed companies sponsoring Candace Owens' podcast and called for sponsor boycott",
+      "claim": "An X post listed companies sponsoring the host's podcast and urged boycotts and withdrawal of sponsorships.",
+      "anchored_artifacts": [
+        "A-2032.1"
+      ],
+      "related_nodes": [
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:55",
+      "investigative_direction": "Confirm sponsors listed match actual podcast ad-read sponsors."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2841",
+      "ref": "C-2841",
+      "label": "X post enumerated Candace Owens branding (shirts, cups, computer stickers) as evidence of branding/marketing",
+      "claim": "An X post described the host's name/face merchandise and stickers, framed mockingly.",
+      "anchored_artifacts": [
+        "A-2033.1"
+      ],
+      "related_nodes": [
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:13"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2842",
+      "ref": "C-2842",
+      "label": "Laura Loomer posted on X that Candace Owens \"having a bad week\" appeared coordinated",
+      "claim": "Laura Loomer tweeted the host was \"having a bad week almost like she got ambushed.\"",
+      "anchored_artifacts": [
+        "A-2034.1"
+      ],
+      "related_nodes": [
+        "N-1726",
+        "N-1731"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:50"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2843",
+      "ref": "C-2843",
+      "label": "Times of Israel reported Israel plans to spend up to $4.1M on a U.S. Christian geofencing PR campaign",
+      "claim": "A Times of Israel article reported Israel's Foreign Ministry plans to spend up to $4.1 million on a Christian-targeted marketing campaign via Show Faith by Works LLC, using geofencing technology.",
+      "anchored_artifacts": [
+        "A-2035.1"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-1727",
+        "N-1728"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:02",
+      "investigative_direction": "Cross-check against the original FARA filing in DOJ FARA database."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2844",
+      "ref": "C-2844",
+      "label": "Show Faith by Works LLC is run by Chad Schnitker per FARA filings",
+      "claim": "The FARA registration for Show Faith by Works LLC identifies Chad Schnitker, a California Christian conservative activist, as principal.",
+      "anchored_artifacts": [
+        "A-2035.1",
+        "A-2036.1"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-1727"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:00"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2845",
+      "ref": "C-2845",
+      "label": "Show Faith by Works LLC registered under FARA eight days after Charlie Kirk's assassination",
+      "claim": "Show Faith by Works LLC began its FARA contracting registration approximately eight days after Charlie Kirk's assassination.",
+      "anchored_artifacts": [
+        "A-2036.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1210",
+        "N-1727"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:00"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2846",
+      "ref": "C-2846",
+      "label": "Show Faith by Works LLC contracted Havoc Media following Charlie Kirk's public funeral",
+      "claim": "Show Faith by Works LLC was contracted by Havoc Media on the 8th [day], followed by the public funeral of Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-2036.1",
+        "A-2044.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1210",
+        "N-1727",
+        "N-1728"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:00",
+      "investigative_direction": "Confirm contract date and counterparty from FARA filing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2847",
+      "ref": "C-2847",
+      "label": "Andrew Kolvet stated partners geofenced 277,000 devices at State Farm Stadium in Glendale, Arizona",
+      "claim": "Andrew Kolvet announced on Jesse's program that partners geotagged over 277,000 devices in the vicinity of State Farm Stadium during the memorial.",
+      "anchored_artifacts": [
+        "A-2037.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-1728"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:12"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2848",
+      "ref": "C-2848",
+      "label": "Ben Shapiro publicly accused Candace Owens' audience of being \"complicit\" via monetization",
+      "claim": "On his Friday show, Ben Shapiro stated that audience members of the host \"foment this sort of evil\" by allowing her to monetize it through advertising.",
+      "anchored_artifacts": [
+        "A-2038.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-1726"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:03"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2849",
+      "ref": "C-2849",
+      "label": "Baron Coleman read aloud a comment alleging Laura Loomer attempted to pay for airport photographs simultaneous with the Harpole lawsuit",
+      "claim": "On his show, Baron Coleman read a viewer comment stating that a friend of the commenter's husband was contacted by \"Larry L\" to photograph the host at the Charlotte airport at the moment the lawsuit email arrived.",
+      "anchored_artifacts": [
+        "A-2039.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1731"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:50"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2850",
+      "ref": "C-2850",
+      "label": "Matt Slauson's X wall showed he heavily retweeted Laura Loomer attacks before posting the Harpole lawsuit",
+      "claim": "The host reported observing on Matt Slauson's X wall that before acknowledging the lawsuit he had heavily retweeted Laura Loomer and her attacks on the host's family.",
+      "anchored_artifacts": [
+        "A-2041.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1726",
+        "N-1731"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:10",
+      "investigative_direction": "Pull archived Slauson X timeline via Wayback Machine to verify."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2851",
+      "ref": "C-2851",
+      "label": "Jacob William Roth is listed as a partner on the Brian Harpole lawsuit and is Ben Shapiro's brother-in-law",
+      "claim": "The Brian Harpole lawsuit's final page lists Jacob William Roth as partner of the firm; host states Roth has been married to Ben Shapiro's sister since 2018.",
+      "anchored_artifacts": [
+        "A-2042.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1726"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00–00:00:01",
+      "investigative_direction": "Obtain PACER docket copy of Harpole filing and marriage records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2852",
+      "ref": "C-2852",
+      "label": "Jacob William Roth retweeted the Brian Harpole lawsuit",
+      "claim": "Jacob William Roth retweeted the Brian Harpole lawsuit document.",
+      "anchored_artifacts": [
+        "A-2043.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1726"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:10",
+      "investigative_direction": "Pull archived Roth X timeline."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2853",
+      "ref": "C-2853",
+      "label": "FARA filing's church targeting list overlaps with Turning Point-affiliated churches (Calvary Chapel, Dream City Church)",
+      "claim": "The FARA filing names churches targeted for geofencing that overlap with Turning Point USA-affiliated Calvary Chapel churches and Dream City Church in Phoenix (which hosted both Erika Kirk and prior Trump events).",
+      "anchored_artifacts": [
+        "A-2044.1",
+        "A-2040.1"
+      ],
+      "related_nodes": [
+        "N-1728",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:39"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2854",
+      "ref": "C-2854",
+      "label": "Donation from Jen comments asserts the Harpole case could enable discovery of underlying materials",
+      "claim": "A live chat donation stated that pursuing the lawsuit to discovery stage could enable access to underlying evidence in the Charlie Kirk matter.",
+      "anchored_artifacts": [
+        "A-2040.3"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1726"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:43"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2855",
+      "ref": "C-2855",
+      "label": "FARA registration identifies Dhillon Law Group as legal representative of Show Faith by Works LLC",
+      "claim": "The Show Faith by Works FARA paperwork lists Dhillon Law Group as the legal representative.",
+      "anchored_artifacts": [
+        "A-2036.1"
+      ],
+      "related_nodes": [
+        "N-1727"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:00"
+    }
+  ],
+  "memes": []
+}

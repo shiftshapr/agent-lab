@@ -1,0 +1,1324 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 96,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "ddb0f4ac23cf1cdd04f2157e1d2bcbfc9e9c46ead8cd18de2e94ee528b53367e",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2007",
+      "family_ref": "A-2007",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2007.1",
+          "ref": "A-2007.1",
+          "description": "Trump Truth Social post criticizing Candace Owens",
+          "related_claims": [
+            "C-2790"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-6",
+            "N-1715"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2008",
+      "family_ref": "A-2008",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2008.1",
+          "ref": "A-2008.1",
+          "description": "Washington Post headline and surveillance footage report on Secret Service firing at WHCD suspect",
+          "related_claims": [
+            "C-2791"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-11",
+            "N-1712"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2008.2",
+          "ref": "A-2008.2",
+          "description": "Evan Hill X post reporting surveillance footage showed no indication Allen fired his weapon",
+          "related_claims": [
+            "C-2792"
+          ],
+          "related_nodes": [
+            "N-11",
+            "N-12",
+            "N-1712"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2008.3",
+          "ref": "A-2008.3",
+          "description": "Sarah Sidner (CNN) clip of Erika Kirk saying \"I just want to go home\"",
+          "related_claims": [
+            "C-2793"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-13",
+            "N-1713"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2008.4",
+          "ref": "A-2008.4",
+          "description": "Baron Coleman commentary clip on WHCD media frenzy",
+          "related_claims": [
+            "C-2794"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-14",
+            "N-1712"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2009",
+      "family_ref": "A-2009",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2009.1",
+          "ref": "A-2009.1",
+          "description": "Erika Kirk pre-recorded statement — WHCD attendance justification",
+          "related_claims": [
+            "C-2796"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1714"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2009.2",
+          "ref": "A-2009.2",
+          "description": "Erika Kirk pre-recorded statement — criticism of journalists filming during active shooter",
+          "related_claims": [
+            "C-2798"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1714"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2009.3",
+          "ref": "A-2009.3",
+          "description": "Erika Kirk pre-recorded statement — criticism of Jimmy Kimmel's Melania joke",
+          "related_claims": [
+            "C-2799"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-7",
+            "N-16",
+            "N-1714"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2009.4",
+          "ref": "A-2009.4",
+          "description": "Erika Kirk pre-recorded statement — claim that Candace Owens accused her of murdering her husband",
+          "related_claims": [
+            "C-2797"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-3",
+            "N-1714",
+            "N-1717"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2010",
+      "family_ref": "A-2010",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2010.1",
+          "ref": "A-2010.1",
+          "description": "Taro Farnsworth video recorded at Charlie Kirk shooting scene within seconds",
+          "related_claims": [
+            "C-2800"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-15"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:54",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2011",
+      "family_ref": "A-2011",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2011.1",
+          "ref": "A-2011.1",
+          "description": "Text message screenshot shared by Andrew Kolvet showing \"why did you murder your husband?\" with cry emojis",
+          "related_claims": [
+            "C-2801",
+            "C-2802",
+            "C-2803"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-3",
+            "N-4",
+            "N-1716"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2012",
+      "family_ref": "A-2012",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2012.1",
+          "ref": "A-2012.1",
+          "description": "Laura Loomer recorded audio rant containing racial commentary about Candace Owens",
+          "related_claims": [
+            "C-2804"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2012.2",
+          "ref": "A-2012.2",
+          "description": "Laura Loomer tweet claiming SPLC paid Candace Owens $500K to communicate David Duke talking points",
+          "related_claims": [
+            "C-2805"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:03:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2012.3",
+          "ref": "A-2012.3",
+          "description": "Laura Loomer tweet claiming Candace Owens was at anti-Trump summit in Rome with Nick Fuentes, David Axelrod, and Aubrey Laitsch",
+          "related_claims": [
+            "C-2806"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-5",
+            "N-27",
+            "N-28",
+            "N-32"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:04:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2012.4",
+          "ref": "A-2012.4",
+          "description": "AI-generated photo joke of Candace, Aubrey, and another figure on a scooter in Rome",
+          "related_claims": [
+            "C-2806"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-5",
+            "N-32"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:05:54",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2013",
+      "family_ref": "A-2013",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2013.1",
+          "ref": "A-2013.1",
+          "description": "Candace Owens August 2019 tweet/X post sharing toxic mold illness photo",
+          "related_claims": [
+            "C-2808",
+            "C-2809"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2013.2",
+          "ref": "A-2013.2",
+          "description": "Candace Owens March 2026 speech at Catholics for Catholics event mentioning upcoming confirmation",
+          "related_claims": [
+            "C-2807"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:06:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2014",
+      "family_ref": "A-2014",
+      "bundle_name": "",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2014.1",
+          "ref": "A-2014.1",
+          "description": "Various viewer/chat comments displayed in the episode (reactions to Erika's statement, birthday wishes, congratulations)",
+          "related_claims": [
+            "C-2807"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:12:06",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-27",
+      "ref": "N-27",
+      "name": "Trump publicly criticized Candace Owens calling her \"low IQ\"",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-28",
+      "ref": "N-28",
+      "name": "Trump publicly criticized Candace Owens calling her \"low IQ\"",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-29",
+      "ref": "N-29",
+      "name": "Node 29",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-32",
+      "ref": "N-32",
+      "name": "Trump publicly criticized Candace Owens calling her \"low IQ\"",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-33",
+      "ref": "N-33",
+      "name": "Trump publicly criticized Candace Owens calling her \"low IQ\"",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-34",
+      "ref": "N-34",
+      "name": "Node 34",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-39",
+      "ref": "N-39",
+      "name": "Node 39",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1712",
+      "ref": "N-1712",
+      "name": "WHCD Incident Reconstruction",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy between official shooting narrative and surveillance footage indicating possible friendly fire by Secret Service at the 2026 White House Correspondents Dinner incident.",
+      "related_artifacts": [
+        "A-2008.1",
+        "A-2008.2",
+        "A-2008.4"
+      ],
+      "related_claims": [
+        "C-2791",
+        "C-2792",
+        "C-2794"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-11"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1713",
+      "ref": "N-1713",
+      "name": "Sarah Sidner Original Video Source Verification",
+      "type": "investigation_target",
+      "description": "Unresolved question of whether Sarah Sidner personally recorded the Erika Kirk \"I just want to go home\" clip or obtained it from another source.",
+      "related_artifacts": [
+        "A-2008.3"
+      ],
+      "related_claims": [
+        "C-2793"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-13",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1714",
+      "ref": "N-1714",
+      "name": "Erika Kirk Pre-Recorded Statement Authorship and Authenticity",
+      "type": "investigation_target",
+      "description": "Question of who authored Erika Kirk's pre-recorded 9-minute statement (host suggests Blake Neff), whether it was scripted, and how it was produced.",
+      "related_artifacts": [
+        "A-2009.1",
+        "A-2009.2",
+        "A-2009.3",
+        "A-2009.4"
+      ],
+      "related_claims": [
+        "C-2795",
+        "C-2796",
+        "C-2797",
+        "C-2798",
+        "C-2799"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1715",
+      "ref": "N-1715",
+      "name": "Trump Truth Social Tweet Authorship/Origin",
+      "type": "investigation_target",
+      "description": "Question of who authored and pushed send on Trump's April 2026 Truth Social post criticizing Candace Owens (host names Dan Scavino and Natalie Harp as historical senders).",
+      "related_artifacts": [
+        "A-2007.1"
+      ],
+      "related_claims": [
+        "C-2790"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-6"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1716",
+      "ref": "N-1716",
+      "name": "Andrew Kolvet Text Message Full Context Verification",
+      "type": "investigation_target",
+      "description": "Unresolved question of the complete text message chain shared between Candace and others regarding the December meeting with Erika Kirk; host has publicly authorized release of the full chain.",
+      "related_artifacts": [
+        "A-2011.1"
+      ],
+      "related_claims": [
+        "C-2801",
+        "C-2802",
+        "C-2803"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-3",
+        "N-4"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1717",
+      "ref": "N-1717",
+      "name": "Erika Kirk Murder Claim Accuracy",
+      "type": "investigation_target",
+      "description": "Question of whether Candace Owens ever made an explicit on-podcast claim that Erika Kirk murdered Charlie Kirk, and the framing of the December text joke as evidence.",
+      "related_artifacts": [
+        "A-2009.4",
+        "A-2011.1"
+      ],
+      "related_claims": [
+        "C-2797"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Existing; PR figure under multiple artifact-anchored claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Existing; called out Blake Neff via audio artifact (A-2401.1).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-6",
+      "ref": "N-6",
+      "name": "Elizabeth Lane *(reused from Episode 1)*",
+      "type": "person",
+      "description": "Existing; subject of Politico profile and Tucker Carlson criticism.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-8",
+      "ref": "N-8",
+      "name": "Melody Hall",
+      "type": "person",
+      "description": "Publication of Erika Kirk op-ed (A-2348); subject of Charlie Kirk commentary clip (A-2345).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Holly Chalmers",
+      "type": "person",
+      "description": "Publisher of Blake Neff profile article (A-2347).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-10",
+      "ref": "N-10",
+      "name": "Kenneth Brining",
+      "type": "person",
+      "description": "Named by Neff (A-2347) as having reduced involvement with Owens around 2024; subject of op-ed publisher critique (A-2348).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-11",
+      "ref": "N-11",
+      "name": "Danny Philip",
+      "type": "person",
+      "description": "Referenced as a passenger in the second Denali rental alongside Blake Neff on September 10.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-12",
+      "ref": "N-12",
+      "name": "Charmaine",
+      "type": "person",
+      "description": "Referenced as terming Israeli officials on the September 9 Zoom call.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-13",
+      "ref": "N-13",
+      "name": "Debbie",
+      "type": "person",
+      "description": "Named by viewer comment (A-2350.3) in connection with fireworks and Erika's pantsuit.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Victor Marx's son",
+      "type": "person",
+      "description": "Referenced by host as the party who delivered the September 9 Zoom-call conversation to Tulsi Gabbard's office.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-15",
+      "ref": "N-15",
+      "name": "Victor Marx's daughter",
+      "type": "person",
+      "description": "Referenced as the office to which the Zoom-call conversation was delivered.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Family referenced via Usha Vance in Erika op-ed (A-2348).",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2790",
+      "ref": "C-2790",
+      "label": "Trump publicly criticized Candace Owens calling her \"low IQ\"",
+      "claim": "Trump's Truth Social post called Candace Owens \"an extremely low IQ individual\" and described her attack on the First Lady of France as \"despicable.\"",
+      "anchored_artifacts": [
+        "A-2007.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-6",
+        "N-1715",
+        "N-29",
+        "N-33",
+        "N-34",
+        "N-39"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:43",
+      "investigative_direction": "Verify the post on Truth Social directly and confirm timestamp; identify authorship via platform logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2791",
+      "ref": "C-2791",
+      "label": "Washington Post reported Secret Service officers fired at WHCD suspect",
+      "claim": "The Washington Post reported surveillance footage shows the moment Secret Service officers fired at the WHCD suspect, Cole Allen.",
+      "anchored_artifacts": [
+        "A-2008.1"
+      ],
+      "related_nodes": [
+        "N-11",
+        "N-1712"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:53",
+      "investigative_direction": "Pull the Washington Post article directly; review surveillance footage; verify Secret Service statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2792",
+      "ref": "C-2792",
+      "label": "Evan Hill reported no footage of Allen firing weapon",
+      "claim": "Investigative reporter Evan Hill reported on X that a review of surveillance footage found no indication that Cole Allen fired his weapon at the WHCD incident.",
+      "anchored_artifacts": [
+        "A-2008.2"
+      ],
+      "related_nodes": [
+        "N-11",
+        "N-12",
+        "N-1712"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:53",
+      "investigative_direction": "Pull Evan Hill's X post directly; verify Washington Post's review of footage; cross-reference with official statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2793",
+      "ref": "C-2793",
+      "label": "Sarah Sidner first shared clip of Erika Kirk \"I just want to go home\"",
+      "claim": "The original public clip of Erika Kirk's \"I just want to go home\" remark was first shared by CNN's Sarah Sidner.",
+      "anchored_artifacts": [
+        "A-2008.3"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-13",
+        "N-1713"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:35",
+      "investigative_direction": "Confirm via Sidner's public posts or CNN's records; the host could not confirm Sidner personally recorded the clip."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2794",
+      "ref": "C-2794",
+      "label": "Baron Coleman commented on WHCD media frenzy",
+      "claim": "Baron Coleman publicly commented on the WHCD media coverage, noting Erika Kirk's emergence as a focal point of the event alongside the ballroom announcement.",
+      "anchored_artifacts": [
+        "A-2008.4"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-14",
+        "N-1712"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:09",
+      "investigative_direction": "Pull Baron Coleman's clip or post directly for full context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2795",
+      "ref": "C-2795",
+      "label": "Erika Kirk released a pre-recorded 9-minute video statement",
+      "claim": "Erika Kirk published a 9-minute pre-recorded video statement, with the remaining portion of her show consisting of Charlie Kirk clips.",
+      "anchored_artifacts": [
+        "A-2009.1",
+        "A-2009.2",
+        "A-2009.3",
+        "A-2009.4"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1714"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:46",
+      "investigative_direction": "Verify the video directly on Erika Kirk's platforms; review production metadata if available."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2796",
+      "ref": "C-2796",
+      "label": "Erika Kirk claimed she attended WHCD to confront journalists",
+      "claim": "In her pre-recorded statement, Erika Kirk said she attended the White House Correspondents Dinner specifically to meet journalists who had written about her face-to-face.",
+      "anchored_artifacts": [
+        "A-2009.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1714"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:21",
+      "investigative_direction": "Verify the full statement transcript; identify the Daily Mail journalist mentioned."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2797",
+      "ref": "C-2797",
+      "label": "Erika Kirk claimed Candace Owens accused her of murdering her husband",
+      "claim": "In her pre-recorded statement, Erika Kirk claimed Candace Owens has publicly accused her of murdering her husband.",
+      "anchored_artifacts": [
+        "A-2009.4"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-3",
+        "N-1714",
+        "N-1717"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:25",
+      "investigative_direction": "Search Candace Owens' full podcast archive for any explicit accusation of murder; review the December text message chain."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2798",
+      "ref": "C-2798",
+      "label": "Erika Kirk criticized journalists for filming during active shooter",
+      "claim": "In her pre-recorded statement, Erika Kirk criticized journalists present at the dinner for using their phones to capture video during what she described as an active shooting situation.",
+      "anchored_artifacts": [
+        "A-2009.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-1714"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:09",
+      "investigative_direction": "Cross-reference against the Sarah Sidner footage and other journalist videos; verify the timing of any \"active shooter\" declaration."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2799",
+      "ref": "C-2799",
+      "label": "Erika Kirk criticized Jimmy Kimmel's Melania joke",
+      "claim": "In her pre-recorded statement, Erika Kirk criticized Jimmy Kimmel's joke about Melania Trump having \"the glow of an expected widow.\"",
+      "anchored_artifacts": [
+        "A-2009.3"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-7",
+        "N-16",
+        "N-1714"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:38",
+      "investigative_direction": "Verify Kimmel's original monologue; confirm Erika's quotation is accurate."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2800",
+      "ref": "C-2800",
+      "label": "Taro Farnsworth recorded video at Charlie Kirk shooting scene",
+      "claim": "Taro Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds of the incident, stating \"They just shot Charlie.\"",
+      "anchored_artifacts": [
+        "A-2010.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-15"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:54",
+      "investigative_direction": "Review the Farnsworth video; verify timestamp and original upload context; cross-reference with other scene footage."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2801",
+      "ref": "C-2801",
+      "label": "Andrew Kolvet presented a text message screenshot",
+      "claim": "Andrew Kolvet publicly presented a screenshot of a text message exchange involving Candace Owens as supporting evidence for Erika Kirk's murder claim.",
+      "anchored_artifacts": [
+        "A-2011.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-3",
+        "N-4",
+        "N-1716"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:23",
+      "investigative_direction": "Verify the screenshot; obtain the full conversation thread; host has publicly authorized release of the entire chain."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2802",
+      "ref": "C-2802",
+      "label": "Text message contained \"why did you murder your husband?\" with cry emojis",
+      "claim": "The text message presented by Andrew Kolvet contained the phrase \"why did you murder your husband?\" with cry emojis, framed as Candace's planned first question for Erika.",
+      "anchored_artifacts": [
+        "A-2011.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-3",
+        "N-4",
+        "N-1716"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:52",
+      "investigative_direction": "Verify the exact text against the screenshot; obtain the surrounding messages for context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2803",
+      "ref": "C-2803",
+      "label": "Candace stated the text was sent in December before meeting Erika",
+      "claim": "Candace stated the text was sent in December 2025 in response to questions about planned questions for an upcoming meeting with Erika Kirk, framed as a joke referencing the Bari Weiss/Ben Shapiro framing that any question to Erika equaled accusing her of murder.",
+      "anchored_artifacts": [
+        "A-2011.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-3",
+        "N-4",
+        "N-8",
+        "N-10",
+        "N-1716"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:52",
+      "investigative_direction": "Verify the timeline of the meeting and the text; obtain the full chain; verify the Bari Weiss/Ben Shapiro framing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2804",
+      "ref": "C-2804",
+      "label": "Laura Loomer made a recorded rant containing racial commentary about Candace",
+      "claim": "Laura Loomer appeared in an audio recording making comments about Candace Owens including racial characterizations and descriptions of personal history.",
+      "anchored_artifacts": [
+        "A-2012.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-5"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:50",
+      "investigative_direction": "Verify the source recording; identify context and any other parties present."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2805",
+      "ref": "C-2805",
+      "label": "Laura Loomer tweeted SPLC paid Candace $500K to communicate David Duke talking points",
+      "claim": "Laura Loomer tweeted that the Southern Poverty Law Center was paying Candace Owens $500K per year to communicate David Duke talking points.",
+      "anchored_artifacts": [
+        "A-2012.2"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-5"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:03:21",
+      "investigative_direction": "Verify the tweet directly; cross-reference SPLC public records; verify any financial relationship."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2806",
+      "ref": "C-2806",
+      "label": "Laura Loomer claimed Candace was at anti-Trump summit in Rome",
+      "claim": "Laura Loomer tweeted that Candace Owens, Nick Fuentes, and Aubrey Laitsch converged in Rome for a \"secret anti-Trump summit,\" with implied funding from Qatar.",
+      "anchored_artifacts": [
+        "A-2012.3",
+        "A-2012.4"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-5",
+        "N-27",
+        "N-28",
+        "N-32"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:04:56",
+      "investigative_direction": "Verify the tweet; cross-reference against actual attendees in Rome during the relevant dates."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2807",
+      "ref": "C-2807",
+      "label": "Candace traveled to Rome with her family for confirmation",
+      "claim": "Candace stated she traveled to Rome with her husband and children for her Catholic confirmation by a cardinal in the old Latin rite, and that her priest flew in from London.",
+      "anchored_artifacts": [
+        "A-2013.2",
+        "A-2014.1"
+      ],
+      "related_nodes": [
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:06:36",
+      "investigative_direction": "Verify through confirmation records or attendee corroboration; the host referenced her March 2026 announcement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2808",
+      "ref": "C-2808",
+      "label": "Photo Trump shared was originally posted by Candace in 2019",
+      "claim": "Candace stated the photo of her that Trump used in his Truth Social post was originally shared by Candace herself on her Twitter account in August 2019.",
+      "anchored_artifacts": [
+        "A-2013.1"
+      ],
+      "related_nodes": [
+        "N-3",
+        "N-6"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:12",
+      "investigative_direction": "Verify the original August 2019 tweet directly on Candace's Twitter/X account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2809",
+      "ref": "C-2809",
+      "label": "Candace was sick in 2016 from toxic mold exposure in her apartment",
+      "claim": "Candace stated that in 2016 she became ill with severe symptoms including eczema, hair loss, and cognitive impairment after a toxic mold exposure in her apartment from an HVAC leak.",
+      "anchored_artifacts": [
+        "A-2013.1"
+      ],
+      "related_nodes": [
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:45",
+      "investigative_direction": "Verify via medical records; the underlying photo is the primary artifact anchor."
+    }
+  ],
+  "memes": []
+}

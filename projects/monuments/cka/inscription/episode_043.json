@@ -1,0 +1,1267 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 43,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "a0bc3eb2ea2af5020423c10e7e02d4d3bb05ac5892b4c56a9ad9bdc3ed449838",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1513",
+      "family_ref": "A-1513",
+      "bundle_name": "Charlie Kirk JFK Assassination Discussion Clip (May 2025)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1513.1",
+          "ref": "A-1513.1",
+          "description": "Video clip of Charlie Kirk speaking at a Turning Point event in May 2025, asked about the JFK assassination",
+          "related_claims": [
+            "C-1862",
+            "C-1863"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:07–00:02:43",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1514",
+      "family_ref": "A-1514",
+      "bundle_name": "Kash Patel / Megyn Kelly Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1514.1",
+          "ref": "A-1514.1",
+          "description": "On-camera exchange in which Megyn Kelly asks FBI Director Kash Patel whether France was involved in Charlie Kirk's assassination and whether Candace Owens received a credible French death threat",
+          "related_claims": [
+            "C-1864"
+          ],
+          "related_nodes": [
+            "N-497",
+            "N-498",
+            "N-1387"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:33–00:08:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1515",
+      "family_ref": "A-1515",
+      "bundle_name": "Pierre Falcone / Angolagate Source Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1515.1",
+          "ref": "A-1515.1",
+          "description": "Read-aloud excerpts from a website identified as \"Corruption Tracker\" describing Pierre Falcone's criminal case, conviction, appeal outcome, and reduced sentence",
+          "related_claims": [
+            "C-1865",
+            "C-1866"
+          ],
+          "related_nodes": [
+            "N-499",
+            "N-1388"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:36–00:15:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1515.2",
+          "ref": "A-1515.2",
+          "description": "Read-aloud quote from a website identified as \"CorpWatch\" describing the Angolagate scandal, citing a March 25 Global Witness report (\"All the President's Men\")",
+          "related_claims": [
+            "C-1867",
+            "C-1868",
+            "C-1869",
+            "C-1870",
+            "C-1871"
+          ],
+          "related_nodes": [
+            "N-499",
+            "N-500",
+            "N-501",
+            "N-502"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:38–00:17:26",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1516",
+      "family_ref": "A-1516",
+      "bundle_name": "One Shot TV .30-06 Ballistic Test Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1516.1",
+          "ref": "A-1516.1",
+          "description": "YouTube video by Jesse Kege (channel: One Shot TV) testing .30-06 180gr FMJ and 150gr Hornady ballistic tip rounds against a ballistic dummy with three 5-gallon water jugs behind it, shot from a downward angle mimicking the alleged scene geometry",
+          "related_claims": [
+            "C-1872",
+            "C-1873"
+          ],
+          "related_nodes": [
+            "N-503",
+            "N-1390",
+            "N-514",
+            "N-515"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:18–00:33:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1517",
+      "family_ref": "A-1517",
+      "bundle_name": "Hodge Twins Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1517.1",
+          "ref": "A-1517.1",
+          "description": "Tweet from the Hodge Twins asserting that Republicans will lose midterms because deep state criminals have not been held accountable, money is sent to corrupt foreign countries, and establishment figures are promoted",
+          "related_claims": [
+            "C-1874"
+          ],
+          "related_nodes": [
+            "N-512"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1518",
+      "family_ref": "A-1518",
+      "bundle_name": "Viewer Comments Read-Aloud Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1518.1",
+          "ref": "A-1518.1",
+          "description": "Viewer comment from \"Jo Ann\": \"we hoped it would go away\" — referenced as first truthful statement made by TPUSA",
+          "related_claims": [
+            "C-1879"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1003"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:36–00:38:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1518.2",
+          "ref": "A-1518.2",
+          "description": "Viewer comment from \"Assad O Bros\": testimony that watching the \"Brigitte series\" led to purchasing a first Bible",
+          "related_claims": [],
+          "related_nodes": [
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:23–00:39:37",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1518.3",
+          "ref": "A-1518.3",
+          "description": "Viewer comment from \"Diana Sheen\": question whether TPUSA employees must stay silent if crime is involved",
+          "related_claims": [
+            "C-1879"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1003"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:37–00:40:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1518.4",
+          "ref": "A-1518.4",
+          "description": "Viewer comment from \"AZ Master Baker\": dates given for Erika with Bari Weiss (13th), TPUSA podcast (15th), TPUSA AmFest (18th)",
+          "related_claims": [
+            "C-1877"
+          ],
+          "related_nodes": [
+            "N-1003",
+            "N-511"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:18–00:41:02",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1518.5",
+          "ref": "A-1518.5",
+          "description": "Viewer comment from \"CCXX\": references life insurance taken out on Charlie Kirk and $1.5 million routing; mentions Daily Mail story on life insurance",
+          "related_claims": [
+            "C-1878",
+            "C-1879"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1003",
+            "N-1393"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:02–00:41:57",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1518.6",
+          "ref": "A-1518.6",
+          "description": "Viewer comment from \"Laughing Cats Music World\" — referenced but contents not read in full (request for post to TPUSA asking specific questions)",
+          "related_claims": [
+            "C-1875",
+            "C-1876"
+          ],
+          "related_nodes": [
+            "N-1392"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:36–00:38:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-504",
+      "ref": "N-504",
+      "name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-505",
+      "ref": "N-505",
+      "name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-506",
+      "ref": "N-506",
+      "name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-508",
+      "ref": "N-508",
+      "name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-509",
+      "ref": "N-509",
+      "name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-513",
+      "ref": "N-513",
+      "name": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
+      "type": "person",
+      "description": "### People",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Foundational biographical and investigative subject across the series. Referenced in this episode via previously recorded May 2025 clip.",
+      "related_artifacts": [
+        "A-1513.1",
+        "A-1518.1",
+        "A-1518.3",
+        "A-1518.5"
+      ],
+      "related_claims": [
+        "C-1862",
+        "C-1863"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1003",
+      "ref": "N-1003",
+      "name": "MK Ultra",
+      "type": "investigation_target",
+      "description": "Spouse of Charlie Kirk. Referenced in viewer comments as appearing with Bari Weiss on the 13th.",
+      "related_artifacts": [
+        "A-1518.4",
+        "A-1518.5"
+      ],
+      "related_claims": [
+        "C-1877",
+        "C-1878",
+        "C-1879"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-497",
+      "ref": "N-497",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "FBI Director interviewed by Megyn Kelly; declined to address French involvement allegation directly.",
+      "related_artifacts": [
+        "A-1514.1"
+      ],
+      "related_claims": [
+        "C-1864"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-498",
+        "N-1387"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-498",
+      "ref": "N-498",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Journalist who interviewed Kash Patel on the Macron couple and Kirk assassination questions.",
+      "related_artifacts": [
+        "A-1514.1"
+      ],
+      "related_claims": [
+        "C-1864"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-497"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-499",
+      "ref": "N-499",
+      "name": "Pierre Falcone",
+      "type": "person",
+      "description": "French-born arms dealer convicted in Angolagate scandal; reportedly currently residing in Scottsdale, Arizona; introduced in this episode as a potential link between France, Israel, Angola, and the United States.",
+      "related_artifacts": [
+        "A-1515.1",
+        "A-1515.2"
+      ],
+      "related_claims": [
+        "C-1865",
+        "C-1866",
+        "C-1867",
+        "C-1870"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-500",
+        "N-501",
+        "N-502",
+        "N-1388"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-500",
+      "ref": "N-500",
+      "name": "Arcadi Gaydamak",
+      "type": "person",
+      "description": "Israeli-Russian-Israeli businessman; co-conspirator in Angolagate via Brenco International; convicted in absentia in France.",
+      "related_artifacts": [
+        "A-1515.2"
+      ],
+      "related_claims": [
+        "C-1868",
+        "C-1870"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-499"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-501",
+      "ref": "N-501",
+      "name": "Jean-Christophe Mitterrand",
+      "type": "person",
+      "description": "Son of former French president François Mitterrand; implicated in Angolagate as having \"special access\" to Angolan government.",
+      "related_artifacts": [
+        "A-1515.2"
+      ],
+      "related_claims": [
+        "C-1871"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-499",
+        "N-502"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-502",
+      "ref": "N-502",
+      "name": "François Mitterrand",
+      "type": "person",
+      "description": "Former President of France (term during Angolagate exposure); implicated via his son.",
+      "related_artifacts": [
+        "A-1515.2"
+      ],
+      "related_claims": [
+        "C-1871"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-501"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-503",
+      "ref": "N-503",
+      "name": "Jesse Kege",
+      "type": "person",
+      "description": "YouTuber (\"One Shot TV\") who produced the .30-06 ballistic dummy demonstration; no prior horse in the Charlie Kirk case per host's description.",
+      "related_artifacts": [
+        "A-1516.1"
+      ],
+      "related_claims": [
+        "C-1872",
+        "C-1873"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1390"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-507",
+      "ref": "N-507",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Security professional positioned to Charlie Kirk's right; per host's tip, received a message from Charlie the night before the assassination.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1",
+        "N-1391"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-510",
+      "ref": "N-510",
+      "name": "John Mappin",
+      "type": "person",
+      "description": "Referenced by viewer comment \"fam\"; author of \"The Perfumed Pervert\" essay.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-511",
+      "ref": "N-511",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Journalist; referenced by viewer comment as having Erika Kirk on her show on the 13th.",
+      "related_artifacts": [
+        "A-1518.4"
+      ],
+      "related_claims": [
+        "C-1877"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1003"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-512",
+      "ref": "N-512",
+      "name": "Hodge Twins",
+      "type": "person",
+      "description": "Commentator duo; tweet regarding Republican midterm losses read aloud by host.",
+      "related_artifacts": [
+        "A-1517.1"
+      ],
+      "related_claims": [
+        "C-1874"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-514",
+      "ref": "N-514",
+      "name": "Mel (\"Village Crazy Lady\")",
+      "type": "person",
+      "description": "Social media user who brought the Jesse Kege video to the host's attention.",
+      "related_artifacts": [
+        "A-1516.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-503"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-515",
+      "ref": "N-515",
+      "name": "Ryan Matta",
+      "type": "person",
+      "description": "Social media user who brought the Jesse Kege video to the host's attention.",
+      "related_artifacts": [
+        "A-1516.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-503"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1387",
+      "ref": "N-1387",
+      "name": "France / Macron Couple Involvement in Kirk Assassination",
+      "type": "investigation_target",
+      "description": "Persistent investigation target; this episode adds Kash Patel's non-denial under direct questioning on camera.",
+      "related_artifacts": [
+        "A-1514.1"
+      ],
+      "related_claims": [
+        "C-1864"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-497",
+        "N-498"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1388",
+      "ref": "N-1388",
+      "name": "Pierre Falcone / Turning Point USA Connection Claim",
+      "type": "investigation_target",
+      "description": "Unverified tip received by host asserting a meeting occurred between TPUSA personnel and Pierre Falcone; requires verification.",
+      "related_artifacts": [
+        "A-1515.1",
+        "A-1515.2"
+      ],
+      "related_claims": [
+        "C-1865",
+        "C-1866",
+        "C-1867"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-499"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1389",
+      "ref": "N-1389",
+      "name": "Operation Mockingbird 2.0 Allegation",
+      "type": "investigation_target",
+      "description": "Host framing premise comparing current media posture regarding the Kirk assassination to the CIA's Operation Mockingbird following JFK. Not artifact-backed in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1390",
+      "ref": "N-1390",
+      "name": ".30-06 Forensic Narrative Validity",
+      "type": "investigation_target",
+      "description": "Persistent investigation target regarding the official ballistics account of the Kirk shooting; this episode adds the Jesse Kege / One Shot TV demonstration as a third-party test.",
+      "related_artifacts": [
+        "A-1516.1"
+      ],
+      "related_claims": [
+        "C-1872",
+        "C-1873"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-503"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1391",
+      "ref": "N-1391",
+      "name": "Charlie Kirk's Pre-Death Messages (Night Before Assassination)",
+      "type": "investigation_target",
+      "description": "Investigation target regarding Charlie Kirk's communications the night before the shooting, including alleged direct statement to Dan Flood that \"they are going to kill me tomorrow,\" and messages to a donor and a TPUSA staffer.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1",
+        "N-507"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1392",
+      "ref": "N-1392",
+      "name": "TPUSA $1.5M Routing to 110 LLC / Safeway Strip Mall",
+      "type": "investigation_target",
+      "description": "Investigation target raised via viewer comment; DOJ audit referenced as cancelled.",
+      "related_artifacts": [
+        "A-1518.6"
+      ],
+      "related_claims": [
+        "C-1875",
+        "C-1876"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1393",
+      "ref": "N-1393",
+      "name": "Charlie Kirk Life Insurance Policy & Beneficiary",
+      "type": "investigation_target",
+      "description": "Investigation target including $1.5M amount and corporate implications; Daily Mail cited as breaking the story.",
+      "related_artifacts": [
+        "A-1518.5"
+      ],
+      "related_claims": [
+        "C-1878"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-1003"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1394",
+      "ref": "N-1394",
+      "name": "Charlie Kirk Burial Status / Catholic Funeral Mass",
+      "type": "investigation_target",
+      "description": "Investigation target; viewer social media speculation that Charlie Kirk has not yet been buried, contrasted with host's statement that he had a Catholic funeral mass.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1395",
+      "ref": "N-1395",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Persistent political issue referenced via the Milo Yiannopoulos / Tim Pool / George Santos segment.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-504",
+        "N-505",
+        "N-506"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1396",
+      "ref": "N-1396",
+      "name": "Global Trafficking Angle in Kirk Assassination",
+      "type": "investigation_target",
+      "description": "Host's hypothesis (artifact-anchored to the Pierre Falcone / Angolagate tip) that Charlie Kirk's organization was being approached for trafficking-related cooperation; remains framing/speculative until verified.",
+      "related_artifacts": [
+        "A-1515.1",
+        "A-1515.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-499",
+        "N-1388"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1862",
+      "ref": "C-1862",
+      "label": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
+      "claim": "In a May 2025 recorded clip, Charlie Kirk stated that more than one person was involved in the JFK assassination and that the lone-Oswald reading was insufficient.",
+      "anchored_artifacts": [
+        "A-1513.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-504",
+        "N-505",
+        "N-506",
+        "N-508",
+        "N-509",
+        "N-513"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:03–00:02:43",
+      "investigative_direction": "Obtain the full unedited clip and confirm Kirk's exact wording, including the listed anomalies (route change, open-air convertible, LBJ not riding, slowdown at the Depository)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1863",
+      "ref": "C-1863",
+      "label": "Charlie Kirk asserted that parts of the US government, Lyndon Baines Johnson, and Cubans wanted JFK dead",
+      "claim": "In the same May 2025 clip, Charlie Kirk named Lyndon Baines Johnson, parts of the US government, and Cubans as actors who wanted JFK dead.",
+      "anchored_artifacts": [
+        "A-1513.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-510"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:03",
+      "investigative_direction": "Obtain the full source clip to verify Kirk's exact phrasing and identify the venue and interviewer."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1864",
+      "ref": "C-1864",
+      "label": "Kash Patel did not deny French involvement in Charlie Kirk's assassination when directly asked by Megyn Kelly",
+      "claim": "When Megyn Kelly directly asked FBI Director Kash Patel whether the French were involved in Charlie Kirk's assassination, Patel did not address the allegation and instead spoke in general terms about investigating threats to any American.",
+      "anchored_artifacts": [
+        "A-1514.1"
+      ],
+      "related_nodes": [
+        "N-497",
+        "N-498",
+        "N-1387"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:33–00:08:21",
+      "investigative_direction": "Obtain the full unedited Megyn Kelly / Kash Patel interview segment to verify exact wording and identify any non-verbal cues or follow-up questions."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1865",
+      "ref": "C-1865",
+      "label": "Pierre Falcone was convicted in France of arms trafficking, breach of trust, misuse of corporate assets, and bribery",
+      "claim": "According to source material read aloud by the host and attributed to \"Corruption Tracker,\" Pierre Falcone was convicted of arms trafficking, breach of trust, misuse of corporate assets, and bribery.",
+      "anchored_artifacts": [
+        "A-1515.1"
+      ],
+      "related_nodes": [
+        "N-499",
+        "N-1388"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:36–00:15:38",
+      "investigative_direction": "Obtain primary French court records or a contemporaneous news report of the conviction to confirm charges and dates."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1866",
+      "ref": "C-1866",
+      "label": "Pierre Falcone's conviction was overturned on appeal and replaced with a reduced 2.5-year sentence",
+      "claim": "According to source material read aloud, Pierre Falcone's original six-year sentence was overturned on appeal and replaced with a 2.5-year sentence.",
+      "anchored_artifacts": [
+        "A-1515.1"
+      ],
+      "related_nodes": [
+        "N-499",
+        "N-1388"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:36–00:15:38",
+      "investigative_direction": "Locate the appellate decision and confirm the precise revised sentence and the date it was imposed."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1867",
+      "ref": "C-1867",
+      "label": "Pierre Falcone is described as currently residing in Scottsdale, Arizona",
+      "claim": "The host states that Pierre Falcone reappeared in Scottsdale, Arizona, the same location as Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-499",
+        "N-1388"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:26",
+      "investigative_direction": "Verify Pierre Falcone's current residence via property records, business filings, or U.S. immigration records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1868",
+      "ref": "C-1868",
+      "label": "Arcadi Gaydamak was convicted in absentia in France of arms trafficking, tax fraud, bribery, and money laundering",
+      "claim": "According to source material read aloud, Arcadi Gaydamak was convicted (without appearing in France) of arms trafficking, tax fraud, bribery, and money laundering.",
+      "anchored_artifacts": [
+        "A-1515.1"
+      ],
+      "related_nodes": [
+        "N-500",
+        "N-499"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:36–00:15:38",
+      "investigative_direction": "Locate the French court judgment against Gaydamak and confirm the conviction and date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1869",
+      "ref": "C-1869",
+      "label": "The Angolagate scandal involved France, Israel, Angola, Russia, Slovakia, and the United States",
+      "claim": "According to a CorpWatch source read aloud by the host, the Angolagate scandal involved France, Israel, Angola, Russia, Slovakia, and the United States.",
+      "anchored_artifacts": [
+        "A-1515.2"
+      ],
+      "related_nodes": [
+        "N-499",
+        "N-500",
+        "N-501",
+        "N-502"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:38–00:17:26",
+      "investigative_direction": "Cross-reference the March 25 Global Witness report \"All the President's Men\" with CorpWatch and the original French judicial findings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1870",
+      "ref": "C-1870",
+      "label": "Approximately $463 million in arms were transferred to Angola via Brenco International and the Mitterrand access channel",
+      "claim": "According to a CorpWatch article citing a March 25 Global Witness report, Brenco International and the Mitterrand access channel transferred approximately $463 million in arms to Angola.",
+      "anchored_artifacts": [
+        "A-1515.2"
+      ],
+      "related_nodes": [
+        "N-499",
+        "N-500",
+        "N-501"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:38–00:17:26",
+      "investigative_direction": "Locate the original Global Witness report figures and the French prosecutor's findings on arms volumes."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1871",
+      "ref": "C-1871",
+      "label": "Jean-Christophe Mitterrand, son of former French president François Mitterrand, was implicated in Angolagate",
+      "claim": "According to a CorpWatch source, Jean-Christophe Mitterrand (son of former French president François Mitterrand) was implicated in Angolagate as having provided access to the Angolan government.",
+      "anchored_artifacts": [
+        "A-1515.2"
+      ],
+      "related_nodes": [
+        "N-499",
+        "N-501",
+        "N-502"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:38–00:17:26",
+      "investigative_direction": "Verify Jean-Christophe Mitterrand's role via French court records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1872",
+      "ref": "C-1872",
+      "label": "In the Jesse Kege / One Shot TV demonstration, the 180gr FMJ .30-06 round fully penetrated the ballistic dummy and continued through three 5-gallon water jugs",
+      "claim": "In the demonstration shown, a 180gr FMJ .30-06 round penetrated a ballistic dummy, separated its head, and continued through three 5-gallon water jugs placed behind.",
+      "anchored_artifacts": [
+        "A-1516.1"
+      ],
+      "related_nodes": [
+        "N-503",
+        "N-1390"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:46–00:33:21",
+      "investigative_direction": "Obtain the full One Shot TV video, including any second-round test (150gr Hornady ballistic tip), and verify the exact penetration result shown."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1873",
+      "ref": "C-1873",
+      "label": "The One Shot TV .30-06 demonstration is presented as evidence challenging the official ballistics narrative",
+      "claim": "The host characterizes the One Shot TV result — that the dummy's head was severed and the round continued through water jugs — as evidence that the official story's depiction of a .30-06 ricochet is implausible.",
+      "anchored_artifacts": [
+        "A-1516.1"
+      ],
+      "related_nodes": [
+        "N-503",
+        "N-1390"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:21",
+      "investigative_direction": "Cross-reference the One Shot TV demonstration with official forensic findings released by authorities."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1874",
+      "ref": "C-1874",
+      "label": "The Hodge Twins publicly stated that Republicans will lose midterms because no deep state criminals have been held accountable",
+      "claim": "According to a tweet from the Hodge Twins read aloud by the host, Republicans will lose midterms because no deep state criminals have been held accountable, money is sent to corrupt foreign countries, and establishment figures are being promoted.",
+      "anchored_artifacts": [
+        "A-1517.1"
+      ],
+      "related_nodes": [
+        "N-512"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:16",
+      "investigative_direction": "Obtain the original tweet and confirm the exact text."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1875",
+      "ref": "C-1875",
+      "label": "A viewer comment asserts that TPUSA sent $1.5 million to a 110 LLC routing to a Safeway strip mall",
+      "claim": "A viewer comment asserts that TPUSA routed $1.5 million to a 110 LLC that routes to a Safeway strip mall.",
+      "anchored_artifacts": [
+        "A-1518.6"
+      ],
+      "related_nodes": [
+        "N-1392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:36–00:38:23",
+      "investigative_direction": "Trace the named LLC through state business filings, bank records (subject to access), and IRS Form 990 disclosures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1876",
+      "ref": "C-1876",
+      "label": "A viewer comment asserts that a DOJ audit of TPUSA was cancelled",
+      "claim": "A viewer comment asserts that a DOJ audit was \"suddenly no longer happening.\"",
+      "anchored_artifacts": [
+        "A-1518.6"
+      ],
+      "related_nodes": [
+        "N-1392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:36–00:38:23",
+      "investigative_direction": "Verify through DOJ press releases, congressional correspondence, or reporting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1877",
+      "ref": "C-1877",
+      "label": "A viewer comment asserts that Erika Kirk is scheduled to appear with Bari Weiss on the 13th, a TPUSA podcast on the 15th, and TPUSA AmFest on the 18th",
+      "claim": "A viewer comment provides dates for upcoming Erika Kirk media appearances (Bari Weiss on the 13th, TPUSA podcast on the 15th, AmFest on the 18th).",
+      "anchored_artifacts": [
+        "A-1518.4"
+      ],
+      "related_nodes": [
+        "N-1003",
+        "N-511"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:18–00:41:02",
+      "investigative_direction": "Verify against publicly available event listings and episode announcements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1878",
+      "ref": "C-1878",
+      "label": "The Daily Mail has reported on the life insurance policy taken out on Charlie Kirk",
+      "claim": "A viewer comment references a Daily Mail story on the life insurance policy on Charlie Kirk's life; the host acknowledges the report.",
+      "anchored_artifacts": [
+        "A-1518.5"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1003",
+        "N-1393"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:02–00:41:57",
+      "investigative_direction": "Locate the Daily Mail article and confirm policy details, beneficiary, and amount."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1879",
+      "ref": "C-1879",
+      "label": "Viewer comments state that TPUSA-affiliated individuals knew of potential danger before the assassination and have remained silent",
+      "claim": "Viewer comments (Jo Ann, Diana Sheen, CCXX) collectively assert that TPUSA personnel had foreknowledge or related suspicions prior to the assassination and have not publicly disclosed them.",
+      "anchored_artifacts": [
+        "A-1518.1",
+        "A-1518.3",
+        "A-1518.5"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1003",
+        "N-1391",
+        "N-507"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:36–00:41:02",
+      "investigative_direction": "Cross-reference against depositions, congressional testimony, and investigative reporting."
+    }
+  ],
+  "memes": []
+}

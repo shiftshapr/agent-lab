@@ -1,0 +1,665 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 48,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "885939e5060d01cec89ba6e17fe5ab38343e86673762e177efb309ef1b930d63",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "This episode advances multiple investigative threads already in motion in the Bride of Charlie series. The host presents artifact-anchored material in four primary areas: (1) the contested quotation about Charlie Kirk's neck that was attributed to \"the surgeon\" on Andrew Colberg's X feed, (2) the disposition of the vehicle in which Charlie was transported to Timpanogos Regional Hospital, supported by a Frank Turek interview clip played on air, (3) the procedural circumstances around the recovery of the firearm, including alleged bomb-dog searches and federal redirection of inexperienced officers, and (4) a Baron Coleman video segment that displays August 25–26, 2025 flight logs under the SAM000 and RCH658/SAM658 call signs in connection with a Fort Huachuca meeting allegedly observed on September 9. The episode also references a forthcoming interview with an unnamed eyewitness (\"Elvis guy\") who claims to have seen Brian Harpole at a high-level meeting.\n\nStructurally, the episode functions as a hinge point in the series, consolidating prior threads (Colberg tweet, SAM/Reach flight analysis, Operation Valhalla Strike timeline, Fort Huachuca) and setting up the next-day testimony from the eyewitness. The artifact register captures three on-air interview clips, one read-aloud X post, and one set of vehicle interior photographs held but not fully displayed by the host.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1552",
+      "family_ref": "A-1552",
+      "bundle_name": "Andrew Colberg X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1552.1",
+          "ref": "A-1552.1",
+          "description": "Andrew Colberg X post containing attributed quotation about Charlie's neck",
+          "related_claims": [
+            "C-1960"
+          ],
+          "related_nodes": [
+            "N-590",
+            "N-591",
+            "N-1429"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:52",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1553",
+      "family_ref": "A-1553",
+      "bundle_name": "Frank Turek Interview Clip Bundle (Megyn Kelly Show)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1553.1",
+          "ref": "A-1553.1",
+          "description": "Turek interview audio describing vehicle being roped off as crime scene, FBI clearance, his computer bag between bucket seats below Charlie, and Charlie's cross/medallion necklace draped over the bag",
+          "related_claims": [
+            "C-1961",
+            "C-1962"
+          ],
+          "related_nodes": [
+            "N-592",
+            "N-1",
+            "N-1433"
+          ],
+          "tags": [],
+          "video_timestamp": "00:27:47",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1554",
+      "family_ref": "A-1554",
+      "bundle_name": "Baron Coleman Video Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1554.1",
+          "ref": "A-1554.1",
+          "description": "Coleman video segment defining SAM call signs and displaying flight log data for August 25–26, 2025",
+          "related_claims": [
+            "C-1963",
+            "C-1964",
+            "C-1965",
+            "C-1966"
+          ],
+          "related_nodes": [
+            "N-593",
+            "N-1434",
+            "N-1435",
+            "N-1436"
+          ],
+          "tags": [],
+          "video_timestamp": "00:34:52",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1555",
+      "family_ref": "A-1555",
+      "bundle_name": "Brian Harpole Interview Clip Bundle (Shawn Ryan Show)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1555.1",
+          "ref": "A-1555.1",
+          "description": "Harpole interview clip stating UVU event intelligence gathering began August 24",
+          "related_claims": [
+            "C-1967"
+          ],
+          "related_nodes": [
+            "N-594",
+            "N-1436",
+            "N-1437"
+          ],
+          "tags": [],
+          "video_timestamp": "00:41:47",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1556",
+      "family_ref": "A-1556",
+      "bundle_name": "Charlie Kirk Transport Vehicle Interior Photo Set",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1556.1",
+          "ref": "A-1556.1",
+          "description": "Set of six interior photographs of the vehicle used to transport Charlie Kirk to Timpanogos Regional Hospital",
+          "related_claims": [
+            "C-1968"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1433"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:33",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-595",
+      "ref": "N-595",
+      "name": "Andrew Colberg X Post Bundle",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-590",
+      "ref": "N-590",
+      "name": "Andrew Colberg",
+      "type": "person",
+      "description": "X user whose attributed \"man of steel\" quotation post is contested by host sources as not being a direct surgeon statement.",
+      "related_artifacts": [
+        "A-1552.1"
+      ],
+      "related_claims": [
+        "C-1960"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1429"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-591",
+      "ref": "N-591",
+      "name": "Dr. Lee Trotter",
+      "type": "person",
+      "description": "Surgeon named on air as having performed the procedure on Charlie Kirk at Timpanogos Regional Hospital. Alleged by host sources to have communicated a frangible-bullet theory rather than the \"man of steel\" quotation.",
+      "related_artifacts": [
+        "A-1552.1"
+      ],
+      "related_claims": [
+        "C-1960"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1429"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-592",
+      "ref": "N-592",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Passenger in the vehicle transporting Charlie Kirk; source of on-air statements regarding FBI clearance of the vehicle and discovery of Charlie's necklace.",
+      "related_artifacts": [
+        "A-1553.1"
+      ],
+      "related_claims": [
+        "C-1961",
+        "C-1962"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1433"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-593",
+      "ref": "N-593",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Video creator whose segment on SAM call signs and August 25–26 flight logs is played on air.",
+      "related_artifacts": [
+        "A-1554.1"
+      ],
+      "related_claims": [
+        "C-1963",
+        "C-1964",
+        "C-1965",
+        "C-1966"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1434",
+        "N-1435"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-594",
+      "ref": "N-594",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Security contractor named as having begun UVU event intel gathering on August 24 per his own statement; named by an unnamed eyewitness (\"Elvis guy\") as allegedly observed at a September 9 meeting.",
+      "related_artifacts": [
+        "A-1555.1"
+      ],
+      "related_claims": [
+        "C-1967"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1436"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-596",
+      "ref": "N-596",
+      "name": "Harry",
+      "type": "person",
+      "description": "Producer/investigator on host's team referenced by name regarding Fort Huachuca inquiry and the upcoming eyewitness testimony segment.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1436"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1429",
+      "ref": "N-1429",
+      "name": "Surgeon Quotation Authenticity Question",
+      "type": "investigation_target",
+      "description": "Discrepancy between the quotation attributed to \"the surgeon\" on Colberg's X post (A-1552.1) and host sources' claim that no such statement was made by Dr. Lee Trotter.",
+      "related_artifacts": [
+        "A-1552.1"
+      ],
+      "related_claims": [
+        "C-1960"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-590",
+        "N-591"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1430",
+      "ref": "N-1430",
+      "name": "Hospital Federal Access Question",
+      "type": "investigation_target",
+      "description": "Allegation that federal officers at Timpanogos Regional Hospital blocked Dr. Lee Trotter from returning to the operating room, and that a phone call to a political figure resulted in stand-down orders.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-591"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1431",
+      "ref": "N-1431",
+      "name": "Gun Discovery Procedure Question",
+      "type": "investigation_target",
+      "description": "Allegation that bomb dogs from the Pleasant Grove sheriff's department cleared the area without finding the gun, and that federal officers then directed three officers with combined experience of less than 1.5 years to re-search the area, after which the gun was found. Also: Freya's \"condensed scent trace\" methodology.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-595"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1432",
+      "ref": "N-1432",
+      "name": "White Toyota RAV4 FBI Badge Question",
+      "type": "investigation_target",
+      "description": "Allegation that shortly after the shot, an officer pulled over a white Toyota RAV4 and the driver flashed an FBI badge, ending the encounter.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1433",
+      "ref": "N-1433",
+      "name": "Vehicle Disposition Question",
+      "type": "investigation_target",
+      "description": "Allegation that the transport vehicle was towed, then quickly moved for cleaning and auction without insurance inspection, and that the rental company owner instructed it never be returned to the facility.",
+      "related_artifacts": [
+        "A-1553.1",
+        "A-1556.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-592"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1434",
+      "ref": "N-1434",
+      "name": "SAM000 Flight Manifest Question",
+      "type": "investigation_target",
+      "description": "Discrepancy in Coleman's segment between stated route (\"from Joint Base Andrews to Colorado Springs\") and displayed log (landing Las Vegas 4:48 p.m. on August 25). Manifest of the SAM000 passenger(s) remains unknown.",
+      "related_artifacts": [
+        "A-1554.1"
+      ],
+      "related_claims": [
+        "C-1964"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-593"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1435",
+      "ref": "N-1435",
+      "name": "SAM658/RCH658 Call Sign Switch Question",
+      "type": "investigation_target",
+      "description": "Coleman display shows RCH658 designation on Las Vegas departure and SAM658 designation on return leg to Andrews, which Coleman's framework ties to VIP boarding/deboarding at the Colorado Springs stop.",
+      "related_artifacts": [
+        "A-1554.1"
+      ],
+      "related_claims": [
+        "C-1965",
+        "C-1966"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-593"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1436",
+      "ref": "N-1436",
+      "name": "Sept 9 Fort Huachuca Meeting Question",
+      "type": "investigation_target",
+      "description": "Alleged meeting reportedly observed by unnamed \"Elvis guy\" eyewitness; tied by host to alleged Sept 9 SAM jet presence and to Brian Harpole's whereabouts.",
+      "related_artifacts": [
+        "A-1554.1",
+        "A-1555.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-593",
+        "N-594",
+        "N-596"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1437",
+      "ref": "N-1437",
+      "name": "Operation Valhalla Strike",
+      "type": "investigation_target",
+      "description": "Host statement that a military exercise named Operation Valhalla Strike ran August 24–27, 2025. Coincides on August 24 with Brian Harpole's stated start of UVU event intelligence gathering (A-1555.1).",
+      "related_artifacts": [
+        "A-1555.1"
+      ],
+      "related_claims": [
+        "C-1967"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-594"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1960",
+      "ref": "C-1960",
+      "label": "Colberg X Post Attributes \"Man of Steel\" Quotation to Surgeon",
+      "claim": "Andrew Colberg's X post contains a quotation attributed to \"the surgeon\" describing Charlie Kirk's neck bone as \"so healthy and the density was so, so impressive that he's like the man of steel,\" and stating the bullet \"should have just gone through and through.\"",
+      "anchored_artifacts": [
+        "A-1552.1"
+      ],
+      "related_nodes": [
+        "N-590",
+        "N-591",
+        "N-1429",
+        "N-595"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:52",
+      "investigative_direction": "Obtain original Colberg post via direct retrieval or archive, and compare against any direct surgeon statements or hospital records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1961",
+      "ref": "C-1961",
+      "label": "Turek States FBI Cleared Vehicle Before He Retrieved His Bag",
+      "claim": "Frank Turek states on a podcast that the transport vehicle was roped off as a crime scene and that he could not access it until the FBI cleared it, at which point he retrieved his computer bag.",
+      "anchored_artifacts": [
+        "A-1553.1"
+      ],
+      "related_nodes": [
+        "N-592",
+        "N-1",
+        "N-1433"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:47",
+      "investigative_direction": "Cross-reference with FBI case file records, impound logs, and any Megyn Kelly show segment timestamps."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1962",
+      "ref": "C-1962",
+      "label": "Turek States Charlie's Necklace Was on His Bag in Vehicle",
+      "claim": "Frank Turek states on a podcast that Charlie's necklace, bearing a cross and medallions, was draped over his computer bag inside the transport vehicle, and that he handed it to a police officer who stated they had been searching for it.",
+      "anchored_artifacts": [
+        "A-1553.1"
+      ],
+      "related_nodes": [
+        "N-592",
+        "N-1",
+        "N-1433"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:47",
+      "investigative_direction": "Verify against any chain-of-custody documentation for Charlie's personal effects."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1963",
+      "ref": "C-1963",
+      "label": "Coleman Identifies SAM000 as Rare, Highly Sensitive Call Sign",
+      "claim": "Baron Coleman states that SAM000 is a rarely used Special Air Mission call sign reserved for highly sensitive passenger manifests where the White House or US Air Force wish to be deliberately vague about who is aboard.",
+      "anchored_artifacts": [
+        "A-1554.1"
+      ],
+      "related_nodes": [
+        "N-593",
+        "N-1434"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:19",
+      "investigative_direction": "Cross-check against USAF flight plan records and ATC telephonic call sign logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1964",
+      "ref": "C-1964",
+      "label": "Coleman States SAM000 Flight Originated at Andrews to Colorado Springs on August 25",
+      "claim": "Baron Coleman states that on August 25, 2025, a flight using the SAM000 call sign operated from Joint Base Andrews toward Colorado Springs, the location of the 10th Special Forces Group.",
+      "anchored_artifacts": [
+        "A-1554.1"
+      ],
+      "related_nodes": [
+        "N-593",
+        "N-1434",
+        "N-1436"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:14",
+      "investigative_direction": "Obtain raw flight plan and ATC records to verify origin, call sign, and destination."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1965",
+      "ref": "C-1965",
+      "label": "Coleman Displays RCH658 Flight Las Vegas to Colorado Springs with Missing Transponder Data",
+      "claim": "Baron Coleman displays a flight log showing an aircraft departing Las Vegas on August 26, 2025 at 3:14 p.m. under the call sign RCH658, with transponder data missing before landing at Colorado Springs.",
+      "anchored_artifacts": [
+        "A-1554.1"
+      ],
+      "related_nodes": [
+        "N-593",
+        "N-1434",
+        "N-1435"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:24",
+      "investigative_direction": "Obtain radar track records and ADS-B exchange logs for August 26 to verify route and transponder gap."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1966",
+      "ref": "C-1966",
+      "label": "Coleman Displays Return Flight Colorado Springs to Andrews as SAM658",
+      "claim": "Baron Coleman displays a flight log showing the same aircraft returning from Colorado Springs to Joint Base Andrews under the SAM658 call sign.",
+      "anchored_artifacts": [
+        "A-1554.1"
+      ],
+      "related_nodes": [
+        "N-593",
+        "N-1435"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:24",
+      "investigative_direction": "Cross-reference the call sign change with any known VIP boarding or deboarding records at Colorado Springs on August 26."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1967",
+      "ref": "C-1967",
+      "label": "Harpole States UVU Event Intelligence Gathering Began August 24",
+      "claim": "Brian Harpole states in an interview that the intelligence gathering and preparation process for the UVU event began on August 24, with information sharing and conference calls commencing that date.",
+      "anchored_artifacts": [
+        "A-1555.1"
+      ],
+      "related_nodes": [
+        "N-594",
+        "N-1436",
+        "N-1437"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:47",
+      "investigative_direction": "Corroborate against any contemporaneous operational records and against the Operation Valhalla Strike timeline."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1968",
+      "ref": "C-1968",
+      "label": "Owens Possesses Six Photographs of Transport Vehicle Interior",
+      "claim": "Candace Owens states that she is in possession of six photographs depicting the interior of the vehicle used to transport Charlie Kirk to Timpanogos Regional Hospital, and that the team considered displaying one on the broadcast.",
+      "anchored_artifacts": [
+        "A-1556.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1433"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:33",
+      "investigative_direction": "Establish chain of custody for the photographs and verify provenance and date of capture."
+    }
+  ],
+  "memes": []
+}

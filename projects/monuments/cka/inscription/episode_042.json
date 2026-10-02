@@ -1,0 +1,1274 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 42,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "3c1f69671097bccc2394ca45fe92d4ded01f6adc3908c9f3aa68a3f9797749b9",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1501",
+      "family_ref": "A-1501",
+      "bundle_name": "Charlie Kirk Show Audio Bundle (12-05 broadcast segment)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1501.1",
+          "ref": "A-1501.1",
+          "description": "Segment: \"Gina\" caller question on invitation mechanics",
+          "related_claims": [
+            "C-1839",
+            "C-1840"
+          ],
+          "related_nodes": [
+            "N-494",
+            "N-487",
+            "N-1",
+            "N-1002",
+            "N-1384"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:20–00:05:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1501.2",
+          "ref": "A-1501.2",
+          "description": "Segment: Blake Nef response — Erika Kirk direction and in-person rationale",
+          "related_claims": [
+            "C-1839",
+            "C-1840",
+            "C-1841"
+          ],
+          "related_nodes": [
+            "N-487",
+            "N-1002",
+            "N-1",
+            "N-1384"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:37–00:07:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1502",
+      "family_ref": "A-1502",
+      "bundle_name": "TPUSA Phoenix Live Stream Announcement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1502.1",
+          "ref": "A-1502.1",
+          "description": "Blake Nef prior statement: Phoenix live stream \"sincere\" invitation",
+          "related_claims": [
+            "C-1842"
+          ],
+          "related_nodes": [
+            "N-487",
+            "N-1384",
+            "N-1002"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:14–00:11:58",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1503",
+      "family_ref": "A-1503",
+      "bundle_name": "The Game Song Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1503.1",
+          "ref": "A-1503.1",
+          "description": "Audio clip and read-aloud lyric excerpt of \"The Assassination of Candace Owens\"",
+          "related_claims": [
+            "C-1843"
+          ],
+          "related_nodes": [
+            "N-489",
+            "N-1",
+            "N-1002"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:18–00:37:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1504",
+      "family_ref": "A-1504",
+      "bundle_name": "John McCain Ukraine Speech Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1504.1",
+          "ref": "A-1504.1",
+          "description": "John McCain addressing Ukraine protesters (Maidan material)",
+          "related_claims": [],
+          "related_nodes": [
+            "N-495",
+            "N-496",
+            "N-1382"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:45–00:19:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1505",
+      "family_ref": "A-1505",
+      "bundle_name": "UVU September 10 Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1505.1",
+          "ref": "A-1505.1",
+          "description": "Footage segment: young men alone wearing maroon shirts in crowd",
+          "related_claims": [
+            "C-1844",
+            "C-1847"
+          ],
+          "related_nodes": [
+            "N-1382",
+            "N-490",
+            "N-491"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:45–00:21:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1505.2",
+          "ref": "A-1505.2",
+          "description": "Footage segment: Jacob Kasparian not ducking after shot",
+          "related_claims": [
+            "C-1848",
+            "C-1849"
+          ],
+          "related_nodes": [
+            "N-490",
+            "N-1382"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:00–00:24:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1505.3",
+          "ref": "A-1505.3",
+          "description": "Footage segment: Jacob Kasparian recording (grainy superimposition)",
+          "related_claims": [
+            "C-1849"
+          ],
+          "related_nodes": [
+            "N-490",
+            "N-1382"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:00–00:25:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1505.4",
+          "ref": "A-1505.4",
+          "description": "Jacob Kasparian earlier-day social media post (dyed blue shirt)",
+          "related_claims": [
+            "C-1850"
+          ],
+          "related_nodes": [
+            "N-490",
+            "N-1382"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:50–00:25:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1505.5",
+          "ref": "A-1505.5",
+          "description": "Adam Bartholomew live-stream footage (full event)",
+          "related_claims": [
+            "C-1851",
+            "C-1852",
+            "C-1853"
+          ],
+          "related_nodes": [
+            "N-491",
+            "N-492",
+            "N-1382"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:30–00:28:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1505.6",
+          "ref": "A-1505.6",
+          "description": "Video segment: a person holding a maroon shirt",
+          "related_claims": [
+            "C-1847"
+          ],
+          "related_nodes": [
+            "N-1382"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:40–00:21:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1506",
+      "family_ref": "A-1506",
+      "bundle_name": "Blake Nef X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1506.1",
+          "ref": "A-1506.1",
+          "description": "Tweet: \"Of course, it's not how you book a guest. We are not booking a guest…\"",
+          "related_claims": [
+            "C-1854"
+          ],
+          "related_nodes": [
+            "N-487",
+            "N-1384"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:13–00:46:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1507",
+      "family_ref": "A-1507",
+      "bundle_name": "Charlie Kirk Show Apple Podcasts Ranking Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1507.1",
+          "ref": "A-1507.1",
+          "description": "Announcement of Charlie Kirk Show falling to #94 on Apple Podcasts",
+          "related_claims": [
+            "C-1855"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1383"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:41–00:03:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1508",
+      "family_ref": "A-1508",
+      "bundle_name": "PBS Emmanuel Beerer Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1508.1",
+          "ref": "A-1508.1",
+          "description": "PBS News clip of Emmanuel Beerer describing UVU event",
+          "related_claims": [
+            "C-1856"
+          ],
+          "related_nodes": [
+            "N-493",
+            "N-1386"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:42–00:33:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1509",
+      "family_ref": "A-1509",
+      "bundle_name": "Roof Shooter Video Follow-up Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1509.1",
+          "ref": "A-1509.1",
+          "description": "Host follow-up phone-call summary with side-angle roof video shooter",
+          "related_claims": [
+            "C-1857",
+            "C-1858",
+            "C-1859"
+          ],
+          "related_nodes": [
+            "N-1385"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:21–00:45:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1510",
+      "family_ref": "A-1510",
+      "bundle_name": "Anonymous Military Maroon Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1510.1",
+          "ref": "A-1510.1",
+          "description": "Email quotes from current/former military personnel on maroon color conventions",
+          "related_claims": [
+            "C-1860"
+          ],
+          "related_nodes": [
+            "N-1382"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:10–00:23:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1511",
+      "family_ref": "A-1511",
+      "bundle_name": "Carrie Bartholomew X Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1511.1",
+          "ref": "A-1511.1",
+          "description": "Tweet from Carrie Bartholomew confirming she was in courtyard during shot",
+          "related_claims": [
+            "C-1852"
+          ],
+          "related_nodes": [
+            "N-492",
+            "N-491",
+            "N-1382"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:27:30–00:28:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1512",
+      "family_ref": "A-1512",
+      "bundle_name": "Audience Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1512.1",
+          "ref": "A-1512.1",
+          "description": "YouTube comment: \"Tyler Robinson can appear in court by video conference, but Turning Point USA says Candace cannot attend their debate by similar means.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1",
+            "N-1384"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:32–00:02:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-495",
+      "ref": "N-495",
+      "name": "Charlie Kirk Show Audio Bundle (12-05 broadcast segment)",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-496",
+      "ref": "N-496",
+      "name": "Charlie Kirk Show Audio Bundle (12-05 broadcast segment)",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of the investigation and central figure of all artifact-backed claims.",
+      "related_artifacts": [
+        "A-1501.1",
+        "A-1501.2",
+        "A-1503.1",
+        "A-1507.1",
+        "A-1512.1"
+      ],
+      "related_claims": [
+        "C-1839",
+        "C-1843",
+        "C-1855"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1002",
+      "ref": "N-1002",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "Spouse of Charlie Kirk; identified in this episode as having directed and approved the TPUSA invitation response. Name spelled \"Erika\" throughout this episode — see Optional Flags.",
+      "related_artifacts": [
+        "A-1501.2",
+        "A-1502.1"
+      ],
+      "related_claims": [
+        "C-1839",
+        "C-1840",
+        "C-1861"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-487",
+      "ref": "N-487",
+      "name": "Blake Nef",
+      "type": "person",
+      "description": "TPUSA spokesperson featured in artifact-anchored audio segment and X post.",
+      "related_artifacts": [
+        "A-1501.2",
+        "A-1502.1",
+        "A-1506.1"
+      ],
+      "related_claims": [
+        "C-1839",
+        "C-1840",
+        "C-1841",
+        "C-1842",
+        "C-1854"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1384"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-488",
+      "ref": "N-488",
+      "name": "Andrew Kovat",
+      "type": "person",
+      "description": "TPUSA figure referenced in connection with the live stream; spelling varies in transcript (\"Andrew Kovat,\" \"Andrew Kovette,\" \"Andrew Kovac\") — see Optional Flags.",
+      "related_artifacts": [
+        "A-1501.1",
+        "A-1501.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-487",
+        "N-1384"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-489",
+      "ref": "N-489",
+      "name": "The Game (rapper)",
+      "type": "person",
+      "description": "Recording artist whose track \"The Assassination of Candace Owens\" is presented in the episode.",
+      "related_artifacts": [
+        "A-1503.1"
+      ],
+      "related_claims": [
+        "C-1843"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-490",
+      "ref": "N-490",
+      "name": "Jacob Kasparian",
+      "type": "person",
+      "description": "Individual identified in UVU September 10 footage by host; subject of non-ducking, recording, and clothing-change observations. Spelled \"Jordan Kasparian\" once in transcript — see Optional Flags.",
+      "related_artifacts": [
+        "A-1505.2",
+        "A-1505.3",
+        "A-1505.4"
+      ],
+      "related_claims": [
+        "C-1848",
+        "C-1849",
+        "C-1850"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1382"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-491",
+      "ref": "N-491",
+      "name": "Adam Bartholomew",
+      "type": "person",
+      "description": "Live-streamer of the UVU event; identified in host's footage analysis.",
+      "related_artifacts": [
+        "A-1505.5"
+      ],
+      "related_claims": [
+        "C-1851",
+        "C-1853"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-492",
+        "N-1382"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-492",
+      "ref": "N-492",
+      "name": "Carrie Bartholomew",
+      "type": "person",
+      "description": "Spouse of Adam Bartholomew; confirmed in her own social media post as being in the courtyard during the shot.",
+      "related_artifacts": [
+        "A-1511.1"
+      ],
+      "related_claims": [
+        "C-1852"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-491",
+        "N-1382"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-493",
+      "ref": "N-493",
+      "name": "Emmanuel Beerer",
+      "type": "person",
+      "description": "Eyewitness featured in PBS interview clip; host notes his selection by mainstream media.",
+      "related_artifacts": [
+        "A-1508.1"
+      ],
+      "related_claims": [
+        "C-1856"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1386"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-494",
+      "ref": "N-494",
+      "name": "\"Gina\" (Charlie Kirk Show caller)",
+      "type": "person",
+      "description": "Caller who posed question to Blake Nef regarding invitation mechanics.",
+      "related_artifacts": [
+        "A-1501.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-487",
+        "N-1384"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1382",
+      "ref": "N-1382",
+      "name": "Maroon Shirt Pattern at UVU September 10 Event",
+      "type": "investigation_target",
+      "description": "Persistent observation of multiple young men alone in maroon shirts at UVU; potential identification protocol question.",
+      "related_artifacts": [
+        "A-1505.1",
+        "A-1505.2",
+        "A-1505.3",
+        "A-1505.4",
+        "A-1505.5",
+        "A-1505.6",
+        "A-1510.1",
+        "A-1511.1"
+      ],
+      "related_claims": [
+        "C-1844",
+        "C-1847",
+        "C-1848",
+        "C-1849",
+        "C-1850",
+        "C-1851",
+        "C-1852",
+        "C-1853",
+        "C-1854",
+        "C-1860"
+      ],
+      "tags": [],
+      "evidence_count": 8,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-490",
+        "N-491",
+        "N-492"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1383",
+      "ref": "N-1383",
+      "name": "Charlie Kirk Show Apple Podcasts Ranking Decline",
+      "type": "investigation_target",
+      "description": "Persistent target tracking reported drop to #94 from prior top-10 status.",
+      "related_artifacts": [
+        "A-1507.1"
+      ],
+      "related_claims": [
+        "C-1855"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1384",
+      "ref": "N-1384",
+      "name": "TPUSA December 15 Live Stream Event Verification",
+      "type": "investigation_target",
+      "description": "Persistent target tracking the announced December 15, 2025 TPUSA live stream response, its invitation mechanics, Erika Kirk's attendance, and evidentiary handling.",
+      "related_artifacts": [
+        "A-1501.1",
+        "A-1501.2",
+        "A-1502.1",
+        "A-1506.1",
+        "A-1512.1"
+      ],
+      "related_claims": [
+        "C-1839",
+        "C-1840",
+        "C-1841",
+        "C-1842",
+        "C-1854",
+        "C-1861"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-487",
+        "N-488",
+        "N-494",
+        "N-1002"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1385",
+      "ref": "N-1385",
+      "name": "Roof Shooter Video Witness Follow-up",
+      "type": "investigation_target",
+      "description": "Persistent target tracking the two videos of the alleged roof subject, the side-angle shooter's testimony, and absence of federal or defense outreach.",
+      "related_artifacts": [
+        "A-1509.1"
+      ],
+      "related_claims": [
+        "C-1857",
+        "C-1858",
+        "C-1859"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1386",
+      "ref": "N-1386",
+      "name": "Mainstream Media Eyewitness Selection Pattern at UVU Event",
+      "type": "investigation_target",
+      "description": "Persistent target tracking why Emmanuel Beerer was selected by PBS (and other networks) as a featured eyewitness despite his apparent obscurity.",
+      "related_artifacts": [
+        "A-1508.1"
+      ],
+      "related_claims": [
+        "C-1856"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-493"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1839",
+      "ref": "C-1839",
+      "label": "Blake Nef stated TPUSA invitation response was at direction and approval of Erika Kirk",
+      "claim": "On the Charlie Kirk Show, Blake Nef stated that the invitation-response announcement and all related actions were taken at the request, direction, and approval of Erika Kirk.",
+      "anchored_artifacts": [
+        "A-1501.2"
+      ],
+      "related_nodes": [
+        "N-487",
+        "N-1002",
+        "N-1",
+        "N-1384",
+        "N-495",
+        "N-496"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:37",
+      "investigative_direction": "Obtain the full unedited Charlie Kirk Show audio segment and any internal TPUSA communications referencing Erika Kirk's approval."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1840",
+      "ref": "C-1840",
+      "label": "Blake Nef stated it is \"intuitive\" that in-person attendance is critical for authenticity",
+      "claim": "On the Charlie Kirk Show, Blake Nef stated that, given the nature of the claims, \"it's intuitive that it is critical to be in person if you want to be authentic.\"",
+      "anchored_artifacts": [
+        "A-1501.2"
+      ],
+      "related_nodes": [
+        "N-487",
+        "N-1384",
+        "N-1002"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:44",
+      "investigative_direction": "Compare this stated rationale against any prior TPUSA live stream format decisions, particularly those involving remote participation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1841",
+      "ref": "C-1841",
+      "label": "Blake Nef's prior \"sincere\" Phoenix invitation did not require in-person attendance",
+      "claim": "In his earlier invitation statement (read aloud in this episode), Blake Nef said TPUSA would \"sincerely welcome\" Candace Owens's participation in a Phoenix live stream without explicit in-person requirement.",
+      "anchored_artifacts": [
+        "A-1502.1"
+      ],
+      "related_nodes": [
+        "N-487",
+        "N-1384",
+        "N-1002"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:14",
+      "investigative_direction": "Obtain the original December 3 (approx.) Blake Nef statement text and any follow-up communication that added an in-person condition."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1842",
+      "ref": "C-1842",
+      "label": "The Game's released track contains the question \"Who really killed Charlie Kirk?\"",
+      "claim": "The Game's song \"The Assassination of Candace Owens\" (audio excerpt and lyric read) includes the line \"Who really killed Charlie Kirk?\"",
+      "anchored_artifacts": [
+        "A-1503.1"
+      ],
+      "related_nodes": [
+        "N-489",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:18",
+      "investigative_direction": "Obtain the full released track and verify publication date, distribution platform, and producer credits."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1843",
+      "ref": "C-1843",
+      "label": "UVU school colors are green and white, not maroon",
+      "claim": "When asked whether UVU's school colors include maroon, a UVU-affiliated individual confirmed the school's colors are green and white.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1382"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:45",
+      "investigative_direction": "Verify UVU official branding (athletics department, university communications) to confirm stated school colors."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1844",
+      "ref": "C-1844",
+      "label": "UVU September 10 footage shows numerous young men alone wearing maroon shirts",
+      "claim": "Footage from UVU on September 10 shows multiple young men attending alone and wearing maroon shirts.",
+      "anchored_artifacts": [
+        "A-1505.1",
+        "A-1505.6"
+      ],
+      "related_nodes": [
+        "N-1382",
+        "N-490",
+        "N-491"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:45–00:21:55",
+      "investigative_direction": "Systematically catalog every maroon-shirted attendee visible in publicly available September 10 footage and cross-reference social media profiles."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1845",
+      "ref": "C-1845",
+      "label": "Blake Nef X post states invitation was not guest booking and Candace declined",
+      "claim": "Blake Nef posted on X that the invitation was \"not how you book a guest,\" that TPUSA \"never said that we were\" booking a guest, and that Candace \"was given the opportunity to join and declined.\"",
+      "anchored_artifacts": [
+        "A-1506.1"
+      ],
+      "related_nodes": [
+        "N-487",
+        "N-1384",
+        "N-1002"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:13",
+      "investigative_direction": "Retrieve the original X post with timestamp and any replies; obtain any direct communication records between TPUSA and Candace Owens's representatives."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1846",
+      "ref": "C-1846",
+      "label": "The Charlie Kirk Show fell to #94 on Apple Podcasts",
+      "claim": "The Charlie Kirk Show has fallen to #94 on Apple Podcasts despite a prior top-10 ranking and prior #1 placement.",
+      "anchored_artifacts": [
+        "A-1507.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1383"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:41",
+      "investigative_direction": "Cross-reference third-party Apple Podcasts tracking services to verify the ranking on the cited date and identify trend pattern."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1847",
+      "ref": "C-1847",
+      "label": "PBS featured Emmanuel Beerer as eyewitness in Salt Lake City",
+      "claim": "PBS (and other networks, per host) featured Emmanuel Beerer as an eyewitness, with the interview conducted in Salt Lake City rather than at UVU.",
+      "anchored_artifacts": [
+        "A-1508.1"
+      ],
+      "related_nodes": [
+        "N-493",
+        "N-1386"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:42–00:33:55",
+      "investigative_direction": "Obtain the original PBS segment, identify the producer/assignment editor, and verify how Beerer was identified as a witness."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1848",
+      "ref": "C-1848",
+      "label": "Jacob Kasparian did not duck after the shot went off",
+      "claim": "UVU footage shows Jacob Kasparian remaining upright and not ducking after the shot, briefly handling his phone and walking away.",
+      "anchored_artifacts": [
+        "A-1505.2"
+      ],
+      "related_nodes": [
+        "N-490",
+        "N-1382"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:00–00:24:45",
+      "investigative_direction": "Obtain the original full-length footage to confirm the absence of ducking and any subsequent movement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1849",
+      "ref": "C-1849",
+      "label": "Jacob Kasparian recorded the event on his phone",
+      "claim": "Footage and a grainy superimposed image depict Jacob Kasparian recording the event on his phone.",
+      "anchored_artifacts": [
+        "A-1505.3"
+      ],
+      "related_nodes": [
+        "N-490",
+        "N-1382"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:00–00:25:35",
+      "investigative_direction": "Obtain any phone-recorded footage from Jacob Kasparian or his device via subpoena/preservation order."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1850",
+      "ref": "C-1850",
+      "label": "Jacob Kasparian's earlier-day social media post depicted a different shirt",
+      "claim": "Jacob Kasparian posted himself earlier on September 10 wearing a dyed blue shirt rather than the maroon shirt worn at UVU.",
+      "anchored_artifacts": [
+        "A-1505.4"
+      ],
+      "related_nodes": [
+        "N-490",
+        "N-1382"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:50–00:25:25",
+      "investigative_direction": "Obtain the original Facebook post with timestamp metadata; verify whether the timestamp was edited for timezone."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1851",
+      "ref": "C-1851",
+      "label": "Adam Bartholomew live-streamed the entire UVU event",
+      "claim": "Adam Bartholomew live-streamed the entire UVU event on September 10.",
+      "anchored_artifacts": [
+        "A-1505.5"
+      ],
+      "related_nodes": [
+        "N-491",
+        "N-492",
+        "N-1382"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:30–00:28:00",
+      "investigative_direction": "Obtain the full Adam Bartholomew livestream VOD and metadata for forensic review."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1852",
+      "ref": "C-1852",
+      "label": "Carrie Bartholomew confirmed via tweet she was in the courtyard during the shot",
+      "claim": "Carrie Bartholomew posted a tweet and accompanying photo confirming she was in the courtyard near the bush when the shot occurred.",
+      "anchored_artifacts": [
+        "A-1511.1",
+        "A-1505.5"
+      ],
+      "related_nodes": [
+        "N-492",
+        "N-491",
+        "N-1382"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:30–00:28:00",
+      "investigative_direction": "Retrieve the original Carrie Bartholomew tweet with image metadata and timestamp."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1853",
+      "ref": "C-1853",
+      "label": "Adam Bartholomew did not stop livestreaming to find his wife after the shot",
+      "claim": "In his livestream footage, Adam Bartholomew did not interrupt the broadcast to check on or locate his wife immediately after the shot.",
+      "anchored_artifacts": [
+        "A-1505.5"
+      ],
+      "related_nodes": [
+        "N-491",
+        "N-492",
+        "N-1382"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:51–00:28:00",
+      "investigative_direction": "Review the full Bartholomew livestream timeline and any subsequent communication regarding his wife's location."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1854",
+      "ref": "C-1854",
+      "label": "Tyler Robinson was wearing a maroon shirt at the event",
+      "claim": "Tyler Robinson, the alleged shooter, was wearing a maroon shirt at the UVU event.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1382"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:44",
+      "investigative_direction": "Cross-reference court filings and law enforcement exhibits confirming Robinson's attire on September 10."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1855",
+      "ref": "C-1855",
+      "label": "Multiple email correspondents state maroon is associated with airborne forces in multiple militaries",
+      "claim": "Viewers identifying as current or former military personnel wrote in to state that maroon is associated with airborne forces across the UK, US, France, and other militaries, and that maroon can serve as an operational \"color of the day\" identifier.",
+      "anchored_artifacts": [
+        "A-1510.1"
+      ],
+      "related_nodes": [
+        "N-1382"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:10–00:23:45",
+      "investigative_direction": "Cross-reference the email assertions against publicly available military uniform/identifier doctrine for airborne, QRF, and undercover units."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1856",
+      "ref": "C-1856",
+      "label": "Only two videos of the alleged shooter on the roof exist",
+      "claim": "Per host recollection, there are only two videos showing the alleged shooter on the roof — one from the side showing a crouched figure holding a gun.",
+      "anchored_artifacts": [
+        "A-1509.1"
+      ],
+      "related_nodes": [
+        "N-1385"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:21",
+      "investigative_direction": "Catalog all publicly known September 10 roof footage and confirm whether additional footage exists in government holdings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1857",
+      "ref": "C-1857",
+      "label": "Roof video caller did not see subject take the shot and observed no recoil",
+      "claim": "The individual who shot one of the two roof videos told the host in a follow-up call that he did not see the subject take the shot and observed no recoil.",
+      "anchored_artifacts": [
+        "A-1509.1"
+      ],
+      "related_nodes": [
+        "N-1385"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:21–00:45:00",
+      "investigative_direction": "Obtain a sworn statement from the roof video caller and any forensic review of the footage."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1858",
+      "ref": "C-1858",
+      "label": "Roof video caller reports no contact from Robinson's defense or federal authorities",
+      "claim": "The roof video caller stated that Tyler Robinson's defense lawyer had not reached out, and that federal authorities had not reached out since the host's prior contact.",
+      "anchored_artifacts": [
+        "A-1509.1"
+      ],
+      "related_nodes": [
+        "N-1385"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:11",
+      "investigative_direction": "Verify via court subpoena records and FBI/subpoena logs whether the caller was contacted by either party."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1859",
+      "ref": "C-1859",
+      "label": "Roof video caller reports firearms-instruction background",
+      "claim": "The roof video caller stated he has experience with guns and teaches people to shoot.",
+      "anchored_artifacts": [
+        "A-1509.1"
+      ],
+      "related_nodes": [
+        "N-1385"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:21–00:45:00",
+      "investigative_direction": "Verify the caller's stated qualifications via credentialing records or instructors' registry."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1860",
+      "ref": "C-1860",
+      "label": "Erika Kirk identified as CEO / head of TPUSA",
+      "claim": "Blake Nef states Erika Kirk \"heads this\" and host identifies Erika Kirk as CEO of TPUSA.",
+      "anchored_artifacts": [
+        "A-1501.2"
+      ],
+      "related_nodes": [
+        "N-1002",
+        "N-1384"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00–00:00:01",
+      "investigative_direction": "Obtain TPUSA corporate filings or official communications confirming Erika Kirk's current title and date of appointment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1861",
+      "ref": "C-1861",
+      "label": "TPUSA response live stream scheduled for December 15",
+      "claim": "A TPUSA response live stream was announced for December 15 (2025).",
+      "anchored_artifacts": [
+        "A-1501.2"
+      ],
+      "related_nodes": [
+        "N-487",
+        "N-1002",
+        "N-1384",
+        "N-488"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:32",
+      "investigative_direction": "Monitor TPUSA channels for confirmation and document the actual event for artifact capture."
+    }
+  ],
+  "memes": []
+}

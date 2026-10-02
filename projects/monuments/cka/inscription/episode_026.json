@@ -1,0 +1,1164 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 26,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "41371ed9bf2aa31e939261a41b3c56c4f8ebefab5ce2776c5e5861ea674b656d",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1333",
+      "family_ref": "A-1333",
+      "bundle_name": "TPUSA Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1333.1",
+          "ref": "A-1333.1",
+          "description": "TPUSA planning email (October 2023) regarding April 2024 campus tour events",
+          "related_claims": [
+            "C-1598",
+            "C-1599"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1294"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:45–00:04:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1333.2",
+          "ref": "A-1333.2",
+          "description": "UVU event request email (mid-July 2025) — referenced verbally by host; shown on screen per host narration but content not transcribed in captions",
+          "related_claims": [
+            "C-1599"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1294"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:39–00:03:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1334",
+      "family_ref": "A-1334",
+      "bundle_name": "NYC Mayoral Debate Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1334.1",
+          "ref": "A-1334.1",
+          "description": "NYC mayoral debate clip regarding candidates' first foreign country visit",
+          "related_claims": [
+            "C-1600"
+          ],
+          "related_nodes": [
+            "N-340"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:41–00:12:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1335",
+      "family_ref": "A-1335",
+      "bundle_name": "CNN Segment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1335.1",
+          "ref": "A-1335.1",
+          "description": "CNN segment (July 2025) describing Candace Owens",
+          "related_claims": [
+            "C-1601"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:49–00:31:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1336",
+      "family_ref": "A-1336",
+      "bundle_name": "Brett Cooper Commentary Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1336.1",
+          "ref": "A-1336.1",
+          "description": "Brett Cooper audio clip commenting on Randy Fine",
+          "related_claims": [
+            "C-1602",
+            "C-1603"
+          ],
+          "related_nodes": [
+            "N-335",
+            "N-339"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:25–00:18:57",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1336.2",
+          "ref": "A-1336.2",
+          "description": "Brett Cooper audio clip commenting on Ted Cruz tweets",
+          "related_claims": [
+            "C-1604",
+            "C-1605"
+          ],
+          "related_nodes": [
+            "N-335",
+            "N-338"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:39–00:20:14",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1337",
+      "family_ref": "A-1337",
+      "bundle_name": "Brett Cooper Online Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1337.1",
+          "ref": "A-1337.1",
+          "description": "X post attributed to Aaron Wexler calling Brett Cooper \"white Candace\"",
+          "related_claims": [
+            "C-1606"
+          ],
+          "related_nodes": [
+            "N-335",
+            "N-343"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:51–00:21:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1337.2",
+          "ref": "A-1337.2",
+          "description": "X posts alleging Brett Cooper and her mother engage in witchcraft",
+          "related_claims": [
+            "C-1607"
+          ],
+          "related_nodes": [
+            "N-335"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:23:37–00:24:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1338",
+      "family_ref": "A-1338",
+      "bundle_name": "Shawn Ryan Show Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1338.1",
+          "ref": "A-1338.1",
+          "description": "Brett Cooper on Shawn Ryan Show discussing mother visiting mediums",
+          "related_claims": [
+            "C-1608"
+          ],
+          "related_nodes": [
+            "N-335",
+            "N-344"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:28–00:25:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1339",
+      "family_ref": "A-1339",
+      "bundle_name": "Blake Nef Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1339.1",
+          "ref": "A-1339.1",
+          "description": "Blake Nef audio interview recounting events immediately after the UVU shooting",
+          "related_claims": [
+            "C-1609",
+            "C-1610"
+          ],
+          "related_nodes": [
+            "N-336",
+            "N-337",
+            "N-345",
+            "N-1000",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:07–00:39:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1340",
+      "family_ref": "A-1340",
+      "bundle_name": "Laura Loomer Pentagon Headline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1340.1",
+          "ref": "A-1340.1",
+          "description": "News headline: \"Conservative activist Laura Loomer, a Trump ally, says she has a new Pentagon press pass\"",
+          "related_claims": [
+            "C-1611"
+          ],
+          "related_nodes": [
+            "N-341"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:44–00:48:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1341",
+      "family_ref": "A-1341",
+      "bundle_name": "Josh Hammer Commentary Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1341.1",
+          "ref": "A-1341.1",
+          "description": "Josh Hammer audio commentary on Mamdani NYC mayoral win in context of 9/11 anniversary",
+          "related_claims": [
+            "C-1612",
+            "C-1613"
+          ],
+          "related_nodes": [
+            "N-42",
+            "N-340"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:50:03–00:50:59",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1342",
+      "family_ref": "A-1342",
+      "bundle_name": "CNN Exit Poll Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1342.1",
+          "ref": "A-1342.1",
+          "description": "CNN exit poll image showing Jewish vote breakdown for NYC mayoral race (~32% for Mamdani per host)",
+          "related_claims": [
+            "C-1614"
+          ],
+          "related_nodes": [
+            "N-340"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:20–00:15:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1343",
+      "family_ref": "A-1343",
+      "bundle_name": "Charlie Kirk YouTube Channel Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1343.1",
+          "ref": "A-1343.1",
+          "description": "Screenshot of Charlie Kirk YouTube channel scheduling showing Mikey McCoy speech queued first (before Erika Kirk)",
+          "related_claims": [
+            "C-1615"
+          ],
+          "related_nodes": [
+            "N-336",
+            "N-1000",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:19–00:46:08",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1344",
+      "family_ref": "A-1344",
+      "bundle_name": "UVU Scene Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1344.1",
+          "ref": "A-1344.1",
+          "description": "Back/side footage of Mikey McCoy movement pattern after shooting — verbal description with on-screen playback per host narration",
+          "related_claims": [
+            "C-1616"
+          ],
+          "related_nodes": [
+            "N-336",
+            "N-1295",
+            "N-1296"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:32–00:34:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1344.2",
+          "ref": "A-1344.2",
+          "description": "Footage showing Charlie Kirk positioned on top of an equipment box/suitcase rather than flat ground — verbal description with on-screen playback per host narration",
+          "related_claims": [
+            "C-1616"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1295"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:32–00:34:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "*(Existing — referenced as subject of investigation updates)*",
+      "related_artifacts": [
+        "A-1333.1",
+        "A-1339.1",
+        "A-1343.1",
+        "A-1344.2"
+      ],
+      "related_claims": [
+        "C-1598",
+        "C-1599",
+        "C-1615"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1294",
+        "N-1295"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1000",
+      "ref": "N-1000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "*(Existing — referenced in scheduling and phone call discussion)*",
+      "related_artifacts": [
+        "A-1339.1",
+        "A-1343.1"
+      ],
+      "related_claims": [
+        "C-1609",
+        "C-1610",
+        "C-1615"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-335",
+      "ref": "N-335",
+      "name": "Brett Cooper",
+      "type": "person",
+      "description": "Subject of multiple on-air artifact-backed claims (commentary clips, online posts, Shawn Ryan appearance).",
+      "related_artifacts": [
+        "A-1336.1",
+        "A-1336.2",
+        "A-1337.1",
+        "A-1337.2",
+        "A-1338.1"
+      ],
+      "related_claims": [
+        "C-1602",
+        "C-1603",
+        "C-1604",
+        "C-1605",
+        "C-1606",
+        "C-1607",
+        "C-1608"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-338",
+        "N-339",
+        "N-343",
+        "N-344"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-336",
+      "ref": "N-336",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Subject of artifact-backed claims regarding post-shooting phone calls, behavior, and YouTube channel positioning.",
+      "related_artifacts": [
+        "A-1339.1",
+        "A-1343.1",
+        "A-1344.1"
+      ],
+      "related_claims": [
+        "C-1609",
+        "C-1610",
+        "C-1615",
+        "C-1616"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-345",
+        "N-1000",
+        "N-1295",
+        "N-1296",
+        "N-1297"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-337",
+      "ref": "N-337",
+      "name": "Blake Nef",
+      "type": "person",
+      "description": "Eyewitness source providing on-record recounting of post-shooting events.",
+      "related_artifacts": [
+        "A-1339.1"
+      ],
+      "related_claims": [
+        "C-1609",
+        "C-1610"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-336",
+        "N-345",
+        "N-1000"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-338",
+      "ref": "N-338",
+      "name": "Ted Cruz",
+      "type": "person",
+      "description": "Subject of Brett Cooper criticism and host commentary.",
+      "related_artifacts": [
+        "A-1336.2"
+      ],
+      "related_claims": [
+        "C-1604",
+        "C-1605"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-335"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-339",
+      "ref": "N-339",
+      "name": "Randy Fine",
+      "type": "person",
+      "description": "Florida state representative referenced in Brett Cooper commentary.",
+      "related_artifacts": [
+        "A-1336.1"
+      ],
+      "related_claims": [
+        "C-1602"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-335"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-340",
+      "ref": "N-340",
+      "name": "Zohran Mamdani",
+      "type": "person",
+      "description": "NYC mayoral election winner; subject of debate clip, exit poll, and commentary.",
+      "related_artifacts": [
+        "A-1334.1",
+        "A-1341.1",
+        "A-1342.1"
+      ],
+      "related_claims": [
+        "C-1600",
+        "C-1613",
+        "C-1614"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-341",
+      "ref": "N-341",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Subject of Pentagon press pass headline and host commentary.",
+      "related_artifacts": [
+        "A-1340.1"
+      ],
+      "related_claims": [
+        "C-1611"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-343",
+      "ref": "N-343",
+      "name": "Aaron Wexler",
+      "type": "person",
+      "description": "X poster identified by host as source of \"white Candace\" post.",
+      "related_artifacts": [
+        "A-1337.1"
+      ],
+      "related_claims": [
+        "C-1606"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-335"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-344",
+      "ref": "N-344",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "Host of the Shawn Ryan Show, on which Brett Cooper appeared.",
+      "related_artifacts": [
+        "A-1338.1"
+      ],
+      "related_claims": [
+        "C-1608"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-335"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-345",
+      "ref": "N-345",
+      "name": "Rob McCoy (Pastor Rob McCoy)",
+      "type": "person",
+      "description": "Referenced in Blake Nef interview as call recipient; subject of host commentary re: Charlie Kirk succession narrative.",
+      "related_artifacts": [
+        "A-1339.1"
+      ],
+      "related_claims": [
+        "C-1609",
+        "C-1610"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-336",
+        "N-337"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1294",
+      "ref": "N-1294",
+      "name": "UVU Event Approval Timeline Anomaly",
+      "type": "investigation_target",
+      "description": "Persistent discrepancy between standard TPUSA advance-planning window (≈5–6 months, per A-1333.1) and the unusually short UVU request-to-event interval (mid-July 2025 request, September 2025 approval per host).",
+      "related_artifacts": [
+        "A-1333.1",
+        "A-1333.2"
+      ],
+      "related_claims": [
+        "C-1598",
+        "C-1599"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1295",
+      "ref": "N-1295",
+      "name": "Equipment Box / First-Aid Anomaly at UVU Scene",
+      "type": "investigation_target",
+      "description": "Persistent claim that Charlie Kirk was placed on top of an equipment box rather than flat ground, and that no visible first-aid administration occurred in the immediate post-shot window.",
+      "related_artifacts": [
+        "A-1344.1",
+        "A-1344.2"
+      ],
+      "related_claims": [
+        "C-1616"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-336"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1296",
+      "ref": "N-1296",
+      "name": "Mikey McCoy Phone Call Sequence Anomaly",
+      "type": "investigation_target",
+      "description": "Persistent claim that Mikey McCoy's described phone calls (Erica, Rob McCoy) within one minute of the shooting are inconsistent with observed movement patterns and with expected human behavior under such circumstances.",
+      "related_artifacts": [
+        "A-1339.1",
+        "A-1344.1"
+      ],
+      "related_claims": [
+        "C-1610"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-336",
+        "N-337",
+        "N-345",
+        "N-1000"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1297",
+      "ref": "N-1297",
+      "name": "YouTube Scheduling Order Anomaly",
+      "type": "investigation_target",
+      "description": "Persistent claim that the first scheduled post on Charlie Kirk's YouTube channel after the memorial event was Mikey McCoy's speech, queued before Erika Kirk's.",
+      "related_artifacts": [
+        "A-1343.1"
+      ],
+      "related_claims": [
+        "C-1615"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-336",
+        "N-1000"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1598",
+      "ref": "C-1598",
+      "label": "Standard TPUSA Advance-Planning Timeline",
+      "claim": "A Turning Point USA email dated October 2023 shows that planning for an April 2024 campus tour was already underway approximately five to six months in advance.",
+      "anchored_artifacts": [
+        "A-1333.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1294"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:45–00:04:20",
+      "investigative_direction": "Obtain the full October 2023 TPUSA email thread and cross-reference against typical event-planning SOPs for prior TPUSA tours."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1599",
+      "ref": "C-1599",
+      "label": "UVU Request Timing Deviation",
+      "claim": "A UVU request for Charlie Kirk to speak on campus was received in mid-July 2025 and approved approximately six weeks later for a September 2025 event date, deviating from the standard TPUSA multi-month planning window.",
+      "anchored_artifacts": [
+        "A-1333.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1294"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:39–00:03:30",
+      "investigative_direction": "Obtain the original UVU event request correspondence and TPUSA internal approval records to verify exact dates."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1600",
+      "ref": "C-1600",
+      "label": "Mamdani Foreign-Trip Debate Response",
+      "claim": "In the NYC mayoral debate, Zohran Mamdani stated he would remain in New York City rather than take a first foreign trip as mayor.",
+      "anchored_artifacts": [
+        "A-1334.1"
+      ],
+      "related_nodes": [
+        "N-340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:41–00:12:31",
+      "investigative_direction": "Locate the full unedited debate transcript or video to verify the exact wording and any follow-up exchanges."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1601",
+      "ref": "C-1601",
+      "label": "CNN Characterizations of Candace Owens",
+      "claim": "A CNN segment aired in July 2025 contained on-air characterizations of Candace Owens including \"disgusting,\" \"anti-semite,\" \"anti-gay,\" and claims about statements on slavery history.",
+      "anchored_artifacts": [
+        "A-1335.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:30:49–00:31:25",
+      "investigative_direction": "Identify the named CNN panelists and confirm the original broadcast date and full segment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1602",
+      "ref": "C-1602",
+      "label": "Brett Cooper Commentary on Randy Fine",
+      "claim": "Brett Cooper stated on-record that Randy Fine cares more about Israel than free-speech principles, cited his anti-Netanyahu-handshake behavior and his bill introductions, and advised him to move to Israel.",
+      "anchored_artifacts": [
+        "A-1336.1"
+      ],
+      "related_nodes": [
+        "N-335",
+        "N-339"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:25–00:18:57",
+      "investigative_direction": "Locate the original Brett Cooper video for full context and identify any subsequent Fine response."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1603",
+      "ref": "C-1603",
+      "label": "Host Concurs with Brett Cooper on Randy Fine",
+      "claim": "The host explicitly endorses Brett Cooper's characterization of Randy Fine, calling her commentary \"pretty sound advice.\"",
+      "anchored_artifacts": [
+        "A-1336.1"
+      ],
+      "related_nodes": [
+        "N-335",
+        "N-339"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:57–00:19:30",
+      "investigative_direction": "N/A — host-stance claim linked to source artifact."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1604",
+      "ref": "C-1604",
+      "label": "Brett Cooper Commentary on Ted Cruz",
+      "claim": "Brett Cooper publicly criticized Ted Cruz for hypocrisy in his treatment of \"Nazi\" rhetoric, citing specific Cruz tweets.",
+      "anchored_artifacts": [
+        "A-1336.2"
+      ],
+      "related_nodes": [
+        "N-335",
+        "N-338"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:39–00:20:14",
+      "investigative_direction": "Verify the cited Ted Cruz tweets in their original form and timestamp."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1605",
+      "ref": "C-1605",
+      "label": "Host Concurs with Brett Cooper on Ted Cruz",
+      "claim": "The host endorses Brett Cooper's criticism of Ted Cruz's tweet behavior.",
+      "anchored_artifacts": [
+        "A-1336.2"
+      ],
+      "related_nodes": [
+        "N-335",
+        "N-338"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:14–00:20:30",
+      "investigative_direction": "N/A — host-stance claim linked to source artifact."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1606",
+      "ref": "C-1606",
+      "label": "Wexler \"White Candace\" Post",
+      "claim": "An X post attributed to Aaron Wexler referred to Brett Cooper as \"white Candace\" and questioned the use of the term \"Nazi.\"",
+      "anchored_artifacts": [
+        "A-1337.1"
+      ],
+      "related_nodes": [
+        "N-335",
+        "N-343"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:51–00:21:20",
+      "investigative_direction": "Verify the original Wexler post, account status (active/deleted), and any subsequent responses."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1607",
+      "ref": "C-1607",
+      "label": "Witchcraft Allegation Posts Targeting Brett Cooper",
+      "claim": "Multiple X posts alleged Brett Cooper and her mother engage in witchcraft, citing a prior interview clip as evidence.",
+      "anchored_artifacts": [
+        "A-1337.2"
+      ],
+      "related_nodes": [
+        "N-335"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:37–00:24:10",
+      "investigative_direction": "Identify the original poster accounts and verify the original posts."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1608",
+      "ref": "C-1608",
+      "label": "Brett Cooper Shawn Ryan Appearance",
+      "claim": "Brett Cooper appeared on the Shawn Ryan Show and discussed her mother's visits to mediums following the death of her twin brother.",
+      "anchored_artifacts": [
+        "A-1338.1"
+      ],
+      "related_nodes": [
+        "N-335",
+        "N-344"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:28–00:25:20",
+      "investigative_direction": "Locate the full Shawn Ryan Show episode for complete context and date verification."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1609",
+      "ref": "C-1609",
+      "label": "Blake Nef Recounts Mikey McCoy's Actions",
+      "claim": "Blake Nef stated on-record that he was next to Mikey McCoy when the shot occurred, that Mikey ran in a specific direction, that his lip was quivering, and that Mikey placed calls to Erica Kirk and to Robin McCoy within approximately one minute.",
+      "anchored_artifacts": [
+        "A-1339.1"
+      ],
+      "related_nodes": [
+        "N-336",
+        "N-337",
+        "N-345",
+        "N-1000",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:07–00:39:39",
+      "investigative_direction": "Confirm publication date and outlet of the Blake Nef interview; cross-reference with available video footage of Mikey McCoy's post-shooting movements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1610",
+      "ref": "C-1610",
+      "label": "Host Disputes Mikey McCoy Phone Call Account",
+      "claim": "The host asserts that Blake Nef's account is internally inconsistent with observed video footage of Mikey McCoy's movement and phone posture, and contends that the described calls could not have occurred as described.",
+      "anchored_artifacts": [
+        "A-1339.1",
+        "A-1344.1"
+      ],
+      "related_nodes": [
+        "N-336",
+        "N-337",
+        "N-345",
+        "N-1000",
+        "N-1296"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:39–00:43:20",
+      "investigative_direction": "Obtain and analyze the post-shooting footage showing Mikey McCoy's movements and phone usage against Nef's timeline."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1611",
+      "ref": "C-1611",
+      "label": "Laura Loomer Pentagon Press Pass Headline",
+      "claim": "A news headline reports that Laura Loomer, described as a Trump ally, has been issued a new Pentagon press pass.",
+      "anchored_artifacts": [
+        "A-1340.1"
+      ],
+      "related_nodes": [
+        "N-341"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:44–00:48:10",
+      "investigative_direction": "Verify the original outlet, publication date, and Pentagon confirmation status."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1612",
+      "ref": "C-1612",
+      "label": "Josh Hammer 9/11 Anniversary Commentary",
+      "claim": "Josh Hammer stated on-record that the election of a Muslim mayor in New York City less than a quarter century after September 11, 2001 is significant, framing Mamdani's candidacy in those terms.",
+      "anchored_artifacts": [
+        "A-1341.1"
+      ],
+      "related_nodes": [
+        "N-42",
+        "N-340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:03–00:50:59",
+      "investigative_direction": "Verify the original Josh Hammer segment and identify the outlet."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1613",
+      "ref": "C-1613",
+      "label": "Host Rejects Josh Hammer Framing",
+      "claim": "The host publicly rejects Josh Hammer's framing, identifies herself as more fearful of Zionists than Muslims, and refuses the implied call to armed conflict.",
+      "anchored_artifacts": [
+        "A-1341.1"
+      ],
+      "related_nodes": [
+        "N-42",
+        "N-340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:00–00:52:10",
+      "investigative_direction": "N/A — host-stance claim linked to source artifact."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1614",
+      "ref": "C-1614",
+      "label": "CNN Exit Poll Jewish Vote Share",
+      "claim": "A CNN exit poll of approximately 4,700 respondents indicates Zohran Mamdani received approximately 32% of the Jewish vote in the NYC mayoral election.",
+      "anchored_artifacts": [
+        "A-1342.1"
+      ],
+      "related_nodes": [
+        "N-340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:20–00:15:05",
+      "investigative_direction": "Obtain the full CNN exit poll crosstabs and methodology to verify exact figures and sample composition."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1615",
+      "ref": "C-1615",
+      "label": "YouTube Channel First-Scheduled Post Selection",
+      "claim": "Upon resumption of scheduled uploads to his YouTube page following the memorial event, the first scheduled post featured Mikey McCoy (and his wife), with Erika Kirk's speech scheduled second.",
+      "anchored_artifacts": [
+        "A-1343.1"
+      ],
+      "related_nodes": [
+        "N-336",
+        "N-1000",
+        "N-1",
+        "N-1297"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:19–00:46:08",
+      "investigative_direction": "Independently verify YouTube scheduling metadata for the relevant timeframe."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1616",
+      "ref": "C-1616",
+      "label": "Host Allegation of Equipment Box and Absence of First Aid",
+      "claim": "The host alleges that Charlie Kirk was positioned on top of an equipment box/suitcase rather than flat on the ground after being lowered, that no first aid was visibly administered, and that Mikey McCoy's phone posture in footage is inconsistent with the official cover-his-ears narrative.",
+      "anchored_artifacts": [
+        "A-1344.1",
+        "A-1344.2"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-336",
+        "N-1295",
+        "N-1296"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00–00:00:01",
+      "investigative_direction": "Obtain and analyze the full UVU scene footage from multiple angles; locate any official first-aid or security-team accounts; verify equipment-box presence in pre-event setup imagery."
+    }
+  ],
+  "memes": []
+}

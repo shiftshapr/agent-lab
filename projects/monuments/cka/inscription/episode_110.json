@@ -1,0 +1,1360 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 110,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "4dbfcb2b5d8419ada71b8eeaa37232158deb146c1e17f4f75d308b3b4968a1d7",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2076",
+      "family_ref": "A-2076",
+      "bundle_name": "Episode 344 On-Screen Display Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2076.1",
+          "ref": "A-2076.1",
+          "description": "On-screen connection graphic: Bradley Hansel (Under Secretary of War for Intelligence and Security), Benjamin Netanyahu, Mitt Romney, Boston Consulting Group, Project Aurora, Gaza Humanitarian Foundation, Orbis, Tacit/Taclith Institute, Phil Riley",
+          "related_claims": [
+            "C-2911",
+            "C-2913",
+            "C-2923",
+            "C-2930",
+            "C-2931",
+            "C-2932",
+            "C-2933",
+            "C-2934"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208",
+            "N-1211",
+            "N-1213",
+            "N-1214",
+            "N-1218",
+            "N-2066",
+            "N-2067",
+            "N-2068"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:00–00:22:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2076.2",
+          "ref": "A-2076.2",
+          "description": "Host's internal working timeline graphic (displayed on-screen, June–September 2025)",
+          "related_claims": [
+            "C-2910",
+            "C-2921",
+            "C-2924",
+            "C-2928",
+            "C-2929",
+            "C-2930"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1210",
+            "N-1211",
+            "N-1215",
+            "N-1216",
+            "N-1217",
+            "N-1222",
+            "N-1223",
+            "N-42",
+            "N-2069",
+            "N-2070",
+            "N-2071",
+            "N-2072",
+            "N-2073"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:25:40–00:36:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2077",
+      "family_ref": "A-2077",
+      "bundle_name": "Financial Times Project Aurora Reporting Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2077.1",
+          "ref": "A-2077.1",
+          "description": "Website article read aloud by host summarizing Financial Times reporting on BCG Project Aurora",
+          "related_claims": [
+            "C-2914",
+            "C-2915",
+            "C-2916",
+            "C-2917",
+            "C-2918",
+            "C-2919",
+            "C-2920"
+          ],
+          "related_nodes": [
+            "N-1213",
+            "N-2067",
+            "N-2068"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:30–00:19:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2078",
+      "family_ref": "A-2078",
+      "bundle_name": "Times of Israel GHF Leadership Article",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2078.1",
+          "ref": "A-2078.1",
+          "description": "Times of Israel article (referenced/headline read): \"Gaza Humanitarian Foundation taps US Evangelical Leader Johnny Moore as the new chairman\"",
+          "related_claims": [
+            "C-2921",
+            "C-2922"
+          ],
+          "related_nodes": [
+            "N-1211",
+            "N-1212",
+            "N-2068"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:30–00:20:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2079",
+      "family_ref": "A-2079",
+      "bundle_name": "Department of War Hansel Biography Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2079.1",
+          "ref": "A-2079.1",
+          "description": "Department of War website text read aloud by host describing Bradley Hansel's role",
+          "related_claims": [
+            "C-2909",
+            "C-2910",
+            "C-2911",
+            "C-2912",
+            "C-2913"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208",
+            "N-2066"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:30–00:14:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2080",
+      "family_ref": "A-2080",
+      "bundle_name": "Palantir Fort Huachuca Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2080.1",
+          "ref": "A-2080.1",
+          "description": "Article (host references \"elsewhere\"): $10B Palantir military software enterprise deal and stationing at Fort Huachuca",
+          "related_claims": [
+            "C-2923"
+          ],
+          "related_nodes": [
+            "N-2069"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:00–00:34:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2081",
+      "family_ref": "A-2081",
+      "bundle_name": "New York Times Romney France Car Crash Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2081.1",
+          "ref": "A-2081.1",
+          "description": "NYT article: \"How a car crash in France deeply affected a US presidential hopeful\"",
+          "related_claims": [
+            "C-2925",
+            "C-2926"
+          ],
+          "related_nodes": [
+            "N-1219",
+            "N-1220",
+            "N-1221"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:15–00:39:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2082",
+      "family_ref": "A-2082",
+      "bundle_name": "Pierre Deleto Viewer Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2082.1",
+          "ref": "A-2082.1",
+          "description": "Viewer comment reminding host of Mitt Romney's \"Pierre Deleto\" burner X/Twitter account",
+          "related_claims": [
+            "C-2927"
+          ],
+          "related_nodes": [
+            "N-1219"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:40–00:47:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2083",
+      "family_ref": "A-2083",
+      "bundle_name": "Local News Nebraska–Egypt Trade Trip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2083.1",
+          "ref": "A-2083.1",
+          "description": "Local media article about Nebraska–Egypt trade and investment trip",
+          "related_claims": [],
+          "related_nodes": [
+            "N-2070"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:10–00:33:30",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2084",
+      "family_ref": "A-2084",
+      "bundle_name": "Local News TPUSA UVU Submission Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2084.1",
+          "ref": "A-2084.1",
+          "description": "Local news reference (per host): Turning Point USA submitted request for Charlie Kirk to speak at UVU on July 18",
+          "related_claims": [
+            "C-2929"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-2073"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:40–00:32:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Newly identified VIP aboard Air Force designation SAM702 on September 9, 2025; serves as Under Secretary of War for Intelligence and Security (sworn in July 25, 2025); previously served in Navy and Army Special Forces Airborne Division; worked at Boston Consulting Group; served as Special Assistant to President Trump on National Security Affairs in Trump's first term.",
+      "related_artifacts": [
+        "A-2076.1",
+        "A-2076.2",
+        "A-2079.1"
+      ],
+      "related_claims": [
+        "C-2909",
+        "C-2910",
+        "C-2911",
+        "C-2912",
+        "C-2913"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-2066",
+        "N-2069"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Secretary of War; Bradley Hansel's direct superior per DoW website description.",
+      "related_artifacts": [
+        "A-2079.1"
+      ],
+      "related_claims": [
+        "C-2909"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Referenced as person who allegedly was seen at Fort Huachuca on September 9, 2025 morning; host states he has been \"extremely reticent\" to confirm or deny his presence.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2069"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Person aboard Egyptian plane SUBTU/SUBTV; host reports he was in Provo on June 2, 2025 and later departed Wilmington on the day of Charlie Kirk's assassination.",
+      "related_artifacts": [
+        "A-2076.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2070"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "US Evangelical leader; appointed executive chairman of the Gaza Humanitarian Foundation per Times of Israel; previously part of the Cyrus Company duo with Andrew Kovac; abandoned the GHF chairmanship in November.",
+      "related_artifacts": [
+        "A-2076.1",
+        "A-2076.2",
+        "A-2078.1"
+      ],
+      "related_claims": [
+        "C-2921"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1212",
+        "N-2068"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Former CEO of Gaza Humanitarian Foundation; resigned prior to BCG withdrawal per Times of Israel article.",
+      "related_artifacts": [
+        "A-2078.1"
+      ],
+      "related_claims": [
+        "C-2922"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1211",
+        "N-2068"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "CEO of Boston Consulting Group; described Project Aurora episode as \"reputationally very damaging\" per Financial Times reporting.",
+      "related_artifacts": [
+        "A-2076.1",
+        "A-2077.1"
+      ],
+      "related_claims": [
+        "C-2920"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2066",
+        "N-2067"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Ex-CIA operative who worked for Orbis; per displayed graphic, BCG was chosen for Project Aurora due to \"long-standing relationship\" with Riley.",
+      "related_artifacts": [
+        "A-2076.1"
+      ],
+      "related_claims": [
+        "C-2934"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Per host, had no prior writing profile before publishing first article for Jezebel in June 2025; per host, her Etsy witchcraft activity targeting Charlie Kirk has not been investigated by the press.",
+      "related_artifacts": [
+        "A-2076.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Heads Turning Point USA faith department; pastor at Calvary Chapel Long Beach where Erika Kirk spoke on July 14, 2025.",
+      "related_artifacts": [
+        "A-2076.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Former lead pastor of Calvary Church; resigned July 2, 2025 and announced move to Arizona per host.",
+      "related_artifacts": [
+        "A-2076.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Per host: Israeli spy; father of Ghislaine Maxwell (host spells \"Elaine Maxwell\"); one of the seed investors in Bain Capital at founding per host.",
+      "related_artifacts": [
+        "A-2076.1"
+      ],
+      "related_claims": [
+        "C-2931"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Per NYT article, was the 46-year-old driver of the car that struck Romney; host notes name not specified on-air but is given in NYT text as Albert Marie.",
+      "related_artifacts": [
+        "A-2081.1"
+      ],
+      "related_claims": [
+        "C-2926"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1220"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "Killed in June 16, 1968 car crash in France; wife of H. Dwayne Anderson (Mormon mission president); passenger in vehicle driven by Mitt Romney.",
+      "related_artifacts": [
+        "A-2081.1"
+      ],
+      "related_claims": [
+        "C-2925"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1221"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1221",
+      "ref": "N-1221",
+      "name": "Autopsy Record – Utah Privacy Statute Application",
+      "type": "investigation_target",
+      "description": "President of the Mormon mission to France in 1968; husband of Leola Anderson (deceased).",
+      "related_artifacts": [
+        "A-2081.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1220"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1222",
+      "ref": "N-1222",
+      "name": "Hospital Routing Anomaly",
+      "type": "investigation_target",
+      "description": "Per host, new CEO of a flight training school connected to a Tucson–Fort Huachuca flight; linked to \"Rathon and North Brunman\" (Raytheon and Northrop Grumman) per host.",
+      "related_artifacts": [
+        "A-2076.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1223",
+      "ref": "N-1223",
+      "name": "TPUSA Faith Packet / Israel References Claim",
+      "type": "investigation_target",
+      "description": "Per host, source confirming Charlie Kirk's June 18 White House meeting date.",
+      "related_artifacts": [
+        "A-2076.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2072"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2066",
+      "ref": "N-2066",
+      "name": "Boston Consulting Group Government Pipeline",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: host asserts BCG employment overlaps with government appointments for Hansel, Romney, and (per host) Netanyahu; raises questions about consulting client identity (\"who are they consulting for?\").",
+      "related_artifacts": [
+        "A-2076.1",
+        "A-2077.1",
+        "A-2079.1"
+      ],
+      "related_claims": [
+        "C-2913",
+        "C-2930",
+        "C-2931"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1213",
+        "N-1218"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2067",
+      "ref": "N-2067",
+      "name": "Project Aurora Verification",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: BCG consulting contract with GHF; relocation models for Palestinians; total $2.5–5B; two dismissed partners; CEO statement.",
+      "related_artifacts": [
+        "A-2077.1"
+      ],
+      "related_claims": [
+        "C-2914",
+        "C-2915",
+        "C-2916",
+        "C-2917",
+        "C-2918",
+        "C-2919",
+        "C-2920"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1213"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2068",
+      "ref": "N-2068",
+      "name": "Gaza Humanitarian Foundation Leadership/Operational Pipeline",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: BCG built the foundation's logistics; Johnny Moore replaced Jake Wood as chairman after BCG withdrawal; foundation operates US/Israel-backed food distribution sites characterized by host as \"killing fields\"; Phil Riley / Orbis / Tacit Institute connection.",
+      "related_artifacts": [
+        "A-2076.1",
+        "A-2076.2",
+        "A-2077.1",
+        "A-2078.1"
+      ],
+      "related_claims": [
+        "C-2921",
+        "C-2922",
+        "C-2923",
+        "C-2932",
+        "C-2933",
+        "C-2934"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1211",
+        "N-1212",
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2069",
+      "ref": "N-2069",
+      "name": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: identity of VIPs aboard Air Force SAM702 departing Fort Huachuca for El Paso on morning of September 9, 2025; host names Bradley Hansel; Palantir $10B stationing; Brian Harpole alleged presence.",
+      "related_artifacts": [
+        "A-2076.2",
+        "A-2080.1"
+      ],
+      "related_claims": [
+        "C-2923"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1207",
+        "N-1209"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2070",
+      "ref": "N-2070",
+      "name": "Egyptian Military Aircraft Shuttle Pattern",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: recurring transponder-off patterns on Egyptian planes (e.g., SUBTU/SUBTV) shuttling from Cairo via Paris to US destinations, coinciding with Israeli military inflection points (October 7, 2023; Operation True Promise April 2024; June 2025 Provo appearance; Wilmington on assassination day).",
+      "related_artifacts": [
+        "A-2076.2",
+        "A-2083.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1210"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2071",
+      "ref": "N-2071",
+      "name": "Hamptons August 5–7 Intervention Event",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: per host, weekend intervention where Charlie Kirk was pressured regarding Israel; followed by Megan Kelly podcast appearance where Kirk expressed upset about being called anti-Semitic.",
+      "related_artifacts": [
+        "A-2076.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2072",
+      "ref": "N-2072",
+      "name": "June 18 White House Meeting on Iran Involvement",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: per host (confirmed by Brett Weinstein), Charlie Kirk entered White House to argue against US involvement in Israel's Iran war against Zionist lobbyists; emerged as temporary winner; Trump moved to limit involvement.",
+      "related_artifacts": [
+        "A-2076.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1223",
+        "N-42"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2073",
+      "ref": "N-2073",
+      "name": "Turning Point UVU Event Submission Chain",
+      "type": "investigation_target",
+      "description": "Persistent investigation target: July 18, 2025 TPUSA submission for Charlie Kirk UVU event; host asserts this is unusually late in the tour cycle and has not been independently confirmed; submitting student requestor unknown.",
+      "related_artifacts": [
+        "A-2084.1"
+      ],
+      "related_claims": [
+        "C-2929"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2909",
+      "ref": "C-2909",
+      "label": "Bradley Hansel serves as Under Secretary of War for Intelligence and Security",
+      "claim": "Per the Department of War website, Bradley Hansel exercises authority, direction, and control over all intelligence and security organizations in the Department of War on behalf of the Secretary of War.",
+      "anchored_artifacts": [
+        "A-2079.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-2066"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:30",
+      "investigative_direction": "Verify the Department of War website listing for Bradley Hansel; cross-check Senate confirmation record and July 25, 2025 swearing-in."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2910",
+      "ref": "C-2910",
+      "label": "Bradley Hansel was sworn in on July 25, 2025",
+      "claim": "Per host, Hansel was nominated by Trump and confirmed by the Senate, then sworn in on July 25, 2025.",
+      "anchored_artifacts": [
+        "A-2076.2",
+        "A-2079.1"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:30",
+      "investigative_direction": "Verify Senate roll-call vote and swearing-in date via official Senate records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2911",
+      "ref": "C-2911",
+      "label": "Bradley Hansel served in Navy and Army Special Forces Airborne Division",
+      "claim": "Per host, after serving in the Navy and Army Special Forces Airborne Division, Hansel went to work for the Boston Consulting Group.",
+      "anchored_artifacts": [
+        "A-2079.1"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:45",
+      "investigative_direction": "Verify service record via official DoD / Army Special Forces sources."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2912",
+      "ref": "C-2912",
+      "label": "Bradley Hansel served as Special Assistant to President Trump for National Security Affairs",
+      "claim": "Per host, Hansel was picked to work under Trump's first administration as a member of the National Security Council as Special Assistant to President Donald J. Trump for National Security Affairs.",
+      "anchored_artifacts": [
+        "A-2079.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2066"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:00",
+      "investigative_direction": "Verify NSC roster for Trump's first term."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2913",
+      "ref": "C-2913",
+      "label": "Bradley Hansel worked at the Boston Consulting Group",
+      "claim": "Per host, Hansel worked at the Boston Consulting Group both after his military service and after Trump's first term (returning as a principal of the firm).",
+      "anchored_artifacts": [
+        "A-2076.1",
+        "A-2079.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-2066"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:10",
+      "investigative_direction": "Verify BCG alumni records and LinkedIn-style biographies."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2914",
+      "ref": "C-2914",
+      "label": "Project Aurora launched in late 2024 as a pro bono feasibility study for the Gaza Humanitarian Foundation",
+      "claim": "Per the Financial Times reporting summarized on a website read by the host, Project Aurora was launched in late 2024 and was originally framed as a pro bono feasibility study for the Geneva-registered Gaza Humanitarian Foundation.",
+      "anchored_artifacts": [
+        "A-2077.1"
+      ],
+      "related_nodes": [
+        "N-2067",
+        "N-2068"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:40",
+      "investigative_direction": "Retrieve original Financial Times article and Project Aurora documents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2915",
+      "ref": "C-2915",
+      "label": "Project Aurora evolved into a $4M consulting contract",
+      "claim": "Per the website read by the host, Project Aurora evolved over 7 months into a fully-built consulting contract reportedly worth $4 million.",
+      "anchored_artifacts": [
+        "A-2077.1"
+      ],
+      "related_nodes": [
+        "N-2067"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:40",
+      "investigative_direction": "Confirm $4M figure against leaked internal documents referenced by Financial Times."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2916",
+      "ref": "C-2916",
+      "label": "Project Aurora proposed a $9,000-per-person voluntary departure for ~500,000 Palestinians",
+      "claim": "Per host reading, one Project Aurora model proposed $9,000 in cash per person aimed at relocating around 500,000 Palestinians outside the Gaza Strip.",
+      "anchored_artifacts": [
+        "A-2077.1"
+      ],
+      "related_nodes": [
+        "N-2067"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:50",
+      "investigative_direction": "Verify model parameters against FT-published leaked documents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2917",
+      "ref": "C-2917",
+      "label": "Project Aurora alternative model proposed $5,000 plus four years subsidized housing and one year food assistance",
+      "claim": "Per host reading, a second Project Aurora model lowered direct payments to $5,000 and added four years of subsidized housing and one year of food assistance.",
+      "anchored_artifacts": [
+        "A-2077.1"
+      ],
+      "related_nodes": [
+        "N-2067"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:00",
+      "investigative_direction": "Verify model parameters against FT-published leaked documents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2918",
+      "ref": "C-2918",
+      "label": "Project Aurora total cost estimates ranged from $2.5 billion to $5 billion",
+      "claim": "Per host reading, total Project Aurora costs ranged from $2.5 to $5 billion.",
+      "anchored_artifacts": [
+        "A-2077.1"
+      ],
+      "related_nodes": [
+        "N-2067"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:10",
+      "investigative_direction": "Verify cost ranges against FT-published leaked documents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2919",
+      "ref": "C-2919",
+      "label": "BCG dismissed two senior partners in July 2025 after the Financial Times story",
+      "claim": "Per host reading, BCG dismissed two partners and launched an external audit in July 2025 after the Financial Times story.",
+      "anchored_artifacts": [
+        "A-2077.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-2067"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:30",
+      "investigative_direction": "Confirm dismissals and audit via BCG press releases or FT follow-up reporting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2920",
+      "ref": "C-2920",
+      "label": "Kristoff Schweizer (BCG CEO) described Project Aurora as \"reputationally very damaging\"",
+      "claim": "Per host reading, BCG CEO Kristoff Schweizer described the Project Aurora episode as \"reputationally very damaging.\"",
+      "anchored_artifacts": [
+        "A-2077.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-2067"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:30",
+      "investigative_direction": "Locate Schweizer's original statement in Financial Times coverage."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2921",
+      "ref": "C-2921",
+      "label": "Johnny Moore was appointed executive chairman of the Gaza Humanitarian Foundation",
+      "claim": "Per Times of Israel article referenced by host, Johnny Moore was appointed executive chairman of the Gaza Humanitarian Foundation after Jake Wood's resignation and BCG's withdrawal.",
+      "anchored_artifacts": [
+        "A-2076.2",
+        "A-2078.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1212",
+        "N-2068"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:00",
+      "investigative_direction": "Verify appointment date and tenure length (host states Moore \"eventually abandoned the project November\")."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2922",
+      "ref": "C-2922",
+      "label": "Jake Wood resigned as CEO of the Gaza Humanitarian Foundation prior to BCG's withdrawal",
+      "claim": "Per Times of Israel article referenced by host, GHF's previous CEO Jake Wood quit prior to BCG's withdrawal from the project.",
+      "anchored_artifacts": [
+        "A-2078.1"
+      ],
+      "related_nodes": [
+        "N-1211",
+        "N-1212",
+        "N-2068"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:00",
+      "investigative_direction": "Verify Jake Wood's resignation date and public statement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2923",
+      "ref": "C-2923",
+      "label": "BCG developed logistics, organizational structure, and security contractor pricing for the Gaza Humanitarian Foundation",
+      "claim": "Per host, BCG helped develop the logistics, the organizational structure, and the pricing for paying and equipping private security contractors to operate the food distribution hubs in Gaza for the GHF.",
+      "anchored_artifacts": [
+        "A-2076.1",
+        "A-2077.1"
+      ],
+      "related_nodes": [
+        "N-2068"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:30",
+      "investigative_direction": "Verify BCG-GHF operational scope via FT reporting or leaked BCG documents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2924",
+      "ref": "C-2924",
+      "label": "Palantir announced a $10 billion military software deal including stationing at Fort Huachuca",
+      "claim": "Per host-cited article, Palantir announced a $10 billion enterprise software deal with the military and will be stationed at Fort Huachuca.",
+      "anchored_artifacts": [
+        "A-2080.1"
+      ],
+      "related_nodes": [
+        "N-2069"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:20",
+      "investigative_direction": "Identify primary outlet (host references \"elsewhere\"); confirm Fort Huachuca stationing date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2925",
+      "ref": "C-2925",
+      "label": "Mitt Romney was the driver in a June 16, 1968 France car crash that killed Leola Anderson",
+      "claim": "Per NYT article, on June 16, 1968, Mitt Romney was driving a car in southern France that was hit head-on; H. Dwayne Anderson's wife Leola was killed.",
+      "anchored_artifacts": [
+        "A-2081.1"
+      ],
+      "related_nodes": [
+        "N-1219",
+        "N-1220",
+        "N-1221"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:50",
+      "investigative_direction": "Cross-check NYT article with contemporaneous French press; verify date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2926",
+      "ref": "C-2926",
+      "label": "Albert Marie, a 46-year-old Catholic priest, was the driver of the other vehicle in the 1968 crash",
+      "claim": "Per NYT article, the driver of the car that struck Romney's was a 46-year-old man, Albert Marie, a Catholic priest.",
+      "anchored_artifacts": [
+        "A-2081.1"
+      ],
+      "related_nodes": [
+        "N-1219",
+        "N-1220"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:00",
+      "investigative_direction": "Cross-check name and role against French archival records; note host's claim that some Mormons believe the priest may have been inebriated but \"that assertion could not be confirmed.\""
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2927",
+      "ref": "C-2927",
+      "label": "Mitt Romney operated a \"Pierre Deleto\" burner X/Twitter account",
+      "claim": "Per viewer comment read on-air and host concurrence, Mitt Romney operated a burner X account under the French name Pierre Deleto.",
+      "anchored_artifacts": [
+        "A-2082.1"
+      ],
+      "related_nodes": [
+        "N-1219"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:50",
+      "investigative_direction": "Locate the @PierreDeleto account or its archived screenshots; cross-reference with prior reporting on Romney's French-language social media activity."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2928",
+      "ref": "C-2928",
+      "label": "Erika Kirk deleted 126 Instagram posts on June 19, 2025",
+      "claim": "Per host's displayed working timeline, on June 19 — the second day Charlie Kirk was at the White House arguing against Iran involvement — Erika Kirk purged her Instagram, deleting 126 posts.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-2072"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:30",
+      "investigative_direction": "Obtain archived screenshots of Erika Kirk's Instagram account as of June 18–19, 2025."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2929",
+      "ref": "C-2929",
+      "label": "Turning Point USA submitted a request for Charlie Kirk to speak at UVU on July 18, 2025",
+      "claim": "Per local news in Utah cited by host, Turning Point USA submitted on July 18, 2025 for Charlie Kirk to do his event at Utah Valley; host states she has been unable to independently confirm.",
+      "anchored_artifacts": [
+        "A-2084.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-2073"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:50",
+      "investigative_direction": "Obtain the actual UVU event submission paperwork; identify the requesting student organization."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2930",
+      "ref": "C-2930",
+      "label": "Mitt Romney and Benjamin Netanyahu both worked at the Boston Consulting Group",
+      "claim": "Per host (recapping prior episodes) and per the on-screen connection graphic, Mitt Romney and Benjamin Netanyahu both worked at the Boston Consulting Group.",
+      "anchored_artifacts": [
+        "A-2076.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1218",
+        "N-2066"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:30",
+      "investigative_direction": "Verify BCG employment for both Romney and Netanyahu via BCG alumni directories or independent reporting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2931",
+      "ref": "C-2931",
+      "label": "Bain Capital was founded by Mitt Romney with Robert Maxwell as a seed investor",
+      "claim": "Per host (recapping prior episodes), Mitt Romney founded Bain Capital with Israeli spy Robert Maxwell (father of Ghislaine Maxwell, host spelling) as one of his seed investors.",
+      "anchored_artifacts": [
+        "A-2076.1"
+      ],
+      "related_nodes": [
+        "N-1218",
+        "N-2066"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:30",
+      "investigative_direction": "Verify Bain Capital founding investors list; cross-check Robert Maxwell investment history."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2932",
+      "ref": "C-2932",
+      "label": "Orbis (Washington-area security contractor) initially engaged BCG on Project Aurora",
+      "claim": "Per the displayed on-screen graphic and host description, Orbis — a Washington-area security contractor — initially engaged BCG to help with a feasibility study for a new aid project.",
+      "anchored_artifacts": [
+        "A-2076.1"
+      ],
+      "related_nodes": [
+        "N-2068"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:00",
+      "investigative_direction": "Verify Orbis involvement via FT reporting or leaked BCG documents."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2933",
+      "ref": "C-2933",
+      "label": "Orbis prepared the Project Aurora study on behalf of the Tacit/Taclith Institute (Israeli think tank)",
+      "claim": "Per the displayed on-screen graphic and host description, Orbis was prepping the study on behalf of the Tacit/Taclith Institute, an Israeli think tank.",
+      "anchored_artifacts": [
+        "A-2076.1"
+      ],
+      "related_nodes": [
+        "N-2068"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:00",
+      "investigative_direction": "Verify the existence and nature of the Tacit/Taclith Institute; flag uncertain spelling."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2934",
+      "ref": "C-2934",
+      "label": "BCG was selected for Project Aurora due to its long-standing relationship with Phil Riley, ex-CIA operative at Orbis",
+      "claim": "Per the displayed on-screen graphic and host description, BCG was chosen as Project Aurora consultant because of its long-standing relationship with Phil Riley, an ex-CIA operative who worked for Orbis.",
+      "anchored_artifacts": [
+        "A-2076.1"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-2068"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:00",
+      "investigative_direction": "Verify Phil Riley's CIA and Orbis employment; cross-check BCG-Riley relationship in FT reporting."
+    }
+  ],
+  "memes": []
+}

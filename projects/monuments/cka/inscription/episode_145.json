@@ -1,0 +1,1061 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 145,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "23bb408e2b2afb32cf5df1e5348b130e6dfd95e02867b817907272ad2bf41bed",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2310",
+      "family_ref": "A-2310",
+      "bundle_name": "Iceland Airport Encounter Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2310.1",
+          "ref": "A-2310.1",
+          "description": "Photograph of the host with Justin Baldoni, his wife, and two children at an Iceland airport",
+          "related_claims": [
+            "C-3328",
+            "C-3329"
+          ],
+          "related_nodes": [
+            "N-1209"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:27",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2311",
+      "family_ref": "A-2311",
+      "bundle_name": "John & Arina Mappin Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2311.1",
+          "ref": "A-2311.1",
+          "description": "\"Candace Owens, Charlie Kirk, and the Pursuit of Truth\" — October 6, 2025 article by John and Arina Mappin; host read aloud extended excerpt",
+          "related_claims": [
+            "C-3326",
+            "C-3327"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1208",
+            "N-1",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:38–00:08:27",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2312",
+      "family_ref": "A-2312",
+      "bundle_name": "NCRI Report Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2312.1",
+          "ref": "A-2312.1",
+          "description": "NCRI (Network Contagion Research Institute) report titled \"Permission to Kill\" characterizing the host as a \"digital assassin\"; verbally referenced by host",
+          "related_claims": [
+            "C-3330",
+            "C-3331",
+            "C-3332"
+          ],
+          "related_nodes": [
+            "N-2214"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:26",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2313",
+      "family_ref": "A-2313",
+      "bundle_name": "Data Republican X Thread Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2313.1",
+          "ref": "A-2313.1",
+          "description": "X thread by Jenica Pounds (@DataRepublican) alleging the host creates a \"permission structure\" for violence against Erika Kirk; shown on screen",
+          "related_claims": [
+            "C-3333",
+            "C-3334",
+            "C-3335"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-1213"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:30:13–00:31:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2314",
+      "family_ref": "A-2314",
+      "bundle_name": "Jenica Pounds SGE Admission Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2314.1",
+          "ref": "A-2314.1",
+          "description": "X post by Jenica Pounds stating \"I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way\"; host read aloud",
+          "related_claims": [
+            "C-3336",
+            "C-3337"
+          ],
+          "related_nodes": [
+            "N-1210",
+            "N-2213"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:34:07–00:34:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2315",
+      "family_ref": "A-2315",
+      "bundle_name": "Blake Neff Sarah Rogers Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2315.1",
+          "ref": "A-2315.1",
+          "description": "X post by Blake Neff reading \"My friend Sarah Rogers is one of Charlie's favorite Trump nominees. She was finally confirmed a week ago and sworn in last Friday as the Under Secretary for Public Diplomacy at the State Department\"; host read aloud",
+          "related_claims": [
+            "C-3338",
+            "C-3339"
+          ],
+          "related_nodes": [
+            "N-1211",
+            "N-1212",
+            "N-2213"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2316",
+      "family_ref": "A-2316",
+      "bundle_name": "Bill Ackman Data Republican Promotion Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2316.1",
+          "ref": "A-2316.1",
+          "description": "Bill Ackman X post promoting Data Republican content: \"An important read on Charlie Kirk and Candace Owens\"; verbally referenced by host",
+          "related_claims": [
+            "C-3335"
+          ],
+          "related_nodes": [
+            "N-1213",
+            "N-2213"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2317",
+      "family_ref": "A-2317",
+      "bundle_name": "Andrew Kolvet Data Republican Endorsement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2317.1",
+          "ref": "A-2317.1",
+          "description": "X post by Andrew Kolvet reading \"Thank you, Data Republican for doing this. This thread exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika\"; host read aloud",
+          "related_claims": [
+            "C-3334"
+          ],
+          "related_nodes": [
+            "N-2213"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2318",
+      "family_ref": "A-2318",
+      "bundle_name": "TPUSA Tour Announcement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2318.1",
+          "ref": "A-2318.1",
+          "description": "Turning Point USA public announcement of \"Love It or Leave It\" tour featuring Daily Wire personalities (Michael Knowles, Brandon Tatum, Alex Clark, Ben Shapiro, Matt \"Nuclear\"); verbally referenced by host",
+          "related_claims": [
+            "C-3341"
+          ],
+          "related_nodes": [
+            "N-1218",
+            "N-1219",
+            "N-1220"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2319",
+      "family_ref": "A-2319",
+      "bundle_name": "Lively v. Baldoni CCRD Filing Excerpt Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2319.1",
+          "ref": "A-2319.1",
+          "description": "Excerpt from the California Civil Rights Department (CCRD) complaint filing in Lively v. Baldoni, reading \"To add insult to injury, Mr. Heath approached Ms. Lively and her assistant on set and started playing a video of a fully nude woman with her legs spread apart. Ms. Lively thought that he was showing her pornography and stopped him\"; host read aloud",
+          "related_claims": [
+            "C-3342",
+            "C-3343"
+          ],
+          "related_nodes": [
+            "N-1214",
+            "N-1217"
+          ],
+          "tags": [],
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:34–00:18:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Co-author with Arina Mappin of the October 6, 2025 article \"Candace Owens, Charlie Kirk, and the Pursuit of Truth\"; described by host as longtime Charlie Kirk associate who helped launch Turning Point USA financially.",
+      "related_artifacts": [
+        "A-2311.1"
+      ],
+      "related_claims": [
+        "C-3326",
+        "C-3327"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Co-author with John Mappin of the October 6, 2025 article; described by host as having provided direct personal support during the year following Charlie Kirk's assassination.",
+      "related_artifacts": [
+        "A-2311.1"
+      ],
+      "related_claims": [
+        "C-3326",
+        "C-3327"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Filmmaker and Wayfarer Studios principal; subject of Lively v. Baldoni litigation; encountered by host at Iceland airport on layover from Sweden. Host describes him as a \"long-lost cousin.\"",
+      "related_artifacts": [
+        "A-2310.1"
+      ],
+      "related_claims": [
+        "C-3328",
+        "C-3329"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1214",
+        "N-1217"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "X commentator (@DataRepublican); Utah-based software engineer; publicly admitted Special Government Employee status at the Department of War since July 2025; produced X thread alleging host creates permission structure for violence against Erika Kirk.",
+      "related_artifacts": [
+        "A-2313.1",
+        "A-2314.1"
+      ],
+      "related_claims": [
+        "C-3333",
+        "C-3336",
+        "C-3337",
+        "C-3340"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1211",
+        "N-2213"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Confirmed and sworn in as Under Secretary for Public Diplomacy at the U.S. State Department; publicly described by Blake Neff as \"one of Charlie's favorite Trump nominees\"; alleged by host to have leaked information to Jenica Pounds.",
+      "related_artifacts": [
+        "A-2315.1"
+      ],
+      "related_claims": [
+        "C-3338",
+        "C-3339",
+        "C-3340"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1210",
+        "N-1212",
+        "N-2213"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Turning Point USA communications figure; publicly described Sarah Rogers as a personal friend and Trump nominee; publicly thanked Data Republican and endorsed her thread accusing the host of creating a \"permission structure\" for violence against Erika Kirk.",
+      "related_artifacts": [
+        "A-2315.1",
+        "A-2317.1"
+      ],
+      "related_claims": [
+        "C-3334",
+        "C-3338"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1211",
+        "N-2213"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Financier; publicly promoted Data Republican's content regarding Charlie Kirk and the host; flagged by host as a recurring figure in the Charlie Kirk assassination discourse.",
+      "related_artifacts": [
+        "A-2316.1"
+      ],
+      "related_claims": [
+        "C-3335"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2213"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Actor; plaintiff in Lively v. Baldoni CCRD complaint; subject of multiple host allegations regarding conduct toward Baldoni and his team.",
+      "related_artifacts": [
+        "A-2319.1"
+      ],
+      "related_claims": [
+        "C-3342",
+        "C-3343"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1209",
+        "N-1215",
+        "N-1216",
+        "N-1217"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1215",
+      "ref": "N-1215",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Actor; husband of Blake Lively; alleged by host to have reshot Deadpool scenes to include the \"Nicepool\" character visually killing a character representing Justin Baldoni.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1214",
+        "N-1209"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1216",
+      "ref": "N-1216",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Entertainer; alleged by host to be one of Blake Lively's \"dragons\" referenced in Lively's alleged statement \"I'm Khaleesi. I have a few dragons.\"",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Wayfarer Studios partner (Justin Baldoni's business partner); subject of CCRD filing allegations regarding on-set video incident.",
+      "related_artifacts": [
+        "A-2319.1"
+      ],
+      "related_claims": [
+        "C-3342",
+        "C-3343"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1209",
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1218",
+      "ref": "N-1218",
+      "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+      "type": "investigation_target",
+      "description": "Daily Wire personality referenced by host as \"Matt Nuclear\"; described as newly hired and slated for TPUSA \"Love It or Leave It\" tour.",
+      "related_artifacts": [
+        "A-2318.1"
+      ],
+      "related_claims": [
+        "C-3341"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1219",
+      "ref": "N-1219",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Daily Wire personality; announced by TPUSA as participant in \"Love It or Leave It\" tour; criticized by host for prior public denial of friendship with Charlie Kirk.",
+      "related_artifacts": [
+        "A-2318.1"
+      ],
+      "related_claims": [
+        "C-3341"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1220",
+      "ref": "N-1220",
+      "name": "Case-Personnel Cluster Anomalies",
+      "type": "investigation_target",
+      "description": "Commentator; announced by TPUSA as participant in \"Love It or Leave It\" tour.",
+      "related_artifacts": [
+        "A-2318.1"
+      ],
+      "related_claims": [
+        "C-3341"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2213",
+      "ref": "N-2213",
+      "name": "Pentagon–State Department–TPUSA Coordinated Messaging Operation",
+      "type": "investigation_target",
+      "description": "Persistent thesis, anchored across multiple artifacts in this episode, asserting that the Department of War, the State Department (via Under Secretary Sarah Rogers), Turning Point USA allies (Blake Neff, Andrew Kolvet), and financier Bill Ackman are jointly executing a messaging operation against the host's investigation into the Charlie Kirk assassination.",
+      "related_artifacts": [
+        "A-2313.1",
+        "A-2314.1",
+        "A-2315.1",
+        "A-2316.1",
+        "A-2317.1"
+      ],
+      "related_claims": [
+        "C-3334",
+        "C-3335",
+        "C-3336",
+        "C-3340",
+        "C-3344"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1210",
+        "N-1211",
+        "N-1212",
+        "N-1213"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2214",
+      "ref": "N-2214",
+      "name": "NCRI Report Provenance and Authorship",
+      "type": "investigation_target",
+      "description": "Persistent question regarding the authorship, funding, and institutional backing of the NCRI \"Permission to Kill\" report; host asserts it was authored by Kairos company, the former PR firm of Andrew Kolvet.",
+      "related_artifacts": [
+        "A-2312.1"
+      ],
+      "related_claims": [
+        "C-3330",
+        "C-3331",
+        "C-3332"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2215",
+      "ref": "N-2215",
+      "name": "Charlie Kirk September 9, 2025 Text Messages",
+      "type": "investigation_target",
+      "description": "Host asserts (without artifact) that Charlie Kirk texted multiple people on September 9, 2025 stating he wanted the host back in his life. No artifact shown in this episode; requires independent verification.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3326",
+      "ref": "C-3326",
+      "label": "Mappin Article Characterizes Charlie Kirk's Death as Politically Consequential Assassination",
+      "claim": "The Mappins' October 6, 2025 article describes Charlie Kirk's death as \"an assassination with potentially far-reaching political consequences for America and the world,\" asserts the crime scene was \"completely destroyed in days,\" and states that any conviction reached while doubt remains would be \"anathema to all the teachings of Christ.\"",
+      "anchored_artifacts": [
+        "A-2311.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-1",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:38",
+      "investigative_direction": "Obtain the full October 6, 2025 article from its original publication venue; verify the quoted passages against the source."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3327",
+      "ref": "C-3327",
+      "label": "Host Concurs with Mappin Article's Characterization",
+      "claim": "The host concurs with the Mappin article's framing of the situation, calling it \"so powerful to reflect on\" and endorsing its description of a \"black propaganda campaign.\"",
+      "anchored_artifacts": [
+        "A-2311.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1208",
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:27",
+      "investigative_direction": "Compare the host's subsequent public statements to the Mappin article's framework for consistency."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3328",
+      "ref": "C-3328",
+      "label": "Host Encountered Justin Baldoni at Iceland Airport",
+      "claim": "The host encountered Justin Baldoni, his wife, and two children at an Iceland airport during a layover from Sweden; the encounter is documented by an on-screen photograph.",
+      "anchored_artifacts": [
+        "A-2310.1"
+      ],
+      "related_nodes": [
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:27",
+      "investigative_direction": "Independent corroboration of the encounter is achievable via flight manifests or third-party witnesses."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3329",
+      "ref": "C-3329",
+      "label": "Justin Baldoni Was on Layover from Sweden During Encounter",
+      "claim": "Justin Baldoni informed the host he was on a layover from Sweden, where his wife is from, when the encounter occurred.",
+      "anchored_artifacts": [
+        "A-2310.1"
+      ],
+      "related_nodes": [
+        "N-1209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:29",
+      "investigative_direction": "Verify via flight records or independent statements from Baldoni or his representatives."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3330",
+      "ref": "C-3330",
+      "label": "NCRI Report Titled \"Permission to Kill\" Characterized Host as \"Digital Assassin\"",
+      "claim": "An NCRI-issued report titled \"Permission to Kill\" characterized the host as a \"digital assassin\" and described her investigation as creating a risk to Erika Kirk's safety.",
+      "anchored_artifacts": [
+        "A-2312.1"
+      ],
+      "related_nodes": [
+        "N-2214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:26",
+      "investigative_direction": "Obtain the full NCRI report; verify authorship, publication date, and exact wording."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3331",
+      "ref": "C-3331",
+      "label": "NCRI Report Authored by Kairos Company, Andrew Kolvet's Former PR Firm",
+      "claim": "The NCRI report was led by Kairos company, which the host identifies as the former PR firm of Andrew Kolvet (TPUSA).",
+      "anchored_artifacts": [
+        "A-2312.1"
+      ],
+      "related_nodes": [
+        "N-2214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:26",
+      "investigative_direction": "Verify Kairos company's involvement in NCRI; verify Kolvet's prior or current relationship with Kairos."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3332",
+      "ref": "C-3332",
+      "label": "NCRI Report Released During Week of Tyler Robinson Preliminary Hearing",
+      "claim": "The NCRI report was released on the first day of Tyler Robinson's preliminary hearing.",
+      "anchored_artifacts": [
+        "A-2312.1"
+      ],
+      "related_nodes": [
+        "N-2214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:26",
+      "investigative_direction": "Compare the NCRI report publication date to the court docket for the Robinson preliminary hearing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3333",
+      "ref": "C-3333",
+      "label": "Data Republican Posted X Thread Alleging Host Creates Permission Structure for Violence Against Erika Kirk",
+      "claim": "Jenica Pounds (@DataRepublican) posted an X thread asserting that the host and her audience constitute a \"permission structure\" for someone to \"try and kill Erika.\"",
+      "anchored_artifacts": [
+        "A-2313.1"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-2",
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:13",
+      "investigative_direction": "Retrieve the full X thread directly from the platform; verify quoted content and amplification chain."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3334",
+      "ref": "C-3334",
+      "label": "Andrew Kolvet Publicly Endorsed Data Republican's Allegations Against Host",
+      "claim": "Andrew Kolvet publicly thanked Data Republican and stated her thread \"exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika.\"",
+      "anchored_artifacts": [
+        "A-2317.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-2213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:33",
+      "investigative_direction": "Retrieve the original Kolvet post; verify timestamp and current status (deleted vs. live)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3335",
+      "ref": "C-3335",
+      "label": "Bill Ackman Promoted Data Republican's Content",
+      "claim": "Bill Ackman publicly promoted Data Republican's content about Charlie Kirk and the host on X.",
+      "anchored_artifacts": [
+        "A-2316.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-2213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:33",
+      "investigative_direction": "Retrieve the specific Bill Ackman post; verify date and quoted text."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3336",
+      "ref": "C-3336",
+      "label": "Jenica Pounds Admitted Working as Special Government Employee for Department of War Since July",
+      "claim": "Jenica Pounds publicly stated \"I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way.\"",
+      "anchored_artifacts": [
+        "A-2314.1"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-2213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:07",
+      "investigative_direction": "Retrieve the original X post; cross-reference against Department of Defense / Department of War SGE disclosures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3337",
+      "ref": "C-3337",
+      "label": "Jenica Pounds' Pentagon Press Credentials Expired in June",
+      "claim": "Jenica Pounds stated that her Pentagon press credentials expired in June and that she did not seek renewal, as she was working as an SGE rather than as press.",
+      "anchored_artifacts": [
+        "A-2314.1"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-2213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:53",
+      "investigative_direction": "Retrieve the full quoted X post; verify against Pentagon press credential records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3338",
+      "ref": "C-3338",
+      "label": "Blake Neff Publicly Described Sarah Rogers as \"One of Charlie's Favorite Trump Nominees\"",
+      "claim": "Blake Neff posted on X that \"My friend Sarah Rogers is one of Charlie's favorite Trump nominees\" and confirmed her swearing in as Under Secretary for Public Diplomacy.",
+      "anchored_artifacts": [
+        "A-2315.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:25",
+      "investigative_direction": "Retrieve the Blake Neff post directly; verify quoted text."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3339",
+      "ref": "C-3339",
+      "label": "Sarah Rogers Confirmed and Sworn In as Under Secretary for Public Diplomacy",
+      "claim": "Sarah Rogers was confirmed a week prior to the post and sworn in the prior Friday as Under Secretary for Public Diplomacy at the U.S. State Department.",
+      "anchored_artifacts": [
+        "A-2315.1"
+      ],
+      "related_nodes": [
+        "N-1211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:25",
+      "investigative_direction": "Cross-reference Senate confirmation records and State Department announcement archives."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3340",
+      "ref": "C-3340",
+      "label": "Sarah Rogers Allegedly Leaked Information to Jenica Pounds",
+      "claim": "Jenica Pounds publicly revealed that Sarah Rogers was leaking information to her, after which Pounds grew paranoid about being set up; host asserts this disclosure itself constitutes evidence of the leak.",
+      "anchored_artifacts": [
+        "A-2314.1"
+      ],
+      "related_nodes": [
+        "N-1210",
+        "N-1211",
+        "N-2213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:35",
+      "investigative_direction": "Retrieve the original Data Republican post in which the leak disclosure occurred; request comment from Sarah Rogers or the State Department."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3341",
+      "ref": "C-3341",
+      "label": "TPUSA Announced \"Love It or Leave It\" Tour Featuring Daily Wire Personalities",
+      "claim": "Turning Point USA announced a tour titled \"Love It or Leave It\" featuring Michael Knowles, Brandon Tatum, Alex Clark, Ben Shapiro, and a Daily Wire personality referenced as \"Matt Nuclear.\"",
+      "anchored_artifacts": [
+        "A-2318.1"
+      ],
+      "related_nodes": [
+        "N-1218",
+        "N-1219",
+        "N-1220"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:33",
+      "investigative_direction": "Retrieve TPUSA's official tour announcement; verify lineup and dates."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3342",
+      "ref": "C-3342",
+      "label": "Lively CCRD Filing Accused Jamie Heath of Showing Pornography on Set",
+      "claim": "The CCRD complaint filed by Blake Lively included the allegation that Jamie Heath approached Lively on set and began playing a video of a \"fully nude woman with her legs spread apart,\" which Lively interpreted as pornography.",
+      "anchored_artifacts": [
+        "A-2319.1"
+      ],
+      "related_nodes": [
+        "N-1214",
+        "N-1217"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:34",
+      "investigative_direction": "Obtain the full CCRD filing; verify the quoted passage in original context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3343",
+      "ref": "C-3343",
+      "label": "Filing Later Clarified the Video Was a Birthing Video",
+      "claim": "Host asserts that further into the same filing, the video in question was identified as a birthing video shown to Lively to prepare her for a birthing scene.",
+      "anchored_artifacts": [
+        "A-2319.1"
+      ],
+      "related_nodes": [
+        "N-1217",
+        "N-1214"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:34",
+      "investigative_direction": "Verify by reading the full CCRD filing; compare to subsequent court filings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3344",
+      "ref": "C-3344",
+      "label": "Host Asserts Coordinated Propaganda Operation Across State Department, Department of War, TPUSA Allies, and Bill Ackman",
+      "claim": "The host asserts that the State Department (Sarah Rogers), the Department of War (Jenica Pounds), Turning Point USA allies (Blake Neff, Andrew Kolvet), and Bill Ackman are jointly conducting a propaganda operation against her investigation into the Charlie Kirk assassination.",
+      "anchored_artifacts": [
+        "A-2313.1",
+        "A-2314.1",
+        "A-2315.1",
+        "A-2316.1",
+        "A-2317.1"
+      ],
+      "related_nodes": [
+        "N-2213",
+        "N-1210",
+        "N-1211",
+        "N-1212",
+        "N-1213"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:45",
+      "investigative_direction": "Independently verify each component of the coordination claim; obtain responses from named individuals or their representatives; review FOIA disclosures for SGE activity at the Department of War."
+    }
+  ],
+  "memes": []
+}

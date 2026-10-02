@@ -1,0 +1,1161 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 65,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "6ce4e769b4497ca6b87095c77c991401a54f9ef0556891c273b7e28ec46bef36",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1690",
+      "family_ref": "A-1690",
+      "bundle_name": "Piers Morgan Show Clip Bundle (Bassem Youssef appearance)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1690.1",
+          "ref": "A-1690.1",
+          "description": "Bassem Youssef Piers Morgan Appearance with Casualty Chart",
+          "related_claims": [
+            "C-2225",
+            "C-2230"
+          ],
+          "related_nodes": [
+            "N-798",
+            "N-1524"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:21–00:45:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1691",
+      "family_ref": "A-1691",
+      "bundle_name": "Bassem Youssef Show Opening Clip — Anti-Semite of the Year Segment",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1691.1",
+          "ref": "A-1691.1",
+          "description": "Anti-Semite of Year 2024/2025 Segment from Youssef's Show",
+          "related_claims": [
+            "C-2226",
+            "C-2227"
+          ],
+          "related_nodes": [
+            "N-798",
+            "N-816",
+            "N-1523"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:00:01–00:00:54",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1692",
+      "family_ref": "A-1692",
+      "bundle_name": "Gaza Destruction Footage",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1692.1",
+          "ref": "A-1692.1",
+          "description": "Current Gaza Aerial Destruction Footage (B-roll)",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1693",
+      "family_ref": "A-1693",
+      "bundle_name": "Arstrovski October 7th Photo Set",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1693.1",
+          "ref": "A-1693.1",
+          "description": "Arson Arstrovki Selfie — On Floor with Blood",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1693.2",
+          "ref": "A-1693.2",
+          "description": "Arstrovski Bandaged Photo",
+          "related_claims": [
+            "C-2231"
+          ],
+          "related_nodes": [
+            "N-802",
+            "N-1529"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1694",
+      "family_ref": "A-1694",
+      "bundle_name": "Viewer Comment Bundle (Read Aloud by Host)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1694.1",
+          "ref": "A-1694.1",
+          "description": "Amma Musa Comment — Ward Boston Notarized Statement",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:21:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1694.2",
+          "ref": "A-1694.2",
+          "description": "Project Constitution Comment — Phil Turney Interview",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:23:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1694.3",
+          "ref": "A-1694.3",
+          "description": "Katya Comment — Bassem in TV Show Lioness",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:25:27",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1694.4",
+          "ref": "A-1694.4",
+          "description": "Walter Midi Hunter Comment — IDF Soldier Suicide Rate",
+          "related_claims": [
+            "C-2228",
+            "C-2229"
+          ],
+          "related_nodes": [
+            "N-799",
+            "N-800",
+            "N-798",
+            "N-1531",
+            "N-1535"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:21:04",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1695",
+      "family_ref": "A-1695",
+      "bundle_name": "Bassem Youssef Tour Announcement",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1695.1",
+          "ref": "A-1695.1",
+          "description": "Belly of the Beast Tour Dates",
+          "related_claims": [
+            "C-2237"
+          ],
+          "related_nodes": [
+            "N-798",
+            "N-1530"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:46:20–01:47:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1696",
+      "family_ref": "A-1696",
+      "bundle_name": "Phil Turney USS Liberty Interview (Previous Candace Episode, Referenced)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1696.1",
+          "ref": "A-1696.1",
+          "description": "Candace Owens Sits Down with Phil Turney",
+          "related_claims": [
+            "C-2229"
+          ],
+          "related_nodes": [
+            "N-799",
+            "N-1535"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:54–01:23:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1697",
+      "family_ref": "A-1697",
+      "bundle_name": "*By Way of Deception* Book Reference (Victor Ostrovsky)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1697.1",
+          "ref": "A-1697.1",
+          "description": "Victor Ostrovsky Book and 1992 Gag Order Claim",
+          "related_claims": [
+            "C-2232",
+            "C-2233"
+          ],
+          "related_nodes": [
+            "N-801",
+            "N-1531",
+            "N-1532"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:27:19–01:28:50",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1698",
+      "family_ref": "A-1698",
+      "bundle_name": "*Till Kingdom Come* Documentary Reference",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1698.1",
+          "ref": "A-1698.1",
+          "description": "Documentary Clip Featuring Pastors Addressing Children",
+          "related_claims": [
+            "C-2234"
+          ],
+          "related_nodes": [
+            "N-1525",
+            "N-1533"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:22:53",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1699",
+      "family_ref": "A-1699",
+      "bundle_name": "Auschwitz Museum Statement Revision Reference",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1699.1",
+          "ref": "A-1699.1",
+          "description": "Elie Wiesel / Auschwitz Museum Revision of Joseph Mengele Account",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1525",
+            "N-1536"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1700",
+      "family_ref": "A-1700",
+      "bundle_name": "Breaking the Silence IDF Whistleblower Group Reference",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1700.1",
+          "ref": "A-1700.1",
+          "description": "Ex-IDF Whistleblower Movement Reference",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1525"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:21:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1701",
+      "family_ref": "A-1701",
+      "bundle_name": "Ben Shapiro at Turning Point USA — USS Liberty Debate Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1701.1",
+          "ref": "A-1701.1",
+          "description": "Ben Shapiro Debating Young Questioner on USS Liberty at TPUSA",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1522"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1702",
+      "family_ref": "A-1702",
+      "bundle_name": "Ben Shapiro on Charman the God Morning Show",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1702.1",
+          "ref": "A-1702.1",
+          "description": "Ben Shapiro Morning Show Appearance on Genocide Question",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1703",
+      "family_ref": "A-1703",
+      "bundle_name": "Ben Shapiro Hamas Water Pipes Video",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1703.1",
+          "ref": "A-1703.1",
+          "description": "Video Clip with Reversed Arabic Narration",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-804",
+      "ref": "N-804",
+      "name": "Piers Morgan Show Clip Bundle (Bassem Youssef appearance)",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-816",
+      "ref": "N-816",
+      "name": "Piers Morgan Chart Cited 2014 Casualty Ratio of ~1:27",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-798",
+      "ref": "N-798",
+      "name": "Bassem Youssef",
+      "type": "person",
+      "description": "Egyptian-born comedian, former cardiothoracic surgeon, immigrant who became U.S. citizen in December 2019. Central interview subject of this episode. Source of multiple artifact-backed and testimonial claims regarding Israel, the USS Liberty, and Charlie Kirk.",
+      "related_artifacts": [
+        "A-1690.1",
+        "A-1691.1",
+        "A-1694.3",
+        "A-1695.1"
+      ],
+      "related_claims": [
+        "C-2225",
+        "C-2230",
+        "C-2237"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1523",
+        "N-1524"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-799",
+      "ref": "N-799",
+      "name": "Phil Turney",
+      "type": "person",
+      "description": "USS Liberty survivor, subject of Candace Owens' prior sit-down interview referenced in this episode. According to host, Turney gave her his Purple Heart and cried during the conversation.",
+      "related_artifacts": [
+        "A-1696.1",
+        "A-1694.2"
+      ],
+      "related_claims": [
+        "C-2229"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1522",
+        "N-1535"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-800",
+      "ref": "N-800",
+      "name": "Ward Boston",
+      "type": "person",
+      "description": "Navy Judge Advocate General who investigated the USS Liberty incident. Per viewer comment A-1694.1, published a notarized statement in the San Diego Union Tribune asserting the investigation was a cover-up and the attack was deliberate.",
+      "related_artifacts": [
+        "A-1694.1"
+      ],
+      "related_claims": [
+        "C-2228"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1522"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-801",
+      "ref": "N-801",
+      "name": "Victor Ostrovsky",
+      "type": "person",
+      "description": "Mossad agent (per Youssef) and author of *By Way of Deception*. Alleged by Youssef to have written in his book that Mossad had advance knowledge of the 1982 Beirut barracks bombing.",
+      "related_artifacts": [
+        "A-1697.1"
+      ],
+      "related_claims": [
+        "C-2232",
+        "C-2233"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1531",
+        "N-1532"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-802",
+      "ref": "N-802",
+      "name": "Arson Arstrovski",
+      "type": "person",
+      "description": "Claimed October 7th survivor. Subject of two on-screen photos (A-1693.1, A-1693.2). Host remarks on authenticity concerns: bandage photo lacks blood despite bloody face.",
+      "related_artifacts": [
+        "A-1693.1",
+        "A-1693.2"
+      ],
+      "related_claims": [
+        "C-2231"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1529"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-803",
+      "ref": "N-803",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor at Calvary Chapel (per host). Host claims he was purportedly close to Charlie Kirk but that Charlie \"couldn't stand him toward the end.\" Host also claims his father ran psychological operations for the Navy. (Host claim about father is host opinion — not artifact-backed in this episode.)",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1536"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-805",
+      "ref": "N-805",
+      "name": "Piers Morgan",
+      "type": "person",
+      "description": "Interviewer; host of the show where Youssef displayed the casualty chart cited in A-1690.1.",
+      "related_artifacts": [
+        "A-1690.1"
+      ],
+      "related_claims": [
+        "C-2225"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-798"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1522",
+      "ref": "N-1522",
+      "name": "USS Liberty Incident Cover-up Investigation",
+      "type": "investigation_target",
+      "description": "Persistent investigative target across the series. This episode surfaces additional verification material: Ward Boston notarized statement (via viewer) and Victor Ostrovsky book reference. Host also notes New York Times is preparing a USS Liberty piece.",
+      "related_artifacts": [
+        "A-1694.1",
+        "A-1696.1",
+        "A-1697.1"
+      ],
+      "related_claims": [
+        "C-2228",
+        "C-2229"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-799",
+        "N-800"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1523",
+      "ref": "N-1523",
+      "name": "Candace Owens Anti-Semite of Year 2024 Nomination",
+      "type": "investigation_target",
+      "description": "Persistent series element. In this episode confirmed via opening clip A-1691.1 referencing both her nomination and Tucker Carlson's win.",
+      "related_artifacts": [
+        "A-1691.1"
+      ],
+      "related_claims": [
+        "C-2226",
+        "C-2227"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-798",
+        "N-816"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1524",
+      "ref": "N-1524",
+      "name": "Piers Morgan Bassem Youssef Chart Numbers Claim",
+      "type": "investigation_target",
+      "description": "Specific 2014 figures cited by Youssef: 88 Israelis vs. 2,329 Palestinians killed (ratio ~1:27). Plus reference to 7,000 West Bank Palestinians killed since occupation.",
+      "related_artifacts": [
+        "A-1690.1"
+      ],
+      "related_claims": [
+        "C-2225"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-798",
+        "N-805"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1525",
+      "ref": "N-1525",
+      "name": "Gaza Death Toll and Documentation Claims",
+      "type": "investigation_target",
+      "description": "Composite node tracking Youssef and Owens' on-record statements about Gaza casualties and the documentation of them.",
+      "related_artifacts": [
+        "A-1690.1",
+        "A-1692.1",
+        "A-1700.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1526",
+      "ref": "N-1526",
+      "name": "Andrew Kolvet Charlie Kirk Twitter Control Claim",
+      "type": "investigation_target",
+      "description": "Youssef states \"Charlie didn't run his Twitter feed. Andrew Kovette did.\" (A-1690 transcript)",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-804"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1527",
+      "ref": "N-1527",
+      "name": "Charlie Kirk BB Netanyahu Show Refusal",
+      "type": "investigation_target",
+      "description": "Per host Candace Owens: \"When BB went on a little mini tour and went on everyone's shows sometime in August, Charlie didn't let him on a show.\" (A-1690 transcript)",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1528",
+      "ref": "N-1528",
+      "name": "New York Times USS Liberty Investigation Reporting",
+      "type": "investigation_target",
+      "description": "Per host, NYT contacted her regarding her Phil Turney interview and is preparing a piece on USS Liberty.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1522",
+        "N-799"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1529",
+      "ref": "N-1529",
+      "name": "Arstrovski October 7th Photo Authenticity Question",
+      "type": "investigation_target",
+      "description": "Discrepancy noted in the two photos: blood on face vs. no blood on bandages.",
+      "related_artifacts": [
+        "A-1693.1",
+        "A-1693.2"
+      ],
+      "related_claims": [
+        "C-2231"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-802"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1530",
+      "ref": "N-1530",
+      "name": "Bassem Youssef Belly of the Beast Tour Schedule",
+      "type": "investigation_target",
+      "description": "Documented tour dates: Portland 3/20, Seattle 3/21, plus Philadelphia, DC, Houston, Atlanta.",
+      "related_artifacts": [
+        "A-1695.1"
+      ],
+      "related_claims": [
+        "C-2237"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-798"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1531",
+      "ref": "N-1531",
+      "name": "Victor Ostrovsky *By Way of Deception* 24-Hour Gag Order Claim",
+      "type": "investigation_target",
+      "description": "Claim that the book was subject to a 24-hour gag order in 1992, described as \"the first and last ever gag order on an American book.\"",
+      "related_artifacts": [
+        "A-1697.1"
+      ],
+      "related_claims": [
+        "C-2233"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-801"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1532",
+      "ref": "N-1532",
+      "name": "1982 Beirut Barracks Bombing Mossad Advance Knowledge Claim",
+      "type": "investigation_target",
+      "description": "Per Ostrovsky book (per Youssef): Mossad allegedly knew about the bombing of U.S. Marines in Beirut in advance and withheld information.",
+      "related_artifacts": [
+        "A-1697.1"
+      ],
+      "related_claims": [
+        "C-2232"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-801"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1533",
+      "ref": "N-1533",
+      "name": "*Till Kingdom Come* Documentary Pastors Clip",
+      "type": "investigation_target",
+      "description": "Verbal reference to documentary showing pastors telling children Jews are more special.",
+      "related_artifacts": [
+        "A-1698.1"
+      ],
+      "related_claims": [
+        "C-2234"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1534",
+      "ref": "N-1534",
+      "name": "Ward Boston Notarized Statement San Diego Union Tribune",
+      "type": "investigation_target",
+      "description": "Specific publication reference: Ward Boston's notarized statement was published in the San Diego Union Tribune before his death.",
+      "related_artifacts": [
+        "A-1694.1"
+      ],
+      "related_claims": [
+        "C-2228"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-800",
+        "N-1522"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1535",
+      "ref": "N-1535",
+      "name": "Candace Phil Turney Interview View Count",
+      "type": "investigation_target",
+      "description": "Approximately 7 million views cited by host, partially corroborated by Project Constitution viewer comment.",
+      "related_artifacts": [
+        "A-1694.2",
+        "A-1696.1"
+      ],
+      "related_claims": [
+        "C-2229"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-799"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1536",
+      "ref": "N-1536",
+      "name": "Calvary Chapel Church CIA Connection Question",
+      "type": "investigation_target",
+      "description": "Host claim that Calvary Chapel is \"a CIA story\" and that Rob McCoy's father ran Navy psychological operations. (Host claim — not artifact-anchored in this episode beyond host testimony.)",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-803"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2225",
+      "ref": "C-2225",
+      "label": "Piers Morgan Chart Cited 2014 Casualty Ratio of ~1:27",
+      "claim": "Bassem Youssef's Piers Morgan appearance displayed a chart stating that in 2014, 88 Israelis and 2,329 Palestinians were killed, which Youssef described as \"one Israeli for 27 Palestinian.\"",
+      "anchored_artifacts": [
+        "A-1690.1"
+      ],
+      "related_nodes": [
+        "N-798",
+        "N-805",
+        "N-1524",
+        "N-804"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:21",
+      "investigative_direction": "Verify against original Piers Morgan broadcast; cross-check 2014 OCHA/UN OPt casualty figures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2226",
+      "ref": "C-2226",
+      "label": "Candace Owens Nominated Anti-Semite of Year 2024",
+      "claim": "Youssef states Candace Owens was nominated for Anti-Semite of the Year 2024 (and did not win).",
+      "anchored_artifacts": [
+        "A-1691.1"
+      ],
+      "related_nodes": [
+        "N-798",
+        "N-1523"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Verify with Anti-Semite of the Year award organization records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2227",
+      "ref": "C-2227",
+      "label": "Tucker Carlson Won Anti-Semite of the Year",
+      "claim": "Per Youssef's show, Tucker Carlson won Anti-Semite of the Year (2025 per context).",
+      "anchored_artifacts": [
+        "A-1691.1"
+      ],
+      "related_nodes": [
+        "N-816",
+        "N-1523"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Verify with award organization records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2228",
+      "ref": "C-2228",
+      "label": "Ward Boston Notarized Statement on USS Liberty Published in San Diego Union Tribune",
+      "claim": "Per read-aloud viewer comment, Navy JAG Ward Boston published a notarized statement in the San Diego Union Tribune asserting the USS Liberty investigation was a cover-up and the attack was deliberate.",
+      "anchored_artifacts": [
+        "A-1694.1"
+      ],
+      "related_nodes": [
+        "N-800",
+        "N-1522",
+        "N-1534"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:21:47",
+      "investigative_direction": "Obtain the original San Diego Union Tribune publication and Ward Boston's notarized statement; verify date and text."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2229",
+      "ref": "C-2229",
+      "label": "Candace Owens Phil Turney Interview Received Approximately 7 Million Views",
+      "claim": "Per host, her Phil Turney interview received approximately 7 million views, prompting New York Times outreach.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-799",
+        "N-1522",
+        "N-1528",
+        "N-1535",
+        "N-803"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:23:21",
+      "investigative_direction": "Verify view count via YouTube analytics or platform data."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2230",
+      "ref": "C-2230",
+      "label": "Bassem Youssef US Citizenship in December 2019",
+      "claim": "Youssef states he took his U.S. citizenship pledge of allegiance in December 2019.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-798"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:54–00:01:21",
+      "investigative_direction": "Verify with public records / naturalization records if available."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2231",
+      "ref": "C-2231",
+      "label": "Arstrovski Bandaged October 7th Photo Shows No Blood on Bandages Despite Bloody Face",
+      "claim": "Per host and displayed image, the bandaged follow-up photo shows no blood on bandages despite blood on face in the prior photo.",
+      "anchored_artifacts": [
+        "A-1693.2"
+      ],
+      "related_nodes": [
+        "N-802",
+        "N-1529"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:48",
+      "investigative_direction": "Obtain original high-resolution images; verify with forensic photo analysis or contextual corroboration."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2232",
+      "ref": "C-2232",
+      "label": "Victor Ostrovsky Book Claims Mossad Had Advance Knowledge of 1982 Beirut Barracks Bombing",
+      "claim": "Per Youssef's account, *By Way of Deception* by Victor Ostrovsky alleged Mossad knew in advance about the 1982 Beirut barracks bombing (American embassy/Marine bombing).",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-801",
+        "N-1532"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:27:19",
+      "investigative_direction": "Verify the book's actual contents against published editions."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2233",
+      "ref": "C-2233",
+      "label": "24-Hour Gag Order on *By Way of Deception* in 1992",
+      "claim": "Per Youssef, *By Way of Deception* was subject to a 24-hour gag order in 1992, allegedly the only such order in American literary history.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-801",
+        "N-1531"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:28:11",
+      "investigative_direction": "Verify with publishing industry records and court records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2234",
+      "ref": "C-2234",
+      "label": "*Till Kingdom Come* Documentary Features Pastors Telling Children Jews Are More Special",
+      "claim": "Per Youssef, the documentary *Till Kingdom Come* contains clips of pastors addressing children and saying \"Jews are better than us. They are more special than us. They are not like us.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1533"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:53",
+      "investigative_direction": "Obtain the documentary and verify the specific clips and their context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2235",
+      "ref": "C-2235",
+      "label": "Charlie Kirk Did Not Allow Benjamin Netanyahu on Show in August",
+      "claim": "Per host Candace Owens, Charlie Kirk refused to allow Benjamin Netanyahu on his show in August (referenced as 2025) during Netanyahu's \"mini tour\" of media appearances.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1527"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:06",
+      "investigative_direction": "Cross-check with Turning Point USA published guest lists and Netanyahu media tour records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2236",
+      "ref": "C-2236",
+      "label": "New York Times Preparing a Piece on USS Liberty",
+      "claim": "Per host, the New York Times contacted her about her Phil Turney interview and is working on a piece regarding USS Liberty.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1522",
+        "N-1528"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:23:21",
+      "investigative_direction": "Monitor NYT for upcoming USS Liberty coverage."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2237",
+      "ref": "C-2237",
+      "label": "Bassem Youssef Tour Dates Include Portland March 20 and Seattle March 21",
+      "claim": "Youssef announced Belly of the Beast tour dates: Portland March 20, Seattle March 21, with additional cities Philadelphia, DC, Houston, Atlanta.",
+      "anchored_artifacts": [
+        "A-1695.1"
+      ],
+      "related_nodes": [
+        "N-798",
+        "N-1530"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:46:20–01:47:10",
+      "investigative_direction": "Verify with Youssef's official tour pages and ticketing platforms."
+    }
+  ],
+  "memes": []
+}

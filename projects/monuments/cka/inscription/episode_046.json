@@ -1,0 +1,860 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 46,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "e732d4846e15cd04e8fa5fe0225ed37b1a98e48a46de9708a0a96dd02665e880",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1533",
+      "family_ref": "A-1533",
+      "bundle_name": "CBS Bari Weiss Town Hall Bundle (Erika Kirk interview)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1533.1",
+          "ref": "A-1533.1",
+          "description": "Bari Weiss pre-recorded question to Erika Kirk about Candace Owens",
+          "related_claims": [
+            "C-1912",
+            "C-1922"
+          ],
+          "related_nodes": [
+            "N-529",
+            "N-2",
+            "N-3",
+            "N-1405"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:58–00:07:58",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1533.2",
+          "ref": "A-1533.2",
+          "description": "Erika Kirk on-camera response: \"Stop. That's it. That's all I have to say. Stop.\"",
+          "related_claims": [
+            "C-1912"
+          ],
+          "related_nodes": [
+            "N-529",
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:58–00:08:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1533.3",
+          "ref": "A-1533.3",
+          "description": "Erika Kirk statement: \"I think mental illness is involved in some of this stuff that is online.\"",
+          "related_claims": [
+            "C-1915"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:23:04–00:24:03",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1533.4",
+          "ref": "A-1533.4",
+          "description": "Erika Kirk statement: \"My husband's legacy is not about his murder.\"",
+          "related_claims": [
+            "C-1916"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:23:04–00:24:03",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1533.5",
+          "ref": "A-1533.5",
+          "description": "Hunter Kozak identified (by host) as audience member who asked the last question to Charlie Kirk prior to the assassination; CBS town hall also seated the father of a DC Jewish Museum shooting victim (host identifies possible IDF soldier)",
+          "related_claims": [
+            "C-1922"
+          ],
+          "related_nodes": [
+            "N-537",
+            "N-529",
+            "N-1405"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:44–00:15:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1534",
+      "family_ref": "A-1534",
+      "bundle_name": "Glenn Beck Blaze TV Interview Bundle (Erika Kirk interview)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1534.1",
+          "ref": "A-1534.1",
+          "description": "Glenn Beck question framing: \"Everyone wants an answer to this evil. And sometimes the answer is very clear. The truth is very clear.\" / Erika Kirk concurrence",
+          "related_claims": [
+            "C-1913"
+          ],
+          "related_nodes": [
+            "N-530",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:29–00:17:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1534.2",
+          "ref": "A-1534.2",
+          "description": "Erika Kirk on-court-system framing: \"we need to do a better job of educating our citizens about our court systems\"; \"I want a tainted jury pool. I want justice for my husband. Anytime we have leads, anytime we hear anything, we send it to the authorities.\"",
+          "related_claims": [
+            "C-1917"
+          ],
+          "related_nodes": [
+            "N-530",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:20–00:20:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1534.3",
+          "ref": "A-1534.3",
+          "description": "Erika Kirk denial of involvement: \"None of us are involved in my husband's murder. None of us. Turning Point USA, myself, any of these other crazy accusations, none of us.\"",
+          "related_claims": [
+            "C-1914"
+          ],
+          "related_nodes": [
+            "N-530",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:20–00:20:12",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1535",
+      "family_ref": "A-1535",
+      "bundle_name": "Tyler Robinson First In-Person Court Appearance Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1535.1",
+          "ref": "A-1535.1",
+          "description": "Tyler Robinson first in-person court appearance (Utah)",
+          "related_claims": [
+            "C-1918"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-1407"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:07–00:35:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1536",
+      "family_ref": "A-1536",
+      "bundle_name": "AllieBeth Stuckey Social Media Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1536.1",
+          "ref": "A-1536.1",
+          "description": "AllieBeth Stuckey Instagram post comparing Candace to 2020 BLM Kafka-trap tactics (read aloud by host)",
+          "related_claims": [
+            "C-1919"
+          ],
+          "related_nodes": [
+            "N-532",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:58–00:39:08",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1536.2",
+          "ref": "A-1536.2",
+          "description": "AllieBeth Stuckey Instagram comment reply: \"You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then.\"",
+          "related_claims": [
+            "C-1921"
+          ],
+          "related_nodes": [
+            "N-532",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:13–00:41:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1537",
+      "family_ref": "A-1537",
+      "bundle_name": "AllieBeth Stuckey Show Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1537.1",
+          "ref": "A-1537.1",
+          "description": "AllieBeth Stuckey on-camera defense of Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations; reference to Lila Rose's military-connected husband; reference to Alex Clark's WSJ interview one week after Kirk's death",
+          "related_claims": [
+            "C-1920"
+          ],
+          "related_nodes": [
+            "N-532",
+            "N-533",
+            "N-534",
+            "N-535",
+            "N-42"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:28–00:45:29",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1538",
+      "family_ref": "A-1538",
+      "bundle_name": "Candace 2018 Text Message Quotation Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1538.1",
+          "ref": "A-1538.1",
+          "description": "Commenter Alicia Yancey reading aloud Candace Owens' 2018 text to Charlie Kirk: \"the story of me and CK will be one for the ages. My hope is that our story will be about smashing limitations, a story of loyalty, trust, and imprinting the world if fearless enough.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-538",
+            "N-1",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:54:02–00:55:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-529",
+      "ref": "N-529",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "CBS News editor/chief who moderated the Erika Kirk town hall; subject of host's pre-recording allegation and audience-member sourcing claims. Material to investigation of town-hall production integrity.",
+      "related_artifacts": [
+        "A-1533.1",
+        "A-1533.2",
+        "A-1533.5"
+      ],
+      "related_claims": [
+        "C-1912",
+        "C-1922"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1405"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-530",
+      "ref": "N-530",
+      "name": "Glenn Beck",
+      "type": "person",
+      "description": "Blaze TV host who interviewed Erika Kirk immediately after CBS town hall; framed \"the truth is very clear\" question and the jury-pool education framing.",
+      "related_artifacts": [
+        "A-1534.1",
+        "A-1534.2",
+        "A-1534.3"
+      ],
+      "related_claims": [
+        "C-1913",
+        "C-1914",
+        "C-1917"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-532",
+      "ref": "N-532",
+      "name": "AllieBeth Stuckey",
+      "type": "person",
+      "description": "Daily Wire host and public critic of Candace Owens; subject of artifact-anchored Instagram post (A-1536.1), Instagram comment (A-1536.2), and show clip (A-1537.1) defending named figures against the host's accusations.",
+      "related_artifacts": [
+        "A-1536.1",
+        "A-1536.2",
+        "A-1537.1"
+      ],
+      "related_claims": [
+        "C-1919",
+        "C-1920",
+        "C-1921"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-533",
+      "ref": "N-533",
+      "name": "Alex Clark",
+      "type": "person",
+      "description": "Podcaster named by host and defended by AllieBeth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.",
+      "related_artifacts": [
+        "A-1537.1"
+      ],
+      "related_claims": [
+        "C-1920"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-532"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-534",
+      "ref": "N-534",
+      "name": "Lila Rose",
+      "type": "person",
+      "description": "Live Action founder; subject of AllieBeth Stuckey defense (A-1537.1) and host's prior accusation regarding military connections.",
+      "related_artifacts": [
+        "A-1537.1"
+      ],
+      "related_claims": [
+        "C-1920"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-532"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-535",
+      "ref": "N-535",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Commentator defended by AllieBeth Stuckey (A-1537.1) and subject of host's prior accusation of lying about lack of issues with Charlie Kirk.",
+      "related_artifacts": [
+        "A-1537.1"
+      ],
+      "related_claims": [
+        "C-1920"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-532"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-537",
+      "ref": "N-537",
+      "name": "Hunter Kozak",
+      "type": "person",
+      "description": "Audience member at CBS town hall identified by host as the questioner who asked Charlie Kirk his last question prior to the assassination.",
+      "related_artifacts": [
+        "A-1533.5"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-529",
+        "N-1405"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-538",
+      "ref": "N-538",
+      "name": "Alicia Yancey",
+      "type": "person",
+      "description": "Commenter who quoted Candace Owens' 2018 text message to Charlie Kirk (A-1538.1).",
+      "related_artifacts": [
+        "A-1538.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1405",
+      "ref": "N-1405",
+      "name": "CBS Bari Weiss Town Hall Production Integrity",
+      "type": "investigation_target",
+      "description": "Persistent investigative target concerning whether questions were pre-selected, the town hall was pre-recorded, and audience composition was curated. Host asserts affirmative answers via insider sources; episode displays rehearsed on-air delivery.",
+      "related_artifacts": [
+        "A-1533.1",
+        "A-1533.5"
+      ],
+      "related_claims": [
+        "C-1922"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-529",
+        "N-537"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1406",
+      "ref": "N-1406",
+      "name": "Maroon Shirt / Air Force 10th Mountain Brigade Connection",
+      "type": "investigation_target",
+      "description": "Continued investigative target tying the maroon-shirt observation at the Kirk event to the U.S. Army 10th Mountain Brigade and Air Force color associations. Host references prior military-source confirmation.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1407",
+      "ref": "N-1407",
+      "name": "Tyler Robinson First In-Person Court Appearance Details",
+      "type": "investigation_target",
+      "description": "Verification target for the December 11, 2025 court appearance: demeanor, hearing content, transcript availability to media, and any preliminary statements.",
+      "related_artifacts": [
+        "A-1535.1"
+      ],
+      "related_claims": [
+        "C-1918"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens — host; existing node reused.",
+      "type": "person",
+      "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1912",
+      "ref": "C-1912",
+      "label": "Erika Kirk directed \"Stop\" to Candace Owens in CBS town hall",
+      "claim": "During a Bari Weiss CBS town hall, when asked what she wanted to say to Candace Owens and others \"putting these lies out into the world,\" Erika Kirk responded: \"Stop. That's it. That's all I have to say. Stop.\"",
+      "anchored_artifacts": [
+        "A-1533.1",
+        "A-1533.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-3",
+        "N-529"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:58",
+      "investigative_direction": "Confirm the verbatim exchange against the published CBS video and check whether the question appears in any released pre-production packet."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1913",
+      "ref": "C-1913",
+      "label": "Erika Kirk stated \"the truth is very clear\" about the assassination in Glenn Beck interview",
+      "claim": "In a Blaze TV interview with Glenn Beck, Erika Kirk affirmed the host's framing that \"the truth is very clear\" regarding her husband's assassination.",
+      "anchored_artifacts": [
+        "A-1534.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-530"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:23",
+      "investigative_direction": "Obtain the unedited Blaze TV segment to verify exact phrasing and surrounding context."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1914",
+      "ref": "C-1914",
+      "label": "Erika Kirk denied TPUSA and personal involvement in Kirk's murder",
+      "claim": "In the Glenn Beck interview, Erika Kirk stated: \"None of us are involved in my husband's murder. None of us. Turning Point USA, myself, any of these other crazy accusations, none of us.\"",
+      "anchored_artifacts": [
+        "A-1534.3"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-530"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:20",
+      "investigative_direction": "Compare this on-camera denial against any subsequent documentary disclosures or investigation findings that could contradict the explicit denial."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1915",
+      "ref": "C-1915",
+      "label": "Erika Kirk characterized online skepticism as \"mental illness\"",
+      "claim": "In the Glenn Beck interview, Erika Kirk stated: \"I think mental illness is involved in some of this stuff that is online. I think it's really honestly I feel bad it's mental illness.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-2",
+        "N-530"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:04",
+      "investigative_direction": "Verify the exact context of the \"mental illness\" statement against the unedited interview and assess whether the framing was directed at named hosts or general public commentary."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1916",
+      "ref": "C-1916",
+      "label": "Erika Kirk stated husband's \"legacy is not about his murder\"",
+      "claim": "In the Glenn Beck interview, Erika Kirk stated: \"My husband's legacy is not about his murder. My husband's legacy is what he left behind.\"",
+      "anchored_artifacts": [
+        "A-1533.4"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-530"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:04",
+      "investigative_direction": "Document the recurrence of this framing across Erika Kirk's post-assassination appearances to map the consistency and evolution of the messaging."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1917",
+      "ref": "C-1917",
+      "label": "Erika Kirk called for public education about the court system to preserve an untainted jury pool",
+      "claim": "In the Glenn Beck interview, Erika Kirk stated: \"A lot of people don't and I think that we need to do a better job of educating our citizens about our court systems. … I don't want a tainted jury pool. I want justice for my husband.\"",
+      "anchored_artifacts": [
+        "A-1534.2"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-530"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:20",
+      "investigative_direction": "Track whether this \"education\" framing recurs in subsequent Erika Kirk appearances and whether any coordinated media campaigns explicitly call on influencers to refrain from commentary."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1918",
+      "ref": "C-1918",
+      "label": "Tyler Robinson made first in-person court appearance on December 11, 2025",
+      "claim": "Tyler Robinson appeared in person in a Utah court on December 11, 2025, his first in-person court appearance.",
+      "anchored_artifacts": [
+        "A-1535.1"
+      ],
+      "related_nodes": [
+        "N-69",
+        "N-1407"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:07",
+      "investigative_direction": "Obtain the official docket entry and any released court transcript for the December 11, 2025 hearing; verify demeanor observation against available footage."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1919",
+      "ref": "C-1919",
+      "label": "AllieBeth Stuckey accused Candace Owens of using BLM \"Kafka trap\" tactics",
+      "claim": "In an Instagram post, AllieBeth Stuckey asserted that \"Candace has taken a page out of their [BLM's] book,\" characterizing the host's insistence that critics are part of a psyop or are paid as a 2020-style Kafka trap.",
+      "anchored_artifacts": [
+        "A-1536.1"
+      ],
+      "related_nodes": [
+        "N-532",
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:58",
+      "investigative_direction": "Verify the post is still publicly available and capture a screenshot for permanent record; compare Stuckey's characterization against any prior host statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1920",
+      "ref": "C-1920",
+      "label": "AllieBeth Stuckey publicly defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth",
+      "claim": "In a show clip, AllieBeth Stuckey defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations, stating she knows them personally and that they do not deserve to be \"implicated in this way\" or \"called out when they're lying.\"",
+      "anchored_artifacts": [
+        "A-1537.1"
+      ],
+      "related_nodes": [
+        "N-532",
+        "N-533",
+        "N-534",
+        "N-535",
+        "N-42"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:28",
+      "investigative_direction": "Catalog each prior host accusation against these five individuals and verify against any underlying evidence the host has produced; assess consistency of Stuckey's defense with the underlying evidence."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1921",
+      "ref": "C-1921",
+      "label": "AllieBeth Stuckey indicated her content is \"not for you\" if you question her biblical authority framing",
+      "claim": "In an Instagram comment reply, AllieBeth Stuckey wrote: \"You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then.\"",
+      "anchored_artifacts": [
+        "A-1536.2"
+      ],
+      "related_nodes": [
+        "N-532",
+        "N-3"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:13",
+      "investigative_direction": "Capture the comment thread for permanent record and identify the original commenter if investigatively relevant."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1922",
+      "ref": "C-1922",
+      "label": "Bari Weiss CBS town hall was pre-recorded with pre-selected questions (per host insider sources)",
+      "claim": "The host asserts that the Bari Weiss / Erika Kirk CBS town hall was pre-recorded in the 11:00 AM – 4:00 PM window the day prior to airing, that Bari Weiss read from a prompter, that questions were pre-selected by CBS, and that audience members were emailing the host during recording.",
+      "anchored_artifacts": [
+        "A-1533.1"
+      ],
+      "related_nodes": [
+        "N-529",
+        "N-537",
+        "N-1405"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00–00:00:01",
+      "investigative_direction": "Attempt to obtain leaked production documents, backstage emails, or testimony from audience members; cross-reference against CBS's own statements about the production."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1923",
+      "ref": "C-1923",
+      "label": "Maroon color is associated with the U.S. Air Force and the Army 10th Mountain Brigade (per host military sources)",
+      "claim": "The host asserts that the maroon color referenced in connection with Kirk event attendees (and noted by the host in prior episodes) represents the U.S. Air Force and the Army 10th Mountain Brigade, citing military contacts.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-69",
+        "N-1406"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:27–00:57:53",
+      "investigative_direction": "Verify through official U.S. military color standards (Air Force: ultramarine blue, not maroon; 10th Mountain Brigade: maroon beret was a separate uniform item historically) and reconcile against authoritative dress-regulation documents."
+    }
+  ],
+  "memes": []
+}

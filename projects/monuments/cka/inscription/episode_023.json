@@ -1,0 +1,1621 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 23,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "2b7c0b497c1a605724c2efacfbda06d8e0b999ac43a4736bf08dfb6b27a1a9f1",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1301",
+      "family_ref": "A-1301",
+      "bundle_name": "SUBTT Flightradar Tracking Bundle (Yellow Plane)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1301.1",
+          "ref": "A-1301.1",
+          "description": "SUBTT — Falcon 7X (Egypt) arrival February 25, 2023, St. Louis, MO, via Paris from Cairo",
+          "related_claims": [
+            "C-1545"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-300",
+            "N-302",
+            "N-1273"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1301.2",
+          "ref": "A-1301.2",
+          "description": "SUBTT arrival April 1, 2023, St. Louis, MO (via Paris from Cairo)",
+          "related_claims": [
+            "C-1545"
+          ],
+          "related_nodes": [
+            "N-300",
+            "N-302",
+            "N-1273"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1301.3",
+          "ref": "A-1301.3",
+          "description": "SUBTT arrival April 13, 2023, Kansas (Cairo → Wichita)",
+          "related_claims": [
+            "C-1545"
+          ],
+          "related_nodes": [
+            "N-300",
+            "N-302",
+            "N-1273"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1301.4",
+          "ref": "A-1301.4",
+          "description": "SUBTT arrival February 9, 2024, Omaha/Lincoln, NE (via Paris from Cairo)",
+          "related_claims": [
+            "C-1545",
+            "C-1548"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-301",
+            "N-1273",
+            "N-1277"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:27",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1301.5",
+          "ref": "A-1301.5",
+          "description": "SUBTT arrival March 29, 2024, Wichita, KS (2:19 PM local)",
+          "related_claims": [
+            "C-1545"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1273"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:23:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1301.6",
+          "ref": "A-1301.6",
+          "description": "SUBTT arrival April 19, 2024, Provo, UT (via Salt Lake City)",
+          "related_claims": [
+            "C-1545"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1273"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1301.7",
+          "ref": "A-1301.7",
+          "description": "SUBTT arrival July 20, 2025, Omaha/Lincoln, NE",
+          "related_claims": [
+            "C-1545"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1273",
+            "N-1277"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1301.8",
+          "ref": "A-1301.8",
+          "description": "SUBTT arrival August 17, 2025, Lincoln, NE (per host)",
+          "related_claims": [
+            "C-1545"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1273",
+            "N-1277"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1301.9",
+          "ref": "A-1301.9",
+          "description": "SUBTT arrival September 4, 2025, Provo, UT (12:46 PM local) — described as \"full plane\"",
+          "related_claims": [
+            "C-1545",
+            "C-1551"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1273"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1302",
+      "family_ref": "A-1302",
+      "bundle_name": "SUBND Flightradar Tracking Bundle (Blue Plane)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1302.1",
+          "ref": "A-1302.1",
+          "description": "SUBND — Gulfstream 4 (Egypt) arrival February 21, 2023, St. Louis, MO; remains until May 9, 2023",
+          "related_claims": [
+            "C-1546"
+          ],
+          "related_nodes": [
+            "N-300",
+            "N-302",
+            "N-1274"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:38",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1302.2",
+          "ref": "A-1302.2",
+          "description": "SUBND arrival April 19, 2024, Provo, UT (via Salt Lake City)",
+          "related_claims": [
+            "C-1546"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1274"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1302.3",
+          "ref": "A-1302.3",
+          "description": "SUBND arrival May 23, 2025, Provo, UT — described by host as possible maintenance stop",
+          "related_claims": [
+            "C-1546",
+            "C-1550"
+          ],
+          "related_nodes": [
+            "N-1274"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1302.4",
+          "ref": "A-1302.4",
+          "description": "SUBND departure September 13, 2025, Provo → Canada → Paris → Cairo (3 days post-assassination)",
+          "related_claims": [
+            "C-1546",
+            "C-1552"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1274"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:48",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1303",
+      "family_ref": "A-1303",
+      "bundle_name": "UNL TPUSA Chapter Instagram Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1303.1",
+          "ref": "A-1303.1",
+          "description": "Instagram post announcing TPUSA at UNL first weekly meeting (\"Starting next week, TPUSA at UNL it is official\")",
+          "related_claims": [
+            "C-1548"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-301",
+            "N-1277"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:57",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1304",
+      "family_ref": "A-1304",
+      "bundle_name": "TPUSA Internal Email Bundle (verbally referenced)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1304.1",
+          "ref": "A-1304.1",
+          "description": "Internal TPUSA email promoting Mikey McCoy to Chief of Staff (January 3, 2024)",
+          "related_claims": [
+            "C-1547"
+          ],
+          "related_nodes": [
+            "N-301",
+            "N-1278"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:27",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1305",
+      "family_ref": "A-1305",
+      "bundle_name": "Sean Feucht Allegations Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1305.1",
+          "ref": "A-1305.1",
+          "description": "June 2025 article documenting fraud, embezzlement, financial mismanagement allegations against Sean Feucht by multiple organizations (June 2025)",
+          "related_claims": [
+            "C-1549"
+          ],
+          "related_nodes": [
+            "N-302",
+            "N-1275",
+            "N-1280"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1306",
+      "family_ref": "A-1306",
+      "bundle_name": "Read-Aloud X / Live-Chat Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1306.1",
+          "ref": "A-1306.1",
+          "description": "\"Stars\" super chat comment supporting host and defending her against \"Zionists\"",
+          "related_claims": [
+            "C-1564"
+          ],
+          "related_nodes": [
+            "N-1275"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:59:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1306.2",
+          "ref": "A-1306.2",
+          "description": "\"Jill\" comment criticizing Pastor Jack Hibbs's silence regarding Charlie Kirk",
+          "related_claims": [
+            "C-1564"
+          ],
+          "related_nodes": [
+            "N-309",
+            "N-1275"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:59:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1306.3",
+          "ref": "A-1306.3",
+          "description": "\"Alpaca Renee\" comment expressing support and citing Jeremiah 29:11",
+          "related_claims": [
+            "C-1564"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:59:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1306.4",
+          "ref": "A-1306.4",
+          "description": "\"Voiceless\" comment suggesting Google Trends correlation analysis",
+          "related_claims": [
+            "C-1553",
+            "C-1564"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:01:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1306.5",
+          "ref": "A-1306.5",
+          "description": "\"Tim Morgan\" comment referencing Sean Feucht financial mismanagement and Sean Feucht / Pastor McCoy \"Courageous Christianity Tour\" honoring Charlie",
+          "related_claims": [
+            "C-1549",
+            "C-1565"
+          ],
+          "related_nodes": [
+            "N-300",
+            "N-302",
+            "N-1275"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:01:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1306.6",
+          "ref": "A-1306.6",
+          "description": "Unattributed live-chat comment reporting that Charlie Kirk did fly into Salt Lake City for a \"Restaurantology Summit\" interview",
+          "related_claims": [
+            "C-1561"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1282"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:59:11",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1307",
+      "family_ref": "A-1307",
+      "bundle_name": "Village Crazy Lady (Melissa) X Research Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1307.1",
+          "ref": "A-1307.1",
+          "description": "X user @VillageCrazyLady research on NAR (New Apostolic Reformation) and TPUSA Faith; research pinned to profile per host instruction",
+          "related_claims": [
+            "C-1549",
+            "C-1566"
+          ],
+          "related_nodes": [
+            "N-300",
+            "N-302",
+            "N-306",
+            "N-1275",
+            "N-1276"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:18",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1308",
+      "family_ref": "A-1308",
+      "bundle_name": "Joel Osteen Plumber News Story Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1308.1",
+          "ref": "A-1308.1",
+          "description": "News article covering cash-filled envelopes found by a plumber during repairs at Joel Osteen's megachurch (referenced as occurring on or about November 10)",
+          "related_claims": [
+            "C-1558"
+          ],
+          "related_nodes": [
+            "N-308",
+            "N-1280"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1309",
+      "family_ref": "A-1309",
+      "bundle_name": "N102DZ Plane Tracking Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1309.1",
+          "ref": "A-1309.1",
+          "description": "N102DZ (G5) private jet flight, Scottsdale, AZ → Salt Lake City, UT at 7:12 AM local on day of Charlie Kirk's assassination; departure Salt Lake City → Scottsdale at ~1:00 PM same day; 15-minute ground time at Scottsdale before turn-around",
+          "related_claims": [
+            "C-1554",
+            "C-1555",
+            "C-1561"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-1282"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1310",
+      "family_ref": "A-1310",
+      "bundle_name": "Borderline Bar 2018 Shooting Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1310.1",
+          "ref": "A-1310.1",
+          "description": "News reference to November 7, 2018 Borderline Bar and Grill shooting in Thousand Oaks, CA (11 patrons plus shooter killed; former Marine)",
+          "related_claims": [
+            "C-1556"
+          ],
+          "related_nodes": [
+            "N-300",
+            "N-1279"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:04",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1311",
+      "family_ref": "A-1311",
+      "bundle_name": "Netanyahu Public Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1311.1",
+          "ref": "A-1311.1",
+          "description": "Public statement by Israeli PM Bibi Netanyahu claiming he had invited Charlie Kirk to Israel approximately two weeks before the assassination",
+          "related_claims": [
+            "C-1557"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-307",
+            "N-1275"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:15",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1312",
+      "family_ref": "A-1312",
+      "bundle_name": "Tucker Carlson TPUSA Speech Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1312.1",
+          "ref": "A-1312.1",
+          "description": "Tucker Carlson speech at TPUSA conference (July 11, 2025) referencing Jeffrey Epstein, Israel policy, foreign military service, and Bill Ackman",
+          "related_claims": [
+            "C-1559",
+            "C-1560"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-304",
+            "N-1275"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Topic",
+      "@id": "N-1282",
+      "ref": "N-1282",
+      "name": "SUBTT (Falcon 7X, Egyptian-registered) tracked into U.S. cities between 2022 and 2025, repeatedly landing in proximity t",
+      "type": "topic",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary subject of the assassination and of the host's foreign-actor / infiltration framing.",
+      "related_artifacts": [
+        "A-1301",
+        "A-1302",
+        "A-1303.1",
+        "A-1306.6",
+        "A-1309.1",
+        "A-1311.1",
+        "A-1312.1"
+      ],
+      "related_claims": [
+        "C-1545",
+        "C-1546",
+        "C-1548",
+        "C-1551",
+        "C-1552",
+        "C-1554",
+        "C-1555",
+        "C-1556",
+        "C-1557",
+        "C-1559",
+        "C-1560",
+        "C-1561"
+      ],
+      "tags": [],
+      "evidence_count": 7,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1273",
+        "N-1274",
+        "N-1275",
+        "N-1282"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-300",
+      "ref": "N-300",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Co-chair of TPUSA Faith per host; identified by host as Charlie's pastor; host links him to the Borderline Bar and Grill shooting community (Thousand Oaks, CA) and to Sean Feucht.",
+      "related_artifacts": [
+        "A-1301.1",
+        "A-1301.2",
+        "A-1302.1",
+        "A-1306.5",
+        "A-1310.1"
+      ],
+      "related_claims": [
+        "C-1549",
+        "C-1556",
+        "C-1565"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-302",
+        "N-1275",
+        "N-1279"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-301",
+      "ref": "N-301",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Promoted to Chief of Staff of TPUSA on January 3, 2024 per host's referenced internal email; host reports TPUSA insiders describe him as positioned to take over from Charlie Kirk.",
+      "related_artifacts": [
+        "A-1303.1",
+        "A-1304.1"
+      ],
+      "related_claims": [
+        "C-1547",
+        "C-1548"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1278"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-302",
+      "ref": "N-302",
+      "name": "Sean Feucht",
+      "type": "person",
+      "description": "TPUSA Faith contributor and Kingdom to the Capital Tour leader; subject of June 2025 article detailing fraud, embezzlement, and financial mismanagement allegations; reported to be planning a \"Courageous Christianity Tour\" with Rob McCoy honoring Charlie.",
+      "related_artifacts": [
+        "A-1301.1",
+        "A-1301.2",
+        "A-1302.1",
+        "A-1305.1",
+        "A-1306.5",
+        "A-1307.1"
+      ],
+      "related_claims": [
+        "C-1549",
+        "C-1565",
+        "C-1566"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-300",
+        "N-1275",
+        "N-1280"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-304",
+      "ref": "N-304",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Speaker at TPUSA conference July 11, 2025, referencing Epstein, Israel, foreign military service, and Bill Ackman; per host, told by Charlie to \"go hard at Israel.\"",
+      "related_artifacts": [
+        "A-1312.1"
+      ],
+      "related_claims": [
+        "C-1559",
+        "C-1560"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-1275"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-305",
+      "ref": "N-305",
+      "name": "Andrew Kolb",
+      "type": "person",
+      "description": "Cited by host as someone who can confirm Netanyahu's offer to fund TPUSA.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1562"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-307",
+        "N-1275"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-306",
+      "ref": "N-306",
+      "name": "Village Crazy Lady (Melissa)",
+      "type": "person",
+      "description": "X user (handle @VillageCrazyLady) conducting NAR / TPUSA Faith research; recommended by host as a follow.",
+      "related_artifacts": [
+        "A-1307.1"
+      ],
+      "related_claims": [
+        "C-1566"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-302",
+        "N-1276"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-307",
+      "ref": "N-307",
+      "name": "Bibi Netanyahu",
+      "type": "person",
+      "description": "Israeli Prime Minister; per host and a referenced public statement, claimed he invited Charlie Kirk to Israel ~2 weeks before the assassination; per host, offered to fund TPUSA \"to the next level.\"",
+      "related_artifacts": [
+        "A-1311.1"
+      ],
+      "related_claims": [
+        "C-1557",
+        "C-1562"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-305",
+        "N-1275"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-308",
+      "ref": "N-308",
+      "name": "Joel Osteen",
+      "type": "person",
+      "description": "Pastor of referenced megachurch; used as comparative context in the host's broader cash / mega-church money-flow argument.",
+      "related_artifacts": [
+        "A-1308.1"
+      ],
+      "related_claims": [
+        "C-1558"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1280"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-309",
+      "ref": "N-309",
+      "name": "Jack Hibbs",
+      "type": "person",
+      "description": "Pastor identified by host as having been previously pushed to her by PragerU; subject of a live-chat comment criticizing his silence on Charlie Kirk.",
+      "related_artifacts": [
+        "A-1306.2"
+      ],
+      "related_claims": [
+        "C-1564"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1275"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-310",
+      "ref": "N-310",
+      "name": "Joe Kent",
+      "type": "person",
+      "description": "Named by host as a potential recipient of the public call to pull flight manifests.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1545",
+        "C-1546"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1273",
+        "N-1274"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1273",
+      "ref": "N-1273",
+      "name": "SUBTT (Egyptian military aircraft) Flight Tracking Question",
+      "type": "investigation_target",
+      "description": "Persistent investigative target across 2022–2025 relating to the host's claim that the aircraft's itinerary repeatedly coincides with TPUSA, TPUSA Faith, and Charlie Kirk locations.",
+      "related_artifacts": [
+        "A-1301.1",
+        "A-1301.2",
+        "A-1301.3",
+        "A-1301.4",
+        "A-1301.5",
+        "A-1301.6",
+        "A-1301.7",
+        "A-1301.8",
+        "A-1301.9"
+      ],
+      "related_claims": [
+        "C-1545",
+        "C-1548",
+        "C-1551",
+        "C-1561"
+      ],
+      "tags": [],
+      "evidence_count": 9,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-300",
+        "N-302",
+        "N-310"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1274",
+      "ref": "N-1274",
+      "name": "SUBND (Egyptian military aircraft) Flight Tracking Question",
+      "type": "investigation_target",
+      "description": "Secondary Egyptian plane tracked by host; arrival/departure pattern around TPUSA / Charlie Kirk locations and post-assassination departure via Canada → Paris → Cairo.",
+      "related_artifacts": [
+        "A-1302.1",
+        "A-1302.2",
+        "A-1302.3",
+        "A-1302.4"
+      ],
+      "related_claims": [
+        "C-1546",
+        "C-1550",
+        "C-1552"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-310"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1275",
+      "ref": "N-1275",
+      "name": "TPUSA Faith / Christian Zionist Infiltration Question",
+      "type": "investigation_target",
+      "description": "Composite investigative target covering TPUSA Faith leadership (Rob McCoy, Sean Feucht), Tucker Carlson speech fallout, Netanyahu outreach, Jack Hibbs silence, and Village Crazy Lady NAR research.",
+      "related_artifacts": [
+        "A-1305.1",
+        "A-1306.2",
+        "A-1306.5",
+        "A-1307.1",
+        "A-1311.1",
+        "A-1312.1"
+      ],
+      "related_claims": [
+        "C-1549",
+        "C-1557",
+        "C-1559",
+        "C-1560",
+        "C-1562",
+        "C-1564",
+        "C-1565",
+        "C-1566"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-300",
+        "N-302",
+        "N-85",
+        "N-304",
+        "N-305",
+        "N-307",
+        "N-309",
+        "N-1276",
+        "N-1278"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1276",
+      "ref": "N-1276",
+      "name": "NAR (New Apostolic Reformation) Infiltration Question",
+      "type": "investigation_target",
+      "description": "Persistent investigative target initiated by host and Village Crazy Lady regarding NAR's connection to TPUSA Faith leadership.",
+      "related_artifacts": [
+        "A-1307.1"
+      ],
+      "related_claims": [
+        "C-1566"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-302",
+        "N-306",
+        "N-1275"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1277",
+      "ref": "N-1277",
+      "name": "Lincoln, Nebraska TPUSA Chapter Origin Question",
+      "type": "investigation_target",
+      "description": "Investigative target arising from the SUBTT February 9, 2024 arrival in Lincoln and the subsequent UNL TPUSA chapter launch (date disputed between host and producer — see Flag on A-1303.1).",
+      "related_artifacts": [
+        "A-1301.4",
+        "A-1301.7",
+        "A-1301.8",
+        "A-1303.1"
+      ],
+      "related_claims": [
+        "C-1548"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-301"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1278",
+      "ref": "N-1278",
+      "name": "TPUSA Financial Irregularities Question",
+      "type": "investigation_target",
+      "description": "Composite investigative target covering Mikey McCoy's promotion, host's claim that Charlie did not know the source of TPUSA funding, and the broader money-laundering framing.",
+      "related_artifacts": [
+        "A-1304.1"
+      ],
+      "related_claims": [
+        "C-1547",
+        "C-1563"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-301",
+        "N-1275",
+        "N-1280"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1279",
+      "ref": "N-1279",
+      "name": "Rob McCoy / Tyler Bowyer Background Verification",
+      "type": "investigation_target",
+      "description": "Investigative target combining host's claims regarding Rob McCoy's connection to the Borderline Bar shooting and Tyler Bowyer's biography, internships, and Arizona political activity.",
+      "related_artifacts": [
+        "A-1310.1"
+      ],
+      "related_claims": [
+        "C-1556"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-300",
+        "N-85"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1280",
+      "ref": "N-1280",
+      "name": "Mega-Church / Cash / Real-Estate Money Flow Hypothesis",
+      "type": "investigation_target",
+      "description": "Investigative target arising from host's framing of cash-discovery patterns (Osteen), TPUSA Faith financial allegations (Feucht), and Mormon real-estate cash purchase patterns.",
+      "related_artifacts": [
+        "A-1305.1",
+        "A-1308.1"
+      ],
+      "related_claims": [
+        "C-1549",
+        "C-1558"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-302",
+        "N-308",
+        "N-1278"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Governor Cox",
+      "type": "person",
+      "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-1545",
+      "ref": "C-1545",
+      "label": "SUBTT (Falcon 7X, Egyptian-registered) tracked into U.S. cities between 2022 and 2025, repeatedly landing in proximity to TPUSA / TPUSA Faith / Charlie Kirk events",
+      "claim": "The episode presents Flightradar tracking data showing the Egyptian-registered Falcon 7X tail number SUBTT making multiple U.S. arrivals between 2022 and September 2025 in locations including St. Louis, Kansas, Lincoln (NE), Wichita, and Provo, in temporal proximity to TPUSA, TPUSA Faith, or Charlie Kirk events.",
+      "anchored_artifacts": [
+        "A-1301.1",
+        "A-1301.2",
+        "A-1301.3",
+        "A-1301.4",
+        "A-1301.5",
+        "A-1301.6",
+        "A-1301.7",
+        "A-1301.8",
+        "A-1301.9"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-300",
+        "N-302",
+        "N-310",
+        "N-1273"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:35",
+      "investigative_direction": "Pull official Flightradar / ADS-B archives for SUBTT across the cited dates; verify whether route and timing correlate with documented TPUSA / TPUSA Faith events as claimed."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1546",
+      "ref": "C-1546",
+      "label": "SUBND (Gulfstream 4, Egyptian-registered) tracked into U.S. cities across 2023–2025 with pattern of extended stays and post-event departures",
+      "claim": "The episode presents Flightradar tracking data showing the Egyptian-registered Gulfstream 4 tail number SUBND arriving in St. Louis on February 21, 2023 (remaining until May), arriving in Provo on April 19, 2024, arriving in Provo on May 23, 2025, and departing Provo on September 13, 2025 via Canada and Paris back to Cairo.",
+      "anchored_artifacts": [
+        "A-1302.1",
+        "A-1302.2",
+        "A-1302.3",
+        "A-1302.4"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-310",
+        "N-1274"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:38",
+      "investigative_direction": "Verify Flightradar archive for SUBND on each cited date; cross-reference ground-time anomalies with TPUSA / TPUSA Faith event timing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1547",
+      "ref": "C-1547",
+      "label": "Mikey McCoy promoted to TPUSA Chief of Staff on January 3, 2024",
+      "claim": "The episode states that Mikey McCoy was promoted to Chief of Staff of Turning Point USA on January 3, 2024, citing an internal TPUSA email referenced but not displayed on screen.",
+      "anchored_artifacts": [
+        "A-1304.1"
+      ],
+      "related_nodes": [
+        "N-301",
+        "N-1278"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:27",
+      "investigative_direction": "Obtain the referenced internal TPUSA email through open-source verification or insider corroboration; cross-check TPUSA organizational filings and HR records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1548",
+      "ref": "C-1548",
+      "label": "TPUSA UNL Chapter Launch Display Date Conflict Between Host Assertion (February 2024) and Producer Correction (May 2025)",
+      "claim": "The episode displays a TPUSA UNL Instagram post announcing the chapter's first weekly meeting; the host initially dates this to February 11, 2024, while producer Mark corrects the date to May 2025 in the live-show segment. Both assertions are recorded as competing host-side positions against a single artifact.",
+      "anchored_artifacts": [
+        "A-1303.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-301",
+        "N-1277"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:57",
+      "investigative_direction": "Re-examine the original Instagram post metadata (post date, capture date) to resolve the dating discrepancy between host and producer."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1549",
+      "ref": "C-1549",
+      "label": "Sean Feucht publicly accused of fraud, embezzlement, and financial mismanagement by multiple organizations in June 2025",
+      "claim": "The episode references a June 2025 article documenting multiple organizational allegations against Sean Feucht, including use of business credit cards for personal expenses, diversion of donations to personal accounts, inflated vendor payments, ministry funds used to rent his personal Montana cabin for board meetings, and ownership of multiple high-value properties.",
+      "anchored_artifacts": [
+        "A-1305.1",
+        "A-1306.5"
+      ],
+      "related_nodes": [
+        "N-302",
+        "N-1275",
+        "N-1280"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:47",
+      "investigative_direction": "Retrieve the cited article directly; confirm each enumerated allegation against underlying source documents and any subsequent legal filings."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1550",
+      "ref": "C-1550",
+      "label": "SUBND May 23, 2025 Provo Arrival Described by Host as Possible Maintenance Stop",
+      "claim": "The episode characterizes the May 23, 2025 Provo arrival of SUBND as appearing to be a \"legitimate maintenance stop\" based on observed test-flying activity around that time.",
+      "anchored_artifacts": [
+        "A-1302.3"
+      ],
+      "related_nodes": [
+        "N-1274"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:47",
+      "investigative_direction": "Verify against FAA / airport maintenance logs whether a documented maintenance event is associated with the SUBND arrival."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1551",
+      "ref": "C-1551",
+      "label": "SUBTT Arrived in Provo on September 4, 2025 as a \"Full Plane\"",
+      "claim": "The episode presents that SUBTT landed in Provo on September 4, 2025 at 12:46 PM and that, per a \"person overseas who had intimate knowledge,\" the plane was full on arrival.",
+      "anchored_artifacts": [
+        "A-1301.9"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1273"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:39",
+      "investigative_direction": "Cross-reference Provo airport manifest or charter operator records; locate and contact the referenced overseas source for further detail."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1552",
+      "ref": "C-1552",
+      "label": "SUBND Departed Provo on September 13, 2025 via Canada → Paris → Cairo",
+      "claim": "The episode presents that the SUBND plane left Provo on September 13, 2025, three days after Charlie Kirk's assassination, routing through Canada and Paris back to Cairo.",
+      "anchored_artifacts": [
+        "A-1302.4"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1274"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:48",
+      "investigative_direction": "Verify against Flightradar archives; obtain Canadian / French ATC transit records and Cairo arrival logs to identify passengers."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1553",
+      "ref": "C-1553",
+      "label": "Tail Number of One Egyptian Plane Was Googled from Israel on September 8, 2025",
+      "claim": "The host states that the blue plane's tail number was Googled from Israel on September 8, 2025, two days before the assassination, in response to a live-chat comment suggesting Google Trends correlation.",
+      "anchored_artifacts": [
+        "A-1306.4"
+      ],
+      "related_nodes": [
+        "N-1273",
+        "N-1274",
+        "N-1275"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:33",
+      "investigative_direction": "Verify via Google Trends / search-source attribution whether the cited tail-number search spike from Israeli IP ranges on September 8, 2025 is reproducible."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1554",
+      "ref": "C-1554",
+      "label": "N102DZ Flew Scottsdale → Salt Lake City at 7:12 AM on Day of Assassination",
+      "claim": "The episode presents that N102DZ (G5 private jet) departed Scottsdale for Salt Lake City at 7:12 AM local time on the day of Charlie Kirk's assassination and landed at 9:23 AM local.",
+      "anchored_artifacts": [
+        "A-1309.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1282"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:24",
+      "investigative_direction": "Pull Flightradar / FAA archives for N102DZ on September 10, 2025; identify operator and registered owner; cross-reference with Scottsdale and Salt Lake City airport logs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1555",
+      "ref": "C-1555",
+      "label": "N102DZ Departed Salt Lake City at ~1:00 PM on Day of Assassination After a 15-Minute Scottsdale Turn-Around",
+      "claim": "The episode presents that N102DZ departed Salt Lake City at ~1:00 PM local on September 10, 2025, returned to Scottsdale, remained on the ground ~15 minutes, and turned back toward Scottsdale.",
+      "anchored_artifacts": [
+        "A-1309.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1282"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:20",
+      "investigative_direction": "Verify the second-leg flight path; cross-check with Flightradar archives and FAA tracks."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1556",
+      "ref": "C-1556",
+      "label": "Borderline Bar and Grill Shooting Occurred November 7, 2018 in Thousand Oaks, CA, Killing 11 Patrons Plus Shooter",
+      "claim": "The episode references the November 7, 2018 shooting at Borderline Bar and Grill in Thousand Oaks, CA, in which a former Marine killed 11 patrons and himself, with additional Marine/veteran victims present.",
+      "anchored_artifacts": [
+        "A-1310.1"
+      ],
+      "related_nodes": [
+        "N-300",
+        "N-1279"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:04",
+      "investigative_direction": "Confirm event details against contemporaneous news coverage; verify any documented role of Rob McCoy as pastor to the shooter's family."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1557",
+      "ref": "C-1557",
+      "label": "Netanyahu Publicly Stated He Invited Charlie Kirk to Israel Approximately Two Weeks Before Assassination",
+      "claim": "The episode reports that Israeli Prime Minister Bibi Netanyahu publicly stated he had called Charlie Kirk approximately two weeks before the assassination and invited him to Israel.",
+      "anchored_artifacts": [
+        "A-1311.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-307",
+        "N-1275"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:15",
+      "investigative_direction": "Locate the cited Netanyahu public statement (interview, press conference, or social-media post) and verify exact wording and date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1558",
+      "ref": "C-1558",
+      "label": "Joel Osteen's Megachurch Had Approximately $500,000 in Cash Discovered by a Plumber",
+      "claim": "The episode references a news story in which a plumber repairing a toilet at Joel Osteen's megachurch discovered approximately $500,000 in cash stuffed in envelopes inside a wall, with Osteen's public response framed as acknowledging missing church funds.",
+      "anchored_artifacts": [
+        "A-1308.1"
+      ],
+      "related_nodes": [
+        "N-308",
+        "N-1280"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:46",
+      "investigative_direction": "Retrieve the underlying news article; verify the exact amount, date, and Osteen's official response."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1559",
+      "ref": "C-1559",
+      "label": "Tucker Carlson Gave a Speech at TPUSA Conference on July 11, 2025 Addressing Epstein, Israel, and Foreign Military Service",
+      "claim": "The episode presents that Tucker Carlson delivered a speech at the TPUSA conference on July 11, 2025 referencing Jeffrey Epstein, questioning U.S. alignment with Israel, suggesting citizenship revocation for foreign-military service, and musing on Bill Ackman's wealth.",
+      "anchored_artifacts": [
+        "A-1312.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-304",
+        "N-1275"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:39",
+      "investigative_direction": "Obtain the Tucker Carlson TPUSA July 11, 2025 speech (video / transcript) and verify each cited claim against his actual statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1560",
+      "ref": "C-1560",
+      "label": "TPUSA Donor Confrontation with Charlie Kirk Immediately Following Tucker Carlson July 11, 2025 Speech",
+      "claim": "The host states that immediately after Tucker's July 11, 2025 speech, a female donor began yelling at Charlie Kirk about not being allowed to be anti-Israel, and that broader donor pressure subsequently warned Charlie that TPUSA \"can never\" tolerate that posture.",
+      "anchored_artifacts": [
+        "A-1312.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-304",
+        "N-85",
+        "N-1275"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:39",
+      "investigative_direction": "Locate first-person testimony, contemporaneous social-media posts, or insider accounts corroborating the immediate post-speech confrontation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1561",
+      "ref": "C-1561",
+      "label": "Live-Chat Comment Reports Charlie Kirk Did Fly into Salt Lake City for a \"Restaurantology Summit\" Interview",
+      "claim": "An unattributed live-chat comment, read aloud by the host, reports that Charlie Kirk did in fact fly into Salt Lake City on September 10, 2025 for an interview with \"Restaurantology Summit,\" and the host accepts the comment as resolving the N102DZ SLC mystery.",
+      "anchored_artifacts": [
+        "A-1306.6",
+        "A-1309.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1282"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:11",
+      "investigative_direction": "Verify existence of a Charlie Kirk \"Restaurantology Summit\" interview; cross-check with N102DZ passenger manifest if obtainable."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1562",
+      "ref": "C-1562",
+      "label": "Host Asserts Netanyahu Offered to Fund TPUSA and Andrew Kolb Can Confirm",
+      "claim": "The host states that Netanyahu offered to \"fund Turning Point to the next level,\" that Charlie declined, and that Andrew Kolb should be able to confirm the offer.",
+      "anchored_artifacts": [
+        "A-1311.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-305",
+        "N-307",
+        "N-1275"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:15",
+      "investigative_direction": "Obtain direct confirmation from Andrew Kolb (public statement, interview, or testimony) corroborating the funding-offer claim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1563",
+      "ref": "C-1563",
+      "label": "Host Asserts Charlie Kirk Did Not Know the Source of TPUSA Funding and Created DOGE to Trace It",
+      "claim": "The host states that Charlie Kirk did not know where TPUSA's money was coming from or going to, and that this motivated him to \"establish the internet DOGE.\"",
+      "anchored_artifacts": [
+        "A-1304.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-1278"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:00",
+      "investigative_direction": "Locate any direct statement from Charlie Kirk regarding TPUSA funding opacity; verify the DOGE organizational structure and stated mission."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1564",
+      "ref": "C-1564",
+      "label": "Live-Chat Critics Condemn TPUSA-Affiliated Pastors and Christian Zionist Silence After Charlie Kirk Assassination",
+      "claim": "The episode reads aloud multiple live-chat comments criticizing Pastor Jack Hibbs's silence, condemning Christian Zionist loyalty replacing loyalty to \"God, the church, and the truth,\" and explicitly defending the host's investigation against Zionist criticism.",
+      "anchored_artifacts": [
+        "A-1306.1",
+        "A-1306.2",
+        "A-1306.3"
+      ],
+      "related_nodes": [
+        "N-309",
+        "N-1275"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:11",
+      "investigative_direction": "Verify each named pastor / figure's public silence or statements in the period following September 10, 2025."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1565",
+      "ref": "C-1565",
+      "label": "Sean Feucht and Rob McCoy Reportedly Planning \"Courageous Christianity Tour\" Honoring Charlie Kirk",
+      "claim": "Live-chat comment \"Tim Morgan\" states that Sean Feucht and Pastor McCoy are planning a \"Courageous Christianity Tour\" to honor Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-1306.5"
+      ],
+      "related_nodes": [
+        "N-300",
+        "N-302",
+        "N-1",
+        "N-1275"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:33",
+      "investigative_direction": "Verify the existence and details of any announced \"Courageous Christianity Tour\" through TPUSA Faith announcements, ticketing sites, or insider confirmations."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-1567",
+      "ref": "C-1567",
+      "label": "Sub-Claim: Host Asserts Rob McCoy Identified as Charlie Kirk's Pastor",
+      "claim": "The host states that Rob McCoy \"says, 'I was his pastor,'\" and characterizes Rob McCoy's pattern of proximity to mass-shooting events as suspect.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-300",
+        "N-1279"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:58",
+      "investigative_direction": "Locate any public statement by Rob McCoy identifying himself as Charlie Kirk's pastor; verify the nature and duration of any pastoral relationship."
+    }
+  ],
+  "memes": []
+}

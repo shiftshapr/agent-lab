@@ -1,0 +1,1411 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 92,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "eb7f190e817800aabce4c7b6b9fa93761c5d8561e5cca0d59bcaf75640fafa30",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1965",
+      "family_ref": "A-1965",
+      "bundle_name": "TPUSA UGA Staff Promotion Video",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1965.1",
+          "ref": "A-1965.1",
+          "description": "Video clip of TPUSA UGA staff (Grant Tyler, Caroline) promoting Erika Kirk and JD Vance at Akins Ford Arena, posted ~50 minutes before doors opened.",
+          "related_claims": [
+            "C-2722",
+            "C-2723"
+          ],
+          "related_nodes": [
+            "N-1014",
+            "N-4",
+            "N-5",
+            "N-1682"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:28",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1966",
+      "family_ref": "A-1966",
+      "bundle_name": "UGA Event Stage Announcements Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1966.1",
+          "ref": "A-1966.1",
+          "description": "Andrew Kolvet on-stage announcement that Erika Kirk would not appear, citing \"very serious threats.\"",
+          "related_claims": [
+            "C-2722",
+            "C-2724",
+            "C-2743"
+          ],
+          "related_nodes": [
+            "N-1014",
+            "N-4",
+            "N-5",
+            "N-1682",
+            "N-1687"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:03:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1966.2",
+          "ref": "A-1966.2",
+          "description": "JD Vance on-stage response defending Erika Kirk against criticism of her grief.",
+          "related_claims": [
+            "C-2743"
+          ],
+          "related_nodes": [
+            "N-1014",
+            "N-4"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1967",
+      "family_ref": "A-1967",
+      "bundle_name": "Fox News Andrew Kolvet Interview",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1967.1",
+          "ref": "A-1967.1",
+          "description": "Fox News interview clip in which Andrew Kolvet states TPUSA security team \"could not guarantee\" Erika's safety and references her children being \"one parent away from being orphans.\"",
+          "related_claims": [
+            "C-2725",
+            "C-2729",
+            "C-2742"
+          ],
+          "related_nodes": [
+            "N-1014",
+            "N-5",
+            "N-1682"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1968",
+      "family_ref": "A-1968",
+      "bundle_name": "Andrew Kolvet Charlie Kirk Show Interview",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1968.1",
+          "ref": "A-1968.1",
+          "description": "Audio/video clip of Andrew Kolvet on Charlie Kirk's show describing the cancellation as tied to monitored \"online chatter,\" doxing of travel, and inability of security to guarantee safety.",
+          "related_claims": [
+            "C-2726",
+            "C-2742"
+          ],
+          "related_nodes": [
+            "N-1014",
+            "N-5",
+            "N-1682",
+            "N-1687"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:31:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1969",
+      "family_ref": "A-1969",
+      "bundle_name": "Daily Wire Threat Explanation Tweet",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1969.1",
+          "ref": "A-1969.1",
+          "description": "Tweet attributed to Daily Wire summarizing a TPUSA official's account: travel-itinerary doxing, multiple direct threats, and chief concern over the travel portion rather than the venue.",
+          "related_claims": [
+            "C-2727",
+            "C-2742"
+          ],
+          "related_nodes": [
+            "N-1014",
+            "N-5",
+            "N-1682"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:08:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1970",
+      "family_ref": "A-1970",
+      "bundle_name": "Erika Kirk X Post",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1970.1",
+          "ref": "A-1970.1",
+          "description": "Erika Kirk X post stating she was \"looking forward to tonight's event\" but cancelled because she takes her \"security team's recommendations extremely seriously.\"",
+          "related_claims": [
+            "C-2728",
+            "C-2742"
+          ],
+          "related_nodes": [
+            "N-1014",
+            "N-1682"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:16:03",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1971",
+      "family_ref": "A-1971",
+      "bundle_name": "Erika Kirk Jesse Watters Interview Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1971.1",
+          "ref": "A-1971.1",
+          "description": "Clip of Erika Kirk on Jesse Watters stating she is not afraid because threats would simply send her \"to heaven sooner to be with my husband.\"",
+          "related_claims": [
+            "C-2729",
+            "C-2740"
+          ],
+          "related_nodes": [
+            "N-1014",
+            "N-1686"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:40",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1972",
+      "family_ref": "A-1972",
+      "bundle_name": "UGA High School Cancellation Notice",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1972.1",
+          "ref": "A-1972.1",
+          "description": "Email/text \"Parent Alert\" sent Monday 2026-04-13 cancelling the Tuesday 2026-04-14 high-school event, citing \"scheduling complications.\" The notice references a date of \"September 14th.\"",
+          "related_claims": [
+            "C-2730",
+            "C-2731",
+            "C-2732"
+          ],
+          "related_nodes": [
+            "N-1014",
+            "N-5",
+            "N-1687"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:19:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1973",
+      "family_ref": "A-1973",
+      "bundle_name": "Pinnacle High School Parent Facebook Chat",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1973.1",
+          "ref": "A-1973.1",
+          "description": "Screenshot of a Pinnacle High School (Phoenix, AZ) parent-organized Facebook chat calling Erika Kirk's appearance \"highly inappropriate and a safety risk\" and urging parents to call kids out of school.",
+          "related_claims": [
+            "C-2731"
+          ],
+          "related_nodes": [
+            "N-1014",
+            "N-1685"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:21:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1974",
+      "family_ref": "A-1974",
+      "bundle_name": "Jake Trailer MS Now Tweet",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1974.1",
+          "ref": "A-1974.1",
+          "description": "Tweet from MS Now reporter Jake Trailer reporting that the Akins Ford Arena was \"less than 25% filled\" for the VP event, with attached venue footage.",
+          "related_claims": [
+            "C-2733"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-1014",
+            "N-4",
+            "N-1683"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:13",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1975",
+      "family_ref": "A-1975",
+      "bundle_name": "Victor Marx Video Response",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1975.1",
+          "ref": "A-1975.1",
+          "description": "Instagram/X video posted by Victor Marx in response to Candace Owens' previous episode, captioned \"Well, all righty then. Love you, Candace. Let me know when you want me to come on the show. Praying for you.\"",
+          "related_claims": [
+            "C-2734",
+            "C-2735"
+          ],
+          "related_nodes": [
+            "N-1015",
+            "N-6",
+            "N-1210",
+            "N-1688"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1976",
+      "family_ref": "A-1976",
+      "bundle_name": "Candace Owens Public Comment Reply to Victor Marx",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1976.1",
+          "ref": "A-1976.1",
+          "description": "Candace Owens' public Instagram comment beneath Marx's video, inviting Marx to appear with Corby Hall and confirming Hall's agreement.",
+          "related_claims": [
+            "C-2735",
+            "C-2736"
+          ],
+          "related_nodes": [
+            "N-1015",
+            "N-6",
+            "N-1210",
+            "N-1688"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1977",
+      "family_ref": "A-1977",
+      "bundle_name": "Candace Owens DM to Victor Marx",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1977.1",
+          "ref": "A-1977.1",
+          "description": "Candace Owens' private DM to Victor Marx requesting a phone number to set up an on-air joint appearance with Corby Hall; states no read receipt observed prior to air.",
+          "related_claims": [
+            "C-2736"
+          ],
+          "related_nodes": [
+            "N-1015",
+            "N-6",
+            "N-1210",
+            "N-1688"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1978",
+      "family_ref": "A-1978",
+      "bundle_name": "Marcus Wada TPUSA Bio",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1978.1",
+          "ref": "A-1978.1",
+          "description": "Marcus Wada's biographical page on the TPUSA website identifying him as \"director of strategy of productions,\" listing film/TV credits including Miss Universe and TPUSA documentaries \"Border Battle\" and \"The Great Global Reset.\"",
+          "related_claims": [
+            "C-2737",
+            "C-2738"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1684"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:46",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1979",
+      "family_ref": "A-1979",
+      "bundle_name": "Wada Brother Consulting Company Website",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1979.1",
+          "ref": "A-1979.1",
+          "description": "Website of Marcus Wada's brother's consulting firm listing \"Industry Areas\" including national border security, money laundering, human trafficking, sex trafficking, firearms and ammunition, and controlled substances.",
+          "related_claims": [
+            "C-2739"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1684",
+            "N-1689"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:46:09",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1980",
+      "family_ref": "A-1980",
+      "bundle_name": "Anonymous TPUSA Employee Testimonial",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1980.1",
+          "ref": "A-1980.1",
+          "description": "Verbal report from unnamed current and former TPUSA employees stating that Marcus Wada openly discusses past involvement in trafficking arms in Poland and is closely associated with Andrew Kolvet.",
+          "related_claims": [
+            "C-2741"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-5",
+            "N-1684"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:41",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Central deceased figure of the series; referenced as author of named show on which Andrew Kolvet appeared (A-31).",
+      "related_artifacts": [
+        "A-1968.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1014",
+        "N-5",
+        "N-1687"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1014",
+      "ref": "N-1014",
+      "name": "Erica Kirk",
+      "type": "investigation_target",
+      "description": "Subject of the no-show event; signatory of the X-post explanation; subject of Jesse Watters interview clip; named in high-school and Pinnacle cancellations.",
+      "related_artifacts": [
+        "A-1965.1",
+        "A-1966.1",
+        "A-1966.2",
+        "A-1967.1",
+        "A-1968.1",
+        "A-1969.1",
+        "A-1970.1",
+        "A-1971.1",
+        "A-1972.1",
+        "A-1973.1",
+        "A-1974.1"
+      ],
+      "related_claims": [
+        "C-2722",
+        "C-2724",
+        "C-2725",
+        "C-2726",
+        "C-2727",
+        "C-2728",
+        "C-2729",
+        "C-2730",
+        "C-2731",
+        "C-2733",
+        "C-2740",
+        "C-2742",
+        "C-2743"
+      ],
+      "tags": [],
+      "evidence_count": 11,
+      "claim_count": 13,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1682",
+        "N-1683",
+        "N-1685",
+        "N-1686",
+        "N-1687"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Vice President; originally scheduled co-appearer at UGA; subject of on-stage response (A-1966.2).",
+      "related_artifacts": [
+        "A-1965.1",
+        "A-1966.1",
+        "A-1966.2",
+        "A-1974.1"
+      ],
+      "related_claims": [
+        "C-2722",
+        "C-2743"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "TPUSA official; on-stage announcer (A-1966.1); Fox News interviewee (A-1967.1); Charlie Kirk show interviewee (A-1968.1); referenced as close associate of Marcus Wada (A-1980.1). Name spelling varies across source (\"Kovette,\" \"Kovat,\" \"Kolvet\"); preserved as \"Andrew Kolvet.\"",
+      "related_artifacts": [
+        "A-1966.1",
+        "A-1967.1",
+        "A-1968.1",
+        "A-1980.1"
+      ],
+      "related_claims": [
+        "C-2724",
+        "C-2725",
+        "C-2726",
+        "C-2742"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207",
+        "N-1682",
+        "N-1687"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-6",
+      "ref": "N-6",
+      "name": "Elizabeth Lane *(reused from Episode 1)*",
+      "type": "person",
+      "description": "Pastor; subject of prior biographical scrutiny; author of video response (A-1975.1) and recipient of Candace's reply (A-1976.1) and DM (A-1977.1).",
+      "related_artifacts": [
+        "A-1975.1",
+        "A-1976.1",
+        "A-1977.1"
+      ],
+      "related_claims": [
+        "C-2734",
+        "C-2735",
+        "C-2736"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1210",
+        "N-1688"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1015",
+      "ref": "N-1015",
+      "name": "Tim Ballard",
+      "type": "investigation_target",
+      "description": "Mentioned in passing within the connecting-themes list (Operation Underground). Pre-existing node; no new artifact attached.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1689"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Newly introduced TPUSA \"director of strategy of productions\"; subject of bio (A-1978.1), brother-consulting-company reference (A-1979.1), and anonymous insider arms-trafficking claim (A-1980.1).",
+      "related_artifacts": [
+        "A-1978.1",
+        "A-1979.1",
+        "A-1980.1"
+      ],
+      "related_claims": [
+        "C-2737",
+        "C-2738",
+        "C-2739",
+        "C-2741"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-5",
+        "N-1684"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "MS Now reporter; author of crowd-size tweet (A-1974.1).",
+      "related_artifacts": [
+        "A-1974.1"
+      ],
+      "related_claims": [
+        "C-2733"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1683"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "TPUSA \"Frontlines\" reporter in Minneapolis; cited by Kolvet as precedent for security concerns (A-1967.1).",
+      "related_artifacts": [
+        "A-1967.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-5"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Subject of Victor Marx-related letter; agreed to appear on Candace's show with Marx; named in A-1976.1 and A-1977.1.",
+      "related_artifacts": [
+        "A-1976.1",
+        "A-1977.1"
+      ],
+      "related_claims": [
+        "C-2735",
+        "C-2736"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-6",
+        "N-1688"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1682",
+      "ref": "N-1682",
+      "name": "UGA No-Show Security Threat Explanation Discrepancy",
+      "type": "investigation_target",
+      "description": "Persistent cross-artifact inconsistency between the on-stage, Fox News, Charlie Kirk Show, Daily Wire, and Erika Kirk X-post explanations of the UGA no-show.",
+      "related_artifacts": [
+        "A-1965.1",
+        "A-1966.1",
+        "A-1967.1",
+        "A-1968.1",
+        "A-1969.1",
+        "A-1970.1"
+      ],
+      "related_claims": [
+        "C-2724",
+        "C-2725",
+        "C-2726",
+        "C-2727",
+        "C-2728",
+        "C-2742"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1014",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1683",
+      "ref": "N-1683",
+      "name": "TPUSA UGA Event Crowd-Size Failure",
+      "type": "investigation_target",
+      "description": "Discrepancy between event-promotional framing and reported venue occupancy (A-1974.1), with host reporting additional internal failure to move tickets in prior Washington DC event with Caroline Levit.",
+      "related_artifacts": [
+        "A-1974.1"
+      ],
+      "related_claims": [
+        "C-2733"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1014",
+        "N-4",
+        "N-1208"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1684",
+      "ref": "N-1684",
+      "name": "Marcus Wada Arms Trafficking and Biography Cluster",
+      "type": "investigation_target",
+      "description": "Aggregation of (i) insider-reported arms-trafficking history in Poland, (ii) TPUSA bio omission, (iii) brother-consulting firm industry-area list.",
+      "related_artifacts": [
+        "A-1978.1",
+        "A-1979.1",
+        "A-1980.1"
+      ],
+      "related_claims": [
+        "C-2737",
+        "C-2739",
+        "C-2741"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1685",
+      "ref": "N-1685",
+      "name": "Pinnacle High School Parent Boycott",
+      "type": "investigation_target",
+      "description": "Active parental and teacher mobilization against Erika Kirk's appearance at Pinnacle High School (Phoenix).",
+      "related_artifacts": [
+        "A-1973.1"
+      ],
+      "related_claims": [
+        "C-2731"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1014"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1686",
+      "ref": "N-1686",
+      "name": "Erika Kirk Fearlessness vs. Threat Claim Inconsistency",
+      "type": "investigation_target",
+      "description": "Contradiction between Erika's stated absence of fear in the Jesse Watters interview and her subsequent security-threat justification for cancellation.",
+      "related_artifacts": [
+        "A-1971.1",
+        "A-1970.1"
+      ],
+      "related_claims": [
+        "C-2728",
+        "C-2729",
+        "C-2740"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1014"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1687",
+      "ref": "N-1687",
+      "name": "High School \"Scheduling Complications\" vs. UGA \"Security Threats\" Explanation Inconsistency",
+      "type": "investigation_target",
+      "description": "Co-existing official explanations for two adjacent events on consecutive days, with Kolvet later retroactively folding the high school cancellation into the security framework.",
+      "related_artifacts": [
+        "A-1966.1",
+        "A-1968.1",
+        "A-1972.1"
+      ],
+      "related_claims": [
+        "C-2724",
+        "C-2730",
+        "C-2732"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1014",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1688",
+      "ref": "N-1688",
+      "name": "Victor Marx / Corby Hall On-Air Interview Proposal",
+      "type": "investigation_target",
+      "description": "Open proposal for a joint on-air appearance; Marx's reply not yet observed as of air; constitutes a pending verification target.",
+      "related_artifacts": [
+        "A-1975.1",
+        "A-1976.1",
+        "A-1977.1"
+      ],
+      "related_claims": [
+        "C-2734",
+        "C-2735",
+        "C-2736"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1015",
+        "N-6",
+        "N-1210"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1689",
+      "ref": "N-1689",
+      "name": "TPUSA Faith Department / Adjacent Charity Biographical Pattern",
+      "type": "investigation_target",
+      "description": "Cross-figure recurrence of trafficking, sex-abuse, military, and former-trafficker biographies among TPUSA and partner charity personnel (host's \"connecting themes\" spreadsheet; Wada's case as the latest instance).",
+      "related_artifacts": [
+        "A-1978.1",
+        "A-1979.1",
+        "A-1980.1"
+      ],
+      "related_claims": [
+        "C-2737",
+        "C-2739",
+        "C-2741"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1015",
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1690",
+      "ref": "N-1690",
+      "name": "TPUSA Fox News B-roll Splicing",
+      "type": "investigation_target",
+      "description": "Visual analysis presented by the host showing the Fox News clip during Kolvet's interview used B-roll spliced from prior TPUSA events rather than the actual Akins Ford Arena venue.",
+      "related_artifacts": [
+        "A-1967.1"
+      ],
+      "related_claims": [
+        "C-2725"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-5"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2722",
+      "ref": "C-2722",
+      "label": "Erika Kirk Scheduled to Appear at UGA with VP JD Vance",
+      "claim": "Erika Kirk was scheduled to appear alongside Vice President JD Vance at the University of Georgia event on 2026-04-14.",
+      "anchored_artifacts": [
+        "A-1965.1",
+        "A-1966.1"
+      ],
+      "related_nodes": [
+        "N-1014",
+        "N-4",
+        "N-5"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:28",
+      "investigative_direction": "Confirm via TPUSA event listing, UGA/Akins Ford Arena booking records, and contemporaneous press releases."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2723",
+      "ref": "C-2723",
+      "label": "UGA TPUSA Staff Uninformed of Erika's Absence",
+      "claim": "TPUSA UGA event staff (Grant Tyler, Caroline) were not informed of Erika Kirk's absence until approximately 50 minutes before doors opened, as evidenced by their posted promotion video.",
+      "anchored_artifacts": [
+        "A-1965.1"
+      ],
+      "related_nodes": [
+        "N-1014",
+        "N-5",
+        "N-1682"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:28",
+      "investigative_direction": "Cross-reference social-media post timestamps against TPUSA internal communication records; obtain statements from named staff."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2724",
+      "ref": "C-2724",
+      "label": "Andrew Kolvet Cited Security Threats as Reason for Erika's UGA No-Show",
+      "claim": "Andrew Kolvet announced on stage at the UGA event that Erika Kirk was absent due to \"very serious threats\" against her.",
+      "anchored_artifacts": [
+        "A-1966.1"
+      ],
+      "related_nodes": [
+        "N-1014",
+        "N-5",
+        "N-1682",
+        "N-1687"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:32",
+      "investigative_direction": "Obtain audio/video of the announcement; verify whether the announcement was scripted or extemporaneous."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2725",
+      "ref": "C-2725",
+      "label": "TPUSA Security Team Declined to Guarantee Erika's Safety",
+      "claim": "Andrew Kolvet stated on Fox News that TPUSA's security team told the organization \"we cannot guarantee your safety\" regarding Erika Kirk.",
+      "anchored_artifacts": [
+        "A-1967.1"
+      ],
+      "related_nodes": [
+        "N-1014",
+        "N-5",
+        "N-1682",
+        "N-1690"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:17",
+      "investigative_direction": "Obtain the full Fox News segment; identify which TPUSA security contractor is referenced."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2726",
+      "ref": "C-2726",
+      "label": "Kolvet Retroactively Reclassified High School Cancellation as Security-Driven",
+      "claim": "Andrew Kolvet stated on Charlie Kirk's show that the Monday high school event was also cancelled due to \"increased online chatter\" being monitored by TPUSA security.",
+      "anchored_artifacts": [
+        "A-1968.1"
+      ],
+      "related_nodes": [
+        "N-1014",
+        "N-5",
+        "N-1682",
+        "N-1687"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:13",
+      "investigative_direction": "Compare against the originally issued parent-alert notice (A-1972.1); determine whether the explanation was issued contemporaneously or after public criticism."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2727",
+      "ref": "C-2727",
+      "label": "Daily Wire Reported Travel Doxing and Direct Threats",
+      "claim": "The Daily Wire reported, citing a TPUSA official, that Erika Kirk's travel itinerary was being doxed, that multiple direct threats were made, and that the chief security concern was the travel portion.",
+      "anchored_artifacts": [
+        "A-1969.1"
+      ],
+      "related_nodes": [
+        "N-1014",
+        "N-5",
+        "N-1682"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:41",
+      "investigative_direction": "Identify the named TPUSA official cited by Daily Wire; verify any law-enforcement reports referenced."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2728",
+      "ref": "C-2728",
+      "label": "Erika Kirk Stated Cancellation Followed Security Team Recommendation",
+      "claim": "Erika Kirk posted on X that she cancelled because she \"takes [her] security team's recommendations extremely seriously.\"",
+      "anchored_artifacts": [
+        "A-1970.1"
+      ],
+      "related_nodes": [
+        "N-1014",
+        "N-1682",
+        "N-1686"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:03",
+      "investigative_direction": "Obtain timestamp of post relative to the on-stage announcement; verify whether the post was authored by Kirk personally."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2729",
+      "ref": "C-2729",
+      "label": "Erika Kirk Stated She Feels Safe and Fears Nothing in Jesse Watters Interview",
+      "claim": "Erika Kirk stated on Jesse Watters that she does not feel threatened and that any attempt would simply send her \"to heaven sooner.\"",
+      "anchored_artifacts": [
+        "A-1971.1"
+      ],
+      "related_nodes": [
+        "N-1014",
+        "N-1686"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:40",
+      "investigative_direction": "Confirm full interview date and air date; verify whether the clip presented is representative of the full exchange."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2730",
+      "ref": "C-2730",
+      "label": "UGA High School Event Cancelled Monday Citing \"Scheduling Complications\"",
+      "claim": "TPUSA cancelled a Monday 2026-04-13 high school event scheduled for Tuesday 2026-04-14, citing \"scheduling complications\" rather than security threats.",
+      "anchored_artifacts": [
+        "A-1972.1"
+      ],
+      "related_nodes": [
+        "N-1014",
+        "N-5",
+        "N-1687"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:16",
+      "investigative_direction": "Obtain the original email/text from TPUSA to the school; interview named administrators."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2731",
+      "ref": "C-2731",
+      "label": "Parents and Teachers Organizing Boycott of Erika Kirk at Pinnacle High School",
+      "claim": "Parents and at least one teacher are organizing a walkout/boycott of Erika Kirk's appearance at Pinnacle High School in Phoenix, citing safety concerns.",
+      "anchored_artifacts": [
+        "A-1973.1"
+      ],
+      "related_nodes": [
+        "N-1014",
+        "N-1685"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:10",
+      "investigative_direction": "Confirm event status with Pinnacle High School administration; obtain school district statement."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2732",
+      "ref": "C-2732",
+      "label": "UGA High School Cancellation Email References \"September 14th\"",
+      "claim": "The parent-alert email canceling the Georgia high school event referenced a scheduled date of \"September 14th,\" inconsistent with the actual event date of April 14, 2026.",
+      "anchored_artifacts": [
+        "A-1972.1"
+      ],
+      "related_nodes": [
+        "N-1014",
+        "N-5",
+        "N-1687"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:16",
+      "investigative_direction": "Obtain original email to determine whether \"September\" is a transcription/OCR artifact or a genuine content error."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2733",
+      "ref": "C-2733",
+      "label": "Akins Ford Arena Less Than 25% Filled for VP Event",
+      "claim": "MS Now reporter Jake Trailer reported that Akins Ford Arena was less than 25% filled for the Vice President's appearance.",
+      "anchored_artifacts": [
+        "A-1974.1"
+      ],
+      "related_nodes": [
+        "N-1014",
+        "N-4",
+        "N-1208",
+        "N-1683"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:13",
+      "investigative_direction": "Cross-reference with venue ticket-issuing records and TPUSA promotion metrics."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2734",
+      "ref": "C-2734",
+      "label": "Victor Marx Posted Video Response on Instagram/X",
+      "claim": "Victor Marx posted a short video response on Instagram and X in reply to Candace Owens' prior episode, captioned \"Well, all righty then. Love you, Candace.\"",
+      "anchored_artifacts": [
+        "A-1975.1"
+      ],
+      "related_nodes": [
+        "N-1015",
+        "N-6",
+        "N-1210",
+        "N-1688"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:35",
+      "investigative_direction": "Verify post URL, timestamp, and whether the post has since been deleted or edited."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2735",
+      "ref": "C-2735",
+      "label": "Candace Owens Invited Victor Marx to Appear with Corby Hall",
+      "claim": "Candace Owens publicly replied beneath Marx's post inviting him to appear on her show together with Corby Hall; Hall reportedly agreed.",
+      "anchored_artifacts": [
+        "A-1976.1"
+      ],
+      "related_nodes": [
+        "N-1015",
+        "N-6",
+        "N-1210",
+        "N-1688"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:47",
+      "investigative_direction": "Capture timestamped screenshots of the comment thread before any deletion."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2736",
+      "ref": "C-2736",
+      "label": "Candace Owens DM'd Victor Marx Privately Requesting a Phone Number",
+      "claim": "Candace Owens sent a private DM to Victor Marx requesting his phone number to schedule a joint appearance; as of air no read receipt had been observed.",
+      "anchored_artifacts": [
+        "A-1977.1"
+      ],
+      "related_nodes": [
+        "N-1015",
+        "N-6",
+        "N-1210",
+        "N-1688"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:36",
+      "investigative_direction": "Verify DM timestamp; await Marx's response or non-response."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2737",
+      "ref": "C-2737",
+      "label": "Marcus Wada Identified as TPUSA Director of Strategy of Productions",
+      "claim": "The TPUSA website bio identifies Marcus Wada as \"director of strategy of productions.\"",
+      "anchored_artifacts": [
+        "A-1978.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1684"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:46",
+      "investigative_direction": "Obtain archived copies of the TPUSA bio page; verify against TPUSA staff directory and IRS Form 990 disclosures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2738",
+      "ref": "C-2738",
+      "label": "Marcus Wada TPUSA Bio Lists Miss Universe and TPUSA Documentaries",
+      "claim": "Marcus Wada's TPUSA bio lists credits on Miss Universe and TPUSA documentaries \"Border Battle\" and \"The Great Global Reset.\"",
+      "anchored_artifacts": [
+        "A-1978.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1684"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:46",
+      "investigative_direction": "Cross-reference against IMDb / production credits; verify production dates and roles."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2739",
+      "ref": "C-2739",
+      "label": "Marcus Wada's Brother's Consulting Firm Lists Trafficking Among Industry Areas",
+      "claim": "The consulting firm associated with Marcus Wada's brother lists industry areas including human trafficking, sex trafficking, firearms and ammunition, money laundering, and controlled substances.",
+      "anchored_artifacts": [
+        "A-1979.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1684",
+        "N-1689"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:09",
+      "investigative_direction": "Obtain full webpage capture; identify the firm and confirm the family relationship through independent records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2740",
+      "ref": "C-2740",
+      "label": "Erika Kirk's Public Stance Reversed from Fearlessness to Security-Based Cancellation",
+      "claim": "Erika Kirk's stated public position shifted from declaring fearlessness in the earlier Jesse Watters interview to citing her security team's recommendations when canceling the UGA event.",
+      "anchored_artifacts": [
+        "A-1971.1",
+        "A-1970.1"
+      ],
+      "related_nodes": [
+        "N-1014",
+        "N-1686"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:30",
+      "investigative_direction": "Compile chronology of Kirk's public statements on personal safety; identify whether a specific triggering event is documented."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2741",
+      "ref": "C-2741",
+      "label": "Marcus Wada Reportedly Discusses Past Arms Trafficking in Poland",
+      "claim": "Per unnamed current and former TPUSA employees, Marcus Wada openly discusses past involvement in arms trafficking in Poland and is described as close to Andrew Kolvet.",
+      "anchored_artifacts": [
+        "A-1980.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-5",
+        "N-1684"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:41",
+      "investigative_direction": "Identify at least one named corroborating source; cross-reference LinkedIn history (A-1976.1) for prior Poland-based employment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2742",
+      "ref": "C-2742",
+      "label": "TPUSA Public Explanation Sequence Internally Inconsistent",
+      "claim": "TPUSA's public explanation of the UGA no-show evolved across at least five artifacts (stage announcement, Fox News interview, Charlie Kirk show interview, Daily Wire tweet, Erika Kirk X post) and contained internal inconsistencies regarding whether the high school event shared the same rationale.",
+      "anchored_artifacts": [
+        "A-1966.1",
+        "A-1967.1",
+        "A-1968.1",
+        "A-1969.1",
+        "A-1970.1",
+        "A-1972.1"
+      ],
+      "related_nodes": [
+        "N-1014",
+        "N-5",
+        "N-1682",
+        "N-1687"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:13",
+      "investigative_direction": "Construct a chronological explanation map; identify the originator of each stated rationale and any superseding statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2743",
+      "ref": "C-2743",
+      "label": "JD Vance Defended Erika Kirk Against Criticism at UGA Event",
+      "claim": "Vice President JD Vance stated on stage at the UGA event that criticizing Erika Kirk over her grieving was \"the most preposterous thing I've seen in a very long time\" in politics.",
+      "anchored_artifacts": [
+        "A-1966.2"
+      ],
+      "related_nodes": [
+        "N-1014",
+        "N-4"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:32",
+      "investigative_direction": "Obtain full transcript of Vance's remarks; verify whether the statement was prepared or responsive to Andrew Kolvet's prompt."
+    }
+  ],
+  "memes": []
+}

@@ -1,0 +1,873 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 53,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "af4744c44da3466f3376062abb7dec86912b17b312a767e95c3978bb41f3a9e8",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1587",
+      "family_ref": "A-1587",
+      "bundle_name": "Maggie Wagner Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1587.1",
+          "ref": "A-1587.1",
+          "description": "Email from Maggie Wagner to Candace Owens describing Daily Wire audition approach",
+          "related_claims": [
+            "C-2016",
+            "C-2017",
+            "C-2024"
+          ],
+          "related_nodes": [
+            "N-640",
+            "N-1456"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:31–00:09:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1588",
+      "family_ref": "A-1588",
+      "bundle_name": "Maggie Wagner Text Message Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1588.1",
+          "ref": "A-1588.1",
+          "description": "Text message from Maggie Wagner to Daily Wire producer declining the audition role",
+          "related_claims": [
+            "C-2018"
+          ],
+          "related_nodes": [
+            "N-640",
+            "N-1456"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:11:04–00:12:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1589",
+      "family_ref": "A-1589",
+      "bundle_name": "AI Video Audition Sample Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1589.1",
+          "ref": "A-1589.1",
+          "description": "AI-generated video sample for proposed Daily Wire show mocking Candace Owens",
+          "related_claims": [
+            "C-2017"
+          ],
+          "related_nodes": [
+            "N-640",
+            "N-1456"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:09:24–00:11:01",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1590",
+      "family_ref": "A-1590",
+      "bundle_name": "Ben Shapiro Breitbart Resignation Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1590.1",
+          "ref": "A-1590.1",
+          "description": "Ben Shapiro's public resignation statement from Breitbart News (read aloud)",
+          "related_claims": [
+            "C-2019",
+            "C-2025"
+          ],
+          "related_nodes": [
+            "N-642",
+            "N-643",
+            "N-644",
+            "N-645",
+            "N-646",
+            "N-1457",
+            "N-1462"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:45–00:27:25",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1591",
+      "family_ref": "A-1591",
+      "bundle_name": "Steve Bannon Amfest Speech Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1591.1",
+          "ref": "A-1591.1",
+          "description": "Audio clip of Steve Bannon speaking at Amfest about Ben Shapiro",
+          "related_claims": [
+            "C-2020"
+          ],
+          "related_nodes": [
+            "N-641",
+            "N-642",
+            "N-1457"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:18:09–00:19:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1592",
+      "family_ref": "A-1592",
+      "bundle_name": "Austin Smith Sentencing Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1592.1",
+          "ref": "A-1592.1",
+          "description": "News article reporting sentencing of Austin Smith for petition signature fraud (content read aloud)",
+          "related_claims": [
+            "C-2021",
+            "C-2022"
+          ],
+          "related_nodes": [
+            "N-647",
+            "N-1458",
+            "N-1461"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:47–00:49:55",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1593",
+      "family_ref": "A-1593",
+      "bundle_name": "Charlie Kirk Text Message Bundle (Premonition Thread)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1593.1",
+          "ref": "A-1593.1",
+          "description": "Text messages from Charlie Kirk describing older Jewish man (\"oracle\") and his visions of death",
+          "related_claims": [
+            "C-2023"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-648",
+            "N-1460"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:48–00:45:58",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1594",
+      "family_ref": "A-1594",
+      "bundle_name": "YouTube French Channel Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1594.1",
+          "ref": "A-1594.1",
+          "description": "Comment from French YouTube channel about cattle depopulation in France",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:56:19–00:57:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1595",
+      "family_ref": "A-1595",
+      "bundle_name": "YouTube English Channel Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1595.1",
+          "ref": "A-1595.1",
+          "description": "Top comment from previous episode's YouTube thread about child sex trafficking recurring in investigations",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:57:41–00:58:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-649",
+      "ref": "N-649",
+      "name": "Node 649",
+      "type": "person",
+      "description": "",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-640",
+      "ref": "N-640",
+      "name": "Maggie Wagner",
+      "type": "person",
+      "description": "Person who received a Daily Wire audition approach to host a show mocking Candace Owens and Tucker Carlson; declined the role. Provided email, text message, and AI video sample as artifacts.",
+      "related_artifacts": [
+        "A-1587.1",
+        "A-1588.1",
+        "A-1589.1"
+      ],
+      "related_claims": [
+        "C-2016",
+        "C-2017",
+        "C-2018",
+        "C-2024"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1456"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-641",
+      "ref": "N-641",
+      "name": "Steve Bannon",
+      "type": "person",
+      "description": "Former Breitbart chairman referenced via Amfest audio clip describing Ben Shapiro's pattern of attempted hostile takeovers of conservative organizations.",
+      "related_artifacts": [
+        "A-1591.1"
+      ],
+      "related_claims": [
+        "C-2020"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-642",
+        "N-1457"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-642",
+      "ref": "N-642",
+      "name": "Andrew Breitbart",
+      "type": "person",
+      "description": "Founder of Breitbart News; died March 1, 2012. Subject of Bannon's account and Shapiro's own resignation statement referencing mentorship and editor-at-large role.",
+      "related_artifacts": [
+        "A-1590.1",
+        "A-1591.1"
+      ],
+      "related_claims": [
+        "C-2020",
+        "C-2025"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-641",
+        "N-1457",
+        "N-1462"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-643",
+      "ref": "N-643",
+      "name": "Jamie Weinstein",
+      "type": "person",
+      "description": "Named in host's recounting (not from artifact) as the alleged co-conspirator with Ben Shapiro in the Breitbart/Fields affair and identified as Michelle Fields' husband at the time. No displayed artifact anchors this; tracked here for potential cross-episode verification.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-644",
+        "N-1457",
+        "N-1462"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-644",
+      "ref": "N-644",
+      "name": "Michelle Fields",
+      "type": "person",
+      "description": "Breitbart reporter who alleged assault by Corey Lewandowski; central figure in the 2016 Breitbart scandal referenced in Shapiro's resignation statement.",
+      "related_artifacts": [
+        "A-1590.1"
+      ],
+      "related_claims": [
+        "C-2019"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-643",
+        "N-645",
+        "N-1462"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-645",
+      "ref": "N-645",
+      "name": "Corey Lewandowski",
+      "type": "person",
+      "description": "Former Trump campaign manager alleged to have assaulted Michelle Fields at a 2016 event; named in Shapiro's resignation statement.",
+      "related_artifacts": [
+        "A-1590.1"
+      ],
+      "related_claims": [
+        "C-2019"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-644",
+        "N-1462"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-646",
+      "ref": "N-646",
+      "name": "Austin Smith",
+      "type": "person",
+      "description": "Former Arizona state representative and Turning Point Action leader, age 30. Sentenced for petition signature fraud including forging a dead woman's signature.",
+      "related_artifacts": [
+        "A-1592.1"
+      ],
+      "related_claims": [
+        "C-2021",
+        "C-2022"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1458",
+        "N-1461"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-647",
+      "ref": "N-647",
+      "name": "Michael Cormier",
+      "type": "person",
+      "description": "Forensic technician (age 61) referenced by host as involved in Andrew Breitbart's autopsy who allegedly died from \"military-grade arsenic poisoning.\" Claim presented via host recounting only; no artifact displayed.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-642"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-648",
+      "ref": "N-648",
+      "name": "Charlie Kirk's \"Oracle\" Figure",
+      "type": "person",
+      "description": "Older Jewish man described in Charlie Kirk's text messages as someone Charlie visited for spiritual reasons regarding his premonitions of dying young. Identity not disclosed; described as having met Charlie through a gifted school in Chicago.",
+      "related_artifacts": [
+        "A-1593.1"
+      ],
+      "related_claims": [
+        "C-2023"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-1460"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-650",
+      "ref": "N-650",
+      "name": "Megan Kelly",
+      "type": "person",
+      "description": "Subject of host's claim that Ben Shapiro demanded her allegiance against Candace and Tucker Carlson, and has since been attacked by \"his stooges.\"",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1457"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1456",
+      "ref": "N-1456",
+      "name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
+      "type": "investigation_target",
+      "description": "Investigation target: the proposed Daily Wire show whose audition involved an AI-generated video mocking Candace Owens, and whose casting process targeted young Christian women.",
+      "related_artifacts": [
+        "A-1587.1",
+        "A-1588.1",
+        "A-1589.1"
+      ],
+      "related_claims": [
+        "C-2016",
+        "C-2017",
+        "C-2018",
+        "C-2024"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-640"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1457",
+      "ref": "N-1457",
+      "name": "Ben Shapiro Hostile Takeover Pattern",
+      "type": "investigation_target",
+      "description": "Investigation target: persistent claim across the series that Ben Shapiro has attempted hostile takeovers of multiple conservative organizations (Breitbart, David Horowitz's organization, Turning Point) and that his founding of the Daily Wire was preceded by a manufactured scandal.",
+      "related_artifacts": [
+        "A-1590.1",
+        "A-1591.1"
+      ],
+      "related_claims": [
+        "C-2019",
+        "C-2020",
+        "C-2025"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-641",
+        "N-642",
+        "N-643",
+        "N-644",
+        "N-645",
+        "N-650",
+        "N-1462"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1458",
+      "ref": "N-1458",
+      "name": "Tyler Bowyer Investigation Question",
+      "type": "investigation_target",
+      "description": "Investigation target: host's persistent claim that Tyler Bowyer staffed nearly everyone around Charlie Kirk and requires further investigation. This episode cites Austin Smith's criminal sentencing and an unnamed source's claim that Bowyer offered jobs in exchange for favors.",
+      "related_artifacts": [
+        "A-1592.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-646",
+        "N-1461"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1459",
+      "ref": "N-1459",
+      "name": "Missing Money from Turning Point Action",
+      "type": "investigation_target",
+      "description": "Investigation target: host's claim that \"a lot of money was missing from Turning Point Action,\" described as unconfirmed but with a \"strong lead.\"",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1458"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1460",
+      "ref": "N-1460",
+      "name": "Charlie Kirk Premonition Dreams",
+      "type": "investigation_target",
+      "description": "Investigation target: persistent claim across the series that Charlie Kirk had extensive premonition dreams and text-message disclosures of dying young, and that an \"oracle\" figure confirmed these visions.",
+      "related_artifacts": [
+        "A-1593.1"
+      ],
+      "related_claims": [
+        "C-2023"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-648"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1461",
+      "ref": "N-1461",
+      "name": "Austin Smith / Turning Point Action Fraud Connection",
+      "type": "investigation_target",
+      "description": "Investigation target: link between Austin Smith's signature fraud and his role at Turning Point Action, with host's broader implication that this reflects personnel and integrity issues inside Turning Point.",
+      "related_artifacts": [
+        "A-1592.1"
+      ],
+      "related_claims": [
+        "C-2021",
+        "C-2022"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-646",
+        "N-1458"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1462",
+      "ref": "N-1462",
+      "name": "Ben Shapiro Daily Wire Founding Narrative",
+      "type": "investigation_target",
+      "description": "Investigation target: host's claim that the Daily Wire's launch in 2016 was preceded by a manufactured scandal involving Ben Shapiro, Jamie Weinstein, and Michelle Fields to undermine Breitbart News.",
+      "related_artifacts": [
+        "A-1590.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-642",
+        "N-643",
+        "N-644",
+        "N-645",
+        "N-1457"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2016",
+      "ref": "C-2016",
+      "label": "Maggie Wagner Auditioned for Daily Wire Solo Show Two Days After Ben Shapiro's Amfest Speech",
+      "claim": "A Daily Wire producer contacted Maggie Wagner approximately two days after Ben Shapiro's Amfest speech to audition her for a solo show presented as a comedy show to critique both sides of politics but centered on mocking Candace Owens and Tucker Carlson.",
+      "anchored_artifacts": [
+        "A-1587.1"
+      ],
+      "related_nodes": [
+        "N-640",
+        "N-1456",
+        "N-649"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:31",
+      "investigative_direction": "Verify the timeline of the Amfest speech and confirm the producer's identity (protected in this episode); obtain any additional documentation Maggie may have referenced."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2017",
+      "ref": "C-2017",
+      "label": "Audition Script and AI Video Content Targeted Candace Owens",
+      "claim": "The audition script and accompanying AI video sample sent to Maggie Wagner were entirely dedicated to making fun of Candace Owens, with the producer explicitly stating the show would mock Candace or Tucker when they \"say something crazy.\"",
+      "anchored_artifacts": [
+        "A-1587.1",
+        "A-1589.1"
+      ],
+      "related_nodes": [
+        "N-640",
+        "N-1456"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:36",
+      "investigative_direction": "Obtain and verify the full audition script and AI video; confirm the producer's statements directly via call recordings referenced by Maggie."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2018",
+      "ref": "C-2018",
+      "label": "Maggie Wagner Declined the Audition Role",
+      "claim": "Maggie Wagner declined the Daily Wire audition role, texting the producer that making fun of Candace did not feel true to her beliefs.",
+      "anchored_artifacts": [
+        "A-1588.1"
+      ],
+      "related_nodes": [
+        "N-640",
+        "N-1456"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:04",
+      "investigative_direction": "Verify the text message thread against phone records and identify the producer's account."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2019",
+      "ref": "C-2019",
+      "label": "Ben Shapiro Resigned From Breitbart News on March 13, 2016",
+      "claim": "Ben Shapiro publicly resigned from Breitbart News on March 13, 2016 at 9:00 PM Pacific, citing the company's handling of Michelle Fields' assault allegations against Corey Lewandowski.",
+      "anchored_artifacts": [
+        "A-1590.1"
+      ],
+      "related_nodes": [
+        "N-642",
+        "N-644",
+        "N-645",
+        "N-1457",
+        "N-1462"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:45",
+      "investigative_direction": "Cross-reference the resignation statement against contemporaneous Breitbart News coverage and internal communications."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2020",
+      "ref": "C-2020",
+      "label": "Steve Bannon Publicly Described Ben Shapiro's Pattern of Attempted Hostile Takeovers",
+      "claim": "Steve Bannon stated at Amfest that Ben Shapiro \"tried to take over Breitbart,\" \"tried to take over David Horowitz's [organization],\" and predicted he \"will make a move on Turning Point.\"",
+      "anchored_artifacts": [
+        "A-1591.1"
+      ],
+      "related_nodes": [
+        "N-641",
+        "N-642",
+        "N-1457"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:09",
+      "investigative_direction": "Obtain the full Amfest Bannon speech and verify the complete context; cross-reference Bannon's prior public statements about Shapiro."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2021",
+      "ref": "C-2021",
+      "label": "Austin Smith Sentenced Tuesday for Petition Signature Fraud",
+      "claim": "Austin Smith, age 30, former Arizona state representative and Turning Point Action leader, was scheduled to be sentenced Tuesday for using nominating petitions that contained forged signatures, including forging a dead woman's signature, in a 2024 primary election bid.",
+      "anchored_artifacts": [
+        "A-1592.1"
+      ],
+      "related_nodes": [
+        "N-646",
+        "N-1458",
+        "N-1461"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:50",
+      "investigative_direction": "Obtain the court docket and judgment from the Arizona sentencing court; confirm Austin Smith's exact dates of employment at Turning Point Action."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2022",
+      "ref": "C-2022",
+      "label": "Austin Smith Plead Guilty in Mid-November to Attempted Fraudulent Schemes and Practices",
+      "claim": "Austin Smith plead guilty in mid-November to charges of attempted fraudulent schemes and practices and illegal signing of election petitions.",
+      "anchored_artifacts": [
+        "A-1592.1"
+      ],
+      "related_nodes": [
+        "N-646",
+        "N-1461"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:14",
+      "investigative_direction": "Obtain the plea agreement and charging documents from the Arizona court."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2023",
+      "ref": "C-2023",
+      "label": "Charlie Kirk's Text Messages Described an \"Oracle\" Figure Confirming His Premonition of Dying Young",
+      "claim": "Charlie Kirk sent Candace text messages describing an older Jewish man from Chicago (described as having been matched with Charlie through a gifted school) who confirmed Charlie's visions that he would die young and that his death would \"save humanity.\"",
+      "anchored_artifacts": [
+        "A-1593.1"
+      ],
+      "related_nodes": [
+        "N-1",
+        "N-648",
+        "N-1460"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:48",
+      "investigative_direction": "Obtain the original text message thread for verification; investigate the identity of the \"oracle\" figure and his connection to the gifted school."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2024",
+      "ref": "C-2024",
+      "label": "Daily Wire Producer Described as Being in \"Panic Mode\" During Casting",
+      "claim": "The Daily Wire producer who contacted Maggie Wagner was described by Maggie as being in \"panic mode\" about casting the show, having only come up with the show concept the day before contacting her.",
+      "anchored_artifacts": [
+        "A-1587.1"
+      ],
+      "related_nodes": [
+        "N-640",
+        "N-1456"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:31",
+      "investigative_direction": "Verify the timeline of the show's conception against internal Daily Wire communications if obtainable."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2025",
+      "ref": "C-2025",
+      "label": "Ben Shapiro Hired as Editor-at-Large of Breitbart Two Weeks Before Andrew Breitbart's Death",
+      "claim": "Per Shapiro's own resignation statement, he was hired by Andrew Breitbart as editor-at-large of Breitbart News approximately two weeks before Andrew Breitbart's death on March 1, 2012.",
+      "anchored_artifacts": [
+        "A-1590.1"
+      ],
+      "related_nodes": [
+        "N-642",
+        "N-1457",
+        "N-1462"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:28",
+      "investigative_direction": "Verify the exact date of Shapiro's hiring through Breitbart employment records or contemporaneous reporting."
+    }
+  ],
+  "memes": []
+}

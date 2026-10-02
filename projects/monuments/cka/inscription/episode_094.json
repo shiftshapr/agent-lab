@@ -1,0 +1,1533 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 94,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–00:56:29",
+    "extraction_timestamp": "2026-09-27T20:00:00Z",
+    "model_version": "MiniMax-M2.5",
+    "transcript_sha256": "4b931eed5aa73d203bec84182448315895321f05165958ce43afd7cf890cdb6e",
+    "analysis_date": "2026-09-27"
+  },
+  "executive_summary": "Episode 94 centers on an audio recording of Tyler Robinson's grandfather — the original owner of the rifle linked to the Charlie Kirk case — speaking with reporter Elizabeth Lane during a break at Tyler Robinson's continuance hearing. The grandfather is heard supporting his grandson and asserting that a .30-06 round would not produce the kind of damage reported. This directly contradicts the prior public framing that the Robinson family supports the prosecution.\n\nThe episode then pivots to evidentiary disputes aired at the continuance hearing. Defense attorneys Richard Novak and Kathy Nester are quoted stating that the defense has not received data files from ATF/FBI forensic testing, has not had access to Tyler Robinson's phone, and has never physically examined the firearm (reportedly held at Quantico). The host characterizes the prosecution's posture as a push for a \"show trial.\"\n\nIn the latter half, the host turns to Laura Loomer, presenting tweets, a published Milo Yiannopoulos piece (with audio), and viral video clips as artifacts supporting allegations of psychiatric holds, weapon-prohibition status, and sexual assault against multiple men. The host also presents her own dispute with Loomer, anchored by a tweet and an insurance/court record showing a $6,987 payment to a Tracy Robinson. The episode structurally advances two threads: (1) gaps and inconsistencies in the discovery production to Tyler Robinson's defense, and (2) the host's ongoing dispute with Laura Loomer and the broader MAGA media apparatus.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1993",
+      "family_ref": "A-1993",
+      "bundle_name": "Tyler Robinson Grandfather Audio Recording",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1993.1",
+          "ref": "A-1993.1",
+          "description": "Recording of Tyler Robinson's grandfather speaking with Elizabeth Lane during continuance-hearing break",
+          "related_claims": [
+            "C-2764",
+            "C-2765",
+            "C-2766"
+          ],
+          "related_nodes": [
+            "N-1207",
+            "N-1212",
+            "N-1698"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:20–00:06:28",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1994",
+      "family_ref": "A-1994",
+      "bundle_name": "Tyler Robinson Continuance Hearing Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1994.1",
+          "ref": "A-1994.1",
+          "description": "Audio of defense attorney Richard Novak addressing the court re: outstanding evidence",
+          "related_claims": [
+            "C-2767",
+            "C-2768",
+            "C-2769"
+          ],
+          "related_nodes": [
+            "N-1208",
+            "N-1210",
+            "N-1698",
+            "N-1699"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:06:28–00:17:22",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1994.2",
+          "ref": "A-1994.2",
+          "description": "Audio of defense attorney Kathy Nester addressing the court re: phone and gun access",
+          "related_claims": [
+            "C-2770",
+            "C-2771",
+            "C-2772"
+          ],
+          "related_nodes": [
+            "N-1209",
+            "N-1217",
+            "N-1698",
+            "N-1699"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:12:20–00:15:13",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1995",
+      "family_ref": "A-1995",
+      "bundle_name": "Trump Truth Social Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1995.1",
+          "ref": "A-1995.1",
+          "description": "Trump Truth Social post calling Candace Owens, Megyn Kelly, Tucker Carlson \"dying fast\"",
+          "related_claims": [
+            "C-2773"
+          ],
+          "related_nodes": [
+            "N-1699"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:33:58–00:36:29",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1995.2",
+          "ref": "A-1995.2",
+          "description": "Trump Truth Social follow-up post referring to Candace Owens as mentally ill",
+          "related_claims": [
+            "C-2774"
+          ],
+          "related_nodes": [
+            "N-1699"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:29",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1996",
+      "family_ref": "A-1996",
+      "bundle_name": "Turning Point Pinnacle High School Email",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1996.1",
+          "ref": "A-1996.1",
+          "description": "Turning Point USA email canceling Erika Kirk's Pinnacle High School appearance, citing death threats",
+          "related_claims": [
+            "C-2775"
+          ],
+          "related_nodes": [
+            "N-1700"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:50–00:25:48",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1997",
+      "family_ref": "A-1997",
+      "bundle_name": "Erika Kirk High School Backlash News Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1997.1",
+          "ref": "A-1997.1",
+          "description": "Newsweek headline: \"Erika Kirk's high school talk sparks furious backlash from parents\"",
+          "related_claims": [
+            "C-2776"
+          ],
+          "related_nodes": [
+            "N-1700"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:35",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1997.2",
+          "ref": "A-1997.2",
+          "description": "Daily Beast headline: \"High school moves Erika Kirk event off campus after students revolt\"",
+          "related_claims": [
+            "C-2777"
+          ],
+          "related_nodes": [
+            "N-1700"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:35",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-1997.3",
+          "ref": "A-1997.3",
+          "description": "Arizona Republic headline: \"A high school group invited Erika Kirk to campus. Parents are not happy.\"",
+          "related_claims": [
+            "C-2778"
+          ],
+          "related_nodes": [
+            "N-1700"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:35",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1998",
+      "family_ref": "A-1998",
+      "bundle_name": "Alan Jacoby Tweet",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1998.1",
+          "ref": "A-1998.1",
+          "description": "Tweet by Alan Jacoby alleging Laura Loomer groped him at Bedminster",
+          "related_claims": [
+            "C-2779"
+          ],
+          "related_nodes": [
+            "N-1212",
+            "N-1704"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:41:44–00:42:43",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-1999",
+      "family_ref": "A-1999",
+      "bundle_name": "Laura Loomer Star of David Video",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-1999.1",
+          "ref": "A-1999.1",
+          "description": "Video of Laura Loomer learning to draw a Star of David",
+          "related_claims": [
+            "C-2780"
+          ],
+          "related_nodes": [
+            "N-1705"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:39:25",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2000",
+      "family_ref": "A-2000",
+      "bundle_name": "Milo Yiannopoulos Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2000.1",
+          "ref": "A-2000.1",
+          "description": "Published written piece by Milo Yiannopoulos listing Laura Loomer's alleged diagnoses and family psychiatric history",
+          "related_claims": [
+            "C-2781"
+          ],
+          "related_nodes": [
+            "N-1703"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:40:54",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2000.2",
+          "ref": "A-2000.2",
+          "description": "Audio clip of Milo Yiannopoulos describing alleged sexual assault by Laura Loomer of a Brazilian volunteer on her 2020 congressional campaign",
+          "related_claims": [
+            "C-2782"
+          ],
+          "related_nodes": [
+            "N-1704"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:44:53–00:46:52",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2001",
+      "family_ref": "A-2001",
+      "bundle_name": "Benny Johnson / Laura Loomer Tweet Exchange",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2001.1",
+          "ref": "A-2001.1",
+          "description": "Laura Loomer tweet reply to Benny Johnson advocating \"psychological warfare\" against enemies",
+          "related_claims": [
+            "C-2783"
+          ],
+          "related_nodes": [
+            "N-1704"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:42",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2002",
+      "family_ref": "A-2002",
+      "bundle_name": "Laura Loomer Tweet about George Farmer",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2002.1",
+          "ref": "A-2002.1",
+          "description": "Laura Loomer tweet alleging George Farmer hit Tracy Robinson's car while drunk with a firearm",
+          "related_claims": [
+            "C-2784"
+          ],
+          "related_nodes": [
+            "N-1213",
+            "N-1214",
+            "N-1704",
+            "N-1706"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:48:26–00:49:11",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2003",
+      "family_ref": "A-2003",
+      "bundle_name": "Insurance / Court Payment Record — Tracy Robinson",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2003.1",
+          "ref": "A-2003.1",
+          "description": "Insurance payment record showing $6,987 paid to Tracy Robinson",
+          "related_claims": [
+            "C-2785"
+          ],
+          "related_nodes": [
+            "N-1213",
+            "N-1214",
+            "N-1706"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:49:11–00:50:08",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2004",
+      "family_ref": "A-2004",
+      "bundle_name": "Laura Loomer Seductive Behavior Video",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2004.1",
+          "ref": "A-2004.1",
+          "description": "Video of Laura Loomer making sexually suggestive comments to a young man",
+          "related_claims": [
+            "C-2786"
+          ],
+          "related_nodes": [
+            "N-1704"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:42:43–00:44:06",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2005",
+      "family_ref": "A-2005",
+      "bundle_name": "YouTube Top Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2005.1",
+          "ref": "A-2005.1",
+          "description": "Comment by user \"SpidyBear3995\" stating Charlie Kirk told multiple people he might be killed but still showed up",
+          "related_claims": [
+            "C-2787"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:54:44–00:55:45",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2005.2",
+          "ref": "A-2005.2",
+          "description": "Comment by user \"Joe Mattei\" referencing Erika's video comment \"Forgive Drewski like you forgave the shooter\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:54:44–00:55:45",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2005.3",
+          "ref": "A-2005.3",
+          "description": "Comment by user \"Flame of Love\": \"Trump is a good enemy to have. No one wants to be liked by a traitor, right?\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:55:45",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2005.4",
+          "ref": "A-2005.4",
+          "description": "Comment by user \"Seven Sheets\": \"Grandpa's words sum it up for me. I pray for the family that is being put through this.\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1207",
+            "N-1708"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:55:45",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2005.5",
+          "ref": "A-2005.5",
+          "description": "Comment by user \"Always Be True\" questioning prosecution's lone-gunman theory and asking when location was disclosed",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1708",
+            "N-1710"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:56:40",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2005.6",
+          "ref": "A-2005.6",
+          "description": "Comment by user \"Ave Questions\": \"Trump can't is a nobody, but he continues to tweet...\"",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:58:46",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2005.7",
+          "ref": "A-2005.7",
+          "description": "Comment by user \"Curious Joel\" comparing Erika's walkout music to the Imperial March",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:58:46–00:59:43",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2005.8",
+          "ref": "A-2005.8",
+          "description": "Comment by user \"Nikki Schumacher\" stating she is a \"reformed Baptist\" critical of Allie Beth Stuckey",
+          "related_claims": [],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:59:43",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2005.9",
+          "ref": "A-2005.9",
+          "description": "Comment by user \"A Trice Trish Magestus\" re: \"first person to leak the death of Charlie Kirk is a licensed gun dealer with a shady past\"",
+          "related_claims": [],
+          "related_nodes": [
+            "N-1711"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:00:40",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2005.10",
+          "ref": "A-2005.10",
+          "description": "Comment by user \"Queen Saxi\" raising Tyler Robinson's roommate as potential suspect",
+          "related_claims": [
+            "C-2788"
+          ],
+          "related_nodes": [
+            "N-1709"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:01:45",
+          "discovery_timestamp": "00:00:00–00:00:01"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2006",
+      "family_ref": "A-2006",
+      "bundle_name": "Erika Kirk Speedy Trial Motion (Host-Referenced)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2006.1",
+          "ref": "A-2006.1",
+          "description": "Host-reference to Utah filing described as \"motion / invocation of speedy trial rights\" by victim Erika Kirk, dated January 16",
+          "related_claims": [
+            "C-2789"
+          ],
+          "related_nodes": [
+            "N-1701"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "source_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:23–00:18:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1207",
+      "ref": "N-1207",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Original owner of the rifle linked to the case; recorded at the continuance hearing expressing support for his grandson and disputing the .30-06 wound characterization.",
+      "related_artifacts": [
+        "A-1993.1",
+        "A-2005.4"
+      ],
+      "related_claims": [
+        "C-2764",
+        "C-2765",
+        "C-2766"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1708"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1208",
+      "ref": "N-1208",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Defense attorney for Tyler Robinson; addressed continuance hearing re: outstanding forensic data files.",
+      "related_artifacts": [
+        "A-1994.1"
+      ],
+      "related_claims": [
+        "C-2767",
+        "C-2768"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1698",
+        "N-1699"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1209",
+      "ref": "N-1209",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Defense attorney for Tyler Robinson; addressed court re: phone access and firearm access.",
+      "related_artifacts": [
+        "A-1994.2"
+      ],
+      "related_claims": [
+        "C-2769",
+        "C-2770",
+        "C-2771"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1698",
+        "N-1699"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1210",
+      "ref": "N-1210",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Prosecutor; referenced by Novak at continuance hearing regarding competing lab-testing conclusions.",
+      "related_artifacts": [
+        "A-1994.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1698"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1211",
+      "ref": "N-1211",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Prosecutor; cited by Novak as having relied on September 2025 DNA reports.",
+      "related_artifacts": [
+        "A-1994.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-1698"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1212",
+      "ref": "N-1212",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Founder of Patriot Cigar; publicly accused Laura Loomer of groping him at Bedminster in tweet.",
+      "related_artifacts": [
+        "A-1998.1"
+      ],
+      "related_claims": [
+        "C-2779"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1704"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1213",
+      "ref": "N-1213",
+      "name": "Unidentified Goth Person in Broderick Companion Photo",
+      "type": "investigation_target",
+      "description": "Host's husband; named in Laura Loomer's tweet alleging drunk driving incident with firearm; insurance record shows $6,987 paid to Tracy Robinson.",
+      "related_artifacts": [
+        "A-2002.1",
+        "A-2003.1"
+      ],
+      "related_claims": [
+        "C-2784",
+        "C-2785"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1214",
+        "N-1706"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1214",
+      "ref": "N-1214",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Counterparty in alleged vehicle incident with George Farmer; recipient of $6,987 insurance payment per record.",
+      "related_artifacts": [
+        "A-2002.1",
+        "A-2003.1"
+      ],
+      "related_claims": [
+        "C-2784",
+        "C-2785"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1213",
+        "N-1706"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1698",
+      "ref": "N-1698",
+      "name": "Defense Access to Tyler Robinson Phone Data",
+      "type": "investigation_target",
+      "description": "Persistent defense claim that they have not been able to access their client's phone or its contents.",
+      "related_artifacts": [
+        "A-1994.1",
+        "A-1994.2"
+      ],
+      "related_claims": [
+        "C-2767",
+        "C-2771"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-1209"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1699",
+      "ref": "N-1699",
+      "name": "Defense Access to Firearm Evidence (Quantico)",
+      "type": "investigation_target",
+      "description": "Defense has never physically examined the firearm; rifle reportedly held at FBI Quantico facility in a state case.",
+      "related_artifacts": [
+        "A-1994.1",
+        "A-1994.2"
+      ],
+      "related_claims": [
+        "C-2768",
+        "C-2770"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1208",
+        "N-1209"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1700",
+      "ref": "N-1700",
+      "name": "Probable Cause Hearing Exhibit Count (35 Exhibits)",
+      "type": "investigation_target",
+      "description": "Prosecution reportedly plans to present 35 exhibits at probable cause hearing.",
+      "related_artifacts": [
+        "A-1994.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1701",
+      "ref": "N-1701",
+      "name": "Erika Kirk Speedy Trial Motion (January 16)",
+      "type": "investigation_target",
+      "description": "Host claims Erika Kirk filed victim's speedy trial motion in Utah on January 16; artifact referenced but not shown.",
+      "related_artifacts": [
+        "A-2006.1"
+      ],
+      "related_claims": [
+        "C-2789"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1702",
+      "ref": "N-1702",
+      "name": "Pinnacle High School Cancellation Reasons",
+      "type": "investigation_target",
+      "description": "Discrepancy between Turning Point's stated reason (death threats) and host's claim that cancellation was driven by boycott.",
+      "related_artifacts": [
+        "A-1996.1",
+        "A-1997.1",
+        "A-1997.2",
+        "A-1997.3"
+      ],
+      "related_claims": [
+        "C-2775",
+        "C-2776",
+        "C-2777",
+        "C-2778"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1703",
+      "ref": "N-1703",
+      "name": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
+      "type": "investigation_target",
+      "description": "Allegations that Loomer was placed on involuntary psychiatric holds and is prohibited from owning weapons.",
+      "related_artifacts": [
+        "A-2000.1"
+      ],
+      "related_claims": [
+        "C-2781"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1704",
+      "ref": "N-1704",
+      "name": "Laura Loomer Sexual Assault Allegations",
+      "type": "investigation_target",
+      "description": "Multiple men have publicly alleged Loomer assaulted them; includes Jacoby, an unnamed Brazilian volunteer (per Milo), and viral video of suggestive conduct.",
+      "related_artifacts": [
+        "A-1998.1",
+        "A-2000.2",
+        "A-2001.1",
+        "A-2004.1"
+      ],
+      "related_claims": [
+        "C-2779",
+        "C-2782",
+        "C-2783",
+        "C-2786"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1212"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1705",
+      "ref": "N-1705",
+      "name": "Laura Loomer Identity Claims (Jewish Heritage)",
+      "type": "investigation_target",
+      "description": "Host claim (and video artifact) disputing Loomer's publicly claimed Jewish identity.",
+      "related_artifacts": [
+        "A-1999.1"
+      ],
+      "related_claims": [
+        "C-2780"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1706",
+      "ref": "N-1706",
+      "name": "George Farmer / Tracy Robinson $6,987 Incident",
+      "type": "investigation_target",
+      "description": "Disputed incident; Laura Loomer's tweet alleged drunk driving with firearm; insurance record shows $6,987 payment.",
+      "related_artifacts": [
+        "A-2002.1",
+        "A-2003.1"
+      ],
+      "related_claims": [
+        "C-2784",
+        "C-2785"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1213",
+        "N-1214"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1707",
+      "ref": "N-1707",
+      "name": "Tyler Robinson's Grandfather's Position vs. Family Narrative",
+      "type": "investigation_target",
+      "description": "Discrepancy between public \"family turned him in\" framing and grandfather's on-record support.",
+      "related_artifacts": [
+        "A-1993.1"
+      ],
+      "related_claims": [
+        "C-2764",
+        "C-2765",
+        "C-2766"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1207"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1708",
+      "ref": "N-1708",
+      "name": "Tyler Robinson Look-alike Theory",
+      "type": "investigation_target",
+      "description": "Host speculation that multiple Tyler Robinson look-alikes were present; footages remain grainy.",
+      "related_artifacts": [
+        "A-1993.1",
+        "A-2005.4",
+        "A-2005.5"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1709",
+      "ref": "N-1709",
+      "name": "Tyler Robinson Roommate Question",
+      "type": "investigation_target",
+      "description": "Open question raised by a viewer comment about Tyler Robinson's roommate's potential involvement.",
+      "related_artifacts": [
+        "A-2005.10"
+      ],
+      "related_claims": [
+        "C-2788"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1710",
+      "ref": "N-1710",
+      "name": "Lead-up Footage Absence",
+      "type": "investigation_target",
+      "description": "Host reference to alleged absence of CCTV footage from days leading up to September 10.",
+      "related_artifacts": [
+        "A-2005.5"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1711",
+      "ref": "N-1711",
+      "name": "Victor Marx Suspicious Background",
+      "type": "investigation_target",
+      "description": "Viewer-flagged concern about Victor Marx being first to leak Charlie Kirk's death; described as a \"licensed gun dealer with a shady past.\"",
+      "related_artifacts": [
+        "A-2005.9"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1217",
+      "ref": "N-1217",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Identified by host as being in the Lincoln Navigator (security vehicle 2) on 9/10.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-2764",
+      "ref": "C-2764",
+      "label": "Tyler Robinson's Grandfather Publicly Supports His Grandson",
+      "claim": "The episode presents a recording in which Tyler Robinson's grandfather states he is at the hearing to support his grandson.",
+      "anchored_artifacts": [
+        "A-1993.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1707"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:32",
+      "investigative_direction": "Verify identity of grandfather from court records and confirm whether his position is consistent with or divergent from other Robinson family members' stated positions."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2765",
+      "ref": "C-2765",
+      "label": "Tyler Robinson's Grandfather Cites Great-Grandfather's Law Enforcement Background",
+      "claim": "The grandfather states his father (Tyler Robinson's great-grandfather) was a cop who taught him ballistics.",
+      "anchored_artifacts": [
+        "A-1993.1"
+      ],
+      "related_nodes": [
+        "N-1207"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:45",
+      "investigative_direction": "Verify great-grandfather's law enforcement service in the relevant town and the claimed ballistics instruction."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2766",
+      "ref": "C-2766",
+      "label": "Tyler Robinson's Grandfather Disputes .30-06 Wound Pattern",
+      "claim": "The grandfather asserts a .30-06 round would not have produced the wound damage publicly described in the case.",
+      "anchored_artifacts": [
+        "A-1993.1"
+      ],
+      "related_nodes": [
+        "N-1207",
+        "N-1707"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:39",
+      "investigative_direction": "Obtain forensic pathology documentation regarding the actual wound and compare to documented .30-06 ballistic profile."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2767",
+      "ref": "C-2767",
+      "label": "Richard Novak States Defense Lacks Forensic Data Files",
+      "claim": "Defense attorney Richard Novak states the defense has not received the data files (electronic quantification/digitization of physical evidence) from ATF/FBI forensic examiners needed to analyze statistical results.",
+      "anchored_artifacts": [
+        "A-1994.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1210",
+        "N-1698",
+        "N-1699"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:02",
+      "investigative_direction": "Confirm whether data files have subsequently been produced; review any docket entries reflecting discovery status."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2768",
+      "ref": "C-2768",
+      "label": "DNA Reports from September 2025 Cited but Not Produced to Defense",
+      "claim": "Novak states the defense has DNA reports from September 2025 that Mr. Gray relied upon, but those reports have not been produced.",
+      "anchored_artifacts": [
+        "A-1994.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1211",
+        "N-1698"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:37",
+      "investigative_direction": "Request the September 2025 DNA reports via public records or docket inspection."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2769",
+      "ref": "C-2769",
+      "label": "Kathy Nester States Defense Has Not Accessed Tyler Robinson's Phone",
+      "claim": "Defense attorney Kathy Nester states she has not been able to look at her client's phone, with the data requiring expert analysis via shipped hard drives.",
+      "anchored_artifacts": [
+        "A-1994.2"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1217",
+        "N-1698"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:20",
+      "investigative_direction": "Verify chain of custody and forensic examination status of Tyler Robinson's phone."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2770",
+      "ref": "C-2770",
+      "label": "Kathy Nester States Defense Has Never Seen the Gun",
+      "claim": "Defense attorney Kathy Nester states the defense has never physically seen the firearm.",
+      "anchored_artifacts": [
+        "A-1994.2"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1699"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:13",
+      "investigative_direction": "Confirm physical location of the firearm and whether defense examination has occurred as of case docket."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2771",
+      "ref": "C-2771",
+      "label": "Gun Held at Quantico in a State Case",
+      "claim": "Nester states the firearm is held at Quantico, Virginia.",
+      "anchored_artifacts": [
+        "A-1994.2"
+      ],
+      "related_nodes": [
+        "N-1209",
+        "N-1699"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:13",
+      "investigative_direction": "Determine jurisdictional basis for federal custody of evidence in a state case; check transfer records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2772",
+      "ref": "C-2772",
+      "label": "Prosecution Plans 35 Exhibits at Probable Cause Hearing",
+      "claim": "The prosecution reportedly plans to present 35 exhibits at the probable cause hearing.",
+      "anchored_artifacts": [
+        "A-1994.1"
+      ],
+      "related_nodes": [
+        "N-1208",
+        "N-1700"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:21",
+      "investigative_direction": "Obtain probable cause hearing exhibit list when filed."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2773",
+      "ref": "C-2773",
+      "label": "Trump Truth Social Post: \"Dying Fast\"",
+      "claim": "Donald Trump posted on Truth Social stating that Candace Owens, Megyn Kelly, and Tucker Carlson are \"dying fast\" and \"fake MAGA.\"",
+      "anchored_artifacts": [
+        "A-1995.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:35:29",
+      "investigative_direction": "Verify post directly on Truth Social; note timestamp and any subsequent deletions."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2774",
+      "ref": "C-2774",
+      "label": "Trump Follow-up Post Mentions \"Mentally Ill\"",
+      "claim": "A follow-up Trump Truth Social post refers to Candace Owens as mentally ill (per host's read-aloud summary).",
+      "anchored_artifacts": [
+        "A-1995.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:29",
+      "investigative_direction": "Locate and verify the exact second post on Truth Social."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2775",
+      "ref": "C-2775",
+      "label": "Turning Point Cited Death Threats in Canceling Pinnacle High School Event",
+      "claim": "Turning Point USA email cancellation stated the Pinnacle High School event was canceled due to \"serious death threats\" against Erika Kirk.",
+      "anchored_artifacts": [
+        "A-1996.1"
+      ],
+      "related_nodes": [
+        "N-1702"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:50",
+      "investigative_direction": "Verify the email's authenticity; cross-reference with police or DHS records regarding threats."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2776",
+      "ref": "C-2776",
+      "label": "Newsweek: Parent Backlash Against Erika Kirk High School Talk",
+      "claim": "Newsweek published an article reporting Erika Kirk's high school talk sparked furious backlash from parents.",
+      "anchored_artifacts": [
+        "A-1997.1"
+      ],
+      "related_nodes": [
+        "N-1702"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:35",
+      "investigative_direction": "Retrieve full Newsweek article and inspect specific claims and named sources."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2777",
+      "ref": "C-2777",
+      "label": "Daily Beast: Student Revolt Prompted Off-Campus Move",
+      "claim": "The Daily Beast reported the high school moved the Erika Kirk event off campus after students revolted.",
+      "anchored_artifacts": [
+        "A-1997.2"
+      ],
+      "related_nodes": [
+        "N-1702"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:35",
+      "investigative_direction": "Retrieve Daily Beast article; check named sources."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2778",
+      "ref": "C-2778",
+      "label": "Arizona Republic: Parents Unhappy With Erika Kirk Campus Invitation",
+      "claim": "The Arizona Republic reported a high school group invited Erika Kirk to campus and parents were unhappy.",
+      "anchored_artifacts": [
+        "A-1997.3"
+      ],
+      "related_nodes": [
+        "N-1702"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:35",
+      "investigative_direction": "Retrieve full Arizona Republic article."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2779",
+      "ref": "C-2779",
+      "label": "Alan Jacoby Publicly Accused Laura Loomer of Groping",
+      "claim": "Alan Jacoby publicly alleged Laura Loomer groped him at Bedminster while watching a golf tournament with President Trump.",
+      "anchored_artifacts": [
+        "A-1998.1"
+      ],
+      "related_nodes": [
+        "N-1212",
+        "N-1704"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:44",
+      "investigative_direction": "Verify Jacoby's tweet directly; check for any legal filings or counter-statements."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2780",
+      "ref": "C-2780",
+      "label": "Laura Loomer Video Shows Her Learning to Draw Star of David",
+      "claim": "A video clip shows Laura Loomer learning to draw a Star of David, presented as evidence she was not raised Jewish.",
+      "anchored_artifacts": [
+        "A-1999.1"
+      ],
+      "related_nodes": [
+        "N-1705"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:25",
+      "investigative_direction": "Verify date and source of the video; consider whether the inference (not raised Jewish) is supportable by the artifact alone."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2781",
+      "ref": "C-2781",
+      "label": "Milo Yiannopoulos Published Alleged Laura Loomer Diagnoses",
+      "claim": "Milo Yiannopoulos published a written piece stating Laura Loomer has been diagnosed at various times with bipolar disorder, histrionic personality disorder, borderline personality disorder, and narcissistic personality disorder.",
+      "anchored_artifacts": [
+        "A-2000.1"
+      ],
+      "related_nodes": [
+        "N-1703"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:54",
+      "investigative_direction": "Locate original Yiannopoulos publication; assess sourcing for clinical claims."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2782",
+      "ref": "C-2782",
+      "label": "Milo Yiannopoulos Alleged Loomer Sexually Assaulted 2020 Campaign Volunteer",
+      "claim": "Milo Yiannopoulos alleged Laura Loomer sexually assaulted a young Brazilian volunteer on her 2020 congressional campaign.",
+      "anchored_artifacts": [
+        "A-2000.2"
+      ],
+      "related_nodes": [
+        "N-1704"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:53",
+      "investigative_direction": "Locate corroborating messages cited by Milo; verify volunteer's identity and willingness to be a source."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2783",
+      "ref": "C-2783",
+      "label": "Laura Loomer Publicly Advocated \"Psychological Warfare\" Against Enemies",
+      "claim": "Laura Loomer publicly tweeted at Benny Johnson advocating breaking down enemies through \"psychological warfare\" rather than prayer.",
+      "anchored_artifacts": [
+        "A-2001.1"
+      ],
+      "related_nodes": [
+        "N-1704"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:42",
+      "investigative_direction": "Verify tweet on X / archive."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2784",
+      "ref": "C-2784",
+      "label": "Laura Loomer Publicly Alleged George Farmer Drunk Driving With Firearm",
+      "claim": "Laura Loomer tweeted alleging George Farmer (Candace Owens' husband) hit Tracy Robinson's car while allegedly drunk with an alleged firearm.",
+      "anchored_artifacts": [
+        "A-2002.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-1214",
+        "N-1706"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:26",
+      "investigative_direction": "Verify tweet and any linked court filings; check Davidson County court records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2785",
+      "ref": "C-2785",
+      "label": "Insurance/Court Record Shows $6,987 Payment to Tracy Robinson",
+      "claim": "A court or insurance record displayed on air shows a $6,987 payment to Tracy Robinson.",
+      "anchored_artifacts": [
+        "A-2003.1"
+      ],
+      "related_nodes": [
+        "N-1213",
+        "N-1214",
+        "N-1706"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:11",
+      "investigative_direction": "Pull the underlying court filing in Davidson County, Tennessee."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2786",
+      "ref": "C-2786",
+      "label": "Laura Loomer Captured on Video Making Sexually Suggestive Comments",
+      "claim": "A video clip shows Laura Loomer making physically suggestive comments and conduct toward a young man who appears uncomfortable.",
+      "anchored_artifacts": [
+        "A-2004.1"
+      ],
+      "related_nodes": [
+        "N-1704"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:43",
+      "investigative_direction": "Verify source and date of video; identify the individual."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2787",
+      "ref": "C-2787",
+      "label": "YouTube Comment: Charlie Told Multiple People He Might Be Killed",
+      "claim": "A YouTube commenter (SpidyBear3995) asserts that Charlie Kirk told multiple people he might be killed but still showed up.",
+      "anchored_artifacts": [
+        "A-2005.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:54:44",
+      "investigative_direction": "Cross-reference with prior episodes where similar claims have been made; corroborate via documentary sources."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2788",
+      "ref": "C-2788",
+      "label": "YouTube Comment Raises Tyler Robinson's Roommate as Potential Suspect",
+      "claim": "A YouTube commenter (Queen Saxi) raises the question of whether Tyler Robinson's roommate helped set him up, citing similar build and dark hair and his absence.",
+      "anchored_artifacts": [
+        "A-2005.10"
+      ],
+      "related_nodes": [
+        "N-1709"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:45",
+      "investigative_direction": "Identify Tyler Robinson's roommate from public records; check his status and any investigative attention."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-2789",
+      "ref": "C-2789",
+      "label": "Erika Kirk Filed Victim's Speedy Trial Motion in Utah on January 16",
+      "claim": "The host states that on January 16, Erika Kirk filed an invocation of speedy trial rights in Utah, permitted under Utah's state victim-rights code.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-1701"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:23",
+      "investigative_direction": "Retrieve the Utah state court filing directly via docket search."
+    }
+  ],
+  "memes": []
+}
