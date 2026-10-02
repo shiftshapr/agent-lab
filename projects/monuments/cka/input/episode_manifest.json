@@ -8,9 +8,9 @@
     "publish_dates": "https://invidious.f5.si"
   },
   "counts": {
-    "manifest_entries": 157,
+    "manifest_entries": 159,
     "kirk_special": 2,
-    "numbered_show": 155
+    "numbered_show": 157
   },
   "episodes": [
     {
@@ -1582,6 +1582,26 @@
       "kind": "numbered_show",
       "notes": null,
       "seq": 157
+    },
+    {
+      "upload_date": "2026-09-30",
+      "youtube_id": "5TTkMa49qj8",
+      "title": "VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395",
+      "url": "https://www.youtube.com/watch?v=5TTkMa49qj8",
+      "candace_ep_number": 395,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 158
+    },
+    {
+      "upload_date": "2026-10-01",
+      "youtube_id": "q4m-kGzvwjw",
+      "title": "LEAKED! Erika\u2019s Texts, TPUSA Contracts, And The J6 Patsy\u2019s Connection To Tyler Robinson. | Ep 396",
+      "url": "https://www.youtube.com/watch?v=q4m-kGzvwjw",
+      "candace_ep_number": 396,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 159
     }
   ]
 }

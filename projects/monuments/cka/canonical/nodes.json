@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updated": "2026-10-02T16:06:47Z",
+  "updated": "2026-10-02T20:27:51Z",
   "monument": "cka",
-  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11\u201320 extract; seq 157 Ep 394 daily ingest.",
+  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11\u201320 extract; seq 157\u2013159 Ep 394\u2013396 daily ingest.",
   "next_person_id": 1000,
-  "next_investigation_id": 2355,
+  "next_investigation_id": 2365,
   "nodes": {
     "N-1": {
       "canonical_name": "Charlie Kirk",
@@ -52,7 +52,9 @@
         153,
         154,
         156,
-        157
+        157,
+        158,
+        159
       ]
     },
     "N-7": {
@@ -70,7 +72,9 @@
         8,
         9,
         10,
-        157
+        157,
+        158,
+        159
       ]
     },
     "N-59": {
@@ -78,7 +82,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        1
+        1,
+        158
       ]
     },
     "N-2": {
@@ -99,7 +104,9 @@
         76,
         85,
         148,
-        157
+        157,
+        158,
+        159
       ]
     },
     "N-60": {
@@ -266,7 +273,9 @@
         5,
         6,
         7,
-        10
+        10,
+        158,
+        159
       ]
     },
     "N-66": {
@@ -280,7 +289,9 @@
         6,
         7,
         8,
-        10
+        10,
+        158,
+        159
       ]
     },
     "N-67": {
@@ -304,7 +315,9 @@
         5,
         6,
         7,
-        8
+        8,
+        158,
+        159
       ]
     },
     "N-68": {
@@ -330,7 +343,8 @@
         7,
         8,
         9,
-        10
+        10,
+        159
       ]
     },
     "N-70": {
@@ -388,7 +402,8 @@
         4,
         6,
         9,
-        10
+        10,
+        159
       ]
     },
     "N-35": {
@@ -397,7 +412,8 @@
       "aliases": [],
       "episodes": [
         2,
-        3
+        3,
+        159
       ]
     },
     "N-76": {
@@ -433,7 +449,8 @@
         6,
         8,
         9,
-        10
+        10,
+        159
       ]
     },
     "N-80": {
@@ -809,7 +826,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        3
+        3,
+        159
       ]
     },
     "N-1099": {
@@ -867,7 +885,8 @@
       "episodes": [
         4,
         7,
-        8
+        8,
+        159
       ]
     },
     "N-103": {
@@ -1073,7 +1092,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        5
+        5,
+        159
       ]
     },
     "N-1113": {
@@ -1145,7 +1165,9 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        5
+        5,
+        158,
+        159
       ]
     },
     "N-1122": {
@@ -1235,7 +1257,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        6
+        6,
+        159
       ]
     },
     "N-121": {
@@ -1497,7 +1520,8 @@
       "aliases": [],
       "episodes": [
         7,
-        8
+        8,
+        159
       ]
     },
     "N-1148": {
@@ -3349,7 +3373,9 @@
       "aliases": [],
       "episodes": [
         16,
-        157
+        157,
+        158,
+        159
       ]
     },
     "N-216": {
@@ -3992,7 +4018,9 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        20
+        20,
+        158,
+        159
       ]
     },
     "N-273": {
@@ -4112,7 +4140,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        20
+        20,
+        158
       ]
     },
     "N-1265": {
@@ -4248,7 +4277,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        22
+        22,
+        159
       ]
     },
     "N-1269": {
@@ -4640,7 +4670,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        25
+        25,
+        158
       ]
     },
     "N-1289": {
@@ -5017,7 +5048,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        29
+        29,
+        158
       ]
     },
     "N-365": {
@@ -5835,7 +5867,8 @@
       "aliases": [],
       "episodes": [
         36,
-        157
+        157,
+        159
       ]
     },
     "N-436": {
@@ -5957,7 +5990,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        37
+        37,
+        158
       ]
     },
     "N-445": {
@@ -6901,7 +6935,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        43
+        43,
+        159
       ]
     },
     "N-1396": {
@@ -7221,7 +7256,9 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        47
+        47,
+        158,
+        159
       ]
     },
     "N-543": {
@@ -8237,7 +8274,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        53
+        53,
+        159
       ]
     },
     "N-1460": {
@@ -8493,7 +8531,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        55
+        55,
+        159
       ]
     },
     "N-697": {
@@ -9094,7 +9133,9 @@
       "aliases": [],
       "episodes": [
         59,
-        157
+        157,
+        158,
+        159
       ]
     },
     "N-750": {
@@ -9143,7 +9184,9 @@
       "aliases": [],
       "episodes": [
         59,
-        157
+        157,
+        158,
+        159
       ]
     },
     "N-756": {
@@ -9639,7 +9682,9 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        64
+        64,
+        158,
+        159
       ]
     },
     "N-797": {
@@ -10256,7 +10301,8 @@
       "aliases": [],
       "episodes": [
         67,
-        157
+        157,
+        159
       ]
     },
     "N-849": {
@@ -10368,7 +10414,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        67
+        67,
+        159
       ]
     },
     "N-874": {
@@ -10721,7 +10768,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        69
+        69,
+        159
       ]
     },
     "N-899": {
@@ -11919,7 +11967,9 @@
       "aliases": [],
       "episodes": [
         79,
-        157
+        157,
+        158,
+        159
       ]
     },
     "N-993": {
@@ -15045,7 +15095,9 @@
       "aliases": [],
       "episodes": [
         153,
-        157
+        157,
+        158,
+        159
       ]
     },
     "N-1031": {
@@ -15198,7 +15250,9 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        157
+        157,
+        158,
+        159
       ]
     },
     "N-2351": {
@@ -15206,7 +15260,9 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        157
+        157,
+        158,
+        159
       ]
     },
     "N-2352": {
@@ -15230,7 +15286,92 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        157
+        157,
+        158,
+        159
+      ]
+    },
+    "N-2355": {
+      "canonical_name": "Vanity Fair Erika Kirk Profile (Clara Malo)",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        158,
+        159
+      ]
+    },
+    "N-2356": {
+      "canonical_name": "Erika Heaven-Focused Political Non-Answers / CEO Fitness",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        158
+      ]
+    },
+    "N-2357": {
+      "canonical_name": "Night-of Assassination Aloe Yoga Outfit Directive",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        158,
+        159
+      ]
+    },
+    "N-2358": {
+      "canonical_name": "Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        158
+      ]
+    },
+    "N-2359": {
+      "canonical_name": "July 9 2025 Archive of Candace College YouTube Project",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        158,
+        159
+      ]
+    },
+    "N-2360": {
+      "canonical_name": "Dominate 2.0 Mar-a-Lago \u201cBig Hitters\u201d Telegram Donor List",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        159
+      ]
+    },
+    "N-2361": {
+      "canonical_name": "Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        159
+      ]
+    },
+    "N-2362": {
+      "canonical_name": "Expanded Feb\u2013Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Why Refi)",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        159
+      ]
+    },
+    "N-2363": {
+      "canonical_name": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        159
+      ]
+    },
+    "N-2364": {
+      "canonical_name": "Scripps Media Bodycam Pattern (Robinson + Cole)",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        159
       ]
     }
   }
