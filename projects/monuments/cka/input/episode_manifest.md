@@ -159,3 +159,5 @@
 | 155 | 2026-09-22 | numbered_show | 391 | 6XfDqKTdFKg | BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… \| Ep 391 |
 | 156 | 2026-09-25 | numbered_show | 393 | _Sq5RqP27NY | CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. \| Ep 393 |
 | 157 | 2026-09-25 | numbered_show | 394 | bIuvTKlFeGo | WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 |
+| 158 | 2026-09-30 | numbered_show | 395 | 5TTkMa49qj8 | VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 |
+| 159 | 2026-10-01 | numbered_show | 396 | q4m-kGzvwjw | LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 |

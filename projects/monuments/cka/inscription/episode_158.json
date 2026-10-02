@@ -1,0 +1,1046 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 158,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–01:07:20",
+    "extraction_timestamp": "2026-10-02T20:40:00Z",
+    "model_version": "grok-manual-extract-seq158",
+    "transcript_sha256": "e76df2a27b328a03e2bd5dec62761cfab8e23f3d0dbaf2de73a6b7d28fd7d54b",
+    "analysis_date": "2026-10-02"
+  },
+  "executive_summary": "This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Malo, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions—contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kovette not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroot), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Why Refi / contract material for the next show.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2459",
+      "family_ref": "A-2459",
+      "bundle_name": "Vanity Fair Erika Kirk Profile Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2459.1",
+          "ref": "A-2459.1",
+          "description": "Host read-through of Clara Malo’s Vanity Fair profile of Erika Kirk, including snark/frustration framing, “evangelical Catholic hybrid” faith language, political-question avoidance, Israel/BB “no bandwidth” answers, and CEO-fitness critique.",
+          "related_claims": [
+            "C-3596",
+            "C-3597",
+            "C-3598"
+          ],
+          "related_nodes": [
+            "N-2355",
+            "N-2356",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:01:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2459.2",
+          "ref": "A-2459.2",
+          "description": "Profile photography / relatability staging (Gigi under hat; Charlie bust; Louboutin / toys / kids’ shoes; “not in the drapes”).",
+          "related_claims": [
+            "C-3596"
+          ],
+          "related_nodes": [
+            "N-2355",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2460",
+      "family_ref": "A-2460",
+      "bundle_name": "Aloe Yoga Night-Of Outfit Directive Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2460.1",
+          "ref": "A-2460.1",
+          "description": "Profile account that the night Charlie died, Erika in a Salt Lake City hotel directed a TPUSA staffer to Aloe Yoga for plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics; Elizabeth McCoy’s prior public thread claimed she went for clothes.",
+          "related_claims": [
+            "C-3599"
+          ],
+          "related_nodes": [
+            "N-2357",
+            "N-2",
+            "N-542"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:17:23",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2461",
+      "family_ref": "A-2461",
+      "bundle_name": "Amfest Glitter Suit / “Only Thing That Fit” Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2461.1",
+          "ref": "A-2461.1",
+          "description": "Profile quote that the ~$1600 Alice + Olivia sparkly suit was “the only thing that fit,” contrasted by host with a catalog of other public outfits across fall 2025 appearances.",
+          "related_claims": [
+            "C-3600"
+          ],
+          "related_nodes": [
+            "N-2355",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:37",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2462",
+      "family_ref": "A-2462",
+      "bundle_name": "Will Appointment / DeGroot Confirmation Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2462.1",
+          "ref": "A-2462.1",
+          "description": "Doug DeGroot on-record that Charlie and Erika planned to sign will paperwork the Monday after the murder; host overlays alleged Mikey McCoy gatekeeping and prior cancellations.",
+          "related_claims": [
+            "C-3601"
+          ],
+          "related_nodes": [
+            "N-1288",
+            "N-796",
+            "N-272",
+            "N-1",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:26:24",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2463",
+      "family_ref": "A-2463",
+      "bundle_name": "Tucker Carlson Vanity Fair Quotes Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2463.1",
+          "ref": "A-2463.1",
+          "description": "Carlson quotes in the profile: TPUSA leadership “wholly focused on Candace Owens”; advice to Andrew Kovette not to focus on her; and that Erika was privately more critical of Israel / interventionism than Charlie.",
+          "related_claims": [
+            "C-3602",
+            "C-3603"
+          ],
+          "related_nodes": [
+            "N-50",
+            "N-214",
+            "N-1121",
+            "N-2355"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:52",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2464",
+      "family_ref": "A-2464",
+      "bundle_name": "Post-Review Smear Flip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2464.1",
+          "ref": "A-2464.1",
+          "description": "Host presentation of Daily Mail “Candace in crisis” framing and the subsequent “cheating lesbian / secret Zionist” narrative package built around a real 2008 college journalism final and related Flickr/Twitter claims.",
+          "related_claims": [
+            "C-3604"
+          ],
+          "related_nodes": [
+            "N-2358",
+            "N-7",
+            "N-59"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:37:37",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2465",
+      "family_ref": "A-2465",
+      "bundle_name": "July 9 2025 College-Video Archive / Ackman Amplification Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2465.1",
+          "ref": "A-2465.1",
+          "description": "Host claim that the college YouTube project was first archived July 9, 2025 (Netanyahu-in-DC window; day before July 10 UVU courtyard ask), with related MySpace/Flickr archive dates in August, and Bill Ackman amplifying the smear on X.",
+          "related_claims": [
+            "C-3605",
+            "C-3606"
+          ],
+          "related_nodes": [
+            "N-2359",
+            "N-66",
+            "N-65",
+            "N-2351",
+            "N-2354"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:45",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject; will appointment, Israel-shift context, and July 2025 concurrent pressures framed around his death and TPUSA succession.",
+      "related_artifacts": [
+        "A-2462.1"
+      ],
+      "related_claims": [
+        "C-3601",
+        "C-3603"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2354"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Central subject of the Vanity Fair profile; host critique of heaven-focused CEO posture, Aloe directive, glitter-suit explanation, Israel silence, and rapid board elevation.",
+      "related_artifacts": [
+        "A-2459.1"
+      ],
+      "related_claims": [
+        "C-3596",
+        "C-3597",
+        "C-3598",
+        "C-3599",
+        "C-3600"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2355",
+        "N-2356"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host/narrator; target of smear flip discussed in second half.",
+      "related_artifacts": [
+        "A-2464.1"
+      ],
+      "related_claims": [
+        "C-3604"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2358"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Quoted in Vanity Fair on TPUSA’s Candace-obsession and on Erika’s privately stronger Israel criticism.",
+      "related_artifacts": [
+        "A-2463.1"
+      ],
+      "related_claims": [
+        "C-3602",
+        "C-3603"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-59",
+      "ref": "N-59",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "Target of “secret Zionist / speaks Hebrew” smear; host explains Oxford theology ancient-Hebrew requirement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3604"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2358"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "July 9 DC visit window tied to college-video archive date and prior Israel-pressure timeline.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3605"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2359",
+        "N-2354"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Named as amplifier of the lesbian/Zionist smear package; host flags deleted X amplification during Charlie’s Israel-pressure period.",
+      "related_artifacts": [
+        "A-2465.1"
+      ],
+      "related_claims": [
+        "C-3606"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2359"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-214",
+      "ref": "N-214",
+      "name": "Andrew Kovette",
+      "type": "person",
+      "description": "Recipient of Carlson advice in the profile; prior source of early Erika-CEO notice to host; tied to Candace-focus critique.",
+      "related_artifacts": [
+        "A-2463.1"
+      ],
+      "related_claims": [
+        "C-3602"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Host alleges gatekeeping of the will appointment and contrasts profile “shrine office” claims with early McCoy use of Charlie’s home-office space / Fox hits.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3601"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1264",
+        "N-1288"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-364",
+      "ref": "N-364",
+      "name": "Glenn Beck",
+      "type": "person",
+      "description": "Referenced regarding Erika’s December interview claim that Charlie was unconcerned about death threats the night before (contrast with DeGroot framing).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3601"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-444",
+      "ref": "N-444",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Named among fall-2025 public appearances in the host’s wardrobe catalog rebutting “only thing that fit.”",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3600"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-542",
+      "ref": "N-542",
+      "name": "Elizabeth McCoy",
+      "type": "person",
+      "description": "Prior public thread claiming she went to Aloe for clothes; host contrasts with profile’s Erika-directed account.",
+      "related_artifacts": [
+        "A-2460.1"
+      ],
+      "related_claims": [
+        "C-3599"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-749",
+      "ref": "N-749",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Referenced in post-review segment as heavily debunked by Lake Force relative to Shawn Ryan narrative.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2329",
+        "N-2350"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-755",
+      "ref": "N-755",
+      "name": "Frank Turk",
+      "type": "person",
+      "description": "Rhetorically invoked in closing comments / pastor jab.",
+      "related_artifacts": [
+        "A-2459.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-796",
+      "ref": "N-796",
+      "name": "Doug DeGroot",
+      "type": "person",
+      "description": "Board member / couple’s financial adviser quoted on will appointment and on media pressure driving 48-hour CEO vote.",
+      "related_artifacts": [
+        "A-2462.1"
+      ],
+      "related_claims": [
+        "C-3601",
+        "C-3607"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-992",
+      "ref": "N-992",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Opening callback: host’s July 18 tweet predicting Vanity Fair widow spread; Neff bookmarked it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3596"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2355"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1121",
+      "ref": "N-1121",
+      "name": "Kirk-Israel Narrative Dispute",
+      "type": "investigation_target",
+      "description": "Advanced by Carlson quote that Erika was privately more critical of Israel than Charlie, versus her public bandwidth refusal / glowing partnerships.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3603",
+        "C-3598"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2356"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1264",
+      "ref": "N-1264",
+      "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+      "type": "investigation_target",
+      "description": "Reused for post-assassination office/home-office behavior contrast with shrine narrative.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3601"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-272"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1288",
+      "ref": "N-1288",
+      "name": "McCoy Succession Plan",
+      "type": "investigation_target",
+      "description": "Reused around will-appointment timing and succession optics.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3601",
+        "C-3607"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2329",
+      "ref": "N-2329",
+      "name": "Independent Review of UVU Security Failures",
+      "type": "investigation_target",
+      "description": "Background for TPUSA non-participation contrast and post-review smear timing.",
+      "related_artifacts": [
+        "A-2459.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2350"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2350",
+      "ref": "N-2350",
+      "name": "TPUSA Non-Participation in UVU Independent Review",
+      "type": "investigation_target",
+      "description": "Reused: host opens by contrasting Vanity Fair access with refusal to cooperate with Lake Force.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3596"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2329"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2351",
+      "ref": "N-2351",
+      "name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilikut Chain)",
+      "type": "investigation_target",
+      "description": "Reused when plotting July 9 college-video archive against July 10 UVU ask.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3605"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2359"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2354",
+      "ref": "N-2354",
+      "name": "July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
+      "type": "investigation_target",
+      "description": "Reused as parent concurrent-pressure frame for Netanyahu/Hamptons/archive overlay.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3605"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2359"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2355",
+      "ref": "N-2355",
+      "name": "Vanity Fair Erika Kirk Profile (Clara Malo)",
+      "type": "investigation_target",
+      "description": "New topic: published profile granting months of access; host treats as primary source artifact exposing CEO/widow narrative contradictions.",
+      "related_artifacts": [
+        "A-2459.1"
+      ],
+      "related_claims": [
+        "C-3596",
+        "C-3597"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2356",
+      "ref": "N-2356",
+      "name": "Erika Heaven-Focused Political Non-Answers / CEO Fitness",
+      "type": "investigation_target",
+      "description": "New topic: profile quotations where Erika avoids politics/Israel via heaven/bandwidth framing; writer Clara Malo on-camera notes disingenuous/incoherent political conversation.",
+      "related_artifacts": [
+        "A-2459.1"
+      ],
+      "related_claims": [
+        "C-3597",
+        "C-3598"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1121"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2357",
+      "ref": "N-2357",
+      "name": "Night-of Assassination Aloe Yoga Outfit Directive",
+      "type": "investigation_target",
+      "description": "New topic: profile’s Erika-directed Aloe purchase the morning after for Air Force 2 optics, versus prior Elizabeth McCoy clothing-run narrative.",
+      "related_artifacts": [
+        "A-2460.1"
+      ],
+      "related_claims": [
+        "C-3599"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-542"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2358",
+      "ref": "N-2358",
+      "name": "Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)",
+      "type": "investigation_target",
+      "description": "New topic: post–UVU-review smear escalation flipping prior jealous/antisemitic frames into fabricated sexuality/blackmail/Zionist-control package.",
+      "related_artifacts": [
+        "A-2464.1"
+      ],
+      "related_claims": [
+        "C-3604"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-7",
+        "N-59"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2359",
+      "ref": "N-2359",
+      "name": "July 9 2025 Archive of Candace College YouTube Project",
+      "type": "investigation_target",
+      "description": "New topic: first archive of 2008 college final on July 9, 2025 adjacent to Netanyahu DC visit and July 10 UVU courtyard request; later smear uses that real video as seed; Ackman amplification.",
+      "related_artifacts": [
+        "A-2465.1"
+      ],
+      "related_claims": [
+        "C-3605",
+        "C-3606"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-66",
+        "N-2351",
+        "N-2354"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3596",
+      "ref": "C-3596",
+      "label": "Vanity Fair published an access-heavy Erika Kirk profile that the host reads as exposure, not celebration",
+      "claim": "Host asserts Clara Malo’s Vanity Fair profile—enabled by months of TPUSA/Erika access including family—reads as a frustrated reporter’s portrait of an obvious grift, while TPUSA refused Lake Force review cooperation.",
+      "anchored_artifacts": [
+        "A-2459.1",
+        "A-2459.2"
+      ],
+      "related_nodes": [
+        "N-2355",
+        "N-2350",
+        "N-2",
+        "N-992"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:33",
+      "investigative_direction": "Archive the full Vanity Fair piece; list access dates; compare cooperation posture to Lake Force outreach log."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3597",
+      "ref": "C-3597",
+      "label": "Erika avoided basic political questions via heaven-focused / bandwidth framing",
+      "claim": "Per the profile as read, Erika described decisions via a heaven/reunion heuristic and seemed uneasy articulating political views; writer later states she deflected political conversation in a way that felt disingenuous or incoherent.",
+      "anchored_artifacts": [
+        "A-2459.1"
+      ],
+      "related_nodes": [
+        "N-2356",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:51",
+      "investigative_direction": "Extract all on-record political Q&A from the profile; compare to TPUSA CEO public statements in the same window."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3598",
+      "ref": "C-3598",
+      "label": "Erika declined substantive Israel/BB answers despite CEO role",
+      "claim": "When pressed on Israel/Netanyahu, Erika said she does not sit around thinking about what BB is doing and lacks bandwidth beyond honoring Charlie, kids, and building TPUSA—host argues a political CEO requires an opinion.",
+      "anchored_artifacts": [
+        "A-2459.1"
+      ],
+      "related_nodes": [
+        "N-2356",
+        "N-1121",
+        "N-2",
+        "N-65"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:44",
+      "investigative_direction": "Compile Erika Israel-related statements pre/post Sept 10; align with Carlson’s private-criticism quote (C-3603)."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3599",
+      "ref": "C-3599",
+      "label": "Erika directed the Aloe Yoga clothing run the night/morning after the assassination",
+      "claim": "The profile states Erika, thinking about Air Force 2 optics and a “heaven is my home” shirt, had a TPUSA staffer buy plain black Aloe clothes the next morning; host contrasts prior Elizabeth McCoy “I went for clothes” narrative and calls the PR-forward mindset abnormal.",
+      "anchored_artifacts": [
+        "A-2460.1"
+      ],
+      "related_nodes": [
+        "N-2357",
+        "N-2",
+        "N-542"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:23",
+      "investigative_direction": "Preserve profile text; archive Elizabeth McCoy thread; seek staff corroboration without minting new Persons."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3600",
+      "ref": "C-3600",
+      "label": "“Only thing that fit” glitter-suit explanation conflicts with other public outfits",
+      "claim": "Host disputes Erika’s profile claim that the Amfest Alice + Olivia sparkly suit was the only thing that fit, citing a string of other televised/public outfits across Sept–Dec 2025.",
+      "anchored_artifacts": [
+        "A-2461.1"
+      ],
+      "related_nodes": [
+        "N-2355",
+        "N-2",
+        "N-444"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:37",
+      "investigative_direction": "Build dated outfit plate from primary video stills; keep claim scoped to contradiction vs “only thing that fit.”"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3601",
+      "ref": "C-3601",
+      "label": "Charlie and Erika had a will-signing appointment set for the Monday after the murder",
+      "claim": "Doug DeGroot confirms they planned to sign will paperwork that Monday; host alleges Mikey McCoy gatekept/canceled prior attempts and rejects DeGroot’s death-threat framing as the sole motive.",
+      "anchored_artifacts": [
+        "A-2462.1"
+      ],
+      "related_nodes": [
+        "N-1288",
+        "N-796",
+        "N-272",
+        "N-1",
+        "N-2",
+        "N-1264"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:24",
+      "investigative_direction": "Seek calendar/email primary for the appointment; separate DeGroot on-record facts from host allegations about McCoy."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3602",
+      "ref": "C-3602",
+      "label": "Tucker Carlson told Andrew Kovette not to focus on Candace; leadership is “wholly focused” on her",
+      "claim": "Vanity Fair quotes Carlson that TPUSA leadership is wholly focused on Candace Owens and that he advised Kovette not to focus on her if they dislike her.",
+      "anchored_artifacts": [
+        "A-2463.1"
+      ],
+      "related_nodes": [
+        "N-50",
+        "N-214",
+        "N-7",
+        "N-2355"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:52",
+      "investigative_direction": "Confirm quote context in published piece; note host’s declined-to-comment status."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3603",
+      "ref": "C-3603",
+      "label": "Carlson says Erika was privately more critical of Israel than Charlie",
+      "claim": "Per Carlson’s conversations with Erika as relayed in the profile, she was more critical of Israel and interventionist foreign policy than Charlie; host contrasts that with her post-death public silence/glowing partnerships.",
+      "anchored_artifacts": [
+        "A-2463.1"
+      ],
+      "related_nodes": [
+        "N-50",
+        "N-2",
+        "N-1",
+        "N-1121",
+        "N-2356"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:36",
+      "investigative_direction": "Pair with on-record Erika statements; treat Carlson quote as secondhand unless further primary emerges."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3604",
+      "ref": "C-3604",
+      "label": "After UVU review fallout, smear narrative flipped to a fabricated lesbian/Zionist package",
+      "claim": "Host asserts attackers shifted from “jealous of Erika / antisemitic” frames to a deranged “cheating lesbian funded by a Zionist” package seeded by a real 2008 college final and fake adjacent accounts.",
+      "anchored_artifacts": [
+        "A-2464.1"
+      ],
+      "related_nodes": [
+        "N-2358",
+        "N-7",
+        "N-59",
+        "N-2329"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:02",
+      "investigative_direction": "Archive primary smear posts/headlines; separate real 2008 video from unverified MySpace/sex-site claims."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3605",
+      "ref": "C-3605",
+      "label": "Candace’s college YouTube project was first archived July 9, 2025 beside Netanyahu DC visit / July 10 UVU ask",
+      "claim": "Host claims Wayback/first-archive of the college project is July 9, 2025—the Netanyahu-in-Washington window—and the next day is the July 10 HQ-driven UVU courtyard request; later August archives feed the smear package.",
+      "anchored_artifacts": [
+        "A-2465.1"
+      ],
+      "related_nodes": [
+        "N-2359",
+        "N-2351",
+        "N-2354",
+        "N-65"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:45",
+      "investigative_direction": "Verify archive timestamps on primary archive.org (or equivalent) captures; keep causal inference provisional."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3606",
+      "ref": "C-3606",
+      "label": "Bill Ackman amplified the smear package and later deleted related posts",
+      "claim": "Host asserts billionaire Bill Ackman retweeted/amplified the college-account smear during Charlie’s Israel-pressure period and deleted tweets after capture.",
+      "anchored_artifacts": [
+        "A-2465.1"
+      ],
+      "related_nodes": [
+        "N-66",
+        "N-2359",
+        "N-7"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:25",
+      "investigative_direction": "Preserve deleted-tweet captures; confirm handles/dates; avoid over-claiming coordination without docs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3607",
+      "ref": "C-3607",
+      "label": "Board voted Erika CEO within ~48 hours; DeGroot’s “media pressure” explanation is disputed",
+      "claim": "Profile/DeGroot state the board voted two days after Charlie’s death to install Erika, delaying public announce toward memorial because of media questions; host rejects the claim that reporters flooded them for a replacement within 24 hours as the real driver.",
+      "anchored_artifacts": [
+        "A-2459.1",
+        "A-2462.1"
+      ],
+      "related_nodes": [
+        "N-796",
+        "N-2",
+        "N-1288"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:00",
+      "investigative_direction": "Timestamp board vote vs public announce vs contemporaneous press queries; seek board minutes if ever produced."
+    }
+  ],
+  "memes": []
+}

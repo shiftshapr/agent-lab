@@ -1,0 +1,1310 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 159,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–01:09:39",
+    "extraction_timestamp": "2026-10-02T20:45:00Z",
+    "model_version": "grok-manual-extract-seq159",
+    "transcript_sha256": "5fd6be5a9dae42c57edc3323318587f2482d1bf48746bbbcced3ebc790b9cda5",
+    "analysis_date": "2026-10-02"
+  },
+  "executive_summary": "Building on the Vanity Fair critique, this episode presents leaked Telegram traffic from a “Dominate 2.0” group in which Erika Kirk asks staff for “big hitters” / full donor lists ahead of a Mar-a-Lago fundraising event (Taylor Scornovako replies with six-figure donors sorted by MGO). The host then publishes Why Refi (Y Refi) sponsorship contracts with TPUSA: a detailed February 2025 ~$2.25M agreement through early 2026, plus a sparse July 25, 2025 addendum adding ~$1.25M for Charlie’s fall campus tour (branded wall, presenting sponsorship, short mainstage speaking)—timings the host ties to Zionist-donor pullouts after Charlie’s Israel shift and to the UVU booking chain. A long concurrent timeline overlays Why Refi, Macron/Brigitte pressure calls (Feb), BCG/Gaza Humanitarian Foundation / Johnny Moore–Kovette Chyros links (June), UVU mass-casualty drill, White House Iran debate, Instagram purge, July Netanyahu visit + Candace college-video archive, July 10 UVU courtyard ask, SAS/Tucker Epstein remarks and Bob Shaman pullout, Charlie’s Epstein walk-back, Egyptian-plane movements, Hamptons BB call, and repeated New York Times–reported Epstein “situation room” meetings (JD Vance, Susie Wiles, Kash Patel, Pam Bondi, Todd Blanche, et al., often without Trump). The host floats that Charlie may have been killed over Epstein-network panic. Final third covers Brian Cole Jr., the autistic man federal authorities present as the J6 pipe-bomb suspect: Tucker-hosted parent interview / interrogation transcript describing coerced confession, then the coincidence that the same Scripps Media journalists who aired obscure Tyler Robinson traffic bodycam also aired Cole’s minor 2024 crash bodycam—plus Erika’s childhood daycare in a Cincinnati Scripps building. Closing comments revisit Mikey McCoy office optics, Israel narrative betrayal, Andrew Wilson text-leaks vs heaven-focused branding, and dual Telegram accounts.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2466",
+      "family_ref": "A-2466",
+      "bundle_name": "Dominate 2.0 Telegram / Mar-a-Lago Donor Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2466.1",
+          "ref": "A-2466.1",
+          "description": "Host display of Erika Kirk Telegram messages seeking “big hitters” and a full donor list for the weekend Mar-a-Lago event; Taylor Scornovako reply listing strong Sunday attendees / new six-figure donors sorted by MGO with highlight instructions.",
+          "related_claims": [
+            "C-3608"
+          ],
+          "related_nodes": [
+            "N-2360",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:02:39",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2467",
+      "family_ref": "A-2467",
+      "bundle_name": "Why Refi February 2025 Master Sponsorship Contract Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2467.1",
+          "ref": "A-2467.1",
+          "description": "On-screen February 2025 TPUSA–Why Refi agreement (~$2.25M stated; host notes payment schedule summing nearer ~$2.47M) covering galas, summits, influencer blitz, Riley Gaines appearances, campus tour, and proposed “Why Refi Theater” construction by end-2025.",
+          "related_claims": [
+            "C-3609"
+          ],
+          "related_nodes": [
+            "N-2361",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:15:21",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2468",
+      "family_ref": "A-2468",
+      "bundle_name": "Why Refi July 25 2025 Fall-Tour Addendum Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2468.1",
+          "ref": "A-2468.1",
+          "description": "One-page July 25, 2025 addendum for additional ~$1.25M tied to Charlie Kirk fall campus tour benefits (branded wall, presenting sponsorship, ~5 minutes mainstage speaking, video, email)—Lane Shonberger spoke ~5 minutes at UVU pre-show per host.",
+          "related_claims": [
+            "C-3610"
+          ],
+          "related_nodes": [
+            "N-2361",
+            "N-2354",
+            "N-2351",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:20:10",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2469",
+      "family_ref": "A-2469",
+      "bundle_name": "Expanded Feb–Aug 2025 Concurrent Timeline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2469.1",
+          "ref": "A-2469.1",
+          "description": "Host-constructed chronology linking Why Refi contracts, Macron/Brigitte stop-talking calls, June Iran debate / Instagram purge / UVU drill, July Netanyahu visit + college-video archive + UVU courtyard ask, SAS Epstein blowup / donor pullouts, Charlie Epstein walk-back, Egyptian planes, Hamptons BB call, and NYT Epstein situation-room meetings.",
+          "related_claims": [
+            "C-3611",
+            "C-3612"
+          ],
+          "related_nodes": [
+            "N-2362",
+            "N-2354",
+            "N-2359",
+            "N-1395",
+            "N-1098"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:23:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2470",
+      "family_ref": "A-2470",
+      "bundle_name": "NYT Epstein Situation-Room Reporting Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2470.1",
+          "ref": "A-2470.1",
+          "description": "Host read of New York Times / Haberman–Swan book reporting on repeated mid-July and August meetings about Epstein files (JD Vance, Susie Wiles, Kash Patel, Pam Bondi, Todd Blanche, and others; Trump often absent; Vance argued for fuller release).",
+          "related_claims": [
+            "C-3612"
+          ],
+          "related_nodes": [
+            "N-2362",
+            "N-1395",
+            "N-299",
+            "N-102",
+            "N-120",
+            "N-867",
+            "N-79"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:19",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2471",
+      "family_ref": "A-2471",
+      "bundle_name": "Brian Cole Jr Interrogation / Coerced Confession Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2471.1",
+          "ref": "A-2471.1",
+          "description": "Host presentation of interrogation narrative (“Mr. Cole breaks”) showing autistic stimming, blanket distress, denied recognition of surveillance stills, then confession after agents frame continued denial as a federal crime; Tucker Carlson parent interview referenced.",
+          "related_claims": [
+            "C-3613"
+          ],
+          "related_nodes": [
+            "N-2363",
+            "N-50"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:47:17",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2472",
+      "family_ref": "A-2472",
+      "bundle_name": "Scripps Media Dual Bodycam Release Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2472.1",
+          "ref": "A-2472.1",
+          "description": "Same Scripps journalists (Lori Jane Gleha / Stephanie framing) airing obscure prior traffic-stop bodycam of Tyler Robinson and, later, Brian Cole Jr.’s 2024 minor crash—host flags pattern and notes Erika’s early daycare in Cincinnati Scripps building.",
+          "related_claims": [
+            "C-3614"
+          ],
+          "related_nodes": [
+            "N-2364",
+            "N-69",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:51:47",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2473",
+      "family_ref": "A-2473",
+      "bundle_name": "Viewer Comment / Telegram Flag Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2473.1",
+          "ref": "A-2473.1",
+          "description": "Closing comments on Mikey McCoy office optics, Israel-narrative betrayal, Andrew Wilson text partnership vs heaven branding, and note that Erika’s Telegram American-flag contact matches a Charlie dual-account pattern described by TPUSA sources.",
+          "related_claims": [
+            "C-3615",
+            "C-3616"
+          ],
+          "related_nodes": [
+            "N-2360",
+            "N-272",
+            "N-1121",
+            "N-2355"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:00:00",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of fall-tour sponsorship addendum, donor-pressure timeline, Epstein walk-back, and assassination-motive hypotheses.",
+      "related_artifacts": [
+        "A-2468.1"
+      ],
+      "related_claims": [
+        "C-3610",
+        "C-3611",
+        "C-3612"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2362"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Dominate 2.0 donor-list asks; Vanity Fair follow-through; Israel-narrative reversal critique; Scripps daycare aside.",
+      "related_artifacts": [
+        "A-2466.1"
+      ],
+      "related_claims": [
+        "C-3608",
+        "C-3615"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2360"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; target of smear context continued from Ep 158; Epstein-series author in concurrent timeline.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2359",
+        "N-2362"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-35",
+      "ref": "N-35",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Core of situation-room panic timeline and host hypothesis that Kirk’s death may connect to Epstein-network exposure pressure.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3612"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1395",
+        "N-2362"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
+      "related_artifacts": [
+        "A-2471.1"
+      ],
+      "related_claims": [
+        "C-3611",
+        "C-3613"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1098",
+        "N-2354"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Referenced in SAS/Tucker wealth-question and prior smear-amplification context.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": [
+        "N-2359",
+        "N-2362"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Accused shooter; bodycam traffic footage previously released by same Scripps team now releasing Cole footage.",
+      "related_artifacts": [
+        "A-2472.1"
+      ],
+      "related_claims": [
+        "C-3614"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2364"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Referenced for Charlie’s post-Hamptons interview holding up his phone / antisemitism frustration.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1098"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-79",
+      "ref": "N-79",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Feb Brigitte calls; June Iran decision; July angry call to Charlie over SAS “Epstein grievance fest”; absent from several Epstein situation-room meetings per NYT.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611",
+        "C-3612"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2362"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Named attendee of Epstein situation-room meetings; FOIA refusal on Omaha trip during Egyptian-plane window.",
+      "related_artifacts": [
+        "A-2470.1"
+      ],
+      "related_claims": [
+        "C-3612"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2362"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-117",
+      "ref": "N-117",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "Subject of Feb White House pressure on Candace to stop coverage; Epstein-adjacent France threads revisited.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-898"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-120",
+      "ref": "N-120",
+      "name": "Pam Bondi",
+      "type": "person",
+      "description": "Named on Epstein situation-room attendee lists (sometimes by phone).",
+      "related_artifacts": [
+        "A-2470.1"
+      ],
+      "related_claims": [
+        "C-3612"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-134",
+      "ref": "N-134",
+      "name": "Bob Shaman",
+      "type": "person",
+      "description": "Named among donors pulling millions after SAS/Tucker Epstein remarks (host “Bob Showman” pronunciation).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3610",
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2361"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-214",
+      "ref": "N-214",
+      "name": "Andrew Kovette",
+      "type": "person",
+      "description": "Chyros partner Johnny Moore link; prior PR path; contrasted with Andrew Wilson as improper leak recipient.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3616"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-696"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Maine vacation final-footage presence; home-office optics in comments.",
+      "related_artifacts": [
+        "A-2473.1"
+      ],
+      "related_claims": [
+        "C-3615"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-299",
+      "ref": "N-299",
+      "name": "J.D. Vance",
+      "type": "person",
+      "description": "Described as only in-room advocate for fuller Epstein file release in NYT-reported meetings.",
+      "related_artifacts": [
+        "A-2470.1"
+      ],
+      "related_claims": [
+        "C-3612"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-435",
+      "ref": "N-435",
+      "name": "Jeff Long",
+      "type": "person",
+      "description": "UVU independent-review timeline: seeking TPUSA security contact; later connects to Dan Flood.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2329",
+        "N-848"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-542",
+      "ref": "N-542",
+      "name": "Elizabeth McCoy",
+      "type": "person",
+      "description": "Joined Maine vacation; final-footage context.",
+      "related_artifacts": [
+        "A-2469.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-696",
+      "ref": "N-696",
+      "name": "Johnny Moore",
+      "type": "person",
+      "description": "Takes chair of Gaza Humanitarian Aid Project June 3; host ties to Kovette/Chyros partnership.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-214"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-749",
+      "ref": "N-749",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Aug 24 security-planning claim without UVU inclusion per review.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2329"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-755",
+      "ref": "N-755",
+      "name": "Frank Turk",
+      "type": "person",
+      "description": "Feb 12 Nebraska Lincoln speech; July 11 website deletion note in timeline.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2362"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-796",
+      "ref": "N-796",
+      "name": "Doug DeGroot",
+      "type": "person",
+      "description": "Opening callback: board-member claim that media pressure forced rapid Erika CEO naming.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3608"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-848",
+      "ref": "N-848",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Sept 3 contact established with Chief Long per independent review timeline recap.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-435"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-867",
+      "ref": "N-867",
+      "name": "Todd Blanche",
+      "type": "person",
+      "description": "Named Epstein situation-room attendee; host revisits “files are mostly child pornography” DOJ posture.",
+      "related_artifacts": [
+        "A-2470.1"
+      ],
+      "related_claims": [
+        "C-3612"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-898",
+      "ref": "N-898",
+      "name": "Emmanuel Macron",
+      "type": "person",
+      "description": "Feb 24 White House ask that Candace stop Brigitte coverage (via Charlie).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-117"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-992",
+      "ref": "N-992",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Closing joke comment; continuity with communicator critique.",
+      "related_artifacts": [
+        "A-2473.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1098",
+      "ref": "N-1098",
+      "name": "Hamptons Donor Pressure Investigation",
+      "type": "investigation_target",
+      "description": "Advanced with BB call confirmation, influencer weekend, and Charlie’s Megyn Kelly frustration clip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-65",
+        "N-2354"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1121",
+      "ref": "N-1121",
+      "name": "Kirk-Israel Narrative Dispute",
+      "type": "investigation_target",
+      "description": "Reused for Erika’s post-death silence vs prior private criticism and Charlie’s documented shift.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3615"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1395",
+      "ref": "N-1395",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Advanced via repeated situation-room meetings and host return-to-series commitment.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3612"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-35",
+        "N-2362"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1459",
+      "ref": "N-1459",
+      "name": "Missing Money from Turning Point Action",
+      "type": "investigation_target",
+      "description": "Background for host’s sniff-test that Charlie’s late DOGE / missing-money concerns intersect shady sponsor patterns.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3609"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2361"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2329",
+      "ref": "N-2329",
+      "name": "Independent Review of UVU Security Failures",
+      "type": "investigation_target",
+      "description": "Timeline recap of MEAC insistence, Flood contact, and employee disgust unlocking leaks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2350"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2350",
+      "ref": "N-2350",
+      "name": "TPUSA Non-Participation in UVU Independent Review",
+      "type": "investigation_target",
+      "description": "Reused as catalyst for employee disgust / document leaks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3609"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2329"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2351",
+      "ref": "N-2351",
+      "name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilikut Chain)",
+      "type": "investigation_target",
+      "description": "Reused inside expanded concurrent timeline.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2362"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2354",
+      "ref": "N-2354",
+      "name": "July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
+      "type": "investigation_target",
+      "description": "Parent frame extended by Why Refi addendum and Epstein situation-room overlays.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3610",
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2361",
+        "N-2362"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2355",
+      "ref": "N-2355",
+      "name": "Vanity Fair Erika Kirk Profile (Clara Malo)",
+      "type": "investigation_target",
+      "description": "Opening callback / vindication frame.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3608"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2357",
+      "ref": "N-2357",
+      "name": "Night-of Assassination Aloe Yoga Outfit Directive",
+      "type": "investigation_target",
+      "description": "Comment-section callback via office-preservation vs McCoy optics.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3615"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2359",
+      "ref": "N-2359",
+      "name": "July 9 2025 Archive of Candace College YouTube Project",
+      "type": "investigation_target",
+      "description": "Reused in July timeline adjacent to Netanyahu visit and UVU ask.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2362"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2360",
+      "ref": "N-2360",
+      "name": "Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List",
+      "type": "investigation_target",
+      "description": "New topic: leaked Erika Telegram traffic prioritizing wealthy attendees ahead of memorial-adjacent fundraising.",
+      "related_artifacts": [
+        "A-2466.1"
+      ],
+      "related_claims": [
+        "C-3608"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2361",
+      "ref": "N-2361",
+      "name": "Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum",
+      "type": "investigation_target",
+      "description": "New topic: February master contract plus July 25 fall-tour addendum; conflicts-of-interest allegations (Dylan Ericson); Daily Mail sanctions coverage; UVU presence of Lane Shonberger.",
+      "related_artifacts": [
+        "A-2467.1",
+        "A-2468.1"
+      ],
+      "related_claims": [
+        "C-3609",
+        "C-3610"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1459",
+        "N-2354"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2362",
+      "ref": "N-2362",
+      "name": "Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Why Refi)",
+      "type": "investigation_target",
+      "description": "New topic: integrated chronology arguing Epstein-file panic, donor warfare, Macron pressure, and UVU booking are non-coincidental.",
+      "related_artifacts": [
+        "A-2469.1",
+        "A-2470.1"
+      ],
+      "related_claims": [
+        "C-3611",
+        "C-3612"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1395",
+        "N-2354"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2363",
+      "ref": "N-2363",
+      "name": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
+      "type": "investigation_target",
+      "description": "New topic: federal case against autistic Brian Cole Jr.; interrogation coercion narrative; host “patsy” framing.",
+      "related_artifacts": [
+        "A-2471.1"
+      ],
+      "related_claims": [
+        "C-3613"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-50"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2364",
+      "ref": "N-2364",
+      "name": "Scripps Media Bodycam Pattern (Robinson + Cole)",
+      "type": "investigation_target",
+      "description": "New topic: same Scripps investigative pair releasing obscure prior bodycam of both Tyler Robinson and Brian Cole Jr.; host adds Erika daycare-in-Scripps-building note as speculative link.",
+      "related_artifacts": [
+        "A-2472.1"
+      ],
+      "related_claims": [
+        "C-3614"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-69",
+        "N-2"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3608",
+      "ref": "C-3608",
+      "label": "Erika sought “big hitters” donor lists via Dominate 2.0 Telegram before Mar-a-Lago fundraising",
+      "claim": "Leaked Telegram shows Erika asking who the big hitters are and requesting a full donor list to make notes; staff reply with new six-figure donors sorted by MGO—host treats this as ending the pure grieving-widow narrative.",
+      "anchored_artifacts": [
+        "A-2466.1"
+      ],
+      "related_nodes": [
+        "N-2360",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:39",
+      "investigative_direction": "Preserve message screenshots with metadata if available; identify Telegram group membership without minting Persons; confirm event date."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3609",
+      "ref": "C-3609",
+      "label": "Why Refi signed a detailed ~$2.25M TPUSA sponsorship contract in February 2025",
+      "claim": "Host displays a February 2025 contract under which Why Refi pays TPUSA ~$2.25M (payment schedule possibly ~$2.47M) for extensive event, influencer, and branding benefits through early 2026, including a proposed Why Refi Theater.",
+      "anchored_artifacts": [
+        "A-2467.1"
+      ],
+      "related_nodes": [
+        "N-2361",
+        "N-1",
+        "N-1459"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:21",
+      "investigative_direction": "Hash/store contract PDFs; verify signatories and whether theater construction completed; note conflict-of-interest allegations as unproven."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3610",
+      "ref": "C-3610",
+      "label": "July 25 2025 Why Refi addendum paid ~$1.25M more solely for Charlie’s fall campus tour",
+      "claim": "Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot—host ties timing to donor pullouts (e.g., Bob Shaman) and UVU booking pressures; Lane Shonberger spoke ~5 minutes at UVU.",
+      "anchored_artifacts": [
+        "A-2468.1",
+        "A-2467.1"
+      ],
+      "related_nodes": [
+        "N-2361",
+        "N-2354",
+        "N-2351",
+        "N-134",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:10",
+      "investigative_direction": "Confirm addendum execution date and wire evidence; separate confirmed contract terms from hearsay that Why Refi picked UVU."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3611",
+      "ref": "C-3611",
+      "label": "Feb–Aug 2025 events form a suspicious concurrent timeline around Charlie, Epstein, and UVU",
+      "claim": "Host argues Macron/Brigitte pressure calls, June Iran debate/Instagram purge/UVU drill, July Netanyahu visit + college-video archive + July 10 UVU ask, SAS Epstein blowup/donor exits, Charlie’s Epstein walk-back, Egyptian planes, Hamptons BB call, and Why Refi addendum are non-coincidental when plotted together.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-2362",
+        "N-2354",
+        "N-2351",
+        "N-2359",
+        "N-1098",
+        "N-79",
+        "N-898",
+        "N-117",
+        "N-65",
+        "N-755"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:22",
+      "investigative_direction": "Source each bullet to primary docs; mark inference edges explicitly; do not treat composite as single proven conspiracy."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3612",
+      "ref": "C-3612",
+      "label": "White House held repeated Epstein-files situation-room meetings (often without Trump) beside Candace’s Epstein series",
+      "claim": "Citing NYT/Haberman–Swan reporting, host lists mid-July and August meetings on Epstein files with Vance, Wiles, Patel, Bondi, Blanche, and others; notes Trump’s absence and temporal adjacency to Candace Epstein episodes and Charlie’s walk-back/scolding.",
+      "anchored_artifacts": [
+        "A-2470.1"
+      ],
+      "related_nodes": [
+        "N-2362",
+        "N-1395",
+        "N-35",
+        "N-299",
+        "N-102",
+        "N-120",
+        "N-867",
+        "N-79"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:19",
+      "investigative_direction": "Pull primary NYT passages; verify attendee lists; keep “murdered over Epstein” as host hypothesis only."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3613",
+      "ref": "C-3613",
+      "label": "Brian Cole Jr.’s J6 pipe-bomb confession was coerced from an autistic suspect",
+      "claim": "Host, following published interrogation narrative and Tucker parents interview, asserts agents ignored distress/stimming, treated continued denial as a new crime, and extracted a confession after Cole twice denied recognizing the person in video.",
+      "anchored_artifacts": [
+        "A-2471.1"
+      ],
+      "related_nodes": [
+        "N-2363",
+        "N-50"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:17",
+      "investigative_direction": "Obtain full interrogation recordings/transcripts and defense filings; avoid minting Cole as Person until register policy allows."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3614",
+      "ref": "C-3614",
+      "label": "Same Scripps Media team released obscure prior bodycam of both Tyler Robinson and Brian Cole Jr.",
+      "claim": "Host shows Scripps packages in which the same correspondents present minor prior traffic bodycam for Robinson and later for Cole, arguing a federal narrative-management pattern; adds speculative note that Erika attended daycare in a Cincinnati Scripps building.",
+      "anchored_artifacts": [
+        "A-2472.1"
+      ],
+      "related_nodes": [
+        "N-2364",
+        "N-69",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:47",
+      "investigative_direction": "Archive both Scripps segments; confirm journalist identity; treat daycare link as weak/speculative pending records."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3615",
+      "ref": "C-3615",
+      "label": "Erika’s Israel posture and partner choices contradict heaven-focused widow branding",
+      "claim": "Host argues loyalty depends on loyalty to Charlie’s direction: Erika’s silence/glowing Israel partnerships and collaboration with figures like Andrew Wilson (text leaks) after allegedly being more critical than Charlie privately registers as betrayal of Charlie’s late trajectory.",
+      "anchored_artifacts": [
+        "A-2473.1"
+      ],
+      "related_nodes": [
+        "N-1121",
+        "N-2",
+        "N-1",
+        "N-2355"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:00",
+      "investigative_direction": "Continue pairing Vanity Fair private-criticism quotes with post-death public record; document Wilson leak channel without minting."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3616",
+      "ref": "C-3616",
+      "label": "Erika’s Telegram American-flag contact may be the shared/“fake Charlie” account",
+      "claim": "Viewer note + host source claim that Charlie had two Telegram accounts—one American-flag shared account and one personal—and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kovette/friendly media.",
+      "anchored_artifacts": [
+        "A-2473.1",
+        "A-2466.1"
+      ],
+      "related_nodes": [
+        "N-2360",
+        "N-214",
+        "N-2",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:03:21",
+      "investigative_direction": "Forensic Telegram export if ever obtained; until then keep as sourced allegation."
+    }
+  ],
+  "memes": []
+}
