@@ -1,0 +1,1008 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 157,
+    "series": "Bride of Charlie",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00–01:30:52",
+    "extraction_timestamp": "2026-10-02T16:10:00Z",
+    "model_version": "grok-manual-extract-seq157",
+    "transcript_sha256": "daf4a4e0789ee8ad9ae04587164c4d12a7b6b9f92f14e4ac50174c41dfc1b2d1",
+    "analysis_date": "2026-10-02"
+  },
+  "executive_summary": "This episode centers on the newly released UVU third-party independent security review (Lake Force Group), which the host presents as vindication of prior CKA claims about how the September 10 Turning Point USA event was booked, sited, and secured. The host reads extensively from the report: TPUSA-affiliated individuals Brian Harpole (Integrity Solutions), Dan Flood (TPUSA security supervisor), Macy Crofts (TPUSA senior field representative), and UVU TPUSA club president Caleb Chilikut did not respond to repeated outreach including certified letters; UVU and public agencies did cooperate. Timeline entries attribute the July 10, 2025 courtyard/fountain request to TPUSA field representative Macy Crofts directing the club president—an inversion of the normal chapter-request process the host has described across prior episodes. The report further records Crofts insisting on the Fountain Courtyard at the August 25 MEAC meeting despite UVU staff concerns; deferred security decisions to TPUSA; late/non-disclosure of crowd and ticketing data to Chief Jeff Long; an anonymous SIAC threat on September 10 morning referencing an electromagnetic-pulse (EMP) device; and multiple contradictions between Brian Harpole’s Shawn Ryan podcast statements (venue chosen by UVU; airspace/drone constraints; counter-sniper legality) and interview evidence gathered by the review team. The host then overlays a July–August 2025 personal/political timeline for Charlie Kirk (White House/BB confrontation, Instagram purge, Epstein-coverage walk-back, Hamptons retreat, sponsorship addendum, Egyptian-plane movements) against the UVU booking chain, and closes with biographical context on Macy Crofts (including a public Kip Crofts criminal-case dismissal news clip) plus viewer comments. A preemptive Kirk-family statement blaming UVU security is framed as knowledge that the report was imminent.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2451",
+      "family_ref": "A-2451",
+      "bundle_name": "UVU Independent Review (Lake Force) Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2451.1",
+          "ref": "A-2451.1",
+          "description": "Host on-screen read-through of the third-party independent review of UVU security protocols for the September 10 TPUSA event, including participation/non-participation disclosures (approx. pages 6–7), executive summary language on deferred security decisions, and assessment conclusions.",
+          "related_claims": [
+            "C-3584",
+            "C-3585"
+          ],
+          "related_nodes": [
+            "N-2329",
+            "N-2350"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2451.2",
+          "ref": "A-2451.2",
+          "description": "Report timeline entry (host cites ~page 17) stating that on July 10, 2025, at the request of TPUSA field representative Macy Crofts, the UVU club/president was directed to request Charlie Kirk speak in the courtyard/fountain area.",
+          "related_claims": [
+            "C-3586"
+          ],
+          "related_nodes": [
+            "N-2351",
+            "N-2073",
+            "N-1313"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:14:22",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2451.3",
+          "ref": "A-2451.3",
+          "description": "Report excerpt describing August 25 major-events / MEAC Teams meeting in which participants state Crofts insisted on Fountain Courtyard because Charlie Kirk had previously spoken on campus in that type of setting, despite UVU concerns about the outdoor location.",
+          "related_claims": [
+            "C-3587"
+          ],
+          "related_nodes": [
+            "N-1313",
+            "N-2351"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:35:31",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2452",
+      "family_ref": "A-2452",
+      "bundle_name": "Non-Response Documentation Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2452.1",
+          "ref": "A-2452.1",
+          "description": "Report language documenting outreach (telephone, voicemail, certified letter, senior Phoenix staff emails) to Brian Harpole, Dan Flood, Macy Crofts, and the then UVU TPUSA club head, with no substantive responses; Utah risk-management official also urged TPUSA cooperation without result.",
+          "related_claims": [
+            "C-3584"
+          ],
+          "related_nodes": [
+            "N-2350",
+            "N-749",
+            "N-848",
+            "N-2092"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:05:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2453",
+      "family_ref": "A-2453",
+      "bundle_name": "Harpole / Shawn Ryan Contradiction Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2453.1",
+          "ref": "A-2453.1",
+          "description": "Host comparison of Brian Harpole’s Shawn Ryan podcast claims (venue selected by UVU; UVU told TPUSA where to hold the event; Provo airport airspace / drone constraints; federal-law barrier to rooftop counter-sniper) against independent-review interview findings that UVU raised outdoor-location concerns and that several Harpole statements are inconsistent with other evidence.",
+          "related_claims": [
+            "C-3588",
+            "C-3589"
+          ],
+          "related_nodes": [
+            "N-2353",
+            "N-749",
+            "N-436",
+            "N-1720",
+            "N-2063"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:45:34",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2454",
+      "family_ref": "A-2454",
+      "bundle_name": "EMP / SIAC Threat Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2454.1",
+          "ref": "A-2454.1",
+          "description": "Report / host narration that on September 10 Chief Jeff Long contacted Utah SIAC regarding an anonymous threat referencing an electromagnetic-pulse device a suspect might use at the event; host flags specificity given later camera outages discussed in prior episodes.",
+          "related_claims": [
+            "C-3590"
+          ],
+          "related_nodes": [
+            "N-2352",
+            "N-435"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:28:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2455",
+      "family_ref": "A-2455",
+      "bundle_name": "Flood–Long Pre-Event Comms Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2455.1",
+          "ref": "A-2455.1",
+          "description": "Report timeline items describing Dan Flood coordinating with UVUPD Chief Jeff Long in the days before and morning of September 10, including canopy/accessibility focus and delayed provision of ticket/crowd totals (host emphasizes T-minus-7 non-disclosure).",
+          "related_claims": [
+            "C-3591"
+          ],
+          "related_nodes": [
+            "N-848",
+            "N-435",
+            "N-2092",
+            "N-1343"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:24:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2456",
+      "family_ref": "A-2456",
+      "bundle_name": "July–August 2025 Overlay Timeline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2456.1",
+          "ref": "A-2456.1",
+          "description": "Host-constructed concurrent timeline linking July 10 UVU reverse request to Charlie Kirk’s July DC / Epstein-coverage walk-back, Erika travel, formal July 18 event request, July 25 sponsorship addendum, Egyptian-plane movements, Hamptons retreat, and late Harpole planning claims (Aug 24) without UVU inclusion.",
+          "related_claims": [
+            "C-3592"
+          ],
+          "related_nodes": [
+            "N-2354",
+            "N-1",
+            "N-2",
+            "N-2073"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:56:42",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2457",
+      "family_ref": "A-2457",
+      "bundle_name": "Kip Crofts Case News Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2457.1",
+          "ref": "A-2457.1",
+          "description": "On-air news-clip playback regarding dismissal of criminal case against former high-school football coach Kip Crofts (identified by host as Macy Crofts’s uncle), including courtroom audio on dismissal serving ends of justice and lifting of no-contact order.",
+          "related_claims": [
+            "C-3593"
+          ],
+          "related_nodes": [
+            "N-2351"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:12:05",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2458",
+      "family_ref": "A-2458",
+      "bundle_name": "Viewer Comment / Closing Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2458.1",
+          "ref": "A-2458.1",
+          "description": "Read-aloud viewer comments (EMP camera-outage hypothesis; July 10 proximity to prior UVU drill; vindication themes) and host closing commitment to further document markup; mention of preemptive Kirk-family UVU-blame statement and New York Post / Harvey Weinstein smear as narrative management.",
+          "related_claims": [
+            "C-3594",
+            "C-3595"
+          ],
+          "related_nodes": [
+            "N-2352",
+            "N-2329"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "01:22:32",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Primary investigative subject; episode frames independent-review findings and July 2025 pressure timeline around his UVU appearance and death.",
+      "related_artifacts": [
+        "A-2451.2",
+        "A-2456.1"
+      ],
+      "related_claims": [
+        "C-3586",
+        "C-3592"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Referenced as TPUSA CEO/chairman who did not drive organizational cooperation with the UVU review; subject of host critique regarding widow narrative vs apparatus-of-power framing; appears in July travel / Instagram-purge timeline overlay.",
+      "related_artifacts": [
+        "A-2456.1"
+      ],
+      "related_claims": [
+        "C-3585",
+        "C-3592"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host/narrator reading the independent review and constructing the concurrent timeline.",
+      "related_artifacts": [
+        "A-2451.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-214",
+      "ref": "N-214",
+      "name": "Andrew Kovette",
+      "type": "person",
+      "description": "Named among TPUSA communicators the host challenges on transparency; later referenced regarding an offer to “take TPUSA to the next level” and as possible direction chain above Macy Crofts.",
+      "related_artifacts": [
+        "A-2456.1"
+      ],
+      "related_claims": [
+        "C-3585"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-435",
+      "ref": "N-435",
+      "name": "Jeff Long",
+      "type": "person",
+      "description": "UVUPD chief; report describes his pre-event coordination with Dan Flood, SIAC threat contact on September 10, and constraints from TPUSA-controlled ticketing/crowd data and deferred security decisions.",
+      "related_artifacts": [
+        "A-2454.1",
+        "A-2455.1"
+      ],
+      "related_claims": [
+        "C-3590",
+        "C-3591"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-436",
+      "ref": "N-436",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
+      "related_artifacts": [
+        "A-2453.1"
+      ],
+      "related_claims": [
+        "C-3588"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-749",
+      "ref": "N-749",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Integrity Solutions executive-protection lead for Charlie Kirk; documented non-response to review outreach; central subject of report contradictions vs Shawn Ryan podcast (venue selection, drones/airspace, rooftop counter-sniper).",
+      "related_artifacts": [
+        "A-2452.1",
+        "A-2453.1"
+      ],
+      "related_claims": [
+        "C-3584",
+        "C-3588",
+        "C-3589"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2353"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-755",
+      "ref": "N-755",
+      "name": "Frank Turk",
+      "type": "person",
+      "description": "Named in opening roll-call of TPUSA-aligned figures the host summons rhetorically to confront the review findings.",
+      "related_artifacts": [
+        "A-2451.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-848",
+      "ref": "N-848",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "TPUSA security supervisor present at UVU September 10; non-response to review outreach; report attributes pre-event text/phone coordination with Chief Long and canopy-area focus.",
+      "related_artifacts": [
+        "A-2452.1",
+        "A-2455.1"
+      ],
+      "related_claims": [
+        "C-3584",
+        "C-3591"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2092"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-992",
+      "ref": "N-992",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Named among TPUSA communicators challenged on transparency relative to organizational non-participation in the review.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3585"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1291",
+      "ref": "N-1291",
+      "name": "UVU Event Application Anomaly",
+      "type": "investigation_target",
+      "description": "Prior topic on irregular UVU event-application mechanics; reinforced by July 10 HQ-driven request pattern in the independent review.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3586"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2351"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1313",
+      "ref": "N-1313",
+      "name": "UVU Outdoor Venue Selection Discrepancy",
+      "type": "investigation_target",
+      "description": "Prior topic on outdoor/courtyard venue selection; episode supplies report language that TPUSA insisted on Fountain Courtyard against UVU concerns, contradicting Harpole’s “UVU chose the venue” claim.",
+      "related_artifacts": [
+        "A-2451.3"
+      ],
+      "related_claims": [
+        "C-3587",
+        "C-3588"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1343",
+      "ref": "N-1343",
+      "name": "Harpole–Flood Text Attribution Discrepancy",
+      "type": "investigation_target",
+      "description": "Prior topic on Harpole/Flood messaging; episode revisits Flood–Long operational texts and canopy focus in the report timeline.",
+      "related_artifacts": [
+        "A-2455.1"
+      ],
+      "related_claims": [
+        "C-3591"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-1720",
+      "ref": "N-1720",
+      "name": "UVU Drone Authorization Records",
+      "type": "investigation_target",
+      "description": "Prior topic on drone authorization; episode cites Harpole podcast claims about drones/airspace that the review team finds unsupported or contradicted.",
+      "related_artifacts": [
+        "A-2453.1"
+      ],
+      "related_claims": [
+        "C-3589"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2063",
+      "ref": "N-2063",
+      "name": "Brian Harpole Fort Huachuca Presence Verification",
+      "type": "investigation_target",
+      "description": "Prior Fort Huachuca / Harpole credibility topic; host ties report contradictions to broader distrust of Harpole’s public narrative including Fort Huachuca.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3588"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2353"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2073",
+      "ref": "N-2073",
+      "name": "Turning Point UVU Event Submission Chain",
+      "type": "investigation_target",
+      "description": "Prior topic on TPUSA UVU submission chain; episode adds independent-review documentation of Crofts-initiated July 10 request and August 25 insistence.",
+      "related_artifacts": [
+        "A-2451.2"
+      ],
+      "related_claims": [
+        "C-3586",
+        "C-3587"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2351"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2092",
+      "ref": "N-2092",
+      "name": "Dan Flood Role and Behavior Assessment",
+      "type": "investigation_target",
+      "description": "Prior Dan Flood role topic; reinforced by non-participation finding and pre-event coordination details in the review.",
+      "related_artifacts": [
+        "A-2455.1"
+      ],
+      "related_claims": [
+        "C-3584",
+        "C-3591"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2329",
+      "ref": "N-2329",
+      "name": "Independent Review of UVU Security Failures",
+      "type": "investigation_target",
+      "description": "Directly advanced: the third-party review document is now public and read on air; becomes primary source artifact for prior “review incoming” claims.",
+      "related_artifacts": [
+        "A-2451.1"
+      ],
+      "related_claims": [
+        "C-3584",
+        "C-3585"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2350"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2330",
+      "ref": "N-2330",
+      "name": "UVU Ambulance Denial Discrepancy",
+      "type": "investigation_target",
+      "description": "Prior ambulance-denial topic; host notes report context that headquarters-directed messaging included declining an ambulance among other security choices.",
+      "related_artifacts": [
+        "A-2451.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2350",
+      "ref": "N-2350",
+      "name": "TPUSA Non-Participation in UVU Independent Review",
+      "type": "investigation_target",
+      "description": "New topic: documented refusal/non-response by Harpole, Flood, Crofts, club president, and Phoenix senior staff to Lake Force outreach despite public “want the truth” messaging.",
+      "related_artifacts": [
+        "A-2452.1"
+      ],
+      "related_claims": [
+        "C-3584",
+        "C-3585"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2329"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2351",
+      "ref": "N-2351",
+      "name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilikut Chain)",
+      "type": "investigation_target",
+      "description": "New topic: independent-review timeline that TPUSA field rep Macy Crofts directed UVU club president Caleb Chilikut to request Charlie Kirk in the courtyard on July 10, 2025, inverting normal chapter-request flow; includes August 25 MEAC insistence on Fountain Courtyard.",
+      "related_artifacts": [
+        "A-2451.2",
+        "A-2451.3"
+      ],
+      "related_claims": [
+        "C-3586",
+        "C-3587"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2073",
+        "N-1313"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2352",
+      "ref": "N-2352",
+      "name": "Anonymous EMP Device Threat (SIAC, Sept 10)",
+      "type": "investigation_target",
+      "description": "New topic: Chief Long’s September 10 SIAC contact regarding anonymous threat referencing an electromagnetic-pulse device at the event; host connects to prior camera-outage questions.",
+      "related_artifacts": [
+        "A-2454.1"
+      ],
+      "related_claims": [
+        "C-3590"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-435"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2353",
+      "ref": "N-2353",
+      "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
+      "type": "investigation_target",
+      "description": "New topic: systematic comparison of Harpole’s Shawn Ryan podcast assertions (venue chooser, airspace/drone, counter-sniper legality, planning start) against Lake Force interview evidence and timeline.",
+      "related_artifacts": [
+        "A-2453.1"
+      ],
+      "related_claims": [
+        "C-3588",
+        "C-3589"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-749",
+        "N-436",
+        "N-2063"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-2354",
+      "ref": "N-2354",
+      "name": "July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
+      "type": "investigation_target",
+      "description": "New topic: host overlay of Charlie’s July–August personal/political pressures (BB/White House, Epstein walk-back, travel, sponsorship addendum, plane movements, Hamptons “intervention”) onto the UVU booking chain beginning July 10.",
+      "related_artifacts": [
+        "A-2456.1"
+      ],
+      "related_claims": [
+        "C-3592"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-1",
+        "N-2",
+        "N-2073"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3584",
+      "ref": "C-3584",
+      "label": "TPUSA-linked individuals did not respond to UVU independent-review outreach",
+      "claim": "The Lake Force independent review documents that despite repeated outreach (phone, voicemail, certified letter, and Phoenix senior-staff contact), Brian Harpole, Dan Flood, Macy Crofts, and the UVU TPUSA club president did not participate, while UVU and public agencies did cooperate.",
+      "anchored_artifacts": [
+        "A-2452.1",
+        "A-2451.1"
+      ],
+      "related_nodes": [
+        "N-2350",
+        "N-2329",
+        "N-749",
+        "N-848",
+        "N-2092"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:20",
+      "investigative_direction": "Obtain the review’s outreach log appendices; confirm certified-letter receipts; request TPUSA written policy on third-party review cooperation."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3585",
+      "ref": "C-3585",
+      "label": "Public “want the truth” posture conflicts with organizational non-participation",
+      "claim": "Host asserts Erika Kirk / TPUSA public messaging about wanting answers is contradicted by the organization’s documented non-response to the UVU third-party review, while communicators such as Andrew Kovette and Blake Neff continued transparency rhetoric.",
+      "anchored_artifacts": [
+        "A-2451.1",
+        "A-2452.1"
+      ],
+      "related_nodes": [
+        "N-2",
+        "N-214",
+        "N-992",
+        "N-2350",
+        "N-2329"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:22",
+      "investigative_direction": "Archive contemporaneous TPUSA / Erika statements on cooperation; compare dates to outreach attempts listed in the review."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3586",
+      "ref": "C-3586",
+      "label": "July 10, 2025 courtyard request was initiated by TPUSA field rep Macy Crofts",
+      "claim": "The independent-review timeline states that on July 10, 2025, at the request of TPUSA field representative Macy Crofts, the UVU club/president was told to request Charlie Kirk speak in the courtyard—characterized by the host as a reversal of normal TPUSA chapter event-request practice.",
+      "anchored_artifacts": [
+        "A-2451.2"
+      ],
+      "related_nodes": [
+        "N-2351",
+        "N-2073",
+        "N-1291",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:22",
+      "investigative_direction": "Publish/obtain the underlying email quoted in the review; interview or FOIA UVU event-services records for July 10–18 submission chain."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3587",
+      "ref": "C-3587",
+      "label": "Crofts insisted on Fountain Courtyard at August 25 MEAC despite UVU concerns",
+      "claim": "Meeting participants told the review team that at the August 25 major-events meeting Macy Crofts insisted on Fountain Courtyard because Charlie Kirk had previously spoken in that campus setting, even though UVU staff had raised outdoor-location concerns.",
+      "anchored_artifacts": [
+        "A-2451.3"
+      ],
+      "related_nodes": [
+        "N-2351",
+        "N-1313",
+        "N-2073"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:31",
+      "investigative_direction": "Obtain MEAC minutes / Teams recording if retained; list UVU staff who raised concerns and their stated risk bases."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3588",
+      "ref": "C-3588",
+      "label": "Harpole’s claim that UVU selected the venue is contradicted by the review",
+      "claim": "Brian Harpole stated on Shawn Ryan’s podcast that UVU selected the venue and told TPUSA where the event had to be held; the independent review’s interviews indicate UVU expressed concerns about the outdoor location and that TPUSA pushed the courtyard site.",
+      "anchored_artifacts": [
+        "A-2453.1",
+        "A-2451.3"
+      ],
+      "related_nodes": [
+        "N-2353",
+        "N-749",
+        "N-436",
+        "N-1313",
+        "N-2063"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:34",
+      "investigative_direction": "Clip-align the Shawn Ryan episode timestamps to each contested Harpole sentence; cite review interview identifiers where available."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3589",
+      "ref": "C-3589",
+      "label": "Harpole podcast statements on drones/airspace/counter-sniper conflict with review evidence",
+      "claim": "Host, following the review, asserts Harpole’s podcast remarks about Provo airport airspace constraints, UVUPD drone unavailability, and federal-law barriers to rooftop counter-snipers are inconsistent with other evidence and with options available had rooftop overwatch been a genuine priority (e.g., Fugal Gateway building unmanned).",
+      "anchored_artifacts": [
+        "A-2453.1"
+      ],
+      "related_nodes": [
+        "N-2353",
+        "N-749",
+        "N-1720",
+        "N-2063"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:38",
+      "investigative_direction": "Verify airspace rules for the event footprint; check UVU/UVUPD drone policy logs; map line-of-sight structures including Fugal Gateway."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3590",
+      "ref": "C-3590",
+      "label": "Anonymous EMP-device threat was reported to SIAC on September 10 morning",
+      "claim": "Per the review as read by the host, Chief Jeff Long contacted Utah SIAC on September 10 regarding an anonymous threat referencing an electromagnetic-pulse device that a suspect might use at the event.",
+      "anchored_artifacts": [
+        "A-2454.1"
+      ],
+      "related_nodes": [
+        "N-2352",
+        "N-435"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:35",
+      "investigative_direction": "FOIA/SIAC records for the tip text; correlate tip timing with any documented camera or power anomalies; assess tip credibility per SIAC disposition."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3591",
+      "ref": "C-3591",
+      "label": "TPUSA withheld or delayed crowd/ticket data needed for UVUPD mutual-aid decisions",
+      "claim": "The review timeline as presented states that around T-minus-7 days TPUSA could not or did not provide ticket totals to campus police, and that Chief Long did not initiate mutual-aid requests partly because external resources were not requested in a context where TPUSA controlled registration/wristbands nationally.",
+      "anchored_artifacts": [
+        "A-2455.1"
+      ],
+      "related_nodes": [
+        "N-435",
+        "N-848",
+        "N-2092",
+        "N-2329"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:32",
+      "investigative_direction": "Obtain ticket-platform export timestamps; compare to UVUPD incident action plan drafts; interview mutual-aid partners on whether informal notice occurred."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3592",
+      "ref": "C-3592",
+      "label": "July 2025 personal/political pressures coincide with UVU booking start",
+      "claim": "Host claims Charlie Kirk’s July 2025 pressures (post–White House/BB confrontation and Instagram purge in June; Epstein-coverage walk-back ~July 14; Erika travel; formal UVU request July 18; sponsorship addendum July 25; Egyptian-plane movements; Hamptons retreat) form a suspicious concurrent backdrop to the July 10 HQ-driven UVU courtyard request.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-2354",
+        "N-1",
+        "N-2",
+        "N-2073",
+        "N-2351"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:42",
+      "investigative_direction": "Build a sourced chronology with primary citations for each July–August bullet; separate established facts from host inference."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3593",
+      "ref": "C-3593",
+      "label": "Macy Crofts’s uncle Kip Crofts had a sexual-abuse case dismissed shortly before/around related public attention",
+      "claim": "Host presents news-clip reporting that the criminal case against former coach Kip Crofts (identified as Macy Crofts’s uncle) was dismissed, lifting no-contact restrictions; offered as biographical background while discussing who directed the UVU courtyard insistence—not as proof of UVU-event causation.",
+      "anchored_artifacts": [
+        "A-2457.1"
+      ],
+      "related_nodes": [
+        "N-2351"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:12:05",
+      "investigative_direction": "Verify case caption, docket, dismissal basis, and kinship from primary court records before any graph edge beyond “host-asserted background.”"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3594",
+      "ref": "C-3594",
+      "label": "Kirk-family UVU-blame statement was a preemptive strike before the review dropped",
+      "claim": "Host asserts the Kirk family’s statement blaming UVU security was a hasty preemptive strike issued with knowledge the independent review was about to become public (crediting Barry Coleman for first reporting the review’s imminence).",
+      "anchored_artifacts": [
+        "A-2451.1",
+        "A-2458.1"
+      ],
+      "related_nodes": [
+        "N-2329",
+        "N-2350",
+        "N-2"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:46",
+      "investigative_direction": "Timestamp the family statement vs review publication; identify leak path if any; compare statement claims to review executive summary."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3595",
+      "ref": "C-3595",
+      "label": "Security cameras went out for crucial minutes near the shooting (host prior claim restated)",
+      "claim": "In responding to a viewer EMP comment, host restates that security cameras went out for a couple of crucial minutes shortly before Charlie Kirk was hit, tying interest in the SIAC EMP-threat tip to that prior observation.",
+      "anchored_artifacts": [
+        "A-2458.1",
+        "A-2454.1"
+      ],
+      "related_nodes": [
+        "N-2352",
+        "N-1"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:22:32",
+      "investigative_direction": "Re-verify camera-outage windows from prior episodes’ source clips against UVU/third-party video indexes; keep EMP tip as hypothesis until SIAC records reviewed."
+    }
+  ],
+  "memes": []
+}
