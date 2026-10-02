@@ -31,8 +31,8 @@
 
 - **Artifact Families Introduced:** A-2393, A-2394, A-2395, A-2396, A-2397, A-2398, A-2399, A-2400, A-2401, A-2402, A-2403, A-2404
 - **Claim Range:** C-3494–C-3512
-- **New Nodes Introduced:** N-2275, N-2276, N-2277, N-2278, N-2279, N-2330, N-2331, N-2332, N-2333, N-2334, N-2335, N-2336
-- **Existing Nodes Reused:** N-1 Charlie Kirk; N-1031 Erica Kirk; N-7 Candace Owens; N-4 Andrew Kolvet (variant spellings: Kovette/Kovat/Kovatte); N-5 Tucker Carlson; N-6 Blake Neff (variant: Nef) — actual ledger IDs to be verified against global ledger
+- **New Nodes Introduced:** N-2330, N-2331, N-2332, N-2333, N-2334, N-2335, N-2336
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-1031 (Erica Kirk), N-7 (Candace Owens), N-4 (Andrew Kolvet (variant spellings: Kovette/Kovat/Kovatte)), N-5 (Tucker Carlson), N-6 (Blake Neff (variant: Nef) — actual ledger IDs to be verified against global ledger), N-2275 (Mike Mitchell Public Record Anomaly), N-2276 (Brooksby Suicide Narrative Discrepancy), N-2277 (Robinson Apartment Staging Allegation), N-2278 (Phil Lyman Proximity and Behavior Investigation), N-2279 (UVU Campus Familiarity Question)
 
 ---
 
@@ -362,71 +362,6 @@ Existing; called out Blake Neff via audio artifact (A-2401.1).
 Existing; subject of Politico profile and Tucker Carlson criticism.
 
 *Related: A-2400.1, A-2400.2, A-2401.1, C-3504, C-3505, C-3506, C-3507, N-2335*
-
----
-
-**N-2275** Mike Mitchell Public Record Anomaly
-
-Founder of Empress Films; named in Aug 28, 2025 call claim.
-
-Evidence Count: 6 (Empress Films productions)
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2402.1, A-2402.2, A-2402.3, A-2402.4, A-2402.5, A-2402.6, C-3508, C-3509, C-3510, N-2334, N-2336*
-
----
-
-**N-2276** Brooksby Suicide Narrative Discrepancy
-
-Executive producer at Empress Films (LA office; ex-Paramount Pictures); named in Aug 28, 2025 call claim.
-
-Evidence Count: 1 (host testimonial)
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: C-3510, N-2334, N-2336*
-
----
-
-**N-2277** Robinson Apartment Staging Allegation
-
-Source in ABC News article on UVU event attendance figures.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2393.1, N-2330*
-
----
-
-**N-2278** Phil Lyman Proximity and Behavior Investigation
-
-Politico author of Blake Neff profile; framed Neff's position as "maximalist" on free speech.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2400.2, C-3505, N-6*
-
----
-
-**N-2279** UVU Campus Familiarity Question
-
-Mentioned by host as discussion partner on Empress Films oddity. No artifact-anchored claims.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-2334*
 
 ---
 

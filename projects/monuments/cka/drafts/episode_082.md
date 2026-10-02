@@ -227,72 +227,6 @@ Confidence Level: Medium (registration data shown; host's identification of Knup
 
 ## IV. Node Register
 
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Spelling varies across transcript (Kolbet, Kolvert, Colvin, Colvert, Kolvet). Central figure in 9/10 flight itinerary investigation. Claimed to be on a plane without Wi-Fi at 3:26 PM MST; admitted to hosting Charlie Kirk Live Show first hour on 9/10; co-spokesperson with Blake Neff against Joe Kent's potential testimony.
-
-Evidence Count: 5
-Claim Count: 6
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1887.1, A-1887.2, A-1887.3, A-1888.1, A-1889.1, A-1889.2, A-1890.1, A-1890.2, A-1893.1, C-2546, C-2548, C-2549, C-2551, C-2554, C-2555, C-2556, N-1627, N-1629*
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Independent journalist; 23 years old; LDS Church member; from Utah; interviewed by Andrew Kolvet on first hour of Charlie Kirk Live Show 9/10; claims Comando Vermelho infiltration in 48 hours.
-
-Evidence Count: 2
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1890.2, A-1891.1, A-1891.2, C-2552, N-1629, N-1632*
-
-**N-1209** Robinson Apartment Staging Allegation
-
-On-air co-respondent with Andrew Kolvet characterizing Joe Kent's potential truthful testimony as "betrayal."
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1893.1, C-2554, N-1207, N-1210*
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Subject of the Shellenberger interview and target of Blake Neff / Andrew Kolvet's "betrayal" framing; acknowledged federal investigation did not thoroughly pursue other leads.
-
-Evidence Count: 2
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1892.1, A-1893.1, C-2553, C-2554, N-1209*
-
-**N-1211** UVU Campus Familiarity Question
-
-Registered owner of N40JD plane per host identification; host identifies him as chief commander of naval surface force in Atlanta.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1894.1, C-2550, N-1631*
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Scottsdale / Canada–based luxury aircraft brokerage; reportedly occupies separate unmarked building using Atlantic Aviation's address. Central to the 9/10 Erica Kirk location claim.
-
-Evidence Count: 3
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1886.1, A-1886.2, A-1886.3, C-2544, C-2545, N-1628*
-
 **N-1626** Erica Kirk 9/10 Location Investigation
 
 Persistent investigative question of where Erica Kirk physically was on September 10, 2025 between the shooting and her arrival in Utah. This episode introduces Hopkinson Aircrafts as the claimed location.
@@ -636,11 +570,10 @@ Artifact Families Introduced:
 Claim Range: C-2544 – C-2559
 
 New Nodes Introduced:
-- People: N-1207 (Andrew Kolvet), N-1208 (Nick Shirley), N-1209 (Blake Neff), N-1210 (Joe Kent), N-1211 (Jason Knupp), N-1212 (Hopkinson entity)
-- Investigation Targets: N-1626 (Erica Kirk 9/10 Location), N-1627 (Andrew Kolvet 9/10 Flight Itinerary), N-1628 (Hopkinson Aircrafts Business Verification), N-1629 (CK Live Show 9/10 Liveness), N-1630 (Barbara Plane Operations), N-1631 (N40JD Passenger Manifest), N-1632 (Nick Shirley Background Verification)
+- Investigation Targets: N-1626 (Erica Kirk 9/10 Location Investigation), N-1627 (Andrew Kolvet 9/10 Flight Itinerary), N-1628 (Hopkinson Aircrafts Business Verification), N-1629 (Charlie Kirk Live Show 9/10 Liveness Verification), N-1630 (Barbara Plane (N8724A) Operations), N-1631 (N40JD Plane Passenger Manifest), N-1632 (Nick Shirley Background Verification)
 
 Existing Nodes Reused:
-- N-1 (Charlie Kirk)
+N-1 (Charlie Kirk), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation), N-1211 (UVU Campus Familiarity Question), N-1212 (Phil Lyman Location Discrepancy)
 - N-2 (Erica Kirk)
 
 Cross-Episode Reconciliation Required:

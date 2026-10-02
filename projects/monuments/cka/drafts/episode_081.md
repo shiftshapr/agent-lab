@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: d1ee383a35dcc78f44448bfd05192752c07b8dad1bd660ea78d735058d0f0c43
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-1222, N-1223, N-1224, N-1225, N-1226, N-1620, N-1621, N-1622, N-1623, N-1624, N-1625
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221
+  - New Nodes Introduced: N-1620, N-1621, N-1622, N-1623, N-1624, N-1625
+  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226
   - (see registers)
 
 # Episode 81 Analysis
@@ -410,73 +410,6 @@ Investigative Pressure: Low
 *Related: A-1882.1, N-1222*
 
 ---
-
-**N-1222** Hospital Routing Anomaly
-
-Subject of Blake Neff's defensive account; placed at scene per Neff's audio excerpt.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1882.1, N-1215, N-1221*
-
----
-
-**N-1223** TPUSA Faith Packet / Israel References Claim
-
-Per host's recounting, listed as passenger on the official Sept 10 Provo-bound plane.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1881.1 (indirect), N-1620*
-
----
-
-**N-1224** ADL–FBI Partnership Structure
-
-Per host, listed as passenger on official Sept 10 Provo-bound plane.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1881.1 (indirect), N-1620*
-
----
-
-**N-1225** Connecticut FBI Field Office Deployment Anomaly
-
-Per host, listed as passenger on official Sept 10 Provo-bound plane.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1881.1 (indirect), N-1620*
-
----
-
-**N-1226** Tyler Robinson Defense Selection Anomaly
-
-TPUSA-affiliated individual named in Sept 10 PR chat chain as potential 8:00 p.m. Eastern news hit.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1881.1*
-
----
-
-### Investigation Target Nodes
 
 **N-1620** September 10 Plane Logistics Discrepancy
 

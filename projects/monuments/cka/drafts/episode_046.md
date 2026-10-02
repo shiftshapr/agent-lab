@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-529, N-530, N-532, N-533, N-534, N-535, N-537, N-538, N-1405, N-1406, N-1407
   - Reused Nodes Appearing: 
-  - (see registers)
+  N-69, N-42
 
 # Episode Analysis: Monument 46
 
@@ -33,8 +33,8 @@
 
 - **Artifact Families Introduced:** A-1533, A-1534, A-1535, A-1536, A-1537, A-1538
 - **Claim Range:** C-1912 – C-1923
-- **New Nodes Introduced:** N-529, N-530, N-69, N-532, N-533, N-534, N-535, N-42, N-537, N-538, N-1405, N-1406, N-1407
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
+- **New Nodes Introduced:** N-529, N-530, N-532, N-533, N-534, N-535, N-537, N-538, N-1405, N-1406, N-1407
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), N-69 (Tyler Robinson), N-42 (Andrew Kolvet)
 
 ---
 

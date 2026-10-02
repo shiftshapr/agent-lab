@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 4416eff204bca7a7209dc9ce163ce86f52709581dce7aad641a8ba51de16006d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-5, N-985, N-986, N-987, N-988, N-989, N-990, N-991, N-992, N-993, N-994, N-995, N-996, N-997, N-998, N-999, N-1207, N-1208, N-1612, N-1613, N-1614, N-1615, N-1616
-  - Reused Nodes Appearing: N-1
+  - New Nodes Introduced: N-5, N-985, N-986, N-987, N-988, N-989, N-990, N-991, N-992, N-993, N-994, N-995, N-996, N-997, N-998, N-999, N-1612, N-1613, N-1614, N-1615, N-1616
+  - Reused Nodes Appearing: N-1, N-1207, N-1208
   - (see registers)
 
 ---
@@ -559,32 +559,6 @@ Episode Count: 1
 Investigative Pressure: Low
 
 *Related: A-1857.1, C-2489, N-995, N-1613*
-
----
-
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Author of X post A-1858.1 claiming existence of a list of foreign-money recipients.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1858.1, C-2490, N-995, N-1613*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Author of X post A-1859.1 comparing Tucker Carlson prosecution risk to Epstein list.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1859.1, C-2491, N-995, N-1613*
 
 ---
 

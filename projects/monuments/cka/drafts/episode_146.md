@@ -19,8 +19,8 @@
 
 Artifact Families Introduced: A-2320, A-2321, A-2322, A-2323, A-2324, A-2325, A-2326
 Claim Range: C-3345–C-3354
-New Nodes Introduced: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-2216, N-2217, N-2218
-Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-[existing] Mikey McCoy, N-[existing] Rob McCoy, N-[existing] Tyler Robinson, N-[existing] Victor Marx, N-[existing] Graham Allen, N-[existing] Ben Shapiro, N-[existing] Blake Neff, N-[existing] Andrew Kovat, N-[existing] Danny Phillip, N-[existing] Elizabeth McCoy, N-[existing] Terrell Farnsworth
+New Nodes Introduced: N-2216, N-2217, N-2218
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation), N-1211 (UVU Campus Familiarity Question), N-1212 (Phil Lyman Location Discrepancy), N-1213 (Unidentified Goth Person in Broderick Companion Photo), N-1214 (Charlie Kirk Pre-Mortem Israel Position Claim)
 
 ---
 
@@ -222,98 +222,6 @@ Confidence Level: High
 ## IV. Node Register
 
 ### People
-
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Brother of Pastor Jack Hibbs; reported age 74 at time of UVU event; described as a "mountain man" living in Utah; subject of post-shooting recording behavior analysis.
-
-Evidence Count: 5
-Claim Count: 5
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2322.1, A-2322.2, A-2323.1, A-2324.1, A-2324.2, A-2324.3, A-2325.1, C-3345, C-3347, C-3348, C-3353, C-3355, N-1208, N-2216*
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Senior pastor of Calvary Chapel Church, Chino Hills, California; brother of Butch Hibbs; multiple public statements and interviews concerning 9/10 events; first to publicly announce Charlie Kirk's death.
-
-Evidence Count: 5
-Claim Count: 6
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2321.1, A-2322.1, A-2322.2, A-2323.1, C-3346, C-3347, C-3349, C-3350, C-3351, C-3355, N-1207, N-1209, N-1210, N-2217*
-
-**N-1209** Robinson Apartment Staging Allegation
-
-Interviewer of Jack Hibbs in two clips played on air; described by host as a former military man; was FaceTiming with Jack Hibbs from the Tempe/Phoenix hospital area after the shooting.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2322.1, A-2322.2, C-3347, C-3349, N-1208, N-2217*
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Fox News journalist who conducted an audio interview with Jack Hibbs played on air.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2323.1, C-3345, N-1208*
-
-**N-1211** UVU Campus Familiarity Question
-
-Described as former MSAD/Unit 8200 agent and CEO of PragerU; host states she previously recommended Jack Hibbs for the host's podcast.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2321.1 (context only)*
-
-**N-1212** Phil Lyman Location Discrepancy
-
-Senior pastor of Calvary Chapel in Signal Hill, California; identified as one of Erika Kirk's TPUSA-affiliated faith pastors; co-hosts content related to Bible and 365 brand; observed on a mobility scooter at the courthouse.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2326.4, C-3356*
-
-**N-1213** Unidentified Goth Person in Broderick Companion Photo
-
-Described by host as funders of certain Calvary Chapel churches (including Rob McCoy's Thousand Oaks location), PragerU, Daily Wire initial funding, and Ted Cruz; alleged to fly Israeli flags on Texas property.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2321.1 context*
-
-**N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
-
-Magistrate presiding over Tyler Robinson preliminary hearing; expected to rule on motion to dismiss charges 1, 6, and 7 on the day of broadcast.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2326.1–A-2326.4, C-3354*
-
----
-
-### Investigation Targets
 
 **N-2216** Butch Hibbs UVU Recording Behavior
 

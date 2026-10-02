@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 674d0b2cf0cf17f8e31242dcb7734af97349b70ba3193f8f1aef68b988aa35f5
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-8, N-9, N-10, N-12, N-13, N-14, N-15, N-16, N-3, N-18, N-19, N-34, N-21, N-25, N-23, N-24, N-25, N-26
+  - New Nodes Introduced: N-8, N-9, N-10, N-12, N-13, N-14, N-15, N-16, N-18, N-19, N-34, N-21, N-25, N-23, N-24, N-26
   - Reused Nodes Appearing: N-1017, N-1018, N-3, N-4, N-1019, N-1207
   - (see registers)
 
@@ -82,14 +82,6 @@ Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure
 **N-1018** Eileen Marx
 
 Victor's wife; described as second-mother figure to Erika Kirk
-
-*Related: *
-
----
-
-**N-3** Candace Owens — host; existing node reused.
-
-Victor's stepfather; pled guilty to international drug smuggling conspiracy
 
 *Related: *
 
