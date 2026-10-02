@@ -30,7 +30,7 @@
 Episode 124 Ledger Summary
 Artifact Families Introduced: A-2115, A-2116, A-2117, A-2118, A-2119, A-2120, A-2121, A-2122, A-2123, A-2124, A-2125, A-2126, A-2127, A-2128
 Claim Range: C-3000 – C-3016
-New Nodes Introduced: N-2108, N-2109, N-2110, N-2111, N-2112 (investigation targets only)
+New Nodes Introduced: N-2108, N-2109, N-2110, N-2111, N-2112 (Tyler-Lance Text Message Extraction Source)
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twigs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Aman, Barry Weiss, Benny Johnson, Josh Hammer, Caitlyn Oliver, Samantha Carner, Miss Noble, Jeremy Boring, Tim Pool, Blake Nef, Baron Coleman, Frank Turk, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kovat/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Preene Bowler)
 
 ---

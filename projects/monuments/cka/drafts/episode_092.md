@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: eb7f190e817800aabce4c7b6b9fa93761c5d8561e5cca0d59bcaf75640fafa30
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-4, N-6, N-1015, N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
-  - Reused Nodes Appearing: N-1, N-1014, N-5, N-1207, N-1208, N-1209, N-1210
+  - New Nodes Introduced: N-4, N-1015, N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
+  - Reused Nodes Appearing: N-1, N-1014, N-5, N-1207, N-1208, N-1209, N-1210, N-6
   - (see registers)
 
 ---
@@ -35,9 +35,9 @@ Artifact Families Introduced: A-1965, A-1966, A-1967, A-1968, A-1969, A-1970, A-
 
 Claim Range: C-2722–C-2743
 
-New Nodes Introduced: N-1207 (Marcus Wada), N-1208 (Jake Trailer), N-1209 (Savannah Hernandez), N-1210 (Corby Hall), N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
+New Nodes Introduced: N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
 
-Existing Nodes Reused: N-1 Charlie Kirk, N-1014 Erica Kirk, N-1015 Candace Owens, N-4 JD Vance, N-5 Andrew Kolvet, N-6 Victor Marx, N-1015 Tim Ballard
+Existing Nodes Reused: N-1 (Charlie Kirk), N-1014 (Erica Kirk), N-1015 (Tim Ballard), N-4 (JD Vance), N-5 (Andrew Kolvet), N-6 (Victor Marx), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation)
 
 ---
 
@@ -339,19 +339,6 @@ Investigative Pressure: High
 
 ---
 
-**N-6** Elizabeth Lane *(reused from Episode 1)*
-
-Pastor; subject of prior biographical scrutiny; author of video response (A-1975.1) and recipient of Candace's reply (A-1976.1) and DM (A-1977.1).
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: (pre-existing)
-Investigative Pressure: Medium
-
-*Related: A-1975.1, A-1976.1, A-1977.1, C-2734, C-2735, C-2736, N-1210, N-1688*
-
----
-
 **N-1015** Tim Ballard
 
 Mentioned in passing within the connecting-themes list (Operation Underground). Pre-existing node; no new artifact attached.
@@ -362,58 +349,6 @@ Episode Count: (pre-existing)
 Investigative Pressure: Medium
 
 *Related: N-1689*
-
----
-
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Newly introduced TPUSA "director of strategy of productions"; subject of bio (A-1978.1), brother-consulting-company reference (A-1979.1), and anonymous insider arms-trafficking claim (A-1980.1).
-
-Evidence Count: 3
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1978.1, A-1979.1, A-1980.1, C-2737, C-2738, C-2739, C-2741, N-5, N-1684*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-MS Now reporter; author of crowd-size tweet (A-1974.1).
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1974.1, C-2733, N-1683*
-
----
-
-**N-1209** Robinson Apartment Staging Allegation
-
-TPUSA "Frontlines" reporter in Minneapolis; cited by Kolvet as precedent for security concerns (A-1967.1).
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1967.1, N-5*
-
----
-
-**N-1210** Phil Lyman Proximity and Behavior Investigation
-
-Subject of Victor Marx-related letter; agreed to appear on Candace's show with Marx; named in A-1976.1 and A-1977.1.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1976.1, A-1977.1, C-2735, C-2736, N-6, N-1688*
 
 ---
 

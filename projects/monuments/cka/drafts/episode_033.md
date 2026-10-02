@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-405, N-406, N-407, N-408, N-409, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
   - Reused Nodes Appearing: 
-  - (see registers)
+  N-85
 
 ---
 
@@ -36,8 +36,8 @@
 
 - **Artifact Families Introduced:** A-1415, A-1416, A-1417, A-1418, A-1419, A-1420, A-1421, A-1422, A-1423, A-1424
 - **Claim Range:** C-1716 – C-1734
-- **New Nodes Introduced:** N-405, N-406, N-407, N-408, N-409, N-410, N-85, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk — preserved as Erika per transcript), N-3 (Candace Owens), N-404 (Tucker Carlson, assumed prior)
+- **New Nodes Introduced:** N-405, N-406, N-407, N-408, N-409, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk — preserved as Erika per transcript), N-3 (Candace Owens), N-404 (Tucker Carlson, assumed prior), N-85 (Governor Cox)
 
 ---
 

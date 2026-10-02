@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 41371ed9bf2aa31e939261a41b3c56c4f8ebefab5ce2776c5e5861ea674b656d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-1000, N-335, N-336, N-337, N-338, N-339, N-340, N-341, N-343, N-344, N-345, N-1294, N-1295, N-1296, N-1297
-  - Reused Nodes Appearing: N-1
+  - New Nodes Introduced: N-335, N-336, N-337, N-338, N-339, N-340, N-341, N-343, N-344, N-345, N-1294, N-1295, N-1296, N-1297
+  - Reused Nodes Appearing: N-1, N-1000
   - (see registers)
 
 # Episode Analysis Record

@@ -32,8 +32,8 @@
 
 Artifact Families Introduced: A-2384, A-2385, A-2386, A-2387, A-2388, A-2389, A-2390, A-2391, A-2392
 Claim Range: C-3466–C-3492
-New Nodes Introduced: N-2275, N-2277, N-2278, N-2323, N-2324, N-2325, N-2326, N-2327, N-2328, N-2329
-Existing Nodes Reused: N-1, N-1030, N-7, N-? (Tyler Robinson), N-? (Brian Harpole), N-? (Shawn Ryan), N-? (Dan Flood), N-? (Jeffrey Long), N-? (Astrid Tuminez), N-? (Macy Crofts), N-? (Officer Baggley), N-? (Richard Bracie), N-? (Max Blumenthal), N-? (Tucker Carlson), N-? (Laura Loomer), N-? (Nell DeBuckman — flagged for new node possibility), N-? (Jim Spencer — flagged)
+New Nodes Introduced: N-2323, N-2324, N-2325, N-2326, N-2327, N-2328, N-2329
+Existing Nodes Reused: N-1 (Charlie Kirk), N-1030 (Erica Kirk), N-7 (Candace Owens), N-2275 (Mike Mitchell Public Record Anomaly), N-2277 (Robinson Apartment Staging Allegation), N-2278 (Phil Lyman Proximity and Behavior Investigation)
 
 ---
 
@@ -211,45 +211,6 @@ Episode Count: 153
 Investigative Pressure: High
 
 *Related: A-2384.1, C-3466, N-1, N-2323*
-
----
-
-**N-2275** Mike Mitchell Public Record Anomaly
-
-Announced on air as fill-in host during Candace Owens' maternity leave. Identified as lawyer.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: N-7*
-
----
-
-**N-2277** Robinson Apartment Staging Allegation
-
-News outlet which obtained and released the May 31, 2022 Tyler Robinson bodycam footage. **Name uncertainty:** transcript also spells as "Scriptscripts News" and "Scripts Media."
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2389.2, A-2391.1, C-3480, C-3481, N-2324, N-2327*
-
----
-
-**N-2278** Phil Lyman Proximity and Behavior Investigation
-
-Agency that recorded the May 31, 2022 Tyler Robinson bodycam footage.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2389.1, C-3483, N-2327*
 
 ---
 

@@ -33,8 +33,8 @@
 
 - **Artifact Families Introduced:** A-2294, A-2295, A-2296, A-2297, A-2298, A-2299, A-2300
 - **Claim Range:** C-3302 – C-3312
-- **New Nodes Introduced:** N-1207, N-1208, N-2207, N-2208
-- **Existing Nodes Reused:** N-1, N-1026, N-1027, N-69, N-5, N-6, N-1027, N-8, N-9
+- **New Nodes Introduced:** N-2207, N-2208
+- **Existing Nodes Reused:** N-1, N-1026, N-1027, N-69, N-5, N-6, N-8, N-9, N-1207, N-1208
 
 ---
 
@@ -258,32 +258,6 @@ Episode Count: 1 (in this ledger entry)
 Investigative Pressure: High
 
 *Related: A-2295.1, A-2295.2, A-2295.3, A-2300.1, C-3302, C-3303, C-3304*
-
----
-
-**N-1207** Mike Mitchell Public Record Anomaly
-
-Streamer whose favorable commentary on Candace Owens (A-2297) and whose mention by Blake Neff (A-2298) are central to this episode's "left-coordination" framing discussion.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Low (peripheral to case)
-
-*Related: A-2297.1, A-2298.1, C-3309, C-3310*
-
----
-
-**N-1208** Brooksby Suicide Narrative Discrepancy
-
-Parody-content account whose Matrix-style video on the Tyler Robinson case is played in full (A-2299).
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-2299.1, C-3311*
 
 ---
 

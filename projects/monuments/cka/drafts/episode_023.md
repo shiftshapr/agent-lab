@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 2b7c0b497c1a605724c2efacfbda06d8e0b999ac43a4736bf08dfb6b27a1a9f1
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-1, N-300, N-301, N-302, N-304, N-305, N-306, N-307, N-308, N-309, N-310, N-1273, N-1274, N-1275, N-1276, N-1277, N-1278, N-1279, N-1280
+  - New Nodes Introduced: N-300, N-301, N-302, N-304, N-305, N-306, N-307, N-308, N-309, N-310, N-1273, N-1274, N-1275, N-1276, N-1277, N-1278, N-1279, N-1280
   - Reused Nodes Appearing: 
-  - (see registers)
+  N-1, N-85
 
 ---
 
@@ -33,8 +33,8 @@
 
 - **Artifact Families Introduced:** A-1301, A-1302, A-1303, A-1304, A-1305, A-1306, A-1307, A-1308, A-1309, A-1310, A-1311, A-1312
 - **Claim Range:** C-1545 – C-1567
-- **New Nodes Introduced:** N-300, N-301, N-302, N-85, N-304, N-305, N-306, N-307, N-308, N-309, N-310, N-1273, N-1274, N-1275, N-1276, N-1277, N-1278, N-1279, N-1280
-- **Existing Nodes Reused:** N-1 (Charlie Kirk)
+- **New Nodes Introduced:** N-300, N-301, N-302, N-304, N-305, N-306, N-307, N-308, N-309, N-310, N-1273, N-1274, N-1275, N-1276, N-1277, N-1278, N-1279, N-1280
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-85 (Governor Cox)
 
 ---
 
@@ -392,19 +392,6 @@ Confidence Level: Medium
 Node Type: topic
 
 *Related:*
-
-**N-1** Charlie Kirk
-
-Primary subject of the assassination and of the host's foreign-actor / infiltration framing.
-
-Evidence Count: 5
-Claim Count: 12
-Episode Count: Multiple
-Investigative Pressure: High
-
-*Related: A-1301, A-1302, A-1303.1, A-1306.6, A-1309.1, A-1311.1, A-1312.1, C-1545, C-1546, C-1548, C-1551, C-1552, C-1554, C-1555, C-1556, C-1557, C-1559, C-1560, C-1561, N-1273, N-1274, N-1275, N-1282*
-
----
 
 **N-300** Rob McCoy
 
