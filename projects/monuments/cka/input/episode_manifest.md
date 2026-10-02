@@ -158,3 +158,4 @@
 | 154 | 2026-09-17 | numbered_show | 389 | NNiCZk1cuzs | Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. \| Ep 389 |
 | 155 | 2026-09-22 | numbered_show | 391 | 6XfDqKTdFKg | BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… \| Ep 391 |
 | 156 | 2026-09-25 | numbered_show | 393 | _Sq5RqP27NY | CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. \| Ep 393 |
+| 157 | 2026-09-25 | numbered_show | 394 | bIuvTKlFeGo | WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 |

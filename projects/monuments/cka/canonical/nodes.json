@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updated": "2026-10-01T05:23:26Z",
+  "updated": "2026-10-02T16:06:47Z",
   "monument": "cka",
-  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11\u201320 extract.",
+  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11\u201320 extract; seq 157 Ep 394 daily ingest.",
   "next_person_id": 1000,
-  "next_investigation_id": 2350,
+  "next_investigation_id": 2355,
   "nodes": {
     "N-1": {
       "canonical_name": "Charlie Kirk",
@@ -51,7 +51,8 @@
         150,
         153,
         154,
-        156
+        156,
+        157
       ]
     },
     "N-7": {
@@ -68,7 +69,8 @@
         7,
         8,
         9,
-        10
+        10,
+        157
       ]
     },
     "N-59": {
@@ -96,7 +98,8 @@
         10,
         76,
         85,
-        148
+        148,
+        157
       ]
     },
     "N-60": {
@@ -3345,7 +3348,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        16
+        16,
+        157
       ]
     },
     "N-216": {
@@ -4660,7 +4664,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        25
+        25,
+        157
       ]
     },
     "N-1292": {
@@ -5236,7 +5241,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        30
+        30,
+        157
       ]
     },
     "N-1314": {
@@ -5828,7 +5834,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        36
+        36,
+        157
       ]
     },
     "N-436": {
@@ -5836,7 +5843,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        36
+        36,
+        157
       ]
     },
     "N-437": {
@@ -5868,7 +5876,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        36
+        36,
+        157
       ]
     },
     "N-448": {
@@ -9084,7 +9093,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        59
+        59,
+        157
       ]
     },
     "N-750": {
@@ -9132,7 +9142,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        59
+        59,
+        157
       ]
     },
     "N-756": {
@@ -10244,7 +10255,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        67
+        67,
+        157
       ]
     },
     "N-849": {
@@ -11906,7 +11918,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        79
+        79,
+        157
       ]
     },
     "N-993": {
@@ -12926,7 +12939,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        97
+        97,
+        157
       ]
     },
     "N-1721": {
@@ -13094,7 +13108,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        102
+        102,
+        157
       ]
     },
     "N-2064": {
@@ -13330,7 +13345,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        110
+        110,
+        157
       ]
     },
     "N-2079": {
@@ -13490,7 +13506,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        121
+        121,
+        157
       ]
     },
     "N-2093": {
@@ -15027,7 +15044,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        153
+        153,
+        157
       ]
     },
     "N-1031": {
@@ -15043,7 +15061,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        154
+        154,
+        157
       ]
     },
     "N-2331": {
@@ -15172,6 +15191,46 @@
       "aliases": [],
       "episodes": [
         156
+      ]
+    },
+    "N-2350": {
+      "canonical_name": "TPUSA Non-Participation in UVU Independent Review",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        157
+      ]
+    },
+    "N-2351": {
+      "canonical_name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilikut Chain)",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        157
+      ]
+    },
+    "N-2352": {
+      "canonical_name": "Anonymous EMP Device Threat (SIAC, Sept 10)",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        157
+      ]
+    },
+    "N-2353": {
+      "canonical_name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        157
+      ]
+    },
+    "N-2354": {
+      "canonical_name": "July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        157
       ]
     }
   }

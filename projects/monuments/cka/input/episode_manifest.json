@@ -2,15 +2,15 @@
   "monument": "cka",
   "channel": "@RealCandaceO",
   "corpus_cutoff_inclusive": "2025-09-11",
-  "generated_at_utc": "2026-09-25T16:15:08Z",
+  "generated_at_utc": "2026-10-02T16:03:49Z",
   "source": {
     "listing": "https://www.youtube.com/@RealCandaceO/streams",
     "publish_dates": "https://invidious.f5.si"
   },
   "counts": {
-    "manifest_entries": 156,
-    "numbered_show": 154,
-    "kirk_special": 2
+    "manifest_entries": 157,
+    "kirk_special": 2,
+    "numbered_show": 155
   },
   "episodes": [
     {
@@ -1572,6 +1572,16 @@
       "kind": "numbered_show",
       "notes": null,
       "seq": 156
+    },
+    {
+      "upload_date": "2026-09-25",
+      "youtube_id": "bIuvTKlFeGo",
+      "title": "WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394",
+      "url": "https://www.youtube.com/watch?v=bIuvTKlFeGo",
+      "candace_ep_number": 394,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 157
     }
   ]
 }

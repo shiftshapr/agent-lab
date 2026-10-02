@@ -1,5 +1,5 @@
 {
-  "description": "YouTube duration seconds for CKA seq 1\u201320.",
+  "description": "YouTube duration seconds for CKA episodes (by youtube_id).",
   "by_youtube_id": {
     "_dRaEO47-co": 1428,
     "czVBmqZP6Ss": 4194,
@@ -20,6 +20,7 @@
     "2Riv3I7D0Yk": 4543,
     "pc3pxRyNFZk": 3988,
     "c5BcKF91iec": 3530,
-    "Cq7nj9rxPdo": 4228
+    "Cq7nj9rxPdo": 4228,
+    "bIuvTKlFeGo": 5452
   }
 }
