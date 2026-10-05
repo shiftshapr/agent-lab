@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: d82b48102c726acd15c3a718f4baa7d4691a6482670844b564064dc00d88f1c8
+- **Transcript SHA-256**: fd62017fc03da5f558a7a5932524ae356911ad85bc96f8539a17038700b77b76
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1657, N-1658, N-1659, N-1660, N-1661
@@ -19,7 +19,7 @@
 
 Episode 88 advances two distinct investigative threads inside the Bride of Charlie series. The first centers on the provenance and integrity of the audio artifact TPUSA played as Erika Kirk's walkout music at the AmFest year-end event, purporting to be Charlie Kirk naming his wife as his successor at an August 15–17, 2025 Aspen donor event. The host plays the audio, identifies what she characterizes as editing artifacts, reports outreach to four attendees (three of whom, including a couple, do not recall the statement), and reads in full Blake Neff's X-post response declining to release the corresponding video.
 
-The second thread concerns the host's investigation into Erika Kirk's claimed whereabouts on September 10, 2025. The host contrasts the verbatim New York Times account ("hospital room" at 11:23 a.m. local Phoenix time) with Erika's Jesse Watters account ("mom's doctor's appointment"), plays both, notes an apparent jump cut in the latter, and reports multiple witnesses who allegedly place Erika without her mother on that day — including a security-guard Derek Niekerk account and a Minnesota woman who reportedly said she, not Erika, was with Erika's mother when the news arrived. The episode also documents the Trump social-media statement firing Pam Bondi and naming Todd Blanch as Acting Attorney General.
+The second thread concerns the host's investigation into Erika Kirk's claimed whereabouts on September 10, 2025. The host contrasts the verbatim New York Times account ("hospital room" at 11:23 a.m. local Phoenix time) with Erika's Jesse Watters account ("mom's doctor's appointment"), plays both, notes an apparent jump cut in the latter, and reports multiple witnesses who allegedly place Erika without her mother on that day — including a security-guard Derek Niekerk account and a Minnesota woman who reportedly said she, not Erika, was with Erika's mother when the news arrived. The episode also documents the Trump social-media statement firing Pam Bondi and naming Todd Blanche as Acting Attorney General.
 
 Structural importance: the episode elevates the previously-mentioned Karashi family thread with a named Fort Huachuca–trained family member (Tour Karashi) and an attributed LinkedIn reference; it also begins to harden the Erika CEO succession audio narrative as a distinct investigable target rather than host rhetoric.
 
@@ -191,7 +191,7 @@ Confidence Level: Medium (verbally referenced; not displayed)
 
 **A-1935** Trump Social Media Statement Bundle
 
-**A-1935.1** Verbatim Trump statement announcing Pam Bondi's departure and naming Todd Blanch as Acting Attorney General
+**A-1935.1** Verbatim Trump statement announcing Pam Bondi's departure and naming Todd Blanche as Acting Attorney General
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -485,11 +485,11 @@ Anchored Artifacts: A-1935.1
 Related Nodes: N-1661
 Investigative Direction: Retrieve the original Truth Social / X post to verify exact language and timestamp.
 
-**C-2665** Todd Blanch named as Acting Attorney General
+**C-2665** Todd Blanche named as Acting Attorney General
 
 Claim Timestamp: 00:44:55–00:46:02
 
-Claim: Trump's statement named Deputy Attorney General Todd Blanch to serve as Acting Attorney General.
+Claim: Trump's statement named Deputy Attorney General Todd Blanche to serve as Acting Attorney General.
 
 Anchored Artifacts: A-1935.1
 Related Nodes: N-1211, N-1661

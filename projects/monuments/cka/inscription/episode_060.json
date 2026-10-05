@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 60,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -422,7 +422,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10002",
+        "ref": "N-10002",
+        "name": "Tyler Bowyer",
+        "type": "person",
+        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -520,7 +536,9 @@
       "related_nodes": [
         "N-2",
         "N-1501"
-      ],
+      ,
+            "N-10002"
+          ],
       "tags": [],
       "claim_timestamp": "01:08:11",
       "investigative_direction": "Obtain independent FAA or Flightradar24 archived records for both flights on 2025-09-10; verify exact departure/arrival times, passenger manifests if obtainable, and post-landing taxi routes."

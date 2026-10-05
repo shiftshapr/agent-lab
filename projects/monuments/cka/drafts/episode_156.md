@@ -8,10 +8,10 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 045464817f5d7c6f9470661f7f742edfcd3efe132e5a1b9f598a8d8e5fd07d21
+- **Transcript SHA-256**: c32da8cd664ed494ce187fb3608dadb0e6203f099e44e61f6891ccc4eb88cd7d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2341, N-2342, N-2343, N-2344, N-2345
+  - New Nodes Introduced: N-2341, N-2342, N-2343, N-2344, N-2345, N-10001, N-10002
   - Reused Nodes Appearing: N-1, N-1032, N-2275, N-2276, N-2277, N-2278
   - (see registers)
 
@@ -216,7 +216,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: A-2423.1*
+*Related: A-2423.1, N-10006*
 
 ---
 
@@ -337,17 +337,35 @@ Investigative Pressure: Medium
 
 ---
 
+**N-10001** Caleb Chilcutt
+
+Node Type: Person
+UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.
+
+*Related: C-3531*
+
+---
+
+**N-10006** Andrew Wilson
+
+Node Type: Person
+Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
+
+*Related: prose mention in episode*
+
+---
+
 ## 5. Claim Register
 
-**C-3531** Person by van in tent footage is not UVU club president Caleb Chilikut
+**C-3531** Person by van in tent footage is not UVU club president Caleb Chilcutt
 
 Claim Timestamp: 00:01:40
 
-Claim: The wider-format tent footage shows that the person previously identified as UVU club president Caleb Chilikut standing near the van by Angel Castro is in fact a different individual.
+Claim: The wider-format tent footage shows that the person previously identified as UVU club president Caleb Chilcutt standing near the van by Angel Castro is in fact a different individual.
 
 Anchored Artifacts: A-2416.1
 
-Related Nodes: N-2276
+Related Nodes: N-2276, N-10001
 
 Investigative Direction: Cross-reference other footage and photographs to identify the actual individual and confirm the correction.
 

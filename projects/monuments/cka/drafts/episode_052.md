@@ -65,7 +65,7 @@ Video Timestamp: 00:21:13
 **A-1580.1** Video excerpt of Tyler Bowyer speaking at Charlie Kirk's memorial about the 2015 Trump rally and Erika Kirk's involvement
 Video Timestamp: 00:28:55
 
-*Related: C-2009, Tyler Bowyer node, N-2 (Erica Kirk, as "Erika")*
+*Related: C-2009, Tyler Bowyer node, N-2 (Erica Kirk, as "Erika"), N-10002*
 
 **A-1581** 2014 Arizona House Floor Record Bundle
 
@@ -147,7 +147,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-632, N-633, Terryl Farnsworth node, Tyler Bowyer node, N-1454*
+*Related: N-632, N-633, Terryl Farnsworth node, Tyler Bowyer node, N-1454, N-10002*
 
 **N-635** Albert Farnsworth
 
@@ -235,7 +235,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1581.1, C-2010, N-632, N-633, N-634, N-637, N-639, Lori Frantzve node*
+*Related: A-1581.1, C-2010, N-632, N-633, N-634, N-637, N-639, Lori Frantzve node, N-10002*
 
 **N-1455** Davis-Monthan AFB September 9 Attendee Verification
 
@@ -247,6 +247,15 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-1583.1, C-2012, N-1454*
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-2009*
+
+---
 
 ## 5. Claim Register
 
@@ -330,7 +339,7 @@ Claim: Tyler Bowyer, speaking at Charlie Kirk's memorial, stated that Erika Kirk
 
 Anchored Artifacts: A-1580.1
 
-Related Nodes: Tyler Bowyer node, N-2 (Erica Kirk, as "Erika")
+Related Nodes: Tyler Bowyer node, N-2 (Erica Kirk, as "Erika"), N-10002
 
 Investigative Direction: Cross-check rally attendee list and corroborate timing of Erika's political involvement; verify Bowyer's narrative against other contemporaneous accounts.
 

@@ -394,6 +394,15 @@ Investigative Pressure: Medium
 
 ---
 
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-2080*
+
+---
+
 ## V. Claim Register
 
 **C-2075** Charlie Kirk Argued Against Broader US Military Involvement in Iran
@@ -453,7 +462,7 @@ Claim Timestamp: 00:17:23
 Claim: The redirected Jennings estate was reportedly split between Turning Point Action (headed by Tyler Bowyer) and Young America's Foundation (YAF).
 
 Anchored Artifacts: A-1619.1
-Related Nodes: N-85, N-1480
+Related Nodes: N-85, N-1480, N-10002
 Investigative Direction: Obtain probate records reflecting beneficiary designations; verify allocation.
 
 **C-2081** Paul Valli Is a TPUSA Board Member and Former Commander of the 7th PSYOP Group

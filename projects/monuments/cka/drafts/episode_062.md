@@ -114,7 +114,7 @@ Video Timestamp: 00:21:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host displays tweet)
 
-*Related: C-2188, N-85*
+*Related: C-2188, N-85, N-10002*
 
 ---
 
@@ -353,6 +353,15 @@ Investigative Pressure: Medium
 
 ---
 
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-2188*
+
+---
+
 ## 5. Claim Register
 
 **C-2182** Charlie Kirk received a text-message pressure campaign from a self-identified Christian Zionist donor
@@ -447,7 +456,7 @@ Claim: On September 25, 2018, Tyler Bowyer posted that TPUSA "runs everything li
 
 Anchored Artifacts: A-1673.1
 
-Related Nodes: N-85
+Related Nodes: N-85, N-10002
 
 Investigative Direction: Retrieve the original post from X/Twitter (including any deletions or edits) and identify which "background" Bowyer was referencing.
 

@@ -610,6 +610,15 @@ Investigative Pressure: Low
 
 ---
 
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-1421, C-1424*
+
+---
+
 ## V. Claim Register
 
 **C-1404** Josh Hammer Retweeted 2013 Trump Public-Execution Tweet on September 9, 2025
@@ -840,7 +849,7 @@ Claim Timestamp: 00:07:54
 Claim: Tyler Bowyer posted accusatory content on X, calling people names rather than addressing substantive questions.
 
 Anchored Artifacts: None (host narrative reference; not anchored in this episode)
-Related Nodes: N-85
+Related Nodes: N-85, N-10002
 
 Investigative Direction: Capture and verify direct screenshots of Bowyer's X posts.
 

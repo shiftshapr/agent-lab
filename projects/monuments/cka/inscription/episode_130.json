@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 130,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -856,7 +856,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10014",
+        "ref": "N-10014",
+        "name": "Mitt Romney",
+        "type": "person",
+        "description": "Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 1efb65d788e764ce59f77474993e3420acf90bc4df6bef2cac70e04db1fe218b
+- **Transcript SHA-256**: 087c555f00ceb818cad608ff21e33df7adf9a91188c74d073eebdf7ac801be48
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-968, N-969, N-970, N-971, N-972, N-973, N-974, N-975, N-976, N-978, N-979, N-980, N-981, N-982, N-983, N-984, N-1604, N-1605, N-1606, N-1607, N-1608, N-1609, N-1610, N-1611

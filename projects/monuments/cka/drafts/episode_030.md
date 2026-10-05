@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 177569ba8727a16cdb11a8b89d2a12d628376b4438353daf7c575a1b414b3952
+- **Transcript SHA-256**: 0d2f2dbc9465930cb84c2b757b75f17ff20dc8778189c037661661ce3f8fbc84
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-377, N-378, N-379, N-380, N-381, N-382, N-383, N-384, N-385, N-386, N-387, N-1313, N-1314, N-1315

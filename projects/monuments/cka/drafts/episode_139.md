@@ -402,6 +402,15 @@ Investigative Pressure: Medium
 
 ---
 
+**N-10006** Andrew Wilson
+
+Node Type: Person
+Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
+
+*Related: C-3238, C-3239, C-3240, C-3241, C-3242, C-3243*
+
+---
+
 ## V. Claim Register
 
 **C-3236** Tip email hypothesizes "sniffer pooch" is French calque
@@ -440,7 +449,7 @@ Claim: On the Joe Rogan Experience, Andrew Wilson stated he offered Candace Owen
 
 Anchored Artifacts: A-2255.1
 
-Related Nodes: N-1207, N-1213
+Related Nodes: N-1207, N-1213, N-10006
 
 Investigative Direction: Verify funding source of the $300K offer; obtain any formal documentation or PR communications.
 
@@ -454,7 +463,7 @@ Claim: On the Joe Rogan Experience, Andrew Wilson stated that during a visit to 
 
 Anchored Artifacts: A-2255.2
 
-Related Nodes: N-1207, N-2, N-1213
+Related Nodes: N-1207, N-2, N-1213, N-10006
 
 Investigative Direction: Verify TPUSA HQ visit through visitor logs, Erica Kirk's public statements, and corroborating witnesses.
 
@@ -468,7 +477,7 @@ Claim: On the Joe Rogan Experience, Andrew Wilson stated that Candace Owens has 
 
 Anchored Artifacts: A-2255.3
 
-Related Nodes: N-1207, N-1213, N-1, N-2
+Related Nodes: N-1207, N-1213, N-1, N-2, N-10006
 
 Investigative Direction: Catalogue all Candace Owens public statements and shown evidence; evaluate the "no evidence" characterization against documented artifacts.
 
@@ -482,7 +491,7 @@ Claim: Andrew Kovac stated on X that Andrew Wilson was paid for one day of debat
 
 Anchored Artifacts: A-2256.1
 
-Related Nodes: N-1207, N-1210
+Related Nodes: N-1207, N-1210, N-10006
 
 Investigative Direction: Obtain TPUSA payment records or 1099 documentation for Andrew Wilson.
 
@@ -496,7 +505,7 @@ Claim: Blake Nef posted on X recommending Andrew Wilson's Joe Rogan appearance, 
 
 Anchored Artifacts: A-2257.1
 
-Related Nodes: N-1207, N-1211
+Related Nodes: N-1207, N-1211, N-10006
 
 Investigative Direction: Cross-reference Nef's TPUSA affiliation and prior amplification patterns.
 
@@ -510,7 +519,7 @@ Claim: A displayed debate clip shows Andrew Wilson, debating a female opponent n
 
 Anchored Artifacts: A-2258.1
 
-Related Nodes: N-1207, N-1215
+Related Nodes: N-1207, N-1215, N-10006
 
 Investigative Direction: Obtain full unedited debate recording to verify context and whether insults were reciprocated.
 

@@ -89,7 +89,7 @@ Video Timestamp: 00:02:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2886, N-85, N-2065*
+*Related: C-2886, N-85, N-2065, N-10002*
 
 **A-2065** Blake Neff Response Bundle
 
@@ -583,6 +583,15 @@ Investigative Pressure: Low
 
 ---
 
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-2886*
+
+---
+
 ## V. Claim Register
 
 **C-2884** Andrew Kolvet denied divorce rumor via social media
@@ -621,7 +630,7 @@ Claim: Tyler Bowyer publicly stated he has had "numerous things like this said a
 
 Anchored Artifacts: A-2064.1
 
-Related Nodes: N-85, N-1207, N-2065
+Related Nodes: N-85, N-1207, N-2065, N-10002
 
 Investigative Direction: Verify the original X post and any subsequent posts by Bowyer; cross-reference his stated history of false rumors.
 

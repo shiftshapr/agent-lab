@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 3e79984c2ef169b7bdb41acb0b482c9584e0ba254e76b714ccbcdc0c2215a738
+- **Transcript SHA-256**: b8b7fc2a633b3553c7b59c525ff8b33ee7df3017e487dccce1e3382534f8853d
 
 - **Episode Ledger Summary**:
   - (see registers)
@@ -39,7 +39,7 @@
 
 The episode presents artifact-backed claims concentrated in three areas. First, a Wikipedia manipulation narrative: the host reads an updated TPUSA Wikipedia entry that, less than 36 hours after Charlie Kirk's death (at 10:34 PM ET, September 11, 2025), adds Pastor Rob McCoy as co-founder of TPUSA Faith, contrasting this with a 2021 pre-existing section that names Charlie Kirk as sole founder. A November 24, 2024 article cited as source for the McCoy co-founder claim is described in the host's reading as not containing the asserted text.
 
-Second, claims regarding official and political figures' posture toward the Kirk investigation: the host reads in full the only Trump Truth Social post framed as relating to "investigation," which is actually directed at Jack Smith's investigation of TPUSA; references a New York Times article (not displayed) reporting that FBI Director Kash Patel was alarmed by an inquiry from Joe Kent (Tulsi Gabbard's office) and convened a meeting with Susie Wilds, Kent, Gabbard, and JD Vance; and plays an audio clip of Donald Trump Jr. on Megyn Kelly expressing confidence in the FBI investigation after an initial deflection. A Trump proclamation establishing October 14 as a national day of remembrance for Kirk is referenced but not displayed.
+Second, claims regarding official and political figures' posture toward the Kirk investigation: the host reads in full the only Trump Truth Social post framed as relating to "investigation," which is actually directed at Jack Smith's investigation of TPUSA; references a New York Times article (not displayed) reporting that FBI Director Kash Patel was alarmed by an inquiry from Joe Kent (Tulsi Gabbard's office) and convened a meeting with Susie Wiles, Kent, Gabbard, and JD Vance; and plays an audio clip of Donald Trump Jr. on Megyn Kelly expressing confidence in the FBI investigation after an initial deflection. A Trump proclamation establishing October 14 as a national day of remembrance for Kirk is referenced but not displayed.
 
 Third, the episode includes the host's spiritual and interpretive commentary (prayer, dreams, framing premises about assassination, burial claims) and a trailer clip of an upcoming Norman Finkelstein interview on Gaza. Speculative framing, spiritual interpretations, and unsupported allegations are not inscribed as evidence-backed claims. The episode's structural importance is as a consolidation of public-figure-pressure allegations and an early claim of Wikipedia evidence curation in the series.
 
@@ -213,6 +213,15 @@ Investigative Pressure: Medium
 
 ---
 
+**N-10017** Susie Wiles
+
+Node Type: Person
+White House chief of staff. Host questions her as a Kirk eulogist and names her in later Epstein-file meetings.
+
+*Related: C-1520, C-1526*
+
+---
+
 # V. Claim Register
 
 **C-1514** TPUSA Wikipedia Entry Updated at 10:34 PM ET on September 11, 2025 to Add Rob McCoy as Co-Founder of TPUSA Faith
@@ -299,15 +308,15 @@ Investigative Direction: Locate the NYT article by date, headline, and quoted ma
 
 ---
 
-**C-1520** Kash Patel Convened a Meeting With Susie Wilds, Joe Kent, Tulsi Gabbard, and JD Vance Regarding the Inquiry
+**C-1520** Kash Patel Convened a Meeting With Susie Wiles, Joe Kent, Tulsi Gabbard, and JD Vance Regarding the Inquiry
 
 Claim Timestamp: 00:21:37
 
-Claim: Following the inquiry, Kash Patel convened a meeting with Susie Wilds, Joe Kent, Tulsi Gabbard, and (per host's recollection) JD Vance, and no substantive action followed.
+Claim: Following the inquiry, Kash Patel convened a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard, and (per host's recollection) JD Vance, and no substantive action followed.
 
 Anchored Artifacts: A-1286.1
 
-Related Nodes: N-1268
+Related Nodes: N-1268, N-10017
 
 Investigative Direction: Confirm via the NYT article whether these named officials were present and whether subsequent reporting describes any action items.
 
@@ -405,7 +414,7 @@ Investigative Direction: Verify the quoted Economist and UN official attribution
 
 - **Artifact verbally referenced but not displayed in full** — **A-1284.1** (the November 24, 2024 Wikipedia citation source article) is described by the host as having been clicked and read, but its text is not displayed or read aloud in the episode. C-1517 depends on the host's characterization of its content.
 
-- **Name uncertainty** — The transcript spells "Susie Wilds" (likely Susie Wiles, Trump's chief of staff), "Kovette" (likely Andrew Kolvet, TPUSA spokesperson), and "Kash Matiel" / "Cash Matiel" (likely Kash Patel). Spellings preserved exactly as transcript presents them.
+- **Name uncertainty** — The transcript spells "Susie Wiles" (likely Susie Wiles, Trump's chief of staff), "Kovette" (likely Andrew Kolvet, TPUSA spokesperson), and "Kash Matiel" / "Cash Matiel" (likely Kash Patel). Spellings preserved exactly as transcript presents them.
 
 - **Possible transcription error** — "Norman Finkelestein" / "Finkelstein" appears twice with inconsistent spelling; preserved as in source.
 

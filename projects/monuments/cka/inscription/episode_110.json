@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 110,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -912,7 +912,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10014",
+        "ref": "N-10014",
+        "name": "Mitt Romney",
+        "type": "person",
+        "description": "Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -1198,7 +1214,9 @@
         "N-1219",
         "N-1220",
         "N-1221"
-      ],
+      ,
+            "N-10014"
+          ],
       "tags": [],
       "claim_timestamp": "00:37:50",
       "investigative_direction": "Cross-check NYT article with contemporaneous French press; verify date."
@@ -1231,7 +1249,9 @@
       ],
       "related_nodes": [
         "N-1219"
-      ],
+      ,
+            "N-10014"
+          ],
       "tags": [],
       "claim_timestamp": "00:46:50",
       "investigative_direction": "Locate the @PierreDeleto account or its archived screenshots; cross-reference with prior reporting on Romney's French-language social media activity."
@@ -1284,7 +1304,9 @@
         "N-1207",
         "N-1218",
         "N-2066"
-      ],
+      ,
+            "N-10014"
+          ],
       "tags": [],
       "claim_timestamp": "00:10:30",
       "investigative_direction": "Verify BCG employment for both Romney and Netanyahu via BCG alumni directories or independent reporting."
@@ -1301,7 +1323,9 @@
       "related_nodes": [
         "N-1218",
         "N-2066"
-      ],
+      ,
+            "N-10014"
+          ],
       "tags": [],
       "claim_timestamp": "00:10:30",
       "investigative_direction": "Verify Bain Capital founding investors list; cross-check Robert Maxwell investment history."

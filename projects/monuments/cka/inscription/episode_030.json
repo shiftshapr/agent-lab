@@ -3,14 +3,14 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 30,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
     "video_timestamp_range": "00:00:00–00:56:29",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "177569ba8727a16cdb11a8b89d2a12d628376b4438353daf7c575a1b414b3952",
+    "transcript_sha256": "0d2f2dbc9465930cb84c2b757b75f17ff20dc8778189c037661661ce3f8fbc84",
     "analysis_date": "2026-09-27"
   },
   "executive_summary": "Episode 30 centers on three documentary threads tied to artifact presentations. First, the host plays Megyn Kelly's tour Q&A clip in which Megyn publicly corrects Ben Shapiro's claim that Candace had accused Erica Kirk of murder, and presents Megyn's backstage video in which Charlie Kirk is heard saying \"Go Max\" to Tucker Carlson prior to his Student Action Summit speech. Second, the host plays a Frank Turk interview segment identifying the previously anonymous \"old man talking to a bush\" pre-event as Butch Hibbs, brother of Pastor Jack Hibbs, and presents a photograph of Hibbs with Kirk taken approximately twenty minutes before the shooting. Third, the host reads directly from the Alexis Wilkins lawsuit against Elijah Schaefer, citing a September 14, 2025 Hen Mazig X post and a Schaefer response photograph as the underlying basis of the $5 million action.\n\nThe episode also introduces several unanchored investigative threads (UVU outdoor venue selection timeline, Mikey McCoy first name, TPUSA Faith / Calvary Chapel military pipeline pattern, Timpanogos vs. Utah Valley Hospital record-sharing systems, TPUSA email-tracking software claim) which are recorded as investigation target nodes rather than claims because no in-episode artifact anchors them. A Kanye West \"Defcon 3\" tweet is read aloud and is recorded as a standalone artifact per the read/display rule.\n\n---",

@@ -3,14 +3,14 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 96,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
     "video_timestamp_range": "00:00:00–00:56:29",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "ddb0f4ac23cf1cdd04f2157e1d2bcbfc9e9c46ead8cd18de2e94ee528b53367e",
+    "transcript_sha256": "b80f9093f2282419ffd666e804a85974657a8f4308c82ae5bfd6902b9b9bdcdf",
     "analysis_date": "2026-09-27"
   },
   "executive_summary": "",
@@ -951,7 +951,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10017",
+        "ref": "N-10017",
+        "name": "Susie Wiles",
+        "type": "person",
+        "description": "Person Susie Wiles (N-10017).",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",

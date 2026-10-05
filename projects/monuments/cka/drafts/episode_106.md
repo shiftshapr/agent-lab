@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: aed055972eba454038a7db27ae97deb09c1bd601a723c7958e70ac13b04f8f79
+- **Transcript SHA-256**: 581ac54f84c04c6827df73e35e73178ffe05b80e6ec32ddecc27200006bd5897
 
 - **Episode Ledger Summary**:
   - (see registers)

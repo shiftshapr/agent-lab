@@ -404,6 +404,15 @@ Investigative Pressure: Medium
 
 ---
 
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: prose mention in episode*
+
+---
+
 ## V. Claim Register
 
 **C-1297** Tyler Robinson uses "car" rather than "vehicle" in 2022 police bodycam footage

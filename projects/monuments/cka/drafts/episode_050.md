@@ -362,6 +362,15 @@ Investigative Pressure: Medium
 
 ---
 
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-1980*
+
+---
+
 ## V. Claim Register
 
 **C-1980** Ben Shapiro Demanded Candace Owens Be Called Out by Name at AmFest

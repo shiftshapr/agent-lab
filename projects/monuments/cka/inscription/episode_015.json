@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 15,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -573,7 +573,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10002",
+        "ref": "N-10002",
+        "name": "Tyler Bowyer",
+        "type": "person",
+        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -587,7 +603,9 @@
       "related_nodes": [
         "N-85",
         "N-1228"
-      ],
+      ,
+            "N-10002"
+          ],
       "tags": [],
       "claim_timestamp": "00:24:03",
       "investigative_direction": "Obtain Bowyer's original tweet via X/Twitter archive; cross-reference against FBI or university police statements from September 10, 2025."
@@ -604,7 +622,9 @@
       "related_nodes": [
         "N-85",
         "N-1231"
-      ],
+      ,
+            "N-10002"
+          ],
       "tags": [],
       "claim_timestamp": "00:26:20",
       "investigative_direction": "FOIA requests to UVU police department; compare against DOJ statements on evidentiary release timing."
@@ -620,7 +640,9 @@
       ],
       "related_nodes": [
         "N-85"
-      ],
+      ,
+            "N-10002"
+          ],
       "tags": [],
       "claim_timestamp": "00:40:21",
       "investigative_direction": "Obtain TPUSA Form 990 filings via ProPublica Nonprofit Explorer; cross-reference against the previously displayed internal memo referenced in earlier episodes."
@@ -656,7 +678,9 @@
         "N-85",
         "N-210",
         "N-1228"
-      ],
+      ,
+            "N-10002"
+          ],
       "tags": [],
       "claim_timestamp": "00:24:03",
       "investigative_direction": "Subpoena or FOIA records of communication between TPUSA staff, Andrew Kolvet, Tyler Bowyer, and UVU/FBI personnel regarding the SD card handling between September 10–12, 2025."
@@ -804,7 +828,9 @@
       "related_nodes": [
         "N-211",
         "N-85"
-      ],
+      ,
+            "N-10002"
+          ],
       "tags": [],
       "claim_timestamp": "00:39:45",
       "investigative_direction": "Direct verification of Alex Clark's Instagram post; the host's characterization is interpretive commentary (flag)."

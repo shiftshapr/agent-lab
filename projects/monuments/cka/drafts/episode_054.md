@@ -527,7 +527,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-85, N-1472*
+*Related: N-85, N-1472, N-10002*
 
 ---
 
@@ -605,7 +605,16 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1597.1, C-2027, N-85, N-1466*
+*Related: A-1597.1, C-2027, N-85, N-1466, N-10002*
+
+---
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-2027*
 
 ---
 
@@ -626,7 +635,7 @@ Investigative Direction: Obtain the full Sean Ryan interview transcript and any 
 Claim Timestamp: 00:12:58
 Claim: Tyler Bowyer's wife posted on social media about a 12-year-old Ukrainian orphan named Natalia staying with friends through an adoption agency program; Tyler spoke with her in Russian for over an hour.
 Anchored Artifacts: A-1597.1
-Related Nodes: N-85, N-1472
+Related Nodes: N-85, N-1472, N-10002
 Investigative Direction: Obtain the original Instagram post (including screenshots, dates, and the Obs Report reference) and the adoption agency records to verify the event and Natalia's identity.
 
 ---

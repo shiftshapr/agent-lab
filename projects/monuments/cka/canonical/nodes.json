@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updated": "2026-10-02T20:27:51Z",
+  "updated": "2026-10-05T01:45:00Z",
   "monument": "cka",
-  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11\u201320 extract; seq 157\u2013159 Ep 394\u2013396 daily ingest.",
-  "next_person_id": 1000,
+  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11\u201320 extract; seq 157\u2013159 Ep 394\u2013396 daily ingest. 2026-10-04 person lock: new persons start at N-10000.",
+  "next_person_id": 10023,
   "next_investigation_id": 2365,
   "nodes": {
     "N-1": {
@@ -4145,7 +4145,7 @@
       ]
     },
     "N-1265": {
-      "canonical_name": "Susy Wilds Eulogy-Selection Question",
+      "canonical_name": "Susie Wiles Eulogy-Selection Question",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -15256,7 +15256,7 @@
       ]
     },
     "N-2351": {
-      "canonical_name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilikut Chain)",
+      "canonical_name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -15292,7 +15292,7 @@
       ]
     },
     "N-2355": {
-      "canonical_name": "Vanity Fair Erika Kirk Profile (Clara Malo)",
+      "canonical_name": "Vanity Fair Erika Kirk Profile (Clara Molot)",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -15371,6 +15371,289 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
+        159
+      ]
+    },
+    "N-10000": {
+      "canonical_name": "Maycee Crofts",
+      "type": "person",
+      "aliases": [
+        "Macy Crofts"
+      ],
+      "episodes": [
+        153,
+        157
+      ]
+    },
+    "N-10001": {
+      "canonical_name": "Caleb Chilcutt",
+      "type": "person",
+      "aliases": [
+        "Caleb Chilikut",
+        "Chilikut",
+        "Chiliket",
+        "Chilikit",
+        "Chilikate"
+      ],
+      "episodes": [
+        156,
+        157,
+        158,
+        159
+      ]
+    },
+    "N-10002": {
+      "canonical_name": "Tyler Bowyer",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        11,
+        15,
+        17,
+        18,
+        19,
+        20,
+        23,
+        24,
+        39,
+        40,
+        47,
+        50,
+        52,
+        53,
+        54,
+        56,
+        60,
+        62,
+        71,
+        72,
+        75,
+        77,
+        83,
+        102,
+        122,
+        125,
+        126,
+        144,
+        151,
+        152,
+        157
+      ]
+    },
+    "N-10003": {
+      "canonical_name": "Kip Crofts",
+      "type": "person",
+      "aliases": [
+        "Kip Cross"
+      ],
+      "episodes": [
+        157
+      ]
+    },
+    "N-10004": {
+      "canonical_name": "Clara Molot",
+      "type": "person",
+      "aliases": [
+        "Clara Malo",
+        "Claraara Malo"
+      ],
+      "episodes": [
+        158,
+        159
+      ]
+    },
+    "N-10005": {
+      "canonical_name": "Sergio Gor",
+      "type": "person",
+      "aliases": [
+        "Sergio Gore"
+      ],
+      "episodes": [
+        45,
+        104,
+        158
+      ]
+    },
+    "N-10006": {
+      "canonical_name": "Andrew Wilson",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        139,
+        140,
+        141,
+        142,
+        144,
+        149,
+        156,
+        158,
+        159
+      ]
+    },
+    "N-10007": {
+      "canonical_name": "Laine Schoneberger",
+      "type": "person",
+      "aliases": [
+        "Lane Shonberger"
+      ],
+      "episodes": [
+        159
+      ]
+    },
+    "N-10008": {
+      "canonical_name": "Dylan Erickson",
+      "type": "person",
+      "aliases": [
+        "Dylan Ericson"
+      ],
+      "episodes": [
+        159
+      ]
+    },
+    "N-10009": {
+      "canonical_name": "Dennis Fenstermaker",
+      "type": "person",
+      "aliases": [
+        "Dennis Foster",
+        "Dennis Fster maker"
+      ],
+      "episodes": [
+        159
+      ]
+    },
+    "N-10010": {
+      "canonical_name": "Alan Collinge",
+      "type": "person",
+      "aliases": [
+        "Allan Khan",
+        "Allan Kh"
+      ],
+      "episodes": [
+        159
+      ]
+    },
+    "N-10011": {
+      "canonical_name": "Riley Gaines",
+      "type": "person",
+      "aliases": [
+        "Riley Gains"
+      ],
+      "episodes": [
+        159
+      ]
+    },
+    "N-10012": {
+      "canonical_name": "Brian Cole Jr.",
+      "type": "person",
+      "aliases": [
+        "Brian J. poll",
+        "Brian J. Cole Jr."
+      ],
+      "episodes": [
+        154,
+        159
+      ]
+    },
+    "N-10013": {
+      "canonical_name": "Lori Jane Gliha",
+      "type": "person",
+      "aliases": [
+        "Lori Jane Gleha"
+      ],
+      "episodes": [
+        159
+      ]
+    },
+    "N-10014": {
+      "canonical_name": "Mitt Romney",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        87,
+        110,
+        130,
+        159
+      ]
+    },
+    "N-10015": {
+      "canonical_name": "Maggie Haberman",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        159
+      ]
+    },
+    "N-10016": {
+      "canonical_name": "Jonathan Swan",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        159
+      ]
+    },
+    "N-10017": {
+      "canonical_name": "Susie Wiles",
+      "type": "person",
+      "aliases": [
+        "Susie Wilds",
+        "Susy Wilds"
+      ],
+      "episodes": [
+        20,
+        21,
+        96,
+        159
+      ]
+    },
+    "N-10018": {
+      "canonical_name": "Taylor Budowich",
+      "type": "person",
+      "aliases": [
+        "Taylor Budawick",
+        "Budawick"
+      ],
+      "episodes": [
+        80,
+        159
+      ]
+    },
+    "N-10019": {
+      "canonical_name": "David Warrington",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        159
+      ]
+    },
+    "N-10020": {
+      "canonical_name": "James Blair",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        159
+      ]
+    },
+    "N-10021": {
+      "canonical_name": "Stanley Woodward",
+      "type": "person",
+      "aliases": [
+        "Stanley Woodwick",
+        "Woodwick"
+      ],
+      "episodes": [
+        159
+      ]
+    },
+    "N-10022": {
+      "canonical_name": "Steven Cheung",
+      "type": "person",
+      "aliases": [
+        "Steven Chung",
+        "Steven Chong",
+        "Stephen Cheung"
+      ],
+      "episodes": [
+        104,
         159
       ]
     }

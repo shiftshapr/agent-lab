@@ -79,7 +79,7 @@ Video Timestamp: 00:28:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2354, N-1, N-1012, N-85*
+*Related: C-2354, N-1, N-1012, N-85, N-10002*
 
 ---
 
@@ -241,7 +241,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1766.1, A-1767.1, A-1767.2, A-1768.1, C-2354, C-2355, C-2357, C-2358*
+*Related: A-1766.1, A-1767.1, A-1767.2, A-1768.1, C-2354, C-2355, C-2357, C-2358, N-10002*
 
 ---
 
@@ -466,6 +466,15 @@ Investigative Pressure: High
 
 ---
 
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-2354*
+
+---
+
 ## 5. Claim Register
 
 **C-2351** USA Today Identified Erika Kirk as NYC Real Estate Agent for the Corcoran Group
@@ -518,7 +527,7 @@ Claim: Tyler Bowyer stated at Charlie Kirk's memorial that Erika Kirk (Miss Ariz
 
 Anchored Artifacts: A-1766.1
 
-Related Nodes: N-1, N-1012, N-85
+Related Nodes: N-1, N-1012, N-85, N-10002
 
 Investigative Direction: Compare memorial account against contemporaneous text records between Bowyer and host.
 

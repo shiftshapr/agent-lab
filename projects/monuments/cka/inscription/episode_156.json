@@ -3,14 +3,14 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 156,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
     "video_timestamp_range": "00:00:00–00:56:29",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "045464817f5d7c6f9470661f7f742edfcd3efe132e5a1b9f598a8d8e5fd07d21",
+    "transcript_sha256": "c32da8cd664ed494ce187fb3608dadb0e6203f099e44e61f6891ccc4eb88cd7d",
     "analysis_date": "2026-09-27"
   },
   "executive_summary": "This episode is structured as a \"return to the beginning\" review of previously aired investigative claims, prompted by the host's stated intent to consolidate evidence prior to maternity leave. Three evidentiary anchors carry the bulk of the investigative content: (1) a corrected/restored wider-format tent footage clip from the day of the incident, (2) a vehicle-exhaust analysis comparing Fox News's still image of Tyler Robinson's towed 2013 Dodge Challenger against multiple-floor footage of a quad-exhaust Challenger seen entering the parking garage on September 10, and (3) a read-aloud search-warrant excerpt attributing a Google Maps route (from Mountain Shadows Shopping Center to Quick Quack Car Wash) to Tyler Robinson's cell phone. The host also revisits the Dairy Queen surveillance-photo timestamp (6:38 PM) and explicitly proposes for the record that the timestamp may have been UTC, which would place the sighting at 12:38 PM. The host reopens the Quick Quack Car Wash question, noting that the car-wash footage was seized but never publicly released. A separate segment features the host playing clip(s) of Netanyahu addressing the UN, including the walkout and a clip of him holding a pager; and a short AI parody video by AtwareForbidden about Blake Neff's interview. The episode closes with a viewer-comment block, including a comment from \"Face\" questioning whether the license-plate match process described in Officer Go Forth's testimony was a partial-plate match.\n\nThe episode's structural importance is that it consolidates previously aired evidentiary items into the host's claim that **two different Dodge Challengers** exist in the case file — the host asserts that Tyler Robinson's vehicle is not the same vehicle shown entering the parking garage. It also formalizes (in host commentary) the Quick Quack Car Wash stop as an open investigative item to revisit.\n\n---",
@@ -566,20 +566,53 @@
         "N-2341"
       ]
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10001",
+        "ref": "N-10001",
+        "name": "Caleb Chilcutt",
+        "type": "person",
+        "description": "UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10006",
+        "ref": "N-10006",
+        "name": "Andrew Wilson",
+        "type": "person",
+        "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
       "@id": "C-3531",
       "ref": "C-3531",
-      "label": "Person by van in tent footage is not UVU club president Caleb Chilikut",
-      "claim": "The wider-format tent footage shows that the person previously identified as UVU club president Caleb Chilikut standing near the van by Angel Castro is in fact a different individual.",
+      "label": "Person by van in tent footage is not UVU club president Caleb Chilcutt",
+      "claim": "The wider-format tent footage shows that the person previously identified as UVU club president Caleb Chilcutt standing near the van by Angel Castro is in fact a different individual.",
       "anchored_artifacts": [
         "A-2416.1"
       ],
       "related_nodes": [
         "N-2276"
-      ],
+      ,
+            "N-10001"
+          ],
       "tags": [],
       "claim_timestamp": "00:01:40",
       "investigative_direction": "Cross-reference other footage and photographs to identify the actual individual and confirm the correction."

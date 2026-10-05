@@ -246,6 +246,15 @@ Investigative Pressure: Low
 
 ---
 
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-2154*
+
+---
+
 ## 5. Claim Register
 
 **C-2149** Dave Rubin X Post Asserts Candace Expressed Hatred of Charlie Kirk
@@ -326,7 +335,7 @@ Claim: Flight records show Erika Kirk's plane (N102DZ) departed approximately 1 
 
 Anchored Artifacts: A-1657.1
 
-Related Nodes: N-2, N-1501
+Related Nodes: N-2, N-1501, N-10002
 
 Investigative Direction: Obtain independent FAA or Flightradar24 archived records for both flights on 2025-09-10; verify exact departure/arrival times, passenger manifests if obtainable, and post-landing taxi routes.
 

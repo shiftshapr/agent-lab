@@ -327,7 +327,7 @@ Claim Count: 8
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, A-1540.1, C-1924, C-1925, C-1926, C-1927, C-1937, C-1952, N-540, N-1411, N-1421*
+*Related: A-1539.1, A-1540.1, C-1924, C-1925, C-1926, C-1927, C-1937, C-1952, N-540, N-1411, N-1421, N-10002*
 
 ---
 
@@ -980,6 +980,15 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-1539.1*
+
+---
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: prose mention in episode*
 
 ---
 

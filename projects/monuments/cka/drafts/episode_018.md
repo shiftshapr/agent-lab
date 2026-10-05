@@ -410,6 +410,15 @@ Investigative Pressure: Medium
 
 ---
 
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-1444*
+
+---
+
 ## 5. Claim Register
 
 **C-1425** Front Shot, No Exit
@@ -647,7 +656,7 @@ Claim Timestamp: 00:32:52
 Claim: The lawyer Caldera Engineering used in its early trademark filings in Arizona was the same lawyer introduced to the host by Tyler Bowyer of Turning Point USA.
 
 Anchored Artifacts: (host-stated based on legal records review; primary filing not displayed — see Optional Flags)
-Related Nodes: N-1250
+Related Nodes: N-1250, N-10002
 Investigative Direction: Pull Arizona trademark filings and confirm attorney of record.
 
 ---

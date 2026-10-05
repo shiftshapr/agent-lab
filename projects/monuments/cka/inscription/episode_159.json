@@ -3,14 +3,14 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 159,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
     "video_timestamp_range": "00:00:00–01:09:39",
     "extraction_timestamp": "2026-10-02T20:45:00Z",
     "model_version": "grok-manual-extract-seq159",
-    "transcript_sha256": "5fd6be5a9dae42c57edc3323318587f2482d1bf48746bbbcced3ebc790b9cda5",
+    "transcript_sha256": "a00b5df7209a7d2176cb96203718b03c467301aebcd1dcedd5b1d5a062ff4588",
     "analysis_date": "2026-10-02"
   },
   "executive_summary": "Building on the Vanity Fair critique, this episode presents leaked Telegram traffic from a “Dominate 2.0” group in which Erika Kirk asks staff for “big hitters” / full donor lists ahead of a Mar-a-Lago fundraising event (Taylor Scornovako replies with six-figure donors sorted by MGO). The host then publishes Why Refi (Y Refi) sponsorship contracts with TPUSA: a detailed February 2025 ~$2.25M agreement through early 2026, plus a sparse July 25, 2025 addendum adding ~$1.25M for Charlie’s fall campus tour (branded wall, presenting sponsorship, short mainstage speaking)—timings the host ties to Zionist-donor pullouts after Charlie’s Israel shift and to the UVU booking chain. A long concurrent timeline overlays Why Refi, Macron/Brigitte pressure calls (Feb), BCG/Gaza Humanitarian Foundation / Johnny Moore–Kovette Chyros links (June), UVU mass-casualty drill, White House Iran debate, Instagram purge, July Netanyahu visit + Candace college-video archive, July 10 UVU courtyard ask, SAS/Tucker Epstein remarks and Bob Shaman pullout, Charlie’s Epstein walk-back, Egyptian-plane movements, Hamptons BB call, and repeated New York Times–reported Epstein “situation room” meetings (JD Vance, Susie Wiles, Kash Patel, Pam Bondi, Todd Blanche, et al., often without Trump). The host floats that Charlie may have been killed over Epstein-network panic. Final third covers Brian Cole Jr., the autistic man federal authorities present as the J6 pipe-bomb suspect: Tucker-hosted parent interview / interrogation transcript describing coerced confession, then the coincidence that the same Scripps Media journalists who aired obscure Tyler Robinson traffic bodycam also aired Cole’s minor 2024 crash bodycam—plus Erika’s childhood daycare in a Cincinnati Scripps building. Closing comments revisit Mikey McCoy office optics, Israel narrative betrayal, Andrew Wilson text-leaks vs heaven-focused branding, and dual Telegram accounts.\n\n---",
@@ -77,7 +77,7 @@
           "@type": "Artifact",
           "@id": "A-2468.1",
           "ref": "A-2468.1",
-          "description": "One-page July 25, 2025 addendum for additional ~$1.25M tied to Charlie Kirk fall campus tour benefits (branded wall, presenting sponsorship, ~5 minutes mainstage speaking, video, email)—Lane Shonberger spoke ~5 minutes at UVU pre-show per host.",
+          "description": "One-page July 25, 2025 addendum for additional ~$1.25M tied to Charlie Kirk fall campus tour benefits (branded wall, presenting sponsorship, ~5 minutes mainstage speaking, video, email)—Laine Schoneberger spoke ~5 minutes at UVU pre-show per host.",
           "related_claims": [
             "C-3610"
           ],
@@ -192,7 +192,7 @@
           "@type": "Artifact",
           "@id": "A-2472.1",
           "ref": "A-2472.1",
-          "description": "Same Scripps journalists (Lori Jane Gleha / Stephanie framing) airing obscure prior traffic-stop bodycam of Tyler Robinson and, later, Brian Cole Jr.’s 2024 minor crash—host flags pattern and notes Erika’s early daycare in Cincinnati Scripps building.",
+          "description": "Same Scripps journalists (Lori Jane Gliha / Stephanie framing) airing obscure prior traffic-stop bodycam of Tyler Robinson and, later, Brian Cole Jr.’s 2024 minor crash—host flags pattern and notes Erika’s early daycare in Cincinnati Scripps building.",
           "related_claims": [
             "C-3614"
           ],
@@ -913,7 +913,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-2351",
       "ref": "N-2351",
-      "name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilikut Chain)",
+      "name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
       "type": "investigation_target",
       "description": "Reused inside expanded concurrent timeline.",
       "related_artifacts": [],
@@ -955,7 +955,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-2355",
       "ref": "N-2355",
-      "name": "Vanity Fair Erika Kirk Profile (Clara Malo)",
+      "name": "Vanity Fair Erika Kirk Profile (Clara Molot)",
       "type": "investigation_target",
       "description": "Opening callback / vindication frame.",
       "related_artifacts": [],
@@ -1036,7 +1036,7 @@
       "ref": "N-2361",
       "name": "Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum",
       "type": "investigation_target",
-      "description": "New topic: February master contract plus July 25 fall-tour addendum; conflicts-of-interest allegations (Dylan Ericson); Daily Mail sanctions coverage; UVU presence of Lane Shonberger.",
+      "description": "New topic: February master contract plus July 25 fall-tour addendum; conflicts-of-interest allegations (Dylan Erickson); Daily Mail sanctions coverage; UVU presence of Laine Schoneberger.",
       "related_artifacts": [
         "A-2467.1",
         "A-2468.1"
@@ -1125,7 +1125,294 @@
         "N-2"
       ]
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10001",
+        "ref": "N-10001",
+        "name": "Caleb Chilcutt",
+        "type": "person",
+        "description": "UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10004",
+        "ref": "N-10004",
+        "name": "Clara Molot",
+        "type": "person",
+        "description": "Vanity Fair writer of the Erika Kirk profile the host reads as an unflattering portrait.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10006",
+        "ref": "N-10006",
+        "name": "Andrew Wilson",
+        "type": "person",
+        "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10007",
+        "ref": "N-10007",
+        "name": "Laine Schoneberger",
+        "type": "person",
+        "description": "Why Refi CEO. Host says he spoke briefly at the UVU pre-show and co-founded the sponsoring company.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10008",
+        "ref": "N-10008",
+        "name": "Dylan Erickson",
+        "type": "person",
+        "description": "TPUSA sponsorship lead, described by the host as a former TPUSA employee with conflicts around the Why Refi deal.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10009",
+        "ref": "N-10009",
+        "name": "Dennis Fenstermaker",
+        "type": "person",
+        "description": "Co-founder of Why Refi with Laine Schoneberger, as read from coverage of the sponsorship company (2017).",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10010",
+        "ref": "N-10010",
+        "name": "Alan Collinge",
+        "type": "person",
+        "description": "Founder of Student Loan Justice. Host quotes him criticizing TPUSA's Why Refi sponsorship.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10011",
+        "ref": "N-10011",
+        "name": "Riley Gaines",
+        "type": "person",
+        "description": "Athlete named as a Why Refi contracted appearance in the February 2025 TPUSA sponsorship agreement.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10012",
+        "ref": "N-10012",
+        "name": "Brian Cole Jr.",
+        "type": "person",
+        "description": "Man federal authorities present as the January 6 pipe-bomb suspect. Host argues the confession was coerced.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10013",
+        "ref": "N-10013",
+        "name": "Lori Jane Gliha",
+        "type": "person",
+        "description": "Scripps investigative correspondent who aired prior bodycam of Brian Cole Jr. and, the host says, of Tyler Robinson.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10015",
+        "ref": "N-10015",
+        "name": "Maggie Haberman",
+        "type": "person",
+        "description": "New York Times reporter. Host cites the Haberman and Swan book on Epstein-file meetings inside the White House.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10016",
+        "ref": "N-10016",
+        "name": "Jonathan Swan",
+        "type": "person",
+        "description": "New York Times reporter. Co-author, with Maggie Haberman, of the book the host cites on Epstein situation-room meetings.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10017",
+        "ref": "N-10017",
+        "name": "Susie Wiles",
+        "type": "person",
+        "description": "White House chief of staff. Host questions her Kirk eulogy and names her in Epstein-file situation-room meetings.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10018",
+        "ref": "N-10018",
+        "name": "Taylor Budowich",
+        "type": "person",
+        "description": "Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10019",
+        "ref": "N-10019",
+        "name": "David Warrington",
+        "type": "person",
+        "description": "Trump-world lawyer named by the host among Epstein-file situation-room attendees (and as absent from one later list).",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10020",
+        "ref": "N-10020",
+        "name": "James Blair",
+        "type": "person",
+        "description": "Trump-world aide named by the host among Epstein-file situation-room attendees.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10021",
+        "ref": "N-10021",
+        "name": "Stanley Woodward",
+        "type": "person",
+        "description": "Trump-world lawyer. Host's attendee read (ASR Woodwick) places him with Susie Wiles, Taylor Budowich, David Warrington, and James Blair.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10022",
+        "ref": "N-10022",
+        "name": "Steven Cheung",
+        "type": "person",
+        "description": "White House communications aide. Named on the WHMO email CC list and in the Epstein situation-room attendee read (ASR Chung/Chong).",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ,
+      {
+        "@type": "Person",
+        "@id": "N-10014",
+        "ref": "N-10014",
+        "name": "Mitt Romney",
+        "type": "person",
+        "description": "Person Mitt Romney (N-10014).",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -1167,7 +1454,7 @@
       "@id": "C-3610",
       "ref": "C-3610",
       "label": "July 25 2025 Why Refi addendum paid ~$1.25M more solely for Charlie’s fall campus tour",
-      "claim": "Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot—host ties timing to donor pullouts (e.g., Bob Shaman) and UVU booking pressures; Lane Shonberger spoke ~5 minutes at UVU.",
+      "claim": "Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot—host ties timing to donor pullouts (e.g., Bob Shaman) and UVU booking pressures; Laine Schoneberger spoke ~5 minutes at UVU.",
       "anchored_artifacts": [
         "A-2468.1",
         "A-2467.1"
@@ -1178,7 +1465,9 @@
         "N-2351",
         "N-134",
         "N-1"
-      ],
+      ,
+            "N-10007"
+          ],
       "tags": [],
       "claim_timestamp": "00:20:10",
       "investigative_direction": "Confirm addendum execution date and wire evidence; separate confirmed contract terms from hearsay that Why Refi picked UVU."
@@ -1243,10 +1532,12 @@
       "related_nodes": [
         "N-2363",
         "N-50"
-      ],
+      ,
+            "N-10012"
+          ],
       "tags": [],
       "claim_timestamp": "00:47:17",
-      "investigative_direction": "Obtain full interrogation recordings/transcripts and defense filings; avoid minting Cole as Person until register policy allows."
+      "investigative_direction": "Obtain full interrogation recordings/transcripts and defense filings; Brian Cole Jr. is person N-10012."
     },
     {
       "@type": "Claim",
@@ -1261,7 +1552,9 @@
         "N-2364",
         "N-69",
         "N-2"
-      ],
+      ,
+            "N-10012"
+          ],
       "tags": [],
       "claim_timestamp": "00:51:47",
       "investigative_direction": "Archive both Scripps segments; confirm journalist identity; treat daycare link as weak/speculative pending records."
@@ -1280,7 +1573,9 @@
         "N-2",
         "N-1",
         "N-2355"
-      ],
+      ,
+            "N-10006"
+          ],
       "tags": [],
       "claim_timestamp": "01:00:00",
       "investigative_direction": "Continue pairing Vanity Fair private-criticism quotes with post-death public record; document Wilson leak channel without minting."
@@ -1300,7 +1595,9 @@
         "N-214",
         "N-2",
         "N-1"
-      ],
+      ,
+            "N-10006"
+          ],
       "tags": [],
       "claim_timestamp": "01:03:21",
       "investigative_direction": "Forensic Telegram export if ever obtained; until then keep as sourced allegation."

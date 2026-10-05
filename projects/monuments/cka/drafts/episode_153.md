@@ -8,10 +8,10 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 7160552eba9ec8ded4d5434725a32fc6fa649efb306c56da12ed974bac3b805c
+- **Transcript SHA-256**: 255df2ef72af812fba530a694f3369c63ecb1dc93d6c3d5d64b7ca555bbad9c1
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2323, N-2324, N-2325, N-2326, N-2327, N-2328, N-2329
+  - New Nodes Introduced: N-2323, N-2324, N-2325, N-2326, N-2327, N-2328, N-2329, N-10000
   - Reused Nodes Appearing: N-1, N-1030, N-2275, N-2277, N-2278
   - (see registers)
 
@@ -305,6 +305,15 @@ Investigative Pressure: High
 
 ---
 
+**N-10000** Maycee Crofts
+
+Node Type: Person
+TPUSA senior field representative. The UVU independent review names her as directing the courtyard and fountain booking.
+
+*Related: C-3487*
+
+---
+
 ## V. Claim Register
 
 **C-3466** Notice of Claim Filed Against Utah, UVU PD, Chief Long, Tuminez, and Unknown Others
@@ -517,12 +526,12 @@ Investigative Direction: Verify against UVU PD staffing rosters and Utah public-
 
 ---
 
-**C-3487** Event Scheduled at Amphitheater After Macy Crofts Demand on August 25, 2025
+**C-3487** Event Scheduled at Amphitheater After Maycee Crofts Demand on August 25, 2025
 
 Claim Timestamp: 00:16:22
-Claim: On August 25, 2025, TPUSA events committee employee Macy Crofts insisted during a Microsoft Teams call that the event be held in the amphitheater; UVU acquiesced. **Timestamp uncertainty:** transcript spells year as "20125" — clearly a transcription error for 2025.
+Claim: On August 25, 2025, TPUSA events committee employee Maycee Crofts insisted during a Microsoft Teams call that the event be held in the amphitheater; UVU acquiesced. **Timestamp uncertainty:** transcript spells year as "20125" — clearly a transcription error for 2025.
 Anchored Artifacts: A-2384.1
-Related Nodes: N-? (Macy Crofts), N-1
+Related Nodes: N-10000, N-1
 Investigative Direction: Recover Microsoft Teams call metadata and any TPUSA event-planning emails.
 
 ---

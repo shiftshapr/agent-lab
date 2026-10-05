@@ -3,14 +3,14 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 21,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
     "video_timestamp_range": "00:00:00–00:56:29",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "3e79984c2ef169b7bdb41acb0b482c9584e0ba254e76b714ccbcdc0c2215a738",
+    "transcript_sha256": "b8b7fc2a633b3553c7b59c525ff8b33ee7df3017e487dccce1e3382534f8853d",
     "analysis_date": "2026-09-27"
   },
   "executive_summary": "",
@@ -380,7 +380,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10017",
+        "ref": "N-10017",
+        "name": "Susie Wiles",
+        "type": "person",
+        "description": "Person Susie Wiles (N-10017).",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -485,8 +501,8 @@
       "@type": "Claim",
       "@id": "C-1520",
       "ref": "C-1520",
-      "label": "Kash Patel Convened a Meeting With Susie Wilds, Joe Kent, Tulsi Gabbard, and JD Vance Regarding the Inquiry",
-      "claim": "Following the inquiry, Kash Patel convened a meeting with Susie Wilds, Joe Kent, Tulsi Gabbard, and (per host's recollection) JD Vance, and no substantive action followed.",
+      "label": "Kash Patel Convened a Meeting With Susie Wiles, Joe Kent, Tulsi Gabbard, and JD Vance Regarding the Inquiry",
+      "claim": "Following the inquiry, Kash Patel convened a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard, and (per host's recollection) JD Vance, and no substantive action followed.",
       "anchored_artifacts": [
         "A-1286.1"
       ],

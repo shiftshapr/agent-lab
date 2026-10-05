@@ -456,6 +456,15 @@ Investigative Pressure: Medium
 
 ---
 
+**N-10012** Brian Cole Jr.
+
+Node Type: Person
+Man federal authorities present as the January 6 pipe-bomb suspect. Host argues the confession was coerced.
+
+*Related: C-3512*
+
+---
+
 # V. CLAIM REGISTER
 
 ---
@@ -722,7 +731,7 @@ Claim: Candace concurs with the @Koko Rose observation that footage of Tyler Rob
 
 Anchored Artifacts: A-2404.2
 
-Related Nodes: N-1
+Related Nodes: N-1, N-10012
 
 Investigative Direction: Obtain Utah news reporting on precinct footage handling; verify the Brian Cole Jr. footage attribution.
 

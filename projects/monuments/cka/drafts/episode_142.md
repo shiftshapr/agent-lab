@@ -161,7 +161,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:45:12
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-1211, N-2203*
+*Related: N-1211, N-2203, N-10006*
 
 **A-2292.2** Comment by Nikki — $100,000/hour humiliation
 
@@ -670,6 +670,15 @@ Episode Count: 1
 Investigative Pressure: Low
 
 *Related: N-1212, N-1222, N-1223, N-1224*
+
+---
+
+**N-10006** Andrew Wilson
+
+Node Type: Person
+Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
+
+*Related: prose mention in episode*
 
 ---
 

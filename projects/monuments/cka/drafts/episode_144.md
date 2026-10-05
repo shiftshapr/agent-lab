@@ -156,7 +156,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:00–00:35:40
 Confidence Level: High
 
-*Related: C-3322, N-1209, N-1210, N-1211*
+*Related: C-3322, N-1209, N-1210, N-1211, N-10006*
 
 **A-2306.3** Audio: Blake Neff claiming Candace and Charlie Kirk were not friends after 2018/2019
 
@@ -421,6 +421,24 @@ Investigative Pressure: High
 
 ---
 
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: prose mention in episode*
+
+---
+
+**N-10006** Andrew Wilson
+
+Node Type: Person
+Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
+
+*Related: C-3322*
+
+---
+
 ## V. Claim Register
 
 **C-3313** Terrell accessed an SD card on his laptop at the crime scene
@@ -557,7 +575,7 @@ Claim: On the Kolvet/Neff podcast, Andrew Wilson stated that after reviewing the
 
 Anchored Artifacts: A-2306.2
 
-Related Nodes: N-1209, N-1210, N-1211
+Related Nodes: N-1209, N-1210, N-1211, N-10006
 
 Investigative Direction: Locate the original Candace clip being referenced; transcribe the full segment in context.
 

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 990c1f20d1f55b3d1873e25ee1e937ff32ad8785c6bd00ca1e87f30d6ce651a2
+- **Transcript SHA-256**: fac4670485ac7aebfc62240edc4e00c18462baab4c60e720e986d00acb522c8d
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1718, N-1719, N-1720, N-1721, N-1722, N-1723, N-1724, N-1725
@@ -321,9 +321,9 @@ Confidence Level: High
 
 ---
 
-### **A-2025** Caroline Leavitt White House Briefing Audio Bundle
+### **A-2025** Karoline Leavitt White House Briefing Audio Bundle
 
-Audio of White House Press Secretary Caroline Leavitt equating political commentary with political violence.
+Audio of White House Press Secretary Karoline Leavitt equating political commentary with political violence.
 
 **A-2025.1** Audio: "This political violence stems from a systemic demonization of him and his supporters by commentators... deranged lies and smears against the president, his family, his supporters have led crazy people to believe crazy things."
 

@@ -8,21 +8,21 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:30:52
 - **Extraction Timestamp (UTC)**: 2026-10-02T16:10:00Z
-- **Transcript SHA-256**: daf4a4e0789ee8ad9ae04587164c4d12a7b6b9f92f14e4ac50174c41dfc1b2d1
+- **Transcript SHA-256**: 5c1cde59c401881775186a334b9d4e052672b924c052b4ad796d48d4ce073037
 - **Model Version**: grok-manual-extract-seq157
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2350, N-2351, N-2352, N-2353, N-2354
-  - Reused Nodes Appearing: N-1, N-2, N-7, N-214, N-435, N-436, N-749, N-755, N-848, N-992, N-1291, N-1313, N-1720, N-2063, N-2073, N-2092, N-2329, N-2330
+  - New Nodes Introduced: N-2350, N-2351, N-2352, N-2353, N-2354, N-10003
+  - Reused Nodes Appearing: N-1, N-2, N-7, N-214, N-435, N-436, N-749, N-755, N-848, N-992, N-1291, N-1313, N-1720, N-2063, N-2073, N-2092, N-2329, N-2330, N-10000, N-10001, N-10002
   - (see registers)
-  - Person band: no new Persons minted (ceiling next_person_id=1000). True-new names (Macy Crofts, Caleb Chilikut, Tyler Bowyer, Barry Coleman, Kip Crofts) cited in prose/claims only.
+  - Person band: persons minted in this quality pass use N-10000+ (see node register). Minted here or reused: Maycee Crofts, Caleb Chilcutt, Tyler Bowyer, Kip Crofts. Baron Coleman spelling corrected, no new person.
 
 # Episode 157 Analysis
 
 
 ## 2. Executive Summary
 
-This episode centers on the newly released UVU third-party independent security review (Lake Force Group), which the host presents as vindication of prior CKA claims about how the September 10 Turning Point USA event was booked, sited, and secured. The host reads extensively from the report: TPUSA-affiliated individuals Brian Harpole (Integrity Solutions), Dan Flood (TPUSA security supervisor), Macy Crofts (TPUSA senior field representative), and UVU TPUSA club president Caleb Chilikut did not respond to repeated outreach including certified letters; UVU and public agencies did cooperate. Timeline entries attribute the July 10, 2025 courtyard/fountain request to TPUSA field representative Macy Crofts directing the club president—an inversion of the normal chapter-request process the host has described across prior episodes. The report further records Crofts insisting on the Fountain Courtyard at the August 25 MEAC meeting despite UVU staff concerns; deferred security decisions to TPUSA; late/non-disclosure of crowd and ticketing data to Chief Jeff Long; an anonymous SIAC threat on September 10 morning referencing an electromagnetic-pulse (EMP) device; and multiple contradictions between Brian Harpole’s Shawn Ryan podcast statements (venue chosen by UVU; airspace/drone constraints; counter-sniper legality) and interview evidence gathered by the review team. The host then overlays a July–August 2025 personal/political timeline for Charlie Kirk (White House/BB confrontation, Instagram purge, Epstein-coverage walk-back, Hamptons retreat, sponsorship addendum, Egyptian-plane movements) against the UVU booking chain, and closes with biographical context on Macy Crofts (including a public Kip Crofts criminal-case dismissal news clip) plus viewer comments. A preemptive Kirk-family statement blaming UVU security is framed as knowledge that the report was imminent.
+This episode centers on the newly released UVU third-party independent security review (Lake Force Group), which the host presents as vindication of prior CKA claims about how the September 10 Turning Point USA event was booked, sited, and secured. The host reads extensively from the report: TPUSA-affiliated individuals Brian Harpole (Integrity Solutions), Dan Flood (TPUSA security supervisor), Maycee Crofts (TPUSA senior field representative), and UVU TPUSA club president Caleb Chilcutt did not respond to repeated outreach including certified letters; UVU and public agencies did cooperate. Timeline entries attribute the July 10, 2025 courtyard/fountain request to TPUSA field representative Maycee Crofts directing the club president—an inversion of the normal chapter-request process the host has described across prior episodes. The report further records Crofts insisting on the Fountain Courtyard at the August 25 MEAC meeting despite UVU staff concerns; deferred security decisions to TPUSA; late/non-disclosure of crowd and ticketing data to Chief Jeff Long; an anonymous SIAC threat on September 10 morning referencing an electromagnetic-pulse (EMP) device; and multiple contradictions between Brian Harpole’s Shawn Ryan podcast statements (venue chosen by UVU; airspace/drone constraints; counter-sniper legality) and interview evidence gathered by the review team. The host then overlays a July–August 2025 personal/political timeline for Charlie Kirk (White House/BB confrontation, Instagram purge, Epstein-coverage walk-back, Hamptons retreat, sponsorship addendum, Egyptian-plane movements) against the UVU booking chain, and closes with biographical context on Maycee Crofts (including a public Kip Crofts criminal-case dismissal news clip) plus viewer comments. A preemptive Kirk-family statement blaming UVU security is framed as knowledge that the report was imminent.
 
 ---
 
@@ -41,14 +41,14 @@ Confidence Level: High (document as read on air); Medium (page citations as stat
 
 ---
 
-**A-2451.2** Report timeline entry (host cites ~page 17) stating that on July 10, 2025, at the request of TPUSA field representative Macy Crofts, the UVU club/president was directed to request Charlie Kirk speak in the courtyard/fountain area.
+**A-2451.2** Report timeline entry (host cites ~page 17) stating that on July 10, 2025, at the request of TPUSA field representative Maycee Crofts, the UVU club/president was directed to request Charlie Kirk speak in the courtyard/fountain area.
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:14:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as read); Medium (club-president intent characterization)
 
-*Related: C-3586, N-2351, N-2073, N-1313*
+*Related: C-3586, N-2351, N-2073, N-1313, N-10000*
 
 ---
 
@@ -65,14 +65,14 @@ Confidence Level: High
 
 **A-2452** Non-Response Documentation Bundle
 
-**A-2452.1** Report language documenting outreach (telephone, voicemail, certified letter, senior Phoenix staff emails) to Brian Harpole, Dan Flood, Macy Crofts, and the then UVU TPUSA club head, with no substantive responses; Utah risk-management official also urged TPUSA cooperation without result.
+**A-2452.1** Report language documenting outreach (telephone, voicemail, certified letter, senior Phoenix staff emails) to Brian Harpole, Dan Flood, Maycee Crofts, and the then UVU TPUSA club head, with no substantive responses; Utah risk-management official also urged TPUSA cooperation without result.
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:05:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3584, N-2350, N-749, N-848, N-2092*
+*Related: C-3584, N-2350, N-749, N-848, N-2092, N-10000*
 
 ---
 
@@ -130,14 +130,14 @@ Confidence Level: Medium (composite host timeline)
 
 **A-2457** Kip Crofts Case News Clip Bundle
 
-**A-2457.1** On-air news-clip playback regarding dismissal of criminal case against former high-school football coach Kip Crofts (identified by host as Macy Crofts’s uncle), including courtroom audio on dismissal serving ends of justice and lifting of no-contact order.
+**A-2457.1** On-air news-clip playback regarding dismissal of criminal case against former high-school football coach Kip Crofts (identified by host as Maycee Crofts’s uncle), including courtroom audio on dismissal serving ends of justice and lifting of no-contact order.
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:12:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip as aired); Low (any causal link to UVU event—host presents as background context only)
 
-*Related: C-3593, N-2351*
+*Related: C-3593, N-2351, N-10000*
 
 ---
 
@@ -194,13 +194,13 @@ Episode Count: (series-level)
 
 **N-214** Andrew Kovette
 
-Named among TPUSA communicators the host challenges on transparency; later referenced regarding an offer to “take TPUSA to the next level” and as possible direction chain above Macy Crofts.
+Named among TPUSA communicators the host challenges on transparency; later referenced regarding an offer to “take TPUSA to the next level” and as possible direction chain above Maycee Crofts.
 
 Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3585, A-2456.1*
+*Related: C-3585, A-2456.1, N-10000*
 
 ---
 
@@ -397,16 +397,16 @@ Investigative Pressure: High
 
 ---
 
-**N-2351** July 10 HQ-Driven Courtyard Request (Crofts / Chilikut Chain)
+**N-2351** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
 
-New topic: independent-review timeline that TPUSA field rep Macy Crofts directed UVU club president Caleb Chilikut to request Charlie Kirk in the courtyard on July 10, 2025, inverting normal chapter-request flow; includes August 25 MEAC insistence on Fountain Courtyard.
+New topic: independent-review timeline that TPUSA field rep Maycee Crofts directed UVU club president Caleb Chilcutt to request Charlie Kirk in the courtyard on July 10, 2025, inverting normal chapter-request flow; includes August 25 MEAC insistence on Fountain Courtyard.
 
 Evidence Count: 2
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3586, C-3587, A-2451.2, A-2451.3, N-2073, N-1313*
+*Related: C-3586, C-3587, A-2451.2, A-2451.3, N-2073, N-1313, N-10000*
 
 ---
 
@@ -449,17 +449,53 @@ Investigative Pressure: Medium
 
 ---
 
+**N-10000** Maycee Crofts
+
+Node Type: Person
+TPUSA senior field representative. The UVU independent review names her as directing the courtyard and fountain booking.
+
+*Related: C-3584, C-3586, C-3587, C-3593*
+
+---
+
+**N-10001** Caleb Chilcutt
+
+Node Type: Person
+UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.
+
+*Related: prose mention in episode*
+
+---
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: prose mention in episode*
+
+---
+
+**N-10003** Kip Crofts
+
+Node Type: Person
+Relative of Maycee Crofts. Host cites a public criminal-case dismissal news clip while sketching her biography.
+
+*Related: C-3593*
+
+---
+
 ## 5. Claim Register
 
 **C-3584** TPUSA-linked individuals did not respond to UVU independent-review outreach
 
 Claim Timestamp: 00:05:20
 
-Claim: The Lake Force independent review documents that despite repeated outreach (phone, voicemail, certified letter, and Phoenix senior-staff contact), Brian Harpole, Dan Flood, Macy Crofts, and the UVU TPUSA club president did not participate, while UVU and public agencies did cooperate.
+Claim: The Lake Force independent review documents that despite repeated outreach (phone, voicemail, certified letter, and Phoenix senior-staff contact), Brian Harpole, Dan Flood, Maycee Crofts, and the UVU TPUSA club president did not participate, while UVU and public agencies did cooperate.
 
 Anchored Artifacts: A-2452.1, A-2451.1
 
-Related Nodes: N-2350, N-2329, N-749, N-848, N-2092
+Related Nodes: N-2350, N-2329, N-749, N-848, N-2092, N-10000
 
 Investigative Direction: Obtain the review’s outreach log appendices; confirm certified-letter receipts; request TPUSA written policy on third-party review cooperation.
 
@@ -479,15 +515,15 @@ Investigative Direction: Archive contemporaneous TPUSA / Erika statements on coo
 
 ---
 
-**C-3586** July 10, 2025 courtyard request was initiated by TPUSA field rep Macy Crofts
+**C-3586** July 10, 2025 courtyard request was initiated by TPUSA field rep Maycee Crofts
 
 Claim Timestamp: 00:14:22
 
-Claim: The independent-review timeline states that on July 10, 2025, at the request of TPUSA field representative Macy Crofts, the UVU club/president was told to request Charlie Kirk speak in the courtyard—characterized by the host as a reversal of normal TPUSA chapter event-request practice.
+Claim: The independent-review timeline states that on July 10, 2025, at the request of TPUSA field representative Maycee Crofts, the UVU club/president was told to request Charlie Kirk speak in the courtyard—characterized by the host as a reversal of normal TPUSA chapter event-request practice.
 
 Anchored Artifacts: A-2451.2
 
-Related Nodes: N-2351, N-2073, N-1291, N-1
+Related Nodes: N-2351, N-2073, N-1291, N-1, N-10000
 
 Investigative Direction: Publish/obtain the underlying email quoted in the review; interview or FOIA UVU event-services records for July 10–18 submission chain.
 
@@ -497,11 +533,11 @@ Investigative Direction: Publish/obtain the underlying email quoted in the revie
 
 Claim Timestamp: 00:35:31
 
-Claim: Meeting participants told the review team that at the August 25 major-events meeting Macy Crofts insisted on Fountain Courtyard because Charlie Kirk had previously spoken in that campus setting, even though UVU staff had raised outdoor-location concerns.
+Claim: Meeting participants told the review team that at the August 25 major-events meeting Maycee Crofts insisted on Fountain Courtyard because Charlie Kirk had previously spoken in that campus setting, even though UVU staff had raised outdoor-location concerns.
 
 Anchored Artifacts: A-2451.3
 
-Related Nodes: N-2351, N-1313, N-2073
+Related Nodes: N-2351, N-1313, N-2073, N-10000
 
 Investigative Direction: Obtain MEAC minutes / Teams recording if retained; list UVU staff who raised concerns and their stated risk bases.
 
@@ -577,15 +613,15 @@ Investigative Direction: Build a sourced chronology with primary citations for e
 
 ---
 
-**C-3593** Macy Crofts’s uncle Kip Crofts had a sexual-abuse case dismissed shortly before/around related public attention
+**C-3593** Maycee Crofts’s uncle Kip Crofts had a sexual-abuse case dismissed shortly before/around related public attention
 
 Claim Timestamp: 01:12:05
 
-Claim: Host presents news-clip reporting that the criminal case against former coach Kip Crofts (identified as Macy Crofts’s uncle) was dismissed, lifting no-contact restrictions; offered as biographical background while discussing who directed the UVU courtyard insistence—not as proof of UVU-event causation.
+Claim: Host presents news-clip reporting that the criminal case against former coach Kip Crofts (identified as Maycee Crofts’s uncle) was dismissed, lifting no-contact restrictions; offered as biographical background while discussing who directed the UVU courtyard insistence—not as proof of UVU-event causation.
 
 Anchored Artifacts: A-2457.1
 
-Related Nodes: N-2351
+Related Nodes: N-2351, N-10000, N-10003
 
 Investigative Direction: Verify case caption, docket, dismissal basis, and kinship from primary court records before any graph edge beyond “host-asserted background.”
 
@@ -595,7 +631,7 @@ Investigative Direction: Verify case caption, docket, dismissal basis, and kinsh
 
 Claim Timestamp: 00:01:46
 
-Claim: Host asserts the Kirk family’s statement blaming UVU security was a hasty preemptive strike issued with knowledge the independent review was about to become public (crediting Barry Coleman for first reporting the review’s imminence).
+Claim: Host asserts the Kirk family’s statement blaming UVU security was a hasty preemptive strike issued with knowledge the independent review was about to become public (crediting Baron Coleman for first reporting the review’s imminence).
 
 Anchored Artifacts: A-2451.1, A-2458.1
 

@@ -399,7 +399,16 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1578, N-2, N-85, N-Rob McCoy, N-Mikey McCoy*
+*Related: C-1578, N-2, N-85, N-Rob McCoy, N-Mikey McCoy, N-10002*
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: prose mention in episode*
+
+---
 
 # Claim Register
 

@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: ddb0f4ac23cf1cdd04f2157e1d2bcbfc9e9c46ead8cd18de2e94ee528b53367e
+- **Transcript SHA-256**: b80f9093f2282419ffd666e804a85974657a8f4308c82ae5bfd6902b9b9bdcdf
 
 - **Episode Ledger Summary**:
   - (see registers)
@@ -357,6 +357,15 @@ Investigative Pressure: High
 
 ---
 
+**N-10017** Susie Wiles
+
+Node Type: Person
+White House chief of staff. Host questions her as a Kirk eulogist and names her in later Epstein-file meetings.
+
+*Related: C-2809*
+
+---
+
 # Claim Register
 
 **C-2790** Trump publicly criticized Candace Owens calling her "low IQ"
@@ -582,7 +591,7 @@ Investigative Direction: Verify via medical records; the underlying photo is the
 
 # Optional Flags
 
-- **Name uncertainty**: "Caroline Levitt" appears in transcript at ~41:21; likely refers to White House Press Secretary Caroline Leavitt (N-33).
+- **Name uncertainty**: "Karoline Leavitt" appears in transcript at ~41:21; likely refers to White House Press Secretary Karoline Leavitt (N-33).
 - **Possible transcription error**: "Cole Allen" appears as the WHCD suspect name; verify spelling against official arrest records and court filings.
 - **Transcript ambiguity**: "Drewski" is name-dropped by Erika Kirk in the pre-recorded statement (~47:25); identity and relevance not clarified in the episode.
 - **Requires human verification**: Sarah Sidner's role as original recorder of the Erika Kirk clip (host explicitly states she could not confirm via Instagram, Twitter, or text outreach).

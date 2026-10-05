@@ -64,7 +64,7 @@ Confidence Level: High
 
 Statement enumerates allegations (Mikey McCoy, foreign aircraft, security first aid, SD card removal, Tyler Bowyer, financial impropriety, "stranger allegations"); asserts Charlie personally reviewed and signed off on every bill; asserts TPUSA has never missed a 990 deadline; frames host's questions as "beneath contempt"; concludes with announcement of an upcoming Phoenix livestream and public invitation to the host.
 
-*Related: C-1820, C-1821, C-1822, C-1823, N-478, N-1378*
+*Related: C-1820, C-1821, C-1822, C-1823, N-478, N-1378, N-10002*
 
 ---
 
@@ -209,6 +209,15 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-1493.1, C-1830*
+
+---
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: prose mention in episode*
 
 ---
 

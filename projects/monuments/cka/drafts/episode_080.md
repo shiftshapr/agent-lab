@@ -153,7 +153,7 @@ Video Timestamp: 00:16:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2505, N-1214, N-1207*
+*Related: C-2505, N-1214, N-1207, N-10018*
 
 ---
 
@@ -350,6 +350,15 @@ Investigative Pressure: High
 
 ---
 
+**N-10018** Taylor Budowich
+
+Node Type: Person
+Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.
+
+*Related: C-2505*
+
+---
+
 ## V. Claim Register
 
 **C-2494** Kent Resignation Effective Day of Letter
@@ -514,7 +523,7 @@ Claim: Taylor Budowich publicly described Kent as a "crazed egomaniac" who was "
 
 Anchored Artifacts: A-1867.1
 
-Related Nodes: N-1214, N-1207, N-1619
+Related Nodes: N-1214, N-1207, N-1619, N-10018
 
 Investigative Direction: Confirm exact text against Budowich's verified X account.
 

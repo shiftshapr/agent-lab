@@ -205,7 +205,7 @@ Video Timestamp: 00:39:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3272, Andrew Wilson node, Rachel Wilson (referenced)*
+*Related: C-3272, Andrew Wilson node, Rachel Wilson (referenced), N-10006*
 
 ---
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:51:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: Andrew Wilson node*
+*Related: Andrew Wilson node, N-10006*
 
 **A-2275.4** Patricia Pelly comment: praise for Candace
 
@@ -368,6 +368,15 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-2267.2, A-2267.4 (right-pocket outline per Impala), A-2269.1, A-2275.5, C-3260, C-3265, C-3275, Tyler Robinson node, Lance Twigs node*
+
+---
+
+**N-10006** Andrew Wilson
+
+Node Type: Person
+Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
+
+*Related: C-3272, C-3276*
 
 ---
 
@@ -551,7 +560,7 @@ Claim: In a prior debate clip, Andrew Wilson exited to smoke and his wife Rachel
 
 Anchored Artifacts: A-2274.1
 
-Related Nodes: Andrew Wilson node, Rachel Wilson (referenced)
+Related Nodes: Andrew Wilson node, Rachel Wilson (referenced), N-10006
 
 Investigative Direction: Obtain the full debate recording and date; verify whether this was a sanctioned call-in.
 

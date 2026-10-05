@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: eb7f190e817800aabce4c7b6b9fa93761c5d8561e5cca0d59bcaf75640fafa30
+- **Transcript SHA-256**: cd44ed40636c60c09236975a1e80639d46ee6820f268322c974d2c67580290dd
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-4, N-1015, N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
@@ -367,7 +367,7 @@ Investigative Pressure: High
 
 **N-1683** TPUSA UGA Event Crowd-Size Failure
 
-Discrepancy between event-promotional framing and reported venue occupancy (A-1974.1), with host reporting additional internal failure to move tickets in prior Washington DC event with Caroline Levit.
+Discrepancy between event-promotional framing and reported venue occupancy (A-1974.1), with host reporting additional internal failure to move tickets in prior Washington DC event with Karoline Leavitt.
 
 Evidence Count: 1
 Claim Count: 1

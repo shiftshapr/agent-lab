@@ -217,7 +217,7 @@ Video Timestamp: 00:17:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2347, N-1570*
+*Related: C-2347, N-1570, N-10002*
 
 **A-1762** Comments Section Read Bundle
 
@@ -333,6 +333,15 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-1760.1, C-2343, C-2344, C-2345, N-909*
+
+---
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-2347*
 
 ---
 
@@ -640,7 +649,7 @@ Claim: Tyler Bowyer tweeted that TPUSA ended up with "one of the largest YouTube
 
 Anchored Artifacts: A-1761.1
 
-Related Nodes: N-1570
+Related Nodes: N-1570, N-10002
 
 Investigative Direction: Archive the original tweet and any associated image; verify whether it remains public.
 

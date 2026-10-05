@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 41edd8347eafa2d54f1596dffd5b4a9978e5e9bfc3de6ba276c5ff2b85f2e187
+- **Transcript SHA-256**: 4b6e184f626db3b6b36ff537b80ba53f94d4abe1f21b413f75e391ab5ac5370a
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-462, N-463, N-464, N-466, N-467, N-468, N-469, N-470, N-471, N-473, N-474, N-475, N-476, N-1369, N-1370, N-1371, N-1372, N-1373, N-1374, N-1375, N-1376, N-1377
@@ -174,7 +174,7 @@ Video Timestamp: 00:47:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1817, N-470, N-85, N-1372*
+*Related: C-1817, N-470, N-85, N-1372, N-10002*
 
 ---
 
@@ -314,7 +314,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1486.1, A-1486.2, A-1486.3, A-1486.4, N-85, N-1372, N-1375*
+*Related: A-1486.1, A-1486.2, A-1486.3, A-1486.4, N-85, N-1372, N-1375, N-10002*
 
 **N-471** Tyler Bowyer's brother (unnamed)
 
@@ -325,7 +325,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-85, N-1372*
+*Related: N-85, N-1372, N-10002*
 
 **N-469** Mikey McCoy
 
@@ -402,7 +402,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1486.4, C-1817, N-470, N-471, N-85*
+*Related: A-1486.4, C-1817, N-470, N-471, N-85, N-10002*
 
 **N-1373** BB Net/Yahoo Offer to TPUSA
 
@@ -468,6 +468,15 @@ Investigative Pressure: Medium
 Referenced extensively throughout episode; subject of multiple artifact-anchored claims (April 2018 text, date outfit text, BB decline alleged).
 
 *Related: A-1481.1, A-1482.1, A-1484.1, C-1809, C-1810, N-469, N-473*
+
+---
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-1817, C-1819*
 
 ---
 
@@ -677,7 +686,7 @@ Claim: A TPUSA source presented proof that Tyler Bowyer was telling people TPUSA
 
 Anchored Artifacts: A-1486.4
 
-Related Nodes: N-470, N-471, N-85, N-1372
+Related Nodes: N-470, N-471, N-85, N-1372, N-10002
 
 Investigative Direction: Obtain the supporting proof documentation and any internal TPUSA planning materials.
 

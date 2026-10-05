@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 0f528a0831f0745732d0b588607a54f1aca44c71a0b721dce830b64978f68cce
+- **Transcript SHA-256**: 33f8430dc8f4892645295e48cc30c6fac74bf7345b2f004f77e9048a964d135e
 
 - **Episode Ledger Summary**:
   - (see registers)
@@ -84,7 +84,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:10:45
 Confidence Level: High
 
-*Related: C-1900, N-1004, Sergio Gor (existing node)*
+*Related: C-1900, N-1004, N-10005*
 
 ---
 
@@ -295,6 +295,15 @@ Investigative Pressure: Medium
 
 ---
 
+**N-10005** Sergio Gor
+
+Node Type: Person
+Trump-world operative and later US ambassador to India. Host ties him to Winning Team Publishing and to Susie Wiles's orbit.
+
+*Related: C-1900*
+
+---
+
 ## V. Claim Register
 
 **C-1897** Erika Kirk requests public privacy on Charlie Kirk's burial location
@@ -343,7 +352,7 @@ Claim Timestamp: 00:10:45
 Claim: Erika Kirk appeared at Sergio Gor's swearing-in ceremony as US Ambassador to India, delivering a brief speech in which she stated "Charlie loved you" and "Charlie is going to be with you every single day in spirit."
 
 Anchored Artifacts: A-1527.1
-Related Nodes: N-1004, Sergio Gor (existing node)
+Related Nodes: N-1004, N-10005
 
 Investigative Direction: Cross-reference ceremony date with Erika Kirk's public schedule; verify any travel reimbursement or charter flight records.
 

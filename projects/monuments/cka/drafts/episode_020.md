@@ -9,7 +9,7 @@
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
-- **Transcript SHA-256**: 11b56a3523c6e891777cf0069ed2beac4407ae5d3b47a8c104454019a3889e88
+- **Transcript SHA-256**: 8e3767219910081da3667951aa2631008c1fef13d2bd87a539a898bb6428508e
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-268, N-269, N-270, N-271, N-272, N-273, N-274, N-275, N-276, N-277, N-278, N-280, N-281, N-282, N-283, N-284, N-285, N-1262, N-1263, N-1264, N-1265
@@ -249,7 +249,7 @@ Confidence Level: Medium (chart described in transcript; full content not transc
 
 Contents (per host narration): Lists Frank Turk, Andrew Kovett, Rob McCoy, Mikey McCoy, Tyler Bowyer and identifies military-family members including Captain Kurt Kovvet, Captain Robert Kovvet, Roy Edgar McCoy (naval captain, assistant chief of staff for psychological warfare).
 
-*Related: C-1505, C-1506, N-271, N-272, N-274, N-275, N-85, N-1264*
+*Related: C-1505, C-1506, N-271, N-272, N-274, N-275, N-85, N-1264, N-10002*
 
 ---
 
@@ -515,16 +515,34 @@ Investigative Pressure: High
 
 ---
 
-**N-1265** Susy Wilds Eulogy-Selection Question
+**N-1265** Susie Wiles Eulogy-Selection Question
 
-Host's flagged curiosity regarding the selection of Susy Wilds (spelled "Susie Wilds" in one place) as a Kirk eulogist; no artifact-anchored explanation given.
+Host's flagged curiosity regarding the selection of Susie Wiles (spelled "Susie Wiles" in one place) as a Kirk eulogist; no artifact-anchored explanation given.
 
 Evidence Count: 0
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1*
+*Related: N-1, N-10017*
+
+---
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: prose mention in episode*
+
+---
+
+**N-10017** Susie Wiles
+
+Node Type: Person
+White House chief of staff. Host questions her Kirk eulogy and names her in Epstein-file situation-room meetings.
+
+*Related: prose mention in episode*
 
 ---
 
