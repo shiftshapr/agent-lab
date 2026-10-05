@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2323, N-2324, N-2325, N-2326, N-2327, N-2328, N-2329, N-10000
-  - Reused Nodes Appearing: N-1, N-1030, N-2275, N-2277, N-2278
+  - Reused Nodes Appearing: N-1030, N-2275, N-2277, N-2278
   - (see registers)
 
 ## I. Meta-Data
@@ -33,7 +33,7 @@
 Artifact Families Introduced: A-2384, A-2385, A-2386, A-2387, A-2388, A-2389, A-2390, A-2391, A-2392
 Claim Range: C-3466–C-3492
 New Nodes Introduced: N-2323, N-2324, N-2325, N-2326, N-2327, N-2328, N-2329
-Existing Nodes Reused: N-1 (Charlie Kirk), N-1030 (Erica Kirk), N-7 (Candace Owens), N-2275 (Mike Mitchell Public Record Anomaly), N-2277 (Robinson Apartment Staging Allegation), N-2278 (Phil Lyman Proximity and Behavior Investigation)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-1030 (Erica Kirk), N-3 (Candace Owens), N-2275 (Mike Mitchell Public Record Anomaly), N-2277 (Robinson Apartment Staging Allegation), N-2278 (Phil Lyman Proximity and Behavior Investigation)
 
 ---
 
@@ -223,7 +223,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2384.1, A-2385.1, C-3466, C-3489, N-1, N-1030, N-? (Jeffrey Long), N-? (Astrid Tuminez)*
+*Related: A-2384.1, A-2385.1, C-3466, C-3489, N-1030, N-? (Jeffrey Long), N-? (Astrid Tuminez)*
 
 ---
 
@@ -321,7 +321,7 @@ TPUSA senior field representative. The UVU independent review names her as direc
 Claim Timestamp: 00:01:29
 Claim: The Kirk family filed a notice of claim against the State of Utah, the UVU Police Department, UVU Police Chief Jeffrey Long, former UVU president Astrid Tuminez, and others presently "unknown" involved in Charlie Kirk's death.
 Anchored Artifacts: A-2384.1
-Related Nodes: N-1, N-1030, N-? (Jeffrey Long), N-? (Astrid Tuminez), N-2323
+Related Nodes: N-1030, N-? (Jeffrey Long), N-? (Astrid Tuminez), N-2323
 Investigative Direction: Obtain the filed notice of claim from the Utah Attorney General's office and confirm the precise list of named respondents.
 
 ---
@@ -603,7 +603,7 @@ Investigative Direction: Track subsequent civil complaint filings with the Utah 
 - **Name uncertainty — Erika vs Erica:** Transcript uses "Erika" throughout. Protocol example ledger uses "Erica." Preserve transcript spelling; flag inconsistency.
 - **Name uncertainty — Scripps News:** Transcript uses "Scripts Media," "Scriptscripts News," and "Scripps News." Treat as same entity; preserve spelling per artifact.
 - **Transcription error — "August 25th, 20125":** Clear error for 2025.
-- **Name uncertainty — Nell DeBuckman:** Possibly existing node; verification recommended. Not created as new N-2276 since this name may already exist in N-1 to N-999 range.
+- **Name uncertainty — Nell DeBuckman:** Possibly existing node; verification recommended. Not created as new N-2276 since this name may already exist in N-1 to N-339 range.
 - **Artifact verbally referenced but not shown — Nell DeBuckman / Buckman Center donation:** A-2392.1 was referenced verbally; primary donation record not displayed on screen.
 - **Possible transcription error — 60–90 day Utah bodycam retention figure:** Host states this as Utah law; the cited law should be verified against Utah Code.
 - **Timestamp uncertainty:** Filing date of the notice of claim not explicitly given on air (described only as occurring "a year on" and "this morning"); extraction date 2026-09-16 is inferred.

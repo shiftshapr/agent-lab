@@ -365,7 +365,7 @@
             "C-1907"
           ],
           "related_nodes": [
-            "N-528"
+            "N-518"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -456,8 +456,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-528",
-      "ref": "N-528",
+      "@id": "N-518",
+      "ref": "N-518",
       "name": "Captain Adam Nef",
       "type": "person",
       "description": "Positively identified in this episode as the U.S. Army captain of the 10th Mountain Division who interrogated the Fort Huachuca witness (\"Harry\") on September 9, 2025. Distinct from Blake Nef (Fox News personality mentioned in same episode).",
@@ -709,7 +709,7 @@
         "A-1532.2"
       ],
       "related_nodes": [
-        "N-528"
+        "N-518"
       ],
       "tags": [],
       "claim_timestamp": "00:40:00",

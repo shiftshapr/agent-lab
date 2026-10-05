@@ -330,7 +330,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-2144*
+*Related: N-2144*
 
 **N-1222** Hospital Routing Anomaly
 

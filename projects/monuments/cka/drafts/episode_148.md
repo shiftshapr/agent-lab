@@ -175,7 +175,7 @@ Video Timestamp: 00:36:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3393, C-3394, C-3395, C-3396, N-4, N-1, N-1028, N-10, N-9*
+*Related: C-3393, C-3394, C-3395, C-3396, N-4, N-1028, N-10, N-9*
 
 ---
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:40:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3398, C-3399, C-3400, C-3401, C-3402, N-2, N-1, N-1028, N-8, N-10*
+*Related: C-3398, C-3399, C-3400, C-3401, C-3402, N-2, N-1028, N-8, N-10*
 
 ---
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:52:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1, N-12, N-42, N-21, N-15*
+*Related: N-12, N-42, N-21, N-15*
 
 **A-2350.3** Ali Comment on Andrew Kolb and Fireworks / Sparkling Pantsuit
 
@@ -265,7 +265,7 @@ Video Timestamp: 00:56:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3405, N-18, N-1, N-19*
+*Related: C-3405, N-18, N-19*
 
 **A-2350.6** Lynn Marie Comment: "Charlie Kirk is finally free."
 
@@ -513,7 +513,7 @@ Claim: According to the Deseret News profile, Blake Neff stated Charlie Kirk was
 
 Anchored Artifacts: A-2347.1
 
-Related Nodes: N-4, N-1, N-1028, N-9
+Related Nodes: N-4, N-1028, N-9
 
 Investigative Direction: Verify the exact Neff wording in the original Deseret News article; identify the source Neff cites for this characterization.
 
@@ -583,7 +583,7 @@ Claim: In her NYT op-ed, Erika Kirk recounts telling Second Lady Usha Vance "I d
 
 Anchored Artifacts: A-2348.1
 
-Related Nodes: N-2, N-1028, N-1, N-16
+Related Nodes: N-2, N-1028, N-16
 
 Investigative Direction: Confirm the quoted sentence in the op-ed directly; cross-check against Vance-family public statements.
 

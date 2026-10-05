@@ -13,7 +13,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2350, N-2351, N-2352, N-2353, N-2354, N-10003
-  - Reused Nodes Appearing: N-1, N-2, N-7, N-214, N-435, N-436, N-749, N-755, N-848, N-992, N-1291, N-1313, N-1720, N-2063, N-2073, N-2092, N-2329, N-2330, N-10000, N-10001, N-10002
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-435, N-344, N-424, N-16, N-434, N-224, N-1291, N-1313, N-1720, N-2063, N-2073, N-2092, N-2329, N-2330, N-10000, N-10001, N-10002
   - (see registers)
   - Person band: persons minted in this quality pass use N-10000+ (see node register). Minted here or reused: Maycee Crofts, Caleb Chilcutt, Tyler Bowyer, Kip Crofts. Baron Coleman spelling corrected, no new person.
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:05:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3584, N-2350, N-749, N-848, N-2092, N-10000*
+*Related: C-3584, N-2350, N-424, N-434, N-2092, N-10000*
 
 ---
 
@@ -85,7 +85,7 @@ Video Timestamp: 00:45:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (document vs podcast as characterized by host)
 
-*Related: C-3588, C-3589, N-2353, N-749, N-436, N-1720, N-2063*
+*Related: C-3588, C-3589, N-2353, N-424, N-344, N-1720, N-2063*
 
 ---
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:24:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as read)
 
-*Related: C-3591, N-848, N-435, N-2092, N-1343*
+*Related: C-3591, N-434, N-435, N-2092, N-1343*
 
 ---
 
@@ -124,7 +124,7 @@ Video Timestamp: 00:56:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (composite host timeline)
 
-*Related: C-3592, N-2354, N-1, N-2, N-2073*
+*Related: C-3592, N-2354, N-1, N-2073*
 
 ---
 
@@ -180,7 +180,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-7** Candace Owens
+**N-3** Candace Owens
 
 Host/narrator reading the independent review and constructing the concurrent timeline.
 
@@ -192,7 +192,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-214** Andrew Kovette
+**N-42** Andrew Kolvet
 
 Named among TPUSA communicators the host challenges on transparency; later referenced regarding an offer to “take TPUSA to the next level” and as possible direction chain above Maycee Crofts.
 
@@ -216,7 +216,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-436** Shawn Ryan
+**N-344** Shawn Ryan
 
 Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.
 
@@ -228,7 +228,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-749** Brian Harpole
+**N-424** Brian Harpole
 
 Integrity Solutions executive-protection lead for Charlie Kirk; documented non-response to review outreach; central subject of report contradictions vs Shawn Ryan podcast (venue selection, drones/airspace, rooftop counter-sniper).
 
@@ -240,7 +240,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-755** Frank Turk
+**N-16** Frank Turek
 
 Named in opening roll-call of TPUSA-aligned figures the host summons rhetorically to confront the review findings.
 
@@ -252,7 +252,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-848** Dan Flood
+**N-434** Dan Flood
 
 TPUSA security supervisor present at UVU September 10; non-response to review outreach; report attributes pre-event text/phone coordination with Chief Long and canopy-area focus.
 
@@ -264,7 +264,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-992** Blake Neff
+**N-224** Blake Neff
 
 Named among TPUSA communicators challenged on transparency relative to organizational non-participation in the review.
 
@@ -432,7 +432,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3588, C-3589, A-2453.1, N-749, N-436, N-2063*
+*Related: C-3588, C-3589, A-2453.1, N-424, N-344, N-2063*
 
 ---
 
@@ -445,7 +445,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3592, A-2456.1, N-1, N-2, N-2073*
+*Related: C-3592, A-2456.1, N-1, N-2073*
 
 ---
 
@@ -495,7 +495,7 @@ Claim: The Lake Force independent review documents that despite repeated outreac
 
 Anchored Artifacts: A-2452.1, A-2451.1
 
-Related Nodes: N-2350, N-2329, N-749, N-848, N-2092, N-10000
+Related Nodes: N-2350, N-2329, N-424, N-434, N-2092, N-10000
 
 Investigative Direction: Obtain the review’s outreach log appendices; confirm certified-letter receipts; request TPUSA written policy on third-party review cooperation.
 
@@ -509,7 +509,7 @@ Claim: Host asserts Erika Kirk / TPUSA public messaging about wanting answers is
 
 Anchored Artifacts: A-2451.1, A-2452.1
 
-Related Nodes: N-2, N-214, N-992, N-2350, N-2329
+Related Nodes: N-2, N-42, N-224, N-2350, N-2329
 
 Investigative Direction: Archive contemporaneous TPUSA / Erika statements on cooperation; compare dates to outreach attempts listed in the review.
 
@@ -523,7 +523,7 @@ Claim: The independent-review timeline states that on July 10, 2025, at the requ
 
 Anchored Artifacts: A-2451.2
 
-Related Nodes: N-2351, N-2073, N-1291, N-1, N-10000
+Related Nodes: N-2351, N-2073, N-1291, N-10000
 
 Investigative Direction: Publish/obtain the underlying email quoted in the review; interview or FOIA UVU event-services records for July 10–18 submission chain.
 
@@ -551,7 +551,7 @@ Claim: Brian Harpole stated on Shawn Ryan’s podcast that UVU selected the venu
 
 Anchored Artifacts: A-2453.1, A-2451.3
 
-Related Nodes: N-2353, N-749, N-436, N-1313, N-2063
+Related Nodes: N-2353, N-424, N-344, N-1313, N-2063
 
 Investigative Direction: Clip-align the Shawn Ryan episode timestamps to each contested Harpole sentence; cite review interview identifiers where available.
 
@@ -565,7 +565,7 @@ Claim: Host, following the review, asserts Harpole’s podcast remarks about Pro
 
 Anchored Artifacts: A-2453.1
 
-Related Nodes: N-2353, N-749, N-1720, N-2063
+Related Nodes: N-2353, N-424, N-1720, N-2063
 
 Investigative Direction: Verify airspace rules for the event footprint; check UVU/UVUPD drone policy logs; map line-of-sight structures including Fugal Gateway.
 
@@ -593,7 +593,7 @@ Claim: The review timeline as presented states that around T-minus-7 days TPUSA 
 
 Anchored Artifacts: A-2455.1
 
-Related Nodes: N-435, N-848, N-2092, N-2329
+Related Nodes: N-435, N-434, N-2092, N-2329
 
 Investigative Direction: Obtain ticket-platform export timestamps; compare to UVUPD incident action plan drafts; interview mutual-aid partners on whether informal notice occurred.
 
@@ -607,7 +607,7 @@ Claim: Host claims Charlie Kirk’s July 2025 pressures (post–White House/BB c
 
 Anchored Artifacts: A-2456.1
 
-Related Nodes: N-2354, N-1, N-2, N-2073, N-2351
+Related Nodes: N-2354, N-1, N-2073, N-2351
 
 Investigative Direction: Build a sourced chronology with primary citations for each July–August bullet; separate established facts from host inference.
 

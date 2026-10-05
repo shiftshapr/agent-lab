@@ -36,7 +36,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-7",
+            "N-3",
             "N-56"
           ],
           "tags": [],
@@ -55,7 +55,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "2018",
@@ -73,7 +73,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "2018-2019",
@@ -89,7 +89,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "2018-2019",
@@ -139,7 +139,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "2018-2022",
@@ -157,7 +157,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-7",
+            "N-3",
             "N-59"
           ],
           "tags": [],
@@ -176,7 +176,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-7",
+            "N-3",
             "N-2"
           ],
           "tags": [],
@@ -203,7 +203,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-7",
+            "N-3",
             "N-56",
             "N-1073"
           ],
@@ -223,7 +223,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-7",
+            "N-3",
             "N-42",
             "N-60",
             "N-61",
@@ -275,8 +275,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the series; close personal/professional partner of Charlie Kirk from 2017 onward.",
@@ -706,7 +706,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-7",
+        "N-3",
         "N-56",
         "N-1069",
         "N-60",
@@ -756,7 +756,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:13:38",
@@ -775,7 +775,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-7",
+        "N-3",
         "N-42",
         "N-60",
         "N-61",
@@ -797,7 +797,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1",
-        "N-7",
+        "N-3",
         "N-1071"
       ],
       "tags": [],
@@ -817,7 +817,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-7",
+        "N-3",
         "N-1074"
       ],
       "tags": [],
@@ -837,7 +837,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-7",
+        "N-3",
         "N-59",
         "N-1068"
       ],
@@ -858,7 +858,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-7",
+        "N-3",
         "N-2",
         "N-1068"
       ],
@@ -880,7 +880,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-7",
+        "N-3",
         "N-56",
         "N-1069"
       ],
@@ -899,7 +899,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-1",
-        "N-7",
+        "N-3",
         "N-1000",
         "N-1072",
         "N-1075"
@@ -923,7 +923,7 @@
         {
           "episode": 1,
           "video_timestamp": "00:20:15",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "Never for a single minute ever did Charlie and I stop being friends. Our relationship was forged in fire.",
           "context": "Closing emotional affirmation of friendship continuity after Charlie Kirk's death.",
           "confidence": "high",
@@ -935,7 +935,7 @@
         {
           "episode": 1,
           "video_timestamp": "00:22:59",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "I will never unsee the footage of what I saw, the violence of it. I pray for the people who took any pleasure in that.",
           "context": "Direct grief-stricken commentary on the assassination footage.",
           "confidence": "high",
@@ -956,7 +956,7 @@
         {
           "episode": 1,
           "video_timestamp": "00:11:25",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "We were 100% we manifested this by listening to Power on repeat.",
           "context": "After Kanye tweeted 'I love the way Candace Owens thinks' shortly after they had been listening to Kanye's music on repeat.",
           "confidence": "high",
@@ -967,7 +967,7 @@
         {
           "episode": 1,
           "video_timestamp": "00:19:56",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "Our plan worked. We broke Erika down. First came the name shame, then came the wedding, then came the children.",
           "context": "Frames the Erika Kirk relationship outcome as the deliberate result of a comedic 'plan' rather than organic romantic development.",
           "confidence": "medium",
@@ -987,7 +987,7 @@
         {
           "episode": 1,
           "video_timestamp": "00:22:08",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "I think in the end Charlie was going through a spiritual transformation. He was going through a lot and there was a lot of pressure.",
           "context": "Host introduces a 'spiritual transformation' narrative without specifying the direction or destination; flags outside pressure as hostile.",
           "confidence": "high",

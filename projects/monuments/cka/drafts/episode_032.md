@@ -29,7 +29,7 @@
 - **Episode Ledger Summary:**
   - Artifact Families Introduced: A-1399, A-1400, A-1401, A-1402, A-1403, A-1404, A-1405, A-1406, A-1407, A-1408, A-1409, A-1410, A-1411, A-1412, A-1413, A-1414
   - Claim Range: C-1695–C-1715
-  - New Nodes Introduced: N-392, N-393, N-394, N-395, N-396, N-397, N-398, N-399, N-400, N-401, N-402, N-403, N-404, N-1319, N-1320, N-1321, N-1322, N-1323
+  - New Nodes Introduced: N-392, N-394, N-395, N-396, N-397, N-398, N-399, N-400, N-401, N-402, N-1319, N-1320, N-1321, N-1322, N-1323
   - Reused Nodes Appearing: 
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:11:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1695, C-1696, C-1697, N-392, N-393, N-394*
+*Related: C-1695, C-1696, C-1697, N-392, N-335, N-394*
 
 ---
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:45:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1709, N-1, N-1321*
+*Related: C-1709, N-1321*
 
 ---
 
@@ -228,7 +228,7 @@ Video Timestamp: 00:45:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1712, N-403, N-1*
+*Related: C-1712, N-382, N-1*
 
 ---
 
@@ -241,7 +241,7 @@ Video Timestamp: 00:56:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (article referenced by host)
 
-*Related: C-1713, N-404, N-2*
+*Related: C-1713, N-349, N-2*
 
 ---
 
@@ -254,7 +254,7 @@ Video Timestamp: 00:57:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (referenced on air)
 
-*Related: C-1714, N-404, N-2*
+*Related: C-1714, N-349, N-2*
 
 ---
 
@@ -268,7 +268,7 @@ Video Timestamp: 00:37:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1715, N-1, N-1322*
+*Related: C-1715, N-1322*
 
 ---
 
@@ -289,7 +289,7 @@ Investigative Pressure: High
 
 ---
 
-**N-393** Brett Cooper
+**N-335** Brett Cooper
 
 Host/creator of independent commentary show; source of two audio segments read aloud describing Lou Taylor and Britney Spears conservatorship details.
 
@@ -419,7 +419,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-403** Butch Hibbs
+**N-382** Butch Hibbs
 
 Brother of Jack Hibbs; alleged by host to have been in the bush at Kirk event prior to shooting and to have lingered at scene post-shooting during media interviews.
 
@@ -432,7 +432,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-404** Ali Stucky
+**N-349** Allie Beth Stuckey
 
 Subject of Daily Mail and Wall Street Journal headlines framing her as TPUSA "heir" or "heir apparent." Host disputes framing on air.
 
@@ -482,7 +482,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1409.1, A-1409.2, A-1410.1, A-1411.1, C-1709, C-1710, N-402, N-403, N-1*
+*Related: A-1409.1, A-1409.2, A-1410.1, A-1411.1, C-1709, C-1710, N-402, N-382, N-1*
 
 ---
 
@@ -718,7 +718,7 @@ Claim: Per host description of viewer-submitted photo and clip, an individual we
 
 Anchored Artifacts: A-1409.1, A-1409.2, A-1411.1
 
-Related Nodes: N-1321, N-403, N-1
+Related Nodes: N-1321, N-382, N-1
 
 Investigative Direction: Obtain high-resolution copies of all photos/video from multiple angles; cross-reference with FBI / state investigative files.
 
@@ -760,7 +760,7 @@ Claim: Per video clip played on air, Butch Hibbs remained in the background duri
 
 Anchored Artifacts: A-1411.1
 
-Related Nodes: N-403, N-1
+Related Nodes: N-382, N-1
 
 Investigative Direction: Confirm Butch Hibbs's official role/access at the event; review any post-event investigative interviews.
 
@@ -774,7 +774,7 @@ Claim: Per host reference, Daily Mail (Victoria Churchill, APAC reporter) publis
 
 Anchored Artifacts: A-1412.1
 
-Related Nodes: N-404, N-2
+Related Nodes: N-349, N-2
 
 Investigative Direction: Obtain the article and verify framing language; host disputes framing on air.
 
@@ -788,7 +788,7 @@ Claim: Per host reference, Wall Street Journal repeated the "heir apparent" fram
 
 Anchored Artifacts: A-1413.1
 
-Related Nodes: N-404, N-2
+Related Nodes: N-349, N-2
 
 Investigative Direction: Locate the WSJ article and verify framing language.
 
@@ -802,7 +802,7 @@ Claim: Per replayed audio clip, Charlie Kirk stated that one wants friends who t
 
 Anchored Artifacts: A-1414.1
 
-Related Nodes: N-1, N-1322
+Related Nodes: N-1322
 
 Investigative Direction: Verify timestamp/date of original recording; confirm via original footage.
 

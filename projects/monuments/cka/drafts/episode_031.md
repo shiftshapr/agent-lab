@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: c74e78c6fe837fa42ecfdd621af81cd0a2394e04b024b682d47f983646686329
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-388, N-389, N-390, N-391, N-1316, N-1317
+  - New Nodes Introduced:  N-389, N-391, N-1316, N-1317
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -49,7 +49,7 @@ Video Timestamp: 00:02:06–00:03:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1682, C-1683, N-388*
+*Related: C-1682, C-1683, N-16*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:46:40–00:49:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1691, N-390, Tim Dillon (likely-existing node), Kash Patel (likely-existing node)*
+*Related: C-1691, N-314, Tim Dillon (likely-existing node), Kash Patel (likely-existing node)*
 
 ---
 
@@ -207,7 +207,7 @@ Video Timestamp: 00:56:01–00:57:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1692, N-1, N-1318 (likely-existing)*
+*Related: C-1692, N-1318 (likely-existing)*
 
 **A-1398.5** Today's Comment: "Mint Julip" — Inquiry About Lady Donor Who Yelled at Charlie; Names "Miriam Adlesen"
 
@@ -307,7 +307,7 @@ Node Type: topic
 *Related:*
 
 
-**N-388** Frank Turk
+**N-16** Frank Turek
 
 Pastor described by host as the friend wearing the white hat beside Charlie Kirk at the assassination. Appears on CBN News interview (A-1391.1) criticizing host's evidentiary approach and referencing Detective Jay Warner Wallace.
 
@@ -333,7 +333,7 @@ Investigative Pressure: High
 
 ---
 
-**N-390** Alexis Wilkins
+**N-314** Alexis Wilkins
 
 Country-music artist referenced as Kash Patel's girlfriend and as a member of Calvary Chapel Church in Chino Hills, California. Subject of Tim Dillon comedy segment.
 
@@ -355,7 +355,7 @@ Claim Count: 0 (no per-incident displayed sources; host statement only)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1394.1, A-1398.11, N-389, N-390, Rob McCoy (likely-existing node), Jack Hibbs (likely-existing node), Chuck Smith (likely-existing node)*
+*Related: A-1394.1, A-1398.11, N-389, N-314, Rob McCoy (likely-existing node), Jack Hibbs (likely-existing node), Chuck Smith (likely-existing node)*
 
 ---
 
@@ -381,7 +381,7 @@ Claim Timestamp: 00:02:06
 Claim: In a CBN News interview aired in the episode, Frank Turk stated that Candace Owens is making suggestions "without evidence" and that "as soon as you start launching accusations" the situation becomes painful for people.
 
 Anchored Artifacts: A-1391.1
-Related Nodes: N-388, N-1, N-391
+Related Nodes: N-16, N-1, N-391
 Investigative Direction: Obtain full CBN News clip and verify exact wording; cross-reference Turk's stated absence of episode-watching against specific claims in the Bride of Charlie series.
 
 ---
@@ -393,7 +393,7 @@ Claim Timestamp: 00:02:06
 Claim: In the same CBN News interview, Frank Turk stated he had invited "Detective Jay Warner Wallace" onto his podcast two weeks after "Charlie's martyrdom" to explain how murder prosecutions work.
 
 Anchored Artifacts: A-1391.1
-Related Nodes: N-388
+Related Nodes: N-16
 Investigative Direction: Locate and verify Frank Turk's podcast and the Wallace episode; cross-reference Wallace's stated expertise against any public statements on the Kirk case.
 
 ---
@@ -489,7 +489,7 @@ Claim Timestamp: 00:46:40
 Claim: In the played clip, Tim Dillon performs a comedy bit involving imagined lyrics from Alexis Wilkins, references Tel Aviv, "Kash Mattel," and "Jeff" files, and jokes about a country-music release.
 
 Anchored Artifacts: A-1396.1
-Related Nodes: N-390, Tim Dillon (likely-existing node), Kash Patel (likely-existing node), N-1317
+Related Nodes: N-314, Tim Dillon (likely-existing node), Kash Patel (likely-existing node), N-1317
 Investigative Direction: Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster.
 
 ---

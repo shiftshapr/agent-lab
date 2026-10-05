@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 7b329950d516234dfe924015e2ae2ceece2c1cacc9476909544e66ce23744a8b
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-903, N-904, N-905, N-1563, N-1564, N-1565, N-1566, N-1567
+  - New Nodes Introduced: N-903, N-1563, N-1564, N-1565, N-1566, N-1567
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:24:02–00:28:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2319, C-2320, C-2321, C-2322, N-903, N-904, N-1563*
+*Related: C-2319, C-2320, C-2321, C-2322, N-903, N-789, N-1563*
 
 ---
 
@@ -101,7 +101,7 @@ Video Timestamp: 00:33:22–00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2323, C-2324, N-905, N-2*
+*Related: C-2323, C-2324, N-443, N-2*
 
 ---
 
@@ -130,9 +130,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1747.1, C-2319, C-2320, C-2321, C-2322, N-904, N-1563*
+*Related: A-1747.1, C-2319, C-2320, C-2321, C-2322, N-789, N-1563*
 
-**N-904** Marina Munz
+**N-789** Marina (TPUSA CMO)
 
 Identified on-air as CMO of Turning Point USA; named by Aubrey Lech as present at her termination meeting.
 
@@ -143,7 +143,7 @@ Investigative Pressure: Low
 
 *Related: A-1747.1, C-2322, N-903*
 
-**N-905** Tim Dillon
+**N-443** Tim Dillon
 
 Comedian / podcaster; artifact-backed on-air clip commenting on Erika Kirk and political performance.
 
@@ -163,7 +163,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1747.1, A-1749.1, C-2320, C-2321, C-2322, C-2325, N-903, N-904*
+*Related: A-1747.1, A-1749.1, C-2320, C-2321, C-2322, C-2325, N-903, N-789*
 
 **N-1564** Pierre / French Donor Investigation
 
@@ -280,7 +280,7 @@ Claim Timestamp: 00:24:02–00:28:28
 Claim: Aubrey Lech's video states she was brought into a meeting with Andrew Kolvet and Marina Munz and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to "Aubrey."
 
 Anchored Artifacts: A-1747.1
-Related Nodes: N-903, N-904, N-1563
+Related Nodes: N-903, N-789, N-1563
 Investigative Direction: Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.
 
 **C-2321** Aubrey Lech expressed belief termination was retaliation for narrative-dissent
@@ -300,7 +300,7 @@ Claim Timestamp: 00:24:02–00:28:28
 Claim: Aubrey Lech's video names Andrew Kolvet (described as her employer via ATK) and Marina Munz (CMO of Turning Point USA) as the two people present at her termination meeting.
 
 Anchored Artifacts: A-1747.1
-Related Nodes: N-903, N-904
+Related Nodes: N-903, N-789
 Investigative Direction: Verify Marina Munz's title and organizational role via TPUSA public records.
 
 **C-2323** Tim Dillon clip describes political performance as "fake"
@@ -310,7 +310,7 @@ Claim Timestamp: 00:33:22–00:35:00
 Claim: The Tim Dillon clip played on air contains the statement that political positioning by tech figures is "performative" and that "everything is fake," including free-speech actors who once criticized and now shut down free speech.
 
 Anchored Artifacts: A-1748.1
-Related Nodes: N-905
+Related Nodes: N-443
 Investigative Direction: Identify the source episode of the Dillon clip and capture the full surrounding context.
 
 **C-2324** Tim Dillon clip names Erika Kirk as "the only person I trust"
@@ -320,7 +320,7 @@ Claim Timestamp: 00:33:22–00:35:00
 Claim: The Tim Dillon clip played on air contains the line, delivered sarcastically per host framing, naming Erika Kirk as "the only person I trust" in the current moment.
 
 Anchored Artifacts: A-1748.1
-Related Nodes: N-905, N-2
+Related Nodes: N-443, N-2
 Investigative Direction: Locate the unedited Dillon segment to determine whether the Erika line was delivered sarcastically, earnestly, or in mixed register.
 
 **C-2325** Host references Purge Fallout GoFundMe supporting fired TPUSA employees

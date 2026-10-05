@@ -85,7 +85,7 @@ Video Timestamp: 00:41:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3426, C-3442, N-2, N-2317*
+*Related: C-3426, C-3442, N-2317*
 
 ---
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:51:13–00:57:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (for display; commentary is audience reaction, not investigative evidence)
 
-*Related: N-1, N-2, N-2275*
+*Related: N-1, N-2275*
 
 ---
 
@@ -326,7 +326,7 @@ Claim Timestamp: 00:41:43
 Claim: Erica Kirk posted a tweet invoking Charlie's purported "build two statues" line, framing the alleged statue vandalism as spiritual persecution and calling for restoration of the statue.
 
 Anchored Artifacts: A-2364.1
-Related Nodes: N-2, N-2317
+Related Nodes: N-2317
 Investigative Direction: Locate original tweet with timestamp; cross-check against TPUSA verified accounts; verify exact attribution.
 
 ---

@@ -18,7 +18,7 @@ REPO = Path(__file__).resolve().parents[4]
 BOC_BUILD = REPO / "projects" / "monuments" / "bride_of_charlie" / "scripts" / "build_inscription_from_drafts.py"
 
 NODE_BLOCK = re.compile(
-    r"\n\*\*N-1\*\* Charlie Kirk\n.*?\n\*\*N-2\*\* Erika Kirk\n.*?\n(?=\*\*N-210\*\*)",
+    r"\n\*\*N-1\*\* Charlie Kirk\n.*?\n\*\*N-2\*\* Erika Kirk\n.*?\n(?=\*\*N-42\*\*)",
     re.DOTALL,
 )
 

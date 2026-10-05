@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: 8e3767219910081da3667951aa2631008c1fef13d2bd87a539a898bb6428508e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-268, N-269, N-270, N-271, N-272, N-273, N-274, N-275, N-276, N-277, N-278, N-280, N-281, N-282, N-283, N-284, N-285, N-1262, N-1263, N-1264, N-1265
+  - New Nodes Introduced:  N-269, N-272, N-273, N-277, N-278, N-281, N-283, N-284, N-285, N-1262, N-1263, N-1264, N-1265
   - Reused Nodes Appearing: 
 
 The episode advances several investigative threads already active in the series (Mikey McCoy's actions on September 10, the trauma-hospital routing question, the "306 bullet wound" forensic question, and TPUSA personnel analysis) while introducing a new artifact family tied to the alleged UVU Hospital medical record. The text-message artifacts and audio clips are the structural core of the episode's evidentiary record.
@@ -33,7 +33,7 @@ Confidence Level: High
 
 Contents (read on air): Candace — "Yo, Kanye West writing a philosophy book called Break the Simulation. We need him, Charlie. He is Blexit AF." Charlie — "I love Kanye. He's my soul brother. I will find a way to him. I promise we have to."
 
-*Related: C-1490, C-1491, N-1, N-268*
+*Related: C-1490, C-1491, N-1, N-56*
 
 **A-1270.2** Text exchange, evening of April 20, 2018 (eve of Kanye tweet)
 
@@ -45,7 +45,7 @@ Confidence Level: High
 
 Contents (read on air): Charlie — "I'm on a run and I'm blasting Kanye West and we're on the brink of something big and like this is our time." Candace — "So exciting. It's our time." Charlie — "Yes."
 
-*Related: C-1492, N-1, N-268*
+*Related: C-1492, N-1, N-56*
 
 **A-1270.3** Text exchange, morning of April 21, 2018 (after Kanye tweet)
 
@@ -57,7 +57,7 @@ Confidence Level: High
 
 Contents (read on air): Candace — "Please pick up because I was shaking." Charlie — "I am freaking the f out."
 
-*Related: C-1493, N-1, N-268*
+*Related: C-1493, N-1, N-56*
 
 ---
 
@@ -89,7 +89,7 @@ Confidence Level: High
 
 Contents (referenced on air): "I love the way Candace Owens thinks."
 
-*Related: C-1496, N-268*
+*Related: C-1496, N-56*
 
 ---
 
@@ -105,7 +105,7 @@ Confidence Level: High
 
 Contents (played on air): Adams states Kanye "ripped a hole in reality with seven words" and "freed a lot of people from a mental prison."
 
-*Related: C-1497, N-270*
+*Related: C-1497, N-266*
 
 ---
 
@@ -137,7 +137,7 @@ Confidence Level: High
 
 Contents (played on air): Kovett states Charlie had drilled into Mikey's brain that "If anything ever happens to me, you call Erika." Kovett further states Mikey was taking social-video clips for the group chat at the time of the shot, not on the phone, and that he put his fingers in his ears due to the loud blast.
 
-*Related: C-1499, C-1500, N-271, N-272, N-1, N-2*
+*Related: C-1499, C-1500, N-42, N-272, N-1, N-2*
 
 ---
 
@@ -169,7 +169,7 @@ Confidence Level: High
 
 Contents (played on air): Turk states "there's a difference between a possibility and evidence for a possibility," tells critics to "shut up" without evidence, and defends Mikey McCoy as a "24-year-old who at the time when Charlie was shot was 23 and was a hero that day."
 
-*Related: C-1502, N-274, N-272*
+*Related: C-1502, N-16, N-272*
 
 ---
 
@@ -201,7 +201,7 @@ Confidence Level: Medium
 
 Contents (played on air): Webb states Rob McCoy "does have this strange military background," identifies him as a NAR figure, and links the McCoy orbit to the $25 million-and-above NAR donor network and the Ziklag organization.
 
-*Related: C-1505, C-1506, N-275, N-1264*
+*Related: C-1505, C-1506, N-45, N-1264*
 
 ---
 
@@ -217,7 +217,7 @@ Confidence Level: Medium
 
 Contents (read on air): Reports that French tax forms list Brigitte Macron under "Jean Michelle" as male, citing Mr. Burme (described as a government official) and a staffer who has worked with the Macrons since 2017. Host also references prior "Becoming Breit" series.
 
-*Related: C-1507, C-1508, N-276*
+*Related: C-1507, C-1508, N-117*
 
 ---
 
@@ -249,13 +249,13 @@ Confidence Level: Medium (chart described in transcript; full content not transc
 
 Contents (per host narration): Lists Frank Turk, Andrew Kovett, Rob McCoy, Mikey McCoy, Tyler Bowyer and identifies military-family members including Captain Kurt Kovvet, Captain Robert Kovvet, Roy Edgar McCoy (naval captain, assistant chief of staff for psychological warfare).
 
-*Related: C-1505, C-1506, N-271, N-272, N-274, N-275, N-85, N-1264, N-10002*
+*Related: C-1505, C-1506, N-42, N-272, N-16, N-45, N-70, N-1264, N-10002*
 
 ---
 
 ## 4. Node Register
 
-**N-268** Kanye West
+**N-56** Kanye West
 
 Musician; subject of the April 21, 2018 tweet that the episode anchors as a transformational event in Candace Owens' public career.
 
@@ -281,7 +281,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-270** Scott Adams
+**N-266** Scott Adams
 
 Commentator; subject of audio clip characterizing Kanye's April 2018 tweet as having "ripped a hole in reality."
 
@@ -294,7 +294,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-271** Andrew Kovett
+**N-42** Andrew Kolvet
 
 TPUSA spokesperson (per on-air clip); authored the public explanation of Mikey McCoy's post-shooting actions.
 
@@ -316,7 +316,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1275.1, A-1276.1, A-1277.1, A-1282.1, C-1499, C-1500, C-1501, C-1502, N-1, N-271, N-274, N-275, N-1263*
+*Related: A-1275.1, A-1276.1, A-1277.1, A-1282.1, C-1499, C-1500, C-1501, C-1502, N-1, N-42, N-16, N-45, N-1263*
 
 ---
 
@@ -333,7 +333,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-274** Frank Turk
+**N-16** Frank Turek
 
 Former U.S. Navy officer, Christian apologist; subject of on-air clip defending Mikey McCoy and rebuking Candace for advancing unevidenced claims.
 
@@ -346,7 +346,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-275** Rob McCoy
+**N-45** Rob McCoy
 
 Pastor; subject of George Webb audio clip and the on-screen military-connections chart. Father identified as Roy Edgar McCoy (naval captain, assistant chief of staff for psychological warfare).
 
@@ -359,7 +359,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-276** Brigitte Macron
+**N-117** Brigitte Macron
 
 Spouse of Emmanuel Macron (transcribed by host as "Breijit Mcronone"); subject of French tax-form reporting cited as showing "Jean Michelle" male registration.
 
@@ -398,7 +398,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-280** John Mappen / "Arena Mappen" / "Nina"
+**N-217** John Mappin
 
 UK-based donors (spelling uncertain per transcript); identified on air as facilitators of the December 2018 UK event where Candace first met her husband. Name uncertainty flagged.
 
@@ -411,7 +411,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-281** Dr. Lee Trotter
+**N-281** Lee Trotter
 
 Surgeon referenced on air as having worked on Charlie Kirk; host alleges Air Force residency at Keesler Air Force Medical Center and possible active Air Force service.
 
@@ -424,7 +424,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-282** Dr. Deidra Weiss Amaro
+**N-249** Deidra Weiss Amaro
 
 Medical examiner referenced on air; host alleges Army rank of major and Ericsson family lineage tied to Boyd Corporation.
 
@@ -446,7 +446,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1279.1, A-1282.1, N-275*
+*Related: A-1279.1, A-1282.1, N-45*
 
 ---
 
@@ -498,7 +498,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1279.1, A-1282.1, C-1505, C-1506, N-271, N-272, N-274, N-275, N-85*
+*Related: A-1279.1, A-1282.1, C-1505, C-1506, N-42, N-272, N-16, N-45, N-70*
 
 ---
 
@@ -524,7 +524,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1, N-10017*
+*Related: N-10017*
 
 ---
 
@@ -555,7 +555,7 @@ Claim Timestamp: 00:03:50
 Claim: In the April 13, 2018 text exchange (A-1270.1), Candace tells Charlie that Kanye West was writing a philosophy book titled "Break the Simulation" and explicitly tags him "Blexit AF."
 
 Anchored Artifacts: A-1270.1
-Related Nodes: N-1, N-268
+Related Nodes: N-1, N-56
 
 Investigative Direction: Obtain independent verification of the text exchange (carrier records, device forensics).
 
@@ -568,7 +568,7 @@ Claim Timestamp: 00:03:50
 Claim: Charlie's reply in the April 13, 2018 text exchange states he loves Kanye and "will find a way to him" with a promise to do so.
 
 Anchored Artifacts: A-1270.1
-Related Nodes: N-1, N-268
+Related Nodes: N-1, N-56
 
 Investigative Direction: Obtain independent verification of the text exchange and any subsequent contact logs between Charlie and Kanye representatives.
 
@@ -581,7 +581,7 @@ Claim Timestamp: 00:05:35
 Claim: Charlie's April 20, 2018 evening text states he is running while blasting Kanye West and that "we're on the brink of something big and like this is our time."
 
 Anchored Artifacts: A-1270.2
-Related Nodes: N-1, N-268
+Related Nodes: N-1, N-56
 
 Investigative Direction: Obtain independent verification of the text exchange and corroborating device or carrier records.
 
@@ -594,7 +594,7 @@ Claim Timestamp: 00:06:20
 Claim: The April 21, 2018 morning text exchange shows Candace "shaking" and Charlie writing "I am freaking the f out."
 
 Anchored Artifacts: A-1270.3
-Related Nodes: N-1, N-268
+Related Nodes: N-1, N-56
 
 Investigative Direction: Obtain independent verification of the text exchange and timestamps.
 
@@ -633,7 +633,7 @@ Claim Timestamp: 00:06:50
 Claim: Kanye West posted "I love the way Candace Owens thinks" on April 21, 2018.
 
 Anchored Artifacts: A-1272.1
-Related Nodes: N-268
+Related Nodes: N-56
 
 Investigative Direction: Obtain archived copy of original Kanye tweet from independent platform (e.g., Wayback Machine, X data export).
 
@@ -646,7 +646,7 @@ Claim Timestamp: 00:07:00–00:09:05
 Claim: Scott Adams, in commentary played on air, stated Kanye "ripped a hole in reality with seven words" and "freed a lot of people from a mental prison."
 
 Anchored Artifacts: A-1273.1
-Related Nodes: N-270
+Related Nodes: N-266
 
 Investigative Direction: Locate and timestamp original Scott Adams video; verify exact wording against played clip.
 
@@ -672,7 +672,7 @@ Claim Timestamp: 00:39:46–00:44:30
 Claim: In TPUSA audio played on air, Andrew Kovett states Charlie repeatedly instructed Mikey that "If anything ever happens to me, you call Erika," and that Mikey followed that protocol after the shot.
 
 Anchored Artifacts: A-1275.1
-Related Nodes: N-271, N-272, N-1, N-2
+Related Nodes: N-42, N-272, N-1, N-2
 
 Investigative Direction: Verify whether Mikey McCoy himself has publicly corroborated Kovett's account, and obtain any contemporaneous record of the alleged instruction.
 
@@ -685,7 +685,7 @@ Claim Timestamp: 00:39:46–00:44:30
 Claim: Kovett states Mikey was taking social-video clips for the TPUSA group chat at the time of the shot, with the phone in his hand only as he covered his ears due to the loud blast.
 
 Anchored Artifacts: A-1275.1
-Related Nodes: N-271, N-272, N-1
+Related Nodes: N-42, N-272, N-1
 
 Investigative Direction: Obtain the full video clip from which Kovett's narration derives, and time-stamp Mikey's actions frame-by-frame.
 
@@ -711,7 +711,7 @@ Claim Timestamp: 00:50:30–00:52:30
 Claim: Frank Turk states there is a "difference between a possibility and evidence for a possibility," tells critics without evidence to "shut up," and characterizes Mikey McCoy's actions on September 10, 2025 as heroic given his age (23) at the time.
 
 Anchored Artifacts: A-1277.1
-Related Nodes: N-274, N-272
+Related Nodes: N-16, N-272
 
 Investigative Direction: Identify date and outlet of Turk's full segment; confirm Mikey McCoy's age at the time of the September 10 event.
 
@@ -750,7 +750,7 @@ Claim Timestamp: 00:23:30–00:24:30
 Claim: George Webb states on air that Rob McCoy has a "strange military background" and was guiding Charlie toward a NAR-aligned apostolic movement; host asserts Rob McCoy's father Roy Edgar McCoy was a naval captain and assistant chief of staff for psychological warfare in the Navy.
 
 Anchored Artifacts: A-1279.1, A-1282.1
-Related Nodes: N-275, N-283, N-285, N-1263
+Related Nodes: N-45, N-283, N-285, N-1263
 
 Investigative Direction: Obtain Roy Edgar McCoy's official Navy service record; confirm Webb's claim against public biographical sources.
 
@@ -763,7 +763,7 @@ Claim Timestamp: 00:23:30–00:24:30
 Claim: George Webb states on air that Rob McCoy was connected to the New Apostolic Reformation (NAR) donor network Ziklag, described as "$25 million and above" Christian-right donors.
 
 Anchored Artifacts: A-1279.1
-Related Nodes: N-275, N-285, N-1263
+Related Nodes: N-45, N-285, N-1263
 
 Investigative Direction: Obtain independent verification of Ziklag's donor list and any documented overlap with TPUSA personnel or events.
 
@@ -776,7 +776,7 @@ Claim Timestamp: 00:57:30–00:59:30
 Claim: Host cites reporting, attributed to a French government official named Mr. Burme, that Brigitte Macron's French tax account lists her name as "Jean Michelle" and sex as male.
 
 Anchored Artifacts: A-1280.1
-Related Nodes: N-276
+Related Nodes: N-117
 
 Investigative Direction: Obtain the original French reporting, the Burme statement, and any tax-form documentation referenced; verify the dating of the records.
 
@@ -789,7 +789,7 @@ Claim Timestamp: 00:57:30–00:59:30
 Claim: Host rejects the public suggestion that the "Jean Michelle" entry was the product of a hacker, arguing the risk/reward of hacking a sitting president's records solely to change a name entry is implausible.
 
 Anchored Artifacts: A-1280.1
-Related Nodes: N-276
+Related Nodes: N-117
 
 Investigative Direction: Identify and obtain the original reporting cited by host; obtain French government statement (if any) addressing the discrepancy.
 
@@ -830,7 +830,7 @@ Claim: Host discusses John Mappen (Arena Mappen / Nina variants) in Macron-relat
 
 Anchored Artifacts: A-1280.1
 
-Related Nodes: N-280
+Related Nodes: N-217
 
 Investigative Direction: Obtain on-screen citations from the Macron segment.
 
@@ -858,7 +858,7 @@ Claim: Host references Dr. Deidra Weiss Amaro in UVU trauma-file discussion (reg
 
 Anchored Artifacts: A-1278.1
 
-Related Nodes: N-282
+Related Nodes: N-249
 
 Investigative Direction: Verify spelling against hospital records if released.
 

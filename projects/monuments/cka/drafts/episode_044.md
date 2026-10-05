@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4b44fcbfa9593db0051351dbb92918f4843655b202e7f32c7919dca51311b3f6
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-516, N-517, N-518, N-519, N-520, N-521, N-522, N-523, N-524, N-525, N-526, N-1397, N-1398, N-1399, N-1400, N-1401, N-1402
+  - New Nodes Introduced: N-516, N-518, N-522, N-523, N-524, N-525, N-526, N-1397, N-1398, N-1399, N-1400, N-1401, N-1402
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -47,7 +47,7 @@ Video Timestamp: 00:15:10–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1884, C-1885, C-1886, C-1887, N-516, N-517, N-518, N-1397*
+*Related: C-1884, C-1885, C-1886, C-1887, N-516, N-424, N-518, N-1397*
 
 **A-1519.3** Incident Report 861-1-2025-MPC446 (Fort Huachuca, September 9, 2025)
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:35:20–00:36:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article cited but full display not confirmed)
 
-*Related: C-1891, C-1892, N-521, N-1401*
+*Related: C-1891, C-1892, N-500, N-1401*
 
 ---
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:35:46–00:40:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host reads counts/contents; underlying emails not displayed)
 
-*Related: C-1893, C-1894, N-521, N-522, N-523, N-524, N-1401, N-1402*
+*Related: C-1893, C-1894, N-500, N-522, N-523, N-524, N-1401, N-1402*
 
 ---
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:42:41–00:44:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed audio clip)
 
-*Related: C-1895, C-1896, N-520*
+*Related: C-1895, C-1896, N-426*
 
 ---
 
@@ -166,7 +166,7 @@ Investigative Pressure: High
 
 ---
 
-**N-517** Brian Harpole
+**N-424** Brian Harpole
 
 Allegedly identified by Harry Meyers exiting the JTF-SB meeting at Fort Huachuca on September 9, 2025. Host later references this identification in connection with Charlie Kirk's assassination coverage.
 
@@ -179,7 +179,7 @@ Investigative Pressure: High
 
 ---
 
-**N-518** "Captain Nef"
+**N-518** Captain Adam Nef
 
 Military officer (Captain) identified by Harry Meyers as the lead interrogator during the 7-hour detention at Fort Huachuca on September 9, 2025. Described as ~36 years old, brown hair, commander of force protection. Spelling of surname as heard by Harry; uncertain.
 
@@ -192,7 +192,7 @@ Investigative Pressure: High
 
 ---
 
-**N-519** Blake Nef
+**N-224** Blake Neff
 
 Referenced by host as a potential relative (brother/cousin) of "Captain Nef" (N-518). Host speculates Blake Nef may have a military background despite public role as a producer of the Charlie Kirk show. Relationship unverified.
 
@@ -205,7 +205,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-520** Tim Pool
+**N-426** Tim Pool
 
 Independent commentator featured in audio clip played on the show; subject of host's commentary criticizing his conduct toward her.
 
@@ -218,7 +218,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-521** Arcadi Gaydamak
+**N-500** Arcadi Gaydamak
 
 Russian-born, Israeli-French businessman identified in prior series episodes in connection with Angola Gate. Reported by host as recently sentenced in absentia for trafficking weapons. Allegedly living in Nashville under alias per seven viewer emails.
 
@@ -240,7 +240,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1523.1, C-1893, C-1894, N-521, N-1401*
+*Related: A-1523.1, C-1893, C-1894, N-500, N-1401*
 
 ---
 
@@ -305,7 +305,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, A-1519.3, A-1519.4, C-1884, C-1885, C-1886, C-1887, C-1888, N-516, N-517, N-518*
+*Related: A-1519.2, A-1519.3, A-1519.4, C-1884, C-1885, C-1886, C-1887, C-1888, N-516, N-424, N-518*
 
 ---
 
@@ -344,7 +344,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, C-1887, N-517, N-1397*
+*Related: A-1519.2, C-1887, N-424, N-1397*
 
 ---
 
@@ -357,7 +357,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1522.1, A-1523.1, C-1893, C-1894, N-521, N-522*
+*Related: A-1522.1, A-1523.1, C-1893, C-1894, N-500, N-522*
 
 ---
 
@@ -482,7 +482,7 @@ Claim: Harry states he identified Brian Harpole as one of the men exiting the JT
 
 Anchored Artifacts: A-1519.2
 
-Related Nodes: N-516, N-517, N-1400
+Related Nodes: N-516, N-424, N-1400
 
 Investigative Direction: FOIA incident report 861-1-2025-MPC446 for visitor/attendee list; cross-reference with public schedule of Brian Harpole for September 9, 2025.
 
@@ -496,7 +496,7 @@ Claim: After Harry entered the meeting room, two captains escorted him out and b
 
 Anchored Artifacts: A-1519.2
 
-Related Nodes: N-516, N-518, N-1397, N-519
+Related Nodes: N-516, N-518, N-1397, N-224
 
 Investigative Direction: FOIA incident report 861-1-2025-MPC446; identify Captain Nef through Army CID and Fort Huachuca force protection roster.
 
@@ -524,7 +524,7 @@ Claim: An article referenced on the show reports that Arcadi Gaydamak failed to 
 
 Anchored Artifacts: A-1522.1
 
-Related Nodes: N-521
+Related Nodes: N-500
 
 Investigative Direction: Locate and verify the article's primary source (court records, news outlet) to confirm sentencing details and intelligence affiliation.
 
@@ -538,7 +538,7 @@ Claim: Per the referenced article, Gaydamak was born in Russia and relocated to 
 
 Anchored Artifacts: A-1522.1
 
-Related Nodes: N-521
+Related Nodes: N-500
 
 Investigative Direction: Verify biographical details against public records and prior reporting on Gaydamak.
 
@@ -552,7 +552,7 @@ Claim: Seven individuals, mostly men, emailed the show asserting that Arcadi Gay
 
 Anchored Artifacts: A-1523.1
 
-Related Nodes: N-521, N-522, N-1401
+Related Nodes: N-500, N-522, N-1401
 
 Investigative Direction: Obtain corroborating evidence via public records, business filings, immigration status checks, and law enforcement confirmation.
 
@@ -580,7 +580,7 @@ Claim: In an audio clip played on the show, Tim Pool calls Candace Owens an "evi
 
 Anchored Artifacts: A-1524.1
 
-Related Nodes: N-520
+Related Nodes: N-426
 
 Investigative Direction: Cross-reference Tim Pool's original broadcast to verify timestamp and context; host's response is rhetorical commentary rather than artifact-anchored.
 
@@ -594,7 +594,7 @@ Claim: In the audio clip, Tim Pool states that he visited Candace Owens' home, o
 
 Anchored Artifacts: A-1524.1
 
-Related Nodes: N-520
+Related Nodes: N-426
 
 Investigative Direction: Verify Tim Pool's statement against the original broadcast and any public statements he has made about visiting the home.
 

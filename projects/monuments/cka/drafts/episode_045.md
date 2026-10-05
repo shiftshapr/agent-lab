@@ -34,8 +34,8 @@
 ### Episode 45 Ledger Summary
 - Artifact Families Introduced: A-1525, A-1526, A-1527, A-1528, A-1529, A-1530, A-1531, A-1532
 - Claim Range: C-1897–C-1911
-  - New Nodes Introduced: N-527, N-528, N-1403, N-1404
-  - Reused Nodes Appearing: N-1, N-1004
+  - New Nodes Introduced: N-527, N-1403, N-1404
+  - Reused Nodes Appearing: N-1004
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-1004 (Erica Kirk), and references to other recurring figures by name (Tucker Carlson, Theo Von, Harris Faulkner, Sergio Gor, Bari Weiss, Milo Yiannopoulos, Blake Nef, Harry, Brian Harpole, Rob McCoy, Mikey, Josh Hammer, Pam Bondi, Tim Pool, Jordan Peterson, Bethany Frankel, Mark, Tara Cross)
 
 ---
@@ -73,7 +73,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:06:28
 Confidence Level: High
 
-*Related: C-1899, N-1, N-1004*
+*Related: C-1899, N-1004*
 
 ---
 
@@ -102,7 +102,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:24:45
 Confidence Level: High
 
-*Related: C-1902, N-1, N-1004, Tucker Carlson (existing node)*
+*Related: C-1902, N-1004, Tucker Carlson (existing node)*
 
 **A-1528.3** Audio Clip: Tucker Carlson states people posted on X predicting Charlie Kirk would be killed on a specific date before the assassination; asks whether those posters have been interviewed by FBI
 Event Timestamp: 00:00:00–00:00:01
@@ -165,7 +165,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:55:36
 Confidence Level: High
 
-*Related: C-1911, N-1, N-1004*
+*Related: C-1911, N-1004*
 
 **A-1531.3** Comment by Lulu Mallerie: "The more I watch, the more fake and gay things are. We all have been given the light of Christ to discern truth from lies..."
 Event Timestamp: 00:00:00–00:00:01
@@ -211,7 +211,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:40:00
 Confidence Level: High
 
-*Related: C-1907, N-528*
+*Related: C-1907, N-518*
 
 ---
 
@@ -256,7 +256,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-528** Captain Adam Nef
+**N-518** Captain Adam Nef
 
 Positively identified in this episode as the U.S. Army captain of the 10th Mountain Division who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025. Distinct from Blake Nef (Fox News personality mentioned in same episode).
 
@@ -339,7 +339,7 @@ Claim Timestamp: 00:06:28
 Claim: Erika Kirk published a video on Instagram showing her at Charlie Kirk's casket saying "I love you, I love you, I love you" with another person responding "God bless you."
 
 Anchored Artifacts: A-1526.1
-Related Nodes: N-1, N-1004
+Related Nodes: N-1004
 
 Investigative Direction: Obtain archived Instagram post metadata, timestamp, and current status (public, private, deleted); verify any deletion history.
 
@@ -378,7 +378,7 @@ Claim Timestamp: 00:24:45
 Claim: Tucker Carlson stated on the Theo Von podcast that the claim of a disproportionately large number of foreign-registered cell phones at the Charlie Kirk event was "true."
 
 Anchored Artifacts: A-1528.2
-Related Nodes: N-1, N-1004, Tucker Carlson (existing node)
+Related Nodes: N-1004, Tucker Carlson (existing node)
 
 Investigative Direction: Seek cell tower records or ping data through legal process; identify any carrier records of foreign-registered IMSI devices near the venue.
 
@@ -443,7 +443,7 @@ Claim Timestamp: 00:40:00
 Claim: The captain who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025, has been positively identified as Adam Nef of the U.S. Army's 10th Mountain Division.
 
 Anchored Artifacts: A-1532.2
-Related Nodes: N-528, Fort Huachuca Meeting Investigation (existing node)
+Related Nodes: N-518, Fort Huachuca Meeting Investigation (existing node)
 
 Investigative Direction: Verify Adam Nef's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters.
 
@@ -495,7 +495,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: The host explicitly agrees with Merryill Gerston Meyer's thesis that Erika Kirk's moral outrage is manufactured for an elite target audience rather than grassroots supporters, and with Laughing Cats Music World's thesis that criticism of corrupt Jewish actors is distinct from antisemitism.
 
 Anchored Artifacts: A-1531.2, A-1531.4
-Related Nodes: N-1, N-1004
+Related Nodes: N-1004
 
 Investigative Direction: Track pattern of Erika Kirk's public appearances to determine whether audience composition supports or contradicts the elite-audience thesis.
 
@@ -524,7 +524,7 @@ Investigative Direction: Track pattern of Erika Kirk's public appearances to det
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle
-- [x] People nodes use global people ledger (N-1, N-1004, N-527, N-528)
+- [x] People nodes use global people ledger (N-1004, N-527, N-518)
 - [x] Non-person investigation targets use 1000 series (N-1403, N-1404)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly or uncertainty noted (Nef, Wuka/Huachuca, Erika/Erica)

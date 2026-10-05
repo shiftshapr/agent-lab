@@ -35,7 +35,7 @@
             "C-1246"
           ],
           "related_nodes": [
-            "N-7",
+            "N-3",
             "N-110",
             "N-111",
             "N-112",
@@ -295,7 +295,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "video_timestamp": "00:55:42–00:57:43",
@@ -319,7 +319,7 @@
             "C-1260"
           ],
           "related_nodes": [
-            "N-79"
+            "N-5"
           ],
           "tags": [],
           "video_timestamp": "01:01:02–01:02:30",
@@ -358,8 +358,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the show and primary investigator in the Candace Kirk Archive series.",
@@ -684,8 +684,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-79",
-      "ref": "N-79",
+      "@id": "N-5",
+      "ref": "N-5",
       "name": "Donald Trump",
       "type": "person",
       "description": "President; audio statement on MMR separation and Hepatitis B delay played in the episode.",
@@ -891,7 +891,7 @@
       "@type": "Person",
       "@id": "N-134",
       "ref": "N-134",
-      "name": "Bob Shaman",
+      "name": "Bob Shulman",
       "type": "person",
       "description": "TPUSA donor referenced in same FARA-suspicion chain.",
       "related_artifacts": [
@@ -1660,7 +1660,7 @@
         "N-42",
         "N-1",
         "N-50",
-        "N-7",
+        "N-3",
         "N-1172"
       ],
       "tags": [],
@@ -1680,7 +1680,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-7",
+        "N-3",
         "N-1172"
       ],
       "tags": [],
@@ -1699,7 +1699,7 @@
         "A-1153.1"
       ],
       "related_nodes": [
-        "N-79"
+        "N-5"
       ],
       "tags": [],
       "claim_timestamp": "01:01:02",
@@ -1828,7 +1828,7 @@
         {
           "episode": 8,
           "video_timestamp": "00:49:03",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "I am not equipped to be the CEO of my little tiny company... I worry I really do worry... just pray for Erika",
           "context": "Host asks viewers to pray for Erika taking on CEO/chairman role alone.",
           "confidence": "medium",
@@ -1848,7 +1848,7 @@
         {
           "episode": 8,
           "video_timestamp": "00:39:55",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "I said the joke that I said to Charlie, take the next step. You're too smart to be a Protestant.",
           "context": "Host defends egging Charlie on toward Catholicism.",
           "confidence": "high",
@@ -1879,7 +1879,7 @@
         {
           "episode": 8,
           "video_timestamp": "01:03:11",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "the evildoers in this world. The psychopaths that have been poisoning us for generations",
           "context": "Vaccine/school segment.",
           "confidence": "high",
@@ -1890,7 +1890,7 @@
         {
           "episode": 8,
           "video_timestamp": "01:04:41",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "we have to be radical because the psychopaths that rule the world are radical",
           "context": "Calls for parents to withdraw children from schools.",
           "confidence": "high",
@@ -1910,7 +1910,7 @@
         {
           "episode": 8,
           "video_timestamp": "01:00:33",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "how much they lie and delude. And we have all of this fear-based reaction... accepting what is poison",
           "context": "Anti-vax commentary framing vaccines as poison and 'science' as cover for harm.",
           "confidence": "high",
@@ -1930,7 +1930,7 @@
         {
           "episode": 8,
           "video_timestamp": "00:03:17",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "I guess that's just coincidental",
           "context": "Host notes that none of the eyewitnesses appear to be UVU students.",
           "confidence": "high",

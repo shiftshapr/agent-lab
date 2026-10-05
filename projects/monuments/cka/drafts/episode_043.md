@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: a0bc3eb2ea2af5020423c10e7e02d4d3bb05ac5892b4c56a9ad9bdc3ed449838
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-497, N-498, N-499, N-500, N-501, N-502, N-503, N-504, N-505, N-506, N-507, N-508, N-509, N-510, N-511, N-512, N-513, N-514, N-515, N-1387, N-1388, N-1389, N-1390, N-1391, N-1392, N-1393, N-1394, N-1395, N-1396
-  - Reused Nodes Appearing: N-1, N-1003
+  - New Nodes Introduced:  N-499, N-500, N-501, N-502, N-503, N-504, N-505, N-506, N-508, N-509, N-512, N-513, N-1387, N-1388, N-1389, N-1390, N-1391, N-1392, N-1393, N-1394, N-1395, N-1396
+  - Reused Nodes Appearing: N-1003
   - (see registers)
 
 ---
@@ -33,9 +33,9 @@
 - **Ledger continuation summary:**
   - Artifact Families Introduced: A-1513, A-1514, A-1515, A-1516, A-1517, A-1518
   - Claim Range: C-1862–C-1879
-  - New Nodes Introduced (people): N-497 through N-515
+  - New Nodes Introduced (people):  through 
   - New Nodes Introduced (investigation targets): N-1387 through N-1396
-  - Existing Nodes Reused: N-1, N-1003, N-7
+  - Existing Nodes Reused: N-1003, N-3
 
 ---
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:07:33–00:08:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1864, N-497, N-498, N-1387*
+*Related: C-1864, N-102, N-75, N-1387*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:30:18–00:33:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video exists; result of test as shown)
 
-*Related: C-1872, C-1873, N-503, N-1390, N-514, N-515*
+*Related: C-1872, C-1873, N-503, N-1390, N-97, N-267*
 
 ---
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:37:36–00:38:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1879, N-1, N-1003*
+*Related: C-1879, N-1003*
 
 **A-1518.2** Viewer comment from "Assad O Bros": testimony that watching the "Brigitte series" led to purchasing a first Bible
 
@@ -151,7 +151,7 @@ Video Timestamp: 00:38:23–00:39:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as a viewer-statement artifact; not as a substantive investigative claim)
 
-*Related: N-7*
+*Related: N-3*
 
 **A-1518.3** Viewer comment from "Diana Sheen": question whether TPUSA employees must stay silent if crime is involved
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:39:37–00:40:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1879, N-1, N-1003*
+*Related: C-1879, N-1003*
 
 **A-1518.4** Viewer comment from "AZ Master Baker": dates given for Erika with Bari Weiss (13th), TPUSA podcast (15th), TPUSA AmFest (18th)
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:40:18–00:41:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (dates as stated by commenter)
 
-*Related: C-1877, N-1003, N-511*
+*Related: C-1877, N-1003, N-444*
 
 **A-1518.5** Viewer comment from "CCXX": references life insurance taken out on Charlie Kirk and $1.5 million routing; mentions Daily Mail story on life insurance
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:41:02–00:41:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (existence of Daily Mail story as cited)
 
-*Related: C-1878, C-1879, N-1, N-1003, N-1393*
+*Related: C-1878, C-1879, N-1003, N-1393*
 
 **A-1518.6** Viewer comment from "Laughing Cats Music World" — referenced but contents not read in full (request for post to TPUSA asking specific questions)
 
@@ -262,7 +262,7 @@ Investigative Pressure: (existing)
 
 ---
 
-**N-497** Kash Patel
+**N-102** Kash Patel
 
 FBI Director interviewed by Megyn Kelly; declined to address French involvement allegation directly.
 
@@ -271,11 +271,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1514.1, C-1864, N-498, N-1387*
+*Related: A-1514.1, C-1864, N-75, N-1387*
 
 ---
 
-**N-498** Megyn Kelly
+**N-75** Megyn Kelly
 
 Journalist who interviewed Kash Patel on the Macron couple and Kirk assassination questions.
 
@@ -284,7 +284,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1514.1, C-1864, N-497*
+*Related: A-1514.1, C-1864, N-102*
 
 ---
 
@@ -353,7 +353,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-507** Dan Flood
+**N-434** Dan Flood
 
 Security professional positioned to Charlie Kirk's right; per host's tip, received a message from Charlie the night before the assassination.
 
@@ -362,11 +362,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1864 (Patel) — adjacent, N-1, N-1391*
+*Related: C-1864 (Patel) — adjacent, N-1391*
 
 ---
 
-**N-510** John Mappin
+**N-217** John Mappin
 
 Referenced by viewer comment "fam"; author of "The Perfumed Pervert" essay.
 
@@ -379,7 +379,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-511** Bari Weiss
+**N-444** Bari Weiss
 
 Journalist; referenced by viewer comment as having Erika Kirk on her show on the 13th.
 
@@ -405,7 +405,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-514** Mel ("Village Crazy Lady")
+**N-97** Village Crazy Lady
 
 Social media user who brought the Jesse Kege video to the host's attention.
 
@@ -418,7 +418,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-515** Ryan Matta
+**N-267** Ryan Matta
 
 Social media user who brought the Jesse Kege video to the host's attention.
 
@@ -442,7 +442,7 @@ Claim Count: 1
 Episode Count: (existing)
 Investigative Pressure: High
 
-*Related: A-1514.1, C-1864, N-497, N-498*
+*Related: A-1514.1, C-1864, N-102, N-75*
 
 ---
 
@@ -468,7 +468,7 @@ Claim Count: 0
 Episode Count: (existing)
 Investigative Pressure: (framing — does not meet admission test)
 
-*Related: N-7*
+*Related: N-3*
 
 ---
 
@@ -494,7 +494,7 @@ Claim Count: 1
 Episode Count: (existing)
 Investigative Pressure: High
 
-*Related: N-1, N-507*
+*Related: N-1, N-434*
 
 ---
 
@@ -520,7 +520,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1518.5, C-1878, N-1, N-1003*
+*Related: A-1518.5, C-1878, N-1003*
 
 ---
 
@@ -585,7 +585,7 @@ Claim Timestamp: 00:02:03
 Claim: In the same May 2025 clip, Charlie Kirk named Lyndon Baines Johnson, parts of the US government, and Cubans as actors who wanted JFK dead.
 
 Anchored Artifacts: A-1513.1
-Related Nodes: N-1, N-510
+Related Nodes: N-1, N-217
 
 Investigative Direction: Obtain the full source clip to verify Kirk's exact phrasing and identify the venue and interviewer.
 
@@ -598,7 +598,7 @@ Claim Timestamp: 00:07:33–00:08:21
 Claim: When Megyn Kelly directly asked FBI Director Kash Patel whether the French were involved in Charlie Kirk's assassination, Patel did not address the allegation and instead spoke in general terms about investigating threats to any American.
 
 Anchored Artifacts: A-1514.1
-Related Nodes: N-497, N-498, N-1387
+Related Nodes: N-102, N-75, N-1387
 
 Investigative Direction: Obtain the full unedited Megyn Kelly / Kash Patel interview segment to verify exact wording and identify any non-verbal cues or follow-up questions.
 
@@ -769,7 +769,7 @@ Claim Timestamp: 00:40:18–00:41:02
 Claim: A viewer comment provides dates for upcoming Erika Kirk media appearances (Bari Weiss on the 13th, TPUSA podcast on the 15th, AmFest on the 18th).
 
 Anchored Artifacts: A-1518.4
-Related Nodes: N-1003, N-511
+Related Nodes: N-1003, N-444
 
 Investigative Direction: Verify against publicly available event listings and episode announcements.
 
@@ -782,7 +782,7 @@ Claim Timestamp: 00:41:02–00:41:57
 Claim: A viewer comment references a Daily Mail story on the life insurance policy on Charlie Kirk's life; the host acknowledges the report.
 
 Anchored Artifacts: A-1518.5
-Related Nodes: N-1, N-1003, N-1393
+Related Nodes: N-1003, N-1393
 
 Investigative Direction: Locate the Daily Mail article and confirm policy details, beneficiary, and amount.
 
@@ -795,7 +795,7 @@ Claim Timestamp: 00:37:36–00:41:02
 Claim: Viewer comments (Jo Ann, Diana Sheen, CCXX) collectively assert that TPUSA personnel had foreknowledge or related suspicions prior to the assassination and have not publicly disclosed them.
 
 Anchored Artifacts: A-1518.1, A-1518.3, A-1518.5
-Related Nodes: N-1, N-1003, N-1391, N-507
+Related Nodes: N-1003, N-1391, N-434
 
 Investigative Direction: Cross-reference against depositions, congressional testimony, and investigative reporting.
 
@@ -824,9 +824,9 @@ A-1513, A-1514, A-1515, A-1516, A-1517, A-1518
 **Claim Range:** C-1862–C-1879
 
 **New Nodes Introduced (people):**
-N-497 (Kash Patel), N-498 (Megyn Kelly), N-499 (Pierre Falcone), N-500 (Arcadi Gaydamak), N-501 (Jean-Christophe Mitterrand), N-502 (François Mitterrand), N-503 (Jesse Kege), N-504 (Milo Yiannopoulos), N-505 (Tim Pool), N-506 (George Santos), N-507 (Dan Flood), N-508 (Frank Turek), N-509 (Nick Fuentes), N-510 (John Mappin), N-511 (Bari Weiss), N-512 (Hodge Twins), N-513 (Tucker Carlson), N-514 (Mel / Village Crazy Lady), N-515 (Ryan Matta)
+N-102 (Kash Patel), N-75 (Megyn Kelly), N-499 (Pierre Falcone), N-500 (Arcadi Gaydamak), N-501 (Jean-Christophe Mitterrand), N-502 (François Mitterrand), N-503 (Jesse Kege), N-504 (Milo Yiannopoulos), N-505 (Tim Pool), N-506 (George Santos), N-434 (Dan Flood), N-508 (Frank Turek), N-509 (Nick Fuentes), N-217 (John Mappin), N-444 (Bari Weiss), N-512 (Hodge Twins), N-513 (Tucker Carlson), N-97 (Mel / Village Crazy Lady), N-267 (Ryan Matta)
 
 **New Nodes Introduced (investigation targets):**
 N-1387, N-1388, N-1390, N-1391, N-1392, N-1393, N-1394, N-1395, N-1396
 
-**Existing Nodes Reused:** N-1, N-1003, N-7
+**Existing Nodes Reused:** N-1003, N-3

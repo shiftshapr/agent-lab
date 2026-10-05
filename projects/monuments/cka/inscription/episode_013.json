@@ -32,7 +32,7 @@
           ],
           "related_nodes": [
             "N-69",
-            "N-189",
+            "N-183",
             "N-200",
             "N-1218"
           ],
@@ -61,7 +61,7 @@
           ],
           "related_nodes": [
             "N-69",
-            "N-190",
+            "N-71",
             "N-1223"
           ],
           "tags": [],
@@ -81,7 +81,7 @@
           ],
           "related_nodes": [
             "N-69",
-            "N-190"
+            "N-71"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -453,9 +453,9 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-189",
-      "ref": "N-189",
-      "name": "Shainer Broadick",
+      "@id": "N-183",
+      "ref": "N-183",
+      "name": "Shainer Broderick",
       "type": "person",
       "description": "Family member of Phil Lyman who recorded footage at the Lyman property reviewing the shooter's route, deleted his social media after contact, and is named by host as the source of the camera footage clip played on air.",
       "related_artifacts": [
@@ -476,8 +476,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-190",
-      "ref": "N-190",
+      "@id": "N-71",
+      "ref": "N-71",
       "name": "George Zinn",
       "type": "person",
       "description": "Local figure who appears as one of ~20 featured endorsements on Phil Lyman's campaign website; the endorsement has been publicly accessible since at least 2024-06-06 per Wayback.",
@@ -695,7 +695,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-189",
+        "N-183",
         "N-69",
         "N-1218"
       ]
@@ -722,7 +722,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-200",
-        "N-189"
+        "N-183"
       ]
     },
     {
@@ -871,7 +871,7 @@
       ],
       "related_nodes": [
         "N-1218",
-        "N-189",
+        "N-183",
         "N-200"
       ],
       "tags": [],
@@ -890,7 +890,7 @@
       ],
       "related_nodes": [
         "N-69",
-        "N-190"
+        "N-71"
       ],
       "tags": [],
       "claim_timestamp": "00:03:00",
@@ -922,7 +922,7 @@
         "A-1196.1"
       ],
       "related_nodes": [
-        "N-189",
+        "N-183",
         "N-200",
         "N-69",
         "N-1218"

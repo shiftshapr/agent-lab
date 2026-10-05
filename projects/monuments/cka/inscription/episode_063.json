@@ -116,7 +116,7 @@
             "C-2202"
           ],
           "related_nodes": [
-            "N-791",
+            "N-724",
             "N-1"
           ],
           "tags": [],
@@ -488,8 +488,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-791",
-      "ref": "N-791",
+      "@id": "N-724",
+      "ref": "N-724",
       "name": "Bill Montgomery",
       "type": "person",
       "description": "Co-founder of Turning Point USA per the Atlantic article (A-1678.1); described by host as Air Force reserves, from Lincoln, Nebraska, and connected to Helen Barts and the founding of Creative Children's Academy.",
@@ -769,7 +769,7 @@
         "A-1678.1"
       ],
       "related_nodes": [
-        "N-791",
+        "N-724",
         "N-1"
       ],
       "tags": [],

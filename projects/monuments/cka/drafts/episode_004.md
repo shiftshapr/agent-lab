@@ -17,8 +17,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1104, A-1105, A-1106, A-1107, A-1108, A-1109, A-1110
   - Claim Range: C-1175-C-1185
-  - New Nodes Introduced: N-45, N-101, N-102, N-103, N-104, N-105, N-1103, N-1104, N-1105, N-1106, N-1107, N-1108, N-1109, N-1110, N-1111, N-1112
-  - Reused Nodes Appearing: N-1, N-2, N-7, N-50, N-65, N-68, N-69, N-71, N-75, N-84, N-86, N-99
+  - New Nodes Introduced: N-45, N-102, N-103, N-104, N-1103, N-1104, N-1105, N-1106, N-1107, N-1108, N-1109, N-1110, N-1111, N-1112
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-50, N-65, N-68, N-69, N-71, N-75, N-84, N-86, N-99
 
 ## 2. Executive Summary
 
@@ -105,21 +105,21 @@ Confidence: high
 **A-1105.1** FBI Sept 11 morning press conference announcing recovery of high-powered bolt-action rifle in wooded area.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:22:37
-*Related: C-1179, N-101*
+*Related: C-1179, N-70*
 Transcript Snippet: this morning, I can tell you that we have recovered what we believe is the weapon… high-powered bolt-action rifle.
 Confidence: high
 
 **A-1105.2** Governor Cox Sept 12 press conference: Robinson in 'consistent clothing' with morning surveillance; UVU arrival 8:29 AM in gray Dodge Challenger.
 Event Timestamp: 2025-09-12
 Video Timestamp: 00:35:41
-*Related: C-1182, N-101*
+*Related: C-1182, N-70*
 Transcript Snippet: Robinson was observed in consistent clothing with those surveillance images.
 Confidence: high
 
 **A-1105.3** Trump on Fox and Friends at ~6:00 AM: 'with a high degree of certainty we have him.'
 Event Timestamp: 2025-09-12
 Video Timestamp: 00:34:32
-*Related: C-1181, N-7*
+*Related: C-1181, N-3*
 Transcript Snippet: with a high degree of certainty we have him. in custody.
 Confidence: high
 
@@ -144,7 +144,7 @@ Confidence: high
 **A-1106.2** TMZ footage: man in maroon t-shirt and shorts walking through neighborhood outside university at 8:07 AM.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:19:15
-*Related: C-1182, C-1183, N-101*
+*Related: C-1182, C-1183, N-70*
 Transcript Snippet: TMZ shows us the footage, remember, of the man wearing a maroon t-shirt and shorts.
 Confidence: high
 
@@ -187,7 +187,7 @@ Confidence: high
 **A-1108.1** Rob McCoy statement on Candace Owens investigation, citing biblical proverb 'A friend loves at all times.'
 Event Timestamp: 2026-03-17
 Video Timestamp: 01:13:49
-*Related: C-1185, N-45, N-1, N-7*
+*Related: C-1185, N-45, N-1, N-3*
 Transcript Snippet: I only wish at this tragic time of mourning she would be the friend to Charlie Kirk that he was to her.
 Confidence: high
 
@@ -209,7 +209,7 @@ Confidence: high
 **A-1110.1** UVU surveillance: Robinson arriving on campus in gray Dodge Challenger at 8:29 AM in maroon t-shirt, light shorts, black hat.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:36:22
-*Related: C-1182, C-1183, N-101, N-69*
+*Related: C-1182, C-1183, N-70, N-69*
 Transcript Snippet: identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m.
 Confidence: high
 
@@ -244,7 +244,7 @@ Victim; subject of posthumous donor-intimidation narrative.
 
 ---
 
-**N-7** Candace Owens
+**N-3** Candace Owens
 
 Node Type: Person
 Host; presenter of analysis and source of alleged insider claims.
@@ -271,7 +271,7 @@ Initial suspect ('the decoy boy') released hours later; central to host's multi-
 
 ---
 
-**N-101** Governor Spencer Cox
+**N-70** Spencer Cox
 
 Node Type: Person
 Utah governor; press conference source for outfit consistency claim; subject of host's 'mouthpiece' criticism.
@@ -354,7 +354,7 @@ Congressman confirming Tucker's claims via tweet.
 
 ---
 
-**N-105** Seth Dillon
+**N-67** Seth Dillon
 
 Node Type: Person
 Babylon Bee CEO cited as pressuring Charlie to disinvite Candace.
@@ -577,7 +577,7 @@ Claim Timestamp: 00:37:45
 Claim: Governor Cox's statement that Robinson wore the same maroon outfit for 33 hours is contradicted by host's source, who alleges a different outfit at pickup.
 Transcript Snippet: for 33 hours he decided that he was going to keep the outfit on… always sounded dumb to us.
 Anchored Artifacts: A-1105.2, A-1106.2, A-1110.1
-Related Nodes: N-101, N-1107, N-1111
+Related Nodes: N-70, N-1107, N-1111
 Confidence: low
 Uncertainty: Source-based claim; no independent corroboration presented in episode.
 Investigative Direction: Demand booking photos and any surveillance of Robinson at time of pickup; compare to the 8:07/8:29 AM maroon-shirt imagery.
@@ -616,7 +616,7 @@ Claim Timestamp: 00:58:39
 Claim: Donors financially threatened Charlie Kirk over inviting Candace Owens to a Turning Point conference, costing him a $2M donation two days before his death.
 Transcript Snippet: two days before he died, he lost a $2 million donation… people are really mad.
 Anchored Artifacts: A-1107.1, A-1107.2, A-1107.3, A-1109.1
-Related Nodes: N-1, N-65, N-45, N-50, N-75, N-104, N-105, N-86, N-1112, N-7
+Related Nodes: N-1, N-65, N-45, N-50, N-75, N-104, N-67, N-86, N-1112, N-3
 Confidence: medium
 Investigative Direction: Verify $2M donation withdrawal via Turning Point USA financial records; obtain donor correspondence threads.
 
@@ -629,7 +629,7 @@ Investigative Direction: Verify $2M donation withdrawal via Turning Point USA fi
 ### Occurrence 1
 
 Video Timestamp: 01:22:31
-Speaker: N-7
+Speaker: N-3
 Quote: like his wife said, evildoers evildoers have done some things
 Context: Candace quoting Erika Kirk while vowing to continue investigating despite mourning-period pushback.
 Tags: grief_framing
@@ -642,7 +642,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 01:03:47
-Speaker: N-7
+Speaker: N-3
 Quote: it takes a truly demonic spirit… to flip in one second after he dies and say, 'Pretend it never happened.'
 Context: Candace describing donors/eulogizers who she claims pressured Charlie before his death.
 Tags: moral_framing
@@ -664,7 +664,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:15:32
-Speaker: N-7
+Speaker: N-3
 Quote: That is why I am now a confirmed conspiracy theorist on this.
 Context: Candace self-labeling after noting the alleged 'changed outfits' language in texts.
 Tags: self_label
@@ -673,7 +673,7 @@ Confidence: high
 ### Occurrence 2
 
 Video Timestamp: 01:16:01
-Speaker: N-7
+Speaker: N-3
 Quote: I feel like this is a conspiracy, a federal level conspiracy
 Context: Reasserting conspiracy framing against pastor's plea to stop investigating.
 Tags: macro_claim
@@ -686,7 +686,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 01:13:55
-Speaker: N-7
+Speaker: N-3
 Quote: this is exactly what Charlie's pastor passed around… Charlie's pastor couldn't find his voice when BBNet and Yahoo was lying about Charlie
 Context: Candace accuses Rob McCoy of selectively using pastoral authority against her rather than against Netanyahu critics.
 Tags: religious_authority

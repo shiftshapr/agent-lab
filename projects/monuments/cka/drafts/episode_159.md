@@ -13,9 +13,9 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2360, N-2361, N-2362, N-2363, N-2364, N-10007, N-10008, N-10009, N-10010, N-10011, N-10012, N-10013, N-10014, N-10015, N-10016, N-10017, N-10018, N-10019, N-10020, N-10021, N-10022
-  - Reused Nodes Appearing: N-1, N-2, N-7, N-35, N-50, N-65, N-66, N-69, N-75, N-79, N-102, N-117, N-120, N-134, N-214, N-272, N-299, N-435, N-542, N-696, N-749, N-755, N-796, N-848, N-867, N-898, N-992, N-1098, N-1121, N-1395, N-1459, N-2329, N-2350, N-2351, N-2354, N-2355, N-2357, N-2359, N-10001, N-10004, N-10006
+  - Reused Nodes Appearing: N-1, N-2, N-35, N-50, N-65, N-66, N-69, N-75, N-5, N-102, N-117, N-120, N-134, N-42, N-272, N-435, N-326, N-696, N-424, N-16, N-796, N-434, N-867, N-898, N-224, N-1098, N-1121, N-1395, N-1459, N-2329, N-2350, N-2351, N-2354, N-2355, N-2357, N-2359, N-10001, N-10004, N-10006
   - (see registers)
-  - Person band: persons minted in this quality pass use N-10000+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dylan stays N-443 and N-769. Karoline Leavitt stays N-446. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.
+  - Person band: persons minted in this quality pass use N-10000+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dylan stays N-443 and N-443. Karoline Leavitt stays N-446. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.
 
 # Episode 159 Analysis
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:15:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (document as shown); Medium (payment-total discrepancy interpretation)
 
-*Related: C-3609, N-2361, N-1, N-10011*
+*Related: C-3609, N-2361, N-10011*
 
 ---
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (document as shown)
 
-*Related: C-3610, N-2361, N-2354, N-2351, N-1, N-10007*
+*Related: C-3610, N-2361, N-2354, N-2351, N-10007*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:29:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (as attributed to NYT); verify against primary article/book
 
-*Related: C-3612, N-2362, N-1395, N-299, N-102, N-120, N-867, N-79, N-10015*
+*Related: C-3612, N-2362, N-1395, N-4, N-102, N-120, N-867, N-5, N-10015*
 
 ---
 
@@ -158,7 +158,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-7** Candace Owens
+**N-3** Candace Owens
 
 Host; target of smear context continued from Ep 158; Epstein-series author in concurrent timeline.
 
@@ -242,7 +242,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-79** Donald Trump
+**N-5** Donald Trump
 
 Feb Brigitte calls; June Iran decision; July angry call to Charlie over SAS “Epstein grievance fest”; absent from several Epstein situation-room meetings per NYT.
 
@@ -290,7 +290,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-134** Bob Shaman
+**N-134** Bob Shulman
 
 Named among donors pulling millions after SAS/Tucker Epstein remarks (host “Bob Showman” pronunciation).
 
@@ -302,7 +302,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-214** Andrew Kovette
+**N-42** Andrew Kolvet
 
 Chyros partner Johnny Moore link; prior PR path; contrasted with Andrew Wilson as improper leak recipient.
 
@@ -326,7 +326,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-299** J.D. Vance
+**N-4** JD Vance
 
 Described as only in-room advocate for fuller Epstein file release in NYT-reported meetings.
 
@@ -346,11 +346,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-2329, N-848*
+*Related: C-3611, N-2329, N-434*
 
 ---
 
-**N-542** Elizabeth McCoy
+**N-326** Eliza McCoy
 
 Joined Maine vacation; final-footage context.
 
@@ -370,11 +370,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-214*
+*Related: C-3611, N-42*
 
 ---
 
-**N-749** Brian Harpole
+**N-424** Brian Harpole
 
 Aug 24 security-planning claim without UVU inclusion per review.
 
@@ -386,7 +386,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-755** Frank Turk
+**N-16** Frank Turek
 
 Feb 12 Nebraska Lincoln speech; July 11 website deletion note in timeline.
 
@@ -410,7 +410,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-848** Dan Flood
+**N-434** Dan Flood
 
 Sept 3 contact established with Chief Long per independent review timeline recap.
 
@@ -446,7 +446,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-992** Blake Neff
+**N-224** Blake Neff
 
 Closing joke comment; continuity with communicator critique.
 
@@ -850,7 +850,7 @@ Claim: Host displays a February 2025 contract under which Why Refi pays TPUSA ~$
 
 Anchored Artifacts: A-2467.1
 
-Related Nodes: N-2361, N-1, N-1459, N-10007, N-10008, N-10009, N-10010, N-10011
+Related Nodes: N-2361, N-1459, N-10007, N-10008, N-10009, N-10010, N-10011
 
 Investigative Direction: Hash/store contract PDFs; verify signatories and whether theater construction completed; note conflict-of-interest allegations as unproven.
 
@@ -864,7 +864,7 @@ Claim: Despite the February master deal already covering the year, a July 25 add
 
 Anchored Artifacts: A-2468.1, A-2467.1
 
-Related Nodes: N-2361, N-2354, N-2351, N-134, N-1, N-10007
+Related Nodes: N-2361, N-2354, N-2351, N-134, N-10007
 
 Investigative Direction: Confirm addendum execution date and wire evidence; separate confirmed contract terms from hearsay that Why Refi picked UVU.
 
@@ -878,7 +878,7 @@ Claim: Host argues Macron/Brigitte pressure calls, June Iran debate/Instagram pu
 
 Anchored Artifacts: A-2469.1
 
-Related Nodes: N-2362, N-2354, N-2351, N-2359, N-1098, N-79, N-898, N-117, N-65, N-755, N-10014
+Related Nodes: N-2362, N-2354, N-2351, N-2359, N-1098, N-5, N-898, N-117, N-65, N-16, N-10014
 
 Investigative Direction: Source each bullet to primary docs; mark inference edges explicitly; do not treat composite as single proven conspiracy.
 
@@ -892,7 +892,7 @@ Claim: Citing New York Times reporting by Maggie Haberman and Jonathan Swan, hos
 
 Anchored Artifacts: A-2470.1
 
-Related Nodes: N-2362, N-1395, N-35, N-299, N-102, N-120, N-867, N-79, N-10015, N-10016, N-10017, N-10018, N-10019, N-10020, N-10021, N-10022
+Related Nodes: N-2362, N-1395, N-35, N-4, N-102, N-120, N-867, N-5, N-10015, N-10016, N-10017, N-10018, N-10019, N-10020, N-10021, N-10022
 
 Investigative Direction: Pull primary NYT passages; verify attendee lists; keep “murdered over Epstein” as host hypothesis only.
 

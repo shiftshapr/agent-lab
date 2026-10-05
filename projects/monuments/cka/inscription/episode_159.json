@@ -142,11 +142,11 @@
           "related_nodes": [
             "N-2362",
             "N-1395",
-            "N-299",
+            "N-4",
             "N-102",
             "N-120",
             "N-867",
-            "N-79"
+            "N-5"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -289,8 +289,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host; target of smear context continued from Ep 158; Epstein-series author in concurrent timeline.",
@@ -433,8 +433,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-79",
-      "ref": "N-79",
+      "@id": "N-5",
+      "ref": "N-5",
       "name": "Donald Trump",
       "type": "person",
       "description": "Feb Brigitte calls; June Iran decision; July angry call to Charlie over SAS “Epstein grievance fest”; absent from several Epstein situation-room meetings per NYT.",
@@ -517,7 +517,7 @@
       "@type": "Person",
       "@id": "N-134",
       "ref": "N-134",
-      "name": "Bob Shaman",
+      "name": "Bob Shulman",
       "type": "person",
       "description": "Named among donors pulling millions after SAS/Tucker Epstein remarks (host “Bob Showman” pronunciation).",
       "related_artifacts": [],
@@ -536,9 +536,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-214",
-      "ref": "N-214",
-      "name": "Andrew Kovette",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Chyros partner Johnny Moore link; prior PR path; contrasted with Andrew Wilson as improper leak recipient.",
       "related_artifacts": [],
@@ -575,9 +575,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-299",
-      "ref": "N-299",
-      "name": "J.D. Vance",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
       "type": "person",
       "description": "Described as only in-room advocate for fuller Epstein file release in NYT-reported meetings.",
       "related_artifacts": [
@@ -610,14 +610,14 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2329",
-        "N-848"
+        "N-434"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-542",
-      "ref": "N-542",
-      "name": "Elizabeth McCoy",
+      "@id": "N-326",
+      "ref": "N-326",
+      "name": "Eliza McCoy",
       "type": "person",
       "description": "Joined Maine vacation; final-footage context.",
       "related_artifacts": [
@@ -647,13 +647,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-214"
+        "N-42"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-749",
-      "ref": "N-749",
+      "@id": "N-424",
+      "ref": "N-424",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Aug 24 security-planning claim without UVU inclusion per review.",
@@ -672,9 +672,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-755",
-      "ref": "N-755",
-      "name": "Frank Turk",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
       "type": "person",
       "description": "Feb 12 Nebraska Lincoln speech; July 11 website deletion note in timeline.",
       "related_artifacts": [],
@@ -712,8 +712,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-848",
-      "ref": "N-848",
+      "@id": "N-434",
+      "ref": "N-434",
       "name": "Dan Flood",
       "type": "person",
       "description": "Sept 3 contact established with Chief Long per independent review timeline recap.",
@@ -771,8 +771,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-992",
-      "ref": "N-992",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Blake Neff",
       "type": "person",
       "description": "Closing joke comment; continuity with communicator critique.",
@@ -1487,11 +1487,11 @@
         "N-2351",
         "N-2359",
         "N-1098",
-        "N-79",
+        "N-5",
         "N-898",
         "N-117",
         "N-65",
-        "N-755"
+        "N-16"
       ],
       "tags": [],
       "claim_timestamp": "00:23:22",
@@ -1510,11 +1510,11 @@
         "N-2362",
         "N-1395",
         "N-35",
-        "N-299",
+        "N-4",
         "N-102",
         "N-120",
         "N-867",
-        "N-79"
+        "N-5"
       ],
       "tags": [],
       "claim_timestamp": "00:29:19",
@@ -1592,7 +1592,7 @@
       ],
       "related_nodes": [
         "N-2360",
-        "N-214",
+        "N-42",
         "N-2",
         "N-1"
       ,

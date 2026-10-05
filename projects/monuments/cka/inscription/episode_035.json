@@ -86,7 +86,7 @@
             "N-429",
             "N-430",
             "N-431",
-            "N-85"
+            "N-70"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -236,7 +236,7 @@
             "C-1752"
           ],
           "related_nodes": [
-            "N-425",
+            "N-16",
             "N-1338"
           ],
           "tags": [],
@@ -309,7 +309,7 @@
           ],
           "related_nodes": [
             "N-427",
-            "N-428"
+            "N-205"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -497,9 +497,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-425",
-      "ref": "N-425",
-      "name": "Frank Turk",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
       "type": "person",
       "description": "TPUSA-affiliated individual who accompanied Charlie; Megan Kelly interview (A-1441.1) describing drones.",
       "related_artifacts": [
@@ -559,8 +559,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-428",
-      "ref": "N-428",
+      "@id": "N-205",
+      "ref": "N-205",
       "name": "Theo Von",
       "type": "person",
       "description": "Guest on Joe Rogan Experience; clip (A-1443.1) discussing conspiracies and Macron.",
@@ -685,9 +685,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-85",
-      "ref": "N-85",
-      "name": "Governor Cox",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
       "related_artifacts": [],
@@ -844,7 +844,7 @@
         "A-1441.1"
       ],
       "related_nodes": [
-        "N-425",
+        "N-16",
         "N-1338"
       ],
       "tags": [],
@@ -929,7 +929,7 @@
       ],
       "related_nodes": [
         "N-427",
-        "N-428"
+        "N-205"
       ],
       "tags": [],
       "claim_timestamp": "00:36:19–00:41:35",

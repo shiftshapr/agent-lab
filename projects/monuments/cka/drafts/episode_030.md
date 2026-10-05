@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 0d2f2dbc9465930cb84c2b757b75f17ff20dc8778189c037661661ce3f8fbc84
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-377, N-378, N-379, N-380, N-381, N-382, N-383, N-384, N-385, N-386, N-387, N-1313, N-1314, N-1315
+  - New Nodes Introduced:  N-382, N-385, N-386, N-1313, N-1314, N-1315
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -35,7 +35,7 @@ Video Timestamp: 04:04:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1667, C-1668, N-377, N-378, N-2*
+*Related: C-1667, C-1668, N-75, N-133, N-2*
 
 ---
 
@@ -49,7 +49,7 @@ Video Timestamp: 06:30:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1671, N-379, N-378*
+*Related: C-1671, N-61, N-133*
 
 ---
 
@@ -77,7 +77,7 @@ Video Timestamp: 12:00:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1670, N-1, N-377*
+*Related: C-1670, N-1, N-75*
 
 ---
 
@@ -91,7 +91,7 @@ Video Timestamp: 32:57:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1672, C-1673, N-380, N-381, N-382*
+*Related: C-1672, C-1673, N-16, N-309, N-382*
 
 **A-1383.2** Photograph of Charlie Kirk, Frank Turk, and Butch Hibbs, stated to have been taken approximately 20 minutes before the shooting.
 
@@ -101,7 +101,7 @@ Video Timestamp: 34:09:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1674, N-380, N-381, N-382, N-1*
+*Related: C-1674, N-16, N-309, N-382, N-1*
 
 ---
 
@@ -115,7 +115,7 @@ Video Timestamp: 32:02:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1672, N-381, N-1314*
+*Related: C-1672, N-309, N-1314*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 37:38:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1677, N-384, N-385, N-383*
+*Related: C-1677, N-314, N-385, N-102*
 
 **A-1385.2** Hen Mazig X post dated September 14, 2025 describing the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.
 
@@ -149,7 +149,7 @@ Video Timestamp: 37:38:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1679, N-385, N-384, N-383*
+*Related: C-1679, N-385, N-314, N-102*
 
 ---
 
@@ -163,7 +163,7 @@ Video Timestamp: 37:38:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1680, N-383, N-384*
+*Related: C-1680, N-102, N-314*
 
 ---
 
@@ -205,13 +205,13 @@ Video Timestamp: 49:13:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text reproduced verbatim)
 
-*Related: C-1681, N-387*
+*Related: C-1681, N-56*
 
 ---
 
 ## 4. Node Register
 
-**N-377** Megyn Kelly
+**N-75** Megyn Kelly
 
 Tour host who publicly corrected Ben Shapiro's claim in a Q&A and released backstage video corroborating Tucker's account of Charlie Kirk's "Go Max" instruction.
 
@@ -224,7 +224,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-378** Ben Shapiro
+**N-133** Ben Shapiro
 
 Subject of Megyn Kelly's on-stage correction and Dave Rubin's "bravery" characterization; alleged to have falsely told Kelly's audience that Candace accused Erica Kirk of murder.
 
@@ -237,7 +237,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-379** Dave Rubin
+**N-61** Dave Rubin
 
 Commentator whose show clip defended Ben Shapiro's appearance on Megyn Kelly's tour as "almost an act of bravery."
 
@@ -250,7 +250,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-380** Frank Turk
+**N-16** Frank Turek
 
 Witness account identifying Butch Hibbs at the UVU event and posing with Charlie Kirk approximately 20 minutes before the shooting.
 
@@ -263,7 +263,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-381** Jack Hibbs
+**N-309** Jack Hibbs
 
 Pastor of a Calvary Chapel in California; identified as Butch Hibbs' brother by Frank Turk.
 
@@ -289,7 +289,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-383** Kash Patel
+**N-102** Kash Patel
 
 FBI Director whose public defense of Alexis Wilkins and whose role in the Wilkins lawsuit are central to the episode's lawsuit discussion.
 
@@ -302,7 +302,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-384** Alexis Wilkins
+**N-314** Alexis Wilkins
 
 Plaintiff in the $5 million lawsuit against content creators including Elijah Schaefer; subject of the Hen Mazig post and the Schaefer photograph response.
 
@@ -341,7 +341,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-387** Kanye West
+**N-56** Kanye West
 
 Subject of a read-aloud historical X post referenced for the phrase "defcon 3 on some Jewish people," invoked as a retrospective parallel to current censorship claims.
 
@@ -389,7 +389,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1385.1, A-1385.2, A-1385.3, C-1677, C-1678, C-1679, N-384, N-385, N-386*
+*Related: A-1385.1, A-1385.2, A-1385.3, C-1677, C-1678, C-1679, N-314, N-385, N-386*
 
 ---
 
@@ -403,7 +403,7 @@ Claim: During an appearance on Megyn Kelly's tour, Ben Shapiro asserted that Can
 
 Anchored Artifacts: A-1379.1
 
-Related Nodes: N-378, N-377, N-2
+Related Nodes: N-133, N-75, N-2
 
 Investigative Direction: Obtain an unedited copy of the Kelly tour Q&A or tour recording to verify the precise wording Shapiro used and the full context.
 
@@ -417,7 +417,7 @@ Claim: During a Q&A on her tour, Megyn Kelly stated that she had since learned C
 
 Anchored Artifacts: A-1379.1
 
-Related Nodes: N-377, N-2
+Related Nodes: N-75, N-2
 
 Investigative Direction: Obtain the full tour Q&A recording to verify Kelly's exact wording and any follow-up.
 
@@ -445,7 +445,7 @@ Claim: Megyn Kelly released a backstage phone video showing Charlie Kirk saying 
 
 Anchored Artifacts: A-1382.1
 
-Related Nodes: N-377, N-1
+Related Nodes: N-75, N-1
 
 Investigative Direction: Locate and preserve the original Megyn Kelly video and any accompanying metadata (time, location).
 
@@ -459,7 +459,7 @@ Claim: Dave Rubin characterized Ben Shapiro's appearance on Megyn Kelly's tour �
 
 Anchored Artifacts: A-1380.1
 
-Related Nodes: N-379, N-378
+Related Nodes: N-61, N-133
 
 Investigative Direction: Obtain the full Dave Rubin segment to verify precise wording and any qualifications.
 
@@ -473,7 +473,7 @@ Claim: Frank Turk identified the previously anonymous older man seen near a bush
 
 Anchored Artifacts: A-1383.1, A-1384.1
 
-Related Nodes: N-380, N-382, N-1314
+Related Nodes: N-16, N-382, N-1314
 
 Investigative Direction: Obtain the full Frank Turk interview, including any prior segments establishing his presence at the event.
 
@@ -487,7 +487,7 @@ Claim: Frank Turk stated that Butch Hibbs is the brother of Pastor Jack Hibbs.
 
 Anchored Artifacts: A-1383.1
 
-Related Nodes: N-382, N-381
+Related Nodes: N-382, N-309
 
 Investigative Direction: Obtain independent genealogical or institutional records (Calvary Chapel directories) confirming the sibling relationship.
 
@@ -501,7 +501,7 @@ Claim: A photograph of Butch Hibbs, Charlie Kirk, and Frank Turk was taken appro
 
 Anchored Artifacts: A-1383.2
 
-Related Nodes: N-382, N-380, N-1
+Related Nodes: N-382, N-16, N-1
 
 Investigative Direction: Obtain the original photograph with EXIF metadata and any photographer's contemporaneous timestamp.
 
@@ -543,7 +543,7 @@ Claim: Alexis Wilkins filed a $5 million lawsuit against Elijah Schaefer and oth
 
 Anchored Artifacts: A-1385.1
 
-Related Nodes: N-384, N-385, N-383, N-1315
+Related Nodes: N-314, N-385, N-102, N-1315
 
 Investigative Direction: Obtain the filed complaint and docket from the relevant court to verify defendants, causes of action, and damages sought.
 
@@ -571,7 +571,7 @@ Claim: Elijah Schaefer responded to the Hen Mazig X post by posting a photograph
 
 Anchored Artifacts: A-1385.3
 
-Related Nodes: N-385, N-384, N-383
+Related Nodes: N-385, N-314, N-102
 
 Investigative Direction: Obtain the original Schaefer post and timestamp via archived snapshots.
 
@@ -585,7 +585,7 @@ Claim: Kash Patel publicly defended Alexis Wilkins on social media, describing h
 
 Anchored Artifacts: A-1386.1
 
-Related Nodes: N-383, N-384
+Related Nodes: N-102, N-314
 
 Investigative Direction: Obtain the original Patel posts and timestamps; verify any prior public statements on the relationship.
 
@@ -599,7 +599,7 @@ Claim: Kanye West tweeted that he was going "defcon 3 on some Jewish people," wh
 
 Anchored Artifacts: A-1389.1
 
-Related Nodes: N-387
+Related Nodes: N-56
 
 Investigative Direction: Obtain the archived original tweet via Wayback Machine or platform screenshots to verify the verbatim text and any subsequent deletions/edits.
 

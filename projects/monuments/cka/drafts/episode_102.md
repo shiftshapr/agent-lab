@@ -89,7 +89,7 @@ Video Timestamp: 00:02:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2886, N-85, N-2065, N-10002*
+*Related: C-2886, N-70, N-2065, N-10002*
 
 **A-2065** Blake Neff Response Bundle
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:04:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2888, N-1, N-2, N-2061*
+*Related: C-2888, N-1, N-2061*
 
 **A-2067** Kimberly Klacik Social Media Bundle
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:09:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2893, N-1212, N-2, N-2061*
+*Related: C-2893, N-1212, N-2061*
 
 **A-2068** Marcus Wada AI Voice Bundle
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:09:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2888, C-2892, N-1214, N-1, N-2, N-2061*
+*Related: C-2888, C-2892, N-1214, N-1, N-2061*
 
 **A-2070** Hillsdale College Event Bundle
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:17:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (archived/captured before removal)
 
-*Related: C-2896, N-2, N-2062*
+*Related: C-2896, N-2062*
 
 **A-2071.2** Erika Kirk LinkedIn page — claimed summa cum laude with double degree (political science and international relations)
 
@@ -224,7 +224,7 @@ Video Timestamp: 00:18:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (archived/captured before removal)
 
-*Related: C-2897, N-2, N-2062*
+*Related: C-2897, N-2062*
 
 **A-2071.3** Erika Kirk LinkedIn page — claimed Doctor of Education in Christian Leadership from Liberty University
 
@@ -246,7 +246,7 @@ Video Timestamp: 00:18:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2898, N-1219, N-1223, N-2, N-2062*
+*Related: C-2898, N-1219, N-1223, N-2062*
 
 **A-2073** Nick Shirley Favela Bundle
 
@@ -312,7 +312,7 @@ Video Timestamp: 00:52:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2905, C-2907, N-1218, N-1207, N-2, N-2063*
+*Related: C-2905, C-2907, N-1218, N-1207, N-2063*
 
 **A-2075.3** Paramount Tactical admission that Fort Huachuca alibi photo boy is not Erika Kirk's son
 
@@ -381,7 +381,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2067.1, C-2893, N-2, N-2061*
+*Related: A-2067.1, C-2893, N-2061*
 
 **N-1213** Unidentified Goth Person in Broderick Companion Photo
 
@@ -403,7 +403,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2069.1, C-2888, C-2892, N-1, N-2, N-2061*
+*Related: A-2069.1, C-2888, C-2892, N-1, N-2061*
 
 **N-1215** Hospital Routing Discrepancy
 
@@ -491,7 +491,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2071.3, C-2899, N-2, N-2062*
+*Related: A-2071.3, C-2899, N-2062*
 
 **N-1223** TPUSA Faith Packet / Israel References Claim
 
@@ -579,7 +579,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2062.1, A-2063.1, A-2064.1, A-2065.1, C-2884, C-2885, C-2886, C-2887, N-1207, N-85, N-1209, N-1210*
+*Related: A-2062.1, A-2063.1, A-2064.1, A-2065.1, C-2884, C-2885, C-2886, C-2887, N-1207, N-70, N-1209, N-1210*
 
 ---
 
@@ -630,7 +630,7 @@ Claim: Tyler Bowyer publicly stated he has had "numerous things like this said a
 
 Anchored Artifacts: A-2064.1
 
-Related Nodes: N-85, N-1207, N-2065, N-10002
+Related Nodes: N-70, N-1207, N-2065, N-10002
 
 Investigative Direction: Verify the original X post and any subsequent posts by Bowyer; cross-reference his stated history of false rumors.
 
@@ -672,7 +672,7 @@ Claim: The audio clip released by Turning Point USA contains Charlie Kirk statin
 
 Anchored Artifacts: A-2066.1
 
-Related Nodes: N-1, N-2, N-2061
+Related Nodes: N-1, N-2061
 
 Investigative Direction: Locate TPUSA's original release of the clip; obtain timestamped metadata; compare against any verified recordings of Charlie Kirk's voice.
 
@@ -714,7 +714,7 @@ Claim: John Mappin shared on X that an Aspen donor told him the moment depicted 
 
 Anchored Artifacts: A-2069.1
 
-Related Nodes: N-1214, N-1, N-2, N-2061
+Related Nodes: N-1214, N-1, N-2061
 
 Investigative Direction: Verify Mappin's original X post and identify the donor he referenced; obtain Mappin's full statement.
 
@@ -728,7 +728,7 @@ Claim: Kimberly Klacik publicly argued on X that since the TPUSA board elected E
 
 Anchored Artifacts: A-2067.1
 
-Related Nodes: N-1212, N-2, N-2061
+Related Nodes: N-1212, N-2061
 
 Investigative Direction: Verify the original post; obtain TPUSA board meeting minutes documenting Erika's CEO election.
 
@@ -800,7 +800,7 @@ Claim: Per Baron Coleman and other online researchers, Arizona State University 
 
 Anchored Artifacts: A-2072.1
 
-Related Nodes: N-1219, N-1223, N-2, N-2062
+Related Nodes: N-1219, N-1223, N-2062
 
 Investigative Direction: Obtain ASU's archived 2012 course catalog directly from the university or library archives; verify the degree offerings list.
 
@@ -870,7 +870,7 @@ Claim: According to flight records shown to Candace during her private interview
 
 Anchored Artifacts: A-2075.1
 
-Related Nodes: N-1218, N-2, N-2063
+Related Nodes: N-1218, N-2063
 
 Investigative Direction: Verify the flight records independently through airline records or TSA; obtain Brian Harpole's full itinerary for the date in question.
 
@@ -884,7 +884,7 @@ Claim: A photograph allegedly depicting Erika Kirk with her children at Fort Hua
 
 Anchored Artifacts: A-2075.2
 
-Related Nodes: N-1207, N-1218, N-2, N-2063
+Related Nodes: N-1207, N-1218, N-2063
 
 Investigative Direction: Locate the original alibi photo and Andrew Kolvet's accompanying message; verify provenance.
 
@@ -898,7 +898,7 @@ Claim: Paramount Tactical admitted over the weekend that the boy depicted in the
 
 Anchored Artifacts: A-2075.3
 
-Related Nodes: N-1224, N-1207, N-1218, N-2, N-2063
+Related Nodes: N-1224, N-1207, N-1218, N-2063
 
 Investigative Direction: Locate Paramount Tactical's specific admission statement; identify the actual child in the photo.
 

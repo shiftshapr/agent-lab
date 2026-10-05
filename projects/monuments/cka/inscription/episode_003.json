@@ -438,8 +438,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of Candace Kirk Archive series.",
@@ -549,9 +549,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-85",
-      "ref": "N-85",
-      "name": "Governor Cox",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor; host flags earlier statements as inconsistent with indictment (light shorts/maroon shirt).",
       "related_artifacts": [
@@ -613,7 +613,7 @@
       "@type": "Person",
       "@id": "N-67",
       "ref": "N-67",
-      "name": "Seth Dylan",
+      "name": "Seth Dillon",
       "type": "person",
       "description": "Reportedly pressed Charlie on Israel at Hamptons retreat.",
       "related_artifacts": [],
@@ -1006,9 +1006,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-100",
-      "ref": "N-100",
-      "name": "Candace Owens' Husband",
+      "@id": "N-59",
+      "ref": "N-59",
+      "name": "George (Candace's husband)",
       "type": "person",
       "description": "One of two people Candace cites as able to silence her.",
       "related_artifacts": [
@@ -1263,7 +1263,7 @@
         "N-69",
         "N-1094",
         "N-1096",
-        "N-7",
+        "N-3",
         "N-68",
         "N-88",
         "N-89",
@@ -1386,7 +1386,7 @@
       ],
       "related_nodes": [
         "N-69",
-        "N-100"
+        "N-59"
       ],
       "tags": [],
       "claim_timestamp": "00:16:00",
@@ -1804,7 +1804,7 @@
         "A-1095.2"
       ],
       "related_nodes": [
-        "N-85",
+        "N-70",
         "N-69"
       ],
       "tags": [],
@@ -1863,7 +1863,7 @@
         {
           "episode": 3,
           "video_timestamp": "00:00:34",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "What is happening right now in the world and what just happened to my friend Charlie Kirk is a battle of sheer evil versus goodness",
           "context": "Opening framing of shooting as cosmic good-vs-evil conflict rather than partisan.",
           "confidence": "high",
@@ -1883,7 +1883,7 @@
         {
           "episode": 3,
           "video_timestamp": "00:34:48",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "Obviously, I was in a very agrieved state and I was not prepared to even accept that Charlie Kirk was not on this earth",
           "context": "Candace explains why she was not initially available to Lance Twigs family.",
           "confidence": "high",
@@ -1894,7 +1894,7 @@
         {
           "episode": 3,
           "video_timestamp": "00:42:13",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "Somebody said something to you're unstable...I have been destabilized by watching Charlie Kirk catch a bullet in his neck and then being gas lit",
           "context": "Host defends emotional state while pressing for transparency.",
           "confidence": "high",
@@ -1914,7 +1914,7 @@
         {
           "episode": 3,
           "video_timestamp": "01:09:21",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "his top Jewish donors were pulling funding from him, demanding that Charlie take their name off of the building",
           "context": "Host cites donor identity (Jewish) as relevant to pressure narrative; identity is foregrounded as causal.",
           "confidence": "high",
@@ -1934,7 +1934,7 @@
         {
           "episode": 3,
           "video_timestamp": "01:41:51",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "And am I emotionally invested in this? Yes. Somebody said something to you're unstable.",
           "context": "Host anticipates accusation of instability/conspiracy framing, asserts it as accurate reading.",
           "confidence": "medium",

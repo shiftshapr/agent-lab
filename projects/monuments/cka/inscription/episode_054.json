@@ -30,7 +30,7 @@
             "C-2026"
           ],
           "related_nodes": [
-            "N-651"
+            "N-424"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -56,7 +56,7 @@
             "C-2027"
           ],
           "related_nodes": [
-            "N-85",
+            "N-70",
             "N-1472"
           ],
           "tags": [],
@@ -508,9 +508,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-651",
-      "ref": "N-651",
-      "name": "Brian Herpolsheimer",
+      "@id": "N-424",
+      "ref": "N-424",
+      "name": "Brian Harpole",
       "type": "person",
       "description": "Security contractor interviewed by Sean Ryan about pre-planning for Charlie Kirk events. Name appears inconsistently in the episode as both \"Harpole\" and \"Herpolsheimer.\"",
       "related_artifacts": [
@@ -913,7 +913,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-651"
+        "N-424"
       ]
     },
     {
@@ -931,7 +931,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-85",
+        "N-70",
         "N-1472"
       ]
     },
@@ -950,7 +950,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-651"
+        "N-424"
       ]
     },
     {
@@ -1078,7 +1078,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-85",
+        "N-70",
         "N-1466"
       ]
     },
@@ -1100,9 +1100,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-85",
-      "ref": "N-85",
-      "name": "Governor Cox",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
       "related_artifacts": [],
@@ -1142,7 +1142,7 @@
         "A-1596.1"
       ],
       "related_nodes": [
-        "N-651",
+        "N-424",
         "N-691",
         "N-692",
         "N-693"
@@ -1161,7 +1161,7 @@
         "A-1597.1"
       ],
       "related_nodes": [
-        "N-85",
+        "N-70",
         "N-1472"
       ],
       "tags": [],

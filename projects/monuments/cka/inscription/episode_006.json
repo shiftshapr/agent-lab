@@ -271,7 +271,7 @@
           ],
           "related_nodes": [
             "N-122",
-            "N-79"
+            "N-5"
           ],
           "tags": [],
           "video_timestamp": "00:46:28–00:47:52",
@@ -358,7 +358,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "video_timestamp": "00:39:01–00:40:17",
@@ -382,7 +382,7 @@
             "C-1223"
           ],
           "related_nodes": [
-            "N-7",
+            "N-3",
             "N-1000"
           ],
           "tags": [],
@@ -400,7 +400,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-7",
+            "N-3",
             "N-1000"
           ],
           "tags": [],
@@ -426,7 +426,7 @@
           ],
           "related_nodes": [
             "N-69",
-            "N-106",
+            "N-84",
             "N-1137"
           ],
           "tags": [],
@@ -488,8 +488,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host and primary investigator in the Candace Kirk Archive series",
@@ -616,9 +616,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-106",
-      "ref": "N-106",
-      "name": "Lance",
+      "@id": "N-84",
+      "ref": "N-84",
+      "name": "Lance Twigs",
       "type": "person",
       "description": "Robinson's partner; recipient of FBI-released text chain",
       "related_artifacts": [
@@ -961,8 +961,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-79",
-      "ref": "N-79",
+      "@id": "N-5",
+      "ref": "N-5",
       "name": "Donald Trump",
       "type": "person",
       "description": "President; subject of Kimmel's grief jokes; accused by host of being occupied by Zionists",
@@ -1511,7 +1511,7 @@
       "related_nodes": [
         "N-118",
         "N-1000",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:06:11",
@@ -1593,7 +1593,7 @@
       "related_nodes": [
         "N-66",
         "N-88",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:30:18",
@@ -1614,7 +1614,7 @@
         "N-42",
         "N-88",
         "N-1000",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:30:38",
@@ -1656,7 +1656,7 @@
       ],
       "related_nodes": [
         "N-122",
-        "N-79",
+        "N-5",
         "N-1141"
       ],
       "tags": [],
@@ -1797,7 +1797,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:40:17",
@@ -1816,7 +1816,7 @@
         "A-1130.2"
       ],
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1",
         "N-1000"
       ],
@@ -1840,7 +1840,7 @@
       ],
       "related_nodes": [
         "N-69",
-        "N-106",
+        "N-84",
         "N-1137",
         "N-1143"
       ],
@@ -1862,7 +1862,7 @@
       "related_nodes": [
         "N-123",
         "N-69",
-        "N-106",
+        "N-84",
         "N-1143"
       ],
       "tags": [],
@@ -1919,7 +1919,7 @@
         {
           "episode": 6,
           "video_timestamp": "00:26:54",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "according to the CDC's own data, the flu shot is only moderately effective at best, and that's not even accounting for vaccine injuries",
           "context": "Host subverts Trust the Science meme by citing CDC data against flu shot efficacy",
           "confidence": "high",
@@ -1940,7 +1940,7 @@
         {
           "episode": 6,
           "video_timestamp": "00:00:57",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "the Senate has voted and they have passed a bipartisan resolution to designate October 14th, which is Charlie's birthday... that is a very government maneuver",
           "context": "Host frames Senate resolution timing as suspicious government maneuver, echoing M-5 pattern",
           "confidence": "medium",
@@ -1960,7 +1960,7 @@
         {
           "episode": 6,
           "video_timestamp": "00:22:45",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "obscene lies that are just so easily fact checked... everyone people that I thought I was friends with are coming after me",
           "context": "Host describes coordinated media smears against her investigation, consistent with 'conspiracy theorist' dismissal pattern",
           "confidence": "low",

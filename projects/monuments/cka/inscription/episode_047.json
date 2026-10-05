@@ -41,8 +41,8 @@
             "C-1953"
           ],
           "related_nodes": [
-            "N-539",
-            "N-540",
+            "N-2",
+            "N-43",
             "N-1411",
             "N-1413",
             "N-1417",
@@ -74,7 +74,7 @@
             "C-1929"
           ],
           "related_nodes": [
-            "N-539",
+            "N-2",
             "N-1408"
           ],
           "tags": [],
@@ -116,7 +116,7 @@
             "C-1940"
           ],
           "related_nodes": [
-            "N-542",
+            "N-326",
             "N-1412"
           ],
           "tags": [],
@@ -144,7 +144,7 @@
             "C-1933"
           ],
           "related_nodes": [
-            "N-544",
+            "N-224",
             "N-1409",
             "N-1410"
           ],
@@ -176,9 +176,9 @@
             "C-1936"
           ],
           "related_nodes": [
-            "N-541",
-            "N-542",
-            "N-543",
+            "N-272",
+            "N-326",
+            "N-45",
             "N-1409",
             "N-1410"
           ],
@@ -223,7 +223,7 @@
             "C-1957"
           ],
           "related_nodes": [
-            "N-546",
+            "N-75",
             "N-555",
             "N-1414"
           ],
@@ -268,7 +268,7 @@
             "C-1945"
           ],
           "related_nodes": [
-            "N-545",
+            "N-426",
             "N-1415"
           ],
           "tags": [],
@@ -378,7 +378,7 @@
           ],
           "related_nodes": [
             "N-547",
-            "N-551"
+            "N-310"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -577,9 +577,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-539",
-      "ref": "N-539",
-      "name": "Erika Kolfage",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
       "type": "person",
       "description": "Counterparty in the private meeting with Candace; confirmed possession of Charlie's phone; admitted text-message corroboration; defended Terrell Farnsworth and Tyler Bowyer.",
       "related_artifacts": [
@@ -600,16 +600,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-540",
+        "N-43",
         "N-1411",
         "N-1421"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-540",
-      "ref": "N-540",
-      "name": "Justin Streif",
+      "@id": "N-43",
+      "ref": "N-43",
+      "name": "Justin Strife",
       "type": "person",
       "description": "TPUSA executive present throughout the meeting; framed opening question on aim; described as having \"reffed\" the conversation.",
       "related_artifacts": [
@@ -624,13 +624,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-539"
+        "N-2"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-541",
-      "ref": "N-541",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Charlie Kirk assistant; subject of contested post-incident phone-call sequence.",
@@ -650,16 +650,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-542",
-        "N-543",
+        "N-326",
+        "N-45",
         "N-1409"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-542",
-      "ref": "N-542",
-      "name": "Elizabeth McCoy",
+      "@id": "N-326",
+      "ref": "N-326",
+      "name": "Eliza McCoy",
       "type": "person",
       "description": "Mikey McCoy's wife; reportedly first person called after shooting; described as having been removed from public narrative.",
       "related_artifacts": [
@@ -676,14 +676,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-541",
+        "N-272",
         "N-1410"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-543",
-      "ref": "N-543",
+      "@id": "N-45",
+      "ref": "N-45",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Mikey McCoy's father; pastor; subject of claim that he does not actually work for TPUSA; described by host as having hit the stage at the memorial claiming \"America's pastor.\"",
@@ -705,8 +705,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-544",
-      "ref": "N-544",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Blake Neff",
       "type": "person",
       "description": "Provided prior public account of Mikey McCoy's reaction and call sequence; contradicted by TPUSA call logs.",
@@ -724,14 +724,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-541",
+        "N-272",
         "N-1409"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-545",
-      "ref": "N-545",
+      "@id": "N-426",
+      "ref": "N-426",
       "name": "Tim Pool",
       "type": "person",
       "description": "Made two contradictory statements about Candace's security within one week.",
@@ -754,9 +754,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-546",
-      "ref": "N-546",
-      "name": "Megan Kelly",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
       "type": "person",
       "description": "Reportedly offered to moderate potential livestream conversation between Candace and TPUSA.",
       "related_artifacts": [
@@ -771,7 +771,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-539"
+        "N-2"
       ]
     },
     {
@@ -793,14 +793,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-551"
+        "N-310"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-548",
-      "ref": "N-548",
-      "name": "George Zin",
+      "@id": "N-71",
+      "ref": "N-71",
+      "name": "George Zinn",
       "type": "person",
       "description": "Arrested for claiming to be the shooter on incident day; per host, told Utah Valley nurses he was paid.",
       "related_artifacts": [
@@ -820,8 +820,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-549",
-      "ref": "N-549",
+      "@id": "N-102",
+      "ref": "N-102",
       "name": "Kash Patel",
       "type": "person",
       "description": "Allegedly angry at Tulsi Gabbard and Joe Kent over terrorist-angle investigation.",
@@ -864,8 +864,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-551",
-      "ref": "N-551",
+      "@id": "N-310",
+      "ref": "N-310",
       "name": "Joe Kent",
       "type": "person",
       "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
@@ -906,8 +906,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-553",
-      "ref": "N-553",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Seth Dillon",
       "type": "person",
       "description": "Subject of Hampton retreat confrontation with Charlie Kirk over hypothetical anti-Netanyahu tweet.",
@@ -928,9 +928,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-554",
-      "ref": "N-554",
-      "name": "Bibi Netanyahu",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Allegedly offered to fund TPUSA to the next level; offer reportedly turned down by Charlie Kirk.",
       "related_artifacts": [
@@ -974,7 +974,7 @@
       "@type": "Person",
       "@id": "N-556",
       "ref": "N-556",
-      "name": "Greg Shafer",
+      "name": "Greg Schaefer",
       "type": "person",
       "description": "Operated Shafer Security; Charlie Kirk's initial security company employing Dan Flood and Brian Harpole.",
       "related_artifacts": [
@@ -994,9 +994,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-557",
-      "ref": "N-557",
-      "name": "Andrew Kolb",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Source (per host) for Bibi Netanyahu funding offer; name distinct from Andrew Kolvet as spelled in transcript.",
       "related_artifacts": [
@@ -1265,9 +1265,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-541",
-        "N-542",
-        "N-544"
+        "N-272",
+        "N-326",
+        "N-224"
       ]
     },
     {
@@ -1290,7 +1290,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-542"
+        "N-326"
       ]
     },
     {
@@ -1313,7 +1313,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-539"
+        "N-2"
       ]
     },
     {
@@ -1357,8 +1357,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-554",
-        "N-557"
+        "N-65",
+        "N-42"
       ]
     },
     {
@@ -1411,7 +1411,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-545",
+        "N-426",
         "N-556"
       ]
     },
@@ -1434,7 +1434,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-553"
+        "N-67"
       ]
     },
     {
@@ -1456,7 +1456,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-539"
+        "N-2"
       ]
     },
     {
@@ -1495,7 +1495,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-543"
+        "N-45"
       ]
     },
     {
@@ -1535,7 +1535,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-539",
+        "N-2",
         "N-562"
       ]
     },
@@ -1599,7 +1599,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-543"
+        "N-45"
       ]
     },
     {
@@ -1621,7 +1621,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-548"
+        "N-71"
       ]
     },
     {
@@ -1643,9 +1643,9 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-549",
+        "N-102",
         "N-550",
-        "N-551"
+        "N-310"
       ]
     },
     {
@@ -1726,9 +1726,9 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-539",
-        "N-540",
-        "N-546",
+        "N-2",
+        "N-43",
+        "N-75",
         "N-588",
         "N-589"
       ],
@@ -1746,7 +1746,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-539",
+        "N-2",
         "N-1411"
       ],
       "tags": [],
@@ -1763,8 +1763,8 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-539",
-        "N-542",
+        "N-2",
+        "N-326",
         "N-1411"
       ],
       "tags": [],
@@ -1781,8 +1781,8 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-539",
-        "N-543",
+        "N-2",
+        "N-45",
         "N-1411"
       ],
       "tags": [],
@@ -1800,7 +1800,7 @@
         "A-1540.1"
       ],
       "related_nodes": [
-        "N-539",
+        "N-2",
         "N-1408"
       ],
       "tags": [],
@@ -1833,7 +1833,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-539",
+        "N-2",
         "N-1408"
       ],
       "tags": [],
@@ -1866,8 +1866,8 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-541",
-        "N-542",
+        "N-272",
+        "N-326",
         "N-1409"
       ],
       "tags": [],
@@ -1884,10 +1884,10 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-541",
-        "N-542",
-        "N-543",
-        "N-539",
+        "N-272",
+        "N-326",
+        "N-45",
+        "N-2",
         "N-1409"
       ],
       "tags": [],
@@ -1904,7 +1904,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-541"
+        "N-272"
       ],
       "tags": [],
       "claim_timestamp": "00:23:53",
@@ -1921,8 +1921,8 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-541",
-        "N-544",
+        "N-272",
+        "N-224",
         "N-1409"
       ],
       "tags": [],
@@ -1939,8 +1939,8 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-542",
-        "N-539",
+        "N-326",
+        "N-2",
         "N-1410"
       ],
       "tags": [],
@@ -1957,8 +1957,8 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-539",
-        "N-554",
+        "N-2",
+        "N-65",
         "N-1413"
       ],
       "tags": [],
@@ -1975,8 +1975,8 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-557",
-        "N-554",
+        "N-42",
+        "N-65",
         "N-1413"
       ],
       "tags": [],
@@ -1993,7 +1993,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-543",
+        "N-45",
         "N-1419",
         "N-1424"
       ],
@@ -2011,8 +2011,8 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-549",
-        "N-539",
+        "N-102",
+        "N-2",
         "N-1417"
       ],
       "tags": [],
@@ -2029,7 +2029,7 @@
         "A-1541.1"
       ],
       "related_nodes": [
-        "N-542",
+        "N-326",
         "N-1412"
       ],
       "tags": [],
@@ -2047,7 +2047,7 @@
         "A-1541.2"
       ],
       "related_nodes": [
-        "N-542",
+        "N-326",
         "N-1412"
       ],
       "tags": [],
@@ -2064,7 +2064,7 @@
         "A-1545.1"
       ],
       "related_nodes": [
-        "N-545",
+        "N-426",
         "N-1415"
       ],
       "tags": [],
@@ -2081,7 +2081,7 @@
         "A-1545.2"
       ],
       "related_nodes": [
-        "N-545",
+        "N-426",
         "N-1415"
       ],
       "tags": [],
@@ -2098,7 +2098,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-539",
+        "N-2",
         "N-556",
         "N-1415"
       ],
@@ -2116,7 +2116,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-539",
+        "N-2",
         "N-1415"
       ],
       "tags": [],
@@ -2134,7 +2134,7 @@
       ],
       "related_nodes": [
         "N-559",
-        "N-539"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:41:01",
@@ -2151,7 +2151,7 @@
       ],
       "related_nodes": [
         "N-559",
-        "N-539"
+        "N-2"
       ],
       "tags": [],
       "claim_timestamp": "00:41:47",
@@ -2186,7 +2186,7 @@
       "related_nodes": [
         "N-547",
         "N-558",
-        "N-551"
+        "N-310"
       ],
       "tags": [],
       "claim_timestamp": "00:53:11",
@@ -2202,7 +2202,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-548",
+        "N-71",
         "N-1425"
       ],
       "tags": [],
@@ -2219,9 +2219,9 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-549",
+        "N-102",
         "N-550",
-        "N-551",
+        "N-310",
         "N-1426"
       ],
       "tags": [],
@@ -2238,7 +2238,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-539",
+        "N-2",
         "N-1421"
       ],
       "tags": [],
@@ -2255,8 +2255,8 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-553",
-        "N-554",
+        "N-67",
+        "N-65",
         "N-1416"
       ],
       "tags": [],

@@ -342,7 +342,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2107.1, C-2976, N-1207, N-1211, N-85, N-1219, N-10002*
+*Related: A-2107.1, C-2976, N-1207, N-1211, N-70, N-1219, N-10002*
 
 **N-2096** Next Model Management / MC2 Trafficking Connection to Erica Kirk
 

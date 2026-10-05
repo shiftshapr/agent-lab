@@ -31,7 +31,7 @@
             "C-1990"
           ],
           "related_nodes": [
-            "N-610",
+            "N-443",
             "N-1",
             "N-1005",
             "N-1447"
@@ -52,7 +52,7 @@
             "C-1992"
           ],
           "related_nodes": [
-            "N-610"
+            "N-443"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -70,7 +70,7 @@
             "C-1993"
           ],
           "related_nodes": [
-            "N-610"
+            "N-443"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -123,7 +123,7 @@
             "C-1994"
           ],
           "related_nodes": [
-            "N-613",
+            "N-444",
             "N-614",
             "N-1005",
             "N-1",
@@ -180,7 +180,7 @@
             "C-1996"
           ],
           "related_nodes": [
-            "N-615"
+            "N-128"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -207,7 +207,7 @@
           ],
           "related_nodes": [
             "N-618",
-            "N-609",
+            "N-42",
             "N-1005",
             "N-1451"
           ],
@@ -235,8 +235,8 @@
             "C-1998"
           ],
           "related_nodes": [
-            "N-616",
-            "N-620",
+            "N-597",
+            "N-424",
             "N-1446"
           ],
           "tags": [],
@@ -380,9 +380,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-609",
-      "ref": "N-609",
-      "name": "Andrew Kolbet (Turning Point USA spokesperson)",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Central figure in the alleged coordination of attacks on Mitch Snow; multiple spelling variants used on air (Kolbect, Kolvet, Kolbe, Kolbintz, Kolvintz).",
       "related_artifacts": [
@@ -402,9 +402,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-610",
-      "ref": "N-610",
-      "name": "Tim Dillon (comedian)",
+      "@id": "N-443",
+      "ref": "N-443",
+      "name": "Tim Dillon",
       "type": "person",
       "description": "Source of three artifact-anchored comedy clips played on air.",
       "related_artifacts": [
@@ -426,9 +426,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-613",
-      "ref": "N-613",
-      "name": "Barry Weiss (CBS)",
+      "@id": "N-444",
+      "ref": "N-444",
+      "name": "Bari Weiss",
       "type": "person",
       "description": "On-camera CBS interviewer who introduced Hunter Cosgrove to Erica Kirk at the AmFest / CBS stage event.",
       "related_artifacts": [
@@ -467,8 +467,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-615",
-      "ref": "N-615",
+      "@id": "N-128",
+      "ref": "N-128",
       "name": "Alex Jones",
       "type": "person",
       "description": "Source of declaration-of-war clip against Candace over Mitch Snow coverage.",
@@ -486,9 +486,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-616",
-      "ref": "N-616",
-      "name": "Mitch Snow (witness, veteran)",
+      "@id": "N-597",
+      "ref": "N-597",
+      "name": "Mitch Snow",
       "type": "person",
       "description": "Subject and source of Fort Huachuca sightings testimony; his son's interview (A-1574) provides partial corroboration.",
       "related_artifacts": [
@@ -529,8 +529,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-620",
-      "ref": "N-620",
+      "@id": "N-424",
+      "ref": "N-424",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Named in host discussion of Mitch Snow's Fort Huachuca sightings; referenced in the son's interview clip regarding the September 9 contact.",
@@ -609,8 +609,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-616",
-        "N-620"
+        "N-597",
+        "N-424"
       ]
     },
     {
@@ -680,7 +680,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-609"
+        "N-42"
       ]
     },
     {
@@ -739,7 +739,7 @@
         "A-1568.1"
       ],
       "related_nodes": [
-        "N-610",
+        "N-443",
         "N-1",
         "N-1447"
       ],
@@ -757,7 +757,7 @@
         "A-1568.1"
       ],
       "related_nodes": [
-        "N-610",
+        "N-443",
         "N-1005"
       ],
       "tags": [],
@@ -791,7 +791,7 @@
         "A-1568.2"
       ],
       "related_nodes": [
-        "N-610"
+        "N-443"
       ],
       "tags": [],
       "claim_timestamp": "00:14:17",
@@ -807,7 +807,7 @@
         "A-1568.3"
       ],
       "related_nodes": [
-        "N-610"
+        "N-443"
       ],
       "tags": [],
       "claim_timestamp": "00:21:38",
@@ -823,7 +823,7 @@
         "A-1570.1"
       ],
       "related_nodes": [
-        "N-613",
+        "N-444",
         "N-614",
         "N-1005",
         "N-1",
@@ -860,7 +860,7 @@
         "A-1572.1"
       ],
       "related_nodes": [
-        "N-615"
+        "N-128"
       ],
       "tags": [],
       "claim_timestamp": "00:40:44",
@@ -877,7 +877,7 @@
       ],
       "related_nodes": [
         "N-618",
-        "N-609",
+        "N-42",
         "N-1005",
         "N-1451"
       ],
@@ -895,8 +895,8 @@
         "A-1574.1"
       ],
       "related_nodes": [
-        "N-616",
-        "N-620",
+        "N-597",
+        "N-424",
         "N-1446"
       ],
       "tags": [],
@@ -964,7 +964,7 @@
         "A-1573.1"
       ],
       "related_nodes": [
-        "N-609",
+        "N-42",
         "N-618",
         "N-1449"
       ],

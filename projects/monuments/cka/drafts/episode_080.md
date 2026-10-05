@@ -195,7 +195,7 @@ Video Timestamp: 00:32:20–00:33:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2509, C-2510, N-1217, N-1, N-1618*
+*Related: C-2509, C-2510, N-1217, N-1618*
 
 ---
 
@@ -209,7 +209,7 @@ Video Timestamp: 00:33:39–00:34:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2511, C-2523, C-2524, N-1, N-1217, N-1220*
+*Related: C-2511, C-2523, C-2524, N-1217, N-1220*
 
 ---
 
@@ -593,7 +593,7 @@ Claim: The Fonte Grassi letter states that since Charlie Kirk's assassination, "
 
 Anchored Artifacts: A-1870.1
 
-Related Nodes: N-1217, N-1, N-1618
+Related Nodes: N-1217, N-1618
 
 Investigative Direction: Cross-reference specific TPUSA statements attributed to Charlie's posthumous voice against Kirk's documented prior positions.
 
@@ -607,7 +607,7 @@ Claim: Dino Fonte Grassi participated in a July 2025 Charlie Kirk sit-down discu
 
 Anchored Artifacts: A-1871.1
 
-Related Nodes: N-1217, N-1, N-1618
+Related Nodes: N-1217, N-1618
 
 Investigative Direction: Verify the date, venue, and Fonte Grassi's participation against the original video; identify other participants.
 
@@ -775,7 +775,7 @@ Claim: Charlie Kirk, in a July 2025 student discussion, publicly stated that "I 
 
 Anchored Artifacts: A-1871.1
 
-Related Nodes: N-1, N-1618
+Related Nodes: N-1618
 
 Investigative Direction: Verify exact quotation against the full original audio/video recording.
 
@@ -789,7 +789,7 @@ Claim: Charlie Kirk publicly questioned Senator Ted Cruz's use of the Bible to j
 
 Anchored Artifacts: A-1871.1
 
-Related Nodes: N-1, N-1220, N-1618
+Related Nodes: N-1220, N-1618
 
 Investigative Direction: Verify exact quotation against the full original recording and identify any contemporaneous response from Cruz.
 

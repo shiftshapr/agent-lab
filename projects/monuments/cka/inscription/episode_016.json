@@ -58,7 +58,7 @@
           "description": "Morgan Ariel tweet observing that Laura Loomer had not posted about Candace's text reporting",
           "related_claims": [],
           "related_nodes": [
-            "N-222"
+            "N-91"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -75,7 +75,7 @@
             "C-1388"
           ],
           "related_nodes": [
-            "N-222"
+            "N-91"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -90,7 +90,7 @@
           "description": "Britta tweet criticizing Candace's use of \"Blitzkrieg\" terminology and accusing her of inciting TPUSA employee harassment",
           "related_claims": [],
           "related_nodes": [
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -139,7 +139,7 @@
             "C-1391"
           ],
           "related_nodes": [
-            "N-214"
+            "N-42"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -164,7 +164,7 @@
             "C-1380"
           ],
           "related_nodes": [
-            "N-214"
+            "N-42"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -181,7 +181,7 @@
             "C-1381"
           ],
           "related_nodes": [
-            "N-214"
+            "N-42"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,7 +215,7 @@
             "C-1382"
           ],
           "related_nodes": [
-            "N-214",
+            "N-42",
             "N-1"
           ],
           "tags": [],
@@ -301,7 +301,7 @@
           ],
           "related_nodes": [
             "N-220",
-            "N-222"
+            "N-91"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -400,7 +400,7 @@
             "C-1399"
           ],
           "related_nodes": [
-            "N-219"
+            "N-16"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -451,7 +451,7 @@
             "C-1398"
           ],
           "related_nodes": [
-            "N-7",
+            "N-3",
             "N-1"
           ],
           "tags": [],
@@ -470,7 +470,7 @@
             "C-1400"
           ],
           "related_nodes": [
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -488,7 +488,7 @@
             "C-1401"
           ],
           "related_nodes": [
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -506,7 +506,7 @@
             "C-1402"
           ],
           "related_nodes": [
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -524,7 +524,7 @@
             "C-1403"
           ],
           "related_nodes": [
-            "N-7",
+            "N-3",
             "N-1236"
           ],
           "tags": [],
@@ -540,9 +540,9 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-214",
-      "ref": "N-214",
-      "name": "Andrew Kovette",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Turning Point USA spokesperson; the first TPUSA-internally-ranked official to publicly confirm the authenticity of the Kirk text chain (A-1228).",
       "related_artifacts": [
@@ -632,9 +632,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-219",
-      "ref": "N-219",
-      "name": "Frank Turk (Dr.)",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
       "type": "person",
       "description": "Podcaster; reported via Luna's fan comment to have stated on his podcast that Charlie Kirk said \"they want him dead\" shortly before his death.",
       "related_artifacts": [
@@ -689,8 +689,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-222",
-      "ref": "N-222",
+      "@id": "N-91",
+      "ref": "N-91",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Commentator; publicly dismissed Candace's text reporting as \"postpartum psychotic rants.\"",
@@ -710,7 +710,7 @@
       "@type": "Person",
       "@id": "N-224",
       "ref": "N-224",
-      "name": "Blake",
+      "name": "Blake Neff",
       "type": "person",
       "description": "Co-host of the Charlie Kirk Show; stated on air he is an eyewitness to events and has been advised not to comment publicly.",
       "related_artifacts": [
@@ -863,8 +863,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
@@ -906,9 +906,9 @@
         "A-1227.8"
       ],
       "related_nodes": [
-        "N-214",
+        "N-42",
         "N-1",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:14:00",
@@ -924,7 +924,7 @@
         "A-1228.2"
       ],
       "related_nodes": [
-        "N-214"
+        "N-42"
       ],
       "tags": [],
       "claim_timestamp": "00:15:24",
@@ -941,7 +941,7 @@
         "A-1232.1"
       ],
       "related_nodes": [
-        "N-214",
+        "N-42",
         "N-1"
       ],
       "tags": [],
@@ -1025,7 +1025,7 @@
         "A-1227.2"
       ],
       "related_nodes": [
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:08:09",
@@ -1041,8 +1041,8 @@
         "A-1227.4"
       ],
       "related_nodes": [
-        "N-222",
-        "N-7"
+        "N-91",
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:09:26",
@@ -1058,7 +1058,7 @@
         "A-1227.6"
       ],
       "related_nodes": [
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:11:11",
@@ -1091,7 +1091,7 @@
         "A-1227.8"
       ],
       "related_nodes": [
-        "N-214"
+        "N-42"
       ],
       "tags": [],
       "claim_timestamp": "00:12:48",
@@ -1109,7 +1109,7 @@
       "related_nodes": [
         "N-217",
         "N-218",
-        "N-7",
+        "N-3",
         "N-1"
       ],
       "tags": [],
@@ -1208,7 +1208,7 @@
         "A-1235.1"
       ],
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1"
       ],
       "tags": [],
@@ -1225,7 +1225,7 @@
         "A-1233.1"
       ],
       "related_nodes": [
-        "N-219",
+        "N-16",
         "N-1"
       ],
       "tags": [],
@@ -1242,7 +1242,7 @@
         "A-1235.2"
       ],
       "related_nodes": [
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:38:49",
@@ -1258,7 +1258,7 @@
         "A-1235.3"
       ],
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1237"
       ],
       "tags": [],
@@ -1275,7 +1275,7 @@
         "A-1235.4"
       ],
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1239"
       ],
       "tags": [],
@@ -1292,7 +1292,7 @@
         "A-1235.5"
       ],
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1236"
       ],
       "tags": [],

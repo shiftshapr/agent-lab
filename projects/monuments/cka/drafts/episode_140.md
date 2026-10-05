@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2190, N-2191, N-2192
-  - Reused Nodes Appearing: N-1, N-1025, N-1207
+  - Reused Nodes Appearing: N-1025, N-1207
   - (see registers)
 
 # Episode 140 — Analysis Record
@@ -34,7 +34,7 @@
   - Artifact Families Introduced: A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
   - Claim Range: C-3260–C-3274
   - New People Nodes Introduced: N-1207
-  - Existing Nodes Reused: N-1, N-1025, N-7 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
+  - Existing Nodes Reused: N-1025, N-3 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
   - New Investigation Target Nodes: N-2190, N-2191, N-2192
 
 ---
@@ -241,7 +241,7 @@ Video Timestamp: 00:52:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: N-7 (Candace)*
+*Related: N-3 (Candace)*
 
 **A-2275.5** Impala comment: reference to Tyler Robinson dorm-room photo with phone outline in right pocket, supporting right-handedness
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:55:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: N-7 (Candace)*
+*Related: N-3 (Candace)*
 
 ---
 
@@ -532,7 +532,7 @@ Claim: A tweet-counter account shows that "No Soup For You" sent 4,040 tweets ab
 
 Anchored Artifacts: A-2273.3
 
-Related Nodes: N-1207, N-7 (Candace)
+Related Nodes: N-1207, N-3 (Candace)
 
 Investigative Direction: Obtain the underlying tweet-counter screenshot and verify date range and account identifier.
 
@@ -546,7 +546,7 @@ Claim: The host states she sent 104 tweets about Erica Kirk in the same 11-month
 
 Anchored Artifacts: A-2273.3
 
-Related Nodes: N-1025, N-7 (Candace), N-1207
+Related Nodes: N-1025, N-3 (Candace), N-1207
 
 Investigative Direction: Obtain the tweet-counter output and verify both figures and their date ranges.
 
@@ -631,7 +631,7 @@ Investigative Direction: Not directly verifiable; relevant only as documented rh
 - Every artifact has a Related line.
 - Every node has a Related line.
 - No episode-wide artifact bundle exists.
-- People nodes use the global people ledger (N-1, N-1025, N-7, N-1207, plus reused existing character nodes).
+- People nodes use the global people ledger (N-1025, N-3, N-1207, plus reused existing character nodes).
 - Non-person investigation targets use the 1000+ range (N-2190, N-2191, N-2192).
 - No speculative claims inscribed as evidence-backed claims; rhetorical framing (e.g., the Dane Cook analogy) is captured as a claim with explicit "analog" wording rather than as evidentiary fact.
 - Names preserved exactly as appearing in transcript (e.g., "No Soup For Noels," "Lance Twigs," "Britta Widener").
@@ -659,4 +659,4 @@ A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
 
 **New Investigation Target Nodes:** N-2190, N-2191, N-2192
 
-**Existing Nodes Reused:** N-1, N-1025, N-7 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
+**Existing Nodes Reused:** N-1025, N-3 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node

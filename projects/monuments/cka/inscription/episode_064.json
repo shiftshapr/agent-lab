@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-795",
+            "N-264",
             "N-797"
           ],
           "tags": [],
@@ -56,7 +56,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-795",
+            "N-264",
             "N-1519"
           ],
           "tags": [],
@@ -132,7 +132,7 @@
             "C-2215"
           ],
           "related_nodes": [
-            "N-794"
+            "N-607"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -151,7 +151,7 @@
             "C-2221"
           ],
           "related_nodes": [
-            "N-794"
+            "N-607"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -170,7 +170,7 @@
             "C-2222"
           ],
           "related_nodes": [
-            "N-794"
+            "N-607"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -189,7 +189,7 @@
             "C-2223"
           ],
           "related_nodes": [
-            "N-794"
+            "N-607"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -216,7 +216,7 @@
             "C-2224"
           ],
           "related_nodes": [
-            "N-794",
+            "N-607",
             "N-1520"
           ],
           "tags": [],
@@ -232,8 +232,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-794",
-      "ref": "N-794",
+      "@id": "N-607",
+      "ref": "N-607",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Former CEO of The Daily Wire. Subject of multiple artifact-anchored claims in this episode regarding his characterization of Candace Owens and his management of the company's Hungarian production.",
@@ -266,8 +266,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-795",
-      "ref": "N-795",
+      "@id": "N-264",
+      "ref": "N-264",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "Head of Fundraising for Turning Point USA. Referenced by name during the September 16 corporate Zoom call (\"even Stacy said he's going to…find ways to speak to us\"). Host alleges Sheridan traveled with Erika to Utah and was present at the hospital and during the casket arrival.",
@@ -405,7 +405,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-794"
+        "N-607"
       ]
     },
     {
@@ -457,7 +457,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-795",
+        "N-264",
         "N-797",
         "N-1519"
       ],
@@ -493,7 +493,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-795",
+        "N-264",
         "N-1519"
       ],
       "tags": [],
@@ -610,7 +610,7 @@
         "A-1688.1"
       ],
       "related_nodes": [
-        "N-794"
+        "N-607"
       ],
       "tags": [],
       "claim_timestamp": "00:39:00",
@@ -626,7 +626,7 @@
         "A-1688.2"
       ],
       "related_nodes": [
-        "N-794"
+        "N-607"
       ],
       "tags": [],
       "claim_timestamp": "00:40:30",
@@ -642,7 +642,7 @@
         "A-1688.3"
       ],
       "related_nodes": [
-        "N-794"
+        "N-607"
       ],
       "tags": [],
       "claim_timestamp": "00:41:59",
@@ -658,7 +658,7 @@
         "A-1688.4"
       ],
       "related_nodes": [
-        "N-794"
+        "N-607"
       ],
       "tags": [],
       "claim_timestamp": "00:44:36",
@@ -674,7 +674,7 @@
         "A-1689.1"
       ],
       "related_nodes": [
-        "N-794",
+        "N-607",
         "N-1520"
       ],
       "tags": [],
@@ -707,7 +707,7 @@
         "A-1688.2"
       ],
       "related_nodes": [
-        "N-794"
+        "N-607"
       ],
       "tags": [],
       "claim_timestamp": "00:40:30",
@@ -723,7 +723,7 @@
         "A-1688.3"
       ],
       "related_nodes": [
-        "N-794"
+        "N-607"
       ],
       "tags": [],
       "claim_timestamp": "00:43:46",
@@ -739,7 +739,7 @@
         "A-1688.4"
       ],
       "related_nodes": [
-        "N-794"
+        "N-607"
       ],
       "tags": [],
       "claim_timestamp": "00:44:36",
@@ -755,7 +755,7 @@
         "A-1689.1"
       ],
       "related_nodes": [
-        "N-794",
+        "N-607",
         "N-1520"
       ],
       "tags": [],

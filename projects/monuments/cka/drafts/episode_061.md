@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 736008f55f0ceabc1d5654cd9436f3367fc919e2bfaca0ad6647aa8c3f74d006
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-769, N-770, N-771, N-772, N-773, N-774, N-775, N-776, N-778, N-779, N-780, N-781, N-1503, N-1504, N-1505, N-1506, N-1507, N-1508
+  - New Nodes Introduced:  N-770, N-771, N-772, N-773, N-774, N-775, N-776, N-1503, N-1504, N-1505, N-1506, N-1507, N-1508
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -37,7 +37,7 @@ Video Timestamp: 00:06:17–00:15:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2158, C-2159, C-2160, C-2161, C-2162, C-2163, C-2164, C-2165, C-2169, N-1, N-2, N-776, N-85, N-1503, N-1504, N-1506, N-1507*
+*Related: C-2158, C-2159, C-2160, C-2161, C-2162, C-2163, C-2164, C-2165, C-2169, N-1, N-2, N-776, N-70, N-1503, N-1504, N-1506, N-1507*
 
 ---
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:04:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2166, C-2167, N-769, N-1503, N-1504*
+*Related: C-2166, C-2167, N-443, N-1503, N-1504*
 
 ---
 
@@ -141,7 +141,7 @@ Confidence Level: Medium (single-source verbal recollection, donor unnamed)
 
 ## 4. Node Register
 
-**N-769** Tim Dylan
+**N-443** Tim Dillon
 
 Comedian whose on-air assessment that TPUSA is primarily motivated by money is read into the episode record and adopted by the host.
 
@@ -176,7 +176,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1663.1, A-1664.1, C-2172, N-770, N-772, N-778*
+*Related: A-1663.1, A-1664.1, C-2172, N-770, N-772, N-45*
 
 ---
 
@@ -245,7 +245,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-778** Rob McCoy
+**N-45** Rob McCoy
 
 Figure associated with TPUSA Faith; named by host as defending a person convicted of child molestation.
 
@@ -258,7 +258,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-779** Andrew Kovat (name uncertainty flagged)
+**N-42** Andrew Kolvet
 
 Spokesperson-adjacent TPUSA figure referenced by host as a candidate for a future on-air appearance and as a recipient of allegedly self-incriminating messages. Name spelling uncertain — transcript shows "Kovat," "Kovette," and "Kovat" variants.
 
@@ -271,7 +271,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-780** Justin Strife (name uncertainty flagged)
+**N-43** Justin Strife
 
 TPUSA executive reported by host as participating in a sit-down with Owens and Erica Kirk to discuss Owens's allegations. First-name spelling uncertain.
 
@@ -284,7 +284,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-781** Stacy Sheridan
+**N-264** Stacy Sheridan
 
 TPUSA figure named in host's call for donations to TPUSA.
 
@@ -306,7 +306,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1661.1, A-1662.1, C-2158, C-2159, C-2160, C-2163, C-2164, C-2165, C-2166, C-2167, N-1, N-2, N-776, N-85, N-779, N-780, N-781*
+*Related: A-1661.1, A-1662.1, C-2158, C-2159, C-2160, C-2163, C-2164, C-2165, C-2166, C-2167, N-1, N-2, N-776, N-70, N-42, N-43, N-264*
 
 ---
 
@@ -332,7 +332,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1661.1, C-2169, N-1, N-1504*
+*Related: A-1661.1, C-2169, N-1504*
 
 ---
 
@@ -358,7 +358,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1661.1, C-2161, C-2170, N-778*
+*Related: A-1661.1, C-2161, C-2170, N-45*
 
 ---
 
@@ -427,7 +427,7 @@ Claim: The TPUSA letter alleges that Owens claimed there are "not good people" a
 
 Anchored Artifacts: A-1661.1
 
-Related Nodes: N-778, N-1507
+Related Nodes: N-45, N-1507
 
 Investigative Direction: Identify the specific personnel Owens considers "military operatives" and determine whether any verifiable affiliation exists.
 
@@ -497,7 +497,7 @@ Claim: Tim Dylan stated on-air that TPUSA is primarily motivated by money — sp
 
 Anchored Artifacts: A-1662.1
 
-Related Nodes: N-769, N-1503, N-1504
+Related Nodes: N-443, N-1503, N-1504
 
 Investigative Direction: Identify the original Tim Dylan episode and timestamp for the quoted clip.
 
@@ -511,7 +511,7 @@ Claim: Owens adopts Tim Dylon's assessment that TPUSA's principal concern is mon
 
 Anchored Artifacts: A-1661.1, A-1662.1
 
-Related Nodes: N-769, N-1503, N-1504
+Related Nodes: N-443, N-1503, N-1504
 
 Investigative Direction: Track whether TPUSA's subsequent filings cite financial damages as a measurable injury.
 
@@ -553,7 +553,7 @@ Claim: Owens states that Rob McCoy is "defending somebody who went to prison for
 
 Anchored Artifacts: A-1661.1
 
-Related Nodes: N-778, N-1507
+Related Nodes: N-45, N-1507
 
 Investigative Direction: Identify the specific individual and case to which Owens refers.
 
@@ -623,7 +623,7 @@ Claim: Brooklyn Beckham alleges that his mother, called to the stage by Marc Ant
 
 Anchored Artifacts: A-1663.1, A-1664.1
 
-Related Nodes: N-770, N-772, N-85
+Related Nodes: N-770, N-772, N-70
 
 Investigative Direction: Compare the IG-stories allegation against the Vogue article's documented dance sequence, which describes a separate first dance to "Only Fools Rush In" preceding the alleged late-night incident.
 
@@ -651,7 +651,7 @@ Claim: The Vogue wedding article reports that Marc Anthony took over the DJ deck
 
 Anchored Artifacts: A-1664.1
 
-Related Nodes: N-770, N-771, N-85
+Related Nodes: N-770, N-771, N-70
 
 Investigative Direction: Verify the 11 p.m. start time against any video of Marc Anthony's set, and identify any contemporaneous social media posts by attendees.
 

@@ -33,7 +33,7 @@
 
 - Artifact Families Introduced: A-1557, A-1558, A-1559, A-1560
 - Claim Range: C-1969–C-1979
-  - New Nodes Introduced: N-597, N-598, N-599, N-600, N-1438, N-1439, N-1440
+  - New Nodes Introduced: N-597, N-598, N-599, N-1438, N-1439, N-1440
   - Reused Nodes Appearing: 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and other previously inscribed entities as applicable
 
@@ -107,7 +107,7 @@ Video Timestamp: 01:07:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full interview segment)
 
-*Related: C-1970, C-1971, C-1972, C-1973, C-1974, C-1975, N-597, N-600, N-1438*
+*Related: C-1970, C-1971, C-1972, C-1973, C-1974, C-1975, N-597, N-518, N-1438*
 
 ---
 
@@ -165,13 +165,13 @@ Video Timestamp: 00:02:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (displayed on screen but not transcribed; host defers full release)
 
-*Related: C-1978, N-1, N-1440*
+*Related: C-1978, N-1440*
 
 ---
 
 ## IV. Node Register
 
-**N-597** "Mitch" (Eyewitness, Pseudonym)
+**N-597** Mitch Snow
 
 Pseudonymized eyewitness who claims to have visited Fort Huachuca on September 8–9, 2025 and identified multiple individuals by resemblance. Claims 35-year gag order related to 1990 JTF6 drug tunnel discovery. Has provided metadata-verified video and military ID cards to host.
 
@@ -210,7 +210,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-600** Captain Neff
+**N-518** Captain Adam Nef
 
 U.S. Army captain named by witness "Mitch" as the officer who escorted him out of the JTF building and sat with him on a park bench at Fort Huachuca on September 9, 2025.
 
@@ -225,14 +225,14 @@ Investigative Pressure: Low
 
 **N-1438** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
-Persistent investigation target: claimed physical encounter by "Mitch" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erica Kirk), Brian Harpole (see N-1438 related), and Captain Neff (N-600).
+Persistent investigation target: claimed physical encounter by "Mitch" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erica Kirk), Brian Harpole (see N-1438 related), and Captain Neff (N-518).
 
 Evidence Count: 6
 Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1558.1, A-1558.3, A-1559.1, A-1559.2, A-1559.3, C-1971, C-1972, C-1973, C-1974, C-1975, N-2, N-597, N-599, N-600*
+*Related: A-1558.1, A-1558.3, A-1559.1, A-1559.2, A-1559.3, C-1971, C-1972, C-1973, C-1974, C-1975, N-2, N-597, N-599, N-518*
 
 ---
 
@@ -314,7 +314,7 @@ Claim: While at the JTF command building on the morning of September 9, 2025, wi
 
 Anchored Artifacts: A-1558.3
 
-Related Nodes: N-597, N-600, N-1438
+Related Nodes: N-597, N-518, N-1438
 
 Investigative Direction: Cross-reference Fort Huachuca visitor logs for September 9, 2025; identify Captain Neff and corroborate encounter.
 
@@ -398,7 +398,7 @@ Claim: Host confirms visual observation, prompted by viewer email, of black plas
 
 Anchored Artifacts: A-1560.1, A-1560.2
 
-Related Nodes: N-1, N-1440
+Related Nodes: N-1440
 
 Investigative Direction: Release and forensic-analyze the original high-resolution SUV interior photographs; compare fragments against known materials (phone glass, hard candy, vehicle components).
 
@@ -412,7 +412,7 @@ Claim: After his identification of personnel exiting the JTF building, witness "
 
 Anchored Artifacts: A-1558.3
 
-Related Nodes: N-597, N-600, N-1438
+Related Nodes: N-597, N-518, N-1438
 
 Investigative Direction: Obtain any contemporaneous bodycam footage or police reports; identify the plainclothes officer and any incident reports generated September 9, 2025.
 

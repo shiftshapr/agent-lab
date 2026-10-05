@@ -119,7 +119,7 @@ Video Timestamp: 00:24:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (public flight tracking data)
 
-*Related: C-2547, C-2548, N-1, N-1207*
+*Related: C-2547, C-2548, N-1207*
 
 **A-1889** Text Message Exchange Bundle (Andrew Kolvet / Aubrey / Justin)
 
@@ -358,7 +358,7 @@ Claim: ADSB Exchange data shows Charlie Kirk's plane at 3:26 PM MST descending b
 
 Anchored Artifacts: A-1888.1
 
-Related Nodes: N-1, N-1207, N-1627
+Related Nodes: N-1207, N-1627
 
 Investigative Direction: Pull and archive ADSB Exchange historical data for N-number of Charlie's plane on 9/10/2025 between 15:00–16:00 MST.
 
@@ -484,7 +484,7 @@ Claim: Andrew Kolvet stated in his Ross Douthat interview that Charlie Kirk was 
 
 Anchored Artifacts: A-1890.1
 
-Related Nodes: N-1207, N-1, N-1629
+Related Nodes: N-1207, N-1629
 
 Investigative Direction: Verify the specific guest booked for September 9 interview; cross-check against show archives.
 

@@ -105,7 +105,7 @@ Video Timestamp: 00:08:58–00:10:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2657, N-2, N-1, N-1658, N-1659*
+*Related: C-2657, N-2, N-1658, N-1659*
 
 ---
 
@@ -227,7 +227,7 @@ Video Timestamp: 00:57:45–00:58:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced; not displayed)
 
-*Related: N-1, N-1659*
+*Related: N-1659*
 
 ---
 
@@ -412,7 +412,7 @@ Claim Timestamp: 00:08:58–00:10:21
 Claim: On Megan Kelly (Nov 24, 2025), Erika Kirk described a donor question at the Aspen event and stated Charlie Kirk said Erika would do a great job running TPUSA.
 
 Anchored Artifacts: A-1929.1
-Related Nodes: N-2, N-1, N-1658, N-1659
+Related Nodes: N-2, N-1658, N-1659
 Investigative Direction: Cross-reference Erika's Megan Kelly account against other contemporaneous donor accounts of the same Aspen event and against the audio artifact.
 
 **C-2658** New York Times reported Erika Kirk was in a "hospital room" at 11:23 a.m. on Sept 10
@@ -522,7 +522,7 @@ Claim Timestamp: 00:12:38–00:13:33
 Claim: Per host outreach to four Aspen event attendees (one of whom was a couple), three did not recall Charlie Kirk stating he wanted Erika to take over TPUSA; the fourth (a couple with TPUSA ties beyond a donor relationship) did recall it.
 
 Anchored Artifacts: A-1928.1
-Related Nodes: N-2, N-1, N-1659
+Related Nodes: N-2, N-1659
 Investigative Direction: Preserve the host's outreach logs (with consent); cross-reference against attendee lists and any contemporaneous notes or recordings.
 
 ---

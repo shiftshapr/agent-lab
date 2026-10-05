@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 56c2be67383dd50f4d4f1df7be825f986b64cc63e651edf0162bdadcfd5d297b
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-348, N-349, N-350, N-351, N-352, N-353, N-354, N-355, N-356, N-357, N-358, N-359, N-1298, N-1299, N-1300, N-1301, N-1302, N-1303, N-1304, N-1305
+  - New Nodes Introduced:  N-349, N-350, N-353, N-355, N-356, N-358, N-359, N-1298, N-1299, N-1300, N-1301, N-1302, N-1303, N-1304, N-1305
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -31,7 +31,7 @@
 - **Ledger Continuation Summary:**
   - Artifact Families Introduced: A-1345, A-1346, A-1347, A-1348, A-1349, A-1350, A-1351, A-1352, A-1353, A-1354
   - Claim Range: C-1617–C-1634
-  - New Nodes Introduced (people): N-7, N-2, N-348, N-349, N-350, N-351, N-352, N-353, N-354, N-355, N-356, N-357, N-358, N-359
+  - New Nodes Introduced (people):  N-2, N-349, N-350, N-353, N-355, N-356, N-358, N-359
   - New Nodes Introduced (investigation targets): N-1298, N-1299, N-1300, N-1301, N-1302, N-1303, N-1304, N-1305
   - Existing Nodes Reused: Not confirmed (no prior ledger context provided beyond next-ID markers; known entities likely exist at lower IDs but cannot be cited)
 
@@ -61,7 +61,7 @@ Confidence Level: Medium (displayed on-screen, transcribed verbatim)
 
 Full text transcribed: "conservative commentator Candace Owens announced on Thursday that her independent podcast Candace has reached the top global ranking, according to Podscribe data, following her 2024 departure from the Daily Wire. She credits the organic growth to criticism, legal challenges, including a defamation lawsuit from French President Emmanuel Macron and First Lady Brigitte Macron, and her small team's resilience. Owens attributes the milestone to divine intervention amid ongoing media attacks."
 
-*Related: C-1617, C-1618, N-7*
+*Related: C-1617, C-1618, N-3*
 
 ---
 
@@ -77,7 +77,7 @@ Confidence Level: High
 
 Verbatim excerpt: "It's so easy to be in a position of feeling regret when you lose someone you love. And I tried to read a book by C. S. Lewis… It's called A Grief Observed. It was a very hard book to read. Not because it was about grief, but because in the opening pages, he talked about how angry he was with God. And I've never felt that. I'm not angry with God. Never have been."
 
-*Related: C-1619, N-2, N-348*
+*Related: C-1619, N-2, N-313*
 
 **A-1346.2** Erika Kirk audio excerpt responding to whether the caught individual pulled the trigger
 
@@ -89,7 +89,7 @@ Confidence Level: High
 
 Verbatim excerpt: "Do you think they've caught your husband's killer? So, something I'm so grateful for is that we have one of the most incredible teams for this case. I would never wish it upon anybody to have to go through what we are going through. To have seen the autopsy report, to have seen the different evidence portions that have been collected. I trust our team."
 
-*Related: C-1620, C-1621, N-2, N-348*
+*Related: C-1620, C-1621, N-2, N-313*
 
 **A-1346.3** Erika Kirk audio excerpt on Charlie's Saint Michael pendant
 
@@ -101,7 +101,7 @@ Confidence Level: High
 
 Verbatim excerpt: "When we first started dating, I um I asked him, I was like, why don't you wear a cross?… So, for his first birthday present I got him this bronze. And then throughout time I would always add different metals to it. And so he always he loved Saint Michael. And so yeah, every time he'd put this on, he just felt like it was his it was his armor."
 
-*Related: C-1622, N-2, N-348*
+*Related: C-1622, N-2, N-313*
 
 **A-1346.4** Erika Kirk audio excerpt on circulating conspiracy theories and request for grace
 
@@ -113,7 +113,7 @@ Confidence Level: High
 
 Verbatim excerpt: "Everyone grieves differently. Everyone is trying to figure out and I don't blame them. How does this happen?… And what I've realized through all of this is that everyone grieves differently… And again, my my only request is that just please pray and consider and think about whatever you put online because it's going to impact his kids in the future."
 
-*Related: C-1624, N-2, N-348*
+*Related: C-1624, N-2, N-313*
 
 ---
 
@@ -173,7 +173,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "I'm one of the longest-tenured employees now at the organization, and Mikey has a servant's heart if ever I've seen one. Do you know why he went to Korea and Japan? Because my boss, our direct our production's director, who is the father of six children, asked him to. He is always traveling with me a good portion of it, and he missed his kids, and he asked Mikey to please go and film instead."
 
-*Related: C-1629, N-351, N-352*
+*Related: C-1629, N-135, N-272*
 
 **A-1349.2** Alex Clark tweet on not running ads on tribute episodes
 
@@ -185,7 +185,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "On every podcast tribute episode I did about Charlie, I did not run my ad sponsorships. My directive and choice to my team, we are now in debt to my sponsors. I didn't care. I felt like the right thing to do."
 
-*Related: C-1630, N-351*
+*Related: C-1630, N-135*
 
 ---
 
@@ -217,7 +217,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "At this point, anyone who follows this freak show is doing it for the entertainment. This is not political commentary. It's bowling."
 
-*Related: C-1632, N-354*
+*Related: C-1632, N-235*
 
 ---
 
@@ -249,7 +249,7 @@ Confidence Level: Medium (host observation of visual frame; no on-screen caption
 
 Host characterization: "behind Jesse and Erika as they're walking backstage at the University of Mississippi event that they headlined, there was a priest looking in the corner there. I know a priest collar when I see one."
 
-*Related: C-1623, N-2, N-348, N-1303*
+*Related: C-1623, N-2, N-313, N-1303*
 
 ---
 
@@ -265,7 +265,7 @@ Confidence Level: Medium (viewer-mediated second-hand reference)
 
 Verbatim excerpt: "Andrew Klavan on Alex Clark show discussed how Charlie's heart was still beating. How did Charlie instantly go to heaven if he had a pulse? Erika first saw Charlie at an airport in Israel in May of 2018 with her mom."
 
-*Related: C-1634, N-2, N-351, N-356, N-1304, N-1305*
+*Related: C-1634, N-2, N-135, N-356, N-1304, N-1305*
 
 **A-1354.2** Arm Hanna viewer comment on forgiveness requiring knowledge of what is being forgiven
 
@@ -287,7 +287,7 @@ Verbatim excerpt: "Candace, that was such a wise statement. I cannot forgive unt
 
 ### People
 
-**N-348** Jesse Watters
+**N-313** Jesse Watters
 
 Interviewer in the Fox News sit-down; visible in Ole Miss backstage video with Erika.
 
@@ -326,7 +326,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-351** Alex Clark
+**N-135** Alex Clark
 
 Author of two artifact-anchored tweets; subject of Tom Paul comment referencing her show.
 
@@ -335,11 +335,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1349.1, A-1349.2, A-1354.1, C-1629, C-1630, C-1634, N-352, N-1304*
+*Related: A-1349.1, A-1349.2, A-1354.1, C-1629, C-1630, C-1634, N-272, N-1304*
 
 ---
 
-**N-352** Mikey McCoy
+**N-272** Mikey McCoy
 
 Subject of Alex Clark's defense tweet (Korea/Japan trip) and host's standing concerns about his post-assassination public posture; named as having taken over Charlie's Liberty University speaking slot (per host commentary, not artifact-anchored in this episode).
 
@@ -348,7 +348,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1349.1, C-1629, N-351*
+*Related: A-1349.1, C-1629, N-135*
 
 ---
 
@@ -365,7 +365,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-354** Dinesh D'Souza
+**N-235** Dinesh D'Souza
 
 Author of one artifact-anchored X post.
 
@@ -404,7 +404,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-357** Frank Turek
+**N-16** Frank Turek
 
 Referenced by host as having stated on stage that Charlie was gone by the time he was in the car (host commentary only, not artifact-anchored in this episode).
 
@@ -519,7 +519,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1353.1, C-1623, N-2, N-348, N-1300*
+*Related: A-1353.1, C-1623, N-2, N-313, N-1300*
 
 ---
 
@@ -532,7 +532,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1354.1, C-1634, N-356, N-351, N-2, N-357*
+*Related: A-1354.1, C-1634, N-356, N-135, N-2, N-16*
 
 ---
 
@@ -559,7 +559,7 @@ Claim: A Grok-generated summary states that the "Candace" podcast reached the to
 
 Anchored Artifacts: A-1345.1
 
-Related Nodes: N-7
+Related Nodes: N-3
 
 Investigative Direction: Cross-check Podscribe ranking data independently; verify whether Grok's characterizations of growth causation match primary data.
 
@@ -573,7 +573,7 @@ Claim: The host asserts the Grok summary is "fact-checked" and that all of it is
 
 Anchored Artifacts: A-1345.1
 
-Related Nodes: N-7
+Related Nodes: N-3
 
 Investigative Direction: Identify which elements of the Grok summary the host is endorsing as primary fact versus host editorialization.
 
@@ -643,7 +643,7 @@ Claim: A figure in clerical attire appears in the background of backstage video 
 
 Anchored Artifacts: A-1353.1
 
-Related Nodes: N-2, N-348, N-1303, N-1300
+Related Nodes: N-2, N-313, N-1303, N-1300
 
 Investigative Direction: Obtain original footage to identify the priest and any associated institution.
 
@@ -727,7 +727,7 @@ Claim: Alex Clark tweets that Mikey McCoy went to Korea and Japan at the request
 
 Anchored Artifacts: A-1349.1
 
-Related Nodes: N-351, N-352
+Related Nodes: N-135, N-272
 
 Investigative Direction: Identify the named production director and verify travel scheduling records.
 
@@ -741,7 +741,7 @@ Claim: Alex Clark tweets that on every Charlie tribute episode, she did not run 
 
 Anchored Artifacts: A-1349.2
 
-Related Nodes: N-351
+Related Nodes: N-135
 
 Investigative Direction: Verify whether Alex Clark's tribute episodes were ad-free across all tribute outputs, not selectively.
 
@@ -769,7 +769,7 @@ Claim: Dinesh D'Souza posts on X that "anyone who follows this freak show is doi
 
 Anchored Artifacts: A-1351.1
 
-Related Nodes: N-354
+Related Nodes: N-235
 
 Investigative Direction: Capture original post timestamp and any subsequent D'Souza commentary on the investigation.
 
@@ -797,7 +797,7 @@ Claim: A viewer (Tom Paul) reports that Andrew Klavan, on the Alex Clark show, d
 
 Anchored Artifacts: A-1354.1
 
-Related Nodes: N-2, N-351, N-356, N-1304, N-358
+Related Nodes: N-2, N-135, N-356, N-1304, N-358
 
 Investigative Direction: Locate the specific Alex Clark show episode and Andrew Klavan segment to verify the exact framing and any offered explanation.
 
@@ -854,7 +854,7 @@ The UVU event timeline dispute is the principal artifact-anchored contradiction 
 - **Artifact verbally referenced but not shown in this episode:** Host references a previously displayed email regarding UVU event approval (from the prior day's show); Allie's tweets respond to that prior display.
 - **Claim C-1635 failed full admission test** in strict evidentiary terms (viewer opinion, not investigable falsifiable proposition); inscribed only because A-1354.2 must have a linked claim for ledger completeness; flagged here for transparency.
 - **Requires human verification:** The Colby Sessions self-ID post's account handle and date stamp are not provided in the transcript; A-1352.1 metadata is reconstructed from host read-aloud.
-- **Name uncertainty:** "Mikey's" Liberty University speaking replacement (host commentary only; not artifact-anchored in this episode; tracked under N-352 but not inscribed as claim).
+- **Name uncertainty:** "Mikey's" Liberty University speaking replacement (host commentary only; not artifact-anchored in this episode; tracked under N-272 but not inscribed as claim).
 
 ---
 
@@ -865,7 +865,7 @@ The UVU event timeline dispute is the principal artifact-anchored contradiction 
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-7+)
+- [x] People nodes use the global people ledger (N-3+)
 - [x] Non-person investigation targets use the 1000 series (N-1298+)
 - [x] No speculative claims inscribed as evidence-backed claims (framing premises tracked separately)
 - [x] Names preserved as written or uncertainty noted

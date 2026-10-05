@@ -30,7 +30,7 @@
             "C-2283"
           ],
           "related_nodes": [
-            "N-878",
+            "N-783",
             "N-1548"
           ],
           "tags": [],
@@ -49,7 +49,7 @@
             "C-2284"
           ],
           "related_nodes": [
-            "N-878",
+            "N-783",
             "N-1550"
           ],
           "tags": [],
@@ -76,8 +76,8 @@
             "C-2285"
           ],
           "related_nodes": [
-            "N-878",
-            "N-879",
+            "N-783",
+            "N-272",
             "N-1549"
           ],
           "tags": [],
@@ -267,7 +267,7 @@
             "C-2293"
           ],
           "related_nodes": [
-            "N-881"
+            "N-133"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -293,7 +293,7 @@
             "C-2294"
           ],
           "related_nodes": [
-            "N-879",
+            "N-272",
             "N-1553"
           ],
           "tags": [],
@@ -320,8 +320,8 @@
             "C-2295"
           ],
           "related_nodes": [
-            "N-878",
-            "N-880",
+            "N-783",
+            "N-43",
             "N-1554"
           ],
           "tags": [],
@@ -431,9 +431,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-878",
-      "ref": "N-878",
-      "name": "Lori France Feay (transcript spelling)",
+      "@id": "N-783",
+      "ref": "N-783",
+      "name": "Lori Frantzve",
       "type": "person",
       "description": "Erika Kirk's mother; central figure in the Sept 8 / Sept 10 alibi narrative; subject of the Sept 7, 2025 Instagram post; reportedly receiving treatment at a \"holistic clinic\" rather than a hospital; described as having Lyme disease.",
       "related_artifacts": [
@@ -462,8 +462,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-879",
-      "ref": "N-879",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "TPUSA-affiliated figure (per host's training reference); the person who placed the call to Erika Kirk on Sept 10, 2025, and who host asserts first called his wife before calling Erika.",
@@ -486,9 +486,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-880",
-      "ref": "N-880",
-      "name": "Justin Strife (transcript spelling)",
+      "@id": "N-43",
+      "ref": "N-43",
+      "name": "Justin Strife",
       "type": "person",
       "description": "TPUSA-affiliated intermediary; sent text messages to the host stating Erika's mother was very sick; per host, also revised the location of Erika's sighting from \"basketball game\" to \"football game.\"",
       "related_artifacts": [
@@ -508,8 +508,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-881",
-      "ref": "N-881",
+      "@id": "N-133",
+      "ref": "N-133",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Daily Wire figure whose \"All Access\" clip mocking the host's Hogwarts-chess dream is played in the episode.",
@@ -590,7 +590,7 @@
       "@type": "Person",
       "@id": "N-885",
       "ref": "N-885",
-      "name": "Robkea (transcript spelling)",
+      "name": "Robkea",
       "type": "person",
       "description": "Researcher cited in viewer email; per email, his work documents Gilgamesh/Nimrod tomb discovery, museum raid, and missing Nephilim/resurrection tablets.",
       "related_artifacts": [
@@ -624,15 +624,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-878",
+        "N-783",
         "N-1554"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-887",
-      "ref": "N-887",
-      "name": "Frank Turk (transcript spelling)",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
       "type": "person",
       "description": "Source of witness statement (cited by host) that Charlie Kirk was \"dealing with the kids\" on Sept 8, 2025.",
       "related_artifacts": [],
@@ -710,8 +710,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-878",
-        "N-887"
+        "N-783",
+        "N-16"
       ]
     },
     {
@@ -735,9 +735,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-878",
-        "N-879",
-        "N-880"
+        "N-783",
+        "N-272",
+        "N-43"
       ]
     },
     {
@@ -759,7 +759,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-878"
+        "N-783"
       ]
     },
     {
@@ -827,7 +827,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-879"
+        "N-272"
       ]
     },
     {
@@ -849,8 +849,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-878",
-        "N-880",
+        "N-783",
+        "N-43",
         "N-886"
       ]
     },
@@ -890,7 +890,7 @@
         "A-1727.1"
       ],
       "related_nodes": [
-        "N-878",
+        "N-783",
         "N-1550"
       ],
       "tags": [],
@@ -907,7 +907,7 @@
         "A-1727.2"
       ],
       "related_nodes": [
-        "N-878",
+        "N-783",
         "N-1550"
       ],
       "tags": [],
@@ -924,8 +924,8 @@
         "A-1728.1"
       ],
       "related_nodes": [
-        "N-878",
-        "N-879",
+        "N-783",
+        "N-272",
         "N-1549",
         "N-1553"
       ],
@@ -1060,7 +1060,7 @@
         "A-1733.1"
       ],
       "related_nodes": [
-        "N-881"
+        "N-133"
       ],
       "tags": [],
       "claim_timestamp": "00:39:16",
@@ -1076,7 +1076,7 @@
         "A-1734.1"
       ],
       "related_nodes": [
-        "N-879",
+        "N-272",
         "N-1553"
       ],
       "tags": [],
@@ -1093,8 +1093,8 @@
         "A-1735.1"
       ],
       "related_nodes": [
-        "N-878",
-        "N-880",
+        "N-783",
+        "N-43",
         "N-1549",
         "N-1554"
       ],

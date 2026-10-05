@@ -37,7 +37,7 @@ Video Timestamp: 00:06:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2986, C-2987, C-2988, N-1, N-1207, N-1208, N-2104*
+*Related: C-2986, C-2987, C-2988, N-1207, N-1208, N-2104*
 
 **A-2110.2** Photo 2 — Cardboard-colored piece and adjacent black bag (back seat)
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:08:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2986, C-2994, N-1, N-1207, N-1208, N-2103*
+*Related: C-2986, C-2994, N-1207, N-1208, N-2103*
 
 **A-2110.4** Photo 4 — Foil-like material visible under floor mat
 
@@ -109,7 +109,7 @@ Video Timestamp: 00:17:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host asserts "beyond a shadow of a doubt")
 
-*Related: C-2986, C-2994, N-1, N-1207, N-1208, N-2103*
+*Related: C-2986, C-2994, N-1207, N-1208, N-2103*
 
 **A-2112** Mikey McCoy Hospital Casket Clip
 
@@ -315,7 +315,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2110.3, A-2111.4, A-2114.3, C-2986, C-2994, N-1, N-1207, N-1208, N-1212*
+*Related: A-2110.3, A-2111.4, A-2114.3, C-2986, C-2994, N-1207, N-1208, N-1212*
 
 **N-2104** Charlie's Bloody Jacket Chain of Custody Investigation Target
 
@@ -361,7 +361,7 @@ Claim Timestamp: 00:06:11–00:17:00
 Claim: Photographs of the vehicle interior show black tempered shattered glass particles concentrated between the front captain chairs, in the area corresponding to Charlie Kirk's chest position, consistent with the host's identification of a broken road/lapel microphone.
 
 Anchored Artifacts: A-2110.3, A-2111.4
-Related Nodes: N-1, N-1207, N-1208, N-1212, N-2103
+Related Nodes: N-1207, N-1208, N-1212, N-2103
 Investigative Direction: Obtain forensic analysis of vehicle interior; compare particle composition to known Charlie Kirk lapel microphone glass; subpoena vehicle evidence logs.
 
 ---

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 9947ad085576510d0eca9efc0f90646427ab1e5b19ec6460512b87a70d7be827
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-482, N-483, N-484, N-485, N-486, N-1380, N-1381
+  - New Nodes Introduced:  N-483, N-484, N-485, N-1380, N-1381
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -23,7 +23,7 @@ Artifact Families Introduced: A-1494, A-1495, A-1496, A-1497, A-1498, A-1499, A-
 
 Claim Range: C-1831–C-1838
 
-New Nodes Introduced: N-482, N-483, N-484, N-485, N-486, N-1380, N-1381
+New Nodes Introduced:  N-483, N-484, N-485, N-1380, N-1381
 
 Existing Nodes Reused: N-1 (Charlie Kirk)
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:02:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air; date of briefing not specified in transcript)
 
-*Related: C-1831, N-482*
+*Related: C-1831, N-479*
 
 ---
 
@@ -78,7 +78,7 @@ Video Timestamp: 00:03:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (tweet read in full on air)
 
-*Related: C-1832, N-1, N-486 (if existing)*
+*Related: C-1832, N-16 (if existing)*
 
 **A-1495.2** Blake Neff follow-up tweet stating TPUSA will "proceed without" Candace
 
@@ -130,7 +130,7 @@ Video Timestamp: 00:28:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-1837, N-1, N-486 (Frank Turk, if not already existing)*
+*Related: C-1837, N-16 (Frank Turk, if not already existing)*
 
 ---
 
@@ -174,7 +174,7 @@ Confidence Level: Medium (referenced via Project Constitution tweet A-1496.1; un
 
 ## IV. Node Register
 
-**N-482** Cam Higby
+**N-479** Cam Higby
 
 Pentagon correspondent whose question to the Pentagon press secretary regarding a "French military plot to assassinate Candace Owens" is presented in the episode. Host asserts he has been on TPUSA payroll since August 2025.
 
@@ -187,7 +187,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-483** Wedi Machmood (name as used)
+**N-483** Wed Mahmoud
 
 Person using this name on board the "yellow plane" SU-BND on September 10, 2025 (one of four passengers). Host asserts same individual flew on SU-BTU ("purple plane") into Provo on May 27, 2025. Identity verification target.
 
@@ -226,7 +226,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-486** Frank Turk
+**N-16** Frank Turek
 
 TPUSA affiliate whose testimonial clip is played, asserting that Charlie Kirk told him Blake Neff was "the smartest man I know."
 
@@ -281,7 +281,7 @@ Claim: Pentagon correspondent Cam Higby asked the Pentagon press secretary wheth
 
 Anchored Artifacts: A-1494.1
 
-Related Nodes: N-482
+Related Nodes: N-479
 
 Investigative Direction: Verify the original Pentagon press briefing transcript and date; confirm Higby's professional affiliations at the time.
 
@@ -365,7 +365,7 @@ Claim: Frank Turk states in a video testimonial that the night before Charlie Ki
 
 Anchored Artifacts: A-1498.1
 
-Related Nodes: N-486, N-1
+Related Nodes: N-16, N-1
 
 Investigative Direction: Verify clip against original broadcast; cross-check against other contemporaneous accounts.
 

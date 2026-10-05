@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 6ce4e769b4497ca6b87095c77c991401a54f9ef0556891c273b7e28ec46bef36
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-798, N-799, N-800, N-801, N-802, N-803, N-804, N-805, N-1522, N-1523, N-1524, N-1525, N-1526, N-1527, N-1528, N-1529, N-1530, N-1531, N-1532, N-1533, N-1534, N-1535, N-1536
+  - New Nodes Introduced: N-798, N-799, N-800, N-801, N-802, N-804, N-1522, N-1523, N-1524, N-1525, N-1526, N-1527, N-1528, N-1529, N-1530, N-1531, N-1532, N-1533, N-1534, N-1535, N-1536
   - Reused Nodes Appearing: 
 
 ---
@@ -36,7 +36,7 @@
 
 - Artifact Families Introduced: A-1690, A-1691, A-1692, A-1693, A-1694, A-1695, A-1696, A-1697, A-1698, A-1699, A-1700, A-1701, A-1702, A-1703
 - Claim Range: C-2225–C-2237
-- New People Nodes Introduced: N-798, N-799, N-800, N-801, N-802, N-803, N-804, N-805
+- New People Nodes Introduced: N-798, N-799, N-800, N-801, N-802, N-45, N-804, N-298
 - New Investigation Target Nodes Introduced: N-1522, N-1523, N-1524, N-1525, N-1526, N-1527, N-1528, N-1529, N-1530, N-1531, N-1532, N-1533, N-1534, N-1535, N-1536
 - Existing Nodes Reused: None identified (new nodes only)
 
@@ -412,7 +412,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-803** Rob McCoy
+**N-45** Rob McCoy
 
 Pastor at Calvary Chapel (per host). Host claims he was purportedly close to Charlie Kirk but that Charlie "couldn't stand him toward the end." Host also claims his father ran psychological operations for the Navy. (Host claim about father is host opinion — not artifact-backed in this episode.)
 
@@ -425,7 +425,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-805** Piers Morgan
+**N-298** Piers Morgan
 
 Interviewer; host of the show where Youssef displayed the casualty chart cited in A-1690.1.
 
@@ -473,7 +473,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1690.1, C-2225, N-798, N-805*
+*Related: A-1690.1, C-2225, N-798, N-298*
 
 ---
 
@@ -629,7 +629,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-803*
+*Related: N-45*
 
 ---
 
@@ -643,7 +643,7 @@ Claim: Bassem Youssef's Piers Morgan appearance displayed a chart stating that i
 
 Anchored Artifacts: A-1690.1
 
-Related Nodes: N-798, N-805, N-1524, N-804
+Related Nodes: N-798, N-298, N-1524, N-804
 
 Investigative Direction: Verify against original Piers Morgan broadcast; cross-check 2014 OCHA/UN OPt casualty figures.
 
@@ -699,7 +699,7 @@ Claim: Per host, her Phil Turney interview received approximately 7 million view
 
 Anchored Artifacts: A-1694.2 (viewer corroboration)
 
-Related Nodes: N-799, N-1522, N-1528, N-1535, N-803
+Related Nodes: N-799, N-1522, N-1528, N-1535, N-45
 
 Investigative Direction: Verify view count via YouTube analytics or platform data.
 

@@ -29,7 +29,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1283, A-1284, A-1285, A-1286, A-1287, A-1288, A-1289
   - Claim Range: C-1514–C-1526
-  - New Nodes Introduced: N-286, N-287, N-288, N-1266, N-1267, N-1268
+  - New Nodes Introduced:  N-288, N-1266, N-1267, N-1268
   - Reused Nodes Appearing: 
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:05:35–00:07:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (content read aloud by host)
 
-*Related: C-1515, N-1, N-1266*
+*Related: C-1515, N-1266*
 
 **A-1283.2** Updated TPUSA Wikipedia entry — Rob McCoy as TPUSA Faith co-founder
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:03:03–00:05:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (content and timestamp read aloud by host)
 
-*Related: C-1514, C-1524, N-286, N-1266*
+*Related: C-1514, C-1524, N-45, N-1266*
 
 **A-1284** Wikipedia Citation Source Article Bundle
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:04:30–00:05:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host describes having clicked and read the article; not displayed)
 
-*Related: C-1516, C-1517, N-286, N-1266*
+*Related: C-1516, C-1517, N-45, N-1266*
 
 **A-1285** Trump Truth Social Post Bundle
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:32:12–00:35:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played in episode)
 
-*Related: C-1522, C-1523, C-1525, N-287, N-1268*
+*Related: C-1522, C-1523, C-1525, N-75, N-1268*
 
 **A-1288** Norman Finkelstein Interview Trailer Bundle
 
@@ -145,7 +145,7 @@ Confidence Level: Medium (referenced but not displayed)
 
 # IV. Node Register
 
-**N-286** Rob McCoy
+**N-45** Rob McCoy
 
 Pentecostal pastor (Calvary Chapel Association) named in TPUSA Wikipedia entry as co-founder/co-chairman of TPUSA Faith less than 36 hours after Kirk's death; host rejects co-founder characterization.
 
@@ -156,7 +156,7 @@ Investigative Pressure: Medium
 
 *Related: A-1283.2, A-1284.1, C-1514, C-1516, C-1517, C-1524, N-1266*
 
-**N-287** Megyn Kelly
+**N-75** Megyn Kelly
 
 Interviewer of Donald Trump Jr. regarding confidence in FBI investigation into Charlie Kirk's death; relevant as the source forum for the Don Jr. artifact.
 
@@ -187,7 +187,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1283.1, A-1283.2, A-1284.1, C-1514, C-1515, C-1516, C-1517, C-1524, N-1, N-286*
+*Related: A-1283.1, A-1283.2, A-1284.1, C-1514, C-1515, C-1516, C-1517, C-1524, N-1, N-45*
 
 **N-1267** Charlie Kirk Burial / Funeral Narrative Discrepancy
 
@@ -232,7 +232,7 @@ Claim: The TPUSA Wikipedia entry was updated at 10:34 PM Eastern on September 11
 
 Anchored Artifacts: A-1283.2
 
-Related Nodes: N-286, N-1266
+Related Nodes: N-45, N-1266
 
 Investigative Direction: Obtain Wikipedia edit history (revision IDs, editor accounts, IP traces) for the TPUSA article between September 10–12, 2025, and compare to standard post-trauma edit patterns.
 
@@ -260,7 +260,7 @@ Claim: The citation used in the updated Wikipedia entry to support the assertion
 
 Anchored Artifacts: A-1284.1
 
-Related Nodes: N-286, N-1266
+Related Nodes: N-45, N-1266
 
 Investigative Direction: Locate and verify the cited article(s) by date and content; confirm whether the citation supports the assertion as labeled.
 
@@ -274,7 +274,7 @@ Claim: The November 24, 2024 article cited as source for McCoy's "co-founder/co-
 
 Anchored Artifacts: A-1284.1
 
-Related Nodes: N-286, N-1266
+Related Nodes: N-45, N-1266
 
 Investigative Direction: Obtain the cited article directly and check for the phrases "co-founder," "chairman," "co-chairman," and any reference to TPUSA Faith.
 
@@ -344,7 +344,7 @@ Claim: In a Megyn Kelly interview, Donald Trump Jr. stated that he had confidenc
 
 Anchored Artifacts: A-1287.1
 
-Related Nodes: N-287, N-1268
+Related Nodes: N-75, N-1268
 
 Investigative Direction: Obtain the full Megyn Kelly interview clip and surrounding context; verify whether the confidence statement is unconditional or hedged.
 
@@ -358,7 +358,7 @@ Claim: In the same Megyn Kelly interview, Don Trump Jr. did not directly answer 
 
 Anchored Artifacts: A-1287.1
 
-Related Nodes: N-287
+Related Nodes: N-75
 
 Investigative Direction: Confirm sequence of statements in the unedited interview.
 
@@ -372,7 +372,7 @@ Claim: The host asserts, as a position, that Rob McCoy was not the founder or co
 
 Anchored Artifacts: A-1283.2
 
-Related Nodes: N-286, N-1266
+Related Nodes: N-45, N-1266
 
 Investigative Direction: Obtain contemporaneous TPUSA Faith formation documents, IRS filings, and founding board records to resolve.
 
@@ -386,7 +386,7 @@ Claim: The host asserts that Don Trump Jr.'s stated confidence in the FBI invest
 
 Anchored Artifacts: A-1287.1
 
-Related Nodes: N-287, N-1268
+Related Nodes: N-75, N-1268
 
 Investigative Direction: This is interpretive host commentary; falsifiable only by further direct statement from Don Trump Jr. or by independent investigation into the wound-ballistics question.
 
@@ -431,7 +431,7 @@ Investigative Direction: Verify the quoted Economist and UN official attribution
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use global people ledger (N-286, N-287, N-288); non-person investigation targets use N-1266+ series
+- [x] People nodes use global people ledger (N-45, N-75, N-288); non-person investigation targets use N-1266+ series
 - [x] No speculative or rhetorical claims inscribed as evidence-backed
 - [x] Names preserved as in transcript; uncertainties flagged
 - [x] No reuse of IDs from previous episodes; ledger continuation respected

@@ -50,7 +50,7 @@
             "C-1524"
           ],
           "related_nodes": [
-            "N-286",
+            "N-45",
             "N-1266"
           ],
           "tags": [],
@@ -78,7 +78,7 @@
             "C-1517"
           ],
           "related_nodes": [
-            "N-286",
+            "N-45",
             "N-1266"
           ],
           "tags": [],
@@ -160,7 +160,7 @@
             "C-1525"
           ],
           "related_nodes": [
-            "N-287",
+            "N-75",
             "N-1268"
           ],
           "tags": [],
@@ -228,8 +228,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-286",
-      "ref": "N-286",
+      "@id": "N-45",
+      "ref": "N-45",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pentecostal pastor (Calvary Chapel Association) named in TPUSA Wikipedia entry as co-founder/co-chairman of TPUSA Faith less than 36 hours after Kirk's death; host rejects co-founder characterization.",
@@ -254,8 +254,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-287",
-      "ref": "N-287",
+      "@id": "N-75",
+      "ref": "N-75",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Interviewer of Donald Trump Jr. regarding confidence in FBI investigation into Charlie Kirk's death; relevant as the source forum for the Don Jr. artifact.",
@@ -318,7 +318,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-286"
+        "N-45"
       ]
     },
     {
@@ -408,7 +408,7 @@
         "A-1283.2"
       ],
       "related_nodes": [
-        "N-286",
+        "N-45",
         "N-1266"
       ],
       "tags": [],
@@ -441,7 +441,7 @@
         "A-1284.1"
       ],
       "related_nodes": [
-        "N-286",
+        "N-45",
         "N-1266"
       ],
       "tags": [],
@@ -458,7 +458,7 @@
         "A-1284.1"
       ],
       "related_nodes": [
-        "N-286",
+        "N-45",
         "N-1266"
       ],
       "tags": [],
@@ -537,7 +537,7 @@
         "A-1287.1"
       ],
       "related_nodes": [
-        "N-287",
+        "N-75",
         "N-1268"
       ],
       "tags": [],
@@ -554,7 +554,7 @@
         "A-1287.1"
       ],
       "related_nodes": [
-        "N-287"
+        "N-75"
       ],
       "tags": [],
       "claim_timestamp": "00:33:50",
@@ -570,7 +570,7 @@
         "A-1283.2"
       ],
       "related_nodes": [
-        "N-286",
+        "N-45",
         "N-1266"
       ],
       "tags": [],
@@ -587,7 +587,7 @@
         "A-1287.1"
       ],
       "related_nodes": [
-        "N-287",
+        "N-75",
         "N-1268"
       ],
       "tags": [],

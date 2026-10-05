@@ -31,7 +31,7 @@
             "C-1429"
           ],
           "related_nodes": [
-            "N-246",
+            "N-42",
             "N-1246"
           ],
           "tags": [],
@@ -277,9 +277,9 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-246",
-      "ref": "N-246",
-      "name": "Andrew Kolbatz",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Social media commentator who posted a long tweet recounting a conversation with a surgeon who worked on Charlie.",
       "related_artifacts": [
@@ -358,7 +358,7 @@
       "@type": "Person",
       "@id": "N-249",
       "ref": "N-249",
-      "name": "Dr. Deidra Weiss Amaro",
+      "name": "Deidra Weiss Amaro",
       "type": "person",
       "description": "Utah State Medical Examiner as of May 2024, per host's research; reportedly from Missouri with prior California work.",
       "related_artifacts": [],
@@ -397,8 +397,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-252",
-      "ref": "N-252",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Commentator whose reaction to the released Josh Hammer / Charlie Kirk text exchange is read/played.",
@@ -416,9 +416,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-253",
-      "ref": "N-253",
-      "name": "Ghislaine Maxwell (presumed prior node, reused)",
+      "@id": "N-76",
+      "ref": "N-76",
+      "name": "Ghislaine Maxwell",
       "type": "person",
       "description": "Referenced as Derek Maxwell's wife and as having co-run a beauty company later sold.",
       "related_artifacts": [],
@@ -438,7 +438,7 @@
       "@type": "Person",
       "@id": "N-254",
       "ref": "N-254",
-      "name": "Jared Kushner (presumed prior node, reused)",
+      "name": "Jared Kushner",
       "type": "person",
       "description": "Featured via Harvard speech clip regarding Gaza's \"waterfront property.\"",
       "related_artifacts": [
@@ -475,7 +475,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-246",
+        "N-42",
         "N-248"
       ]
     },
@@ -619,7 +619,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-251",
-        "N-253"
+        "N-76"
       ]
     },
     {
@@ -643,7 +643,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-42",
-        "N-252"
+        "N-228"
       ]
     },
     {
@@ -754,7 +754,7 @@
       ],
       "related_nodes": [
         "N-1246",
-        "N-246"
+        "N-42"
       ],
       "tags": [],
       "claim_timestamp": "00:03:37",
@@ -771,7 +771,7 @@
       ],
       "related_nodes": [
         "N-1246",
-        "N-246"
+        "N-42"
       ],
       "tags": [],
       "claim_timestamp": "00:05:03",
@@ -788,7 +788,7 @@
       ],
       "related_nodes": [
         "N-1246",
-        "N-246"
+        "N-42"
       ],
       "tags": [],
       "claim_timestamp": "00:06:02",
@@ -804,7 +804,7 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-246",
+        "N-42",
         "N-1246"
       ],
       "tags": [],
@@ -821,7 +821,7 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-246",
+        "N-42",
         "N-1246"
       ],
       "tags": [],
@@ -1126,7 +1126,7 @@
       "related_nodes": [
         "N-1252",
         "N-251",
-        "N-253"
+        "N-76"
       ],
       "tags": [],
       "claim_timestamp": "00:39:09",
@@ -1293,7 +1293,7 @@
         "A-1259.1"
       ],
       "related_nodes": [
-        "N-252",
+        "N-228",
         "N-1253"
       ],
       "tags": [],
@@ -1310,7 +1310,7 @@
         "A-1252.1"
       ],
       "related_nodes": [
-        "N-246",
+        "N-42",
         "N-247"
       ],
       "tags": [],

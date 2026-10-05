@@ -39,7 +39,7 @@
 - Claim Range: C-3357–C-3386
 - New Nodes Introduced (People): N-1207, N-1208, N-1209, N-69, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-1229, N-1230
 - New Nodes Introduced (Investigation Targets): N-2219, N-2220, N-2221, N-2222, N-2223, N-2224, N-2225
-- Existing Nodes Reused: None specified in ledger (assumed N-1 through N-999 and N-1207 through N-2218 already populated from prior episodes)
+- Existing Nodes Reused: None specified in ledger (assumed N-1 through N-339 and N-1207 through N-2218 already populated from prior episodes)
 
 ---
 

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4ff884e8b88d089e5a5ddcb0facbdda169075c76bb9db2e13f6bf6d6be1cad05
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-762, N-763, N-764, N-765, N-766, N-767, N-768, N-1501, N-1502
+  - New Nodes Introduced:  N-764, N-765, N-766, N-767, N-1501, N-1502
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -39,7 +39,7 @@ Video Timestamp: 00:28:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2149, C-2150, N-763*
+*Related: C-2149, C-2150, N-61*
 
 ---
 
@@ -95,7 +95,7 @@ Video Timestamp: 01:16:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2157, N-762*
+*Related: C-2157, N-552*
 
 ---
 
@@ -109,7 +109,7 @@ Video Timestamp: 01:18:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2157, N-762*
+*Related: C-2157, N-552*
 
 ---
 
@@ -129,7 +129,7 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
-**N-762** Baron Coleman
+**N-552** Baron Coleman
 
 Independent investigator and YouTuber now working full-time on the Charlie Kirk assassination case. Co-host for this episode and recurring collaborator.
 
@@ -142,7 +142,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-763** Dave Rubin
+**N-61** Dave Rubin
 
 Commentator and former associate of Candace Owens. Subject of an X post dispute in this episode and host of an alleged prior incident involving a former PragerU employee.
 
@@ -207,7 +207,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-768** Justin Strieff
+**N-43** Justin Strife
 
 Associate of Erika Kirk referenced in connection with verification of Andrew Kolvet's flight arrangements and tarmac arrival sequence.
 
@@ -229,7 +229,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1657.1, C-2154, N-2, N-768*
+*Related: A-1657.1, C-2154, N-2, N-43*
 
 ---
 
@@ -265,7 +265,7 @@ Claim: Dave Rubin posted on X that Candace Owens, during a dinner at his home, s
 
 Anchored Artifacts: A-1654.1
 
-Related Nodes: N-763, N-1
+Related Nodes: N-61, N-1
 
 Investigative Direction: Obtain archived copy of the Dave Rubin X post and corroborate the original wording and posting timestamp.
 
@@ -279,7 +279,7 @@ Claim: Candace Owens states that her husband has no memory of any discussion of 
 
 Anchored Artifacts: A-1654.1
 
-Related Nodes: N-763
+Related Nodes: N-61
 
 Investigative Direction: Compare Rubin's account with contemporaneous messages, third-party witnesses, or recordings if any exist; document any additional corroborating witnesses.
 
@@ -377,7 +377,7 @@ Claim: A prior Baron Coleman YouTube video shows Coleman confronting commenter "
 
 Anchored Artifacts: A-1658.1, A-1659.1
 
-Related Nodes: N-762
+Related Nodes: N-552
 
 Investigative Direction: Locate the full Coleman confrontation clip and the referenced "Operation Debunk Mitch" series; document context as part of Coleman's investigative output.
 

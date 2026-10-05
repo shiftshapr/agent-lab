@@ -85,7 +85,7 @@
             "C-2135"
           ],
           "related_nodes": [
-            "N-747",
+            "N-434",
             "N-1496",
             "N-1497"
           ],
@@ -241,7 +241,7 @@
             "C-2141"
           ],
           "related_nodes": [
-            "N-754",
+            "N-42",
             "N-1498"
           ],
           "tags": [],
@@ -352,7 +352,7 @@
             "C-2145"
           ],
           "related_nodes": [
-            "N-758",
+            "N-45",
             "N-759",
             "N-760",
             "N-1500"
@@ -407,7 +407,7 @@
             "C-2147"
           ],
           "related_nodes": [
-            "N-747",
+            "N-434",
             "N-1"
           ],
           "tags": [],
@@ -529,8 +529,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-747",
-      "ref": "N-747",
+      "@id": "N-434",
+      "ref": "N-434",
       "name": "Dan Flood",
       "type": "person",
       "description": "Head of TPUSA/Charlie Kirk security detail; subject of biographical claims regarding Allen Texas upbringing, New Braunfels Texas residency, and prior security work at the Cattleman's Ball.",
@@ -587,14 +587,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-747",
+        "N-434",
         "N-1496"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-749",
-      "ref": "N-749",
+      "@id": "N-424",
+      "ref": "N-424",
       "name": "Brian Harpole",
       "type": "person",
       "description": "TPUSA security team member present on September 10; identified by host as also Dallas-born, working under Greg Schmidt for Charlie Kirk's security.",
@@ -633,14 +633,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-749",
+        "N-424",
         "N-1496"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-751",
-      "ref": "N-751",
+      "@id": "N-556",
+      "ref": "N-556",
       "name": "Greg Schaefer",
       "type": "person",
       "description": "Founder of Schaefer Security, identified by host as former FBI hostage rescue team member with Budapest stationing.",
@@ -652,14 +652,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-747",
+        "N-434",
         "N-1496"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-752",
-      "ref": "N-752",
+      "@id": "N-724",
+      "ref": "N-724",
       "name": "Bill Montgomery",
       "type": "person",
       "description": "Identified by host as the figure who convinced Charlie Kirk to start TPUSA and initially organized/paid for Charlie's security via Schaefer Security.",
@@ -672,7 +672,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1",
-        "N-747",
+        "N-434",
         "N-1496"
       ]
     },
@@ -698,9 +698,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-754",
-      "ref": "N-754",
-      "name": "Andrew Kovat",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA PR; subject of on-air interview clip regarding the drone explanation.",
       "related_artifacts": [
@@ -718,9 +718,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-755",
-      "ref": "N-755",
-      "name": "Frank Turk",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
       "type": "person",
       "description": "TPUSA staff member whose earlier statement about Charlie viewing drone footage creates the drone discrepancy.",
       "related_artifacts": [],
@@ -736,9 +736,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-756",
-      "ref": "N-756",
-      "name": "NDA Buckman",
+      "@id": "N-730",
+      "ref": "N-730",
+      "name": "Nelda Buckman",
       "type": "person",
       "description": "Co-donor (with Carl Buckman) identified as TPUSA's number-one donor with a $10 million check; New Braunfels resident.",
       "related_artifacts": [],
@@ -749,15 +749,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-757",
+        "N-731",
         "N-1497"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-757",
-      "ref": "N-757",
-      "name": "Carl Buckman",
+      "@id": "N-731",
+      "ref": "N-731",
+      "name": "Karl Buckman",
       "type": "person",
       "description": "Co-donor (with NDA Buckman) identified as TPUSA's number-one donor; New Braunfels resident.",
       "related_artifacts": [],
@@ -768,14 +768,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-756",
+        "N-730",
         "N-1497"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-758",
-      "ref": "N-758",
+      "@id": "N-45",
+      "ref": "N-45",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pastor; leader of Turning Point Faith; named guest at the January 21 Cornerstone Chapel event.",
@@ -880,11 +880,11 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-747",
+        "N-434",
         "N-748",
-        "N-749",
+        "N-424",
         "N-750",
-        "N-751"
+        "N-556"
       ]
     },
     {
@@ -907,9 +907,9 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-747",
-        "N-756",
-        "N-757"
+        "N-434",
+        "N-730",
+        "N-731"
       ]
     },
     {
@@ -933,8 +933,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-754",
-        "N-755"
+        "N-42",
+        "N-16"
       ]
     },
     {
@@ -982,7 +982,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-758",
+        "N-45",
         "N-759",
         "N-760"
       ]
@@ -1168,7 +1168,7 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-747",
+        "N-434",
         "N-748",
         "N-1",
         "N-1496"
@@ -1187,7 +1187,7 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-747",
+        "N-434",
         "N-1496"
       ],
       "tags": [],
@@ -1204,7 +1204,7 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-747",
+        "N-434",
         "N-1497"
       ],
       "tags": [],
@@ -1221,9 +1221,9 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-747",
+        "N-434",
         "N-1496",
-        "N-752"
+        "N-724"
       ],
       "tags": [],
       "claim_timestamp": "00:13:36",
@@ -1393,7 +1393,7 @@
         "A-1651.1"
       ],
       "related_nodes": [
-        "N-758",
+        "N-45",
         "N-759",
         "N-760",
         "N-1500"
@@ -1428,7 +1428,7 @@
         "A-1653.1"
       ],
       "related_nodes": [
-        "N-747",
+        "N-434",
         "N-1"
       ],
       "tags": [],

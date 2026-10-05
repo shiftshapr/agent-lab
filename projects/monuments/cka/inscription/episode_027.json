@@ -31,7 +31,7 @@
             "C-1618"
           ],
           "related_nodes": [
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-348"
+            "N-313"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -78,7 +78,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-348"
+            "N-313"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -97,7 +97,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-348"
+            "N-313"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -116,7 +116,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-348"
+            "N-313"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -216,8 +216,8 @@
             "C-1629"
           ],
           "related_nodes": [
-            "N-351",
-            "N-352"
+            "N-135",
+            "N-272"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -235,7 +235,7 @@
             "C-1630"
           ],
           "related_nodes": [
-            "N-351"
+            "N-135"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -288,7 +288,7 @@
             "C-1632"
           ],
           "related_nodes": [
-            "N-354"
+            "N-235"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -342,7 +342,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-348",
+            "N-313",
             "N-1303"
           ],
           "tags": [],
@@ -370,7 +370,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-351",
+            "N-135",
             "N-356",
             "N-1304",
             "N-1305"
@@ -406,8 +406,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-348",
-      "ref": "N-348",
+      "@id": "N-313",
+      "ref": "N-313",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Interviewer in the Fox News sit-down; visible in Ole Miss backstage video with Erika.",
@@ -476,8 +476,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-351",
-      "ref": "N-351",
+      "@id": "N-135",
+      "ref": "N-135",
       "name": "Alex Clark",
       "type": "person",
       "description": "Author of two artifact-anchored tweets; subject of Tom Paul comment referencing her show.",
@@ -497,14 +497,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-352",
+        "N-272",
         "N-1304"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-352",
-      "ref": "N-352",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Subject of Alex Clark's defense tweet (Korea/Japan trip) and host's standing concerns about his post-assassination public posture; named as having taken over Charlie's Liberty University speaking slot (per host commentary, not artifact-anchored in this episode).",
@@ -520,7 +520,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-351"
+        "N-135"
       ]
     },
     {
@@ -547,8 +547,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-354",
-      "ref": "N-354",
+      "@id": "N-235",
+      "ref": "N-235",
       "name": "Dinesh D'Souza",
       "type": "person",
       "description": "Author of one artifact-anchored X post.",
@@ -610,8 +610,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-357",
-      "ref": "N-357",
+      "@id": "N-16",
+      "ref": "N-16",
       "name": "Frank Turek",
       "type": "person",
       "description": "Referenced by host as having stated on stage that Charlie was gone by the time he was in the car (host commentary only, not artifact-anchored in this episode).",
@@ -802,7 +802,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-348",
+        "N-313",
         "N-1300"
       ]
     },
@@ -826,9 +826,9 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-356",
-        "N-351",
+        "N-135",
         "N-2",
-        "N-357"
+        "N-16"
       ]
     },
     {
@@ -869,8 +869,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
@@ -895,7 +895,7 @@
         "A-1345.1"
       ],
       "related_nodes": [
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:02:10",
@@ -911,7 +911,7 @@
         "A-1345.1"
       ],
       "related_nodes": [
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:02:10",
@@ -994,7 +994,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-348",
+        "N-313",
         "N-1303",
         "N-1300"
       ],
@@ -1096,8 +1096,8 @@
         "A-1349.1"
       ],
       "related_nodes": [
-        "N-351",
-        "N-352"
+        "N-135",
+        "N-272"
       ],
       "tags": [],
       "claim_timestamp": "00:46:46",
@@ -1113,7 +1113,7 @@
         "A-1349.2"
       ],
       "related_nodes": [
-        "N-351"
+        "N-135"
       ],
       "tags": [],
       "claim_timestamp": "00:48:47",
@@ -1146,7 +1146,7 @@
         "A-1351.1"
       ],
       "related_nodes": [
-        "N-354"
+        "N-235"
       ],
       "tags": [],
       "claim_timestamp": "00:57:25",
@@ -1180,7 +1180,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-351",
+        "N-135",
         "N-356",
         "N-1304",
         "N-358"

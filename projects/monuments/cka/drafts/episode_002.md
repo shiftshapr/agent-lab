@@ -17,8 +17,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1081, A-1082, A-1083, A-1084, A-1085, A-1086, A-1087, A-1088, A-1089, A-1090, A-1091, A-1092, A-1093, A-1094
   - Claim Range: C-1125-C-1143
-  - New Nodes Introduced: N-35, N-50, N-65, N-66, N-67, N-68, N-69, N-70, N-71, N-72, N-73, N-74, N-75, N-76, N-77, N-78, N-79, N-80, N-81, N-82, N-83, N-1076, N-1077, N-1078, N-1079, N-1080, N-1081, N-1082, N-1083, N-1084, N-1085, N-1086, N-1087, N-1088, N-1089, N-1090, N-1091, N-1092, N-1093
-  - Reused Nodes Appearing: N-1, N-2, N-7, N-1000, N-1070, N-1071
+  - New Nodes Introduced: N-35, N-50, N-65, N-66, N-67, N-68, N-69, N-70, N-71, N-72, N-73, N-74, N-75, N-76, N-77, N-78, N-80, N-81, N-82, N-83, N-1076, N-1077, N-1078, N-1079, N-1080, N-1081, N-1082, N-1083, N-1084, N-1085, N-1086, N-1087, N-1088, N-1089, N-1090, N-1091, N-1092, N-1093
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-1000, N-1070, N-1071
 
 ## 2. Executive Summary
 
@@ -31,7 +31,7 @@ CKA seq 2 presents host commentary on the Charlie Kirk assassination investigati
 **A-1081.1** Brief clip of Erika Kirk's public remarks after Charlie Kirk's death, played on screen.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:00:59–00:01:41
-*Related: C-1123, N-7, N-2, N-1*
+*Related: C-1123, N-3, N-2, N-1*
 Transcript Snippet: The cries of this widow will echo around the world like a battlecry.
 Confidence: high
 
@@ -42,7 +42,7 @@ Confidence: high
 **A-1082.1** Clip of Netanyahu on Fox News less than 24 hours after Kirk's death, holding up the May 2 letter and describing a phone call and Israel invitation.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:07:02–00:08:46
-*Related: C-1124, C-1125, C-1129, N-65, N-1, N-1071*
+*Related: C-1124, C-1125, C-1129, N-65, N-1071*
 Transcript Snippet: He said he wrote me a letter on May 2nd this year. I called him and I spoke to him and I said, Please come to Israel.
 Confidence: high
 
@@ -177,7 +177,7 @@ Confidence: high
 **A-1091.1** Tweet by Bill Ackman (transcribed as 'Aman') saying he was privileged to share a meal with Charlie Kirk, presented as contradictory to host narrative.
 Event Timestamp: 2025-09
 Video Timestamp: 00:18:47–00:18:58
-*Related: C-1137, N-66, N-1, N-1081*
+*Related: C-1137, N-66, N-1081*
 Transcript Snippet: I feel incredibly privileged to have spent a day and shared a meal with Charlie Kirk this summer. He was a giant of a man.
 Confidence: medium
 Uncertainty: Transcript spells 'Aman'; flag for likely Bill Ackman (billionaire named in same Hamptons discussion).
@@ -189,7 +189,7 @@ Uncertainty: Transcript spells 'Aman'; flag for likely Bill Ackman (billionaire 
 **A-1092.1** Text messages sent by Candace Owens to Seth Dylan about the Hamptons meeting, described by host as shown on screen.
 Event Timestamp: 2025-09
 Video Timestamp: 00:18:41–00:19:36
-*Related: C-1137, N-7, N-67, N-66, N-65, N-1081, N-1083*
+*Related: C-1137, N-3, N-67, N-66, N-65, N-1081, N-1083*
 Transcript Snippet: You were present when Aman lost his mind on Charlie and when BB invited him to Israel and Charlie refused.
 Confidence: high
 
@@ -237,7 +237,7 @@ Confidence: high
 
 ---
 
-**N-7** Candace Owens
+**N-3** Candace Owens
 
 Node Type: Person
 Host of the episode; sources many second-hand claims about the Hamptons meeting and family interactions.
@@ -282,7 +282,7 @@ Uncertainty: Transcript spells 'Aman'; likely Bill Ackman (billionaire, Epstein 
 
 ---
 
-**N-67** Seth Dylan
+**N-67** Seth Dillon
 
 Node Type: Person
 Reportedly present at Hamptons meeting; subject of host's unanswered text exchange.
@@ -441,7 +441,7 @@ Confidence: high
 
 ---
 
-**N-79** Donald Trump
+**N-5** Donald Trump
 
 Node Type: Person
 President whose account tweeted a photo of Charlie Kirk with US and Israeli flags.
@@ -731,7 +731,7 @@ Claim Timestamp: 00:00:59
 Claim: Erika Kirk delivered public remarks framing her husband's mission as continuing after his death.
 Transcript Snippet: The cries of this widow will echo around the world like a battlecry.
 Anchored Artifacts: A-1081.1
-Related Nodes: N-2, N-1, N-7, N-71, N-74, N-79, N-80, N-81, N-82, N-83
+Related Nodes: N-2, N-1, N-3, N-71, N-74, N-5, N-80, N-81, N-82, N-83
 Confidence: high
 Investigative Direction: Obtain full unedited version of Erika Kirk's remarks and compare against clip circulating on social media.
 
@@ -755,7 +755,7 @@ Claim Timestamp: 00:07:26
 Claim: Netanyahu claimed on Fox News that Charlie Kirk wrote him a letter on May 2 expressing support for Israel.
 Transcript Snippet: He said, One of my greatest joys as a Christian is advocating for Israel and forming alliances to defend Judeo-Christian civilization.
 Anchored Artifacts: A-1082.1, A-1083.1
-Related Nodes: N-65, N-1, N-1082
+Related Nodes: N-65, N-1082
 Confidence: high
 Investigative Direction: Obtain full text of the May 2 letter and verify against Netanyahu's quoted excerpt.
 
@@ -767,7 +767,7 @@ Claim Timestamp: 00:09:48
 Claim: Host asserts the May 2 letter actually expressed concerns about Israel influence on American politics, contradicting Netanyahu's framing.
 Transcript Snippet: Charlie was concerned about Israel and their influence on American politics and how they were pushing things that he felt were in conflict with his beliefs.
 Anchored Artifacts: A-1083.1
-Related Nodes: N-65, N-1, N-7, N-1082
+Related Nodes: N-65, N-1, N-3, N-1082
 Contradicts: C-1125
 Confidence: medium
 Uncertainty: Host's framing is an assertion; full letter text not shown in episode.
@@ -793,7 +793,7 @@ Claim Timestamp: 00:15:01
 Claim: Host asserts Bill Ackman staged an intervention in the Hamptons where he pressured Kirk on Israel.
 Transcript Snippet: An intervention was staged by Bill Aman because Charlie's thoughts, Charlie's rational thoughts about Israel were a no no.
 Anchored Artifacts: A-1092.1
-Related Nodes: N-66, N-67, N-1, N-7, N-78, N-1081, N-1092, N-1000
+Related Nodes: N-66, N-67, N-1, N-3, N-78, N-1081, N-1092, N-1000
 Confidence: medium
 Uncertainty: Host says she was told; she directly challenges Ackman to dispute. No independent confirmation shown.
 Investigative Direction: Identify attendees and obtain statements from Seth Dylan and any other Hamptons meeting witnesses.
@@ -819,7 +819,7 @@ Claim Timestamp: 00:17:13
 Claim: Host asserts Kirk declined the Israel trip and funding that Netanyahu and others would have provided.
 Transcript Snippet: I know for a fact that Charlie denied that funding… he declined to go to Israel.
 Anchored Artifacts: A-1082.1, A-1092.1
-Related Nodes: N-65, N-1, N-7, N-1083
+Related Nodes: N-65, N-1, N-3, N-1083
 Confidence: medium
 Uncertainty: Host asserts she knows factually; no document shown.
 Investigative Direction: Confirm with attendees or document evidence of declined invitation.
@@ -894,7 +894,7 @@ Claim Timestamp: 00:41:35
 Claim: Charlie Kirk was shot at 12:23 PM on September 10, 2025.
 Transcript Snippet: At 12:23 p.m. is when Charlie Kirk is shot.
 Anchored Artifacts: 
-Related Nodes: N-1, N-1089
+Related Nodes: N-1089
 Confidence: high
 Uncertainty: Time universally reported; not anchored to specific shown artifact in this episode (rooftop footage shown but no formal doc).
 Investigative Direction: Cross-reference official timeline and autopsy report.
@@ -908,7 +908,7 @@ Claim Timestamp: 00:18:22
 Claim: Seth Dylan and Bill Ackman have not publicly disputed host's framing of the Hamptons meeting; Seth Dylan did not respond to direct text outreach.
 Transcript Snippet: Seth Dylan who was normally very quick with a response has not yet been able to respond.
 Anchored Artifacts: A-1091.1, A-1092.1
-Related Nodes: N-67, N-66, N-7, N-1081
+Related Nodes: N-67, N-66, N-3, N-1081
 Confidence: high
 Investigative Direction: Independently verify non-response by reaching out to Seth Dylan and Bill Ackman.
 
@@ -1006,7 +1006,7 @@ Tags: widow, mourning
 ### Occurrence 1
 
 Video Timestamp: 00:08:46
-Speaker: N-7
+Speaker: N-3
 Quote: We don't have to actually speak conspiracies.
 Context: Host pivots to questioning Netanyahu's 'they' framing immediately after playing his clip.
 Tags: dismissal, rhetorical_bracketing
@@ -1018,7 +1018,7 @@ Tags: dismissal, rhetorical_bracketing
 ### Occurrence 1
 
 Video Timestamp: 00:20:55
-Speaker: N-7
+Speaker: N-3
 Quote: Charlie was praying the rosary. Charlie was going to mass.
 Context: Host frames Kirk as undergoing Catholic conversion shortly before death.
 Tags: spiritual_conversion, identity_shift
@@ -1026,7 +1026,7 @@ Tags: spiritual_conversion, identity_shift
 ### Occurrence 2
 
 Video Timestamp: 00:21:07
-Speaker: N-7
+Speaker: N-3
 Quote: Just take the last step, Charlie… you're too smart to be a Protestant.
 Context: Host recounts joking with Kirk about converting to Catholicism.
 Tags: spiritual_conversion, identity_shift
@@ -1034,7 +1034,7 @@ Tags: spiritual_conversion, identity_shift
 ### Occurrence 3
 
 Video Timestamp: 00:21:15
-Speaker: N-7
+Speaker: N-3
 Quote: You stop referring to yourself as I did as a Judeo-Christian.
 Context: Host notes that the 'Judeo-Christian' label is dropped as one converts.
 Tags: judeo_christian_label, identity_shift
@@ -1046,7 +1046,7 @@ Tags: judeo_christian_label, identity_shift
 ### Occurrence 1
 
 Video Timestamp: 00:27:24
-Speaker: N-7
+Speaker: N-3
 Quote: Guess we can't prod the narrative any further, guys. Holocaust.
 Context: Host frames Netanyahu's invocation of the Holocaust as a conversation-stopper that should not be heeded.
 Tags: holocaust_invocation, silencing_tactic
@@ -1054,7 +1054,7 @@ Tags: holocaust_invocation, silencing_tactic
 ### Occurrence 2
 
 Video Timestamp: 00:29:39
-Speaker: N-7
+Speaker: N-3
 Quote: The Epstein playbook is being used on a daily basis.
 Context: Host links Epstein blackmail pattern to ongoing pressure on conservative figures.
 Tags: blackmail, deep_state

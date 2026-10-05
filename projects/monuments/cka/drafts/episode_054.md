@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a688ac8130f98ab72ed00abef6c15223a147808ac45c1eeb54514a119ae0d0de
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-651, N-653, N-654, N-655, N-656, N-657, N-658, N-659, N-660, N-661, N-662, N-690, N-691, N-692, N-693, N-694, N-1463, N-1464, N-1465, N-1466, N-1467, N-1468, N-1469, N-1470, N-1471, N-1472
+  - New Nodes Introduced:  N-653, N-654, N-655, N-656, N-657, N-658, N-659, N-660, N-661, N-662, N-690, N-691, N-692, N-693, N-694, N-1463, N-1464, N-1465, N-1466, N-1467, N-1468, N-1469, N-1470, N-1471, N-1472
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -29,7 +29,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1596, A-1597, A-1598, A-1599, A-1600, A-1601, A-1602, A-1603, A-1604, A-1605, A-1606
   - Claim Range: C-2026–C-2046
-  - New People Nodes Introduced: N-651, N-85, N-653, N-654, N-655, N-656, N-657, N-658, N-659, N-660, N-661, N-662, N-690, N-691, N-692, N-693, N-694
+  - New People Nodes Introduced: N-424, N-70, N-653, N-654, N-655, N-656, N-657, N-658, N-659, N-660, N-661, N-662, N-690, N-691, N-692, N-693, N-694
   - New Investigation Target Nodes Introduced: N-1463, N-1464, N-1465, N-1466, N-1467, N-1468, N-1469, N-1470, N-1471, N-1472
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:01:46–00:03:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played in full)
 
-*Related: C-2026, N-651*
+*Related: C-2026, N-424*
 
 ---
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:12:58–00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (post text read aloud verbatim)
 
-*Related: C-2027, N-85, N-1472*
+*Related: C-2027, N-70, N-1472*
 
 ---
 
@@ -308,7 +308,7 @@ Node Type: person
 
 ## People Nodes
 
-**N-651** Brian Herpolsheimer
+**N-424** Brian Harpole
 
 Security contractor interviewed by Sean Ryan about pre-planning for Charlie Kirk events. Name appears inconsistently in the episode as both "Harpole" and "Herpolsheimer."
 
@@ -514,7 +514,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-651*
+*Related: N-424*
 
 ---
 
@@ -527,7 +527,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-85, N-1472, N-10002*
+*Related: N-70, N-1472, N-10002*
 
 ---
 
@@ -540,7 +540,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-651*
+*Related: N-424*
 
 ---
 
@@ -605,7 +605,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1597.1, C-2027, N-85, N-1466, N-10002*
+*Related: A-1597.1, C-2027, N-70, N-1466, N-10002*
 
 ---
 
@@ -625,7 +625,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 Claim Timestamp: 00:02:30
 Claim: Brian Herpolsheimer stated that the first hard-conversations/intelligence-sharing for Charlie Kirk events begins on the 24th of the month prior to the event.
 Anchored Artifacts: A-1596.1
-Related Nodes: N-651, N-691, N-692, N-693
+Related Nodes: N-424, N-691, N-692, N-693
 Investigative Direction: Obtain the full Sean Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice.
 
 ---
@@ -635,7 +635,7 @@ Investigative Direction: Obtain the full Sean Ryan interview transcript and any 
 Claim Timestamp: 00:12:58
 Claim: Tyler Bowyer's wife posted on social media about a 12-year-old Ukrainian orphan named Natalia staying with friends through an adoption agency program; Tyler spoke with her in Russian for over an hour.
 Anchored Artifacts: A-1597.1
-Related Nodes: N-85, N-1472, N-10002
+Related Nodes: N-70, N-1472, N-10002
 Investigative Direction: Obtain the original Instagram post (including screenshots, dates, and the Obs Report reference) and the adoption agency records to verify the event and Natalia's identity.
 
 ---

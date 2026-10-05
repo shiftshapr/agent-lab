@@ -29,7 +29,7 @@
 
 - Artifact Families Introduced: A-1686, A-1687, A-1688, A-1689
 - Claim Range: C-2206–C-2224
-  - New Nodes Introduced: N-794, N-795, N-796, N-797, N-1517, N-1518, N-1519, N-1520, N-1521
+  - New Nodes Introduced:  N-796, N-797, N-1517, N-1518, N-1519, N-1520, N-1521
   - Reused Nodes Appearing: 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk — preserved as N-2 series entry; note: transcript renders "Erika" — see Optional Flags)
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:24:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2206, C-2207, C-2220, N-2, N-795, N-797*
+*Related: C-2206, C-2207, C-2220, N-264, N-797*
 
 **A-1686.2** Main Address — "Family" Framing, Job-Safety Assurance, Self-Correction Around "Happy"
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:17:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2206, C-2208, C-2209, C-2210, N-2, N-795, N-1519*
+*Related: C-2206, C-2208, C-2209, C-2210, N-264, N-1519*
 
 **A-1686.3** Closing Segment — "Be Soft With One Another," Airplane 15-Minute Story Attributed to "Usha," "So Sweet, God Bless You All"
 
@@ -101,7 +101,7 @@ Video Timestamp: 00:39:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2215, N-794*
+*Related: C-2215, N-607*
 
 **A-1688.2** Boreing on Candace as "Nuclear Energy" Doing "An Incredible Amount of Damage"
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:40:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2216, C-2221, N-794*
+*Related: C-2216, C-2221, N-607*
 
 **A-1688.3** Boreing Comparing Candace's Show to "Rhetorical Pornography"
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:41:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2217, C-2222, N-794*
+*Related: C-2217, C-2222, N-607*
 
 **A-1688.4** Boreing Claiming Candace Said "I Believe What the People Believe" on Two Occasions
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:44:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2218, C-2223, N-794*
+*Related: C-2218, C-2223, N-607*
 
 **A-1689** The Bulwark Podcast Clip Bundle
 
@@ -143,13 +143,13 @@ Video Timestamp: 00:47:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2219, C-2224, N-794, N-1520*
+*Related: C-2219, C-2224, N-607, N-1520*
 
 ---
 
 # IV. NODE REGISTER
 
-**N-794** Jeremy Boreing
+**N-607** Jeremy Boreing
 
 Former CEO of The Daily Wire. Subject of multiple artifact-anchored claims in this episode regarding his characterization of Candace Owens and his management of the company's Hungarian production.
 
@@ -160,7 +160,7 @@ Investigative Pressure: Medium
 
 *Related: A-1688.1, A-1688.2, A-1688.3, A-1688.4, A-1689.1, C-2215, C-2216, C-2217, C-2218, C-2219, C-2221, C-2222, C-2223, C-2224, N-1520*
 
-**N-795** Stacy Sheridan
+**N-264** Stacy Sheridan
 
 Head of Fundraising for Turning Point USA. Referenced by name during the September 16 corporate Zoom call ("even Stacy said he's going to…find ways to speak to us"). Host alleges Sheridan traveled with Erika to Utah and was present at the hospital and during the casket arrival.
 
@@ -235,7 +235,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1689.1, C-2219, C-2224, N-794*
+*Related: A-1689.1, C-2219, C-2224, N-607*
 
 **N-1521** Fort Huachuca PR Response Coordination Question
 
@@ -260,7 +260,7 @@ Claim: A corporate-wide Zoom call addressed by Erika Kirk to Turning Point USA e
 
 Anchored Artifacts: A-1686.1, A-1686.2, A-1686.3
 
-Related Nodes: N-2, N-795, N-797, N-1519
+Related Nodes: N-264, N-797, N-1519
 
 Investigative Direction: Verify call metadata, attendee list, and recording provenance; cross-reference against the September 17 public board announcement (A-1687.1).
 
@@ -284,7 +284,7 @@ Claim: During the September 16 call, Erika Kirk repeatedly addressed Turning Poi
 
 Anchored Artifacts: A-1686.2
 
-Related Nodes: N-2, N-795, N-1519
+Related Nodes: N-264, N-1519
 
 Investigative Direction: Compile every instance of "family" usage; obtain termination records of named attendees to verify the host's juxtaposition.
 
@@ -368,7 +368,7 @@ Claim: In a podcast interview, Jeremy Boreing stated, "I certainly think that hi
 
 Anchored Artifacts: A-1688.1
 
-Related Nodes: N-794
+Related Nodes: N-607
 
 Investigative Direction: Identify the source podcast and episode date; verify Boreing's full context for the statement.
 
@@ -380,7 +380,7 @@ Claim: In a podcast interview, Jeremy Boreing stated: "Candace is like nuclear e
 
 Anchored Artifacts: A-1688.2
 
-Related Nodes: N-794
+Related Nodes: N-607
 
 Investigative Direction: Identify source podcast and date; verify exact quote and surrounding context.
 
@@ -392,7 +392,7 @@ Claim: In a podcast interview, Jeremy Boreing stated Candace Owens "is at war wi
 
 Anchored Artifacts: A-1688.3
 
-Related Nodes: N-794
+Related Nodes: N-607
 
 Investigative Direction: Identify source podcast and date; verify quote against full unedited clip.
 
@@ -404,7 +404,7 @@ Claim: In a podcast interview, Jeremy Boreing claimed that on two separate occas
 
 Anchored Artifacts: A-1688.4
 
-Related Nodes: N-794
+Related Nodes: N-607
 
 Investigative Direction: Identify source podcast and date; verify whether Candace Owens has ever publicly responded to or denied this characterization.
 
@@ -416,7 +416,7 @@ Claim: In a Bulwark podcast segment, the host described Daily Wire's Hungary pro
 
 Anchored Artifacts: A-1689.1
 
-Related Nodes: N-794, N-1520
+Related Nodes: N-607, N-1520
 
 Investigative Direction: Identify the Bulwark episode and date; verify whether Daily Wire or Boreing has disputed these production details.
 
@@ -440,7 +440,7 @@ Claim: Candace Owens asserts that Boreing's explicit framing of why he hired her
 
 Anchored Artifacts: A-1688.2
 
-Related Nodes: N-794
+Related Nodes: N-607
 
 Investigative Direction: Evaluate the host's interpretive claim against the verbatim Boreing quote; consider whether Boreing's prior public statements confirm or rebut this framing.
 
@@ -452,7 +452,7 @@ Claim: Candace Owens rejects Boreing's pornography analogy and argues it functio
 
 Anchored Artifacts: A-1688.3
 
-Related Nodes: N-794
+Related Nodes: N-607
 
 Investigative Direction: Document the factual claims about Israeli sexual blackmail and Gaza pornography broadcasts; identify primary sources for each.
 
@@ -464,7 +464,7 @@ Claim: Candace Owens rejects Boreing's account of her saying "I believe what the
 
 Anchored Artifacts: A-1688.4
 
-Related Nodes: N-794
+Related Nodes: N-607
 
 Investigative Direction: Compare Boreing's account against any other contemporaneous documentation of the alleged conversations.
 
@@ -476,7 +476,7 @@ Claim: Candace Owens concurs with the Bulwark host's characterization of Daily W
 
 Anchored Artifacts: A-1689.1
 
-Related Nodes: N-794, N-1520
+Related Nodes: N-607, N-1520
 
 Investigative Direction: Identify any public Daily Wire financial disclosures or departure-agreement terms that corroborate Bulwark's reporting.
 

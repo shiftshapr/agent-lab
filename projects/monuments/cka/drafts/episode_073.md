@@ -34,7 +34,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1772, A-1773, A-1774, A-1775, A-1776, A-1777, A-1778, A-1779
   - Claim Range: C-2364–C-2377
-  - New Nodes Introduced: N-934, N-935, N-936, N-937, N-938, N-939, N-940, N-1577, N-1578, N-1579, N-1580, N-1581
+  - New Nodes Introduced:  N-936, N-939, N-940, N-1577, N-1578, N-1579, N-1580, N-1581
   - Reused Nodes Appearing: 
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
 
@@ -64,7 +64,7 @@ Confidence Level: High
 
 Text read on air: "It is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far."
 
-*Related: C-2366, N-934, N-2*
+*Related: C-2366, N-91, N-2*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:04:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2365, C-2367, N-2, N-938, N-1577*
+*Related: C-2365, C-2367, N-2, N-364, N-1577*
 
 **A-1774.2** Segment: Erika Kirk denying Charlie sent messages that "they're going to get me"; asserting she possesses his cell phone
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:21:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2369, C-2377, N-2, N-938, N-1578*
+*Related: C-2369, C-2377, N-2, N-364, N-1578*
 
 ---
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:10:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2368, N-2, N-937, N-1, N-1580*
+*Related: C-2368, N-2, N-313, N-1580*
 
 **A-1775.2** Segment: Jesse Watters asking "Tell me about the day before the shooting"; Erika's edited response mentioning priest/dinner, death threats, Erika's mother in Phoenix, Charlie saying "Home needs you"
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:16:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2368, N-2, N-937, N-1580*
+*Related: C-2368, N-2, N-313, N-1580*
 
 ---
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:29:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2371, N-935*
+*Related: C-2371, N-909*
 
 **A-1776.2** Segment: Carrie Prejean Bowler stating "I'm a Catholic and Catholics do not embrace Zionism"
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:30:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2371, N-935*
+*Related: C-2371, N-909*
 
 ---
 
@@ -166,7 +166,7 @@ Confidence Level: High
 
 Text excerpt: "Carrie Preaching Baller has been removed from President Trump's religious liberty commission… No member of the commission has the right to hijack a hearing for their own personal and political agenda on any issue."
 
-*Related: C-2370, N-935, N-936*
+*Related: C-2370, N-909, N-936*
 
 ---
 
@@ -207,7 +207,7 @@ Node Type: person
 
 *Related:*
 
-**N-934** Laura Loomer
+**N-91** Laura Loomer
 
 Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.
 
@@ -220,7 +220,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-935** Carrie Prejean Bowler (name spelling uncertain; transcript varies: "Prejean Bowler," "Peen," "Preene Bowler")
+**N-909** Carrie Prejean Bowler
 
 Catholic activist and former Miss California; removed from the White House Religious Liberty Commission following a hearing where she challenged the IHRA definition of anti-Semitism.
 
@@ -246,7 +246,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-937** Jesse Watters
+**N-313** Jesse Watters
 
 Fox News host; interviewer in the Fox News interview clip of Erika Kirk discussed in this episode.
 
@@ -259,7 +259,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-938** Glenn Beck
+**N-364** Glenn Beck
 
 Host of the December 12, 2025 interview in which Erika Kirk appeared in Charlie Kirk's home office.
 
@@ -374,7 +374,7 @@ Claim: The wedding photo was absent from the background during Erika Kirk's Dece
 
 Anchored Artifacts: A-1774.1, A-1773.1
 
-Related Nodes: N-2, N-938, N-1577
+Related Nodes: N-2, N-364, N-1577
 
 Investigative Direction: Obtain the full Glenn Beck segment in higher resolution to confirm the absence; cross-reference any subsequent public appearances from the same office to determine whether the photo ever returned.
 
@@ -388,7 +388,7 @@ Claim: Laura Loomer posted on X stating "It is time for Mrs. Erika Kirk to sue C
 
 Anchored Artifacts: A-1772.1
 
-Related Nodes: N-934, N-2, N-3
+Related Nodes: N-91, N-2, N-3
 
 Investigative Direction: Verify the post's existence on X, capture the timestamp, and document whether Erika or TPUSA responded.
 
@@ -402,7 +402,7 @@ Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk stated she 
 
 Anchored Artifacts: A-1774.1
 
-Related Nodes: N-2, N-938, N-1577
+Related Nodes: N-2, N-364, N-1577
 
 Investigative Direction: Compare Erika's "first time back" framing against any other documented visits to the office in the intervening period; check the New York Times home tour piece for prior access claims.
 
@@ -416,7 +416,7 @@ Claim: During a Fox News interview, Erika Kirk stated that Charlie Kirk removed 
 
 Anchored Artifacts: A-1775.1
 
-Related Nodes: N-2, N-937, N-1, N-1580
+Related Nodes: N-2, N-313, N-1580
 
 Investigative Direction: Obtain the original Fox News segment; check whether jewelry handling on the night before is corroborated by any other witness or by luggage/clothing evidence.
 
@@ -430,7 +430,7 @@ Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk denied that
 
 Anchored Artifacts: A-1774.2
 
-Related Nodes: N-2, N-938, N-1578
+Related Nodes: N-2, N-364, N-1578
 
 Investigative Direction: Obtain and review the phone records/text messages cited by Candace Owens in prior episodes; cross-reference with the alleged Dan Flood iMessage account.
 
@@ -444,7 +444,7 @@ Claim: Carrie Prejean Bowler was removed from the White House Religious Liberty 
 
 Anchored Artifacts: A-1777.1
 
-Related Nodes: N-935, N-936
+Related Nodes: N-909, N-936
 
 Investigative Direction: Verify the official announcement and date; document the stated cause and any subsequent statement from Carrie Prejean Bowler.
 
@@ -458,7 +458,7 @@ Claim: During the Religious Liberty Commission hearing, Carrie Prejean Bowler st
 
 Anchored Artifacts: A-1776.2
 
-Related Nodes: N-935
+Related Nodes: N-909
 
 Investigative Direction: Obtain the full hearing transcript and video; cross-reference against official Catholic teaching documents on Zionism.
 
@@ -542,7 +542,7 @@ Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk stated "And
 
 Anchored Artifacts: A-1774.2
 
-Related Nodes: N-2, N-938, N-1578
+Related Nodes: N-2, N-364, N-1578
 
 Investigative Direction: Determine whether Charlie Kirk's phone was ever in law enforcement custody and returned to Erika; subpoena carrier records for relevant period.
 

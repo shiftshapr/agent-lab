@@ -30,7 +30,7 @@
             "C-1980"
           ],
           "related_nodes": [
-            "N-601",
+            "N-133",
             "N-1",
             "N-2",
             "N-3"
@@ -59,9 +59,9 @@
             "C-1981"
           ],
           "related_nodes": [
-            "N-602",
+            "N-50",
             "N-1",
-            "N-601"
+            "N-133"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -88,7 +88,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-601",
+            "N-133",
             "N-607"
           ],
           "tags": [],
@@ -115,7 +115,7 @@
             "C-1983"
           ],
           "related_nodes": [
-            "N-603",
+            "N-599",
             "N-1442"
           ],
           "tags": [],
@@ -142,7 +142,7 @@
             "C-1984"
           ],
           "related_nodes": [
-            "N-603",
+            "N-599",
             "N-606",
             "N-1442"
           ],
@@ -171,7 +171,7 @@
           ],
           "related_nodes": [
             "N-605",
-            "N-608",
+            "N-597",
             "N-1443"
           ],
           "tags": [],
@@ -198,7 +198,7 @@
             "C-1987"
           ],
           "related_nodes": [
-            "N-608",
+            "N-597",
             "N-1441"
           ],
           "tags": [],
@@ -217,7 +217,7 @@
             "C-1986"
           ],
           "related_nodes": [
-            "N-604",
+            "N-424",
             "N-1441",
             "N-1444"
           ],
@@ -237,7 +237,7 @@
             "C-1987"
           ],
           "related_nodes": [
-            "N-608",
+            "N-597",
             "N-1441"
           ],
           "tags": [],
@@ -253,8 +253,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-601",
-      "ref": "N-601",
+      "@id": "N-133",
+      "ref": "N-133",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Daily Wire founder; figure whose AmFest speech, prior pettiness toward the host, and asserted pressure on TPUSA donors regarding Tucker Carlson form the structural backbone of this episode's first half.",
@@ -276,8 +276,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-602",
-      "ref": "N-602",
+      "@id": "N-50",
+      "ref": "N-50",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Speaker at AmFest whose on-stage statements are used as an artifact to support the claim that Charlie Kirk was pressured to remove Tucker from the roster.",
@@ -294,13 +294,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-601"
+        "N-133"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-603",
-      "ref": "N-603",
+      "@id": "N-599",
+      "ref": "N-599",
       "name": "Mark Amodei",
       "type": "person",
       "description": "U.S. Representative (NV); subject of contradictory public-record claims regarding his whereabouts on September 9, 2025.",
@@ -323,8 +323,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-604",
-      "ref": "N-604",
+      "@id": "N-424",
+      "ref": "N-424",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Charlie Kirk's security officer; travel logs referenced as supporting the possibility he attended the Fort Huachuca morning meeting.",
@@ -388,7 +388,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-603",
+        "N-599",
         "N-1442"
       ]
     },
@@ -396,7 +396,7 @@
       "@type": "Person",
       "@id": "N-607",
       "ref": "N-607",
-      "name": "Jeremy Boreing (transcribed as \"Jeremy Boring\")",
+      "name": "Jeremy Boreing",
       "type": "person",
       "description": "Then-CEO of the Daily Wire; conducted the town hall–style firing of Candace Owens captured in A-1563.1.",
       "related_artifacts": [
@@ -416,9 +416,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-608",
-      "ref": "N-608",
-      "name": "Mitch",
+      "@id": "N-597",
+      "ref": "N-597",
+      "name": "Mitch Snow",
       "type": "person",
       "description": "Fort Huachuca witness; his access, NDA-related lawsuit paperwork, and direction-request video are referenced as verified by the host.",
       "related_artifacts": [
@@ -462,10 +462,10 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-603",
-        "N-604",
+        "N-599",
+        "N-424",
         "N-605",
-        "N-608"
+        "N-597"
       ]
     },
     {
@@ -489,7 +489,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-603",
+        "N-599",
         "N-606"
       ]
     },
@@ -513,7 +513,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-605",
-        "N-608"
+        "N-597"
       ]
     },
     {
@@ -535,7 +535,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-604",
+        "N-424",
         "N-1441"
       ]
     },
@@ -596,7 +596,7 @@
       "@type": "Person",
       "@id": "N-3",
       "ref": "N-3",
-      "name": "Candace Owens — host; existing node reused.",
+      "name": "Candace Owens",
       "type": "person",
       "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
       "related_artifacts": [],
@@ -636,7 +636,7 @@
         "A-1561.1"
       ],
       "related_nodes": [
-        "N-601",
+        "N-133",
         "N-3",
         "N-1",
         "N-2"
@@ -657,9 +657,9 @@
         "A-1562.1"
       ],
       "related_nodes": [
-        "N-602",
+        "N-50",
         "N-1",
-        "N-601"
+        "N-133"
       ],
       "tags": [],
       "claim_timestamp": "00:24:37 – 00:26:29",
@@ -676,7 +676,7 @@
       ],
       "related_nodes": [
         "N-3",
-        "N-601",
+        "N-133",
         "N-607"
       ],
       "tags": [],
@@ -693,7 +693,7 @@
         "A-1564.1"
       ],
       "related_nodes": [
-        "N-603",
+        "N-599",
         "N-1442"
       ],
       "tags": [],
@@ -710,7 +710,7 @@
         "A-1565.1"
       ],
       "related_nodes": [
-        "N-603",
+        "N-599",
         "N-606",
         "N-1442"
       ],
@@ -728,7 +728,7 @@
         "A-1566.1"
       ],
       "related_nodes": [
-        "N-608",
+        "N-597",
         "N-605",
         "N-1443"
       ],
@@ -746,7 +746,7 @@
         "A-1567.2"
       ],
       "related_nodes": [
-        "N-604",
+        "N-424",
         "N-1441",
         "N-1444"
       ],
@@ -765,7 +765,7 @@
         "A-1567.3"
       ],
       "related_nodes": [
-        "N-608",
+        "N-597",
         "N-1441"
       ],
       "tags": [],

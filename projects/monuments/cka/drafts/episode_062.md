@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 24dc527071bb4996347a4421cf2c9457ed4da7b0f003289f3d1967ed8acdf2bd
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-782, N-783, N-784, N-785, N-786, N-788, N-789, N-790, N-1509, N-1510, N-1511, N-1512, N-1513
-  - Reused Nodes Appearing: N-1, N-1007
+  - New Nodes Introduced: N-782, N-783, N-785, N-786, N-789, N-790, N-1509, N-1510, N-1511, N-1512, N-1513
+  - Reused Nodes Appearing: N-1007
   - (see registers)
 
 # Episode Analysis: Monument Ep 62
@@ -38,7 +38,7 @@ Video Timestamp: 00:07:27–00:09:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host states Jaco Booyens and Erica Kirk confirmed authenticity)
 
-*Related: C-2182, C-2183, N-1, N-1007, N-782, N-1509*
+*Related: C-2182, C-2183, N-1007, N-782, N-1509*
 
 ---
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:13:25–00:14:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (filing document displayed)
 
-*Related: C-2186, N-783, N-784, N-785, N-786, N-1511, N-1513*
+*Related: C-2186, N-783, N-639, N-785, N-786, N-1511, N-1513*
 
 **A-1671.2** Arizona Chinese News public notice for Desert Spirit Tech LLC (signed Dec 1, 2017; state-received Dec 6, 2017)
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:16:12–00:17:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (notarized filing displayed)
 
-*Related: C-2187, N-783, N-784, N-1511*
+*Related: C-2187, N-783, N-639, N-1511*
 
 ---
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:21:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host displays tweet)
 
-*Related: C-2188, N-85, N-10002*
+*Related: C-2188, N-70, N-10002*
 
 ---
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:26:45–00:30:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played on air; recording captured by employee)
 
-*Related: C-2189, C-2190, C-2191, N-788, N-790, N-1510*
+*Related: C-2189, C-2190, C-2191, N-42, N-790, N-1510*
 
 ---
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:22:28–00:24:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-relayed first-person account)
 
-*Related: C-2192, N-788, N-789, N-1510*
+*Related: C-2192, N-42, N-789, N-1510*
 
 **A-1675.2** First-person account: Marina Minas Zoom-call incident and general counsel home visit for computer retrieval
 
@@ -180,7 +180,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1669.1, A-1675.1, N-1, N-1510*
+*Related: A-1669.1, A-1675.1, N-1510*
 
 ---
 
@@ -197,7 +197,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-783** Lori Frantzve (a.k.a. "Lorin Frantzve" in Desert Spirit Tech filing)
+**N-783** Lori Frantzve
 
 Erica Kirk's mother; 20% stakeholder of record in Desert Spirit Tech LLC; co-filer of Euro Tech in Cincinnati, Ohio.
 
@@ -206,11 +206,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-2186, N-784, N-1007, N-1511, N-1512*
+*Related: A-1671.1, A-1671.2, C-2186, N-639, N-1007, N-1511, N-1512*
 
 ---
 
-**N-784** Larry Guinta (referred to as "Larry Lawrence Guinta")
+**N-639** Larry Guinta
 
 Erica Kirk's stepfather; listed as stakeholder and registered agent of Desert Spirit Tech LLC.
 
@@ -249,7 +249,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-788** Andrew Kolvet
+**N-42** Andrew Kolvet
 
 TPUSA figure who confronted employee regarding Uber-driver conversation per A-1675.1.
 
@@ -262,7 +262,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-789** Marina Minas
+**N-789** Marina (TPUSA CMO)
 
 Named by host as employee involved in Uber-driver conversation and as participant in the fake-Zoom termination setup per A-1675.2.
 
@@ -310,7 +310,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1674.1, A-1675.1, A-1675.2, C-2189, C-2190, C-2191, C-2192, C-2193, N-1007, N-788, N-789, N-790*
+*Related: A-1674.1, A-1675.1, A-1675.2, C-2189, C-2190, C-2191, C-2192, C-2193, N-1007, N-42, N-789, N-790*
 
 ---
 
@@ -323,7 +323,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-2186, C-2187, N-783, N-784, N-785*
+*Related: A-1671.1, A-1671.2, C-2186, C-2187, N-783, N-639, N-785*
 
 ---
 
@@ -372,7 +372,7 @@ Claim: Charlie Kirk received a text message from a female Christian Zionist dono
 
 Anchored Artifacts: A-1669.1
 
-Related Nodes: N-1, N-1509
+Related Nodes: N-1509
 
 Investigative Direction: Obtain the original device or screenshot of the message; identify the sender through metadata or corroborating testimony; determine whether Turning Point USA has internal records of this message.
 
@@ -428,7 +428,7 @@ Claim: In 2017, Lori Frantzve (listed as "Lorin Frantzve"), Larry Guinta, Lyle R
 
 Anchored Artifacts: A-1671.1, A-1672.1
 
-Related Nodes: N-783, N-784, N-785, N-786, N-1511, N-1513
+Related Nodes: N-783, N-639, N-785, N-786, N-1511, N-1513
 
 Investigative Direction: Pull the certified Arizona Corporation Commission filing for Desert Spirit Tech LLC; identify the actual place of business and any annual reports or amendments.
 
@@ -442,7 +442,7 @@ Claim: The statutory public notice for Desert Spirit Tech LLC was issued in the 
 
 Anchored Artifacts: A-1671.2
 
-Related Nodes: N-783, N-784, N-1511
+Related Nodes: N-783, N-639, N-1511
 
 Investigative Direction: Obtain the original publication or archival copy of the Arizona Chinese News issue carrying the notice to confirm the stated business activity description.
 
@@ -456,7 +456,7 @@ Claim: On September 25, 2018, Tyler Bowyer posted that TPUSA "runs everything li
 
 Anchored Artifacts: A-1673.1
 
-Related Nodes: N-85, N-10002
+Related Nodes: N-70, N-10002
 
 Investigative Direction: Retrieve the original post from X/Twitter (including any deletions or edits) and identify which "background" Bowyer was referencing.
 
@@ -470,7 +470,7 @@ Claim: A TPUSA employee was terminated by general counsel "Frank" with no specif
 
 Anchored Artifacts: A-1674.1
 
-Related Nodes: N-788, N-790, N-1510
+Related Nodes: N-42, N-790, N-1510
 
 Investigative Direction: Obtain the termination documentation referenced in the audio ("email with social security and links" plus year-end bonus in final paycheck); identify the employee and obtain their signed release or separation agreement.
 
@@ -512,7 +512,7 @@ Claim: Andrew Kolvet brought a TPUSA employee into an office to question them ab
 
 Anchored Artifacts: A-1675.1
 
-Related Nodes: N-788, N-789, N-1510
+Related Nodes: N-42, N-789, N-1510
 
 Investigative Direction: Identify the CMO named and obtain any internal investigation notes; verify whether the Uber driver conversation actually occurred.
 

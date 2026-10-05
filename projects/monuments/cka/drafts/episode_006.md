@@ -18,7 +18,7 @@
   - Artifact Families Introduced: A-1120, A-1121, A-1122, A-1123, A-1124, A-1125, A-1126, A-1127, A-1128, A-1129, A-1130, A-1131, A-1132, A-1133
   - Claim Range: C-1205-C-1227
   - New Nodes Introduced: N-118, N-119, N-120, N-121, N-122, N-123, N-124, N-125, N-126, N-127, N-1130, N-1131, N-1132, N-1133, N-1134, N-1135, N-1136, N-1137, N-1138, N-1139, N-1140, N-1141, N-1142, N-1143, N-1144, N-1145, N-1146, N-1147
-  - Reused Nodes Appearing: N-1, N-2, N-7, N-42, N-50, N-65, N-66, N-69, N-75, N-79, N-88, N-99, N-106, N-107, N-115, N-1000, N-1077, N-1091
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-65, N-66, N-69, N-75, N-5, N-88, N-99, N-84, N-107, N-115, N-1000, N-1077, N-1091
 
 ## 2. Executive Summary
 
@@ -52,7 +52,7 @@ Confidence: high
 
 **A-1121.1** Senate bipartisan resolution designating October 14 as Charlie Kirk Remembrance Day
 Video Timestamp: 00:00:57–00:01:10
-*Related: C-1210, N-1, N-1131, N-1147*
+*Related: C-1210, N-1131, N-1147*
 Transcript Snippet: the Senate has voted and they have passed a bipartisan resolution to designate October 14th
 Confidence: medium
 
@@ -119,7 +119,7 @@ Confidence: high
 
 **A-1127.1** Jimmy Kimmel monologue joking about Trump's grief 'construction' stage
 Video Timestamp: 00:46:28–00:47:52
-*Related: C-1215, N-122, N-79*
+*Related: C-1215, N-122, N-5*
 Transcript Snippet: He's at the fourth stage of grief, construction... This is how a four-year-old mourns a goldfish
 Confidence: high
 
@@ -145,13 +145,13 @@ Confidence: high
 
 **A-1129.1** Charlie Kirk's tweet defending Milgram and Lachinsky and pushing back against speech restrictions
 Video Timestamp: 00:39:19–00:39:44
-*Related: C-1221, N-1, N-125, N-126*
+*Related: C-1221, N-125, N-126*
 Transcript Snippet: after the assassination of Sarah Mgram and Yuron Lachinsky... these were beautiful people
 Confidence: medium
 
 **A-1129.2** Host's text exchange with Charlie Kirk dated May 22 about speech censorship
 Video Timestamp: 00:39:01–00:40:17
-*Related: C-1222, N-1, N-7*
+*Related: C-1222, N-1, N-3*
 Transcript Snippet: speech censorship is coming to America... the date here is May 22nd of this year
 Confidence: medium
 
@@ -161,13 +161,13 @@ Confidence: medium
 
 **A-1130.1** Footage of Candace Owens speaking on Turning Point USA stage from prior tour/conference
 Video Timestamp: 00:33:03–00:34:36
-*Related: C-1223, N-7, N-1000*
+*Related: C-1223, N-3, N-1000*
 Transcript Snippet: Here is me speaking on Turning Point USA's stage last year... America first. First name America, last name first
 Confidence: high
 
 **A-1130.2** Live Free Tour promotional material featuring Charlie Kirk and Candace Owens
 Video Timestamp: 00:35:07–00:35:20
-*Related: C-1223, N-1, N-7, N-1000*
+*Related: C-1223, N-1, N-3, N-1000*
 Transcript Snippet: Live free tour. Charlie Kirk and Candace Owens
 Confidence: high
 
@@ -177,7 +177,7 @@ Confidence: high
 
 **A-1131.1** FBI-released text exchange between accused shooter Tyler Robinson and his partner Lance
 Video Timestamp: 00:53:48–00:55:59
-*Related: C-1224, N-69, N-106, N-1137*
+*Related: C-1224, N-69, N-84, N-1137*
 Transcript Snippet: ridiculous madeup text chain between Tyler Robinson and his lover Lance... what went wrong? FBI
 Confidence: high
 
@@ -205,7 +205,7 @@ Confidence: medium
 
 ## 4. Node Register
 
-**N-7** Candace Owens
+**N-3** Candace Owens
 
 Node Type: Person
 Host and primary investigator in the Candace Kirk Archive series
@@ -250,7 +250,7 @@ Accused shooter of Charlie Kirk; subject of FBI-released text chain
 
 ---
 
-**N-106** Lance
+**N-84** Lance Twigs
 
 Node Type: Person
 Robinson's partner; recipient of FBI-released text chain
@@ -420,7 +420,7 @@ Commentator referenced as having a theory about PBD/Israel coordination
 
 ---
 
-**N-79** Donald Trump
+**N-5** Donald Trump
 
 Node Type: Person
 President; subject of Kimmel's grief jokes; accused by host of being occupied by Zionists
@@ -662,7 +662,7 @@ Claim Timestamp: 00:03:50
 Claim: Two unidentified men appeared in the immediate aftermath of the shooting and moved Charlie Kirk's chair and the camera positioned above his head.
 Transcript Snippet: that same individual appears alongside another individual and he moves Charlie's chair
 Anchored Artifacts: A-1120.2
-Related Nodes: N-118, N-1, N-1142, N-99, N-75, N-50, N-107, N-115
+Related Nodes: N-118, N-1142, N-99, N-75, N-50, N-107, N-115
 Confidence: high
 Investigative Direction: Identify both individuals via facial recognition, witness statements, and cross-reference against footage metadata.
 
@@ -675,7 +675,7 @@ Claim Timestamp: 00:03:35
 Claim: An individual was standing near the car where Charlie was taken, calmly talking on his phone shortly after the shot.
 Transcript Snippet: that person appears to be calmly talking into their phone. It's like a circus around them
 Anchored Artifacts: A-1120.1
-Related Nodes: N-118, N-1, N-1142
+Related Nodes: N-118, N-1142
 Confidence: high
 Investigative Direction: Obtain full-resolution copy of wide-angle clip; cross-reference timing against crowd movement logs.
 
@@ -700,7 +700,7 @@ Claim Timestamp: 00:06:11
 Claim: The individual who handled the camera told the host he had been around Turning Point USA for years, dating to the host's early tenure.
 Transcript Snippet: This person's been around Turning Point for quite some time, for years
 Anchored Artifacts: A-1122.1
-Related Nodes: N-118, N-1000, N-7
+Related Nodes: N-118, N-1000, N-3
 Confidence: medium
 Investigative Direction: Verify association via TPUSA employee/vendor records and corroborate timeline with other witnesses.
 
@@ -726,7 +726,7 @@ Claim Timestamp: 00:00:57
 Claim: The U.S. Senate has voted and passed a bipartisan resolution designating October 14 as Charlie Kirk Remembrance Day.
 Transcript Snippet: the Senate has voted and they have passed a bipartisan resolution to designate October 14th
 Anchored Artifacts: A-1121.1
-Related Nodes: N-1, N-1131
+Related Nodes: N-1131
 Confidence: medium
 Investigative Direction: Locate the resolution text in the Congressional Record and verify vote tally.
 
@@ -750,7 +750,7 @@ Claim Timestamp: 00:30:18
 Claim: On the PBD podcast, Bill Aman stated that Candace Owens' credibility is going 'down the tubes' because she has not brought receipts.
 Transcript Snippet: her credibility, I mean, is going to go down the tubes because she needs to bring receipts
 Anchored Artifacts: A-1125.1
-Related Nodes: N-66, N-88, N-7
+Related Nodes: N-66, N-88, N-3
 Confidence: high
 Investigative Direction: Obtain full PBD segment and verify exact quote against published clip.
 
@@ -762,7 +762,7 @@ Claim Timestamp: 00:30:38
 Claim: On the PBD podcast, Andrew Kovit, identifying himself as a TPUSA board member, said he last saw Candace Owens in person in 2015 or 2016 and that she has not attended a TPUSA event in many years.
 Transcript Snippet: When's the last time you saw Candace Owens in person? 2015, 2016
 Anchored Artifacts: A-1125.1
-Related Nodes: N-42, N-88, N-1000, N-7
+Related Nodes: N-42, N-88, N-1000, N-3
 Contradicts: C-1223
 Confidence: high
 Investigative Direction: Cross-reference Kovit's claimed timeline against TPUSA event attendee records and verify his board role.
@@ -788,7 +788,7 @@ Claim Timestamp: 00:47:39
 Claim: Jimmy Kimmel said Trump was 'at the fourth stage of grief, construction' and compared his mourning to 'a four-year-old mourns a goldfish.'
 Transcript Snippet: He's at the fourth stage of grief, construction... This is how a four-year-old mourns a goldfish
 Anchored Artifacts: A-1127.1
-Related Nodes: N-122, N-79, N-1141
+Related Nodes: N-122, N-5, N-1141
 Confidence: high
 Investigative Direction: Verify exact quote against full Kimmel episode transcript and date.
 
@@ -861,7 +861,7 @@ Claim Timestamp: 00:39:44
 Claim: Charlie Kirk authored a tweet in May about the assassinations of Sarah Milgram and Yuron Lachinsky, calling them beautiful people and pushing back against speech restrictions.
 Transcript Snippet: these were beautiful people. They had their lives ahead of them
 Anchored Artifacts: A-1129.1
-Related Nodes: N-1, N-125, N-126
+Related Nodes: N-125, N-126
 Confidence: medium
 Investigative Direction: Locate original Charlie Kirk tweet and verify date and content.
 
@@ -873,7 +873,7 @@ Claim Timestamp: 00:40:17
 Claim: Charlie Kirk texted host on May 22 saying 'speech censorship is coming to America.'
 Transcript Snippet: speech censorship is coming to America... the date here is May 22nd of this year
 Anchored Artifacts: A-1129.2
-Related Nodes: N-1, N-7
+Related Nodes: N-1, N-3
 Confidence: medium
 Investigative Direction: Verify the text message screenshot metadata and timestamp.
 
@@ -886,7 +886,7 @@ Claim Timestamp: 00:33:03
 Claim: Candace Owens spoke at Turning Point USA conferences and toured with Charlie Kirk on the 'Live Free Tour' last year.
 Transcript Snippet: Here is me speaking on Turning Point USA's stage last year... Live free tour. Charlie Kirk and Candace Owens
 Anchored Artifacts: A-1130.1, A-1130.2
-Related Nodes: N-7, N-1, N-1000
+Related Nodes: N-3, N-1000
 Contradicts: C-1213
 Confidence: high
 Investigative Direction: Cross-reference TPUSA website archive and event recordings; verify dates.
@@ -900,7 +900,7 @@ Claim Timestamp: 00:53:48
 Claim: The FBI released a text exchange between accused shooter Tyler Robinson and his partner Lance that the host characterizes as 'ridiculous madeup.'
 Transcript Snippet: ridiculous madeup text chain between Tyler Robinson and his lover Lance
 Anchored Artifacts: A-1131.1
-Related Nodes: N-69, N-106, N-1137, N-1143
+Related Nodes: N-69, N-84, N-1137, N-1143
 Confidence: high
 Investigative Direction: Verify authenticity of released text chain via independent forensic analysis and metadata.
 
@@ -913,7 +913,7 @@ Claim Timestamp: 00:54:17
 Claim: Creator Chris Olsen posted an Instagram parody clip mocking the FBI-released Robinson-Lance text exchange.
 Transcript Snippet: Good day, my love. I have just committed one of the highest sins of the Lord. Murder
 Anchored Artifacts: A-1132.1
-Related Nodes: N-123, N-69, N-106, N-1143
+Related Nodes: N-123, N-69, N-84, N-1143
 Confidence: high
 Investigative Direction: Locate original Olsen Instagram post and verify date.
 
@@ -950,7 +950,7 @@ Investigative Direction: Locate the specific Netanyahu clip and verify exact wor
 ### Occurrence 1
 
 Video Timestamp: 00:26:54
-Speaker: N-7
+Speaker: N-3
 Quote: according to the CDC's own data, the flu shot is only moderately effective at best, and that's not even accounting for vaccine injuries
 Context: Host subverts Trust the Science meme by citing CDC data against flu shot efficacy
 Tags: subversion, sponsored_segment
@@ -963,7 +963,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:00:57
-Speaker: N-7
+Speaker: N-3
 Quote: the Senate has voted and they have passed a bipartisan resolution to designate October 14th, which is Charlie's birthday... that is a very government maneuver
 Context: Host frames Senate resolution timing as suspicious government maneuver, echoing M-5 pattern
 Tags: rhetorical_framing
@@ -976,7 +976,7 @@ Confidence: medium
 ### Occurrence 1
 
 Video Timestamp: 00:22:45
-Speaker: N-7
+Speaker: N-3
 Quote: obscene lies that are just so easily fact checked... everyone people that I thought I was friends with are coming after me
 Context: Host describes coordinated media smears against her investigation, consistent with 'conspiracy theorist' dismissal pattern
 Tags: rhetorical_framing
@@ -988,12 +988,12 @@ Uncertainty: Pattern invoked implicitly; explicit 'conspiracy theorist' label no
 ## 8. Organization Network
 
 OrgLink: N-1139 affiliated_with N-1147
-OrgLink: N-1133 same_enterprise_as N-7
+OrgLink: N-1133 same_enterprise_as N-3
 
 ## 9. Role Assertions
 
 RoleLink: N-1 holds_role N-1000 title:Founder
-RoleLink: N-7 member_of N-1000 title:Former employee / speaker
+RoleLink: N-3 member_of N-1000 title:Former employee / speaker
 RoleLink: N-127 chair_of N-1138 title:Chairman
 RoleLink: N-119 member_of N-1135 title:Journalist (byline)
 RoleLink: N-42 holds_role N-1000 title:Board member (self-claimed)

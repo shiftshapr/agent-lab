@@ -133,7 +133,7 @@
           ],
           "related_nodes": [
             "N-903",
-            "N-904",
+            "N-789",
             "N-1563"
           ],
           "tags": [],
@@ -161,7 +161,7 @@
             "C-2324"
           ],
           "related_nodes": [
-            "N-905",
+            "N-443",
             "N-2"
           ],
           "tags": [],
@@ -223,15 +223,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-904",
+        "N-789",
         "N-1563"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-904",
-      "ref": "N-904",
-      "name": "Marina Munz",
+      "@id": "N-789",
+      "ref": "N-789",
+      "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Identified on-air as CMO of Turning Point USA; named by Aubrey Lech as present at her termination meeting.",
       "related_artifacts": [
@@ -251,8 +251,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-905",
-      "ref": "N-905",
+      "@id": "N-443",
+      "ref": "N-443",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Comedian / podcaster; artifact-backed on-air clip commenting on Erika Kirk and political performance.",
@@ -296,7 +296,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-903",
-        "N-904"
+        "N-789"
       ]
     },
     {
@@ -413,7 +413,7 @@
       "@type": "Person",
       "@id": "N-3",
       "ref": "N-3",
-      "name": "Candace Owens — host; existing node reused.",
+      "name": "Candace Owens",
       "type": "person",
       "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
       "related_artifacts": [],
@@ -538,7 +538,7 @@
       ],
       "related_nodes": [
         "N-903",
-        "N-904",
+        "N-789",
         "N-1563"
       ],
       "tags": [],
@@ -573,7 +573,7 @@
       ],
       "related_nodes": [
         "N-903",
-        "N-904"
+        "N-789"
       ],
       "tags": [],
       "claim_timestamp": "00:24:02–00:28:28",
@@ -589,7 +589,7 @@
         "A-1748.1"
       ],
       "related_nodes": [
-        "N-905"
+        "N-443"
       ],
       "tags": [],
       "claim_timestamp": "00:33:22–00:35:00",
@@ -605,7 +605,7 @@
         "A-1748.1"
       ],
       "related_nodes": [
-        "N-905",
+        "N-443",
         "N-2"
       ],
       "tags": [],

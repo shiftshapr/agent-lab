@@ -31,8 +31,8 @@
             "C-1668"
           ],
           "related_nodes": [
-            "N-377",
-            "N-378",
+            "N-75",
+            "N-133",
             "N-2"
           ],
           "tags": [],
@@ -59,8 +59,8 @@
             "C-1671"
           ],
           "related_nodes": [
-            "N-379",
-            "N-378"
+            "N-61",
+            "N-133"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -113,7 +113,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-377"
+            "N-75"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -140,8 +140,8 @@
             "C-1673"
           ],
           "related_nodes": [
-            "N-380",
-            "N-381",
+            "N-16",
+            "N-309",
             "N-382"
           ],
           "tags": [],
@@ -160,8 +160,8 @@
             "C-1674"
           ],
           "related_nodes": [
-            "N-380",
-            "N-381",
+            "N-16",
+            "N-309",
             "N-382",
             "N-1"
           ],
@@ -189,7 +189,7 @@
             "C-1672"
           ],
           "related_nodes": [
-            "N-381",
+            "N-309",
             "N-1314"
           ],
           "tags": [],
@@ -216,9 +216,9 @@
             "C-1677"
           ],
           "related_nodes": [
-            "N-384",
+            "N-314",
             "N-385",
-            "N-383"
+            "N-102"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -255,8 +255,8 @@
           ],
           "related_nodes": [
             "N-385",
-            "N-384",
-            "N-383"
+            "N-314",
+            "N-102"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -282,8 +282,8 @@
             "C-1680"
           ],
           "related_nodes": [
-            "N-383",
-            "N-384"
+            "N-102",
+            "N-314"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -357,7 +357,7 @@
             "C-1681"
           ],
           "related_nodes": [
-            "N-387"
+            "N-56"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -372,8 +372,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-377",
-      "ref": "N-377",
+      "@id": "N-75",
+      "ref": "N-75",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Tour host who publicly corrected Ben Shapiro's claim in a Q&A and released backstage video corroborating Tucker's account of Charlie Kirk's \"Go Max\" instruction.",
@@ -393,8 +393,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-378",
-      "ref": "N-378",
+      "@id": "N-133",
+      "ref": "N-133",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Subject of Megyn Kelly's on-stage correction and Dave Rubin's \"bravery\" characterization; alleged to have falsely told Kelly's audience that Candace accused Erica Kirk of murder.",
@@ -414,8 +414,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-379",
-      "ref": "N-379",
+      "@id": "N-61",
+      "ref": "N-61",
       "name": "Dave Rubin",
       "type": "person",
       "description": "Commentator whose show clip defended Ben Shapiro's appearance on Megyn Kelly's tour as \"almost an act of bravery.\"",
@@ -433,9 +433,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-380",
-      "ref": "N-380",
-      "name": "Frank Turk",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
       "type": "person",
       "description": "Witness account identifying Butch Hibbs at the UVU event and posing with Charlie Kirk approximately 20 minutes before the shooting.",
       "related_artifacts": [
@@ -455,8 +455,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-381",
-      "ref": "N-381",
+      "@id": "N-309",
+      "ref": "N-309",
       "name": "Jack Hibbs",
       "type": "person",
       "description": "Pastor of a Calvary Chapel in California; identified as Butch Hibbs' brother by Frank Turk.",
@@ -500,8 +500,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-383",
-      "ref": "N-383",
+      "@id": "N-102",
+      "ref": "N-102",
       "name": "Kash Patel",
       "type": "person",
       "description": "FBI Director whose public defense of Alexis Wilkins and whose role in the Wilkins lawsuit are central to the episode's lawsuit discussion.",
@@ -521,8 +521,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-384",
-      "ref": "N-384",
+      "@id": "N-314",
+      "ref": "N-314",
       "name": "Alexis Wilkins",
       "type": "person",
       "description": "Plaintiff in the $5 million lawsuit against content creators including Elijah Schaefer; subject of the Hen Mazig post and the Schaefer photograph response.",
@@ -587,8 +587,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-387",
-      "ref": "N-387",
+      "@id": "N-56",
+      "ref": "N-56",
       "name": "Kanye West",
       "type": "person",
       "description": "Subject of a read-aloud historical X post referenced for the phrase \"defcon 3 on some Jewish people,\" invoked as a retrospective parallel to current censorship claims.",
@@ -671,7 +671,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-384",
+        "N-314",
         "N-385",
         "N-386"
       ]
@@ -720,8 +720,8 @@
         "A-1379.1"
       ],
       "related_nodes": [
-        "N-378",
-        "N-377",
+        "N-133",
+        "N-75",
         "N-2"
       ],
       "tags": [],
@@ -738,7 +738,7 @@
         "A-1379.1"
       ],
       "related_nodes": [
-        "N-377",
+        "N-75",
         "N-2"
       ],
       "tags": [],
@@ -771,7 +771,7 @@
         "A-1382.1"
       ],
       "related_nodes": [
-        "N-377",
+        "N-75",
         "N-1"
       ],
       "tags": [],
@@ -788,8 +788,8 @@
         "A-1380.1"
       ],
       "related_nodes": [
-        "N-379",
-        "N-378"
+        "N-61",
+        "N-133"
       ],
       "tags": [],
       "claim_timestamp": "06:30:25",
@@ -806,7 +806,7 @@
         "A-1384.1"
       ],
       "related_nodes": [
-        "N-380",
+        "N-16",
         "N-382",
         "N-1314"
       ],
@@ -825,7 +825,7 @@
       ],
       "related_nodes": [
         "N-382",
-        "N-381"
+        "N-309"
       ],
       "tags": [],
       "claim_timestamp": "33:00:00",
@@ -842,7 +842,7 @@
       ],
       "related_nodes": [
         "N-382",
-        "N-380",
+        "N-16",
         "N-1"
       ],
       "tags": [],
@@ -891,9 +891,9 @@
         "A-1385.1"
       ],
       "related_nodes": [
-        "N-384",
+        "N-314",
         "N-385",
-        "N-383",
+        "N-102",
         "N-1315"
       ],
       "tags": [],
@@ -927,8 +927,8 @@
       ],
       "related_nodes": [
         "N-385",
-        "N-384",
-        "N-383"
+        "N-314",
+        "N-102"
       ],
       "tags": [],
       "claim_timestamp": "37:38:25",
@@ -944,8 +944,8 @@
         "A-1386.1"
       ],
       "related_nodes": [
-        "N-383",
-        "N-384"
+        "N-102",
+        "N-314"
       ],
       "tags": [],
       "claim_timestamp": "37:38:25",
@@ -961,7 +961,7 @@
         "A-1389.1"
       ],
       "related_nodes": [
-        "N-387"
+        "N-56"
       ],
       "tags": [],
       "claim_timestamp": "49:13:25",

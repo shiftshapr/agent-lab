@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: abf411b35a1c49c8915e52ea39f1d73231f7b5aadc58d672dbdeebbe68b7d8d3
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-183, N-184, N-185, N-186, N-187, N-188, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217
+  - New Nodes Introduced: N-183, N-184, N-186, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217
   - Reused Nodes Appearing: 
 
 ## 3. Artifact Register
@@ -109,7 +109,7 @@ Video Timestamp: 00:30:55–00:32:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1329, C-1335, N-186, N-188, N-1216*
+*Related: C-1329, C-1335, N-186, N-102, N-1216*
 
 ---
 
@@ -123,7 +123,7 @@ Video Timestamp: 00:21:52–00:22:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1330, N-187, N-1217*
+*Related: C-1330, N-176, N-1217*
 
 ---
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:34:37–00:35:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1331, N-185, N-1214*
+*Related: C-1331, N-65, N-1214*
 
 ---
 
@@ -237,7 +237,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-185** BB Netanyahu
+**N-65** Benjamin Netanyahu
 
 Israeli Prime Minister; referenced as having released the May Charlie Kirk letter roughly two weeks after the September 10 assassination. (Note: transcript renders the familiar "Bibi" as "BB"; preserved as transcribed; flagged.)
 
@@ -259,11 +259,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1189.1, C-1329, C-1335, N-188, N-1216*
+*Related: A-1189.1, C-1329, C-1335, N-102, N-1216*
 
 ---
 
-**N-187** Mike Mitchell
+**N-176** Mike Mitchell
 
 Salt Lake County Sheriff's Office detective; per a 1999 article, conducts online undercover work creating personas to identify suspected pedophiles. Flag: this entity is likely to already possess a node ID from prior episodes covering his role in the Charlie Kirk case; verify ledger and merge if confirmed.
 
@@ -276,7 +276,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-188** Kash Patel
+**N-102** Kash Patel
 
 FBI Director; per a Daily Mail article cited in the episode, fired the chief of the Utah FBI Bureau and other personnel and replaced them with Robert Bowles in August 2025, weeks before the assassination. Flag: may already have a node ID from prior episodes; verify ledger and merge if confirmed.
 
@@ -326,7 +326,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1191.1, C-1331, N-185*
+*Related: A-1191.1, C-1331, N-65*
 
 ---
 
@@ -339,7 +339,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-92 (Phil Lyman retold his Nick-visit reason), N-188 (Kash Patel Utah FBI context)*
+*Related: N-92 (Phil Lyman retold his Nick-visit reason), N-102 (Kash Patel Utah FBI context)*
 
 ---
 
@@ -352,7 +352,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1189.1, C-1329, C-1335, N-186, N-188*
+*Related: A-1189.1, C-1329, C-1335, N-186, N-102*
 
 ---
 
@@ -365,7 +365,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1190.1, C-1330, N-187*
+*Related: A-1190.1, C-1330, N-176*
 
 ---
 
@@ -491,7 +491,7 @@ Claim: A Daily Mail article reports FBI Director Kash Patel removed the chief of
 
 Anchored Artifacts: A-1189.1
 
-Related Nodes: N-186, N-188, N-1216
+Related Nodes: N-186, N-102, N-1216
 
 Investigative Direction: Obtain the underlying DOJ/FBI HR records for the Utah field office; verify the date of Robert Bowles's transfer and the names of all removed personnel.
 
@@ -505,7 +505,7 @@ Claim: A 1999 article documents that Detective Mike Mitchell had been investigat
 
 Anchored Artifacts: A-1190.1
 
-Related Nodes: N-187, N-1217
+Related Nodes: N-176, N-1217
 
 Investigative Direction: Confirm continuity between the 1999 Salt Lake County Sheriff's Office Mitchell and the Mike Mitchell referenced in the Charlie Kirk investigation; obtain his full service record.
 
@@ -519,7 +519,7 @@ Claim: A letter written by Charlie Kirk in May 2025 to the Israeli Prime Ministe
 
 Anchored Artifacts: A-1191.1
 
-Related Nodes: N-185, N-1214
+Related Nodes: N-65, N-1214
 
 Investigative Direction: Obtain the original letter or email (timestamp, metadata); reconcile with contemporaneous statements by TPUSA staff and the host's 48-hour claim.
 

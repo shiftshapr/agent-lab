@@ -13,7 +13,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2355, N-2356, N-2357, N-2358, N-2359, N-10004, N-10005, N-10006
-  - Reused Nodes Appearing: N-1, N-2, N-7, N-50, N-59, N-65, N-66, N-214, N-272, N-364, N-444, N-542, N-749, N-755, N-796, N-992, N-1121, N-1264, N-1288, N-2329, N-2350, N-2351, N-2354, N-10001
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-50, N-59, N-65, N-66, N-42, N-272, N-364, N-444, N-326, N-424, N-16, N-796, N-224, N-1121, N-1264, N-1288, N-2329, N-2350, N-2351, N-2354, N-10001
   - (see registers)
   - Person band: persons minted in this quality pass use N-10000+ (see node register). Minted here or reused: Clara Molot, Sergio Gor, Caleb Chilcutt, Andrew Wilson. Tim Dylan not minted. Leah Thomas not minted.
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:17:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as quoted from profile); Medium (host inference about PR mindset)
 
-*Related: C-3599, N-2357, N-2, N-542*
+*Related: C-3599, N-2357, N-2, N-326*
 
 ---
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:24:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as quoted in profile)
 
-*Related: C-3602, C-3603, N-50, N-214, N-1121, N-2355*
+*Related: C-3602, C-3603, N-50, N-42, N-1121, N-2355*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:37:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (headline/narrative as characterized); High (that host presents the flip as coordinated)
 
-*Related: C-3604, N-2358, N-7, N-59*
+*Related: C-3604, N-2358, N-3, N-59*
 
 ---
 
@@ -156,7 +156,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-7** Candace Owens
+**N-3** Candace Owens
 
 Host/narrator; target of smear flip discussed in second half.
 
@@ -216,7 +216,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-214** Andrew Kovette
+**N-42** Andrew Kolvet
 
 Recipient of Carlson advice in the profile; prior source of early Erika-CEO notice to host; tied to Candace-focus critique.
 
@@ -264,7 +264,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-542** Elizabeth McCoy
+**N-326** Eliza McCoy
 
 Prior public thread claiming she went to Aloe for clothes; host contrasts with profile’s Erika-directed account.
 
@@ -276,7 +276,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-749** Brian Harpole
+**N-424** Brian Harpole
 
 Referenced in post-review segment as heavily debunked by Lake Force relative to Shawn Ryan narrative.
 
@@ -288,7 +288,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-755** Frank Turk
+**N-16** Frank Turek
 
 Rhetorically invoked in closing comments / pastor jab.
 
@@ -312,7 +312,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-992** Blake Neff
+**N-224** Blake Neff
 
 Opening callback: host’s July 18 tweet predicting Vanity Fair widow spread; Neff bookmarked it.
 
@@ -443,7 +443,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3599, A-2460.1, N-2, N-542*
+*Related: C-3599, A-2460.1, N-2, N-326*
 
 ---
 
@@ -456,7 +456,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3604, A-2464.1, N-7, N-59*
+*Related: C-3604, A-2464.1, N-3, N-59*
 
 ---
 
@@ -519,7 +519,7 @@ Claim: Host asserts Clara Molot’s Vanity Fair profile—enabled by months of T
 
 Anchored Artifacts: A-2459.1, A-2459.2
 
-Related Nodes: N-2355, N-2350, N-2, N-992, N-10004
+Related Nodes: N-2355, N-2350, N-224, N-10004
 
 Investigative Direction: Archive the full Vanity Fair piece; list access dates; compare cooperation posture to Lake Force outreach log.
 
@@ -561,7 +561,7 @@ Claim: The profile states Erika, thinking about Air Force 2 optics and a “heav
 
 Anchored Artifacts: A-2460.1
 
-Related Nodes: N-2357, N-2, N-542
+Related Nodes: N-2357, N-2, N-326
 
 Investigative Direction: Preserve profile text; archive Elizabeth McCoy thread; seek staff corroboration without minting new Persons.
 
@@ -603,7 +603,7 @@ Claim: Vanity Fair quotes Carlson that TPUSA leadership is wholly focused on Can
 
 Anchored Artifacts: A-2463.1
 
-Related Nodes: N-50, N-214, N-7, N-2355
+Related Nodes: N-50, N-42, N-3, N-2355
 
 Investigative Direction: Confirm quote context in published piece; note host’s declined-to-comment status.
 
@@ -617,7 +617,7 @@ Claim: Per Carlson’s conversations with Erika as relayed in the profile, she w
 
 Anchored Artifacts: A-2463.1
 
-Related Nodes: N-50, N-2, N-1, N-1121, N-2356
+Related Nodes: N-50, N-2, N-1121, N-2356
 
 Investigative Direction: Pair with on-record Erika statements; treat Carlson quote as secondhand unless further primary emerges.
 
@@ -631,7 +631,7 @@ Claim: Host asserts attackers shifted from “jealous of Erika / antisemitic” 
 
 Anchored Artifacts: A-2464.1
 
-Related Nodes: N-2358, N-7, N-59, N-2329
+Related Nodes: N-2358, N-3, N-59, N-2329
 
 Investigative Direction: Archive primary smear posts/headlines; separate real 2008 video from unverified MySpace/sex-site claims.
 
@@ -659,7 +659,7 @@ Claim: Host asserts billionaire Bill Ackman retweeted/amplified the college-acco
 
 Anchored Artifacts: A-2465.1
 
-Related Nodes: N-66, N-2359, N-7
+Related Nodes: N-66, N-2359, N-3
 
 Investigative Direction: Preserve deleted-tweet captures; confirm handles/dates; avoid over-claiming coordination without docs.
 

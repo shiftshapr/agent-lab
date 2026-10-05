@@ -31,7 +31,7 @@
             "C-2150"
           ],
           "related_nodes": [
-            "N-763"
+            "N-61"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -139,7 +139,7 @@
             "C-2157"
           ],
           "related_nodes": [
-            "N-762"
+            "N-552"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -165,7 +165,7 @@
             "C-2157"
           ],
           "related_nodes": [
-            "N-762"
+            "N-552"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -207,8 +207,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-762",
-      "ref": "N-762",
+      "@id": "N-552",
+      "ref": "N-552",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Independent investigator and YouTuber now working full-time on the Charlie Kirk assassination case. Co-host for this episode and recurring collaborator.",
@@ -227,8 +227,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-763",
-      "ref": "N-763",
+      "@id": "N-61",
+      "ref": "N-61",
       "name": "Dave Rubin",
       "type": "person",
       "description": "Commentator and former associate of Candace Owens. Subject of an X post dispute in this episode and host of an alleged prior incident involving a former PragerU employee.",
@@ -331,9 +331,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-768",
-      "ref": "N-768",
-      "name": "Justin Strieff",
+      "@id": "N-43",
+      "ref": "N-43",
+      "name": "Justin Strife",
       "type": "person",
       "description": "Associate of Erika Kirk referenced in connection with verification of Andrew Kolvet's flight arrangements and tarmac arrival sequence.",
       "related_artifacts": [],
@@ -369,7 +369,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-768"
+        "N-43"
       ]
     },
     {
@@ -450,7 +450,7 @@
         "A-1654.1"
       ],
       "related_nodes": [
-        "N-763",
+        "N-61",
         "N-1"
       ],
       "tags": [],
@@ -467,7 +467,7 @@
         "A-1654.1"
       ],
       "related_nodes": [
-        "N-763"
+        "N-61"
       ],
       "tags": [],
       "claim_timestamp": "00:31:06",
@@ -586,7 +586,7 @@
         "A-1659.1"
       ],
       "related_nodes": [
-        "N-762"
+        "N-552"
       ],
       "tags": [],
       "claim_timestamp": "01:16:11",

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updated": "2026-10-05T01:45:00Z",
+  "updated": "2026-10-05T02:13:54Z",
   "monument": "cka",
-  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11\u201320 extract; seq 157\u2013159 Ep 394\u2013396 daily ingest. 2026-10-04 person lock: new persons start at N-10000.",
+  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11\u201320 extract; seq 157\u2013159 Ep 394\u2013396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster.",
   "next_person_id": 10023,
   "next_investigation_id": 2365,
   "nodes": {
@@ -57,39 +57,28 @@
         159
       ]
     },
-    "N-7": {
-      "canonical_name": "Candace Owens",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        157,
-        158,
-        159
-      ]
-    },
     "N-59": {
       "canonical_name": "George (Candace's husband)",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Candace Owens' Husband"
+      ],
       "episodes": [
         1,
+        3,
+        9,
         158
+      ],
+      "retired_ids": [
+        "N-100"
       ]
     },
     "N-2": {
       "canonical_name": "Erika Kirk",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Erika Kolfage"
+      ],
       "episodes": [
         1,
         2,
@@ -101,12 +90,16 @@
         8,
         9,
         10,
+        47,
         76,
         85,
         148,
         157,
         158,
         159
+      ],
+      "retired_ids": [
+        "N-539"
       ]
     },
     "N-60": {
@@ -124,7 +117,13 @@
       "episodes": [
         1,
         3,
-        7
+        7,
+        30,
+        60
+      ],
+      "retired_ids": [
+        "N-379",
+        "N-763"
       ]
     },
     "N-62": {
@@ -148,20 +147,86 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        1
+        1,
+        17,
+        20,
+        30
+      ],
+      "retired_ids": [
+        "N-234",
+        "N-268",
+        "N-387"
       ]
     },
     "N-42": {
       "canonical_name": "Andrew Kolvet",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Andrew Kovette",
+        "Andrew Kolbatz",
+        "Andrew Kovett",
+        "Andrew Kolb",
+        "Andrew Kolbenschlag",
+        "Andrew Kovat",
+        "Andrew Kolbet (Turning Point USA spokesperson)",
+        "Andrew Kolbett",
+        "Andrew Kovat (name uncertainty flagged)",
+        "Andrew Kolvet (also spelled Kolvetz in transcript)",
+        "Andrew Kolvet (also rendered \"Andrew Kolb\" in this episode)",
+        "Andrew Colebat"
+      ],
       "episodes": [
         1,
         5,
         6,
         7,
         8,
-        10
+        10,
+        15,
+        16,
+        18,
+        19,
+        20,
+        23,
+        24,
+        42,
+        47,
+        51,
+        55,
+        59,
+        61,
+        62,
+        66,
+        67,
+        72,
+        74,
+        76,
+        157,
+        158,
+        159
+      ],
+      "retired_ids": [
+        "N-210",
+        "N-214",
+        "N-246",
+        "N-265",
+        "N-271",
+        "N-305",
+        "N-312",
+        "N-488",
+        "N-557",
+        "N-609",
+        "N-695",
+        "N-754",
+        "N-779",
+        "N-788",
+        "N-827",
+        "N-847",
+        "N-859",
+        "N-921",
+        "N-945",
+        "N-955",
+        "N-959"
       ]
     },
     "N-64": {
@@ -265,7 +330,10 @@
     "N-65": {
       "canonical_name": "Benjamin Netanyahu",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "BB Netanyahu",
+        "Bibi Netanyahu"
+      ],
       "episodes": [
         2,
         3,
@@ -274,8 +342,20 @@
         6,
         7,
         10,
+        12,
+        23,
+        47,
+        72,
+        79,
         158,
         159
+      ],
+      "retired_ids": [
+        "N-185",
+        "N-307",
+        "N-554",
+        "N-923",
+        "N-985"
       ]
     },
     "N-66": {
@@ -295,13 +375,27 @@
       ]
     },
     "N-67": {
-      "canonical_name": "Seth Dylan",
+      "canonical_name": "Seth Dillon",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Seth Dylan"
+      ],
       "episodes": [
         2,
         3,
-        10
+        4,
+        10,
+        17,
+        22,
+        29,
+        47
+      ],
+      "retired_ids": [
+        "N-105",
+        "N-239",
+        "N-295",
+        "N-369",
+        "N-553"
       ]
     },
     "N-50": {
@@ -316,8 +410,26 @@
         6,
         7,
         8,
+        22,
+        23,
+        25,
+        29,
+        50,
+        56,
+        67,
+        79,
         158,
         159
+      ],
+      "retired_ids": [
+        "N-292",
+        "N-304",
+        "N-327",
+        "N-375",
+        "N-602",
+        "N-715",
+        "N-842",
+        "N-995"
       ]
     },
     "N-68": {
@@ -327,7 +439,15 @@
       "episodes": [
         2,
         3,
-        4
+        4,
+        17,
+        22,
+        25
+      ],
+      "retired_ids": [
+        "N-241",
+        "N-296",
+        "N-328"
       ]
     },
     "N-69": {
@@ -350,21 +470,41 @@
     "N-70": {
       "canonical_name": "Spencer Cox",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Governor Cox",
+        "Governor Spencer Cox"
+      ],
       "episodes": [
-        2
+        2,
+        3,
+        4,
+        10
+      ],
+      "retired_ids": [
+        "N-85",
+        "N-101"
       ]
     },
     "N-71": {
       "canonical_name": "George Zinn",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "George Zin"
+      ],
       "episodes": [
         2,
         3,
         4,
         7,
-        8
+        8,
+        13,
+        25,
+        47
+      ],
+      "retired_ids": [
+        "N-190",
+        "N-333",
+        "N-548"
       ]
     },
     "N-72": {
@@ -372,7 +512,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        2
+        2,
+        17
+      ],
+      "retired_ids": [
+        "N-240"
       ]
     },
     "N-73": {
@@ -395,7 +539,9 @@
     "N-75": {
       "canonical_name": "Megyn Kelly",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Megan Kelly"
+      ],
       "episodes": [
         2,
         3,
@@ -403,7 +549,21 @@
         6,
         9,
         10,
+        21,
+        30,
+        43,
+        47,
+        53,
+        72,
         159
+      ],
+      "retired_ids": [
+        "N-287",
+        "N-377",
+        "N-498",
+        "N-546",
+        "N-650",
+        "N-914"
       ]
     },
     "N-35": {
@@ -413,15 +573,31 @@
       "episodes": [
         2,
         3,
+        67,
+        69,
+        76,
         159
+      ],
+      "retired_ids": [
+        "N-834",
+        "N-896",
+        "N-950"
       ]
     },
     "N-76": {
       "canonical_name": "Ghislaine Maxwell",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Ghislaine Maxwell (presumed prior node, reused)"
+      ],
       "episodes": [
-        2
+        2,
+        18,
+        67
+      ],
+      "retired_ids": [
+        "N-253",
+        "N-852"
       ]
     },
     "N-77": {
@@ -429,7 +605,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        2
+        2,
+        67
+      ],
+      "retired_ids": [
+        "N-874"
       ]
     },
     "N-78": {
@@ -440,26 +620,21 @@
         2
       ]
     },
-    "N-79": {
-      "canonical_name": "Donald Trump",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        2,
-        6,
-        8,
-        9,
-        10,
-        159
-      ]
-    },
     "N-80": {
       "canonical_name": "Sigmund Freud",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Sigmund Freud (rendered by host as \"Sigman Freud\")"
+      ],
       "episodes": [
         2,
-        9
+        9,
+        67,
+        69
+      ],
+      "retired_ids": [
+        "N-829",
+        "N-899"
       ]
     },
     "N-81": {
@@ -644,19 +819,17 @@
     "N-84": {
       "canonical_name": "Lance Twigs",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Lance"
+      ],
       "episodes": [
         3,
-        4
-      ]
-    },
-    "N-85": {
-      "canonical_name": "Governor Cox",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        3,
-        10
+        4,
+        5,
+        6
+      ],
+      "retired_ids": [
+        "N-106"
       ]
     },
     "N-86": {
@@ -674,7 +847,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        3
+        3,
+        26
+      ],
+      "retired_ids": [
+        "N-343"
       ]
     },
     "N-88": {
@@ -683,7 +860,11 @@
       "aliases": [],
       "episodes": [
         3,
-        6
+        6,
+        38
+      ],
+      "retired_ids": [
+        "N-452"
       ]
     },
     "N-89": {
@@ -709,7 +890,17 @@
       "episodes": [
         3,
         7,
-        10
+        10,
+        16,
+        17,
+        26,
+        73
+      ],
+      "retired_ids": [
+        "N-222",
+        "N-236",
+        "N-341",
+        "N-934"
       ]
     },
     "N-92": {
@@ -756,9 +947,18 @@
     "N-97": {
       "canonical_name": "Village Crazy Lady",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Village Crazy Lady (Melissa)",
+        "Mel (\"Village Crazy Lady\")"
+      ],
       "episodes": [
-        3
+        3,
+        23,
+        43
+      ],
+      "retired_ids": [
+        "N-306",
+        "N-514"
       ]
     },
     "N-98": {
@@ -777,15 +977,6 @@
         3,
         4,
         6,
-        9
-      ]
-    },
-    "N-100": {
-      "canonical_name": "Candace Owens' Husband",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        3,
         9
       ]
     },
@@ -862,20 +1053,40 @@
         3
       ]
     },
-    "N-101": {
-      "canonical_name": "Governor Spencer Cox",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        4
-      ]
-    },
     "N-45": {
       "canonical_name": "Rob McCoy",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Rob McCoy (Pastor Rob McCoy)"
+      ],
       "episodes": [
-        4
+        4,
+        15,
+        20,
+        21,
+        23,
+        25,
+        26,
+        33,
+        47,
+        59,
+        61,
+        65,
+        69
+      ],
+      "retired_ids": [
+        "N-212",
+        "N-275",
+        "N-286",
+        "N-300",
+        "N-325",
+        "N-345",
+        "N-405",
+        "N-543",
+        "N-758",
+        "N-778",
+        "N-803",
+        "N-900"
       ]
     },
     "N-102": {
@@ -886,7 +1097,25 @@
         4,
         7,
         8,
+        12,
+        14,
+        22,
+        24,
+        30,
+        37,
+        43,
+        47,
         159
+      ],
+      "retired_ids": [
+        "N-188",
+        "N-201",
+        "N-289",
+        "N-315",
+        "N-383",
+        "N-438",
+        "N-497",
+        "N-549"
       ]
     },
     "N-103": {
@@ -899,14 +1128,6 @@
     },
     "N-104": {
       "canonical_name": "Matt Gaetz",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        4
-      ]
-    },
-    "N-105": {
-      "canonical_name": "Seth Dillon",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -991,15 +1212,6 @@
       "aliases": [],
       "episodes": [
         4
-      ]
-    },
-    "N-106": {
-      "canonical_name": "Lance",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        5,
-        6
       ]
     },
     "N-107": {
@@ -1093,7 +1305,11 @@
       "aliases": [],
       "episodes": [
         5,
+        20,
         159
+      ],
+      "retired_ids": [
+        "N-276"
       ]
     },
     "N-1113": {
@@ -1258,7 +1474,13 @@
       "aliases": [],
       "episodes": [
         6,
+        66,
+        74,
         159
+      ],
+      "retired_ids": [
+        "N-824",
+        "N-947"
       ]
     },
     "N-121": {
@@ -1470,7 +1692,13 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        7
+        7,
+        17,
+        51
+      ],
+      "retired_ids": [
+        "N-232",
+        "N-615"
       ]
     },
     "N-129": {
@@ -1478,19 +1706,15 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        7
+        7,
+        22
+      ],
+      "retired_ids": [
+        "N-290"
       ]
     },
     "N-130": {
       "canonical_name": "Jack Posobiec",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        7
-      ]
-    },
-    "N-131": {
-      "canonical_name": "Frank Turk",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -1511,17 +1735,37 @@
       "aliases": [],
       "episodes": [
         7,
-        9
+        9,
+        30,
+        46,
+        50,
+        67,
+        68,
+        79
+      ],
+      "retired_ids": [
+        "N-378",
+        "N-535",
+        "N-601",
+        "N-837",
+        "N-881",
+        "N-988"
       ]
     },
     "N-134": {
-      "canonical_name": "Bob Shaman",
+      "canonical_name": "Bob Shulman",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Bob Shaman"
+      ],
       "episodes": [
         7,
         8,
+        67,
         159
+      ],
+      "retired_ids": [
+        "N-849"
       ]
     },
     "N-1148": {
@@ -1609,7 +1853,15 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        8
+        8,
+        15,
+        27,
+        46
+      ],
+      "retired_ids": [
+        "N-211",
+        "N-351",
+        "N-533"
       ]
     },
     "N-136": {
@@ -1865,7 +2117,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        9
+        9,
+        26
+      ],
+      "retired_ids": [
+        "N-338"
       ]
     },
     "N-151": {
@@ -2161,9 +2417,24 @@
     "N-43": {
       "canonical_name": "Justin Strife",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Justin Streif",
+        "Justin Strieff",
+        "Justin Strife (name uncertainty flagged)",
+        "Justin Strife (transcript spelling)"
+      ],
       "episodes": [
-        10
+        10,
+        47,
+        60,
+        61,
+        68
+      ],
+      "retired_ids": [
+        "N-540",
+        "N-768",
+        "N-780",
+        "N-880"
       ]
     },
     "N-166": {
@@ -2347,7 +2618,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        11
+        11,
+        12
+      ],
+      "retired_ids": [
+        "N-187"
       ]
     },
     "N-177": {
@@ -2379,7 +2654,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        11
+        11,
+        19
+      ],
+      "retired_ids": [
+        "N-258"
       ]
     },
     "N-1207": {
@@ -2647,9 +2926,15 @@
     "N-183": {
       "canonical_name": "Shainer Broderick",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Shainer Broadick"
+      ],
       "episodes": [
-        12
+        12,
+        13
+      ],
+      "retired_ids": [
+        "N-189"
       ]
     },
     "N-184": {
@@ -2660,32 +2945,8 @@
         12
       ]
     },
-    "N-185": {
-      "canonical_name": "BB Netanyahu",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        12
-      ]
-    },
     "N-186": {
       "canonical_name": "Robert Bowles",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        12
-      ]
-    },
-    "N-187": {
-      "canonical_name": "Mike Mitchell",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        12
-      ]
-    },
-    "N-188": {
-      "canonical_name": "Kash Patel",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -2919,22 +3180,6 @@
         147
       ]
     },
-    "N-189": {
-      "canonical_name": "Shainer Broadick",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        13
-      ]
-    },
-    "N-190": {
-      "canonical_name": "George Zinn",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        13
-      ]
-    },
     "N-191": {
       "canonical_name": "Robert \"BS\" (FBI SAC, Utah)",
       "type": "person",
@@ -3147,14 +3392,6 @@
         147
       ]
     },
-    "N-201": {
-      "canonical_name": "Kash Patel",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        14
-      ]
-    },
     "N-202": {
       "canonical_name": "Kyle Undercover",
       "type": "person",
@@ -3174,9 +3411,15 @@
     "N-204": {
       "canonical_name": "Marjorie Taylor Greene",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Marjorie Greene"
+      ],
       "episodes": [
-        14
+        14,
+        58
+      ],
+      "retired_ids": [
+        "N-743"
       ]
     },
     "N-205": {
@@ -3184,7 +3427,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        14
+        14,
+        35
+      ],
+      "retired_ids": [
+        "N-428"
       ]
     },
     "N-206": {
@@ -3282,30 +3529,6 @@
         147
       ]
     },
-    "N-210": {
-      "canonical_name": "Andrew Kolvet",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        15
-      ]
-    },
-    "N-211": {
-      "canonical_name": "Alex Clark",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        15
-      ]
-    },
-    "N-212": {
-      "canonical_name": "Rob McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        15
-      ]
-    },
     "N-1228": {
       "canonical_name": "SD Card Removal Narrative Discrepancy",
       "type": "topic",
@@ -3367,17 +3590,6 @@
         152
       ]
     },
-    "N-214": {
-      "canonical_name": "Andrew Kovette",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        16,
-        157,
-        158,
-        159
-      ]
-    },
     "N-216": {
       "canonical_name": "Robert J. O'Neill",
       "type": "person",
@@ -3389,21 +3601,21 @@
     "N-217": {
       "canonical_name": "John Mappin",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "John Mappen"
+      ],
       "episodes": [
-        16
+        16,
+        20,
+        43
+      ],
+      "retired_ids": [
+        "N-280",
+        "N-510"
       ]
     },
     "N-218": {
       "canonical_name": "Arena Mappin",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
-    "N-219": {
-      "canonical_name": "Frank Turk (Dr.)",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -3426,20 +3638,34 @@
         16
       ]
     },
-    "N-222": {
-      "canonical_name": "Laura Loomer",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        16
-      ]
-    },
     "N-224": {
-      "canonical_name": "Blake",
+      "canonical_name": "Blake Neff",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Blake",
+        "Blake Nef"
+      ],
       "episodes": [
-        16
+        16,
+        26,
+        40,
+        42,
+        44,
+        47,
+        76,
+        79,
+        157,
+        158,
+        159
+      ],
+      "retired_ids": [
+        "N-337",
+        "N-478",
+        "N-487",
+        "N-519",
+        "N-544",
+        "N-957",
+        "N-992"
       ]
     },
     "N-1234": {
@@ -3514,7 +3740,13 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        17
+        17,
+        18,
+        24
+      ],
+      "retired_ids": [
+        "N-252",
+        "N-316"
       ]
     },
     "N-229": {
@@ -3533,24 +3765,8 @@
         17
       ]
     },
-    "N-232": {
-      "canonical_name": "Alex Jones",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
     "N-233": {
       "canonical_name": "James O'Keefe",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-234": {
-      "canonical_name": "Kanye West",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -3562,19 +3778,15 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        17
+        17,
+        27
+      ],
+      "retired_ids": [
+        "N-354"
       ]
     },
     "N-245": {
       "canonical_name": "Gabriel",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-236": {
-      "canonical_name": "Laura Loomer",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -3591,30 +3803,6 @@
     },
     "N-238": {
       "canonical_name": "Yishai (X account)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-239": {
-      "canonical_name": "Seth Dillon",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-240": {
-      "canonical_name": "Michael Savage",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        17
-      ]
-    },
-    "N-241": {
-      "canonical_name": "Dave Smith",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -3685,14 +3873,6 @@
         17
       ]
     },
-    "N-246": {
-      "canonical_name": "Andrew Kolbatz",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
     "N-247": {
       "canonical_name": "Cooper Brown",
       "type": "person",
@@ -3710,11 +3890,17 @@
       ]
     },
     "N-249": {
-      "canonical_name": "Dr. Deidra Weiss Amaro",
+      "canonical_name": "Deidra Weiss Amaro",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Dr. Deidra Weiss Amaro"
+      ],
       "episodes": [
-        18
+        18,
+        20
+      ],
+      "retired_ids": [
+        "N-282"
       ]
     },
     "N-251": {
@@ -3725,28 +3911,18 @@
         18
       ]
     },
-    "N-252": {
-      "canonical_name": "Matt Walsh",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
-    "N-253": {
-      "canonical_name": "Ghislaine Maxwell (presumed prior node, reused)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        18
-      ]
-    },
     "N-254": {
-      "canonical_name": "Jared Kushner (presumed prior node, reused)",
+      "canonical_name": "Jared Kushner",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Jared Kushner (presumed prior node, reused)"
+      ],
       "episodes": [
-        18
+        18,
+        78
+      ],
+      "retired_ids": [
+        "N-979"
       ]
     },
     "N-1246": {
@@ -3853,28 +4029,16 @@
         19
       ]
     },
-    "N-257": {
-      "canonical_name": "Frank Turk",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        19
-      ]
-    },
-    "N-258": {
-      "canonical_name": "Ian Carol",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        19
-      ]
-    },
     "N-259": {
       "canonical_name": "Sam Parker",
       "type": "person",
       "aliases": [],
       "episodes": [
-        19
+        19,
+        25
+      ],
+      "retired_ids": [
+        "N-332"
       ]
     },
     "N-260": {
@@ -3882,7 +4046,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        19
+        19,
+        67
+      ],
+      "retired_ids": [
+        "N-844"
       ]
     },
     "N-261": {
@@ -3914,15 +4082,17 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        19
-      ]
-    },
-    "N-265": {
-      "canonical_name": "Andrew Kovett",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        19
+        19,
+        39,
+        61,
+        64,
+        66
+      ],
+      "retired_ids": [
+        "N-470",
+        "N-781",
+        "N-795",
+        "N-820"
       ]
     },
     "N-266": {
@@ -3930,15 +4100,27 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        19
+        19,
+        20,
+        56
+      ],
+      "retired_ids": [
+        "N-270",
+        "N-714"
       ]
     },
     "N-267": {
-      "canonical_name": "Ryan Mata",
+      "canonical_name": "Ryan Matta",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Ryan Mata"
+      ],
       "episodes": [
-        19
+        19,
+        43
+      ],
+      "retired_ids": [
+        "N-515"
       ]
     },
     "N-1257": {
@@ -3981,32 +4163,8 @@
         19
       ]
     },
-    "N-268": {
-      "canonical_name": "Kanye West",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        20
-      ]
-    },
     "N-269": {
       "canonical_name": "Mike Cernovich",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        20
-      ]
-    },
-    "N-270": {
-      "canonical_name": "Scott Adams",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        20
-      ]
-    },
-    "N-271": {
-      "canonical_name": "Andrew Kovett",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -4016,39 +4174,40 @@
     "N-272": {
       "canonical_name": "Mikey McCoy",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Mikey McQuaid",
+        "Mikey McCoy (also referenced as \"Mikey McQuaid\")"
+      ],
       "episodes": [
         20,
+        23,
+        25,
+        26,
+        27,
+        39,
+        47,
+        67,
+        68,
+        74,
+        76,
         158,
         159
+      ],
+      "retired_ids": [
+        "N-301",
+        "N-324",
+        "N-336",
+        "N-352",
+        "N-469",
+        "N-541",
+        "N-860",
+        "N-879",
+        "N-944",
+        "N-956"
       ]
     },
     "N-273": {
       "canonical_name": "Alex Marlo",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        20
-      ]
-    },
-    "N-274": {
-      "canonical_name": "Frank Turk",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        20
-      ]
-    },
-    "N-275": {
-      "canonical_name": "Rob McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        20
-      ]
-    },
-    "N-276": {
-      "canonical_name": "Brigitte Macron",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -4071,28 +4230,20 @@
         20
       ]
     },
-    "N-280": {
-      "canonical_name": "John Mappen / \"Arena Mappen\" / \"Nina\"",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        20
-      ]
-    },
     "N-281": {
-      "canonical_name": "Dr. Lee Trotter",
+      "canonical_name": "Lee Trotter",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Dr. Lee Trotter"
+      ],
       "episodes": [
-        20
-      ]
-    },
-    "N-282": {
-      "canonical_name": "Dr. Deidra Weiss Amaro",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        20
+        20,
+        48,
+        72
+      ],
+      "retired_ids": [
+        "N-591",
+        "N-926"
       ]
     },
     "N-283": {
@@ -4152,22 +4303,6 @@
         20
       ]
     },
-    "N-286": {
-      "canonical_name": "Rob McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        21
-      ]
-    },
-    "N-287": {
-      "canonical_name": "Megyn Kelly",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        21
-      ]
-    },
     "N-288": {
       "canonical_name": "Norman Finkelstein",
       "type": "person",
@@ -4200,32 +4335,8 @@
         21
       ]
     },
-    "N-289": {
-      "canonical_name": "Kash Patel",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        22
-      ]
-    },
-    "N-290": {
-      "canonical_name": "Derek Maxfield",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        22
-      ]
-    },
     "N-291": {
       "canonical_name": "Shirlene Maxfield",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        22
-      ]
-    },
-    "N-292": {
-      "canonical_name": "Tucker Carlson",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -4237,23 +4348,13 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        22
-      ]
-    },
-    "N-295": {
-      "canonical_name": "Seth Dillon",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        22
-      ]
-    },
-    "N-296": {
-      "canonical_name": "Dave Smith",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        22
+        22,
+        25,
+        58
+      ],
+      "retired_ids": [
+        "N-329",
+        "N-732"
       ]
     },
     "N-297": {
@@ -4269,16 +4370,13 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        22
-      ]
-    },
-    "N-299": {
-      "canonical_name": "J.D. Vance",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
         22,
-        159
+        65,
+        72
+      ],
+      "retired_ids": [
+        "N-805",
+        "N-915"
       ]
     },
     "N-1269": {
@@ -4321,56 +4419,8 @@
         23
       ]
     },
-    "N-300": {
-      "canonical_name": "Rob McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        23
-      ]
-    },
-    "N-301": {
-      "canonical_name": "Mikey McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        23
-      ]
-    },
     "N-302": {
       "canonical_name": "Sean Feucht",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        23
-      ]
-    },
-    "N-304": {
-      "canonical_name": "Tucker Carlson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        23
-      ]
-    },
-    "N-305": {
-      "canonical_name": "Andrew Kolb",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        23
-      ]
-    },
-    "N-306": {
-      "canonical_name": "Village Crazy Lady (Melissa)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        23
-      ]
-    },
-    "N-307": {
-      "canonical_name": "Bibi Netanyahu",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -4390,7 +4440,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        23
+        23,
+        30
+      ],
+      "retired_ids": [
+        "N-381"
       ]
     },
     "N-310": {
@@ -4398,7 +4452,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        23
+        23,
+        47
+      ],
+      "retired_ids": [
+        "N-551"
       ]
     },
     "N-1273": {
@@ -4481,20 +4539,20 @@
         24
       ]
     },
-    "N-312": {
-      "canonical_name": "Andrew Kolbenschlag",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        24
-      ]
-    },
     "N-313": {
-      "canonical_name": "Jesse Waters",
+      "canonical_name": "Jesse Watters",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Jesse Waters"
+      ],
       "episodes": [
-        24
+        24,
+        27,
+        73
+      ],
+      "retired_ids": [
+        "N-348",
+        "N-937"
       ]
     },
     "N-314": {
@@ -4502,23 +4560,13 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        24
-      ]
-    },
-    "N-315": {
-      "canonical_name": "Kash Patel",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        24
-      ]
-    },
-    "N-316": {
-      "canonical_name": "Matt Walsh",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        24
+        24,
+        30,
+        31
+      ],
+      "retired_ids": [
+        "N-384",
+        "N-390"
       ]
     },
     "N-319": {
@@ -4577,52 +4625,22 @@
         24
       ]
     },
-    "N-324": {
-      "canonical_name": "Mikey McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        25
-      ]
-    },
-    "N-325": {
-      "canonical_name": "Rob McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        25
-      ]
-    },
     "N-326": {
       "canonical_name": "Eliza McCoy",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Elizabeth McCoy"
+      ],
       "episodes": [
-        25
-      ]
-    },
-    "N-327": {
-      "canonical_name": "Tucker Carlson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        25
-      ]
-    },
-    "N-328": {
-      "canonical_name": "Dave Smith",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        25
-      ]
-    },
-    "N-329": {
-      "canonical_name": "Nick Fuentes",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        25
+        25,
+        39,
+        47,
+        158,
+        159
+      ],
+      "retired_ids": [
+        "N-473",
+        "N-542"
       ]
     },
     "N-330": {
@@ -4641,28 +4659,18 @@
         25
       ]
     },
-    "N-332": {
-      "canonical_name": "Sam Parker",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        25
-      ]
-    },
-    "N-333": {
-      "canonical_name": "George Zinn",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        25
-      ]
-    },
     "N-334": {
       "canonical_name": "Milo Yiannopoulos",
       "type": "person",
       "aliases": [],
       "episodes": [
-        25
+        25,
+        58,
+        79
+      ],
+      "retired_ids": [
+        "N-740",
+        "N-991"
       ]
     },
     "N-1288": {
@@ -4720,31 +4728,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        26
-      ]
-    },
-    "N-336": {
-      "canonical_name": "Mikey McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        26
-      ]
-    },
-    "N-337": {
-      "canonical_name": "Blake Nef",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        26
-      ]
-    },
-    "N-338": {
-      "canonical_name": "Ted Cruz",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        26
+        26,
+        32
+      ],
+      "retired_ids": [
+        "N-393"
       ]
     },
     "N-339": {
@@ -4752,7 +4740,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        26
+        26,
+        79
+      ],
+      "retired_ids": [
+        "N-999"
       ]
     },
     "N-340": {
@@ -4760,23 +4752,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        26
-      ]
-    },
-    "N-341": {
-      "canonical_name": "Laura Loomer",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        26
-      ]
-    },
-    "N-343": {
-      "canonical_name": "Aaron Wexler",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        26
+        26,
+        28
+      ],
+      "retired_ids": [
+        "N-361"
       ]
     },
     "N-344": {
@@ -4784,15 +4764,12 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        26
-      ]
-    },
-    "N-345": {
-      "canonical_name": "Rob McCoy (Pastor Rob McCoy)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        26
+        26,
+        36,
+        157
+      ],
+      "retired_ids": [
+        "N-436"
       ]
     },
     "N-1294": {
@@ -4827,20 +4804,23 @@
         26
       ]
     },
-    "N-348": {
-      "canonical_name": "Jesse Watters",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        27
-      ]
-    },
     "N-349": {
       "canonical_name": "Allie Beth Stuckey",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Ali Stucky",
+        "AllieBeth Stuckey"
+      ],
       "episodes": [
-        27
+        27,
+        29,
+        32,
+        46
+      ],
+      "retired_ids": [
+        "N-372",
+        "N-404",
+        "N-532"
       ]
     },
     "N-350": {
@@ -4848,35 +4828,15 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        27
-      ]
-    },
-    "N-351": {
-      "canonical_name": "Alex Clark",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        27
-      ]
-    },
-    "N-352": {
-      "canonical_name": "Mikey McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        27
+        27,
+        46
+      ],
+      "retired_ids": [
+        "N-534"
       ]
     },
     "N-353": {
       "canonical_name": "Alyssa Cordova",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        27
-      ]
-    },
-    "N-354": {
-      "canonical_name": "Dinesh D'Souza",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -4893,14 +4853,6 @@
     },
     "N-356": {
       "canonical_name": "Andrew Klavan",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        27
-      ]
-    },
-    "N-357": {
-      "canonical_name": "Frank Turek",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -4995,14 +4947,6 @@
         28
       ]
     },
-    "N-361": {
-      "canonical_name": "Zohran Mamdani",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        28
-      ]
-    },
     "N-362": {
       "canonical_name": "Ariana",
       "type": "person",
@@ -5049,7 +4993,15 @@
       "aliases": [],
       "episodes": [
         29,
+        46,
+        72,
+        73,
         158
+      ],
+      "retired_ids": [
+        "N-530",
+        "N-922",
+        "N-938"
       ]
     },
     "N-365": {
@@ -5076,22 +5028,6 @@
         29
       ]
     },
-    "N-368": {
-      "canonical_name": "Frank Turek",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        29
-      ]
-    },
-    "N-369": {
-      "canonical_name": "Seth Dillon",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        29
-      ]
-    },
     "N-370": {
       "canonical_name": "Joel Berry",
       "type": "person",
@@ -5102,14 +5038,6 @@
     },
     "N-371": {
       "canonical_name": "Frank McCormick",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        29
-      ]
-    },
-    "N-372": {
-      "canonical_name": "Allie Beth Stuckey",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -5129,15 +5057,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        29
-      ]
-    },
-    "N-375": {
-      "canonical_name": "Tucker Carlson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        29
+        29,
+        67
+      ],
+      "retired_ids": [
+        "N-862"
       ]
     },
     "N-376": {
@@ -5180,68 +5104,16 @@
         29
       ]
     },
-    "N-377": {
-      "canonical_name": "Megyn Kelly",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        30
-      ]
-    },
-    "N-378": {
-      "canonical_name": "Ben Shapiro",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        30
-      ]
-    },
-    "N-379": {
-      "canonical_name": "Dave Rubin",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        30
-      ]
-    },
-    "N-380": {
-      "canonical_name": "Frank Turk",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        30
-      ]
-    },
-    "N-381": {
-      "canonical_name": "Jack Hibbs",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        30
-      ]
-    },
     "N-382": {
       "canonical_name": "Butch Hibbs",
       "type": "person",
       "aliases": [],
       "episodes": [
-        30
-      ]
-    },
-    "N-383": {
-      "canonical_name": "Kash Patel",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        30
-      ]
-    },
-    "N-384": {
-      "canonical_name": "Alexis Wilkins",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        30
+        30,
+        32
+      ],
+      "retired_ids": [
+        "N-403"
       ]
     },
     "N-385": {
@@ -5254,14 +5126,6 @@
     },
     "N-386": {
       "canonical_name": "Hen Mazig",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        30
-      ]
-    },
-    "N-387": {
-      "canonical_name": "Kanye West",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -5309,24 +5173,8 @@
         31
       ]
     },
-    "N-388": {
-      "canonical_name": "Frank Turk",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        31
-      ]
-    },
     "N-389": {
       "canonical_name": "Thomas Michael Camino (a.k.a. \"Thomas Kamino\" in early host reference)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        31
-      ]
-    },
-    "N-390": {
-      "canonical_name": "Alexis Wilkins",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -5351,14 +5199,6 @@
     },
     "N-392": {
       "canonical_name": "Lou Taylor",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        32
-      ]
-    },
-    "N-393": {
-      "canonical_name": "Brett Cooper",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -5437,22 +5277,6 @@
         32
       ]
     },
-    "N-403": {
-      "canonical_name": "Butch Hibbs",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        32
-      ]
-    },
-    "N-404": {
-      "canonical_name": "Ali Stucky",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        32
-      ]
-    },
     "N-1319": {
       "canonical_name": "Calvary Chapel Network Infiltration Question",
       "type": "topic",
@@ -5491,14 +5315,6 @@
       "aliases": [],
       "episodes": [
         32
-      ]
-    },
-    "N-405": {
-      "canonical_name": "Rob McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        33
       ]
     },
     "N-406": {
@@ -5550,11 +5366,18 @@
       ]
     },
     "N-413": {
-      "canonical_name": "\"Mommy Sleuth\" (Anonymous Contributor)",
+      "canonical_name": "Mommy Sleuth (Nellie)",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Mommy Sleuth\" (Anonymous Contributor)",
+        "Nellie \"Mommy Sleuth\" (Investigation Contributor)"
+      ],
       "episodes": [
-        33
+        33,
+        58
+      ],
+      "retired_ids": [
+        "N-746"
       ]
     },
     "N-414": {
@@ -5768,17 +5591,30 @@
     "N-424": {
       "canonical_name": "Brian Harpole",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Brian Herpolsheimer"
+      ],
       "episodes": [
-        35
-      ]
-    },
-    "N-425": {
-      "canonical_name": "Frank Turk",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        35
+        35,
+        36,
+        44,
+        48,
+        50,
+        51,
+        54,
+        59,
+        157,
+        158,
+        159
+      ],
+      "retired_ids": [
+        "N-433",
+        "N-517",
+        "N-594",
+        "N-604",
+        "N-620",
+        "N-651",
+        "N-749"
       ]
     },
     "N-426": {
@@ -5786,19 +5622,17 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        35
+        35,
+        44,
+        47
+      ],
+      "retired_ids": [
+        "N-520",
+        "N-545"
       ]
     },
     "N-427": {
       "canonical_name": "Joe Rogan",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        35
-      ]
-    },
-    "N-428": {
-      "canonical_name": "Theo Von",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -5845,20 +5679,22 @@
         35
       ]
     },
-    "N-433": {
-      "canonical_name": "Brian Harpole",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        36
-      ]
-    },
     "N-434": {
       "canonical_name": "Dan Flood",
       "type": "person",
       "aliases": [],
       "episodes": [
-        36
+        36,
+        43,
+        59,
+        67,
+        157,
+        159
+      ],
+      "retired_ids": [
+        "N-507",
+        "N-747",
+        "N-848"
       ]
     },
     "N-435": {
@@ -5869,15 +5705,6 @@
         36,
         157,
         159
-      ]
-    },
-    "N-436": {
-      "canonical_name": "Shawn Ryan",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        36,
-        157
       ]
     },
     "N-437": {
@@ -5937,20 +5764,16 @@
         37
       ]
     },
-    "N-438": {
-      "canonical_name": "Kash Patel",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        37
-      ]
-    },
     "N-439": {
       "canonical_name": "Mike Huckabee",
       "type": "person",
       "aliases": [],
       "episodes": [
-        37
+        37,
+        78
+      ],
+      "retired_ids": [
+        "N-978"
       ]
     },
     "N-440": {
@@ -5978,20 +5801,45 @@
       ]
     },
     "N-443": {
-      "canonical_name": "Tim Dylan",
+      "canonical_name": "Tim Dillon",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Tim Dylan",
+        "Tim Dillon (comedian)"
+      ],
       "episodes": [
-        37
+        37,
+        51,
+        61,
+        70,
+        75
+      ],
+      "retired_ids": [
+        "N-610",
+        "N-769",
+        "N-905"
       ]
     },
     "N-444": {
       "canonical_name": "Bari Weiss",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Barry Weiss (CBS)",
+        "Barry Weiss"
+      ],
       "episodes": [
         37,
+        43,
+        46,
+        51,
+        67,
         158
+      ],
+      "retired_ids": [
+        "N-511",
+        "N-529",
+        "N-613",
+        "N-838"
       ]
     },
     "N-445": {
@@ -6092,14 +5940,6 @@
     },
     "N-451": {
       "canonical_name": "Adam Sosnick",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        38
-      ]
-    },
-    "N-452": {
-      "canonical_name": "Patrick Bet-David",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -6370,32 +6210,8 @@
         39
       ]
     },
-    "N-470": {
-      "canonical_name": "Stacy Sheridan",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        39
-      ]
-    },
     "N-471": {
       "canonical_name": "Tyler Bowyer's brother (unnamed)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        39
-      ]
-    },
-    "N-469": {
-      "canonical_name": "Mikey McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        39
-      ]
-    },
-    "N-473": {
-      "canonical_name": "Eliza McCoy",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -6482,20 +6298,16 @@
         39
       ]
     },
-    "N-478": {
-      "canonical_name": "Blake Nef",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        40
-      ]
-    },
     "N-479": {
       "canonical_name": "Cam Higby",
       "type": "person",
       "aliases": [],
       "episodes": [
-        40
+        40,
+        41
+      ],
+      "retired_ids": [
+        "N-482"
       ]
     },
     "N-480": {
@@ -6509,9 +6321,15 @@
     "N-481": {
       "canonical_name": "The Game",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "The Game (rapper)"
+      ],
       "episodes": [
-        40
+        40,
+        42
+      ],
+      "retired_ids": [
+        "N-489"
       ]
     },
     "N-1378": {
@@ -6530,20 +6348,19 @@
         40
       ]
     },
-    "N-482": {
-      "canonical_name": "Cam Higby",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        41
-      ]
-    },
     "N-483": {
-      "canonical_name": "Wedi Machmood (name as used)",
+      "canonical_name": "Wed Mahmoud",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Wedi Machmood (name as used)",
+        "Wed Mahmoud (Wed Mahmoud)"
+      ],
       "episodes": [
-        41
+        41,
+        56
+      ],
+      "retired_ids": [
+        "N-718"
       ]
     },
     "N-484": {
@@ -6556,14 +6373,6 @@
     },
     "N-485": {
       "canonical_name": "Project Constitution (X account / researcher)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        41
-      ]
-    },
-    "N-486": {
-      "canonical_name": "Frank Turk",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -6605,30 +6414,6 @@
     "N-1002": {
       "canonical_name": "Erica Kirk",
       "type": "topic",
-      "aliases": [],
-      "episodes": [
-        42
-      ]
-    },
-    "N-487": {
-      "canonical_name": "Blake Nef",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        42
-      ]
-    },
-    "N-488": {
-      "canonical_name": "Andrew Kovat",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        42
-      ]
-    },
-    "N-489": {
-      "canonical_name": "The Game (rapper)",
-      "type": "person",
       "aliases": [],
       "episodes": [
         42
@@ -6762,22 +6547,6 @@
         43
       ]
     },
-    "N-497": {
-      "canonical_name": "Kash Patel",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        43
-      ]
-    },
-    "N-498": {
-      "canonical_name": "Megyn Kelly",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        43
-      ]
-    },
     "N-499": {
       "canonical_name": "Pierre Falcone",
       "type": "person",
@@ -6791,7 +6560,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        43
+        43,
+        44
+      ],
+      "retired_ids": [
+        "N-521"
       ]
     },
     "N-501": {
@@ -6818,48 +6591,8 @@
         43
       ]
     },
-    "N-507": {
-      "canonical_name": "Dan Flood",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        43
-      ]
-    },
-    "N-510": {
-      "canonical_name": "John Mappin",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        43
-      ]
-    },
-    "N-511": {
-      "canonical_name": "Bari Weiss",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        43
-      ]
-    },
     "N-512": {
       "canonical_name": "Hodge Twins",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        43
-      ]
-    },
-    "N-514": {
-      "canonical_name": "Mel (\"Village Crazy Lady\")",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        43
-      ]
-    },
-    "N-515": {
-      "canonical_name": "Ryan Matta",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -6955,44 +6688,21 @@
         44
       ]
     },
-    "N-517": {
-      "canonical_name": "Brian Harpole",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        44
-      ]
-    },
     "N-518": {
-      "canonical_name": "\"Captain Nef\"",
+      "canonical_name": "Captain Adam Nef",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Captain Nef",
+        "Captain Neff"
+      ],
       "episodes": [
-        44
-      ]
-    },
-    "N-519": {
-      "canonical_name": "Blake Nef",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        44
-      ]
-    },
-    "N-520": {
-      "canonical_name": "Tim Pool",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        44
-      ]
-    },
-    "N-521": {
-      "canonical_name": "Arcadi Gaydamak",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        44
+        44,
+        45,
+        49
+      ],
+      "retired_ids": [
+        "N-528",
+        "N-600"
       ]
     },
     "N-522": {
@@ -7099,14 +6809,6 @@
         45
       ]
     },
-    "N-528": {
-      "canonical_name": "Captain Adam Nef",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        45
-      ]
-    },
     "N-1403": {
       "canonical_name": "USAF C37A 99-044 Flight Path Verification",
       "type": "topic",
@@ -7121,54 +6823,6 @@
       "aliases": [],
       "episodes": [
         45
-      ]
-    },
-    "N-529": {
-      "canonical_name": "Bari Weiss",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        46
-      ]
-    },
-    "N-530": {
-      "canonical_name": "Glenn Beck",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        46
-      ]
-    },
-    "N-532": {
-      "canonical_name": "AllieBeth Stuckey",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        46
-      ]
-    },
-    "N-533": {
-      "canonical_name": "Alex Clark",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        46
-      ]
-    },
-    "N-534": {
-      "canonical_name": "Lila Rose",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        46
-      ]
-    },
-    "N-535": {
-      "canonical_name": "Ben Shapiro",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        46
       ]
     },
     "N-537": {
@@ -7227,90 +6881,8 @@
         47
       ]
     },
-    "N-539": {
-      "canonical_name": "Erika Kolfage",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47
-      ]
-    },
-    "N-540": {
-      "canonical_name": "Justin Streif",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47
-      ]
-    },
-    "N-541": {
-      "canonical_name": "Mikey McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47
-      ]
-    },
-    "N-542": {
-      "canonical_name": "Elizabeth McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47,
-        158,
-        159
-      ]
-    },
-    "N-543": {
-      "canonical_name": "Rob McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47
-      ]
-    },
-    "N-544": {
-      "canonical_name": "Blake Neff",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47
-      ]
-    },
-    "N-545": {
-      "canonical_name": "Tim Pool",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47
-      ]
-    },
-    "N-546": {
-      "canonical_name": "Megan Kelly",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47
-      ]
-    },
     "N-547": {
       "canonical_name": "Turkey Tom",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47
-      ]
-    },
-    "N-548": {
-      "canonical_name": "George Zin",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47
-      ]
-    },
-    "N-549": {
-      "canonical_name": "Kash Patel",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -7325,36 +6897,20 @@
         47
       ]
     },
-    "N-551": {
-      "canonical_name": "Joe Kent",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47
-      ]
-    },
     "N-552": {
       "canonical_name": "Baron Coleman",
       "type": "person",
       "aliases": [],
       "episodes": [
-        47
-      ]
-    },
-    "N-553": {
-      "canonical_name": "Seth Dillon",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47
-      ]
-    },
-    "N-554": {
-      "canonical_name": "Bibi Netanyahu",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47
+        47,
+        48,
+        58,
+        60
+      ],
+      "retired_ids": [
+        "N-593",
+        "N-745",
+        "N-762"
       ]
     },
     "N-555": {
@@ -7366,19 +6922,17 @@
       ]
     },
     "N-556": {
-      "canonical_name": "Greg Shafer",
+      "canonical_name": "Greg Schaefer",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Greg Shafer"
+      ],
       "episodes": [
-        47
-      ]
-    },
-    "N-557": {
-      "canonical_name": "Andrew Kolb",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        47
+        47,
+        59
+      ],
+      "retired_ids": [
+        "N-751"
       ]
     },
     "N-558": {
@@ -7653,38 +7207,6 @@
         48
       ]
     },
-    "N-591": {
-      "canonical_name": "Dr. Lee Trotter",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        48
-      ]
-    },
-    "N-592": {
-      "canonical_name": "Frank Turek",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        48
-      ]
-    },
-    "N-593": {
-      "canonical_name": "Baron Coleman",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        48
-      ]
-    },
-    "N-594": {
-      "canonical_name": "Brian Harpole",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        48
-      ]
-    },
     "N-596": {
       "canonical_name": "Harry",
       "type": "person",
@@ -7766,11 +7288,21 @@
       ]
     },
     "N-597": {
-      "canonical_name": "\"Mitch\" (Eyewitness, Pseudonym)",
+      "canonical_name": "Mitch Snow",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Mitch\" (Eyewitness, Pseudonym)",
+        "Mitch",
+        "Mitch Snow (witness, veteran)"
+      ],
       "episodes": [
-        49
+        49,
+        50,
+        51
+      ],
+      "retired_ids": [
+        "N-608",
+        "N-616"
       ]
     },
     "N-598": {
@@ -7786,15 +7318,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        49
-      ]
-    },
-    "N-600": {
-      "canonical_name": "Captain Neff",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        49
+        49,
+        50
+      ],
+      "retired_ids": [
+        "N-603"
       ]
     },
     "N-1438": {
@@ -7821,38 +7349,6 @@
         49
       ]
     },
-    "N-601": {
-      "canonical_name": "Ben Shapiro",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        50
-      ]
-    },
-    "N-602": {
-      "canonical_name": "Tucker Carlson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        50
-      ]
-    },
-    "N-603": {
-      "canonical_name": "Mark Amodei",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        50
-      ]
-    },
-    "N-604": {
-      "canonical_name": "Brian Harpole",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        50
-      ]
-    },
     "N-605": {
       "canonical_name": "Cabot Phillips",
       "type": "person",
@@ -7870,19 +7366,17 @@
       ]
     },
     "N-607": {
-      "canonical_name": "Jeremy Boreing (transcribed as \"Jeremy Boring\")",
+      "canonical_name": "Jeremy Boreing",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Jeremy Boreing (transcribed as \"Jeremy Boring\")"
+      ],
       "episodes": [
-        50
-      ]
-    },
-    "N-608": {
-      "canonical_name": "Mitch",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        50
+        50,
+        64
+      ],
+      "retired_ids": [
+        "N-794"
       ]
     },
     "N-1441": {
@@ -7933,30 +7427,6 @@
         51
       ]
     },
-    "N-609": {
-      "canonical_name": "Andrew Kolbet (Turning Point USA spokesperson)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        51
-      ]
-    },
-    "N-610": {
-      "canonical_name": "Tim Dillon (comedian)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        51
-      ]
-    },
-    "N-613": {
-      "canonical_name": "Barry Weiss (CBS)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        51
-      ]
-    },
     "N-614": {
       "canonical_name": "Hunter Cosgrove (UVU student)",
       "type": "person",
@@ -7965,32 +7435,8 @@
         51
       ]
     },
-    "N-615": {
-      "canonical_name": "Alex Jones",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        51
-      ]
-    },
-    "N-616": {
-      "canonical_name": "Mitch Snow (witness, veteran)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        51
-      ]
-    },
     "N-618": {
       "canonical_name": "Paramount Tactical Valhalla (livestream account)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        51
-      ]
-    },
-    "N-620": {
-      "canonical_name": "Brian Harpole",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -8118,11 +7564,18 @@
       ]
     },
     "N-639": {
-      "canonical_name": "Larry Gwinta",
+      "canonical_name": "Larry Guinta",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Larry Gwinta",
+        "Larry Guinta (referred to as \"Larry Lawrence Guinta\")"
+      ],
       "episodes": [
-        52
+        52,
+        62
+      ],
+      "retired_ids": [
+        "N-784"
       ]
     },
     "N-1452": {
@@ -8237,14 +7690,6 @@
         53
       ]
     },
-    "N-650": {
-      "canonical_name": "Megan Kelly",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        53
-      ]
-    },
     "N-1456": {
       "canonical_name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
       "type": "topic",
@@ -8326,14 +7771,6 @@
         54
       ]
     },
-    "N-651": {
-      "canonical_name": "Brian Herpolsheimer",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        54
-      ]
-    },
     "N-653": {
       "canonical_name": "Jerry Falwell Sr.",
       "type": "person",
@@ -8347,7 +7784,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        54
+        54,
+        55
+      ],
+      "retired_ids": [
+        "N-698"
       ]
     },
     "N-655": {
@@ -8518,14 +7959,6 @@
         55
       ]
     },
-    "N-695": {
-      "canonical_name": "Andrew Kolbett",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        55
-      ]
-    },
     "N-696": {
       "canonical_name": "Johnny Moore",
       "type": "person",
@@ -8537,14 +7970,6 @@
     },
     "N-697": {
       "canonical_name": "Ron Godwin",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        55
-      ]
-    },
-    "N-698": {
-      "canonical_name": "Sun Myung Moon",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -8727,32 +8152,8 @@
         56
       ]
     },
-    "N-714": {
-      "canonical_name": "Scott Adams",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        56
-      ]
-    },
-    "N-715": {
-      "canonical_name": "Tucker Carlson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        56
-      ]
-    },
     "N-716": {
       "canonical_name": "Lindsey Graham",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        56
-      ]
-    },
-    "N-718": {
-      "canonical_name": "Wed Mahmoud (Wed Mahmoud)",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -8852,7 +8253,13 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        57
+        57,
+        59,
+        63
+      ],
+      "retired_ids": [
+        "N-752",
+        "N-791"
       ]
     },
     "N-726": {
@@ -8930,25 +8337,29 @@
     "N-730": {
       "canonical_name": "Nelda Buckman",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "NDA Buckman"
+      ],
       "episodes": [
-        58
+        58,
+        59
+      ],
+      "retired_ids": [
+        "N-756"
       ]
     },
     "N-731": {
       "canonical_name": "Karl Buckman",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Carl Buckman"
+      ],
       "episodes": [
-        58
-      ]
-    },
-    "N-732": {
-      "canonical_name": "Nick Fuentes",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        58
+        58,
+        59
+      ],
+      "retired_ids": [
+        "N-757"
       ]
     },
     "N-733": {
@@ -8999,14 +8410,6 @@
         58
       ]
     },
-    "N-740": {
-      "canonical_name": "Milo Yiannopoulos",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        58
-      ]
-    },
     "N-741": {
       "canonical_name": "Ferris Wilks",
       "type": "person",
@@ -9015,32 +8418,8 @@
         58
       ]
     },
-    "N-743": {
-      "canonical_name": "Marjorie Greene",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        58
-      ]
-    },
     "N-744": {
       "canonical_name": "Nika",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        58
-      ]
-    },
-    "N-745": {
-      "canonical_name": "Baron Coleman",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        58
-      ]
-    },
-    "N-746": {
-      "canonical_name": "Nellie \"Mommy Sleuth\" (Investigation Contributor)",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9111,31 +8490,12 @@
         58
       ]
     },
-    "N-747": {
-      "canonical_name": "Dan Flood",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        59
-      ]
-    },
     "N-748": {
       "canonical_name": "Robert Eugene Flood",
       "type": "person",
       "aliases": [],
       "episodes": [
         59
-      ]
-    },
-    "N-749": {
-      "canonical_name": "Brian Harpole",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        59,
-        157,
-        158,
-        159
       ]
     },
     "N-750": {
@@ -9146,67 +8506,8 @@
         59
       ]
     },
-    "N-751": {
-      "canonical_name": "Greg Schaefer",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        59
-      ]
-    },
-    "N-752": {
-      "canonical_name": "Bill Montgomery",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        59
-      ]
-    },
     "N-753": {
       "canonical_name": "Zack Gregorio (Wolves and Finance)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        59
-      ]
-    },
-    "N-754": {
-      "canonical_name": "Andrew Kovat",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        59
-      ]
-    },
-    "N-755": {
-      "canonical_name": "Frank Turk",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        59,
-        157,
-        158,
-        159
-      ]
-    },
-    "N-756": {
-      "canonical_name": "NDA Buckman",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        59
-      ]
-    },
-    "N-757": {
-      "canonical_name": "Carl Buckman",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        59
-      ]
-    },
-    "N-758": {
-      "canonical_name": "Rob McCoy",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9277,22 +8578,6 @@
         59
       ]
     },
-    "N-762": {
-      "canonical_name": "Baron Coleman",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        60
-      ]
-    },
-    "N-763": {
-      "canonical_name": "Dave Rubin",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        60
-      ]
-    },
     "N-764": {
       "canonical_name": "Katherine Pollard Griggs",
       "type": "person",
@@ -9325,14 +8610,6 @@
         60
       ]
     },
-    "N-768": {
-      "canonical_name": "Justin Strieff",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        60
-      ]
-    },
     "N-1501": {
       "canonical_name": "Plane Records Timing Discrepancy",
       "type": "topic",
@@ -9347,14 +8624,6 @@
       "aliases": [],
       "episodes": [
         60
-      ]
-    },
-    "N-769": {
-      "canonical_name": "Tim Dylan",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        61
       ]
     },
     "N-770": {
@@ -9407,38 +8676,6 @@
     },
     "N-776": {
       "canonical_name": "Taylor Swift",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        61
-      ]
-    },
-    "N-778": {
-      "canonical_name": "Rob McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        61
-      ]
-    },
-    "N-779": {
-      "canonical_name": "Andrew Kovat (name uncertainty flagged)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        61
-      ]
-    },
-    "N-780": {
-      "canonical_name": "Justin Strife (name uncertainty flagged)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        61
-      ]
-    },
-    "N-781": {
-      "canonical_name": "Stacy Sheridan",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9510,19 +8747,21 @@
       ]
     },
     "N-783": {
-      "canonical_name": "Lori Frantzve (a.k.a. \"Lorin Frantzve\" in Desert Spirit Tech filing)",
+      "canonical_name": "Lori Frantzve",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Lori Frantzve (a.k.a. \"Lorin Frantzve\" in Desert Spirit Tech filing)",
+        "Lori France Feay (transcript spelling)",
+        "Lorie Fonfe"
+      ],
       "episodes": [
-        62
-      ]
-    },
-    "N-784": {
-      "canonical_name": "Larry Guinta (referred to as \"Larry Lawrence Guinta\")",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        62
+        62,
+        68,
+        69
+      ],
+      "retired_ids": [
+        "N-878",
+        "N-895"
       ]
     },
     "N-785": {
@@ -9541,20 +8780,22 @@
         62
       ]
     },
-    "N-788": {
-      "canonical_name": "Andrew Kolvet",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        62
-      ]
-    },
     "N-789": {
-      "canonical_name": "Marina Minas",
+      "canonical_name": "Marina (TPUSA CMO)",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Marina Minas",
+        "Marina Munz",
+        "Marina Meanes"
+      ],
       "episodes": [
-        62
+        62,
+        70,
+        72
+      ],
+      "retired_ids": [
+        "N-904",
+        "N-933"
       ]
     },
     "N-790": {
@@ -9613,14 +8854,6 @@
         63
       ]
     },
-    "N-791": {
-      "canonical_name": "Bill Montgomery",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        63
-      ]
-    },
     "N-792": {
       "canonical_name": "Justin (TPUSA COO)",
       "type": "person",
@@ -9659,22 +8892,6 @@
       "aliases": [],
       "episodes": [
         63
-      ]
-    },
-    "N-794": {
-      "canonical_name": "Jeremy Boreing",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        64
-      ]
-    },
-    "N-795": {
-      "canonical_name": "Stacy Sheridan",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        64
       ]
     },
     "N-796": {
@@ -9785,22 +9002,6 @@
     },
     "N-802": {
       "canonical_name": "Arson Arstrovski",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        65
-      ]
-    },
-    "N-803": {
-      "canonical_name": "Rob McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        65
-      ]
-    },
-    "N-805": {
-      "canonical_name": "Piers Morgan",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9951,22 +9152,6 @@
         66
       ]
     },
-    "N-819": {
-      "canonical_name": "Frank Turek",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        66
-      ]
-    },
-    "N-820": {
-      "canonical_name": "Stacy Sheridan",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        66
-      ]
-    },
     "N-821": {
       "canonical_name": "Father Blank",
       "type": "person",
@@ -9991,14 +9176,6 @@
         66
       ]
     },
-    "N-824": {
-      "canonical_name": "Pam Bondi",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        66
-      ]
-    },
     "N-825": {
       "canonical_name": "Kobe Bryant",
       "type": "person",
@@ -10009,14 +9186,6 @@
     },
     "N-826": {
       "canonical_name": "Vanessa Bryant",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        66
-      ]
-    },
-    "N-827": {
-      "canonical_name": "Andrew Kovat",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10167,14 +9336,6 @@
         67
       ]
     },
-    "N-829": {
-      "canonical_name": "Sigmund Freud",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
     "N-830": {
       "canonical_name": "Wilhelm Fliess",
       "type": "person",
@@ -10191,40 +9352,8 @@
         67
       ]
     },
-    "N-834": {
-      "canonical_name": "Jeffrey Epstein",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
     "N-835": {
       "canonical_name": "Peter Thiel",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-836": {
-      "canonical_name": "J.D. Vance",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-837": {
-      "canonical_name": "Ben Shapiro",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-838": {
-      "canonical_name": "Barry Weiss",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10255,58 +9384,8 @@
         67
       ]
     },
-    "N-842": {
-      "canonical_name": "Tucker Carlson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
     "N-843": {
       "canonical_name": "Susan Hamblin",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-844": {
-      "canonical_name": "James Lee",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-846": {
-      "canonical_name": "Frank Turek",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-847": {
-      "canonical_name": "Andrew Kolvet (also spelled Kolvetz in transcript)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-848": {
-      "canonical_name": "Dan Flood",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67,
-        157,
-        159
-      ]
-    },
-    "N-849": {
-      "canonical_name": "Bob Shulman",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10323,14 +9402,6 @@
     },
     "N-851": {
       "canonical_name": "Maria Farmer",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-852": {
-      "canonical_name": "Ghislaine Maxwell",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10385,30 +9456,6 @@
         67
       ]
     },
-    "N-859": {
-      "canonical_name": "Andrew Kolbatz (note: spelling preserved from transcript; possibly Kolbet)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-860": {
-      "canonical_name": "Mikey McQuaid",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
-    "N-862": {
-      "canonical_name": "Mark Levin",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
-      ]
-    },
     "N-867": {
       "canonical_name": "Todd Blanche",
       "type": "person",
@@ -10416,14 +9463,6 @@
       "episodes": [
         67,
         159
-      ]
-    },
-    "N-874": {
-      "canonical_name": "Robert Maxwell",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        67
       ]
     },
     "N-1009": {
@@ -10443,12 +9482,28 @@
       ]
     },
     "N-3": {
-      "canonical_name": "Candace Owens \u2014 host; existing node reused.",
+      "canonical_name": "Candace Owens",
       "type": "person",
       "aliases": [],
       "episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
         67,
-        107
+        107,
+        157,
+        158,
+        159
+      ],
+      "retired_ids": [
+        "N-7"
       ]
     },
     "N-1541": {
@@ -10523,38 +9578,6 @@
         68
       ]
     },
-    "N-878": {
-      "canonical_name": "Lori France Feay (transcript spelling)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        68
-      ]
-    },
-    "N-879": {
-      "canonical_name": "Mikey McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        68
-      ]
-    },
-    "N-880": {
-      "canonical_name": "Justin Strife (transcript spelling)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        68
-      ]
-    },
-    "N-881": {
-      "canonical_name": "Ben Shapiro",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        68
-      ]
-    },
     "N-882": {
       "canonical_name": "Colin Powell",
       "type": "person",
@@ -10580,23 +9603,21 @@
       ]
     },
     "N-885": {
-      "canonical_name": "Robkea (transcript spelling)",
+      "canonical_name": "Robkea",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Robkea (transcript spelling)"
+      ],
       "episodes": [
-        68
+        68,
+        69
+      ],
+      "retired_ids": [
+        "N-891"
       ]
     },
     "N-886": {
       "canonical_name": "Bella Hadid",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        68
-      ]
-    },
-    "N-887": {
-      "canonical_name": "Frank Turk (transcript spelling)",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -10704,15 +9725,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        69
-      ]
-    },
-    "N-891": {
-      "canonical_name": "Robkea",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        69
+        69,
+        71
+      ],
+      "retired_ids": [
+        "N-906"
       ]
     },
     "N-892": {
@@ -10739,22 +9756,6 @@
         69
       ]
     },
-    "N-895": {
-      "canonical_name": "Lorie Fonfe",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        69
-      ]
-    },
-    "N-896": {
-      "canonical_name": "Jeffrey Epstein",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        69
-      ]
-    },
     "N-897": {
       "canonical_name": "Woody Allen",
       "type": "person",
@@ -10769,23 +9770,11 @@
       "aliases": [],
       "episodes": [
         69,
+        79,
         159
-      ]
-    },
-    "N-899": {
-      "canonical_name": "Sigmund Freud (rendered by host as \"Sigman Freud\")",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        69
-      ]
-    },
-    "N-900": {
-      "canonical_name": "Rob McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        69
+      ],
+      "retired_ids": [
+        "N-997"
       ]
     },
     "N-902": {
@@ -10855,26 +9844,15 @@
     "N-903": {
       "canonical_name": "Aubrey Lech",
       "type": "person",
-      "aliases": [],
-      "episodes": [
-        70
-      ]
-    },
-    "N-904": {
-      "canonical_name": "Marina Munz",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        70
-      ]
-    },
-    "N-905": {
-      "canonical_name": "Tim Dillon",
-      "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Aubrey Lich"
+      ],
       "episodes": [
         70,
-        75
+        72
+      ],
+      "retired_ids": [
+        "N-918"
       ]
     },
     "N-1563": {
@@ -10917,14 +9895,6 @@
         70
       ]
     },
-    "N-906": {
-      "canonical_name": "Tracy Martin",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        71
-      ]
-    },
     "N-907": {
       "canonical_name": "Thomas Martin (Tucson Border Patrol Director)",
       "type": "person",
@@ -10946,7 +9916,11 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        71
+        71,
+        73
+      ],
+      "retired_ids": [
+        "N-935"
       ]
     },
     "N-910": {
@@ -11069,22 +10043,6 @@
         72
       ]
     },
-    "N-914": {
-      "canonical_name": "Megyn Kelly",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
-    "N-915": {
-      "canonical_name": "Piers Morgan",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
     "N-916": {
       "canonical_name": "Lynn Forester de Rothschild (a/k/a Lindy Rothschild)",
       "type": "person",
@@ -11101,14 +10059,6 @@
         72
       ]
     },
-    "N-918": {
-      "canonical_name": "Aubrey Lich",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
     "N-919": {
       "canonical_name": "\"Mike\" (Private Investigator)",
       "type": "person",
@@ -11119,46 +10069,6 @@
     },
     "N-920": {
       "canonical_name": "TikToker (Unnamed)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
-    "N-921": {
-      "canonical_name": "Andrew Kolvet (also rendered \"Andrew Kolb\" in this episode)",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
-    "N-922": {
-      "canonical_name": "Glenn Beck",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
-    "N-923": {
-      "canonical_name": "Benjamin Netanyahu",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
-    "N-926": {
-      "canonical_name": "Dr. Lee Trotter",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        72
-      ]
-    },
-    "N-933": {
-      "canonical_name": "Marina Meanes",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -11213,40 +10123,8 @@
         73
       ]
     },
-    "N-934": {
-      "canonical_name": "Laura Loomer",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        73
-      ]
-    },
-    "N-935": {
-      "canonical_name": "Carrie Prejean Bowler (name spelling uncertain; transcript varies: \"Prejean Bowler,\" \"Peen,\" \"Preene Bowler\")",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        73
-      ]
-    },
     "N-936": {
       "canonical_name": "Dan Patrick",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        73
-      ]
-    },
-    "N-937": {
-      "canonical_name": "Jesse Watters",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        73
-      ]
-    },
-    "N-938": {
-      "canonical_name": "Glenn Beck",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -11325,32 +10203,8 @@
         74
       ]
     },
-    "N-944": {
-      "canonical_name": "Mikey McCoy (also referenced as \"Mikey McQuaid\")",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        74
-      ]
-    },
-    "N-945": {
-      "canonical_name": "Andrew Kolb",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        74
-      ]
-    },
     "N-946": {
       "canonical_name": "Jared Moskowitz",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        74
-      ]
-    },
-    "N-947": {
-      "canonical_name": "Pam Bondi",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -11461,20 +10315,16 @@
         75
       ]
     },
-    "N-950": {
-      "canonical_name": "Jeffrey Epstein",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        76
-      ]
-    },
     "N-951": {
       "canonical_name": "Faith Kates",
       "type": "person",
       "aliases": [],
       "episodes": [
-        76
+        76,
+        78
+      ],
+      "retired_ids": [
+        "N-981"
       ]
     },
     "N-952": {
@@ -11495,46 +10345,6 @@
     },
     "N-954": {
       "canonical_name": "Father Chad Ripberger",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        76
-      ]
-    },
-    "N-955": {
-      "canonical_name": "Andrew Kolvet",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        76
-      ]
-    },
-    "N-956": {
-      "canonical_name": "Mikey McCoy",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        76
-      ]
-    },
-    "N-957": {
-      "canonical_name": "Blake Neff",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        76
-      ]
-    },
-    "N-958": {
-      "canonical_name": "Frank Turek",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        76
-      ]
-    },
-    "N-959": {
-      "canonical_name": "Andrew Colebat",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -11797,30 +10607,6 @@
         78
       ]
     },
-    "N-978": {
-      "canonical_name": "Mike Huckabee",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        78
-      ]
-    },
-    "N-979": {
-      "canonical_name": "Jared Kushner",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        78
-      ]
-    },
-    "N-981": {
-      "canonical_name": "Faith Kates",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        78
-      ]
-    },
     "N-982": {
       "canonical_name": "Christina Babin",
       "type": "person",
@@ -11914,27 +10700,20 @@
       "type": "person",
       "aliases": [],
       "episodes": [
+        2,
+        6,
+        8,
+        9,
+        10,
         79,
         92,
         143,
         148,
-        154
-      ]
-    },
-    "N-985": {
-      "canonical_name": "Benjamin Netanyahu",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        79
-      ]
-    },
-    "N-988": {
-      "canonical_name": "Ben Shapiro",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        79
+        154,
+        159
+      ],
+      "retired_ids": [
+        "N-79"
       ]
     },
     "N-989": {
@@ -11953,25 +10732,6 @@
         79
       ]
     },
-    "N-991": {
-      "canonical_name": "Milo Yiannopoulos",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        79
-      ]
-    },
-    "N-992": {
-      "canonical_name": "Blake Neff",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        79,
-        157,
-        158,
-        159
-      ]
-    },
     "N-993": {
       "canonical_name": "Michael Knowles",
       "type": "person",
@@ -11988,14 +10748,6 @@
         79
       ]
     },
-    "N-995": {
-      "canonical_name": "Tucker Carlson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        79
-      ]
-    },
     "N-996": {
       "canonical_name": "Georgia Meloni",
       "type": "person",
@@ -12004,24 +10756,8 @@
         79
       ]
     },
-    "N-997": {
-      "canonical_name": "Emmanuel Macron",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        79
-      ]
-    },
     "N-998": {
       "canonical_name": "Jordan Peterson",
-      "type": "person",
-      "aliases": [],
-      "episodes": [
-        79
-      ]
-    },
-    "N-999": {
-      "canonical_name": "Randy Fine",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -12599,13 +11335,22 @@
     "N-4": {
       "canonical_name": "JD Vance",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "J.D. Vance"
+      ],
       "episodes": [
+        22,
+        67,
         92,
         107,
         120,
         148,
-        154
+        154,
+        159
+      ],
+      "retired_ids": [
+        "N-299",
+        "N-836"
       ]
     },
     "N-1015": {
@@ -13286,10 +12031,51 @@
     "N-16": {
       "canonical_name": "Frank Turek",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Frank Turk",
+        "Frank Turk (Dr.)",
+        "Frank Turk (transcript spelling)"
+      ],
       "episodes": [
+        7,
+        16,
+        19,
+        20,
+        27,
+        29,
+        30,
+        31,
+        35,
+        41,
+        48,
+        59,
+        66,
+        67,
+        68,
+        76,
         107,
-        148
+        148,
+        157,
+        158,
+        159
+      ],
+      "retired_ids": [
+        "N-131",
+        "N-219",
+        "N-257",
+        "N-274",
+        "N-357",
+        "N-368",
+        "N-380",
+        "N-388",
+        "N-425",
+        "N-486",
+        "N-592",
+        "N-755",
+        "N-819",
+        "N-846",
+        "N-887",
+        "N-958"
       ]
     },
     "N-18": {

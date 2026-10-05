@@ -79,7 +79,7 @@
           "related_nodes": [
             "N-2357",
             "N-2",
-            "N-542"
+            "N-326"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -161,7 +161,7 @@
           ],
           "related_nodes": [
             "N-50",
-            "N-214",
+            "N-42",
             "N-1121",
             "N-2355"
           ],
@@ -189,7 +189,7 @@
           ],
           "related_nodes": [
             "N-2358",
-            "N-7",
+            "N-3",
             "N-59"
           ],
           "tags": [],
@@ -284,8 +284,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host/narrator; target of smear flip discussed in second half.",
@@ -389,9 +389,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-214",
-      "ref": "N-214",
-      "name": "Andrew Kovette",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Recipient of Carlson advice in the profile; prior source of early Erika-CEO notice to host; tied to Candace-focus critique.",
       "related_artifacts": [
@@ -463,9 +463,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-542",
-      "ref": "N-542",
-      "name": "Elizabeth McCoy",
+      "@id": "N-326",
+      "ref": "N-326",
+      "name": "Eliza McCoy",
       "type": "person",
       "description": "Prior public thread claiming she went to Aloe for clothes; host contrasts with profile’s Erika-directed account.",
       "related_artifacts": [
@@ -482,8 +482,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-749",
-      "ref": "N-749",
+      "@id": "N-424",
+      "ref": "N-424",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Referenced in post-review segment as heavily debunked by Lake Force relative to Shawn Ryan narrative.",
@@ -501,9 +501,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-755",
-      "ref": "N-755",
-      "name": "Frank Turk",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
       "type": "person",
       "description": "Rhetorically invoked in closing comments / pastor jab.",
       "related_artifacts": [
@@ -538,8 +538,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-992",
-      "ref": "N-992",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Blake Neff",
       "type": "person",
       "description": "Opening callback: host’s July 18 tweet predicting Vanity Fair widow spread; Neff bookmarked it.",
@@ -761,7 +761,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-542"
+        "N-326"
       ]
     },
     {
@@ -783,7 +783,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-59"
       ]
     },
@@ -889,7 +889,7 @@
         "N-2355",
         "N-2350",
         "N-2",
-        "N-992"
+        "N-224"
       ,
             "N-10004"
           ],
@@ -945,7 +945,7 @@
       "related_nodes": [
         "N-2357",
         "N-2",
-        "N-542"
+        "N-326"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
@@ -1001,8 +1001,8 @@
       ],
       "related_nodes": [
         "N-50",
-        "N-214",
-        "N-7",
+        "N-42",
+        "N-3",
         "N-2355"
       ],
       "tags": [],
@@ -1040,7 +1040,7 @@
       ],
       "related_nodes": [
         "N-2358",
-        "N-7",
+        "N-3",
         "N-59",
         "N-2329"
       ],
@@ -1079,7 +1079,7 @@
       "related_nodes": [
         "N-66",
         "N-2359",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:50:25",

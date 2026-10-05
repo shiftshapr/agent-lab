@@ -125,7 +125,7 @@
             "C-2594"
           ],
           "related_nodes": [
-            "N-7",
+            "N-3",
             "N-1640"
           ],
           "tags": [],
@@ -607,8 +607,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
@@ -851,7 +851,7 @@
         "A-1906.1"
       ],
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1640"
       ],
       "tags": [],

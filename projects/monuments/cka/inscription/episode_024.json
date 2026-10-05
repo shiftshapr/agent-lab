@@ -430,9 +430,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-312",
-      "ref": "N-312",
-      "name": "Andrew Kolbenschlag",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA spokesperson who publicly denied any knowledge of the reported posthumous Israel award in a post on X.",
       "related_artifacts": [
@@ -455,7 +455,7 @@
       "@type": "Person",
       "@id": "N-313",
       "ref": "N-313",
-      "name": "Jesse Waters",
+      "name": "Jesse Watters",
       "type": "person",
       "description": "Host of the Fox News interview with Erica Kirk that is teased as upcoming at episode time. (Name preserved as transcript renders it.)",
       "related_artifacts": [
@@ -492,13 +492,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-315"
+        "N-102"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-315",
-      "ref": "N-315",
+      "@id": "N-102",
+      "ref": "N-102",
       "name": "Kash Patel",
       "type": "person",
       "description": "Director of the FBI; subject of host commentary following the X defense tweet of his girlfriend and prior criticism over alleged use of FBI aircraft for personal travel.",
@@ -519,8 +519,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-316",
-      "ref": "N-316",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Daily Wire personality referenced (hearsay) by the host as the subject of an outreach to host Charlie Kirk's show after his death, conditioned on inviting Ben Shapiro.",
@@ -668,7 +668,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-311",
-        "N-312",
+        "N-42",
         "N-322",
         "N-323",
         "N-2"
@@ -692,7 +692,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-85"
+        "N-70"
       ]
     },
     {
@@ -713,9 +713,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-85",
-      "ref": "N-85",
-      "name": "Governor Cox",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
       "related_artifacts": [],
@@ -933,7 +933,7 @@
         "A-1320.5"
       ],
       "related_nodes": [
-        "N-316"
+        "N-228"
       ],
       "tags": [],
       "claim_timestamp": "00:45:55",

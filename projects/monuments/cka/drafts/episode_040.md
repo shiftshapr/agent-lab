@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 0fb4e3ded28d3185653763304cd5207553aba7096b0c1f6c7d7d26295daa5ee4
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-478, N-479, N-480, N-481, N-1378, N-1379
+  - New Nodes Introduced:  N-479, N-480, N-481, N-1378, N-1379
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -19,7 +19,7 @@
 
 Artifact Families Introduced: A-1489, A-1490, A-1491, A-1492, A-1493
 Claim Range: C-1820–C-1830
-New Nodes Introduced: N-478, N-479, N-480, N-481, N-1378, N-1379
+New Nodes Introduced:  N-479, N-480, N-481, N-1378, N-1379
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -64,7 +64,7 @@ Confidence Level: High
 
 Statement enumerates allegations (Mikey McCoy, foreign aircraft, security first aid, SD card removal, Tyler Bowyer, financial impropriety, "stranger allegations"); asserts Charlie personally reviewed and signed off on every bill; asserts TPUSA has never missed a 990 deadline; frames host's questions as "beneath contempt"; concludes with announcement of an upcoming Phoenix livestream and public invitation to the host.
 
-*Related: C-1820, C-1821, C-1822, C-1823, N-478, N-1378, N-10002*
+*Related: C-1820, C-1821, C-1822, C-1823, N-224, N-1378, N-10002*
 
 ---
 
@@ -134,7 +134,7 @@ Host verbally references the call (timed to 6:45 PM French time / 10:45 AM Utah 
 
 ## IV. Node Register
 
-**N-478** Blake Nef
+**N-224** Blake Neff
 
 TPUSA-affiliated producer of the Charlie Kirk Show; delivered TPUSA's formal public response in this episode by video statement.
 
@@ -195,7 +195,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1489.1, C-1820, N-478*
+*Related: A-1489.1, C-1820, N-224*
 
 ---
 
@@ -230,7 +230,7 @@ Claim Timestamp: 00:28:38–00:29:32
 Claim: TPUSA, via Blake Nef's video statement, announced a planned Phoenix livestream and extended a public invitation to the host to participate.
 
 Anchored Artifacts: A-1489.1
-Related Nodes: N-478, N-1378
+Related Nodes: N-224, N-1378
 Investigative Direction: Confirm whether the livestream occurred, who attended, and which questions were answered; obtain recording or transcript.
 
 ---
@@ -242,7 +242,7 @@ Claim Timestamp: 00:14:49
 Claim: In the video statement, TPUSA asserted that Charlie personally reviewed and signed off on every expense report and every bill paid by the organization down to a single United States dollar.
 
 Anchored Artifacts: A-1489.1
-Related Nodes: N-478
+Related Nodes: N-224
 Investigative Direction: Cross-check against internal expense approval records and witness testimony; investigate Charlie's DOGE-related audit request as a separate counter-signal.
 
 ---
@@ -254,7 +254,7 @@ Claim Timestamp: 00:14:49
 Claim: In the video statement, TPUSA asserted that the organization has never missed a 990 filing deadline.
 
 Anchored Artifacts: A-1489.1
-Related Nodes: N-478
+Related Nodes: N-224
 Investigative Direction: Verify filing history against IRS Form 990 public records.
 
 ---
@@ -266,7 +266,7 @@ Claim Timestamp: 00:21:20–00:22:24
 Claim: In the video statement, TPUSA cited Charlie's "do not feed the trolls" rule and characterized the host's allegations as beneath contempt as justification for prior non-response.
 
 Anchored Artifacts: A-1489.1
-Related Nodes: N-478
+Related Nodes: N-224
 Investigative Direction: Obtain Charlie's documented communications on troll-handling policy; assess whether the rule was invoked consistently across other allegations.
 
 ---

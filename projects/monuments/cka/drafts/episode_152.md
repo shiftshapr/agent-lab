@@ -192,7 +192,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:03:34–00:08:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-categorized compilation; original sourcing per individual row)
-*Related: C-3460, N-2, N-2288, N-2289, N-2290, N-2291, N-2292, N-2293, N-2294, N-2295, N-2296, N-2297, N-2298, N-2299, N-2300, N-1233, N-1234*
+*Related: C-3460, N-2288, N-2289, N-2290, N-2291, N-2292, N-2293, N-2294, N-2295, N-2296, N-2297, N-2298, N-2299, N-2300, N-1233, N-1234*
 
 ---
 
@@ -404,7 +404,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-2382.1, C-3460, N-2, N-2292*
+*Related: A-2382.1, C-3460, N-2292*
 
 ---
 
@@ -811,7 +811,7 @@ Claim: The episode displays a spreadsheet and host narration enumerating over fi
 
 Anchored Artifacts: A-2382.1
 
-Related Nodes: N-2, N-2288, N-2289, N-2290, N-2291, N-2292, N-2293, N-2294, N-2295, N-2296, N-2297, N-2298, N-2299, N-2300, N-1233, N-2322
+Related Nodes: N-2288, N-2289, N-2290, N-2291, N-2292, N-2293, N-2294, N-2295, N-2296, N-2297, N-2298, N-2299, N-2300, N-1233, N-2322
 
 Investigative Direction: Verify each row of the spreadsheet against primary court / news records; document the precise nature of each "connection" (e.g., accusation vs. conviction vs. employment).*
 

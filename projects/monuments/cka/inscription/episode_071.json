@@ -290,7 +290,7 @@
             "C-2341"
           ],
           "related_nodes": [
-            "N-906",
+            "N-890",
             "N-908",
             "N-1569"
           ],
@@ -407,8 +407,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-906",
-      "ref": "N-906",
+      "@id": "N-890",
+      "ref": "N-890",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
@@ -455,7 +455,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-906",
+        "N-890",
         "N-1568"
       ]
     },
@@ -479,7 +479,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-906",
+        "N-890",
         "N-2",
         "N-1569"
       ]
@@ -549,7 +549,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-906",
+        "N-890",
         "N-907"
       ]
     },
@@ -573,7 +573,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-906",
+        "N-890",
         "N-908",
         "N-2"
       ]
@@ -921,7 +921,7 @@
         "A-1759.1"
       ],
       "related_nodes": [
-        "N-906",
+        "N-890",
         "N-908",
         "N-1569",
         "N-2"
@@ -940,7 +940,7 @@
         "A-1759.1"
       ],
       "related_nodes": [
-        "N-906",
+        "N-890",
         "N-908",
         "N-1569"
       ],

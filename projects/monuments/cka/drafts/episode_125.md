@@ -173,7 +173,7 @@ Video Timestamp: 00:49:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-2, N-2115*
+*Related: N-2115*
 
 **A-2137.4** Comment from Seven Sheets: praising host's "bravery, integrity, faith"
 
@@ -294,7 +294,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2134.1, C-3024, N-2, N-2115*
+*Related: A-2134.1, C-3024, N-2115*
 
 **N-2113** Unidentified Burnt Object in Charlie Kirk's SUV
 
@@ -434,7 +434,7 @@ Claim: Erica Kirk's cousin Dennis Franks Bay worked at Bank of America Merrill L
 
 Anchored Artifacts: A-2134.1
 
-Related Nodes: N-1213, N-2, N-2115
+Related Nodes: N-1213, N-2115
 
 Investigative Direction: Employment records, military transition records, and public corporate directories would verify the claim.
 

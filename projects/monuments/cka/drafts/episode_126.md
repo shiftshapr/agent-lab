@@ -405,7 +405,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2145.1, C-3041, N-1, N-1208*
+*Related: A-2145.1, C-3041, N-1208*
 
 ---
 

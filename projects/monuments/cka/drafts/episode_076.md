@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 1a470c9a6f223d7322321ad99025c98532a7e3253b185b43561425b2be5ecefd
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-950, N-951, N-952, N-953, N-954, N-955, N-956, N-957, N-958, N-959, N-960, N-1591, N-1592, N-1593, N-1594, N-1595, N-1596
+  - New Nodes Introduced:  N-951, N-952, N-953, N-954, N-960, N-1591, N-1592, N-1593, N-1594, N-1595, N-1596
   - Reused Nodes Appearing: N-1, N-2
 
 # Episode Analysis: Monument Episode 76 — "Did Erika Kirk Know Jeffrey Epstein?"
@@ -33,7 +33,7 @@
 
 - **Artifact Families Introduced:** A-1809, A-1810, A-1811, A-1812, A-1813, A-1814, A-1815, A-1816, A-1817, A-1818, A-1819, A-1820, A-1821
 - **Claim Range:** C-2419–C-2436
-- **New Nodes Introduced:** N-950, N-951, N-952, N-953, N-954, N-955, N-956, N-957, N-958, N-959, N-960, N-1591, N-1592, N-1593, N-1594, N-1595, N-1596
+- **New Nodes Introduced:** , N-951, N-952, N-953, N-954, N-960, N-1591, N-1592, N-1593, N-1594, N-1595, N-1596
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -60,7 +60,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (read aloud; underlying email source not independently shown)
 
-*Related: C-2419, N-950, N-953*
+*Related: C-2419, N-35, N-953*
 
 ---
 
@@ -74,7 +74,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (tweet quoted in full)
 
-*Related: C-2420, C-2421, C-2422, N-1, N-2, N-955, N-956, N-957*
+*Related: C-2420, C-2421, C-2422, N-1, N-2, N-42, N-272, N-224*
 
 ---
 
@@ -104,7 +104,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (specific emails referenced by host; bar mitzvah email specifically cited)
 
-*Related: C-2423, C-2424, N-950, N-951*
+*Related: C-2423, C-2424, N-35, N-951*
 
 ---
 
@@ -118,7 +118,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (host asserts "says it right there" but underlying email not independently displayed)
 
-*Related: C-2425, N-950, N-952, N-960*
+*Related: C-2425, N-35, N-952, N-960*
 
 ---
 
@@ -146,7 +146,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (specific inquiry and recipient described; response status confirmed)
 
-*Related: C-2427, N-2, N-959, N-1591*
+*Related: C-2427, N-2, N-42, N-1591*
 
 ---
 
@@ -160,7 +160,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (specific timestamp asserted; article itself not displayed)
 
-*Related: C-2428, N-1, N-1593*
+*Related: C-2428, N-1593*
 
 ---
 
@@ -192,7 +192,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (clips played)
 
-*Related: C-2430, C-2435, C-2436, N-1, N-1593*
+*Related: C-2430, C-2435, C-2436, N-1593*
 
 ---
 
@@ -206,7 +206,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (clip played; date attribution inferred by host)
 
-*Related: C-2431, N-1, N-958, N-1593*
+*Related: C-2431, N-16, N-1593*
 
 ---
 
@@ -220,7 +220,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (clip played; host notes it was subsequently removed from the Twitter stream but remains on Rumble)
 
-*Related: C-2432, N-1, N-2, N-957*
+*Related: C-2432, N-1, N-224*
 
 ---
 
@@ -234,7 +234,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (host reports producer relay; underlying message not shown)
 
-*Related: C-2433, N-957, A-1820.1*
+*Related: C-2433, N-224, A-1820.1*
 
 ---
 
@@ -268,7 +268,7 @@ Investigative Pressure: High
 
 ---
 
-**N-950** Jeffrey Epstein
+**N-35** Jeffrey Epstein
 
 Alleged connective node across multiple artifact families in this episode (A-1809, A-1812, A-1813, A-1814). May have existing ledger ID — cross-reference required.
 
@@ -290,7 +290,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1812.1, A-1812.2, C-2423, C-2424, N-950, N-1591*
+*Related: A-1812.1, A-1812.2, C-2423, C-2424, N-35, N-1591*
 
 ---
 
@@ -316,7 +316,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1809.1, C-2419, N-950*
+*Related: A-1809.1, C-2419, N-35*
 
 ---
 
@@ -333,7 +333,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-955** Andrew Kolvet
+**N-42** Andrew Kolvet
 
 Turning Point USA figure referenced in A-1810.1 as having been in the West Wing on January 29, 2026 while presenting a pre-recorded interview as live. May have existing ledger ID — cross-reference required.
 
@@ -346,7 +346,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-956** Mikey McCoy
+**N-272** Mikey McCoy
 
 Referenced in A-1810.1 as allegedly accompanying Kolvet to the West Wing with his wife Elizabeth. Note: transcript spells name "McCoy" in one instance and "McVoy" in another — see Optional Flags.
 
@@ -355,11 +355,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1810.1, C-2420, N-955*
+*Related: A-1810.1, C-2420, N-42*
 
 ---
 
-**N-957** Blake Neff
+**N-224** Blake Neff
 
 Subject of A-1820 and A-1821; referenced regarding Erika's alleged comments about Charlie and the faith revolution, and the producer relay on Rumble/Twitter stream divergence.
 
@@ -372,7 +372,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-958** Frank Turek
+**N-16** Frank Turek
 
 Subject of A-1819.1 describing a Monday night walk with Charlie and Charlie's stated intent to improve on "two major issues."
 
@@ -381,11 +381,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1819.1, C-2431, N-1, N-1593*
+*Related: A-1819.1, C-2431, N-1593*
 
 ---
 
-**N-959** Andrew Colebat
+**N-42** Andrew Kolvet
 
 TPUSA spokesperson cc'd on A-1815.1 (Owens' inquiry to Erika). Name transcription uncertain — see Optional Flags.
 
@@ -448,7 +448,7 @@ Claim Count: 4
 Episode Count: Multiple (cumulative)
 Investigative Pressure: High
 
-*Related: A-1816.1, A-1817.1, A-1818.1, A-1818.2, A-1818.3, A-1819.1, C-2428, C-2429, C-2430, C-2431, C-2435, C-2436, N-1, N-2, N-958*
+*Related: A-1816.1, A-1817.1, A-1818.1, A-1818.2, A-1818.3, A-1819.1, C-2428, C-2429, C-2430, C-2431, C-2435, C-2436, N-1, N-2, N-16*
 
 ---
 
@@ -461,7 +461,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1810.1, C-2420, C-2421, C-2422, N-955, N-956*
+*Related: A-1810.1, C-2420, C-2421, C-2422, N-42, N-272*
 
 ---
 
@@ -487,7 +487,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1812.1, A-1812.2, C-2423, C-2424, N-951, N-950*
+*Related: A-1812.1, A-1812.2, C-2423, C-2424, N-951, N-35*
 
 ---
 
@@ -500,7 +500,7 @@ Claim Timestamp: 00:07:04–00:07:57
 Claim: A 2012 email exchange between Jeffrey Epstein and Princess Märtha Louise of Norway discussed food and antibiotics suppressing human fertility and concluded that humans could ultimately be "designed in a lab."
 
 Anchored Artifacts: A-1809.1
-Related Nodes: N-950, N-953
+Related Nodes: N-35, N-953
 Investigative Direction: Obtain the underlying 2012 email(s) from the Epstein files release and verify both authorship and the quoted text.
 
 ---
@@ -512,7 +512,7 @@ Claim Timestamp: 00:12:57–00:13:53
 Claim: According to a January 29, 2026 Candace Owens tweet sourced to White House personnel, Andrew Kolvet and Mikey McCoy (allegedly with his wife Elizabeth) were in the West Wing on January 29, 2026 while the Charlie Kirk Show was presenting a pre-recorded interview with Kash Patel as live.
 
 Anchored Artifacts: A-1810.1
-Related Nodes: N-955, N-956, N-1594
+Related Nodes: N-42, N-272, N-1594
 Investigative Direction: Obtain independent White House visitor logs for January 29, 2026 to verify presence; obtain the pre-recorded episode audio.
 
 ---
@@ -524,7 +524,7 @@ Claim Timestamp: 00:13:53
 Claim: The Charlie Kirk Show episode in which Kash Patel appeared was pre-recorded on January 28, 2026 (per host, two days before the tweet) rather than broadcast live.
 
 Anchored Artifacts: A-1810.1
-Related Nodes: N-955, N-1594
+Related Nodes: N-42, N-1594
 Investigative Direction: Compare the episode's audio/video metadata against the claimed broadcast time.
 
 ---
@@ -536,7 +536,7 @@ Claim Timestamp: 00:15:55
 Claim: The Epstein files were released on January 30, 2026, the day after the January 29 Kolvet/McCoy West Wing meeting.
 
 Anchored Artifacts: A-1810.1 (provides the date-stamped framing)
-Related Nodes: N-950, N-1594
+Related Nodes: N-35, N-1594
 Investigative Direction: Confirm the official release date of the Epstein files and compare against the documented meeting date.
 
 ---
@@ -548,7 +548,7 @@ Claim Timestamp: 00:22:10
 Claim: Faith Kates appears approximately 4,000 times in Jeffrey Epstein's email correspondence.
 
 Anchored Artifacts: A-1812.1
-Related Nodes: N-950, N-951, N-1596
+Related Nodes: N-35, N-951, N-1596
 Investigative Direction: Search the publicly released Epstein email corpus for Kates-name frequency counts and sample contents.
 
 ---
@@ -560,7 +560,7 @@ Claim Timestamp: 00:22:57
 Claim: Jeffrey Epstein was invited via email to Faith Kates' son's bar mitzvah.
 
 Anchored Artifacts: A-1812.2
-Related Nodes: N-950, N-951, N-1596
+Related Nodes: N-35, N-951, N-1596
 Investigative Direction: Locate the specific Epstein-files email containing the bar mitzvah invitation and verify sender/recipient.
 
 ---
@@ -572,7 +572,7 @@ Claim Timestamp: 00:27:39–00:28:26
 Claim: The Corcoran real estate group is referenced repeatedly across Jeffrey Epstein's emails.
 
 Anchored Artifacts: A-1813.1
-Related Nodes: N-950, N-952, N-960
+Related Nodes: N-35, N-952, N-960
 Investigative Direction: Search Epstein-files email corpus for Corcoran/Linda Rothschild references.
 
 ---
@@ -596,7 +596,7 @@ Claim Timestamp: 00:24:35–00:26:09
 Claim: Candace Owens sent an email to Erika Kirk, cc'ing TPUSA spokesperson Andrew Colebat, asking specifically about the nature of Erika's meetings at Next Model Management NYC; no response was received within 48 hours as of broadcast.
 
 Anchored Artifacts: A-1815.1
-Related Nodes: N-2, N-959, N-1591
+Related Nodes: N-2, N-42, N-1591
 Investigative Direction: Confirm the email log; await response or non-response status update.
 
 ---
@@ -608,7 +608,7 @@ Claim Timestamp: 00:38:58
 Claim: A Jezebel.com article regarding a "witch's curse" on Charlie Kirk's life was published at 9:49 AM Arizona time on September 8, 2025.
 
 Anchored Artifacts: A-1816.1
-Related Nodes: N-1, N-1593
+Related Nodes: N-1593
 Investigative Direction: Obtain the Jezebel article URL with timestamp metadata; verify publication time.
 
 ---
@@ -632,7 +632,7 @@ Claim Timestamp: 00:36:30–00:38:17
 Claim: On September 8, 2025, Charlie Kirk watched the second half of the Chicago Bears vs. Minnesota Vikings game from his home, as evidenced by his show commentary describing specific plays (challenge on Noah Sewell fumble, 2:02 remaining, clock management decisions).
 
 Anchored Artifacts: A-1818.2
-Related Nodes: N-1, N-1593
+Related Nodes: N-1593
 Investigative Direction: Cross-reference Bears–Vikings September 8, 2025 game clock with Charlie's commentary timestamps.
 
 ---
@@ -644,7 +644,7 @@ Claim Timestamp: 00:35:28–00:36:30
 Claim: Frank Turek describes a Monday-night walk with Charlie Kirk (the night before the assassination week), during which Charlie referenced dinner with "the family," the infant GG having just woken, and two major issues he wanted to improve.
 
 Anchored Artifacts: A-1819.1
-Related Nodes: N-1, N-958, N-1593
+Related Nodes: N-16, N-1593
 Investigative Direction: Obtain full Turek interview; verify the date and content of the Monday walk.
 
 ---
@@ -656,7 +656,7 @@ Claim Timestamp: 00:33:37–00:34:25
 Claim: On the Todd Chris podcast, Blake Neff stated that Erika said Charlie would not undo what happened because of the "faith revolution" it unleashed.
 
 Anchored Artifacts: A-1820.1
-Related Nodes: N-1, N-2, N-957
+Related Nodes: N-1, N-224
 Investigative Direction: Obtain the full Rumble-hosted Todd Chris episode; verify Neff's quoted statement in context.
 
 ---
@@ -668,7 +668,7 @@ Claim Timestamp: 00:55:30–00:56:41
 Claim: A message relayed via producer indicates that Blake Neff confirmed the full Todd Chris podcast episode (including his comments about Erika) remains intact on Rumble; only the Twitter stream version was trimmed.
 
 Anchored Artifacts: A-1821.1
-Related Nodes: N-957, A-1820.1
+Related Nodes: N-224, A-1820.1
 Investigative Direction: Compare the Twitter stream version to the Rumble-hosted version directly.
 
 ---
@@ -692,7 +692,7 @@ Claim Timestamp: 00:38:58
 Claim: Charlie Kirk appeared on the Charlie Kirk Show from his home studio at 10:00 AM Arizona time on September 8, 2025 (separate appearance from A-1818.2).
 
 Anchored Artifacts: A-1818.1
-Related Nodes: N-1, N-1593
+Related Nodes: N-1593
 Investigative Direction: Obtain the September 8, 2025 10:00 AM Charlie Kirk Show episode and verify timestamp.
 
 ---
@@ -704,7 +704,7 @@ Claim Timestamp: 00:40:08
 Claim: Charlie Kirk appeared on the Laura Ingram show (Ingram Angle) from his home studio between 4:00 and 5:00 PM Arizona time on September 8, 2025.
 
 Anchored Artifacts: A-1818.3
-Related Nodes: N-1, N-1593
+Related Nodes: N-1593
 Investigative Direction: Obtain the September 8, 2025 Ingram Angle episode and verify timestamp.
 
 ---
@@ -712,7 +712,7 @@ Investigative Direction: Obtain the September 8, 2025 Ingram Angle episode and v
 ## VI. Optional Flags
 
 ### Name Uncertainty
-- **Mikey McCoy vs. Mikey McVoy:** Transcript contains both spellings (A-1810.1 references "Mikey McVoy"; later text reads "Mikey McCoy"). The Candace Owens tweet itself spells "McCoy." Preservation: both spellings retained; N-956 uses "McCoy" pending verification.
+- **Mikey McCoy vs. Mikey McVoy:** Transcript contains both spellings (A-1810.1 references "Mikey McVoy"; later text reads "Mikey McCoy"). The Candace Owens tweet itself spells "McCoy." Preservation: both spellings retained; N-272 uses "McCoy" pending verification.
 - **Andrew Kolb vs. Andrew Kolvet:** Transcript and prior context use "Kolvet." Both spellings appear in source text.
 - **Frank Turick vs. Frank Turek:** Transcript uses "Turick" in several instances; the public figure is Frank Turek. Flag preserved.
 - **Andrew Colebat vs. Andrew Cole that:** Transcript introduces both. "Andrew Colebat" appears to be intended (per prior Candace Owens episode context).
@@ -753,7 +753,7 @@ Investigative Direction: Obtain the September 8, 2025 Ingram Angle episode and v
 
 - **New Artifact Families:** A-1809 through A-1821 (13 families)
 - **New Claim IDs:** C-2419 through C-2436 (18 claims)
-- **New People Nodes:** N-950 through N-960 (11 nodes)
+- **New People Nodes:** N-35 through N-960 (11 nodes)
 - **New Investigation Target Nodes:** N-1591 through N-1596 (6 nodes)
 - **Existing Nodes Reused:** N-1, N-2
 - **Correction Notes:** None this episode.

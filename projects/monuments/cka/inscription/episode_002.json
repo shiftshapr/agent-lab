@@ -34,7 +34,7 @@
             "C-1123"
           ],
           "related_nodes": [
-            "N-7",
+            "N-3",
             "N-2",
             "N-1"
           ],
@@ -436,7 +436,7 @@
             "C-1137"
           ],
           "related_nodes": [
-            "N-7",
+            "N-3",
             "N-67",
             "N-66",
             "N-65",
@@ -559,8 +559,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the episode; sources many second-hand claims about the Hamptons meeting and family interactions.",
@@ -657,7 +657,7 @@
       "@type": "Person",
       "@id": "N-67",
       "ref": "N-67",
-      "name": "Seth Dylan",
+      "name": "Seth Dillon",
       "type": "person",
       "description": "Reportedly present at Hamptons meeting; subject of host's unanswered text exchange.",
       "related_artifacts": [
@@ -959,8 +959,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-79",
-      "ref": "N-79",
+      "@id": "N-5",
+      "ref": "N-5",
       "name": "Donald Trump",
       "type": "person",
       "description": "President whose account tweeted a photo of Charlie Kirk with US and Israeli flags.",
@@ -1518,10 +1518,10 @@
       "related_nodes": [
         "N-2",
         "N-1",
-        "N-7",
+        "N-3",
         "N-71",
         "N-74",
-        "N-79",
+        "N-5",
         "N-80",
         "N-81",
         "N-82",
@@ -1586,7 +1586,7 @@
       "related_nodes": [
         "N-65",
         "N-1",
-        "N-7",
+        "N-3",
         "N-1082"
       ],
       "tags": [],
@@ -1634,7 +1634,7 @@
         "N-66",
         "N-67",
         "N-1",
-        "N-7",
+        "N-3",
         "N-78",
         "N-1081",
         "N-1092",
@@ -1683,7 +1683,7 @@
       "related_nodes": [
         "N-65",
         "N-1",
-        "N-7",
+        "N-3",
         "N-1083"
       ],
       "tags": [],
@@ -1832,7 +1832,7 @@
       "related_nodes": [
         "N-67",
         "N-66",
-        "N-7",
+        "N-3",
         "N-1081"
       ],
       "tags": [],
@@ -1997,7 +1997,7 @@
         {
           "episode": 2,
           "video_timestamp": "00:08:46",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "We don't have to actually speak conspiracies.",
           "context": "Host pivots to questioning Netanyahu's 'they' framing immediately after playing his clip.",
           "tags": [
@@ -2017,7 +2017,7 @@
         {
           "episode": 2,
           "video_timestamp": "00:20:55",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "Charlie was praying the rosary. Charlie was going to mass.",
           "context": "Host frames Kirk as undergoing Catholic conversion shortly before death.",
           "tags": [
@@ -2028,7 +2028,7 @@
         {
           "episode": 2,
           "video_timestamp": "00:21:07",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "Just take the last step, Charlie… you're too smart to be a Protestant.",
           "context": "Host recounts joking with Kirk about converting to Catholicism.",
           "tags": [
@@ -2039,7 +2039,7 @@
         {
           "episode": 2,
           "video_timestamp": "00:21:15",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "You stop referring to yourself as I did as a Judeo-Christian.",
           "context": "Host notes that the 'Judeo-Christian' label is dropped as one converts.",
           "tags": [
@@ -2059,7 +2059,7 @@
         {
           "episode": 2,
           "video_timestamp": "00:27:24",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "Guess we can't prod the narrative any further, guys. Holocaust.",
           "context": "Host frames Netanyahu's invocation of the Holocaust as a conversation-stopper that should not be heeded.",
           "tags": [
@@ -2070,7 +2070,7 @@
         {
           "episode": 2,
           "video_timestamp": "00:29:39",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "The Epstein playbook is being used on a daily basis.",
           "context": "Host links Epstein blackmail pattern to ongoing pressure on conservative figures.",
           "tags": [

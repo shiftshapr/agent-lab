@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: 
   
-  - Reused Nodes Appearing: N-1, N-1029, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215
+  - Reused Nodes Appearing: N-1029, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215
 
 # Episode Analysis – CKA 150
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:00:42–00:05:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads entry in full)
 
-*Related: C-3406, C-3416, C-3420, N-1, N-7, N-1214, N-1215*
+*Related: C-3406, C-3416, C-3420, N-1, N-3, N-1214, N-1215*
 
 **A-2351.2** Journal Entry: Subsequent entry covering foot injury, pregnancy, and Erica ("Erika") investigation
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:09:50–00:11:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3406, C-3414, C-3415, C-3417, C-3418, N-1029, N-7*
+*Related: C-3406, C-3414, C-3415, C-3417, C-3418, N-1029, N-3*
 
 **A-2351.3** Journal Entry: Power song analysis / 2018 Israel-London retrospective
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:11:50–00:17:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3406, C-3421, C-3425, N-1, N-7, N-1211*
+*Related: C-3406, C-3421, C-3425, N-1, N-3, N-1211*
 
 **A-2351.4** Journal Entry: Pre-anniversary / Spain laughter / Ghost Town concert reflection
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:21:38–00:27:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3406, C-3419, C-3422, C-3423, N-7, N-1211, N-1213*
+*Related: C-3406, C-3419, C-3422, C-3423, N-3, N-1211, N-1213*
 
 ---
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:06:08–00:08:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud)
 
-*Related: C-3407, C-3408, C-3424, N-1207, N-1208, N-1209, N-1, N-7*
+*Related: C-3407, C-3408, C-3424, N-1207, N-1208, N-1209, N-1, N-3*
 
 ---
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:10:30–00:10:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted in full by host)
 
-*Related: C-3409, N-1, N-1029*
+*Related: C-3409, N-1029*
 
 ---
 
@@ -134,7 +134,7 @@ Video Timestamp: 00:12:55–00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted directly)
 
-*Related: C-3410, N-1211, N-7*
+*Related: C-3410, N-1211, N-3*
 
 **A-2354.2** Kanye West public tweet: "I love the way Candace Owens thinks" (April–May 2018)
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:12:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium — *verbally referenced but not shown*
 
-*Related: C-3411, N-1211, N-7*
+*Related: C-3411, N-1211, N-3*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:15:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium — *verbally referenced but not shown*
 
-*Related: C-3412, N-1212, N-7*
+*Related: C-3412, N-1212, N-3*
 
 ---
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:22:24–00:22:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1, N-7*
+*Related: N-1, N-3*
 
 **A-2359.2** Road trip audio: "another road trip to the mountains… literally me and Charlie's favorite thing to do"
 
@@ -224,7 +224,7 @@ Video Timestamp: 00:22:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1, N-7*
+*Related: N-1, N-3*
 
 ---
 
@@ -252,7 +252,7 @@ Video Timestamp: 00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1, N-7*
+*Related: N-1, N-3*
 
 ---
 

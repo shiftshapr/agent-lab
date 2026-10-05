@@ -193,7 +193,7 @@ Investigative Pressure: Low
 
 *Related: A-1584.1, C-2013, Ben Shapiro node*
 
-**N-639** Larry Gwinta
+**N-639** Larry Guinta
 
 Erika Kirk's stepfather; named in the 2014 Arizona House EMP legislation record alongside Lori Frantzve (host uncertain of spelling/pronunciation).
 

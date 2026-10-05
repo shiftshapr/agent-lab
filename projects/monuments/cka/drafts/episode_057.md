@@ -128,7 +128,7 @@ Video Timestamp: 00:04:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (quote reproduced, not displayed on screen per transcript)
 
-*Related: N-1, N-1486*
+*Related: N-1486*
 
 **A-1634** Comment Section Read-Aloud Bundle
 
@@ -402,7 +402,7 @@ Claim: The host references (from earlier episodes, via prior text-message displa
 
 Anchored Artifacts: A-1633.1
 
-Related Nodes: N-1, N-1486
+Related Nodes: N-1486
 
 Investigative Direction: Locate the specific text messages in the earlier episode(s) where they were displayed; capture exact wording and date stamps.
 
@@ -416,7 +416,7 @@ Claim: The host presents Charlie Kirk's assertion (via referenced text messages)
 
 Anchored Artifacts: A-1633.1
 
-Related Nodes: N-1, N-1486
+Related Nodes: N-1486
 
 Investigative Direction: Locate the specific text messages in which Charlie makes this claim; verify the timing relative to TPUSA founding (2012) and Charlie's death.
 

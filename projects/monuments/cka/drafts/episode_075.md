@@ -260,7 +260,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-905** Tim Dillon
+**N-443** Tim Dillon
 
 Comedian whose on-camera segment speculating that Erika Kirk functioned as a "Mossad handler" for Charlie Kirk is presented by the host as confirming public intuition.
 
@@ -510,7 +510,7 @@ Claim Timestamp: 00:26:00
 Claim: Comedian Tim Dillon stated on camera that "there's a very good chance that this woman was his handler" and that "she may have loved him… even though she was his Mossad handler and probably had him killed."
 
 Anchored Artifacts: A-2444.1
-Related Nodes: N-2 (Erica Kirk), N-905 (Tim Dillon)
+Related Nodes: N-2 (Erica Kirk), N-443 (Tim Dillon)
 Investigative Direction: Identify the original podcast episode (Tim Dillon Show) and date; confirm language is unedited.
 
 ---
@@ -556,7 +556,7 @@ Investigative Direction: Identify the original podcast episode (Tim Dillon Show)
 
 **New Nodes Introduced:**
 - N-2349 Father Ripperger
-- N-905 Tim Dillon
+- N-443 Tim Dillon
 - N-2346 Pentagon Seating Geometry Claim (investigation target)
 - N-2347 "Freemason Bible" Document Authentication (investigation target)
 - N-2348 Erika Kirk Presidential Viability Narrative (investigation target)

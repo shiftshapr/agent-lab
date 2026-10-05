@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1718, N-1719, N-1720, N-1721, N-1722, N-1723, N-1724, N-1725
-  - Reused Nodes Appearing: N-1, N-1016, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-1229
+  - Reused Nodes Appearing: N-1016, N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-1229
   - (see registers)
 
 # Episode 97 Analysis: "BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331"
@@ -37,7 +37,7 @@
 - Claim Range: C-2810 – C-2833
 - New People Nodes Introduced: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-1229
 - New Investigation Target Nodes Introduced: N-1718, N-1719, N-1720, N-1721, N-1722, N-1723, N-1724, N-1725
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-1016 (Erica Kirk), N-7 (Candace Owens)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-1016 (Erica Kirk), N-3 (Candace Owens)
 
 ---
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:12:40 – 00:13:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2810, C-2811, N-1207, N-1208, N-7*
+*Related: C-2810, C-2811, N-1207, N-1208, N-3*
 
 **A-2015.2** Grievance alleging Candace accused Harpole of criminal negligence regarding ambulance absence
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:03:20 – 00:05:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2812, N-1207, N-7*
+*Related: C-2812, N-1207, N-3*
 
 **A-2015.3** Grievance re: "Charlie's Angels or Demons" episode alleging implication of security team complicity
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:22:23 – 00:23:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2818, N-1207, N-7*
+*Related: C-2818, N-1207, N-3*
 
 **A-2015.9** Point 63 — allegation that Candace's "Fort Huachuca confirmed" X post claimed proof that Snow was telling the truth about Harpole
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:29:59 – 00:31:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2822, C-2823, N-1207, N-1210, N-7*
+*Related: C-2822, C-2823, N-1207, N-1210, N-3*
 
 ---
 
@@ -159,7 +159,7 @@ Video Timestamp: 00:18:21 – 00:19:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2820, N-1209, N-1211, N-1207, N-7*
+*Related: C-2820, N-1209, N-1211, N-1207, N-3*
 
 ---
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:22:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2818, C-2819, N-1207, N-7*
+*Related: C-2818, C-2819, N-1207, N-3*
 
 **A-2017.2** Second message (Dec 19 follow-up): "Hi Brian, just again reaching out in case you want to clarify your whereabouts on the morning of September 9th. I'm only interested in the truth."
 
@@ -185,7 +185,7 @@ Video Timestamp: 00:22:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2818, N-1207, N-7, N-1718*
+*Related: C-2818, N-1207, N-3, N-1718*
 
 **A-2017.3** Third message: "Hey Brian, reaching out again to see if you'd be willing to speak about the morning of the 9th... I oddly cannot get you to confirm or deny if you were there."
 
@@ -195,7 +195,7 @@ Video Timestamp: 00:23:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2818, C-2819, N-1207, N-7*
+*Related: C-2818, C-2819, N-1207, N-3*
 
 ---
 
@@ -211,7 +211,7 @@ Video Timestamp: 00:19:10 – 00:19:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2820, N-1207, N-1211, N-7*
+*Related: C-2820, N-1207, N-1211, N-3*
 
 ---
 
@@ -253,7 +253,7 @@ Video Timestamp: 00:29:59 – 00:31:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2822, C-2823, N-7, N-1210, N-1207*
+*Related: C-2822, C-2823, N-3, N-1210, N-1207*
 
 ---
 
@@ -269,7 +269,7 @@ Video Timestamp: 00:43:04 – 00:43:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2825, C-2826, C-2827, N-1218, N-1016, N-7*
+*Related: C-2825, C-2826, C-2827, N-1218, N-1016, N-3*
 
 ---
 
@@ -301,7 +301,7 @@ Video Timestamp: 00:51:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2828, C-2829, N-1216, N-1217, N-7*
+*Related: C-2828, C-2829, N-1216, N-1217, N-3*
 
 ---
 
@@ -317,7 +317,7 @@ Video Timestamp: 00:51:15 – 00:54:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2828, C-2829, C-2830, C-2831, N-1216, N-1217, N-7*
+*Related: C-2828, C-2829, C-2830, C-2831, N-1216, N-1217, N-3*
 
 ---
 
@@ -365,7 +365,7 @@ Video Timestamp: 01:01:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1, N-7*
+*Related: N-1, N-3*
 
 ---
 
@@ -412,7 +412,7 @@ Claim Count: (reused — not recounted)
 Episode Count: (reused — not recounted)
 Investigative Pressure: High
 
-*Related: A-2015.1, A-2015.2, A-2027.1, C-2812, N-7, N-1725*
+*Related: A-2015.1, A-2015.2, A-2027.1, C-2812, N-3, N-1725*
 
 **N-1016** Erica Kirk
 
@@ -423,7 +423,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2021.1, C-2825, C-2826, N-7, N-1722*
+*Related: A-2021.1, C-2825, C-2826, N-3, N-1722*
 
 **N-1207** Mike Mitchell Public Record Anomaly
 
@@ -456,7 +456,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2016.1, N-7, N-1724*
+*Related: A-2016.1, N-3, N-1724*
 
 **N-1210** Phil Lyman Proximity and Behavior Investigation
 
@@ -500,7 +500,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2015.3, C-2813, N-7, N-1209, N-1724*
+*Related: A-2015.3, C-2813, N-3, N-1209, N-1724*
 
 **N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
 
@@ -555,7 +555,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2021.1, C-2827, N-1016, N-7*
+*Related: A-2021.1, C-2827, N-1016, N-3*
 
 **N-1219** "Robbie Hild" Identity Verification
 
@@ -654,7 +654,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1226, N-7*
+*Related: N-1226, N-3*
 
 **N-1228** SD Card Removal Narrative Discrepancy
 
@@ -665,7 +665,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-7*
+*Related: N-3*
 
 **N-1229** Pre-Assassination Group Chat Content
 
@@ -735,7 +735,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2021.1, C-2825, C-2826, N-1016, N-7, N-1218*
+*Related: A-2021.1, C-2825, C-2826, N-1016, N-3, N-1218*
 
 **N-1723** House Resolution Characterization Accuracy
 
@@ -746,7 +746,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2023.1, A-2024.1, A-2022.1, C-2828, C-2829, C-2830, C-2831, C-2832, N-1216, N-1217, N-7*
+*Related: A-2023.1, A-2024.1, A-2022.1, C-2828, C-2829, C-2830, C-2831, C-2832, N-1216, N-1217, N-3*
 
 **N-1724** Candace-Erika December 15 Private Meeting Revelations
 
@@ -757,7 +757,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2016.1, N-7, N-1209, N-1213, N-1220*
+*Related: A-2016.1, N-3, N-1209, N-1213, N-1220*
 
 **N-1725** Charlie Kirk September 9 Pre-Event Threat Text
 
@@ -782,7 +782,7 @@ Claim: Brian Harpole filed a 69-page civil complaint against Candace Owens asser
 
 Anchored Artifacts: A-2015.1
 
-Related Nodes: N-1207, N-1208, N-7
+Related Nodes: N-1207, N-1208, N-3
 
 Investigative Direction: Obtain the filed complaint and PACER docket to verify the exact count and nature of causes of action.
 
@@ -810,7 +810,7 @@ Claim: The lawsuit's first grievance alleges Candace accused Harpole and his tea
 
 Anchored Artifacts: A-2015.2
 
-Related Nodes: N-1207, N-1, N-7, N-1725
+Related Nodes: N-1207, N-1, N-3, N-1725
 
 Investigative Direction: Compare the quoted podcast passage against the actual transcript to verify Candace's exact words.
 
@@ -880,7 +880,7 @@ Claim: Candace states she never once mentioned Harpole on her podcast prior to h
 
 Anchored Artifacts: A-2015.6, A-2018.1
 
-Related Nodes: N-7, N-1207, N-1214, N-1719
+Related Nodes: N-3, N-1207, N-1214, N-1719
 
 Investigative Direction: Audit Candace's prior episode transcripts and show notes for any reference to him prior to November 19.
 
@@ -894,7 +894,7 @@ Claim: Candace sent Harpole three text messages seeking clarification of his whe
 
 Anchored Artifacts: A-2015.8, A-2017.1, A-2017.2, A-2017.3
 
-Related Nodes: N-1207, N-7, N-1718
+Related Nodes: N-1207, N-3, N-1718
 
 Investigative Direction: Cross-reference the embedded text messages against phone records; verify Harpole's receipt.
 
@@ -922,7 +922,7 @@ Claim: Candace texted Andrew Kolvet agreeing to defend the security team and iss
 
 Anchored Artifacts: A-2016.1, A-2018.1
 
-Related Nodes: N-1207, N-1209, N-1211, N-7
+Related Nodes: N-1207, N-1209, N-1211, N-3
 
 Investigative Direction: Locate the September 2025 episode in which Candace defended the security team.
 
@@ -950,7 +950,7 @@ Claim: Candace's December 23 X post stated Fort Huachuca was confirmed via metad
 
 Anchored Artifacts: A-2020.1
 
-Related Nodes: N-7, N-1210, N-1207, N-1718
+Related Nodes: N-3, N-1210, N-1207, N-1718
 
 Investigative Direction: Obtain original X post screenshot and verify text against the quoted excerpt.
 
@@ -964,7 +964,7 @@ Claim: Point 63 of the lawsuit accuses Candace of asserting proof that Snow was 
 
 Anchored Artifacts: A-2015.9, A-2020.1
 
-Related Nodes: N-1207, N-1210, N-7
+Related Nodes: N-1207, N-1210, N-3
 
 Investigative Direction: Identify the specific X post passages cited by the lawsuit to determine whether the allegation is supported by context.
 
@@ -992,7 +992,7 @@ Claim: Erika Kirk publicly asserted that Candace accused her of murdering Charli
 
 Anchored Artifacts: A-2021.1
 
-Related Nodes: N-1016, N-7, N-1722, N-1218
+Related Nodes: N-1016, N-3, N-1722, N-1218
 
 Investigative Direction: Locate Erika Kirk's original statement on video or social media to verify exact wording and context.
 
@@ -1006,7 +1006,7 @@ Claim: Candace asserts she has never publicly accused Erika Kirk of murdering Ch
 
 Anchored Artifacts: A-2018.1 (defensive statement of position), A-2021.1
 
-Related Nodes: N-1016, N-7, N-1722
+Related Nodes: N-1016, N-3, N-1722
 
 Investigative Direction: Audit Candace's prior podcast transcripts and X posts for any statement that could be construed as accusing Erika.
 
@@ -1020,7 +1020,7 @@ Claim: Baron Coleman stated on his show that he had never heard Candace say Erik
 
 Anchored Artifacts: A-2021.1
 
-Related Nodes: N-1218, N-1016, N-7, N-1722
+Related Nodes: N-1218, N-1016, N-3, N-1722
 
 Investigative Direction: Locate Coleman's full segment for additional context.
 
@@ -1034,7 +1034,7 @@ Claim: Reps. Mike Lawler (R-NY) and Josh Gottheimer (D-NJ) introduced a bipartis
 
 Anchored Artifacts: A-2023.1, A-2024.1
 
-Related Nodes: N-1216, N-1217, N-7, N-1723
+Related Nodes: N-1216, N-1217, N-3, N-1723
 
 Investigative Direction: Obtain the full resolution text from Congress.gov and verify resolution number, co-sponsors, and referral.
 
@@ -1048,7 +1048,7 @@ Claim: The resolution text characterizes Candace's rhetoric as accusing Israel o
 
 Anchored Artifacts: A-2024.1
 
-Related Nodes: N-1216, N-1217, N-7, N-1723
+Related Nodes: N-1216, N-1217, N-3, N-1723
 
 Investigative Direction: Audit Candace's prior commentary for any statement matching the resolution's characterization.
 
@@ -1062,7 +1062,7 @@ Claim: The resolution text asserts Candace made an anti-Semitic claim that the U
 
 Anchored Artifacts: A-2024.1
 
-Related Nodes: N-1216, N-1217, N-7, N-1723
+Related Nodes: N-1216, N-1217, N-3, N-1723
 
 Investigative Direction: Review Candace's commentary on Epstein, Israeli intelligence, and pedophilia rings for the exact phrasing.
 
@@ -1076,7 +1076,7 @@ Claim: The resolution text references Candace's July 2024 commentary regarding J
 
 Anchored Artifacts: A-2024.1
 
-Related Nodes: N-1216, N-1217, N-7, N-1723
+Related Nodes: N-1216, N-1217, N-3, N-1723
 
 Investigative Direction: Locate Candace's July 2024 statements about Mengele and verify exact wording.
 
@@ -1090,7 +1090,7 @@ Claim: The official Auschwitz-Birkenau Memorial podcast acknowledged that myths 
 
 Anchored Artifacts: A-2022.1
 
-Related Nodes: N-1216, N-1217, N-7, N-1723
+Related Nodes: N-1216, N-1217, N-3, N-1723
 
 Investigative Direction: Obtain original Auschwitz Memorial podcast episode for full context.
 
@@ -1104,7 +1104,7 @@ Claim: Charlie Kirk wrote on May 2, 2024 that "Hate speech does not exist legall
 
 Anchored Artifacts: A-2027.1
 
-Related Nodes: N-1, N-7
+Related Nodes: N-1, N-3
 
 Investigative Direction: Verify the post's date, persistence, and any replies or context.
 

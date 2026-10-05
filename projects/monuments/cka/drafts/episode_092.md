@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-4, N-1015, N-1682, N-1683, N-1684, N-1685, N-1686, N-1687, N-1688, N-1689, N-1690
-  - Reused Nodes Appearing: N-1, N-1014, N-5, N-1207, N-1208, N-1209, N-1210, N-6
+  - Reused Nodes Appearing: N-1014, N-5, N-1207, N-1208, N-1209, N-1210, N-6
   - (see registers)
 
 ---

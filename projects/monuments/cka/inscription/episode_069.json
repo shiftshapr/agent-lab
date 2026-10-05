@@ -357,8 +357,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-891",
-      "ref": "N-891",
+      "@id": "N-885",
+      "ref": "N-885",
       "name": "Robkea",
       "type": "person",
       "description": "Lecturer whose \"Babylon Rising\" speech is played at length in this episode; posits Tower of Babel as technology, Mount Hermon at 33.33°N 33.33°E as fallen-angel landing site, Gilgamesh/Nimrod identification, and CERN/666 symbolism. Host reports an email from the lecturer's son thanking her.",
@@ -448,9 +448,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-895",
-      "ref": "N-895",
-      "name": "Lorie Fonfe",
+      "@id": "N-783",
+      "ref": "N-783",
+      "name": "Lori Frantzve",
       "type": "person",
       "description": "Erica Kirk's mother, identified by host as the person Erika was reportedly with on September 10. Host now disputes this alibi.",
       "related_artifacts": [],
@@ -466,8 +466,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-896",
-      "ref": "N-896",
+      "@id": "N-35",
+      "ref": "N-35",
       "name": "Jeffrey Epstein",
       "type": "person",
       "description": "Author of the 23andMe-kit emails cited in this episode; central subject of the broader files release.",
@@ -521,9 +521,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-899",
-      "ref": "N-899",
-      "name": "Sigmund Freud (rendered by host as \"Sigman Freud\")",
+      "@id": "N-80",
+      "ref": "N-80",
+      "name": "Sigmund Freud",
       "type": "person",
       "description": "Recurring host reference; presented as the originator of the \"science-as-religion-mask\" thesis cited in connection with COVID testing and 23andMe.",
       "related_artifacts": [
@@ -542,8 +542,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-900",
-      "ref": "N-900",
+      "@id": "N-45",
+      "ref": "N-45",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.",
@@ -729,7 +729,7 @@
         "A-1739.1"
       ],
       "related_nodes": [
-        "N-900"
+        "N-45"
       ],
       "tags": [],
       "claim_timestamp": "00:05:43",

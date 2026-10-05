@@ -33,7 +33,7 @@
           "related_nodes": [
             "N-1207",
             "N-1208",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -52,7 +52,7 @@
           ],
           "related_nodes": [
             "N-1207",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -167,7 +167,7 @@
           ],
           "related_nodes": [
             "N-1207",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -188,7 +188,7 @@
           "related_nodes": [
             "N-1207",
             "N-1210",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -217,7 +217,7 @@
             "N-1209",
             "N-1211",
             "N-1207",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -245,7 +245,7 @@
           ],
           "related_nodes": [
             "N-1207",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -264,7 +264,7 @@
           ],
           "related_nodes": [
             "N-1207",
-            "N-7",
+            "N-3",
             "N-1718"
           ],
           "tags": [],
@@ -285,7 +285,7 @@
           ],
           "related_nodes": [
             "N-1207",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -313,7 +313,7 @@
           "related_nodes": [
             "N-1207",
             "N-1211",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -390,7 +390,7 @@
             "C-2823"
           ],
           "related_nodes": [
-            "N-7",
+            "N-3",
             "N-1210",
             "N-1207"
           ],
@@ -422,7 +422,7 @@
           "related_nodes": [
             "N-1218",
             "N-1016",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -478,7 +478,7 @@
           "related_nodes": [
             "N-1216",
             "N-1217",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -509,7 +509,7 @@
           "related_nodes": [
             "N-1216",
             "N-1217",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -585,7 +585,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -672,7 +672,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1725"
       ]
     },
@@ -696,7 +696,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1722"
       ]
     },
@@ -747,7 +747,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1724"
       ]
     },
@@ -832,7 +832,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1209",
         "N-1724"
       ]
@@ -949,7 +949,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1016",
-        "N-7"
+        "N-3"
       ]
     },
     {
@@ -1125,7 +1125,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1226",
-        "N-7"
+        "N-3"
       ]
     },
     {
@@ -1143,7 +1143,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-7"
+        "N-3"
       ]
     },
     {
@@ -1280,7 +1280,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1016",
-        "N-7",
+        "N-3",
         "N-1218"
       ]
     },
@@ -1311,7 +1311,7 @@
       "related_nodes": [
         "N-1216",
         "N-1217",
-        "N-7"
+        "N-3"
       ]
     },
     {
@@ -1331,7 +1331,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1209",
         "N-1213",
         "N-1220"
@@ -1361,8 +1361,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
@@ -1389,7 +1389,7 @@
       "related_nodes": [
         "N-1207",
         "N-1208",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:01:13",
@@ -1424,7 +1424,7 @@
       "related_nodes": [
         "N-1207",
         "N-1",
-        "N-7",
+        "N-3",
         "N-1725"
       ],
       "tags": [],
@@ -1513,7 +1513,7 @@
         "A-2018.1"
       ],
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1207",
         "N-1214",
         "N-1719"
@@ -1536,7 +1536,7 @@
       ],
       "related_nodes": [
         "N-1207",
-        "N-7",
+        "N-3",
         "N-1718"
       ],
       "tags": [],
@@ -1573,7 +1573,7 @@
         "N-1207",
         "N-1209",
         "N-1211",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:18:21",
@@ -1609,7 +1609,7 @@
         "A-2020.1"
       ],
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1210",
         "N-1207",
         "N-1718"
@@ -1631,7 +1631,7 @@
       "related_nodes": [
         "N-1207",
         "N-1210",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:29:59",
@@ -1667,7 +1667,7 @@
       ],
       "related_nodes": [
         "N-1016",
-        "N-7",
+        "N-3",
         "N-1722",
         "N-1218"
       ],
@@ -1686,7 +1686,7 @@
       ],
       "related_nodes": [
         "N-1016",
-        "N-7",
+        "N-3",
         "N-1722"
       ],
       "tags": [],
@@ -1705,7 +1705,7 @@
       "related_nodes": [
         "N-1218",
         "N-1016",
-        "N-7",
+        "N-3",
         "N-1722"
       ],
       "tags": [],
@@ -1725,7 +1725,7 @@
       "related_nodes": [
         "N-1216",
         "N-1217",
-        "N-7",
+        "N-3",
         "N-1723"
       ],
       "tags": [],
@@ -1744,7 +1744,7 @@
       "related_nodes": [
         "N-1216",
         "N-1217",
-        "N-7",
+        "N-3",
         "N-1723"
       ],
       "tags": [],
@@ -1763,7 +1763,7 @@
       "related_nodes": [
         "N-1216",
         "N-1217",
-        "N-7",
+        "N-3",
         "N-1723"
       ],
       "tags": [],
@@ -1782,7 +1782,7 @@
       "related_nodes": [
         "N-1216",
         "N-1217",
-        "N-7",
+        "N-3",
         "N-1723"
       ],
       "tags": [],
@@ -1801,7 +1801,7 @@
       "related_nodes": [
         "N-1216",
         "N-1217",
-        "N-7",
+        "N-3",
         "N-1723"
       ],
       "tags": [],
@@ -1819,7 +1819,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "01:01:07",

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: e947ef3ae2fd7542aa73ed3a25e830c3b7b5d7d5411806bda898739caf04411e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-941, N-942, N-943, N-944, N-945, N-946, N-947, N-948, N-1582, N-1583, N-1584, N-1585, N-1586, N-1587, N-1588, N-1589
+  - New Nodes Introduced: N-941, N-942, N-943, N-946, N-948, N-1582, N-1583, N-1584, N-1585, N-1586, N-1587, N-1588, N-1589
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -339,7 +339,7 @@ Video Timestamp: 00:37:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2393, C-2394, N-944, N-1583*
+*Related: C-2393, C-2394, N-272, N-1583*
 
 ---
 
@@ -353,7 +353,7 @@ Video Timestamp: 00:38:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2393, C-2394, N-944, N-1583*
+*Related: C-2393, C-2394, N-272, N-1583*
 
 ---
 
@@ -381,7 +381,7 @@ Video Timestamp: 00:46:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2395, N-947*
+*Related: C-2395, N-120*
 
 ---
 
@@ -426,7 +426,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-944** Mikey McCoy (also referenced as "Mikey McQuaid")
+**N-272** Mikey McCoy
 
 Chief of staff figure in the post-assassination Turning Point USA operation; appeared in two interview clips used by the host to evaluate the wedding-photo movement timeline.
 
@@ -439,7 +439,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-945** Andrew Kolb
+**N-42** Andrew Kolvet
 
 Turning Point USA figure referenced (in past episodes and again here) as the alleged "rogue" explanation for the moved wedding photo; no artifact shown in this episode.
 
@@ -465,7 +465,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-947** Pam Bondi
+**N-120** Pam Bondi
 
 Attorney General whose House Oversight response to Moskowitz was played at length.
 
@@ -513,7 +513,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1787.1, A-1788.1, A-1789.1, C-2392, C-2393, C-2394, N-944, N-945*
+*Related: A-1787.1, A-1788.1, A-1789.1, C-2392, C-2393, C-2394, N-272, N-42*
 
 ---
 
@@ -742,7 +742,7 @@ Investigative Direction: Pull the cited DOJ files directly, confirm the count an
 Claim Timestamp: 00:33:02
 Claim: Episode presents that a Turning Point USA spokesperson told Newsweek that Erika moved the wedding photo to a lower shelf "when her daughter asked to see it" so the child could "hold and look at the photo."
 Anchored Artifacts: A-1787.1
-Related Nodes: N-1583, N-944, N-945
+Related Nodes: N-1583, N-272, N-42
 Investigative Direction: Pull the Newsweek article directly and confirm the exact quote and attribution.
 
 ---
@@ -752,7 +752,7 @@ Investigative Direction: Pull the Newsweek article directly and confirm the exac
 Claim Timestamp: 00:37:36
 Claim: Episode presents that Mikey McCoy was using Charlie Kirk's home studio post-assassination, with evidence drawn from his Real America's Voice interview on 2025-11-08 and his Fox News/Martha MacCallum interview on 2025-09-22.
 Anchored Artifacts: A-1788.1, A-1789.1
-Related Nodes: N-944, N-1583
+Related Nodes: N-272, N-1583
 Investigative Direction: Pull the original Real America's Voice and Fox News/Martha MacCallum interview segments and verify the studio background details.
 
 ---
@@ -762,7 +762,7 @@ Investigative Direction: Pull the original Real America's Voice and Fox News/Mar
 Claim Timestamp: 00:38:26
 Claim: Episode presents that the wedding photo appeared in the background of Mikey McCoy's 2025-09-22 Fox News/Martha MacCallum interview but was absent from the corner of his 2025-11-08 Real America's Voice interview, per a "mommy sleuth" discovery cited by the host.
 Anchored Artifacts: A-1788.1, A-1789.1
-Related Nodes: N-944, N-1583
+Related Nodes: N-272, N-1583
 Investigative Direction: Pull the two interview segments and visually verify the background in each.
 
 ---
@@ -772,7 +772,7 @@ Investigative Direction: Pull the two interview segments and visually verify the
 Claim Timestamp: 00:46:09
 Claim: Episode presents that Attorney General Pam Bondi, in a House Oversight hearing clip, asserted that the Trump administration released over 3 million pages of Epstein documents and that President Trump signed the law releasing them, characterizing him as "the most transparent president in the nation's history."
 Anchored Artifacts: A-1791.1
-Related Nodes: N-947, N-946
+Related Nodes: N-120, N-946
 Investigative Direction: Pull the hearing transcript and video to confirm Bondi's exact wording and the hearing date.
 
 ---

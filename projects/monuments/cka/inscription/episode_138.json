@@ -364,7 +364,7 @@
           "description": "Comment by \"Ben the Beast\": asks for host's thoughts on Andrew Tate's most recent arrest; calls it a \"Matrix attack.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -380,7 +380,7 @@
           "description": "Comment by \"Tony Hill\": congratulates host on new baby and anticipated maternity leave.",
           "related_claims": [],
           "related_nodes": [
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -428,7 +428,7 @@
           "description": "Comment by \"Damn it\": praises host's \"beautiful soul.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -608,7 +608,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-7"
+        "N-3"
       ]
     },
     {
@@ -636,7 +636,7 @@
       "related_nodes": [
         "N-1207",
         "N-1024",
-        "N-7"
+        "N-3"
       ]
     },
     {
@@ -753,8 +753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
@@ -781,7 +781,7 @@
       "related_nodes": [
         "N-1207",
         "N-1024",
-        "N-7",
+        "N-3",
         "N-2179"
       ],
       "tags": [],
@@ -800,7 +800,7 @@
       ],
       "related_nodes": [
         "N-1207",
-        "N-7",
+        "N-3",
         "N-2179"
       ],
       "tags": [],
@@ -956,7 +956,7 @@
       ],
       "related_nodes": [
         "N-1211",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:21:54–00:22:30",
@@ -988,7 +988,7 @@
       "related_nodes": [
         "N-1207",
         "N-1024",
-        "N-7",
+        "N-3",
         "N-2179"
       ],
       "tags": [],
@@ -1007,7 +1007,7 @@
       ],
       "related_nodes": [
         "N-1207",
-        "N-7",
+        "N-3",
         "N-2179"
       ],
       "tags": [],

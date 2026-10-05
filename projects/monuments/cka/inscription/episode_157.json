@@ -95,8 +95,8 @@
           ],
           "related_nodes": [
             "N-2350",
-            "N-749",
-            "N-848",
+            "N-424",
+            "N-434",
             "N-2092"
           ],
           "tags": [],
@@ -124,8 +124,8 @@
           ],
           "related_nodes": [
             "N-2353",
-            "N-749",
-            "N-436",
+            "N-424",
+            "N-344",
             "N-1720",
             "N-2063"
           ],
@@ -178,7 +178,7 @@
             "C-3591"
           ],
           "related_nodes": [
-            "N-848",
+            "N-434",
             "N-435",
             "N-2092",
             "N-1343"
@@ -316,8 +316,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host/narrator reading the independent review and constructing the concurrent timeline.",
@@ -333,9 +333,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-214",
-      "ref": "N-214",
-      "name": "Andrew Kovette",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Named among TPUSA communicators the host challenges on transparency; later referenced regarding an offer to “take TPUSA to the next level” and as possible direction chain above Maycee Crofts.",
       "related_artifacts": [
@@ -373,8 +373,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-436",
-      "ref": "N-436",
+      "@id": "N-344",
+      "ref": "N-344",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
@@ -392,8 +392,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-749",
-      "ref": "N-749",
+      "@id": "N-424",
+      "ref": "N-424",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Integrity Solutions executive-protection lead for Charlie Kirk; documented non-response to review outreach; central subject of report contradictions vs Shawn Ryan podcast (venue selection, drones/airspace, rooftop counter-sniper).",
@@ -417,9 +417,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-755",
-      "ref": "N-755",
-      "name": "Frank Turk",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
       "type": "person",
       "description": "Named in opening roll-call of TPUSA-aligned figures the host summons rhetorically to confront the review findings.",
       "related_artifacts": [
@@ -434,8 +434,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-848",
-      "ref": "N-848",
+      "@id": "N-434",
+      "ref": "N-434",
       "name": "Dan Flood",
       "type": "person",
       "description": "TPUSA security supervisor present at UVU September 10; non-response to review outreach; report attributes pre-event text/phone coordination with Chief Long and canopy-area focus.",
@@ -458,8 +458,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-992",
-      "ref": "N-992",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Blake Neff",
       "type": "person",
       "description": "Named among TPUSA communicators challenged on transparency relative to organizational non-participation in the review.",
@@ -744,8 +744,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-749",
-        "N-436",
+        "N-424",
+        "N-344",
         "N-2063"
       ]
     },
@@ -849,8 +849,8 @@
       "related_nodes": [
         "N-2350",
         "N-2329",
-        "N-749",
-        "N-848",
+        "N-424",
+        "N-434",
         "N-2092"
       ,
             "N-10000"
@@ -871,8 +871,8 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-214",
-        "N-992",
+        "N-42",
+        "N-224",
         "N-2350",
         "N-2329"
       ],
@@ -933,8 +933,8 @@
       ],
       "related_nodes": [
         "N-2353",
-        "N-749",
-        "N-436",
+        "N-424",
+        "N-344",
         "N-1313",
         "N-2063"
       ],
@@ -953,7 +953,7 @@
       ],
       "related_nodes": [
         "N-2353",
-        "N-749",
+        "N-424",
         "N-1720",
         "N-2063"
       ],
@@ -989,7 +989,7 @@
       ],
       "related_nodes": [
         "N-435",
-        "N-848",
+        "N-434",
         "N-2092",
         "N-2329"
       ],

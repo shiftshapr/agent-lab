@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-590",
-            "N-591",
+            "N-281",
             "N-1429"
           ],
           "tags": [],
@@ -57,7 +57,7 @@
             "C-1962"
           ],
           "related_nodes": [
-            "N-592",
+            "N-16",
             "N-1",
             "N-1433"
           ],
@@ -85,7 +85,7 @@
             "C-1966"
           ],
           "related_nodes": [
-            "N-593",
+            "N-552",
             "N-1434",
             "N-1435",
             "N-1436"
@@ -111,7 +111,7 @@
             "C-1967"
           ],
           "related_nodes": [
-            "N-594",
+            "N-424",
             "N-1436",
             "N-1437"
           ],
@@ -188,9 +188,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-591",
-      "ref": "N-591",
-      "name": "Dr. Lee Trotter",
+      "@id": "N-281",
+      "ref": "N-281",
+      "name": "Lee Trotter",
       "type": "person",
       "description": "Surgeon named on air as having performed the procedure on Charlie Kirk at Timpanogos Regional Hospital. Alleged by host sources to have communicated a frangible-bullet theory rather than the \"man of steel\" quotation.",
       "related_artifacts": [
@@ -210,8 +210,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-592",
-      "ref": "N-592",
+      "@id": "N-16",
+      "ref": "N-16",
       "name": "Frank Turek",
       "type": "person",
       "description": "Passenger in the vehicle transporting Charlie Kirk; source of on-air statements regarding FBI clearance of the vehicle and discovery of Charlie's necklace.",
@@ -233,8 +233,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-593",
-      "ref": "N-593",
+      "@id": "N-552",
+      "ref": "N-552",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Video creator whose segment on SAM call signs and August 25–26 flight logs is played on air.",
@@ -259,8 +259,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-594",
-      "ref": "N-594",
+      "@id": "N-424",
+      "ref": "N-424",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Security contractor named as having begun UVU event intel gathering on August 24 per his own statement; named by an unnamed eyewitness (\"Elvis guy\") as allegedly observed at a September 9 meeting.",
@@ -317,7 +317,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-590",
-        "N-591"
+        "N-281"
       ]
     },
     {
@@ -335,7 +335,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-591"
+        "N-281"
       ]
     },
     {
@@ -389,7 +389,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-592"
+        "N-16"
       ]
     },
     {
@@ -411,7 +411,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-593"
+        "N-552"
       ]
     },
     {
@@ -434,7 +434,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-593"
+        "N-552"
       ]
     },
     {
@@ -455,8 +455,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-593",
-        "N-594",
+        "N-552",
+        "N-424",
         "N-596"
       ]
     },
@@ -479,7 +479,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-594"
+        "N-424"
       ]
     },
     {
@@ -511,7 +511,7 @@
       ],
       "related_nodes": [
         "N-590",
-        "N-591",
+        "N-281",
         "N-1429",
         "N-595"
       ],
@@ -529,7 +529,7 @@
         "A-1553.1"
       ],
       "related_nodes": [
-        "N-592",
+        "N-16",
         "N-1",
         "N-1433"
       ],
@@ -547,7 +547,7 @@
         "A-1553.1"
       ],
       "related_nodes": [
-        "N-592",
+        "N-16",
         "N-1",
         "N-1433"
       ],
@@ -565,7 +565,7 @@
         "A-1554.1"
       ],
       "related_nodes": [
-        "N-593",
+        "N-552",
         "N-1434"
       ],
       "tags": [],
@@ -582,7 +582,7 @@
         "A-1554.1"
       ],
       "related_nodes": [
-        "N-593",
+        "N-552",
         "N-1434",
         "N-1436"
       ],
@@ -600,7 +600,7 @@
         "A-1554.1"
       ],
       "related_nodes": [
-        "N-593",
+        "N-552",
         "N-1434",
         "N-1435"
       ],
@@ -618,7 +618,7 @@
         "A-1554.1"
       ],
       "related_nodes": [
-        "N-593",
+        "N-552",
         "N-1435"
       ],
       "tags": [],
@@ -635,7 +635,7 @@
         "A-1555.1"
       ],
       "related_nodes": [
-        "N-594",
+        "N-424",
         "N-1436",
         "N-1437"
       ],

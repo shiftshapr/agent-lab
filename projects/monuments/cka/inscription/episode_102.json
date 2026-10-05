@@ -85,7 +85,7 @@
             "C-2886"
           ],
           "related_nodes": [
-            "N-85",
+            "N-70",
             "N-2065"
           ],
           "tags": [],
@@ -1178,7 +1178,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1207",
-        "N-85",
+        "N-70",
         "N-1209",
         "N-1210"
       ]
@@ -1217,9 +1217,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-85",
-      "ref": "N-85",
-      "name": "Governor Cox",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
       "related_artifacts": [],
@@ -1295,7 +1295,7 @@
         "A-2064.1"
       ],
       "related_nodes": [
-        "N-85",
+        "N-70",
         "N-1207",
         "N-2065"
       ,

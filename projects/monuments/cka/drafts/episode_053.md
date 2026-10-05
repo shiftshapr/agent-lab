@@ -29,7 +29,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1587, A-1588, A-1589, A-1590, A-1591, A-1592, A-1593, A-1594, A-1595
   - Claim Range: C-2016–C-2025
-  - New Nodes Introduced: N-640, N-641, N-642, N-643, N-644, N-645, N-646, N-647, N-648, N-649, N-650, N-1456, N-1457, N-1458, N-1459, N-1460, N-1461, N-1462
+  - New Nodes Introduced: N-640, N-641, N-642, N-643, N-644, N-645, N-646, N-647, N-648, N-649, N-1456, N-1457, N-1458, N-1459, N-1460, N-1461, N-1462
   - Reused Nodes Appearing: 
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable — Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megan Kelly presumed to exist)
 
@@ -295,11 +295,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1593.1, C-2023, N-1, N-1460*
+*Related: A-1593.1, C-2023, N-1460*
 
 ---
 
-**N-650** Megan Kelly
+**N-75** Megyn Kelly
 
 Subject of host's claim that Ben Shapiro demanded her allegiance against Candace and Tucker Carlson, and has since been attacked by "his stooges."
 
@@ -334,7 +334,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1590.1, A-1591.1, C-2019, C-2020, C-2025, N-641, N-642, N-643, N-644, N-645, N-650, N-1462*
+*Related: A-1590.1, A-1591.1, C-2019, C-2020, C-2025, N-641, N-642, N-643, N-644, N-645, N-75, N-1462*
 
 ---
 

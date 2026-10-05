@@ -114,7 +114,7 @@
           ],
           "related_nodes": [
             "N-1210",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -140,7 +140,7 @@
             "C-3174"
           ],
           "related_nodes": [
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -298,7 +298,7 @@
             "C-3169"
           ],
           "related_nodes": [
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -324,7 +324,7 @@
             "C-3173"
           ],
           "related_nodes": [
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -635,8 +635,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
@@ -764,7 +764,7 @@
       ],
       "related_nodes": [
         "N-1210",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "02:44:00",
@@ -780,7 +780,7 @@
         "A-2215.1"
       ],
       "related_nodes": [
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "03:53:00",
@@ -845,7 +845,7 @@
         "A-2216.1"
       ],
       "related_nodes": [
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "02:44:00",
@@ -861,7 +861,7 @@
         "A-2209.1"
       ],
       "related_nodes": [
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "40:16:00",

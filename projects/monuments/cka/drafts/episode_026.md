@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 6e756e4348b0394d7192565879b6931826d6ba20924657099ff19f450d9aa60d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-335, N-336, N-337, N-338, N-339, N-340, N-341, N-343, N-344, N-345, N-1294, N-1295, N-1296, N-1297
-  - Reused Nodes Appearing: N-1, N-1000
+  - New Nodes Introduced: N-335, N-339, N-340, N-344, N-1294, N-1295, N-1296, N-1297
+  - Reused Nodes Appearing: N-1000
   - (see registers)
 
 # Episode Analysis Record
@@ -34,7 +34,7 @@
 
 - **Artifact Families Introduced:** A-1333, A-1334, A-1335, A-1336, A-1337, A-1338, A-1339, A-1340, A-1341, A-1342, A-1343, A-1344
 - **Claim Range:** C-1598–C-1616
-- **New People Nodes Introduced:** N-335, N-336, N-337, N-338, N-339, N-340, N-341, N-42, N-343, N-344, N-345
+- **New People Nodes Introduced:** N-335, N-272, N-224, N-150, N-339, N-340, N-91, N-42, N-87, N-344, N-45
 - **New Investigation Target Nodes Introduced:** N-1294, N-1295, N-1296, N-1297
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-1000 (Erica Kirk)
 
@@ -58,7 +58,7 @@ Video Timestamp: 00:03:45–00:04:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1598, C-1599, N-1, N-1294*
+*Related: C-1598, C-1599, N-1294*
 
 **A-1333.2** UVU event request email (mid-July 2025) — referenced verbally by host; shown on screen per host narration but content not transcribed in captions
 
@@ -69,7 +69,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; visual content not captured in caption transcript
 
-*Related: C-1599, N-1, N-1294*
+*Related: C-1599, N-1294*
 
 ---
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:19:39–00:20:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1604, C-1605, N-335, N-338*
+*Related: C-1604, C-1605, N-335, N-150*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:20:51–00:21:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1606, N-335, N-343*
+*Related: C-1606, N-335, N-87*
 
 **A-1337.2** X posts alleging Brett Cooper and her mother engage in witchcraft
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:36:07–00:39:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1609, C-1610, N-336, N-337, N-345, N-1000, N-1*
+*Related: C-1609, C-1610, N-272, N-224, N-45, N-1000, N-1*
 
 ---
 
@@ -187,7 +187,7 @@ Video Timestamp: 00:47:44–00:48:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1611, N-341*
+*Related: C-1611, N-91*
 
 ---
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:45:19–00:46:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1615, N-336, N-1000, N-1*
+*Related: C-1615, N-272, N-1000, N-1*
 
 ---
 
@@ -244,7 +244,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; full visual content not captured in caption transcript
 
-*Related: C-1616, N-336, N-1295, N-1296*
+*Related: C-1616, N-272, N-1295, N-1296*
 
 **A-1344.2** Footage showing Charlie Kirk positioned on top of an equipment box/suitcase rather than flat ground — verbal description with on-screen playback per host narration
 
@@ -255,7 +255,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; full visual content not captured in caption transcript
 
-*Related: C-1616, N-1, N-1295*
+*Related: C-1616, N-1295*
 
 ---
 
@@ -290,9 +290,9 @@ Claim Count: 7
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1336.1, A-1336.2, A-1337.1, A-1337.2, A-1338.1, C-1602, C-1603, C-1604, C-1605, C-1606, C-1607, C-1608, N-338, N-339, N-343, N-344*
+*Related: A-1336.1, A-1336.2, A-1337.1, A-1337.2, A-1338.1, C-1602, C-1603, C-1604, C-1605, C-1606, C-1607, C-1608, N-150, N-339, N-87, N-344*
 
-**N-336** Mikey McCoy
+**N-272** Mikey McCoy
 
 Subject of artifact-backed claims regarding post-shooting phone calls, behavior, and YouTube channel positioning.
 
@@ -301,9 +301,9 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, A-1343.1, A-1344.1, C-1609, C-1610, C-1615, C-1616, N-345, N-1000, N-1295, N-1296, N-1297*
+*Related: A-1339.1, A-1343.1, A-1344.1, C-1609, C-1610, C-1615, C-1616, N-45, N-1000, N-1295, N-1296, N-1297*
 
-**N-337** Blake Nef
+**N-224** Blake Neff
 
 Eyewitness source providing on-record recounting of post-shooting events.
 
@@ -312,9 +312,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, C-1609, C-1610, N-336, N-345, N-1000*
+*Related: A-1339.1, C-1609, C-1610, N-272, N-45, N-1000*
 
-**N-338** Ted Cruz
+**N-150** Ted Cruz
 
 Subject of Brett Cooper criticism and host commentary.
 
@@ -347,7 +347,7 @@ Investigative Pressure: Medium
 
 *Related: A-1334.1, A-1341.1, A-1342.1, C-1600, C-1613, C-1614*
 
-**N-341** Laura Loomer
+**N-91** Laura Loomer
 
 Subject of Pentagon press pass headline and host commentary.
 
@@ -358,7 +358,7 @@ Investigative Pressure: Low
 
 *Related: A-1340.1, C-1611*
 
-**N-343** Aaron Wexler
+**N-87** Aaron Wexler
 
 X poster identified by host as source of "white Candace" post.
 
@@ -380,7 +380,7 @@ Investigative Pressure: Low
 
 *Related: A-1338.1, C-1608, N-335*
 
-**N-345** Rob McCoy (Pastor Rob McCoy)
+**N-45** Rob McCoy
 
 Referenced in Blake Nef interview as call recipient; subject of host commentary re: Charlie Kirk succession narrative.
 
@@ -389,7 +389,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1339.1, C-1609, C-1610, N-336, N-337*
+*Related: A-1339.1, C-1609, C-1610, N-272, N-224*
 
 ---
 
@@ -415,7 +415,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1344.1, A-1344.2, C-1616, N-1, N-336*
+*Related: A-1344.1, A-1344.2, C-1616, N-1, N-272*
 
 **N-1296** Mikey McCoy Phone Call Sequence Anomaly
 
@@ -426,7 +426,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, A-1344.1, C-1610, N-336, N-337, N-345, N-1000*
+*Related: A-1339.1, A-1344.1, C-1610, N-272, N-224, N-45, N-1000*
 
 **N-1297** YouTube Scheduling Order Anomaly
 
@@ -437,7 +437,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1343.1, C-1615, N-336, N-1000*
+*Related: A-1343.1, C-1615, N-272, N-1000*
 
 ---
 
@@ -451,7 +451,7 @@ Claim: A Turning Point USA email dated October 2023 shows that planning for an A
 
 Anchored Artifacts: A-1333.1
 
-Related Nodes: N-1, N-1294
+Related Nodes: N-1294
 
 Investigative Direction: Obtain the full October 2023 TPUSA email thread and cross-reference against typical event-planning SOPs for prior TPUSA tours.
 
@@ -465,7 +465,7 @@ Claim: A UVU request for Charlie Kirk to speak on campus was received in mid-Jul
 
 Anchored Artifacts: A-1333.2
 
-Related Nodes: N-1, N-1294
+Related Nodes: N-1294
 
 Investigative Direction: Obtain the original UVU event request correspondence and TPUSA internal approval records to verify exact dates.
 
@@ -537,7 +537,7 @@ Claim: Brett Cooper publicly criticized Ted Cruz for hypocrisy in his treatment 
 
 Anchored Artifacts: A-1336.2
 
-Related Nodes: N-335, N-338
+Related Nodes: N-335, N-150
 
 Investigative Direction: Verify the cited Ted Cruz tweets in their original form and timestamp.
 
@@ -551,7 +551,7 @@ Claim: The host endorses Brett Cooper's criticism of Ted Cruz's tweet behavior.
 
 Anchored Artifacts: A-1336.2
 
-Related Nodes: N-335, N-338
+Related Nodes: N-335, N-150
 
 Investigative Direction: N/A — host-stance claim linked to source artifact.
 
@@ -565,7 +565,7 @@ Claim: An X post attributed to Aaron Wexler referred to Brett Cooper as "white C
 
 Anchored Artifacts: A-1337.1
 
-Related Nodes: N-335, N-343
+Related Nodes: N-335, N-87
 
 Investigative Direction: Verify the original Wexler post, account status (active/deleted), and any subsequent responses.
 
@@ -607,7 +607,7 @@ Claim: Blake Nef stated on-record that he was next to Mikey McCoy when the shot 
 
 Anchored Artifacts: A-1339.1
 
-Related Nodes: N-336, N-337, N-345, N-1000, N-1
+Related Nodes: N-272, N-224, N-45, N-1000, N-1
 
 Investigative Direction: Confirm publication date and outlet of the Blake Nef interview; cross-reference with available video footage of Mikey McCoy's post-shooting movements.
 
@@ -621,7 +621,7 @@ Claim: The host asserts that Blake Nef's account is internally inconsistent with
 
 Anchored Artifacts: A-1339.1, A-1344.1
 
-Related Nodes: N-336, N-337, N-345, N-1000, N-1296
+Related Nodes: N-272, N-224, N-45, N-1000, N-1296
 
 Investigative Direction: Obtain and analyze the post-shooting footage showing Mikey McCoy's movements and phone usage against Nef's timeline.
 
@@ -635,7 +635,7 @@ Claim: A news headline reports that Laura Loomer, described as a Trump ally, has
 
 Anchored Artifacts: A-1340.1
 
-Related Nodes: N-341
+Related Nodes: N-91
 
 Investigative Direction: Verify the original outlet, publication date, and Pentagon confirmation status.
 
@@ -691,7 +691,7 @@ Claim: Upon resumption of scheduled uploads to his YouTube page following the me
 
 Anchored Artifacts: A-1343.1
 
-Related Nodes: N-336, N-1000, N-1, N-1297
+Related Nodes: N-272, N-1000, N-1297
 
 Investigative Direction: Independently verify YouTube scheduling metadata for the relevant timeframe.
 
@@ -705,7 +705,7 @@ Claim: The host alleges that Charlie Kirk was positioned on top of an equipment 
 
 Anchored Artifacts: A-1344.1, A-1344.2
 
-Related Nodes: N-1, N-336, N-1295, N-1296
+Related Nodes: N-1, N-272, N-1295, N-1296
 
 Investigative Direction: Obtain and analyze the full UVU scene footage from multiple angles; locate any official first-aid or security-team accounts; verify equipment-box presence in pre-event setup imagery.
 
@@ -730,7 +730,7 @@ Investigative Direction: Obtain and analyze the full UVU scene footage from mult
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-335–N-345)
+- [x] People nodes use the global people ledger (N-335–N-45)
 - [x] Non-person investigation targets use the 1000 series (N-1294–N-1297)
 - [x] No speculative host-framing claims inscribed as evidence-backed claims
 - [x] Names preserved as they appear; "Mamdani" corrected from host's "Mom Donnie"/"Mam Donnie" variant to documented name

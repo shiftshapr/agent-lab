@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 3bf03b43dc5dbbd012ed6256f2ca3be30cbc97e23d398d12fc3dff776d32ccc0
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-911, N-912, N-914, N-915, N-916, N-917, N-918, N-919, N-920, N-921, N-922, N-923, N-924, N-925, N-926, N-927, N-928, N-930, N-931, N-932, N-933, N-1572, N-1573, N-1574, N-1575, N-1576
-  - Reused Nodes Appearing: N-1, N-1012
+  - New Nodes Introduced: N-911, N-912, N-916, N-917, N-919, N-920, N-924, N-925, N-927, N-928, N-930, N-931, N-932, N-1572, N-1573, N-1574, N-1575, N-1576
+  - Reused Nodes Appearing: N-1012
   - (see registers)
 
 ## 2. Executive Summary
@@ -51,7 +51,7 @@ Video Timestamp: 00:26:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2351, N-1012, N-915, N-1573*
+*Related: C-2351, N-1012, N-298, N-1573*
 
 ---
 
@@ -65,7 +65,7 @@ Video Timestamp: 00:27:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2352, N-916, N-915, N-1573*
+*Related: C-2352, N-916, N-298, N-1573*
 
 ---
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:28:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2354, N-1, N-1012, N-85, N-10002*
+*Related: C-2354, N-1012, N-70, N-10002*
 
 ---
 
@@ -93,7 +93,7 @@ Video Timestamp: 00:29:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2355, N-1, N-1012, N-85*
+*Related: C-2355, N-1012, N-70*
 
 **A-1767.2** Audio Clip: Erika Kirk on Meghan Kelly's Stage Recounting She Did Not Date in Manhattan
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:30:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2356, N-1, N-1012*
+*Related: C-2356, N-1012*
 
 ---
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:19:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2357, C-2358, C-2359, C-2360, C-2363, N-1, N-7, N-914, N-915*
+*Related: C-2357, C-2358, C-2359, C-2360, C-2363, N-1, N-3, N-75, N-298*
 
 ---
 
@@ -130,7 +130,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:16
 Confidence Level: High
 
-*Related: C-2361, N-1012, N-915, N-916, N-921, N-1573*
+*Related: C-2361, N-1012, N-298, N-916, N-42, N-1573*
 
 ---
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-1012, N-922, N-1576*
+*Related: N-1012, N-364, N-1576*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2362, N-919, N-920, N-933*
+*Related: C-2362, N-919, N-920, N-789*
 
 ---
 
@@ -245,7 +245,7 @@ Investigative Pressure: High
 
 ---
 
-**N-914** Megyn Kelly
+**N-75** Megyn Kelly
 
 Subject of viral Piers Morgan interview clip; made statements on Charlie Kirk's changed position on Israel.
 
@@ -258,7 +258,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-915** Piers Morgan
+**N-298** Piers Morgan
 
 Interviewer in the Megyn Kelly clip artifact.
 
@@ -267,7 +267,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1768.1, N-914*
+*Related: A-1768.1, N-75*
 
 ---
 
@@ -297,7 +297,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-918** Aubrey Lich
+**N-903** Aubrey Lech
 
 Former Turning Point USA employee; subject of recorded private investigator visit to her home.
 
@@ -319,7 +319,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1771.1, C-2362, N-918*
+*Related: A-1771.1, C-2362, N-903*
 
 ---
 
@@ -336,7 +336,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-921** Andrew Kolvet (also rendered "Andrew Kolb" in this episode)
+**N-42** Andrew Kolvet
 
 Turning Point USA figure; posted "Superman neck" on X (post referenced, not displayed).
 
@@ -349,7 +349,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-922** Glenn Beck
+**N-364** Glenn Beck
 
 Referenced by host as recipient of an alleged false statement from Erika Kirk about Charlie's pre-death text messages.
 
@@ -362,7 +362,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-923** Benjamin Netanyahu
+**N-65** Benjamin Netanyahu
 
 Referenced by host in connection with alleged Hamptons call and a cancelled Palm Beach filming session.
 
@@ -375,7 +375,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-926** Dr. Lee Trotter
+**N-281** Lee Trotter
 
 Surgeon; host alleges Erika initiated three-way call with Trotter and Andrew Kolvet on day of Charlie's funeral re: bullet trajectory.
 
@@ -384,11 +384,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1012, N-921, N-1576*
+*Related: N-1012, N-42, N-1576*
 
 ---
 
-**N-933** Marina Meanes
+**N-789** Marina (TPUSA CMO)
 
 Turning Point USA CMO; host references her questioning of Aubrey Lich regarding an Uber ride.
 
@@ -397,7 +397,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-918*
+*Related: N-903*
 
 ---
 
@@ -462,7 +462,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1770.1, N-1012, N-921, N-922, N-923, N-926*
+*Related: A-1770.1, N-1012, N-42, N-364, N-65, N-281*
 
 ---
 
@@ -527,7 +527,7 @@ Claim: Tyler Bowyer stated at Charlie Kirk's memorial that Erika Kirk (Miss Ariz
 
 Anchored Artifacts: A-1766.1
 
-Related Nodes: N-1, N-1012, N-85, N-10002
+Related Nodes: N-1012, N-70, N-10002
 
 Investigative Direction: Compare memorial account against contemporaneous text records between Bowyer and host.
 
@@ -541,7 +541,7 @@ Claim: Erika Kirk publicly recounted that her job interview with Charlie Kirk co
 
 Anchored Artifacts: A-1767.1
 
-Related Nodes: N-1, N-1012, N-85
+Related Nodes: N-1012, N-70
 
 Investigative Direction: Identify and verify the original source of this account and confirm dating against contemporaneous communications.
 
@@ -555,7 +555,7 @@ Claim: Erika Kirk stated on Meghan Kelly's stage that she did not date in Manhat
 
 Anchored Artifacts: A-1767.2
 
-Related Nodes: N-1, N-1012
+Related Nodes: N-1012
 
 Investigative Direction: Verify the original Meghan Kelly stage appearance and confirm Erika's exact phrasing.
 
@@ -569,7 +569,7 @@ Claim: Megyn Kelly stated on Piers Morgan's show that Charlie Kirk was starting 
 
 Anchored Artifacts: A-1768.1
 
-Related Nodes: N-1, N-7, N-914
+Related Nodes: N-1, N-3, N-75
 
 Investigative Direction: Identify other inner-circle witnesses to Charlie Kirk's evolving views; obtain any contemporaneous written communications.
 
@@ -583,7 +583,7 @@ Claim: Megyn Kelly stated on Piers Morgan's show that she and Charlie Kirk spent
 
 Anchored Artifacts: A-1768.1
 
-Related Nodes: N-1, N-914
+Related Nodes: N-1, N-75
 
 Investigative Direction: Locate any corroborating communications (messages, recordings) between Kelly and Charlie Kirk on Israel topics.
 
@@ -597,7 +597,7 @@ Claim: Megyn Kelly stated on Piers Morgan's show that she was pressured to conde
 
 Anchored Artifacts: A-1768.1
 
-Related Nodes: N-7, N-914
+Related Nodes: N-3, N-75
 
 Investigative Direction: Identify the parties alleged to have applied pressure; obtain any public or private documentation of the pressure campaign.
 
@@ -611,7 +611,7 @@ Claim: Megyn Kelly stated on Piers Morgan's show that Candace Owens had not appe
 
 Anchored Artifacts: A-1768.1
 
-Related Nodes: N-7, N-914
+Related Nodes: N-3, N-75
 
 Investigative Direction: Verify against Kelly's guest appearance logs.
 
@@ -639,7 +639,7 @@ Claim: An individual identifying himself as "Mike" was video-recorded outside Au
 
 Anchored Artifacts: A-1771.1
 
-Related Nodes: N-918, N-919
+Related Nodes: N-903, N-919
 
 Investigative Direction: Identify the legal firm referenced; determine whether this individual is licensed as a process server or private investigator.
 
@@ -653,7 +653,7 @@ Claim: The host explicitly concurred with Megyn Kelly's statements, characterizi
 
 Anchored Artifacts: A-1768.1
 
-Related Nodes: N-7, N-914
+Related Nodes: N-3, N-75
 
 Investigative Direction: Cross-reference host concurrence with other artifact-backed accounts of Charlie Kirk's pre-death Israel position.
 

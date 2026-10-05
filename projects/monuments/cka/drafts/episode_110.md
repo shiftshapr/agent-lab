@@ -198,7 +198,7 @@ Video Timestamp: 00:31:40–00:32:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (host acknowledges no independent confirmation)
 
-*Related: C-2929, N-1, N-2, N-2073*
+*Related: C-2929, N-1, N-2073*
 
 ---
 
@@ -814,7 +814,7 @@ Claim: Per host's displayed working timeline, on June 19 — the second day Char
 
 Anchored Artifacts: A-2076.2
 
-Related Nodes: N-2, N-2072
+Related Nodes: N-2072
 
 Investigative Direction: Obtain archived screenshots of Erika Kirk's Instagram account as of June 18–19, 2025.
 
@@ -828,7 +828,7 @@ Claim: Per local news in Utah cited by host, Turning Point USA submitted on July
 
 Anchored Artifacts: A-2084.1
 
-Related Nodes: N-1, N-2, N-2073
+Related Nodes: N-1, N-2073
 
 Investigative Direction: Obtain the actual UVU event submission paperwork; identify the requesting student organization.
 
