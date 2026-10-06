@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated": "2026-10-06T18:42:36Z",
+  "updated": "2026-10-06T19:45:00Z",
   "description": "Tombstone ledger: Person N-1..N-999 dense intro-order; Topic/Org/Place N-1000+ only.",
   "retired": {
     "legacy-N-10": {
@@ -2482,6 +2482,61 @@
       "survives_as": "N-225",
       "canonical_name": "Steven Cheung",
       "reason": "Person remapped into N-225 (low-band hole reclaim 2026-10-06)."
+    },
+    "legacy-N-10023": {
+      "survives_as": "N-230",
+      "canonical_name": "Howard Lutnick",
+      "reason": "Person remapped into N-230 (low-band hole reclaim 2026-10-06)."
+    },
+    "legacy-N-10024": {
+      "survives_as": "N-244",
+      "canonical_name": "Simon Andre",
+      "reason": "Person remapped into N-244 (low-band hole reclaim 2026-10-06)."
+    },
+    "legacy-N-10025": {
+      "survives_as": "N-250",
+      "canonical_name": "Zach Bryan",
+      "reason": "Person remapped into N-250 (low-band hole reclaim 2026-10-06)."
+    },
+    "legacy-N-10026": {
+      "survives_as": "N-279",
+      "canonical_name": "Robert Kraft",
+      "reason": "Person remapped into N-279 (low-band hole reclaim 2026-10-06)."
+    },
+    "legacy-N-10027": {
+      "survives_as": "N-294",
+      "canonical_name": "Lindsay Clancy",
+      "reason": "Person remapped into N-294 (low-band hole reclaim 2026-10-06)."
+    },
+    "legacy-N-10028": {
+      "survives_as": "N-303",
+      "canonical_name": "Nancy Mace",
+      "reason": "Person remapped into N-303 (low-band hole reclaim 2026-10-06)."
+    },
+    "legacy-N-10029": {
+      "survives_as": "N-318",
+      "canonical_name": "Nick Shirley",
+      "reason": "Person remapped into N-318 (low-band hole reclaim 2026-10-06)."
+    },
+    "legacy-N-10030": {
+      "survives_as": "N-342",
+      "canonical_name": "Brandon Tatum",
+      "reason": "Person remapped into N-342 (low-band hole reclaim 2026-10-06)."
+    },
+    "legacy-N-10031": {
+      "survives_as": "N-346",
+      "canonical_name": "Steven Paddock",
+      "reason": "Person remapped into N-346 (low-band hole reclaim 2026-10-06)."
+    },
+    "legacy-N-10032": {
+      "survives_as": "N-347",
+      "canonical_name": "Harvey Weinstein",
+      "reason": "Person remapped into N-347 (low-band hole reclaim 2026-10-06)."
+    },
+    "legacy-N-10033": {
+      "survives_as": "N-411",
+      "canonical_name": "Lisa Nose",
+      "reason": "Person remapped into N-411 (low-band hole reclaim 2026-10-06)."
     }
   }
 }

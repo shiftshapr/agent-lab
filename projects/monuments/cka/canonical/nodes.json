@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updated": "2026-10-06T18:42:36Z",
+  "updated": "2026-10-06T19:45:00Z",
   "monument": "cka",
-  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11\u201320 extract; seq 157\u2013159 Ep 394\u2013396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster. 2026-10-06: N-10000..N-10022 remapped into person-band holes; next_person_id=230.",
-  "next_person_id": 230,
-  "next_investigation_id": 2365,
+  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11-20 extract; seq 157-159 Ep 394-396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster. 2026-10-06: N-10000..N-10022 remapped into person-band holes; next_person_id=230. 2026-10-06 seq160 Ep397: persons into holes N-230..N-411 (tombstone legacy-N-10023..N-10033); topics N-2365..N-2370; cites of N-10000..N-10022 retargeted onto PR50 low-band map; next_person_id=432.",
+  "next_person_id": 432,
+  "next_investigation_id": 2371,
   "nodes": {
     "N-1": {
       "canonical_name": "Charlie Kirk",
@@ -54,7 +54,8 @@
         156,
         157,
         158,
-        159
+        159,
+        160
       ]
     },
     "N-59": {
@@ -96,7 +97,8 @@
         148,
         157,
         158,
-        159
+        159,
+        160
       ],
       "retired_ids": [
         "N-539"
@@ -203,7 +205,8 @@
         76,
         157,
         158,
-        159
+        159,
+        160
       ],
       "retired_ids": [
         "N-210",
@@ -576,7 +579,8 @@
         67,
         69,
         76,
-        159
+        159,
+        160
       ],
       "retired_ids": [
         "N-834",
@@ -977,7 +981,8 @@
         3,
         4,
         6,
-        9
+        9,
+        160
       ]
     },
     "N-1094": {
@@ -1105,7 +1110,8 @@
         37,
         43,
         47,
-        159
+        159,
+        160
       ],
       "retired_ids": [
         "N-188",
@@ -1306,7 +1312,8 @@
       "episodes": [
         5,
         20,
-        159
+        159,
+        160
       ],
       "retired_ids": [
         "N-276"
@@ -1476,7 +1483,8 @@
         6,
         66,
         74,
-        159
+        159,
+        160
       ],
       "retired_ids": [
         "N-824",
@@ -2655,7 +2663,8 @@
       "aliases": [],
       "episodes": [
         11,
-        19
+        19,
+        160
       ],
       "retired_ids": [
         "N-258"
@@ -4441,7 +4450,8 @@
       "aliases": [],
       "episodes": [
         23,
-        30
+        30,
+        160
       ],
       "retired_ids": [
         "N-381"
@@ -5605,7 +5615,8 @@
         59,
         157,
         158,
-        159
+        159,
+        160
       ],
       "retired_ids": [
         "N-433",
@@ -5689,7 +5700,8 @@
         59,
         67,
         157,
-        159
+        159,
+        160
       ],
       "retired_ids": [
         "N-507",
@@ -5704,7 +5716,8 @@
       "episodes": [
         36,
         157,
-        159
+        159,
+        160
       ]
     },
     "N-437": {
@@ -6669,7 +6682,8 @@
       "aliases": [],
       "episodes": [
         43,
-        159
+        159,
+        160
       ]
     },
     "N-1396": {
@@ -6905,7 +6919,8 @@
         47,
         48,
         58,
-        60
+        60,
+        160
       ],
       "retired_ids": [
         "N-593",
@@ -7373,7 +7388,8 @@
       ],
       "episodes": [
         50,
-        64
+        64,
+        160
       ],
       "retired_ids": [
         "N-794"
@@ -9500,7 +9516,8 @@
         107,
         157,
         158,
-        159
+        159,
+        160
       ],
       "retired_ids": [
         "N-7"
@@ -10710,7 +10727,8 @@
         143,
         148,
         154,
-        159
+        159,
+        160
       ],
       "retired_ids": [
         "N-79"
@@ -10929,7 +10947,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        82
+        82,
+        160
       ]
     },
     "N-1633": {
@@ -11912,7 +11931,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        102
+        102,
+        160
       ]
     },
     "N-2065": {
@@ -12057,7 +12077,8 @@
         148,
         157,
         158,
-        159
+        159,
+        160
       ],
       "retired_ids": [
         "N-131",
@@ -12286,7 +12307,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        121
+        121,
+        160
       ]
     },
     "N-2086": {
@@ -12383,7 +12405,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        122
+        122,
+        160
       ]
     },
     "N-2098": {
@@ -12695,7 +12718,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        128
+        128,
+        160
       ]
     },
     "N-2137": {
@@ -13883,7 +13907,8 @@
         153,
         157,
         158,
-        159
+        159,
+        160
       ]
     },
     "N-1031": {
@@ -14038,7 +14063,8 @@
       "episodes": [
         157,
         158,
-        159
+        159,
+        160
       ]
     },
     "N-2351": {
@@ -14108,7 +14134,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        158
+        158,
+        160
       ]
     },
     "N-2359": {
@@ -14149,7 +14176,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        159
+        159,
+        160
       ]
     },
     "N-2364": {
@@ -14168,7 +14196,8 @@
       ],
       "episodes": [
         153,
-        157
+        157,
+        160
       ],
       "retired_ids": [
         "N-10000"
@@ -14188,7 +14217,8 @@
         156,
         157,
         158,
-        159
+        159,
+        160
       ],
       "retired_ids": [
         "N-10001"
@@ -14373,7 +14403,8 @@
       ],
       "episodes": [
         154,
-        159
+        159,
+        160
       ],
       "retired_ids": [
         "N-10012"
@@ -14510,6 +14541,182 @@
       ],
       "retired_ids": [
         "N-10022"
+      ]
+    },
+    "N-230": {
+      "canonical_name": "Howard Lutnick",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        160
+      ],
+      "retired_ids": [
+        "N-10023"
+      ]
+    },
+    "N-244": {
+      "canonical_name": "Simon Andre",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        160
+      ],
+      "retired_ids": [
+        "N-10024"
+      ]
+    },
+    "N-250": {
+      "canonical_name": "Zach Bryan",
+      "type": "person",
+      "aliases": [
+        "Zack Bryan"
+      ],
+      "episodes": [
+        160
+      ],
+      "retired_ids": [
+        "N-10025"
+      ]
+    },
+    "N-279": {
+      "canonical_name": "Robert Kraft",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        160
+      ],
+      "retired_ids": [
+        "N-10026"
+      ]
+    },
+    "N-294": {
+      "canonical_name": "Lindsay Clancy",
+      "type": "person",
+      "aliases": [
+        "Lindsey Clancy",
+        "Lindsy Clancy"
+      ],
+      "episodes": [
+        160
+      ],
+      "retired_ids": [
+        "N-10027"
+      ]
+    },
+    "N-303": {
+      "canonical_name": "Nancy Mace",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        160
+      ],
+      "retired_ids": [
+        "N-10028"
+      ]
+    },
+    "N-318": {
+      "canonical_name": "Nick Shirley",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        160
+      ],
+      "retired_ids": [
+        "N-10029"
+      ]
+    },
+    "N-342": {
+      "canonical_name": "Brandon Tatum",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        160
+      ],
+      "retired_ids": [
+        "N-10030"
+      ]
+    },
+    "N-346": {
+      "canonical_name": "Steven Paddock",
+      "type": "person",
+      "aliases": [
+        "Stephen Paddock"
+      ],
+      "episodes": [
+        160
+      ],
+      "retired_ids": [
+        "N-10031"
+      ]
+    },
+    "N-347": {
+      "canonical_name": "Harvey Weinstein",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        160
+      ],
+      "retired_ids": [
+        "N-10032"
+      ]
+    },
+    "N-411": {
+      "canonical_name": "Lisa Nose",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        160
+      ],
+      "retired_ids": [
+        "N-10033"
+      ]
+    },
+    "N-2365": {
+      "canonical_name": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        160
+      ]
+    },
+    "N-2366": {
+      "canonical_name": "Candyland Illegal-Nanny Mansion NDA Smear",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        160
+      ]
+    },
+    "N-2367": {
+      "canonical_name": "Killer-Mom Filicide Narrative as Internet-Regulation SCOP",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        160
+      ]
+    },
+    "N-2368": {
+      "canonical_name": "Howard Lutnick / Simon Andre Epstein Whistleblower Death",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        160
+      ]
+    },
+    "N-2369": {
+      "canonical_name": "Zach Bryan Free Palestine Gillette Stadium Record",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        160
+      ]
+    },
+    "N-2370": {
+      "canonical_name": "Baron Coleman Pre-Host Character Attack Campaign",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        160
       ]
     }
   }

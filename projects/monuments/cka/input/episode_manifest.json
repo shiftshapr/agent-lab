@@ -2,15 +2,15 @@
   "monument": "cka",
   "channel": "@RealCandaceO",
   "corpus_cutoff_inclusive": "2025-09-11",
-  "generated_at_utc": "2026-10-02T16:03:49Z",
+  "generated_at_utc": "2026-10-06T18:36:53Z",
   "source": {
     "listing": "https://www.youtube.com/@RealCandaceO/streams",
     "publish_dates": "https://invidious.f5.si"
   },
   "counts": {
-    "manifest_entries": 159,
+    "manifest_entries": 160,
     "kirk_special": 2,
-    "numbered_show": 157
+    "numbered_show": 158
   },
   "episodes": [
     {
@@ -1602,6 +1602,16 @@
       "kind": "numbered_show",
       "notes": null,
       "seq": 159
+    },
+    {
+      "upload_date": "2026-10-05",
+      "youtube_id": "ms5ChhZegRg",
+      "title": "COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review's Major Redaction. | Ep 397",
+      "url": "https://www.youtube.com/watch?v=ms5ChhZegRg",
+      "candace_ep_number": 397,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 160
     }
   ]
 }
