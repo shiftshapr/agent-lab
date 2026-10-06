@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: e732d4846e15cd04e8fa5fe0225ed37b1a98e48a46de9708a0a96dd02665e880
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-529, N-530, N-532, N-533, N-534, N-535, N-537, N-538, N-1405, N-1406, N-1407
+  - New Nodes Introduced:  N-537, N-538, N-1405, N-1406, N-1407
   - Reused Nodes Appearing: 
   N-69, N-42
 
@@ -33,7 +33,7 @@
 
 - **Artifact Families Introduced:** A-1533, A-1534, A-1535, A-1536, A-1537, A-1538
 - **Claim Range:** C-1912 – C-1923
-- **New Nodes Introduced:** N-529, N-530, N-532, N-533, N-534, N-535, N-537, N-538, N-1405, N-1406, N-1407
+- **New Nodes Introduced:** , N-537, N-538, N-1405, N-1406, N-1407
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), N-69 (Tyler Robinson), N-42 (Andrew Kolvet)
 
 ---
@@ -58,7 +58,7 @@ Video Timestamp: 00:06:58–00:07:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1912, C-1922, N-529, N-2, N-3, N-1405*
+*Related: C-1912, C-1922, N-444, N-2, N-3, N-1405*
 
 **A-1533.2** Erika Kirk on-camera response: "Stop. That's it. That's all I have to say. Stop."
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:07:58–00:08:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1912, N-529, N-2, N-3*
+*Related: C-1912, N-444, N-2, N-3*
 
 **A-1533.3** Erika Kirk statement: "I think mental illness is involved in some of this stuff that is online."
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:14:44–00:15:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1922, N-537, N-529, N-1405*
+*Related: C-1922, N-537, N-444, N-1405*
 
 ---
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:16:29–00:17:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1913, N-530, N-2*
+*Related: C-1913, N-364, N-2*
 
 **A-1534.2** Erika Kirk on-court-system framing: "we need to do a better job of educating our citizens about our court systems"; "I want a tainted jury pool. I want justice for my husband. Anytime we have leads, anytime we hear anything, we send it to the authorities."
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:19:20–00:20:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1917, N-530, N-2*
+*Related: C-1917, N-364, N-2*
 
 **A-1534.3** Erika Kirk denial of involvement: "None of us are involved in my husband's murder. None of us. Turning Point USA, myself, any of these other crazy accusations, none of us."
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:19:20–00:20:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1914, N-530, N-2*
+*Related: C-1914, N-364, N-2*
 
 ---
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:35:58–00:39:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1919, N-532, N-3*
+*Related: C-1919, N-349, N-3*
 
 **A-1536.2** AllieBeth Stuckey Instagram comment reply: "You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then."
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:40:13–00:41:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1921, N-532, N-3*
+*Related: C-1921, N-349, N-3*
 
 ---
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:43:28–00:45:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1920, N-532, N-533, N-534, N-535, N-42*
+*Related: C-1920, N-349, N-135, N-350, N-133, N-42*
 
 ---
 
@@ -204,7 +204,7 @@ Confidence Level: Medium
 
 ## IV. Node Register
 
-**N-529** Bari Weiss
+**N-444** Bari Weiss
 
 CBS News editor/chief who moderated the Erika Kirk town hall; subject of host's pre-recording allegation and audience-member sourcing claims. Material to investigation of town-hall production integrity.
 
@@ -217,7 +217,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-530** Glenn Beck
+**N-364** Glenn Beck
 
 Blaze TV host who interviewed Erika Kirk immediately after CBS town hall; framed "the truth is very clear" question and the jury-pool education framing.
 
@@ -230,7 +230,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-532** AllieBeth Stuckey
+**N-349** Allie Beth Stuckey
 
 Daily Wire host and public critic of Candace Owens; subject of artifact-anchored Instagram post (A-1536.1), Instagram comment (A-1536.2), and show clip (A-1537.1) defending named figures against the host's accusations.
 
@@ -243,7 +243,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-533** Alex Clark
+**N-135** Alex Clark
 
 Podcaster named by host and defended by AllieBeth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.
 
@@ -252,11 +252,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1537.1, C-1920, N-532*
+*Related: A-1537.1, C-1920, N-349*
 
 ---
 
-**N-534** Lila Rose
+**N-350** Lila Rose
 
 Live Action founder; subject of AllieBeth Stuckey defense (A-1537.1) and host's prior accusation regarding military connections.
 
@@ -265,11 +265,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1537.1, C-1920, N-532*
+*Related: A-1537.1, C-1920, N-349*
 
 ---
 
-**N-535** Ben Shapiro
+**N-133** Ben Shapiro
 
 Commentator defended by AllieBeth Stuckey (A-1537.1) and subject of host's prior accusation of lying about lack of issues with Charlie Kirk.
 
@@ -278,7 +278,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1537.1, C-1920, N-532*
+*Related: A-1537.1, C-1920, N-349*
 
 ---
 
@@ -291,7 +291,7 @@ Claim Count: 0 (mentioned only)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1533.5, N-529, N-1405*
+*Related: A-1533.5, N-444, N-1405*
 
 ---
 
@@ -317,7 +317,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1533.1, A-1533.5, C-1922, N-529, N-537*
+*Related: A-1533.1, A-1533.5, C-1922, N-444, N-537*
 
 ---
 
@@ -357,7 +357,7 @@ Claim: During a Bari Weiss CBS town hall, when asked what she wanted to say to C
 
 Anchored Artifacts: A-1533.1, A-1533.2
 
-Related Nodes: N-2, N-3, N-529
+Related Nodes: N-2, N-3, N-444
 
 Investigative Direction: Confirm the verbatim exchange against the published CBS video and check whether the question appears in any released pre-production packet.
 
@@ -371,7 +371,7 @@ Claim: In a Blaze TV interview with Glenn Beck, Erika Kirk affirmed the host's f
 
 Anchored Artifacts: A-1534.1
 
-Related Nodes: N-2, N-530
+Related Nodes: N-2, N-364
 
 Investigative Direction: Obtain the unedited Blaze TV segment to verify exact phrasing and surrounding context.
 
@@ -385,7 +385,7 @@ Claim: In the Glenn Beck interview, Erika Kirk stated: "None of us are involved 
 
 Anchored Artifacts: A-1534.3
 
-Related Nodes: N-2, N-530
+Related Nodes: N-2, N-364
 
 Investigative Direction: Compare this on-camera denial against any subsequent documentary disclosures or investigation findings that could contradict the explicit denial.
 
@@ -399,7 +399,7 @@ Claim: In the Glenn Beck interview, Erika Kirk stated: "I think mental illness i
 
 Anchored Artifacts: A-1534.3 (extended context), A-1533.3 (related phrasing)
 
-Related Nodes: N-2, N-530
+Related Nodes: N-2, N-364
 
 Investigative Direction: Verify the exact context of the "mental illness" statement against the unedited interview and assess whether the framing was directed at named hosts or general public commentary.
 
@@ -413,7 +413,7 @@ Claim: In the Glenn Beck interview, Erika Kirk stated: "My husband's legacy is n
 
 Anchored Artifacts: A-1534.3 (context), A-1533.4
 
-Related Nodes: N-2, N-530
+Related Nodes: N-2, N-364
 
 Investigative Direction: Document the recurrence of this framing across Erika Kirk's post-assassination appearances to map the consistency and evolution of the messaging.
 
@@ -427,7 +427,7 @@ Claim: In the Glenn Beck interview, Erika Kirk stated: "A lot of people don't an
 
 Anchored Artifacts: A-1534.2
 
-Related Nodes: N-2, N-530
+Related Nodes: N-2, N-364
 
 Investigative Direction: Track whether this "education" framing recurs in subsequent Erika Kirk appearances and whether any coordinated media campaigns explicitly call on influencers to refrain from commentary.
 
@@ -455,7 +455,7 @@ Claim: In an Instagram post, AllieBeth Stuckey asserted that "Candace has taken 
 
 Anchored Artifacts: A-1536.1
 
-Related Nodes: N-532, N-3
+Related Nodes: N-349, N-3
 
 Investigative Direction: Verify the post is still publicly available and capture a screenshot for permanent record; compare Stuckey's characterization against any prior host statements.
 
@@ -469,7 +469,7 @@ Claim: In a show clip, AllieBeth Stuckey defended Alex Clark, Lila Rose, Ben Sha
 
 Anchored Artifacts: A-1537.1
 
-Related Nodes: N-532, N-533, N-534, N-535, N-42
+Related Nodes: N-349, N-135, N-350, N-133, N-42
 
 Investigative Direction: Catalog each prior host accusation against these five individuals and verify against any underlying evidence the host has produced; assess consistency of Stuckey's defense with the underlying evidence.
 
@@ -483,7 +483,7 @@ Claim: In an Instagram comment reply, AllieBeth Stuckey wrote: "You don't see va
 
 Anchored Artifacts: A-1536.2
 
-Related Nodes: N-532, N-3
+Related Nodes: N-349, N-3
 
 Investigative Direction: Capture the comment thread for permanent record and identify the original commenter if investigatively relevant.
 
@@ -497,7 +497,7 @@ Claim: The host asserts that the Bari Weiss / Erika Kirk CBS town hall was pre-r
 
 Anchored Artifacts: A-1533.1, A-1533.5 (visual evidence of controlled production), host testimonial confirmation of insider sources
 
-Related Nodes: N-529, N-537, N-1405
+Related Nodes: N-444, N-537, N-1405
 
 Investigative Direction: Attempt to obtain leaked production documents, backstage emails, or testimony from audience members; cross-reference against CBS's own statements about the production.
 

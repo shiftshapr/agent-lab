@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 55,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -31,7 +31,7 @@
             "C-2048"
           ],
           "related_nodes": [
-            "N-695",
+            "N-42",
             "N-1475"
           ],
           "tags": [],
@@ -234,7 +234,7 @@
             "C-2062"
           ],
           "related_nodes": [
-            "N-695"
+            "N-42"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -358,7 +358,7 @@
           ],
           "related_nodes": [
             "N-697",
-            "N-698",
+            "N-654",
             "N-1473"
           ],
           "tags": [],
@@ -437,9 +437,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-695",
-      "ref": "N-695",
-      "name": "Andrew Kolbett",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Subject of host's text exchange about post-assassination dream of Charlie Kirk; previously identified in earlier episodes as orchestrating PR operations against the host.",
       "related_artifacts": [
@@ -486,7 +486,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-697",
-        "N-698",
+        "N-654",
         "N-1473"
       ]
     },
@@ -510,14 +510,14 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-696",
-        "N-698",
+        "N-654",
         "N-1473"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-698",
-      "ref": "N-698",
+      "@id": "N-654",
+      "ref": "N-654",
       "name": "Sun Myung Moon",
       "type": "person",
       "description": "Founder of the Unification Church (transcript spells inconsistently as \"Sunyong Moon\" / \"Sun Young Moon\" / \"Sun Myung Moon\"); source of the three disciples quotation.",
@@ -638,7 +638,7 @@
       "related_nodes": [
         "N-704",
         "N-705",
-        "N-698"
+        "N-654"
       ]
     },
     {
@@ -687,10 +687,10 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-695",
+        "N-42",
         "N-696",
         "N-697",
-        "N-698"
+        "N-654"
       ]
     },
     {
@@ -732,7 +732,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-695"
+        "N-42"
       ]
     },
     {
@@ -825,7 +825,7 @@
         "A-1607.1"
       ],
       "related_nodes": [
-        "N-695",
+        "N-42",
         "N-1475"
       ],
       "tags": [],
@@ -840,7 +840,7 @@
       "claim": "The host stated that Andrew Kolbett did not respond to her text message and that this was the last time they spoke.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-695",
+        "N-42",
         "N-1475"
       ],
       "tags": [],
@@ -894,7 +894,7 @@
       "related_nodes": [
         "N-704",
         "N-705",
-        "N-698"
+        "N-654"
       ],
       "tags": [],
       "claim_timestamp": "00:12:48–00:13:40",
@@ -962,7 +962,7 @@
       ],
       "related_nodes": [
         "N-697",
-        "N-698",
+        "N-654",
         "N-1473"
       ],
       "tags": [],
@@ -980,7 +980,7 @@
       ],
       "related_nodes": [
         "N-697",
-        "N-698",
+        "N-654",
         "N-1473"
       ],
       "tags": [],
@@ -1078,7 +1078,7 @@
         "A-1613.2"
       ],
       "related_nodes": [
-        "N-695"
+        "N-42"
       ],
       "tags": [],
       "claim_timestamp": "00:47:35–00:48:56",

@@ -8,10 +8,10 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 1efb65d788e764ce59f77474993e3420acf90bc4df6bef2cac70e04db1fe218b
+- **Transcript SHA-256**: 087c555f00ceb818cad608ff21e33df7adf9a91188c74d073eebdf7ac801be48
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-968, N-969, N-970, N-971, N-972, N-973, N-974, N-975, N-976, N-978, N-979, N-980, N-981, N-982, N-983, N-984, N-1604, N-1605, N-1606, N-1607, N-1608, N-1609, N-1610, N-1611
+  - New Nodes Introduced: N-968, N-969, N-970, N-971, N-972, N-973, N-974, N-975, N-976, N-980, N-982, N-983, N-984, N-1604, N-1605, N-1606, N-1607, N-1608, N-1609, N-1610, N-1611
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -35,7 +35,7 @@
 
 - **Artifact Families Introduced:** A-1835, A-1836, A-1837, A-1838, A-1839, A-1840, A-1841, A-1842, A-1843, A-1844, A-1845
 - **Claim Range:** C-2453–C-2471
-- **New People Nodes Introduced:** N-968, N-969, N-970, N-971, N-972, N-973, N-974, N-975, N-976, N-85, N-978, N-979, N-980, N-981, N-982, N-983, N-984
+- **New People Nodes Introduced:** N-968, N-969, N-970, N-971, N-972, N-973, N-974, N-975, N-976, N-70, N-439, N-254, N-980, N-951, N-982, N-983, N-984
 - **New Investigation Target Nodes Introduced:** N-1604, N-1605, N-1606, N-1607, N-1608, N-1609, N-1610
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:08:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2456, N-973, N-974, N-975, N-979*
+*Related: C-2456, N-973, N-974, N-975, N-254*
 
 ---
 
@@ -91,7 +91,7 @@ Video Timestamp: 00:13:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2457, N-2, N-969, N-978, N-1606*
+*Related: C-2457, N-2, N-969, N-439, N-1606*
 
 ---
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:30:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2462, C-2473, N-1, N-1609*
+*Related: C-2462, C-2473, N-1609*
 
 **A-1841.2** Photo of van interior from another angle
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:31:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2462, N-1, N-1609*
+*Related: C-2462, N-1609*
 
 **A-1841.3** Photo showing side angle of van interior with what appears to be an Instaclot package on the floor
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:31:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1, N-1609*
+*Related: N-1609*
 
 ---
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:34:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2463, N-1, N-1608, N-1610*
+*Related: C-2463, N-1608, N-1610*
 
 **A-1842.2** Video segment showing Charlie falling/sliding toward the table
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:38:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2464, C-2472, N-1, N-1608*
+*Related: C-2464, C-2472, N-1608*
 
 **A-1842.3** Video segment showing Charlie's hands making contact with table without grabbing any object
 
@@ -211,7 +211,7 @@ Video Timestamp: 00:39:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2465, N-1, N-1608*
+*Related: C-2465, N-1608*
 
 **A-1842.4** Video segment showing the necklace and magnet clasp still attached post-impact
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:35:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2463, N-1, N-1608, N-1610*
+*Related: C-2463, N-1608, N-1610*
 
 ---
 
@@ -249,7 +249,7 @@ Video Timestamp: 00:43:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2467, N-968, N-85, N-1611*
+*Related: C-2467, N-968, N-70, N-1611*
 
 **A-1844.2** X community note fact-checking TP Action's Massie tweet: "Rep. Thomas Massie was one of Charlie Kirk's favorite congressman"
 
@@ -326,7 +326,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1837.1, C-2457, N-978, N-1606*
+*Related: A-1837.1, C-2457, N-439, N-1606*
 
 ---
 
@@ -378,7 +378,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1836.1, C-2456, N-979*
+*Related: A-1836.1, C-2456, N-254*
 
 ---
 
@@ -391,7 +391,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1836.1, C-2456, N-979*
+*Related: A-1836.1, C-2456, N-254*
 
 ---
 
@@ -404,11 +404,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1836.1, C-2456, N-979*
+*Related: A-1836.1, C-2456, N-254*
 
 ---
 
-**N-978** Mike Huckabee
+**N-439** Mike Huckabee
 
 Father of Sarah Huckabee Sanders; named by host as contextually relevant to Israel theme.
 
@@ -421,7 +421,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-979** Jared Kushner
+**N-254** Jared Kushner
 
 Named in displayed news-clip context as having close ties with Alexander brothers; named by host as Epstein-files redaction beneficiary.
 
@@ -434,7 +434,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-981** Faith Kates
+**N-951** Faith Kates
 
 Founder of Next Model Management, the Rothschild spin-out modeling agency with which Erica Kirk is alleged to have dealt.
 
@@ -482,7 +482,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1835.1, N-2, N-981, N-1604*
+*Related: A-1835.1, N-2, N-951, N-1604*
 
 ---
 
@@ -495,7 +495,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1837.1, C-2457, N-2, N-969, N-978*
+*Related: A-1837.1, C-2457, N-2, N-969, N-439*
 
 ---
 
@@ -521,7 +521,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1842.1, A-1842.2, A-1842.3, A-1842.4, C-2463, C-2464, C-2465, C-2472, N-1, N-1610*
+*Related: A-1842.1, A-1842.2, A-1842.3, A-1842.4, C-2463, C-2464, C-2465, C-2472, N-1610*
 
 ---
 
@@ -547,7 +547,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1842.1, A-1842.4, C-2463, N-1, N-1608*
+*Related: A-1842.1, A-1842.4, C-2463, N-1608*
 
 ---
 
@@ -560,7 +560,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1843.1, A-1844.1, A-1844.2, A-1845.1, C-2466, C-2467, C-2468, C-2469, C-2474, N-1, N-968, N-85*
+*Related: A-1843.1, A-1844.1, A-1844.2, A-1845.1, C-2466, C-2467, C-2468, C-2469, C-2474, N-1, N-968, N-70*
 
 ---
 
@@ -609,7 +609,7 @@ Claim Timestamp: 00:08:25
 Claim: Per the displayed news clip, a federal jury in Manhattan found Tal, Oren, and Alon Alexander guilty of all 10 counts, including sex trafficking; Tal and Alon also convicted of sex trafficking a minor; Oren and Alon also convicted of sexual abuse. Sentencing scheduled for August.
 
 Anchored Artifacts: A-1836.1
-Related Nodes: N-973, N-974, N-975, N-979
+Related Nodes: N-973, N-974, N-975, N-254
 Investigative Direction: Obtain federal court docket for the Southern District of New York case, cross-reference Epstein-file redaction entries, and document Kushner/White House visit records for the brothers.
 
 ---
@@ -681,7 +681,7 @@ Claim Timestamp: 00:30:45
 Claim: Per the displayed van interior photos, material (which the host observes appears consistent with shattered glass or a microphone component) is distributed across the back seat area.
 
 Anchored Artifacts: A-1841.1, A-1841.2
-Related Nodes: N-1, N-1609
+Related Nodes: N-1609
 Investigative Direction: Obtain high-resolution originals; have forensic imaging analysts characterize the scattered material and compare to TPUSA's account of vehicle interior condition.
 
 ---
@@ -693,7 +693,7 @@ Claim Timestamp: 00:34:11
 Claim: Per the displayed video, the necklace worn by Charlie Kirk is shown moving/whipping upward after impact with the magnet clasp still attached to the chain.
 
 Anchored Artifacts: A-1842.1, A-1842.4
-Related Nodes: N-1, N-1608, N-1610
+Related Nodes: N-1608, N-1610
 Investigative Direction: Compare video frame-by-frame to the multiple conflicting necklace-recovery stories told by Erica Kirk, Frank, and Brian Harpole (as referenced by host).
 
 ---
@@ -705,7 +705,7 @@ Claim Timestamp: 00:36:56
 Claim: Per the displayed video, no blood is visible traveling backward from Charlie Kirk after he is hit, contrary to what a high-velocity projectile striking the head would be expected to produce.
 
 Anchored Artifacts: A-1842.2
-Related Nodes: N-1, N-1608
+Related Nodes: N-1608
 Investigative Direction: Engage forensic video analysts to assess the blood pattern in the displayed footage against expected wound ballistics for a .30-06 round.
 
 ---
@@ -717,7 +717,7 @@ Claim Timestamp: 00:39:06
 Claim: Per the displayed video, when Charlie Kirk's hands first make contact with the table, he does not grasp or take any object from it.
 
 Anchored Artifacts: A-1842.3
-Related Nodes: N-1, N-1608
+Related Nodes: N-1608
 Investigative Direction: Compare video evidence to prior commentary alleging he grabbed an item from the table; verify resolution of that sub-theory.
 
 ---
@@ -741,7 +741,7 @@ Claim Timestamp: 00:43:29
 Claim: Per the displayed Turning Point Action tweet, the organization characterized Massie as a "rhino" who needed to be replaced.
 
 Anchored Artifacts: A-1844.1
-Related Nodes: N-968, N-85, N-1611
+Related Nodes: N-968, N-70, N-1611
 Investigative Direction: Preserve original tweet (including any subsequent edits/deletions); identify the author of the TP Action account; document timing relative to Massie Committee work.
 
 ---
@@ -801,7 +801,7 @@ Claim Timestamp: 00:38:21
 Claim: Per the displayed video, an individual the host identifies as "Dan" is observed pushing Charlie Kirk to the ground after he is hit.
 
 Anchored Artifacts: A-1842.2
-Related Nodes: N-1, N-1608
+Related Nodes: N-1608
 Investigative Direction: Identify the individual referred to as "Dan" via displayed video and corroborate identity with official event staff rosters.
 
 ---
@@ -813,7 +813,7 @@ Claim Timestamp: 00:31:14
 Claim: Per the host's framing of the displayed van photos (corroborating analysis by Baron Coleman referenced by host), the photos do not depict the circumstances in which Brian Harpole was described as "hanging out of the SUV."
 
 Anchored Artifacts: A-1841.1, A-1841.2
-Related Nodes: N-1, N-1609
+Related Nodes: N-1609
 Investigative Direction: Obtain official TPUSA narrative statements regarding Harpole's posture and timing; compare to multiple displayed photo angles.
 
 ---

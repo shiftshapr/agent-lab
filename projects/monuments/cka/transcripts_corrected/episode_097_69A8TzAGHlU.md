@@ -295,7 +295,7 @@ Why do you Why do you Why do we care so much about what other people think about
 
 [57:59]
 
-They want Europe. They want what's already happening in Florida. Police showing up on your door asking you if you sent a tweet. Did you criticize Candace Owens today? She's black. Did you know she's black? It's racist. I get called the N-word every second of every day. Go on, X. I don't care. Doesn't impact my day. I don't know who these people are on the internet. I don't feel threatened by that. Okay? You You have a right to think racist thoughts. I know I happen to genuinely not be a racist. I But if people were racist, I understand the importance of making sure that we don't pass speech laws and that is what is coming next because they have been signaling it for a week straight, full fire. Not just Erika Kirk, also uh Caroline Leavitt came out and now is trying to equate speech to violence.
+They want Europe. They want what's already happening in Florida. Police showing up on your door asking you if you sent a tweet. Did you criticize Candace Owens today? She's black. Did you know she's black? It's racist. I get called the N-word every second of every day. Go on, X. I don't care. Doesn't impact my day. I don't know who these people are on the internet. I don't feel threatened by that. Okay? You You have a right to think racist thoughts. I know I happen to genuinely not be a racist. I But if people were racist, I understand the importance of making sure that we don't pass speech laws and that is what is coming next because they have been signaling it for a week straight, full fire. Not just Erika Kirk, also uh Karoline Leavitt came out and now is trying to equate speech to violence.
 
 [58:44]
 
@@ -303,7 +303,7 @@ Take a listen. This political violence stems from a systemic demonization of him
 
 [59:40]
 
-Who is smearing and calling people names and dehumanizing people more? Posting photos of me when I'm sick than Donald Trump. Does that now mean that if an act of violence happened, every time that happens, I get to now say that this is this is this is Trump's fault? And again, like I said, it's being echoed everywhere. Melania Trump she tweeted and said this about Jimmy Kimmel. Jimmy Kimmel's vote of joke that happened before the shooting. That it was hateful and violent rhetoric intended to divide our country. Meanwhile, Caroline Levitt is talking left versus right. That's Is that not divisive? His monologue about my family is not comedy. His words are corrosive and deepens the political sickness within America.
+Who is smearing and calling people names and dehumanizing people more? Posting photos of me when I'm sick than Donald Trump. Does that now mean that if an act of violence happened, every time that happens, I get to now say that this is this is this is Trump's fault? And again, like I said, it's being echoed everywhere. Melania Trump she tweeted and said this about Jimmy Kimmel. Jimmy Kimmel's vote of joke that happened before the shooting. That it was hateful and violent rhetoric intended to divide our country. Meanwhile, Karoline Leavitt is talking left versus right. That's Is that not divisive? His monologue about my family is not comedy. His words are corrosive and deepens the political sickness within America.
 
 [01:00:21]
 

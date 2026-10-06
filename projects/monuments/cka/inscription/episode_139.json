@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 139,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -979,7 +979,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10006",
+        "ref": "N-10006",
+        "name": "Andrew Wilson",
+        "type": "person",
+        "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -1027,7 +1043,9 @@
       "related_nodes": [
         "N-1207",
         "N-1213"
-      ],
+      ,
+            "N-10006"
+          ],
       "tags": [],
       "claim_timestamp": "00:03:25–00:04:12",
       "investigative_direction": "Verify funding source of the $300K offer; obtain any formal documentation or PR communications."
@@ -1045,7 +1063,9 @@
         "N-1207",
         "N-2",
         "N-1213"
-      ],
+      ,
+            "N-10006"
+          ],
       "tags": [],
       "claim_timestamp": "00:04:12–00:05:52",
       "investigative_direction": "Verify TPUSA HQ visit through visitor logs, Erica Kirk's public statements, and corroborating witnesses."
@@ -1064,7 +1084,9 @@
         "N-1213",
         "N-1",
         "N-2"
-      ],
+      ,
+            "N-10006"
+          ],
       "tags": [],
       "claim_timestamp": "00:03:25–00:04:59",
       "investigative_direction": "Catalogue all Candace Owens public statements and shown evidence; evaluate the \"no evidence\" characterization against documented artifacts."
@@ -1081,7 +1103,9 @@
       "related_nodes": [
         "N-1207",
         "N-1210"
-      ],
+      ,
+            "N-10006"
+          ],
       "tags": [],
       "claim_timestamp": "00:13:00",
       "investigative_direction": "Obtain TPUSA payment records or 1099 documentation for Andrew Wilson."
@@ -1098,7 +1122,9 @@
       "related_nodes": [
         "N-1207",
         "N-1211"
-      ],
+      ,
+            "N-10006"
+          ],
       "tags": [],
       "claim_timestamp": "00:13:00",
       "investigative_direction": "Cross-reference Nef's TPUSA affiliation and prior amplification patterns."
@@ -1115,7 +1141,9 @@
       "related_nodes": [
         "N-1207",
         "N-1215"
-      ],
+      ,
+            "N-10006"
+          ],
       "tags": [],
       "claim_timestamp": "00:10:41–00:13:00",
       "investigative_direction": "Obtain full unedited debate recording to verify context and whether insults were reciprocated."

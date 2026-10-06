@@ -8,10 +8,10 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: 41edd8347eafa2d54f1596dffd5b4a9978e5e9bfc3de6ba276c5ff2b85f2e187
+- **Transcript SHA-256**: 4b6e184f626db3b6b36ff537b80ba53f94d4abe1f21b413f75e391ab5ac5370a
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-462, N-463, N-464, N-466, N-467, N-468, N-469, N-470, N-471, N-473, N-474, N-475, N-476, N-1369, N-1370, N-1371, N-1372, N-1373, N-1374, N-1375, N-1376, N-1377
+  - New Nodes Introduced: N-462, N-463, N-464, N-466, N-467, N-468, N-471, N-474, N-475, N-476, N-1369, N-1370, N-1371, N-1372, N-1373, N-1374, N-1375, N-1376, N-1377
   - Reused Nodes Appearing: N-1
   - (see registers)
 
@@ -34,7 +34,7 @@
 
 - Artifact Families Introduced: A-1480, A-1481, A-1482, A-1483, A-1484, A-1485, A-1486, A-1487, A-1488
 - Claim Range: C-1803–C-1819
-- New Person Nodes Introduced: N-462, N-463, N-464, N-465, N-466, N-467, N-468, N-469, N-470, N-471, N-85, N-473, N-474, N-475, N-476, N-43
+- New Person Nodes Introduced: N-462, N-463, N-464, N-465, N-466, N-467, N-468, N-272, N-264, N-471, N-70, N-326, N-474, N-475, N-476, N-43
 - New Investigation Target Nodes Introduced: N-1369, N-1370, N-1371, N-1372, N-1373, N-1374, N-1375, N-1376, N-1377
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:54:38–00:59:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1812, N-1, N-2, N-470*
+*Related: C-1812, N-1, N-264*
 
 ---
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:28:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1814, N-470, N-471, N-1369, N-1371*
+*Related: C-1814, N-264, N-471, N-1369, N-1371*
 
 **A-1486.2** Testimony from two TPUSA sources that the donor prospect was French American, named Pierre
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:30:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1815, N-470, N-1369*
+*Related: C-1815, N-264, N-1369*
 
 **A-1486.3** TPUSA sources identifying the donor prospect as Pierre Dupont after host mentioned the name on the prior episode
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:32:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1816, N-470, N-471, N-1369*
+*Related: C-1816, N-264, N-471, N-1369*
 
 **A-1486.4** Proof presented by a TPUSA source of a conversation in which Tyler Bowyer discussed TPUSA plans to roll out a program to build houses for first-time home buyers
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:47:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1817, N-470, N-85, N-1372*
+*Related: C-1817, N-264, N-70, N-1372, N-10002*
 
 ---
 
@@ -305,7 +305,7 @@ Investigative Pressure: Low
 
 *Related: A-1480.1, C-1808, N-467, N-1377*
 
-**N-470** Stacy Sheridan
+**N-264** Stacy Sheridan
 
 TPUSA Senior Advancement Director; brought in by Tyler Bowyer; host describes her registered agent as located at 919 North Market Street, Wilmington; relevant LLC identified by host as Cloverstone Ventures.
 
@@ -314,7 +314,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1486.1, A-1486.2, A-1486.3, A-1486.4, N-85, N-1372, N-1375*
+*Related: A-1486.1, A-1486.2, A-1486.3, A-1486.4, N-70, N-1372, N-1375, N-10002*
 
 **N-471** Tyler Bowyer's brother (unnamed)
 
@@ -325,9 +325,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-85, N-1372*
+*Related: N-70, N-1372, N-10002*
 
-**N-469** Mikey McCoy
+**N-272** Mikey McCoy
 
 Friend who joined Charlie Kirk on Maine family vacation with wife Eliza; captured final videos of Charlie per host.
 
@@ -336,9 +336,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-473, N-1*
+*Related: N-326, N-1*
 
-**N-473** Eliza McCoy
+**N-326** Eliza McCoy
 
 Wife of Mikey McCoy; joined Charlie Kirk family vacation in Maine.
 
@@ -347,7 +347,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-469, N-1*
+*Related: N-272, N-1*
 
 **N-476** Bill Aman
 
@@ -369,7 +369,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1486.1, A-1486.2, A-1486.3, C-1815, C-1816, N-470*
+*Related: A-1486.1, A-1486.2, A-1486.3, C-1815, C-1816, N-264*
 
 **N-1370** TPUSA Egyptian Plane Story Suppression Attempt
 
@@ -402,7 +402,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1486.4, C-1817, N-470, N-471, N-85*
+*Related: A-1486.4, C-1817, N-264, N-471, N-70, N-10002*
 
 **N-1373** BB Net/Yahoo Offer to TPUSA
 
@@ -435,7 +435,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-470*
+*Related: N-264*
 
 **N-1376** Andrew Kolvet "Lost Millions" Tip Verification
 
@@ -467,7 +467,16 @@ Investigative Pressure: Medium
 
 Referenced extensively throughout episode; subject of multiple artifact-anchored claims (April 2018 text, date outfit text, BB decline alleged).
 
-*Related: A-1481.1, A-1482.1, A-1484.1, C-1809, C-1810, N-469, N-473*
+*Related: A-1481.1, A-1482.1, A-1484.1, C-1809, C-1810, N-272, N-326*
+
+---
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-1817, C-1819*
 
 ---
 
@@ -635,7 +644,7 @@ Claim: Six people at Turning Point USA reported that Justin Strife placed an imm
 
 Anchored Artifacts: A-1486.1
 
-Related Nodes: N-470, N-471, N-43, N-1369, N-1371, N-476
+Related Nodes: N-264, N-471, N-43, N-1369, N-1371, N-476
 
 Investigative Direction: Obtain phone records or sworn statements from the named TPUSA sources to identify the called party.
 
@@ -649,7 +658,7 @@ Claim: Two TPUSA sources told host the donor prospect was French American and na
 
 Anchored Artifacts: A-1486.2
 
-Related Nodes: N-470, N-471, N-1369
+Related Nodes: N-264, N-471, N-1369
 
 Investigative Direction: Obtain the underlying communications with the named TPUSA sources.
 
@@ -663,7 +672,7 @@ Claim: After host mentioned "Pierre Dupont" on Episode 38, the same TPUSA source
 
 Anchored Artifacts: A-1486.3
 
-Related Nodes: N-470, N-471, N-1369
+Related Nodes: N-264, N-471, N-1369
 
 Investigative Direction: Verify Pierre Dupont's existence and donor relationship through TPUSA's IRS Form 990 filings and donor disclosures.
 
@@ -677,7 +686,7 @@ Claim: A TPUSA source presented proof that Tyler Bowyer was telling people TPUSA
 
 Anchored Artifacts: A-1486.4
 
-Related Nodes: N-470, N-471, N-85, N-1372
+Related Nodes: N-264, N-471, N-70, N-1372, N-10002
 
 Investigative Direction: Obtain the supporting proof documentation and any internal TPUSA planning materials.
 

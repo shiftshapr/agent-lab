@@ -112,7 +112,7 @@
           "related_nodes": [
             "N-109",
             "N-69",
-            "N-106",
+            "N-84",
             "N-1115",
             "N-1123"
           ],
@@ -298,8 +298,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host; investigator of the Kirk assassination and subject of the PBD Bowling contradiction.",
@@ -373,9 +373,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-106",
-      "ref": "N-106",
-      "name": "Lance",
+      "@id": "N-84",
+      "ref": "N-84",
+      "name": "Lance Twigs",
       "type": "person",
       "description": "Robinson's alleged housemate/co-respondent in the text-message thread.",
       "related_artifacts": [],
@@ -1183,7 +1183,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-69",
-        "N-106",
+        "N-84",
         "N-1114"
       ],
       "tags": [],
@@ -1202,7 +1202,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-69",
-        "N-106",
+        "N-84",
         "N-1114"
       ],
       "tags": [],
@@ -1314,7 +1314,7 @@
       ],
       "related_nodes": [
         "N-107",
-        "N-7",
+        "N-3",
         "N-1124",
         "N-1000",
         "N-1121",
@@ -1340,7 +1340,7 @@
       ],
       "related_nodes": [
         "N-66",
-        "N-7",
+        "N-3",
         "N-1",
         "N-1092",
         "N-1121"
@@ -1453,7 +1453,7 @@
       "claim": "Candace Owens states that she went on tour with Turning Point USA on college campuses the previous year, contradicting Bowling's claim that she has not spoken at TPUSA events.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1000"
       ],
       "tags": [],
@@ -1473,7 +1473,7 @@
       "claim": "Candace Owens states she was not invited to speak at the Kirk memorial event held in Arizona, and that the event was effectively an open memorial.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-2",
         "N-1122"
       ],
@@ -1491,7 +1491,7 @@
       "claim": "Locals emailed the host stating that any footage they possessed was sent to federal authorities who then pressured them not to release it publicly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1120",
         "N-1129"
       ],
@@ -1533,7 +1533,7 @@
       ],
       "related_nodes": [
         "N-107",
-        "N-7",
+        "N-3",
         "N-50",
         "N-42",
         "N-1000",
@@ -1560,7 +1560,7 @@
         {
           "episode": 5,
           "video_timestamp": "01:13:34",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "the evil of this world, the evil that we are fighting. And we are only going to conquer this evil through truth.",
           "context": "Closing monologue; ritualised naming of an unseen malevolent force.",
           "confidence": "high",
@@ -1571,7 +1571,7 @@
         {
           "episode": 5,
           "video_timestamp": "01:09:00",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "Principalities, rulers in dark places. The Bible tells us this and it is correct.",
           "context": "Religious framing of the unseen power structure.",
           "confidence": "high",
@@ -1591,7 +1591,7 @@
         {
           "episode": 5,
           "video_timestamp": "00:57:04",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "Breit Mcronone comes out and says they have offered scientific evidence to the US court to prove that Breijit is a woman.",
           "context": "Host mocks Brigitte Macron's legal team invoking 'scientific proof' in an early-stage suit.",
           "confidence": "high",
@@ -1663,7 +1663,7 @@
         {
           "episode": 5,
           "video_timestamp": "00:54:09",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "Why would I ask to be a part like like this is obviously Erika is in like full control?",
           "context": "Host speculates Erika Kirk is being directed by donors / White House on memorial planning.",
           "confidence": "medium",

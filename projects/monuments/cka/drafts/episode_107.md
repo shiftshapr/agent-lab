@@ -223,7 +223,7 @@ Claim Timestamp: 00:01:24
 Claim: Episode presents that Victor Marx was the first to publicly announce Charlie Kirk's passing via Instagram, approximately 1.5 hours before the U.S. president's announcement.
 Transcript Snippet: first that we could find to publicly announce that Charlie Kirk had passed away on September 10th
 Anchored Artifacts: ART_1.1
-Related Nodes: N-1017, N-1017, N-23, N-21, N-25
+Related Nodes: N-1017, N-23, N-21, N-25
 Investigative Direction: Verify Instagram timestamp via archived captures; cross-check against family notification logs.
 
 ---
@@ -317,7 +317,7 @@ Investigative Direction: Obtain certified DD-214 to verify service length and da
 Claim Timestamp: 00:42:11
 Claim: Victor Marx confirms he prayed for Charlie Kirk and three other people at Turning Point USA HQ offices.
 Anchored Artifacts: ART_6.1
-Related Nodes: N-1017, N-1017, N-1018
+Related Nodes: N-1017, N-1018
 Investigative Direction: Verify with Turning Point USA personnel and any session records or correspondence.
 
 ---
@@ -338,7 +338,7 @@ Claim Timestamp: 00:46:02
 Claim: Victor Marx states he watched the Charlie Kirk shooting video once and knew instantly Kirk would not survive, based on prior combat experience.
 Transcript Snippet: Charlie wouldn't live from that…there's no way he could have survived that
 Anchored Artifacts: ART_6.1
-Related Nodes: N-1017, N-1017, N-23
+Related Nodes: N-1017, N-23
 Investigative Direction: Reconcile timeline of when Marx actually viewed the video relative to announcement timing.
 
 ---

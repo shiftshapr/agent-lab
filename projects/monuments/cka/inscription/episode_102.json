@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 102,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -85,7 +85,7 @@
             "C-2886"
           ],
           "related_nodes": [
-            "N-85",
+            "N-70",
             "N-2065"
           ],
           "tags": [],
@@ -1178,7 +1178,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1207",
-        "N-85",
+        "N-70",
         "N-1209",
         "N-1210"
       ]
@@ -1217,9 +1217,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-85",
-      "ref": "N-85",
-      "name": "Governor Cox",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
       "related_artifacts": [],
@@ -1231,7 +1231,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10002",
+        "ref": "N-10002",
+        "name": "Tyler Bowyer",
+        "type": "person",
+        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -1279,10 +1295,12 @@
         "A-2064.1"
       ],
       "related_nodes": [
-        "N-85",
+        "N-70",
         "N-1207",
         "N-2065"
-      ],
+      ,
+            "N-10002"
+          ],
       "tags": [],
       "claim_timestamp": "00:02:41",
       "investigative_direction": "Verify the original X post and any subsequent posts by Bowyer; cross-reference his stated history of false rumors."

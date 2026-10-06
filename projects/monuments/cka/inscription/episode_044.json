@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 44,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -57,7 +57,7 @@
           ],
           "related_nodes": [
             "N-516",
-            "N-517",
+            "N-424",
             "N-518",
             "N-1397"
           ],
@@ -197,7 +197,7 @@
             "C-1892"
           ],
           "related_nodes": [
-            "N-521",
+            "N-500",
             "N-1401"
           ],
           "tags": [],
@@ -225,7 +225,7 @@
             "C-1894"
           ],
           "related_nodes": [
-            "N-521",
+            "N-500",
             "N-522",
             "N-523",
             "N-524",
@@ -257,7 +257,7 @@
             "C-1896"
           ],
           "related_nodes": [
-            "N-520"
+            "N-426"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -304,8 +304,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-517",
-      "ref": "N-517",
+      "@id": "N-424",
+      "ref": "N-424",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Allegedly identified by Harry Meyers exiting the JTF-SB meeting at Fort Huachuca on September 9, 2025. Host later references this identification in connection with Charlie Kirk's assassination coverage.",
@@ -328,7 +328,7 @@
       "@type": "Person",
       "@id": "N-518",
       "ref": "N-518",
-      "name": "\"Captain Nef\"",
+      "name": "Captain Adam Nef",
       "type": "person",
       "description": "Military officer (Captain) identified by Harry Meyers as the lead interrogator during the 7-hour detention at Fort Huachuca on September 9, 2025. Described as ~36 years old, brown hair, commander of force protection. Spelling of surname as heard by Harry; uncertain.",
       "related_artifacts": [
@@ -351,9 +351,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-519",
-      "ref": "N-519",
-      "name": "Blake Nef",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
       "type": "person",
       "description": "Referenced by host as a potential relative (brother/cousin) of \"Captain Nef\" (N-518). Host speculates Blake Nef may have a military background despite public role as a producer of the Charlie Kirk show. Relationship unverified.",
       "related_artifacts": [],
@@ -369,8 +369,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-520",
-      "ref": "N-520",
+      "@id": "N-426",
+      "ref": "N-426",
       "name": "Tim Pool",
       "type": "person",
       "description": "Independent commentator featured in audio clip played on the show; subject of host's commentary criticizing his conduct toward her.",
@@ -389,8 +389,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-521",
-      "ref": "N-521",
+      "@id": "N-500",
+      "ref": "N-500",
       "name": "Arcadi Gaydamak",
       "type": "person",
       "description": "Russian-born, Israeli-French businessman identified in prior series episodes in connection with Angola Gate. Reported by host as recently sentenced in absentia for trafficking weapons. Allegedly living in Nashville under alias per seven viewer emails.",
@@ -433,7 +433,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-521",
+        "N-500",
         "N-1401"
       ]
     },
@@ -555,7 +555,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-516",
-        "N-517",
+        "N-424",
         "N-518"
       ]
     },
@@ -626,7 +626,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-517",
+        "N-424",
         "N-1397"
       ]
     },
@@ -651,7 +651,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-521",
+        "N-500",
         "N-522"
       ]
     },
@@ -817,7 +817,7 @@
       ],
       "related_nodes": [
         "N-516",
-        "N-517",
+        "N-424",
         "N-1400"
       ],
       "tags": [],
@@ -837,7 +837,7 @@
         "N-516",
         "N-518",
         "N-1397",
-        "N-519"
+        "N-224"
       ],
       "tags": [],
       "claim_timestamp": "00:22:18–00:24:56",
@@ -871,7 +871,7 @@
         "A-1522.1"
       ],
       "related_nodes": [
-        "N-521"
+        "N-500"
       ],
       "tags": [],
       "claim_timestamp": "00:35:20–00:36:24",
@@ -887,7 +887,7 @@
         "A-1522.1"
       ],
       "related_nodes": [
-        "N-521"
+        "N-500"
       ],
       "tags": [],
       "claim_timestamp": "00:35:20–00:36:24",
@@ -903,7 +903,7 @@
         "A-1523.1"
       ],
       "related_nodes": [
-        "N-521",
+        "N-500",
         "N-522",
         "N-1401"
       ],
@@ -942,7 +942,7 @@
         "A-1524.1"
       ],
       "related_nodes": [
-        "N-520"
+        "N-426"
       ],
       "tags": [],
       "claim_timestamp": "00:42:41–00:44:11",
@@ -958,7 +958,7 @@
         "A-1524.1"
       ],
       "related_nodes": [
-        "N-520"
+        "N-426"
       ],
       "tags": [],
       "claim_timestamp": "00:43:32–00:44:11",

@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 23,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-300",
+            "N-45",
             "N-302",
             "N-1273"
           ],
@@ -51,7 +51,7 @@
             "C-1545"
           ],
           "related_nodes": [
-            "N-300",
+            "N-45",
             "N-302",
             "N-1273"
           ],
@@ -71,7 +71,7 @@
             "C-1545"
           ],
           "related_nodes": [
-            "N-300",
+            "N-45",
             "N-302",
             "N-1273"
           ],
@@ -93,7 +93,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-301",
+            "N-272",
             "N-1273",
             "N-1277"
           ],
@@ -219,7 +219,7 @@
             "C-1546"
           ],
           "related_nodes": [
-            "N-300",
+            "N-45",
             "N-302",
             "N-1274"
           ],
@@ -306,7 +306,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-301",
+            "N-272",
             "N-1277"
           ],
           "tags": [],
@@ -333,7 +333,7 @@
             "C-1547"
           ],
           "related_nodes": [
-            "N-301",
+            "N-272",
             "N-1278"
           ],
           "tags": [],
@@ -459,7 +459,7 @@
             "C-1565"
           ],
           "related_nodes": [
-            "N-300",
+            "N-45",
             "N-302",
             "N-1275"
           ],
@@ -507,9 +507,9 @@
             "C-1566"
           ],
           "related_nodes": [
-            "N-300",
+            "N-45",
             "N-302",
-            "N-306",
+            "N-97",
             "N-1275",
             "N-1276"
           ],
@@ -593,7 +593,7 @@
             "C-1556"
           ],
           "related_nodes": [
-            "N-300",
+            "N-45",
             "N-1279"
           ],
           "tags": [],
@@ -621,7 +621,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-307",
+            "N-65",
             "N-1275"
           ],
           "tags": [],
@@ -650,7 +650,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-304",
+            "N-50",
             "N-1275"
           ],
           "tags": [],
@@ -723,8 +723,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-300",
-      "ref": "N-300",
+      "@id": "N-45",
+      "ref": "N-45",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Co-chair of TPUSA Faith per host; identified by host as Charlie's pastor; host links him to the Borderline Bar and Grill shooting community (Thousand Oaks, CA) and to Sean Feucht.",
@@ -753,8 +753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-301",
-      "ref": "N-301",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Promoted to Chief of Staff of TPUSA on January 3, 2024 per host's referenced internal email; host reports TPUSA insiders describe him as positioned to take over from Charlie Kirk.",
@@ -801,15 +801,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-300",
+        "N-45",
         "N-1275",
         "N-1280"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-304",
-      "ref": "N-304",
+      "@id": "N-50",
+      "ref": "N-50",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Speaker at TPUSA conference July 11, 2025, referencing Epstein, Israel, foreign military service, and Bill Ackman; per host, told by Charlie to \"go hard at Israel.\"",
@@ -832,9 +832,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-305",
-      "ref": "N-305",
-      "name": "Andrew Kolb",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Cited by host as someone who can confirm Netanyahu's offer to fund TPUSA.",
       "related_artifacts": [],
@@ -848,15 +848,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-307",
+        "N-65",
         "N-1275"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-306",
-      "ref": "N-306",
-      "name": "Village Crazy Lady (Melissa)",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Village Crazy Lady",
       "type": "person",
       "description": "X user (handle @VillageCrazyLady) conducting NAR / TPUSA Faith research; recommended by host as a follow.",
       "related_artifacts": [
@@ -877,9 +877,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-307",
-      "ref": "N-307",
-      "name": "Bibi Netanyahu",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Israeli Prime Minister; per host and a referenced public statement, claimed he invited Charlie Kirk to Israel ~2 weeks before the assassination; per host, offered to fund TPUSA \"to the next level.\"",
       "related_artifacts": [
@@ -896,7 +896,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-305",
+        "N-42",
         "N-1275"
       ]
     },
@@ -997,7 +997,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-300",
+        "N-45",
         "N-302",
         "N-310"
       ]
@@ -1062,12 +1062,12 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-300",
+        "N-45",
         "N-302",
-        "N-85",
-        "N-304",
-        "N-305",
-        "N-307",
+        "N-70",
+        "N-50",
+        "N-42",
+        "N-65",
         "N-309",
         "N-1276",
         "N-1278"
@@ -1093,7 +1093,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-302",
-        "N-306",
+        "N-97",
         "N-1275"
       ]
     },
@@ -1120,7 +1120,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-301"
+        "N-272"
       ]
     },
     {
@@ -1143,7 +1143,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-301",
+        "N-272",
         "N-1275",
         "N-1280"
       ]
@@ -1167,8 +1167,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-300",
-        "N-85"
+        "N-45",
+        "N-70"
       ]
     },
     {
@@ -1199,9 +1199,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-85",
-      "ref": "N-85",
-      "name": "Governor Cox",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
       "related_artifacts": [],
@@ -1213,7 +1213,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10002",
+        "ref": "N-10002",
+        "name": "Tyler Bowyer",
+        "type": "person",
+        "description": "Person Tyler Bowyer (N-10002).",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -1234,7 +1250,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-300",
+        "N-45",
         "N-302",
         "N-310",
         "N-1273"
@@ -1274,7 +1290,7 @@
         "A-1304.1"
       ],
       "related_nodes": [
-        "N-301",
+        "N-272",
         "N-1278"
       ],
       "tags": [],
@@ -1292,7 +1308,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-301",
+        "N-272",
         "N-1277"
       ],
       "tags": [],
@@ -1430,7 +1446,7 @@
         "A-1310.1"
       ],
       "related_nodes": [
-        "N-300",
+        "N-45",
         "N-1279"
       ],
       "tags": [],
@@ -1448,7 +1464,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-307",
+        "N-65",
         "N-1275"
       ],
       "tags": [],
@@ -1483,7 +1499,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-304",
+        "N-50",
         "N-1275"
       ],
       "tags": [],
@@ -1501,8 +1517,8 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-304",
-        "N-85",
+        "N-50",
+        "N-70",
         "N-1275"
       ],
       "tags": [],
@@ -1538,8 +1554,8 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-305",
-        "N-307",
+        "N-42",
+        "N-65",
         "N-1275"
       ],
       "tags": [],
@@ -1592,7 +1608,7 @@
         "A-1306.5"
       ],
       "related_nodes": [
-        "N-300",
+        "N-45",
         "N-302",
         "N-1",
         "N-1275"
@@ -1609,7 +1625,7 @@
       "claim": "The host states that Rob McCoy \"says, 'I was his pastor,'\" and characterizes Rob McCoy's pattern of proximity to mass-shooting events as suspect.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-300",
+        "N-45",
         "N-1279"
       ],
       "tags": [],

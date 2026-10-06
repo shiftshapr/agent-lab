@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 32,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -46,7 +46,7 @@
           ],
           "related_nodes": [
             "N-392",
-            "N-393",
+            "N-335",
             "N-394"
           ],
           "tags": [],
@@ -383,7 +383,7 @@
             "C-1712"
           ],
           "related_nodes": [
-            "N-403",
+            "N-382",
             "N-1"
           ],
           "tags": [],
@@ -410,7 +410,7 @@
             "C-1713"
           ],
           "related_nodes": [
-            "N-404",
+            "N-349",
             "N-2"
           ],
           "tags": [],
@@ -436,7 +436,7 @@
             "C-1714"
           ],
           "related_nodes": [
-            "N-404",
+            "N-349",
             "N-2"
           ],
           "tags": [],
@@ -520,8 +520,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-393",
-      "ref": "N-393",
+      "@id": "N-335",
+      "ref": "N-335",
       "name": "Brett Cooper",
       "type": "person",
       "description": "Host/creator of independent commentary show; source of two audio segments read aloud describing Lou Taylor and Britney Spears conservatorship details.",
@@ -748,8 +748,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-403",
-      "ref": "N-403",
+      "@id": "N-382",
+      "ref": "N-382",
       "name": "Butch Hibbs",
       "type": "person",
       "description": "Brother of Jack Hibbs; alleged by host to have been in the bush at Kirk event prior to shooting and to have lingered at scene post-shooting during media interviews.",
@@ -771,9 +771,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-404",
-      "ref": "N-404",
-      "name": "Ali Stucky",
+      "@id": "N-349",
+      "ref": "N-349",
+      "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Subject of Daily Mail and Wall Street Journal headlines framing her as TPUSA \"heir\" or \"heir apparent.\" Host disputes framing on air.",
       "related_artifacts": [
@@ -868,7 +868,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-402",
-        "N-403",
+        "N-382",
         "N-1"
       ]
     },
@@ -1201,7 +1201,7 @@
       ],
       "related_nodes": [
         "N-1321",
-        "N-403",
+        "N-382",
         "N-1"
       ],
       "tags": [],
@@ -1249,7 +1249,7 @@
         "A-1411.1"
       ],
       "related_nodes": [
-        "N-403",
+        "N-382",
         "N-1"
       ],
       "tags": [],
@@ -1266,7 +1266,7 @@
         "A-1412.1"
       ],
       "related_nodes": [
-        "N-404",
+        "N-349",
         "N-2"
       ],
       "tags": [],
@@ -1283,7 +1283,7 @@
         "A-1413.1"
       ],
       "related_nodes": [
-        "N-404",
+        "N-349",
         "N-2"
       ],
       "tags": [],

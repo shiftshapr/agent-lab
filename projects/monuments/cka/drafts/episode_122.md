@@ -342,7 +342,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2107.1, C-2976, N-1207, N-1211, N-85, N-1219*
+*Related: A-2107.1, C-2976, N-1207, N-1211, N-70, N-1219, N-10002*
 
 **N-2096** Next Model Management / MC2 Trafficking Connection to Erica Kirk
 
@@ -420,6 +420,15 @@ Episode Count: 1
 Investigative Pressure: Low (interpretive framing)
 
 *Related: A-2108.1, C-2978, N-1217*
+
+---
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: prose mention in episode*
 
 ---
 

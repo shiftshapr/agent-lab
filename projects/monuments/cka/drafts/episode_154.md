@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2330, N-2331, N-2332, N-2333, N-2334, N-2335, N-2336
-  - Reused Nodes Appearing: N-1, N-1031, N-4, N-5, N-6, N-2275, N-2276, N-2277, N-2278, N-2279
+  - Reused Nodes Appearing: N-1031, N-4, N-5, N-6, N-2275, N-2276, N-2277, N-2278, N-2279
 
 ---
 
@@ -32,7 +32,7 @@
 - **Artifact Families Introduced:** A-2393, A-2394, A-2395, A-2396, A-2397, A-2398, A-2399, A-2400, A-2401, A-2402, A-2403, A-2404
 - **Claim Range:** C-3494–C-3512
 - **New Nodes Introduced:** N-2330, N-2331, N-2332, N-2333, N-2334, N-2335, N-2336
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-1031 (Erica Kirk), N-7 (Candace Owens), N-4 (Andrew Kolvet (variant spellings: Kovette/Kovat/Kovatte)), N-5 (Tucker Carlson), N-6 (Blake Neff (variant: Nef) — actual ledger IDs to be verified against global ledger), N-2275 (Mike Mitchell Public Record Anomaly), N-2276 (Brooksby Suicide Narrative Discrepancy), N-2277 (Robinson Apartment Staging Allegation), N-2278 (Phil Lyman Proximity and Behavior Investigation), N-2279 (UVU Campus Familiarity Question)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-1031 (Erica Kirk), N-3 (Candace Owens), N-4 (Andrew Kolvet (variant spellings: Kovette/Kovat/Kovatte)), N-5 (Tucker Carlson), N-6 (Blake Neff (variant: Nef) — actual ledger IDs to be verified against global ledger), N-2275 (Mike Mitchell Public Record Anomaly), N-2276 (Brooksby Suicide Narrative Discrepancy), N-2277 (Robinson Apartment Staging Allegation), N-2278 (Phil Lyman Proximity and Behavior Investigation), N-2279 (UVU Campus Familiarity Question)
 
 ---
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:13:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3497, N-1031, N-7, N-4, N-2332*
+*Related: C-3497, N-1031, N-3, N-4, N-2332*
 
 ---
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:17:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3498, A-2394.1, A-2395.1, N-1031, N-7, N-2332*
+*Related: C-3498, A-2394.1, A-2395.1, N-1031, N-3, N-2332*
 
 ---
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:30:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3499, N-1, N-1031, N-2331*
+*Related: C-3499, N-1031, N-2331*
 
 ---
 
@@ -258,7 +258,7 @@ Video Timestamp: 00:21:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3500, N-1031, N-7, N-4, N-2331*
+*Related: C-3500, N-1031, N-3, N-4, N-2331*
 
 **A-2403.2** Andrew Kolvet X reply: "Wrong again. Students were free to opt out. Three students did. So over 500 chose to attend. Nothing was forced."
 
@@ -387,7 +387,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2397.1, A-2398.1, A-2399.1, A-2403.1, A-2403.2, A-2403.4, C-3499, C-3500, C-3501, C-3502, N-1, N-1031, N-4*
+*Related: A-2397.1, A-2398.1, A-2399.1, A-2403.1, A-2403.2, A-2403.4, C-3499, C-3500, C-3501, C-3502, N-1031, N-4*
 
 ---
 
@@ -400,7 +400,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2394.1, A-2395.1, A-2396.1, C-3497, C-3498, N-1031, N-7, N-4*
+*Related: A-2394.1, A-2395.1, A-2396.1, C-3497, C-3498, N-1031, N-3, N-4*
 
 ---
 
@@ -453,6 +453,15 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-2402.1, A-2402.2, A-2402.3, A-2402.4, A-2402.5, A-2402.6, C-3508, C-3509, N-2275, N-2276, N-2334*
+
+---
+
+**N-10012** Brian Cole Jr.
+
+Node Type: Person
+Man federal authorities present as the January 6 pipe-bomb suspect. Host argues the confession was coerced.
+
+*Related: C-3512*
 
 ---
 
@@ -510,7 +519,7 @@ Claim: A November 12–13, 2019 text thread shows Andrew Kolvet forwarding to Ca
 
 Anchored Artifacts: A-2394.1
 
-Related Nodes: N-1031, N-7, N-4, N-2332
+Related Nodes: N-1031, N-3, N-4, N-2332
 
 Investigative Direction: Authenticate the text screenshot metadata; verify whether "E" was in fact Erika Frantzve at that time; cross-check against Kolvet's recent public statements on the same feud narrative.
 
@@ -524,7 +533,7 @@ Claim: The 4plebs post allegedly found by "E" and cited via the Vox article refe
 
 Anchored Artifacts: A-2395.1, A-2396.1
 
-Related Nodes: N-7, N-4, N-2332
+Related Nodes: N-3, N-4, N-2332
 
 Investigative Direction: Obtain the 4plebs post URL and archived timestamp; verify content alignment; verify whether the Vox article actually linked to this post or only to the broader 4plebs forum.
 
@@ -538,7 +547,7 @@ Claim: In his Aspen donors presentation, Charlie Kirk described the Club America
 
 Anchored Artifacts: A-2397.1
 
-Related Nodes: N-1, N-1031, N-2331
+Related Nodes: N-1031, N-2331
 
 Investigative Direction: Obtain full audio/presentation recording; verify against any written strategic plans; cross-check against current TPUSA Club America implementation.
 
@@ -722,7 +731,7 @@ Claim: Candace concurs with the @Koko Rose observation that footage of Tyler Rob
 
 Anchored Artifacts: A-2404.2
 
-Related Nodes: N-1
+Related Nodes: N-10012
 
 Investigative Direction: Obtain Utah news reporting on precinct footage handling; verify the Brian Cole Jr. footage attribution.
 

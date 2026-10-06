@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: 9c5eaae09f60b1222748149513f2956bb4921fb32cb85837a09931b9ec7b9bff
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-6, N-201, N-202, N-203, N-204, N-205, N-206, N-207, N-208, N-1224, N-1225, N-1226, N-1227
+  - New Nodes Introduced: N-6, N-202, N-203, N-204, N-205, N-206, N-207, N-208, N-1224, N-1225, N-1226, N-1227
   - Reused Nodes Appearing: 
 - Channel / creator: @RealCandaceO · Candace Owens
 - Episode date: 2025-10-02
@@ -25,9 +25,9 @@
 
 Artifact Families Introduced: A-1209, A-1210, A-1211, A-1212, A-1213, A-1214, A-1215, A-1216, A-1217, A-1218, A-1219
 Claim Range: C-1354–C-1365
-New Nodes Introduced (people): N-201, N-202, N-203, N-204, N-205, N-206, N-207, N-208
+New Nodes Introduced (people):  N-202, N-203, N-204, N-205, N-206, N-207, N-208
 New Nodes Introduced (targets): N-1224, N-1225, N-1226, N-1227
-Existing Nodes Reused: N-1 (Charlie Kirk), N-7 (Candace Owens), N-6 (Elizabeth Lane)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), N-6 (Elizabeth Lane)
 
 ---
 
@@ -57,7 +57,7 @@ Confidence Level: High (read aloud verbatim)
 
 Verbatim quote captured by host: "James Comey wrote love letters to the ADL and embedded FBI agents with them. A group that ran disgraceful ops spying on Americans. That era is over. The FBI won't partner with political fronts masquerading as watchd[ogs]."
 
-*Related: C-1354, N-201, N-206, N-1224*
+*Related: C-1354, N-102, N-206, N-1224*
 
 ---
 
@@ -247,7 +247,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:52:35
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-7 (Candace Owens)*
+*Related: N-3 (Candace Owens)*
 
 ---
 
@@ -255,7 +255,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ### People
 
-**N-201** Kash Patel
+**N-102** Kash Patel
 
 FBI Director as of episode date; subject of artifact A-1209.1 announcing end of FBI/ADL partnership.
 
@@ -387,7 +387,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1209.1, A-1210.1, A-1211.1, C-1354, C-1355, C-1357, N-201, N-202, N-206*
+*Related: A-1209.1, A-1210.1, A-1211.1, C-1354, C-1355, C-1357, N-102, N-202, N-206*
 
 ---
 
@@ -444,7 +444,7 @@ Claim: FBI Director Kash Patel posted a public statement asserting that the FBI 
 
 Anchored Artifacts: A-1209.1
 
-Related Nodes: N-201, N-206, N-1224
+Related Nodes: N-102, N-206, N-1224
 
 Investigative Direction: Verify whether subsequent FBI conduct (training, intelligence sharing, embedded personnel) actually ceased; identify the operational scope of the prior FBI-ADL relationship.
 
@@ -617,7 +617,7 @@ Investigative Direction: Verify original source (clip origin, show, date) and ch
 - **Name uncertainty:** "Emma(nuel)" witness and "Gauer" witness referenced in passing; no artifact anchor established.
 - **Transcript ambiguity:** "The FBI and the ADL had a partnership sharing intel. They were training Asians" — likely "agents" rather than "Asians"; flagged as possible transcription error.
 - **Claim failed admission test (host-only assertions, not inscribed):** Several substantive host claims — including that ADL was founded by B'nai B'rith to defend Leo Frank, that Sigmund Freud was a member of B'nai B'rith, that the Leo Frank case ended in conviction in 1913, that ADL labeled Charlie Kirk and TPUSA as extremist, that Olivia Bishop is an Orem Police Department records specialist, that Emmanuel works at Domo Incorporated, that Gauer is an Austrian software engineer, that Scott Robbins ran for Utah governor in 2024, that Phil Lyman ran for Utah governor in 2024 and featured George Zinn on his website, that Tiffany Barker is Phil Lyman's running mate and spoke to Good Morning America, that Robbie Hild has connections to the Cayman Islands and Spain, that Marjorie Taylor Greene has been "very loud" against Epstein-files non-disclosure, that Israel is committing an "international crime" before host's eyes — are not artifact-anchored within this episode and have been excluded from the Claim Register.
-- **Existing-node reuse uncertainty:** Phil Lyman, Tyler Robinson, Tiffany Barker, Robbie Hild, and several others likely appear as nodes in prior episodes; this analysis assigns new IDs only where clearly first-introduced and references known prior IDs (N-1, N-7, N-6) where confident. Cross-episode reconciliation may be required.
+- **Existing-node reuse uncertainty:** Phil Lyman, Tyler Robinson, Tiffany Barker, Robbie Hild, and several others likely appear as nodes in prior episodes; this analysis assigns new IDs only where clearly first-introduced and references known prior IDs (N-1, N-3, N-6) where confident. Cross-episode reconciliation may be required.
 - **Host interpretive framing (not inscribed):** Host's characterizations of the ADL response as "BS" / "slave slop" and of the Patel announcement as "performative" / "acting" were excluded as failing the rhetoric-removal test.
 
 ---
@@ -629,7 +629,7 @@ Investigative Direction: Verify original source (clip origin, show, date) and ch
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle
-- [x] People nodes use global people ledger; new IDs start at N-201
+- [x] People nodes use global people ledger; new IDs start at N-102
 - [x] Non-person investigation targets use 1000-series; new IDs start at N-1224
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly as transcribed, with uncertainty flags where applicable

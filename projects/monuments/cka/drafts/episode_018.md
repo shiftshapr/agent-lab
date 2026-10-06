@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: 981eded19a8e9c778e179bd351be0fdb2fc90685371d2c9f8d34c238ce5cc8ce
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-246, N-247, N-248, N-249, N-251, N-252, N-253, N-254, N-1246, N-1247, N-1248, N-1249, N-1250, N-1251, N-1252, N-1253, N-1254, N-1255, N-1256
+  - New Nodes Introduced:  N-247, N-248, N-249, N-251, N-254, N-1246, N-1247, N-1248, N-1249, N-1250, N-1251, N-1252, N-1253, N-1254, N-1255, N-1256
   - Reused Nodes Appearing: 
 
 This episode advances the medical and evidentiary thread of the investigation by introducing what the host describes as multi-source verified intelligence about the trajectory of the bullet recovered from Charlie Kirk. The host reads aloud an Andrew Kolbatz tweet purporting to convey a surgeon's account of the bullet path, then asserts — as a fact-checked finding — that Charlie was shot from the front, that the bullet did not exit, and that no .30-06 projectile was logged on the death certificate.
@@ -37,7 +37,7 @@ Video Timestamp: 00:02:50–00:03:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (paraphrase read aloud; tweet itself not displayed)
 
-*Related: C-1428, C-1429, N-246, N-1246*
+*Related: C-1428, C-1429, N-42, N-1246*
 
 ---
 
@@ -163,7 +163,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-246** Andrew Kolbatz
+**N-42** Andrew Kolvet
 
 Social media commentator who posted a long tweet recounting a conversation with a surgeon who worked on Charlie.
 
@@ -202,7 +202,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-249** Dr. Deidra Weiss Amaro
+**N-249** Deidra Weiss Amaro
 
 Utah State Medical Examiner as of May 2024, per host's research; reportedly from Missouri with prior California work.
 
@@ -228,7 +228,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-252** Matt Walsh
+**N-228** Matt Walsh
 
 Commentator whose reaction to the released Josh Hammer / Charlie Kirk text exchange is read/played.
 
@@ -241,7 +241,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-253** Ghislaine Maxwell (presumed prior node, reused)
+**N-76** Ghislaine Maxwell
 
 Referenced as Derek Maxwell's wife and as having co-run a beauty company later sold.
 
@@ -254,7 +254,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-254** Jared Kushner (presumed prior node, reused)
+**N-254** Jared Kushner
 
 Featured via Harvard speech clip regarding Gaza's "waterfront property."
 
@@ -276,7 +276,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1251.1, A-1254.1, C-1425, C-1426, C-1427, N-246, N-248*
+*Related: A-1251.1, A-1254.1, C-1425, C-1426, C-1427, N-42, N-248*
 
 ---
 
@@ -354,7 +354,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1448, C-1449, C-1450, C-1451, C-1452, C-1453, C-1454, N-251, N-253*
+*Related: C-1448, C-1449, C-1450, C-1451, C-1452, C-1453, C-1454, N-251, N-76*
 
 ---
 
@@ -367,7 +367,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1256.1, C-1455, C-1456, N-42, N-252*
+*Related: A-1256.1, C-1455, C-1456, N-42, N-228*
 
 ---
 
@@ -410,6 +410,15 @@ Investigative Pressure: Medium
 
 ---
 
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-1444*
+
+---
+
 ## 5. Claim Register
 
 **C-1425** Front Shot, No Exit
@@ -419,7 +428,7 @@ Claim Timestamp: 00:03:37
 Claim: Charlie Kirk was shot from the front, and the bullet did not exit his neck, as verified by the host from multiple sources.
 
 Anchored Artifacts: A-1251.1
-Related Nodes: N-1246, N-246
+Related Nodes: N-1246, N-42
 Investigative Direction: Obtain autopsy / medical examiner records and forensic bullet trajectory report to verify entry-side determination.
 
 ---
@@ -431,7 +440,7 @@ Claim Timestamp: 00:05:03
 Claim: A bullet fragment was recovered from Charlie's neck, in line with the shoulder blade near the spine.
 
 Anchored Artifacts: A-1251.1
-Related Nodes: N-1246, N-246
+Related Nodes: N-1246, N-42
 Investigative Direction: Compare against autopsy report and forensic pathology images for exact fragment location.
 
 ---
@@ -443,7 +452,7 @@ Claim Timestamp: 00:06:02
 Claim: Charlie Kirk's death certificate does not reflect a recovered .30-06 bullet, indicating that caliber was not recovered from his body.
 
 Anchored Artifacts: A-1251.1
-Related Nodes: N-1246, N-246
+Related Nodes: N-1246, N-42
 Investigative Direction: Obtain a certified copy of the death certificate and the medical examiner's full report.
 
 ---
@@ -455,7 +464,7 @@ Claim Timestamp: 00:02:50
 Claim: Andrew Kolbatz posted a tweet claiming to relay a conversation with the surgeon who worked on Charlie, describing the bullet as having been stopped by Charlie's bone density.
 
 Anchored Artifacts: A-1251.1
-Related Nodes: N-246, N-1246
+Related Nodes: N-42, N-1246
 Investigative Direction: Locate original Kolbatz tweet and verify direct quotes and publication date.
 
 ---
@@ -467,7 +476,7 @@ Claim Timestamp: 00:03:01
 Claim: Per Kolbatz's account, the surgeon stated the bullet should have exited, that people behind Charlie could have been killed, and characterized the outcome as "an absolute miracle."
 
 Anchored Artifacts: A-1251.1
-Related Nodes: N-246, N-1246
+Related Nodes: N-42, N-1246
 Investigative Direction: Identify the named surgeon (if given) and confirm statement through independent medical record review.
 
 ---
@@ -647,7 +656,7 @@ Claim Timestamp: 00:32:52
 Claim: The lawyer Caldera Engineering used in its early trademark filings in Arizona was the same lawyer introduced to the host by Tyler Bowyer of Turning Point USA.
 
 Anchored Artifacts: (host-stated based on legal records review; primary filing not displayed — see Optional Flags)
-Related Nodes: N-1250
+Related Nodes: N-1250, N-10002
 Investigative Direction: Pull Arizona trademark filings and confirm attorney of record.
 
 ---
@@ -695,7 +704,7 @@ Claim Timestamp: 00:39:09
 Claim: A second plane (with "888" in identification per host) is associated with Derek Maxwell, who the host identifies as Ghislaine Maxwell's husband and as having sold a beauty company.
 
 Anchored Artifacts: (host-stated — see Optional Flags)
-Related Nodes: N-1252, N-251, N-253
+Related Nodes: N-1252, N-251, N-76
 Investigative Direction: Verify aircraft registration, ownership, and any link to Derek/Ghislaine Maxwell.
 
 ---
@@ -827,7 +836,7 @@ Claim Timestamp: 00:53:09
 Claim: Matt Walsh commented that Charlie Kirk's text about leaving the pro-Israel cause felt "too on the nose" to be authentic, suggesting Charlie had been pushed to that statement.
 
 Anchored Artifacts: A-1259.1
-Related Nodes: N-252, N-1253
+Related Nodes: N-228, N-1253
 Investigative Direction: Verify clip source and full Matt Walsh segment.
 
 ---
@@ -839,7 +848,7 @@ Claim Timestamp: 00:10:16
 Claim: Andrew Kolbatz was not the man in the viral push video; he flew into Utah after the shooting and was not on the ground.
 
 Anchored Artifacts: A-1252.1
-Related Nodes: N-246, N-247
+Related Nodes: N-42, N-247
 Investigative Direction: Verify Kolbatz's travel timeline via receipts or communications.
 
 ---

@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: b7672eebc7c5ab411aa950afd3d3a2a493c93fe1cc77ff7576fff21c34e89159
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-405, N-406, N-407, N-408, N-409, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
+  - New Nodes Introduced:  N-406, N-407, N-408, N-409, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
   - Reused Nodes Appearing: 
-  N-85
+  N-70
 
 ---
 
@@ -36,8 +36,8 @@
 
 - **Artifact Families Introduced:** A-1415, A-1416, A-1417, A-1418, A-1419, A-1420, A-1421, A-1422, A-1423, A-1424
 - **Claim Range:** C-1716 – C-1734
-- **New Nodes Introduced:** N-405, N-406, N-407, N-408, N-409, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk — preserved as Erika per transcript), N-3 (Candace Owens), N-404 (Tucker Carlson, assumed prior), N-85 (Governor Cox)
+- **New Nodes Introduced:** , N-406, N-407, N-408, N-409, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk — preserved as Erika per transcript), N-3 (Candace Owens), N-349 (Tucker Carlson, assumed prior), N-70 (Governor Cox)
 
 ---
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:02:22–00:03:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1716, N-405, N-3*
+*Related: C-1716, N-45, N-3*
 
 ---
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:37:29–00:40:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1729, C-1731, N-2, N-1325, N-85*
+*Related: C-1729, C-1731, N-2, N-1325, N-70*
 
 **A-1420.3** "Wolves and Finance" video clip discussing Baker Tilly audit opinion letter covering Turning Point USA and affiliates
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:41:11–00:42:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1730, N-85, N-412, N-1325*
+*Related: C-1730, N-70, N-412, N-1325*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:26:19–00:27:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1725, N-1, N-1326*
+*Related: C-1725, N-1326*
 
 ---
 
@@ -267,7 +267,7 @@ Confidence Level: Low (verbal reference; no displayed artifact)
 
 ### People
 
-**N-405** Rob McCoy
+**N-45** Rob McCoy
 
 Pastor referenced in host's clip critique; associated by host with "naval psychological intelligence." Matters because his public call against post-assassination questioning is being framed by the host as part of a coordinated psychological response.
 
@@ -358,7 +358,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-413** "Mommy Sleuth" (Anonymous Contributor)
+**N-413** Mommy Sleuth (Nellie)
 
 Pseudonymous contributor referenced by host as the source of the 15-hour research identifying Erika-tracking overlap pattern. Identity protected by host.
 
@@ -408,7 +408,7 @@ Claim Count: 4
 Episode Count: 1 (this episode)
 Investigative Pressure: High
 
-*Related: A-1420.1, A-1420.2, A-1420.3, C-1728, C-1729, C-1730, C-1731, C-1732, N-2, N-85, N-412*
+*Related: A-1420.1, A-1420.2, A-1420.3, C-1728, C-1729, C-1730, C-1731, C-1732, N-2, N-70, N-412*
 
 ---
 
@@ -474,7 +474,7 @@ Claim: Rob McCoy, in a recorded clip played during the episode, read Romans 12:1
 
 Anchored Artifacts: A-1415.1
 
-Related Nodes: N-405, N-3
+Related Nodes: N-45, N-3
 
 Investigative Direction: Verify the clip source, date, and full context; cross-check McCoy's public statements against any subsequent commentary.
 
@@ -585,7 +585,7 @@ Claim Timestamp: 00:23:51–00:25:54
 Claim: Host states that Andrew Kovat, while in the hospital on September 10, told her that there was a "credible threat" against her and Tucker Carlson and advised them to lay low, and that no federal agency has since contacted her directly about the threat.
 
 Anchored Artifacts: A-1424 (verbal reference; no displayed artifact)
-Related Nodes: N-1, N-2, N-404 (assumed), N-1329, N-414
+Related Nodes: N-1, N-2, N-349 (assumed), N-1329, N-414
 
 Investigative Direction: Obtain corroborating testimony from Andrew Kovat, Tucker Carlson, or hospital records; determine which agency allegedly originated the threat warning.
 
@@ -599,7 +599,7 @@ Claim: Host reports that tail N560TW departed Scottsdale, Arizona on September 1
 
 Anchored Artifacts: A-1422.1
 
-Related Nodes: N-1, N-1326
+Related Nodes: N-1326
 
 Investigative Direction: Independently verify the N560TW flight track via FAA or ADSB records; identify passengers via manifest if obtainable.
 
@@ -641,7 +641,7 @@ Claim: "Wolves and Finance" YouTube video asserts that for fiscal year 2024, the
 
 Anchored Artifacts: A-1420.1
 
-Related Nodes: N-2, N-85, N-1325
+Related Nodes: N-2, N-70, N-1325
 
 Investigative Direction: Verify directly against IRS Tax-Exempt Organization Search; confirm filing status and any subsequent late filings.
 
@@ -669,7 +669,7 @@ Claim: "Wolves and Finance" video asserts that the decision not to file three of
 
 Anchored Artifacts: A-1420.1, A-1420.3
 
-Related Nodes: N-1, N-2, N-85, N-412, N-1325
+Related Nodes: N-1, N-2, N-70, N-412, N-1325
 
 Investigative Direction: Obtain dated documentation of Charlie Kirk's audit request and COO appointment; cross-reference against IRS filing deadline.
 

@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 66587d7a4421da88738bff5bc6b5a63723d99c10368f6539b5cddd00de9e63f1
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-791, N-792, N-793, N-1514, N-1515, N-1516
-  - Reused Nodes Appearing: N-1, N-1008
+  - New Nodes Introduced:  N-792, N-793, N-1514, N-1515, N-1516
+  - Reused Nodes Appearing: N-1008
   - (see registers)
 
 # Episode 63 — Analysis Record
@@ -34,9 +34,9 @@
 Episode 63 Ledger Summary:
 - Artifact Families Introduced: A-1676, A-1677, A-1678, A-1679, A-1680, A-1681, A-1682, A-1683, A-1684, A-1685
 - Claim Range: C-2194–C-2205
-- New Person Nodes Introduced: N-791, N-792, N-793
+- New Person Nodes Introduced: N-724, N-792, N-793
 - New Investigation Target Nodes Introduced: N-1514, N-1515, N-1516
-- Existing Nodes Reused: N-1, N-1008
+- Existing Nodes Reused: N-1008
 
 ---
 
@@ -106,7 +106,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:27:32
 
-*Related: C-2202, N-791, N-1*
+*Related: C-2202, N-724, N-1*
 
 ---
 
@@ -192,7 +192,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:53:45
 
-*Related: C-2203, N-1, N-1008*
+*Related: C-2203, N-1008*
 
 **A-1685.2** Comment from "Becca" — "When Erika talks, she is so boring. She has not had that special thing that Charlie had … She is unlikable on the surface because she acts elite. Goodbye, Turning Point USA."
 
@@ -256,7 +256,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:52:26
 
-*Related: N-1, N-1008*
+*Related: N-1008*
 
 **A-1685.10** Comment from "Maria Rits / Jolly Valley girl" — "Hey Jolly Valley girl tone excited to be discussing business numbers and goals is super cringe and weird."
 
@@ -297,7 +297,7 @@ Episode Count: 1 (this episode; cumulative higher)
 Investigative Pressure: High
 *Related: A-1676.1, A-1676.2, A-1676.3, A-1679.1, A-1685.1, A-1685.2, A-1685.5, A-1685.9, A-1685.10, A-1685.11, C-2194, C-2195, C-2196, C-2197, C-2198, C-2199, C-2200, C-2205, N-1514, N-1515*
 
-**N-791** Bill Montgomery
+**N-724** Bill Montgomery
 
 Co-founder of Turning Point USA per the Atlantic article (A-1678.1); described by host as Air Force reserves, from Lincoln, Nebraska, and connected to Helen Barts and the founding of Creative Children's Academy.
 
@@ -430,7 +430,7 @@ Investigative Direction: Authenticate the text via metadata (date, device, recip
 Claim Timestamp: 00:27:32
 Claim: The episode presents an Atlantic article excerpt (quoting a National Journal source) reporting Bill Montgomery met Charlie Kirk at Benedictine University in the western Chicago suburb during a youth government day in May 2012 and that TPUSA launched a month later with Montgomery's encouragement.
 Anchored Artifacts: A-1678.1
-Related Nodes: N-791, N-1
+Related Nodes: N-724, N-1
 Investigative Direction: Locate the full Atlantic article; cross-check Bill Montgomery's Air Force service record and his post-2012 role; investigate any alternative TPUSA origin narratives.
 
 **C-2203** Christian Zionist threat message identified as authored by Lorie Cardardoza Moore via audio matching

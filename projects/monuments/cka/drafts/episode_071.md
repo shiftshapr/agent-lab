@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 97c9fdd97666fe21235e0b78f317b571904b8f5954ceecd3a37e07ce8587fefb
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-906, N-907, N-908, N-909, N-910, N-1568, N-1569, N-1570, N-1571
+  - New Nodes Introduced:  N-907, N-908, N-909, N-910, N-1568, N-1569, N-1570, N-1571
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -37,7 +37,7 @@ Artifact Families Introduced: A-1750, A-1751, A-1752, A-1753, A-1754, A-1755, A-
 
 Claim Range: C-2326–C-2350
 
-New Nodes Introduced: N-906, N-907, N-908, N-909, N-910, N-1568, N-1569, N-1570, N-1571
+New Nodes Introduced:  N-907, N-908, N-909, N-910, N-1568, N-1569, N-1570, N-1571
 
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:24:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2340, C-2341, N-906, N-908, N-1569*
+*Related: C-2340, C-2341, N-890, N-908, N-1569*
 
 **A-1760** Religious Liberty Commission Hearing Bundle
 
@@ -217,7 +217,7 @@ Video Timestamp: 00:17:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2347, N-1570*
+*Related: C-2347, N-1570, N-10002*
 
 **A-1762** Comments Section Read Bundle
 
@@ -235,7 +235,7 @@ Confidence Level: High
 
 ## IV. Node Register
 
-**N-906** Tracy Martin
+**N-890** Tracy Martin
 
 Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.
 
@@ -255,7 +255,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1757.1, A-1757.2, A-1758.1, C-2336, C-2337, C-2338, C-2339, N-906, N-1568*
+*Related: A-1757.1, A-1757.2, A-1758.1, C-2336, C-2337, C-2338, C-2339, N-890, N-1568*
 
 **N-908** Tracy Martin's Daughter (Unnamed)
 
@@ -266,7 +266,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1759.1, C-2340, C-2341, N-906, N-2, N-1569*
+*Related: A-1759.1, C-2340, C-2341, N-890, N-2, N-1569*
 
 **N-909** Carrie Prejean Bowler
 
@@ -299,7 +299,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1757.1, A-1757.2, A-1758.1, C-2336, C-2337, C-2338, C-2339, N-906, N-907*
+*Related: A-1757.1, A-1757.2, A-1758.1, C-2336, C-2337, C-2338, C-2339, N-890, N-907*
 
 **N-1569** Tracy's Daughter Erika Assistant Status Verification
 
@@ -310,7 +310,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1759.1, C-2340, C-2341, N-906, N-908, N-2*
+*Related: A-1759.1, C-2340, C-2341, N-890, N-908, N-2*
 
 **N-1570** TPUSA Halftime Viewership Authenticity
 
@@ -333,6 +333,15 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-1760.1, C-2343, C-2344, C-2345, N-909*
+
+---
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-2347*
 
 ---
 
@@ -542,7 +551,7 @@ Claim: Per Tracy Martin's text messages from September 11, Tracy's daughter (all
 
 Anchored Artifacts: A-1759.1
 
-Related Nodes: N-906, N-908, N-1569, N-2
+Related Nodes: N-890, N-908, N-1569, N-2
 
 Investigative Direction: Authenticate text messages; verify daughter's attendance plans through UVU records or eyewitnesses.
 
@@ -556,7 +565,7 @@ Claim: Per Tracy Martin's text messages, Tracy had a "bad feeling" about Septemb
 
 Anchored Artifacts: A-1759.1
 
-Related Nodes: N-906, N-908, N-1569
+Related Nodes: N-890, N-908, N-1569
 
 Investigative Direction: Authenticate text messages; cross-reference with daughter's subsequent statements or activities.
 
@@ -640,7 +649,7 @@ Claim: Tyler Bowyer tweeted that TPUSA ended up with "one of the largest YouTube
 
 Anchored Artifacts: A-1761.1
 
-Related Nodes: N-1570
+Related Nodes: N-1570, N-10002
 
 Investigative Direction: Archive the original tweet and any associated image; verify whether it remains public.
 
@@ -707,7 +716,7 @@ Investigative Direction: Verify through any other public statements from Charlie
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-906 onward)
+- [x] People nodes use the global people ledger (N-890 onward)
 - [x] Non-person investigation targets use the 1000 series (N-1568 onward)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly or uncertainty flagged

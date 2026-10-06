@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 122,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -549,7 +549,7 @@
       "related_nodes": [
         "N-1207",
         "N-1211",
-        "N-85",
+        "N-70",
         "N-1219"
       ]
     },
@@ -720,9 +720,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-85",
-      "ref": "N-85",
-      "name": "Governor Cox",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
       "related_artifacts": [],
@@ -734,7 +734,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10002",
+        "ref": "N-10002",
+        "name": "Tyler Bowyer",
+        "type": "person",
+        "description": "Person Tyler Bowyer (N-10002).",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",

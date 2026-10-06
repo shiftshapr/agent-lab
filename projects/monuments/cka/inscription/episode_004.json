@@ -222,7 +222,7 @@
             "C-1179"
           ],
           "related_nodes": [
-            "N-101"
+            "N-70"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -239,7 +239,7 @@
             "C-1182"
           ],
           "related_nodes": [
-            "N-101"
+            "N-70"
           ],
           "tags": [],
           "event_timestamp": "2025-09-12",
@@ -256,7 +256,7 @@
             "C-1181"
           ],
           "related_nodes": [
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "2025-09-12",
@@ -316,7 +316,7 @@
             "C-1183"
           ],
           "related_nodes": [
-            "N-101"
+            "N-70"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -423,7 +423,7 @@
           "related_nodes": [
             "N-45",
             "N-1",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "2026-03-17",
@@ -474,7 +474,7 @@
             "C-1183"
           ],
           "related_nodes": [
-            "N-101",
+            "N-70",
             "N-69"
           ],
           "tags": [],
@@ -576,8 +576,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host; presenter of analysis and source of alleged insider claims.",
@@ -633,9 +633,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-101",
-      "ref": "N-101",
-      "name": "Governor Spencer Cox",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
       "type": "person",
       "description": "Utah governor; press conference source for outfit consistency claim; subject of host's 'mouthpiece' criticism.",
       "related_artifacts": [
@@ -805,8 +805,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-105",
-      "ref": "N-105",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Seth Dillon",
       "type": "person",
       "description": "Babylon Bee CEO cited as pressuring Charlie to disinvite Candace.",
@@ -1251,7 +1251,7 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-101",
+        "N-70",
         "N-1107",
         "N-1111"
       ],
@@ -1322,10 +1322,10 @@
         "N-50",
         "N-75",
         "N-104",
-        "N-105",
+        "N-67",
         "N-86",
         "N-1112",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:58:39",
@@ -1345,7 +1345,7 @@
         {
           "episode": 4,
           "video_timestamp": "01:22:31",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "like his wife said, evildoers evildoers have done some things",
           "context": "Candace quoting Erika Kirk while vowing to continue investigating despite mourning-period pushback.",
           "confidence": "high",
@@ -1365,7 +1365,7 @@
         {
           "episode": 4,
           "video_timestamp": "01:03:47",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "it takes a truly demonic spirit… to flip in one second after he dies and say, 'Pretend it never happened.'",
           "context": "Candace describing donors/eulogizers who she claims pressured Charlie before his death.",
           "confidence": "high",
@@ -1396,7 +1396,7 @@
         {
           "episode": 4,
           "video_timestamp": "00:15:32",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "That is why I am now a confirmed conspiracy theorist on this.",
           "context": "Candace self-labeling after noting the alleged 'changed outfits' language in texts.",
           "confidence": "high",
@@ -1407,7 +1407,7 @@
         {
           "episode": 4,
           "video_timestamp": "01:16:01",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "I feel like this is a conspiracy, a federal level conspiracy",
           "context": "Reasserting conspiracy framing against pastor's plea to stop investigating.",
           "confidence": "high",
@@ -1427,7 +1427,7 @@
         {
           "episode": 4,
           "video_timestamp": "01:13:55",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "this is exactly what Charlie's pastor passed around… Charlie's pastor couldn't find his voice when BBNet and Yahoo was lying about Charlie",
           "context": "Candace accuses Rob McCoy of selectively using pastoral authority against her rather than against Netanyahu critics.",
           "confidence": "high",

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: aad9b594be730478a8051e834c8dd3ae3c76a0895b472f75831b8b225046f268
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-451, N-452, N-453, N-454, N-455, N-456, N-457, N-458, N-459, N-460, N-461, N-1354, N-1355, N-1356, N-1357, N-1358, N-1359, N-1360, N-1361, N-1362, N-1363, N-1364, N-1365, N-1366, N-1367, N-1368
+  - New Nodes Introduced: N-451, N-453, N-454, N-455, N-456, N-457, N-458, N-459, N-460, N-461, N-1354, N-1355, N-1356, N-1357, N-1358, N-1359, N-1360, N-1361, N-1362, N-1363, N-1364, N-1365, N-1366, N-1367, N-1368
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -285,7 +285,7 @@ Video Timestamp: 00:47:39–00:48:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1800, N-451, N-452*
+*Related: C-1800, N-451, N-88*
 
 ---
 
@@ -398,7 +398,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-452** Patrick Bet-David
+**N-88** Patrick Bet-David
 
 Host of PBD Podcast; platform through which Sosnick segment was aired.
 
@@ -966,7 +966,7 @@ Claim Timestamp: 00:47:39
 Claim: On Patrick Bet-David's podcast, Adam Sosnick stated that Candace Owens has burned bridges with Turning Point USA, the Daily Wire, PragerU, Charlie Kirk, and Steven Crowder, and cannot be defended by named public figures.
 
 Anchored Artifacts: A-1473.1
-Related Nodes: N-451, N-452
+Related Nodes: N-451, N-88
 Investigative Direction: Obtain the full podcast segment; assess whether Sosnick's bridge-burning claims are factually substantiated; verify named relationships with past colleagues.
 
 ---

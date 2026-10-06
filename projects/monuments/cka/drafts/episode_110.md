@@ -58,7 +58,7 @@ Video Timestamp: 00:21:00–00:22:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2911, C-2913, C-2923, C-2930, C-2931, C-2932, C-2933, C-2934, N-1207, N-1208, N-1211, N-1213, N-1214, N-1218, N-2066, N-2067, N-2068*
+*Related: C-2911, C-2913, C-2923, C-2930, C-2931, C-2932, C-2933, C-2934, N-1207, N-1208, N-1211, N-1213, N-1214, N-1218, N-2066, N-2067, N-2068, N-10014*
 
 **A-2076.2** Host's internal working timeline graphic (displayed on-screen, June–September 2025)
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:46:40–00:47:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (comment-sourced reference; primary X account not displayed)
 
-*Related: C-2927, N-1219*
+*Related: C-2927, N-1219, N-10014*
 
 ---
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:31:40–00:32:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (host acknowledges no independent confirmation)
 
-*Related: C-2929, N-1, N-2, N-2073*
+*Related: C-2929, N-1, N-2073*
 
 ---
 
@@ -382,7 +382,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2081.1, C-2925, N-1221*
+*Related: A-2081.1, C-2925, N-1221, N-10014*
 
 ---
 
@@ -526,6 +526,15 @@ Episode Count: 1
 Investigative Pressure: High
 
 *Related: A-2084.1, C-2929*
+
+---
+
+**N-10014** Mitt Romney
+
+Node Type: Person
+Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.
+
+*Related: C-2925, C-2927, C-2930, C-2931*
 
 ---
 
@@ -763,7 +772,7 @@ Claim: Per NYT article, on June 16, 1968, Mitt Romney was driving a car in south
 
 Anchored Artifacts: A-2081.1
 
-Related Nodes: N-1219, N-1220, N-1221
+Related Nodes: N-1219, N-1220, N-1221, N-10014
 
 Investigative Direction: Cross-check NYT article with contemporaneous French press; verify date.
 
@@ -791,7 +800,7 @@ Claim: Per viewer comment read on-air and host concurrence, Mitt Romney operated
 
 Anchored Artifacts: A-2082.1
 
-Related Nodes: N-1219
+Related Nodes: N-1219, N-10014
 
 Investigative Direction: Locate the @PierreDeleto account or its archived screenshots; cross-reference with prior reporting on Romney's French-language social media activity.
 
@@ -805,7 +814,7 @@ Claim: Per host's displayed working timeline, on June 19 — the second day Char
 
 Anchored Artifacts: A-2076.2
 
-Related Nodes: N-2, N-2072
+Related Nodes: N-2072
 
 Investigative Direction: Obtain archived screenshots of Erika Kirk's Instagram account as of June 18–19, 2025.
 
@@ -819,7 +828,7 @@ Claim: Per local news in Utah cited by host, Turning Point USA submitted on July
 
 Anchored Artifacts: A-2084.1
 
-Related Nodes: N-1, N-2, N-2073
+Related Nodes: N-1, N-2073
 
 Investigative Direction: Obtain the actual UVU event submission paperwork; identify the requesting student organization.
 
@@ -833,7 +842,7 @@ Claim: Per host (recapping prior episodes) and per the on-screen connection grap
 
 Anchored Artifacts: A-2076.1
 
-Related Nodes: N-1207, N-1218, N-2066
+Related Nodes: N-1207, N-1218, N-2066, N-10014
 
 Investigative Direction: Verify BCG employment for both Romney and Netanyahu via BCG alumni directories or independent reporting.
 
@@ -847,7 +856,7 @@ Claim: Per host (recapping prior episodes), Mitt Romney founded Bain Capital wit
 
 Anchored Artifacts: A-2076.1
 
-Related Nodes: N-1218, N-2066
+Related Nodes: N-1218, N-2066, N-10014
 
 Investigative Direction: Verify Bain Capital founding investors list; cross-check Robert Maxwell investment history.
 

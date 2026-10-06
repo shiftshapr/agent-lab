@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2190, N-2191, N-2192
-  - Reused Nodes Appearing: N-1, N-1025, N-1207
+  - Reused Nodes Appearing: N-1025, N-1207
   - (see registers)
 
 # Episode 140 — Analysis Record
@@ -34,7 +34,7 @@
   - Artifact Families Introduced: A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
   - Claim Range: C-3260–C-3274
   - New People Nodes Introduced: N-1207
-  - Existing Nodes Reused: N-1, N-1025, N-7 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
+  - Existing Nodes Reused: N-1025, N-3 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
   - New Investigation Target Nodes: N-2190, N-2191, N-2192
 
 ---
@@ -205,7 +205,7 @@ Video Timestamp: 00:39:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3272, Andrew Wilson node, Rachel Wilson (referenced)*
+*Related: C-3272, Andrew Wilson node, Rachel Wilson (referenced), N-10006*
 
 ---
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:51:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: Andrew Wilson node*
+*Related: Andrew Wilson node, N-10006*
 
 **A-2275.4** Patricia Pelly comment: praise for Candace
 
@@ -241,7 +241,7 @@ Video Timestamp: 00:52:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: N-7 (Candace)*
+*Related: N-3 (Candace)*
 
 **A-2275.5** Impala comment: reference to Tyler Robinson dorm-room photo with phone outline in right pocket, supporting right-handedness
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:55:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: N-7 (Candace)*
+*Related: N-3 (Candace)*
 
 ---
 
@@ -368,6 +368,15 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-2267.2, A-2267.4 (right-pocket outline per Impala), A-2269.1, A-2275.5, C-3260, C-3265, C-3275, Tyler Robinson node, Lance Twigs node*
+
+---
+
+**N-10006** Andrew Wilson
+
+Node Type: Person
+Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
+
+*Related: C-3272, C-3276*
 
 ---
 
@@ -523,7 +532,7 @@ Claim: A tweet-counter account shows that "No Soup For You" sent 4,040 tweets ab
 
 Anchored Artifacts: A-2273.3
 
-Related Nodes: N-1207, N-7 (Candace)
+Related Nodes: N-1207, N-3 (Candace)
 
 Investigative Direction: Obtain the underlying tweet-counter screenshot and verify date range and account identifier.
 
@@ -537,7 +546,7 @@ Claim: The host states she sent 104 tweets about Erica Kirk in the same 11-month
 
 Anchored Artifacts: A-2273.3
 
-Related Nodes: N-1025, N-7 (Candace), N-1207
+Related Nodes: N-1025, N-3 (Candace), N-1207
 
 Investigative Direction: Obtain the tweet-counter output and verify both figures and their date ranges.
 
@@ -551,7 +560,7 @@ Claim: In a prior debate clip, Andrew Wilson exited to smoke and his wife Rachel
 
 Anchored Artifacts: A-2274.1
 
-Related Nodes: Andrew Wilson node, Rachel Wilson (referenced)
+Related Nodes: Andrew Wilson node, Rachel Wilson (referenced), N-10006
 
 Investigative Direction: Obtain the full debate recording and date; verify whether this was a sanctioned call-in.
 
@@ -622,7 +631,7 @@ Investigative Direction: Not directly verifiable; relevant only as documented rh
 - Every artifact has a Related line.
 - Every node has a Related line.
 - No episode-wide artifact bundle exists.
-- People nodes use the global people ledger (N-1, N-1025, N-7, N-1207, plus reused existing character nodes).
+- People nodes use the global people ledger (N-1025, N-3, N-1207, plus reused existing character nodes).
 - Non-person investigation targets use the 1000+ range (N-2190, N-2191, N-2192).
 - No speculative claims inscribed as evidence-backed claims; rhetorical framing (e.g., the Dane Cook analogy) is captured as a claim with explicit "analog" wording rather than as evidentiary fact.
 - Names preserved exactly as appearing in transcript (e.g., "No Soup For Noels," "Lance Twigs," "Britta Widener").
@@ -650,4 +659,4 @@ A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
 
 **New Investigation Target Nodes:** N-2190, N-2191, N-2192
 
-**Existing Nodes Reused:** N-1, N-1025, N-7 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
+**Existing Nodes Reused:** N-1025, N-3 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node

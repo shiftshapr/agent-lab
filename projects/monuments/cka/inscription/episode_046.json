@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 46,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -31,7 +31,7 @@
             "C-1922"
           ],
           "related_nodes": [
-            "N-529",
+            "N-444",
             "N-2",
             "N-3",
             "N-1405"
@@ -52,7 +52,7 @@
             "C-1912"
           ],
           "related_nodes": [
-            "N-529",
+            "N-444",
             "N-2",
             "N-3"
           ],
@@ -110,7 +110,7 @@
           ],
           "related_nodes": [
             "N-537",
-            "N-529",
+            "N-444",
             "N-1405"
           ],
           "tags": [],
@@ -137,7 +137,7 @@
             "C-1913"
           ],
           "related_nodes": [
-            "N-530",
+            "N-364",
             "N-2"
           ],
           "tags": [],
@@ -156,7 +156,7 @@
             "C-1917"
           ],
           "related_nodes": [
-            "N-530",
+            "N-364",
             "N-2"
           ],
           "tags": [],
@@ -175,7 +175,7 @@
             "C-1914"
           ],
           "related_nodes": [
-            "N-530",
+            "N-364",
             "N-2"
           ],
           "tags": [],
@@ -229,7 +229,7 @@
             "C-1919"
           ],
           "related_nodes": [
-            "N-532",
+            "N-349",
             "N-3"
           ],
           "tags": [],
@@ -248,7 +248,7 @@
             "C-1921"
           ],
           "related_nodes": [
-            "N-532",
+            "N-349",
             "N-3"
           ],
           "tags": [],
@@ -275,10 +275,10 @@
             "C-1920"
           ],
           "related_nodes": [
-            "N-532",
-            "N-533",
-            "N-534",
-            "N-535",
+            "N-349",
+            "N-135",
+            "N-350",
+            "N-133",
             "N-42"
           ],
           "tags": [],
@@ -320,8 +320,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-529",
-      "ref": "N-529",
+      "@id": "N-444",
+      "ref": "N-444",
       "name": "Bari Weiss",
       "type": "person",
       "description": "CBS News editor/chief who moderated the Erika Kirk town hall; subject of host's pre-recording allegation and audience-member sourcing claims. Material to investigation of town-hall production integrity.",
@@ -345,8 +345,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-530",
-      "ref": "N-530",
+      "@id": "N-364",
+      "ref": "N-364",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Blaze TV host who interviewed Erika Kirk immediately after CBS town hall; framed \"the truth is very clear\" question and the jury-pool education framing.",
@@ -371,9 +371,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-532",
-      "ref": "N-532",
-      "name": "AllieBeth Stuckey",
+      "@id": "N-349",
+      "ref": "N-349",
+      "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Daily Wire host and public critic of Candace Owens; subject of artifact-anchored Instagram post (A-1536.1), Instagram comment (A-1536.2), and show clip (A-1537.1) defending named figures against the host's accusations.",
       "related_artifacts": [
@@ -397,8 +397,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-533",
-      "ref": "N-533",
+      "@id": "N-135",
+      "ref": "N-135",
       "name": "Alex Clark",
       "type": "person",
       "description": "Podcaster named by host and defended by AllieBeth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.",
@@ -414,13 +414,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-532"
+        "N-349"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-534",
-      "ref": "N-534",
+      "@id": "N-350",
+      "ref": "N-350",
       "name": "Lila Rose",
       "type": "person",
       "description": "Live Action founder; subject of AllieBeth Stuckey defense (A-1537.1) and host's prior accusation regarding military connections.",
@@ -436,13 +436,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-532"
+        "N-349"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-535",
-      "ref": "N-535",
+      "@id": "N-133",
+      "ref": "N-133",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Commentator defended by AllieBeth Stuckey (A-1537.1) and subject of host's prior accusation of lying about lack of issues with Charlie Kirk.",
@@ -458,7 +458,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-532"
+        "N-349"
       ]
     },
     {
@@ -478,7 +478,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-529",
+        "N-444",
         "N-1405"
       ]
     },
@@ -523,7 +523,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-529",
+        "N-444",
         "N-537"
       ]
     },
@@ -603,7 +603,7 @@
       "@type": "Person",
       "@id": "N-3",
       "ref": "N-3",
-      "name": "Candace Owens — host; existing node reused.",
+      "name": "Candace Owens",
       "type": "person",
       "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
       "related_artifacts": [],
@@ -662,7 +662,7 @@
       "related_nodes": [
         "N-2",
         "N-3",
-        "N-529"
+        "N-444"
       ],
       "tags": [],
       "claim_timestamp": "00:07:58",
@@ -679,7 +679,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-530"
+        "N-364"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
@@ -696,7 +696,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-530"
+        "N-364"
       ],
       "tags": [],
       "claim_timestamp": "00:19:20",
@@ -711,7 +711,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-2",
-        "N-530"
+        "N-364"
       ],
       "tags": [],
       "claim_timestamp": "00:23:04",
@@ -728,7 +728,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-530"
+        "N-364"
       ],
       "tags": [],
       "claim_timestamp": "00:23:04",
@@ -745,7 +745,7 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-530"
+        "N-364"
       ],
       "tags": [],
       "claim_timestamp": "00:19:20",
@@ -778,7 +778,7 @@
         "A-1536.1"
       ],
       "related_nodes": [
-        "N-532",
+        "N-349",
         "N-3"
       ],
       "tags": [],
@@ -795,10 +795,10 @@
         "A-1537.1"
       ],
       "related_nodes": [
-        "N-532",
-        "N-533",
-        "N-534",
-        "N-535",
+        "N-349",
+        "N-135",
+        "N-350",
+        "N-133",
         "N-42"
       ],
       "tags": [],
@@ -815,7 +815,7 @@
         "A-1536.2"
       ],
       "related_nodes": [
-        "N-532",
+        "N-349",
         "N-3"
       ],
       "tags": [],
@@ -832,7 +832,7 @@
         "A-1533.1"
       ],
       "related_nodes": [
-        "N-529",
+        "N-444",
         "N-537",
         "N-1405"
       ],

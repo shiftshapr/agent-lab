@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 62,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -106,7 +106,7 @@
           ],
           "related_nodes": [
             "N-783",
-            "N-784",
+            "N-639",
             "N-785",
             "N-786",
             "N-1511",
@@ -129,7 +129,7 @@
           ],
           "related_nodes": [
             "N-783",
-            "N-784",
+            "N-639",
             "N-1511"
           ],
           "tags": [],
@@ -184,7 +184,7 @@
             "C-2188"
           ],
           "related_nodes": [
-            "N-85"
+            "N-70"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -212,7 +212,7 @@
             "C-2191"
           ],
           "related_nodes": [
-            "N-788",
+            "N-42",
             "N-790",
             "N-1510"
           ],
@@ -240,7 +240,7 @@
             "C-2192"
           ],
           "related_nodes": [
-            "N-788",
+            "N-42",
             "N-789",
             "N-1510"
           ],
@@ -343,7 +343,7 @@
       "@type": "Person",
       "@id": "N-783",
       "ref": "N-783",
-      "name": "Lori Frantzve (a.k.a. \"Lorin Frantzve\" in Desert Spirit Tech filing)",
+      "name": "Lori Frantzve",
       "type": "person",
       "description": "Erica Kirk's mother; 20% stakeholder of record in Desert Spirit Tech LLC; co-filer of Euro Tech in Cincinnati, Ohio.",
       "related_artifacts": [
@@ -359,7 +359,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-784",
+        "N-639",
         "N-1007",
         "N-1511",
         "N-1512"
@@ -367,9 +367,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-784",
-      "ref": "N-784",
-      "name": "Larry Guinta (referred to as \"Larry Lawrence Guinta\")",
+      "@id": "N-639",
+      "ref": "N-639",
+      "name": "Larry Guinta",
       "type": "person",
       "description": "Erica Kirk's stepfather; listed as stakeholder and registered agent of Desert Spirit Tech LLC.",
       "related_artifacts": [
@@ -442,8 +442,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-788",
-      "ref": "N-788",
+      "@id": "N-42",
+      "ref": "N-42",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA figure who confronted employee regarding Uber-driver conversation per A-1675.1.",
@@ -468,7 +468,7 @@
       "@type": "Person",
       "@id": "N-789",
       "ref": "N-789",
-      "name": "Marina Minas",
+      "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Named by host as employee involved in Uber-driver conversation and as participant in the fake-Zoom termination setup per A-1675.2.",
       "related_artifacts": [
@@ -560,7 +560,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1007",
-        "N-788",
+        "N-42",
         "N-789",
         "N-790"
       ]
@@ -587,7 +587,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-783",
-        "N-784",
+        "N-639",
         "N-785"
       ]
     },
@@ -636,9 +636,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-85",
-      "ref": "N-85",
-      "name": "Governor Cox",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
       "related_artifacts": [],
@@ -650,7 +650,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10002",
+        "ref": "N-10002",
+        "name": "Tyler Bowyer",
+        "type": "person",
+        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -731,7 +747,7 @@
       ],
       "related_nodes": [
         "N-783",
-        "N-784",
+        "N-639",
         "N-785",
         "N-786",
         "N-1511",
@@ -752,7 +768,7 @@
       ],
       "related_nodes": [
         "N-783",
-        "N-784",
+        "N-639",
         "N-1511"
       ],
       "tags": [],
@@ -769,8 +785,10 @@
         "A-1673.1"
       ],
       "related_nodes": [
-        "N-85"
-      ],
+        "N-70"
+      ,
+            "N-10002"
+          ],
       "tags": [],
       "claim_timestamp": "00:21:30",
       "investigative_direction": "Retrieve the original post from X/Twitter (including any deletions or edits) and identify which \"background\" Bowyer was referencing."
@@ -785,7 +803,7 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-788",
+        "N-42",
         "N-790",
         "N-1510"
       ],
@@ -837,7 +855,7 @@
         "A-1675.1"
       ],
       "related_nodes": [
-        "N-788",
+        "N-42",
         "N-789",
         "N-1510"
       ],

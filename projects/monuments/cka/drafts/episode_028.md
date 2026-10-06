@@ -32,7 +32,7 @@
 
 - Artifact Families Introduced: A-1355, A-1356, A-1357, A-1358, A-1359, A-1360, A-1361, A-1362, A-1363
 - Claim Range: C-1636 – C-1651
-  - New Nodes Introduced: N-360, N-361, N-362, N-1306, N-1307, N-1308
+  - New Nodes Introduced: N-360, N-362, N-1306, N-1307, N-1308
   - Reused Nodes Appearing: 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Candace Owens), N-3 (Erika Kirk), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boring, Marjorie Taylor Greene, Eric Trump, Laura Trump, Ron Paul, Seth Dylan (node IDs to be reconciled against full ledger)
 
@@ -96,7 +96,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:06:24–00:08:57
 Confidence Level: High (audio played on air)
-*Related: C-1636, N-Tucker Carlson (existing), N-Marjorie Taylor Greene (existing), N-Zohran Mamdani (N-361)*
+*Related: C-1636, N-Tucker Carlson (existing), N-Marjorie Taylor Greene (existing), N-Zohran Mamdani (N-340)*
 
 ---
 
@@ -213,7 +213,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-361** Zohran Mamdani
+**N-340** Zohran Mamdani
 
 NYC Democratic mayoral primary winner referenced in Tucker Carlson and Ben Shapiro stage discussions; relevant as the named political figure in the Mamdani-coverage dispute between Shapiro and Carlson.
 
@@ -291,7 +291,7 @@ Claim: On the Megyn Kelly tour stage in Florida, Ben Shapiro stated that Tucker 
 
 Anchored Artifacts: A-1356.1, A-1356.2
 
-Related Nodes: N-Ben Shapiro (existing), N-Tucker Carlson (existing), N-Zohran Mamdani (N-361), N-Megyn Kelly (existing)
+Related Nodes: N-Ben Shapiro (existing), N-Tucker Carlson (existing), N-Zohran Mamdani (N-340), N-Megyn Kelly (existing)
 
 Investigative Direction: Obtain transcripts/recordings of the cited Carlson and Shapiro shows to verify the cited counts and whether Mamdani was mentioned substantively or in passing.
 
@@ -513,7 +513,7 @@ Investigative Direction: Confirm the interview date against CNN's published inte
 - **A-1361.1**: Event Timestamp "2024" not specific to month/day; requires human verification of exact YWLS event date.
 - **A-1362.1**: Event Timestamp described as "a couple of days after Charlie was killed" — actual broadcast date requires confirmation via CNN records.
 - **N-362**: Name uncertainty — only first name "Ariana" given; full name and spelling unverified.
-- **N-360, N-361**: New node numbers used because figures were not previously confirmed in the available ledger context; if prior episodes already introduced these figures, the existing node IDs should be substituted upon reconciliation.
+- **N-360, N-340**: New node numbers used because figures were not previously confirmed in the available ledger context; if prior episodes already introduced these figures, the existing node IDs should be substituted upon reconciliation.
 - **A-1356.2**: Exact event date for the Tucker Carlson / Marjorie Taylor Greene stage appearance not stated; estimated as recent to upload.
 
 ---

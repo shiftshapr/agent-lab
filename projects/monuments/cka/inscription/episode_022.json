@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 22,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -59,7 +59,7 @@
             "C-1531"
           ],
           "related_nodes": [
-            "N-290",
+            "N-129",
             "N-291",
             "N-1271"
           ],
@@ -87,7 +87,7 @@
             "C-1532"
           ],
           "related_nodes": [
-            "N-292",
+            "N-50",
             "N-1270"
           ],
           "tags": [],
@@ -106,7 +106,7 @@
             "C-1533"
           ],
           "related_nodes": [
-            "N-292",
+            "N-50",
             "N-1270"
           ],
           "tags": [],
@@ -135,7 +135,7 @@
           ],
           "related_nodes": [
             "N-42",
-            "N-292",
+            "N-50",
             "N-293"
           ],
           "tags": [],
@@ -162,8 +162,8 @@
             "C-1538"
           ],
           "related_nodes": [
-            "N-295",
-            "N-292"
+            "N-67",
+            "N-50"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -189,9 +189,9 @@
             "C-1539"
           ],
           "related_nodes": [
-            "N-295",
-            "N-296",
-            "N-292",
+            "N-67",
+            "N-68",
+            "N-50",
             "N-293",
             "N-298"
           ],
@@ -211,9 +211,9 @@
             "C-1540"
           ],
           "related_nodes": [
-            "N-295",
-            "N-296",
-            "N-292",
+            "N-67",
+            "N-68",
+            "N-50",
             "N-1"
           ],
           "tags": [],
@@ -232,9 +232,9 @@
             "C-1541"
           ],
           "related_nodes": [
-            "N-295",
+            "N-67",
             "N-293",
-            "N-299"
+            "N-4"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -261,7 +261,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-292",
+            "N-50",
             "N-1272"
           ],
           "tags": [],
@@ -288,7 +288,7 @@
             "C-1536"
           ],
           "related_nodes": [
-            "N-289"
+            "N-102"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -365,7 +365,7 @@
           ],
           "related_nodes": [
             "N-42",
-            "N-292"
+            "N-50"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -380,8 +380,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-289",
-      "ref": "N-289",
+      "@id": "N-102",
+      "ref": "N-102",
       "name": "Kash Patel",
       "type": "person",
       "description": "FBI Director referenced in Daily Mail headline (A-1297.1) as having shut down a foreign intelligence probe related to Charlie Kirk's assassination. Investigative target due to executive-level decisions regarding investigative scope.",
@@ -399,8 +399,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-290",
-      "ref": "N-290",
+      "@id": "N-129",
+      "ref": "N-129",
       "name": "Derek Maxfield",
       "type": "person",
       "description": "Co-owner (with wife Shirlene Maxfield) of plane N888KG that departed Provo at 1:20 p.m. Mountain time on 9/10; issued public statement on 9/11 defending the flight's innocuousness. Investigative target for manifest verification and potential federal coordination.",
@@ -440,13 +440,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-290"
+        "N-129"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-292",
-      "ref": "N-292",
+      "@id": "N-50",
+      "ref": "N-50",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Host who interviewed Nick Fuentes; subject of a coordinated campaign (Hammer op-ed, Stop Anti-Semitism post, Seth Dillon commentary) demanding removal from TPUSA speaking lineup; mentioned by Charlie Kirk in TPUSA text chain as someone he fought to keep on the lineup.",
@@ -493,8 +493,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-295",
-      "ref": "N-295",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Seth Dillon",
       "type": "person",
       "description": "Recurring post-assassination commentator; subject of Piers Morgan interview clips (A-1295.1, A-1295.2, A-1295.3) critiquing Tucker's hosting of Fuentes. Identified in the Hampton's event as having pressured Charlie Kirk on Israel views prior to the assassination.",
@@ -516,8 +516,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-296",
-      "ref": "N-296",
+      "@id": "N-68",
+      "ref": "N-68",
       "name": "Dave Smith",
       "type": "person",
       "description": "Interviewee in Piers Morgan clips alongside Seth Dillon; subject of host framing as a truth-teller opposed to the cancellation campaign against Tucker.",
@@ -532,7 +532,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-295"
+        "N-67"
       ]
     },
     {
@@ -575,9 +575,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-299",
-      "ref": "N-299",
-      "name": "J.D. Vance",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
       "type": "person",
       "description": "Vice President; identified by Seth Dillon (A-1295.3) as a target of alleged Nick Fuentes insults (\"fat and ugly,\" \"brown family\").",
       "related_artifacts": [
@@ -665,7 +665,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-290",
+        "N-129",
         "N-291"
       ]
     },
@@ -764,7 +764,7 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-290",
+        "N-129",
         "N-1271"
       ],
       "tags": [],
@@ -781,7 +781,7 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-290",
+        "N-129",
         "N-291",
         "N-1271"
       ],
@@ -799,7 +799,7 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-290",
+        "N-129",
         "N-1271"
       ],
       "tags": [],
@@ -876,7 +876,7 @@
         "A-1297.1"
       ],
       "related_nodes": [
-        "N-289"
+        "N-102"
       ],
       "tags": [],
       "claim_timestamp": "00:21:18",
@@ -893,7 +893,7 @@
       ],
       "related_nodes": [
         "N-42",
-        "N-292",
+        "N-50",
         "N-293"
       ],
       "tags": [],
@@ -911,7 +911,7 @@
       ],
       "related_nodes": [
         "N-297",
-        "N-292"
+        "N-50"
       ],
       "tags": [],
       "claim_timestamp": "00:34:20",
@@ -927,9 +927,9 @@
         "A-1295.1"
       ],
       "related_nodes": [
-        "N-295",
-        "N-296",
-        "N-292",
+        "N-67",
+        "N-68",
+        "N-50",
         "N-293",
         "N-298"
       ],
@@ -947,9 +947,9 @@
         "A-1295.2"
       ],
       "related_nodes": [
-        "N-295",
-        "N-296",
-        "N-292",
+        "N-67",
+        "N-68",
+        "N-50",
         "N-1"
       ],
       "tags": [],
@@ -966,9 +966,9 @@
         "A-1295.3"
       ],
       "related_nodes": [
-        "N-295",
+        "N-67",
         "N-293",
-        "N-299"
+        "N-4"
       ],
       "tags": [],
       "claim_timestamp": "00:48:05",
@@ -985,7 +985,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-292",
+        "N-50",
         "N-1272"
       ],
       "tags": [],
@@ -1003,7 +1003,7 @@
       ],
       "related_nodes": [
         "N-42",
-        "N-292"
+        "N-50"
       ],
       "tags": [],
       "claim_timestamp": "00:42:40",

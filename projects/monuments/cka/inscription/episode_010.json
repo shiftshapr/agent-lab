@@ -338,8 +338,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
@@ -513,7 +513,7 @@
       "@type": "Person",
       "@id": "N-67",
       "ref": "N-67",
-      "name": "Seth Dylan",
+      "name": "Seth Dillon",
       "type": "person",
       "description": "Named as applying pressure on Charlie Kirk at the Hamptons weekend retreat.",
       "related_artifacts": [
@@ -683,8 +683,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-79",
-      "ref": "N-79",
+      "@id": "N-5",
+      "ref": "N-5",
       "name": "Donald Trump",
       "type": "person",
       "description": "US President referenced in connection with DOGE and in context of Netanyahu allegedly tweeting before him about Charlie's death.",
@@ -800,9 +800,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-85",
-      "ref": "N-85",
-      "name": "Governor Cox",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
       "related_artifacts": [],
@@ -1302,7 +1302,7 @@
       "related_nodes": [
         "N-1195",
         "N-1199",
-        "N-85",
+        "N-70",
         "N-1127"
       ],
       "tags": [],
@@ -1390,7 +1390,7 @@
       "related_nodes": [
         "N-66",
         "N-1200",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:03:05",
@@ -1408,7 +1408,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-65",
-        "N-79",
+        "N-5",
         "N-73"
       ],
       "tags": [],
@@ -1430,7 +1430,7 @@
         {
           "episode": 10,
           "video_timestamp": "00:12:26",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "And since when do we trust the feds?",
           "context": "Host frames refusal to accept federal investigation narrative as parallel to 'trust the science' skepticism, applied to federal authorities instead of scientific institutions.",
           "confidence": "medium",
@@ -1452,7 +1452,7 @@
         {
           "episode": 10,
           "video_timestamp": "00:48:41",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "it is just such a crazy thing to make me guilty of investigating Charlie's murder. Like, it doesn't make any Why would you investigate this? Because everybody's lying and we're not going to allow it.",
           "context": "Host pushes back against the 'conspiracy theorist' framing by reframing her investigation as a refusal to accept everyone lying about a friend's murder.",
           "confidence": "medium",

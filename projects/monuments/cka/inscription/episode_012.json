@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 12,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -191,7 +191,7 @@
           ],
           "related_nodes": [
             "N-186",
-            "N-188",
+            "N-102",
             "N-1216"
           ],
           "tags": [],
@@ -218,7 +218,7 @@
             "C-1330"
           ],
           "related_nodes": [
-            "N-187",
+            "N-176",
             "N-1217"
           ],
           "tags": [],
@@ -245,7 +245,7 @@
             "C-1331"
           ],
           "related_nodes": [
-            "N-185",
+            "N-65",
             "N-1214"
           ],
           "tags": [],
@@ -431,9 +431,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-185",
-      "ref": "N-185",
-      "name": "BB Netanyahu",
+      "@id": "N-65",
+      "ref": "N-65",
+      "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Israeli Prime Minister; referenced as having released the May Charlie Kirk letter roughly two weeks after the September 10 assassination. (Note: transcript renders the familiar \"Bibi\" as \"BB\"; preserved as transcribed; flagged.)",
       "related_artifacts": [
@@ -471,14 +471,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-188",
+        "N-102",
         "N-1216"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-187",
-      "ref": "N-187",
+      "@id": "N-176",
+      "ref": "N-176",
       "name": "Mike Mitchell",
       "type": "person",
       "description": "Salt Lake County Sheriff's Office detective; per a 1999 article, conducts online undercover work creating personas to identify suspected pedophiles. Flag: this entity is likely to already possess a node ID from prior episodes covering his role in the Charlie Kirk case; verify ledger and merge if confirmed.",
@@ -499,8 +499,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-188",
-      "ref": "N-188",
+      "@id": "N-102",
+      "ref": "N-102",
       "name": "Kash Patel",
       "type": "person",
       "description": "FBI Director; per a Daily Mail article cited in the episode, fired the chief of the Utah FBI Bureau and other personnel and replaced them with Robert Bowles in August 2025, weeks before the assassination. Flag: may already have a node ID from prior episodes; verify ledger and merge if confirmed.",
@@ -588,7 +588,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-185"
+        "N-65"
       ]
     },
     {
@@ -627,7 +627,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-186",
-        "N-188"
+        "N-102"
       ]
     },
     {
@@ -649,7 +649,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-187"
+        "N-176"
       ]
     },
     {
@@ -817,7 +817,7 @@
       ],
       "related_nodes": [
         "N-186",
-        "N-188",
+        "N-102",
         "N-1216"
       ],
       "tags": [],
@@ -834,7 +834,7 @@
         "A-1190.1"
       ],
       "related_nodes": [
-        "N-187",
+        "N-176",
         "N-1217"
       ],
       "tags": [],
@@ -851,7 +851,7 @@
         "A-1191.1"
       ],
       "related_nodes": [
-        "N-185",
+        "N-65",
         "N-1214"
       ],
       "tags": [],

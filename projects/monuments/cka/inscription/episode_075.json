@@ -3,14 +3,14 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 75,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
     "video_timestamp_range": "00:00:00–00:56:29",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "777549b764eebad915dd89f46670a757562689442666b57cccbad09daa1a9bc9",
+    "transcript_sha256": "d8e6f28a51d5ce3dd1d87baacd78a256a41af58e5088968e02eb7b3dd5527107",
     "analysis_date": "2026-09-27"
   },
   "executive_summary": "",
@@ -359,13 +359,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2450",
       "family_ref": "A-2450",
-      "bundle_name": "Caroline Levitt Press Briefing Bundle",
+      "bundle_name": "Karoline Leavitt Press Briefing Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2450.1",
           "ref": "A-2450.1",
-          "description": "Video clip of White House Press Secretary Caroline Levitt stating that \"President Trump wisely does not remove options off of the table\" with respect to troops on the ground, while describing the campaign as \"largely an air campaign.\"",
+          "description": "Video clip of White House Press Secretary Karoline Leavitt stating that \"President Trump wisely does not remove options off of the table\" with respect to troops on the ground, while describing the campaign as \"largely an air campaign.\"",
           "related_claims": [
             "C-3582"
           ],
@@ -401,8 +401,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-905",
-      "ref": "N-905",
+      "@id": "N-443",
+      "ref": "N-443",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Comedian whose on-camera segment speculating that Erika Kirk functioned as a \"Mossad handler\" for Charlie Kirk is presented by the host as confirming public intuition.",
@@ -511,7 +511,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10002",
+        "ref": "N-10002",
+        "name": "Tyler Bowyer",
+        "type": "person",
+        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -594,7 +610,9 @@
       "anchored_artifacts": [
         "A-2440.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+            "N-10002"
+          ],
       "tags": [],
       "claim_timestamp": "00:19:40",
       "investigative_direction": "Obtain full clip with date; cross-check whether Charlie ever made comparable public statements on the record about Erika's political future."
@@ -719,8 +737,8 @@
       "@type": "Claim",
       "@id": "C-3582",
       "ref": "C-3582",
-      "label": "Caroline Levitt stated Trump \"wisely\" keeps options on the table regarding troops on the ground",
-      "claim": "White House Press Secretary Caroline Levitt stated on camera that \"President Trump wisely does not remove options off of the table\" with respect to troops on the ground, characterizing the campaign as \"largely an air campaign\" but noting a draft is not off the table.",
+      "label": "Karoline Leavitt stated Trump \"wisely\" keeps options on the table regarding troops on the ground",
+      "claim": "White House Press Secretary Karoline Leavitt stated on camera that \"President Trump wisely does not remove options off of the table\" with respect to troops on the ground, characterizing the campaign as \"largely an air campaign\" but noting a draft is not off the table.",
       "anchored_artifacts": [
         "A-2450.1"
       ],

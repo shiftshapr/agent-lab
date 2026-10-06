@@ -3,14 +3,14 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 20,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
     "video_timestamp_range": "00:00:00–00:56:29",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "11b56a3523c6e891777cf0069ed2beac4407ae5d3b47a8c104454019a3889e88",
+    "transcript_sha256": "8e3767219910081da3667951aa2631008c1fef13d2bd87a539a898bb6428508e",
     "analysis_date": "2026-09-27"
   },
   "executive_summary": "",
@@ -32,7 +32,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-268"
+            "N-56"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -51,7 +51,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-268"
+            "N-56"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -70,7 +70,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-268"
+            "N-56"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -123,7 +123,7 @@
             "C-1496"
           ],
           "related_nodes": [
-            "N-268"
+            "N-56"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -149,7 +149,7 @@
             "C-1497"
           ],
           "related_nodes": [
-            "N-270"
+            "N-266"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -202,7 +202,7 @@
             "C-1500"
           ],
           "related_nodes": [
-            "N-271",
+            "N-42",
             "N-272",
             "N-1",
             "N-2"
@@ -258,7 +258,7 @@
             "C-1502"
           ],
           "related_nodes": [
-            "N-274",
+            "N-16",
             "N-272"
           ],
           "tags": [],
@@ -313,7 +313,7 @@
             "C-1506"
           ],
           "related_nodes": [
-            "N-275",
+            "N-45",
             "N-1264"
           ],
           "tags": [],
@@ -341,7 +341,7 @@
             "C-1508"
           ],
           "related_nodes": [
-            "N-276"
+            "N-117"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -394,11 +394,11 @@
             "C-1506"
           ],
           "related_nodes": [
-            "N-271",
+            "N-42",
             "N-272",
-            "N-274",
-            "N-275",
-            "N-85",
+            "N-16",
+            "N-45",
+            "N-70",
             "N-1264"
           ],
           "tags": [],
@@ -414,8 +414,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-56",
+      "ref": "N-56",
       "name": "Kanye West",
       "type": "person",
       "description": "Musician; subject of the April 21, 2018 tweet that the episode anchors as a transformational event in Candace Owens' public career.",
@@ -460,8 +460,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Scott Adams",
       "type": "person",
       "description": "Commentator; subject of audio clip characterizing Kanye's April 2018 tweet as having \"ripped a hole in reality.\"",
@@ -479,9 +479,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
-      "name": "Andrew Kovett",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA spokesperson (per on-air clip); authored the public explanation of Mikey McCoy's post-shooting actions.",
       "related_artifacts": [
@@ -529,9 +529,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-271",
-        "N-274",
-        "N-275",
+        "N-42",
+        "N-16",
+        "N-45",
         "N-1263"
       ]
     },
@@ -556,9 +556,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-274",
-      "ref": "N-274",
-      "name": "Frank Turk",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
       "type": "person",
       "description": "Former U.S. Navy officer, Christian apologist; subject of on-air clip defending Mikey McCoy and rebuking Candace for advancing unevidenced claims.",
       "related_artifacts": [
@@ -576,8 +576,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-275",
-      "ref": "N-275",
+      "@id": "N-45",
+      "ref": "N-45",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pastor; subject of George Webb audio clip and the on-screen military-connections chart. Father identified as Roy Edgar McCoy (naval captain, assistant chief of staff for psychological warfare).",
@@ -600,8 +600,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-276",
-      "ref": "N-276",
+      "@id": "N-117",
+      "ref": "N-117",
       "name": "Brigitte Macron",
       "type": "person",
       "description": "Spouse of Emmanuel Macron (transcribed by host as \"Breijit Mcronone\"); subject of French tax-form reporting cited as showing \"Jean Michelle\" male registration.",
@@ -656,9 +656,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-280",
-      "ref": "N-280",
-      "name": "John Mappen / \"Arena Mappen\" / \"Nina\"",
+      "@id": "N-217",
+      "ref": "N-217",
+      "name": "John Mappin",
       "type": "person",
       "description": "UK-based donors (spelling uncertain per transcript); identified on air as facilitators of the December 2018 UK event where Candace first met her husband. Name uncertainty flagged.",
       "related_artifacts": [
@@ -675,7 +675,7 @@
       "@type": "Person",
       "@id": "N-281",
       "ref": "N-281",
-      "name": "Dr. Lee Trotter",
+      "name": "Lee Trotter",
       "type": "person",
       "description": "Surgeon referenced on air as having worked on Charlie Kirk; host alleges Air Force residency at Keesler Air Force Medical Center and possible active Air Force service.",
       "related_artifacts": [
@@ -690,9 +690,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-282",
-      "ref": "N-282",
-      "name": "Dr. Deidra Weiss Amaro",
+      "@id": "N-249",
+      "ref": "N-249",
+      "name": "Deidra Weiss Amaro",
       "type": "person",
       "description": "Medical examiner referenced on air; host alleges Army rank of major and Ericsson family lineage tied to Boyd Corporation.",
       "related_artifacts": [
@@ -723,7 +723,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-275"
+        "N-45"
       ]
     },
     {
@@ -807,11 +807,11 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-271",
+        "N-42",
         "N-272",
-        "N-274",
-        "N-275",
-        "N-85"
+        "N-16",
+        "N-45",
+        "N-70"
       ]
     },
     {
@@ -845,9 +845,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-1265",
       "ref": "N-1265",
-      "name": "Susy Wilds Eulogy-Selection Question",
+      "name": "Susie Wiles Eulogy-Selection Question",
       "type": "investigation_target",
-      "description": "Host's flagged curiosity regarding the selection of Susy Wilds (spelled \"Susie Wilds\" in one place) as a Kirk eulogist; no artifact-anchored explanation given.",
+      "description": "Host's flagged curiosity regarding the selection of Susie Wiles (spelled \"Susie Wiles\" in one place) as a Kirk eulogist; no artifact-anchored explanation given.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -893,9 +893,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-85",
-      "ref": "N-85",
-      "name": "Governor Cox",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
       "related_artifacts": [],
@@ -907,7 +907,38 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10002",
+        "ref": "N-10002",
+        "name": "Tyler Bowyer",
+        "type": "person",
+        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10017",
+        "ref": "N-10017",
+        "name": "Susie Wiles",
+        "type": "person",
+        "description": "White House chief of staff. Host questions her Kirk eulogy and names her in Epstein-file situation-room meetings.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -920,7 +951,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-268"
+        "N-56"
       ],
       "tags": [],
       "claim_timestamp": "00:03:50",
@@ -937,7 +968,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-268"
+        "N-56"
       ],
       "tags": [],
       "claim_timestamp": "00:03:50",
@@ -954,7 +985,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-268"
+        "N-56"
       ],
       "tags": [],
       "claim_timestamp": "00:05:35",
@@ -971,7 +1002,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-268"
+        "N-56"
       ],
       "tags": [],
       "claim_timestamp": "00:06:20",
@@ -1019,7 +1050,7 @@
         "A-1272.1"
       ],
       "related_nodes": [
-        "N-268"
+        "N-56"
       ],
       "tags": [],
       "claim_timestamp": "00:06:50",
@@ -1035,7 +1066,7 @@
         "A-1273.1"
       ],
       "related_nodes": [
-        "N-270"
+        "N-266"
       ],
       "tags": [],
       "claim_timestamp": "00:07:00–00:09:05",
@@ -1067,7 +1098,7 @@
         "A-1275.1"
       ],
       "related_nodes": [
-        "N-271",
+        "N-42",
         "N-272",
         "N-1",
         "N-2"
@@ -1086,7 +1117,7 @@
         "A-1275.1"
       ],
       "related_nodes": [
-        "N-271",
+        "N-42",
         "N-272",
         "N-1"
       ],
@@ -1121,7 +1152,7 @@
         "A-1277.1"
       ],
       "related_nodes": [
-        "N-274",
+        "N-16",
         "N-272"
       ],
       "tags": [],
@@ -1174,7 +1205,7 @@
         "A-1282.1"
       ],
       "related_nodes": [
-        "N-275",
+        "N-45",
         "N-283",
         "N-285",
         "N-1263"
@@ -1193,7 +1224,7 @@
         "A-1279.1"
       ],
       "related_nodes": [
-        "N-275",
+        "N-45",
         "N-285",
         "N-1263"
       ],
@@ -1211,7 +1242,7 @@
         "A-1280.1"
       ],
       "related_nodes": [
-        "N-276"
+        "N-117"
       ],
       "tags": [],
       "claim_timestamp": "00:57:30–00:59:30",
@@ -1227,7 +1258,7 @@
         "A-1280.1"
       ],
       "related_nodes": [
-        "N-276"
+        "N-117"
       ],
       "tags": [],
       "claim_timestamp": "00:57:30–00:59:30",
@@ -1275,7 +1306,7 @@
         "A-1280.1"
       ],
       "related_nodes": [
-        "N-280"
+        "N-217"
       ],
       "tags": [],
       "claim_timestamp": "00:58:00–00:59:00",
@@ -1307,7 +1338,7 @@
         "A-1278.1"
       ],
       "related_nodes": [
-        "N-282"
+        "N-249"
       ],
       "tags": [],
       "claim_timestamp": "01:00:00–01:01:00",

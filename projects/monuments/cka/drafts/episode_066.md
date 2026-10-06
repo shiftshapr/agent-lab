@@ -33,7 +33,7 @@
 
 - Artifact Families Introduced: A-1704, A-1705, A-1706, A-1707, A-1708, A-1709, A-1710, A-1711, A-1712, A-1713
 - Claim Range: C-2239–C-2252
-  - New Nodes Introduced: N-817, N-818, N-819, N-820, N-821, N-822, N-823, N-824, N-825, N-826, N-827, N-828, N-1537, N-1538, N-1539, N-1540
+  - New Nodes Introduced: N-817, N-818, N-821, N-822, N-823, N-825, N-826, N-828, N-1537, N-1538, N-1539, N-1540
   - Reused Nodes Appearing: 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:13:09–00:20:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2243, C-2244, C-2248, N-821, N-820, N-2*
+*Related: C-2243, C-2244, C-2248, N-821, N-264, N-2*
 
 ---
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:38:28–00:40:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2251, N-819, N-2*
+*Related: C-2251, N-16, N-2*
 
 ---
 
@@ -159,7 +159,7 @@ Video Timestamp: 00:47:00–00:48:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2252, N-823, N-824*
+*Related: C-2252, N-823, N-120*
 
 ---
 
@@ -226,7 +226,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-819** Frank Turek
+**N-16** Frank Turek
 
 Cross-apologetics speaker referenced as a TPUSA-affiliated figure; the on-air clip shows him characterizing criticism of Erica Kirk as satanic pattern behavior.
 
@@ -239,7 +239,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-820** Stacy Sheridan
+**N-264** Stacy Sheridan
 
 TPUSA figure identified by the host as the person who tapped the donor's shoulder in church and invited her to sit with Erica. Host states Sheridan's role is donor intelligence ("smelling money").
 
@@ -287,11 +287,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1711.1, C-2252, N-824*
+*Related: A-1711.1, C-2252, N-120*
 
 ---
 
-**N-824** Pam Bondi
+**N-120** Pam Bondi
 
 US Attorney General named in connection with Don Lemon's arrest; host characterizes the prosecution as headline-grabbing theater.
 
@@ -330,7 +330,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-827** Andrew Kovat
+**N-42** Andrew Kolvet
 
 TPUSA figure referenced by host in the comments section as the person alleged to have organized the Paramount Tactical orbit and to have texted Erica during the Alex Clark interview. Name spelling varies in transcript ("Kovat"/"Kouvet"/"Covette"/"Coven").
 
@@ -365,7 +365,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1706.1, A-1709.1, A-1713.1, C-2243, C-2250, N-820, N-822, N-827*
+*Related: A-1706.1, A-1709.1, A-1713.1, C-2243, C-2250, N-264, N-822, N-42*
 
 ---
 
@@ -452,7 +452,7 @@ Claim Timestamp: 00:13:09
 Claim: A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erica when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. Stacy Sheridan was the person who tapped the donor's shoulder at the post-mass church and invited her to sit with Erica.
 
 Anchored Artifacts: A-1706.1
-Related Nodes: N-821, N-820, N-2, N-1538
+Related Nodes: N-821, N-264, N-2, N-1538
 Investigative Direction: Verify the email's metadata, the donor's identity, the priest's actual name and parish, and confirm the September mass timeline independently.
 
 ---
@@ -548,7 +548,7 @@ Claim Timestamp: 00:39:28
 Claim: Frank Turek states in an on-air clip that criticism of Erica Kirk (described as slander, accusation, lies, confusion, without evidence) is what "Satan does," and dismisses Candace Owens' dream-based claims as lacking supernatural confirmation.
 
 Anchored Artifacts: A-1710.1
-Related Nodes: N-819, N-2
+Related Nodes: N-16, N-2
 Investigative Direction: Identify the original Frank Turek episode/podcast the clip is drawn from and verify edit context.
 
 ---
@@ -560,14 +560,14 @@ Claim Timestamp: 00:47:00
 Claim: Don Lemon is shown on camera at a Minnesota church protest questioning a pastor whose church works with ICE.
 
 Anchored Artifacts: A-1711.1
-Related Nodes: N-823, N-824
+Related Nodes: N-823, N-120
 Investigative Direction: Confirm the underlying church affiliation and ICE relationship; verify the federal charges basis for Don Lemon's subsequent arrest.
 
 ---
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** "Andrew Kovat" / "Kouvet" / "Covette" / "Coven" — transcript shows multiple spellings for the same TPUSA figure (N-827). Requires human verification against correct spelling.
+- **Name uncertainty:** "Andrew Kovat" / "Kouvet" / "Covette" / "Coven" — transcript shows multiple spellings for the same TPUSA figure (N-42). Requires human verification against correct spelling.
 - **Artifact verbally referenced but not shown:** A-1712.1 (Wayback Machine screenshots for Cardinal Stadium RV show) — referenced verbally but not displayed on-screen. Marked Low confidence.
 - **Artifact verbally referenced but not shown:** Vanessa Bryant's Kobe memorial speech is recommended for viewing by the host but never played, quoted, or displayed in the episode. Comparison claim C-2242 should be re-anchored if/when the speech artifact is produced.
 - **Name redaction in source:** "Father Blank" and "TPUSA Blank" are host-applied redactions of the email author's original names; the actual names were blanked out before air and are not recoverable from this artifact alone.

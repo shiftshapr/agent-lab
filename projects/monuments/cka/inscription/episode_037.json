@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 37,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-438",
+            "N-102",
             "N-1344",
             "N-1348",
             "N-1349",
@@ -64,7 +64,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-7"
+            "N-3"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -91,7 +91,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-438",
+            "N-102",
             "N-1344"
           ],
           "tags": [],
@@ -120,7 +120,7 @@
             "C-1775"
           ],
           "related_nodes": [
-            "N-438",
+            "N-102",
             "N-1345",
             "N-1348",
             "N-1349",
@@ -259,7 +259,7 @@
             "C-1780"
           ],
           "related_nodes": [
-            "N-7",
+            "N-3",
             "N-442",
             "N-1352"
           ],
@@ -285,7 +285,7 @@
           "description": "Audio Clip — Tim Dylan on Bari Weiss at CBS News",
           "related_claims": [],
           "related_nodes": [
-            "N-7",
+            "N-3",
             "N-443",
             "N-444",
             "N-1353"
@@ -374,8 +374,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-438",
-      "ref": "N-438",
+      "@id": "N-102",
+      "ref": "N-102",
       "name": "Kash Patel",
       "type": "person",
       "description": "FBI Director / public official who closed September 12, 2025 press conference with \"see you in Valhalla\" tribute to Charlie Kirk.",
@@ -490,7 +490,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1352"
       ]
     },
@@ -498,7 +498,7 @@
       "@type": "Person",
       "@id": "N-443",
       "ref": "N-443",
-      "name": "Tim Dylan",
+      "name": "Tim Dillon",
       "type": "person",
       "description": "Independent commentator; provided audio clip characterizing Bari Weiss at CBS News.",
       "related_artifacts": [
@@ -511,7 +511,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-444"
       ]
     },
@@ -605,7 +605,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-438",
+        "N-102",
         "N-1349"
       ]
     },
@@ -812,8 +812,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
@@ -855,7 +855,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-438",
+        "N-102",
         "N-1344",
         "N-1348",
         "N-1349",
@@ -915,7 +915,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:01:47",
@@ -932,7 +932,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-438",
+        "N-102",
         "N-1344"
       ],
       "tags": [],
@@ -949,7 +949,7 @@
         "A-1454.1"
       ],
       "related_nodes": [
-        "N-438",
+        "N-102",
         "N-1345",
         "N-1348"
       ],
@@ -983,7 +983,7 @@
         "A-1454.1"
       ],
       "related_nodes": [
-        "N-438",
+        "N-102",
         "N-1344",
         "N-1345",
         "N-1348",
@@ -1072,7 +1072,7 @@
         "A-1459.1"
       ],
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-442",
         "N-1351",
         "N-1352"

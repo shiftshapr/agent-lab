@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: ec70297e4ea4475efe0ea007480a67fe4d47488724c965ac8c0dee4be928d6a0
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-747, N-748, N-749, N-750, N-751, N-752, N-753, N-754, N-755, N-756, N-757, N-758, N-759, N-760, N-761, N-1496, N-1497, N-1498, N-1499, N-1500
+  - New Nodes Introduced:  N-748, N-750, N-753, N-759, N-760, N-761, N-1496, N-1497, N-1498, N-1499, N-1500
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -38,7 +38,7 @@ Artifact Families Introduced: A-1643, A-1644, A-1645, A-1646, A-1647, A-1648, A-
 
 Claim Range: C-2124–C-2148
 
-New Nodes Introduced (people): N-747, N-748, N-749, N-750, N-751, N-752, N-753, N-754, N-755, N-756, N-757, N-758, N-759, N-760, N-761
+New Nodes Introduced (people):  N-748, N-750, N-753, N-759, N-760, N-761
 
 New Nodes Introduced (investigation targets): N-1496, N-1497, N-1498, N-1499, N-1500
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:13:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2133, C-2134, C-2135, N-747, N-1496, N-1497*
+*Related: C-2133, C-2134, C-2135, N-434, N-1496, N-1497*
 
 ---
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:25:08–00:27:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2141, N-754, N-1498*
+*Related: C-2141, N-42, N-1498*
 
 **A-1649.2** Wide-angle shot image displayed on screen, presented by Andrew Kovat as the photo Frank Turk mistook for drone footage (described as "a walkway or a bridge elevated" second-floor view)
 
@@ -232,7 +232,7 @@ Video Timestamp: 00:34:31–00:35:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2145, N-758, N-759, N-760, N-1500*
+*Related: C-2145, N-45, N-759, N-760, N-1500*
 
 ---
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:42:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single viewer account)
 
-*Related: C-2147, N-747, N-1*
+*Related: C-2147, N-434, N-1*
 
 **A-1653.2** "Becca" comment read aloud, asserting Erika Kirk is "panicking" and "not leading that organization in a direction that Charlie Kirk would have let it there"
 
@@ -336,7 +336,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-747** Dan Flood
+**N-434** Dan Flood
 
 Head of TPUSA/Charlie Kirk security detail; subject of biographical claims regarding Allen Texas upbringing, New Braunfels Texas residency, and prior security work at the Cattleman's Ball.
 
@@ -356,9 +356,9 @@ Claim Count: 9
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1643.1, A-1643.2, A-1647.1, C-2124, C-2125, C-2126, C-2127, C-2128, C-2129, C-2130, C-2131, C-2132, C-2148, N-747, N-1496*
+*Related: A-1643.1, A-1643.2, A-1647.1, C-2124, C-2125, C-2126, C-2127, C-2128, C-2129, C-2130, C-2131, C-2132, C-2148, N-434, N-1496*
 
-**N-749** Brian Harpole
+**N-424** Brian Harpole
 
 TPUSA security team member present on September 10; identified by host as also Dallas-born, working under Greg Schmidt for Charlie Kirk's security.
 
@@ -378,9 +378,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1645.1, C-2136, C-2137, C-2138, C-2139, N-749, N-1496*
+*Related: A-1645.1, C-2136, C-2137, C-2138, C-2139, N-424, N-1496*
 
-**N-751** Greg Schaefer
+**N-556** Greg Schaefer
 
 Founder of Schaefer Security, identified by host as former FBI hostage rescue team member with Budapest stationing.
 
@@ -389,9 +389,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-747, N-1496*
+*Related: N-434, N-1496*
 
-**N-752** Bill Montgomery
+**N-724** Bill Montgomery
 
 Identified by host as the figure who convinced Charlie Kirk to start TPUSA and initially organized/paid for Charlie's security via Schaefer Security.
 
@@ -400,7 +400,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1, N-747, N-1496*
+*Related: N-1, N-434, N-1496*
 
 **N-753** Zack Gregorio (Wolves and Finance)
 
@@ -413,7 +413,7 @@ Investigative Pressure: Medium
 
 *Related: A-1648.1, A-1648.2, C-2140*
 
-**N-754** Andrew Kovat
+**N-42** Andrew Kolvet
 
 TPUSA PR; subject of on-air interview clip regarding the drone explanation.
 
@@ -424,7 +424,7 @@ Investigative Pressure: Low
 
 *Related: A-1649.1, N-1498*
 
-**N-755** Frank Turk
+**N-16** Frank Turek
 
 TPUSA staff member whose earlier statement about Charlie viewing drone footage creates the drone discrepancy.
 
@@ -435,7 +435,7 @@ Investigative Pressure: Low
 
 *Related: N-1498*
 
-**N-756** NDA Buckman
+**N-730** Nelda Buckman
 
 Co-donor (with Carl Buckman) identified as TPUSA's number-one donor with a $10 million check; New Braunfels resident.
 
@@ -444,9 +444,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-757, N-1497*
+*Related: N-731, N-1497*
 
-**N-757** Carl Buckman
+**N-731** Karl Buckman
 
 Co-donor (with NDA Buckman) identified as TPUSA's number-one donor; New Braunfels resident.
 
@@ -455,9 +455,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-756, N-1497*
+*Related: N-730, N-1497*
 
-**N-758** Rob McCoy
+**N-45** Rob McCoy
 
 Pastor; leader of Turning Point Faith; named guest at the January 21 Cornerstone Chapel event.
 
@@ -512,7 +512,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1643.1, A-1643.2, A-1644.1, A-1645.1, A-1646.1, C-2124–C-2139, C-2148, N-747, N-748, N-749, N-750, N-751*
+*Related: A-1643.1, A-1643.2, A-1644.1, A-1645.1, A-1646.1, C-2124–C-2139, C-2148, N-434, N-748, N-424, N-750, N-556*
 
 **N-1497** New Braunfels Texas Security Personnel Cluster
 
@@ -523,7 +523,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1644.1, A-1653.3, C-2134, N-747, N-756, N-757*
+*Related: A-1644.1, A-1653.3, C-2134, N-434, N-730, N-731*
 
 **N-1498** TPUSA Drone Story Discrepancy
 
@@ -534,7 +534,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1648.1, A-1649.1, A-1649.2, C-2141, N-754, N-755*
+*Related: A-1648.1, A-1649.1, A-1649.2, C-2141, N-42, N-16*
 
 **N-1499** Erica Kirk China Timeline Discrepancy
 
@@ -556,7 +556,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1651.1, C-2145, N-758, N-759, N-760*
+*Related: A-1651.1, C-2145, N-45, N-759, N-760*
 
 ---
 
@@ -640,7 +640,7 @@ Claim: Robert Flood's LinkedIn profile lists over a decade of employment in Fran
 
 Anchored Artifacts: A-1643.2
 
-Related Nodes: N-748, N-1, N-1496
+Related Nodes: N-748, N-1496
 
 Investigative Direction: Verify through Franklin Park Police Department employment records and cross-reference with Charlie Kirk's Illinois upbringing area.
 
@@ -682,7 +682,7 @@ Claim: Host states that both of Dan Flood's mother and father are from Illinois,
 
 Anchored Artifacts: A-1643.1
 
-Related Nodes: N-747, N-748, N-1, N-1496
+Related Nodes: N-434, N-748, N-1496
 
 Investigative Direction: Cross-reference Illinois address records for Robert Flood with Charlie Kirk's documented childhood addresses.
 
@@ -696,7 +696,7 @@ Claim: A social media post from a self-identified childhood friend states he att
 
 Anchored Artifacts: A-1644.1
 
-Related Nodes: N-747, N-1496
+Related Nodes: N-434, N-1496
 
 Investigative Direction: Verify through Allen Independent School District alumni records and the social media poster's identity.
 
@@ -710,7 +710,7 @@ Claim: Host states it as a confirmable fact that Dan Flood lives in New Braunfel
 
 Anchored Artifacts: A-1644.1
 
-Related Nodes: N-747, N-1497
+Related Nodes: N-434, N-1497
 
 Investigative Direction: Verify through address records, property records, or voter registration.
 
@@ -724,7 +724,7 @@ Claim: The childhood friend's social media post states he last saw Dan Flood "do
 
 Anchored Artifacts: A-1644.1
 
-Related Nodes: N-747, N-1496, N-752
+Related Nodes: N-434, N-1496, N-724
 
 Investigative Direction: Identify the billionaire referenced and verify through security firm records or event vendor lists.
 
@@ -866,7 +866,7 @@ Claim: A Cornerstone Chapel video announcement by Pastor Gary Ham promotes a Jan
 
 Anchored Artifacts: A-1651.1
 
-Related Nodes: N-758, N-759, N-760, N-1500
+Related Nodes: N-45, N-759, N-760, N-1500
 
 Investigative Direction: Verify the event actually occurred and document any public response.
 
@@ -894,7 +894,7 @@ Claim: Viewer "Moderator Marzy" comment states Dan Flood "was still providing se
 
 Anchored Artifacts: A-1653.1
 
-Related Nodes: N-747, N-1
+Related Nodes: N-434, N-1
 
 Investigative Direction: Verify event attendance, security staffing, and Kash Patel's participation through official event records.
 
@@ -934,11 +934,11 @@ Investigative Direction: Verify through FBIA official publications, IRS Form 990
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-747+)
+- [x] People nodes use the global people ledger (N-434+)
 - [x] Non-person investigation targets use the 1000 series (N-1496+)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly as spoken; uncertainties flagged
 - [x] Formatting consistent across registers
 - [x] Claim admission test applied; failures routed to Optional Flags
 - [x] Artifact-anchored contradictions flagged
-- [x] Global ID continuation rule followed (no reuse of A-1000–A-1642, C-1000–C-2123, N-1–N-746, N-1207–N-1495)
+- [x] Global ID continuation rule followed (no reuse of A-1000–A-1642, C-1000–C-2123, N-1–N-413, N-1207–N-1495)

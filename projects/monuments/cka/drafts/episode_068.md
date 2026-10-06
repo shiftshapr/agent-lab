@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 95f8b851983eeb6236c86655647510896988e621e75778a3c5ea5286c4493c32
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-876, N-877, N-878, N-879, N-880, N-881, N-882, N-883, N-884, N-885, N-886, N-887, N-888, N-889, N-1548, N-1549, N-1550, N-1551, N-1552, N-1553, N-1554, N-1555
+  - New Nodes Introduced: N-876, N-877, N-882, N-883, N-884, N-885, N-886, N-888, N-889, N-1548, N-1549, N-1550, N-1551, N-1552, N-1553, N-1554, N-1555
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -35,7 +35,7 @@
 
 - **Artifact Families Introduced:** A-1727, A-1728, A-1729, A-1730, A-1731, A-1732, A-1733, A-1734, A-1735, A-1736, A-1737
 - **Claim Range:** C-2283 – C-2297
-- **New People Nodes Introduced:** N-876, N-877, N-878, N-879, N-880, N-881, N-882, N-883, N-884, N-885, N-886, N-887, N-888, N-889
+- **New People Nodes Introduced:** N-876, N-877, N-783, N-272, N-43, N-133, N-882, N-883, N-884, N-885, N-886, N-16, N-888, N-889
 - **New Investigation Target Nodes Introduced:** N-1548, N-1549, N-1550, N-1551, N-1552, N-1553, N-1554, N-1555
 - **Existing Nodes Reused:** None specified in transcript for this episode; references to recurring figures (Charlie Kirk, Erika Kirk, Candace Owens, etc.) handled through the global people ledger (N-1 series per protocol)
 
@@ -63,7 +63,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:23:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
-*Related: C-2283, N-878, N-1548*
+*Related: C-2283, N-783, N-1548*
 
 **A-1727.2** Erika Kirk Instagram post, 2025-09-07, showing her mother in vulnerable position with "10 days until September 16th" countdown
 Event Timestamp: 00:00:00–00:00:01
@@ -71,7 +71,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:24:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2284, N-878, N-1550*
+*Related: C-2284, N-783, N-1550*
 
 ---
 
@@ -83,7 +83,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:25:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2285, N-878, N-879, N-1549*
+*Related: C-2285, N-783, N-272, N-1549*
 
 ---
 
@@ -167,7 +167,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:39:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
-*Related: C-2293, N-881*
+*Related: C-2293, N-133*
 
 ---
 
@@ -179,7 +179,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:25:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-cited; underlying source not specified beyond implying it contradicts the NYT "within seconds" framing)
-*Related: C-2294, N-879, N-1553*
+*Related: C-2294, N-272, N-1553*
 
 ---
 
@@ -191,7 +191,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (described by host; not displayed in transcript)
-*Related: C-2295, N-878, N-880, N-1554*
+*Related: C-2295, N-783, N-43, N-1554*
 
 ---
 
@@ -237,7 +237,7 @@ Episode Count: 1
 Investigative Pressure: Low
 *Related: A-1731.2, C-2291*
 
-**N-878** Lori France Feay (transcript spelling)
+**N-783** Lori Frantzve
 Erika Kirk's mother; central figure in the Sept 8 / Sept 10 alibi narrative; subject of the Sept 7, 2025 Instagram post; reportedly receiving treatment at a "holistic clinic" rather than a hospital; described as having Lyme disease.
 Evidence Count: 3
 Claim Count: 4
@@ -245,7 +245,7 @@ Episode Count: 1
 Investigative Pressure: High
 *Related: A-1727.1, A-1727.2, A-1728.1, A-1735.1, C-2283, C-2284, C-2285, C-2295, N-1548, N-1549, N-1550, N-1554*
 
-**N-879** Mikey McCoy
+**N-272** Mikey McCoy
 TPUSA-affiliated figure (per host's training reference); the person who placed the call to Erika Kirk on Sept 10, 2025, and who host asserts first called his wife before calling Erika.
 Evidence Count: 1
 Claim Count: 2
@@ -253,7 +253,7 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: A-1728.1, A-1734.1, C-2285, C-2294, N-1553*
 
-**N-880** Justin Strife (transcript spelling)
+**N-43** Justin Strife
 TPUSA-affiliated intermediary; sent text messages to the host stating Erika's mother was very sick; per host, also revised the location of Erika's sighting from "basketball game" to "football game."
 Evidence Count: 1
 Claim Count: 1
@@ -261,7 +261,7 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: A-1735.1, C-2295, N-1554*
 
-**N-881** Ben Shapiro
+**N-133** Ben Shapiro
 Daily Wire figure whose "All Access" clip mocking the host's Hogwarts-chess dream is played in the episode.
 Evidence Count: 1
 Claim Count: 1
@@ -293,7 +293,7 @@ Episode Count: 1
 Investigative Pressure: Low
 *Related: A-1737.1, C-2297*
 
-**N-885** Robkea (transcript spelling)
+**N-885** Robkea
 Researcher cited in viewer email; per email, his work documents Gilgamesh/Nimrod tomb discovery, museum raid, and missing Nephilim/resurrection tablets.
 Evidence Count: 1
 Claim Count: 1
@@ -307,9 +307,9 @@ Evidence Count: 0
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
-*Related: N-878, N-1554*
+*Related: N-783, N-1554*
 
-**N-887** Frank Turk (transcript spelling)
+**N-16** Frank Turek
 Source of witness statement (cited by host) that Charlie Kirk was "dealing with the kids" on Sept 8, 2025.
 Evidence Count: 0 (statement referenced but no artifact registered for it)
 Claim Count: 0
@@ -341,7 +341,7 @@ Evidence Count: 1
 Claim Count: 0 (claim admission test currently failing due to lack of clear opposing artifact for Erika's Sept 8 location)
 Episode Count: 1
 Investigative Pressure: High
-*Related: N-878, N-887, A-1735.1, C-2295*
+*Related: N-783, N-16, A-1735.1, C-2295*
 
 **N-1549** Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy
 The NYT reports Erika was at the hospital; the host asserts she has confirmed for a fact that the mother was receiving treatment at a "holistic clinic," not a hospital.
@@ -349,7 +349,7 @@ Evidence Count: 2 (one per side)
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
-*Related: A-1728.1, A-1735.1, C-2285, C-2295, N-878, N-879, N-880*
+*Related: A-1728.1, A-1735.1, C-2285, C-2295, N-783, N-272, N-43*
 
 **N-1550** Sept 7, 2025 Erika Instagram Post — Manipulation Question
 The host asserts the post is exceptional in style (posting mother in vulnerable position, breaking a multi-year privacy pattern) and possibly deployed to preempt alibi scrutiny.
@@ -357,7 +357,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1727.2, C-2284, N-878*
+*Related: A-1727.2, C-2284, N-783*
 
 **N-1551** Nimrod / Gilgamesh Remains Extraction Question
 The host asserts that locals reported nighttime American digging and extraction operations at the tomb site; viewer email states tablets related to Nephilim/resurrection went missing from the museum after the raid.
@@ -381,7 +381,7 @@ Evidence Count: 2 (NYT artifact; host claim)
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1728.1, A-1734.1, C-2294, N-879*
+*Related: A-1728.1, A-1734.1, C-2294, N-272*
 
 **N-1554** Erika's Mother Medical Narrative
 Lyme disease (verified by prior Charlie conversation); Bella Hadid comparison; treatments described as 1–2 hour sessions at a center; reportedly two different clinics (one on Sept 8, one on Sept 10).
@@ -389,7 +389,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1735.1, C-2295, N-878, N-880, N-886*
+*Related: A-1735.1, C-2295, N-783, N-43, N-886*
 
 **N-1555** Babylon Library / Tablet Loss Discrepancy
 UN article acknowledges contents from Hammurabi and Nebuchadnezzar museums and the Babylon library/archive were stolen and destroyed; viewer email asserts tablets concerning reincarnation and the Nephilim were specifically excluded from what the military retrieved.
@@ -407,7 +407,7 @@ Investigative Pressure: Medium
 Claim Timestamp: 00:23:15
 Claim: Erika Kirk had not posted anything about her mother on Instagram since April 2022 (Mother's Day) until the Sept 7, 2025 post.
 Anchored Artifacts: A-1727.1
-Related Nodes: N-878, N-1550
+Related Nodes: N-783, N-1550
 Investigative Direction: Verify against archived Instagram data for Erika Kirk.
 
 ---
@@ -416,7 +416,7 @@ Investigative Direction: Verify against archived Instagram data for Erika Kirk.
 Claim Timestamp: 00:24:00
 Claim: On Sept 7, 2025, Erika Kirk posted on Instagram showing her mother in what appears to be a sick / vulnerable state, with a countdown reading "10 days until September 16th."
 Anchored Artifacts: A-1727.2
-Related Nodes: N-878, N-1550
+Related Nodes: N-783, N-1550
 Investigative Direction: Obtain the original post screenshot/metadata and identify the countdown's intended referent.
 
 ---
@@ -425,7 +425,7 @@ Investigative Direction: Obtain the original post screenshot/metadata and identi
 Claim Timestamp: 00:25:00
 Claim: The New York Times reported that on Sept 10, 2025, Erika Kirk was at the hospital with her mother when Mikey McCoy called her, described as having happened "within seconds" of the shooting.
 Anchored Artifacts: A-1728.1
-Related Nodes: N-878, N-879, N-1549, N-1553
+Related Nodes: N-783, N-272, N-1549, N-1553
 Investigative Direction: Locate and quote the exact NYT passage to confirm wording.
 
 ---
@@ -497,7 +497,7 @@ Investigative Direction: Reference the UN Security Council record / transcript.
 Claim Timestamp: 00:39:16
 Claim: Ben Shapiro, on a Daily Wire "All Access" segment, mocked the host's reported dream of playing "Hogwarts chess" with him, joking about whether it was "wired" or "weird."
 Anchored Artifacts: A-1733.1
-Related Nodes: N-881
+Related Nodes: N-133
 Investigative Direction: Locate the specific All Access clip for verification of exact wording.
 
 ---
@@ -506,7 +506,7 @@ Investigative Direction: Locate the specific All Access clip for verification of
 Claim Timestamp: 00:25:21
 Claim: According to the host, Mikey McCoy called his wife first, then placed a call to Erika Kirk approximately three-plus minutes later, adding Erika to a line already in progress with his wife.
 Anchored Artifacts: A-1734.1
-Related Nodes: N-879, N-1553
+Related Nodes: N-272, N-1553
 Investigative Direction: Obtain call log records or corroborating witness / phone carrier metadata.
 
 ---
@@ -515,7 +515,7 @@ Investigative Direction: Obtain call log records or corroborating witness / phon
 Claim Timestamp: 00:26:30
 Claim: Justin Strife sent text messages to the host asserting that Erika's mother was very, very sick and that Erika was spending her days in the hospital with her mother; the host asserts she has confirmed the mother was receiving treatment at a holistic clinic rather than a hospital.
 Anchored Artifacts: A-1735.1
-Related Nodes: N-878, N-880, N-1549, N-1554
+Related Nodes: N-783, N-43, N-1549, N-1554
 Investigative Direction: Obtain copies of the underlying text messages and verify the clinic vs. hospital distinction independently.
 
 ---

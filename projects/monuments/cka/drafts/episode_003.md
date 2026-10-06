@@ -17,8 +17,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1095, A-1096, A-1097, A-1098, A-1099, A-1100, A-1101, A-1102, A-1103
   - Claim Range: C-1144-C-1174
-  - New Nodes Introduced: N-84, N-85, N-86, N-87, N-88, N-89, N-90, N-91, N-92, N-93, N-94, N-95, N-96, N-97, N-98, N-99, N-100, N-1094, N-1095, N-1096, N-1097, N-1098, N-1099, N-1100, N-1101, N-1102
-  - Reused Nodes Appearing: N-1, N-2, N-7, N-35, N-50, N-61, N-65, N-66, N-67, N-68, N-69, N-71, N-75, N-1000, N-1077
+  - New Nodes Introduced: N-84, N-86, N-87, N-88, N-89, N-90, N-91, N-92, N-93, N-94, N-95, N-96, N-97, N-98, N-99, N-1094, N-1095, N-1096, N-1097, N-1098, N-1099, N-1100, N-1101, N-1102
+  - Reused Nodes Appearing: N-1, N-2, N-35, N-50, N-61, N-65, N-66, N-67, N-68, N-69, N-71, N-75, N-1000, N-1077
 
 ## 2. Executive Summary
 
@@ -194,7 +194,7 @@ Deceased; subject of investigation.
 
 ---
 
-**N-7** Candace Owens
+**N-3** Candace Owens
 
 Node Type: Person
 Host of Candace Kirk Archive series.
@@ -232,7 +232,7 @@ Node Type: Person
 
 ---
 
-**N-85** Governor Cox
+**N-70** Spencer Cox
 
 Node Type: Person
 Utah Governor; host flags earlier statements as inconsistent with indictment (light shorts/maroon shirt).
@@ -259,7 +259,7 @@ Israeli Prime Minister; subject of Charlie Kirk May 2025 letter.
 
 ---
 
-**N-67** Seth Dylan
+**N-67** Seth Dillon
 
 Node Type: Person
 Reportedly pressed Charlie on Israel at Hamptons retreat.
@@ -472,7 +472,7 @@ Producer referenced retrieving tweet screenshots.
 
 ---
 
-**N-100** Candace Owens' Husband
+**N-59** George (Candace's husband)
 
 Node Type: Person
 One of two people Candace cites as able to silence her.
@@ -599,7 +599,7 @@ Claim Timestamp: 00:07:37
 Claim: Tyler James Robinson surrendered to Washington County Sheriff's Office on September 11, 2025, approximately 33 hours after the shooting.
 Transcript Snippet: after 33 hours...Tyler James Robinson surrendered to police at Washington County Sheriff's Office
 Anchored Artifacts: A-1095.1
-Related Nodes: N-69, N-1094, N-1096, N-7, N-68, N-88, N-89, N-90, N-92, N-93, N-94, N-61, N-95, N-96, N-98, N-99
+Related Nodes: N-69, N-1094, N-1096, N-3, N-68, N-88, N-89, N-90, N-92, N-93, N-94, N-61, N-95, N-96, N-98, N-99
 Confidence: high
 Investigative Direction: Verify surrender timestamp via sheriff's office records and forensic timeline.
 
@@ -671,7 +671,7 @@ Claim Timestamp: 00:16:00
 Claim: Robinson's mother saw the news photo of the shooter on September 11 and stated it looked like her son; she called her husband to confirm.
 Transcript Snippet: she saw the photo of the shooter in the news and thought that the shooter looked like her son
 Anchored Artifacts: A-1095.5
-Related Nodes: N-69, N-100
+Related Nodes: N-69, N-59
 Confidence: high
 Investigative Direction: Verify timing of news publication vs. mother's call via phone and interview records.
 
@@ -830,7 +830,7 @@ Claim Timestamp: 01:05:20
 Claim: Charlie Kirk stated on the August 6 Megyn Kelly show that he had received text messages calling him an antisemite.
 Transcript Snippet: I have text messages, Megan, calling me an anti-semite
 Anchored Artifacts: A-1099.1
-Related Nodes: N-1, N-1098
+Related Nodes: N-1098
 Confidence: high
 Investigative Direction: Obtain the cited text messages and verify attribution.
 
@@ -940,7 +940,7 @@ Claim Timestamp: 00:12:06
 Claim: Governor Cox previously described a suspect in light shorts and maroon shirt scouting the venue; the indictment describes only a single suspect in a black American-flag outfit, omitting the prior outfit detail.
 Transcript Snippet: Governor Cox said he was wearing the light shorts and maroon shirt. The implication here being...this is missing from the indictment
 Anchored Artifacts: A-1095.1, A-1095.2
-Related Nodes: N-85, N-69
+Related Nodes: N-70, N-69
 Confidence: high
 Investigative Direction: Compare Cox's earlier press statements to indictment timeline; review UVU footage for second outfit.
 
@@ -965,7 +965,7 @@ Claim Timestamp: 01:09:21
 Claim: Per Candace's contacts, Charlie's top Jewish donors were pulling funding within 48 hours of his death and demanding their name be removed from a Turning Point building; after his death they asked for it to be restored.
 Transcript Snippet: his top Jewish donors were pulling funding from him, demanding that Charlie take their name off of the building
 Anchored Artifacts: 
-Related Nodes: N-1, N-1000, N-1101
+Related Nodes: N-1000, N-1101
 Confidence: medium
 Uncertainty: Single-source tip relayed by host.
 Investigative Direction: Identify donors; obtain internal TPUSA communications; verify building-donor naming history.
@@ -980,7 +980,7 @@ Tags: calls_for_tips
 ### Occurrence 1
 
 Video Timestamp: 00:00:34
-Speaker: N-7
+Speaker: N-3
 Quote: What is happening right now in the world and what just happened to my friend Charlie Kirk is a battle of sheer evil versus goodness
 Context: Opening framing of shooting as cosmic good-vs-evil conflict rather than partisan.
 Tags: cosmic_framing
@@ -993,7 +993,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:34:48
-Speaker: N-7
+Speaker: N-3
 Quote: Obviously, I was in a very agrieved state and I was not prepared to even accept that Charlie Kirk was not on this earth
 Context: Candace explains why she was not initially available to Lance Twigs family.
 Tags: self_described
@@ -1002,7 +1002,7 @@ Confidence: high
 ### Occurrence 2
 
 Video Timestamp: 00:42:13
-Speaker: N-7
+Speaker: N-3
 Quote: Somebody said something to you're unstable...I have been destabilized by watching Charlie Kirk catch a bullet in his neck and then being gas lit
 Context: Host defends emotional state while pressing for transparency.
 Tags: emotional_framing
@@ -1015,7 +1015,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 01:09:21
-Speaker: N-7
+Speaker: N-3
 Quote: his top Jewish donors were pulling funding from him, demanding that Charlie take their name off of the building
 Context: Host cites donor identity (Jewish) as relevant to pressure narrative; identity is foregrounded as causal.
 Tags: identity_foregrounding
@@ -1028,7 +1028,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 01:41:51
-Speaker: N-7
+Speaker: N-3
 Quote: And am I emotionally invested in this? Yes. Somebody said something to you're unstable.
 Context: Host anticipates accusation of instability/conspiracy framing, asserts it as accurate reading.
 Tags: anticipatory_defense

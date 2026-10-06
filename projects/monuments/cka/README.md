@@ -15,8 +15,8 @@ Greenfield monument for **Candace Owens** numbered show episodes (`@RealCandaceO
 
 Same convention as BoC / episode analysis protocol:
 
-- **Person:** `N-1` … `N-999`
-- **Topic / Org / Place:** `N-1000+`
+- **Person:** `N-1` … `N-999`, then new persons `N-10000+` (Daveed lock 2026-10-04). A person id in `N-1000` … `N-9999` is not allowed.
+- **Topic / Org / Place:** `N-1000` … `N-9999`
 - **Claims / artifacts / memes:** global cross-episode ledger (continue from CKA ingest, not BoC demo ledger)
 
 ## Neo4j

@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 4416eff204bca7a7209dc9ce163ce86f52709581dce7aad641a8ba51de16006d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-5, N-985, N-986, N-987, N-988, N-989, N-990, N-991, N-992, N-993, N-994, N-995, N-996, N-997, N-998, N-999, N-1612, N-1613, N-1614, N-1615, N-1616
-  - Reused Nodes Appearing: N-1, N-1207, N-1208
+  - New Nodes Introduced: N-5, N-986, N-987, N-989, N-990, N-993, N-994, N-996, N-998, N-1612, N-1613, N-1614, N-1615, N-1616
+  - Reused Nodes Appearing: N-1207, N-1208
   - (see registers)
 
 ---
@@ -42,7 +42,7 @@ Video Timestamp: 00:08:50–00:09:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads message contents verbatim)
 
-*Related: C-2476, C-2478, N-1, N-7, N-988, N-1616*
+*Related: C-2476, C-2478, N-1, N-3, N-133, N-1616*
 
 **A-1846.2** Charlie Kirk text re: Talmud ("There are some verses in the Talmud that will blow your mind." / "The Talmud is not biblical, but it is their rabbinical interpretations of Judaism." / "thought crime")
 
@@ -52,7 +52,7 @@ Video Timestamp: 00:09:46–00:10:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2477, N-1, N-7, N-988*
+*Related: C-2477, N-1, N-3, N-133*
 
 **A-1846.3** Charlie Kirk text re: Meghan McCain ("Disgrace. They are a disgrace family. A disgraceful family for the ways in which they have betrayed Americans and allowed for mass murder and bloody wars overseas.")
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:21:32–00:21:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2478, N-1, N-7, N-989*
+*Related: C-2478, N-1, N-3, N-989*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:07:35–00:08:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads Milo and Charlie's words verbatim)
 
-*Related: C-2481, N-991, N-1, N-988, N-1616*
+*Related: C-2481, N-334, N-133, N-1616*
 
 ---
 
@@ -104,7 +104,7 @@ Video Timestamp: 00:20:00–00:20:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads verbatim)
 
-*Related: C-2482, N-989, N-7*
+*Related: C-2482, N-989, N-3*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:13:29–00:16:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads verbatim)
 
-*Related: C-2483, N-992, N-1, N-988, N-1616*
+*Related: C-2483, N-224, N-133, N-1616*
 
 ---
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:18:54–00:20:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2484, N-988, N-993, N-7*
+*Related: C-2484, N-133, N-993, N-3*
 
 ---
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:41:23–00:43:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2487, N-995, N-5, N-1613*
+*Related: C-2487, N-50, N-5, N-1613*
 
 ---
 
@@ -278,7 +278,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-997, N-1614*
+*Related: C-2488, N-898, N-1614*
 
 ---
 
@@ -292,7 +292,7 @@ Video Timestamp: 00:36:50–00:40:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads her own piece verbatim)
 
-*Related: C-2493, N-7, N-998, N-1616*
+*Related: C-2493, N-3, N-998, N-1616*
 
 ---
 
@@ -306,7 +306,7 @@ Video Timestamp: 00:44:36–00:45:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbatim read; original screen not displayed)
 
-*Related: C-2489, N-999, N-995, N-1613*
+*Related: C-2489, N-339, N-50, N-1613*
 
 ---
 
@@ -320,7 +320,7 @@ Video Timestamp: 00:45:22–00:46:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2490, N-1207, N-995, N-1613*
+*Related: C-2490, N-1207, N-50, N-1613*
 
 ---
 
@@ -334,7 +334,7 @@ Video Timestamp: 00:46:20–00:47:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2491, N-1208, N-995, N-1613*
+*Related: C-2491, N-1208, N-50, N-1613*
 
 ---
 
@@ -393,7 +393,7 @@ Investigative Pressure: High
 
 ---
 
-**N-985** Benjamin Netanyahu
+**N-65** Benjamin Netanyahu
 
 Named as instigator of Iran war, referenced in relation to Charlie Kirk's June White House opposition, and subject of host speculation regarding death/health.
 
@@ -406,7 +406,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-988** Ben Shapiro
+**N-133** Ben Shapiro
 
 Subject of multiple Charlie Kirk text-message artifacts, subject of Milo Yiannopoulos disclosure (A-1848.1), and speaker in audio clip A-1851.
 
@@ -428,7 +428,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1846.3, A-1849.1, C-2478, C-2482, N-1, N-7*
+*Related: A-1846.3, A-1849.1, C-2478, C-2482, N-1, N-3*
 
 ---
 
@@ -441,11 +441,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1847.1, C-2479, C-2480, N-1, N-1612*
+*Related: A-1847.1, C-2479, C-2480, N-1612*
 
 ---
 
-**N-991** Milo Yiannopoulos
+**N-334** Milo Yiannopoulos
 
 Author of text messages disclosed in A-1848.1 regarding Ben Shapiro and TPUSA.
 
@@ -454,11 +454,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1848.1, C-2481, N-1, N-988*
+*Related: A-1848.1, C-2481, N-133*
 
 ---
 
-**N-992** Blake Neff
+**N-224** Blake Neff
 
 Author of X post A-1850.1 admitting Charlie/Ben rivalry.
 
@@ -467,7 +467,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1850.1, C-2483, N-1, N-988, N-1616*
+*Related: A-1850.1, C-2483, N-133, N-1616*
 
 ---
 
@@ -480,7 +480,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1851.1, C-2484, N-7, N-988*
+*Related: A-1851.1, C-2484, N-3, N-133*
 
 ---
 
@@ -497,7 +497,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-995** Tucker Carlson
+**N-50** Tucker Carlson
 
 Subject of CIA referral disclosure (A-1854.1) and multiple X posts (A-1857.1, A-1858.1, A-1859.1).
 
@@ -523,7 +523,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-997** Emmanuel Macron
+**N-898** Emmanuel Macron
 
 Speaker attributed with statement (A-1855.10) regarding French navy escort.
 
@@ -545,11 +545,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1856.1, C-2493, N-7*
+*Related: A-1856.1, C-2493, N-3*
 
 ---
 
-**N-999** Randy Fine
+**N-339** Randy Fine
 
 Author of X post A-1857.1.
 
@@ -558,7 +558,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1857.1, C-2489, N-995, N-1613*
+*Related: A-1857.1, C-2489, N-50, N-1613*
 
 ---
 
@@ -584,7 +584,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1854.1, A-1857.1, A-1858.1, A-1859.1, C-2487, C-2489, C-2490, C-2491, N-995*
+*Related: A-1854.1, A-1857.1, A-1858.1, A-1859.1, C-2487, C-2489, C-2490, C-2491, N-50*
 
 ---
 
@@ -597,7 +597,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1852.1, A-1853.1, A-1855.1 through A-1855.10, A-1860.1, C-2485, C-2486, C-2488, N-5, N-985*
+*Related: A-1852.1, A-1853.1, A-1855.1 through A-1855.10, A-1860.1, C-2485, C-2486, C-2488, N-5, N-65*
 
 ---
 
@@ -623,7 +623,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1846.1, A-1847.1, A-1848.1, A-1850.1, A-1856.1, C-2476, C-2478, C-2480, C-2481, C-2483, C-2493, N-1, N-988*
+*Related: A-1846.1, A-1847.1, A-1848.1, A-1850.1, A-1856.1, C-2476, C-2478, C-2480, C-2481, C-2483, C-2493, N-133*
 
 ---
 
@@ -637,7 +637,7 @@ Claim: Charlie Kirk privately told Candace Owens that Ben Shapiro was "unhinged"
 
 Anchored Artifacts: A-1846.1
 
-Related Nodes: N-1, N-7, N-988, N-1616, N-986, N-987
+Related Nodes: N-1, N-3, N-133, N-1616, N-986, N-987
 
 Investigative Direction: Obtain device-level forensic verification of the text messages; compare timestamps against other contemporaneous Charlie Kirk public statements.
 
@@ -651,7 +651,7 @@ Claim: Charlie Kirk privately told Candace Owens there were "some verses in the 
 
 Anchored Artifacts: A-1846.2
 
-Related Nodes: N-1, N-7
+Related Nodes: N-1, N-3
 
 Investigative Direction: Cross-reference against Charlie Kirk's public statements on Judaism and the Talmud; verify authenticity of message timestamps.
 
@@ -665,7 +665,7 @@ Claim: Charlie Kirk privately texted Candace Owens that the McCains were "a disg
 
 Anchored Artifacts: A-1846.3
 
-Related Nodes: N-1, N-7, N-989, N-1616
+Related Nodes: N-1, N-3, N-989, N-1616
 
 Investigative Direction: Forensic verification of the message; examine whether Charlie Kirk made comparable public statements.
 
@@ -707,7 +707,7 @@ Claim: A text exchange between Milo Yiannopoulos and Charlie Kirk describes Ben 
 
 Anchored Artifacts: A-1848.1
 
-Related Nodes: N-991, N-1, N-988, N-1616
+Related Nodes: N-334, N-133, N-1616
 
 Investigative Direction: Forensic verification of messages; corroborate with independent reporting or testimony regarding TPUSA donor pressure circa 2014–2015.
 
@@ -721,7 +721,7 @@ Claim: Meghan McCain posted on X: "Stop sharing dead people's text messages, you
 
 Anchored Artifacts: A-1849.1
 
-Related Nodes: N-989, N-7
+Related Nodes: N-989, N-3
 
 Investigative Direction: Direct retrieval of the original X post via archive.
 
@@ -735,7 +735,7 @@ Claim: Blake Neff posted on X acknowledging Charlie Kirk and Ben Shapiro "differ
 
 Anchored Artifacts: A-1850.1
 
-Related Nodes: N-992, N-1, N-988, N-1616
+Related Nodes: N-224, N-133, N-1616
 
 Investigative Direction: Direct retrieval of the original X post via archive.
 
@@ -749,7 +749,7 @@ Claim: An on-stage exchange shows Ben Shapiro pressing Michael Knowles to state 
 
 Anchored Artifacts: A-1851.1
 
-Related Nodes: N-988, N-993, N-7
+Related Nodes: N-133, N-993, N-3
 
 Investigative Direction: Obtain the full unedited video clip; verify date and venue.
 
@@ -777,7 +777,7 @@ Claim: Donald Trump stated in a public address: "We don't need oil... we did it 
 
 Anchored Artifacts: A-1853.1
 
-Related Nodes: N-5, N-985, N-1614
+Related Nodes: N-5, N-65, N-1614
 
 Investigative Direction: Obtain full transcript and verify date.
 
@@ -791,7 +791,7 @@ Claim: Tucker Carlson stated in a video that "the CIA is preparing some kind of 
 
 Anchored Artifacts: A-1854.1
 
-Related Nodes: N-995, N-5, N-1613
+Related Nodes: N-50, N-5, N-1613
 
 Investigative Direction: Verify date of Tucker's disclosure; obtain any DOJ or CIA acknowledgment/denial; check whether a formal referral exists.
 
@@ -805,7 +805,7 @@ Claim: Multiple allied-nation statements, as read by the host, decline or condit
 
 Anchored Artifacts: A-1855.1, A-1855.2, A-1855.3, A-1855.4, A-1855.5, A-1855.6, A-1855.7, A-1855.8, A-1855.9, A-1855.10
 
-Related Nodes: N-5, N-996, N-997, N-1614
+Related Nodes: N-5, N-996, N-898, N-1614
 
 Investigative Direction: Obtain original government press releases or transcripts for each quoted statement and verify dates.
 
@@ -819,7 +819,7 @@ Claim: Randy Fine posted on X: "It sounds like Tucker Carlson is learning the ha
 
 Anchored Artifacts: A-1857.1
 
-Related Nodes: N-999, N-995, N-1613
+Related Nodes: N-339, N-50, N-1613
 
 Investigative Direction: Retrieve original X post via archive.
 
@@ -833,7 +833,7 @@ Claim: Laura Loomer posted on X claiming to have "created a list... Of conservat
 
 Anchored Artifacts: A-1858.1
 
-Related Nodes: N-1207, N-995, N-1613
+Related Nodes: N-1207, N-50, N-1613
 
 Investigative Direction: Verify whether the list has ever been published publicly; check DOJ acknowledgment.
 
@@ -847,7 +847,7 @@ Claim: Alex Stein posted on X: "America is totally compromised by foreign actors
 
 Anchored Artifacts: A-1859.1
 
-Related Nodes: N-1208, N-995, N-1613
+Related Nodes: N-1208, N-50, N-1613
 
 Investigative Direction: Retrieve original X post via archive.
 
@@ -875,7 +875,7 @@ Claim: Candace Owens published an article (read aloud in this episode) quoting J
 
 Anchored Artifacts: A-1856.1
 
-Related Nodes: N-7, N-998, N-1616
+Related Nodes: N-3, N-998, N-1616
 
 Investigative Direction: Retrieve the original published article (Substack or platform); verify publication date.
 

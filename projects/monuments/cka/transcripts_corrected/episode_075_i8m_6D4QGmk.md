@@ -255,7 +255,7 @@ They want to be gods on Earth. That's what they want to be. They see themselves 
 
 [48:11]
 
->> It's just amazing. I love that the follow-up question was, is that going to include Israeli boots on the ground? Like it's implied that it's not Israeli boots on the ground. And as a follow-up it's like, oh okay, if you do it, are you going to are you going to also include Israeli boots on the ground? And in that same vein, we have Caroline Levitt signaling that a a draft is not off the table because Trump is smart. Take a listen. >> And and the president had an interesting exchange on Air Force One over the weekend, Caroline. I want to get your take about this idea of troops on the ground. Mothers out there are worried that we're going to have a draft, that they're going to see their sons get in and and daughters get involved in this.
+>> It's just amazing. I love that the follow-up question was, is that going to include Israeli boots on the ground? Like it's implied that it's not Israeli boots on the ground. And as a follow-up it's like, oh okay, if you do it, are you going to are you going to also include Israeli boots on the ground? And in that same vein, we have Karoline Leavitt signaling that a a draft is not off the table because Trump is smart. Take a listen. >> And and the president had an interesting exchange on Air Force One over the weekend, Caroline. I want to get your take about this idea of troops on the ground. Mothers out there are worried that we're going to have a draft, that they're going to see their sons get in and and daughters get involved in this.
 
 [48:46]
 

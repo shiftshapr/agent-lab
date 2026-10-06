@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 58,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -280,7 +280,7 @@
             "C-2118"
           ],
           "related_nodes": [
-            "N-732",
+            "N-293",
             "N-1495"
           ],
           "tags": [],
@@ -299,7 +299,7 @@
             "C-2119"
           ],
           "related_nodes": [
-            "N-732",
+            "N-293",
             "N-1495"
           ],
           "tags": [],
@@ -469,8 +469,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-732",
-      "ref": "N-732",
+      "@id": "N-293",
+      "ref": "N-293",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Subject of episode segment two; on-air audio captures regarding Jeffrey Epstein / pedophilia framing.",
@@ -488,7 +488,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-740",
+        "N-334",
         "N-741",
         "N-1495"
       ]
@@ -627,8 +627,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-740",
-      "ref": "N-740",
+      "@id": "N-334",
+      "ref": "N-334",
       "name": "Milo Yiannopoulos",
       "type": "person",
       "description": "Referenced as informer to Nick Fuentes the night before Jan 6 about alleged federal trap.",
@@ -642,7 +642,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-732",
+        "N-293",
         "N-1495"
       ]
     },
@@ -663,15 +663,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-732",
+        "N-293",
         "N-1495"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-743",
-      "ref": "N-743",
-      "name": "Marjorie Greene",
+      "@id": "N-204",
+      "ref": "N-204",
+      "name": "Marjorie Taylor Greene",
       "type": "person",
       "description": "Referenced in Fuentes clip re: framing of Epstein case as \"female victims.\"",
       "related_artifacts": [],
@@ -682,7 +682,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-732",
+        "N-293",
         "N-1495"
       ]
     },
@@ -710,8 +710,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-745",
-      "ref": "N-745",
+      "@id": "N-552",
+      "ref": "N-552",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Investigator cited as having done significant plane-tracking work.",
@@ -732,9 +732,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-746",
-      "ref": "N-746",
-      "name": "Nellie \"Mommy Sleuth\" (Investigation Contributor)",
+      "@id": "N-413",
+      "ref": "N-413",
+      "name": "Mommy Sleuth (Nellie)",
       "type": "person",
       "description": "Anonymous reader credited with Courage House Nevada and plane-tracking research.",
       "related_artifacts": [
@@ -858,7 +858,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-730",
-        "N-746"
+        "N-413"
       ]
     },
     {
@@ -886,8 +886,8 @@
       "related_nodes": [
         "N-730",
         "N-731",
-        "N-745",
-        "N-746"
+        "N-552",
+        "N-413"
       ]
     },
     {
@@ -959,10 +959,10 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-732",
-        "N-740",
+        "N-293",
+        "N-334",
         "N-741",
-        "N-743"
+        "N-204"
       ]
     },
     {
@@ -1158,8 +1158,8 @@
       ],
       "related_nodes": [
         "N-2",
-        "N-745",
-        "N-746",
+        "N-552",
+        "N-413",
         "N-1492"
       ],
       "tags": [],
@@ -1176,7 +1176,7 @@
         "A-1641.1"
       ],
       "related_nodes": [
-        "N-732",
+        "N-293",
         "N-1495"
       ],
       "tags": [],
@@ -1193,7 +1193,7 @@
         "A-1641.2"
       ],
       "related_nodes": [
-        "N-732",
+        "N-293",
         "N-1495"
       ],
       "tags": [],

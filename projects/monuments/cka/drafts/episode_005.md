@@ -17,8 +17,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1111, A-1112, A-1113, A-1114, A-1115, A-1116, A-1117, A-1118, A-1119
   - Claim Range: C-1186-C-1204
-  - New Nodes Introduced: N-106, N-107, N-108, N-109, N-110, N-111, N-112, N-113, N-114, N-115, N-116, N-117, N-1113, N-1114, N-1115, N-1116, N-1117, N-1118, N-1119, N-1120, N-1121, N-1122, N-1123, N-1124, N-1125, N-1126, N-1127, N-1128, N-1129
-  - Reused Nodes Appearing: N-1, N-2, N-7, N-42, N-50, N-65, N-66, N-69, N-1000, N-1076, N-1077, N-1091, N-1092
+  - New Nodes Introduced:  N-107, N-108, N-109, N-110, N-111, N-112, N-113, N-114, N-115, N-116, N-117, N-1113, N-1114, N-1115, N-1116, N-1117, N-1118, N-1119, N-1120, N-1121, N-1122, N-1123, N-1124, N-1125, N-1126, N-1127, N-1128, N-1129
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-65, N-66, N-69, N-1000, N-1076, N-1077, N-1091, N-1092
 
 ## 2. Executive Summary
 
@@ -60,7 +60,7 @@ Confidence: high
 **A-1113.1** BBC news article in which Sherry Steel describes a large police presence outside Tyler Robinson's townhouse while she walked her dog in the evening.
 Event Timestamp: 2025-09-10 (evening)
 Video Timestamp: 00:20:55–00:21:35
-*Related: C-1190, C-1199, N-109, N-69, N-106, N-1115, N-1123*
+*Related: C-1190, C-1199, N-109, N-69, N-84, N-1115, N-1123*
 Transcript Snippet: Sherry Steel, who lives across the street… came back from an evening walk to see a large police presence.
 Confidence: high
 
@@ -71,7 +71,7 @@ Confidence: high
 **A-1114.1** Good Morning America segment the morning after the Kirk shooting featuring Tiffany Barker, her niece L Steel, and Mia Grant describing their eyewitness account from the UVU event.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:23:50–00:27:25
-*Related: C-1191, N-110, N-111, N-112, N-1, N-1115, N-1126*
+*Related: C-1191, N-110, N-111, N-112, N-1115, N-1126*
 Transcript Snippet: We're joined now by Tiffany Barker and her nieces L Steel and Mia Grant who were all in the audience yesterday afternoon.
 Confidence: high
 
@@ -82,7 +82,7 @@ Confidence: high
 **A-1115.1** Video statement by Israeli PM Benjamin Netanyahu denying Israeli involvement in Charlie Kirk's murder and quoting a letter he says Kirk sent him about Christianity and Israel.
 Event Timestamp: 2025-09 (post-assassination)
 Video Timestamp: 00:40:35–00:42:35
-*Related: C-1192, N-65, N-1, N-1121, N-1128*
+*Related: C-1192, N-65, N-1121, N-1128*
 Transcript Snippet: while somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder.
 Confidence: high
 
@@ -104,7 +104,7 @@ Confidence: high
 **A-1117.1** Text messages Bill Aman publicly shared to rebut Candace Owens's claims about a Hamptons trip with Charlie Kirk; host notes messages lack dates/context and do not address her specific assertions.
 Event Timestamp: 2025-09 (post-assassination)
 Video Timestamp: 00:46:00–00:47:00
-*Related: C-1194, N-66, N-1, N-1121*
+*Related: C-1194, N-66, N-1121*
 Transcript Snippet: Blackman published these private text messages… missing from these messages are like a date, a context.
 Confidence: medium
 
@@ -115,7 +115,7 @@ Confidence: medium
 **A-1118.1** A book about Charlie Kirk's assassination that was available on Amazon prior to the September 10 event; Amazon issued a 'technical issues' statement and removed the listing.
 Event Timestamp: Pre-2025-09-10 (per host)
 Video Timestamp: 01:10:55–01:11:25
-*Related: C-1195, N-1, N-1113*
+*Related: C-1195, N-1113*
 Transcript Snippet: the book about Charlie's assassination on Amazon that was available the day before it happened… Amazon issued a response blaming technical issues.
 Confidence: medium
 Uncertainty: Host attributes to listener tip; producer note supplied
@@ -135,7 +135,7 @@ Confidence: low
 
 ## 4. Node Register
 
-**N-7** Candace Owens
+**N-3** Candace Owens
 
 Node Type: Person
 Host; investigator of the Kirk assassination and subject of the PBD Bowling contradiction.
@@ -162,7 +162,7 @@ Named suspect in Kirk assassination; subject of outfit/language/photo anomalies.
 
 ---
 
-**N-106** Lance
+**N-84** Lance Twigs
 
 Node Type: Person
 Robinson's alleged housemate/co-respondent in the text-message thread.
@@ -565,7 +565,7 @@ Claim Timestamp: 00:03:38
 Claim: The text exchange between Tyler Robinson and 'Lance' contains the word 'outfits', which the host argues is gender-marked language atypical of a male shooter.
 Transcript Snippet: He says to Lance, allegedly, quote, 'I worry about Prince. I had to leave it… changed outfits.'
 Anchored Artifacts: 
-Related Nodes: N-69, N-106, N-1114
+Related Nodes: N-69, N-84, N-1114
 Confidence: low
 Uncertainty: Artifact verbally referenced but not shown on screen; requires human verification against the federal exhibit.
 Investigative Direction: Obtain the original text-message screenshots from the federal exhibit to verify wording and authorship.
@@ -578,7 +578,7 @@ Claim Timestamp: 00:02:42
 Claim: The text exchange between Tyler Robinson and 'Lance' describes seeing a 'squad car' near the rifle, which the host argues is insider language.
 Transcript Snippet: I can get close to it, but there is a squad car parked right by it. Squad car.
 Anchored Artifacts: 
-Related Nodes: N-69, N-106, N-1114
+Related Nodes: N-69, N-84, N-1114
 Confidence: low
 Uncertainty: Artifact verbally referenced but not shown on screen.
 Investigative Direction: Cross-check the original text-message screenshots from the federal exhibit.
@@ -615,7 +615,7 @@ Claim Timestamp: 00:23:54
 Claim: Tiffany Barker and her nieces L Steel and Mia Grant stated on Good Morning America that they were roughly 15 feet from Charlie Kirk when he was shot and described a family group of 16.
 Transcript Snippet: We had 16 of us there. So, five adults and like 11 children.
 Anchored Artifacts: A-1114.1
-Related Nodes: N-110, N-111, N-112, N-1, N-1077, N-1125, N-1115
+Related Nodes: N-110, N-111, N-112, N-1077, N-1125, N-1115
 Confidence: high
 Investigative Direction: Corroborate the family's UVU attendance, family-of-16 size, and relationship to one another.
 
@@ -627,7 +627,7 @@ Claim Timestamp: 00:40:35
 Claim: Benjamin Netanyahu issued a second video statement denying that Israel had any role in Charlie Kirk's murder and quoted from a letter he attributes to Kirk.
 Transcript Snippet: somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder. This is insane.
 Anchored Artifacts: A-1115.1
-Related Nodes: N-65, N-1, N-1121, N-1091
+Related Nodes: N-65, N-1121, N-1091
 Confidence: high
 Investigative Direction: Obtain Netanyahu's first denial video and the unedited Kirk letter; verify date stamps on both.
 
@@ -639,7 +639,7 @@ Claim Timestamp: 00:48:01
 Claim: Eric Bowling stated on PBD Podcast that Candace Owens had not attended or spoken at Turning Point USA events in years and described her separation from Kirk as a quiet breakup.
 Transcript Snippet: When's the last time she was at a Turning Point event? Uh, not in many years.
 Anchored Artifacts: A-1116.1
-Related Nodes: N-107, N-7, N-1124, N-1000, N-1121, N-1122
+Related Nodes: N-107, N-3, N-1124, N-1000, N-1121, N-1122
 Contradicts: C-1200
 Confidence: high
 Investigative Direction: Compare PBD clip against TPUSA published tour / speaker schedules from 2024–2025.
@@ -652,7 +652,7 @@ Claim Timestamp: 00:46:00
 Claim: Bill Aman released private text-message exchanges with Charlie Kirk to refute Owens's claims about a Hamptons retreat; host notes the messages lack dates and context and do not address her specific assertions.
 Transcript Snippet: Blackman published these private text messages… missing from these messages are like a date, a context.
 Anchored Artifacts: A-1117.1
-Related Nodes: N-66, N-7, N-1, N-1092, N-1121
+Related Nodes: N-66, N-3, N-1092, N-1121
 Confidence: medium
 Investigative Direction: Obtain the full unedited text exchange and metadata from Aman's publication; cross-check against Hamptons attendee statements.
 
@@ -665,7 +665,7 @@ Claim Timestamp: 01:10:55
 Claim: A book about Charlie Kirk's assassination was listed on Amazon before September 10, 2025; Amazon attributed the early date to technical issues and removed the title.
 Transcript Snippet: the book about Charlie's assassination on Amazon that was available the day before it happened.
 Anchored Artifacts: A-1118.1
-Related Nodes: N-1, N-1113
+Related Nodes: N-1113
 Confidence: medium
 Uncertainty: Listing reported via viewer tip; Amazon statement via producer note.
 Investigative Direction: Retrieve Amazon listing history via Wayback Machine and confirm Amazon's technical-issue statement.
@@ -728,7 +728,7 @@ Claim Timestamp: 00:49:24
 Claim: Candace Owens states that she went on tour with Turning Point USA on college campuses the previous year, contradicting Bowling's claim that she has not spoken at TPUSA events.
 Transcript Snippet: I literally went on tour with Turning Point USA on college campuses last year.
 Anchored Artifacts: 
-Related Nodes: N-7, N-1000
+Related Nodes: N-3, N-1000
 Contradicts: C-1193
 Confidence: medium
 Investigative Direction: Pull TPUSA published tour schedules and verify Owens speaking appearances.
@@ -741,7 +741,7 @@ Claim Timestamp: 00:55:35
 Claim: Candace Owens states she was not invited to speak at the Kirk memorial event held in Arizona, and that the event was effectively an open memorial.
 Transcript Snippet: I was not invited to speak alongside President Trump and JD Vance on the stage.
 Anchored Artifacts: 
-Related Nodes: N-7, N-2, N-1122
+Related Nodes: N-3, N-2, N-1122
 Confidence: medium
 Investigative Direction: Verify published speaker list for the Arizona memorial event.
 
@@ -753,7 +753,7 @@ Claim Timestamp: 00:04:37
 Claim: Locals emailed the host stating that any footage they possessed was sent to federal authorities who then pressured them not to release it publicly.
 Transcript Snippet: the feds told them that they were not allowed to share it at all.
 Anchored Artifacts: 
-Related Nodes: N-7, N-1120, N-1129
+Related Nodes: N-3, N-1120, N-1129
 Confidence: medium
 Investigative Direction: FOIA requests to federal agencies; canvass Orem residents for corroboration.
 
@@ -777,7 +777,7 @@ Claim Timestamp: 00:48:32
 Claim: Eric Bowling on PBD Podcast stated that Candace Owens would have been 'the logical heir to the TPUSA throne' absent a 'very quiet breakup where she got too rabbit hole for him'.
 Transcript Snippet: a very quiet breakup where she got too rabbit hole for him.
 Anchored Artifacts: A-1116.1
-Related Nodes: N-107, N-7, N-50, N-42, N-1000, N-1121
+Related Nodes: N-107, N-3, N-50, N-42, N-1000, N-1121
 Contradicts: C-1200
 Confidence: high
 Investigative Direction: Verify Bowling's claim against TPUSA internal communications and Kirk's own public statements in the months before death.
@@ -791,7 +791,7 @@ Investigative Direction: Verify Bowling's claim against TPUSA internal communica
 ### Occurrence 1
 
 Video Timestamp: 01:13:34
-Speaker: N-7
+Speaker: N-3
 Quote: the evil of this world, the evil that we are fighting. And we are only going to conquer this evil through truth.
 Context: Closing monologue; ritualised naming of an unseen malevolent force.
 Tags: binary_framing
@@ -800,7 +800,7 @@ Confidence: high
 ### Occurrence 2
 
 Video Timestamp: 01:09:00
-Speaker: N-7
+Speaker: N-3
 Quote: Principalities, rulers in dark places. The Bible tells us this and it is correct.
 Context: Religious framing of the unseen power structure.
 Tags: religious_framing
@@ -813,7 +813,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:57:04
-Speaker: N-7
+Speaker: N-3
 Quote: Breit Mcronone comes out and says they have offered scientific evidence to the US court to prove that Breijit is a woman.
 Context: Host mocks Brigitte Macron's legal team invoking 'scientific proof' in an early-stage suit.
 Tags: satiric_invocation
@@ -861,7 +861,7 @@ Confidence: medium
 ### Occurrence 1
 
 Video Timestamp: 00:54:09
-Speaker: N-7
+Speaker: N-3
 Quote: Why would I ask to be a part like like this is obviously Erika is in like full control?
 Context: Host speculates Erika Kirk is being directed by donors / White House on memorial planning.
 Tags: memory_management

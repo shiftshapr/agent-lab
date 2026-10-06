@@ -18,7 +18,7 @@
   - Artifact Families Introduced: A-1155, A-1156, A-1157, A-1158, A-1159, A-1160, A-1161
   - Claim Range: C-1267-C-1285
   - New Nodes Introduced: N-148, N-149, N-150, N-151, N-152, N-153, N-154, N-155, N-156, N-157, N-158, N-159, N-160, N-161, N-162, N-163, N-164, N-1003, N-1175, N-1176, N-1177, N-1178, N-1179, N-1180, N-1181, N-1182, N-1183, N-1184, N-1185, N-1186, N-1187, N-1188, N-1189, N-1190, N-1191, N-1192, N-1193, N-1194
-  - Reused Nodes Appearing: N-1, N-2, N-7, N-69, N-75, N-79, N-80, N-99, N-100, N-122, N-133, N-1077, N-1137
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-69, N-75, N-5, N-80, N-99, N-59, N-122, N-133, N-1077, N-1137
 
 ## 2. Executive Summary
 
@@ -30,13 +30,13 @@ Episode presses two investigative threads. First, FBI pressure on Utah authoriti
 
 **A-1155.1** Text chain between Candace and Charlie Kirk re: UK flight booking ($450 coach / $1,200 first class)
 Video Timestamp: 00:12:01–00:12:38
-*Related: C-1267, C-1268, N-1, N-7, N-100*
+*Related: C-1267, C-1268, N-1, N-3, N-59*
 Transcript Snippet: Reme $450 in coach or 1,200 in first class. And he's like, "Wow, let's book it."
 Confidence: high
 
 **A-1155.2** Texts to sister/husband Aug 30–Sep 2 re: 'imminent danger', 'communist underground' at schools, bees as code
 Video Timestamp: 00:16:44–00:17:54
-*Related: C-1269, N-7, N-100, N-157, N-1179*
+*Related: C-1269, N-3, N-59, N-157, N-1179*
 Transcript Snippet: I sense like imminent danger is coming and for some reason I feel like there is an underground…related to bees.
 Confidence: high
 
@@ -84,7 +84,7 @@ Confidence: high
 
 **A-1158.1** Jimmy Kimmel monologue thanking right-wing free-speech defenders including Candace Owens
 Video Timestamp: 00:38:33–00:40:25
-*Related: C-1275, N-7, N-122, N-150, N-133, N-151, N-152, N-153, N-1185*
+*Related: C-1275, N-3, N-122, N-150, N-133, N-151, N-152, N-153, N-1185*
 Transcript Snippet: People who I never would have imagined like Ben Shapiro, Clay Travis, Candace Owens…
 Confidence: high
 
@@ -94,7 +94,7 @@ Confidence: high
 
 **A-1159.1** Riverbend Ranch audio tribute honoring Charlie Kirk
 Video Timestamp: 00:34:37–00:35:17
-*Related: C-1276, N-1, N-1190*
+*Related: C-1276, N-1190*
 Transcript Snippet: We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.
 Confidence: high
 
@@ -104,7 +104,7 @@ Confidence: high
 
 **A-1160.1** Sept 9 book club recording of Candace committing to homeschooling children
 Video Timestamp: 00:18:56–00:21:07
-*Related: C-1277, N-7, N-1179*
+*Related: C-1277, N-3, N-1179*
 Transcript Snippet: I'm homeschooling my kids. I'm so excited…a weight got lift off of my shoulders.
 Confidence: high
 
@@ -131,7 +131,7 @@ Deceased subject of assassination case; founder of Turning Point.
 
 ---
 
-**N-7** Candace Owens
+**N-3** Candace Owens
 
 Node Type: Person
 Host; presenter of investigative claims.
@@ -167,7 +167,7 @@ Charlie's widow; reported by Megyn Kelly to have sought Catholic priest over Jez
 
 ---
 
-**N-79** Donald Trump
+**N-5** Donald Trump
 
 Node Type: Person
 Target of July 13, 2024 Crooks attempt; referenced re Iran narrative.
@@ -296,7 +296,7 @@ Referenced for concept of 'scientism'.
 
 ---
 
-**N-100** Candace Owens' Husband
+**N-59** George (Candace's husband)
 
 Node Type: Person
 Unnamed spouse; met via UK trip 18 days before engagement.
@@ -648,7 +648,7 @@ Claim Timestamp: 00:12:01
 Claim: Candace and Charlie exchanged text messages about booking UK flights ($450 coach, $1,200 first class).
 Transcript Snippet: Reme $450 in coach or 1,200 in first class.
 Anchored Artifacts: A-1155.1
-Related Nodes: N-1, N-7, N-100, N-79, N-149, N-154, N-155, N-80, N-156, N-99, N-158, N-160, N-161, N-162, N-163, N-164
+Related Nodes: N-1, N-3, N-59, N-5, N-149, N-154, N-155, N-80, N-156, N-99, N-158, N-160, N-161, N-162, N-163, N-164
 Confidence: high
 Investigative Direction: Verify text chain authenticity and timestamp; cross-check flight records.
 
@@ -660,7 +660,7 @@ Claim Timestamp: 00:12:38
 Claim: Candace met her husband for the first time during the UK trip and they were engaged 18 days later.
 Transcript Snippet: I didn't know him. I never even saw his face 18 day 18 days prior.
 Anchored Artifacts: A-1155.1
-Related Nodes: N-7, N-100, N-1184, N-1192, N-1192, N-1192
+Related Nodes: N-3, N-59, N-1184, N-1192
 Confidence: medium
 Investigative Direction: Corroborate via marriage records, flight manifests, and Turning Point UK launch date.
 
@@ -672,7 +672,7 @@ Claim Timestamp: 00:16:44
 Claim: Candace exchanged text messages Aug 30–Sep 2 with her husband and sister describing 'imminent danger' and a 'communist underground' at schools using 'bees' as coded language.
 Transcript Snippet: Imminent danger is coming…communist underground…has something to do with bees.
 Anchored Artifacts: A-1155.2
-Related Nodes: N-7, N-100, N-157, N-1179
+Related Nodes: N-3, N-59, N-157, N-1179
 Confidence: high
 Investigative Direction: Verify timestamps against phone records; preserve screenshots for chain-of-custody.
 
@@ -758,7 +758,7 @@ Claim Timestamp: 00:38:33
 Claim: Jimmy Kimmel's monologue thanked conservatives including Candace Owens, Ted Cruz, Ben Shapiro, Rand Paul, Mitch McConnell, and Clay Travis for defending free speech.
 Transcript Snippet: People who I never would have imagined like Ben Shapiro, Clay Travis, Candace Owens…
 Anchored Artifacts: A-1158.1
-Related Nodes: N-7, N-122, N-150, N-133, N-151, N-152, N-153, N-1185
+Related Nodes: N-3, N-122, N-150, N-133, N-151, N-152, N-153, N-1185
 Confidence: high
 Investigative Direction: Verify exact quote against full Kimmel monologue transcript.
 
@@ -770,7 +770,7 @@ Claim Timestamp: 00:34:37
 Claim: Riverbend Ranch produced and aired an audio tribute honoring Charlie Kirk's life and principles.
 Transcript Snippet: We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.
 Anchored Artifacts: A-1159.1
-Related Nodes: N-1, N-1190
+Related Nodes: N-1190
 Confidence: high
 Investigative Direction: Confirm authenticity and release date via Riverbend Ranch.
 
@@ -782,7 +782,7 @@ Claim Timestamp: 00:18:56
 Claim: At a Sept 9 book club meeting, Candace publicly described her decision to homeschool and remove her children from school.
 Transcript Snippet: I'm homeschooling my kids. I'm so excited.
 Anchored Artifacts: A-1160.1
-Related Nodes: N-7, N-1179, N-1194, N-1181, N-1194, N-1181, N-1193, N-1194, N-1181
+Related Nodes: N-3, N-1179, N-1194, N-1181, N-1194, N-1181, N-1193, N-1194, N-1181
 Confidence: high
 Investigative Direction: Verify date and obtain full recording.
 
@@ -807,7 +807,7 @@ Claim Timestamp: 00:01:42
 Claim: Host claims a well-placed source says the FBI is pressuring Utah authorities to declare the Charlie Kirk case closed as a lone-gunman act.
 Transcript Snippet: The FBI is putting an absurd amount of pressure…to come out and to say that the Charlie Kirk case is closed.
 Anchored Artifacts: 
-Related Nodes: N-1137, N-1175, N-1191, N-1191, N-1191
+Related Nodes: N-1137, N-1175, N-1191
 Confidence: low
 Investigative Direction: Identify and corroborate the source; FOIA communications between FBI and Utah authorities.
 
@@ -880,7 +880,7 @@ Investigative Direction: Identify and interview the eyewitness; obtain his foota
 ### Occurrence 1
 
 Video Timestamp: 00:12:38
-Speaker: N-7
+Speaker: N-3
 Quote: I just realized the reason that I had this overwhelming feeling to be there was because I was supposed to be my husband.
 Context: Candace recasts 'intuition/premonition' as God-guided happy coincidence leading to husband meeting.
 Tags: biographical, spiritual_framing
@@ -893,7 +893,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:10:42
-Speaker: N-7
+Speaker: N-3
 Quote: I get all the conspiracies online when people were like there's no way she her and her husband got engaged after 18 days.
 Context: Host pre-emptively cites conspiracy-theorist mockery of her 18-day engagement; uses term to dismiss critics.
 Tags: self_reference
@@ -930,7 +930,7 @@ OrgLink: N-1003 subsidiary_of N-1148
 
 ## 9. Role Assertions
 
-RoleLink: N-7 holds_role N-1171 title:Co-launcher / public figure (Turning Point UK)
+RoleLink: N-3 holds_role N-1171 title:Co-launcher / public figure (Turning Point UK)
 RoleLink: N-1 chair_of N-1171 title:Founder (Turning Point)
 RoleLink: N-2 holds_role  title:Widow of Charlie Kirk
 
@@ -948,5 +948,5 @@ TopicMention: C-1275 N-1185
 ## 13. Meme Graph Links
 
 MemeLink: M-5 invoked_by_claim C-1268
-MemeLink: M-6 invoked_by_speaker N-7
+MemeLink: M-6 invoked_by_speaker N-3
 MemeLink: M-7 invoked_by_speaker N-158

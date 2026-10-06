@@ -308,7 +308,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1208, N-1220*
+*Related: N-1208, N-1220, N-10014*
 
 **N-1220** Case-Personnel Cluster Anomalies
 
@@ -330,7 +330,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-2144*
+*Related: N-2144*
 
 **N-1222** Hospital Routing Anomaly
 
@@ -397,6 +397,15 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-2173.1, N-9, N-1208*
+
+---
+
+**N-10014** Mitt Romney
+
+Node Type: Person
+Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.
+
+*Related: prose mention in episode*
 
 ---
 

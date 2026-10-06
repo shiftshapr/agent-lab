@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 027972826917e7ed3d60ede399594503c96a505a5fc947c067de3c3bc5488af4
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-609, N-610, N-613, N-614, N-615, N-616, N-618, N-620, N-621, N-631, N-1446, N-1447, N-1448, N-1449, N-1450, N-1451
-  - Reused Nodes Appearing: N-1, N-1005
+  - New Nodes Introduced:  N-614, N-618, N-621, N-631, N-1446, N-1447, N-1448, N-1449, N-1450, N-1451
+  - Reused Nodes Appearing: N-1005
   - (see registers)
 
 ---
@@ -40,7 +40,7 @@ Video Timestamp: 00:04:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1989, C-1990, N-610, N-1, N-1005, N-1447*
+*Related: C-1989, C-1990, N-443, N-1005, N-1447*
 
 **A-1568.2** Tim Dillon clip — RFK Jr. / "What's going on" segment
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:14:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1992, N-610*
+*Related: C-1992, N-443*
 
 **A-1568.3** Tim Dillon clip — "satanic pedophiles" / apartment monologue segment
 
@@ -60,7 +60,7 @@ Video Timestamp: 00:21:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1993, N-610*
+*Related: C-1993, N-443*
 
 **A-1569** AmFest Reporter Tent Description Clip
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:09:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1991, N-1, N-1447*
+*Related: C-1991, N-1447*
 
 **A-1570** Barry Weiss CBS Hunter Cosgrove Clip
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:17:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1994, N-613, N-614, N-1005, N-1, N-1448*
+*Related: C-1994, N-444, N-614, N-1005, N-1448*
 
 **A-1571** Charlie Kirk / Justice Smith MK Ultra Interview Clip
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:40:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1996, N-615*
+*Related: C-1996, N-128*
 
 **A-1573** Paramount Tactical Valhalla Stream Clip
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:48:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1997, N-618, N-609, N-1005, N-1451*
+*Related: C-1997, N-618, N-42, N-1005, N-1451*
 
 **A-1574** Mitch Snow's Son Interview Clip
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:45:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1998, N-616, N-620, N-1446*
+*Related: C-1998, N-597, N-424, N-1446*
 
 **A-1575** Daily Wire Re-released Trailer (2021)
 
@@ -194,7 +194,7 @@ Investigative Pressure: High
 
 *Related: C-1990, C-1994, C-1997, A-1568.1, A-1570.1, A-1573.1, N-1451*
 
-**N-609** Andrew Kolbet (Turning Point USA spokesperson)
+**N-42** Andrew Kolvet
 
 Central figure in the alleged coordination of attacks on Mitch Snow; multiple spelling variants used on air (Kolbect, Kolvet, Kolbe, Kolbintz, Kolvintz).
 
@@ -205,7 +205,7 @@ Investigative Pressure: High
 
 *Related: C-1997, A-1573.1, N-1449*
 
-**N-610** Tim Dillon (comedian)
+**N-443** Tim Dillon
 
 Source of three artifact-anchored comedy clips played on air.
 
@@ -216,7 +216,7 @@ Investigative Pressure: Low
 
 *Related: C-1989, C-1990, C-1992, C-1993, A-1568.1, A-1568.2, A-1568.3*
 
-**N-613** Barry Weiss (CBS)
+**N-444** Bari Weiss
 
 On-camera CBS interviewer who introduced Hunter Cosgrove to Erica Kirk at the AmFest / CBS stage event.
 
@@ -238,7 +238,7 @@ Investigative Pressure: Medium
 
 *Related: C-1994, A-1570.1, N-1448*
 
-**N-615** Alex Jones
+**N-128** Alex Jones
 
 Source of declaration-of-war clip against Candace over Mitch Snow coverage.
 
@@ -249,7 +249,7 @@ Investigative Pressure: Medium
 
 *Related: C-1996, A-1572.1*
 
-**N-616** Mitch Snow (witness, veteran)
+**N-597** Mitch Snow
 
 Subject and source of Fort Huachuca sightings testimony; his son's interview (A-1574) provides partial corroboration.
 
@@ -271,7 +271,7 @@ Investigative Pressure: Medium
 
 *Related: C-1997, C-2001, A-1573.1, A-1576.2*
 
-**N-620** Brian Harpole
+**N-424** Brian Harpole
 
 Named in host discussion of Mitch Snow's Fort Huachuca sightings; referenced in the son's interview clip regarding the September 9 contact.
 
@@ -313,7 +313,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1998, C-2001, A-1574.1, A-1576.2, N-616, N-620*
+*Related: C-1998, C-2001, A-1574.1, A-1576.2, N-597, N-424*
 
 **N-1447** AmFest Tent Recreation Approval Chain
 
@@ -346,7 +346,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1997, A-1573.1, N-609*
+*Related: C-1997, A-1573.1, N-42*
 
 **N-1450** Daily Wire Social Media Reactivation
 
@@ -382,7 +382,7 @@ Claim: A Tim Dillon comedy segment played on air describes Turning Point USA's A
 
 Anchored Artifacts: A-1568.1
 
-Related Nodes: N-610, N-1, N-1447
+Related Nodes: N-443, N-1447
 
 Investigative Direction: Verify Tim Dillon's segment against the original recording and timestamp the exact quoted phrases.
 
@@ -394,7 +394,7 @@ Claim: A Tim Dillon comedy segment played on air observes that Erica Kirk walked
 
 Anchored Artifacts: A-1568.1
 
-Related Nodes: N-610, N-1005
+Related Nodes: N-443, N-1005
 
 Investigative Direction: Verify the quoted observations against video footage of the AmFest opening and identify the precise sequence of Erica Kirk's stage appearance.
 
@@ -406,7 +406,7 @@ Claim: An on-scene reporter played on air described, with the tent visible behin
 
 Anchored Artifacts: A-1569.1
 
-Related Nodes: N-1, N-1447
+Related Nodes: N-1447
 
 Investigative Direction: Identify the reporter and outlet, obtain the original broadcast segment, and verify the timeline of when the tent replica was displayed.
 
@@ -418,7 +418,7 @@ Claim: A Tim Dillon comedy segment played on air characterizes RFK Jr. as the le
 
 Anchored Artifacts: A-1568.2
 
-Related Nodes: N-610
+Related Nodes: N-443
 
 Investigative Direction: Verify the segment against the source recording and identify which text leaks are being referenced.
 
@@ -430,7 +430,7 @@ Claim: A Tim Dillon comedy segment played on air asserts that contemporary cultu
 
 Anchored Artifacts: A-1568.3
 
-Related Nodes: N-610
+Related Nodes: N-443
 
 Investigative Direction: Verify the segment against the source recording; assess whether the host's framing of this clip as investigative commentary is supported by the artifact.
 
@@ -442,7 +442,7 @@ Claim: A Barry Weiss CBS segment played on air introduces Hunter Cosgrove as the
 
 Anchored Artifacts: A-1570.1
 
-Related Nodes: N-613, N-614, N-1005, N-1, N-1448
+Related Nodes: N-444, N-614, N-1005, N-1448
 
 Investigative Direction: Verify the spelling "Cosgrove" against the original CBS broadcast and against public identification of the UVU student; confirm the timeline and question content.
 
@@ -466,7 +466,7 @@ Claim: An Alex Jones InfoWars segment played on air declares war on Candace Owen
 
 Anchored Artifacts: A-1572.1
 
-Related Nodes: N-615
+Related Nodes: N-128
 
 Investigative Direction: Identify the original InfoWars episode date and timestamp; verify the exact wording and the broader context of Jones's statement.
 
@@ -478,7 +478,7 @@ Claim: A Paramount Tactical Valhalla livestream segment played on air shows the 
 
 Anchored Artifacts: A-1573.1
 
-Related Nodes: N-618, N-609, N-1005, N-1451
+Related Nodes: N-618, N-42, N-1005, N-1451
 
 Investigative Direction: Obtain the full unedited Paramount Tactical Valhalla stream; verify the original wording of Andrew Kolvet's instructions and the chain of custody.
 
@@ -490,7 +490,7 @@ Claim: An interview clip played on air shows Mitch Snow's adult son stating he w
 
 Anchored Artifacts: A-1574.1
 
-Related Nodes: N-616, N-620, N-1446
+Related Nodes: N-597, N-424, N-1446
 
 Investigative Direction: Identify the interviewer and platform; obtain the unedited interview recording to assess whether the son's statements corroborate or contradict Mitch Snow's account.
 
@@ -538,7 +538,7 @@ Claim: The host asserts on air that the Paramount Tactical Valhalla stream's acc
 
 Anchored Artifacts: A-1573.1
 
-Related Nodes: N-609, N-618, N-1449
+Related Nodes: N-42, N-618, N-1449
 
 Investigative Direction: Obtain additional communication between Andrew Kolbet and the involved accounts; verify whether the "rogue" narrative was authorized at higher TPUSA levels.
 

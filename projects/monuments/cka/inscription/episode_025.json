@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 25,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -31,8 +31,8 @@
             "C-1585"
           ],
           "related_nodes": [
-            "N-324",
-            "N-325",
+            "N-272",
+            "N-45",
             "N-1288"
           ],
           "tags": [],
@@ -59,8 +59,8 @@
             "C-1585"
           ],
           "related_nodes": [
-            "N-325",
-            "N-324",
+            "N-45",
+            "N-272",
             "N-2",
             "N-1288"
           ],
@@ -88,7 +88,7 @@
             "C-1586"
           ],
           "related_nodes": [
-            "N-324",
+            "N-272",
             "N-1",
             "N-1289"
           ],
@@ -117,7 +117,7 @@
           ],
           "related_nodes": [
             "N-326",
-            "N-324",
+            "N-272",
             "N-1",
             "N-2",
             "N-1289"
@@ -146,7 +146,7 @@
             "C-1588"
           ],
           "related_nodes": [
-            "N-325",
+            "N-45",
             "N-330",
             "N-1290"
           ],
@@ -201,7 +201,7 @@
             "C-1590"
           ],
           "related_nodes": [
-            "N-325",
+            "N-45",
             "N-1290"
           ],
           "tags": [],
@@ -228,9 +228,9 @@
             "C-1591"
           ],
           "related_nodes": [
-            "N-327",
-            "N-328",
-            "N-329"
+            "N-50",
+            "N-68",
+            "N-293"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -256,9 +256,9 @@
             "C-1592"
           ],
           "related_nodes": [
-            "N-327",
-            "N-329",
-            "N-328"
+            "N-50",
+            "N-293",
+            "N-68"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -311,7 +311,7 @@
             "C-1593"
           ],
           "related_nodes": [
-            "N-333",
+            "N-71",
             "N-1293"
           ],
           "tags": [],
@@ -353,8 +353,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-324",
-      "ref": "N-324",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Chief of Staff of Turning Point USA; subject of repeated adjectival framing (\"hero,\" \"amazing,\" \"brilliant\") in post-9/10 memorial and TPUSA orbit coverage; alleged by host to have been positioned as Charlie Kirk's successor.",
@@ -376,7 +376,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-325",
+        "N-45",
         "N-326",
         "N-1",
         "N-2",
@@ -386,8 +386,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-325",
-      "ref": "N-325",
+      "@id": "N-45",
+      "ref": "N-45",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Father of Mikey McCoy; transitioning senior pastor of Godspeak Calvary Chapel (mid-July 2025); per host, holds growing role at Turning Point USA; relocated to Phoenix area; placed Coronado home on market August 24, 2025.",
@@ -409,7 +409,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-324",
+        "N-272",
         "N-330",
         "N-1290"
       ]
@@ -433,14 +433,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-324",
+        "N-272",
         "N-1289"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-327",
-      "ref": "N-327",
+      "@id": "N-50",
+      "ref": "N-50",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Subject of episode segment addressing backlash from Nick Fuentes interview; articulates theological anti-collective-punishment framing and explains decision to interview Fuentes.",
@@ -458,14 +458,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-328",
-        "N-329"
+        "N-68",
+        "N-293"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-328",
-      "ref": "N-328",
+      "@id": "N-68",
+      "ref": "N-68",
       "name": "Dave Smith",
       "type": "person",
       "description": "Host of the show on which Tucker Carlson appeared to address the Nick Fuentes interview backlash.",
@@ -483,14 +483,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-327",
-        "N-329"
+        "N-50",
+        "N-293"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-329",
-      "ref": "N-329",
+      "@id": "N-293",
+      "ref": "N-293",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Subject of Tucker Carlson's interview; framed by Tucker as example of capacity for personal change despite prior personal attacks on Tucker's family.",
@@ -508,8 +508,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-327",
-        "N-328"
+        "N-50",
+        "N-68"
       ]
     },
     {
@@ -531,7 +531,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-325",
+        "N-45",
         "N-1290"
       ]
     },
@@ -559,8 +559,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-332",
-      "ref": "N-332",
+      "@id": "N-259",
+      "ref": "N-259",
       "name": "Sam Parker",
       "type": "person",
       "description": "Per host, identified as the source of the July 18 UVU/Turning Point USA event-request finding. (Name preserved as it appears in transcript; identity not further corroborated in this episode.)",
@@ -577,8 +577,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-333",
-      "ref": "N-333",
+      "@id": "N-71",
+      "ref": "N-71",
       "name": "George Zinn",
       "type": "person",
       "description": "Salt Lake City event disruptor; per host's source, presented at Utah Valley Hospital after the 9/10 event and stated he had been paid to disrupt without knowing the payment source.",
@@ -638,8 +638,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-324",
-        "N-325",
+        "N-272",
+        "N-45",
         "N-1",
         "N-2"
       ]
@@ -665,7 +665,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-324",
+        "N-272",
         "N-326",
         "N-1",
         "N-2"
@@ -692,7 +692,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-325",
+        "N-45",
         "N-330"
       ]
     },
@@ -716,7 +716,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-331",
-        "N-332"
+        "N-259"
       ]
     },
     {
@@ -762,7 +762,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-333"
+        "N-71"
       ]
     },
     {
@@ -809,8 +809,8 @@
         "A-1321.1"
       ],
       "related_nodes": [
-        "N-324",
-        "N-325",
+        "N-272",
+        "N-45",
         "N-1",
         "N-1288"
       ],
@@ -828,8 +828,8 @@
         "A-1322.1"
       ],
       "related_nodes": [
-        "N-325",
-        "N-324",
+        "N-45",
+        "N-272",
         "N-2",
         "N-1288"
       ],
@@ -847,7 +847,7 @@
         "A-1323.1"
       ],
       "related_nodes": [
-        "N-324",
+        "N-272",
         "N-1",
         "N-1289"
       ],
@@ -866,7 +866,7 @@
       ],
       "related_nodes": [
         "N-326",
-        "N-324",
+        "N-272",
         "N-1",
         "N-2",
         "N-1289"
@@ -885,7 +885,7 @@
         "A-1325.1"
       ],
       "related_nodes": [
-        "N-325",
+        "N-45",
         "N-330",
         "N-1290"
       ],
@@ -920,7 +920,7 @@
         "A-1327.1"
       ],
       "related_nodes": [
-        "N-325",
+        "N-45",
         "N-1290"
       ],
       "tags": [],
@@ -937,9 +937,9 @@
         "A-1328.1"
       ],
       "related_nodes": [
-        "N-327",
-        "N-328",
-        "N-329"
+        "N-50",
+        "N-68",
+        "N-293"
       ],
       "tags": [],
       "claim_timestamp": "00:33:25–00:35:17",
@@ -955,9 +955,9 @@
         "A-1329.1"
       ],
       "related_nodes": [
-        "N-327",
-        "N-329",
-        "N-328"
+        "N-50",
+        "N-293",
+        "N-68"
       ],
       "tags": [],
       "claim_timestamp": "00:35:17–00:37:12",
@@ -973,7 +973,7 @@
         "A-1331.1"
       ],
       "related_nodes": [
-        "N-333",
+        "N-71",
         "N-1293"
       ],
       "tags": [],

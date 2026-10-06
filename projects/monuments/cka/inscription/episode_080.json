@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 80,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -970,7 +970,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10018",
+        "ref": "N-10018",
+        "name": "Taylor Budowich",
+        "type": "person",
+        "description": "Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -1180,7 +1196,9 @@
         "N-1214",
         "N-1207",
         "N-1619"
-      ],
+      ,
+            "N-10018"
+          ],
       "tags": [],
       "claim_timestamp": "00:16:55",
       "investigative_direction": "Confirm exact text against Budowich's verified X account."

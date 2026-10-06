@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2207, N-2208
-  - Reused Nodes Appearing: N-1, N-1026, N-5, N-6, N-1027, N-8, N-9, N-1207, N-1208
+  - Reused Nodes Appearing: N-1026, N-5, N-6, N-1027, N-8, N-9, N-1207, N-1208
   - (see registers)
 
 # Episode 143 Analysis – Bride of Charlie
@@ -34,7 +34,7 @@
 - **Artifact Families Introduced:** A-2294, A-2295, A-2296, A-2297, A-2298, A-2299, A-2300
 - **Claim Range:** C-3302 – C-3312
 - **New Nodes Introduced:** N-2207, N-2208
-- **Existing Nodes Reused:** N-1, N-1026, N-1027, N-69, N-5, N-6, N-8, N-9, N-1207, N-1208
+- **Existing Nodes Reused:** N-1026, N-1027, N-69, N-5, N-6, N-8, N-9, N-1207, N-1208
 
 ---
 

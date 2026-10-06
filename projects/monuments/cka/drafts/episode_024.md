@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: b16f4980388370185d291129aae2198b32071168c9d782f7764725d6e49bf14e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-311, N-312, N-313, N-314, N-315, N-316, N-317, N-319, N-320, N-321, N-322, N-323, N-1286, N-1287
+  - New Nodes Introduced: N-311, N-313, N-314, N-317, N-319, N-320, N-321, N-322, N-323, N-1286, N-1287
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -29,7 +29,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1313, A-1314, A-1315, A-1316, A-1317, A-1318, A-1319, A-1320
   - Claim Range: C-1568 – C-1583
-  - New Nodes Introduced (people): N-311, N-312, N-313, N-314, N-315, N-316, N-317, N-85, N-319, N-320, N-321
+  - New Nodes Introduced (people): N-311, N-313, N-314, N-317, N-319, N-320, N-321
   - New Nodes Introduced (entities): N-1286, N-1287
   - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens, Ben Shapiro, Tucker Carlson, Lindsey Graham, Randy Fine, Nick Fuentes, Rob McCoy, Mikey McCoy/McColgan, Justin Stripe, Adam Lanza, Thomas Matthew Crooks, AIPAC
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:22:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1576, N-312 Andrew Kolbenschlag, N-2 Erica Kirk, N-1286*
+*Related: C-1576, N-42 Andrew Kolbenschlag, N-2 Erica Kirk, N-1286*
 
 **A-1317.3** Michael Starr X Follow-Up on Israeli Government Press Office "Wavering"
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:37:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1579, N-315 Kash Patel, N-314 Alexis Wilkins*
+*Related: C-1579, N-102 Kash Patel, N-314 Alexis Wilkins*
 
 **A-1320** YouTube Comments Bundle
 
@@ -269,7 +269,7 @@ Investigative Pressure: High
 
 *Related: A-1317.1, A-1317.3, C-1575, C-1577, N-322, N-323, N-2, N-1286*
 
-**N-312** Andrew Kolbenschlag
+**N-42** Andrew Kolvet
 
 TPUSA spokesperson who publicly denied any knowledge of the reported posthumous Israel award in a post on X.
 
@@ -280,7 +280,7 @@ Investigative Pressure: Medium
 
 *Related: A-1317.2, C-1576, N-2, N-1286*
 
-**N-313** Jesse Waters
+**N-313** Jesse Watters
 
 Host of the Fox News interview with Erica Kirk that is teased as upcoming at episode time. (Name preserved as transcript renders it.)
 
@@ -300,9 +300,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1319.1, C-1579, N-315*
+*Related: A-1319.1, C-1579, N-102*
 
-**N-315** Kash Patel
+**N-102** Kash Patel
 
 Director of the FBI; subject of host commentary following the X defense tweet of his girlfriend and prior criticism over alleged use of FBI aircraft for personal travel.
 
@@ -313,7 +313,7 @@ Investigative Pressure: High
 
 *Related: A-1319.1, C-1579, N-314*
 
-**N-316** Matt Walsh
+**N-228** Matt Walsh
 
 Daily Wire personality referenced (hearsay) by the host as the subject of an outreach to host Charlie Kirk's show after his death, conditioned on inviting Ben Shapiro.
 
@@ -388,7 +388,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1317.1, A-1317.2, A-1317.3, C-1575, C-1576, C-1577, N-311, N-312, N-322, N-323, N-2*
+*Related: A-1317.1, A-1317.2, A-1317.3, C-1575, C-1576, C-1577, N-311, N-42, N-322, N-323, N-2*
 
 **N-1287** TPUSA Leadership Transparency Pressure (Post-Charlie)
 
@@ -399,7 +399,16 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1578, N-2, N-85, N-Rob McCoy, N-Mikey McCoy*
+*Related: C-1578, N-2, N-70, N-Rob McCoy, N-Mikey McCoy, N-10002*
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: prose mention in episode*
+
+---
 
 # Claim Register
 
@@ -523,7 +532,7 @@ Claim: TPUSA spokesperson Andrew Kolbenschlag posted on X that "this is the firs
 
 Anchored Artifacts: A-1317.2
 
-Related Nodes: N-312 Andrew Kolbenschlag, N-311 Michael Starr, N-2 Erica Kirk, N-1286
+Related Nodes: N-42 Andrew Kolbenschlag, N-311 Michael Starr, N-2 Erica Kirk, N-1286
 
 Investigative Direction: Verify by locating Kolbenschlag's original X post and any subsequent follow-up from TPUSA.
 
@@ -565,7 +574,7 @@ Claim: Kash Patel posted an extended X message defending his girlfriend Alexis W
 
 Anchored Artifacts: A-1319.1
 
-Related Nodes: N-315 Kash Patel, N-314 Alexis Wilkins
+Related Nodes: N-102 Kash Patel, N-314 Alexis Wilkins
 
 Investigative Direction: Verify by locating Patel's original X post, and corroborate against any reporting or inspector general review of his use of FBI aircraft for personal travel.
 
@@ -579,7 +588,7 @@ Claim: A viewer (Tom Paul) alleged in a YouTube comment that Tyler Robinson's AC
 
 Anchored Artifacts: A-1320.5
 
-Related Nodes: N-Tyler Robinson, N-Thomas Matthew Crooks, N-Adam Lanza, N-316
+Related Nodes: N-Tyler Robinson, N-Thomas Matthew Crooks, N-Adam Lanza, N-228
 
 Investigative Direction: Independently confirm the test scores from public records; assess whether any reporting substantiates a "playbook" pattern.
 

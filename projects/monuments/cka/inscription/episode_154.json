@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 154,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -63,7 +63,7 @@
           ],
           "related_nodes": [
             "N-1031",
-            "N-7",
+            "N-3",
             "N-4",
             "N-2332"
           ],
@@ -119,7 +119,7 @@
           ],
           "related_nodes": [
             "N-1031",
-            "N-7",
+            "N-3",
             "N-2332"
           ],
           "tags": [],
@@ -428,7 +428,7 @@
           ],
           "related_nodes": [
             "N-1031",
-            "N-7",
+            "N-3",
             "N-4",
             "N-2331"
           ],
@@ -866,7 +866,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1031",
-        "N-7",
+        "N-3",
         "N-4"
       ]
     },
@@ -977,8 +977,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
@@ -991,7 +991,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10012",
+        "ref": "N-10012",
+        "name": "Brian Cole Jr.",
+        "type": "person",
+        "description": "Person Brian Cole Jr. (N-10012).",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -1059,7 +1075,7 @@
       ],
       "related_nodes": [
         "N-1031",
-        "N-7",
+        "N-3",
         "N-4",
         "N-2332"
       ],
@@ -1078,7 +1094,7 @@
         "A-2396.1"
       ],
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-4",
         "N-2332"
       ],

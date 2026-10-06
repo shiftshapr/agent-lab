@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: a67d2c57c7c81de9731b935fd270a362febe1186dc3ae158635d449cb863c772
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-214, N-216, N-217, N-218, N-219, N-220, N-221, N-222, N-224, N-1234, N-1235, N-1236, N-1237, N-1238, N-1239
+  - New Nodes Introduced:  N-216, N-217, N-218, N-220, N-221, N-224, N-1234, N-1235, N-1236, N-1237, N-1238, N-1239
   - Reused Nodes Appearing: 
 - **Episode Number:** Monument Episode 16 (Batch 6, Candace Ep 249)
 - **Channel / Creator:** @RealCandaceO (Candace Owens)
@@ -26,9 +26,9 @@
 
 - Artifact Families Introduced: A-1227, A-1228, A-1229, A-1230, A-1231, A-1232, A-1233, A-1234, A-1235
 - Claim Range: C-1380–C-1403
-- New Person Nodes Introduced: N-214, N-42, N-216, N-217, N-218, N-219, N-220, N-221, N-222, N-85, N-224
+- New Person Nodes Introduced: N-42, N-216, N-217, N-218, N-16, N-220, N-221, N-91, N-70, N-224
 - New Investigation Target Nodes Introduced: N-1234, N-1235, N-1236, N-1237, N-1238, N-1239
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-7 (Candace Owens); presumed-existing nodes for Tyler Robinson, Lance Twiggs, George Zinn (referred to by descriptive name; IDs not confirmed in ledger header)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens); presumed-existing nodes for Tyler Robinson, Lance Twiggs, George Zinn (referred to by descriptive name; IDs not confirmed in ledger header)
 
 ---
 
@@ -72,7 +72,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:26
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: N-222*
+*Related: N-91*
 
 **A-1227.4** Laura Loomer tweet dismissing Candace's reporting as "postpartum psychotic rants"
 
@@ -80,7 +80,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:26
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1388, N-222*
+*Related: C-1388, N-91*
 
 **A-1227.5** Britta tweet criticizing Candace's use of "Blitzkrieg" terminology and accusing her of inciting TPUSA employee harassment
 
@@ -88,7 +88,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:10:06
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: N-7*
+*Related: N-3*
 
 **A-1227.6** Nick Fuentes tweet questioning why Candace sat on the texts for four weeks before releasing them
 
@@ -112,7 +112,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:48
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1391, N-214*
+*Related: C-1391, N-42*
 
 ---
 
@@ -124,7 +124,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:14:00
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1380, N-214*
+*Related: C-1380, N-42*
 
 **A-1228.2** Kovette states he shared the screen grab with "some people in government" within the first 33 hours and "didn't know where it went from there"
 
@@ -132,7 +132,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:24
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1381, N-214*
+*Related: C-1381, N-42*
 
 **A-1228.3** Blake (Charlie Kirk Show co-host) states he is an eyewitness to events and has been advised not to comment publicly
 
@@ -148,7 +148,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:17:46
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1382, N-214, N-1*
+*Related: C-1382, N-42, N-1*
 
 ---
 
@@ -188,7 +188,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:04:56
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1396, N-220, N-222*
+*Related: C-1396, N-220, N-91*
 
 ---
 
@@ -233,7 +233,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:02:44
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1399, N-219*
+*Related: C-1399, N-16*
 
 ---
 
@@ -259,7 +259,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:21:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (testimonial; names withheld)
-*Related: C-1398, N-7, N-1*
+*Related: C-1398, N-3, N-1*
 
 **A-1235.2** Candace states Lance Twiggs's family told her Lance was "raided" and "angry about that raid" and was "instantly released back into their care within 6 hours"
 
@@ -268,7 +268,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:38:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (testimonial via family)
-*Related: C-1400, N-7, Lance Twiggs (existing node)*
+*Related: C-1400, N-3, Lance Twiggs (existing node)*
 
 **A-1235.3** Candace states Lance's family reported the apartment locks were illegally changed after the raid without their knowledge
 
@@ -277,7 +277,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:40:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (testimonial via family)
-*Related: C-1401, N-7, Tyler Robinson (existing node), Lance Twiggs (existing node)*
+*Related: C-1401, N-3, Tyler Robinson (existing node), Lance Twiggs (existing node)*
 
 **A-1235.4** Candace states a vetted tip reports George Zinn told multiple nurses/doctors he did the Kirk event because he was being paid to, had not yet been paid, and did not know who would pay him
 
@@ -286,7 +286,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:41:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (vetted-tip; not independently corroborated in episode)
-*Related: C-1402, N-7, George Zinn (existing node)*
+*Related: C-1402, N-3, George Zinn (existing node)*
 
 **A-1235.5** Candace states a tip indicates George Zinn has potential familial connections to a federal department
 
@@ -295,13 +295,13 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (tip-stage)
-*Related: C-1403, N-7, George Zinn (existing node), N-1236*
+*Related: C-1403, N-3, George Zinn (existing node), N-1236*
 
 ---
 
 ## IV. Node Register
 
-**N-214** Andrew Kovette
+**N-42** Andrew Kolvet
 
 Turning Point USA spokesperson; the first TPUSA-internally-ranked official to publicly confirm the authenticity of the Kirk text chain (A-1228).
 
@@ -353,7 +353,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-219** Frank Turk (Dr.)
+**N-16** Frank Turek
 
 Podcaster; reported via Luna's fan comment to have stated on his podcast that Charlie Kirk said "they want him dead" shortly before his death.
 
@@ -392,7 +392,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-222** Laura Loomer
+**N-91** Laura Loomer
 
 Commentator; publicly dismissed Candace's text reporting as "postpartum psychotic rants."
 
@@ -405,7 +405,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-224** Blake
+**N-224** Blake Neff
 
 Co-host of the Charlie Kirk Show; stated on air he is an eyewitness to events and has been advised not to comment publicly.
 
@@ -505,7 +505,7 @@ Claim Timestamp: 00:14:00
 Claim: Turning Point USA spokesperson Andrew Kovette, on the Charlie Kirk Show, confirmed the text-message screen grab released by Candace Owens is authentic and was originally shared by him with others.
 
 Anchored Artifacts: A-1228.1, A-1227.8
-Related Nodes: N-214, N-1, N-7
+Related Nodes: N-42, N-1, N-3
 Investigative Direction: Obtain the full Charlie Kirk Show segment audio/video; cross-reference Kovette's stated timeline of sharing with "people in government" against any subsequent investigative filings.
 
 ---
@@ -517,7 +517,7 @@ Claim Timestamp: 00:15:24
 Claim: Andrew Kovette stated he shared the text-message screen grab with "a few people in government" within the first 33 hours after Kirk's death, before the suspect was publicly identified.
 
 Anchored Artifacts: A-1228.2
-Related Nodes: N-214
+Related Nodes: N-42
 Investigative Direction: Identify which government figures received the screen grab; determine whether any chain-of-custody record exists for the shared image.
 
 ---
@@ -529,7 +529,7 @@ Claim Timestamp: 00:17:46
 Claim: Andrew Kovette characterized Kirk's feelings about Israel as "complicated" and "nuanced," stating a "wrestle" had been ongoing for months, located between the BB Netanyahu letter and the text chain.
 
 Anchored Artifacts: A-1228.4, A-1232.1
-Related Nodes: N-214, N-1
+Related Nodes: N-42, N-1
 Investigative Direction: Compare Kovette's "wrestle" framing against contemporaneous private communications from Kirk to determine the duration and scope of the position shift.
 
 ---
@@ -589,7 +589,7 @@ Claim Timestamp: 00:08:09
 Claim: A user identified as Britta publicly accused Candace Owens of posting fake group-chat screenshots to back her narrative.
 
 Anchored Artifacts: A-1227.1, A-1227.2
-Related Nodes: N-7
+Related Nodes: N-3
 Investigative Direction: Cross-reference the Britta accusation against the Kovette confirmation (C-1380) to determine whether Britta publicly retracted or updated her position.
 
 ---
@@ -601,7 +601,7 @@ Claim Timestamp: 00:09:26
 Claim: Laura Loomer publicly dismissed Candace Owens's text-messages reporting as "postpartum psychotic rants" and stated that even real texts would not implicate Israel.
 
 Anchored Artifacts: A-1227.4
-Related Nodes: N-222, N-7
+Related Nodes: N-91, N-3
 Investigative Direction: Track whether Loomer issued any post-Kovette-confirmation update acknowledging the texts' authenticity.
 
 ---
@@ -613,7 +613,7 @@ Claim Timestamp: 00:11:11
 Claim: Nick Fuentes publicly questioned why Candace Owens sat on the text messages for four weeks before releasing them.
 
 Anchored Artifacts: A-1227.6
-Related Nodes: N-7
+Related Nodes: N-3
 Investigative Direction: Determine the actual interval between Candace's receipt and release of the text chain.
 
 ---
@@ -637,7 +637,7 @@ Claim Timestamp: 00:12:48
 Claim: Per the Misfit Patriot tweet displayed, Community Notes added an update stating Andrew Kovette confirmed the screen grab was real.
 
 Anchored Artifacts: A-1227.8
-Related Nodes: N-214
+Related Nodes: N-42
 Investigative Direction: Pull the Community Notes entry directly for the source post to verify the wording of the Kovette-attributed confirmation.
 
 ---
@@ -649,7 +649,7 @@ Claim Timestamp: 00:43:14
 Claim: TPUSA donors John and Arena Mappin published a public letter supporting Candace Owens's investigation into Kirk's death and stating Candace's actions are what Charlie himself would have taken.
 
 Anchored Artifacts: A-1231.1
-Related Nodes: N-217, N-218, N-7, N-1
+Related Nodes: N-217, N-218, N-3, N-1
 Investigative Direction: Obtain the original Mappin letter publication (URL / date) and any subsequent public reaction from TPUSA leadership.
 
 ---
@@ -697,7 +697,7 @@ Claim Timestamp: 00:04:56
 Claim: Writer/producer Conrad Flynn appeared on Tucker Carlson's show and discussed the figure of Pontius Pilate's wife as a prophetic dreamer, with Carlson recounting his own wife's intuition about guests.
 
 Anchored Artifacts: A-1230.1
-Related Nodes: N-220, N-222 (Tucker Carlson)
+Related Nodes: N-220, N-91 (Tucker Carlson)
 Investigative Direction: Obtain the full Tucker / Flynn segment to determine the surrounding context and any explicit connection drawn to the Kirk case.
 
 ---
@@ -721,7 +721,7 @@ Claim Timestamp: 00:21:25
 Claim: Candace Owens states three unnamed people (two with written communication, one a TPUSA donor) told her that Charlie Kirk expressed "I think they're going to kill me" the day before his death.
 
 Anchored Artifacts: A-1235.1
-Related Nodes: N-7, N-1
+Related Nodes: N-3, N-1
 Investigative Direction: Encourage the named tipsters to come forward publicly; cross-reference against A-1233.1 (Frank Turk) and any other contemporaneous sources for Kirk premonition statements.
 
 ---
@@ -733,7 +733,7 @@ Claim Timestamp: 01:02:44
 Claim: Per a Luna fan comment on the episode, Dr. Frank Turk reported on his podcast that Charlie Kirk, in a conversation about upping his security, said "they want him dead."
 
 Anchored Artifacts: A-1233.1
-Related Nodes: N-219, N-1
+Related Nodes: N-16, N-1
 Investigative Direction: Identify and timestamp the Frank Turk podcast episode containing the statement; obtain the original audio.
 
 ---
@@ -745,7 +745,7 @@ Claim Timestamp: 00:38:49
 Claim: Per Lance Twiggs's family (via Candace), Lance was "raided," was "angry about that raid," and was "instantly released back into their care within 6 hours."
 
 Anchored Artifacts: A-1235.2
-Related Nodes: N-7, Lance Twiggs (existing node)
+Related Nodes: N-3, Lance Twiggs (existing node)
 Investigative Direction: Obtain official arrest / detention logs from Utah authorities for Lance Twiggs; reconcile with the family's account.
 
 ---
@@ -757,7 +757,7 @@ Claim Timestamp: 00:40:07
 Claim: Per Lance's family (via Candace), the locks on the Tyler Robinson / Lance Twiggs apartment were illegally changed after the raid without the family's knowledge or consent.
 
 Anchored Artifacts: A-1235.3
-Related Nodes: N-7, Tyler Robinson (existing node), Lance Twiggs (existing node), N-1237
+Related Nodes: N-3, Tyler Robinson (existing node), Lance Twiggs (existing node), N-1237
 Investigative Direction: Identify the party that authorized the lock change (Lance or federal actors); obtain landlord records of the apartment (the family reportedly owns the unit).
 
 ---
@@ -769,7 +769,7 @@ Claim Timestamp: 00:41:24
 Claim: Per a vetted tip relayed by Candace, George Zinn told multiple nurses and doctors that he claimed responsibility for Kirk's death because he was being paid to do so, had not yet been paid, and did not know the source of payment.
 
 Anchored Artifacts: A-1235.4
-Related Nodes: N-7, George Zinn (existing node), N-1239
+Related Nodes: N-3, George Zinn (existing node), N-1239
 Investigative Direction: Identify and interview the medical staff who reportedly received these statements from Zinn; obtain any contemporaneous medical records.
 
 ---
@@ -781,7 +781,7 @@ Claim Timestamp: 00:36:11
 Claim: Per a tip relayed by Candace, George Zinn has potential familial connections to a federal department.
 
 Anchored Artifacts: A-1235.5
-Related Nodes: N-7, George Zinn (existing node), N-1236
+Related Nodes: N-3, George Zinn (existing node), N-1236
 Investigative Direction: Identify which federal department is implicated; obtain any employment / family records.
 
 ---
@@ -789,7 +789,7 @@ Investigative Direction: Identify which federal department is implicated; obtain
 ## VI. Optional Flags
 
 - **Name uncertainty — N-218 (Arena Mappin):** The transcript renders the Mappin wife's name under multiple spellings/pronunciations — "Arena" (introduction and letter attribution), "Reena" (Candace post-reading), "Aarina" (one letter-attribution variant). Most likely transcription ambiguity for a single individual; preserved as "Arena Mappin" pending verification. The surname "Mappin" is given only by Candace, not in the letter itself, which signs off as "John and Arena."
-- **Artifact verbally referenced but not shown — A-1233.1 / N-219 (Frank Turk podcast):** The Frank Turk podcast containing Charlie Kirk's "they want him dead" statement is referenced via a YouTube comment (Luna) and not directly played or displayed. Verification requires locating the original podcast episode.
+- **Artifact verbally referenced but not shown — A-1233.1 / N-16 (Frank Turk podcast):** The Frank Turk podcast containing Charlie Kirk's "they want him dead" statement is referenced via a YouTube comment (Luna) and not directly played or displayed. Verification requires locating the original podcast episode.
 - **Artifact read-aloud but audio playback unverified — A-1234.1 (Josh Hammer show appearance):** The Josh Hammer Zoom-call statement is rendered by Candace in quotes but no audio playback markers (>>) appear; cannot confirm whether the original show audio was played.
 - **Claim failed admission test — none formally:** All inscribed claims passed the artifact-anchor, falsifiability, and rhetoric-removal tests. Several host framing statements (e.g., "this is a military hit that involved foreign actors," "they are protecting themselves and their bosses") were excluded as failing the rhetoric-removal test.
 - **Contradiction noted but not dual-inscribed:** Charlie Kirk's Israel-position framing now has artifact-anchored opposing sides — (a) Hammer/Loomer/Fuentes public posture of unwavering pro-Israel commitment to death (A-1227.4, A-1227.6, A-1234.1) versus (b) Kovette "complicated/wrestle" + text chain (A-1228.4, A-1232.1). Both sides artifact-anchored; not split into a separate "Contradiction" register per protocol but cross-referenced through C-1382 / C-1397.

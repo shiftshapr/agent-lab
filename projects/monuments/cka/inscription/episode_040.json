@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 40,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -33,7 +33,7 @@
             "C-1823"
           ],
           "related_nodes": [
-            "N-478",
+            "N-224",
             "N-1378"
           ],
           "tags": [],
@@ -157,9 +157,9 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-478",
-      "ref": "N-478",
-      "name": "Blake Nef",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
       "type": "person",
       "description": "TPUSA-affiliated producer of the Charlie Kirk Show; delivered TPUSA's formal public response in this episode by video statement.",
       "related_artifacts": [
@@ -257,7 +257,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-478"
+        "N-224"
       ]
     },
     {
@@ -295,7 +295,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10002",
+        "ref": "N-10002",
+        "name": "Tyler Bowyer",
+        "type": "person",
+        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -307,7 +323,7 @@
         "A-1489.1"
       ],
       "related_nodes": [
-        "N-478",
+        "N-224",
         "N-1378"
       ],
       "tags": [],
@@ -324,7 +340,7 @@
         "A-1489.1"
       ],
       "related_nodes": [
-        "N-478"
+        "N-224"
       ],
       "tags": [],
       "claim_timestamp": "00:14:49",
@@ -340,7 +356,7 @@
         "A-1489.1"
       ],
       "related_nodes": [
-        "N-478"
+        "N-224"
       ],
       "tags": [],
       "claim_timestamp": "00:14:49",
@@ -356,7 +372,7 @@
         "A-1489.1"
       ],
       "related_nodes": [
-        "N-478"
+        "N-224"
       ],
       "tags": [],
       "claim_timestamp": "00:21:20–00:22:24",

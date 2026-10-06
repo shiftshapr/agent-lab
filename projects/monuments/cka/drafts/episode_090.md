@@ -77,7 +77,7 @@ Video Timestamp: 00:13:17–00:14:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2686, C-2687, N-1212, N-1, N-1211, N-1672*
+*Related: C-2686, C-2687, N-1212, N-1211, N-1672*
 
 ---
 
@@ -91,7 +91,7 @@ Video Timestamp: 00:21:42–00:23:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2687, N-2, N-7, N-1234, N-1671*
+*Related: C-2687, N-2, N-3, N-1234, N-1671*
 
 **A-1951.2** ADF internal board presentation slide — Caleb Robinson board seat
 
@@ -543,7 +543,7 @@ Claim: In a recorded interview clip, Andrew Kolvet states that pitches for a "Ch
 
 Anchored Artifacts: A-1950.1
 
-Related Nodes: N-1212, N-1, N-1672
+Related Nodes: N-1212, N-1672
 
 Investigative Direction: Identify the date and outlet of the interview; obtain full interview transcript; verify whether any pitch was accepted.
 
@@ -557,7 +557,7 @@ Claim: An internal Alliance Defending Freedom CEO video played in the episode re
 
 Anchored Artifacts: A-1951.1
 
-Related Nodes: N-1234, N-2, N-7, N-1671
+Related Nodes: N-1234, N-2, N-3, N-1671
 
 Investigative Direction: Authenticate the internal video; obtain the underlying ADF board materials.
 

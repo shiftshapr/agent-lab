@@ -8,10 +8,10 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: a89218d4d04a2df3f8e04c4fe335c3db1d4678833ce6a2ff96d09fa4d7c3d362
+- **Transcript SHA-256**: 270e4d6bd7c7e45e5b54085cd242a98cd8703f80aa479f990d94ccfcff20d864
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-433, N-434, N-435, N-436, N-437, N-1341, N-1342, N-1343
+  - New Nodes Introduced:  N-434, N-435, N-437, N-1341, N-1342, N-1343
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:34:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1762, N-433, N-434, N-435, N-436, N-1343*
+*Related: C-1762, N-424, N-434, N-435, N-344, N-1343*
 
 ---
 
@@ -80,7 +80,7 @@ Video Timestamp: 00:34:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1762, C-1763, N-433, N-434, N-435, N-1343*
+*Related: C-1762, C-1763, N-424, N-434, N-435, N-1343*
 
 ---
 
@@ -114,7 +114,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-433** Brian Harpole
+**N-424** Brian Harpole
 
 Turning Point USA head of security; appeared on Shawn Ryan show and is alleged by host to have misrepresented the provenance of text messages read during that interview.
 
@@ -153,7 +153,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-436** Shawn Ryan
+**N-344** Shawn Ryan
 
 Host of the interview platform on which Brian Harpole appeared; identified by host as having "got played" by the Harpole appearance.
 
@@ -162,7 +162,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1447.1, N-433*
+*Related: A-1447.1, N-424*
 
 ---
 
@@ -214,7 +214,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1447.1, A-1448.1, C-1762, C-1763, N-433, N-434, N-435*
+*Related: A-1447.1, A-1448.1, C-1762, C-1763, N-424, N-434, N-435*
 
 ---
 
@@ -263,7 +263,7 @@ Claim Timestamp: 00:34:36
 Claim: Host asserts Brian Harpole described the Dan Flood–Jeff Long text exchange using phrasing consistent with presenting it as his own correspondence, rather than identifying it as a Flood–Long exchange.
 
 Anchored Artifacts: A-1447.1, A-1448.1
-Related Nodes: N-433, N-434, N-435, N-436, N-1343
+Related Nodes: N-424, N-434, N-435, N-344, N-1343
 Investigative Direction: Compare full Shawn Ryan interview transcript with authenticated text-message records; verify who authored and received the communications.
 
 ---

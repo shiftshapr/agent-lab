@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Reassign mistaken N-1 / N-2 / N-7 register rows in catch-up drafts (keep core ids sacred)."""
+"""Reassign mistaken N-1 / N-2 / N-3 register rows in catch-up drafts (keep core ids sacred)."""
 
 from __future__ import annotations
 

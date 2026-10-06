@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: f464e8e712994efb56bee93a7c7a23da86a3df5028517114a2bdb3d80e5688a8
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-363, N-364, N-365, N-366, N-367, N-368, N-369, N-370, N-371, N-372, N-373, N-374, N-375, N-376, N-1309, N-1310, N-1311, N-1312
+  - New Nodes Introduced: N-363, N-364, N-365, N-366, N-367, N-370, N-371, N-373, N-374, N-376, N-1309, N-1310, N-1311, N-1312
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -34,7 +34,7 @@
 **Episode 29 Ledger Summary**
 - Artifact Families Introduced: A-1364, A-1365, A-1366, A-1367, A-1368, A-1369, A-1370, A-1371, A-1372, A-1373, A-1374, A-1375, A-1376, A-1377, A-1378 (15 families)
 - Claim Range: C-1652 – C-1666 (15 claims)
-- New Person Nodes: N-363, N-364, N-365, N-366, N-367, N-368, N-369, N-370, N-371, N-372, N-373, N-374, N-375, N-376 (14 people)
+- New Person Nodes: N-363, N-364, N-365, N-366, N-367, N-16, N-67, N-370, N-371, N-349, N-373, N-374, N-50, N-376 (14 people)
 - New Investigation Target Nodes: N-1309, N-1310, N-1311, N-1312 (4 targets)
 - Existing Nodes Reused: N-1 (Charlie Kirk)
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:18:06–00:18:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1654, N-368*
+*Related: C-1654, N-16*
 
 **A-1367** Glenn Beck / Steve Baker Interview Bundle
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:28:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1659, N-369*
+*Related: C-1659, N-67*
 
 **A-1372** Joel Berry Babylon Bee Tweet Bundle
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:33:55–00:34:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio played)
 
-*Related: C-1662, N-372*
+*Related: C-1662, N-349*
 
 **A-1375** Mark Levin Audio Clip Bundle
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:39:10–00:41:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1663, N-374, N-375*
+*Related: C-1663, N-374, N-50*
 
 **A-1376** Keri Smith Deprogrammed Audio Clip Bundle
 
@@ -293,7 +293,7 @@ Investigative Pressure: Medium
 
 *Related: A-1364.1, A-1365.1, C-1652, C-1653, N-1312*
 
-**N-368** Frank Turek
+**N-16** Frank Turek
 
 Christian apologist whose audio clip on NAR was played in the episode.
 
@@ -304,7 +304,7 @@ Investigative Pressure: Low
 
 *Related: A-1366.1, C-1654*
 
-**N-369** Seth Dillon
+**N-67** Seth Dillon
 
 Babylon Bee principal whose tweet quoting Matthew 16:26 was read aloud in the episode.
 
@@ -337,7 +337,7 @@ Investigative Pressure: Low
 
 *Related: A-1369.1, C-1657*
 
-**N-372** Allie Beth Stuckey
+**N-349** Allie Beth Stuckey
 
 Commentator whose audio clip warning against asking questions without "hard evidence" was played in the episode.
 
@@ -370,7 +370,7 @@ Investigative Pressure: Low
 
 *Related: A-1375.1, C-1663*
 
-**N-375** Tucker Carlson
+**N-50** Tucker Carlson
 
 Host identified as the sender of the debate-offer text message to Mark Levin and central subject of the Levin's on-air rebuttal.
 
@@ -474,7 +474,7 @@ Claim: In an audio clip played on the episode, Frank Turek described the New Apo
 
 Anchored Artifacts: A-1366.1
 
-Related Nodes: N-368
+Related Nodes: N-16
 
 Investigative Direction: Retrieve the full source audio/podcast to verify exact wording and full context.
 
@@ -534,7 +534,7 @@ Claim: Seth Dillon (Babylon Bee) tweeted the Matthew 16:26 verse ("what do you b
 
 Anchored Artifacts: A-1371.1
 
-Related Nodes: N-369
+Related Nodes: N-67
 
 Investigative Direction: Retrieve and verify the original tweet on Seth Dillon's X account.
 
@@ -570,7 +570,7 @@ Claim: In an audio clip played on the episode, Allie Beth Stuckey told viewers t
 
 Anchored Artifacts: A-1374.1
 
-Related Nodes: N-372
+Related Nodes: N-349
 
 Investigative Direction: Retrieve the full source video to verify exact wording and full context.
 
@@ -582,7 +582,7 @@ Claim: In an audio clip played on the episode, Mark Levin responded to Tucker Ca
 
 Anchored Artifacts: A-1375.1
 
-Related Nodes: N-374, N-375
+Related Nodes: N-374, N-50
 
 Investigative Direction: Retrieve the full Mark Levin broadcast to verify exact wording and any additional context.
 

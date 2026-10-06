@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 41,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -30,7 +30,7 @@
             "C-1831"
           ],
           "related_nodes": [
-            "N-482"
+            "N-479"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -235,8 +235,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-482",
-      "ref": "N-482",
+      "@id": "N-479",
+      "ref": "N-479",
       "name": "Cam Higby",
       "type": "person",
       "description": "Pentagon correspondent whose question to the Pentagon press secretary regarding a \"French military plot to assassinate Candace Owens\" is presented in the episode. Host asserts he has been on TPUSA payroll since August 2025.",
@@ -256,7 +256,7 @@
       "@type": "Person",
       "@id": "N-483",
       "ref": "N-483",
-      "name": "Wedi Machmood (name as used)",
+      "name": "Wed Mahmoud",
       "type": "person",
       "description": "Person using this name on board the \"yellow plane\" SU-BND on September 10, 2025 (one of four passengers). Host asserts same individual flew on SU-BTU (\"purple plane\") into Provo on May 27, 2025. Identity verification target.",
       "related_artifacts": [],
@@ -315,9 +315,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-486",
-      "ref": "N-486",
-      "name": "Frank Turk",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
       "type": "person",
       "description": "TPUSA affiliate whose testimonial clip is played, asserting that Charlie Kirk told him Blake Neff was \"the smartest man I know.\"",
       "related_artifacts": [
@@ -401,7 +401,7 @@
         "A-1494.1"
       ],
       "related_nodes": [
-        "N-482"
+        "N-479"
       ],
       "tags": [],
       "claim_timestamp": "00:02:11",
@@ -498,7 +498,7 @@
         "A-1498.1"
       ],
       "related_nodes": [
-        "N-486",
+        "N-16",
         "N-1"
       ],
       "tags": [],

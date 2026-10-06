@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 71,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -290,7 +290,7 @@
             "C-2341"
           ],
           "related_nodes": [
-            "N-906",
+            "N-890",
             "N-908",
             "N-1569"
           ],
@@ -407,8 +407,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-906",
-      "ref": "N-906",
+      "@id": "N-890",
+      "ref": "N-890",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
@@ -455,7 +455,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-906",
+        "N-890",
         "N-1568"
       ]
     },
@@ -479,7 +479,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-906",
+        "N-890",
         "N-2",
         "N-1569"
       ]
@@ -549,7 +549,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-906",
+        "N-890",
         "N-907"
       ]
     },
@@ -573,7 +573,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-906",
+        "N-890",
         "N-908",
         "N-2"
       ]
@@ -662,7 +662,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10002",
+        "ref": "N-10002",
+        "name": "Tyler Bowyer",
+        "type": "person",
+        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -905,7 +921,7 @@
         "A-1759.1"
       ],
       "related_nodes": [
-        "N-906",
+        "N-890",
         "N-908",
         "N-1569",
         "N-2"
@@ -924,7 +940,7 @@
         "A-1759.1"
       ],
       "related_nodes": [
-        "N-906",
+        "N-890",
         "N-908",
         "N-1569"
       ],
@@ -1026,7 +1042,9 @@
       ],
       "related_nodes": [
         "N-1570"
-      ],
+      ,
+            "N-10002"
+          ],
       "tags": [],
       "claim_timestamp": "00:17:44",
       "investigative_direction": "Archive the original tweet and any associated image; verify whether it remains public."

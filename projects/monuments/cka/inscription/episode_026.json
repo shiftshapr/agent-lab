@@ -3,14 +3,14 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 26,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
     "video_timestamp_range": "00:00:00–00:56:29",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "41371ed9bf2aa31e939261a41b3c56c4f8ebefab5ce2776c5e5861ea674b656d",
+    "transcript_sha256": "6e756e4348b0394d7192565879b6931826d6ba20924657099ff19f450d9aa60d",
     "analysis_date": "2026-09-27"
   },
   "executive_summary": "",
@@ -149,7 +149,7 @@
           ],
           "related_nodes": [
             "N-335",
-            "N-338"
+            "N-150"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -176,7 +176,7 @@
           ],
           "related_nodes": [
             "N-335",
-            "N-343"
+            "N-87"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -248,9 +248,9 @@
             "C-1610"
           ],
           "related_nodes": [
-            "N-336",
-            "N-337",
-            "N-345",
+            "N-272",
+            "N-224",
+            "N-45",
             "N-1000",
             "N-1"
           ],
@@ -278,7 +278,7 @@
             "C-1611"
           ],
           "related_nodes": [
-            "N-341"
+            "N-91"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -358,7 +358,7 @@
             "C-1615"
           ],
           "related_nodes": [
-            "N-336",
+            "N-272",
             "N-1000",
             "N-1"
           ],
@@ -386,7 +386,7 @@
             "C-1616"
           ],
           "related_nodes": [
-            "N-336",
+            "N-272",
             "N-1295",
             "N-1296"
           ],
@@ -499,16 +499,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-338",
+        "N-150",
         "N-339",
-        "N-343",
+        "N-87",
         "N-344"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-336",
-      "ref": "N-336",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Subject of artifact-backed claims regarding post-shooting phone calls, behavior, and YouTube channel positioning.",
@@ -529,7 +529,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-345",
+        "N-45",
         "N-1000",
         "N-1295",
         "N-1296",
@@ -538,9 +538,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-337",
-      "ref": "N-337",
-      "name": "Blake Nef",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
       "type": "person",
       "description": "Eyewitness source providing on-record recounting of post-shooting events.",
       "related_artifacts": [
@@ -556,15 +556,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-336",
-        "N-345",
+        "N-272",
+        "N-45",
         "N-1000"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-338",
-      "ref": "N-338",
+      "@id": "N-150",
+      "ref": "N-150",
       "name": "Ted Cruz",
       "type": "person",
       "description": "Subject of Brett Cooper criticism and host commentary.",
@@ -631,8 +631,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-341",
-      "ref": "N-341",
+      "@id": "N-91",
+      "ref": "N-91",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Subject of Pentagon press pass headline and host commentary.",
@@ -650,8 +650,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-343",
-      "ref": "N-343",
+      "@id": "N-87",
+      "ref": "N-87",
       "name": "Aaron Wexler",
       "type": "person",
       "description": "X poster identified by host as source of \"white Candace\" post.",
@@ -694,9 +694,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-345",
-      "ref": "N-345",
-      "name": "Rob McCoy (Pastor Rob McCoy)",
+      "@id": "N-45",
+      "ref": "N-45",
+      "name": "Rob McCoy",
       "type": "person",
       "description": "Referenced in Blake Nef interview as call recipient; subject of host commentary re: Charlie Kirk succession narrative.",
       "related_artifacts": [
@@ -712,8 +712,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-336",
-        "N-337"
+        "N-272",
+        "N-224"
       ]
     },
     {
@@ -761,7 +761,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-336"
+        "N-272"
       ]
     },
     {
@@ -784,9 +784,9 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-336",
-        "N-337",
-        "N-345",
+        "N-272",
+        "N-224",
+        "N-45",
         "N-1000"
       ]
     },
@@ -809,7 +809,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-336",
+        "N-272",
         "N-1000"
       ]
     },
@@ -940,7 +940,7 @@
       ],
       "related_nodes": [
         "N-335",
-        "N-338"
+        "N-150"
       ],
       "tags": [],
       "claim_timestamp": "00:19:39–00:20:14",
@@ -957,7 +957,7 @@
       ],
       "related_nodes": [
         "N-335",
-        "N-338"
+        "N-150"
       ],
       "tags": [],
       "claim_timestamp": "00:20:14–00:20:30",
@@ -974,7 +974,7 @@
       ],
       "related_nodes": [
         "N-335",
-        "N-343"
+        "N-87"
       ],
       "tags": [],
       "claim_timestamp": "00:20:51–00:21:20",
@@ -1023,9 +1023,9 @@
         "A-1339.1"
       ],
       "related_nodes": [
-        "N-336",
-        "N-337",
-        "N-345",
+        "N-272",
+        "N-224",
+        "N-45",
         "N-1000",
         "N-1"
       ],
@@ -1044,9 +1044,9 @@
         "A-1344.1"
       ],
       "related_nodes": [
-        "N-336",
-        "N-337",
-        "N-345",
+        "N-272",
+        "N-224",
+        "N-45",
         "N-1000",
         "N-1296"
       ],
@@ -1064,7 +1064,7 @@
         "A-1340.1"
       ],
       "related_nodes": [
-        "N-341"
+        "N-91"
       ],
       "tags": [],
       "claim_timestamp": "00:47:44–00:48:10",
@@ -1130,7 +1130,7 @@
         "A-1343.1"
       ],
       "related_nodes": [
-        "N-336",
+        "N-272",
         "N-1000",
         "N-1",
         "N-1297"
@@ -1151,7 +1151,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-336",
+        "N-272",
         "N-1295",
         "N-1296"
       ],

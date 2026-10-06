@@ -50,6 +50,17 @@ BARE_MS_RE = re.compile(r"^\s*\d{1,2}:\d{2}(?:\s*[–\-—]\s*\d{1,2}:\d{2})?\s*
 
 PERSON_TYPES = frozenset({"person", "investigationtarget"})
 TOPIC_BAND_TYPES = frozenset({"topic", "organization", "organisation", "place", "org"})
+# 2026-10-04 lock: persons are N-1..N-999 or N-10000+. N-1000..N-9999 stays topic/org/place.
+PERSON_HIGH_MIN = 10000
+TOPIC_BAND_MAX = 9999
+
+
+def nid_band(nid: int) -> str:
+    if nid < 1000:
+        return "person"
+    if nid >= PERSON_HIGH_MIN:
+        return "person_high"
+    return "topic"
 
 
 @dataclass
@@ -305,11 +316,11 @@ def check_person_band(
                 f"{ent.episode_file}: N-{nid} typed {ent.node_type!r} in Person band (<1000)",
                 f"N-{nid}",
             )
-        if nt in PERSON_TYPES and nid >= 1000:
+        if nt in PERSON_TYPES and 1000 <= nid <= TOPIC_BAND_MAX:
             report.add(
                 "P0",
                 "person_band",
-                f"{ent.episode_file}: Person N-{nid} ({ent.name}) must be N-1..N-999",
+                f"{ent.episode_file}: Person N-{nid} ({ent.name}) sits in N-1000..N-9999 (topic band); persons are N-1..N-999 or N-10000+",
                 f"N-{nid}",
             )
         if nid < 1000 and nt in TOPIC_BAND_TYPES:
@@ -333,7 +344,7 @@ def check_person_band(
                 + (" …" if len(missing) > 20 else ""),
             )
 
-    topic_present = {n for n in intro if n >= 1000} | baseline_topic
+    topic_present = {n for n in intro if 1000 <= n <= TOPIC_BAND_MAX} | baseline_topic
     topic_ids = sorted(topic_present)
     if topic_ids:
         lo, hi = topic_ids[0], topic_ids[-1]
@@ -355,7 +366,7 @@ def check_intro_order(
     """First-introduction order (Episode Ledger Summary) must follow ascending N-id per band."""
 
     def band(nid: int) -> str:
-        return "person" if nid < 1000 else "topic"
+        return nid_band(nid)
 
     prev_by_band: dict[str, int] = {}
     for ep, _idx, nid in ledger_order:

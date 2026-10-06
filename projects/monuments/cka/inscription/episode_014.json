@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 14,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -30,7 +30,7 @@
             "C-1354"
           ],
           "related_nodes": [
-            "N-201",
+            "N-102",
             "N-206",
             "N-1224"
           ],
@@ -386,8 +386,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-201",
-      "ref": "N-201",
+      "@id": "N-102",
+      "ref": "N-102",
       "name": "Kash Patel",
       "type": "person",
       "description": "FBI Director as of episode date; subject of artifact A-1209.1 announcing end of FBI/ADL partnership.",
@@ -599,7 +599,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-201",
+        "N-102",
         "N-202",
         "N-206"
       ]
@@ -696,7 +696,7 @@
         "A-1209.1"
       ],
       "related_nodes": [
-        "N-201",
+        "N-102",
         "N-206",
         "N-1224"
       ],

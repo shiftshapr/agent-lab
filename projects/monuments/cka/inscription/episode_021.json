@@ -3,14 +3,14 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 21,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
     "video_timestamp_range": "00:00:00–00:56:29",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "3e79984c2ef169b7bdb41acb0b482c9584e0ba254e76b714ccbcdc0c2215a738",
+    "transcript_sha256": "b8b7fc2a633b3553c7b59c525ff8b33ee7df3017e487dccce1e3382534f8853d",
     "analysis_date": "2026-09-27"
   },
   "executive_summary": "",
@@ -50,7 +50,7 @@
             "C-1524"
           ],
           "related_nodes": [
-            "N-286",
+            "N-45",
             "N-1266"
           ],
           "tags": [],
@@ -78,7 +78,7 @@
             "C-1517"
           ],
           "related_nodes": [
-            "N-286",
+            "N-45",
             "N-1266"
           ],
           "tags": [],
@@ -160,7 +160,7 @@
             "C-1525"
           ],
           "related_nodes": [
-            "N-287",
+            "N-75",
             "N-1268"
           ],
           "tags": [],
@@ -228,8 +228,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-286",
-      "ref": "N-286",
+      "@id": "N-45",
+      "ref": "N-45",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pentecostal pastor (Calvary Chapel Association) named in TPUSA Wikipedia entry as co-founder/co-chairman of TPUSA Faith less than 36 hours after Kirk's death; host rejects co-founder characterization.",
@@ -254,8 +254,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-287",
-      "ref": "N-287",
+      "@id": "N-75",
+      "ref": "N-75",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Interviewer of Donald Trump Jr. regarding confidence in FBI investigation into Charlie Kirk's death; relevant as the source forum for the Don Jr. artifact.",
@@ -318,7 +318,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-286"
+        "N-45"
       ]
     },
     {
@@ -380,7 +380,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10017",
+        "ref": "N-10017",
+        "name": "Susie Wiles",
+        "type": "person",
+        "description": "Person Susie Wiles (N-10017).",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -392,7 +408,7 @@
         "A-1283.2"
       ],
       "related_nodes": [
-        "N-286",
+        "N-45",
         "N-1266"
       ],
       "tags": [],
@@ -425,7 +441,7 @@
         "A-1284.1"
       ],
       "related_nodes": [
-        "N-286",
+        "N-45",
         "N-1266"
       ],
       "tags": [],
@@ -442,7 +458,7 @@
         "A-1284.1"
       ],
       "related_nodes": [
-        "N-286",
+        "N-45",
         "N-1266"
       ],
       "tags": [],
@@ -485,8 +501,8 @@
       "@type": "Claim",
       "@id": "C-1520",
       "ref": "C-1520",
-      "label": "Kash Patel Convened a Meeting With Susie Wilds, Joe Kent, Tulsi Gabbard, and JD Vance Regarding the Inquiry",
-      "claim": "Following the inquiry, Kash Patel convened a meeting with Susie Wilds, Joe Kent, Tulsi Gabbard, and (per host's recollection) JD Vance, and no substantive action followed.",
+      "label": "Kash Patel Convened a Meeting With Susie Wiles, Joe Kent, Tulsi Gabbard, and JD Vance Regarding the Inquiry",
+      "claim": "Following the inquiry, Kash Patel convened a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard, and (per host's recollection) JD Vance, and no substantive action followed.",
       "anchored_artifacts": [
         "A-1286.1"
       ],
@@ -521,7 +537,7 @@
         "A-1287.1"
       ],
       "related_nodes": [
-        "N-287",
+        "N-75",
         "N-1268"
       ],
       "tags": [],
@@ -538,7 +554,7 @@
         "A-1287.1"
       ],
       "related_nodes": [
-        "N-287"
+        "N-75"
       ],
       "tags": [],
       "claim_timestamp": "00:33:50",
@@ -554,7 +570,7 @@
         "A-1283.2"
       ],
       "related_nodes": [
-        "N-286",
+        "N-45",
         "N-1266"
       ],
       "tags": [],
@@ -571,7 +587,7 @@
         "A-1287.1"
       ],
       "related_nodes": [
-        "N-287",
+        "N-75",
         "N-1268"
       ],
       "tags": [],

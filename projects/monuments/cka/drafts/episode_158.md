@@ -8,21 +8,21 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:07:20
 - **Extraction Timestamp (UTC)**: 2026-10-02T20:40:00Z
-- **Transcript SHA-256**: e76df2a27b328a03e2bd5dec62761cfab8e23f3d0dbaf2de73a6b7d28fd7d54b
+- **Transcript SHA-256**: 022d4f12740713037a1e34d8c7a3f460558cfd3ae1badcd1d4c1565a058eb7cf
 - **Model Version**: grok-manual-extract-seq158
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2355, N-2356, N-2357, N-2358, N-2359
-  - Reused Nodes Appearing: N-1, N-2, N-7, N-50, N-59, N-65, N-66, N-214, N-272, N-364, N-444, N-542, N-749, N-755, N-796, N-992, N-1121, N-1264, N-1288, N-2329, N-2350, N-2351, N-2354
+  - New Nodes Introduced: N-2355, N-2356, N-2357, N-2358, N-2359, N-10004, N-10005, N-10006
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-50, N-59, N-65, N-66, N-42, N-272, N-364, N-444, N-326, N-424, N-16, N-796, N-224, N-1121, N-1264, N-1288, N-2329, N-2350, N-2351, N-2354, N-10001
   - (see registers)
-  - Person band: no new Persons minted (ceiling next_person_id=1000). True-new names (Clara Malo / Claraara Malo, Sergio Gore, Caleb Chilikut, Andrew Wilson, Tim Dylan, Leah Thomas) cited in prose/claims only.
+  - Person band: persons minted in this quality pass use N-10000+ (see node register). Minted here or reused: Clara Molot, Sergio Gor, Caleb Chilcutt, Andrew Wilson. Tim Dylan not minted. Leah Thomas not minted.
 
 # Episode 158 Analysis
 
 
 ## 2. Executive Summary
 
-This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Malo, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions—contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kovette not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroot), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Why Refi / contract material for the next show.
+This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions—contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kovette not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroot), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Why Refi / contract material for the next show.
 
 ---
 
@@ -30,14 +30,14 @@ This episode centers on the newly published Vanity Fair profile of Erika Kirk (C
 
 **A-2459** Vanity Fair Erika Kirk Profile Bundle
 
-**A-2459.1** Host read-through of Clara Malo’s Vanity Fair profile of Erika Kirk, including snark/frustration framing, “evangelical Catholic hybrid” faith language, political-question avoidance, Israel/BB “no bandwidth” answers, and CEO-fitness critique.
+**A-2459.1** Host read-through of Clara Molot’s Vanity Fair profile of Erika Kirk, including snark/frustration framing, “evangelical Catholic hybrid” faith language, political-question avoidance, Israel/BB “no bandwidth” answers, and CEO-fitness critique.
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:01:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as quoted/read on air)
 
-*Related: C-3596, C-3597, C-3598, N-2355, N-2356, N-2*
+*Related: C-3596, C-3597, C-3598, N-2355, N-2356, N-2, N-10004*
 
 ---
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:17:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as quoted from profile); Medium (host inference about PR mindset)
 
-*Related: C-3599, N-2357, N-2, N-542*
+*Related: C-3599, N-2357, N-2, N-326*
 
 ---
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:24:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as quoted in profile)
 
-*Related: C-3602, C-3603, N-50, N-214, N-1121, N-2355*
+*Related: C-3602, C-3603, N-50, N-42, N-1121, N-2355*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:37:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (headline/narrative as characterized); High (that host presents the flip as coordinated)
 
-*Related: C-3604, N-2358, N-7, N-59*
+*Related: C-3604, N-2358, N-3, N-59*
 
 ---
 
@@ -156,7 +156,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-7** Candace Owens
+**N-3** Candace Owens
 
 Host/narrator; target of smear flip discussed in second half.
 
@@ -216,7 +216,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-214** Andrew Kovette
+**N-42** Andrew Kolvet
 
 Recipient of Carlson advice in the profile; prior source of early Erika-CEO notice to host; tied to Candace-focus critique.
 
@@ -264,7 +264,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-542** Elizabeth McCoy
+**N-326** Eliza McCoy
 
 Prior public thread claiming she went to Aloe for clothes; host contrasts with profile’s Erika-directed account.
 
@@ -276,7 +276,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-749** Brian Harpole
+**N-424** Brian Harpole
 
 Referenced in post-review segment as heavily debunked by Lake Force relative to Shawn Ryan narrative.
 
@@ -288,7 +288,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-755** Frank Turk
+**N-16** Frank Turek
 
 Rhetorically invoked in closing comments / pastor jab.
 
@@ -312,7 +312,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-992** Blake Neff
+**N-224** Blake Neff
 
 Opening callback: host’s July 18 tweet predicting Vanity Fair widow spread; Neff bookmarked it.
 
@@ -384,7 +384,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-2351** July 10 HQ-Driven Courtyard Request (Crofts / Chilikut Chain)
+**N-2351** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
 
 Reused when plotting July 9 college-video archive against July 10 UVU ask.
 
@@ -392,7 +392,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3605, N-2359*
+*Related: C-3605, N-2359, N-10001*
 
 ---
 
@@ -408,7 +408,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-2355** Vanity Fair Erika Kirk Profile (Clara Malo)
+**N-2355** Vanity Fair Erika Kirk Profile (Clara Molot)
 
 New topic: published profile granting months of access; host treats as primary source artifact exposing CEO/widow narrative contradictions.
 
@@ -417,20 +417,20 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3596, C-3597, A-2459.1, N-2*
+*Related: C-3596, C-3597, A-2459.1, N-2, N-10004*
 
 ---
 
 **N-2356** Erika Heaven-Focused Political Non-Answers / CEO Fitness
 
-New topic: profile quotations where Erika avoids politics/Israel via heaven/bandwidth framing; writer Clara Malo on-camera notes disingenuous/incoherent political conversation.
+New topic: profile quotations where Erika avoids politics/Israel via heaven/bandwidth framing; writer Clara Molot on-camera notes disingenuous/incoherent political conversation.
 
 Evidence Count: 2
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3597, C-3598, A-2459.1, N-1121*
+*Related: C-3597, C-3598, A-2459.1, N-1121, N-10004*
 
 ---
 
@@ -443,7 +443,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3599, A-2460.1, N-2, N-542*
+*Related: C-3599, A-2460.1, N-2, N-326*
 
 ---
 
@@ -456,7 +456,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3604, A-2464.1, N-7, N-59*
+*Related: C-3604, A-2464.1, N-3, N-59*
 
 ---
 
@@ -473,17 +473,53 @@ Investigative Pressure: High
 
 ---
 
+**N-10001** Caleb Chilcutt
+
+Node Type: Person
+UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.
+
+*Related: prose mention in episode*
+
+---
+
+**N-10004** Clara Molot
+
+Node Type: Person
+Vanity Fair writer of the Erika Kirk profile the host reads as an unflattering portrait.
+
+*Related: C-3596*
+
+---
+
+**N-10005** Sergio Gor
+
+Node Type: Person
+Trump-world operative and later US ambassador to India. Host ties him to Winning Team Publishing and to Susie Wiles's orbit.
+
+*Related: prose mention in episode*
+
+---
+
+**N-10006** Andrew Wilson
+
+Node Type: Person
+Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
+
+*Related: prose mention in episode*
+
+---
+
 ## 5. Claim Register
 
 **C-3596** Vanity Fair published an access-heavy Erika Kirk profile that the host reads as exposure, not celebration
 
 Claim Timestamp: 00:01:33
 
-Claim: Host asserts Clara Malo’s Vanity Fair profile—enabled by months of TPUSA/Erika access including family—reads as a frustrated reporter’s portrait of an obvious grift, while TPUSA refused Lake Force review cooperation.
+Claim: Host asserts Clara Molot’s Vanity Fair profile—enabled by months of TPUSA/Erika access including family—reads as a frustrated reporter’s portrait of an obvious grift, while TPUSA refused Lake Force review cooperation.
 
 Anchored Artifacts: A-2459.1, A-2459.2
 
-Related Nodes: N-2355, N-2350, N-2, N-992
+Related Nodes: N-2355, N-2350, N-224, N-10004
 
 Investigative Direction: Archive the full Vanity Fair piece; list access dates; compare cooperation posture to Lake Force outreach log.
 
@@ -525,7 +561,7 @@ Claim: The profile states Erika, thinking about Air Force 2 optics and a “heav
 
 Anchored Artifacts: A-2460.1
 
-Related Nodes: N-2357, N-2, N-542
+Related Nodes: N-2357, N-2, N-326
 
 Investigative Direction: Preserve profile text; archive Elizabeth McCoy thread; seek staff corroboration without minting new Persons.
 
@@ -567,7 +603,7 @@ Claim: Vanity Fair quotes Carlson that TPUSA leadership is wholly focused on Can
 
 Anchored Artifacts: A-2463.1
 
-Related Nodes: N-50, N-214, N-7, N-2355
+Related Nodes: N-50, N-42, N-3, N-2355
 
 Investigative Direction: Confirm quote context in published piece; note host’s declined-to-comment status.
 
@@ -581,7 +617,7 @@ Claim: Per Carlson’s conversations with Erika as relayed in the profile, she w
 
 Anchored Artifacts: A-2463.1
 
-Related Nodes: N-50, N-2, N-1, N-1121, N-2356
+Related Nodes: N-50, N-2, N-1121, N-2356
 
 Investigative Direction: Pair with on-record Erika statements; treat Carlson quote as secondhand unless further primary emerges.
 
@@ -595,7 +631,7 @@ Claim: Host asserts attackers shifted from “jealous of Erika / antisemitic” 
 
 Anchored Artifacts: A-2464.1
 
-Related Nodes: N-2358, N-7, N-59, N-2329
+Related Nodes: N-2358, N-3, N-59, N-2329
 
 Investigative Direction: Archive primary smear posts/headlines; separate real 2008 video from unverified MySpace/sex-site claims.
 
@@ -623,7 +659,7 @@ Claim: Host asserts billionaire Bill Ackman retweeted/amplified the college-acco
 
 Anchored Artifacts: A-2465.1
 
-Related Nodes: N-66, N-2359, N-7
+Related Nodes: N-66, N-2359, N-3
 
 Investigative Direction: Preserve deleted-tweet captures; confirm handles/dates; avoid over-claiming coordination without docs.
 

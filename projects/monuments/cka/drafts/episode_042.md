@@ -34,8 +34,8 @@ Episode 42 Ledger Summary
 
 - Artifact Families Introduced: A-1501, A-1502, A-1503, A-1504, A-1505, A-1506, A-1507, A-1508, A-1509, A-1510, A-1511, A-1512
 - Claim Range: C-1839–C-1861
-  - New Nodes Introduced: N-487, N-488, N-489, N-490, N-491, N-492, N-493, N-494, N-495, N-1382, N-1383, N-1384, N-1385, N-1386
-  - Reused Nodes Appearing: N-1, N-1002
+  - New Nodes Introduced:  N-490, N-491, N-492, N-493, N-494, N-495, N-1382, N-1383, N-1384, N-1385, N-1386
+  - Reused Nodes Appearing: N-1002
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-1002 (Erica Kirk)
 
 ---
@@ -62,7 +62,7 @@ Video Timestamp: 00:04:20–00:05:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1839, C-1840, N-494, N-487, N-1, N-1002, N-1384*
+*Related: C-1839, C-1840, N-494, N-224, N-1002, N-1384*
 
 **A-1501.2** Segment: Blake Nef response — Erika Kirk direction and in-person rationale
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:05:37–00:07:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1839, C-1840, C-1841, N-487, N-1002, N-1, N-1384*
+*Related: C-1839, C-1840, C-1841, N-224, N-1002, N-1384*
 
 **A-1502** TPUSA Phoenix Live Stream Announcement Bundle
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:11:14–00:11:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1842, N-487, N-1384, N-1002*
+*Related: C-1842, N-224, N-1384, N-1002*
 
 **A-1503** The Game Song Bundle
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:34:18–00:37:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1843, N-489, N-1, N-1002*
+*Related: C-1843, N-481, N-1002*
 
 **A-1504** John McCain Ukraine Speech Clip Bundle
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:46:13–00:46:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1854, N-487, N-1384*
+*Related: C-1854, N-224, N-1384*
 
 **A-1507** Charlie Kirk Show Apple Podcasts Ranking Bundle
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:02:41–00:03:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1855, N-1, N-1383*
+*Related: C-1855, N-1383*
 
 **A-1508** PBS Emmanuel Beerer Interview Bundle
 
@@ -254,7 +254,7 @@ Video Timestamp: 00:01:32–00:02:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-1, N-1384*
+*Related: N-1384*
 
 ---
 
@@ -295,7 +295,7 @@ Investigative Pressure: High
 
 *Related: A-1501.2, A-1502.1, C-1839, C-1840, C-1861*
 
-**N-487** Blake Nef
+**N-224** Blake Neff
 
 TPUSA spokesperson featured in artifact-anchored audio segment and X post.
 
@@ -306,7 +306,7 @@ Investigative Pressure: Medium
 
 *Related: A-1501.2, A-1502.1, A-1506.1, C-1839, C-1840, C-1841, C-1842, C-1854, N-1384*
 
-**N-488** Andrew Kovat
+**N-42** Andrew Kolvet
 
 TPUSA figure referenced in connection with the live stream; spelling varies in transcript ("Andrew Kovat," "Andrew Kovette," "Andrew Kovac") — see Optional Flags.
 
@@ -315,9 +315,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1501.1, A-1501.2, N-487, N-1384*
+*Related: A-1501.1, A-1501.2, N-224, N-1384*
 
-**N-489** The Game (rapper)
+**N-481** The Game
 
 Recording artist whose track "The Assassination of Candace Owens" is presented in the episode.
 
@@ -381,7 +381,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1501.1, N-487, N-1384*
+*Related: A-1501.1, N-224, N-1384*
 
 **N-1382** Maroon Shirt Pattern at UVU September 10 Event
 
@@ -414,7 +414,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1501.1, A-1501.2, A-1502.1, A-1506.1, A-1512.1, C-1839, C-1840, C-1841, C-1842, C-1854, C-1861, N-487, N-488, N-494, N-1002*
+*Related: A-1501.1, A-1501.2, A-1502.1, A-1506.1, A-1512.1, C-1839, C-1840, C-1841, C-1842, C-1854, C-1861, N-224, N-42, N-494, N-1002*
 
 **N-1385** Roof Shooter Video Witness Follow-up
 
@@ -450,7 +450,7 @@ Claim: On the Charlie Kirk Show, Blake Nef stated that the invitation-response a
 
 Anchored Artifacts: A-1501.2
 
-Related Nodes: N-487, N-1002, N-1, N-1384, N-495, N-496
+Related Nodes: N-224, N-1002, N-1384, N-495, N-496
 
 Investigative Direction: Obtain the full unedited Charlie Kirk Show audio segment and any internal TPUSA communications referencing Erika Kirk's approval.
 
@@ -464,7 +464,7 @@ Claim: On the Charlie Kirk Show, Blake Nef stated that, given the nature of the 
 
 Anchored Artifacts: A-1501.2
 
-Related Nodes: N-487, N-1384, N-1002
+Related Nodes: N-224, N-1384, N-1002
 
 Investigative Direction: Compare this stated rationale against any prior TPUSA live stream format decisions, particularly those involving remote participation.
 
@@ -478,7 +478,7 @@ Claim: In his earlier invitation statement (read aloud in this episode), Blake N
 
 Anchored Artifacts: A-1502.1
 
-Related Nodes: N-487, N-1384, N-1002
+Related Nodes: N-224, N-1384, N-1002
 
 Investigative Direction: Obtain the original December 3 (approx.) Blake Nef statement text and any follow-up communication that added an in-person condition.
 
@@ -492,7 +492,7 @@ Claim: The Game's song "The Assassination of Candace Owens" (audio excerpt and l
 
 Anchored Artifacts: A-1503.1
 
-Related Nodes: N-489, N-1
+Related Nodes: N-481, N-1
 
 Investigative Direction: Obtain the full released track and verify publication date, distribution platform, and producer credits.
 
@@ -534,7 +534,7 @@ Claim: Blake Nef posted on X that the invitation was "not how you book a guest,"
 
 Anchored Artifacts: A-1506.1
 
-Related Nodes: N-487, N-1384, N-1002
+Related Nodes: N-224, N-1384, N-1002
 
 Investigative Direction: Retrieve the original X post with timestamp and any replies; obtain any direct communication records between TPUSA and Candace Owens's representatives.
 
@@ -548,7 +548,7 @@ Claim: The Charlie Kirk Show has fallen to #94 on Apple Podcasts despite a prior
 
 Anchored Artifacts: A-1507.1
 
-Related Nodes: N-1, N-1383
+Related Nodes: N-1383
 
 Investigative Direction: Cross-reference third-party Apple Podcasts tracking services to verify the ranking on the cited date and identify trend pattern.
 
@@ -758,7 +758,7 @@ Claim: A TPUSA response live stream was announced for December 15 (2025).
 
 Anchored Artifacts: A-1501.2
 
-Related Nodes: N-487, N-1002, N-1384, N-488
+Related Nodes: N-224, N-1002, N-1384, N-42
 
 Investigative Direction: Monitor TPUSA channels for confirmation and document the actual event for artifact capture.
 

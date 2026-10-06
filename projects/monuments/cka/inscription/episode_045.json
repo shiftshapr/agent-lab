@@ -3,14 +3,14 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 45,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
     "video_timestamp_range": "00:00:00–00:56:29",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "0f528a0831f0745732d0b588607a54f1aca44c71a0b721dce830b64978f68cce",
+    "transcript_sha256": "33f8430dc8f4892645295e48cc30c6fac74bf7345b2f004f77e9048a964d135e",
     "analysis_date": "2026-09-27"
   },
   "executive_summary": "",
@@ -365,7 +365,7 @@
             "C-1907"
           ],
           "related_nodes": [
-            "N-528"
+            "N-518"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -456,8 +456,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-528",
-      "ref": "N-528",
+      "@id": "N-518",
+      "ref": "N-518",
       "name": "Captain Adam Nef",
       "type": "person",
       "description": "Positively identified in this episode as the U.S. Army captain of the 10th Mountain Division who interrogated the Fort Huachuca witness (\"Harry\") on September 9, 2025. Distinct from Blake Nef (Fox News personality mentioned in same episode).",
@@ -517,7 +517,23 @@
       "episode_count": 1,
       "investigative_pressure": "medium"
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10005",
+        "ref": "N-10005",
+        "name": "Sergio Gor",
+        "type": "person",
+        "description": "Trump-world operative and later US ambassador to India. Host ties him to Winning Team Publishing and to Susie Wiles's orbit.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -579,7 +595,9 @@
       ],
       "related_nodes": [
         "N-1004"
-      ],
+      ,
+            "N-10005"
+          ],
       "tags": [],
       "claim_timestamp": "00:10:45",
       "investigative_direction": "Cross-reference ceremony date with Erika Kirk's public schedule; verify any travel reimbursement or charter flight records."
@@ -691,7 +709,7 @@
         "A-1532.2"
       ],
       "related_nodes": [
-        "N-528"
+        "N-518"
       ],
       "tags": [],
       "claim_timestamp": "00:40:00",

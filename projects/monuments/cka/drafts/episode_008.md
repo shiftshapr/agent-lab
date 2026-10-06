@@ -18,7 +18,7 @@
   - Artifact Families Introduced: A-1146, A-1147, A-1148, A-1149, A-1150, A-1151, A-1152, A-1153, A-1154
   - Claim Range: C-1245-C-1266
   - New Nodes Introduced: N-135, N-136, N-137, N-138, N-139, N-140, N-141, N-142, N-143, N-144, N-145, N-146, N-147, N-1158, N-1159, N-1160, N-1161, N-1162, N-1163, N-1164, N-1165, N-1166, N-1167, N-1168, N-1169, N-1170, N-1171, N-1172, N-1173, N-1174
-  - Reused Nodes Appearing: N-1, N-2, N-7, N-42, N-50, N-66, N-69, N-71, N-79, N-92, N-102, N-110, N-111, N-112, N-134, N-1000, N-1077, N-1125, N-1137
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-66, N-69, N-71, N-5, N-92, N-102, N-110, N-111, N-112, N-134, N-1000, N-1077, N-1125, N-1137
 
 ## 2. Executive Summary
 
@@ -31,7 +31,7 @@ CKA seq 8 re-examines the 9/10 eyewitness pattern. Host surfaces GMA interview w
 **A-1146.1** GMA segment featuring Tiffany Barker, L Steel and Mia Grant recounting the 9/10 shooting.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:03:38–00:06:49
-*Related: C-1245, C-1246, N-7, N-110, N-111, N-112, N-1*
+*Related: C-1245, C-1246, N-3, N-110, N-111, N-112, N-1*
 Transcript Snippet: We're joined now by Tiffany Barker and her nieces L Steel and Mia Grant who were all in the audience
 Confidence: high
 
@@ -128,7 +128,7 @@ Confidence: high
 
 **A-1152.1** August Myrtle Beach clip of Charlie Kirk saying he won't end friendships over moral blackmail.
 Video Timestamp: 00:55:42–00:57:43
-*Related: C-1258, C-1259, N-1, N-7*
+*Related: C-1258, C-1259, N-1, N-3*
 Transcript Snippet: I don't stop being friends with people just because people morally blackmail me
 Confidence: high
 
@@ -138,7 +138,7 @@ Confidence: high
 
 **A-1153.1** Audio of Trump calling for separation of MMR vaccines and delay of Hepatitis B for newborns.
 Video Timestamp: 01:01:02–01:02:30
-*Related: C-1260, N-79*
+*Related: C-1260, N-5*
 Transcript Snippet: We want no mercury in the vaccine. We want no aluminum in the vaccine. The MMR I think should be taken separately
 Confidence: high
 
@@ -156,7 +156,7 @@ Confidence: medium
 
 ## 4. Node Register
 
-**N-7** Candace Owens
+**N-3** Candace Owens
 
 Node Type: Person
 Host of the show and primary investigator in the Candace Kirk Archive series.
@@ -295,7 +295,7 @@ Catholic debate partner of Charlie Kirk referenced by Kovette.
 
 ---
 
-**N-79** Donald Trump
+**N-5** Donald Trump
 
 Node Type: Person
 President; audio statement on MMR separation and Hepatitis B delay played in the episode.
@@ -406,7 +406,7 @@ TPUSA donor referenced as possibly funneling foreign-agent money.
 
 ---
 
-**N-134** Bob Shaman
+**N-134** Bob Shulman
 
 Node Type: Person
 TPUSA donor referenced in same FARA-suspicion chain.
@@ -660,7 +660,7 @@ Claim Timestamp: 00:05:18
 Claim: Nieces L Steel and Mia Grant told GMA they saw the shot hit Charlie's artery.
 Transcript Snippet: I saw blood everywhere and it hit his artery and then I just we fell to the ground
 Anchored Artifacts: A-1146.1
-Related Nodes: N-110, N-111, N-112, N-1, N-1162
+Related Nodes: N-110, N-111, N-112, N-1162
 Confidence: high
 Investigative Direction: Compare the children's GMA statements against the video metadata and any device footage.
 
@@ -685,7 +685,7 @@ Claim Timestamp: 00:13:41
 Claim: Per the host's timeline, ~40 seconds from shot to SUV departure and ~1:08 later George Zinn is in handcuffs in the same SUV zone.
 Transcript Snippet: 40 seconds later, Charlie's brought to the SUV... George Zinn is in handcuffs
 Anchored Artifacts: A-1148.1, A-1148.3, A-1148.4
-Related Nodes: N-71, N-1, N-1163
+Related Nodes: N-71, N-1163
 Confidence: medium
 Investigative Direction: Independently verify the timeline from official police body-cam and security footage.
 
@@ -809,7 +809,7 @@ Claim Timestamp: 00:54:57
 Claim: Kovette recounts Charlie telling him after a Myrtle Beach show, 'I don't appreciate being morally blackmailed,' when pressured to disavow Candace/Tucker.
 Transcript Snippet: he basically said, 'I don't appreciate being morally blackmailed.'
 Anchored Artifacts: A-1151.4, A-1152.1
-Related Nodes: N-42, N-1, N-50, N-7, N-1172
+Related Nodes: N-42, N-1, N-50, N-3, N-1172
 Confidence: high
 Investigative Direction: Identify the donor(s) involved; review any internal TPUSA communications on donor pressure.
 
@@ -821,7 +821,7 @@ Claim Timestamp: 00:56:05
 Claim: In an August Myrtle Beach clip, Charlie Kirk said he does not stop being friends with people because of moral blackmail and named Candace specifically.
 Transcript Snippet: I don't stop being friends with people just because people morally blackmail me
 Anchored Artifacts: A-1152.1
-Related Nodes: N-1, N-7, N-1172
+Related Nodes: N-1, N-3, N-1172
 Confidence: high
 Investigative Direction: Verify the clip's date and audience Q&A context.
 
@@ -833,7 +833,7 @@ Claim Timestamp: 01:01:02
 Claim: Trump publicly stated vaccines should not contain mercury or aluminum, MMR should be given as separate shots, and Hepatitis B should wait until age 12.
 Transcript Snippet: The MMR I think should be taken separately... hepatitis B is sexually transmitted... wait till the baby is 12
 Anchored Artifacts: A-1153.1
-Related Nodes: N-79
+Related Nodes: N-5
 Confidence: high
 Investigative Direction: Verify official White House transcript of the statement.
 
@@ -894,7 +894,7 @@ Claim Timestamp: 00:01:43
 Claim: Host states she verified Charlie was not wearing an earpiece; what appears to be one is his necklace.
 Transcript Snippet: no, Charlie was not wearing an earpiece
 Anchored Artifacts: 
-Related Nodes: N-1, N-1168
+Related Nodes: N-1168
 Confidence: low
 Investigative Direction: Locate the high-resolution footage and clothing item Charlie was wearing to confirm.
 
@@ -906,7 +906,7 @@ Claim Timestamp: 00:02:06
 Claim: Host states she verified Charlie was not wearing a vest, and a prior vest supplier had stopped providing them.
 Transcript Snippet: he was not wearing a bulletproof vest
 Anchored Artifacts: 
-Related Nodes: N-1, N-1169
+Related Nodes: N-1169
 Confidence: low
 Investigative Direction: Identify and interview the prior vest provider; review any supplier/contract documentation.
 
@@ -919,7 +919,7 @@ Investigative Direction: Identify and interview the prior vest provider; review 
 ### Occurrence 1
 
 Video Timestamp: 00:49:03
-Speaker: N-7
+Speaker: N-3
 Quote: I am not equipped to be the CEO of my little tiny company... I worry I really do worry... just pray for Erika
 Context: Host asks viewers to pray for Erika taking on CEO/chairman role alone.
 Tags: grieving_widow_framing
@@ -932,7 +932,7 @@ Confidence: medium
 ### Occurrence 1
 
 Video Timestamp: 00:39:55
-Speaker: N-7
+Speaker: N-3
 Quote: I said the joke that I said to Charlie, take the next step. You're too smart to be a Protestant.
 Context: Host defends egging Charlie on toward Catholicism.
 Tags: identity_flip
@@ -954,7 +954,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 01:03:11
-Speaker: N-7
+Speaker: N-3
 Quote: the evildoers in this world. The psychopaths that have been poisoning us for generations
 Context: Vaccine/school segment.
 Tags: pure_evil_framing
@@ -963,7 +963,7 @@ Confidence: high
 ### Occurrence 2
 
 Video Timestamp: 01:04:41
-Speaker: N-7
+Speaker: N-3
 Quote: we have to be radical because the psychopaths that rule the world are radical
 Context: Calls for parents to withdraw children from schools.
 Tags: pure_evil_framing
@@ -976,7 +976,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 01:00:33
-Speaker: N-7
+Speaker: N-3
 Quote: how much they lie and delude. And we have all of this fear-based reaction... accepting what is poison
 Context: Anti-vax commentary framing vaccines as poison and 'science' as cover for harm.
 Tags: trust_the_science_inversion
@@ -989,7 +989,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:03:17
-Speaker: N-7
+Speaker: N-3
 Quote: I guess that's just coincidental
 Context: Host notes that none of the eyewitnesses appear to be UVU students.
 Tags: coincidence_skepticism

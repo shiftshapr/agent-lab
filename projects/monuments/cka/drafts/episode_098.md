@@ -740,7 +740,7 @@ Claim: Show Faith by Works LLC began its FARA contracting registration approxima
 
 Anchored Artifacts: A-2036.1
 
-Related Nodes: N-1, N-1210, N-1727
+Related Nodes: N-1210, N-1727
 
 ---
 
@@ -752,7 +752,7 @@ Claim: Show Faith by Works LLC was contracted by Havoc Media on the 8th [day], f
 
 Anchored Artifacts: A-2036.1, A-2044.1
 
-Related Nodes: N-1, N-1210, N-1727, N-1728
+Related Nodes: N-1210, N-1727, N-1728
 
 Investigative Direction: Confirm contract date and counterparty from FARA filing.
 

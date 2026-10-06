@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 28,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -320,8 +320,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-361",
-      "ref": "N-361",
+      "@id": "N-340",
+      "ref": "N-340",
       "name": "Zohran Mamdani",
       "type": "person",
       "description": "NYC Democratic mayoral primary winner referenced in Tucker Carlson and Ben Shapiro stage discussions; relevant as the named political figure in the Mamdani-coverage dispute between Shapiro and Carlson.",

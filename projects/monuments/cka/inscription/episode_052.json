@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 52,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -407,7 +407,7 @@
       "@type": "Person",
       "@id": "N-639",
       "ref": "N-639",
-      "name": "Larry Gwinta",
+      "name": "Larry Guinta",
       "type": "person",
       "description": "Erika Kirk's stepfather; named in the 2014 Arizona House EMP legislation record alongside Lori Frantzve (host uncertain of spelling/pronunciation).",
       "related_artifacts": [
@@ -511,7 +511,23 @@
         "N-1454"
       ]
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10002",
+        "ref": "N-10002",
+        "name": "Tyler Bowyer",
+        "type": "person",
+        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -609,7 +625,9 @@
       "anchored_artifacts": [
         "A-1580.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+            "N-10002"
+          ],
       "tags": [],
       "claim_timestamp": "00:28:55",
       "investigative_direction": "Cross-check rally attendee list and corroborate timing of Erika's political involvement; verify Bowyer's narrative against other contemporaneous accounts."

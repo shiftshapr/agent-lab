@@ -3,17 +3,17 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 158,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
     "video_timestamp_range": "00:00:00–01:07:20",
     "extraction_timestamp": "2026-10-02T20:40:00Z",
     "model_version": "grok-manual-extract-seq158",
-    "transcript_sha256": "e76df2a27b328a03e2bd5dec62761cfab8e23f3d0dbaf2de73a6b7d28fd7d54b",
+    "transcript_sha256": "022d4f12740713037a1e34d8c7a3f460558cfd3ae1badcd1d4c1565a058eb7cf",
     "analysis_date": "2026-10-02"
   },
-  "executive_summary": "This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Malo, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions—contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kovette not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroot), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Why Refi / contract material for the next show.\n\n---",
+  "executive_summary": "This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions—contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kovette not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroot), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Why Refi / contract material for the next show.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-2459.1",
           "ref": "A-2459.1",
-          "description": "Host read-through of Clara Malo’s Vanity Fair profile of Erika Kirk, including snark/frustration framing, “evangelical Catholic hybrid” faith language, political-question avoidance, Israel/BB “no bandwidth” answers, and CEO-fitness critique.",
+          "description": "Host read-through of Clara Molot’s Vanity Fair profile of Erika Kirk, including snark/frustration framing, “evangelical Catholic hybrid” faith language, political-question avoidance, Israel/BB “no bandwidth” answers, and CEO-fitness critique.",
           "related_claims": [
             "C-3596",
             "C-3597",
@@ -79,7 +79,7 @@
           "related_nodes": [
             "N-2357",
             "N-2",
-            "N-542"
+            "N-326"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -161,7 +161,7 @@
           ],
           "related_nodes": [
             "N-50",
-            "N-214",
+            "N-42",
             "N-1121",
             "N-2355"
           ],
@@ -189,7 +189,7 @@
           ],
           "related_nodes": [
             "N-2358",
-            "N-7",
+            "N-3",
             "N-59"
           ],
           "tags": [],
@@ -284,8 +284,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host/narrator; target of smear flip discussed in second half.",
@@ -389,9 +389,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-214",
-      "ref": "N-214",
-      "name": "Andrew Kovette",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Recipient of Carlson advice in the profile; prior source of early Erika-CEO notice to host; tied to Candace-focus critique.",
       "related_artifacts": [
@@ -463,9 +463,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-542",
-      "ref": "N-542",
-      "name": "Elizabeth McCoy",
+      "@id": "N-326",
+      "ref": "N-326",
+      "name": "Eliza McCoy",
       "type": "person",
       "description": "Prior public thread claiming she went to Aloe for clothes; host contrasts with profile’s Erika-directed account.",
       "related_artifacts": [
@@ -482,8 +482,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-749",
-      "ref": "N-749",
+      "@id": "N-424",
+      "ref": "N-424",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Referenced in post-review segment as heavily debunked by Lake Force relative to Shawn Ryan narrative.",
@@ -501,9 +501,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-755",
-      "ref": "N-755",
-      "name": "Frank Turk",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
       "type": "person",
       "description": "Rhetorically invoked in closing comments / pastor jab.",
       "related_artifacts": [
@@ -538,8 +538,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-992",
-      "ref": "N-992",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Blake Neff",
       "type": "person",
       "description": "Opening callback: host’s July 18 tweet predicting Vanity Fair widow spread; Neff bookmarked it.",
@@ -659,7 +659,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-2351",
       "ref": "N-2351",
-      "name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilikut Chain)",
+      "name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
       "type": "investigation_target",
       "description": "Reused when plotting July 9 college-video archive against July 10 UVU ask.",
       "related_artifacts": [],
@@ -699,7 +699,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-2355",
       "ref": "N-2355",
-      "name": "Vanity Fair Erika Kirk Profile (Clara Malo)",
+      "name": "Vanity Fair Erika Kirk Profile (Clara Molot)",
       "type": "investigation_target",
       "description": "New topic: published profile granting months of access; host treats as primary source artifact exposing CEO/widow narrative contradictions.",
       "related_artifacts": [
@@ -724,7 +724,7 @@
       "ref": "N-2356",
       "name": "Erika Heaven-Focused Political Non-Answers / CEO Fitness",
       "type": "investigation_target",
-      "description": "New topic: profile quotations where Erika avoids politics/Israel via heaven/bandwidth framing; writer Clara Malo on-camera notes disingenuous/incoherent political conversation.",
+      "description": "New topic: profile quotations where Erika avoids politics/Israel via heaven/bandwidth framing; writer Clara Molot on-camera notes disingenuous/incoherent political conversation.",
       "related_artifacts": [
         "A-2459.1"
       ],
@@ -761,7 +761,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-542"
+        "N-326"
       ]
     },
     {
@@ -783,7 +783,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-59"
       ]
     },
@@ -812,14 +812,75 @@
         "N-2354"
       ]
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10001",
+        "ref": "N-10001",
+        "name": "Caleb Chilcutt",
+        "type": "person",
+        "description": "UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10004",
+        "ref": "N-10004",
+        "name": "Clara Molot",
+        "type": "person",
+        "description": "Vanity Fair writer of the Erika Kirk profile the host reads as an unflattering portrait.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10005",
+        "ref": "N-10005",
+        "name": "Sergio Gor",
+        "type": "person",
+        "description": "Trump-world operative and later US ambassador to India. Host ties him to Winning Team Publishing and to Susie Wiles's orbit.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      },
+      {
+        "@type": "Person",
+        "@id": "N-10006",
+        "ref": "N-10006",
+        "name": "Andrew Wilson",
+        "type": "person",
+        "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
       "@id": "C-3596",
       "ref": "C-3596",
       "label": "Vanity Fair published an access-heavy Erika Kirk profile that the host reads as exposure, not celebration",
-      "claim": "Host asserts Clara Malo’s Vanity Fair profile—enabled by months of TPUSA/Erika access including family—reads as a frustrated reporter’s portrait of an obvious grift, while TPUSA refused Lake Force review cooperation.",
+      "claim": "Host asserts Clara Molot’s Vanity Fair profile—enabled by months of TPUSA/Erika access including family—reads as a frustrated reporter’s portrait of an obvious grift, while TPUSA refused Lake Force review cooperation.",
       "anchored_artifacts": [
         "A-2459.1",
         "A-2459.2"
@@ -828,8 +889,10 @@
         "N-2355",
         "N-2350",
         "N-2",
-        "N-992"
-      ],
+        "N-224"
+      ,
+            "N-10004"
+          ],
       "tags": [],
       "claim_timestamp": "00:01:33",
       "investigative_direction": "Archive the full Vanity Fair piece; list access dates; compare cooperation posture to Lake Force outreach log."
@@ -882,7 +945,7 @@
       "related_nodes": [
         "N-2357",
         "N-2",
-        "N-542"
+        "N-326"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
@@ -938,8 +1001,8 @@
       ],
       "related_nodes": [
         "N-50",
-        "N-214",
-        "N-7",
+        "N-42",
+        "N-3",
         "N-2355"
       ],
       "tags": [],
@@ -977,7 +1040,7 @@
       ],
       "related_nodes": [
         "N-2358",
-        "N-7",
+        "N-3",
         "N-59",
         "N-2329"
       ],
@@ -1016,7 +1079,7 @@
       "related_nodes": [
         "N-66",
         "N-2359",
-        "N-7"
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:50:25",

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 47a250b4a7d456b87206c9f6ac24514ef27c6643b47dd4ad849208b1da6b7ce1
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-324, N-325, N-326, N-327, N-328, N-329, N-330, N-331, N-332, N-333, N-334, N-1288, N-1289, N-1290, N-1291, N-1292, N-1293
+  - New Nodes Introduced:  N-326, N-330, N-331, N-334, N-1288, N-1289, N-1290, N-1291, N-1292, N-1293
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -31,7 +31,7 @@
 - **Ledger Continuation Summary:**
   - Artifact Families Introduced: A-1321, A-1322, A-1323, A-1324, A-1325, A-1326, A-1327, A-1328, A-1329, A-1330, A-1331, A-1332
   - Claim Range: C-1584–C-1597
-  - New People Nodes Introduced: N-324, N-325, N-326, N-327, N-328, N-329, N-330, N-331, N-332, N-333, N-334
+  - New People Nodes Introduced: N-272, N-45, N-326, N-50, N-68, N-293, N-330, N-331, N-259, N-71, N-334
   - New Investigation Target Nodes Introduced: N-1288, N-1289, N-1290, N-1291, N-1292, N-1293
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:02:42–00:05:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1584, C-1585, N-324, N-325, N-1288*
+*Related: C-1584, C-1585, N-272, N-45, N-1288*
 
 ---
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:05:23–00:07:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1585, N-325, N-324, N-2, N-1288*
+*Related: C-1585, N-45, N-272, N-2, N-1288*
 
 ---
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:10:01–00:10:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1586, N-324, N-1, N-1289*
+*Related: C-1586, N-272, N-1289*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:11:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1587, N-326, N-324, N-1, N-2, N-1289*
+*Related: C-1587, N-326, N-272, N-1, N-2, N-1289*
 
 ---
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:14:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1588, N-325, N-330, N-1290*
+*Related: C-1588, N-45, N-330, N-1290*
 
 ---
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:15:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (underlying listing not displayed)
 
-*Related: C-1590, N-325, N-1290*
+*Related: C-1590, N-45, N-1290*
 
 ---
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:33:25–00:35:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1591, N-327, N-328, N-329*
+*Related: C-1591, N-50, N-68, N-293*
 
 ---
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:35:17–00:37:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1592, N-327, N-329, N-328*
+*Related: C-1592, N-50, N-293, N-68*
 
 ---
 
@@ -195,7 +195,7 @@ Video Timestamp: 00:41:52–00:43:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single-source assertion; primary documentation not shown)
 
-*Related: C-1593, N-333, N-1293*
+*Related: C-1593, N-71, N-1293*
 
 ---
 
@@ -215,7 +215,7 @@ Confidence Level: Medium (AI-generated; secondary)
 
 ## IV. Node Register
 
-**N-324** Mikey McCoy
+**N-272** Mikey McCoy
 
 Chief of Staff of Turning Point USA; subject of repeated adjectival framing ("hero," "amazing," "brilliant") in post-9/10 memorial and TPUSA orbit coverage; alleged by host to have been positioned as Charlie Kirk's successor.
 
@@ -224,11 +224,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1321.1, A-1322.1, A-1323.1, A-1324.1, C-1584, C-1585, C-1586, C-1587, N-325, N-326, N-1, N-2, N-1288, N-1289*
+*Related: A-1321.1, A-1322.1, A-1323.1, A-1324.1, C-1584, C-1585, C-1586, C-1587, N-45, N-326, N-1, N-2, N-1288, N-1289*
 
 ---
 
-**N-325** Rob McCoy
+**N-45** Rob McCoy
 
 Father of Mikey McCoy; transitioning senior pastor of Godspeak Calvary Chapel (mid-July 2025); per host, holds growing role at Turning Point USA; relocated to Phoenix area; placed Coronado home on market August 24, 2025.
 
@@ -237,7 +237,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1321.1, A-1322.1, A-1325.1, A-1327.1, C-1584, C-1585, C-1588, C-1590, N-324, N-330, N-1290*
+*Related: A-1321.1, A-1322.1, A-1325.1, A-1327.1, C-1584, C-1585, C-1588, C-1590, N-272, N-330, N-1290*
 
 ---
 
@@ -250,11 +250,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1324.1, C-1587, N-324, N-1289*
+*Related: A-1324.1, C-1587, N-272, N-1289*
 
 ---
 
-**N-327** Tucker Carlson
+**N-50** Tucker Carlson
 
 Subject of episode segment addressing backlash from Nick Fuentes interview; articulates theological anti-collective-punishment framing and explains decision to interview Fuentes.
 
@@ -263,11 +263,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low (not central to Kirk investigation)
 
-*Related: A-1328.1, A-1329.1, C-1591, C-1592, N-328, N-329*
+*Related: A-1328.1, A-1329.1, C-1591, C-1592, N-68, N-293*
 
 ---
 
-**N-328** Dave Smith
+**N-68** Dave Smith
 
 Host of the show on which Tucker Carlson appeared to address the Nick Fuentes interview backlash.
 
@@ -276,11 +276,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1328.1, A-1329.1, C-1591, C-1592, N-327, N-329*
+*Related: A-1328.1, A-1329.1, C-1591, C-1592, N-50, N-293*
 
 ---
 
-**N-329** Nick Fuentes
+**N-293** Nick Fuentes
 
 Subject of Tucker Carlson's interview; framed by Tucker as example of capacity for personal change despite prior personal attacks on Tucker's family.
 
@@ -289,7 +289,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1328.1, A-1329.1, C-1591, C-1592, N-327, N-328*
+*Related: A-1328.1, A-1329.1, C-1591, C-1592, N-50, N-68*
 
 ---
 
@@ -302,7 +302,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1325.1, C-1588, N-325, N-1290*
+*Related: A-1325.1, C-1588, N-45, N-1290*
 
 ---
 
@@ -319,7 +319,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-332** Sam Parker
+**N-259** Sam Parker
 
 Per host, identified as the source of the July 18 UVU/Turning Point USA event-request finding. (Name preserved as it appears in transcript; identity not further corroborated in this episode.)
 
@@ -332,7 +332,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-333** George Zinn
+**N-71** George Zinn
 
 Salt Lake City event disruptor; per host's source, presented at Utah Valley Hospital after the 9/10 event and stated he had been paid to disrupt without knowing the payment source.
 
@@ -367,7 +367,7 @@ Claim Count: 2 (C-1584, C-1585)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1321.1, A-1322.1, C-1584, C-1585, N-324, N-325, N-1, N-2*
+*Related: A-1321.1, A-1322.1, C-1584, C-1585, N-272, N-45, N-1, N-2*
 
 ---
 
@@ -380,7 +380,7 @@ Claim Count: 2 (C-1586, C-1587)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1323.1, A-1324.1, C-1586, C-1587, N-324, N-326, N-1, N-2*
+*Related: A-1323.1, A-1324.1, C-1586, C-1587, N-272, N-326, N-1, N-2*
 
 ---
 
@@ -393,7 +393,7 @@ Claim Count: 2 (C-1588, C-1590)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1325.1, A-1327.1, C-1588, C-1590, N-325, N-330*
+*Related: A-1325.1, A-1327.1, C-1588, C-1590, N-45, N-330*
 
 ---
 
@@ -406,7 +406,7 @@ Claim Count: 1 (C-1589)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1326.1, C-1589, N-331, N-332*
+*Related: A-1326.1, C-1589, N-331, N-259*
 
 ---
 
@@ -432,7 +432,7 @@ Claim Count: 1 (C-1593)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1331.1, C-1593, N-333*
+*Related: A-1331.1, C-1593, N-71*
 
 ---
 
@@ -446,7 +446,7 @@ Claim: Memorial service speakers repeatedly characterized Mikey McCoy with adjec
 
 Anchored Artifacts: A-1321.1
 
-Related Nodes: N-324, N-325, N-1, N-1288
+Related Nodes: N-272, N-45, N-1288
 
 Investigative Direction: Obtain full memorial service audio/video; verify whether speaking slots and language were coordinated with TPUSA communications or Rob McCoy directly.
 
@@ -460,7 +460,7 @@ Claim: On Faith Forward Show, Rob McCoy referenced Charlie Kirk's journaled succ
 
 Anchored Artifacts: A-1322.1
 
-Related Nodes: N-325, N-324, N-2, N-1288
+Related Nodes: N-45, N-272, N-2, N-1288
 
 Investigative Direction: Obtain the original Faith Forward Show episode; obtain copies or transcripts of Charlie Kirk's journals referenced by Rob McCoy; determine whether Rob McCoy had direct access to those journals.
 
@@ -474,7 +474,7 @@ Claim: Mikey McCoy stated on camera that the Asia/Korea trip — which he descri
 
 Anchored Artifacts: A-1323.1
 
-Related Nodes: N-324, N-1, N-1289
+Related Nodes: N-272, N-1289
 
 Investigative Direction: Verify whether AV staff were present on the Korea trip and why the chief of staff assumed miking duties; cross-reference dates against Charlie Kirk's known travel itinerary.
 
@@ -488,7 +488,7 @@ Claim: Eliza McCoy's Instagram post states that the McCoy-Kirk joint trip was "o
 
 Anchored Artifacts: A-1324.1
 
-Related Nodes: N-326, N-324, N-1, N-2, N-1289
+Related Nodes: N-326, N-272, N-1, N-2, N-1289
 
 Investigative Direction: Verify Eliza McCoy's Instagram post metadata for date and context; cross-reference against the McCoy-Kirk trip timeline to confirm whether footage (including the "sweet moment" viral clip) was captured during this specific trip.
 
@@ -502,7 +502,7 @@ Claim: Per Ventura County Star, Rob McCoy was scheduled to step down as senior p
 
 Anchored Artifacts: A-1325.1
 
-Related Nodes: N-325, N-330, N-1290
+Related Nodes: N-45, N-330, N-1290
 
 Investigative Direction: Obtain the original Ventura County Star article; verify Rob McCoy's stated dates of pastoral transition and Phoenix home purchase; cross-reference against Turning Point USA organizational records.
 
@@ -530,7 +530,7 @@ Claim: Per host's stated confirmation, Rob McCoy placed his Coronado (near San D
 
 Anchored Artifacts: A-1327.1
 
-Related Nodes: N-325, N-1290
+Related Nodes: N-45, N-1290
 
 Investigative Direction: Verify via Zillow/Redfin/realtor.com listing records for August 24, 2025; cross-reference ownership records with Rob McCoy's name and prior Coronado property references.
 
@@ -544,7 +544,7 @@ Claim: On Dave Smith's show, Tucker Carlson asserted that collective punishment 
 
 Anchored Artifacts: A-1328.1
 
-Related Nodes: N-327, N-328, N-329
+Related Nodes: N-50, N-68, N-293
 
 Investigative Direction: Obtain the full Dave Smith episode audio; verify the precise wording and context of Tucker's framing.
 
@@ -558,7 +558,7 @@ Claim: Tucker Carlson stated that he interviewed Nick Fuentes — despite Fuente
 
 Anchored Artifacts: A-1329.1
 
-Related Nodes: N-327, N-329, N-328
+Related Nodes: N-50, N-293, N-68
 
 Investigative Direction: Obtain the full Dave Smith episode audio; verify the precise wording and any follow-up exchange.
 
@@ -572,7 +572,7 @@ Claim: Per host's source statement, George Zinn presented at Utah Valley Hospita
 
 Anchored Artifacts: A-1331.1
 
-Related Nodes: N-333, N-1293
+Related Nodes: N-71, N-1293
 
 Investigative Direction: Obtain hospital records, witness statements, and any source documentation for the alleged George Zinn statement; verify Zinn's presence at the event and his subsequent activities.
 
@@ -617,7 +617,7 @@ Investigative Direction: Independently verify against academic and government so
 - **Requires human verification:** The George Zinn hospital statement (A-1331.1, C-1593) rests on a single anonymous source per host; corroborating documentation is not displayed.
 - **Possible transcription error:** "Mira Epstein" — name does not appear in this transcript and may be a confusion with another reference; not inscribed as a node.
 - **Possible transcription error:** "Bill Aman" (likely Bill Ackman) referenced at 15:47; preserved as it appears in transcript.
-- **Name uncertainty:** "Sam Parker" (N-332) is identified by host as source of the July 18 finding; full identity not corroborated in this episode.
+- **Name uncertainty:** "Sam Parker" (N-259) is identified by host as source of the July 18 finding; full identity not corroborated in this episode.
 - **AI-generated source:** Grock response (A-1332.1) is AI-generated and should be treated as secondary; primary corroboration required.
 - **Transcript ambiguity:** The timing of the Faith Forward Show appearance (A-1322.1) is referenced but exact publication date is not given.
 - **Claim failed admission test:** Numerous rhetorical passages on Zionism, Christian Zionism, AIPAC, and "scientism" are presented as host commentary without artifact anchors; correctly excluded from the Claim Register.
@@ -629,6 +629,6 @@ Investigative Direction: Independently verify against academic and government so
 
 - **Artifact Families Introduced:** A-1321, A-1322, A-1323, A-1324, A-1325, A-1326, A-1327, A-1328, A-1329, A-1330, A-1331, A-1332
 - **Claim Range:** C-1584–C-1595
-- **New People Nodes Introduced:** N-324, N-325, N-326, N-327, N-328, N-329, N-330, N-331, N-332, N-333, N-334
+- **New People Nodes Introduced:** N-272, N-45, N-326, N-50, N-68, N-293, N-330, N-331, N-259, N-71, N-334
 - **New Investigation Target Nodes Introduced:** N-1288, N-1289, N-1290, N-1291, N-1292, N-1293
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk)

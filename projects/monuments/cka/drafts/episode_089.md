@@ -37,7 +37,7 @@ Video Timestamp: 00:04:12–00:12:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud on air)
 
-*Related: C-2669, C-2670, C-2680, C-2681, N-1207, N-1208, N-1209, N-1210, N-1216, N-1218, N-7, N-1662*
+*Related: C-2669, C-2670, C-2680, C-2681, N-1207, N-1208, N-1209, N-1210, N-1216, N-1218, N-3, N-1662*
 
 ---
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:23:45–00:24:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air)
 
-*Related: C-2671, N-1207, N-1209, N-7*
+*Related: C-2671, N-1207, N-1209, N-3*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:29:16–00:32:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single-witness recounting; second-hand via Charlie Kirk; Kolb named as corroborator)
 
-*Related: C-2675, C-2676, N-1207, N-1212, N-1213, N-1, N-1663, N-1664*
+*Related: C-2675, C-2676, N-1207, N-1212, N-1213, N-1663, N-1664*
 
 ---
 
@@ -398,7 +398,7 @@ Claim Timestamp: 00:04:12–00:12:28
 Claim: Trump's Truth Social post, read in full on air, named Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones and described them as "low IQ," "stupid people," "nutjobs," "troublemakers," and "losers."
 
 Anchored Artifacts: A-1939.1
-Related Nodes: N-1207, N-1208, N-1209, N-1210, N-7, N-1662
+Related Nodes: N-1207, N-1208, N-1209, N-1210, N-3, N-1662
 Investigative Direction: Obtain the original Truth Social post via archived screenshots and confirm the verbatim text against the on-air reading.
 
 ---
@@ -422,7 +422,7 @@ Claim Timestamp: 00:23:45–00:24:40
 Claim: CNN assembled and aired a montage of past Trump appearances in which he praised Candace Owens, Megyn Kelly, and others as "stars" with "amazing reputations," contradicting his current posture in A-1939.1.
 
 Anchored Artifacts: A-1940.1
-Related Nodes: N-1207, N-1209, N-7
+Related Nodes: N-1207, N-1209, N-3
 Investigative Direction: Identify and verify the source clips used in the CNN compilation and their original air dates.
 
 ---
@@ -470,7 +470,7 @@ Claim Timestamp: 00:29:16–00:31:16
 Claim: Candace Owens recounted on air that Charlie Kirk told her (with Andrew Kolb named as in-room corroborator) that he and Kolb were present at a meeting in which Miriam Adelson offered President Trump $100 million in exchange for annexation of the West Bank, prior to the public announcement of the donation in approximately July 2024.
 
 Anchored Artifacts: A-1944.1
-Related Nodes: N-1207, N-1212, N-1213, N-1, N-1664
+Related Nodes: N-1207, N-1212, N-1213, N-1664
 Investigative Direction: Identify and interview Andrew Kolb directly; cross-reference publicly reported Adelson-Trump meetings in spring/summer 2024; review contemporaneous meeting attendee records if obtainable.
 
 ---
@@ -482,7 +482,7 @@ Claim Timestamp: 00:30:06–00:31:16
 Claim: Per Candace Owens's recounting of Charlie Kirk's account, Donald Trump stated during the meeting described in C-2675 that he intended to "take her money and then I'll f her over."
 
 Anchored Artifacts: A-1944.1
-Related Nodes: N-1207, N-1212, N-1, N-1663, N-1664
+Related Nodes: N-1207, N-1212, N-1663, N-1664
 Investigative Direction: Obtain corroborating testimony from Andrew Kolb; review any contemporaneous notes, messages, or secondary witnesses; assess downstream policy decisions vis-à-vis West Bank actions.
 
 ---
@@ -518,7 +518,7 @@ Claim Timestamp: 00:20:14–00:21:03
 Claim: Candace Owens highlighted as the most "brutal" recurring response a claim, posted by multiple users, that Charlie Kirk would have been on Trump's target list in A-1939.1 had he not been killed.
 
 Anchored Artifacts: A-1946.1
-Related Nodes: N-1207, N-1, N-1662
+Related Nodes: N-1207, N-1662
 Investigative Direction: Locate the originating posts and timestamps; assess spread velocity and authorship clustering.
 
 ---
@@ -542,7 +542,7 @@ Claim Timestamp: 00:09:01–00:09:34
 Claim: Trump's Truth Social post stated, verbatim, that the first lady of France is "a far more beautiful woman than Candace" and "it's not even close."
 
 Anchored Artifacts: A-1939.1
-Related Nodes: N-1207, N-1216, N-1218, N-7
+Related Nodes: N-1207, N-1216, N-1218, N-3
 Investigative Direction: Verify exact wording against the archived post.
 
 ---

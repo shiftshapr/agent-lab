@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 74,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -579,7 +579,7 @@
             "C-2394"
           ],
           "related_nodes": [
-            "N-944",
+            "N-272",
             "N-1583"
           ],
           "tags": [],
@@ -607,7 +607,7 @@
             "C-2394"
           ],
           "related_nodes": [
-            "N-944",
+            "N-272",
             "N-1583"
           ],
           "tags": [],
@@ -660,7 +660,7 @@
             "C-2395"
           ],
           "related_nodes": [
-            "N-947"
+            "N-120"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -735,9 +735,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-944",
-      "ref": "N-944",
-      "name": "Mikey McCoy (also referenced as \"Mikey McQuaid\")",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Mikey McCoy",
       "type": "person",
       "description": "Chief of staff figure in the post-assassination Turning Point USA operation; appeared in two interview clips used by the host to evaluate the wedding-photo movement timeline.",
       "related_artifacts": [
@@ -759,9 +759,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-945",
-      "ref": "N-945",
-      "name": "Andrew Kolb",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Turning Point USA figure referenced (in past episodes and again here) as the alleged \"rogue\" explanation for the moved wedding photo; no artifact shown in this episode.",
       "related_artifacts": [],
@@ -796,8 +796,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-947",
-      "ref": "N-947",
+      "@id": "N-120",
+      "ref": "N-120",
       "name": "Pam Bondi",
       "type": "person",
       "description": "Attorney General whose House Oversight response to Moskowitz was played at length.",
@@ -876,8 +876,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-944",
-        "N-945"
+        "N-272",
+        "N-42"
       ]
     },
     {
@@ -1249,8 +1249,8 @@
       ],
       "related_nodes": [
         "N-1583",
-        "N-944",
-        "N-945"
+        "N-272",
+        "N-42"
       ],
       "tags": [],
       "claim_timestamp": "00:33:02",
@@ -1267,7 +1267,7 @@
         "A-1789.1"
       ],
       "related_nodes": [
-        "N-944",
+        "N-272",
         "N-1583"
       ],
       "tags": [],
@@ -1285,7 +1285,7 @@
         "A-1789.1"
       ],
       "related_nodes": [
-        "N-944",
+        "N-272",
         "N-1583"
       ],
       "tags": [],
@@ -1302,7 +1302,7 @@
         "A-1791.1"
       ],
       "related_nodes": [
-        "N-947",
+        "N-120",
         "N-946"
       ],
       "tags": [],

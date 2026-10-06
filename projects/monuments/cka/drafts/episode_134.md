@@ -28,8 +28,8 @@
   - Artifact Families Introduced: A-2205, A-2206, A-2207, A-2208, A-2209, A-2210, A-2211, A-2212, A-2213, A-2214, A-2215, A-2216
   - Claim Range: C-3162–C-3174
   - New Nodes Introduced: N-2158, N-2159, N-2160, N-2161, N-2162, N-2163
-  - Reused Nodes Appearing: N-1, N-1022, N-1207, N-1208, N-1209, N-1210, N-1211
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-1022 (Erica Kirk), N-7 (Candace Owens)
+  - Reused Nodes Appearing: N-1022, N-1207, N-1208, N-1209, N-1210, N-1211
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-1022 (Erica Kirk), N-3 (Candace Owens)
 
 ---
 
@@ -95,7 +95,7 @@ Video Timestamp: 02:44:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3168, N-1210, N-7*
+*Related: C-3168, N-1210, N-3*
 
 ---
 
@@ -109,7 +109,7 @@ Video Timestamp: 40:16:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3174, N-7*
+*Related: C-3174, N-3*
 
 ---
 
@@ -193,7 +193,7 @@ Video Timestamp: 03:53:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3169, N-7*
+*Related: C-3169, N-3*
 
 ---
 
@@ -207,7 +207,7 @@ Video Timestamp: 02:44:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3173, N-7*
+*Related: C-3173, N-3*
 
 ---
 
@@ -321,7 +321,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-1, N-1022, N-2159, N-2162, N-2163*
+*Related: N-1022, N-2159, N-2162, N-2163*
 
 ---
 
@@ -388,7 +388,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3167, A-2206.1, N-1, N-1022, N-1207, N-2159*
+*Related: C-3167, A-2206.1, N-1022, N-1207, N-2159*
 
 ---
 
@@ -488,7 +488,7 @@ Claim: An X account called Lisa Knows posted that Candace released footage the j
 
 Anchored Artifacts: A-2208.1
 
-Related Nodes: N-1210, N-7
+Related Nodes: N-1210, N-3
 
 Investigative Direction: Verify original tweet; cross-reference court orders on broadcasting exhibits.
 
@@ -504,7 +504,7 @@ Claim: A Community Note applied to the obstruction-accusation tweets clarified t
 
 Anchored Artifacts: A-2215.1
 
-Related Nodes: N-7
+Related Nodes: N-3
 
 Investigative Direction: Verify original tweet with Community Note attached; consult legal authority on obstruction statute elements (18 U.S.C. § 1503 et seq.).
 
@@ -562,7 +562,7 @@ Claim: An X user posted that if Candace was not charged with obstruction of just
 
 Anchored Artifacts: A-2216.1
 
-Related Nodes: N-7
+Related Nodes: N-3
 
 Investigative Direction: Verify original tweet content; note possible transcription artifacts in quote.
 
@@ -578,7 +578,7 @@ Claim: A viewer emailed Candace crediting her Becoming Brigitte series with help
 
 Anchored Artifacts: A-2209.1
 
-Related Nodes: N-7
+Related Nodes: N-3
 
 Investigative Direction: Verify by contacting the viewer with consent; tangential to the Kirk investigation but artifact-anchored.
 

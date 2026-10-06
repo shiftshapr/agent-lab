@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 53,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -487,9 +487,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-650",
-      "ref": "N-650",
-      "name": "Megan Kelly",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Megyn Kelly",
       "type": "person",
       "description": "Subject of host's claim that Ben Shapiro demanded her allegiance against Candace and Tucker Carlson, and has since been attacked by \"his stooges.\"",
       "related_artifacts": [],
@@ -557,7 +557,7 @@
         "N-643",
         "N-644",
         "N-645",
-        "N-650",
+        "N-75",
         "N-1462"
       ]
     },
@@ -687,7 +687,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10002",
+        "ref": "N-10002",
+        "name": "Tyler Bowyer",
+        "type": "person",
+        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",

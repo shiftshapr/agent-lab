@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 31,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -57,7 +57,7 @@
             "C-1683"
           ],
           "related_nodes": [
-            "N-388"
+            "N-16"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -207,7 +207,7 @@
             "C-1691"
           ],
           "related_nodes": [
-            "N-390"
+            "N-314"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -492,9 +492,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-388",
-      "ref": "N-388",
-      "name": "Frank Turk",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Frank Turek",
       "type": "person",
       "description": "Pastor described by host as the friend wearing the white hat beside Charlie Kirk at the assassination. Appears on CBN News interview (A-1391.1) criticizing host's evidentiary approach and referencing Detective Jay Warner Wallace.",
       "related_artifacts": [
@@ -544,8 +544,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-390",
-      "ref": "N-390",
+      "@id": "N-314",
+      "ref": "N-314",
       "name": "Alexis Wilkins",
       "type": "person",
       "description": "Country-music artist referenced as Kash Patel's girlfriend and as a member of Calvary Chapel Church in Chino Hills, California. Subject of Tim Dillon comedy segment.",
@@ -583,7 +583,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-389",
-        "N-390"
+        "N-314"
       ]
     },
     {
@@ -632,7 +632,7 @@
         "A-1391.1"
       ],
       "related_nodes": [
-        "N-388",
+        "N-16",
         "N-1",
         "N-391"
       ],
@@ -650,7 +650,7 @@
         "A-1391.1"
       ],
       "related_nodes": [
-        "N-388"
+        "N-16"
       ],
       "tags": [],
       "claim_timestamp": "00:02:06",
@@ -781,7 +781,7 @@
         "A-1396.1"
       ],
       "related_nodes": [
-        "N-390",
+        "N-314",
         "N-1317"
       ],
       "tags": [],

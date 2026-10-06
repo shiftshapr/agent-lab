@@ -30,7 +30,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1539, A-1540, A-1541, A-1542, A-1543, A-1544, A-1545, A-1546, A-1547, A-1548, A-1549, A-1550, A-1551
   - Claim Range: C-1924–C-1959
-  - New Nodes Introduced: N-539, N-540, N-541, N-542, N-543, N-544, N-545, N-546, N-547, N-548, N-549, N-550, N-551, N-552, N-553, N-554, N-555, N-556, N-557, N-558, N-559, N-560, N-561, N-562, N-563, N-564, N-565, N-566, N-567, N-568, N-1408, N-1409, N-1410, N-1411, N-1412, N-1413, N-1414, N-1415, N-1416, N-1417, N-1418, N-1419, N-1420, N-1421, N-1422, N-1423, N-1424, N-1425, N-1426, N-1427, N-1428
+  - New Nodes Introduced:  N-547, N-550, N-552, N-555, N-556, N-558, N-559, N-560, N-561, N-562, N-563, N-564, N-565, N-566, N-567, N-568, N-1408, N-1409, N-1410, N-1411, N-1412, N-1413, N-1414, N-1415, N-1416, N-1417, N-1418, N-1419, N-1420, N-1421, N-1422, N-1423, N-1424, N-1425, N-1426, N-1427, N-1428
   - Reused Nodes Appearing: 
 
 ---
@@ -57,7 +57,7 @@ Video Timestamp: 00:00:57–00:04:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1924, C-1925, C-1926, C-1927, C-1928, C-1937, C-1940, C-1944, C-1950, C-1951, C-1952, C-1953, N-539, N-540, N-1411, N-1413, N-1417, N-1419, N-1421*
+*Related: C-1924, C-1925, C-1926, C-1927, C-1928, C-1937, C-1940, C-1944, C-1950, C-1951, C-1952, C-1953, N-2, N-43, N-1411, N-1413, N-1417, N-1419, N-1421*
 
 ---
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:17:03–00:20:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1928, C-1929, N-539, N-1408*
+*Related: C-1928, C-1929, N-2, N-1408*
 
 ---
 
@@ -93,7 +93,7 @@ Video Timestamp: 00:13:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1939, C-1940, N-542, N-1412*
+*Related: C-1939, C-1940, N-326, N-1412*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:24:47–00:26:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1932, C-1933, N-544, N-1409, N-1410*
+*Related: C-1932, C-1933, N-224, N-1409, N-1410*
 
 ---
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:23:07–00:29:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1931, C-1932, C-1934, C-1935, C-1936, N-541, N-542, N-543, N-1409, N-1410*
+*Related: C-1931, C-1932, C-1934, C-1935, C-1936, N-272, N-326, N-45, N-1409, N-1410*
 
 ---
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:49:48–00:52:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1941, C-1954, C-1956, C-1957, N-546, N-555, N-1414*
+*Related: C-1941, C-1954, C-1956, C-1957, N-75, N-555, N-1414*
 
 ---
 
@@ -165,7 +165,7 @@ Video Timestamp: 00:45:27–00:46:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1942, C-1943, C-1944, C-1945, N-545, N-1415*
+*Related: C-1942, C-1943, C-1944, C-1945, N-426, N-1415*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:53:11–00:53:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced by host, not displayed)
 
-*Related: C-1949, N-547, N-551*
+*Related: C-1949, N-547, N-310*
 
 ---
 
@@ -318,7 +318,7 @@ Node Type: person
 
 ### People
 
-**N-539** Erika Kolfage
+**N-2** Erika Kirk
 
 Counterparty in the private meeting with Candace; confirmed possession of Charlie's phone; admitted text-message corroboration; defended Terrell Farnsworth and Tyler Bowyer.
 
@@ -327,11 +327,11 @@ Claim Count: 8
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, A-1540.1, C-1924, C-1925, C-1926, C-1927, C-1937, C-1952, N-540, N-1411, N-1421*
+*Related: A-1539.1, A-1540.1, C-1924, C-1925, C-1926, C-1927, C-1937, C-1952, N-43, N-1411, N-1421, N-10002*
 
 ---
 
-**N-540** Justin Streif
+**N-43** Justin Strife
 
 TPUSA executive present throughout the meeting; framed opening question on aim; described as having "reffed" the conversation.
 
@@ -340,11 +340,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1539.1, C-1924, N-539*
+*Related: A-1539.1, C-1924, N-2*
 
 ---
 
-**N-541** Mikey McCoy
+**N-272** Mikey McCoy
 
 Charlie Kirk assistant; subject of contested post-incident phone-call sequence.
 
@@ -353,11 +353,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1542.1, A-1543.1, C-1931, C-1932, C-1933, C-1934, N-542, N-543, N-1409*
+*Related: A-1542.1, A-1543.1, C-1931, C-1932, C-1933, C-1934, N-326, N-45, N-1409*
 
 ---
 
-**N-542** Elizabeth McCoy
+**N-326** Eliza McCoy
 
 Mikey McCoy's wife; reportedly first person called after shooting; described as having been removed from public narrative.
 
@@ -366,11 +366,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1543.1, C-1931, C-1935, C-1936, N-541, N-1410*
+*Related: A-1543.1, C-1931, C-1935, C-1936, N-272, N-1410*
 
 ---
 
-**N-543** Rob McCoy
+**N-45** Rob McCoy
 
 Mikey McCoy's father; pastor; subject of claim that he does not actually work for TPUSA; described by host as having hit the stage at the memorial claiming "America's pastor."
 
@@ -383,7 +383,7 @@ Investigative Pressure: High
 
 ---
 
-**N-544** Blake Neff
+**N-224** Blake Neff
 
 Provided prior public account of Mikey McCoy's reaction and call sequence; contradicted by TPUSA call logs.
 
@@ -392,11 +392,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1542.1, A-1543.1, C-1932, C-1933, N-541, N-1409*
+*Related: A-1542.1, A-1543.1, C-1932, C-1933, N-272, N-1409*
 
 ---
 
-**N-545** Tim Pool
+**N-426** Tim Pool
 
 Made two contradictory statements about Candace's security within one week.
 
@@ -409,7 +409,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-546** Megan Kelly
+**N-75** Megyn Kelly
 
 Reportedly offered to moderate potential livestream conversation between Candace and TPUSA.
 
@@ -418,7 +418,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1539.1, C-1924, N-539*
+*Related: A-1539.1, C-1924, N-2*
 
 ---
 
@@ -431,11 +431,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1549.1, C-1949, N-551*
+*Related: A-1549.1, C-1949, N-310*
 
 ---
 
-**N-548** George Zin
+**N-71** George Zinn
 
 Arrested for claiming to be the shooter on incident day; per host, told Utah Valley nurses he was paid.
 
@@ -448,7 +448,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-549** Kash Patel
+**N-102** Kash Patel
 
 Allegedly angry at Tulsi Gabbard and Joe Kent over terrorist-angle investigation.
 
@@ -474,7 +474,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-551** Joe Kent
+**N-310** Joe Kent
 
 Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.
 
@@ -500,7 +500,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-553** Seth Dillon
+**N-67** Seth Dillon
 
 Subject of Hampton retreat confrontation with Charlie Kirk over hypothetical anti-Netanyahu tweet.
 
@@ -513,7 +513,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-554** Bibi Netanyahu
+**N-65** Benjamin Netanyahu
 
 Allegedly offered to fund TPUSA to the next level; offer reportedly turned down by Charlie Kirk.
 
@@ -539,7 +539,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-556** Greg Shafer
+**N-556** Greg Schaefer
 
 Operated Shafer Security; Charlie Kirk's initial security company employing Dan Flood and Brian Harpole.
 
@@ -552,7 +552,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-557** Andrew Kolb
+**N-42** Andrew Kolvet
 
 Source (per host) for Bibi Netanyahu funding offer; name distinct from Andrew Kolvet as spelled in transcript.
 
@@ -732,7 +732,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1542.1, A-1543.1, C-1931, C-1932, C-1933, N-541, N-542, N-544*
+*Related: A-1542.1, A-1543.1, C-1931, C-1932, C-1933, N-272, N-326, N-224*
 
 ---
 
@@ -745,7 +745,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1543.1, C-1935, C-1936, N-542*
+*Related: A-1543.1, C-1935, C-1936, N-326*
 
 ---
 
@@ -758,7 +758,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, C-1926, C-1927, N-539*
+*Related: A-1539.1, C-1926, C-1927, N-2*
 
 ---
 
@@ -784,7 +784,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, C-1937, C-1938, N-554, N-557*
+*Related: A-1539.1, C-1937, C-1938, N-65, N-42*
 
 ---
 
@@ -810,7 +810,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, A-1545.1, A-1545.2, C-1942, C-1943, C-1944, C-1945, N-545, N-556*
+*Related: A-1539.1, A-1545.1, A-1545.2, C-1942, C-1943, C-1944, C-1945, N-426, N-556*
 
 ---
 
@@ -823,7 +823,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-1953, N-553*
+*Related: A-1539.1, C-1953, N-67*
 
 ---
 
@@ -836,7 +836,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-1938, N-539*
+*Related: A-1539.1, C-1938, N-2*
 
 ---
 
@@ -862,7 +862,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, C-1937, N-543*
+*Related: A-1539.1, C-1937, N-45*
 
 ---
 
@@ -888,7 +888,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, A-1551.7, C-1952, N-539, N-562*
+*Related: A-1539.1, A-1551.7, C-1952, N-2, N-562*
 
 ---
 
@@ -927,7 +927,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, N-543*
+*Related: A-1539.1, N-45*
 
 ---
 
@@ -940,7 +940,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-1950, N-548*
+*Related: A-1539.1, C-1950, N-71*
 
 ---
 
@@ -953,7 +953,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-1951, N-549, N-550, N-551*
+*Related: A-1539.1, C-1951, N-102, N-550, N-310*
 
 ---
 
@@ -983,6 +983,15 @@ Investigative Pressure: Medium
 
 ---
 
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: prose mention in episode*
+
+---
+
 ## V. Claim Register
 
 **C-1924** Private meeting with Erika and Justin Streif lasted 4 hours 30 minutes
@@ -993,7 +1002,7 @@ Claim: A private meeting between Candace Owens, Erika Kolfage, and Justin Streif
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-539, N-540, N-546, N-588, N-589
+Related Nodes: N-2, N-43, N-75, N-588, N-589
 
 Investigative Direction: Verify meeting date, location, and stated duration against any third-party records.
 
@@ -1007,7 +1016,7 @@ Claim: Erika Kolfage confirmed she has Charlie Kirk's phone and that he primaril
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-539, N-1411
+Related Nodes: N-2, N-1411
 
 Investigative Direction: Verify Charlie Kirk's actual messaging platforms through device forensics.
 
@@ -1021,7 +1030,7 @@ Claim: Erika Kolfage acknowledged that Andrew Kolvet received a pre-incident mes
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-539, N-542, N-1411
+Related Nodes: N-2, N-326, N-1411
 
 Investigative Direction: Obtain the original message from Andrew Kolvet or his device records.
 
@@ -1035,7 +1044,7 @@ Claim: Erika Kolfage stated that the message Dan Flood received from Charlie Kir
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-539, N-543, N-1411
+Related Nodes: N-2, N-45, N-1411
 
 Investigative Direction: Obtain original Dan Flood message through his records or testimony.
 
@@ -1049,7 +1058,7 @@ Claim: The lawyer involved in the Tyler Robinson prosecution told Candace that t
 
 Anchored Artifacts: A-1539.1, A-1540.1
 
-Related Nodes: N-539, N-1408
+Related Nodes: N-2, N-1408
 
 Investigative Direction: Verify the May probable cause hearing date through Utah court records; compare against public charging documents.
 
@@ -1077,7 +1086,7 @@ Claim: Candace Owens spoke with a witness who filmed a person on the roof at 12:
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-539, N-1408
+Related Nodes: N-2, N-1408
 
 Investigative Direction: Identify the witness and verify the video and timestamp.
 
@@ -1105,7 +1114,7 @@ Claim: Mikey McCoy's call logs show his first post-shooting call was to his wife
 
 Anchored Artifacts: A-1543.1
 
-Related Nodes: N-541, N-542, N-1409
+Related Nodes: N-272, N-326, N-1409
 
 Investigative Direction: Obtain the call logs directly from Mikey McCoy or from phone carrier records.
 
@@ -1119,7 +1128,7 @@ Claim: Mikey McCoy added Erika to the call approximately 3 minutes after the sho
 
 Anchored Artifacts: A-1543.1
 
-Related Nodes: N-541, N-542, N-543, N-539, N-1409
+Related Nodes: N-272, N-326, N-45, N-2, N-1409
 
 Investigative Direction: Verify the three-way call sequence against carrier records.
 
@@ -1133,7 +1142,7 @@ Claim: Mikey McCoy's real first name is Michael; "Mikey" is not a middle-name su
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-541
+Related Nodes: N-272
 
 Investigative Direction: Verify against official identity records.
 
@@ -1147,7 +1156,7 @@ Claim: Blake Neff's interview account — that Mikey's first call after the shoo
 
 Anchored Artifacts: A-1542.1, A-1543.1
 
-Related Nodes: N-541, N-544, N-1409
+Related Nodes: N-272, N-224, N-1409
 
 Investigative Direction: Cross-reference Blake Neff's recorded statement against the verified call sequence.
 
@@ -1161,7 +1170,7 @@ Claim: Elizabeth McCoy was reportedly involved in memorial activity and vacation
 
 Anchored Artifacts: A-1543.1
 
-Related Nodes: N-542, N-539, N-1410
+Related Nodes: N-326, N-2, N-1410
 
 Investigative Direction: Investigate the editorial decisions that excluded Elizabeth McCoy from circulated accounts.
 
@@ -1175,7 +1184,7 @@ Claim: Three sources with knowledge confirmed to Candace that Bibi Netanyahu off
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-539, N-554, N-1413
+Related Nodes: N-2, N-65, N-1413
 
 Investigative Direction: Identify the three sources and obtain documentary evidence of the offer.
 
@@ -1189,7 +1198,7 @@ Claim: Andrew Kolb (as named in transcript) told Candace verbatim that Bibi Neta
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-557, N-554, N-1413
+Related Nodes: N-42, N-65, N-1413
 
 Investigative Direction: Verify Andrew Kolb's specific statement; clarify whether this is the same person as Andrew Kolvet.
 
@@ -1203,7 +1212,7 @@ Claim: Rob McCoy does not work with TPUSA in any capacity, contrary to his publi
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-543, N-1419, N-1424
+Related Nodes: N-45, N-1419, N-1424
 
 Investigative Direction: Verify Rob McCoy's formal affiliations independently of his self-presentation.
 
@@ -1217,7 +1226,7 @@ Claim: TPUSA defended Terrell Farnsworth's removal of cameras as part of a new l
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-549, N-539, N-1417
+Related Nodes: N-102, N-2, N-1417
 
 Investigative Direction: Verify TPUSA's documented livestream policy and Farnsworth's specific authority on incident day.
 
@@ -1231,7 +1240,7 @@ Claim: Andrew Kolvet posted a tweet attributing to a surgeon the claim that Char
 
 Anchored Artifacts: A-1541.1
 
-Related Nodes: N-542, N-1412
+Related Nodes: N-326, N-1412
 
 Investigative Direction: Verify the original tweet content and the surgeon's identity.
 
@@ -1245,7 +1254,7 @@ Claim: Per Candace, Andrew Kolvet acknowledged that the surgeon did not know he 
 
 Anchored Artifacts: A-1539.1, A-1541.2
 
-Related Nodes: N-542, N-1412
+Related Nodes: N-326, N-1412
 
 Investigative Direction: Verify Kolvet's stated communication with the surgeon and HIPAA implications.
 
@@ -1259,7 +1268,7 @@ Claim: Approximately one week prior, Tim Pool stated Candace Owens had no securi
 
 Anchored Artifacts: A-1545.1
 
-Related Nodes: N-545, N-1415
+Related Nodes: N-426, N-1415
 
 Investigative Direction: Verify the earlier Tim Pool statement against his show archive.
 
@@ -1273,7 +1282,7 @@ Claim: Tim Pool currently states Candace Owens has used the same security person
 
 Anchored Artifacts: A-1545.2
 
-Related Nodes: N-545, N-1415
+Related Nodes: N-426, N-1415
 
 Investigative Direction: Verify the current claim against any documented security employment records.
 
@@ -1287,7 +1296,7 @@ Claim: Candace Owens retained separate security from Charlie Kirk's from the beg
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-539, N-556, N-1415
+Related Nodes: N-2, N-556, N-1415
 
 Investigative Direction: Verify Greg Shafer's public statement and Shafer Security's documented client list.
 
@@ -1301,7 +1310,7 @@ Claim: Candace has received no cease and desist from Charlie Kirk's security app
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-539, N-1415
+Related Nodes: N-2, N-1415
 
 Investigative Direction: Confirm absence of legal correspondence through counsel records.
 
@@ -1315,7 +1324,7 @@ Claim: New York Post article reported an anonymous source claim that Candace thr
 
 Anchored Artifacts: A-1546.1
 
-Related Nodes: N-559, N-539
+Related Nodes: N-559, N-2
 
 Investigative Direction: Verify the cited Daily Wire source and article publication date.
 
@@ -1329,7 +1338,7 @@ Claim: Candace Owens states she never drove her car to the Daily Wire during her
 
 Anchored Artifacts: A-1546.1
 
-Related Nodes: N-559, N-539
+Related Nodes: N-559, N-2
 
 Investigative Direction: Verify against Daily Wire security logs or contemporaneous records.
 
@@ -1357,7 +1366,7 @@ Claim: Turkey Tom produced a video asserting that he was in Discord chats with T
 
 Anchored Artifacts: A-1549.1
 
-Related Nodes: N-547, N-558, N-551
+Related Nodes: N-547, N-558, N-310
 
 Investigative Direction: Verify Turkey Tom's claimed Discord membership through chat logs or other participants.
 
@@ -1371,7 +1380,7 @@ Claim: Per Candace, George Zin told nurses at Utah Valley (where he was treated)
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-548, N-1425
+Related Nodes: N-71, N-1425
 
 Investigative Direction: Verify through hospital records, nurse testimony, or police interview of Zin.
 
@@ -1385,7 +1394,7 @@ Claim: Per Candace, Kash Patel expressed anger at Tulsi Gabbard and Joe Kent for
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-549, N-550, N-551, N-1426
+Related Nodes: N-102, N-550, N-310, N-1426
 
 Investigative Direction: Verify through any on-record statements from the named individuals.
 
@@ -1399,7 +1408,7 @@ Claim: Erika Kolfage confirmed Charlie Kirk was attending mass; per third-party 
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-539, N-1421
+Related Nodes: N-2, N-1421
 
 Investigative Direction: Verify through parish records and direct corroboration from Erika on the record.
 
@@ -1413,7 +1422,7 @@ Claim: Seth Dillon pressed Charlie Kirk at the Hampton retreat over a hypothetic
 
 Anchored Artifacts: A-1539.1
 
-Related Nodes: N-553, N-554, N-1416
+Related Nodes: N-67, N-65, N-1416
 
 Investigative Direction: Verify through any recording or attendee corroboration of the retreat.
 

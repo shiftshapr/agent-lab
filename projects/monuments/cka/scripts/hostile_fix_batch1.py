@@ -222,12 +222,12 @@ def patch_orphan_wiring() -> None:
             DRAFTS / "episode_001.md",
             [
                 (
-                    "Related Nodes: N-1, N-7, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64",
-                    "Related Nodes: N-1, N-7, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64, N-1073",
+                    "Related Nodes: N-1, N-3, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64",
+                    "Related Nodes: N-1, N-3, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64, N-1073",
                 ),
                 (
-                    "*Related: C-1121, N-1, N-7, N-56*",
-                    "*Related: C-1121, N-1, N-7, N-56, N-1073*",
+                    "*Related: C-1121, N-1, N-3, N-56*",
+                    "*Related: C-1121, N-1, N-3, N-56, N-1073*",
                 ),
                 (
                     "**N-1073** YWLS Conference\n\nNode Type: Organization\nOrganization Kind: conference\nConference concurrent with the 'him too' / #MeToo press incident; reporters swooped in on Candace's statements.\n\n*Related: C-1118*",
@@ -243,12 +243,12 @@ def patch_orphan_wiring() -> None:
                     "Related Nodes: N-1137, N-1175, N-1191",
                 ),
                 (
-                    "Related Nodes: N-7, N-100, N-1184",
-                    "Related Nodes: N-7, N-100, N-1184, N-1192",
+                    "Related Nodes: N-3, N-59, N-1184",
+                    "Related Nodes: N-3, N-59, N-1184, N-1192",
                 ),
                 (
-                    "Related Nodes: N-7, N-1179",
-                    "Related Nodes: N-7, N-1179, N-1194, N-1181",
+                    "Related Nodes: N-3, N-1179",
+                    "Related Nodes: N-3, N-1179, N-1194, N-1181",
                 ),
                 (
                     "Related Nodes: N-148, N-1177, N-1186",

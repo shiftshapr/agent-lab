@@ -349,7 +349,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1921.1, C-2633, C-2641, N-1207, N-1211, N-1648*
+*Related: A-1921.1, C-2633, C-2641, N-1207, N-1211, N-1648, N-10014*
 
 **N-1213** Unidentified Goth Person in Broderick Companion Photo
 
@@ -553,6 +553,15 @@ Investigative Pressure: Medium
 
 ---
 
+**N-10014** Mitt Romney
+
+Node Type: Person
+Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.
+
+*Related: C-2626*
+
+---
+
 ## V. Claim Register
 
 **C-2626** Romney–Netanyahu Friendship Dated to 1976 at Boston Consulting Group
@@ -563,7 +572,7 @@ Claim: A 2012 New York Times article confirms that the friendship between Mitt R
 
 Anchored Artifacts: A-1917.1
 
-Related Nodes: N-1207, N-1208, N-1648
+Related Nodes: N-1207, N-1208, N-1648, N-10014
 
 Investigative Direction: Obtain the NYT 2012 article in full and verify the 1976 Boston Consulting Group employment dates against public records.
 

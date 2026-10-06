@@ -153,7 +153,7 @@ Video Timestamp: 00:16:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2505, N-1214, N-1207*
+*Related: C-2505, N-1214, N-1207, N-10018*
 
 ---
 
@@ -195,7 +195,7 @@ Video Timestamp: 00:32:20–00:33:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2509, C-2510, N-1217, N-1, N-1618*
+*Related: C-2509, C-2510, N-1217, N-1618*
 
 ---
 
@@ -209,7 +209,7 @@ Video Timestamp: 00:33:39–00:34:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2511, C-2523, C-2524, N-1, N-1217, N-1220*
+*Related: C-2511, C-2523, C-2524, N-1217, N-1220*
 
 ---
 
@@ -347,6 +347,15 @@ Episode Count: 1
 Investigative Pressure: High
 
 *Related: A-1861.1, A-1862.1, A-1863.1, A-1864.1, A-1864.2, A-1865.1, A-1866.1, A-1867.1, C-2498, C-2499, C-2500, C-2501, C-2502, C-2503, C-2504, C-2505, N-1207*
+
+---
+
+**N-10018** Taylor Budowich
+
+Node Type: Person
+Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.
+
+*Related: C-2505*
 
 ---
 
@@ -514,7 +523,7 @@ Claim: Taylor Budowich publicly described Kent as a "crazed egomaniac" who was "
 
 Anchored Artifacts: A-1867.1
 
-Related Nodes: N-1214, N-1207, N-1619
+Related Nodes: N-1214, N-1207, N-1619, N-10018
 
 Investigative Direction: Confirm exact text against Budowich's verified X account.
 
@@ -584,7 +593,7 @@ Claim: The Fonte Grassi letter states that since Charlie Kirk's assassination, "
 
 Anchored Artifacts: A-1870.1
 
-Related Nodes: N-1217, N-1, N-1618
+Related Nodes: N-1217, N-1618
 
 Investigative Direction: Cross-reference specific TPUSA statements attributed to Charlie's posthumous voice against Kirk's documented prior positions.
 
@@ -598,7 +607,7 @@ Claim: Dino Fonte Grassi participated in a July 2025 Charlie Kirk sit-down discu
 
 Anchored Artifacts: A-1871.1
 
-Related Nodes: N-1217, N-1, N-1618
+Related Nodes: N-1217, N-1618
 
 Investigative Direction: Verify the date, venue, and Fonte Grassi's participation against the original video; identify other participants.
 
@@ -766,7 +775,7 @@ Claim: Charlie Kirk, in a July 2025 student discussion, publicly stated that "I 
 
 Anchored Artifacts: A-1871.1
 
-Related Nodes: N-1, N-1618
+Related Nodes: N-1618
 
 Investigative Direction: Verify exact quotation against the full original audio/video recording.
 
@@ -780,7 +789,7 @@ Claim: Charlie Kirk publicly questioned Senator Ted Cruz's use of the Bible to j
 
 Anchored Artifacts: A-1871.1
 
-Related Nodes: N-1, N-1220, N-1618
+Related Nodes: N-1220, N-1618
 
 Investigative Direction: Verify exact quotation against the full original recording and identify any contemporaneous response from Cruz.
 

@@ -17,8 +17,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1134, A-1135, A-1136, A-1137, A-1138, A-1139, A-1140, A-1141, A-1142, A-1143, A-1144, A-1145
   - Claim Range: C-1228-C-1244
-  - New Nodes Introduced: N-128, N-129, N-130, N-131, N-132, N-133, N-134, N-1148, N-1149, N-1150, N-1151, N-1152, N-1153, N-1154, N-1155, N-1156, N-1157
-  - Reused Nodes Appearing: N-1, N-2, N-7, N-42, N-50, N-61, N-65, N-66, N-69, N-71, N-91, N-102, N-1000, N-1077, N-1137
+  - New Nodes Introduced: N-128, N-129, N-130, N-132, N-133, N-134, N-1148, N-1149, N-1150, N-1151, N-1152, N-1153, N-1154, N-1155, N-1156, N-1157
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-61, N-65, N-66, N-69, N-71, N-91, N-102, N-1000, N-1077, N-1137
 
 ## 2. Executive Summary
 
@@ -122,7 +122,7 @@ Confidence: high
 
 **A-1141.2** Text messages between Charlie Kirk and friend re Candace statements
 Video Timestamp: 00:35:38–00:36:20
-*Related: C-1237, C-1238, N-1, N-7*
+*Related: C-1237, C-1238, N-1, N-3*
 Transcript Snippet: Candace needs to say two things...Israel is not committing a genocide.
 
 ---
@@ -131,7 +131,7 @@ Transcript Snippet: Candace needs to say two things...Israel is not committing a
 
 **A-1142.1** Candace Owens tweet: genocide is always wrong
 Video Timestamp: 00:37:14–00:37:31
-*Related: C-1239, N-7*
+*Related: C-1239, N-3*
 Transcript Snippet: No government anywhere has a right to commit a genocide ever.
 
 **A-1142.2** Dave Rubin reply to Candace genocide tweet
@@ -150,7 +150,7 @@ Transcript Snippet: If you call everyone an anti-semite if they don't take a pur
 
 **A-1143.2** Charlie Kirk town hall clip discussing AIPAC
 Video Timestamp: 00:45:47–00:49:21
-*Related: C-1241, N-1, N-1149*
+*Related: C-1241, N-1149*
 Transcript Snippet: The entirety of the idea of AIPAC is to represent a group...
 
 ---
@@ -173,7 +173,7 @@ Transcript Snippet: They said they found it on the roof, even though you don't u
 
 **A-1145.2** Comment expressing suspicion re Dr. Frank Turk
 Video Timestamp: 01:07:52–01:08:49
-*Related: C-1244, N-131*
+*Related: C-1244, N-16*
 Transcript Snippet: Something about Dr. Frank Turk isn't sitting right with me.
 
 ---
@@ -189,7 +189,7 @@ Deceased founder of TPUSA; primary subject of investigation.
 
 ---
 
-**N-7** Candace Owens
+**N-3** Candace Owens
 
 Node Type: Person
 Host of the episode and lead investigator.
@@ -292,7 +292,7 @@ Commentator and former Navy intelligence officer; defended by host.
 
 ---
 
-**N-131** Frank Turk
+**N-16** Frank Turek
 
 Node Type: Person
 Dr. who spoke at memorial; viewer raised suspicions about him.
@@ -341,7 +341,7 @@ Referenced as part of Hamptons group also with Awesome Jew.
 
 ---
 
-**N-134** Bob Shaman
+**N-134** Bob Shulman
 
 Node Type: Person
 Donor alleged to have withdrawn millions from TPUSA.
@@ -594,7 +594,7 @@ Claim Timestamp: 00:31:11
 Claim: Laura Loomer publicly reported Candace Owens to the CIA via X, alleging the Candace Intelligence Agency merch violated federal law.
 Transcript Snippet: It is a federal felony to use the CIA seal without license.
 Anchored Artifacts: A-1140.1
-Related Nodes: N-91, N-7, N-1148, N-1154
+Related Nodes: N-91, N-3, N-1148, N-1154
 Investigative Direction: Archive the original Loomer tweet; check whether any formal CIA complaint was filed.
 
 ---
@@ -605,7 +605,7 @@ Claim Timestamp: 00:34:44
 Claim: An X account called Awesome Jew released text messages between Charlie Kirk and an unnamed friend pressuring Candace to disavow her Israel statements.
 Transcript Snippet: A close friend of Charlie Kirk shared these messages.
 Anchored Artifacts: A-1141.1, A-1141.2
-Related Nodes: N-132, N-1, N-7, N-1155
+Related Nodes: N-132, N-1, N-3, N-1155
 Investigative Direction: Verify the actual date of the messages via metadata or forensic analysis of screenshots.
 
 Tags: open_source_investigation
@@ -617,7 +617,7 @@ Claim Timestamp: 00:36:37
 Claim: Host asserts the released text messages dated to 2023 based on context (Brian Mast comment, AmFest dispute) and were undated to obscure that fact.
 Transcript Snippet: It's from 2023. He then writes 'It doesn't come natural to her...'
 Anchored Artifacts: A-1141.1, A-1141.2
-Related Nodes: N-1, N-7, N-1155
+Related Nodes: N-1, N-3, N-1155
 Investigative Direction: Cross-reference the content with public 2023 events; obtain metadata from screenshots.
 
 Tags: open_source_investigation
@@ -629,7 +629,7 @@ Claim Timestamp: 00:37:31
 Claim: After Candace tweeted 'genocide is always wrong' she was inundated with demands to retract/apologize, including from Dave Rubin, while at the Daily Wire.
 Transcript Snippet: I was being inundated. Charlie was being inundated.
 Anchored Artifacts: A-1142.1, A-1142.2
-Related Nodes: N-7, N-61
+Related Nodes: N-3, N-61
 Investigative Direction: Archive original tweet and Rubin reply; identify any coordinated pressure campaign participants.
 
 ---
@@ -640,7 +640,7 @@ Claim Timestamp: 00:45:14
 Claim: Charlie Kirk publicly stated that labeling everyone who didn't take a puritanical view of Netanyahu an antisemite was destructive.
 Transcript Snippet: If you call everyone an anti-semite if they don't take a puritanical view of the Netanyahu government...
 Anchored Artifacts: A-1143.1
-Related Nodes: N-1, N-1149, N-65
+Related Nodes: N-1149, N-65
 Investigative Direction: Verify the full town hall recording.
 
 ---
@@ -651,7 +651,7 @@ Claim Timestamp: 00:45:47
 Claim: Charlie Kirk publicly criticized AIPAC as a group prioritizing foreign interests over American citizens and referenced the JFK precedent.
 Transcript Snippet: The entirety of the idea of AIPAC is to represent a group...I have a huge problem with.
 Anchored Artifacts: A-1143.2
-Related Nodes: N-1, N-1149
+Related Nodes: N-1149
 Investigative Direction: Verify the full town hall recording and Charlie's subsequent statements on the topic.
 
 ---
@@ -684,7 +684,7 @@ Claim Timestamp: 01:07:52
 Claim: A viewer reports persistent unease about Dr. Frank Turk following his memorial speech, citing possible guilt over inaction.
 Transcript Snippet: Something about Dr. Frank Turk isn't sitting right with me.
 Anchored Artifacts: A-1145.2
-Related Nodes: N-131, N-1157
+Related Nodes: N-16, N-1157
 Investigative Direction: Obtain the full Frank Turk memorial speech and biographical background.
 
 ---
@@ -696,7 +696,7 @@ Investigative Direction: Obtain the full Frank Turk memorial speech and biograph
 ### Occurrence 1
 
 Video Timestamp: 00:00:37
-Speaker: N-7
+Speaker: N-3
 Quote: She arrived at forgiveness in front of the entire world.
 Context: Host praising Erika Kirk's forgiveness speech at memorial.
 Tags: forgiveness, memorial
@@ -705,7 +705,7 @@ Confidence: high
 ### Occurrence 2
 
 Video Timestamp: 00:54:33
-Speaker: N-7
+Speaker: N-3
 Quote: I am not going to stop unless Erika Kirk asks me to stop.
 Context: Host frames investigation as deferred to widow's wishes.
 Tags: deference
@@ -718,7 +718,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:08:46
-Speaker: N-7
+Speaker: N-3
 Quote: I believe that the reason everybody is a conspiracy theorist is because people don't share truth.
 Context: Host inverts label: secrecy creates conspiracies, transparency removes them.
 Tags: inverted_use

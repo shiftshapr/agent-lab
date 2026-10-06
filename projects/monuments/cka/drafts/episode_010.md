@@ -18,7 +18,7 @@
   - Artifact Families Introduced: A-1162, A-1163, A-1164, A-1165, A-1166, A-1167, A-1168, A-1169, A-1170
   - Claim Range: C-1286-C-1296
   - New Nodes Introduced: N-43, N-165, N-166, N-167, N-168, N-169, N-170, N-171, N-172, N-173, N-174, N-175, N-1195, N-1196, N-1197, N-1198, N-1199, N-1200, N-1201, N-1202, N-1203, N-1204, N-1205, N-1206
-  - Reused Nodes Appearing: N-1, N-2, N-7, N-42, N-65, N-66, N-67, N-69, N-73, N-75, N-79, N-85, N-86, N-91, N-1000, N-1092, N-1127, N-1190
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-65, N-66, N-67, N-69, N-73, N-75, N-5, N-70, N-86, N-91, N-1000, N-1092, N-1127, N-1190
 
 ## 2. Executive Summary
 
@@ -88,7 +88,7 @@ Confidence: high
 
 **A-1165.1** Xavier Deruso video clip played in episode, addressing Hamptons weekend and use of phrase 'moral blackmail' regarding Charlie Kirk
 Video Timestamp: 00:04:45–00:06:00
-*Related: C-1292, N-166, N-1, N-1196*
+*Related: C-1292, N-166, N-1196*
 Transcript Snippet: He said is it is moral blackmail if you say that somebody saying that a politician is bad that you're then empowering a terrorist organization.
 Confidence: high
 
@@ -156,7 +156,7 @@ Uncertainty: Essay referenced verbally with word count but not displayed in epis
 
 ## 4. Node Register
 
-**N-7** Candace Owens
+**N-3** Candace Owens
 
 Node Type: Person
 Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.
@@ -239,7 +239,7 @@ Named as participant in Hamptons weekend who allegedly pressured Charlie Kirk on
 
 ---
 
-**N-67** Seth Dylan
+**N-67** Seth Dillon
 
 Node Type: Person
 Named as applying pressure on Charlie Kirk at the Hamptons weekend retreat.
@@ -334,7 +334,7 @@ Referenced as co-architect of the original federal Department of Government Effi
 
 ---
 
-**N-79** Donald Trump
+**N-5** Donald Trump
 
 Node Type: Person
 US President referenced in connection with DOGE and in context of Netanyahu allegedly tweeting before him about Charlie's death.
@@ -394,7 +394,7 @@ Unnamed CEO of Riverbend Ranch met by host with Charlie years prior; produced tr
 
 ---
 
-**N-85** Governor Cox
+**N-70** Spencer Cox
 
 Node Type: Person
 Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.
@@ -596,7 +596,7 @@ Claim Timestamp: 00:00:00
 Claim: According to host and unnamed insiders, Charlie Kirk was concerned about TPUSA finances approximately one week before his assassination and had begun assembling a small team to investigate where money was going.
 Transcript Snippet: a week before Charlie lost his life, he expressed some concerns about the finances at Turning Point USA.
 Anchored Artifacts: A-1162.1
-Related Nodes: N-1, N-1000, N-1198
+Related Nodes: N-1000, N-1198
 Confidence: medium
 Uncertainty: Underlying insider testimony not directly presented in this episode; memo corroborates timing and organizational focus but not the exact motivation.
 Investigative Direction: Identify insiders, obtain contemporaneous communications, and confirm whether the DOGE team was actually stood up prior to September 10, 2025.
@@ -622,7 +622,7 @@ Claim Timestamp: 00:34:33
 Claim: Host argues that what Range Day Bro identified as blood splatter from an entry wound is in fact Charlie Kirk's necklace chain whipping up after the shot.
 Transcript Snippet: that's actually not blood splatter. And I was very surprised by this. It's his necklace.
 Anchored Artifacts: A-1163.2
-Related Nodes: N-1, N-172
+Related Nodes: N-172
 Confidence: medium
 Investigative Direction: Obtain high-resolution frame-by-frame footage from multiple angles to confirm chain trajectory versus ballistic entry.
 
@@ -660,7 +660,7 @@ Claim Timestamp: 00:18:43
 Claim: A second rooftop witness told the host he personally walked his footage into the Orem Police Department on day one, and that the feds did not reach out to him until September 15, after Governor Cox declared the suspect in custody.
 Transcript Snippet: He walked in and gave the footage to the Orum Police Department… the feds never reached out to him until the 15th.
 Anchored Artifacts: A-1164.3
-Related Nodes: N-1195, N-1199, N-85, N-1127
+Related Nodes: N-1195, N-1199, N-70, N-1127
 Supports: C-1290
 Confidence: high
 Investigative Direction: Cross-reference Orem PD intake records, witness identity, and federal contact logs dated September 15.
@@ -674,7 +674,7 @@ Claim Timestamp: 00:04:28
 Claim: Xavier Deruso states in his video that Charlie Kirk used the phrase 'moral blackmail' to describe the weekend pressure regarding his Israel/Netanyahu positioning.
 Transcript Snippet: Charlie spoke about feeling morally blackmailed.
 Anchored Artifacts: A-1165.1
-Related Nodes: N-166, N-1, N-1200, N-1092
+Related Nodes: N-166, N-1200, N-1092
 Confidence: medium
 Investigative Direction: Verify with primary recording or transcript of the actual weekend workshop; cross-check Deruso's characterization against other attendees.
 
@@ -712,7 +712,7 @@ Claim Timestamp: 00:03:05
 Claim: Host states that Bill Aman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation or the offer to take TPUSA to the next level financially.
 Transcript Snippet: Bill Aman replies with an essay, college essay. 959 words to be precise was his response to me.
 Anchored Artifacts: A-1170.1
-Related Nodes: N-66, N-1200, N-7
+Related Nodes: N-66, N-1200, N-3
 Confidence: medium
 Uncertainty: Essay not displayed in this episode; word count and characterization are host assertions.
 Investigative Direction: Obtain the full 959-word essay, confirm word count, and analyze whether the host's characterization of omissions is accurate.
@@ -725,7 +725,7 @@ Claim Timestamp: 00:01:53
 Claim: Host asserts that Benjamin Netanyahu tweeted about Charlie Kirk's death before the President of the United States and subsequently misrepresented the contents of a May letter from Charlie Kirk on Fox News and Greta Van Susteren's show.
 Transcript Snippet: minute one, he tweeted before the president of the United States that Charlie had lost his life.
 Anchored Artifacts: 
-Related Nodes: N-65, N-79, N-73
+Related Nodes: N-65, N-5, N-73
 Confidence: medium
 Uncertainty: Claim not directly artifact-anchored within this episode; tweets and broadcasts cited publicly but not shown.
 Investigative Direction: Obtain timestamped tweet records from Netanyahu and the US President account on September 10, 2025; review the May letter and Netanyahu's on-air characterizations.
@@ -739,7 +739,7 @@ Investigative Direction: Obtain timestamped tweet records from Netanyahu and the
 ### Occurrence 1
 
 Video Timestamp: 00:12:26
-Speaker: N-7
+Speaker: N-3
 Quote: And since when do we trust the feds?
 Context: Host frames refusal to accept federal investigation narrative as parallel to 'trust the science' skepticism, applied to federal authorities instead of scientific institutions.
 Tags: trust_pattern, skepticism_frame
@@ -753,7 +753,7 @@ Uncertainty: Likely variant extension of 'Trust the Science' meme pattern applie
 ### Occurrence 1
 
 Video Timestamp: 00:48:41
-Speaker: N-7
+Speaker: N-3
 Quote: it is just such a crazy thing to make me guilty of investigating Charlie's murder. Like, it doesn't make any Why would you investigate this? Because everybody's lying and we're not going to allow it.
 Context: Host pushes back against the 'conspiracy theorist' framing by reframing her investigation as a refusal to accept everyone lying about a friend's murder.
 Tags: self_defense, rhetorical_reframe

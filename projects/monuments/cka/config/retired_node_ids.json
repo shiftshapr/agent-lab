@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated": "2026-09-24T21:05:44Z",
+  "updated": "2026-10-05T02:13:54Z",
   "description": "Tombstone ledger: Person N-1..N-999 dense intro-order; Topic/Org/Place N-1000+ only.",
   "retired": {
     "legacy-N-10": {
@@ -1082,6 +1082,1291 @@
       "survives_as": "N-1205",
       "canonical_name": "Orem Police Department",
       "reason": "PR38 dense Topic/Org/Place intro-order reclaim; was N-1206."
+    },
+    "legacy-N-7": {
+      "survives_as": "N-3",
+      "canonical_name": "Candace Owens",
+      "reason": "Duplicate person collapsed into N-3 (Candace Owens)."
+    },
+    "legacy-N-79": {
+      "survives_as": "N-5",
+      "canonical_name": "Donald Trump",
+      "reason": "Duplicate person collapsed into N-5 (Donald Trump)."
+    },
+    "legacy-N-85": {
+      "survives_as": "N-70",
+      "canonical_name": "Spencer Cox",
+      "reason": "Duplicate person collapsed into N-70 (Spencer Cox)."
+    },
+    "legacy-N-100": {
+      "survives_as": "N-59",
+      "canonical_name": "George (Candace's husband)",
+      "reason": "Duplicate person collapsed into N-59 (George (Candace's husband))."
+    },
+    "legacy-N-101": {
+      "survives_as": "N-70",
+      "canonical_name": "Spencer Cox",
+      "reason": "Duplicate person collapsed into N-70 (Spencer Cox)."
+    },
+    "legacy-N-105": {
+      "survives_as": "N-67",
+      "canonical_name": "Seth Dillon",
+      "reason": "Duplicate person collapsed into N-67 (Seth Dillon)."
+    },
+    "legacy-N-106": {
+      "survives_as": "N-84",
+      "canonical_name": "Lance Twigs",
+      "reason": "Duplicate person collapsed into N-84 (Lance Twigs)."
+    },
+    "legacy-N-131": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-185": {
+      "survives_as": "N-65",
+      "canonical_name": "Benjamin Netanyahu",
+      "reason": "Duplicate person collapsed into N-65 (Benjamin Netanyahu)."
+    },
+    "legacy-N-187": {
+      "survives_as": "N-176",
+      "canonical_name": "Mike Mitchell",
+      "reason": "Duplicate person collapsed into N-176 (Mike Mitchell)."
+    },
+    "legacy-N-188": {
+      "survives_as": "N-102",
+      "canonical_name": "Kash Patel",
+      "reason": "Duplicate person collapsed into N-102 (Kash Patel)."
+    },
+    "legacy-N-189": {
+      "survives_as": "N-183",
+      "canonical_name": "Shainer Broderick",
+      "reason": "Duplicate person collapsed into N-183 (Shainer Broderick)."
+    },
+    "legacy-N-190": {
+      "survives_as": "N-71",
+      "canonical_name": "George Zinn",
+      "reason": "Duplicate person collapsed into N-71 (George Zinn)."
+    },
+    "legacy-N-201": {
+      "survives_as": "N-102",
+      "canonical_name": "Kash Patel",
+      "reason": "Duplicate person collapsed into N-102 (Kash Patel)."
+    },
+    "legacy-N-210": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-211": {
+      "survives_as": "N-135",
+      "canonical_name": "Alex Clark",
+      "reason": "Duplicate person collapsed into N-135 (Alex Clark)."
+    },
+    "legacy-N-212": {
+      "survives_as": "N-45",
+      "canonical_name": "Rob McCoy",
+      "reason": "Duplicate person collapsed into N-45 (Rob McCoy)."
+    },
+    "legacy-N-214": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-219": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-222": {
+      "survives_as": "N-91",
+      "canonical_name": "Laura Loomer",
+      "reason": "Duplicate person collapsed into N-91 (Laura Loomer)."
+    },
+    "legacy-N-232": {
+      "survives_as": "N-128",
+      "canonical_name": "Alex Jones",
+      "reason": "Duplicate person collapsed into N-128 (Alex Jones)."
+    },
+    "legacy-N-234": {
+      "survives_as": "N-56",
+      "canonical_name": "Kanye West",
+      "reason": "Duplicate person collapsed into N-56 (Kanye West)."
+    },
+    "legacy-N-236": {
+      "survives_as": "N-91",
+      "canonical_name": "Laura Loomer",
+      "reason": "Duplicate person collapsed into N-91 (Laura Loomer)."
+    },
+    "legacy-N-239": {
+      "survives_as": "N-67",
+      "canonical_name": "Seth Dillon",
+      "reason": "Duplicate person collapsed into N-67 (Seth Dillon)."
+    },
+    "legacy-N-240": {
+      "survives_as": "N-72",
+      "canonical_name": "Michael Savage",
+      "reason": "Duplicate person collapsed into N-72 (Michael Savage)."
+    },
+    "legacy-N-241": {
+      "survives_as": "N-68",
+      "canonical_name": "Dave Smith",
+      "reason": "Duplicate person collapsed into N-68 (Dave Smith)."
+    },
+    "legacy-N-246": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-252": {
+      "survives_as": "N-228",
+      "canonical_name": "Matt Walsh",
+      "reason": "Duplicate person collapsed into N-228 (Matt Walsh)."
+    },
+    "legacy-N-253": {
+      "survives_as": "N-76",
+      "canonical_name": "Ghislaine Maxwell",
+      "reason": "Duplicate person collapsed into N-76 (Ghislaine Maxwell)."
+    },
+    "legacy-N-257": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-258": {
+      "survives_as": "N-181",
+      "canonical_name": "Ian Carol",
+      "reason": "Duplicate person collapsed into N-181 (Ian Carol)."
+    },
+    "legacy-N-265": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-268": {
+      "survives_as": "N-56",
+      "canonical_name": "Kanye West",
+      "reason": "Duplicate person collapsed into N-56 (Kanye West)."
+    },
+    "legacy-N-270": {
+      "survives_as": "N-266",
+      "canonical_name": "Scott Adams",
+      "reason": "Duplicate person collapsed into N-266 (Scott Adams)."
+    },
+    "legacy-N-271": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-274": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-275": {
+      "survives_as": "N-45",
+      "canonical_name": "Rob McCoy",
+      "reason": "Duplicate person collapsed into N-45 (Rob McCoy)."
+    },
+    "legacy-N-276": {
+      "survives_as": "N-117",
+      "canonical_name": "Brigitte Macron",
+      "reason": "Duplicate person collapsed into N-117 (Brigitte Macron)."
+    },
+    "legacy-N-280": {
+      "survives_as": "N-217",
+      "canonical_name": "John Mappin",
+      "reason": "Duplicate person collapsed into N-217 (John Mappin)."
+    },
+    "legacy-N-282": {
+      "survives_as": "N-249",
+      "canonical_name": "Deidra Weiss Amaro",
+      "reason": "Duplicate person collapsed into N-249 (Deidra Weiss Amaro)."
+    },
+    "legacy-N-286": {
+      "survives_as": "N-45",
+      "canonical_name": "Rob McCoy",
+      "reason": "Duplicate person collapsed into N-45 (Rob McCoy)."
+    },
+    "legacy-N-287": {
+      "survives_as": "N-75",
+      "canonical_name": "Megyn Kelly",
+      "reason": "Duplicate person collapsed into N-75 (Megyn Kelly)."
+    },
+    "legacy-N-289": {
+      "survives_as": "N-102",
+      "canonical_name": "Kash Patel",
+      "reason": "Duplicate person collapsed into N-102 (Kash Patel)."
+    },
+    "legacy-N-290": {
+      "survives_as": "N-129",
+      "canonical_name": "Derek Maxfield",
+      "reason": "Duplicate person collapsed into N-129 (Derek Maxfield)."
+    },
+    "legacy-N-292": {
+      "survives_as": "N-50",
+      "canonical_name": "Tucker Carlson",
+      "reason": "Duplicate person collapsed into N-50 (Tucker Carlson)."
+    },
+    "legacy-N-295": {
+      "survives_as": "N-67",
+      "canonical_name": "Seth Dillon",
+      "reason": "Duplicate person collapsed into N-67 (Seth Dillon)."
+    },
+    "legacy-N-296": {
+      "survives_as": "N-68",
+      "canonical_name": "Dave Smith",
+      "reason": "Duplicate person collapsed into N-68 (Dave Smith)."
+    },
+    "legacy-N-299": {
+      "survives_as": "N-4",
+      "canonical_name": "JD Vance",
+      "reason": "Duplicate person collapsed into N-4 (JD Vance)."
+    },
+    "legacy-N-300": {
+      "survives_as": "N-45",
+      "canonical_name": "Rob McCoy",
+      "reason": "Duplicate person collapsed into N-45 (Rob McCoy)."
+    },
+    "legacy-N-301": {
+      "survives_as": "N-272",
+      "canonical_name": "Mikey McCoy",
+      "reason": "Duplicate person collapsed into N-272 (Mikey McCoy)."
+    },
+    "legacy-N-304": {
+      "survives_as": "N-50",
+      "canonical_name": "Tucker Carlson",
+      "reason": "Duplicate person collapsed into N-50 (Tucker Carlson)."
+    },
+    "legacy-N-305": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-306": {
+      "survives_as": "N-97",
+      "canonical_name": "Village Crazy Lady",
+      "reason": "Duplicate person collapsed into N-97 (Village Crazy Lady)."
+    },
+    "legacy-N-307": {
+      "survives_as": "N-65",
+      "canonical_name": "Benjamin Netanyahu",
+      "reason": "Duplicate person collapsed into N-65 (Benjamin Netanyahu)."
+    },
+    "legacy-N-312": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-315": {
+      "survives_as": "N-102",
+      "canonical_name": "Kash Patel",
+      "reason": "Duplicate person collapsed into N-102 (Kash Patel)."
+    },
+    "legacy-N-316": {
+      "survives_as": "N-228",
+      "canonical_name": "Matt Walsh",
+      "reason": "Duplicate person collapsed into N-228 (Matt Walsh)."
+    },
+    "legacy-N-324": {
+      "survives_as": "N-272",
+      "canonical_name": "Mikey McCoy",
+      "reason": "Duplicate person collapsed into N-272 (Mikey McCoy)."
+    },
+    "legacy-N-325": {
+      "survives_as": "N-45",
+      "canonical_name": "Rob McCoy",
+      "reason": "Duplicate person collapsed into N-45 (Rob McCoy)."
+    },
+    "legacy-N-327": {
+      "survives_as": "N-50",
+      "canonical_name": "Tucker Carlson",
+      "reason": "Duplicate person collapsed into N-50 (Tucker Carlson)."
+    },
+    "legacy-N-328": {
+      "survives_as": "N-68",
+      "canonical_name": "Dave Smith",
+      "reason": "Duplicate person collapsed into N-68 (Dave Smith)."
+    },
+    "legacy-N-329": {
+      "survives_as": "N-293",
+      "canonical_name": "Nick Fuentes",
+      "reason": "Duplicate person collapsed into N-293 (Nick Fuentes)."
+    },
+    "legacy-N-332": {
+      "survives_as": "N-259",
+      "canonical_name": "Sam Parker",
+      "reason": "Duplicate person collapsed into N-259 (Sam Parker)."
+    },
+    "legacy-N-333": {
+      "survives_as": "N-71",
+      "canonical_name": "George Zinn",
+      "reason": "Duplicate person collapsed into N-71 (George Zinn)."
+    },
+    "legacy-N-336": {
+      "survives_as": "N-272",
+      "canonical_name": "Mikey McCoy",
+      "reason": "Duplicate person collapsed into N-272 (Mikey McCoy)."
+    },
+    "legacy-N-337": {
+      "survives_as": "N-224",
+      "canonical_name": "Blake Neff",
+      "reason": "Duplicate person collapsed into N-224 (Blake Neff)."
+    },
+    "legacy-N-338": {
+      "survives_as": "N-150",
+      "canonical_name": "Ted Cruz",
+      "reason": "Duplicate person collapsed into N-150 (Ted Cruz)."
+    },
+    "legacy-N-341": {
+      "survives_as": "N-91",
+      "canonical_name": "Laura Loomer",
+      "reason": "Duplicate person collapsed into N-91 (Laura Loomer)."
+    },
+    "legacy-N-343": {
+      "survives_as": "N-87",
+      "canonical_name": "Aaron Wexler",
+      "reason": "Duplicate person collapsed into N-87 (Aaron Wexler)."
+    },
+    "legacy-N-345": {
+      "survives_as": "N-45",
+      "canonical_name": "Rob McCoy",
+      "reason": "Duplicate person collapsed into N-45 (Rob McCoy)."
+    },
+    "legacy-N-348": {
+      "survives_as": "N-313",
+      "canonical_name": "Jesse Watters",
+      "reason": "Duplicate person collapsed into N-313 (Jesse Watters)."
+    },
+    "legacy-N-351": {
+      "survives_as": "N-135",
+      "canonical_name": "Alex Clark",
+      "reason": "Duplicate person collapsed into N-135 (Alex Clark)."
+    },
+    "legacy-N-352": {
+      "survives_as": "N-272",
+      "canonical_name": "Mikey McCoy",
+      "reason": "Duplicate person collapsed into N-272 (Mikey McCoy)."
+    },
+    "legacy-N-354": {
+      "survives_as": "N-235",
+      "canonical_name": "Dinesh D'Souza",
+      "reason": "Duplicate person collapsed into N-235 (Dinesh D'Souza)."
+    },
+    "legacy-N-357": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-361": {
+      "survives_as": "N-340",
+      "canonical_name": "Zohran Mamdani",
+      "reason": "Duplicate person collapsed into N-340 (Zohran Mamdani)."
+    },
+    "legacy-N-368": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-369": {
+      "survives_as": "N-67",
+      "canonical_name": "Seth Dillon",
+      "reason": "Duplicate person collapsed into N-67 (Seth Dillon)."
+    },
+    "legacy-N-372": {
+      "survives_as": "N-349",
+      "canonical_name": "Allie Beth Stuckey",
+      "reason": "Duplicate person collapsed into N-349 (Allie Beth Stuckey)."
+    },
+    "legacy-N-375": {
+      "survives_as": "N-50",
+      "canonical_name": "Tucker Carlson",
+      "reason": "Duplicate person collapsed into N-50 (Tucker Carlson)."
+    },
+    "legacy-N-377": {
+      "survives_as": "N-75",
+      "canonical_name": "Megyn Kelly",
+      "reason": "Duplicate person collapsed into N-75 (Megyn Kelly)."
+    },
+    "legacy-N-378": {
+      "survives_as": "N-133",
+      "canonical_name": "Ben Shapiro",
+      "reason": "Duplicate person collapsed into N-133 (Ben Shapiro)."
+    },
+    "legacy-N-379": {
+      "survives_as": "N-61",
+      "canonical_name": "Dave Rubin",
+      "reason": "Duplicate person collapsed into N-61 (Dave Rubin)."
+    },
+    "legacy-N-380": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-381": {
+      "survives_as": "N-309",
+      "canonical_name": "Jack Hibbs",
+      "reason": "Duplicate person collapsed into N-309 (Jack Hibbs)."
+    },
+    "legacy-N-383": {
+      "survives_as": "N-102",
+      "canonical_name": "Kash Patel",
+      "reason": "Duplicate person collapsed into N-102 (Kash Patel)."
+    },
+    "legacy-N-384": {
+      "survives_as": "N-314",
+      "canonical_name": "Alexis Wilkins",
+      "reason": "Duplicate person collapsed into N-314 (Alexis Wilkins)."
+    },
+    "legacy-N-387": {
+      "survives_as": "N-56",
+      "canonical_name": "Kanye West",
+      "reason": "Duplicate person collapsed into N-56 (Kanye West)."
+    },
+    "legacy-N-388": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-390": {
+      "survives_as": "N-314",
+      "canonical_name": "Alexis Wilkins",
+      "reason": "Duplicate person collapsed into N-314 (Alexis Wilkins)."
+    },
+    "legacy-N-393": {
+      "survives_as": "N-335",
+      "canonical_name": "Brett Cooper",
+      "reason": "Duplicate person collapsed into N-335 (Brett Cooper)."
+    },
+    "legacy-N-403": {
+      "survives_as": "N-382",
+      "canonical_name": "Butch Hibbs",
+      "reason": "Duplicate person collapsed into N-382 (Butch Hibbs)."
+    },
+    "legacy-N-404": {
+      "survives_as": "N-349",
+      "canonical_name": "Allie Beth Stuckey",
+      "reason": "Duplicate person collapsed into N-349 (Allie Beth Stuckey)."
+    },
+    "legacy-N-405": {
+      "survives_as": "N-45",
+      "canonical_name": "Rob McCoy",
+      "reason": "Duplicate person collapsed into N-45 (Rob McCoy)."
+    },
+    "legacy-N-425": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-428": {
+      "survives_as": "N-205",
+      "canonical_name": "Theo Von",
+      "reason": "Duplicate person collapsed into N-205 (Theo Von)."
+    },
+    "legacy-N-433": {
+      "survives_as": "N-424",
+      "canonical_name": "Brian Harpole",
+      "reason": "Duplicate person collapsed into N-424 (Brian Harpole)."
+    },
+    "legacy-N-436": {
+      "survives_as": "N-344",
+      "canonical_name": "Shawn Ryan",
+      "reason": "Duplicate person collapsed into N-344 (Shawn Ryan)."
+    },
+    "legacy-N-438": {
+      "survives_as": "N-102",
+      "canonical_name": "Kash Patel",
+      "reason": "Duplicate person collapsed into N-102 (Kash Patel)."
+    },
+    "legacy-N-452": {
+      "survives_as": "N-88",
+      "canonical_name": "Patrick Bet-David",
+      "reason": "Duplicate person collapsed into N-88 (Patrick Bet-David)."
+    },
+    "legacy-N-469": {
+      "survives_as": "N-272",
+      "canonical_name": "Mikey McCoy",
+      "reason": "Duplicate person collapsed into N-272 (Mikey McCoy)."
+    },
+    "legacy-N-470": {
+      "survives_as": "N-264",
+      "canonical_name": "Stacy Sheridan",
+      "reason": "Duplicate person collapsed into N-264 (Stacy Sheridan)."
+    },
+    "legacy-N-473": {
+      "survives_as": "N-326",
+      "canonical_name": "Eliza McCoy",
+      "reason": "Duplicate person collapsed into N-326 (Eliza McCoy)."
+    },
+    "legacy-N-478": {
+      "survives_as": "N-224",
+      "canonical_name": "Blake Neff",
+      "reason": "Duplicate person collapsed into N-224 (Blake Neff)."
+    },
+    "legacy-N-482": {
+      "survives_as": "N-479",
+      "canonical_name": "Cam Higby",
+      "reason": "Duplicate person collapsed into N-479 (Cam Higby)."
+    },
+    "legacy-N-486": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-487": {
+      "survives_as": "N-224",
+      "canonical_name": "Blake Neff",
+      "reason": "Duplicate person collapsed into N-224 (Blake Neff)."
+    },
+    "legacy-N-488": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-489": {
+      "survives_as": "N-481",
+      "canonical_name": "The Game",
+      "reason": "Duplicate person collapsed into N-481 (The Game)."
+    },
+    "legacy-N-497": {
+      "survives_as": "N-102",
+      "canonical_name": "Kash Patel",
+      "reason": "Duplicate person collapsed into N-102 (Kash Patel)."
+    },
+    "legacy-N-498": {
+      "survives_as": "N-75",
+      "canonical_name": "Megyn Kelly",
+      "reason": "Duplicate person collapsed into N-75 (Megyn Kelly)."
+    },
+    "legacy-N-507": {
+      "survives_as": "N-434",
+      "canonical_name": "Dan Flood",
+      "reason": "Duplicate person collapsed into N-434 (Dan Flood)."
+    },
+    "legacy-N-510": {
+      "survives_as": "N-217",
+      "canonical_name": "John Mappin",
+      "reason": "Duplicate person collapsed into N-217 (John Mappin)."
+    },
+    "legacy-N-511": {
+      "survives_as": "N-444",
+      "canonical_name": "Bari Weiss",
+      "reason": "Duplicate person collapsed into N-444 (Bari Weiss)."
+    },
+    "legacy-N-514": {
+      "survives_as": "N-97",
+      "canonical_name": "Village Crazy Lady",
+      "reason": "Duplicate person collapsed into N-97 (Village Crazy Lady)."
+    },
+    "legacy-N-515": {
+      "survives_as": "N-267",
+      "canonical_name": "Ryan Matta",
+      "reason": "Duplicate person collapsed into N-267 (Ryan Matta)."
+    },
+    "legacy-N-517": {
+      "survives_as": "N-424",
+      "canonical_name": "Brian Harpole",
+      "reason": "Duplicate person collapsed into N-424 (Brian Harpole)."
+    },
+    "legacy-N-519": {
+      "survives_as": "N-224",
+      "canonical_name": "Blake Neff",
+      "reason": "Duplicate person collapsed into N-224 (Blake Neff)."
+    },
+    "legacy-N-520": {
+      "survives_as": "N-426",
+      "canonical_name": "Tim Pool",
+      "reason": "Duplicate person collapsed into N-426 (Tim Pool)."
+    },
+    "legacy-N-521": {
+      "survives_as": "N-500",
+      "canonical_name": "Arcadi Gaydamak",
+      "reason": "Duplicate person collapsed into N-500 (Arcadi Gaydamak)."
+    },
+    "legacy-N-528": {
+      "survives_as": "N-518",
+      "canonical_name": "Captain Adam Nef",
+      "reason": "Duplicate person collapsed into N-518 (Captain Adam Nef)."
+    },
+    "legacy-N-529": {
+      "survives_as": "N-444",
+      "canonical_name": "Bari Weiss",
+      "reason": "Duplicate person collapsed into N-444 (Bari Weiss)."
+    },
+    "legacy-N-530": {
+      "survives_as": "N-364",
+      "canonical_name": "Glenn Beck",
+      "reason": "Duplicate person collapsed into N-364 (Glenn Beck)."
+    },
+    "legacy-N-532": {
+      "survives_as": "N-349",
+      "canonical_name": "Allie Beth Stuckey",
+      "reason": "Duplicate person collapsed into N-349 (Allie Beth Stuckey)."
+    },
+    "legacy-N-533": {
+      "survives_as": "N-135",
+      "canonical_name": "Alex Clark",
+      "reason": "Duplicate person collapsed into N-135 (Alex Clark)."
+    },
+    "legacy-N-534": {
+      "survives_as": "N-350",
+      "canonical_name": "Lila Rose",
+      "reason": "Duplicate person collapsed into N-350 (Lila Rose)."
+    },
+    "legacy-N-535": {
+      "survives_as": "N-133",
+      "canonical_name": "Ben Shapiro",
+      "reason": "Duplicate person collapsed into N-133 (Ben Shapiro)."
+    },
+    "legacy-N-539": {
+      "survives_as": "N-2",
+      "canonical_name": "Erika Kirk",
+      "reason": "Duplicate person collapsed into N-2 (Erika Kirk)."
+    },
+    "legacy-N-540": {
+      "survives_as": "N-43",
+      "canonical_name": "Justin Strife",
+      "reason": "Duplicate person collapsed into N-43 (Justin Strife)."
+    },
+    "legacy-N-541": {
+      "survives_as": "N-272",
+      "canonical_name": "Mikey McCoy",
+      "reason": "Duplicate person collapsed into N-272 (Mikey McCoy)."
+    },
+    "legacy-N-542": {
+      "survives_as": "N-326",
+      "canonical_name": "Eliza McCoy",
+      "reason": "Duplicate person collapsed into N-326 (Eliza McCoy)."
+    },
+    "legacy-N-543": {
+      "survives_as": "N-45",
+      "canonical_name": "Rob McCoy",
+      "reason": "Duplicate person collapsed into N-45 (Rob McCoy)."
+    },
+    "legacy-N-544": {
+      "survives_as": "N-224",
+      "canonical_name": "Blake Neff",
+      "reason": "Duplicate person collapsed into N-224 (Blake Neff)."
+    },
+    "legacy-N-545": {
+      "survives_as": "N-426",
+      "canonical_name": "Tim Pool",
+      "reason": "Duplicate person collapsed into N-426 (Tim Pool)."
+    },
+    "legacy-N-546": {
+      "survives_as": "N-75",
+      "canonical_name": "Megyn Kelly",
+      "reason": "Duplicate person collapsed into N-75 (Megyn Kelly)."
+    },
+    "legacy-N-548": {
+      "survives_as": "N-71",
+      "canonical_name": "George Zinn",
+      "reason": "Duplicate person collapsed into N-71 (George Zinn)."
+    },
+    "legacy-N-549": {
+      "survives_as": "N-102",
+      "canonical_name": "Kash Patel",
+      "reason": "Duplicate person collapsed into N-102 (Kash Patel)."
+    },
+    "legacy-N-551": {
+      "survives_as": "N-310",
+      "canonical_name": "Joe Kent",
+      "reason": "Duplicate person collapsed into N-310 (Joe Kent)."
+    },
+    "legacy-N-553": {
+      "survives_as": "N-67",
+      "canonical_name": "Seth Dillon",
+      "reason": "Duplicate person collapsed into N-67 (Seth Dillon)."
+    },
+    "legacy-N-554": {
+      "survives_as": "N-65",
+      "canonical_name": "Benjamin Netanyahu",
+      "reason": "Duplicate person collapsed into N-65 (Benjamin Netanyahu)."
+    },
+    "legacy-N-557": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-591": {
+      "survives_as": "N-281",
+      "canonical_name": "Lee Trotter",
+      "reason": "Duplicate person collapsed into N-281 (Lee Trotter)."
+    },
+    "legacy-N-592": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-593": {
+      "survives_as": "N-552",
+      "canonical_name": "Baron Coleman",
+      "reason": "Duplicate person collapsed into N-552 (Baron Coleman)."
+    },
+    "legacy-N-594": {
+      "survives_as": "N-424",
+      "canonical_name": "Brian Harpole",
+      "reason": "Duplicate person collapsed into N-424 (Brian Harpole)."
+    },
+    "legacy-N-600": {
+      "survives_as": "N-518",
+      "canonical_name": "Captain Adam Nef",
+      "reason": "Duplicate person collapsed into N-518 (Captain Adam Nef)."
+    },
+    "legacy-N-601": {
+      "survives_as": "N-133",
+      "canonical_name": "Ben Shapiro",
+      "reason": "Duplicate person collapsed into N-133 (Ben Shapiro)."
+    },
+    "legacy-N-602": {
+      "survives_as": "N-50",
+      "canonical_name": "Tucker Carlson",
+      "reason": "Duplicate person collapsed into N-50 (Tucker Carlson)."
+    },
+    "legacy-N-603": {
+      "survives_as": "N-599",
+      "canonical_name": "Mark Amodei",
+      "reason": "Duplicate person collapsed into N-599 (Mark Amodei)."
+    },
+    "legacy-N-604": {
+      "survives_as": "N-424",
+      "canonical_name": "Brian Harpole",
+      "reason": "Duplicate person collapsed into N-424 (Brian Harpole)."
+    },
+    "legacy-N-608": {
+      "survives_as": "N-597",
+      "canonical_name": "Mitch Snow",
+      "reason": "Duplicate person collapsed into N-597 (Mitch Snow)."
+    },
+    "legacy-N-609": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-610": {
+      "survives_as": "N-443",
+      "canonical_name": "Tim Dillon",
+      "reason": "Duplicate person collapsed into N-443 (Tim Dillon)."
+    },
+    "legacy-N-613": {
+      "survives_as": "N-444",
+      "canonical_name": "Bari Weiss",
+      "reason": "Duplicate person collapsed into N-444 (Bari Weiss)."
+    },
+    "legacy-N-615": {
+      "survives_as": "N-128",
+      "canonical_name": "Alex Jones",
+      "reason": "Duplicate person collapsed into N-128 (Alex Jones)."
+    },
+    "legacy-N-616": {
+      "survives_as": "N-597",
+      "canonical_name": "Mitch Snow",
+      "reason": "Duplicate person collapsed into N-597 (Mitch Snow)."
+    },
+    "legacy-N-620": {
+      "survives_as": "N-424",
+      "canonical_name": "Brian Harpole",
+      "reason": "Duplicate person collapsed into N-424 (Brian Harpole)."
+    },
+    "legacy-N-650": {
+      "survives_as": "N-75",
+      "canonical_name": "Megyn Kelly",
+      "reason": "Duplicate person collapsed into N-75 (Megyn Kelly)."
+    },
+    "legacy-N-651": {
+      "survives_as": "N-424",
+      "canonical_name": "Brian Harpole",
+      "reason": "Duplicate person collapsed into N-424 (Brian Harpole)."
+    },
+    "legacy-N-695": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-698": {
+      "survives_as": "N-654",
+      "canonical_name": "Sun Myung Moon",
+      "reason": "Duplicate person collapsed into N-654 (Sun Myung Moon)."
+    },
+    "legacy-N-714": {
+      "survives_as": "N-266",
+      "canonical_name": "Scott Adams",
+      "reason": "Duplicate person collapsed into N-266 (Scott Adams)."
+    },
+    "legacy-N-715": {
+      "survives_as": "N-50",
+      "canonical_name": "Tucker Carlson",
+      "reason": "Duplicate person collapsed into N-50 (Tucker Carlson)."
+    },
+    "legacy-N-718": {
+      "survives_as": "N-483",
+      "canonical_name": "Wed Mahmoud",
+      "reason": "Duplicate person collapsed into N-483 (Wed Mahmoud)."
+    },
+    "legacy-N-732": {
+      "survives_as": "N-293",
+      "canonical_name": "Nick Fuentes",
+      "reason": "Duplicate person collapsed into N-293 (Nick Fuentes)."
+    },
+    "legacy-N-740": {
+      "survives_as": "N-334",
+      "canonical_name": "Milo Yiannopoulos",
+      "reason": "Duplicate person collapsed into N-334 (Milo Yiannopoulos)."
+    },
+    "legacy-N-743": {
+      "survives_as": "N-204",
+      "canonical_name": "Marjorie Taylor Greene",
+      "reason": "Duplicate person collapsed into N-204 (Marjorie Taylor Greene)."
+    },
+    "legacy-N-745": {
+      "survives_as": "N-552",
+      "canonical_name": "Baron Coleman",
+      "reason": "Duplicate person collapsed into N-552 (Baron Coleman)."
+    },
+    "legacy-N-746": {
+      "survives_as": "N-413",
+      "canonical_name": "Mommy Sleuth (Nellie)",
+      "reason": "Duplicate person collapsed into N-413 (Mommy Sleuth (Nellie))."
+    },
+    "legacy-N-747": {
+      "survives_as": "N-434",
+      "canonical_name": "Dan Flood",
+      "reason": "Duplicate person collapsed into N-434 (Dan Flood)."
+    },
+    "legacy-N-749": {
+      "survives_as": "N-424",
+      "canonical_name": "Brian Harpole",
+      "reason": "Duplicate person collapsed into N-424 (Brian Harpole)."
+    },
+    "legacy-N-751": {
+      "survives_as": "N-556",
+      "canonical_name": "Greg Schaefer",
+      "reason": "Duplicate person collapsed into N-556 (Greg Schaefer)."
+    },
+    "legacy-N-752": {
+      "survives_as": "N-724",
+      "canonical_name": "Bill Montgomery",
+      "reason": "Duplicate person collapsed into N-724 (Bill Montgomery)."
+    },
+    "legacy-N-754": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-755": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-756": {
+      "survives_as": "N-730",
+      "canonical_name": "Nelda Buckman",
+      "reason": "Duplicate person collapsed into N-730 (Nelda Buckman)."
+    },
+    "legacy-N-757": {
+      "survives_as": "N-731",
+      "canonical_name": "Karl Buckman",
+      "reason": "Duplicate person collapsed into N-731 (Karl Buckman)."
+    },
+    "legacy-N-758": {
+      "survives_as": "N-45",
+      "canonical_name": "Rob McCoy",
+      "reason": "Duplicate person collapsed into N-45 (Rob McCoy)."
+    },
+    "legacy-N-762": {
+      "survives_as": "N-552",
+      "canonical_name": "Baron Coleman",
+      "reason": "Duplicate person collapsed into N-552 (Baron Coleman)."
+    },
+    "legacy-N-763": {
+      "survives_as": "N-61",
+      "canonical_name": "Dave Rubin",
+      "reason": "Duplicate person collapsed into N-61 (Dave Rubin)."
+    },
+    "legacy-N-768": {
+      "survives_as": "N-43",
+      "canonical_name": "Justin Strife",
+      "reason": "Duplicate person collapsed into N-43 (Justin Strife)."
+    },
+    "legacy-N-769": {
+      "survives_as": "N-443",
+      "canonical_name": "Tim Dillon",
+      "reason": "Duplicate person collapsed into N-443 (Tim Dillon)."
+    },
+    "legacy-N-778": {
+      "survives_as": "N-45",
+      "canonical_name": "Rob McCoy",
+      "reason": "Duplicate person collapsed into N-45 (Rob McCoy)."
+    },
+    "legacy-N-779": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-780": {
+      "survives_as": "N-43",
+      "canonical_name": "Justin Strife",
+      "reason": "Duplicate person collapsed into N-43 (Justin Strife)."
+    },
+    "legacy-N-781": {
+      "survives_as": "N-264",
+      "canonical_name": "Stacy Sheridan",
+      "reason": "Duplicate person collapsed into N-264 (Stacy Sheridan)."
+    },
+    "legacy-N-784": {
+      "survives_as": "N-639",
+      "canonical_name": "Larry Guinta",
+      "reason": "Duplicate person collapsed into N-639 (Larry Guinta)."
+    },
+    "legacy-N-788": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-791": {
+      "survives_as": "N-724",
+      "canonical_name": "Bill Montgomery",
+      "reason": "Duplicate person collapsed into N-724 (Bill Montgomery)."
+    },
+    "legacy-N-794": {
+      "survives_as": "N-607",
+      "canonical_name": "Jeremy Boreing",
+      "reason": "Duplicate person collapsed into N-607 (Jeremy Boreing)."
+    },
+    "legacy-N-795": {
+      "survives_as": "N-264",
+      "canonical_name": "Stacy Sheridan",
+      "reason": "Duplicate person collapsed into N-264 (Stacy Sheridan)."
+    },
+    "legacy-N-803": {
+      "survives_as": "N-45",
+      "canonical_name": "Rob McCoy",
+      "reason": "Duplicate person collapsed into N-45 (Rob McCoy)."
+    },
+    "legacy-N-805": {
+      "survives_as": "N-298",
+      "canonical_name": "Piers Morgan",
+      "reason": "Duplicate person collapsed into N-298 (Piers Morgan)."
+    },
+    "legacy-N-819": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-820": {
+      "survives_as": "N-264",
+      "canonical_name": "Stacy Sheridan",
+      "reason": "Duplicate person collapsed into N-264 (Stacy Sheridan)."
+    },
+    "legacy-N-824": {
+      "survives_as": "N-120",
+      "canonical_name": "Pam Bondi",
+      "reason": "Duplicate person collapsed into N-120 (Pam Bondi)."
+    },
+    "legacy-N-827": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-829": {
+      "survives_as": "N-80",
+      "canonical_name": "Sigmund Freud",
+      "reason": "Duplicate person collapsed into N-80 (Sigmund Freud)."
+    },
+    "legacy-N-834": {
+      "survives_as": "N-35",
+      "canonical_name": "Jeffrey Epstein",
+      "reason": "Duplicate person collapsed into N-35 (Jeffrey Epstein)."
+    },
+    "legacy-N-836": {
+      "survives_as": "N-4",
+      "canonical_name": "JD Vance",
+      "reason": "Duplicate person collapsed into N-4 (JD Vance)."
+    },
+    "legacy-N-837": {
+      "survives_as": "N-133",
+      "canonical_name": "Ben Shapiro",
+      "reason": "Duplicate person collapsed into N-133 (Ben Shapiro)."
+    },
+    "legacy-N-838": {
+      "survives_as": "N-444",
+      "canonical_name": "Bari Weiss",
+      "reason": "Duplicate person collapsed into N-444 (Bari Weiss)."
+    },
+    "legacy-N-842": {
+      "survives_as": "N-50",
+      "canonical_name": "Tucker Carlson",
+      "reason": "Duplicate person collapsed into N-50 (Tucker Carlson)."
+    },
+    "legacy-N-844": {
+      "survives_as": "N-260",
+      "canonical_name": "James Lee",
+      "reason": "Duplicate person collapsed into N-260 (James Lee)."
+    },
+    "legacy-N-846": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-847": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-848": {
+      "survives_as": "N-434",
+      "canonical_name": "Dan Flood",
+      "reason": "Duplicate person collapsed into N-434 (Dan Flood)."
+    },
+    "legacy-N-849": {
+      "survives_as": "N-134",
+      "canonical_name": "Bob Shulman",
+      "reason": "Duplicate person collapsed into N-134 (Bob Shulman)."
+    },
+    "legacy-N-852": {
+      "survives_as": "N-76",
+      "canonical_name": "Ghislaine Maxwell",
+      "reason": "Duplicate person collapsed into N-76 (Ghislaine Maxwell)."
+    },
+    "legacy-N-859": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-860": {
+      "survives_as": "N-272",
+      "canonical_name": "Mikey McCoy",
+      "reason": "Duplicate person collapsed into N-272 (Mikey McCoy)."
+    },
+    "legacy-N-862": {
+      "survives_as": "N-374",
+      "canonical_name": "Mark Levin",
+      "reason": "Duplicate person collapsed into N-374 (Mark Levin)."
+    },
+    "legacy-N-874": {
+      "survives_as": "N-77",
+      "canonical_name": "Robert Maxwell",
+      "reason": "Duplicate person collapsed into N-77 (Robert Maxwell)."
+    },
+    "legacy-N-878": {
+      "survives_as": "N-783",
+      "canonical_name": "Lori Frantzve",
+      "reason": "Duplicate person collapsed into N-783 (Lori Frantzve)."
+    },
+    "legacy-N-879": {
+      "survives_as": "N-272",
+      "canonical_name": "Mikey McCoy",
+      "reason": "Duplicate person collapsed into N-272 (Mikey McCoy)."
+    },
+    "legacy-N-880": {
+      "survives_as": "N-43",
+      "canonical_name": "Justin Strife",
+      "reason": "Duplicate person collapsed into N-43 (Justin Strife)."
+    },
+    "legacy-N-881": {
+      "survives_as": "N-133",
+      "canonical_name": "Ben Shapiro",
+      "reason": "Duplicate person collapsed into N-133 (Ben Shapiro)."
+    },
+    "legacy-N-887": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-891": {
+      "survives_as": "N-885",
+      "canonical_name": "Robkea",
+      "reason": "Duplicate person collapsed into N-885 (Robkea)."
+    },
+    "legacy-N-895": {
+      "survives_as": "N-783",
+      "canonical_name": "Lori Frantzve",
+      "reason": "Duplicate person collapsed into N-783 (Lori Frantzve)."
+    },
+    "legacy-N-896": {
+      "survives_as": "N-35",
+      "canonical_name": "Jeffrey Epstein",
+      "reason": "Duplicate person collapsed into N-35 (Jeffrey Epstein)."
+    },
+    "legacy-N-899": {
+      "survives_as": "N-80",
+      "canonical_name": "Sigmund Freud",
+      "reason": "Duplicate person collapsed into N-80 (Sigmund Freud)."
+    },
+    "legacy-N-900": {
+      "survives_as": "N-45",
+      "canonical_name": "Rob McCoy",
+      "reason": "Duplicate person collapsed into N-45 (Rob McCoy)."
+    },
+    "legacy-N-904": {
+      "survives_as": "N-789",
+      "canonical_name": "Marina (TPUSA CMO)",
+      "reason": "Duplicate person collapsed into N-789 (Marina (TPUSA CMO))."
+    },
+    "legacy-N-905": {
+      "survives_as": "N-443",
+      "canonical_name": "Tim Dillon",
+      "reason": "Duplicate person collapsed into N-443 (Tim Dillon)."
+    },
+    "legacy-N-906": {
+      "survives_as": "N-890",
+      "canonical_name": "Tracy Martin",
+      "reason": "Duplicate person collapsed into N-890 (Tracy Martin)."
+    },
+    "legacy-N-914": {
+      "survives_as": "N-75",
+      "canonical_name": "Megyn Kelly",
+      "reason": "Duplicate person collapsed into N-75 (Megyn Kelly)."
+    },
+    "legacy-N-915": {
+      "survives_as": "N-298",
+      "canonical_name": "Piers Morgan",
+      "reason": "Duplicate person collapsed into N-298 (Piers Morgan)."
+    },
+    "legacy-N-918": {
+      "survives_as": "N-903",
+      "canonical_name": "Aubrey Lech",
+      "reason": "Duplicate person collapsed into N-903 (Aubrey Lech)."
+    },
+    "legacy-N-921": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-922": {
+      "survives_as": "N-364",
+      "canonical_name": "Glenn Beck",
+      "reason": "Duplicate person collapsed into N-364 (Glenn Beck)."
+    },
+    "legacy-N-923": {
+      "survives_as": "N-65",
+      "canonical_name": "Benjamin Netanyahu",
+      "reason": "Duplicate person collapsed into N-65 (Benjamin Netanyahu)."
+    },
+    "legacy-N-926": {
+      "survives_as": "N-281",
+      "canonical_name": "Lee Trotter",
+      "reason": "Duplicate person collapsed into N-281 (Lee Trotter)."
+    },
+    "legacy-N-933": {
+      "survives_as": "N-789",
+      "canonical_name": "Marina (TPUSA CMO)",
+      "reason": "Duplicate person collapsed into N-789 (Marina (TPUSA CMO))."
+    },
+    "legacy-N-934": {
+      "survives_as": "N-91",
+      "canonical_name": "Laura Loomer",
+      "reason": "Duplicate person collapsed into N-91 (Laura Loomer)."
+    },
+    "legacy-N-935": {
+      "survives_as": "N-909",
+      "canonical_name": "Carrie Prejean Bowler",
+      "reason": "Duplicate person collapsed into N-909 (Carrie Prejean Bowler)."
+    },
+    "legacy-N-937": {
+      "survives_as": "N-313",
+      "canonical_name": "Jesse Watters",
+      "reason": "Duplicate person collapsed into N-313 (Jesse Watters)."
+    },
+    "legacy-N-938": {
+      "survives_as": "N-364",
+      "canonical_name": "Glenn Beck",
+      "reason": "Duplicate person collapsed into N-364 (Glenn Beck)."
+    },
+    "legacy-N-944": {
+      "survives_as": "N-272",
+      "canonical_name": "Mikey McCoy",
+      "reason": "Duplicate person collapsed into N-272 (Mikey McCoy)."
+    },
+    "legacy-N-945": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-947": {
+      "survives_as": "N-120",
+      "canonical_name": "Pam Bondi",
+      "reason": "Duplicate person collapsed into N-120 (Pam Bondi)."
+    },
+    "legacy-N-950": {
+      "survives_as": "N-35",
+      "canonical_name": "Jeffrey Epstein",
+      "reason": "Duplicate person collapsed into N-35 (Jeffrey Epstein)."
+    },
+    "legacy-N-955": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-956": {
+      "survives_as": "N-272",
+      "canonical_name": "Mikey McCoy",
+      "reason": "Duplicate person collapsed into N-272 (Mikey McCoy)."
+    },
+    "legacy-N-957": {
+      "survives_as": "N-224",
+      "canonical_name": "Blake Neff",
+      "reason": "Duplicate person collapsed into N-224 (Blake Neff)."
+    },
+    "legacy-N-958": {
+      "survives_as": "N-16",
+      "canonical_name": "Frank Turek",
+      "reason": "Duplicate person collapsed into N-16 (Frank Turek)."
+    },
+    "legacy-N-959": {
+      "survives_as": "N-42",
+      "canonical_name": "Andrew Kolvet",
+      "reason": "Duplicate person collapsed into N-42 (Andrew Kolvet)."
+    },
+    "legacy-N-978": {
+      "survives_as": "N-439",
+      "canonical_name": "Mike Huckabee",
+      "reason": "Duplicate person collapsed into N-439 (Mike Huckabee)."
+    },
+    "legacy-N-979": {
+      "survives_as": "N-254",
+      "canonical_name": "Jared Kushner",
+      "reason": "Duplicate person collapsed into N-254 (Jared Kushner)."
+    },
+    "legacy-N-981": {
+      "survives_as": "N-951",
+      "canonical_name": "Faith Kates",
+      "reason": "Duplicate person collapsed into N-951 (Faith Kates)."
+    },
+    "legacy-N-985": {
+      "survives_as": "N-65",
+      "canonical_name": "Benjamin Netanyahu",
+      "reason": "Duplicate person collapsed into N-65 (Benjamin Netanyahu)."
+    },
+    "legacy-N-988": {
+      "survives_as": "N-133",
+      "canonical_name": "Ben Shapiro",
+      "reason": "Duplicate person collapsed into N-133 (Ben Shapiro)."
+    },
+    "legacy-N-991": {
+      "survives_as": "N-334",
+      "canonical_name": "Milo Yiannopoulos",
+      "reason": "Duplicate person collapsed into N-334 (Milo Yiannopoulos)."
+    },
+    "legacy-N-992": {
+      "survives_as": "N-224",
+      "canonical_name": "Blake Neff",
+      "reason": "Duplicate person collapsed into N-224 (Blake Neff)."
+    },
+    "legacy-N-995": {
+      "survives_as": "N-50",
+      "canonical_name": "Tucker Carlson",
+      "reason": "Duplicate person collapsed into N-50 (Tucker Carlson)."
+    },
+    "legacy-N-997": {
+      "survives_as": "N-898",
+      "canonical_name": "Emmanuel Macron",
+      "reason": "Duplicate person collapsed into N-898 (Emmanuel Macron)."
+    },
+    "legacy-N-999": {
+      "survives_as": "N-339",
+      "canonical_name": "Randy Fine",
+      "reason": "Duplicate person collapsed into N-339 (Randy Fine)."
     }
   }
 }

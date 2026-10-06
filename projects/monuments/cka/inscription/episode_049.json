@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 49,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -119,7 +119,7 @@
           ],
           "related_nodes": [
             "N-597",
-            "N-600",
+            "N-518",
             "N-1438"
           ],
           "tags": [],
@@ -246,7 +246,7 @@
       "@type": "Person",
       "@id": "N-597",
       "ref": "N-597",
-      "name": "\"Mitch\" (Eyewitness, Pseudonym)",
+      "name": "Mitch Snow",
       "type": "person",
       "description": "Pseudonymized eyewitness who claims to have visited Fort Huachuca on September 8–9, 2025 and identified multiple individuals by resemblance. Claims 35-year gag order related to 1990 JTF6 drug tunnel discovery. Has provided metadata-verified video and military ID cards to host.",
       "related_artifacts": [
@@ -318,9 +318,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-600",
-      "ref": "N-600",
-      "name": "Captain Neff",
+      "@id": "N-518",
+      "ref": "N-518",
+      "name": "Captain Adam Nef",
       "type": "person",
       "description": "U.S. Army captain named by witness \"Mitch\" as the officer who escorted him out of the JTF building and sat with him on a park bench at Fort Huachuca on September 9, 2025.",
       "related_artifacts": [
@@ -344,7 +344,7 @@
       "ref": "N-1438",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
       "type": "investigation_target",
-      "description": "Persistent investigation target: claimed physical encounter by \"Mitch\" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erica Kirk), Brian Harpole (see N-1438 related), and Captain Neff (N-600).",
+      "description": "Persistent investigation target: claimed physical encounter by \"Mitch\" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erica Kirk), Brian Harpole (see N-1438 related), and Captain Neff (N-518).",
       "related_artifacts": [
         "A-1558.1",
         "A-1558.3",
@@ -368,7 +368,7 @@
         "N-2",
         "N-597",
         "N-599",
-        "N-600"
+        "N-518"
       ]
     },
     {
@@ -515,7 +515,7 @@
       ],
       "related_nodes": [
         "N-597",
-        "N-600",
+        "N-518",
         "N-1438"
       ],
       "tags": [],
@@ -641,7 +641,7 @@
       ],
       "related_nodes": [
         "N-597",
-        "N-600",
+        "N-518",
         "N-1438"
       ],
       "tags": [],

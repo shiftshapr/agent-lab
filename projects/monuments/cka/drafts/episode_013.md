@@ -33,7 +33,7 @@
 ### Episode X Ledger Summary
 - Artifact Families Introduced: A-1196, A-1197, A-1198, A-1199, A-1200, A-1201, A-1202, A-1203, A-1204, A-1205, A-1206, A-1207, A-1208
 - Claim Range: C-1337–C-1353
-  - New Nodes Introduced: N-189, N-190, N-191, N-192, N-193, N-194, N-195, N-196, N-197, N-198, N-199, N-200, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223
+  - New Nodes Introduced:  N-191, N-192, N-193, N-194, N-195, N-196, N-197, N-198, N-199, N-200, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223
   - Reused Nodes Appearing: 
 
 Third, a Phil Lyman campaign endorsement by George Zinn is documented via Wayback Machine dating back to at least June 6, 2024; this is presented to address earlier speculation rather than to advance new claims.
@@ -56,7 +56,7 @@ Video Timestamp: 00:10:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (artifact clearly stated, video played)
 
-*Related: C-1337, C-1340, N-69, N-189, N-200, N-1218*
+*Related: C-1337, C-1340, N-69, N-183, N-200, N-1218*
 
 ---
 
@@ -70,7 +70,7 @@ Video Timestamp: 00:03:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1338, N-69, N-190, N-1223*
+*Related: C-1338, N-69, N-71, N-1223*
 
 **A-1197.2** Wayback Machine capture confirming the Zinn endorsement text has been present at least since 2024-06-06
 
@@ -80,7 +80,7 @@ Video Timestamp: 00:03:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1338, N-69, N-190*
+*Related: C-1338, N-69, N-71*
 
 ---
 
@@ -282,7 +282,7 @@ Confidence Level: Low (comment-supplied)
 
 ### People
 
-**N-189** Shainer Broadick
+**N-183** Shainer Broderick
 Family member of Phil Lyman who recorded footage at the Lyman property reviewing the shooter's route, deleted his social media after contact, and is named by host as the source of the camera footage clip played on air.
 
 Evidence Count: 1
@@ -294,7 +294,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-190** George Zinn
+**N-71** George Zinn
 Local figure who appears as one of ~20 featured endorsements on Phil Lyman's campaign website; the endorsement has been publicly accessible since at least 2024-06-06 per Wayback.
 
 Evidence Count: 2
@@ -422,7 +422,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High (cooperative witness)
 
-*Related: A-1196.1, C-1340, N-189, N-69, N-1218*
+*Related: A-1196.1, C-1340, N-183, N-69, N-1218*
 
 ---
 
@@ -436,7 +436,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1196.1, A-1207.1, C-1337, C-1340, N-200, N-189*
+*Related: A-1196.1, A-1207.1, C-1337, C-1340, N-200, N-183*
 
 ---
 
@@ -448,7 +448,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1196.1, N-189 (Shainer Broadick context)*
+*Related: A-1196.1, N-183 (Shainer Broadick context)*
 
 ---
 
@@ -510,7 +510,7 @@ Claim: The episode presents that a woman was captured alongside the shooter in d
 
 Anchored Artifacts: A-1196.1
 
-Related Nodes: N-1218, N-189, N-200
+Related Nodes: N-1218, N-183, N-200
 
 Investigative Direction: Obtain the underlying doorbell-camera footage independently; cross-check against FBI public statements and the TMZ September 11 release.
 
@@ -524,7 +524,7 @@ Claim: George Zinn was featured as one of approximately twenty endorsers on Phil
 
 Anchored Artifacts: A-1197.1, A-1197.2
 
-Related Nodes: N-69, N-190
+Related Nodes: N-69, N-71
 
 Investigative Direction: Verify current status of the endorsement on the live Lyman campaign site; obtain Wayback snapshots across the full 2024-2025 window.
 
@@ -552,7 +552,7 @@ Claim: In footage recorded by Shainer Broadick, his aunt (identified as a Lyman 
 
 Anchored Artifacts: A-1196.1
 
-Related Nodes: N-189, N-200, N-69, N-1218
+Related Nodes: N-183, N-200, N-69, N-1218
 
 Investigative Direction: Identify and interview the female speaker; obtain the original unwiped file; secure any raw footage she retained.
 
@@ -580,7 +580,7 @@ Claim: Despite public rumors to the contrary, an autopsy of Charlie Kirk was per
 
 Anchored Artifacts: A-1199.4 (host source)
 
-Related Nodes: N-1, N-1221
+Related Nodes: N-1221
 
 Investigative Direction: Verify through official medical examiner channels or court filings.
 

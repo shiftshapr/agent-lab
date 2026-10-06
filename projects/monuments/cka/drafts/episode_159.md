@@ -8,14 +8,14 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–01:09:39
 - **Extraction Timestamp (UTC)**: 2026-10-02T20:45:00Z
-- **Transcript SHA-256**: 5fd6be5a9dae42c57edc3323318587f2482d1bf48746bbbcced3ebc790b9cda5
+- **Transcript SHA-256**: a00b5df7209a7d2176cb96203718b03c467301aebcd1dcedd5b1d5a062ff4588
 - **Model Version**: grok-manual-extract-seq159
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2360, N-2361, N-2362, N-2363, N-2364
-  - Reused Nodes Appearing: N-1, N-2, N-7, N-35, N-50, N-65, N-66, N-69, N-75, N-79, N-102, N-117, N-120, N-134, N-214, N-272, N-299, N-435, N-542, N-696, N-749, N-755, N-796, N-848, N-867, N-898, N-992, N-1098, N-1121, N-1395, N-1459, N-2329, N-2350, N-2351, N-2354, N-2355, N-2357, N-2359
+  - New Nodes Introduced: N-2360, N-2361, N-2362, N-2363, N-2364, N-10007, N-10008, N-10009, N-10010, N-10011, N-10012, N-10013, N-10014, N-10015, N-10016, N-10017, N-10018, N-10019, N-10020, N-10021, N-10022
+  - Reused Nodes Appearing: N-1, N-2, N-35, N-50, N-65, N-66, N-69, N-75, N-5, N-102, N-117, N-120, N-134, N-42, N-272, N-435, N-326, N-696, N-424, N-16, N-796, N-434, N-867, N-898, N-224, N-1098, N-1121, N-1395, N-1459, N-2329, N-2350, N-2351, N-2354, N-2355, N-2357, N-2359, N-10001, N-10004, N-10006
   - (see registers)
-  - Person band: no new Persons minted (ceiling next_person_id=1000). True-new names (Taylor Scornovako, Andrew Wilson, Dylan Ericson, Lane Shonberger, Dennis Foster, Allan Khan, Riley Gaines, Sergio Gore, Brian Cole Jr / Brian J. Cole Jr, Lori Jane Gleha, Mitt Romney, Maggie Haberman, Jonathan Swan, Susie Wiles, Caroline Leavitt, and other situation-room attendees) cited in prose/claims only.
+  - Person band: persons minted in this quality pass use N-10000+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dylan stays N-443 and N-443. Karoline Leavitt stays N-446. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.
 
 # Episode 159 Analysis
 
@@ -50,20 +50,20 @@ Video Timestamp: 00:15:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (document as shown); Medium (payment-total discrepancy interpretation)
 
-*Related: C-3609, N-2361, N-1*
+*Related: C-3609, N-2361, N-10011*
 
 ---
 
 **A-2468** Why Refi July 25 2025 Fall-Tour Addendum Bundle
 
-**A-2468.1** One-page July 25, 2025 addendum for additional ~$1.25M tied to Charlie Kirk fall campus tour benefits (branded wall, presenting sponsorship, ~5 minutes mainstage speaking, video, email)—Lane Shonberger spoke ~5 minutes at UVU pre-show per host.
+**A-2468.1** One-page July 25, 2025 addendum for additional ~$1.25M tied to Charlie Kirk fall campus tour benefits (branded wall, presenting sponsorship, ~5 minutes mainstage speaking, video, email)—Laine Schoneberger spoke ~5 minutes at UVU pre-show per host.
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (document as shown)
 
-*Related: C-3610, N-2361, N-2354, N-2351, N-1*
+*Related: C-3610, N-2361, N-2354, N-2351, N-10007*
 
 ---
 
@@ -82,14 +82,14 @@ Confidence Level: Medium (composite); High for individually sourced bullets as c
 
 **A-2470** NYT Epstein Situation-Room Reporting Bundle
 
-**A-2470.1** Host read of New York Times / Haberman–Swan book reporting on repeated mid-July and August meetings about Epstein files (JD Vance, Susie Wiles, Kash Patel, Pam Bondi, Todd Blanche, and others; Trump often absent; Vance argued for fuller release).
+**A-2470.1** Host read of New York Times / Haberman–Swan book reporting on repeated mid-July and August meetings about Epstein files (JD Vance, Susie Wiles, David Warrington, Todd Blanche, Steven Cheung, Karoline Leavitt, Taylor Budowich, James Blair, Stanley Woodward, Kash Patel, and Pam Bondi; Maggie Haberman and Jonathan Swan reported the meetings; Trump often absent; Vance argued for fuller release).
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:29:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (as attributed to NYT); verify against primary article/book
 
-*Related: C-3612, N-2362, N-1395, N-299, N-102, N-120, N-867, N-79*
+*Related: C-3612, N-2362, N-1395, N-4, N-102, N-120, N-867, N-5, N-10015*
 
 ---
 
@@ -108,14 +108,14 @@ Confidence Level: High (transcript-as-read); Medium (full context beyond excerpt
 
 **A-2472** Scripps Media Dual Bodycam Release Bundle
 
-**A-2472.1** Same Scripps journalists (Lori Jane Gleha / Stephanie framing) airing obscure prior traffic-stop bodycam of Tyler Robinson and, later, Brian Cole Jr.’s 2024 minor crash—host flags pattern and notes Erika’s early daycare in Cincinnati Scripps building.
+**A-2472.1** Same Scripps journalists (Lori Jane Gliha / Stephanie framing) airing obscure prior traffic-stop bodycam of Tyler Robinson and, later, Brian Cole Jr.’s 2024 minor crash—host flags pattern and notes Erika’s early daycare in Cincinnati Scripps building.
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:51:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clips as aired); Low–Medium (daycare/building causal link—host speculation)
 
-*Related: C-3614, N-2364, N-69, N-2*
+*Related: C-3614, N-2364, N-69, N-2, N-10012, N-10013*
 
 ---
 
@@ -128,7 +128,7 @@ Video Timestamp: 01:00:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (comments as read); Medium (Telegram dual-account allegation)
 
-*Related: C-3615, C-3616, N-2360, N-272, N-1121, N-2355*
+*Related: C-3615, C-3616, N-2360, N-272, N-1121, N-2355, N-10006*
 
 ---
 
@@ -158,7 +158,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-7** Candace Owens
+**N-3** Candace Owens
 
 Host; target of smear context continued from Ep 158; Epstein-series author in concurrent timeline.
 
@@ -242,7 +242,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-79** Donald Trump
+**N-5** Donald Trump
 
 Feb Brigitte calls; June Iran decision; July angry call to Charlie over SAS “Epstein grievance fest”; absent from several Epstein situation-room meetings per NYT.
 
@@ -290,7 +290,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-134** Bob Shaman
+**N-134** Bob Shulman
 
 Named among donors pulling millions after SAS/Tucker Epstein remarks (host “Bob Showman” pronunciation).
 
@@ -302,7 +302,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-214** Andrew Kovette
+**N-42** Andrew Kolvet
 
 Chyros partner Johnny Moore link; prior PR path; contrasted with Andrew Wilson as improper leak recipient.
 
@@ -310,7 +310,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3616, N-696*
+*Related: C-3616, N-696, N-10006*
 
 ---
 
@@ -326,7 +326,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-299** J.D. Vance
+**N-4** JD Vance
 
 Described as only in-room advocate for fuller Epstein file release in NYT-reported meetings.
 
@@ -346,11 +346,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-2329, N-848*
+*Related: C-3611, N-2329, N-434*
 
 ---
 
-**N-542** Elizabeth McCoy
+**N-326** Eliza McCoy
 
 Joined Maine vacation; final-footage context.
 
@@ -370,11 +370,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-214*
+*Related: C-3611, N-42*
 
 ---
 
-**N-749** Brian Harpole
+**N-424** Brian Harpole
 
 Aug 24 security-planning claim without UVU inclusion per review.
 
@@ -386,7 +386,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-755** Frank Turk
+**N-16** Frank Turek
 
 Feb 12 Nebraska Lincoln speech; July 11 website deletion note in timeline.
 
@@ -410,7 +410,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-848** Dan Flood
+**N-434** Dan Flood
 
 Sept 3 contact established with Chief Long per independent review timeline recap.
 
@@ -446,7 +446,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-992** Blake Neff
+**N-224** Blake Neff
 
 Closing joke comment; continuity with communicator critique.
 
@@ -530,7 +530,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-2351** July 10 HQ-Driven Courtyard Request (Crofts / Chilikut Chain)
+**N-2351** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
 
 Reused inside expanded concurrent timeline.
 
@@ -538,7 +538,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-2362*
+*Related: C-3611, N-2362, N-10001*
 
 ---
 
@@ -554,7 +554,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-2355** Vanity Fair Erika Kirk Profile (Clara Malo)
+**N-2355** Vanity Fair Erika Kirk Profile (Clara Molot)
 
 Opening callback / vindication frame.
 
@@ -562,7 +562,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3608, N-2*
+*Related: C-3608, N-2, N-10004*
 
 ---
 
@@ -605,14 +605,14 @@ Investigative Pressure: High
 
 **N-2361** Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum
 
-New topic: February master contract plus July 25 fall-tour addendum; conflicts-of-interest allegations (Dylan Ericson); Daily Mail sanctions coverage; UVU presence of Lane Shonberger.
+New topic: February master contract plus July 25 fall-tour addendum; conflicts-of-interest allegations (Dylan Erickson); Daily Mail sanctions coverage; UVU presence of Laine Schoneberger.
 
 Evidence Count: 2
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3609, C-3610, A-2467.1, A-2468.1, N-1459, N-2354*
+*Related: C-3609, C-3610, A-2467.1, A-2468.1, N-1459, N-2354, N-10007*
 
 ---
 
@@ -638,7 +638,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3613, A-2471.1, N-50*
+*Related: C-3613, A-2471.1, N-50, N-10012*
 
 ---
 
@@ -651,7 +651,178 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3614, A-2472.1, N-69, N-2*
+*Related: C-3614, A-2472.1, N-69, N-2, N-10012*
+
+---
+
+**N-10001** Caleb Chilcutt
+
+Node Type: Person
+UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.
+
+*Related: prose mention in episode*
+
+---
+
+**N-10004** Clara Molot
+
+Node Type: Person
+Vanity Fair writer of the Erika Kirk profile the host reads as an unflattering portrait.
+
+*Related: prose mention in episode*
+
+---
+
+**N-10006** Andrew Wilson
+
+Node Type: Person
+Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
+
+*Related: C-3615, C-3616*
+
+---
+
+**N-10007** Laine Schoneberger
+
+Node Type: Person
+Why Refi CEO. Host says he spoke briefly at the UVU pre-show and co-founded the sponsoring company.
+
+*Related: C-3609, C-3610*
+
+---
+
+**N-10008** Dylan Erickson
+
+Node Type: Person
+TPUSA sponsorship lead, described by the host as a former TPUSA employee with conflicts around the Why Refi deal.
+
+*Related: C-3609*
+
+---
+
+**N-10009** Dennis Fenstermaker
+
+Node Type: Person
+Co-founder of Why Refi with Laine Schoneberger, as read from coverage of the sponsorship company (2017).
+
+*Related: C-3609*
+
+---
+
+**N-10010** Alan Collinge
+
+Node Type: Person
+Founder of Student Loan Justice. Host quotes him criticizing TPUSA's Why Refi sponsorship.
+
+*Related: C-3609*
+
+---
+
+**N-10011** Riley Gaines
+
+Node Type: Person
+Athlete named as a Why Refi contracted appearance in the February 2025 TPUSA sponsorship agreement.
+
+*Related: C-3609*
+
+---
+
+**N-10012** Brian Cole Jr.
+
+Node Type: Person
+Man federal authorities present as the January 6 pipe-bomb suspect. Host argues the confession was coerced.
+
+*Related: C-3613, C-3614*
+
+---
+
+**N-10013** Lori Jane Gliha
+
+Node Type: Person
+Scripps investigative correspondent who aired prior bodycam of Brian Cole Jr. and, the host says, of Tyler Robinson.
+
+*Related: C-3614, A-2472.1*
+
+---
+
+**N-10015** Maggie Haberman
+
+Node Type: Person
+New York Times reporter. Host cites the Haberman and Swan book on Epstein-file meetings inside the White House.
+
+*Related: C-3612*
+
+---
+
+**N-10016** Jonathan Swan
+
+Node Type: Person
+New York Times reporter. Co-author, with Maggie Haberman, of the book the host cites on Epstein situation-room meetings.
+
+*Related: C-3612*
+
+---
+
+**N-10017** Susie Wiles
+
+Node Type: Person
+White House chief of staff. Host questions her Kirk eulogy and names her in Epstein-file situation-room meetings.
+
+*Related: C-3612*
+
+---
+
+**N-10018** Taylor Budowich
+
+Node Type: Person
+Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.
+
+*Related: C-3612*
+
+---
+
+**N-10019** David Warrington
+
+Node Type: Person
+Trump-world lawyer named by the host among Epstein-file situation-room attendees (and as absent from one later list).
+
+*Related: C-3612*
+
+---
+
+**N-10020** James Blair
+
+Node Type: Person
+Trump-world aide named by the host among Epstein-file situation-room attendees.
+
+*Related: C-3612*
+
+---
+
+**N-10021** Stanley Woodward
+
+Node Type: Person
+Trump-world lawyer. Host's attendee read (ASR Woodwick) places him with Susie Wiles, Taylor Budowich, David Warrington, and James Blair.
+
+*Related: C-3612*
+
+---
+
+**N-10022** Steven Cheung
+
+Node Type: Person
+White House communications aide. Named on the WHMO email CC list and in the Epstein situation-room attendee read (ASR Chung/Chong).
+
+*Related: C-3612*
+
+---
+
+**N-10014** Mitt Romney
+
+Node Type: Person
+Former US senator. Host recalls his BCG advisory tie to Benjamin Netanyahu in the concurrent timeline.
+
+*Related: C-3611*
 
 ---
 
@@ -675,11 +846,11 @@ Investigative Direction: Preserve message screenshots with metadata if available
 
 Claim Timestamp: 00:15:21
 
-Claim: Host displays a February 2025 contract under which Why Refi pays TPUSA ~$2.25M (payment schedule possibly ~$2.47M) for extensive event, influencer, and branding benefits through early 2026, including a proposed Why Refi Theater.
+Claim: Host displays a February 2025 contract under which Why Refi pays TPUSA ~$2.25M (payment schedule possibly ~$2.47M) for extensive event, influencer, and branding benefits through early 2026, including a proposed Why Refi Theater. Host names TPUSA sponsorship lead Dylan Erickson, Why Refi CEO Laine Schoneberger (company founded with Dennis Fenstermaker), contracted appearances by Riley Gaines, and criticism from Student Loan Justice founder Alan Collinge.
 
 Anchored Artifacts: A-2467.1
 
-Related Nodes: N-2361, N-1, N-1459
+Related Nodes: N-2361, N-1459, N-10007, N-10008, N-10009, N-10010, N-10011
 
 Investigative Direction: Hash/store contract PDFs; verify signatories and whether theater construction completed; note conflict-of-interest allegations as unproven.
 
@@ -689,11 +860,11 @@ Investigative Direction: Hash/store contract PDFs; verify signatories and whethe
 
 Claim Timestamp: 00:20:10
 
-Claim: Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot—host ties timing to donor pullouts (e.g., Bob Shaman) and UVU booking pressures; Lane Shonberger spoke ~5 minutes at UVU.
+Claim: Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot—host ties timing to donor pullouts (e.g., Bob Shaman) and UVU booking pressures; Laine Schoneberger spoke ~5 minutes at UVU.
 
 Anchored Artifacts: A-2468.1, A-2467.1
 
-Related Nodes: N-2361, N-2354, N-2351, N-134, N-1
+Related Nodes: N-2361, N-2354, N-2351, N-134, N-10007
 
 Investigative Direction: Confirm addendum execution date and wire evidence; separate confirmed contract terms from hearsay that Why Refi picked UVU.
 
@@ -703,11 +874,11 @@ Investigative Direction: Confirm addendum execution date and wire evidence; sepa
 
 Claim Timestamp: 00:23:22
 
-Claim: Host argues Macron/Brigitte pressure calls, June Iran debate/Instagram purge/UVU drill, July Netanyahu visit + college-video archive + July 10 UVU ask, SAS Epstein blowup/donor exits, Charlie’s Epstein walk-back, Egyptian planes, Hamptons BB call, and Why Refi addendum are non-coincidental when plotted together.
+Claim: Host argues Macron/Brigitte pressure calls, June Iran debate/Instagram purge/UVU drill, July Netanyahu visit + college-video archive + July 10 UVU ask, SAS Epstein blowup/donor exits, Charlie’s Epstein walk-back, Egyptian planes, Hamptons BB call, and Why Refi addendum are non-coincidental when plotted together. Host also recalls Mitt Romney and Benjamin Netanyahu meeting as BCG advisers.
 
 Anchored Artifacts: A-2469.1
 
-Related Nodes: N-2362, N-2354, N-2351, N-2359, N-1098, N-79, N-898, N-117, N-65, N-755
+Related Nodes: N-2362, N-2354, N-2351, N-2359, N-1098, N-5, N-898, N-117, N-65, N-16, N-10014
 
 Investigative Direction: Source each bullet to primary docs; mark inference edges explicitly; do not treat composite as single proven conspiracy.
 
@@ -717,11 +888,11 @@ Investigative Direction: Source each bullet to primary docs; mark inference edge
 
 Claim Timestamp: 00:29:19
 
-Claim: Citing NYT/Haberman–Swan reporting, host lists mid-July and August meetings on Epstein files with Vance, Wiles, Patel, Bondi, Blanche, and others; notes Trump’s absence and temporal adjacency to Candace Epstein episodes and Charlie’s walk-back/scolding.
+Claim: Citing New York Times reporting by Maggie Haberman and Jonathan Swan, host lists mid-July and August meetings on Epstein files with JD Vance, Susie Wiles, David Warrington, Todd Blanche, Steven Cheung, Karoline Leavitt, Taylor Budowich, James Blair, Stanley Woodward, Kash Patel, and Pam Bondi; notes Trump’s absence and temporal adjacency to Candace Epstein episodes and Charlie’s walk-back/scolding.
 
 Anchored Artifacts: A-2470.1
 
-Related Nodes: N-2362, N-1395, N-35, N-299, N-102, N-120, N-867, N-79
+Related Nodes: N-2362, N-1395, N-35, N-4, N-102, N-120, N-867, N-5, N-10015, N-10016, N-10017, N-10018, N-10019, N-10020, N-10021, N-10022
 
 Investigative Direction: Pull primary NYT passages; verify attendee lists; keep “murdered over Epstein” as host hypothesis only.
 
@@ -735,7 +906,7 @@ Claim: Host, following published interrogation narrative and Tucker parents inte
 
 Anchored Artifacts: A-2471.1
 
-Related Nodes: N-2363, N-50
+Related Nodes: N-2363, N-50, N-10012
 
 Investigative Direction: Obtain full interrogation recordings/transcripts and defense filings; avoid minting Cole as Person until register policy allows.
 
@@ -749,36 +920,4 @@ Claim: Host shows Scripps packages in which the same correspondents present mino
 
 Anchored Artifacts: A-2472.1
 
-Related Nodes: N-2364, N-69, N-2
-
-Investigative Direction: Archive both Scripps segments; confirm journalist identity; treat daycare link as weak/speculative pending records.
-
----
-
-**C-3615** Erika’s Israel posture and partner choices contradict heaven-focused widow branding
-
-Claim Timestamp: 01:00:00
-
-Claim: Host argues loyalty depends on loyalty to Charlie’s direction: Erika’s silence/glowing Israel partnerships and collaboration with figures like Andrew Wilson (text leaks) after allegedly being more critical than Charlie privately registers as betrayal of Charlie’s late trajectory.
-
-Anchored Artifacts: A-2473.1
-
-Related Nodes: N-1121, N-2, N-1, N-2355
-
-Investigative Direction: Continue pairing Vanity Fair private-criticism quotes with post-death public record; document Wilson leak channel without minting.
-
----
-
-**C-3616** Erika’s Telegram American-flag contact may be the shared/“fake Charlie” account
-
-Claim Timestamp: 01:03:21
-
-Claim: Viewer note + host source claim that Charlie had two Telegram accounts—one American-flag shared account and one personal—and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kovette/friendly media.
-
-Anchored Artifacts: A-2473.1, A-2466.1
-
-Related Nodes: N-2360, N-214, N-2, N-1
-
-Investigative Direction: Forensic Telegram export if ever obtained; until then keep as sourced allegation.
-
----
+Related Nodes: N-2364, N-69, N-2, N-10012, N-10013

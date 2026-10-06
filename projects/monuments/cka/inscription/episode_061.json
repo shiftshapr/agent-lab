@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 61,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -41,7 +41,7 @@
             "N-1",
             "N-2",
             "N-776",
-            "N-85",
+            "N-70",
             "N-1503",
             "N-1504",
             "N-1506",
@@ -72,7 +72,7 @@
             "C-2167"
           ],
           "related_nodes": [
-            "N-769",
+            "N-443",
             "N-1503",
             "N-1504"
           ],
@@ -259,9 +259,9 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-769",
-      "ref": "N-769",
-      "name": "Tim Dylan",
+      "@id": "N-443",
+      "ref": "N-443",
+      "name": "Tim Dillon",
       "type": "person",
       "description": "Comedian whose on-air assessment that TPUSA is primarily motivated by money is read into the episode record and adopted by the host.",
       "related_artifacts": [
@@ -328,7 +328,7 @@
       "related_nodes": [
         "N-770",
         "N-772",
-        "N-778"
+        "N-45"
       ]
     },
     {
@@ -451,8 +451,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-778",
-      "ref": "N-778",
+      "@id": "N-45",
+      "ref": "N-45",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Figure associated with TPUSA Faith; named by host as defending a person convicted of child molestation.",
@@ -473,9 +473,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-779",
-      "ref": "N-779",
-      "name": "Andrew Kovat (name uncertainty flagged)",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Spokesperson-adjacent TPUSA figure referenced by host as a candidate for a future on-air appearance and as a recipient of allegedly self-incriminating messages. Name spelling uncertain — transcript shows \"Kovat,\" \"Kovette,\" and \"Kovat\" variants.",
       "related_artifacts": [
@@ -493,9 +493,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-780",
-      "ref": "N-780",
-      "name": "Justin Strife (name uncertainty flagged)",
+      "@id": "N-43",
+      "ref": "N-43",
+      "name": "Justin Strife",
       "type": "person",
       "description": "TPUSA executive reported by host as participating in a sit-down with Owens and Erica Kirk to discuss Owens's allegations. First-name spelling uncertain.",
       "related_artifacts": [
@@ -514,8 +514,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-781",
-      "ref": "N-781",
+      "@id": "N-264",
+      "ref": "N-264",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "TPUSA figure named in host's call for donations to TPUSA.",
@@ -560,10 +560,10 @@
         "N-1",
         "N-2",
         "N-776",
-        "N-85",
-        "N-779",
-        "N-780",
-        "N-781"
+        "N-70",
+        "N-42",
+        "N-43",
+        "N-264"
       ]
     },
     {
@@ -656,7 +656,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-778"
+        "N-45"
       ]
     },
     {
@@ -716,9 +716,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-85",
-      "ref": "N-85",
-      "name": "Governor Cox",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
       "related_artifacts": [],
@@ -795,7 +795,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-778",
+        "N-45",
         "N-1507"
       ],
       "tags": [],
@@ -877,7 +877,7 @@
         "A-1662.1"
       ],
       "related_nodes": [
-        "N-769",
+        "N-443",
         "N-1503",
         "N-1504"
       ],
@@ -896,7 +896,7 @@
         "A-1662.1"
       ],
       "related_nodes": [
-        "N-769",
+        "N-443",
         "N-1503",
         "N-1504"
       ],
@@ -946,7 +946,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-778",
+        "N-45",
         "N-1507"
       ],
       "tags": [],
@@ -1036,7 +1036,7 @@
       "related_nodes": [
         "N-770",
         "N-772",
-        "N-85"
+        "N-70"
       ],
       "tags": [],
       "claim_timestamp": "00:40:27–00:41:23",
@@ -1073,7 +1073,7 @@
       "related_nodes": [
         "N-770",
         "N-771",
-        "N-85"
+        "N-70"
       ],
       "tags": [],
       "claim_timestamp": "00:42:09–00:43:16",

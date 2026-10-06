@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 17,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -223,7 +223,7 @@
             "N-243",
             "N-1",
             "N-1244",
-            "N-240"
+            "N-72"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -350,7 +350,7 @@
             "C-1417"
           ],
           "related_nodes": [
-            "N-232",
+            "N-128",
             "N-233",
             "N-1242"
           ],
@@ -586,8 +586,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-232",
-      "ref": "N-232",
+      "@id": "N-128",
+      "ref": "N-128",
       "name": "Alex Jones",
       "type": "person",
       "description": "Host; audio in A-1246.1 confirms and elaborates the kill-switch narrative.",
@@ -628,8 +628,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-234",
-      "ref": "N-234",
+      "@id": "N-56",
+      "ref": "N-56",
       "name": "Kanye West",
       "type": "person",
       "description": "Referenced in host's kill-switch framing as a precursor who \"violated contracts\" to free his voice.",
@@ -684,8 +684,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-236",
-      "ref": "N-236",
+      "@id": "N-91",
+      "ref": "N-91",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Referenced in closing sponsorship-style segment as having a parody/cartoon antagonist role.",
@@ -699,7 +699,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-7"
+        "N-3"
       ]
     },
     {
@@ -739,8 +739,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-239",
-      "ref": "N-239",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Seth Dillon",
       "type": "person",
       "description": "Per host attribution, more vocal than Josh Hammer in pressing Charlie at the Hamptons meeting. Reference not artifact-anchored in this episode (recounted as host narrative only); node created for cross-episode continuity.",
@@ -759,8 +759,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-240",
-      "ref": "N-240",
+      "@id": "N-72",
+      "ref": "N-72",
       "name": "Michael Savage",
       "type": "person",
       "description": "Referenced by Alex Jones (A-1246.1) as having said \"I hope Mossad doesn't kill me\" during a show break prior to Charlie's assassination.",
@@ -774,13 +774,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-232"
+        "N-128"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-241",
-      "ref": "N-241",
+      "@id": "N-68",
+      "ref": "N-68",
       "name": "Dave Smith",
       "type": "person",
       "description": "Listed by Alex Jones as a kill-switch recipient (A-1246.1).",
@@ -909,10 +909,10 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-232",
+        "N-128",
         "N-233",
-        "N-234",
-        "N-241",
+        "N-56",
+        "N-68",
         "N-242"
       ]
     },
@@ -956,7 +956,7 @@
       "related_nodes": [
         "N-42",
         "N-229",
-        "N-239"
+        "N-67"
       ]
     },
     {
@@ -1002,8 +1002,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
@@ -1034,9 +1034,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-85",
-      "ref": "N-85",
-      "name": "Governor Cox",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
       "related_artifacts": [],
@@ -1048,7 +1048,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10002",
+        "ref": "N-10002",
+        "name": "Tyler Bowyer",
+        "type": "person",
+        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -1132,7 +1148,7 @@
       "related_nodes": [
         "N-42",
         "N-227",
-        "N-236",
+        "N-91",
         "N-245"
       ],
       "tags": [],
@@ -1275,9 +1291,9 @@
         "A-1246.1"
       ],
       "related_nodes": [
-        "N-232",
+        "N-128",
         "N-233",
-        "N-241",
+        "N-68",
         "N-242",
         "N-1242"
       ],
@@ -1295,7 +1311,7 @@
         "A-1246.1"
       ],
       "related_nodes": [
-        "N-232",
+        "N-128",
         "N-233",
         "N-1242"
       ],
@@ -1360,8 +1376,10 @@
       "claim": "Tyler Bowyer posted accusatory content on X, calling people names rather than addressing substantive questions.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-85"
-      ],
+        "N-70"
+      ,
+            "N-10002"
+          ],
       "tags": [],
       "claim_timestamp": "00:07:54",
       "investigative_direction": "Capture and verify direct screenshots of Bowyer's X posts."
@@ -1404,8 +1422,8 @@
         "A-1245.1"
       ],
       "related_nodes": [
-        "N-236",
-        "N-7"
+        "N-91",
+        "N-3"
       ],
       "tags": [],
       "claim_timestamp": "00:58:00–00:59:00",

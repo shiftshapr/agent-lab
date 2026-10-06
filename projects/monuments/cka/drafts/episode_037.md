@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 616bc05edfb6359bc187e34800c41d1e0a9578d7522596cd46dc4c4fe2472367
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-438, N-439, N-440, N-441, N-442, N-443, N-444, N-445, N-446, N-448, N-449, N-450, N-1344, N-1345, N-1346, N-1347, N-1348, N-1349, N-1350, N-1351, N-1352, N-1353
+  - New Nodes Introduced:  N-439, N-440, N-441, N-442, N-443, N-444, N-445, N-446, N-448, N-449, N-450, N-1344, N-1345, N-1346, N-1347, N-1348, N-1349, N-1350, N-1351, N-1352, N-1353
   - Reused Nodes Appearing: N-1
   - (see registers)
 
@@ -40,7 +40,7 @@ Video Timestamp: 00:08:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1768, C-1769, C-1770, N-1, N-438, N-1344, N-1348, N-1349, N-1350*
+*Related: C-1768, C-1769, C-1770, N-102, N-1344, N-1348, N-1349, N-1350*
 
 ---
 
@@ -54,7 +54,7 @@ Video Timestamp: 00:01:06–00:02:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (video played from prior interview; original air date not stated)
 
-*Related: C-1771, N-1, N-7*
+*Related: C-1771, N-1, N-3*
 
 ---
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:09:53–00:10:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1772, N-1, N-438, N-1344*
+*Related: C-1772, N-102, N-1344*
 
 ---
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:05:34–00:07:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (sender identity redacted by host; content verbally read)
 
-*Related: C-1773, C-1774, C-1775, N-438, N-1345, N-1348, N-1349, N-1344*
+*Related: C-1773, C-1774, C-1775, N-102, N-1345, N-1348, N-1349, N-1344*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:29:33–00:31:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (email content read verbatim)
 
-*Related: C-1780, N-7, N-442, N-1352*
+*Related: C-1780, N-3, N-442, N-1352*
 
 ---
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:32:36–00:34:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-7, N-443, N-444, N-1353*
+*Related: N-3, N-443, N-444, N-1353*
 
 ---
 
@@ -204,7 +204,7 @@ Investigative Pressure: High
 
 ---
 
-**N-438** Kash Patel
+**N-102** Kash Patel
 
 FBI Director / public official who closed September 12, 2025 press conference with "see you in Valhalla" tribute to Charlie Kirk.
 
@@ -213,7 +213,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1453.1, A-1454.1, C-1772, C-1775, N-1, N-1344*
+*Related: A-1453.1, A-1454.1, C-1772, C-1775, N-1344*
 
 ---
 
@@ -265,11 +265,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1459.1, C-1780, N-7, N-1352*
+*Related: A-1459.1, C-1780, N-3, N-1352*
 
 ---
 
-**N-443** Tim Dylan
+**N-443** Tim Dillon
 
 Independent commentator; provided audio clip characterizing Bari Weiss at CBS News.
 
@@ -278,7 +278,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1460.1, N-7, N-444*
+*Related: A-1460.1, N-3, N-444*
 
 ---
 
@@ -330,7 +330,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1451.1, A-1453.1, A-1454.1, C-1768, C-1772, C-1775, N-1, N-438, N-1349*
+*Related: A-1451.1, A-1453.1, A-1454.1, C-1768, C-1772, C-1775, N-102, N-1349*
 
 ---
 
@@ -461,7 +461,7 @@ Claim: A week-long training exercise named Operation Valhalla Strike was conduct
 
 Anchored Artifacts: A-1451.1
 
-Related Nodes: N-1, N-438, N-1344, N-1348, N-1349, N-1350, N-448, N-449, N-450
+Related Nodes: N-102, N-1344, N-1348, N-1349, N-1350, N-448, N-449, N-450
 
 Investigative Direction: Cross-check public DoD exercise announcements for the same date window; obtain Minot AFB public affairs archive.
 
@@ -503,7 +503,7 @@ Claim: In a Prager News Network interview (date unspecified), Charlie Kirk named
 
 Anchored Artifacts: A-1452.1
 
-Related Nodes: N-1, N-7
+Related Nodes: N-1, N-3
 
 Investigative Direction: Locate original PragerU upload date and full interview context.
 
@@ -517,7 +517,7 @@ Claim: At a press conference dated September 12, 2025, FBI Director Kash Patel c
 
 Anchored Artifacts: A-1453.1
 
-Related Nodes: N-1, N-438, N-1344
+Related Nodes: N-102, N-1344
 
 Investigative Direction: Compare to full Patel press conference record on FBI.gov or C-SPAN.
 
@@ -531,7 +531,7 @@ Claim: Per a military tipster email, the Egyptian military BTT aircraft stopped 
 
 Anchored Artifacts: A-1454.1
 
-Related Nodes: N-438, N-1345, N-1348
+Related Nodes: N-102, N-1345, N-1348
 
 Investigative Direction: Cross-reference with ADS-B / Flightradar24 historical data for the relevant tail number and date; verify Minot AFB transient aircraft logs via FOIA.
 
@@ -559,7 +559,7 @@ Claim: Per the military tipster email, the 891st MSFS had "just come off of" Ope
 
 Anchored Artifacts: A-1454.1
 
-Related Nodes: N-438, N-1344, N-1345, N-1348, N-1349
+Related Nodes: N-102, N-1344, N-1345, N-1348, N-1349
 
 Investigative Direction: Confirm exercise completion dates and any overlap with BTT's arrival window; determine whether the unit had returned to Minot by September 4.
 
@@ -629,7 +629,7 @@ Claim: Ashley Rinzberg, writing for The Free Press, emailed Candace Owens reques
 
 Anchored Artifacts: A-1459.1
 
-Related Nodes: N-7, N-442, N-1351, N-1352
+Related Nodes: N-3, N-442, N-1351, N-1352
 
 Investigative Direction: Confirm whether the article was published and whether Rinzberg is correctly identified by the outlet's masthead.
 

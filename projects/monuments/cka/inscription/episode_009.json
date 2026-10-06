@@ -36,8 +36,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-7",
-            "N-100"
+            "N-3",
+            "N-59"
           ],
           "tags": [],
           "video_timestamp": "00:12:01–00:12:38",
@@ -53,8 +53,8 @@
             "C-1269"
           ],
           "related_nodes": [
-            "N-7",
-            "N-100",
+            "N-3",
+            "N-59",
             "N-157",
             "N-1179"
           ],
@@ -184,7 +184,7 @@
             "C-1275"
           ],
           "related_nodes": [
-            "N-7",
+            "N-3",
             "N-122",
             "N-150",
             "N-133",
@@ -240,7 +240,7 @@
             "C-1277"
           ],
           "related_nodes": [
-            "N-7",
+            "N-3",
             "N-1179"
           ],
           "tags": [],
@@ -301,8 +301,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host; presenter of investigative claims.",
@@ -395,8 +395,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-79",
-      "ref": "N-79",
+      "@id": "N-5",
+      "ref": "N-5",
       "name": "Donald Trump",
       "type": "person",
       "description": "Target of July 13, 2024 Crooks attempt; referenced re Iran narrative.",
@@ -642,9 +642,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-100",
-      "ref": "N-100",
-      "name": "Candace Owens' Husband",
+      "@id": "N-59",
+      "ref": "N-59",
+      "name": "George (Candace's husband)",
       "type": "person",
       "description": "Unnamed spouse; met via UK trip 18 days before engagement.",
       "related_artifacts": [
@@ -1275,9 +1275,9 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-7",
-        "N-100",
-        "N-79",
+        "N-3",
+        "N-59",
+        "N-5",
         "N-149",
         "N-154",
         "N-155",
@@ -1307,8 +1307,8 @@
         "A-1155.1"
       ],
       "related_nodes": [
-        "N-7",
-        "N-100",
+        "N-3",
+        "N-59",
         "N-1184",
         "N-1192",
         "N-1192",
@@ -1330,8 +1330,8 @@
         "A-1155.2"
       ],
       "related_nodes": [
-        "N-7",
-        "N-100",
+        "N-3",
+        "N-59",
         "N-157",
         "N-1179"
       ],
@@ -1472,7 +1472,7 @@
         "A-1158.1"
       ],
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-122",
         "N-150",
         "N-133",
@@ -1516,7 +1516,7 @@
         "A-1160.1"
       ],
       "related_nodes": [
-        "N-7",
+        "N-3",
         "N-1179",
         "N-1194",
         "N-1181",
@@ -1671,7 +1671,7 @@
         {
           "episode": 9,
           "video_timestamp": "00:12:38",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "I just realized the reason that I had this overwhelming feeling to be there was because I was supposed to be my husband.",
           "context": "Candace recasts 'intuition/premonition' as God-guided happy coincidence leading to husband meeting.",
           "confidence": "high",
@@ -1692,7 +1692,7 @@
         {
           "episode": 9,
           "video_timestamp": "00:10:42",
-          "speaker_node_ref": "N-7",
+          "speaker_node_ref": "N-3",
           "quote": "I get all the conspiracies online when people were like there's no way she her and her husband got engaged after 18 days.",
           "context": "Host pre-emptively cites conspiracy-theorist mockery of her 18-day engagement; uses term to dismiss critics.",
           "confidence": "high",

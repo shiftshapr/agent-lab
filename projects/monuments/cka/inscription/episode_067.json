@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 67,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -30,7 +30,7 @@
             "C-2253"
           ],
           "related_nodes": [
-            "N-829",
+            "N-80",
             "N-830"
           ],
           "tags": [],
@@ -62,9 +62,9 @@
           ],
           "related_nodes": [
             "N-833",
-            "N-834",
+            "N-35",
             "N-851",
-            "N-852"
+            "N-76"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -91,9 +91,9 @@
             "C-2260"
           ],
           "related_nodes": [
-            "N-834",
+            "N-35",
             "N-843",
-            "N-844",
+            "N-260",
             "N-858",
             "N-875"
           ],
@@ -122,8 +122,8 @@
             "C-2262"
           ],
           "related_nodes": [
-            "N-837",
-            "N-842",
+            "N-133",
+            "N-50",
             "N-867"
           ],
           "tags": [],
@@ -206,7 +206,7 @@
             "C-2267"
           ],
           "related_nodes": [
-            "N-834",
+            "N-35",
             "N-835",
             "N-850"
           ],
@@ -265,7 +265,7 @@
           ],
           "related_nodes": [
             "N-1009",
-            "N-846",
+            "N-16",
             "N-1544"
           ],
           "tags": [],
@@ -456,7 +456,7 @@
           ],
           "related_nodes": [
             "N-1010",
-            "N-848",
+            "N-434",
             "N-1541"
           ],
           "tags": [],
@@ -475,7 +475,7 @@
           ],
           "related_nodes": [
             "N-1009",
-            "N-846",
+            "N-16",
             "N-1547"
           ],
           "tags": [],
@@ -700,8 +700,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-829",
-      "ref": "N-829",
+      "@id": "N-80",
+      "ref": "N-80",
       "name": "Sigmund Freud",
       "type": "person",
       "description": "Austrian neurologist and founder of psychoanalysis; cited by host for 1897 letter to Wilhelm Fliess describing ritual abuse scene. Source of host's framing premise about Jewish mysticism.",
@@ -737,7 +737,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-829"
+        "N-80"
       ]
     },
     {
@@ -761,8 +761,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-834",
-      "ref": "N-834",
+      "@id": "N-35",
+      "ref": "N-35",
       "name": "Jeffrey Epstein",
       "type": "person",
       "description": "Financier and convicted sex offender; subject of 2024-2026 document releases; named in Peter Thiel, Joshua Finkelstein, Susan Hamblin, and Jay-Z email contexts.",
@@ -784,14 +784,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-835",
-        "N-836",
+        "N-4",
         "N-840",
         "N-843",
-        "N-844",
-        "N-852",
+        "N-260",
+        "N-76",
         "N-851",
         "N-853",
-        "N-874",
+        "N-77",
         "N-1545"
       ]
     },
@@ -816,16 +816,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-836",
+        "N-4",
         "N-850",
         "N-1546"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-836",
-      "ref": "N-836",
-      "name": "J.D. Vance",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
       "type": "person",
       "description": "US Vice President; political beneficiary of Peter Thiel; subject of host's claim that Thiel's Epstein emails are \"a major problem.\"",
       "related_artifacts": [
@@ -844,8 +844,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-837",
-      "ref": "N-837",
+      "@id": "N-133",
+      "ref": "N-133",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Conservative commentator; defended FBI on Epstein tapes (asserting child-porn content and \"no Epstein list\"); named in podcast pre-release commentary as Epstein email subject.",
@@ -864,9 +864,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-838",
-      "ref": "N-838",
-      "name": "Barry Weiss",
+      "@id": "N-444",
+      "ref": "N-444",
+      "name": "Bari Weiss",
       "type": "person",
       "description": "Conservative podcaster (\"The Weiss Reports\"); named as defender of Alan Dershowitz and as B'nai B'rith descendant (host claim).",
       "related_artifacts": [],
@@ -923,7 +923,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-839",
-        "N-834"
+        "N-35"
       ]
     },
     {
@@ -948,8 +948,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-842",
-      "ref": "N-842",
+      "@id": "N-50",
+      "ref": "N-50",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Commentator; described by host as asserting \"without evidence\" that Mossad ran Epstein.",
@@ -986,14 +986,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-834",
+        "N-35",
         "N-858"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-844",
-      "ref": "N-844",
+      "@id": "N-260",
+      "ref": "N-260",
       "name": "James Lee",
       "type": "person",
       "description": "Independent journalist who analyzed the Susan Hamblin redacted Epstein email.",
@@ -1012,8 +1012,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-846",
-      "ref": "N-846",
+      "@id": "N-16",
+      "ref": "N-16",
       "name": "Frank Turek",
       "type": "person",
       "description": "Christian apologist and Charlie Kirk mentor; described the Sept 8 walk with Charlie on Megyn Kelly Show.",
@@ -1037,9 +1037,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-847",
-      "ref": "N-847",
-      "name": "Andrew Kolvet (also spelled Kolvetz in transcript)",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Charlie Kirk's TPUSA team member; recipient (with Dan Flood) of \"they're going to kill me\" text on Sept 9.",
       "related_artifacts": [
@@ -1054,15 +1054,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-848",
+        "N-434",
         "N-1009",
         "N-1544"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-848",
-      "ref": "N-848",
+      "@id": "N-434",
+      "ref": "N-434",
       "name": "Dan Flood",
       "type": "person",
       "description": "Charlie Kirk associate; named recipient of \"they're going to kill me\" text per host's source; format of the text (iMessage vs Telegram) is in dispute.",
@@ -1080,15 +1080,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1010",
-        "N-847",
+        "N-42",
         "N-1541",
         "N-1544"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-849",
-      "ref": "N-849",
+      "@id": "N-134",
+      "ref": "N-134",
       "name": "Bob Shulman",
       "type": "person",
       "description": "Jewish donor; per host, withdrew financial support from Charlie Kirk on Sept 9 amid the pro-Israel text exchange.",
@@ -1126,7 +1126,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-835",
-        "N-834"
+        "N-35"
       ]
     },
     {
@@ -1148,14 +1148,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-834",
-        "N-852"
+        "N-35",
+        "N-76"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-852",
-      "ref": "N-852",
+      "@id": "N-76",
+      "ref": "N-76",
       "name": "Ghislaine Maxwell",
       "type": "person",
       "description": "Epstein associate; quoted saying Epstein's residence was \"a Jewish country club.\"",
@@ -1172,7 +1172,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-851",
-        "N-834"
+        "N-35"
       ]
     },
     {
@@ -1190,7 +1190,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-834"
+        "N-35"
       ]
     },
     {
@@ -1295,15 +1295,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-838",
-        "N-862"
+        "N-444",
+        "N-374"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-859",
-      "ref": "N-859",
-      "name": "Andrew Kolbatz (note: spelling preserved from transcript; possibly Kolbet)",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Listed alongside Mikey McQuaid as having traveled to meet with the White House the prior Thursday (per host).",
       "related_artifacts": [],
@@ -1316,14 +1316,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-860"
+        "N-272"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-860",
-      "ref": "N-860",
-      "name": "Mikey McQuaid",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Mikey McCoy",
       "type": "person",
       "description": "Named by host as having traveled to meet the White House alongside Andrew Kolbatz; subject of neighbor sightings reported by host.",
       "related_artifacts": [],
@@ -1334,13 +1334,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-859"
+        "N-42"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-862",
-      "ref": "N-862",
+      "@id": "N-374",
+      "ref": "N-374",
       "name": "Mark Levin",
       "type": "person",
       "description": "Conservative commentator; named as defender of Alan Dershowitz.",
@@ -1372,13 +1372,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-834"
+        "N-35"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-874",
-      "ref": "N-874",
+      "@id": "N-77",
+      "ref": "N-77",
       "name": "Robert Maxwell",
       "type": "person",
       "description": "British media proprietor and father of Ghislaine Maxwell; named in connection with Kushner Epstein emails (per host).",
@@ -1390,7 +1390,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-852"
+        "N-76"
       ]
     },
     {
@@ -1427,7 +1427,7 @@
       "@type": "Person",
       "@id": "N-3",
       "ref": "N-3",
-      "name": "Candace Owens — host; existing node reused.",
+      "name": "Candace Owens",
       "type": "person",
       "description": "### Investigation Target Nodes (new)",
       "related_artifacts": [],
@@ -1459,7 +1459,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1010",
-        "N-848"
+        "N-434"
       ]
     },
     {
@@ -1534,10 +1534,10 @@
       "related_nodes": [
         "N-1009",
         "N-42",
-        "N-846",
-        "N-847",
-        "N-848",
-        "N-849"
+        "N-16",
+        "N-42",
+        "N-434",
+        "N-134"
       ]
     },
     {
@@ -1562,7 +1562,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-834",
+        "N-35",
         "N-835",
         "N-850"
       ]
@@ -1585,7 +1585,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-835",
-        "N-836"
+        "N-4"
       ]
     },
     {
@@ -1610,7 +1610,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1009",
-        "N-846"
+        "N-16"
       ]
     },
     {
@@ -1641,7 +1641,7 @@
         "A-1714.1"
       ],
       "related_nodes": [
-        "N-829",
+        "N-80",
         "N-830",
         "N-831",
         "N-832",
@@ -1671,7 +1671,7 @@
         "A-1715.1"
       ],
       "related_nodes": [
-        "N-834"
+        "N-35"
       ],
       "tags": [],
       "claim_timestamp": "00:10:32",
@@ -1687,7 +1687,7 @@
         "A-1715.1"
       ],
       "related_nodes": [
-        "N-834"
+        "N-35"
       ],
       "tags": [],
       "claim_timestamp": "00:10:32",
@@ -1703,7 +1703,7 @@
         "A-1715.1"
       ],
       "related_nodes": [
-        "N-834"
+        "N-35"
       ],
       "tags": [],
       "claim_timestamp": "00:11:37",
@@ -1720,8 +1720,8 @@
       ],
       "related_nodes": [
         "N-851",
-        "N-852",
-        "N-834"
+        "N-76",
+        "N-35"
       ],
       "tags": [],
       "claim_timestamp": "00:12:20",
@@ -1736,7 +1736,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-833",
-        "N-834"
+        "N-35"
       ],
       "tags": [],
       "claim_timestamp": "00:09:45",
@@ -1753,8 +1753,8 @@
       ],
       "related_nodes": [
         "N-843",
-        "N-834",
-        "N-844"
+        "N-35",
+        "N-260"
       ],
       "tags": [],
       "claim_timestamp": "00:16:29",
@@ -1786,8 +1786,8 @@
         "A-1717.1"
       ],
       "related_nodes": [
-        "N-837",
-        "N-834"
+        "N-133",
+        "N-35"
       ],
       "tags": [],
       "claim_timestamp": "00:18:35",
@@ -1803,8 +1803,8 @@
         "A-1717.1"
       ],
       "related_nodes": [
-        "N-837",
-        "N-834"
+        "N-133",
+        "N-35"
       ],
       "tags": [],
       "claim_timestamp": "00:18:35",
@@ -1821,7 +1821,7 @@
       ],
       "related_nodes": [
         "N-841",
-        "N-834"
+        "N-35"
       ],
       "tags": [],
       "claim_timestamp": "00:20:38",
@@ -1873,7 +1873,7 @@
       "related_nodes": [
         "N-835",
         "N-850",
-        "N-834"
+        "N-35"
       ],
       "tags": [],
       "claim_timestamp": "00:26:09",
@@ -1890,7 +1890,7 @@
       ],
       "related_nodes": [
         "N-835",
-        "N-834"
+        "N-35"
       ],
       "tags": [],
       "claim_timestamp": "00:27:02",
@@ -1926,7 +1926,7 @@
       "related_nodes": [
         "N-42",
         "N-1009",
-        "N-849",
+        "N-134",
         "N-1544"
       ],
       "tags": [],
@@ -1943,7 +1943,7 @@
         "A-1722.1"
       ],
       "related_nodes": [
-        "N-846",
+        "N-16",
         "N-1009",
         "N-1544",
         "N-1547"
@@ -1962,7 +1962,7 @@
         "A-1722.1"
       ],
       "related_nodes": [
-        "N-846",
+        "N-16",
         "N-1009",
         "N-1010",
         "N-1544"
@@ -2000,8 +2000,8 @@
       ],
       "related_nodes": [
         "N-1010",
-        "N-848",
-        "N-847",
+        "N-434",
+        "N-42",
         "N-1541"
       ],
       "tags": [],
@@ -2019,10 +2019,10 @@
       ],
       "related_nodes": [
         "N-1009",
-        "N-847",
-        "N-848",
+        "N-42",
+        "N-434",
         "N-1544",
-        "N-859"
+        "N-42"
       ],
       "tags": [],
       "claim_timestamp": "00:44:45",
@@ -2039,7 +2039,7 @@
       ],
       "related_nodes": [
         "N-1009",
-        "N-846",
+        "N-16",
         "N-1547"
       ],
       "tags": [],

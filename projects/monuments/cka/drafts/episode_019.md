@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: 8e12049f89e89a3afb605eb38161af512cd6a84eb73ff7723fadfa63f47de64d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-255, N-256, N-257, N-258, N-259, N-260, N-261, N-262, N-263, N-264, N-265, N-266, N-267, N-1257, N-1258, N-1259, N-1260, N-1261
+  - New Nodes Introduced: N-255, N-256, N-259, N-260, N-261, N-262, N-263, N-264, N-266, N-267, N-1257, N-1258, N-1259, N-1260, N-1261
   - Reused Nodes Appearing: 
 - **Monument Episode:** 19
 - **Batch:** 9
@@ -29,7 +29,7 @@
 
 - **Artifact Families Introduced:** A-1260, A-1261, A-1262, A-1263, A-1264, A-1265, A-1266, A-1267, A-1268, A-1269
 - **Claim Range:** C-1461–C-1481
-- **New People Nodes Introduced:** N-255, N-256, N-257, N-258, N-259, N-260, N-261, N-262, N-263, N-264, N-265, N-266, N-267
+- **New People Nodes Introduced:** N-255, N-256, N-16, N-181, N-259, N-260, N-261, N-262, N-263, N-264, N-42, N-266, N-267
 - **New Investigation Targets Introduced:** N-1257, N-1258, N-1259, N-1260, N-1261
 - **Existing Nodes Reused (referenced):** Charlie Kirk, Candace Owens, Erika Kirk, Tyler Robinson, Mikey McCoy, Pastor Rob McCoy, Tyler Bowyer, Kanye West, Joe Rogan, Donald Trump Jr.
 
@@ -214,7 +214,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:51:43
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-1482, N-258*
+*Related: C-1482, N-181*
 
 **A-1269.2** Amanda comment: "This is sick. Thank you, Candace, for always sharing the truth. God bless you."
 
@@ -283,11 +283,11 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1262.1, A-1262.2, A-1269.9, C-1464, C-1465, C-1466, C-1477, N-Tyler Bowyer (existing)*
+*Related: A-1262.1, A-1262.2, A-1269.9, C-1464, C-1465, C-1466, C-1477, N-Tyler Bowyer (existing), N-10002*
 
 ---
 
-**N-257** Frank Turk
+**N-16** Frank Turek
 
 Individual at the UVU event identified by host (and Ian Carol) as the only person who reacted normally — dropping to ground and crawling toward Charlie Kirk before helping escort him to the waiting car.
 
@@ -296,11 +296,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1481, N-Ian Carol (N-258)*
+*Related: C-1481, N-Ian Carol (N-181)*
 
 ---
 
-**N-258** Ian Carol
+**N-181** Ian Carol
 
 Internet investigator whose video work is cited by host regarding Frank Turk's reaction and whose viewer comment is read aloud (A-1269.1). Described as among those "not letting this go."
 
@@ -309,7 +309,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1269.1, A-1269.9, C-1482, N-257*
+*Related: A-1269.1, A-1269.9, C-1482, N-16*
 
 ---
 
@@ -387,11 +387,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1479, N-Tyler Bowyer (existing)*
+*Related: C-1479, N-Tyler Bowyer (existing), N-10002*
 
 ---
 
-**N-265** Andrew Kovett
+**N-42** Andrew Kolvet
 
 TPUSA-affiliated figure referenced by host as a person contacted for comment along with Mikey McCoy, with no response returned.
 
@@ -417,7 +417,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-267** Ryan Mata
+**N-267** Ryan Matta
 
 Internet investigator cited by host among those pursuing the case "day in and day out" despite not having previously known Charlie Kirk.
 
@@ -492,6 +492,15 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-1265.1, A-1267.1, C-1476, N-262*
+
+---
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-1477, C-1478, C-1479*
 
 ---
 
@@ -727,7 +736,7 @@ Claim: Host states the camera operator was brought into TPUSA by Tyler Bowyer.
 
 Anchored Artifacts: None (host assertion)
 
-Related Nodes: N-256, N-Tyler Bowyer (existing)
+Related Nodes: N-256, N-Tyler Bowyer (existing), N-10002
 
 Investigative Direction: Obtain TPUSA hiring/contract records for the unnamed AV company operator.
 
@@ -741,7 +750,7 @@ Claim: Host states Mikey McCoy was brought into TPUSA by Tyler Bowyer.
 
 Anchored Artifacts: None (host assertion; full discussion deferred)
 
-Related Nodes: N-Mikey McCoy (existing), N-Tyler Bowyer (existing)
+Related Nodes: N-Mikey McCoy (existing), N-Tyler Bowyer (existing), N-10002
 
 Investigative Direction: Verify via TPUSA organizational records.
 
@@ -755,7 +764,7 @@ Claim: Host states Stacy Sheridan was brought into TPUSA by Tyler Bowyer to hand
 
 Anchored Artifacts: None (host assertion)
 
-Related Nodes: N-264, N-Tyler Bowyer (existing)
+Related Nodes: N-264, N-Tyler Bowyer (existing), N-10002
 
 Investigative Direction: Verify via TPUSA organizational records.
 
@@ -783,7 +792,7 @@ Claim: Host and Ian Carol characterize Frank Turk as the only person at the even
 
 Anchored Artifacts: None (assertion; no specific footage cited in episode for Turk's actions)
 
-Related Nodes: N-257, N-258
+Related Nodes: N-16, N-181
 
 Investigative Direction: Locate video evidence corroborating Turk's specific movements.
 
@@ -797,7 +806,7 @@ Claim: Ian Carol commented: "Fishing takes time. You got to set the bait. It's s
 
 Anchored Artifacts: A-1269.1
 
-Related Nodes: N-258
+Related Nodes: N-181
 
 Investigative Direction: Locate original comment thread.
 
@@ -839,7 +848,7 @@ Claim: Host states she contacted both Mikey McCoy and Andrew Kovett for statemen
 
 Anchored Artifacts: None (host assertion)
 
-Related Nodes: N-265, N-Mikey McCoy (existing)
+Related Nodes: N-42, N-Mikey McCoy (existing)
 
 Investigative Direction: Obtain any written correspondence or call records from the outreach attempts.
 

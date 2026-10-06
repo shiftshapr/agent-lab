@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a5bff101f5406cc545238101be4cd19cc555a0c068fccc2dca23c05ae7f6ae04
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-695, N-696, N-697, N-698, N-699, N-700, N-701, N-702, N-703, N-704, N-1473, N-1474, N-1475, N-1476, N-1477, N-1478, N-1479
+  - New Nodes Introduced:  N-696, N-697, N-699, N-700, N-701, N-702, N-703, N-704, N-1473, N-1474, N-1475, N-1476, N-1477, N-1478, N-1479
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -35,7 +35,7 @@
 
 - **Artifact Families Introduced:** A-1607, A-1608, A-1609, A-1610, A-1611, A-1612, A-1613, A-1614, A-1615, A-1616
 - **Claim Range:** C-2047–C-2072
-- **New Nodes Introduced (people):** N-695, N-696, N-697, N-698, N-699, N-700, N-701, N-702, N-703, N-704
+- **New Nodes Introduced (people):** , N-696, N-697, N-699, N-700, N-701, N-702, N-703, N-704
 - **New Nodes Introduced (investigation targets):** N-1473, N-1474, N-1475, N-1476, N-1477, N-1478, N-1479
 - **Existing Nodes Reused:** Charlie Kirk, Candace Owens, Erica Kirk, Tucker Carlson, Megyn Kelly, Ben Shapiro, Dennis Prager, Netanyahu, Mark Burnett, Jordan Peterson, Nick Fuentes, Seth Dylan, Jerry Falwell Jr. (referenced by name without new ID)
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:07:11–00:08:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (transcript-only verification)
 
-*Related: C-2047, C-2048, N-695, N-1475*
+*Related: C-2047, C-2048, N-42, N-1475*
 
 ---
 
@@ -165,7 +165,7 @@ Video Timestamp: 00:47:35–00:48:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2062, N-695*
+*Related: C-2062, N-42*
 
 **A-1613.3** Comment from user "67" (Argentina donation)
 
@@ -239,7 +239,7 @@ Video Timestamp: 00:25:34–00:26:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2055, C-2056, N-697, N-698, N-1473*
+*Related: C-2055, C-2056, N-697, N-654, N-1473*
 
 ---
 
@@ -280,7 +280,7 @@ Node Type: person
 
 *Related:*
 
-**N-695** Andrew Kolbett
+**N-42** Andrew Kolvet
 
 Subject of host's text exchange about post-assassination dream of Charlie Kirk; previously identified in earlier episodes as orchestrating PR operations against the host.
 
@@ -302,7 +302,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1608.1, A-1610.1, A-1610.2, C-2049, C-2050, C-2052, C-2053, C-2054, N-697, N-698, N-1473*
+*Related: A-1608.1, A-1610.1, A-1610.2, C-2049, C-2050, C-2052, C-2053, C-2054, N-697, N-654, N-1473*
 
 ---
 
@@ -315,11 +315,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1614.1, C-2055, N-696, N-698, N-1473*
+*Related: A-1614.1, C-2055, N-696, N-654, N-1473*
 
 ---
 
-**N-698** Sun Myung Moon
+**N-654** Sun Myung Moon
 
 Founder of the Unification Church (transcript spells inconsistently as "Sunyong Moon" / "Sun Young Moon" / "Sun Myung Moon"); source of the three disciples quotation.
 
@@ -393,7 +393,7 @@ Claim Count: 0 (host narrative, NYT artifact references the broader pattern)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-704, N-705, N-698*
+*Related: N-704, N-705, N-654*
 
 ---
 
@@ -419,7 +419,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1608.1, A-1610.1, A-1610.2, A-1614.1, C-2049, C-2050, C-2055, C-2056, N-695, N-696, N-697, N-698*
+*Related: A-1608.1, A-1610.1, A-1610.2, A-1614.1, C-2049, C-2050, C-2055, C-2056, N-42, N-696, N-697, N-654*
 
 ---
 
@@ -445,7 +445,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1607.1, C-2047, C-2048, N-695*
+*Related: A-1607.1, C-2047, C-2048, N-42*
 
 ---
 
@@ -511,7 +511,7 @@ Claim: The host presented a text message she sent to Andrew Kolbett describing a
 
 Anchored Artifacts: A-1607.1
 
-Related Nodes: N-695, N-1475
+Related Nodes: N-42, N-1475
 
 Investigative Direction: Obtain verification of the text exchange; identify the date and any reply correspondence; corroborate with any other recipients who received analogous communications.
 
@@ -525,7 +525,7 @@ Claim: The host stated that Andrew Kolbett did not respond to her text message a
 
 Anchored Artifacts: A-1607.1 (by contextual reference within the same exchange)
 
-Related Nodes: N-695, N-1475
+Related Nodes: N-42, N-1475
 
 Investigative Direction: Verify non-reply independently; cross-check any subsequent communication records between the two parties.
 
@@ -567,7 +567,7 @@ Claim: The New York Times reported that an internal audit by Japan's Liberal Dem
 
 Anchored Artifacts: A-1609.1
 
-Related Nodes: N-704, N-705, N-698
+Related Nodes: N-704, N-705, N-654
 
 Investigative Direction: Locate the cited New York Times article; verify exact figures and any subsequent party responses.
 
@@ -623,7 +623,7 @@ Claim: The host presented a Sun Myung Moon quotation declaring Ron Godwin to be 
 
 Anchored Artifacts: A-1614.1
 
-Related Nodes: N-697, N-698, N-1473
+Related Nodes: N-697, N-654, N-1473
 
 Investigative Direction: Retrieve the primary source (Unification Church publication, sermon, or recorded address) containing this declaration; verify date and venue.
 
@@ -637,7 +637,7 @@ Claim: The host presented a Sun Myung Moon quotation stating: "Each one of you w
 
 Anchored Artifacts: A-1614.1
 
-Related Nodes: N-697, N-698, N-1473
+Related Nodes: N-697, N-654, N-1473
 
 Investigative Direction: Retrieve primary source; verify whether this directive was organizational doctrine or rhetorical.
 
@@ -721,7 +721,7 @@ Claim: A commenter expressed being "heartbroken and filled with rage" and asked 
 
 Anchored Artifacts: A-1613.2
 
-Related Nodes: N-695
+Related Nodes: N-42
 
 Investigative Direction: No investigative direction; comment is rhetorical and emotional, not falsifiable.
 

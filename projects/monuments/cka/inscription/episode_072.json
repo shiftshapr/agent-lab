@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 72,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -59,7 +59,7 @@
           ],
           "related_nodes": [
             "N-1012",
-            "N-915",
+            "N-298",
             "N-1573"
           ],
           "tags": [],
@@ -87,7 +87,7 @@
           ],
           "related_nodes": [
             "N-916",
-            "N-915",
+            "N-298",
             "N-1573"
           ],
           "tags": [],
@@ -116,7 +116,7 @@
           "related_nodes": [
             "N-1",
             "N-1012",
-            "N-85"
+            "N-70"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -144,7 +144,7 @@
           "related_nodes": [
             "N-1",
             "N-1012",
-            "N-85"
+            "N-70"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -194,9 +194,9 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-7",
-            "N-914",
-            "N-915"
+            "N-3",
+            "N-75",
+            "N-298"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -223,9 +223,9 @@
           ],
           "related_nodes": [
             "N-1012",
-            "N-915",
+            "N-298",
             "N-916",
-            "N-921",
+            "N-42",
             "N-1573"
           ],
           "tags": [],
@@ -250,7 +250,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1012",
-            "N-922",
+            "N-364",
             "N-1576"
           ],
           "tags": [],
@@ -279,7 +279,7 @@
           "related_nodes": [
             "N-919",
             "N-920",
-            "N-933"
+            "N-789"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -489,8 +489,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-914",
-      "ref": "N-914",
+      "@id": "N-75",
+      "ref": "N-75",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Subject of viral Piers Morgan interview clip; made statements on Charlie Kirk's changed position on Israel.",
@@ -512,8 +512,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-915",
-      "ref": "N-915",
+      "@id": "N-298",
+      "ref": "N-298",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Interviewer in the Megyn Kelly clip artifact.",
@@ -527,7 +527,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-914"
+        "N-75"
       ]
     },
     {
@@ -576,9 +576,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-918",
-      "ref": "N-918",
-      "name": "Aubrey Lich",
+      "@id": "N-903",
+      "ref": "N-903",
+      "name": "Aubrey Lech",
       "type": "person",
       "description": "Former Turning Point USA employee; subject of recorded private investigator visit to her home.",
       "related_artifacts": [
@@ -615,7 +615,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-918"
+        "N-903"
       ]
     },
     {
@@ -639,9 +639,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-921",
-      "ref": "N-921",
-      "name": "Andrew Kolvet (also rendered \"Andrew Kolb\" in this episode)",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "Turning Point USA figure; posted \"Superman neck\" on X (post referenced, not displayed).",
       "related_artifacts": [
@@ -660,8 +660,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-922",
-      "ref": "N-922",
+      "@id": "N-364",
+      "ref": "N-364",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Referenced by host as recipient of an alleged false statement from Erika Kirk about Charlie's pre-death text messages.",
@@ -679,8 +679,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-923",
-      "ref": "N-923",
+      "@id": "N-65",
+      "ref": "N-65",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Referenced by host in connection with alleged Hamptons call and a cancelled Palm Beach filming session.",
@@ -698,9 +698,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-926",
-      "ref": "N-926",
-      "name": "Dr. Lee Trotter",
+      "@id": "N-281",
+      "ref": "N-281",
+      "name": "Lee Trotter",
       "type": "person",
       "description": "Surgeon; host alleges Erika initiated three-way call with Trotter and Andrew Kolvet on day of Charlie's funeral re: bullet trajectory.",
       "related_artifacts": [],
@@ -712,15 +712,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1012",
-        "N-921",
+        "N-42",
         "N-1576"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-933",
-      "ref": "N-933",
-      "name": "Marina Meanes",
+      "@id": "N-789",
+      "ref": "N-789",
+      "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Turning Point USA CMO; host references her questioning of Aubrey Lich regarding an Uber ride.",
       "related_artifacts": [],
@@ -731,7 +731,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-918"
+        "N-903"
       ]
     },
     {
@@ -839,16 +839,16 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1012",
-        "N-921",
-        "N-922",
-        "N-923",
-        "N-926"
+        "N-42",
+        "N-364",
+        "N-65",
+        "N-281"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-7",
-      "ref": "N-7",
+      "@id": "N-3",
+      "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
@@ -863,9 +863,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-85",
-      "ref": "N-85",
-      "name": "Governor Cox",
+      "@id": "N-70",
+      "ref": "N-70",
+      "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
       "related_artifacts": [],
@@ -877,7 +877,23 @@
       "investigative_pressure": "low",
       "related_nodes": []
     }
-  ],
+  ,
+      {
+        "@type": "Person",
+        "@id": "N-10002",
+        "ref": "N-10002",
+        "name": "Tyler Bowyer",
+        "type": "person",
+        "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
+        "related_artifacts": [],
+        "related_claims": [],
+        "tags": [],
+        "evidence_count": 1,
+        "claim_count": 1,
+        "episode_count": 1,
+        "investigative_pressure": "medium"
+      }
+    ],
   "claims": [
     {
       "@type": "Claim",
@@ -955,8 +971,10 @@
       "related_nodes": [
         "N-1",
         "N-1012",
-        "N-85"
-      ],
+        "N-70"
+      ,
+            "N-10002"
+          ],
       "tags": [],
       "claim_timestamp": "00:28:47",
       "investigative_direction": "Compare memorial account against contemporaneous text records between Bowyer and host."
@@ -973,7 +991,7 @@
       "related_nodes": [
         "N-1",
         "N-1012",
-        "N-85"
+        "N-70"
       ],
       "tags": [],
       "claim_timestamp": "00:29:35",
@@ -1007,8 +1025,8 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-7",
-        "N-914"
+        "N-3",
+        "N-75"
       ],
       "tags": [],
       "claim_timestamp": "00:19:06",
@@ -1025,7 +1043,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-914"
+        "N-75"
       ],
       "tags": [],
       "claim_timestamp": "00:21:00",
@@ -1041,8 +1059,8 @@
         "A-1768.1"
       ],
       "related_nodes": [
-        "N-7",
-        "N-914"
+        "N-3",
+        "N-75"
       ],
       "tags": [],
       "claim_timestamp": "00:20:45",
@@ -1058,8 +1076,8 @@
         "A-1768.1"
       ],
       "related_nodes": [
-        "N-7",
-        "N-914"
+        "N-3",
+        "N-75"
       ],
       "tags": [],
       "claim_timestamp": "00:20:02",
@@ -1093,7 +1111,7 @@
         "A-1771.1"
       ],
       "related_nodes": [
-        "N-918",
+        "N-903",
         "N-919"
       ],
       "tags": [],
@@ -1110,8 +1128,8 @@
         "A-1768.1"
       ],
       "related_nodes": [
-        "N-7",
-        "N-914"
+        "N-3",
+        "N-75"
       ],
       "tags": [],
       "claim_timestamp": "00:21:43",

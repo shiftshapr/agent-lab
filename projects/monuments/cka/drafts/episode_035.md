@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 1ad209fbac97054099e9ed002c95c5fad552959675fdc3534eced317ed9c4aab
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-423, N-424, N-425, N-426, N-427, N-428, N-429, N-430, N-431, N-1336, N-1337, N-1338, N-1339, N-1340
-  - Reused Nodes Appearing: N-1, N-1001
+  - New Nodes Introduced: N-423, N-424, N-426, N-427, N-429, N-430, N-431, N-1336, N-1337, N-1338, N-1339, N-1340
+  - Reused Nodes Appearing: N-1001
   - (see registers)
 
 # Episode Analysis: Monument Ep 35 / Candace Ep 268
@@ -62,7 +62,7 @@ Video Timestamp: 00:27:09–00:30:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-1, N-1001, N-429, N-430, N-431, N-85*
+*Related: N-1001, N-429, N-430, N-431, N-70*
 
 **A-1436.3** SUBTT 2022 flight pattern data — Nov 13, 2022 Cairo–Paris–Wichita–Wilmington–Cairo and Nov 17, 2022 Egypt–Wilmington (stay until Nov 20)
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:31:42–00:32:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1752, N-425, N-1338*
+*Related: C-1752, N-16, N-1338*
 
 **A-1442** Brian Harpole Interview Bundle
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:36:19–00:41:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1755, N-427, N-428*
+*Related: C-1755, N-427, N-205*
 
 **A-1444** Tim Pool Video Bundle
 
@@ -257,7 +257,7 @@ Investigative Pressure: Medium
 
 *Related: A-1442.1, A-1442.2, C-1753, C-1754, N-1338*
 
-**N-425** Frank Turk
+**N-16** Frank Turek
 
 TPUSA-affiliated individual who accompanied Charlie; Megan Kelly interview (A-1441.1) describing drones.
 
@@ -290,7 +290,7 @@ Investigative Pressure: Low
 
 *Related: A-1443.1, C-1755*
 
-**N-428** Theo Von
+**N-205** Theo Von
 
 Guest on Joe Rogan Experience; clip (A-1443.1) discussing conspiracies and Macron.
 
@@ -480,7 +480,7 @@ Claim: Frank Turk, on the Megan Kelly Show, stated that on the day of the event,
 
 Anchored Artifacts: A-1441.1
 
-Related Nodes: N-425, N-1338
+Related Nodes: N-16, N-1338
 
 Investigative Direction: Obtain the full Megan Kelly / Frank Turk interview clip and timestamp; confirm exact wording.
 
@@ -550,7 +550,7 @@ Claim: On The Joe Rogan Experience, Joe Rogan and Theo Von stated that conspirac
 
 Anchored Artifacts: A-1443.1
 
-Related Nodes: N-427, N-428
+Related Nodes: N-427, N-205
 
 Investigative Direction: Identify the specific Rogan episode by number and date; preserve timestamp of the cited segment.
 

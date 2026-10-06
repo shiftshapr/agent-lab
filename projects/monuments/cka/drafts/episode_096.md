@@ -8,7 +8,7 @@
 - **Source**: Candace Owens YouTube
 - **Video Timestamp Range**: 00:00:00–00:56:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
-- **Transcript SHA-256**: ddb0f4ac23cf1cdd04f2157e1d2bcbfc9e9c46ead8cd18de2e94ee528b53367e
+- **Transcript SHA-256**: b80f9093f2282419ffd666e804a85974657a8f4308c82ae5bfd6902b9b9bdcdf
 
 - **Episode Ledger Summary**:
   - (see registers)
@@ -30,7 +30,7 @@
 - Claim Range: C-2790–C-2809
   - New Nodes Introduced: N-1712, N-1713, N-1714, N-1715, N-1716, N-1717
   - Reused Nodes Appearing: 
-- Existing Nodes Reused: N-1, N-2, N-3, N-4, N-5, N-6, N-7, N-8, N-9, N-10, N-11, N-12, N-13, N-14, N-15, N-16, N-3, N-34, N-23, N-24, N-27, N-28, N-29, N-32, N-33, N-34, N-3, N-39
+- Existing Nodes Reused: N-1, N-2, N-3, N-4, N-5, N-6, N-3, N-8, N-9, N-10, N-11, N-12, N-13, N-14, N-15, N-16, N-34, N-23, N-24, N-27, N-28, N-29, N-32, N-33, N-34, N-39
 
 ---
 
@@ -130,7 +130,7 @@ Video Timestamp: 00:45:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2799, N-2, N-7, N-16, N-1714*
+*Related: C-2799, N-2, N-3, N-16, N-1714*
 
 **A-2009.4** Erika Kirk pre-recorded statement — claim that Candace Owens accused her of murdering her husband
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:43:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2800, N-1, N-15*
+*Related: C-2800, N-15*
 
 ## A-2011 Andrew Kolvet Text Message Bundle
 
@@ -357,6 +357,15 @@ Investigative Pressure: High
 
 ---
 
+**N-10017** Susie Wiles
+
+Node Type: Person
+White House chief of staff. Host questions her as a Kirk eulogist and names her in later Epstein-file meetings.
+
+*Related: C-2809*
+
+---
+
 # Claim Register
 
 **C-2790** Trump publicly criticized Candace Owens calling her "low IQ"
@@ -456,7 +465,7 @@ Claim Timestamp: 00:45:38
 Claim: In her pre-recorded statement, Erika Kirk criticized Jimmy Kimmel's joke about Melania Trump having "the glow of an expected widow."
 
 Anchored Artifacts: A-2009.3
-Related Nodes: N-2, N-7, N-16, N-1714
+Related Nodes: N-2, N-3, N-16, N-1714
 Investigative Direction: Verify Kimmel's original monologue; confirm Erika's quotation is accurate.
 
 **C-2800** Taro Farnsworth recorded video at Charlie Kirk shooting scene
@@ -466,7 +475,7 @@ Claim Timestamp: 00:43:54
 Claim: Taro Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds of the incident, stating "They just shot Charlie."
 
 Anchored Artifacts: A-2010.1
-Related Nodes: N-1, N-15
+Related Nodes: N-15
 Investigative Direction: Review the Farnsworth video; verify timestamp and original upload context; cross-reference with other scene footage.
 
 **C-2801** Andrew Kolvet presented a text message screenshot
@@ -582,7 +591,7 @@ Investigative Direction: Verify via medical records; the underlying photo is the
 
 # Optional Flags
 
-- **Name uncertainty**: "Caroline Levitt" appears in transcript at ~41:21; likely refers to White House Press Secretary Caroline Leavitt (N-33).
+- **Name uncertainty**: "Karoline Leavitt" appears in transcript at ~41:21; likely refers to White House Press Secretary Karoline Leavitt (N-33).
 - **Possible transcription error**: "Cole Allen" appears as the WHCD suspect name; verify spelling against official arrest records and court filings.
 - **Transcript ambiguity**: "Drewski" is name-dropped by Erika Kirk in the pre-recorded statement (~47:25); identity and relevance not clarified in the episode.
 - **Requires human verification**: Sarah Sidner's role as original recorder of the Erika Kirk clip (host explicitly states she could not confirm via Instagram, Twitter, or text outreach).

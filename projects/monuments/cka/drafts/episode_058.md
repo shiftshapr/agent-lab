@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: f2711e85e7a5dac6180d0330f718521458d116b136a35e9d84389c67776a7492
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-729, N-730, N-731, N-732, N-733, N-734, N-735, N-736, N-737, N-738, N-739, N-740, N-741, N-742, N-743, N-744, N-745, N-746, N-1488, N-1489, N-1490, N-1491, N-1492, N-1493, N-1494, N-1495
+  - New Nodes Introduced: N-729, N-730, N-731, N-733, N-734, N-735, N-736, N-737, N-738, N-739, N-741, N-742, N-744, N-1488, N-1489, N-1490, N-1491, N-1492, N-1493, N-1494, N-1495
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:36:23–00:39:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2118, N-732, N-1495*
+*Related: C-2118, N-293, N-1495*
 
 **A-1641.2** Nick Fuentes Follow-Up Clip Reframing Epstein Issue as "Political Blackmail" Rather Than Pedophilia
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:42:23–00:44:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2119, N-732, N-1495*
+*Related: C-2119, N-293, N-1495*
 
 ---
 
@@ -247,7 +247,7 @@ Investigative Pressure: Medium
 
 *Related: A-1638.1, C-2114, N-730, N-1492*
 
-**N-732** Nick Fuentes
+**N-293** Nick Fuentes
 
 Subject of episode segment two; on-air audio captures regarding Jeffrey Epstein / pedophilia framing.
 
@@ -256,7 +256,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1641.1, A-1641.2, C-2118, C-2119, N-740, N-741, N-1495*
+*Related: A-1641.1, A-1641.2, C-2118, C-2119, N-334, N-741, N-1495*
 
 **N-733** Don Frye
 
@@ -324,7 +324,7 @@ Investigative Pressure: Low
 
 *Related: A-1642.2, N-1493*
 
-**N-740** Milo Yiannopoulos
+**N-334** Milo Yiannopoulos
 
 Referenced as informer to Nick Fuentes the night before Jan 6 about alleged federal trap.
 
@@ -333,7 +333,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2123, N-732, N-1495*
+*Related: C-2123, N-293, N-1495*
 
 **N-741** Ferris Wilks
 
@@ -344,9 +344,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-2122, N-732, N-1495*
+*Related: C-2122, N-293, N-1495*
 
-**N-743** Marjorie Greene
+**N-204** Marjorie Taylor Greene
 
 Referenced in Fuentes clip re: framing of Epstein case as "female victims."
 
@@ -355,7 +355,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-732, N-1495*
+*Related: N-293, N-1495*
 
 **N-744** Nika
 
@@ -368,7 +368,7 @@ Investigative Pressure: Medium
 
 *Related: A-1642.1, C-2120, N-1493*
 
-**N-745** Baron Coleman
+**N-552** Baron Coleman
 
 Investigator cited as having done significant plane-tracking work.
 
@@ -379,7 +379,7 @@ Investigative Pressure: Medium
 
 *Related: A-1638.3, C-2117, N-1492*
 
-**N-746** Nellie "Mommy Sleuth" (Investigation Contributor)
+**N-413** Mommy Sleuth (Nellie)
 
 Anonymous reader credited with Courage House Nevada and plane-tracking research.
 
@@ -434,7 +434,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1640.1, C-2118, C-2119, N-730, N-746*
+*Related: A-1640.1, C-2118, C-2119, N-730, N-413*
 
 **N-1492** Buckman–TPUSA Donor Relationship Investigation
 
@@ -445,7 +445,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1638.1, A-1638.2, A-1638.3, C-2114, C-2115, C-2117, N-730, N-731, N-745, N-746*
+*Related: A-1638.1, A-1638.2, A-1638.3, C-2114, C-2115, C-2117, N-730, N-731, N-552, N-413*
 
 **N-1493** GATE / Gifted Education Program Investigation
 
@@ -478,7 +478,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1641.1, A-1641.2, C-2118, C-2119, C-2122, C-2123, N-732, N-740, N-741, N-743*
+*Related: A-1641.1, A-1641.2, C-2118, C-2119, C-2122, C-2123, N-293, N-334, N-741, N-204*
 
 ---
 
@@ -620,7 +620,7 @@ Claim: Baron Coleman and a "mommy sleuth" investigator reported that the plane f
 
 Anchored Artifacts: A-1638.3
 
-Related Nodes: N-2, N-745, N-746, N-1492
+Related Nodes: N-2, N-552, N-413, N-1492
 
 Investigative Direction: Obtain tail-number records and cross-reference flight logs (ADS-B / FlightAware) against donor locations.
 
@@ -634,7 +634,7 @@ Claim: In a clip aired on the episode, Nick Fuentes stated regarding Jeffrey Eps
 
 Anchored Artifacts: A-1641.1
 
-Related Nodes: N-732, N-1495
+Related Nodes: N-293, N-1495
 
 Investigative Direction: Obtain the unedited source clip with timestamp and channel identification to verify wording and context.
 
@@ -648,7 +648,7 @@ Claim: In a follow-up clip aired on the episode, Nick Fuentes stated the Epstein
 
 Anchored Artifacts: A-1641.2
 
-Related Nodes: N-732, N-1495
+Related Nodes: N-293, N-1495
 
 Investigative Direction: Obtain unedited source clip and verify the framing in the original Fuentes broadcast context.
 

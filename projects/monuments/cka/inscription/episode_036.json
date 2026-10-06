@@ -3,14 +3,14 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 36,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
     "video_timestamp_range": "00:00:00–00:56:29",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
-    "transcript_sha256": "a89218d4d04a2df3f8e04c4fe335c3db1d4678833ce6a2ff96d09fa4d7c3d362",
+    "transcript_sha256": "270e4d6bd7c7e45e5b54085cd242a98cd8703f80aa479f990d94ccfcff20d864",
     "analysis_date": "2026-09-27"
   },
   "executive_summary": "Episode 36 combines (a) host's reconstruction of a multi-month timeline linking the Macron investigation to events surrounding the Charlie Kirk assassination, much of which is host narration referencing prior-episode material, with (b) four distinct artifact-anchored evidentiary segments presented in this episode. The artifact-anchored material consists of: (1) a displayed text exchange between host and Charlie Kirk from February 24–25, 2025 documenting White House and POTUS-side contact regarding the Macron topic; (2) a displayed internal legal-team communication from July 27, 2025 analyzing Delaware jurisdictional defects in the Macron lawsuit; (3) an audio/video clip from Brian Harpole's appearance on the Shawn Ryan show in which he read aloud text messages between Dan Flood and UVU Police Chief Jeff Long about student roof access, presented in a manner the host asserts was misrepresentative; and (4) a KUTV investigative report documenting that Washington County Sheriff's office states Tyler Robinson surveillance footage is no longer available, citing a 30-day retention period. A Tucker Carlson speech clip from the July 18 Turning Point event is also played. The episode does not present new primary artifacts supporting the bulk of the host's broader timeline claims about the Satis hanger, the Egyptian plane schedule, the foreign-dignitary transfer, the MK Ultra / Stanford line of investigation, or the phone calls with Andrew Kovette and the unnamed CIA-contractor spouse; these are preserved as host assertions and excluded from the Claim Register per the admission test.\n\n---",
@@ -86,10 +86,10 @@
             "C-1762"
           ],
           "related_nodes": [
-            "N-433",
+            "N-424",
             "N-434",
             "N-435",
-            "N-436",
+            "N-344",
             "N-1343"
           ],
           "tags": [],
@@ -117,7 +117,7 @@
             "C-1763"
           ],
           "related_nodes": [
-            "N-433",
+            "N-424",
             "N-434",
             "N-435",
             "N-1343"
@@ -188,8 +188,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-433",
-      "ref": "N-433",
+      "@id": "N-424",
+      "ref": "N-424",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Turning Point USA head of security; appeared on Shawn Ryan show and is alleged by host to have misrepresented the provenance of text messages read during that interview.",
@@ -255,8 +255,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-436",
-      "ref": "N-436",
+      "@id": "N-344",
+      "ref": "N-344",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Host of the interview platform on which Brian Harpole appeared; identified by host as having \"got played\" by the Harpole appearance.",
@@ -270,7 +270,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-433"
+        "N-424"
       ]
     },
     {
@@ -366,7 +366,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-433",
+        "N-424",
         "N-434",
         "N-435"
       ]
@@ -391,7 +391,7 @@
       "@type": "Person",
       "@id": "N-3",
       "ref": "N-3",
-      "name": "Candace Owens — host; existing node reused.",
+      "name": "Candace Owens",
       "type": "person",
       "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
       "related_artifacts": [],
@@ -469,10 +469,10 @@
         "A-1448.1"
       ],
       "related_nodes": [
-        "N-433",
+        "N-424",
         "N-434",
         "N-435",
-        "N-436",
+        "N-344",
         "N-1343"
       ],
       "tags": [],

@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 65,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -590,8 +590,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-803",
-      "ref": "N-803",
+      "@id": "N-45",
+      "ref": "N-45",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pastor at Calvary Chapel (per host). Host claims he was purportedly close to Charlie Kirk but that Charlie \"couldn't stand him toward the end.\" Host also claims his father ran psychological operations for the Navy. (Host claim about father is host opinion — not artifact-backed in this episode.)",
@@ -608,8 +608,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-805",
-      "ref": "N-805",
+      "@id": "N-298",
+      "ref": "N-298",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Interviewer; host of the show where Youssef displayed the casualty chart cited in A-1690.1.",
@@ -698,7 +698,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-798",
-        "N-805"
+        "N-298"
       ]
     },
     {
@@ -941,7 +941,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-803"
+        "N-45"
       ]
     }
   ],
@@ -957,7 +957,7 @@
       ],
       "related_nodes": [
         "N-798",
-        "N-805",
+        "N-298",
         "N-1524",
         "N-804"
       ],
@@ -1029,7 +1029,7 @@
         "N-1522",
         "N-1528",
         "N-1535",
-        "N-803"
+        "N-45"
       ],
       "tags": [],
       "claim_timestamp": "01:23:21",

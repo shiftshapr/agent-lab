@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 29,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -82,7 +82,7 @@
             "C-1654"
           ],
           "related_nodes": [
-            "N-368"
+            "N-16"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -217,7 +217,7 @@
             "C-1659"
           ],
           "related_nodes": [
-            "N-369"
+            "N-67"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -295,7 +295,7 @@
             "C-1662"
           ],
           "related_nodes": [
-            "N-372"
+            "N-349"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -322,7 +322,7 @@
           ],
           "related_nodes": [
             "N-374",
-            "N-375"
+            "N-50"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -520,8 +520,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-368",
-      "ref": "N-368",
+      "@id": "N-16",
+      "ref": "N-16",
       "name": "Frank Turek",
       "type": "person",
       "description": "Christian apologist whose audio clip on NAR was played in the episode.",
@@ -539,8 +539,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-369",
-      "ref": "N-369",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Seth Dillon",
       "type": "person",
       "description": "Babylon Bee principal whose tweet quoting Matthew 16:26 was read aloud in the episode.",
@@ -596,8 +596,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-372",
-      "ref": "N-372",
+      "@id": "N-349",
+      "ref": "N-349",
       "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Commentator whose audio clip warning against asking questions without \"hard evidence\" was played in the episode.",
@@ -653,8 +653,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-375",
-      "ref": "N-375",
+      "@id": "N-50",
+      "ref": "N-50",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Host identified as the sender of the debate-offer text message to Mark Levin and central subject of the Levin's on-air rebuttal.",
@@ -837,7 +837,7 @@
         "A-1366.1"
       ],
       "related_nodes": [
-        "N-368"
+        "N-16"
       ],
       "tags": [],
       "claim_timestamp": "00:18:06–00:18:30",
@@ -922,7 +922,7 @@
         "A-1371.1"
       ],
       "related_nodes": [
-        "N-369"
+        "N-67"
       ],
       "tags": [],
       "claim_timestamp": "00:28:07",
@@ -970,7 +970,7 @@
         "A-1374.1"
       ],
       "related_nodes": [
-        "N-372"
+        "N-349"
       ],
       "tags": [],
       "claim_timestamp": "00:33:55–00:34:48",
@@ -987,7 +987,7 @@
       ],
       "related_nodes": [
         "N-374",
-        "N-375"
+        "N-50"
       ],
       "tags": [],
       "claim_timestamp": "00:39:10–00:41:45",

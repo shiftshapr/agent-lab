@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: e4286a0b61383af611c043d024b0489af5ef017ef3077d05883a51910942c352
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-226, N-227, N-228, N-229, N-231, N-232, N-233, N-234, N-235, N-236, N-237, N-238, N-239, N-240, N-241, N-242, N-243, N-245, N-1240, N-1241, N-1242, N-1243, N-1244, N-1245
+  - New Nodes Introduced: N-226, N-227, N-228, N-229, N-231, N-233, N-235, N-237, N-238, N-242, N-243, N-245, N-1240, N-1241, N-1242, N-1243, N-1244, N-1245
   - Reused Nodes Appearing: 
 
 **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk — referenced via text-message claims), N-? (Candace Owens), N-? (Tucker Carlson), N-? (Tyler Robinson), N-? (Benjamin Netanyahu), N-? (Megyn Kelly), N-? (Matt Gaetz), N-? (Michael Knowles), N-? (Ian Carroll), N-? (Max Blumenthal)
@@ -155,7 +155,7 @@ Video Timestamp: 00:20:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played in episode with full transcriptable quote)
 
-*Related: C-1411, C-1412, C-1414, N-42, N-243, N-1, N-1244, N-240*
+*Related: C-1411, C-1412, C-1414, N-42, N-243, N-1244, N-72*
 
 ---
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:29:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played with verbatim quotes)
 
-*Related: C-1413, C-1414, C-1416, N-229, N-1, N-1244*
+*Related: C-1413, C-1414, C-1416, N-229, N-1244*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:53:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played with verbatim quotes)
 
-*Related: C-1416, C-1417, N-232, N-233, N-42 (Candace), N-? (Max Blumenthal), N-? (Tate brothers), N-? (Tucker Carlson), N-1242*
+*Related: C-1416, C-1417, N-128, N-233, N-42 (Candace), N-? (Max Blumenthal), N-? (Tate brothers), N-? (Tucker Carlson), N-1242*
 
 ---
 
@@ -338,7 +338,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1243.1, C-1413, C-1414, C-1416, N-1, N-1244*
+*Related: A-1243.1, C-1413, C-1414, C-1416, N-1244*
 
 ---
 
@@ -357,7 +357,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-232** Alex Jones
+**N-128** Alex Jones
 
 Host; audio in A-1246.1 confirms and elaborates the kill-switch narrative.
 
@@ -383,7 +383,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-234** Kanye West
+**N-56** Kanye West
 
 Referenced in host's kill-switch framing as a precursor who "violated contracts" to free his voice.
 
@@ -422,7 +422,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-236** Laura Loomer
+**N-91** Laura Loomer
 
 Referenced in closing sponsorship-style segment as having a parody/cartoon antagonist role.
 
@@ -431,7 +431,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1424, N-7*
+*Related: C-1424, N-3*
 
 ---
 
@@ -463,7 +463,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-239** Seth Dillon
+**N-67** Seth Dillon
 
 Per host attribution, more vocal than Josh Hammer in pressing Charlie at the Hamptons meeting. Reference not artifact-anchored in this episode (recounted as host narrative only); node created for cross-episode continuity.
 
@@ -476,7 +476,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-240** Michael Savage
+**N-72** Michael Savage
 
 Referenced by Alex Jones (A-1246.1) as having said "I hope Mossad doesn't kill me" during a show break prior to Charlie's assassination.
 
@@ -485,11 +485,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1246.1, N-232*
+*Related: A-1246.1, N-128*
 
 ---
 
-**N-241** Dave Smith
+**N-68** Dave Smith
 
 Listed by Alex Jones as a kill-switch recipient (A-1246.1).
 
@@ -565,7 +565,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1246.1, C-1416, C-1417, N-232, N-233, N-234, N-241, N-242*
+*Related: A-1246.1, C-1416, C-1417, N-128, N-233, N-56, N-68, N-242*
 
 ---
 
@@ -593,7 +593,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1242.1, A-1243.1, N-42, N-229, N-239*
+*Related: A-1242.1, A-1243.1, N-42, N-229, N-67*
 
 ---
 
@@ -607,6 +607,15 @@ Episode Count: 1
 Investigative Pressure: Low
 
 *Related: A-1237.1, A-1238.1, C-1406, N-42, N-226, N-227*
+
+---
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-1421, C-1424*
 
 ---
 
@@ -671,7 +680,7 @@ Claim Timestamp: 00:09:35
 Claim: In his media appearance with host Gabriel discussing the Iryna Zhuravska case, Hammer discussed criminal justice standards, media coverage double-standards, and safety — but did not call for or reference the death penalty.
 
 Anchored Artifacts: A-1250.1
-Related Nodes: N-42, N-227, N-236, N-245
+Related Nodes: N-42, N-227, N-91, N-245
 
 Investigative Direction: Verify the full segment transcript and any accompanying written material Hammer posted in that window.
 
@@ -710,7 +719,7 @@ Claim Timestamp: 00:20:50
 Claim: Josh Hammer's first X post following the announcement of Charlie Kirk's death included a claim that Charlie had told him during their last call that he would plug Hammer's book on his campus tour.
 
 Anchored Artifacts: A-1241.1
-Related Nodes: N-42, N-1, N-1243
+Related Nodes: N-42, N-1243
 
 Investigative Direction: Cross-check with post timestamp against major news outlets' confirmation-of-death timestamps.
 
@@ -723,7 +732,7 @@ Claim Timestamp: 00:22:12
 Claim: On JTV (in interview with host Ali), Josh Hammer stated that Charlie Kirk's last words to him referenced his intent to plug Hammer's book "Israel and Civilization" in response to Israel-related questions on the campus tour.
 
 Anchored Artifacts: A-1242.1
-Related Nodes: N-42, N-243, N-1, N-1243, N-1244
+Related Nodes: N-42, N-243, N-1243, N-1244
 
 Investigative Direction: Verify full JTV segment; corroborate against any Hamptons-meeting or post-call text-chain documentation.
 
@@ -736,7 +745,7 @@ Claim Timestamp: 00:29:05
 Claim: In his post-assassination interview, Rabbi Pesach Wolicki stated that Charlie Kirk "certainly had some disagreements with Israeli policy and he criticized Israel where he felt appropriate" and that there were "people around him in the America First movement who were actively working on him to try to get him to turn on Israel."
 
 Anchored Artifacts: A-1243.1
-Related Nodes: N-229, N-1, N-1244
+Related Nodes: N-229, N-1244
 
 Investigative Direction: Verify full Wolicki interview; obtain unedited transcript.
 
@@ -749,7 +758,7 @@ Claim Timestamp: 00:30:17
 Claim: Wolicki stated the pre-assassination meeting was called by Charlie, was on the schedule for weeks, and was for the purpose of preparing Israel-related talking points for Charlie's new campus tour starting in Utah.
 
 Anchored Artifacts: A-1243.1
-Related Nodes: N-229, N-1, N-1244
+Related Nodes: N-229, N-1244
 
 Investigative Direction: Verify full Wolicki interview; cross-check with documented calendar entries and Zoom records.
 
@@ -775,7 +784,7 @@ Claim Timestamp: 00:53:36
 Claim: Alex Jones, on his show, confirmed that Candace Owens sent a "dead man's switch" / "kill switch" data package to multiple recipients including Max Blumenthal, Tucker Carlson, the Tate brothers, and Dave Smith.
 
 Anchored Artifacts: A-1246.1
-Related Nodes: N-232, N-233, N-241, N-242, N-1242, N-? (Tucker Carlson), N-? (Max Blumenthal), N-? (Candace Owens)
+Related Nodes: N-128, N-233, N-68, N-242, N-1242, N-? (Tucker Carlson), N-? (Max Blumenthal), N-? (Candace Owens)
 
 Investigative Direction: Verify the recipients directly with named individuals; verify the contents of the package.
 
@@ -788,7 +797,7 @@ Claim Timestamp: 00:54:36
 Claim: Alex Jones cited James O'Keefe's dead-man-switch disclosure in the Prince Andrew case as a comparable precedent for the danger and effectiveness of Candace's kill switch.
 
 Anchored Artifacts: A-1246.1
-Related Nodes: N-232, N-233, N-1242
+Related Nodes: N-128, N-233, N-1242
 
 Investigative Direction: Verify O'Keefe's actual mechanism; obtain O'Keefe's primary disclosure.
 
@@ -840,7 +849,7 @@ Claim Timestamp: 00:07:54
 Claim: Tyler Bowyer posted accusatory content on X, calling people names rather than addressing substantive questions.
 
 Anchored Artifacts: None (host narrative reference; not anchored in this episode)
-Related Nodes: N-85
+Related Nodes: N-70, N-10002
 
 Investigative Direction: Capture and verify direct screenshots of Bowyer's X posts.
 
@@ -886,7 +895,7 @@ Claim: Host references Laura Loomer in closing remarks (parody/cartoon antagonis
 
 Anchored Artifacts: A-1245.1
 
-Related Nodes: N-236, N-7
+Related Nodes: N-91, N-3
 
 Investigative Direction: Locate exact closing-segment timestamp and any on-screen graphic.
 
@@ -904,7 +913,7 @@ Cross-references are embedded in each artifact, claim, and node entry above. Net
 - **Last-call narrative cluster:** A-1241.1 ↔ A-1242.1 ↔ A-1243.1 → C-1411, C-1412, C-1413, C-1414 ↔ N-42 ↔ N-229 ↔ N-1 ↔ N-1243 ↔ N-1244 (note: artifact-backed contradiction between JTV narrative and Wolicki narrative on Charlie's direction of travel; both audio-anchored)
 - **Memorial analogy:** A-1244.1 ↔ C-1407
 - **External attack:** A-1245.1, A-1245.2 ↔ C-1415 ↔ N-235, N-238
-- **Kill switch confirmation:** A-1246.1 ↔ C-1416 ↔ C-1417 ↔ N-232 ↔ N-233 ↔ N-241 ↔ N-242 ↔ N-1242
+- **Kill switch confirmation:** A-1246.1 ↔ C-1416 ↔ C-1417 ↔ N-128 ↔ N-233 ↔ N-68 ↔ N-242 ↔ N-1242
 - **Comic relief artifact (non-evidentiary):** A-1247.1 ↔ C-1417 ↔ N-231
 - **UVU APB cluster (un-anchored):** N-1241 ↔ C-1422 ↔ C-1423
 - **Un-anchored Charlie-text-cluster:** N-1243 (artifact verbally referenced but not shown)

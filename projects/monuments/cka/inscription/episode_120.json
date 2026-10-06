@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 120,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -654,7 +654,7 @@
       "@type": "Person",
       "@id": "N-3",
       "ref": "N-3",
-      "name": "Candace Owens — host; existing node reused.",
+      "name": "Candace Owens",
       "type": "person",
       "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
       "related_artifacts": [],

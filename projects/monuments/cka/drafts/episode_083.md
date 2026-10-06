@@ -328,6 +328,15 @@ Investigative Pressure: High
 
 ---
 
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: prose mention in episode*
+
+---
+
 # Claim Register
 
 **C-2560** Frank Turek Estimated Erica Kirk Arrived at Hospital Around 4:00 p.m.

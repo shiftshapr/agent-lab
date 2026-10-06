@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 9206e4edc77e48ae3eeb53cccbdeaa31474f55c3c4251722fc813b659bce0c5e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-890, N-891, N-892, N-893, N-894, N-895, N-896, N-897, N-898, N-899, N-900, N-901, N-902, N-1556, N-1557, N-1558, N-1559, N-1560, N-1561, N-1562
+  - New Nodes Introduced: N-890, N-892, N-893, N-894, N-897, N-898, N-901, N-902, N-1556, N-1557, N-1558, N-1559, N-1560, N-1561, N-1562
   - Reused Nodes Appearing: N-1011
   - (see registers)
 
@@ -29,7 +29,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1738, A-1739, A-1740, A-1741, A-1742, A-1743
   - Claim Range: C-2298–C-2311
-  - New Nodes Introduced (people): N-890, N-891, N-892, N-893, N-894, N-895, N-896, N-897, N-898, N-899, N-900, N-901
+  - New Nodes Introduced (people): N-890, N-892, N-893, N-894, N-897, N-898, N-901
   - New Nodes Introduced (investigation targets): N-1556, N-1557, N-1558, N-1559
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-1011 (Erica Kirk)
 
@@ -59,7 +59,7 @@ Confidence Level: Medium (text read aloud by host)
 
 *Display/Read content: "The 23 and me kits arrived and will be delivered to Woody and Suni to their home today."*
 
-*Related: C-2298, N-896 (Epstein), N-897 (Woody Allen)*
+*Related: C-2298, N-35 (Epstein), N-897 (Woody Allen)*
 
 **A-1738.2** Epstein email to "Sultan" re: James Miller / 9E71st Street shipping
 
@@ -71,7 +71,7 @@ Confidence Level: Medium
 
 *Display/Read content: "Hi, Sultan. Can you please tell me who James Miller is? He is who you have built to. Also, do I understand the shipping address is Jeffrey's home at 9E71st Street."*
 
-*Related: C-2299, N-896 (Epstein)*
+*Related: C-2299, N-35 (Epstein)*
 
 ---
 
@@ -87,7 +87,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: Book of Enoch; 200 fallen angels (Watchers) landing at Mount Hermon, southern Lebanon; topographic outline resembling a goat; Aazil/goat association in Leviticus 16; David Flynn research; coordinate 33.33°N × 33.33°E from Paris prime meridian; "devil's line."*
 
-*Related: C-2300, C-2311, N-891 (Robkea), N-894 (David Flynn), N-1560 (Mount Hermon 33.33 Coordinate Investigation)*
+*Related: C-2300, C-2311, N-885 (Robkea), N-894 (David Flynn), N-1560 (Mount Hermon 33.33 Coordinate Investigation)*
 
 **A-1739.2** Robkea segment on Gilgamesh / CERN / 666
 
@@ -99,7 +99,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: Gilgamesh as 1/3 man and 2/3 God (33.33% / 66.6%); carbon molecule 6/6/6 → "666"; CERN Hadron Collider stated goal of recreating Big Bang; CERN logo resembling three 6s; Shiva statue at CERN.*
 
-*Related: C-2301, C-2311, N-891 (Robkea)*
+*Related: C-2301, C-2311, N-885 (Robkea)*
 
 ---
 
@@ -175,7 +175,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: Recommendation of jmail.world as a Gmail-style interface for viewing Epstein files.*
 
-*Related: C-2308, N-896 (Epstein)*
+*Related: C-2308, N-35 (Epstein)*
 
 **A-1743.3** Tatiana comment re: "end human fight" / eternal flesh generation
 
@@ -187,7 +187,7 @@ Confidence Level: Medium (host flags possible typo)
 
 *Display/Read content: "Am I the only one who thinks that this generation will live eternal in flesh and that's why end human fight is all about?"*
 
-*Related: C-2309, N-899 (Sigmund Freud — referenced in host response)*
+*Related: C-2309, N-80 (Sigmund Freud — referenced in host response)*
 
 **A-1743.4** Angie comment addressed to "Ben" / "Benjamin"
 
@@ -211,7 +211,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Fully believe the CO tests were just to collect DNA. That's why it doesn't matter if they were accurate. Also, maybe the collecting of DNA is to find Nimrod's descendants."*
 
-*Related: C-2311, N-891 (Robkea), N-1562 (COVID Test DNA Collection Hypothesis)*
+*Related: C-2311, N-885 (Robkea), N-1562 (COVID Test DNA Collection Hypothesis)*
 
 **A-1743.6** Bobby comment re: Satan as counterfeiter
 
@@ -223,7 +223,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Satan is the great counterfeitterter. He has never nor can he ever create anything. That is why he hates God so much."*
 
-*Related: C-2312, N-899 (Sigmund Freud — host's elaboration)*
+*Related: C-2312, N-80 (Sigmund Freud — host's elaboration)*
 
 **A-1743.7** American Jetet comment re: Rob / Babylonian ascension
 
@@ -235,7 +235,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Rob was amazing and I'm so glad that you found his work. We are in a battle um thousands of years long and it is all about the Babylonian ascension."*
 
-*Related: C-2313, N-891 (Robkea)*
+*Related: C-2313, N-885 (Robkea)*
 
 ---
 
@@ -270,7 +270,7 @@ Investigative Pressure: High
 
 *Related: A-1741.1, C-2304, C-2305, N-1011 (Erica Kirk), N-1556, N-1557*
 
-**N-891** Robkea
+**N-885** Robkea
 
 Lecturer whose "Babylon Rising" speech is played at length in this episode; posits Tower of Babel as technology, Mount Hermon at 33.33°N 33.33°E as fallen-angel landing site, Gilgamesh/Nimrod identification, and CERN/666 symbolism. Host reports an email from the lecturer's son thanking her.
 
@@ -312,9 +312,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, N-891 (Robkea), N-1560*
+*Related: A-1739.1, N-885 (Robkea), N-1560*
 
-**N-895** Lorie Fonfe
+**N-783** Lori Frantzve
 
 Erica Kirk's mother, identified by host as the person Erika was reportedly with on September 10. Host now disputes this alibi.
 
@@ -325,7 +325,7 @@ Investigative Pressure: Medium
 
 *Related: N-1011 (Erica Kirk), N-1556, N-890 (Tracy Martin)*
 
-**N-896** Jeffrey Epstein
+**N-35** Jeffrey Epstein
 
 Author of the 23andMe-kit emails cited in this episode; central subject of the broader files release.
 
@@ -345,7 +345,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1738.1, N-896 (Epstein)*
+*Related: A-1738.1, N-35 (Epstein)*
 
 **N-898** Emmanuel Macron
 
@@ -356,9 +356,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1742.1, C-2306, N-896 (Epstein)*
+*Related: A-1742.1, C-2306, N-35 (Epstein)*
 
-**N-899** Sigmund Freud (rendered by host as "Sigman Freud")
+**N-80** Sigmund Freud
 
 Recurring host reference; presented as the originator of the "science-as-religion-mask" thesis cited in connection with COVID testing and 23andMe.
 
@@ -367,9 +367,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1743.3, A-1743.6, C-2309, C-2312, N-891 (Robkea)*
+*Related: A-1743.3, A-1743.6, C-2309, C-2312, N-885 (Robkea)*
 
-**N-900** Rob McCoy
+**N-45** Rob McCoy
 
 Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.
 
@@ -402,7 +402,7 @@ Claim Count: 0 (this episode's alibi claim fails admission test; not inscribed)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1741.1, N-1011 (Erica Kirk), N-890 (Tracy Martin), N-895 (Lorie Fonfe)*
+*Related: A-1741.1, N-1011 (Erica Kirk), N-890 (Tracy Martin), N-783 (Lorie Fonfe)*
 
 **N-1557** Tracy Martin Background and Husband Verification
 
@@ -424,7 +424,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-890 (Tracy Martin), N-900 (Rob McCoy), N-901 (Pastor Luke)*
+*Related: N-890 (Tracy Martin), N-45 (Rob McCoy), N-901 (Pastor Luke)*
 
 **N-1559** Egyptian Plane Communication Investigation
 
@@ -446,7 +446,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, N-891 (Robkea), N-894 (David Flynn)*
+*Related: A-1739.1, N-885 (Robkea), N-894 (David Flynn)*
 
 **N-1561** Gilgamesh Remains DNA Extraction Claim
 
@@ -468,7 +468,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1743.5, N-891 (Robkea), N-899 (Sigmund Freud)*
+*Related: A-1743.5, N-885 (Robkea), N-80 (Sigmund Freud)*
 
 ---
 
@@ -482,7 +482,7 @@ Claim: A Jeffrey Epstein-authored email states that 23andMe kits had arrived and
 
 Anchored Artifacts: A-1738.1
 
-Related Nodes: N-896 (Epstein), N-897 (Woody Allen), N-901
+Related Nodes: N-35 (Epstein), N-897 (Woody Allen), N-901
 
 Investigative Direction: Locate the email within the public Epstein files (jmail.world or DOJ releases) to verify recipient identity, date, and full text.
 
@@ -496,7 +496,7 @@ Claim: An Epstein email to "Sultan" asks who "James Miller" is, asserts that Mil
 
 Anchored Artifacts: A-1738.2
 
-Related Nodes: N-896 (Epstein)
+Related Nodes: N-35 (Epstein)
 
 Investigative Direction: Identify the redacted recipient "Sultan" within the Epstein files; cross-reference 9E71st Street as Epstein's New York residence; locate full email chain.
 
@@ -510,7 +510,7 @@ Claim: In a lecture clip, Robkea states that the Book of Enoch identifies 200 Wa
 
 Anchored Artifacts: A-1739.1
 
-Related Nodes: N-891 (Robkea), N-894 (David Flynn), N-1560 (Mount Hermon 33.33° Coordinate Investigation), N-900
+Related Nodes: N-885 (Robkea), N-894 (David Flynn), N-1560 (Mount Hermon 33.33° Coordinate Investigation), N-45
 
 Investigative Direction: Verify David Flynn's published coordinate claim independently; cross-check Book of Enoch references to Mount Hermon (Hermon vs. alternate spellings).
 
@@ -524,7 +524,7 @@ Claim: Robkea states that Gilgamesh was described as two-thirds God and one-thir
 
 Anchored Artifacts: A-1739.2
 
-Related Nodes: N-891 (Robkea)
+Related Nodes: N-885 (Robkea)
 
 Investigative Direction: Verify Epic of Gilgamesh text on divine/mortal proportions; confirm CERN logo design and Shiva statue presence at the facility.
 
@@ -594,7 +594,7 @@ Claim: The host states she has reviewed text chains discussing "Mcronone's boyfr
 
 Anchored Artifacts: A-1742.1
 
-Related Nodes: N-898 (Emmanuel Macron), N-896 (Epstein)
+Related Nodes: N-898 (Emmanuel Macron), N-35 (Epstein)
 
 Investigative Direction: Locate the specific text chain and photo within public Epstein files; verify any reference to Macron and an unnamed partner.
 
@@ -622,7 +622,7 @@ Claim: A viewer comment (Moderator Marzy) recommends jmail.world as a tool for v
 
 Anchored Artifacts: A-1743.2
 
-Related Nodes: N-896 (Epstein)
+Related Nodes: N-35 (Epstein)
 
 Investigative Direction: Verify the jmail.world site's data source, accuracy of file ingestion, and independent corroboration against DOJ or court-sealed versions.
 
@@ -636,7 +636,7 @@ Claim: A viewer comment (Tatiana) posits that the current generation will live e
 
 Anchored Artifacts: A-1743.3
 
-Related Nodes: N-899 (Sigmund Freud)
+Related Nodes: N-80 (Sigmund Freud)
 
 Investigative Direction: Ascertain Tatiana's intended phrase; assess consistency with host's prior transhumanism / Nimrod-resurrection framing.
 
@@ -664,7 +664,7 @@ Claim: A viewer comment (AZ Masterbaker) asserts that COVID tests were conducted
 
 Anchored Artifacts: A-1743.5
 
-Related Nodes: N-891 (Robkea), N-1562 (COVID Test DNA Collection Hypothesis)
+Related Nodes: N-885 (Robkea), N-1562 (COVID Test DNA Collection Hypothesis)
 
 Investigative Direction: Examine whether COVID PCR / antigen test protocols involved any sample retention for purposes beyond diagnosis; assess whether Nimrod-descendant tracking has any documentary basis.
 
@@ -678,7 +678,7 @@ Claim: A viewer comment (Bobby) states that Satan "has never nor can he ever cre
 
 Anchored Artifacts: A-1743.6
 
-Related Nodes: N-899 (Sigmund Freud)
+Related Nodes: N-80 (Sigmund Freud)
 
 Investigative Direction: This is theological commentary; no factual verification pathway beyond documenting the host-viewer framing alignment.
 
@@ -692,7 +692,7 @@ Claim: A viewer comment (American Jetet) endorses Robkea's work and frames the u
 
 Anchored Artifacts: A-1743.7
 
-Related Nodes: N-891 (Robkea)
+Related Nodes: N-885 (Robkea)
 
 Investigative Direction: Document the convergence of host and viewer framing; assess whether "Babylonian ascension" originates with Robkea, Flynn, or earlier esoteric sources.
 

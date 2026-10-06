@@ -33,7 +33,7 @@
   - Claim Range: C-2581–C-2608
   - New People Nodes Introduced: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215
   - New Investigation Target Nodes Introduced: N-1639, N-1640, N-1641
-  - Existing Nodes Reused: N-1, N-2, N-7
+  - Existing Nodes Reused: N-1, N-2, N-3
 
 ---
 
@@ -101,7 +101,7 @@ Video Timestamp: 00:14:38–00:15:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2594, N-7, N-1640*
+*Related: C-2594, N-3, N-1640*
 
 ---
 
@@ -534,7 +534,7 @@ Claim Timestamp: 00:15:25
 Claim: In a November 2025 tweet, Candace Owens stated she had a source inside the French government who told her the French intervention group was involved in the assassination, and that Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement.
 
 Anchored Artifacts: A-1906.1
-Related Nodes: N-7, N-1640
+Related Nodes: N-3, N-1640
 Investigative Direction: Locate the original tweet and any subsequent corroboration or denial.
 
 ---

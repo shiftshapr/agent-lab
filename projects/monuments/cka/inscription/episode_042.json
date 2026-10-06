@@ -3,7 +3,7 @@
   "@type": "EpisodeAnalysis",
   "meta": {
     "episode": 42,
-    "series": "Bride of Charlie",
+    "series": "Candace Kirk Archive",
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
@@ -32,7 +32,7 @@
           ],
           "related_nodes": [
             "N-494",
-            "N-487",
+            "N-224",
             "N-1",
             "N-1002",
             "N-1384"
@@ -55,7 +55,7 @@
             "C-1841"
           ],
           "related_nodes": [
-            "N-487",
+            "N-224",
             "N-1002",
             "N-1",
             "N-1384"
@@ -84,7 +84,7 @@
             "C-1842"
           ],
           "related_nodes": [
-            "N-487",
+            "N-224",
             "N-1384",
             "N-1002"
           ],
@@ -112,7 +112,7 @@
             "C-1843"
           ],
           "related_nodes": [
-            "N-489",
+            "N-481",
             "N-1",
             "N-1002"
           ],
@@ -293,7 +293,7 @@
             "C-1854"
           ],
           "related_nodes": [
-            "N-487",
+            "N-224",
             "N-1384"
           ],
           "tags": [],
@@ -547,9 +547,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-487",
-      "ref": "N-487",
-      "name": "Blake Nef",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Blake Neff",
       "type": "person",
       "description": "TPUSA spokesperson featured in artifact-anchored audio segment and X post.",
       "related_artifacts": [
@@ -575,9 +575,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-488",
-      "ref": "N-488",
-      "name": "Andrew Kovat",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA figure referenced in connection with the live stream; spelling varies in transcript (\"Andrew Kovat,\" \"Andrew Kovette,\" \"Andrew Kovac\") — see Optional Flags.",
       "related_artifacts": [
@@ -591,15 +591,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-487",
+        "N-224",
         "N-1384"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-489",
-      "ref": "N-489",
-      "name": "The Game (rapper)",
+      "@id": "N-481",
+      "ref": "N-481",
+      "name": "The Game",
       "type": "person",
       "description": "Recording artist whose track \"The Assassination of Candace Owens\" is presented in the episode.",
       "related_artifacts": [
@@ -729,7 +729,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-487",
+        "N-224",
         "N-1384"
       ]
     },
@@ -823,8 +823,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-487",
-        "N-488",
+        "N-224",
+        "N-42",
         "N-494",
         "N-1002"
       ]
@@ -884,7 +884,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-487",
+        "N-224",
         "N-1002",
         "N-1",
         "N-1384",
@@ -905,7 +905,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-487",
+        "N-224",
         "N-1384",
         "N-1002"
       ],
@@ -923,7 +923,7 @@
         "A-1502.1"
       ],
       "related_nodes": [
-        "N-487",
+        "N-224",
         "N-1384",
         "N-1002"
       ],
@@ -941,7 +941,7 @@
         "A-1503.1"
       ],
       "related_nodes": [
-        "N-489",
+        "N-481",
         "N-1"
       ],
       "tags": [],
@@ -991,7 +991,7 @@
         "A-1506.1"
       ],
       "related_nodes": [
-        "N-487",
+        "N-224",
         "N-1384",
         "N-1002"
       ],
@@ -1260,10 +1260,10 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-487",
+        "N-224",
         "N-1002",
         "N-1384",
-        "N-488"
+        "N-42"
       ],
       "tags": [],
       "claim_timestamp": "00:07:32",

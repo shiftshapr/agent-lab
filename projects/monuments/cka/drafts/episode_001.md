@@ -16,7 +16,7 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080
   - Claim Range: C-1115-C-1124
-  - New Nodes Introduced: N-1, N-2, N-7, N-42, N-56, N-59, N-60, N-61, N-62, N-63, N-64, N-1000, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073, N-1074, N-1075
+  - New Nodes Introduced: N-1, N-2, N-42, N-56, N-59, N-60, N-61, N-62, N-63, N-64, N-1000, N-1067, N-1068, N-1069, N-1070, N-1071, N-1072, N-1073, N-1074, N-1075
   - Reused Nodes Appearing: 
 
 ## 3. Artifact Register
@@ -26,28 +26,28 @@
 **A-1077.1** Backstage celebration clip of 'Charlie dance' after Kanye West's tweet about Candace.
 Event Timestamp: 2022-05-01
 Video Timestamp: 00:11:32–00:11:47
-*Related: C-1115, C-1116, N-1, N-7, N-56*
+*Related: C-1115, C-1116, N-1, N-3, N-56*
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Confidence: high
 
 **A-1077.2** Road trip audio/video from North/South Carolina during hurricane-driven 8-hour drive to DC.
 Event Timestamp: 2018
 Video Timestamp: 00:13:49–00:14:01
-*Related: C-1117, N-1, N-7*
+*Related: C-1117, N-1, N-3*
 Transcript Snippet: Every single song was sung. Me and Charlie were always singing in cars.
 Confidence: medium
 
 **A-1077.3** Video of Charlie Kirk being chased out of a Philadelphia restaurant by Antifa; water and egg thrown.
 Event Timestamp: 2018-2019
 Video Timestamp: 00:16:07–00:16:30
-*Related: C-1118, N-1, N-7*
+*Related: C-1118, N-1, N-3*
 Transcript Snippet: The infamous day that we got chased out of a Philadelphia restaurant by Antifa…
 Confidence: high
 
 **A-1077.4** Campus event clip of Candace playing with protesters in front of signs while Charlie speaks over her shoulder.
 Event Timestamp: 2018-2019
 Video Timestamp: 00:16:57–00:17:17
-*Related: N-1, N-7*
+*Related: N-1, N-3*
 Transcript Snippet: I love this video of me just playing with the protesters sitting in front of one of their signs…
 Confidence: medium
 
@@ -69,21 +69,21 @@ Confidence: high
 **A-1079.1** Screen recording of text messages between Charlie and Candace about a pair of sunglasses.
 Event Timestamp: 2018-2022
 Video Timestamp: 00:12:03–00:12:16
-*Related: N-1, N-7*
+*Related: N-1, N-3*
 Transcript Snippet: He's just setting me. I'm like, 'Nah, that's not good. Nope. Send. Okay, that one's okay.'
 Confidence: high
 
 **A-1079.2** Text chain where Charlie approves of Candace's then-boyfriend George (now husband) after one evening together.
 Event Timestamp: 2018-2019
 Video Timestamp: 00:18:09–00:18:19
-*Related: C-1119, N-1, N-7, N-59*
+*Related: C-1119, N-1, N-3, N-59*
 Transcript Snippet: His heart is wonderful. You guys are meant for each other. I see it brilliantly and clearly.
 Confidence: high
 
 **A-1079.3** Text chain joking about convincing Erika Frantzey to take the Kirk last name as a 'practical decision'.
 Event Timestamp: 2019-2020
 Video Timestamp: 00:19:23–00:19:43
-*Related: C-1120, N-1, N-7, N-2*
+*Related: C-1120, N-1, N-3, N-2*
 Transcript Snippet: Marry me. It's a logistics thing. Mrs. Erika Kirk sounds so much better than Mrs. Eric.
 Confidence: high
 
@@ -94,14 +94,14 @@ Confidence: high
 **A-1080.1** Kanye West's 'Power' played as the touring hype song before stage events and during #MeToo prep montage.
 Event Timestamp: 2018-2022
 Video Timestamp: 00:11:10–00:11:17
-*Related: C-1121, N-1, N-7, N-56, N-1073*
+*Related: C-1121, N-1, N-3, N-56, N-1073*
 Transcript Snippet: Kanye's Power kind of became our theme song for the tour.
 Confidence: high
 
 **A-1080.2** Host recounts YWLS conference press scrum during concurrent 'him too' / #MeToo controversy.
 Event Timestamp: 2018
 Video Timestamp: 00:14:20–00:14:35
-*Related: C-1123, N-1, N-7, N-42, N-60, N-61, N-64, N-1073*
+*Related: C-1123, N-1, N-3, N-42, N-60, N-61, N-64, N-1073*
 Transcript Snippet: And then we had at the same time the YWLS conference. So the reporters who already hated us just completely they just swooped in there…
 Confidence: high
 
@@ -118,7 +118,7 @@ Subject of memorial tribute; deceased founder of Turning Point USA; central figu
 
 ---
 
-**N-7** Candace Owens
+**N-3** Candace Owens
 
 Node Type: Person
 Host of the series; close personal/professional partner of Charlie Kirk from 2017 onward.
@@ -331,7 +331,7 @@ Claim Timestamp: 00:11:32
 Claim: Following Kanye West's tweet praising Candace Owens, Charlie and Candace celebrated backstage doing a 'Charlie dance,' as documented in a shown video clip.
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Anchored Artifacts: A-1077.1, A-1078.1, A-1080.1
-Related Nodes: N-1, N-7, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64, N-1073, N-1073
+Related Nodes: N-1, N-3, N-56, N-1069, N-60, N-61, N-62, N-63, N-42, N-64, N-1073
 Confidence: high
 Investigative Direction: Verify the exact date of the Kanye tweet and cross-reference with the shown backstage clip timestamp.
 
@@ -357,7 +357,7 @@ Claim Timestamp: 00:13:38
 Claim: When flights were cancelled during a hurricane, Charlie and Candace rented a car and drove 8 hours to reach DC by morning, per a road-trip audio clip shown.
 Transcript Snippet: We got to rent a car. We got to drive eight hours. One of the most fun road trips I've had in my life.
 Anchored Artifacts: A-1077.2
-Related Nodes: N-1, N-7
+Related Nodes: N-1, N-3
 Confidence: medium
 Investigative Direction: Cross-reference hurricane event dates in NC/SC to narrow the trip timeframe.
 
@@ -370,7 +370,7 @@ Claim Timestamp: 00:14:20
 Claim: While the YWLS conference ran concurrently with the viral 'him too' / #MeToo backlash, hostile reporters converged on Candace and Charlie's team; Charlie Kirk and Andrew Kolvet held the line backing Candace's due-process stance.
 Transcript Snippet: And then we had at the same time the YWLS conference. So the reporters who already hated us just completely they just swooped in there…
 Anchored Artifacts: A-1080.2
-Related Nodes: N-1, N-7, N-42, N-60, N-61, N-64, N-1073
+Related Nodes: N-1, N-3, N-42, N-60, N-61, N-64, N-1073
 Confidence: high
 Investigative Direction: Identify YWLS conference date/location and contemporaneous press coverage of the 'him too' shirt incident.
 
@@ -383,7 +383,7 @@ Claim Timestamp: 00:03:29
 Claim: Charlie Kirk enforced a team rule to never decline Fox News bookings, averaging about four Fox appearances per day including early-morning 'Fox and Friends First,' per host recollection.
 Transcript Snippet: Charlie's rule was never say no to Fox News… four hits a day up at 4:00 a.m. for Fox and Friends First.
 Anchored Artifacts: 
-Related Nodes: N-1, N-7, N-1071
+Related Nodes: N-1, N-3, N-1071
 Confidence: medium
 Investigative Direction: Corroborate via TPUSA staff schedules or published Fox booking logs from the cited era.
 
@@ -396,7 +396,7 @@ Claim Timestamp: 00:16:07
 Claim: Charlie Kirk and Candace Owens were chased out of a Philadelphia restaurant by Antifa, who threw water and an egg at Charlie, per a video clip shown.
 Transcript Snippet: We got chased out of a Philadelphia restaurant by Antifa and they threw water and they threw an egg on Charlie.
 Anchored Artifacts: A-1077.3
-Related Nodes: N-1, N-7, N-1074
+Related Nodes: N-1, N-3, N-1074
 Confidence: high
 Investigative Direction: Identify the restaurant and date via news reports of the incident.
 
@@ -408,7 +408,7 @@ Claim Timestamp: 00:18:09
 Claim: After a single evening with Candace's then-boyfriend George in the UK, Charlie Kirk texted that George and Candace were 'meant for each other,' per a shown text chain.
 Transcript Snippet: His heart is wonderful. You guys are meant for each other. I see it brilliantly and clearly.
 Anchored Artifacts: A-1079.2
-Related Nodes: N-1, N-7, N-59, N-1068
+Related Nodes: N-1, N-3, N-59, N-1068
 Confidence: high
 Investigative Direction: Verify the UK trip date and the text chain contents against any saved screenshots.
 
@@ -420,7 +420,7 @@ Claim Timestamp: 00:19:23
 Claim: A text chain between Charlie and Candace jokes that Erika Frantzey should marry Charlie Kirk because 'Kirk' sounds better than 'Frantzey,' per a shown text exchange.
 Transcript Snippet: Marry me. It's a logistics thing. Mrs. Erika Kirk sounds so much better than Mrs. Eric.
 Anchored Artifacts: A-1079.3
-Related Nodes: N-1, N-7, N-2, N-1068
+Related Nodes: N-1, N-3, N-2, N-1068
 Confidence: high
 Investigative Direction: Confirm the text chain timing predates the Kirk/Frantzey marriage announcement.
 
@@ -432,7 +432,7 @@ Claim Timestamp: 00:11:10
 Claim: Kanye West's 'Power' became the de facto theme/hype song for the Turning Point USA tour, played before stage events and during pre-event prep, per multiple playbacks in the episode.
 Transcript Snippet: Kanye's Power kind of became our theme song for the tour.
 Anchored Artifacts: A-1077.1, A-1080.1
-Related Nodes: N-1, N-7, N-56, N-1069
+Related Nodes: N-1, N-3, N-56, N-1069
 Confidence: medium
 Investigative Direction: Verify through other tour-event footage whether 'Power' was consistently used as hype music.
 
@@ -444,7 +444,7 @@ Claim Timestamp: 00:03:02
 Claim: At age 23, Charlie Kirk told Candace Owens during a Macaroni Grill planning session that he planned to take over the RNC.
 Transcript Snippet: Then I'm going to probably take control of the RNC. I mean, he's 23 years old, right?
 Anchored Artifacts: 
-Related Nodes: N-1, N-7, N-1000, N-1072, N-1075
+Related Nodes: N-1, N-3, N-1000, N-1072, N-1075
 Confidence: low
 Uncertainty: No artifact shown backing this anecdote; relies entirely on host recollection.
 Investigative Direction: Cross-reference any other contemporaneous accounts of this stated ambition; flag as self-reported through host.
@@ -459,7 +459,7 @@ Tags: open_source_investigation
 ### Occurrence 1
 
 Video Timestamp: 00:20:15
-Speaker: N-7
+Speaker: N-3
 Quote: Never for a single minute ever did Charlie and I stop being friends. Our relationship was forged in fire.
 Context: Closing emotional affirmation of friendship continuity after Charlie Kirk's death.
 Tags: memorial_tone, emotional_framing
@@ -468,7 +468,7 @@ Confidence: high
 ### Occurrence 2
 
 Video Timestamp: 00:22:59
-Speaker: N-7
+Speaker: N-3
 Quote: I will never unsee the footage of what I saw, the violence of it. I pray for the people who took any pleasure in that.
 Context: Direct grief-stricken commentary on the assassination footage.
 Tags: memorial_tone, death_event
@@ -481,7 +481,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:11:25
-Speaker: N-7
+Speaker: N-3
 Quote: We were 100% we manifested this by listening to Power on repeat.
 Context: After Kanye tweeted 'I love the way Candace Owens thinks' shortly after they had been listening to Kanye's music on repeat.
 Tags: manifestation_framing
@@ -490,7 +490,7 @@ Confidence: high
 ### Occurrence 2
 
 Video Timestamp: 00:19:56
-Speaker: N-7
+Speaker: N-3
 Quote: Our plan worked. We broke Erika down. First came the name shame, then came the wedding, then came the children.
 Context: Frames the Erika Kirk relationship outcome as the deliberate result of a comedic 'plan' rather than organic romantic development.
 Tags: plan_framing
@@ -503,7 +503,7 @@ Confidence: medium
 ### Occurrence 1
 
 Video Timestamp: 00:22:08
-Speaker: N-7
+Speaker: N-3
 Quote: I think in the end Charlie was going through a spiritual transformation. He was going through a lot and there was a lot of pressure.
 Context: Host introduces a 'spiritual transformation' narrative without specifying the direction or destination; flags outside pressure as hostile.
 Tags: spiritual_framing, unspecified_direction

@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: cd9e59e9564d3269c2ae61263c05f67dbccdca4b58de59c5ca01c69abc42da57
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-706, N-707, N-708, N-710, N-711, N-712, N-713, N-714, N-715, N-716, N-717, N-718, N-719, N-1480, N-1481, N-1482, N-1483
-  - Reused Nodes Appearing: N-1, N-1006
+  - New Nodes Introduced: N-706, N-707, N-708, N-710, N-711, N-712, N-713, N-716, N-717, N-719, N-1480, N-1481, N-1482, N-1483
+  - Reused Nodes Appearing: N-1006
   - (see registers)
 
 # Episode 56 Analysis Record
@@ -65,7 +65,7 @@ Confidence Level: High
 Video Timestamp: 00:07:08
 Confidence Level: High
 
-*Related: C-2092, N-715, N-716*
+*Related: C-2092, N-50, N-716*
 
 **A-1619** Court Filing Bundle — Alton C. Jennings Will Challenge
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:13:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host characterizes filing as allegations)
 
-*Related: C-2077, C-2078, C-2079, C-2080, N-706, N-707, N-708, N-85, N-1480*
+*Related: C-2077, C-2078, C-2079, C-2080, N-706, N-707, N-708, N-70, N-1480*
 
 **A-1620** TPUSA Board Member Profile Bundle
 
@@ -165,7 +165,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:38:11
 Confidence Level: Medium
 
-*Related: C-2090, N-714*
+*Related: C-2090, N-266*
 
 **A-1626** Social Blade Instagram Purge Data Bundle
 
@@ -293,7 +293,7 @@ Investigative Pressure: Medium
 
 *Related: A-1624.2, A-1624.3, C-2088, C-2089, N-712, N-1482*
 
-**N-714** Scott Adams
+**N-266** Scott Adams
 
 Creator of *Dilbert*; died at age 68 of prostate cancer (referenced in this episode).
 
@@ -304,7 +304,7 @@ Investigative Pressure: Low
 
 *Related: A-1625.1, C-2090*
 
-**N-715** Tucker Carlson
+**N-50** Tucker Carlson
 
 Host/commentator whose audio clip is presented in this episode.
 
@@ -326,7 +326,7 @@ Investigative Pressure: Low
 
 *Related: A-1617.1, A-1618.1, C-2076, C-2092*
 
-**N-718** Wed Mahmoud (Wed Mahmoud)
+**N-483** Wed Mahmoud
 
 Referenced by host as a name appearing both on the SUBTU plane into Provo and on the "yellow plane" on the day of Charlie Kirk's assassination (timeline build).
 
@@ -357,7 +357,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1619.1, C-2077, C-2078, C-2080, N-706, N-707, N-708, N-85*
+*Related: A-1619.1, C-2077, C-2078, C-2080, N-706, N-707, N-708, N-70*
 
 **N-1481** TPUSA Board Member Military–Satanism Connection
 
@@ -391,6 +391,15 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-1626.1, C-2091, N-1006*
+
+---
+
+**N-10002** Tyler Bowyer
+
+Node Type: Person
+TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
+
+*Related: C-2080*
 
 ---
 
@@ -453,7 +462,7 @@ Claim Timestamp: 00:17:23
 Claim: The redirected Jennings estate was reportedly split between Turning Point Action (headed by Tyler Bowyer) and Young America's Foundation (YAF).
 
 Anchored Artifacts: A-1619.1
-Related Nodes: N-85, N-1480
+Related Nodes: N-70, N-1480, N-10002
 Investigative Direction: Obtain probate records reflecting beneficiary designations; verify allocation.
 
 **C-2081** Paul Valli Is a TPUSA Board Member and Former Commander of the 7th PSYOP Group
@@ -553,7 +562,7 @@ Claim Timestamp: 00:38:11
 Claim: Scott Adams, creator of *Dilbert*, died at age 68 from prostate cancer; host states he had said he was "coming to the Lord" before passing.
 
 Anchored Artifacts: A-1625.1
-Related Nodes: N-714
+Related Nodes: N-266
 Investigative Direction: Cross-check obituary; verify cause of death and date.
 
 **C-2091** Social Blade Records Erica Kirk Deleting 126 Instagram Posts on June 19
@@ -573,7 +582,7 @@ Claim Timestamp: 00:07:08
 Claim: Tucker Carlson, in his own recorded words, compared Lindsey Graham's foreign-policy behavior to a drunk girlfriend screaming at a cop during a DUI stop.
 
 Anchored Artifacts: A-1618.1
-Related Nodes: N-715, N-716
+Related Nodes: N-50, N-716
 Investigative Direction: Locate original clip; verify date and outlet.
 
 **C-2093** Andrew Aguilar Claims Arrest at US Capitol on September 3 for Calling Out AIPAC
@@ -593,7 +602,7 @@ Claim Timestamp: 00:09:14
 Claim: Host states, per her master timeline, that plane SUBTU arrived in Provo on May 23 (anchor plane) with a follow-up arrival May 27 carrying Wed Mahmoud, and departed June 2; transponders reportedly manipulated to obscure actual flight path.
 
 Anchored Artifacts: (no direct artifact displayed in this episode — host references her previously shown timeline)
-Related Nodes: N-718
+Related Nodes: N-483
 Investigative Direction: Obtain flight records (FAA, Flightradar24 archives); cross-check tail number; verify passenger manifest if available. **[Optional Flag: Artifact verbally referenced but not shown in this episode]**
 
 **C-2095** Host Asserts Iran–Israel 12-Day War Commenced June 13 Following Plane Departures
@@ -603,7 +612,7 @@ Claim Timestamp: 00:10:59
 Claim: Host asserts that the Iran–Israel 12-day war commenced on June 13, immediately following the SUBTU plane's reported departure from Provo on June 2.
 
 Anchored Artifacts: (host assertion referencing publicly known conflict dates; no specific artifact shown)
-Related Nodes: N-718
+Related Nodes: N-483
 Investigative Direction: Verify conflict onset date via public news records; cross-check host's timeline against flight records.
 
 ---
@@ -613,7 +622,7 @@ Investigative Direction: Verify conflict onset date via public news records; cro
 - **A-1626.1** — *Artifact verbally referenced but not shown*: Host states "according to social blade and we have that somewhere so you can see that" without displaying Social Blade screenshot in the transcript.
 - **A-1624.1** — *Artifact verbally referenced but not shown*: Article about Harvest Christian Fellowship lawsuits is referenced as "here's an article which tells us" but the article itself is not displayed in the transcript.
 - **C-2094** — *Claim failed anchor test for this episode*: Plane SUBTU timeline claim references host's "master timeline" previously shown in earlier episodes; not artifact-anchored within this episode. Inscribed with low confidence and flag.
-- **N-718** Wed Mahmoud — *Name uncertainty*: Host spells name phonetically as "Wed Machmood / Wed Makmoud / Wed Mahmoud" across passages; preserve as "Wed Mahmoud" with optional flag.
+- **N-483** Wed Mahmoud — *Name uncertainty*: Host spells name phonetically as "Wed Machmood / Wed Makmoud / Wed Mahmoud" across passages; preserve as "Wed Mahmoud" with optional flag.
 - **N-713** Paul Hascgard (Habsgard) — *Name uncertainty*: Host spells surname both as "Habsgard" and "Havsgard" within the same passage; flag for verification against court filings.
 - **N-710** Paul Valli — *Name uncertainty*: Host spells name both as "Vali" and "Valerie"; flag for verification.
 

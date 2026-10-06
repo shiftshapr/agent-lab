@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2179, N-2180, N-2181, N-2182, N-2183, N-2184
-  - Reused Nodes Appearing: N-1, N-1024, N-1207, N-1208, N-1209, N-1210, N-1211
+  - Reused Nodes Appearing: N-1024, N-1207, N-1208, N-1209, N-1210, N-1211
   - (see registers)
 
 ## 2. Executive Summary
@@ -213,7 +213,7 @@ Video Timestamp: 00:55:40–00:56:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: N-7*
+*Related: N-3*
 
 **A-2253.6** Comment by "Tony Hill": congratulates host on new baby and anticipated maternity leave.
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:57:25–00:57:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: N-7*
+*Related: N-3*
 
 **A-2253.7** Comment by "Olympia": "It sounds like Perez had a psychotic break. It's very sad..."
 
@@ -253,7 +253,7 @@ Video Timestamp: 01:00:30–01:01:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: N-7*
+*Related: N-3*
 
 ---
 
@@ -346,7 +346,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2252.1, C-3232, N-7*
+*Related: A-2252.1, C-3232, N-3*
 
 ---
 
@@ -359,7 +359,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2246.1, A-2246.2, A-2253.4, C-3222, C-3223, C-3235, N-1207, N-1024, N-7*
+*Related: A-2246.1, A-2246.2, A-2253.4, C-3222, C-3223, C-3235, N-1207, N-1024, N-3*
 
 ---
 
@@ -438,7 +438,7 @@ Claim: An X-coordinated group chat named "Protecting Mrs. Kirk" contained 92 mem
 
 Anchored Artifacts: A-2246.1
 
-Related Nodes: N-1207, N-1024, N-7, N-2179
+Related Nodes: N-1207, N-1024, N-3, N-2179
 
 Investigative Direction: Obtain the original Shady Lady Katie post via X/Twitter web archives; cross-reference named accounts against public social-media activity.
 
@@ -452,7 +452,7 @@ Claim: Members of the "Protecting Mrs. Kirk" group chat shared Candace Owens' ho
 
 Anchored Artifacts: A-2246.1, A-2246.2
 
-Related Nodes: N-1207, N-7, N-2179
+Related Nodes: N-1207, N-3, N-2179
 
 Investigative Direction: Verify quoted claim in original X post and any accompanying screenshots; cross-reference with documented doxxing reports.
 
@@ -578,7 +578,7 @@ Claim: Daily Mail journalist Charlie Spearing emailed the Candace Owens show sta
 
 Anchored Artifacts: A-2252.1
 
-Related Nodes: N-1211, N-7
+Related Nodes: N-1211, N-3
 
 Investigative Direction: Obtain the original email with full headers and timestamp; identify what "sources" Spearing referenced; cross-check Daily Mail coverage for follow-up.
 
@@ -606,7 +606,7 @@ Claim: The host asserts that the "Protecting Mrs. Kirk" group chat was organized
 
 Anchored Artifacts: A-2246.1 (organizer not identified in artifact)
 
-Related Nodes: N-1207, N-1024, N-7, N-2179
+Related Nodes: N-1207, N-1024, N-3, N-2179
 
 Investigative Direction: Identify organizer through leaked membership lists or named-account forensics; cross-check against Gaza Humanitarian Fund / Daily Wire public records.
 
@@ -622,7 +622,7 @@ Claim: A commenter on the show acknowledges that Candace Owens' home address has
 
 Anchored Artifacts: A-2246.1, A-2253.4
 
-Related Nodes: N-1207, N-7, N-2179
+Related Nodes: N-1207, N-3, N-2179
 
 Investigative Direction: Compare commenter characterization against Shady Lady Katie's quoted text for consistency; pursue any screenshot evidence of the actual address disclosure.
 
