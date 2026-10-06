@@ -596,8 +596,8 @@
   ,
       {
         "@type": "Person",
-        "@id": "N-10006",
-        "ref": "N-10006",
+        "@id": "N-46",
+        "ref": "N-46",
         "name": "Andrew Wilson",
         "type": "person",
         "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
@@ -811,7 +811,7 @@
         "A-2274.1"
       ],
       "related_nodes": [
-            "N-10006"
+            "N-46"
           ],
       "tags": [],
       "claim_timestamp": "00:39:29",

@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-764, N-765, N-766, N-767, N-1501, N-1502
   - Reused Nodes Appearing: 
-  - (see registers)
+  - (see registers), N-37
 
 ## 2. Executive Summary
 
@@ -246,7 +246,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -335,7 +335,7 @@ Claim: Flight records show Erika Kirk's plane (N102DZ) departed approximately 1 
 
 Anchored Artifacts: A-1657.1
 
-Related Nodes: N-2, N-1501, N-10002
+Related Nodes: N-2, N-1501, N-37
 
 Investigative Direction: Obtain independent FAA or Flightradar24 archived records for both flights on 2025-09-10; verify exact departure/arrival times, passenger manifests if obtainable, and post-landing taxi routes.
 

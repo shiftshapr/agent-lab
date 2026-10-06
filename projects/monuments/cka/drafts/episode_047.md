@@ -33,7 +33,7 @@
   - New Nodes Introduced:  N-547, N-550, N-552, N-555, N-556, N-558, N-559, N-560, N-561, N-562, N-563, N-564, N-565, N-566, N-567, N-568, N-1408, N-1409, N-1410, N-1411, N-1412, N-1413, N-1414, N-1415, N-1416, N-1417, N-1418, N-1419, N-1420, N-1421, N-1422, N-1423, N-1424, N-1425, N-1426, N-1427, N-1428
   - Reused Nodes Appearing: 
 
----
+---, N-37
 
 ## II. Executive Summary
 
@@ -327,7 +327,7 @@ Claim Count: 8
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, A-1540.1, C-1924, C-1925, C-1926, C-1927, C-1937, C-1952, N-43, N-1411, N-1421, N-10002*
+*Related: A-1539.1, A-1540.1, C-1924, C-1925, C-1926, C-1927, C-1937, C-1952, N-43, N-1411, N-1421, N-37*
 
 ---
 
@@ -983,7 +983,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.

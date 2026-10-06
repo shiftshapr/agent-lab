@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1617, N-1618, N-1619
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221
+  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-209
   - (see registers)
 
 ## Episode 80 Ledger Summary
@@ -153,7 +153,7 @@ Video Timestamp: 00:16:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2505, N-1214, N-1207, N-10018*
+*Related: C-2505, N-1214, N-1207, N-209*
 
 ---
 
@@ -350,7 +350,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10018** Taylor Budowich
+**N-209** Taylor Budowich
 
 Node Type: Person
 Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.
@@ -523,7 +523,7 @@ Claim: Taylor Budowich publicly described Kent as a "crazed egomaniac" who was "
 
 Anchored Artifacts: A-1867.1
 
-Related Nodes: N-1214, N-1207, N-1619, N-10018
+Related Nodes: N-1214, N-1207, N-1619, N-209
 
 Investigative Direction: Confirm exact text against Budowich's verified X account.
 

@@ -684,8 +684,8 @@
   ,
       {
         "@type": "Person",
-        "@id": "N-10002",
-        "ref": "N-10002",
+        "@id": "N-37",
+        "ref": "N-37",
         "name": "Tyler Bowyer",
         "type": "person",
         "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -819,7 +819,7 @@
       "related_nodes": [
         "N-2115"
       ,
-            "N-10002"
+            "N-37"
           ],
       "tags": [],
       "claim_timestamp": "00:24:41",

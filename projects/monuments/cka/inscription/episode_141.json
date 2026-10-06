@@ -529,8 +529,8 @@
   ,
       {
         "@type": "Person",
-        "@id": "N-10006",
-        "ref": "N-10006",
+        "@id": "N-46",
+        "ref": "N-46",
         "name": "Andrew Wilson",
         "type": "person",
         "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
@@ -558,7 +558,7 @@
         "N-2193",
         "N-2194"
       ,
-            "N-10006"
+            "N-46"
           ],
       "tags": [],
       "claim_timestamp": "00:18:36",
@@ -576,7 +576,7 @@
       "related_nodes": [
         "N-1207"
       ,
-            "N-10006"
+            "N-46"
           ],
       "tags": [],
       "claim_timestamp": "00:22:37",
@@ -594,7 +594,7 @@
       "related_nodes": [
         "N-1207"
       ,
-            "N-10006"
+            "N-46"
           ],
       "tags": [],
       "claim_timestamp": "00:44:42",
@@ -612,7 +612,7 @@
       "related_nodes": [
         "N-1207"
       ,
-            "N-10006"
+            "N-46"
           ],
       "tags": [],
       "claim_timestamp": "00:29:04",
@@ -631,7 +631,7 @@
       "related_nodes": [
         "N-1208"
       ,
-            "N-10006"
+            "N-46"
           ],
       "tags": [],
       "claim_timestamp": "00:17:24",
@@ -650,7 +650,7 @@
         "N-1207",
         "N-1209"
       ,
-            "N-10006"
+            "N-46"
           ],
       "tags": [],
       "claim_timestamp": "01:06:45",
@@ -684,7 +684,7 @@
       "related_nodes": [
         "N-1210"
       ,
-            "N-10006"
+            "N-46"
           ],
       "tags": [],
       "claim_timestamp": "01:08:14",
@@ -719,7 +719,7 @@
         "N-1207",
         "N-2194"
       ,
-            "N-10006"
+            "N-46"
           ],
       "tags": [],
       "claim_timestamp": "00:42:35",
@@ -737,7 +737,7 @@
       "related_nodes": [
         "N-1211"
       ,
-            "N-10006"
+            "N-46"
           ],
       "tags": [],
       "claim_timestamp": "01:01:26",
@@ -755,7 +755,7 @@
       "related_nodes": [
         "N-1212"
       ,
-            "N-10006"
+            "N-46"
           ],
       "tags": [],
       "claim_timestamp": "01:02:50",
@@ -774,7 +774,7 @@
         "N-1207",
         "N-2193"
       ,
-            "N-10006"
+            "N-46"
           ],
       "tags": [],
       "claim_timestamp": "00:19:49",

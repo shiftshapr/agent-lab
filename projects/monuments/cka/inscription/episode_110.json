@@ -915,8 +915,8 @@
   ,
       {
         "@type": "Person",
-        "@id": "N-10014",
-        "ref": "N-10014",
+        "@id": "N-57",
+        "ref": "N-57",
         "name": "Mitt Romney",
         "type": "person",
         "description": "Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.",
@@ -1215,7 +1215,7 @@
         "N-1220",
         "N-1221"
       ,
-            "N-10014"
+            "N-57"
           ],
       "tags": [],
       "claim_timestamp": "00:37:50",
@@ -1250,7 +1250,7 @@
       "related_nodes": [
         "N-1219"
       ,
-            "N-10014"
+            "N-57"
           ],
       "tags": [],
       "claim_timestamp": "00:46:50",
@@ -1305,7 +1305,7 @@
         "N-1218",
         "N-2066"
       ,
-            "N-10014"
+            "N-57"
           ],
       "tags": [],
       "claim_timestamp": "00:10:30",
@@ -1324,7 +1324,7 @@
         "N-1218",
         "N-2066"
       ,
-            "N-10014"
+            "N-57"
           ],
       "tags": [],
       "claim_timestamp": "00:10:30",

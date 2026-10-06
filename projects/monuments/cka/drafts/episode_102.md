@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2061, N-2062, N-2063, N-2064, N-2065
-  - Reused Nodes Appearing: N-1207, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225
+  - Reused Nodes Appearing: N-1207, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-37
   - (see registers)
 
 # Episode Analysis: Monument Episode 102 — "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336"
@@ -89,7 +89,7 @@ Video Timestamp: 00:02:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2886, N-70, N-2065, N-10002*
+*Related: C-2886, N-70, N-2065, N-37*
 
 **A-2065** Blake Neff Response Bundle
 
@@ -583,7 +583,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -630,7 +630,7 @@ Claim: Tyler Bowyer publicly stated he has had "numerous things like this said a
 
 Anchored Artifacts: A-2064.1
 
-Related Nodes: N-70, N-1207, N-2065, N-10002
+Related Nodes: N-70, N-1207, N-2065, N-37
 
 Investigative Direction: Verify the original X post and any subsequent posts by Bowyer; cross-reference his stated history of false rumors.
 

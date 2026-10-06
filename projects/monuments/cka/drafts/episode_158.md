@@ -12,10 +12,10 @@
 - **Model Version**: grok-manual-extract-seq158
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2355, N-2356, N-2357, N-2358, N-2359, N-10004, N-10005, N-10006
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-50, N-59, N-65, N-66, N-42, N-272, N-364, N-444, N-326, N-424, N-16, N-796, N-224, N-1121, N-1264, N-1288, N-2329, N-2350, N-2351, N-2354, N-10001
+  - New Nodes Introduced: N-2355, N-2356, N-2357, N-2358, N-2359
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-50, N-59, N-65, N-66, N-42, N-272, N-364, N-444, N-326, N-424, N-16, N-796, N-224, N-1121, N-1264, N-1288, N-2329, N-2350, N-2351, N-2354, N-36, N-30, N-41, N-44, N-46
   - (see registers)
-  - Person band: persons minted in this quality pass use N-10000+ (see node register). Minted here or reused: Clara Molot, Sergio Gor, Caleb Chilcutt, Andrew Wilson. Tim Dylan not minted. Leah Thomas not minted.
+  - Person band: persons minted in this quality pass use N-30+ (see node register). Minted here or reused: Clara Molot, Sergio Gor, Caleb Chilcutt, Andrew Wilson. Tim Dylan not minted. Leah Thomas not minted.
 
 # Episode 158 Analysis
 
@@ -37,7 +37,7 @@ Video Timestamp: 00:01:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as quoted/read on air)
 
-*Related: C-3596, C-3597, C-3598, N-2355, N-2356, N-2, N-10004*
+*Related: C-3596, C-3597, C-3598, N-2355, N-2356, N-2, N-41*
 
 ---
 
@@ -392,7 +392,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3605, N-2359, N-10001*
+*Related: C-3605, N-2359, N-36*
 
 ---
 
@@ -417,7 +417,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3596, C-3597, A-2459.1, N-2, N-10004*
+*Related: C-3596, C-3597, A-2459.1, N-2, N-41*
 
 ---
 
@@ -430,7 +430,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3597, C-3598, A-2459.1, N-1121, N-10004*
+*Related: C-3597, C-3598, A-2459.1, N-1121, N-41*
 
 ---
 
@@ -473,7 +473,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10001** Caleb Chilcutt
+**N-36** Caleb Chilcutt
 
 Node Type: Person
 UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.
@@ -482,7 +482,7 @@ UVU TPUSA club president named in the independent review as the chapter contact 
 
 ---
 
-**N-10004** Clara Molot
+**N-41** Clara Molot
 
 Node Type: Person
 Vanity Fair writer of the Erika Kirk profile the host reads as an unflattering portrait.
@@ -491,7 +491,7 @@ Vanity Fair writer of the Erika Kirk profile the host reads as an unflattering p
 
 ---
 
-**N-10005** Sergio Gor
+**N-44** Sergio Gor
 
 Node Type: Person
 Trump-world operative and later US ambassador to India. Host ties him to Winning Team Publishing and to Susie Wiles's orbit.
@@ -500,7 +500,7 @@ Trump-world operative and later US ambassador to India. Host ties him to Winning
 
 ---
 
-**N-10006** Andrew Wilson
+**N-46** Andrew Wilson
 
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
@@ -519,7 +519,7 @@ Claim: Host asserts Clara Molot’s Vanity Fair profile—enabled by months of T
 
 Anchored Artifacts: A-2459.1, A-2459.2
 
-Related Nodes: N-2355, N-2350, N-224, N-10004
+Related Nodes: N-2355, N-2350, N-224, N-41
 
 Investigative Direction: Archive the full Vanity Fair piece; list access dates; compare cooperation posture to Lake Force outreach log.
 

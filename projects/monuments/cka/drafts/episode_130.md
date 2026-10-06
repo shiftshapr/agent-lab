@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2143, N-2144, N-2145, N-2146
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223
+  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-57
   - (see registers)
 
 ## 2. Executive Summary
@@ -308,7 +308,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1208, N-1220, N-10014*
+*Related: N-1208, N-1220, N-57*
 
 **N-1220** Case-Personnel Cluster Anomalies
 
@@ -400,7 +400,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10014** Mitt Romney
+**N-57** Mitt Romney
 
 Node Type: Person
 Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.

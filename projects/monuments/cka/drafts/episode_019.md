@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-255, N-256, N-259, N-260, N-261, N-262, N-263, N-264, N-266, N-267, N-1257, N-1258, N-1259, N-1260, N-1261
   - Reused Nodes Appearing: 
-- **Monument Episode:** 19
+- **Monument Episode:** 19, N-37
 - **Batch:** 9
 - **Channel / creator:** Candace Owens (@RealCandaceO)
 - **Episode date:** 2025-10-27
@@ -283,7 +283,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1262.1, A-1262.2, A-1269.9, C-1464, C-1465, C-1466, C-1477, N-Tyler Bowyer (existing), N-10002*
+*Related: A-1262.1, A-1262.2, A-1269.9, C-1464, C-1465, C-1466, C-1477, N-Tyler Bowyer (existing), N-37*
 
 ---
 
@@ -387,7 +387,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1479, N-Tyler Bowyer (existing), N-10002*
+*Related: C-1479, N-Tyler Bowyer (existing), N-37*
 
 ---
 
@@ -495,7 +495,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -736,7 +736,7 @@ Claim: Host states the camera operator was brought into TPUSA by Tyler Bowyer.
 
 Anchored Artifacts: None (host assertion)
 
-Related Nodes: N-256, N-Tyler Bowyer (existing), N-10002
+Related Nodes: N-256, N-Tyler Bowyer (existing), N-37
 
 Investigative Direction: Obtain TPUSA hiring/contract records for the unnamed AV company operator.
 
@@ -750,7 +750,7 @@ Claim: Host states Mikey McCoy was brought into TPUSA by Tyler Bowyer.
 
 Anchored Artifacts: None (host assertion; full discussion deferred)
 
-Related Nodes: N-Mikey McCoy (existing), N-Tyler Bowyer (existing), N-10002
+Related Nodes: N-Mikey McCoy (existing), N-Tyler Bowyer (existing), N-37
 
 Investigative Direction: Verify via TPUSA organizational records.
 
@@ -764,7 +764,7 @@ Claim: Host states Stacy Sheridan was brought into TPUSA by Tyler Bowyer to hand
 
 Anchored Artifacts: None (host assertion)
 
-Related Nodes: N-264, N-Tyler Bowyer (existing), N-10002
+Related Nodes: N-264, N-Tyler Bowyer (existing), N-37
 
 Investigative Direction: Verify via TPUSA organizational records.
 

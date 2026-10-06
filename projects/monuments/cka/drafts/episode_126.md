@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2116, N-2117, N-2118, N-2119, N-2120, N-2121, N-2122, N-2123
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215
+  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-37
   - (see registers)
 
 ---
@@ -366,7 +366,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2142.1, C-3035, N-1212, N-10002*
+*Related: A-2142.1, C-3035, N-1212, N-37*
 
 ---
 
@@ -422,7 +422,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.

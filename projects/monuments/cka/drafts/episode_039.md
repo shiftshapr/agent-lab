@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-462, N-463, N-464, N-466, N-467, N-468, N-471, N-474, N-475, N-476, N-1369, N-1370, N-1371, N-1372, N-1373, N-1374, N-1375, N-1376, N-1377
-  - Reused Nodes Appearing: N-1
+  - Reused Nodes Appearing: N-1, N-37
   - (see registers)
 
 # Episode 39 Analysis
@@ -174,7 +174,7 @@ Video Timestamp: 00:47:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1817, N-264, N-70, N-1372, N-10002*
+*Related: C-1817, N-264, N-70, N-1372, N-37*
 
 ---
 
@@ -314,7 +314,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1486.1, A-1486.2, A-1486.3, A-1486.4, N-70, N-1372, N-1375, N-10002*
+*Related: A-1486.1, A-1486.2, A-1486.3, A-1486.4, N-70, N-1372, N-1375, N-37*
 
 **N-471** Tyler Bowyer's brother (unnamed)
 
@@ -325,7 +325,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-70, N-1372, N-10002*
+*Related: N-70, N-1372, N-37*
 
 **N-272** Mikey McCoy
 
@@ -402,7 +402,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1486.4, C-1817, N-264, N-471, N-70, N-10002*
+*Related: A-1486.4, C-1817, N-264, N-471, N-70, N-37*
 
 **N-1373** BB Net/Yahoo Offer to TPUSA
 
@@ -471,7 +471,7 @@ Referenced extensively throughout episode; subject of multiple artifact-anchored
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -686,7 +686,7 @@ Claim: A TPUSA source presented proof that Tyler Bowyer was telling people TPUSA
 
 Anchored Artifacts: A-1486.4
 
-Related Nodes: N-264, N-471, N-70, N-1372, N-10002
+Related Nodes: N-264, N-471, N-70, N-1372, N-37
 
 Investigative Direction: Obtain the supporting proof documentation and any internal TPUSA planning materials.
 

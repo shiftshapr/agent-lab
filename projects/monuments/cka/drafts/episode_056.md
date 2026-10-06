@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-706, N-707, N-708, N-710, N-711, N-712, N-713, N-716, N-717, N-719, N-1480, N-1481, N-1482, N-1483
-  - Reused Nodes Appearing: N-1006
+  - Reused Nodes Appearing: N-1006, N-37
   - (see registers)
 
 # Episode 56 Analysis Record
@@ -394,7 +394,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -462,7 +462,7 @@ Claim Timestamp: 00:17:23
 Claim: The redirected Jennings estate was reportedly split between Turning Point Action (headed by Tyler Bowyer) and Young America's Foundation (YAF).
 
 Anchored Artifacts: A-1619.1
-Related Nodes: N-70, N-1480, N-10002
+Related Nodes: N-70, N-1480, N-37
 Investigative Direction: Obtain probate records reflecting beneficiary designations; verify allocation.
 
 **C-2081** Paul Valli Is a TPUSA Board Member and Former Commander of the 7th PSYOP Group

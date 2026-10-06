@@ -24,7 +24,7 @@ Episode 104 presents a White House Military Office email allegedly sent at 9:49 
 
 ## 4. Node Register
 
-**N-10005** Sergio Gor
+**N-44** Sergio Gor
 
 Node Type: Person
 Trump-world operative and later US ambassador to India. Host ties him to Winning Team Publishing and to Susie Wiles's orbit.
@@ -33,7 +33,7 @@ Trump-world operative and later US ambassador to India. Host ties him to Winning
 
 ---
 
-**N-10022** Steven Cheung
+**N-225** Steven Cheung
 
 Node Type: Person
 White House communications aide. Named on the WHMO email CC list and in the Epstein situation-room attendee read (ASR Chung/Chong).

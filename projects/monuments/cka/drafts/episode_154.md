@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2330, N-2331, N-2332, N-2333, N-2334, N-2335, N-2336
-  - Reused Nodes Appearing: N-1031, N-4, N-5, N-6, N-2275, N-2276, N-2277, N-2278, N-2279
+  - Reused Nodes Appearing: N-1031, N-4, N-5, N-6, N-2275, N-2276, N-2277, N-2278, N-2279, N-53
 
 ---
 
@@ -456,7 +456,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10012** Brian Cole Jr.
+**N-53** Brian Cole Jr.
 
 Node Type: Person
 Man federal authorities present as the January 6 pipe-bomb suspect. Host argues the confession was coerced.
@@ -731,7 +731,7 @@ Claim: Candace concurs with the @Koko Rose observation that footage of Tyler Rob
 
 Anchored Artifacts: A-2404.2
 
-Related Nodes: N-10012
+Related Nodes: N-53
 
 Investigative Direction: Obtain Utah news reporting on precinct footage handling; verify the Brian Cole Jr. footage attribution.
 

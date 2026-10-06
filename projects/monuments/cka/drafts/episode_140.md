@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2190, N-2191, N-2192
-  - Reused Nodes Appearing: N-1025, N-1207
+  - Reused Nodes Appearing: N-1025, N-1207, N-46
   - (see registers)
 
 # Episode 140 — Analysis Record
@@ -205,7 +205,7 @@ Video Timestamp: 00:39:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3272, Andrew Wilson node, Rachel Wilson (referenced), N-10006*
+*Related: C-3272, Andrew Wilson node, Rachel Wilson (referenced), N-46*
 
 ---
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:51:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: Andrew Wilson node, N-10006*
+*Related: Andrew Wilson node, N-46*
 
 **A-2275.4** Patricia Pelly comment: praise for Candace
 
@@ -371,7 +371,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10006** Andrew Wilson
+**N-46** Andrew Wilson
 
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
@@ -560,7 +560,7 @@ Claim: In a prior debate clip, Andrew Wilson exited to smoke and his wife Rachel
 
 Anchored Artifacts: A-2274.1
 
-Related Nodes: Andrew Wilson node, Rachel Wilson (referenced), N-10006
+Related Nodes: Andrew Wilson node, Rachel Wilson (referenced), N-46
 
 Investigative Direction: Obtain the full debate recording and date; verify whether this was a sanctioned call-in.
 

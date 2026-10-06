@@ -31,7 +31,7 @@
   - Claim Range: C-2016–C-2025
   - New Nodes Introduced: N-640, N-641, N-642, N-643, N-644, N-645, N-646, N-647, N-648, N-649, N-1456, N-1457, N-1458, N-1459, N-1460, N-1461, N-1462
   - Reused Nodes Appearing: 
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable — Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megan Kelly presumed to exist)
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable — Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megan Kelly presumed to exist), N-37
 
 ---
 
@@ -347,7 +347,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1592.1, N-646, N-1461, N-10002*
+*Related: A-1592.1, N-646, N-1461, N-37*
 
 ---
 
@@ -403,7 +403,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.

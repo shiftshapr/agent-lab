@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-311, N-313, N-314, N-317, N-319, N-320, N-321, N-322, N-323, N-1286, N-1287
   - Reused Nodes Appearing: 
-  - (see registers)
+  - (see registers), N-37
 
 # Meta-Data
 
@@ -399,9 +399,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1578, N-2, N-70, N-Rob McCoy, N-Mikey McCoy, N-10002*
+*Related: C-1578, N-2, N-70, N-Rob McCoy, N-Mikey McCoy, N-37*
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.

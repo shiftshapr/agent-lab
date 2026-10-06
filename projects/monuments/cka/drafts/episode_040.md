@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-479, N-480, N-481, N-1378, N-1379
   - Reused Nodes Appearing: 
-  - (see registers)
+  - (see registers), N-37
 
 # Episode 40 — Ledger Summary
 
@@ -64,7 +64,7 @@ Confidence Level: High
 
 Statement enumerates allegations (Mikey McCoy, foreign aircraft, security first aid, SD card removal, Tyler Bowyer, financial impropriety, "stranger allegations"); asserts Charlie personally reviewed and signed off on every bill; asserts TPUSA has never missed a 990 deadline; frames host's questions as "beneath contempt"; concludes with announcement of an upcoming Phoenix livestream and public invitation to the host.
 
-*Related: C-1820, C-1821, C-1822, C-1823, N-224, N-1378, N-10002*
+*Related: C-1820, C-1821, C-1822, C-1823, N-224, N-1378, N-37*
 
 ---
 
@@ -212,7 +212,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.

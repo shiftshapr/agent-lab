@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2196, N-2197, N-2198, N-2199, N-2200, N-2201, N-2202, N-2203, N-2204, N-2205, N-2206
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228
+  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-1224, N-1225, N-1226, N-1227, N-1228, N-46
   - (see registers)
 
 ---
@@ -161,7 +161,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:45:12
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-1211, N-2203, N-10006*
+*Related: N-1211, N-2203, N-46*
 
 **A-2292.2** Comment by Nikki — $100,000/hour humiliation
 
@@ -673,7 +673,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10006** Andrew Wilson
+**N-46** Andrew Wilson
 
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.

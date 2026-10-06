@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-907, N-908, N-909, N-910, N-1568, N-1569, N-1570, N-1571
   - Reused Nodes Appearing: 
-  - (see registers)
+  - (see registers), N-37
 
 # Episode 71 Analysis Record
 
@@ -217,7 +217,7 @@ Video Timestamp: 00:17:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2347, N-1570, N-10002*
+*Related: C-2347, N-1570, N-37*
 
 **A-1762** Comments Section Read Bundle
 
@@ -336,7 +336,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -649,7 +649,7 @@ Claim: Tyler Bowyer tweeted that TPUSA ended up with "one of the largest YouTube
 
 Anchored Artifacts: A-1761.1
 
-Related Nodes: N-1570, N-10002
+Related Nodes: N-1570, N-37
 
 Investigative Direction: Archive the original tweet and any associated image; verify whether it remains public.
 

@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-961, N-962, N-963, N-964, N-965, N-966, N-1597, N-1598, N-1599, N-1600, N-1601, N-1602
-  - Reused Nodes Appearing: N-1, N-1013
+  - Reused Nodes Appearing: N-1, N-1013, N-37
   - (see registers)
 
 ---
@@ -145,7 +145,7 @@ Video Timestamp: 00:22:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2443, N-10002*
+*Related: C-2443, N-37*
 
 ---
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:38:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2447, N-1601, N-10002*
+*Related: C-2447, N-1601, N-37*
 
 ---
 
@@ -387,7 +387,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1828.1, A-1834.1, C-2443, C-2449, N-10002*
+*Related: A-1828.1, A-1834.1, C-2443, C-2449, N-37*
 
 ---
 
@@ -417,7 +417,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -520,7 +520,7 @@ Claim: In a social-media exchange, Tyler Bowyer stated he studied Romanian in co
 
 Anchored Artifacts: A-1828.1
 
-Related Nodes: N-1600, N-10002
+Related Nodes: N-1600, N-37
 
 Investigative Direction: Capture the full social-media exchange for context; verify Bowyer's claimed academic program at ASU; cross-reference against the 2010 Romanian consulate / lectorate timeline.
 
@@ -576,7 +576,7 @@ Claim: Tyler Bowyer posted on X: "Every nonprofit in Arizona that has major root
 
 Anchored Artifacts: A-1832.1
 
-Related Nodes: N-1601, N-10002
+Related Nodes: N-1601, N-37
 
 Investigative Direction: Capture original X post URL and timestamp; verify whether post remains live or has been edited/deleted.
 

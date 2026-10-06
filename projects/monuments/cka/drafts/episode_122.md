@@ -29,7 +29,7 @@
 - Artifact Families Introduced: A-2104, A-2105, A-2106, A-2107, A-2108, A-2109
 - Claim Range: C-2969–C-2985
   - New Nodes Introduced: N-2094, N-2095, N-2096, N-2097, N-2098, N-2099, N-2100, N-2101, N-2102
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1219, N-1220, N-1221
+  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1219, N-1220, N-1221, N-37
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens
 
 ---
@@ -342,7 +342,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2107.1, C-2976, N-1207, N-1211, N-70, N-1219, N-10002*
+*Related: A-2107.1, C-2976, N-1207, N-1211, N-70, N-1219, N-37*
 
 **N-2096** Next Model Management / MC2 Trafficking Connection to Erica Kirk
 
@@ -423,7 +423,7 @@ Investigative Pressure: Low (interpretive framing)
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.

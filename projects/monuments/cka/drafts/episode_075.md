@@ -112,7 +112,7 @@ Video Timestamp: 00:19:40
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed; close in time to event)
 
-*Related: C-3573, N-2 (Erica Kirk), N-1005 (Tyler Bowyer — reuse if exists), N-10002*
+*Related: C-3573, N-2 (Erica Kirk), N-1005 (Tyler Bowyer — reuse if exists), N-37*
 
 ---
 
@@ -312,7 +312,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -390,7 +390,7 @@ Claim Timestamp: 00:19:40
 Claim: Tyler Bowyer stated on camera that he had previously had conversations with Charlie in which Charlie said "Erika could be so much bigger and better than me at almost everything" and "believed firmly that Erika was going to be president someday."
 
 Anchored Artifacts: A-2440.1
-Related Nodes: N-2 (Erica Kirk), N-2348 (Erika Kirk presidential viability narrative), N-10002
+Related Nodes: N-2 (Erica Kirk), N-2348 (Erika Kirk presidential viability narrative), N-37
 Investigative Direction: Obtain full clip with date; cross-check whether Charlie ever made comparable public statements on the record about Erika's political future.
 
 ---

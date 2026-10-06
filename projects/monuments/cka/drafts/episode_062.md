@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-782, N-783, N-785, N-786, N-789, N-790, N-1509, N-1510, N-1511, N-1512, N-1513
-  - Reused Nodes Appearing: N-1007
+  - Reused Nodes Appearing: N-1007, N-37
   - (see registers)
 
 # Episode Analysis: Monument Ep 62
@@ -114,7 +114,7 @@ Video Timestamp: 00:21:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host displays tweet)
 
-*Related: C-2188, N-70, N-10002*
+*Related: C-2188, N-70, N-37*
 
 ---
 
@@ -353,7 +353,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -456,7 +456,7 @@ Claim: On September 25, 2018, Tyler Bowyer posted that TPUSA "runs everything li
 
 Anchored Artifacts: A-1673.1
 
-Related Nodes: N-70, N-10002
+Related Nodes: N-70, N-37
 
 Investigative Direction: Retrieve the original post from X/Twitter (including any deletions or edits) and identify which "background" Bowyer was referencing.
 

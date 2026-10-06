@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updated": "2026-10-05T02:13:54Z",
+  "updated": "2026-10-06T18:42:36Z",
   "monument": "cka",
-  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11\u201320 extract; seq 157\u2013159 Ep 394\u2013396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster.",
-  "next_person_id": 10023,
+  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11\u201320 extract; seq 157\u2013159 Ep 394\u2013396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster. 2026-10-06: N-10000..N-10022 remapped into person-band holes; next_person_id=230.",
+  "next_person_id": 230,
   "next_investigation_id": 2365,
   "nodes": {
     "N-1": {
@@ -14160,7 +14160,7 @@
         159
       ]
     },
-    "N-10000": {
+    "N-30": {
       "canonical_name": "Maycee Crofts",
       "type": "person",
       "aliases": [
@@ -14169,9 +14169,12 @@
       "episodes": [
         153,
         157
+      ],
+      "retired_ids": [
+        "N-10000"
       ]
     },
-    "N-10001": {
+    "N-36": {
       "canonical_name": "Caleb Chilcutt",
       "type": "person",
       "aliases": [
@@ -14186,9 +14189,12 @@
         157,
         158,
         159
+      ],
+      "retired_ids": [
+        "N-10001"
       ]
     },
-    "N-10002": {
+    "N-37": {
       "canonical_name": "Tyler Bowyer",
       "type": "person",
       "aliases": [],
@@ -14224,9 +14230,12 @@
         151,
         152,
         157
+      ],
+      "retired_ids": [
+        "N-10002"
       ]
     },
-    "N-10003": {
+    "N-40": {
       "canonical_name": "Kip Crofts",
       "type": "person",
       "aliases": [
@@ -14234,9 +14243,12 @@
       ],
       "episodes": [
         157
+      ],
+      "retired_ids": [
+        "N-10003"
       ]
     },
-    "N-10004": {
+    "N-41": {
       "canonical_name": "Clara Molot",
       "type": "person",
       "aliases": [
@@ -14246,9 +14258,12 @@
       "episodes": [
         158,
         159
+      ],
+      "retired_ids": [
+        "N-10004"
       ]
     },
-    "N-10005": {
+    "N-44": {
       "canonical_name": "Sergio Gor",
       "type": "person",
       "aliases": [
@@ -14258,9 +14273,12 @@
         45,
         104,
         158
+      ],
+      "retired_ids": [
+        "N-10005"
       ]
     },
-    "N-10006": {
+    "N-46": {
       "canonical_name": "Andrew Wilson",
       "type": "person",
       "aliases": [],
@@ -14274,9 +14292,12 @@
         156,
         158,
         159
+      ],
+      "retired_ids": [
+        "N-10006"
       ]
     },
-    "N-10007": {
+    "N-47": {
       "canonical_name": "Laine Schoneberger",
       "type": "person",
       "aliases": [
@@ -14284,9 +14305,12 @@
       ],
       "episodes": [
         159
+      ],
+      "retired_ids": [
+        "N-10007"
       ]
     },
-    "N-10008": {
+    "N-48": {
       "canonical_name": "Dylan Erickson",
       "type": "person",
       "aliases": [
@@ -14294,9 +14318,12 @@
       ],
       "episodes": [
         159
+      ],
+      "retired_ids": [
+        "N-10008"
       ]
     },
-    "N-10009": {
+    "N-49": {
       "canonical_name": "Dennis Fenstermaker",
       "type": "person",
       "aliases": [
@@ -14305,9 +14332,12 @@
       ],
       "episodes": [
         159
+      ],
+      "retired_ids": [
+        "N-10009"
       ]
     },
-    "N-10010": {
+    "N-51": {
       "canonical_name": "Alan Collinge",
       "type": "person",
       "aliases": [
@@ -14316,9 +14346,12 @@
       ],
       "episodes": [
         159
+      ],
+      "retired_ids": [
+        "N-10010"
       ]
     },
-    "N-10011": {
+    "N-52": {
       "canonical_name": "Riley Gaines",
       "type": "person",
       "aliases": [
@@ -14326,9 +14359,12 @@
       ],
       "episodes": [
         159
+      ],
+      "retired_ids": [
+        "N-10011"
       ]
     },
-    "N-10012": {
+    "N-53": {
       "canonical_name": "Brian Cole Jr.",
       "type": "person",
       "aliases": [
@@ -14338,9 +14374,12 @@
       "episodes": [
         154,
         159
+      ],
+      "retired_ids": [
+        "N-10012"
       ]
     },
-    "N-10013": {
+    "N-54": {
       "canonical_name": "Lori Jane Gliha",
       "type": "person",
       "aliases": [
@@ -14348,9 +14387,12 @@
       ],
       "episodes": [
         159
+      ],
+      "retired_ids": [
+        "N-10013"
       ]
     },
-    "N-10014": {
+    "N-57": {
       "canonical_name": "Mitt Romney",
       "type": "person",
       "aliases": [],
@@ -14359,25 +14401,34 @@
         110,
         130,
         159
+      ],
+      "retired_ids": [
+        "N-10014"
       ]
     },
-    "N-10015": {
+    "N-58": {
       "canonical_name": "Maggie Haberman",
       "type": "person",
       "aliases": [],
       "episodes": [
         159
+      ],
+      "retired_ids": [
+        "N-10015"
       ]
     },
-    "N-10016": {
+    "N-178": {
       "canonical_name": "Jonathan Swan",
       "type": "person",
       "aliases": [],
       "episodes": [
         159
+      ],
+      "retired_ids": [
+        "N-10016"
       ]
     },
-    "N-10017": {
+    "N-182": {
       "canonical_name": "Susie Wiles",
       "type": "person",
       "aliases": [
@@ -14389,9 +14440,12 @@
         21,
         96,
         159
+      ],
+      "retired_ids": [
+        "N-10017"
       ]
     },
-    "N-10018": {
+    "N-209": {
       "canonical_name": "Taylor Budowich",
       "type": "person",
       "aliases": [
@@ -14401,25 +14455,34 @@
       "episodes": [
         80,
         159
+      ],
+      "retired_ids": [
+        "N-10018"
       ]
     },
-    "N-10019": {
+    "N-213": {
       "canonical_name": "David Warrington",
       "type": "person",
       "aliases": [],
       "episodes": [
         159
+      ],
+      "retired_ids": [
+        "N-10019"
       ]
     },
-    "N-10020": {
+    "N-215": {
       "canonical_name": "James Blair",
       "type": "person",
       "aliases": [],
       "episodes": [
         159
+      ],
+      "retired_ids": [
+        "N-10020"
       ]
     },
-    "N-10021": {
+    "N-223": {
       "canonical_name": "Stanley Woodward",
       "type": "person",
       "aliases": [
@@ -14428,9 +14491,12 @@
       ],
       "episodes": [
         159
+      ],
+      "retired_ids": [
+        "N-10021"
       ]
     },
-    "N-10022": {
+    "N-225": {
       "canonical_name": "Steven Cheung",
       "type": "person",
       "aliases": [
@@ -14441,6 +14507,9 @@
       "episodes": [
         104,
         159
+      ],
+      "retired_ids": [
+        "N-10022"
       ]
     }
   }

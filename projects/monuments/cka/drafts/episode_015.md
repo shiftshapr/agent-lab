@@ -13,7 +13,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced:  N-1228, N-1229, N-1230, N-1231, N-1232, N-1233
-  - Reused Nodes Appearing: N-1, N-2
+  - Reused Nodes Appearing: N-1, N-2, N-37
 
 ## 2. Executive Summary
 
@@ -39,7 +39,7 @@ Confidence Level: Medium (read-aloud artifact; screen capture of tweet not visib
 
 Description: Bowyer tweet responding to claim that staff "tampered with cameras," asserting "The law enforcement officers asked them to turn them over immediately so they didn't get lost in commotion before they took everyone into lockdown."
 
-*Related: C-1366, C-1370, C-1371, N-70, N-1228, N-10002*
+*Related: C-1366, C-1370, C-1371, N-70, N-1228, N-37*
 
 **A-1220.2** Tyler Bowyer X post — DoJ department / audit denial
 
@@ -51,7 +51,7 @@ Confidence Level: Medium (read-aloud artifact)
 
 Description: Bowyer tweet stating "She took a sentence and made something up. TPUSA doesn't audit every year. Always has."
 
-*Related: C-1368, C-1379, N-70, N-10002*
+*Related: C-1368, C-1379, N-70, N-37*
 
 **A-1220.3** Tyler Bowyer X post — campus footage release
 
@@ -63,7 +63,7 @@ Confidence Level: Medium (read-aloud artifact)
 
 Description: Bowyer tweet asserting "there is camera footage all over that campus that the police have, plus all the cameras that we had. They likely won't release it until the trial."
 
-*Related: C-1367, N-70, N-1231, N-10002*
+*Related: C-1367, N-70, N-1231, N-37*
 
 **A-1221** Andrew Kolvet Tucker Carlson Interview Clip
 
@@ -105,7 +105,7 @@ Confidence Level: Medium (described on air by host)
 
 Description: Alex Clark's Instagram post sharing Tyler Bowyer's X post defending TPUSA on the DoJ department matter; characterized by host as "half-truth PR spin."
 
-*Related: C-1379, N-135, N-10002*
+*Related: C-1379, N-135, N-37*
 
 **A-1224** Pastor Rob McCoy Instagram Post
 
@@ -286,11 +286,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1220.1, A-1220.2, A-1220.3, N-70, N-10002*
+*Related: A-1220.1, A-1220.2, A-1220.3, N-70, N-37*
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -309,7 +309,7 @@ Claim: Tyler Bowyer publicly stated on X that TPUSA staff removed SD cards becau
 
 Anchored Artifacts: A-1220.1
 
-Related Nodes: N-70, N-1228, N-10002
+Related Nodes: N-70, N-1228, N-37
 
 Investigative Direction: Obtain Bowyer's original tweet via X/Twitter archive; cross-reference against FBI or university police statements from September 10, 2025.
 
@@ -321,7 +321,7 @@ Claim: Tyler Bowyer publicly stated that camera footage exists across the Utah V
 
 Anchored Artifacts: A-1220.3
 
-Related Nodes: N-70, N-1231, N-10002
+Related Nodes: N-70, N-1231, N-37
 
 Investigative Direction: FOIA requests to UVU police department; compare against DOJ statements on evidentiary release timing.
 
@@ -333,7 +333,7 @@ Claim: Tyler Bowyer publicly stated that TPUSA has audited annually and that the
 
 Anchored Artifacts: A-1220.2
 
-Related Nodes: N-70, N-10002
+Related Nodes: N-70, N-37
 
 Investigative Direction: Obtain TPUSA Form 990 filings via ProPublica Nonprofit Explorer; cross-reference against the previously displayed internal memo referenced in earlier episodes.
 
@@ -465,7 +465,7 @@ Claim: Alex Clark shared Tyler Bowyer's X post defending TPUSA on the DoJ depart
 
 Anchored Artifacts: A-1223.1, A-1220.2
 
-Related Nodes: N-135, N-70, N-10002
+Related Nodes: N-135, N-70, N-37
 
 Investigative Direction: Direct verification of Alex Clark's Instagram post; the host's characterization is interpretive commentary (flag).
 

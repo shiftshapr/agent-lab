@@ -569,8 +569,8 @@
   ,
       {
         "@type": "Person",
-        "@id": "N-10001",
-        "ref": "N-10001",
+        "@id": "N-36",
+        "ref": "N-36",
         "name": "Caleb Chilcutt",
         "type": "person",
         "description": "UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.",
@@ -584,8 +584,8 @@
       },
       {
         "@type": "Person",
-        "@id": "N-10006",
-        "ref": "N-10006",
+        "@id": "N-46",
+        "ref": "N-46",
         "name": "Andrew Wilson",
         "type": "person",
         "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
@@ -611,7 +611,7 @@
       "related_nodes": [
         "N-2276"
       ,
-            "N-10001"
+            "N-36"
           ],
       "tags": [],
       "claim_timestamp": "00:01:40",

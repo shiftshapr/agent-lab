@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2209, N-2210, N-2211, N-2212
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217
+  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-37, N-46
   - (see registers)
 
 # Episode 144 Analysis
@@ -156,7 +156,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:00–00:35:40
 Confidence Level: High
 
-*Related: C-3322, N-1209, N-1210, N-1211, N-10006*
+*Related: C-3322, N-1209, N-1210, N-1211, N-46*
 
 **A-2306.3** Audio: Blake Neff claiming Candace and Charlie Kirk were not friends after 2018/2019
 
@@ -421,7 +421,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -430,7 +430,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ---
 
-**N-10006** Andrew Wilson
+**N-46** Andrew Wilson
 
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
@@ -575,7 +575,7 @@ Claim: On the Kolvet/Neff podcast, Andrew Wilson stated that after reviewing the
 
 Anchored Artifacts: A-2306.2
 
-Related Nodes: N-1209, N-1210, N-1211, N-10006
+Related Nodes: N-1209, N-1210, N-1211, N-46
 
 Investigative Direction: Locate the original Candace clip being referenced; transcribe the full segment in context.
 
