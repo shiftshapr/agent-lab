@@ -204,7 +204,7 @@ Investigative Pressure: Low
 
 *Related: A-1581.1, N-2 (Erica Kirk, as "Erika"), Lori Frantzve node, N-1454*
 
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he answers the host's geography question about Davis-Monthan AFB relative to Fort Huachuca: "it's a little over an hour north in Tucson."
 

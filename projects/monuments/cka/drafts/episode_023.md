@@ -525,7 +525,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he corrects the host's timeline in real time ("Mark is saying that the Lincoln chapter was opened. I had that in the wrong date"), moving the UNL TPUSA chapter launch to May 2025, and is asked to pull up tail-number flight data.
 
@@ -592,7 +592,7 @@ Investigative Pressure: Medium
 
 **N-1277** Lincoln, Nebraska TPUSA Chapter Origin Question
 
-Investigative target arising from the SUBTT February 9, 2024 arrival in Lincoln and the subsequent UNL TPUSA chapter launch (date disputed between host and director Mark — see Flag on A-1303.1).
+Investigative target arising from the SUBTT February 9, 2024 arrival in Lincoln and the subsequent UNL TPUSA chapter launch (date disputed between host and director Mark - see Flag on A-1303.1).
 
 Evidence Count: 2
 Claim Count: 2

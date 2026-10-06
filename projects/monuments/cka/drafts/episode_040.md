@@ -186,7 +186,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here, in comments, the host names him with Skyler as the small-team members who push back on sources ("Mark will be like I don't know about this") before a story goes out. No claim anchor; registered for cross-episode continuity.
 

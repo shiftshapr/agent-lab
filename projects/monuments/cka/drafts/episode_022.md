@@ -327,7 +327,7 @@ Investigative Pressure: Low
 
 *Related: C-1541, A-1295.3, N-293*
 
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he explains the FlightRadar chart for the Biggs Army Airfield plane (altitude, airspeed, 3:16 p.m. UTC, minus 6 hours for 9:16 a.m. Utah time); the host later cites his UTC explanation and a correction he gave "in my ear", and in comments he says the N1098L plane was over Idaho, not Provo, when Charlie Kirk was shot.
 

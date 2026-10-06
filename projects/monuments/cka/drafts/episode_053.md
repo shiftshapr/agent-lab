@@ -306,7 +306,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host directs him to take the Daily Wire AI audition video full screen ("Mark, we can actually take this full screen"). Not the "Mark Carlson" named earlier in the episode. No claim anchor; registered for cross-episode continuity.
 

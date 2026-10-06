@@ -393,7 +393,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host brings him in "in my ear to mansplain" the CNN exit poll, and he says Zohran Mamdani got about 32% of the Jewish vote in a poll of about 4,700 people.
 

@@ -435,7 +435,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host asks him what APB stands for and he answers "all-points bulletin" before her UVU footage appeal ("Mark has got a lot of random facts about every subject"). No claim anchor; registered for cross-episode continuity.
 

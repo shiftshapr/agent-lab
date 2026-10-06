@@ -230,7 +230,8 @@ Investigative Pressure: High
 
 ---
 
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
+
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host brings him in "to mansplain" the logs for USAF C37A 99-044: the transponder goes dark from Tucson, and the call sign switches from RCH (Reach) to SAM (Special Air Mission) after Fort Huachuca, which he reads as a senior official being picked up there.
 

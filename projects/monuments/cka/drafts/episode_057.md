@@ -224,7 +224,7 @@ Investigative Pressure: Low
 
 *Related: A-1634.2, C-2107*
 
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host brings him on to explain CERN; he describes its 1954 founding, the Higgs boson search, the Large Hadron Collider, and the 2012 "God particle" observation, prefacing that he is not a particle physicist. No claim anchor; registered for cross-episode continuity.
 

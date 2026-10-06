@@ -363,7 +363,7 @@ Related Nodes: N-1334
 - **Timestamp uncertainty:** Date of the Harpole↔Long text exchange is described as "on Monday before" but no date is given; the day-of-week reference is internal to the host's narration.
 - **Possible transcription error:** Host admits mixing the letter N and the number 9 during prior episodes; some plates (e.g., A-1425.1 "CWN-N9872") may contain N/9 ambiguity by her own acknowledgement.
 - **Requires human verification:** All A-1425.x plate strings require independent confirmation against rental records; A-1434.1 aircraft tail number not given.
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host asks him whether Blake Neff's call screenshot shows when the call began or ended, and he answers "It's when the call is initiated."
 
@@ -407,7 +407,7 @@ Timeline inference anchored by Blake Neff's 45-second 11:24 AZ-time call to his 
 - Claim Count: 2
 - Episode Count: 1
 - Investigative Pressure: Medium
-- *Related: A-1429.1, A-1429.2, C-1738, C-1739, N-417, N-422*
+- *Related: A-1429.1, A-1429.2, C-1738, C-1739*
 
 **N-1334** TWW Lewis Scottsdale-to-Provo Flight Manifest Mystery
 The Sept 10 Scottsdale→Provo flight (A-1434.1) arrived just ahead of the assassination; passengers unidentified.
@@ -415,7 +415,7 @@ The Sept 10 Scottsdale→Provo flight (A-1434.1) arrived just ahead of the assas
 - Claim Count: 1
 - Episode Count: 1
 - Investigative Pressure: High
-- *Related: A-1434.1, C-1744, N-420*
+- *Related: A-1434.1, C-1744*
 
 **N-1335** Calvary Chapel Pro-Israel Coordination
 Convergence of Rob McCoy's Jerusalem remarks (A-1430.1) and Calvary Chapel magazine's "Stand with Israel" / "Why Jews are hated" framing (A-1431.1).
@@ -423,6 +423,6 @@ Convergence of Rob McCoy's Jerusalem remarks (A-1430.1) and Calvary Chapel magaz
 - Claim Count: 1
 - Episode Count: 1
 - Investigative Pressure: Medium
-- *Related: A-1430.1, A-1431.1, C-1740, C-1741, N-422*
+- *Related: A-1430.1, A-1431.1, C-1740, C-1741*
 
 ---

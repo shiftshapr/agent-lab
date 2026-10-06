@@ -2,7 +2,7 @@
   "version": 1,
   "updated": "2026-10-07T05:15:00Z",
   "monument": "cka",
-  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11-20 extract; seq 157-159 Ep 394-396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster. 2026-10-06: N-10000..N-10022 remapped into person-band holes; next_person_id=230. 2026-10-06 seq160 Ep397: persons into holes N-230..N-411 (tombstone legacy-N-10023..N-10033); topics N-2365..N-2370; cites of N-10000..N-10022 retargeted onto PR50 low-band map; next_person_id=432. 2026-10-06 adversarial fix-all: Erica topics->N-2; mirror topics N-2275..2300->N-1207..1232; Chester sextuple->Derek Pepper Williams; Related spray strip; objectlike person retire; FBI/PragerU/Mitchell dedupe; claim forks/garbage; orphan Related sync. next_person_id=447. 2026-10-06 PR51 amend: collapse Erica person-subs N-1013/1020/1031 onto N-2; overwrite Erica topic retired ledger survives_as N-2; Mitchell N-1027->N-176 ledger; retire nonsense N-1318/N-2107; fill empty claims C-1735..1744; strip ad C-2070; sync draft spray Related for N-1207/08/09 to inscription keep-set. 2026-10-07: collapse Mark person duplicates N-237/N-407/N-527 onto N-98 (Mark (director, Candace show)).",
+  "remap_note": "Batch 1 BoC remap + Batch 2 seq 11-20 extract; seq 157-159 Ep 394-396 daily ingest. 2026-10-04 person lock: new persons start at N-10000. 2026-10-04 duplicate person collapse: extra person nodes retired onto the lowest id in each cluster. 2026-10-06: N-10000..N-10022 remapped into person-band holes; next_person_id=230. 2026-10-06 seq160 Ep397: persons into holes N-230..N-411 (tombstone legacy-N-10023..N-10033); topics N-2365..N-2370; cites of N-10000..N-10022 retargeted onto PR50 low-band map; next_person_id=432. 2026-10-06 adversarial fix-all: Erica topics->N-2; mirror topics N-2275..2300->N-1207..1232; Chester sextuple->Derek Pepper Williams; Related spray strip; objectlike person retire; FBI/PragerU/Mitchell dedupe; claim forks/garbage; orphan Related sync. next_person_id=447. 2026-10-06 PR51 amend: collapse Erica person-subs N-1013/1020/1031 onto N-2; overwrite Erica topic retired ledger survives_as N-2; Mitchell N-1027->N-176 ledger; retire nonsense N-1318/N-2107; fill empty claims C-1735..1744; strip ad C-2070; sync draft spray Related for N-1207/08/09 to inscription keep-set. 2026-10-07: collapse Mark person duplicates N-237/N-407/N-527 onto N-98 (Mark Herman (director, Candace show)).",
   "next_person_id": 447,
   "next_investigation_id": 2371,
   "nodes": {
@@ -1023,10 +1023,11 @@
       ]
     },
     "N-98": {
-      "canonical_name": "Mark (director, Candace show)",
+      "canonical_name": "Mark Herman (director, Candace show)",
       "type": "person",
       "aliases": [
-        "Mark"
+        "Mark",
+        "Mark Herman"
       ],
       "episodes": [
         3,

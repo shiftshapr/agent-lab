@@ -187,7 +187,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host defers to him ("I'm letting you Mark make a decision here") on whether to show one of six photos of the transport vehicle interior on air. No claim anchor; registered for cross-episode continuity.
 

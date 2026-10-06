@@ -450,7 +450,7 @@ X poster who broke down Bill Ackman's itinerary.
 
 ---
 
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
 
 Node Type: Person
 In-house director on Candace Owens' show, called on air by first name (seq 27 roster line: "Chris in editing, Mark mansplaining, and also being our director, Skyler, the producer"). Here the host brings him in ("Go ahead, Mark. Yeah. He's a guy that's always in my ear") and he points out ellipses above the indictment's Robinson-Lance text exchanges, saying the exchanges look cherry-picked.

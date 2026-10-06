@@ -179,7 +179,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here, in comments, the host asks him what classifies someone as a dignitary and he answers that it is a broad term covering senior government figures, aides, and even religious leaders. No claim anchor; registered for cross-episode continuity.
 

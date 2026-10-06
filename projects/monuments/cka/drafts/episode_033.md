@@ -293,7 +293,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he pulls up ADS-B Exchange raw data for Egyptian tail SUBND at the Duncan Aviation FBO in Provo on September 10 and reads the transponder windows, converting from UTC by subtracting seven hours (a viewer later corrects this to UTC minus 6). His presentation is the sole displayed source for the SUBND transponder timing claims.
 

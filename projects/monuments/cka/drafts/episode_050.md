@@ -297,7 +297,7 @@ Investigative Pressure: High
 
 ---
 
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host jokes about his travel schedule delaying book club; he answers "I'm going to Fort Huachuca" and she replies "To get your intelligence training." The exchange reads as on-air banter. No claim anchor; registered for cross-episode continuity.
 

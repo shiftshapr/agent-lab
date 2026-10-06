@@ -443,7 +443,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-98** Mark (director, Candace show)
+**N-98** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name. The host names him in her team roster here: "Chris in editing, Mark mansplaining, and also being our director, Skyler, the producer". Later he corrects the memorial date in her ear ("Mansplained in my ear. Thank you, Mark."). No claim anchor; registered for cross-episode continuity.
 
