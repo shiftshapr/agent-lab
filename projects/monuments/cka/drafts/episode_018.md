@@ -15,7 +15,7 @@
   - New Nodes Introduced:  N-247, N-248, N-249, N-251, N-254, N-1246, N-1247, N-1248, N-1249, N-1250, N-1251, N-1252, N-1253, N-1254, N-1255, N-1256
   - Reused Nodes Appearing: 
 
-This episode advances the medical and evidentiary thread of the investigation by introducing what the host describes as multi-source verified intelligence about the trajectory of the bullet recovered from Charlie Kirk. The host reads aloud an Andrew Kolbatz tweet purporting to convey a surgeon's account of the bullet path, then asserts — as a fact-checked finding — that Charlie was shot from the front, that the bullet did not exit, and that no .30-06 projectile was logged on the death certificate.
+This episode advances the medical and evidentiary thread of the investigation by introducing what the host describes as multi-source verified intelligence about the trajectory of the bullet recovered from Charlie Kirk. The host reads aloud an Andrew Kolbatz tweet purporting to convey a surgeon's account of the bullet path, then asserts — as a fact-checked finding — that Charlie was shot from the front, that the bullet did not exit, and that no .30-06 projectile was logged on the death certificate., N-37
 
 A second investigative strand focuses on the on-the-ground witnesses: the viral clip of a witness being physically prevented from speaking, Fox News interviews with event volunteer Cooper Brown (affiliated with the Leadership Institute), and Jason Chaffetz's eyewitness statement locating the shot close and ahead of Charlie. The host additionally raises questions about Caldera Engineering's staffing and corporate history.
 
@@ -410,7 +410,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -656,7 +656,7 @@ Claim Timestamp: 00:32:52
 Claim: The lawyer Caldera Engineering used in its early trademark filings in Arizona was the same lawyer introduced to the host by Tyler Bowyer of Turning Point USA.
 
 Anchored Artifacts: (host-stated based on legal records review; primary filing not displayed — see Optional Flags)
-Related Nodes: N-1250, N-10002
+Related Nodes: N-1250, N-37
 Investigative Direction: Pull Arizona trademark filings and confirm attorney of record.
 
 ---

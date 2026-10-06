@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-1648, N-1649, N-1650, N-1651, N-1652, N-1653, N-1654, N-1655, N-1656
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221
+  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-57
   - (see registers)
 
 ---
@@ -349,7 +349,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1921.1, C-2633, C-2641, N-1207, N-1211, N-1648, N-10014*
+*Related: A-1921.1, C-2633, C-2641, N-1207, N-1211, N-1648, N-57*
 
 **N-1213** Unidentified Goth Person in Broderick Companion Photo
 
@@ -553,7 +553,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10014** Mitt Romney
+**N-57** Mitt Romney
 
 Node Type: Person
 Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.
@@ -572,7 +572,7 @@ Claim: A 2012 New York Times article confirms that the friendship between Mitt R
 
 Anchored Artifacts: A-1917.1
 
-Related Nodes: N-1207, N-1208, N-1648, N-10014
+Related Nodes: N-1207, N-1208, N-1648, N-57
 
 Investigative Direction: Obtain the NYT 2012 article in full and verify the 1976 Boston Consulting Group employment dates against public records.
 

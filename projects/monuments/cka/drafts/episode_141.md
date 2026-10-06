@@ -38,7 +38,7 @@
 - Artifact Families Introduced: A-2277, A-2278, A-2279, A-2280, A-2281, A-2282, A-2283
 - Claim Range: C-3277–C-3289
   - New Nodes Introduced: N-2193, N-2194, N-2195
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212
+  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-46
 - Existing Nodes Reused: (Candace Owens, Erika Kirk, Charlie Kirk, Tyler Robinson treated as known series entities; node IDs not reissued)
 
 ---
@@ -141,7 +141,7 @@ Video Timestamp: 01:01:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3287, N-1211, N-10006*
+*Related: C-3287, N-1211, N-46*
 
 ---
 
@@ -193,7 +193,7 @@ Video Timestamp: 01:06:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3282, N-1207, N-1209, N-10006*
+*Related: C-3282, N-1207, N-1209, N-46*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:42:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3286, N-1207, N-2194, N-10006*
+*Related: C-3286, N-1207, N-2194, N-46*
 
 ---
 
@@ -328,7 +328,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10006** Andrew Wilson
+**N-46** Andrew Wilson
 
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
@@ -347,7 +347,7 @@ Claim: Andrew Wilson's debate opening statement was read aloud from a mobile pho
 
 Anchored Artifacts: A-2277.1
 
-Related Nodes: N-1207, N-2193, N-2194, N-10006
+Related Nodes: N-1207, N-2193, N-2194, N-46
 
 Investigative Direction: Verify whether Wilson subsequently publishes the underlying message text and cross-reference its platform of origin (Signal vs. iMessage) against prior Owens claims and Erika Kirk's prior December 2025 Glenn Beck statements.
 
@@ -359,7 +359,7 @@ Claim: When asked by the moderator for a 0–100 estimate of the likelihood that
 
 Anchored Artifacts: A-2277.2
 
-Related Nodes: N-1207, N-10006
+Related Nodes: N-1207, N-46
 
 Investigative Direction: Compare Wilson's stated confidence level against his debate claim that the evidence against Robinson is "overwhelming."
 
@@ -371,7 +371,7 @@ Claim: When challenged during the debate to name any of the seven charges Tyler 
 
 Anchored Artifacts: A-2277.4
 
-Related Nodes: N-1207, N-10006
+Related Nodes: N-1207, N-46
 
 Investigative Direction: Cross-reference the published charging instrument from the Utah case to verify the seven-count list and confirm which charge(s) Wilson named correctly versus incorrectly.
 
@@ -383,7 +383,7 @@ Claim: Throughout the debate, Andrew Wilson repeated the phrase "positive eviden
 
 Anchored Artifacts: A-2277.3
 
-Related Nodes: N-1207, N-10006
+Related Nodes: N-1207, N-46
 
 Investigative Direction: Count exact repetitions in full debate transcript; this claim is repeated in internet memes (A-2279.1) which may be cross-referenced for the specific count (the meme states 47).
 
@@ -395,7 +395,7 @@ Claim: The discussion between Candace Owens and Andrew Wilson was moderated by P
 
 Anchored Artifacts: A-2277, A-2277.6
 
-Related Nodes: N-1208, N-10006
+Related Nodes: N-1208, N-46
 
 Investigative Direction: Verify PBD's role through the published debate recording on his platform; confirm two named team members (Tom and PBD's executive assistant) were present on the pre-debate FaceTime call.
 
@@ -407,7 +407,7 @@ Claim: Immediately after the debate concluded, Steven Crowder telephoned Andrew 
 
 Anchored Artifacts: A-2281.1
 
-Related Nodes: N-1207, N-1209, N-10006
+Related Nodes: N-1207, N-1209, N-46
 
 Investigative Direction: Identify any further post-debate coordination between Crowder's organization and Wilson; verify whether the hair/makeup assertion contradicts the published terms of the debate.
 
@@ -431,7 +431,7 @@ Claim: Rachel Wilson posted on X stating, in effect, that Candace Owens would na
 
 Anchored Artifacts: A-2280.2
 
-Related Nodes: N-1210, N-10006
+Related Nodes: N-1210, N-46
 
 Investigative Direction: Retrieve the full text of Rachel Wilson's X post to confirm the exact wording and timestamp.
 
@@ -455,7 +455,7 @@ Claim: Prior to the debate, Andrew Wilson retweeted a comment reading "skimmed i
 
 Anchored Artifacts: A-2283.1
 
-Related Nodes: N-1207, N-2194, N-10006
+Related Nodes: N-1207, N-2194, N-46
 
 Investigative Direction: Retrieve the full X post with timestamp; identify the original poster; cross-reference with the dismissal filing released two days before the debate.
 
@@ -467,7 +467,7 @@ Claim: An AI-generated video titled "Jars Wide Shut," depicting Erika Kirk confr
 
 Anchored Artifacts: A-2278.1
 
-Related Nodes: N-1211, N-10006
+Related Nodes: N-1211, N-46
 
 Investigative Direction: Identify original posting timestamp; verify whether @whereforbidden's content has prior documented activity in the series.
 
@@ -479,7 +479,7 @@ Claim: A five-panel "Stages of Debate Grief" meme, with each stage attributed to
 
 Anchored Artifacts: A-2279.1
 
-Related Nodes: N-1212, N-10006
+Related Nodes: N-1212, N-46
 
 Investigative Direction: Identify original posting timestamp; verify whether @alpha_approved's content has prior documented activity in the series.
 
@@ -491,7 +491,7 @@ Claim: During his debate opening, Andrew Wilson asserted that he possessed Charl
 
 Anchored Artifacts: A-2277.1
 
-Related Nodes: N-1207, N-2193, N-10006
+Related Nodes: N-1207, N-2193, N-46
 
 Investigative Direction: Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-2193).
 

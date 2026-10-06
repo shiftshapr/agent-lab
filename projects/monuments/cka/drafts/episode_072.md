@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-911, N-912, N-916, N-917, N-919, N-920, N-924, N-925, N-927, N-928, N-930, N-931, N-932, N-1572, N-1573, N-1574, N-1575, N-1576
-  - Reused Nodes Appearing: N-1012
+  - Reused Nodes Appearing: N-1012, N-37
   - (see registers)
 
 ## 2. Executive Summary
@@ -79,7 +79,7 @@ Video Timestamp: 00:28:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2354, N-1012, N-70, N-10002*
+*Related: C-2354, N-1012, N-70, N-37*
 
 ---
 
@@ -241,7 +241,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1766.1, A-1767.1, A-1767.2, A-1768.1, C-2354, C-2355, C-2357, C-2358, N-10002*
+*Related: A-1766.1, A-1767.1, A-1767.2, A-1768.1, C-2354, C-2355, C-2357, C-2358, N-37*
 
 ---
 
@@ -466,7 +466,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -527,7 +527,7 @@ Claim: Tyler Bowyer stated at Charlie Kirk's memorial that Erika Kirk (Miss Ariz
 
 Anchored Artifacts: A-1766.1
 
-Related Nodes: N-1012, N-70, N-10002
+Related Nodes: N-1012, N-70, N-37
 
 Investigative Direction: Compare memorial account against contemporaneous text records between Bowyer and host.
 

@@ -30,7 +30,7 @@
 - Artifact Families Introduced: A-1895, A-1896, A-1897, A-1898, A-1899, A-1900, A-1901, A-1902
 - Claim Range: C-2560–C-2580
   - New Nodes Introduced: N-1633, N-1634, N-1635, N-1636, N-1637, N-1638
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213
+  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-37
 - Existing Nodes Reused: N-1 Charlie Kirk; N-2 Erica Kirk; N-3 Candace Owens; Andrew Kolvet; Frank Turek; Frank (TPUSA counsel); Nick Searcy; Stacey Sheridan; Joe Rogan; Alexis Wilkins; Kash Patel; Joe Kent; General Michael Flynn; Tucker Carlson; Allie Stuckey; Yair Netanyahu; Tim Dillon; Tyler Bowyer; Pam Bondi; Thomas Massie; Vladimir Putin; Alexander Dugin; Bibi Netanyahu; Turning Point USA (institution)
 
 ---
@@ -328,7 +328,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.

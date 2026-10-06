@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2066, N-2067, N-2068, N-2069, N-2070, N-2071, N-2072, N-2073
-  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223
+  - Reused Nodes Appearing: N-1207, N-1208, N-1209, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-1218, N-1219, N-1220, N-1221, N-1222, N-1223, N-57
   - (see registers)
 
 ## I. Meta-Data
@@ -58,7 +58,7 @@ Video Timestamp: 00:21:00–00:22:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2911, C-2913, C-2923, C-2930, C-2931, C-2932, C-2933, C-2934, N-1207, N-1208, N-1211, N-1213, N-1214, N-1218, N-2066, N-2067, N-2068, N-10014*
+*Related: C-2911, C-2913, C-2923, C-2930, C-2931, C-2932, C-2933, C-2934, N-1207, N-1208, N-1211, N-1213, N-1214, N-1218, N-2066, N-2067, N-2068, N-57*
 
 **A-2076.2** Host's internal working timeline graphic (displayed on-screen, June–September 2025)
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:46:40–00:47:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (comment-sourced reference; primary X account not displayed)
 
-*Related: C-2927, N-1219, N-10014*
+*Related: C-2927, N-1219, N-57*
 
 ---
 
@@ -382,7 +382,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2081.1, C-2925, N-1221, N-10014*
+*Related: A-2081.1, C-2925, N-1221, N-57*
 
 ---
 
@@ -529,7 +529,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10014** Mitt Romney
+**N-57** Mitt Romney
 
 Node Type: Person
 Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.
@@ -772,7 +772,7 @@ Claim: Per NYT article, on June 16, 1968, Mitt Romney was driving a car in south
 
 Anchored Artifacts: A-2081.1
 
-Related Nodes: N-1219, N-1220, N-1221, N-10014
+Related Nodes: N-1219, N-1220, N-1221, N-57
 
 Investigative Direction: Cross-check NYT article with contemporaneous French press; verify date.
 
@@ -800,7 +800,7 @@ Claim: Per viewer comment read on-air and host concurrence, Mitt Romney operated
 
 Anchored Artifacts: A-2082.1
 
-Related Nodes: N-1219, N-10014
+Related Nodes: N-1219, N-57
 
 Investigative Direction: Locate the @PierreDeleto account or its archived screenshots; cross-reference with prior reporting on Romney's French-language social media activity.
 
@@ -842,7 +842,7 @@ Claim: Per host (recapping prior episodes) and per the on-screen connection grap
 
 Anchored Artifacts: A-2076.1
 
-Related Nodes: N-1207, N-1218, N-2066, N-10014
+Related Nodes: N-1207, N-1218, N-2066, N-57
 
 Investigative Direction: Verify BCG employment for both Romney and Netanyahu via BCG alumni directories or independent reporting.
 
@@ -856,7 +856,7 @@ Claim: Per host (recapping prior episodes), Mitt Romney founded Bain Capital wit
 
 Anchored Artifacts: A-2076.1
 
-Related Nodes: N-1218, N-2066, N-10014
+Related Nodes: N-1218, N-2066, N-57
 
 Investigative Direction: Verify Bain Capital founding investors list; cross-check Robert Maxwell investment history.
 

@@ -12,10 +12,10 @@
 - **Model Version**: grok-manual-extract-seq157
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2350, N-2351, N-2352, N-2353, N-2354, N-10003
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-435, N-344, N-424, N-16, N-434, N-224, N-1291, N-1313, N-1720, N-2063, N-2073, N-2092, N-2329, N-2330, N-10000, N-10001, N-10002
+  - New Nodes Introduced: N-2350, N-2351, N-2352, N-2353, N-2354
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-435, N-344, N-424, N-16, N-434, N-224, N-1291, N-1313, N-1720, N-2063, N-2073, N-2092, N-2329, N-2330, N-30, N-36, N-37, N-40
   - (see registers)
-  - Person band: persons minted in this quality pass use N-10000+ (see node register). Minted here or reused: Maycee Crofts, Caleb Chilcutt, Tyler Bowyer, Kip Crofts. Baron Coleman spelling corrected, no new person.
+  - Person band: persons minted in this quality pass use N-30+ (see node register). Minted here or reused: Maycee Crofts, Caleb Chilcutt, Tyler Bowyer, Kip Crofts. Baron Coleman spelling corrected, no new person.
 
 # Episode 157 Analysis
 
@@ -48,7 +48,7 @@ Video Timestamp: 00:14:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as read); Medium (club-president intent characterization)
 
-*Related: C-3586, N-2351, N-2073, N-1313, N-10000*
+*Related: C-3586, N-2351, N-2073, N-1313, N-30*
 
 ---
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:05:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3584, N-2350, N-424, N-434, N-2092, N-10000*
+*Related: C-3584, N-2350, N-424, N-434, N-2092, N-30*
 
 ---
 
@@ -137,7 +137,7 @@ Video Timestamp: 01:12:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip as aired); Low (any causal link to UVU event—host presents as background context only)
 
-*Related: C-3593, N-2351, N-10000*
+*Related: C-3593, N-2351, N-30*
 
 ---
 
@@ -200,7 +200,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3585, A-2456.1, N-10000*
+*Related: C-3585, A-2456.1, N-30*
 
 ---
 
@@ -406,7 +406,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3586, C-3587, A-2451.2, A-2451.3, N-2073, N-1313, N-10000*
+*Related: C-3586, C-3587, A-2451.2, A-2451.3, N-2073, N-1313, N-30*
 
 ---
 
@@ -449,7 +449,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10000** Maycee Crofts
+**N-30** Maycee Crofts
 
 Node Type: Person
 TPUSA senior field representative. The UVU independent review names her as directing the courtyard and fountain booking.
@@ -458,7 +458,7 @@ TPUSA senior field representative. The UVU independent review names her as direc
 
 ---
 
-**N-10001** Caleb Chilcutt
+**N-36** Caleb Chilcutt
 
 Node Type: Person
 UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.
@@ -467,7 +467,7 @@ UVU TPUSA club president named in the independent review as the chapter contact 
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -476,7 +476,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ---
 
-**N-10003** Kip Crofts
+**N-40** Kip Crofts
 
 Node Type: Person
 Relative of Maycee Crofts. Host cites a public criminal-case dismissal news clip while sketching her biography.
@@ -495,7 +495,7 @@ Claim: The Lake Force independent review documents that despite repeated outreac
 
 Anchored Artifacts: A-2452.1, A-2451.1
 
-Related Nodes: N-2350, N-2329, N-424, N-434, N-2092, N-10000
+Related Nodes: N-2350, N-2329, N-424, N-434, N-2092, N-30
 
 Investigative Direction: Obtain the review’s outreach log appendices; confirm certified-letter receipts; request TPUSA written policy on third-party review cooperation.
 
@@ -523,7 +523,7 @@ Claim: The independent-review timeline states that on July 10, 2025, at the requ
 
 Anchored Artifacts: A-2451.2
 
-Related Nodes: N-2351, N-2073, N-1291, N-10000
+Related Nodes: N-2351, N-2073, N-1291, N-30
 
 Investigative Direction: Publish/obtain the underlying email quoted in the review; interview or FOIA UVU event-services records for July 10–18 submission chain.
 
@@ -537,7 +537,7 @@ Claim: Meeting participants told the review team that at the August 25 major-eve
 
 Anchored Artifacts: A-2451.3
 
-Related Nodes: N-2351, N-1313, N-2073, N-10000
+Related Nodes: N-2351, N-1313, N-2073, N-30
 
 Investigative Direction: Obtain MEAC minutes / Teams recording if retained; list UVU staff who raised concerns and their stated risk bases.
 
@@ -621,7 +621,7 @@ Claim: Host presents news-clip reporting that the criminal case against former c
 
 Anchored Artifacts: A-2457.1
 
-Related Nodes: N-2351, N-10000, N-10003
+Related Nodes: N-2351, N-30, N-40
 
 Investigative Direction: Verify case caption, docket, dismissal basis, and kinship from primary court records before any graph edge beyond “host-asserted background.”
 

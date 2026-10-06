@@ -292,7 +292,7 @@ Video Timestamp: 00:51:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: N-1224, N-1233, N-1234, N-1235, N-10006*
+*Related: N-1224, N-1233, N-1234, N-1235, N-46*
 
 ---
 
@@ -335,7 +335,7 @@ Node Type: topic
 
 *Related:*
 
-**N-10006** Andrew Wilson
+**N-46** Andrew Wilson
 
 Node Type: Person
 Online debater. A viewer comment read on this episode references him.

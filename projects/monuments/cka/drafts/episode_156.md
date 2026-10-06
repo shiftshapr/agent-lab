@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: c32da8cd664ed494ce187fb3608dadb0e6203f099e44e61f6891ccc4eb88cd7d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2341, N-2342, N-2343, N-2344, N-2345, N-10001, N-10002
-  - Reused Nodes Appearing: N-1, N-1032, N-2275, N-2276, N-2277, N-2278
+  - New Nodes Introduced: N-2341, N-2342, N-2343, N-2344, N-2345
+  - Reused Nodes Appearing: N-1, N-1032, N-2275, N-2276, N-2277, N-2278, N-36, N-37, N-46
   - (see registers)
 
 # Episode 156 Analysis
@@ -216,7 +216,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: A-2423.1, N-10006*
+*Related: A-2423.1, N-46*
 
 ---
 
@@ -337,7 +337,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10001** Caleb Chilcutt
+**N-36** Caleb Chilcutt
 
 Node Type: Person
 UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.
@@ -346,7 +346,7 @@ UVU TPUSA club president named in the independent review as the chapter contact 
 
 ---
 
-**N-10006** Andrew Wilson
+**N-46** Andrew Wilson
 
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
@@ -365,7 +365,7 @@ Claim: The wider-format tent footage shows that the person previously identified
 
 Anchored Artifacts: A-2416.1
 
-Related Nodes: N-2276, N-10001
+Related Nodes: N-2276, N-36
 
 Investigative Direction: Cross-reference other footage and photographs to identify the actual individual and confirm the correction.
 

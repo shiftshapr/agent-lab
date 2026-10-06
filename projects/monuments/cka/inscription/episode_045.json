@@ -520,8 +520,8 @@
   ,
       {
         "@type": "Person",
-        "@id": "N-10005",
-        "ref": "N-10005",
+        "@id": "N-44",
+        "ref": "N-44",
         "name": "Sergio Gor",
         "type": "person",
         "description": "Trump-world operative and later US ambassador to India. Host ties him to Winning Team Publishing and to Susie Wiles's orbit.",
@@ -596,7 +596,7 @@
       "related_nodes": [
         "N-1004"
       ,
-            "N-10005"
+            "N-44"
           ],
       "tags": [],
       "claim_timestamp": "00:10:45",

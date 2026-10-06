@@ -35,7 +35,7 @@
 - Artifact Families Introduced: A-1525, A-1526, A-1527, A-1528, A-1529, A-1530, A-1531, A-1532
 - Claim Range: C-1897–C-1911
   - New Nodes Introduced: N-527, N-1403, N-1404
-  - Reused Nodes Appearing: N-1004
+  - Reused Nodes Appearing: N-1004, N-44
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-1004 (Erica Kirk), and references to other recurring figures by name (Tucker Carlson, Theo Von, Harris Faulkner, Sergio Gor, Bari Weiss, Milo Yiannopoulos, Blake Nef, Harry, Brian Harpole, Rob McCoy, Mikey, Josh Hammer, Pam Bondi, Tim Pool, Jordan Peterson, Bethany Frankel, Mark, Tara Cross)
 
 ---
@@ -84,7 +84,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:10:45
 Confidence Level: High
 
-*Related: C-1900, N-1004, N-10005*
+*Related: C-1900, N-1004, N-44*
 
 ---
 
@@ -295,7 +295,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10005** Sergio Gor
+**N-44** Sergio Gor
 
 Node Type: Person
 Trump-world operative and later US ambassador to India. Host ties him to Winning Team Publishing and to Susie Wiles's orbit.
@@ -352,7 +352,7 @@ Claim Timestamp: 00:10:45
 Claim: Erika Kirk appeared at Sergio Gor's swearing-in ceremony as US Ambassador to India, delivering a brief speech in which she stated "Charlie loved you" and "Charlie is going to be with you every single day in spirit."
 
 Anchored Artifacts: A-1527.1
-Related Nodes: N-1004, N-10005
+Related Nodes: N-1004, N-44
 
 Investigative Direction: Cross-reference ceremony date with Erika Kirk's public schedule; verify any travel reimbursement or charter flight records.
 

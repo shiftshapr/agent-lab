@@ -12,10 +12,10 @@
 - **Model Version**: grok-manual-extract-seq159
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2360, N-2361, N-2362, N-2363, N-2364, N-10007, N-10008, N-10009, N-10010, N-10011, N-10012, N-10013, N-10014, N-10015, N-10016, N-10017, N-10018, N-10019, N-10020, N-10021, N-10022
-  - Reused Nodes Appearing: N-1, N-2, N-35, N-50, N-65, N-66, N-69, N-75, N-5, N-102, N-117, N-120, N-134, N-42, N-272, N-435, N-326, N-696, N-424, N-16, N-796, N-434, N-867, N-898, N-224, N-1098, N-1121, N-1395, N-1459, N-2329, N-2350, N-2351, N-2354, N-2355, N-2357, N-2359, N-10001, N-10004, N-10006
+  - New Nodes Introduced: N-2360, N-2361, N-2362, N-2363, N-2364
+  - Reused Nodes Appearing: N-1, N-2, N-35, N-50, N-65, N-66, N-69, N-75, N-5, N-102, N-117, N-120, N-134, N-42, N-272, N-435, N-326, N-696, N-424, N-16, N-796, N-434, N-867, N-898, N-224, N-1098, N-1121, N-1395, N-1459, N-2329, N-2350, N-2351, N-2354, N-2355, N-2357, N-2359, N-36, N-41, N-46, N-30, N-47, N-48, N-49, N-51, N-52, N-53, N-54, N-57, N-58, N-178, N-182, N-209, N-213, N-215, N-223, N-225
   - (see registers)
-  - Person band: persons minted in this quality pass use N-10000+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dylan stays N-443 and N-443. Karoline Leavitt stays N-446. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.
+  - Person band: persons minted in this quality pass use N-30+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dylan stays N-443 and N-443. Karoline Leavitt stays N-446. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.
 
 # Episode 159 Analysis
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:15:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (document as shown); Medium (payment-total discrepancy interpretation)
 
-*Related: C-3609, N-2361, N-10011*
+*Related: C-3609, N-2361, N-52*
 
 ---
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (document as shown)
 
-*Related: C-3610, N-2361, N-2354, N-2351, N-10007*
+*Related: C-3610, N-2361, N-2354, N-2351, N-47*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:29:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (as attributed to NYT); verify against primary article/book
 
-*Related: C-3612, N-2362, N-1395, N-4, N-102, N-120, N-867, N-5, N-10015*
+*Related: C-3612, N-2362, N-1395, N-4, N-102, N-120, N-867, N-5, N-58*
 
 ---
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:51:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clips as aired); Low–Medium (daycare/building causal link—host speculation)
 
-*Related: C-3614, N-2364, N-69, N-2, N-10012, N-10013*
+*Related: C-3614, N-2364, N-69, N-2, N-53, N-54*
 
 ---
 
@@ -128,7 +128,7 @@ Video Timestamp: 01:00:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (comments as read); Medium (Telegram dual-account allegation)
 
-*Related: C-3615, C-3616, N-2360, N-272, N-1121, N-2355, N-10006*
+*Related: C-3615, C-3616, N-2360, N-272, N-1121, N-2355, N-46*
 
 ---
 
@@ -310,7 +310,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3616, N-696, N-10006*
+*Related: C-3616, N-696, N-46*
 
 ---
 
@@ -538,7 +538,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-2362, N-10001*
+*Related: C-3611, N-2362, N-36*
 
 ---
 
@@ -562,7 +562,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3608, N-2, N-10004*
+*Related: C-3608, N-2, N-41*
 
 ---
 
@@ -612,7 +612,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3609, C-3610, A-2467.1, A-2468.1, N-1459, N-2354, N-10007*
+*Related: C-3609, C-3610, A-2467.1, A-2468.1, N-1459, N-2354, N-47*
 
 ---
 
@@ -638,7 +638,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3613, A-2471.1, N-50, N-10012*
+*Related: C-3613, A-2471.1, N-50, N-53*
 
 ---
 
@@ -651,11 +651,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3614, A-2472.1, N-69, N-2, N-10012*
+*Related: C-3614, A-2472.1, N-69, N-2, N-53*
 
 ---
 
-**N-10001** Caleb Chilcutt
+**N-36** Caleb Chilcutt
 
 Node Type: Person
 UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.
@@ -664,7 +664,7 @@ UVU TPUSA club president named in the independent review as the chapter contact 
 
 ---
 
-**N-10004** Clara Molot
+**N-41** Clara Molot
 
 Node Type: Person
 Vanity Fair writer of the Erika Kirk profile the host reads as an unflattering portrait.
@@ -673,7 +673,7 @@ Vanity Fair writer of the Erika Kirk profile the host reads as an unflattering p
 
 ---
 
-**N-10006** Andrew Wilson
+**N-46** Andrew Wilson
 
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
@@ -682,7 +682,7 @@ Online debater who offered the host a paid Charlie Kirk debate and claimed a TPU
 
 ---
 
-**N-10007** Laine Schoneberger
+**N-47** Laine Schoneberger
 
 Node Type: Person
 Why Refi CEO. Host says he spoke briefly at the UVU pre-show and co-founded the sponsoring company.
@@ -691,7 +691,7 @@ Why Refi CEO. Host says he spoke briefly at the UVU pre-show and co-founded the 
 
 ---
 
-**N-10008** Dylan Erickson
+**N-48** Dylan Erickson
 
 Node Type: Person
 TPUSA sponsorship lead, described by the host as a former TPUSA employee with conflicts around the Why Refi deal.
@@ -700,7 +700,7 @@ TPUSA sponsorship lead, described by the host as a former TPUSA employee with co
 
 ---
 
-**N-10009** Dennis Fenstermaker
+**N-49** Dennis Fenstermaker
 
 Node Type: Person
 Co-founder of Why Refi with Laine Schoneberger, as read from coverage of the sponsorship company (2017).
@@ -709,7 +709,7 @@ Co-founder of Why Refi with Laine Schoneberger, as read from coverage of the spo
 
 ---
 
-**N-10010** Alan Collinge
+**N-51** Alan Collinge
 
 Node Type: Person
 Founder of Student Loan Justice. Host quotes him criticizing TPUSA's Why Refi sponsorship.
@@ -718,7 +718,7 @@ Founder of Student Loan Justice. Host quotes him criticizing TPUSA's Why Refi sp
 
 ---
 
-**N-10011** Riley Gaines
+**N-52** Riley Gaines
 
 Node Type: Person
 Athlete named as a Why Refi contracted appearance in the February 2025 TPUSA sponsorship agreement.
@@ -727,7 +727,7 @@ Athlete named as a Why Refi contracted appearance in the February 2025 TPUSA spo
 
 ---
 
-**N-10012** Brian Cole Jr.
+**N-53** Brian Cole Jr.
 
 Node Type: Person
 Man federal authorities present as the January 6 pipe-bomb suspect. Host argues the confession was coerced.
@@ -736,7 +736,7 @@ Man federal authorities present as the January 6 pipe-bomb suspect. Host argues 
 
 ---
 
-**N-10013** Lori Jane Gliha
+**N-54** Lori Jane Gliha
 
 Node Type: Person
 Scripps investigative correspondent who aired prior bodycam of Brian Cole Jr. and, the host says, of Tyler Robinson.
@@ -745,7 +745,7 @@ Scripps investigative correspondent who aired prior bodycam of Brian Cole Jr. an
 
 ---
 
-**N-10015** Maggie Haberman
+**N-58** Maggie Haberman
 
 Node Type: Person
 New York Times reporter. Host cites the Haberman and Swan book on Epstein-file meetings inside the White House.
@@ -754,7 +754,7 @@ New York Times reporter. Host cites the Haberman and Swan book on Epstein-file m
 
 ---
 
-**N-10016** Jonathan Swan
+**N-178** Jonathan Swan
 
 Node Type: Person
 New York Times reporter. Co-author, with Maggie Haberman, of the book the host cites on Epstein situation-room meetings.
@@ -763,7 +763,7 @@ New York Times reporter. Co-author, with Maggie Haberman, of the book the host c
 
 ---
 
-**N-10017** Susie Wiles
+**N-182** Susie Wiles
 
 Node Type: Person
 White House chief of staff. Host questions her Kirk eulogy and names her in Epstein-file situation-room meetings.
@@ -772,7 +772,7 @@ White House chief of staff. Host questions her Kirk eulogy and names her in Epst
 
 ---
 
-**N-10018** Taylor Budowich
+**N-209** Taylor Budowich
 
 Node Type: Person
 Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.
@@ -781,7 +781,7 @@ Trump-world communications figure. Host cites his posts and names him among Epst
 
 ---
 
-**N-10019** David Warrington
+**N-213** David Warrington
 
 Node Type: Person
 Trump-world lawyer named by the host among Epstein-file situation-room attendees (and as absent from one later list).
@@ -790,7 +790,7 @@ Trump-world lawyer named by the host among Epstein-file situation-room attendees
 
 ---
 
-**N-10020** James Blair
+**N-215** James Blair
 
 Node Type: Person
 Trump-world aide named by the host among Epstein-file situation-room attendees.
@@ -799,7 +799,7 @@ Trump-world aide named by the host among Epstein-file situation-room attendees.
 
 ---
 
-**N-10021** Stanley Woodward
+**N-223** Stanley Woodward
 
 Node Type: Person
 Trump-world lawyer. Host's attendee read (ASR Woodwick) places him with Susie Wiles, Taylor Budowich, David Warrington, and James Blair.
@@ -808,7 +808,7 @@ Trump-world lawyer. Host's attendee read (ASR Woodwick) places him with Susie Wi
 
 ---
 
-**N-10022** Steven Cheung
+**N-225** Steven Cheung
 
 Node Type: Person
 White House communications aide. Named on the WHMO email CC list and in the Epstein situation-room attendee read (ASR Chung/Chong).
@@ -817,7 +817,7 @@ White House communications aide. Named on the WHMO email CC list and in the Epst
 
 ---
 
-**N-10014** Mitt Romney
+**N-57** Mitt Romney
 
 Node Type: Person
 Former US senator. Host recalls his BCG advisory tie to Benjamin Netanyahu in the concurrent timeline.
@@ -850,7 +850,7 @@ Claim: Host displays a February 2025 contract under which Why Refi pays TPUSA ~$
 
 Anchored Artifacts: A-2467.1
 
-Related Nodes: N-2361, N-1459, N-10007, N-10008, N-10009, N-10010, N-10011
+Related Nodes: N-2361, N-1459, N-47, N-48, N-49, N-51, N-52
 
 Investigative Direction: Hash/store contract PDFs; verify signatories and whether theater construction completed; note conflict-of-interest allegations as unproven.
 
@@ -864,7 +864,7 @@ Claim: Despite the February master deal already covering the year, a July 25 add
 
 Anchored Artifacts: A-2468.1, A-2467.1
 
-Related Nodes: N-2361, N-2354, N-2351, N-134, N-10007
+Related Nodes: N-2361, N-2354, N-2351, N-134, N-47
 
 Investigative Direction: Confirm addendum execution date and wire evidence; separate confirmed contract terms from hearsay that Why Refi picked UVU.
 
@@ -878,7 +878,7 @@ Claim: Host argues Macron/Brigitte pressure calls, June Iran debate/Instagram pu
 
 Anchored Artifacts: A-2469.1
 
-Related Nodes: N-2362, N-2354, N-2351, N-2359, N-1098, N-5, N-898, N-117, N-65, N-16, N-10014
+Related Nodes: N-2362, N-2354, N-2351, N-2359, N-1098, N-5, N-898, N-117, N-65, N-16, N-57
 
 Investigative Direction: Source each bullet to primary docs; mark inference edges explicitly; do not treat composite as single proven conspiracy.
 
@@ -892,7 +892,7 @@ Claim: Citing New York Times reporting by Maggie Haberman and Jonathan Swan, hos
 
 Anchored Artifacts: A-2470.1
 
-Related Nodes: N-2362, N-1395, N-35, N-4, N-102, N-120, N-867, N-5, N-10015, N-10016, N-10017, N-10018, N-10019, N-10020, N-10021, N-10022
+Related Nodes: N-2362, N-1395, N-35, N-4, N-102, N-120, N-867, N-5, N-58, N-178, N-182, N-209, N-213, N-215, N-223, N-225
 
 Investigative Direction: Pull primary NYT passages; verify attendee lists; keep “murdered over Epstein” as host hypothesis only.
 
@@ -906,7 +906,7 @@ Claim: Host, following published interrogation narrative and Tucker parents inte
 
 Anchored Artifacts: A-2471.1
 
-Related Nodes: N-2363, N-50, N-10012
+Related Nodes: N-2363, N-50, N-53
 
 Investigative Direction: Obtain full interrogation recordings/transcripts and defense filings; avoid minting Cole as Person until register policy allows.
 
@@ -920,4 +920,4 @@ Claim: Host shows Scripps packages in which the same correspondents present mino
 
 Anchored Artifacts: A-2472.1
 
-Related Nodes: N-2364, N-69, N-2, N-10012, N-10013
+Related Nodes: N-2364, N-69, N-2, N-53, N-54

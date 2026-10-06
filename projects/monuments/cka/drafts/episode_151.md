@@ -30,7 +30,7 @@
   - Artifact Families Introduced: A-2362, A-2363, A-2364, A-2365, A-2366, A-2367, A-2368, A-2369, A-2370, A-2371, A-2372, A-2373
   - Claim Range: C-3426–C-3444
   - New Nodes Introduced: N-2317, N-2318, N-2319, N-2320
-  - Reused Nodes Appearing: N-2275, N-2276, N-2277
+  - Reused Nodes Appearing: N-2275, N-2276, N-2277, N-37
   - Existing Nodes Reused (by name — IDs require ledger resolution): Charlie Kirk, Erica Kirk, Frank Turek, Brian Harpole, Blake Harif/Hariff, Tyler Robinson, Terrell Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
 
 ---
@@ -99,7 +99,7 @@ Video Timestamp: 00:40:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3427, N-2317, Tyler Bowyer (existing node — ID resolution required), N-10002*
+*Related: C-3427, N-2317, Tyler Bowyer (existing node — ID resolution required), N-37*
 
 ---
 
@@ -308,7 +308,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -338,7 +338,7 @@ Claim Timestamp: 00:40:50
 Claim: Tyler Bowyer, identified by host as running TP Action, posted the Commit 100 / Chase the Ballots program link as the action item in response to the alleged statue vandalism.
 
 Anchored Artifacts: A-2365.1
-Related Nodes: N-2317, Tyler Bowyer (existing node — ID resolution required), N-10002
+Related Nodes: N-2317, Tyler Bowyer (existing node — ID resolution required), N-37
 Investigative Direction: Pull the original tweet with timestamp; confirm author and program URL.
 
 ---
@@ -518,7 +518,7 @@ Claim Timestamp: 00:37:35–00:43:46
 Claim: TPUSA and affiliated accounts (Andrew Kolvet, Erica Kirk, Tyler Bowyer) characterized the statue as having been vandalized with red paint, in some accounts crossing out the name of Jesus Christ, on or about the early morning of September 13, 2026.
 
 Anchored Artifacts: A-2363.1, A-2364.1, A-2365.1, A-2366.1, A-2373.1
-Related Nodes: N-2317, N-10002
+Related Nodes: N-2317, N-37
 Investigative Direction: Confirm police / Tempenogo PD report; review any TPUSA-released surveillance or police bulletin.
 
 ---

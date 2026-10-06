@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 255df2ef72af812fba530a694f3369c63ecb1dc93d6c3d5d64b7ca555bbad9c1
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-2323, N-2324, N-2325, N-2326, N-2327, N-2328, N-2329, N-10000
-  - Reused Nodes Appearing: N-1030, N-2275, N-2277, N-2278
+  - New Nodes Introduced: N-2323, N-2324, N-2325, N-2326, N-2327, N-2328, N-2329
+  - Reused Nodes Appearing: N-1030, N-2275, N-2277, N-2278, N-30
   - (see registers)
 
 ## I. Meta-Data
@@ -305,7 +305,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10000** Maycee Crofts
+**N-30** Maycee Crofts
 
 Node Type: Person
 TPUSA senior field representative. The UVU independent review names her as directing the courtyard and fountain booking.
@@ -531,7 +531,7 @@ Investigative Direction: Verify against UVU PD staffing rosters and Utah public-
 Claim Timestamp: 00:16:22
 Claim: On August 25, 2025, TPUSA events committee employee Maycee Crofts insisted during a Microsoft Teams call that the event be held in the amphitheater; UVU acquiesced. **Timestamp uncertainty:** transcript spells year as "20125" — clearly a transcription error for 2025.
 Anchored Artifacts: A-2384.1
-Related Nodes: N-10000, N-1
+Related Nodes: N-30, N-1
 Investigative Direction: Recover Microsoft Teams call metadata and any TPUSA event-planning emails.
 
 ---

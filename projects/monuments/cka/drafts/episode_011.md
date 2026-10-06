@@ -14,7 +14,7 @@ e8c1a85c85a914d7ab71315326ce9f09344096413e804ca240db71899ffb485
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-176, N-177, N-179, N-180, N-181, N-1207, N-1208, N-1209, N-1210, N-1211
   - Reused Nodes Appearing: 
-- Episode Number: Monument Ep 11 (Batch 1)
+- Episode Number: Monument Ep 11 (Batch 1), N-37
 - Channel / Creator: Candace Owens (@RealCandaceO)
 - Episode Date: 2025-09-29
 - Source Used for Analysis: YouTube transcript (yt-dlp-auto-tv_embedded) cleaned with video context
@@ -404,7 +404,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.

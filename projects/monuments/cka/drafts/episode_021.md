@@ -31,7 +31,7 @@
   - Claim Range: C-1514–C-1526
   - New Nodes Introduced:  N-288, N-1266, N-1267, N-1268
   - Reused Nodes Appearing: 
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-182
 
 ---
 
@@ -213,7 +213,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10017** Susie Wiles
+**N-182** Susie Wiles
 
 Node Type: Person
 White House chief of staff. Host questions her as a Kirk eulogist and names her in later Epstein-file meetings.
@@ -316,7 +316,7 @@ Claim: Following the inquiry, Kash Patel convened a meeting with Susie Wiles, Jo
 
 Anchored Artifacts: A-1286.1
 
-Related Nodes: N-1268, N-10017
+Related Nodes: N-1268, N-182
 
 Investigative Direction: Confirm via the NYT article whether these named officials were present and whether subsequent reporting describes any action items.
 

@@ -15,7 +15,7 @@
   - New Nodes Introduced:  N-269, N-272, N-273, N-277, N-278, N-281, N-283, N-284, N-285, N-1262, N-1263, N-1264, N-1265
   - Reused Nodes Appearing: 
 
-The episode advances several investigative threads already active in the series (Mikey McCoy's actions on September 10, the trauma-hospital routing question, the "306 bullet wound" forensic question, and TPUSA personnel analysis) while introducing a new artifact family tied to the alleged UVU Hospital medical record. The text-message artifacts and audio clips are the structural core of the episode's evidentiary record.
+The episode advances several investigative threads already active in the series (Mikey McCoy's actions on September 10, the trauma-hospital routing question, the "306 bullet wound" forensic question, and TPUSA personnel analysis) while introducing a new artifact family tied to the alleged UVU Hospital medical record. The text-message artifacts and audio clips are the structural core of the episode's evidentiary record., N-37, N-182
 
 ---
 
@@ -249,7 +249,7 @@ Confidence Level: Medium (chart described in transcript; full content not transc
 
 Contents (per host narration): Lists Frank Turk, Andrew Kovett, Rob McCoy, Mikey McCoy, Tyler Bowyer and identifies military-family members including Captain Kurt Kovvet, Captain Robert Kovvet, Roy Edgar McCoy (naval captain, assistant chief of staff for psychological warfare).
 
-*Related: C-1505, C-1506, N-42, N-272, N-16, N-45, N-70, N-1264, N-10002*
+*Related: C-1505, C-1506, N-42, N-272, N-16, N-45, N-70, N-1264, N-37*
 
 ---
 
@@ -524,11 +524,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10017*
+*Related: N-182*
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -537,7 +537,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ---
 
-**N-10017** Susie Wiles
+**N-182** Susie Wiles
 
 Node Type: Person
 White House chief of staff. Host questions her Kirk eulogy and names her in Epstein-file situation-room meetings.

@@ -15,7 +15,7 @@
   - New Nodes Introduced: N-226, N-227, N-228, N-229, N-231, N-233, N-235, N-237, N-238, N-242, N-243, N-245, N-1240, N-1241, N-1242, N-1243, N-1244, N-1245
   - Reused Nodes Appearing: 
 
-**Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk — referenced via text-message claims), N-? (Candace Owens), N-? (Tucker Carlson), N-? (Tyler Robinson), N-? (Benjamin Netanyahu), N-? (Megyn Kelly), N-? (Matt Gaetz), N-? (Michael Knowles), N-? (Ian Carroll), N-? (Max Blumenthal)
+**Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk — referenced via text-message claims), N-? (Candace Owens), N-? (Tucker Carlson), N-? (Tyler Robinson), N-? (Benjamin Netanyahu), N-? (Megyn Kelly), N-? (Matt Gaetz), N-? (Michael Knowles), N-? (Ian Carroll), N-? (Max Blumenthal), N-37
 
 ---
 
@@ -610,7 +610,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10002** Tyler Bowyer
+**N-37** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -849,7 +849,7 @@ Claim Timestamp: 00:07:54
 Claim: Tyler Bowyer posted accusatory content on X, calling people names rather than addressing substantive questions.
 
 Anchored Artifacts: None (host narrative reference; not anchored in this episode)
-Related Nodes: N-70, N-10002
+Related Nodes: N-70, N-37
 
 Investigative Direction: Capture and verify direct screenshots of Bowyer's X posts.
 

@@ -30,7 +30,7 @@
   - Artifact Families Introduced: A-2254, A-2255, A-2256, A-2257, A-2258, A-2259, A-2260, A-2261, A-2262, A-2263, A-2264, A-2265
   - Claim Range: C-3236–C-3258
   - New Nodes Introduced: N-2185, N-2186, N-2187, N-2188, N-2189
-  - Reused Nodes Appearing: N-1207, N-1208, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-69
+  - Reused Nodes Appearing: N-1207, N-1208, N-1210, N-1211, N-1212, N-1213, N-1214, N-1215, N-1216, N-1217, N-69, N-46
   - Existing Nodes Reused: N-1, N-2
 
 ---
@@ -402,7 +402,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10006** Andrew Wilson
+**N-46** Andrew Wilson
 
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
@@ -449,7 +449,7 @@ Claim: On the Joe Rogan Experience, Andrew Wilson stated he offered Candace Owen
 
 Anchored Artifacts: A-2255.1
 
-Related Nodes: N-1207, N-1213, N-10006
+Related Nodes: N-1207, N-1213, N-46
 
 Investigative Direction: Verify funding source of the $300K offer; obtain any formal documentation or PR communications.
 
@@ -463,7 +463,7 @@ Claim: On the Joe Rogan Experience, Andrew Wilson stated that during a visit to 
 
 Anchored Artifacts: A-2255.2
 
-Related Nodes: N-1207, N-2, N-1213, N-10006
+Related Nodes: N-1207, N-2, N-1213, N-46
 
 Investigative Direction: Verify TPUSA HQ visit through visitor logs, Erica Kirk's public statements, and corroborating witnesses.
 
@@ -477,7 +477,7 @@ Claim: On the Joe Rogan Experience, Andrew Wilson stated that Candace Owens has 
 
 Anchored Artifacts: A-2255.3
 
-Related Nodes: N-1207, N-1213, N-1, N-2, N-10006
+Related Nodes: N-1207, N-1213, N-1, N-2, N-46
 
 Investigative Direction: Catalogue all Candace Owens public statements and shown evidence; evaluate the "no evidence" characterization against documented artifacts.
 
@@ -491,7 +491,7 @@ Claim: Andrew Kovac stated on X that Andrew Wilson was paid for one day of debat
 
 Anchored Artifacts: A-2256.1
 
-Related Nodes: N-1207, N-1210, N-10006
+Related Nodes: N-1207, N-1210, N-46
 
 Investigative Direction: Obtain TPUSA payment records or 1099 documentation for Andrew Wilson.
 
@@ -505,7 +505,7 @@ Claim: Blake Nef posted on X recommending Andrew Wilson's Joe Rogan appearance, 
 
 Anchored Artifacts: A-2257.1
 
-Related Nodes: N-1207, N-1211, N-10006
+Related Nodes: N-1207, N-1211, N-46
 
 Investigative Direction: Cross-reference Nef's TPUSA affiliation and prior amplification patterns.
 
@@ -519,7 +519,7 @@ Claim: A displayed debate clip shows Andrew Wilson, debating a female opponent n
 
 Anchored Artifacts: A-2258.1
 
-Related Nodes: N-1207, N-1215, N-10006
+Related Nodes: N-1207, N-1215, N-46
 
 Investigative Direction: Obtain full unedited debate recording to verify context and whether insults were reciprocated.
 
