@@ -882,6 +882,21 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-98",
+      "ref": "N-98",
+      "name": "Mark (director, Candace show)",
+      "type": "person",
+      "description": "In-house director on Candace Owens' show, called on air by first name. The host names him in her team roster here: \"Chris in editing, Mark mansplaining, and also being our director, Skyler, the producer\". Later he corrects the memorial date in her ear (\"Mansplained in my ear. Thank you, Mark.\"). No claim anchor; registered for cross-episode continuity.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [

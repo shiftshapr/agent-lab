@@ -443,6 +443,19 @@ Investigative Pressure: Low
 
 ---
 
+**N-98** Mark (director, Candace show)
+
+In-house director on Candace Owens' show, called on air by first name. The host names him in her team roster here: "Chris in editing, Mark mansplaining, and also being our director, Skyler, the producer". Later he corrects the memorial date in her ear ("Mansplained in my ear. Thank you, Mark."). No claim anchor; registered for cross-episode continuity.
+
+Evidence Count: 0
+Claim Count: 0
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: None*
+
+---
+
 ### Investigation Targets
 
 **N-1298** UVU Event Approval Timeline Discrepancy

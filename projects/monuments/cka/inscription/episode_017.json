@@ -704,11 +704,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-237",
-      "ref": "N-237",
-      "name": "Mark (producer)",
+      "@id": "N-98",
+      "ref": "N-98",
+      "name": "Mark (director, Candace show)",
       "type": "person",
-      "description": "On-air dialogue partner; provides the trivia fact (\"all-points bulletin = APB\"). Not artifact-anchored; included as a registered node for cross-episode continuity.",
+      "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host asks him what APB stands for and he answers \"all-points bulletin\" before her UVU footage appeal (\"Mark has got a lot of random facts about every subject\"). No claim anchor; registered for cross-episode continuity.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -1128,8 +1128,7 @@
         "A-1244.1"
       ],
       "related_nodes": [
-        "N-1",
-        "N-237"
+        "N-1"
       ],
       "tags": [],
       "claim_timestamp": "00:04:50",

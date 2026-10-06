@@ -525,6 +525,19 @@ Investigative Pressure: Low
 
 ---
 
+**N-98** Mark (director, Candace show)
+
+In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he corrects the host's timeline in real time ("Mark is saying that the Lincoln chapter was opened. I had that in the wrong date"), moving the UNL TPUSA chapter launch to May 2025, and is asked to pull up tail-number flight data.
+
+Evidence Count: 0
+Claim Count: 1
+Episode Count: 1
+Investigative Pressure: Low
+
+*Related: C-1548*
+
+---
+
 **N-1273** SUBTT (Egyptian military aircraft) Flight Tracking Question
 
 Persistent investigative target across 2022–2025 relating to the host's claim that the aircraft's itinerary repeatedly coincides with TPUSA, TPUSA Faith, and Charlie Kirk locations.
@@ -579,7 +592,7 @@ Investigative Pressure: Medium
 
 **N-1277** Lincoln, Nebraska TPUSA Chapter Origin Question
 
-Investigative target arising from the SUBTT February 9, 2024 arrival in Lincoln and the subsequent UNL TPUSA chapter launch (date disputed between host and producer — see Flag on A-1303.1).
+Investigative target arising from the SUBTT February 9, 2024 arrival in Lincoln and the subsequent UNL TPUSA chapter launch (date disputed between host and director Mark — see Flag on A-1303.1).
 
 Evidence Count: 2
 Claim Count: 2
@@ -670,13 +683,13 @@ Investigative Direction: Obtain the referenced internal TPUSA email through open
 
 ---
 
-**C-1548** TPUSA UNL Chapter Launch Display Date Conflict Between Host Assertion (February 2024) and Producer Correction (May 2025)
+**C-1548** TPUSA UNL Chapter Launch Display Date Conflict Between Host Assertion (February 2024) and Director Mark's Correction (May 2025)
 
 Claim Timestamp: 00:20:57
-Claim: The episode displays a TPUSA UNL Instagram post announcing the chapter's first weekly meeting; the host initially dates this to February 11, 2024, while producer Mark corrects the date to May 2025 in the live-show segment. Both assertions are recorded as competing host-side positions against a single artifact.
+Claim: The episode displays a TPUSA UNL Instagram post announcing the chapter's first weekly meeting; the host initially dates this to February 11, 2024, while director Mark corrects the date to May 2025 in the live-show segment. Both assertions are recorded as competing host-side positions against a single artifact.
 Anchored Artifacts: A-1303.1
-Related Nodes: N-1, N-272, N-1277
-Investigative Direction: Re-examine the original Instagram post metadata (post date, capture date) to resolve the dating discrepancy between host and producer.
+Related Nodes: N-1, N-272, N-1277, N-98
+Investigative Direction: Re-examine the original Instagram post metadata (post date, capture date) to resolve the dating discrepancy between host and director Mark.
 
 ---
 
@@ -895,7 +908,7 @@ Investigative Direction: Locate any public statement by Rob McCoy identifying hi
 - A-1311.1 (Netanyahu public statement): Referenced as public, but specific video clip / transcript not displayed in this episode.
 
 **Flag — Transcript ambiguity / date conflict:**
-- A-1303.1: Host displays a TPUSA UNL Instagram post and dates it February 11, 2024; producer Mark corrects to May 2025 in the live segment. Both positions recorded in C-1548.
+- A-1303.1: Host displays a TPUSA UNL Instagram post and dates it February 11, 2024; director Mark corrects to May 2025 in the live segment. Both positions recorded in C-1548.
 
 **Flag — Possible transcription error / verbal correction in real time:**
 - Initial host claim that SUBND departed "3 hours after Charlie was assassinated" was corrected in real time by producer Marcus to "3 days after." The 3-day figure is inscribed in C-1552.

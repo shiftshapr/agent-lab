@@ -80,7 +80,7 @@ Confidence: high
 **A-1095.8** Tyler Robinson to Lance Twigs text chain: 'Drop what you are doing and look under my keyboard', 'I had the opportunity to take out Charlie Kirk', 'they grabbed some crazy old dude'
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:22:43–00:29:40
-*Related: C-1154, C-1155, N-69, N-84, N-1095*
+*Related: C-1154, C-1155, N-69, N-84, N-1095, N-98*
 Transcript Snippet: Drop what you are doing and look under my keyboard...I had the opportunity to take out Charlie Kirk
 Confidence: high
 Uncertainty: Indictment does not give timestamps; host flags this as conspicuous.
@@ -450,12 +450,12 @@ X poster who broke down Bill Ackman's itinerary.
 
 ---
 
-**N-98** Mark
+**N-98** Mark (director, Candace show)
 
 Node Type: Person
-Studio contributor commenting on ellipsis formatting in text chain.
+In-house director on Candace Owens' show, called on air by first name (seq 27 roster line: "Chris in editing, Mark mansplaining, and also being our director, Skyler, the producer"). Here the host brings him in ("Go ahead, Mark. Yeah. He's a guy that's always in my ear") and he points out ellipses above the indictment's Robinson-Lance text exchanges, saying the exchanges look cherry-picked.
 
-*Related: A-1095.1, A-1095.8, C-1144*
+*Related: A-1095.8*
 
 
 
@@ -599,7 +599,7 @@ Claim Timestamp: 00:07:37
 Claim: Tyler James Robinson surrendered to Washington County Sheriff's Office on September 11, 2025, approximately 33 hours after the shooting.
 Transcript Snippet: after 33 hours...Tyler James Robinson surrendered to police at Washington County Sheriff's Office
 Anchored Artifacts: A-1095.1
-Related Nodes: N-69, N-1094, N-1096, N-3, N-68, N-88, N-89, N-90, N-92, N-93, N-94, N-61, N-95, N-96, N-98, N-99
+Related Nodes: N-69, N-1094, N-1096, N-3, N-68, N-88, N-89, N-90, N-92, N-93, N-94, N-61, N-95, N-96, N-99
 Confidence: high
 Investigative Direction: Verify surrender timestamp via sheriff's office records and forensic timeline.
 

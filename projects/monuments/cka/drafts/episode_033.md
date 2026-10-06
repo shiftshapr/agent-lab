@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: b7672eebc7c5ab411aa950afd3d3a2a493c93fe1cc77ff7576fff21c34e89159
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-406, N-407, N-408, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
+  - New Nodes Introduced:  N-406, N-408, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
   - Reused Nodes Appearing: 
   N-70
 
@@ -36,7 +36,7 @@
 
 - **Artifact Families Introduced:** A-1415, A-1416, A-1417, A-1418, A-1419, A-1420, A-1421, A-1422, A-1423, A-1424
 - **Claim Range:** C-1716 – C-1734
-- **New Nodes Introduced:** N-406, N-407, N-408, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
+- **New Nodes Introduced:** N-406, N-408, N-410, N-412, N-413, N-414, N-1324, N-1325, N-1326, N-1327, N-1328, N-1329
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk — preserved as Erika per transcript), N-3 (Candace Owens), N-349 (Tucker Carlson, assumed prior), N-70 (Governor Cox)
 
 ---
@@ -105,7 +105,7 @@ Video Timestamp: 00:19:57–00:21:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1719, N-1, N-2, N-407, N-1324*
+*Related: C-1719, N-1, N-2, N-98, N-1324*
 
 ---
 
@@ -293,16 +293,16 @@ Investigative Pressure: Low
 
 ---
 
-**N-407** Mark (Producer/Researcher)
+**N-98** Mark (director, Candace show)
 
-In-studio researcher who presented the ADSB Exchange data for tail SUBND on September 10. Matters because his presentation is the sole displayed source for the SUBND transponder timing claims.
+In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he pulls up ADS-B Exchange raw data for Egyptian tail SUBND at the Duncan Aviation FBO in Provo on September 10 and reads the transponder windows, converting from UTC by subtracting seven hours (a viewer later corrects this to UTC minus 6). His presentation is the sole displayed source for the SUBND transponder timing claims.
 
 Evidence Count: 1
-Claim Count: 1
+Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1418.1, C-1719, N-1324*
+*Related: A-1418.1, C-1719, C-1734, N-1324*
 
 ---
 
@@ -382,7 +382,7 @@ Claim Count: 6
 Episode Count: 1 (this episode)
 Investigative Pressure: High
 
-*Related: A-1418.1, A-1419.1, A-1419.2, A-1424.2, C-1719, C-1720, C-1721, C-1722, C-1723, N-1, N-2, N-407, N-413*
+*Related: A-1418.1, A-1419.1, A-1419.2, A-1424.2, C-1719, C-1720, C-1721, C-1722, C-1723, N-1, N-2, N-98, N-413*
 
 ---
 
@@ -499,11 +499,11 @@ Investigative Direction: Determine, by transcript comparison, whether host's ori
 
 Claim Timestamp: 00:19:57–00:21:54
 
-Claim: ADSB Exchange data, as displayed and narrated by producer Mark, shows tail SUBND transmitting from the Duncan Aviation FBO in Provo from 9:05:36 a.m. to 10:34:05 a.m. (local time, after subtracting 7 hours from UTC) and again from 12:40:53 p.m. to 1:29:40 p.m. on September 10, 2025, without the aircraft moving from its position.
+Claim: ADSB Exchange data, as displayed and narrated by director Mark, shows tail SUBND transmitting from the Duncan Aviation FBO in Provo from 9:05:36 a.m. to 10:34:05 a.m. (local time, after subtracting 7 hours from UTC) and again from 12:40:53 p.m. to 1:29:40 p.m. on September 10, 2025, without the aircraft moving from its position.
 
 Anchored Artifacts: A-1418.1
 
-Related Nodes: N-1, N-2, N-407, N-408, N-1324
+Related Nodes: N-1, N-2, N-98, N-408, N-1324
 
 Investigative Direction: Pull the underlying ADSB Exchange raw data independently; verify UTC-to-local conversion (note: see flag re daylight saving time).
 
@@ -708,11 +708,11 @@ Investigative Direction: Pull the Flock camera registry; verify proximity to UVU
 
 Claim Timestamp: 00:21:00–00:21:54
 
-Claim: Producer Mark specifies that SUBND transponder windows on September 10 were 9:05–10:34 a.m. and 12:40–1:29 p.m. (local time, using UTC minus 7 hours).
+Claim: Director Mark specifies that SUBND transponder windows on September 10 were 9:05–10:34 a.m. and 12:40–1:29 p.m. (local time, using UTC minus 7 hours).
 
 Anchored Artifacts: A-1418.1
 
-Related Nodes: N-407, N-408, N-1324
+Related Nodes: N-98, N-408, N-1324
 
 Investigative Direction: Verify the UTC-to-local conversion; see flag re daylight saving time. Cross-reference against FBI/event timeline documents.
 

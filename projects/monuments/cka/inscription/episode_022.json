@@ -719,6 +719,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-98",
+      "ref": "N-98",
+      "name": "Mark (director, Candace show)",
+      "type": "person",
+      "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he explains the FlightRadar chart for the Biggs Army Airfield plane (altitude, airspeed, 3:16 p.m. UTC, minus 6 hours for 9:16 a.m. Utah time); the host later cites his UTC explanation and a correction he gave \"in my ear\", and in comments he says the N1098L plane was over Idaho, not Provo, when Charlie Kirk was shot.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1527"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -732,7 +749,8 @@
         "A-1290.1"
       ],
       "related_nodes": [
-        "N-1269"
+        "N-1269",
+        "N-98"
       ],
       "tags": [],
       "claim_timestamp": "00:02:17",

@@ -525,6 +525,23 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-98",
+      "ref": "N-98",
+      "name": "Mark (director, Candace show)",
+      "type": "person",
+      "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he answers the host's geography question about Davis-Monthan AFB relative to Fort Huachuca: \"it's a little over an hour north in Tucson.\"",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2012"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -677,7 +694,8 @@
       ],
       "related_nodes": [
         "N-1455",
-        "N-1454"
+        "N-1454",
+        "N-98"
       ],
       "tags": [],
       "claim_timestamp": "00:38:50",
