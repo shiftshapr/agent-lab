@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "description": "Canonical dictionary of memes, euphemisms, and codes — shared across monuments",
-  "updated": "2026-10-07T06:32:06.358543+00:00",
-  "next_id": 61,
+  "description": "Canonical dictionary of memes, euphemisms, and codes \u2014 shared across monuments",
+  "updated": "2026-10-07T15:30:00Z",
+  "next_id": 75,
   "entries": {
     "M-1": {
       "canonical_term": "(meme) Grieving Widow",
@@ -64,7 +64,7 @@
       "canonical_term": "(meme) Catch all the religious scandals",
       "type": "meme",
       "aliases": [],
-      "definition": "Pokémon 'catch them all' joke about accumulating religious scandal subjects",
+      "definition": "Pok\u00e9mon 'catch them all' joke about accumulating religious scandal subjects",
       "context": "bride_of_charlie",
       "first_episode": 8
     },
@@ -627,6 +627,160 @@
       "definition": "Host / tip language for people cast to sell an official story after trauma",
       "context": "cka",
       "first_episode": 120
+    },
+    "M-61": {
+      "canonical_term": "(meme) We Only Hoard Illegals",
+      "type": "meme",
+      "aliases": [
+        "we only hoard illegals"
+      ],
+      "definition": "Satire reply to nanny-volunteer comments: only hire illegals so underpay/abuse works",
+      "context": "cka",
+      "first_episode": 161
+    },
+    "M-62": {
+      "canonical_term": "(meme) Two Nannies Per Child",
+      "type": "meme",
+      "aliases": [
+        "two nannies per child",
+        "eight nannies"
+      ],
+      "definition": "Candyland smear math the host keeps mocking: two nannies per kid",
+      "context": "cka",
+      "first_episode": 161
+    },
+    "M-63": {
+      "canonical_term": "(meme) Elite Jewish Agency",
+      "type": "meme",
+      "aliases": [
+        "elite Jewish agency",
+        "elite Jewish nanny agency"
+      ],
+      "definition": "Satire: nannies must come through an elite Jewish agency",
+      "context": "cka",
+      "first_episode": 161
+    },
+    "M-64": {
+      "canonical_term": "(meme) Audacity of the Gaslight",
+      "type": "meme",
+      "aliases": [
+        "audacity of the gaslight"
+      ],
+      "definition": "Host book-title joke flipping Obama Audacity of Hope onto Erika/TPUSA gaslighting",
+      "context": "cka",
+      "first_episode": 161
+    },
+    "M-65": {
+      "canonical_term": "(meme) Elephant Clipping",
+      "type": "meme",
+      "aliases": [
+        "elephant clipping",
+        "elephant-sized clips",
+        "clipin"
+      ],
+      "definition": "Paid Monster Lab campaign brand pushing anti-Candace / pro-TPUSA shorts",
+      "context": "cka",
+      "first_episode": 161
+    },
+    "M-66": {
+      "canonical_term": "(meme) Fed Slop",
+      "type": "meme",
+      "aliases": [
+        "fed slop",
+        "bed slop",
+        "slop"
+      ],
+      "definition": "Host term for purchased clip-farm content / narrative sludge",
+      "context": "cka",
+      "first_episode": 161
+    },
+    "M-67": {
+      "canonical_term": "(meme) Rare Bucket",
+      "type": "meme",
+      "aliases": [
+        "rare bucket"
+      ],
+      "definition": "Blake Wynn podcast line putting Erika Kirk in a rare bucket of people he looks up to",
+      "context": "cka",
+      "first_episode": 161
+    },
+    "M-68": {
+      "canonical_term": "(meme) Starve the Little Rodents",
+      "type": "meme",
+      "aliases": [
+        "starve the little rodents",
+        "starve them"
+      ],
+      "definition": "Advice: do not engage paid clippers so they get no impressions",
+      "context": "cka",
+      "first_episode": 161
+    },
+    "M-69": {
+      "canonical_term": "(meme) Not a Real Person",
+      "type": "meme",
+      "aliases": [
+        "not a real person",
+        "you are not a real person"
+      ],
+      "definition": "Drunk plane-woman line host applies to Erika Kirk persona",
+      "context": "cka",
+      "first_episode": 161
+    },
+    "M-70": {
+      "canonical_term": "(meme) Millennial Discord Ignorance",
+      "type": "meme",
+      "aliases": [
+        "millennial ignorance",
+        "not hip with Discord"
+      ],
+      "definition": "Host jokes she is not hip with Discord where clipping bounties run",
+      "context": "cka",
+      "first_episode": 161
+    },
+    "M-71": {
+      "canonical_term": "(meme) Where Were You on 9/10",
+      "type": "meme",
+      "aliases": [
+        "where were you on 910",
+        "where were you on 9/10"
+      ],
+      "definition": "Host jab at data republican / Jennica Pounds over 9/10 whereabouts",
+      "context": "cka",
+      "first_episode": 161
+    },
+    "M-72": {
+      "canonical_term": "(meme) Conspiracy Girly",
+      "type": "meme",
+      "aliases": [
+        "Conspiracy girly",
+        "Conspiracy Girl t-shirt"
+      ],
+      "definition": "Merch joke / brand line for Conspiracy Girly shirts and mug",
+      "context": "cka",
+      "first_episode": 161
+    },
+    "M-73": {
+      "canonical_term": "(meme) Fresh and Clean Organic",
+      "type": "meme",
+      "aliases": [
+        "fresh and so clean",
+        "outcast fresh"
+      ],
+      "definition": "Host contrast: her engagement is organic vs paid mud",
+      "context": "cka",
+      "first_episode": 161
+    },
+    "M-74": {
+      "canonical_term": "(meme) Lose Count After Four",
+      "type": "meme",
+      "aliases": [
+        "lose count after four",
+        "baby number five",
+        "baby number six"
+      ],
+      "definition": "Host joke about losing count of which baby number she is on",
+      "context": "cka",
+      "first_episode": 161
     }
   },
   "types": {

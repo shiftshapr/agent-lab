@@ -162,3 +162,4 @@
 | 158 | 2026-09-30 | numbered_show | 395 | 5TTkMa49qj8 | VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 |
 | 159 | 2026-10-01 | numbered_show | 396 | q4m-kGzvwjw | LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 |
 | 160 | 2026-10-05 | numbered_show | 397 | ms5ChhZegRg | COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review's Major Redaction. | Ep 397 |
+| 161 | 2026-10-06 | numbered_show | 398 | 0pSAhaAZz1w | CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA'S "ANTI-CANDACE" Campaigns. (title omits Ep number; 398 inferred) |
