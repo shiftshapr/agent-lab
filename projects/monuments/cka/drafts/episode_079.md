@@ -320,7 +320,7 @@ Video Timestamp: 00:45:22–00:46:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2490, N-1207, N-50, N-1613*
+*Related: C-2490, N-50, N-1613*
 
 ---
 
@@ -334,7 +334,7 @@ Video Timestamp: 00:46:20–00:47:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2491, N-1208, N-50, N-1613*
+*Related: C-2491, N-50, N-1613*
 
 ---
 

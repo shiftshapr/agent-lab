@@ -812,7 +812,7 @@ Claim Timestamp: 00:48:09
 Claim: Donald Trump posted on Truth Social announcing that Israel and Hamas had signed off on the first phase of a peace plan, including hostage release and partial troop withdrawal.
 
 Anchored Artifacts: A-1257.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Verify exact post text and time stamp via Trump's Truth Social archive.
 
 ---

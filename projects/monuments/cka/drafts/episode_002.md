@@ -515,7 +515,7 @@ Node Type: Organization
 Organization Kind: political_organization
 Charlie Kirk's organization; host demands release of pre-America Fest audio footage of Kirk speaking with Carlson.
 
-*Related: *
+*Related:*
 
 ---
 
@@ -598,7 +598,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 Host claim that Kirk was undergoing Catholic/Christian conversion including rosary and mass attendance.
 
-*Related: *
+*Related:*
 Uncertainty: No artifact directly shown; based on host assertion of personal communication.
 
 ---
@@ -659,7 +659,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Reported narrative that Robinson's father turned him in after speaking with a pastor.
 
-*Related: *
+*Related:*
 
 ---
 

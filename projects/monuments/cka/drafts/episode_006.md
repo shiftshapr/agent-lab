@@ -550,7 +550,7 @@ Node Type: Place
 Place Kind: venue
 University with alleged CIA pipeline mentioned by host
 
-*Related: *
+*Related:*
 
 ---
 

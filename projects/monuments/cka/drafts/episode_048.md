@@ -222,7 +222,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: *
+*Related:*
 
 ---
 

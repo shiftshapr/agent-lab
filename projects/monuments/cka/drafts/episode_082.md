@@ -87,7 +87,7 @@ Video Timestamp: 00:18:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (aircraft type image shown)
 
-*Related: C-2546, N-1207, N-1630*
+*Related: C-2546, N-1630*
 
 **A-1887.2** Phone call confirmation from charter company handling N8724A: "All of our planes have Wi-Fi"
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:19:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single phone call, not recorded)
 
-*Related: C-2546, C-2549, N-1207, N-1630*
+*Related: C-2546, C-2549, N-1630*
 
 **A-1887.3** 2020 charter listing for the alleged "Wi-Refi" plane (Santa Barbara → Scottsdale leg) — listing amenities including belted lavatory, cabin power outlets, 5'7" cabin height, refreshment center, and "satellite phone"; Wi-Fi not marketed
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:25:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (historical listing)
 
-*Related: C-2555, N-1207, N-1630*
+*Related: C-2555, N-1630*
 
 **A-1888** ADSB Exchange Flight Data Bundle
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:24:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (public flight tracking data)
 
-*Related: C-2547, C-2548, N-1207*
+*Related: C-2547, C-2548*
 
 **A-1889** Text Message Exchange Bundle (Andrew Kolvet / Aubrey / Justin)
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:22:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read on air)
 
-*Related: C-2548, C-2547, N-1207*
+*Related: C-2548, C-2547*
 
 **A-1889.2** Text thread reference — Justin to Aubrey at 4:18 PM MST: Andrew must be "on the ground" before responding
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:20:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read on air)
 
-*Related: C-2549, N-1207*
+*Related: C-2549*
 
 **A-1890** Charlie Kirk Live Show Clip Bundle (September 10, 2025)
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:31:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip)
 
-*Related: C-2551, C-2556, N-1207, N-1629*
+*Related: C-2551, C-2556, N-1629*
 
 **A-1890.2** Andrew Kolvet introducing Nick Shirley on Charlie Kirk Live Show, describing Shirley's footage as "incredible"
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip)
 
-*Related: C-2552, N-1208, N-1629*
+*Related: C-2552, N-1629*
 
 **A-1891** Nick Shirley Background Bundle
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:35:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip)
 
-*Related: N-1208, N-1629, N-1632*
+*Related: N-1629, N-1632*
 
 **A-1891.2** Nick Shirley claim: infiltrated Comando Vermelho (one of Rio's largest gangs) and befriended soldiers "through the course of 2 days"
 
@@ -185,7 +185,7 @@ Video Timestamp: 00:36:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (claim stated on audio)
 
-*Related: C-2552, N-1208, N-1632*
+*Related: C-2552, N-1632*
 
 **A-1892** Joe Kent Shellenberger Interview Bundle
 
@@ -209,7 +209,7 @@ Video Timestamp: 00:45:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip)
 
-*Related: C-2554, N-1207, N-1209, N-1210*
+*Related: C-2554, N-1210*
 
 **A-1894** N40JD Plane Information Bundle
 
@@ -247,7 +247,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1887.1, A-1887.2, A-1887.3, A-1888.1, A-1889.1, A-1889.2, C-2546, C-2547, C-2548, C-2549, C-2555, N-1207*
+*Related: A-1887.1, A-1887.2, A-1887.3, A-1888.1, A-1889.1, A-1889.2, C-2546, C-2547, C-2548, C-2549, C-2555*
 
 **N-1628** Hopkinson Aircrafts Business Verification
 
@@ -269,7 +269,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1890.1, A-1890.2, A-1891.1, C-2551, N-1207, N-1208*
+*Related: A-1890.1, A-1890.2, A-1891.1, C-2551*
 
 **N-1630** Barbara Plane (N8724A) Operations
 
@@ -280,7 +280,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1887.1, A-1887.2, C-2546, C-2549, N-1207*
+*Related: A-1887.1, A-1887.2, C-2546, C-2549*
 
 **N-1631** N40JD Plane Passenger Manifest
 
@@ -302,7 +302,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1891.2, C-2552, N-1208*
+*Related: A-1891.2, C-2552*
 
 ---
 

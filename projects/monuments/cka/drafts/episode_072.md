@@ -369,7 +369,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-2, *
+*Related: N-2*
 
 ---
 
@@ -418,7 +418,7 @@ Claim: A USA Today article posted shortly after Charlie Kirk's assassination sta
 
 Anchored Artifacts: A-1764.1, A-1769.1
 
-Related Nodes: N-2, N-917, N-1573, , , , 
+Related Nodes: N-2, N-917, N-1573
 
 Investigative Direction: Obtain and verify the original USA Today article and confirm Erika's stated tenure and role at Corcoran.
 

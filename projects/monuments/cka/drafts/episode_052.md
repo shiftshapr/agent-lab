@@ -291,7 +291,7 @@ Claim: Turning Point USA clarified to host that the tent at AmeriFest was initia
 
 Anchored Artifacts: None displayed (host verbal reference to TPUSA communication)
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain direct TPUSA statement or correspondence clarifying the tent decision-making process.
 
@@ -411,7 +411,7 @@ Claim: Tyler Robinson was employed at Wild Electric in Santa Clara, Utah; this w
 
 Anchored Artifacts: A-1586.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Confirm employment dates and identify workplace contacts relevant to the investigation timeline.
 

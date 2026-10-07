@@ -61,7 +61,7 @@ Video Timestamp: 00:18:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3125, C-3126, N-1 (assumed Ben Shapiro node), N-1207, N-2147*
+*Related: C-3125, C-3126, N-1 (assumed Ben Shapiro node), N-2147*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:33:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3128, N-1209, N-2*
+*Related: C-3128, N-2*
 
 ---
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:37:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3129, C-3130, C-3131, C-3132, N-1208, N-1*
+*Related: C-3129, C-3130, C-3131, C-3132, N-1*
 
 ---
 
@@ -238,7 +238,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2181.1, N-1207*
+*Related: A-2181.1*
 
 ---
 
@@ -392,7 +392,7 @@ Claim: In an audio clip from AmFest in December 2025, Steve Bannon states: "Ben 
 
 Anchored Artifacts: A-2182.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain the full AmFest segment; verify exact wording.
 

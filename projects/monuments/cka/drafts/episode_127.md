@@ -35,7 +35,7 @@ Video Timestamp: 00:05:36–00:06:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3042, C-3043, C-3044, N-1207, N-2124*
+*Related: C-3042, C-3043, C-3044, N-2124*
 
 **A-2146.2** Unidentified badge-holding rooftop companion testimony
 
@@ -45,7 +45,7 @@ Video Timestamp: 00:09:06–00:10:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3043, C-3044, N-1207, N-2125*
+*Related: C-3043, C-3044, N-2125*
 
 ---
 
@@ -59,7 +59,7 @@ Video Timestamp: 00:06:28–00:08:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (content displayed/read on air)
 
-*Related: C-3045, C-3056, N-1207, N-2124*
+*Related: C-3045, C-3056, N-2124*
 
 ---
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:15:19–00:16:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3046, C-3047, N-1208, N-2126*
+*Related: C-3046, C-3047, N-2126*
 
 **A-2148.2** Reversal of FBI testing decision testimony
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:16:23–00:17:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3047, C-3048, N-1208, N-2126*
+*Related: C-3047, C-3048, N-2126*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:19:25–00:20:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3049, C-3050, N-1209, N-2126*
+*Related: C-3049, C-3050, N-2126*
 
 **A-2149.2** Lab-notes attribution of backpack to "Kirk's detail"
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:20:30–00:21:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3050, C-3051, N-1209, N-2126*
+*Related: C-3050, C-3051, N-2126*
 
 ---
 
@@ -309,7 +309,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2146.1, A-2147.1, C-3042, C-3045, N-1207*
+*Related: A-2146.1, A-2147.1, C-3042, C-3045*
 
 **N-2125** Unidentified Badge-Holding Rooftop Companion
 
@@ -320,7 +320,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2146.2, C-3043, N-1207*
+*Related: A-2146.2, C-3043*
 
 **N-2126** Abandoned Backpack / Jacket / Gloves Non-Testing Decision
 
@@ -331,7 +331,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2148.1, A-2148.2, A-2149.1, A-2149.2, C-3046, C-3047, C-3048, C-3049, C-3050, C-3051, N-1208, N-1209*
+*Related: A-2148.1, A-2148.2, A-2149.1, A-2149.2, C-3046, C-3047, C-3048, C-3049, C-3050, C-3051*
 
 **N-2127** Timpanogos Hospital Pre-Notification Failure
 

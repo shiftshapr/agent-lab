@@ -76,7 +76,7 @@ Video Timestamp: 00:04:50–00:05:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1301, C-1306, Nate Brooksby node, N-1208*
+*Related: C-1301, C-1306, Nate Brooksby node*
 
 **A-1172.3** Brooksby press-conference audio clip — statement that Tyler came in willingly because he was "fearful of a SWAT team hit" and being shot by law enforcement; negotiation included a "delicate and as soft as possible" reception.
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:05:30–00:06:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1302, C-1306, Nate Brooksby node, N-1208*
+*Related: C-1302, C-1306, Nate Brooksby node*
 
 ### A-1173 Lance/Tyler Instagram Photo Bundle
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:16:00–00:16:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1304, C-1305, N-176, Nate Brooksby node, N-1207*
+*Related: C-1304, C-1305, N-176, Nate Brooksby node*
 
 ### A-1175 Food Court Photo Bundle
 
@@ -301,7 +301,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1174.1, C-1304, C-1305, N-1207, Nate Brooksby node, Tyler Robinson node*
+*Related: A-1174.1, C-1304, C-1305, Nate Brooksby node, Tyler Robinson node*
 
 **N-177** "Nick" (UVU Student — Pseudonym)
 
@@ -420,7 +420,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 Claim Timestamp: 00:02:45–00:03:25
 Claim: The 2022 police bodycam audio presented in the episode shows Tyler Robinson referring to "his car" and his mother "shuttling over from her car," contrasting with the federal text messages' vocabulary.
 Anchored Artifacts: A-1171.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Obtain the original 2022 bodycam video and full transcript; compare against the released federal text messages.
 
 **C-1298** Tyler Robinson uses "vehicle" rarely in ordinary speech
@@ -428,7 +428,7 @@ Investigative Direction: Obtain the original 2022 bodycam video and full transcr
 Claim Timestamp: 00:03:25
 Claim: Host states (via commentary on A-1171.1) that Robinson's everyday use of "car" rather than "vehicle" is typical of ordinary American English speakers.
 Anchored Artifacts: A-1171.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Independent corpus sampling of Robinson's other recorded speech; comparison with general American English usage.
 *Note: This is a host interpretive claim layered on the same artifact.*
 
@@ -583,7 +583,7 @@ Investigative Direction: Recover the original image and metadata; identify the i
 Claim Timestamp: 00:49:30
 Claim: Host states she was previously unaware of "keyholing" and acknowledges Marzy's comment about intentionally keyholed rounds for tumbling/fragmentation damage as new to her.
 Anchored Artifacts: A-1182.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Independent forensic review of recovered bullet(s) for keyholing signatures.
 *Note: Host concurrence claim on a viewer-comment artifact.*
 
@@ -592,7 +592,7 @@ Investigative Direction: Independent forensic review of recovered bullet(s) for 
 Claim Timestamp: 00:49:50
 Claim: Host expresses gratitude for Caitlyn Derrian's supportive comment and concurs with the framing.
 Anchored Artifacts: A-1182.2
-Related Nodes: 
+Related Nodes:
 Investigative Direction: N/A — rhetorical/statement of self-positioning, recorded for traceability only.
 *Optional Flag: Claim failed admission test for investigation; inscribed as a concurrence artifact only.*
 
@@ -601,7 +601,7 @@ Investigative Direction: N/A — rhetorical/statement of self-positioning, recor
 Claim Timestamp: 00:00:00–00:00:01
 Claim: Host concurs with Kristen Theoret's, Cassie's, and Kaya's comments that the people closest to Charlie Kirk have not been asking questions about the shooting.
 Anchored Artifacts: A-1182.3, A-1182.6, A-1182.7
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Inventory public statements/actions (or silence) by named individuals close to Charlie Kirk.
 *Note: Host concurrence claims on viewer-comment artifacts.*
 
@@ -610,7 +610,7 @@ Investigative Direction: Inventory public statements/actions (or silence) by nam
 Claim Timestamp: 00:00:00–00:00:01
 Claim: Host concurs with Bitsy's comment about a "stage" narrative; concurs with Miranda Allen's prayer request and reports that she also prays for protection over investigators.
 Anchored Artifacts: A-1182.4, A-1182.5
-Related Nodes: 
+Related Nodes:
 Investigative Direction: N/A — rhetorical/statement of self-positioning.
 *Optional Flag: Claim failed admission test for investigation; inscribed as concurrence only.*
 

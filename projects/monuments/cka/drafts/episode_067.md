@@ -85,7 +85,7 @@ Video Timestamp: 00:16:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (named journalist; specific evidence cited)
 
-*Related: C-2259, C-2260, N-35, N-843, N-260, N-858, *
+*Related: C-2259, C-2260, N-35, N-843, N-260, N-858*
 
 ---
 
@@ -218,7 +218,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:57:34
 Confidence Level: High
 
-*Related: C-2277, N-857, N-856, *
+*Related: C-2277, N-857, N-856*
 
 **A-1725.3** Comment from "Shyla" affirming Candace as "ultimate truth seeker" and stating "Christ is king"
 
@@ -672,7 +672,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1721.1, A-1722.1, A-1724.1, A-1726.2, C-2268, C-2269, C-2270, C-2271, C-2274, C-2275, C-2281, N-1009, N-42, N-16, N-42, N-434, N-134*
+*Related: A-1721.1, A-1722.1, A-1724.1, A-1726.2, C-2268, C-2269, C-2270, C-2271, C-2274, C-2275, C-2281, N-1009, N-42, N-16, N-434, N-134*
 
 **N-1545** Peter Thiel–Epstein Relationship Documentation
 
@@ -719,7 +719,7 @@ Claim: A letter from Sigmund Freud to Wilhelm Fliess describes a patient recalli
 
 Anchored Artifacts: A-1714.1
 
-Related Nodes: N-80, N-830, , , , , , 
+Related Nodes: N-80, N-830
 
 Investigative Direction: Obtain the full Freud-Fliess correspondence from standard critical editions to verify the quote in full context.
 

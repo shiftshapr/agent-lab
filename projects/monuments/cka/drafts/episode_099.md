@@ -82,7 +82,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:44
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2859, C-2860, N-1208 (Benjamin Netanyahu), N-1209 (Greta Van Susteren)*
+*Related: C-2859, C-2860*
 
 ---
 
@@ -117,7 +117,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:34
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2863, C-2864, C-2865, C-2866, N-1207 (Brad Parscale), N-1210 (Harmeet Dhillon)*
+*Related: C-2863, C-2864, C-2865, C-2866, N-1210 (Harmeet Dhillon)*
 
 **A-2049.2** Salem Radio Media Network listing within Clock Tower X FARA filing
 
@@ -191,7 +191,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:54
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2875, N-1207 (Brad Parscale), N-1210 (Harmeet Dhillon), N-1211 (Pam Bondi)*
+*Related: C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2875, N-1210 (Harmeet Dhillon), N-1211 (Pam Bondi)*
 
 ---
 
@@ -204,7 +204,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:39:40
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2876, N-1208 (Benjamin Netanyahu)*
+*Related: C-2876*
 
 ---
 
@@ -334,7 +334,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2047.1, C-2860, N-1208 (Benjamin Netanyahu)*
+*Related: A-2047.1, C-2860*
 
 ---
 
@@ -479,7 +479,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2049.1, A-2049.2, A-2051.1, C-2863, C-2864, C-2865, C-2866, C-2868, N-1207 (Brad Parscale), N-1210 (Harmeet Dhillon), N-1737 (2025 FARA Timeline Convergence)*
+*Related: A-2049.1, A-2049.2, A-2051.1, C-2863, C-2864, C-2865, C-2866, C-2868, N-1210 (Harmeet Dhillon), N-1737 (2025 FARA Timeline Convergence)*
 
 ---
 
@@ -544,7 +544,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2047.1, A-2048.1, A-2049.1, A-2051.1, A-2053.1, A-2054.1, C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2874, C-2875, N-1207 (Brad Parscale), N-1208 (Benjamin Netanyahu), N-1210 (Harmeet Dhillon), N-1211 (Pam Bondi), N-1212 (Donald Trump Jr.), N-1732 (Salem Foreign Agent Status), N-1734 (Bondi FARA Disbanding)*
+*Related: A-2047.1, A-2048.1, A-2049.1, A-2051.1, A-2053.1, A-2054.1, C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2874, C-2875, N-1210 (Harmeet Dhillon), N-1211 (Pam Bondi), N-1212 (Donald Trump Jr.), N-1732 (Salem Foreign Agent Status), N-1734 (Bondi FARA Disbanding)*
 
 ---
 
@@ -613,7 +613,7 @@ Claim: Two days after Charlie Kirk's assassination, Benjamin Netanyahu stated on
 
 Anchored Artifacts: A-2047.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain full unedited Van Susteren segment and verify whether the question was pre-arranged as host alleges.
 
@@ -627,7 +627,7 @@ Claim: Greta Van Susteren asked Netanyahu to address internet rumors that Israel
 
 Anchored Artifacts: A-2047.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Cross-check segment against Van Susteren's own post-show statements.
 

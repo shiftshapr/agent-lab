@@ -112,7 +112,7 @@ Video Timestamp: 00:19:40
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed; close in time to event)
 
-*Related: C-3573, N-2 (Erica Kirk), N-37 (Tyler Bowyer — reuse if exists), N-37*
+*Related: C-3573, N-2 (Erica Kirk), N-37 (Tyler Bowyer — reuse if exists)*
 
 ---
 
@@ -151,7 +151,7 @@ Video Timestamp: 00:36:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: High
 
-*Related: C-3576,  (Miriam Adelson — reuse if exists), N-1009 (Donald Trump — reuse if exists)*
+*Related: C-3576, (Miriam Adelson — reuse if exists), N-1009 (Donald Trump — reuse if exists)*
 
 ---
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:41:40
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3580, N-1009 (Donald Trump),  (Marco Rubio — reuse if exists)*
+*Related: C-3580, N-1009 (Donald Trump), (Marco Rubio — reuse if exists)*
 
 ---
 
@@ -228,7 +228,7 @@ Video Timestamp: 00:46:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3581, N-65 (Bibi Netanyahu — reuse if exists), N-1013 (Benny Gantz — reuse if exists)*
+*Related: C-3581, N-65 (Bibi Netanyahu — reuse if exists), Benny Gantz (no node)*
 
 ---
 
@@ -486,7 +486,7 @@ Claim Timestamp: 00:46:50
 Claim: Benny Gantz stated on camera that he "would not exclude" the need for boots on the ground and that "we exclude nothing. We've been waiting for 47 years and we came to a point with every necessary means should be taken in order to achieve our goals."
 
 Anchored Artifacts: A-2449.1
-Related Nodes: N-2, N-1013
+Related Nodes:
 Investigative Direction: Identify full interview source (outlet, date, interviewer); confirm translation accuracy if interview was conducted in Hebrew.
 
 ---

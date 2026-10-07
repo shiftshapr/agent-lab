@@ -323,7 +323,7 @@ Claim Timestamp: 00:14:15
 Claim: The played audio clip documents Tucker Carlson at a Turning Point event criticizing Epstein-connected wealth (Gulf Streams, island, ranch, NYC residence), naming Bill Ackman, and arguing U.S. wealth is not merit-based.
 
 Anchored Artifacts: A-1450.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Obtain full speech transcript and video; verify exact date, venue, and audience; cross-reference with TPUSA's own published event materials.
 
 ---

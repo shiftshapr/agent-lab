@@ -181,7 +181,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:46:05
 Confidence Level: High
 
-*Related: C-2854, N-1209*
+*Related: C-2854*
 
 **A-2040.3** Jen comments donation: "I hope this will help you pay for attorneys to pursue discovery in the Brian Harpole case. It's the only chance we might have to get to the truth."
 
@@ -189,7 +189,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:49:43
 Confidence Level: High
 
-*Related: C-2855, N-1209, N-1726*
+*Related: C-2855, N-1726*
 
 **A-2040.4** Mike Michaela donation in honor of Theo Von (Russian Blue Cat)
 
@@ -300,7 +300,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flags: Artifact verbally referenced but not shown
 
-*Related: C-2851, N-1207, N-1726, N-1731*
+*Related: C-2851, N-1726, N-1731*
 
 ---
 
@@ -315,7 +315,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 Optional Flags: Document partially read aloud; full text not shown
 
-*Related: C-2852, N-1208, N-1209, N-1726*
+*Related: C-2852, N-1726*
 
 ---
 
@@ -330,7 +330,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flags: Artifact verbally referenced but not shown
 
-*Related: C-2853, N-1208, N-1726*
+*Related: C-2853, N-1726*
 
 ---
 
@@ -359,7 +359,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2041.1, A-2042.1, C-2851, C-2852, N-1208, N-1726*
+*Related: A-2041.1, A-2042.1, C-2851, C-2852, N-1726*
 
 ---
 
@@ -372,7 +372,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2042.1, A-2043.1, C-2852, C-2853, N-1207, N-1726*
+*Related: A-2042.1, A-2043.1, C-2852, C-2853, N-1726*
 
 ---
 
@@ -385,7 +385,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2042.1, A-2040.3, C-2852, C-2855, N-1207, N-1208, N-1726, N-1731*
+*Related: A-2042.1, A-2040.3, C-2852, C-2855, N-1726, N-1731*
 
 ---
 
@@ -502,7 +502,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1209, N-1726*
+*Related: N-1726*
 
 ---
 
@@ -515,7 +515,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2042.1, A-2041.1, A-2043.1, A-2040.3, A-2038.1, A-2034.1, C-2851, C-2852, C-2853, C-2855, N-1207, N-1208, N-1209, N-1218*
+*Related: A-2042.1, A-2041.1, A-2043.1, A-2040.3, A-2038.1, A-2034.1, C-2851, C-2852, C-2853, C-2855, N-1218*
 
 ---
 
@@ -580,7 +580,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2039.1, A-2034.1, A-2041.1, C-2843, C-2850, N-1207, N-1212*
+*Related: A-2039.1, A-2034.1, A-2041.1, C-2843, C-2850, N-1212*
 
 ---
 

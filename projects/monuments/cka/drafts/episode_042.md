@@ -108,7 +108,7 @@ Video Timestamp: 00:18:45–00:19:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related:  N-1382*
+*Related: N-1382*
 
 **A-1505** UVU September 10 Footage Bundle
 

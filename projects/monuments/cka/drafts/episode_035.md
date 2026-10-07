@@ -40,7 +40,7 @@ Video Timestamp: 00:05:32–00:21:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read with stated redactions; source identity withheld)
 
-*Related: C-1745, C-1746, C-1747, C-1748, C-1749, N-1336, N-1337, , *
+*Related: C-1745, C-1746, C-1747, C-1748, C-1749, N-1336, N-1337*
 
 **A-1436** Flight Pattern Timeline Bundle
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:27:09–00:30:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-2, , N-70*
+*Related: N-2, N-70*
 
 **A-1436.3** SUBTT 2022 flight pattern data — Nov 13, 2022 Cairo–Paris–Wichita–Wilmington–Cairo and Nov 17, 2022 Egypt–Wilmington (stay until Nov 20)
 

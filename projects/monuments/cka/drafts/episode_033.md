@@ -434,7 +434,7 @@ Claim Count: 1
 Episode Count: 1 (this episode)
 Investigative Pressure: Medium
 
-*Related: A-1423.1, C-1733, *
+*Related: A-1423.1, C-1733*
 
 ---
 
@@ -698,7 +698,7 @@ Claim: Producer confirms that Flock automated license plate reader cameras have 
 
 Anchored Artifacts: A-1423.1
 
-Related Nodes:  N-1328
+Related Nodes: N-1328
 
 Investigative Direction: Pull the Flock camera registry; verify proximity to UVU campus and event staging area; file FOIA requests for relevant time-window data.
 

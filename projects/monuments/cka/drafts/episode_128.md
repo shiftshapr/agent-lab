@@ -60,7 +60,7 @@ Video Timestamp: 00:03:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3058, C-3059, N-1207, N-1208, N-2133*
+*Related: C-3058, C-3059, N-2133*
 
 **A-2153.2** Brigadier General Blaine Holt segment on Newsmax (spine-impact rejection)
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:05:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3059, N-1208, N-2133*
+*Related: C-3059, N-2133*
 
 ---
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:08:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3060, C-3061, N-1209, N-1210, N-1211, N-2134*
+*Related: C-3060, C-3061, N-1210, N-1211, N-2134*
 
 ---
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:19:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3071, N-1211, N-1209, N-2132*
+*Related: C-3071, N-1211, N-2132*
 
 **A-2158.2** Andrew Zenger appointed CEO of Timpanogos Hospital — August 18, 2025
 
@@ -623,7 +623,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2153.1, A-2153.2, C-3058, C-3059, N-1207, N-1208*
+*Related: A-2153.1, A-2153.2, C-3058, C-3059*
 
 ---
 
@@ -636,7 +636,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2154.1, C-3060, N-1209*
+*Related: A-2154.1, C-3060*
 
 ---
 

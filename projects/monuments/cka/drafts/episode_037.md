@@ -338,7 +338,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low (host-asserted, no documentary anchor)
 
-*Related: N-69, *
+*Related: N-69*
 
 ---
 
@@ -443,7 +443,7 @@ Claim: A week-long training exercise named Operation Valhalla Strike was conduct
 
 Anchored Artifacts: A-1451.1
 
-Related Nodes: N-102, N-1344, N-1348, N-1349, N-1350, 
+Related Nodes: N-102, N-1344, N-1348, N-1349, N-1350
 
 Investigative Direction: Cross-check public DoD exercise announcements for the same date window; obtain Minot AFB public affairs archive.
 

@@ -56,7 +56,7 @@ Video Timestamp: 00:00:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3513, N-1207, N-1208*
+*Related: C-3513*
 
 ---
 
@@ -70,7 +70,7 @@ Video Timestamp: 00:33:23–00:36:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3514, C-3515, N-1209*
+*Related: C-3514, C-3515*
 
 ---
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:36:51–00:37:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3513, C-3516, C-3517, C-3518, N-1207*
+*Related: C-3513, C-3516, C-3517, C-3518*
 
 ---
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:31:47–00:32:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3519, N-1208*
+*Related: C-3519*
 
 ---
 
@@ -287,7 +287,7 @@ Claim: Blake Neff and Jeremy Boring released promotional photo and audio/video p
 
 Anchored Artifacts: A-2405.1, A-2407.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain the full released episode and compare its content against Saucelito's pre-release predictions and the host's commentary.
 
@@ -301,7 +301,7 @@ Claim: Bobby Saucelito predicted, prior to release, that the Neff/Boring podcast
 
 Anchored Artifacts: A-2406.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Compare Saucelito's specific predictions against the released episode segment-by-segment.
 
@@ -315,7 +315,7 @@ Claim: The host explicitly concurs that Saucelito's pre-release predictions were
 
 Anchored Artifacts: A-2406.1, A-2407.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Document the host's specific concurrence with each item of Saucelito's prediction list once the full episode is available.
 
@@ -329,7 +329,7 @@ Claim: In the Neff/Boring promo clip, Blake Neff stated that Candace Owens is a 
 
 Anchored Artifacts: A-2407.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain full Neff/Boring episode to confirm statement context and surrounding statements.
 
@@ -343,7 +343,7 @@ Claim: In the Neff/Boring promo clip, Blake Neff stated that Candace Owens "want
 
 Anchored Artifacts: A-2407.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify exact quote and context in the full Neff/Boring episode.
 
@@ -357,7 +357,7 @@ Claim: In the Neff/Boring promo clip, Blake Neff stated that Tucker Carlson "has
 
 Anchored Artifacts: A-2407.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify exact quote and context in the full Neff/Boring episode.
 
@@ -371,7 +371,7 @@ Claim: Jeremy Boring posted on X that Candace Owens "does this largely on purpos
 
 Anchored Artifacts: A-2408.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Retrieve the original post via web archive to confirm exact wording and timestamp.
 
@@ -483,7 +483,7 @@ Claim: TMZ surveillance footage timestamped 8:07 AM on Sept 10 shows Tyler Robin
 
 Anchored Artifacts: A-2413.2
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain the original TMZ footage with intact timestamps and any associated location metadata to independently confirm the timestamp and subject identification.
 

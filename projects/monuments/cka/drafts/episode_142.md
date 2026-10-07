@@ -40,7 +40,7 @@ Video Timestamp: 00:05:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud verbatim by host)
 
-*Related: C-3290, C-3291, C-3292, N-1207, N-2196*
+*Related: C-3290, C-3291, C-3292, N-2196*
 
 **A-2284.2** 1102 Statement — Second Portion (80704 clipped-footage representation)
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:17:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud verbatim by host)
 
-*Related: C-3295, N-1207, N-2199*
+*Related: C-3295, N-2199*
 
 ---
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:12:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played by host)
 
-*Related: C-3292, N-1207, N-1208, N-2197*
+*Related: C-3292, N-2197*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:14:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played by host)
 
-*Related: C-3294, N-1211, N-1207*
+*Related: C-3294, N-1211*
 
 ---
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:21:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video shown by host)
 
-*Related: C-3296, N-1207, N-2200*
+*Related: C-3296, N-2200*
 
 ---
 
@@ -539,7 +539,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2284.1, C-3290, C-3291, N-1207*
+*Related: A-2284.1, C-3290, C-3291*
 
 ---
 
@@ -552,7 +552,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2285.1, C-3292, N-1207, N-1208*
+*Related: A-2285.1, C-3292*
 
 ---
 
@@ -578,7 +578,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2284.2, C-3295, N-1207, N-1226*
+*Related: A-2284.2, C-3295, N-1226*
 
 ---
 
@@ -591,7 +591,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2288.1, C-3296, N-1207, N-1226*
+*Related: A-2288.1, C-3296, N-1226*
 
 ---
 

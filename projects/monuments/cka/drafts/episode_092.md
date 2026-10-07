@@ -197,7 +197,7 @@ Video Timestamp: 00:14:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2733, N-1208, N-2, N-4, N-1683*
+*Related: C-2733, N-2, N-4, N-1683*
 
 ---
 
@@ -253,7 +253,7 @@ Video Timestamp: 00:43:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2737, C-2738, N-1207, N-1684*
+*Related: C-2737, C-2738, N-1684*
 
 ---
 
@@ -267,7 +267,7 @@ Video Timestamp: 00:46:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host reads categories aloud; full page not verified on-screen)
 
-*Related: C-2739, N-1207, N-1684, N-1689*
+*Related: C-2739, N-1684, N-1689*
 
 ---
 
@@ -281,7 +281,7 @@ Video Timestamp: 00:42:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (anonymous sources, no displayed documentation)
 
-*Related: C-2741, N-1207, N-5, N-1684*
+*Related: C-2741, N-5, N-1684*
 
 ---
 
@@ -322,7 +322,7 @@ Claim Count: 0
 Episode Count: (pre-existing)
 Investigative Pressure: High
 
-*Related: A-1966.1, A-1967.1, A-1968.1, A-1980.1, C-2724, C-2725, C-2726, C-2742, N-1207, N-1682, N-1687*
+*Related: A-1966.1, A-1967.1, A-1968.1, A-1980.1, C-2724, C-2725, C-2726, C-2742, N-1682, N-1687*
 
 ---
 
@@ -361,7 +361,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1974.1, C-2733, N-2, N-4, N-1208*
+*Related: A-1974.1, C-2733, N-2, N-4*
 
 ---
 
@@ -374,7 +374,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1978.1, A-1979.1, A-1980.1, C-2737, C-2739, C-2741, N-1207*
+*Related: A-1978.1, A-1979.1, A-1980.1, C-2737, C-2739, C-2741*
 
 ---
 
@@ -439,7 +439,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1978.1, A-1979.1, A-1980.1, C-2737, C-2739, C-2741, N-1015, N-1207*
+*Related: A-1978.1, A-1979.1, A-1980.1, C-2737, C-2739, C-2741, N-1015*
 
 ---
 

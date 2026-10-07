@@ -549,7 +549,7 @@ Claim Timestamp: 00:03:07
 Claim: The displayed New York Post article identifies 301 East 66th Street, a 16-story post-war condo between First and Second Avenues, as a building where Jeffrey Epstein kept underage victims and which functioned as a logistical hub for his operations.
 
 Anchored Artifacts: A-1835.1
-Related Nodes: N-1604, 
+Related Nodes: N-1604
 Investigative Direction: Obtain the full NY Post article and underlying unsealed records to verify the address, building ownership chain, and named victims.
 
 ---

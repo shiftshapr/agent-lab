@@ -510,7 +510,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low (political-context reference, not artifact-backed as investigative claim)
 
-*Related:  *
+*Related:*
 
 ---
 
@@ -536,7 +536,7 @@ Claim Timestamp: 00:02:03–00:02:43
 Claim: In a May 2025 recorded clip, Charlie Kirk stated that more than one person was involved in the JFK assassination and that the lone-Oswald reading was insufficient.
 
 Anchored Artifacts: A-1513.1
-Related Nodes: N-1, , 
+Related Nodes: N-1
 
 Investigative Direction: Obtain the full unedited clip and confirm Kirk's exact wording, including the listed anomalies (route change, open-air convertible, LBJ not riding, slowdown at the Depository).
 

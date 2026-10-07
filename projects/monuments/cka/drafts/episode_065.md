@@ -448,7 +448,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1691.1, C-2226, C-2227, N-798, *
+*Related: A-1691.1, C-2226, C-2227, N-798*
 
 ---
 
@@ -487,7 +487,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: *
+*Related:*
 
 ---
 
@@ -659,7 +659,7 @@ Claim: Per Youssef's show, Tucker Carlson won Anti-Semite of the Year (2025 per 
 
 Anchored Artifacts: A-1691.1
 
-Related Nodes:  N-1523
+Related Nodes: N-1523
 
 Investigative Direction: Verify with award organization records.
 

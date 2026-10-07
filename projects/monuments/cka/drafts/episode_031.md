@@ -207,7 +207,7 @@ Video Timestamp: 00:56:01–00:57:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1692, N-1318 (likely-existing)*
+*Related: C-1692*
 
 **A-1398.5** Today's Comment: "Mint Julip" — Inquiry About Lady Donor Who Yelled at Charlie; Names "Miriam Adlesen"
 
@@ -293,12 +293,6 @@ Confidence Level: High
 
 ## 4. Node Register
 
-
-**N-1318** Node 1318
-
-Node Type: topic
-
-*Related:*
 
 
 **N-16** Frank Turek

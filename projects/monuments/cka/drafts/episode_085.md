@@ -73,7 +73,7 @@ Video Timestamp: 00:16:34–00:17:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2589, C-2590, N-1, N-2, N-1208*
+*Related: C-2589, C-2590, N-1, N-2*
 
 ---
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:19:47–00:20:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2591, C-2592, C-2593, N-2, N-1207*
+*Related: C-2591, C-2592, C-2593, N-2*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:35:31–00:37:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2598, C-2599, C-2600, N-1209, N-1639*
+*Related: C-2598, C-2599, C-2600, N-1639*
 
 **A-1908.2** Sheriff Brooksby's second press conference clip describing how Tyler Robinson and his parents were driven to the Sheriff's office
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:41:56–00:42:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2601, C-2602, N-1209, N-1639*
+*Related: C-2601, C-2602, N-1639*
 
 ---
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:28:15–00:29:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (no separate article read aloud)
 
-*Related: C-2605, C-2606, C-2607, C-2608, N-1209*
+*Related: C-2605, C-2606, C-2607, C-2608*
 
 ---
 
@@ -522,7 +522,7 @@ Claim Timestamp: 00:20:50
 Claim: Frank Turek stated Mikey was on the phone arranging a plane to retrieve Erika.
 
 Anchored Artifacts: A-1905.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Cross-check with other accounts of plane arrangements.
 
 ---
@@ -666,7 +666,7 @@ Claim Timestamp: 00:28:15
 Claim: Sheriff Nate Brooksby resigned from the Washington County Sheriff's Office.
 
 Anchored Artifacts: A-1910.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Obtain official Washington County Commission statement and any press release explaining the resignation.
 
 ---
@@ -678,7 +678,7 @@ Claim Timestamp: 00:28:15
 Claim: The host states Brooksby's resignation occurred on a Friday and that no public statement was given.
 
 Anchored Artifacts: A-1910.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Confirm exact date via Commission records.
 
 ---
@@ -690,7 +690,7 @@ Claim Timestamp: 00:29:07
 Claim: A statement released by the Washington County Commission noted that Sheriff Brooksby had served in law enforcement for more than 30 years.
 
 Anchored Artifacts: A-1910.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Obtain the full Commission statement.
 
 ---
@@ -702,7 +702,7 @@ Claim Timestamp: 00:28:15
 Claim: Over the weekend following the resignation, Brooksby's name was quietly removed from the Sheriff's Office website and social media pages.
 
 Anchored Artifacts: A-1910.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Capture archived versions of the website and social pages.
 
 ---

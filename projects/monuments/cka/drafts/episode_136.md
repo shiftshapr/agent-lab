@@ -60,7 +60,7 @@ Video Timestamp: 00:03:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3193, N-1209, N-1, N-2170*
+*Related: C-3193, N-1, N-2170*
 
 ---
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:10:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3196, C-3197, N-1207, N-2171*
+*Related: C-3196, C-3197, N-2171*
 
 **A-2224.2** Testimony excerpt: body cam footage ran 27 minutes 35 seconds and ended on the rooftop; Bagley states battery died
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:12:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3195, N-1207, N-2172*
+*Related: C-3195, N-2172*
 
 ---
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:15:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3198, C-3199, C-3200, N-1207, N-1208, N-1214, N-1215, N-2171*
+*Related: C-3198, C-3199, C-3200, N-1214, N-1215, N-2171*
 
 ---
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:16:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3201, N-1208*
+*Related: C-3201*
 
 ---
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:22:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3203, C-3204, N-1208, N-2173*
+*Related: C-3203, C-3204, N-2173*
 
 ---
 
@@ -220,7 +220,7 @@ Video Timestamp: 00:18:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3197, C-3195, N-1207, N-1216, N-2171, N-2172*
+*Related: C-3197, C-3195, N-1216, N-2171, N-2172*
 
 ---
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:16:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3199, C-3200, N-1208, N-1214, N-1215*
+*Related: C-3199, C-3200, N-1214, N-1215*
 
 ---
 
@@ -248,7 +248,7 @@ Video Timestamp: 00:19:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbally referenced; not directly displayed)
 
-*Related: C-3202, N-1208*
+*Related: C-3202*
 
 ---
 
@@ -367,7 +367,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2234.1, C-3199, C-3200, N-1208, N-1214*
+*Related: A-2234.1, C-3199, C-3200, N-1214*
 
 ---
 
@@ -380,7 +380,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2233.1, N-1207, N-2171, N-2172*
+*Related: A-2233.1, N-2171, N-2172*
 
 ---
 
@@ -406,7 +406,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2223.1, A-2225.1, C-3193, N-1209, N-1210, N-1211*
+*Related: A-2223.1, A-2225.1, C-3193, N-1210, N-1211*
 
 ---
 
@@ -419,7 +419,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2224.1, A-2227.1, A-2233.1, A-2234.1, C-3196, C-3197, C-3198, C-3199, C-3200, N-1207, N-1208, N-1214, N-1215, N-1216*
+*Related: A-2224.1, A-2227.1, A-2233.1, A-2234.1, C-3196, C-3197, C-3198, C-3199, C-3200, N-1214, N-1215, N-1216*
 
 ---
 
@@ -432,7 +432,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2224.2, A-2233.1, C-3195, N-1207, N-1216*
+*Related: A-2224.2, A-2233.1, C-3195, N-1216*
 
 ---
 
@@ -445,7 +445,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2229.1, C-3203, C-3204, N-1208*
+*Related: A-2229.1, C-3203, C-3204*
 
 ---
 
@@ -575,7 +575,7 @@ Claim Timestamp: 00:16:47
 Claim: A USU Department of Public Safety Facebook announcement, displayed in the episode, states that Allan Robertson had joined the USU police force the summer prior to the September 2025 shooting.
 
 Anchored Artifacts: A-2228.1
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain the original Facebook post metadata (date, author) and corroborate with USU PD hiring records.
 
@@ -588,7 +588,7 @@ Claim Timestamp: 00:19:23
 Claim: Per Robertson's LinkedIn profile (verbally referenced), he served as a marksmanship instructor for the Marines at Camp Pendleton from 2009 to 2014 and was deployed in Afghanistan and humanitarian work in Japan.
 
 Anchored Artifacts: A-2235.1
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Pull archived versions of the LinkedIn profile and cross-check against Marine Corps service records.
 

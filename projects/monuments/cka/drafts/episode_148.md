@@ -127,7 +127,7 @@ Video Timestamp: 00:28:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-1028, N-5, *
+*Related: N-1028, N-5*
 
 ---
 

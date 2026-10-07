@@ -80,7 +80,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Again, this is none of your business, you vile witch."
 
-*Related: C-3140, N-1208, N-2150*
+*Related: C-3140, N-2150*
 
 ---
 
@@ -162,7 +162,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "LOL. No, can confirm I'm not in D.C. Same is true for our in-house lawyer and CMO. While we're at it, Candace claimed I was in D.C. on January 29th meeting with top brass and that I staged some elaborate pre-record with Kash Patel. Also false. I would check your source, Candace. Oh, that's right, you don't check your sources."
 
-*Related: C-3145, Andrew Kolvet (existing node), N-1209, N-2151, Donald Trump (existing node)*
+*Related: C-3145, Andrew Kolvet (existing node), N-2151, Donald Trump (existing node)*
 
 ---
 
@@ -214,7 +214,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Andrew Colvin and Blake Neff are falling down their own mountain of evidence against Tyler Robinson. They want to distract you from your investigation. You must be close and they are scared. The preacher looks like he's fresh from a prison yard."
 
-*Related: Andrew Kolvet (existing node), N-1208, Tyler Robinson (existing node), N-1210*
+*Related: Andrew Kolvet (existing node), Tyler Robinson (existing node), N-1210*
 
 **A-2196.4** Comment from Lee
 
@@ -373,7 +373,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1207, C-3147 (verbal-only host assertion)*
+*Related: C-3147 (verbal-only host assertion)*
 
 **N-2149** 911 Call Content Discrepancy
 
@@ -395,7 +395,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2190.1, A-2191.1, C-3140, C-3141, Charlie Kirk (existing node), Erica Kirk (existing node), N-1208*
+*Related: A-2190.1, A-2191.1, C-3140, C-3141, Charlie Kirk (existing node), Erica Kirk (existing node)*
 
 **N-2151** TPUSA White House Meeting Coordination with Netanyahu Trip
 
@@ -406,7 +406,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2194.1, C-3145, Andrew Kolvet (existing node), N-1209, Benjamin Netanyahu (existing node), Donald Trump (existing node)*
+*Related: A-2194.1, C-3145, Andrew Kolvet (existing node), Benjamin Netanyahu (existing node), Donald Trump (existing node)*
 
 ---
 
@@ -419,7 +419,7 @@ Claim Timestamp: 00:06:57
 Claim: Andrew Kolvet, in a public X post, asserted he had no idea whether the text messages shared by Candace Owens were authentic, framing any assumed-real release as an "evil thing" and as Candace "weaponizing" Charlie's private messages.
 
 Anchored Artifacts: A-2189.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Obtain independent forensic verification of the disputed messages and compare against Kolvet's stated inability to confirm.
 
 **C-3139** Twitter Community Note corrected Kolvet's framing about text message timeline
@@ -429,7 +429,7 @@ Claim Timestamp: 00:07:44
 Claim: A Community Note attached to Kolvet's X post stated that the released text messages were from November 2023, falling within 22 months of Charlie Kirk's death on September 10, and observed that Kolvet had moved the goalpost from his prior challenge.
 
 Anchored Artifacts: A-2189.2
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Confirm that the November 2023 date corresponds to the text messages Candace referenced in the prior episode, and confirm the Community Note remains attached to the original Kolvet post.
 
 **C-3140** Blake Neff publicly called Candace a "vile witch" in X post
@@ -469,7 +469,7 @@ Claim Timestamp: 00:28:37
 Claim: Erika Kirk, in a Make Heaven Crowded tour speech, stated she was "way more heaven focused" since Charlie's murder and quoted an unnamed source as saying "eternal life begins the moment that you truly know Christ."
 
 Anchored Artifacts: A-2193.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Obtain the full event recording and verify whether the speech was read from a written or pre-prepared source.
 
 **C-3144** Erika Kirk referenced "my kids are watching me" in tour speech
@@ -479,7 +479,7 @@ Claim Timestamp: 00:29:29
 Claim: Erika Kirk, in a Make Heaven Crowded tour speech, framed her refusal to surrender around the claim that "my kids are watching me," "my co-workers are watching me," and a "cloud of witnesses."
 
 Anchored Artifacts: A-2193.2
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Confirm against the full event recording and verify event date and venue.
 
 **C-3145** Andrew Kolvet publicly denied being in Washington DC with TPUSA team
@@ -519,7 +519,7 @@ Claim Timestamp: 00:44:04
 Claim: Candace Owens states, in response to a YouTube comment, that Charlie Kirk's wedding ring had an open clasp, that the ring can be seen falling off his finger in certain footage, and that she has been told the ring was never recovered.
 
 Anchored Artifacts: A-2196.5 (trigger), A-2197.1-derived (host's verbal expansion only)
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Obtain and verify the underlying footage, confirm the open-clasp detail against the ring's design, and identify the source of the "never recovered" assertion.
 
 **C-3149** Host received tip alleging 911 call from Charlie's security team captured specific phrases

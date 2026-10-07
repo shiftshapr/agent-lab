@@ -57,7 +57,7 @@ Video Timestamp: 00:03:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3036, N-1208, N-1*
+*Related: C-3036, N-1*
 
 ---
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:08:30–00:12:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3027, N-1207, N-2116, N-2117*
+*Related: C-3027, N-2116, N-2117*
 
 **A-2139.2** Filomena Testimony on Communication to FBI/ATF Discontinuing Testing
 
@@ -81,7 +81,7 @@ Video Timestamp: 00:09:25–00:11:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3028, N-1207, N-2117*
+*Related: C-3028, N-2117*
 
 ---
 
@@ -95,7 +95,7 @@ Video Timestamp: 00:15:25–00:18:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3029, N-1209, N-2116*
+*Related: C-3029, N-2116*
 
 **A-2140.2** Witness Description of Shooter Attire and Firearm
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:18:30–00:20:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3030, C-3031, N-1209*
+*Related: C-3030, C-3031*
 
 **A-2140.3** Witness Report to UVU Command Center
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:19:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3034, N-1209, N-2118*
+*Related: C-3034, N-2118*
 
 ---
 
@@ -301,7 +301,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2138.1, N-1208*
+*Related: A-2138.1*
 
 ---
 
@@ -314,7 +314,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2139.1, N-1207*
+*Related: A-2139.1*
 
 ---
 
@@ -340,7 +340,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2139.1, A-2139.2, C-3027, C-3028, N-1207*
+*Related: A-2139.1, A-2139.2, C-3027, C-3028*
 
 ---
 
@@ -353,7 +353,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2140.3, C-3034, N-1209*
+*Related: A-2140.3, C-3034*
 
 ---
 
@@ -405,7 +405,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2145.1, C-3041, N-1208*
+*Related: A-2145.1, C-3041*
 
 ---
 
@@ -488,7 +488,7 @@ Claim Timestamp: 00:19:53
 Claim: The eyewitness described the rooftop person's rifle as looking smaller than a .30-06 (and specifically as appearing to be a .223), contradicting the recovered Mauser per the witness.
 
 Anchored Artifacts: A-2140.2
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Cross-reference with recovered weapon evidence and any unfired .223 round testimony referenced at 26:40.
 
 ---

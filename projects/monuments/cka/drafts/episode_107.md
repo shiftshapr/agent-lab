@@ -63,7 +63,7 @@ Episode profiles Victor Marx, Colorado gubernatorial candidate and Turning Point
 
 Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure
 
-*Related: *
+*Related:*
 
 ---
 
@@ -71,7 +71,7 @@ Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure
 
 Victor's wife; described as second-mother figure to Erika Kirk
 
-*Related: *
+*Related:*
 
 ---
 
@@ -79,7 +79,7 @@ Victor's wife; described as second-mother figure to Erika Kirk
 
 Victor's biological father; described as pimp, drug dealer, martial artist
 
-*Related: *
+*Related:*
 
 ---
 
@@ -87,7 +87,7 @@ Victor's biological father; described as pimp, drug dealer, martial artist
 
 Accuser of Victor Marx; alleges gun-running and IDF arms deal
 
-*Related: *
+*Related:*
 
 ---
 
@@ -95,7 +95,7 @@ Accuser of Victor Marx; alleges gun-running and IDF arms deal
 
 Corby's wife; subject of Victor's prayer ministry claims
 
-*Related: *
+*Related:*
 
 ---
 
@@ -103,7 +103,7 @@ Corby's wife; subject of Victor's prayer ministry claims
 
 Accuser of Victor Marx; alleges kidnapping across state lines and trafficking
 
-*Related: *
+*Related:*
 
 ---
 
@@ -111,7 +111,7 @@ Accuser of Victor Marx; alleges kidnapping across state lines and trafficking
 
 Eileen's brother; attempted to shoot Victor in 2023; later killed his girlfriend
 
-*Related: *
+*Related:*
 
 ---
 
@@ -119,7 +119,7 @@ Eileen's brother; attempted to shoot Victor in 2023; later killed his girlfriend
 
 Victor's half-sister (daughter of Gloyce Kennedy); Victor says she corroborates abuse
 
-*Related: *
+*Related:*
 
 ---
 
@@ -127,7 +127,7 @@ Victor's half-sister (daughter of Gloyce Kennedy); Victor says she corroborates 
 
 Victor's older sister; per Victor, appears in his documentary corroborating abuse
 
-*Related: *
+*Related:*
 
 ---
 
@@ -135,7 +135,7 @@ Victor's older sister; per Victor, appears in his documentary corroborating abus
 
 Wrote letter to board accusing father of abusing him and his sister
 
-*Related: *
+*Related:*
 
 ---
 
@@ -143,7 +143,7 @@ Wrote letter to board accusing father of abusing him and his sister
 
 Posted social media about abuse; later recanted; friends allege pressure
 
-*Related: *
+*Related:*
 
 ---
 
@@ -151,7 +151,7 @@ Posted social media about abuse; later recanted; friends allege pressure
 
 Friend of Victor Marx; mentioned in 9/10 announcement context
 
-*Related: *
+*Related:*
 
 ---
 
@@ -159,7 +159,7 @@ Friend of Victor Marx; mentioned in 9/10 announcement context
 
 Pastor; cited as also posting early about Charlie's death
 
-*Related: *
+*Related:*
 
 ---
 
@@ -167,7 +167,7 @@ Pastor; cited as also posting early about Charlie's death
 
 Person who platformed Corby Hall on Candace show; per Victor filed FBI/statement
 
-*Related: *
+*Related:*
 
 ---
 
@@ -175,7 +175,7 @@ Person who platformed Corby Hall on Candace show; per Victor filed FBI/statement
 
 Discrepancy between claimed childhood abuse history and statements from family members
 
-*Related: *
+*Related:*
 
 ---
 
@@ -183,7 +183,7 @@ Discrepancy between claimed childhood abuse history and statements from family m
 
 Verification of who first knew and announced Charlie Kirk's death on 9/10
 
-*Related: *
+*Related:*
 
 ---
 
@@ -191,7 +191,7 @@ Verification of who first knew and announced Charlie Kirk's death on 9/10
 
 Website (victor2026.com) claimed rescued 45,000 women/children; Victor denied this claim
 
-*Related: *
+*Related:*
 
 ---
 
@@ -199,7 +199,7 @@ Website (victor2026.com) claimed rescued 45,000 women/children; Victor denied th
 
 Corby Hall's claim Victor attempted 50,000-gun deal for IDF
 
-*Related: *
+*Related:*
 
 ---
 

@@ -305,7 +305,7 @@ Claim: On the Megyn Kelly tour stage in Florida, Ben Shapiro stated that "what C
 
 Anchored Artifacts: A-1356.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Compare Shapiro's exact phrasing on stage to prior and subsequent statements to determine whether "evil" was used to characterize Owens' investigation, her rhetoric, or both.
 
@@ -347,7 +347,7 @@ Claim: According to the read-aloud HuffPost article, on March 25, 2025, then-Dai
 
 Anchored Artifacts: A-1358.1, A-1359.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify the original X Space audio against the HuffPost excerpts and check whether Boring's characterization of Fuentes was later retracted.
 
@@ -361,7 +361,7 @@ Claim: According to the read-aloud HuffPost article and corresponding audio, Jer
 
 Anchored Artifacts: A-1358.1, A-1359.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Confirm via the original X Space audio that this invitation was extended unconditionally and identify whether Daily Wire subsequently acted on the invitation.
 
@@ -431,7 +431,7 @@ Claim: Eric and Laura Trump appeared as speakers at a recent Turning Point USA e
 
 Anchored Artifacts: A-1363.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Confirm the event date, attendance records, and Turning Point USA's official event listing.
 
@@ -445,7 +445,7 @@ Claim: At the Auburn TPUSA event, a student stated in a question that President 
 
 Anchored Artifacts: A-1363.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Trace the $230M figure to its underlying donor records, FEC filings, or AIPAC-adjacent donation disclosures to verify the sum and timeframe.
 
@@ -459,7 +459,7 @@ Claim: Ben Shapiro previously tweeted that any American Jew who is "pro-Israel" 
 
 Anchored Artifacts: A-1355.2
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Locate the original tweet via X/Twitter search or web archives to verify the exact wording, the date, and whether the tweet was later deleted or amended.
 
@@ -473,7 +473,7 @@ Claim: Ben Shapiro previously posted tweets containing imagery of Ron Paul "lean
 
 Anchored Artifacts: A-1355.3
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Locate the original tweets via web archives to verify wording, date, and any subsequent deletion or apology.
 

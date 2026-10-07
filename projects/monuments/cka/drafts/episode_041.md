@@ -379,7 +379,7 @@ Claim: Tim Pool states in a video that Candace Owens is a "scumbag" who is divid
 
 Anchored Artifacts: A-1499.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify clip against original Tim Pool broadcast; capture full context.
 

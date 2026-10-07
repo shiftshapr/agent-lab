@@ -58,7 +58,7 @@ Video Timestamp: 00:21:00–00:22:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2911, C-2913, C-2923, C-2930, C-2931, C-2932, C-2933, C-2934, N-1207, N-1208, N-1211, N-1213, N-1214, N-1218, N-2066, N-2067, N-2068, N-57*
+*Related: C-2911, C-2913, C-2923, C-2930, C-2931, C-2932, C-2933, C-2934, N-1211, N-1213, N-1214, N-1218, N-2066, N-2067, N-2068, N-57*
 
 **A-2076.2** Host's internal working timeline graphic (displayed on-screen, June–September 2025)
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:13:30–00:14:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (government source)
 
-*Related: C-2909, C-2910, C-2911, C-2912, C-2913, N-1207, N-1208, N-2066*
+*Related: C-2909, C-2910, C-2911, C-2912, C-2913, N-2066*
 
 ---
 
@@ -213,7 +213,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2076.1, A-2076.2, A-2079.1, C-2909, C-2910, C-2911, C-2912, C-2913, N-1208, N-2066, N-2069*
+*Related: A-2076.1, A-2076.2, A-2079.1, C-2909, C-2910, C-2911, C-2912, C-2913, N-2066, N-2069*
 
 ---
 
@@ -226,7 +226,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2079.1, C-2909, N-1207*
+*Related: A-2079.1, C-2909*
 
 ---
 
@@ -434,7 +434,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2076.1, A-2077.1, A-2079.1, C-2913, C-2930, C-2931, N-1207, N-1213, N-1218*
+*Related: A-2076.1, A-2077.1, A-2079.1, C-2913, C-2930, C-2931, N-1213, N-1218*
 
 ---
 
@@ -473,7 +473,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2076.2, A-2080.1, C-2923, N-1207, N-1209*
+*Related: A-2076.2, A-2080.1, C-2923*
 
 ---
 
@@ -562,7 +562,7 @@ Claim: Per host, Hansel was nominated by Trump and confirmed by the Senate, then
 
 Anchored Artifacts: A-2076.2, A-2079.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify Senate roll-call vote and swearing-in date via official Senate records.
 
@@ -576,7 +576,7 @@ Claim: Per host, after serving in the Navy and Army Special Forces Airborne Divi
 
 Anchored Artifacts: A-2079.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify service record via official DoD / Army Special Forces sources.
 

@@ -607,7 +607,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 Claim Timestamp: 00:02:30
 Claim: Brian Herpolsheimer stated that the first hard-conversations/intelligence-sharing for Charlie Kirk events begins on the 24th of the month prior to the event.
 Anchored Artifacts: A-1596.1
-Related Nodes: N-424, 
+Related Nodes: N-424
 Investigative Direction: Obtain the full Sean Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice.
 
 ---

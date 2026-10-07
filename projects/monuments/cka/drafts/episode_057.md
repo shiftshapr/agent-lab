@@ -160,7 +160,7 @@ Video Timestamp: 00:53:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (personal testimony)
 
-*Related: *
+*Related:*
 
 ---
 
@@ -280,7 +280,7 @@ Claim: The Be Inspired clip (A-1628.2) presents whistleblower Bill Wood's accoun
 
 Anchored Artifacts: A-1628.2
 
-Related Nodes: N-720, N-1484, N-724, 
+Related Nodes: N-720, N-1484, N-724
 
 Investigative Direction: Locate the original Project Camelot interview with Bill Wood; check declassified military/CIA records and FOIA releases for any program matching the description.
 

@@ -61,13 +61,13 @@ Video Timestamp: 00:04:59–00:06:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3357, C-3358, C-3359, C-3360, C-3361, N-1207, N-1208, N-1209, N-1227, N-2225*
+*Related: C-3357, C-3358, C-3359, C-3360, C-3361, N-1227, N-2225*
 
 **A-2327.1** Judge Graff Count 6 Ruling Audio (excerpt)
 
 Verbatim: "Standing alone, advising another person to risk request counsel and remain silent is lawful and does not establish witness tampering. The state relies however, on the context of the communication, including defendant's earlier alleged instruction to delete this exchange. Viewed together in the light most favorable to the state, those communications permit a reasonable inference that defendant intended to cause Twigs to withhold information from investigators."
 
-*Related: C-3358, C-3359, C-3360, N-1207, N-1209, N-2225*
+*Related: C-3358, C-3359, C-3360, N-2225*
 
 **A-2328** Court Audio – Arraignment / Plea Entry
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:08:15–00:08:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3362, C-3363, N-1207, N-1208, N-69*
+*Related: C-3362, C-3363, N-69*
 
 **A-2329** 9/10 Exclusive Footage Bundle
 
@@ -97,13 +97,13 @@ Confidence Level: Medium (footage provenance not independently authenticated in 
 
 Justin Davis running to and opening the passenger-side door of a vehicle he did not arrive in, alongside Blake Neff (also not a passenger of the vehicle).
 
-*Related: C-3364, C-3371, N-1209, N-1212, N-2221*
+*Related: C-3364, C-3371, N-1212, N-2221*
 
 **A-2329.2** "Dip and Meet" Sequence (Danny / Mikey / Justin)
 
 Footage showing Mikey McCoy and Danny Phillip running, meeting in front of Charlie's vehicle, and ducking down together with Justin Davis, as if in coordination.
 
-*Related: C-3365, C-3366, N-1209, N-69, N-1211, N-2219*
+*Related: C-3365, C-3366, N-69, N-1211, N-2219*
 
 **A-2329.3** Backpack Ejection from Trunk
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:10:41–00:15:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (AI-generated; host acknowledges "we used AI here to demonstrate to you what the vehicles are")
 
-*Related: C-3371, C-3372, N-1209, N-69, N-1211, N-1212, N-1213, N-1214, N-2219, N-2221*
+*Related: C-3371, C-3372, N-69, N-1211, N-1212, N-1213, N-1214, N-2219, N-2221*
 
 **A-2331** Security Team Photo
 
@@ -199,7 +199,7 @@ Video Timestamp: 00:42:00–00:43:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3379, C-3380, C-3381, C-3382, N-1208, N-1209, N-69, N-2223, N-2224*
+*Related: C-3379, C-3380, C-3381, C-3382, N-69, N-2223, N-2224*
 
 **A-2337** Court Filing – August 11 Defense Filing (incl. page 32)
 
@@ -211,7 +211,7 @@ Video Timestamp: 00:47:55–00:49:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text read aloud; full filing not shown)
 
-*Related: C-3380, C-3381, C-3382, C-3383, N-1208, N-1209, N-69, N-1228, N-2223, N-2224*
+*Related: C-3380, C-3381, C-3382, C-3383, N-69, N-1228, N-2223, N-2224*
 
 **A-2338** Court Audio – Blake Neff Testimony
 
@@ -275,7 +275,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2327.1, A-2328, A-2336, A-2337, C-3379, C-3380, C-3381, C-3382, N-69, N-1209, N-2223, N-2224*
+*Related: A-2327.1, A-2328, A-2336, A-2337, C-3379, C-3380, C-3381, C-3382, N-69, N-2223, N-2224*
 
 **N-1209** Robinson Apartment Staging Allegation
 
@@ -563,7 +563,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2332, A-2333, A-2334, A-2335, A-2336, A-2337, C-3374, C-3375, C-3376, C-3377, C-3378, N-1208, N-1222, N-1223, N-1224, N-1225, N-1213*
+*Related: A-2332, A-2333, A-2334, A-2335, A-2336, A-2337, C-3374, C-3375, C-3376, C-3377, C-3378, N-1222, N-1223, N-1224, N-1225, N-1213*
 
 **N-2224** Political Motivation Inference Chain (Hearsay Standard)
 
@@ -574,7 +574,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2336, A-2337, C-3379, C-3380, C-3381, C-3382, C-3383, N-1208, N-1209, N-69, N-1228*
+*Related: A-2336, A-2337, C-3379, C-3380, C-3381, C-3382, C-3383, N-69, N-1228*
 
 **N-2225** Defense Witness Tampering Count 6 Constitutional Question
 
@@ -585,7 +585,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2327, A-2327.1, C-3358, C-3359, C-3360, C-3361, N-1207, N-1209, N-69*
+*Related: A-2327, A-2327.1, C-3358, C-3359, C-3360, C-3361, N-69*
 
 ---
 

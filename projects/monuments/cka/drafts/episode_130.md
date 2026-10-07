@@ -39,7 +39,7 @@ Video Timestamp: 00:04:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3107, N-1209*
+*Related: C-3107*
 
 **A-2172** Wikipedia Entry Bundle (Canaanism)
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:14:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3109, N-1207, N-1208*
+*Related: C-3109*
 
 **A-2174** Andrew Kolvet X Post Bundle
 
@@ -176,7 +176,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2173.1, C-3109, N-1208, N-1210, N-1213, N-1218, N-2143*
+*Related: A-2173.1, C-3109, N-1210, N-1213, N-1218, N-2143*
 
 **N-1208** Brooksby Suicide Narrative Discrepancy
 
@@ -187,7 +187,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2173.1, C-3109, N-1207, N-1219*
+*Related: A-2173.1, C-3109, N-1219*
 
 **N-1209** Robinson Apartment Staging Allegation
 
@@ -242,7 +242,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1207, N-2143*
+*Related: N-2143*
 
 **N-1214** Charlie Kirk Pre-Mortem Israel Position Claim
 
@@ -264,7 +264,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1207, N-2143*
+*Related: N-2143*
 
 **N-1216** Utah FBI Personnel Replacement
 
@@ -275,7 +275,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1217, N-1207*
+*Related: N-1217*
 
 **N-1217** Mike Mitchell Undercover Role Verification
 
@@ -297,7 +297,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1207, N-9*
+*Related: N-9*
 
 **N-1219** "Robbie Hild" Identity Verification
 
@@ -308,7 +308,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1208, N-1220, N-57*
+*Related: N-1220, N-57*
 
 **N-1220** Case-Personnel Cluster Anomalies
 
@@ -363,7 +363,7 @@ Claim Count: 0 (host narration surrounding A-2173.1, not artifact-anchored as a 
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2173.1, N-1207, N-1208, N-1213, N-1215*
+*Related: A-2173.1, N-1213, N-1215*
 
 **N-2144** Daily Mail Article Sourcing Question
 
@@ -396,7 +396,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2173.1, N-9, N-1208*
+*Related: A-2173.1, N-9*
 
 ---
 
@@ -418,7 +418,7 @@ Claim Timestamp: 00:04:35
 Claim: A 1947 New York Times article attributes to Margaret Truman Daniel's biography an account that the Stern gang of Zionist terrorists attempted to assassinate President Truman by letter bomb using cream-colored envelopes rigged with powdered gelatin, a pencil battery, and a detonator.
 
 Anchored Artifacts: A-2171.1
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify against the Margaret Truman Daniel biography Harry S. Truman and the contemporaneous NYT archive to confirm the letter-bomb episode and its date.
 

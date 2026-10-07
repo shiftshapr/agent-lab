@@ -78,7 +78,7 @@ Confidence: high
 
 **A-1164.3** Testimonial from second rooftop witness obtained by host, claiming he delivered footage to Orem Police Department on day one and was not contacted by feds until September 15
 Video Timestamp: 00:18:43–00:20:06
-*Related: C-1291, N-1190, N-1195, N-1190*
+*Related: C-1291, N-1190, N-1195*
 Transcript Snippet: He walked in and gave the footage to the Orum Police Department… the feds never reached out to him until the 15th.
 Confidence: high
 
@@ -532,7 +532,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Mentioned by commenters and host regarding markings on bullet casings at recent violent crimes; suggested by host and commenter Ben Autton to resemble 'government signature'.
 
-*Related: *
+*Related:*
 
 ---
 
@@ -542,7 +542,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 Host asserts this is 'a real thing' when discussing financially motivated pastors around Charlie Kirk.
 
-*Related: *
+*Related:*
 
 ---
 
@@ -552,7 +552,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Commenter-referenced screenshot of an Amazon listing dated September 9, 2025 for a book about Charlie with accurate event details; host dismisses as Amazon 'technical error'.
 
-*Related: *
+*Related:*
 
 ---
 

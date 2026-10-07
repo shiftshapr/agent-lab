@@ -74,7 +74,7 @@ Video Timestamp: 00:08:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3346, N-1208*
+*Related: C-3346*
 
 ---
 
@@ -88,7 +88,7 @@ Video Timestamp: 00:09:43–00:11:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3347, C-3355, N-1207, N-1208, N-1209*
+*Related: C-3347, C-3355*
 
 **A-2322.2** Jack Hibbs interview with Frank Churik — FaceTime sequence, Mikey McCoy call, "cousin Charlie" confusion, 12:30 PM prayer chain claim
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:15:14–00:17:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3349, C-3350, C-3351, N-1208, N-1209, N-2217*
+*Related: C-3349, C-3350, C-3351, N-2217*
 
 ---
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:13:30–00:15:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3345, C-3355, N-1207, N-1208, N-1210*
+*Related: C-3345, C-3355, N-1210*
 
 ---
 
@@ -127,7 +127,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-09-01 (broadcast)
 Confidence Level: High
 
-*Related: C-3348, N-1207, N-2216*
+*Related: C-3348, N-2216*
 
 **A-2324.2** Butch Hibbs still on phone approximately five minutes after the shooting
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:24:18–00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3353, N-1207, N-2216*
+*Related: C-3353, N-2216*
 
 **A-2324.3** Butch Hibbs standing behind persons speaking to news crews about what they witnessed
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:26:29–00:27:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1207, N-2216*
+*Related: N-2216*
 
 ---
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:04:33–00:06:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1207*
+*Related:*
 
 **A-2325.2** Photo of unidentified individual in pink hat and blue shirt holding a drink at UVU
 
@@ -232,7 +232,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2324.1, A-2324.2, A-2324.3, C-3348, C-3353, N-1207, N-1208*
+*Related: A-2324.1, A-2324.2, A-2324.3, C-3348, C-3353*
 
 **N-2217** Jack Hibbs Sequence-of-Events Discrepancy
 
@@ -243,7 +243,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2322.2, C-3349, C-3350, C-3351, N-1208, N-1209*
+*Related: A-2322.2, C-3349, C-3350, C-3351*
 
 **N-2218** Unidentified UVU Attendee (Pink Hat / Blue Shirt)
 
@@ -282,7 +282,7 @@ Claim: In a Facebook video, Jack Hibbs stated he first learned Charlie Kirk had 
 
 Anchored Artifacts: A-2321.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Identify the specific Israeli outlet(s) referenced; review Israeli media's early reporting timeline; determine whether/how they obtained information before official announcement.
 
@@ -296,7 +296,7 @@ Claim: In an interview with Frank Churik, Jack Hibbs described receiving a call 
 
 Anchored Artifacts: A-2322.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain Butch Hibbs's phone records for the night of 9/9–9/10 to verify the timing and content of the call to Jack Hibbs.
 
@@ -324,7 +324,7 @@ Claim: In a second interview clip with Frank Churik, Jack Hibbs stated he first 
 
 Anchored Artifacts: A-2322.2
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Cross-reference Mikey McCoy's call logs (previously referenced as covering 12:24–12:44) for any call to a Jack Hibbs number; reconcile with the 12:30 PM prayer-chain claim.
 
@@ -380,7 +380,7 @@ Claim: Jack Hibbs in interview identifies his brother Butch as 74 years old; UVU
 
 Anchored Artifacts: A-2322.1, A-2325.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Confirm Butch Hibbs's date of birth and verify against any ID or background checks.
 

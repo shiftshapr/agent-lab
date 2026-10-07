@@ -40,7 +40,7 @@ Video Timestamp: 00:01:20–00:06:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio quality degraded; AI-cleaned)
 
-*Related: C-2764, C-2765, C-2766, N-1207, N-1212, N-1698*
+*Related: C-2764, C-2765, C-2766, N-1212, N-1698*
 
 ---
 
@@ -53,7 +53,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:06:28–00:17:22
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2767, C-2768, C-2769, N-1208, N-1210, N-1698, N-1699*
+*Related: C-2767, C-2768, C-2769, N-1210, N-1698, N-1699*
 
 **A-1994.2** Audio of defense attorney Kathy Nester addressing the court re: phone and gun access
 
@@ -62,7 +62,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:20–00:15:13
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2770, C-2771, C-2772, N-1209, N-1217, N-1698, N-1699*
+*Related: C-2770, C-2771, C-2772, N-1217, N-1698, N-1699*
 
 ---
 
@@ -268,7 +268,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:55:45
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-1207, N-1708*
+*Related: N-1708*
 
 **A-2005.5** Comment by user "Always Be True" questioning prosecution's lone-gunman theory and asking when location was disclosed
 
@@ -455,7 +455,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1994.1, A-1994.2, C-2767, C-2771, N-1208, N-1209*
+*Related: A-1994.1, A-1994.2, C-2767, C-2771*
 
 ---
 
@@ -468,7 +468,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1994.1, A-1994.2, C-2768, C-2770, N-1208, N-1209*
+*Related: A-1994.1, A-1994.2, C-2768, C-2770*
 
 ---
 
@@ -572,7 +572,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1993.1, C-2764, C-2765, C-2766, N-1207*
+*Related: A-1993.1, C-2764, C-2765, C-2766*
 
 ---
 
@@ -652,7 +652,7 @@ Claim: The grandfather states his father (Tyler Robinson's great-grandfather) wa
 
 Anchored Artifacts: A-1993.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify great-grandfather's law enforcement service in the relevant town and the claimed ballistics instruction.
 
@@ -764,7 +764,7 @@ Claim: Donald Trump posted on Truth Social stating that Candace Owens, Megyn Kel
 
 Anchored Artifacts: A-1995.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify post directly on Truth Social; note timestamp and any subsequent deletions.
 
@@ -778,7 +778,7 @@ Claim: A follow-up Trump Truth Social post refers to Candace Owens as mentally i
 
 Anchored Artifacts: A-1995.2
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Locate and verify the exact second post on Truth Social.
 
@@ -960,7 +960,7 @@ Claim: A YouTube commenter (SpidyBear3995) asserts that Charlie Kirk told multip
 
 Anchored Artifacts: A-2005.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Cross-reference with prior episodes where similar claims have been made; corroborate via documentary sources.
 

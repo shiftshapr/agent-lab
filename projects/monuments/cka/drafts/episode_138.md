@@ -35,7 +35,7 @@ Video Timestamp: 00:17:35–00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud on air with quoted content)
 
-*Related: C-3222, C-3223, C-3235, N-1207, N-2179*
+*Related: C-3222, C-3223, C-3235, N-2179*
 
 **A-2246.2** Second X post by "Shady Lady Katie" detailing group activities: background checks, account reporting, sharing Candace Owens' home address, "coordinated efforts" against Owens
 
@@ -45,7 +45,7 @@ Video Timestamp: 00:19:12–00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted on air)
 
-*Related: C-3223, C-3235, N-1207, N-2179*
+*Related: C-3223, C-3235, N-2179*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:36:50–00:37:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (statement read on air)
 
-*Related: C-3226, C-3227, N-1209*
+*Related: C-3226, C-3227*
 
 ---
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:32:46–00:34:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-3233, N-1209*
+*Related: C-3233*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:44:38–00:45:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-3228, N-1208, N-2184*
+*Related: C-3228, N-2184*
 
 **A-2251.2** Segment in which Piers Morgan states Mississippi-area law enforcement and sheriffs report no records, police reports, or unsolved homicides matching Victor Marx's account of a killing at age 7; Marx states his stepfather held his hand on a pistol pointed at a handcuffed, kneeling "homeless fellow"; Marx acknowledges he has studied false memories and that false memory formation is "possible"
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:45:49–00:47:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-3229, C-3230, C-3231, N-1208, N-2184*
+*Related: C-3229, C-3230, C-3231, N-2184*
 
 ---
 
@@ -203,7 +203,7 @@ Video Timestamp: 00:54:33–00:55:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: C-3235, N-1207, N-2179*
+*Related: C-3235, N-2179*
 
 **A-2253.5** Comment by "Ben the Beast": asks for host's thoughts on Andrew Tate's most recent arrest; calls it a "Matrix attack."
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:58:55–00:59:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: N-1209*
+*Related:*
 
 **A-2253.8** Comment by "Lola Wild": "I love you, Candace. Let's give him grace. What if he was doing it for his kids because they were getting payback through a humili humiliation ritual or sacrifice one of his kids? Maybe leaving the cruy Hollywood cult. Pray for the kids."
 
@@ -243,7 +243,7 @@ Video Timestamp: 01:00:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: N-1209*
+*Related:*
 
 **A-2253.9** Comment by "Damn it": praises host's "beautiful soul."
 
@@ -346,7 +346,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2246.1, A-2246.2, A-2253.4, C-3222, C-3223, C-3235, N-1207, N-2, N-3*
+*Related: A-2246.1, A-2246.2, A-2253.4, C-3222, C-3223, C-3235, N-2, N-3*
 
 ---
 
@@ -411,7 +411,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2251.1, A-2251.2, C-3228, C-3229, C-3230, C-3231, N-1208*
+*Related: A-2251.1, A-2251.2, C-3228, C-3229, C-3230, C-3231*
 
 ---
 
@@ -481,7 +481,7 @@ Claim: Miami-Dade Sheriff's Office deputies responded to Perez Hilton's Miami-ar
 
 Anchored Artifacts: A-2249.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain the original Miami-Dade Sheriff's Office email/statement and any incident report; verify timestamp of live stream and platform takedown.
 
@@ -495,7 +495,7 @@ Claim: Following the self-harm response, Perez Hilton was safely recovered and t
 
 Anchored Artifacts: A-2249.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Confirm hospitalization via hospital records or subsequent official statements; verify family-member statement that he was alone in the residence.
 
@@ -579,7 +579,7 @@ Claim: On the 2010 Ellen DeGeneres Show, Perez Hilton acknowledged being perceiv
 
 Anchored Artifacts: A-2250.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain the full 2010 episode recording for complete context; cross-reference with contemporaneous reporting.
 

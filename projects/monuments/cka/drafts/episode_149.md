@@ -56,7 +56,7 @@ Video Timestamp: 00:01:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3543, C-3544, C-3545, N-1207, N-432*
+*Related: C-3543, C-3544, C-3545, N-432*
 
 ### A-2427 Frank Turek Sermon/Clip Bundle
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:06:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3546, N-1207, N-432*
+*Related: C-3546, N-432*
 
 ### A-2428 Brian Harpole Paramount Interview Bundle
 
@@ -104,7 +104,7 @@ Video Timestamp: 00:10:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3547, C-3548, N-1208, N-432*
+*Related: C-3547, C-3548, N-432*
 
 ### A-2429 Frank Turek CPR Account
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:11:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3546, N-1207, N-432*
+*Related: C-3546, N-432*
 
 ### A-2430 Frank Turek FaceTime with Pastor Jack Hibbs
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:14:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3548, N-1207, N-1214, N-432*
+*Related: C-3548, N-1214, N-432*
 
 ### A-2431 Hospital Parking Lot Eyewitness Account
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3550, C-3551, C-3552, C-3553, C-3554, C-3555, C-3556, C-3557, N-1209, N-1210, N-1211, N-1212, N-1213, N-432*
+*Related: C-3550, C-3551, C-3552, C-3553, C-3554, C-3555, C-3556, C-3557, N-1210, N-1211, N-1212, N-1213, N-432*
 
 ### A-2433 Panguitch Cowboy Smokehouse Evidence Bundle
 

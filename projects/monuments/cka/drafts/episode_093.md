@@ -37,7 +37,7 @@ Video Timestamp: 00:02:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2744, C-2758, N-1208, N-1691, N-1692*
+*Related: C-2744, C-2758, N-1691, N-1692*
 
 ---
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:08:44–00:09:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low–Medium (no underlying source shown; requires verification)
 
-*Related: C-2746, N-1208, N-1691*
+*Related: C-2746, N-1691*
 
 ---
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:11:54–00:12:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2747, N-1208, N-1691*
+*Related: C-2747, N-1691*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:24:00–00:25:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2748, N-1207, N-1217*
+*Related: C-2748, N-1217*
 
 ---
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:29:30–00:30:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (one host-cited website shown; other websites referenced)
 
-*Related: C-2749, N-1207*
+*Related: C-2749*
 
 ---
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:29:30–00:30:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2749, N-1207, N-1213*
+*Related: C-2749, N-1213*
 
 ---
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:31:20–00:32:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2750, N-1207, N-1210*
+*Related: C-2750, N-1210*
 
 **A-1987.2** Victor Marx interview clip denying arms trafficking: "Of course not. It's illegal. How would I even be where I am today?"
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:33:46–00:34:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2751, N-1207, N-1210*
+*Related: C-2751, N-1210*
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:35:00–00:36:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host invites Victor Marx to dispute authenticity)
 
-*Related: C-2752, C-2753, N-1207, N-1210, N-1693*
+*Related: C-2752, C-2753, N-1210, N-1693*
 
 **A-1988.2** Corby Hall reply: "Why so much focus on the IDF and not as much on domestic schools?… I would hate to send 1,000 units to the IDF and have an unprotected school get shot up here."
 
@@ -165,7 +165,7 @@ Video Timestamp: 00:36:10–00:37:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2752, N-1207, N-1210, N-1693*
+*Related: C-2752, N-1210, N-1693*
 
 **A-1988.3** Victor Marx reply: "You won't be sending 1,000 units to anyone in the IDF. You will get a paycheck for the patent and possibly your company and then on to your next adventure."
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:37:17–00:38:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2752, N-1207, N-1210, N-1693*
+*Related: C-2752, N-1210, N-1693*
 
 ---
 
@@ -289,7 +289,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1987.1, A-1987.2, A-1988.1, A-1988.2, A-1988.3, C-2750, C-2751, C-2752, C-2753, N-1207*
+*Related: A-1987.1, A-1987.2, A-1988.1, A-1988.2, A-1988.3, C-2750, C-2751, C-2752, C-2753*
 
 **N-1211** UVU Campus Familiarity Question
 
@@ -300,7 +300,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1986, C-2749, N-1207*
+*Related: A-1986, C-2749*
 
 **N-1212** Phil Lyman Location Discrepancy
 
@@ -377,7 +377,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1981.1, A-1982.1, A-1982.2, A-1983, A-1991.1, A-1991.2, C-2744, C-2745, C-2746, C-2747, C-2758, C-2759, N-1208, N-1209, N-1216*
+*Related: A-1981.1, A-1982.1, A-1982.2, A-1983, A-1991.1, A-1991.2, C-2744, C-2745, C-2746, C-2747, C-2758, C-2759, N-1216*
 
 **N-1692** Secret Service Statement Verification
 
@@ -399,7 +399,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1988.1, A-1988.2, A-1988.3, C-2752, C-2753, N-1207, N-1210*
+*Related: A-1988.1, A-1988.2, A-1988.3, C-2752, C-2753, N-1210*
 
 **N-1694** Bain Capital Foreign Investment Line
 
@@ -443,7 +443,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1984.1, A-1992, C-2748, C-2760, N-1207, N-1217*
+*Related: A-1984.1, A-1992, C-2748, C-2760, N-1217*
 
 ---
 

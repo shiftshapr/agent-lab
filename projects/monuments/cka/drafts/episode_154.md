@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-2330, N-2331, N-2332, N-2333, N-2334, N-2335, N-2336
-  - Reused Nodes Appearing: N-1031, N-4, N-5, N-6, N-1207, N-1208, N-1209, N-1210, N-1211, N-53
+  - Reused Nodes Appearing: N-2, N-4, N-5, N-6, N-1207, N-1208, N-1209, N-1210, N-1211, N-53
 
 ---
 
@@ -32,7 +32,7 @@
 - **Artifact Families Introduced:** A-2393, A-2394, A-2395, A-2396, A-2397, A-2398, A-2399, A-2400, A-2401, A-2402, A-2403, A-2404
 - **Claim Range:** C-3494–C-3512
 - **New Nodes Introduced:** N-2330, N-2331, N-2332, N-2333, N-2334, N-2335, N-2336
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-1031 (Erica Kirk), N-3 (Candace Owens), N-4 (Andrew Kolvet (variant spellings: Kovette/Kovat/Kovatte)), N-5 (Tucker Carlson), N-6 (Blake Neff (variant: Nef) — actual ledger IDs to be verified against global ledger), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation), N-1211 (UVU Campus Familiarity Question)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens), N-4 (Andrew Kolvet (variant spellings: Kovette/Kovat/Kovatte)), N-5 (Tucker Carlson), N-6 (Blake Neff (variant: Nef) — actual ledger IDs to be verified against global ledger), N-1207 (Mike Mitchell Public Record Anomaly), N-1208 (Brooksby Suicide Narrative Discrepancy), N-1209 (Robinson Apartment Staging Allegation), N-1210 (Phil Lyman Proximity and Behavior Investigation), N-1211 (UVU Campus Familiarity Question)
 
 ---
 
@@ -58,7 +58,7 @@ Video Timestamp: 00:02:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3494, C-3495, C-3496, C-3511, N-1031, N-4, N-1209, N-2330*
+*Related: C-3494, C-3495, C-3496, C-3511, N-2, N-4, N-2330*
 
 ---
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:13:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3497, N-1031, N-3, N-4, N-2332*
+*Related: C-3497, N-2, N-3, N-4, N-2332*
 
 ---
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:17:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3498, A-2394.1, A-2395.1, N-1031, N-3, N-2332*
+*Related: C-3498, A-2394.1, A-2395.1, N-2, N-3, N-2332*
 
 ---
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:30:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3499, N-1031, N-2331*
+*Related: C-3499, N-2, N-2331*
 
 ---
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:20:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3501, N-1031, N-2331*
+*Related: C-3501, N-2, N-2331*
 
 ---
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:20:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3500, N-1031, N-2331*
+*Related: C-3500, N-2, N-2331*
 
 ---
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:38:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3509, N-1207, N-2336*
+*Related: C-3509, N-2336*
 
 **A-2402.2** The Mystery of Marilyn Monroe: The Unheard Tapes (Empress Films)
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:40:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3509, N-1207, N-2336*
+*Related: C-3509, N-2336*
 
 **A-2402.3** Who Killed Jill Dando (Empress Films)
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:41:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3509, N-1207, N-2336*
+*Related: C-3509, N-2336*
 
 **A-2402.4** Diana / Who Killed Diana (announced 2024)
 
@@ -224,7 +224,7 @@ Video Timestamp: 00:41:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3509, N-1207, N-2336*
+*Related: C-3509, N-2336*
 
 **A-2402.5** Depp vs Heard (Empress Films)
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:42:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3509, N-1207, N-2336*
+*Related: C-3509, N-2336*
 
 **A-2402.6** Killing Grounds: Gilgo Beach Murders (Empress Films)
 
@@ -244,7 +244,7 @@ Video Timestamp: 00:42:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3509, N-1207, N-2336*
+*Related: C-3509, N-2336*
 
 ---
 
@@ -258,7 +258,7 @@ Video Timestamp: 00:21:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3500, N-1031, N-3, N-4, N-2331*
+*Related: C-3500, N-2, N-3, N-4, N-2331*
 
 **A-2403.2** Andrew Kolvet X reply: "Wrong again. Students were free to opt out. Three students did. So over 500 chose to attend. Nothing was forced."
 
@@ -302,7 +302,7 @@ Video Timestamp: 00:55:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3511, N-1031, N-2330*
+*Related: C-3511, N-2, N-2330*
 
 **A-2404.2** @Koko Rose comment: "So there was footage readily available of Tyler Robinson from several years ago in a minor accident, but the footage of him turning himself in was deleted due to their retention policy."
 
@@ -333,13 +333,6 @@ Investigative Pressure: High
 
 ---
 
-**N-1031** Erica Kirk (transcript variants: "Erika Kirk" / "Erica Kirk")
-
-Existing; subject of Nampa Christian School event and Empress Films call claims.
-
-*Related: A-2393.1, A-2398.1, A-2399.1, A-2403.1, A-2404.1, C-3500, C-3501, C-3510, N-2331, N-2334*
-
----
 
 **N-4** JD Vance
 
@@ -374,7 +367,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2393.1, A-2404.1, C-3494, C-3495, C-3496, C-3511, N-1031, N-1209*
+*Related: A-2393.1, A-2404.1, C-3494, C-3495, C-3496, C-3511, N-2*
 
 ---
 
@@ -387,7 +380,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2397.1, A-2398.1, A-2399.1, A-2403.1, A-2403.2, A-2403.4, C-3499, C-3500, C-3501, C-3502, N-1031, N-4*
+*Related: A-2397.1, A-2398.1, A-2399.1, A-2403.1, A-2403.2, A-2403.4, C-3499, C-3500, C-3501, C-3502, N-2, N-4*
 
 ---
 
@@ -400,7 +393,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2394.1, A-2395.1, A-2396.1, C-3497, C-3498, N-1031, N-3, N-4*
+*Related: A-2394.1, A-2395.1, A-2396.1, C-3497, C-3498, N-2, N-3, N-4*
 
 ---
 
@@ -426,7 +419,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2402.x, C-3510, N-1031, N-4, N-1207, N-1208, N-1211, N-2336*
+*Related: A-2402.x, C-3510, N-2, N-4, N-1211, N-2336*
 
 ---
 
@@ -452,7 +445,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2402.1, A-2402.2, A-2402.3, A-2402.4, A-2402.5, A-2402.6, C-3508, C-3509, N-1207, N-1208, N-2334*
+*Related: A-2402.1, A-2402.2, A-2402.3, A-2402.4, A-2402.5, A-2402.6, C-3508, C-3509, N-2334*
 
 ---
 
@@ -477,7 +470,7 @@ Claim: TPUSA's UVU chapter declined an on-site ambulance by marking "No" on the 
 
 Anchored Artifacts: A-2393.1
 
-Related Nodes: N-1031, N-4, N-2330
+Related Nodes: N-2, N-4, N-2330
 
 Investigative Direction: Obtain UVU event form records directly; cross-check against TPUSA's later framing in the wrongful-death filing.
 
@@ -491,7 +484,7 @@ Claim: Per ABC News reporting, the UVU event attendance was initially estimated 
 
 Anchored Artifacts: A-2393.1
 
-Related Nodes: N-1031, N-2330
+Related Nodes: N-2, N-2330
 
 Investigative Direction: Obtain UVU planning documents directly; verify timing of each revision; identify whether any "1,500" update exists in any retained form.
 
@@ -505,7 +498,7 @@ Claim: Per TPUSA's official statement to ABC News, the UVU event was styled as o
 
 Anchored Artifacts: A-2393.1
 
-Related Nodes: N-1031, N-4, N-2330, N-2333
+Related Nodes: N-2, N-4, N-2330, N-2333
 
 Investigative Direction: Verify whether the same open-event rationale was applied to security/staffing decisions; compare to documented Prove Me Wrong events.
 
@@ -519,7 +512,7 @@ Claim: A November 12–13, 2019 text thread shows Andrew Kolvet forwarding to Ca
 
 Anchored Artifacts: A-2394.1
 
-Related Nodes: N-1031, N-3, N-4, N-2332
+Related Nodes: N-2, N-3, N-4, N-2332
 
 Investigative Direction: Authenticate the text screenshot metadata; verify whether "E" was in fact Erika Frantzve at that time; cross-check against Kolvet's recent public statements on the same feud narrative.
 
@@ -547,7 +540,7 @@ Claim: In his Aspen donors presentation, Charlie Kirk described the Club America
 
 Anchored Artifacts: A-2397.1
 
-Related Nodes: N-1031, N-2331
+Related Nodes: N-2, N-2331
 
 Investigative Direction: Obtain full audio/presentation recording; verify against any written strategic plans; cross-check against current TPUSA Club America implementation.
 
@@ -561,7 +554,7 @@ Claim: Erika Kirk spoke at a Nampa Christian School assembly where students were
 
 Anchored Artifacts: A-2399.1, A-2403.1
 
-Related Nodes: N-1031, N-2331
+Related Nodes: N-2, N-2331
 
 Investigative Direction: Obtain the school newsletter referenced by parents; verify assembly mandatory-attendance status; verify whether parental attendance was actually prohibited.
 
@@ -575,7 +568,7 @@ Claim: TPUSA's X post claimed 500+ "outstanding high school student attendees" a
 
 Anchored Artifacts: A-2398.1
 
-Related Nodes: N-1031, N-2331
+Related Nodes: N-2, N-2331
 
 Investigative Direction: Cross-check TPUSA claim against school attendance records and parent reports.
 
@@ -701,7 +694,7 @@ Claim: On August 28, 2025, Erika Kirk and Andrew Kolvet participated in a call w
 
 Anchored Artifacts: Host testimonial confirmation only (sourced by host from "people who worked with Andrew"); no displayed documentary source in this episode.
 
-Related Nodes: N-1031, N-4, N-2334
+Related Nodes: N-2, N-4, N-2334
 
 Investigative Direction: Identify and obtain direct confirmation from call participants or schedules; cross-check Empress Films project pipeline for Aug–Sep 2025.
 
@@ -717,7 +710,7 @@ Claim: Candace concurs with the @spilling the tea observation that holding a Cha
 
 Anchored Artifacts: A-2404.1
 
-Related Nodes: N-1031, N-2330
+Related Nodes: N-2, N-2330
 
 Investigative Direction: Verify whether TPUSA scheduled an anniversary event at UVU; identify the venue.
 

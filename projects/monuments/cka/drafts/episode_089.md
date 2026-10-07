@@ -37,7 +37,7 @@ Video Timestamp: 00:04:12–00:12:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud on air)
 
-*Related: C-2669, C-2670, C-2680, C-2681, N-1207, N-1208, N-1209, N-1210, N-1216, N-1218, N-3, N-1662*
+*Related: C-2669, C-2670, C-2680, C-2681, N-1210, N-1216, N-1218, N-3, N-1662*
 
 ---
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:23:45–00:24:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air)
 
-*Related: C-2671, N-1207, N-1209, N-3*
+*Related: C-2671, N-3*
 
 ---
 
@@ -65,7 +65,7 @@ Video Timestamp: 00:25:38–00:26:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air)
 
-*Related: C-2672, N-1207, N-1209, N-1214, N-1217, N-1667*
+*Related: C-2672, N-1214, N-1217, N-1667*
 
 ---
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:26:31–00:28:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud on air)
 
-*Related: C-2673, N-1208, N-1214*
+*Related: C-2673, N-1214*
 
 ---
 
@@ -93,7 +93,7 @@ Video Timestamp: 00:33:58–00:35:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air)
 
-*Related: C-2674, N-1211, N-1207, N-1208, N-1665*
+*Related: C-2674, N-1211, N-1665*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:29:16–00:32:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single-witness recounting; second-hand via Charlie Kirk; Kolb named as corroborator)
 
-*Related: C-2675, C-2676, N-1207, N-1212, N-1213, N-1663, N-1664*
+*Related: C-2675, C-2676, N-1212, N-1213, N-1663, N-1664*
 
 ---
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:41:36–00:47:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (commenter identities partially self-attested)
 
-*Related: C-2678, N-1207, N-1666*
+*Related: C-2678, N-1666*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:19:06–00:21:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (responses paraphrased and partially quoted on air)
 
-*Related: C-2678, C-2679, N-1207, N-1662, N-1666*
+*Related: C-2678, C-2679, N-1662, N-1666*
 
 ---
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:31:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced but not displayed)
 
-*Related: C-2677, N-1207, N-1215, N-1663*
+*Related: C-2677, N-1215, N-1663*
 
 ---
 
@@ -410,7 +410,7 @@ Claim Timestamp: 00:11:20–00:12:28
 Claim: Trump's Truth Social post, read in full on air, characterized the United States as "the hottest country anywhere in the world."
 
 Anchored Artifacts: A-1939.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Verify the exact wording against the archived Truth Social post.
 
 ---

@@ -61,7 +61,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:02:33–00:03:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio confirmed played)
-*Related: C-3445, N-1207*
+*Related: C-3445*
 
 ---
 
@@ -74,7 +74,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:25–00:10:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3446, N-1208*
+*Related: C-3446*
 
 ---
 
@@ -87,7 +87,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:18:24–00:19:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (footage aired with description)
-*Related: C-3452, C-3453, N-1209, N-1210, N-1211*
+*Related: C-3452, C-3453, N-1210, N-1211*
 
 **A-2376.2** Continuation of clip showing female officer beginning to take McCoy's statement while wearing ICAC vest
 
@@ -96,7 +96,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:19:17–00:19:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3452, N-1209, N-1210*
+*Related: C-3452, N-1210*
 
 ---
 
@@ -109,7 +109,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:20:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3452, N-1209, N-1211*
+*Related: C-3452, N-1211*
 
 **A-2377.2** Second still: clear view of vest reading "Police" and "Utah ICAC"
 
@@ -265,7 +265,7 @@ Claim: The episode presents that the audio of the Looney Tunes-style clip aired 
 
 Anchored Artifacts: A-2374.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Compare the aired audio against any independently circulating version; confirm timestamp of original cartoon source.*
 
@@ -415,7 +415,7 @@ Claim: The episode presents that in 2020, an HSI whistleblower alleged that vide
 
 Anchored Artifacts: None visible in this episode
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain HSI whistleblower complaint / DOJ records pertaining to Leavitt.*
 
@@ -431,7 +431,7 @@ Claim: The episode presents that Utah AG David Leavitt was named in a 151-page v
 
 Anchored Artifacts: None visible in this episode
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain the May–June 2022 Utah County Sheriff's Office press materials and any related filings.*
 

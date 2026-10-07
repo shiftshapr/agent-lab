@@ -58,7 +58,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:21:21
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2698, C-2699, C-2700, C-2701, C-2702, C-2703, C-2704, C-2705, C-2706, C-2707, C-2708, C-2709, C-2710, C-2711, C-2712, C-2721, N-1207, N-1208, N-1209, N-1210, N-1211, N-1215, N-1216, N-1675, N-1676, N-1677, N-1678*
+*Related: C-2698, C-2699, C-2700, C-2701, C-2702, C-2703, C-2704, C-2705, C-2706, C-2707, C-2708, C-2709, C-2710, C-2711, C-2712, C-2721, N-1210, N-1211, N-1215, N-1216, N-1675, N-1676, N-1677, N-1678*
 
 ---
 
@@ -71,7 +71,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:06
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2714, N-1207, N-1209, Erika Kirk (existing), N-1680*
+*Related: C-2714, Erika Kirk (existing), N-1680*
 
 **A-1959.2** Instagram Photo: Erika Kirk Being Comforted by Victor Marx at Her Residence
 
@@ -80,7 +80,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:10:03
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2715, N-1207, Erika Kirk (existing), N-1680*
+*Related: C-2715, Erika Kirk (existing), N-1680*
 
 ---
 
@@ -93,7 +93,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:28:28
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2716, N-1207, N-1216, N-1677*
+*Related: C-2716, N-1216, N-1677*
 
 ---
 
@@ -119,7 +119,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:13:04
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2718, N-1207, N-1212, N-1679*
+*Related: C-2718, N-1212, N-1679*
 
 ---
 
@@ -132,7 +132,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:37:42
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2713, C-2721, N-1208, N-1674, N-1678*
+*Related: C-2713, C-2721, N-1674, N-1678*
 
 ---
 
@@ -145,7 +145,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:56:23
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2719, C-2720, N-1207, N-1679, Wonder Woman (viewer, no node)*
+*Related: C-2719, C-2720, N-1679, Wonder Woman (viewer, no node)*
 
 **A-1964.2** Other Audience Comments Read Aloud
 
@@ -169,7 +169,7 @@ Claim Count: 15
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, A-1959.1, A-1959.2, A-1960.1, A-1962.1, A-1964.1, C-2698, C-2699, C-2700, C-2701, C-2702, C-2703, C-2704, C-2705, C-2706, C-2707, C-2708, C-2709, C-2710, C-2714, C-2715, C-2716, C-2718, C-2719, C-2720, N-1208, N-1209, N-1211, N-1212, N-1216, N-1675, N-1676, N-1677, N-1679, N-1680*
+*Related: A-1958.1, A-1959.1, A-1959.2, A-1960.1, A-1962.1, A-1964.1, C-2698, C-2699, C-2700, C-2701, C-2702, C-2703, C-2704, C-2705, C-2706, C-2707, C-2708, C-2709, C-2710, C-2714, C-2715, C-2716, C-2718, C-2719, C-2720, N-1211, N-1212, N-1216, N-1675, N-1676, N-1677, N-1679, N-1680*
 
 ---
 
@@ -182,7 +182,7 @@ Claim Count: 14
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, A-1963.1, C-2698, C-2699, C-2700, C-2701, C-2702, C-2703, C-2704, C-2705, C-2706, C-2707, C-2708, C-2709, C-2710, C-2711, C-2712, C-2713, C-2721, N-1207, N-1210, N-1211, N-1215, N-1216, N-1674, N-1675, N-1676, N-1677, N-1678, N-1679*
+*Related: A-1958.1, A-1963.1, C-2698, C-2699, C-2700, C-2701, C-2702, C-2703, C-2704, C-2705, C-2706, C-2707, C-2708, C-2709, C-2710, C-2711, C-2712, C-2713, C-2721, N-1210, N-1211, N-1215, N-1216, N-1674, N-1675, N-1676, N-1677, N-1678, N-1679*
 
 ---
 
@@ -195,7 +195,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1958.1, A-1959.1, C-2699, C-2700, C-2714, N-1207*
+*Related: A-1958.1, A-1959.1, C-2699, C-2700, C-2714*
 
 ---
 
@@ -208,7 +208,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1958.1, C-2699, C-2700, C-2701, C-2710, N-1207, N-1208*
+*Related: A-1958.1, C-2699, C-2700, C-2701, C-2710*
 
 ---
 
@@ -221,7 +221,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1958.1, N-1207, N-1208, N-1677*
+*Related: A-1958.1, N-1677*
 
 ---
 
@@ -234,7 +234,7 @@ Claim Count: 0 (not inscribed; failed admission test)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1207, N-1679 (verification target only)*
+*Related: N-1679 (verification target only)*
 
 ---
 
@@ -247,7 +247,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1207, N-1212, N-1679*
+*Related: N-1212, N-1679*
 
 ---
 
@@ -260,7 +260,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1207, N-1679*
+*Related: N-1679*
 
 ---
 
@@ -273,7 +273,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1958.1, C-2706, N-1207, N-1208*
+*Related: A-1958.1, C-2706*
 
 ---
 
@@ -286,7 +286,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1958.1, A-1960.1, C-2705, C-2716, N-1207, N-1677*
+*Related: A-1958.1, A-1960.1, C-2705, C-2716, N-1677*
 
 ---
 
@@ -299,7 +299,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1207, N-1679*
+*Related: N-1679*
 
 ---
 
@@ -312,7 +312,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1963.1, C-2713, C-2721, N-1208, N-1678*
+*Related: A-1963.1, C-2713, C-2721, N-1678*
 
 ---
 
@@ -325,7 +325,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, C-2706, C-2707, C-2709, N-1207, N-1208, N-1215*
+*Related: A-1958.1, C-2706, C-2707, C-2709, N-1215*
 
 ---
 
@@ -338,7 +338,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, C-2708, N-1207, N-1208*
+*Related: A-1958.1, C-2708*
 
 ---
 
@@ -351,7 +351,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, A-1960.1, C-2703, C-2704, C-2705, C-2716, N-1207, N-1211, N-1216*
+*Related: A-1958.1, A-1960.1, C-2703, C-2704, C-2705, C-2716, N-1211, N-1216*
 
 ---
 
@@ -364,7 +364,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, A-1963.1, C-2711, C-2712, C-2713, N-1208, N-1674*
+*Related: A-1958.1, A-1963.1, C-2711, C-2712, C-2713, N-1674*
 
 ---
 
@@ -377,7 +377,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, A-1962.1, A-1964.1, C-2718, C-2719, C-2720, N-1207, N-1212, N-1213, N-1214, N-1217*
+*Related: A-1958.1, A-1962.1, A-1964.1, C-2718, C-2719, C-2720, N-1212, N-1213, N-1214, N-1217*
 
 ---
 
@@ -390,7 +390,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1958.1, A-1959.2, C-2715, N-1207, Erika Kirk (existing)*
+*Related: A-1958.1, A-1959.2, C-2715, Erika Kirk (existing)*
 
 ---
 
@@ -473,7 +473,7 @@ Claim: Corby Hall's written statement documents that All Things Possible Ministr
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify purchase records with Fold AR and Lindale High School administration.
 
@@ -571,7 +571,7 @@ Claim: Corby Hall's written statement documents that Victor Marx showed Hall a s
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify the existence and current status of the structure via public records or satellite imagery.
 

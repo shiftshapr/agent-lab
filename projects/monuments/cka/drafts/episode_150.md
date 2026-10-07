@@ -108,7 +108,7 @@ Video Timestamp: 00:06:08–00:08:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud)
 
-*Related: C-3407, C-3408, C-3424, N-1207, N-1208, N-1209, N-1, N-3*
+*Related: C-3407, C-3408, C-3424, N-1, N-3*
 
 ---
 

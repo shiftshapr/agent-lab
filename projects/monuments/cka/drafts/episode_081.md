@@ -42,7 +42,7 @@ Video Timestamp: 00:01:20–00:03:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio read aloud in episode)
 
-*Related: C-2525, C-2526, N-1207*
+*Related: C-2525, C-2526*
 
 **A-1877.2** Joe Kent on Tucker Carlson: West Wing encounter with Charlie Kirk re: Iran
 
@@ -51,7 +51,7 @@ Source Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2526, N-1207*
+*Related: C-2526*
 
 ---
 
@@ -65,7 +65,7 @@ Video Timestamp: 00:08:30–00:11:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio read aloud)
 
-*Related: C-2531, N-1208*
+*Related: C-2531*
 
 **A-1878.2** Kolvet states Joe Kent suggested making texts public; Kolvet declined
 
@@ -74,7 +74,7 @@ Source Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2532, N-1208*
+*Related: C-2532*
 
 ---
 
@@ -88,7 +88,7 @@ Video Timestamp: 00:05:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text read aloud)
 
-*Related: C-2528, N-1209*
+*Related: C-2528*
 
 ---
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:21:46–00:28:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed/read in episode)
 
-*Related: C-2533, C-2534, C-2535, C-2536, N-1208, N-1212, N-1213, N-1214, N-1620*
+*Related: C-2533, C-2534, C-2535, C-2536, N-1212, N-1213, N-1214, N-1620*
 
 **A-1881.2** On-screen calendar graphic consolidating Sept 10 timeline with Egyptian-plane transponding overlay
 
@@ -342,7 +342,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1208, N-1212*
+*Related: N-1212*
 
 ---
 
@@ -420,7 +420,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1881.1, A-1881.2, C-2533, C-2534, C-2535, C-2537, C-2538, N-1208, N-1212, N-1213, N-1214*
+*Related: A-1881.1, A-1881.2, C-2533, C-2534, C-2535, C-2537, C-2538, N-1212, N-1213, N-1214*
 
 ---
 
@@ -433,7 +433,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-1208, N-1620*
+*Related: N-1620*
 
 ---
 
@@ -472,7 +472,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1879.1, A-1880.2, A-1878.1, C-2528, C-2530, C-2531, N-1207, N-1208, N-1209, N-1211*
+*Related: A-1879.1, A-1880.2, A-1878.1, C-2528, C-2530, C-2531, N-1211*
 
 ---
 
@@ -513,7 +513,7 @@ Claim: Joe Kent recounted that, in June in the West Wing stairway, Charlie Kirk 
 
 Anchored Artifacts: A-1877.2
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify via West Wing access logs and any corroborating witnesses to the June encounter.
 

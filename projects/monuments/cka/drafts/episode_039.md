@@ -596,7 +596,7 @@ Claim: A viewer commented that the McRonone lawsuit was designed to go nowhere b
 
 Anchored Artifacts: A-1483.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Review litigation timing and any sealed filings in the McRonone matter.
 
@@ -624,7 +624,7 @@ Claim: The book "Make Him a Sandwich" by Candace Owens is available for purchase
 
 Anchored Artifacts: A-1485.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Confirm live Amazon listing and stock status.
 

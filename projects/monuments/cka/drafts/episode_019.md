@@ -612,7 +612,7 @@ Claim: Charlie Kirk texted Candace Owens on April 6, 2018 stating he "might not 
 
 Anchored Artifacts: A-1266.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain authenticated message metadata (timestamps, device identifiers, original phone) and corroborate via independent device forensics.
 
@@ -626,7 +626,7 @@ Claim: Charlie Kirk texted that "you were the piece that God meant me to meet th
 
 Anchored Artifacts: A-1266.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Authenticate message metadata as for C-1468.
 
@@ -640,7 +640,7 @@ Claim: Host asserts Charlie Kirk told her that "Turning Point was going to be th
 
 Anchored Artifacts: A-1266.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Identify any direct verbatim text within A-1266.1 that matches the precise phrasing "Turning Point was going to be the death of him."
 
@@ -654,7 +654,7 @@ Claim: Trailer presents Charlie Kirk text messages stating "Jewish donors play i
 
 Anchored Artifacts: A-1265.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Authenticate text message source and timestamp (referenced as having been shown in prior episode; verify against original).
 
@@ -668,7 +668,7 @@ Claim: UVU event clip captures Charlie Kirk responding to a question about frien
 
 Anchored Artifacts: A-1264.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Identify the date, venue, and full transcript of the UVU exchange.
 
@@ -682,7 +682,7 @@ Claim: Photo depicts Candace Owens and Charlie Kirk on a fishing trip in British
 
 Anchored Artifacts: A-1263.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Confirm photograph date and photographer identity.
 
@@ -778,7 +778,7 @@ Claim: Host sarcastically attributes Kirk's last words as "Buy my book. Buy Josh
 
 Anchored Artifacts: None (rhetorical; no documentary record of Kirk's stated final words presented in episode)
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain authoritative transcript of Kirk's on-stage remarks immediately prior to being shot.
 

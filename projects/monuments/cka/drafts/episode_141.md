@@ -67,7 +67,7 @@ Video Timestamp: 00:18:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3277, C-3289, N-1207, N-2193, N-2194*
+*Related: C-3277, C-3289, N-2193, N-2194*
 
 **A-2277.2** Debate Segment — Wilson's 75–85% Confidence Estimate
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:22:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3278, N-1207*
+*Related: C-3278*
 
 **A-2277.3** Debate Segment — Wilson's Repeated Use of "Positive Evidence"
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:29:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3280, N-1207*
+*Related: C-3280*
 
 **A-2277.4** Debate Segment — Wilson Unable to Name Any of Seven Charges
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:44:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3279, N-1207*
+*Related: C-3279*
 
 **A-2277.5** Debate Segment — Screwdriver and Timeline Discussion
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:49:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1207, N-2194*
+*Related: N-2194*
 
 **A-2277.6** Debate Segment — 16-Second Silence and Lance DNA Clip Moment
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:39:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3281, N-1207, N-1208*
+*Related: C-3281*
 
 **A-2277.7** Debate Segment — Wilson's False Attribution of "Girl Boss" to Owens
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:24:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-1207*
+*Related:*
 
 ---
 
@@ -193,7 +193,7 @@ Video Timestamp: 01:06:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3282, N-1207, N-1209, N-46*
+*Related: C-3282, N-46*
 
 ---
 
@@ -207,7 +207,7 @@ Video Timestamp: 01:00:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3283, N-1207*
+*Related: C-3283*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:42:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3286, N-1207, N-2194, N-46*
+*Related: C-3286, N-2194, N-46*
 
 ---
 
@@ -302,7 +302,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2277.1, C-3277, N-1207*
+*Related: A-2277.1, C-3277*
 
 **N-2194** Wilson's Promised Release of "Never-Before-Seen Messages"
 
@@ -313,7 +313,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2277.1, A-2283.1, C-3277, C-3286, N-1207*
+*Related: A-2277.1, A-2283.1, C-3277, C-3286*
 
 **N-2195** Turning Point USA Organizational State (Post-Debate)
 
@@ -419,7 +419,7 @@ Claim: The Poly Market prediction market odds on a Tyler Robinson conviction fel
 
 Anchored Artifacts: A-2282.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Retrieve the full Poly Market time series for the relevant market to confirm the percentage trajectory during the debate window.
 

@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-961, N-962, N-963, N-964, N-965, N-966, N-1597, N-1598, N-1599, N-1600, N-1601, N-1602
-  - Reused Nodes Appearing: N-1013, N-37
+  - Reused Nodes Appearing: N-2, N-37
   - (see registers)
 
 ---
@@ -35,7 +35,7 @@
 - Claim Range: C-2437–C-2452
 - New Nodes Introduced (people): N-961, N-962, N-963, N-964, N-965, N-966
 - New Nodes Introduced (investigation targets): N-1597, N-1598, N-1599, N-1600, N-1601, N-1602
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-1013 (Erica Kirk)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:04:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2437, N-1013*
+*Related: C-2437, N-2*
 
 ---
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:09:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2438, N-1013, N-963*
+*Related: C-2438, N-2, N-963*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:11:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2439, C-2450, N-1013, N-1599*
+*Related: C-2439, C-2450, N-2, N-1599*
 
 ---
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:15:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2440, C-2451, N-1013, N-1598*
+*Related: C-2440, C-2451, N-2, N-1598*
 
 ---
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:19:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2441, N-1013*
+*Related: C-2441, N-2*
 
 ---
 
@@ -244,22 +244,10 @@ Claim Count: 0 (no new artifact-anchored claims about Charlie himself in this ep
 Episode Count: ≥1
 Investigative Pressure: High
 
-*Related: A-1829.1, A-1830.1, N-1013*
+*Related: A-1829.1, A-1830.1, N-2*
 
 ---
 
-**N-1013** Erica Kirk (episode spelling: "Erika Kirk")
-
-Primary biographical subject of episode's evidentiary claims regarding Epstein orbit, Next Model Management, real estate bio, NY real estate license, Romanian Angels, and Antonio Placement Center.
-
-Evidence Count: 7
-Claim Count: 8
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1822.1, A-1823.1, A-1824.1, A-1825.1, A-1826.1, C-2438, C-2439, C-2440, C-2441, C-2450, C-2451, N-1597, N-1598, N-1599*
-
----
 
 **N-961** Larissa
 
@@ -283,7 +271,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-963, N-1013*
+*Related: N-963, N-2*
 
 ---
 
@@ -348,7 +336,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1827.1, C-2441, C-2442, N-1013, N-961*
+*Related: A-1827.1, C-2441, C-2442, N-2, N-961*
 
 ---
 
@@ -361,7 +349,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1825.1, C-2440, C-2451, N-1013*
+*Related: A-1825.1, C-2440, C-2451, N-2*
 
 ---
 
@@ -374,7 +362,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1824.1, C-2450, N-1013*
+*Related: A-1824.1, C-2450, N-2*
 
 ---
 
@@ -436,7 +424,7 @@ Claim: A Jeffrey Epstein email to Peter Thiel, recently released, states that Ep
 
 Anchored Artifacts: A-1822.1
 
-Related Nodes: N-1013
+Related Nodes: N-2
 
 Investigative Direction: Obtain full Epstein-to-Thiel email metadata and surrounding thread to verify context, date, and any operational substance.
 
@@ -450,7 +438,7 @@ Claim: A 2017 Instagram post by Erika Kirk refers to Alan Rothstein as "Uncle Al
 
 Anchored Artifacts: A-1823.1
 
-Related Nodes: N-1013, N-963
+Related Nodes: N-2, N-963
 
 Investigative Direction: Confirm the post via Instagram archives or third-party captures; verify Alan Rothstein's role at Win Haven Real Estate through corporate filings.
 
@@ -464,7 +452,7 @@ Claim: Erika Kirk's published real-estate bio describes her as a "multi-dimensio
 
 Anchored Artifacts: A-1824.1
 
-Related Nodes: N-1013, N-1599
+Related Nodes: N-2, N-1599
 
 Investigative Direction: Locate original bio on archived real-estate listings or brokerage websites; cross-reference fiduciary claim against any documented transactions.
 
@@ -478,7 +466,7 @@ Claim: A relic record of a New York real-estate license attributed to Erika Kirk
 
 Anchored Artifacts: A-1825.1
 
-Related Nodes: N-1013, N-1598
+Related Nodes: N-2, N-1598
 
 Investigative Direction: Verify license against NY Department of State public licensee search before October 2026 record-retention cutoff; obtain any associated transaction records.
 
@@ -492,7 +480,7 @@ Claim: In her audition tape for "The American Race," Erika Kirk stated she had t
 
 Anchored Artifacts: A-1826.1
 
-Related Nodes: N-1013, N-1597
+Related Nodes: N-2, N-1597
 
 Investigative Direction: Locate the full audition tape for timestamp and surrounding context; verify the orphanage claim against Marine Corps records and Romanian government records.
 
@@ -506,7 +494,7 @@ Claim: An email from "Larissa," a former Antonio Placement Center resident adopt
 
 Anchored Artifacts: A-1827.1
 
-Related Nodes: N-1013, N-961, N-1597
+Related Nodes: N-2, N-961, N-1597
 
 Investigative Direction: Verify Larissa's identity and adoption record; locate Erika Kirk's 2012–2014 promotional materials referencing Antonio Placement Center; obtain Romanian government or NGO documentation of center's operational history.
 
@@ -618,7 +606,7 @@ Claim: The host asserts that Erika Kirk's real-estate bio claims of "magna cum l
 
 Anchored Artifacts: A-1824.1
 
-Related Nodes: N-1013, N-1599
+Related Nodes: N-2, N-1599
 
 Investigative Direction: Obtain Erika Kirk's official ASU transcript via FERPA request (with consent) or court subpoena; verify degree conferral and honors designation.
 
@@ -632,7 +620,7 @@ Claim: The host asserts she was unable to independently verify Erika Kirk's NY r
 
 Anchored Artifacts: A-1825.1
 
-Related Nodes: N-1013, N-1598
+Related Nodes: N-2, N-1598
 
 Investigative Direction: Conduct direct NY Department of State licensee search before October 2026 retention cutoff; capture screenshot evidence for archive.
 
@@ -654,7 +642,7 @@ Investigative Direction: Retrieve full bill text; cross-reference fund descripto
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** Episode uses "Erika Kirk" consistently; existing series node is "Erica Kirk" (N-1013). Preserved as N-1013 with episode spelling noted.
+- **Name uncertainty:** Episode uses "Erika Kirk" consistently; existing series node is "Erica Kirk" (N-2). Preserved as N-2 with episode spelling noted.
 - **Name uncertainty:** Real-estate bio and various references use "Erika Fronsve" / "Erika Franve" / "Erika Franceway"; standard spelling appears to be "Erika Frantzve." Preserved exactly as transcribed in A-1824.1 and A-1825.1.
 - **Name uncertainty:** Transcript shows "Fran Rothschild" and "Francis Rothschild" referring to Wilhelmina Models co-founder; preserved as appearing.
 - **Possible transcription error:** "Ty Bowyer," "Tyler Borier," "Tyler Bowyer" — standard spelling used in node references.

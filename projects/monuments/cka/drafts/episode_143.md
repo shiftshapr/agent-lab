@@ -122,7 +122,7 @@ Video Timestamp: 00:35:00–00:36:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3309, N-1207, N-176, N-1, N-69*
+*Related: C-3309, N-176, N-1, N-69*
 
 ---
 
@@ -136,7 +136,7 @@ Video Timestamp: 00:34:27–00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3310, N-5, N-1207, N-176*
+*Related: C-3310, N-5, N-176*
 
 ---
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:41:34–00:42:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3311, N-1208, N-69*
+*Related: C-3311, N-69*
 
 ---
 

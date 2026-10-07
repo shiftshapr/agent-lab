@@ -57,7 +57,7 @@ Video Timestamp: 00:30:55–00:32:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3430, C-3431, C-3443, N-1207*
+*Related: C-3430, C-3431, C-3443*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:43:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3428, C-3442, N-1209, N-2317, Andrew Kolvet (existing node — ID resolution required)*
+*Related: C-3428, C-3442, N-2317, Andrew Kolvet (existing node — ID resolution required)*
 
 ---
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:09:47–00:12:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3434, C-3444, N-1208*
+*Related: C-3434, C-3444*
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:09:47–00:12:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3432, C-3433, C-3444, N-1208, Frank Turek (existing node — ID resolution required), Brian Harpole (existing node — ID resolution required), Jeremy Boreing (existing node — ID resolution required)*
+*Related: C-3432, C-3433, C-3444, Frank Turek (existing node — ID resolution required), Brian Harpole (existing node — ID resolution required), Jeremy Boreing (existing node — ID resolution required)*
 
 ---
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:16:28–00:24:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (enhancement applied; host's frame-by-frame interpretations are interpretive)
 
-*Related: C-3437, C-3438, C-3439, C-3441, N-1207–series (Tyler Robinson — existing node ID required), Officer Bagley (existing node — ID resolution required)*
+*Related: C-3437, C-3438, C-3439, C-3441, Officer Bagley (existing node — ID resolution required)*
 
 ---
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:51:13–00:57:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (for display; commentary is audience reaction, not investigative evidence)
 
-*Related: N-1207*
+*Related:*
 
 ---
 
@@ -335,7 +335,7 @@ Claim Timestamp: 00:30:55
 Claim: Alex Clark, in her 9/10 trailer, invoked 2 Timothy 3:6-7 ("false teachers who are creeping into households capturing weak women") and applied it to the "Candace phenomenon."
 
 Anchored Artifacts: A-2362.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Pull full Alex Clark episode and verify transcript against the trailer excerpt.
 
 ---
@@ -347,7 +347,7 @@ Claim Timestamp: 00:30:55
 Claim: Alex Clark stated "Christ doesn't forgive everyone. He forgives those who repent and turn and trust in him by faith. But forgiveness is something that you can't actually offer somebody if they haven't repented."
 
 Anchored Artifacts: A-2362.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Pull full Alex Clark episode; verify quotation against the trailer.
 
 ---
@@ -359,7 +359,7 @@ Claim Timestamp: 00:09:47–00:11:50
 Claim: Frank Turek acknowledged the discrepancy between his account (he performed CPR) and Brian Harpole's account (he did not), but stated the discrepancy is "irrelevant" and "has no bearing on who killed Charlie Kirk."
 
 Anchored Artifacts: A-2369.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Pull the full Boreing/Turek episode and reconcile with Turek's prior statements about the car ride.
 
 ---
@@ -371,7 +371,7 @@ Claim Timestamp: 00:11:54
 Claim: Frank Turek conceded "Brian's generally right. No, we weren't doing CPR. I just tried it in the last few seconds, the last 20 to 30 seconds" — shifting his account in the same interview segment.
 
 Anchored Artifacts: A-2369.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Pull the full Boreing/Turek episode; compare to prior Turek statements on the car ride timeline.
 
 ---
@@ -383,7 +383,7 @@ Claim Timestamp: 00:11:11
 Claim: Bobby Saucelito, in the Instagram clip displayed by host, explicitly stated "you can't both be telling the truth" regarding Turek and Harpole, and critiqued Turek's "irrelevant detail" framing as a false binary.
 
 Anchored Artifacts: A-2368.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Pull original Saucelito clip; verify quotation.
 
 ---
@@ -419,7 +419,7 @@ Claim Timestamp: 00:17:56–00:24:10
 Claim: In the displayed walking footage, the figure in the black long-sleeve shirt bends the right foot fully when descending into position, which host argues is inconsistent with concealing a full-sized firearm in a waistband or pocket on that side.
 
 Anchored Artifacts: A-2371.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Forensically examine original footage; compare to published images of Tyler Robinson's known footwear and gait.
 
 ---
@@ -431,7 +431,7 @@ Claim Timestamp: 00:14:40–00:17:56
 Claim: From side-profile footage, host observes the figure in the black shirt appears bulkier than the figure shown in earlier maroon-shirt imagery, raising a possible decoy hypothesis.
 
 Anchored Artifacts: A-2371.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Obtain uncropped / unenhanced source frames; biometric and clothing comparison.
 
 ---
@@ -443,7 +443,7 @@ Claim Timestamp: 00:23:08–00:24:10
 Claim: In the walking-up segment, host observes the figure's gait as a "remembered" limp, including a mid-stride course correction, which host interprets as the limp being performative rather than functional.
 
 Anchored Artifacts: A-2371.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Gait analysis of unenhanced source footage; consultation with qualified forensic analyst.
 
 ---
@@ -455,7 +455,7 @@ Claim Timestamp: 00:19:51–00:20:41
 Claim: Enhanced footage shows Terrell Farnsworth seated in the back of a Mercedes Sprinter van, working on a laptop and looking around, at approximately 1:00 PM on September 10 — roughly 30 minutes after the event.
 
 Anchored Artifacts: A-2370.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Identify the source of the footage; confirm provenance; subpoena any chain-of-custody record for the SD cards / thumb drives.
 
 ---
@@ -467,7 +467,7 @@ Claim Timestamp: 00:17:56
 Claim: In the displayed footage, the figure stands at a position and operates a phone in a texting posture for an extended period before descending.
 
 Anchored Artifacts: A-2371.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Obtain original footage timestamps; review phone extraction records if available.
 
 ---
@@ -491,7 +491,7 @@ Claim Timestamp: 00:32:02–00:36:42
 Claim: Host rejects Alex Clark's framework that forgiveness requires repentance, characterizing it as a misuse of scripture to delegitimize women who are noticing discrepancies, and stating "I forgive you, Alex."
 
 Anchored Artifacts: A-2362.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Note as host stance against displayed source; cross-reference with theological commentary.
 
 ---
@@ -503,7 +503,7 @@ Claim Timestamp: 00:11:11–00:14:18
 Claim: Host explicitly endorses Bobby Saucelito's framing that Turek's escalating list of euphemisms (discrepancy, incongruity, irrelevant detail, irrelevant consequence) is not a satisfying response to a documented contradiction, and rejects Turek's claim that the contradiction does not matter.
 
 Anchored Artifacts: A-2368.1, A-2369.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Preserve both artifacts; treat host concurrence as separate claim linked to the same evidence base.
 
 ---

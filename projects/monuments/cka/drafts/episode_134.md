@@ -67,7 +67,7 @@ Video Timestamp: 18:27:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3167, N-1207, N-2163*
+*Related: C-3167, N-2163*
 
 ---
 
@@ -123,7 +123,7 @@ Video Timestamp: 05:44:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3165, N-1207*
+*Related: C-3165*
 
 ---
 
@@ -137,7 +137,7 @@ Video Timestamp: 06:39:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3170, N-1209*
+*Related: C-3170*
 
 ---
 
@@ -151,7 +151,7 @@ Video Timestamp: 08:40:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3164, N-1208, N-2161*
+*Related: C-3164, N-2161*
 
 ---
 
@@ -165,7 +165,7 @@ Video Timestamp: 12:19:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3171, N-1207, N-2161*
+*Related: C-3171, N-2161*
 
 ---
 
@@ -349,7 +349,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3164, C-3171, A-2212.1, A-2213.1, N-1207, N-1208*
+*Related: C-3164, C-3171, A-2212.1, A-2213.1*
 
 ---
 
@@ -375,7 +375,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3167, A-2206.1, N-2, N-1207, N-2159*
+*Related: C-3167, A-2206.1, N-2, N-2159*
 
 ---
 
@@ -431,7 +431,7 @@ Claim: At 8:49 PM on 2026-07-29, the evening after Candace's previous episode, A
 
 Anchored Artifacts: A-2210.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain the original tweet thread; verify timing relative to the rooftop footage release.
 
@@ -505,7 +505,7 @@ Claim: Tim Pool tweeted in response to Alex Jones that the Lozi rooftop footage 
 
 Anchored Artifacts: A-2211.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify original tweet content and timing.
 

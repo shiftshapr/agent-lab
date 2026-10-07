@@ -175,7 +175,7 @@ Video Timestamp: 00:32:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host describes; underlying records not displayed)
 
-*Related: C-3269, N-1207*
+*Related: C-3269*
 
 **A-2273.2** DUI photograph of Britta Widener from prior year
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:32:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3269, N-1207*
+*Related: C-3269*
 
 **A-2273.3** Tweet-counter account output showing 4,040 tweets by "No Soup For You" account about Candace Owens over 11 months
 
@@ -193,7 +193,7 @@ Video Timestamp: 00:33:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (specific number cited; underlying screenshot not extracted here)
 
-*Related: C-3270, C-3271, N-1207*
+*Related: C-3270, C-3271*
 
 ---
 
@@ -419,7 +419,7 @@ Claim: In the period immediately following the public release of Tyler Robinson'
 
 Anchored Artifacts: A-2268.1, A-2268.2
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Compile the visual catalog used by major outlets on 2025-09-12 through 2025-09-15 and assess the proportion of maroon-shirt imagery vs. available alternatives.
 
@@ -433,7 +433,7 @@ Claim: The host states that a screen-recorded review of the mother's Facebook sh
 
 Anchored Artifacts: A-2268.3
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain or verify the screen-recorded archive; cross-reference the original Facebook page if accessible.
 
@@ -461,7 +461,7 @@ Claim: According to Agent Hoole's testimony as played in the episode, the suspec
 
 Anchored Artifacts: A-2270.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain the full Agent Hoole testimony transcript and Officer Goforth's body-cam footage; verify the encounter's actual content (stop vs. drive-by).
 
@@ -505,7 +505,7 @@ Claim: The account "No Soup For You" / "No Soup For Noels," previously assumed t
 
 Anchored Artifacts: A-2273.1, A-2273.2
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Confirm identity through public records and account-history linkage.
 

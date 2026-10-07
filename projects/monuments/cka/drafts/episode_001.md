@@ -228,7 +228,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 The death event and subsequent memorial episodes; host references seeing the footage and praying for those who took pleasure in it.
 
-*Related: *
+*Related:*
 
 ---
 
@@ -258,7 +258,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Host claims Charlie was undergoing a spiritual transformation and being pressured over modified positions; flags post-death public commentary as 'fake.'
 
-*Related: *
+*Related:*
 
 ---
 

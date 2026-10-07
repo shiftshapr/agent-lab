@@ -387,7 +387,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 Host pattern-matches Steele family employer (valve manufacturer) to prior Pastnic family pipeline business.
 
-*Related: *
+*Related:*
 
 ---
 
@@ -491,7 +491,7 @@ Node Type: Organization
 Organization Kind: program_or_initiative
 Historical CIA program referenced by host to explain mainstream-media alignment.
 
-*Related: *
+*Related:*
 
 ---
 
@@ -521,7 +521,7 @@ Node Type: Place
 Place Kind: region
 Referenced by host as the empirical refutation of Netanyahu's 'free country' framing.
 
-*Related: *
+*Related:*
 
 ---
 

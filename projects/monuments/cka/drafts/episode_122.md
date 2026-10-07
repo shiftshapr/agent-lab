@@ -80,7 +80,7 @@ Video Timestamp: 00:06:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2971, N-1207*
+*Related: C-2971*
 
 **A-2105.2** Video clip of David Sprag and companion standing under umbrellas at the event
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:07:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2972, N-1207*
+*Related: C-2972*
 
 ---
 
@@ -104,7 +104,7 @@ Video Timestamp: 00:09:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2973, C-2974, C-2975, N-1207*
+*Related: C-2973, C-2974, C-2975*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:13:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2976, N-2095, N-1207*
+*Related: C-2976, N-2095*
 
 **A-2107.2** Photograph allegedly showing James Rawlinson in Romania in 2023 wearing maroon beret
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:13:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (identification alleged, not confirmed by subject)
 
-*Related: C-2977, N-1207*
+*Related: C-2977*
 
 ---
 
@@ -156,7 +156,7 @@ Video Timestamp: 00:32:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2979, C-2980, N-1208, N-2097*
+*Related: C-2979, C-2980, N-2097*
 
 ---
 
@@ -305,7 +305,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1209, N-2096*
+*Related: N-2096*
 
 **N-1221** Autopsy Record – Utah Privacy Statute Application
 
@@ -316,7 +316,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1207*
+*Related:*
 
 ---
 
@@ -342,7 +342,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2107.1, C-2976, N-1207, N-1211, N-70, N-1219, N-37*
+*Related: A-2107.1, C-2976, N-1211, N-70, N-1219, N-37*
 
 **N-2096** Next Model Management / MC2 Trafficking Connection to Erica Kirk
 
@@ -353,7 +353,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2981, N-1209, N-1210, N-1220, N-2*
+*Related: C-2981, N-1210, N-1220, N-2*
 
 **N-2097** Brian Harpole vs Frank Turek CPR Contradiction
 
@@ -364,7 +364,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2109.1, C-2979, C-2980, N-1208*
+*Related: A-2109.1, C-2979, C-2980*
 
 **N-2098** Pending FOIA Requests
 
@@ -465,7 +465,7 @@ Claim Timestamp: 00:06:15
 Claim: A video clip displayed during the episode shows David Sprag (James Norman Rawlinson Jr.) standing and appearing to cheer shortly after the gunshot.
 
 Anchored Artifacts: A-2105.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Cross-reference the clip with public statements by Rawlinson and with the FBI interview he claims to have given.
 
 ---
@@ -477,7 +477,7 @@ Claim Timestamp: 00:07:09
 Claim: A video clip displayed during the episode shows David Sprag and an unidentified companion standing together under umbrellas while Charlie Kirk's event begins.
 
 Anchored Artifacts: A-2105.2
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Identify the second individual and confirm umbrellas' purpose and provenance.
 
 ---
@@ -489,7 +489,7 @@ Claim Timestamp: 00:09:46
 Claim: An audio clip from James Rawlinson's X account, played during the episode, contains his claim that he served in the 19th Special Forces and wore a maroon beret.
 
 Anchored Artifacts: A-2106.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Verify Rawlinson's military service record against official DoD / National Guard records.
 
 ---
@@ -501,7 +501,7 @@ Claim Timestamp: 00:09:46
 Claim: The same X audio clip contains Rawlinson's statement that he has already talked to the FBI and that he hopes they are "on our side."
 
 Anchored Artifacts: A-2106.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Cross-reference with FBI 302 forms, voluntary interview logs, or official acknowledgements.
 
 ---
@@ -513,7 +513,7 @@ Claim Timestamp: 00:09:46
 Claim: The X audio clip contains Rawlinson's claim that there were no ambulances at an event like that and that the high-power rifle sounded like a .22.
 
 Anchored Artifacts: A-2106.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Compare against published video, ballistic evidence, and emergency response records.
 
 ---
@@ -537,7 +537,7 @@ Claim Timestamp: 00:13:17
 Claim: A photograph displayed during the episode allegedly shows James Rawlinson in Romania in 2023 wearing a maroon beret, alongside an unidentified individual on the right.
 
 Anchored Artifacts: A-2107.2
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Confirm identity with Rawlinson himself, military photo archives, and contemporaneous deployment records.
 
 ---

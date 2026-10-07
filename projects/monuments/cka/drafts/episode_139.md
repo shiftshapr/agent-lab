@@ -67,7 +67,7 @@ Video Timestamp: 00:03:25–00:04:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3237, C-3238, N-1207, N-1213*
+*Related: C-3237, C-3238, N-1213*
 
 **A-2255.2** Wilson states he hugged Erika Kirk at TPUSA HQ
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:04:12–00:05:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3239, N-1207, N-2*
+*Related: C-3239, N-2*
 
 **A-2255.3** Wilson states Candace has presented no evidence of Israel/TPUSA/Erica conspiracy
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:03:25–00:04:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3240, N-1207, N-1*
+*Related: C-3240, N-1*
 
 ---
 
@@ -101,7 +101,7 @@ Video Timestamp: 00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3241, N-1207, N-1210*
+*Related: C-3241, N-1210*
 
 ---
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3242, N-1207, N-1211*
+*Related: C-3242, N-1211*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:10:41–00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3243, N-1207*
+*Related: C-3243*
 
 ---
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:28:00–00:30:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single photo)
 
-*Related: C-3244, N-1208, N-2186*
+*Related: C-3244, N-2186*
 
 **A-2259.2** Gas-pump photo (Texas) – subject fueling with left hand
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:29:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3245, N-1208, N-2186*
+*Related: C-3245, N-2186*
 
 **A-2259.3** Selfie photos – taken with left hand
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:29:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3245, N-1208, N-2186*
+*Related: C-3245, N-2186*
 
 **A-2259.4** Childhood piano recital video ("My name is Lance Twigs…") – watch on right hand; left hand turns page
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:30:09–00:30:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (visible details)
 
-*Related: C-3246, N-1208, N-2186*
+*Related: C-3246, N-2186*
 
 ---
 
@@ -317,7 +317,7 @@ Video Timestamp: 00:22:01–00:23:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud in full)
 
-*Related: C-3257, C-3258, N-2189, N-1208*
+*Related: C-3257, C-3258, N-2189*
 
 ---
 
@@ -359,7 +359,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2259.1, A-2259.2, A-2259.3, A-2259.4, C-3244, C-3245, C-3246, N-1208, N-69*
+*Related: A-2259.1, A-2259.2, A-2259.3, A-2259.4, C-3244, C-3245, C-3246, N-69*
 
 ---
 
@@ -372,7 +372,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2261.1, C-3248, N-1208, N-69*
+*Related: A-2261.1, C-3248, N-69*
 
 ---
 
@@ -398,7 +398,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2265.1, A-2266.1, C-3257, C-3258, C-3259, N-1208*
+*Related: A-2265.1, A-2266.1, C-3257, C-3258, C-3259*
 
 ---
 

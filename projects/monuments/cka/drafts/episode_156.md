@@ -37,7 +37,7 @@ Video Timestamp: 00:02:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3531, N-1208*
+*Related: C-3531*
 
 ---
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:40:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (parody exists)
 
-*Related: N-1207*
+*Related:*
 
 ---
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:52:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single-viewer report; requires verification against testimony transcript)
 
-*Related: C-3536, N-1209, N-2344*
+*Related: C-3536, N-2344*
 
 ---
 
@@ -256,7 +256,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3536, A-2424.1, N-1209*
+*Related: C-3536, A-2424.1*
 
 ---
 
@@ -399,7 +399,7 @@ Claim: A person seen in the post-Big-Bang footage chanting "USA, USA" — and la
 
 Anchored Artifacts: A-2417.1, A-2417.2
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Compare facial recognition / clothing across the post-incident footage and published news interviews of attendees.
 

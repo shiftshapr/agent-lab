@@ -453,7 +453,7 @@ Claim: An unnamed "Judeo-Christian" pastor delivered a sermon on September 21, 2
 
 Anchored Artifacts: A-1226.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain full sermon recording; identify delivering church for archival purposes.
 

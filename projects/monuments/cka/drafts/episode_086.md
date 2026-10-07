@@ -115,7 +115,7 @@ Video Timestamp: 00:58:46–00:59:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text read aloud)
 
-*Related: C-2621, C-2622, C-2623, N-1207, N-1208*
+*Related: C-2621, C-2622, C-2623*
 
 **A-1916.2** Han Solo Comment — asks investigative questions about pressure points, Andrew Kolb's role, and end-state of the case
 
@@ -133,7 +133,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:00:31–01:01:31
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-1209*
+*Related:*
 
 ---
 
@@ -344,7 +344,7 @@ Claim: The defense has filed a motion seeking to continue the preliminary hearin
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain certified copy of the filed motion and confirm filing date and assigned judge.
 
@@ -456,7 +456,7 @@ Claim: The state indicated it intends to present at the preliminary hearing thre
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify witness list filing and prosecution's stated intention to proceed without supporting expert testimony.
 
@@ -512,7 +512,7 @@ Claim: Kim Haven, identifying as a nurse, asserted in a YouTube comment that doc
 
 Anchored Artifacts: A-1916.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Review standard hospital death-disclosure protocols; obtain Frank Turek's original statement context.
 
@@ -526,7 +526,7 @@ Claim: Kim Haven asserted in her YouTube comment that Frank Turek is "absolutely
 
 Anchored Artifacts: A-1916.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Identify and locate Frank Turek's original statement; reconcile with hospital staff logs.
 
@@ -540,7 +540,7 @@ Claim: The host concurs with Kim Haven's assessment that Frank Turek's account o
 
 Anchored Artifacts: A-1916.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Compare timing against typical trauma-team workflow; obtain official timeline from hospital.
 

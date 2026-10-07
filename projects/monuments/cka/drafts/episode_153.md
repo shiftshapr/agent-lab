@@ -168,7 +168,7 @@ Video Timestamp: 00:48:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (bio info read on air)
 
-*Related: C-3481, C-3482, N-1207, N-2324*
+*Related: C-3481, C-3482, N-2324*
 
 ---
 
@@ -223,7 +223,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2389.1, A-2389.2, A-2391.1, C-3478, C-3479, C-3480, C-3481, C-3482, C-3483, N-? (Tyler Robinson), N-? (Jim Spencer), N-1209, N-1210*
+*Related: A-2389.1, A-2389.2, A-2391.1, C-3478, C-3479, C-3480, C-3481, C-3482, C-3483, N-? (Tyler Robinson), N-? (Jim Spencer), N-1210*
 
 ---
 

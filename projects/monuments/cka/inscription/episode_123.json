@@ -256,21 +256,6 @@
   ],
   "nodes": [
     {
-      "@type": "Topic",
-      "@id": "N-2107",
-      "ref": "N-2107",
-      "name": "Node 2107",
-      "type": "topic",
-      "description": "",
-      "related_artifacts": [],
-      "related_claims": [],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 0,
-      "episode_count": 1,
-      "investigative_pressure": "low"
-    },
-    {
       "@type": "InvestigationTarget",
       "@id": "N-1207",
       "ref": "N-1207",

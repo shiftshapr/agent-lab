@@ -407,7 +407,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-890 (Tracy Martin), N-45 (Rob McCoy),  (Pastor Luke)*
+*Related: N-890 (Tracy Martin), N-45 (Rob McCoy), (Pastor Luke)*
 
 **N-1559** Egyptian Plane Communication Investigation
 

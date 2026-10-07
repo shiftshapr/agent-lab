@@ -69,7 +69,7 @@ Video Timestamp: 00:03:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (image displayed)
 
-*Related: C-3087, C-3089, C-3104, N-2139, N-1207, N-1209*
+*Related: C-3087, C-3089, C-3104, N-2139*
 
 **A-2165.2** Side-by-side comparison photographs — recreation by host's team of nitrile glove appearance in a comparable door compartment
 
@@ -101,7 +101,7 @@ Video Timestamp: 00:10:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3094, C-3095, N-1207, N-1208*
+*Related: C-3094, C-3095*
 
 **A-2166.2** Local news live footage (cited as Fox 5 Atlanta newsroom feed out of Utah) of group walking into Timpanogos Regional Hospital; timing anchored to Donald Trump tweet posted at 1:02 PM local time
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:18:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (news segment displayed; Trump tweet quoted)
 
-*Related: C-3094, C-3095, N-1207*
+*Related: C-3094, C-3095*
 
 **A-2167** Mikey McCoy Call Logs Bundle
 
@@ -123,7 +123,7 @@ Video Timestamp: 00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (logs displayed)
 
-*Related: C-3092, C-3093, C-3096, N-2141, N-1208*
+*Related: C-3092, C-3093, C-3096, N-2141*
 
 **A-2168** Blake Neff Audio Bundle
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3092, C-3097, N-1207*
+*Related: C-3092, C-3097*
 
 **A-2169** Sandy Hook Comparison Rhetoric Bundle
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:45:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3101, N-1207, N-2140*
+*Related: C-3101, N-2140*
 
 **A-2169.4** Viva Frei clip on the Charlie Kirk Show invoking "Sandy Hook 2.0" framing of conspiracy theories around Kirk's death
 
@@ -333,7 +333,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2167.1, A-2168.1, C-3092, C-3093, C-3096, C-3097, N-1207, N-1208*
+*Related: A-2167.1, A-2168.1, C-3092, C-3093, C-3096, C-3097*
 
 **N-2142** Daily Mail Article Source Identity
 
@@ -512,7 +512,7 @@ Claim: A Fox 5 Atlanta newsroom feed shows Blake Neff, Danny Philip, Mikey McCoy
 
 Anchored Artifacts: A-2166.2, A-2166.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain unedited newsroom feed; cross-reference internal TPUSA communications and hospital entry logs.
 
@@ -526,7 +526,7 @@ Claim: Blake Neff and Danny Philip arrived at Timpanogos in the same SUV, distin
 
 Anchored Artifacts: A-2166.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify rental records for both SUVs (previously described as rented by Mikey McCoy); confirm passenger assignments.
 

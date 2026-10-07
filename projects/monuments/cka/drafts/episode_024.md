@@ -414,7 +414,7 @@ Claim: Lindsey Graham stated at the Republican Jewish Coalition that anti-Israel
 
 Anchored Artifacts: A-1313.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Obtain the full RJC transcript or video to confirm exact wording, context, and whether the statement was made in a public or closed session.
 
@@ -428,7 +428,7 @@ Claim: Randy Fine stated on stage at the Republican Jewish Coalition that "Tucke
 
 Anchored Artifacts: A-1313.2
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify the full RJC recording for the complete quote and any surrounding context.
 
@@ -442,7 +442,7 @@ Claim: Host characterizes Lindsey Graham's RJC statement as "great messaging" sa
 
 Anchored Artifacts: A-1313.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: This is host concurrence / interpretive stance; verification requires only that A-1313.1 captures the original statement.
 
@@ -624,7 +624,7 @@ Claim: Host characterizes Ben Shapiro's segment attacking Tucker Carlson as "a v
 
 Anchored Artifacts: A-1314.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: This is a host interpretive stance; verification is anchored to A-1314.1.
 

@@ -89,7 +89,7 @@ Video Timestamp: 00:12:48–00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2051, N-704, *
+*Related: C-2051, N-704*
 
 ---
 
@@ -267,7 +267,7 @@ Video Timestamp: 00:46:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (host-read advertisement)
 
-*Related: C-2070*
+*Related:*
 
 ---
 
@@ -400,7 +400,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1609.1, N-703, *
+*Related: A-1609.1, N-703*
 
 ---
 
@@ -729,7 +729,7 @@ Claim: A commenter identified as "67" sent a donation from Argentina.
 
 Anchored Artifacts: A-1613.3
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: No investigative direction.
 
@@ -743,7 +743,7 @@ Claim: A commenter posted this endorsement phrase.
 
 Anchored Artifacts: A-1613.4
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: No investigative direction.
 
@@ -757,7 +757,7 @@ Claim: A commenter asked "What the hell is America's law enforcement? Is everybo
 
 Anchored Artifacts: A-1613.5
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: No investigative direction.
 
@@ -771,7 +771,7 @@ Claim: A commenter expressed admiration and concern for children.
 
 Anchored Artifacts: A-1613.6
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: No investigative direction.
 
@@ -785,7 +785,7 @@ Claim: A commenter urged non-voting for congressional Zionism supporters.
 
 Anchored Artifacts: A-1613.7
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: No investigative direction.
 
@@ -799,7 +799,7 @@ Claim: A commenter described being challenged on Facebook by someone mocking the
 
 Anchored Artifacts: A-1613.8
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: No investigative direction.
 
@@ -813,25 +813,12 @@ Claim: A host-read advertisement claimed 7 million American women suffer severe,
 
 Anchored Artifacts: A-1615.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify the cited statistic against peer-reviewed studies on post-abortion emotional outcomes.
 
 ---
 
-**C-2070** Nimi Skincare sponsorship: US-made, includes Bible verse in box, code candace10
-
-Claim Timestamp: 00:46:09
-
-Claim: A host-read advertisement stated that Nimi Skincare is made in the USA and includes a Bible verse inside each box; promo code "candace10" offered.
-
-Anchored Artifacts: A-1616.1
-
-Related Nodes: 
-
-Investigative Direction: No investigative direction; commercial content.
-
----
 
 **C-2071** Mark Burnett named as Johnny Moore's Hollywood employer
 

@@ -68,7 +68,7 @@ Video Timestamp: 00:04:57–00:06:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2494, C-2495, C-2496, C-2497, N-1207, N-1218, N-1619*
+*Related: C-2494, C-2495, C-2496, C-2497, N-1218, N-1619*
 
 ---
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:07:42–00:10:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2498, C-2499, N-? Donald Trump, N-1207*
+*Related: C-2498, C-2499, N-? Donald Trump*
 
 ---
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:14:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2500, N-1210, N-1207*
+*Related: C-2500, N-1210*
 
 ---
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2501, C-2502, N-1211, N-1207*
+*Related: C-2501, C-2502, N-1211*
 
 ---
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:15:07–00:15:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2503, N-1212, N-1207, N-1221, N-1218*
+*Related: C-2503, N-1212, N-1221, N-1218*
 
 ---
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:15:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2504, N-1213, N-1207*
+*Related: C-2504, N-1213*
 
 ---
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:16:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2505, N-1214, N-1207, N-209*
+*Related: C-2505, N-1214, N-209*
 
 ---
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:20:55–00:22:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2506, N-1209*
+*Related: C-2506*
 
 ---
 
@@ -237,7 +237,7 @@ Video Timestamp: 00:47:24–00:48:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2512, C-2513, N-1208, N-1617*
+*Related: C-2512, C-2513, N-1617*
 
 ---
 
@@ -320,7 +320,7 @@ Claim Count: 9
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1872.1, A-1873.1, A-1874.1, A-1875.1, A-1876.1, C-2512, C-2513, C-2514, C-2515, C-2516, C-2517, C-2518, C-2519, C-2520, N-? Netanyahu, N-1208, N-1216, N-1219*
+*Related: A-1872.1, A-1873.1, A-1874.1, A-1875.1, A-1876.1, C-2512, C-2513, C-2514, C-2515, C-2516, C-2517, C-2518, C-2519, C-2520, N-? Netanyahu, N-1216, N-1219*
 
 ---
 
@@ -346,7 +346,7 @@ Claim Count: 7
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1861.1, A-1862.1, A-1863.1, A-1864.1, A-1864.2, A-1865.1, A-1866.1, A-1867.1, C-2498, C-2499, C-2500, C-2501, C-2502, C-2503, C-2504, C-2505, N-1207*
+*Related: A-1861.1, A-1862.1, A-1863.1, A-1864.1, A-1864.2, A-1865.1, A-1866.1, A-1867.1, C-2498, C-2499, C-2500, C-2501, C-2502, C-2503, C-2504, C-2505*
 
 ---
 
@@ -537,7 +537,7 @@ Claim: Theo Von publicly characterized Israeli political leaders as feeling like
 
 Anchored Artifacts: A-1868.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Confirm against the original Theo Von podcast episode and timestamp.
 

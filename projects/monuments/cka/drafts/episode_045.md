@@ -391,7 +391,7 @@ Claim Timestamp: 00:29:23
 Claim: Tucker Carlson stated he does not have confidence in the FBI or the men who run it, and noted that the FBI has publicly stated it possesses both a confession from the suspect (in his text to his boyfriend) and the murder weapon with his fingerprints.
 
 Anchored Artifacts: A-1528.4, A-1528.5
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Compare Tucker's stated concerns with the official FBI affidavit and any public DOJ statements; identify what additional evidence the FBI has declined to disclose.
 
@@ -443,7 +443,7 @@ Claim Timestamp: 00:40:52
 Claim: Joint Task Force at Fort Huachuca operates out of an unmarked building that has been converted to a Sensitive Compartmented Information Facility (SCIF), now surrounded by barbed wire, with cell phones and personal electronics prohibited and top secret clearance required for access.
 
 Anchored Artifacts: A-1532.1
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Cross-reference with public DoD facility records, news coverage of SCIF construction at Fort Huachuca, and any base expansion announcements.
 

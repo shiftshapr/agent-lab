@@ -436,7 +436,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 Host argues lone-shooter framing obscures networks; cites Crooks + Kirk cases.
 
-*Related: *
+*Related:*
 
 ---
 
@@ -456,7 +456,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 Hexagonal beehive flag tied to Mormon pioneer 'common good' / Soviet worker-bee imagery.
 
-*Related: *
+*Related:*
 
 ---
 
@@ -466,7 +466,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 Host thesis: US public schools shaped by 1848 communist ideology; references Sowell & Schurz.
 
-*Related: *
+*Related:*
 
 ---
 
@@ -594,7 +594,7 @@ Node Type: Place
 Place Kind: state
 Site of Kirk assassination; the 'Beehive State'; hexagonal beehive flag.
 
-*Related: *
+*Related:*
 
 ---
 
@@ -604,7 +604,7 @@ Node Type: Place
 Place Kind: city_region
 Destination of Candace's premonition UK trip; meeting site for husband.
 
-*Related: *
+*Related:*
 
 ---
 
@@ -624,7 +624,7 @@ Node Type: Place
 Place Kind: country
 Host cites 1848 communist uprising; kindergarten-establishment origin.
 
-*Related: *
+*Related:*
 
 ---
 

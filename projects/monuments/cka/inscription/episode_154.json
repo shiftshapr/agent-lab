@@ -33,7 +33,7 @@
             "C-3511"
           ],
           "related_nodes": [
-            "N-1031",
+            "N-2",
             "N-4",
             "N-1209",
             "N-2330"
@@ -62,7 +62,7 @@
             "C-3497"
           ],
           "related_nodes": [
-            "N-1031",
+            "N-2",
             "N-3",
             "N-4",
             "N-2332"
@@ -118,7 +118,7 @@
             "C-3498"
           ],
           "related_nodes": [
-            "N-1031",
+            "N-2",
             "N-3",
             "N-2332"
           ],
@@ -147,7 +147,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-1031",
+            "N-2",
             "N-2331"
           ],
           "tags": [],
@@ -174,7 +174,7 @@
             "C-3501"
           ],
           "related_nodes": [
-            "N-1031",
+            "N-2",
             "N-2331"
           ],
           "tags": [],
@@ -201,7 +201,7 @@
             "C-3500"
           ],
           "related_nodes": [
-            "N-1031",
+            "N-2",
             "N-2331"
           ],
           "tags": [],
@@ -427,7 +427,7 @@
             "C-3500"
           ],
           "related_nodes": [
-            "N-1031",
+            "N-2",
             "N-3",
             "N-4",
             "N-2331"
@@ -511,7 +511,7 @@
             "C-3511"
           ],
           "related_nodes": [
-            "N-1031",
+            "N-2",
             "N-2330"
           ],
           "tags": [],
@@ -566,35 +566,6 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-1031",
-      "ref": "N-1031",
-      "name": "Erica Kirk (transcript variants: \"Erika Kirk\" / \"Erica Kirk\")",
-      "type": "investigation_target",
-      "description": "Existing; subject of Nampa Christian School event and Empress Films call claims.",
-      "related_artifacts": [
-        "A-2393.1",
-        "A-2398.1",
-        "A-2399.1",
-        "A-2403.1",
-        "A-2404.1"
-      ],
-      "related_claims": [
-        "C-3500",
-        "C-3501",
-        "C-3510"
-      ],
-      "tags": [],
-      "evidence_count": 5,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high",
-      "related_nodes": [
-        "N-2331",
-        "N-2334"
-      ]
     },
     {
       "@type": "Person",
@@ -696,7 +667,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1031",
+        "N-2",
         "N-1209"
       ]
     },
@@ -728,7 +699,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-1031",
+        "N-2",
         "N-4"
       ]
     },
@@ -754,7 +725,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-1031",
+        "N-2",
         "N-3",
         "N-4"
       ]
@@ -800,7 +771,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-1031",
+        "N-2",
         "N-4",
         "N-1207",
         "N-1208",
@@ -907,7 +878,7 @@
         "A-2393.1"
       ],
       "related_nodes": [
-        "N-1031",
+        "N-2",
         "N-4",
         "N-2330"
       ],
@@ -925,7 +896,7 @@
         "A-2393.1"
       ],
       "related_nodes": [
-        "N-1031",
+        "N-2",
         "N-2330"
       ],
       "tags": [],
@@ -942,7 +913,7 @@
         "A-2393.1"
       ],
       "related_nodes": [
-        "N-1031",
+        "N-2",
         "N-4",
         "N-2330",
         "N-2333"
@@ -961,7 +932,7 @@
         "A-2394.1"
       ],
       "related_nodes": [
-        "N-1031",
+        "N-2",
         "N-3",
         "N-4",
         "N-2332"
@@ -1000,7 +971,7 @@
       ],
       "related_nodes": [
         "N-1",
-        "N-1031",
+        "N-2",
         "N-2331"
       ],
       "tags": [],
@@ -1018,7 +989,7 @@
         "A-2403.1"
       ],
       "related_nodes": [
-        "N-1031",
+        "N-2",
         "N-2331"
       ],
       "tags": [],
@@ -1035,7 +1006,7 @@
         "A-2398.1"
       ],
       "related_nodes": [
-        "N-1031",
+        "N-2",
         "N-2331"
       ],
       "tags": [],
@@ -1190,7 +1161,7 @@
       "claim": "On August 28, 2025, Erika Kirk and Andrew Kolvet participated in a call with Empress Films executives, including executive producer Eben Davidson (LA office; ex-Paramount) and founder Emma Cooper, plus two unnamed producers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-1031",
+        "N-2",
         "N-4",
         "N-2334"
       ],
@@ -1208,7 +1179,7 @@
         "A-2404.1"
       ],
       "related_nodes": [
-        "N-1031",
+        "N-2",
         "N-2330"
       ],
       "tags": [],

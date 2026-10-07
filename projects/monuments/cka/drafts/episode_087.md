@@ -71,7 +71,7 @@ Confidence Level: Medium
 
 *Display excerpt:* "this article in the New York Times back in 2012 says a friendship dating to to 1976 resonates in 2012, and that is about, and it goes in, and you should read it, about their remarkable friendship."
 
-*Related: C-2626, N-1207, N-1208, N-1648*
+*Related: C-2626, N-1648*
 
 ---
 
@@ -115,7 +115,7 @@ Confidence Level: Medium
 
 *Display details read aloud:* "president and COO of Built Incorporated, which is based in Dallas-Fort Worth, Texas... he is the commanding officer, the headquarters of the East Coast... a captain... May 2024 to present... co-founded Built back in 2015 when he was full-time as an O5."
 
-*Related: C-2629, C-2630, C-2631, N-1209, N-1211, N-1652*
+*Related: C-2629, C-2630, C-2631, N-1211, N-1652*
 
 ---
 
@@ -131,7 +131,7 @@ Confidence Level: Medium
 
 *Data points read aloud:* "first little contract is a $50,000 contract way back in 2019... 3.1 million... $185,000, we've got 49,000... 4.9, 2.4... June 1 and June 16 of 2025... 7.4 million from the Air Force and just under a quarter million from the Navy."
 
-*Related: C-2631, C-2632, N-1209, N-1211, N-1652*
+*Related: C-2631, C-2632, N-1211, N-1652*
 
 **A-1920.2** Baron Coleman Audio Clip — Built Inc. Contract Analysis
 
@@ -157,7 +157,7 @@ Confidence Level: Medium
 
 *Display details read aloud:* "vice president of their user experience... Gina Romney also went to BYU."
 
-*Related: C-2633, N-1212, N-1207, N-1648*
+*Related: C-2633, N-1212, N-1648*
 
 ---
 
@@ -213,7 +213,7 @@ Video Timestamp: 00:29:30–00:30:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2641, C-2645, N-1219, N-1207*
+*Related: C-2641, C-2645, N-1219*
 
 ---
 
@@ -255,7 +255,7 @@ Confidence Level: Medium
 
 *Quoted text:* "They eliminated the Ron Paul threat at Romney's 2012 convention with a fake floor vote changing the delegate rule... 2012 was when Charlie Kirk fell in love with free markets and liberty."
 
-*Related: C-2626, N-1207, N-1*
+*Related: C-2626, N-1*
 
 **A-1926.3** Amar Ramusa Comment — BYU Physicist Steven Jones / 9/11 Thermite Study
 
@@ -294,7 +294,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1917.1, A-1921.1, A-1924.2, A-1926.2, C-2626, C-2633, C-2641, C-2648, N-1208, N-1648*
+*Related: A-1917.1, A-1921.1, A-1924.2, A-1926.2, C-2626, C-2633, C-2641, C-2648, N-1648*
 
 **N-1208** Brooksby Suicide Narrative Discrepancy
 
@@ -305,7 +305,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1917.1, C-2626, N-1207, N-1648*
+*Related: A-1917.1, C-2626, N-1648*
 
 **N-1209** Robinson Apartment Staging Allegation
 
@@ -327,7 +327,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1918.1, A-1918.2, C-2627, C-2629, N-1209, N-1653*
+*Related: A-1918.1, A-1918.2, C-2627, C-2629, N-1653*
 
 **N-1211** UVU Campus Familiarity Question
 
@@ -338,7 +338,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1919.1, A-1920.1, C-2631, C-2633, C-2637, N-1209, N-1212, N-1213, N-1652*
+*Related: A-1919.1, A-1920.1, C-2631, C-2633, C-2637, N-1212, N-1213, N-1652*
 
 **N-1212** Phil Lyman Location Discrepancy
 
@@ -349,7 +349,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1921.1, C-2633, C-2641, N-1207, N-1211, N-1648, N-57*
+*Related: A-1921.1, C-2633, C-2641, N-1211, N-1648, N-57*
 
 **N-1213** Unidentified Goth Person in Broderick Companion Photo
 
@@ -426,7 +426,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1924.2, C-2645, C-2648, N-1207, N-1654*
+*Related: A-1924.2, C-2645, C-2648, N-1654*
 
 **N-1220** Case-Personnel Cluster Anomalies
 
@@ -461,7 +461,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1917.1, A-1921.1, A-1924.2, C-2626, C-2633, C-2648, N-1207, N-1208, N-1212*
+*Related: A-1917.1, A-1921.1, A-1924.2, C-2626, C-2633, C-2648, N-1212*
 
 **N-1649** BYU Jerusalem CIA Recruitment Question
 
@@ -505,7 +505,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1919.1, A-1920.1, A-1920.2, C-2631, C-2632, N-1209, N-1211*
+*Related: A-1919.1, A-1920.1, A-1920.2, C-2631, C-2632, N-1211*
 
 **N-1653** Decoy Subject Investigation (Karashy/Qureshi)
 
@@ -527,7 +527,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1924.2, C-2648, N-1207, N-1219*
+*Related: A-1924.2, C-2648, N-1219*
 
 **N-1655** Andrew Zenger CIA Contract Work Question
 

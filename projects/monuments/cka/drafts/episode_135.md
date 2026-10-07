@@ -38,7 +38,7 @@ Video Timestamp: 00:06:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3175, C-3176, N-1208*
+*Related: C-3175, C-3176*
 
 **A-2218** Academic Audio Clip Bundle
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:10:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3184, N-1208*
+*Related: C-3184*
 
 **A-2219** Brian Harpole Preliminary Hearing Audio Bundle
 
@@ -132,7 +132,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1208, N-1209, N-2166*
+*Related: N-2166*
 
 **N-1208** Brooksby Suicide Narrative Discrepancy
 
@@ -143,7 +143,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2217.1, A-2218.1, C-3175, C-3176, C-3184, N-1207, N-1214, N-69*
+*Related: A-2217.1, A-2218.1, C-3175, C-3176, C-3184, N-1214, N-69*
 
 **N-1209** Robinson Apartment Staging Allegation
 
@@ -154,7 +154,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1207, N-2166*
+*Related: N-2166*
 
 **N-1210** Phil Lyman Proximity and Behavior Investigation
 
@@ -209,7 +209,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-1208, N-69, N-2167*
+*Related: N-69, N-2167*
 
 **N-2164** Timpanogos Hospital Evacuation Tip
 
@@ -242,7 +242,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2220.2, C-3181, N-1207, N-1209, N-2*
+*Related: A-2220.2, C-3181, N-2*
 
 **N-2167** Shaped Charge / Exploding Microphone Hypothesis
 
@@ -287,7 +287,7 @@ Claim: The displayed "Play Like a Fangirl" book listing on Penguin Random House 
 
 Anchored Artifacts: A-2217.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Confirm authorship via Penguin Random House's official catalog or Library of Congress records; cross-reference Ashley's CV.
 
@@ -299,7 +299,7 @@ Claim: The displayed book description states the work examines how women and que
 
 Anchored Artifacts: A-2217.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Verify description against Penguin Random House's official book page.
 
@@ -395,7 +395,7 @@ Claim: Per the played audio attributed to Dr. Ashley Brown Guajardo, erotic role
 
 Anchored Artifacts: A-2218.1
 
-Related Nodes: 
+Related Nodes:
 
 Investigative Direction: Locate the original source recording (lecture, podcast, conference talk) and verify attribution to Ashley Brown Guajardo.
 

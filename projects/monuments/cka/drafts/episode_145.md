@@ -51,7 +51,7 @@ Video Timestamp: 00:13:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3328, C-3329, N-1209*
+*Related: C-3328, C-3329*
 
 ---
 
@@ -65,7 +65,7 @@ Video Timestamp: 00:07:38–00:08:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3326, C-3327, N-1207, N-1208, N-1, N-2*
+*Related: C-3326, C-3327, N-1, N-2*
 
 ---
 
@@ -256,7 +256,7 @@ Claim Timestamp: 00:13:27
 Claim: The host encountered Justin Baldoni, his wife, and two children at an Iceland airport during a layover from Sweden; the encounter is documented by an on-screen photograph.
 
 Anchored Artifacts: A-2310.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Independent corroboration of the encounter is achievable via flight manifests or third-party witnesses.
 
 ---
@@ -268,7 +268,7 @@ Claim Timestamp: 00:14:29
 Claim: Justin Baldoni informed the host he was on a layover from Sweden, where his wife is from, when the encounter occurred.
 
 Anchored Artifacts: A-2310.1
-Related Nodes: 
+Related Nodes:
 Investigative Direction: Verify via flight records or independent statements from Baldoni or his representatives.
 
 ---
